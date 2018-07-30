@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2018-03-26"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1001,11 +1001,13 @@ Cuando este Código prevea la disminución o el aumento de una punibilidad con r
 
 La punibilidad aplicable para los delitos culposos será la mitad de la asignada por la ley al delito doloso correspondiente; sin embargo, cuando el delito doloso de referencia tenga señalada pena privativa de libertad, o sea de prisión preventiva oficiosa, el delito culposo se sancionará con prisión de tres meses a ocho años, salvo los casos en que expresamente se haya estipulado punibilidad específica.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JULIO DE 2018)</small>
+
+###### Artículo 99.
+
+Independientemente de la reparación de los daños y perjuicios, cuando culposamente se ocasione únicamente daño en propiedad ajena, se aplicará la mitad de la punibilidad pecuniaria prevista por el artículo 203 de este Código, conforme al monto del daño causado. Si el daño en la propiedad es causado bajo el influjo de bebidas alcohólicas, se impondrá también al responsable, la suspensión de su licencia vigente para conducir vehículos automotores expedida por cualquier instancia o la inhabilitación para obtenerla, suspensión o inhabilitación que podrá ser por una temporalidad de dos a diez años.
+
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
-
-###### ARTICULO 99.
-
-Independientemente de la reparación de los daños y perjuicios, cuando culposamente se ocasione únicamente daño en propiedad ajena, sólo se aplicará la mitad de la punibilidad pecuniaria prevista por el artículo 203 de este Código, conforme al monto del daño causado.
 
 Cuando culposamente y con motivo del tránsito de vehículos se causen lesiones cualquiera que sea su naturaleza, sólo se procederá a petición del ofendido o de su representante, siempre que el conductor no se hubiese encontrado en estado de ebriedad o bajo el influjo de estupefacientes o cualquier otra sustancia que produzca efectos similares, o no se haya dejado abandonada a la víctima.
 
@@ -1543,11 +1545,13 @@ Si en los casos anteriores se causan lesiones, se impondrá una cuarta parte má
 
 Además, en su caso, se impondrá al agente la suspensión del empleo, cargo o comisión e inhabilitación para obtener otro de la misma naturaleza y de la licencia para conducir, hasta por cinco años.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
-###### ARTICULO 149.
+###### Artículo 149.
 
-Al que, con motivo del manejo de vehículos, prive de la vida a otro, conduciendo en estado de ebriedad o bajo el influjo de estupefacientes o cualquier otra sustancia que cause similares efectos y tal violación de deber de cuidado de la gente haya sido la causa determinante de la producción del resultado típico, se le impondrá punibilidad de cuatro a diez años de prisión, multa de hasta 200 días e inhabilitación para obtener licencia para conducir hasta por cinco años, sin perjuicio de lo establecido por los artículos siguientes del presente capítulo.
+Al que, con motivo del manejo de vehículos, prive de la vida a otro, conduciendo en estado de ebriedad o bajo el influjo de estupefacientes o cualquier otra sustancia que cause similares efectos y tal violación de deber de cuidado de la gente haya sido la causa determinante de la producción del resultado típico, se le impondrá de cuatro a diez años de prisión y multa de hasta 200 veces el valor diario de la unidad de medida y actualización, sin perjuicio de lo establecido por los artículos siguientes del presente capítulo.
+
+Aunado a las penas que correspondan por el delito de lesiones y homicidio causados conduciendo en estado de ebriedad o bajo el influjo de estupefacientes o cualquier otra sustancia que cause similares efectos, se impondrá al responsable la suspensión de su licencia vigente para conducir vehículos automotores expedida por cualquier instancia o la inhabilitación para obtenerla, suspensión o inhabilitación que podrá ser por una temporalidad de dos a diez años.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -2193,9 +2197,9 @@ Se duplicará la punibilidad prevista en los artículos anteriores, si el robo s
 
 I.- Cuando se ejerza violencia para proporcionarse a la fuga o defender lo robado;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
-II.- En lugar cerrado, habitado o destinado para habitación o sus dependencias, comprendiendo no solo los que estén fijos en la tierra sino también los móviles, cualquiera que sea el material con el que estén construidos.
+II. En instituciones públicas de salud, en instituciones educativas o en lugar cerrado, habitado o destinado para habitación o sus dependencias, comprendiendo no solo los que estén fijos en la tierra sino también los móviles, cualquiera que sea el material con el que estén construidos.
 
 III.- (DEROGADA, P.O. 14 DE ENERO DE 2002)
 
@@ -3475,7 +3479,9 @@ II.- Valiéndose de la información que posea por razón de su empleo, cargo o c
 
 ### CAPITULO VII. ULTRAJES A LA AUTORIDAD
 
-### CAPITULO VIII. USURPACION DE FUNCIONES PUBLICAS Y USO INDEBIDO DE UNIFORMES Y CONDECORACIONES
+### CAPITULO VIII
+
+USURPACIÓN DE FUNCIONES PÚBLICAS Y EN MATERIA DE SERVICIOS DE SEGURIDAD PRIVADA Y USO INDEBIDO DE UNIFORMES, CONDECORACIONES Y ADITAMENTOS PROPIOS DE FUNCIONES POLICIALES
 
 ### CAPITULO IX. USO ILICITO DE ATRIBUCIONES Y FACULTADES RELACIONADO (SIC) CON PARTICULARES
 
@@ -3583,15 +3589,31 @@ Al que de palabra o de obra ultraje a una autoridad en el ejercicio de sus funci
 
 Para los efectos de esta disposición, se entiende por ultraje toda acción o expresión ejecutada con el ánimo de denigrar u ofender a algún funcionario o agente de la autoridad.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JULIO DE 2018)</small>
+
 ### CAPITULO I. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
 ###### ARTICULO 321.
 
 Se impondrá de seis meses a tres años de prisión y de 10 a 50 días multa, al que:
 
-I.- Sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal; o
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
+I.- Sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
 
 II.- Usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura a que correspondan aquellos.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+III. Preste servicios privados de seguridad o se ostente como prestador de los mismos, sin contar con la autorización y registro legalmente requeridos; o
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IV. Sin derecho use, posea, instale o permita el uso o instalación de torretas, sirenas, insignias, luces estroboscópicas o cualquier otro aditamento propio de las funciones policiales, en un vehículo particular.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+Se duplicará la punibilidad prevista en este artículo, cuando cualquiera de las conductas sancionadas se lleve a cabo para la comisión de otro delito, aún en grado de tentativa, siempre y cuando sea punible.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE JULIO DE 2017)</small>
 
@@ -3859,15 +3881,11 @@ Cuando un abogado sea autor o partícipe en la comisión de este tipo penal, ade
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
-
 ###### ARTICULO 324.
 
 Al que con propósito de inculpar a alguien como responsable de un delito ante la autoridad, le impute un hecho falso o simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad, se le impondrá prisión de seis meses a tres años y de 10 a 50 días multa.
 
 ### CAPITULO II. DELITOS ELECTORALES COMETIDOS POR PARTICULARES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 325.
 
@@ -3905,8 +3923,6 @@ Cuando la evasión de presos la propicien dos o más personas, la punibilidad pr
 
 ### CAPITULO III. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS ELECTORALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
 ###### ARTICULO 330.
 
 A quien incumpla una pena no privativa de libertad o medida de seguridad que se le hubiere impuesto, haciendo uso de la violencia o causando daños, se le aplicará prisión de tres a seis meses o multa de 5 a 25 días, sin perjuicio de los delitos que pudieren resultar.
@@ -3916,8 +3932,6 @@ Al que favorezca el incumplimiento de la pena o medida de seguridad, se le impon
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO IV. DELITOS ELECTORALES COMETIDOS POR SERVIDORES PUBLICOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 331.
 
@@ -3955,8 +3969,6 @@ El encubrimiento se perseguirá a petición de parte ofendida, cuando se refiera
 
 ### CAPITULO V. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS PARTIDISTAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
 ###### ARTICULO 332.
 
 Al que para hacer efectivo un derecho o pretendido derecho que debe ejercitar por vía legal, empleare violencia, se le aplicará prisión de tres meses a tres años y de 10 a 40 días multa. Este delito se perseguirá a petición de parte ofendida.
@@ -3989,7 +4001,7 @@ Los litigantes sólo cometerán estos delitos, cuando no sean ostensiblemente pa
 
 ## TITULO VIGESIMO. DE LOS DELITOS EN MATERIA ELECTORAL
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 334.
 
@@ -4145,7 +4157,7 @@ ARTICULO 349 BIS.- Al que extraiga, corte, utilice, destruya, comercialice, tran
 
 Al que con el propósito de lucro, para sí o para otro, dé un destino distinto al señalado en la resolución de dotación o restitución de tierras ejidales o comunales, sean provisionales o definitivas, o en certificado de derechos agrarios, compre, enajene, arriende, ceda o de cualquier forma grave ilegalmente en todo o en parte los derechos de usufructo o tendencia de dichas tierras, violando disposiciones locales o municipales, se aplicará una pena de dos a ocho años de prisión y multa de 20 a 200 días.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2018)</small>
 
 ## TITULO VIGESIMO PRIMERO. DE LOS DELITOS COMETIDOS POR LOS FRACCIONADORES
 
@@ -4153,377 +4165,47 @@ Al que con el propósito de lucro, para sí o para otro, dé un destino distinto
 
 ###### ARTICULO 351.
 
-Para efectos del presente Título, se entiende por:
+(DEROGADO, P.O. 30 DE JULIO DE 2018)
 
-I.- Funcionarios Electorales: Quienes en términos de las legislaciones aplicables, integren los organismos electorales administrativos y jurisdiccionales;
-
-II.- Servidor Público: Las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal y Municipal, sea cual fuere la forma de su elección o nombramiento;
-
-III.- Funcionario Partidista: Persona que ocupa algún cargo de dirección dentro de un partido político, agrupación o asociación política, así como la persona designada por un partido político para representarlo ante los órganos electorales;
-
-IV.- Propaganda Electoral: Conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que produzcan y difundan los partidos políticos, sus candidatos, fórmulas, planillas registradas y simpatizantes;
-
-V.- Candidatos: Los ciudadanos registrados formalmente como tales por la autoridad competente;
-
-VI.- Documentos Electorales: Es el conjunto de instrumentos que sirven para desarrollar la tarea pública de efectuar elecciones, dentro de las cuales se encuentran las boletas; actas de la jornada electoral, escrutinio y cómputo de cada una de las elecciones; paquetes electorales; las actas circunstanciadas de las sesiones de cómputo de los Consejos Municipales y Distritales y Cómputos de Circunscripción y, en general, todos los documentos y actas expedidos en el ejercicio de sus funciones por los órganos electorales; y
-
-VII.- Material Electoral: Los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 352.
 
-Se impondrá prisión de tres meses a cinco años y multa de treinta a cien veces la Unidad de Medida y Actualización vigente, a quien:
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-I.- Vote a sabiendas que está impedido por la Ley;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-II.- Vote más de una vez en una misma elección;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-III.- Se presente a votar con una credencial de la que no sea titular;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-IV.- Suplante a otro votante en la jornada electoral;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-V.- Obstaculice o interfiera el desarrollo normal del proceso electoral;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VI.- Se presente a una casilla electoral portando armas, independientemente de cualquier otro delito que resulte;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VII.- Haga proselitismo o presione a los electores dentro de los tres días previos o el día de la jornada electoral, para que voten a favor o en contra de un determinado candidato, partido político o coalición, o para que se abstengan de emitir su sufragio;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VIII.- Induzca a uno o más electores a abstenerse de votar;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-IX.- Obligue a votar por determinado candidato, partido o coalición a las personas que se encuentren bajo su autoridad o dependencia económica;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-X.- Ejerza presión sobre los funcionarios de la mesa directiva de casilla, representantes de partido o de los electores, impidiendo el desarrollo normal de la jornada electoral;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XI.- Impida que una casilla electoral se instale oportunamente u obstruya su funcionamiento o clausura conforme a la Ley;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XII.- Acepte o difunda su candidatura para un cargo de elección popular sin reunir los requisitos de elegibilidad;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XIII.- Acepte nombramiento para el desempeño de alguna función electoral a sabiendas de que no reúne los requisitos legales;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XIV.- No teniendo el carácter de funcionario de casilla se ostente como tal o usurpe sus funciones, independientemente de cualquier otro delito que resulte;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XV.- Obstaculice o evite la entrega de documentos y material electoral a su destinatario durante el proceso electoral;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XVI.- Recoja sin causa prevista por la Ley, credenciales para votar con fotografía de los ciudadanos;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XVII.- Viole de cualquier manera el secreto del voto;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XVIII.- Obtenga o solicite declaración firmada del elector acerca de la intención o sentido del voto;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XIX.- Impida el desempeño de las funciones de los integrantes de los órganos electorales;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XX.- Introduzca, sustraiga, altere, destruya, se apodere o haga uso indebido de documentos o material electoral;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXI.- Indebidamente destruya o inutilice propaganda electoral;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXII.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXIII.- Obstaculice o se posesione de oficinas electorales, impida la entrada o salida de los funcionarios electorales;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXIV.- Propale noticias falsas en torno al desarrollo del proceso electoral o respecto de los resultados oficiales del cómputo de la elección;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXV.- Expida una o más facturas a un partido político o candidato, alterando el costo real de los servicios prestados;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXVI.- Impida u obstaculice la realización de actos de campaña;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXVII.- Dentro de los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXVIII.- Propale o divulgue en la casilla electoral la intención de su voto, pretendiendo inducir el sufragio de los demás electores;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXIX.- El día de la jornada impida el derecho del ciudadano de votar; y
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXX.- Obtenga o utilice fondos, bienes o servicios provenientes de actividades ilícitas, para la promoción del voto o actividades propias de los partidos políticos.
-
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
-
-Si en los casos anteriores se empleara violencia o fuesen cometidos por dos o más particulares o sean cometidos por servidores públicos, funcionarios electorales o partidistas, se aumentará hasta una mitad más la punibilidad aplicable prevista en este artículo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 30 DE JULIO DE 2018)
 
 ###### ARTICULO 353.
 
-Se impondrá prisión de seis meses a tres años y multa de cien a quinientas veces la Unidad de Medida y Actualización vigente, a los ministros de culto religioso que por cualquier medio en el desarrollo de actos propios de su ministerio, induzcan expresamente al electorado a la abstención, a votar en favor o en contra de un candidato, partido político o coalición.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 30 DE JULIO DE 2018)
 
 ###### ARTICULO 354.
 
-Se impondrá prisión de tres meses a cinco años y multa de cien a trescientas veces la Unidad de Medida y Actualización vigente, a quien se ostente como candidato de un partido político o coalición durante el proceso electoral, sin que hubiere sido registrado por el mismo.
+(DEROGADO, P.O. 30 DE JULIO DE 2018)
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 355.
 
-Se impondrá prisión de uno a seis años y multa de cincuenta a doscientas veces la Unidad de Medida y Actualización vigente, así como destitución del cargo o empleo, al funcionario electoral que:
+(DEROGADO, P.O. 30 DE JULIO DE 2018)
 
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-I.- Se abstenga de cumplir deliberadamente y sin causa justificada con sus obligaciones electorales, impidiendo el desarrollo normal del proceso electoral;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-II.- Obstruya el desarrollo normal de la votación;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-III.- Se rehúse a aceptar el voto de quien tenga derecho a emitirlo;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-IV.- Se niegue a reconocer, sin causa justificada, la personalidad de los representantes de los partidos políticos, coaliciones u observadores electorales, debidamente acreditados, o bien, les impidan el ejercicio de las atribuciones que les corresponden;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-V.- Instale, abra o cierre una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado o impida su instalación;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VI.- Teniendo en custodia el material o documentación electoral, se niegue a entregarlo cuando sea requerido por quien tenga derecho a ello;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VII.- Por sus acciones u omisiones imposibilite el cumplimiento de las etapas del proceso electoral;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VIII.- Altere los resultados electorales, sustituya, destruya o haga uso indebido de las boletas o documentos electorales;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-IX.- Durante el ejercicio de sus funciones ejerza presión sobre los electores o los induzca a votar por un candidato o partido determinado durante el proceso electoral;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-X.- Permita o tolere, que un ciudadano emita su voto a sabiendas que no cumple con los requisitos legales, o que se introduzcan ilícitamente una o más boletas electorales en las urnas;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XI.- Siendo funcionario de mesa directiva de casilla, consienta que la votación se lleve a cabo en forma ilegal; retenga u omita entregar a la autoridad electoral competente los paquetes electorales en los términos previstos por la Ley;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XII.- Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XIII.- Conociendo la existencia de condiciones o actividades que atenten con la libertad y el secreto del voto, no tome las medidas conducentes;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XIV.- Estando obligado, no dote oportunamente del material necesario para el funcionamiento de la casilla;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XV.- Solicite o retenga credenciales de elector, sin estar facultado legalmente para ello;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XVI.- Niegue o retarde la tramitación de los recursos interpuestos por los partidos políticos o sus representantes;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XVII.- Siendo funcionario de casilla, se abstenga de levantar debida y oportunamente las actas correspondientes u omita la entrega de las copias de ellas a los representantes de los partidos políticos;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XVIII.- Se niegue a hacer constar o informar oportunamente las violaciones en el desarrollo del proceso electoral;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XIX.- Al presidente de una casilla que dolosamente se abstenga de concurrir al lugar y a la hora señalados para la apertura e instalación de la misma, o se retire en forma definitiva de ella antes de la clausura, sin causa justificada prevista en la Ley;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XX.- Al integrante de los Consejos Distritales o Municipales electorales que no se presente, o se separe mientras no se concluyan los trabajos de la sesión de cómputo, entrega de la constancia de mayoría y declaración de validez de la elección respectiva;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXI.- Siendo presidente de casilla admita en la misma la presencia de personas distintas a las que legalmente puedan permanecer en ella; y
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XXII.- Consienta que la votación se lleve a cabo cometiendo cualquiera de los ilícitos previstos en este Título.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 356.
 
-Se impondrá prisión de uno a siete años y multa de cien a trescientas veces la Unidad de Medida y Actualización vigente, y destitución del cargo, empleo o comisión que desempeñe e inhabilitación para obtener algún cargo público hasta por cinco años, al servidor público que:
+(DEROGADO, P.O. 30 DE JULIO DE 2018)
 
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-I.- Se abstenga de dar cumplimiento a lo establecido en el artículo 205 de la Ley Electoral del Estado, cuando sea requerido por las autoridades electorales competentes;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-II.- Altere o inutilice un documento electoral, o a sabiendas lo presente o lo haga valer alterado;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-III.- Teniendo fe pública, certifique hechos falsos relativos a la función electoral, o sin causa justificada se niegue a dar fe de los actos en que debe intervenir en los términos de la Ley Electoral;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-IV.- Abusando de sus funciones, directamente o por instrucciones dadas a personas bajo su dependencia jerárquica, obtenga de los electores sufragios a favor de una candidatura determinada o los induzca a la abstención;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-V.- Prive de la libertad a los candidatos o representantes de un partido político, o personas que realicen actos de propaganda, pretextando faltas que no hayan cometido;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VI.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio a favor de un partido político, candidato o coalición;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VII.- Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como: vehículos, inmuebles, equipos y servicios, al apoyo de un partido político candidato o coalición sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que los presten al servicio de un partido político, candidato o coalición;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VIII.- Impida, sin motivo e infundadamente, la realización de cualquier acto de campaña que se esté realizando pacíficamente;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-IX.- Estando obligado a dar aviso al registro electoral de los fallecimientos, estados de interdicción, inhabilitaciones, declaración de ausencia y presunción de muerte, omita hacerlo oportunamente;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-X.- Permita que se fije propaganda política en las oficinas públicas de su encargo; y
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XI.- Ejerza presión sobre sus subordinados para emitir su voto en favor de un partido político, coalición o candidato.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 357.
 
-Se impondrá prisión de uno a siete años y multa de cien a doscientas veces la Unidad de Medida y Actualización vigente, al funcionario partidista que:
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-I.- Ejerza presión sobre los electores o los induzca a votar por un candidato, partido o coalición determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-II.- Sustraiga, destruya, altere, falsifique o haga uso indebido de documentos electorales;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-III.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-IV.- Propale noticias falsas en torno a la jornada electoral respecto de sus resultados;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-V.- Impida con violencia o presión la instalación, apertura o cierre de una casilla;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VI.- Mediante violencia obligue a los funcionarios electorales a la apertura o cierre de los tiempos previstos en la ley de la materia;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VII.- Impida o dificulte por sí o por interpósita persona la distribución, entrega de documentación electoral o paquetes electorales, a los consejos distritales o municipales;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-VIII.- Incite a la población a realizar los actos señalados en la fracción anterior;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-IX.- Solicite o retenga credenciales de elector sin estar facultado legalmente para ello;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-X.- Dificulte por sí mismo o por interpósita persona el funcionamiento de las oficinas electorales, asimismo, impedir la entrada o salida a las mismas a los funcionarios electorales, así como a otras personas;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XI.- Fije o haga propaganda electoral en lugares o días prohibidos por la Ley Electoral del Estado;
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XII.- Prepare, organice, participe o induzca a realizar actos violentos que alteren el desarrollo del proceso electoral; y
-
-> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
-
-XIII.- Obtenga o utilice fondos, bienes o servicios provenientes de actividades ilícitas para la promoción del voto o actividades propias de los partidos políticos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 30 DE JULIO DE 2018)
 
 ###### ARTICULO 358.
 
-Se impondrá prisión de tres meses a cinco años y multa de 100 a 300 veces la Unidad de Medida y Actualización vigente al que oculte, distorsione o niegue la información que le sea requerida por la autoridad electoral que corresponda.
-
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+(DEROGADO, P.O. 30 DE JULIO DE 2018)
 
 ###### ARTICULO 359.
 
-Las sanciones previstas en los delitos del presente Título, se aplicarán, sin perjuicio de las demás penas que pudieran corresponder, al responsable por el concurso de delitos.
+(DEROGADO, P.O. 30 DE JULIO DE 2018)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -4852,3 +4534,17 @@ P.O. 26 DE MARZO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Las disposiciones relativas a los delitos de trata de personas, seguirán aplicándose por los hechos realizados durante su vigencia, así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos, lo anterior, en lo que no se opongan a la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 464.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, DEROGÁNDOSE EL TÍTULO VIGÉSIMO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos electorales previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta Ley resulte más benéfica.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NUM. 465 "QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
