@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2018-05-14"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -114,6 +114,10 @@ XI.- La transversalidad de políticas públicas en materia de discapacidad.
 ###### Artículo 4.
 
 La aplicación de esta Ley corresponde a la Administración Pública Estatal y Municipal, así como, a los organismos públicos, autónomos; quienes, atendiendo al principio de transversalidad, incidirán en los ámbitos de todas las actuaciones y servicios que lleven a cabo. También las entidades de carácter privado, que coadyuven en la presentación de los servicios públicos en especial las relacionadas con: telecomunicaciones, espacios públicos urbanizados, infraestructura, construcción de edificios y transporte.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+Todas las instituciones del Estado, garantizaran y protegerán el trato preferencial, como la atención prioritaria a las personas con discapacidad, para agilizar los trámites o procedimientos que realicen, asegurando un trato digno.
 
 ### CAPÍTULO II. DE LAS DEFINICIONES
 
@@ -1066,3 +1070,9 @@ P.O. 14 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 433 POR EL QUE SE QUE (SIC) REFORMA DIVERSAS DISPOSICIONES DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 462.- QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 4 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
