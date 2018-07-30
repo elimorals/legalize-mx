@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-tribunal-electoral-del-estado-de-hidalgo-10497
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-22"
-last_updated: "2017-10-09"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -81,9 +81,11 @@ VII. Reglamento: El Reglamento Interior del Tribunal Electoral del Estado de Hid
 
 VIII. Tribunal: El Tribunal Electoral del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
+
 ###### Artículo 4.
 
-El Pleno del Tribunal se integrará por cinco Magistrados designados por el Senado de la República por el periodo de siete años en la forma y términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la ley general de la materia y la Constitución Política del Estado de Hidalgo. Para que pueda funcionar válidamente se requiere la concurrencia de la mayoría de sus integrantes, así como del Secretario General.
+El Pleno del Tribunal se integrará por tres Magistrados designados por el Senado de la República por el periodo de siete años en la forma y términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la ley general de la materia y la Constitución Política del Estado de Hidalgo. Para que pueda funcionar válidamente se requiere la concurrencia de la mayoría de sus integrantes, así como del Secretario General.
 
 ###### Artículo 5.
 
@@ -149,9 +151,11 @@ El Tribunal Electoral al resolver los asuntos de su competencia garantizará que
 
 ### CAPÍTULO III. DEL PLENO DEL TRIBUNAL
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JULIO DE 2018)</small>
+
 ###### Artículo 13.
 
-El Pleno del Tribunal se integra con cinco Magistrados designados por el Senado de la República y tendrá las siguientes atribuciones:
+El Pleno del Tribunal se integra con tres Magistrados designados por el Senado de la República y tendrá las siguientes atribuciones:
 
 I. Elegir a su Presidente;
 
@@ -672,3 +676,13 @@ QUINTO. En caso de existir recursos humanos, financieros y materiales asignados 
 SEXTO. Los procedimientos administrativos iniciados por las autoridades correspondientes con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 
 SÉPTIMO. Los actuales titulares o responsables de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, continuarán como titulares o responsables hasta en tanto el Congreso del Estado realice las designaciones de los nuevos titulares, una vez hecho lo anterior, se deberá realizar la entrega recepción atendiendo al procedimiento establecido en la legislación aplicable.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NUM. 468 "QUE REFORMA LOS ARTÍCULOS 4 Y 13 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los magistrados electorales locales en funciones a la entrada en vigor del presente Decreto y que fueron electos el 10 de diciembre de 2015 por un periodo de 3 años, continuarán en su encargo por el tiempo en que fueron designados por el Senado de la República.
+
+TERCERO. Notifíquese el presente Decreto a la Cámara de Senadores del Congreso de la Unión, para los efectos legales conducentes.
