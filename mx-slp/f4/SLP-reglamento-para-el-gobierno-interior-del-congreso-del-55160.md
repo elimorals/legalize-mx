@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2018-07-26"
+last_updated: "2018-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1159,9 +1159,7 @@ Previamente a su inclusión en la Gaceta Parlamentaria, el texto de los dictáme
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 117.
-
-BIS. Concluido el debate de los asuntos legislativos, los diputados que deseen hacer algún posicionamiento a los que se refiere el párrafo último del artículo 133 de la Ley Orgánica, deberán pedir su inscripción como oradores; la solicitud se deberá realizar previo a comenzar los asuntos generales, y no podrá intervenir nadie que no esté inscrito con antelación, con excepción de tratarse de aclarar alusiones personales.
+ARTICULO 117 BIS. Concluido el debate de los asuntos legislativos, los diputados que deseen hacer algún posicionamiento a los que se refiere el párrafo último del artículo 133 de la Ley Orgánica, deberán pedir su inscripción como oradores; la solicitud se deberá realizar previo a comenzar los asuntos generales, y no podrá intervenir nadie que no esté inscrito con antelación, con excepción de tratarse de aclarar alusiones personales.
 
 El Presidente del Congreso únicamente podrá interrumpirá (sic) al orador en turno, cuando en la expresión de su posicionamiento se viertan injurias o insultos en contra de personas o instituciones.
 
@@ -2313,6 +2311,36 @@ IV. Guía Simple de Archivos.
 
 El Congreso para el ejercicio de sus funciones y el cumplimiento de la Ley de Archivos del Estado de San Luis Potosí, se auxiliará del Comité de Información del Congreso del Estado.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2018)</small>
+
+### CAPÍTULO XIII. DE LA UNIDAD DE TRANSPARENCIA
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+###### ARTICULO 204.
+
+La Unidad de Transparencia será la encargada de ejecutar y vigilar al interior del Poder Legislativo, la aplicación de las leyes de, Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí; y de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de San Luis Potosí, así como de vincularse con la Comisión Estatal de Garantía de Acceso a la Información Pública, y el Sistema Nacional de Transparencia.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+###### ARTICULO 205.
+
+Para ser titular de la Unidad de Transparencia del Congreso se requiere:
+
+I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función;
+
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
+
+III. No haber sido condenado por delito doloso, y
+
+IV. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+###### ARTICULO 206.
+
+La Unidad de Transparencia deberá promover la aplicación de las políticas y los criterios necesarios que a nivel local o nacional, las autoridades competentes dicten en cuanto a la materia de su aplicación.
+
 T R A N S I T O R I O S
 
 PRIMERO. Este Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2654,3 +2682,13 @@ P.O. 26 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1040.- SE REFORMAN LOS ARTÍCULOS 117, 119, 124 TER, 128 Y 137; Y ADICIONA A LOS ARTÍCULOS 61, 126 Y 128 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE EXPIDE EL REGLAMENTO PARA EL ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, Y; SE ADICIONA AL TÍTULO DÉCIMO EL CAPÍTULO XIII CON LOS ARTÍCULOS 204, 205 Y 206 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga el Reglamento para el Acceso a la Información y Protección de Datos Personales del Congreso del Estado de San Luis Potosí, publicado en el Periódico Oficial del Gobierno del Estado el 20 de noviembre de 2008.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
