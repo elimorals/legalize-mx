@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-a-migrantes-del-estado-de-hidalgo-80381"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-07"
-last_updated: "2011-03-07"
+last_updated: "2018-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de marzo de 2011.
 
@@ -78,6 +78,18 @@ V.- Inmigrado: Extranjero que adquiere derechos de residencia definitiva en el P
 VI.- Inmigrante: Nacional que, originario de otra Entidad Federativa, se establece en el Territorio Estatal, independientemente de su edad, sexo o actividad; y al extranjero que se interna legalmente en el Estado con el propósito de radicar en él, en tanto adquiere la calidad de inmigrado;
 
 VII.- Ley: Ley de Protección a Migrantes del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+VII Bis.- Migrante: Persona que sale, transita o llega al territorio de un Estado distinto al de su residencia por cualquier tipo de motivación.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+VII Ter.- Migrante jornalero agrícola. Persona migrante que por razones laborales de carácter temporal, principalmente agrícolas, sale, transita o llega a un municipio del Estado, distinto al de su residencia;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+VII Quater.- Niña, niño o adolescente migrante no acompañado: Todo migrante nacional o extranjero niño, niña o adolescente menor de 18 años de edad, que se encuentre en el Estado y que no esté acompañado de un familiar consanguíneo o persona que tenga su representación legal;
 
 VIII.- Repatriado: Emigrantes hidalguense (sic) que retornen al país con destino a su población natal, independientemente del tiempo que hayan residido en el extranjero;
 
@@ -393,9 +405,27 @@ Ningún transmigrante, inmigrante o turista puede ser detenido en el territorio 
 
 Para su identificación, basta la presentación de credencial o identificación oficial de una institución o dependencia oficial nacional o extranjera; pasaporte o matrícula consular.
 
-### CAPÍTULO VII. DEL PADRÓN DE INMIGRANTES EXTRANJEROS EN EL ESTADO DE HIDALGO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2018)</small>
 
-### CAPÍTULO VIII. DE LOS MEDIOS DE PROTECCIÓN DE LOS MIGRANTES
+### CAPÍTULO VI BIS. DE LOS MIGRANTES JORNALEROS AGRÍCOLAS
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+###### Artículo 52 Bis.
+
+En la Entidad toda persona que por razones laborales de carácter agrícola temporal, salga, transite o llegue al Estado, además de los derechos y prerrogativas que les confiere la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Hidalgo, tienen derecho al respeto irrestricto de sus derechos humanos, sea cual sea su origen, religión, nacionalidad, género, etnia, edad, situación migratoria o cualesquiera que fuera su condición.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+###### Artículo 52 Ter.
+
+La Secretaría de Trabajo y Previsión Social en coordinación con las autoridades correspondientes, procurará la protección de los derechos humanos de las y los jornaleros agrícolas que radican, transitan y salgan del Estado, en el ámbito de su competencia.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+Artículo 53 Quater (sic).- Los Municipios con alta presencia de personas migrantes jornaleras agrícolas, en el ámbito de su competencia promoverán la difusión de los derechos humanos de este sector.
+
+### CAPÍTULO VII. DEL PADRÓN DE INMIGRANTES EXTRANJEROS EN EL ESTADO DE HIDALGO
 
 ###### ARTÍCULO 53.
 
@@ -410,6 +440,8 @@ III.- Establecer parámetros permanentes para la medición y regulación de la p
 ###### ARTÍCULO 54.
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, llevará a cabo, conjuntamente con los municipios, acciones para promover, fomentar, integrar, organizar y vigilar el Padrón de Inmigrantes en el Estado, así como, la expedición y entrega de las identificaciones oficiales correspondientes.
+
+### CAPÍTULO VIII. DE LOS MEDIOS DE PROTECCIÓN DE LOS MIGRANTES
 
 ###### ARTÍCULO 55.
 
@@ -454,3 +486,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 456 QUE ADICIONA LAS FRACCIONES VII BIS, VII TER Y VII QUATER AL ARTÍCULO 3, Y UN CAPÍTULO VI BIS DE LOS MIGRANTES JORNALEROS AGRÍCOLAS Y LOS ARTÍCULOS 52 BIS, 52 TER Y 52 QUATER A LA LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
