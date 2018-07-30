@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2017-07-31"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -351,7 +351,11 @@ II. Cumplir con todos los servicios de higiene y de prevención de accidentes qu
 
 III. Reinstalar a los trabajadores en las plazas de las cuales los hubieren separado y ordenar el pago de los salarios caídos, a que fueren condenados por laudo ejecutoriado. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldo;
 
-IV. De acuerdo con la partida que en los Presupuestos de Egresos se haya fijado para tal efecto, cubrir la indemnización por separación injustificada cuando los trabajadores hayan optado por ella y pagar en una sola exhibición los sueldos o salarios caídos, prima vacacional, prima dominical, aguinaldo y quinquenios en los términos del laudo definitivo;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IV. De acuerdo con la partida que en los Presupuestos de Egresos se haya fijado para tal efecto, cubrir la indemnización por separación injustificada cuando los trabajadores hayan optado por ella y pagar en una sola exhibición los sueldos o salarios caídos, prima vacacional, prima dominical, aguinaldo y quinquenios en los términos del laudo definitivo.
+
+El pago de sueldos o salarios caídos que refiere la presente Ley será computado desde la fecha de la separación injustificada hasta por un período máximo de doce meses. Si al término del plazo señalado no ha concluido el procedimiento o no se ha dado cumplimiento al Laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago.
 
 V. Proporcionar a los trabajadores los útiles, instrumentos y materiales necesarios para ejecutar el trabajo convenido;
 
@@ -1025,9 +1029,11 @@ V. La indicación del lugar en que puedan obtenerse las pruebas que el reclamant
 
 A la demanda acompañará las pruebas de que disponga y los documentos que acrediten la personalidad de su representante, si no concurre personalmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 121.
 
-La contestación de la demanda se presentará en un término que no exceda de cinco días, contados a partir del siguiente a la fecha de su notificación, deberá referirse a todos y cada uno de los hechos que comprenda la demanda, y ofrecer pruebas en los términos de la fracción V del Artículo anterior.
+La contestación de la demanda se presentará en un término que no exceda de 10 días hábiles, contados a partir del siguiente a la fecha de su notificación y deberá referirse a todos y cada uno de los hechos que comprenda la demanda, y ofrecer pruebas en los términos de la fracción V del artículo anterior.
 
 Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal, se ampliará el término en un día más por cada 200 kilómetros de distancia o fracción que exceda de la mitad.
 
@@ -1288,3 +1294,13 @@ P.O. 31 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 190 QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 17 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 466.- QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 32 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 121 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Tribunal Estatal de Conciliación y Arbitraje sustituirá las funciones del Tribunal de Arbitraje, previsto en la ya abrogada Ley de los Trabajadores al Servicio del Gobierno del Estado de Hidalgo, y funcionará de acuerdo con el reglamento interior que expida.
+
+TERCERO. Queda derogada cualquier disposición que contravenga lo establecido con los principios, bases, procedimientos y derechos reconocidos en la presente Ley.
