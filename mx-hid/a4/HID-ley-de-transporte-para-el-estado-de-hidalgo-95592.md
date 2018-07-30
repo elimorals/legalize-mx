@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transporte-para-el-estado-de-hidalgo-95592"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2017-07-31"
+last_updated: "2018-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE TRANSPORTE PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TRERCERO DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 30 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018 (ABROGADA).
 
 Ley publicada en Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -4089,7 +4091,7 @@ XII. Se impondrá multa de ochenta hasta cien veces la Unidad de Medida y Actual
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-XIII. Se impondrá multa de ciento treinta hasta ciento cincuenta veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos: 35; 36 fracción V; 37; 55; 65 párrafo segundo; 77; 91 ; 94 párrafo tercero; 102 en todas sus fracciones; 117; 119; 126 párrafos primero y segundo; 143 fracción II; 182 párrafos primero y segundo; 183; 204 fracción I, incisos d y e; 204 fracción II, inciso b; 223 párrafos primero y segundo; 304 fracciones I, II, III , VIII, IX, X, XIII, XIV, XVII, XVIII, XXI, XXII y XXIII; y 305 fracciones II, VI, VII, XIII, XIV, XVI, XVII, XVIII, XIX, XX y XXXII;
+XIII. Se impondrá multa de ciento treinta hasta ciento cincuenta veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos: 35; 36 fracción V; 37; 55; 65 párrafo segundo; 77; 91; 94 párrafo tercero; 102 en todas sus fracciones; 117; 119; 126 párrafos primero y segundo; 143 fracción II; 182 párrafos primero y segundo; 183; 204 fracción I, incisos d y e; 204 fracción II, inciso b; 223 párrafos primero y segundo; 304 fracciones I, II, III, VIII, IX, X, XIII, XIV, XVII, XVIII, XXI, XXII y XXIII; y 305 fracciones II, VI, VII, XIII, XIV, XVI, XVII, XVIII, XIX, XX y XXXII;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -4238,3 +4240,21 @@ P.O. 31 DE JULIO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 467.- QUE CONTIENE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Se abroga la Ley de Transporte para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado de Hidalgo el 29 de julio del 2013.
+
+CUARTO. Con las formalidades del caso, en términos de la normatividad correspondiente, todos los archivos, documentos, correspondencia y trámites que se encuentren en proceso ante la Secretaría de Movilidad y Transporte, Organismo del Transporte Convencional de Hidalgo y Organismo del Sistema Integrado de Transporte de Hidalgo, inclusive las controversias de carácter administrativo, judicial o extrajudicial se resolverán en base a la Ley de Transporte para el Estado de Hidalgo.
+
+QUINTO. El Gobernador del Estado expedirá en un término de ciento ochenta días el Reglamento de la presente Ley; en tanto se expide, se seguirá aplicando el Reglamento de la Ley de Transporte para el Estado de Hidalgo para el Convencional, en lo que no se contraponga a la presente Ley.
+
+SEXTO. El Consejo de Movilidad y Transporte se instalará dentro de los ciento ochenta días siguientes a la publicación de esta Ley; en su primera sesión, determinará el programa de trabajo a realizar.
+
+SÉPTIMO. Las multas contempladas en la presente Ley entrarán en vigor a partir del día primero de enero del dos mil diecinueve.
