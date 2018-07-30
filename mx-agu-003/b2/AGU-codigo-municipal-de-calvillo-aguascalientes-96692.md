@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2018-02-19"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE DICIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2601,17 +2603,29 @@ d). Departamento de Recursos Humanos, y
 
 e). Departamento de Ejecución, Apremios e Inspección Fiscal.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
-III. Secretaría de Contraloría Interna:
+III. ÓRGANO INTERNO DE CONTROL
 
-a). Departamento de Auditoría Financiera,
+A) DEPARTAMENTO ADMINISTRATIVO
 
-b). Departamento de Supervisión de Obras,
+B) DIRECCIÓN DE (SIC) INVESTIGADORA
 
-c). Departamento de Sistemas Integrales de Control, Gestión y Quejas Ciudadanas, y
+I. Departamento de Investigación y Auditorias Especializadas.
 
-d). Departamento Jurídico de Contraloría Interna.
+II. Departamento de Calificación de Faltas.
+
+C) DIRECCIÓN SUBSTANCIADORA
+
+I. Departamento de Acuerdos.
+
+II. Departamento de Proyectos de Resolución.
+
+C) (SIC) DIRECCIÓN INTERNA DE CONTROL
+
+I. Departamento de Rendición de Cuentas y Normatividad.
+
+II. Departamento de Prevención y Atención a Entes Fiscalizadores.
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -3219,75 +3233,59 @@ XLII.- Entregar la información requerida por el IMPLAN para realizar las Evalua
 
 #### SECCIÓN TERCERA. De la Secretaría de Contraloría Interna
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
 ###### Artículo 329.
 
-Corresponde a la Secretaría de Contraloría Interna:
+Corresponde al Órgano Interno de Control:
 
-I.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
+I.- Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de ingresos y egresos municipales;
 
-II.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
+II.- Fijar, en su caso, las normas internas de carácter obligatorio necesarias para que los procesos administrativos del Municipio se realicen con transparencia, seguridad jurídica, agilidad y orden;
 
-III.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
+III.- Ordenar y practicar auditorias, revisiones, visitas e inspecciones a las dependencias y entidades de la administración pública municipal como empresas para municipales (sic), fideicomisos y organismos públicos descentralizados.
 
-a).- (DEROGADO, P.O. 15 DE MAYO DE 2017)
+IV.- Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos;
 
-b).- (DEROGADO, P.O. 15 DE MAYO DE 2017)
+V.- Dictar las disposiciones que requiera el Órgano Interno de Control para la adecuada aplicación y cumplimiento de la Entrega-Recepción de las dependencias municipales;
 
-c).- (DEROGADO, P.O. 15 DE MAYO DE 2017)
+VI.- Investigar de oficio o en atención a las quejas, a las denuncias y a los hechos o elementos detectados en las auditorias, revisiones, visitas e inspecciones practicadas por el órgano Interno de Control, las conductas y/o faltas de los servidores públicos municipales y faltas de particulares que impliquen presuntas faltas administrativas y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
-IV.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
+VII.- Coordinar y vigilar que los servidores públicos obligados a presentar declaración de situación patrimonial, lo hagan en tiempo y forma, apegándose a la normatividad establecida;
 
-V.- Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de ingresos y egresos municipales;
+VIII.- Supervisar que las adquisiciones de bienes y servicios que realice el Municipio correspondan en cantidad y calidad a las necesidades reales;
 
-VI.- Velar porque los procesos administrativos del Municipio se realicen con transparencia, seguridad jurídica, agilidad y orden;
+IX.- Vigilar los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y del Estatal;
 
-VII.- Ordenar y practicar visitas de auditoría e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
+X.- Fijar las normas de carácter obligatorio necesarias para el control interno, fiscalización, contabilidad y auditoría que deben observar las dependencias municipales que deben observar las dependencias municipales (sic).
 
-VIII.- Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos;
+XI.- Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento, así como las normas señaladas en la fracción anterior; además de las normas jurídicas y administrativas que rigen su funcionamiento.
 
-IX.- Vigilar y coordinar la adecuada entrega-recepción de las dependencias municipales;
+XII.- Designar a su personal que practicará auditarías a las dependencias y entidades municipales como empresas para municipales, fideicomisos y organismos públicos descentralizados, así como normar y controlar su desempeño, verificando el destino de los fondos públicos sean propios o transferidos;
 
-X.- Cuidar el correcto desempeño de los servidores públicos, atender las denuncias ciudadanas, instruir procesos y determinar responsabilidades respecto de estos;
+XIII.- Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del Municipio, y el adecuado equilibrio presupuestal;
 
-XI.- Coordinar y vigilar que los servidores públicos obligados a presentar declaración de situación patrimonial, lo hagan en tiempo y forma, apegándose a la normatividad establecida;
+XIV.- Vigilar que las obras realizadas por el Municipio, directamente o con participación de terceros se ajusten a las especificaciones fijadas;
 
-XII.- Supervisar que las adquisiciones de bienes y servicios que realice el Municipio correspondan en cantidad y calidad a las necesidades reales;
+XV.- Dictaminar los estados financieros que expida la Secretaría de Finanzas y Administración;
 
-XIII.- Vigilar los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y del Estatal;
+XVI.- Coordinar el módulo de Transparencia y Acceso a la Información Pública Municipal; Poner a la disposición de la ciudadanía los formatos para recabar la información pública Municipal;
 
-XIV.- Fijar las normas de control, fiscalización, contabilidad y auditoría que deben observar las dependencias municipales;
+XVII.- Evaluar el Sistema de Control Interno en la administración pública municipal.
 
-XV.- Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento, así como las normas señaladas en la fracción anterior;
+XVIII.- Entregar la información requerida por el IMPLAN.
 
-XVI.- Practicar auditorias en las dependencias y organismos descentralizados municipales, verificando el destino de los fondos públicos sean propios o transferidos;
+XIX.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
 
-XVII.- Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del Municipio, y el adecuado equilibrio presupuestal;
+XX.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
-XVIII.- Vigilar que las obras realizadas por el Municipio, directamente o con participación de terceros se ajusten a las especificaciones fijadas;
+XXI.- Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales como empresas para municipales (sic), fideicomisos y organismos públicos descentralizados.
 
-XIX.- Dictaminar los estados financieros que expida la Secretaría de Finanzas y Administración;
+XXII.- Ejecutar las funciones establecidas en este Código y en la legislación Federal, Estatal y Municipal aplicables para los órganos internos de control.
 
-XX.- Turnar a las diferentes Unidades Administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas;
+XXIII.- Designar, para el adecuado desarrollo del Sistema de Control y Evaluación Interno Gubernamental, en los casos que así lo determine el Órgano Interno de Control, Delegados de la propia ante las dependencias de la administración pública municipal.
 
-Coordinar el módulo de Transparencia y Acceso a la Información Pública Municipal;
-
-Poner a la disposición de la ciudadanía los formatos para recabar la información pública Municipal; y
-
-XXI.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
-
-XXII.- Entregar la información requerida por el IMPLAN.
-
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
-
-XXIII.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
-
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
-
-XXIV.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+XXIV.- Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
 
 #### SECCIÓN CUARTA. De la Secretaría de Seguridad Pública y Vialidad
 
@@ -24520,6 +24518,16 @@ Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al dí
 Artículo Cuarto.- Cúmplase.
 
 P.O. 19 DE FEBRERO DE 2018.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL DECRETO POR EL QUE SE REFORMA EL CÓDIGO MUNICIPAL DE CLAVILLO, AGS.]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Cúmplase.
+
+P.O. 30 DE JULIO DE 2018.
 
 > <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL DECRETO POR EL QUE SE REFORMA EL CÓDIGO MUNICIPAL DE CLAVILLO, AGS.]</small>
 
