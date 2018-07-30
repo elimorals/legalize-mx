@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2018-04-23"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -562,6 +562,10 @@ Para la atención de asuntos internos y la correspondencia, los Ayuntamientos po
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Es obligación de los ayuntamientos celebrar cuando menos dos sesiones ordinarias al mes, en los términos que señale el reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+El sentido del voto de cada integrante del Ayuntamiento podrá ser a favor, en contra, o abstención.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -3356,3 +3360,9 @@ P.O. 23 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 428.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 455 QUE ADICIONA EL PÁRRAFO SEXTO AL ARTÍCULO 49, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
