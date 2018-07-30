@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2018-06-22"
+last_updated: "2018-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -708,6 +708,10 @@ e) Coordinación de Asuntos Jurídicos.
 f) Coordinación de Comunicación Social.
 
 g) Contraloría Interna.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+h) Unidad de Transparencia.
 
 ### Capítulo II. De la Directiva del Congreso
 
@@ -1567,7 +1571,9 @@ V. Los análogos a los anteriores que, a juicio del Presidente de la Directiva e
 
 Compete a la Comisión de Transparencia y Acceso a la Información:
 
-I. Dar cumplimiento a las obligaciones que correspondan al Congreso del Estado, derivadas de la Ley de Transparencia y Acceso a la Información Pública del Estado;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
+I. Vigilar el cumplimiento de las obligaciones que le correspondan al Congreso del Estado, derivadas de la Ley de Transparencia y Acceso a la Información Pública del Estado;
 
 II. Dictaminar las iniciativas que le sean turnadas por el Pleno;
 
@@ -1575,9 +1581,9 @@ III. Revisar previo a que los dictámenes sean presentados al Pleno, cumplan con
 
 IV. Convocar a los ciudadanos integrantes del Consejo de Transparencia que establece esta Ley, de manera trimestral, a las reuniones que señala el artículo 140 de este Ordenamiento;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
-V. Recibir dentro de los dos primeros meses del año, el informe del Comisionado Presidente de la Comisión de Garantía de Acceso a la Información Pública, conforme al procedimiento establecido en el artículo 83 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí;
+V. Recibir dentro de los dos primeros meses del año, el informe del Comisionado Presidente de la Comisión de Garantía de Acceso a la Información Pública, conforme al procedimiento establecido en el artículo 33 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -1645,9 +1651,9 @@ III. De Orientación, Gestoría y Quejas;
 
 IV. De Reforma para la Competitividad y Desarrollo Sustentable del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
-V. De Información, y
+V. De Transparencia, y
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -1723,9 +1729,9 @@ XIV. Las demás que sean necesarias para el cumplimiento de los objetivos anteri
 
 El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado se regirá bajo los lineamientos que establezca su Reglamento.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
-ARTICULO 124 TER. El Comité de Información estará integrado y actuará en términos y conforme a las funciones establecidas por la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
+ARTICULO 124 TER. El Comité de Transparencia estará integrado y actuará en términos y conforme a las funciones establecidas por la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí; la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de San Luis Potosí; y el Reglamento para el Acceso a la Información y Protección de Datos Personales del Congreso del Estado de San Luis Potosí.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -1811,6 +1817,10 @@ e) La Contraloría Interna, dependiente de la Junta: a la que corresponde la eva
 
 f) Unidad de Evaluación y Control, dependiente de la Comisión de Vigilancia, a la que le corresponde vigilar que los servidores públicos de la Auditoría Superior del Estado desempeñen sus funciones en los términos de los artículos, 94, y 95 de la Ley de Fiscalización y Rendición de Cuentas; así como aquellas que le asigne la propia Comisión.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+g) Unidad de Transparencia, dependiente de la Directiva, a la que le corresponde por medio de su titular, representar al Congreso del Estado en los procedimientos en los cuales se le requiera ante la Comisión Estatal de Garantía de Acceso a la Información Pública, atendiendo y gestionando toda solicitud de información presentada ante este Poder Legislativo, vigilar la debida cumplimentación de la Ley de Transparencia y Acceso a la Información Pública del Estado al Interior del Congreso, así como todas las que deriven de la ley de su materia y de los reglamentos de su competencia. Su titular será designado por la Junta de Coordinación Política, y dependerá jerárquicamente de la Directiva.
+
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 127.
@@ -1835,9 +1845,19 @@ IV. El Coordinador de Finanzas:
 
 a) Informes mensuales al Oficial Mayor.
 
-b) El informe de la Cuenta Pública Anual del Congreso a la Junta, y
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
-V. Los titulares de los órganos de apoyo: informes trimestrales de actividades, que se presentarán ante su superior jerárquico inmediato.
+b) El informe de la Cuenta Pública Anual del Congreso a la Junta;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE JULIO DE 2018)</small>
+
+V. El titular de la Unidad de Transparencia:
+
+a) Informes mensuales a la Directiva respecto de las solicitudes de información recibidas durante dicho lapso, debiendo especificar, cuáles se recibieron y a cuáles se les dio contestación o, en su caso, cuáles están pendientes por no haber precluido el término para su respuesta.
+
+b) Informes trimestrales a la Junta, y
+
+VI. Los titulares de los órganos de apoyo: informes trimestrales de actividades, que se presentarán ante su superior jerárquico inmediato.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1923,9 +1943,11 @@ Los diputados tendrán libre acceso a la información y documentación relaciona
 
 Los documentos generados por el trabajo de comisiones y comités tienen un carácter público, a menos que exista acuerdo fundado y motivado en contrario, y por lo tanto, pueden ser consultados libremente por los diputados y ser motivo de consulta pública a través de solicitudes de información.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 137.
 
-La Comisión de Transparencia y Acceso a la Información contará para la aplicación operativa de la Ley de Transparencia Administrativa y Acceso a la Información Pública, con un módulo de acceso a la información pública. Los procedimientos de actualización del apartado de transparencia de la página de internet del Congreso del Estado, y de la atención a solicitudes de información se describirán en el Reglamento.
+El Congreso del Estado contará para la aplicación operativa de la Ley de Transparencia y Acceso a la Información Pública, con una Unidad de Transparencia, así como un módulo de acceso a la información pública. En cuanto a los procedimientos de actualización del apartado de transparencia de la página de internet del Congreso del Estado, y de la atención a solicitudes de información, se realizarán conforme a lo establecido en los capítulos III, y V del Reglamento para el Acceso a la Información y Protección de Datos Personales del Congreso del Estado de San Luis Potosí.
 
 ###### ARTICULO 138.
 
@@ -2486,3 +2508,13 @@ P.O. 22 DE JUNIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor el uno de enero del año dos mil diecinueve, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1040.- SE REFORMAN LOS ARTÍCULOS 117, 119, 124 TER, 128 Y 137; Y ADICIONA A LOS ARTÍCULOS 61, 126 Y 128 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE EXPIDE EL REGLAMENTO PARA EL ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, Y; SE ADICIONA AL TÍTULO DÉCIMO EL CAPÍTULO XIII CON LOS ARTÍCULOS, 204, 205 Y 206 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga el Reglamento para el Acceso a la Información y Protección de Datos Personales del Congreso del Estado de San Luis Potosí, publicado en el Periódico Oficial del Gobierno del Estado el 20 de noviembre de 2008.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
