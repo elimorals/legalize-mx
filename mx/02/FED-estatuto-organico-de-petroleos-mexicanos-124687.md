@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-124687"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-05"
-last_updated: "2018-05-11"
+last_updated: "2018-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124687&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-27"
 
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JULIO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de diciembre de 2017.
 
@@ -115,9 +115,13 @@ XXVIII. Tecnologías de Información: Incluye los términos de redes y telecomun
 
 El Consejo de Administración tendrá las funciones que se establecen en la Ley y el Reglamento, así como en las demás disposiciones aplicables.
 
-Asimismo, estará facultado para designar y remover a los titulares de las Empresas Productivas Subsidiarias, así como a los miembros propietarios y suplentes de los consejos de administración de dichas Empresas, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2018)</small>
 
-En el caso de las Empresas Productivas Subsidiarias Pemex Exploración y Producción, y Pemex Transformación Industrial, estará facultado también para designar y remover a los servidores públicos que tengan un nivel jerárquico inmediato inferior al del Director General de dichas Empresas Productivas Subsidiarias.
+Asimismo, estará facultado para nombrar y remover a los titulares de las Empresas Productivas Subsidiarias, así como a los miembros propietarios y suplentes de los consejos de administración de dichas Empresas, de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2018)</small>
+
+En el caso de las Empresas Productivas Subsidiarias Pemex Exploración y Producción, y Pemex Transformación Industrial, estará facultado también para nombrar y remover a los servidores públicos que tengan un nivel jerárquico inmediato inferior al del Director General de dichas Empresas Productivas Subsidiarias.
 
 ###### Artículo 5.
 
@@ -175,7 +179,7 @@ XI. Representar y, en su caso, designar a los servidores públicos y mandatarios
 
 XII. Establecer el MOBAP en Pemex y sus Empresas Productivas Subsidiarias y su Comité Ejecutivo. La integración del Comité Ejecutivo del MOBAP y su operación se realizará conforme lo determine el Director General y su funcionamiento se establecerá en las reglas de operación correspondientes;
 
-XIII. Establecer el sistema institucional para las Inversiones Vinculadas a la Cadena de Valor;
+XIII. (DEROGADA, D.O.F. 30 DE JULIO DE 2018)
 
 XIV. Promover la ejecución de los acuerdos adoptados por las Estructuras de Gobierno para la Mejora de Procesos;
 
@@ -183,7 +187,9 @@ XV. Designar a los gerentes adscritos directamente a la Dirección General, y
 
 XVI. Las demás que sean necesarias para el cumplimiento de su cargo, así como aquéllas señaladas en otros artículos del Estatuto, por el Consejo de Administración y por otras disposiciones aplicables.
 
-Son indelegables las atribuciones del Director General señaladas en las fracciones II, IV, V, VI, X, XII, XV y XVI, del presente artículo.
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2018)</small>
+
+Son indelegables las atribuciones del Director General señaladas en las fracciones II, IV, V, VI, X, XII y XV, del presente artículo.
 
 ###### Artículo 11.
 
@@ -899,9 +905,13 @@ III. Dirigir la alineación de las operaciones de Pemex, sus Empresas Productiva
 
 IV. Dirigir las acciones para la solución de controversias operativas y comerciales entre las Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-V. Coordinar el establecimiento de políticas, estrategias, procesos, iniciativas, proyectos, acciones, metodologías, mecanismos y sistemas en las materias de Planeación Estratégica Institucional y la Gestión Estratégica Institucional, portafolio de inversiones, Programación Operativa, evaluación del desempeño, Inversiones Vinculadas a la Cadena de Valor, Actividades Reguladas, competencia económica, seguridad industrial, salud en el trabajo, protección ambiental, desarrollo sustentable, eficiencia energética, confiabilidad operacional y mantenimiento en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-VI. Dirigir la administración e implantación del sistema institucional para las Inversiones Vinculadas a la Cadena de Valor, del sistema de seguridad, salud en el trabajo y protección ambiental, así como del sistema de confiabilidad y gestión del mantenimiento en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+V. Coordinar el establecimiento de políticas, estrategias, procesos, iniciativas, proyectos, acciones, metodologías, mecanismos y sistemas en las materias de Planeación Estratégica Institucional y la Gestión Estratégica Institucional, portafolio de inversiones, Programación Operativa, evaluación del desempeño, Inversiones Vinculadas a la Cadena de Valor, Actividades Reguladas, competencia económica, seguridad industrial, salud en el trabajo, protección ambiental, desarrollo sustentable, eficiencia energética, confiabilidad operacional, gestión del mantenimiento, así como gestión de la calidad de las Inversiones Vinculadas a la Cadena de Valor en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VI. Establecer y dirigir la administración del sistema institucional de las Inversiones Vinculadas a la Cadena de Valor, del sistema de gestión de la calidad para las Inversiones Vinculadas a la Cadena de Valor, del sistema de seguridad, salud en el trabajo y protección ambiental, así como del sistema de confiabilidad operacional en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
 VII. Dirigir el seguimiento de los resultados operativos y de negocio de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
@@ -1365,7 +1375,9 @@ La Gerencia de Desarrollo de Proyectos tendrá las funciones siguientes:
 
 I. Elaborar y administrar el sistema institucional para las Inversiones Vinculadas a la Cadena de Valor en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-II. Analizar la factibilidad de las Inversiones Vinculadas a la Cadena de Valor en cuanto a estimación de costos de inversión, alcance técnico, análisis de riesgos y rentabilidad de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+II. Analizar la factibilidad de las Inversiones Vinculadas a la Cadena de Valor importantes o trascendentes en cuanto a estimación de costos de inversión, alcance técnico, análisis de riesgos y rentabilidad de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
 III. Validar los entregables en las materias de ingeniería, tecnología, gestión de calidad, estimación de costos, evaluación de riesgos, planeación, programación de proyectos y caso de negocio para la acreditación de las Inversiones Vinculadas a la Cadena de Valor importantes o trascendentes de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
@@ -1379,7 +1391,9 @@ VII. Dar seguimiento a los análisis de riesgos de ejecución de las Inversiones
 
 VIII. Validar la información y los reportes de evaluación de la fase de ejecución de las Inversiones Vinculadas a la Cadena de Valor importantes o trascendentes de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, e informar sobre el estado de las mismas;
 
-IX. Diseñar, establecer y promover los mecanismos para la gestión de calidad para el desarrollo y ejecución de las Inversiones Vinculadas a la Cadena de Valor importantes o trascendentes de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IX. Diseñar, administrar y promover el sistema de gestión de la calidad para las Inversiones Vinculadas a la Cadena de Valor; importantes o trascendentes de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
 X. Establecer los estándares, criterios y mejores prácticas para el desarrollo de Inversiones Vinculadas a la Cadena de Valor importantes o trascendentes en las materias de ingeniería, gestión de calidad, estimación de costos, administración y programación de proyectos, y evaluación de riesgos de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
@@ -2317,7 +2331,9 @@ III. Supervisar la identificación y cuantificación de exposiciones a riesgos f
 
 IV. Coordinar la integración y, en su caso, revisión de los niveles de riesgo asumido y límites de tolerancia a los mismos;
 
-V. Coordinar la estrategia de aseguramiento de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+V. Coordinar la estrategia de aseguramiento y afianzamiento de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
 VI. Coordinar la estrategia de reclamaciones de seguros y fianzas para Pemex y sus Empresas Productivas Subsidiarias;
 
@@ -2339,9 +2355,13 @@ II. Coordinar la contratación en el mercado local de seguros y la fianza global
 
 III. Elaborar los presupuestos para primas de seguros y fianzas, así como determinar los criterios para su distribución;
 
-IV. Administrar las pólizas de seguros y fianzas de Pemex y sus Empresas Productivas Subsidiarias;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-V. Gestionar reclamaciones de seguros y fianzas de proveedores, contratistas y clientes a favor de Pemex y sus Empresas Productivas Subsidiarias;
+IV. Administrar las pólizas de seguros y fianzas contratadas por Pemex y sus Empresas Productivas Subsidiarias;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+V. Gestionar reclamaciones de seguros contratados por Pemex y sus Empresas Productivas Subsidiarias, así como reclamaciones, cancelaciones y devoluciones de fianzas de proveedores, contratistas y clientes a favor de Pemex y sus Empresas Productivas Subsidiarias;
 
 VI. Implementar las visitas de evaluación de riesgos asegurables de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como integrar los hallazgos y canalizarlos para su atención en dichas empresas;
 
@@ -2383,9 +2403,17 @@ VI. Realizar o validar los análisis de riesgo financiero para las inversiones, 
 
 VII. Diseñar estrategias de mitigación de riesgos financieros para las inversiones, asociaciones y alianzas estratégicas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-VIII. Coordinar las actividades de revelación de información relativa a riesgos financieros, y
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-IX. Coordinar la identificación y valuación de los derivados implícitos en los contratos de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
+VIII. Coordinar las actividades de revelación de información relativa a riesgos financieros;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IX. Coordinar la identificación y valuación de los derivados implícitos en los contratos de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+X. Asesorar en el desarrollo e implementación de metodologías para la cuantificación de riesgos que impacten los resultados económicos de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
 
 ###### Artículo 85.
 
@@ -2761,11 +2789,15 @@ II. Fungir como enlace en materia de organización, servicios al personal y rela
 
 III. Realizar el registro financiero correspondiente a la nómina y pagos por separación de Pemex y sus Empresas Productivas Subsidiarias;
 
-IV. Proporcionar la información para la integración de las declaraciones informativas y declaraciones mensuales de pago en materia fiscal de nómina y pagos por separación de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales a la Gerencia Fiscal Central;
+IV. (DEROGADA, D.O.F. 30 DE JULIO DE 2018)
 
-V. Generar y validar, en coordinación con la Gerencia Fiscal Central, las constancias de sueldos, salarios, conceptos asimilados, crédito al salario y subsidio al empleo, así como la emisión de los Comprobantes Fiscales Digitales por Internet de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-VI. Coadyuvar en la presentación de las promociones para cumplimiento de las obligaciones tributarias;
+V. Generar y validar, en coordinación con la Gerencia Fiscal Central, la emisión de los Comprobantes Fiscales Digitales por Internet de los pagos por nómina y separación de los trabajadores y jubilados de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VI. Proporcionar información y coadyuvar con la Gerencia Fiscal Central, en la atención de promociones para el cumplimiento de las obligaciones tributarias;
 
 VII. Implementar el cumplimiento de las disposiciones fiscales aplicables a la nómina, viáticos y pagos por separación;
 
@@ -2779,9 +2811,17 @@ XI. Administrar los sistemas de nómina y derivados de las mismas de Pemex, sus 
 
 XII. Proponer los controles y evaluar el ejercicio del presupuesto de mano de obra y el fondo laboral de Pemex y sus Empresas Productivas Subsidiarias, así como coordinar la implementación de medidas de optimización con las gerencias de Enlace y las gerencias Regionales de Relaciones Laborales y Servicios al Personal;
 
-XIII. Proponer y gestionar las adecuaciones al presupuesto de mano de obra y de fondo laboral de Pemex y sus Empresas Productivas Subsidiarias, y
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-XIV. Administrar el procesamiento de claves de descuento a terceros, así como la operación del centro de atención a usuarios.
+XIII. Proponer y gestionar las adecuaciones al presupuesto de mano de obra y de fondo laboral de Pemex y sus Empresas Productivas Subsidiarias;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+XIV. Procesar los descuentos de claves asignadas a terceros de nómina, así como la operación del centro de atención a usuarios, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+XV. Administrar las aportaciones y retiros del régimen de pensiones y jubilaciones de los trabajadores de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
 
 ###### Artículo 98.
 
@@ -2847,9 +2887,17 @@ XI. Integrar y estandarizar la operación de servicios al personal;
 
 XII. Coordinar la aplicación de las transacciones en materia de servicios al personal y evaluar sus resultados;
 
-XIII. Administrar la operación del sistema integral de remuneraciones del personal de Pemex y sus Empresas Productivas Subsidiarias, así como actualizar los tabuladores salariales conforme a los modelos de compensación diseñados por la Subdirección de Recursos Humanos y a las modificaciones por revisiones contractuales y salariales, autorizadas por el Consejo de Administración y en términos de las disposiciones aplicables, y
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-XIV. Elaborar el proyecto de presupuesto regularizable de mano de obra de Pemex y sus Empresas Productivas Subsidiarias.
+XIII. Administrar la operación del sistema integral de remuneraciones del personal de Pemex y sus Empresas Productivas Subsidiarias, así como actualizar los tabuladores salariales conforme a los modelos de compensación diseñados por la Subdirección de Recursos Humanos y a las modificaciones por revisiones contractuales y salariales, autorizadas por el Consejo de Administración y en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+XIV. Elaborar el proyecto de presupuesto regularizable de mano de obra de Pemex y sus Empresas Productivas Subsidiarias, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+XV. Administrar las claves de descuento, los descuentos de los terceros de nómina, y cuotas sindicales.
 
 ###### Artículo 100.
 
@@ -2897,9 +2945,11 @@ VI. Asesorar en materia de organización, servicios al personal y relaciones lab
 
 VII. Coordinar las estrategias y programas de control y evaluación del presupuesto de servicios personales, en su ámbito de competencia, así como coordinar en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, la implementación de medidas de optimización y austeridad de los recursos presupuestales de mano de obra.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE JULIO DE 2018)</small>
+
 ###### Artículo 102.
 
-Las Gerencias Regionales de Relaciones Laborales y Servicios al Personal Norte, Sur y Sureste, tendrán las funciones siguientes:
+Las Gerencias Regionales de Relaciones Laborales y Servicios al Personal Norte, Sur, Sureste y Altiplano, tendrán las funciones siguientes:
 
 I. Coordinar el otorgamiento de los servicios en materia de organización, servicios al personal y relaciones laborales en los términos de los convenios que, en su caso, celebren Pemex y sus Empresas Productivas Subsidiarias;
 
@@ -2921,27 +2971,7 @@ IX. Implementar, en el ámbito de su competencia, la depuración de partidas abi
 
 ###### Artículo 103.
 
-La Gerencia Regional de Relaciones Laborales y Servicios al Personal Altiplano, tendrá las funciones siguientes:
-
-I. Coordinar el otorgamiento de los servicios en materia de organización, servicios al personal y relaciones laborales en los términos de los convenios que, en su caso, celebren Pemex y sus Empresas Productivas Subsidiarias;
-
-II. Realizar las contrataciones y otorgar los servicios y prestaciones al personal activo y jubilado;
-
-III. Ejercer la representación patronal de Pemex y sus Empresas Productivas Subsidiarias ante autoridades federales y estatales competentes y la representación sindical, de conformidad con el Contrato Colectivo de Trabajo, y demás disposiciones aplicables;
-
-IV. Concertar con el Comité Ejecutivo Local del Sindicato de Trabajadores Petroleros de la República Mexicana los asuntos de carácter laboral local y regional, así como la reorganización y aplicación de convenios, en coordinación con la Gerencia de Relaciones Laborales;
-
-V. Elaborar los estudios de modificación de la estructura ocupacional;
-
-VI. Supervisar, en el ámbito de su competencia, la aplicación del Contrato Colectivo de Trabajo, del Reglamento de Trabajo del Personal de Confianza de Petróleos Mexicanos y sus Empresas Productivas Subsidiarias y demás normativa laboral vigente;
-
-VII. Coadyuvar con la Gerencia de Relaciones Laborales, en la supervisión y seguimiento a los requerimientos de recursos materiales y servicios generales en los Centros de Desarrollo Infantil;
-
-VIII. Coadyuvar con las líneas de negocio y la representación sindical en la elaboración e implementación de programas de incremento a la productividad laboral y mejora del clima laboral;
-
-IX. Implementar, en el ámbito de su competencia, la depuración de partidas abiertas, las estrategias y programas de control y evaluación del presupuesto y gasto de mano de obra, así como coordinar al interior de su región la implementación de medidas de optimización y austeridad de los recursos presupuestales de mano de obra, y
-
-X. Aplicar los descuentos a terceros de nómina y generar su orden de pago, así como administrar el pago a comisionados sindicales.
+(DEROGADO, D.O.F. 30 DE JULIO DE 2018)
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN OPERATIVA DE PROCURA Y ABASTECIMIENTO
 
@@ -3223,7 +3253,9 @@ II. Coordinar y suscribir, en el ámbito de su competencia, los actos relacionad
 
 III. Coordinar la participación para la integración y actualización del programa anual de adquisiciones, arrendamientos, servicios y obras de exploración, producción, perforación y servicios, así como dar seguimiento a su ejecución;
 
-IV. Coordinar la elaboración y evaluación de las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras de exploración, producción, perforación y servicios;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IV. Coordinar la implementación de las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras de exploración, producción, perforación y servicios;
 
 V. (DEROGADA, D.O.F. 11 DE MAYO DE 2018)
 
@@ -3237,7 +3269,9 @@ VIII. Coordinar la elaboración de los análisis de mercado de los requerimiento
 
 La Gerencia de Contrataciones para Mantenimiento, Confiabilidad y Logística Marina tendrá las funciones siguientes:
 
-I. Elaborar y evaluar las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras para mantenimiento, confiabilidad y logística marina;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+I. Implementar las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras para mantenimiento, confiabilidad y logística marina;
 
 II. Programar y controlar la gestión, así como la resolución de asuntos en materia de adquisiciones, arrendamientos, servicios y obras para contrataciones para mantenimiento, confiabilidad y logística marina;
 
@@ -3263,7 +3297,9 @@ X. Elaborar los análisis de mercado de los requerimientos de contratación para
 
 La Gerencia de Contrataciones para Producción tendrá las funciones siguientes:
 
-I. Elaborar y evaluar las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras para producción y, en su caso, para mantenimiento, confiabilidad y logística terrestre;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+I. Implementar las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras para producción y, en su caso, para mantenimiento, confiabilidad y logística terrestre;
 
 II. Programar y controlar la gestión, así como la resolución de asuntos en materia de adquisiciones, arrendamientos, servicios y obras de contrataciones para producción y, en su caso, para mantenimiento, confiabilidad y logística terrestre;
 
@@ -3289,7 +3325,9 @@ X. Elaborar los análisis de mercado de los requerimientos de contratación para
 
 La Gerencia de Contrataciones para Servicios a la Explotación y Perforación tendrá las funciones siguientes:
 
-I. Elaborar y evaluar las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras para servicios a la explotación y perforación;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+I. Implementar las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras para servicios a la explotación y perforación;
 
 II. Programar y controlar la gestión, así como la resolución de asuntos en materia de adquisiciones, arrendamientos, servicios y obras para servicios a la explotación y perforación;
 
@@ -3319,7 +3357,9 @@ I. Integrar el programa anual de adquisiciones, arrendamientos, servicios y obra
 
 II. Integrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, servicios y obras para exploración y producción susceptibles de consolidación;
 
-III. Elaborar y evaluar las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras de exploración y producción;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+III. Implementar las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras de exploración y producción;
 
 IV. Programar y controlar la gestión, así como la resolución de asuntos en materia de adquisiciones, arrendamientos, servicios y obras para contrataciones para exploración y producción;
 
@@ -3337,11 +3377,15 @@ IX. Participar en la integración del programa anual de adquisiciones, arrendami
 
 X. Atender, en el ámbito de su competencia, las controversias que deriven de los procedimientos de contratación; así como los procedimientos de conciliación que se presenten en la ejecución de los contratos y convenios de exploración y producción;
 
-XI. Proponer alternativas para la atención de necesidades de Procura y Abastecimiento de las contrataciones para exploración y producción;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-XII. Elaborar los análisis de mercado de los requerimientos de contratación para exploración y producción que determine el Director Operativo de Procura y Abastecimiento, y
+XI. Proponer alternativas para la atención de necesidades de Procura y Abastecimiento de las contrataciones para exploración y producción, y
 
-XIII. Coadyuvar en la operación de los órganos colegiados formalmente instituidos de los que sea parte la Dirección Operativa de Procura y Abastecimiento.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+XII. Elaborar los análisis de mercado de los requerimientos de contratación para exploración y producción que determine el Director Operativo de Procura y Abastecimiento.
+
+XIII. (DEROGADA, D.O.F. 30 DE JULIO DE 2018)
 
 #### SECCIÓN SÉPTIMA. DE LA COORDINACIÓN DE PROCURA Y ABASTECIMIENTO PARA TRANSFORMACIÓN INDUSTRIAL
 
@@ -3355,7 +3399,9 @@ II. Coordinar y suscribir, en el ámbito de su competencia, los actos relacionad
 
 III. Coordinar la participación para la integración y actualización del programa anual de adquisiciones, arrendamientos, servicios y obras de transformación industrial, etileno, logística, cogeneración y fertilizantes, así como dar seguimiento a su ejecución;
 
-IV. Coordinar la elaboración y evaluación de las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras de transformación industrial, etileno, logística, cogeneración y fertilizantes;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IV. Coordinar la implementación de las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras de transformación industrial, etileno, logística, cogeneración y fertilizantes;
 
 V. (DEROGADA, D.O.F. 11 DE MAYO DE 2018)
 
@@ -3369,7 +3415,9 @@ VIII. Coordinar la elaboración de los análisis de mercado de los requerimiento
 
 La Gerencia de Contrataciones para Proyectos tendrá las funciones siguientes:
 
-I. Elaborar y evaluar las estrategias de contratación de obras y servicios relacionados con las mismas, para proyectos de transformación industrial, etileno, logística, cogeneración y fertilizantes;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+I. Implementar las estrategias de contratación de obras y servicios relacionados con las mismas, para proyectos de transformación industrial, etileno, logística, cogeneración y fertilizantes;
 
 II. Programar y controlar la gestión, así como la resolución de asuntos en materia de obras y servicios relacionados con las mismas, para contrataciones para proyectos de transformación industrial, etileno, logística, cogeneración y fertilizantes;
 
@@ -3397,7 +3445,9 @@ X. Elaborar los análisis de mercado de los requerimientos de contratación para
 
 La Gerencia de Contrataciones para Producción, Comercialización y Confiabilidad tendrá las funciones siguientes:
 
-I. Elaborar y evaluar las estrategias de contratación de adquisiciones, arrendamientos, y servicios para producción, comercialización y confiabilidad de transformación industrial, etileno, logística, cogeneración y fertilizantes;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+I. Implementar las estrategias de contratación de adquisiciones, arrendamientos, y servicios para producción, comercialización y confiabilidad de transformación industrial, etileno, logística, cogeneración y fertilizantes;
 
 II. Programar y controlar la gestión, así como la resolución de asuntos en materia de adquisiciones, arrendamientos y servicios de contrataciones para producción, comercialización y confiabilidad de transformación industrial, etileno, logística, cogeneración y fertilizantes;
 
@@ -3431,7 +3481,9 @@ II. Coordinar y suscribir, en el ámbito de su competencia, los actos relacionad
 
 III. Coordinar la participación para la integración y actualización del programa anual de adquisiciones, arrendamientos, servicios y obras para servicios de soporte y de salud, así como dar seguimiento a su ejecución;
 
-IV. Coordinar la elaboración y evaluación de las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras para servicios de soporte y de salud;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IV. Coordinar la implementación de las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras para servicios de soporte y de salud;
 
 V. (DEROGADA, D.O.F. 11 DE MAYO DE 2018)
 
@@ -3445,7 +3497,9 @@ VIII. Coordinar la elaboración de los análisis de mercado para los procedimien
 
 La Gerencia de Contrataciones para Servicios de Soporte y de Salud tendrá las funciones siguientes:
 
-I. Elaborar y evaluar las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras para servicios de soporte y de salud;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+I. Implementar las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras para servicios de soporte y de salud;
 
 II. Programar y controlar la gestión, así como la resolución de asuntos en materia de adquisiciones, arrendamientos, servicios y obras de contrataciones para servicios de soporte y de salud;
 
@@ -3481,11 +3535,21 @@ III. Elaborar y emitir los análisis de mercado para los procedimientos de contr
 
 IV. Elaborar y emitir, en el ámbito de su competencia, los análisis de mercado para los procedimientos de contratación correspondientes a Procura y Abastecimiento para transformación industrial, etileno, logística, cogeneración y fertilizantes;
 
-V. Integrar, y dar seguimiento al programa anual de adquisiciones, arrendamientos, servicios y obras para servicios de soporte y de salud;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-VI. Revisar que las iniciativas de contratación para servicios de soporte y salud requeridas por Pemex se encuentren alineadas al presupuesto, y
+V. Elaborar y emitir los análisis de mercado para la concertación de alianzas contractuales;
 
-VII. Coordinar la integración de iniciativas para la agregación de demanda de las solicitudes de contratación para servicios de soporte para Pemex en conjunto con las Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VI. Integrar y dar seguimiento al programa anual de adquisiciones, arrendamientos, servicios y obras para servicios de soporte y de salud;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VII. Revisar que las iniciativas de contratación para servicios de soporte y salud requeridas por Pemex se encuentren alineadas al presupuesto, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VIII. Coordinar la integración de iniciativas para la agregación de demanda de las solicitudes de contratación para servicios de soporte para Pemex en conjunto con las Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
 
 #### SECCIÓN NOVENA. DE LA SUBDIRECCIÓN DE RECURSOS HUMANOS
 
@@ -3853,6 +3917,14 @@ II. Coordinar la asesoría en materia de adquisición de bienes inmuebles y su d
 
 III. Coordinar la formalización y ejecución de los convenios y contratos que a título oneroso o gratuito se celebren sobre bienes muebles e inmuebles propiedad de Pemex, de sus Empresas Productivas Subsidiarias y, en su caso, de Empresas Filiales, así como de aquéllos que tengan por objeto alianzas y nuevos negocios;
 
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+III Bis. Coordinar la gestión para la solicitud de servicios en materia patrimonial de fedatarios públicos, respecto de bienes muebles e inmuebles propiedad o en posesión de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+III Ter. Coordinar los actos necesarios para la contratación de los servicios de valuación de bienes muebles e inmuebles y justipreciación de rentas, así como aquéllos que se deriven de la administración patrimonial;
+
 IV. Coordinar y ejecutar la integración, actualización, consolidación y difusión de los inventarios patrimoniales y financieros de los bienes de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como rendir los informes ante las instancias gubernamentales que correspondan;
 
 V. Coordinar la atención de los requerimientos de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, para la constitución y administración de los derechos para el uso y ocupación superficial de los terrenos necesarios para el desarrollo de proyectos y/o regularización de las áreas superficiales que se requieran, con la intervención de las áreas competentes de Pemex;
@@ -3883,15 +3955,27 @@ V. Elaborar las convocatorias y bases de los concursos abiertos e invitaciones, 
 
 VI. Presidir y resolver los concursos abiertos y conducir los de invitación y adjudicación directa como excepción a éstos, para la enajenación de bienes muebles e inmuebles, propiedad de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en términos de las disposiciones aplicables;
 
-VII. Formalizar los convenios y contratos relacionados con la administración patrimonial de bienes muebles e inmuebles en los cuales sean parte Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como aquellos actos jurídicos de carácter patrimonial que deriven de alianzas y nuevos negocios;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-VIII. Contratar los servicios de valuación de bienes muebles e inmuebles y justipreciación de rentas, así como aquéllos que se deriven de la administración patrimonial, y administrar el padrón de valuadores;
+VII. Formalizar los convenios, contratos y cualquier acto jurídico, relacionados con la administración patrimonial respecto de bienes muebles e inmuebles propiedad o en posesión de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como aquéllos de carácter patrimonial que deriven de alianzas y nuevos negocios;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VIII. Realizar los actos necesarios para la contratación de los servicios de valuación de bienes muebles e inmuebles y justipreciación de rentas, así como aquéllos que se deriven de la administración patrimonial, y administrar el padrón de valuadores;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VIII Bis. Gestionar los servicios, en materia patrimonial, prestados por fedatarios públicos, relacionados con la administración patrimonial respecto de bienes muebles e inmuebles propiedad o en posesión de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como administrar el padrón de fedatarios públicos;
 
 IX. Formalizar los actos de adquisición y de enajenación gratuita u onerosa de bienes inmuebles de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en términos de las disposiciones aplicables;
 
-X. Celebrar los contratos de arrendamiento inmobiliario de Pemex en su calidad de arrendador o arrendatario;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-XI. Integrar los expedientes de enajenación de bienes muebles, conforme a la normativa vigente, así como la emisión de las facturas de las enajenaciones de los mismos, y
+X. Celebrar los contratos de arrendamiento inmobiliario de Pemex y de sus Empresas Productivas Subsidiarias en su calidad de arrendador o arrendatario;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+XI. Integrar los expedientes de enajenación de bienes muebles e inmuebles, conforme a la normativa en la materia y gestionar la generación de las facturas de las enajenaciones de los mismos, y
 
 XII. Participar en la integración de los programas anuales de enajenación de bienes muebles e inmuebles.
 
@@ -3915,7 +3999,9 @@ VII. Elaborar el Programa Anual de Enajenación de Bienes Inmuebles en Pemex, su
 
 VIII. Asesorar a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales en materia de administración patrimonial, en la identificación, difusión y dictaminación de los bienes inmuebles de su patrimonio, que ya no sean necesarios para el cumplimiento de sus actividades;
 
-IX. Integrar los expedientes de desincorporación y de enajenación de bienes inmuebles, conforme a la normativa vigente, y
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IX. Integrar en los expedientes, la documentación de la desincorporación de bienes inmuebles que, en su caso, autorice el Consejo de Administración, y
 
 X. Realizar las funciones de responsable inmobiliario de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
 
@@ -4031,13 +4117,17 @@ IV. Operar y dar mantenimiento a los sistemas de seguridad y contra incendio en 
 
 La Subdirección de Comunicación y Mercadotecnia tendrá las funciones siguientes:
 
-I. Coordinar el diseño e implementación de las estrategias de comunicación corporativa, difusión, relaciones públicas, mercadotecnia, derechos de propiedad intelectual e industrial, de Pemex, sus Empresas Productivas y, en su caso, Empresas Filiales;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+I. Coordinar el diseño e implementación de las estrategias de comunicación corporativa, difusión, relaciones públicas, mercadotecnia, derechos de propiedad intelectual e industrial, de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
 II. Coordinar la elaboración e implementación de los programas de comunicación y mercadotecnia;
 
 III. Coordinar la elaboración, difusión y administración de los contenidos de la información que se publica en el portal de internet de Pemex, los diferentes medios de comunicación y plataformas digitales de Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-IV. Coordinar el diseño de campañas de difusión y promoción de la imagen de Pemex, sus Empresas Productivas y, en su caso, Empresas Filiales;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IV. Coordinar el diseño de campañas de difusión y promoción de la imagen de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
 V. Fortalecer los vínculos institucionales con los medios de comunicación, nacionales e internacionales;
 
@@ -4187,7 +4277,9 @@ La Subdirección de Consultoría Jurídica tendrá las funciones siguientes:
 
 I. Ejercer la función jurídica institucional en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en la atención de consultas de carácter jurídico en las distintas áreas del derecho, así como en materia de contratos y convenios, excepto en las materias que son competencia de otras áreas de la Dirección Jurídica, y en la revisión y sanción jurídica de la normativa interna;
 
-II. Coordinar la atención de consultas de carácter jurídico en las distintas áreas del derecho, y en materia de contratos y convenios de Procura y Abastecimiento, patrimoniales, generales de colaboración o marco, comerciales, de franquicia, y los relacionados con las Actividades Reguladas por la Ley de Hidrocarburos, así como aquéllos entre Pemex y sus Empresas Productivas Subsidiarias o entre estas últimas, que se generen y requieran en la Ciudad de México, distintas a proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios relacionados con los mismos, que son competencia de otras áreas de la Dirección Jurídica;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+II. Coordinar la atención de consultas de carácter jurídico en las distintas áreas del derecho, y en materia de contratos y convenios de Procura y Abastecimiento, patrimoniales, generales de colaboración o marco, comerciales, de franquicia, los relacionados con las Actividades Reguladas por la Ley de Hidrocarburos, aquéllos entre Pemex y sus Empresas Productivas Subsidiarias o entre estas últimas, y en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios, que se generen a nivel central, que no se relacionen con los esquemas contractuales o contratos aprobados para la implementación de los proyectos y modelos de negocio y de las asociaciones o alianzas;
 
 III. Coordinar, en el ámbito de su competencia, la prestación de servicios jurídicos a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales y terceros;
 
@@ -4199,11 +4291,15 @@ VI. Coordinar la revisión y sanción jurídica de la normativa interna de Pemex
 
 VII. Coordinar la asesoría de los asuntos que se sometan al Consejo de Administración y a los consejos de administración de las Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales y la revisión de los instrumentos correspondientes; así como emitir la opinión jurídica cuando proceda;
 
-VIII. Coordinar la elaboración de modelos de contratos y cláusulas tipo, así como la revisión jurídica de proyectos de contratos y convenios relacionados con Procura y Abastecimiento, patrimoniales, generales de colaboración o marco, entre Pemex y sus Empresas Productivas Subsidiarias o entre estas últimas, comerciales, de franquicia, y con las Actividades Reguladas y otros instrumentos jurídicos; distintos a proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios relacionados con los mismos;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VIII. Coordinar la elaboración de modelos de contratos y cláusulas tipo, así como la revisión jurídica de proyectos de contratos y convenios relacionados con Procura y Abastecimiento, patrimoniales, generales de colaboración o marco, entre Pemex y sus Empresas Productivas Subsidiarias o entre estas últimas, comerciales, de franquicia, relacionados con las Actividades Reguladas, y aquéllos en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios, y otros instrumentos jurídicos; que no se relacionen con los esquemas contractuales o contratos aprobados para la implementación de los proyectos y modelos de negocio y de las asociaciones o alianzas;
 
 IX. Coordinar la definición y el establecimiento de los términos y condiciones jurídicas; la revisión de los proyectos de contratos y convenios, de las operaciones financieras en las que intervengan Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como supervisar el apoyo en su negociación y la elaboración de las opiniones jurídicas que se requieran;
 
-X. Coordinar el trámite para el otorgamiento y revocación de poderes de Pemex y sus Empresas Productivas Subsidiarias a nivel nacional, y otros servicios prestados por fedatarios públicos en la Ciudad de México y Estado de México, así como supervisar el mecanismo de control del padrón de fedatarios públicos a nivel nacional;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+X. Coordinar la gestión para el otorgamiento y revocación de poderes de Pemex y sus Empresas Productivas Subsidiarias a nivel nacional, y otros servicios prestados por fedatarios públicos en la Ciudad de México y Estado de México, así como supervisar el mecanismo de control del padrón de fedatarios públicos a nivel nacional;
 
 XI. Coordinar el trámite de la solicitud ante fedatarios públicos, tratándose de otros servicios prestados por éstos, que correspondan a los estados de Hidalgo, Morelos, Puebla y Tlaxcala, con la participación de las subdirecciones Jurídica Contenciosa y de Administración de Cartera y Jurídica de Operación Regional;
 
@@ -4251,23 +4347,37 @@ XII. Apoyar en la conducción del gobierno corporativo en Pemex, sus Empresas Pr
 
 La Gerencia Jurídica de Contratos tendrá las funciones siguientes:
 
-I. Atender las consultas de carácter jurídico de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en materia de contratos y convenios de Procura y Abastecimiento, patrimoniales, generales de colaboración o marco, comerciales, de franquicia, y los relacionados con las Actividades Reguladas, así como aquéllos entre Pemex y sus Empresas Productivas Subsidiarias o entre estas últimas, que se generen y requieran en la Ciudad de México, distintas a proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios relacionados con los mismos;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-II. Asesorar a los directores, titulares de la Unidad de Control Interno Institucional y de Auditoría Interna, subdirectores, coordinadores y gerentes de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en materia de contratos y convenios de Procura y Abastecimiento, patrimoniales, generales de colaboración o marco, comerciales, de franquicia, y los relacionados con las Actividades Reguladas, así como aquéllos entre Pemex y sus Empresas Productivas Subsidiarias o entre estas últimas, distintos a proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios relacionados con los mismos;
+I. Atender las consultas de carácter jurídico de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en materia de contratos y convenios de Procura y Abastecimiento, patrimoniales, generales de colaboración o marco, comerciales, de franquicia, los relacionados con las Actividades Reguladas, aquéllos entre Pemex y sus Empresas Productivas Subsidiarias o entre estas últimas, y en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios, que se generen a nivel central, que no se relacionen con los esquemas contractuales o contratos aprobados para la implementación de los proyectos y modelos de negocio y de las asociaciones o alianzas;
 
-III. Elaborar análisis jurídicos relacionados con contratos y convenios, distintos a proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-IV. Asesorar en los procedimientos de contratación y en actividades previas a los mismos, así como en la ejecución de los contratos y convenios que se generen y requieran en la Ciudad de México, distintos a proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios;
+II. Asesorar a los directores, titulares de la Unidad de Control Interno Institucional y de Auditoría Interna, subdirectores, coordinadores y gerentes de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en materia de contratos y convenios de Procura y Abastecimiento, patrimoniales, generales de colaboración o marco, comerciales, de franquicia, los relacionados con las Actividades Reguladas, aquéllos entre Pemex y sus Empresas Productivas Subsidiarias o entre estas últimas, y en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios, que no se relacionen con los esquemas contractuales o contratos aprobados para la implementación de los proyectos y modelos de negocio y de las asociaciones o alianzas;
 
-V. Revisar jurídicamente los proyectos de contratos y convenios que pretendan celebrar Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, de Procura y Abastecimiento, patrimoniales, generales de colaboración o marco, comerciales, de franquicia, y relacionados con las Actividades Reguladas, que se generen y requieran en la Ciudad de México, distintos a proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios relacionados con los mismos;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-VI. Asesorar en la resolución de controversias derivadas de los contratos y convenios y en la celebración de los acuerdos de voluntades que diriman las mismas, que se generen y requieran en la Ciudad de México y que no estén vinculados con proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios;
+III. Elaborar análisis jurídicos relacionados con contratos y convenios, incluyendo aquéllos en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios, que no se relacionen con los esquemas contractuales o contratos aprobados para la implementación de los proyectos y modelos de negocio y de las asociaciones o alianzas;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IV. Asesorar en los procedimientos de contratación y en actividades previas a los mismos, en los contratos en los que Pemex o sus Empresas Productivas Subsidiarias sean prestadores de servicios, así como en la ejecución de los contratos y convenios que se generen a nivel central, que no se relacionen con los esquemas contractuales o contratos aprobados para la implementación de los proyectos y modelos de negocio y de las asociaciones o alianzas;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+V. Revisar jurídicamente los proyectos de contratos y convenios que pretendan celebrar Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, de Procura y Abastecimiento, patrimoniales, generales de colaboración o marco, comerciales, de franquicia, los relacionados con las Actividades Reguladas, y aquéllos en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios, que se generen a nivel central, que no se relacionen con los esquemas contractuales o contratos aprobados para la implementación de los proyectos y modelos de negocio y de las asociaciones o alianzas;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VI. Asesorar en la resolución de controversias derivadas de los contratos y convenios, incluyendo aquéllos en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios, y en la celebración de los acuerdos de voluntades que diriman las mismas, que se generen a nivel central, que no se relacionen con los esquemas contractuales o contratos aprobados para la implementación de los proyectos y modelos de negocio y de las asociaciones o alianzas;
 
 VII. Participar en el procedimiento para la autorización de las cesiones de derechos y obligaciones de los contratos de su competencia;
 
 VIII. Otorgar, a nombre y por cuenta y orden de Pemex y sus Empresas Productivas Subsidiarias, el consentimiento para llevar a cabo la cesión de los derechos de cobro de los contratos de su competencia;
 
-IX. Elaborar, cuando se le requiera, modelos de contrato y cláusulas tipo para las adquisiciones, arrendamientos, servicios y obras, que sirvan como guía para los procedimientos de contratación que lleve a cabo el área de Procura y Abastecimiento;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IX. Elaborar, a manera de apoyo, modelos de contrato y cláusulas tipo para las adquisiciones, arrendamientos, servicios y obras, que sirvan como guía para los procedimientos de contratación que lleve a cabo el área de Procura y Abastecimiento;
 
 X. Elaborar los modelos de contratos generales de colaboración o marco, patrimoniales, de franquicia y de confidencialidad;
 
@@ -4323,7 +4433,17 @@ X. Representar administrativamente a Pemex, sus Empresas Productivas Subsidiaria
 
 La Subdirección Jurídica de Proyectos y Negocios tendrá las funciones siguientes:
 
-I. Ejercer la función jurídica institucional en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en la asesoría jurídica para el diseño, coordinación, implementación y ejecución de los proyectos y modelos de negocio, alianzas y asociaciones en materia de exploración y extracción, de transformación industrial y de otras líneas de negocio; en la elaboración de los modelos de contratos y convenios y de otros instrumentos jurídicos y en la revisión jurídica de los proyectos de contratos y convenios y otros instrumentos jurídicos que resulten de los proyectos y modelos de negocio y de las alianzas y asociaciones antes referidas; en la negociación y, en su caso, representación jurídica en asuntos en materia regulatoria, seguridad industrial, seguridad operativa y protección ambiental ante las autoridades e instancias competentes, y la asesoría jurídica para la evaluación de su impacto en las actividades de exploración y extracción, de transformación industrial y de otras líneas de negocio, así como coordinar la atención de las consultas jurídicas relacionadas a dichos ámbitos, excepto en las materias competencia de otras áreas de la Dirección Jurídica;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 30 DE JULIO DE 2018)</small>
+
+I. Ejercer la función jurídica institucional en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en la asesoría jurídica para:
+
+a) El diseño, coordinación, implementación y ejecución de los proyectos y modelos de negocio, alianzas y asociaciones en materia de exploración y extracción, de transformación industrial y de otras líneas de negocio;
+
+b) La elaboración de los modelos de contratos y convenios y de otros instrumentos jurídicos y en la revisión jurídica de los proyectos de contratos y convenios y otros instrumentos jurídicos y en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios que resulten de los esquemas contractuales o contratos aprobados para la implementación de los proyectos y modelos de negocio y de las asociaciones y alianzas antes referidas;
+
+c) La negociación y, en su caso, representación jurídica en asuntos en materia regulatoria, seguridad industrial, seguridad operativa y protección ambiental ante las autoridades e instancias competentes, y la asesoría jurídica para la evaluación de su impacto en las actividades de exploración y extracción, de transformación industrial y de otras líneas de negocio, y
+
+d) Atender las consultas jurídicas relacionadas a los ámbitos a que se refieren los incisos anteriores.
 
 II. Coordinar y supervisar el diseño, elaboración y revisión jurídica de los instrumentos jurídicos relacionados con las alianzas y asociaciones de las Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, empresas en las que participen de manera minoritaria, directa o indirectamente, cuando se relacionen con los proyectos y modelos de negocio para actividades de exploración y extracción, de transformación industrial y de otras líneas de negocio;
 
@@ -4333,7 +4453,9 @@ IV. Asesorar jurídicamente a Pemex y a sus Empresas Productivas Subsidiarias fr
 
 V. Coordinar y supervisar la negociación, diseño, elaboración y revisión de los instrumentos jurídicos, términos, condiciones, lineamientos y modelos relacionados con las alianzas, asociaciones, constitución de vehículos de propósito específico, consorcios y demás formas de asociación para la realización de los proyectos y modelos de negocios de exploración y extracción, de transformación industrial y de otras líneas de negocio;
 
-VI. Determinar y dar seguimiento a las acciones jurídicas que se desarrollarán en coordinación con la Subdirección Jurídica de Operación Regional, en relación con los proyectos y modelos de negocio, alianzas y asociaciones en actividades de exploración y extracción, de transformación industrial y de otras líneas de negocio;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VI. Determinar, supervisar y establecer la coordinación y las medidas necesarias para el seguimiento a las acciones jurídicas que se desarrollarán en relación con los proyectos y modelos de negocio, alianzas y asociaciones en actividades de exploración y extracción, de transformación industrial y de otras líneas de negocio, con el apoyo de la Subdirección Jurídica de Operación Regional;
 
 VII. Determinar la conveniencia de que Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, lleven a cabo las gestiones y actos tendientes a la conciliación de controversias extrajudiciales o judiciales relacionadas con proyectos y modelos de negocio, alianzas y asociaciones en actividades de exploración y extracción, de transformación industrial y de otras líneas de negocio, previa opinión de la Subdirección Jurídica Contenciosa y de Administración de Cartera;
 
@@ -4347,7 +4469,9 @@ X. Coordinar las actividades a que se refieren las fracciones anteriores para pr
 
 La Gerencia Jurídica de Proyectos y Negocios de Exploración y Extracción tendrá, en el ámbito de dichas actividades, las funciones siguientes:
 
-I. Brindar asesoría jurídica en el diseño, coordinación, implementación y ejecución de los proyectos y modelos de negocio a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como elaborar los modelos de contratos y convenios y otros instrumentos jurídicos y revisar jurídicamente los proyectos de contratos y convenios y otros instrumentos jurídicos que resulten de los proyectos y modelos de negocio y de las alianzas y asociaciones antes referidas, y atender las consultas jurídicas relacionadas a dichos ámbitos, excepto en las materias competencia de otras áreas de la Dirección Jurídica;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+I. Brindar asesoría jurídica en el diseño, coordinación, implementación y ejecución de los proyectos y modelos de negocio a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como elaborar los modelos de contratos y convenios y otros instrumentos jurídicos y revisar jurídicamente los proyectos de contratos y convenios y otros instrumentos jurídicos y en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios que resulten de los esquemas contractuales o contratos aprobados para la implementación de los proyectos y modelos de negocio y de las asociaciones y alianzas antes referidas, y atender las consultas jurídicas relacionadas a dichos ámbitos, excepto en las materias competencia de otras áreas de la Dirección Jurídica;
 
 II. Diseñar, elaborar y revisar los instrumentos jurídicos relacionados con las alianzas y asociaciones de las Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, empresas en las que participen de manera minoritaria, directa o indirectamente, que resulten de los proyectos y modelos de negocio;
 
@@ -4361,7 +4485,9 @@ VI. Asesorar jurídicamente y, en su caso, representar legalmente, en coordinaci
 
 VII. Participar en la negociación, diseño, elaboración y revisión de los instrumentos jurídicos, términos, condiciones, lineamientos y modelos relacionados con las alianzas, asociaciones, constitución de vehículos de propósito específico, consorcios y demás formas de asociación, para la realización de los proyectos y modelos de negocio;
 
-VIII. Coordinar con la Gerencia correspondiente de la Subdirección Jurídica de Operación Regional, el apoyo y seguimiento en la implementación de las acciones jurídicas relacionadas con los proyectos y modelos de negocio, alianzas y asociaciones;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VIII. Proponer, coordinar y desarrollar las medidas para el apoyo y seguimiento en la implementación de las acciones jurídicas relacionadas con los proyectos y modelos de negocio, alianzas y asociaciones, con el apoyo del área o áreas competentes de la Subdirección Jurídica de Operación Regional;
 
 IX. Opinar sobre la conveniencia de que Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, lleven a cabo las gestiones y actos tendientes a la conciliación de controversias extrajudiciales o judiciales, relacionados con proyectos y modelos de negocio, alianzas y asociaciones, y
 
@@ -4371,7 +4497,9 @@ X. Llevar a cabo las actividades a que se refieren las fracciones I a IX anterio
 
 La Gerencia Jurídica de Proyectos, Negocios, Regulación y Asuntos Internacionales tendrá, en el ámbito de dichas actividades, las funciones siguientes:
 
-I. Brindar asesoría jurídica en el diseño, coordinación, implementación y ejecución de los proyectos y modelos de negocio a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como elaborar los modelos de contratos y convenios y otros instrumentos jurídicos y revisar jurídicamente los proyectos de contratos y convenios y otros instrumentos jurídicos que resulten de los proyectos y modelos de negocio y de las alianzas y asociaciones antes referidas, y atender las consultas jurídicas relacionadas a dichos ámbitos, excepto en las materias competencia de otras áreas de la Dirección Jurídica;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+I. Brindar asesoría jurídica en el diseño, coordinación, implementación y ejecución de los proyectos y modelos de negocio a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como elaborar los modelos de contratos y convenios y otros instrumentos jurídicos y revisar jurídicamente los proyectos de contratos y convenios y otros instrumentos jurídicos y en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios que resulten de los esquemas contractuales o contratos aprobados para la implementación de los proyectos y modelos de negocio y de las asociaciones y alianzas antes referidas, y atender las consultas jurídicas relacionadas a dichos ámbitos, excepto en las materias competencia de otras áreas de la Dirección Jurídica;
 
 II. Diseñar, elaborar y revisar los instrumentos jurídicos relacionados con las alianzas y asociaciones de las Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, empresas en las que participen de manera minoritaria, directa o indirectamente, que resulten de los proyectos y modelos de negocio;
 
@@ -4385,7 +4513,9 @@ VI. Asesorar jurídicamente y, en su caso, representar legalmente, en coordinaci
 
 VII. Participar en la negociación, diseño, elaboración y revisión de los instrumentos jurídicos, términos, condiciones, lineamientos y modelos relacionados con las alianzas, asociaciones, constitución de vehículos de propósito específico, consorcios y demás formas de asociación, para la realización de los proyectos y modelos de negocio;
 
-VIII. Coordinar con la Gerencia correspondiente de la Subdirección Jurídica de Operación Regional, el apoyo y seguimiento en la implementación de las acciones jurídicas relacionadas con los proyectos y modelos de negocio, alianzas y asociaciones;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VIII. Proponer, coordinar y desarrollar las medidas para el apoyo y seguimiento en la implementación de las acciones jurídicas relacionadas con los proyectos y modelos de negocio, alianzas y asociaciones, con el apoyo del área o áreas competentes de la Subdirección Jurídica de Operación Regional;
 
 IX. Opinar sobre la conveniencia de que Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, lleven a cabo las gestiones y actos tendientes a la conciliación de controversias judiciales o extrajudiciales, relacionados con proyectos y modelos de negocios, alianzas y asociaciones;
 
@@ -4529,11 +4659,15 @@ I. Ejercer la función jurídica institucional a nivel regional, en Pemex, sus E
 
 II. Difundir a las áreas de su adscripción, la normativa interna emitida por el Director Jurídico, en las distintas materias de las subdirecciones de Consultoría Jurídica, Jurídica de Proyectos y Negocios, y Jurídica Contenciosa y de Administración de Cartera, así como supervisar su aplicación;
 
-III. Participar, con la Subdirección Jurídica de Proyectos y Negocios, en los asuntos que deriven de la ejecución de los proyectos y modelos de negocio;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+III. Apoyar a la Subdirección Jurídica de Proyectos y Negocios, en los asuntos que deriven de la ejecución de los proyectos y modelos de negocio y de las alianzas y asociaciones;
 
 IV. Coordinar, en el ámbito de su competencia, la atención de consultas de carácter jurídico en colaboración con las subdirecciones jurídicas correspondientes;
 
-V. Coordinar la elaboración y revisión jurídica de los proyectos de contratos, convenios y otros instrumentos jurídicos, en colaboración con la Subdirección de Consultoría Jurídica y la Subdirección Jurídica de Proyectos y Negocios;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+V. Coordinar la revisión jurídica de los proyectos de contratos, convenios y otros instrumentos jurídicos, incluidos aquéllos en los que Pemex y sus Empresas Productivas Subsidiarias presten servicios a terceros en las regiones;
 
 VI. Coordinar la atención de procedimientos judiciales, administrativos, arbitrales, conciliaciones, mecanismos y medios alternativos de solución de controversias o controversias en materia laboral, civil, mercantil, fiscal, administrativa, penal, agraria, seguridad industrial y protección ambiental, así como procedimientos constitucionales, y administrar la cartera correspondiente;
 
@@ -4555,7 +4689,9 @@ II. Atender los juicios de amparo, así como formular los informes previos y jus
 
 III. Atender los procedimientos judiciales, administrativos, arbitrales, conciliaciones, mecanismos y medios alternativos de solución de controversias o controversias en materia laboral, civil, mercantil, fiscal, administrativa, penal, agraria, seguridad industrial y protección ambiental, así como procedimientos constitucionales, y administrar la cartera correspondiente;
 
-IV. Revisar los proyectos de contratos, convenios, escrituras, poderes, entre otros instrumentos jurídicos, que pretendan celebrar Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IV. Revisar los proyectos de contratos, convenios, escrituras, poderes, entre otros instrumentos jurídicos, que pretendan celebrar Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, incluidos aquéllos en los que Pemex y sus Empresas Productivas Subsidiarias presten servicios a terceros;
 
 V. Atender las consultas de carácter jurídico, en coordinación con las áreas de las subdirecciones jurídicas competentes;
 
@@ -4563,7 +4699,9 @@ VI. Realizar trámites jurídicos ante las autoridades administrativas y guberna
 
 VII. Atender los asuntos de naturaleza contenciosa ante los órganos jurisdiccionales, así como los asuntos arbitrales y los medios alternativos de solución de controversias, en coordinación con la Subdirección Jurídica Contenciosa y de Administración de Cartera;
 
-VIII. Apoyar a la Subdirección Jurídica de Proyectos y Negocios en los asuntos que deriven de la ejecución de los proyectos y modelos de negocio de exploración y producción, de transformación industrial y de otras líneas de negocio;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VIII. Atender, en coordinación con la Subdirección Jurídica de Proyectos y Negocios, los asuntos que deriven de la ejecución de los proyectos y modelos de negocio y de las alianzas y asociaciones;
 
 IX. Participar en el procedimiento para la autorización de las cesiones de derechos y obligaciones de los contratos, y en los trámites relativos a la cesión de derechos de cobro de los contratos celebrados por Pemex y sus Empresas Productivas Subsidiarias, en el ámbito de su competencia;
 
@@ -4573,7 +4711,9 @@ XI. Llevar a cabo la defensa jurídica de los servidores públicos de Pemex, sus
 
 XII. Allanarse y transigir en los juicios en materia laboral, así como abstenerse de interponer los recursos y formular promociones, cuando así convenga a los intereses de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y
 
-XIII. Asesorar en los procedimientos de contratación y en actividades previas a los mismos, así como en la ejecución de los contratos y convenios, distintos a proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+XIII. Asesorar en los procedimientos de contratación y en actividades previas a los mismos, así como en la ejecución de los contratos y convenios, incluidos aquéllos en los que Pemex y sus Empresas Productivas Subsidiarias presten servicios a terceros.
 
 ###### Artículo 168.
 
@@ -4583,9 +4723,13 @@ I. Ejercer la función jurídica institucional en la Región Noreste, que compre
 
 II. Atender los juicios de amparo, así como formular los informes previos y justificados, en el ámbito de su competencia;
 
-III. Llevar a cabo, en el ámbito de su competencia, las transacciones, conciliaciones, mecanismos alternativos de solución de controversias, incluso de formas de terminación anticipada en procesos en materia penal, en coordinación con las áreas de las subdirecciones jurídicas que correspondan;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-IV. Revisar los proyectos de contratos, convenios, escrituras, poderes, entre otros instrumentos jurídicos, que pretendan celebrar Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+III. Atender los procedimientos judiciales, administrativos, arbitrales, conciliaciones, mecanismos y medios alternativos de solución de controversias o controversias en materia laboral, civil, mercantil, fiscal, administrativa, penal, agraria, seguridad industrial y protección ambiental, así como procedimientos constitucionales, y administrar la cartera correspondiente;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IV. Revisar los proyectos de contratos, convenios, escrituras, poderes, entre otros instrumentos jurídicos, que pretendan celebrar Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, incluidos aquéllos en los que Pemex y sus Empresas Productivas Subsidiarias presten servicios a terceros;
 
 V. Atender las consultas de carácter jurídico, en coordinación con las áreas de las subdirecciones jurídicas competentes;
 
@@ -4593,7 +4737,9 @@ VI. Realizar trámites jurídicos ante las autoridades administrativas y guberna
 
 VII. Atender los asuntos de naturaleza contenciosa ante los órganos jurisdiccionales, los asuntos arbitrales y los medios alternativos de solución de controversias, en coordinación con la Subdirección Jurídica Contenciosa y de Administración de Cartera;
 
-VIII. Apoyar a la Subdirección Jurídica de Proyectos y Negocios en los asuntos que deriven de la ejecución de los proyectos y modelos de negocio de exploración y producción, de transformación industrial y de otras líneas de negocio;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VIII. Atender, en coordinación con la Subdirección Jurídica de Proyectos y Negocios, los asuntos que deriven de la ejecución de los proyectos y modelos de negocio y de las alianzas y asociaciones;
 
 IX. Participar en el procedimiento para la autorización de las cesiones de derechos y obligaciones de los contratos, y en los trámites relativos a la cesión de derechos de cobro de los contratos celebrados por Pemex y sus Empresas Productivas Subsidiarias, en el ámbito de su competencia;
 
@@ -4603,7 +4749,9 @@ XI. Llevar a cabo la defensa jurídica de los servidores públicos de Pemex, sus
 
 XII. Allanarse y transigir en los juicios en materia laboral, así como abstenerse de interponer los recursos y formular promociones, cuando así convenga a los intereses de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y
 
-XIII. Asesorar en los procedimientos de contratación y en actividades previas a los mismos, así como en la ejecución de los contratos y convenios, distintos a proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+XIII. Asesorar en los procedimientos de contratación y en actividades previas a los mismos, así como en la ejecución de los contratos y convenios, incluidos aquéllos en los que Pemex y sus Empresas Productivas Subsidiarias presten servicios a terceros.
 
 ###### Artículo 169.
 
@@ -4613,9 +4761,13 @@ I. Ejercer la función jurídica institucional en la Región Pacífico-Bajío, q
 
 II. Atender los juicios de amparo, así como formular los informes previos y justificados, en el ámbito de su competencia;
 
-III. Llevar a cabo, en el ámbito de su competencia, las transacciones, conciliaciones, mecanismos alternativos de solución de controversias, incluso de formas de terminación anticipada en procesos en materia penal, en coordinación con las áreas de las subdirecciones jurídicas que correspondan;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-IV. Revisar los proyectos de contratos, convenios, escrituras, poderes, entre otros instrumentos jurídicos, que pretendan celebrar Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+III. Atender los procedimientos judiciales, administrativos, arbitrales, conciliaciones, mecanismos y medios alternativos de solución de controversias o controversias en materia laboral, civil, mercantil, fiscal, administrativa, penal, agraria, seguridad industrial y protección ambiental, así como procedimientos constitucionales, y administrar la cartera correspondiente;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IV. Revisar los proyectos de contratos, convenios, escrituras, poderes, entre otros instrumentos jurídicos, que pretendan celebrar Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, incluidos aquéllos en los que Pemex y sus Empresas Productivas Subsidiarias presten servicios a terceros;
 
 V. Atender las consultas de carácter jurídico, en coordinación con las áreas de las subdirecciones jurídicas competentes;
 
@@ -4623,7 +4775,9 @@ VI. Realizar trámites jurídicos ante las autoridades administrativas y guberna
 
 VII. Atender los asuntos de naturaleza contenciosa ante los órganos jurisdiccionales, los asuntos arbitrales y los medios alternativos de solución de controversias, en coordinación con la Subdirección Jurídica Contenciosa y de Administración de Cartera;
 
-VIII. Apoyar a la Subdirección Jurídica de Proyectos y Negocios en los asuntos que deriven de la ejecución de los proyectos y modelos de negocio de exploración y producción, de transformación industrial y de otras líneas de negocio;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VIII. Atender, en coordinación con la Subdirección Jurídica de Proyectos y Negocios, los asuntos que deriven de la ejecución de los proyectos y modelos de negocio y de las alianzas y asociaciones;
 
 IX. Participar en el procedimiento para la autorización de las cesiones de derechos y obligaciones de los contratos, y en los trámites relativos a la cesión de derechos de cobro de los contratos celebrados por Pemex y sus Empresas Productivas Subsidiarias, en el ámbito de su competencia;
 
@@ -4633,7 +4787,9 @@ XI. Llevar a cabo la defensa jurídica de los servidores públicos de Pemex, sus
 
 XII. Allanarse y transigir en los juicios en materia laboral, así como abstenerse de interponer los recursos y formular promociones, cuando así convenga a los intereses de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y
 
-XIII. Asesorar en los procedimientos de contratación y en actividades previas a los mismos, así como en la ejecución de los contratos y convenios, distintos a proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+XIII. Asesorar en los procedimientos de contratación y en actividades previas a los mismos, así como en la ejecución de los contratos y convenios, incluidos aquéllos en los que Pemex y sus Empresas Productivas Subsidiarias presten servicios a terceros.
 
 ###### Artículo 170.
 
@@ -4643,9 +4799,13 @@ I. Ejecutar la función jurídica institucional en la Región Sureste, que compr
 
 II. Atender los juicios de amparo, así como formular los informes previos y justificados, en el ámbito de su competencia;
 
-III. Llevar a cabo, en el ámbito de su competencia, las transacciones, conciliaciones, mecanismos alternativos de solución de controversias, incluso de formas de terminación anticipada en procesos en materia penal, en coordinación con las áreas de las subdirecciones jurídicas que correspondan;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
 
-IV. Revisar los proyectos de contratos, convenios, escrituras, poderes, entre otros instrumentos jurídicos, que pretendan celebrar Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+III. Atender los procedimientos judiciales, administrativos, arbitrales, conciliaciones, mecanismos y medios alternativos de solución de controversias o controversias en materia laboral, civil, mercantil, fiscal, administrativa, penal, agraria, seguridad industrial y protección ambiental, así como procedimientos constitucionales, y administrar la cartera correspondiente;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+IV. Revisar los proyectos de contratos, convenios, escrituras, poderes, entre otros instrumentos jurídicos, que pretendan celebrar Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, incluidos aquéllos en los que Pemex y sus Empresas Productivas Subsidiarias presten servicios a terceros;
 
 V. Atender las consultas de carácter jurídico, en coordinación con las áreas de las subdirecciones jurídicas competentes;
 
@@ -4653,7 +4813,9 @@ VI. Realizar trámites jurídicos ante las autoridades administrativas y guberna
 
 VII. Atender los asuntos de naturaleza contenciosa ante los órganos jurisdiccionales, los asuntos arbitrales y los medios alternativos de solución de controversias, en coordinación con la Subdirección Jurídica Contenciosa y de Administración de Cartera;
 
-VIII. Apoyar a la Subdirección Jurídica de Proyectos y Negocios en los asuntos que deriven de la ejecución de los proyectos y modelos de negocio de exploración y producción, de transformación industrial y de otras líneas de negocio;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+VIII. Atender, en coordinación con la Subdirección Jurídica de Proyectos y Negocios, los asuntos que deriven de la ejecución de los proyectos y modelos de negocio y de las alianzas y asociaciones;
 
 IX. Participar en el procedimiento para la autorización de las cesiones de derechos y obligaciones de los contratos, y en los trámites relativos a la cesión de derechos de cobro de los contratos celebrados por Pemex y sus Empresas Productivas Subsidiarias, en el ámbito de su competencia;
 
@@ -4663,7 +4825,9 @@ XI. Llevar a cabo la defensa jurídica de los servidores públicos de Pemex, sus
 
 XII. Allanarse y transigir en los juicios en materia laboral, así como abstenerse de interponer los recursos y formular promociones, cuando así convenga a los intereses de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y
 
-XIII. Asesorar en los procedimientos de contratación y en actividades previas a los mismos, así como en la ejecución de los contratos y convenios, distintos a proyectos de negocio, asociaciones o alianzas, o en los que Pemex o sus Empresas Productivas Subsidiarias sean contratadas para prestar servicios.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2018)</small>
+
+XIII. Asesorar en los procedimientos de contratación y en actividades previas a los mismos, así como en la ejecución de los contratos y convenios, incluidos aquéllos en los que Pemex y sus Empresas Productivas Subsidiarias presten servicios a terceros.
 
 #### SECCIÓN SEXTA. DE LA GERENCIA JURÍDICA DE CUMPLIMIENTO LEGAL
 
@@ -4987,9 +5151,11 @@ El comité ejecutivo se integrará conforme al acuerdo de establecimiento del MO
 
 ## TÍTULO OCTAVO. SISTEMA INSTITUCIONAL PARA LAS INVERSIONES VINCULADAS A LA CADENA DE VALOR
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE JULIO DE 2018)</small>
+
 ###### Artículo 190.
 
-El Director General instruirá el establecimiento del sistema institucional para la definición, autorización y desarrollo de las Inversiones Vinculadas a la Cadena de Valor. Este sistema será obligatorio para Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y permitirá contar con el sustento para las diferentes fases de los proyectos de inversión de capital, las asociaciones y alianzas estratégicas, desinversiones y proyectos productivos desarrollados por terceros a solicitud de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
+El sistema institucional para las Inversiones Vinculadas a la Cadena de Valor será obligatorio para Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales y permitirá contar con el sustento para las diferentes fases de los proyectos de inversión de capital, las asociaciones y alianzas estratégicas, desinversiones y proyectos productivos desarrollados por terceros a solicitud de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
 
 El Director General presentará al Consejo de Administración las inversiones, asociaciones, alianzas estratégicas y desinversiones que requieran su aprobación, en términos de la normativa que al efecto emita. Por su parte, el desarrollo de las mismas será responsabilidad de los directores corporativos y operativos, el Director Jurídico y el Titular de la Unidad de Control Interno Institucional de Pemex, según corresponda, de los directores de las Empresas Productivas Subsidiarias y, en su caso, de las Empresas Filiales, en la materia de su competencia.
 
@@ -5067,9 +5233,11 @@ El Consejo de Administración, el Director General, los directores corporativos,
 
 El Director General establecerá el proceso regulatorio en Pemex y sus Empresas Productivas Subsidiarias, para lo cual emitirá las disposiciones respectivas para dicha regulación.
 
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2018)</small>
+
 ###### Artículo 199.
 
-La normativa interna de Pemex y sus Empresas Productivas Subsidiarias deberá contar con su definición y nivel de autorización y con sanción jurídica, por parte de la Dirección Jurídica, la cual revisará que dicha normativa guarde congruencia con las disposiciones jurídicas aplicables, y con las demás normas de Pemex y de sus Empresas Productivas Subsidiarias. Asimismo, dicha normativa contará con un dictamen de apego al Sistema de Control Interno y al proceso regulatorio, emitido por la Unidad de Control Interno Institucional.
+La normativa interna de Pemex y sus Empresas Productivas Subsidiarias deberá contar con la revisión y sanción jurídica, por parte de la Dirección Jurídica, la cual revisará que dicha normativa guarde congruencia con las disposiciones jurídicas aplicables, y con las demás normas de Pemex y de sus Empresas Productivas Subsidiarias. Asimismo, dicha normativa contará con un dictamen de apego al Sistema de Control Interno y al proceso regulatorio, emitido por la Unidad de Control Interno Institucional.
 
 ###### Artículo 200.
 
@@ -5091,27 +5259,17 @@ En su ausencia, el Director General será suplido por el Director Corporativo de
 
 En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será representado por el Director Jurídico o, en su defecto, por quien éste designe.
 
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2018)</small>
+
 ###### Artículo 204.
 
-El Director General designará por escrito a los servidores públicos que deban suplir, en sus ausencias temporales, a los directores corporativos, al Director Jurídico y al Titular de la Unidad de Control Interno Institucional.
+El Director General, los directores corporativos, el Director Jurídico, el Titular de la Unidad de Control Interno Institucional, el Director Operativo de Procura y Abastecimiento, los subdirectores, coordinadores y gerentes, en el ámbito de su competencia, designarán por escrito a los servidores públicos que deban suplir las ausencias temporales de su personal.
 
-Los directores corporativos y el Director Jurídico de Pemex, designarán por escrito a los servidores públicos que deban suplir las ausencias de sus subdirectores.
-
-El Titular de la Unidad de Control Interno Institucional designará por escrito a los servidores públicos que deban suplir las ausencias de sus gerentes.
-
-Los subdirectores, designarán por escrito a los servidores públicos que deban suplir las ausencias de sus gerentes.
-
-Los gerentes designarán por escrito a los servidores públicos que deban suplir las ausencias de su personal.
+La designación a que se refiere este artículo deberá recaer en servidores públicos que se encuentren adscritos al área del personal al que suplan.
 
 ###### Artículo 205.
 
-El Director Corporativo de Administración y Servicios designará por escrito al servidor público que deba suplir, en su ausencia, al Director Operativo de Procura y Abastecimiento.
-
-El Director Operativo de Procura y Abastecimiento designará por escrito a los servidores públicos que deban suplir las ausencias de sus coordinadores.
-
-Los coordinadores, designarán por escrito a los servidores públicos que deban suplir las ausencias de sus gerentes.
-
-Los gerentes de la Dirección Operativa de Procura y Abastecimiento designarán por escrito a los servidores públicos que deban suplir las ausencias de su personal.
+(DEROGADO, D.O.F. 30 DE JULIO DE 2018)
 
 ###### Artículo 206.
 
@@ -5404,3 +5562,9 @@ PRIMERO. La presente modificación al Estatuto Orgánico de Petróleos Mexicanos
 SEGUNDO. La Delegación en Transformación Industrial de la Auditoría Interna atenderá, en el ámbito de su competencia, los asuntos relacionados con auditoría en Pemex Cogeneración y Servicios hasta su conclusión, en virtud del proceso de liquidación de dicha Empresa Productiva Subsidiaria.
 
 TERCERO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos. La implementación de dicha estructura se realizará mediante movimientos compensados, que no impliquen incremento al presupuesto global de servicios personales.
+
+D.O.F. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS”.]
+
+ÚNICO. La presente modificación al Estatuto Orgánico de Petróleos Mexicanos entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
