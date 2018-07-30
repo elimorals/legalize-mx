@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2018-05-21"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -304,6 +304,14 @@ Adicionalmente, en coordinación con la Secretaría de Medio Ambiente, establece
 ###### ARTICULO 13.
 
 El proceso de planeación, deberá iniciarse a nivel comunitario y continuar en el ámbito Municipal, donde sus instancias de planeación son los Consejos y los Comités, Subcomités Municipales, los cuales contarán previamente con la información que les permita definir las acciones más viables que se requieren en su jurisdicción, decidiendo la mejor forma de operar programas y distribuir los presupuestos dirigidos al campo.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+###### ARTICULO 13 Bis.
+
+Las acciones de desarrollo rural sustentable que efectúe el Estado, atenderán de manera diferenciada y prioritaria a las regiones y zonas con mayor rezago social y económico, mediante el impulso a las actividades del medio rural, el incremento a la inversión productiva, el fomento a la diversificación de oportunidades de empleo e ingreso y la promoción de vínculos entre los ámbitos rural y urbano para facilitar a los agentes de la sociedad rural el acceso a los apoyos que requiere su actividad productiva, así como a los servicios para su bienestar.
+
+Para lo anterior, el Estado promoverá lo necesario para formular y llevar a cabo programas de atención especial, con la concurrencia de los instrumentos de política de desarrollo social y de población a cargo de las dependencias y entidades de la administración pública competentes, de la Entidad, la federación y los municipios.
 
 ###### ARTICULO 14.
 
@@ -1270,5 +1278,11 @@ TERCERO.- El valor de la Unidad de Medida y Actualización será determinado con
 P.O. 21 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 435 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 463.- QUE ADICIONA EL ARTÍCULO 13 BIS A LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
