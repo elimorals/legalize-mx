@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2018-07-09"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1873,6 +1873,10 @@ XIII.- Las demás que señalen esta Constitución y sus leyes.
 
 Para el despacho de los negocios del orden administrativo, habrá el número de Secretarios que se determina en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y los demás servidores públicos que determine la propia Ley, así como los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás órganos creados o que se creen en la forma que establezcan las leyes.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+La función conciliatoria en materia laboral a que se refiere el tercer párrafo del artículo 97 de esta Constitución, estará a cargo del Centro de Conciliación Laboral del Estado, el cual tendrá personalidad jurídica y patrimonio propios, será especializado e imparcial, contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. El Centro de Conciliación Laboral del Estado se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en la ley correspondiente. La designación y remoción del Titular del Centro de Conciliación Laboral del Estado, serán realizadas libremente por el Titular del Poder Ejecutivo.
+
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2018)</small>
 
 La función de Consejero Jurídico del Poder Ejecutivo estará a cargo de la Dependencia del Ejecutivo Estatal que, para tal efecto, establezca la ley.
@@ -2037,27 +2041,23 @@ E. La Fiscalía General contará con un órgano interno de control, cuyo titular
 
 ### CAPÍTULO V. DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 97.
 
-Se deposita el ejercicio del Poder Judicial del Estado en el Tribunal Superior de Justicia, Tribunales y Juzgados, que lo ejercerán en el lugar, grado y términos asignados por esta Constitución y su ley reglamentaria correspondiente.
+Se deposita el ejercicio del Poder Judicial del Estado en el Tribunal Superior de Justicia, sus Tribunales y Juzgados, que lo ejercerán en el lugar, grado y términos asignados por esta Constitución, su ley orgánica y demás leyes que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+Con excepción de lo establecido en la Constitución Política de los Estados Unidos Mexicanos, corresponde al Poder Judicial del Estado conocer, en los términos de las leyes respectivas, de las controversias jurídicas que se susciten entre los poderes del Estado, el Estado y los Municipios o entre los Municipios del Estado, respecto de materias de constitucionalidad y legalidad local; así como de las controversias de los particulares entre sí.
 
-Con excepción de lo establecido en la Constitución Política de los Estados Unidos Mexicanos, corresponde a los Tribunales y Juzgados del Estado conocer, en los términos de las leyes respectivas, de las controversias jurídicas que se susciten entre los poderes del Estado, respecto de materias de constitucionalidad y legalidad local; el Estado y los Municipios; El Estado y los particulares; entre los Municipios del Estado, los Municipios y los particulares; y los particulares entre sí.
+Así también, corresponderá al Poder Judicial del Estado de Quintana Roo, en términos de lo dispuesto en su Ley Orgánica y la Legislación Federal de la materia, conocer y resolver las controversias que se susciten en materia laboral de conformidad con lo establecido en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos. Previo a accionar la vía jurisdiccional, los trabajadores y patrones deberán agotar la instancia conciliatoria.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+Las sentencias y resoluciones de los jueces y magistrados deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
 La administración, vigilancia, disciplina y carrera judicial del Poder Judicial del Estado, con excepción de los Magistrados del Tribunal Superior de Justicia, estarán a cargo del Consejo de la Judicatura, en los términos que señala esta Constitución y la ley respectiva.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2008)</small>
+El Poder Judicial del Estado, tendrá la obligación de proporcionar a los particulares, los mecanismos alternativos de solución a sus controversias jurídicas de conformidad con la legislación aplicable y los servicios de defensoría pública y de asistencia jurídica a los sectores sociales desprotegidos, con excepción de la defensoría y la instancia conciliatoria en materia laboral las cuales estarán a cargo del Poder Ejecutivo del Estado. Para tal efecto las leyes respectivas establecerán las facultades e integración de las instituciones que de acuerdo a su competencia brindarán estos servicios.
 
-El Poder Judicial del Estado, tendrá la obligación de proporcionar a los particulares, los medios alternativos de solución a sus controversias jurídicas, tales como la conciliación o el arbitraje, de acuerdo a procedimientos de mediación, así como los procedimientos y eficacia de sus acuerdos y resoluciones. Además tendrá la obligación de proporcionar los servicios de defensoría pública y de asistencia jurídica a los sectores sociales desprotegidos. Para tal efecto las leyes respectivas establecerán las facultades e integración de las instituciones que de acuerdo a su competencia brindarán estos servicios.
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
-
-El Sistema de Justicia Indígena se ejercerá por las autoridades, de acuerdo con los usos y costumbres de los pueblos y comunidades indígenas, en los términos que disponga la ley de la materia.
+El Sistema de Justicia Indígena se ejercerá por las autoridades, de acuerdo con los usos y costumbres de los pueblos y comunidades indígenas, en los términos que disponga la Ley de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -2977,7 +2977,7 @@ EST P.V. X Y
 
 42 43 S 65°25'58"E 833.981 467675.680 2257242.454 42
 
-43 43 1 Sobre la línea de costa 468434.164 2256895.718 43
+43 1 Sobre la línea de costa 468434.164 2256895.718 43
 
 del Mar Caribe hacia
 
@@ -5330,3 +5330,21 @@ P.O. 9 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 251, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 51 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 92 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 229 POR EL QUE SE REFORMA EL ARTÍCULO 97 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 92, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE JUSTICIA LABORAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. El inicio de funciones en materia laboral del Poder Judicial del Estado y del Centro de Conciliación Laboral, será en los plazos y términos que establezca la ley reglamentaria correspondiente.
+
+Tercero. En tanto el Poder Judicial del Estado y el Centro de Conciliación Laboral del Estado inicien sus funciones respecto de su competencia en materia laboral, la Junta de Conciliación y Arbitraje en el Estado, así como sus juntas especiales, continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo.
+
+Los asuntos que estuvieran en trámite al momento de iniciar su operatividad el Poder Judicial del Estado en materia laboral, así como el Centro de Conciliación Laboral del Estado, serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
+
+Cuarto. En cualquier caso, los derechos de los trabajadores que tienen a su cargo la atención de los asuntos en la Junta Local de Conciliación y Arbitraje, así como sus juntas especiales, se respetarán conforme a la ley.
+
+Quinto. Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado, conformará la Comisión para la Implementación de la Reforma en materia de Justicia Laboral en el Estado, como un órgano colegiado e interinstitucional, integrado por representantes de los tres Poderes del Estado, de la Secretaría del Trabajo y Previsión Social del Estado y demás instituciones del sector público que se consideren necesarios. Esta Comisión tendrá por objeto ejecutar y coordinar las políticas, programas y acciones para la implementación de la reforma en materia de justicia laboral.
+
+Sexto. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
