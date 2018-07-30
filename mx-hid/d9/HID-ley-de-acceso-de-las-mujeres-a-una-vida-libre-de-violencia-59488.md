@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2017-12-31"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -379,13 +379,41 @@ En el caso concreto de violencia feminicida se observaran las disposiciones resp
 
 Los modelos de atención, prevención y sanción que establezcan el Estado y los Municipios deberán ser aprobados por el Sistema Estatal previo registro ante la Secretaría Técnica.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2018)</small>
+
+### CAPÍTULO IV BIS. DE LA VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+ARTÍCULO 23 BIS.- La violencia política en razón de género es toda acción u omisión que, en el marco del ejercicio de los derechos político electorales o bien en el ejercicio de un cargo público, tenga por objeto o resultado limitar o anular el ejercicio efectivo de los derechos político electorales de una mujer o mujeres, o el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público.
+
+Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+ARTÍCULO 23 TER.- Se consideran como conductas constitutivas de violencia política en razón de género, las siguientes:
+
+l. Imponer la realización de actividades distintas a las atribuciones inherentes a su cargo o función;
+
+II. Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función;
+
+III. Proporcionar información o documentación incompleta o errónea con objeto de impedir el ejercicio pleno de los derechos político electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+IV. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político electorales o inducir al ejercicio indebido de sus atribuciones;
+
+V. Difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político electorales o impedir el ejercicio de sus atribuciones o facultades;
+
+VI. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida;
+
+VII. Impedir o restringir su reincorporación al cargo o función en los casos de licencia o permiso conforme a las disposiciones aplicables; y
+
+VIII. Impedir u obstaculizar los derechos de asociación y afiliación a un partido político.
+
 ### CAPÍTULO V. DE LAS ÓRDENES DE PROTECCIÓN
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
-
-### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 24.
 
@@ -489,7 +517,7 @@ Para los efectos previstos en este capítulo los cuerpos de seguridad pública e
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 33.
 
@@ -525,6 +553,10 @@ VIII.- La Procuraduría General de Justicia del Estado;
 
 IX.- El Instituto Hidalguense de las Mujeres, quien ocupará la Secretaría Técnica del Sistema;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IX BIS.- El Instituto Estatal Electoral;
+
 X.- El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 XI.- El Poder Judicial a través del o la Presidente del Tribunal Superior de Justicia;
@@ -551,9 +583,7 @@ ARTÍCULO 34 BIS.- El Sistema opera con tres subsistemas:
 
 I.- Subsistema Municipal: Conformado por los Municipios que integran el Estado de Hidalgo, los cuales podrán establecer a su interior los ejes de acción que prevé la Ley, además de realizar actividades regionales en conjunto;
 
-II.- Subsistema de Acción: Conformado por los titulares de las Dependencias de la
-
-Administración Pública Estatal, e integrado por tres comisiones de:
+II.- Subsistema de Acción: Conformado por los titulares de las Dependencias de la Administración Pública Estatal, e integrado por tres comisiones de:
 
 a.- Prevención;
 
@@ -569,7 +599,7 @@ III.- Subsistema de Armonización: Conformado por dos unidades, la legislativa y
 
 La Secretaría Técnica del Sistema elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO IV. DE LA ATENCIÓN A LAS VICTIMAS
+### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 36.
 
@@ -609,7 +639,7 @@ El Titular del Ejecutivo Estatal propondrá en el Proyecto de Presupuesto de Egr
 
 Los integrantes del Sistema proporcionaran sin dilación y con toda oportunidad la información estadística que corresponda para integrarse al Banco Estatal de datos de violencia contra las mujeres y deberán participar en la elaboración del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
-### CAPÍTULO V. DE LOS REFUGIOS PARA LAS VICTIMAS DE VIOLENCIA
+### CAPÍTULO IV. DE LA ATENCIÓN A LAS VICTIMAS
 
 ###### ARTÍCULO 39.
 
@@ -881,6 +911,10 @@ VI.- Proporcionar a las víctimas asesoría que les permita reconocer su situaci
 
 VII.- Promover la cultura de respeto a los derechos fundamentales de las mujeres;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+VII Bis.- Promover y proteger a través de la Fiscalía Especializada en Delitos Electorales, el ejercicio de los derechos humanos político-electorales de las mujeres, así como recibir las denuncias e investigar a través de la Fiscalía Especializada en Delitos Electorales, los hechos probablemente constitutivos de delito cometido en contra de los derechos político electorales de las mujeres;
+
 VIII.- Procurar la seguridad de la víctima; y
 
 IX.- Las demás previstas para el cumplimiento de la presente Ley.
@@ -925,7 +959,17 @@ XIV.- Establecer los indicadores para la evaluación de la administración públ
 
 XV.- Orientar y asesorar a los integrantes del Sistema Estatal en la elaboración del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XVI.- Impulsar la armonización de las Leyes en materia de derechos fundamentales de las mujeres; y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
+XVI.- Impulsar la armonización de las Leyes en materia de derechos fundamentales de las mujeres;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+XVI bis.- Coadyuvar con las instancias competentes en la formación de liderazgos políticos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+XVI ter.- Impulsar mecanismos de promoción, protección y respeto de los derechos político-electorales de las mujeres;
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
@@ -935,9 +979,25 @@ XVII.- Recibir, orientar y dar el trámite pertinente a las quejas presentadas c
 
 XVIII.- Las demás previstas para el cumplimiento de la Ley.
 
-#### SECCIÓN NOVENA. DE LOS MUNICIPIOS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE JULIO DE 2018)</small>
 
-#### SECCIÓN DÉCIMA. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+#### SECCIÓN OCTAVA BIS. DEL INSTITUTO ESTATAL ELECTORAL
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+ARTÍCULO 47 BIS.- Corresponde al Instituto Estatal Electoral, en el ámbito de sus atribuciones:
+
+l. Prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género;
+
+II. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos políticos-electorales de las mujeres;
+
+III. Realizar la difusión de campañas para la prevención y erradicación de la violencia política en razón de género;
+
+IV. Capacitar al personal que labora en el Instituto Estatal Electoral y personas integrantes de mesas directivas de casilla para prevenir y en su caso erradicar la violencia política en razón de género; y
+
+V. Las demás que establezcan la legislación en materia electoral.
+
+#### SECCIÓN NOVENA. DE LOS MUNICIPIOS
 
 ###### ARTÍCULO 48.
 
@@ -971,6 +1031,8 @@ XI.- La atención de los demás asuntos que en materia de violencia contra las m
 
 Las Entidades y Dependencias que conforman el Sistema, podrán celebrar convenios de cooperación, coordinación y concertación en la materia.
 
+#### SECCIÓN DÉCIMA. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+
 ###### ARTÍCULO 50.
 
 Corresponde al Sistema para el Desarrollo Integral de la Familia:
@@ -991,9 +1053,7 @@ VII.- Apoyar la realización de estudios y proyectos de investigación en los Mu
 
 VIII.- Las demás previstas en otros ordenamientos legales aplicables.
 
-### CAPÍTULO ÚNICO. DE LAS SANCIONES
-
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+### CAPÍTULO V. DE LOS REFUGIOS PARA LAS VICTIMAS DE VIOLENCIA
 
 ###### ARTÍCULO 51.
 
@@ -1018,6 +1078,10 @@ VI.- En los casos de violencia familiar, las mujeres que tengan hijas o hijos me
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
 VII.- Ser informadas cuando el agresor quede libre después del proceso judicial o que por cualquier circunstancia recupere su libertad, a fin de que la víctima esté en condiciones de tomar las medidas de protección pertinentes.
+
+### CAPÍTULO ÚNICO. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 52.
 
@@ -1216,3 +1280,11 @@ P.O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 322 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 464 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, DEROGÁNDOSE EL TÍTULO VIGÉSIMO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos electorales previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta Ley resulte más benéfica.
