@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-11450
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-05-13"
-last_updated: "2016-05-13"
+last_updated: "2018-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114506&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-05-04"
 ---
 # ESTATUTO ORGANICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, PUBLICADO EN EL D.O.F. DE 30 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, PUBLICADO EN EL D.O.F. DE 30 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE JULIO DE 2018.
 
 Estatuto, publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 13 de mayo de 2016.
 
@@ -1978,3 +1978,19 @@ CUARTO.- Se abroga el Estatuto Orgánico de la Financiera Rural (hoy denominada 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente.
 
 En cumplimiento del acuerdo 4.12 del punto 4 (Otros asuntos para Autorización, Aprobación del Estatuto Orgánico de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero), tomado en la Septuagésima Tercera Sesión Ordinaria del H. Consejo Directivo de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, celebrada con fecha siete de abril del año dos mil dieciséis, por medio del cual se aprueba el Estatuto Orgánico; y en mi carácter de Secretario del H. Consejo Directivo de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, expido la presente certificación del Estatuto Orgánico de mérito para su debida publicación y observancia, en la Ciudad de México, a cuatro de mayo de dos mil dieciséis.- El Secretario del H. Consejo Directivo de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, Jan Roberto Boker Regens.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO”.]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes de resolver al entrar en vigor este Estatuto Orgánico, que, conforme al mismo, su atención deba pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento.
+
+TERCERO.- Continuarán vigentes los Manuales y Normas diversas expedidas por la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero siempre y cuando éstas no se opongan al presente.
+
+CUARTO.- Se abroga el Estatuto Orgánico de la Financiera Agropecuaria, Rural, Forestal y Pesquera, publicado en el Diario Oficial de la Federación el 13 de mayo de 2016.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente.
