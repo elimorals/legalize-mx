@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2017-08-14"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -141,9 +141,7 @@ XX.- Centros de Control Animal y Zoonosis: Los lugares públicos destinados para
 
 XXI.- Área Técnica: Área Técnica de Protección y Sanidad Animal y Control de Especies Animales;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
-
-XXI Bis.- Dirección: Dirección General de Estudios Ambientales.
+XXI Bis.- (DEROGADA, P.O. 30 DE JULIO DE 2018)
 
 XXII.- Epizootia: La enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
 
@@ -171,9 +169,9 @@ XXX Bis.- Crueldad: Acto de brutalidad, sádico o zoofóbico contra cualquier an
 
 XXXI.- Prevención: Conjunto de acciones y medidas para evitar el deterioro de la salud humana o animal, conservado (sic) el equilibrio ecológico;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
-XXXI Bis.- Procuraduría: Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial.
+XXXI Bis.- Procuraduría: Procuraduría Estatal de Protección al Ambiente.
 
 XXXII.- Rabia: Enfermedad viral infectocontagiosa aguda y mortal, transmitida por la saliva o sangre de algún animal contagiado;
 
@@ -189,9 +187,9 @@ XXXVII.- Sacrificio humanitario: El sacrificio necesario de animales, de manera 
 
 XXXVIII.- Salud: Equilibrio armónico, biológico, psicológico y social, además de la ausencia de enfermedad;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
-XXXVIII Bis.- Secretaría: Secretaría de Medio Ambiente y Ordenamiento Territorial.
+XXXVIII Bis.- Secretaría: Secretaría de Medio Ambiente y Recursos Naturales;
 
 XXXIX.- Sufrimiento: El padecimiento o dolor causado por daño físico o psicológico a cualquier animal;
 
@@ -251,23 +249,21 @@ II.- Celebrar Convenios de Coordinación con las Autoridades Federales, Municipa
 
 III.- Crear los instrumentos económicos adecuados para el desarrollo de programas de educación, protección, conservación, difusión y campañas, en las materias de la presente Ley.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
-###### Artículo 7 Bis.
+###### Artículo 7° Bis.
 
-Corresponde a la Procuraduría de Protección al Ambiente y del Ordenamiento Territorial garantizar el cumplimiento del presente ordenamiento, realizando actividades de investigación, inspección, vigilancia, atención de la denuncia ciudadana, aplicación de medidas precautorias y sanciones establecidas en esta Ley.
+Corresponde a la Procuraduría Estatal de Protección al Ambiente, garantizar el cumplimiento del presente ordenamiento, realizando actividades de investigación, inspección, vigilancia, atención de la denuncia ciudadana, aplicación de medidas precautorias y sanciones establecidas en esta Ley.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
-###### Artículo 7 Ter.
+###### Artículo 7° Ter.
 
-Corresponde a la Dirección General de Estudios Ambientales de la Secretaría, la elaboración de normas técnicas que garanticen el cumplimiento del presente ordenamiento, así como la investigación para determinar el estado que guardan las poblaciones de animales ferales y fauna exótica en los hábitat naturales del Estado.
+Corresponde a la Secretaría, la elaboración de normas técnicas que garanticen el cumplimiento del presente ordenamiento, así como la investigación para determinar el estado que guardan las poblaciones de animales ferales y fauna exótica en los hábitat naturales del Estado.
 
-La Dirección como coordinadora de los trabajos de la Estrategia Estatal de Biodiversidad deberá incluir un apartado específico relacionado con el conocimiento, uso y conservación de la fauna en el Estado.
+La Secretaría deberá incluir dentro de alguna de sus Direcciones Generales un apartado específico relacionado con el conocimiento, uso y conservación de la fauna en el Estado.
 
-Adicionalmente deberá mantener actualizado el Registro Estatal de Fauna e integrarlo al Sistema Estatal de Información Ambiental.
-
-La Dirección deberá, en coordinación con la Secretaría de Salud del Estado, dictar medidas preventivas y curativas en caso de riesgo de zoonosis o de epizootias, así como de las medidas de cuidado y control sobre especies animales utilizadas como mascotas y de la fauna en general.
+Adicionalmente deberá mantener actualizado el Registro Estatal de Fauna e integrarlo al Sistema Estatal de Información Ambiental, además en coordinación con la Secretaria de Salud del Estado, dictará medidas preventivas y curativas en caso de riesgo de zoonosis o de epizootias, así como de las medidas de cuidado y control sobre especies animales utilizadas como mascotas y de la fauna en general.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -1078,3 +1074,9 @@ P.O. 14 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 210 QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 460 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
