@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2017-10-09"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -93,6 +93,36 @@ La promoción de la participación ciudadana para el ejercicio del derecho al su
 
 El Instituto Estatal Electoral, en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de las normas establecidas y de las demás dispuestas en este Código.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+En el cumplimiento de estas obligaciones se promoverá la igualdad sustantiva entre mujeres y hombres y se prohibirá la discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+###### Artículo 3 Bis.
+
+Para los efectos de esta Ley se entiende por violencia política en razón de género, toda acción u omisión que, en el marco del ejercicio de los derechos político electorales, o bien en el ejercicio de un cargo público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político electorales de una mujer o mujeres, así como el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público.
+
+Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
+
+Se consideran como conductas constitutivas de violencia política en razón de género, las siguientes:
+
+I. Imponer la realización de actividades distintas a las atribuciones inherentes a su cargo o función;
+
+II. Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función;
+
+III. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+IV. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+
+V. Difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político electorales o impedir el ejercicio de sus atribuciones o facultades;
+
+VI. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida; VII. Impedir o restringir su reincorporación al cargo o función en los casos de licencia o permiso conforme a las disposiciones aplicables;
+
+VIII. Impedir u obstaculizar los derechos de asociación y afiliación a un partido; y
+
+IX. Se discrimine por el único motivo de ser mujer, en la programación y distribución de tiempos electorales.
+
 ## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LAS ELECCIONES
 
 ### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES
@@ -121,7 +151,9 @@ I. Derechos:
 
 a. Inscribirse en el padrón electoral y obtener su credencial para votar con fotografía;
 
-b. Constituir partidos políticos o agrupaciones políticas y afiliarse libre e individualmente a ellos;
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
+
+b. Constituir partidos políticos o agrupaciones políticas y afiliarse libre e individualmente a ellos, en un contexto libre de discriminación y de cualquier forma de violencia de género;
 
 c. Votar en la casilla que corresponda a su domicilio, salvo las excepciones que establece la ley;
 
@@ -146,6 +178,14 @@ c. Desempeñar en forma gratuita y obligatoria, el cargo de funcionario de Mesa 
 d. Desempeñar los cargos de elección popular para los que resulten electos; y
 
 e. Las demás que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+###### Artículo 6 Bis.
+
+El ejercicio de los derechos y el cumplimento de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de no violencia.
+
+El Instituto Estatal Electoral, el Tribunal Electoral del Estado de Hidalgo, los Partidos Políticos y las Agrupaciones Políticas, en términos de los artículos 1º., 2º. y 4º. de la Constitución Política de los Estados Unidos Mexicanos, de los tratados internacionales en la materia de los que el Estado Mexicano sea parte y la Constitución Política del Estado de Hidalgo, y en el ámbito de sus atribuciones, establecerán mecanismos, para prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género.
 
 ### CAPÍTULO II. DE LOS REQUISITOS DE ELEGIBILIDAD
 
@@ -291,13 +331,13 @@ II. Organizaciones con objeto social diferente a la creación de partidos; y
 
 III. Cualquier forma de afiliación corporativa.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
-Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, garantizando la participación efectiva de ambos géneros de forma paritaria en la integración de sus órganos de dirección de nivel estatal y municipal, así como en la postulación de candidatos.
+Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y garantizarán la participación efectiva de ambos géneros en la integración de sus órganos de dirección de nivel estatal y municipal, en la postulación de candidaturas, así como en la distribución de todas las prerrogativas entre mujeres y hombres de forma paritaria.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a Diputadas y Diputados Locales y Ayuntamientos. Éstos, deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a Diputadas y Diputados Locales y Ayuntamientos. Estos deberán ser objetivos y asegurar condiciones de igualdad sustantiva entre mujeres y hombres.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
@@ -379,9 +419,33 @@ VIII. Abstenerse de recurrir a la violencia y a cualquier acto que tenga por obj
 
 IX. Conducir en todo momento sus actividades dentro de los cauces legales, sujetándose a las disposiciones previstas en éste Código, sus reglamentos y acuerdos, así como los Bandos de Policía y Gobierno y demás disposiciones legales que les sean aplicables;
 
-X. Transparentar su actuación y hacer posible el acceso de los ciudadanos a su información pública, conforme a la Ley General de Partidos Políticos y demás disposiciones relativas aplicables; y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
-XI. Las demás que establezcan las disposiciones legales normativas aplicables.
+X. Someterse al procedimiento para la liquidación de los partidos políticos locales que pierdan su registro y reintegrar sus bienes y remanentes, en términos de lo dispuesto en el artículo 40 de este Código;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
+X (SIC). Prevenir, atender, sancionar y en su caso erradicar, al interior del partido político, los actos u omisiones que constituyan violencia política en razón de género;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+XII. Abstenerse de limitar, condicionar, excluir, impedir o anular la pretensión de participación de una persona en razón de género en sus órganos internos de dirección, precandidaturas, candidaturas o espacios de toma de decisiones, así como en los ámbitos legislativo o ejecutivo;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+XIII. Garantizar en igualdad de condiciones la participación de mujeres y hombres en sus órganos internos de dirección y espacios de toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+XIV. Abstenerse en su propaganda política o electoral, de cualquier expresión que denigre, discrimine o calumnie a las personas, y que constituya violencia política por razón de género;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+XV. Abstenerse de cualquier acto u omisión, que limite, condicione, excluya, impida o anule el ejercicio efectivo de los derechos político electorales de las personas y su acceso o pleno ejercicio de las atribuciones inherentes a su cargo o función partidista;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+XVI. Las demás que establezcan las disposiciones legales y normativas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
@@ -470,6 +534,14 @@ c. Las cantidades que, en su caso, se determinen para cada partido, serán entre
 d. Para el desarrollo de las actividades específicas, a que se refiere la fracción IV de este artículo, cada partido político adicionalmente deberá destinar anualmente por lo menos el dos por ciento del financiamiento público ordinario que reciba; y
 
 e. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente al menos, el cinco por ciento del financiamiento público ordinario.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+Para efectos del párrafo anterior deberá informar trimestralmente y en términos cualitativos su aplicación a efecto de que, conforme a la Ley General de Partidos Políticos, así como las demás disposiciones aplicables, el Instituto Estatal Electoral verifique su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+En caso de incumplimiento, las autoridades competentes determinarán las sanciones correspondientes.
 
 II. Para gastos de campaña.
 
@@ -1997,9 +2069,11 @@ VII. Contratar o adquirir, en todo tiempo, propaganda o cualquier otra forma de 
 
 VIII. Las expresiones verbales o escritos contrarios a la moral o que tiendan a incitar a la violencia y el desorden.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
+
 ###### Artículo 107.
 
-Los precandidatos, partidos políticos y coaliciones deberán abstenerse de expresiones que impliquen calumnia a las personas durante las precampañas y en la propaganda política que se utilice durante las mismas.
+Los precandidatos, partidos políticos y coaliciones deberán abstenerse de expresiones que impliquen calumnia a las personas, que discriminen o que constituyan violencia política en razón de género durante las precampañas y en la propaganda política que se utilice durante las mismas.
 
 ###### Artículo 108.
 
@@ -2296,6 +2370,10 @@ Las reuniones públicas realizadas por los partidos políticos y los candidatos 
 ###### Artículo 132.
 
 La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos se ajustarán a lo dispuesto por el primer párrafo del artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+En la propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos, deberán abstenerse de expresiones que calumnien a las personas, que discriminen o que constituyan violencia política en razón de género. No debe contener expresiones que constituyan violencia política en razón de género en términos de lo establecido en este Código;
 
 ###### Artículo 133.
 
@@ -3429,7 +3507,9 @@ g) Las personas que vivan o trabajen en el extranjero.
 
 V. Abstenerse de realizar por sí o por interpósita persona, actos de presión o coacción o entrega de dádivas de cualquier naturaleza, con el fin de obtener el apoyo ciudadano;
 
-VI. Abstenerse de expresiones que calumnien a las personas;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
+VI. Abstenerse de proferir ofensas, difamación, calumnia o cualquier expresión que denigre a otros aspirantes o precandidatos, partidos políticos, personas, instituciones públicas o privadas o que constituya violencia política en razón de género;
 
 VII. Rendir el informe de ingresos y egresos, en términos de la legislación general aplicable;
 
@@ -3623,9 +3703,11 @@ VII. Depositar únicamente en la cuenta bancaria abierta sus aportaciones y real
 
 VIII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-IX. Abstenerse de expresiones que calumnien a las personas;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
-X. Insertar en su propaganda de manera visible la leyenda: “Candidato Independiente”;
+IX. Abstenerse de proferir ofensas, difamación, calumnia o cualquier expresión que denigre a otros candidatos, partidos políticos, personas, instituciones públicas o privadas o que constituya violencia política en razón de género;
+
+X. Insertar en su propaganda de manera visible la leyenda: "Candidato Independiente";
 
 XI. Abstenerse de utilizar en su propaganda política o electoral, emblemas y colores utilizados por partidos políticos;
 
@@ -3925,6 +4007,10 @@ VIII (SIC). El incumplimiento de las obligaciones establecidas por el presente C
 
 IX. El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IX BIS. El incumplimiento de sus obligaciones en materia de prevención y atención de violencia política en razón de género en los términos de este Código; y
+
 X. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por el Instituto Estatal Electoral; y
 
 XI. La comisión de cualquier otra falta de las previstas en este Código.
@@ -3945,13 +4031,19 @@ III. Omitir en los informes respectivos, los recursos recibidos, en dinero o en 
 
 IV. No presentar el informe de gastos de precampaña o campaña establecidos en este Código;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IV BIS. La acción u omisión que constituya violencia política en razón de género en los términos de este Código; y
+
 V. Exceder el tope de gastos de precampaña o campaña establecidos; y
 
 VI. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JULIO DE 2018)</small>
+
 ###### Artículo 303.
 
-Son infracciones de los aspirantes a Candidatos Independientes y de los Candidatos Independientes a cargos de elección popular:
+Son infracciones de los aspirantes a candidatos independientes y de los candidatos independientes a cargos de elección popular:
 
 I. El incumplimiento de las obligaciones establecidas en este Código;
 
@@ -3977,6 +4069,10 @@ XI. La contratación, en forma directa o por terceras personas, de tiempo en cua
 
 XII. La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+XII BIS. La acción u omisión que constituya violencia política en razón de género en los términos de este Código; y
+
 XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por el Instituto Estatal Electoral; y
 
 XIV. El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
@@ -3986,6 +4082,10 @@ XIV. El incumplimiento de cualquiera de las disposiciones contenidas en este Có
 Son infracciones de los ciudadanos, de los dirigentes y afiliados a partidos políticos, o en su caso de cualquier persona física o moral, al presente Código:
 
 I. La negativa a entregar la información requerida por las autoridades electorales, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento, respecto de las operaciones mercantiles, los contratos que celebren, los donativos o aportaciones que realicen, o cualquier otro acto que los vincule con los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular; y
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+I bis. Realizar actos u omisiones que constituyan violencia política en razón de género;
 
 II. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
@@ -4005,11 +4105,17 @@ III. El incumplimiento del principio de imparcialidad establecido por el artícu
 
 IV. La utilización de programas sociales y de sus recursos, del ámbito estatal o municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IV BIS. La acción u omisión que constituya violencia política en razón de género en términos de este Código; y
+
 V. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
 ###### Artículo 307.
 
-Son infracciones de los Notarios Públicos al presente Código, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, los ciudadanos, los Representantes de partidos políticos y Candidatos Independientes, para dar fe de hechos o certificar documentos concernientes a la elección.
+Son infracciones de los Notarios Públicos al presente Código, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, los ciudadanos, los representantes de partidos políticos y candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la elección, así como el negarse injustificadamente a dar fe de los hechos o certificar documentos concernientes a la comisión de conductas constitutivas de violaciones de los derechos político electorales de una mujer por razones de su género.
 
 ###### Artículo 308.
 
@@ -4057,7 +4163,7 @@ a) Con amonestación pública;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-b Con multa de cincuenta hasta mil veces la Unidad de Medida y Actualización, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes o militantes, o de los candidatos para sus propias campañas, además de la multa, se aplicará un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+b) Con multa de cincuenta hasta mil veces la Unidad de Medida y Actualización, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes o militantes, o de los candidatos para sus propias campañas, además de la multa, se aplicará un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
 
 c) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución; o
 
@@ -4131,6 +4237,18 @@ a) Con amonestación pública; o
 
 b) Con multa de cincuenta hasta mil veces la Unidad de Medida y Actualización, según la gravedad de la falta.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE JULIO DE 2018)</small>
+
+IX. Respecto de las autoridades o los servidores públicos a que se refiere la fracción VI del artículo 299, por las infracciones previstas en la fracción IV bis del artículo 306;
+
+a) Con amonestación pública; o
+
+b) Con la suspensión o destitución e inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 30 DE JULIO DE 2018]</small>
+
+Las sanciones a las que se refiere la presente fracción serán substanciadas en términos de lo previsto en materia de responsabilidades administrativas.
+
 ###### Artículo 313.
 
 Cuando las autoridades estatales o municipales cometan alguna infracción prevista en este Código, incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada, o no presten el auxilio y colaboración que les sea requerida por el Instituto, se estará a lo siguiente:
@@ -4165,6 +4283,10 @@ III. Las condiciones socioeconómicas del infractor;
 
 IV. Las condiciones externas y los medios de ejecución;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IV bis. La observancia de los principios de igualdad sustantiva entre mujeres y hombres, de no discriminación, la perspectiva de género en términos de las disposiciones aplicables, y la violencia política en razón de género;
+
 V. La reincidencia en el incumplimiento de obligaciones; y
 
 VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
@@ -4177,13 +4299,21 @@ Las multas deberán ser pagadas en la Dirección Ejecutiva de Administración de
 
 Los recursos obtenidos con motivo de la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Título, serán destinados al Consejo de Ciencia, Tecnología e Innovación de Hidalgo en los términos de las disposiciones aplicables.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JULIO DE 2018)</small>
 
-### CAPÍTULO II. DEL PROCEDIMIENTO SANCIONADOR ORDINARIO
+### CAPÍTULO IV. DE LOS DELITOS EN MATERIA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+###### Artículo 318 Bis.
+
+Serán constitutivas de delitos en materia electoral, las conductas que como tal, sean tipificadas en la Ley General en Materia de Delitos Electorales.
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ## TÍTULO PRIMERO. DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN
 
-### CAPÍTULO III. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
+### CAPÍTULO II. DEL PROCEDIMIENTO SANCIONADOR ORDINARIO
 
 ###### Artículo 319.
 
@@ -4277,7 +4407,7 @@ Las documentales privadas, técnicas, periciales e instrumental de actuaciones, 
 
 Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos porque existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO III. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
 ###### Artículo 326.
 
@@ -4427,7 +4557,7 @@ IV. Aquéllas que únicamente se pretendan sustentar en notas de opinión period
 
 La sanción que en su caso se imponga, deberá de valorar el grado de frivolidad de la queja y el daño que se podría generar con la atención de este tipo de quejas al Instituto Estatal Electoral.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 337.
 
@@ -4435,13 +4565,21 @@ Dentro de los procesos electorales, la Secretaría Ejecutiva, instruirá el proc
 
 I. Violen lo establecido en el octavo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos en medios distintos a radio y televisión;
 
-II. Contravengan las normas sobre propaganda política o electoral; y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
+II. Contravengan las normas sobre propaganda política o electoral; incluida la difusión (sic) expresiones que constituyan violencia política en razón de género; y
 
 III. Constituyan actos anticipados de precampaña, campaña o del procedimiento para la obtención del voto ciudadano en el caso de los aspirantes a Candidatos Independientes.
 
 ###### Artículo 338.
 
 En la presunta comisión de infracciones relacionadas con propaganda política o electoral en radio y televisión, el Instituto Estatal Electoral informará y presentará la denuncia ante el Instituto Nacional Electoral.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+###### Artículo 338 Bis.
+
+Los procedimientos relacionados con la difusión de propaganda que se considere calumniosa y relacionados con infracciones por violencia política en razón de género sólo podrán iniciarse a instancia de parte afectada.
 
 ###### Artículo 339.
 
@@ -4495,7 +4633,7 @@ II. Imponer las sanciones que resulten procedentes en términos de lo dispuesto 
 
 ## TÍTULO SEGUNDO. DE LAS REGLAS GENERALES DE LOS MEDIOS DE IMPUGNACIÓN
 
-### CAPÍTULO II. DE LOS PLAZOS Y DE LOS TÉRMINOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 343.
 
@@ -4545,7 +4683,7 @@ El Presidente o el Secretario Ejecutivo del Consejo General del Instituto Estata
 
 ## TÍTULO TERCERO. DE LAS NULIDADES
 
-### CAPÍTULO III. REQUISITOS GENERALES DE LOS MEDIOS DE IMPUGNACIÓN
+### CAPÍTULO II. DE LOS PLAZOS Y DE LOS TÉRMINOS
 
 ###### Artículo 349.
 
@@ -4561,7 +4699,7 @@ El Tribunal Electoral, conforme a las disposiciones de la Constitución Polític
 
 Sin perjuicio de lo dispuesto por el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, el Pleno del Tribunal Electoral, en ejercicio de sus funciones jurisdiccionales, podrán resolver la no aplicación de leyes sobre la materia electoral contrarias a la propia Constitución. Las resoluciones que se dicten en el ejercicio de esta facultad se limitarán al caso concreto sobre el que verse el juicio. En tales casos la Sala Superior del Tribunal Electoral informará a la Suprema Corte de Justicia de la Nación.
 
-### CAPÍTULO IV. CAUSALES DE IMPROCEDENCIA Y SOBRESEIMIENTO
+### CAPÍTULO III. REQUISITOS GENERALES DE LOS MEDIOS DE IMPUGNACIÓN
 
 ###### Artículo 350.
 
@@ -4573,7 +4711,7 @@ Cuando la vulneración reclamada en el medio de impugnación respectivo se produ
 
 Los medios de impugnación previstos en este Código deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquél en que se tenga conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con la ley aplicable.
 
-### CAPÍTULO V. DE LAS PARTES
+### CAPÍTULO IV. CAUSALES DE IMPROCEDENCIA Y SOBRESEIMIENTO
 
 ###### Artículo 352.
 
@@ -4601,7 +4739,7 @@ Cuando la vulneración reclamada verse exclusivamente sobre puntos de derecho, n
 
 Respecto a lo previsto en la fracción III de este artículo, se realizará notificación electrónica de la resolución cuando las partes así lo soliciten. El Tribunal proveerá de un certificado de firma electrónica avanzada a quien así lo pida. Las partes podrán proporcionar dirección de correo electrónico que cuente con mecanismos de confirmación de los envíos de las notificaciones. Las partes deberán manifestar expresamente su voluntad de que sean notificados por esta vía.
 
-### CAPÍTULO VI. DE LA LEGITIMACIÓN Y DE LA PERSONERÍA
+### CAPÍTULO V. DE LAS PARTES
 
 ###### Artículo 353.
 
@@ -4633,7 +4771,7 @@ III. Después de haber sido admitido el medio de impugnación correspondiente, a
 
 IV. El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos político - electorales.
 
-### CAPÍTULO VII. MEDIOS DE PRUEBA
+### CAPÍTULO VI. DE LA LEGITIMACIÓN Y DE LA PERSONERÍA
 
 ###### Artículo 355.
 
@@ -4653,7 +4791,7 @@ IV. El tercero interesado, que será el partido político en lo individual, o a 
 
 Las agrupaciones políticas sólo podrán comparecer como tercero interesado a través del partido político con el que hayan celebrado acuerdo de participación.
 
-### CAPÍTULO VIII. DEL TRÁMITE
+### CAPÍTULO VII. MEDIOS DE PRUEBA
 
 ###### Artículo 356.
 
@@ -4673,7 +4811,7 @@ II. Los ciudadanos y los candidatos por su propio derecho, o a través de su Rep
 
 III. Las agrupaciones u organizaciones políticas o de ciudadanos, a través de sus Representantes legítimos, de conformidad con los estatutos respectivos y en los términos de este Código y demás disposiciones aplicables.
 
-### CAPÍTULO XIX (SIC). DE LA SUSTANCIACIÓN
+### CAPÍTULO VIII. DEL TRÁMITE
 
 ###### Artículo 357.
 
@@ -4733,7 +4871,7 @@ II. Las documentales privadas, las técnicas, las presuncionales, la instrumenta
 
 III. En ningún caso se tomarán en cuenta para resolver las pruebas que no hayan sido ofrecidas y, en su caso, aportadas al interponerse el medio de impugnación, a excepción de las pruebas supervenientes, entendiéndose éstas como los medios de convicción surgidos después de la interposición del recurso y aquellos medios de prueba existentes, pero que el promovente, el compareciente o la Autoridad Electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes del cierre de la instrucción.
 
-### CAPÍTULO X. DE LA ACUMULACIÓN
+### CAPÍTULO XIX (SIC). DE LA SUSTANCIACIÓN
 
 ###### Artículo 362.
 
@@ -4771,7 +4909,7 @@ IV. Informe circunstanciado de la autoridad responsable.
 
 El magistrado podrá requerir a la responsable que en el caso de incumplir con lo establecido en el presente artículo se hará acreedor a la imposición de la sanción que corresponda.
 
-### CAPÍTULO XI. DE LAS RESOLUCIONES
+### CAPÍTULO X. DE LA ACUMULACIÓN
 
 ###### Artículo 364.
 
@@ -4799,7 +4937,7 @@ I. El Presidente del Tribunal Electoral tomará las medidas necesarias para su c
 
 II. En el caso del recurso de revisión, el órgano competente del Instituto Estatal Electoral deberá aplicar la sanción correspondiente en los términos del Código Electoral del Estado de Hidalgo.
 
-### CAPÍTULO XII. DE LAS NOTIFICACIONES
+### CAPÍTULO XI. DE LAS RESOLUCIONES
 
 ###### Artículo 366.
 
@@ -4807,7 +4945,7 @@ Para la resolución pronta y expedita de los medios de impugnación previstos en
 
 Al acordarse la acumulación, el expediente más reciente se acumulará al más antiguo.
 
-### CAPÍTULO XIII. DE LAS MEDIDAS DE APREMIO Y CORRECCIONES DISCIPLINARIAS
+### CAPÍTULO XII. DE LAS NOTIFICACIONES
 
 ###### Artículo 367.
 
@@ -4853,7 +4991,7 @@ En casos extraordinarios, se podrá diferir la resolución de un asunto listado.
 
 Los juicios de inconformidad, en su totalidad, serán resueltos por el Pleno del Tribunal Electoral a más tardar al término de la primera semana de agosto del año de la elección.
 
-### CAPÍTULO I. DE LA NULIDAD DE LA VOTACIÓN RECIBIDA EN CASILLA
+### CAPÍTULO XIII. DE LAS MEDIDAS DE APREMIO Y CORRECCIONES DISCIPLINARIAS
 
 ###### Artículo 372.
 
@@ -4911,7 +5049,7 @@ I. Al actor del recurso y al tercero interesado, deberá realizarse personalment
 
 II. Al Consejo General del Instituto Estatal Electoral, cuyo acto o resolución fue impugnado, se le hará por correo certificado o por oficio al cual se le anexará copia certificada de la resolución.
 
-### CAPÍTULO II. DE LA NULIDAD DE LA ELECCIÓN
+### CAPÍTULO I. DE LA NULIDAD DE LA VOTACIÓN RECIBIDA EN CASILLA
 
 ###### Artículo 380.
 
@@ -4957,7 +5095,7 @@ Las medidas de apremio y las correcciones disciplinarias a que se refiere el art
 
 ## TÍTULO CUARTO. DEL RECURSO DE REVISIÓN
 
-### CAPÍTULO I. DE LA PROCEDENCIA
+### CAPÍTULO II. DE LA NULIDAD DE LA ELECCIÓN
 
 ###### Artículo 382.
 
@@ -4993,7 +5131,7 @@ X. Se permita sufragar sin credencial para votar con fotografía, o el nombre no
 
 XI. Existan irregularidades graves, plenamente acreditadas y no reparables durante la Jornada Electoral o en las actas del escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación.
 
-### CAPÍTULO II. DE LA COMPETENCIA
+### CAPÍTULO I. DE LA PROCEDENCIA
 
 ###### Artículo 385.
 
@@ -5057,7 +5195,7 @@ Las elecciones que en las etapas de resultados, declaración de validez o, en su
 
 ## TÍTULO QUINTO. DEL RECURSO DE APELACIÓN
 
-### CAPÍTULO III. DE LA LEGITIMACIÓN
+### CAPÍTULO II. DE LA COMPETENCIA
 
 ###### Artículo 392.
 
@@ -5069,19 +5207,19 @@ II. En la etapa de resultados y declaraciones de validez de las elecciones, los 
 
 III. Los actos o resoluciones dictados por la Junta Estatal Ejecutiva, los Consejos Distritales y Consejos Municipales Electorales, que no tengan recurso específico para su impugnación.
 
-### CAPÍTULO IV. DE LA RADICACIÓN Y SUSTANCIACIÓN
+### CAPÍTULO III. DE LA LEGITIMACIÓN
 
 ###### Artículo 393.
 
 Es competente para substanciarlo y resolverlo el Consejo General del Instituto Estatal Electoral.
 
-### CAPÍTULO V. DE LA RESOLUCIÓN
+### CAPÍTULO IV. DE LA RADICACIÓN Y SUSTANCIACIÓN
 
 ###### Artículo 394.
 
 Están legitimados para promoverlo los partidos políticos y coaliciones, a través de sus Representantes debidamente acreditados ante el órgano competente.
 
-### CAPÍTULO I. DE LA PROCEDENCIA
+### CAPÍTULO V. DE LA RESOLUCIÓN
 
 ###### Artículo 395.
 
@@ -5099,7 +5237,7 @@ IV. Si durante el procedimiento surgiera alguna causa de sobreseimiento, el Secr
 
 Concluida la sustanciación, el Secretario Ejecutivo proyectará la resolución que someterá a la consideración de los Consejeros Electorales para su discusión y aprobación.
 
-### CAPÍTULO II. DE LA COMPETENCIA
+### CAPÍTULO I. DE LA PROCEDENCIA
 
 ###### Artículo 397.
 
@@ -5115,7 +5253,7 @@ La resolución que se dicte en este Recurso, será recurrible mediante el recurs
 
 ## TÍTULO SEXTO. DEL JUICIO DE INCONFORMIDAD
 
-### CAPÍTULO III. DE LA LEGITIMACIÓN
+### CAPÍTULO II. DE LA COMPETENCIA
 
 ###### Artículo 400.
 
@@ -5131,13 +5269,13 @@ IV. La determinación y, en su caso, la aplicación de sanciones que en los tér
 
 V. Los ciudadanos podrán presentar el recurso de apelación cuando el Consejo General del Instituto Estatal Electoral les niegue la acreditación como observador electoral.
 
-### CAPÍTULO IV. DE LA SUSTANCIACIÓN
+### CAPÍTULO III. DE LA LEGITIMACIÓN
 
 ###### Artículo 401.
 
 Será competente para sustanciarlo y resolverlo el Pleno del Tribunal Electoral.
 
-### CAPÍTULO V. DE LA RESOLUCIÓN
+### CAPÍTULO IV. DE LA SUSTANCIACIÓN
 
 ###### Artículo 402.
 
@@ -5147,7 +5285,7 @@ I. Los partidos políticos, coaliciones o asociaciones políticas con registro, 
 
 II. Los ciudadanos, por su propio derecho, sin que sea admisible representación alguna, únicamente en los casos previstos por este Código.
 
-### CAPÍTULO I. DE LA PROCEDENCIA
+### CAPÍTULO V. DE LA RESOLUCIÓN
 
 ###### Artículo 403.
 
@@ -5195,7 +5333,7 @@ Cerrada la instrucción, el Magistrado Instructor del conocimiento, formulará e
 
 Formulado el proyecto por el Magistrado Instructor lo hará llegar a los demás Magistrados y dará cuenta al Presidente, quien ordenará la publicación del listado para que sea discutido en la sesión plenaria siguiente.
 
-### CAPÍTULO II. DE LA COMPETENCIA
+### CAPÍTULO I. DE LA PROCEDENCIA
 
 ###### Artículo 413.
 
@@ -5213,7 +5351,7 @@ Las resoluciones que al efecto emitan serán definitivas e inatacables.
 
 ## TÍTULO SÉPTIMO. DEL JUICIO PARA LA PROTECCIÓN DE LOS DERECHOS POLÍTICO-ELECTORALES DEL CIUDADANO DE LAS REGLAS PARTICULARES
 
-### CAPÍTULO III. DE LA LEGITIMACIÓN
+### CAPÍTULO II. DE LA COMPETENCIA
 
 ###### Artículo 416.
 
@@ -5249,13 +5387,13 @@ El Presidente o el Secretario de la Mesa Directiva de Casilla o del Consejo resp
 
 Los escritos de protesta recibidos en la casilla serán enviados en el sobre electoral al Consejo Distrital o Municipal que corresponda, quien deberá integrarlos junto con los recibidos por éste al expediente del juicio de inconformidad que, en su caso, se haya interpuesto y con el que estén relacionados, debiendo remitir todos los que haya recibido, aún cuando no hubiese recepcionado juicio de inconformidad alguno, bajo su estricta responsabilidad al Tribunal Electoral en los plazos establecidos, para su debida sustanciación y resolución.
 
-### CAPÍTULO IV. DE LA SUSTANCIACIÓN
+### CAPÍTULO III. DE LA LEGITIMACIÓN
 
 ###### Artículo 422.
 
 Será competente para sustanciarlo y resolverlo, el Pleno del Tribunal Electoral.
 
-### CAPÍTULO V. DE LA RESOLUCIÓN
+### CAPÍTULO IV. DE LA SUSTANCIACIÓN
 
 ###### Artículo 423.
 
@@ -5263,7 +5401,7 @@ En la elección de Diputados o Ayuntamientos se encuentran legitimados para inte
 
 Tratándose de la elección para Gobernador podrá interponerlo el Representante acreditado ante el Consejo Distrital respectivo o el Consejo General, según el cómputo que se impugne.
 
-### CAPÍTULO I. DE LA PROCEDENCIA
+### CAPÍTULO V. DE LA RESOLUCIÓN
 
 ###### Artículo 424.
 
@@ -5327,7 +5465,7 @@ Se deberá levantar acta circunstanciada de todo lo actuado.
 
 Substanciado en su totalidad el juicio, y formulado el proyecto por el Magistrado Instructor lo hará llegar a los demás Magistrados y dará cuenta al Presidente, quien ordenará la publicación del listado para que sea discutido en la sesión plenaria siguiente.
 
-### CAPÍTULO II. DE LA COMPETENCIA
+### CAPÍTULO I. DE LA PROCEDENCIA
 
 ###### Artículo 431.
 
@@ -5343,7 +5481,7 @@ II. Declarar la nulidad de la votación emitida en una o varias casillas o la nu
 
 III. Modificar los resultados consignados en el acta de cómputo impugnada y revocar, en su caso, la constancia de mayoría.
 
-### CAPÍTULO III. DE LAS SENTENCIAS Y DE LAS NOTIFICACIONES
+### CAPÍTULO II. DE LA COMPETENCIA
 
 ###### Artículo 433.
 
@@ -5371,6 +5509,10 @@ I. Considere que se violó su derecho político electoral de ser votado cuando, 
 
 II. Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político estatal;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+II Bis. Considere la existencia de cualquier acto u omisión que constituya violencia política en razón de género, y que tengan por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político electorales.
+
 III. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político - electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aún cuando no estén afiliados al partido señalado como responsable; y
 
 IV. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior.
@@ -5378,6 +5520,8 @@ IV. Considere que un acto o resolución de la autoridad es violatorio de cualqui
 El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
 
 En los casos previstos en la fracción IV de este artículo, el ciudadano deberá haber agotado, previamente, las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al ciudadano.
+
+### CAPÍTULO III. DE LAS SENTENCIAS Y DE LAS NOTIFICACIONES
 
 ###### Artículo 435.
 
@@ -5468,3 +5612,11 @@ QUINTO. En caso de existir recursos humanos, financieros y materiales asignados 
 SEXTO. Los procedimientos administrativos iniciados por las autoridades correspondientes con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 
 SÉPTIMO. Los actuales titulares o responsables de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, continuarán como titulares o responsables hasta en tanto el Congreso del Estado realice las designaciones de los nuevos titulares, una vez hecho lo anterior, se deberá realizar la entrega recepción atendiendo al procedimiento establecido en la legislación aplicable.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO. 464.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, DEROGÁNDOSE EL TÍTULO VIGÉSIMO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos electorales previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta Ley resulte más benéfica.
