@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2018-04-23"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -45,7 +45,9 @@ SEGUNDO.- El asunto de cuenta, se registró en el Libro de Gobierno de la Primer
 
 Por lo que, en mérito de lo expuesto; y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO,
 
@@ -71,7 +73,9 @@ Las disposiciones de la presente ley son de orden público e interés social y d
 
 Son principios que favorecen la igualdad sustantiva en la presente Ley:
 
-I. Igualdad;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
+I. Igualdad de trato y oportunidades;
 
 II. No discriminación;
 
@@ -121,9 +125,21 @@ V. Discriminación: Toda distinción, exclusión o restricción que, basada en e
 
 VI. Discriminación contra la Mujer: Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+VI Bis. Empoderamiento: Es un proceso por medio del cual se transita de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del disfrute pleno de sus derechos y libertades;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+VI Ter. Estereotipo sexual: Es una idea fija y rígida que se perpetúa a través de las características y conductas que se presuponen propias del sexo femenino y del sexo masculino;
+
 VII. Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
 VIII. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+VIII Bis. Inclusión: Enfoque que responde positivamente a la diversidad de las personas y a las diferencias individuales, proporcionando un acceso equitativo y haciendo ajustes permanentes para permitir la participación en los procesos políticos, económicos, sociales, culturales, civiles o de cualquier otro tipo, de todas las personas y valorando su aporte a la sociedad;
 
 IX. Instituto: El Instituto Hidalguense de las Mujeres;
 
@@ -170,6 +186,14 @@ II. Establecer el acompañamiento para las Unidades Administrativas que lo requi
 III. La transversalización de las políticas públicas;
 
 IV. Garantizar la institucionalización de la igualdad;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IV Bis. Eliminación de estereotipos en función del sexo;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IV Ter. Derecho de acceso a la información sobre políticas y programas de igualdad; y a la participación social en la formulación de las mismas;
 
 V. Evaluar la aplicación de la legislación en materia de igualdad entre mujeres y hombres;
 
@@ -327,7 +351,9 @@ II. Establecer los lineamientos sobre la rectoría de la igualdad sustantiva y s
 
 III. Elaborar el Programa Estatal de Igualdad;
 
-IV. Coordinar los programas de igualdad entre mujeres y hombres de las Dependencias y Entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IV. Coordinar y asesorar los programas de igualdad entre mujeres y hombres de las Dependencias y Entidades de la Administración Pública Estatal y municipal en el diseño e implementación de acciones;
 
 V. Formular propuestas a las dependencias competentes sobre la asignación de los recursos que requieran los programas de igualdad entre mujeres y hombres;
 
@@ -342,6 +368,10 @@ IX. Determinar los lineamientos para el diseño de políticas públicas en la ma
 X. Celebrar los convenios y bases de colaboración con los diferentes sectores sociales, políticos, culturales y administrativos para la institucionalización de la igualdad en el Estado;
 
 XI. Promover, coordinar y realizar la revisión de programas y servicios en materia de igualdad;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+XI Bis. Contribuir al adelanto y empoderamiento de las mujeres;
 
 XII. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres; y
 
@@ -364,6 +394,14 @@ IV. Vigilar las buenas prácticas de la Administración Pública Municipal de ig
 > <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
 
 IV Bis. Fortalecer la prestación de los servicios públicos de la administración municipal, a través de la formación, capacitación y certificación de las y los servidores públicos en materia de igualdad de género.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IV Ter. Fomentar actividades reglamentarias con perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+IV Quater. Fomentar la participación equitativa de mujeres y hombres en cargos públicos;
 
 V. Diseñar, formular y aplicar campañas permanentes de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta ley le confiere.
 
@@ -415,6 +453,14 @@ Será objetivo de la Política de Igualdad en materia económica:
 
 I. Vigilar el otorgamiento de salarios iguales a mujeres y a hombres por trabajos iguales, en condiciones iguales, en la Administración Pública Estatal y Municipal, así como en el ámbito privado y social;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+I Bis. La inclusión en los presupuestos y puntual aplicación de fondos para la promoción de la igualdad en el trabajo y los procesos productivos.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+I Ter. El fomento de políticas públicas con perspectiva de género en materia económica.
+
 II. Efectuar las acciones para el acceso igualitario a procesos productivos; y
 
 III. Establecer programas para la promoción de la igualdad en el trabajo.
@@ -445,6 +491,14 @@ I. Vigilar que se garantice la participación igualitaria de mujeres y hombres e
 
 II. Promover la participación y representación de mujeres y hombres dentro de las estructuras de los Sindicatos y Partidos Políticos en el Estado;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+II Bis. Ejecutar acciones que contribuyan a erradicar toda discriminación basada en estereotipos de género;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+II Ter. Coadyuvar con el trabajo legislativo con perspectiva de género.
+
 III. Fomentar la no discriminación de mujeres y hombres en la selección, contratación y ascensos dentro de los poderes Ejecutivo, Legislativo y Judicial; y
 
 IV. Establecer los lineamientos para la evaluación de la Política de Igualdad en participación política.
@@ -455,7 +509,17 @@ IV. Establecer los lineamientos para la evaluación de la Política de Igualdad 
 
 Serán objetivos de la Política de Igualdad en materia de derechos sociales y culturales:
 
-I. Contribuir a eliminar los roles tradicionalmente asignados a los géneros, que impiden alcanzar la igualdad sustantiva entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
+I. Contribuir a eliminar los roles tradicionalmente asignados a los géneros, que impiden alcanzar la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+I Bis. Mantener permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+
+I Ter. Generar cambios socioculturales en los roles de género encaminados a erradicar estereotipos de discriminación, violencia de género, eliminación de prejuicios y de cualquier índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos; y
 
 II. Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres a la alimentación, la educación, la cultura y la salud.
 
@@ -525,7 +589,9 @@ II. Establecer los mecanismos para la atención de las víctimas en todos los ti
 
 III. Efectuar campañas sobre la importancia de la igualdad de género y el respeto entre mujeres y hombres.
 
-### CAPÍTULO PRIMERO. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD
+### CAPÍTULO SÉPTIMO BIS. DE LA ELIMINACIÓN DE ESTEREOTIPOS EN FUNCIÓN DEL SEXO
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
 
 ###### Artículo 33.
 
@@ -559,13 +625,71 @@ VII. Difundir información en medios de comunicación escritos, electrónicos, r
 
 VIII. Desarrollar políticas, planes y programas para la prevención, atención y eliminación de la violencia en todas sus formas y en todos sus espacios, ejercida contra las mujeres indígenas.
 
-### CAPÍTULO SEGUNDO. DE LA SOSTENIBILIDAD
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2018)</small>
 
-### CAPÍTULO TERCERO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
+### CAPÍTULO PRIMERO. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD
+
+###### Artículo 34 Bis.
+
+Será objetivo de la Política de Igualdad, la eliminación de los estereotipos que fomentan la discriminación y la violencia en razón del sexo.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+###### Artículo 34 Ter.
+
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Promover medidas que contribuyan a erradicar toda discriminación basada en estereotipos de género;
+
+II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+
+III. Vigilar la integración de la perspectiva de género en todas las políticas públicas;
+
+IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales;
+
+V. Promover que los medios de comunicación electrónica o impresos y las áreas de comunicación social de las dependencias de la administración estatal, eliminen el uso de estereotipos sexistas, discriminatorios y difundan el principio de igualdad entre mujeres y hombres, e incorporen un lenguaje incluyente; y
+
+VI. Vigilar que el contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley esté desprovisto de estereotipos establecidos en función del sexo de las personas.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+###### Artículo 34 Quater.
+
+Con el fin de promover y procurar la igualdad en la vida civil de mujeres y hombres, será objetivo de la Política de Igualdad:
+
+I. Vigilar que la legislación incorpore el principio de igualdad entre mujeres y hombres;
+
+II. Promover que los derechos específicos de las mujeres se consideren derechos humanos universales; y
+
+III. Prevenir, atender, sancionar y erradicar los distintos tipos y modalidades de violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+
+###### Artículo 34 Quinquies.
+
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Mejorar los sistemas de inspección del trabajo en lo que se refiere a las normas sobre la igualdad de retribución;
+
+II. Promover investigaciones con perspectiva de género en materia de salud y de seguridad en el trabajo;
+
+III. Apoyar las actividades de interlocución ciudadana respecto a la legislación sobre la igualdad para las mujeres y los hombres;
+
+IV. Reforzar la cooperación y los intercambios de información sobre los derechos humanos e igualdad entre mujeres y hombres con organizaciones no gubernamentales y organismos de cooperación para el desarrollo;
+
+V. Impulsar reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar la desigualdad en los ámbitos público y privado;
+
+VI. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres;
+
+VII. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+
+VIII. Impulsar la capacitación permanente al personal de las instituciones encargadas de la procuración y administración de justicia en materia de igualdad entre mujeres y hombres.
+
+### CAPÍTULO SEGUNDO. DE LA SOSTENIBILIDAD
 
 ## TÍTULO V. DE LA INSTITUCIONALIZACIÓN DE LA IGUALDAD
 
-### CAPÍTULO CUARTO. DEL DERECHO A LA INFORMACIÓN EN MATERIA DE IGUALDAD
+### CAPÍTULO TERCERO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 35.
 
@@ -590,6 +714,8 @@ IV. Determinar lineamientos para el establecimiento de políticas públicas en m
 V. Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres; y
 
 VI. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+
+### CAPÍTULO CUARTO. DEL DERECHO A LA INFORMACIÓN EN MATERIA DE IGUALDAD
 
 ###### Artículo 38.
 
@@ -666,3 +792,9 @@ P.O. 23 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 427 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES Y LA LEY ORGÁNICA MUNICIPAL, AMBAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 457 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
