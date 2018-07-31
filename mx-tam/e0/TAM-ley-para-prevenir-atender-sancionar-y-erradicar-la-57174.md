@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2018-06-12"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -199,7 +199,9 @@ d) establecer inmuebles que sirvan como refugio para víctimas y sus descendient
 
 3. Al efecto, impulsarán modelos de atención, prevención y sanción, sobre la base de los siguientes elementos:
 
-a) promover la educación y reeducación libre de estereotipos, sobre roles o papeles sociales predeterminados o la superioridad de los varones;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+a) promover la educación y reeducación libre de estereotipos, sobre roles o papeles sociales predeterminados o la superioridad de los hombres;
 
 b) dar seguimiento al comportamiento violento de los individuos, grupos o ámbitos de la sociedad, en perjuicio de las mujeres; y
 
@@ -884,6 +886,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-439 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5, PÁRRAFO 2; Y 10, PÁRRAFO 1 INCISOS A) AL D); Y SE ADICIONAN EL INCISO E) AL PÁRRAFO 1, DEL ARTÍCULO 10; Y ARTÍCULO 17 BIS, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-445 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS Y DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, EN MATERIA DE LENGUAJE CON PERSPECTIVA DE GÉNERO".]
 
 ###### ARTÍCULO ÚNICO.
 
