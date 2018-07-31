@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2016-08-12"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -1357,7 +1357,9 @@ a) Secretaría de Servicios Parlamentarios;
 
 b) Secretaría de Servicios Financieros y Administrativos;
 
-c) Auditoría General del Estado y las Auditorías Especiales;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+c) Auditoría Superior del Estado;
 
 d) Instituto de Estudios Parlamentarios "Eduardo Neri";
 
@@ -1447,7 +1449,9 @@ a) Secretaría de Servicios Parlamentarios;
 
 b) Secretaría de Servicios Financieros y Administrativos;
 
-c) Auditoría General del Estado y las Auditorías Especiales;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+c) Auditoría Superior del Estado;
 
 d) Instituto de Estudios Parlamentarios "Eduardo Neri";
 
@@ -1825,7 +1829,9 @@ V. Proponer al Pleno, para su aprobación o ratificación, en su caso, dentro de
 
 VI. Aprobar, el anteproyecto del Presupuesto de Egresos del Congreso del Estado.
 
-VII. Rendir a la Auditoría General del Estado, por conducto de su Presidente, en los términos Constitucionales y Legales respectivos, los informes financieros semestrales, la Cuenta Pública Anual y remitir el Programa Operativo Anual;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+VII. Rendir a la Auditoría Superior del Estado, por conducto de su Presidente, en los términos Constitucionales y Legales respectivos, los informes financieros semestrales, la Cuenta Pública Anual y remitir el Programa Operativo Anual;
 
 VIII. Formular al Pleno en funciones de Colegio Electoral, la propuesta para la designación de Gobernador Interino o Sustituto, en los casos previstos por la Constitución Política del Estado;
 
@@ -1873,7 +1879,9 @@ VIII. Someter a la Junta de Coordinación el anteproyecto del Presupuesto de Egr
 
 IX. Administrar el Presupuesto de Egresos del Congreso del Estado;
 
-X. Remitir los Informes Financieros semestrales, la Cuenta Pública anual y el Programa Operativo Anual ante la Auditoría General del Estado;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+X. Remitir los Informes Financieros semestrales, la Cuenta Pública anual y el Programa Operativo Anual ante la Auditoría Superior del Estado;
 
 XI. Poner a consideración de la Junta de Coordinación la propuesta de la persona que, de ser el caso, asumirá el cargo de Gobernador Interino o Sustituto;
 
@@ -2047,7 +2055,9 @@ Los Diputados solo podrán presidir una Comisión o Comité Ordinario. Para esto
 
 El Presidente de la Mesa Directiva durante el año para el que haya sido electo, estará impedido para integrar cualquier Comisión o Comité; si es el caso, deberá separarse temporalmente en aquellas que actúe, para reincorporarse una vez que concluya el periodo para el cual fue electo como Presidente, y el Grupo o Representación Parlamentaria al que pertenezca deberá proponer a quien lo sustituya.
 
-Las Comisiones de Presupuesto y Cuenta Pública y de Vigilancia y Evaluación de la Auditoria General del Estado, se integrarán con Diputados, que no hubiesen ejercido recursos Públicos durante los cinco años inmediatos anteriores a los del ejercicio de su cargo o que tuvieren conflicto de interés en los asuntos competencia de estas Comisiones.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+Las Comisiones de Presupuesto y Cuenta Pública y de Vigilancia y Evaluación de la Auditoría Superior del Estado, se integrarán con Diputados que no hubiesen ejercido recursos Públicos durante los cinco años inmediatos anteriores a los del ejercicio de su cargo o que tuvieren conflicto de interés en los asuntos competencia de estas Comisiones.
 
 ###### ARTÍCULO 166.
 
@@ -2395,7 +2405,9 @@ II. De Estudios Constitucionales y Jurídicos;
 
 III. De Presupuesto y Cuenta Pública;
 
-IV. De Vigilancia y Evaluación de la Auditoria General del Estado;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+IV. De Vigilancia y Evaluación de la Auditoría Superior del Estado;
 
 V. De Hacienda;
 
@@ -2515,7 +2527,9 @@ I. Secretaría de Servicios Parlamentarios;
 
 II. Secretaría de Servicios Financieros y Administrativos;
 
-III. Auditoría General del Estado y las Auditorías Especiales;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+III. Auditoría Superior del Estado;
 
 IV. Instituto de Estudios Parlamentarios "Eduardo Neri";
 
@@ -2545,7 +2559,9 @@ El titular del órgano mencionado en la fracción III del artículo que precede,
 
 Todos los servidores públicos de los órganos administrativos y técnicos observarán en su actuación las disposiciones de la Constitución Política del Estado, de esta Ley Orgánica y de los ordenamientos, políticas y lineamientos respectivos. En el año de la renovación de la Legislatura los titulares de los órganos administrativos y técnicos continuarán en sus funciones hasta la realización del nombramiento correspondiente.
 
-#### SECCIÓN V. DE LA AUDITORÍA GENERAL DEL ESTADO
+#### SECCIÓN V. DE LA AUDITORÍA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 204.
 
@@ -2625,15 +2641,17 @@ XIV. Las demás que expresamente le confiera esta Ley Orgánica, su Reglamento y
 
 El Secretario de Servicios Financieros y Administrativos, al iniciar su cargo, otorgará la fianza correspondiente para caucionar la administración de los fondos del presupuesto del Congreso del Estado que se le confíen.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE JULIO DE 2018)</small>
+
 #### SECCIÓN VII. DE LA CONTRALORÍA INTERNA
 
 ###### ARTÍCULO 209.
 
-La Auditoría General del Estado es el órgano con autonomía técnica, auxiliar del Poder Legislativo, que tiene por objeto el control y fiscalización superior de los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los Municipios y de los entes públicos fiscalizables estatales y municipales; así como el cumplimiento de los objetivos contenidos en los programas estatales y municipales a través de los informes que se rendirán en los términos que disponga la Ley.
+La Auditoría Superior del Estado es el órgano con autonomía técnica, auxiliar del Poder Legislativo, que tiene por objeto el control y fiscalización superior de los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los Municipios y de los entes públicos fiscalizables estatales y municipales; así como el cumplimiento de los objetivos contenidos en los programas estatales y municipales a través de los informes que se rendirán en los términos que disponga la Ley.
 
-La Auditoría General del Estado se rige por la Ley de la materia, en la que se establecerá su competencia, organización interna, funcionamiento y procedimientos.
+La Auditoría Superior del Estado se rige por la Ley de la materia, en la que se establecerá su competencia, organización interna, funcionamiento y procedimientos.
 
-En la elección del titular de la Auditoría General del Estado se estará a lo dispuesto por el Artículos (sic) 116, fracción II, de la Constitución Política de los Estados Unidos Mexicanos. Por cuanto hace a los auditores especiales, se requerirá la mayoría calificada que prevé el Artículo 151 numeral 1 de la Constitución Política del Estado.
+En la elección del titular de la Auditoría Superior del Estado se estará a lo dispuesto por los artículos 116, fracción II de la Constitución Política de los Estados Unidos Mexicanos y 151 de la Constitución Política del Estado Libre y Soberano de Guerrero.
 
 #### SECCIÓN VIII. DE LA DIRECCIÓN DE COMUNICACIÓN
 
@@ -2685,7 +2703,9 @@ El Congreso del Estado contará con su propia Contraloría Interna, como un órg
 
 La Contraloría Interna propondrá a la Junta de Coordinación, las políticas, manuales de organización y funciones de ese Órgano y de los demás Órganos Técnico-Administrativos del Congreso del Estado, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan.
 
-En el desempeño de sus funciones, la Contraloría Interna contará con el apoyo y la colaboración de los Titulares de los Órganos Técnico-Administrativos y de la Auditoría General del Estado.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+En el desempeño de sus funciones, la Contraloría Interna contará con el apoyo y la colaboración de los Titulares de los Órganos Técnico-Administrativos y de la Auditoría Superior del Estado.
 
 ###### ARTÍCULO 218.
 
@@ -4198,3 +4218,13 @@ DIPUTADA SECRETARIA.
 MAGDALENA CAMACHO DÍAZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 765 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231 EN MATERIA DE FISCALIZACIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, sin perjuicio de lo previsto en los transitorios legales.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
