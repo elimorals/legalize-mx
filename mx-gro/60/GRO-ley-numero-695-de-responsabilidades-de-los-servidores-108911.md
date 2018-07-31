@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-695-de-responsabilidades-de-los-servidores-108911"
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-20"
-last_updated: "2017-07-18"
+last_updated: "2018-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 695 DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE GUERRERO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 760 DE RESPONSABILIDADES POLÍTICA, PENAL Y CIVIL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 31 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY NÚMERO 695 DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 20 de febrero de 2015.
 
@@ -1252,3 +1252,15 @@ Quinto. Una vez en vigor la Ley de Responsabilidades Administrativas del Estado 
 Sexto. El cumplimiento de las obligaciones previstas en la Ley de Responsabilidades Administrativas, una vez que esta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador de conformidad con la Ley de la materia emita los lineamientos, criterios y demás resoluciones conducentes a su competencia.
 
 Séptimo. Con la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado de Guerrero, se derogarán los Títulos Tercero y Cuarto de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Guerrero, así como aquellas disposiciones que se opongan a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Guerrero.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “LEY NÚMERO 760 DE RESPONSABILIDADES POLÍTICA, PENAL Y CIVIL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley número 695 de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 15 Alcance II del 20 de febrero de 2015.
+
+TERCERO. En tanto entra en vigor la presente Ley, continuará aplicándose la legislación vigente en la materia.
+
+CUARTO. Los procedimientos administrativos iniciados por las autoridades locales con anterioridad a la entrada en vigor de la Ley de Responsabilidades Política, Penal y Civil de los Servidores públicos del Estado de Guerrero, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
