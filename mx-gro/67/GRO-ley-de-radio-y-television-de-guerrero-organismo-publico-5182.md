@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-radio-y-television-de-guerrero-organismo-publico-5182"
 country: "mx"
 rank: "ley"
 publication_date: "1989-11-14"
-last_updated: "1989-11-14"
+last_updated: "2018-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE RADIO Y TELEVISION DE GUERRERO ORGANISMO PUBLICO DESCENTRALIZADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 762 DEL INSTITUTO DE RADIO Y TELEVISIÓN DE GUERRERO, PUBLICADA EN EL P.O. DE 31 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE RADIO Y TELEVISIÓN DE GUERRERO ORGANISMO PÚBLICO DESCENTRALIZADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 14 de noviembre de 1989.
 
@@ -278,3 +280,25 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 762 DEL INSTITUTO DE RADIO Y TELEVISIÓN DE GUERRERO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley de Radio y Televisión de Guerrero, Organismo Público Descentralizado, publicada en el Periódico Oficial del Gobierno del Estado número 96, de fecha 14 de noviembre de 1989.
+
+TERCERO. El Consejo de Administración deberá instalarse dentro de los treinta días hábiles siguientes a la entrada en vigor de esta Ley.
+
+CUARTO. El Reglamento Interior del Instituto Radio y Televisión de Guerrero, se expedirá en un término de noventa días naturales contados a partir de la instalación del Consejo de Administración.
+
+QUINTO. Los casos no previstos en este instrumento jurídico, serán tratados y resueltos en el Pleno del Consejo de Administración.
+
+SEXTO. Los asuntos pendientes a la entrada en vigor de esta Ley, continuarán su trámite y serán resueltos por aquellas áreas a quien se haya conferido la competencia correspondiente.
+
+SÉPTIMO. La Secretaría de Finanzas y Administración, realizará las acciones presupuestarias necesarias para la operación del Instituto Radio y Televisión de Guerrero.
+
+OCTAVO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
