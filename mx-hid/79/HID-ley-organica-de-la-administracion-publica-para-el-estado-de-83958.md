@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2017-07-10"
+last_updated: "2018-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -79,21 +79,27 @@ II.- Entidad: A los Organismos Descentralizados, empresas de participación Esta
 
 III.- Gobernador: Al Gobernador Constitucional del Estado de Hidalgo; y
 
-IV.- Ley: A la presente Ley Orgánica de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+IV.- Ley: A la Ley Orgánica de la Administración Pública para el Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
 ###### Artículo 3.
 
-Para el despacho de los asuntos que competen al Poder Ejecutivo, el Gobernador del Estado se auxiliará de las Dependencias y Entidades de la Administración Pública que establece esta Ley.
+Para el despacho de los asuntos que competen al Poder Ejecutivo, el Gobernador del Estado se auxiliará de las Dependencias y Entidades de la Administración Pública que establece esta Ley, así como de las áreas de apoyo con capacidad técnica y de gestión que designe para el mejor cumplimiento de sus atribuciones.
+
+El Titular del Ejecutivo podrá establecer áreas específicas para la difusión de los mensajes a la ciudadanía sobre programas, acciones y proyectos gubernamentales, de acuerdo con la normatividad establecida en la materia.
 
 ###### Artículo 4.
 
 El Gobernador del Estado se auxiliara además de las Entidades de la Administración Pública Paraestatal, que consistirán en Organismos Descentralizados, empresas de participación Estatal y fideicomisos.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### Artículo 5.
 
-El Gobernador del Estado expedirá los reglamentos interiores, acuerdos, circulares y otras disposiciones que regulen el funcionamiento de las dependencias del Ejecutivo, así como la forma en que los titulares deberán ser suplidos en sus ausencias.
+El Gobernador del Estado expedirá los decretos, reglamentos, acuerdos, circulares y otras disposiciones que regulen el funcionamiento de las dependencias de la administración pública centralizada, descentralizada y las áreas de apoyo.
 
 ###### Artículo 6.
 
@@ -115,9 +121,11 @@ El Gobernador del Estado, de conformidad con lo dispuesto por la legislación ap
 
 El Titular del Ejecutivo, en representación del Estado, podrá convenir con la Federación, con otras Entidades Federativas, con los Municipios, con entidades de la Administración Pública Paraestatal, con personas físicas o morales de los sectores público, social y privado, cumpliendo con las formalidades de Ley que en cada caso procedan, la prestación de servicios, la ejecución de obras o la realización de cualquier otro propósito de beneficio para el Estado; así como, otorgar concesiones para el uso y aprovechamiento de bienes del dominio público del Estado o la prestación de servicios públicos a su cargo.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### Artículo 10.
 
-El Gobernador del Estado podrá nombrar y remover libremente a los servidores públicos del Poder Ejecutivo, con las limitaciones que establezcan las Leyes.
+El Gobernador del Estado, nombrará y removerá libremente a los Servidores Públicos de la Administración Pública y determinará la forma en que los titulares deban ser suplidos en sus ausencias, con las limitaciones que establezcan las leyes.
 
 ###### Artículo 11.
 
@@ -287,7 +295,9 @@ VI.- Ejercer las atribuciones que en materia de asociaciones religiosas y culto 
 
 VII.- Dirigir y ejecutar, en coordinación con las autoridades federales, estatales y municipales, las políticas y programas de protección civil, para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre, promoviendo esquemas de concertación y apoyo con instituciones y organismos de los sectores privado y social;
 
-VIII.- Tramitar ante el Congreso del Estado, lo relacionado con los nombramientos, licencias, remociones y renuncias de los magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y el Tribunal Electoral de Estado, así como registrar y mantener al corriente la información sobre los atributos personales, técnicos y académicos de dichos servidores;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+VIII.- Tramitar ante el Congreso del Estado, lo relacionado con los nombramientos, licencias, remociones y renuncias de los magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y el Tribunal Electoral de Estado, así como registrar y mantener al corriente la información sobre los atributos personales, técnicos y académicos de dichos servidores;
 
 IX.- Llevar el registro y certificar las firmas de los servidores públicos, presidentes y secretarios municipales y demás personas a quienes esté encomendada la fe pública;
 
@@ -337,7 +347,21 @@ XXVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 XXVIII Bis.- Promover, fomentar y fortalecer los planes y programas que contribuyan a la igualdad, participación política y seguridad entre mujeres y hombres; y
 
-XXIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2018)</small>
+
+XXIX.- Coordinar la vinculación de los municipios, con las dependencias estatales y federales, en el establecimiento de infraestructura, unidades de servicio y acciones que impulsen el desarrollo regional;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XXX.- Formular, regular y conducir la política de comunicación social para difundir la imagen del Estado y el quehacer gubernamental, así como el Plan de Trabajo, objetivos y metas de las dependencias y entidades de la Administración Pública Estatal, coordinando las relaciones con los medios de comunicación;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XXXI.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias y entidades de la Administración Pública Estatal, para la difusión de mensajes sobre programas y actividades gubernamentales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE JULIO DE 2018)</small>
+
+XXXII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -363,11 +387,11 @@ VIII. Dar seguimiento a las peticiones ciudadanas, a través de mecanismos de me
 
 IX. Coadyuvar con el Gobernador en la coordinación de las giras, audiencias, apoyos y de enlace con la ayudantía;
 
-X. Formular, regular y conducir la política de comunicación social para difundir la imagen del Estado y el quehacer de la gubernatura, así como el trabajo y objetivos de las dependencias y entidades de la Administración Pública Estatal, coordinando las relaciones con los medios de comunicación;
+X.- (DEROGADA, P.O. 31 DE JULIO DE 2018)
 
-XI. Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias y entidades de la Administración Pública Estatal;
+XI.- (DEROGADA, P.O. 31 DE JULIO DE 2018)
 
-XII. Planear, dirigir, coordinar y evaluar el sistema de radio y televisión estatal;
+XII.- (DEROGADA, P.O. 31 DE JULIO DE 2018)
 
 XIII. Fomentar entre las dependencias y entidades de la Administración Pública el ahorro de recursos, así como el apego a la ética, honradez y a la legalidad en las acciones de los servidores públicos en el ejercicio de su función;
 
@@ -375,7 +399,7 @@ XIV. Solicitar a las dependencias y entidades de la Administración Pública Est
 
 XV. Promover y coordinar las acciones de modernización e innovación gubernamental, así como la aplicación y uso de las tecnologías de información y comunicaciones, que contribuyan al seguimiento de los asuntos gubernamentales, mejorar los sistemas de desempeño, productividad y aprovechamiento óptimo de recursos de la gestión pública, tanto estatal como municipal, de conformidad a la legislación y reglamentación aplicable vigente;
 
-XVI. Vigilar el cumplimiento de las disposiciones aplicables a las entidades que integran el sector paraestatal y su correcta administración;
+XVI.- (DEROGADA, P.O. 31 DE JULIO DE 2018)
 
 XVII. Establecer acciones entre las dependencias y entidades de la Administración Pública Estatal, que fomenten una cultura de rendición de cuentas;
 
@@ -421,13 +445,13 @@ XIV.- Ejercer la facultad económico-coactiva conforme a las leyes relativas;
 
 XV.- Proponer al Gobernador del Estado, en coordinación con la Secretaría de Contraloría, el dictamen de cancelación de cuentas que de acuerdo a la normatividad resulten incobrables, así como el otorgamiento de subsidios fiscales en los casos que procedan;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XVI.- Autorizar la administración de recursos para el ejercicio del gasto público en función con el presupuesto aprobado y de las disponibilidades financieras del Gobierno Estatal, de conformidad a las disposiciones que en materia de racionalidad, armonización contable y evaluación del desempeño establezca la Secretaría, asegurándose en todos los casos que los presupuestos estén elaborados con perspectiva de género.
+XVI.- Autorizar la administración de recursos para el ejercicio del gasto público en función con el presupuesto aprobado y de las disponibilidades financieras del Gobierno Estatal, de conformidad a las disposiciones que en materia de racionalidad, armonización contable y evaluación del desempeño establezca la Secretaría, asegurándose en todos los casos que los presupuestos estén elaborados conforme a la planeación estatal y los Objetivos para el Desarrollo Sostenible de la Agenda 2030;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XVII.- Estimar el monto de inversión y su calendarización provisional para el ejercicio fiscal correspondiente, de conformidad a la información emitida por la Secretaría de Hacienda y Crédito Público, a fin de posibilitar la programación y presupuestación de la cartera de proyectos dictaminada en coordinación con la Unidad de Planeación y Prospectiva;
+XVII.- Estimar el monto de inversión y su calendarización provisional para el ejercicio fiscal correspondiente, de conformidad a la información emitida por la Secretaría de Hacienda y Crédito Público, a fin de posibilitar la programación y presupuestación de la cartera de proyectos;
 
 XVIII.- Aplicar las políticas que señale el Gobernador del Estado para el ejercicio del presupuesto de egresos;
 
@@ -455,9 +479,9 @@ XXVIII.- Formular las querellas y denuncias en materia de delitos fiscales y de 
 
 XXIX.- Representar en toda clase de procedimientos judiciales o administrativos, los intereses de la hacienda pública del Estado y los que deriven de las funciones operativas inherentes a los acuerdos del Ejecutivo Federal, en materia de ingresos federales coordinados;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XXX.- Autorizar el presupuesto total y de gasto de inversión, para el ejercicio fiscal correspondiente, considerando que, para este último, cada dependencia y entidad de la Administración Pública Estatal deberá contar de manera previa con la validación técnica y de impacto social que realice la Unidad de Planeación y Prospectiva para cada programa y proyecto a financiar.
+XXX.- Autorizar el presupuesto total y de gasto de inversión, para el ejercicio fiscal correspondiente, considerando que, para este último, cada dependencia y entidad de la Administración Pública Estatal deberá contar de manera previa con la validación técnica y de impacto social para cada programa y proyecto a financiar;
 
 XXXI.- Emitir opinión, sobre los precios y tarifas de los bienes y servicios de la Administración Pública del Estado;
 
@@ -475,9 +499,9 @@ XXXVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 XXXVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XXXVIII.- Coadyuvar en la celebración de mecanismos de coordinación institucional, que permitan incrementar el aprovechamiento de los recursos Federales en beneficio de los proyectos prioritarios que presenten las distintas dependencias y entidades de la Administración Pública Estatal previamente dictaminados por la Unidad de Planeación y Prospectiva, y que contribuyan al logro de los objetivos y metas definidos en el Plan Estatal de Desarrollo;
+XXXVIII.- Coadyuvar en la celebración de mecanismos de coordinación institucional, que permitan incrementar el aprovechamiento de los recursos Federales en beneficio de los proyectos prioritarios que presenten las distintas dependencias y entidades de la Administración Pública Estatal, y que contribuyan al logro de los objetivos y metas definidos en el Plan Estatal de Desarrollo y los Objetivos para el Desarrollo Sostenible de la Agenda 2030;
 
 XXXIX.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
@@ -517,13 +541,13 @@ LV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 LVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-LVII.- Emitir la validación financiera de los proyectos técnicamente dictaminados por la Unidad de Planeación y Prospectiva;
+LVII.- Emitir la autorización financiera de los proyectos técnicamente dictaminados por la Dirección General de Validación Técnica de Estudios y Proyectos;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-LVIII.- Articular el procedimiento administrativo para vincular la cartera de programas y proyectos de inversión, previamente dictaminada por la Unidad de Planeación y Prospectiva, con sus respectivas fuentes de financiamiento a fin de que puedan ser presupuestadas en el ejercicio fiscal correspondiente;
+LVIII.- Articular el procedimiento administrativo para vincular la cartera de programas y proyectos de inversión con sus respectivas fuentes de financiamiento, a fin de que puedan ser presupuestadas en el ejercicio fiscal correspondiente;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -541,13 +565,25 @@ LXI.- Aplicar la normatividad establecida para el gasto federalizado en materia 
 
 LXII.- Vigilar y evaluar, en coordinación con la Secretaría de Contraloría, que los programas y proyectos de inversión de las dependencias y entidades de la Administración Pública Estatal, se financien conforme a las reglas de operación aplicables a cada fondo;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-LXIII.- Programar y autorizar los recursos destinados a los programas de inversión de las dependencias y entidades de la Administración Pública del Estado, y establecer los mecanismos de colaboración y coordinación con los Municipios para estos propósitos, en materia de programación y presupuestación, de conformidad a los lineamientos y criterios que la Secretaría haya emitido; y
+LXIII.- Programar y autorizar los recursos destinados a los programas de inversión de las dependencias y entidades de la Administración Pública del Estado, y establecer los mecanismos de colaboración y coordinación con los Municipios para estos propósitos, en materia de programación y presupuestación, de conformidad a los lineamientos y criterios que la Secretaría haya emitido;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2018)</small>
 
-LXIV.- Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
+LXIV.- Dictaminar los Expedientes Técnicos de proyectos y acciones susceptibles de ser financiados en el Estado, bajo un análisis técnico, social, y económico, que permita alcanzar los objetivos del Plan Estatal de Desarrollo y los Objetivos del Desarrollo Sostenible de la Agenda 2030;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+LXV.- Validar, en coordinación con el Titular de la Unidad de Planeación y Prospectiva, los catálogos de Precios Unitarios y los Precios Unitarios Extraordinarios que rijan la obra pública y las acciones a ejecutar por los municipios, dependencias y entidades de la Administración Pública Estatal observando una actualización, cuando existan incrementos o decrementos sustanciales en los insumos de construcción o de la mano de obra;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+LXVI.- Proporcionar a solicitud expresa de municipios, dependencias y entidades de la Administración Pública Estatal, la asesoría necearia (sic) para la elaboración e integración de sus Expedientes Técnicos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE JULIO DE 2018)</small>
+
+LXVII.- Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
 
 ###### Artículo 26.
 
@@ -657,31 +693,49 @@ XVIII.- Coadyuvar con los Municipios de conformidad con las leyes de la materia,
 
 XIX.- Ejecutar y conducir las políticas generales del ordenamiento territorial, los asentamientos humanos y el desarrollo urbano de los centros de población en la entidad;
 
-XX.- Coordinar con los ayuntamientos la fundación de centros de población o desarrollos fuera de los límites de crecimiento existentes, de conformidad con la normatividad establecida y con los lineamientos fijados en los programas que integran el Sistema Estatal de Desarrollo Urbano y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XXI.- Elaborar y proponer al Titular del Poder Ejecutivo los Programas de Desarrollo Urbano y Ordenamiento Territorial de competencia Estatal;
+XX.- Coordinar con los ayuntamientos y la Unidad de Planeación y Prospectiva la fundación de centros de población o desarrollos fuera de los límites de crecimiento existentes, de conformidad con la normatividad establecida y con los lineamientos fijados en los programas que integran el Sistema Estatal de Desarrollo Urbano y Ordenamiento Territorial;
 
-XXII.- Dirigir, en coordinación con las autoridades competentes y conforme a las Leyes aplicables, el ordenamiento territorial y la regularización de la tenencia de la tierra independientemente de su régimen y de los asentamientos humanos existentes;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XXI.- Elaborar y proponer al Titular del Poder Ejecutivo iniciativas de ley, Planes y Programas de Desarrollo Urbano y Ordenamiento Territorial de competencia Estatal, previa validación de la Unidad de Planeación y Prospectiva;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XXII.- Dirigir, en coordinación con la Unidad de Planeación y Prospectiva, las autoridades competentes y conforme a las Leyes aplicables, el ordenamiento territorial y la regularización de la tenencia de la tierra, independientemente de su régimen y de los asentamientos humanos existentes;
 
 XXIII.- Proporcionar a los Ayuntamientos asesoría y, en su caso, convenir la elaboración de los programas de desarrollo urbano en la modalidad correspondiente, formalizando su publicación y registro ante las instancias competentes;
 
 XXIV.- Formular y emitir los dictámenes de congruencia de los programas de desarrollo urbano municipal, de centros de población y parciales, así como de aquellas acciones que impacten el territorio;
 
-XXV.- Participar en coordinación con los Gobiernos Federal y Municipal, así como, con las demás dependencias y entidades de la Administración Pública Estatal competentes, en los programas orientados a satisfacer las necesidades de tierra para el desarrollo urbano;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XXVI.- Proponer, evaluar y en su caso ejecutar las acciones derivadas de las políticas generales del uso de suelo y emitir normas técnicas en materia de ordenamiento territorial y desarrollo urbano;
+XXV.- Participar en coordinación con los Gobiernos Federal y Municipal, la Unidad de Planeación y Prospectiva y las demás dependencias y entidades de la Administración Pública Estatal competentes, en los programas orientados a satisfacer las necesidades de tierra para el desarrollo urbano;
 
-XXVII.- Formular, conducir, aplicar, vigilar y supervisar el cumplimiento de las políticas, leyes, normas y reglamentos en materia de desarrollo urbano y ordenamiento territorial de los asentamientos humanos en la Entidad, estableciendo mecanismos de coordinación con las autoridades competentes de la Administración Pública Federal, Estatal y Municipal; imponiendo, en su caso, las sanciones y medidas de seguridad procedentes de conformidad a la legislación y reglamentación aplicable vigente a través los instrumentos aplicables;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XXVIII.- Coadyuvar con los Municipios de conformidad con las Leyes de la materia, en la planeación, control, administración del uso del suelo, dictámenes de usos, destinos, reservas territoriales, provisiones de áreas y predios que se expidan en el Estado, así como en la autorización de lotificaciones, relotificaciones, fusiones, subdivisiones y fraccionamientos de áreas o predios en el Territorio del Estado;
+XXVI.- Proponer y en su caso ejecutar las acciones derivadas de las políticas generales del uso de suelo y emitir normas técnicas en materia de ordenamiento territorial y desarrollo urbano previo análisis y validación de la Unidad de Planeación y Prospectiva;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XXVII.- Aplicar, vigilar y supervisar el cumplimiento de las políticas, leyes, normas y reglamentos en materia de desarrollo urbano y ordenamiento territorial de los asentamientos humanos en la Entidad, estableciendo mecanismos de coordinación con las autoridades competentes de la Administración Pública Federal, Estatal y Municipal; imponiendo, en su caso, las sanciones y medidas de seguridad procedentes de conformidad a la legislación y reglamentación aplicable vigente a través (sic) los instrumentos aplicables;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XXVIII.- Coadyuvar, coordinadamente con la Unidad de Planeación y Prospectiva, con los Municipios de conformidad con las Leyes de la materia, en la planeación, control, administración del uso del suelo, dictámenes de usos, destinos, reservas territoriales, provisiones de áreas y predios que se expidan en el Estado, así como en la autorización de lotificaciones, relotificaciones, fusiones, subdivisiones y fraccionamientos de áreas o predios en el Territorio del Estado;
 
 XXIX.- Verificar que las dependencias de la Administración pública federal, estatal y municipal, así como las personas físicas y morales del sector privado, cumplan debidamente lo dispuesto por los programas de Desarrollo Urbano y Ordenamiento Territorial vigentes, a efecto de garantizar un desarrollo equilibrado y ordenado en la entidad;
 
 XXX.- Sancionar los incumplimientos a las resoluciones y lineamientos relativos a los asentamientos humanos y desarrollo urbano de la entidad de conformidad a la legislación y reglamentación aplicable;
 
-XXXI.- Celebrar convenios de coordinación y colaboración intergubernamental con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal y del sector privado en materia de obra pública y ordenamiento territorial, en la esfera de su competencia y bajo un enfoque de desarrollo sustentable;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XXXII.- Promover y otorgar, asesoría y asistencia técnica, a los Ayuntamientos, en materia de desarrollo metropolitano, coordinación regional e intermunicipal a efecto de fortalecer sus programas de desarrollo urbano, infraestructura y equipamiento urbano;
+XXXI.- Celebrar convenios de coordinación y colaboración intergubernamental con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal y del sector privado en materia de obra pública, en la esfera de su competencia y bajo un enfoque de desarrollo sustentable;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XXXII.- Celebrar, conjuntamente con la Unidad de Planeación y Prospectiva, convenios de colaboración en materia de ordenamiento territorial con las autoridades federales, estatales y municipales competentes, así como con entidades de los sectores privado, social y académico;
 
 XXXIII.- Participar en el ámbito de su competencia, en la elaboración, planeación, ejecución, regulación y evaluación de las políticas, estrategias, programas y proyectos de inversión, en materia de desarrollo metropolitano, regional e intermunicipal que establezca el Plan Estatal de Desarrollo;
 
@@ -755,7 +809,9 @@ XXVI.- Coadyuvar en la formulación e instrumentación de programas de capacitac
 
 XXVII.- Dirigir, coordinar y fomentar el desarrollo industrial, comercial y de servicios, a efecto de garantizar su debida articulación con el Plan Estatal de Desarrollo, así como con los programas sectoriales y especiales que sobre el particular determine el Titular del Poder Ejecutivo, que beneficien el desarrollo integral sustentable de la economía hidalguense;
 
-XXVIII.- Promover, impulsar y coordinar acciones en materia de competitividad y calidad total; así como, proponer y regular los procesos para la transferencia de ciencia, tecnología e innovación al sector productivo;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XXVIII.- Promover, impulsar y coordinar acciones en materia de competitividad y calidad total;
 
 XXIX.- Procurar la presencia del Estado en espacios nacionales e internacionales de intercambio de conocimientos y transferencia de tecnología;
 
@@ -877,13 +933,17 @@ IV.- Elaborar, en coordinación con la Unidad de Planeación y Prospectiva, los 
 
 V.- Proporcionar información en las materias de su competencia, a las dependencias y entidades de la Administración Pública Estatal;
 
-VI.- Proponer a las Secretarías de Finanzas y Administración y de Planeación, Desarrollo Regional y Metropolitano, con sujeción de los ordenamientos legales correspondientes, proyectos de inversión que permitan desarrollar el potencial productivo de los productores rurales y sus comunidades;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+VI.- Proponer a la Secretaría de Finanzas Públicas y a la Unidad de Planeación y Prospectiva, con sujeción de los ordenamientos legales correspondientes, proyectos de inversión que permitan desarrollar el potencial productivo de los productores rurales y sus comunidades;
 
 VII.- Promover, en coordinación con las autoridades competentes, la creación y consolidación de organizaciones de productores agrícolas, forestales, ganaderos y pesqueros que coadyuven a una mayor inversión al campo;
 
 VIII.- Participar con la Secretaría de Medio Ambiente y Recursos Naturales, con otras dependencias de la Administración Pública Estatal, la Federación, los municipios y las organizaciones de productores, en la preservación y fomento de los recursos naturales renovables y desarrollar su potencial productivo;
 
-IX.- Promover e impulsar, en coordinación con las Secretarías de Planeación, Desarrollo Regional y Metropolitano; Desarrollo Social y Desarrollo Económico, el desarrollo de la agroindustria en el Estado; así como proponer, para autorización de las dependencias competentes, los instrumentos y estímulos que fomenten y respalden el crecimiento de esta actividad;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+IX.- Promover e impulsar, en coordinación con la Unidad de Planeación y Prospectiva y la Secretaría de Desarrollo Social y Desarrollo Económico, el desarrollo de la agroindustria en el Estado; así como proponer, para autorización de las dependencias competentes, los instrumentos y estímulos que fomenten y respalden el crecimiento de esta actividad;
 
 X.- Elaborar, instrumentar y apoyar los proyectos productivos que generen empleos e ingresos a las familias rurales, preservando la buena administración y custodia de los seguros destinados a proteger la producción del sector agropecuario y las condiciones de vida de los productores del medio rural;
 
@@ -1245,9 +1305,17 @@ XXXI.- Fomentar y difundir la investigación científica y tecnológica en los s
 
 XXXII.- Conocer y resolver el recurso administrativo de revisión que interpongan en contra de los actos emanados de la Secretaría en materia de educación;
 
-XXXIII.- Establecer, coordinar y operar el Sistema Estatal de Información Educativa coordinado con el Sistema Nacional de Información Educativa; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XXXIV.- Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones aplicables vigentes en el Estado.
+XXXIII.- Establecer, coordinar y operar el Sistema Estatal de Información Educativa coordinado con el Sistema Nacional de Información Educativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2018)</small>
+
+XXXIV.- Planear, dirigir y coordinar el sistema de radio y televisión estatal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE JULIO DE 2018)</small>
+
+XXXV.- Las demás que le atribuyen las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones aplicables vigentes en el Estado.
 
 ###### Artículo 35.
 
@@ -1353,9 +1421,17 @@ XX.- Administrar los centros de reinserción social y el aeropuerto estatal;
 
 XXI.- Tramitar, por acuerdo del Titular del Poder Ejecutivo y con la intervención que corresponda al Procurador General de Justicia, las solicitudes de extradición, amnistía, indulto, libertad condicional y traslado de reos;
 
-XXII.- Administrar y dar mantenimiento a la flota aérea del Poder Ejecutivo; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XXIII.- Todas las demás que le atribuyan la presente Ley y los ordenamientos jurídicos aplicables.
+XXII.- Administrar y dar mantenimiento a la flota aérea del Poder Ejecutivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2018)</small>
+
+XXIII.- Proporcionar la seguridad institucional que requieran los servidores públicos en términos de la normatividad aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE JULIO DE 2018)</small>
+
+XXIV.- Todas las demás que le atribuyan la presente Ley y los ordenamientos jurídicos aplicables.
 
 ###### Artículo 37.
 
@@ -1373,11 +1449,13 @@ V.- Visitar los centros de trabajo para constatar que se cumplan con las condici
 
 VI.- Apoyar y fomentar relaciones con asociaciones obrero patronales del Estado, procurando la conciliación de sus intereses;
 
-VII.- Proponer a la Junta Local de Conciliación y Arbitraje del Estado, estrategias para el mejoramiento de la administración e impartición de justicia laboral;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+VII.- Promover la conciliación de los conflictos que surjan entre trabajadores y patrones;
 
 VIII.- Formular, fomentar, coordinar y ejecutar políticas y programas en materia laboral en el Estado, tendientes a la protección y mejoramiento de las condiciones laborales de los trabajadores;
 
-IX.- Coordinar la integración y establecimiento de la Junta Estatal de Conciliación, y Arbitraje y de las comisiones que se formen para regular las relaciones obrero patronales que sean de jurisdicción local, así como vigilar su funcionamiento;
+IX.- (DEROGADA, P.O. 31 DE JULIO DE 2018)
 
 X.- Llevar el registro de las asociaciones obreras, patronales y profesionales de jurisdicción Estatal;
 
@@ -1519,7 +1597,9 @@ XIV. Promover e instrumentar estrategias y líneas de acción hacia las regiones
 
 XV. Establecer los lineamientos que sirvan de base para la elaboración de los programas sectoriales, metropolitanos, regionales y especiales; y coadyuvar en el proceso de formulación, programación, instrumentación y evaluación de los proyectos estratégicos; elaborar estudios, proyectos regionales y municipales que permitan apoyar el desarrollo local, bajo mecanismos de coordinación y vinculación institucional con las dependencias y entidades de la Administración Pública Estatal, Municipal y Federal, con la sociedad organizada y en su caso, con otros Estados del País;
 
-XVI. Coordinar la vinculación de los municipios, con las dependencias estatales y federales, en el establecimiento de infraestructura, unidades de servicio y acciones que impulsen el desarrollo regional; y coordinar con los ayuntamientos, la integración, seguimiento y evaluación de los programas objeto de los Convenios Municipales de Desarrollo Regional, representando en ellos al Estado;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XVI.- Normar y evaluar los mecanismos de vinculación con dependencias y entidades federales, estatales y municipales en el establecimiento de infraestructura y unidades de servicio, así como de acciones que impulsen el desarrollo regional; y coordinar con los ayuntamientos, la integración, seguimiento y evaluación de los programas objeto de los Convenios Municipales de Desarrollo Regional, representando en ellos al Estado;
 
 XVII. Fungir como área técnica y de validación, sobre los instrumentos de planeación, prospectiva investigación y política pública que las dependencias de la Administración Estatal y organismos, generen con objeto de impulsar el desarrollo integral del Estado;
 
@@ -1535,11 +1615,15 @@ En los casos donde las dependencias y entidades de la Administración Pública E
 
 XXII. Proporcionar, a solicitud expresa de los municipios, la asesoría técnica necesaria para la elaboración y desarrollo de estudios y proyectos municipales, regionales y metropolitanos, así como participar, en la promoción y apoyo de los programas y proyectos orientados a crear y modernizar la infraestructura necesaria para el desarrollo del Estado, en el ámbito de sus facultades, en apego a la planeación para el desarrollo estatal;
 
-XXIII. Ofrecer a los Municipios la asesoría y el apoyo técnico necesario para la formulación de programas, proyectos y acciones de inversión pública;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XXIII.- Vigilar el cumplimiento de las disposiciones aplicables a las entidades que integran el sector paraestatal y su correcta administración;
 
 XXIV. Asesorar a los Municipios, en el ámbito de sus facultades y atribuciones, cuando así lo soliciten y en coordinación con las dependencias del ramo correspondientes, en el diseño de políticas y mecanismos técnicos y de control, para la elaboración de sus Planes y Programas de Desarrollo Municipal y Urbano;
 
-XXV. Validar los catálogos de precios unitarios y precios unitarios extraordinarios que rijan la obra pública y las acciones a ejecutar por los municipios y las dependencias y entidades de la Administración Pública Estatal, observando una actualización, cuando existan incrementos o decrementos sustanciales en los insumos de construcción o en la mano de obra;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XXV.- Validar, en coordinación con la Secretaría de Finanzas Públicas, los catálogos de Precios Unitarios y los Precios Unitarios Extraordinarios aplicables a la obra pública y las acciones a ejecutar por los municipios, dependencias y entidades de la Administración Pública Estatal;
 
 XXVI. Fijar los lineamientos que se deben observar en la integración de la información y documentación necesaria, para la formulación del informe anual del Gobernador;
 
@@ -1573,9 +1657,37 @@ XL. Efectuar análisis, diagnósticos y estudios que permitan al Gobernador, con
 
 XLI. Normar, implementar y coordinar el Sistema Estatal de Evaluación y Monitoreo en el marco de la plataforma establecida en el Plan Estatal de Desarrollo y los indicadores estratégicos definidos para tal efecto por las áreas y sectores;
 
-XLII. Coordinar y normar los procesos de evaluación Estratégica y de las acciones implementadas en las áreas de la Administración Pública tendientes a medir el impacto que sus programas y proyectos tienen en el incremento al bienestar social; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XLIII. Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
+XLII.- Coordinar y normar los procesos de evaluación Estratégica y de las acciones implementadas en las áreas de la Administración Pública tendientes a medir el impacto que sus programas y proyectos tienen en el incremento al bienestar social;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XLIII.- Formular y conducir las políticas, normas y lineamientos en materia de desarrollo urbano y ordenamiento territorial de los asentamientos humanos en la Entidad;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XLIV.- Dirigir y conducir el ordenamiento territorial, la regularización de la tenencia de la tierra y los programas que integran el Sistema Estatal de Desarrollo Urbano y Ordenamiento Territorial, mediante esquemas de coordinación interinstitucional;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XLV.- Validar las propuestas de acciones derivadas de las políticas generales del uso del suelo y las normas técnicas en materia de ordenamiento territorial y desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XLVI.- Participar en la planeación, control, administración del uso del suelo, dictámenes de usos, destinos, reservas territoriales, provisiones de áreas y predios que se expidan en el Estado, así como en la autorización de lotificaciones, relotificaciones, fusiones, subdivisiones y fraccionamientos de áreas o predios en el Territorio del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XLVII.- Celebrar conjuntamente con la Secretaría de Obras Públicas y Ordenamiento Territorial, convenios de colaboración en materia de ordenamiento territorial con las autoridades federales, estatales y municipales competentes, así como con entidades de los sectores privado, social y académico;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XLVIII.- Promover y otorgar, asesoría y asistencia técnica, a los Ayuntamientos, en materia de desarrollo metropolitano, coordinación regional e intermunicipal a efecto de fortalecer sus programas de desarrollo urbano, infraestructura y equipamiento urbano; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE JULIO DE 2018)</small>
+
+XLIX.- Las demás que, en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1760,3 +1872,15 @@ P.O. 10 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 197 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NUM. 473 "QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Dentro de un plazo no mayor a 90 días deberán realizarse las modificaciones a la normatividad reglamentaria aplicable.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto. Las modificaciones realizadas al artículo 37 entrarán en vigor una vez que sea puesto en operación el Centro de Conciliación Laboral.
