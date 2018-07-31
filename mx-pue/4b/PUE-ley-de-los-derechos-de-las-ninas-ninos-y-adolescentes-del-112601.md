@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-07-27"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -641,11 +641,21 @@ XIV. Promover en niñas, niños y adolescentes el respeto al medio ambiente;
 
 XV. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
-XVI. Establecer acciones afirmativas que garanticen el acceso, permanencia y reingreso de niñas y adolescentes embarazada (sic), y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+XVI. Establecer acciones afirmativas que garanticen el acceso, permanencia y reingreso de niñas y adolescentes embarazadas;
 
-XVII. Realizar lo necesario para fomentar la inclusión social y establecer el diseño universal de accesibilidad a los servicios educativos de niñas, niños y adolescentes con discapacidad y con la condición del espectro autista, en términos de la legislación aplicable.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XVII. Realizar lo necesario para fomentar la inclusión social y establecer el diseño universal de accesibilidad a los servicios educativos de niñas, niños y adolescentes con discapacidad y con la condición del espectro autista, en términos de la legislación aplicable, y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XVIII. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
+
+En este supuesto será aplicable el procedimiento establecido en el artículo 117 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias a fin de garantizar los derechos de las niñas, niños y adolescentes.
+
+De ser el caso, se estará a lo dispuesto en el Capítulo Único del Título Sexto de esta Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
 
 ###### ARTÍCULO 49.
 
@@ -897,7 +907,9 @@ Asimismo, las autoridades a que se refiere este artículo dispondrán lo necesar
 
 Niñas, niños y adolescentes tienen derecho al acceso a información y material procedentes de diversas fuentes nacionales e internacionales, en especial la información y el material educativo que tenga como finalidad promover su bienestar intelectual y social; así como su salud física y mental.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán la difusión de información y material que tenga por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural, salud física y mental, de conformidad con los lineamientos generales que al efecto expida el Sistema Nacional de Protección Integral en materia de información y demás materiales para difusión entre niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán la difusión de información y material que tenga por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural, salud física y mental, de conformidad con los lineamientos estatales que al efecto expida el Sistema Estatal de Protección Integral en materia de información y demás materiales para difusión entre niñas, niños y adolescentes.
 
 ###### ARTÍCULO 74.
 
@@ -1545,9 +1557,11 @@ El Titular del Ejecutivo del Estado podrá ser suplido por el Secretario General
 
 Los integrantes del Sistema Estatal de Protección nombrarán un suplente que deberá tener el nivel de Subsecretario o equivalente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 125.
 
-El Presidente del Sistema Estatal de Protección podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Federal, de los órganos con autonomía constitucional, de los gobiernos de las Entidades Federativas, de los Municipios, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
+El Presidente del Sistema Estatal de Protección podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Estatal, de los órganos con autonomía constitucional y de los Municipios, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
 
 En las sesiones del Sistema Estatal de Protección, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán invitados por el propio Sistema Estatal de Protección. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales, especializadas en la materia.
 
@@ -1894,6 +1908,22 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 P.O. 27 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA; DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA; DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; DE LA LEY ESTATAL DE SALUD, Y DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, EN MATERIA DE ABANDONO ESCOLAR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 73 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 125 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
