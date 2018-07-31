@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2018-06-07"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1769,7 +1769,7 @@ V.- Las demás que impongan otras disposiciones fiscales.
 
 Los notarios ante quienes se celebre (sic) los contratos, actos u operaciones a que alude el Artículo 198 están obligados:
 
-I.- Al informar a la Oficina recaudadora de su jurisdicción, dentro de los quince días siguientes a la celebración de dichos actos, convenios o contratos, así como de toda modificación que a estos se haga, anexando copia de la escritura correspondiente;
+I.- Al informar a la Oficina recaudadora de su jurisdicción, dentro de los quince días siguientes a la celebración de dichos actos, convenios o contratos, así como de toda modificación que a éstos se haga, anexando copia de la escritura correspondiente;
 
 II.- A dar aviso, dentro del término de quince días siguientes, del otorgamiento de las escrituras en que se haga constar la extinción de las obligaciones que originan los ingresos gravables;
 
@@ -2185,11 +2185,25 @@ XV.- El tiempo extraordinario dentro de los márgenes señalados en la Ley Feder
 
 Para que los conceptos mencionados en este artículo, se les excluya del objeto del Impuesto a que se refiere este Capítulo, deberán estar desglosados en la declaración mensual del Impuesto Sobre Remuneraciones al Trabajo Personal y debidamente identificados y registrados en la Contabilidad del Contribuyente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2018)</small>
 
-###### Artículo 218 Bis.
+###### Artículo 218 Bis 1.
 
-Se otorga un estímulo fiscal consistente en una reducción de cien por ciento en el pago del impuesto a personas físicas y morales que realicen aportaciones en efectivo, no onerosas, ni remunerativas, equivalentes al impuesto causado en el periodo, a instituciones de asistencia privada autorizadas por la Secretaría de Hacienda y cuyo objeto, preponderantemente, sea brindar apoyos económicos bajo un esquema de aportaciones paritarias con fines específicos a organizaciones e instituciones de la sociedad civil que proporcionen, gratuitamente, servicios de asistencia social a la población del Estado con niveles mayores de marginación económica y social. Dicho estímulo fiscal también deberá ser otorgado, reducido en un cincuenta por ciento, a personas físicas y morales por concepto de remuneración al trabajo personal prestado por adultos mayores.
+Se otorga un estímulo fiscal consistente en la deducibilidad en el pago del impuesto, a centros educativos privados por la inversión en becas para alumnos con alguna discapacidad dictaminada por la Secretaría de Educación y Cultura en los términos de la normatividad aplicable, no siendo consideradas para este efecto, las dos becas obligatorias a las que hace referencia la fracción III del artículo 47 de la Ley de Educación del Estado de Sonora.
+
+La Secretaría de Hacienda hará efectivo el estímulo mediante la presentación del comprobante de que la respectiva escuela privada otorgue las becas, al rendir la declaración correspondiente.
+
+Los contribuyentes beneficiarios al estímulo previsto en este artículo deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto.
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución o compensación, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 218
+
+BIS.- Se otorga un estímulo fiscal consistente en una reducción de cien por ciento en el pago del impuesto a personas físicas y morales que realicen aportaciones en efectivo, no onerosas, ni remunerativas, equivalentes al impuesto causado en el periodo, a instituciones de asistencia privada, asociaciones civiles, fundaciones u organizaciones de la sociedad civil legalmente constituidas y autorizadas por la Secretaría de Hacienda y cuyo objeto, preponderantemente, sea brindar apoyos económicos bajo un esquema de aportaciones paritarias con fines específicos a organizaciones e instituciones de la sociedad civil legalmente constituidas que proporcionen, gratuitamente, servicios de asistencia social a la población del Estado con niveles mayores de marginación económica y social, o bien, cuyo objeto, fines y modalidades sean de los establecidos en el artículo 48 de la Ley de Asistencia Social del Estado de Sonora, en el artículo 20 de la Ley de fomento a las actividades realizadas por las Organizaciones de la Sociedad Civil para el estado de Sonora, y demás acciones en beneficio de las Organizaciones de la Sociedad Civil que apruebe la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora. Dicho estímulo fiscal también deberá ser otorgado, reducido en un cincuenta por ciento, a personas físicas y morales por concepto de remuneración al trabajo personal prestado por adultos mayores.
 
 > <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
 
@@ -2203,9 +2217,9 @@ El presente estímulo será otorgado de conformidad con los lineamientos que al 
 
 La Secretaría de Hacienda hará efectivo el estímulo mediante la presentación del comprobante de la aportación expedido a nombre del contribuyente, al rendir la declaración correspondiente.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2018)</small>
 
-La Secretaría de Hacienda otorgará anualmente este beneficio del 8% del impuesto presupuestado en la Ley de Ingresos del Estado del ejercicio correspondiente.
+La Secretaría de Hacienda otorgará anualmente este beneficio de hasta el 8% del impuesto presupuestado en la Ley de Ingresos del Estado del ejercicio correspondiente.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2280,20 +2294,6 @@ Para que los conceptos mencionados en este artículo, se les excluya del objeto 
 Los presentes beneficios serán otorgados de conformidad con los lineamientos que al efecto expida la Secretaría de Hacienda.
 
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 218 Bis 1.
-
-Se otorga un estímulo fiscal consistente en la deducibilidad en el pago del impuesto, a centros educativos privados por la inversión en becas para alumnos con alguna discapacidad dictaminada por la Secretaría de Educación y Cultura en los términos de la normatividad aplicable, no siendo consideradas para este efecto, las dos becas obligatorias a las que hace referencia la fracción III del artículo 47 de la Ley de Educación del Estado de Sonora.
-
-La Secretaría de Hacienda hará efectivo el estímulo mediante la presentación del comprobante de que la respectiva escuela privada otorgue las becas, al rendir la declaración correspondiente.
-
-Los contribuyentes beneficiarios al estímulo previsto en este artículo deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto.
-
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
-
-El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución o compensación, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 219.
 
@@ -7325,8 +7325,16 @@ El presente Decreto entrará en vigor el día 01 de enero de 2019, previa su pub
 
 B.O. 7 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 214, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA Y LA LEY DE HACIENDA DEL ESTADO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 214, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA Y LA LEY DE HACIENDA DEL ESTADO”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
