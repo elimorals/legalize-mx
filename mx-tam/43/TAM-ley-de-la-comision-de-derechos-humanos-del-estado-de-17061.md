@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "2017-12-01"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -617,9 +617,11 @@ La Comisión denunciará ante los órganos competentes a los servidores público
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 64.
 
-Las relaciones laborales y prestaciones del personal Administrativo de la Comisión Estatal de Derechos Humanos, se regirán por la Ley del Servicio Burocrático del Estado.
+Las relaciones laborales y prestaciones del personal Administrativo de la Comisión de Derechos Humanos del Estado de Tamaulipas, se regirán por la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
 
 ###### ARTICULO 65.
 
@@ -790,3 +792,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El término de seis años establecido mediante el presente Decreto para el período de encargo del Presidente y de los miembros del Consejo Consultivo de la Comisión de Derechos Humanos, empezará a surtir efectos a partir de los subsecuentes nombramientos que se deriven de la sustitución de los actuales encargos de las figuras jurídicas antes referidas.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-444 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 64, DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS, Y 74 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
