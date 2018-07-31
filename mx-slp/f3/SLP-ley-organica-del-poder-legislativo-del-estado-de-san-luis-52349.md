@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2018-07-30"
+last_updated: "2018-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -915,7 +915,9 @@ c) El presupuesto anual del Poder Legislativo;
 
 IV. Dirigir por sí, o a través de su Presidente, por acuerdo de sus integrantes, los servicios administrativos internos del Congreso;
 
-V. Ejercer y vigilar el correcto ejercicio del presupuesto del Congreso, a través de la Oficialía Mayor, dentro de la competencia que establece esta Ley y el Reglamento;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+V. Ejercer y vigilar el correcto ejercicio del presupuesto del Congreso, a través de la Oficialía Mayor, de conformidad con las atribuciones que establecen los artículos, 57 de la Constitución; y 17 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí;
 
 VI. Dar cuenta mensualmente del ejercicio presupuestal al Pleno, o a la Diputación Permanente;
 
@@ -1643,9 +1645,9 @@ I. De Administración;
 
 II. Del Instituto de Investigaciones Legislativas;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-III. De Orientación, Gestoría y Quejas;
+III. De Orientación y Atención Ciudadana;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -1669,13 +1671,15 @@ II. Atender y resolver, en su caso, los demás asuntos que le asigne el Pleno, y
 
 III. Las demás que les señale la presente Ley y el Reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 121.
 
-Al Comité de Orientación, Gestoría y Quejas, le corresponde:
+Al Comité de Orientación y Atención Ciudadana le corresponde:
 
-I. Orientar al público en general sobre los trámites a realizar en el Congreso del Estado y canalizar en su caso, las peticiones y quejas de la (sic) personas que soliciten el apoyo del mismo;
+I. Orientar al público en general sobre los derechos y obligaciones que derivan de las leyes vigentes en el Estado; y de la forma de iniciar trámites ante autoridades federales, estatales, o municipales;
 
-II. Previo estudio socioeconómico, apoyar en la medida de las posibilidades presupuestales del Congreso, conforme a la partida que le sea asignada para tal efecto, a las personas que soliciten apoyos o gestionar ante las dependencias competentes lo concerniente a los mismos, así como dar cuenta del uso y destino de dicha partida al Pleno, y
+II. Escuchar las quejas de los ciudadanos potosinos derivadas de la falta de atención de los poderes, Ejecutivo, y Judicial, o de los ayuntamientos del Estado, y brindar orientación para su posible solución, canalizando, en su caso, mediante oficio la queja presentada, y
 
 III. Las demás que les señale la presente Ley y el Reglamento.
 
@@ -2518,3 +2522,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. A la entrada en vigor del presente Decreto, se abroga el Reglamento para el Acceso a la Información y Protección de Datos Personales del Congreso del Estado de San Luis Potosí, publicado en el Periódico Oficial del Gobierno del Estado el 20 de noviembre de 2008.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1041.- SE REFORMAN LOS ARTÍCULOS 82, 119, Y 121 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
