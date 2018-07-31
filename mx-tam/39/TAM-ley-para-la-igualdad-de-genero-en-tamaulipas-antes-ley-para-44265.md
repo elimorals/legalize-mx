@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-antes-ley-para-442
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-08"
-last_updated: "2017-12-15"
+last_updated: "2018-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 8 de marzo de 2005.
 
@@ -153,7 +153,9 @@ f) Negar o condicionar el acceso a los programas para el financiamiento y la adq
 
 g) Impedir o sujetar a requisitos diferenciados los servicios de asistencia médica, e información sobre sus derechos reproductivos;
 
-h) Limitar las libertades de reunión y de asociación cuando se ejerzan en condiciones de igualdad con los varones;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+h) Limitar las libertades de reunión y de asociación cuando se ejerzan en condiciones de igualdad con los hombres;
 
 i) Negar o condicionar el acceso a cualquier cargo público o el derecho al sufragio activo o pasivo, cuando se acredite el cumplimiento de los requisitos exigidos por la ley;
 
@@ -207,7 +209,9 @@ c) Proporcionar información sobre el derecho de toda persona a decidir sobre el
 
 d) Alentar la adopción de programas en las instituciones públicas de los tres órdenes de gobierno para lograr una mayor incorporación de las mujeres al trabajo remunerado y propiciar que en igualdad de requisitos para su acceso al empleo, se aliente su contratación en aras de alcanzar el equilibrio entre géneros;
 
-e) Impulsar en las instituciones y organizaciones de los sectores público, social y privado, donde el número de mujeres trabajadoras sea menor al de los varones, el derecho preferente de aquéllas a los beneficios de becas para la capacitación laboral, tanto en el Instituto Tamaulipeco de Capacitación para el Empleo como en cualquier otro que se establezca con recursos públicos;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+e) Impulsar en las instituciones y organizaciones de los sectores público, social y privado, donde el número de mujeres trabajadoras sea menor al de los hombres, el derecho preferente de aquéllas a los beneficios de becas para la capacitación laboral, tanto en el Instituto Tamaulipeco de Capacitación para el Empleo como en cualquier otro que se establezca con recursos públicos;
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -235,11 +239,13 @@ b) Disfrutar de estabilidad en el empleo, cargo u ocupación que desarrolle;
 
 c) No sufrir discriminación alguna;
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
-d) Promover y respetar el acceso a las oportunidades de empleo en igualdad de condiciones con los varones y con las mujeres;
+d) Promover y respetar el acceso a las oportunidades de empleo en igualdad de condiciones con los hombres y con las mujeres;
 
-e) Ocupar cargos públicos en igualdad de condiciones que los varones y las mujeres no embarazadas;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+e) Ocupar cargos públicos en igualdad de condiciones que los hombres y las mujeres no embarazadas;
 
 f) Acceder plenamente a las instituciones del sistema educativo estatal. En su caso, los planteles educativos harán las adecuaciones necesarias para que la mujer embarazada pueda continuar con sus estudios y ser evaluada conforme a los mismos, cuando en virtud de atención médica incurra en inasistencias;
 
@@ -1048,6 +1054,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-366 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSOS ORDENAMIENTOS PARA FORTALECER LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-445 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS Y DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, EN MATERIA DE LENGUAJE CON PERSPECTIVA DE GÉNERO".]
 
 ###### ARTÍCULO ÚNICO.
 
