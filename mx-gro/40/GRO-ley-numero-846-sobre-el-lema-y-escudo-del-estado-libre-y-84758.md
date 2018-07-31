@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-846-sobre-el-lema-y-escudo-del-estado-libre-y-84758"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-16"
-last_updated: "2011-12-16"
+last_updated: "2018-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 846 SOBRE EL LEMA Y ESCUDO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 761 SOBRE SÍMBOLOS DE IDENTIDAD Y PERMANENCIA DEL ESTADO DE GUERRERO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 31 DE JULIO DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS TREINTA DÍAS POSTERIORES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUERRERO.]</small>
+
 LEY NUMERO 846 SOBRE EL LEMA Y ESCUDO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 16 de diciembre de 2011.
 
@@ -200,3 +202,21 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HUMBERTO SALGADO GÓMEZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 761 SOBRE SÍMBOLOS DE IDENTIDAD Y PERMANENCIA DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. La presente Ley entrará en vigor a los treinta días posteriores a su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley número 846 sobre el Lema y Escudo del Estado Libre y Soberano de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 100, de fecha 16 de diciembre de 2011.
+
+TERCERO. Los titulares de los poderes Ejecutivo, Legislativo y Judicial, así como, los órganos autónomos y los ayuntamientos del Estado, deberán dar cumplimiento a lo establecido en los artículos 20 y 21 de esta Ley en un término no mayor a ciento ochenta días naturales.
+
+CUARTO. Los poderes Ejecutivo, Legislativo y Judicial, así como los órganos autónomos y los ayuntamientos que conforman el Estado, a la entrada en vigor de la presente Ley, deberán adecuar su papelería oficial conforme a lo señalado en el presente ordenamiento en la medida en que sus inventarios se agoten.
+
+QUINTO. Los símbolos del Estado de Guerrero, elaborados antes de la entrada en vigor de la presente Ley, con características distintas a las establecidas en el presente ordenamiento, podrán ser usados, debiendo sustituirse a la brevedad posible, en términos de lo dispuesto por esta Ley.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en la presente Ley.
