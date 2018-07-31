@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2016-08-15"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -89,9 +89,11 @@ Para los efectos de esta Ley, se entiende por:
 
 I.- Acoso Escolar.- Cualquier forma de maltrato psicológico, verbal o físico producido entre iguales, es decir de un alumno o alumnos a un alumno o alumnos de forma reiterada;
 
-II.- Adolescente.- Los que tienen entre 12 años cumplidos y 18 años incumplidos;
+II.- (DEROGADA, P.O. 31 DE JULIO DE 2018)
 
-III.- Asistencia Social.- El conjunto de acciones del gobierno y la sociedad, dirigidas a incrementar o modificar las capacidades físicas, mentales y sociales de los individuos, familias o grupos de población en situación de vulnerabilidad o en riesgo, por su condición de abandono o desprotección; desventaja: física, mental, jurídica o social, hasta lograr su incorporación o reintegración al seno familiar, laboral y social;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+III.- Asistencia Social.- El conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
 
 IV.- Asistencia Social Privada.-Los servicios o actos asistenciales que presten las personas jurídicas constituidas legalmente como: Instituciones de Asistencia Privada, Asociaciones Civiles, Fundaciones y Organizaciones Civiles;
 
@@ -235,9 +237,13 @@ La rectoría de la asistencia social pública y privada corresponde al Gobernado
 
 Tienen derecho a la asistencia social los individuos, familias o grupos en situación de vulnerabilidad o en riesgo que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados de forma temporal para su protección y bienestar.
 
-Con base en lo anterior, son sujetos de asistencia social prioritaria los que se encuentran en situación de vulnerabilidad y que se mencionan a continuación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2018)</small>
 
-I.- Las niñas, niños y adolescentes, que se encuentren en situación de vulnerabilidad por cualquiera de las siguientes problemáticas:
+Con base en lo anterior, son sujetos de asistencia social prioritaria los que se encuentran en situación de vulnerabilidad, preferentemente:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2018)</small>
+
+I. Las niñas, niños y adolescentes, que se encuentren en situación de vulnerabilidad, en especial aquellas que se encuentren en situación de riesgo o afectados por:
 
 a. Desnutrición;
 
@@ -247,13 +253,19 @@ c. Trastorno de la conducta alimentaria;
 
 d. Deficiencias en su desarrollo físico, mental, psicológico, y social o cuando este sea afectado por condiciones familiares adversas;
 
-e. Víctimas de maltrato infantil, abuso, violencia, acoso escolar o acoso mediante el uso de cualquier tipo de tecnología;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+e. Maltrato o abuso;
 
 f. Abandono, ausencia o irresponsabilidad de progenitores, tutores o de quien lo tenga bajo su cuidado, en el cumplimiento y garantías de su derecho;
 
-g. Ser víctimas de explotación física;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
-h. Se encuentren en riesgo o situación de calle;
+g. Cualquier tipo de explotación;
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+h. Vivir en la calle;
 
 i. Víctimas de la trata de personas, prostitución infantil, pornografía infantil y la explotación sexual comercial de niños;
 
@@ -261,9 +273,21 @@ j. Trabajar en condiciones que afecten su desarrollo e integridad física, menta
 
 k. Que requieran asesoría jurídica o psicológica ya sea por haber sido víctimas del delito o menores en conflicto con la Ley;
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2018)</small>
+
+k Bis. Ser hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2018)</small>
+
+k Ter. Ser huérfanos;
+
 l. Ser migrantes y repatriados; y
 
 m. Ser víctimas de conflictos armados, delincuencia organizada y de persecución étnica o religiosa.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2018)</small>
+
+Para los efectos de esta Ley son niñas y niños las personas hasta 12 años incompletos, y adolescentes los que tienen entre 12 años cumplidos y 18 años incumplidos, tal como lo establece el Artículo 2 de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
 
 II.- Las mujeres:
 
@@ -271,9 +295,13 @@ a. En estado de gestación o lactancia;
 
 b. Madres en situación de vulnerabilidad;
 
-c. Víctimas de cualquier tipo de acoso o maltrato, abuso o violencia;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
-d. Víctimas de explotación física y/o sexual;
+c. En situación de maltrato o abandono;
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+d. En situación de explotación, incluyendo la sexual;
 
 e. Víctimas de la trata de personas; y
 
@@ -281,9 +309,13 @@ f. Padecer algún tipo de trastorno de la conducta alimentaria.
 
 III.- Los Hombres:
 
-a.- Víctimas de cualquier tipo de acoso o maltrato, abuso o violencia;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
-b.- Víctimas de explotación física, sexual;
+a.- En situación de maltrato o abandono;
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+b.- En situación de explotación, incluyendo la sexual;
 
 c.- Víctimas de la trata de personas;
 
@@ -298,6 +330,10 @@ V.- Migrantes;
 VI.- Adultos mayores que se encuentren en abandono, maltrato, abuso o en situación de vulnerabilidad;
 
 VII.- Personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+VII Bis.- Indigentes;
 
 VIII.- Víctimas de la comisión de delitos;
 
@@ -1198,3 +1234,9 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 474 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
