@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-468-de-fiscalizacion-superior-y-rendicion-de-122630"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 468 DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, LA PRESENTE LEY ENTRARÁ EN VIGOR A PARTIR EL DÍA PRIMERO DE ENERO DEL AÑO DOS MIL DIECIOCHO.]</small>
-
 LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Alcance V al Número 57 del Periódico Oficial del Estado de Guerrero, el martes 18 de julio de 2017.
 
@@ -153,9 +151,11 @@ XXXV. Unidad de Medida y Actualización: El valor establecido por el Instituto N
 
 Las definiciones previstas en el artículo 4 de la Ley General de Contabilidad Gubernamental serán aplicables a la presente Ley.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### Artículo 5.
 
-Tratándose de los informes a que se refieren las fracciones XIX, XX y XXI del artículo anterior, la información contenida en los mismos será publicada en la página de Internet de la Auditoría Superior del Estado, en Formatos Abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado, siempre y cuando no se revele información que se considere temporalmente reservada o que forme parte de un proceso de investigación, en los términos previstos en la legislación aplicable. La información reservada se incluirá una vez que deje de serlo.
+Tratándose de los informes a que se refieren las fracciones XX, XXI y XXII del artículo anterior, la información contenida en los mismos será publicada en la página de Internet de la Auditoría Superior del Estado, en Formatos Abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado, siempre y cuando no se revele información que se considere temporalmente reservada o que forme parte de un proceso de investigación, en los términos previstos en la legislación aplicable. La información reservada se incluirá una vez que deje de serlo
 
 ###### Artículo 6.
 
@@ -213,15 +213,7 @@ Cuando los servidores públicos y las personas físicas y morales, públicas o p
 
 ###### Artículo 12.
 
-El contenido del Informe de Avance de Gestión Financiera se referirá a los programas a cargo de los poderes del Estado y los Entes Públicos Estatales, para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados y contendrá:
-
-I. El flujo contable de ingresos y egresos al 30 de junio del año en que se ejerza el Presupuesto de Egresos; y
-
-II. El avance del cumplimiento de los programas con base en los indicadores aprobados en el Presupuesto de Egresos.
-
-Lo anterior sin perjuicio de lo previsto en la Ley de Presupuesto y Disciplina Fiscal del Estado de Guerrero.
-
-La Auditoría Superior del Estado realizará un análisis del Informe de Avance de gestión financiera 30 días posteriores a la fecha de su presentación y lo entregará a la Comisión.
+(DEROGADO, P.O. 31 DE JULIO DE 2018)
 
 ## Título Segundo. Fiscalización de la Cuenta Pública
 
@@ -293,6 +285,8 @@ I. Acciones y previsiones, incluyendo solicitudes de aclaración, pliegos de obs
 
 II. Recomendaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE JULIO DE 2018)</small>
+
 ###### Artículo 18.
 
 Para la fiscalización de la Cuenta Pública, la Auditoría Superior del Estado tendrá las atribuciones siguientes:
@@ -333,7 +327,9 @@ d) Las instituciones de crédito, fideicomisos u otras figuras del sector financ
 
 e) Las autoridades hacendarias, estatales y municipales.
 
-La Auditoría Superior del Estado tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos y la deuda pública, estando obligada a mantener la misma reserva, en términos de las disposiciones aplicables. Dicha información solamente podrá ser solicitada en los términos de las disposiciones aplicables, de manera indelegable por el titular de la Auditoría Superior del Estado y los auditores especiales a que se refiere esta Ley.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+La Auditoría Superior del Estado tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos y la deuda pública, estando obligada a mantener la misma reserva, en términos de las disposiciones aplicables. Dicha información solamente podrá ser solicitada en los términos de las disposiciones aplicables, de manera indelegable por el titular de la Auditoría Superior del Estado.
 
 Cuando derivado de la práctica de auditorías se entregue a la Auditoría Superior del Estado información de carácter reservado o confidencial, ésta deberá garantizar que no se incorpore en los resultados, observaciones, recomendaciones y acciones de los informes de auditoría respectivos, información o datos que tengan esta característica en términos de la legislación aplicable. Dicha información será conservada por la Auditoría Superior del Estado en sus documentos de trabajo y sólo podrá ser revelada a la autoridad competente, en términos de las disposiciones aplicables.
 
@@ -887,6 +883,8 @@ Las responsabilidades distintas a las mencionadas en el artículo anterior, que 
 
 Para los efectos de lo dispuesto en el artículo 61 fracciones XIII y XIV de la Constitución Política del Estado, el Congreso contará con la Comisión que tendrá las atribuciones de coordinar las relaciones entre aquél y la Auditoría Superior del Estado; evaluar el desempeño de esta última; constituir el enlace que permita garantizar la debida coordinación entre ambos órganos, y solicitarle que le informe sobre la evolución de sus trabajos de fiscalización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE JULIO DE 2018)</small>
+
 ###### Artículo 81.
 
 Son atribuciones de la Comisión:
@@ -907,7 +905,9 @@ VI. Evaluar el desempeño de la Auditoría Superior del Estado respecto al cumpl
 
 La evaluación del desempeño tendrá por objeto conocer si la Auditoría Superior del Estado cumple con las atribuciones que conforme a la Constitución Política del Estado y esta Ley le corresponden, así como el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los Entes Públicos, en los resultados de los programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos que ejerzan.
 
-VII. Emitir opinión al Congreso de la terna de candidatos seleccionados por la Junta de Coordinación Política, a ocupar el cargo de titular de la Auditoría Superior del Estado y de los Auditores Especiales, así como la solicitud de su remoción, en términos de lo dispuesto por el artículo 151 numeral 1 de la Constitución Política del Estado de Guerrero; para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+VII. Emitir opinión al Congreso de la terna de candidatos seleccionados por la Junta de Coordinación Política, a ocupar el cargo de titular de la Auditoría Superior del Estado, así como la solicitud de su remoción, en términos de lo dispuesto por el artículo 151 numeral 1 de la Constitución Política del Estado de Guerrero; para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
 
 VIII. Proponer al Pleno del Congreso al titular de la Unidad y los recursos materiales, humanos y presupuestarios con los que debe contar la propia Unidad;
 
@@ -957,9 +957,11 @@ V. La persona designada para ocupar el cargo, protestará ante el Pleno del Cong
 
 En caso de que ningún candidato de la terna propuesta en el dictamen para ocupar el cargo de titular de la Auditoría Superior del Estado, haya obtenido la votación de las dos terceras partes de los miembros presentes del Congreso, se volverá a someter una nueva propuesta en los términos del artículo anterior. Ningún candidato propuesto en el dictamen rechazado por el pleno podrá participar de nueva cuenta en el proceso de selección, salvo el caso de la emisión de una nueva convocatoria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### Artículo 86.
 
-El titular de la Auditoría Superior del Estado durará en el encargo siete años improrrogables. Podrá ser removido por el Congreso por las causas graves a que se refiere esta Ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en el Título Décimo Tercero de la Constitución Política del Estado.
+El titular de la Auditoría Superior del Estado durará en el encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido por el Congreso por las causas graves a que se refiere esta Ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en el Título Décimo Tercero de la Constitución Política del Estado.
 
 Si esta situación se presenta estando en receso el Congreso, la Comisión Permanente podrá convocar a un periodo extraordinario para que resuelva en torno a dicha remoción.
 
@@ -991,6 +993,8 @@ VIII. No haber sido titular de ninguna dependencia, entidad u organismo de la ad
 
 IX. No haber sido dirigente de algún partido político, ni postulado para cargo de elección popular dentro de los tres años anteriores a su designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE JULIO DE 2018)</small>
+
 ###### Artículo 89.
 
 El titular de la Auditoría Superior del Estado tendrá las siguientes atribuciones:
@@ -1017,9 +1021,13 @@ IX. Presidir de forma dual con el Secretario de Contraloría y Transparencia Gub
 
 X. Ser el enlace entre la Auditoría Superior del Estado y la Comisión;
 
-XI. Solicitar por sí o a través de los auditores especiales, a las entidades fiscalizadas, servidores públicos y a los particulares, sean éstos personas físicas o morales, la información que con motivo de la fiscalización de la Cuenta Pública se requiera;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-XII. Solicitar por sí o a través de los auditores especiales a las entidades fiscalizadas el auxilio que necesite para el ejercicio expedito de las funciones de revisión y fiscalización superior;
+XI. Solicitar a las entidades fiscalizadas, servidores públicos y a los particulares, sean éstos personas físicas o morales, la información que con motivo de la fiscalización de la Cuenta Pública se requiera;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+XII. Solicitar a las entidades fiscalizadas el auxilio que necesite para el ejercicio expedito de las funciones de revisión y fiscalización superior;
 
 XIII. Ejercer las atribuciones que corresponden a la Auditoría Superior del Estado en los términos de la Constitución Política del Estado, la presente Ley y del Reglamento de la Auditoría;
 
@@ -1073,49 +1081,25 @@ De las atribuciones previstas a favor del titular de la Auditoría Superior del 
 
 El Auditor Superior del Estado no podrá ser perseguido o reconvenido por las opiniones emitidas en el ejercicio de su función, ni por el sentido de sus informes, observaciones, recomendaciones, votos o resoluciones.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### Artículo 91.
 
-El titular de la Auditoría Superior del Estado será auxiliado en sus funciones por cuatro auditores especiales, así como por los titulares de unidades, directores generales, auditores y demás servidores públicos que al efecto señale el Reglamento de la Auditoría de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
+El Titular de la Auditoría Superior del Estado será auxiliado en sus funciones por los auditores especiales, así como por los titulares de unidades, directores generales, auditores y demás servidores públicos que al efecto señale el Reglamento de la Auditoría, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
 ###### Artículo 92.
 
-Para ejercer el cargo de Auditor Especial se deberán cumplir los mismos requisitos exigidos para ser Auditor Superior del Estado, señalados en el artículo 88 de la presente Ley, así como los señalados en la Constitución Política del Estado, quienes durarán en su encargo 4 años con una sola posibilidad de reelección.
+Para ejercer el cargo de Auditor Especial se deberán cumplir los mismos requisitos exigidos para ser Auditor Superior del Estado, señalados en el artículo 88 de la presente Ley.
 
 ###### Artículo 93.
 
-Los Auditores Especiales, serán designados conforme a lo previsto por el artículo 151 numeral 1 de la Constitución Política del Estado, por el voto de las dos terceras partes de los diputados presentes en sesión del Congreso, a propuesta de la Junta de Coordinación Política.
-
-Cuarenta y cinco días antes de que termine el encargo de los Auditores Especiales, la Junta de Coordinación Política del Congreso, expedirá una convocatoria pública abierta, que será publicada en cuando menos en dos periódicos de mayor circulación en el Estado, dirigida a todos los ciudadanos residentes en el Estado de Guerrero que tengan interés de participar como candidatos a ocupar el cargo de Auditores Especiales, para que en el plazo de quince días naturales contados a partir de la publicación presenten su solicitud.
+(DEROGADO, P.O. 31 DE JULIO DE 2018)
 
 ###### Artículo 94.
 
-Los Auditores Especiales tendrán las facultades siguientes:
-
-I.- Realizar la planeación, conforme a los programas aprobados por el Auditor General, de las actividades relacionadas con la revisión de las cuentas públicas;
-
-II.- Elaborar los análisis temáticos que sirvan de insumos para la preparación de los informes individuales, informes específicos y del Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública;
-
-III.- Revisar, analizar y evaluar los informes financieros semestrales y las cuentas públicas que rindan las entidades fiscalizables;
-
-IV.- Requerir a las entidades fiscalizables y a los terceros que hubieren celebrado operaciones con aquéllas, la información y documentación que sean necesarias para ejercer la función de fiscalización;
-
-V.- Ordenar y realizar Auditorías, visitas e inspecciones a las entidades fiscalizables, conforme al programa aprobado por el Auditor General;
-
-VI.- Designar al personal encargado de practicar las visitas, inspecciones y Auditorias a su cargo o, en su caso proponer al Auditor General la celebración de los contratos de prestación de servicios profesionales;
-
-VII.- Formular y someter al acuerdo del Auditor General las recomendaciones vinculantes y los pliegos de observaciones que deriven de los resultados de su revisión de las Auditorias, visitas o investigaciones;
-
-VIII.- Dar seguimiento al cumplimiento de las recomendaciones vinculantes y las observaciones realizadas, e informar al Auditor General sobre su grado de satisfacción, para la determinación de las responsabilidades establecidas en esta Ley;
-
-IX.- Revisar, analizar y evaluar la información programática incluida en las cuentas públicas;
-
-X.- Recabar e integrar la documentación y comprobación necesaria, para que previo acuerdo del Auditor General, la Dirección de Asuntos Jurídicos promueva el ejercicio de las acciones legales o el fincamiento de responsabilidades en el ámbito que procedan;
-
-XI.- Formular y presentar al Auditor General el proyecto de Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, así como los demás documentos que se les indiquen;
-
-XII.- Formular y presentar denuncias ante el Órgano de Control para iniciar los procedimientos administrativos disciplinarios en contra de los servidores públicos responsables, por la omisión de presentar ante la Auditoria General las cuentas públicas e Informes Financieros en los términos que establece la presente Ley; y
-
-XIII.- Las demás que señalen esta Ley, el Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 31 DE JULIO DE 2018)
 
 ###### Artículo 95.
 
@@ -1143,11 +1127,13 @@ V. Obtener una evaluación del desempeño poco satisfactoria sin justificación,
 
 VI. Incurrir en cualquiera de las conductas consideradas faltas administrativas graves, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guerrero, así como la inobservancia de lo previsto en el artículo 3 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### Artículo 97.
 
 El Congreso dictaminará sobre la existencia de los motivos de la remoción del titular de la Auditoría Superior del Estado por causas graves de responsabilidad, y deberá dar derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes.
 
-Los auditores especiales podrán ser removidos por las causas graves a que se refiere el artículo anterior, y mediante el mismo procedimiento establecido para el Auditor Superior del Estado.
+Los auditores especiales podrán ser removidos por las causas graves a que se refiere el artículo anterior, por el Titular de la Auditoría Superior del Estado.
 
 ###### Artículo 98.
 
@@ -1332,3 +1318,27 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 766 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO”.]
+
+ARTÍ CULO PRI MERO (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, excepto lo relativo al nombramiento de los Auditores Especiales, hasta en tanto entran en vigor las reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Guerrero en materia de fiscalización.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+El actual Titular de la Auditoría Superior del Estado, continuará en el cargo hasta la conclusión del periodo para el cual fue nombrado, no estará impedido para participar en el proceso de designación del nuevo titular de la Auditoría Superior del Estado de Guerrero, para ser nombrado por un sólo periodo más, sujetándose a lo dispuesto en la Constitución Política del Estado Libre y Soberano de Guerrero, en la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 231 y en la Ley Número 468 de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero.
+
+###### ARTÍCULO CUARTO.
+
+Los auditores especiales en funciones y designados conforme a la Ley Número 1028 de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero, permanecerán en su encargo hasta la conclusión del período por el que fueron designados, y corresponderá al Titular de la Auditoría Superior del Estado, proponer y designar en su caso, a los nuevos auditores especiales conforme a lo dispuesto en la Ley Número 468 de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
