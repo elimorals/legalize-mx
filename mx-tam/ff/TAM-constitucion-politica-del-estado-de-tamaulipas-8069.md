@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2018-04-11"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -89,13 +89,17 @@ III. Los hijos de padres tamaulipecos nacidos fuera del territorio del Estado y 
 
 ### CAPITULO III. De los Ciudadanos
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1970)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2018)</small>
 
 ###### Art. 6o.
 
-Son Ciudadanos del Estado, los varones y mujeres que, teniendo la calidad de Tamaulipecos, reúnan además, los siguientes requisitos:
+Son ciudadanos del Estado, los hombres y mujeres que, teniendo la calidad de tamaulipecos, reúnan además, los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1970)</small>
 
 I.- Haber cumplido 18 años, y
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1970)</small>
 
 II.- Tener un modo honesto de vivir.
 
@@ -289,9 +293,9 @@ I. La inviolabilidad de la propiedad, la cual no podrá ser ocupada sino en virt
 
 II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en asuntos políticos es exclusiva de los ciudadanos tamaulipecos en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-III. El derecho de los varones y las mujeres a la igualdad de oportunidades en los ámbitos político, económico, social y cultural;
+III. El derecho de los hombres y las mujeres a la igualdad de oportunidades en los ámbitos político, económico, social y cultural;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2014)</small>
 
@@ -4722,6 +4726,14 @@ P.O. 11 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-445 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS Y DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, EN MATERIA DE LENGUAJE CON PERSPECTIVA DE GÉNERO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEXTO.
 
