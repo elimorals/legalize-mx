@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-premios-estimulos-y-recompensas-del-estado-de-8192"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-26"
-last_updated: "2018-02-27"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
 
@@ -549,11 +549,11 @@ El premio consistirá en placa y podrá acompañarse de una entrega en numerario
 
 ### CAPITULO XIII. PREMIO ESTATAL DE ANTIGÜEDAD EN EL SERVICIO PUBLICO
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 74.
 
-El Premio Estatal de Antigüedad en el Servicio Público, se otorgará a los servidores públicos de las Dependencias y Entidades sujetos al régimen de la Ley del Servicio Burocrático del Estado de Tamaulipas, en atención a sus años de servicio.
+El Premio Estatal de Antigüedad en el Servicio Público, se otorgará a los servidores públicos de las Dependencias y Entidades sujetos al régimen de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas, en atención a sus años de servicio.
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
@@ -821,7 +821,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 27 DE FEBRERO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-383 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 92 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-383 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 92 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -830,3 +830,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales aplicables que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-444 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 64, DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS, Y 74 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
