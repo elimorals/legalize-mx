@@ -4,7 +4,7 @@ identifier: "SON-ley-de-asistencia-social-8480"
 country: "mx"
 rank: "ley"
 publication_date: "1986-06-16"
-last_updated: "2017-03-03"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 16 de junio de 1986.
 
@@ -259,9 +259,9 @@ XVII.- Participar en la ejecución de programas de rehabilitación y educación 
 
 XVIII.- Procurar permanentemente la adecuación de los objetivos de los programas a cargo del Organismo, con los que se lleven a cabo en el Sistema Nacional para el Desarrollo Integral de la Familia, en el marco de los Sistema (sic) Nacional y Estatal de Salud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 3 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2018)</small>
 
-XIX.- Transferir la operatividad integral junto con los recursos financieros correspondientes del programa de apoyo al sector social a instituciones de asistencia privada, de asociaciones civiles, fundaciones y de organizaciones de la sociedad civil que garanticen capacidad profesional, técnica y conocimiento social que permita el crecimiento del sector sin distingo de región o tema a favor de los derechos sociales y siempre que dichos entes privados proporcionen gratuitamente servicios de asistencia social a la población del Estado, sin que el Organismo pierda la rectoría de los mismos; para tal efecto y atendiendo a la eficiencia administrativa podrá auxiliarse de la Secretaría de Desarrollo Social del Estado, para llevar a cabo actividades de supervisión y/o representación en los órganos colegiados que se determine conformar para ese objeto, previo Convenio de Colaboración entre ambos entes públicos; y
+XIX.- Transferir la operatividad integral junto con los recursos financieros correspondientes del programa de apoyo al sector social a instituciones de asistencia privada, de asociaciones civiles, fundaciones y de organizaciones de la sociedad civil que garanticen capacidad profesional, técnica y conocimiento social. Lo anterior, para promover el crecimiento del sector sin distingo de región, tema u organización de la sociedad civil legalmente constituida a favor de los derechos sociales y siempre que estas organizaciones proporcionen gratuitamente servicios de asistencia social a la población del Estado, sin que el Organismo pierda la rectoría de los mismos; para tal efecto y atendiendo a la eficiencia administrativa podrá auxiliarse de la Secretaría de Desarrollo Social del Estado, para llevar a cabo actividades de supervisión y/o representación en los órganos colegiados que se determine conformar para ese objeto, previo Convenio de Colaboración entre ambos entes públicos; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 3 DE MARZO DE 2017)</small>
 
@@ -323,9 +323,11 @@ V.- Las demás que sean necesarias para el ejercicio de las facultades anteriore
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran, de conformidad con el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 21.
 
-La Junta de Gobierno estará integrada por: el Secretario de Salud Pública, quien la presidirá, el Secretario de Fomento Educativo y Cultura, el Secretario de Planeación del Desarrollo, el Tesorero General del Estado, el Secretario de Gobierno, el Procurador General de Justicia del Estado y el Director General del propio Organismo.
+La Junta de Gobierno estará integrada por: el Secretario de Salud Pública, quien la presidirá, el Secretario de Educación y Cultura, el Secretario de Hacienda, el Secretario de Gobierno, el Fiscal General de Justicia y el Director General del propio Organismo.
 
 Los miembros de la Junta de Gobierno serán suplidos por los representantes que al efecto designen cada uno de los miembros propietarios de la misma, a excepción del Presidente y del Director General, quienes deberán asistir personalmente.
 
@@ -583,6 +585,94 @@ La Secretaría de Hacienda, deberá transferir bajo los mecanismos que estime ad
 
 La institución de asistencia privada, la asociación civil, fundación o la organización de la sociedad civil que resulte aprobada para operar algún Programa, estará obligada a presentar un informe financiero anual de los recursos que le hayan sido asignados, así como los resultados de la operatividad del Programa que haya sido transferido. El informe se presentará por triplicado a la Secretaría de Hacienda, el Organismo y su Junta de Gobierno.
 
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2018)</small>
+
+Por excepción, en el caso de los remanentes que se acumulen en la implementación de algún programa, podrán ser destinados por parte de la institución de asistencia privada, la asociación civil, fundación o la organización de la sociedad civil que resulte aprobada para operarlos, en las modalidades que para tal efecto señale el organismo a través de las reglas de operación o Condiciones Generales o Específicas que emita.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2018)</small>
+
+El organismo por si o por medio de las instituciones de asistencia privada, de asociaciones civiles, fundaciones o de organizaciones de la sociedad civil a las cuales se le haya transferido la operatividad de programas, además de las atribuciones señaladas en esta ley, tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 31 DE JULIO DE 2018)</small>
+
+Los recursos transferidos podrán ser utilizados bajo los siguientes esquemas financieros en materia de derechos sociales:
+
+I. Coinversión o cofinanciamiento;
+
+II. Subsidio;
+
+III. Subvención estructural o por proyecto;
+
+IV. Donaciones; y
+
+V. Apoyo financiero.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 31 DE JULIO DE 2018)</small>
+
+Sin perjuicio de los fines de esta Ley, los esquemas mencionados se podrán utilizar, enunciativa más no limitativamente, en los siguientes rubros:
+
+I. Coinversión o cofinanciamiento en:
+
+a) Desarrollo comunitario en población en situación de pobreza;
+
+b) Rehabilitación de espacios para albergues permanentes o temporales, casas hogar y centros de atención a adultos mayores, niñas, niños y adolescentes de Sonora;
+
+c) Apoyos a la certificación de centros de tratamiento y rehabilitación de adicciones, y
+
+d) Fondo para mejorar la convivencia social.
+
+II. Subsidio en:
+
+a) Capacitaciones y talleres para el desarrollo de capacidades productivas para autoempleo;
+
+b) Atención a migrantes;
+
+c) Fondo para la mejora a casas hogar y/o albergues;
+
+d) Fomento a la activación física, deportiva, cultural y artística para el desarrollo social;
+
+e) Prevención de enfermedades transmitidas por vector;
+
+f) Prevención y atención a la violencia contra las mujeres;
+
+g) Seguridad alimentaria y nutrición; y
+
+h) Investigación en materia de derechos sociales.
+
+III. Subvención estructural o por proyecto en:
+
+a) Fortalecimiento institucional a organizaciones de la sociedad civil que atienden grupos vulnerables;
+
+b) Atención al rezago educativo;
+
+c) Fomento a la mejora educativa;
+
+d) Inclusión y mejora de comunidades indígenas;
+
+e) Mejora de espacios recreativos para niños y niñas;
+
+f) Fomento de valores e identidad regional;
+
+g) Fondo para el desarrollo sustentable; y
+
+h) Prevención y rehabilitación de adicciones.
+
+IV. Donaciones en:
+
+a) Fondo para donaciones en especie a organizaciones sin fines de lucro.
+
+V. Apoyo financiero en:
+
+a) Fondo para organizaciones de la sociedad civil en situación de crisis o contingencia.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2018)</small>
+
+Lo anterior se podrá realizar con independencia de las actividades y programas que regulen otras leyes.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2018)</small>
+
+Los esquemas mencionados deberán de ser regulados a través de las reglas de operación que para tal efecto apruebe y emita la Junta de Gobierno del Sistema Integral para la Familia.
+
 > <small>(REFORMADO, B.O. 3 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 49.
@@ -676,3 +766,11 @@ B.O. 3 DE MARZO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 238 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
