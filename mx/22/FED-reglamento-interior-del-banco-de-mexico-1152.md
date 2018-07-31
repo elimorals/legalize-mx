@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2018-05-30"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -167,9 +167,9 @@ Dirección Jurídica
 
 Unidad de Transparencia
 
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2018)</small>
 
-Además de lo anterior, para el cumplimiento de los fines del fideicomiso público del Estado que establece el párrafo sexto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el Banco contará con una Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán del Gobernador, así como de una Subcoordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, una Subcoordinación Jurídica del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán de las unidades administrativas a que se refiere este Reglamento Interior. Las atribuciones encomendadas por este Reglamento a los titulares de las unidades administrativas mencionadas en este párrafo podrán ser ejercidas por ellos en forma individual.
+Además de lo anterior, para el cumplimiento de los fines del fideicomiso público del Estado que establece el párrafo sexto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el Banco contará con una Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán del Gobernador, así como de una Subcoordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, una Subcoordinación de Operaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán de las unidades administrativas a que se refiere este Reglamento Interior. Las atribuciones encomendadas por este Reglamento a los titulares de las unidades administrativas mencionadas en este párrafo podrán ser ejercidas por ellos en forma individual.
 
 > <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -243,9 +243,9 @@ El Comité de Auditoría podrá solicitar la contratación de expertos independi
 
 Los honorarios de los miembros no institucionales del Comité y de los expertos que en su caso se contraten, serán determinados por la propia Junta de Gobierno y sus servicios serán contratados por el Banco en los términos que esta establezca. Las personas referidas deberán guardar confidencialidad de los asuntos e información que tengan conocimiento en el desempeño de sus funciones. Dicha obligación de confidencialidad deberá quedar establecida en los contratos que al efecto se celebren.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2018)</small>
 
-Las Coordinaciones del Fondo Mexicano del Petróleo tendrán adscritas las unidades administrativas que señala el presente Reglamento y se auxiliarán, en el cumplimiento de sus funciones de los Subcoordinadores, Titulares de Unidad y los demás empleados, previstos en la estructura correspondiente, conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
+Las Coordinaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo tendrán adscritas las unidades administrativas que señala el presente Reglamento y se auxiliarán, en el cumplimiento de sus funciones de los Subcoordinadores, Titulares de Unidad, Subgerentes y los demás empleados, previstos en la estructura correspondiente, conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
 
 > <small>(ADICIONADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
@@ -281,11 +281,11 @@ En los poderes, comisiones y designaciones otorgados conforme al párrafo anteri
 
 El Gobernador podrá autorizar a los apoderados, comisionistas y delegados fiduciarios para que, conforme a las disposiciones aplicables, éstos otorguen o revoquen poderes generales o especiales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 8o.
 
-Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretaría de la Junta, Direcciones y Unidades de Transparencia y Auditoría, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a estos y se encuentren subordinados al Director General, al Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, al Secretario de la Junta, al Director o a los titulares de las Unidades de Transparencia y Auditoría, según se trate. Los Cajeros Regionales de las sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
+Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretaría de la Junta, Direcciones y Unidades de Transparencia y Auditoría, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a estos y se encuentren subordinados al Director General, al Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, al Secretario de la Junta, al Director o a los titulares de las Unidades de Transparencia y Auditoría, según se trate. El Subcoordinador de Operaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo podrá ejercer, de manera individual, en su carácter de delegado fiduciario debidamente designado con tal carácter, las atribuciones encomendadas a la Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo. Los Cajeros Regionales de las sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
 
 > <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -507,15 +507,11 @@ Para el desempeño de las funciones encomendadas al Coordinador Ejecutivo, este 
 
 Como excepción a lo dispuesto en el primer párrafo de los artículos 8 y 66 del presente Reglamento Interior, para el ejercicio de las atribuciones señaladas en esta fracción, el Coordinador Ejecutivo será suplido, en sus ausencias, por el funcionario que designe el Comité Técnico del Fondo Mexicano del Petróleo, a propuesta del Gobernador del Banco de México. El funcionario que ejerza actos en suplencia deberá indicar que actúa en los términos de este artículo.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2018)</small>
 
-ARTICULO 15 BIS 4.- La Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, tendrá, además de las atribuciones señaladas en el artículo 28 Bis 1, las siguientes:
+ARTICULO 15 BIS 4.- La Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo tendrá las funciones encomendadas al Banco de México como fiduciario, previstas en la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, en el contrato constitutivo de ese fideicomiso y en las demás disposiciones aplicables.
 
-I. Las funciones encomendadas al Banco de México como fiduciario en el Fondo Mexicano del Petróleo, previstas en la Ley del Fondo Mexicano del Petróleo, en el contrato constitutivo de ese fideicomiso y en las demás disposiciones aplicables.
-
-II. Llevar la contabilidad especial de ese fideicomiso, en coordinación con la Dirección de Contabilidad, Planeación y Presupuesto del Banco de México.
-
-A esta Coordinación estará adscrita la Subcoordinación Jurídica del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+A esta Coordinación estará adscrita la Subcoordinación de Operaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -1425,9 +1421,7 @@ IV. Coordinar las relaciones interinstitucionales con las autoridades del Gobier
 
 V. Administrar los transportes aéreos que requiera el Banco para el desempeño de sus funciones, así como el traslado terrestre de valores que efectúe con vehículos propios.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
-
-ARTICULO 28 BIS 1.- La Subcoordinación Jurídica del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, proporcionará asesoría jurídica a las Coordinaciones del Fondo Mexicano del Petróleo y a las unidades administrativas adscritas a estas; llevará a cabo actos en procesos y procedimientos ante autoridades judiciales, administrativas y del trabajo relacionados con la defensa del Banco de México, en su carácter de fiduciario en el Fondo Mexicano del Petróleo, y representará al Banco en ese mismo carácter.
+ARTICULO 28 BIS 1.- (DEROGADO, D.O.F. 31 DE JULIO DE 2018)
 
 > <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
@@ -2770,3 +2764,19 @@ TERCERO. Los asuntos que se encuentren en trámite o pendientes de conclusión a
 Los expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor de la presente reforma, pasarán a la nueva unidad o unidades competentes y serán distribuidos, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
 
 CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS "MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO".]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor el 1 de agosto de 2018.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados por el Banco, en su carácter de fiduciario en el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, con anterioridad a la entrada en vigor de las presentes modificaciones, conservarán todo su valor y fuerza legales, y continuarán produciendo todos sus efectos.
+
+TERCERO. Las referencias que se hagan en acuerdos, manuales, convenios y demás actos, a las unidades administrativas que, con anterioridad a la entrada en vigor de las presentes modificaciones, hayan ejecutado actos a nombre y por cuenta del Banco de México, en su carácter de fiduciario en el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, o hayan quedado señaladas en dichos actos, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme a estas modificaciones.
+
+CUARTO. Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de estas modificaciones y que, conforme a las mismas, correspondan ser atendidos por una unidad administrativa diversa a la que haya estado a cargo de ellos hasta dicha entrada en vigor, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+Los expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor de las presentes modificaciones, pasarán a la nueva unidad o unidades administrativas competentes y serán distribuidos, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
+
+QUINTO. Las modificaciones a la estructura orgánica del Banco de México que deriven de la entrada en vigor de las presentes modificaciones no generarán incremento en el presupuesto autorizado para recursos humanos del Banco para el siguiente ejercicio fiscal, toda vez que el presupuesto correspondiente a la estructura a que se refiere el presente artículo deberá elaborarse bajo el supuesto de que las disponibilidades presupuestales correspondientes serán restituidas por los honorarios fiduciarios cobrados por el Banco con cargo al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de conformidad con la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, así como el contrato constitutivo de dicho fideicomiso.
