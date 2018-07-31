@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-consejo-estatal-de-promocion-43424"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-11"
-last_updated: "2007-07-26"
+last_updated: "2018-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE PROMOCION ECONOMICA
 
-REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE PROMOCION ECONOMICA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO ESTATAL DE PROMOCIÓN ECONÓMICA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2007.
+REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE PROMOCIÓN ECONÓMICA DEL ESTADO DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 11 de enero de 2005.
 
@@ -190,7 +192,7 @@ XV. Las demás que le confieran las disposiciones legales y reglamentarias que r
 
 Al frente de cada área operativa habrá un Director, asistentes, coordinadores, auxiliares, así como el personal técnico y administrativo, que las necesidades del servicio requieran y autorice la Junta de Gobierno en base al Presupuesto del Consejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 14.
 
@@ -214,7 +216,7 @@ VIII. Proporcionar al Director General, la información técnica o administrativ
 
 IX. Las demás que le confieran las disposiciones legales y reglamentarias que resulten aplicables, la Junta o el Director General.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JULIO DE 2007)</small>
 
 ### Capítulo VI. De las Coordinaciones Generales
 
@@ -238,7 +240,7 @@ VI. Las demás que le confieran las disposiciones legales y reglamentarias que r
 
 ###### Artículo 15 Bis.
 
-La Coordinación General de Analisis Económico y Competitividad tendrá las siguientes atribuciones:
+La Coordinación General de Análisis Económico y Competitividad tendrá las siguientes atribuciones:
 
 I. Asistir a la Dirección General;
 
@@ -246,9 +248,9 @@ II. Hacer el análisis permanente de los incentivos y estrategias de fomento que
 
 III. Analizar la situación económica de Jalisco y el resto de los estados del país;
 
-IV. Asesorar de manera permanente al Director General del Órganismo en la forma de decisiones y en la elaboración de estrategias que permitan hacer más eficiente el otorgamiento de apoyos por el Consejo Estatal de Promoción Económica;
+IV. Asesorar de manera permanente al Director General del Órganismo en la toma de decisiones y en la elaboración de estrategias que permitan hacer más eficiente el otorgamiento de apoyos por el Consejo Estatal de Promoción Económica;
 
-V. las (sic) demás que le confieran las disposiciones legales y reglamentarias que resulten aplicables, la Junta o el Director General.
+V. las demás que le confieran las disposiciones legales y reglamentarias que resulten aplicables, la Junta o el Director General.
 
 ### Capítulo VII. De la Dirección Jurídica
 
@@ -272,7 +274,7 @@ VII. Notificar las resoluciones de la Junta y el Director General;
 
 VIII. Tramitar la efectividad de fianzas;
 
-IX. Analizar la situación jurídica de los bienes del Consejo y gestionar lo que resulte conducente, y (sic)
+IX. Analizar la situación jurídica de los bienes del Consejo y gestionar lo que resulte conducente, y
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2006)</small>
 
@@ -444,7 +446,7 @@ Segundo.- Se derogan todas aquellas disposiciones reglamentarias que se opongan 
 
 Así lo acordó y firma el Gobernador Constitucional del Estado de Jalisco, ante el Secretario General de Gobierno quién lo refrenda para su validez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 21 DE FEBRERO DE 2006.
 
@@ -457,3 +459,13 @@ P.O. 26 DE JULIO DE 2007.
 PRIMERO.- La modificación al Reglamento Interior del Consejo Estatal de Promoción Económica entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Envíese copia del presente acuerdo al titular del Poder Ejecutivo del Estado de Jalisco por conducto de su Secretario General de Gobierno.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIGELAG ACU 030/2018, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERNO DEL CONSEJO ESTATAL DE PROMOCIÓN ECONÓMICA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior del Consejo Estatal de Promoción Económica, publicado en el Periódico Oficial "El Estado de Jalisco" el día 11 de enero de 2005.
+
+TERCERO. Hasta en tanto se crea el Órgano Interno de Control del Consejo Estatal de Promoción Económica, el Titular de la Dirección General deberá nombrar las áreas y funcionarios públicos que asumirán la competencia de Autoridad Investigadora, Autoridad Substanciadora y en su caso, de Autoridad Resolutora.
