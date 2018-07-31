@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2018-04-24"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -713,9 +713,9 @@ f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción
 
 ###### ARTICULO 41.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
-1. Los Presidentes de las Comisiones ordinarias y especiales, con el acuerdo de éstas, podrán solicitar información o documentación a las dependencias y entidades del Poder Ejecutivo del Estado, al Supremo Tribunal de Justicia, al Instituto Electoral de Tamaulipas, al Tribunal Electoral del Poder Judicial del Estado, a la Comisión de Derechos Humanos del Estado, al Instituto de Transparencia y Acceso a la Información de Tamaulipas y a los Ayuntamientos de la Entidad y sus entidades, cuando se trate de un asunto de la competencia de dichas instituciones o se discuta una iniciativa sobre las materias que les corresponde atender en términos de los ordenamientos que las rigen.
+1. Los Presidentes de las Comisiones ordinarias y especiales, con el acuerdo de éstas, podrán solicitar información o documentación a las dependencias y entidades del Poder Ejecutivo del Estado, al Supremo Tribunal de Justicia, al Instituto Electoral de Tamaulipas, al Tribunal Electoral del Estado, a la Comisión de Derechos Humanos del Estado, al Instituto de Transparencia y Acceso a la Información de Tamaulipas y a los Ayuntamientos de la Entidad y sus entidades, cuando se trate de un asunto de la competencia de dichas instituciones o se discuta una iniciativa sobre las materias que les corresponde atender en términos de los ordenamientos que las rigen.
 
 2. El ente público está obligado a proporcionar la información en un plazo razonable y si la misma no fuere remitida, la comisión lo planteará al presidente de la Mesa Directiva para que éste refrende la solicitud. Si ante este requerimiento la información no fuere remitida, se procederá en términos del título de responsabilidades de los servidores públicos previsto en la Constitución Política del Estado.
 
@@ -2491,11 +2491,11 @@ d) En votación económica inmediata, el Congreso determinará si se admite o no
 
 2. En el momento de rendir la protesta, el Gobernador del Estado, los diputados y demás asistentes deberán estar de pie. El presidente de la Mesa Directiva del Congreso permanecerá de pie mientras se rinde dicha protesta.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
-###### ARTICULO 151.
+###### ARTÍCULO 151.
 
-Cuando se trate de la protesta constitucional que deba rendir algún Diputado, un Magistrado del Poder Judicial, el Consejero Presidente, un Consejero Electoral o el Contralor General del Instituto Electoral de Tamaulipas, el Presidente de la Comisión de Derechos Humanos del Estado o de cualquier otro servidor público obligado a otorgarla ante el Congreso, el Presidente designará una comisión que lo introduzca y acompañe a salir del Recinto.
+Cuando se trate de la protesta constitucional que deba rendir algún Diputado, un Magistrado del Poder Judicial, o los Titulares de los órganos internos de control de los órganos constitucionalmente autónomos, el Presidente de la Comisión de Derechos Humanos del Estado o de cualquier otro servidor público obligado a otorgarla ante el Congreso, el Presidente designará una comisión que lo introduzca y acompañe a salir del Recinto.
 
 ###### ARTICULO 152.
 
@@ -3226,3 +3226,11 @@ P.O. 24 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-443 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS Y LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas que en éste se establecen, cuya vigencia surtirá efectos a partir de su expedición, con base en el artículo 3, párrafo 3 de la citada Ley.
