@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-277-para-el-fomento-y-la-participacion-de-las-126531
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-25"
-last_updated: "2018-01-25"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Número 8 Sección VI del Boletín Oficial del Estado de Sonora, el jueves 25 de enero de 2018.
 
@@ -307,6 +307,82 @@ VII.- El acceso mediante las modalidades disponibles, a proyectos o fondos públ
 
 Los tres Poderes del Estado, sus dependencias y los organismos públicos autónomos, así como los municipios, fomentarán las actividades de las organizaciones de la sociedad civil, agrupaciones y redes; y en su caso, podrán otorgar recursos públicos para las actividades contempladas en el artículo 3 de esta Ley.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 31 DE JULIO DE 2018)</small>
+
+De igual manera, podrán transferirse recursos para los fines establecidos en el artículo 3 de esta Ley, a las organizaciones de la sociedad civil que tengan convenido los recursos asignados por el Estado para beneficio de las OSC's, bajo los siguientes esquemas financieros en materia de derechos sociales:
+
+l. Coinversión o cofinanciamiento;
+
+II. Subsidio;
+
+III. Subvención estructural o por proyecto;
+
+IV. Donaciones; y
+
+V. Apoyo financiero.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 31 DE JULIO DE 2018)</small>
+
+Aparte de los fines de esta Ley, cada uno de los siguientes esquemas se podrán utilizar de la siguiente manera:
+
+I. Coinversión o cofinanciamiento en:
+
+a) Desarrollo comunitario en población en situación de pobreza;
+
+b) Rehabilitación de espacios para albergues permanentes o temporales, casas hogar y centros de atención a adultos mayores, niñas y niños de Sonora;
+
+c) Apoyos a la certificación de centros de tratamiento y rehabilitación de adicciones; y
+
+d) Fondo para mejorar la convivencia social.
+
+ll. Subsidio en:
+
+a) Capacitaciones y talleres para el desarrollo de capacidades productivas para autoempleo;
+
+b) Atención a migrantes;
+
+c) Fondo para la mejora a casas hogar y/o albergues;
+
+d) Fomento a la activación física, deportiva, cultural y artística para el desarrollo social;
+
+e) Prevención de enfermedades transmitidas por vector;
+
+f) Prevención y atención a la violencia contra las mujeres;
+
+g) Seguridad alimentaria y nutrición; y
+
+h) Investigación en materia de derechos sociales.
+
+III. Subvención estructural o por proyecto en:
+
+a) Fortalecimiento institucional a organizaciones de la sociedad civil que atienden grupos vulnerables;
+
+b) Atención al rezago educativo;
+
+c) Fomento a la mejora educativa;
+
+d) Inclusión y mejora de comunidades indígenas;
+
+e) Mejora de espacios recreativos para niños y niñas;
+
+f) Fomento de valores e identidad regional;
+
+g) Fondo para el desarrollo sustentable; y
+
+h) Prevención y rehabilitación de adicciones.
+
+IV. Donaciones en:
+
+a) Fondo para donaciones en especie a organizaciones sin fines de lucro.
+
+V. Apoyo financiero en:
+
+a) Fondo para organizaciones de la sociedad civil en situación de crisis o contingencia.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2018)</small>
+
+Lo anterior se podrá realizar con independencia de las actividades y programas que regulen otras leyes.
+
 ###### ARTÍCULO 21.
 
 Para otorgar recursos públicos a las organizaciones de la sociedad civil y redes, los tres Poderes del Estado y sus dependencias, los organismos públicos autónomos, y los municipios deberán utilizar los criterios y mecanismos que aseguren:
@@ -414,3 +490,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veinte días del mes de diciembre del año dos mil diecisiete.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
