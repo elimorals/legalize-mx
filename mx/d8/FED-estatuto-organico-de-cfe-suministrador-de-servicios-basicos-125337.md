@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-suministrador-de-servicios-basicos-125
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-01-18"
-last_updated: "2018-01-18"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125337&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-12-21"
 
 ESTATUTO ORGÁNICO DE CFE SUMINISTRADOR DE SERVICIOS BÁSICOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 18 de enero de 2018.
 
@@ -49,21 +49,29 @@ Que con base en los considerandos que anteceden, se emite el siguiente:
 
 ESTATUTO ORGÁNICO DE CFE SUMINISTRADOR DE SERVICIOS BÁSICOS
 
+> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2018)</small>
+
+INDICE
+
+## TITULO I: De la Organización
+
+## TITULO II: Del Gobierno Corporativo
+
+## TITULO III: De la Estructura Orgánica y sus Funciones
+
+## TITULO IV: De los Órganos de Vigilancia y Auditoría
+
+## TITULO V: De la instancia en materia de Transparencia
+
+## TITULO QUINTO BIS: De la instancia en materia de Responsabilidades
+
+### CAPITULO UNICO. Unidad de Responsabilidades
+
+## TITULO VI: De las Suplencias
+
 ## TÍTULO I. De la Organización
 
-## TÍTULO II. Del Gobierno Corporativo
-
-## TÍTULO III. De la Estructura Orgánica y sus Funciones
-
-## TITULO IV. De los Órganos de Vigilancia y Auditoria
-
-## TÍTULO V. De la instancia en materia de Transparencia
-
-## TÍTULO VI. De las Suplencias
-
 ### CAPÍTULO I. Disposiciones Generales
-
-### CAPÍTULO II. Órganos y Estructura
 
 ###### ARTÍCULO 1.
 
@@ -109,7 +117,7 @@ III. Las demás que establezca el Consejo.
 
 CFE Suministrador de Servicios Básicos podrá realizar las actividades relacionadas con el ejercicio de las funciones previstas en el presente artículo, mediante la celebración de asociaciones con terceros del sector público, privado o social, nacional o internacional. Esto le permitirá formular distintas estrategias en la búsqueda de capital, tecnología, conocimiento y rentabilidad.
 
-### CAPÍTULO I. Integración y funcionamiento del Consejo y de sus Comités
+### CAPÍTULO II. Órganos y Estructura
 
 ###### ARTÍCULO 5.
 
@@ -165,7 +173,9 @@ E. Comité de Transparencia.
 
 F. Enlace de Transparencia.
 
-### CAPÍTULO II. De la Dirección General
+## TÍTULO II. Del Gobierno Corporativo
+
+### CAPÍTULO I. Integración y funcionamiento del Consejo y de sus Comités
 
 ###### Artículo 6.
 
@@ -219,7 +229,7 @@ III. Comunicar al Consejo las diferencias de opinión o criterio entre la admini
 
 Las actas y los acuerdos del Consejo de Administración y sus comités se difundirán conforme a la normatividad aplicable, a través del portal electrónico de CFE Suministrador de Servicios Básicos.
 
-### CAPÍTULO I. De las áreas operativas del corporativo
+### CAPÍTULO II. De la Dirección General
 
 ###### ARTÍCULO 11.
 
@@ -253,7 +263,9 @@ XII. Ordenar la expedición a petición del interesado, copias certificadas de l
 
 Además de las funciones anteriores, tendrá las que establecen los Términos para la estricta separación legal de la Comisión Federal de Electricidad; el Acuerdo de Creación y las que establezca el Consejo.
 
-### CAPÍTULO II. De las demás áreas operativas y de las áreas funcionales del Corporativo
+## TÍTULO III. De la Estructura Orgánica y sus Funciones
+
+### CAPÍTULO I. De las áreas operativas del corporativo
 
 ###### ARTÍCULO 12.
 
@@ -361,7 +373,7 @@ III. Participar con las entidades Reguladoras para la conciliación de las estra
 
 IV. Dirigir las actividades y estrategias de representación de generadores exentos en el MEM.
 
-### CAPÍTULO III. De las Unidades Regionales, de sus Funciones y Circunscripción Territorial
+### CAPÍTULO II. De las demás áreas operativas y de las áreas funcionales del Corporativo
 
 ###### ARTÍCULO 17.
 
@@ -683,7 +695,7 @@ VII. Coordinar con el Supervisor de Finanzas la previsión del flujo de efectivo
 
 VIII. Coordinar la estrategia para el cumplimiento de la regulación, con las demás áreas de la Gerencia de Gestión de Suministros Eléctricos.
 
-### CAPÍTULO ÚNICO. De la Auditoria Interna
+### CAPÍTULO III. De las Unidades Regionales, de sus Funciones y Circunscripción Territorial
 
 ###### ARTÍCULO 30.
 
@@ -921,15 +933,15 @@ XI. La Subgerencia Comercial División Oriente, la cual cuenta con las siguiente
 
 2) La Jefatura de Departamento Comercial Zona Córdoba tiene jurisdicción dentro del Estado de Veracruz en los Municipios de Alpatlahuac, Amatlan de los Reyes, Astacinga, Atoyac, Calcahualco, Carrillo Puerto, Chocaman, Comapa, Cordoba, Coscomatepec, Cotaxtla, Cuitlahuac, Fortin Villa de las Flores, Huatusco, Ixhuatlan del Café, Mariano Escobedo, Naranjal, Omealca, Paso del Macho, Sochiapa, Tepatlaxco, Tlacotepec de Mejía, Tomatlan, Totutla y Yanga.
 
-3) La Jefatura de Departamento Comercial Zona Los Tuxtlas tiene circunscripción territorial dentro del Estado de Veracruz en los Municipios de Ángel R. Cabada, Catemaco, Hueyapan de Ocampo, Lerdo de Tejada, Saltabarranca, San Andrés Tuxtla y Santiago Tuxtla,.
+3) La Jefatura de Departamento Comercial Zona Los Tuxtlas tiene circunscripción territorial dentro del Estado de Veracruz en los Municipios de Ángel R. Cabada, Catemaco, Hueyapan de Ocampo, Lerdo de Tejada, Saltabarranca, San Andrés Tuxtla y Santiago Tuxtla.
 
 4) La Jefatura de Departamento Comercial Zona Orizaba tiene circunscripción territorial dentro del Estado de Veracruz en los Municipios de Acultzingo, Aquila, Atlahuilco, Atzacan, Camerino Z. Mendoza, Huiloapan de Cuauhtémoc, Ixhuatlancillo, La Perla, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Nogales, Orizaba, Rafael Delgado, Rafael Lucio, Rio Blanco, Soledad Atzompa, Tequila, Texhuacan, Tlaquilpa, Tlilapan, Xoxovotla y Zongolica.
 
-5) La Jefatura de Departamento Comercial Zona Papaloapan tiene circunscripción territorial dentro del Estado de Oaxaca en los Municipios de Acatlán de Pérez Figueroa, Ayotzintepec, Cosolapa, Ixtlán de Juárez, Loma Bonita, San Andrés Teotilalpam, San Felipe Jalapa de Díaz, San Felipe Usila, San José Chiltepec, San José Independencia, San José Tenango, San Juan Bautista Tlacoatzintepec, San Juan Bautista Tuxtepec, San Juan Valle Nacional, San Juan Cotzocon, San Juan Lalana, San Juan Mazatlán, San Lucas Ojitlán, San Miguel Soyaltepec, San Pedro Ixcatlán, Santa María Chilchotla, Santa María Jacatepec, Santiago Choapam, Santiago Jocotepec y Santiago Yaveo; dentro del Estado de Puebla en los Municipios de Chichiquila, Eloxochitlan y San Sebastián Tlacotepec; y dentro del Estado de Veracruz en los Municipios de Acatlan, Acula, Amatitlan, Carlos A. Carrillo, Chacaltianguis, Cosamaloapan de Carpio, Isla, Ixmatlahuacan, José Azueta, Juan Rodríguez Clara, Otatitlan, Playa Vicente, San Andrés Tenejapan, Tezonapa, Playa Vicente, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tres Valles y Tuxtilla
+5) La Jefatura de Departamento Comercial Zona Papaloapan tiene circunscripción territorial dentro del Estado de Oaxaca en los Municipios de Acatlán de Pérez Figueroa, Ayotzintepec, Cosolapa, Ixtlán de Juárez, Loma Bonita, San Andrés Teotilalpam, San Felipe Jalapa de Díaz, San Felipe Usila, San José Chiltepec, San José Independencia, San José Tenango, San Juan Bautista Tlacoatzintepec, San Juan Bautista Tuxtepec, San Juan Valle Nacional, San Juan Cotzocon, San Juan Lalana, San Juan Mazatlán, San Lucas Ojitlán, San Miguel Soyaltepec, San Pedro Ixcatlán, Santa María Chilchotla, Santa María Jacatepec, Santiago Choapam, Santiago Jocotepec y Santiago Yaveo; dentro del Estado de Puebla en los Municipios de Chichiquila, Eloxochitlan y San Sebastián Tlacotepec; y dentro del Estado de Veracruz en los Municipios de Acatlan, Acula, Amatitlan, Carlos A. Carrillo, Chacaltianguis, Cosamaloapan de Carpio, Isla, Ixmatlahuacan, José Azueta, Juan Rodríguez Clara, Otatitlan, Playa Vicente, San Andrés Tenejapan, Tezonapa, Playa Vicente, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tres Valles y Tuxtilla.
 
 6) La Jefatura de Departamento Comercial Zona Poza Rica tiene circunscripción territorial dentro del Estado de Hidalgo en los Municipios de Huautla, San Bartolo Tututepec y, Xochiatipan; dentro del Estado de Puebla en los Municipios de Jopala, Tepango de Rodríguez, y Tlacuilotepec; y dentro del Estado de Veracruz en los Municipios de Álamo Temapache, Benito Juárez, Castillo de Teayo, Cazones de Herrera, Cerro Azul, Chalma, Chicontepec, Chontla, Chumatlan, Coacoatzintla, Coahuitlán, Coatzintla, Coxquihui, Coyutla, Espinal, Filomeno Mata, Gutierrez Zamora, Ixcatepec, Ixhuatlan de Madero, Mecatlan, Miahuatlan, Ozuluama de Mascarenas, Papantla, Poza Rica de Hidalgo, Tamiahua, Tancoco, Tantoyuca, Tecolutla, Tepetzintla, Texcatepec, Tihuatlan, Tlachichilco, Tuxpan, Zontecomatlan de Lopez y Fuentes y Zozocolco de Hidalgo.
 
-7) La Jefatura de Departamento Comercial Zona Teziutlan tiene circunscripción territorial dentro del Estado de Puebla en los Municipios de Acateno, Atempan, Atlequizayan, Ayotoxco de Guerrero, Caxhuacan, Chiconcuautla, Chignautla, Cuetzalan del Progreso, Francisco Z. Mena, Huehuetla, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Ixtepec, Jalpan, Jonotla, Naupan, Nauzontla, Olintla, Pantepec, Tenampulco, Teteles de Ávila Castillo, Teziutlan, Tlaola, Tlapacoya, Tlatlauquitepec, Tuzamapan de Galeana, Venustiano Carranza, Xicotepec, Xiutetelco, Xochiapulco, Xochitlan de Vicente Suarez, Yaonahuac, Zacapoaxtla, Zapotitlan de Mendez, Zaragoza, Zautla, Zihuateutla, Zongozotla, Zoquiapan; y dentro del Estado de Veracruz en los Municipios de, Altotonga, Atzalan, Colipa, Chiconquiaco, Jalacingo, Jalcomulco, Juchique de Ferrer, Landero y Coss, Las Minas, Martínez de la Torre, Misantla, Nautla, Perote, San Rafael, Tenochtitlán, Tlapacoyan, Vega de Alatorre, y Yecuatla, .
+7) La Jefatura de Departamento Comercial Zona Teziutlan tiene circunscripción territorial dentro del Estado de Puebla en los Municipios de Acateno, Atempan, Atlequizayan, Ayotoxco de Guerrero, Caxhuacan, Chiconcuautla, Chignautla, Cuetzalan del Progreso, Francisco Z. Mena, Huehuetla, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Ixtepec, Jalpan, Jonotla, Naupan, Nauzontla, Olintla, Pantepec, Tenampulco, Teteles de Ávila Castillo, Teziutlan, Tlaola, Tlapacoya, Tlatlauquitepec, Tuzamapan de Galeana, Venustiano Carranza, Xicotepec, Xiutetelco, Xochiapulco, Xochitlan de Vicente Suarez, Yaonahuac, Zacapoaxtla, Zapotitlan de Mendez, Zaragoza, Zautla, Zihuateutla, Zongozotla, Zoquiapan; y dentro del Estado de Veracruz en los Municipios de, Altotonga, Atzalan, Colipa, Chiconquiaco, Jalacingo, Jalcomulco, Juchique de Ferrer, Landero y Coss, Las Minas, Martínez de la Torre, Misantla, Nautla, Perote, San Rafael, Tenochtitlán, Tlapacoyan, Vega de Alatorre, y Yecuatla.
 
 8) La Jefatura de Departamento Comercial Zona Veracruz tiene circunscripción territorial dentro del Estado de Veracruz en los Municipios de Alvarado, Boca del Rio, Camarón de Tejeda, Ignacio de la Llave, Jamapa, La Antigua, Manlio Fabio Altamirano, Medellín, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Tlalixcoyan, Úrsulo Galván y Veracruz.
 
@@ -987,7 +999,7 @@ XIV. La Subgerencia Comercial División Valle de México Centro, la cual cuenta 
 
 4) La Jefatura de Departamento Comercial Zona Nezahualcóyotl tiene circunscripción territorial dentro de la Ciudad de México en las Delegaciones Iztacalco, Iztapalapa y Venustiano Carranza; y dentro del Estado de México en el Municipio de Nezahualcóyotl.
 
-5) La Jefatura de Departamento Comercial Zona Polanco tiene circunscripción territorial dentro de la Ciudad de México en las Delegaciones Álvaro Obregón, Cuajimalpa de Morelos y Miguel Hidalgo; y dentro del Estado de México en los Municipios de Huixquilucan y Naucalpan
+5) La Jefatura de Departamento Comercial Zona Polanco tiene circunscripción territorial dentro de la Ciudad de México en las Delegaciones Álvaro Obregón, Cuajimalpa de Morelos y Miguel Hidalgo; y dentro del Estado de México en los Municipios de Huixquilucan y Naucalpan.
 
 6) La Jefatura de Departamento Comercial Zona Tacuba tiene circunscripción territorial dentro de la Ciudad de México Federal en las Delegaciones Azcapotzalco, Gustavo Adolfo Madero, Miguel Hidalgo y Venustiano Carranza.
 
@@ -1015,9 +1027,9 @@ XVI. La Subgerencia Comercial División Valle de México Sur, la cual cuenta con
 
 2) La Jefatura de Departamento Comercial Zona Ermita tiene circunscripción territorial dentro de la Ciudad de México en las Delegaciones de Coyoacán, Iztapalapa y Tláhuac.
 
-3) La Jefatura de Departamento Comercial Zona Las Lomas tiene circunscripción territorial dentro de la Ciudad de México en las Delegaciones de Álvaro Obregón, Cuajimalpa de Morelos, y La Magdalena Contreras; y dentro del Estado de México en el Municipio de Huixquilucan y Ocoyoacac
+3) La Jefatura de Departamento Comercial Zona Las Lomas tiene circunscripción territorial dentro de la Ciudad de México en las Delegaciones de Álvaro Obregón, Cuajimalpa de Morelos, y La Magdalena Contreras; y dentro del Estado de México en el Municipio de Huixquilucan y Ocoyoacac.
 
-4) La Jefatura de Departamento Comercial Zona Volcanes tiene circunscripción territorial dentro de la Ciudad de México en las Delegaciones de Iztapalapa y Tláhuac; y dentro del Estado de México en los Municipios de Amecameca, Atlautla, Ayapango, Chalco, Cocotitlan, Ecatzingo, Ixtapaluca, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad,.
+4) La Jefatura de Departamento Comercial Zona Volcanes tiene circunscripción territorial dentro de la Ciudad de México en las Delegaciones de Iztapalapa y Tláhuac; y dentro del Estado de México en los Municipios de Amecameca, Atlautla, Ayapango, Chalco, Cocotitlan, Ecatzingo, Ixtapaluca, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
 
 5) La Jefatura de Departamento Comercial Zona Tenango tiene jurisdicción dentro del Estado de México en los Municipios de Almoloya del Río, Atizapan, Calimaya, Calpuhuac, Joquincingo, Lerma, Malinalco, Metepec, Mexicaltzingo, Ocoyoacac, Ocuilan, Rayón, San Antonio la Isla, San Mateo Atenco, Tenancingo, Tenango del Valle, Texcalcayac, Tianguistenco, Toluca y Xalatlaco.
 
@@ -1119,13 +1131,17 @@ XXI. Las demás funciones que les confieran el Consejo, el Director General, el 
 
 Las funciones señaladas en las fracciones I y II, también le corresponden a los responsables de los Departamentos y Oficinas de Asuntos Jurídicos de las Jefaturas de Departamentos Comerciales de Zona. Las funciones señaladas en las fracciones VIII y de la XV a la XVIII, podrán ser ejercidas por los responsables de Operación de Centros de Atención a Clientes y Sistemas de Atención, adscritos a las Jefaturas de Departamentos Comerciales de Zona.
 
-### CAPÍTULO ÚNICO. Integración y funciones del Enlace de Transparencia y el Comité de Transparencia
+## TITULO IV. De los Órganos de Vigilancia y Auditoria
+
+### CAPÍTULO ÚNICO. De la Auditoria Interna
 
 ###### ARTÍCULO 35.
 
 La Auditoría Interna, cuyo titular será el Auditor Interno, dependerá jerárquica y funcionalmente del Auditor Interno de la Comisión y tendrá la estructura y funciones establecidas en los lineamientos emitidos por el Consejo de Administración.
 
-### CAPÍTULO ÚNICO
+## TÍTULO V. De la instancia en materia de Transparencia
+
+### CAPÍTULO ÚNICO. Integración y funciones del Enlace de Transparencia y el Comité de Transparencia
 
 ###### ARTÍCULO 36.
 
@@ -1134,6 +1150,30 @@ El Enlace de Transparencia de CFE Suministrador de Servicios Básicos, así como
 ###### ARTÍCULO 37.
 
 El Comité de Transparencia de CFE Suministrador de Servicios Básicos, estará integrado por 3 miembros designados por el Director General, entre los que se encontrará el Enlace de Transparencia. Para cada integrante propietario deberá ser designado un suplente.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 31 DE JULIO DE 2018)</small>
+
+## TITULO QUINTO BIS. De la Instancia en Materia de Responsabilidades
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 31 DE JULIO DE 2018)</small>
+
+### CAPITULO UNICO. Unidad de Responsabilidades
+
+> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 37 Bis.
+
+La Unidad de Responsabilidades es la instancia competente para aplicar al personal de CFE Suministrador de Servicios Básicos las leyes en materia de responsabilidades administrativas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 37 Ter.
+
+La Unidad de Responsabilidades en CFE Suministrador de Servicios Básicos contará con la estructura y las funciones que le otorguen la Ley de la Comisión Federal de Electricidad y su Reglamento, así como las demás disposiciones jurídicas aplicables.
+
+## TÍTULO VI. De las Suplencias
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 38.
 
@@ -1166,3 +1206,11 @@ Las suplencias a que se hace mención en este Título, se realizarán mediante e
 El presente Estatuto Orgánico fue aprobado y expedido por el Consejo de Administración de CFE Suministrador de Servicios Básicos, a propuesta del Director General, con fundamento en los artículos 14, fracción IX y 17, fracción XI, del Acuerdo por el que se crea CFE Suministrador de Servicios Básicos, en la tercera sesión ordinaria celebrada el 27 de marzo de 2017, mediante el Acuerdo CASSB-18/2017.
 
 En la Ciudad de México, a los veintiún días del mes de diciembre de dos mil diecisiete.- El Director General de CFE Suministrador de Servicios Básicos, José Agustín Quiñones Quiñones, con fundamento en el artículo 17, fracciones I y II del Acuerdo por el que se crea CFE Suministrador de Servicios Básicos, publicado en el Diario Oficial de la Federación el veintinueve de marzo de dos mil dieciséis.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS “ADICIONES AL ESTATUTO ORGÁNICO DE CFE SUMINISTRADOR DE SERVICIOS BÁSICOS PUBLICADO EL 18 DE ENERO DE 2018”.]
+
+UNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
