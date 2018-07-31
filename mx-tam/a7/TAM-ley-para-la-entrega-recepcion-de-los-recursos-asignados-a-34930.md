@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-entrega-recepcion-de-los-recursos-asignados-a-34930
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-06"
-last_updated: "2015-07-07"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY PARA LA ENTREGA-RECEPCION DE LOS RECURSOS ASIGNADOS A LOS PODERES, ORGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS (ANTES: LEY PARA LA ENTREGA-RECEPCION DE LOS RECURSOS ASIGNADOS A LOS PODERES Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS)
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de noviembre de 2003.
 
@@ -111,7 +113,9 @@ I.- En el Poder Ejecutivo:
 
 A) El titular del Poder Ejecutivo;
 
-B) Los titulares de las dependencias señaladas en el artículo 21 de la Ley Orgánica de la Administración Pública del Estado; y
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+B) Los titulares de las dependencias señaladas en el artículo 23 de la Ley Orgánica de la Administración Pública del Estado; y
 
 C) Los titulares de las áreas que integran las dependencias referidas en el inciso anterior, hasta el nivel de jefe de departamento o equivalente;
 
@@ -137,9 +141,9 @@ F) Los Jefes de Departamento;
 
 III.- En el Poder Judicial:
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
-A) Los Magistrados del Supremo Tribunal de Justicia y los del Tribunal Electoral; asimismo, los Consejeros de la Judicatura;
+A) Los Magistrados del Supremo Tribunal de Justicia y los Consejeros de la Judicatura;
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
@@ -589,9 +593,9 @@ Cuando las irregularidades se deriven del acto de entrega-recepción que se real
 
 II.- El Congreso del Estado, cuando el acto de entrega-recepción se realice por servidores públicos del Poder Legislativo, así como por los integrantes de los Ayuntamientos;
 
-> <small>(REFORMADA. P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-III.- El Pleno del Supremo Tribunal de Justicia, cuando el acto de entrega-recepción se realice por servidores públicos del Poder Judicial y la Comisión de Administración, Vigilancia y Disciplina, cuando la entrega-recepción se realice por servidores públicos del Tribunal Electoral;
+III.- El Pleno del Supremo Tribunal de Justicia, cuando el acto de entrega-recepción se realice por servidores públicos del Poder Judicial;
 
 > <small>(REFORMADA. P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
@@ -644,3 +648,11 @@ P.O. 7 DE JULIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-443 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS Y LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas que en éste se establecen, cuya vigencia surtirá efectos a partir de su expedición, con base en el artículo 3, párrafo 3 de la citada Ley.
