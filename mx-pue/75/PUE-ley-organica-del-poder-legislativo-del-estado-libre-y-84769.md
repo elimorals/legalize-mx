@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2017-12-29"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -57,7 +59,9 @@ La presente Ley es de orden e interés público y tiene por objeto regular la or
 
 Para efectos de la presente Ley se entenderá como:
 
-I.- Año Legislativo: El periodo comprendido entre el quince de enero y el catorce de enero del año siguiente;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+I.- Año Legislativo: El periodo comprendido entre el quince de septiembre y el catorce de septiembre del año siguiente;
 
 II.- Comisión: El Órgano Colegiado integrado por los Diputados que el Pleno designe que contribuye a que el Congreso cumpla con sus atribuciones constitucionales y legales, a través de la elaboración de dictámenes, informes y resoluciones;
 
@@ -211,9 +215,11 @@ El ejercicio del Poder Legislativo, se deposita en el Pleno, que se denomina "Co
 
 El Congreso del Estado se integra por el número de Diputados según los principios de mayoría relativa y de representación proporcional que establece el artículo 33 de la Constitución Política del Estado Libre y Soberano de Puebla.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 16.
 
-El Congreso del Estado se renovará en su totalidad cada tres años y comenzará a funcionar el día quince de enero del año siguiente al de la etapa de la jornada electoral de las elecciones respectivas; sin que por ningún motivo el mandato de sus miembros pueda prorrogarse más allá de ese periodo.
+El Congreso del Estado se renovará en su totalidad cada tres años y comenzará a funcionar el día quince de septiembre del año de la elección respectiva.
 
 ###### ARTÍCULO 17.
 
@@ -227,13 +233,21 @@ El Congreso del Estado, tiene las facultades previstas en la Constitución Polí
 
 El Congreso del Estado tendrá cada año, tres Periodos Ordinarios de Sesiones, en la forma siguiente:
 
-I.- El primero comenzará el día quince de enero y terminará el quince de marzo;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-II.- El segundo comenzará el primero de junio y terminará el treinta y uno de julio; y
+I.- El primero comenzará el día quince de septiembre y terminará el quince de diciembre;
 
-III.- El tercero comenzará el día quince de octubre y terminará el quince de diciembre.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-En cada uno de los periodos de sesiones, el Congreso se ocupará de las actividades, funciones y atribuciones propias, de conformidad con lo dispuesto en la Constitución Política del Estado Libre y Soberano de Puebla, en la presente Ley y el Reglamento Interior del Congreso.
+II.- El segundo comenzará el quince (sic) enero y terminará el quince de marzo; y
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+III.- El tercero comenzará el quince de mayo y terminará el quince de julio.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
+El Congreso se ocupará de las actividades, funciones y atribuciones propias, de conformidad con lo dispuesto en la Constitución Política del Estado Libre y Soberano de Puebla, en la presente Ley y el Reglamento Interior del Congreso.
 
 ###### ARTÍCULO 20.
 
@@ -273,9 +287,11 @@ Ninguna autoridad podrá ejecutar resoluciones judiciales o administrativas sobr
 
 ### CAPÍTULO I. DE LA PREPARACIÓN E INSTALACIÓN DE LA LEGISLATURA Y DE LA PROTESTA DEL GOBERNADOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 27.
 
-Los Diputados electos se reunirán en sesión previa el día diez de enero del año correspondiente al inicio de cada Legislatura para elegir la nueva Mesa Directiva.
+Los Diputados electos se reunirán en sesión previa el día diez de septiembre del año correspondiente al inicio de cada Legislatura para elegir la nueva Mesa Directiva.
 
 La Comisión Permanente de la Legislatura saliente, auxiliada por el Secretario General y el Director General de Servicios Legislativos, entregará las credenciales de identificación y acceso de los Diputados que acudan al Congreso para el efecto de constituir la nueva Legislatura, previa verificación de las constancias de mayoría y validez, así como las de asignación de Diputados por el principio de representación proporcional, o en su caso, por resolución definitiva y firme que hayan recibido de los Tribunales Electorales competentes.
 
@@ -677,9 +693,13 @@ La Mesa Directiva es el Órgano que conduce el Pleno del Congreso y es el Órgan
 
 La Mesa Directiva ejercerá sus funciones, observándose lo siguiente:
 
-I.- La Primer Mesa Directiva ejercerá funciones del 15 de enero al 31 de julio. El Presidente deberá rendir un informe de actividades a más tardar el día 31 de julio del año que corresponda;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
-II.- La Segunda Mesa Directiva ejercerá funciones del 1 de agosto al 14 de enero del año siguiente. El Presidente deberá rendir un informe de actividades a más tardar el día 14 de enero del año que corresponda.
+I.- La Primer Mesa Directiva ejercerá funciones del 15 de septiembre al 15 de marzo del año siguiente. El Presidente deberá entregar un informe de actividades por escrito a más tardar el día 15 de marzo del periodo que corresponda; y
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+
+II.- La Segunda Mesa Directiva ejercerá funciones del 16 de marzo al 14 de septiembre. El Presidente deberá entregar un informe de actividades por escrito a más tardar el día 14 de septiembre del periodo que corresponda.
 
 ###### ARTÍCULO 65.
 
@@ -2197,6 +2217,8 @@ Al concluir la gestión del Titular de la Auditoría Superior del Estado, de man
 
 ### CAPÍTULO III. DEL INFORME DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 218.
 
 El Congreso del Estado en el tercer periodo de sesiones deberá incluir en la agenda legislativa, el estudio, la discusión y la aprobación de la Ley de Ingresos del Estado y de cada Municipio, que habrán de entrar en vigor al año siguiente, así como de las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria, las que se elaborarán y enviarán en términos de la legislación secundaria.
@@ -2215,11 +2237,11 @@ El Congreso, hasta en tanto no sea aprobada la Ley de Egresos del Estado, en la 
 
 ###### ARTÍCULO 220.
 
-A la apertura del primer Periodo de Sesiones Ordinarias, asistirá el Titular del Ejecutivo del Estado, quien presentará un informe por escrito sobre el estado que guarda la Administración Pública, de conformidad con el artículo 53 de la Constitución Política del Estado Libre y Soberano de Puebla.
+El Gobernador del Estado asistirá dentro de los primeros quince días del mes de diciembre del primer Periodo de Sesiones Ordinarias de cada año, y presentará un informe por escrito sobre el estado que guarda la administración pública estatal del ejercicio correspondiente. Dicho informe será contestado por el Presidente de la Mesa Directiva en términos concisos y generales, con las formalidades que correspondan al acto.
 
-El Presidente de la Mesa Directiva contestará el Informe en términos concisos y generales, con las formalidades que correspondan al acto.
+En el año de conclusión de la administración constitucional del Ejecutivo del Estado, el informe a que se refiere el párrafo anterior podrá ser presentado por el Gobernador dentro de los últimos quince días del mes de noviembre del mismo año.
 
-Esta sesión solemne únicamente tendrá por objeto celebrar la apertura del Primer Periodo Ordinario de Sesiones y la presentación del informe por parte del Gobernador del Estado.
+Esta sesión solemne únicamente tendrá por objeto la presentación del informe por parte del Gobernador del Estado.
 
 ###### ARTÍCULO 221.
 
@@ -2595,7 +2617,7 @@ TERCERO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 29 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 133 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA FRACCIÓN III Y SUS INCISOS A), B), C), D) Y E) DEL ARTÍCULO 51 Y LAS FRACCIONES XI Y XII DEL 230 TER; Y ADICIONA LOS INCISOS F) Y G), A LA FRACCIÓN III DEL ARTÍCULO 51, TODOS DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 133 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA FRACCIÓN III Y SUS INCISOS A), B), C), D) Y E) DEL ARTÍCULO 51 Y LAS FRACCIONES XI Y XII DEL 230 TER; Y ADICIONA LOS INCISOS F) Y G), A LA FRACCIÓN III DEL ARTÍCULO 51, TODOS DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2614,3 +2636,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día quince de septiembre del año dos mil dieciocho, con excepción de lo dispuesto en el artículo 27 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, que entrará en vigor el día de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
