@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2018-02-02"
+last_updated: "2018-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -174,6 +174,10 @@ e) De las mujeres embarazadas a no ser discriminadas, a acceder a los servicios 
 f) De las víctimas de violencia familiar y sexual, maltrato infantil y personas privadas de su libertad, y a cualesquier nueva forma de esclavitud.
 
 IX. El derecho de toda persona a la recreación social, deportiva y cultural, que permita el sano esparcimiento como medida para auspiciar la integración y la convivencia colectiva.
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+
+X. El derecho de acceder a toda persona de forma libre a internet, a las tecnologías de la información y comunicación.
 
 2. El Estado deberá remover los obstáculos que impidan o dificulten el ejercicio de los derechos contenidos en esta sección; y, mediante políticas públicas, hacer realidad el progreso y el bienestar social de sus habitantes, y garantizar su acceso efectivo en los términos del artículo 6.1 de esta Constitución.
 
@@ -5148,3 +5152,15 @@ Remítase al Gobernador Constitucional del Estado de Guerrero, para su conocimie
 ###### ARTICULO CUARTO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 31 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 455 POR EL QUE SE ADICIONA UNA FRACCIÓN X, AL NUMERAL 1, DEL ARTÍCULO 6 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En términos de la fracción III, del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los Honorables Ayuntamientos de los municipios del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO. Remítase al Titular del Poder Ejecutivo, para su reconocimiento y efectos legales conducentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento general.
