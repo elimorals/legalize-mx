@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2018-06-04"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -57,11 +57,23 @@ QUE CONTIENE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
 Las disposiciones de la presente Ley son de orden público, interés social y de observancia obligatoria en el Estado de Hidalgo.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+###### Artículo 1 Bis.
+
+Queda prohibida cualquier practica discriminatoria en la prestación de los bienes y servicios contenidos en los programas de Desarrollo Social.
+
 ###### Artículo 2.
 
 La presente Ley tiene por objeto:
 
-I.- Fomentar el desarrollo social y humano, garantizar el pleno ejercicio de los derechos sociales y crear los mecanismos necesarios para lograr la cabal realización y concreción de los mismos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+I.- Garantizar el pleno ejercicio de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Hidalgo, asegurando el acceso de toda la población al desarrollo social;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+I Bis.- Fomentar el desarrollo social y humano, garantizar el pleno ejercicio de los derechos sociales y crear los mecanismos necesarios para lograr la cabal realización y concreción de los mismos;
 
 II.- Coordinar y armonizar la Política Estatal y Municipal de desarrollo social, en el marco de la Política Nacional de Desarrollo Social;
 
@@ -74,6 +86,10 @@ V.- Impulsar la participación ciudadana, abriendo espacios para que la sociedad
 VI.- Establecer los criterios de coordinación de las acciones que se realicen entre el Gobierno del Estado y los Municipios y ambos con la Federación, en materia de Desarrollo Social;
 
 VII.- Impulsar el desarrollo económico que promueva el desarrollo social de las Zonas de Atención Prioritaria en el Estado; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+VII Bis.- Promover el establecimiento de instrumentos de acceso a la justicia, a través de la denuncia popular, en materia de desarrollo social; y
 
 VIII.- Crear y regular el Consejo Estatal de Desarrollo Social.
 
@@ -137,7 +153,9 @@ I.- El derecho a la salud;
 
 II.- El derecho a la educación;
 
-III.- El derecho a la alimentación y nutrición adecuada;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+III.- El derecho a la alimentación nutritiva y de calidad;
 
 IV.- El derecho a vivienda digna y decorosa;
 
@@ -211,7 +229,7 @@ VIII.- Adultos mayores, de 60 años y más, que habiten en localidades de alta y
 
 IX.- Artesanos.
 
-Esta prohibida toda práctica discriminatoria en el otorgamiento de subsidios y beneficios que se otorguen como parte de los programas sociales.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO V. DE LAS ATRIBUCIONES
 
@@ -335,13 +353,21 @@ XI.- Exigibilidad: Derecho de los habitantes a que, a través de un conjunto de 
 
 XII.- Universalidad: La política de desarrollo social esta destinada para todos los habitantes del Estado de Hidalgo y tiene por propósito el acceso de todos al ejercicio de los derechos sociales, al uso y disfrute de los bienes públicos y a una creciente calidad de vida.
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-XIII.- Perspectiva de género: Visión científica, analítica y política sobre las mujeres y los hombres, que se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social.
+XIII.- Perspectiva de género: Visión científica, analítica y política sobre las mujeres y los hombres, que se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-XIV.- Accesibilidad: Principio cualitativo que permite que todas las personas puedan acceder de manera plena y efectiva a los programas sociales otorgadas (sic) por el gobierno, independientemente de sus cualidades intrínsecas.
+XIV.- Accesibilidad: Principio cualitativo que permite que todas las personas puedan acceder de manera plena y efectiva a los programas sociales otorgadas (sic) por el gobierno, independientemente de sus cualidades intrínsecas;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+XV.- Libre determinación y autonomía de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+XVI.- Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas.
 
 ###### Artículo 15.
 
@@ -409,7 +435,9 @@ La programación, aplicación y distribución de los recursos destinados a finan
 
 La programación del Desarrollo Social, incluirá los Programas Estatales, Institucionales Especiales y Municipales de Desarrollo Social, contemplando prioritariamente las siguientes vertientes:
 
-I.- Alimentación, nutrición materno-infantil y abasto social de productos básicos;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+I.- Alimentación nutritiva y de calidad, nutrición materno-infantil y abasto social de productos básicos;
 
 II.- Atención médica de primer contacto, dotación de aparatos funcionales, capacitación para el autoempleo, apoyo a proyectos productivos, desarrollo de actividades deportivas, recreativas y culturales, para adultos mayores;
 
@@ -633,7 +661,13 @@ II.- La documentación exhibida presente irregularidades o sea falsa;
 
 III.-Exista antecedentes debidamente sustentados de haber cometido en el desarrollo de sus actividades, desviación de recursos, infracciones graves o reiteradas a esta Ley o a otras disposiciones jurídicas; y
 
-IV.- Existan pruebas del incumplimiento de su objeto.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+IV.- Existan pruebas del incumplimiento de su objeto; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+V.- Exista entre sus representantes legales y/o directivos y los servidores públicos encargados de otorgar o autorizar los apoyos y estímulos públicos, relaciones de interés o nexos de parentesco por consanguinidad o afinidad hasta en cuarto grado.
 
 ###### Artículo 49.
 
@@ -651,9 +685,17 @@ V.- Abstenerse de efectuar actividades políticas o partidistas, así como reali
 
 VI.- Cumplir con su objeto social con base en los principios rectores de la Política de Desarrollo Social establecidos en la presente Ley;
 
-VII.- Llevar a cabo las operaciones correspondientes conforme a las disposiciones que rigen el sistema financiero y aduanal mexicano en caso de obtener recursos económicos del extranjero; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-VIII.- Las demás inherentes al cumplimiento de su objeto social en los términos de las disposiciones jurídicas relativas y aplicables.
+VII.- Llevar a cabo las operaciones correspondientes conforme a las disposiciones que rigen el sistema financiero y aduanal mexicano en caso de obtener recursos económicos del extranjero;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+VIII.- Informar anualmente a la Secretaría sobre las actividades realizadas y el cumplimiento de sus propósitos, reflejando en forma clara su situación y, especialmente, el uso y resultados derivados de los apoyos y estímulos públicos otorgados, para mantener actualizado el Sistema de Información y garantizar así la transparencia de sus actividades; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+IX.- Las demás inherentes al cumplimiento de su objeto social en los términos de las disposiciones jurídicas relativas y aplicables.
 
 ### CAPITULO XIV. DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
 
@@ -885,7 +927,7 @@ Además de las obligaciones que señalan los Artículos anteriores, el Gobierno 
 
 ###### Artículo 76.
 
-La Publicidad e información relativa a los Programas Sociales Federales, Estatales o Municipales deberán identificarse con el Escudo Nacional, Estatal y Municipal que corresponda en los términos que señala la Ley en la materia y tendrá la siguiente leyenda: "Este programa es de carácter público, no es patrocinado ni promovido por partido político alguno y sus recursos provienen de los impuestos que pagan los contribuyentes. Está prohibido el uso de este programa con fines políticos, electorales, de lucro y otros distintos a los establecidos. Quien haga uso indebido de los recursos de este programa deberá ser denunciado y sancionado de acuerdo a la ley aplicable".
+La Publicidad e información relativa a los Programas Sociales Federales, Estatales o Municipales deberán identificarse con el Escudo Nacional, Estatal y Municipal que corresponda en los términos que señala la Ley en la materia y tendrá la siguiente leyenda: "Este programa es de carácter público, no es patrocinado ni promovido por partido político alguno y sus recursos provienen de los impuestos que pagan los contribuyentes. Está prohibido el uso de este programa con fines políticos, electorales, de lucro y otros distintos a los establecidos. Quien haga uso indebido de los recursos de este programa deberá ser denunciado y sancionado de acuerdo a la Ley aplicable".
 
 ###### Artículo 77.
 
@@ -911,21 +953,35 @@ Toda persona u organización podrán presentar las quejas y denuncias ante la Au
 
 ### CAPITULO XXII. DE LA DENUNCIA POPULAR
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 82.
 
-Los ciudadanos que adviertan irregularidades, omisiones o desviación de recursos en la operación y atención de programas y acciones en materia de Desarrollo Social, por parte de los servidores públicos o Dependencias, además de cualquier otro hecho que atente contra los derechos sociales consignados en la presente Ley, podrán denunciarlo ante la Secretaría de Contraloría del Estado sin menoscabo de aquellos concertados con el Gobierno Federal.
+Toda persona u organización podrá presentar denuncia ante la autoridad competente sobre cualquier hecho, acto u omisión, que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con el desarrollo social.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 83.
 
-Toda denuncia siempre tendrá una respuesta por escrito. La forma en la que se presentará la denuncia que señala el Artículo anterior, los plazos para responder la misma y el procedimiento de desahogo quedarán sujetos a los lineamientos establecidos por la Secretaría de la Contraloría.
+La denuncia popular podrá ejercitarse por cualquier persona, bastando que se presente por escrito y contenga:
 
-En caso de que la Secretaría reciba una denuncia sobre hechos que no sean de su competencia, esta deberá remitirla a la Autoridad competente para su seguimiento respectivo.
+I.- El nombre o razón social, domicilio y demás datos que permitan la identificación del denunciante y, en su caso, de su representante legal;
+
+II.- Los actos, hechos u omisiones denunciados;
+
+III.- Los datos que permitan identificar a la presunta autoridad infractora; y
+
+IV.- Las pruebas que en su caso ofrezca el denunciante.
 
 ### CAPITULO XXIII. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 84.
 
 El beneficiario u organización que contravenga las disposiciones de la presente Ley o de la normatividad de algún programa, se identificará en el padrón y la Secretaría le suspenderá el apoyo social hasta por dieciocho meses.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2018)</small>
+
+Podrán ser sancionados con la cancelación definitiva de su inscripción en el Registro, en el caso de infracción reiterada o causa grave. Se considera infracción reiterada el que una misma organización previamente suspendida, se hiciera acreedora a una nueva suspensión, sin importar cuáles hayan sido las disposiciones de esta ley cuya observancia hubiere violado.
 
 ###### Artículo 85.
 
@@ -939,7 +995,25 @@ I.- Realizar actividades de autobeneficio o de beneficio mutuo con recursos púb
 
 II.- No aplicar los recursos públicos que reciban a los fines para los que fueron autorizados; y
 
-III.- No cumplir con el objeto social para el cual fue asignado el recurso público o destinarlo a un fin distinto.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+III.- No cumplir con el objeto social para el cual fue asignado el recurso público o destinarlo a un fin distinto;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+IV.- No entregar a la Secretaria o a la autoridad competente los informes a que está obligada o abstenerse de entregar los solicitados por la dependencia o entidad que les haya otorgado o autorizado el uso de apoyos y estímulos públicos federales o estatales;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+V.- No tener a disposición de las autoridades competentes y del público en general, la información de las actividades que realicen con la aplicación de los apoyos y estímulos públicos que hubiesen utilizado;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+VI.- Omitir información o incluir datos falsos en los informes; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+VII.- Realizar cualquier tipo de actividad que pudiera generar resultados que impliquen proselitismo político, a favor o en contra, de algún partido político o candidato a cargo de elección popular.
 
 ## TRANSITORIOS
 
@@ -1032,3 +1106,9 @@ P.O. 4 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 480 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
