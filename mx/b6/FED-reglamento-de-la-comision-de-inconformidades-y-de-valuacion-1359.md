@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-comision-de-inconformidades-y-de-valuacion-135
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-07-05"
-last_updated: "1973-07-05"
+last_updated: "2018-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1359&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1973-05-29"
 ---
 # REGLAMENTO DE LA COMISION DE INCONFORMIDADES Y DE VALUACION DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA COMISIÓN DE INCONFORMIDADES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES PUBLICADO EN EL D.O.F. DE 20 DE JULIO DE 2018, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA COMISION DE INCONFORMIDADES Y DE VALUACION DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 5 de julio de 1973.
 
@@ -234,3 +236,23 @@ Las resoluciones del Instituto que versen sobre inscripciones en el mismo, derec
 Este Reglamento entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintinueve días del mes de mayo de mil novecientos setenta y tres.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Porfirio Muñoz Ledo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José López Portillo.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA COMISIÓN DE INCONFORMIDADES Y DE VALUACIÓN DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Comisión de Inconformidades y de Valuación del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicado el 5 de julio de 1973 en el Diario Oficial de la Federación.
+
+En tanto no se emitan las nuevas reglas de operación de la Comisión de Inconformidades del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, continuarán aplicándose las reglas publicadas en el Diario Oficial de la Federación el 2 de junio de 2010.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos de inconformidad, las reclamaciones o las controversias iniciadas antes de la entrada en vigor del presente Reglamento, continuarán su trámite hasta su conclusión en términos de las disposiciones jurídicas vigentes al momento en que iniciaron su trámite.
