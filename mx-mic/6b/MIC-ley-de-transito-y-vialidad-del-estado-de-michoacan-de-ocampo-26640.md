@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-24"
-last_updated: "2018-05-02"
+last_updated: "2018-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el martes 24 de septiembre de 2002.
 
@@ -45,9 +45,11 @@ DISPOSICIONES GENERALES.
 
 ### CAPÍTULO ÚNICO. DEL OBJETO DE LA LEY
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de orden público e interés social; tiene por objeto establecer las normas para regular y ordenar la circulación de vehículos y peatones en las vías públicas terrestres abiertas a la circulación, de jurisdicción estatal y municipal.
+La presente Ley es de orden público e interés social, tiene por objeto establecer las normas para regular y ordenar el tránsito de vehículos y peatones en las vías públicas terrestres abiertas a la circulación, de jurisdicción estatal y municipal; previniendo y garantizando la protección y seguridad de la vida humana.
 
 ###### Artículo 2°.
 
@@ -113,7 +115,7 @@ II. El Secretario de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
 
-III. El Tesorero General; y (sic),
+III. El Tesorero General; y,
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
 
@@ -139,15 +141,25 @@ VI. Celebrar convenios de coordinación de funciones y prestación del servicio 
 
 VII. Asesorar a los municipios en materia de tránsito y vialidad conforme a los convenios de coordinación celebrados;
 
-VIII. Establecer, impartir y administrar los programas de educación vial en el Estado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+VIII. Establecer, impartir y administrar los programas de educación vial en el Estado resaltando los mensajes para disminuir los riesgos como lo son la velocidad alta, el consumo de alcohol, el uso de celular u otras distracciones de los conductores de vehículos;
 
 IX. Expedir las licencias y permisos para operar y conducir vehículos, con las modalidades y características que establece esta Ley y su reglamento;
 
 X. Registrar vehículos, expedir los elementos de identificación conforme a su tipo y características como placas, calcomanías, hologramas y tarjetas de circulación; así como las verificaciones vehiculares conforme a la Ley de la materia;
 
-XI. Aplicar sanciones por infracciones a la presente Ley y su reglamento; y,
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-XII. Las que le confieran esta Ley y demás disposiciones legales aplicables.
+XI. Promover la participación ciudadana en el análisis y solución de las problemáticas en materia de tránsito y vialidad, dentro de las vías públicas;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+XII. Aplicar sanciones por infracciones a la presente Ley y su Reglamento; y,
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+XIII. Las que le confieran esta Ley, y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2004)</small>
 
@@ -247,9 +259,11 @@ II. Los Presidentes Municipales; y,
 
 III. Los Directores de Seguridad Pública y Tránsito o autoridad equivalente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 15.
 
-Son atribuciones de los Ayuntamientos en materia de tránsito y vialidad las siguientes:
+Son atribuciones de los ayuntamientos en materia de tránsito y vialidad las siguientes:
 
 I. Expedir reglamentos para ordenar, regular y administrar los servicios de vialidad y tránsito en los centros de población ubicados en su territorio y en las vías públicas de jurisdicción municipal;
 
@@ -261,7 +275,9 @@ IV. Dictar medidas tendientes al mejoramiento de los servicios de tránsito y vi
 
 V. Realizar las tareas relativas a la ingeniería de tránsito y los señalamientos de vialidad en los centros de población;
 
-VI. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías públicas y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida humana, seguridad, comodidad y fluidez de la vialidad en la esfera de su competencia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+VI. Realizar los estudios necesarios sobre tránsito de peatones y vehículos, a fin de lograr una mejor utilización de las vías públicas y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida humana, seguridad, comodidad y fluidez de la vialidad, de acuerdo con las disposiciones internacionales, federales y estatales, que existan en la materia;
 
 VII. Establecer programas de control de emisiones contaminantes de origen vehicular, en coordinación con las autoridades ambientales competentes;
 
@@ -281,9 +297,21 @@ XIV. Solicitar en su caso, al Gobernador del Estado, asesoría y apoyo para real
 
 XV. Determinar, aplicar y ejecutar, en el ámbito de su competencia, las sanciones a quienes incurran en infracciones a esta Ley y su reglamento;
 
-XVI. Delegar las atribuciones que esta Ley le señala; y,
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-XVII. Las que les confieran esta Ley y demás disposiciones legales aplicables.
+XVI. Crear ciclovías y ciclopuertos y demás infraestructura;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+XVII. Promover el uso de bicicletas con la finalidad de fomentar la movilidad sustentable y disminuir el impacto de contaminación en el medio ambiente, en términos de las disposiciones de la materia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+XVIII. Delegar las atribuciones que esta Ley le señala; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+XIX. Las que les confieran esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 16.
 
@@ -297,7 +325,9 @@ III. Analizar con amplitud la problemática de tránsito y vialidad en el munici
 
 IV. Cuidar el correcto desarrollo de la organización y desempeño de las funciones encomendadas a las corporaciones municipales de tránsito y vialidad municipal;
 
-V. Ejecutar el Programa Municipal de Tránsito y Vialidad;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+V. Diseñar y ejecutar el Programa Municipal de Tránsito y Vialidad;
 
 VI. Ejecutar los acuerdos y convenios que celebre el municipio en materia de tránsito y vialidad;
 
@@ -313,9 +343,17 @@ X. Auxiliar a las autoridades federales y estatales de tránsito y vialidad, en 
 
 XI. Atender las recomendaciones de los programas que en materia de tránsito y vialidad, le formule el Secretario de Seguridad Pública;
 
-XII. Auxiliar a la población de su circunscripción territorial en casos de accidentes y siniestros; y,
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-XIII. Las que les confieran esta Ley y demás disposiciones legales aplicables.
+XII. Diseñar y difundir programas educativos para el respeto y el uso seguro de bicicletas dentro del municipio;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+XIII. Auxiliar a la población de su circunscripción territorial en casos de accidentes y siniestros; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+XIV. Las que les confieran esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 17.
 
@@ -547,15 +585,29 @@ Ningún vehículo podrá desplazarse por las vías públicas del Estado sin llev
 
 La Tesorería, expedirá los tipos de placas siguientes:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
 I. Para vehículos de uso privado;
 
-II. Para vehículos de servicio social;
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-III. Para demostración o traslado de vehículos;
+II. Para vehículos de servicio público;
 
-IV. Para vehículos de tipo remolque; y,
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
 
-V. Para motocicletas, motonetas y vehículos similares.
+III. Para vehículos de servicio social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+IV. Para demostración o traslado de vehículos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+V. Para vehículos de tipo remolque; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+VI. Para motocicletas, motonetas y vehículos similares.
 
 ###### Artículo 51.
 
@@ -581,13 +633,23 @@ III. Conductores de vehículos de uso privado;
 
 IV. Conductores de servicio público, de pasajeros, de carga y especializados;
 
-V. Amas de casa, madres de menores estudiantes, profesores y la sociedad en general, para preservar la seguridad de los educandos;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+V. Escuelas, organizaciones, colectivos y la sociedad en general, para preservar la seguridad e integridad de la vida humana;
 
 VI. Infractores de las disposiciones de tránsito y vialidad en el momento de cubrir el importe de las multas;
 
-VII. Peatones; y,
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-VIII. Personal operativo y administrativo de tránsito y vialidad, para que se actualicen en materia de educación vial.
+VII. Peatones;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+VIII. Ciclistas; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
+
+IX. Personal operativo y administrativo de tránsito y vialidad, para que se actualicen en materia de educación vial.
 
 Los programas de educación vial que se impartan en el Estado, deberán referirse cuando menos a los temas siguientes:
 
@@ -727,6 +789,10 @@ La Dirección retirará de la circulación los vehículos que no reúnan los req
 
 Los municipios aplicarán las sanciones de tránsito y vialidad de conformidad al reglamento que expidan en la materia.
 
+### CAPÍTULO ÚNICO. DE LOS DERECHOS DE LOS PEATONES
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 74.
 
 (DEROGADO, P.O. 23 DE AGOSTO DE 2007)
@@ -764,6 +830,28 @@ Los particulares podrán acudir ante la Dirección en queja verbal o por escrito
 Si con motivo del arrastre de un vehículo por una grúa oficial o por aquellas que presten el servicio público concesionado, sufriese daños en la carrocería o en sus mecanismos, los elementos de tránsito y vialidad o los concesionarios directamente responsables, tendrán la obligación de reparar el daño de conformidad con el peritaje que al efecto se practique.
 
 Se procederá contra los responsables de los sitios o depósitos destinados al encierro y custodia de los vehículos detenidos, si sufren algún daño o robo durante el tiempo en que se encuentren en depósito, para el efecto de que reparen el daño causado sin perjuicio de la responsabilidad penal en que hayan incurrido.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2018)</small>
+
+## TÍTULO SEXTO. DE LOS PEATONES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2018)</small>
+
+###### Artículo 83.
+
+Esta Ley otorgará los derechos de preferencia al tránsito del peatón, maximizando el valor de la integridad y la vida humana, cuyos derechos deberán hacerse efectivos en los programas y reglamentos correspondientes.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+###### Artículo 84.
+
+El Gobierno del Estado y de los municipios, en el ámbito de sus competencias, promoverán acciones de mantenimiento preventivo y correctivo necesarias, para que las vialidades peatonales existentes se mantengan en buen estado con el fin de proporcionar a los peatones el tránsito seguro, las cuales contarán con la infraestructura adecuada para el libre tránsito de personas con discapacidad y adultos mayores.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+###### Artículo 85.
+
+El Estado y los municipios, en el ámbito de sus competencias, promoverá (sic) la creación la infraestructura y señalamientos viales necesarios, el tránsito seguro de los peatones y la posibilidad de conectarse entre vialidades, ya sea mediante semáforos, puentes, pasos a nivel o desnivel u otros dispositivos y protecciones necesarias para los peatones.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -805,7 +893,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ANTROPÓLOGO LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- MAESTRO LEONEL GODOY RANGEL. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 17 DE NOVIEMBRE DE 2004.
 
@@ -854,3 +942,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado y las autoridades municipales, en el ámbito de sus respectivas competencias, contará (sic) con un término de sesenta días hábiles a partir de la entrada en vigor del presente Decreto, para adecuar sus respectivos reglamentos.
+
+P.O. 1 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 617 POR EL QUE “SE REFORMA EL ARTÍCULO 1; LAS FRACCIONES VIII, XII Y XIII DEL ARTÍCULO 9; LAS FRACCIONES VI, XVIII Y XIX DEL ARTÍCULO 15; LAS FRACCIONES V, XIII Y XIV DEL ARTÍCULO 16; LAS FRACCIONES I, III, IV, V Y VI DEL ARTÍCULO 50; LAS FRACCIONES V, VII Y IX DEL ARTÍCULO 52; Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 9; LAS FRACCIONES XVI Y XVII AL ARTÍCULO 15; LA FRACCIÓN XII AL ARTÍCULO 16; LA FRACCIÓN II AL ARTÍCULO 50; LA FRACCIÓN VIII AL ARTÍCULO 52; Y EL TÍTULO SEXTO DE LOS PEATONES, EL CAPÍTULO ÚNICO DE LOS DERECHOS DE LOS PEATONES, ASÍ COMO LOS ARTÍCULOS 83, 84 Y 85, DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado y los Ayuntamientos del Estado, deberán reformar sus reglamentos y demás disposiciones administrativas, conforme a lo dispuesto en el presente Decreto, dentro de los noventa días posteriores a su publicación.
+
+TERCERO. Notifíquese al Titular del Poder Ejecutivo del Estado, para su sanción, promulgación y publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
