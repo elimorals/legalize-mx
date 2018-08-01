@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-trabajadores-al-servicio-de-los-poderes-4139"
 country: "mx"
 rank: "ley"
 publication_date: "1979-09-11"
-last_updated: "2017-06-05"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "CAM"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE
 
-[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 1996, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO, QUEDANDO VIGENTES SUS DISPOSICIONES UNICAMENTE POR CUANTO CONCIERNE A LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS MUNICIPALES Y SUS ORGANISMOS DESCENTRALIZADOS HASTA EN TANTO SE EXPIDA LA LEY CORRESPONDIENTE.]
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 1996, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO, QUEDANDO VIGENTES SUS DISPOSICIONES ÚNICAMENTE POR CUANTO CONCIERNE A LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS MUNICIPALES Y SUS ORGANISMOS DESCENTRALIZADOS HASTA EN TANTO SE EXPIDA LA LEY CORRESPONDIENTE.]
 
 [NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 11 de septiembre de 1979.
 
@@ -232,6 +232,10 @@ ARTICULO TRIGESIMO PRIMERO.- DESCANSO OBLIGATORIO.- Son días de descanso obliga
 ARTICULO TRIGESIMO SEGUNDO.- EXCEPCION.- El servicio prestado, a solicitud de una Entidad Pública, durante los días de descanso se pagará al trabajador con sueldo doble, independientemente del que corresponda en los términos del precepto anterior.
 
 ARTICULO TRIGESIMO TERCERO.- VACACIONES.- El trabajador con más de 6 meses consecutivos de servicio disfrutará de 2 períodos anuales de vacaciones de 10 días hábiles cada uno, en las fechas que fijen al efecto las Entidades Públicas. Se dejarán guardias para la tramitación de los asuntos urgentes, utilizando de preferencia los servicios de quienes no tuvieron derecho a vacaciones. El trabajador que, por razones de servicio, no goce de vacaciones en las fechas señaladas, las tomará en los 10 días siguientes al término del periodo normal de vacaciones. En ningún caso el trabajador que labora en periodo de vacaciones tendrá derecho a doble paga de sueldo, ni las vacaciones podrán compensarse con remuneración. Si la duración de trabajo termina antes de que se cumpla un año de servicio, el trabajador tendrá derecho a una remuneración proporcional por los servicios prestados.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+ARTICULO TRIGESIMO TERCERO BIS.- DÍAS ECONÓMICOS POR FALLECIMIENTO. Los trabajadores, sin distinción de sexo, tendrán derecho de un permiso con goce de sueldo de cinco días naturales por fallecimiento de padres, hijos, cónyuges o concubinos. Para facilitar el ejercicio de este derecho se deberá dar aviso por escrito al superior jerárquico inmediato o a la unidad administrativa que corresponda.
 
 ## TITULO IV. SUELDO
 
@@ -836,3 +840,9 @@ P.O. 5 DE JUNIO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 1 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 298 POR EL QUE "SE ADICIONA UN ARTÍCULO TRIGÉSIMO TERCERO BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE".]
+
+ÚNICO.- EL presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
