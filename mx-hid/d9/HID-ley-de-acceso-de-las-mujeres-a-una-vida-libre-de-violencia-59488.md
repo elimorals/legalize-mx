@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2018-07-30"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -51,11 +51,11 @@ QUE CONTIENE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley tiene por objeto regular y garantizar el acceso de las mujeres a una vida libre de violencia, así como, establecer la coordinación entre el Estado, los Municipios y la Federación, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres; con los principios rectores, ejes de acción, y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar.
+El Estado tiene la obligación de prevenir, atender y sancionar cualquier acción u omisión constitutiva de violencia en contra de las mujeres que menoscabe sus derechos humanos, por lo que la presente Ley tiene por objeto regular y garantizar el acceso de las mujeres a una vida libre de violencia, así como, establecer la coordinación entre el Estado, los Municipios y la Federación, para prevenir, atender, sancionar y erradicar la violencia en contra de las mujeres; con los principios rectores, ejes de acción, y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar.
 
 Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado Libre y Soberano de Hidalgo.
 
@@ -101,9 +101,9 @@ II.- Programa: El Programa Integral para Prevenir, Atender, Sancionar y Erradica
 
 III.- Sistema: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-IV.- Violencia contra las Mujeres: Cualquier acción u omisión, basada en su género, que les cause muerte o daño físico, psicológico, patrimonial, económico o sexual en el ámbito público o privado;
+IV.- Violencia contra las mujeres: Cualquier acción u omisión, que a través del uso o abuso del poder ejercido sobre una mujer y basada en su género, tiene por objeto, fin o resultado causar la muerte o un daño físico, psicológico, patrimonial, económico o sexual en el ámbito público o privado;
 
 V.- Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
 
@@ -135,27 +135,31 @@ XIV.- Agravio Comparado: Implica un trato desigual de las mujeres dentro del mar
 
 Los tipos de violencia contra las mujeres son:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2018)</small>
 
-I.- La violencia psicológica: Es cualquier acción u omisión de abandono, insultos, marginación, restricción a la autodeterminación, amenazas, intimidación, coacción, devaluación, anulación, prohibición, humillaciones, comparaciones destructivas, rechazo y celotipia; que provocan en quien las recibe: deterioro, disminución o afectación en las diferentes áreas de su autoestima y personalidad.
+I. La violencia psicológica: Es cualquier acción u omisión de abandono, insultos, marginación, restricción a la autodeterminación, amenazas, intimidación, coacción, devaluación, anulación, prohibición, humillaciones, comparaciones destructivas, rechazo y celotipia; que provocan en quien las recibe: deterioro, disminución o afectación en las diferentes áreas de su autoestima y personalidad, violando sus derechos humanos.
 
 Se considera como tal, la regulación de la fecundidad o la inseminación artificial no consentidas, la prostitución forzada, la pornografía infantil, la trata de mujeres, el acceso carnal no consentido, las expresiones lascivas, el hostigamiento sexual, los actos libidinosos, la degradación de las mujeres en los medios de comunicación con objeto sexual y las demás que afecten su normal desarrollo psicosexual.
 
-II.- Violencia física.- Es cualquier acción intencional, en el que se utiliza parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de las mujeres, independientemente de que se produzca o no lesiones físicas y que va encaminado a obtener su sometimiento y control.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-III.- Violencia patrimonial.- Es cualquier acción u omisión de sustracción, destrucción, retención, transformación de objetos, valores, documentos personales o bienes de las mujeres o de su entorno familiar, que limitan o dañan la supervivencia económica, independientemente del valor material o emocional, asociado a éstos;
+II. Violencia física: Es cualquier acción intencional, en la que se utiliza parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de las mujeres, independientemente de que se produzca o no lesiones físicas y que va encaminado a obtener su sometimiento y control, violando sus derechos humanos a la libertad, la seguridad, la dignidad, la integridad personal o la vida;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-IV.- Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la victima; se manifiesta a través de limitaciones encaminadas a controlar sus ingresos propios, adquiridos o asignados, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+III. Violencia patrimonial: Es cualquier acción u omisión de sustracción, destrucción, retención, transformación de objetos, valores, documentos personales o bienes de las mujeres o de su entorno familiar, que limitan o dañan la supervivencia económica, independientemente del valor material o emocional, asociado a éstos, violando sus derechos humanos a la igualdad, a la propiedad y a la vida;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-V.- Violencia sexual.- Es cualquier acción mediante la violencia física o moral que atenta contra la libertad, dignidad sexual e integridad psicofísica, que genera daño o limita el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales; y
+IV. Violencia económica: Es toda acción u omisión del agresor que afecta la supervivencia económica de la mujer víctima, se manifiesta a través de limitaciones encaminadas a controlar sus ingresos propios, adquiridos o asignados; así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; violando su derecho humano a la libertad, la igualdad y el derecho al trabajo;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-VI.- Violencia Obstétrica: Aquella ejercida por el sistema de salud o cualquier agente ajeno que asista a la mujer, o incida directamente en ella en el proceso de embarazo, parto o puerperio, y que puede ser expresada de cualquiera de las siguientes formas:
+V. Violencia sexual: Es cualquier acción mediante la violencia física o moral que atenta contra la libertad, dignidad sexual e integridad psicofísica, que genera daño o limita el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales; violando sus derechos humanos a la libertad y el normal desarrollo sexual;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2018)</small>
+
+VI. Violencia obstétrica: Es toda acción u omisión ejercida por el sistema de salud público o privado o cualquier agente ajeno que asista a la mujer, o incida directamente en ella en el proceso de embarazo, parto o puerperio, que viole sus derechos humanos y que puede ser expresada de cualquiera de las siguientes formas:
 
 a) Atención inoportuna e ineficaz de las urgencias obstétricas;
 
@@ -163,15 +167,33 @@ b) Trato deshumanizado;
 
 c) Patologización del proceso de embarazo, parto o puerperio;
 
-d) Medicalizar sin causa justificada el proceso de embarazo, parto o puerperio;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+d) Medicar sin causa justificada el proceso de embarazo, parto o puerperio;
 
 e) Negativa u obstaculización del apego precoz del recién nacido con su madre sin justificación terapéutica; o
 
-f) Impedir el libre ejercicio de sus derechos sexuales y reproductivos, atentando contra su privacidad y dignidad ante la pérdida de su autonomía.
+f). (DEROGADO, P.O. 1 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-VII.- Cualquier otra forma que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
+VII. Violencia contra los derechos sexuales y reproductivos: Es toda acción u omisión que limite o vulnere el derecho de las mujeres de cualquier edad a decidir de manera libre, voluntaria e informada sobre su sexualidad y el número y espaciamiento de sus hijas e hijos; acceder a métodos anticonceptivos, incluidos los de emergencia; a una maternidad elegida y segura; a servicios de interrupción legal del embarazo en el marco jurídico previsto en la legislación vigente en el Estado; así como a servicios de atención prenatal y obstétricos de emergencia;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+VIII. Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o una relación sexual, y que viola sus derechos humanos;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+IX. Violencia mediática: Es toda publicación de mensajes e imágenes estereotipados que, a través de cualquier medio de comunicación o publicidad, ya sea impresos o electrónicos, de manera directa o indirecta, promuevan la explotación de mujeres, niñas o adolescentes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las misma, fomenten la desigualdad entre mujeres y hombres o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres, violando con ello sus derechos humanos;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+X. Violencia moral: Es toda acción u omisión encaminada a la vejación, sarcasmo y burla ejercida sobre la mujer víctima que se sienta afectada en su calidad humana y en su moral como persona, cuya finalidad esencial es exponerla al desprecio de los demás y le impiden el buen desarrollo de su integración social y que tiene como consecuencia denigrarla, vulnerando sus derechos humanos a la libertad, la seguridad y la integridad personal; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+XI. Cualquier otra forma que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA
 
@@ -1288,3 +1310,9 @@ P.O. 30 DE JULIO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos electorales previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta Ley resulte más benéfica.
+
+P.O. 1 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 482.- QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
