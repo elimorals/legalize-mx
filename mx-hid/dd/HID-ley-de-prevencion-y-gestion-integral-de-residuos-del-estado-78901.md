@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-789
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2017-12-31"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 24 de enero de 2011.
 
@@ -133,9 +133,9 @@ Corresponde a las Autoridades Municipales el ejercicio de las facultades, respec
 
 I.- Promover el establecimiento de programas de minimización y gestión integral de los residuos producidos por los grandes generadores de su municipio;
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
-a) Establecer un programa ambiental en coordinación con el Estado en que se de difusión al perjuicio y deterioro que causan las bolsas de plástico, a fin de promover la conciencia ecológica o informar a la ciudadanía sobre las posibles alternativas de sustitución de bolsas plásticas.
+a) Establecer un programa ambiental en coordinación con el Estado en que se de difusión al perjuicio y deterioro que causan las bolsas y popotes de plástico, a fin de promover la conciencia ecológica o informar a la ciudadanía sobre las posibles alternativas de sustitución de estos.
 
 II.- Fomentar el desarrollo de mercados para el reciclaje de residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación o al Estado;
 
@@ -657,9 +657,11 @@ XIV.- El confinamiento o depósito final de residuos en estado líquido o con co
 
 XV.- Todo acto u omisión que contribuya a la contaminación de las vías públicas y áreas comunes, o que interfiera con la prestación del servicio de limpia.
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-XVI.- Proporcionar en tiendas departamentales, de autoservicio, de conveniencia, tianguis y comercios en general bolsas de plástico, sustituyéndose preferentemente por bolsas de materiales biodegradables.
+XVI.- Proporcionar en tiendas departamentales, de autoservicio, de conveniencia, tianguis, comercios en general y establecimientos donde se comercialicen alimentos y bebidas, bolsas y popotes de plástico, sustituyéndose preferentemente por materiales biodegradables.
+
+> <small>[N. DE E. PERTENECE AL ARTÍCULO 44, P.O. 1 DE AGOSTO DE 2018]</small>
 
 Las violaciones a lo establecido en este artículo serán objeto de sanción, de conformidad con las disposiciones establecidas en la presente Ley, sin perjuicio de lo dispuesto en los demás ordenamientos jurídicos aplicables.
 
@@ -1304,3 +1306,9 @@ P.O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 417 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 478 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
