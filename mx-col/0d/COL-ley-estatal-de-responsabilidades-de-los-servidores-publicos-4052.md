@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-responsabilidades-de-los-servidores-publicos-405
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-08"
-last_updated: "2017-07-01"
+last_updated: "2018-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUICIO POLÍTICO DEL ESTADO DE COLIMA PUBLICADA EN EL P.O. DE 1 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 8 de diciembre de 1984.
 
@@ -878,3 +880,17 @@ P.O. 1 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 316 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 1 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 515 POR EL QUE SE EXPIDE LA LEY DE JUICIO POLÍTICO DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga la Ley Estatal de Responsabilidades de los Servidores Públicos, publicada en el Periódico Oficial "El Estado de Colima" el día 08 de diciembre de 1984.
+
+TERCERO. Se deroga toda disposición jurídica que se oponga a lo previsto en este Decreto.
+
+CUARTO. Los juicios en curso anteriores a la entrada en vigor del presente Decreto se sustanciarán y resolverán de conformidad con la legislación vigente aplicable al momento de su inicio.
+
+QUINTO. Las menciones a la Ley Estatal de Responsabilidades de los Servidores Públicos, en lo que concierne a responsabilidades administrativas, previstas en las leyes locales, así como en cualquier otra disposición jurídica, se entenderán referidas a la Ley General de Responsabilidades Administrativas.
