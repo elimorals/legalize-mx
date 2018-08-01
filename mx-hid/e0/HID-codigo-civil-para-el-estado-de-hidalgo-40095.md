@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "2017-12-31"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -103,11 +105,11 @@ Los actos jurídicos en todo lo relativo a su forma se regirán por las leyes de
 
 Los habitantes del Estado de Hidalgo tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes, en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este Código y en las leyes relativas.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Art. 17.
 
-Cuando alguno explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho de pedir la rescisión del contrato, y de ser ésta imposible, la reducción equitativa de su obligación.
-
-El derecho concedido en este Artículo dura un año y es irrenunciable.
+Cuando alguno explotando la ignorancia, inexperiencia o necesidad apremiante de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho de pedir la nulidad del contrato.
 
 ###### Art. 18.
 
@@ -4795,7 +4797,7 @@ Si el dueño de la cosa principal es el que ha procedido de mala fé, el que lo 
 
 ###### Art. 995.
 
-Si la incorporación se hace por cualquiera de los dueños a vista o ciencia y paciencia del otro, y sin que éste se oponga, los derechos respectivos se arreglarán conforme a lo dispuesto en los artículo 987, 988, 989 y 990.
+Si la incorporación se hace por cualquiera de los dueños a vista o ciencia y paciencia del otro, y sin que éste se oponga, los derechos respectivos se arreglarán conforme a lo dispuesto en los artículos 987, 988, 989 y 990.
 
 ###### Art. 996.
 
@@ -7771,7 +7773,7 @@ Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
 
 ###### Art. 1587.
 
-Las líneas y grados de parentesco se arreglarán por la disposiciones contenidas en el Capítulo I, Título VI, Libro Primero.
+Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo I, Título VI, Libro Primero.
 
 ### CAPITULO II.
 
@@ -8733,17 +8735,19 @@ I.- Consentimiento;
 
 II.- Objeto que pueda ser materia del contrato.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Art. 1779.
 
-El contrato puede ser invalidado:
+Son elementos de validez del contrato:
 
-I.- Por incapacidad legal de las partes o de una de ellas:
+I.- Capacidad legal de las partes;
 
-II.- Por vicios del consentimiento;
+II.- Voluntad libre;
 
-III.- Porque su objeto, o su motivo o fin sea ilícito;
+III.- Objeto, motivo o fin, lícito;
 
-IV.- Porque el consentimiento no se haya manifestado en la forma que la ley establece.
+IV.- Cumplimiento de las formalidades de ley.
 
 ###### Art. 1780.
 
@@ -8781,9 +8785,11 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 Del consentimiento.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Art. 1787.
 
-El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
+El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta mediante signos inequívocos, ya sea verbalmente, por escrito, o por medios electrónicos o cualquier otro avance de la ciencia. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
 
 ###### Art. 1788.
 
@@ -8813,9 +8819,17 @@ Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el acept
 
 El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considera como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Art. 1795.
 
 La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+
+Para el caso de contratación a través de las distintas tecnologías de la información y la comunicación, deberá presentarse una impresión o copia del documento digital ofrecido y acompañarse de los datos mínimos para su localización, en el medio electrónico en que se encuentre, respecto del cual podrán designarse el o los peritos que se requieran para determinar si la información contenida en ese documento digital se encuentra íntegra e inalterada, tal como fue generada desde el primer momento, ubicándola en tiempo y espacio entre el emisor y destinatario.
+
+Quien tenga en su poder la prueba, deberá poner a disposición del o los peritos designados, los medios necesarios para emitir su dictamen, apercibido que, de no hacerlo, se decretará desierta la prueba.
+
+La valoración de la prueba documental consistente en la impresión obtenida de un sistema digital de control de registro, cuya información sólo puede ser generada, consultada, modificada y procesada por medios electrónicos, debe sujetarse a las reglas propias de los elementos aportados por los avances de la ciencia. Su eficacia probatoria se encontrará sujeta al cercioramiento de los datos que en ella se adviertan, en la medida en que coincidan con aquellas condiciones en que tal documento digital haya sido generado.
 
 Vicios del Consentimiento.
 
@@ -8847,9 +8861,11 @@ Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del 
 
 Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Art. 1803.
 
-Hay violencia cuando se emplea fuerza física o amenazas que importen peligro de perder la vida, la honra, la libertad, la salud, o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, o de sus descendientes o de sus parientes colaterales dentro del segundo grado.
+Hay violencia cuando se emplea fuerza física o amenazas que implique otorgar el consentimiento en condiciones desfavorables, ya sea que se emplee sobre el contratante o alguna persona o cosa sobre la que tenga estima.
 
 ###### Art. 1804.
 
@@ -9299,9 +9315,65 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 
 La reparación del daño, debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Art. 1900.
 
-Independientemente de los daños y perjuicios, el juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral que pagará el responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1912.
+Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físicos, o bien en la consideración que de sí misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+###### Art. 1900 Bis.
+
+La obligación de reparar el daño moral, será exigible tanto en responsabilidad civil contractual como extracontractual, así como en responsabilidad objetiva, y será independiente de que se hubiere causado daño material y de la reparación que por el mismo procediera.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+###### Art. 1900 Ter.
+
+En todo caso, quien demande la reparación del daño moral deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que se produjo como consecuencia inmediata y directa de tal conducta.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+###### Art. 1900 Quater.
+
+No podrá demandarse la reparación del daño moral a quien:
+
+I. Ejerza sus derechos de opinión, crítica, expresión o información, en términos de lo dispuesto por los artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos, cuando aquélla se haya hecho a un funcionario o persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones o cuando el demandado obre por motivo de interés público o privado, pero legítimo.
+
+II. Reproduzca fielmente información, aun en los casos en que dicha información no sea correcta y pueda dañar el honor de alguna persona, siempre y cuando se cite la fuente de donde se obtuvo.
+
+III. Presente escrito o discurso en el contexto de un proceso contencioso, con las salvedades de las responsabilidades que puedan acreditarse, de acuerdo con otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+###### Art. 1900 Quinquies.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta la haya intentado en vida.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+Art. 1900 Sextus.- El monto de la indemnización por daño moral lo determinará el Juez, tomando en cuenta las siguientes circunstancias:
+
+I. La naturaleza del hecho dañoso;
+
+II. Los derechos lesionados;
+
+III. El grado de responsabilidad del causante;
+
+IV. Si se causó incapacidad y tipo de la misma, en su caso;
+
+V. El grado y repercusión de los daños causados; y
+
+VI. Los usos y costumbres del lugar donde se causa el daño.
+
+El juzgador, al ponderar cada uno de los aspectos mencionados, puede advertir circunstancias particulares relevantes, que tomará en cuenta al determinar la cuantificación.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+###### Art. 1900 Septies.
+
+Cuando el daño moral haya afectado a la víctima, en su decoro, honor, crédito, prestigio, reputación o consideración, el Juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia, que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes.
 
 ###### Art. 1901.
 
@@ -10273,9 +10345,11 @@ La responsabilidad procedente de dolo es exigible en todas las obligaciones. La 
 
 La responsabilidad de que se trata en este Título, además de importar la devolución de la cosa o su precio, o la de entrambos, en su caso, importará la reparación de los daños y la indemnización de los perjuicios.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Art. 2090.
 
-Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
+Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio, pecuniario o moral, por la falta de cumplimiento de una obligación.
 
 ###### Art. 2091.
 
@@ -10305,9 +10379,11 @@ El precio de la cosa será el que tendría al tiempo de ser devuelta al dueño, 
 
 Al estimar el deterioro de una cosa se atenderá no solamente a la disminución que él causó en el precio de ella, sino a los gastos que necesariamente exija la reparación.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
 ###### Art. 2098.
 
-Al fijar el valor y el deterioro de una cosa, no se atenderá al precio estimativo o de afección, a no ser que se pruebe que el responsable destruyó o deterioró la cosa con el objeto de lastimar la afección del dueño; el aumento que por estas causas se haga no podrá exceder de una tercera parte del valor común de la cosa.
+Al fijar el valor y el deterioro de una cosa, se tomará en cuenta el daño moral, si el responsable destruyó o deterioró la cosa con el objeto de lastimar la afección del dueño; el aumento que por estas causas se haga no podrá exceder de una tercera parte del valor común de la cosa.
 
 ###### Art. 2099.
 
@@ -15075,8 +15151,6 @@ Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los cr
 
 De su Organización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3003.
 
 Pagados los créditos enumerados en los capítulos que preceden, se pagarán los créditos que consten en documento privado.
@@ -15085,15 +15159,11 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
 ## TITULO SEGUNDO.
 
 DEL REGISTRO PUBLICO.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
@@ -15101,43 +15171,29 @@ DEL REGISTRO PUBLICO.
 
 De los Títulos Sujetos a Registro y de los Efectos Legales del Registro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3005.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3006.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3007.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3008.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3009.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3010.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
@@ -15145,289 +15201,193 @@ De los Títulos Sujetos a Registro y de los Efectos Legales del Registro.
 
 Del Registro de la Propiedad Inmueble y de los Títulos Inscribibles y Anotables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3011.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3012.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3013.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3014.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3015.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3016.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3017.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3018.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3019.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3020.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
 De la Prelación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3021.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3022.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3023.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3024.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3025.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
 De Quienes Pueden solicitar el Registro y de la Calificacion Registral.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3026.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3027.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3028.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3029.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3030.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3031.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
 De la Rectificación de Asiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3032.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3033.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3034.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3035.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3036.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
 De la Extinción de Asientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3037.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3038.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3039.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3040.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3041.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3042.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3043.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3044.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3045.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3046.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3047.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3048.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3049.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3050.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3051.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3052.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3053.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
@@ -15435,205 +15395,137 @@ De la Extinción de Asientos.
 
 Del Registro de Operaciones sobre Bienes Muebles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3054.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3055.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
 De los Efectos de las Anotaciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3056.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3057.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
 De la Inmatriculación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3058.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
 Inmatriculación por Resolucion Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3059.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3060.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3061.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
 Inmatriculación por Resolución Administrativa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3062.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3063.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3064.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3065.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3066.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
 Disposiciones Comunes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3067.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3068.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3069.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3070.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
 Del Sistema Registral.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3071.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3072.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3073.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3074.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3075.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3076.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3077.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3078.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3079.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3080.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
@@ -15641,19 +15533,13 @@ Del Sistema Registral.
 
 Del Registro de Personas Morales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3081.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3082.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
@@ -15661,19 +15547,13 @@ Del Registro de Personas Morales.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3084.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
-
 ###### Art. 3085.
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3086.
 
@@ -15910,3 +15790,9 @@ P.O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 324 POR EL QUE SE ADICIONAN DIVERSOS ARTÍCULOS AL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 479 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
