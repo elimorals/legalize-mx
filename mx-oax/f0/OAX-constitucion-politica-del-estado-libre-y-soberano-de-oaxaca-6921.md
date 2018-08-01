@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2018-03-23"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2289,9 +2289,9 @@ XXII. Otorgar patentes de notario, con sujeción a la Ley respectiva;
 
 XXIII. Actuar como árbitro en los conflictos que se susciten entre los municipios y miembros del ayuntamiento;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-XXIV. Solicitar ante el Consejo de la Judicatura y con causa justificada, la destitución de jueces y funcionarios judiciales;
+XXIV. Solicitar ante el Pleno del Tribunal Superior de Justicia, por conducto de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Oaxaca y con causa justificada, la destitución de jueces y funcionarios judiciales.
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2641,9 +2641,9 @@ Como titular de la dependencia, estará una persona que se denominará Consejero
 
 El Poder Judicial se ejerce por el Tribunal Superior de Justicia y por los jueces de primera instancia.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
-El Poder Judicial administrará con autonomía su presupuesto, sin que pueda ser menor al ejercido en el año anterior. El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial, con las excepciones dispuestas en esta Constitución, debiendo rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
+El Poder Judicial administrará con autonomía su presupuesto, sin que pueda ser menor al ejercido en el año anterior. El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto, con las excepciones dispuestas en esta Constitución, debiendo rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2657,23 +2657,59 @@ Una vez aprobado el Presupuesto de Egresos del Estado, las erogaciones previstas
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO [N. DE E. PRIMER PÁRRAFO], P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 100.
 
 La Ley Orgánica del Poder Judicial del Estado determinará el funcionamiento del mismo, garantizará la independencia de los Magistrados y Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidores públicos.
 
-El Consejo de la Judicatura será el órgano del Poder Judicial del Estado con independencia técnica, de gestión y capacidad para emitir resoluciones y acuerdos generales. Es el encargado de conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, en los términos que señala esta Constitución y las leyes.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+El Pleno del Tribunal Superior de Justicia a través de la Junta de Administración, Vigilancia y Disciplina será el órgano del Poder Judicial del Estado con independencia técnica, de gestión y capacidad para emitir resoluciones y acuerdos generales. Es la encargada de conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, en los términos que señala esta Constitución y las leyes.
 
-El Consejo de la Judicatura se integrará por cinco miembros. La Presidencia del Consejo recaerá en el Presidente del Tribunal Superior de Justicia. Habrá un Consejero Magistrado y un Consejero Juez, quienes serán designados bajo criterios de evaluación y antigüedad. Habrá un miembro designado por cada uno de los poderes Ejecutivo y Legislativo. Los consejeros no representan a quienes los designa, por lo que ejercerán su función con independencia e imparcialidad. De los miembros del Consejo de la Judicatura se designará un representante que deberá integrarse y formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
-La Ley Orgánica de cada uno de los poderes que participan en la integración del Consejo de la Judicatura determinará la forma y mecanismos para la designación de los Consejeros, quienes sin excepción deberán tener el título de licenciado en derecho y acreditar cinco años de experiencia en la materia.
+La Junta de Administración, Vigilancia y Disciplina se integrará por el Presidente en funciones del Tribunal Superior de Justicia, quien también lo será de dicha Junta; así como por un Magistrado y un Juez, estos últimos designados por el Pleno del Tribunal a propuesta de las respectivas ternas enviadas por el Presidente del mismo, bajo los criterios de evaluación y antigüedad. De los miembros de la Junta de Administración, Vigilancia y Disciplina se designará un representante que deberá integrarse y formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
 
-Los consejeros, con excepción del presidente, durarán en su cargo cinco años, serán sustituidos de manera escalonada, y no podrán ser nombrados para un nuevo período. Durante su encargo, sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
-El Consejo de la Judicatura establecerá la configuración territorial de las Salas y Juzgados del Poder Judicial, administrará la carrera judicial; nombrará y removerá a los Jueces y demás servidores públicos del Poder Judicial con base en principios de idoneidad, experiencia, honorabilidad, pluralidad, equidad de género, apartidismo y no discriminación, así mismo les concederá licencia, y resolverá sobre la renuncia que presenten, en los términos que establezca la ley.
+La Ley Orgánica del Poder Judicial del Estado de Oaxaca determinará la forma y mecanismos para la designación de los integrantes de la Junta de Administración, Vigilancia y Disciplina, quienes sin excepción deberán ser funcionarios del Poder Judicial del Estado que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+Los integrantes de la Junta de Administración, Vigilancia y Disciplina, con excepción del Presidente, durarán en su cargo cuatro años, serán sustituidos de manera escalonada, y no podrán ser nombrados para un nuevo periodo. Durante su encargo, sólo podrán ser removidos por causas graves legalmente acreditadas por el Pleno del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+La integración y facultades de la Junta de Administración, Vigilancia y Disciplina se regirán por las disposiciones de la Ley Orgánica del Poder Judicial del Estado de Oaxaca; de igual forma fijará las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se ajustará a los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia, transparencia y rendición de cuentas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2018)</small>
+
+La Junta de Administración, Vigilancia y Disciplina gozará de independencia de gestión y técnica, así como para emitir sus resoluciones, a las cuales deberá dar máxima publicidad y transparencia en los términos de la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 1 DE AGOSTO DE 2018)</small>
+
+A la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Oaxaca le compete:
+
+I.- Convocar, conforme a las modalidades establecidas por la ley, a concurso de méritos y a examen de oposición, para efecto de designar a los Jueces integrantes del Poder Judicial. Los Jueces y los que con cualquier otra denominación se designen, serán adscritos y removidos del cargo por el voto de la mayoría de los miembros de la Junta de Administración, Vigilancia y Disciplina, conforme a lo previsto en la ley;
+
+II.- Expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo dispuesto en la ley;
+
+III.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judicial, de acuerdo con lo que establezca la ley;
+
+IV.- Iniciar la investigación sobre la conducta de algún otro funcionario o empleado del Poder Judicial en los términos que señale la ley;
+
+V.- Participar con su opinión técnico - presupuestal en la elaboración que haga el Pleno del presupuesto del Poder Judicial para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
+
+VI.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados del Poder Judicial, según el caso y de acuerdo con lo que la ley establezca;
+
+VII.- Determinar la creación de los juzgados, secretarías de acuerdos y actuarías que requiera la administración de justicia, de acuerdo con un estudio de factibilidad presupuestal;
+
+VIII.- Rendir y difundir ampliamente los informes que le solicite el Pleno del Tribunal Superior de Justicia del Estado y, participar en la elaboración del informe anual que el Presidente deba rendir ante el Congreso del Estado;
+
+IX.- Participar en el Sistema Estatal de Combate a la Corrupción, en los términos establecidos por la ley; y
+
+X.- Las demás que le confiera la ley.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 122], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -2683,7 +2719,9 @@ Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Tener cuando menos treinta y cinco años cumplidos el día de su nombramiento;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
+II.- Tener treinta y cinco años de edad cumplidos y menos de setenta y cinco;
 
 III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, título y cédula profesionales de licenciado en derecho, expedidas por la autoridad o institución legalmente facultada para ello;
 
@@ -2703,41 +2741,41 @@ Los nombramientos de los Magistrados serán hechos preferentemente, entre aquell
 
 Durante el ejercicio de su encargo no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público; excepto la docencia o la investigación académica. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
-Las personas que hayan ocupado el cargo de Magistrado, Juez de Primera Instancia o Consejero de la Judicatura, no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes, en cualquier proceso ante los órganos del Poder Judicial del Estado.
+Las personas que hayan ocupado el cargo de Magistrado o Juez de Primera Instancia, no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes, en cualquier proceso ante los órganos del Poder Judicial del Estado.
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia. La infracción a lo previsto en el presente párrafo será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 102.
 
-Para nombrar a los magistrados del Tribunal Superior de Justicia del Estado, el Gobernador del Estado emitirá una convocatoria pública para la selección de aspirantes, de conformidad con los requisitos señalados en el artículo anterior.
+Para nombrar a los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, el Gobernador del Estado emitirá una convocatoria pública para la selección de aspirantes, de conformidad con los requisitos señalados en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
-El Consejo de la Judicatura certificará el cumplimiento de los requisitos de ley y aplicará los exámenes de oposición. Una vez concluidos éstos, remitirá al Gobernador del Estado una lista que contenga ocho candidatos, de los cuales el Gobernador enviará una terna al Congreso del Estado para que elija a quien debe ser Magistrado.
+La Junta de Administración, Vigilancia y Disciplina certificará el cumplimiento de los requisitos de ley y aplicará los exámenes de oposición. Una vez concluidos éstos, remitirá al Pleno del Tribunal Superior de Justicia del Estado para su validez y este a su vez enviará al Gobernador del Estado una lista que contenga ocho candidatos, de los cuales el Gobernador enviará una terna al Congreso del Estado para que elija a quien debe ser Magistrado.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 La elección se hará por el voto de las dos terceras partes de los diputados del Congreso del Estado que se hallen presentes, dentro del improrrogable plazo de veinte días naturales. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
-En caso de que el Congreso del Estado rechace la terna propuesta, ocupará el cargo la persona que habiendo aparecido en la lista elaborada por el Consejo de la Judicatura designe el Gobernador del Estado.
+En caso de que el Congreso del Estado rechace la terna propuesta, ocupará el cargo la persona que habiendo aparecido en la lista elaborada por la Junta de Administración, Vigilancia y Disciplina, y aprobada por el Pleno, designe el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
-Todos los Magistrados, con excepción del Magistrado Presidente y del Magistrado Consejero de la Judicatura, deberán integrar sala, durarán en el ejercicio de su cargo ocho años, podrán ser reelectos por un periodo igual, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del artículo 117 de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; podrán jubilarse en los términos que señale la Ley respectiva.
+Todos los Magistrados, con excepción del Magistrado Presidente y del Magistrado de la Junta de Administración, Vigilancia y Disciplina, deberán integrar sala, durarán en el ejercicio de su cargo ocho años, podrán ser reelectos por un periodo igual, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del artículo 117 de esta Constitución y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; deberán jubilarse en los términos que señale la ley respectiva.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 103.
 
-El Consejo de la Judicatura será presidido por el Presidente del Tribunal Superior de Justicia del Estado que elija el Pleno y que durará en ejercicio de sus funciones cuatro años pudiendo ser reelecto por un periodo más. Para ser Magistrado Presidente se requiere un mínimo de tres años integrando sala. El Magistrado Presidente tendrá la representación legal del Poder Judicial.
+La Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Oaxaca será presidida por el Presidente del Tribunal Superior de Justicia del Estado que elija el Pleno y durará en el ejercicio de sus funciones cuatro años pudiendo ser reelecto por un periodo más. Para ser Magistrado Presidente se requiere un mínimo de tres años integrando sala. El Magistrado Presidente tendrá la representación legal del Poder Judicial.
 
 REUBICADO [N. DE E. ANTES ARTICULO 125], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -3529,9 +3567,9 @@ Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
 El Sistema Estatal de Combate a la Corrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de la Contraloría y Transparencia Gubernamental; del Tribunal de Justicia Administrativa del Estado de Oaxaca; del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, así como por un representante del Consejo de la Judicatura y otro del Comité de Participación Ciudadana;
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares del Órgano Superior de Fiscalización del Estado de Oaxaca; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de la Contraloría y Transparencia Gubernamental; por el Presidente del Tribunal de Justicia Administrativa; el Presidente del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca; así como por un representante de la Junta de Administración, Vigilancia y Disciplina del Tribunal Superior de Justicia y otro del Comité de Participación Ciudadana;
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
 
@@ -5020,3 +5058,29 @@ P.O. 23 DE MARZO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El Congreso del Estado contará con el plazo de un año, a partir de la entrada en vigor del presente Decreto, para expedir la Ley reglamentaria respectiva.
+
+P.O. 1 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1539.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Los recursos humanos, técnicos, materiales y financieros del Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca, se transferirán a la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Oaxaca.
+
+TERCERO.- Los consejeros integrantes del Consejo de la Judicatura nombrados por el Poder Ejecutivo y el Legislativo, serán liquidados conforme a la ley de la materia. Asimismo, el Magistrado Consejero y el Juez Consejero serán incorporados a las labores jurisdiccionales conforme lo determine el Pleno del Tribunal Superior de Justicia.
+
+CUARTO.- El Pleno del Tribunal Superior de Justicia, deberá designar a los tres integrantes de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Oaxaca, dentro del plazo improrrogable de cuarenta y cinco días contados a partir de la publicación de éste Decreto.
+
+QUINTO.- El Pleno del Tribunal Superior de Justicia, deberá adecuar la reglamentación interna conforme a lo dispuesto en éste Decreto, dentro del plazo improrrogable de cuarenta y cinco días contados a partir de la publicación de éste Decreto.
+
+SEXTO.- Todas las referencias que hagan las leyes sobre el Consejo de la Judicatura, se entenderán referidas a la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Oaxaca.
+
+SÉPTIMO.- El Pleno del Tribunal Superior de Justicia, por conducto de la presidencia, adscribirá al personal administrativo del Consejo de la Judicatura que desaparece, a las áreas o juzgados, que lo requieran con base en las necesidades del servicio, y establecerá los mecanismos de transferencia de los recursos materiales y financieros de dicho Consejo.
+
+OCTAVO.- Se faculta al Presidente y/o al Pleno del Tribunal Superior de Justicia para dictar todas las medidas y acuerdos necesarios para la efectividad e inmediato cumplimiento del presente decreto.
+
+NOVENO.- Los Magistrados del Pleno del Tribunal Superior de Justicia del Estado, que al momento de la entrada en vigor de la presente reforma ya hubieren cumplido setenta y cinco años de edad, serán jubilados conforme a la ley.
+
+DÉCIMO.- Se abrogan todas las disposiciones legales y reglamentarias que se opongan a lo que establece el presente Decreto.
+
+DÉCIMO PRIMERO.- El Honorable Congreso del Estado de Oaxaca hará las modificaciones correspondientes a las leyes secundarias en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
