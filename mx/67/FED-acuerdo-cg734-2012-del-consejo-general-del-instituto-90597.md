@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg734-2012-del-consejo-general-del-instituto-90597"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-12-19"
-last_updated: "2012-12-19"
+last_updated: "2018-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90597&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-11-21"
 ---
 # ACUERDO CG734/2012 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA EL ACCESO, RECTIFICACION, CANCELACION, OPOSICION Y VALIDACION DE DATOS PERSONALES EN POSESION DE LA DIRECCION EJECUTIVA DEL REGISTRO FEDERAL DE ELECTORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS DEL INSTITUTO NACIONAL ELECTORAL PARA EL ACCESO, RECTIFICACIÓN, CANCELACIÓN Y OPOSICIÓN DE DATOS PERSONALES QUE FORMAN PARTE DEL PADRÓN ELECTORAL, PUBLICADO EN EL D.O.F. DE 1 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA EL ACCESO, RECTIFICACIÓN, CANCELACIÓN, OPOSICIÓN Y VALIDACIÓN DE DATOS PERSONALES EN POSESIÓN DE LA DIRECCIÓN EJECUTIVA DEL REGISTRO FEDERAL DE ELECTORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE AGOSTO DE 2018 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 19 de diciembre de 2012.
 
@@ -566,3 +568,15 @@ Segundo. Las y los ciudadanos que hayan proporcionado a la Dirección Ejecutiva,
 Tercero. Con la finalidad de implementar los sistemas establecidos en los Lineamientos 12, incisos a) y c); y 59, la Dirección Ejecutiva deberá presentar las propuestas correspondientes a más tardar 90 días hábiles posteriores a la entrada en vigencia de los presentes Lineamientos, a la consideración del Organo Garante, Comisión del Registro Federal de Electores y de la Comisión Nacional de Vigilancia para su conocimiento.
 
 Cuarto. La Dirección Ejecutiva deberá dentro de los 30 días hábiles siguientes de la entrada en vigor del presente ordenamiento, diseñar la constancia y el formulario establecidos en el lineamiento 12, inciso e).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE AGOSTO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO SEGUNDO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS DEL INSTITUTO NACIONAL ELECTORAL PARA EL ACCESO, RECTIFICACIÓN, CANCELACIÓN Y OPOSICIÓN DE DATOS PERSONALES QUE FORMAN PARTE DEL PADRÓN ELECTORAL”.]</small>
+
+SEGUNDO. Se abrogan los Lineamientos para el Acceso, Rectificación, Cancelación, Oposición y Validación de Datos Personales en Posesión de la Dirección Ejecutiva del Registro Federal de Electores, aprobados mediante Acuerdo CG734/2012 del otrora Instituto Federal Electoral.
+
+## TRANSITORIO
+
+ÚNICO. La Dirección Ejecutiva del Registro Federal de Electores, en un plazo no mayor a quince días contados a partir de la entrada en vigor de los presentes Lineamientos del Instituto Nacional Electoral para el Acceso, Rectificación, Cancelación y Oposición de datos personales que forman parte del Padrón Electoral, elaborará un formato de solicitud que se encontrará a disposición de las y los ciudadanos dentro de la página de internet del Instituto, así como en las oficinas de la referida Dirección Ejecutiva y de las Vocalías respectivas, para el caso de que la persona solicitante desee utilizarlo para tal efecto.
