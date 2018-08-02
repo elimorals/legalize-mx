@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2017-09-19"
+last_updated: "2018-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -43,7 +43,9 @@ La presente Ley es de observancia general en todo el territorio del Estado de Ja
 
 El objeto de la presente Ley es:
 
-I. Establecer los principios y regulaciones para la gestión integrada de los recursos hídricos en el Estado, a efecto de promover y hacer efectivo el derecho al agua potable y el saneamiento como un derecho humano esencial para el pleno disfrute de la vida y de todos los derechos humanos;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2018)</small>
+
+I. Establecer los principios y regulaciones para la gestión integrada de los recursos hídricos en el estado, a efecto de promover y hacer efectivo el derecho al agua potable y el saneamiento como un derecho humano esencial para el pleno disfrute de la vida y de todos los derechos humanos, debiendo cumplir con los criterios mínimos de acceso al agua, siguiendo los lineamientos que constituyan un mayor beneficio a la persona;
 
 II. Establecer las bases generales para las actuaciones coordinadas de las autoridades estatales y municipales, quienes conforme a sus atribuciones constitucionales, concurren en el ámbito de dicha gestión;
 
@@ -2122,3 +2124,9 @@ P.O. 19 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26424/LXI/17 QUE REFORMA EL ARTÍCULO 23 DE LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 2 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26842/LXI/18 QUE REFORMA LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco."
