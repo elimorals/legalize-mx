@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2018-01-10"
+last_updated: "2018-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2018.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -12615,8 +12615,6 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 15.
 
 17.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
@@ -12641,8 +12639,6 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 ### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 15.
 
 21.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
@@ -12663,863 +12659,383 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 ### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 15.
 
 25.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 # LIBRO DECIMO SEXTO. De la Participación Pública-Privada en Proyectos para Prestación de Servicios
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ## TITULO PRIMERO. Disposiciones generales
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO TERCERO. Autorización del Proyecto
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+1.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-1.- Este Libro tiene por objeto regular los actos relativos a la planeación, programación, presupuestación, autorización, adjudicación, contratación, ejecución y control de los proyectos que se lleven a cabo, en los términos de este Libro, bajo la modalidad de proyectos para prestación de servicios, así como los contratos que con ese carácter celebren, mancomunadamente o en lo individual:
-
-I. Las dependencias y organismos auxiliares de la administración pública;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-II. La Fiscalía General de Justicia, y
-
-III. Los ayuntamientos de los municipios del Estado, organismos auxiliares y fideicomisos públicos de los municipios, cuando los pagos a realizarse sean con cargo total o parcial a fondos estatales, conforme a los convenios que celebren con el Estado, en términos del reglamento de este Libro.
-
-También serán aplicables las disposiciones de este Libro a los particulares que participen en los procedimientos, actos o contratos regulados en este Libro.
-
-Los poderes Legislativo y Judicial, así como los organismos autónomos, aplicarán las disposiciones de este Libro, en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios órganos de control.
-
-No será aplicable lo dispuesto por este Libro en los actos objeto del mismo derivados de convenios celebrados entre dependencias, entidades y ayuntamientos, entre sí o con los de otros estados o de la Federación, excepto cuando sea parte un particular en los procedimientos o contratos respectivos.
-
-Tampoco serán aplicables las disposiciones de este Libro a contratos del sector público celebrados al amparo de cualquier otra ley o Libro de este Código que regule contrataciones gubernamentales.
-
-La Legislatura, a través de las Comisiones relacionadas con el contrato de prestación de servicios respectivo, hará el seguimiento permanente para verificar el cumplimiento de lo establecido en el Capítulo Sexto del Título Segundo, del presente Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+2.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-2.- Para los efectos de este Libro, se entenderá por:
-
-I. Análisis Costo-Beneficio: El análisis que deberá llevar a cabo una Unidad Contratante para desarrollar un Proyecto de conformidad con los términos y lineamientos establecidos en el artículo 16.22 de este Libro;
-
-II. Autorización del Modelo de Contrato: La autorización que emita la Secretaría conforme a lo previsto en el Título Tercero, Capítulo Tercero de este Libro.
-
-III. Autorización del Proyecto: La autorización que emita la Secretaría conforme a lo previsto en el Título Segundo, Capítulo Tercero de este Libro;
-
-IV. Código: Código Administrativo del Estado de México;
-
-V. Comité de Proyectos: El órgano colegiado que, en su caso, auxiliará a una Unidad Contratante en la preparación y substanciación de los procedimientos de contratación conforme a lo previsto en el Título Cuarto Capitulo Segundo de este libro;
-
-VI. Contraloría: La Secretaría de la Contraloría y órganos de control interno de las dependencias, entidades, organismos, unidades administrativas estatales y de los municipios;
-
-VII. Contrato: Acto jurídico que formalice la prestación de los servicios objeto de un Proyecto;
-
-VIII. Estado: El Estado Libre y Soberano de México;
-
-IX. Garantía Estatal: La afectación por parte del Estado, como garantía y/o fuente de pago alterna, de cualquier ingreso derivado de contribuciones, productos, aprovechamientos, accesorios u otros conceptos que sean susceptibles de afectación;
-
-X. Largo Plazo: Un periodo de por lo menos cinco años;
-
-XI. Legislatura: La Legislatura del Estado Libre y Soberano de México;
-
-XII. Licitante: Una o más personas físicas o jurídicas colectivas del sector privado que participen en cualquier procedimiento de licitación pública o de invitación restringida para un Proyecto;
-
-XIII. Proveedor: Cualquier Licitante que celebre, conforme a lo previsto en este Libro, un Contrato o cualquier persona física o jurídica colectiva a quien se le adjudique directamente y celebre un Contrato de conformidad con el Título Cuarto, Capítulo Cuarto de este Libro;
-
-XIV. Proyecto: Cualquier proyecto para prestación de servicios que sea desarrollado por una Unidad Contratante a través de la contratación de un Proveedor por medio del cual éste se obliga a prestar, a Largo Plazo, uno o más servicios, incluyendo, sin limitar, el diseño, disponibilidad de espacios, operación, mantenimiento y administración de bienes propiedad de un organismo o entidad pública, o bienes muebles y/o inmuebles que el Proveedor construya o provea, por sí o a través de un tercero, a cambio de una contraprestación pagadera por la Unidad Contratante por servicio prestado y según el desempeño del Proveedor;
-
-XV. Secretaría: La Secretaría de Finanzas del Estado de México;
-
-XVI. Unidad Contratante: Las dependencias, entidades, organismos, unidades administrativas y demás entes de carácter público señalados en el artículo 16.1 de este Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+3.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-3.- Los actos a que se refiere el artículo 16.1 de este Libro que se realicen con cargo total o parcial a fondos del Gobierno Federal, estarán a lo dispuesto por la legislación federal.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+4.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-4.- La Secretaría estará facultada para interpretar este Libro para efectos administrativos.
-
-Las disposiciones administrativas que se emitan de conformidad a la facultad prevista en el párrafo anterior, se publicarán en la Gaceta del Gobierno y/o a través de otros medios de difusión pública que se establezcan para tal efecto en el reglamento de este Libro para garantizar su máxima publicidad.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+5.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-5.- En lo no previsto por este Libro, su reglamento y demás disposiciones que de éstos se deriven, serán aplicables supletoriamente el Código de Procedimientos Administrativos del Estado de México, el Código Civil del Estado de México y el Código de Procedimientos Civiles del Estado de México, siempre que sus disposiciones no se contrapongan con la naturaleza administrativa y espíritu del propio Libro y su reglamento.
+6.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-6.- Las controversias que se susciten con motivo de la interpretación o aplicación de este Libro, en el ámbito del Ejecutivo y de los ayuntamientos, serán resueltas por el Tribunal de lo Contencioso Administrativo del Estado de México. En todo caso los órganos de control interno de las unidades contratantes conocerán de las inconformidades que presenten los particulares en relación con los procedimientos de contratación realizados al amparo de este Libro conforme a lo previsto en el Título Octavo del mismo.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ## TITULO SEGUNDO. De los Proyectos
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO CUARTO. Análisis Costo-Beneficio
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+7.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-7.- Para ser considerados como Proyectos, éstos deberán cumplir con lo siguiente:
+8.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-I. Su realización debe implicar la celebración de un Contrato de prestación de servicios a Largo Plazo en el que se estipule el pago de una contraprestación al Proveedor por los servicios prestados por éste;
-
-II. Mediante la prestación de los servicios el Proveedor coadyuvará con la Unidad Contratante a fin de que la Unidad Contratante preste a su vez los servicios públicos que tiene encomendados y pueda dar un mejor cumplimiento a los objetivos institucionales que tiene asignados conforme a lo establecido en las disposiciones aplicables y sus planes de desarrollo;
-
-III. El Proveedor deberá prestar los servicios con activos propios; activos de un tercero contando con un título legal que le permita hacer uso de los mismos; o bienes federales, estatales o municipales, siempre y cuando el uso de los mismos esté legítimamente otorgado al Proveedor; y
-
-IV. El Proveedor será responsable de la inversión y el financiamiento, que en su caso, sea necesario para el desarrollo del Proyecto.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-8.- Las Unidades Contratantes que pretendan realizar un Proyecto deberán contar con las autorizaciones de la Secretaría en términos del presente artículo y demás disposiciones aplicables de este Libro.
-
-Para emitir las autorizaciones, la Secretaría deberá dictaminar si el Estado se beneficiará al desarrollar el proyecto en cuestión a través de un esquema de Proyecto en términos de este Libro, con base en:
-
-I. Las características del Proyecto que se está analizando;
-
-II. El Análisis Costo-Beneficio;
-
-III. El impacto que en las finanzas públicas tendrían las obligaciones de pago que pretendan establecerse en el Contrato; y
-
-IV. La congruencia del Proyecto con las directrices establecidas en el Plan Estatal de Desarrollo.
-
-En las autorizaciones, la Secretaría podrá requerir que la Unidad Contratante exija una inversión de capital mínima en el Proyecto por parte del Proveedor. Lo anterior, sin perjuicio de que la Secretaría estará facultada para emitir lineamientos de carácter general sobre los montos de inversión de capital mínimos que se requerirán para cada tipo de Proyecto.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+9.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-9.- Salvo por lo previsto en el presente Libro, el ejercicio del gasto público para los Proyectos se sujetará a las disposiciones específicas del presupuesto de egresos del Estado en el ejercicio fiscal correspondiente, así como a lo previsto en el Código Financiero del Estado de México y Municipios.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+10.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-10.- En la planeación de los Proyectos, las Unidades Contratantes deberán ajustarse a:
-
-I. Los objetivos y prioridades del Plan Estatal de Desarrollo, los programas institucionales, sectoriales, regionales y especiales que correspondan, así como a las previsiones contenidas en sus programas anuales;
-
-II. Los objetivos, metas y previsiones de recursos establecidos en sus presupuestos de egresos; y
-
-III. La Ley de Planeación del Estado de México y Municipios y demás legislación aplicable en materia de planeación.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+11.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-11.- Para la solicitud de la autorización presupuestal a la que se refiere el artículo 297 del Código Financiero del Estado de México y Municipios, las Unidades Contratantes deberán determinar tanto el presupuesto total del Proyecto como los presupuestos para el primer ejercicio presupuestal y los ejercicios presupuestales subsecuentes hasta la terminación del Contrato.
-
-Durante la vigencia de un Proyecto, en la formulación de cada uno de sus presupuestos anuales, la Unidad Contratante deberá considerar los pagos que deba efectuar en dicho ejercicio al Proveedor.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+12.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-12.- Los pagos que deban realizarse al amparo de los Contratos se considerarán preferentes. En la elaboración del presupuesto de egresos de cada año, la Secretaría deberá considerar la prelación que deberán observar estos Proyectos.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+13.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-13.- Los pagos por servicios que las Unidades Contratantes efectúen derivados de los Contratos deberán ser cubiertos con cargo a sus respectivos presupuestos autorizados de gasto corriente para el ejercicio fiscal correspondiente, identificando la partida presupuestaria que le corresponda según las disposiciones aplicables en materia de presupuesto y ejercicio del mismo.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+14.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-14.- La Secretaría emitirá lineamientos que contengan los criterios y políticas prudenciales de finanzas públicas y de gasto que deberán observar las Entidades Contratantes. La Secretaría, con base en la metodología que al respecto incluya en dichos lineamientos, evaluará el impacto del Proyecto en el gasto específico de la dependencia correspondiente; y el impacto del Proyecto en el gasto público y en el presupuesto del Estado.
-
-Si conforme al análisis señalado en el párrafo anterior resultare que algún Proyecto compromete la salud financiera de la Unidad Contratante o la sustentabilidad del gasto público en general, la Secretaría rechazará el desarrollo del proyecto en cuestión como un Proyecto en términos de lo previsto en este Capítulo.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+15.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-15.- El proyecto de Presupuesto de Egresos de cada Unidad Contratante hará mención especial de las obligaciones que se deriven de los Contratos, así como de cualquier erogación de gasto contingente que las Unidades Contratantes podrían adquirir en los Contratos en términos de este Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+16.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-16.- En caso de considerarse necesario para la viabilidad de un Proyecto otorgar Garantías Estatales al Proveedor, deberá señalarse tal consideración en la solicitud de Autorización del Proyecto. La Secretaría evaluará la necesidad del otorgamiento de las Garantías Estatales, la naturaleza de las mismas y rechazará la solicitud de cualquier Garantía Estatal que a su juicio considere innecesaria o inconveniente para los intereses del Estado. Además, en caso de que así lo estime necesario, la Secretaría podrá constituir los mecanismos financieros requeridos, incluyendo la creación de fideicomisos de garantía y/o fuente de pago alterna, para otorgar la Garantía Estatal en cuestión.
+17.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-Una vez que la Secretaría haya constituido el mecanismo financiero para instrumentar la Garantía Estatal o aprobado el otorgamiento de cualquier otro tipo de Garantía Estatal, lo hará del conocimiento del Ejecutivo Estatal para los efectos correspondientes, y fijará el tipo de garantía y las características de la misma, a efecto de que se someta a la aprobación de la Legislatura.
-
-Los mecanismos financieros que se constituyan conforme al presente artículo no formarán parte de la administración pública estatal de conformidad con la legislación de la materia, por lo que las erogaciones que se realicen con cargo a dicho mecanismo financiero sólo estarán sujetas a las disposiciones establecidas en el decreto por el que la Legislatura autorice la creación de la Garantía Estatal en cuestión y a las reglas, controles y previsiones aplicables a la misma, de acuerdo con las normas contractuales que lo regulen.
-
-Siempre y cuando la Garantía Estatal sea contingente y no represente una obligación incondicional de pago y/o se constituya a través de los mecanismos financieros antes descritos, dicha Garantía Estatal no constituirá deuda pública en términos del Título Octavo del Código Financiero del Estado de México y Municipios.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
-
-###### Artículo 16.
-
-17.- La unidad contratante, previo a realizar modificaciones al contrato, deberá enviar el proyecto a la Secretaría para conocimiento y opinión sobre los posibles impactos económicos mediatos o futuros del proyecto. En caso de que dichos cambios impliquen un incremento a la contraprestación que deba pagar la unidad contratante derivada del contrato, la unidad contratante deberá solicitar a la Secretaría la aprobación del aumento presupuestal correspondiente, especificando el destino del mismo.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-La Secretaría analizará la viabilidad del aumento presupuestal a que se refiere el párrafo anterior con base en lo pactado en el Contrato y en los compromisos adquiridos por la Unidad Contratante y, en caso de que el aumento presupuestal sea sustancial conforme al reglamento de este Libro, el Ejecutivo del Estado, lo someterá para autorización de la Legislatura.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-De aprobarse por la Legislatura el incremento en el presupuesto a que se refiere este artículo, la Unidad Contratante deberá presupuestar los pagos ajustados derivados del Contrato con la preferencia prevista en este Libro.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO SEXTO. Administración del Proyecto
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+18.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-18.- Las Unidades Contratantes deberán presentar ante la Secretaría las solicitudes de autorización para desarrollar un Proyecto.
-
-La autorización para desarrollar el Proyecto se entenderá otorgada exclusivamente para efectos de que la Unidad Contratante continúe con la elaboración de los documentos necesarios para llevar a cabo el proceso de adjudicación correspondiente.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+19.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-19.- La solicitud de autorización deberá ir acompañada, de al menos, la siguiente información:
-
-I. La descripción del Proyecto y los requerimientos de servicios que se pretenden contratar para el mismo;
-
-II. La justificación de que el Proyecto es congruente con los objetivos y estrategias establecidos en el Plan Estatal de Desarrollo, los programas institucionales, regionales, sectoriales y especiales que correspondan a la Unidad Contratante y que su desarrollo es viable jurídica y presupuestalmente;
-
-III. El Análisis Costo-Beneficio;
-
-IV. El procedimiento de adjudicación que se seguirá y la justificación para ello, especificando en caso de ser necesario, que se contará con un Comité de Proyectos para coadyuvar en dicho procedimiento;
-
-V. Un documento que resuma los elementos principales que contendrá el Contrato, incluyendo: una descripción de los servicios que prestará el Proveedor y la situación jurídica de los bienes con los que el Proveedor prestará los servicios a contratarse; la duración del Contrato; un análisis de los principales riesgos que asumirán tanto la Unidad Contratante como el Proveedor, así como las consecuencias económicas para ambas partes; y las obligaciones de pago que asumirán las partes en caso de la terminación anticipada o rescisión del Contrato; y
-
-VI. En su caso, la solicitud de autorización a la que se refiere el artículo 16.16 de este Libro.
-
-En caso de que la Unidad Contratante omitiera presentar la información prevista en el presente artículo, éste podrá entregar la información faltante en los términos y conforme a los plazos que al efecto se señalen en el reglamento de este Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+20.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-20.- Una vez integrada la solicitud de autorización, la Secretaría emitirá la resolución correspondiente de conformidad con los lineamientos establecidos en este Libro y su reglamento.
+21.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-21.- De aprobarse el Proyecto por parte de la Secretaría, el Ejecutivo del Estado someterá a la aprobación de la Legislatura el desarrollo del Proyecto señalando el presupuesto estimado para dicho Proyecto en todos los ejercicios presupuestales en los que estaría vigente.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO PRIMERO. Características Generales
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+22.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-22.- La Secretaría deberá emitir los lineamientos y metodología necesaria para analizar el costo-beneficio de desarrollar el Proyecto y deberá publicarlos en la Gaceta del Gobierno.
+23.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-23. La Unidad Contratante deberá realizar el análisis Costo-Beneficio conforme a los lineamientos y metodología que determine la Secretaría. En el análisis, se deberá mostrar si el desarrollo del Proyecto genera beneficios netos iguales o mayores a los que se obtendrían en caso de que el mismo fuere ejecutado como un gasto de inversión pública en el que los servicios fueren prestados directa o indirectamente por la Unidad Contratante.
-
-> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
-
-Dichas evaluaciones deberán ser públicas y podrán consultarse mediante la página oficial de internet de la Secretaría.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+24.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-24.- Para el desarrollo de un Proyecto, el Estado y los Municipios podrán permitir el uso gratuito u oneroso de los bienes de su propiedad o de los bienes federales que llegue a tener asignados previa autorización de la autoridad competente para el caso de concesiones, o en el caso de entidades paraestatales de su órgano de gobierno. La autorización a que hace referencia este artículo no será necesaria en caso de que así lo disponga la demás legislación aplicable al caso en cuestión.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+25.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-25.- En las autorizaciones que otorguen las autoridades competentes a las que se refiere el artículo anterior, se estipulará que el uso se otorgará únicamente para efectos del desarrollo del proyecto y durante la vigencia del mismo, cesando cualquier derecho en beneficio del Proveedor sobre los bienes al momento de terminar el contrato, ya sea a su vencimiento natural o anticipado.
+26.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-26.- Podrá otorgarse el uso de bienes muebles o inmuebles a través de concesión, arrendamiento, comodato o cualquier otro medio legal, según la legislación en la materia lo permita. En cualquier caso, la vigencia del título legal a través del cual se otorgue dicho uso será por un periodo máximo equivalente a la vigencia del Contrato.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO TERCERO. Autorización del Modelo de Contrato
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+27.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-27.- Por cada Proyecto que se pretenda realizar, la Unidad Contratante designará a un servidor público que desempeñará el cargo de administrador del Proyecto.
+28.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-28.- El administrador del Proyecto será responsable de:
-
-I. Organizar los trabajos que se requieran para llevar a cabo el Proyecto, incluyendo la presentación de solicitudes de autorizaciones, la estructuración del modelo de Contrato, la coordinación de asesores, en su caso, y el procedimiento de adjudicación;
-
-II. Asegurarse de que la información utilizada para la elaboración de los Proyectos y la documentación presentada para las autorizaciones correspondientes sea veraz y confiable;
-
-III. Cerciorarse de que el Proyecto se apegue a las disposiciones de este Libro y demás ordenamientos aplicables, procurando obtener en todo momento las mejores condiciones de contratación para la Unidad Contratante;
-
-IV. Presentar la información, documentos y aclaraciones que le sean requeridos relativos al Proyecto por la Secretaría;
-
-V. Dirigir el procedimiento de adjudicación, en el entendido de que la celebración del Contrato estará a cargo de los servidores públicos de la Unidad Contratante autorizados para ello;
-
-VI. Durante el desarrollo del Proyecto y la vigencia del Contrato actuar como punto de contacto y coordinación de la Unidad Contratante frente al Proveedor;
-
-VII. Consultar y coordinar con los servidores públicos que considere pertinente, sobre la elaboración y desarrollo del Proyecto, el procedimiento de adjudicación y el Contrato;
-
-VIII. Desarrollar, administrar, supervisar, evaluar y rendir los informes necesarios respecto de los derechos y obligaciones derivados del Contrato por lo que concierne a la Unidad Contratante.
-
-> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2017)</small>
-
-IX. Coadyuvar con la Secretaría en la inscripción del instrumento jurídico en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios a cargo de la Secretaría de Hacienda y Crédito Público, el cual deberá sujetarse a lo estipulado en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
-
-> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2017)</small>
-
-X. Enviar a la Secretaría dentro de los 10 días hábiles posteriores de cada trimestre, la información relativa al monto de inversión del proyecto a valor presente y el pago mensual del servicio, identificando la parte correspondiente al pago de inversión, el plazo del contrato, así como las erogaciones pendientes de pago.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ## TÍTULO TERCERO. Del modelo de Contrato
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+29.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-29.- Una vez otorgada la Autorización del Proyecto, por parte de la Secretaría, la Unidad Contratante podrá proceder a la elaboración del modelo de Contrato para el Proyecto respectivo. El modelo deberá ser un contrato integral que describa todas y cada una de las obligaciones y derechos del Proveedor y la Unidad Contratante respecto de los servicios que el Proveedor prestará a través del Contrato. Lo anterior, sin perjuicio de que existan otros contratos, convenios o concesiones que regulen aspectos del Proyecto distintos de la prestación de los servicios.
+30.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-30.- El Contrato deberá elaborarse con base en los elementos materia de la Autorización del Proyecto. Todos los elementos del Contrato, incluyendo la asignación de derechos y obligaciones de las partes bajo el mismo, deberán ser congruentes y consistentes con la descripción contenida en la documentación presentada para la Autorización del Proyecto.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO SEGUNDO. Disposiciones Generales
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+31.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-31.- El modelo de Contrato deberá contener, entre otros, los siguientes elementos:
-
-I. El plazo para dar inicio a la prestación de los servicios;
-
-II. El objeto, el cual consistirá en una descripción pormenorizada de los servicios, así como los parámetros de evaluación y supervisión aplicables a cada uno de ellos;
-
-III. La forma, plazo, términos y condiciones de pago;
-
-IV. Las causales de terminación anticipada y causas de rescisión del Contrato en que puedan incurrir cualesquiera de las partes;
-
-V. En su caso, las obligaciones que deban asumir la Unidad Contratante y el Proveedor en caso de terminación anticipada o rescisión del Contrato;
-
-VI. Los actos o hechos que puedan generar una modificación al precio del Contrato y la manera de calcular los incrementos o decrementos aplicables en términos de lo previsto en este Libro;
-
-VII. Las responsabilidades que asumirán las partes y, en su caso, las condiciones para cualquier pago que surjan de la mismas o la liberación de éstas;
-
-VIII. Las coberturas y seguros que serán contratados obligatoriamente por el Proveedor;
-
-IX. Las fórmulas y metodologías generales para la evaluación del cumplimiento de las obligaciones del Proveedor bajo el Contrato, incluyendo la aplicación de deducciones a los pagos que realice la Unidad Contratante;
-
-X. La previsión de que los derechos al cobro y las garantías bajo el Contrato puedan cederse, en su caso, a los acreedores que financien al Proveedor respecto del Proyecto sin necesidad de autorización posterior, y a otras personas previa autorización de la Secretaría;
-
-XI. Los medios de consulta y referencia a la solución de controversias prevista en este Libro, debiendo contemplar mecanismos previos de conciliación;
-
-XII. Las disposiciones relativas a la cesión que, en su caso, deba realizar el Proveedor conforme a la fracción II del artículo 16.65 de este Libro;
-
-XIII. La obligación del Proveedor de proporcionar la información relacionada con el Contrato que le solicite el Órgano Superior de Fiscalización del Estado de México, excepto aquella información protegida por derechos de autor, que constituya propiedad intelectual, patentes o secretos industriales, o que esté obligado el Proveedor a no divulgar; y
-
-XIV. La renuncia que haga el Proveedor a abstenerse de proporcionar información relacionada con el Contrato, excepto aquella información protegida por derechos de autor, que constituya propiedad intelectual, patente o secretos industriales, o que esté obligado el Proveedor a no divulgar.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+32.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-32.- El modelo de Contrato podrá prever que el precio se encuentre sujeto a ajustes anuales por virtud de variaciones en índices públicamente conocidos; o el precio de los insumos, siempre y cuando se establezca una metodología de comprobación de incrementos de precios que permita una determinación apropiada de los mejores precios disponibles en el mercado. En su caso, deberá especificarse en el modelo de Contrato el mecanismo de ajuste y/o el índice o índices aplicables.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+33.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-33.- El modelo de Contrato deberá estipular que los derechos de propiedad intelectual u otros derechos exclusivos que se deriven de los servicios contratados invariablemente se constituirán en favor del Estado. Lo anterior, salvo en el caso de que la Secretaría autorice expresamente en términos de la legislación aplicable que algún derecho exclusivo o derecho de propiedad intelectual permanezca en favor del Proveedor o cualesquiera de los contratistas o proveedores de éste.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+34.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-34.- Las Unidades Contratantes podrán a su elección y bajo su responsabilidad establecer garantías de cumplimiento y/o vicios ocultos por parte del Proveedor. Las garantías de cumplimiento y/o vicios ocultos que se otorguen se constituirán en favor de:
-
-I. El Estado a través de la Secretaría, cuando los contratos se celebren con las dependencias;
-
-II. Las entidades paraestatales, cuando los contratos se celebren con éstas; o
-
-III. En su caso, los Municipios según se establezca en el convenio de coordinación correspondiente.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+35.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-35.- El modelo de Contrato podrá prever la posibilidad de que el Proveedor subcontrate alguno o varios de los servicios materia del Proyecto, especificando, en su caso, las garantías de cumplimiento que los contratistas o subcontratistas deban otorgar.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+36.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-36.- El modelo de Contrato podrá prever penas convencionales a cargo del Proveedor por atraso en la fecha de inicio de la prestación de los servicios, en el entendido de que bajo ninguna circunstancia podrá prorrogarse el Contrato debido a retrasos que surjan por causas imputables al Proveedor.
-
-En el modelo de Contrato deberá establecerse que los Proveedores quedarán obligados ante la Unidad Contratante a responder de los defectos y vicios ocultos de los bienes y la calidad de los servicios, así como de cualquier otra responsabilidad en que pudieran incurrir, en los términos señalados en el Contrato respectivo y en la legislación aplicable.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+37.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-37.- En el caso de que los bienes con los que se prestarán los servicios materia del Proyecto sean propiedad del Proveedor, la Unidad Contratante podrá establecer en el modelo de Contrato:
+38.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-I. La transmisión de la propiedad de los mismos en favor de la Unidad Contratante o del ente u organismo público que éste designe al finalizar el Contrato y sin necesidad de retribución alguna, o
-
-II. La adquisición, forzosa u opcional, de dichos bienes por parte de la Unidad Contratante o del ente u organismo público que éste designe al finalizar el Contrato.
-
-El modelo de Contrato deberá contener, en su caso, las condiciones para ejercer la adquisición de bienes, así como la fórmula con que se determinará el precio de adquisición. En caso de que durante la vigencia del Contrato respectivo se presente alguno de los supuestos convenidos para dicha adquisición, ésta quedará sujeta a las disposiciones presupuestales aplicables en el momento de la operación.
-
-La adquisición de los bienes que se señalan en el párrafo anterior que en su caso realice la Unidad Contratante se considerará gasto de inversión.
-
-En ningún caso el Contrato tendrá por objeto principal la adquisición forzosa por parte de la Unidad Contratante de los bienes con los que se prestarán los servicios.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-38.- Las Unidades Contratantes podrán estipular en el modelo de Contrato mecanismos conciliatorios previos a las acciones legales procedentes.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO TERCERO. Del procedimiento de licitación pública
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+39.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-39.- La solicitud de Autorización del Modelo de Contrato se presentará ante la Secretaría a fin de que ésta pueda llevar a cabo la evaluación de dicha solicitud conforme al procedimiento establecido para tal efecto en el reglamento de este Libro. El modelo de Contrato que se presente para autorización de la Secretaría deberá ser consistente con el Proyecto correspondiente previamente autorizado por la Legislatura.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+40.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-40.- Una vez que la Secretaría autorice el modelo de Contrato, la Unidad Contratante podrá iniciar el procedimiento de adjudicación conforme al Titulo Cuarto de este Libro.
+41.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-Cualquier modificación que pudiere surgir como resultado de las juntas de aclaraciones o negociaciones del modelo de Contrato con los posibles Proveedores, deberá presentarse para autorización de la Secretaría en caso de que dicha modificación altere sustantivamente los términos presentados para la obtención de la Autorización del Modelo de Contrato, bajo la responsabilidad y discreción del administrador del Proyecto.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-41.- Si la Secretaría no resolviere la solicitud de modificación a que se refiere el artículo anterior en el plazo que al efecto establezca el reglamento de este Libro, la solicitud de modificación se entenderá aprobada.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ## TITULO CUARTO. De los procedimientos de adjudicación
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO CUARTO. De las excepciones a la licitación pública
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+42.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-42.- El Comité de Proyectos es un órgano colegiado con facultades de opinión, que tiene por objeto auxiliar a las Unidades Contratantes en la preparación y substanciación del procedimiento de adjudicación.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+43.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-43.- El Comité de Proyectos tendrá las funciones siguientes:
+44.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-I. Coadyuvar con la Unidad Contratante para dictaminar sobre la procedencia de los casos de excepción al procedimiento de licitación pública;
-
-II. Coadyuvar con la Unidad Contratante en los procedimientos de licitación, invitación restringida y adjudicación directa, hasta dejarlos en estado de dictar el fallo correspondiente;
-
-III. Coadyuvar con la Unidad Contratante para emitir los dictámenes de adjudicación;
-
-IV. Las demás que establezca el reglamento de este Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-44.- La integración, funcionamiento y atribuciones del Comité de Proyectos a que se refiere el presente capítulo se determinará en el reglamento de este Libro.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO PRIMERO. Generalidades
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+45.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-45.- Las Unidades Contratantes podrán llevar a cabo procedimientos de adjudicación bajo lo dispuesto en este Libro cuando se cuente previamente con:
-
-I. La Autorización del Proyecto a que hace referencia el Título Segundo Capitulo Tercero, de este Libro;
-
-II. La autorización de la Legislatura a que hace referencia el artículo 16.21;
-
-III. La Autorización del Modelo de Contrato a que hace referencia el Título Tercero Capítulo Tercero de este Libro; y
-
-IV. Las autorizaciones en materia presupuestal previstas en este Libro o en la demás legislación aplicable.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+46.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-46.- Las Unidades Contratantes, bajo su responsabilidad, podrán adjudicar los Contratos mediante los procedimientos de contratación que a continuación se señalan:
+47.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-I. Licitación pública;
-
-II. Invitación restringida; o
-
-III. Adjudicación directa.
-
-En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes. Con el objeto de llevar a cabo procesos transparentes, la Unidad Contratante deberá proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
-
-Con el objeto de brindar difusión y publicidad a los procesos de contratación de los Proyectos, la Secretaría pondrá a disposición pública la información correspondiente a las convocatorias y bases de las licitaciones y, en su caso, sus modificaciones; las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los Contratos adjudicados; ya sea por licitación, invitación restringida o adjudicación directa a través de medios de publicidad en términos del reglamento de este Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-47.- Los Contratos se adjudicarán, por regla general, a través de licitaciones públicas llevadas a cabo mediante convocatoria pública a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, eficiencia energética y el uso responsable del agua y del ambiente.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+48.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-48.- Las licitaciones públicas para un Proyecto podrán ser:
-
-I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana; o
-
-II. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera.
-
-Solamente se deberán llevar a cabo licitaciones internacionales, en los siguientes casos:
-
-a) Cuando resulte obligatorio conforme a lo establecido en los tratados internacionales de los que los Estados Unidos Mexicanos sea parte;
-
-b) Cuando, previa investigación de mercado que realice la Unidad Contratante, por sí o con la asesoría de terceros, no exista oferta suficiente de proveedores nacionales respecto a los servicios en cantidad o calidad requeridos, o sea conveniente en términos de precio, calidad, fuentes y/o condiciones de financiamiento o de oportunidad; y
-
-c) Cuando habiéndose realizado una licitación de carácter nacional, no se presente alguna propuesta o ninguna cumpla con los requisitos solicitados en las bases.
-
-En este tipo de licitaciones podrá negarse la participación a extranjeros, cuando con el país del cual sean nacionales no se tenga celebrado un tratado y ese país no conceda un trato recíproco a los licitantes, proveedores o a los servicios prestados por mexicanos.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+49.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-49.- Las convocatorias para un Proyecto deberán ser difundidas públicamente por la Unidad Contratante y contendrán:
-
-I. El nombre, denominación o razón social de la Unidad Contratante;
-
-II. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación y, en su caso, el costo y forma de pago de las mismas. Cuando las bases impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación. Igualmente, de así preverlo la convocatoria, los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que se establezcan para tal efecto;
-
-III. La fecha, hora y lugar de celebración de las etapas del acto de presentación y apertura de ofertas;
-
-IV. La indicación de si la licitación es nacional o internacional; y en caso de ser internacional, si se realizará o no bajo la cobertura del capítulo de compras del sector público de algún tratado, y el idioma o idiomas, además del español, en que podrán presentarse las ofertas;
-
-V. La descripción general del Proyecto y los servicios a contratarse;
-
-VI. Lugar, plazo y medio de entrega de ofertas; y
-
-VII. La indicación de que no podrán participar las personas que se encuentren en los supuestos del artículo 16.62 de este Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+50.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-50.- Las convocatorias se publicarán cuando menos en uno de los diarios de mayor circulación en la capital del Estado y en uno de los diarios de mayor circulación nacional, así como también a través de los medios electrónicos que establezca el reglamento de este Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+51.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-51.- Las bases que emita la Unidad Contratante para la licitación pública se pondrán a disposición de los interesados en el domicilio señalado por la Unidad Contratante, y, en caso de así preverlo las bases, a través de medios de difusión electrónica, a partir del día en que se publique la convocatoria y hasta, inclusive, el décimo día hábil previo al acto de presentación y apertura de ofertas, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente durante este periodo. Las bases contendrán los requisitos que se señalen en el reglamento de este Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+52.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-52. La Unidad Contratante, siempre que ello no tenga por objeto limitar el número de Licitantes, podrá modificar los plazos u otros aspectos establecidos en la convocatoria, en las bases de licitación o en el modelo de Contrato, a partir de la fecha en que sea publicada la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de ofertas, siempre que:
-
-I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación; y
-
-II. En el caso de las bases de la licitación y/o el modelo de Contrato, se publique un aviso en la Gaceta del Gobierno a fin de que los interesados concurran ante la propia Unidad Contratante para conocer, de manera específica, las modificaciones respectivas.
-
-No será necesario hacer la publicación del aviso a que se refiere la fracción II anterior cuando las modificaciones deriven de una junta de aclaraciones, siempre que, a más tardar dentro del plazo señalado en este artículo, se entregue copia del acta respectiva a cada uno de los Licitantes que haya participado en la junta de aclaraciones en donde se haya realizado el aviso y dicha acta se encuentre a disposición de cualquier interesado en el domicilio establecido para tal efecto por la Unidad Contratante en las bases.
-
-Las modificaciones de que trata este artículo en ningún caso podrán consistir en la sustitución de los principales servicios convocados originalmente, adición de otros con naturaleza distinta al Proyecto o en variación significativa de sus características.
-
-Cualquier modificación a las bases de la licitación o al modelo de Contrato, derivada del resultado de la o las junta(s) de aclaraciones, será considerada como parte integrante de las propias bases de licitación o del modelo de Contrato, según corresponda.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+53.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-53.- La entrega de ofertas se hará en dos sobres cerrados que contendrán, por separado, la propuesta técnica y la propuesta económica. La Unidad Contratante en las bases de licitación podrá autorizar también la entrega de ofertas a través de medios remotos de comunicación electrónica.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+54.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-54.- Dos o más personas físicas o jurídicas colectivas podrán presentar conjuntamente ofertas en las licitaciones sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas jurídicas colectivas, siempre que, para tales efectos, en la propuesta se establezcan con precisión las obligaciones que asume cada una de ellas y la manera en que se exigiría el cumplimiento de las mismas. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto y para todos los efectos de la licitación y, en su caso, el Contrato, haya sido designado por el grupo de personas.
-
-De adjudicarse el Contrato a un grupo de personas que hayan presentado oferta en términos de lo previsto en este artículo, el Contrato especificará las obligaciones de cada persona, en el entendido que su responsabilidad será solidaria.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+55.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-55.- El acto de presentación y apertura de ofertas se llevará a cabo en dos etapas conforme al procedimiento que establezca el reglamento de este Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+56.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-56.- Para hacer la evaluación de las ofertas la Unidad Contratante deberá verificar que las mismas cumplan con los requisitos solicitados en las bases de la licitación.
-
-No serán objeto de evaluación, las condiciones establecidas por la Unidad Contratante que tengan como propósito facilitar la presentación de las ofertas y agilizar la conducción de los actos de la licitación; así como cualquier otro requisito cuyo incumplimiento, por sí mismo, no afecte la solvencia de las propuestas. La inobservancia por parte de los Licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus propuestas. No obstante lo anterior, si a juicio de la Unidad Contratante alguna información no puede ser evaluada salvo que se presente en medio electrónico, lo hará del conocimiento de los Licitantes en las bases y dicho requisito será obligatorio y de no presentarse ocasionará el desechamiento de la propuesta.
-
-En la evaluación de las ofertas podrán utilizarse mecanismos de puntos o porcentajes siempre y cuando la ponderación de la propuesta económica no sea menor al treinta por ciento.
-
-En caso de que se utilice el mecanismo de puntos y porcentajes para la evaluación de propuestas, la adjudicación del Contrato será para el Licitante con mayor puntaje de acuerdo al sistema establecido en las bases de licitación.
-
-En caso de no utilizar un mecanismo de puntos y porcentajes, el Contrato se adjudicará de entre los Licitantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la Unidad Contratante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas. Si resultare que dos o más ofertas son solventes porque satisfacen la totalidad de los requerimientos solicitados por la Unidad Contratante, el Contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo, calculando dicho precio conforme a la determinación de precios previstos en los lineamientos y metodología para el Análisis Costo-Beneficio que emita la Secretaría.
-
-El administrador del Proyecto o en su caso, el Comité de Proyectos emitirá un dictamen que servirá como base para el fallo que deberá emitir la Unidad Contratante, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las ofertas y las razones para admitirlas o desecharlas.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+57.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-57.- En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los Licitantes que hubieren participado en el acto de presentación y apertura de ofertas, levantándose el acta respectiva que firmarán los asistentes, a quienes se entregará copia de la misma. La inasistencia o falta de firma de algún Licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de su notificación. En sustitución de esa junta, la Unidad Contratante podrá optar por notificar el fallo de la licitación y cualquier otra información relacionada con el mismo por escrito a cada uno de los Licitantes, dentro de los cinco días naturales siguientes a su emisión.
+58.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-En el mismo acto del fallo, la Unidad Contratante proporcionará por escrito a los Licitantes la información acerca de las razones por las cuales su propuesta no resultó ganadora.
-
-Contra la resolución que contenga el fallo procederá la inconformidad que se interponga por los Licitantes en los términos del Título Octavo de este Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-58.- La Unidad Contratante procederá a declarar desierta una licitación cuando ninguna de las ofertas presentadas reúnan los requisitos de las bases de la licitación o sus precios no fueren aceptables por no alcanzar el beneficio que resultare de desarrollar el Proyecto previsto en el Análisis Costo-Beneficio.
-
-La Unidad Contratante podrá cancelar una licitación por caso fortuito o fuerza mayor. De igual manera, podrá cancelar una licitación cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad para contratar la prestación de los servicios, y que de continuarse con el procedimiento de adjudicación se pudiera ocasionar un daño o perjuicio a la propia Unidad Contratante o al Estado.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+59.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-59.- La Unidad Contratante podrá optar por no llevar a cabo el procedimiento de licitación pública y celebrar el Contrato a través de los procedimientos de invitación restringida o de adjudicación directa cuando:
-
-I. Se realice una licitación pública que haya sido declarada desierta;
-
-II. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado como consecuencia de desastres producidos por fenómenos naturales;
-
-III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes debidamente justificados;
-
-IV. Se hubiere rescindido el Contrato por causas imputables al Proveedor que hubiere resultado ganador en una licitación;
-
-V. El Contrato sólo pueda celebrarse con una determinada persona por ser titular de cierta propiedad intelectual u otros derechos exclusivos; o
-
-VI. Existan razones justificadas para que, por la especialidad de los servicios, deba prestarlos una persona determinada.
-
-La selección del procedimiento que realice la Unidad Contratante deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado. El acreditamiento de los criterios mencionados y la justificación de las razones para el ejercicio de la opción, deberá constar en escrito firmado por el titular de la Unidad Contratante y en su caso, el Comité de Proyectos que haya dictaminado la excepción.
-
-En cualquier supuesto se invitará a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, y cuyas actividades comerciales o profesionales estén relacionadas con los servicios objeto del Proyecto.
-
-Las disposiciones del Título Cuarto, Capitulo Tercero de este Libro serán aplicables a este Capítulo, en lo que no se contrapongan con el mismo.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+60.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-60.- El procedimiento de invitación restringida se sujetará a lo siguiente:
-
-I. El acto de presentación y apertura de ofertas se llevará a cabo en un solo acto público al cual podrán asistir los correspondientes Licitantes;
-
-II. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres propuestas susceptibles de analizarse;
-
-III. En las invitaciones se entregará el modelo de Contrato;
-
-IV. Los plazos para la presentación de las ofertas se fijarán en la invitación;
-
-V. Deberán establecerse en la invitación los términos de referencia de las propuestas técnicas y deberá describirse el sistema de evaluación de las propuestas, aplicándose lo dispuesto para evaluación de ofertas de licitaciones públicas en términos de este Libro;
-
-VI. Se desecharán las ofertas cuya propuesta económica no presente un beneficio para la Unidad Contratante en términos del Análisis Costo-Beneficio;
-
-VII. En caso de no suscribirse el Contrato con el Licitante ganador, por causas imputables a éste, dentro de los treinta días naturales siguientes al fallo, podrá la Unidad Contratante adjudicar el Contrato al Licitante que haya quedado en segundo lugar y así sucesivamente, salvo que su propuesta económica no presente beneficio para la Unidad Contratante en términos del Análisis Costo-Beneficio; y
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+61.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-61.- Sólo podrá adjudicarse directamente un Contrato cuando se cuente con la aprobación de la Legislatura para ese efecto, se esté en los supuestos establecidos por el artículo 16.59; y que el precio del Contrato cumpla con lo dispuesto en los lineamientos emitidos conforme a lo previsto en el artículo 16.22 de este Libro.
+62.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-62.- Las Unidades Contratantes se abstendrán de recibir propuestas o celebrar un Contrato para un Proyecto con las personas siguientes:
-
-I. Aquéllas en que algún servidor público que intervenga en cualquier etapa del procedimiento de adjudicación tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar algún beneficio para dicho servidor público, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte;
-
-II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
-
-III. Aquellos proveedores que, conforme al Registro que para tal efecto lleve la Contraloría, se encuentren en situación de incumplimiento respecto de otro u otros contratos de Proyecto o en términos de los Libros Décimo Segundo y Décimo Tercero de este Código, siempre y cuando el incumplimiento pudiere ocasionar la rescisión de dicho Contrato o que constantemente tenga un desempeño no deseable;
-
-IV. Aquellas que estén sujetas a concurso de acreedores;
-
-V. Aquellas que ya participen o cuyas afiliadas, subsidiarias o matrices ya participen en la licitación que corresponda;
-
-VI. Las que pretendan participar en un procedimiento de adjudicación cuando hayan realizado, se encuentren realizando o las personas que participaron en la elaboración de sus ofertas se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, trabajos de análisis, preparación de especificaciones, presupuesto o la elaboración de cualquier documento vinculado con el Proyecto materia de la licitación o invitación en que estén interesadas en participar. Tampoco se recibirán propuestas de aquellas personas que reciban directamente, o a través de las personas que participan con ellos en la elaboración de su oferta, información confidencial o privilegiada respecto del Proyecto materia de la licitación o invitación en la que pretendan participar;
-
-VII. Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte;
-
-VIII. Las que celebren contratos sobre la materia regulada por este Libro sin estar facultadas para hacer uso de derechos de propiedad intelectual que se hayan especificado como necesarios para el Proyecto;
-
-IX. A las que la Federación, el Estado, cualquier entidad federativa de los Estados Unidos Mexicanos o el Distrito Federal les hayan rescindido por causas imputables a dichas personas algún contrato de obra, servicios o similares a los Proyectos dentro de los últimos cinco años;
-
-X. Las que reciban en cualquier forma información confidencial o privilegiada respecto del Proyecto en proceso de licitación; y
-
-XI. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ## TITULO QUINTO. De la adjudicación, celebración y aplicación de los contratos
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+###### Artículo 16.
+
+63.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-63.- La adjudicación del Contrato obligará a la Unidad Contratante y a la persona en quien hubiere recaído la adjudicación, a formalizar el Contrato en términos del modelo autorizado en la forma prevista en este Libro dentro del plazo y bajo las modalidades que establezca el reglamento de este Libro.
-
-El atraso de la Unidad Contratante en la formalización del Contrato prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Articulo 16.
-
-64.- En caso de que por causas imputables al Licitante al que se le haya adjudicado el Contrato, éste no celebre el mismo dentro del plazo correspondiente, sin perjuicio de la responsabilidad que asuma dicho Licitante en términos de este Libro, el Contrato podrá ser adjudicado al segundo lugar de la licitación y así sucesivamente, siempre y cuando la propuesta económica de éste siga representando un beneficio para la Unidad Contratante de conformidad con el Análisis Costo-Beneficio.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+64.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-65.- Los derechos y obligaciones que se deriven de los Contratos no podrán cederse en forma parcial ni total en favor de cualquier otra persona, salvo en los casos siguientes:
-
-I. Podrán cederse los derechos de cobro y garantías derivados de los Contratos en favor de los acreedores del Proveedor que hayan otorgado financiamiento para el Proyecto; y
-
-II. De tener lugar alguna causal que pudiere generar la rescisión administrativa del Contrato, la Unidad Contratante, previa consulta y autorización de la Secretaría, rescindirá administrativamente el Contrato y pagará la indemnización prevista en el Contrato para tal evento, o exigirá que el Proveedor realice una cesión de los derechos y/o obligaciones derivados del Contrato a una tercera persona que autorice expresamente la Unidad Contratante. En caso de cesión, el Proveedor deberá entregar a la Unidad Contratante, de la contraprestación que obtenga de la cesión, una cantidad equivalente a los gastos en los que haya incurrido la Unidad Contratante respecto del Proyecto debido al incumplimiento del Proveedor.
-
-III. Que se cuente con la autorización correspondiente por parte de la Secretaría conforme a los lineamientos que se establezcan en el reglamento de este Libro.
-
-La Unidad Contratante podrá autorizar que el Proveedor otorgue derechos en favor de sus acreedores que hayan financiado, total o parcialmente, el Proyecto, para que dichos acreedores puedan tomar el control del Proveedor en caso de que éste incumpla el Contrato o los documentos de financiamiento.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+65.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-66.- La Unidad Contratante no otorgará anticipos, bajo cualquier denominación, en los Contratos a menos que se demuestre que tiene un impacto positivo significativo en el Análisis Costo-Beneficio, ni deberá pactar pagos anteriores al momento en que el Proveedor realice la prestación de los servicios.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+66.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-67.- La fecha de pago al Proveedor que la Unidad Contratante estipule en el Contrato quedará sujeta a las condiciones que establezca el mismo; sin embargo, no podrá exceder de cuarenta y cinco días naturales posteriores a la presentación de la factura respectiva, previa prestación de los servicios en los términos del Contrato.
+67.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-La Unidad Contratante tendrá derecho de compensar cantidades que le adeude el Proveedor contra cantidades que dicha Unidad Contratante a su vez adeude al Proveedor, únicamente respecto de algún Proyecto en particular.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+###### Artículo 16.
+
+68.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-68.- La Unidad Contratante, previa autorización de la Secretaría, podrá rescindir administrativamente el Contrato en caso de incumplimiento de las obligaciones a cargo del Proveedor que conforme al Contrato se hayan estipulado como causales de rescisión. A efecto de poder llevar a cabo la rescisión administrativa, la Unidad Contratante deberá solicitar la autorización correspondiente de la Secretaría dentro de los diez días naturales siguientes a aquél en que se hubiere agotado cualquier periodo otorgado al Proveedor en el Contrato para subsanar incumplimientos. Si previamente a la determinación de dar por rescindido el Contrato, se subsana el incumplimiento correspondiente, el procedimiento quedará sin efecto.
-
-En caso de incumplimiento de la Unidad Contratante y siempre que ésta dependa del Ejecutivo o de los Ayuntamientos, el Proveedor podrá demandar la rescisión ante el Tribunal de lo Contencioso Administrativo. Tratándose de los poderes Legislativo y Judicial y de los organismos autónomos, el Proveedor podrá demandar la rescisión ante la autoridad judicial competente.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+69.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-69.- La Unidad Contratante, previa autorización de la Secretaría, podrá dar por terminado anticipadamente el Contrato cuando concurran razones de interés general, eventos de caso fortuito o fuerza mayor que afecten la prestación de los servicios o bien, cuando por causas justificadas se extinga la necesidad de requerir los servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al Estado.
+70.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 16.
-
-70.- En todos los casos de rescisión o de terminación anticipada del Contrato, la Unidad Contratante deberá elaborar un finiquito dentro de los diez días hábiles siguientes a que surta efectos la rescisión y podrá pagar una indemnización al Proveedor de conformidad con las fórmulas que establezca el Contrato al respecto. Las fórmulas de pago no podrán prever pagos en exceso de los costos, ya sean de capital, financieros, de operación o de inversión asociados con el Proyecto. En el caso de pago de indemnizaciones, la Unidad Contratante deberá prever los plazos de pago, mismos que deberán ser autorizados por la Secretaría en la Autorización del Modelo de Contrato.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ## TITULO SEXTO. De la información
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -13527,29 +13043,21 @@ En caso de incumplimiento de la Unidad Contratante y siempre que ésta dependa d
 
 ###### Artículo 16.
 
-71.- En el ámbito del Poder Ejecutivo y de los Ayuntamientos, las Unidades Contratantes deberán remitir a la Contraloría y a la Secretaría la información relativa a los actos y contratos materia de este Libro que dichas Secretarías, en el ámbito de sus respectivas atribuciones, le indiquen a la Unidad Contratante. Los poderes Legislativo y Judicial y organismos autónomos harán lo propio con sus órganos de control interno.
-
-Salvo por la información que de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de México se considere como información reservada o confidencial, toda la información y documentación relacionada con los Proyectos será de carácter pública y las Unidades Contratantes estarán obligadas a tratarla como tal garantizando el acceso a la información pública a cualquier persona.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+71.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-72.- Los órganos de control interno y el Órgano Superior de Fiscalización del Estado de México, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo que la prestación de los servicios se realice conforme a lo establecido en este Libro o en otras disposiciones aplicables.
-
-Los órganos de control interno y el Órgano Superior de Fiscalización del Estado de México podrán realizar las visitas e inspecciones que estimen pertinentes a las Unidades Contratantes que ejecuten un Proyecto, e igualmente podrán solicitar a los servidores públicos y a los Proveedores que participen en ellos todos los datos e informes relacionados con los actos de que se trate, pudiendo solicitarle rendición de cuentas a la Unidad Contratante en cualquier momento. En caso de que los Órganos de Control Interno o la Secretaría detecten que en el desarrollo del Proyecto no existe cumplimiento o congruencia con los términos de la Autorización del mismo o del Contrato, los órganos de control interno contando con la opinión de la Secretaría podrán exigirle a la Unidad Contratante que lleve a cabo la terminación anticipada del Contrato por constituir un perjuicio al Estado.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+72.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-73.- Las Unidades Contratantes deberán cumplir en todo momento con las disposiciones de transparencia y publicidad aplicables a los Contratos y Proyectos.
+73.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ## TITULO SEPTIMO. De las infracciones y sanciones
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -13557,43 +13065,21 @@ Los órganos de control interno y el Órgano Superior de Fiscalización del Esta
 
 ###### Artículo 16.
 
-74.- Los licitantes o proveedores que infrinjan las disposiciones de este Libro, serán sancionados por los órganos de control interno con multa equivalente a una cantidad de entre cincuenta y mil veces el valor diario de la Unidad de Medida y Actualización vigente elevado al mes, en la fecha de la infracción.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+74.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-75.- Además de la sanción a que se refiere el artículo anterior, los órganos de control interno podrán inhabilitar temporalmente para participar en procedimientos de contratación de Proyectos o celebrar Contratos a los Licitantes o Proveedores que se ubiquen en alguno de los supuestos siguientes:
-
-I. Los Licitantes que injustificadamente y por causas imputables a los mismos no formalicen un Contrato adjudicado;
-
-II. Los Licitantes o Proveedores que se encuentren en algún supuesto de los previstos en el artículo 16.62 de este Libro; y
-
-III. Los Licitantes o Proveedores que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de adjudicación, en la celebración del Contrato o durante su vigencia, o bien, en la presentación o desahogo de una queja en una audiencia de una inconformidad.
-
-La inhabilitación que se imponga no será menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que se haga del conocimiento público mediante la publicación de la circular respectiva en la Gaceta del Gobierno.
-
-La Unidad Contratante, dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de este Libro, remitirá a su órgano de control interno la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+75.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-76.- Los órganos de control interno impondrán las sanciones considerando:
+76.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
-I. Los daños o perjuicios que se hubieren producido o puedan producirse;
-
-II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
-
-III. La gravedad o circunstancia de la infracción; y
-
-IV. La situación específica del infractor.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ## TITULO OCTAVO. De la Instancia de Inconformidad
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -13601,69 +13087,19 @@ IV. La situación específica del infractor.
 
 ###### Artículo 16.
 
-77.- Los participantes en un procedimiento de licitación pública o invitación restringida podrán promover inconformidad administrativa en contra del procedimiento de licitación o invitación, por contravención a las disposiciones de este Libro, o su reglamento, siempre que se trate del mismo procedimiento en el que hayan participado como Licitantes.
-
-La inconformidad administrativa se presentará ante los respectivos órganos de control interno, según sea el caso, por escrito o por vía electrónica, dentro de los diez días hábiles siguientes a la fecha en que se dé a conocer públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de adjudicación, o, en su defecto, al día en que le haya sido notificado el fallo de adjudicación.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+77.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-78.- El escrito de inconformidad deberá contener los datos siguientes:
-
-I. Nombre del inconforme o de quien promueva en su representación;
-
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
-
-II. Domicilio en el Estado de México o correo electrónico para recibir notificaciones;
-
-III. El motivo de inconformidad;
-
-IV. La fecha de celebración del acto de adjudicación o de la notificación del fallo;
-
-V. Bajo protesta de decir verdad, los hechos que sustenten la inconformidad;
-
-VI. Las disposiciones legales violadas,
-
-VII. Las pruebas que ofrezca;
-
-> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
-
-VIII. La solicitud de suspensión del acto motivo de inconformidad, en su caso.
-
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
-
-El inconforme deberá adjuntar a su escrito el documento que acredite su personalidad, cuando no gestione a nombre propio, así como los documentos que ofrezca como prueba. Los documentos antes mencionados podrán presentarse en formato físico o electrónico.
-
-(ADICIONADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
-
-Para el caso de la entrega de documentos electrónicos, si el funcionario encargado de la tramitación de la inconformidad tiene un motivo fundado de que los documentos electrónicos anexados son falsos, deberá requerir al interesado para que en un plazo no mayor a cinco días hábiles, el solicitante acuda a la oficina del órgano de control interno correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
-
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
-
-Si los solicitantes otorgan documentos falsos, ya sea en formatos físicos o electrónicos, el funcionario encargado de la tramitación de la inconformidad deberá dar vista al Ministerio Público para los efectos conducentes.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+78.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-79.- La inconformidad administrativa suspenderá el procedimiento de adjudicación o la contratación en su caso, cuando:
-
-I. Lo solicite el inconforme, siempre que garantice a entera satisfacción del órgano de control interno respectivo, según sea el caso, los daños o perjuicios que se puedan ocasionar a la hacienda pública o al Licitante que haya resultado ganador;
-
-II. Lo solicite la Unidad Contratante, por considerar que de no suspender la contratación o ejecución de la obra o servicio, se puedan ocasionar mayores daños o perjuicios al erario estatal.
-
-En todo caso, la suspensión se otorgará cuando no se siga perjuicio al interés social o se contravengan disposiciones de orden público.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+79.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 ###### Artículo 16.
 
-80.- El órgano de control interno respectivo, según sea el caso, podrán requerir información a las Unidades Contratantes, quienes deberán remitirla dentro del plazo de cinco días hábiles siguientes a la recepción del requerimiento correspondiente.
-
-El órgano de control interno respectivo, según sea el caso, notificará la interposición de la inconformidad administrativa a los Licitantes que hayan resultado ganadores, para que dentro del plazo de cinco días hábiles, concurran a exponer lo que a sus intereses convenga.
-
-En las materias reguladas en el presente Libro no procederá el recurso administrativo de inconformidad previsto en el Código de Procedimientos Administrativos del Estado de México.
+80.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 2 DE AGOSTO DE 2018)
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -19290,3 +18726,21 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 2 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 310.- POR EL QUE SE EXPIDE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se deroga el Libro Décimo Sexto del Código Administrativo del Estado de México y se abroga su Reglamento.
+
+CUARTO. Los proyectos de prestación de servicios que hayan sido contratados y se encuentren vigentes al amparo del Libro Décimo Sexto del Código Administrativo y su Reglamento, a la entrada en vigor del presente Decreto, continuarán rigiéndose conforme a las disposiciones vigentes al momento de su inicio y hasta su total conclusión.
+
+QUINTO. El Ejecutivo del Estado, para la expedición del Reglamento correspondiente, contará con un plazo de noventa días hábiles a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Se autoriza a la Secretaría, para constituir un fideicomiso de administración y fuente de pago o modificar el Fideicomiso Público de Administración del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, para el cumplimiento de los fines de esta Ley.
+
+SÉPTIMO. Los Municipios para la aplicación de esta Ley, deberán emitir las disposiciones complementarias y aquéllas que permitan homologar conforme a sus estructuras y facultades, las instancias competentes para el cumplimiento de la misma.
