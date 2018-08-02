@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2018-02-17"
+last_updated: "2018-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -179,11 +179,11 @@ Tratándose de la orden de publicación de leyes o decretos expedidos por el Con
 
 Para su obligatoriedad, todas las disposiciones de carácter general que sean expedidas por las Dependencias y Entidades del Ejecutivo Estatal, deberán ser publicadas en el Periódico Oficial del Gobierno del Estado, conforme al artículo 4, de la Ley de Justicia Administrativa para el Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 17.
 
-De acuerdo con las disposiciones aplicables, al tomar posesión del cargo, los servidores públicos deberán registrar su firma en la Secretaría General de Gobierno, y otorgar fianza cuando las leyes así lo establezcan.
+Los servidores públicos, que de acuerdo a sus funciones y a las disposiciones aplicables que así lo requieran, al tomar posesión del cargo deberán registrar su firma y sello en la Consejería Jurídica del Gobierno del Estado, y otorgar fianza cuando las leyes así lo establezcan; del mismo modo los notarios públicos en ejercicio de la función notarial registrarán sus firmas y sellos.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -289,7 +289,9 @@ V. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
 
 VI. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
 
-VII. Secretaría de Vialidad y Transporte;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2018)</small>
+
+VII. Secretaría de Movilidad;
 
 VIII. Secretaría de las Culturas y Artes de Oaxaca;
 
@@ -691,99 +693,121 @@ XXII. Las demás que en el ámbito de su competencia le confiera directamente el
 
 (DEROGADO, P.O. 17 DE OCTUBRE DE 2016)
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 40.
 
-A la Secretaría de Vialidad y Transporte le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Movilidad le corresponde el despacho, estudio, resolución y planeación de los siguientes asuntos:
 
-I. Regular y controlar la prestación de los servicios de transporte de pasajeros y de carga en el territorio del Estado de Oaxaca, en todas sus modalidades, así como el equipamiento auxiliar de transporte, sea cualesquiera el tipo de vehículos y sus sistemas de propulsión, a fin de que de manera regular, permanente, continua, uniforme e ininterrumpida se satisfagan las necesidades de la población;
+I. Proponer al Gobernador del Estado las políticas, programas y normatividad relativos a la movilidad en la entidad;
 
-II. Proponer al Gobernador del Estado las políticas, normatividad y programas relativos a vialidad y transporte en la entidad;
+II. Celebrar convenios de colaboración en materia de movilidad, vialidad y transporte con los gobiernos federal, estatal y municipal, a fin de lograr el mejoramiento y modernización del sector;
 
-III. Promover y vigilar que los servicios de transporte de pasajeros y de carga en el Estado de Oaxaca, se efectúen con apego a la Ley de la materia;
+III. Coordinar los programas de Movilidad, Transporte y Vialidad en la entidad, que realice directamente o en forma concertada con la federación o los municipios;
 
-IV. Conocer, iniciar e instruir los trámites para otorgar, revocar, cancelar, suspender, modificar, prorrogar, renovar, aprobar y dar por terminadas, según corresponda, las concesiones, permisos y autorizaciones, que otorgue el titular del Ejecutivo, en términos de la Ley de la materia, para la explotación del servicio público de transporte en el Estado de acuerdo a los términos legales y requisitos establecidos en las propias concesiones o permisos otorgados;
+IV. Regular, dirigir, planear y controlar el uso adecuado y funcional de las comunicaciones terrestres y del servicio de transporte en el Estado;
 
-V. Expedir la documentación para la prestación del servicio de transporte y vialidad, prevista en la ley y reglamento de la materia;
+V. Realizar las tareas relativas a la ingeniería de tránsito y transporte en el Estado, autorizando las modificaciones e interrupciones temporales a las mismas con motivo de la realización de obras y eventos públicos o privados, coordinando las acciones que deban llevarse a cabo para su debida atención;
 
-VI. Establecer, administrar, resguardar y mantener actualizado el registro y control de las concesiones, permisos y autorizaciones que de conformidad con la legislación aplicable le corresponda otorgar a la Secretaría; para estos efectos, se coordinará con la Secretaría de Finanzas;
+VI. Proponer a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable las políticas y programas relativos a la construcción y mantenimiento de obras de transporte y vialidad;
 
-VII. Aplicar las sanciones previstas en las disposiciones legales y reglamentarias en la materia de su competencia y dar seguimiento a la aplicación de las que correspondan a otras autoridades, así como, resolver los recursos de quejas que le presenten, de conformidad con las disposiciones legales correspondientes;
+VII. Promover, vigilar y planear que los servicios de transporte de pasajeros y de carga en el Estado de Oaxaca, se efectúen con apego a la Ley de la materia;
 
-VIII. Emitir acuerdos, circulares y demás disposiciones en el ámbito de su competencia, para la aplicación de las leyes en la materia;
+VIII. Conocer, iniciar e instruir los trámites y procedimientos para otorgar, negar, revocar, cancelar, suspender, modificar, prorrogar, renovar, aprobar y dar por terminadas, según corresponda, las concesiones y permisos, para la explotación del servicio público de transporte en el Estado, que otorgue el Gobernador del Estado, en términos de la Ley de la materia;
 
-IX. Expedir tarjetas de circulación de transporte público y particular. En los casos de los servicios del transporte público, revisar y, en su caso, autorizar la documentación del solicitante y de ser procedente entregar los documentos previstos en la Ley de la materia, tales como título de concesión, cesión de concesión, tarjetón de concesión, tarjeta de circulación, engomado alfanumérico y placas de circulación, entre otros; así como, autorizar y entregar los permisos, placas y tarjetas de circulación y engomado alfanumérico del transporte público, previstos en la ley de la materia, en coordinación con las instancias gubernamentales que se requieran;
+IX. Expedir la documentación para la prestación del servicio de transporte y vialidad, prevista en la Ley y los reglamentos de la materia de movilidad;
 
-X. Expedir licencias de manejo para conductores particulares y del servicio público estatal y llevar a cabo las acciones de emplacamiento vehicular y la emisión de permisos y tarjetas de circulación;
+X. Dirigir, coordinar y controlar la ejecución de programas relativos a la construcción y reparación de las obras de transporte y vialidad, en coordinación con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable, así como, evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social y aseguren el cumplimiento de las disposiciones en materia de impacto ambiental y de riesgo para la población;
 
-XI. Realizar a través de las normas legales necesarias la certificación de conductores en materia de transporte público y particular, garantizando el cumplimiento de los requisitos en materia de aptitudes físicas y psicológicas con lo dispuesto en las leyes vigentes;
+XI. Realizar los estudios necesarios sobre transporte y circulación multimodal, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida y a la seguridad, a la protección del ambiente, comodidad y rapidez en el transporte de personas y de carga;
 
-XII. Diseñar, normar, organizar, instaurar, integrar, operar, manejar y actualizar el Registro Público Estatal del sistema de transporte en el Estado y establecer el Programa Estatal de Acreditación y Certificación de conductores y operadores del sistema de transporte público;
+XII. Establecer, administrar, resguardar y mantener actualizado el registro y control de las concesiones y permisos; así como las autorizaciones para el servicio especial, que de conformidad con la legislación aplicable le corresponda otorgar a la Secretaría, en coordinación con la Secretaría de Finanzas;
 
-XIII. Coordinar los programas de Transporte y Vialidad en la entidad, que realice directamente o en forma concertada con la federación o los municipios;
+XIII. Llevar a cabo los estudios para determinar, con base en ellos, las medidas técnicas y operaciones de todos los medios de transporte urbano;
 
-XIV. Elaborar los planes, estudios y proyectos directamente, en coordinación con la federación y/o los municipios, otras dependencias e instituciones, o a través de terceros, orientados a sustentar el otorgamiento de concesiones y permisos del transporte público, así como, en materia de mejoramiento del sistema del Transporte y vialidad dentro del ámbito de su competencia;
+XIV. Aplicar las sanciones previstas en las disposiciones legales y reglamentarias en la materia de su competencia y dar seguimiento a la aplicación de las que correspondan a otras autoridades, así como, resolver los medios de defensa que le presenten, de conformidad con las disposiciones legales correspondientes;
 
-XV. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzca a la más eficaz protección de la vida, y a la seguridad, comodidad y fluidez en el transporte público y particular;
+XV. Iniciar, integrar y resolver los procedimientos administrativos establecidos en la Ley de la materia y sus reglamentos;
 
-XVI. Realizar las acciones de planeación, programación y presupuesto para el mejoramiento de la infraestructura y la modernización del sistema de vialidad y transporte en la Entidad, así como de los servicios auxiliares;
+XVI. Emitir acuerdos, circulares y demás disposiciones en el ámbito de su competencia, para la aplicación de las leyes y reglamentos en la materia;
 
-XVII. Coadyuvar con las autoridades Federales, estatales y municipales en la planeación, elaboración y desarrollo de proyectos de Vialidad y transporte en la entidad;
+XVII. Expedir tarjetas de circulación de transporte público y particular. En los casos de los servicios del transporte público, revisar y, en su caso, autorizar la documentación del solicitante y de ser procedente entregar los documentos previstos en la Ley de la materia, tales como título de concesión, cesión de concesión, tarjetón de concesión, tarjeta de circulación, engomado alfanumérico y placas de circulación, entre otros; así como, autorizar y entregar los permisos, placas y tarjetas de circulación y engomado alfanumérico del transporte público, previstos en la Ley de la materia, en coordinación con las instancias gubernamentales que se requieran;
 
-XVIII. Fijar normas técnicas para el funcionamiento y operación de los servicios de vialidad y transporte de la entidad;
+XVIII. Expedir licencias de manejo para conductores particulares y del servicio público estatal y llevar a cabo las acciones de emplacamiento vehicular y la emisión de permisos y tarjetas de circulación;
 
-XIX. Promover y fomentar la participación de los diversos sectores de la sociedad, con el objeto de construir y llevar a cabo las acciones necesarias para dar solución a la problemática en materia de vialidad, transporte y servicios auxiliares;
+XIX. Realizar a través de las normas legales necesarias la certificación de conductores en materia de transporte público y particular, garantizando el cumplimiento de los requisitos en materia de aptitudes físicas y psicológicas con lo dispuesto en las leyes vigentes;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+XX. Diseñar, normar, organizar, instaurar, integrar, operar, manejar y actualizar el Registro Público Estatal del Sistema de Transporte en el Estado y establecer el Programa Estatal de Acreditación y Certificación de conductores y operadores del sistema de transporte público;
 
-XX. Coadyuvar con la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, en la implementación del programa estatal de verificación vehicular sobre emisiones contaminantes;
+XXI. Aplicar la Ley de la materia y sus reglamentos, las normas técnicas y operativas para el tránsito de vehículos en las poblaciones, carreteras y caminos del Estado, así como reglamentar lo conducente y proponer planes de mejora y reordenamientos viales;
 
-XXI. Regular, autorizar e inspeccionar la publicidad en el servicio de transporte, así como, imponer las sanciones en caso de incumplimiento de acuerdo con las normas jurídicas y administrativas correspondientes;
+XXII. Regular y controlar la prestación de los servicios de transporte de pasajeros y de carga en el Estado de Oaxaca, en todas sus modalidades, así como, el equipamiento auxiliar de transporte, sea cualesquiera el tipo de vehículos y sus sistemas de propulsión, a fin que de manera regular, permanente, continua, uniforme e ininterrumpida se satisfagan las necesidades de la población;
 
-XXII. Convocar, integrar y conducir el Consejo Estatal de Transporte Público y Vialidad;
+XXIII. Coordinar las actividades en materia de movilidad, vialidad y transporte con las autoridades federales, estatales y municipales, así como con las entidades paraestatales o empresas subrogatarias cuya competencia u objeto se relacione con estas materias;
 
-XXIII. Diseñar y promover esquemas de financiamiento para la modernización del parque vehicular del sistema del transporte público y los mecanismos de aseguramiento de cobertura de riesgo para los pasajeros usuarios de dicho sistema;
+XXIV. Elaborar los planes, estudios y proyectos directamente, en coordinación con las autoridades federales y/o municipales, otras dependencias e instituciones, o a través de terceros, orientados a sustentar el otorgamiento de concesiones y permisos del transporte público, así como, en materia de mejoramiento del sistema del transporte y vialidad dentro del ámbito de su competencia;
 
-XXIV. Promover, regular y supervisar la construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura vial, de tránsito y transporte que se efectúen en el Estado, directamente o a través de terceros, en coordinación y coadyuvancia con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+XXV. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzca a la más eficaz protección de la vida y a la seguridad, comodidad y fluidez en el transporte público y particular;
 
-XXV. Celebrar convenios, contratos y demás actos jurídicos necesarios, así como, emitir las opiniones que procedan, con relación a los actos en los que intervengan los prestadores de servicios del transporte público y vialidad;
+XXVI. Realizar las acciones de planeación, programación y presupuesto para el mejoramiento de la infraestructura y la modernización del sistema de vialidad y transporte en la Entidad, así como de los servicios auxiliares;
 
-XXVI. Celebrar convenios de colaboración en materia de vialidad y transporte con los municipios del Estado, otras entidades y la federación, a fin de lograr el mejoramiento y modernización del sector;
+XXVII. Coadyuvar con las autoridades federales, estatales y municipales en la planeación, elaboración y desarrollo de proyectos de vialidad y transporte en la entidad;
 
-XXVII. Fomentar ordenadamente y conforme a las leyes vigentes, la organización de asociaciones sociales y privadas, cuyo objeto sea la prestación de servicios de vialidad y transporte;
+XXVIII. Fijar normas técnicas para el funcionamiento y operación de los servicios de vialidad y transporte de la entidad;
 
-XXVIII. Normar e inspeccionar el uso adecuado de la infraestructura necesaria: paraderos, puentes peatonales, bahías, señalización, dispositivos de control de tránsito entre otros, para el desempeño de las actividades del sistema de vialidad, tránsito y transporte en general;
+XXIX. Promover y fomentar la participación de los diversos sectores de la sociedad, con el objeto de construir y llevar a cabo las acciones necesarias para dar solución a la problemática en materia de vialidad, transporte y servicios auxiliares;
 
-XXIX. Normar y establecer las políticas y criterios para llevar a cabo directamente, en coordinación con otras dependencias e instituciones, o a través de terceros, los estudios y proyectos de ingeniería de tránsito;
+XXX. Coadyuvar con la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, en la implementación del Programa Estatal de Verificación Vehicular sobre emisiones contaminantes;
 
-XXX. Diseñar y normar la instalación y mantenimiento de la señalización y semaforización en las obras viales, tanto para el tráfico vehicular como peatonal, en el Estado;
+XXXI. Regular, autorizar, planear e inspeccionar la publicidad en el servicio de transporte, así como, imponer las sanciones en caso de incumplimiento de acuerdo con las normas jurídicas y administrativas correspondientes;
 
-XXXI. Autorizar, modificar, cancelar y actualizar las rutas, horarios, itinerarios y tarifas del servicio de transporte público y comprobar su correcta aplicación;
+XXXII. Convocar, integrar y conducir el Consejo Estatal de Movilidad;
 
-XXXII. Promover y organizar la capacitación, educación, investigación y desarrollo tecnológico en materia de vialidad, tránsito y transporte en la entidad;
+XXXIII. Diseñar y promover esquemas de financiamiento para la modernización del parque vehicular del sistema del transporte público y los mecanismos de aseguramiento de cobertura de riesgo para los pasajeros usuarios de dicho sistema;
 
-XXXIII. Establecer con las instituciones educativas de todos los niveles, convenios de colaboración para el diseño y establecimiento de planes y programas que fomenten y consoliden las normas y derechos del uso correcto de la vialidad y respeto de las señalizaciones, tanto de los peatones como de los vehículos, para contribuir al desarrollo de una cultura de vialidad y tránsito;
+XXXIV. Promover, regular y supervisar la construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura vial, de tránsito y transporte que se efectúen en el Estado, directamente o a través de terceros, en coordinación y coadyuvancia con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
 
-XXXIV. Promover e implementar nuevas modalidades en la prestación del servicio del transporte público y sus servicios auxiliares, cuando se justifique su necesidad e interés colectivo;
+XXXV. Celebrar convenios, contratos y demás actos jurídicos necesarios, para el debido cumplimiento de sus atribuciones, así como, emitir las opiniones que procedan, en relación a los actos en que intervengan los prestadores de servicios del transporte público y vialidad;
 
-XXXV. Establecer la normatividad para elaborar, sin perjuicio de la competencia municipal, los estudios que contribuyan a determinar el diseño, la ubicación, construcción, tarifas y el funcionamiento de los estacionamientos públicos, así como la ubicación, instalación, control y vigilancia de parquímetros;
+XXXVI. Normar e inspeccionar el uso adecuado de la infraestructura necesaria: paraderos, puentes peatonales, bahías, señalización, dispositivos de control de tránsito, entre otros, para el desempeño de las actividades del sistema de vialidad, tránsito y transporte en general;
 
-XXXVI. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la federación y los municipios;
+XXXVII. Normar y establecer las políticas y criterios para llevar a cabo directamente, en coordinación con otras dependencias e instituciones, o a través de terceros, los estudios y proyectos de ingeniería de movilidad y tránsito;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+XXXVIII. Diseñar y normar la instalación y mantenimiento de la señalización, semaforización y el uso de reductores de velocidad en las obras viales, tanto para el tráfico vehicular como peatonal, en el Estado;
 
-XXXVII. Coadyuvar en el cumplimiento cabal de la Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca y, en su caso, aplicar las sanciones establecidas, a través de la Dirección de la Policía Vial Estatal;
+XXXIX. Autorizar, modificar, cancelar, formular y actualizar las rutas, horarios, itinerarios y tarifas del servicio de transporte público y comprobar su correcta aplicación;
 
-XXXVIII. Promover la aplicación de nuevas tecnologías en los vehículos, señalización y equipamiento del transporte y la vialidad;
+XL. Determinar las características y la ubicación que deberán tener los dispositivos y señales para la regulación del tránsito en las vías de circulación, llevando a cabo su instalación, operación y mantenimiento de manera directa, a través de la contratación pública de dichos servicios de conformidad con la Ley, o la coordinación con las autoridades estatales y municipales correspondientes;
 
-XXXIX. Diseñar y supervisar la instalación del equipamiento y mobiliario que proteja al peatón en las vialidades;
+XLI. Establecer y autorizar los cambios de unidades y fijar frecuencias y horarios de los concesionarios de conformidad con la norma técnica y los estudios que al respecto realice la propia Secretaría o presenten para su análisis los prestadores del servicio;
 
-XL. Impulsar el desarrollo del transporte de turismo, colectivo, de personal y escolar, y todos aquellos esquemas de Transporte que eviten la saturación de las vialidades y protejan el ambiente;
+XLII. Promover y organizar la capacitación, educación, investigación y desarrollo tecnológico en materia de movilidad, vialidad, tránsito y transporte en la entidad;
 
-XLI. Elaborar su reglamento interno y proponer las adecuaciones en función de las innovaciones tecnológicas que se incorporen tanto a los Sistemas viales como al sistema del transporte público; y
+XLIII. Establecer con las instituciones educativas de todos los niveles, convenios de colaboración para el diseño y establecimiento de planes y programas que fomenten y consoliden las normas y derechos del uso correcto de la vialidad y respeto de las señalizaciones, tanto de los peatones, transporte no motorizado, como de los vehículos, para contribuir al desarrollo de una cultura de movilidad, vialidad y tránsito;
 
-XLII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+XLIV. Promover e implementar nuevas modalidades en la prestación del servicio del transporte público y sus servicios auxiliares, cuando se justifique su necesidad e interés colectivo;
+
+XLV. Establecer la normatividad para elaborar, sin perjuicio de la competencia municipal, los estudios que contribuyan a determinar el diseño, la ubicación, construcción, tarifas y el funcionamiento de los estacionamientos públicos, así como la ubicación, instalación, control y vigilancia de parquímetros;
+
+XLVI. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal, con los gobiernos federal y municipal;
+
+XLVII. Promover la aplicación de nuevas tecnologías en los vehículos, señalización y equipamiento del transporte y la vialidad;
+
+XLVIII. Diseñar y supervisar la instalación del equipamiento, mobiliario y reductores de velocidad que proteja al peatón en las vialidades;
+
+XLIX. Promover e impulsar la cultura y seguridad vial, mediante la elaboración e implementación de programas respectivos;
+
+L. Intervenir en materia de movilidad y transporte en coordinación con las autoridades federales y municipales en el ámbito de su competencia;
+
+LI. Impulsar el desarrollo del transporte no motorizado, de turismo, colectivo, de personal y escolar, y todos aquellos esquemas de transporte que eviten la saturación de las vialidades y protejan el ambiente;
+
+LII. Proponer las adecuaciones en función de las innovaciones tecnológicas que se incorporen tanto a los sistemas de movilidad, viales, así como, al sistema del transporte público;
+
+LIII. Implementar de manera permanente una política social incluyente para los sectores vulnerables, en materia de movilidad, pudiendo coordinarse para este fin con los gobiernos federal y municipal, con la sociedad civil organizada, las comunidades, con instituciones públicas y privadas que atiendan a los diversos sectores de la población en materia de vulnerabilidad;
+
+LIV. Cumplir con los procedimientos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Oaxaca, en relación con las solicitudes y recursos correspondientes, y
+
+LV. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1315,9 +1339,7 @@ X. Diseñar, implementar, supervisar y dar seguimiento al servicio profesional d
 
 XI. Implementar y coordinar los lineamientos y procedimientos de selección de personal que requiera la Administración Pública Estatal, así como, evaluar la productividad y el desempeño de los trabajadores con respecto al cumplimiento de sus actividades y responsabilidades;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
-
-XII. Realizar las adquisiciones de bienes y servicios de informática de la Administración Pública Estatal conforme a la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca y su Reglamento;
+XII. (DEROGADA, P.O. 2 DE AGOSTO DE 2018)
 
 XIII. Establecer coordinadamente con las Dependencias y Entidades, programas de modernización y calidad administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo;
 
@@ -1881,9 +1903,9 @@ XXXIV. Ordenar al área correspondiente, la publicación en el Periódico Oficia
 
 XXXV. Compilar y archivar la legislación y reglamentación vigente en el Estado, y
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2018)</small>
 
-XXXVI. Registrar los autógrafos, legalizar y certificar las firmas de los servidores públicos estatales y demás funcionarios a quienes esté encomendada la fe pública;
+XXXVI. Registrar y legalizar las firmas y sellos de los servidores públicos que de acuerdo a sus funciones y a las disposiciones aplicables así lo requieran y de los notarios públicos en ejercicio de la función notarial;
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
@@ -1897,13 +1919,17 @@ XXXVIII. Coordinar, organizar y supervisar el ejercicio y funcionamiento de la D
 
 XXXIX. Coordinar, supervisar y evaluar las actividades y resultados de sus órganos desconcentrados y las entidades sectorizadas a la Consejería Jurídica;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2018)</small>
 
-XL. Atender, vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado y de sus municipios; y
+XL. Atender, vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado y de sus municipios;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2018)</small>
 
-XLI. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su reglamento interno y demás normatividad aplicable.
+XLI. Coadyuvar con las instancias competentes, así como con los núcleos agrarios en la atención de los asuntos de la materia, cuando así lo soliciten, y;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE AGOSTO DE 2018)</small>
+
+XLII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2988,3 +3014,21 @@ TERCERO. Los servidores públicos de base de las áreas administrativas que con 
 CUARTO. La Coordinación General de Delegaciones de Gobierno, pasará a formar parte de la Estructura administrativa de la Secretaría General de Gobierno, dentro de la Subsecretaría de Gobierno.
 
 QUINTO. El Gobernador del Estado a través de las Secretarías de Finanzas, de Administración y de la Contraloria y Transparencia Gubernamental, en el ámbito de sus respectivas atribuciones realizarán las acciones necesarias para el cumplimiento del presente Decreto.
+
+P.O. 2 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1532.- MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. El Congreso del Estado del (sic) Oaxaca, contará con un plazo de sesenta días posteriores a la publicación del presente Decreto, para realizar las modificaciones necesarias a los ordenamientos legales que hagan posible la aplicación del presente Decreto.
+
+CUARTO. Cuando en diversas disposiciones legales, se haga referencia a la Secretaría de Vialidad y Transporte, se entenderá que se refiere a la Secretaría de Movilidad.
+
+QUINTO. Los asuntos en trámite que venía desarrollando la Secretaría de Vialidad y Transporte, se entenderán y se continuarán ante la Secretaría de Movilidad, conforme a la normatividad vigente al momento de su inicio y en lo que no contravenga al presente Decreto.
+
+SEXTO. Los servidores públicos adscritos a la Secretaría de Vialidad y Transporte, que con motivo de este Decreto cambia de denominación, pasarán, sin afectar sus derechos laborales y de prestaciones sociales, a formar parte de la Secretaría de Movilidad.
+
+SÉPTIMO. El Gobernador del Estado a través de las Secretarías de Finanzas, Administración y de la Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas atribuciones realizarán las acciones necesarias para el cumplimiento del presente Decreto.
