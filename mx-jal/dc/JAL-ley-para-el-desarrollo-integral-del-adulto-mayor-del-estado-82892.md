@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2018-03-01"
+last_updated: "2018-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -345,6 +345,14 @@ c) Recibir información sobre las instituciones públicas cuya función es la de
 
 d) A recibir de parte de las instituciones públicas correspondientes, la capacitación necesaria en el uso de las nuevas tecnologías de la información y comunicación.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 2 DE AGOSTO DE 2018)</small>
+
+VIII. A la accesibilidad y a su movilidad personal:
+
+a) A tener acceso, en igualdad de condiciones, al entorno físico, el transporte, y a otros servicios e instalaciones abiertos al público o de uso público; y
+
+b) A que las entidades públicas y privadas que cuenten con instalaciones y proporcionen servicios abiertos al público o de uso público, tengan la infraestructura, el mobiliario y el equipo adecuado para facilitar el acceso, desplazamiento y atención de las personas adultas mayores.
+
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 6.
@@ -503,13 +511,17 @@ XI. Procurar la implementación de módulos de atención y de capacitación del 
 
 XII. Promover el posicionamiento de la cartilla de salud de los adultos mayores a través de las instituciones públicas y privadas;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2018)</small>
 
-XIII. Establecer páginas electrónicas en las dependencias públicas que tengan un área (banner) específica de servicios de atención para los adultos mayores; y
+XIII. Establecer páginas electrónicas en las dependencias públicas que tengan un área (banner) específica de servicios de atención para los adultos mayores;
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2018)</small>
 
-XIV. Promover y fomentar la investigación científica y desarrollo tecnológico, enfocados en mejorar la calidad de vida de los adultos mayores.
+XIV. Promover y fomentar la investigación científica y desarrollo tecnológico, enfocados en mejorar la calidad de vida de los adultos mayores; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2018)</small>
+
+XV. Garantizar la accesibilidad y la movilidad personal de los adultos mayores adoptando de manera progresiva medidas pertinentes para asegurar su acceso y desplazamiento, en igualdad de condiciones, en el entorno físico y en otros servicios e instalaciones abiertos al público o de uso público.
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE DESARROLLO HUMANO
 
@@ -1398,3 +1410,11 @@ P.O. 1 DE MARZO DE 2018.
 [N. DE. E. TRANSITORIO DEL "DECRETO 26743/LXI/18 QUE REFORMA EL ARTÍCULO 37 DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE AGOSTO DE 2018.
+
+[N. DE. E. TRANSITORIOS DEL "DECRETO 26849/LXI/18 MEDIANTE EL CUAL SE REFORMA LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo deberá llevar a cabo las adecuaciones presupuestales y reglamentarias necesarias para dar cumplimiento al presente decreto.
