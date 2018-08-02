@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-las-adquisiciones-y-enajenaciones-del-83746"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-12"
-last_updated: "2011-11-12"
+last_updated: "2018-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO PARA LAS ADQUISICIONES Y ENAJENACIONES DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE COMPRAS, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO DE JUSTICIA ALTERNATIVA, PUBLICADO EN EL P.O. DE 2 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA LAS ADQUISICIONES Y ENAJENACIONES DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 12 de noviembre de 2011.
 
@@ -33,7 +35,9 @@ AC-IJA-04/11
 
 ACUERDO DEL PLENO DEL CONSEJO DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO PARA LAS ADQUISICIONES Y ENAJENACIONES DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO.
 
-C O N S I D E R A N D O :.
+C O N S I D E R A N D O :
+
+[...]
 
 VI. Que en el orden del día de la sesión extraordinaria de fecha 01 de Noviembre de 2011, se somete a consideración del Consejo del Instituto, el Reglamento antes citado, con la finalidad de aprobarlo, con el siguiente texto:
 
@@ -121,7 +125,7 @@ I. Llevar a cabo el procedimiento para la selección de proveedores de bienes y 
 
 II. Dictaminar sobre las adquisiciones de los bienes que requiera el Instituto;
 
-III. Instrumentar el procedimiento de enajenación de los bienes que integren el patrimonio del Instituto; y (sic)
+III. Instrumentar el procedimiento de enajenación de los bienes que integren el patrimonio del Instituto; y
 
 ###### Artículo 7.
 
@@ -573,7 +577,7 @@ I. Declarar la nulidad de todo o parte del procedimiento a partir del acto o act
 
 II. La declaración de improcedencia de la inconformidad.
 
-TRANSITORIOS (SIC)
+## TRANSITORIOS
 
 ÚNICO.- El presente Reglamento entrará en vigor una vez que haya sido aprobado por el Consejo y se publiqué en el Periódico Oficial "El Estado de Jalisco".
 
@@ -634,3 +638,25 @@ SE EXPIDE LA PRESENTE CERTIFICACION, EN LA CIUDAD DE GUADALAJARA, JALISCO A LOS 
 LICENCIADO IGNACIO ALFONSO REJÓN CERVANTES
 
 SECRETARIO TÉCNICO DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE COMPRAS, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO DE JUSTICIA ALTERNATIVA”.]
+
+PRIMERO.- Se abroga el Reglamento para las Adquisiciones y Enajenaciones del Instituto de Justicia Alternativa del Estado de Jalisco.
+
+SEGUNDO.- El presente Reglamento entrará en vigor una vez aprobado por el Consejo del Instituto y a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+TERCERO.- Todos los actos derivados del Reglamento para las Adquisiciones y Enajenaciones del Instituto de Justicia Alternativa del Estado de Jalisco que se abroga seguirán substanciándose en los términos dispuestos por dicho Reglamento.
+
+CUARTO.- El Comité de Adquisiciones deberá instalarse a más tardar en los 30 días naturales siguientes a la entrada en vigor del presente Reglamento.
+
+QUINTO.- En tanto comience la operación del SECG, el Instituto publicará en su página web oficial las convocatorias y los procedimientos de adquisiciones se realizarán de manera presencial por las partes que intervienen.
+
+SEXTO.- En tanto el RUPC no esté en funcionamiento, el Instituto continuará usando los padrones de Proveedores del Gobierno del Estado y del Poder Judicial.
+
+SEPTIMO.- Se instruye a la Contraloría Interna, para que en el plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, emita las reglas de contacto o de actuación de los servidores públicos que intervengan en la atención, tramitación y resolución de los procedimientos de contrataciones públicas y enajenación de bienes muebles
+
+Dentro del mismo plazo deberá emitir los lineamientos que normen la selección, permanencia y la conclusión del servicio proporcionado por los particulares, como testigos sociales.
