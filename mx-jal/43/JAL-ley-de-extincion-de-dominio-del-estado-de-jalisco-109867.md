@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-extincion-de-dominio-del-estado-de-jalisco-109867"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-19"
-last_updated: "2015-09-19"
+last_updated: "2018-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco el sábado 19 de septiembre de 2015.
 
@@ -487,9 +487,11 @@ Una vez contestada la demanda, el Juez se pronunciará, dentro de los siguientes
 
 La ausencia de cualquiera de las partes a las audiencias no impedirá la celebración de las mismas.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 67.
 
-En caso de que ofrezca constancias de una averiguación previa, de algún proceso penal, haya o no concluido, deberá solicitar las estrictamente necesarias por conducto del Juez, el cual las requerirá a la autoridad competente para que las remita en el plazo de cinco días hábiles. En cualquier caso, deberá salvaguardarse la discreción de las investigaciones relacionadas con la posible comisión de hechos ilícitos distintos a los que dieron origen al juicio de extinción de dominio.
+En caso de que ofrezca constancias de una carpeta de investigación, de algún proceso penal, haya o no concluido, deberá solicitar las estrictamente necesarias por conducto del Juez, el cual las requerirá a la autoridad competente para que las remita en el plazo de cinco días hábiles. En cualquier caso, deberán salvaguardarse la discreción de las investigaciones relacionadas con la posible comisión de hechos ilícitos distintos a los que dieron origen al juicio de extinción de dominio.
 
 ###### Artículo 68.
 
@@ -708,3 +710,11 @@ El Secretario General de Gobierno
 Roberto López Lara
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26848/LXI/18 QUE REFORMA LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
