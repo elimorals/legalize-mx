@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2017-08-08"
+last_updated: "2018-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -975,9 +975,9 @@ Para la identificación, evaluación, atención educativa, acreditación y certi
 
 Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la Autoridad Educativa Federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a estudiantes con capacidades y aptitudes sobresalientes.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2018)</small>
 
-La educación especial incluirá la orientación a padres o tutores, la capacitación a los maestros y personal de las escuelas de educación básica y media superior pertenecientes al sistema educativo estatal, que integren a alumnos con discapacidad.
+La educación especial se fundamentará en los enfoques de inclusión e igualdad sustantiva. Está educación incluirá la capacitación y orientación a padres o tutores, la capacitación a los maestros y personal de las escuelas de educación básica y media superior pertenecientes al sistema educativo estatal, que atienden a alumnos a los que se refiere el párrafo primero del presente artículo.
 
 ###### ARTICULO 51.
 
@@ -3982,3 +3982,9 @@ P.O. 8 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26415/LXI/17, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO, Y DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO".]
 
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 26850/LXI/18 QUE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco.”
