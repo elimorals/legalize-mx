@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-control-de-la-calidad-ambiental-del-13639"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-01-29"
-last_updated: "2017-08-04"
+last_updated: "2018-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,7 +26,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 29 de enero de 1999.
 
@@ -616,11 +616,15 @@ Los centros comerciales, hospitales, talleres, restaurantes, oficinas, centros d
 
 Los establecimientos mercantiles o de servicios deberán comprobar la disposición final de los residuos sólidos urbanos que generan por la actividad, por medio de comprobantes fiscales expedidos por el relleno sanitario, estaciones de transferencia, centros de acopio o mediante contrato con una empresa recolectora de residuos sólidos urbanos autorizada.
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
-Artículo 43 Cuarter (sic).- Dentro del ámbito territorial del Municipio de Ensenada, Baja California, los centros comerciales, hospitales, talleres, restaurantes, oficinas, centros de espectáculos o similares y demás sitios mercantiles o de servicios no podrán proporcionar bolsas de plástico para carga, envoltura o empaque. Lo dispuesto en el párrafo anterior, no se aplicará cuando las bolsas de plástico sean fabricadas con materiales que permitan su reciclado, reutilización o pronta biodegradación. En todo caso el ciclo de vida de las bolsas de plástico no será mayor a diez años, procurando la utilización de materiales provenientes de recursos renovables, como los biopolímeros para su pronta biodegradación en los destinos finales. Las bolsas de cualquier otro material no plástico que garanticen su reutilización y reciclaje no estarán sujetas a este plazo.
+Artículo 43 Cuarter (sic).- Para la protección ambiental dentro del ámbito territorial del Municipio de Ensenada, Baja California y sujeto a las disposiciones normativas que dé el emanan, se prohíbe la entrega y disposición de bolsas plásticas en los establecimientos comerciales y de servicios, Esto incluye las bolsas plásticas desechables para el acarreo de los productos comercializados o artículos que hayan recibido un servicio suministrado dentro de dicho establecimiento, de igual manera y en el mismo sentido, se prohíbe la entrega y disposición de utensilios de plástico desechables en los establecimientos de servicios.
 
-En el caso de las bolsas que cuenten con un aditivo que sea incompatible con el reciclaje, estas deberán garantizar tener un ciclo de vida menor a cinco años
+Se entiende por bolsas plásticas todas aquellas que se elaboran a base de polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados.
+
+Se entiende por utensilios de plástico desechables a los platos, vasos, cubiertos, popotes, botellas, o cualquier otro utensilio que sea desechable y sean elaborados a base de polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, poliestireno (foam), polímero de plástico y cualquier otro de sus derivados.
+
+Se entiende por establecimiento (sic) comerciales o de servicios, a los supermercados, tiendas de autoservicio, tiendas de conveniencia, talleres, restaurantes, oficinas, centros de espectáculos o similares y todo aquel sitio que tenga por fin comercializar un producto o servicio.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -1899,3 +1903,11 @@ P.O. 4 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 70 Y 175 FRACCIÓN II DEL REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, B.C.".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 3 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 43 CUATER (SIC) DEL REGLAMENTO PARA EL CONTROL DE CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA. CON EL OBJETIVO DE QUE SE PROHÍBA EL USO Y OBSEQUIO DE BOLSAS Y UTENSILIOS PLÁSTICOS, EN LOS ESTABLECIMIENTOS COMERCIALES Y DE SERVICIO".]
+
+PRIMERO.- La presente reforma deberá publicarse en el Periódico Oficial del estado y entrara en vigor a partir del 01 de enero del 2019.
+
+SEGUNDO.- La Dirección de Administración Urbana Ecología y Medio Ambiente por conducto del Presidente Municipal, en un plazo de 60 días naturales contados a partir de su publicación en el Periódico Oficial del Estado deberá diseñar e implementar un Programa de Concientización referente al consumo de los plásticos de un solo uso en el Municipio de Ensenada.
