@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-parques-y-jardines-del-municipio-de-ensenada-6072
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2014-11-28"
+last_updated: "2018-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE PARQUES Y JARDINES DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2008.
 
@@ -39,7 +39,7 @@ Las Comisiones que suscribimos en ejercicio de los facultades que nos confieren 
 
 En base de lo anterior, y siendo interés del actual Ayuntamiento de Ensenada, Baja California en aprobar y ordenar que se aplique el presente Reglamento de Parques y Jardines para el Municipio de Ensenada, Baja California, las suscritas Comisiones en Conjunto determinamos dictaminar la aprobación del Reglamento que nos ocupa en este asunto, al tenor de los siguientes puntos resolutivos: PUNTOS RESOLUTIVOS.-
 
-PRIMERO.- En los términos de los antecedentes y considerándos contenidos en esta resolución es de aprobarse y se aprueba el REGLAMENTO DE PARQUES Y JARDINES PARA El MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, en virtud de que el mismo fue ampliamente concensado por los suscritos Regidores integrantes de ambas Comisiones.
+PRIMERO.- En los términos de los antecedentes y considerándos contenidos en esta resolución es de aprobarse y se aprueba el REGLAMENTO DE PARQUES Y JARDINES PARA El MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, en virtud de que el mismo fue ampliamente concensado (sic) por los suscritos Regidores integrantes de ambas Comisiones.
 
 SEGUNDO.- Publíquese el presente acuerdo y el Reglamento que se aprueba mediante el presente dictamen en el periódico Oficial del Estado de Baja California para los efectos legales correspondientes.
 
@@ -59,11 +59,15 @@ El presente Reglamento tiene por objeto mejorar las condiciones actuales de las 
 
 Incorpora la obligación del Departamento de Parques y Jardines para elaborar un padrón de todas las áreas verdes existentes, permitiendo que cualquier persona pueda tener acceso a él para efecto de que participen en su vigilancia y conservación, por conducto de sus representantes de la Asociación Vecinal que le corresponda. Incluye además la utilización de lotes baldíos de propiedad particular para que previo convenio con estos, se puedan crear áreas verdes o huertos; adiciona recomendaciones para el desarrollo de los árboles que se encuentren en el pavimento; establece la obligación del Departamento de Parques y Jardines de presentar cada año el Programa de trabajo en el que informaran la cantidad de especies y los lugares en que se realizaran dichas acciones; se agrega un anexo técnico en el que se señalan las especies recomendadas para utilizar en el municipio, en función del beneficio ecológico que producen en la generación del oxigeno, la seguridad de estas especies en cuanto a su crecimiento y desarrollo, y a su ornato visual; y determina las condiciones y requisitos para las podas menores o de jardinería, pudiendo realizarlas cualquier persona, sin necesidad de obtener un permiso de la autoridad municipal y sin ningún costo.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE AGOSTO DE 2018)</small>
+
 ### Capitulo I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 1.
 
-El presente Reglamento de Parques y Jardines se expide con fundamento en lo establecido por los Artículos 115 fracciones II y III, inciso g de la Constitución Política de los Estados Unidos Mexicanos, Artículo 81 y 85 de la Constitución política del Estado Libre y Soberano de Baja California, Artículo 71 y 72 fracción XII-e del Reglamento de la Administración Publica para el Municipio de Ensenada, Baja California, la Ley de Ingresos Municipales y las demás disposiciones legales aplicables en la materia.
+El presente Reglamento de Parques y Jardines se expide con fundamento en lo establecido por los Artículos 115 fracciones II y III, inciso g de la Constitución Política de los Estados Unidos Mexicanos, Artículo 81 y 85 de la Constitución política del Estado Libre y Soberano de Baja California, Artículo 86, 88 y 93 del Reglamento de la Administración Publica para el Municipio de Ensenada, Baja California, la Ley de Ingresos Municipales y las demás disposiciones legales aplicables en la materia.
 
 ###### Artículo 2.
 
@@ -73,13 +77,15 @@ Las disposiciones contenidas en este Reglamento, son de orden público, obligato
 
 Serán aplicadas a esta materia la Ley del Régimen Municipal del Municipio de Ensenada, B.C., la Ley de Hacienda Municipal, Reglamento de la Administración Publica del Municipio de Ensenada, B.C., la Ley de Ingresos vigente, y las demás disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 4.
 
 Para efectos del presente reglamento se entenderá por:
 
-A) Dirección: Dirección de Ecología Municipal.
+A) Subdirección: Subdirección de Ecología y Medio Ambiente.
 
-B) Departamento: Departamento de Parques y Jardines.
+B) Departamento: Departamento de Parques, Jardines y Panteones.
 
 C) Consejo: Consejo Consultivo Municipal de Parques y Jardines del Municipio de Ensenada.
 
@@ -121,25 +127,29 @@ IX.- Nodos viales;
 
 X.- Unidades y Campos deportivos.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 6.
 
 La aplicación del presente Reglamento le compete a:
 
-I.- Al Cabildo, a través del presidente de (sic);
+I. Al Cabildo a través del presidente;
 
-II.- Al Presidente Municipal;
+II. Al Presidente Municipal;
 
-III.- A la Secretaría de Administración Urbana a través de la Dirección de Ecología Municipal;
+III. A la Dirección de Administración Urbana y Ecología y Medio Ambiente, a través de la Subdirección de Ecología y Medio Ambiente;
 
-IV.- A la Dirección de Obras Públicas;
+IV. A la Dirección de Servicios Públicos e Infraestructura;
 
-V.- Al Departamento de Parques y Jardines;
+V. Al Departamento de Parques, Jardines y Panteones;
 
-VI.- A la Secretaría de Seguridad Pública Municipal.
+VI. A la Dirección de Seguridad Pública Municipal.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 7.
 
-Es obligación del Departamento de Parques y Jardines promover la realización de acciones para forestar, reforestar y conservar las áreas verdes del Municipio, mediante la participación ciudadana.
+Es obligación del Departamento de Parques, Jardines y Panteones promover la realización de acciones para forestar, reforestar y conservar las áreas verdes del Municipio, mediante la participación ciudadana.
 
 ###### Artículo 8.
 
@@ -149,13 +159,17 @@ Es obligación de los propietarios o poseedores de los inmuebles dentro del Muni
 
 Para el debido mantenimiento de las áreas verdes de los fraccionamientos, terrenos a regularizar y predios no urbanizados, deberán contar con las instalaciones hidráulicas y volúmenes de agua necesarias para tal fin, realizando previo convenio con la Comisión Estatal de Servicios Públicos de Ensenada.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 10.
 
-Para todo tipo de plantación en áreas verdes de uso común la Dirección de Ecología emitirá un dictamen con el fin de ordenar el tipo de árboles o vegetación que se deben sembrar, el sistema de riego y suelo que deben colocar prohibiendo el relleno de estas áreas con cascajo o suelos que no sean orgánicos, estas áreas verdes deberán estar debidamente terminadas y preservadas hasta la entrega del fraccionamiento al Municipio.
+Paro todo tipo de plantación en áreas verdes de uso común la Subdirección de Ecología y Medio Ambiente emitirá un dictamen con el fin de ordenar el tipo de árboles o vegetación que se deben sembrar, el sistema de riego y suelo que deben colocar prohibiendo el relleno de estas áreas con cascajo o suelos que no sean orgánicos, estas áreas verdes deberán estar debidamente terminadas y preservadas hasta la entrega del fraccionamiento al Municipio
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 11.
 
-Los fraccionamientos turísticos, habitacionales, comerciales e industriales de nueva creación, así como los parques urbanos, jardines públicos, zonas de preservación ecológica y demás áreas análogas deberán presentar un proyecto y plan de manejo de las zonas destinadas como áreas verdes ante la Dirección, quien en conjunto con el Departamento aprobará el mismo, a través de un dictamen, previo pago de derechos y a la autorización emitida por la Secretaría de Administración Urbana.
+Los fraccionamientos turísticos, habitacionales, comerciales e industriales de nueva creación, así como los parques urbanos, jardines públicos, zonas de preservación ecológica y demás áreas análogas deberán presentar un proyecto y plan de manejo de las zonas destinadas como áreas verdes ante la Subdirección, quien en conjunto con el Departamento aprobará el mismo, a través de un dictamen, previo pago de derechos y a la autorización emitida por la Dirección de Administración Urbana y Ecología y Medio Ambiente.
 
 El proyecto responderá a las necesidades sociales de la zona y garantizará la adecuación de las instalaciones con el carácter ambiental de las áreas verdes.
 
@@ -177,29 +191,37 @@ VI. Las servidumbres a las que diera lugar el trazado de infraestructura en su i
 
 VII. El proyecto determinará las áreas expresamente dedicadas a la instalación de estructuras móviles, edificación provisional, tendidos de infraestructura e instalaciones o dotaciones públicas compatibles con el carácter de zona verde.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE AGOSTO DE 2018)</small>
+
 ### Capitulo II. DE LOS PREDIOS Y SUPERFICIES DESTINADAS A ÁREAS VERDES
 
 ###### Artículo 13.
 
 No se permitirá depositar desechos de jardinería y forestales en la vía pública y bienes de uso común, los cuales deberán depositarse en el relleno sanitario o donde designe el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 14.
 
-Queda estrictamente prohibida la practica de comercio ambulante, fijo, semifíjo u otro tipo de negocios particulares en camellones, glorietas, jardines y áreas ajardinadas de los parques públicos.
+Queda estrictamente prohibida la práctica de comercio ambulante, fijo, semifijo u otro tipo de negocios particulares en camellones, glorietas, jardines y áreas ajardinadas de los parques públicos.
 
 ###### Artículo 15.
 
 A solicitud ciudadana, podrán destinarse a áreas verdes, predios y superficies de propiedad municipal, previo acuerdo de Cabildo.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 16.
 
-No se permitirá que se instalen elementos que obstruyan el paso peatonal en las banquetas, parques y jardines, glorietas y en general áreas verdes ubicadas dentro del Municipio con excepción de las áreas con plantas de ornato para protección de las flores donde queda prohibido el paso.
+No se permitirá que se instalen elementos que obstruyan El Paso peatonal en las banquetas, parques y jardines, glorietas y en general áreas verdes ubicadas dentro del Municipio con excepción de las áreas con plantas de ornato para protección de las flores donde queda prohibido el paso.
 
-Queda igualmente prohibido plantar cactus, magueyes y en general plantas punzo cortantes, venenosas o toxicas en las banquetas ubicadas dentro del Municipio.
+Queda igualmente prohibido plantar cactus, magueyes y en general plantas punzo cortantes, venenosas o tóxicas en las banquetas ubicadas dentro del Municipio.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 17.
 
-El Departamento de Parques y Jardines elaborará un padrón de todos los parques y jardines y áreas verdes en general con el fin de que los vecinos de dichas áreas y los ciudadanos en general estén enterados de su existencia y auxilien a la autoridad en su conservación.
+El Departamento de Parques, Jardines y Panteones elaborará un padrón de todos los parques, jardines y áreas verdes en general con el fin de que los vecinos de dichas áreas y los ciudadanos estén enterados de su existencia y auxilien a la autoridad en su conservación.
 
 ###### Artículo 18.
 
@@ -209,31 +231,43 @@ Los inmuebles propiedad Municipal que sean destinados a plazas, parques, jardine
 
 En las zonas donde se encuentren cables de luz o teléfono, solo se sembrarán arbustos o árboles de bajo crecimiento para no afectar el cableado, evitando así las podas de la Comisión Federal de Electricidad.
 
-### Capitulo III. DE LA FORESTACIÓN Y REFORESTACION
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 2018)</small>
+
+### Capitulo III. DE LA FORESTACIÓN Y REFORESTACIÓN
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 20.
 
-El Departamento de Parques y Jardines se encargara de la forestación o reforestación de los espacios de uso común o bien, lo harán los terceros que el Ayuntamiento contrate previo dictamen del proyecto por el mismo Departamento y la Dirección de Ecología Municipal.
+El Departamento de Parques, Jardines y Panteones se encargará de la forestación o reforestación de los espacios de uso común o bien, lo harán los terceros que el Ayuntamiento contrate previo dictamen del proyecto por el mismo Departamento y la Subdirección de Ecología y Medio Ambiente.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 21.
 
-El Departamento de Parques y Jardines tendrá los viveros necesarios para realizar las funciones de repoblación forestal, teniendo facultades el Ayuntamiento para celebrar convenios con instituciones públicas y privadas, para intercambiar especies o mejorar las que cultiva en su vivero.
+El Departamento de Parques, Jardines y Panteones tendrá los viveros necesarios para realizar las funciones de repoblación forestal, teniendo facultades el Ayuntamiento para celebrar convenios con instituciones públicas y privadas, para intercambiar especies o mejorar las que cultiva en su vivero.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 22.
 
-Si existiera excedente de producción en los viveros, el Departamento de Parques y Jardines estará facultado para distribuir dichos excesos entre las instituciones y vecinos que lo soliciten, presentando estos últimos una solicitud para forestación o creación de área verde la cual será aprobada por el mismo Departamento.
+Si existiera excedente de producción en los viveros, el Departamento de Parques, Jardines y Panteones estará facultado para distribuir dichos excesos entre las instituciones y vecinos que lo soliciten, presentando estos últimos una solicitud para forestación o creación de área verde la cual será aprobada por el mismo Departamento.
 
 ###### Artículo 23.
 
 El Departamento de Parques y Jardines presentará para su validación al Consejo anualmente los programas de forestación y reforestación indicando las especies, cantidad y zonas o predios Municipales en que serán plantados.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 24.
 
-El Departamento de Parques y Jardines promoverá y dará asesoría a las asociaciones vecinales o ciudadanas, para la creación de áreas verdes y viveros.
+El Departamento de Parques, Jardines y Panteones promoverá y dará asesoría a las asociaciones vecinales o ciudadanas, para la creación de áreas verdes y viveros.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 25.
 
-No se permitirá a los particulares sin la regulación y aprobación por escrito de la Dirección de Ecología para la forestación o reforestación en los bienes de uso común.
+No se permitirá a los particulares sin la regulación y aprobación por escrito de la Subdirección de Ecología y Medio Ambiente para la forestación o reforestación en los bienes de uso común.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -241,79 +275,91 @@ No se permitirá a los particulares sin la regulación y aprobación por escrito
 
 Queda estrictamente prohibida la instalación de anuncios o cualquier tipo de propaganda en árboles, arbustos y en los bienes municipales de uso común, salvo en los casos previstos en este ordenamiento.
 
-### Capitulo IV. PARA EL EMPLEO DE AREAS VERDES DE USO COMÚN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 2018)</small>
+
+### Capitulo IV. PARA EL EMPLEO DE ÁREAS VERDES DE USO COMÚN
 
 ###### Artículo 27.
 
 Para poder utilizar un área verde de uso común el particular deberá solicitar al Ayuntamiento el permiso correspondiente.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 27 Bis.
 
-Las áreas verdes de propiedad municipal, podrán ser otorgadas para su cuidado a personas físicas y morales, mediante el Formato Adopta un Área Verde que expide la Dirección de Ecología Municipal, debiendo cumplir con los siguientes requisitos:
+Las áreas verdes de propiedad municipal, podrán ser otorgadas para su cuidado o (sic) personas físicas y morales, mediante formato Adopta un Área Verde que expide la Subdirección de Ecología y Medio Ambiente, debiendo cumplir los siguientes requisitos:
 
-I.- Llenar y firmar los documentos correspondientes que expide la Dirección de Ecología Municipal así como de cumplir con todos los requisitos del Formato Adopta un Área Verde y visita de inspección del área que se pretende adoptar.
+I. Llenar y firmar los documentos correspondientes que expide la Subdirección de Ecología y Medio Ambiente y visita de inspección del área que se pretende adoptar;
 
-II.- Utilizar únicamente plantas nativas o endémicas.
+II. Utilizar únicamente plantas nativas o endémicas;
 
-III.- Especificar si ocupará o no, anuncio o letrero del adoptante, mismo que no podrá exceder de una altura de 80 centímetros y de 80 centímetros de ancho, en fondo blanco, de preferencia de madera reciclada y que necesariamente llevará el escudo Municipal.
+III. Especificar si ocupará o no, anuncio o letrero del adoptante, mismo que no podrá exceder de una altura de 80 centímetros y de 80 centímetros de ancho, en fondo blanco, de preferencia de madera reciclada y que necesariamente llevará el escudo municipal; y
 
-IV.- En caso de que el área asignada sean áreas de juegos de parques se podrán (sic) colocar 1 anuncio o letrero del adoptante y en el caso de áreas verdes de parques se podrán colocar hasta dos letreros, cumpliendo con lo establecido en la fracción III este artículo pudiendo otorgarse de manera separada la adopción del área verde en parques y áreas de juegos del mismo.
+IV. En caso de que el área asignada sean áreas de juegos de parques se podrán colocar 1 anuncio o letrero del adoptante y en el caso de áreas verdes de parques se podrán colocar hasta dos letreros.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+Cumpliendo con lo establecido en la fracción III de este artículo pudiendo otorgarse de manera separada la adopción del área verde en parques y áreas de juegos del mismo.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 27 Ter.
 
 Será causa de cancelación de la adopción de las áreas verdes propiedad del Municipio, en los siguientes casos:
 
-I.- Situar un cerco perimetral sobre la misma, sin la autorización previa de la Dirección de Servicios Públicos Municipales;
+I. Situar un cerco perimetral sobre la misma, sin la autorización previa de la Dirección de Servicios públicos Municipales e Infraestructura;
 
-II.- Que se destine el área verde adoptada para uso distinto que el asignado.
+II. Que se destine el área verde adoptada para uso distinto que el asignado;
 
-III.- El que establezca en el área verde adoptada un anuncio o letrero distinto al especificado en el artículo anterior.
+III. El que establezca en el área verde adoptada un anuncio o letrero distinto al especificado en el artículo anterior; y
 
-IV.- Y en general la inobservancia de los artículos del presente reglamento, en lo relativo al cuidado de las áreas verdes.
+IV. En general la inobservancia de los artículos del presente reglamento, en lo relativo al cuidado de las áreas verdes.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
-Artículo 27 Quarter.- Son susceptibles de otorgar en adopción las áreas verdes camellones en vías primarias, camellones en vías secundarias, parques y jardines, jardineras ubicadas en banquetas y Áreas de valor ambiental.
+Artículo 27 Quarter.- Son susceptibles de otorgar en adopción las áreas verdes, camellones en vías primarias, camellones en vías secundarias, parques y jardines, jardineras ubicadas en banquetas y áreas de valor ambiental.
 
 ###### Artículo 28.
 
 Quien haga uso de una (sic) área verde de uso común deberá hacerse responsable de la limpieza del área ocupada, del manejo adecuado de sus residuos sólidos y los daños que ocasione a dicho bien.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 28 Bis.
 
-Los adoptantes de áreas verdes dentro de la jurisdicción de este Municipio tendrán la obligación de mantenerla limpia, bridarle riego necesario para evitar se seque, fertilizarla según sus necesidades y procurar un aspecto adecuado mediante su podado regular.
+Los adoptantes de áreas verdes dentro de la jurisdicción de este Municipio, tendrán la obligación de mantenerla limpia, brindarle riego necesario para evitar que se seque, fertilizarla según sus necesidades y procurar un aspecto adecuado mediante su podado regular.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE AGOSTO DE 2018)</small>
 
 ### Capitulo V. DERRIBO, PODA Y TRASPLANTE DE LOS ÁRBOLES
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 29.
 
 El derribo y poda de árboles de propiedad municipal o particular, solo procederá en los casos siguientes:
 
-I. Cuando se considere peligroso para la integridad física de bienes y personas.
+I. Cuando se considere peligroso para la integridad física de bienes y personas;
 
-II. Cuando concluya su vida útil.
+II. Cuando concluya su vida útil;
 
-III. Cuando sus raíces o ramas amenacen con destruir las construcciones, o deterioren el ornato, y pavimento.
+III. Cuando sus raíces o ramas amenacen con destruir las construcciones o deterioren el ornato y pavimento; y
 
-IV. Por otras circunstancias graves a juicio de la Dirección de Ecología, Protección Civil y Bomberos y del Consejo Consultivo de Parques y Jardines.
+IV. Por otras circunstancias graves a juicio de la Subdirección de Ecología y Medio Ambiente, la Unidad Municipal de Protección Civil, la Dirección (sic) Bomberos y/o del Consejo Consultivo de Parques y Jardines.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 30.
 
-Para los efectos del artículo anterior los interesados presentarán una solicitud por escrito a la Dirección de Ecología Municipal, la cual practicará una inspección a fin de determinar técnicamente si procede o no el derribo o poda del árbol. El derribo conlleva un pago administrativo de acuerdo a la Ley de Ingresos vigente.
+Para los efectos del artículo anterior los interesados presentarán una solicitud por escrito a la Subdirección de Ecología y Medio Ambiente, la cual practicará una inspección a fin de determinar técnicamente si procede o no el derribo o poda del árbol. El derribo conlleva un pago administrativo de acuerdo a la Ley de Ingresos vigente.
 
 ###### Artículo 31.
 
 Los árboles que por causa justificada, con las recomendaciones técnicas y aprobación de la autoridad correspondiente, previo dictamen sean removidos, se transplantarán (sic) en los espacios que determine la autoridad, en caso de no poderse transplantar (sic), se sustituirán por tres árboles jóvenes de no menos de 1.00 metro de alto y quedará al cuidado del solicitante.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 32.
 
-Para el derribo o poda de árboles ubicados en propiedad particular, los interesados deberán presentar una solicitud por escrito a la Dirección, la que practicara una inspección o peritaje forestal a fin de dictaminar técnicamente si procede o no la tala o poda solicitada; posteriormente el interesado cubrirá el costo del servicio mediante el pago en la caja de la Tesorería Municipal, según el monto contemplado en la Ley de Ingresos Municipales vigente, dependiendo de la altura del árbol y el tipo de servicio que se realiza.
+Para el derribo o poda de árboles ubicados en propiedad particular, los interesados deberán presentar una solicitud por escrito a la Subdirección, la que practicará una inspección o peritaje forestal a fin de dictaminar técnicamente si procede o no la tala o poda solicitada; posteriormente el interesado cubrirá el costo del servicio mediante el pago en la caja de la Tesorería Municipal, según el monto contemplado en la Ley de Ingresos Municipales vigente, dependiendo de la altura del árbol y el tipo de servicio que se realiza.
 
 ###### Artículo 33.
 
@@ -327,9 +373,11 @@ El producto de la poda (ramas, raíces, troncos y hojas) deberá ser llevado al 
 
 Las podas necesarias en árboles cuyas ramas sean menores a 7.5 centímetros de diámetro, podrán ser realizadas por los particulares sin requerir permiso de la autoridad, ya que se consideran podas menores o de jardinería.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 36.
 
-Cualquier ciudadano podrá contratar los servicios de poda y de derribo, a las personas físicas o morales que se encuentren registradas en la Dirección de Ecología Municipal para proporcionar este servicio.
+Cualquier ciudadano podrá contratar los servicios de poda y de derribo, a las personas físicas o morales que se encuentren registradas en la Subdirección de Ecología y Medio Ambiente para proporcionar este servicio.
 
 ###### Artículo 37.
 
@@ -349,9 +397,11 @@ Cuando las circunstancias económicas del solicitante lo justifiquen o se trate 
 
 ### Capitulo VI. PROTECCIÓN DEL MOBILIARIO EN PARQUES Y JARDINES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 41.
 
-El mobiliario existente en los espacios públicos consistente en bancas, juegos infantiles, papeleras, vallas, fuentes, señalización, lámparas y elementos decorativos, como adornos, esculturas, etc., deberá mantenerse en el más adecuado y estético estado de conservación. Los causantes de su deterioro o destrucción serán responsables no solo del resarcimiento del dañ0 (sic) producido, sino que serán sancionados administrativamente de conformidad con la falta cometida. Así mismo serán sancionados los que haciendo un uso indebido de tales elementos perjudiquen la buena disposición y utilización de los mismos por los usuarios de tales lugares, a tal efecto, y en relación con el mobiliario urbano, se establecen las siguientes limitaciones:
+El mobiliario existente en los espacios públicos consistente en bancas, juegos infantiles, papeleras, vallas, fuentes, señalización, lámparas y elementos decorativos, como adornos, esculturas, etc., deberá mantenerse en el más adecuado y estético estado de conservación. Los causantes de su deterioro o destrucción serán responsables no solo del resarcimiento del daño producido, sino que serán sancionados administrativamente de conformidad con la falta cometida. Así mismo serán sancionados los que haciendo un uso indebido de tales elementos perjudiquen la buena disposición y utilización de los mismos por los usuarios de tales lugares, a tal efecto, y en relación con el mobiliario urbano, se establecen las siguientes limitaciones:
 
 a) Bancas
 
@@ -379,115 +429,163 @@ f) Otros
 
 Queda prohibida la manipulación, colocación, introducción de elementos ajenos a los mismos que pudieran provocar mal funcionamiento o deterioro.
 
-### Capitulo VII. DE LA INTEGRACION DEL CONSEJO CONSULTIVO MUNICIPAL DE PARQUES Y JARDINES DEL MUNICIPIO DE ENSENADA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 2018)</small>
+
+### Capitulo VII. DE LA INTEGRACIÓN DEL CONSEJO CONSULTIVO MUNICIPAL DE PARQUES Y JARDINES DEL MUNICIPIO DE ENSENADA
 
 ###### Artículo 42.
 
 Se crea el Consejo Consultivo Municipal de Parques y Jardines del Municipio de Ensenada, como Órgano de Consulta, Asesoría y Promoción de las acciones tendientes a la organización, mantenimiento y ampliación de las áreas verdes dentro del mismo Municipio.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 43.
 
 Son atribuciones del Consejo Consultivo de Parques y Jardines:
 
-I. Aportar sus conocimientos y experiencias en el campo de áreas verdes.
+I. Aportar sus conocimientos y experiencias en el campo de áreas verdes;
 
-II. Trabajar en conjunto con la Dirección de Ecología Municipal y el Departamento de Parques y Jardines.
+II. Trabajar en conjunto con la Subdirección de Ecología (sic) Medio Ambiente y el Departamento de Parques, Jardines y Panteones;
 
-III. Asistir a las reuniones convocadas por la Dirección de Ecología o el Departamento de Parques y Jardines.
+III. Asistir a las reuniones convocadas por la Subdirección de Ecología y Medio Ambiente o el Departamento de Parques, Jardines y Panteones;
 
-IV. Analizar, evaluar y proponer soluciones en problemas específicos de Parques, Jardines y/o Áreas Verdes en general.
+IV. Analizar, evaluar y proponer soluciones en problemas específicos de parques, jardines y/o áreas verdes en general;
 
-V. Atender y estudiar las propuestas ciudadanas relacionadas con Parques, Jardines y Áreas Verdes de la comunidad.
+V. Atender y estudiarlas (sic) propuestas ciudadanas relacionadas con parques, jardines y áreas verdes de la comunidad;
 
-VI. Vigilar la aplicación del Reglamento de Parques y Jardines.
+VI. Vigilar la aplicación del Reglamento de Parques y Jardines del Municipio de Ensenada;
 
-VII. Promover la creación de Comités en las colonias, comunidades y delegaciones del Municipio que coadyuven en la creación y/o mantenimiento de Parques, Jardines y Áreas Verdes.
+VII. Promover la creación de comités en las colonias, comunidades y delegaciones del Municipio que coadyuven en la creación y/o mantenimiento de parques, jardines y áreas verdes;
 
-VIII. Buscar el apoyo de la sociedad civil que promueva la creación y mantenimiento de Parques, Jardines y Áreas Verdes.
+VIII. Buscar el apoyo de la sociedad civil que promueva la creación y mantenimiento de Parques, Jardines y Áreas Verdes;
 
-IX. Fomentar y promover una cultura de creación, conservación, protección y desarrollo de Parques, Jardines y Áreas Verdes.
+IX. Fomentar y promover una cultura de creación, conservación, protección y desarrollo de parques, jardines y áreas verdes; y
 
-X. Aceptar y cumplir las Comisiones que se le confieran.
+X. Aceptar y cumplir las comisiones que se le confieran.
 
 ###### Artículo 44.
 
 Los acuerdos dictados por el Ayuntamiento respecto de las propuestas del Consejo, serán ejecutados por la Dirección de Ecología Municipal y el Departamento de Parques y Jardines.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 45.
 
 La estructura del Consejo Consultivo de Parques y Jardines se constituye por un Presidente, un Secretario Técnico y los Vocales Propietarios.
 
+Los integrantes del Consejo gozarán de igualdad en condiciones del derecho a voz y voto.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 46.
 
-Es Presidente del Consejo el C. Presidente del Ayuntamiento de Ensenada, quien por motivo de su cargo puede delegar su representación para las juntas, reuniones ó Asambleas del mismo.
+Es Presidente del Consejo el Presidente del Ayuntamiento de Ensenada, quien por motivo de su cargo puede delegar su representación para las juntas, reuniones o asambleas del mismo.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 47.
 
-El Secretario técnico del Consejo será el C. Regidor Coordinador de la Comisión de Desarrollo Urbano y Ecología.
+El secretario técnico del Consejo será el Regidor Presidente de la Comisión de Ecología y Medio Ambiente.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 48.
 
-Los Vocales Propietarios serán exclusivamente Ciudadanos distinguidos sin cargo gubernamental alguno, siendo estos cargos honoríficos, bajo el siguiente perfil:
+Los vocales propietarios serán:
 
-a) Personas Físicas.
+a) Los integrantes de la comisión de Ecología y Medio Ambiente, con excepción del Presidente de dicha comisión, quien fungirá como secretario técnico del Consejo;
 
-b) Con experiencia y conocimiento acerca de los Parques y Jardines.
+b) El Subdirector de Ecología y Medio Ambiente;
 
-c) Sin antecedentes penales.
+c) El Subdirector de Servicios Públicos; y
 
-d) Con participación en trabajos comunitarios.
+d) Tres representantes ciudadanos.
 
-e) Con edad mínima de 21 años.
+Los representantes ciudadanos del Consejo, deberán contar con su respectivo suplente, mismo que será nombrado junto con el propietario. Los servidores públicos que integran el consejo deberán asistir personalmente, no obstante, cuando se encuentren imposibilitados para hacerlo, podrán nombrar un representante para la sesión de que se trate.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE AGOSTO DE 2018)</small>
+
+###### Artículo 48 Bis.
+
+Los integrantes del Consejo son de carácter honorario, por lo que no recibirán retribución económica alguna por sus actividades dentro del mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE AGOSTO DE 2018)</small>
+
+###### Artículo 48 Ter.
+
+Los representantes ciudadanos a que hace referencia el artículo 48, serán exclusivamente ciudadanos distinguidos en el área de parques, jardines y áreas verdes, sin cargo gubernamental alguno y bajo el siguiente perfil:
+
+a) Personas Físicas;
+
+b) Con experiencia y conocimiento acerca de los Parques, Jardines y Áreas Verdes;
+
+c) Sin antecedentes penales;
+
+d) Con participación en trabajos comunitarios; y
+
+e) Con edad mínima de 18 años.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 49.
 
-Los Vocales Propietarios serán electos por el H. Ayuntamiento, para lo cual se emitirá una convocatoria, en los siguientes términos:
+Los Vocales Propietarios del Consejo que sean representantes de la ciudadanía, serán electos por el H. Ayuntamiento, para lo cual se emitirá una convocatoria, en los siguientes términos:
 
-I. El Ayuntamiento, dentro de los treinta días hábiles anteriores a que concluya la gestión del Consejo en funciones, aprobará y emitirá una convocatoria pública, para que durante los diez días hábiles posteriores a la publicación de la misma en los medios de mayor circulación, la Ciudadanía y Organismos Privados hagan llegar a la Secretaría General del H. Ayuntamiento, las propuestas de sus candidatos a Vocales Propietarios y suplentes del Consejo.
+I. El Ayuntamiento, dentro de los treinta días hábiles anteriores a que concluya la gestión del Consejo en funciones, aprobará y emitirá una convocatoria pública, para que durante los diez días hábiles posteriores a la publicación de la misma en los medios de mayor circulación, la Ciudadanía y Organismos Privados hagan llegar a la Secretaría General del H. Ayuntamiento, las propuestas de sus candidatos a Vocales Propietarios representantes de la ciudadanía y sus suplentes.
 
 II. Concluido el término de recepción de propuestas, a que se refiere la fracción anterior, el Ayuntamiento en pleno dentro de los 15 días posteriores llevará a cabo una sesión de Cabildo, en la que por mayoría de las dos terceras partes de sus integrantes, elegirá dentro de las personas propuestas, a quienes deban integrar las vocalías por el periodo inmediato siguiente.
 
 III. El Presidente Municipal tomará protesta a los integrantes del Consejo.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 50.
 
-Los Miembros del Consejo durarán en su cargo tres años y deberán renovarse durante el primer trimestre del segundo año que corresponde a la nueva Administración Municipal, entendiéndose que las vocalías honoríficas podrán ratificarse si así lo considera pertinente el H. Ayuntamiento.
+Los miembros del Consejo durarán en su cargo tres años y deberán renovarse durante el primer trimestre del segundo año que corresponde a la nueva Administración Municipal, entendiéndose que las vocalías por representatividad ciudadana podrán ratificarse si así lo considera pertinente el H. Ayuntamiento.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE AGOSTO DE 2018)</small>
 
 DEL PRESIDENTE
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 51.
 
 Son atribuciones y obligaciones del Presidente del Consejo:
 
-I. Representar al Consejo.
+I. Representar al Consejo;
 
-II. Informar al Departamento de Parques y Jardines y a la Dirección de Ecología Municipal, los acuerdos que se tomen en el Consejo.
+II. Informar al Departamento de Parques, Jardines y Panteones y a la Subdirección de Ecología y Medio Ambiente, los acuerdos que se tomen en el Consejo;
 
-III. Convocar y presidir las Asambleas ordinarias y extraordinarias.
+III. Convocar y presidir las Asambleas ordinarias y extraordinarias;
 
-IV. Proponer a discusión y votación los asuntos del orden del día teniendo voto de calidad en caso de empate.
+IV. Proponer a discusión y votación los asuntos del orden del día teniendo voto de calidad en caso de empate;
 
-V. Convalidar con su firma la del Secretario Técnico en las actas aprobadas por el consejo.
+V. Convalidar con su firma la del Secretario Técnico en las actas aprobadas por el consejo;
 
-VI. Nombrar a quien por razones de su cargo deba representarlo en el seno del Consejo, notificándole a este por oficio de tal representación.
+VI. Nombrar a quien por razones de su cargo deba representarlo en el seno del Consejo, notificándole a este por oficio de tal representación; y
 
 VII. Rendir un informe anual de las actividades desarrolladas por el mismo Consejo.
 
-DEL SECRETARIO TECNICO
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
+DEL SECRETARIO TÉCNICO
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 52.
 
 Son obligaciones y atribuciones del Secretario Técnico:
 
-I. Dar cuenta al Presidente de la correspondencia y asuntos que se reciban.
+I. Dar cuenta al Presidente de la correspondencia y asuntos que se reciban;
 
-II. Redactar las circulares, dictámenes y propuestas emanadas del Consejo.
+II. Redactar las circulares, dictámenes y propuestas emanadas del Consejo;
 
-III. Preparar, con la debida anticipación, la documentación de los asuntos que deban tratarse en cada asamblea independientemente del carácter de esta y formulando, de acuerdo con el Presidente, el Orden del Día correspondiente.
+III. Preparar, con la debida anticipación, la documentación de los asuntos que deban tratarse en cada asamblea independientemente del carácter de esta y formulando, de acuerdo con el Presidente, el Orden del Día correspondiente;
 
-IV. Levantar las actas de las sesiones en un libro especial, que deberá asignar en cada caso y por cada asamblea afirmando la veracidad de las mismas, consignando además las modificaciones, rectificaciones o ratificaciones de estas.
+IV. Levantar las actas de las sesiones en un libro especial, que deberá asignar en cada caso y por cada asamblea afirmando la veracidad de las mismas, consignando además las modificaciones, rectificaciones o ratificaciones de estas;
 
-V. Llevar el archivo del Consejo.
+V. Llevar el archivo del Consejo; y
 
 VI. Las que no estando señaladas aquí, el propio Consejo le confiera de manera especial, mediante acuerdo.
 
@@ -524,6 +622,8 @@ El Presidente del Consejo está facultado para convocar las Asambleas Extraordin
 ###### Artículo 60.
 
 De cada Sesión se levantará un Acta en la que queden indicados los asuntos del Orden del Día y los Acuerdos que en dicha Sesión se tomaron.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE AGOSTO DE 2018)</small>
 
 ### Capitulo VIII. DE LAS INFRACCIONES Y SANCIONES
 
@@ -587,69 +687,83 @@ C) Si las plantas se cultivan o no en los viveros municipales.
 
 Las sanciones a que se refiere el presente reglamento se aplicarán sin perjuicio a la obligación que tiene el infractor de reparar el daño que haya ocasionado o de cualquier otra responsabilidad.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 66.
 
-Tomando como base para aplicar la sanción los artículos 42, 43 y 44 con el fin de no extralimitarse se deberá tomar en cuenta el siguiente tabulador:
+Tomando como base para aplicar la sanción, los artículos 62, 63 y 64 del presente Reglamento, con el fin de no extralimitarse se deberá tomar en cuenta el siguiente tabulador:
 
-I. Por dañar o cortar plantas o flores de los lugares de uso público; 10 salarios mínimos.
+I. Por dañar o cortar plantas o flores de los lugares de uso público; 10 UMA;
 
-II. Pintar, rayar y/o colocar publicidad de cualquier índole en árboles, equipamiento, monumentos o cualquier otro elemento arquitectónico de los parques, jardines, plazas, camellones; en general de todos los bienes de uso común; 5 salarios mínimos por pieza dañada.
+II. Pintar, rayar y/o colocar publicidad de cualquier índole en árboles, equipamiento, monumentos o cualquier otro elemento arquitectónico de los parques, jardines, plazas, camellones; en general de todos los bienes de uso común; 5 UMA por pieza dañada;
 
-III. Talar o podar cualquier árbol, en propiedad municipal o particular, sin la autorización correspondiente, cuando sea esta necesaria en los términos de este reglamento; de 10 a 150 salarios mínimos.
+III. Talar o podar cualquier árbol, en propiedad municipal o particular, sin la autorización correspondiente, cuando sea esta necesaria en los términos de este reglamento; de 10 a 150 UMA;
 
-IV. Quemar o talar árboles; de 10 a 150 salarios mínimos.
+IV. Quemar o talar árboles; de 10 a 150 UMA;
 
-V. Agregar cualquier producto tóxico o sustancia química que dañe, lesione o destruya las áreas verdes; de 10 a 150 salarios mínimos.
+V. Agregar cualquier producto tóxico o sustancia química que dañe, lesione o destruya las áreas verdes; de 10 a 150 UMA; y
 
-VI. Dañar las áreas verdes, juegos infantiles, obra civil y arquitectónica, fuentes, monumentos y demás accesorios de las plazas, parques, jardines públicos y camellones; en general de todos los bienes de uso común; de 10 a 200 salarios mínimos.
+VI. Dañar las áreas verdes, juegos infantiles, obra civil y arquitectónica, fuentes, monumentos y demás accesorios de las plazas, parques, jardines públicos y camellones; en general de todos los bienes de uso común; de 10 a 200 UMA.
 
 ###### Artículo 67.
 
 En contra de estas resoluciones dictadas en aplicación de este reglamento procederá el recurso de inconformidad del ciudadano.
 
-### Capitulo IX. DE LOS RECURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 2018)</small>
+
+### Capitulo IX. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 68.
 
 Se entiende por recurso administrativo, todo medio de impugnación de que disponen los particulares que a su juicio se consideren afectados en sus derechos o intereses, por un acto de la administración publica, para obtener de la autoridad administrativa una revisión del propio acto, con la finalidad de que lo revoque, modifique o lo confirme según el caso.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 69.
 
-El recurso de revisión procederá en contra de los acuerdos dictados por el Presidente Municipal o por los servidores públicos en quien este haya delegado facultades, relativas a la calificación y sanción por las faltas a las disposiciones a este Reglamento.
+El recurso de inconformidad procederá en contra de los acuerdos dictados por el Presidente Municipal o por los servidores públicos en quien este haya delegado facultades relativas a la calificación y sanción por las faltas a las disposiciones a este Reglamento.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 70.
 
-El recurso de revisión será interpuesto por el afectado, dentro del termino de cinco días hábiles siguientes al que hubiese tenido conocimiento del acuerdo o acto que se impugne.
+El recurso de inconformidad será interpuesto por el afectado, dentro del término de cinco días hábiles siguientes al que hubiese tenido conocimiento del acuerdo o acto que se impugne.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 71.
 
-El escrito de presentación del recurso de revisión deberá contener:
+El escrito de presentación del recurso de inconformidad deberá contener:
 
-a. Nombre y domicilio del solicitante y, en su caso, de quien promueve en su nombre
+a. Nombre y domicilio del solicitante y, en su caso, de quien promueve en su nombre;
 
-b. La resolución o acto administrativo que se impugna
+b. La resolución o acto administrativo que se impugna;
 
-c. La autoridad o autoridades que dictaron el acto recurrido
+c. La autoridad o autoridades que dictaron el acto recurrido;
 
-d. La constancia de notificación al recurrente del acto impugnado o, en su defecto, la fecha en que bajo protesta de decir verdad manifieste el recurrente que tuvo conocimiento del acto o resolución que impugna
+d. La constancia de notificación al recurrente del acto impugnado o, en su defecto, la fecha en que bajo protesta de decir verdad manifieste el recurrente que tuvo conocimiento del acto o resolución que impugna;
 
-e. La narración de los hechos que dieron origen al acto administrativo que se impugna
+e. La narración de los hechos que dieron origen al acto administrativo que se impugna;
 
 f. La exposición de agravios; y
 
-g. La enumeración de las pruebas que ofrezca
+g. La enumeración de las pruebas que ofrezca.
 
 ###### Artículo 72.
 
 En la tramitación de los recursos serán admisibles toda clase de pruebas, excepto la confesional mediante la absolución de posiciones a cargo de los servidores públicos que hayan dictado o ejecutado el acto reclamado; las que no tengan relación con los hechos controvertidos y las que sean contrarias a la moral y al derecho.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 73.
 
-En el mismo escrito deberán acompañarse los documentos probatorios, en caso contrario, si al examinarse el recurso se advierte que no se adjuntaron los documentos señalados en este artículo, la autoridad requerirá al recurrente para que en un termino de tres días hábiles los presente, apercibiéndole que en caso de no hacerlo se desechará el recurso o se tendrán por no ofrecidas las pruebas según corresponda.
+En el mismo escrito deberán acompañarse los documentos probatorios, en caso contrario, si al examinarse el recurso se advierte que no se adjuntaron los documentos señalados en este artículo, la autoridad requerirá al recurrente para que en un término de tres días hábiles los presente, apercibiéndole que en caso de no hacerlo se desechará el recurso o se tendrán por no ofrecidas las pruebas según corresponda.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 74.
 
-El recurso de revisión será presentado ante el Sindico del Ayuntamiento quien deberá integrar el expediente respectivo y presentarlo, a través de la Secretaría General, a la consideración de los integrantes del Cabildo junto con el proyecto de resolución del mismo proyecto, para que en un plazo no mayor a quince días hábiles, confirme, revoque o modifique el acuerdo impugnado.
+El recurso de revisión será presentado ante el Síndico del Ayuntamiento quien deberá integrar el expediente respectivo y presentarlo, a través de la Secretaría General, a la consideración de los integrantes del Cabildo junto con el proyecto de resolución del mismo proyecto, para que en un plazo no mayor a quince días hábiles, confirme, revoque o modifique el acuerdo impugnado.
 
 ## TRANSITORIOS
 
@@ -676,3 +790,11 @@ SECRETARIO FEDATARIO DEL H. XVIII AYUNTAMIENTO DE ENSENADA
 P.O. 28 DE NOVIEMBRE DE 2014.
 
 ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
+
+P.O. 3 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE DIVERSOS ARTÍCULOS DEL REGLAMENTO DE PARQUES Y JARDINES DEL MUNICIPIO DE ENSENADA, B.C, PUBLICADO EN EL PERIÓDICO OFICIAL DE FECHA 11 DE ABRIL DE 2008".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Una vez que entre en vigor la presente reforma, el Presidente Municipal del XXII Ayuntamiento de Ensenada, deberá promover la instalación del Consejo Consultivo Municipal de Parques y Jardines del Municipio de Ensenada, de conformidad con el capítulo de la Integración del Consejo Consultivo Municipal de Parques y Jardines del Municipio de Ensenada.
