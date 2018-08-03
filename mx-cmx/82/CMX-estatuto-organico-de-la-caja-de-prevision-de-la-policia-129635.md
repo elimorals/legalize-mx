@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-la-caja-de-prevision-de-la-policia-129635"
 country: "mx"
 rank: "estatuto"
 publication_date: "2001-10-25"
-last_updated: "2001-10-25"
+last_updated: "2018-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129635&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2019-03-11"
 
 ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN DE LA POLICÍA AUXILIAR DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE AGOSTO DE 2018.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 25 de octubre de 2001.
 
@@ -47,9 +47,9 @@ CONTENIDO
 
 ### CAPÍTULO VI DE LA DIRECCIÓN GENERAL.
 
-### CAPÍTULO VII DE LAS DIRECCIONES DE ÁREA Y SUBDIRECCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 3 DE AGOSTO DE 2018)</small>
 
-JURÍDICA.
+### CAPÍTULO VII DE LAS DIRECCIONES DE ÁREA Y LA COORDINACIÓN JURÍDICA.
 
 ### CAPÍTULO VIII DE LOS ÓRGANOS DE CONTROL INTERNO Y DE
 
@@ -145,7 +145,9 @@ III. Dirección de Servicios de Salud;
 
 IV. Dirección de Administración y Finanzas;
 
-V. Subdirección Jurídica; y
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2018)</small>
+
+V. Coordinación Jurídica, y
 
 VI. Contraloría Interna.
 
@@ -317,7 +319,9 @@ XVII. Expedir copias certificadas de los documentos que obren en los archivos de
 
 XVIII. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos aplicables.
 
-### CAPÍTULO VII. DE LAS DIRECCIONES DE ÁREA Y SUBDIRECCIÓN JURÍDICA
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 3 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO VII. DE LAS DIRECCIONES DE ÁREA Y LA COORDINACIÓN JURÍDICA
 
 ###### Artículo 25.
 
@@ -455,9 +459,11 @@ XXIX. Administrar la plantilla de personal autorizada, en lo que se refiere al c
 
 XXX. Desarrollar e implementar los sistemas y procedimientos que permitan proporcionar y administrar, de acuerdo a la normatividad vigente, los materiales, suministros y servicios generales que requiera el organismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 30.
 
-Corresponde a la Subdirección Jurídica, el ejercicio de las atribuciones siguientes:
+Corresponde a la Coordinación Jurídica, el ejercicio de las atribuciones siguientes:
 
 I. Dictaminar los convenios, contratos y demás actos jurídicos en los que intervenga, así como realizar los estudios especiales y las investigaciones jurídicas que coadyuven al adecuado ejercicio de las funciones que sean de la competencia de La Caja;
 
@@ -530,3 +536,13 @@ Las ausencias temporales del Contralor Interno serán suplidas por el funcionari
 Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Hasta en tanto no se expida el Manual Administrativo, el Director General asignará a los Subdirectores y Jefes de Unidad Departamental las funciones y atribuciones que deberán desempeñar. La expedición de dicho manual será de acuerdo a las disposiciones jurídicas aplicables.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 3 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE EL ÓRGANO DE GOBIERNO DE LA CAJA DE PREVISIÓN DE LA POLICÍA AUXILIAR DEL DISTRITO FEDERAL, APRUEBA POR UNANIMIDAD LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN DE LA POLICÍA AUXILIAR, PUBLICADO EN LA GACETA OFICIAL, EL 25 DE OCTUBRE DE 2001”.]
+
+PRIMERO.- Publíquese el presente en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en Gaceta Oficial de la Ciudad de México.
