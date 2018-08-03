@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2018-06-29"
+last_updated: "2018-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1431,21 +1431,21 @@ Las comisiones son reuniones de trabajo donde se deliberan, analizan, discuten y
 
 COMISIONES PERMANENTES.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 114.
 
-Son comisiones permanentes los siguientes:
+Son comisiones permanentes las siguientes:
 
 I.- Gobernación y Legislación;
 
-II. - Hacienda y Patrimonio Municipal;
+II.- Hacienda y Patrimonio Municipal;
 
 III.- Administración Pública y Fortalecimiento Municipal;
 
-IV.- Derechos Humanos y Equidad de Genero
+IV.- Equidad Social e Igualdad de Género;
 
-V.- Obras y Servicios Públicos e infraestructura;
+V.- Servicios Públicos e infraestructura;
 
 VI.- Desarrollo Urbano;
 
@@ -1453,9 +1453,7 @@ VII.- Seguridad, Tránsito y Transporte;
 
 VIII.- Planeación y Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
-
-IX.- Salud;
+IX.- Salud y Asistencia Social;
 
 X.- Turismo;
 
@@ -1485,9 +1483,15 @@ XXII.- Protección Civil; y
 
 XXIII.- Ecología y Medio Ambiente.
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+Para efectos de crear nuevas comisiones, nombrar, cambiar o remover coordinadores o integrantes de las mismas, el Presidente Municipal lo propondrá al Ayuntamiento en Sesión de Cabildo, en donde éste, determinará por mayoría absoluta la aprobación en su caso.
 
-XXIV.- Comisión de Asuntos Metropolitanos
+Las comisiones permanentes tendrán las atribuciones que se le confieran expresamente en este Reglamento y las que otros ordenamientos y el Ayuntamiento le encomienden.
+
+Para efectos de la elaboración de dictámenes, con independencia del apoyo de la secretaria técnica, podrán solicitar la colaboración y consulta de la unidad o área administrativa encargada de los asuntos jurídicos del propio Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 114 BIS.- Los Regidores Presidentes de cada Comisión del Ayuntamiento, entregarán a más tardar el 30 de septiembre del año que corresponda a la Secretaria General del Ayuntamiento saliente sus respectivos informes de los Asuntos de Cabildo, para que este a su vez los entregue al Secretario General entrante y lo remita a las respectivas Comisiones. En los términos previstos en el Reglamento para la Entrega y Recepción de los Asuntos y Recursos Públicos del Municipio de Ensenada, Baja California.
 
 COMISION DE GOBERNACION Y LEGISLACION.
 
@@ -1975,9 +1979,9 @@ V.- Inspeccionar a solicitud ciudadana la correcta expedición de los diversos p
 
 VI.- Opinar y dictaminar en su caso, en las campañas de información y divulgación a la población en materia de ecología y protección al medio ambiente, cumpliendo con las directrices dadas por el Ayuntamiento, disposiciones estatales y federales;
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 3 DE AGOSTO DE 2018)</small>
 
-COMISÓN DE ASUNTOS METROPOLITANOS
+COMISIÓN DE ASUNTOS METROPOLITANOS
 
 ARTÍCULO 127 DUODECIES.- Atribuciones:
 
@@ -2045,17 +2049,19 @@ Una vez agotado el proceso y considerando en su caso las observaciones, el, Coor
 
 ESTRUCTURA DEL DICTAMEN.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 133.
 
-El dictamen deberá contener por lo menos los siguientes elementos:
+El dictamen deberá contener por lo menos los siguientes elementos;
 
 I.- Número de expediente o dictamen y nombre de la Comisión o comisiones que lo emiten;
 
 II.- Fecha de recepción en la Comisión;
 
-III.- Nombre del promovente o promoventes del asunto, proyecto o iniciativa;
+III.- Nombre y firma del promovente o promoventes del asunto, proyecto o iniciativa;
 
-IV.- Relatoría de las actuaciones realizadas por la Comisión para normar su criterio y resolver al dictaminar;
+IV.- Relataría (sic) de las actuaciones realizadas por la Comisión para normar su criterio y resolver al dictaminar;
 
 V.- Consideraciones y motivos que formaron convicción para apoyar, modificar o rechazar el asunto sometido a análisis y dictamen;
 
@@ -2065,7 +2071,9 @@ VII.- Conclusiones o Puntos Resolutivos.
 
 En los casos de dictámenes que afecten a una o varias personas, la comisión deberá comprobar que se entrevistó con las personas que en su caso, resultaren afectadas, y que les dio la oportunidad de manifestar sus consideraciones sobre el asunto que se dictamina.
 
-Todos los dictámenes con su expediente, serán turnados al Secretario Fedatario del Ayuntamiento en los términos que señala este reglamento.
+Todos los dictámenes con su expediente, serán turnados al Secretario Fedatario del
+
+Ayuntamiento en los términos que señala este reglamento.
 
 INFORMES ADMINISTRATIVOS.
 
@@ -2389,7 +2397,7 @@ P.O. 11 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 122, Y ADICIONA EL ARTÍCULO 142 BIS AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA".]
 
-ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publiación en el Periódico Oficial del Estado y/o en la Gaceta Municipal de Ensenada.
+ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y/o en la Gaceta Municipal de Ensenada.
 
 P.O. 22 DE JUNIO DE 2018.
 
@@ -2400,3 +2408,15 @@ P.O. 22 DE JUNIO DE 2018.
 P.O. 29 DE JUNIO DE 2018.
 
 [EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]
+
+P.O. 3 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DE FECHA 05 DE JUNIO DEL 2018, RELATIVO A LA ADICIÓN DE LA FRACCIÓN XXIV AL ARTÍCULO 127 DUODECIES DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, B.C.".]
+
+ÚNICO.- La presente reformo se publicará en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal y de conformidad a lo establecido en el primer artículo transitorio de la Ley de Responsabilidades Administrativas del Estado de Bajo California, la presente reforma entrará en vigor a partir del día siguiente de su publicación.
+
+P.O. 3 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DEL ARTÍCULO 114 BIS Y LA MODIFICACIÓN DEL ARTÍCULO 133 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, B. C.”.]
+
+UNÍCO.- LA CREACION DEL ARTICULO 114 BIS Y LA MODIFICACION DEL ARTICULO 133 del REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, Entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
