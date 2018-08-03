@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-municipal-de-proteccion-civil-de-ensenada-baja-16467
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-28"
-last_updated: "2017-08-04"
+last_updated: "2018-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE ENSENADA BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DEL REGLAMENTO MUNICIPAL DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO MUNICIPAL DE PROTECCIÓN CIVIL DE ENSENADA BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 28 de abril de 2000.
 
@@ -1304,3 +1306,25 @@ P.O. 4 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 121 DEL REGLAMENTO MUNICIPAL DE PROTECCIÓN CIVIL DE ENSENADA, B.C.”.]
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA ABROGACIÓN DEL REGLAMENTO DE PROTECCIÓN CIVIL DE ENSENADA, BAJA CALIFORNIA., PUBLICADO EN EL PERIÓDICO OFICIAL NO. 18 DE FECHA 28 DE ABRIL DEL 2000, Y LA EMISIÓN DEL REGLAMENTO MUNICIPAL DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE ENSENADA, B.C.".]
+
+Primero.- Este Reglamento entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
+
+Segundo.- Toda empresa, asociación civil, grupo, institución u organismo no gubernamental, persona física o moral, pública o privada, deberá acatar las disposiciones comprendidas en este Reglamento, teniendo un plazo de sesenta (60) días naturales después de su publicación para generar los trámites correspondientes.
+
+Tercero.- En tanto se formulen, aprueben u homologuen las normas técnicas y programas correspondientes para materiales peligrosos a que se refiere el presente Reglamento, regirán las correspondientes recomendadas por la Secretaría de Medio Ambiente y Recursos Naturales, Naciones Unidas, Organización Mundial de la Salud y las demás disposiciones legales existentes en la materia.
+
+Cuarto.- En tanto se formulen las listas y normas específicas para el manejo de materiales peligrosos por la Unidad Municipal de Protección Civil en coordinación con los Organismos Gubernamentales competentes, se adoptarán las disposiciones recomendadas por las Naciones Unidas.
+
+Quinto.- La Dirección Municipal de Protección Civil, deberá de formular para su aprobación u homologación, las normas técnicas y programas correspondientes, así como las listas y normas específicas para materiales peligrosos en un plazo de 90 días a partir de la publicación del presente ordenamiento.
+
+Sexto.- En un plazo máximo de 30 días hábiles a partir de la vigencia de este Reglamento, deberá integrarse el Consejo Municipal de Protección Civil, efectuando la sesión de instalación correspondiente. El Consejo se instalará sin los vocales a que se refiere el inciso a) de la fracción I del artículo 19 de este Reglamento, quienes serán propuestos por el Consejo en la segunda sesión ordinaria que celebre.
+
+Séptimo.- EI Programa Municipal de Protección Civil deberá expedirse en un plazo no mayor a 180 días naturales, contados a partir de la entrada en vigor de este Reglamento.
+
+Octavo.- Se abroga el Reglamento de Protección Civil de Ensenada, Baja California, publicado en el Periódico Oficial No. 18, de fecha 28 de abril del 2000.
+
+Noveno.- La presente reforma no implica la creación de nuevas plazas, en la Unidad de Protección Civil Municipal, ni altera el Presupuesto de Egresos para el ejercicio fiscal 2018 del Municipio de Ensenada; debiéndose implementar con los recursos humanos, materiales y económicos con los que actualmente dispone la Unidad en cita.
