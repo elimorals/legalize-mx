@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-103369"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-29"
-last_updated: "2017-05-31"
+last_updated: "2018-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de octubre de 2014.
 
@@ -1735,11 +1735,11 @@ El Consejo de la Judicatura es un órgano del Poder Judicial del Estado con inde
 
 El Consejo en Pleno estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Pleno del Tribunal Superior de Justicia podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional estatal.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 113.
 
-Las resoluciones del Consejo de la Judicatura serán definitivas e inatacables y en su contra no procede recurso alguno. Solo serán recurribles ante el Pleno del Tribunal Superior de Justicia, aquellas que versen sobre la designación, adscripción, ratificación, remoción o destitución. En contra de dichas determinaciones del Pleno no procederá recurso alguno.
+Las resoluciones del Consejo de la Judicatura serán recurribles ante el Pleno del Tribunal Superior de Justicia, en los términos de la Ley Orgánica del Poder Judicial del Estado. En contra de dichas decisiones del Pleno no cabrá recurso alguno.
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -3179,33 +3179,45 @@ Cuando un procedimiento se inicie sin fundamento y así se declare por la autori
 
 ### CAPÍTULO SEXTO. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 235.
 
-El recurso de revisión administrativa, cuya competencia es exclusiva del Pleno, es el medio de impugnación que procederá tratándose de:
+El recurso de revisión administrativa, cuya competencia es exclusiva del Pleno, procederá contra las resoluciones pronunciadas por el Consejo de la Judicatura del Poder Judicial, siempre que dicha impugnación se presente por escrito, por parte legítima, con motivo fundado y dentro del término de cinco días hábiles siguientes a su notificación.
 
-I. Resoluciones de designación con motivo de un examen de oposición por cualquiera de las personas que hubieran participado en él.
+I. (DEROGADA, P.O. 4 DE AGOSTO DE 2018)
 
-II. Resoluciones de destitución, cese o inhabilitación por la o el funcionario o la o el empleado afectado.
+II. (DEROGADA, P.O. 4 DE AGOSTO DE 2018)
 
-III. Resoluciones de cambio de adscripción, por la o el funcionario judicial interesado.
+III. (DEROGADA, P.O. 4 DE AGOSTO DE 2018)
 
-IV. Todos aquellos actos o resoluciones que conforme a las leyes o reglamentos lo prevean.
+IV. (DEROGADA, P.O. 4 DE AGOSTO DE 2018)
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 236.
 
-El recurso de revisión administrativa se tramitará en los plazos y términos establecidos en el Reglamento.
+El recurso de revisión será remitido, dentro de los tres días hábiles siguientes a su recepción, por riguroso turno, a uno de los Magistrados o Magistradas, a fin de que, previo estudio, elabore el proyecto de resolución y lo someta a la consideración del Pleno.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2018)</small>
+
+Recibido el escrito de impugnación, la o el magistrado o magistrada ponente requerirá al Consejo de la Judicatura del Estado para que, en un plazo de tres días hábiles, rinda un informe sobre los hechos motivo de impugnación, remitiendo aquel testimonio de los documentos que justifiquen la decisión. De igual forma, se notificará al tercero interesado, en su caso, para que haga valer lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2018)</small>
+
+La o el magistrado ponente, dentro de los diez días hábiles siguientes, remitirá el proyecto de resolución a la consideración del Pleno, debiendo este resolverlo, a más tardar, dentro de los diez días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2018)</small>
+
+La interposición del recurso de revisión administrativa no interrumpirá, en ningún caso, los efectos de la resolución impugnada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 237.
 
-Las resoluciones del Pleno que declaren fundado el recurso planteado y declaren la nulidad del acto impugnado no producirán la invalidez de las actuaciones de la o el funcionario nombrado o adscrito.
+Las resoluciones del Pleno del Tribunal Superior de Justicia, en su caso, se limitarán a declarar la nulidad del acto impugnado, para el efecto de que el Consejo de la Judicatura del Estado emita una nueva resolución, en un plazo no mayor a quince días hábiles.
 
-La interposición de la revisión administrativa no interrumpirá en ningún caso, los efectos de la resolución impugnada.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE AGOSTO DE 2018)</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO, ANTES TÍTULO OCTAVO], P.O. 31 DE MAYO DE 2017)</small>
 
@@ -3842,3 +3854,15 @@ Dentro de los sesenta días hábiles siguientes a la entrada en vigor de las pre
 ###### ARTÍCULO SÉPTIMO.
 
 Todo lo no previsto en esta Ley, será regulado por el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Chihuahua, mediante el reglamento y Acuerdos Generales y lineamientos para el adecuado ejercicio de sus funciones.
+
+P.O. 4 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/CUMRL/0843/2018 XV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 106, QUINTO PÁRRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS PRECEPTOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, PARA DAR CUMPLIMIENTO A LA RESOLUCIÓN DE LA CONTROVERSIA CONSTITUCIONAL 179/2017".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese el presente Decreto a la Suprema Corte de Justicia de la Nación, en cumplimiento a lo ordenado en la Resolución de la Controversia Constitucional número 179/2017.
