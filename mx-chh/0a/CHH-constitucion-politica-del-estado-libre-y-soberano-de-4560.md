@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2018-06-23"
+last_updated: "2018-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "CHH"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2018.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -2299,9 +2297,9 @@ Es facultad exclusiva del Consejo de la Judicatura evaluar el desempeño de las 
 
 El Consejo en Pleno estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal Superior de Justicia podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional estatal.
 
-(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2018)</small>
 
-LAS RESOLUCIONES DEL CONSEJO DE LA JUDICATURA SERÁN DEFINITIVAS E INATACABLES Y EN SU CONTRA NO PROCEDE RECURSO ALGUNO. SOLO SERÁN RECURRIBLES ANTE EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, AQUELLAS SOBRE LA DESIGNACIÓN, ADSCRIPCIÓN, RATIFICACIÓN, REMOCIÓN O DESTITUCIÓN. EN CONTRA DE DICHAS DETERMINACIONES DEL PLENO NO PROCEDERÁ RECURSO ALGUNO.
+Las resoluciones del Consejo de la Judicatura serán recurribles ante el Pleno del Tribunal Superior de Justicia, en los términos de la Ley Orgánica del Poder Judicial del Estado. En contra de dichas decisiones del Pleno no cabrá recurso alguno.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -5040,3 +5038,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de las iniciativas, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
+
+P.O. 4 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/CUMRL/0843/2018 XV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 106, QUINTO PARRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS PRECEPTOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA. PARA DAR CUMPLIMIENTO A LA RESOLUCIÓN DE LA CONTROVERSIA CONSTITUCIONAL 179/2017".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese el presente Decreto a la Suprema Corte de Justicia de la Nación, en cumplimiento a lo ordenado en la Resolución de la Controversia Constitucional número 179/2017.
