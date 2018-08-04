@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-transito-y-de-la-seguridad-vial-del-municipio-123
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-30"
-last_updated: "2018-01-27"
+last_updated: "2018-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE MANZANILLO, COLIMA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 04 DE AGOSTO DE 2018.
 
 Reglamento publicado en el Suplemento No. 1 al Número 62 del Periódico Oficial del Estado de Colima, el sábado 30 de septiembre de 2017.
 
@@ -417,11 +417,9 @@ Son atribuciones de los agentes de la policía estatal preventiva y del personal
 
 Además de las atribuciones señaladas en los artículos anteriores, compete a los peritos intervenir en los hechos de tránsito terrestre para tomar conocimiento de las circunstancias esenciales y accidentales que se generaron en el hecho de tránsito, así como de las condiciones ambientales y geográficas prevalecientes en el lugar de los hechos, a los aspectos técnicos para regulación de tráfico y la señalización vial, que les permitan determinar las probables causas del accidente en la elaboración del parte informativo relativo al hecho de tránsito, haciendo referencia a las disposiciones legales aplicables al caso, para conocimiento del mando y de las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
-
 ###### ARTÍCULO 12.
 
-El personal de policía vial intervendrá en acciones operativas para la regulación del transporte público, de acuerdo con las facultades concurrentes que dispone la Ley de Movilidad Sustentable para el Estado de Colima, y el presente Reglamento.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2018)</small>
 
@@ -529,45 +527,11 @@ DE LOS PASAJEROS
 
 ###### ARTÍCULO 21.
 
-Los pasajeros deberán de cumplir con lo siguiente:
-
-I. Usar cinturón de seguridad en los vehículos que cuenten con este dispositivo según sea el diseño;
-
-II. Viajar debidamente sentados en el asiento que les corresponda, excepto en vehículos de servicio de transporte público urbano o suburbano de pasajeros;
-
-III. Descender o ascender estando la unidad estática y siempre por el lado de la banqueta o acotamiento;
-
-IV. Los pasajeros de vehículos de servicio público local o federal, deberán de tener, para los demás pasajeros y para el conductor, una conducta de respeto, absteniéndose de realizar cualquier acto que ocasione molestias. Ningún pasajero puede hacer uso de aparatos reproductores de sonido a menos que usen audífonos;
-
-V. Los pasajeros de vehículos de servicio público local o federal, deben de ceder los asientos a: escolares de primaria y preescolar, mujeres, adultos mayores y personas con discapacidad;
-
-VI. Los pasajeros deberán de observar las normas de seguridad vial y de tránsito al abordar y transportarse en vehículos; y
-
-VII. Solicitar oportunamente el alto de la unidad, para el ascenso o descenso y aquél se realizará únicamente en los sitios, paradas o estaciones establecidas para dicho efecto.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2018)
 
 ###### ARTÍCULO 22.
 
-Los pasajeros tienen prohibido lo siguiente:
-
-I. Ingerir bebidas alcohólicas y fumar en vehículos de Servicio Público de pasajeros;
-
-II. Sacar del vehículo parte de su cuerpo u objetos;
-
-III. Arrojar basura u objetos a la vía pública;
-
-IV. Abrir las puertas de vehículos en movimiento;
-
-V. Abrir las puertas del vehículo, estacionado hacia el lado de la circulación;
-
-VI. Sujetarse del conductor o distraerlo;
-
-VII. Operar los dispositivos del control del vehículo;
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
-
-VIII. Interferir en las funciones del personal de policía vial; y
-
-IX. Será responsabilidad del conductor la inobservancia a estos preceptos y dará lugar a infracción.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2018)
 
 ###### ARTÍCULO 23.
 
@@ -575,11 +539,7 @@ Los pasajeros de un vehículo deberán viajar en el interior de éste, debidamen
 
 ###### ARTÍCULO 24.
 
-Queda prohibido para los pasajeros viajar exponiendo cualquier parte de su cuerpo al exterior del vehículo, estando obligado el conductor, bajo su responsabilidad, a vigilar esta circunstancia, así mismo queda prohibido subir pasaje a un vehículo de transporte colectivo o de servicio urbano, cuando se encuentren en estado de ebriedad o bajo el influjo de sustancias psicotrópicas, e ingerir dichas bebidas dentro del mismo.
-
-Será permisible para las unidades de transporte público de taxi trasladar personas que se encuentren en estado de ebriedad, quedando prohibido el que vayan ingiriendo bebidas alcohólicas en el interior del vehículo.
-
-En los casos anteriores será responsabilidad del conductor la inobservancia a este precepto por sus pasajeros, independientemente de la sanción administrativa o en su caso del arresto preventivo del que sea sujeto el pasajero infractor.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2018)
 
 ###### ARTÍCULO 25.
 
@@ -607,11 +567,9 @@ Queda prohibido a los pasajeros arrojar objetos y basura a la vía pública, por
 
 Queda prohibido abrasar o sujetar al conductor, a fin de que no se entorpezca la maniobra de conducción, así mismo los pasajeros no deberán obstruir la visibilidad del conductor, siendo de éste la responsabilidad de cumplirlo.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
-
 ###### ARTÍCULO 31.
 
-Ninguna persona deberá ocupar un remolque que transite por las vías públicas del Municipio; excepto cuando haya sido diseñado para transporte de pasajeros y aprobado por la autoridad de policía vial, o sea utilizado en el desarrollo de eventos especiales previamente autorizados por la Dirección Operativa de Policía Vial.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2018)
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
@@ -967,7 +925,7 @@ X. Efectuar ruidos molestos o insultantes con el escape o con el claxon;
 
 XI. Usar radios que tengan la misma frecuencia de la policía estatal o municipal;
 
-XII. Utilizar equipos de sonido de tal forma, que su volumen contamine el ambiente o sea molesto para el público o pasajeros, en caso de que el vehículo sea de servicio público de pasajeros;
+XII. (DEROGADA, P.O. 4 DE AGOSTO DE 2018)
 
 XIII. Utilizar audífonos;
 
@@ -987,7 +945,7 @@ XX. Cambiar de carril cuando exista raya continua delimitando los carriles de ci
 
 XXI. Dar vuelta en <<U>>, para colocarse en sentido opuesto al que circula, cerca de una curva o cima, en vías de alta densidad de tránsito, y en donde el señalamiento lo prohíba;
 
-XXII. Transportar pasajeros en estado de ebriedad, en autobuses y camiones de pasajeros de servicio público;
+XXII. (DEROGADA, P.O. 4 DE AGOSTO DE 2018)
 
 XXIII. Arrastrar a un vehículo sin el jalón de seguridad, o utilizar el servicio de grúas no autorizadas;
 
@@ -1171,27 +1129,7 @@ d. Los vehículos de carga, deberán de contar en la parte posterior, con cubre 
 
 e. Adicionalmente, todos los vehículos, principalmente de servicio público de carga y pasaje, deberán de llevar botiquín de primeros auxilios y extintor, sin prejuicio de lo que disponga el Reglamento que emita el Ejecutivo del Estado en esta materia.
 
-VIII.- RAZÓN SOCIAL
-
-a. El servicio de transporte público de ruta fija, deberá de llevar inscrita en los lados de su carrocería, la razón social de la empresa, cooperativa o asociación a que pertenezca, número económico en la parte posterior y en su interior, las generales del propietario, número telefónico de la Dirección, para quejas y en la parte superior delantera, el itinerario o destino del mismo y con iluminación nocturna, en su caso.
-
-b. El transporte público sin ruta fija, deberá de llevar en sus puertas, siguiendo la forma de un elipse, la razón social del sitio a que pertenezca, número económico; farola con iluminación en su caso, generales del propietario y en la facia alguna leyenda que promocione al orden en la vialidad, en uno de sus guardafangos deberá llevar inscrito el número telefónico de la Dirección de tránsito y transporte para cualquier queja y cuando esté fuera de servicio, exhibir un letrero donde indique "fuera de servicio".
-
-c. Los transportes de carga, deberán de llevar la razón social en igual forma en sus puertas, capacidad bruta, número económico y si es permisionario, nombre del propietario y número de teléfono para quejas.
-
-d. Los transportes de trabajadores, deberán de cumplir con los requisitos anteriores, excepto el itinerario que en su lugar deberá de decir servicio particular;
-
-e. Todos los vehículos de empresas, deberán de exhibir en sus puertas la razón social de las mismas y si son pick-up o camiones de carga, la capacidad de éstos en bruto;
-
-f. Todos los vehículos propiedad del Ayuntamiento, deberán de tener en sus puertas o carrocería el logotipo del Ayuntamiento, número económico, así como la Dirección o dependencia a que están adscritos y su número de teléfono para quejas;
-
-g. Los vehículos de uso oficial del Estado o de la Federación, u organismos descentralizados deberán de portar en sus puertas, la razón social de la institución a que pertenezcan y el número de teléfono para quejas. Quedan exceptuados los vehículos de la Policía Judicial del Estado y los de la Procuraduría General de la República;
-
-h. Los vehículos de la fuerza armada, como se lo indiquen sus reglamentos respectivos;
-
-i. El transporte a que hace referencia los incisos a, b, c, d, e, f fracción VIII de este artículo portarán número de teléfono para quejas; y
-
-j. Queda prohibido al transporte de servicio público, portar o exhibir cualquier propaganda política, y de cualquier otro tipo que pueda dañar la salud.
+VIII. (DEROGADA, P.O. 4 DE AGOSTO DE 2018)
 
 IX.- DE LAS MAQUINARIAS
 
@@ -1257,7 +1195,7 @@ Sin perjuicio de lo señalado por las disposiciones legislativas de carácter fe
 
 ###### ARTÍCULO 70.
 
-Todos los vehículos automotores registrados en la entidad, están obligados a someterse a la verificación de contaminantes, en los períodos y en los centros de verificación vehicular que autorice y determine la autoridad competente y que deberán ser dados a conocer mediante publicación en el Periódico Oficial de (sic) Gobierno del Estado. Lo anterior, sin perjuicio de lo señalado en el Reglamento relativo respecto de vehículos del servicio público.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2018)
 
 ###### ARTÍCULO 71.
 
@@ -1285,23 +1223,11 @@ c. Cubrir los gastos ocasionados por retiro de la unidad y aseguramiento.
 
 ###### ARTÍCULO 74.
 
-La licencia, es el único documento válido e indispensable para manejar un vehículo en vías municipales, que se señale en el propio documento, por lo que deberá de obtener, estar vigente y en su caso, llevarla consigo. Las licencias se clasifican de la siguiente manera:
-
-I.- De motociclista: autoriza al beneficiario a conducir vehículos de motor como: motocicletas, motonetas, bicimotos, tricimotos y tetramotos.
-
-II.- De automovilista: autoriza al beneficiario a conducir toda clase de vehículos cuya capacidad no exceda de 1.5 Toneladas de carga.
-
-III.- De chofer: autoriza al beneficiario a manejar todo tipo de vehículo, excepto los de Servicio Público y motociclistas.
-
-IV.- De conductor de servicio: faculta al beneficiario a conducir todo tipo de servicio público de pasajeros, así como de transporte escolar, de enseñanza de conducción, transporte de trabajadores y similares.
-
-V.- De motorista: que autoriza al beneficiario a conducir maquinaria agrícola, maquinaria pesada industrial tales como: tractores, trascabos, pailoder, yucles, grúas estacionarias, montacargas, motoconformadora, retroexcavadora y otros similares.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2018)
 
 ###### ARTÍCULO 75.
 
-Las licencias para conducir tendrán la vigencia que estipule la Ley en la materia y un plazo de 30 días naturales para renovarlas.
-
-El conductor que tenga la licencia vencida y continúe manejando cualquier tipo de vehículo fuera de los 30 días será infraccionado.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2018)
 
 ###### ARTÍCULO 76.
 
@@ -1309,39 +1235,13 @@ El Cabildo, podrá autorizar al Presidente Municipal celebrar convenios con el E
 
 ###### ARTÍCULO 77.
 
-El Ayuntamiento podrá extender licencias o permisos provisionales, para conducir dentro de su territorio, previo pago de los derechos correspondientes en los siguientes casos:
-
-I.- A menores de 18 y mayores de 16, quien deberá de entregar a la Dirección, copia certificada de responsiva ante el notario público del padre o tutor del menor o del dueño del vehículo;
-
-II.- A las personas que se encuentren en proceso de aprendizaje. Se especificará en los permisos, los horarios, lugares y persona (s) que se harán cargo de la enseñanza y demás condiciones que se requieran; y
-
-III.- Todos ellos deberán:
-
-a. Solicitarlo por escrito;
-
-b. Ser residente de esta municipalidad;
-
-c. Presentar y aprobar examen médico, y el teórico práctico de manejo;
-
-d. Tener conocimientos suficientes en la Ley de la materia y del presente Reglamento; y
-
-e. Haber efectuado el pago por derechos.
-
-IV.- Será responsabilidad de la Dirección la deficiencia pericial o médica según se trate.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2018)
 
 DE LAS LICENCIAS DE OTRA ENTIDAD FEDERATIVA O DEL EXTRANJERO.
 
 ###### ARTÍCULO 78.
 
-Toda persona que porte licencia de conducir vigente, expedida en otra entidad federativa, o en el extranjero, podrá conducir un vehículo dentro del municipio, en los siguientes casos:
-
-I.- Que el automóvil sea del tipo que señala la licencia;
-
-II.- Que sea el propietario del vehículo que conduce, si éste, es de procedencia extranjera aún no legalizado;
-
-III.- Las licencias federales autorizan a manejar el Transporte Público Federal o privado que circule en el Estado; y
-
-IV.- Para operar el Servicio Público concesionado por el Estado, en cualquiera de sus modalidades, se deberá obtener la licencia correspondiente expedida en esta entidad federativa.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2018)
 
 ###### ARTÍCULO 79.
 
@@ -3646,3 +3546,7 @@ P.O. 27 DE ENERO DE 2018.
 PRIMERO.- La dirección encargada de la Vialidad en el Municipio de Manzanillo se denominará DIRECCIÓN DE POLICÍA VIAL, cuya dependencia estará a cargo del DIRECTOR OPERATIVO DE POLICÍA VIAL; a su vez, la Dirección General se le denominará DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA Y POLICÍA VIAL del Municipio de Manzanillo, Colima, a cuyo titular se le denominará DIRECTOR GENERAL DE SEGURIDAD PÚBLICA Y POLICÍA VIAL, como ha quedado planteado en los términos del CONSIDERANDO VIGÉSIMO QUINTO.
 
 SEGUNDO.- Siendo Aprobado el mismo, se proceda a su publicación para su entrada en vigor.
+
+P.O. 4 DE AGOSTO DE 2018.
+
+> <small>[N. DE E. EL “ACUERDO QUE REFORMA EL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE MANZANILLO, COLIMA, CONSISTENTE EN LA DEROGACIÓN DE LOS ARTÍCULOS 12, 21, 22, 24, 31 Y 62 FRACCIONES XII Y XXII, 68 FRACCIÓN VIII, 70, 74, 75, 77 Y 78.”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.]</small>
