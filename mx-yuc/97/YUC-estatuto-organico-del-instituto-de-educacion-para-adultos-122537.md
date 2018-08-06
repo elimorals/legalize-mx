@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-educacion-para-adultos-12253
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-07-03"
-last_updated: "2017-07-03"
+last_updated: "2018-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN PARA ADULTOS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE AGOSTO DE 2018.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el lunes 3 de julio de 2017.
 
@@ -53,7 +53,9 @@ Objeto del estatuto orgánico
 
 Este estatuto orgánico tiene por objeto regular la organización y el funcionamiento del Instituto de Educación para Adultos del Estado de Yucatán y es de observancia obligatoria para el personal que lo integra.
 
-Para efectos de este estatuto orgánico, se entenderá por instituto al Instituto de Educación para Adultos del Estado de Yucatán, y por decreto al Decreto 349/2016 por el que se regula el Instituto de Educación para Adultos del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 6 DE AGOSTO DE 2018)</small>
+
+Para efectos de este Estatuto Orgánico, se entenderá por instituto al Instituto de Educación para Adultos del Estado de Yucatán, y por decreto al Decreto 349/2016 por el que se regula el Instituto de Educación para Adultos del Estado de Yucatán, y por patronato, al patronato que, independientemente de su naturaleza jurídica, tenga por objeto obtener recursos complementarios de empresarios, cámaras de comercio y voluntariado de la sociedad civil para la aplicación y desarrollo de los programas educativos del instituto así como coadyuvar con este en el cumplimiento de su objeto.. (sic)
 
 ###### Artículo 2.
 
@@ -129,7 +131,9 @@ V. Un representante de la Secretaría de Educación, a invitación del president
 
 VI. Un representante del Instituto Nacional para la Educación de los Adultos, a invitación del presidente.
 
-VII. El presidente ejecutivo del Patronato Pro Educación de los Adultos del Estado de Yucatán, Asociación Civil, a invitación del presidente.
+> <small>(REFORMADA, D.O. 6 DE AGOSTO DE 2018)</small>
+
+VII. El presidente del patronato, a invitación del presidente.
 
 Los integrantes de la junta de gobierno tendrán derecho a voz y voto durante las sesiones.
 
@@ -365,7 +369,7 @@ VII. Programar los requerimientos de materiales para evaluar los conocimientos a
 
 VIII. Integrar y mantener actualizado, un banco de información relativo a los aplicadores de exámenes, así como de las sedes para la aplicación de exámenes.
 
-IX. Fungir como vocal del comité de transparencia.
+IX. (DEROGADA, D.O. 6 DE AGOSTO DE 2018)
 
 X. Las demás que le confiera el director general, este estatuto y otras disposiciones legales y normativas aplicables.
 
@@ -405,7 +409,7 @@ XIV. Ejecutar el programa anual autorizado, realizando las adecuaciones y transf
 
 XV. Elaborar un programa de distribución de material didáctico, recursos bibliográficos o equipamiento extraordinario de acuerdo con las necesidades de cada coordinación de zona y los recursos recibidos por el instituto.
 
-XVI. Fungir como vocal del comité de transparencia.
+XVI. (DEROGADA, D.O. 6 DE AGOSTO DE 2018)
 
 XVII. Las demás que le confiera el director general, este estatuto y otras disposiciones legales y normativas aplicables.
 
@@ -447,7 +451,7 @@ XV. Proponer y desarrollar los procedimientos que permitan agilizar las gestione
 
 XVI. Fungir como titular de la Unidad de Transparencia del Instituto de Educación para Adultos del Estado de Yucatán, y, consiguientemente, ejercer las atribuciones establecidas en el artículo 60 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán y las demás establecidas en las leyes general y estatal de transparencia y acceso a la información y otras disposiciones legales y normativas aplicables.
 
-XVII. Fungir como presidente del comité de transparencia.
+XVII. (DEROGADA, D.O. 6 DE AGOSTO DE 2018)
 
 XVIII. Las demás que le confiera el director general, este estatuto y otras disposiciones legales y normativas aplicables.
 
@@ -505,7 +509,7 @@ VIII. Implementar y operar los sistemas de procesamiento electrónico de datos d
 
 IX. Gestionar el mantenimiento a los sistemas electrónicos instalados en las diferentes unidades administrativas.
 
-X. Fungir como secretario técnico del comité de transparencia.
+X. (DEROGADA, D.O. 6 DE AGOSTO DE 2018)
 
 XI. Las demás que le confiera el director general, este estatuto y otras disposiciones legales y normativas aplicables.
 
@@ -658,3 +662,17 @@ Aprobado por la Junta de Gobierno del Instituto de Educación para Adultos del E
 Lic. Juan Carlos Cervera Pavía
 
 Director General del Instituto de Educación para Adultos del Estado de Yucatán.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 6 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO IEAEY 03/2018 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN PARA ADULTOS DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Estado.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto de Educación para Adultos del Estado de Yucatán deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
