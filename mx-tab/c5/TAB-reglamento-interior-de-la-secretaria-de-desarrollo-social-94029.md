@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-desarrollo-social-94029
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-16"
-last_updated: "2013-03-16"
+last_updated: "2018-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el sábado 16 de marzo de 2013.
 
@@ -760,3 +762,15 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 C. MÓNICA FERNÁNDEZ BALBOA
 
 SECRETARÍA DE DESARROLLO SOCIAL
+
+P.O. 8 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL".]
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior, publicado en el Periódico Oficial del Estado, número 7359, Suplemento "B", el 16 de marzo de 2013.
+
+TERCERO. Para el mejor funcionamiento de las Unidades Administrativas adscritas a la Secretaría, se deberán formular los respectivos Manuales de Organización y de Procedimientos.
+
+CUARTO. Los asuntos pendientes, al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por aquellas Unidades a las que se les haya atribuido la competencia en este Reglamento.
