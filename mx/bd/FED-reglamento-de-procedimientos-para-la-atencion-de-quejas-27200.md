@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-procedimientos-para-la-atencion-de-quejas-27200"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-21"
-last_updated: "2006-07-25"
+last_updated: "2018-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27200&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2002-02-07"
 ---
 # REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS MEDICAS Y GESTION PERICIAL DE LA COMISION NACIONAL DE ARBITRAJE MEDICO
 
-REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS MEDICAS Y GESTION PERICIAL DE LA COMISION NACIONAL DE ARBITRAJE MEDICO
+REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCIÓN DE QUEJAS MÉDICAS Y GESTIÓN PERICIAL DE LA COMISIÓN NACIONAL DE ARBITRAJE MEDICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE AGOSTO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de enero de 2003.
 
@@ -125,9 +125,11 @@ Las partes estarán obligadas a guardar confidencialidad durante el proceso arbi
 
 #### SECCION PRIMERA. Del trámite de los asuntos
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 8o.
 
-Para la tramitación y resolución de los asuntos ante la CONAMED, se estará a lo dispuesto en el presente Reglamento, siempre que las partes no hubieren realizado alguna prevención especial en la cláusula compromisoria o en el compromiso arbitral. Para la tramitación de quejas respecto de las instituciones nacionales de seguridad social y a fin de respetar la legislación en la materia, se estará en su caso, a lo previsto en las bases de colaboración que al efecto se emitan, siguiendo en lo conducente este Reglamento.
+Para la tramitación y resolución de los asuntos ante CONAMED, se estará a lo dispuesto en el presente Reglamento, siempre que las partes no hubieren realizado alguna prevención especial en la cláusula compromisoria o en el compromiso arbitral. Para la tramitación de quejas respecto de las instituciones nacionales de seguridad social y a fin de respetar la legislación en la materia, se estará en su caso, a lo previsto en este Reglamento, así como en las bases de colaboración que al efecto se suscriban. En caso de incumplimiento, se dará aviso al Órgano Interno de Control que corresponda.
 
 ###### Artículo 9o.
 
@@ -912,3 +914,9 @@ D.O.F. 25 DE JULIO DE 2006.
 PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los asuntos en trámite arbitral se resolverán con arreglo a las cláusulas compromisorias y los compromisos arbitrales otorgados previamente por las partes. En el evento que la naturaleza del procedimiento arbitral lo permita, dado el avance de su tramitación, las partes podrán acordar que las diligencias pendientes se sujeten a lo previsto en el presente Reglamento.
+
+D.O.F. 8 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCIÓN DE QUEJAS MÉDICAS Y GESTIÓN PERICIAL DE LA COMISIÓN NACIONAL DE ARBITRAJE MÉDICO”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
