@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-del-trabajo-70299"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2013-06-26"
+last_updated: "2018-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -1086,3 +1088,23 @@ Artículo Cuarto.- El Manual de Organización de la Secretaría, deberá expedir
 Artículo Quinto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
 
 Artículo Sexto.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 8 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría del trabajo, publicado en el Periódico Oficial número 182, Tomo III, de fecha 19 de agosto de 2009, Publicación número 1257-A-2009, así como las disposiciones que del mismo emanen y se derogan aquellas otras de igual o menor jerarquía que se opongan a lo dispuesto en el presente instrumento.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario resolverá lo conducente
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del programa que establezca la Ley de Protección Civil del Estado de Chiapas.
+
+Artículo Octavo.- Conforme a lo dispuesto por los artículos 13 párrafo segundo, en correlación al artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas; 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas y 13 fracción V de la Ley Estatal del Periódico Oficial, publíquese el presente Reglamento Interior en el Periódico Oficial.
