@@ -4,7 +4,7 @@ identifier: "SIN-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9374
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2017-12-27"
+last_updated: "2018-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 8 de abril de 2013.
 
@@ -297,6 +299,16 @@ VII. La regulación de los sistemas de recolección, transporte, almacenamiento,
 
 VIII. Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales, así como, en su caso, de fuentes móviles que no sean de competencia federal;
 
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2018)</small>
+
+VIII Bis. Realizar actos de inspección y vigilancia en coordinación con los Municipios que correspondan a efecto de promover entre los establecimientos comerciales y de servicios la eliminación en el otorgamiento de popotes de material plástico desechable a los consumidores, realizándose únicamente a solicitud expresa del cliente o consumidor, debiendo los establecimientos implementar una campaña permanente tendiente a la eliminación en el uso de los mismos, fomentando que su fabricación sea únicamente de material biodegradable;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2018)</small>
+
+VIII Bis A. Realizar actos de inspección y vigilancia en coordinación con los Municipios que correspondan, entre los establecimientos comerciales, de servicios, almacenamiento, distribución y fabricación de bolsas de polietileno, que es utilizado y entregado en supermercados, autoservicios, almacenes y comercios en general para el transporte de productos o mercancías, para promover que estos sean fabricados con materiales cien por ciento biodegradables, bajo los lineamientos que establezca el Reglamento de la presente Ley.
+
+Elaborar y difundir campañas y programas de sustitución de plásticos, con la finalidad de reducir paulatinamente hasta eliminar el consumo de bolsas, envases, embalajes o empaques de plástico que no sean cien por ciento biodegradables que utilice la industria, el comercio o establecimientos de servicio y que se entreguen para la contención, transporte y envase de mercancías, asimismo, informar y fomentar la educación de los habitantes del Estado, sobre los beneficios que genera al medio ambiente la utilización de productos biodegradables, reciclables y reutilizables;
+
 IX. Regular el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas y recursos naturales de jurisdicción estatal, así como las aguas nacionales que tenga asignadas;
 
 X. Formular, expedir y ejecutar en el ámbito de su competencia, el programa de ordenamiento ecológico regional, con la participación de los Municipios respectivos;
@@ -354,6 +366,16 @@ VI. La aplicación de las disposiciones jurídicas relativas a la prevención y 
 VII. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas, con la participación que conforme esta Ley corresponda al Estado;
 
 VIII. Formular y expedir los programas de ordenamiento ecológico local, así como el control y la vigilancia del uso y cambio del suelo, establecidos en dichos programas;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2018)</small>
+
+VIII Bis. Realizar actos de inspección y vigilancia en coordinación con el Ejecutivo Estatal a efecto de promover entre los establecimientos comerciales y de servicios la eliminación en el otorgamiento de popotes de material plástico desechable a los consumidores, realizándose únicamente a solicitud expresa del cliente o consumidor, debiendo los establecimientos implementar una campaña permanente tendiente a la eliminación en el uso de los mismos, fomentando que su fabricación sea únicamente de material biodegradable;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2018)</small>
+
+VIII Bis A. Realizar actos de inspección y vigilancia en coordinación con el Ejecutivo Estatal, entre los establecimientos comerciales, de servicios, almacenamiento, distribución y fabricación de bolsas de polietileno, que es utilizado y entregado en supermercados, autoservicios, almacenes y comercios en general para el transporte de productos o mercancías, para promover que estos sean fabricados con materiales cien por ciento biodegradables, bajo los lineamientos que establezca el Reglamento de la presente Ley.
+
+Elaborar y difundir campañas y programas de sustitución de plásticos, con la finalidad de reducir paulatinamente hasta eliminar el consumo de bolsas, envases, embalajes o empaques de plástico que no sean cien por ciento biodegradables que utilice la industria, el comercio o establecimientos de servicio y que se entreguen para la contención, transporte y envase de mercancías, asimismo, informar y fomentar la educación de los habitantes del Municipio respectivo, sobre los beneficios que genera al medio ambiente la utilización de productos biodegradables, reciclables y reutilizables;
 
 IX. Preservar y restaurar el equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, calles, parques urbanos y jardines, tránsito y transporte local, siempre y cuando no se trate de facultades otorgadas a la Federación o a los Estados en la Ley General, esta Ley u otras disposiciones generales;
 
@@ -3378,3 +3400,11 @@ P.O. 27 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 786 DEL H. CONGRESO DEL ESTADO.- SE ADICIONAN LAS FRACCIONES VIII BIS Y VIII BIS A AL ARTÍCULO 8° Y VIII BIS Y VIII BIS A AL ARTÍCULO 11, AMBOS DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días posteriores a su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado y los Ayuntamientos dentro de los treinta días posteriores al inicio de vigencia del presente Decreto, deberán realizar las modificaciones correspondientes a sus reglamentos derivadas del mismo.
