@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-la-contraloria-47692"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-08"
-last_updated: "2017-10-19"
+last_updated: "2018-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE AGOSTO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 2005.
 
@@ -1260,3 +1260,35 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los recursos humanos, materiales, financieros y presupuestales con que cuentan las Direcciones Generales de Información e Integración y de Responsabilidades y Situación Patrimonial pasarán a formar parte de la Coordinación Ejecutiva de Investigación de Faltas Administrativas y Coordinación Ejecutiva de Sustanciación y Resolución de Responsabilidades y Situación Patrimonial, respectivamente.
 
 TERCERO.- Las menciones o referencias que se hagan a las Direcciones Generales de Información e Integración y de Responsabilidades y Situación Patrimonial de la Secretaría de la Contraloría en las leyes, reglamentos, lineamientos, acuerdos, manuales, circulares, oficios, y/o cualesquier documento, sellos, instrumentos jurídicos y disposiciones jurídicas de cualquier naturaleza, se entenderán hechas a la Coordinación Ejecutiva de Investigación de Faltas Administrativas y Coordinación Ejecutiva de Sustanciación y Resolución de Responsabilidades y Situación Patrimonial, respectivamente.
+
+B.O. 9 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado;
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de la Contraloría General, publicado en el Boletín Oficial del Gobierno del Estado número 46, Sección I, de fecha 8 de diciembre del 2005 y sus reformas, el que será aplicable para los casos que se encuentren en trámite en las diversas unidades administrativas a que alude el citado ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas que cambian de denominación por virtud del presente ordenamiento, se entenderán hechas y conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos en trámite que son atendidos por las unidades administrativas que modifican sus denominaciones y atribuciones en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les otorga la competencia y atribución correspondiente en este ordenamiento, y de conformidad con las disposiciones que resulten aplicables.
+
+###### ARTÍCULO QUINTO.
+
+Continuarán en vigor los acuerdos que hayan sido expedidos por el Secretario, así como los demás instrumentos jurídicos que actualmente se encuentren vigentes en lo que no se opongan a las disposiciones del presente Reglamento, en tanto no se modifiquen o dejen sin efectos.
+
+###### ARTÍCULO SEXTO.
+
+Los manuales de Organización, de Procedimientos, y, en su caso, de Servicios al Público deberán expedirse dentro de los noventa días posteriores a la publicación de este Reglamento Interior. El titular de la Secretaría queda facultado para resolver las cuestiones que se presenten en relación con los aspectos que los mismos deben prever en tanto éstos se expidan.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los ajustes y cambios que se deriven del presente Reglamento a la estructura orgánica actual de la Secretaría, dependerán de los recursos que sean necesarios para la ejecución de los programas a su cargo, así como de la disponibilidad y autorización presupuestaria para ello. Del mismo modo, en tanto los órganos internos de control cuenten con la estructura y presupuesto necesario para la creación de las unidades de investigación, sustanciación y resolución, la Secretaría de la Contraloría General por conducto de las Coordinaciones Ejecutivas de Investigación de Faltas Administrativas y de Sustanciación y Resolución de Responsabilidades y Situación Patrimonial, podrá conocer los asuntos de presunta responsabilidad administrativa e investigar, sustanciar, resolver y en su caso sancionar, en atención al artículo 26 apartado C) fracción X de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora.
