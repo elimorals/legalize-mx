@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2018-06-20"
+last_updated: "2018-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2018.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -5415,13 +5415,17 @@ Las cantidades percibidas por concepto de ingresos estatales que se afecten en g
 
 Los recursos que por cualquier concepto entreguen los fideicomisos para la instrumentación financiera o fideicomisos de garantía y fuente alterna de pago, al Poder Ejecutivo en términos de la Ley de Proyectos de Prestación de Servicios del Estado de Chiapas, deberán ser aplicados de conformidad con lo establecido en el presente artículo y en las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 408.
 
-La constitución y extinción de los fideicomisos públicos estatales, se sujetará a lo siguiente:
+La extinción de los fideicomisos públicos estatales, se sujetará a lo siguiente:
 
 I. Los fideicomisos que se constituyan a través del Congreso del Estado, requerirán la autorización expresa del mismo para su respectiva extinción.
 
 II. Los fideicomisos creados mediante acuerdo o decreto del Ejecutivo del Estado, se sujetarán al propio instrumento de creación para su respectiva extinción.
+
+Una vez autorizada al (sic) extinción del fideicomiso público estatal, el proceso de extinción se sujetará a los lineamientos que para tal efecto emita la Secretaría.
 
 ###### Artículo 409.
 
@@ -5515,13 +5519,15 @@ Para efectos administrativos, la Dependencia Coordinadora de Sector a través de
 
 Cuando el fideicomiso haya cumplido con sus fines o su operación no sea de notorio beneficio para el desarrollo del Estado, la Secretaría propondrá al Ejecutivo del Estado su modificación o extinción, según proceda. La Secretaría de la Función Pública vigilará que el proceso de extinción se realice observando las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 421.
 
-Para la constitución, modificación, extinción, vigilancia y operación de los fideicomisos públicos estatales, además de lo dispuesto por la normatividad federal aplicable, en su caso, se observará lo dispuesto en el presente Código y en las demás disposiciones estatales aplicables.
+Para la constitución, modificación, extinción, vigilancia y operación de los fideicomisos públicos estatales, además de lo dispuesto por las disposiciones federales aplicables, en su caso, se observará lo dispuesto en el presente Código y en las demás disposiciones estatales aplicables.
 
-La Secretaría está facultada para emitir la normatividad y lineamientos de carácter administrativo, que se consideren necesarios para el adecuado funcionamiento y operación de los fideicomisos públicos estatales, todo lo que deberá ser observado por los titulares de las Dependencias Coordinadoras de Sector, los integrantes de los comités técnicos y el personal de las áreas operativas de los propios fideicomisos.
+La Secretaría está facultada para emitir la normatividad y lineamientos de carácter administrativo para el funcionamiento, operación y extinción de los fideicomisos públicos estatales, mismos que deberán ser observados por los titulares de las Dependencias Coordinadoras de Sector, los integrantes de los comités técnicos y el personal de las áreas operativas de los propios fideicomisos.
 
-Cuando sea necesario realizar adecuaciones o modificaciones a las disposiciones aplicables que rigen el funcionamiento y operación de los fideicomisos públicos estatales, se requerirá previamente la opinión y validación de esta Secretaría, en su carácter de Fideicomitente.
+Cuando sea necesario realizar modificaciones a las disposiciones aplicables que rigen el funcionamiento, operación y extinción de los fideicomisos públicos estatales, se requerirá previamente la opinión y validación de la Secretaría, en su carácter de Fideicomitente.
 
 ###### Artículo 422.
 
@@ -6065,7 +6071,7 @@ La Procuraduría Fiscal, ejecutará y vigilará que los requerimientos de pago p
 
 Para realizar el cobro de las fianzas, la Procuraduría Fiscal, podrá optar por cualquiera de los procedimientos que a continuación se señalan:
 
-I. Procedimiento Administrativo de Ejecución establecido en los artículo 282 y 283, de la Ley Federal de Instituciones de Seguros y Fianzas.
+I. Procedimiento Administrativo de Ejecución establecido en los artículo (sic) 282 y 283, de la Ley Federal de Instituciones de Seguros y Fianzas.
 
 II. Demanda ante los Tribunales Competentes.
 
@@ -6332,3 +6338,11 @@ P.O. 20 DE JUNIO DE 2018.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 260 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
