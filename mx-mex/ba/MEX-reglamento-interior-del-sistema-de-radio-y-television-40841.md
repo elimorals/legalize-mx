@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-sistema-de-radio-y-television-40841"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-24"
-last_updated: "2009-03-12"
+last_updated: "2018-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA DE RADIO Y TELEVISION MEXIQUENSE
 
-REGLAMENTO INTERIOR DEL SISTEMA DE RADIO Y TELEVISION MEXIQUENSE
+REGLAMENTO INTERIOR DEL SISTEMA DE RADIO Y TELEVISIÓN MEXIQUENSE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2018.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 24 de agosto de 2004.
 
@@ -133,15 +133,15 @@ VI. Dirección de Administración y Finanzas.
 
 VII. Unidad Jurídica.
 
-> <small>(ADICIONADA, G.G. 12 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2018)</small>
 
-VIII. Contraloría Interna.
+VIII. Órgano Interno de Control.
 
 El Director General contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización del Sistema; asimismo, se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivo.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 12 DE MARZO DE 2009)</small>
 
-### CAPITULO IV. DE LOS DIRECTORES Y JEFE DE UNIDAD
+### CAPÍTULO IV. DE LOS DIRECTORES Y JEFE DE UNIDAD
 
 > <small>(REFORMADO, G.G. 12 DE MARZO DE 2009)</small>
 
@@ -173,9 +173,9 @@ VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aque
 
 IX. Las demás que les confieran otras disposiciones legales y aquellas que les establezca el Director General.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 12 DE MARZO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE AGOSTO DE 2018)</small>
 
-### CAPITULO V. DE LAS DIRECCIONES, DE LA UNIDAD JURIDICA Y DE LA CONTRALORIA INTERNA
+### CAPÍTULO V. DE LAS DIRECCIONES Y DE LA UNIDAD JURÍDICA
 
 ###### Artículo 14.
 
@@ -389,25 +389,17 @@ VI. Revisar y, en su caso, elaborar los proyectos de instrumentos jurídicos y a
 
 VII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
 
-### CAPÍTULO VI. DE LA SUPLENCIA DE LOS TITULARES
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO VI. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 20.
 
-Corresponde a la Contraloría Interna del Sistema, además de las señaladas en el Reglamento Interior de la Secretaría de la Contraloría del Gobierno del Estado de México vigente, las atribuciones siguientes:
+Al frente del Órgano Interno de Control habrá un titular, designado en los términos del artículo 38 bis, fracción XIV de la Ley Orgánica de la Administración Pública del Estado de México, quien en el ejercicio de sus atribuciones se auxiliará por los servidores públicos que se requieran para satisfacer las necesidades del servicio, así como de las unidades administrativas que corresponda, de conformidad con la estructura orgánica aprobada y presupuesto autorizado, quien tendrá las atribuciones que se establecen en el Reglamento Interior de la Secretaría de la Contraloría y demás disposiciones jurídicas aplicables.
 
-I. Verificar la presentación oportuna de la declaración de situación patrimonial de los servidores públicos del Sistema sujetos a esta obligación.
-
-II. Informar a la Secretaría de la Contraloría sobre el resultado de las acciones que realice.
-
-III. Proponer al Director General la aplicación de normas complementarias en materia de control.
-
-IV. Promover acciones de control preventivo y de autocontrol.
-
-V. Instruir y resolver los recursos o medios de impugnación presentados en contra de las resoluciones que emita este órgano de control interno.
-
-VI. Verificar que se atiendan las observaciones que determinen la Secretaría de la Contraloría, el órgano de control interno y el auditor externo.
-
-VII. Las demás que le señalen otros ordenamientos legales.
+### CAPÍTULO VII. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 21.
 
@@ -449,7 +441,7 @@ LUIS ERNESTO PI OROZCO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 12 DE MARZO DE 2009.
 
@@ -458,3 +450,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 10 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL SISTEMA DE RADIO Y TELEVISIÓN MEXIQUENSE”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
+
+CUARTO.- El presente Acuerdo Modificatorio actualiza al Reglamento Interior del Sistema de Radio y Televisión Mexiquense, publicado el 24 de agosto de 2004, en el Periódico Oficial "Gaceta del Gobierno".
