@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-23245"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2016-06-01"
+last_updated: "2018-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADA EN LA G.G. DE 10 DE AGOSTO DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL PRIMERO DE ENERO DE DOS MIL DIECINUEVE.]</small>
+
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2018 (ABROGADA).
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 3 de enero de 2002.
 
@@ -473,7 +475,7 @@ El Instituto elaborará mensualmente los estados financieros y contables de sus 
 
 ### CAPITULO IV. DE LAS CUOTAS Y APORTACIONES
 
-###### Articulo 31.
+###### ARTICULO 31.
 
 El cálculo del monto de las cuotas y aportaciones ordinarias se realizará sobre el sueldo sujeto a cotización de los servidores públicos.
 
@@ -1768,3 +1770,241 @@ G.G. 1 DE JUNIO DE 2016.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE AGOSTO DE 2018.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO NÚMERO 317.- POR EL QUE SE EXPIDE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]</small>
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- La presente Ley entrará en vigor el día 1° de enero de dos mil diecinueve.
+
+TERCERO.- A partir de la entrada en vigor de esta Ley, se abroga la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, publicada en el Periódico Oficial “Gaceta del Gobierno” el día tres de enero de dos mil dos, vigente a partir del día primero de julio del mismo año y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO.- Se mantendrán en vigor todas las disposiciones reglamentarias y administrativas que no se opongan a la presente Ley, hasta en tanto el Gobernador del Estado y/o el Consejo Directivo del Instituto expidan las normas relativas al presente ordenamiento, según corresponda.
+
+QUINTO.- Los derechos adquiridos por los Servidores Públicos en activo, previos a la entrada en vigor de la presente Ley, surtirán sus efectos, siempre que continúen las condiciones en que se hayan generado.
+
+SEXTO.- Los actos que se hayan realizado conforme a la Ley que se abroga, seguirán surtiendo efectos hasta la conclusión del término o cumplimiento de las condiciones en que se hayan efectuado.
+
+SÉPTIMO.- Los pensionados, pensionistas o beneficiarios que, a la entrada en vigor de esta Ley, gocen de los beneficios que les otorga la Ley que se abroga, continuarán ejerciendo sus derechos en los términos y condiciones señalados en las disposiciones vigentes al momento de su otorgamiento.
+
+OCTAVO.- A los Servidores Públicos que se encuentren cotizando al Instituto a la fecha de entrada en vigor de la presente Ley, se les reconocerán los periodos efectivamente cotizados con anterioridad.
+
+NOVENO.- Los Servidores Públicos en activo podrán optar por permanecer en el régimen de pensiones que se establece en los artículos Décimo Segundo al Décimo Séptimo Transitorios de la presente Ley, o por migrar al régimen de pensiones de cuenta individual establecido en esta Ley, en cuyo caso se les calculará una Acreditación.
+
+El monto de la Acreditación será el resultado de multiplicar por doce el sueldo mensual sujeto a cotización, que percibió el Servidor Público al mes de junio de 2018, lo que equivale a un año de sueldo sujeto a cotización, multiplicado por el factor que le corresponda por los años completos de cotización que el Instituto le tenga reconocidos, conforme a la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN CUARTA DE LA G.G. DE 10 DE AGOSTO DE 2018, PÁGINAS DE LA 39 A LA 40.]</small>
+
+DÉCIMO.- Para los Servidores Públicos que manifiesten su interés en la opción de la Acreditación, la misma se realizará a través de los mecanismos que para tal efecto determine el Instituto, para lo cual se tomarán los siguientes criterios:
+
+I. El Instituto acreditará los periodos de cotización de aquellos Servidores Públicos que así lo soliciten dentro de un plazo que iniciará a partir de la entrada en vigor de la presente Ley y que no excederá de tres meses, de acuerdo con la información disponible en sus registros y bases de datos, así como con la que se presente para este fin por parte del Servidor Público;
+
+II. El Instituto una vez concluido el término señalado en la fracción anterior para acreditar los periodos de cotización, hará del conocimiento de los Servidores Públicos solicitantes, dentro de los seis meses siguientes, el cálculo preliminar de su Acreditación, así como la información sobre las opciones a que tengan derecho conforme a lo dispuesto en este ordenamiento; y
+
+III. Las Instituciones Públicas deberán colaborar con el Instituto en todo lo necesario para integrar la documentación e información requeridas para la acreditación de los periodos de cotización, el sueldo sujeto a cotización y el cálculo de su Acreditación.
+
+DÉCIMO PRIMERO.- Los Servidores Públicos tendrán tres meses a partir de que tengan conocimiento del cálculo preliminar de su Acreditación, para manifestar a través de los mecanismos que determine el Instituto, si optan por migrar al régimen de pensiones establecido en esta Ley y se les realice la Acreditación.
+
+DÉCIMO SEGUNDO.- En caso de que los Servidores Públicos no opten por la Acreditación, se considerará que no desean migrar al nuevo esquema de pensiones de Cuenta Individual y por lo tanto se le aplicará lo dispuesto en los artículos Décimo Segundo al Décimo Séptimo Transitorios del presente ordenamiento.
+
+DÉCIMO TERCERO.- Los Servidores Públicos que no opten por la Acreditación quedan sujetos a las disposiciones de esta Ley, por cuanto se refiere a las prestaciones y servicios de seguridad social relativas al seguro de salud y de riesgos del trabajo, inhabilitación y fallecimiento, préstamos, prestaciones sociales, culturales y asistenciales, y otros aspectos generales del régimen de seguridad social que regula esta Ley.
+
+Por lo que respecta a la base de cálculo para determinar las cuotas y aportaciones de quienes no opten por migrar al régimen de pensiones establecido en esta Ley, se calculará sobre el monto de sueldo sujeto a cotización y no podrá ser, en ningún caso, inferior a un salario mínimo, ni superior a la cantidad mensual de treinta y dos mil doscientos treinta y tres pesos con setenta y tres centavos moneda nacional misma que se actualizará anualmente, en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor correspondiente al año calendario anterior.
+
+DÉCIMO CUARTO.- Los artículos Décimo Segundo al Décimo Séptimo Transitorios del presente ordenamiento aplicarán a los Servidores Públicos que se encuentren cotizando al Instituto y que no opten por la Acreditación; a los ex Servidores Públicos que cotizaron al mismo, siempre y cuando, no hubiesen retirado el total de sus cuotas a la fecha de entrada en vigor de la presente Ley o bien a aquellos pensionados que reingresen o hayan reingresado al servicio público y coticen al Instituto.
+
+DÉCIMO QUINTO.- Respecto de las pensiones, será aplicable el Capítulo III del Título Tercero de la Ley que se abroga con excepción del párrafo segundo de la Sección Segunda y de los requisitos de edad y tiempo de cotización.
+
+Por lo que hace a los requisitos de edad y tiempo de cotización, se tomará como base el último ingreso al servicio público, en consideración a lo siguiente:
+
+I. Para tener derecho a una pensión por jubilación se deberá cumplir:
+
+INGRESO REQUISITOS
+
+Si su último ingreso fue antes 30 años de cotización
+
+del 30 de junio del 2002
+
+Si su último ingreso fue a partir 35 años cotizados y 57 años de edad
+
+del 01 de julio de 2002
+
+Si su último ingreso fue a partir 35 años cotizados y 62 años de edad.
+
+del 20 de diciembre de 2012
+
+Si no cuenta con la edad, se puede computar cada año de servicio excedente por uno de edad, siempre que ambos conceptos sumen al menos 97 años.
+
+II. Para tener derecho a una pensión de retiro por edad y tiempo de servicios, se deberá cumplir:
+
+INGRESO REQUISITOS
+
+Si su último ingreso fue antes 15 años de cotización y 50 años de edad
+
+del 20 de octubre de 1994.
+
+Si su último ingreso fue entre el 15 años de cotización y 55 de edad
+
+20 de octubre de 1994 y el 30
+
+de junio de 2002.
+
+Si su último ingreso fue a partir 17 años de cotización y 60 años de
+
+del 01 de julio de 2002. edad
+
+Si su último ingreso fue a partir 17 años de cotización y 62 años de
+
+del 20 de diciembre de 2012 edad
+
+III. Para tener derecho a una pensión por retiro en edad avanzada, se deberá cumplir:
+
+INGRESO REQUISITOS
+
+Si su último ingreso fue entre el 12 años de cotización y 60 años de edad
+
+20 de octubre de 1994 y el 30
+
+de junio del 2002
+
+Si su último ingreso fue a partir 15 años de cotización y 65 años de edad
+
+del 01 de julio de 2002
+
+Si su último ingreso fue a partir 15 años de cotización y 67 años de edad
+
+del 20 de diciembre de 2012
+
+IV. Para tener derecho a una pensión por fallecimiento o inhabilitación por causas ajenas al servicio se requerirá como mínimo haber cotizado de manera ininterrumpida un año o más al Instituto.
+
+V. El monto diario de la pensión no podrá ser inferior a un salario mínimo, ni podrá exceder de la cantidad mensual de treinta y dos mil doscientos treinta y tres pesos con setenta y tres centavos moneda nacional misma que se actualizará anualmente, en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor correspondiente al año calendario anterior. En todos los casos, el monto diario se determinará calculando el promedio del sueldo sujeto a cotización del sistema solidario de reparto de los últimos 8 meses, siempre que el Servidor Público haya mantenido durante los últimos 3 años el mismo nivel y rango. En caso de que el Servidor Público no cumpliera este supuesto, se promediará el sueldo sujeto a cotización del sistema solidario de reparto de los últimos 3 años, actualizado conforme al reglamento respectivo. En ambos casos el resultado de esta operación se sujetará a los límites inferior y superior de esta fracción, y será el sueldo de referencia el que se multiplicará por la tasa de reemplazo señalada en cada supuesto de la presente Ley.
+
+Para los Servidores Públicos que tengan ingreso por concepto de horas clase, siempre se tomará el promedio de los últimos 3 años del sueldo sujeto a cotización del sistema solidario de reparto, actualizado conforme al reglamento respectivo.
+
+VI. El derecho a una pensión nace al momento de cumplir con los requisitos de edad, tiempo de cotización al Instituto, señalados en este artículo, incluyendo la presentación del Aviso de Movimiento de baja del servicio público y de la solicitud de pensión que corresponda.
+
+DÉCIMO SEXTO.- Los Servidores Públicos que hubieran optado por el régimen que se establece en los artículos Décimo Segundo al Décimo Séptimo Transitorios de este ordenamiento, en ningún caso tendrán derecho a la Acreditación.
+
+DÉCIMO SÉPTIMO.- Los Servidores Públicos que, no hayan optado por la Acreditación conforme a los artículos Noveno y Décimo Transitorios de esta Ley y los pensionados en términos del Décimo Quinto Transitorio del presente ordenamiento, tendrán derecho al seguro por fallecimiento que establece el artículo 102 de la presente Ley.
+
+DÉCIMO OCTAVO.- Estarán a cargo del Gobierno del Estado las pensiones que se mencionan en el Artículo Décimo Quinto Transitorio de este ordenamiento, así como el costo de su administración.
+
+DÉCIMO NOVENO.- El Instituto seguirá cubriendo el importe de las pensiones concedidas con anterioridad a la entrada en vigor de esta Ley en los términos en que hayan sido otorgadas, previo a que se agoten las reservas constituidas del Fondo de Pensiones, el Instituto deberá proceder en términos del artículo 156 del presente ordenamiento.
+
+VIGÉSIMO.- Los pensionados y pensionistas cubrirán una cuota equivalente al 5.625% de su pensión, importe que se destinará al financiamiento de los servicios de salud. Esta disposición también será aplicable a los Servidores Públicos a que hace referencia el Artículo Décimo Quinto Transitorio de este ordenamiento, en lo que corresponde a su etapa como pensionado o pensionista.
+
+VIGÉSIMO PRIMERO.- Cuando algún pensionado se encuentre en el servicio público a la entrada en vigor de la presente Ley, al retirarse nuevamente del servicio público podrá solicitar la reactivación de su pensión conforme a lo siguiente:
+
+I. Si presta sus servicios por menos de tres años, se le otorgará la misma pensión que disfrutaba al reingresar al servicio, incrementada en el porcentaje respectivo;
+
+II. Si presta sus servicios por tres o más años ininterrumpidamente, podrá optar por cualquiera de las siguientes opciones:
+
+a. Acogerse a lo señalado en la fracción I de este artículo;
+
+b. Reactivar su pensión misma que solo será actualizada y para lo cual, se le aplicará lo establecido en el Artículo Décimo Quinto Transitorio.
+
+VIGÉSIMO SEGUNDO.- Cuando algún pensionado en términos de la Ley que se abroga, reingrese al servicio público con posterioridad a la entrada en vigor del presente ordenamiento, la calidad de servidor público se sujetará a las disposiciones del régimen general de la presente Ley, dejándose a salvo sus derechos pensionarios, los cuales se reactivaran nuevamente al separarse del servicio público.
+
+VIGÉSIMO TERCERO.- Los Servidores Públicos que a la fecha de la entrada en vigor de esta Ley se encuentren separados del servicio y estuviesen en espera de cumplir la edad para tener derecho a la pensión de jubilación, retiro por edad y tiempo de servicios y retiro en edad avanzada, siempre que no hayan retirado sus cuotas, se regirán por las disposiciones del Artículo Décimo Quinto Transitorio del presente ordenamiento.
+
+VIGÉSIMO CUARTO.- A los Servidores Públicos que a la fecha de la entrada en vigor de esta Ley se encuentren separados del servicio y posteriormente reingresen, se les aplicará lo siguiente:
+
+I. Si reingresan antes del 1° de julio de 2019, tendrán derecho a ejercer la opción a que se refiere el Artículo Noveno Transitorio de la presente Ley; y
+
+II. Si reingresan con posterioridad al 1° de julio de 2019, se sujetará (sic) a las disposiciones del régimen de cuenta individual de la presente Ley y la Acreditación de los periodos cotizados al Instituto con anterioridad a la entrada en vigor de la presente Ley se realizará considerando como sueldo sujeto a cotización el último que hubiere percibido como Servidor Público en activo y al cual se aplicará la formula prevista en el Artículo Noveno Transitorio de este ordenamiento,
+
+VIGÉSIMO QUINTO.- El capital inicial de operación del fondo de préstamos al primer día de la entrada en vigor de la presente Ley, se constituirá por los recursos que para tal efecto destine el Instituto para otorgar dicha prestación; el valor de la cartera vigente de los créditos, capital más intereses y el valor de los recursos disponibles del fondo al día anterior de la entrada en vigor de la presente Ley.
+
+VIGÉSIMO SEXTO.- Las cuotas a cargo de los Servidores Públicos que no hayan optado por la Acreditación y que se encuentren cotizando al Instituto a la fecha de inicio de vigencia de esta Ley y las aportaciones a cargo de las Instituciones Públicas, serán las siguientes:
+
+I. Por lo que se refiere a los Servidores Públicos incorporados tanto al Sistema Solidario de Reparto, como al Sistema de Capitalización Individual:
+
+Prestaciones y Cuotas a cargo Aportaciones a
+
+Servicios de los cargo de las
+
+Servidores Instituciones
+
+Públicos Públicas
+
+Seguro de Salud 5.625% 12.000%
+
+Seguro de Riesgos
+
+del Trabajo 1.000%
+
+Sistema Solidario de
+
+Reparto 8.600% 11.920%
+
+Sistema de
+
+Capitalización
+
+Individual 1.400% 1.85%
+
+Servicios Sociales y
+
+Culturales 0.00% 0.00%
+
+Gastos de
+
+Administración 0.875%
+
+II. Por lo que se refiere a los Servidores Públicos incorporados únicamente al Sistema Solidario de Reparto.
+
+Prestaciones y Cuotas a cargo Aportaciones a cargo
+
+Servicios de los Servidores de las Instituciones
+
+Públicos Públicas
+
+Seguro de Salud 5.625% 12.000%
+
+Seguro de Riegos
+
+del Trabajo 1.000%
+
+Sistema Solidario de
+
+Reparto 8.6% 11.920%
+
+Servicios Sociales y
+
+Culturales 0.00% 0.00%
+
+VIGÉSIMO SÉPTIMO.- Las Instituciones Públicas y el propio Instituto, a más tardar un año después de la entrada en vigor de la presente Ley, deberán ajustar conforme a lo dispuesto en ésta los mecanismos de administración, los sistemas informáticos y los formatos de sus bases de datos; los sistemas de recaudación y declaración y pago de cuotas y aportaciones; y los procedimientos de dispersión e intercambio de información, de tal modo que garanticen a satisfacción del Instituto la capacidad de operación para la gestión de las prestaciones y servicios.
+
+Hasta en tanto inicien operaciones los sistemas o programas informáticos a que se refiere esta Ley, las Instituciones Públicas deberán declarar y pagar las cuotas y aportaciones del seguro de retiro, cesantía en edad avanzada y vejez de acuerdo al procedimiento que para tal efecto determine el Instituto.
+
+VIGÉSIMO OCTAVO.- La administración de las reservas constituidas por el sistema de capitalización individual, la llevará a cabo las Administradoras de Fondos para el Retiro.
+
+VIGÉSIMO NOVENO.- Los gastos de administración del fondo del Sistema de Capitalización Individual serán cubiertos con cargo a la cuenta individual de los Servidores Públicos, de acuerdo a las bases y porcentajes que para tal fin autorice el Consejo Directivo del Instituto.
+
+TRIGÉSIMO.- Las reservas actuariales y financieras del Instituto existentes a la fecha de inicio de la vigencia de esta Ley serán utilizadas en su totalidad y hasta su extinción para cubrir los gastos a que hace mención el Artículo Décimo Noveno Transitorio y para cubrir el déficit de operación del Instituto.
+
+TRIGÉSIMO PRIMERO.- El Instituto y las Instituciones Públicas señaladas en las fracciones IV y V del artículo 1° del presente ordenamiento, deberán suscribir los convenios en los términos previstos en el presente, en un plazo que no excederá del día 30 de agosto de 2019.
+
+En los casos en que no se cumpla con lo previsto en el párrafo anterior, o que las Instituciones Públicas no convengan la garantía incondicional de pago de las Cuotas y Aportaciones a su cargo a que se refiere el artículo 171 de esta Ley, el Instituto no podrá incorporar nuevos Servidores Públicos de las Instituciones Públicas sujetas a los convenios para el otorgamiento de prestaciones y servicios, hasta en tanto no se suscriban dichos convenios con la garantía incondicional señalada.
+
+TRIGÉSIMO SEGUNDO.- Las solicitudes de pensión que se encuentren en trámite al momento de entrar en vigor la presente Ley, se resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+TRIGÉSIMO TERCERO.- Subsiste el sistema de capitalización individual, para los Servidores Públicos que no hayan optado por la Acreditación en términos de los Artículos Noveno y Décimo Transitorios de la presente Ley.
+
+Para los Servidores Públicos que, a la entrada en vigor de la presente Ley, cotizan al sistema mixto previsto en la Ley que se abroga y opten por la Acreditación en términos de los Artículos Noveno y Décimo Transitorios del presente ordenamiento; al monto de la Acreditación, más su actualización, se acumularán al saldo de la cuenta individual del sistema de capitalización individual, más sus rendimientos, en la cuenta individual del Servidor Público.
+
+TRIGÉSIMO CUARTO.- Las Instituciones Públicas gozaran por una sola vez del beneficio de la condonación parcial o total de las multas por infracción a las disposiciones aplicables para el caso particular; las indemnizaciones por devolución de cheques y los recargos; por adeudos por concepto de Cuotas, Aportaciones, Descuentos u Otra Obligación de cualquier naturaleza a cargo de las mismas con el Instituto, sin que ello se considere como remisión de deuda para efectos de la Ley del Impuesto sobre la Renta.
+
+TRIGÉSIMO QUINTO.- El Instituto podrá autorizar el pago a plazos para cubrir las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de veinticuatro meses, autorización que podrá otorgarse siempre y cuando la Institución Pública:
+
+I. Pague el 20% del monto total del adeudo; cuyo importe se integrará con las contribuciones omitidas actualizadas y los accesorios causados hasta la fecha del entero.
+
+II. Solicite la autorización dentro de los quince días siguientes a aquel en que se efectúe el pago del 20%, debiendo anexar el comprobante de pago correspondiente.
+
+III. Otorgue garantía al momento de presentar su solicitud de autorización de pago a plazos.
+
+IV. Durante el transcurso de la prórroga se causarán los recargos sobre saldos insolutos, calculados a razón de 1.6 veces la Tasa de referencia.
+
+En ningún caso el Instituto autorizará un plazo que exceda el periodo de administración de la Institución Pública que lo solicite.
