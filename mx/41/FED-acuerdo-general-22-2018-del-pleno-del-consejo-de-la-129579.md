@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2018-del-pleno-del-consejo-de-la-129579"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-07-12"
-last_updated: "2018-07-12"
+last_updated: "2018-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129579&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2018-07-04"
 ---
 # ACUERDO GENERAL 22/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO AL CAMBIO DE DOMICILIO DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE YUCATAN, CON RESIDENCIA EN MERIDA]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2018 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL 22/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE YUCATÁN, CON RESIDENCIA EN MÉRIDA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 10 DE AGOSTO DE 2018.]</small>
 
 Acuerdo publicado en la Cuarta Sección al Número 9 del Diario Oficial de la Federación, el jueves 12 de julio de 2018.
 
@@ -61,9 +61,11 @@ ACUERDO
 
 Se autoriza el cambio de domicilio del Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida.
 
+> <small>(F. DE E., D.O.F 10 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 2.
 
-El nuevo domicilio del Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida, será el ubicado en calle 60, número 40, manzana 236, Cuartel 21, por 157 y 80, colonia San José Tecoh, Mérida, Yucatán.
+El nuevo domicilio del Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida, será el ubicado en calle 60, número 401, por 157, colonia San José Tecoh Sur, código postal 97298, Mérida, Yucatán.
 
 ###### Artículo 3.
 
@@ -101,6 +103,6 @@ CUARTO. Se reforma el artículo 7, párrafo primero, del Acuerdo General 1/2015 
 
 "Artículo 7. El domicilio del Centro de Justicia será el ubicado en calle 60, número 40, manzana 236, Cuartel 21, por 157 y 80, colonia San José Tecoh, Mérida, Yucatán.
 
-."
+…"
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 22/2018, del Pleno del Consejo de la Judicatura Federal, relativo al cambio de domicilio del Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de cuatro de julio de dos mil dieciocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Jorge Antonio Cruz Ramos, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza y J. Guadalupe Tafoya Hernández.- Ciudad de México, a cuatro de julio de dos mil dieciocho.- Conste.- Rúbrica.
