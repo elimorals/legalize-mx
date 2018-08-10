@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-de-campeche-122763"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-13"
-last_updated: "2017-07-13"
+last_updated: "2018-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2018.
 
 Ley publicada en la Tercera Sección al Número 0478 del Periódico Oficial del Estado de Campeche, el jueves 13 de julio de 2017.
 
@@ -41,9 +41,11 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
 ### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES GENERALES DE LOS ÓRGANOS DEL PODER JUDICIAL Y SUS AUXILIARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y observancia general en todo el territorio del Estado. Tiene por objeto regular la organización, estructura, funcionamiento y atribuciones del Poder Judicial del Estado de Campeche, al cual corresponde aplicar la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales de los que sea parte el Estado Mexicano y la Constitución Política del Estado de Campeche; así como las leyes en asuntos jurisdiccionales del fuero común, en materia civil, concurrente mercantil, familiar y penal, y en materia federal, cuando las leyes lo faculten, conforme a los principios contenidos en las constituciones federal y local.
+La presente ley es de orden público y observancia general en todo el territorio del Estado. Tiene por objeto regular la organización, estructura, funcionamiento y atribuciones del Poder Judicial del Estado de Campeche, al cual corresponde aplicar la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales de los que sea parte el Estado Mexicano y la Constitución Política del Estado de Campeche; así como las leyes en asuntos jurisdiccionales de competencia estatal en materia civil, familiar, penal y laboral, en cuestiones de materia concurrente mercantil, y en materia federal cuando las leyes lo faculten, conforme a los principios contenidos en las constituciones federal y local.
 
 Los tribunales y Jueces del Poder Judicial del Estado, en todas las materias, aplicarán los controles difusos de constitucionalidad y de convencionalidad ex officio, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y la jurisprudencia aplicable.
 
@@ -51,9 +53,11 @@ Los tribunales y Jueces del Poder Judicial del Estado, en todas las materias, ap
 
 La aplicación de las leyes en los casos concretos, como función perteneciente a la impartición de justicia, estará a cargo de los órganos del Poder Judicial, los que actuarán de manera colegiada o unitaria, gozarán de plena autonomía e independencia en sus resoluciones y ejercerán su función sin más sujeción que a las leyes, a la equidad y a los principios generales de derecho.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 3.
 
-La función judicial se regirá por los principios de independencia judicial, imparcialidad, eficiencia, eficacia, legalidad, excelencia profesional, honestidad, diligencia, celeridad, honradez, veracidad, objetividad, competencia, honorabilidad, lealtad, probidad y rectitud.
+La función judicial se regirá por los principios de independencia judicial, imparcialidad, eficiencia: eficacia, legalidad, excelencia profesional, honestidad, diligencia, celeridad, honradez, veracidad, objetividad, competencia, honorabilidad, lealtad, probidad, rectitud, transparencia y autonomía.
 
 El Honorable Tribunal Pleno y el Consejo de la Judicatura del Poder Judicial del Estado, velarán por el cumplimiento de dichos principios de conformidad con lo establecido en la presente ley.
 
@@ -87,9 +91,13 @@ j) Jueces de cuantía menor;
 
 k) Jueces mixtos;
 
-l) Jueces auxiliares; y
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2018)</small>
 
-m) Jueces conciliadores.
+l) Jueces auxiliares;
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2018)</small>
+
+m) Jueces conciliadores; y
 
 II. Órganos Administrativos:
 
@@ -673,9 +681,11 @@ Los actuarios autorizarán con su firma las diligencias y notificaciones, y tend
 
 ### CAPÍTULO PRIMERO. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 48.
 
-En el Estado habrá el número de juzgados civiles, familiares, mercantiles, penales, especializados en justicia para adolescentes, mixtos, auxiliares y de cuantía menor que establezca la ley y que el Consejo de la Judicatura considere necesarios para que la administración de justicia sea expedita, pronta, completa e imparcial.
+En el Estado habrá el número de juzgados civiles, familiares, mercantiles, penales, especializados en justicia para adolescentes, laborales, de cuantía menor, mixtos y auxiliares que establezca la ley y que el Consejo de la Judicatura considere necesarios para que la administración de justicia sea expedita, pronta, completa e imparcial.
 
 ###### Artículo 49.
 
@@ -3341,9 +3351,13 @@ XIII. Omitir la vigilancia de los expedientes, documentos y depósitos que esté
 
 XIV. No remitir al archivo, al terminar el año, los expedientes cuya remisión sea forzosa conforme a la ley;
 
-XV. No cumplir con las demás obligaciones que esta ley, el Código de Procedimientos Civiles del Estado, el Código Nacional de Procedimientos Penales, el reglamento y el Tribunal en Pleno determinen; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2018)</small>
 
-XVI. No cumplir las órdenes expresas de los Jueces, Magistrados y Presidente del Tribunal.
+XV. No cumplir con las órdenes expresas de los Jueces, Magistrados, Consejeros de la Judicatura y, en su caso, del Presidente del Honorable Tribunal; y
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2018)</small>
+
+XVI. No cumplir con las demás obligaciones que esta ley, el Código de Procedimientos Civiles del Estado, el Código Nacional de Procedimientos Penales, la Ley Federal del Trabajo, las demás leyes aplicables y normatividad en la materia, los reglamentos, los acuerdos que emita el Consejo de la Judicatura y, en su caso, los acuerdos que emita el Pleno del Honorable Tribunal Superior de Justicia del Estado.
 
 D. De los actuarios:
 
@@ -3627,7 +3641,9 @@ Se establece como dependencia del Consejo de la Judicatura el Archivo Judicial d
 
 Se depositarán en el archivo judicial:
 
-I. Todos los expedientes del orden civil, familiar, mercantil, administrativo, penal y de justicia especializada en el sistema para adolescentes, incluidos los medios electrónicos o magnéticos, concluidos por los juzgados, por las salas y por el Pleno del Honorable Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2018)</small>
+
+I. Todos los expedientes del orden civil, familiar, mercantil, administrativo, penal, de justicia especializada en el sistema para adolescentes y laboral, incluidos los medios electrónicos o magnéticos, concluidos por los juzgados, por las salas y por el Pleno del Honorable Tribunal Superior de Justicia;
 
 II. Los expedientes que, aun cuando no estén concluidos, hayan dejado de tramitarse por cualquier motivo durante un año;
 
@@ -3635,9 +3651,11 @@ III. Cualesquiera otros expedientes concluidos que conforme a la ley deban forma
 
 IV. Los demás expedientes o documentos que las leyes determinen o acuerde el Presidente del Consejo de la Judicatura o la Comisión de Administración, en los casos en que por su especial importancia así lo considere conveniente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 262.
 
-Habrá en el archivo seis departamentos:
+Habrá en el archivo siete departamentos:
 
 I. Del ramo civil;
 
@@ -3647,9 +3665,13 @@ III. Del ramo mercantil;
 
 IV. Del ramo contencioso-administrativo;
 
-V. Del ramo penal; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2018)</small>
 
-VI. Del ramo de justicia para adolescentes.
+V. Del ramo penal:
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2018)</small>
+
+VI. Del ramo de justicia para adolescentes; y
 
 Los incidentes se archivarán con el juicio principal a que pertenezcan, cualquiera que sea su naturaleza.
 
@@ -4073,9 +4095,13 @@ IV. Los Jueces mixtos de primera instancia, por el Juez de primera instancia o m
 
 V. Los Jueces de cuantía menor por el de la misma categoría más cercano del mismo distrito judicial y, a falta de éste, por el de la misma categoría más cercano de diverso distrito judicial;
 
-VI. Los Jueces conciliadores y sus secretarios, por sus respectivos suplentes; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2018)</small>
 
-VII. Los demás funcionarios del Poder Judicial en la forma que prevengan las leyes y reglamentos respectivos y, en caso de silencio de éstos, como lo dispongan los titulares de las oficinas correspondientes.
+VI. Los Jueces conciliadores y sus secretarios, por sus respectivos suplentes;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2018)</small>
+
+VII. Los Jueces del ramo laboral, por los demás Jueces del mismo ramo del mismo distinto judicial, por su orden. Si en esta forma no se llevare a cabo la suplencia, se llamará al Juez del distrito judicial más cercano que tenga competencia para el negocio de que se trate o en su defecto por el que posea conocimiento en derecho del trabajo y designe el Consejo de la Judicatura Local; y
 
 ### CAPÍTULO CUARTO. DE LA PROTESTA CONSTITUCIONAL Y DISPOSICIONES COMPLEMENTARIAS
 
@@ -4316,3 +4342,23 @@ VIGÉSIMO.- Se derogan todas las disposiciones legales y reglamentarias del marc
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los trece días del mes de julio del año dos mil diecisiete.
 
 C. Sandra Guadalupe Sánchez Díaz, Diputada Presidenta.- C. Fredy Fernando Martínez Quijano, Diputado Secretario.-C. María del Carmen Pérez López, Diputada Secretaria.- Rúbricas.
+
+P.O. 10 DE AGOSTO DE 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 300 POR EL QUE “SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 1; EL PÁRRAFO PRIMERO DEL ARTÍCULO 3; LOS INCISOS L) Y M) DE LA FRACCIÓN I DEL ARTÍCULO 4; EL ARTÍCULO 48; LAS FRACCIONES XV Y XVI DEL APARTADO C DEL ARTÍCULO 239; LA FRACCIÓN I DEL ARTÍCULO 261; EL PÁRRAFO PRIMERO Y LAS FRACCIONES V Y VI DEL ARTÍCULO 262, Y LAS FRACCIONES VI Y VII DEL ARTÍCULO 316, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Consejo de la Judicatura Local dispondrá la instalación de los juzgados laborales, con sujeción y observancia a las adecuaciones que el Congreso de la Unión realice a la Ley Federal del Trabajo, en términos del Transitorio Segundo del Decreto de fecha ocho de febrero del año dos mil diecisiete, publicado en el Diario Oficial de la Federación el día veinticuatro del mismo mes y año, por el que se reformaron diversas disposiciones de los artículos 107 y 123 da la Constitución Política de los Estados Unidos Mexicanos, en materia de justicia laboral.
+
+TERCERO.- En tanto se instituyen e inician operaciones los juzgados laborales, las Juntas de Conciliación y Arbitraje continuarán atendiendo las diferencias o conflictos laborales que se presenten entre el capital y el trabajo y sobre el registro de los contratos colectivos de trabajo y de organizaciones sindicales.
+
+Una vez que entren en vigor las reformas a la Ley Federal del Trabajo, las diferencias o conflictos laborales que estén en proceso y los registros de contratos colectivos de trabajo y de organizaciones sindicales que se hayan iniciado, se atenderán conforme lo disponga dicha Ley Federal
+
+CUARTO.- En la Ley de Presupuesto de Egresos del Estado se deberá destinar los recursos necesarios para la implementación de la reforma del sistema local de justicia laboral. Este presupuesto se ajustará a las adecuaciones que realice el Poder Judicial del Estado, podrá ejecutarse desde su aprobación y se aplicará a los cambios organizacionales, la construcción, operación y equipamiento de la infraestructura, y la capacitación necesaria para el personal de los juzgados laborales.
+
+QUINTO.- El Consejo de la Judicatura Local emitirá las disposiciones reglamentarias, acuerdos y demás normativa, que sean necesarias para la correcta implementación de las presentes reformas y adiciones, en un plazo que no deberá exceder del día en que entren en vigor las disposiciones a las modificaciones respectivas a la Ley Federal del Trabajo.
+
+SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
