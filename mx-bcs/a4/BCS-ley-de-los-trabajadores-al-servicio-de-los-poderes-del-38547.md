@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2017-11-30"
+last_updated: "2018-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE AGOSTO DE 2018.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -155,7 +155,7 @@ III.- Cuando el trabajo en las diversas áreas o dependencias de los titulares, 
 
 IV.- Cuando exista un trabajo de apoyo personal y directo que se preste a los funcionarios de elección popular, a los titulares de las instituciones públicas, y a los trabajadores considerados como de confianza conforme al tercer párrafo del artículo 5 de esta Ley.
 
-Los trabajadores de confianza no gozarán de la inamovilidad de los trabajadores de base por lo que en cualquier tiempo y por acuerdo del titular de la dependencia dejaran de surtir sus efectos los nombramientos que se les hayan otorgado;
+Los trabajadores de confianza no gozarán de la inamovilidad de los trabajadores de base por lo que en cualquier tiempo y por acuerdo del titular de la dependencia dejaran de surtir sus efectos los nombramientos que se les hayan otorgado.
 
 > <small>(ADICIONADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
@@ -411,7 +411,9 @@ VII.- Proporcionar a los trabajadores que no estén incorporados al régimen de 
 
 VIII.- Conceder licencias con goce de sueldo a sus trabajadores para el desempeño de las comisiones sindicales que se les confieren, o cuando sean promovidos temporalmente al ejercicio de otras comisiones en dependencia diferente a la de su plaza. Las licencias para ocupar puestos de elección popular serán sin goce de sueldo. Las licencias que se concedan en los términos del párrafo anterior, se computarán como tiempo efectivo de servicios dentro del escalafón.
 
-Otorgar al trabajador que así lo solicite la licencia con goce de sueldo correspondiente, cuando éste sea clínicamente considerado como posible donador; previa solicitud por escrito, acreditando mediante los certificados médicos correspondientes la naturaleza y temporalidad de la intervención requerida;
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2018)</small>
+
+Otorgar al trabajador o trabajadora que así lo solicite, un permiso para ausentarse de sus labores, hasta por un día laborable, para acudir a alguna institución de salud pública o privada a realizar una donación altruista de sangre, el cual, será con goce de sueldo, siempre y cuando acredite con la documentación correspondiente que la donación de sangre fue de manera altruista. De igual forma, otorgarle la licencia con goce de sueldo correspondiente cuando sea clínicamente considerado como posible donador de órganos o tejidos para la práctica de exámenes necesarios para confirmar su posibilidad de ser donador, lo anterior previa solicitud por escrito, correspondientes la naturaleza y temporalidad de los exámenes, así también conceder licencia con goce de sueldo para realizar la donación de órganos o tejidos en la que considere las etapas preoperatorias, operativa, considerando la duración de la intervención quirúrgica requerida, así como la recuperación pos-operativa, lo anterior previa solicitud por escrito, acreditando mediante los certificados o documentos médicos correspondientes el tiempo requerido de licencia. En ningún caso podrá el trabajador o trabajadora tener repercusiones en el monto de su salario, bonos y prestaciones correspondiente.
 
 IX.- Hacer las deducciones en los salarios, que solicite del sindicato respectivo en los términos de esta Ley.
 
@@ -469,7 +471,7 @@ I.- Que el trabajador contraiga alguna enfermedad que implique un peligro para l
 
 II.- La prisión preventiva del trabajador, seguida de sentencia absolutoria o el arresto impuesto por autoridad judicial o administrativa, a menos que, tratándose de arresto el Tribunal de Conciliación y Arbitraje, resuelva que debe tener lugar el cese del trabajador. Los trabajadores que tengan encomendados manejo de fondos, valores o bienes, podrán ser suspendidos hasta por sesenta días por el titular de la dependencia respectiva, cuando apareciere alguna irregularidad en su gestión, mientras se practica la investigación y se resuelve sobre el cese.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 47.
 
@@ -1075,7 +1077,7 @@ V.- La indicación del lugar en que puedan obtenerse las pruebas que el reclaman
 
 > <small>(ADICIONADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
-VI.- A la demanda se acompañarán las pruebas de que disponga y los documentos que acrediten la personalidad de su representante, sí no concurre personalmente.
+VI.- A la demanda se acompañarán las pruebas de que disponga y los documentos que acrediten la personalidad de su representante, si no concurre personalmente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
@@ -1488,3 +1490,11 @@ B.O. 30 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 2482 SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 29 Y SE ADICIONA EL SEGUNDO Y TERCER PÁRRAFOS, RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE, AL ARTÍCULO 29, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2545 SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VIII DEL ARTÍCULO 44 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
