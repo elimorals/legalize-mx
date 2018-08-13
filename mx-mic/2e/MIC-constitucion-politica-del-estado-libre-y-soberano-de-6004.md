@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2018-07-24"
+last_updated: "2018-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -803,9 +803,9 @@ XVII.- Conceder honores, premios y recompensas a las personas que presten servic
 
 XVII bis.- Conceder pensiones, en casos de excepción, conforme a los procedimientos y formalidades que establezca la ley de la materia, con la aprobación de las dos terceras partes de los diputados presentes;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
 
-XVIII. Citar a los titulares y directores de las dependencias de la Administración pública Estatal centralizada, de las coordinaciones auxiliares del Titular del Ejecutivo, de las entidades paraestatales, de los organismos autónomos; y, al Procurador General de Justicia, quienes deberán comparecer y rendir informes;
+XVIII.- Citar a los titulares y directores de las dependencias de la Administración Pública Estatal Centralizada y Paraestatal, al Fiscal General del Estado, así como (sic) los titulares de los organismos autónomos, para comparecer y rendir informe sobre asuntos concernientes a su respectiva competencia;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -909,21 +909,25 @@ XXXIV.- Expedir todas las leyes que sean necesarias a fin de hacer efectivas las
 
 XXXV.- Someter a referéndum las leyes y decretos que considere sean trascendentales para el orden público o el interés social del Estado, conforme a los procedimientos y formalidades que establezca la ley de la materia. No podrán ser objeto de referéndum las reformas a esta Constitución, normas de carácter tributario o fiscal, de Egresos y las relativas a la regulación interna de los órganos del Estado; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DEL 2005)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE AGOSTO DE 2018)</small>
 
-XXXVI.- Ratificar el nombramiento del Procurador General de Justicia que haga el Gobernador del Estado;
+XXXVI.- Integrar la lista de diez candidatos para enviarla al Ejecutivo, y elegir, de entre la terna que remita éste, al Fiscal General del Estado, en los términos de esta Constitución;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DEL 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
 
-XXXVII.- Solicitar al Gobernador del Estado, mediante el voto de las dos terceras partes de los diputados presentes, la remoción del Procurador General de Justicia; y,
+XXXVII.- Aprobar la licencia o renuncia del Fiscal General del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
 
-XXXVIII.- Ratificar el nombramiento que haga el Gobernador del Estado del titular de la dependencia de Control interno, por el voto de las dos terceras partes de los diputados presentes; y,
+XXXVIII.- Remover al Fiscal General del Estado mediante el voto de las dos terceras partes de los diputados presentes;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
 
-XXXIX.- Las demás que le confiera expresamente esta Constitución.
+XXXIX.- Ratificar el nombramiento que haga el Gobernador del Estado del titular de la dependencia de Control interno, por el voto de las dos terceras partes de los diputados presentes; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE AGOSTO DE 2018)</small>
+
+XL.- Las demás que le confiera expresamente esta Constitución.
 
 > <small>(DEROGADA, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -983,15 +987,17 @@ II.- No pueden ser electos para ocupar el cargo de Gobernador:
 
 a).- Los que tengan mando de fuerza pública;
 
-b).- Aquellos que desempeñen algún cargo o comisión del Gobierno Federal, y
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+b).- Aquellos que desempeñen algún cargo o comisión del Gobierno Federal;
 
-c) Los titulares de las dependencias básicas del Ejecutivo, los Magistrados del Supremo Tribunal de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Electoral; los Consejeros del Poder Judicial; y,
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
+
+c).- Los titulares de las dependencias básicas del Ejecutivo, los Magistrados del Supremo Tribunal de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Electoral; los Consejeros del Poder Judicial; el Fiscal General del Estado; y,
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-d) Los consejeros y funcionarios electorales federales o estatales, a menos que se separen un año antes del día de la elección.
+d).- Los consejeros y funcionarios electorales federales o estatales, a menos que se separen un año antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -1103,11 +1109,11 @@ VIII.- Presentar cada año al Congreso, a más tardar el treinta de abril, la Cu
 
 IX.- Dar informes al Congreso cuando le fueren pedidos, sobre cualquier ramo de la administración pública, por sí o a través de los titulares de las dependencias básicas;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
 
-X. Presentar al Congreso del Estado, un informe por escrito, dentro del período comprendido entre el día 15 y 30 de septiembre de cada año, en el que manifieste el estado general que guarde la Administración Pública del Estado y señale con precisión, el ejercicio del presupuesto y su vinculación con el Plan Estatal de Desarrollo, estableciendo en su caso las incidencias por las que éste se hubiese modificado y proponiendo los medios para mejorarla.
+X.- Presentar al Congreso del Estado, un informe por escrito, dentro del período comprendido entre el día 15 y 30 de septiembre de cada año, en el que manifieste el estado general que guarde la Administración Pública del Estado y señale con precisión, el ejercicio del presupuesto y su vinculación con el Plan Estatal de Desarrollo, estableciendo en su caso las incidencias por las que éste se hubiese modificado y proponiendo los medios para mejorarla.
 
-El Congreso realizará el análisis del informe y podrá solicitar al Gobernador del Estado ampliar la información mediante pregunta por escrito y citar a los titulares y directores de las dependencias de la Administración pública Estatal centralizada, de las coordinaciones auxiliares del Titular del Ejecutivo, de las entidades paraestatales, de los organismos autónomos; y, al Procurador General de Justicia, quienes comparecerán y rendirán informes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE AGOSTO DE 2018)</small>
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1135,13 +1141,11 @@ Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado c
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DEL 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
 
-XVI.- Nombrar, con ratificación del Congreso, al Procurador General de Justicia;
+XVI.- Presentar terna al Congreso del Estado, para la elección del Fiscal General del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DEL 2005)</small>
-
-XVII.- Remover libremente al Procurador General de Justicia, o a solicitud del Congreso del Estado;
+XVII.- (DEROGADA, P.O. 13 DE AGOSTO DE 2018)
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1391,9 +1395,11 @@ III. Tener al día de la elección, título profesional de licenciado en derecho
 
 IV. Gozar de buena reputación y no haber sido sentenciado por delito doloso;
 
-V.- Haber residido en Michoacán durante los dos años anteriores al día de la elección; y,
+V. Haber residido en Michoacán durante los dos años anteriores al día de la elección; y,
 
-VI. No haber ocupado el cargo de titular de las dependencias básicas de la Administración Pública Centralizada o su equivalente, Procurador General de Justicia, o Diputado Local, durante el año previo al día de la elección.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
+
+VI. No haber ocupado el cargo de titular de las dependencias básicas de la Administración Pública Centralizada o su equivalente, Fiscal General del Estado, o Diputado Local, durante el año previo al día de la elección.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -1799,45 +1805,71 @@ Las personas que cubran las vacantes temporales de alguno de los magistrados que
 
 #### SECCION I. Del Ministerio Público
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 99.
 
-El Ministerio Público es la institución encargada de velar por la exacta observancia de las leyes en los casos en que tenga intervención, conforme a su Ley Orgánica. Para tal fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales en estos casos.
+La investigación de los delitos corresponde al Ministerio Público y a las policías, quienes actuarán bajo la conducción y mando de aquél en el ejercicio de esta función. Corresponde al Ministerio Público la consecución, ante los tribunales de los delitos. Asimismo, podrá solicitar las medidas cautelares contra los imputados; buscar y presentar las pruebas que acrediten la participación de éstos en hechos que la ley señale como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+Intervendrá en todos los asuntos que la ley determine.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 100.
 
-Ejercen esta institución en el Estado el Procurador General de Justicia y los agentes del Ministerio Público que determine la ley. En los casos en que debe intervenir el Ministerio Público, el Procurador General de Justicia podrá hacerlo por sí o por medio de alguno de sus agentes.
+El Ministerio Público estará a cargo de un Fiscal General del Estado.
 
-La Ley Orgánica de la institución fijará la adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren, entre los cuales se incluirá la Fiscalía especializada en combate a la Corrupción; asimismo establecerá centros especializados en mecanismos alternativos de solución de controversias y determinará los casos que requieran supervisión judicial.
+La Fiscalía General del Estado es un órgano autónomo, con personalidad jurídica, patrimonio propio, autonomía financiera, presupuestaria, técnica y de gestión en los términos que determine la Ley.
 
-El Procurador General de Justicia, deberá rendir al Congreso del Estado, un informe anual respecto a las acciones y resultados de la institución a su cargo.
+El Fiscal General durará en su encargo nueve años y, no podrá ser reelecto; será designado y removido conforme a lo establecido por esta Constitución; será sujeto de responsabilidad política, penal o administrativa, en términos de la legislación aplicable.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+El Fiscal Estatal Anticorrupción durará en su encargo siete años y será nombrado por el Congreso del Estado, de conformidad con el procedimiento que para tal efecto se determine; podrá ser removido en los términos que la Ley establezca.
+
+La Ley Orgánica de la institución fijará la adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren, entre los cuales se incluirá la Fiscalía Especializada en Combate a la Corrupción; asimismo establecerá centros especializados en mecanismos alternativos de solución de controversias y determinará los casos que requieran supervisión judicial.
+
+El Fiscal General del Estado, deberá rendir al Congreso del Estado, un informe anual y cuando sea requerido respecto a las acciones y resultados de la institución a su cargo.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 101.
 
-Para ser Procurador General de Justicia se requiere:
+Para ser Fiscal General del Estado se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
-II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco años, el día de su designación;
+II. Tener cuando menos treinta y cinco años cumplidos;
 
-III. Contar el día de su designación con una antigüedad de cinco años en el ejercicio de su profesión y tener título profesional de licenciado en derecho expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por universidad, autoridad o institución legalmente facultada para ello;
+III. Contar con residencia en el Estado de Michoacán al menos de tres años, el día de su designación;
 
-IV. Gozar de buena reputación y no haber sido sentenciado por delito doloso; y,
+IV. Contar al día de su designación con una antigüedad de diez años en el ejercicio de su profesión y tener título profesional de licenciado en derecho expedido por universidad, autoridad o institución legalmente facultada para ello;
 
-(sic). Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses.
+V. Gozar de buena reputación; y,
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+(NOTA: EL 28 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 73/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+VI. No haber sido sentenciado por delito doloso, inhabilitado O ENCONTRARSE SUJETO A PROCEDIMIENTO DE RESPONSABILIDAD.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 102.
 
-El Congreso del Estado ratificará el nombramiento del Procurador General de Justicia, que haga el Gobernador del Estado, mediante el voto de las dos terceras partes de los diputados presentes, en los quince días naturales siguientes a su recepción. La falta de resolución causa la ratificación tácita del nombramiento, por lo que éste surtirá todos sus efectos constitucionales.
+Para la elección del Fiscal General del Estado, se observará el siguiente procedimiento:
 
-Cuando el Congreso del Estado rechace el nombramiento, el Titular del Ejecutivo dispondrá de cinco días naturales para enviar uno nuevo. Si éste fuera rechazado, formulará un tercero. Desechado este último, dentro de las setenta y dos horas siguientes, el Congreso ratificará a quien cumpliendo con los requisitos constitucionales, obtenga el mayor número de votos mediante cédula, de entre los presentados por el Ejecutivo.
+I. El Congreso del Estado emitirá convocatoria pública para ocupar el cargo de Fiscal General del Estado, noventa días antes del término del encargo;
+
+II. De entre los concurrentes a esa convocatoria, que cumplan todos los requisitos, elegirá diez propuestos en una lista que enviará al Gobernador del Estado;
+
+III. El Gobernador del Estado contará hasta con diez días a partir de la recepción de las propuestas, para formar una terna, misma que remitirá al Congreso del Estado;
+
+IV. El Congreso del Estado deberá, de entre la terna propuesta elegir a quien será Fiscal General del Estado por el voto de las dos terceras partes de sus integrantes;
+
+V. De no enviarse la terna dentro del plazo de diez días el Congreso del Estado integrará la terna correspondiente;
+
+VI. De no lograr la votación requerida para elegir de entre los propuestos integrantes de la terna hasta en dos ocasiones, se solicitará al Gobernador del Estado la integración de una nueva terna, que será integrada por personas de la lista inicial;
+
+VII. El Fiscal General del Estado tomará protesta ante el Congreso; y,
+
+VIII. Las ausencias del Fiscal General del Estado serán suplidas en los términos que determina la Ley.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -2703,7 +2735,9 @@ Los funcionarios de elección popular que sin causa justificada y sin la corresp
 
 Todo cargo de elección popular es incompatible con el ejercicio de cualquier otro empleo del Estado en que se disfrute sueldo, excepción hecha de los de instrucción y beneficencia, si no es que para desempeñarlo se obtenga licencia del Congreso.
 
-Hay también incompatibilidad en los individuos del Poder Judicial para servir durante su encargo como abogados, procuradores, árbitros o asesores, si no es en negocios propios o de su familia.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
+
+Hay también incompatibilidad en el Fiscal General del Estado y los individuos del Poder Judicial para servir durante su encargo como abogados, procuradores, árbitros o asesores, si no es en negocios propios o de su familia.
 
 La infracción a lo prevenido en este artículo y en los demás que tratan de las prohibiciones impuestas a los funcionarios públicos, será causa de responsabilidad que castigarán las leyes.
 
@@ -3125,29 +3159,33 @@ UNICO.- El presente decreto entrará en vigor el día siguiente al de su publica
 
 P.O. 16 DE MARZO DE 1998.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO N° 130.- SE REFORMAN LOS ARTÍCULOS 64, 95, 97, 99 Y 100; SE ADICIONAN LOS ARTÍCULOS 64 Y 95 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+DECRETO NÚMERO 130 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 64; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 95; EL ARTÍCULO 97; EL ARTÍCULO 99; Y, EL PRIMER PÁRRAFO DEL ARTÍCULO 100; SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 64, RECORRIÉNDOSE EN SU ORDEN EL ACTUAL SEGUNDO PÁRRAFO PARA QUEDAR COMO TERCERO; Y, UN TERCER PÁRRAFO AL ARTÍCULO 95; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
-> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
-
-###### ARTICULO PRIMERO.
-
-EI presente Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
-
-> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
-
-###### ARTICULO SEGUNDO.
-
-Los juicios y procedimientos relacionados con los artículos que se reforman y adicionan, iniciados con anterioridad, continuarán tramitándose conforme a las disposiciones vigentes al entrar en vigor el presente Decreto.
-
-> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
-
-###### ARTICULO TERCERO.
-
-Se derogan todas las disposiciones jurídicas que se opongan a este Decreto.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
 
 P.O. 16 DE MARZO DE 1998.
 
 DECRETO NÚMERO 131 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 1o., 2o., 3o., 44 FRACCIONES DE LA XIX-A, A LA XXXIII; 46 FRACCIONES VII, IX Y X; 60, FRACCIONES DE LA III A LA XXIII; 67; 69; 70; 71, FRACCIONES I, III, V Y VI; 72; 73; 74; 75; 83; 92; Y, 108 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 153 POR EL QUE “SE REFORMA EL ARTÍCULO 94 PÁRRAFO SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase la Minuta con Proyecto de Decreto a los Ayuntamientos del Estado, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE OCTUBRE DE 2016.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+De conformidad a lo dispuesto en el artículo 31 reformado, de esta Constitución, el Tercer Período Ordinario de Sesiones correspondiente al Segundo Año de Ejercicio Legal, de la LXVIII Legislatura Constitucional, iniciará el 15 de noviembre y terminará el 15 de diciembre del presente año; durante este periodo el Congreso se ocupará de los asuntos a que se refieren las fracciones I y III del artículo 31 reformado.
+
+###### ARTICULO TERCERO.
+
+Por esta única ocasión, el Gobernador del Estado, deberá presentar al Congreso del Estado, a más tardar el 30 de noviembre del presente año, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el ejercicio fiscal del año 2001.
 
 ###### ARTICULO UNICO.
 
@@ -3161,17 +3199,29 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 8 DE NOVIEMBRE DE 2000.
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-De conformidad a lo dispuesto en el artículo 31 reformado, de esta Constitución, el Tercer Período Ordinario de Sesiones correspondiente al Segundo Año de Ejercicio Legal, de la LXVIII Legislatura Constitucional, iniciará el 15 de noviembre y terminará el 15 de diciembre del presente año; durante este periodo el Congreso se ocupará de los asuntos a que se refieren las fracciones I y III del artículo 31 reformado.
+Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
-###### ARTICULO TERCERO.
+P.O. 9 DE FEBRERO DEL 2007.
 
-Por esta única ocasión, el Gobernador del Estado, deberá presentar al Congreso del Estado, a más tardar el 30 de noviembre del presente año, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el ejercicio fiscal del año 2001.
+DECRETO NÚMERO 127 POR EL QUE SE REFORMAN LOS ARTÍCULOS PRIMERO, CUARTO, QUINTO Y SEXTO TRANSITORIOS, DEL DECRETO NUMERO 69, SE REFORMA EL ARTÍCULO 13; SE ADICIONA AL TITULO TERCERO A, CAPITULO I, SECCION IV, CON LA DENOMINACIÓN "DEL INSTITUTO ELECTORAL DE MICHOACÁN", CON ARTÍCULO 98; Y SECCION V, CON LA DENOMINACIÓN "DEL TRIBUNAL ELECTORAL DEL ESTADO", CON ARTÍCULO 98 A; Y SE REFORMA EL ARTÍCULO 117 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 6 DE JULIO DE 2007.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE AGOSTO DE 2007.
 
 ###### ARTICULO CUARTO.
 
@@ -3395,35 +3445,11 @@ D.O. 25 DE MAYO DE 2006.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 9 DE FEBRERO DEL 2007.
-
-DECRETO NÚMERO 127 POR EL QUE SE REFORMAN LOS ARTÍCULOS PRIMERO, CUARTO, QUINTO Y SEXTO TRANSITORIOS, DEL DECRETO NUMERO 69, SE REFORMA EL ARTÍCULO 13; SE ADICIONA AL TITULO TERCERO A, CAPITULO I, SECCION IV, CON LA DENOMINACIÓN "DEL INSTITUTO ELECTORAL DE MICHOACÁN", CON ARTÍCULO 98; Y SECCION V, CON LA DENOMINACIÓN "DEL TRIBUNAL ELECTORAL DEL ESTADO", CON ARTÍCULO 98 A; Y SE REFORMA EL ARTÍCULO 117 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 6 DE JULIO DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
 Remítase a los ayuntamientos del Estado, a efecto de que, en el término de un mes después de recibida la minuta proyecto de Decreto, envíen al Congreso del Estado el resultado de la votación correspondiente, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO SEGUNDO.
 
 Transcurrido el mes concedido a los ayuntamientos, se dará cuenta al Pleno con el resultado de su votación, para efectuar la declaratoria correspondiente.
-
-###### ARTÍCULO TERCERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 31 DE AGOSTO DE 2007.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3467,6 +3493,12 @@ TERCERO. Remítase a los Ayuntamientos del Estado la Minuta Proyecto de Decreto,
 
 P.O. 11 DE SEPTIEMBRE DE 2008.
 
+###### ARTÍCULO TERCERO.
+
+Las comisiones de Gobernación y Puntos Constitucionales del Congreso del Estado contarán con un término de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, para presentar ante el Pleno la Iniciativa con carácter de Dictamen de la Ley Reglamentaria en materia de pensiones previstas en la fracción XVII bis.
+
+P.O. 31 DE MARZO DE 2010.
+
 ###### ARTÍCULO PRIMERO.
 
 Remítase a los ayuntamientos del Estado, el presente Decreto, para que en el término de Ley, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
@@ -3485,12 +3517,6 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constituci
 
 Remítase a los ayuntamientos del Estado, el Proyecto de Decreto, para que, en los términos del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibido el Proyecto de Decreto, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación.
 
-###### ARTÍCULO TERCERO.
-
-Las comisiones de Gobernación y Puntos Constitucionales del Congreso del Estado contarán con un término de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, para presentar ante el Pleno la Iniciativa con carácter de Dictamen de la Ley Reglamentaria en materia de pensiones previstas en la fracción XVII bis.
-
-P.O. 31 DE MARZO DE 2010.
-
 ###### ARTÍCULO PRIMERO.
 
 Remítase el presente Decreto a los ayuntamientos del Estado, para que procedan en términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
@@ -3501,6 +3527,10 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 6 DE AGOSTO DE 2010.
 
+###### ARTÍCULO TERCERO.
+
+Las obligaciones derivadas del presente Decreto, serán cumplidas de manera gradual progresiva, inicialmente la gratuidad implicará el pago de inscripción en las instituciones públicas de media superior y superior hasta el grado de licenciatura, otros servicios como exámenes, cursos, certificados, credenciales, cartas de pasantía, titulación y constancias, se otorgarán de acuerdo a la disponibilidad presupuestal del Estado.
+
 ###### ARTÍCULO PRIMERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
@@ -3508,22 +3538,6 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constituci
 ###### ARTÍCULO SEGUNDO.
 
 Remítase a los ayuntamientos del Estado, el Decreto, para que, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibido, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
-
-###### ARTÍCULO TERCERO.
-
-Las obligaciones derivadas del presente Decreto, serán cumplidas de manera gradual progresiva, inicialmente la gratuidad implicará el pago de inscripción en las instituciones públicas de media superior y superior hasta el grado de licenciatura, otros servicios como exámenes, cursos, certificados, credenciales, cartas de pasantía, titulación y constancias, se otorgarán de acuerdo a la disponibilidad presupuestal del Estado.
-
-###### ARTÍCULO CUARTO.
-
-Se derogan todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
-
-###### ARTÍCULO QUINTO.
-
-Dese cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo. Para los efectos legales correspondientes.
-
-P.O. 14 DE OCTUBRE DE 2010.
-
-DECRETO NÚMERO 220, POR EL QUE SE REFORMAN LOS ARTÍCULOS 39 Y 44 FRACCIÓN XXVIII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3536,6 +3550,22 @@ Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para qu
 P.O. 14 DE OCTUBRE DE 2010.
 
 DECRETO NÚMERO 224, POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA SECCIÓN III DEL TÍTULO TERCERO A, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
+
+###### ARTÍCULO TERCERO.
+
+Aprobado por la mayoría de los ayuntamientos, el presente Decreto entrará en vigor a los noventa días hábiles siguientes de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Dese cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo. Para los efectos legales correspondientes.
+
+P.O. 14 DE OCTUBRE DE 2010.
+
+DECRETO NÚMERO 220, POR EL QUE SE REFORMAN LOS ARTÍCULOS 39 Y 44 FRACCIÓN XXVIII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3557,18 +3587,6 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constituci
 
 Remítase a los ayuntamientos del Estado, el presente Decreto, para que, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado el resultado de su votación.
 
-###### ARTÍCULO TERCERO.
-
-Aprobado por la mayoría de los ayuntamientos, el presente Decreto entrará en vigor a los noventa días hábiles siguientes de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO CUARTO.
-
-El Congreso del Estado deberá aprobar las reformas necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, a más tardar en un plazo de noventa días, contados a partir de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 1 DE MARZO DE 2011.
-
-DECRETO NÚMERO 263, POR EL QUE SE REFORMAN LOS ARTÍCULOS 44 FRACCIÓN XXVI, 104, 105, 106, 107, 108, 109 Y 110 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
 ###### ARTÍCULO PRIMERO.
 
 Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, dentro del término de un mes, después de su notificación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
@@ -3583,9 +3601,11 @@ El Presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO CUARTO.
 
-Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones constitucionales y legales vigentes, hasta su total conclusión.
+El Congreso del Estado deberá aprobar las reformas necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, a más tardar en un plazo de noventa días, contados a partir de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-P.O. 22 DE JULIO DE 2011.
+P.O. 1 DE MARZO DE 2011.
+
+DECRETO NÚMERO 263, POR EL QUE SE REFORMAN LOS ARTÍCULOS 44 FRACCIÓN XXVI, 104, 105, 106, 107, 108, 109 Y 110 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3601,6 +3621,12 @@ El nuevo sistema de reinserción social previsto en el párrafo segundo del art�
 
 P.O. 22 DE SEPTIEMBRE DE 2011.
 
+###### ARTÍCULO CUARTO.
+
+Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones constitucionales y legales vigentes, hasta su total conclusión.
+
+P.O. 22 DE JULIO DE 2011.
+
 ###### ARTÍCULO PRIMERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
@@ -3611,6 +3637,10 @@ Remítase a los ayuntamientos del Estado, el presente Decreto, para que, en los 
 
 P.O. 5 DE DICIEMBRE DE 2011.
 
+###### ARTÍCULO TERCERO.
+
+En cumplimiento a lo establecido en el párrafo sexto del artículo 98 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, relativo a la renovación escalonada de los consejeros del Instituto Electoral de Michoacán, los nuevos consejeros serán nombrados a partir de la conclusión del proceso electoral del año 2011, por lo que los actuales consejeros electorales continuarán en sus funciones, sin que ello implique ratificación en el cargo. La elección de los nuevos consejeros se realizará de la siguiente manera: dos, para un proceso electoral y los tres restantes, para dos procesos electorales. Al concluir éstos su período, quienes los sustituyan, en todos los casos, serán electos por seis años.
+
 ###### ARTÍCULO PRIMERO.
 
 Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, dentro del término de un mes, después de su notificación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
@@ -3618,20 +3648,6 @@ Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el 
 ###### ARTÍCULO SEGUNDO.
 
 Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, así como su entrada en vigor al día siguiente.
-
-###### ARTÍCULO TERCERO.
-
-En cumplimiento a lo establecido en el párrafo sexto del artículo 98 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, relativo a la renovación escalonada de los consejeros del Instituto Electoral de Michoacán, los nuevos consejeros serán nombrados a partir de la conclusión del proceso electoral del año 2011, por lo que los actuales consejeros electorales continuarán en sus funciones, sin que ello implique ratificación en el cargo. La elección de los nuevos consejeros se realizará de la siguiente manera: dos, para un proceso electoral y los tres restantes, para dos procesos electorales. Al concluir éstos su período, quienes los sustituyan, en todos los casos, serán electos por seis años.
-
-###### ARTÍCULO CUARTO.
-
-En cumplimiento a lo establecido en el artículo 98-A de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, relativo a la renovación escalonada de los Magistrados del Tribunal Electoral del Estado de Michoacán, la elección de los nuevos magistrados se realizará de la siguiente manera: dos, para un proceso electoral y los tres restantes, para dos procesos electorales. Al concluir éstos su período, quienes los sustituyan, en todos los casos, serán electos por seis años.
-
-###### ARTÍCULO QUINTO.
-
-Se derogan los decretos legislativos 174, 175, 176, 177 y 178, emitidos por la Septuagésima Legislatura del Estado de Michoacán en el año 2007 dos mil siete por el que se nombraron a los actuales consejeros del Instituto Electoral de Michoacán.
-
-P.O. 13 DE ENERO DE 2012.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3649,14 +3665,6 @@ P.O. 16 DE MARZO DE 2012.
 
 DECRETO NÚMERO 391, POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTICULO 2°; SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO, Y SE ADICIONA UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFO CON XXI FRACCIONES, Y UN OCTAVO PÁRRAFO FINAL AL ARTICULO 3°; SE ADICIONAN LAS FRACCIONES X Y XI Y SE RECORRE EN SU ORDEN LA FRACCIÓN X DEL ARTICULO 72; SE ADICIONA UN PÁRRAFO CUARTO AL ARTICULO 94; SE ADICIONA UN TERCER PÁRRAFO AL ARTICULO 103; SE ADICIONA UN TERCER PÁRRAFO, RECORRIENDO EL ANTERIOR PARA QUE SEA EL CUARTO PÁRRAFO EN EL ARTICULO 114; SE REFORMA EL INCISO C) DEL SEGUNDO PÁRRAFO, SE HACE LA ADICIÓN DE UN INCISO D) Y SE REFORMA EL TERCER PÁRRAFO DEL ARTICULO 139 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase a los ayuntamientos del Estado, el presente Decreto, para que, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado el resultado de su votación.
-
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado expedirá la Ley de la materia.
@@ -3664,6 +3672,24 @@ El Congreso del Estado expedirá la Ley de la materia.
 P.O. 16 DE MARZO DE 2012.
 
 DECRETO NÚMERO 420, POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 164 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
+
+###### ARTÍCULO CUARTO.
+
+En cumplimiento a lo establecido en el artículo 98-A de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, relativo a la renovación escalonada de los Magistrados del Tribunal Electoral del Estado de Michoacán, la elección de los nuevos magistrados se realizará de la siguiente manera: dos, para un proceso electoral y los tres restantes, para dos procesos electorales. Al concluir éstos su período, quienes los sustituyan, en todos los casos, serán electos por seis años.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan los decretos legislativos 174, 175, 176, 177 y 178, emitidos por la Septuagésima Legislatura del Estado de Michoacán en el año 2007 dos mil siete por el que se nombraron a los actuales consejeros del Instituto Electoral de Michoacán.
+
+P.O. 13 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase a los ayuntamientos del Estado, el presente Decreto, para que, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado el resultado de su votación.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3679,10 +3705,6 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 P.O. 28 DE ENERO DE 2013.
 
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
 ###### ARTÍCULO SEGUNDO.
 
 Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
@@ -3691,11 +3713,9 @@ Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notif
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
 
-###### ARTÍCULO CUARTO.
+###### ARTÍCULO PRIMERO.
 
-El Congreso del Estado deberá aprobar las reformas necesarias en las leyes secundarias relacionadas con la materia del presente, para dar cumplimiento a esta reforma constitucional, a más tardar en un plazo de noventa días, contados a partir de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 25 DE JUNIO DE 2013.
+Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3708,6 +3728,76 @@ Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notif
 ###### ARTÍCULO TERCERO.
 
 Los artículos 57, 61, 63, 123, 131, 132, 159 y 160, en lo que ve a la nueva denominación y atribuciones de la Secretaría de Finanzas, entrarán en vigor al momento en que inicie la vigencia de la normatividad que la regule.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado deberá aprobar las reformas necesarias en las leyes secundarias relacionadas con la materia del presente, para dar cumplimiento a esta reforma constitucional, a más tardar en un plazo de noventa días, contados a partir de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los Ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 25 DE JUNIO DE 2014.
+
+PRIMERO. Remítase a los Ayuntamientos del Estado, la Minuta con Proyecto de Decreto para que, en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Transcurrido el mes concedido a los ayuntamientos, se dará cuenta al Pleno el resultado de su votación, para efectuar la declaratoria correspondiente.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 30 DE JUNIO DE 2014)</small>
+
+CUARTO. En relación con la salvedad dispuesta para los artículos 20 párrafo primero, 29, 31 párrafo primero, 33, 51, 54, 112 párrafo segundo y 117, señalados en el PRIMERO, del ARTÍCULO PRIMERO del Decreto Legislativo número 127 aprobado por la Septuagésima Legislatura del Congreso del Estado de Michoacán de Ocampo con fecha 25 de enero de 2007 y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo con fecha 09 de febrero de 2007, correspondiente a su entrada en vigor; queda sin efectos, para ser ahora, al día siguiente de la publicación del presente decreto. Lo anterior, con excepción del artículo 60 fracción X, que mantendrá como fecha de entrada en vigor, la de primero de enero del año dos mil quince.
+
+QUINTO. La celebración de las próximas elecciones, una vez que haya entrado en vigor el presente Decreto conforme al artículo transitorio precedente, será en los términos de esta Constitución, salvo aquellas que se verifiquen en el año 2018, las cuales se llevarán a cabo el primer domingo del mes de julio.
+
+SEXTO. La presente reforma, por lo que ve a la reelección, no será aplicable a los Legisladores, Presidentes Municipales, Síndicos y Regidores, que hayan protestado el cargo en la Legislatura o Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+PRIMERO. Remítase la Minuta con Proyecto de Decreto a los Ayuntamientos del Estado, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE JULIO DE 2015.
+
+Primero. Por única ocasión los Ayuntamientos actuales, y los Concejos Municipales, realizarán el último informe de su periodo dentro de la segunda quincena del mes de agosto de 2015, fecha en la que concluye su periodo constitucional.
+
+Segundo. Por única ocasión el Gobernador y los Diputados al Congreso del Estado, miembros de la LXXII legislatura realizarán su último informe dentro del período comprendido por la segunda quincena del mes de agosto y la primera semana de septiembre de 2015, mes en el que concluye el periodo constitucional.
+
+Tercero. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Cuarto. El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+PRIMERO. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos 8°, 44 fracción XXIII-B, 97 y 123 primer párrafo de la fracción III; así como la denominación de la Sección III del Título Tercero A; entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+SEGUNDO. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos 44 fracciones X, X-C, XI párrafo tercero, XXIII-C, XXVI, XXXVIII y XXXIX, 60 fracción VIII, 67 párrafo segundo, 94 bis, 95, 100, 104, 105, 106, 107, 108 párrafos primero y segundo, 109, 109 bis, 109 ter, 110 párrafos segundo y tercero, 133 párrafos primero, segundo, tercero y cuarto; 134 fracciones IV, V, VII y X párrafo segundo, así como la denominación del Título Cuarto, entrarán en vigor en la misma fecha en que lo hagan las leyes generales a que se refiere el Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de combate a la corrupción, publicado el 27 de junio de 2015 en el Diario Oficial de la Federación, en tanto, continuará aplicándose la legislación en materia de responsabilidades de los servidores públicos, así como de fiscalización y control de recursos públicos, en el ámbito estatal y municipal, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
+
+TERCERO. Los Consejeros que actualmente conforman el Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán (ITAIMICH), formarán parte del nuevo organismo Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, únicamente por el tiempo que reste al nombramiento del que fueron objeto en el Instituto que se extingue.
+
+CUARTO. El Congreso del Estado en un término no mayor a 60 días naturales a partir de la publicación del presente Decreto, deberá expedir las modificaciones necesarias a la legislación relacionada; en tanto, el organismo garante que establece esta Constitución ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la vigente Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo.
+
+QUINTO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto se sustanciarán de conformidad con la Ley aplicable al momento de su inicio.
+
+SEXTO. Una vez constituido el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, serán transferidos a éste, los recursos humanos, financieros y materiales, adscritos al Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán (ITAIMICH), en los términos que dispongan las leyes.
+
+SÉPTIMO. El Congreso del Estado deberá realizar las modificaciones al Presupuesto y los ordenamientos que regulan la estructura y el funcionamiento del Tribunal de Justicia Administrativa a más tardar dentro de los 90 días naturales posteriores a la entrada en vigor de las disposiciones a que se refiere el artículo segundo transitorio del presente Decreto, así como llevar a cabo el procedimiento para la elección de los dos nuevos Magistrados.
+
+OCTAVO. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 24 DE OCTUBRE DE 2016.
 
 ###### ARTÍCULO CUARTO.
 
@@ -3776,14 +3866,6 @@ SEXTO. Una vez constituido el Instituto Michoacano de Transparencia, Acceso a la
 SÉPTIMO. El Congreso del Estado deberá realizar las modificaciones al Presupuesto y los ordenamientos que regulan la estructura y el funcionamiento del Tribunal de Justicia Administrativa a más tardar dentro de los 90 días naturales posteriores a la entrada en vigor de las disposiciones a que se refiere el artículo segundo transitorio del presente Decreto, así como llevar a cabo el procedimiento para la elección de los dos nuevos Magistrados.
 
 OCTAVO. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 24 DE OCTUBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 153 POR EL QUE “SE REFORMA EL ARTÍCULO 94 PÁRRAFO SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase la Minuta con Proyecto de Decreto a los Ayuntamientos del Estado, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 P.O. 24 DE OCTUBRE DE 2016.
 
@@ -3874,3 +3956,19 @@ TERCERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como
 CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva.
 
 QUINTO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 13 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 631 POR EL QUE "SE REFORMAN LAS FRACCIONES XVIII, XXXVI, XXXVII, XVIII, XXXIX Y SE ADICIONA LA FRACCIÓN XL AL ARTÍCULO 44, SE REFORMA LA FRACCIÓN II INCISO C) DEL ARTÍCULO 50, SE DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN X, SE MODIFICA LA FRACCIÓN XVI Y SE DEROGA LA FRACCIÓN XVII DEL ARTÍCULO 60, SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 76, LOS ARTÍCULOS 99, 100, 101, 102 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 154, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Remítase a los Ayuntamientos del Estado y al Concejo Municipal de Cherán, Michoacán, la Minuta con proyecto de Decreto para que, en el término de hasta 30 treinta días después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El Congreso del Estado contará con un plazo de ciento ochenta días para expedir la Ley Orgánica de la Fiscalía General del Estado de Michoacán de Ocampo.
+
+CUARTO. A partir de la entrada en vigor del Decreto que contenga la Ley Orgánica de la Fiscalía General del Estado de Michoacán de Ocampo, a que se refiere el artículo anterior, los recursos humanos, presupuestales, financieros, materiales y de operatividad de la Procuraduría General de Justicia del Estado pasarán a la Fiscalía General del Estado.
+
+QUINTO. El Congreso del Estado, por única ocasión a través de las Comisiones de Justicia y de Gobernación, emitirá convocatoria pública para llevar acabo el procedimiento de elección del Fiscal General del Estado a que se refiere el artículo 102 del presente Decreto, en un término no mayor a sesenta días siguientes al de su publicación.
+
+SEXTO. El Procurador General de Justicia del Estado que se encuentre en funciones al momento de la promulgación de la presente reforma, continuará en su encargo hasta en tanto el Congreso del Estado designe al Fiscal General del Estado.
