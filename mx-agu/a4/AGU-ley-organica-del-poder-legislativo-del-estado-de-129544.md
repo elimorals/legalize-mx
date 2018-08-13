@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2018-07-09"
+last_updated: "2018-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2018 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE AGOSTO DE 2018.]</small>
 
 Ley publicada en la Primera Sección al Número 28 del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de Julio de 2018.
 
@@ -287,7 +287,9 @@ V. Visitar los centros de población tanto dentro de su Distrito Electoral como 
 
 VI. Cumplir oportuna y eficazmente con las labores, comisiones y asuntos que se les encomienden;
 
-VII. Solicitar permiso a la Presidencia de la Mesa Directiva, Comisión, Consejo o Comité, según sea el caso, para faltar a la sesión. La solicitud deberá realizarse por escrito cuando sea para faltar más de una vez;
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
+
+VII. Solicitar permiso a la Presidencia de la Mesa Directiva, Comisión, Consejo o Comité, según sea el caso, para faltar a la sesión;
 
 VIII. Dar aviso a la Presidencia en los casos en que por cualquier motivo grave no pudieren cumplir sus obligaciones, a efecto de que el Pleno califique la causa y disculpe los incumplimientos;
 
@@ -1353,9 +1355,11 @@ En caso de empate el Presidente tendrá voto de calidad.
 
 ### CAPÍTULO IX. LA MESA DIRECTIVA DE LA DIPUTACIÓN PERMANENTE
 
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 99.
 
-La Mesa Directiva de la Diputación Permanente será electa para cada uno de los períodos de receso, y su elección y funcionamiento se regirá por lo establecido en la presente Ley y el Reglamento.
+La Mesa Directiva de la Diputación Permanente será electa para cada uno de los períodos de receso, su elección y funcionamiento se regirá por lo establecido en la presente Ley y el Reglamento.
 
 ### CAPÍTULO X. EL ÓRGANO SUPERIOR DE FISCALIZACIÓN
 
@@ -1367,13 +1371,21 @@ La revisión de las cuentas públicas, está a cargo del Congreso del Estado, el
 
 La organización y funcionamiento del Órgano Superior de Fiscalización estarán reguladas por la Ley de Fiscalización Superior del Estado de Aguascalientes y su reglamento.
 
+> <small>(F. DE E. [N. DE E. REPUBLICADO], P.O. 13 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 102.
 
 El control y supervisión del Órgano Superior de Fiscalización estará a cargo de la Comisión de Vigilancia, en términos de la Ley de Fiscalización Superior del Estado de Aguascalientes y el reglamento de la Unidad.
 
-## TÍTULO QUINTO (SIC). LOS PROCEDIMIENTOS ESPECIALES
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
 
-### CAPÍTULO II (SIC). LAS INICIATIVAS
+## TÍTULO CUARTO. EL PROCESO LEGISLATIVO
+
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO I. Las Disposiciones Generales del Proceso Legislativo
+
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 103.
 
@@ -1417,7 +1429,7 @@ XI. Constancia del Periódico Oficial respectivo.
 
 Toda persona tiene derecho a solicitar constancias del proceso legislativo, en versión escrita o grabada, siendo a su cargo los gastos que origine la expedición de lo solicitado.
 
-### CAPÍTULO III. LOS DICTÁMENES
+### CAPÍTULO II. LAS INICIATIVAS
 
 ###### ARTÍCULO 108.
 
@@ -1489,7 +1501,9 @@ Las iniciativas que por su extensión requieran varias horas para su lectura, se
 
 Podrá dispensarse la lectura integral de una iniciativa, cuando así lo decida el Pleno por mayoría relativa, siempre y cuando previamente se haya remitido por escrito o mediante correo electrónico un ejemplar de la misma a cada uno de los Diputados, asimismo, podrá acordarse que se lea una síntesis de la misma.
 
-Cuando la iniciativa sea presentada en el período de receso del Congreso del Estado, será leída por los Secretarios de la Mesa Directiva de la Diputación Permanente. La iniciativa será comunicada a todos los Diputados, en términos del Artículo 128 de esta Ley. Por acuerdo de la Mesa Directiva, se podrá dispensar la lectura de la iniciativa. En todo caso, se dará lectura a una síntesis de la misma.
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
+
+Cuando la iniciativa sea presentada en el período de receso del Congreso del Estado, será leída por los Secretarios de la Mesa Directiva de la Diputación Permanente. La iniciativa será comunicada a todos los Diputados, y por acuerdo de la Mesa Directiva, se podrá dispensar la lectura de la iniciativa. En todo caso, se dará lectura a una síntesis de la misma.
 
 ###### ARTÍCULO 114.
 
@@ -1527,7 +1541,7 @@ Cuando la materia de una iniciativa corresponda total o parcialmente a la compet
 
 Las demás promociones presentadas por los Titulares de los Poderes Ejecutivo y Judicial o por los Ayuntamientos, de asuntos sobre los que el Congreso del Estado tiene facultad de conocer y emitir resolución, conforme al Artículo 27 de la Constitución del Estado, seguirán el mismo trámite que las iniciativas de leyes.
 
-### CAPÍTULO IV. LAS DELIBERACIONES Y VOTACIONES
+### CAPÍTULO III. LOS DICTÁMENES
 
 ###### ARTÍCULO 123.
 
@@ -1545,7 +1559,7 @@ Ninguna iniciativa podrá dejar de dictaminarse en el período ordinario de sesi
 
 Entregado un Dictamen a la Mesa Directiva en turno, será programado para su discusión en la sesión inmediata siguiente.
 
-### CAPÍTULO V. LAS RESOLUCIONES
+### CAPÍTULO IV. LAS DELIBERACIONES Y VOTACIONES
 
 ###### ARTÍCULO 127.
 
@@ -1573,7 +1587,7 @@ IV. Unanimidad, la votación total en el mismo sentido de los Diputados presente
 
 Par la aprobación en las votaciones de las comisiones, consejos y comités serán aplicables los mismos términos en cuanto al número de votos, a que hace referencia el Artículo anterior; así como en el caso de la Junta de Coordinación Política y de la Diputación permanente, considerando para tal efecto a los integrantes con voto.
 
-### CAPÍTULO I. EL COLEGIO ELECTORAL
+### CAPÍTULO V. LAS RESOLUCIONES
 
 ###### ARTÍCULO 131.
 
@@ -1603,15 +1617,15 @@ Todos los documentos que expida el Congreso del Estado y las versiones electrón
 
 Queda prohibido que la papelería del Congreso del Estado y en toda impresión, publicación o representación que para efectos visuales se refiera al mismo, se haga uso de colores o de su combinación, que de cualquier manera impliquen referencia o similitud con los colores de identificación de los partidos políticos.
 
-## TÍTULO SEXTO. LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS ACTOS DEL CONGRESO DEL ESTADO
+## TÍTULO QUINTO (SIC). LOS PROCEDIMIENTOS ESPECIALES
 
-### CAPÍTULO II. LA SUBSTANCIACIÓN PARA LA CREACIÓN Y DELIMITACIÓN TERRITORIAL DE MUNICIPIOS Y LÍMITES INTERESTATALES
+### CAPÍTULO I. EL COLEGIO ELECTORAL
 
 ###### ARTÍCULO 138.
 
 El Congreso del Estado, previa declaratoria, se erigirá en Colegio Electoral a efecto de nombrar Gobernador Interino o Substituto, así como para convocar a elecciones, de conformidad con lo establecido en la Constitución del Estado.
 
-### CAPÍTULO III. LOS CONVENIOS SOBRE LÍMITES INTERESTATALES
+### CAPÍTULO II. LA SUBSTANCIACIÓN PARA LA CREACIÓN Y DELIMITACIÓN TERRITORIAL DE MUNICIPIOS Y LÍMITES INTERESTATALES
 
 ###### ARTÍCULO 139.
 
@@ -1655,7 +1669,7 @@ VI. Terminado el desahogo de pruebas deberá emitirse el Dictamen respectivo, pa
 
 VII. Para la admisión y valoración de las pruebas, se aplicará en lo conducente de manera supletoria, lo establecido por el Código de Procedimientos Civiles, así como la Ley del Procedimiento Administrativo del Estado.
 
-### CAPÍTULO IV. LAS REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO
+### CAPÍTULO III. LOS CONVENIOS SOBRE LÍMITES INTERESTATALES
 
 ###### ARTÍCULO 142.
 
@@ -1685,7 +1699,7 @@ f) La declaratoria del Estado colindante de otorgar su aprobación al proyecto e
 
 g) El proyecto de demarcación que contendrá la ubicación geográfica de las marcas, mojoneras, señalamientos o elementos físicos constitutivos de la delimitación, así como los términos, modalidades y proyectos para su instalación, edificación o construcción.
 
-### CAPÍTULO V. LA DESIGNACIÓN DE LOS TITULARES DE LOS ÓRGANOS INTERNOS DE CONTROL DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS
+### CAPÍTULO IV. LAS REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### ARTÍCULO 143.
 
@@ -1699,7 +1713,7 @@ II. Cada Ayuntamiento deberá emitir su voto dentro de los quince días hábiles
 
 III. Una vez recibidos los votos aprobatorios de la mayoría absoluta de los Ayuntamientos o transcurrido el plazo respectivo, la Mesa Directiva del Pleno o la Diputación Permanente en su caso, formularán la declaratoria de que la modificación es parte de la Constitución del Estado, y será enviada al Titular del Poder Ejecutivo para su promulgación y publicación.
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+### CAPÍTULO V. LA DESIGNACIÓN DE LOS TITULARES DE LOS ÓRGANOS INTERNOS DE CONTROL DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS
 
 #### Sección Primera. La Naturaleza Constitucional
 
@@ -1755,9 +1769,9 @@ En el ejercicio de sus funciones, dicha instancia deberá garantizar la separaci
 
 Cualquier persona, cuando presuma que los titulares de los Órganos Internos de Control de cualquiera de los organismos constitucionales autónomos, haya incurrido en los supuestos previstos en el Capítulo Décimo Séptimo de la Constitución del Estado, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
 
-## TÍTULO SÉPTIMO. LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA DEL CONGRESO DEL ESTADO
+## TÍTULO SEXTO. LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS ACTOS DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO I. LA SECRETARIA GENERAL
+### CAPÍTULO ÚNICO. Disposiciones Generales
 
 ###### ARTÍCULO 148.
 
@@ -1789,11 +1803,11 @@ Por medio de dicha página se difundirá los formatos y documentos digitales que
 
 No podrá contener dicha página propaganda, publicidad o información comercial ni de proselitismo político.
 
+### CAPÍTULO I. LA SECRETARIA GENERAL
+
+## TÍTULO SÉPTIMO. LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA DEL CONGRESO DEL ESTADO
+
 ### CAPÍTULO II. LOS ÓRGANOS AUXILIARES Y UNIDADES TÉCNICAS DEL CONGRESO
-
-## TÍTULO OCTAVO. LAS SANCIONES
-
-### CAPÍTULO III. EL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
 
 #### Sección Primera. El Secretario General
 
@@ -1879,7 +1893,7 @@ III. Realizar estudios de carácter administrativo y financiero del Congreso; y
 
 IV. Cumplir las demás funciones que le confieren esta ley y los ordenamientos relativos a la actividad administrativa y financiera.
 
-### CAPÍTULO IV. LA ENTREGA Y RECEPCIÓN
+### CAPÍTULO III. EL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
 
 ###### ARTÍCULO 161.
 
@@ -1917,11 +1931,13 @@ IX. Unidad de Transparencia; y
 
 X. Las demás que se establezcan de acuerdo al marco normativo aplicable.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO IV. LA ENTREGA Y RECEPCIÓN
 
 ###### ARTÍCULO 164.
 
 El Reglamento Interior determinará las normas y procedimientos para la conformación de los servicios parlamentarios, administrativos y financieros del Servicio Civil de Carrera del Congreso del Estado.
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 165.
 
@@ -1984,6 +2000,8 @@ Los servidores públicos salientes harán constar por escrito, cuando así proce
 ###### ARTÍCULO 176.
 
 Con el propósito de dar cumplimiento a lo dispuesto por esta Ley, los servidores públicos a que se refiere el Artículo 165 de la presente Ley, deberán mantener permanentemente actualizados sus registros, controles y demás documentación relativa a sus despachos, a fin de hacer posible la entrega oportuna y debida de los mismos.
+
+## TÍTULO OCTAVO. LAS SANCIONES
 
 ###### ARTÍCULO 177.
 
