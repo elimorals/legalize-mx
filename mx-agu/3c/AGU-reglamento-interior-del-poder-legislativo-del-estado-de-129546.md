@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-poder-legislativo-del-estado-de-129546"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-07-09"
-last_updated: "2018-07-09"
+last_updated: "2018-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2018 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE AGOSTO DE 2018.]
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -1225,7 +1225,9 @@ VI. El acervo Bibliográfico se subdividirá por tipo, origen y tema;
 
 VII. Los Periódicos y Diarios Oficiales se ordenarán por número y fecha; y
 
-VIII. Se establecerá un registro numérico progresivo, de todos y cada uno de los Decretos y resoluciones que emita el Congreso, por Legislatura, debiéndose mantener el número asignado en términos de lo dispuesto por el Artículo 141 de la Ley, aún en el caso de que la resolución sea revocada o abrogada, derogada o reformada. Registro que deberá incluirse en todos y cada uno de los actos de publicación que se realice en el Congreso sobre tales resoluciones.
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
+
+VIII. Se establecerá un registro numérico progresivo, de todos y cada uno de los Decretos y resoluciones que emita el Congreso, por Legislatura, debiéndose mantener el número asignado en términos de lo dispuesto por el Artículo 133 de la Ley, aún en el caso de que la resolución sea revocada o abrogada, derogada o reformada. Registro que deberá incluirse en todos y cada uno de los actos de publicación que se realice en el Congreso sobre tales resoluciones.
 
 De todo lo previsto en las fracciones anteriores, se deberán generar fichas de archivo, en documento escrito y magnético, las cuales serán de fácil acceso y contendrán la totalidad del acervo y su descripción por cada uno de los cinco rubros citados, estableciéndose su organización bajo el sistema de la Norma Internacional General de Descripción Archivística denominada ISAD-G.
 
