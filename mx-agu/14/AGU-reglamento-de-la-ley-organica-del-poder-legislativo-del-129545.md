@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-129545"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-07-09"
-last_updated: "2018-07-09"
+last_updated: "2018-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL CATORCE DE SEPTIEMBRE DE DOS MIL DIECIOCHO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2018 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE AGOSTO DE 2018.]</small>
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -899,7 +899,9 @@ Si las ausencias del Presidente fueren mayores a dos sesiones en períodos de se
 
 En el caso de otras ausencias de miembros de la Mesa Directiva, el Pleno del Congreso del Estado, decidirá por mayoría relativa, la forma de suplirlas.
 
-Para determinar las suplencias de la Mesa Directiva de la Diputación Permanente, se estará a lo dispuesto por el Artículo 141, párrafo segundo de este Reglamento.
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
+
+Para determinar las suplencias de la Mesa Directiva de la Diputación Permanente, se estará a lo dispuesto por el Artículo 121, párrafo segundo de este Reglamento.
 
 ###### ARTÍCULO 94.
 
@@ -1431,7 +1433,9 @@ Los punto (sic) de acuerdo se sujetarán a lo siguiente:
 
 I. Deberán presentarse a través de un escrito fundado, con una propuesta clara de resolutivo y firmadas por sus autores;
 
-II. Los puntos de acuerdo se tramitarán en los términos que establece el Artículo 154 Fracción II del presente Reglamento y demás disposiciones aplicables; salvo que el punto de acuerdo tenga el carácter de urgente u obvia resolución;
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
+
+II. Los puntos de acuerdo se tramitarán en los términos que establece el Artículo 153 Fracción II del presente Reglamento y demás disposiciones aplicables; salvo que el punto de acuerdo tenga el carácter de urgente u obvia resolución;
 
 III. Para que un punto de acuerdo sea considerado como de urgente u obvia resolución, deberá ser señalado en su escrito de presentación, que reviste ese carácter, y posteriormente ser aprobado por mayoría relativa del Pleno dicho carácter;
 
@@ -1803,7 +1807,9 @@ Para la sesión de instalación de la Legislatura, los Diputados electos se reun
 
 La sesión solemne se desarrollará en los siguientes términos:
 
-I. Al inicio de la sesión, los Diputados electos ocuparán su lugar en el Recinto Oficial sin preferencia alguna;
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
+
+I. Al inicio de la sesión, los Diputados electos ocuparán su lugar asignado en términos del presente Reglamento, en el Recinto Oficial;
 
 II. El Presidente de la Mesa Directiva designará a la Comisión de Cortesía que acompañarán a los titulares de los Poderes Ejecutivo y Judicial del Estado a ingresar al Recinto Oficial del Poder Legislativo; para tal efecto declarará un receso para que la Comisión de Cortesía cumpla con su función;
 
@@ -1811,13 +1817,13 @@ III. Reanudados los trabajos de la sesión, se verificará el quórum de ley;
 
 IV. Puestos de pie, se realizará la toma de protesta de ley del Presidente, quien la rendirá bajo los siguientes términos:
 
-“PROTESTO SIN RESERVA ALGUNA CUMPLIR Y HACER CUMPLIR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO DE AGUASCALIENTES, LAS LEYES QUE DE AMBAS EMANEN Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO, Y SI ASÍ NO LO HICIERE, QUE EL ESTADO ME LO DEMANDE''.
+"PROTESTO SIN RESERVA ALGUNA CUMPLIR Y HACER CUMPLIR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO DE AGUASCALIENTES, LAS LEYES QUE DE AMBAS EMANEN Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO, Y SI ASÍ NO LO HICIERE, QUE EL ESTADO ME LO DEMANDE''.
 
 V. Continuando de pie, se llevará a cabo la toma de protesta de ley de los Diputados electos, por parte del Presidente, en los siguientes términos:
 
 ''CIUDADANAS DIPUTADAS, SEÑORES LEGISLADORES QUE INTEGRAN LA (NÚMERO ORDINAL QUE CORRESPONDA) LEGISLATURA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES, ¿PROTESTAN USTEDES SIN RESERVA ALGUNA, CUMPLIR Y HACER CUMPLIR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO DE AGUASCALIENTES, LAS LEYES QUE DE AMBAS EMANEN Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO LES HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO?''
 
-''SÍ PROTESTO”, -Contestarán los Diputados-
+''SÍ PROTESTO", - Contestarán los Diputados-
 
 Dirá entonces el Presidente:
 
@@ -1825,9 +1831,9 @@ Dirá entonces el Presidente:
 
 VI. Continuando de pie, se llevará a cabo la toma de protesta de ley, de los Diputados integrantes de la Mesa Directiva previamente electa, bajo los siguientes términos:
 
-“CIUDADANOS DIPUTADOS: ¿PROTESTAN DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO QUE SE LES HA CONFERIDO MIRANDO EN TODO MOMENTO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO?”
+"CIUDADANOS DIPUTADOS: ¿PROTESTAN DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO QUE SE LES HA CONFERIDO MIRANDO EN TODO MOMENTO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO?"
 
-“SÍ PROTESTO”, -Contestarán los Diputados-
+"SÍ PROTESTO", - Contestarán los Diputados-
 
 Dirá entonces el Presidente:
 
@@ -1841,13 +1847,19 @@ VIII. Acto continuo y puestos de pie, el Presidente de la Legislatura entrante h
 
 ''HOY QUINCE DE SEPTIEMBRE DEL (AÑO), SE DECLARA LEGITIMA, LEGAL Y SOLEMNEMENTE INSTALADA LA HONORABLE (NÚMERO) LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE AGUASCALIENTES''.
 
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
+
+IX. Honores a la Bandera y Entonación del Himno Nacional;
+
 En seguida, se procederá al abanderamiento de la Legislatura del Congreso del Estado; para tal efecto, el Presidente designará a los Diputados que recibirán la Bandera Nacional de manos del Gobernador del Estado. El abanderamiento se realizará en los términos de la Ley sobre el Escudo, la Bandera y el Himno Nacionales; al término del acto solemne, el Presidente invitará a los Diputados, a las autoridades presentes y al público en general, a tomar sus respectivos asientos;
 
-IX. El Presidente hará uso de la palabra para dirigir un mensaje a la ciudadanía a nombre de la Legislatura recién instalada;
+X. El Presidente hará uso de la palabra para dirigir un mensaje a la ciudadanía a nombre de la Legislatura recién instalada;
 
-X. Se entonará el Himno Nacional Mexicano;
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
 
-XI. El Presidente citará a la primera sesión ordinaria;
+XI. Entonación del Himno del Estado de Aguascalientes;
+
+XI (SIC). El Presidente citará a la primera sesión ordinaria;
 
 XII. Clausura de los trabajos correspondientes a la Instalación de la Legislatura y de la Apertura del Primer Período Ordinario de Sesiones;
 
@@ -1899,15 +1911,15 @@ V. Honores a la Bandera y entonación del Himno Nacional;
 
 VI. Puestos de pie, se realizará la toma de protesta de ley del Presidente, quien la rendirá bajo los siguientes términos:
 
-“PROTESTO DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE PRESIDENTE DE LA MESA DIRECTIVA DE LA HONORABLE (NÚMERO ORDINAL QUE CORRESPONDA) LEGISLATURA DEL ESTADO DE AGUASCALIENTES, PARA EL (PRIMER O SEGUNDO) PERÍODO ORDINARIO DE SESIONES, CORRESPONDIENTE AL (PRIMER, SEGUNDO O TERCER) AÑO DE EJERCICIO CONSTITUCIONAL, MIRANDO EN TODO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO”.
+"PROTESTO DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE PRESIDENTE DE LA MESA DIRECTIVA DE LA HONORABLE (NÚMERO ORDINAL QUE CORRESPONDA) LEGISLATURA DEL ESTADO DE AGUASCALIENTES, PARA EL (PRIMER O SEGUNDO) PERÍODO ORDINARIO DE SESIONES, CORRESPONDIENTE AL (PRIMER, SEGUNDO O TERCER) AÑO DE EJERCICIO CONSTITUCIONAL, MIRANDO EN TODO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO".
 
-''SI ASÍ NO LO HICIERE, QUE EL ESTADO ME LO DEMANDE”.
+''SI ASÍ NO LO HICIERE, QUE EL ESTADO ME LO DEMANDE".
 
 VII. Continuando de pie, se llevará a cabo la toma de protesta de ley de los integrantes de la Mesa Directiva electos, por parte del Presidente, bajo los siguientes términos:
 
-“¿PROTESTAN DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO QUE SE LES HA CONFERIDO MIRANDO EN TODO MOMENTO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO?”
+"¿PROTESTAN DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO QUE SE LES HA CONFERIDO MIRANDO EN TODO MOMENTO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO?"
 
-''SÍ PROTESTO”, -Contestarán los Diputados-
+''SÍ PROTESTO", - Contestarán los Diputados-
 
 Dirá entonces el Presidente:
 
@@ -1915,7 +1927,9 @@ Dirá entonces el Presidente:
 
 VIII. A continuación, el Presidente de la Mesa Directiva de la Diputación Permanente, declarará clausurados los trabajos de la Diputación Permanente, bajo los siguientes términos:
 
-“EL HONORABLE CONGRESO DEL ESTADO, CONFORME A LO DISPUESTO POR EL ARTÍCULO 40, FRACCIÓN XXIV DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES, POR CONDUCTO DE ESTA PRESIDENCIA, TIENE A BIEN DECLARAR CLAUSURADOS LOS TRABAJOS DE LA DIPUTACIÓN PERMANENTE PARA EL (PRIMER O SEGUNDO) PERÍODO DE RECESO DEL (PRIMER, SEGUNDO O TERCER) AÑO DE EJERCICIO CONSTITUCIONAL”.
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
+
+"EL HONORABLE CONGRESO DEL ESTADO, CONFORME A LO DISPUESTO POR EL ARTÍCULO 33, FRACCIÓN XXIV DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES, POR CONDUCTO DE ESTA PRESIDENCIA, TIENE A BIEN DECLARAR CLAUSURADOS LOS TRABAJOS DE LA DIPUTACIÓN PERMANENTE PARA EL (PRIMER O SEGUNDO) PERÍODO DE RECESO DEL (PRIMER, SEGUNDO O TERCER) AÑO DE EJERCICIO CONSTITUCIONAL".
 
 Culminado el acto solemne de referencia, los integrantes de la Mesa Directiva electa, entrarán en funciones y ocuparán los lugares que les corresponden;
 
@@ -1977,9 +1991,9 @@ VII. Intervención de un representante de cada Fuerza Política, para que dirija
 
 VIII. Protesta de ley de los integrantes de la Mesa Directiva de la Diputación Permanente, la cual se realizará bajo los siguientes términos:
 
-“¿PROTESTAN DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO QUE SE LES HA CONFERIDO MIRANDO EN TODO MOMENTO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO?”
+"¿PROTESTAN DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO QUE SE LES HA CONFERIDO MIRANDO EN TODO MOMENTO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO?"
 
-''SÍ PROTESTO”, -Contestarán los Diputados-
+''SÍ PROTESTO", - Contestarán los Diputados-
 
 Dirá entonces el Presidente:
 
@@ -1993,7 +2007,9 @@ X. Entonación del Himno del Estado de Aguascalientes;
 
 XI. Una vez que los Diputados que integran la Diputación Permanente, ocupen sus respectivos lugares, el Presidente de la Mesa Directiva, llevará a cabo la Declaratoria de Apertura del período de receso correspondiente, bajo los siguientes términos:
 
-“EL HONORABLE CONGRESO DEL ESTADO, CONFORME A LO DISPUESTO POR EL ARTÍCULO 40, FRACCIÓN XXIV DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES, POR CONDUCTO DE ESTA PRESIDENCIA, TIENE A BIEN DECLARAR LA APERTURA OFICIAL DE LOS TRABAJOS DE LA DIPUTACIÓN PERMANENTE PARA EL (PRIMER O SEGUNDO) PERÍODO DE RECESO DEL (PRIMER, SEGUNDO O TERCER) AÑO DE EJERCICIO CONSTITUCIONAL”.
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2018)</small>
+
+"EL HONORABLE CONGRESO DEL ESTADO, CONFORME A LO DISPUESTO POR EL ARTÍCULO 33, FRACCIÓN XXIV DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES, POR CONDUCTO DE ESTA PRESIDENCIA, TIENE A BIEN DECLARAR LA APERTURA OFICIAL DE LOS TRABAJOS DE LA DIPUTACIÓN PERMANENTE PARA EL (PRIMER O SEGUNDO) PERÍODO DE RECESO DEL (PRIMER, SEGUNDO O TERCER) AÑO DE EJERCICIO CONSTITUCIONAL".
 
 XII. Citar a la primera sesión de la Diputación Permanente;
 
