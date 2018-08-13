@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2018-07-11"
+last_updated: "2018-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2018.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -674,11 +674,9 @@ VII. El Tribunal Electoral del Estado de Morelos, es la Autoridad Electoral Juri
 
 El Congreso del Estado establecerá un organismo público autónomo imparcial, colegiado, con personalidad jurídica y patrimonio propio, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública de todas las personas, proteger los datos personales y realizar estadísticas, sondeos y encuestas imparciales que coadyuven al cumplimiento de las funciones de los poderes públicos y al desarrollo democrático del Estado, denominado Instituto Morelense de Información Pública y Estadística; en la conformación de este organismo garante se procurará la equidad de género. El Instituto será el encargado de aplicar las leyes de la materia y sus resoluciones serán acatadas por las entidades y dependencias públicas del Estado y municipios, organismos públicos autónomos, organismos auxiliares de la administración pública, partidos políticos, fondos públicos, personas físicas, morales o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal o municipal, y por toda persona que reciba, maneje, aplique o participe en el ejercicio de recursos públicos o privados, siempre que estos se destinen a actividades relacionadas con la función pública.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
-
-El Instituto Morelense de Información Pública y Estadística se integra por tres comisionados, los cuales serán electos por la mayoría calificada de los integrantes del Congreso, para lo cual se expedirá convocatoria pública para recibir propuestas de la sociedad, observando en todo momento el procedimiento que establezcan las leyes de la materia.
+El Instituto Morelense de Información Pública y Estadística se integra por cinco comisionados, los cuales serán electos por la mayoría calificada de los integrantes del Congreso, para lo cual se expedirá convocatoria pública para recibir propuestas de la sociedad, observando en todo momento el procedimiento que establezcan las leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
@@ -2750,17 +2748,15 @@ DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
 
 De conformidad a lo dispuesto en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el Estado de Morelos adopta como base de su división territorial y de su organización política, jurídica, hacendaria y administrativa al Municipio libre.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 111.
 
-El Estado de Morelos, para su régimen interior, se divide en los siguientes municipios libres:
+El estado de Morelos, para su régimen interior, se divide en los siguientes municipios libres:
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatetelco, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Hueyapan, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec de Leandro Valle, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán de Zapata, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Xoxocotla, Yautepec, Yecapixtla, Zacatepec y Zacualpan de Amilpas.
 
-Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec de Leandro Valle, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán de Zapata, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan de Amilpas.
-
-Los Municipios citados se agruparán en Distritos Judiciales para la mejor administración de justicia.
+Los municipios citados se agruparán en Distritos Judiciales para la mejor administración de justicia.
 
 La justicia de paz estará a cargo de los Jueces que señale la Ley Orgánica del Poder Judicial.
 
@@ -5333,3 +5329,37 @@ P.O. 11 DE JULIO DE 2018.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 13 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS TREINTA Y OCHO.- POR EL QUE SE REFORMA EL ARTÍCULO 111 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Las reformas contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+CUARTA.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+QUINTA.- El Congreso del Estado contará con un plazo de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas necesarias.
+
+P.O. 13 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS TREINTA Y NUEVE POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 23-A, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Aprobado por el Constituyente Permanente Local, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la Quincuagésima Tercera Legislatura del Congreso del Estado; en consecuencia, las reformas contenidas en el presente Decreto forman parte de la Constitución Política del Estado Libre y Soberano de Morelos, desde el momento mismo en que se realice la declaratoria a que se refiere el artículo 147 y 148, del citado ordenamiento constitucional local.
+
+CUARTA. Hecha la Declaratoria a que se refiere la disposición transitoria anterior, remítase el presente Decreto al Gobernador Constitucional del Estado, para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+QUINTA. A partir del día siguiente de la publicación en el Periódico Oficial “Tierra y Libertad” del presente Decreto, se deberá comenzar el procedimiento establecido en la legislación respectiva, a fin de realizar los nombramientos de los dos comisionados que integrarán el Instituto Morelense de Información Pública y Estadística, de acuerdo a lo que establecido (sic) en el presente Decreto.
+
+SEXTA. Se derogan todas las disposiciones de menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma constitucional local.
+
+SÉPTIMA. El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda para que efectúe las transferencias y adecuaciones necesarias para el cumplimiento del presente Decreto.
+
+OCTAVA. El proceso de designación de los nuevos Comisionados del organismo garante en el Estado iniciará una vez que se haga la Declaratoria a la que se refiere la Disposición Transitoria Primera de la presente reforma.
