@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2018-02-14"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -119,9 +119,13 @@ XXIX. Terreno: Porción de superficie terrestre en la que se puede desplantar un
 
 XXX. Urgencia Epidemiológica: Daño a la salud originado por la presencia de agentes microbiológicos, químicos o tóxicos, que ocasionan brotes o epidemias, incluyendo las enfermedades reemergentes o exóticas;
 
-XXXI. Vector: Al transportador viviente y transmisor biológico del agente causal de enfermedad, artrópodo que transmite el agente causal de una enfermedad, por picadura, mordedura, o por sus desechos; y,
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
-XXXII. Verificadores: Las personas designadas por la autoridad sanitaria competente para realizar diligencias de vigilancia sanitaria, de conformidad con lo dispuesto en la Ley General de Salud, esta Ley y demás disposiciones aplicables.
+XXXI. Usuario: A toda persona que requiera y obtenga servicios de salud que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones que resulten aplicables;
+
+XXXII. Vector: Al transportador viviente y transmisor biológico del agente causal de enfermedad, artrópodo que transmite el agente causal de una enfermedad, por picadura, mordedura, o por sus desechos; y,
+
+XXXIII. Verificadores: Las personas designadas por la autoridad sanitaria competente para realizar diligencias de vigilancia sanitaria, de conformidad con lo dispuesto en la Ley General de Salud, esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 3°.
 
@@ -359,6 +363,22 @@ La Secretaría, promoverá la participación de los prestadores de servicios en 
 
 Así mismo, propondrá a las demás autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 15 BIS. Los usuarios tendrán derecho a acceder oportuna y libremente a la prestación de servicios de salud de calidad y a recibir atención y tratamiento médico, profesional y éticamente responsable, conforme a los principios científicamente aceptados, así como trato respetuoso y digno a sus derechos, su vida privada, su cultura y sus valores.
+
+De igual manera, tendrán derecho a recibir información y orientación suficiente, comprensible, veraz, oportuna, eficaz y apropiada a su edad, género e identidad cultural, respecto de su estado de salud, historial médico y sobre los riesgos y alternativas de los procedimientos, tratamientos y diagnósticos terapéuticos y quirúrgicos que se le indiquen o apliquen, la cual será confidencial y protegida.
+
+Tratándose de usuarios originarios de pueblos y comunidades indígenas y con discapacidad, estos tendrán derecho a contar con un intérprete o traductor que facilite la comunicación con el personal de salud, con el fin de dar una atención adecuada, pudiendo apoyarse para tal efecto en la Comisión Estatal para el Desarrollo de los Pueblos Indígenas y en la Secretaría de Educación, en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 15 TER. Las autoridades sanitarias y sus auxiliares, así como las instituciones de salud públicas o privadas adoptarán procedimientos de orientación y asesoría sobre el uso de los servicios de salud.
+
+Asimismo, establecerán mecanismos para que los usuarios presenten sus quejas, inconformidades y sugerencias respecto de la prestación de los servicios de salud y que exponga sobre la presunta falta de honorabilidad, la posible irregularidad de los actos y omisiones o negativa injustificada en la atención de los servidores públicos.
+
+Dichas reclamaciones deberán ser recibidas, atendidas, investigadas y resueltas, habiendo practicado todas las diligencias que correspondan, en forma oportuna, efectiva y directamente por las instancias que el Sistema y las autoridades sanitarias competentes tengan definidas para tal efecto, cuando la solución corresponda a su ámbito de competencia.
+
 ###### ARTÍCULO 16.
 
 Los integrantes del Sistema deberán dar atención preferente e inmediata a grupos vulnerables sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental; así mismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático de los individuos.
@@ -477,9 +497,25 @@ El Gobernador del Estado a propuesta de la Secretaría podrá celebrar convenios
 
 El Gobernador del Estado, a propuesta de la Secretaría, podrá crear los comités y patronatos que estime necesarios para dar atención a grupos vulnerables y con factores de riesgo.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 28.
 
-La Secretaría en coordinación con los ayuntamientos constituirán comités y patronatos de salud que podrán ser integrados por núcleos de población urbana y rural, los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud de su localidad, y promoverán el mejoramiento ambiental que favorezca la salud de los mismos; así como, la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructura básica, social, mantenimiento de unidades y, en general, todas las acciones tendientes a la protección contra riesgos sanitarios.
+La Secretaría en coordinación con los ayuntamientos constituirán comités y patronatos de salud que podrán ser integrados por núcleos de población urbana y rural, los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud de su localidad, además, les corresponde:
+
+I. Promover y colaborar en la prevención, tratamiento y mejoramiento ambiental que favorezca la salud de la población;
+
+II. La organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructura básica, social y mantenimiento de unidades;
+
+III. Promocionar hábitos de conducta de prevención de enfermedades y accidentes;
+
+IV. Incorporar a miembros de la comunidad, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades sanitarias competentes;
+
+V. Notificar de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
+
+VI. Formular sugerencias para mejorar los servicios de salud; y;
+
+VII. Todas aquellas acciones y actividades que coadyuven a la protección de la salud y contra riesgos sanitarios.
 
 ### CAPÍTULO III. DE LA PLANEACIÓN Y PROGRAMACIÓN ESTATAL DE LA SALUD
 
@@ -517,23 +553,53 @@ La Salud Pública tiene por objeto promover la salud, para prevenir enfermedades
 
 Son acciones de Salud Pública, el saneamiento del medio, la prevención, el control de enfermedades y accidentes, los servicios médicos y auxilio, la promoción de la salud, el control y vigilancia sanitaria, así como la prevención y control de adicciones y demás que señale la Ley General de Salud.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 14 DE AGOSTO DE 2018)</small>
 
-La Secretaría de Salud, con el fin de combatir las enfermedades graves de la mujer como lo son el cáncer cérvico uterino y cáncer de mama, implementará programas permanentes tendientes a la prevención y tratamiento de estas enfermedades, además de desarrollar, entre otras, las siguientes acciones:
+La Secretaría de Salud, con el fin (sic) combatir las enfermedades graves de la mujer como lo son el, cáncer cérvico uterino y cáncer de mama, implementará programas permanentes tendientes a la prevención, detección, diagnostico, autocuidado, tratamiento, control y vigilancia epidemiológica de estas enfermedades, además de desarrollar, entre otras, las siguientes acciones:
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2009)</small>
 
 I. Dar a conocer la conveniencia del sexo seguro, difundiendo las consecuencias de la promiscuidad sexual, además de advertir de los riesgos que conlleva la práctica de relaciones sexuales tempranas e informar de los riesgos de contagio por relaciones sexuales con personas que hayan tenido diversas parejas sexuales;
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2009)</small>
+
 II. Difundir las conveniencias de realizarse periódicamente las pruebas para la prevención del cáncer cérvico uterino, tales como colposcopía, papanicolaou y cultivo de híbridos, además deberá aplicar como manera de prevención la vacuna del virus del Papiloma Humano en niñas de alto riesgo epidemiológico;
 
-III. Difundir la conveniencia de realizar periódicamente el examen clínico de mama;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
+III. Difundir la conveniencia de realizar periódicamente la autoexploración, el examen clínico y la mastografía como pruebas para la prevención del cáncer de mama;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2009)</small>
 
 IV. Divulgar los lugares de servicio gratuito para la práctica de exámenes y la aplicación de la vacuna señalados en las fracciones II y III;
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2009)</small>
+
 V. Capacitar a los prestadores de servicios de salud de los sectores público, social y privado en la toma de muestras para la prevención del cáncer cérvico uterino y la interpretación de las mismas a través del Sistema Bethesda, o cualquier otro que autorice el sector salud;
 
-VI. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino y de mama y el uso de la cartilla nacional de salud de la mujer; y,
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
-VII. Difundir entre la población escolar las medidas de prevención de los cánceres cérvico uterino y de mama.
+VI. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino y de mama y el uso de la cartilla nacional de salud de la mujer;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
+VII. Difundir entre la población escolar las medidas de prevención de los cánceres cérvico uterino y de mama;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
+VIII. Enseñar y difundir la táctica de autoexploración a quienes acudan a las unidades de salud;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
+IX. Promocionar actividades de prevención, detección y control oportuno, orientadas a evitar, valorar y disminuir los factores de riesgo y promover estilos de vida sanos, que incluyan las comunicaciones educativas a la población;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
+X. Dar especial atención a las áreas rurales, marginadas e indígenas y a la población de Zonas de Atención Prioritaria, a través de la extensión de la cobertura de estrategias para contribuir a la reducción de la morbilidad y mortalidad para cáncer cérvico uterino y cáncer de mama; y,
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
+XI. Observar obligatoriamente para todo el personal de salud, profesional y auxiliar de los sectores público, social y privado que brinden atención médica, los principios, políticas, estrategias, criterios de operación y procedimientos que establezca o deriven de esta Ley y de las normas oficiales mexicanas aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 22 DE ENERO DE 2013)</small>
 
@@ -2245,7 +2311,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.-LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 8 DE JUNIO DE 2009.
 
@@ -2340,3 +2406,21 @@ P.O. 14 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 426 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 Y SE ADICIONA EL ARTÍCULO 17 A, DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 600.- SE REFORMA EL SEGUNDO PÁRRAFO, LAS FRACCIONES III, VI Y VII; Y SE ADICIONAN LAS FRACCIONES VIII, IX, X Y XI DEL ARTÍCULO 31 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 616 POR EL QUE "SE ADICIONA UNA FRACCIÓN XXXI AL ARTÍCULO 2, RECORRIÉNDOSE EN SU ORDEN LAS FRACCIONES SUBSECUENTES, SE ADICIONAN LOS ARTÍCULOS 15 BIS, 15 TER; Y, SE REFORMA EL ARTÍCULO 28, TODOS DE LA LEY DE SALUD DEL ESTADO DE MICHOACAN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+TERCERO. En el Decreto de Presupuesto de Egresos del Estado de Michoacán para el ejercicio del año dos mil diecinueve y subsecuentes, deberán hacerse las previsiones presupuestales necesarias a fin de lograr, de manera progresiva, el cumplimiento de lo dispuesto en el párrafo tercero del artículo 15 bis.
