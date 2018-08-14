@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2017-10-06"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE AGOSTO DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -1251,23 +1251,29 @@ I. Número de orden: se anotará el número de juicio de amparo que le correspon
 
 II. Recepción: se anotará la fecha en que la demanda sea recibida en la oficialía de partes del juzgado que deba conocer de la misma, si la recibe un secretario de ese juzgado, esta será la fecha que se asiente, pero si el secretario corresponde a un juzgado diverso, la fecha que se anotará será aquella en que se reciba en el juzgado del conocimiento;
 
-III. Nombre del quejoso: se anotará el nombre de la parte quejosa, aun cuando la demanda se formule por medio de representante o de defensor. Cuando se trate de varios quejosos, se anotará el nombre del primero de ellos, seguido de la expresión “y otros”, procurando dejar el espacio necesario para el caso en que la resolución tuviere diversidad de sentidos (ejemplo, ampara, niega y sobresee), supuesto en el que en la columna Resolución, se anotarán los diversos sentidos y en la de Observaciones, se aclarará a qué quejoso correspondió cada sentido;
+III. Nombre del quejoso: se anotará el nombre de la parte quejosa, aun cuando la demanda se formule por medio de representante o de defensor. Cuando se trate de varios quejosos, se anotará el nombre del primero de ellos, seguido de la expresión "y otros", procurando dejar el espacio necesario para el caso en que la resolución tuviere diversidad de sentidos (ejemplo, ampara, niega y sobresee), supuesto en el que en la columna Resolución, se anotarán los diversos sentidos y en la de Observaciones, se aclarará a qué quejoso correspondió cada sentido;
 
-IV. Tercero interesado: se anotará el nombre de esta parte y, en caso de no existir, se asentará la expresión “No Existe”. Cuando se trate de varios terceros interesados se anotará el nombre del primero de ellos seguido de la expresión “y otros”;
+> <small>(REFORMADA, D.O.F. 14 DE AGOSTO DE 2018)</small>
 
-V. Autoridades responsables: se asentará la denominación de la autoridad responsable y, en caso de que sean varias, se anotará la primera seguida de la expresión y “otras”;
+IV. Tercero interesado: se anotará el nombre de esta parte y, en caso de no existir, se asentará la expresión “No Existe”. Cuando se trate de varios terceros interesados se anotará el nombre del primero de ellos seguido de la expresión “y otros”.
+
+En los supuestos en que se tenga por desechada la demanda, por no presentada, o se declare la incompetencia legal del órgano jurisdiccional, no deberá realizarse ninguna anotación en la columna “tercero interesado”.
+
+En caso de que durante la tramitación del juicio se advierta la existencia de un tercero interesado se asentará en la columna de Observaciones;
+
+V. Autoridades responsables: se asentará la denominación de la autoridad responsable y, en caso de que sean varias, se anotará la primera seguida de la expresión y "otras";
 
 VI. Actos reclamados: deberán indicarse de manera breve, el acto o los actos reclamados;
 
-VII. Materia: se indicará la materia a que el asunto corresponda, asentando las expresiones “penal”, “civil”, “administrativa” o “laboral”, según sea el caso;
+VII. Materia: se indicará la materia a que el asunto corresponda, asentando las expresiones "penal", "civil", "administrativa" o "laboral", según sea el caso;
 
 VIII. Incompetencia: se utilizará únicamente en el supuesto de que el órgano jurisdiccional, en el auto inicial, se declare incompetente para conocer de la demanda de amparo, se anotará la fecha en que se pronuncie el proveído que así lo determine;
 
 IX. Prevención: sólo se empleará cuando en el auto inicial se prevenga al promovente, con motivo de alguna irregularidad; para que llene alguno de los requisitos de la demanda que hubiere omitido; cuando no haya señalado con precisión el acto reclamado o bien cuando no hubiere exhibido las copias necesarias. En ella se anotará la fecha en que se pronuncie tal auto;
 
-X. Desechamiento o por no presentada: se utilizará en los casos siguientes: Cuando se haya dictado acuerdo de prevención y éste no se haya cumplido, se anotará la expresión “por no presentada” y la fecha del auto que así lo declare; o bien la expresión “desechada” ya sea que se deseche la demanda en la forma prevenida por el artículo 112 o en términos de lo dispuesto por el artículo 113, ambos de la Ley de Amparo; en el último de estos casos, la anotación se hará aun cuando alguna prevención ya hubiese sido cumplida y la anotación correspondiente hubiese sido realizada, en este caso, se utilizarán los renglones subsiguientes; y
+X. Desechamiento o por no presentada: se utilizará en los casos siguientes: Cuando se haya dictado acuerdo de prevención y éste no se haya cumplido, se anotará la expresión "por no presentada" y la fecha del auto que así lo declare; o bien la expresión "desechada" ya sea que se deseche la demanda en la forma prevenida por el artículo 112 o en términos de lo dispuesto por el artículo 113, ambos de la Ley de Amparo; en el último de estos casos, la anotación se hará aun cuando alguna prevención ya hubiese sido cumplida y la anotación correspondiente hubiese sido realizada, en este caso, se utilizarán los renglones subsiguientes; y
 
-XI. Admisión: se utilizará en el supuesto de que se admita la demanda; es decir, cuando no se haya hecho prevención alguna o cuando habiéndose hecho, ésta fuere cumplida, caso en el que se anotará la palabra “admitida” y la fecha del auto que así lo declare.
+XI. Admisión: se utilizará en el supuesto de que se admita la demanda; es decir, cuando no se haya hecho prevención alguna o cuando habiéndose hecho, ésta fuere cumplida, caso en el que se anotará la palabra "admitida" y la fecha del auto que así lo declare.
 
 ###### Artículo 106.
 
@@ -2283,11 +2289,17 @@ I. Número de orden: se anotará el número de juicio de amparo que le correspon
 
 II. Recepción: se anotará la fecha en que la demanda y sus anexos sean recibidos en la oficialía de partes del propio órgano jurisdiccional;
 
-III. Quejoso: se anotará el nombre de la parte quejosa, aun cuando la demanda se formule por medio de representante o defensor. Cuando se trate de varios quejosos, se anotará el nombre del primero de ellos, seguido de la expresión “y otros”, procurando dejar el espacio necesario para el caso de que la resolución tuviere diversidad de sentidos (ejemplo, ampara, niega y sobresee), supuesto en el que en la columna resolución definitiva se anotarán los diversos sentidos;
+III. Quejoso: se anotará el nombre de la parte quejosa, aun cuando la demanda se formule por medio de representante o defensor. Cuando se trate de varios quejosos, se anotará el nombre del primero de ellos, seguido de la expresión "y otros", procurando dejar el espacio necesario para el caso de que la resolución tuviere diversidad de sentidos (ejemplo, ampara, niega y sobresee), supuesto en el que en la columna resolución definitiva se anotarán los diversos sentidos;
 
-IV. Tercero interesado: se anotará, precisamente, el nombre de esta parte y, en caso de no existir, se asentará la expresión “No Existe”. Cuando se trate de varios terceros interesados se anotará el nombre del primero de ellos seguido de la expresión “y otros”;
+> <small>(REFORMADA, D.O.F. 14 DE AGOSTO DE 2018)</small>
 
-V. Autoridad responsable: se asentará la denominación de la autoridad responsable y, en caso de que sean varias, se anotará la primera seguida de la expresión y “otras”;
+IV. Tercero interesado: se anotará el nombre de esta parte y, en caso de no existir, se asentará la expresión “No Existe”. Cuando se trate de varios terceros interesados se anotará el nombre del primero de ellos seguido de la expresión “y otros”.
+
+En los supuestos en que se tenga por desechada la demanda, por no presentada, o se declare la incompetencia legal del órgano jurisdiccional, no deberá realizarse ninguna anotación en la columna “tercero interesado”.
+
+En caso de que durante la tramitación del juicio se advierta la existencia de un tercero interesado se asentará en la columna de Observaciones;
+
+V. Autoridad responsable: se asentará la denominación de la autoridad responsable y, en caso de que sean varias, se anotará la primera seguida de la expresión y "otras";
 
 VI. Actos reclamados: deberá indicarse, de manera breve, el acto o los actos reclamados;
 
@@ -2297,13 +2309,13 @@ Cuando el amparo directo lo conozca un tribunal Colegiado de Circuito especializ
 
 VIII. Incompetencia: se utilizará únicamente en el supuesto de que el órgano jurisdiccional, en el auto inicial, se declare incompetente para conocer de la demanda de amparo, se anotará la fecha en que se pronuncie el proveído que así lo determine;
 
-IX. Prevención: se utilizará solamente en los siguientes dos casos: Cuando la autoridad responsable haya prevenido al quejoso por la presentación de copias; en este caso se asentará la expresión “autoridad responsable” y la fecha en que se hubiese hecho la prevención; y, cuando el propio tribunal Colegiado haya prevenido al quejoso para que satisfaga alguno de los requisitos que establece el artículo 175 de la Ley de Amparo que hubiere omitido; en tal caso, se asentará la palabra “tribunal” y la fecha en que éste hubiese hecho la citada prevención;
+IX. Prevención: se utilizará solamente en los siguientes dos casos: Cuando la autoridad responsable haya prevenido al quejoso por la presentación de copias; en este caso se asentará la expresión "autoridad responsable" y la fecha en que se hubiese hecho la prevención; y, cuando el propio tribunal Colegiado haya prevenido al quejoso para que satisfaga alguno de los requisitos que establece el artículo 175 de la Ley de Amparo que hubiere omitido; en tal caso, se asentará la palabra "tribunal" y la fecha en que éste hubiese hecho la citada prevención;
 
-X. Desechamiento o por no presentada: se utilizará en los casos siguientes: Cuando se haya dictado acuerdo de requerimiento y éste no se haya cumplido, se anotará la expresión “por no presentada” y la fecha del auto que así lo declare; o bien la expresión “Desechada”, cuando se deseche la demanda en la forma prevenida por el artículo 179 de la Ley de Amparo; en este caso, la anotación se hará aun cuando alguna prevención ya hubiese sido cumplida y la anotación correspondiente hubiese sido realizada, en este caso, se utilizarán los renglones subsiguientes;
+X. Desechamiento o por no presentada: se utilizará en los casos siguientes: Cuando se haya dictado acuerdo de requerimiento y éste no se haya cumplido, se anotará la expresión "por no presentada" y la fecha del auto que así lo declare; o bien la expresión "Desechada", cuando se deseche la demanda en la forma prevenida por el artículo 179 de la Ley de Amparo; en este caso, la anotación se hará aun cuando alguna prevención ya hubiese sido cumplida y la anotación correspondiente hubiese sido realizada, en este caso, se utilizarán los renglones subsiguientes;
 
-XI. Admisión: se utilizará en el supuesto de que se admita la demanda, es decir, cuando no se haya hecho prevención alguna o cuando habiéndose hecho, ésta fuere cumplida, caso en el que se anotará la palabra “admitida” y la fecha del auto que así lo declare;
+XI. Admisión: se utilizará en el supuesto de que se admita la demanda, es decir, cuando no se haya hecho prevención alguna o cuando habiéndose hecho, ésta fuere cumplida, caso en el que se anotará la palabra "admitida" y la fecha del auto que así lo declare;
 
-XII. Resolución definitiva: se deberá anotar la fecha en que se pronuncie la sentencia de amparo, así como su sentido, utilizando las expresiones correspondientes, tales como: “concede”, “niega”, “sobresee”, “reposición de procedimiento”, “incompetencia” o cualquier combinación de ellos, agregando también las expresiones “unanimidad” o “mayoría”, según sea el caso;
+XII. Resolución definitiva: se deberá anotar la fecha en que se pronuncie la sentencia de amparo, así como su sentido, utilizando las expresiones correspondientes, tales como: "concede", "niega", "sobresee", "reposición de procedimiento", "incompetencia" o cualquier combinación de ellos, agregando también las expresiones "unanimidad" o "mayoría", según sea el caso;
 
 XIII. Revisión S.C.J.N.: constará de tres rubros: Interposición, Fecha de remisión y Resolución, que se llenarán de la siguiente forma:
 
@@ -2311,7 +2323,7 @@ a) Interposición: se anotará la fecha en que se interponga el recurso de revis
 
 b) Fecha de remisión: se utilizará para anotar la fecha en que se envíen los autos a la Suprema Corte de Justicia de la Nación para la substanciación del recurso; y
 
-c) Resolución: se anotará la fecha del fallo que tenga por resuelto dicho recurso y el sentido del mismo, utilizando las expresiones: “confirma y ampara”, “confirma y niega”, “confirma y sobresee”, “confirma ampara y niega”, “confirma ampara y sobresee”, “confirma ampara niega y sobresee”, “confirma niega y sobresee”, “revoca y ampara”, “revoca y niega”, “revoca y sobresee”, “revoca ampara y niega”, “revoca ampara y sobresee”, “revoca niega y sobresee”, “modifica y ampara”, “modifica y niega”, “modifica y sobresee”, “modifica ampara y niega”, “modifica ampara y sobresee”, “modifica ampara niega y sobresee”, “modifica niega y sobresee”, “sin materia”, “se desecha” o cualquier otro resultado que pudiese darse;
+c) Resolución: se anotará la fecha del fallo que tenga por resuelto dicho recurso y el sentido del mismo, utilizando las expresiones: "confirma y ampara", "confirma y niega", "confirma y sobresee", "confirma ampara y niega", "confirma ampara y sobresee", "confirma ampara niega y sobresee", "confirma niega y sobresee", "revoca y ampara", "revoca y niega", "revoca y sobresee", "revoca ampara y niega", "revoca ampara y sobresee", "revoca niega y sobresee", "modifica y ampara", "modifica y niega", "modifica y sobresee", "modifica ampara y niega", "modifica ampara y sobresee", "modifica ampara niega y sobresee", "modifica niega y sobresee", "sin materia", "se desecha" o cualquier otro resultado que pudiese darse;
 
 XIV. Archivo: se asentará la fecha en que el expediente sea enviado físicamente al archivo; y
 
@@ -3534,3 +3546,11 @@ PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su
 SEGUNDO. Publíquese en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet e Intranet del Consejo de la Judicatura Federal.
 
 TERCERO. Se derogan los Lineamientos de operación para el pago de horas extraordinarias en favor de los servidores públicos del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral y demás disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, RESPECTO A LAS ANOTACIONES RELACIONADAS CON EL TERCERO INTERESADO EN LOS LIBROS DE CONTROL DE JUICIOS DE AMPARO Y AMPARO DIRECTO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
