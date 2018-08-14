@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-07-24"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE AGOSTO DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -135,9 +135,7 @@ I. PRIMER CIRCUITO:
 
 4. Dos Juzgados de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en la Ciudad de México.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2017)</small>
-
-5. Dos Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, con residencia en la Ciudad de México.
+5. (DEROGADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)
 
 > <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2017)</small>
 
@@ -485,11 +483,13 @@ XXVIII. VIGESIMO OCTAVO CIRCUITO:
 
 XXIX. VIGESIMO NOVENO CIRCUITO:
 
-1. Dos tribunales colegiados con residencia en Pachuca.
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 21/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+1. Tres tribunales colegiados con residencia en Pachuca.
 
-2. Dos tribunales unitarios con sede en Pachuca.
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 21/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
+
+2. Un tribunal unitario con sede en Pachuca.
 
 3. Cuatro juzgados de distrito en el Estado de Hidalgo, con residencia en Pachuca.
 
@@ -647,9 +647,9 @@ CUARTO. La jurisdicción territorial de los juzgados de Distrito es la siguiente
 
 I. PRIMER CIRCUITO:
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
 
-Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones; y los Juzgados de Distrito Especializados en Ejecución de Penas, que ejercerán jurisdicción territorial en toda la República Mexicana.
+Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados de Distrito Especializados en Ejecución de Penas, que ejercerán jurisdicción territorial en toda la República Mexicana.
 
 > <small>(DEROGADO TERCER PÁRRAFO POR EL TRANSITORIO DÉCIMO PRIMERO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -1055,9 +1055,9 @@ XIII. Todos los Centros de Justicia Penal Federal, además de los asuntos que le
 
 Serán competentes los jueces de distrito especializados en el sistema penal acusatorio, del Centro de Justicia Penal Federal donde se encuentre el reclamado. Cuando se desconozca el paradero de éste, serán competentes los Jueces de Distrito de los Centros de Justicia Penal de la Ciudad de México.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
 
-QUINTO QUATER. El Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, está conformado por seis jueces de Control y un Tribunal Unitario de Circuito, con jurisdicción en toda la República Mexicana.
+QUINTO QUATER. El Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, está conformado por ocho jueces de Control y un Tribunal Unitario de Circuito, con jurisdicción en toda la República Mexicana.
 
 > <small>(ADICIONADO POR EL PUNTO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 22/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2013)</small>
 
@@ -6195,19 +6195,147 @@ Los Tribunales Unitarios precisarán en los actos procesales que celebren la den
 
 Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirán por las disposiciones aplicables como Tribunal Unitario de Circuito.”
 
+D.O.F. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 20/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES, CON COMPETENCIA EN TODA LA REPÚBLICA Y RESIDENCIA EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil dieciocho, con excepción del artículo 1, y del Transitorio CUADRAGÉSIMO PRIMERO de dicho instrumento normativo, los cuales iniciarán su vigencia a partir de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Se reforman los artículos 4; 5; 7; 10; 13, párrafo segundo; 14; 16; y 19, segundo párrafo, del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, para quedar como sigue:
+
+“Artículo 4. El Centro agrupa a ocho Jueces de control y a un Tribunal Unitario de Circuito, en su caso, habilitado como tribunal de Alzada, así como los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 21/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEGUNDO TRIBUNAL UNITARIO DEL VIGÉSIMO NOVENO CIRCUITO, AL CAMBIO DE DENOMINACIÓN DEL PRIMER TRIBUNAL UNITARIO DEL VIGÉSIMO NOVENO CIRCUITO, AMBOS CON RESIDENCIA EN PACHUCA, HIDALGO; EL INICIO DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO DEL VIGÉSIMO NOVENO CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO INDICADO; Y A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES UNITARIOS DEL VIGÉSIMO NOVENO CIRCUITO, CON RESIDENCIA EN PACHUCA, HIDALGO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil dieciocho, con excepción de los artículos 1 y 4 de este Acuerdo, los cuales entrarán en vigor en la fecha señalada en el mismo; así como el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Tercer Tribunal Colegiado del Vigésimo Noveno Circuito, formará parte del Pleno del Vigésimo Noveno Circuito a partir del dieciséis de agosto de dos mil dieciocho, de conformidad con lo establecido por el Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, para lo cual informará lo conducente a las Secretarías Ejecutivas de Carrera Judicial; de Creación de Nuevos Órganos; así como de Adscripción.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional de nueva creación de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción XXIX, números 1 y 2, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. …
+
+I. a XXVIII. …
+
+XXIX. …
+
+1. Tres tribunales colegiados con residencia en Pachuca.
+
+2. Un tribunal unitario con sede en Pachuca.
+
+3. …
+
+XXX. a XXXII. …"
+
+SEXTO. Se reforman el artículo 17, párrafo segundo; y el Transitorio SEGUNDO del Acuerdo General 6/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, para quedar como sigue:
+
+"Artículo 17. …
+
+I. a III. …
+
+Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios en Materia Penal del Primer Circuito, para conocer con ese carácter y en el orden numérico de su denominación, de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+
+…
+
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+
+El Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo precisará en los actos procesales que celebre la denominación con la que actúa, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+El Tribunal Unitario de que se trata queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito."
+
+SÉPTIMO. Se abroga el Acuerdo General 27/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funciones del Segundo Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo; al cambio de denominación del Tribunal Unitario del Vigésimo Noveno Circuito, en la misma sede; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Tribunales Unitarios del Circuito indicado; y a la creación, denominación y domicilio de la oficina de correspondencia común que les prestará servicio.
+
+OCTAVO. Los asuntos que se encuentren en trámite, subjudice o en archivo en el Segundo Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo, que concluye funciones se enviarán al Primer Tribunal Unitario del Vigésimo Noveno Circuito a fin de que se emita, en su caso, la resolución correspondiente hasta su archivo definitivo y que las promociones posteriores que se relacionen con esos asuntos, se presenten directamente para su atención en el órgano jurisdiccional al que se remitieron los asuntos, con excepción de los juicios de amparo indirecto en los que la autoridad señalada como responsable sea el Magistrado del Primer Tribunal Unitario del Vigésimo Noveno Circuito, en cuyo caso, deberán remitirse al Tribunal Unitario más próximo a su residencia por conducto de la Oficina de Correspondencia Común que les presta servicio.
+
+El secretario de acuerdos del Segundo Tribunal Unitario del Vigésimo Noveno Circuito, con el visto bueno de su titular, de conformidad con lo previsto en el párrafo anterior, deberá elaborar el listado de los expedientes para remisión, numerados de forma consecutiva, señalando en su caso los anexos y demás documentos respectivos.
+
+La remisión de los asuntos, prevista en este Transitorio, deberá formalizarse dentro de los dos días hábiles anteriores a la conclusión de funciones del Segundo Tribunal Unitario del Vigésimo Noveno Circuito.
+
+El Primer Tribunal Unitario del Vigésimo Noveno Circuito deberá registrar los asuntos en trámite que le hayan sido remitidos con el nuevo número que les corresponda, y el número que tenían asignado en el Segundo Tribunal Unitario del referido Circuito.
+
+Asimismo, dichos órganos jurisdiccionales elaborarán un acta circunstanciada en la que conste la entrega-recepción de los expedientes y sus anexos; y deberán asentar la entrega efectuada en los libros de control. De dicha acta enviarán una copia a la Oficina de Correspondencia Común que les presta auxilio, para su conocimiento; e informar a la Dirección General de Estadística Judicial, los movimientos originados en razón del envío o recepción de expedientes.
+
+NOVENO. La Dirección General de Recursos Humanos atenderá la situación laboral, derivada de la conclusión de funciones de la Oficina de Correspondencia Común de los Tribunales Unitarios del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo.
+
+La Dirección General de Estadística Judicial atenderá lo relativo al archivo de la Oficina de Correspondencia Común que concluye funciones.
+
+###### Artículo 5.
+
+Con fines de identificación, organización, establecimiento de guardias, sustituciones y goce de periodos vacacionales, los jueces de Control tendrán la siguiente referencia numérica:
+
+ANTERIOR DENOMINACIÓN ACTUAL DENOMINACIÓN
+
+Juzgado Primero de Distrito Especializado en
+
+Medidas Cautelares y Control de Técnicas de Juez Primero de Control.
+
+Investigación.
+
+Juzgado Segundo de Distrito Especializado en
+
+Medidas Cautelares y Control de Técnicas de Juez Segundo de Control.
+
+Investigación.
+
+Juzgado Tercero Federal Penal Especializado
+
+en Cateos, Arraigos, e Intervención de Juez Tercero de Control.
+
+Comunicaciones.
+
+Juzgado Cuarto Federal Penal Especializado
+
+en Cateos, Arraigos, e Intervención de Juez Cuarto de Control.
+
+Comunicaciones.
+
+Juzgado Quinto Federal Penal Especializado
+
+en Cateos, Arraigos, e Intervención de Juez Quinto de Control.
+
+Comunicaciones.
+
+Juzgado Sexto Federal Penal Especializado
+
+en Cateos, Arraigos, e Intervención de Juez Sexto de Control.
+
+Comunicaciones.
+
+Juzgado Primero Federal Penal Especializado
+
+en Cateos, Arraigos, e Intervención de Juez Séptimo de Control.
+
+Comunicaciones.
+
+Juzgado Segundo Federal Penal Especializado
+
+en Cateos, Arraigos, e Intervención de Juez Octavo de Control.
+
+Comunicaciones.
+
+###### Artículo 7.
+
+Tanto los Jueces de control como su personal, tendrán turnos de veinticuatro horas de trabajo por setenta y dos horas de descanso. Cada turno comenzará con una diferencia de doce horas, el primer turno iniciará a las ocho horas y el segundo a las veinte horas. Durante las primeras doce horas, recibirán las solicitudes; y en las otras doce, sólo las resolverán.
+
+Con independencia del turno previsto en el párrafo anterior, cada Juez de Control designará un Secretario, el cual tendrá un horario fijo de Lunes a Viernes de 9:00 a 19:00 horas, con la finalidad de que se desahogue de forma expedita todas las peticiones y requerimientos que se refieran al trámite de los asuntos ya resueltos por el Juez de Control de que se trate.
+
+El cambio de turno de los Jueces de control, deberá coordinarse con el objeto de que siempre se cumpla de manera eficiente con la función que desempeñan.
+
 ###### Artículo 10.
 
-El Consejo Estatal tendrá las siguientes atribuciones en materia de prevención Social de la Violencia y Delincuencia:
+Conforme a su competencia, los juzgadores llevarán los siguientes libros de control:
 
-I. Definir estrategias de colaboración interinstitucional para facilitar la cooperación, enlaces e intercambio de información y experiencias entre el Estado y sus municipios, así como con organizaciones de la sociedad civil, centros educativos o de investigación, o cualquier otro grupo de expertos o redes especializadas en prevención;
+I. Cuando actúen como Jueces de Distrito Especializados en el Sistema Penal Acusatorio: El libro dos “actos de investigación con control judicial”, previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la asignación de audiencias y asuntos, la rendición de estadística y los libros electrónicos de control en los Centros de Justicia Penal Federal; y
 
-II. Establecer los lineamientos para recabar, analizar y compartir la información existente sobre la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, análisis de las mejores prácticas, su evaluación, así como su evolución, entre los tres órdenes de gobierno con el Sistema Estatal de Seguridad Pública, con objeto de contribuir a la toma de decisiones;
-
-III. Convocar a las autoridades en materia de Seguridad Pública, dentro del Sistema, cuyas funciones incidan en la prevención social a efecto de coordinar acciones;
-
-IV. Promover la generación de indicadores y métricas estandarizados para los integrantes del Sistema en materia de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, los que al menos serán desagregados por edad, sexo, ubicación geográfica y pertenencia étnica; y
-
-V. Las demás que establezcan las disposiciones legales en la materia y las que sean necesarias para el funcionamiento del Sistema en la materia de la presente Ley.
+II. En los demás casos: El libro seis “medidas precautorias y cautelares, así como técnicas de investigación”, previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
 
 ### CAPÍTULO SEGUNDO. De la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana y la Atención a Víctimas
 
@@ -6227,9 +6355,37 @@ V. Todas aquellas atribuciones conferidas al Secretariado Ejecutivo en la Ley de
 
 ### CAPÍTULO TERCERO. De las Instancias de Coordinación
 
+###### Artículo 13.
+
+…
+
+Durante los dos meses que conforma el periodo respectivo, solamente dos jueces de control y su personal podrán de manera simultánea gozar de sus vacaciones, de manera que durante este periodo, los seis juzgadores restantes y su personal, en forma excepcional tendrán jornadas de 24 horas de trabajo por 24 de descanso.
+
+###### Artículo 14.
+
+Los Jueces de control serán competentes en toda la República, desde el inicio de la etapa de investigación inicial, durante la misma y hasta antes de que con motivo de ella el imputado quede a disposición del juez de Control del Centro de Justicia Penal Federal correspondiente para que se le formule la imputación, para conocer y resolver de las solicitudes presentadas por el Ministerio Público de la Federación siguientes:
+
+I. Arraigo tratándose de la investigación de delitos de delincuencia organizada; y cateo e intervención de comunicaciones privadas y de correspondencia, en el caso de dicho delito y de operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis del Código Penal Federal;
+
+II. Requerimiento a los concesionarios de telecomunicaciones, autorizados o proveedores de servicios de aplicaciones y contenidos, de localización geográfica en tiempo real o entrega de datos conservados, en términos del artículo 303 del Código Nacional de Procedimientos Penales, tratándose de la investigación de delitos de delincuencia organizada; y operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis del Código Penal Federal; y
+
+III. Las solicitudes presentadas por el Ministerio Público de la Federación en la etapa de averiguación previa, siguientes:
+
+a) Cateo;
+
+b) Arraigo; e
+
+c) Intervención de comunicaciones.
+
+También conocerán de la ratificación de la orden de la localización geográfica en tiempo real o la entrega de los datos conservados a los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios de aplicaciones y contenidos, dada por el titular del Ministerio Público de la Federación o el servidor público en quien se delegue la facultad; de conformidad con el artículo 303 del Código Nacional de Procedimientos Penales.
+
+Adicionalmente serán competentes para conocer de las solicitudes las solicitudes (sic) de intervención de comunicaciones privadas que hagan los titulares del Ministerio Público de las entidades federativas, en términos de lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, independientemente de que se trate del sistema acusatorio o mixto.
+
+En el supuesto a que se refiere la fracción III de este artículo los Jueces de control no actuarán habilitados como jueces de Distrito especializados en el sistema penal acusatorio, sino como jueces de Distrito con competencia para conocer de estos asuntos.
+
 ###### Artículo 16.
 
-El Centro Estatal promoverá y fomentará las condiciones que posibiliten el establecimiento de políticas públicas integrales para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana; así como el ejercicio pleno de todos los derechos reconocidos por la legislación mexicana, y la participación equitativa de la ciudadanía en la vida política, cultural, económica y social del Estado.
+Para la solicitud y resolución de los actos previstos en este Acuerdo, así como los plazos a observar y el procedimiento en general, incluida la verificación de su ejecución, se estará, según sea el caso, a lo dispuesto por el Código Nacional de Procedimientos Penales, la Ley de Seguridad Nacional, la Ley de la Policía Federal, el Código Federal de Procedimientos Penales y demás disposiciones aplicables.
 
 ###### Artículo 17.
 
@@ -6257,131 +6413,221 @@ V. Personal auxiliar y de apoyo necesario.
 
 ###### Artículo 19.
 
-Para el debido cumplimiento de su objeto, el Centro Estatal tendrá las siguientes atribuciones:
+...
 
-I. Elaborar el Programa Anual de Trabajo y someterlo a la aprobación del Consejo Estatal en los primeros tres meses del año;
+En los supuestos que sea procedente, para todos los efectos legales a que haya lugar, la primera consulta que el solicitante haga de ese archivo electrónico deberá ser registrada automáticamente por el sistema, con lo que se tendrá por hecha la notificación de conformidad con el artículo 89 del Código Nacional de Procedimientos Penales o con el artículo 111 del Código Federal de Procedimientos Penales, según sea el caso.”
 
-II. Participar en la elaboración del Plan Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, en términos de la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes.
+CUARTO. La Comisión de Creación de Nuevos Órganos adoptará las medidas necesarias para que los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, concluyan sus funciones sin asuntos pendientes a las veinticuatro horas del quince de agosto de dos mil dieciocho.
 
-III. Recabar información sobre los delitos y sus tendencias, los grupos de mayor victimización en el Estado, y proyectos enfocados en la prevención y sus resultados;
+Los asuntos del conocimiento de los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, que requieran atención en fecha posterior a la de conclusión de sus funciones, así como aquellos que no hayan sido archivados definitivamente, serán distribuidos equitativamente entre los Jueces de Control integrantes del Centro.
 
-IV. Identificar por sí o por terceros mediante una metodología de investigación científica las variables que inciden en la manifestación de conductas antisociales que atentan contra la tranquilidad y paz social;
+QUINTO. Las solicitudes presentadas ante los Juzgados Primero y Segundo Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones que concluyen funciones y, en su caso, las acciones y diligencias que requieran atención posterior, deberán ser desahogadas conforme a las disposiciones con las que dieron inicio y por los juzgadores que actúan como jueces de Distrito con competencia para conocer de esos asuntos.
 
-V. Realizar diagnósticos participativos en materia de prevención social de la violencia y la delincuencia;
+SEXTO. Se abroga el Acuerdo General 75/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
 
-VI. Generar mecanismos de participación ciudadana y comunitaria, de los organismos públicos de derechos humanos y de las instituciones de educación superior en materia de prevención social de la violencia y la delincuencia;
+SÉPTIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 8/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, para quedar como sigue:
 
-VII. Planear la ejecución de programas de prevención social de la violencia y la delincuencia y las formas de evaluación, previa aprobación del Secretario de Seguridad Pública del Estado;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15, del Acuerdo General 3/2017 del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-VIII. Colaborar en el diseño científico de políticas criminológicas;
+…”
 
-IX. Elaborar mapas de riesgos sobre la violencia y la delincuencia en colaboración con otras autoridades sobre la base de la información recabada por el Centro Estatal, que estarán correlacionados con las condiciones sociales, económicas y educativas del Estado;
+OCTAVO. Se reforma el artículo 5, párrafo primero del Acuerdo General 33/2016, del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en el Estado de Baja California, con residencia en las ciudades de Mexicali y Tijuana, para quedar como sigue:
 
-X. Realizar en coordinación con otras instituciones encuestas Estatales de victimización en hogares, con la periodicidad que se estime conveniente;
+“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XI. Identificar temas prioritarios o emergentes que pongan en riesgo o que afecten directamente la seguridad pública desde la perspectiva ciudadana;
+…”
 
-XII. Formular propuestas sobre la implementación de medidas de prevención de la victimización;
+NOVENO. Se reforma el artículo 5, párrafo primero del Acuerdo General 32/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Baja California Sur, para quedar como sigue:
 
-XIII. Evaluar la eficiencia y eficacia de las políticas públicas, programas y acciones de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XIV. Efectuar estudios comparativos de las estadísticas oficiales de criminalidad;
+…”
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+DÉCIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 27/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Campeche, con residencia en San Francisco de Campeche, para quedar como sigue:
 
-XV. Promover entre las autoridades del Estado y de los Municipios, la participación ciudadana y comunitaria en las tareas de Prevención Social de la Violencia y la Delincuencia, brindando especial atención en los sectores vulnerables e instituciones de educación tanto públicas como privadas.
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XVI. Garantizar el libre acceso de la población a la información estadística en materia de delito y de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+…”
 
-XVII. Realizar y difundir estudios sobre las causas y factores que confluyen en el fenómeno de la criminalidad;
+DÉCIMO PRIMERO. Se reforma el artículo 5, párrafo primero del Acuerdo General 48/2015, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, para quedar como sigue:
 
-XVIII. Expedir los lineamientos y crear los mecanismos que sean necesarios para garantizar que las inquietudes, requerimientos y propuestas de los ciudadanos sean elevadas al Consejo Estatal;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XIX. Generar y recabar información sobre:
+…”
 
-a) Las causas estructurales del delito;
+DÉCIMO SEGUNDO. Se reforma el artículo 5 del Acuerdo General 47/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, para quedar como sigue:
 
-b) Estadísticas de conductas ilícitas no denunciadas;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
 
-c) Diagnósticos socio demográficos;
+DÉCIMO TERCERO. Se reforma el artículo 5 del Acuerdo General 44/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, con residencia en Torreón, para quedar como sigue:
 
-d) Prevención de la violencia infantil y juvenil;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
 
-e) Erradicación de la violencia entre grupos vulnerables; y
+DÉCIMO CUARTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 7/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Colima, con residencia en la ciudad del mismo nombre, para quedar como sigue:
 
-f) Modelos de atención integral a las víctimas;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XX. Organizar y difundir los resultados y conclusiones de las conferencias, seminarios, reuniones y demás acciones destinadas a profundizar en aspectos técnicos de experiencias nacionales e internacionales sobre la prevención social de la violencia y la delincuencia;
+…”
 
-XXI. Brindar asesoría a las autoridades estatales, y municipales, así como a la sociedad civil, organizada o no, cuando estas así lo soliciten;
+DÉCIMO QUINTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 3/2016 del Pleno del Consejo de la Judicatura Federal, que crea los centros de Justicia Penal Federal en la Ciudad de México, con sede en los reclusorios Oriente, Sur y Norte, para quedar como sigue:
 
-XXII. Proponer al Secretariado Ejecutivo del Sistema la celebración de convenios de formación, capacitación, especialización y actualización de servidores públicos cuyas funciones incidan en la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XXIII. Intercambiar y desarrollar mecanismos de aprendizaje de experiencias nacionales e internacionales;
+…
 
-XXIV. Difundir la recopilación de las mejores prácticas nacionales e internacionales sobre prevención social de la violencia y la delincuencia, y los criterios para tal determinación;
+…
 
-XXV. Analizar las inquietudes, requerimientos y propuestas de los ciudadanos a través de las instancias creadas al efecto, a partir de las directrices y mecanismos establecidos por el Reglamento del Centro Estatal;
+…”
 
-XXVI. Dar respuesta a las temáticas planteadas por la participación ciudadana y comunitaria;
+DÉCIMO SEXTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 52/2014 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Durango, para quedar como sigue:
 
-XXVII. Promover los programas federales que la Secretaría de Gobernación a través de la Subsecretaria de Prevención y Participación Ciudadana por conducto del Centro Nacional establezcan a nivel nacional;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XXVIII. Coordinar los programas y acciones que en materia de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana se desarrollen en el Estado;
+…”
 
-XXIX. Promover la participación ciudadana en la prevención social del delito;
+DÉCIMO SÉPTIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 31/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Guanajuato, para quedar como sigue:
 
-XXX. Promover el intercambio de experiencias en materia de Prevención Social de la Violencia y la Delincuencia con instituciones nacionales e internacionales;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XXXI. Promover la participación ciudadana en materia de cultura de la legalidad y la denuncia;
+…”
 
-XXXII. Participar en la promoción de la participación ciudadana en el marco del Programa Nacional de Seguridad Pública;
+DÉCIMO OCTAVO. Se reforma el artículo 5, párrafo primero del Acuerdo General 32/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Guerrero, con residencia en Acapulco, para quedar como sigue:
 
-XXXIII. Promover las políticas públicas y lineamientos en materia de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XXXIV. Someter a consideración del Consejo Estatal, los lineamientos de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+…”
 
-XXXV. Impulsar el establecimiento y operación de sistemas de vigilancia y de seguimiento de los fenómenos delincuenciales locales, para identificar zonas de riesgo, grupos vulnerables, víctimas, victimarios y propiciar las acciones debidas en la prevención y el control de los hechos violentos o delictivos;
+DÉCIMO NOVENO. Se reforma el artículo 5, párrafo primero del Acuerdo General 6/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, para quedar como sigue:
 
-XXXVI. Promover mediante cualquier medio, la información de los servicios de llamadas de emergencia y de denuncia anónima;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XXXVII. Fungir como enlace de la Subsecretaría de Prevención, para difundir ante las Instituciones de Seguridad Pública del Estado y los Municipios, la implementación de políticas, lineamientos y protocolos en materia de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+…”
 
-XXXVIII. Coordinarse con la Comisión de Derechos Humanos del Estado de Aguascalientes, organismos no gubernamentales, organismos nacionales de protección a los derechos humanos, así como instituciones públicas y privadas para lograr el cumplimiento de las atribuciones que le confiere la presente Ley;
+VIGÉSIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 37/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Jalisco, con residencia en el Complejo Penitenciario Puente Grande, para quedar como sigue:
 
-XXXIX. Emitir opiniones y propuestas en materia de Prevención Social del Delito y la Violencia con Participación Ciudadana ante la Secretaría de Seguridad Pública del Estado;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XL. Promover la participación de la comunidad y de instituciones y organizaciones públicas, privadas y sociales para el fortalecimiento del respeto a los derechos humanos, así como coadyuvar en el diseño, elaboración, ejecución y evaluación de políticas públicas y programas de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+…”
 
-XLI. Realizar cursos, coloquios, foros o cualquier otra actividad de carácter cultural o académico en materia de prevención social del delito, participación ciudadana y derechos humanos;
+VIGÉSIMO PRIMERO. Se reforma el artículo 5 del Acuerdo General 4/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, para quedar como sigue:
 
-XLII. Promover la inclusión de contenidos relativos a la prevención social del delito en los programas educativos, de salud, de desarrollo social y en general en los diversos programas de las dependencias y entidades estatales, así como colaborar con los Municipios en esta misma materia;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
 
-XLIII. Requerir a las instancias de Seguridad Pública de los municipios la información necesaria para realizar estudios, por si o por terceros, sobre las variables que inciden en la violencia y el delito, distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar la política criminal y de seguridad pública en el Estado;
+VIGÉSIMO SEGUNDO. Se reforma el artículo 5 del Acuerdo General 26/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Michoacán, con residencia en Morelia, para quedar como sigue:
 
-XLIV. Realizar encuestas sobre victimología, percepción de seguridad, fenómenos delictivos y otras que coadyuven a la Prevención Social del Delito y la Violencia;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
 
-XLV. Realizar acciones para promover la cultura de la denuncia entre la sociedad;
+VIGÉSIMO TERCERO. Se reforma el artículo 5 del Acuerdo General 5/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en la Ciudad de Cuernavaca, para quedar como sigue:
 
-XLVI. Promover programas y políticas públicas en coordinación con las autoridades competentes, que fomenten en la sociedad valores culturales y cívicos, el empoderamiento ciudadano, la cultura de la legalidad y que promuevan la paz, la protección de las víctimas, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
 
-XLVII. Fomentar la investigación científica y tecnológica para identificar los factores que generan las conductas antisociales;
+VIGÉSIMO CUARTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 49/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Nayarit, con residencia en Tepic, para quedar como sigue:
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-XLVIII. Promover ante las instituciones públicas, el establecimiento de políticas que aseguren la prevención social del delito, atención y protección de grupos vulnerables. Cuando las políticas se enfoquen en niños, niñas, y adolescentes, se deberá contemplar también a instituciones privadas;
+…”
 
-XLIX. Proponer en coordinación con las autoridades competentes, políticas para la prevención, atención, sanción y erradicación de la violencia, especialmente la ejercida contra las niñas y los niños, los jóvenes, las mujeres, los indígenas, y los adultos mayores;
+VIGÉSIMO QUINTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 10/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta, para quedar como sigue:
 
-L. Promover políticas para la igualdad y equidad de género;
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+…”
 
-LI. Realizar campañas para prevenir la violencia generada por el uso de armas, el abuso de drogas, y alcohol, entre otros problemas de relevancia social, en coordinación con las autoridades competentes en dichas materias, autoridades educativas y las organizaciones de la sociedad civil;
+VIGÉSIMO SEXTO. Se reforma el artículo 5 del Acuerdo General 46/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec, para quedar como sigue:
 
-LII. Llevar a cabo campañas de prevención de violencia infantil y juvenil en coordinación con las autoridades competentes; y
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
 
-LIII. Las demás que establezcan otras disposiciones aplicables.
+VIGÉSIMO SÉPTIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 51/2014 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Puebla, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+VIGÉSIMO OCTAVO. Se reforma el artículo 5, párrafo primero del Acuerdo General 33/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Querétaro, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+VIGÉSIMO NOVENO. Se reforma el artículo 5, párrafo primero del Acuerdo General 11/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Quintana Roo, con residencia en Cancún, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+TRIGÉSIMO. Se reforma el artículo 5 del Acuerdo General 34/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de San Luis Potosí, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO PRIMERO. Se reforma el artículo 5 del Acuerdo General 45/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO SEGUNDO. Se reforma el artículo 5, párrafo primero del Acuerdo General 24/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+TRIGÉSIMO TERCERO. Se reforma el artículo 5 del Acuerdo General 9/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Tabasco, con residencia en Villahermosa, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO CUARTO. Se reforma el artículo 5 del Acuerdo General 31/2016 del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Reynosa y Ciudad Victoria, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO QUINTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 50/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Tlaxcala, con residencia en Apizaco, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+TRIGÉSIMO SEXTO. Se reforma el artículo 5 del Acuerdo General 25/2016 del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en el Estado de Veracruz de Ignacio de la Llave, con residencia en las ciudades de Xalapa y Coatzacoalcos, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO SÉPTIMO. Se reforma el artículo 5 del Acuerdo General 1/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Yucatán, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO OCTAVO. Se reforma el artículo 5 del Acuerdo General 2/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Zacatecas, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO NOVENO. Se reforman los numerales CUARTO, fracción I, párrafo segundo; y QUINTO QUATER; y se deroga el numeral SEGUNDO, fracción I, número 5, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. …
+
+1. a 4. …
+
+5. Derogado.
+
+6. …
+
+II. a XXXII. ...”
+
+“CUARTO. …
+
+I. …
+
+Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados de Distrito Especializados en Ejecución de Penas, que ejercerán jurisdicción territorial en toda la República Mexicana.
+
+…
+
+II. a XXXIII. …
+
+QUINTO QUATER. El Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, está conformado por ocho jueces de Control y un Tribunal Unitario de Circuito, con jurisdicción en toda la República Mexicana.”
+
+CUADRAGÉSIMO. Las firmas electrónicas que hayan sido expedidas con anterioridad a la entrada en vigor del presente Acuerdo seguirán vigentes.
+
+CUADRAGÉSIMO PRIMERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo (sic) resulten competentes, llevarán a cabo las acciones para que los Jueces de Control que se integran al Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones inicien funciones en la fecha prevista en este Acuerdo.
+
+CUADRAGÉSIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 14 DE AGOSTO DE 2018.
 
 ###### Artículo 20.
 
