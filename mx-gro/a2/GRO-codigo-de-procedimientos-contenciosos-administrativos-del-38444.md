@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-contenciosos-administrativos-del-38444
 country: "mx"
 rank: "codigo"
 publication_date: "2004-03-09"
-last_updated: "2009-06-16"
+last_updated: "2018-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "GRO"
 ---
 # CODIGO DE PROCEDIMIENTOS CONTENCIOSOS ADMINISTRATIVOS DEL ESTADO DE GUERRERO, NUMERO 215
 
-CODIGO DE PROCEDIMIENTOS CONTENCIOSOS ADMINISTRATIVOS DEL ESTADO DE GUERRERO, NUMERO 215
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SÉPTIMO DEL CÓDIGO DE PROCEDIMIENTOS DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUERRERO, NÚMERO 763, PUBLICADO EN EL P.O. DE 14 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2009.
+CÓDIGO DE PROCEDIMIENTOS CONTENCIOSOS ADMINISTRATIVOS DEL ESTADO DE GUERRERO, NÚMERO 215
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 9 de marzo de 2004.
 
 RENE JUAREZ CISNEROS, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 
-Que el H. Congreso Local, se a servido comunicarme que,
+Que el H. Congreso Local, se ha servido comunicarme que,
 
 En virtud de lo anterior, y en cumplimiento al mandato emitido por el Pleno de esta soberanía, los ciudadanos Diputados integrantes de la Comisión Ordinaria de Justicia, presentaron el Dictamen con proyecto de Código de Procedimientos Contenciosos Administrativos del Estado de Guerrero, bajo los siguientes:
 
@@ -49,13 +51,13 @@ SEXTO.- Que los Diputados integrantes de la Comisión de Justicia, llevaron a ca
 
 SEPTIMO.- Que al realizar un estudio exhaustivo a la iniciativa de Código de Procedimientos Contenciosos Administrativos del Estado de Guerrero, enviada a esta Soberanía por el Secretario General de Gobierno en representación del titular del Poder Ejecutivo, Licenciado René Juárez Cisneros, la comisión dictaminadora considera procedente dicha iniciativa.
 
-OCTAVO.- Que la Comisión de Justicia sugiere modificar del Titulo Primero Capítulo I, el contenido del articulo 1 ya que de la forma en que está redactado permite que el Tribunal de lo Contencioso Administrativo conozca de actos de personas que no son autoridad, pero que tienen naturaleza de actos de autoridad; en todo caso, sí la persona no tiene el carácter de servidor público y no trabaja para el Estado o algún Municipio, no debe tratársele como autoridad, porque usurpa funciones de autoridad, y su actuación no sería un acto de autoridad, sino una usurpación de funciones, y por lo tanto, irregular y constitutivo de delito, por lo tanto se propone que quede de la manera siguiente:
+OCTAVO.- Que la Comisión de Justicia sugiere modificar del Título Primero Capítulo I, el contenido del artículo 1 ya que de la forma en que está redactado permite que el Tribunal de lo Contencioso Administrativo conozca de actos de personas que no son autoridad, pero que tienen naturaleza de actos de autoridad; en todo caso, sí la persona no tiene el carácter de servidor público y no trabaja para el Estado o algún Municipio, no debe tratársele como autoridad, porque usurpa funciones de autoridad, y su actuación no sería un acto de autoridad, sino una usurpación de funciones, y por lo tanto, irregular y constitutivo de delito, por lo tanto se propone que quede de la manera siguiente:
 
 ###### ARTICULO 1.
 
 El presente Código es de orden público e interés social y tiene como finalidad substanciar y resolver las controversias en materia administrativa y fiscal que se planteen entre los particulares y las autoridades del Poder Ejecutivo del Estado, Municipales, de los Organismos Públicos Descentralizados con funciones de autoridad del Estado de Guerrero, así como las resoluciones que se dicten por autoridades competentes en aplicación de la Ley de Responsabilidades de los Servidores Públicos.
 
-NOVENO.- En el análisis del Capitulo III, denominado de las notificaciones y plazos, proponen en el articulo 29 al iniciar el contenido del mismo sustituir la palabra "las" por "los" ya que se refiere a la obligación que tienen los particulares de señalar domicilio procesal para oír y recibir notificaciones y con lo propuesto queda más preciso, para quedar como sigue:
+NOVENO.- En el análisis del Capítulo III, denominado de las notificaciones y plazos, proponen en el artículo 29 al iniciar el contenido del mismo sustituir la palabra "las" por "los" ya que se refiere a la obligación que tienen los particulares de señalar domicilio procesal para oír y recibir notificaciones y con lo propuesto queda más preciso, para quedar como sigue:
 
 ###### ARTICULO 29.
 
@@ -1439,7 +1441,7 @@ C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.]</small>
 
 P.O. 16 DE JUNIO DE 2009.
 
@@ -1472,3 +1474,23 @@ DÉCIMO TERCERO.- Sin perjuicio de las bases previstas en el presente Decreto, l
 DÉCIMO CUARTO.- Se derogan todas aquellas disposiciones contenidas en leyes, reglamentos, decretos y acuerdos, que se opongan o que ya se contengan en este decreto.
 
 DÉCIMO QUINTO.- Remítase al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE PROCEDIMIENTOS DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUERRERO, NÚMERO 763”.]
+
+PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. El Congreso del Estado aprobará el presupuesto suficiente para la operación del Sistema Estatal Anticorrupción en el ámbito de competencia del Tribunal de Justicia Administrativa del Estado a partir del ejercicio fiscal 2018.
+
+TERCERO. La operación de los juicios en línea y las audiencias orales se implementarán de manera gradual, de acuerdo con el presupuesto que para tal efecto asigne el Congreso del Estado.
+
+CUARTO. En tanto no entren en vigor las disposiciones de los juicios en línea y las audiencias orales, los procedimientos contenciosos administrativos se tramitarán de manera tradicional.
+
+QUINTO. Los procesos iniciados antes de la entrada en vigor del presente Código, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
+
+SEXTO. El Pleno de la Sala Superior del Tribunal aprobará el Reglamento Interior de la Institución, en un plazo de ciento ochenta días, contados a partir del día siguiente de la entrada en vigor del presente Código.
+
+SÉPTIMO. A partir de la entrada en vigor de este Código, queda abrogado el Código de Procedimientos Contenciosos Administrativos del Estado de Guerrero, número 215, publicado en el Periódico Oficial del Gobierno del Estado número 22, de fecha 9 de marzo de 2004.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Código.
