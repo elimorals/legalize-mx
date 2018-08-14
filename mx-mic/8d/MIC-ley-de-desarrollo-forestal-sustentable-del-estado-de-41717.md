@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-forestal-sustentable-del-estado-de-41717"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-22"
-last_updated: "2016-12-29"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 22 de noviembre de 2004.
 
@@ -1591,19 +1591,21 @@ Las sanciones serán:
 
 I. Multa que se determinará en los casos y montos siguientes:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
-a) Con el equivalente de 100 a 3,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, X, XI, XII, XIV, XV y XVIII del artículo 160 de esta Ley;
+a) Con el equivalente de 200 a 6,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, X, XI, XII, XIV, XV y XVIII del artículo 160 de esta Ley;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
-b) Con el equivalente de 250 a 20,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: II, III, IV, V, VI, XIII, XVII y XIX del artículo 160 de esta Ley;
+b) Con el equivalente de 500 a 40,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: II, III, IV, V, VI, XIII, XVII y XIX del artículo 160 de esta Ley;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
-c) Con el equivalente de 500 a 40,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: VII, VIII, IX y XVI del artículo 160 de esta Ley;
+c) Con el equivalente de 1,000 a 80,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: VII, VIII, IX y XVI del artículo 160 de esta Ley;
 
-II. Además de las multas que se establecen en la fracción anterior, se harán acreedores, en su caso, a la clausura temporal o definitiva, parcial o total de los establecimientos o la cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso, o de la inscripción registral, o de las actividades de que se trate, a las personas físicas o morales que incurran en los supuestos previstos en las fracciones: III, IV, VI, X, XI, XII, XIII, y XIX del artículo 160 de la presente Ley; y,
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
+II. Además de las multas que se establecen en la fracción anterior, se harán acreedores, en su caso, a la clausura temporal o definitiva, parcial o total de los establecimientos; la cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento, uso o de la inscripción registral de las actividades de que se trate, el desmantelamiento o remoción de los objetos y vegetación inducida en las áreas forestales o preferentemente forestales, a las personas físicas o morales que incurran en los supuestos previstos en las fracciones: III, IV, VI, X, XI, XII, XIII, XVI y XIX, del artículo 160 de la presente Ley; y,
 
 III. Además de las sanciones que se establecen en las fracciones I y II, se harán acreedores, en su caso, al decomiso por parte de la autoridad, de las materias primas obtenidas, así como de los instrumentos, maquinaria, equipos y herramientas o los medios de transporte utilizados, las personas físicas o morales que incurran en los supuestos previstos por el artículo 160 de esta Ley.
 
@@ -1641,21 +1643,25 @@ V. Las condiciones económicas, sociales y culturales del infractor; y,
 
 VI. La reincidencia.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 165.
 
-Cuando proceda como sanción la clausura o cancelación temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta administrativa detallada de la diligencia, cumpliendo para ello los lineamientos generales establecidos en la presente Ley para las inspecciones.
+Cuando proceda como sanción la clausura, la cancelación temporal o definitiva, total o parcial de los centros de transformación, el desmantelamiento o remoción de los objetos y vegetación inducida en las áreas forestales o preferentemente forestales, el personal comisionado para ejecutarla procederá a levantar acta administrativa detallada de la diligencia, cumpliendo para ello los lineamientos generales establecidos en la presente Ley para las inspecciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 166.
 
-Cuando de las visitas de inspección que contempla esta Ley, se presuma que existe riesgo inminente de daños o deterioro grave al medio ambiente, o cuando se detecte por la autoridad competente la flagrancia en la Comisión de un delito o infracción administrativa grave, la Comisión podrá ordenar cualquiera de las siguientes medidas de seguridad:
+Cuando de las visitas de inspección que contempla esta Ley, se presuma que existe riesgo inminente de daños o deterioro grave al ambiente, o cuando se detecte por la autoridad competente la flagrancia en la Comisión de un delito o infracción administrativa grave, la Comisión podrá ordenar cualquiera de las siguientes medidas de seguridad:
 
 I. La detención de los presuntos responsables, quienes deberán, sin demora, ser puestos a disposición de la autoridad competente;
 
 II. El aseguramiento precautorio de los recursos y materias primas forestales, así como de los bienes, vehículos, utensilios, herramientas, equipo y cualquier instrumento directamente relacionado con la acción u omisión que origine la imposición de esta medida;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
-III. La clausura temporal de las operaciones del establecimiento, o la suspensión parcial o total del funcionamiento de la maquinaria o equipos, dedicada al aprovechamiento, almacenamiento o transformación de los recursos y materias primas o el desmantelamiento y remoción (sic) los objetos y vegetación inducida, de los sitios o instalaciones, en donde se desarrollan los actos que puedan dañar la biodiversidad o los recursos naturales; y,
+III. La clausura temporal de las operaciones del establecimiento, o la suspensión parcial o total del funcionamiento de la maquinaria o equipos, dedicada al aprovechamiento, almacenamiento o transformación de los recursos y materias primas, de los sitios o instalaciones, en donde se desarrollan los actos que puedan dañar la biodiversidad o los recursos naturales; y,
 
 IV. La suspensión temporal, parcial o total del aprovechamiento o de las actividades que se trate.
 
@@ -1747,7 +1753,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
 
-> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 23 DE AGOSTO DE 2007.
 
@@ -1790,3 +1796,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 613.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS 302, 304, 306; Y SE ADICIONA EL ARTÍCULO 304 BIS AL CÓDIGO PENAL PARA ESTADO DE MICHOACÁN.- ARTÍCULO SEGUNDO.- SE REFORMA LOS ARTÍCULOS 162, 165 Y 166 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
