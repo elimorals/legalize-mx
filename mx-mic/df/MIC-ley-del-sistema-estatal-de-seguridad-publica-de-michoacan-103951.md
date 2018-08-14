@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-de-seguridad-publica-de-michoacan-10395
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2017-08-18"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
 
@@ -1883,17 +1883,25 @@ La Profesionalización es el proceso permanente y progresivo de formación que s
 
 Los planes de estudio para la profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza (sic) aprendizaje que estarán comprendidos en el Programa Rector que aprueben la Conferencia Nacional de Secretarios de Seguridad Pública y, en su caso, la Conferencia Nacional de Procuradores.
 
-### CAPÍTULO OCTAVO. COMISIÓN DE HONOR Y JUSTICIA PARA LOS INTEGRANTES DE LAS CORPORACIONES POLICIALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO OCTAVO. COMISIÓN DE HONOR Y JUSTICIA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 ###### Artículo 151.
 
 La Comisión de Honor y Justicia conocerá y resolverá toda controversia que se suscite con relación a los procedimientos de la carrera policial y el régimen disciplinario.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 152.
 
-La Comisión de Honor y Justicia estará integrada por el Secretario de Seguridad Pública quien funge como presidente, los titulares de las unidades operativas de investigación, prevención, reacción y, seguridad y custodia.
+La Comisión de Honor y Justicia es el órgano colegiado, que tiene por objeto vigilar la honorabilidad y buena reputación de los integrantes de la Secretaría de Seguridad Pública; combatir la comisión de conductas lesivas en agravio de la sociedad o de las instituciones de gobierno, por lo que gozará de amplias atribuciones para examinar los expedientes y hojas de servicio, practicar lícitamente cualquier actuación para allegarse de los medios de prueba necesarios con el objeto de dictar sus resoluciones, se integra cuando menos por:
 
-El Presidente podrá ser suplido en sus ausencias por el Subsecretario que él designe.
+I. El Secretario de Seguridad Pública, quien fungirá como Presidente; y,
+
+II. Los titulares de las unidades operativas de investigación, prevención y reacción de la Secretaría, quienes fungirán como vocales.
+
+El Presidente podrá ser suplido en sus ausencias por el funcionario que designe.
 
 ###### Artículo 153.
 
@@ -2081,17 +2089,35 @@ Las instituciones de Seguridad Pública exigirán de sus integrantes el más est
 
 El régimen disciplinario se ajustará a los principios establecidos en la Constitución, la Constitución Estatal, la presente Ley y los ordenamientos legales aplicables, y comprenderá los deberes, las correcciones disciplinarias, las sanciones y los procedimientos para su aplicación.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+El régimen disciplinario en la Secretaría, estará a cargo de la Unidad de Asuntos Internos, instancia dependiente del titular de la Secretaría, la que será encargada de recibir las quejas en contra de los integrantes de la Secretaría, e integrar las correspondientes carpetas de investigación; ello conforme a lo establecido en el Reglamento de la Comisión de Honor y Justicia de la Secretaría de Seguridad Pública, también será la responsable de resolver sobre iniciación del procedimiento administrativo disciplinario; acordar y desahogar las diligencias correspondientes hasta su conclusión, así como de elaborar el proyecto de resolución para presentarlo a la Comisión de Honor y Justicia.
+
 ###### Artículo 171.
 
 La aplicación de las sanciones deberá registrarse en el expediente personal del infractor.
 
 La imposición de las sanciones que determinen las autoridades correspondientes se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurran los elementos de los cuerpos de Seguridad Pública de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 172.
 
-El procedimiento iniciará por solicitud fundada y motivada del titular de la unidad operativa que corresponda, dirigida a la unidad de asuntos internos de la Secretaría, quien realizará las diligencias necesarias, instruirá el procedimiento y propondrá a la Comisión de Honor y Justicia el proyecto de resolución que resulte.
+La investigación y substanciación del procedimiento administrativo disciplinario estará a cargo de la Unidad de Asuntos Internos e iniciará por:
 
-El presunto infractor tendrá derecho de audiencia en el procedimiento instaurado y podrá hacerse acompañar de persona que lo asista.
+a) Instrucción escrita, fundada y motivada del titular de la Secretaría de Seguridad Pública;
+
+b) Queja que presente la ciudadanía en la Unidad de Asuntos Internos, sea por comparecencia, de manera anónima o cualquier medio legal a su alcance; y,
+
+c) Las previstas en el Reglamento de la Comisión de Honor y Justicia de la Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+###### Artículo 172 Bis.
+
+Cuando del resultado de las actuaciones realizadas para la integración de la carpeta de investigación, se desprenda que el integrante de la Secretaría incurrió en faltas graves, la Unidad de Asuntos Internos resolverá sobre el inicio del procedimiento administrativo disciplinario, y en su caso, elaborará el proyecto de resolución una vez agotado el procedimiento, mismo que se notificará al pleno de la Comisión de Honor y Justicia, la que emitirá la resolución definitiva.
+
+Instaurado el procedimiento administrativo disciplinario, el presunto infractor gozará del derecho de audiencia, quien podrá ser asistido por un abogado o persona de su confianza; a petición, la Secretaría le proporcionará asesoría legal a través de la Dirección de Asuntos Jurídicos.
 
 Los procedimientos deberán realizarse con estricto apego a las disposiciones legales aplicables y observará en todo momento las formalidades esenciales del procedimiento.
 
@@ -2184,3 +2210,11 @@ P.O. 18 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 391.- PRIMERO. SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO VIGÉSIMO PRIMERO Y SE REFORMAN LOS ARTÍCULOS 291 Y 292 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN; SEGUNDO. SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN III Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 80 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 605.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO OCTAVO DEL TÍTULO SEGUNDO, EL ARTÍCULO 152 Y 172; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 170 Y EL ARTÍCULO 172 BIS, TODOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
