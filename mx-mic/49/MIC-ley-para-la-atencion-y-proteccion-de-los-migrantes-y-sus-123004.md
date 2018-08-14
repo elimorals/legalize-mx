@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-proteccion-de-los-migrantes-y-sus-123004
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-18"
-last_updated: "2017-08-18"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 18 de agosto de 2017.
 
@@ -294,6 +294,10 @@ XXII. Difundir la información respecto a las políticas públicas dirigidas a l
 XXIII. Difundir las actividades y programas del sector público y privado de interés para los migrantes; y,
 
 XXIV. Las demás que le confieren las normas jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+Los servicios que se brindan en la Secretaría son de calidad, ante ello, cada uno de los procesos que aquellos conllevan estarán certificados en aras de garantizarla.
 
 ###### Artículo 13.
 
@@ -1100,3 +1104,13 @@ ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 20 veinte días del mes de julio de 2017 dos mil diecisiete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- LIC. ADRIÁN LÓPEZ SOLÍS.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 604 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 12 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría contará con 180 días, contados a partir de la entrada en vigor del presente Decreto, para iniciar la certificación de sus procesos. En caso de que, derivado de su asignación presupuestal no contara con el recurso económico necesario para dicho proceso, podrá auxiliarse de la Secretaría de Finanzas y Administración, a través de la Subsecretaría de Administración e Innovación de Procesos.
