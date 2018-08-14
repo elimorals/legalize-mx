@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2018-06-11"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -3567,6 +3567,8 @@ II. Derrame sustancias peligrosas o inflamables en vías de circulación.
 
 ### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 294.
 
 Violación de correspondencia o información
@@ -3691,7 +3693,7 @@ Se impondrán de dos a cinco años de prisión y de doscientos a quinientos día
 
 ###### Artículo 302.
 
-Delitos contra el ambiente
+Delitos contra el ambiente.
 
 Se impondrá pena de seis meses a nueve años de prisión y de cien a tres mil días multa, siempre que dichas actividades no se realicen en zonas urbanas, al que ilícitamente:
 
@@ -3702,6 +3704,10 @@ II. Corte, arranque, derribe o tale algún o algunos árboles; o,
 III. Cambie el uso del suelo forestal.
 
 La pena de prisión deberá aumentarse hasta en tres años más y la pena económica hasta en mil días multa, para el caso en el que las conductas referidas en las fracciones del primer párrafo del presente artículo afecten un área natural protegida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2018)</small>
+
+Además, podrá suspenderse, demoler o desmantelar, las construcciones, obras, actividades o vegetación inducida en las áreas forestales o preferentemente forestales, que hubieren dado lugar al delito ambiental.
 
 ###### Artículo 303.
 
@@ -3715,9 +3721,11 @@ II. De cinco a nueve años de prisión y de quinientos a cinco mil días multa, 
 
 III. De uno a cuatro años de prisión y de doscientos a dos mil días multa, si se trata de colofonia o resina en cantidad superior a cien kilogramos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 304.
 
-Delitos forestales específicos
+Delitos forestales específicos.
 
 Se impondrá de dos a nueve años de prisión y de cincuenta a quinientos días multa, al que dolosamente:
 
@@ -3729,9 +3737,37 @@ III. Proporcione información falsa u oculte datos para obtener un permiso de ap
 
 IV. Autorice un aprovechamiento forestal en cuanto funcionario, servidor público o técnico forestal, a sabiendas de la ilicitud del hecho;
 
-V. Utilice documentación forestal de manera ilegal; y,
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
-VI. Aproveche tierra o material orgánico proveniente de suelo forestal en cantidad superior a tres metros cúbicos.
+V. Utilice documentación forestal de manera ilegal;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
+VI. Aproveche tierra o material orgánico proveniente de suelo forestal en cantidad superior a tres metros cúbicos; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2018)</small>
+
+VII. Provoque incendios en zonas forestales para instalar huertas o para cambiar el uso de suelo con fines distintos al forestal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2018)</small>
+
+Se aplicará una pena adicional hasta de dos años de prisión y hasta mil días de multa adicionales a quien participe del delito previsto en la fracción VII, para obtener un lucro o beneficio económico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2018)</small>
+
+Los parámetros mínimos y máximos de las penas de prisión a que se refiere el presente Título se disminuirán a la mitad, cuando el imputado o procesado repare o compense voluntariamente el daño al ambiente antes de que tal obligación le haya sido impuesta por resolución administrativa o sentencia judicial. Dicha disminución procederá también, cuando se realice o garantice la reparación o compensación del daño en términos de lo dispuesto por la Ley de Responsabilidad Ambiental para el Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+###### Artículo 304 Bis.
+
+Las mismas penas que correspondan al autor del delito o delitos ambientales, además de la inhabilitación para desempeñar otro cargo, empleo o comisión hasta por cinco años se aplicarán al servidor público, que haya incurrido respecto de esos delitos en alguna de las siguientes conductas:
+
+I. Conceda licencia o autorización, de manera ilícita, para el funcionamiento de industrias, aprovechamiento forestal o cualquiera otra actividad reglamentada, sin la debida previsión o con el conocimiento de las condiciones (sic) causarán contaminación o sean nocivas a los recursos naturales, o que con motivo de sus inspecciones hubiere dejado de actuar conforme a sus atribuciones, una vez detectada la infracción de las normas respectivas; o,
+
+II. Intervenga en la comisión de un delito, durante el ejercicio de sus funciones, con motivo de sus funciones o aprovechándose de su calidad de servidor público.
+
+En el caso de los delitos contra el ambiente, cuando el autor o partícipe tenga la calidad de garante respecto de los bienes tutelados, la pena de prisión se aumentará hasta en tres años.
 
 ###### Artículo 305.
 
@@ -3739,11 +3775,13 @@ Excluyente de incriminación
 
 No se impondrá pena alguna a quien por su extrema pobreza y urgente necesidad realice aprovechamientos forestales en cantidades estrictamente para su consumo familiar, siempre y cuando no exceda de un metro cubico, y estos productos no salgan del lugar de vecindad inmediata.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 306.
 
-Reparación del daño en delitos contra el ambiente
+Reparación del daño en delitos contra el ambiente.
 
-La reparación del daño tratándose de delitos contra la ecología consistirá en la realización de acciones necesarias para restablecer las condiciones ecológicas anteriores a la realización del ilícito, en la medida de lo posible.
+La reparación del daño tratándose de delitos contra el ambiente consistirá en la realización de acciones necesarias en la medida de lo posible para restablecer las condiciones ecológicas anteriores a la realización del ilícito, y en su caso, la compensación del daño al ambiente, de conformidad a lo dispuesto en la Ley de Responsabilidad Ambiental para el Estado de Michoacán de Ocampo.
 
 ###### Artículo 307.
 
@@ -4040,5 +4078,11 @@ P.O. 18 DE AGOSTO DE 2017.
 P.O. 11 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 588 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 164, 170, 254 TER, 299 Y 300; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 69, UNA FRACCIÓN II RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 137 Y EL ARTÍCULO 198 BIS; Y SE DEROGAN LOS ARTÍCULOS 254 QUATER Y 254 QUINQUIES DEL CÓDIGO PENAL DEL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 613 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 302, 304, 306; Y SE ADICIONA EL ARTÍCULO 304 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
