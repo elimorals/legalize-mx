@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-voluntad-vital-anticipada-del-estado-de-michoacan-de-702
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-21"
-last_updated: "2016-12-29"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE VOLUNTAD VITAL ANTICIPADA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE VOLUNTAD VITAL ANTICIPADA DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE VOLUNTAD VITAL ANTICIPADA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el lunes 21 de septiembre de 2009.
 
@@ -181,7 +181,9 @@ VI. Garantizar y supervisar, la oportuna prestación de los servicios y la perma
 
 VII. Las demás obligaciones legales relativas a la materia, contenidas en otras disposiciones jurídicas aplicables.
 
-### CAPÍTULO CUARTO. De los Requisitos y Procedimientos de la Solicitud de Voluntad Vital Anticipada
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO CUARTO. De los Requisitos y Procedimientos de la Solicitud de Voluntad Vital Anticipada y del Consentimiento Informado
 
 ###### Artículo 9.
 
@@ -202,6 +204,22 @@ No serán aplicadas las peticiones contenidas en el acta, documento o formato qu
 ###### Artículo 12.
 
 El médico tratante y demás personal sanitario que sin causa justificada deje de proporcionar los cuidados paliativos a los enfermos en estado terminal, incurrirán en responsabilidad profesional y administrativa, y serán sancionados de acuerdo a lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+###### Artículo 12 Bis.
+
+Para que el consentimiento informado se considere existente y valido, el paciente, o en su caso, su representante legal deberá recibir una explicación clara y completa, de tal forma que pueda comprenderla, considerando los siguientes aspectos:
+
+I. Los riesgos de recibir cuidados paliativos en sustitución de tratamientos curativos;
+
+II. La disponibilidad y costo aproximado del tratamiento paliativo; y,
+
+III. De ser el caso, mencionarle los beneficios que ocasionalmente pudieran observarse con el tratamiento paliativo.
+
+Los demás que el Comité Técnico de Voluntad Vital Anticipada considere necesarios.
+
+El documento que contenga el consentimiento informado deberá ser revisado y aprobado por el Comité Técnico de Voluntad Vital Anticipada, en el cual además de los anteriores requisitos deberán señalarse los generales del paciente o representante legal y de los de dos testigos, acompañado de sus firmas.
 
 ### CAPÍTULO QUINTO. De los Requisitos y Formalidades del Acta, Formato y Documento
 
@@ -504,3 +522,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 612.- SE REFORMA EL NOMBRE DEL CAPÍTULO CUARTO Y SE ADICIONA EL ARTÍCULO 12 BIS A LA LEY DE VOLUNTAD VITAL ANTICIPADA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
