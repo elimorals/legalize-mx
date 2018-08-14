@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2018-06-11"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -317,39 +317,45 @@ II. La Secretaría de Seguridad Pública;
 
 III. La Secretaría de Educación;
 
-IV. La Secretaría de Salud;
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
-V. La Secretaría de Política Social;
+IV. La Secretaría de Cultura;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
+V. La Secretaría de Salud;
 
-VI. La Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
-VII. La Procuraduría General de Justicia del Estado;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
-
-VIII. El Sistema para el Desarrollo Integral de la Familia Michoacana;
+VI. Secretaría de Desarrollo Social y Humano;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
 
-IX. Un Ayuntamiento por cada una de las diez regiones socioeconómicas del Estado, a invitación del Sistema Estatal;
+VII. La Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas;
+
+VIII. La Procuraduría General de Justicia del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
+
+IX. El Sistema para el Desarrollo Integral de la Familia Michoacana;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
+
+X. Un Ayuntamiento por cada una de las diez regiones socioeconómicas del Estado, a invitación del Sistema Estatal;
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
 
-X. La Comisión Estatal de los Derechos Humanos;
+XI. La Comisión Estatal de los Derechos Humanos;
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
 
-XI. La Comisión de Igualdad de Género del Congreso de Estado;
+XII. La Comisión de Igualdad de Género del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
+XIII. Representantes de instituciones académicas o de investigación con conocimiento y trabajo relevante sobre el tema de la violencia contra la mujer; y,
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
 
-XII. Representantes de instituciones académicas o de investigación con representación estatal, conocimiento y trabajo relevante sobre el tema de la violencia contra la mujer; y,
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
-
-XIII. Organizaciones de la sociedad civil con conocimiento y trabajo relevante sobre el tema de la violencia contra la mujer en el Estado.
+XIV. Organizaciones de la sociedad civil con conocimiento y trabajo relevante sobre el tema de la violencia contra la mujer en el Estado.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
 
@@ -470,6 +476,26 @@ II. Notificar a la autoridad competente de los casos de violencia contra las muj
 III. Proporcionar información, formación y capacitación a todo el personal de los centros educativos del Estado en materia de derechos humanos de las mujeres, políticas de prevención, atención, sanción y erradicación de la violencia de género contra las mujeres; y,
 
 IV. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos, para que se dé una primera respuesta urgente a las alumnas que sufren algún tipo de violencia.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 31 bis. Corresponde al titular de la Secretaría de Cultura desempeñar las siguientes facultades:
+
+I. Definir y difundir en las políticas culturales, los principios de equidad y no exclusión entre hombres y mujeres con base en los derechos humanos;
+
+II. Incluir en los programas culturales de las diferentes disciplinas artísticas, aspectos que fomenten el respeto a una vida libre de violencia y el respeto a la dignidad de las mujeres;
+
+III. Garantizar acciones que incentiven la participación y la inclusión de las mujeres en todos sus programas y actividades;
+
+IV. Propiciar la investigación en los procesos creativos de disciplinas artísticas, encaminadas a crear modelos que permitan detectar la violencia contra las mujeres en el ámbito profesional;
+
+V. Incorporar en los programas culturales, contenidos que coadyuven a través de las artes a abatir modelos de conductas sociales y culturales, que impliquen prejuicios, estereotipos o roles sociales, entre hombres y mujeres que pongan a hombres y mujeres en niveles de superioridad o inferioridad;
+
+VI. Propiciar la capacitación al personal de los recintos culturales en el Estado, para poder detectar problemas de violencia contra la mujer;
+
+VII. Propiciar la elaboración de materiales que promuevan la prevención y atención a la violencia contra las mujeres, en los programas de difusión o actividades culturales; y,
+
+VIII. Promover un sentido crítico en actividades y obras de autores, intérpretes o ejecutantes, que se puedan relacionar con la violencia contra las mujeres, o promocionen estereotipos que discriminen o incentiven la desigualdad entre hombres y mujeres.
 
 ###### ARTÍCULO 32.
 
@@ -1034,3 +1060,11 @@ P.O. 11 DE JUNIO DE 2018
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 589 POR EL QUE “SE REFORMA EL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 606.- SE ADICIONA LA FRACCIÓN IV, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 20 Y EL ARTÍCULO 31 BIS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales procedentes.
