@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-procuraduria-general-de-justicia-del-106240"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-02-26"
-last_updated: "2017-09-28"
+last_updated: "2018-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 26 de febrero de 2015.
 
@@ -1209,13 +1209,17 @@ P.O. 8 DE DICIEMBRE DE 2016.
 
 P.O. 18 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 370 POR EL QUE "SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 23, SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 18, LOS ARTÍCULOS 23 BIS, 23 TER, Y 23 QUÁTER, EL PÁRRAFO CUARTO AL ARTÍCULO 39 Y EL PÁRRAFO TERCERO AL ARTÍCULO 51 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 370 POR EL QUE "SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 23, SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 18, LOS ARTÍCULOS 23 BIS, 23 TER, Y 23 QUÁTER, EL PÁRRAFO CUARTO AL ARTÍCULO 39 Y EL PÁRRAFO TERCERO AL ARTÍCULO 51 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Gobernador del Estado realizará las acciones necesarias para que el Congreso apruebe el presupuesto de egresos y proveer de recursos a la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
 
 TERCERO. El Congreso del Estado, por conducto de las comisiones de Justicia y de Gobernación, emitirá convocatoria pública para la designación del Fiscal Especializado, en materia de delitos relacionados con hechos de corrupción, dentro de los noventa días hábiles posteriores a la publicación del presente Decreto.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+CUARTO. Los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto, así como los recursos humanos, financieros y materiales, adscritos a la Fiscalía Anticorrupción serán transferidos a la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción.
 
 P.O. 28 DE SEPTIEMBRE DE 2017.
 
@@ -1240,3 +1244,11 @@ SEXTO. El Congreso del Estado autorizará al Titular del Ejecutivo Estatal las m
 SÉPTIMO. La Comisión Ejecutiva deberá realizar las adecuaciones conducentes en términos del presente Decreto, en un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto. De igual forma deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley en el siguiente ejercicio fiscal, a su entrada en vigor.
 
 OCTAVO. La Secretaría de Finanzas y Administración supervisará que los recursos financieros, humanos y materiales destinados a la atención a víctimas de delitos o de violación a derechos humanos de la Procuraduría General de Justicia del Estado, se asignen a la Comisión Ejecutiva Estatal de Atención a Víctimas en un periodo no mayor a 90 días, con excepción de los destinados a la atención a víctimas en materia de delito de secuestro, los cuales continuarán formando parte de los recursos de la Procuraduría General de Justicia del Estado.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 607.- SE ADICIONA UN ARTÍCULO TRANSITORIO CUARTO AL DECRETO 370, POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 23, SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 18, LOS ARTÍCULOS 23 BIS, 23 TER, Y 23 QUÁTER, EL PÁRRAFO CUARTO AL ARTÍCULO 39 Y EL PÁRRAFO TERCERO AL ARTÍCULO 51 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
