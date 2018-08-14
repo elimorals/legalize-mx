@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2017-11-14"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -33,9 +33,9 @@ JOSE FRANCISCO RUIZ MASSIEU, Gobernador Constitucional del Estado Libre y Sobera
 
 Que el H. Congreso Local, se ha servido comunicarme que,
 
-LA QUINCUAGESIMA SEGUNDA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, TUVO A BIEN EXPEDIR LA SIGUIENTE:
+LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, TUVO A BIEN EXPEDIR LA SIGUIENTE:
 
-LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.
+LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.
 
 ## TITULO PRIMERO. DEL MUNICIPIO LIBRE
 
@@ -531,7 +531,11 @@ VI. Jefe de la unidad u oficina de atención de la juventud, y
 
 VII.- Dirección de Fomento al Empleo, y
 
-VIII.- Demás servidores de nivel equivalente.
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
+VIII.- Al Director (a) Municipal de la Mujer;
+
+IX.- Demás servidores de nivel equivalente.
 
 Los servidores públicos a que se refiere este artículo no podrán ser parientes de ningún edil hasta el cuarto grado por afinidad o consanguinidad.
 
@@ -917,17 +921,21 @@ XXII. Dividir el territorio Municipal para su gobierno interior en comisarías, 
 
 XXII-A.- Establecer Centros Micro-regionales de Servicios Públicos de carácter administrativo y técnico, en aquellas zonas que lo requieran, por razones de dispersión o concentración poblacional, accesibilidad a dichos servicios, facilidades de comunicación y patrones de vida social, determinando su jurisdicción territorial.
 
-XXIII. Designar a los delegados y subdelegados municipales, a los titulares de la Secretaría del Ayuntamiento y de la Contraloría Municipal a propuesta del Presidente Municipal;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
-XXIV. Calificar la elección de los Comisarios Municipales y formular la declaratoria de su nombramiento;
+XXIII. Designar a los delegados y subdelegados municipales y a los titulares de la Secretaría del Ayuntamiento a propuesta del Presidente Municipal;
 
-XXV. Expedir los bandos de policía y buen gobierno, y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, y
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+XXIV. Elegir mediante convocatoria pública abierta al titular del Órgano de Control Interno Municipal;
 
-XXVI. Determinar los límites territoriales que integran el primer cuadro de su cabecera municipal, y
+XXV. Calificar la elección de los Comisarios Municipales y formular la declaratoria de su nombramiento;
 
-XXVII. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
+XXVI. Expedir los bandos de policía y buen gobierno, y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones;
+
+XXVII. Determinar los límites territoriales que integran el primer cuadro de su cabecera municipal, y
+
+XXVIII. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
 ###### ARTICULO 62.
 
@@ -1203,49 +1211,35 @@ X. Ejercer las facultades que le confiere la Ley Federal de la Reforma Agraria, 
 
 XI. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 69.
 
-Son facultades y obligaciones del Ayuntamiento en materia de Equidad y Género las siguientes:
+Son facultades y obligaciones del Ayuntamiento en materia de igualdad entre mujeres y hombres y de prevención, atención, sanción y erradicación de la violencia contra las mujeres las siguientes:
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+I. Implementar la Estrategia Transversal Perspectiva de Género en todas las acciones de la Administración Pública Municipal, para generar un proceso de cambio notable al interior del gobierno, a efecto de que las diferentes dependencias y áreas realicen acciones especiales orientadas a garantizar los derechos de las mujeres, la igualdad de género, una vida sin violencia y sin discriminación.
 
-I. Implementar un programa municipal de Participación Equitativa de la Mujer, que considere acciones y presupuestos encaminados a mejorar sus condiciones de vida. Así como darle seguimiento y efectuar evaluaciones periódicas del mismo;
+II. Formular, conducir y evaluar el Programa Municipal para la Igualdad entre Mujeres y Hombres en concordancia con las políticas nacional y estatal;
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+III. Formular, conducir y evaluar el Programa Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, en concordancia con la política nacional y estatal;
 
-II. Apoyar las actividades productivas de las mujeres; promoviendo el empleo, gestionando créditos y apoyándoles en los trámites para su funcionamiento que permita a las mujeres contar con recursos para la creación de sus propios proyectos;
+IV. Instalar y operar el Sistema Municipal para la Igualdad entre Mujeres y Hombres y el Sistema Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-III. Establecer en coordinación con la Secretaría de la Mujer programas de capacitación y empleo, y
+V. Elaborar el presupuesto de egresos con enfoque de género, con asignación de recursos para el cumplimiento de la política de igualdad entre mujeres y hombres y de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+VI. Incorporar en el informe anual de gobierno, el estado que guarda la ejecución del Programa Municipal para la Igualdad entre Mujeres y Hombres y del Programa Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-IV. Intervenir en defensa de los derechos de las mujeres, impulsando la creación de centros de atención con áreas de salud, legal y social.
+VII. Promover la participación ciudadana en el seguimiento y evaluación del Programa Municipal para la Igualdad entre Mujeres y Hombres y del Programa Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+VIII. Crear y fortalecer la Unidad Municipal Especializada de Atención y Prevención de la Violencia contra las Mujeres con servicios jurídicos, psicológicos y de trabajo social;
 
-V. Impulsar acciones para la igualdad entre los géneros y promover, fomentar y defender los derechos de las mujeres y las niñas, al acceso pleno e igualitario a los recursos, a su integración a la actividad económica y a su participación en la vida pública y política;
+IX. Suscribir convenios y establecer mecanismos de coordinación con el gobierno federal y estatal y demás entes públicos para el cumplimiento de la política de igualdad entre mujeres y hombres y de prevención, atención, sanción y erradicación de la violencia contra las mujeres, y
 
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+X. Las demás que le confieran las disposiciones legales aplicables.
 
-VI. Coadyuvar en el combate y eliminación de todas las formas de violencia y discriminación contra las mujeres, dentro o fuera de la familia;
+Los Programas señalados en las fracciones I y II del presente artículo deberán elaborarse en concordancia con los objetivos, estrategias y líneas de acción de los Programas Estatales, observando los lineamientos que prevé la Ley Número 994 de Planeación del Estado Libre y Soberano de Guerrero, respecto del Plan Municipal de Desarrollo. Poniéndose a consideración de los Sistemas municipales respectivos, para su aprobación, en un término que no exceda de cuatro meses contados a partir de la instalación del Ayuntamiento.
 
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
-
-VII. Instrumentar acciones tendientes a abatir las inequidades en las condiciones en que se encuentren las mujeres;
-
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
-
-VIII. Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y la equidad de género;
-
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
-
-IX. Impulsar acciones de educación y formación sobre los derechos de las mujeres, prevención de la violencia, autoestima, cultura del buen trato, herramientas jurídicas, así como capacitación en desarrollo de habilidades y destrezas en actividades no tradicionales para las mujeres; y
-
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
-
-X. Coadyuvar en el Municipio para integrar, acciones a favor de las mujeres, que deberán contemplar sus necesidades básicas en materia de trabajo, salud, educación, cultura, participación política, desarrollo y todas aquellas en las cuales deba tener una participación efectiva.
+La instalación del Sistema señalado en la fracción IV, y de la Unidad especificada en la fracción VIII del presente artículo, deberán celebrarse a más tardar a los treinta días hábiles de la toma de la instalación del Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
@@ -1945,21 +1939,31 @@ XIII. Las demás que le señalen otros ordenamientos legales aplicables.
 
 ### CAPITULO III BIS 1. DE LA DIRECCION MUNICIPAL DE LA MUJER
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
-ARTICULO 109 BIS 1.- La Dirección Municipal de la Mujer será el órgano encargado de promover la igualdad entre hombres y mujeres en las áreas de desarrollo social, económico, político y cultural, mediante la incorporación de la perspectiva de género y la transversalidad en el diseño de las políticas públicas.
+ARTICULO 109 BIS 1.- La Dirección Municipal de la Mujer es el órgano encargado de promover la incorporación de la perspectiva de género en la planeación y programación, en la normatividad y en la cultura institucional de la administración pública municipal y de coordinar la estrategia y las acciones de prevención, atención, sanción y erradicación de la violencia contra las Mujeres.
 
-Además de las facultades y obligaciones contempladas en el artículo 69 de esta Ley, la Dirección Municipal de la Mujer tendrá las siguientes atribuciones:
+Además de ser la instancia ejecutora de los programas y vigilar el cumplimiento de las facultades y obligaciones contempladas en el artículo 69 de esta Ley, la Dirección Municipal de la Mujer tendrá las siguientes atribuciones:
 
-I.- La promoción, protección y difusión de los derechos de las mujeres y de las niñas consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero, los tratados y convenios internacionales ratificados por nuestro país, y en particular los derechos fundamentales de las mujeres.
+I. Promover la incorporación de la perspectiva de género en los instrumentos de planeación y programáticos, en las normas, reglamentos, protocolos y procedimientos y en todas las acciones de gobierno que permitan reducir las brechas de desigualdad y erradicar la violencia de género;
 
-II.- La promoción, seguimiento y evaluación de las políticas públicas destinadas a asegurar la igualdad de oportunidades entre hombres y mujeres del municipio.
+II. Coordinar la formulación del Programa Municipal para la Igualdad entre Mujeres y Hombres y el Programa Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en concordancia con las políticas nacional y estatal;
 
-III.- La promoción de la cultura de la no violencia, la no discriminación, así como la participación equitativa en la vida política, social, económica y cultural.
+III. Ser la Secretaria Técnica del Sistema Municipal para la Igualdad entre Mujeres y Hombres y del Sistema Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-IV.- Coordinar acciones entre los tres niveles de gobierno, iniciativa privada y los diferentes sectores sociales para asegurar la disposición de datos, estadísticas, indicadores y registros sobre casos de violencia contra las mujeres.
+IV. Coordinar los trabajos de la Unidad Municipal Especializada de Atención y Prevención de la Violencia contra las Mujeres;
 
-V.- Las demás que le confieran el Reglamento Interno respectivo, y demás disposiciones legales aplicables.
+V. Diseñar y aplicar campañas que promuevan la igualdad entre mujeres y hombres y la no violencia de género;
+
+VI. Impulsar procesos de formación y capacitación de servidores y servidoras públicas y de organizaciones sociales en materia de derechos humanos, igualdad de género y no violencia de género;
+
+VII. Elaborar diagnósticos anuales participativos con el propósito de identificar los problemas y necesidades del municipio, con la participación de servidoras/es públicos, organizaciones de la sociedad civil e instituciones educativas, respecto de la situación de las mujeres y de la cultura institucional;
+
+VIII. Promover la participación ciudadana en la formulación y evaluación de las acciones en materia de igualdad entre mujeres y hombres y de prevención, atención, erradicación de la violencia de género;
+
+IX. Promover la suscripción de convenios y establecer mecanismos de coordinación con el gobierno federal y estatal y demás entes públicos, sociales y privados para el cumplimiento de la política de igualdad entre mujeres y hombres y de prevención, atención, sanción y erradicación de la violencia de género, y
+
+X. Las demás que le confieran las disposiciones legales aplicables.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE NOVIEMBRE DE 2017)</small>
 
@@ -2155,9 +2159,13 @@ VI. Obras de apoyo a la producción agropecuaria, y
 
 VII. Regularización de la tenencia de la tierra y reservas territoriales para vivienda.
 
-###### ARTICULO 130.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
-Se vigilará a las autoridades municipales en el orden político administrativo para los efectos de la fracción XII del Artículo 74 de la Constitución Política del Estado de Guerrero.
+###### Artículo 130.
+
+Todas las Secretarías, Direcciones, incluidas el Presidente Municipal, la Tesorería y la Sindicatura, que ejerzan recursos públicos deberán prestar la información que el Órgano de Control Interno Municipal les requiera en ejercicio de sus atribuciones y obligaciones.
+
+El Ayuntamiento deberá establecer mecanismos que permitan la asignación equitativa, racional, eficiente, eficaz y transparente de los recursos públicos. Así como promover el desarrollo de estrategias de participación en la programación de sus presupuestos; de vigilancia y fiscalización de la gestión de los recursos públicos.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -2249,15 +2257,17 @@ El gasto público municipal comprende las erogaciones por concepto de gasto corr
 
 La programación del gasto público se basará en los objetivos, estrategias y prioridades que determine el Programa Municipal de Desarrollo y los programas que del mismo deriven.
 
-###### ARTICULO 140.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
-Las disposiciones relativas a la programación, presupuestación, control y evaluación del gasto público municipal, así como su operación, estarán a cargo del Ayuntamiento.
+###### Artículo 140.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+Las disposiciones relativas a la programación, presupuestación, control y evaluación del gasto público municipal, así como su operación, estarán a cargo del Ayuntamiento; la prevención, corrección e investigación de actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales y participaciones federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción estarán a cargo del Órgano de Control Interno Municipal.
 
-###### ARTICULO 141.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
-La Auditoría General del Estado es el órgano técnico del Poder Legislativo entre cuyas funciones está la de auxiliar a dicho cuerpo en la inspección, control y evaluación de los Ayuntamientos en materia de presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores y en general del gasto público.
+###### Artículo 141.
+
+La Auditoría Superior del Estado, deberá auxiliar a la Tesorería municipal, al área responsable de la ejecución de los recursos y al Órgano de Control Interno Municipal, en la inspección, control y evaluación de los Ayuntamientos en materia de presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores, y en general del gasto público.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
 
@@ -2327,9 +2337,13 @@ Los presupuestos de egresos de los Municipios se formularán en base al Plan Mun
 
 Los Ayuntamientos publicarán, en las Gacetas Municipales, si dispusieran de este medio, así como en el Periódico Oficial del Estado los presupuestos anuales de egresos, así como las actividades, las obras y los servicios públicos previstos para el ejercicio fiscal correspondiente.
 
-###### ARTICULO 151.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
-Los Consejos Consultivos de Comisarios Municipales así como los Consejos Consultivos de Presidentes de Comisariados Ejidales o de Bienes Comunales, deberán rendir opinión, previamente a su aprobación de los presupuestos de egresos para cada ejercicio fiscal y los programas trianuales que conforme a las leyes expidan los Ayuntamientos.
+###### Artículo 151.
+
+El Órgano de Control Interno Municipal, los Consejos Consultivos de Comisarios Municipales, así como los Consejos Consultivos de Presidentes de Comisariados Ejidales, de Bienes Comunales, deberán rendir opinión, previamente a su aprobación, de los presupuestos de egresos para cada ejercicio fiscal y los programas tri-anuales que conforme a las leyes expidan los Ayuntamientos.
+
+El Presidente municipal, hará entrega a dichos cuerpos colegiados y al Órgano de Control Interno Municipal, la información necesaria para cumplir sus atribuciones establecidas en el párrafo que antecede, con cinco días de anticipación a la sesión donde vayan a ser aprobados.
 
 ### CAPITULO I. DEL DESARROLLO URBANO MUNICIPAL
 
@@ -2358,6 +2372,8 @@ Los Ayuntamientos invertirán los subsidios que les otorguen los gobiernos feder
 ###### ARTICULO 157.
 
 La Auditoría General del Estado tendrá la facultad de revisar en cualquier tiempo, la documentación comprobatoria de la aplicación de los subsidios a que se refiere el artículo anterior y los Ayuntamientos de poner a disposición de ésta, la cuenta e información detalladas de la aplicación de dichos subsidios, así como las justificaciones correspondientes.
+
+Los actos de revisión a que se refiere el párrafo anterior, se deberán realizar a través del Órgano de Control Interno Municipal que fungirá como enlace entre la Auditoría Superior del Estado y el Ayuntamiento, teniendo facultades de emitir opinión de los resultados, haciéndolos del conocimiento del Cabildo y del Congreso del Estado.
 
 ###### ARTICULO 158.
 
@@ -2651,9 +2667,13 @@ IX. Cronista Municipal, y
 
 X. Comités de Desarrollo Indigenista.
 
-> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
-XI.- Centros Microregionales de Servicios Públicos.
+XI. Centros Microregionales de Servicios Públicos, y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
+XII. Órgano de Control Interno Municipal.
 
 La presente Ley y otros ordenamientos establecerán los requisitos para la creación de estos órganos, y definirán su integración, facultades y responsabilidades.
 
@@ -3053,6 +3073,8 @@ X.- Coadyuvar con la Procuraduría Social de la Montaña y de Defensa de los Cam
 
 XI.- Las demás que le sean afines a las anteriores.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 234.
 
 Los Ayuntamientos a propuesta del Presidente Municipal, designarán al Cronista del Municipio, quien durará en su encargo 5 años, pudiendo ser confirmado ilimitadamente. Cuando así se requiera, podrá el Ayuntamiento designar auxiliares del Cronista Municipal o Cronistas por poblados distintos a la cabecera municipal quienes integrarán el Consejo de la Crónica Municipal.
@@ -3073,7 +3095,9 @@ Los Cronistas Municipales darán su opinión técnica sobre la pertinencia de qu
 
 En las Cabeceras Municipales y en las localidades que lo estimen necesario y conveniente el Ayuntamiento creará por acuerdo, el Consejo de Colaboración Municipal a que se refiere la Ley de Desarrollo Urbano, para la ejecución de obras y servicios públicos, designando con tal propósito a propuesta del Presidente Municipal, a los integrantes del mismo.
 
-### CAPITULO UNICO
+### CAPITULO XIII. DEL ÓRGANO DE CONTROL INTERNO MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 239.
 
@@ -3099,15 +3123,109 @@ IV. Promover la implantación de programas de alfabetización para adultos, de e
 
 ### CAPITULO UNICO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+###### ARTICULO 241-F.
+
+El Órgano de Control Interno Municipal, tendrá autonomía técnica y administrativa.
+
+Tendrá por objeto la prevención, corrección e investigación de actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales y participaciones federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+###### ARTICULO 241-G.
+
+El Órgano de Control Interno Municipal tendrá un titular, quien será designado por el voto de las dos terceras partes de los integrantes del Cabildo mediante convocatoria pública abierta. Debiendo reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos;
+
+II. Tener cuando menos treinta años cumplidos al día de la designación;
+
+III. Gozar de buena reputación, no haber sido condenado por delito que amerite pena corporal, ni estar inhabilitado para el desempeño de cargos públicos;
+
+IV. Haber residido en el Estado durante cinco años anteriores al día de su nombramiento;
+
+V. Contar con experiencia de al menos cinco años en contaduría, materia de control, auditoría financiera y de responsabilidades;
+
+VI. Poseer al día de su designación, título y cédula profesional en Contaduría Pública, Economía, Administración u otra área afín a la gestión y control de recursos públicos, expedidos por autoridad o institución legalmente facultada para ello;
+
+VII. No ser ministro de ningún culto religioso;
+
+VIII. No haber sido dirigente de algún partido político ni postulado para cargo de elección popular dentro de los tres años anteriores a su designación, y
+
+IX. No haber sido titular de ninguna dependencia, entidad u organismo de la Administración estatal o municipal, o representante popular federal o estatal, durante dos años previos a su designación.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+###### ARTICULO 241-H.
+
+El titular del Órgano de Control Interno Municipal deberá rendir la protesta constitucional de su encargo ante el Pleno del Cabildo, previo al inicio de sus funciones. Durará en el encargo 3 años, con derecho a ratificación hasta por un periodo más.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+###### ARTICULO 241-I.
+
+El Órgano de Control Interno Municipal, además de las facultades establecidas en la Ley número 465 de Responsabilidades Administrativas para el Estado de Guerrero, tendrá las siguientes:
+
+I. Organizar y coordinar el sistema de control interno y la evaluación de la gestión gubernamental; inspeccionar el ejercicio del gasto público municipal y su congruencia con el presupuesto de egresos, así como concertar con las secretarías, direcciones y áreas del Ayuntamiento y validar los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
+
+II. Observar, en el cumplimiento de sus facultades, las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción y, del Comité Coordinador del Sistema Estatal Anticorrupción;
+
+III. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador de los Sistemas Nacional y Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización;
+
+IV. Establecer y coordinar el sistema de control interno, así como las bases para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en términos de la legislación aplicable;
+
+V. Realizar las auditorías internas que se requieran;
+
+VI. Vigilar el cumplimiento, por parte de todas las áreas de la administración municipal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio;
+
+VII. Organizar y coordinar el desarrollo administrativo integral de la Administración Municipal y emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, respectivamente, con criterios de eficacia, legalidad, eficiencia y simplificación administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias;
+
+VIII. Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación del personal, de conformidad con las respectivas normas de control de gasto en materia de servicios personales;
+
+IX. Realizar, por sí o a solicitud de la Auditoría Superior del Estado, auditorías, revisiones y evaluaciones a las áreas de la Administración Pública Municipal, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+X. Fiscalizar que las áreas de la Administración Municipal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+
+XI. Designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales y Estatales, representando al Ayuntamiento;
+
+XII. Colaborar en el marco de los Sistemas Nacional y Estatal Anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+XIII. Implementar las acciones que acuerden los Sistemas Nacional y Estatal Anticorrupción, en términos de las disposiciones aplicables;
+
+XIV. Informar periódicamente a los Comités Coordinador del Sistema Nacional y Estatal Anticorrupción, sobre el resultado de la evaluación respecto de la gestión de las áreas de la Administración Municipal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos federales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+XV. Llevar y normar el registro de servidores públicos de la Administración Municipal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrar la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+XVI. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las áreas de la Administración Municipal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+XVII. Conocer e investigar las conductas de los servidores públicos de la Administración Municipal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia de los Tribunales Federal y Estatal de Justicia Administrativa y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante dichos Tribunales; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+XVIII. Establecer mecanismos internos para la Administración Municipal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+XIX. Vigilar que en materia de contrataciones públicas se cumplan los lineamientos de la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Guerrero, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las leyes aplicables;
+
+XX. Vigilar se cumpla con la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito municipal, que establezcan los Sistemas Nacional y Estatal Anticorrupción;
+
+XXI. Formular y conducir en apego y de conformidad con las bases de coordinación que establezcan los Comités Coordinadores de los Sistemas Nacional y Estatal Anticorrupción, la política general de la Administración Municipal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+XXII. Ejercer las facultades que la Constitución local le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos;
+
+XXIII. Implementar las políticas de coordinación que promuevan los Comités Coordinadores de los Sistemas Nacional y Estatal Anticorrupción, en materia de combate a la corrupción;
+
+XXIV. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emitan los Comités Coordinadores de los Sistemas Nacional y Estatal Anticorrupción;
+
+XXV. Emitir el Código de Ética de los servidores públicos municipales y las Reglas de Integridad para el ejercicio de la función pública, y
+
+XXVI. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+El titular del Órgano de Control Interno Municipal está impedido para intervenir en cualquier asunto en el que estén involucrados, de manera directa e indirecta, sus intereses, los de su cónyuge, concubina o concubinario o parientes consanguíneos en línea recta sin limitación de grado o colaterales hasta el cuarto, o por afinidad hasta el segundo. En estos casos deberá intervenir el servidor público que conforme al reglamento interior de la Contraloría sustituya en sus faltas al Contralor.
 
 ## TITULO OCTAVO. DEL REGIMEN DE RESPONSABILIDADES DE LOS FUNCIONARIOS
 
 PUBLICOS MUNICIPALES
 
-### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3149,7 +3267,7 @@ Los procedimientos por responsabilidad administrativa se substanciarán conforme
 
 Y LOS AYUNTAMIENTOS
 
-### CAPITULO III. DE LAS AUTORIZACIONES
+### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3205,9 +3323,7 @@ DE LOS ESTABLECIMIENTOS DE ESPECTACULOS Y DE CENTROS NOCTURNOS Y ANALOGOS EN MUN
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO IV
-
-DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE LOS ESTABLECIMIENTOS.
+### CAPITULO III. DE LAS AUTORIZACIONES
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3237,7 +3353,9 @@ En esa clasificación se tendrá en cuenta las buenas costumbres en los término
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO V. DE LAS OBLIGACIONES DE LOS ESTABLECIMIENTOS DE ESPECTACULOS, CENTROS NOCTURNOS Y ANALOGOS
+### CAPITULO IV
+
+DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE LOS ESTABLECIMIENTOS.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3283,7 +3401,7 @@ Los ayuntamientos reglamentarán sobre el tipo de uniforme, credenciales e ident
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO VI. DE LAS SANCIONES
+### CAPITULO V. DE LAS OBLIGACIONES DE LOS ESTABLECIMIENTOS DE ESPECTACULOS, CENTROS NOCTURNOS Y ANALOGOS
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3312,6 +3430,10 @@ La representación ante el Comité Mixto a que se refiere el próximo Capítulo,
 La Dirección de Espectáculos podrá autorizar la ampliación transitoria de los horarios excepcionalmente siempre que se observen las leyes laborales y fiscales aplicables, asimismo podrá autorizar por día, tiempo determinado y evento específico la ampliación de la admisión a los establecimientos de manera transitoria.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+### CAPITULO VI. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 267.
 
@@ -3887,10 +4009,44 @@ TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado, así como
 
 P.O. 14 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 489 POR EL QUE SE ADICIONA EL CAPÍTULO III BIS 2 "DE LA UNIDAD DE ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD", UN ARTÍCULO 109 BIS 2, A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 489 POR EL QUE SE ADICIONA EL CAPÍTULO III BIS 2 “DE LA UNIDAD DE ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD”, UN ARTÍCULO 109 BIS 2, A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado de Guerrero, Licenciado Héctor Astudillo Flores, para su conocimiento, observaciones, en su caso, y publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Los 81 Ayuntamientos que conforman el Estado de Guerrero, establecerán la Unidad de Atención a las Personas con Discapacidad con el nivel jerárquico de acuerdo a sus respectivas estructuras orgánicas, y a su disponibilidad presupuestal.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 771 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO. EN MATERIA DE CONTROL INTERNO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día 30 de septiembre del 2018.
+
+SEGUNDO.- El Ayuntamiento de cada Municipio deberá emitir la convocatoria para elegir al Titular del Órgano de Control interno, en un período de treinta días naturales a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- El Órgano de Control interno de cada Municipio, deberá instalarse a más tardar, a los noventa días naturales de entrada en vigor la presente reforma.
+
+CUARTO.- Una vez instalado el Órgano de Control Interno, en un lapso no mayor de quince días naturales, deberá informar al Ayuntamiento correspondiente la forma en que se organizarán para el cumplimiento de sus funciones.
+
+QUINTO.- En aquellos Municipios que cuenten con Contraloría interna, ésta pasará a ser Órgano de Control Interno, debiéndose continuar los asuntos en trámite bajo la legislación vigente a su instauración.
+
+SEXTO.- Remítase al titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+SÉPTIMO.- Remítase a los 81 municipios del estado de Guerrero, para su cumplimiento y efectos legales conducentes.
+
+OCTAVO.- Publíquese en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 772 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO. EN MATERIA DE IGUALDAD DE GÉNERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día treinta de septiembre del 2018.
+
+SEGUNDO.- Comuníquese al Titular del Poder Ejecutivo del Estado, así como a los 81 Ayuntamientos de los municipios en el Estado, para su conocimiento y efectos legales pertinentes.
+
+TERCERO.- El Sistema Municipal para la Igualdad entre Mujeres y Hombres y el Sistema Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, así como las Unidades Municipales Especializada (sic) de Atención y Prevención de la Violencia contra las Mujeres, deberán instalarse a más tardar a los treinta días hábiles de la entrada en vigor del presente Decreto.
+
+CUARTO.- Los Ayuntamientos deberán poner a consideración para su aprobación los programas previstos en las fracciones II y III del artículo 69, a más tardar a los treinta días hábiles posteriores a la instalación del Sistema Municipal.
+
+QUINTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
