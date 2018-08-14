@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2018-01-16"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -575,37 +573,47 @@ Los impuestos adicionales se pagarán en el mismo acto en que se paguen las cont
 
 Cuando deba efectuarse retención de alguna de las contribuciones que constituyen la base de los Impuestos señalados en el presente Capítulo, también de estos los retenedores deberán efectuar la retención.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE AGOSTO DE 2018)</small>
+
 ### CAPÍTULO VIII
 
-DEL IMPUESTO SOBRE LA PRESTACIÓN DE SERVICIOS DE HOSPEDAJE.
+DEL IMPUESTO SOBRE HOSPEDAJE.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 57.
 
-Es objeto del Impuesto sobre la Prestación de Servicios de Hospedaje, la percepción de ingresos, dentro del territorio del Estado, por la prestación del servicio de hospedaje, en hoteles, moteles, tiempo compartido o multipropiedad, campamentos, hosterías, posadas, mesones, paraderos de casas rodantes, casas de huéspedes, suites, villas, bungalows, casas y departamentos amueblados y todo tipo de construcción en que se proporcione alojamiento.
+El objeto de este impuesto lo constituyen las erogaciones realizadas por concepto de servicios de hospedaje recibidos en el Estado de Guerrero.
 
-Para los efectos de este impuesto, se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación.
+Se considera servicio de hospedaje la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de los que quedan comprendidos los servicios prestados en:
 
-Los ingresos que se generen por la recaudación de este Impuesto, las dos terceras partes serán destinados (sic) al Fideicomiso para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos, y una tercera parte serán destinados a la Secretaría de Finanzas y Administración del Estado, para los gastos de operación y vigilancia en el cobro de este impuesto.
+I. Hoteles, moteles, tiempo compartido o multipropiedad, campamentos, hosterías, posadas, mesones, paraderos de casas rodantes, casas de huéspedes, suites, villas, bungalows y
+
+II. Casas o departamentos, enteros o por habitaciones privadas o compartidas.
+
+De los ingresos que se generen por la recaudación de este Impuesto, las dos terceras partes serán destinados al Fideicomiso para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos, y, una tercera parte será destinada a la Secretaría de Finanzas y Administración del Estado para los gastos de operación y vigilancia en el cobro de este impuesto.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 58.
 
-Son sujetos de este impuesto, las personas físicas y morales que presten el servicio de hospedaje, dentro del territorio del Estado de Guerrero, quienes lo trasladarán en forma expresa y por separado a los usuarios del servicio, independientemente del lugar donde se celebre el contrato, se pague el precio o contraprestación.
+Están obligados al pago de este impuesto las personas físicas y morales que realicen las erogaciones, objeto del mismo, mediante las retenciones que deberán efectuarles los prestadores de los servicios de hospedaje quienes deberán enterarlas a la autoridad fiscal.
 
-Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a los usuarios de este servicio, por un monto equivalente al impuesto establecido en este capítulo.
+Cuando intervenga de cualquier manera una persona física o moral en su carácter de intermediario, promotor o facilitador, por medio de plataformas electrónicas, en el cobro de las erogaciones por el servicio de hospedaje, previsto en el artículo 57 de esta ley, estará obligada a enterar el pago del impuesto sobre hospedaje a la autoridad fiscal, en caso de que este pago se cubra a través de ella.
 
-Los contribuyentes efectuarán el cobro de este impuesto en el momento que reciban el importe de la contraprestación, o se cobren los demás conceptos que se derivan de la prestación del servicio estipulados en el artículo 59.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 59.
 
-La base para el pago de este impuesto, será el importe efectivamente cobrado por los servicios a que se refiere el artículo 57 de esta Ley, incluyendo depósitos, anticipos, intereses y cualquier otro concepto que se derive de la prestación de dichos servicios.
+La base para el pago de este impuesto se integra con el monto total de las erogaciones gravadas a las que se refiere el artículo 57 de esta ley, incluyendo depósitos, anticipos, intereses y cualquier otro concepto que se derive de la prestación de dichos servicios.
 
 No formarán parte de la base gravable de este impuesto, el importe de los servicios correspondientes a alimentación y demás servicios distintos al hospedaje.
 
-En ningún caso se considerará que el impuesto al valor agregado que se cause por los servicios de hospedaje, forma parte de la base gravable de este impuesto.
+En ningún caso se considerará que el impuesto al valor agregado que se cause por los servicios de hospedaje forma parte de la base gravable de este impuesto.
 
-Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares, se tomará como base para el pago del impuesto correspondiente el 40% sobre el total de lo efectivamente cobrado, lo anterior atento (sic) que el objeto principal del prestador de servicios es el de hospedaje.
+Cuando el servicio de hospedaje incluya servicios accesorios, tales como transporte, alimentación, uso de instalaciones y otros similares, y en la documentación comprobatoria no se desglosen o desagreguen los montos por la prestación de estos últimos, se tomará como base para el pago del impuesto correspondiente el 40% sobre el total de lo efectivamente erogado.
 
-Tratándose de los servicios proporcionados bajo el sistema de tiempo compartido y propiedad fraccional, la base de impuesto será el valor de la contraprestación, que el usuario pague por concepto de cuotas de mantenimiento, cada vez que haga uso de sus derechos convenidos sobre un bien o parte del mismo.
+Tratándose de los servicios proporcionados bajo el sistema de tiempo compartido y propiedad fraccional, la base de impuesto será el valor de la contraprestación que el usuario pague por concepto de cuotas de mantenimiento cada vez que haga uso de sus derechos convenidos sobre un bien o parte del mismo.
 
 Para efectos del párrafo que antecede, se entenderá por tiempo compartido, lo que al respecto establezca la Ley de Regulación y Fomento del Sistema de Tiempo Compartido del Estado de Guerrero.
 
@@ -613,13 +621,37 @@ Para efectos del párrafo que antecede, se entenderá por tiempo compartido, lo 
 
 El pago de este impuesto se determinará aplicando a la base gravable, la tasa del 3%.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 60 BIS.- El impuesto al que se refiere este capítulo se causará en el momento en que se efectúen las erogaciones gravadas, se hagan exigibles dichas erogaciones o se expida el comprobante de pago correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 61.
 
-Los contribuyentes de este impuesto deberán presentar declaraciones mensuales del pago ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago.
+El pago del impuesto se hará mediante el entero mensual de las retenciones que debió efectuar el prestador de los servicios que señala este capítulo, a más tardar el día 17 del mes de (sic) calendario siguiente a la fecha de causación, o el día hábil siguiente si aquél no lo fuera.
+
+La persona física o moral que, en su carácter de intermediario, promotor o facilitador, a través de plataformas tecnológicas, intervenga de cualquier forma en el cobro de las erogaciones por el servicio de hospedaje y, en caso de que se cubra a través de ella el impuesto sobre hospedaje, deberá presentar a más tardar el día diecisiete del mes calendario siguiente o el día hábil siguiente, una declaración de manera agregada, por el total de las erogaciones, de conformidad con los formatos y mecanismos que para tal efecto establezca la Secretaría de Finanzas y Administración de Guerrero.
+
+Cuando la persona física o moral, en su carácter de intermediario, promotor o facilitador, por medio de plataformas tecnológicas, entere el pago del impuesto sobre hospedaje, liberará al prestador del servicio de hospedaje y a las personas físicas y morales que realicen las erogaciones por el servicio de hospedaje, de las obligaciones establecidas en este artículo.
 
 ###### ARTÍCULO 62.
 
 No se considerarán servicios de hospedaje, el albergue o alojamiento prestados en hospitales, clínicas, asilos, conventos, seminarios, internados, albergues tutelares, incluyéndose los de propiedad del D.I.F., así como los que presten los sindicatos a sus agremiados y los destinados expresamente a pensionados y a jubilados.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 62 BIS.- La persona física o moral que, en su carácter de intermediario, promotor o facilitador, realice por medio de plataformas tecnológicas, el cobro de las erogaciones por el servicio de hospedaje, y en caso de que se cubra a través de ella lo correspondiente al Impuesto sobre Hospedaje previsto en el artículo 57 de la presente ley, estará obligada a:
+
+I. Inscribirse al Registro Estatal de Contribuyentes en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 61 de esta ley;
+
+II. Enterar el impuesto sobre hospedaje que se haya pagado a través de las plataformas tecnológicas a las oficinas autorizadas por la Secretaría de Finanzas y Administración del Estado de Guerrero; y
+
+III. Presentar declaraciones de manera agregada hasta en tanto no presente el aviso de baja al registro o de suspensión temporal de actividades.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 62 TER.- La Secretaría de Administración y Finanzas emitirá reglas de carácter general donde reglamente la forma de inscripción, suspensión de registro y cancelación de registro ante el Registro Estatal de Contribuyentes de persona física o moral en su carácter de intermediario, promotor o facilitador.
 
 ### CAPÍTULO IX
 
@@ -3738,3 +3770,19 @@ El presente decreto de reformas y adiciones a la Ley número 419 de Hacienda del
 Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
 
 TERCERO (SIC). Comuniquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 770 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
