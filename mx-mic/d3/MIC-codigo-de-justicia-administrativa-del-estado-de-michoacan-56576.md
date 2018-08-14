@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2018-02-19"
+last_updated: "2018-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -3283,7 +3283,7 @@ Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamient
 
 P.O. 18 DE JULIO DE 2017.
 
-[N. DE E TRANSITORIOS DEL DECRETO NÚMERO 383 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 143, 144, 145, 148, 153, 154 PRIMER PÁRRAFO Y LAS FRACCIONES XII Y XIV, 157, 159 FRACCIONES I, II Y VII, 160, 161, 162, 163 FRACCIONES I, II, III, IV Y VII, 164, 165 FRACCIONES I, II, IV, V Y VII, 167 FRACCIÓN II, 168, 175, 181, 200, 209, 212, 266 FRACCIONES III Y IV, 272, 274, 279, 281, 282, 283, 285 FRACCIÓN II, 286, 287, 288, 289, 290 FRACCIONES I, II, III Y V, 291 Y 299; SE MODIFICA LA DENOMINACIÓN DE LOS CAPÍTULOS TERCERO Y DÉCIMO PRIMERO, AMBOS DEL LIBRO CUARTO Y LA DENOMINACIÓN DEL LIBRO QUINTO; SE ADICIONA EL ARTÍCULO 168 BIS, LA FRACCIÓN V AL ARTÍCULO 266, EL ARTÍCULO 271 A, EL CAPÍTULO DÉCIMO CUARTO BIS DEL LIBRO QUINTO, LOS ARTÍCULOS 297 A, 297 B, 297 C, 297 D, 297 E, 297 F, 297 G, 297 H, 297 I, 297 J, 297 K, 297 L, 297 M, 297 N, 297 Ñ, 297 O, 297 P, 297 Q, 297 R, LOS CAPÍTULOS DÉCIMO SÉPTIMO, DÉCIMO OCTAVO, DÉCIMO NOVENO, VIGÉSIMO, LOS ARTÍCULOS 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324 Y 325; SE DEROGAN LAS FRACCIONES IV Y XIII DEL ARTÍCULO 159, LA FRACCIÓN XI DEL ARTÍCULO 162, LOS ARTÍCULOS 182, 183, 184, 185, 186, 187, 188, ASÍ COMO EL CAPÍTULO DÉCIMO SEGUNDO Y SU ARTÍCULO 189, DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+[N. DE E TRANSITORIOS DEL DECRETO NÚMERO 383 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 143, 144, 145, 148, 153, 154 PRIMER PÁRRAFO Y LAS FRACCIONES XII Y XIV, 157, 159 FRACCIONES I, II Y VII, 160, 161, 162, 163 FRACCIONES I, II, III, IV Y VII, 164, 165 FRACCIONES I, II, IV, V Y VII, 167 FRACCIÓN II, 168, 175, 181, 200, 209, 212, 266 FRACCIONES III Y IV, 272, 274, 279, 281, 282, 283, 285 FRACCIÓN II, 286, 287, 288, 289, 290 FRACCIONES I, II, III Y V, 291 Y 299; SE MODIFICA LA DENOMINACIÓN DE LOS CAPÍTULOS TERCERO Y DÉCIMO PRIMERO, AMBOS DEL LIBRO CUARTO Y LA DENOMINACIÓN DEL LIBRO QUINTO; SE ADICIONA EL ARTÍCULO 168 BIS, LA FRACCIÓN V AL ARTÍCULO 266, EL ARTÍCULO 271 A, EL CAPÍTULO DÉCIMO CUARTO BIS DEL LIBRO QUINTO, LOS ARTÍCULOS 297 A, 297 B, 297 C, 297 D, 297 E, 297 F, 297 G, 297 H, 297 I, 297 J, 297 K, 297 L, 297 M, 297 N, 297 Ñ, 297 O, 297 P, 297 Q, 297 R, LOS CAPÍTULOS DÉCIMO SÉPTIMO, DÉCIMO OCTAVO, DÉCIMO NOVENO, VIGÉSIMO, LOS ARTÍCULOS 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324 Y 325; SE DEROGAN LAS FRACCIONES IV Y XIII DEL ARTÍCULO 159, LA FRACCIÓN XI DEL ARTÍCULO 162, LOS ARTÍCULOS 182, 183, 184, 185, 186, 187, 188, ASÍ COMO EL CAPÍTULO DÉCIMO SEGUNDO Y SU ARTÍCULO 189, DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 PRIMERO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3295,7 +3295,9 @@ En el proyecto de presupuesto de egresos para el Ejercicio Fiscal 2018, deberá 
 
 CUARTO. El Congreso del Estado, a través de las Comisiones de Justicia y de Gobernación, emitirán convocatoria pública para el procedimiento de elección de los Magistrados Especializados en un término no mayor a 90 días naturales siguientes a la entrada en vigor del presente decreto.
 
-QUINTO. A partir de la entrada en vigor del presente Decreto el Tribunal de Justicia Administrativa tendrá un año para la implementación técnica del Juicio en Línea.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
+
+QUINTO. A la entrada en vigor del presente Decreto el Tribunal de Justicia Administrativa tendrá hasta el 18 de julio de 2019 para la implementación técnica del Juicio en Línea.
 
 P.O. 19 DE FEBRERO DE 2018.
 
@@ -3310,3 +3312,11 @@ Artículo Tercero. El Gobernador del Estado cuenta con noventa días, contados a
 Artículo Cuarto. Los Sujetos Obligados, tendrán noventa días, contados a partir de la entrada (sic) del presente Decreto para que emitan el Reglamento respectivo.
 
 Artículo Quinto. En los noventa días a la entrada en vigor del presente decreto, por esta única ocasión, los funcionarios que integran el Consejo Estatal de Mejora Regulatoria, convocarán dentro de treinta días para la elección de los consejeros ciudadanos que señala esta Ley.
+
+P.O. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 619.- SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO 383 POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 143, 144, 145, 148,153, 154 PRIMER PÁRRAFO Y LAS FRACCIONES XII Y XIV, 157, 159 FRACCIONES I, II Y VII, 160, 161, 162, 163 FRACCIONES I, II, III, IV Y VII, 164, 165 FRACCIONES I, II, IV, V Y VII, 167 FRACCIÓN II, 168, 175, 181, 200, 209, 212, 266 FRACCIONES III Y IV, 272, 274, 279, 281, 282, 283, 285 FRACCIÓN II, 286, 287, 288, 289, 290 FRACCIONES I, II, III Y V, 291 Y 299; SE MODIFICA LA DENOMINACIÓN DE LOS CAPÍTULOS TERCERO Y DÉCIMO PRIMERO, AMBOS DEL LIBRO CUARTO Y LA DENOMINACIÓN DEL LIBRO QUINTO; SE ADICIONAN LOS ARTÍCULOS 168 BIS, LA FRACCIÓN V AL ARTÍCULO 266, EL ARTÍCULO 271 A, EL CAPÍTULO DÉCIMO CUARTO BIS DEL LIBRO QUINTO, LOS ARTÍCULOS 297 A, 297 B, 297 C, 297 D, 297 E, 297 F, 297 G, 297 H, 297 I, 297 J, 297 K, 297 L, 297 M, 297 N, 297 Ñ, 297 O, 297 P, 297 Q, 297 R, LOS CAPÍTULOS DÉCIMO SÉPTIMO, DÉCIMO OCTAVO, DÉCIMO NOVENO, VIGÉSIMO, LOS ARTÍCULOS 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324 Y 325; SE DEROGAN LAS FRACCIONES IV Y XIII DEL 159, LA FRACCIÓN XI DEL ARTÍCULO 162, LOS ARTÍCULOS 182, 183, 184, 185, 186, 187, 188; ASÍ COMO EL CAPÍTULO DÉCIMO SEGUNDO Y SU ARTÍCULO 189, DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
