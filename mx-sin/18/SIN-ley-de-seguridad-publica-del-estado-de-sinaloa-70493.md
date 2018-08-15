@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2018-05-30"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -1003,7 +1003,11 @@ X. Establecer normas y procedimientos en materia de comunicaciones e informació
 
 XI. Destinar recursos de su gasto de operación anual para sufragar conceptos de uso de la red y mantenimiento preventivo, correctivo y de adquisición de consumibles de los equipos de radiocomunicación;
 
-XII. Extender la red de atención ciudadana mediante la ampliación de la cobertura del teléfono de emergencias; para ello, los municipios asignarán personal con experiencia en telecomunicaciones, para que, previa su capacitación, se responsabilicen de ese servicio;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+XII. Extender la red de atención ciudadana mediante la ampliación de la cobertura del servicio de llamadas de emergencia que operará a través del número único de atención a la ciudadanía, en los términos establecidos por el artículo 135 de la presente Ley.
+
+Para ello, los municipios asignarán personal con experiencia en telecomunicaciones, para que, previa su capacitación, se responsabilicen de ese servicio;
 
 XIII. Coordinar acciones y operativos conjuntos de las Instituciones de Seguridad Pública;
 
@@ -1663,11 +1667,13 @@ Los integrantes del Sistema Estatal están obligados a compartir la información
 
 La información contenida en las bases de datos del Sistema Estatal de Información, podrá ser certificada por el servidor público facultado y tendrá el valor probatorio que las disposiciones legales determinen.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 90.
 
-El Estado y los municipios, realizarán los trabajos para lograr la compatibilidad de los servicios de telecomunicaciones de su red local correspondiente, con las bases de datos criminalísticos y de personal del Sistema Estatal de Información, previstas en la presente Ley.
+El Estado y los municipios, realizarán los trabajos para lograr la compatibilidad de los servicios de telecomunicaciones de su red local correspondiente, con las bases de datos criminalísticos y de personal del Sistema Estatal de Información y del Sistema Nacional de Seguridad Pública.
 
-El servicio de llamadas de emergencia y el servicio de denuncia anónima operarán con un número único de atención a la ciudadanía. El Secretariado Ejecutivo, adoptará las medidas necesarias para la homologación de los servicios que son obligación y responsabilidad de las instituciones de seguridad pública implementar.
+El Secretariado Ejecutivo, adoptará y fortalecerá las medidas necesarias para la homologación de los servicios que son obligación y responsabilidad de las instituciones de seguridad pública implementar. Asimismo, mantendrá la coordinación necesaria con el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública para tales efectos.
 
 ### Capítulo II. Del Sistema Estatal de Información para la Seguridad Pública
 
@@ -2133,11 +2139,13 @@ I. La comunidad, tenga o no estructura organizativa; y,
 
 II. La sociedad civil organizada.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 135.
 
-Las Instituciones de Seguridad Pública del Estado y los Municipios, establecerán un servicio para la localización de personas y bienes, asimismo establecerán un servicio de comunicación que reciba los reportes de la comunidad, sobre las emergencias, faltas y delitos de que tenga conocimiento.
+Las Instituciones de Seguridad Pública del Estado y los Municipios, establecerán un servicio de llamadas de emergencia que operará con un número único de atención a la ciudadanía bajo el indicativo nacional 9-1-1, mismo que recibirá los reportes de la comunidad sobre emergencias, faltas, delitos y todo tipo de eventos que pudieran afectar la integridad y los derechos de las personas, así como la tranquilidad, la paz y el orden público.
 
-El servicio tendrá comunicación directa con las Instituciones de Seguridad Pública, de salud, de protección civil y las demás asistenciales públicas y privadas.
+El servicio tendrá comunicación directa con las Instituciones de procuración de justicia, seguridad pública, salud, protección civil y las demás asistenciales públicas y privadas y deberá atender las directrices establecidas en la Norma Técnica para la Estandarización de los Servicios de Llamadas de Emergencia a través del Número Único Armonizado 9-1-1 y demás normatividad aplicable.
 
 ###### Artículo 136.
 
@@ -3970,3 +3978,9 @@ P.O. 30 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 364 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 675 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN LOS ARTÍCULOS 52, FRACCIÓN XII, 90 Y 135 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
