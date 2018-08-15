@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2017-12-31"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -182,6 +182,10 @@ En todas las decisiones y actuaciones del Estado se velara y cumplirá con el pr
 > <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2013)</small>
 
 Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
@@ -963,11 +967,17 @@ IV.- El Tribunal Superior de Justicia
 
 V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.13% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas.
 
-> <small>(ADICIONADA, B.O. 20 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-VI. Al inicio de cada periodo ordinario de sesiones, el Gobernador del Estado tiene derecho de presentar dos iniciativas para trámite preferente, o bien señalar con tal carácter hasta dos que se hubieren presentado en periodos anteriores y se encuentren pendientes de dictamen. Lo anterior en los términos que prescriba la legislación de la materia.
+VI.- Al inicio de cada periodo ordinario de sesiones, el Gobernador del Estado tiene derecho de presentar dos iniciativas para trámite preferente, o bien señalar con tal carácter hasta dos que se hubieren presentado en periodos anteriores y se encuentren pendientes de dictamen. De igual forma, cada una de las fracciones parlamentarias del Congreso del Estado, podrá presentar una iniciativa para trámite preferente, o bien, señalar con tal carácter una de las que se hubieren presentado en periodos anteriores y que se encuentre pendiente de dictamen. Lo anterior en los términos que prescriba la legislación de la materia.
 
-El Congreso del Estado deberá discutir y votar las iniciativas de trámite preferente en un plazo no mayor a treinta días naturales. No podrán tener el carácter de preferente las iniciativas de adición o reforma a esta Constitución.
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+El Congreso del Estado deberá discutir y votar las iniciativas de trámite preferente en un plazo no mayor a treinta días naturales. Las iniciativas ciudadanas se considerarán de trámite preferente para los efectos señalados en el presente párrafo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES PARTE FINAL DEL SEGUNDO PÁRRAFO DEL ARTÍCULO], B.O. 15 DE AGOSTO DE 2018)</small>
+
+No podrán tener el carácter de preferente las iniciativas de adición o reforma a esta Constitución.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1032,6 +1042,10 @@ III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 > <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2017)</small>
 
 IV.- Expedir la Ley que organice su estructura y su funcionamiento interno, la cual no necesitará ser promulgada por el Gobernador del Estado para tener vigencia, la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur, así como para expedir la ley que establezca las bases de coordinación del Sistema Anticorrupción del Estado de Baja California Sur, a que se refiere el artículo 160 Bis de esta Constitución, así como las facultades y funciones de los diversos órganos que integren el Sistema Anticorrupción del Estado de Baja California Sur;
+
+> <small>(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+IV Bis.- Aprobar e implementar el Plan de Desarrollo Legislativo, que regirá durante cada legislatura, de conformidad con lo dispuesto en la ley de la materia.
 
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 1998)</small>
 
@@ -1287,9 +1301,13 @@ XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciud
 
 XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; así como a los Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitución y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
 
+> <small>(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+XLIX.- Expedir leyes que establezcan la concurrencia del Estado y de los Municipios en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, cumpliendo con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y de las leyes que de ella emanen y de los tratados internacionales de la materia de los que México sea parte;
+
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
 
-XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
+L.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 
 #### SECCION VI. DE LA DIPUTACION PERMANENTE
 
@@ -4180,3 +4198,29 @@ Artículo Tercero.- El Congreso del Estado, dentro de los 60 días hábiles sigu
 Los plazos de la convocatoria deberán ajustarse de tal modo que la obra que resulte ganadora de acuerdo con las bases establecidas por el Congreso del Estado, pueda ser interpretada en la sesión solemne conmemorativa del 44 aniversario de la conversión de Baja California Sur, de territorio a Estado Libre y Soberano.
 
 Artículo Cuarto.- Se abrogan todos los decretos relativos a los traslados de Poderes, a los otorgamientos de medallas y reconocimientos emitidos por el Congreso del Estado de Baja California Sur, previo a la expedición del presente decreto. Con excepción de los decretos 1416, respecto al otorgamiento de la Medalla María Dionisia Villarino Espinoza y los decretos 202 y 1284, mediante los cuales se cambia temporalmente la sede de los Poderes del Estado de Baja California Sur a las poblaciones de Mulegé y Loreto.
+
+B.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2546 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2552 SE ADICIONA UNA FRACCIÓN IV BIS AL ARTÍCULO 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, ASÍ MISMO, SE DEROGA LA FRACCIÓN XIV DEL ARTÍCULO 51 Y SE ADICIONA UN TÍTULO CUARTO BIS DENOMINADO "DE LA PLANEACIÓN LEGISLATIVA" CON UN CAPITULO ÚNICO DENOMINADO "DEL PLAN DE DESARROLLO LEGISLATIVO" CONFORMADO POR LOS ARTÍCULOS 192 BIS, 192 TER, 192 QÚATER, 192 QUINQUIES, 192 SEXIES, 192 SEPTIES, Y 192 OCTIES, A LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día 01 de septiembre de 2018, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2553 SE REFORMAN EL PRIMER Y SEGUNDO PÁRRAFO AL NUMERAL 57 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, SE ADICIONAN LAS FRACCIONES XV BIS Y XV TER AL ARTÍCULO 41 Y LOS ARTÍCULOS 101 BIS Y 101 TER A LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMAN EL PRIMER PÁRRAFO, LAS FRACCIONES III, IV Y V DEL ARTÍCULO 62, LOS ARTÍCULOS 63 Y 65 DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
