@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-99966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2018-07-04"
+last_updated: "2018-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 26 de marzo de 2014.
 
@@ -171,13 +171,17 @@ XVIII. Realizar acciones educativas y preventivas a fin de evitar que se cometan
 
 XIX. Evitar todo tipo de violencia dentro de los planteles escolares;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
 
-XX. Establecer las bases normativas para que en la educación básica y media superior, el ingreso, la promoción, el reconocimiento y la permanencia de docentes y de personal con funciones de dirección y de supervisión, en las instituciones educativas dependientes del Estado y sus organismos descentralizados y desconcentrados, así como de los ayuntamientos, se sujetará a lo dispuesto por la Ley General, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y el presente ordenamiento; y
+XX. Establecer las bases normativas para que en la Educación Básica y Media Superior, el ingreso, la promoción, el reconocimiento y la permanencia de docentes y de personal con funciones de dirección y de supervisión, en las instituciones educativas dependientes del Estado y sus organismos descentralizados y desconcentrados, así como de los ayuntamientos, se sujetará a lo dispuesto por la Ley General, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y el presente ordenamiento;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
 
-XXI. Promover en niñas, niños y adolescentes una cultura de trato digno y respetuoso a las especies animales, así como la protección del ecosistema.
+XXI. Promover en niñas, niños y adolescentes una cultura de trato digno y respetuoso a las especies animales, así como la protección del ecosistema; y
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+XXII. Promover el desarrollo de las aptitudes, capacidades, destrezas, habilidades y los valores de los educandos, que les permitan identificar y fortalecer sus vocaciones, así como perfilar su futuro profesional con mayores oportunidades.
 
 ###### Artículo 11.
 
@@ -325,11 +329,17 @@ XXXII. Formalizar convenios con la federación, ayuntamientos, sectores producti
 
 XXXIII. Respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como reconocer aquellos adquiridos mediante acuerdos alcanzados a través de convenios, minutas y acuerdos celebrados por el Gobierno del Estado, a través de las instancias respectivas y su organización sindical, que estipulan beneficios laborales, profesionales, salariales y sociales, que no contravengan esta Ley y las Leyes Generales de la materia;
 
-> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
 
-XXXIV. Prevenir y reducir la generación de contaminantes desde las escuelas de educación básica, especialmente con la instalación de contenedores para la separación de la basura en todos los planteles, a través de la Secretaría de Desarrollo Social y Humano, y de la Subsecretaría de Medio Ambiente y Recursos Naturales con la colaboración de los sectores privado y social, así como con las demás autoridades competentes; y
+XXXIV. Prevenir y reducir la generación de contaminantes desde las escuelas de educación básica, especialmente con la instalación de contenedores para la separación de la basura en todos los planteles, a través de la Secretaría de Desarrollo Sustentable, y de la Subsecretaría de Medio Ambiente y Recursos Naturales con la colaboración de los sectores privado y social, así como con las demás autoridades competentes;
 
-XXXV. Las demás que sean necesarias para mejorar la calidad del servicio educativo.
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+XXXV. Realizar acciones en el nivel de educación básica y media superior para informar, orientar y asesorar a los estudiantes en el desarrollo de sus aptitudes, capacidades y habilidades que les permitan identificar y fortalecer sus vocaciones con el objeto de elegir asertivamente una carrera profesional; y
+
+(REUBICADA, P.O. 15 DE AGOSTO DE 2018)
+
+XXXVI. Las demás que sean necesarias para mejorar la calidad del servicio educativo.
 
 ###### Artículo 16.
 
@@ -407,7 +417,9 @@ Los terrenos que las autoridades municipales otorguen para la edificación de lo
 
 IV. Cooperar con las autoridades escolares en la atención de los servicios de: salubridad, higiene y seguridad en las escuelas de su jurisdicción;
 
-V. Apoyar a las autoridades escolares y al personal de las escuelas para el mejor desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+V. Apoyar a las autoridades escolares y al personal de las escuelas para el mejor desempeño de sus funciones; incluyendo la coordinación para el desarrollo de acciones que permitan identificar y fortalecer las vocaciones de los alumnos con el objeto de elegir asertivamente una carrera profesional;
 
 VI. Establecer medidas de cooperación educativa entre los grupos y comunidades del municipio, de acuerdo con sus características y circunstancias particulares;
 
@@ -773,9 +785,11 @@ III. Obtención de formas de expresión creativas y un acercamiento sensible a l
 
 La educación preescolar requerirá de la aplicación de dinámicas biológicas, psicológicas y sociales interdependientes, que influyan positivamente en la manera de ser y actuar del niño, para fincar las bases de su desarrollo educativo.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 64.
 
-La educación preescolar hará énfasis en los aspectos afectivo, social, psicométrico, creatividad y lenguaje lógico-matemático.
+La educación preescolar hará énfasis en los aspectos afectivo, social, psicométrico, creatividad y lenguaje lógico-matemático. Asimismo, promoverá el conocimiento del idioma inglés.
 
 ### CAPÍTULO VI. DE LA EDUCACIÓN PRIMARIA
 
@@ -793,7 +807,9 @@ II. Cultivar y orientar su curiosidad científica;
 
 III. Adquirir las primeras nociones metodológicas del trabajo intelectual;
 
-IV. Adquirir la formación de valores, habilidades y actitudes, así como apreciar la importancia del trabajo manual;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+IV. Adquirir la formación de valores, habilidades y actitudes, así como apreciar la importancia del trabajo manual. Asimismo, promoverá el espíritu emprendedor mediante la formación de competencias básicas, laborales y empresariales;
 
 V. Obtener conocimientos objetivos y suficientes adecuados al nivel;
 
@@ -801,7 +817,9 @@ VI. Conocer su sociedad, Estado, País y tomar conciencia de la pertenencia a un
 
 VII. Adquirir conciencia ciudadana, inculcándoles los principios, valores y derechos fundamentales del hombre;
 
-VIII. Obtener las nociones fundamentales de la estructura y manejo del lenguaje y de los instrumentos matemáticos;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+VIII. Obtener las nociones fundamentales de la estructura y manejo del lenguaje y de los instrumentos matemáticos, así como el conocimiento del idioma inglés;
 
 IX. Desarrollar un sentimiento humanístico y solidario;
 
@@ -835,9 +853,13 @@ El personal de los planteles de educación primaria, para realizar sus actividad
 
 La educación secundaria se impartirá a los jóvenes que hayan cursado la educación primaria, que se acreditará con certificado expedido por la autoridad competente, y será antecedente para cursar la educación media-superior o equivalente. Dicha educación se sujetará a los lineamientos siguientes:
 
-I. Desarrollará el conocimiento de las matemáticas, que enseñan a pensar con lógica y precisión, y el del idioma español, para que el educando amplíe su capacidad de comunicación;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
 
-II. Fomentará la adquisición de enseñanzas especiales mediante el trabajo directo en talleres y laboratorios;
+I. Desarrollará el conocimiento de las matemáticas, que enseñan a pensar con lógica y precisión, y el del idioma español, para que el educando amplíe su capacidad de comunicación, así como el conocimiento del idioma inglés;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+II. Fomentará la adquisición de enseñanzas especiales mediante el trabajo directo en talleres y laboratorios. Asimismo, promoverá el espíritu emprendedor mediante la formación de competencias básicas, laborales y empresariales;
 
 III. Pondrá especial atención en la educación física y en la creación de hábitos de higiene, de salud, de cooperación y en la importancia de la buena condición física del educando;
 
@@ -901,7 +923,9 @@ I. Precisarán sus objetivos generales por tipo, modalidad, nivel, grado, área 
 
 II. Vincularán las áreas, asignaturas y actividades para el cumplimiento de los objetivos;
 
-III. Enlazarán los estudios para establecer una continuidad en los niveles educativos;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+III. Enlazarán los estudios para establecer una continuidad en los niveles educativos, procurando fortalecer las aptitudes, capacidades y habilidades de los alumnos en todas las modalidades y vertientes, que les permitan identificar sus vocaciones con el objeto de elegir asertivamente una carrera profesional;
 
 IV. Capacitarán al alumno para el trabajo social útil;
 
@@ -915,7 +939,9 @@ VIII. Fijarán el tiempo lectivo que requiera cada área, asignatura o actividad
 
 IX. Incluirán una preparación terminal adecuada a las necesidades regionales; y
 
-X. Asegurarán, en lo general, que los educandos adquieran ciertas competencias comunes para una vida productiva y ética, un universo común de conocimientos y destrezas que deberán dominar en ciertos campos formativos o ejes transversales esenciales, como: valores éticos universales, lenguaje, capacidad de comunicación, pensamiento matemático, razonamiento científico, comprensión de los procesos históricos, toma de decisiones y desarrollo personal, entre otros.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+X. Asegurarán, en lo general, que los educandos adquieran ciertas competencias comunes para una vida productiva y ética, un universo común de conocimientos y destrezas que deberán dominar en ciertos campos formativos o ejes transversales esenciales, como: valores éticos universales, lenguaje, capacidad de comunicación, pensamiento matemático, razonamiento científico, comprensión de los procesos históricos, toma de decisiones, desarrollo personal, espíritu emprendedor y conocimiento del idioma inglés, entre otros.
 
 ###### Artículo 83.
 
@@ -1954,3 +1980,19 @@ P.O. 4 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 540 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 10; Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 818 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 820 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
