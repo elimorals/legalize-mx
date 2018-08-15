@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2018-07-13"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -1013,11 +1013,11 @@ XI.- El matrimonio subsistente con persona distinta de aquélla con la que se pr
 
 ###### Artículo 164.
 
-De estos impedimentos sólo es dispensable el parentesco de consanguinidad en línea colateral en el tercero y cuarto grados, siempre que existan causas que lo justifiquen. También será dispensado el impedimento señalado en la fracción IX, siempre y cuando los contrayentes manifiesten por escrito al oficial· del Registro Civil, estar plenamente enterados de dicho impedimento.
+De estos impedimentos sólo es dispensable el parentesco de consanguinidad en línea colateral en el tercero y cuarto grados, siempre que existan causas que lo justifiquen. También será dispensado el impedimento señalado en la fracción IX, siempre y cuando los contrayentes manifiesten por escrito al oficial del Registro Civil, estar plenamente enterados de dicho impedimento.
 
 ###### Artículo 165.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo, o presente ante el Oficial del Registro Civil un certificado expedido por un centro de salud pública, en el cual conste que no se encuentra embarazada al momento de solicitar el matrimonio.
+La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo o presente ante el Oficial del Registro Civil un certificado expedido por un centro de salud pública, en el cual conste que no se encuentra embarazada al momento de solicitar el matrimonio.
 
 > <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
 
@@ -1645,9 +1645,7 @@ Cuando el cónyuge enfermo no pueda solventar sus necesidades, quien solicite la
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO II], B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO III
-
-Del Divorcio Voluntario por Vía Judicial y Administrativa.
+### CAPÍTULO III. Del Divorcio Voluntario por Vía Judicial y Administrativa
 
 ###### Artículo 277.
 
@@ -2145,7 +2143,7 @@ I.- Por acuerdo mutuo entre las partes;
 
 II.- Por abandono del domicilio común, por parte de uno de los concubinos, si la separación se prolonga por más de seis meses sin voluntad de reconciliación. Durante este plazo, el concubinato sigue produciendo sus efectos; y
 
-III.- Por muerte de alguno de los concubinos;
+III.- Por muerte de alguno de los concubinos.
 
 > <small>(ADICIONADA, B.O. 7 DE ENERO DE 2002)</small>
 
@@ -2309,7 +2307,7 @@ Pueden gozar del derecho a la legitimación, los descendientes de los hijos que 
 
 ###### Artículo 373.
 
-Pueden gozar también de ese derecho los hijos no nacidos si el padre al casarse declara que reconoce al niño de quien la mujer esta encinta, o que lo reconoce si aquélla estuviere encinta.
+Pueden gozar también de ese derecho los hijos no nacidos si el padre al casarse declara que reconoce al niño de quien la mujer esta encinta o que lo reconoce si aquélla estuviere encinta.
 
 ### CAPÍTULO III. Del reconocimiento de los hijos nacidos fuera de matrimonio
 
@@ -2927,7 +2925,7 @@ El que está sujeto a la patria potestad no puede comparecer en juicio, ni contr
 
 ###### Artículo 489.
 
-Los que ejercen la patria potestad, son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
+Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
 ###### Artículo 490.
 
@@ -2977,7 +2975,7 @@ Cuando por disposición de la ley o por la voluntad de los padres, el hijo tenga
 
 ###### Artículo 498.
 
-Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo, los bienes inmuebles o los bienes muebles preciosos pertenecientes al hijo, sino por causa de absoluta necesidad o de evidente beneficio para él, y previa autorización del Juez competente a quien rendirán cuentas.
+Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles o los bienes muebles preciosos pertenecientes al hijo, sino por causa de absoluta necesidad o de evidente beneficio para él, y previa autorización del Juez competente a quien rendirán cuentas.
 
 ###### Artículo 499.
 
@@ -9691,7 +9689,7 @@ En todo caso, quien demande la reparación del daño moral por responsabilidad c
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2014)</small>
 
-En ningún caso se consideraran ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se consideraran ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
+En ningún caso se consideraran ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se consideraran ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensiva (sic).
 
 ###### Artículo 1823.
 
@@ -11603,7 +11601,7 @@ El vendedor a que se refiere el artículo anterior, mientras no se venza el plaz
 
 ###### Artículo 2219.
 
-Si el vendedor recoge el bien vendido porque no le haya sido pagado su precio, se aplicará lo que dispone el artículo 2216.
+Si el vendedor recoge el bien vendido porque no le haya sido pagado su precio, se aplicará lo que dispone el articulo 2216.
 
 ###### Artículo 2220.
 
@@ -12031,9 +12029,13 @@ Se prohibe a los magistrados, a los jueces y a cualesquiera otros servidores pú
 
 Se prohibe a los encargados de los establecimientos públicos y a los servidores públicos tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 2311.
 
-El contrato de arrendamiento debe otorgarse por escrito. La falta de esta formalidad se imputará al arrendador.
+El contrato de arrendamiento debe constar en documento impreso suscrito por las partes o bien en medios electrónicos, siempre que haya constancia de la voluntad de las partes. La falta de esta formalidad se imputará al arrendador.
+
+Cuando se trate de arrendamientos con duración de más de cinco años, deberá otorgarse el contrato respectivo en escritura pública. En tratándose de inmuebles, deberá además inscribirse en el Registro Público de la Propiedad en el folio correspondiente.
 
 ###### Artículo 2312.
 
@@ -12361,19 +12363,53 @@ Si en el arrendamiento de un predio rústico se incluyere el ganado de labranza 
 
 Lo dispuesto en el artículo 2369 es aplicable a los aperos de la finca arrendada.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, B.O. 15 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO VI BIS. Disposiciones Especiales del Arrendamiento de Inmuebles por Temporada Limitada
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 2381 Bis.
+
+Se podrá conceder el uso o goce de un inmueble a cambio de un precio cierto, por temporada limitada con un plazo que podrá ser desde un día hasta once meses.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 2381 Ter.
+
+Si el arrendatario devuelve el inmueble antes del periodo convenido, cuando se acuerde un solo precio por temporada, está obligado a pagarlo íntegro; pero si el arrendamiento se ajusta por periodos concretos durante la temporada limitada a que se sujeta el arrendamiento, el arrendatario sólo está obligado a pagar los períodos corridos y en su caso, la fracción respectiva, hasta la entrega.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 2381 Quater.
+
+El arrendatario está obligado a pagar la totalidad del precio de renta pactado cuando en el contrato los periodos solo se estipularon como plazos para el pago de la totalidad de la renta.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 2381 Quinquies.
+
+La pérdida o deterioro del inmueble alquilado se presume siempre a cargo del arrendatario, a menos que éste pruebe que sobrevino sin culpa suya. La pérdida o deterioro del inmueble que sobrevenga por Caso Fortuito o Fuerza Mayor será a cargo del arrendatario, si éste usó el inmueble de un modo no conforme con el contrato o con la naturaleza y destino del bien, y sin cuyo uso no habría sobrevenido el caso fortuito.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 2381 Sexies.
+
+Para la interpretación y cumplimiento del contrato de arrendamiento de inmuebles por temporada limitada, se estará a lo dispuesto en este Capítulo y las disposiciones de este Título, en la medida que sean compatibles con la naturaleza de dicho arrendamiento, por lo que las disposiciones relativas al contrato de hospedaje no les serán aplicables supletoriamente, ni por analogía.
+
 ### CAPÍTULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
-### CAPÍTULO VIII. Del subarriendo
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 2382.
 
-Todos los arrendamientos que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso dado a la otra parte, dado en forma indubitable con dos meses de anticipación, si el predio es urbano, y con un año si es rústico.
+Todos los arrendamientos que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso dado a la otra parte en la forma pactada, o en su defecto en forma indubitable en el inmueble objeto del arrendamiento con quince días de anticipación, si el predio es urbano, con tres meses si es rústico, y tratándose del arrendamiento de inmuebles por temporada limitada dispuesto en el Capítulo VI Bis de este Código, con tres días de anticipación si se acredita que el inmueble fue rentado por una temporada limitada de uno hasta treinta días, y con seis días si se acredita que el inmueble fue rentado por una temporada limitada de treinta y un días hasta once meses.
 
 ###### Artículo 2383.
 
 Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2360, 2361 y 2362.
 
-### CAPÍTULO IX. Del modo de terminar el arrendamiento
+### CAPÍTULO VIII. Del subarriendo
 
 ###### Artículo 2384.
 
@@ -12389,7 +12425,7 @@ Si el subarriendo se hiciere en virtud de la autorización general concedida en 
 
 Si el arrendador aprueba expresamente el contrato especial de subarriendo, el subarrendatario queda subrogado en todos los derechos y obligaciones del arrendatario, a no ser que por convenio se acuerde otra cosa.
 
-### CAPÍTULO I. Del contrato de tiempo compartido
+### CAPÍTULO IX. Del modo de terminar el arrendamiento
 
 ###### Artículo 2387.
 
@@ -12411,27 +12447,39 @@ VII.- Por expropiación del bien arrendado hecha por causa de utilidad pública;
 
 VIII.- Por evicción del bien dado en arrendamiento.
 
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 2387 Bis.
+
+El contrato de arrendamiento podrá rescindirse por incumplimiento del arrendatario en el pago de una o más rentas.
+
+Este derecho es irrenunciable, por lo que cualquier disposición inserta en el contrato de arrendamiento que lo contravenga se tendrá por no puesta.
+
 ###### Artículo 2388.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado, sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2382 y 2383.
 
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 2389.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate han sufrido una alza después de que se celebró el contrato de arrendamiento.
+Vencido un contrato de arrendamiento, el arrendatario está obligado a entregar el bien al arrendador en el momento que así se lo indique el arrendador; en todo caso, el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato en el goce y uso del bien, con arreglo a lo pactado para este caso, o en su defecto, a lo que pagaba más un incremento del veinte por ciento.
 
-Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
+En ningún caso operará la prórroga del contrato de arrendamiento ni la tácita reconducción.
 
 ###### Artículo 2390.
 
-Si después de terminado el arrendamiento y su prórroga, si la hubo, continúa el arrendatario sin oposición en el goce y uso del predio y éste es rústico, se entenderá renovado el contrato por otro año.
+(DEROGADO, B.O. 15 DE AGOSTO DE 2018)
 
 ###### Artículo 2391.
 
-En el caso del artículo anterior, si el predio fuere urbano, el arrendamiento continuará por tiempo indefinido, y el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato con arreglo a lo que pagaba.
+(DEROGADO, B.O. 15 DE AGOSTO DE 2018)
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 2392.
 
-Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hablan los dos artículos anteriores, cesan las obligaciones otorgadas por un tercero para la seguridad del arrendamiento, salvo convenio en contrario.
+Vencido el contrato de arrendamiento, cesan las obligaciones otorgadas por un tercero para la seguridad del arrendamiento, salvo convenio en contrario.
 
 ###### Artículo 2393.
 
@@ -12473,7 +12521,7 @@ En los casos de expropiación y de ejecución judicial, se observará lo dispues
 
 ## TÍTULO SÉPTIMO
 
-### CAPÍTULO I. Del depósito
+### CAPÍTULO I. Del contrato de tiempo compartido
 
 ###### Artículo 2401.
 
@@ -12601,7 +12649,7 @@ El comodato termina por la muerte del comodatario. El comodato termina también 
 
 ## TÍTULO NOVENO. Del depósito y del secuestro
 
-### CAPÍTULO II. Del secuestro
+### CAPÍTULO I. Del depósito
 
 ###### Artículo 2430.
 
@@ -12701,7 +12749,7 @@ El hotelero no se exime de la responsabilidad que le imponen los dos artículos 
 
 Los restaurantes, casas de baño y otros establecimientos semejantes no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-### CAPÍTULO I. Disposiciones generales
+### CAPÍTULO II. Del secuestro
 
 ###### Artículo 2453.
 
@@ -12733,7 +12781,7 @@ El secuestro judicial se rige por las disposiciones del Código de Procedimiento
 
 ## TÍTULO DÉCIMO. Del mandato
 
-### CAPÍTULO II. De las obligaciones del mandatario con respecto al mandante
+### CAPÍTULO I. Disposiciones generales
 
 ###### Artículo 2460.
 
@@ -12845,7 +12893,7 @@ En este caso, el mandatario es el obligado directamente en favor de las personas
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
 
-### CAPÍTULO III. De las obligaciones del mandante con relación al mandatario
+### CAPÍTULO II. De las obligaciones del mandatario con respecto al mandante
 
 ###### Artículo 2476.
 
@@ -12907,7 +12955,7 @@ Si se le designó la persona del substituto, no podrá nombrar a otro; si no se 
 
 El substituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
 
-### CAPÍTULO IV. De las obligaciones y derechos del mandante y del mandatario con relación a tercero
+### CAPÍTULO III. De las obligaciones del mandante con relación al mandatario
 
 ###### Artículo 2491.
 
@@ -12929,7 +12977,7 @@ El mandatario podrá retener en prenda los bienes que son objeto del mandato has
 
 Si muchas personas hubiesen nombrado a un solo mandatario para algún negocio común, le quedan obligadas solidariamente para todos los efectos del mandato.
 
-### CAPÍTULO V. Del mandato judicial
+### CAPÍTULO IV. De las obligaciones y derechos del mandante y del mandatario con relación a tercero
 
 ###### Artículo 2495.
 
@@ -12947,7 +12995,7 @@ Los actos que el mandatario practique a nombre del mandante, pero traspasando lo
 
 El tercero que hubiere contratado con el mandatario que se excedió en sus facultades, no tendrá acción contra éste, si le hubiere dado a conocer cuáles fueron aquéllas y no se hubiere obligado personalmente por el mandante.
 
-### CAPÍTULO VI. De los diversos modos de terminar el mandato
+### CAPÍTULO V. Del mandato judicial
 
 ###### Artículo 2499.
 
@@ -13031,7 +13079,7 @@ El procurador que ha substituido un poder, puede revocar la substitución si tie
 
 La parte puede ratificar, antes de la sentencia que cause ejecutoria, lo que el procurador hubiera hecho excediéndose del poder.
 
-### CAPÍTULO I. Del servicio doméstico, del servicio por jornal, del servicio a precio alzado en el que el operario solo pone su trabajo y del contrato de aprendizaje
+### CAPÍTULO VI. De los diversos modos de terminar el mandato
 
 ###### Artículo 2509.
 
@@ -13095,13 +13143,13 @@ Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero 
 
 ## TÍTULO DÉCIMO PRIMERO. Del contrato de prestación de servicios
 
-### CAPÍTULO II. De la prestación de servicios profesionales
+### CAPÍTULO I. Del servicio doméstico, del servicio por jornal, del servicio a precio alzado en el que el operario solo pone su trabajo y del contrato de aprendizaje
 
 ###### Artículo 2519.
 
 El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo y el contrato de aprendizaje, se regirán por la Ley Federal del Trabajo.
 
-### CAPÍTULO III. Del contrato de obras a precio alzado
+### CAPÍTULO II. De la prestación de servicios profesionales
 
 ###### Artículo 2520.
 
@@ -13145,7 +13193,7 @@ Siempre que un profesional no pueda continuar prestando sus servicios, deberá a
 
 El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
 
-### CAPÍTULO IV. De los porteadores y alquiladores
+### CAPÍTULO III. Del contrato de obras a precio alzado
 
 ###### Artículo 2530.
 
@@ -13269,7 +13317,7 @@ El constructor de cualquiera obra mueble tiene derecho de retenerla mientras no 
 
 Los empresarios constructores son responsables, por la inobservancia de las disposiciones municipales o de policía y por todo daño que causen a los vecinos.
 
-### CAPÍTULO V. Del contrato de hospedaje
+### CAPÍTULO IV. De los porteadores y alquiladores
 
 ###### Artículo 2560.
 
@@ -13369,7 +13417,7 @@ El contrato de transporte se rescindirá de hecho antes de emprender el viaje, o
 
 En el caso previsto en el artículo anterior, cada uno de los interesados perderá los gastos que hubiere hecho si el viaje no se ha verificado; y si está en curso, el porteador tendrá derecho a que se le pague del porte la parte proporcional al camino recorrido, y la obligación de presentar los efectos, para su depósito, a la autoridad judicial del punto en que ya no le sea posible continuarlo, comprobando y recabando la constancia relativa de hallarse en el estado consignado en la carta de porte, de cuyo hecho dará conocimiento oportuno al cargador, a cuya disposición deben quedar.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO V. Del contrato de hospedaje
 
 ###### Artículo 2580.
 
@@ -13487,7 +13535,7 @@ Las asociaciones de beneficencia se regirán por las leyes especiales correspond
 
 #### SECCIÓN II. De las sociedades
 
-### CAPÍTULO II. De los socios
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 2602.
 
@@ -13563,7 +13611,7 @@ La capacidad para que las sociedades adquieran bienes raíces se regirá por lo 
 
 No quedan comprendidas en este título las sociedades cooperativas, ni las mutualistas, que se regirán por las respectivas leyes especiales.
 
-### CAPÍTULO III. De la administración de la sociedad
+### CAPÍTULO II. De los socios
 
 ###### Artículo 2616.
 
@@ -13593,7 +13641,7 @@ Ningún socio puede ser excluido de la sociedad sino por el acuerdo unánime de 
 
 El socio excluido es responsable de la parte de pérdida que le corresponda, y los otros socios pueden retener la parte del capital y utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
 
-### CAPÍTULO IV. De la disolución de las sociedades
+### CAPÍTULO III. De la administración de la sociedad
 
 ###### Artículo 2623.
 
@@ -13647,7 +13695,7 @@ El socio o socios administradores están obligados a rendir cuentas siempre que 
 
 Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, observándose respecto de ésta lo dispuesto en el artículo 2627.
 
-### CAPÍTULO V. De la liquidación de la sociedad
+### CAPÍTULO IV. De la disolución de las sociedades
 
 ###### Artículo 2634.
 
@@ -13689,7 +13737,7 @@ Se dice extemporánea la renuncia, si al hacerla, las cosas no se hayan en su es
 
 La disolución de la sociedad no modifica los compromisos contraídos con terceros.
 
-### CAPÍTULO VI. De las personas jurídicas extranjeras de naturaleza privada
+### CAPÍTULO V. De la liquidación de la sociedad
 
 ###### Artículo 2640.
 
@@ -13741,7 +13789,7 @@ Si al terminar la sociedad en que hubiere socios capitalistas e industriales res
 
 Salvo pacto en contrario, los socios industriales no responderán de las pérdidas.
 
-### CAPÍTULO VII. De la aparcería rural
+### CAPÍTULO VI. De las personas jurídicas extranjeras de naturaleza privada
 
 ###### Artículo 2650.
 
@@ -13765,7 +13813,7 @@ II.- Que tienen representante domiciliado en el lugar donde van a operar, sufici
 
 Concedida la autorización por la Secretaría de Relaciones Exteriores y satisfechos los requisitos que se establecen en este artículo, se inscribirán en el Registro Público de la Propiedad los estatutos de las personas jurídicas extranjeras de naturaleza privada.
 
-### CAPÍTULO I. Del juego y de la apuesta
+### CAPÍTULO VII. De la aparcería rural
 
 ###### Artículo 2653.
 
@@ -13877,7 +13925,7 @@ TÍTULO DECIMOTERCERO
 
 De los contratos aleatorios
 
-### CAPÍTULO II. De la renta vitalicia
+### CAPÍTULO I. Del juego y de la apuesta
 
 ###### Artículo 2678.
 
@@ -13913,7 +13961,7 @@ Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma d
 
 Cuando las personas se sirvieren del medio de la suerte, no como apuesta o juego, sino para dividir cosas comunes o terminar cuestiones, producirá, en el primer caso, los efectos de una partición legítima, y en el segundo, los de una transacción.
 
-### CAPÍTULO III. De la compra de esperanza
+### CAPÍTULO II. De la renta vitalicia
 
 ###### Artículo 2686.
 
@@ -13987,7 +14035,7 @@ El pensionista sólo puede demandar las pensiones justificando su supervivencia 
 
 Si el que paga la renta vitalicia ha causado la muerte del acreedor o la de aquél sobre cuya vida había sido constituida, debe devolver el capital al que la constituyó o a sus herederos.
 
-### CAPÍTULO I. De la fianza en general
+### CAPÍTULO III. De la compra de esperanza
 
 ###### Artículo 2704.
 
@@ -14003,7 +14051,7 @@ TÍTULO DECIMOCUARTO
 
 De la fianza
 
-### CAPÍTULO II. De los efectos de la fianza entre el fiador y el acreedor
+### CAPÍTULO I. De la fianza en general
 
 ###### Artículo 2706.
 
@@ -14077,7 +14125,7 @@ No tendrá lugar la responsabilidad del artículo anterior, si el que dio la car
 
 Quedan sujetas a las disposiciones de este título las fianzas otorgadas por individuos o compañías accidentalmente en favor de determinadas personas, siempre que no las extiendan en forma de póliza, que no las anuncien públicamente por la prensa o por cualquier otro medio y que no empleen agentes que las ofrezcan.
 
-### CAPÍTULO III. De los efectos de la fianza entre el fiador y el deudor
+### CAPÍTULO II. De los efectos de la fianza entre el fiador y el acreedor
 
 ###### Artículo 2723.
 
@@ -14159,7 +14207,7 @@ La transacción entre el acreedor y el deudor principal aprovecha al fiador, per
 
 Si son varios los fiadores de un deudor por una sola deuda, responderá cada uno de ellos por la totalidad de aquélla, no habiendo convenio en contrario; pero si sólo uno de los fiadores es demandado, podrá hacer citar a los demás para que se defiendan juntamente y en la proporción debida estén a las resultas del juicio.
 
-### CAPÍTULO IV. De los efectos de la fianza entre los cofiadores
+### CAPÍTULO III. De los efectos de la fianza entre el fiador y el deudor
 
 ###### Artículo 2739.
 
@@ -14215,7 +14263,7 @@ IV.- Si se obligó a relevarlo de la fianza en tiempo determinado, y éste ha tr
 
 V.- Si la deuda se hace exigible por el vencimiento del plazo.
 
-### CAPÍTULO V. De la extinción de la fianza
+### CAPÍTULO IV. De los efectos de la fianza entre los cofiadores
 
 ###### Artículo 2748.
 
@@ -14251,7 +14299,7 @@ El fiador que pide el beneficio de división sólo responde por la parte del fia
 
 El que fía al fiador, en caso de insolvencia de éste, es responsable para con los otros fiadores en los mismos términos en que lo sería el fiador fiado.
 
-### CAPÍTULO VI. De la fianza legal o judicial
+### CAPÍTULO V. De la extinción de la fianza
 
 ###### Artículo 2753.
 
@@ -14285,7 +14333,7 @@ El fiador que se ha obligado por tiempo determinado, queda libre de su obligaci�
 
 Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, cuando la deuda principal se vuelva exigible, de pedir al acreedor que promueva judicialmente, dentro del plazo de un mes, el cumplimiento de la obligación. Si el acreedor no ejercita sus derechos dentro del plazo mencionado, o si en el juicio entablado deja de promover, sin causa justificada, por más de tres meses, el fiador quedará libre de su obligación.
 
-### CAPÍTULO I. De la hipoteca en general
+### CAPÍTULO VI. De la fianza legal o judicial
 
 ###### Artículo 2761.
 
@@ -14491,7 +14539,7 @@ TÍTULO DECIMOSEXTO
 
 De la hipoteca
 
-### CAPÍTULO II. De la hipoteca voluntaria
+### CAPÍTULO I. De la hipoteca en general
 
 ###### Artículo 2803.
 
@@ -14631,7 +14679,7 @@ La acción hipotecaria prescribirá a los diez años, contados desde que pueda e
 
 La hipoteca nunca es tácita ni general; para producir efectos contra tercero necesita siempre de registro y se contrae por voluntad, en los convenios, y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
 
-### CAPÍTULO III. De la hipoteca necesaria
+### CAPÍTULO II. De la hipoteca voluntaria
 
 ###### Artículo 2830.
 
@@ -14693,7 +14741,7 @@ La hipoteca prorrogada por segunda vez o más veces sólo conservará la prefere
 
 Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para que se le pague el crédito.
 
-### CAPÍTULO IV. De la extinción de las hipotecas
+### CAPÍTULO III. De la hipoteca necesaria
 
 ###### Artículo 2841.
 
@@ -14749,7 +14797,7 @@ Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen 
 
 Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2845 no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 2905, fracción I, salvo lo dispuesto en el capítulo noveno, título décimo tercero, del libro primero.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IV. De la extinción de las hipotecas
 
 ###### Artículo 2850.
 
@@ -14883,7 +14931,7 @@ TERCERA PARTE
 
 ## TÍTULO PRIMERO. De la concurrencia y prelación de los créditos
 
-### CAPÍTULO II. De los créditos hipotecarios y pignoraticios y de algunos otros privilegios
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 2874.
 
@@ -14965,7 +15013,7 @@ Los gastos judiciales hechos por un acreedor en lo particular, serán pagados en
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
 
-### CAPÍTULO III. De algunos acreedores preferentes sobre determinados bienes
+### CAPÍTULO II. De los créditos hipotecarios y pignoraticios y de algunos otros privilegios
 
 ###### Artículo 2890.
 
@@ -15031,7 +15079,7 @@ II.- Si los acreedores hubieren hecho novación de la deuda o de cualquier otro 
 
 Los acreedores que obtuvieren la separación de bienes no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
-### CAPÍTULO IV. Acreedores de primera clase
+### CAPÍTULO III. De algunos acreedores preferentes sobre determinados bienes
 
 ###### Artículo 2903.
 
@@ -15055,7 +15103,7 @@ VIII.- El crédito que provenga del precio de los bienes vendidos y no pagados, 
 
 IX.- Los créditos anotados en el Registro Público de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
-### CAPÍTULO V. Acreedores de segunda clase
+### CAPÍTULO IV. Acreedores de primera clase
 
 ###### Artículo 2904.
 
@@ -15073,7 +15121,7 @@ V.- El crédito por alimentos fiados al deudor para su subsistencia y la de su f
 
 VI.- La responsabilidad civil en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de bien ajeno, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 
-### CAPÍTULO VI. Acreedores de tercera clase
+### CAPÍTULO V. Acreedores de segunda clase
 
 ###### Artículo 2905.
 
@@ -15085,13 +15133,13 @@ II.- Los créditos del erario que no estén comprendidos en el artículo 2890 y 
 
 III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPÍTULO VII. Acreedores de cuarta clase
+### CAPÍTULO VI. Acreedores de tercera clase
 
 ###### Artículo 2906.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### CAPÍTULO I. De su organización
+### CAPÍTULO VII. Acreedores de cuarta clase
 
 ###### Artículo 2907.
 
@@ -15103,7 +15151,7 @@ Con los bienes restantes serán pagados todos los demás créditos que no estén
 
 ## TÍTULO SEGUNDO. Del Registro Público de la Propiedad
 
-### CAPÍTULO II. Disposiciones comunes de los documentos registrales
+### CAPÍTULO I. De su organización
 
 ###### Artículo 2909.
 
@@ -15139,7 +15187,7 @@ V.- No expidan los certificados en el término reglamentario.
 
 Las sentencias firmes que resulten en aplicación del artículo anterior, incluirán la inhabilitación para el desempeño del cargo o empleo hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda.
 
-### CAPÍTULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
+### CAPÍTULO II. Disposiciones comunes de los documentos registrales
 
 ###### Artículo 2915.
 
@@ -15377,7 +15425,7 @@ Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trate, 
 
 Podrá también cancelarse, total o parcialmente la hipoteca que garantice, tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que se cancela.
 
-### CAPÍTULO X (SIC). Del Sistema Registral
+### CAPÍTULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
 
 ###### Artículo 2952.
 
@@ -15503,7 +15551,7 @@ La inmatriculación realizada mediante resolución judicial, no podrá modificar
 
 No se inscribirán las informaciones judiciales de posesión, ni las de dominio cuando se violen los programas de desarrollo urbano o las declaratorias de usos, destinos o reservas de predios, expedidos por la autoridad competente, o no se hayan satisfecho las disposiciones legales aplicables en materia de división y ocupación de predios, a menos que se trate de programas de regularización de la tenencia de la tierra aprobados por la autoridad.
 
-### CAPÍTULO IV. Del registro de operaciones sobre bienes muebles
+### CAPÍTULO X (SIC). Del Sistema Registral
 
 ###### Artículo 2964.
 
@@ -15587,7 +15635,7 @@ Los asientos podrán anularse por resolución judicial con audiencia de los inte
 
 La nulidad de los asientos a que se refiere el artículo anterior, no perjudicará el derecho anteriormente adquirido por un tercero, protegido con arreglo al artículo 2919.
 
-### CAPÍTULO V. Del registro de personas jurídicas
+### CAPÍTULO IV. Del registro de operaciones sobre bienes muebles
 
 ###### Artículo 2974.
 
@@ -15610,6 +15658,8 @@ II.- La naturaleza del mueble con la característica o señales que sirvan para 
 III.- El precio y forma de pago estipulados en el contrato, y, en su caso, el importe del crédito garantizado con la prenda; y
 
 IV.- La fecha en que se practique y la firma del registrador.
+
+### CAPÍTULO V. Del registro de personas jurídicas
 
 ###### Artículo 2976.
 
@@ -15920,3 +15970,13 @@ PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno de
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente al de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+B.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2554 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES, AMBOS, DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los juicios de desahucio cuya tramitación inició con anterioridad al presente Decreto, continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
