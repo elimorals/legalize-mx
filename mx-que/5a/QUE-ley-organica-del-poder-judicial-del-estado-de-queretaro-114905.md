@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-114905"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2017-04-18"
+last_updated: "2018-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -261,7 +261,9 @@ XI. Resolver las recusaciones y excusas de los magistrados, así como las del Pr
 
 XII. Conocer y resolver cualquier otro asunto de la competencia del Poder Judicial, cuyo conocimiento no corresponda a las salas, al Presidente del Tribunal o al Consejo de la Judicatura, por disposición expresa de la Ley;
 
-XIII. Presentar a la Legislatura, por medio de su Presidente, en el mes de julio, un informe anual por escrito sobre el estado que guarde la impartición de justicia en la Entidad;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+XIII. Presentar a la Legislatura, por medio de su Presidente, en el mes de septiembre, un informe anual por escrito sobre el estado que guarde la impartición de justicia en la Entidad;
 
 XIV. Establecer los criterios y las medidas conducentes para el mejoramiento de la impartición y administración de justicia, así como solicitar al Consejo de la Judicatura la expedición de acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en el Estado;
 
@@ -371,7 +373,9 @@ XXI. Distribuir, por riguroso turno, los expedientes a los magistrados de las sa
 
 XXII. En caso de que el Presidente estime trascendental un asunto relacionado con las facultades que este artículo le concede o de la competencia de las salas, podrá someterlo a la consideración del Pleno;
 
-XXIII. Informar al Pleno, en el mes de julio de cada año, acerca del estado que guarda la administración del Poder Judicial;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+XXIII. Informar al Pleno, en el mes de septiembre de cada año, acerca del estado que guarda la administración del Poder Judicial;
 
 XXIV. Crear las unidades administrativas auxiliares de la Presidencia que estime convenientes para el adecuado desarrollo de sus funciones y designar a los respectivos titulares y empleados, recibir las renuncias que presenten a sus cargos y aprobar la suspensión, destitución o terminación de los efectos del nombramiento en los casos previstos en esta Ley, ordenamientos laborales y demás disposiciones aplicables;
 
@@ -2648,3 +2652,13 @@ P.O. 18 DE ABRIL DE 2017.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 29 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 24 Y LA FRACCIÓN XXIII DEL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. El informe sobre el estado que guarda la administración de justicia durante el periodo 2017 - 2018, se presentará en el mes de septiembre del año 2018.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
