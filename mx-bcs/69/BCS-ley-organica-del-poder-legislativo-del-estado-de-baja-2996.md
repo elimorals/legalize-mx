@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2018-07-13"
+last_updated: "2018-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -347,6 +347,16 @@ XIV.- Firmar la correspondencia y demás comunicaciones del Congreso que así se
 
 XV.- Tomar las protestas de Ley a los Servidores Públicos y Diputados que la deban rendir.
 
+> <small>(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+XV BIS.- Notificar a la Comisión o Comisiones Permanentes o Especiales que correspondan, que el Titular del Poder Ejecutivo o las Fracciones Parlamentarias han señalado con el carácter de preferente alguna o algunas de las iniciativas que fueron presentadas en periodos anteriores y que se encuentran pendientes de dictamen.
+
+Cuando así corresponda, deberá notificar con una anticipación de cinco días naturales a la comisión o comisiones permanentes que el plazo para dictaminar la iniciativa preferente está por vencerse, informando desde luego al pleno, sobre tal notificación.
+
+> <small>(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+XV TER.- Incluir en el orden del día de la siguiente sesión ordinaria, para su discusión y votación, las iniciativas con carácter preferente que no hayan sido dictaminadas (sic) justificación dentro del plazo de treinta días naturales.
+
 XVI.- Las demás que se deriven de esta Ley o sus Reglamentos y de las disposiciones o acuerdos que emita el Congreso.
 
 ###### ARTICULO 42.
@@ -505,7 +515,7 @@ XII.- Administrar con eficiencia y transparencia el presupuesto de egresos del C
 
 XIII.- Llevar a cabo corresponsablemente a través de su Presidente el proceso de entrega recepción que establece el Titulo Octavo de la Ley Reglamentaria.
 
-XIV.- Establecer una agenda legislativa común, para cada uno de los periodos ordinarios de sesiones, de los asuntos o temas relevantes para la vida pública del Estado.
+XIV.- (DEROGADA, B.O. 15 DE AGOSTO DE 2018)
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1975,6 +1985,26 @@ V.- A los Ciudadanos inscritos en la lista nominal de Electores, cuyo número re
 
 Las iniciativas presentadas conforme a esta fracción deberán ser dictaminadas dentro del término de 30 días hábiles siguientes, contados a partir del día en que hubieren sido turnados por el pleno a la Comisión correspondiente.
 
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+ARTICULO 101 BIS.- Al inicio de cada periodo ordinario de sesiones, el Gobernador del Estado podrá presentar hasta dos iniciativas para trámite preferente, o bien señalar con tal carácter hasta dos que se hubieren presentado en periodos anteriores y se encuentren pendientes de dictamen.
+
+De igual forma, cada una de las fracciones parlamentarias del Congreso del Estado, podrá presentar una iniciativa para trámite preferente, o bien, señalar con tal carácter una de las que hubiere presentado en periodos anteriores y que se encuentre pendiente de dictamen.
+
+El Congreso del Estado deberá discutir y votar las iniciativas de trámite preferente en un plazo no mayor a treinta días naturales, contados a partir del día siguiente a aquel en que hayan sido turnadas o así señaladas en el pleno. Dicho plazo será improrrogable.
+
+Las iniciativas ciudadanas se considerarán de trámite preferente de acuerdo a lo establecido en la fracción VI del numeral 57 de la Constitución del Estado y gozarán del término de 30 días naturales para ser dictaminadas y sometidas a votación ante el Pleno del Congreso del Estado. En materia de iniciativa ciudadana no opera la prórroga.
+
+Para efectos del presente artículo se entenderá por inicio del periodo, la sesión de apertura de periodo ordinario y las dos sesiones siguientes a esta.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+ARTICULO 101 TER.- La iniciativa preferente es aquella que es presentada ante el Congreso del Estado por el Titular del Poder Ejecutivo o por las fracciones parlamentarias para que sea tramitada de forma preferente, o bien, aquella o aquellas que son señaladas con tal carácter de entre las que se hubieren presentado en periodos anteriores y que estén pendientes de dictamen.
+
+La iniciativa preferente podrá versar sobre cualquier materia y comprender uno o más ordenamientos cuando exista conexidad en los temas.
+
+Transcurrido el plazo sin que se formule el dictamen correspondiente, la presidencia de la mesa directiva deberá incluir sin mayor trámite y en sus términos, la iniciativa preferente en el orden del día de la siguiente sesión ordinaria para su discusión y votación.
+
 ###### ARTICULO 102.
 
 Es iniciativa de Ley aquella que tienda a una resolución que otorgue derechos o imponga obligaciones a la generalidad de las personas.
@@ -2495,7 +2525,7 @@ La Sesión inaugural de cada Primer Período Ordinario, que deberá ser invariab
 
 I.- Nombramiento, por la Presidencia, de comisiones que introduzcan al Recinto del Congreso y de las que acompañen a su salida del mismo, al Ciudadano Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que deban asistir especialmente a ella.
 
-Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
+Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
 
 II.- Ya en el Salón de Sesiones el Ciudadano Gobernador del Estado, el Presidente le concederá la palabra para que rinda el Informe a que se refiere la Fracción XX del Artículo 79 de la Constitución Política del Estado.
 
@@ -2561,6 +2591,54 @@ El Congreso del Estado, a propuesta de la Junta de Gobierno y Coordinación Pol�
 
 El Congreso del Estado podrá solicitar al Instituto Estatal electoral, lleve a cabo el plebiscito con respecto de los ayuntamiento (sic), cuando se pretenda erigir un Municipio, en las mismas condiciones, podrá solicitar al organismo que señala la Ley de la materia, someta a plebiscito de los ciudadanos de sus respectivos Municipios los actos que pretendan efectuar, así como los convenios que tengan programado celebrar con otros Municipios, entidades o particulares.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 15 DE AGOSTO DE 2018)</small>
+
+## TITULO CUARTO BIS. DE LA PLANEACIÓN LEGISLATIVA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 15 DE AGOSTO DE 2018)</small>
+
+### CAPITULO UNICO. DEL PLAN DE DESARROLLO LEGISLATIVO
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+ARTICULO 192 BIS.- El Plan de Desarrollo Legislativo es el documento rector en materia de planeación legislativa, administrativa y de gestión comunitaria, en el cual se establecen los objetivos, las estrategias y las líneas de acción a las que se sujetará el Congreso del Estado, para el mejor desempeño de las facultades que le corresponden, así como para su modernización institucional.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+ARTICULO 192 TER.- Cada Legislatura contará con un Plan, mismo que deberá ser aprobado por al menos las dos terceras partes de los integrantes del Pleno, a más tardar en la primera quincena del mes de diciembre del primer periodo ordinario de sesiones del primer año de ejercicio constitucional.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+ARTICULO 192 QÚATER.- La Junta de Gobierno y Coordinación Política será el órgano encargado de la elaboración del Plan, de conformidad con la metodología y el calendario de trabajo que al efecto expida durante la primera quincena del mes de septiembre del inicio de la legislatura.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+ARTICULO 192 QUINQUIES.- El Plan de Desarrollo Legislativo, entrará en vigor el primer día hábil del año siguiente a aquel en que fue aprobado, previa publicación en el Boletín Oficial del Gobierno del Estado, debiendo además, estar a disposición de la sociedad sudcaliforniana en formato electrónico en el portal de internet del Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+ARTICULO 192 SEXIES.- El Pleno del Congreso, a propuesta de la Junta de Gobierno y Coordinación Política podrá actualizar anualmente el contenido del Plan de Desarrollo Legislativo, dentro de los quince días hábiles posteriores al inicio del primer periodo ordinario de sesiones del segundo o tercer año de ejercicio constitucional.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+ARTICULO 192 SEPTIES.- Para garantizar la continuidad en materia de planeación legislativa, la Legislatura entrante tomará en consideración los avances, evaluaciones, resultados y acciones por concluir, que se contemplaron en el Plan aprobado por la legislatura saliente.
+
+Para el control, seguimiento y evaluación del Plan, el Congreso del Estado utilizará los indicadores que considere necesarios, de conformidad con los acuerdos emitidos para tal efecto por la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+ARTICULO 192 OCTIES.- El Plan de Desarrollo Legislativo deberá contener al menos los siguientes puntos:
+
+I.- Políticas para el fortalecimiento del trabajo legislativo;
+
+II.- Integración de una Agenda Legislativa Común;
+
+III.- Políticas para el fortalecimiento administrativo y modernización institucional;
+
+IV.- Políticas de difusión y vinculación con los medios de comunicación social; y
+
+V.- Políticas de vinculación institucional, social y con los sectores productivos.
+
 ## TITULO QUINTO. DEL PROCEDIMIENTO EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
 ### CAPITULO UNICO
@@ -2568,14 +2646,6 @@ El Congreso del Estado podrá solicitar al Instituto Estatal electoral, lleve a 
 DE LA COMISION INSTRUCTORA DEL JUICIO POLITICO Y DEL PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
-
-## TITULO SEXTO. DE LAS VARIAS ATRIBUCIONES CONSTITUCIONALES DEL CONGRESO
-
-### CAPITULO I
-
-DE LAS REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO.
-
-> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 193.
 
@@ -2655,11 +2725,13 @@ Por los autos y determinaciones de la Comisión Instructora, que produzcan irrep
 
 Cuando uno o más Diputados sean acusadores durante el procedimiento relativo al Juicio Político o para la declaración de procedencia, no tendrán voto en el fallo que se pronuncie, ni en los diversos incidentes del proceso.
 
-## TITULO SEPTIMO. DE LA DIPUTACION PERMANENTE
+## TITULO SEXTO. DE LAS VARIAS ATRIBUCIONES CONSTITUCIONALES DEL CONGRESO
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA CALIFICACION DE LA ELECCION DE SENADORES.
+DE LAS REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO.
+
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 212.
 
@@ -2679,17 +2751,17 @@ II.- De la lista señalada en la fracción anterior, la Comisión Especial Plura
 
 III.- En caso de no alcanzarse la votación señalada en la fracción anterior, se procederá a conformar una terna con los candidatos que hubiesen obtenido mayor votación, y se procederá a elegir de entre ellos a quien ocupará el cargo de Contralor General del Instituto Estatal Electoral.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA CALIFICACION DE LA ELECCION DE GOBERNADOR.
+DE LA CALIFICACION DE LA ELECCION DE SENADORES.
 
 ###### ARTICULO 214.
 
 (DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA CALIFICACION DE LA ELECCION DE AYUNTAMIENTOS.
+DE LA CALIFICACION DE LA ELECCION DE GOBERNADOR.
 
 ###### ARTICULO 215.
 
@@ -2705,9 +2777,9 @@ Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de
 
 En caso de falta absoluta del Gobernador del Estado, se procederá de conformidad con lo dispuesto en el Artículo 72 de la Constitución Política del Estado de Baja California Sur.
 
-### CAPITULO I
+### CAPITULO IV
 
-DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
+DE LA CALIFICACION DE LA ELECCION DE AYUNTAMIENTOS.
 
 ###### ARTICULO 218.
 
@@ -2725,15 +2797,11 @@ DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
 
 (DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
-## TITULO OCTAVO. DE LA ENTREGA-RECEPCION
+## TITULO SEPTIMO. DE LA DIPUTACION PERMANENTE
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+### CAPITULO I
 
-### CAPITULO II
-
-DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)</small>
+DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
 
 ###### ARTICULO 222.
 
@@ -2751,11 +2819,11 @@ Hecha la elección de la Directiva, los electos tomarán desde luego, posesión 
 
 Las faltas del Presidente se cubrirán por el Secretario; en su defecto por el miembro restante y por los suplentes en el orden de su nombramiento. Las faltas del Secretario se cubrirán por el miembro restante de la Diputación Permanente y en su defecto, con los suplentes por el orden de su nombramiento.
 
-### CAPITULO PRIMERO
+### CAPITULO II
 
-DISPOSICIONES GENERALES.
+DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 226.
 
@@ -2833,15 +2901,15 @@ Al final de su ejercicio, la Diputación Permanente entregará a la Directiva de
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
-## TITULO NOVENO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACION
+## TITULO OCTAVO. DE LA ENTREGA-RECEPCION
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
-DE LA DOCUMENTACION.
+DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 236.
 
@@ -2899,11 +2967,11 @@ En este caso, el Presidente de la Junta de Gobierno y Coordinación Política en
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPITULO TERCERO
+### CAPITULO SEGUNDO
 
-DE LAS RESPONSABILIDADES.
+DE LA DOCUMENTACION.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 244.
 
@@ -2937,9 +3005,11 @@ e). Sueldos no cobrados.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
+### CAPITULO TERCERO
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+DE LAS RESPONSABILIDADES.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 245.
 
@@ -2947,11 +3017,13 @@ El incumplimiento de las disposiciones contenidas en la presente Ley, será sanc
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO I BIS. ARTICULO 249 BIS.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
+## TITULO NOVENO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACION
 
-ARTICULO 249 TER.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 246.
 
@@ -2989,17 +3061,17 @@ El Comité y la Unidad de Transparencia solicitarán a los servidores públicos 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
+### CAPITULO I BIS. ARTICULO 249 BIS.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
+
+ARTICULO 249 TER.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ### CAPITULO II
 
 DE LA ATENCION DE LAS SOLICITUDES DE INFORMACION PUBLICA.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
-
-### CAPITULO III
-
-DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL.
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 250.
 
@@ -3050,6 +3122,12 @@ V.- No haber sido condenado por delito que amerita pena corporal de más de un a
 VI.- No estar inhabilitado para ejercer cargos públicos en el Estado y la Federación.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO III
+
+DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 252.
 
@@ -3283,9 +3361,9 @@ B.O. 31 DE JULIO DE 2012.
 
 B.O. 20 DE DICIEMBRE DE 2012.
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-SEGUNDO.- Dentro de los diez días hábiles posteriores a la entrada en vigor del presente decreto se integrará e instalará la Comisión Permanente de Seguimiento a los Acuerdos Económicos.
+SEGUNDO.- Dentro de los diez días hábiles posteriores a la entrada en vigor del presente decreto se integrará e instalará la Comisión Permanente de Seguimiento a los Acuerdos Económico.
 
 B.O. 31 DE DICIEMBRE DE 2012.
 
@@ -3402,3 +3480,23 @@ SEGUNDO.- Sin perjuicio de lo dispuesto en el Artículo Transitorio PRIMERO, la 
 Los recursos materiales que necesite para realizar su función, serán prioritariamente asignados dando la importancia de los ya existentes dentro del Poder Legislativo y los recursos humanos, serán buscando el perfil requerido dentro del personal que actualmente se encuentra laborando en este Poder Legislativo.
 
 TERCERO.- En el Presupuesto del Congreso del Estado de Baja California Sur, para el ejercicio fiscal 2019, se deberán considerar los recursos necesarios para el cumplimiento de las funciones que desempeñará la Unidad para la Igualdad de Género en el Congreso del Estado de Baja California Sur.
+
+B.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2552 SE ADICIONA UNA FRACCIÓN IV BIS AL ARTÍCULO 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, ASIMISMO, SE DEROGA LA FRACCIÓN XIV DEL ARTÍCULO 51 Y SE ADICIONA UN TÍTULO CUARTO BIS DENOMINADO "DE LA PLANEACIÓN LEGISLATIVA" CON UN CAPITULO ÚNICO DENOMINADO "DEL PLAN DE DESARROLLO LEGISLATIVO" CONFORMADO POR LOS ARTÍCULOS 192 BIS, 192 TER, 192 QÚATER, 192 QUINQUIES, 192 SEXIES, 192 SEPTIES, Y 192 OCTIES, A LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día 01 de septiembre de 2018, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2553 SE REFORMAN EL PRIMER Y SEGUNDO PÁRRAFO AL NUMERAL 57 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, SE ADICIONAN LAS FRACCIONES XV BIS Y XV TER AL ARTÍCULO 41 Y LOS ARTÍCULOS 101 BIS Y 101 TER A LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMAN EL PRIMER PÁRRAFO, LAS FRACCIONES III, IV Y V DEL ARTÍCULO 62, LOS ARTÍCULOS 63 Y 65 DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
