@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2017-06-10"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -2155,6 +2155,10 @@ III. Que se designen, en caso de ser prueba instrumental, los archivos públicos
 
 El juez al calificar la admisibilidad de las pruebas, determinará el monto de la cantidad que el promovente deposite como multa, en caso de no rendirse la prueba. Sin este depósito no se hará el señalamiento para la recepción de la prueba.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 15 DE AGOSTO DE 2018)</small>
+
+En los juicios de desocupación no es aplicable el término extraordinario a que se refiere este artículo.
+
 ###### Artículo 298.
 
 Al litigante al que se le hubiere concedido la ampliación a que se refiere el artículo anterior, se le podrán entregar los exhortos para su diligenciación y si no rindiere las pruebas que hubiere propuesto sin justificar que para ello tuvo impedimento bastante, se le impondrá una sanción pecuniaria a favor de su contraparte, equivalente al monto de su depósito a que se hace mención en el artículo anterior; asimismo se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte, y además se dejará de recibir la prueba.
@@ -3293,59 +3297,159 @@ Las resoluciones que se dicten en esta vía especial hipotecaria podrán ser ape
 
 Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al juzgado de su origen, se mandará cancelar la anotación de la demanda en el Registro Público de la Propiedad y en su caso se devolverá el inmueble al demandado, ordenando al depositario que rinda cuentas con pago en el término que le fije el juez, que no podrá exceder de treinta días. Si el remate se hubiera ya verificado, se hará efectiva la fianza en la vía de apremio, conforme se dispone en el artículo 682 de este ordenamiento.
 
-### CAPITULO IV. Del juicio especial de desahucio
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 15 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO IV
+
+De las controversias de arrendamiento inmobiliario.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 473.
 
-La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento, o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental, o cualquiera otra bastante como medio preparatorio del juicio.
+A las controversias que versen sobre el arrendamiento inmobiliario les serán aplicables las disposiciones de este Capítulo.
+
+A las acciones que se intenten contra el fiador que haya otorgado fianza de carácter civil o terceros solidarios, por controversias derivados del arrendamiento, se les aplicarán las reglas de este título, en lo conducente. Igualmente, la acción que intente el arrendatario para exigir al arrendador, el Derecho de Preferencia y el pago de los daños y perjuicios a que se refiere el artículo 2351 del Código Civil del Estado, se sujetará a lo dispuesto en este Capítulo.
+
+Las controversias de arrendamiento serán susceptibles de mediación en cualquier etapa en que se encuentren, en términos de la Ley de Mecanismos Alternativos de Solución de Controversias del Estado.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 473 Bis.
+
+Para el ejercicio de cualesquiera de las acciones previstas en este Capítulo, el actor deberá exhibir con su demanda el contrato de arrendamiento o documento justificativo del mismo.
+
+En la demanda, contestación, reconvención y contestación a la reconvención, las partes deberán ofrecer las pruebas que pretendan rendir durante el juicio, exhibiendo las documentales que tengan en su poder o el escrito sellado mediante el cual se hayan solicitado los documentos que no tuvieran en su poder.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 473 Ter.
+
+Simultáneamente al ejercicio de la acción de desocupación que se funde en la falta de pago de una o más rentas, podrá reclamarse el pago de las rentas vencidas y las que se sigan venciendo hasta que el inmueble haya sido desocupado y entregado al arrendador.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 474.
 
-Presentada la demanda con el documento o la justificación correspondiente, dictará auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique, con el recibo correspondiente, estar al corriente en el pago de las rentas, y no haciéndolo, se le prevenga que dentro de treinta días, si el inmueble sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa días si fuere rústico, proceda a desocuparlo, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
+En el caso previsto por el artículo anterior, recibida la demanda en que se reclame la desocupación y el pago de rentas, el juez dictará auto mandando requerir al arrendatario para que en el acto de la diligencia justifique, con el recibo correspondiente, estar al corriente en el pago de las rentas, o haga pago de ellas en el acto; y no haciéndolo, se le prevenga que dentro de tres días siguientes si el inmueble fue rentado por un periodo limitado en términos del Capítulo VI Bis, o dentro de quince días si el inmueble sirve para habitación, o dentro de treinta días si sirve para giro mercantil o industrial, o dentro de cuarenta días si fuere rústico, proceda a desocuparlo, apercibido de lanzamiento a su costa si no lo efectúa.
+
+Si lo pidiere el actor, en el mismo auto, mandará que se embarguen y depositen bienes bastantes para cubrir las pensiones reclamadas. El derecho de señalar los bienes a embargar corresponderá en primer término al arrendador.
+
+En el mismo acto se emplazará a juicio al demandado para que dentro de cinco días hábiles ocurra a oponer las excepciones que tuviere.
+
+Si en el acto de la diligencia justificare el arrendatario, con los recibos correspondientes, haber hecho el pago de las rentas o pensiones reclamadas, o exhibiere su importe o prueba del pago o consignación hecha en términos de Ley, se suspenderá la diligencia de embargo, asentándose constancia de estas circunstancias en el acta y agregándose los justificantes que se presenten, para dar cuenta al juzgado. Si se exhibiere el importe reclamado, se mandará entregar al actor sin más trámite.
+
+Si se exhibieren copias de escritos de ofrecimiento de pago y consignación, se pedirán los originales por oficio al juzgado en que se encuentren, así como los correspondientes certificados. Recibidos éstos, se entregarán los certificados al arrendador a cambio de los recibos correspondientes. En caso de presentarse recibos de pago, se mandará dar vista al actor por el término de tres días hábiles. Si el actor no objeta los recibos, se tendrá por conforme con el pago. Si el actor sí objeta los recibos, dentro de los cinco días hábiles siguientes se citará a las partes para la audiencia de pruebas y alegatos a que se refiere el artículo 478.
+
+Para el caso del artículo 2389 del Código Civil, el juez ordenará que en la diligencia se requiera al arrendatario que acredite estar al corriente con el pago de las rentas, bajo el apercibimiento que, de no hacerlo, se le embargarán bienes bastantes para cubrir las pensiones reclamadas, asimismo, el juez ordenará que requiera al arrendatario que acredite su derecho a ocupar el inmueble con el contrato vigente respectivo, pues en caso contrario, se le ordenará que desocupe el inmueble dentro de los plazos a que se refiere el presente Capítulo.
+
+Los plazos referidos en el presente artículo se computarán por días naturales y son irrenunciables.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 475.
 
-Si en el acto de la diligencia justificare el arrendatario, con los recibos correspondientes, haber hecho el pago de las pensiones reclamadas, o exhibiere su importe o copia sellada por un juzgado de escritos de ofrecimiento de pago a los que hubiere acompañado los certificados de depósito respectivos, se suspenderá la diligencia, asentándose constancia de estas circunstancias en el acta y agregándose los justificantes que se presenten, para dar cuenta al juzgado. Si se exhibiere el importe, se mandará entregar al actor sin más trámite y se dará por terminado el procedimiento.
+Será domicilio legal para hacer el requerimiento y emplazamiento a que se refiere el artículo anterior, la finca o departamento de cuya desocupación se trate. La diligencia se entenderá con el demandado, o en su defecto, con cualquier persona de su familia, domésticos o porteros, excepto si fueren empleados o dependientes del propietario. Si el local se encuentra cerrado, podrá entenderse con el agente de la policía o vecinos, fijándose en la puerta del inmueble el citatorio correspondiente; además, en este último caso, un instructivo, haciendo saber el objeto de la diligencia. Lo mismo sucederá tratándose de un inmueble que se encuentre en condominio, supuesto en el cual, ante la negativa de atención de la diligencia por parte del demandado o negativa de la administración del condominio a permitir el acceso al inmueble o unidad en cuestión, esta se podrá entender con el vigilante del condominio.
 
-Si se exhibieren copias de escritos de ofrecimiento de pago, se pedirán los originales por oficio al juzgado en que se encuentren, así como los correspondientes certificados. Recibidos éstos se dará por terminado el procedimiento y se entregarán los certificados al arrendador a cambio de los recibos correspondientes. En caso de presentarse recibos de pago, se mandará dar vista al actor por el término de tres días; si no los objeta, se dará por concluido el juicio; si los objeta, dentro de los tres días siguientes podrán las partes ofrecer pruebas, y se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 478.
+Los administradores del condominio, conjunto residencial o fraccionamiento sin acceso al público, así como los terceros encargados de su vigilancia, serán solidariamente responsables de los daños y perjuicios que se le ocasionen al arrendador por impedir, obstaculizar o retrasar la práctica de diligencias que haya ordenado el juez de conocimiento.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 476.
 
-Cuando durante el plazo fijado para el desahucio exhiba el inquilino el recibo de las pensiones debidas o el importe de ellas, dará el juez por terminada la providencia de lanzamiento, sin condenación en costas.
+Cuando durante el plazo fijado por el artículo 474 para la desocupación exhiba el inquilino el recibo de las rentas adeudadas o el importe de ellas, dará el juez por terminada (sic) el procedimiento, sin condenación en costas, siempre que el contrato siga vigente.
 
-Si el recibo presentado es de fecha posterior, o la exhibición del importe de las pensiones se hace fuera del término señalado para el desahucio pero antes de que se dicte sentencia definitiva, también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
+Si el recibo presentado es de fecha posterior, o la exhibición del importe de las rentas se hace fuera del término señalado para la desocupación, pero antes de que se dicte sentencia definitiva, también se dará por concluida la providencia de lanzamiento, siempre que el contrato siga vigente, pero se condenará al inquilino al pago de las costas causadas.
+
+Cuando el contrato ya no esté vigente, ya sea porque llegó a su término o por rescisión, y el actor haya solicitado la entrega del inmueble en la demanda, el juez deberá siempre ordenar en la sentencia correspondiente la entrega del inmueble dentro de los plazos que marca este Capítulo y el lanzamiento a costa del arrendatario en caso de no desocupar el inmueble en forma voluntaria.
 
 ###### Artículo 477.
 
-Los beneficios de los plazos que este capítulo concede a los inquilinos, no son renunciables.
+(DEROGADO, B.O. 15 DE AGOSTO DE 2018)
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 478.
 
-En caso de que se opongan otras excepciones por el inquilino, las cuales en ningún caso suspenderán el procedimiento, sólo se admitirán si se ofrecen pruebas al respecto, mandándose dar vista con ellas al actor por tres días, quien podrá dentro de ese plazo ofrecer pruebas. El juez, previa decisión sobre las pruebas, citará a una audiencia de desahogo de las admitidas y de alegatos, que se efectuará dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe efectuarse antes del vencimiento del término fijado para el lanzamiento.
+En las controversias de arrendamiento inmobiliario por falta de pago de una o más rentas, solo son oponibles las siguientes excepciones:
 
-Para no pagar las rentas el inquilino, sólo puede oponer como excepciones las derivadas de los artículos 2335 a 2338 y 2349, del Código Civil.
+I.- Pago;
 
-Son improcedentes la reconvención y la compensación.
+II.- Impedimento total o parcial para el uso de la cosa arrendada, por caso fortuito o fuerza mayor, en los términos de los artículos 2335 y 2336, sin perjuicio de lo dispuesto en el artículo 2381 Quiquies (sic), todos del Código Civil del Estado;
+
+III.- Privación de uso, proveniente de la evicción, en los términos del artículo 2338 del Código Civil del Estado;
+
+IV.- Privación de uso total o parcial por causa de reparaciones en los términos del Artículo 2349 del Código Civil del Estado, y
+
+V.- Quita o novación.
+
+Las excepciones señaladas en el presente artículo, así como las que procedan conforme al presente Capítulo, en ningún caso suspenderán el procedimiento, salvo la excepción de pago que, de ser declarada procedente, dará por concluido el juicio, a menos que además se haya demandado la entrega del inmueble u otras prestaciones y no haya un contrato vigente para justificar la ocupación del mismo.
+
+Las excepciones aquí previstas solo se admitirán si se ofrecen pruebas al respecto, mandándose dar vista con ellas al actor por tres días hábiles, quien podrá dentro de ese plazo ofrecer pruebas. En el caso de la fracción V, únicamente serán admisibles pruebas documentales.
+
+El juez, previa decisión sobre la admisión o no de las pruebas, citará a una audiencia de desahogo de las admitidas y de alegatos, la cual se efectuará dentro de los ocho días hábiles siguientes, teniendo en cuenta que esta audiencia debe efectuarse antes del vencimiento del término fijado para el lanzamiento.
+
+En las controversias de arrendamiento inmobiliario por falta de pago de una o más rentas, son improcedentes la reconvención y la compensación.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 478 Bis.
+
+En cualquier estado del juicio, procede dictar resolución decretando la desocupación del inmueble cuando:
+
+I.- El inquilino se allane expresamente a la terminación del contrato de arrendamiento;
+
+II.- No haya un contrato o convenio vigente que justifique la ocupación del inmueble;
+
+III.- La prórroga concedida al arrendador se haya consumido durante la tramitación del juicio.
+
+Para los casos previstos en las fracciones I y III de este artículo, el juez deberá otorgar al inquilino un plazo de gracia de diez días naturales tratándose de arrendamientos con vigencia menor a un año, y un plazo de treinta días naturales para todos los demás casos, a fin de que desocupe voluntariamente el inmueble, y aunque no se haga esta declaración, se entenderá sujeto al término expresado.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 479.
 
-La sentencia que decrete el desahucio será apelable en el efecto devolutivo; la que lo niegue, será apelable en ambos efectos.
+La sentencia que decrete la desocupación será apelable en el efecto devolutivo y se ejecutará sin necesidad de otorgamiento de garantía. La sentencia que niegue la desocupación será apelable en ambos efectos.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 480.
 
-Si las excepciones fueren declaradas procedentes en la misma resolución, dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 474.
+Si las excepciones fueren declaradas procedentes, en la misma resolución dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse los señalados en este Capítulo, o habiéndose concluido el plazo correspondiente, señalará un plazo que no exceda de cinco días hábiles.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 481.
 
-La diligencia de lanzamiento se entenderá con el ejecutado o, en su defecto, con cualquier persona de la familia, doméstico, portera o portero, agente de la policía o vecinos, pudiéndose romper las cerraduras de la puerta si necesario fuere. Los muebles y objetos que en la casa se encuentren, si no hubiere persona de la familia del inquilino que los recoja u otra autorizada para ello, se remitirán por inventario a la demarcación de policía preventiva correspondiente o al local que designe la autoridad municipal, dejándose constancia de esta diligencia en autos.
+La diligencia de lanzamiento se entenderá con el ejecutado o, en su defecto, con cualquier persona de la familia, doméstico, portera o portero, agente de la policía, vecinos o cualquier ocupante del inmueble, pudiéndose romper las cerraduras de la puerta si fuere necesario u obtener el auxilio de la fuerza pública, sin necesidad de solicitar providencia o auto nuevo al juez. Los muebles y objetos que en la casa se encuentren, si no hubiere persona de la familia del inquilino que los recoja u otra autorizada para ello, se remitirán, a costa del ejecutado, por inventario a la demarcación de policía preventiva correspondiente o al local que designe la autoridad municipal, dejándose constancia de esta diligencia en autos.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 482.
 
-Al hacer el requerimiento que se dispone en el artículo 474, se embargarán y depositarán bienes bastantes para cubrir las pensiones reclamadas, si así se hubiere decretado. Lo mismo se observará al ejecutarse el lanzamiento.
+Verificado el lanzamiento, y en caso de que se hayan embargado bienes, previa liquidación de las rentas adeudadas, se procederá en la vía de apremio.
+
+El ejecutado podrá, antes del remate que se celebre de los bienes que le fueron embargados, librarse de su obligación de pago cubriendo las pensiones y demás accesorios que adeude.
+
+El arrendador podrá adjudicarse los bienes embargados a valor avalúo si en la audiencia de remate nadie se los adjudica. En caso contrario se procederá a segunda almoneda en términos de este Código.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 483.
 
-Para la ejecución del desahucio se tiene como domicilio legal del demandado, la finca o departamento de cuya desocupación se trata.
+En todo lo no previsto en este Capítulo, regirán las reglas generales de este Código de Procedimientos Civiles, en cuanto no se opongan a las disposiciones del presente Capítulo.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 483 Bis.
+
+El juez tendrá las más amplias facultades para decidir en forma pronta y expedita lo que en derecho convenga.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 483 Ter.
+
+Serán aplicables las disposiciones de este Capítulo a los juicios relativos al comodato, depósito, aparcería, transportes y hospedaje, en todo aquello que no sea contrario a su naturaleza.
 
 ### CAPITULO V. De la vía de apremio
 
@@ -6641,11 +6745,7 @@ El tercero que considere perjudicados sus derechos al ejecutar la sentencia ocur
 
 ###### Artículo 978.
 
-Los juicios de desocupación de predios o localidades arrendadas se substanciarán conforme a las reglas establecidas para los demás juicios, sin tener en caso alguno período de lanzamiento.
-
-Cuando la sentencia condene a la desocupación se concederá para ésta un término de ocho a veinte días, según la importancia del bien arrendado, a juicio del juez, pero desde luego se procederá al aseguramiento de bienes suficientes a cubrir el importe de las rentas a cuyo pago se hubiere condenado.
-
-La desocupación de predios rústicos podrá decretarse hasta los sesenta días.
+(DEROGADO, B.O. 15 DE AGOSTO DE 2018)
 
 Incidentes
 
@@ -6866,3 +6966,13 @@ SEGUNDO.- Las disposiciones relativas al cobro de derechos a que se refiere el p
 TERCERO.- El Consejo de la Judicatura deberá expedir el Reglamento del Tribunal Electrónico dentro de los quince días siguientes a la publicación del presente Decreto.
 
 CUARTO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2554 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES, AMBOS, DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los juicios de desahucio cuya tramitación inició con anterioridad al presente Decreto, continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
