@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2018-06-26"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -1085,9 +1085,9 @@ En los casos de los puntos 1 y 2 de esta fracción, el Congreso nombrará un Con
 
 XXII.- Solicitar al Instituto Electoral del Estado, por el voto de las dos terceras partes de sus miembros, que someta a plebiscito, en los términos que disponga la ley correspondiente, las propuestas de decisiones o actos del Ejecutivo del Estado considerados como trascendentales para el orden público o el interés social de la Entidad.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
 
-XXIII.- Recibir la protesta Constitucional a los Diputados, al Gobernador de elección popular directa, al interino o al substituto, a los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, al Auditor Superior del Estado y a todos los demás que conforme a las Leyes no deban otorgar protesta ante otra autoridad;
+XXIII.- Recibir la protesta Constitucional a los Diputados, a los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, al Auditor Superior del Estado, en su caso, al Gobernador de elección popular directa, al interino o al substituto, y a todos los demás que conforme a las Leyes no deban otorgar protesta ante otra autoridad;
 
 XXIV.- Expedir y modificar la ley que regule su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
 
@@ -1171,15 +1171,15 @@ La Comisión Permanente se instalará y ejercerá sus atribuciones conforme a la
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-###### Artículo 61
+###### Artículo 61.
 
 Son atribuciones de la Comisión Permanente:
 
 I.- Acordar por sí o a propuesta del Ejecutivo, oyéndolo en el primer caso, la convocatoria de la Legislatura a sesiones extraordinarias. La convocatoria señalará el objeto de las sesiones y la fecha en que deban comenzar.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
 
-II.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, del Auditor Superior del Estado, y demás que conforme a Ley deba conocer el Congreso;
+II.- Recibir la protesta de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, del Auditor Superior del Estado, en su caso, del Gobernador y demás que conforme a (sic) Ley deba conocer el Congreso;
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
@@ -1348,6 +1348,10 @@ V.- No ser ministro de algún culto religioso.
 ###### Artículo 75.
 
 El Gobernador durará en su encargo seis años y tomará posesión en ceremonia que se celebrará el día catorce de diciembre del año de la elección.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2018)</small>
+
+El Gobernador, al tomar posesión de su cargo, prestará la protesta de Ley correspondiente ante el Congreso o ante la Comisión Permanente, en los recesos de aquél. En caso de que por cualquier circunstancia, el Gobernador no pudiere rendir la protesta ante el Congreso o ante la Comisión Permanente, lo hará de inmediato ante el Presidente del Tribunal Superior de Justicia del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -3662,3 +3666,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto por el presente Decreto.
 
 TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR VIRTUD DEL CUAL SE REFORMAN LA FRACCIÓN XXIII DEL ARTÍCULO 57 Y LA FRACCIÓN II DEL 61; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 75, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adición han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
