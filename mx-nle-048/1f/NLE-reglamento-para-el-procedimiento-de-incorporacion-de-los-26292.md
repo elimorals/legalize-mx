@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-procedimiento-de-incorporacion-de-los-26292"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-21"
-last_updated: "2002-10-21"
+last_updated: "2018-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL PROCEDIMIENTO DE INCORPORACION DE LOS BIENES INMUEBLES, DE USO COMUN Y PUBLICO, AL PATRIMONIO MUNICIPAL DE SANTA CATARINA, NUEVO LEON
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE APRUEBA LA CREACIÓN DEL REGLAMENTO DE PATRIMONIO PARA EL MUNICIPIO DE SANTA CATARINA, N.L, PUBLICADO EN EL P.O. DE 15 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE APRUEBA LA CREACIÓN DEL REGLAMENTO DE PATRIMONIO PARA EL MUNICIPIO DE SANTA CATARINA, N.L, PUBLICADO EN EL P.O. DE 15 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-REGLAMENTO PARA EL PROCEDIMIENTO DE INCORPORACION DE LOS BIENES INMUEBLES, DE USO COMUN Y PUBLICO, AL PATRIMONIO MUNICIPAL
+REGLAMENTO PARA EL PROCEDIMIENTO DE INCORPORACIÓN DE LOS BIENES INMUEBLES, DE USO COMÚN Y PÚBLICO, AL PATRIMONIO MUNICIPAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 21 de octubre de 2002.
 
@@ -135,7 +135,9 @@ Una vez emitida la resolución en definitiva, por parte del Presidente Municipal
 
 ### CAPITULO IV. DE LOS RECURSOS
 
-Articulo16.- Contra las resoluciones emitida por el Presidente Municipal, procede el recurso de Inconformidad, el cual deberá interponerse dentro del termino de tres días hábiles siguientes del día en que el interesado quede legalmente notificado de la citada resolución.
+###### Articulo 16.
+
+Contra las resoluciones emitida por el Presidente Municipal, procede el recurso de Inconformidad, el cual deberá interponerse dentro del termino de tres días hábiles siguientes del día en que el interesado quede legalmente notificado de la citada resolución.
 
 ###### Articulo 17.
 
@@ -186,3 +188,17 @@ DR. HUMBERTO GONZÁLEZ GARIBALDI
 SECRETARIO DEL AYUNTAMIENTO
 
 LIC. TRINIDAD ESCOBEDO AGUILAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA LA CREACIÓN DEL REGLAMENTO DE PATRIMONIO PARA EL MUNICIPIO DE SANTA CATARINA, N.L”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial en el Estado.
+
+SEGUNDO.- Se Abroga el Reglamento para el Procedimiento de Incorporación de los Bienes Inmuebles, de Uso Común y Público al Patrimonio Municipal; publicado en el Periódico Oficial en fecha 21 de octubre de 2002.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan al presente Reglamento.
+
+CUARTO.- Publíquese el presente Reglamento en el Periódico Oficial del Estado de Nuevo León para efectos de su vigencia; así mismo publíquese en la Gaceta Municipal y en el portal de internet del Municipio, para su debida difusión.
