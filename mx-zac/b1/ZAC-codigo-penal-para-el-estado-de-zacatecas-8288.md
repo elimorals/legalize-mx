@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2018-06-23"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1801,21 +1801,17 @@ En los casos considerados por este artículo, se procederá de oficio contra el 
 
 232 Bis.- La conducta a que se refiere el artículo 231, se sancionará a petición del ofendido o de sus representantes.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2018)</small>
 
-### CAPITULO II. HOSTIGAMIENTO SEXUAL
+### CAPITULO II. ACOSO Y HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2018)</small>
 
-233.- A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de dos meses a un año de prisión y multa de tres a ocho cuotas.
+233.- Comete el delito de acoso sexual, quien lleve a cabo conductas verbales, no verbales, físicas o varias de ellas, de carácter sexual y que sean indeseables para quien las recibe, con independencia de que se cause o no un daño a su integridad física o psicológica; se le sancionará con seis meses a dos años de prisión y de cincuenta a trescientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito.
 
-En el caso de que fuere Servidor Público, además se le destituirá de su cargo.
+Este delito se perseguirá por querella; cuando el sujeto activo sea reincidente se perseguirá de oficio.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
-
-Si el ofendido es persona menor de dieciocho años, la pena se duplicará.
-
-Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante y dentro de los seis meses siguientes de producido el daño o perjuicio.
+Si la víctima del delito de acoso sexual fuera menor de edad o, incapaz o no tenga la capacidad de comprender el significado del hecho o posibilidad para resistir la conducta delictuosa, se aplicará de dos a cinco años de prisión y de cien a seiscientas veces la Unidad de Medida y Actualización diaria.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1824,6 +1820,16 @@ Sólo se procederá en contra del sujeto activo a petición de parte ofendida o 
 Cuando el contacto se haga a través del engaño o la violencia física o moral, o bien, cuando exista una relación de parentesco, trabajo o amistad entre la víctima y el imputado, la pena se aumentará hasta en una mitad más.
 
 Se sancionarán tales conductas con independencia de que pudiere resultar cualquier otro delito.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2018)</small>
+
+233 ter.- Comete el delito de hostigamiento sexual quien con fines lascivos asedie a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de uno a cuatro años de prisión y multa de cien a seiscientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito.
+
+En el caso de que fuere Servidor Público, además se le sancionará con la destitución e inhabilitación por un periodo al de la pena de prisión impuesta para desempeñar cargo o comisión pública.
+
+Se aplicará de tres a siete años de prisión y de doscientos a ochocientas veces la Unidad de Medida y Actualización diaria, cuando la víctima del hostigamiento sexual sea menor de edad o incapaz o no tenga la capacidad de comprender el significado del hecho o posibilidad para resistir la conducta delictuosa.
+
+Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -3718,6 +3724,14 @@ Artículo único. El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 23 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 413.- POR EL QUE SE REFORMA Y ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 393.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS, EN MATERIA DE ACOSO SEXUAL".]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
