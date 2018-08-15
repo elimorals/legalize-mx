@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-participacion-ciudadana-para-el-estado-de-baja-122753"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-20"
-last_updated: "2017-07-20"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "BCS"
 ---
 # LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, EL PRESENTE DECRETO ENTRA EN VIGOR A LOS CIENTO OCHENTA DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN]</small>
-
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de julio de 2017.
 
@@ -593,19 +591,27 @@ Desechamiento de plano. El Congreso del Estado desechará de plano toda Iniciati
 
 #### Sección III. De los Requisitos de la Iniciativa Ciudadana
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 62.
 
-Requisitos. La Iniciativa Ciudadana deberá dirigirse al Presidente de la Mesa Directiva del Periodo Ordinario de Sesiones o de la Diputación Permanente, según corresponda y se presentará ante la Oficialía Mayor del Poder Legislativo, debiendo contener como requisitos indispensables:
+Requisitos. La Iniciativa Ciudadana deberá dirigirse al Presidente de la Mesa Directiva del Periodo Ordinario de Sesiones o de la Diputación Permanente, según corresponda y se presentará ante la Oficialía Mayor del Poder Legislativo, debiendo contener los siguientes requisitos:
 
 I. El nombre, firma, número de folio de la credencial de elector y sección de los electores solicitantes, debiendo ser al menos 0.13% del total de las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores correspondiente al estado de Baja California Sur;
 
 II. Domicilio en la capital del Estado y nombrar un representante común para recibir notificaciones y participar en las discusiones en la Comisión respectiva, sin derecho a voto;
 
-III. Exposición de motivos clara y detallada;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-IV. Proposición concreta y que verse sobre una sola materia;
+III. Exposición de motivos;
 
-V. Proyecto en el que se especifique claramente el texto sugerido para reformar uno o varios artículos de la Ley o Código de que se trate y cuando la reforma sugerida sea integral o se trate de una nueva ley o Código, se asentará el articulado íntegro que se propone;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+IV. Proposición concreta formulada en los términos del artículo 59 de la presente Ley;
+
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+V. Proyecto de Decreto en el que se especifique el texto sugerido para reformar uno o varios artículos de la Ley o Código de que se trate y cuando la reforma sugerida sea integral o se trate de una nueva ley o Código, se asentará el articulado íntegro que se propone;
 
 VI. Los Artículos Transitorios que deba contener la Iniciativa Ciudadana; y
 
@@ -613,17 +619,25 @@ VII. Presentarse de manera pacífica y respetuosa.
 
 Para toda iniciativa ciudadana deberán observarse las reglas del interés general y no debe afectarse el orden público, evitando las injurias y términos que denigren a la sociedad o a un sector de la misma.
 
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 63.
 
-Desechamiento por falta de requisitos. La falta de cualquiera de los requisitos a que se refiere el artículo anterior, da lugar al desechamiento de la iniciativa ciudadana por conducto de la Mesa Directiva del Periodo Ordinario de Sesiones o de la Mesa Directiva de la Diputación Permanente, según corresponda.
+Desechamiento por falta de requisitos. La falta de los requisitos establecidos en las fracciones I y V, a que se refiere el artículo anterior, es motivo para desechar la iniciativa ciudadana.
+
+En el caso de que la iniciativa ciudadana no contenga o no sean claros los requisitos previstos en las fracciones II, III, IV y VI, la Comisión Permanente o Especial que se ocupe del dictamen deberá prevenir al representante común para que los subsane o los aclare en un término de cinco días hábiles. Aun y cuando los puntos señalados no sean subsanados o aclarados dentro del término concedido, la iniciativa ciudadana no podrá ser desechada, deberá (sic) dictaminada conforme al trámite legislativo correspondiente.
+
+En caso de que se haya omitido señalar domicilio en la capital del Estado, la notificación de la prevención referida en el artículo anterior se llevara a cabo por cedula de notificación fijada en un lugar visible de la Sala de Comisiones del Congreso del Estado, dicha notificación surtirá sus efectos al día siguiente en que se practique. Cuando no se haya señalado representante común la notificación de la prevención se llevara con cualquier persona que se encuentre en el domicilio señalado.
 
 ###### Artículo 64.
 
 Turno de la iniciativa. Una vez recibida la iniciativa ciudadana, el Pleno del Congreso del Estado turnará a la Comisión que corresponda de acuerdo con la materia de que se trate.
 
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 65.
 
-Plazo para la resolución. El Congreso del Estado tiene un plazo de hasta 30 días hábiles para emitir el dictamen respectivo, contados a partir del día en que hubieren sido turnados por el Pleno a la Comisión correspondiente.
+Plazo para la resolución. Las iniciativas ciudadanas se considerarán de trámite preferente de acuerdo a lo establecido en la fracción VI del numeral 57 de la Constitución del Estado y gozarán del término de 30 días naturales para ser dictaminadas y sometidas a votación ante el Pleno del Congreso del Estado. En materia de iniciativa ciudadana no opera la prórroga.
 
 ### Capítulo IV. De la Consulta Ciudadana
 
@@ -928,3 +942,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2553 SE REFORMAN EL PRIMER Y SEGUNDO PÁRRAFO AL NUMERAL 57 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, SE ADICIONAN LAS FRACCIONES XV BIS Y XV TER AL ARTÍCULO 41 Y LOS ARTÍCULOS 101 BIS Y 101 TER A LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMAN EL PRIMER PÁRRAFO, LAS FRACCIONES III, IV Y V DEL ARTÍCULO 62, LOS ARTÍCULOS 63 Y 65 DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
