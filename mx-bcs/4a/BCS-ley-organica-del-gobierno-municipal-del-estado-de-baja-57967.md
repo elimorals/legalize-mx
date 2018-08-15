@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2018-06-10"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -823,7 +823,9 @@ c) De Obras Pública (sic) y Asentamientos Humanos, Catastro y Registro Publico 
 
 d) De Desarrollo Urbano, Ecología y Medio Ambiente;
 
-f) De Equidad y Bienestar Social;
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+f) (sic) Salud y Bienestar Social;
 
 g) De Educación, Cultura, Recreación y Deporte;
 
@@ -839,11 +841,19 @@ l) De Transporte Público;
 
 m) De saneamiento, agua potable y alcantarillado;
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
-n) De Derechos Humanos e Inclusión de las Personas con Discapacidad.
+n) De Derechos Humanos, Inclusión De Las Personas Con Discapacidad y Asuntos Indígenas
 
-o) Las demás que determine y apruebe el Ayuntamiento, de acuerdo con las necesidades de cada Municipio.
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+o) Igualdad de Género, y
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+p) Niñas, niños y adolescentes, y
+
+q) Las demás que determine y apruebe el Ayuntamiento, de acuerdo con las necesidades de cada Municipio.
 
 II. Serán comisiones especiales, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el Ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -2494,3 +2504,11 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2556 SE REFORMAN LOS INCISOS F) Y O) DE LA FRACCIÓN I DEL ARTÍCULO 66 Y SE ADICIONA UN INCISO P) AL MISMO ARTÍCULO DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se establece un término de 90 días para que los Ayuntamientos del Estado realicen los cambios correspondientes en sus respectivos Reglamentos Interiores.
