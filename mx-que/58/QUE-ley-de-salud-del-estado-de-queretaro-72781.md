@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2017-02-03"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE SALUD DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -87,61 +89,41 @@ VIII. SESEQ: los Servicios de Salud del Estado de Querétaro;
 
 IX. Sistema de Salud del Estado de Querétaro: al conjunto de unidades administrativas, órganos desconcentrados y descentralizados del Poder Ejecutivo del Estado y las personas físicas o morales de los sectores social y privado que presten servicios de salud, así como a los mecanismos de coordinación de acciones que se suscriban con dependencias o entidades de la administración pública federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 X. Usuario del servicio de salud: toda persona que requiera y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XI. Atención médica prehospitalaria: aquella que brinda el sector público, privado y social, a través del personal técnico en urgencias médicas, al identificar, evaluar e intervenir en situaciones de emergencia o urgencia médica para salvaguardar la vida de los usuarios y prevenirles lesiones subsecuentes, en el propio sitio donde ocurre el incidente, así como durante su atención y traslado en unidades móviles tipo ambulancia, hasta el servicio hospitalario que le prestará la atención médica definitiva, con base en el conocimiento, habilidades, destrezas y aptitudes adquiridas, empleando para ello el equipo y la tecnología vigente, respetando la dignidad, costumbres y creencias del paciente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XII. Espacio 100% libre de humo de tabaco: aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público, en los que, por razones de orden público e interés social, queda prohibido fumar o tener encendido cualquier producto de tabaco;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XIII. Farmacodependiente: toda persona que presenta algún signo o síntoma de dependencia a estupefacientes o psicotrópicos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XIV. Consumidor de narcóticos: toda persona que consume o utilice estupefacientes o psicotrópicos y que no presente signos ni síntomas de dependencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XV. Farmacodependiente en recuperación: toda persona que está en tratamiento para dejar de utilizar narcóticos y está en proceso de separación de la farmacodependencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XVI. Atención médica: el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XVII. Detección temprana de farmacodependencia: estrategia de prevención secundaria que tiene como propósito identificar en una fase inicial el consumo de narcóticos, a fin de aplicar medidas terapéuticas de carácter médico, psicológico y social lo más anticipadamente posible;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XVIII. Prevención de fármacodependencia: el conjunto de acciones dirigidas a evitar o reducir el consumo de narcóticos, a disminuir situaciones de riesgo y limitar los daños asociados al consumo de dichas sustancias;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
@@ -207,25 +189,17 @@ XIX. El desarrollo de programas contra el alcoholismo y el tabaquismo;
 
 XX. El control sanitario de la asignación de órganos, tejidos y células;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XXI. Coadyuvar en la consolidación y funcionamiento del Sistema Nacional de Salud, así como planear, organizar y desarrollar el Sistema Estatal de Salud;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XXII. La prevención del consumo de narcóticos, atención a las adicciones y colaborar con las autoridades de seguridad pública, procuración e impartición de justicia, así como las de ejecución de sanciones, en los términos del artículo 474 de la Ley General de Salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XXIII. La participación que corresponda en la ejecución del programa nacional para la prevención y tratamiento de la fármacodependencia, en los términos del mismo, conforme a la distribución de competencias que derive de lo establecido en la Ley General de Salud y demás legislación aplicable; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
@@ -509,15 +483,11 @@ d) Operar los servicios de salubridad general a que se refiere la presente Ley.
 
 e) Promover, fomentar y apoyar acciones en materia de salubridad y los convenios que al efecto se celebren.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 f) Prevenir el consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud, conforme al programa nacional para la prevención y tratamiento de la farmacodependencia, coordinándose para su ejecución con las dependencias y entidades del sector salud. Esta participación será obligatoria en todos los establecimientos del sector público, privado y social que realicen en el Estado actividades preventivas, de tratamiento y control de las adicciones y la farmacodependencia.
 
 Para todo lo relativo a la ejecución del programa nacional para la prevención y tratamiento de la farmacodependencia, en el ámbito de la competencia estatal, se estará a lo dispuesto por los artículos 192, 192 bis, 192 Ter, 192 Quáter, 192 Quintus y 192 Sextus de la Ley General de Salud.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
@@ -557,13 +527,9 @@ VIII. Impulsar la descentralización de los servicios de salud y de vigilancia s
 
 IX. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado y de aquellas cuyas acciones repercutan en la salud de la población, con sujeción a las disposiciones legales aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 X. Coordinar el proceso de programación de las actividades de salud en el Estado y vigilancia sanitaria;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
@@ -573,13 +539,9 @@ XI. Implementar programas en materia de nutrición, tendientes a disminuir los �
 
 XII. Organizar, operar, supervisar y evaluar, en coordinación con la Secretaría de Salud Federal, en el ámbito de su competencia y de conformidad con las disposiciones legales aplicables, el desarrollo de la investigación en las instituciones de salud, de educación superior y centros de investigación, para la prevención y tratamiento de los problemas de salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XIII. La creación y funcionamiento de centros especializados en la prevención, atención, tratamiento, rehabilitación y reinserción social de farmacodependientes; así como fomentar el establecimiento y operación de centros dedicados a estas actividades, con el fin de que quienes requieran de asistencia, puedan, conforme a sus características, necesidades y posibilidades, acceder a los servicios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
@@ -599,15 +561,17 @@ XVI. Instrumentar programas prioritarios de atención médica tradicional en los
 
 XVII. Reconocer y regular la medicina tradicional, diseñando las estrategias y programas indispensables para su ejercicio;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
 
-XVIII. Supervisar que el ejercicio de la medicina tradicional se lleve a cabo de acuerdo a los lineamientos de la presente Ley; y
+XVIII. Supervisar que el ejercicio de la medicina tradicional se lleve a cabo de acuerdo a los lineamientos de la presente Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2018)</small>
+
+XIX. Supervisar que el ejercicio de los procedimientos médicos o de cirugía plástica, estética y reconstructiva se realicen conforme a lo dispuesto por la Ley General de Salud y las normas oficiales aplicables en la materia; y
 
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-XIX. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud en el Estado de Querétaro y las demás disposiciones generales aplicables.
+XX. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud en el Estado de Querétaro y las demás disposiciones generales aplicables.
 
 ###### Artículo 20.
 
@@ -1055,7 +1019,7 @@ Los servicios de salud reproductiva comprenden:
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
 
-l. La promoción y difusión de programas en materia de servicios de planificación familiar, salud reproductiva, educación sexual y de prevención de enfermedades de transmisión sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
+I. La promoción y difusión de programas en materia de servicios de planificación familiar, salud reproductiva, educación sexual y de prevención de enfermedades de transmisión sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
 
 II. La atención de los solicitantes de servicios de salud reproductiva;
 
@@ -1643,8 +1607,6 @@ III. La vigilancia e intercambio de información, con los diferentes organismos 
 
 El titular del Poder Ejecutivo del Estado coadyuvará con la Secretaría de Salud federal, en la ejecución del Programa Nacional contra la fármaco dependencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 131.
@@ -1670,8 +1632,6 @@ VII. Supervisar a las instituciones y organismos públicos y privados que realic
 VIII. Establecer indicadores públicos sobre los índices de farmacodependencia en el Estado; y
 
 IX. Fomentar la participación comunitaria y coordinación con las autoridades Estatales y las instituciones públicas o privadas para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso de superación de la farmacodependencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1886,6 +1846,14 @@ Se consideran procedimientos de embellecimiento del cuerpo humano no quirúrgico
 ###### Artículo 158 Quáter.
 
 El funcionamiento y personal de los establecimientos señalados en este Capítulo, deberán apegarse a lo establecido en la presente Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 158 Quinquies.
+
+Los procedimientos de medicina o cirugía estética y reconstructiva se efectuarán en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por médicos con título profesional y cédula de especialidad en cirugía plástica y reconstructiva, otorgada por una autoridad competente y registrada en la Dirección General de Profesiones.
+
+El incumplimiento se podrá denunciar ante las autoridades competentes.
 
 Título Decimosegundo
 
@@ -2258,5 +2226,13 @@ P.O. 3 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 66 Y 67 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 19 Y ADICIONA EL ARTÍCULO 158 QUINQUIES, AMBOS DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
