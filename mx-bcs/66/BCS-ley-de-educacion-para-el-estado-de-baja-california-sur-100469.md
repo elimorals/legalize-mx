@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-para-el-estado-de-baja-california-sur-100469"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-22"
-last_updated: "2017-12-31"
+last_updated: "2018-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 22 de abril de 2014.
 
@@ -117,7 +117,9 @@ IV. Promover el estudio y comprensión de los problemas nacionales e internacion
 
 V. Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y del Estado de Baja California Sur.
 
-VI. Alcanzar la excelencia educativa;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+VI. Promover el valor de la justicia, de la observancia de la ley y de la igualdad ante ésta, propiciar la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los Derechos Humanos y el respeto de los mismos.
 
 VII. Orientar el aprovechamiento del tiempo libre, fomentando el desarrollo de actividades culturales, recreativas y deportivas;
 
@@ -141,7 +143,9 @@ XVI. Propiciar en el educando el conocimiento de sí mismo y la ubicación en su
 
 XVII. Impulsar que los educandos desarrollen la autoestima, la responsabilidad familiar, el respeto y la tolerancia a las diferencias, a favor de la construcción de una cultura de igualdad entre los géneros con equidad;
 
-XVIII. Fomentar la cultura de la legalidad y de la paz, con el objeto de concientizar a los educandos sobre los efectos e influencias nocivas que provoca la delincuencia en la sociedad;
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 15 DE AGOSTO DE 2018)</small>
+
+XVIII. Difundir los derechos y deberes de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercitarlos.
 
 XIX. Fomentar en los educandos una cultura de respeto a las normas de vialidad y de protección civil;
 
@@ -1936,3 +1940,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Titular del Poder Ejecutivo por conducto de la Secretaría de Educación Pública deberá actualizar y en su caso expedir las disposiciones de carácter administrativo que resulten necesarias para la aplicación y cumplimiento de lo dispuesto en el presente decreto.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2546 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
