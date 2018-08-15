@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2018-02-23"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -645,9 +645,9 @@ V. Ejercer la administración, vigilancia y disciplina, exclusivamente con respe
 
 VI. Procesar y sentenciar los litigios que no sean competencia de la Suprema Corte de Justicia de la Nación o del Senado de la República y, que surjan entre: Poder Ejecutivo, Legislatura del Estado, Organismos constitucionales autónomos o los Municipios del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
 
-VII. Presentar, en el mes de julio de cada año, a la Legislatura, un informe por escrito sobre el estado que guarde la impartición de justicia en la Entidad, en los términos que establezca la Ley;
+VII. Presentar, en el mes de septiembre de cada año, a la Legislatura, un informe por escrito sobre el estado que guarde la impartición de justicia en la Entidad, en los términos que establezca la Ley;
 
 VIII. Elegir a su Presidente;
 
@@ -1771,7 +1771,7 @@ Artículo Quinto. Los actuales Comisionados Honorarios de la Comisión Estatal d
 
 P.O. 13 DE MAYO DE 2016.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO”.]
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
@@ -1850,3 +1850,13 @@ P.O. 23 DE FEBRERO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 29 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 24 Y LA FRACCIÓN XXIII DEL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. El informe sobre el estado que guarda la administración de justicia durante el periodo 2017 - 2018, se presentará en el mes de septiembre del año 2018.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
