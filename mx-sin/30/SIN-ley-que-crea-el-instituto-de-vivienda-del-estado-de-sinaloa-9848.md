@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-crea-el-instituto-de-vivienda-del-estado-de-sinaloa-984
 country: "mx"
 rank: "ley"
 publication_date: "1983-05-18"
-last_updated: "2017-08-23"
+last_updated: "2018-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY QUE CREA EL INSTITUTO DE VIVIENDA DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE VIVIENDA PARA EL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 15 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL INSTITUTO DE VIVIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el miércoles 18 de mayo de 1983.
 
@@ -372,3 +374,35 @@ P.O. 23 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 207 QUE REFORMA EL ARTÍCULO 3o DE LA LEY QUE CREA EL INSTITUTO DE VIVIENDA DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 815 DEL H. CONGRESO DEL ESTADO.- LEY DE VIVIENDA PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga el Decreto 297, que expide la Ley que crea el Instituto de Vivienda del Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 59 Bis, de fecha 18 de mayo de 1983. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Los asuntos que se encuentren en trámite o pendientes de resolución ante el Instituto de Vivienda del Estado de Sinaloa, deberán ser concluidos por un Comité de Extinción que se creará para tal efecto dentro de los cuarenta y cinco días naturales una vez publicado el presente decreto, el cual se encargará de analizar, clasificar, tramitar, cobrar, contestar y continuar todo tipo de procedimientos jurídicos, demandas y ejercer las demás acciones de carácter legal que procedan, entre otras, y podrá convenir, a efecto de atender las obligaciones que quedarán pendientes del referido Instituto y recuperar derechos, bienes, activos y cartera vencida. En los doce meses siguientes, transferirá la totalidad de los títulos y derechos que aún estén en proceso de recuperación a la Comisión de Vivienda del Estado de Sinaloa, así como los inmuebles, muebles y demás deudas con que aún cuente el Instituto de Vivienda del Estado de Sinaloa; agotado dicho proceso, se extinguirá este Comité de Extinción.
+
+CUARTO. El Ejecutivo del Estado contará con un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto, para implementar la Comisión de Vivienda del Estado de Sinaloa. En tanto no se constituya el organismo mencionado, el Instituto de Vivienda del Estado de Sinaloa continuará ejerciendo las atribuciones que en materia de vivienda le otorga la ley que abroga el Artículo Segundo Transitorio del presente Decreto, con la misma naturaleza de organismo público descentralizado con personalidad jurídica y patrimonio propio.
+
+QUINTO. La Secretaría de Transparencia y Rendición de Cuentas vigilará el proceso de entrega recepción, el que se ajustará a lo dispuesto en los lineamientos que emita la propia Secretaría y de conformidad con la Ley de la materia. El Instituto de Vivienda del Estado de Sinaloa deberá presentar un informe de sus actividades al Comité de Extinción, copia del cual se entregará al Congreso del Estado; dicho informe deberá realizarse con la participación de la Secretaría de Administración y Finanzas, a efecto de que el mismo se incorpore en forma particular dentro de la cuenta pública de la recuperación que ejecute el Instituto de Vivienda del Estado de Sinaloa. La Secretaría de Transparencia y Rendición de Cuentas habilitará al personal necesario para formar parte del proceso de transferencia de títulos y derechos que aún estén en proceso de recuperación y demás bienes y derechos, y deberá fincar los procedimientos de responsabilidades que, en su caso, resulten aplicables. Los activos y recursos de cartera vencida que recupere el Comité de Extinción pasarán a la Comisión de Vivienda del Estado de Sinaloa, a fin de que se incorporen a su patrimonio y se deberá informar de ello a la Junta de Gobierno de la referida Comisión.
+
+SEXTO. La Secretaría de Administración y Finanzas definirá y aplicará los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Comisión de Vivienda del Estado de Sinaloa, considerando que los recursos presupuestales del Instituto de Vivienda del Estado de Sinaloa se reasignarán a la Comisión de Vivienda del Estado de Sinaloa.
+
+SÉPTIMO. El Ejecutivo del Estado expedirá el Reglamento de la presente Ley, dentro de noventa días, contados a partir del día siguiente en que quede legalmente instalada la Comisión y su Junta de Gobierno, mismo plazo establecido para la Junta de Gobierno para expedir el Reglamento Interior de la Comisión de Vivienda del Estado de Sinaloa. Mientras se expide el citado reglamento, continuará aplicándose en lo que no contravenga a la presente Ley, el reglamento vigente.
+
+OCTAVO. La Junta de Gobierno de la Comisión de Vivienda del Estado de Sinaloa deberá constituirse dentro de sesenta días naturales después de haberse cumplido lo establecido en el artículo cuarto transitorio.
+
+NOVENO. Los recursos materiales, financieros y humanos que al momento de la entrada en vigor del presente Decreto sean propiedad del Instituto de Vivienda del Estado de Sinaloa (INVIES) o se encuentren bajo la administración del mismo, pasarán a formar parte del Comité de Extinción, que se crea para tal efecto. Los recursos en mención, permanecerán bajo su supervisión, cuidado y disposición, hasta que se determine la disposición final de los mismos.
+
+El Comité de Extinción, será el encargado de llevar a cabo administrativamente el procedimiento de extinción del INVIES y, atenderá, valorará y resolverá, de conformidad con la legislación Estatal que corresponda, la condición de los activos y pasivos que se encuentren pendientes por el INVIES, hasta que estos queden definitivamente concluidos.
+
+DÉCIMO. Los bienes muebles e inmuebles que actualmente forman parte estructural del INVIES, pasarán a ser administrados por el Comité de Extinción al inicio de la vigencia del presente Decreto, mediante el proceso de entrega recepción correspondiente.
+
+DÉCIMO PRIMERO. El personal adscrito al Instituto de Vivienda del Estado de Sinaloa se sujetará a las consideraciones que el Comité de Extinción determine de conformidad con disposiciones jurídicas aplicables respecto de su situación laboral, respetándose los derechos laborales de los mismos, conforme a la Ley de los Trabajadores al Servicio del Estado, y la Ley de Pensiones, ambas del Estado de Sinaloa.
+
+DÉCIMO SEGUNDO. Las referencias o menciones que se hacen en leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones jurídicas al Instituto de Vivienda del Estado de Sinaloa, se entenderán hechas a la Comisión de Vivienda del Estado de Sinaloa.
+
+DÉCIMO TERCERO. Los montos no ejercidos del presupuesto autorizado para el Instituto de Vivienda del Estado de Sinaloa en el Presupuesto de Egresos del Estado para el Ejercicio Fiscal del año en curso, al inicio de la vigencia del presente Decreto, serán ejercidos por la Comisión de Vivienda del Estado de Sinaloa.
