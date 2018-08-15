@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111244"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2018-07-13"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -67,9 +67,11 @@ IV. Establecer los principios rectores y criterios que orientarán la política 
 
 V. Establecer las bases generales para la participación de los sectores privado y social en las acciones tendientes a garantizar la protección y el goce de los derechos de niñas, niños y adolescentes, así como a prevenir su vulneración.
 
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 3o.
 
-Esta ley deberá aplicarse conjuntamente con la Constitución Política de los Estados Unidos Mexicanos, la Convención Sobre los Derechos del Niño y demás tratados internacionales en Derechos Humanos de los que México sea parte, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Constitución Política del Estado del Estado (sic) Libre y Soberano de Baja California Sur, la legislación Civil y las demás leyes que estén vinculadas con la protección de los derechos de las niñas, niños y adolescentes.
+Esta ley deberá aplicarse conjuntamente con la Constitución Política de los Estados Unidos Mexicanos, la Convención Sobre los Derechos del Niño y demás tratados internacionales en Derechos Humanos de los que México sea parte, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Constitución Política del Estado del Estado (sic) Libre y Soberano de Baja California Sur, la legislación Civil y las demás leyes que estén vinculadas con la protección de los derechos de las niñas, niños y adolescentes. En su interpretación y aplicación será obligatoria la observancia de los principios de interpretación conforme y pro persona.
 
 ###### Artículo 4o.
 
@@ -89,9 +91,11 @@ V. Incorporar en sus proyectos de presupuesto la asignación de recursos que per
 
 De la misma manera los Ayuntamientos incorporarán y aprobarán en sus presupuestos para dar cumplimiento a las acciones de la presente Ley.
 
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 5o.
 
-El Estado y los municipios, en el diseño y ejecución de políticas públicas deberán garantizar el máximo bienestar posible de niñas, niños y adolescentes, privilegiando su interés superior, tomando en cuenta su situación familiar y social.
+El Estado y los municipios, en el diseño y ejecución de políticas públicas deberán garantizar el máximo bienestar posible de niñas, niños y adolescentes, privilegiando su interés superior, tomando en cuenta en lo posible, su situación familiar, social, económica y cultural.
 
 ###### Artículo 6o.
 
@@ -101,73 +105,95 @@ Las políticas públicas deberán contribuir a la formación física, psicológi
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Acciones Afirmativas: Medidas temporales que las autoridades realizan en el ámbito de su competencia cuyo objetivo es corregir situaciones de desigualdad en el goce y disfrute de los derechos para lograr la igualdad entre niñas, niños y adolescentes. Se adecuarán a la situación a remediar y deberán ser legítimas y respetar los principios de justicia y proporcionalidad;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+I. Acciones Afirmativas: Acciones de carácter temporal que las autoridades realizan en el ámbito de su competencia cuyo objetivo es corregir situaciones de desigualdad en el goce y disfrute de los derechos para lograr la igualdad sustantiva entre niñas, niños y adolescentes. Se adecuarán a cada situación en particular y se verán encaminados a respetar los principios de justicia, igualdad y proporcionalidad.
 
 II. Acogimiento Residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
 III. Adopción Internacional: Aquélla que se realice en términos de lo dispuesto por los tratados internacionales en la materia, especialmente en la Convención sobre la Protección de Menores y Cooperación en materia de Adopción Internacional y el Código Civil del Estado;
 
-IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce y disfrute, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-V. Centros de Asistencia Social: El lugar o espacio físico de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
+IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el ejercicio, goce y disfrute, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-VI. Certificado de Idoneidad: El documento expedido por el Consejo Estatal de Adopciones a través de la mesa técnica de trabajo o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+V. Centros de Asistencia Social: El establecimiento, lugar o espacio físico de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
+
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+VI. Certificado de Idoneidad: Es (sic) documento expedido por la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes avalado por el Consejo Estatal de Adopciones o en caso de adopciones internacionales, por la autoridad central del país de origen de los adoptantes, en virtud del cual se determina que los solicitantes de adopción son aptos e idóneos para adoptar, soportado por un expediente técnico para ello;
 
 VII. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
-VIII. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+VIII. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados, ignorados o menoscabados sus derechos;
 
 IX. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
 
 X. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-XI. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+XI. Familia de Acogida: Aquélla que cuente con la certificación expedida por el Sistema Estatal DIF a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
 XII. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XIII. Igualdad: El derecho al mismo trato y acceso de oportunidades para el reconocimiento, goce y ejercicio de los derechos humanos y las libertades fundamentales;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-XIII (SIC). Informe de Adoptabilidad: El documento expedido por el Consejo Estatal de Adopciones a través de la mesa técnica de trabajo, como órgano de apoyo y asesoría de la Procuraduría, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+XIII. Igualdad Sustantiva: El derecho al mismo trato y acceso de oportunidades para el reconocimiento, goce y ejercicio de los derechos humanos y las libertades fundamentales;
 
-XIV. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-XV. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+XIV. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal DIF a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XVI. Ley: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Baja California Sur;
+XV. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos.
 
-XVII. Constitución Política del Estado: La Constitución Política del Estado Libre y Soberano de Baja California Sur;
+XVI. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-XVIII. Código Civil del Estado: El Código Civil para el Estado Libre y Soberano de Baja California Sur;
+XVII. Ley: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Baja California Sur;
 
-XIX. Órgano Jurisdiccional: Los Juzgados o Tribunales del Estado de Baja California Sur;
+XVIII. Constitución Política del Estado: La Constitución Política del Estado Libre y Soberano de Baja California Sur;
 
-XX. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado;
+XIX. Código Civil del Estado: El Código Civil para el Estado Libre y Soberano de Baja California Sur;
 
-XXI. Programa Estatal: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Baja California Sur;
+XX. Órgano Jurisdiccional: Los Juzgados o Tribunales del Estado de Baja California Sur;
 
-XXII. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes expedido por cada Municipio;
+XXI. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado;
 
-XXIII. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales de los que el Estado mexicano forma parte;
+XXII. Programa Estatal: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Baja California Sur;
 
-XXIV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXIII. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes expedido por cada Municipio;
 
-XXV. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y el Código Civil para el Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 15 DE AGOSTO DE 2018)</small>
 
-XXVI. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXIV. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales de los que el Estado mexicano forma parte;
 
-XXVII. Sistema Estatal DIF: El Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-XXVIII. Sistema Estatal de Protección Integral: Sistema de Protección de Niñas, Niños y Adolescentes del Estado (sic) Baja California Sur;
+XXV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo del Sistema Estatal DIF, a través (sic) Procuraduría de Protección de Niñas, Niños y Adolescentes conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXIX. Sistemas Municipales DIF: Los Sistemas para el Desarrollo Integral de la Familia de cada uno de los Municipios;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-XXX. Sistemas Municipales de Protección Integral: Sistemas de Protección de Niñas, Niños y Adolescentes de cada uno de los Municipios;
+XXVI. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad, tutela, o custodia legal de conformidad con lo dispuesto en esta Ley y el Código Civil para el Estado;
 
-XXXI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+XXVII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXXII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+XXVIII. Sistema Estatal DIF: El Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur;
 
-XXXIII. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
+XXIX. Sistema Estatal de Protección Integral: Sistema de Protección de Niñas, Niños y Adolescentes del Estado (sic) Baja California Sur;
+
+XXX. Sistemas Municipales DIF: Los Sistemas para el Desarrollo Integral de la Familia de cada uno de los Municipios;
+
+XXXI. Sistemas Municipales de Protección Integral: Sistemas de Protección de Niñas, Niños y Adolescentes de cada uno de los Municipios;
+
+XXXII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+XXXIII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+
+XXXIV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
 
 ###### Artículo 8o.
 
@@ -175,15 +201,19 @@ Son niñas y niños, las personas menores de doce años de edad, y adolescentes 
 
 Cuando exista duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente, y si se (sic) existe la duda de que se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 9o.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los siguientes Principios Rectores de la Ley General:
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los siguientes Principios Rectores:
 
 I. El Interés Superior de la Niñez;
 
 II. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme lo establecen los artículo 1° y 4° de la Constitución Política de los Estados Unidos Mexicanos, así como lo dispuesto por los Tratados Internacionales en la materia;
 
-III. La igualdad;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+III. La igualdad sustantiva;
 
 IV. La no discriminación;
 
@@ -207,17 +237,33 @@ XIII. El principio pro persona, y
 
 XIV. El acceso a una vida libre de violencia
 
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 10.
 
-Estos principios rectores se garantizaran y protegerán por todas las autoridades estatales y municipales.
+Las leyes estatales y de los municipios, deberán garantizar el ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes; así como prever, primordialmente, las acciones y mecanismos que les permitan un crecimiento y desarrollo integral plenos.
+
+A falta de disposición expresa en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales, en esta Ley o en las demás disposiciones aplicables, se estará a los principios generales que deriven de dichos ordenamientos y a falta de éstos, a los principios generales del derecho, privilegiando en todo momento los principios rectores de esta Ley.
+
+En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
+
+En caso de que exista conflicto en esta materia, en la interpretación de disposiciones de la Constitución Política de los Estados Unidos Mexicanos, un instrumento internacional, el Código Civil y esta Ley, deberá aplicarse la que favorezca a las niñas, niños y adolescentes la protección más amplia.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+###### Artículo 10 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apatridia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ###### Artículo 11.
 
 Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida para su desarrollo integral.
 
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 12.
 
-Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualesquier forma, violación a sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en los términos de las disposiciones jurídicas correspondientes.
+Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación a sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en los términos de las disposiciones jurídicas correspondientes.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
@@ -235,51 +281,57 @@ III. Derecho a la identidad;
 
 IV. Derecho a vivir en familia;
 
-V. Derecho a la igualdad;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-V (SIC). Derecho a no ser discriminado;
+V. Derecho a la igualdad sustantiva;
 
-VI. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
+VI. Derecho a no ser discriminado;
 
-VII. Derecho a una vida libre de violencia y a la integridad personal;
+VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
 
-VIII. Derecho a la protección de la salud y a la seguridad social;
+VIII. Derecho a una vida libre de violencia y a la integridad personal;
 
-IX. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
+IX. Derecho a la protección de la salud y a la seguridad social;
 
-X. Derecho a la educación;
+X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
 
-XI. Derecho al descanso y al esparcimiento;
+XI. Derecho a la educación;
 
-XII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura;
+XII. Derecho al descanso y al esparcimiento;
 
-XIII. Derecho a la libertad de expresión y de acceso a la información;
+XIII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura;
 
-XIV. Derecho de participación;
+XIV. Derecho a la libertad de expresión y de acceso a la información;
 
-XV. Derecho de asociación y reunión;
+XV. Derecho de participación;
 
-XVI. Derecho a la intimidad;
+XVI. Derecho de asociación y reunión;
 
-XVII. Derecho a la seguridad jurídica y al debido proceso;
+XVII. Derecho a la intimidad;
 
-XVIII. Derechos de niñas, niños y adolescentes migrantes, y
+XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
-XIX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet, en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+XIX. Derechos de niñas, niños y adolescentes migrantes, y
+
+XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet, en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a fin de lograr el desarrollo integral de niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
 ### CAPÍTULO SEGUNDO. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
 
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 14.
 
-Niñas, niños y adolescentes tienen derecho intrínseco a la vida de conformidad con la Convención, a la supervivencia y al desarrollo, deberá vivir en condiciones que sean acordes a su dignidad y que garanticen su desarrollo integral.
+Las niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos o en la comisión de conductas delictivas.
+Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
-Quienes ejerzan la patria potestad, tutela guarda y custodia tienen la obligación de preservar y exigir el cumplimiento de estos derechos.
+Las niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
 
-Las autoridades Estatales y Municipales en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo de niñas, niños y adolescentes y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
+Las niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos o en la comisión de conductas delictivas.
+
+Las autoridades del Estado y de los Municipios, garantizarán en todo momento estos derechos.
 
 ### CAPÍTULO TERCERO. Del Derecho de Prioridad
 
@@ -301,9 +353,11 @@ En todas las medidas concernientes a niñas, niños y adolescentes que tomen los
 
 ### CAPÍTULO CUARTO. Del Derecho a la Identidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 17.
 
-Niñas, Niños y adolescentes, desde su nacimiento de conformidad con la Constitución Política del Estado, y la legislación civil aplicable, desde su nacimiento, tienen derecho a:
+Niñas, Niños y adolescentes, de conformidad con la Constitución Política del Estado, la legislación civil y las demás disposiciones nacionales e internacionales aplicables al caso desde su nacimiento, tienen derecho a:
 
 I. Contar con nombre y los apellidos que les correspondan, así como a ser inscritos en el Registro Civil respectivo de forma inmediata y gratuita, y a que se les expida en forma ágil y sin costo la primera copia certificada del acta correspondiente, en los términos de las disposiciones aplicables;
 
@@ -315,7 +369,9 @@ IV. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenenci
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes. La Procuraduría de Protección orientará a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
 
-Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+Cuando haya procesos o procedimientos que deriven en cambio de nombre y/o apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
 La falta de documentación para acreditar la identidad de niñas, niños y adolescentes no será obstáculo para garantizar sus derechos.
 
@@ -341,9 +397,11 @@ No serán considerados como supuestos de exposición o estado de abandono los ca
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a instaurar políticas de fortalecimiento familiar con la finalidad de evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad y en su caso, la tutela.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 21.
 
-Niñas, niños y adolescentes no podrán ser separados de sus padres o de quienes que ejerzan la patria potestad sobre ellos o de sus tutores, y en términos de las disposiciones aplicables de sus custodios, sino mediante orden de autoridad competente que así lo declare, habiendo escuchado la opinión de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez y atendiendo a la preservación del interés superior de la niñez.
+Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
 Salvo circunstancias excepcionales no deberá separarse a niñas y niños menores de siete años de su madre.
 
@@ -351,35 +409,49 @@ Niñas, niños y adolescentes cuyos padres o familiares que estén a su cargo, s
 
 Así mismo, niñas, niños y adolescentes tienen derecho a convivir con sus padres o familiares cuando estos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice de forma adecuada, conforme a las disposiciones jurídicas aplicables. Este derecho solo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 22.
 
-Cuando niñas, niños y adolescentes sean privados de sus padres o familiares, las autoridades del Estado y los municipios, pondrán todos los medios necesarios para facilitar su localización y reunificación, siempre y cuando no sea contrario su interés superior.
+Cuando niñas, niños y adolescentes sean privados de sus padres o familiares, las autoridades del Estado y los municipios, utilizarán todos los medios necesarios para facilitar su localización y reunificación, siempre y cuando no sea contrario a su interés superior.
 
 Durante la localización de la familia de niñas, niños y adolescentes, tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
 
 Para efectos del párrafo anterior, el Sistema Estatal DIF deberá otorgar acogimiento correspondiente conforme lo previsto en esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 23.
 
-En los casos de traslados o retenciones ilícitas de niñas, niños y adolescentes se estará a lo dispuesto por la Ley General y la presente ley.
+Las leyes estatales y disposiciones municipales deberán prevenir y sancionar el traslado o retención ilícita de niñas, niños y adolescentes cuando se produzcan en violación de los derechos atribuidos individual o conjuntamente a las personas o instituciones que ejerzan la patria potestad, la tutela o la guarda y custodia, y preverán procedimientos expeditos para garantizar el ejercicio de esos derechos.
 
-Cuando las autoridades del estado y sus municipios tengan conocimientos de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinaran con las autoridades federales competentes para su localización y restitución, conforme a las disposiciones legales correspondientes.
+Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio estatal, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a (sic) legislación aplicable y/o los tratados internacionales en materia de sustracción de menores.
 
-Cuando niñas, niños o adolescentes se (sic) trasladado o retenido ilícitamente en territorio nacional haya sido trasladado legalmente pero retenido ilícitamente las autoridades del estado y sus municipios, en el ámbito de sus respetivas competencias estarán obligada (sic) a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que surjan mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
+Cuando las autoridades del Estado y sus Municipios tengan conocimientos de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes para su localización y restitución, conforme a las disposiciones legales correspondientes.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 24.
 
-El Sistema Estatal DIF, deberá otorgar medidas especiales de protección a niñas, niños y adolescentes que hayan sido separados de sus padres o familiares por resolución judicial, atendiendo a la legislación civil, se asegurará que a niñas, niños y adolescentes se les restituya su derecho a vivir en familia, para lo cual determinará la opción más adecuada entre las siguientes:
+El Sistema Estatal DIF y/o los Sistemas DIF Municipales, deberán otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
 
-I. Sean ubicados preferentemente con los demás miembros de su familia extensa o ampliada para su cuidado, siempre y cuando no sea contrario a su interés superior;
+Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, el Sistema Estatal DIF a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes y/o los Sistemas DIF Municipales a través de las Procuradurías de la Defensa del Menor y la Familia, de conformidad con la legislación civil aplicable, el Sistema Nacional DIF o los Sistemas de las Entidades, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
 
-II. Sean recibidos por una familia de acogida, en caso de no ser posible que la familia extensa pudiera hacerse cargo;
+I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior;
 
-III. Sean recibidos por una familia de acogimiento pre-adoptivo, o
+II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
-IV. Sean recibidos, en acogimiento residencial brindado por Instituciones Asistenciales el menor tiempo posible. Esta medida especial de protección tendrá carácter subsidiario dando prioridad a las opciones de cuidado en un entorno familiar.
+III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedimiento de adopción, que supone la vinculación de niñas, niños y adolescentes, respecto del cual ya se ha declarado la condición de adoptabilidad, con su nuevo entorno y determinar la idoneidad de la familia para convertirse en familia adoptiva;
 
-La Procuraduría de Protección, deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, tomando en cuenta los requisitos señalados para el acogimiento pre-adoptivo y será la responsable de dar seguimiento a la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluida la medida de restitución del derecho a vivir en familia.
+IV. En el Sistema Estatal DIF, así como los Sistemas DIF Municipales, en el ámbito de sus respectivas competencias, deberán registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, o
+
+V. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
+
+Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
+
+La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+
+El Sistema Estatal DIF y los Sistemas DIF municipales en todo momento serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento.
 
 > <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
 
@@ -517,7 +589,9 @@ Los reportes deberán contener la información seccionada por edad, sexo, escola
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano, sustentable y en condiciones adecuadas que permitan su desarrollo, bienestar, crecimiento saludable, nutritivo y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
-Corresponde en principio y directamente a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar un trato digno y humano para desarrollarse en un ambiente de afecto, seguridad moral y material que preparen a la niña, niño o adolescente para una vida independiente en sociedad.
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar un trato digno y humano para desarrollarse en un ambiente de afecto y seguridad moral y dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo, que los preparen para una vida independiente en sociedad.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
@@ -547,7 +621,9 @@ IV. El tráfico de menores;
 
 V. El trabajo antes de la edad mínima prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
 
-VI. El trabajo en adolescentes mayores de quince años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, de conformidad con lo dispuesto en la Constitución Federal y en las demás disposiciones aplicables;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+VI. El trabajo en adolescentes mayores de quince años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental o cualquier clase de explotación laboral, de conformidad con lo dispuesto en la Constitución Federal y en las demás disposiciones aplicables;
 
 VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral, y
 
@@ -569,17 +645,23 @@ En los casos en que niñas, niños y adolescentes sean víctimas de delitos se a
 
 ### CAPÍTULO DÉCIMO. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 43.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de salud en forma gratuita y de calidad, con el fin de prevenir, proteger y restaurar su salud, de conformidad a la legislación de salud aplicable en el Estado.
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación integral de servicios de salud en forma gratuita y de calidad, con el fin de prevenir, proteger y restaurar su salud, de conformidad a la legislación de salud aplicable en el Estado.
 
 Las autoridades estatales y municipales con el fin de garantizar dichos derechos, se coordinarán entre sí a efecto de:
 
 I. Establecer estrategias que reduzcan la morbilidad y mortalidad en la niñez y adolescencia;
 
-II. Asegurar la prestación de la salud y prevención de riesgos sanitarios sanitaria (sic) que sean necesarias a niñas, niños y adolescentes;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-III. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la salud y la nutrición, las ventajas de la vacunación, lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes;
+II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes;
+
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+III. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la salud y la nutrición, las ventajas de la vacunación, lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes; prevención de embarazos no planificados y la conciencia de practicar ejercicio como un medio de sano esparcimiento y control de peso.
 
 IV. Adoptar medidas tendientes a la eliminación de prácticas culturales, religiosas, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes;
 
@@ -608,6 +690,10 @@ XV. Instaurar medidas tendientes a que en los servicios de salud se detecten y a
 XVI. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación, y
 
 XVII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
+
+> <small>(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+XVIII. Será obligatorio para la Secretaria Estatal de Salud coordinarse con (sic) Sistema Estatal del Deporte, Secretaria (sic) Educación Pública del Estado, Institutos de Cultura, de la Juventud, de la Mujer, instancias Municipales, Asociaciones Civiles y Organismos no Gubernamentales, para la elaboración y ejecución de acciones y programas a favor del desarrollo armónico, integral y en salud de las niñas, niños y adolescentes, con énfasis, en aquellos diseñados para combatir las adicciones, la desnutrición, el sobrepeso, la obesidad y otros trastornos de conducta alimentaria.
 
 El Sistema Estatal de Salud, deberá garantizar el pleno cumplimiento de este derecho atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
 
@@ -649,9 +735,11 @@ VIII. Establecer mecanismos de recopilación periódica y sistemática de inform
 
 ### CAPÍTULO DÉCIMO SEGUNDO. Del Derecho a la Educación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 47.
 
-Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus derechos, que garantice el respeto a su dignidad humana; el pleno y armonioso desarrollo de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos, en los términos del artículo 3o. de la Constitución Federal, la Constitución Estatal, la Ley General de Educación, la Ley de Educación del Estado, los tratados internacionales y demás disposiciones aplicables.
+Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus derechos y, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el pleno y armonioso desarrollo de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos, en los términos del artículo 3o. de la Constitución Federal, la Constitución Estatal, la Ley General de Educación, la Ley de Educación del Estado, los tratados internacionales y demás disposiciones aplicables.
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes.
 
@@ -661,7 +749,9 @@ I. Proporcionar la atención educativa que niñas, niños y adolescentes requier
 
 II. Adoptar medidas orientadas hacia el pleno goce y ejercicio del derecho a la educación;
 
-III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y procurar la accesibilidad material, económica y geográfica a la educación;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y procurar, sin discriminación de ningún tipo, la accesibilidad material, económica y geográfica a la educación;
 
 IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia del currículo, la disposición de la infraestructura, equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza y la evaluación docente;
 
@@ -695,13 +785,21 @@ XVIII. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
 
 XIX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación, y
 
-XX. Establecer medidas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas y faciliten su reingreso al Sistema Educativo Estatal.
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+XX. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas y faciliten su reingreso al Sistema Educativo Estatal.
+
+> <small>(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+XXI. Establecer mecanismos de coordinación y comunicación con el sector salud que les permitan detectar riesgos a la salud y promover conductas saludables, estableciendo acciones de prevención de enfermedades, diagnóstico oportuno y referir aquellos casos identificados para su atención y rehabilitación.
 
 Artículo 49 (SIC).- La educación, además de lo dispuesto en las disposiciones jurídicas aplicables, tendrá los siguientes fines:
 
 I. Fomentar en niñas, niños y adolescentes los valores fundamentales y el respeto de la propia identidad, así como a las diferencias culturales y opiniones diversas;
 
-II. Desarrollar las aptitudes y las potencialidades de niñas, niños y adolescentes;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+II. Desarrollar la personalidad, las aptitudes y potencialidades de niñas, niños y adolescentes;
 
 III. Inculcar a niñas, niños y adolescentes sentimientos de identidad y pertenencia a su escuela, comunidad y nación, así como su participación activa en el proceso educativo y actividades cívicas en términos de las disposiciones jurídicas aplicables;
 
@@ -870,6 +968,10 @@ I. Promoverán la participación social de niñas, niños y adolescentes en conc
 II. Atenderán, al establecerse los planes de urbanización, desarrollo y organización del espacio comunitario a la libre y segura convivencia de niñas, niños y adolescentes en su comunidad, y
 
 III. Cuidarán que las señales de todo tipo para automovilistas, peatones y usuarios de todos los servicios públicos sean claras para niñas, niños y adolescentes, de manera que les faciliten el movimiento dentro de su comunidad y del Estado, así como el uso legítimo de los espacios públicos.
+
+> <small>(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
+IV. Promoverán y fomentarán la creación de grupos o clubes según sea el caso para menores emprendedores, promotores de la salud, de estudio y divulgación científica, de deporte, de cultura y artes.
 
 ### CAPÍTULO DÉCIMO OCTAVO. Del Derecho a la Intimidad
 
@@ -1972,5 +2074,11 @@ Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
 B.O. 13 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 2543 SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2546 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
