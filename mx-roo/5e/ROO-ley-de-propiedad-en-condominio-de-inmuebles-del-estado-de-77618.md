@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-propiedad-en-condominio-de-inmuebles-del-estado-de-77618
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-30"
-last_updated: "2011-03-22"
+last_updated: "2018-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de noviembre de 2010.
 
@@ -91,9 +91,9 @@ Los derechos y obligaciones de los condóminos se regirán por las disposiciones
 
 La constitución del régimen de propiedad en condominio es el acto jurídico formal mediante el cual el propietario o propietarios de un inmueble, formalizan ante Notario Público declarando su voluntad de establecer esa modalidad de propiedad para su mejor aprovechamiento, y en el que, dos o más personas teniendo un derecho privado, utilizan, comparten y tienen acceso a las áreas o espacios de uso y propiedad común, asumiendo condiciones que les permiten satisfacer sus necesidades de acuerdo al uso del inmueble, en forma conveniente y adecuada para todos y cada uno, sin demérito de su propiedad exclusiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE AGOSTO DE 2018)</small>
 
-Para su inscripción en el Registro Público de la Propiedad y el Comercio, previamente los propietarios deberán obtener una constancia de compatibilidad urbanística que en su caso expedirá el Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Urbano, a efecto de que se garantice el respeto al Plan Estatal de Desarrollo Urbano. Para ello, deberán presentar los siguientes documentos:
+Para su inscripción en el Registro Público de la Propiedad y el Comercio, previamente los propietarios deberán obtener una Constancia de Compatibilidad Territorial que en su caso expedirá el Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Territorial Urbano Sustentable en los términos de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo. Para ello, deberán presentar los siguientes documentos:
 
 I.- Original de solicitud suscrita por el representante legal o propietario dirigida a la autoridad competente;
 
@@ -121,9 +121,13 @@ IX.- Certificación de medidas y colindancias del inmueble expedida por la autor
 
 X.- Cédula Catastral.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
-Lo anterior, sin perjuicio de otros requisitos que a juicio de la Secretaría de Desarrollo Urbano estime y señale necesarios.
+Lo anterior, sin perjuicio de otros requisitos que a juicio de la Secretaría de Desarrollo Territorial Urbano Sustentable estime y señale necesarios.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
+Las unidades privativas en el caso de condominios que involucren viviendas, deberán respetar las superficies mínimas a que se refiere la Ley de Acciones Urbanísticas del Estado de Quintana Roo.
 
 ###### ARTÍCULO 5.
 
@@ -893,7 +897,7 @@ El procedimiento alternativo se sustanciará de conformidad a lo previsto en el 
 
 Los condóminos que incumplan con las obligaciones que les son impuestas por la presente Ley, el Reglamento del Condominio o la escritura constitutiva del condominio, podrán ser sancionados con:
 
-l.- Las multas aplicables por la inobservancia de lo establecido en las fracciones I, IV, V, VII y VIII del artículo 21 de esta Ley, serán de 20 a 40 días de salario mínimo general vigente en el Estado;
+I.- Las multas aplicables por la inobservancia de lo establecido en las fracciones I, IV, V, VII y VIII del artículo 21 de esta Ley, serán de 20 a 40 días de salario mínimo general vigente en el Estado;
 
 II.- Multa de 15 a 100 días de salario mínimo general vigente en el Estado a los condóminos o residentes que incumplan con las obligaciones señaladas en las fracciones II, III, VI y IX del artículo 21;
 
@@ -921,9 +925,13 @@ TRANSITORIO:
 
 SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTITRÉS DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DIEZ.
 
-DIPUTADA PRESIDENTA: DIPUTADA SECRETARIA:
+DIPUTADA PRESIDENTA:
 
-LIC. LAURA LYNN FERNÁNDEZ PIÑA. LIC. MARÍA HADAD CASTILLO.
+LIC. LAURA LYNN FERNÁNDEZ PIÑA.
+
+DIPUTADA SECRETARIA:
+
+LIC. MARÍA HADAD CASTILLO.
 
 CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANOS (SIC) DE QUINTANA ROO, Y EL ARTÍCULO 8 FRACCIÓN VIII DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, DECRETO NÚMERO: 361 SE EXPIDE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO; SE DEROGA EL TÍTULO SEXTO "DEL RÉGIMEN DE PROPIEDAD INMUEBLE EN CONDOMINIO" ARTÍCULOS 2004 - 2065 DEL CODIGO CIVIL DEL ESTADO DE QUINTANA ROO; SE REFORMAN LOS ARTÍCULOS 440 FRACCIÓN IX, 448 Y 449 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUINTANA ROO; Y LOS ARTÍCULOS 8° FRACCIÓN V, Y 80 DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE QUINTANA ROO. EXPEDIDO POR LA HONORABLE XII LEGISLATURA DEL ESTADO, A LOS VEINTITRÉS DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DIEZ. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTINUEVE DIAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DIEZ.
 
@@ -945,8 +953,38 @@ DEL ESTADO DE QUINTANA ROO.
 
 C.P. GONZALO ABELARDO HERRERA CASTILLA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 22 DE MARZO DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 194 POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; SE EXPIDE LA LEY DE ACCIONES URBANÍSTICAS DEL ESTADO DE QUINTANA ROO; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO; SE REFORMAN LOS ARTÍCULOS 16, 24, 34 PÁRRAFO SEGUNDO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 184 TER, TODOS DE LA LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN DEL AMBIENTE DEL ESTADO DE QUINTANA ROO, SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE PROPIEDAD DE CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO; Y SE REFORMA EL ARTÍCULO SEGUNDO DE LA LEY DE EXPROPIACIÓN DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Asentamientos Humanos del Estado de Quintana Roo, publicada mediante Decreto Número 107 de la XIII Legislatura del Estado, en el Periódico Oficial en fecha 18 de abril de 2012.
+
+TERCERO. Se abroga la Ley de Fraccionamientos del Estado de Quintana Roo, publicada mediante Decreto Número 125 de la VI Legislatura del Estado, en el Periódico Oficial del Estado en fecha 31 de diciembre del año 1992.
+
+CUARTO. En tanto el Titular del Poder Ejecutivo del Estado y los municipios del Estado no expidan las disposiciones administrativas a que se refiere este decreto, seguirán aplicándose las disposiciones reglamentarias vigentes.
+
+QUINTO. El Titular del Poder Ejecutivo del Estado expedirá en un plazo no mayor a ciento ochenta días, el reglamento de esta ley, que será aplicable en los temas de competencia estatal, y aplicable en el ámbito estatal, hasta en tanto los ayuntamientos no expidan sus respectivos ordenamientos municipales en la materia.
+
+SEXTO. Los programas de desarrollo urbano y los ordenamientos ecológicos del territorio, así como las autorizaciones de acciones urbanísticas otorgadas con anterioridad a la entrada en vigor de la presente Ley seguirán vigentes en los términos que fueron aprobados o concedidas. Las que se encuentren en trámite, se deberán ajustar a sus nuevas disposiciones. Para tal efecto, los interesados en alguna autorización, refrendo o renovación en materia de acciones urbanísticas podrán optar por continuar su procedimiento ajustando sus proyectos a la normatividad vigente, o bien, presentar una nueva solicitud, en cuyo caso no pagarán nuevamente los derechos correspondientes.
+
+SÉPTIMO. El Titular del Poder Ejecutivo del Estado, en el plazo de un año contado a partir de la entrada en vigor de este Decreto, deberá formular y promover la aprobación de la Estrategia Estatal de Ordenamiento Territorial a que se refiere la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+
+OCTAVO. El Ejecutivo del Estado y los Municipios contarán con un plazo de dos años contados a partir de la entrada en vigor de este Decreto, para formular, consultar y promover la aprobación de los Programas Estatal y Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, conforme a sus competencias.
+
+NOVENO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, se deberán formular o actualizar los programas de desarrollo urbano de los centros de población mayores a cien mil habitantes.
+
+En el mismo plazo, los municipios deberán actualizar sus reglamentos internos, así como los manuales de organización, operación y funcionamiento en congruencia con estas nuevas disposiciones.
+
+DÉCIMO. Durante el Ejercicio Fiscal de 2018, los derechos establecidos en la Ley de Hacienda del Estado de Quintana Roo, por concepto de Constancia de Compatibilidad Urbanística, serán aplicables a las Constancias de Compatibilidad Territorial y al Dictamen de Impacto Territorial, a que se refiere el Capítulo Cuarto del Título Quinto de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.
+
+UNDÉCIMO. Para el caso de inmuebles construidos con anterioridad a la vigencia de este Decreto, el régimen de propiedad en condominio podrá constituirse cumpliendo con lo establecido en el artículo 4º de la Ley de Propiedad en Condominio de Inmuebles del Estado y sus disposiciones reglamentarias aplicables.
+
+DUODÉCIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
