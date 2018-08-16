@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-21747"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2016-02-15"
+last_updated: "2018-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial, el 29 de junio de 2001.
 
@@ -333,7 +333,7 @@ IV. Proponer el establecimiento y aplicación de incentivos e instrumentos econ�
 
 V. Celebrar convenios o acuerdos de coordinación con la Federación, con el objeto de que el Estado asuma el ejercicio de las funciones que señalan las leyes generales en materia ambiental;
 
-VI. Celebrar convenios mediante los cuales obtengan recursos materiales y económicos para realizar Investigaciones pertinentes a la problemática ambiental y de cambio climático del Estado;
+VI. Celebrar convenios mediante los cuales se obtengan recursos materiales y económicos para realizar Investigaciones pertinentes a la problemática ambiental y de cambio climático del Estado;
 
 VII. Expedir los decretos que establezcan Áreas Naturales Protegidas Estatales; VIII. Expedir los ordenamientos y demás disposiciones necesarias para proveer el cumplimiento de la presente Ley; y
 
@@ -379,7 +379,7 @@ XIV.- La formulación y conducción de la política estatal de educación, infor
 
 XV.- Promover y garantizar la participación de la sociedad en materia ambiental;
 
-XVI.- La evaluación de la manifestación de impacto ambiental de las obras o actividades que no se encuentren expresamente reservadas a la federación y en su caso, expedir las autorizaciones correspondientes y turnar a la autoridad federal la información que con motivo de la evaluación del estudio de impacto ambiental le competa a esta última ;
+XVI.- La evaluación de la manifestación de impacto ambiental de las obras o actividades que no se encuentren expresamente reservadas a la federación y en su caso, expedir las autorizaciones correspondientes y turnar a la autoridad federal la información que con motivo de la evaluación del estudio de impacto ambiental le competa a esta última;
 
 XVII.- El ejercicio de las funciones que en materia de preservación del equilibrio ecológico y protección al ambiente le transfiera la federación;
 
@@ -709,9 +709,21 @@ VI.- Las observaciones y propuestas formuladas por la ciudadanía.
 
 El ordenamiento ecológico del territorio estatal, se llevará a cabo a través de los programas de ordenamiento ecológico:
 
-I.- Regionales y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE AGOSTO DE 2018)</small>
 
-II.- Locales
+l. General del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+II. Regionales, y
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+III. Locales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2018)</small>
+
+Con el propósito de integrar en un solo instrumento las regulaciones urbanas y ambientales, con una visión y políticas armónicas sobre el uso y aprovechamiento del territorio del Estado, los Programas de Ordenamiento Ecológico General del Estado y Locales mencionados en este artículo, estarán contenidos en el Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable y en los programas de ordenamiento territorial, ecológico y desarrollo urbano, según correspondan, a los que se refiere la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
 
 ###### Artículo 17.
 
@@ -831,6 +843,14 @@ XVIII.- Cambio de uso del suelo en terrenos considerados como acahuales; y
 
 XIX.- Obras o actividades que correspondan a asuntos de competencia estatal, que puedan causar desequilibrios ecológicos graves e irreparables daños a la salud pública o a los ecosistemas, o rebasar los límites y condiciones establecidos en las disposiciones jurídicas relativas a la preservación del equilibrio ecológico y protección al ambiente.
 
+(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2018)</small>
+
+La Secretaría, en coordinación con la Secretaría de Desarrollo Territorial Urbano Sustentable, expedirán las disposiciones administrativas que permitan unificar, armonizar, simplificar y evitar la duplicidad de trámites, costos y tiempos de gestión de las manifestaciones de impacto ambiental Y LOS DICTÁMENES DE IMPACTO TERRITORIAL a que hacen referencia esta ley y la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+
 ###### Artículo 25.
 
 En el Reglamento de la presente Ley o en las normas que al efecto se emitan, se determinarán las obras o actividades a que se refiere el artículo anterior, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, ni rebasen los límites y condiciones establecidas en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y protección al ambiente en el Estado y que por lo tanto, no deban sujetarse al procedimiento de evaluación de estudios de impacto ambiental previsto en este ordenamiento.
@@ -949,7 +969,9 @@ VII.- El Instituto agregará las observaciones realizadas por los interesados en
 
 Una vez presentada la manifestación de impacto ambiental, el Instituto iniciará el procedimiento de evaluación, para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley y su Reglamento, e integrará el expediente respectivo en un plazo no mayor de 10 días hábiles.
 
-Para la evaluación en materia de impacto ambiental de las obras y actividades a que se refiere el artículo 24, la Secretaría se sujetará a lo que establezcan los ordenamientos antes señalados, las Normas Oficiales Mexicanas, así como los programas de desarrollo urbano y de ordenamiento ecológico, las declaratorias de áreas naturales protegidas y las demás disposiciones legales que resulten aplicables.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
+Para la evaluación en materia de impacto ambiental de las obras y actividades a que se refiere el artículo 24, la Secretaría se sujetará a lo que establezcan los ordenamientos antes señalados, las Normas Oficiales Mexicanas, así como los programas de ordenamiento territorial, ecológico y desarrollo urbano, las declaratorias de áreas naturales protegidas y las demás disposiciones legales que resulten aplicables.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2016)</small>
 
@@ -1205,7 +1227,7 @@ II.- Instrumentar un sistema de aprobación, acreditación, registro y evaluaci�
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2016)</small>
 
-III.- Desarrollar y ejecutar procesos de capacitación en materia (sic) autoregulación y auditorías ambientales;
+III.- Desarrollar y ejecutar procesos de capacitación en materia (sic) autorregulación y auditorías ambientales;
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2016)</small>
 
@@ -2545,6 +2567,10 @@ XII.- Coordinarse con organismos homólogos de carácter estatal, regional, naci
 
 XIII.- Las demás que sean necesarias para la consecución de sus fines, de objeto de esta Ley y estén previstas en otros ordenamientos.
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
+En los procesos de consulta relativos a la evaluación, formulación y modificación de los Programas de Ordenamiento Ecológico, el Consejo Consultivo de Ecología del Estado deberá sesionar en acuerdo con el Consejo Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable, a que se refiere la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2016)</small>
 
 ### CAPITULO IX. Denuncia en materia Ambiental
@@ -3404,3 +3430,33 @@ P.O. 15 DE FEBRERO DE 2016.
 PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo
 
 SEGUNDO. En el término de 20 días hábiles, a partir de la entrada en vigor del presente decreto, el Gobernador del Estado expedirá el reglamento de auditoría y autorregulación.
+
+P.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 194, POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO, SE EXPIDE LA LEY DE ACCIONES URBANÍSTICAS DEL ESTADO DE QUINTANA ROO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, SE REFORMAN LOS ARTÍCULOS 16, 24, 34 PÁRRAFO SEGUNDO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 184 TER, TODOS DE LA LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN DEL AMBIENTE DEL ESTADO DE QUINTANA ROO, SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE PROPIEDAD DE CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO, Y SE REFORMA EL ARTÍCULO SEGUNDO DE LA LEY DE EXPROPIACIÓN DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Asentamientos Humanos del Estado de Quintana Roo, publicada mediante Decreto Número 107 de la XIII Legislatura del Estado, en el Periódico Oficial en fecha 18 de abril de 2012.
+
+TERCERO. Se abroga la Ley de Fraccionamientos del Estado de Quintana Roo, publicada mediante Decreto Número 125 de la VI Legislatura del Estado, en el Periódico Oficial del Estado en fecha 31 de diciembre del año 1992.
+
+CUARTO. En tanto el Titular del Poder Ejecutivo del Estado y los municipios del Estado no expidan las disposiciones administrativas a que se refiere este decreto, seguirán aplicándose las disposiciones reglamentarias vigentes.
+
+QUINTO. El Titular del Poder Ejecutivo del Estado expedirá en un plazo no mayor a ciento ochenta días, el reglamento de esta ley, que será aplicable en los temas de competencia estatal, y aplicable en el ámbito estatal, hasta en tanto los ayuntamientos no expidan sus respectivos ordenamientos municipales en la materia.
+
+SEXTO. Los programas de desarrollo urbano y los ordenamientos ecológicos del territorio, así como las autorizaciones de acciones urbanísticas otorgadas con anterioridad a la entrada en vigor de la presente Ley seguirán vigentes en los términos que fueron aprobados o concedidas. Las que se encuentren en trámite, se deberán ajustar a sus nuevas disposiciones. Para tal efecto, los interesados en alguna autorización, refrendo o renovación en materia de acciones urbanísticas podrán optar por continuar su procedimiento ajustando sus proyectos a la normatividad vigente, o bien, presentar una nueva solicitud, en cuyo caso no pagarán nuevamente los derechos correspondientes.
+
+SÉPTIMO. El Titular del Poder Ejecutivo del Estado, en el plazo de un año contado a partir de la entrada en vigor de este Decreto, deberá formular y promover la aprobación de la Estrategia Estatal de Ordenamiento Territorial a que se refiere la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+
+OCTAVO. El Ejecutivo del Estado y los Municipios contarán con un plazo de dos años contados a partir de la entrada en vigor de este Decreto, para formular, consultar y promover la aprobación de los Programas Estatal y Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, conforme a sus competencias.
+
+NOVENO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, se deberán formular o actualizar los programas de desarrollo urbano de los centros de población mayores a cien mil habitantes.
+
+En el mismo plazo, los municipios deberán actualizar sus reglamentos internos, así como los manuales de organización, operación y funcionamiento en congruencia con estas nuevas disposiciones.
+
+DÉCIMO. Durante el Ejercicio Fiscal de 2018, los derechos establecidos en la Ley de Hacienda del Estado de Quintana Roo, por concepto de Constancia de Compatibilidad Urbanística, serán aplicables a las Constancias de Compatibilidad Territorial y al Dictamen de Impacto Territorial, a que se refiere el Capítulo Cuarto del Título Quinto de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.
+
+UNDÉCIMO. Para el caso de inmuebles construidos con anterioridad a la vigencia de este Decreto, el régimen de propiedad en condominio podrá constituirse cumpliendo con lo establecido en el artículo 4º de la Ley de Propiedad en Condominio de Inmuebles del Estado y sus disposiciones reglamentarias aplicables.
+
+DUODÉCIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
