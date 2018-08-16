@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-528-de-fomento-economico-para-el-estado-de-66454"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-30"
-last_updated: "2017-03-15"
+last_updated: "2018-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 528 DE FOMENTO ECONÓMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de enero de 2009.
 
@@ -611,6 +611,10 @@ VI. En términos de la Ley General de Sociedades Cooperativas, impulsar el coope
 
 VII. Cuidar que en la aplicación de las acciones se respete el equilibrio ecológico.
 
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2018)</small>
+
+VIII. Crear y administrar el padrón de agricultores de productos endémicos que caracterizan a las regiones contempladas en el artículo 37.
+
 ###### Artículo 37.
 
 Para cumplir con los propósitos del presente Título, con un enfoque sociodemográfico y cuidando una estricta planeación, desarrollo y ejercicio de las acciones a realizar, se divide el Estado en las siguientes regiones: Huasteca Alta; Huasteca Baja; Totonaca; del Nautla; la Capital; Sotavento; de las Montañas; Papaloapan; de los Tuxtlas y Olmeca.
@@ -824,5 +828,13 @@ G.O. 15 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LOS SIGUIENTES ORDENAMIENTOS: DEL CÓDIGO HACENDARIO MUNICIPAL, DEL CÓDIGO DE DERECHOS, DE LA LEY DE FOMENTO ECONÓMICO, DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL, Y DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 651 QUE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 36 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
