@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-vivienda-del-estado-de-quintana-roo-77789"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-21"
-last_updated: "2013-08-19"
+last_updated: "2018-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Quintana Roo, el martes 21 de diciembre de 2010.
 
@@ -39,8 +39,6 @@ D E C R E T A:
 
 SE EXPIDE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, PARA QUEDAR COMO SIGUE:
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL DÉCIMO NOVENO TRANSITORIO DEL DECRETO NÚMERO 306, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES AL INSTITUTO DE FOMENTO A LA VIVIENDA Y REGULARIZACIÓN DE LA PROPIEDAD DEL ESTADO EN OTRAS DISPOSICIONES NORMATIVAS, A PARTIR DE LA VIGENCIA DEL PRESENTE DECRETO SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA.</small>
-
 LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
@@ -51,13 +49,21 @@ LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO
 
 La presente Ley es reglamentaria del Artículo 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de vivienda, sus disposiciones son de orden público e interés social y tienen por objeto:
 
-I. Definir y regular la Política de Vivienda y las acciones habitacionales del Gobierno del Estado en congruencia con los aspectos económicos, sociales, urbanos y poblacionales en el Estado, y con la Política Nacional de Vivienda;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-II. Definir los lineamientos generales de la Política y los Programas de Vivienda del Estado y la debida coordinación con sus Municipios;
+I. Definir y regular la política de suelo y vivienda del Estado, de conformidad con la Estrategia Estatal de Ordenamiento Territorial, así como con los principios, políticas y programas establecidos en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado;
 
-III. Regular, coordinar y concertar las acciones de los sectores público, privado y social, y dirigidas a garantizar el derecho y disfrute de una vivienda digna y decorosa para los habitantes del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-IV. Establecer los criterios de ayuda y protección en materia de vivienda para la población de bajos ingresos, o en situación de pobreza, riesgo o vulnerabilidad en el Estado;
+II. Definir los lineamientos generales de la política y los programas de suelo y vivienda del Estado y la debida coordinación con sus Municipios;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+III. Regular, coordinar y concertar las acciones de los sectores público, privado y social, y dirigidas a garantizar el derecho y disfrute de una vivienda adecuada, digna y decorosa para los habitantes del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+IV. Establecer los criterios de ayuda y protección en materia de suelo y vivienda para la población de bajos ingresos, o en situación de pobreza, riesgo o vulnerabilidad en el Estado;
 
 V. Establecer el carácter normativo y regulador en materia de vivienda, del Gobierno del Estado;
 
@@ -71,21 +77,33 @@ IX. Informar a la ciudadanía de los mecanismos jurídicos y financieros existen
 
 Serán de aplicación supletoria a lo dispuesto en este ordenamiento, la Ley de Vivienda de carácter Federal, así como las leyes de Asentamientos Humanos, Equilibrio Ecológico y la Protección del Ambiente, Fraccionamientos, todos del Estado de Quintana Roo; y demás ordenamientos legales relacionados con la materia de vivienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 2.
 
-Todos los habitantes de Quintana Roo tienen derecho a una vivienda digna y decorosa, considerándose por esta la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, habitabilidad, salubridad, que cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a la propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
+Todos los habitantes de Quintana Roo tienen derecho a una vivienda adecuada, digna y decorosa, considerándose por esta la que cumpla con las disposiciones jurídicas nacionales e internacionales aplicables, en materia de asentamientos humanos y construcción, habitabilidad, accesibilidad, salubridad y sustentabilidad, que cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a la propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
 
 Asimismo que permita el disfrute de la intimidad y la integración social y urbana.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 3.
 
-Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e inclusión social, de manera tal que, toda persona que reside en el Estado de Quintana Roo, sin importar su origen étnico, género, edad, capacidades diferentes, su condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias o el estado civil, pueda ejercer su derecho constitucional a una vivienda digna y decorosa.
+Las disposiciones de esta ley deberán aplicarse bajo los principios de equidad e inclusión social, de manera tal que, toda persona que reside en el Estado de Quintana Roo, sin importar su origen étnico, género, edad, capacidades diferentes, su condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias o el estado civil, pueda ejercer su derecho constitucional a una vivienda adecuada, digna y decorosa.
 
 ###### Artículo 4.
 
 Las políticas, programas, instrumentos y apoyos en materia de vivienda a que se refiere este ordenamiento se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, así como el combate a la invasión y venta ilegal de predios y al crecimiento irregular de las ciudades.
 
 Las Dependencias y Entidades del Gobierno del Estado y municipales en su caso, que lleven a cabo u otorguen financiamiento para programas o acciones de vivienda, quedan sujetas a las disposiciones de esta Ley y demás ordenamientos que resulten aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2018)</small>
+
+Las políticas y los programas públicos de vivienda, así como los instrumentos y apoyos a la vivienda a que se refiere esta ley deberán considerar los distintos tipos y modalidades de producción habitacional, entre otras: la promovida empresarialmente y la autoproducida o autoconstruida, en propiedad, arrendamiento o en otras formas legítimas de tenencia; así como para las diversas necesidades habitacionales: adquisición o habilitación de suelo; lotes con servicios mínimos; parques de materiales; mejoramiento de vivienda; sustitución de vivienda; vivienda nueva; y, capacitación, asistencia integral e investigación de vivienda y suelo, propiciando que la oferta de vivienda digna refleje los costos de suelo, de infraestructura, servicios, edificación, financiamiento y titulación más bajos de los mercados respectivos, para lo cual se incorporarán medidas de información, competencia, transparencia y las demás que sean convenientes para lograr este propósito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2018)</small>
+
+Los reglamentos municipales apoyarán a la autoproducción y autoconstrucción de vivienda social, otorgando el reconocimiento jurídico y brindando asesoría y facilidades administrativas a dichos procesos.
 
 ###### Artículo 5.
 
@@ -99,15 +117,21 @@ III. Autoconstrucción de Vivienda: El proceso de construcción o edificación d
 
 IV. Beneficiarios: Los sujetos favorecidos de una acción habitacional o de un crédito de vivienda social;
 
-V. Consejo: El Consejo Estatal de Vivienda;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+V. Consejo Estatal: El Consejo Estatal de Ordenamiento Territorial, Medio Ambiente y Desarrollo Urbano, a que se refiere la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado;
 
 VI. Crédito de Vivienda: Son los préstamos que se conceden con la finalidad de adquirir suelo, construir, rehabilitar, mejorar y ampliar, complementar o adquirir una vivienda;
 
 VII. Estímulos: Las medidas de carácter jurídico, administrativo, fiscal o financiero que establezcan los diferentes órdenes de gobierno para promover y facilitar la participación de los sectores social y privado, en la ejecución de acciones, procesos o programas habitacionales, de suelo y de vivienda popular o económica y de interés social;
 
-VIII. INFOVIR: El Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-IX. IPAE: El Instituto del Patrimonio Inmobiliario de la Administración Pública del Estado de Quintana Roo;
+VIII. Instituto: El Instituto Quintanarroense de la Vivienda;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+IX. AGEPRO: La Agencia de Proyectos Estratégicos del Estado de Quintana Roo;
 
 X. Ley: La Ley de Vivienda del Estado de Quintana Roo;
 
@@ -117,15 +141,21 @@ XII. Organismos especializados: Los Colegios de Arquitectos, Ingenieros, Abogado
 
 XIII. Personas de bajos ingresos: aquéllas cuyo nivel de percepciones económicas es insuficiente para acceder a una solución habitacional, a través de ahorro propio o de apoyo financiero, cuyo ingreso sea hasta de 4.5 salarios mínimos vigentes en la zona;
 
-XIV. Población en Situación de Riesgo: Aquella que habita una vivienda en condiciones inseguras física y socialmente, bajo inminente amenaza de colapso y que pone en peligro su vida;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-XV. Población Vulnerable: La constituida por los adultos mayores y personas con capacidades diferentes, madres solteras, población indígena, población con empleo temporal y/o informal;
+XIV. Población en Situación de Riesgo: Aquellos asentamientos que habitan viviendas en condiciones inseguras física o socialmente, que ponen en peligro su vida o sus bienes;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+XV. Población Vulnerable: Aquellos individuos o grupos sociales que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión pública para lograr su bienestar, entre los que se encuentran los adultos mayores y personas con capacidades diferentes, madres solteras, población indígena, población con empleo temporal o informal;
 
 XVI. Proceso o acción habitacional: La secuencia de actividades u operaciones de planeación, producción, distribución, uso y mejoramiento de las viviendas, así como de los materiales, elementos o componentes que las integran y el equipamiento y los servicios urbanos de las mismas;
 
 XVII. Promotores de Vivienda: Las personas físicas y/o morales encargadas de promover la participación de la población en los mecanismos de adquisición de vivienda;
 
-XVIII. Secretaría: La Secretaría de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+XVIII. Secretaría: La Secretaría de Desarrollo Territorial Urbano Sustentable;
 
 XIX. Sector Privado: Toda persona física y/o moral que produzca bienes o servicios relacionados con la vivienda con fines preponderantes de lucro;
 
@@ -147,33 +177,45 @@ I. El Poder Ejecutivo del Gobierno del Estado, y
 
 II. Los Municipios.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 7.
 
-Corresponde al Titular del Ejecutivo del Estado, por conducto de la Secretaría o el INFOVIR el fomento, la coordinación, la promoción y la instrumentación de la Política y el Programa Estatal de Vivienda, en los términos de la presente Ley, y demás ordenamientos aplicables.
+Corresponde al Titular del Ejecutivo del Estado, por conducto de la Secretaría y el Instituto, el fomento, coordinación, promoción e instrumentación de la Política y el Programa Estatal de Vivienda, en los términos de la presente ley, y demás ordenamientos aplicables.
 
 ###### Artículo 8.
 
-El Ejecutivo del Estado y los Municipios ejercerán las atribuciones en materia de vivienda de manera concurrente y de conformidad con lo previsto en esta Ley; así mismo (sic) coordinarán las acciones relacionadas con la planeación del desarrollo humano y ejecución de obra pública, para simplificar trámites y optimizar recursos en los programas de vivienda y promoción de fraccionamientos populares y de interés social.
+El Ejecutivo del Estado y los Municipios ejercerán las atribuciones en materia de vivienda de manera concurrente y de conformidad con lo previsto en esta Ley; así mismo coordinarán las acciones relacionadas con la planeación del desarrollo humano y ejecución de obra pública, para simplificar trámites y optimizar recursos en los programas de vivienda y promoción de fraccionamientos populares y de interés social.
 
 ###### Artículo 9.
 
 Con el objeto de hacer más rápidos y expeditos los trámites para vivienda, el Ejecutivo del Estado promoverá la operación y revisión permanente de un procedimiento único, sencillo y ágil, que permita en una sola Dependencia gestionar todos los trámites vinculados con los permisos, licencias y autorizaciones, a fin de evitar la duplicidad de procedimientos. Asimismo, promoverá una estrecha coordinación con los Municipios para vincular los procesos de autorización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 10.
 
-Sin menoscabo de lo establecido en la Ley de Asentamientos Humanos del Estado, el Ejecutivo del Estado tiene las siguientes atribuciones:
+Sin menoscabo de lo establecido en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado, el Ejecutivo del Estado, a través de la Secretaría, tiene las siguientes atribuciones:
 
-I. Formular, aprobar, ejecutar y evaluar la Política de Vivienda en el Estado, de conformidad con lo dispuesto en esta Ley, el Plan Estatal de Desarrollo y en concordancia con demás ordenamientos y programas que incidan en la acción habitacional;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-II. Aprobar, aplicar, actualizar y controlar, el Programa Estatal de Vivienda, en congruencia con el Programa Nacional de Vivienda y lineamientos señalados por esta ley, así como evaluar y vigilar su cumplimiento;
+I. Formular, aprobar y evaluar la política y programas de suelo y vivienda en el Estado, de conformidad con la Estrategia Estatal de Ordenamiento Territorial, el Plan Estatal de Desarrollo y en concordancia con demás ordenamientos y programas que incidan en la acción habitacional y de suelo a que se refiere este ordenamiento;
 
-III. Elaborar, aprobar y aplicar el Código de Edificación de la Vivienda del Estado de Quintana Roo, en congruencia con el Código de Edificación de la Vivienda Federal, así como evaluar y vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+II. Ejecutar, aplicar, actualizar y controlar, el Programa Estatal de Suelo y Vivienda, en congruencia con los programas nacionales en la materia, la Estrategia Estatal de Ordenamiento Territorial y las normas señaladas por esta ley, así como evaluar y vigilar su cumplimiento;
+
+III. (DEROGADA, P.O. 16 DE AGOSTO DE 2018)
 
 IV. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda otorgando atención preferente a la población en situación de pobreza y que carezca de una vivienda digna y decorosa;
 
-V. Dictaminar previamente a su ejecución, la congruencia de los Programas Institucionales de Vivienda y de las acciones habitacionales que realicen las dependencias y entidades estatales y municipales, con los Programas Estatales de Ordenamiento Territorial, Desarrollo Urbano y de Vivienda;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-VI. Coordinar los programas y acciones de vivienda;
+V. Dictaminar previamente a su ejecución, la congruencia de los programas de suelo y vivienda y de las acciones habitacionales que realicen las dependencias y entidades estatales y municipales, con la Estrategia Estatal de Ordenamiento Territorial y los programas estatales y municipales de ordenamiento territorial, ecológico y desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+VI. Coordinar los programas y acciones de suelo y vivienda;
 
 VII. Constituir, adquirir y promover en su caso la desincorporación de reservas territoriales y suelo apto para la vivienda, en coordinación con los Gobiernos Federal y Municipales;
 
@@ -193,7 +235,9 @@ XIV. Celebrar convenios o acuerdos de coordinación para la ejecución de progra
 
 XV. Apoyar a las Autoridades Municipales que lo soliciten, en la planeación, gestión de recursos, operación de programas y en ejecución de acciones en materia de suelo y vivienda;
 
-XVI. Establecer y expedir el Registro de Demandantes y Beneficiarios de Vivienda;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+XVI. Establecer y mantener actualizado el Registro de Demandantes y Beneficiarios de Suelo y Vivienda;
 
 XVII. Informar a la ciudadanía sobre las acciones que se realicen en materia de suelo y vivienda;
 
@@ -205,7 +249,7 @@ XX. Adquirir por causa de utilidad pública tierra para la construcción de vivi
 
 XXI. Administrar las reservas territoriales del Estado;
 
-XXII. Expedir los ordenamientos y demás disposiciones necesarias para el cumplimiento de esta Ley; y (sic)
+XXII. Expedir los ordenamientos y demás disposiciones necesarias para el cumplimiento de esta Ley; y
 
 XXIII. Promover ante las instancias competentes la gestión de recursos para la ejecución de acciones, obras y servicios de infraestructura relacionados con el desarrollo urbano;
 
@@ -217,17 +261,23 @@ XXV. Las demás que conforme a esta Ley u otros ordenamientos jurídicos aplicab
 
 Los Municipios tendrán las siguientes atribuciones:
 
-l. Fijar la política municipal en materia de vivienda en congruencia con esta Ley los Programas Estatales de Ordenamiento Territorial, Desarrollo Urbano y de Vivienda, y los de competencia municipal;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+I. Fijar la política municipal en materia de vivienda en congruencia con esta ley, los programas estatales y municipales de ordenamiento territorial, ecológico y desarrollo urbano;
 
 II. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de acciones de suelo y vivienda, en su ámbito territorial, otorgando atención preferente a la población que carezca de una vivienda digna y decorosa, considerando e impulsando la autogestión y autoconstrucción;
 
 III. Formular, aprobar, y administrar los Programas Municipales de Suelo y Vivienda, de conformidad con los lineamientos de la Política Estatal de Vivienda, establecidos en esta Ley y en congruencia con el Programa Estatal de Vivienda y demás ordenamientos locales aplicables, así como evaluar y vigilar su cumplimiento;
 
-IV. Establecer las zonas para el desarrollo habitacional y amortiguamiento ambiental de conformidad con la legislación y los Programas de Desarrollo Urbano aplicables;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+IV. Establecer las zonas para el desarrollo de vivienda social, de conformidad con la legislación y los programas aplicables;
 
 V. Coordinarse con el Ejecutivo del Estado en la ejecución y seguimiento del Programa Estatal de Vivienda, en el ámbito de su circunscripción;
 
-VI. Participar en la constitución y adquisición de reservas territoriales para fines habitacionales, en los términos de esta Ley, la Ley de Asentamientos Humanos del Estado y de los Programas de Desarrollo Urbano aplicables;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+VI. Participar en la constitución y adquisición de reservas territoriales para fines habitacionales, en los términos de esta ley, la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado y de los Programas de Desarrollo Urbano aplicables;
 
 VII. Crear incentivos fiscales y facilidades administrativas para quienes desarrollen acciones de vivienda social en beneficio de la población en situación de pobreza;
 
@@ -239,13 +289,19 @@ X. Garantizar el suministro de los servicios públicos municipales a los predios
 
 XI. Integrar el Sistema de Información Municipal, que permita conocer la problemática de vivienda en el Municipio y las condiciones socioeconómicas que incidan en ella;
 
-XII. Proporcionar la información que se le requiera para el Sistema Nacional de Información e Indicadores de Vivienda y el Sistema Estatal de Información y Estadística de la Vivienda;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+XII. Proporcionar la información que se le requiera para el Sistema Nacional de Información e Indicadores de Vivienda y el Sistema Estatal de Información y Estadística de Suelo y Vivienda;
 
 XIII. Coordinarse con el Ejecutivo del Estado y con otros Municipios en la planeación, gestión de recursos, operación de programas y ejecución de acciones en materia de suelo y vivienda;
 
-XIV. Vigilar en el ámbito de su competencia, el cumplimiento de esta Ley, del Programa Municipal de Vivienda y de las demás disposiciones Municipales aplicables en la materia e imponer medidas de seguridad y sanciones administrativas a los infractores de las disposiciones jurídicas, planes y programas de vivienda a que haya lugar; y (sic)
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-XV. Fomentar la regularización de la tenencia del suelo en los términos de la legislación aplicable, en coordinación con las instancias competentes, y de conformidad con las políticas estatales de vivienda, así como con los programas de desarrollo urbano, ordenamiento territorial y de ordenamiento ecológico del territorio;
+XIV. Vigilar en el ámbito de su competencia, el cumplimiento de esta ley, del Programa Municipal de Suelo y Vivienda y de las demás disposiciones Municipales aplicables en la materia e imponer medidas de seguridad y sanciones administrativas a los infractores de las disposiciones jurídicas, planes y programas de vivienda a que haya lugar;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+XV. Intervenir en la regularización de la tenencia del suelo en los términos de la legislación aplicable, en coordinación con las instancias competentes, y de conformidad con las políticas estatales de vivienda, así como con los programas de ordenamiento territorial, ecológico y desarrollo urbano. y
 
 XVI. Las demás que le señale esta Ley u otros ordenamientos jurídicos aplicables.
 
@@ -257,29 +313,45 @@ Los Ayuntamientos deberán crear sus Institutos Municipales de Vivienda, en base
 
 Las autoridades del Gobierno del Estado establecerán los convenios de coordinación con lasDependencias (sic) y Organismos del Sector Público Federal que actúan en el Estado, las queparticiparán (sic) y colaborarán en la ejecución de la Política de Vivienda y el desarrollo habitacional de Quintana Roo, cuando así corresponda de conformidad a la normatividad que los rige y a lo establecido en los convenios que se celebren al efecto.
 
-### CAPÍTULO III. DEL INSTITUTO DE FOMENTO A LA VIVIENDA Y REGULARIZACIÓN DE LA PROPIEDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO III. DEL INSTITUTO QUINTANARROENSE DE VIVIENDA
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 14.
 
-El Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado de Quintana Roo, es un órgano descentralizado de la Administración Pública del Estado, sectorizado de la Secretaría de Desarrollo Urbano y Medio Ambiente.
+Se crea el Instituto Quintanarroense de Vivienda, como un organismo descentralizado de la Administración Pública Paraestatal, con personalidad jurídica y patrimonio propio, sectorizado de la Secretaría de Desarrollo Territorial Urbano Sustentable.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 15.
 
-El INFOVIR tendrá por objeto, contribuir al ordenamiento territorial, desarrollo urbano y promover el acceso de las personas a una vivienda digna, a través de la formulación y ejecución de programas de construcción, rehabilitación, mejoramiento, así como el financiamiento y comercialización de la vivienda.
+El Instituto tendrá por objeto hacer una realidad el derecho a una vivienda adecuada para toda la población, contribuyendo al ordenamiento territorial y al desarrollo urbano del Estado, mediante la formulación, coordinación y ejecución de programas de producción, financiamiento y comercialización de suelo y vivienda, en sus diferentes modalidades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 16.
 
-El INFOVIR, además de las atribuciones establecidas en su ley, tendrá las siguientes funciones en materia de vivienda:
+El Instituto tendrá las siguientes funciones en materia de vivienda:
 
-I. Formular el Programa Estatal de Vivienda y presentarlo al Titular del Ejecutivo del Estado, para su revisión y aprobación en su caso;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-II. Intervenir en los programas federales de vivienda, conforme a los convenios que celebre el Gobierno del Estado con la Federación, con la participación de los municipios;
+I. Formular el Programa Estatal de Suelo y Vivienda y presentarlo a consideración de la Secretaría, para en su caso, posterior aprobación por parte del Titular del Ejecutivo del Estado;
 
-III. Promover y realizar Programas de Mejoramiento y Rehabilitación de Vivienda Rural y Urbana;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+II. Ejecutar y coordinar el Programa Estatal de Suelo y Vivienda, con los sectores público, social y privado;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+III. Promover y ejecutar Programas de Vivienda en todas sus modalidades, incluyendo aquellos dirigidos a regularizar la tenencia de la tierra;
 
 IV. Vigilar y asesorar que la construcción de vivienda que se realice bajo sus programas se preserve el equilibrio ecológico y procurando la utilización de materiales y tecnologías que coadyuven a elevar los niveles de habitabilidad de la vivienda, de salud y bienestar de las personas;
 
-V. Celebrar contratos de crédito, fideicomiso o cualquier otro de los permitidos por la Ley y emitir títulos de crédito para el cumplimiento de su objeto social;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+V. Constituirse como entidad financiera y celebrar contratos de crédito, fideicomiso o cualquier otro de los permitidos por la ley y emitir títulos de crédito para el cumplimiento de su objeto social;
 
 VI. Otorgar créditos a personas en situación de pobreza para que adquieran su lote o vivienda, conforme a lo dispuesto en esta Ley y su Reglamento;
 
@@ -291,81 +363,69 @@ IX. Gestionar el financiamiento para la adquisición o construcción de vivienda
 
 X. Promover y realizar investigaciones, estudios y proyectos, sobre las necesidades en la materia, así como sobre la incorporación de nuevas tecnologías que propicien la satisfacción y mejora de dichas necesidades;
 
-XI. Proponer al Ejecutivo del Estado, las políticas estatales de suelo para vivienda y vivienda;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-XII. Apoyar a los municipios que lo soliciten, en la elaboración de dictámenes sobre la viabilidad de los desarrollos habitacionales en el Estado;
+XI. Proponer a la Secretaría, las políticas estatales de suelo y vivienda;
 
-XIII. Promover ante las instancias competentes la construcción de obras de infraestructura para el desarrollo urbano; en coordinación con otras dependencias y entidades de la administración pública estatal y municipal competentes;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+XII. Apoyar a los municipios que lo soliciten, en la elaboración y ejecución de sus programas de suelo y vivienda, en sus jurisdicciones territoriales;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+XIII. Promover ante las instancias competentes la construcción de obras de infraestructura, así como para la provisión de servicios públicos, en los proyectos de suelo y vivienda, en coordinación con otras dependencias y entidades de la administración pública estatal y municipal competentes;
 
 XIV. Colaborar con las dependencias y entidades de la administración pública federal, estatal y municipal, en la ejecución de acciones para la regularización de la tenencia de la tierra; y
 
 XV. Las demás que conforme a esta Ley u otros ordenamientos jurídicos aplicables le correspondan.
 
-### CAPÍTULO IV. DEL CONSEJO ESTATAL DE VIVIENDA
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2018)</small>
+
+El Instituto tendrá la organización y estructura que determine su Estatuto Orgánico.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO IV. DEL CONSEJO ESTATAL
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 17.
 
-El Consejo Estatal de Vivienda se establece como una instancia permanente del Ejecutivo del Estado para garantizar que la ejecución de los programas y el fomento a la vivienda, se realice de manera coordinada a fin de dar cumplimiento a la Política Estatal de Vivienda.
+El Consejo Estatal se establece como una instancia permanente de participación social y ciudadana para garantizar que la ejecución de los programas y el fomento a la vivienda, se realice de manera coordinada a fin de dar cumplimiento a la Política Estatal de Vivienda.
 
-Se organizará y operará de acuerdo su reglamento interior que al efecto expida el Ejecutivo del Estado, en el que se establecerán las funciones, integración y la periodicidad de las sesiones, contemplando como mínimo cuatro sesiones ordinarias al año y las extraordinarias que se requieran dependiendo del asunto a tratar.
+La organización y funcionamiento de dicho Consejo se ajustará a la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado y sus disposiciones reglamentarias.
 
 ###### Artículo 18.
 
-El Consejo, coordinará los procesos de formulación, ejecución y evaluación de las políticas públicas de vivienda del Estado, así mismo (sic) conocerá y dará seguimiento a las demandas sociales, recomendará acciones preventivas para el abordaje de problemas reales y potenciales que pudieren afectar a este sector, y dará seguimiento a la ejecución de los programas, planes y acciones en materia de vivienda en el Estado.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2018)
 
 ###### Artículo 19.
 
-El Consejo, estará integrado por:
+(DEROGADO, P.O. 16 DE AGOSTO DE 2018)
 
-I. El Titular del Poder Ejecutivo del Estado, quien presidirá el Consejo;
-
-II. El Secretario de Desarrollo Urbano y Medio Ambiente, quien fungirá como Coordinador General;
-
-III. El Titular del INFOVIR quien fungirá como Secretario Técnico;
-
-IV. El Titular de la Secretaria de Planeación y Desarrollo Regional;
-
-V. El Presidente de la Comisión de Infraestructura y Asentamientos Humanos del H. Poder Legislativo;
-
-VI. El Director General de la Comisión de Agua Potable y Alcantarillado;
-
-VII. Los Presidentes Municipales del Estado;
-
-VIII. El Delegado en el Estado del Instituto del Fondo Nacional de Vivienda para los trabajadores;
-
-IX. El Delegado en el Estado del Fondo de Vivienda del Instituto de Seguridad Social y Servicios para los Trabajadores del Estado;
-
-X. El Delegado en el Estado de la Secretaría de Desarrollo Social;
-
-XI. El Representante de la CONAVI en el Estado;
-
-XII. Un Representante de la Comisión Federal de Electricidad en el Estado;
-
-A las reuniones del Consejo, podrán ser invitados con derecho a voz, pero no a voto, los representantes de las siguientes instituciones:
-
-I. Del Colegio de Arquitectos en el Estado;
-
-II. Del Colegio de Ingenieros Civiles en el Estado;
-
-III. De la Cámara Nacional de Promoción y Desarrollo de la Vivienda; y
-
-IV. De la Cámara Mexicana de la Industria de la Construcción.
-
-El Ejecutivo del Estado con la aprobación del Consejo podrá incluir a nuevos integrantes, cuando surjan nuevas instancias u organismos especializados que tengan que ver con la vivienda, así mismo (sic) podrá contar con invitados cuando el tema a tratar sea de su competencia o lo requiera.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 20.
 
-El Consejo, tendrá las funciones y atribuciones siguientes:
+El Consejo, además de las funciones que le encomienda la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado, tendrá las siguientes:
 
 I. Proponer mecanismos para la planeación, desarrollo y ejecución de los programas de vivienda;
 
-II. Participar durante el proceso de formulación y aprobar los Programas y Acciones de Vivienda;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-III. Participar en coordinación con los tres órdenes de Gobierno en el Estado, en la elaboración y evaluación del Programa Estatal de Vivienda;
+II. Participar durante el proceso de formulación y aprobar los programas y acciones de suelo y vivienda;
 
-IV. Elaborar y Aprobar el Programa Operativo Anual de Vivienda del Estado;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-V. Vincular las Acciones de fomento al crecimiento económico, de desarrollo social, desarrollo urbano, desarrollo rural, ordenación del territorio, mejoramiento ambiental y aprovechamiento óptimo de los recursos naturales, con la Política Estatal de Vivienda;
+III. Participar en coordinación con los tres órdenes de Gobierno en el Estado, en la elaboración y evaluación del Programa Estatal de Suelo y Vivienda;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+IV. Elaborar y Aprobar el Programa Operativo Anual de Suelo y Vivienda del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+V. Vincular las acciones de fomento al crecimiento económico, de desarrollo social, desarrollo urbano, desarrollo rural, ordenación del territorio, mejoramiento ambiental y aprovechamiento óptimo de los recursos naturales, con la Política Estatal de Suelo y Vivienda;
 
 VI. Conocer las evaluaciones de los Programas de Vivienda y de la aplicación de las acciones e inversiones intersectoriales para el logro de una vivienda digna y decorosa;
 
@@ -383,19 +443,27 @@ XII. Aprobar la creación de temas específicos y emitir lineamientos para su in
 
 XIII. Las demás que le determine esta Ley, así como el Reglamento del Consejo.
 
-## TÍTULO SEGUNDO. DE LA POLÍTICA Y DE LA PROGRAMACIÓN DE VIVIENDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
+
+## TÍTULO SEGUNDO. DE LA POLÍTICA Y DE LA PROGRAMACIÓN DE SUELO Y VIVIENDA
 
 ### CAPÍTULO I. DE LOS LINEAMIENTOS
 
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DEL SEGUNDO PÁRRAFO PASÓ A FORMAR PARTE DEL ACTUAL PRIMER PÁRRAFO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 21.
 
-La Política Estatal de Vivienda es el conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar las acciones de vivienda que realicen las autoridades Estatales y Municipales, así como su concertación con los sectores privado y social, con la finalidad de garantizar el derecho a la vivienda.
+La Política Estatal de Suelo y Vivienda es el conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar las acciones de vivienda que realicen las autoridades Estatales y Municipales, así como su concertación con los sectores privado y social, con la finalidad de garantizar el derecho a la vivienda. Y para su formulación, deberán considerarse los siguientes lineamientos:
 
-Y para su formulación deberán considerarse los siguientes lineamientos:
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-I. Mantener congruencia con los Programas de Desarrollo Económico, social, urbano y de medio ambiente del Estado;
+I. Mantener congruencia con el Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, así como con los demás programas de desarrollo económico, social, urbano y de medio ambiente del Estado;
 
-II. Promover el acceso de la población que resida en el territorio del Estado, a una vivienda digna y decorosa, preferentemente para, aquella de bajos ingresos o que se encuentre en situación de pobreza, riesgo o vulnerabilidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+II. Promover el acceso de la población que resida en el territorio del Estado, a una vivienda adecuada, preferentemente para aquella de bajos ingresos o que se encuentre en situación de pobreza, riesgo o vulnerabilidad;
 
 III. Incorporar estrategias que fomenten la concurrencia de los sectores público, social y privado para satisfacer las necesidades de vivienda, en sus diferentes tipos y modalidades;
 
@@ -453,35 +521,49 @@ XXIX. Fomentar asesoría y asistencia integral en materia de gestión social, fi
 
 ### CAPÍTULO II. DE LA PROGRAMACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 22.
 
-La programación de las actividades y acciones del sector público en materia de vivienda e integradas al Sistema Estatal de Vivienda, se establecerán a través de:
+La programación de las actividades y acciones del sector público en materia de suelo y vivienda se conducirán a través de:
 
-I. El Programa Estatal de Vivienda;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+I. El Programa Estatal de Suelo y Vivienda;
 
 II. El Programa Operativo Anual de Vivienda;
 
-III. Los Programas especiales de Vivienda;
+III. (DEROGADA, P.O. 16 DE AGOSTO DE 2018)
 
-IV. Los programas institucionales de las dependencias y entidades de la Administración Pública Estatal en materia de Vivienda;
+IV. (DEROGADA, P.O. 16 DE AGOSTO DE 2018)
 
-V. El Programa Estatal de Suelo Urbano; y
+V. (DEROGADA, P.O. 16 DE AGOSTO DE 2018)
 
-VI. Los Programas Municipales de Vivienda.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-El Programa Estatal de Vivienda y los Programas Municipales de Vivienda se elaborarán de conformidad a ésta ley y en congruencia con los programas de desarrollo urbano.
+VI. Los Programas Municipales de Suelo y Vivienda.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
+Los instrumentos de planeación a que se refiere este artículo se elaborarán de conformidad a ésta ley y en congruencia con los programas de ordenamiento territorial, ecológico y desarrollo urbano.
 
 Los programas, proyectos, estímulos, apoyos, instrumentos económicos, así como las acciones que se lleven a cabo por la aplicación de la presente Ley y demás disposiciones en la materia, en los que se ejerzan recursos de carácter estatal, se sujetarán a la disponibilidad que para tal fin se contemple en el Presupuesto de Egresos del Gobierno del Estado y el de los Municipios en su caso, dentro del ejercicio fiscal correspondiente.
 
-### CAPÍTULO III. DEL PROGRAMA ESTATAL DE VIVIENDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO III. DEL PROGRAMA ESTATAL DE SUELO Y VIVIENDA
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 23.
 
-El Programa Estatal de Vivienda, es el ordenamiento rector de las acciones de fomento a la vivienda en el Estado, que permite garantizar el acceso a una vivienda digna y decorosa, principalmente a las personas de bajos ingresos, en situación de pobreza, riesgo o vulnerabilidad y se formulará para articular las actividades, acciones y la producción habitacional con la participación de los sectores público, privado y social.
+El Programa Estatal de Suelo y Vivienda, es el ordenamiento rector de las acciones de fomento en la materia, que permite garantizar el acceso a una vivienda adecuada, principalmente a las personas de bajos ingresos, en situación de pobreza, riesgo o vulnerabilidad y se formulará para articular las actividades, acciones y la producción habitacional con la participación de los sectores público, privado y social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 24.
 
-El Programa Estatal de Vivienda deberá contener:
+El Programa Estatal de Suelo y Vivienda deberá guardar congruencia con el Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable y contendrá:
 
 I. Diagnóstico:
 
@@ -505,7 +587,9 @@ V. Metas de corto plazo compatibles con los intereses del sector público, priva
 
 VI. Pautas o Modelos de Programación Anual;
 
-VII. Concordancia con la Programación de Desarrollo Económico, Social, Urbano y de Medio Ambiente del Estado;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+VII. Concordancia con la planeación del ordenamiento territorial y desarrollo urbano, así como con otros planes y programas del desarrollo económico y social del Estado;
 
 VIII. Lineamientos para la incorporación de suelo para uso habitacional, creación de reservas territoriales, previsiones para la dotación de infraestructura, equipamiento y servicios para vivienda;
 
@@ -527,11 +611,15 @@ XV. Los demás que señale el Plan Estatal de Desarrollo y otros ordenamientos l
 
 El Programa Estatal de Vivienda será obligatorio para las Dependencias y entidades Estatales y Municipales, en la formulación y ejecución de sus programas institucionales y operativos anuales de vivienda y de las acciones habitacionales que lleven a cabo.
 
-### CAPÍTULO IV. DEL PROGRAMA OPERATIVO ANUAL DE VIVIENDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO IV. DEL PROGRAMA OPERATIVO ANUAL DE SUELO Y VIVIENDA
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 26.
 
-El Programa Operativo Anual de Vivienda es la concertación de estrategias y acciones del sector público, social y privado, con el objeto de dar cumplimiento a la planeación y normatividad de vivienda en el Estado.
+El Programa Operativo Anual de Suelo y Vivienda es la concertación de estrategias y acciones del sector público, social y privado, con el objeto de dar cumplimiento a la planeación y normatividad en la materia en el Estado.
 
 ###### Artículo 27.
 
@@ -553,7 +641,9 @@ VII. Los procedimientos que permitan orientar e informar con oportunidad y clari
 
 VIII. La programación para la adquisición o enajenación de tierra para el cumplimiento de los programas habitacionales;
 
-IX. Los lineamientos para la programación anual en materia de vivienda del INFOVIR, dependencias y entidades estatales y municipales competentes, con el señalamiento de metas y previsión de recursos;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+IX. Los lineamientos para la programación anual en materia de vivienda del Instituto, dependencias y entidades estatales y municipales competentes, con el señalamiento de metas y previsión de recursos;
 
 X. El sistema de evaluación y plazo de ejecución de las obras; y
 
@@ -563,13 +653,17 @@ XI. Las demás que determine el Consejo.
 
 ###### Artículo 28.
 
-El Programa Estatal de Suelo Urbano es un instrumento de planeación técnico-jurídico, cuyo objeto será ordenar y regular el suelo y las reservas territoriales, estableciendo las políticas para determinar las zonas susceptibles de crecimiento de los centros de población, para alcanzar un adecuado ordenamiento territorial y un desarrollo urbano sustentable en la realización de las acciones de vivienda.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2018)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 29.
 
-El Programa Estatal de Suelo Urbano comprenderá las siguientes acciones y previsiones:
+En materia de suelo, el Programa Estatal de Suelo y Vivienda comprenderá las siguientes acciones y previsiones:
 
-I. La adquisición de suelo, se hará como lo establecen los Programas de Desarrollo Urbano Estatal, y los programas de desarrollo urbano de competencia municipal, en zonas con potencial de desarrollo, de mejoramiento y de reciclamiento, mismos que definen la delimitación, zonificación y normatividad aplicable en dichas áreas;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+I. La adquisición de suelo, se hará como lo establecen los programas de ordenamiento territorial, ecológico y desarrollo urbano, en zonas con potencial de desarrollo, de mejoramiento y de reciclamiento, mismos que definen la delimitación, zonificación y normatividad aplicable en dichas áreas;
 
 II. Garantizar oferta de suelo a precios accesibles para la población popular que deba beneficiarse con las desincorporaciones;
 
@@ -581,71 +675,103 @@ V. La conformación de un inventario de información pública que contendrá req
 
 VI. Las medidas de simplificación del proceso de desincorporación y enajenación de las reservas territoriales del Gobierno del Estado;
 
-VII. Los criterios para la conformación y consolidación de una Bolsa de Suelo Urbano e Inmuebles Habitacionales con viabilidad técnica y jurídica para el desarrollo habitacional, que evite la especulación del suelo y el crecimiento urbano en zonas de reserva, en concordancia con los diferentes Programas de Desarrollo Urbano y de Ordenamiento Ecológico del Estado; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+VII. Los criterios para la conformación y consolidación de una Bolsa de Suelo Urbano e Inmuebles Habitacionales con viabilidad técnica y jurídica para el desarrollo habitacional, que evite la especulación del suelo y el crecimiento urbano en zonas de reserva, en concordancia con los diferentes programas de ordenamiento territorial, ecológico y desarrollo urbano; y
 
 VIII. Las previsiones de suelo para la dotación de infraestructura, equipamiento, servicios y fomento del pequeño comercio necesario en los espacios habitacionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 30.
 
-La formulación de los Programas de Vivienda y Suelo Urbano a que se refiere esta Ley, se sujetarán al procedimiento siguiente:
+La formulación de los Programas de Suelo y Vivienda a que se refiere esta ley, se sujetarán al procedimiento siguiente:
 
-I. El INFOVIR formulará el anteproyecto, considerando las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-II. Cuando se trate de Programas Municipales se podrá solicitar la participación y asesoría del INFOVIR para la elaboración de los mismos;
+I. El Instituto formulará el anteproyecto, considerando las disposiciones de esta ley y demás ordenamientos jurídicos aplicables;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+II. Cuando se trate de Programas Municipales se podrá solicitar la participación y asesoría del Instituto para la elaboración de los mismos;
 
 III. El Anteproyecto que se elabore se remitirá con oportunidad al Consejo, para su revisión y visto bueno;
 
-IV. El Consejo por conducto del INFOVIR, someterá el anteproyecto revisado, a consideración del Titular del Ejecutivo Estatal, para su aprobación en su caso y publicación correspondiente en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+IV. El Consejo por conducto del Instituto someterá el anteproyecto revisado, a consideración del Titular del Ejecutivo Estatal, para su aprobación en su caso y publicación correspondiente en el Periódico Oficial del Estado;
 
 V. Finalmente una versión abreviada del mismo será puesto a disposición del público en los medios electrónicos en la página de internet de la Secretaría o una que se establezca con este fin, y cuando menos publicada en los diarios de mayor circulación del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 31.
 
-El INFOVIR se apoyará y tomará en consideración para la elaboración de la Política y de la Programación de la Vivienda a que se refiere este Capítulo, las propuestas que formulen los sectores privado y social, así como los particulares interesados, a través de los foros de consulta ciudadana.
+El Instituto se apoyará y tomará en consideración para la elaboración de la Política y de la Programación de suelo y vivienda a que se refiere este Capítulo, las propuestas que formulen los sectores privado y social, así como los particulares interesados, a través de los foros de consulta ciudadana.
 
 ###### Artículo 32.
 
 Los Programas a que se refiere esta Ley serán sometidos a un proceso permanente de control y evaluación que permita su actualización. La actualización se sujetará al mismo procedimiento requerido para su aprobación y publicación.
 
-## TÍTULO TERCERO. DEL SISTEMA ESTATAL DE VIVIENDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
+
+## TÍTULO TERCERO. DEL SISTEMA ESTATAL DE SUELO Y VIVIENDA
 
 ### CAPÍTULO ÚNICO. DE SU OBJETO E INTEGRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 33.
 
-Se establece el Sistema Estatal de Vivienda, como el mecanismo permanente de coordinación y concertación de acciones e inversiones entre los sectores público, social y privado, para fomentar el acceso a los habitantes del Estado a una vivienda digna y decorosa; que tiene por objeto:
+Se establece el Sistema Estatal de Suelo y Vivienda, como el mecanismo permanente de coordinación y concertación de acciones e inversiones entre los sectores público, social y privado, para fomentar el acceso a los habitantes del Estado a una vivienda digna y decorosa; que tiene por objeto:
 
-I. Coordinar y concertar las acciones para cumplir los objetivos, prioridades y estrategias de la Política Estatal de Vivienda;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-Il. Dar integralidad y coherencia a las acciones, instrumentos, procesos y apoyos orientados a la satisfacción, de las necesidades de vivienda, particularmente de la población en situación de pobreza;
+I. Coordinar y concertar las acciones para cumplir los objetivos, prioridades y estrategias de la Política Estatal de Suelo y Vivienda;
 
-III. Promover y garantizar la participación articulada de todos los sectores productivos cuyas actividades incidan en el desarrollo de la vivienda; y
+II. Dar integralidad y coherencia a las acciones, instrumentos, procesos y apoyos orientados a la satisfacción, de las necesidades de vivienda, particularmente de la población en situación de pobreza;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+III. Promover y garantizar la participación articulada de todos los sectores productivos cuyas actividades incidan en el desarrollo urbano y la vivienda; y
 
 IV. Fortalecer la coordinación entre el Gobierno del Estado y el Gobierno Federal así como de los Municipios, e impulsar acciones de concertación con los sectores social y privado.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 34.
 
-El Sistema Estatal de Vivienda será coordinado por el Ejecutivo del Estado a través del INFOVIR y su integración será la misma del Consejo.
+El Sistema Estatal de Vivienda será coordinado por el Ejecutivo del Estado a través del Instituto y su integración será la misma del Consejo.
 
-## TÍTULO CUARTO. FINANCIAMIENTO PARA LA VIVIENDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
 
-### CAPÍTULO I. DEL FINANCIAMIENTO DE LA VIVIENDA
+## TÍTULO CUARTO. FINANCIAMIENTO PARA EL SUELO Y LA VIVIENDA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO I. DEL FINANCIAMIENTO DEL SUELO Y LA VIVIENDA
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 35.
 
-Los instrumentos y apoyos en materia de financiamiento para la realización de las acciones de vivienda serán el crédito, los subsidios que para tal efecto destinen los Gobiernos Federal, Estatal y Municipal, así como el ahorro de los particulares y otras aportaciones de los sectores público, social y privado.
+Los instrumentos y apoyos en materia de financiamiento para la realización de las acciones de suelo o vivienda serán el crédito, los subsidios que para tal efecto destinen los Gobiernos Federal, Estatal y Municipal, así como el ahorro de los particulares y otras aportaciones de los sectores público, social y privado.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 36.
 
-La aplicación de recursos públicos para la vivienda en el Estado de Quintana Roo tiene por objeto la promoción de la producción, ampliar la oferta habitacional y regular la relación entre el cumplimiento del derecho a la vivienda y los intereses de mercado.
+La aplicación de recursos públicos para el suelo o la vivienda en el Estado de Quintana Roo tiene por objeto la promoción de la producción, ampliar la oferta habitacional y regular la relación entre el cumplimiento del derecho a la vivienda y los intereses de mercado.
 
 ###### Artículo 37.
 
-El Ejecutivo del Estado, en coordinación con los Municipios, con el objeto de apoyar preferentemente a la población en situación de pobreza, establecerá un conjunto de mecanismos y acciones para captar y destinar financiamiento proveniente del crédito, ahorro, subsidio y otras aportaciones para los Programas de Vivienda que le estén relacionados.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2018)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 38.
 
-En la contratación y aplicación de financiamientos a la producción y adquisición de vivienda, se observarán los siguientes criterios y medidas:
+En la contratación y aplicación de financiamientos a la producción y adquisición de suelo o vivienda, se observarán los siguientes criterios y medidas:
 
 I. Diversificar los esquemas de financiamiento, de conformidad con los niveles de ingresos de la población que se busca beneficiar;
 
@@ -657,21 +783,29 @@ IV. Impulsar el fortalecimiento del mercado secundario de hipotecas, que mediant
 
 V. Fomentar la participación de más y diversos intermediarios financieros, a efecto de generar una mayor competitividad en el sector.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 39.
 
-El INFOVIR impulsará la constitución de los fondos de ahorro e inversión, de administración, de garantía y de rescate para la vivienda, creados con activos seguros, rentables y de fácil liquidación, con las primas que deben pagar los beneficiarios, a fin de promover el ahorro productivo de los beneficiarios; y de que los beneficiarios puedan cubrir sus créditos en los términos y los porcentajes establecidos en sus contratos.
+El Instituto impulsará la constitución de los fondos de ahorro e inversión, de administración, de garantía y de rescate para la vivienda, creados con activos seguros, rentables y de fácil liquidación, con las primas que deben pagar los beneficiarios, a fin de promover el ahorro productivo de los beneficiarios; y de que los beneficiarios puedan cubrir sus créditos en los términos y los porcentajes establecidos en sus contratos.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 40.
 
-El INFOVIR promoverá programas tendientes a buscar la inversión de Organismos Federales, Instituciones de Crédito, Organismos que apoyen acciones de vivienda, así como de la iniciativa privadapara (sic) la construcción de viviendas.
+El Instituto promoverá programas tendientes a buscar la inversión de Organismos Federales, Instituciones de Crédito, Organismos que apoyen acciones de vivienda, así como de la iniciativa privada para la construcción de viviendas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 41.
 
-El Programa Estatal de Vivienda y los Municipales, se ejecutarán de acuerdo a las siguientes modalidades individuales o colectivas de financiamiento:
+El Programa Estatal de Suelo y Vivienda y los Municipales, se ejecutarán de acuerdo a las siguientes modalidades individuales o colectivas de financiamiento:
 
 I. Crédito o préstamo con garantía hipotecaria, otorgado por instituciones financieras legalmente establecidas por particulares y/o por el sistema bancario;
 
-II. Inversión directa del Gobierno del Estado, cuya aplicación se haráa (sic) través del INFOVIR;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+II. Inversión directa del Gobierno del Estado, cuya aplicación se hará a través del Instituto;
 
 III. Inversión de otros Organismos Públicos Locales o Federales de Vivienda, que operan en el Estado;
 
@@ -685,7 +819,9 @@ VI. Otros fondos.
 
 El Estado y los Municipios, en el ámbito de sus competencias, a efecto de cumplir con su finalidad, se destinarán a realizar las siguientes acciones:
 
-I. Promoción, estudios y proyectos relacionados con la planeación, diseño, construcción, infraestructura y equipamiento para la vivienda;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+I. Promoción, estudios y proyectos relacionados con la planeación, diseño, construcción, infraestructura y equipamiento para el suelo y la vivienda;
 
 II. Adquisición y reciclamiento de suelo urbano para vivienda;
 
@@ -705,7 +841,9 @@ c) El otorgamiento de apoyos financieros para la dotación, introducción o mejo
 
 VII. Programas de Crédito para:
 
-a) Adquisición de Vivienda, producción de vivienda en arrendamiento y/o con opción a compra;
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
+a) Adquisición de suelo o vivienda, producción de vivienda en arrendamiento o con opción a compra;
 
 b) Rehabilitación de viviendas de alto riesgo;
 
@@ -731,15 +869,19 @@ XIII. la ejecución de proyectos para la urbanización y venta de lotes con serv
 
 XIV. Las demás acciones que las leyes y reglamentos señalen.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 43.
 
-Las Dependencias y Entidades Estatales o municipales en su caso, que realicen acciones de vivienda deberán dar publicidad a los listados de beneficiarios de las acciones que realicen, una vez realizado el proceso de selección correspondiente, a través de los medios y en los lugares que se consideren con mayor posibilidad de difusión en la localidad de que se trate.
+Las Dependencias y Entidades Estatales o municipales en su caso, que realicen acciones de suelo y vivienda deberán dar publicidad a los listados de beneficiarios de las acciones que realicen, una vez realizado el proceso de selección correspondiente, a través de los medios y en los lugares que se consideren con mayor posibilidad de difusión en la localidad de que se trate.
 
 ### CAPÍTULO II. DEL CRÉDITO Y DE LOS BENEFICIARIOS
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 44.
 
-El sector público, con la participación que corresponda de los Sectores Social y Privado, diseñará, coordinará, concertará y fomentará esquemas para que el crédito destinado a los distintos tipos, modalidades y necesidades de vivienda sea accesible a toda la población, de conformidad con las previsiones de esta ley y demás disposiciones aplicables.
+El sector público, con la participación que corresponda de los Sectores Social y Privado, diseñará, coordinará, concertará y fomentará esquemas para que el crédito destinado a los distintos tipos, modalidades y necesidades de suelo y vivienda sea accesible a toda la población, de conformidad con las previsiones de esta ley y demás disposiciones aplicables.
 
 ###### Artículo 45.
 
@@ -749,9 +891,11 @@ Por concepto de servicio de amortizaciones e intereses, ningún crédito de vivi
 
 Si por efecto de la situación económica del país o por la evolución de los ingresos de las personas el pago del crédito llegara a representar más del treinta por ciento de los ingresos nominales mensuales del beneficiario, el deudor tendrá derecho a acogerse a las soluciones que el INFOVIR o su similar en el ámbito municipal establezcan, con el objeto de no superar esta proporción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 47.
 
-Los beneficiarios de créditos de vivienda social a cargo del Gobierno del Estado o los Municipios, deben cumplir los siguientes requisitos:
+Los beneficiarios de créditos de suelo o vivienda social a cargo del Gobierno del Estado o los Municipios, deben cumplir los siguientes requisitos:
 
 I. Contar con un (sic) residencia mínima de un año;
 
@@ -759,31 +903,45 @@ II. No ser propietario de otra vivienda;
 
 En caso de ser propietarios de vivienda sólo podrán solicitar crédito para las acciones destinadas a la rehabilitación, la ampliación y/o mejoramiento;
 
-III. Presentar escrito bajo protesta de decir verdad, en el que manifiesten que habitarán la vivienda, sujetándose a las sanciones correspondientes que en su caso determine la Secretaría o el INFOVIR por incumplimiento;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-IV. Entregar la documentación que respalde sus ingresos y otorgar por escrito autorización alINFOVIR (sic) para la respectiva verificación de la información que proporcionen; y
+III. Presentar escrito bajo protesta de decir verdad, en el que manifiesten que habitarán la vivienda, sujetándose a las sanciones correspondientes que en su caso determine la Secretaría o el Instituto por incumplimiento;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+IV. Entregar la documentación que respalde sus ingresos y otorgar por escrito autorización al Instituto para la respectiva verificación de la información que proporcionen; y
 
 V. Las demás disposiciones aplicables.
 
 Cuando se trate de la asignación de lotes por concepto de regularización de asentamientos humanos, ningún beneficiario podrá ser acreedor a más de un lote para su vivienda.
 
-En la determinación de sus ingresos, corresponde al beneficiario entregar la documentación que respalde su dicho, quien además está obligado a permitir por parte de las autoridades de la Secretaría o del INFOVIR, la verificación de la información que proporcione.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
-En el caso de la población informal la determinación de sus ingresos se ajustará a lo que establezcan las reglas de operación del INFOVIR.
+En la determinación de sus ingresos, corresponde al beneficiario entregar la documentación que respalde su dicho, quien además está obligado a permitir por parte de las autoridades de la Secretaría o del Instituto la verificación de la información que proporcione.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
+En el caso de la población informal la determinación de sus ingresos se ajustará a lo que establezcan las reglas de operación del Instituto.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 48.
 
-El INFOVIR, es responsable del otorgamiento crediticio, subsidio o a fondo perdido para la población de bajos ingresos o en situación de pobreza, riesgo o vulnerabilidad, los que serán considerados como sujetos de subsidio o de ayuda de beneficio social.
+El Instituto es responsable del otorgamiento crediticio, subsidio o a fondo perdido para la población de bajos ingresos o en situación de pobreza, riesgo o vulnerabilidad, los que serán considerados como sujetos de subsidio o de ayuda de beneficio social.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 49.
 
-El INFOVIR informará de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de materiales dirigidos a los promotores y productores sociales y privados, principalmente sobre sus Programas y Reglas de Operación De manera particular elaborará y difundirá material informativo para la población acreditada o solicitante de algún crédito de vivienda.
+El Instituto informará de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de materiales dirigidos a los promotores y productores sociales y privados, principalmente sobre sus Programas y Reglas de Operación. De manera particular elaborará y difundirá material informativo para la población acreditada o solicitante de algún crédito de vivienda.
 
 ### CAPÍTULO III. DEL AHORRO PARA LA VIVIENDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 50.
 
-Para otorgar el financiamiento destinado a los distintos tipos, modalidades y necesidades de vivienda, se fomentarán programas que incorporen el ahorro previo de los beneficiarios, aprovechando a las instituciones de crédito y a las instancias de captación de ahorro popular, en particular las entidades de ahorro y crédito popular autorizadas por las leyes aplicables en la materia.
+Para otorgar el financiamiento destinado a los distintos tipos, modalidades y necesidades de suelo y vivienda, se fomentarán programas que incorporen el ahorro previo de los beneficiarios, aprovechando a las instituciones de crédito y a las instancias de captación de ahorro popular, en particular las entidades de ahorro y crédito popular autorizadas por las leyes aplicables en la materia.
 
 Para tales efectos, el Ejecutivo del Estado concertará con las instituciones del sector financiero, facilidades y estímulos para implementar los programas de ahorro, enganches y financiamiento para la adquisición de vivienda
 
@@ -799,7 +957,9 @@ El Ejecutivo del Estado y los Municipios, concederán a través de sus dependenc
 
 Los subsidios que en materia de vivienda y de suelo otorgue el Gobierno del Estado o los Municipios se destinarán exclusivamente a las personas en situación de pobreza, la cual se definirá, identificará y medirá de acuerdo a lo previsto en la Ley para el Desarrollo Social del Estado de Quintana Roo.
 
-La Secretaría de Planeación y Desarrollo Regional deberá elaborar anualmente, una estimación fundamentada que determine el monto de recursos requeridos para cumplimentar la política de subsidios.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
+La Secretaría de Finanzas y Planeación deberá elaborar anualmente, una estimación fundamentada que determine el monto de recursos requeridos para cumplimentar la política de subsidios.
 
 Para la estimación de los recursos a que se refiere el párrafo anterior, se deberá considerar el rezago habitacional, las necesidades de vivienda y la condición de pobreza de las viviendas, así como el grado de marginación de la comunidad rural o urbana, entre otros.
 
@@ -809,21 +969,29 @@ Dicha estimación se presentará conjuntamente con el Proyecto de Presupuesto de
 
 Para garantizar la aplicación de los principios de equidad e inclusión social en el acceso a los subsidios, el Gobierno del Estado elaborará los criterios para el otorgamiento de subsidios.
 
-## TÍTULO QUINTO. DEL REGISTRO DE DEMANDANTES Y BENEFICIARIOS DE VIVIENDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
+
+## TÍTULO QUINTO. DEL REGISTRO DE DEMANDANTES Y BENEFICIARIOS DE SUELO Y VIVIENDA
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 54.
 
-Se crea el Registro Estatal de Demandantes y Beneficiarios de Vivienda, el cual estará a cargo del INFOVIR, con el objeto de buscar el acceso del mayor número de personas a la vivienda, mediante mecanismos que beneficien preferentemente a la población en situación de pobreza y que carezcan de ella, abatiendo el verdadero rezago habitacional.
+Se crea el Registro Estatal de Demandantes y Beneficiarios de Suelo y Vivienda, el cual estará a cargo del Instituto con el objeto de buscar el acceso del mayor número de personas a la vivienda, mediante mecanismos que beneficien preferentemente a la población en situación de pobreza y que carezcan de ella, abatiendo el verdadero rezago habitacional.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 55.
 
-El Registro de Demandantes yBeneficiarios (sic) de Vivienda controlará que ninguna persona o familia pueda tener acceso a más de un crédito otorgado por alguna instancia de los Gobiernos Federal, EstataloMunicipal (sic) para la adquisición de una vivienda, evitando la especulación en el desarrollo y comercialización habitacional, optimizando los recursos del Gobierno para la generación del sector vivienda.
+El Registro de Demandantes y Beneficiarios de Suelo y Vivienda controlará que ninguna persona o familia pueda tener acceso a más de un crédito otorgado por alguna instancia de los Gobiernos Federal, Estatal o Municipal para la adquisición de una vivienda, evitando la especulación en el desarrollo y comercialización habitacional, optimizando los recursos del Gobierno para la generación del sector vivienda.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 56.
 
-Los interesados en inscribirse en el Registro de demandantes, deben cumplir los requisitos señalados en el artículo 47 y presentar su documentación ante las oficinas del INFOVIR
+Los interesados en inscribirse en el Registro de Demandantes y Beneficiarios de Suelo y Vivienda, deben cumplir los requisitos señalados en el artículo 47 y presentar su documentación ante las oficinas del Instituto.
 
 ###### Artículo 57.
 
@@ -845,11 +1013,13 @@ Dichas normas propiciarán la participación de la población beneficiada en la 
 
 El Estado y los Municipios celebrarán acuerdos y convenios con los sectores sociales y privado, que tengan por objeto el mejoramiento de las condiciones de convivencia, impulsando la dotación y la administración de la infraestructura, los equipamientos y los servicios urbanos necesarios.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 59 Bis.
 
-· Para garantizar la inclusión y el derecho de las personas con discapacidad o movilidad reducida a la vivienda social, los promotores y desarrolladores de complejos habitacionales deberán edificar el 1% de las viviendas contempladas en el proyecto del conjunto habitacional, para ser destinadas a estas personas, atendiendo en todo momento en su diseño y construcción, a los criterios y especificaciones que marque el Código de Edificación de Vivienda del Estado, la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad y demás normas aplicables.
+Para garantizar la inclusión y el derecho de las personas con discapacidad o movilidad reducida a la vivienda social, los promotores y desarrolladores de complejos habitacionales deberán edificar el 1% de las viviendas contempladas en el proyecto del conjunto habitacional, para ser destinadas a estas personas, atendiendo en todo momento en su diseño y construcción, a los criterios y especificaciones de la Ley para el Desarrollo y la Inclusión de las Personas con discapacidad del Estado de Quintana Roo y demás normas aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 Las viviendas para la personas con discapacidad o movilidad reducida, deberán estar ubicadas dentro del conjunto habitacional en áreas de fácil acceso de los servicios públicos y de servicios.
 
@@ -859,17 +1029,23 @@ El Ejecutivo del Estado fomentará la participación de los sectores público, s
 
 Asimismo, promoverá que las tecnologías sean acordes con los requerimientos sociales, regionales y a las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 61.
 
-El INFOVIR promoverá el uso de materiales y productos que contribuyan a evitar afluentes y emisiones que deterioren el medio ambiente, así como aquellos que propicien ahorro de energía, uso eficiente de agua, un ambiente más confortable y saludable dentro de la vivienda de acuerdo con las características climáticas de la región.
+El Instituto promoverá el uso de materiales y productos que contribuyan a evitar afluentes y emisiones que deterioren el medio ambiente, así como aquellos que propicien ahorro de energía, uso eficiente de agua, un ambiente más confortable y saludable dentro de la vivienda de acuerdo con las características climáticas de la región.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 62.
 
-El INFOVIRpromoverá (sic) la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
+El Instituto promoverá la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
 
 I. La atención a Programas de Vivienda emergente para atención a damnificados, derivados de desastres;
 
-II. Apoyar Programas de Producción Social de Vivienda, particularmente aquéllos de autoproducción, autoconstrucción y mejoramiento de vivienda para personas en situación de pobreza; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+II. Apoyar Programas de Producción Social de Vivienda, particularmente aquéllos de urbanización progresiva, autoproducción, autoconstrucción y mejoramiento de vivienda para personas en situación de pobreza; y
 
 III. La conformación de paquetes de materiales para las personas en condiciones de pobreza.
 
@@ -879,49 +1055,35 @@ Asimismo, promoverá la celebración de convenios para el otorgamiento de asesor
 
 ###### Artículo 63.
 
-El Ejecutivo del Estado por conducto de la Secretaría, con base a las disposiciones legales, Normas Oficiales Mexicanas y del Modelo Normativo que para tal efecto formule la Comisión Nacional de Vivienda, desarrollará el Código de Edificación de Vivienda del Estado de Quintana Roo, cuyos requisitos técnicos garanticen la seguridad estructural, la habitabilidad, la eficiencia y sustentabilidad de la vivienda.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2018)
 
 ###### Artículo 64.
 
-El Código de Edificación de Vivienda del Estado, será de carácter obligatorio para todas las Dependencias y Entidades Estatales o Municipales, así como los sectores social y privado que lleven a cabo o financien acciones de vivienda, su objeto es homologar y establecer estándares, respecto del diseño arquitectónico de la vivienda y los prototipos constructivos que deberán considerar los espacios interiores y exteriores; la eficiencia de los sistemas funcionales, constructivos y de servicio; los recursos naturales y el ahorro de energía y las modalidades habitacionales.
-
-Asimismo deberá considerar las condiciones y características de habitabilidad y seguridad para los diferentes tipos de vivienda y de sus etapas de construcción.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2018)
 
 ###### Artículo 65.
 
-Para efectos del artículo anterior, el Código de Edificación de Vivienda, deberá considerar como mínimo el desarrollo y especificaciones de los siguientes estándares:
-
-I. Espacios habitables y de higiene suficientes en función al número de usuarios;
-
-II. Adecuación de espacios sociales y privados, cuando el destinatario presente alguna discapacidad;
-
-III. Suministro de los servicios de agua potable, energía eléctrica y el desalojo de aguas residuales;
-
-IV. Seguridad estructural;
-
-V. Criterios de sustentabilidad y eficiencias energética (sic) de acuerdo al clima preponderante en la región;
-
-VI. Sistemas de edificación y tecnologías integradas a las características de cada zona o localidad considerando el uso de materiales regionales que permitan impulsar la economía y por otra parte respetar el patrón existente de arquitectura vernácula;
-
-VII. La calidad y tipo de materiales, productos, componentes, elementos y procedimientos de construcción de las viviendas acordes a las exigencias de la demanda;
-
-VIII. Criterios que eviten riesgos y contingencias, atendiendo el atlas de riesgo de la Ley de Protección Civil; y
-
-IX. Las demás que permitan la sustentabilidad, calidad, y seguridad de la vivienda.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2018)
 
 ### CAPÍTULO III. CONTROL DE LA CALIDAD
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 66.
 
-El Control de la Calidad de la Vivienda, se llevará a cabo a través del conjunto de actos y procedimientos por medio de los cuales las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, garantizarán que toda acción de vivienda se lleve a cabo de acuerdo con lo dispuesto por esta Ley, el Código Estatal de Edificación de Vivienda, los Programas y Reglamentos en la materia, y demás ordenamientos jurídicos y administrativos aplicables.
+El Control de la Calidad de la Vivienda, se llevará a cabo a través del conjunto de actos y procedimientos por medio de los cuales las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, garantizarán que toda acción de suelo y vivienda se lleve a cabo de acuerdo con lo dispuesto por esta ley, así como de los Programas y Reglamentos en la materia, y demás ordenamientos jurídicos y administrativos aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 67.
 
-El Gobierno del Estado, a través de la Secretaría promoverá que las autoridades Municipales expidan y mantengan de forma permanente, actualizadas las normas técnicas contenidas en sus reglamentos de construcción, en congruencia con el Código de Edificación de Vivienda del Estado, para efecto de observar la debida aplicación y cumplimiento de cada etapa del proceso de producción de vivienda y facilite medir la calidad y seguridad de las construcciones.
+El Gobierno del Estado, a través de la Secretaría promoverá que las autoridades Municipales expidan y mantengan de forma permanente, actualizadas las normas técnicas contenidas en sus reglamentos de construcción, para efecto de observar la debida aplicación y cumplimiento de cada etapa del proceso de producción de vivienda y facilite medir la calidad y seguridad de las construcciones.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 68.
 
-Los Municipios previamente al otorgamiento de la licencia de construcción deberán revisar y verificar que el proyecto de vivienda según sea su tipo o desarrollo cumpla con las disposiciones técnicas y normativas establecidas en esta Ley, el Código Estatal de Edificación de la Vivienda, sus propios reglamentos y demás disposiciones aplicables con el fin de garantizar la sustentabilidad, calidad y seguridad de la vivienda.
+Los Municipios previamente al otorgamiento de la licencia de construcción deberán revisar y verificar que el proyecto de vivienda según sea su tipo o desarrollo cumpla con las disposiciones técnicas y normativas establecidas en esta ley, sus propios reglamentos y demás disposiciones aplicables con el fin de garantizar la sustentabilidad, calidad y seguridad de la vivienda.
 
 ###### Artículo 69.
 
@@ -935,23 +1097,29 @@ El Ejecutivo del Estado y los Municipios en el ámbito de sus respectivas compet
 
 Se declaran de orden público e interés social la adquisición de tierra para la creación de reservas territoriales, para la realización de programas de vivienda, su equipamiento e infraestructura urbana.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 71.
 
-Los apoyos e instrumentos que el Gobierno del Estado y los Municipios establezcan en materia de suelo y reservas territoriales para la vivienda, en coordinación con el Consejo, además de lo previsto en la Ley del Patrimonio del Estado y de la Ley de Asentamientos Humanos del Estado se dirigirán preferentemente a:
+Los apoyos e instrumentos que el Gobierno del Estado y los Municipios establezcan en materia de suelo y reservas territoriales para la vivienda, en coordinación con el Consejo, además de lo previsto en la Ley del Patrimonio del Estado y de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado se dirigirán preferentemente a:
 
-l. Participar en el mercado inmobiliario con el fin de generar una oferta pública de suelo para el desarrollo de acciones de vivienda; y
+I. Participar en el mercado inmobiliario con el fin de generar una oferta pública de suelo para el desarrollo de acciones de vivienda; y
 
 II. Fomentar esquemas y programas que contemplen recursos provenientes de crédito, ahorro y subsidio, para la adquisición de suelo.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 72.
 
-El Ejecutivo del Estado a través de la Secretaría, del INFOVIR, de cualquier otra Dependencia o Entidad en el ámbito de su competencia, instrumentará acciones, programas y estímulos que induzcan la colaboración y coordinación con el Gobierno Federal y los Municipios, así como la participación de propietarios y desarrolladores, para generar suelo con servicios, preferentemente para beneficio de la población de bajos ingresos, en situación de pobreza, riesgo o vulnerabilidad y de los productores sociales de vivienda, para lo cual celebrará los convenios y acuerdos necesarios.
+El Ejecutivo del Estado a través de la Secretaría, del Instituto de cualquier otra dependencia o entidad en el ámbito de su competencia, instrumentará acciones, programas y estímulos que induzcan la colaboración y coordinación con el Gobierno Federal y los Municipios, así como la participación de propietarios y desarrolladores, para generar suelo con servicios, preferentemente para beneficio de la población de bajos ingresos, en situación de pobreza, riesgo o vulnerabilidad y de los productores sociales de vivienda, para lo cual celebrará los convenios y acuerdos necesarios.
 
 ### CAPÍTULO II. DE LA ENAJENACIÓN DE PREDIOS DESTINADOS A PROGRAMAS DE VIVIENDA SOCIAL Y AUTOCONSTRUCCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 73.
 
-La enajenación o transmisión de predios para destinarse a Programas de Vivienda social y Autoconstrucción, deberán contar con la autorización técnica del Consejo, tomando en cuenta las condiciones siguientes:
+La enajenación o transmisión de predios para destinarse a Programas de Vivienda social y Autoconstrucción, deberán contar con la autorización de la Secretaría, tomando en cuenta las condiciones siguientes:
 
 I. La enajenación esté prevista en el correspondiente Programa Operativo Anual autorizado;
 
@@ -959,11 +1127,13 @@ II. Se evalúe la disponibilidad de infraestructura, equipamiento y servicios p�
 
 III. Se verifique la existencia del programa de financiamiento o la partida presupuestal respectivos.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 74.
 
-El IPAE fijará los mecanismos de información, calificación y clasificación de los bienes del dominio privado del Estado, con objeto de normar técnica y socialmente su aprovechamiento.
+La AGEPRO, en coordinación con la Secretaría fijará los mecanismos de información, calificación y clasificación de los bienes del dominio privado del Estado, susceptibles de aprovechamiento social para programas y acciones de vivienda.
 
-Con base en lo anterior, la Secretaría a través del INFOVIR en coordinación con el IPAE, elaborará un catálogo de terrenos aptos para destinar a Programas de Vivienda considerando las condiciones básicas de equipamiento urbano y factibilidad de introducción de los servicios de agua potable, drenaje sanitario, drenaje pluvial y electricidad, con el menor costo posible.
+Con base en lo anterior, la Secretaría en coordinación con el Instituto y la AGEPRO, elaborará un catálogo de terrenos aptos para destinar a Programas de Suelo y Vivienda considerando las condiciones básicas de equipamiento urbano y factibilidad de introducción de los servicios de agua potable, drenaje sanitario, drenaje pluvial y electricidad, con el menor costo posible.
 
 ###### Artículo 75.
 
@@ -973,29 +1143,37 @@ En los acuerdos o decretos mediante los que se autoricen las transmisiones de bi
 
 Los adquirientes de bienes inmuebles provenientes del dominio privado del Estado o de los Municipios a que se refieren los artículos anteriores, estarán obligados a transmitirlos a su vez, en los términos y condiciones señalados en los Programas que se aprueben, debiendo cumplir además, con los requisitos siguientes:
 
-l. Los beneficiarios y la forma de pago se determinarán conforme a su nivel socioeconómico;
+I. Los beneficiarios y la forma de pago se determinarán conforme a su nivel socioeconómico;
 
 II. Los propietarios de otro bien inmueble no podrán ser beneficiarios; y
 
-III. Los demás que señale la Secretaría o el INFOVIR en las reglas generales que a efecto expida.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+III. Los demás que señale la Secretaría o el Instituto en las reglas generales que a efecto expida.
 
 ###### Artículo 77.
 
 Los contratos que se otorguen en las enajenaciones de lotes de urbanización progresiva provenientes de bienes del dominio privado del Estado o de los Municipios, que realicen los Organismos que atiendan el desarrollo social y urbano del Estado y los problemas de precarismo habitacional, serán los instrumentos que acrediten la titularidad de derechos de propiedad y podrán ser inscritos en el Registro Público de la Propiedad.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 78.
 
-La tierra propiedad del INFOVIR que enajene a los organismos productores sociales de vivienda y de autoconstrucción, para el desarrollo de los mismos, y que una vez cumplidos los plazos, o presentarse acciones que deriven en su incumplimiento, el INFOVIR aplicara el recurso de reversión de los terrenos enajenados, pasando nuevamente a su propiedad.
+La tierra propiedad del Instituto que enajene a los organismos productores sociales de vivienda y de autoconstrucción, para el desarrollo de los mismos, y que una vez cumplidos los plazos, o presentarse acciones que deriven en su incumplimiento, el Instituto aplicará el recurso de reversión de los terrenos enajenados, pasando nuevamente a su propiedad.
 
-## TÍTULO OCTAVO. DEL SISTEMA ESTATAL DE INFORMACIÓN E INDICADORES DE VIVIENDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
+
+## TÍTULO OCTAVO. SISTEMA ESTATAL DE INFORMACIÓN DEL ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA
 
 ### CAPÍTULO UNICO
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 79.
 
-Se crea el Sistema Estatal de Información e Indicadores de Vivienda, que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de las políticas estatales de vivienda.
+Se crea el Sistema Estatal de Información del Ordenamiento Territorial, Desarrollo Urbano y Vivienda se deberá integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de las políticas estatales en materia de suelo y vivienda a que alude este ordenamiento.
 
-El Ejecutivo del Estado por conducto del INFOVIR coordinará, integrará y administrará el Sistema Estatal de Información e Indicadores de Vivienda, el cual se sujetará, en lo conducente, a las disposiciones previstas en la Ley de Vivienda y en la Ley del Sistema Nacional de Información Estadística y Geográfica, y se conformará con la información que proporcionen las Dependencias y Entidades de la Administración Pública Estatal y Municipal, y del sector privado en aspectos vinculados con la vivienda y el suelo para vivienda, así como la que permita identificar la evolución y crecimiento del mercado, con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
+El Ejecutivo del Estado por conducto de la Secretaría coordinará, integrará y administrará el Sistema Estatal de Información del Ordenamiento Territorial, Desarrollo Urbano y Vivienda, el cual se sujetará, en lo conducente, a las disposiciones previstas en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado, la Ley de Vivienda y en la Ley del Sistema Nacional de Información Estadística y Geográfica, y se conformará con la información que proporcionen las dependencias y entidades de la Administración Pública Estatal y Municipal, y del sector privado en aspectos vinculados con el suelo y la vivienda, así como la que permita identificar la evolución y crecimiento del mercado, con el objeto de contar con información suficiente para evaluar los efectos de la política en la materia.
 
 ###### Artículo 80.
 
@@ -1003,9 +1181,11 @@ El Sistema contendrá los elementos que permitan mantener actualizado el inventa
 
 Entre otros indicadores de evaluación, deberán considerarse los siguientes: metas por cobertura territorial; beneficiarios por nivel de ingreso y modalidades de programas, ya sea que se trate de vivienda nueva, sustitución de vivienda, en arrendamiento o del mejoramiento del parque habitacional; evaluación de los productos habitacionales en términos de su ubicación en los centros de población con respecto a las fuentes de empleo, habitabilidad de la vivienda y adaptabilidad a las condiciones culturales, sociales y ambientales de las regiones; y, evaluación de los precios de suelo, de las medidas de control para evitar su especulación y sus efectos en los programas habitacionales.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 81.
 
-El INFOVIR diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de programas, acciones y financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional, para informar de los procedimientos, tiempos de respuesta, costos, requisitos y estímulos fiscales necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de material informativo dirigido a los promotores y productores sociales y privados, principalmente sobre sus programas y reglas de operación. De igual manera, elaborará y difundirá material informativo para la población acreditada o solicitante de algún crédito de vivienda.
+La Secretaría diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de programas, acciones y financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional, para informar de los procedimientos, tiempos de respuesta, costos, requisitos y estímulos fiscales necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de material informativo dirigido a los promotores y productores sociales y privados, principalmente sobre sus programas y reglas de operación. De igual manera, elaborará y difundirá material informativo para la población acreditada o solicitante de algún crédito de vivienda.
 
 ## TÍTULO NOVENO. DE LA PRODUCCIÓN SOCIAL DE VIVIENDA
 
@@ -1013,7 +1193,7 @@ El INFOVIR diseñará y promoverá mecanismos e instrumentos de acceso a la info
 
 ###### Artículo 82.
 
-La Producción Social de Vivienda es aquella que se realiza bajo el control de autoproductores y autoconstructores que operan sin fines de lucro y que se orienta prioritariamente a atender las necesidades habitacionales de la población en situación de pobreza, incluye aquella que se realiza por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda por sobre la definición mercantil, mezclando recursos, procedimientos constructivos y tecnologías con base en sus propias necesidades y su capacidad de gestión y toma de decisiones; (sic)
+La Producción Social de Vivienda es aquella que se realiza bajo el control de autoproductores y autoconstructores que operan sin fines de lucro y que se orienta prioritariamente a atender las necesidades habitacionales de la población en situación de pobreza, incluye aquella que se realiza por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda por sobre la definición mercantil, mezclando recursos, procedimientos constructivos y tecnologías con base en sus propias necesidades y su capacidad de gestión y toma de decisiones;
 
 ###### Artículo 83.
 
@@ -1021,9 +1201,11 @@ El Ejecutivo del Estado facilitará y promoverá el desarrollo y la consolidaci�
 
 Las acciones y recursos que las dependencias y entidades de la administración pública estatal programen o destinen para el fomento y estímulo a la producción social de vivienda, deberán guardar proporcionalidad y equidad entre las distintas zonas del Estado, atendiendo a los distintos tipos, modalidades y necesidades de vivienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 84.
 
-El INFOVIR promoverá la asistencia técnica, especialmente la destinada a los productores sociales de vivienda, la cual se podrá proporcionar a través de programas y actividades que realicen:
+El Instituto promoverá la asistencia técnica, especialmente la destinada a los productores sociales de vivienda, la cual se podrá proporcionar a través de programas y actividades que realicen:
 
 a) Las Organizaciones Sociales que cuenten o creen áreas especializadas de asistencia y capacitación técnica;
 
@@ -1055,7 +1237,9 @@ V. Atender las distintas formas legales de propiedad y posesión de la tierra, a
 
 Tratándose de las comunidades rurales e indígenas deberán ser reconocidas y atendidas sus características culturales, respetando sus formas de asentamiento territorial y favoreciendo los sistemas constructivos acordes con el entorno bioclimático de las regiones, así como sus modos de producción de vivienda.
 
-Para efectos del párrafo anterior, el INFOVIR, en coordinación con los Ayuntamientos, deberá establecer y apoyar programas colectivos de autoconstrucción cuando se trate de vivienda rural e indígena, en que los integrantes de la propia comunidad participen en los trabajos respectivos de manera conjunta, de tal suerte que, además de abatir los costos, se fomente y respete la solidaridad y el espíritu comunitario, y se aprovechen los materiales naturales disponibles.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
+Para efectos del párrafo anterior, el Instituto en coordinación con los Ayuntamientos, deberá establecer y apoyar programas colectivos de autoconstrucción cuando se trate de vivienda rural e indígena, en que los integrantes de la propia comunidad participen en los trabajos respectivos de manera conjunta, de tal suerte que, además de abatir los costos, se fomente y respete la solidaridad y el espíritu comunitario, y se aprovechen los materiales naturales disponibles.
 
 ###### Artículo 87.
 
@@ -1067,9 +1251,11 @@ El Ejecutivo del Estado, fomentará, en los programas y proyectos de producción
 
 Las Autoridades y los Organismos responsables de la vivienda promoverán la participación civil en los procesos de planeación, programación y evaluación habitacionales.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 89.
 
-El INFOVIRcelebrará (sic) convenios con Productores Sociales y las Universidades e Instituciones de Educación Superior, dirigidas a la investigación, asesoría y apoyo técnico. Cuando se trate de algún convenio de prestación de servicios a título oneroso, se sujetará a las disposiciones que dicte su Consejo Directivo.
+El Instituto celebrará convenios con Productores Sociales y las Universidades e Instituciones de Educación Superior, dirigidas a la investigación, asesoría y apoyo técnico. Cuando se trate de algún convenio de prestación de servicios a título oneroso, se sujetará a las disposiciones que dicte su Consejo Directivo.
 
 ###### Artículo 90.
 
@@ -1079,13 +1265,17 @@ Las Organizaciones de la Sociedad Civil que tengan por objeto la adquisición, m
 
 Los acuerdos y convenios que se celebren con los sectores social y privado sin fines de lucro deberán tener por objeto:
 
-I. Buscar el acceso del mayor número de personas a la vivienda, estableciendo mecanismos que beneficien preferentemente a la población en situación de pobreza;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+I. Buscar el acceso del mayor número de personas al suelo y vivienda, estableciendo mecanismos que beneficien preferentemente a la población en situación de pobreza;
 
 II. Promover la creación de fondos e instrumentos para la generación oportuna y competitiva de vivienda y suelo;
 
 III. Promover la seguridad jurídica de la vivienda y del suelo;
 
-IV. Financiar y construir proyectos de vivienda, así como de infraestructura y equipamiento destinados a la misma;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+
+IV. Financiar y construir proyectos de suelo y vivienda, así como de infraestructura y equipamiento relacionados;
 
 V. Desarrollar, aplicar y evaluar normas, tecnologías, técnicas y procesos constructivos que reduzcan los costos de construcción y operación, faciliten la autoproducción o autoconstrucción de vivienda, eleven la calidad y la eficiencia energética de la misma y propicien la preservación y el cuidado del ambiente y los recursos naturales;
 
@@ -1103,9 +1293,11 @@ X. Las demás acciones que acuerden las partes para el cumplimiento de esta Ley.
 
 ### CAPÍTULO I. DE LA DENUNCIA POPULAR
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 92.
 
-Toda persona podrá denunciar ante el INFOVIR o ante otras autoridades competentes todo hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con la vivienda.
+Toda persona podrá denunciar ante la Secretaría, el Instituto o ante otras autoridades competentes todo hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con la vivienda.
 
 ###### Artículo 93.
 
@@ -1115,7 +1307,7 @@ I. El nombre o razón social, domicilio y demás datos que permitan la identific
 
 II. Los actos, hechos u omisiones denunciados;
 
-III. Los datos que permitan identificar a la presunta autoridad infractora, y (sic)
+III. Los datos que permitan identificar a la presunta autoridad infractora, y
 
 IV. Las pruebas que en su caso ofrezca el denunciante;
 
@@ -1133,15 +1325,17 @@ Toda persona tendrá derecho al acceso a la información pública sobre vivienda
 
 ###### Artículo 95.
 
-La participación de los promotores privados y sociales en los procesos de vivienda del Estado, estará sujeta a la coordinación y supervisión del INFOVIR que dictará las normas para la ejecución de obras e inversiones, los requisitos y tramites, el registro de los promotores y la entrega de firmas y garantías, dependiendo del alcance de la obra, en observancia de las disposiciones vigentes.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2018)
 
 ###### Artículo 96.
 
-Los promotores privados y sociales deberán estar acreditados y registrados, ante el INFOVIR, conforme a las disposiciones que éste emita, lo que permitirá el desarrollo autónomo de los promotores así como garantizar la transparencia en el manejo y aplicación de los recursos.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2018)
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 97.
 
-El INFOVIR, no celebrará contratos con promotores, desarrolladores y productores privados o sociales de vivienda que hayan incumplido en todo o en parte las obligaciones contractuales con los beneficiarios de los programas que maneja el Instituto, y no podrán participar en los programas y acciones requeridos en la presente Ley.
+El Instituto no celebrará contratos con promotores, desarrolladores y productores privados o sociales de vivienda que hayan incumplido en todo o en parte las obligaciones contractuales con los beneficiarios de los programas que maneja el Instituto, y no podrán participar en los programas y acciones referidos en la presente ley.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -1201,7 +1395,7 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Los recursos humanos, materiales y financieros, así como los expedientes, valores y demás, asignados o pertenecientes al Comité de Planeación para el Desarrollo del Estado de Quintana Roo, serán transferidos a la Secretaría de Planeación y finanzas, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
 
-Tercero. La Secretaria de Planeación y finanzas contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la integración del Comité así como la elaboración y expedición de sus Reglas de Operación.
+Tercero. La Secretaría de Planeación y finanzas contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la integración del Comité así como la elaboración y expedición de sus Reglas de Operación.
 
 Cuarto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad del Consejo Estatal de Población, serán transferidos a la Secretaría de Gobierno, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
 
@@ -1262,3 +1456,33 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 194 POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; SE EXPIDE LA LEY DE ACCIONES URBANÍSTICAS DEL ESTADO DE QUINTANA ROO; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO; SE REFORMAN LOS ARTÍCULOS 16, 24, 34 PÁRRAFO SEGUNDO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 184 TER, TODOS DE LA LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN DEL AMBIENTE DEL ESTADO DE QUINTANA ROO, SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE PROPIEDAD DE CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO; Y SE REFORMA EL ARTÍCULO SEGUNDO DE LA LEY DE EXPROPIACIÓN DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Asentamientos Humanos del Estado de Quintana Roo, publicada mediante Decreto Número 107 de la XIII Legislatura del Estado, en el Periódico Oficial en fecha 18 de abril de 2012.
+
+TERCERO. Se abroga la Ley de Fraccionamientos del Estado de Quintana Roo, publicada mediante Decreto Número 125 de la VI Legislatura del Estado, en el Periódico Oficial del Estado en fecha 31 de diciembre del año 1992.
+
+CUARTO. En tanto el Titular del Poder Ejecutivo del Estado y los municipios del Estado no expidan las disposiciones administrativas a que se refiere este decreto, seguirán aplicándose las disposiciones reglamentarias vigentes.
+
+QUINTO. El Titular del Poder Ejecutivo del Estado expedirá en un plazo no mayor a ciento ochenta días, el reglamento de esta ley, que será aplicable en los temas de competencia estatal, y aplicable en el ámbito estatal, hasta en tanto los ayuntamientos no expidan sus respectivos ordenamientos municipales en la materia.
+
+SEXTO. Los programas de desarrollo urbano y los ordenamientos ecológicos del territorio, así como las autorizaciones de acciones urbanísticas otorgadas con anterioridad a la entrada en vigor de la presente Ley seguirán vigentes en los términos que fueron aprobados o concedidas. Las que se encuentren en trámite, se deberán ajustar a sus nuevas disposiciones. Para tal efecto, los interesados en alguna autorización, refrendo o renovación en materia de acciones urbanísticas podrán optar por continuar su procedimiento ajustando sus proyectos a la normatividad vigente, o bien, presentar una nueva solicitud, en cuyo caso no pagarán nuevamente los derechos correspondientes.
+
+SÉPTIMO. El Titular del Poder Ejecutivo del Estado, en el plazo de un año contado a partir de la entrada en vigor de este Decreto, deberá formular y promover la aprobación de la Estrategia Estatal de Ordenamiento Territorial a que se refiere la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+
+OCTAVO. El Ejecutivo del Estado y los Municipios contarán con un plazo de dos años contados a partir de la entrada en vigor de este Decreto, para formular, consultar y promover la aprobación de los Programas Estatal y Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, conforme a sus competencias.
+
+NOVENO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, se deberán formular o actualizar los programas de desarrollo urbano de los centros de población mayores a cien mil habitantes.
+
+En el mismo plazo, los municipios deberán actualizar sus reglamentos internos, así como los manuales de organización, operación y funcionamiento en congruencia con estas nuevas disposiciones.
+
+DÉCIMO. Durante el Ejercicio Fiscal de 2018, los derechos establecidos en la Ley de Hacienda del Estado de Quintana Roo, por concepto de Constancia de Compatibilidad Urbanística, serán aplicables a las Constancias de Compatibilidad Territorial y al Dictamen de Impacto Territorial, a que se refiere el Capítulo Cuarto del Título Quinto de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.
+
+UNDÉCIMO. Para el caso de inmuebles construidos con anterioridad a la vigencia de este Decreto, el régimen de propiedad en condominio podrá constituirse cumpliendo con lo establecido en el artículo 4° de la Ley de Propiedad en Condominio de Inmuebles del Estado y sus disposiciones reglamentarias aplicables.
+
+DUODÉCIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
