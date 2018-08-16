@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2018-05-28"
+last_updated: "2018-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1683,7 +1683,47 @@ I. Ingrese en una base de datos, sistema o red de computadoras para obtener, con
 
 II. Intercepte, interfiera, use, altere, dañe o destruya un soporte lógico o programa informático o la información contenida en el mismo o en la base, sistema o red.
 
-Al responsable de este delito se le impondrán de seis meses a dos años de prisión y multa hasta de trescientos días de salario. Si se cometiere con fines de lucro las penas se incrementarán en una mitad.
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2018)</small>
+
+Al responsable de este delito se le impondrán de dos a cinco años de prisión y multa de doscientas a seiscientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)</small>
+
+###### Artículo 181 Bis.
+
+Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática del estado, protegidos por algún mecanismo de seguridad, se le impondrán de dos a cinco años de prisión y multa de doscientas a seiscientas unidades de medida y actualización.
+
+Al que sin autorización conozca, copie o utilice información contenida en sistemas o equipos de informática del estado, protegidos por algún mecanismo de seguridad, se le impondrán de uno a tres años de prisión y multa de cien a trescientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)</small>
+
+###### Artículo 181 Ter.
+
+A quien sin autorización conozca, obtenga, copie o utilice información contenida en cualquier sistema, equipo o medio de almacenamiento informáticos de seguridad pública, protegido por algún medio de seguridad, se le impondrá pena de cuatro a diez años de prisión y multa de hasta quinientas a mil unidades de medida y actualización.
+
+Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, destitución e inhabilitación hasta por el mismo tiempo indicado en los párrafos anteriores para desempeñarse en otro empleo, puesto, cargo o comisión pública.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)</small>
+
+###### Artículo 181 Quater.
+
+Al que estando autorizado para acceder a sistemas y equipos de informática del estado, indebidamente modifique, destruya o provoque pérdida de información que contengan, se le impondrán de tres a siete años de prisión y multa de hasta quinientas unidades de medida y actualización.
+
+Al que estando autorizado para acceder a sistemas y equipos de informática del estado, indebidamente obtenga, copie o utilice información que contengan, se le impondrán de dos a cinco años de prisión y multa de doscientas a seiscientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)</small>
+
+###### Artículo 181 Quinquies.
+
+A quien estando autorizado para acceder a sistemas, equipos o medios de almacenamiento informáticos en materia de seguridad pública, indebidamente obtenga, copie o utilice información que contengan, se le impondrá pena de cinco a quince años de prisión y multa de seiscientas a mil unidades de medida y actualización.
+
+Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, hasta una mitad más de la pena impuesta, destitución e inhabilitación por un plazo igual al de la pena resultante para desempeñarse en otro empleo, puesto, cargo o comisión pública.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)</small>
+
+###### Artículo 181 Sexies.
+
+Las sanciones previstas en este capítulo se aumentarán hasta en una mitad cuando la información obtenida se utilice en provecho propio o ajeno; duplicándose cuando la conducta obstruya, entorpezca, obstaculice, limite o imposibilite la procuración o impartición de justicia.
 
 ## TÍTULO V. DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUAL
 
@@ -3401,24 +3441,6 @@ V. A sabiendas aplique fondos públicos a un fin distinto al que estaban destina
 
 VI. Realice inversiones, enajenaciones, adquisiciones o cualquier otro acto que produzca algún beneficio económico indebido, para sí o para otro, valiéndose de información que tenga en razón de su empleo, cargo o comisión.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
-
-###### Artículo 318.
-
-Se impondrán de tres a doce años de prisión y multa de doscientas hasta setecientas Unidades de Medidas y Actualización, al servidor público que:
-
-I. Por sí o por interpósita persona sustraiga, reproduzca, entregue, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se halle bajo su custodia, o a la cual tenga acceso o conocimiento, en virtud de su empleo, cargo o comisión;
-
-II. Indebidamente otorgue concesiones para la prestación de servicios públicos o de explotación, aprovechamiento o uso de bienes del Estado o de los municipios;
-
-III. Indebidamente otorgue permisos, licencias, autorizaciones, franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos, aportaciones o cuotas de seguridad social; en general sobre ingresos fiscales y sobre precios o tarifas de los bienes y servicios producidos o prestados en la administración pública estatal o municipal;
-
-IV. Indebidamente otorgue o realice obra pública o contrate adquisiciones, arrendamientos, enajenaciones de bienes o servicios, inversiones de fondos y valores o deuda, con recursos públicos;
-
-V. A sabiendas aplique fondos públicos a un fin distinto al que estaban destinados o hiciere con ellos una erogación ilegal; o
-
-VI. Realice inversiones, enajenaciones, adquisiciones o cualquier otro acto que produzca algún beneficio económico indebido, para sí o para otro, valiéndose de información que tenga en razón de su empleo, cargo o comisión.
-
 > <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 VII. Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
@@ -4273,7 +4295,7 @@ Gobernador del Estado.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.]</small>
 
 G.O. 3 DE AGOSTO DE 2004.
 
@@ -4905,11 +4927,13 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 30 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE NACIONALIDAD”.]
+G.O. 16 DE AGOSTO DE 2018.
 
-Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 650 QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 181, Y ADICIONA LOS ARTÍCULOS 181 BIS, 181 TER, 181 QUÁTER, 181 QUINQUIES Y 181 SEXIES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-D.O.F. 17 DE MAYO DE 2021.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS (MICHOACÁN DE OCAMPO)”.]
 
