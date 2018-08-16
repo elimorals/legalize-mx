@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-centro-de-evaluacion-y-control-de-68801
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-29"
-last_updated: "2012-04-27"
+last_updated: "2018-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL CENTRO DE EVALUACION Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 16 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de mayo de 2009.
 
@@ -215,7 +217,7 @@ XXII. Emitir resultados, constancias y, cuando así corresponda, certificados, p
 
 XXIII. Ejercer de manera directa cualquiera de las facultades encomendadas a las unidades administrativas del Centro;
 
-XXIV. Divulgar las funciones del Centro y los beneficios de una cultura institucional de evaluación y control de confianza; y (sic)
+XXIV. Divulgar las funciones del Centro y los beneficios de una cultura institucional de evaluación y control de confianza; y
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
@@ -311,7 +313,7 @@ XIII. Proponer al Director de su adscripción, según corresponda, las modificac
 
 XIV. Intervenir en la selección, adscripción y promoción del personal de la unidad administrativa a su cargo y en el otorgamiento de las licencias a que haya lugar, en los términos de la normatividad aplicable;
 
-XV. Rendir informes sobre las actividades realizadas, con la periodicidad que determine el Director General, el Director respectivo o el Consejo Directivo del Centro; y (sic)
+XV. Rendir informes sobre las actividades realizadas, con la periodicidad que determine el Director General, el Director respectivo o el Consejo Directivo del Centro; y
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
@@ -958,3 +960,45 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 P.O. 27 DE ABRIL DE 2012.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 232, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL DECRETO GUBERNATIVO NÚMERO 88, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 187, SEGUNDA PARTE, DE FECHA 21 DE NOVIEMBRE DEL 2008, POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO; ASIMISMO SE EXPIDE EL REGLAMENTO INTERIOR DEL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO”.]
+
+Vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación del Reglamento Vigente
+
+Artículo Segundo. Se Abroga el Reglamento Interior del Centro de Evaluación y Control de Confianza del Estado de Guanajuato, expedido mediante Decreto Gubernativo Número 112, publicado en el Periódico Oficial del Gobierno del Estado Número 86, Segunda Parte, de fecha 29 de mayo de 2009.
+
+Referencia a las nuevas denominaciones de las unidades administrativas del Centro
+
+Artículo Tercero. A la entrada en vigor del presente Decreto Gubernativo, cualquier referencia que, en decretos, reglamentos, acuerdos, convenios u otros instrumentos jurídicos se realice a las unidades administrativas modificadas en su denominación por este Decreto, para todos los efectos se entenderán hechas a su nueva denominación, de conformidad con lo siguiente:
+
+Denominación Anterior Denominación Actual
+
+Dirección de Gestión Dirección de Administración
+
+Coordinación de Administración Dirección de Administración
+
+Coordinación dé Evaluación e Coordinación de Investigación
+
+Investigación Socioeconómica Socioeconómica
+
+Coordinación Operativa y de Coordinación de Programación
+
+Vinculación de Evaluaciones
+
+Asuntos en trámite
+
+Artículo Cuarto. Los asuntos que se encuentren en trámite ante las unidades administrativas del Centro que cambian su denominación, serán atendidos hasta su culminación por las nuevas unidades administrativas, de conformidad con lo dispuesto en el artículo anterior.
+
+Nombramiento de los integrantes del Órgano Interno de Control
+
+Artículo Quinto. La Secretaría del Poder Ejecutivo con atribuciones de Control Interno, en tanto se cuenta con suficiencia presupuestal, emitirá el acuerdo correspondiente en el cual designe a las unidades administrativas del Centro que ejercerán las atribuciones de investigación, sustanciación y resolución que corresponden al Órgano Interno de Control, en los términos de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones normativas aplicables.
+
+El acuerdo que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificará las atribuciones que se delegarán en el mismo, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior. El ejercicio de las atribuciones delegadas, no generará retribución o emolumento adicional alguno, al que legalmente tiene establecido el cargo o puesto que desempeñen a la entrada en vigencia del presente decreto.
+
+El acuerdo a que se refiere el presente artículo, se publicará en el Periódico Oficial del Gobierno del Estado.
