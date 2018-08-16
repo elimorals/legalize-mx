@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-expropiacion-del-estado-de-quintana-roo-7326"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-30"
-last_updated: "1978-11-30"
+last_updated: "2018-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EXPROPIACIÓN DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial el 30 noviembre de 1978.
 
@@ -41,43 +41,35 @@ D E C R E T A :
 
 Las expropiaciones solo podrán hacerse por causa de utilidad pública y mediante indemnización.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO SEGUNDO.
 
 Son causas de utilidad pública:
 
-I.- El establecimiento, explotación o conservación de un servicio publico.
+I. La fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
-II.- La Apertura, Ampliación, Alineamiento, Mejoramiento, Construcción de Avenidas, Calles, Calzadas, Puentes, Túneles, Caminos, Carreteras, y toda Vía que tienda a facilitar el tránsito urbano y sub-urbano o entre dos o más poblaciones.
+II. La planeación y ejecución de obras de infraestructura, de equipamiento, de servicios urbanos y metropolitanos, así como el impulso de aquéllas destinadas para el espacio público y para la movilidad;
 
-III.- La Construcción, Ampliación, Prolongación, Mejoramiento, Alineación de Plazas, Parques, Jardines, Mercados, Campos Deportivos y de Aterrizaje, Hospitales, Escuelas, Rastros, Oficinas para el Gobierno Estatal o Municipal, Empresas u Organismos Descentralizados Dependientes de aquéllas y cualquier otra destinada a prestar servicios de beneficio colectivo o para el embellecimiento o saneamiento de las poblaciones.
+III. El cumplimiento y la ejecución de los programas de ordenamiento territorial, ecológico y desarrollo urbano, a que se refiere este ordenamiento y las áreas definidas como de suelo estratégico;
 
-IV.- La conservación de los lugares de belleza Panorámica de las Antigüedades, objetos de Arte, Edificios y Monumentos Arqueológicos, Coloniales, Históricos, Artísticos y cosas que se consideren como características notables de nuestra Cultura.
+IV. La constitución de reservas territoriales para el desarrollo urbano y la vivienda;
 
-V.- La satisfacción de necesidades colectivas en casos de trastornos internos ocasionados por Ciclones, Huracanes, Sismos, Terremotos o cualquier otro fenómeno Climatológico o Metereológico: el abastecimiento del Estado o Centros de Población de Víveres o de otros Artículos de consumo necesario y los procedimientos Empleados para combatir e impedir la propagación de Epidemias, Epizootias, Incendios, Plagas, Inundaciones u otras calamidades Públicas.
+V. La regularización territorial en los centros de población;
 
-VI.- La equitativa distribución de la riqueza acaparada o monopolizada con ventaja exclusiva de una o varias personas o con perjuicio de la colectividad general o de una clase en lo particular.
+VI. La ejecución de acciones, obras o servicios tendientes a la seguridad de los asentamientos humanos, la delimitación de zonas de riesgo, la reubicación de población en riesgo y el establecimiento de polígonos de salvaguarda;
 
-VII.- La creación, fomento o conservación de una Empresa para beneficio de la colectividad.
+VII. La creación, recuperación, mantenimiento y defensa del espacio público para uso comunitario y para la movilidad;
 
-VIII.- La intervención, prestación o administración, por el Estado o Municipio, de un servicio público existente, que beneficie a la colectividad para evitar su Destrucción, Interrupción o Paralización.
+VIII. La conservación, protección y mejoramiento del patrimonio cultural y natural de los centros de población;
 
-IX.- El uso y aprovechamiento de las aguas que no sean de Jurisdicción Federal, así como las obras e instalaciones necesarias para tal fin.
+IX. La edificación o mejoramiento de vivienda de interés social y popular y el apoyo a la producción social de vivienda;
 
-X.- La Creación, Establecimiento, Conservación y Mejoramiento de Conjuntos, Parques, Acuarios Naturales, Corredores y Ciudades Industriales en el Estado.
+X. La preservación del equilibrio ecológico y la protección al ambiente en los centros de población, y
 
-XI.- La Planeación y Urbanización de todas las Ciudades y Poblaciones del Estado y Zonas Sub-urbanas, así como las obras y mejoras que deben realizarse con este objeto.
+XI. La atención de situaciones de emergencia debidas al cambio climático y fenómenos naturales.
 
-XII.- Las Obras que tengan por objeto proporcionar al Estado, Municipios o Juntas de Gobierno Municipal, a uno o varios Pueblos, Barrios, Rancherías o Comunidades, usos o disfrutes de beneficio común.
-
-XIII.- La Defensa, Conservación, Desarrollo o Aprovechamiento de los elementos naturales susceptibles de explotación.
-
-XIV.- La Creación, Ampliación o Mejoramiento de Centros de Población y la ejecución de obras relativas a servicios Municipales nuevos o al mejoramiento de los existentes.
-
-XV.- La Construcción o Ampliación de unidades de habitación de interés social, destinadas a ser transmitidas en propiedad a precios módicos a grupos de personas de escasos recursos económicos.
-
-XVI.- Las medidas necesarias para evitar la destrucción de los Elementos Naturales y los daños que la propiedad pueda sufrir en perjuicio de la colectividad.
-
-XVII.- Los demás casos previstos por la Ley.
+En términos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Quintana Roo, las expropiaciones sólo podrán hacerse por causa de utilidad pública y mediante indemnización.
 
 ###### ARTICULO TERCERO.
 
@@ -200,3 +192,35 @@ LIC. JESUS MARTINEZ ROSS.- Rúbrica.
 El Secretario de Gobierno
 
 LIC. PEDRO JOAQUIN COLDWELL.- Rubrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 194 POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; SE EXPIDE LA LEY DE ACCIONES URBANÍSTICAS DEL ESTADO DE QUINTANA ROO; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO; SE REFORMAN LOS ARTÍCULOS 16, 24, 34 PÁRRAFO SEGUNDO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 184 TER, TODOS DE LA LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN DEL AMBIENTE DEL ESTADO DE QUINTANA ROO, SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE PROPIEDAD DE CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO; Y SE REFORMA EL ARTÍCULO SEGUNDO DE LA LEY DE EXPROPIACIÓN DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Asentamientos Humanos del Estado de Quintana Roo, publicada mediante Decreto Número 107 de la XIII Legislatura del Estado, en el Periódico Oficial en fecha 18 de abril de 2012.
+
+TERCERO. Se abroga la Ley de Fraccionamientos del Estado de Quintana Roo, publicada mediante Decreto Número 125 de la VI Legislatura del Estado, en el Periódico Oficial del Estado en fecha 31 de diciembre del año 1992.
+
+CUARTO. En tanto el Titular del Poder Ejecutivo del Estado y los municipios del Estado no expidan las disposiciones administrativas a que se refiere este decreto, seguirán aplicándose las disposiciones reglamentarias vigentes.
+
+QUINTO. El Titular del Poder Ejecutivo del Estado expedirá en un plazo no mayor a ciento ochenta días, el reglamento de esta ley, que será aplicable en los temas de competencia estatal, y aplicable en el ámbito estatal, hasta en tanto los ayuntamientos no expidan sus respectivos ordenamientos municipales en la materia.
+
+SEXTO. Los programas de desarrollo urbano y los ordenamientos ecológicos del territorio, así como las autorizaciones de acciones urbanísticas otorgadas con anterioridad a la entrada en vigor de la presente Ley seguirán vigentes en los términos que fueron aprobados o concedidas. Las que se encuentren en trámite, se deberán ajustar a sus nuevas disposiciones. Para tal efecto, los interesados en alguna autorización, refrendo o renovación en materia de acciones urbanísticas podrán optar por continuar su procedimiento ajustando sus proyectos a la normatividad vigente, o bien, presentar una nueva solicitud, en cuyo caso no pagarán nuevamente los derechos correspondientes.
+
+SÉPTIMO. El Titular del Poder Ejecutivo del Estado, en el plazo de un año contado a partir de la entrada en vigor de este Decreto, deberá formular y promover la aprobación de la Estrategia Estatal de Ordenamiento Territorial a que se refiere la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+
+OCTAVO. El Ejecutivo del Estado y los Municipios contarán con un plazo de dos años contados a partir de la entrada en vigor de este Decreto, para formular, consultar y promover la aprobación de los Programas Estatal y Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, conforme a sus competencias.
+
+NOVENO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, se deberán formular o actualizar los programas de desarrollo urbano de los centros de población mayores a cien mil habitantes.
+
+En el mismo plazo, los municipios deberán actualizar sus reglamentos internos, así como los manuales de organización, operación y funcionamiento en congruencia con estas nuevas disposiciones.
+
+DÉCIMO. Durante el Ejercicio Fiscal de 2018, los derechos establecidos en la Ley de Hacienda del Estado de Quintana Roo, por concepto de Constancia de Compatibilidad Urbanística, serán aplicables a las Constancias de Compatibilidad Territorial y al Dictamen de Impacto Territorial, a que se refiere el Capítulo Cuarto del Título Quinto de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.
+
+UNDÉCIMO. Para el caso de inmuebles construidos con anterioridad a la vigencia de este Decreto, el régimen de propiedad en condominio podrá constituirse cumpliendo con lo establecido en el artículo 4º de la Ley de Propiedad en Condominio de Inmuebles del Estado y sus disposiciones reglamentarias aplicables.
+
+DUODÉCIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
