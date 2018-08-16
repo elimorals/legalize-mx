@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-864-para-prevenir-y-eliminar-la-discriminacion-95753
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-16"
-last_updated: "2013-08-16"
+last_updated: "2018-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 864 PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 16 de agosto de 2013.
 
@@ -159,9 +159,17 @@ XXXI. Difundir, sin consentimiento de la persona agraviada, información sobre s
 
 XXXII. Estigmatizar y negar sus derechos a personas que viven con VIH/SIDA;
 
-XXXIII. La aplicación de políticas públicas, programas u otras acciones de gobierno que, en apariencia neutrales, tengan un impacto desventajoso en los derechos de las personas; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE AGOSTO DE 2018)</small>
 
-XXXIV. En general, cualquier otro acto u omisión discriminatorio en términos del artículo 3 de esta Ley.
+XXXIII. La negación, exclusión, distinción, menoscabo, impedimento o restricción de alguno o algunos de los derechos humanos de las personas, por tener tatuajes o perforaciones corporales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 16 DE AGOSTO DE 2018)</small>
+
+XXXIV. La aplicación de políticas públicas, programas u otras acciones de gobierno que, en apariencia neutrales, tengan un impacto desventajoso en los derechos de las personas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 16 DE AGOSTO DE 2018)</small>
+
+XXXV. En general, cualquier otro acto u omisión discriminatoria en términos del artículo 3 de esta ley.
 
 ###### Artículo 7.
 
@@ -550,3 +558,13 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 652 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 6 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
