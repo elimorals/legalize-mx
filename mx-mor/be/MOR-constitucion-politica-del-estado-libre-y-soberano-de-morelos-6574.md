@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2018-08-13"
+last_updated: "2018-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2018.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -715,6 +715,28 @@ Cada uno de los organismos públicos autónomos creados por disposición de esta
 La persona titular de dicho órgano interno de control será designado por el Congreso del Estado, mediante el voto aprobatorio de cuando menos las dos terceras partes de sus integrantes; durará seis años en su cargo, pudiendo ser designado por un periodo más.
 
 Los órganos internos de control estarán adscritos administrativamente a los entes de gobierno respectivos y mantendrán la coordinación necesaria con la Entidad Superior de Auditoría y Fiscalización.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2018)</small>
+
+###### Artículo 23-D.
+
+Se crea el organismo público autónomo denominado Instituto de la Mujer para el Estado Libre y Soberano de Morelos con personalidad jurídica y patrimonio propio, capacidad para decidir sobre el ejercicio de su presupuesto responsable de garantizar y establecer las políticas y acciones que propicien y faciliten la plena incorporación de la mujer en la vida, económica, política, cultural y social del Estado de Morelos.
+
+La titular de dicho instituto será nombrada por el Congreso del Estado de Morelos, mediante el voto aprobatorio de las dos terceras partes de sus integrantes y durará en el cargo un periodo de tres años contados a partir de su designación, pudiendo ser ratificada por el propio Congreso solamente por un periodo igual.
+
+Para ser titular del Instituto de la Mujer del Estado de Morelos, se requiere:
+
+I.- Ser ciudadano morelense por nacimiento o por residencia.
+
+II.- Ser mayor de 25 años;
+
+III.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión;
+
+IV.- Contar con estudios que avalen conocimientos profesionales sobre la Teoría de Género y los Derechos de las Mujeres;
+
+V.- Capacidad comprobada de articulación con la sociedad civil organizada, y
+
+VI.- Capacidad de alianzas institucionales a nivel federal y local en materia de protección de derechos de las mujeres.
 
 ## TITULO TERCERO.
 
@@ -3222,7 +3244,7 @@ El Presidente del Congreso protestará en iguales términos al instalarse el Con
 
 DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE ESTA CONSTITUCION.
 
-(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E. P.O. 11 DE AGOSTO DE 1965)
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 133
 
@@ -3402,13 +3424,13 @@ DE LA OBSERVANCIA Y REFORMAS DE LAS CONSTITUCIONES FEDERAL Y LOCAL.
 
 Esta Constitución puede ser adicionada o reformada con los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
-I.- Iniciada la reforma y aprobada por los votos de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos con los debates que hubiere provocado para su discusión; si la mayoría de los Ayuntamientos aprobaran la reforma o adición, una vez hecho el cómputo por el Congreso del Estado o Diputación Permanente en su caso, las reformas y adiciones se tendrán como parte de esta Constitución;
+I.- Iniciada la reforma y aprobada por los votos de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos con los debates que hubiere provocado para su discusión; si las dos terceras partes de los Ayuntamientos aprobaran la reforma o adición, una vez hecho el cómputo por el Congreso del Estado o Diputación Permanente en su caso, se hará la declaratoria correspondiente y al día siguiente de su publicación, las reformas y adiciones se tendrán como parte de esta Constitución;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+II.- (DEROGADA, P.O. 16 DE AGOSTO DE 2018)
 
-II.- Si transcurriere un mes desde la fecha en que los Ayuntamientos hayan recibido el Proyecto de Reformas, sin que se hubiere recibido en el Congreso o la Diputación Permanente en su caso, el resultado de la votación, se entenderá que aceptan la adición o reforma;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE AGOSTO DE 2018)</small>
 
 III.- Las adiciones y reformas hechas a la Constitución Política de los Estados Unidos Mexicanos que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y programadas sin necesidad de algún otro trámite.
 
@@ -5363,3 +5385,27 @@ SEXTA. Se derogan todas las disposiciones de menor rango normativo jerárquico q
 SÉPTIMA. El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda para que efectúe las transferencias y adecuaciones necesarias para el cumplimiento del presente Decreto.
 
 OCTAVA. El proceso de designación de los nuevos Comisionados del organismo garante en el Estado iniciará una vez que se haga la Declaratoria a la que se refiere la Disposición Transitoria Primera de la presente reforma.
+
+P.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS CUARENTA POR EL QUE SE ADICIONA EL ARTÍCULO 23-D A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Una vez aprobado por el Constituyente Permanente y hecha la declaratoria de validez, remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos legales previstos por los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política de los Estado Unidos Mexicanos.
+
+SEGUNDA. Las adiciones contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA. Se Derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo ordenado en el presente decreto.
+
+CUARTA. El Congreso del Estado expedirá una convocatoria para que en un plazo de cinco días hábiles se registren los ciudadanos que cumplan los requisitos establecidos en el presente decreto y se deberá comenzar el procedimiento de designación.
+
+QUINTA. El proceso de designación del Titular iniciará una vez que se haga la Declaratoria a la que se refiere la Disposición Transitoria Primera de la presente reforma.
+
+P.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL CUATROCIENTOS CUARENTA Y UNO.- POR EL QUE SE REFORMA EL ARTÍCULO 147 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERO. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Las adiciones contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA. Se deroga (sic) las disposiciones de igual o menor rango que se opongan al presente Decreto.
