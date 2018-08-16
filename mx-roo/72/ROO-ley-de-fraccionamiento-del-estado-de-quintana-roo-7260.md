@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fraccionamiento-del-estado-de-quintana-roo-7260"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "2011-12-15"
+last_updated: "2018-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE FRACCIONAMIENTO DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 16 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FRACCIONAMIENTO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial el 31 de Diciembre de 1992.
 
@@ -848,3 +850,33 @@ P.O. 15 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 194, POR EL QUE SE EXPIDE LAS (SIC) LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO, SE EXPIDE LA LEY DE ACCIONES URBANÍSTICAS DEL ESTADO DE QUINTANA ROO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, SE REFORMAN LOS ARTÍCULOS 16, 24, 34 PÁRRAFO SEGUNDO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 184 TER, TODOS DE LA LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN DEL AMBIENTE DEL ESTADO DE QUINTANA ROO, SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE PROPIEDAD DE CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO, Y SE REFORMA EL ARTÍCULO SEGUNDO DE LA LEY DE EXPROPIACIÓN DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Asentamientos Humanos del Estado de Quintana Roo, publicada mediante Decreto Número 107 de la XIII Legislatura del Estado, en el Periódico Oficial en fecha 18 de abril de 2012.
+
+TERCERO. Se abroga la Ley de Fraccionamientos del Estado de Quintana Roo, publicada mediante Decreto Número 125 de la VI Legislatura del Estado, en el Periódico Oficial del Estado en fecha 31 de diciembre del año 1992.
+
+CUARTO. En tanto el Titular del Poder Ejecutivo del Estado y los municipios del Estado no expidan las disposiciones administrativas a que se refiere este decreto, seguirán aplicándose las disposiciones reglamentarias vigentes.
+
+QUINTO. El Titular del Poder Ejecutivo del Estado expedirá en un plazo no mayor a ciento ochenta días, el reglamento de esta ley, que será aplicable en los temas de competencia estatal, y aplicable en el ámbito estatal, hasta en tanto los ayuntamientos no expidan sus respectivos ordenamientos municipales en la materia.
+
+SEXTO. Los programas de desarrollo urbano y los ordenamientos ecológicos del territorio, así como las autorizaciones de acciones urbanísticas otorgadas con anterioridad a la entrada en vigor de la presente Ley seguirán vigentes en los términos que fueron aprobados o concedidas. Las que se encuentren en trámite, se deberán ajustar a sus nuevas disposiciones. Para tal efecto, los interesados en alguna autorización, refrendo o renovación en materia de acciones urbanísticas podrán optar por continuar su procedimiento ajustando sus proyectos a la normatividad vigente, o bien, presentar una nueva solicitud, en cuyo caso no pagarán nuevamente los derechos correspondientes.
+
+SÉPTIMO. El Titular del Poder Ejecutivo del Estado, en el plazo de un año contado a partir de la entrada en vigor de este Decreto, deberá formular y promover la aprobación de la Estrategia Estatal de Ordenamiento Territorial a que se refiere la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+
+OCTAVO. El Ejecutivo del Estado y los Municipios contarán con un plazo de dos años contados a partir de la entrada en vigor de este Decreto, para formular, consultar y promover la aprobación de los Programas Estatal y Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, conforme a sus competencias.
+
+NOVENO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, se deberán formular o actualizar los programas de desarrollo urbano de los centros de población mayores a cien mil habitantes.
+
+En el mismo plazo, los municipios deberán actualizar sus reglamentos internos, así como los manuales de organización, operación y funcionamiento en congruencia con estas nuevas disposiciones.
+
+DÉCIMO. Durante el Ejercicio Fiscal de 2018, los derechos establecidos en la ley de Hacienda del Estado de Quintana Roo, por concepto de Constancia de Compatibilidad Urbanística, serán aplicables a las Constancias de Compatibilidad Territorial y al Dictamen de Impacto Territorial, a que se refiere el Capítulo Cuarto del Título Quinto de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.
+
+UNDÉCIMO. Para el caso de inmuebles construidos con anterioridad a la vigencia de este Decreto, el régimen de propiedad en condominio podrá constituirse cumpliendo con lo establecido en el artículo 4° de la Ley de Propiedad en Condominio de Inmuebles del Estado y sus disposiciones reglamentarias aplicables.
+
+DUODÉCIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
