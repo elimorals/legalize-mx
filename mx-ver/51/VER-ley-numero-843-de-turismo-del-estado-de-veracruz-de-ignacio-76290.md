@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2017-11-23"
+last_updated: "2018-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2018.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -999,13 +999,25 @@ La Secretaría, conjuntamente con la Secretaria de Trabajo, Previsión Social y 
 
 La Secretaría promoverá acciones de coordinación con las autoridades educativas competentes, para que los fundamentos de la cultura turística formen parte de los planes y programas de estudios desde los niveles educativos básicos, así como en las carreras técnicas y profesionales que sobre el turismo se impartan en la Entidad.
 
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)</small>
+
+La secretaría promoverá que la capacitación turística impulse la formación de recursos humanos que presenten alguna discapacidad, a fin de que puedan incorporarse a las actividades del sector turístico estatal.
+
 ###### Artículo 85.
 
 La Secretaría tendrá a su cargo un registro de centros de enseñanza e investigación dedicados a la especialidad de turismo, reconocidos oficialmente por las autoridades educativas.
 
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)</small>
+
+La secretaría promoverá, entre los centros de enseñanza e investigación, estudios especializados sobre la mejor forma de integrar a las personas con discapacidad al mercado laboral del Sector Turístico Estatal.
+
 ###### Artículo 86.
 
 La Secretaría propondrá al titular del Ejecutivo del Estado la celebración de acuerdos con la Secretaría Federal, autoridades educativas y laborales, para la implementación de programas relacionados con la capacitación de empresarios, trabajadores y servidores públicos del ramo turístico sobre los conocimientos necesarios para el desarrollo de sus actividades, de acuerdo a los términos que establezca el marco legal vigente.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)</small>
+
+En los acuerdos señalados en el párrafo anterior se promocionará incluir una cláusula para promover la capacitación de empresarios, trabajadores y servidores públicos del ramo turístico que presenten alguna discapacidad.
 
 ### CAPÍTULO ÚNICO
 
@@ -1420,3 +1432,11 @@ G.O. 23 DE NOVIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 655 POR EL QUE SE ADICIONAN SENDOS PÁRRAFOS SEGUNDOS A LOS ARTÍCULOS 84, 85 Y 86 DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
