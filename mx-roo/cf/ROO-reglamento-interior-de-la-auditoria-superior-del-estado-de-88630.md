@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-auditoria-superior-del-estado-de-8863
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-20"
-last_updated: "2012-06-20"
+last_updated: "2018-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,13 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIOS DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 17 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, CON EXCEPCIÓN DE LOS ARTÍCULOS 4, 6 PUNTOS 1 Y 5, 8, 10 Y 33 ESTABLECIDOS EN EL ARTÍCULO TRANSITORIO TERCERO, LOS CUALES MANTENDRÁN SU VIGENCIA HASTA QUE SE HAYA CONCLUIDO TODOS LOS PROCEDIMIENTOS A QUE SE REFIEREN LOS ARTÍCULOS TRANSITORIOS SEGUNDO, TERCERO Y CUARTO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO.]</small>
+
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE QUINTANA ROO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2018 (ABROGADO).
+
+Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el 20 de junio de 2012.
 
 DECRETO NÚMERO: 126
 
@@ -1462,3 +1468,15 @@ ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
 EL AUDITOR SUPERIOR DEL ESTADO DE QUINTANA ROO.
 
 C.P.P. EMILIANO NOVELO RIVERO.
+
+P.O. 17 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 254 POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE QUINTANA ROO".]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Las Unidades Administrativas previstas en el presente Reglamento que, al momento de su entrada en vigor, no se encuentren operando, se irán creando de conformidad con la suficiencia presupuestal con que se cuente en el presupuesto autorizado, del ejercicio fiscal correspondiente.
+
+Tercero. Para efectos del cumplimiento de lo señalado en los Artículos Transitorios Segundo, Tercero y Cuarto de la Ley de Fiscalización y Rendición de Cuentas del Estado de Quintana Roo, continuarán en vigor los Artículos 4, 6 puntos 1 y 5, 8, 10 y 33 del Reglamento Interior de la Auditoría Superior del Estado, publicado en el Periódico Oficial del Estado de Quintana Roo, con fecha 20 de junio del año 2012.
+
+Cuarto. Se abroga el Reglamento Interior de la Auditoria Superior del Estado, publicado en el Periódico Oficial del Estado de Quintana Roo con fecha 20 de junio del año 2012, con excepción de los numerales establecidos en el Artículo Transitorio anterior, los cuales mantendrán su vigencia hasta que se haya concluido todos los procedimientos a que se refieren los Artículos Transitorios Segundo, Tercero y Cuarto de la Ley de Fiscalización y Rendición de Cuentas del Estado de Quintana Roo.
