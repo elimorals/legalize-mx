@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-centro-de-capacitacion-formacion-e-investigacion-124674
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-29"
-last_updated: "2017-11-29"
+last_updated: "2018-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL CENTRO DE CAPACITACIÓN, FORMACIÓN E INVESTIGACIÓN PARA LA SEGURIDAD DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 29 de noviembre de 2017.
 
@@ -435,19 +435,29 @@ Las relaciones de trabajo entre el Centro y su personal se regirán por la Ley d
 
 Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
-Articulo Segundo. Los recursos humanos, materiales y financieros con que cuenta la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, formarán parte del organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro. Para efectos de lo anterior, el Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro deberá obtener los registros fiscales y administrativos que procedan.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
-El Poder Ejecutivo del Estado, a través de sus dependencias, continuará administrando los referidos recursos, hasta el 31 de diciembre del presente ejercicio fiscal.
+Artículo Segundo. Los recursos humanos y materiales con que cuenta el Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana formarán parte del organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro. Para efectos de lo anterior, el Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro deberá obtener los registros fiscales y administrativos que procedan.
+
+El Poder Ejecutivo del Estado, a través de sus dependencias, continuará administrando los referidos recursos hasta en tanto se obtengan los registros fiscales y administrativos a que se refiere el párrafo anterior.
 
 Artículo Tercero. El organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, cumplirá con las obligaciones que como sujeto le señalan las disposiciones aplicables, a partir del ejercicio fiscal 2018, lo anterior sin perjuicio de que pueda obtener los registros fiscales y administrativos a que se refiere el artículo anterior, una vez que cobre vigencia la presente Ley en términos de su Artículo Primero Transitorio.
 
-Artículo Cuarto. Los procedimientos que a la entrada en vigor de la presente Ley se encuentren en trámite ante la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, serán substanciados y resueltos por el organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, en el ámbito de su competencia, de conformidad con las disposiciones vigentes al inicio de dichos asuntos.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
-Artículo Quinto. El actual titular de la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana lo será del organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, hasta en tanto no sea removido de su cargo, por lo que en su carácter de representante legal, deberá realizar ante las autoridades competentes, los trámites legales, fiscales y administrativos que sean necesarios con motivo de la creación de la referida entidad paraestatal.
+Artículo Cuarto. Los procedimientos que a la entrada en vigor de la presente Ley se encuentren en trámite ante el Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, serán substanciados y resueltos por el organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, en el ámbito de su competencia, de conformidad con las disposiciones vigentes al inicio de dichos asuntos.
 
-Artículo Sexto. Los trabajadores de la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
-Artículo Séptimo. Toda referencia hecha a la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, debe entenderse en lo sucesivo al organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro.
+Artículo Quinto. El actual titular del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana lo será del organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, hasta en tanto no sea removido de su cargo, por lo que en su carácter de representante legal, deberá realizar ante las autoridades competentes, los trámites legales, fiscales y administrativos que sean necesarios con motivo de la creación de la referida entidad paraestatal.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+
+Artículo Sexto. Los trabajadores del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+
+Artículo Séptimo. Toda referencia hecha al Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, debe entenderse en lo sucesivo al organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro.
 
 Artículo Octavo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
@@ -488,3 +498,13 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO; REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO; REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO; Y REFORMA DIVERSOS ARTÍCULOS TRANSITORIOS DE LA LEY QUE EXPIDE LA LEY DEL CENTRO DE CAPACITACIÓN, FORMACIÓN E INVESTIGACIÓN PARA LA SEGURIDAD DEL ESTADO DE QUERÉTARO Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
