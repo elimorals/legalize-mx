@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-consultiva-estatal-de-62748"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-25"
-last_updated: "2008-07-25"
+last_updated: "2018-08-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
 
-REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO, PUBLICADO EN EL P.O. DE 17 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO DE QUERÉTARO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2018 (SIN EFECTOS).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 25 de julio de 2008.
 
@@ -305,7 +307,7 @@ Los grupos de trabajo funcionarán de acuerdo con las instrucciones y encomienda
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Reglamento se aprueba en la ciudad de Santiago de Querétaro, Qro. en la Delegación Federal del Trabajo, sito (sic) Zaragoza número 313 Poniente, Colonia San Angel, el 05 de diciembre del año dos mil siete.
+El presente Reglamento se aprueba en la ciudad de Santiago de Querétaro, Qro. en la Delegación Federal del Trabajo, sito Zaragoza número 313 Poniente, Colonia San Angel, el 05 de diciembre del año dos mil siete.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -378,3 +380,13 @@ Lic. Alejandra González Tostado
 Presidente del Consejo Directivo de la CANACO
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo primero.- El presente Reglamento surtirá sus efectos a partir del 30 de mayo de 2015.
+
+Artículo segundo.- Queda sin efectos el Reglamento Interior de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, aprobado el 5 de diciembre de 2007 y todas aquellas disposiciones relativas ala (sic) integración y funcionamiento de la Comisión que se contrapongan al presente Reglamento.
