@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-secretaria-de-seguridad-ciudadana-del-estado-de-11509
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-10"
-last_updated: "2017-11-29"
+last_updated: "2018-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 10 de junio de 2016.
 
@@ -747,61 +747,13 @@ XIV. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
 
 ## Título Sexto. De los Órganos Auxiliares
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE AGOSTO DE 2018)</small>
+
 ### Capítulo Primero. De la Dirección General del Centro Estatal de Información de Seguridad
 
 ###### Artículo 32.
 
-La Dirección General del Centro Estatal de Información de Seguridad contará con las siguientes atribuciones:
-
-I. Resguardar las bases de datos de seguridad en los términos que señalen la presente Ley y demás disposiciones aplicables;
-
-II. Mantener y gestionar la actualización de las bases de datos que genere (sic) los integrantes del Sistema Estatal;
-
-III. Brindar la información que soliciten los integrantes del Sistema Estatal en el ámbito de sus atribuciones;
-
-IV. Proponer al Titular de la Secretaría, las políticas, manuales, reglamentos y protocolos para la adecuada administración y uso de la información de seguridad;
-
-V. Elaborar y mantener actualizados los registros de:
-
-a) Personal de Seguridad Pública.
-
-b) Empresas y Personal de Seguridad Privada.
-
-c) Armamento y Equipo.
-
-d) Información Criminal.
-
-e) Estadísticas de Seguridad Pública.
-
-f) Detenciones.
-
-g) Información para la Prevención Social de la Violencia y la Delincuencia; y
-
-h) Las demás que se consideren relevantes por parte de los integrantes del Sistema Estatal previo acuerdo del Consejo Estatal.
-
-VI. Recibir, procesar y analizar la información generada por las diferentes instituciones de seguridad pública y procuración de justicia;
-
-VII. Coordinar el intercambio de información con otras instituciones de Seguridad pública y procuración de justicia de los tres órdenes de gobierno;
-
-VIII. Proveer y operar los dispositivos tecnológicos que apoyen en las actividades de recolección de información;
-
-IX. Administrar y coordinar el Registro Estatal de Seguridad Pública, con el Sistema Nacional de Información;
-
-X. Proporcionar el soporte técnico necesario para el buen funcionamiento de los equipos y sistemas informáticos de la Secretaría;
-
-XI. Administrar y mantener en operación la red de radiocomunicación estatal de seguridad;
-
-XII. Administrar y mantener en operación la red de transporte de voz y datos del Sistema Estatal;
-
-XIII. Instalar y mantener el equipo tecnológico necesario para la operación policial;
-
-XIV. Coordinar el servicio de atención de llamadas de emergencia;
-
-XV. Coordinar el servicio de llamada anónima, aplicando los criterios y protocolos especializados que aplican a este tipo de llamadas;
-
-XVI. Administrar y monitorear el sistema estatal de video vigilancia en materia de seguridad; y
-
-XVII. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2018)
 
 ### Capítulo Segundo. De la Dirección de Servicios Administrativos
 
@@ -871,31 +823,17 @@ XVI. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
 
 ### Capítulo Cuarto. Del Órgano Interno de Control
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 35.
 
-El Órgano Interno de Control contará con las siguientes atribuciones:
+Al frente del Órgano Interno de Control habrá un titular, designado en los términos del artículo 23, fracción XI de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, el cual observará las políticas, normas, lineamientos, procedimientos y demás disposiciones aplicables, así como los programas de trabajo de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro.
 
-I. Verificar el uso debido, control y ejercicio de los recursos humanos, financieros y materiales de la Secretaría;
+El Titular del Órgano Interno de Control, se auxiliará por los titulares de Auditoría, de Responsabilidades Administrativas y de Atención a Denuncias e Investigaciones, quienes serán designados por el Secretario, el demás personal adscrito será nombrado en términos de las disposiciones legales aplicables.
 
-II. Coordinar los procesos de entrega-recepción de los servidores públicos de la Secretaria, verificando que se lleven a cabo conforme al marco legal aplicable;
+Los servidores públicos a que se refiere el párrafo primero y segundo del presente artículo, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, Reglamento Interior de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro y demás disposiciones legales y administrativas aplicables.
 
-III. Recibir, atender y dar seguimiento a las denuncias, felicitaciones, reportes, quejas y análogos, relativos al desempeño del personal de la Secretaría, en términos de las disposiciones aplicables; tratándose de conductas posiblemente constitutivas de responsabilidad, atribuidas a personal de carrera policial, la turnará a la Unidad de Asuntos Internos;
-
-IV. Instrumentar mecanismos para la atención, seguimiento y evaluación de denuncias, quejas, requerimientos y propuestas de su competencia;
-
-V. Verificar el cumplimiento de leyes, reglamentos, manuales y demás disposiciones aplicables por parte de los servidores públicos de la Secretaría;
-
-VI. Promover y vigilar que la actuación del personal administrativo de la Secretaría, cumpla las responsabilidades contempladas en los ordenamientos aplicables, implementando medidas para prevenir la comisión de ilícitos e infracciones administrativas;
-
-VII. Implementar y ejecutar controles, programas y estrategias para prevenir y erradicar conductas indebidas o de indisciplina;
-
-VIII. Conocer de los procedimientos disciplinarios, atendiendo a la gravedad de la falta administrativa cometida y, en su momento, imponer las sanciones que determine la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro. Para calificar la gravedad de la conducta ilícita se atenderá a la cuantía del daño patrimonial causado, al beneficio personal indebidamente obtenido o a la deficiencia en la prestación del servicio público, dolosa o negligentemente causados por la acción u omisión del servidor público;
-
-IX. Conocer de los procedimientos resarcitorios previstos en el artículo 43 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro, cuando el monto del daño o perjuicio causado no exceda de cinco mil veces el factor de cálculo; y
-
-X. Las demás que le confieran la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro, los lineamientos generales que expida la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro y demás disposiciones aplicables.
-
-El Órgano Interno de Control pertenecerá en su estructura orgánica a la Secretaría, y dependerá normativamente de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+La Secretaría, proporcionará al Órgano Interno de Control, los recursos humanos y materiales que requieran, para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Secretaría están obligados a proporcionarle el auxilio que requiera para el ejercicio de sus facultades.
 
 ## Título Séptimo. Del Centro de Justicia para las Mujeres del Estado de Querétaro
 
@@ -1083,24 +1021,42 @@ Artículo Cuarto. Los recursos humanos con que contaba la Dirección Ejecutiva d
 
 P.O. 29 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE EXPIDE LA LEY DEL CENTRO DE CAPACITACIÓN, FORMACIÓN E INVESTIGACIÓN PARA LA SEGURIDAD DEL ESTADO DE QUERÉTARO Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO”.]
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE EXPIDE LA LEY DEL CENTRO DE CAPACITACIÓN, FORMACIÓN E INVESTIGACIÓN PARA LA SEGURIDAD DEL ESTADO DE QUERÉTARO Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO".]
 
-Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
-Articulo Segundo. Los recursos humanos, materiales y financieros con que cuenta la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, formarán parte del organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro. Para efectos de lo anterior, el Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro deberá obtener los registros fiscales y administrativos que procedan.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
-El Poder Ejecutivo del Estado, a través de sus dependencias, continuará administrando los referidos recursos, hasta el 31 de diciembre del presente ejercicio fiscal.
+Artículo Segundo. Los recursos humanos y materiales con que cuenta el Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana formarán parte del organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro. Para efectos de lo anterior, el Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro deberá obtener los registros fiscales y administrativos que procedan.
+
+El Poder Ejecutivo del Estado, a través de sus dependencias, continuará administrando los referidos recursos hasta en tanto se obtengan los registros fiscales y administrativos a que se refiere el párrafo anterior.
 
 Artículo Tercero. El organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, cumplirá con las obligaciones que como sujeto le señalan las disposiciones aplicables, a partir del ejercicio fiscal 2018, lo anterior sin perjuicio de que pueda obtener los registros fiscales y administrativos a que se refiere el artículo anterior, una vez que cobre vigencia la presente Ley en términos de su Artículo Primero Transitorio.
 
-Artículo Cuarto. Los procedimientos que a la entrada en vigor de la presente Ley se encuentren en trámite ante la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, serán substanciados y resueltos por el organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, en el ámbito de su competencia, de conformidad con las disposiciones vigentes al inicio de dichos asuntos.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
-Artículo Quinto. El actual titular de la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana lo será del organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, hasta en tanto no sea removido de su cargo, por lo que en su carácter de representante legal, deberá realizar ante las autoridades competentes, los trámites legales, fiscales y administrativos que sean necesarios con motivo de la creación de la referida entidad paraestatal.
+Artículo Cuarto. Los procedimientos que a la entrada en vigor de la presente Ley se encuentren en trámite ante el Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, serán substanciados y resueltos por el organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, en el ámbito de su competencia, de conformidad con las disposiciones vigentes al inicio de dichos asuntos.
 
-Artículo Sexto. Los trabajadores de la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
-Artículo Séptimo. Toda referencia hecha a la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, debe entenderse en lo sucesivo al organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro.
+Artículo Quinto. El actual titular del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana lo será del organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, hasta en tanto no sea removido de su cargo, por lo que en su carácter de representante legal, deberá realizar ante las autoridades competentes, los trámites legales, fiscales y administrativos que sean necesarios con motivo de la creación de la referida entidad paraestatal.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+
+Artículo Sexto. Los trabajadores del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+
+Artículo Séptimo. Toda referencia hecha al Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, debe entenderse en lo sucesivo al organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro.
 
 Artículo Octavo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
-Artículo Noveno. Remítase la presente al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+Artículo Noveno. Remítase la presente al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 17 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO; REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO; REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO; Y REFORMA DIVERSOS ARTÍCULOS TRANSITORIOS DE LA LEY QUE EXPIDE LA LEY DEL CENTRO DE CAPACITACIÓN, FORMACIÓN E INVESTIGACIÓN PARA LA SEGURIDAD DEL ESTADO DE QUERÉTARO Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
