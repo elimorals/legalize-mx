@@ -4,7 +4,7 @@ identifier: "QUE-ley-sobre-bebidas-alcoholicas-del-estado-de-queretaro-65032"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2015-12-17"
+last_updated: "2018-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -91,7 +91,13 @@ h. Licencia: Documento expedido por la Secretaría de Gobierno que permite, hast
 
 i. Orden Público: Conjunto de principios de orden superior, políticos, económicos y morales, obligatorios e irrenunciables, que persiguen la armonía social.
 
-j. Permiso: Documento expedido por la Secretaría de Gobierno, con carácter provisional, hasta por treinta días naturales improrrogables, a personas físicas o morales, para llevar a cabo la venta al menudeo de bebidas alcohólicas en envase abierto y al copeo, en lugar determinado, el cual puede ser revocado por violaciones a esta Ley o a otros ordenamientos aplicables o porque así lo requiera el interés público.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2018)</small>
+
+j. Permiso: Documento expedido por la Secretaría de Gobierno, con carácter provisional, hasta por treinta días naturales improrrogables, a personas físicas o morales, para llevar a cabo la venta al menudeo de bebidas alcohólicas en envase cerrado, abierto y al copeo, en lugar determinado, el cual puede ser revocado por violaciones a esta Ley o a otros ordenamientos aplicables o porque así lo requiera el interés público.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2018)</small>
+
+Se podrán otorgar los permisos provisionales necesarios en su caso, hasta la conclusión del trámite de expedición de licencia correspondiente y de conformidad con las disposiciones normativas aplicables.
 
 k. Porteo: La acción de trasladar, en el territorio estatal, bebidas alcohólicas de un lugar a otro para distribuirlas con fines comerciales.
 
@@ -957,7 +963,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 23 DE DICIEMBRE DE 2009.
 
@@ -1206,3 +1212,11 @@ XVIII. El monto del Factor de Cálculo a que se refiere la Ley del Factor de Cá
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Artículo Cuarto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga”
+
+P.O. 17 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 4 DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
