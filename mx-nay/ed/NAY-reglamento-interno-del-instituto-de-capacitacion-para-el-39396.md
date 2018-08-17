@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interno-del-instituto-de-capacitacion-para-el-39396"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-28"
-last_updated: "2004-04-28"
+last_updated: "2018-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE NAYARIT
 
-REGLAMENTO INTERNO DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE NAYARIT
+REGLAMENTO INTERNO DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2018.
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 28 de abril de 2004.
 
@@ -229,6 +229,10 @@ XI. Designar y remover al demás personal de EL INSTITUTO, previa autorización 
 
 XII. Realizar las demás funciones que se requieran para el cumplimiento del objetivo de EL INSTITUTO, así como las que le encomienden otras disposiciones legales o reglamentarias aplicables.
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2018)</small>
+
+XIII. Certificar y expedir copias de los documentos que obren en los archivos del ICATEN, salvo aquellos que por su naturaleza deban ser clasificados como reservados y confidencial;
+
 ### CAPITULO V. DE LOS DIRECTIVOS, Y SUS ATRIBUCIONES
 
 GENERICAS Y ESPECIFICAS
@@ -363,7 +367,7 @@ VII. Supervisar la labor de los instructores, para que la programación educativ
 
 VIII. Adoptar e implementar oportunamente, las medidas preventivas, fitosanitarias para evitar algún daño físico a la población de capacitados así como al personal;
 
-IX. Formar parte del LOS CONSEJOS; y
+IX. Formar parte del (sic) LOS CONSEJOS; y
 
 X. Las demás que le confiara este reglamento y las que disponga EL DIRECTOR.
 
@@ -429,7 +433,7 @@ Los trabajadores de EL INSTITUTO, quedarán incorporados al régimen de segurida
 
 ###### ARTICULO 34.
 
-Serán trabajadores administrativos temporales o por honorarios los que, por tiempo determinado, realicen alguna actividad distinta a las que describen en el articulo 26 de EL DECRETO y 32 de éste Reglamento, y no ocupen una plaza de base dentro del Instituto.
+Serán trabajadores administrativos temporales o por honorarios los que, por tiempo determinado, realicen alguna actividad distinta a las que describen en el artículo 26 de EL DECRETO y 32 de éste Reglamento, y no ocupen una plaza de base dentro del Instituto.
 
 ### CAPITULO X. DEL PATRIMONIO
 
@@ -474,3 +478,11 @@ Lo no previsto en este Reglamento será competencia de LA JUNTA de EL INSTITUTO.
 DADO en la Décima Sesión Ordinaria por su H. Junta Directiva, en Tepic, Capital del Estado de Nayarit, a los veintinueve días del mes de Julio del año 2003, en la Sala de Usos Múltiples del Plantel Tepic, del "ICATEN".
 
 Presidente ING. ERNESTO NAVARRO GONZALEZ, SECRETARIO DE DESARROLLO ECONOMICO.- Rúbrica.- REPRESENTANTE DE LA SEP DEL GOBIERNO FEDERAL ING. JUAN MANUEL TORRES LÓPEZ, COORDINADOR DE ORGANISMOS DESCENTRALIZADOS DE LA SEP.- Rúbrica.- REPRESENTANTE DE LA SEP DEL GOBIERNO FEDERAL LIC. JOSE MARIA TEJEDA VAZQUEZ, REPRESENTANTE DE LA SEP EN EL ESTADO.- Rúbrica- REPRESENTANTE DEL C. PRESIDENTE MUNICIPAL DE SAN BLAS NAYARIT SR. ADAN MENDOZA PLACITO. REGIDOR DE OBRAS PÚBLICAS DEL AYUNTAMIENTO.- Rúbrica. POR LA CONTRALORÍA DEL GOBIERNO DEL ESTADO DE NAYARIT C.P. EFRAÍN JIMÉNEZ BERNAL. COMISARIO.- Rúbrica- SECRETARIO DE ACTAS C.P. JOSÉ LUIS DELFÍN MENDOZA. DIRECTOR ADMINISTRATIVO DEL INSTITUTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN AL REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO EN EL ESTADO DE NAYARIT".]
+
+> <small>[N. DE E. EL ACTA DE LA SEGUNDA SESIÓN EXTRAORDINARIA DEL 2018 DE LA JUNTA DIRECTIVA DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE NAYARIT, QUE APRUEBA LA MODIFICACIÓN AL ARTÍCULO 15 DEL REGLAMENTO INTERIOR DEL INSTITUTO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. del CÓDIGO CIVIL VIGENTE DEL ESTADO DE NAYARIT.]</small>
