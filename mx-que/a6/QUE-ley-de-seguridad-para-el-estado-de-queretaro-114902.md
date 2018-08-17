@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-para-el-estado-de-queretaro-114902"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2017-11-29"
+last_updated: "2018-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2018.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -147,7 +147,7 @@ VI. Fiscalía General: La Fiscalía General del Estado de Querétaro;
 
 VII. Instituciones de Seguridad: Las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias encargadas de la seguridad a nivel federal, estatal y municipal;
 
-VIII. Instituto: El Instituto de Formación policial;
+VIII. (DEROGADA, P.O. 17 DE AGOSTO DE 2018)
 
 IX. Medidas cautelares: Condiciones impuestas mediante resolución judicial, por el tiempo indispensable, para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento;
 
@@ -805,11 +805,15 @@ La profesionalización es la adquisición, desarrollo y aplicación con eficienc
 
 La profesionalización se hará a través de la formación inicial única, la capacitación, actualización, la especialización y la evaluación del personal facultado para el uso legal de la fuerza pública y de las empresas de seguridad privada que prestan sus servicios en el Estado.
 
-El Instituto contará con un Consejo Académico para certificar los procesos de formación, capacitación o especialización de los cuerpos de seguridad en el estado, así como de su cuerpo docente.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+
+El Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro contará con un Consejo Consultivo Académico que contará con las atribuciones previstas en la Ley del Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, y otras disposiciones normativas aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 41.
 
-El Instituto llevará el registro individual del proceso de profesionalización de los elementos de todas las instituciones de seguridad.
+El Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, llevará el registro individual del proceso de profesionalización de los elementos de todas las instituciones de seguridad.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -889,47 +893,45 @@ En su caso, la Policía de Investigación se coordinará con los integrantes de 
 
 Cuando sea necesaria la participación de integrantes de corporaciones de otras entidades, la coordinación se hará por conducto de la Policía Estatal.
 
-### Capítulo Séptimo. Del Centro Estatal de Información de Seguridad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2018)</small>
+
+### Capítulo Séptimo. Del Centro de Información y Análisis para la Seguridad de Querétaro
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
 ### Capítulo Octavo. De las instalaciones estratégicas
 
 ###### Artículo 47.
 
-El Centro Estatal de Información de Seguridad es el organismo dependiente de la Secretaría de Seguridad, encargado de la administración y resguardo de la información que generen los integrantes del Sistema Estatal, así como de las acciones de coordinación, comando, control, comunicaciones y cómputo mediante las diversas tecnologías que apoyan la operación policial y los sistemas de atención a la población.
+El Centro de Información y Análisis para la Seguridad de Querétaro es un organismo descentralizado, con personalidad jurídica y patrimonio propio.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 48.
 
-La información que contenga el Centro Estatal de Información de Seguridad será administrada y protegida bajo los principios de confidencialidad, reserva y demás aspectos previstos por las leyes de la materia.
+La información que contenga el Centro de Información y Análisis para la Seguridad de Querétaro será administrada y protegida bajo los principios de confidencialidad, reserva y demás aspectos previstos por las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 49.
 
-Son funciones del Centro Estatal de Información de Seguridad:
+El Centro de Información y Análisis para la Seguridad de Querétaro tiene por objeto el comando, operación, monitoreo, y control del sistema estatal de video vigilancia, operación informática, análisis de información, atención de las líneas de emergencia y denuncia anónima, y la operación y administración de la red estatal de telecomunicaciones para la seguridad (radiocomunicación y red de transporte de voz y datos) con la finalidad de garantizar el derecho fundamental de la seguridad en el Estado, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad para el Estado de Querétaro y las demás disposiciones aplicables.
 
-I. Resguardar y sistematizar la información suministrada;
-
-II. Mantener actualizadas las bases de datos e información;
-
-III. Vigilar el cumplimiento de los criterios establecidos conforme a la presente Ley, para su funcionamiento y operación;
-
-IV. Establecer las medidas de seguridad para el acceso y consulta del Sistema de Información Único;
-
-V. Brindar con prontitud la información que soliciten los integrantes del sistema de acuerdo a sus atribuciones;
-
-VI. Compartir la información, sobre seguridad pública que corresponda, al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública; y
-
-VII. Administrar y operar el Centro operativo de coordinación, comando, control, comunicaciones y cómputo.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 50.
 
-El Centro Estatal de Información de Seguridad contará con las atribuciones y estructura que para tal efecto se establezca en los ordenamientos jurídicos aplicables.
+El Centro de Información y Análisis para la Seguridad de Querétaro contará con las atribuciones y estructura establecidas en la Ley que crea el Centro de Información y Análisis para la Seguridad de Querétaro, en su reglamento interior y en los demás ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 Artículo 50 bis. El SIU, es la herramienta informática a través de la cual se interconecta el Sistema Estatal de Seguridad y Sistema Penal Acusatorio Oral, con la finalidad de establecer una comunicación eficaz, inmediata y ágil, que atienda y resuelva las funciones de cada una de las instituciones en al (sic) ámbito de su competencia.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2018)</small>
 
-Artículo 50 ter. El SIU está a cargo de la Secretaría de Seguridad y corresponde a ésta el desarrollo y conservación de la información generada, transmitida, recibida o archivada a través de aquél, en el ámbito de su competencia.
+Artículo 50 ter. El SIU está a cargo del Centro de Información y Análisis para la Seguridad de Querétaro y corresponde a éste el desarrollo y conservación de la información generada, transmitida, recibida o archivada a través de aquél, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 Las instituciones de seguridad deberán alimentar el SIU, con la información que le compete en la gestión de los asuntos que se desahoguen o tramiten por medio de dicha plataforma.
 
@@ -1209,7 +1211,9 @@ Artículo Cuarto. Los derechos del personal operativo quedan salvaguardados a la
 
 Artículo Quinto. A partir de la entrada en vigor de la presente Ley, el Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, formará parte de la Secretaría de Seguridad, cambiando su denominación a Instituto de Formación Policial.
 
-Artículo Sexto. Se abroga el Decreto por el que se crea el Organismo Público Descentralizado del Gobierno del Estado, denominado Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, publicado en el periódico oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga", el día 5 de enero de 2007.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+
+Artículo Sexto. Se extingue el Organismo Público Descentralizado del Poder Ejecutivo del Estado de Querétaro, denominado Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, el cual fue creado mediante Decreto publicado en el periódico oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” el 5 de enero de 2007.
 
 Artículo Séptimo. Los recursos humanos, materiales, presupuestales y financieros a la entrada en vigor de la presente Ley, del citado Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, pasarán a formar parte de la Secretaría de Seguridad.
 
@@ -1278,3 +1282,11 @@ Artículo Primero. La presente Ley entrará en vigor el día de su publicación 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 17 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO; REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO; REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO; Y REFORMA DIVERSOS ARTÍCULOS TRANSITORIOS DE LA LEY QUE EXPIDE LA LEY DEL CENTRO DE CAPACITACIÓN, FORMACIÓN E INVESTIGACIÓN PARA LA SEGURIDAD DEL ESTADO DE QUERÉTARO Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
