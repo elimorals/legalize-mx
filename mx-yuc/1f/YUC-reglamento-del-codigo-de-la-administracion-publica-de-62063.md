@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2018-06-22"
+last_updated: "2018-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE AGOSTO DE 2018.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -7321,53 +7321,43 @@ Son atribuciones de la Fiscalía General del Estado las establecidas en el Códi
 
 ### CAPÍTULO ÚNICO. De la organización y atribuciones de la Secretaría de Fomento Económico
 
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 474.
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, esta Secretaría contará con la siguiente estructura:
 
-> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
-
 I. Dirección General de Fomento y Desarrollo Empresarial:
 
-a) Dirección de Asistencia Técnica y Vinculación Estatal, y
+a) Dirección de Financiamiento;
 
-b) Dirección de Financiamiento y Cultura Emprendedora.
+b) Dirección de Vinculación Estatal, y
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+c) Dirección de Asistencia Técnica y Apoyo a la Mujer Empresaria.
 
 II. Dirección General de Fomento a la Inversión y Comercio:
 
-a) Dirección de Comercio, y
+a) Dirección de Promoción a la Inversión, y
 
-b) Dirección de Promoción a la Inversión.
+b) Dirección de Comercio.
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-III. Dirección General de Planeación y Proyectos Estratégicos:
+III. Dirección General de Planeación y Competitividad:
 
 a) Dirección de Planeación y Análisis Económico, y
 
-b) Dirección de Innovación y Proyectos Estratégicos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+b) Dirección de Competitividad.
 
 IV. Dirección General de Fondo Yucatán:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-a) Dirección de Desarrollo Fiduciario, y
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+a) Dirección de Desarrollo Financiero y Fiduciario, y
 
 b) Dirección de Normatividad Fiduciaria.
 
-> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+V. Dirección General de Promoción de Yucatán en la República de Cuba y el Caribe.
 
-V. Dirección de Administración y Finanzas, y
+VI. Dirección de Administración y Finanzas.
 
-> <small>(REFORMADA [N. DE E. ADICIONADO], D.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-VI. Dirección Jurídica.
+VII. Dirección Jurídica.
 
 ###### Artículo 475.
 
@@ -7379,413 +7369,253 @@ II. Ejecutar las políticas y acciones que el Titular del Poder Ejecutivo le enc
 
 III. Realizar, conjuntamente con las autoridades municipales y federales, actividades encaminadas a impulsar el desarrollo económico del Estado;
 
-IV. Establecer, en coordinación con las dependencias y entidades de la Administración Pública del Estado, las medidas relativas al fomento a la inversión, empleo, vinculación, investigación científica, industrial y tecnológica, así como para la creación de estímulos e incentivos en materia de mejora regulatoria;
+> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2018)</small>
+
+IV. Establecer, en coordinación con las dependencias y entidades de la Administración Pública estatal, medidas para el fomento a la inversión, el empleo, la vinculación entre los sectores público, privado y social, la competitividad, la asistencia técnica, la capacitación y la innovación industrial y tecnológica, así como para la creación de estímulos e incentivos, y el desarrollo de la mejora regulatoria en la entidad;
 
 V. Proponer esquemas y mecanismos que favorezcan la exportación de los productos locales, en coordinación con los sectores exportadores;
 
-VI. Promover la creación del Sistema Estatal de Información y Análisis Económico y coordinar sus trabajos;
+VI. (DEROGADA, D.O. 17 DE AGOSTO DE 2018)
 
-VII. Diseñar las políticas generales para mejorar la competitividad, a través de procedimientos administrativos ágiles que faciliten la inversión productiva en el Estado;
+> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2018)</small>
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+VII. Establecer políticas generales y acciones que permitan mejorar la competitividad económica y facilitar la atracción de inversión para el estado;
 
-VIII. Organizar y vigilar el funcionamiento del Módulo de Ventanilla Universal, y
+VIII. (DEROGADA, D.O. 17 DE AGOSTO DE 2018)
 
 IX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 476.
 
 El Director General de Fomento y Desarrollo Empresarial tendrá las siguientes facultades y obligaciones:
 
-I. Fomentar la cultura empresarial en todos los sectores productivos, a fin de elevar el nivel competitivo de las empresas a través del desarrollo humano;
+I. Fomentar el emprendedurismo y la cultura empresarial en todos los sectores productivos, a fin de elevar el número y nivel competitivo de las empresas en el estado;
 
-II. Promover el desarrollo empresarial en las diversas regiones del Estado, para propiciar el crecimiento económico equilibrado y sustentable de los municipios;
+II. Promover el desarrollo empresarial en las diversas regiones del estado, para propiciar un crecimiento económico equilibrado y sustentable;
 
-III. Fortalecer los sectores económicos estratégicos y las micro, pequeña y mediana empresas, a través de esquemas de agrupamiento empresarial, formación de cadenas productivas y el establecimiento de mecanismos de abastecimiento con insumos y proveedores locales;
+III. Fortalecer los sectores económicos estratégicos y las micro, pequeñas y medianas empresas del estado, a través del establecimiento de esquemas de agrupamiento empresarial, de formación de cadenas productivas y de la implementación de mecanismos de abastecimiento con insumos y proveedores locales;
 
-IV. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+IV. Promover y difundir los programas que en materia de asistencia técnica ofrece la secretaría, para apoyar la definición de modelos de negocio y el crecimiento, la consolidación y la modernización administrativa de las empresas, a efecto de elevar la calidad y productividad de estas, y facilitar así su acceso y permanencia en los mercados nacional y extranjero;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+V. Gestionar ante los Gobiernos federal y municipales, y ante las instituciones de crédito, apoyos en materia administrativa que permitan impulsar el crecimiento empresarial en el estado;
 
-V. Promover y difundir los programas que en materia de asistencia técnica ofrece esta Secretaría para apoyar la definición de modelos de negocio, el crecimiento, la consolidación de las empresas y su modernización administrativa, para elevar la calidad y productividad en las empresas o unidades económicas, y facilitar así su acceso y permanencia en los mercados nacional y extranjero;
+VI. Promover la generación de fuentes de empleo y la apertura y consolidación de empresas en el estado;
 
-VI. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+VII. Impulsar la efectiva participación de los sectores privado y social en la planeación y ejecución de las políticas en materia de fomento y desarrollo económico;
 
-VII. Gestionar ante los gobiernos, federal y municipales y ante las instituciones de crédito, apoyos en materia administrativa para que los inversionistas instalen empresas en el Estado;
+VIII. Proponer al secretario la constitución o modificación de fondos y fideicomisos para el desarrollo empresarial y económico del estado, y
 
-VIII. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+IX. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
-IX. Promover la generación de fuentes de empleo y la consolidación de las empresas establecidas en el Estado;
-
-X. Impulsar la participación efectiva de los sectores privado y social en la planeación, ejecución y revisión de las políticas orientadas al fomento y desarrollo económico;
-
-XI. (DEROGADA, D.O. 1 DE ENERO DE 2013)
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XII. Proponer al Secretario la constitución o modificación de los fondos y fideicomisos a cargo de esta Secretaría;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XIII. Fomentar la creación y consolidación de incubadoras de negocios en el Estado y el trabajo coordinado entre éstas, y
-
-XIV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 477.
 
-El Director de Asistencia Técnica y Vinculación Estatal tendrá las siguientes facultades y obligaciones:
+El Director de Financiamiento tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Proponer y, en su caso, implementar programas y acciones en materia de financiamiento;
 
-I. Proponer políticas, programas y estrategias para el fomento y desarrollo, en materia de asistencia técnica, de vinculación estatal, en especial a los sectores educativos y productivos;
+II. Gestionar la captación de recursos provenientes de los Gobiernos federal, estatales y municipales, así como de entidades financieras y no financieras, y acreditar su ejercicio y destino;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+III. Promover y difundir las fuentes y programas de financiamiento que ofrece la secretaría;
 
-II. Coadyuvar en la promoción y difusión de los programas que en materia de asistencia técnica ofrece esta Secretaría para apoyar a la definición de modelos de negocio, el crecimiento, la consolidación de las empresas y su modernización administrativa, para elevar la calidad y productividad en las empresas o unidades económicas;
+IV. Evaluar y dictaminar las solicitudes de apoyo financiero;
 
-III. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+V. Coordinar la integración de los expedientes de apoyos financieros que serán presentados ante el comité técnico del fondo de financiamiento correspondiente;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VI. Evaluar la aplicación de los apoyos financieros otorgados;
 
-IV. Determinar las necesidades de asistencia técnica de los sectores productivos del Estado;
+VII. Resguardar la información de los expedientes de los apoyos financieros otorgados hasta su liquidación;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VIII. Vigilar la recuperación de la cartera vencida de los apoyos financieros otorgados, identificándola por tipo de fondo de financiamiento, y ejercer acciones de cobranza extrajudicial hasta los noventa días después de vencimiento;
 
-V. Asesorar en el proceso de apertura de empresas en el Estado ante cualquier autoridad federal, estatal y municipal;
+IX. Elaborar y actualizar, en coordinación con la Dirección Jurídica, las reglas de operación de los apoyos financieros que otorgue la secretaría, y
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+X. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
-VI. Operar el padrón estatal de empresas en el Estado;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-VII. Atender a las micro regiones del Estado para detectar los factores que inhiben su desarrollo y canalizar los diversos asuntos a las áreas correspondientes de esta Secretaría para que los atiendan y les den el seguimiento conducente;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-VIII. Establecer vinculación efectiva de la cultura emprendedora entre los emprendedores con las incubadoras de negocios y los distintos apoyos creados para su consolidación en empresas;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-IX. Promover el conocimiento y acceso a los programas de apoyo al desarrollo empresarial que ofrece el Estado, a través de esta dependencia;
-
-X. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 478.
 
-(DEROGADO, D.O. 1 DE ENERO DE 2013)
+El Director de Vinculación Estatal tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+I. Proponer y, en su caso, implementar programas y acciones para fomentar la efectiva vinculación entre la secretaría y organizaciones de los sectores público, privado y social, así como la comunidad en general;
+
+II. Operar el padrón estatal de micro, pequeñas y medianas empresas en el estado;
+
+III. Atender a las micro regiones del estado para detectar los factores que inhiben su desarrollo y canalizar los diversos asuntos que se presenten a las áreas correspondientes de la secretaría, a efecto de que sean atendidos y se les dé el seguimiento necesario;
+
+IV. Desarrollar estrategias de vinculación y comercialización para las empresas locales;
+
+V. Vincular a las empresas locales con las incubadoras de negocios y los distintos apoyos creados para su consolidación;
+
+VI. Promover el conocimiento y acceso a los programas de apoyo para el desarrollo empresarial que ofrece el Gobierno del estado, a través de la secretaría, y
+
+VII. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 479.
 
-El Director de Financiamiento y Cultura Emprendedora, tendrá las siguientes facultades y obligaciones:
+El Director de Asistencia Técnica y Apoyo a la Mujer Empresaria tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Proponer y, en su caso, implementar programas y acciones en materia de asistencia técnica, especialmente, para las mujeres empresarias del estado;
 
-I. Proponer planes, políticas, programas y estrategias en materia de financiamiento y de cultura emprendedora;
+II. Identificar las necesidades de las mujeres empresarias del estado y proponer acciones y medidas para su atención, a efecto de propiciar su crecimiento y desarrollo;
 
-II. Gestionar la captación de recursos provenientes de los gobiernos federal, estatal, municipal, de entidades financieras y no financieras, y acreditar su ejercicio y destino;
+III. Coordinarse con las agrupaciones de mujeres empresarias para su consolidación y desarrollo;
 
-III. Promover y difundir las fuentes y programas de financiamiento que ofrece esta Secretaría;
+IV. Brindar asesoría sobre el proceso de apertura y operación de empresas en el estado ante cualquier autoridad federal, estatal o municipal;
 
-IV. Evaluar y dictaminar las solicitudes de crédito;
+V. Promover, realizar y coordinar asistencia técnica, capacitación, foros y seminarios en materia de negocios dirigidos a las empresas yucatecas, y
 
-V. Coordinar la integración de los expedientes crediticios que serán presentados ante el Comité Técnico del Fondo de Financiamiento correspondiente;
+VI. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
-VI. (DEROGADA, D.O. 1 DE ENERO DE 2013)
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-VII. Evaluar la aplicación de los créditos otorgados;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-VIII. Resguardar la información de los expedientes crediticios hasta su liquidación;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-IX. Coordinar la recuperación de la cartera de los créditos otorgados, identificándola por tipo de fondo de financiamiento;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-X. Fomentar la creación y consolidación de incubadoras de negocios en el Estado y el trabajo coordinado entre éstas;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XI. Coadyuvar a la vinculación de la cultura emprendedora entre los emprendedores con las incubadoras de negocios, y
-
-XII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 480.
 
 El Director General de Fomento a la Inversión y Comercio tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+I. Implementar programas y acciones de difusión y promoción que propicien la atracción de inversiones para el estado y el desarrollo de su actividad comercial, tanto a nivel nacional como internacional;
 
-I. Promover al Estado en el ámbito regional, nacional e internacional a través de programas permanentes de promoción, con objeto de que los inversionistas conozcan las ventajas competitivas que ofrece el Estado de Yucatán y la capacidad de sus recursos humanos;
+II. Coadyuvar en la gestión de recursos para facilitar la instalación de empresas en el estado, y vigilar su correcta aplicación;
 
-II. Seleccionar personas y lugares adecuados para promover las diversas áreas de la actividad económica en el Estado;
+III. Brindar apoyo y asesoría técnica en materia de comercio exterior, principalmente, a los inversionistas que pretendan instalar empresas en el estado;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+IV. Apoyar en la comercialización de los bienes y servicios producidos en el estado, a través de la implementación de los programas y las acciones de su competencia;
 
-III. Coadyuvar en la gestión de apoyos e incentivos para facilitar la instalación de nuevas empresas en el Estado;
+V. Propiciar el desarrollo de las condiciones económicas del estado, principalmente de infraestructura, que propicien la atracción de inversiones para el estado;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+VI. Fomentar el desarrollo de programas y acciones sobre comercio y atracción de inversiones, en coordinación con los Gobiernos federal, estatales y municipales;
 
-IV. Asesorar en materia de Comercio Exterior a los inversionistas que pretendan instalar empresas en el Estado;
+VII. Proporcionar información cualitativa y cuantitativa, y asesoría técnica para facilitar el desarrollo de proyectos de inversión en beneficio del estado;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VIII. Colaborar, en el ámbito de su competencia, en la ejecución de proyectos de inversionistas locales, nacionales o extranjeros de los sectores comercial e industrial, y en la instalación de empresas factibles y convenientes para el desarrollo sustentable del estado;
 
-V. Coadyuvar en la comercialización de los bienes, productos y servicios producidos en el Estado, en los mercados local, regional, nacional e internacional, a través de los programas de su competencia;
+IX. Promover la instalación de empresas altamente productivas, especialmente, de aquellas que aporten un mayor valor agregado;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+X. Coordinar, en conjunto con las oficinas que representen al Gobierno del estado en otras entidades del país o en el extranjero, la atención de asuntos relacionados con el fomento a la inversión y el comercio;
 
-VI. Crear y fomentar las condiciones físicas y económicas adecuadas para la atracción de inversiones nacionales y extranjeras;
+XI. Establecer vínculos de coordinación y cooperación con organizaciones de los sectores público, privado y social, nacionales o internacionales, para fomentar la atracción de inversiones y el comercio, y
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XII. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
-VII. Impulsar y fomentar el desarrollo de unidades económicas en materia de comercio;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-VIII. Promover y realizar, en coordinación con los gobiernos federales, estatales y municipales, actividades en materia de comercio.
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-IX. Asesorar y dar apoyo a los inversionistas con la información, estudios, y estadísticas y publicaciones, que contribuyan a la elaboración y realización de proyectos de inversión;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-X. Promover la inversión para el desarrollo económico sustentable del Estado, de las empresas y para el crecimiento de los municipios;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XI. Promover, incentivar y fomentar el aprovechamiento adecuado de los recursos naturales de la entidad;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XII. Colaborar en la ejecución de proyectos de inversionistas locales, nacionales o extranjeros del sector comercial e industrial, y en la instalación de empresas factibles y convenientes para el desarrollo sustentable del Estado;
-
-XIII. Promover la instalación de empresas altamente productivas, especialmente aquellas que aporten un mayor valor agregado;
-
-XIV. Promover la simplificación regulatoria y administrativa para la instalación de empresas en el Estado, y
-
-XV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 481.
 
-El Director de Comercio tendrá las siguientes facultades y obligaciones:
+El Director de Promoción a la Inversión tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Proponer y, en su caso, implementar programas y acciones que permitan fomentar la atracción de inversiones para el estado;
 
-I. Proponer políticas, programas y estrategias relacionadas con el fomento y la promoción del comercio;
+II. Colaborar con los inversionistas en la gestión de apoyos provenientes de los Gobiernos federal, estatales o municipales que permitan la instalación o el desarrollo de empresas en el estado;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+III. Vincular a los inversionistas con organizaciones de los sectores productivos, empresariales y educativos del estado;
 
-II. Coordinar con las oficinas que representen al Gobierno del Estado en la República Mexicana o en el extranjero, la atención de asuntos relacionados con el comercio;
+IV. Coadyuvar en la atención de los asuntos relacionados con la atracción de inversiones que se efectúe en coordinación con las oficinas que representen al Gobierno del estado en otras entidades del país o en el extranjero;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+V. Apoyar al sector industrial del estado, a través de su promoción y participación en eventos nacionales e internacionales;
 
-III. Vincular al Estado con organizaciones y asociaciones de comercio exterior, nacionales y del extranjero, así como con embajadas, consulados y otros organismos internacionales;
+VI. Elaborar instrumentos de difusión y promoción que contengan información derivada de los estudios y análisis con que cuente la secretaría;
 
-IV. Coordinar los asuntos de comercio internacional con los diversos sectores de la sociedad, dependencias y entidades estatales y municipales;
+VII. Integrar datos que permitan disponer de información confiable en materia industrial, comercial, logística, tecnológica, de comercialización, sobre la disponibilidad de infraestructura y acerca de las ventajas de capital que ofrezca el estado, y
 
-V. Vincular a los institutos, universidades e incubadoras de negocios, para el fomento y desarrollo de la cultura exportadora en Yucatán;
+VIII. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-VI. Promover, realizar y coordinar foros, seminarios en materia de comercio internacional, dirigidos a las empresas yucatecas, para difundir la cultura de la exportación;
-
-VII. Coadyuvar a la difusión de programas de asesoría para el desarrollo de productos innovadores con calidad de exportación;
-
-VIII. Promover y difundir programas de asesoría al sector empresarial en el proceso de exportación;
-
-IX. Apoyar a las empresas yucatecas en la promoción de sus productos, mediante la participación en ferias y eventos internacionales, y
-
-X. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 482.
 
-El Director de Promoción a la Inversión tendrá las siguientes facultades y obligaciones:
+El Director de Comercio tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Proponer y, en su caso, implementar programas y acciones que permitan fomentar el comercio y la promoción del estado a nivel nacional e internacional;
 
-I. Proponer políticas, programas y estrategias en materia de promoción y fomento a la inversión en el Estado;
+II. Coadyuvar en la atención de los asuntos relacionados con el comercio que se efectúe en coordinación con las oficinas que representen al Gobierno del estado en otras entidades del país o en el extranjero;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+III. Apoyar en la atención de los asuntos relacionados con el comercio que involucren a los sectores público y privado;
 
-II. Colaborar en la gestión de apoyos a los inversionistas, en los requerimientos administrativos del gobierno federal, estatal o municipales, para la instalación o expansión de empresas en el Estado;
+IV. Vincular a particulares, institutos, universidades e incubadoras de negocios, para el fomento y desarrollo del comercio y de la cultura exportadora en el estado;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+V. Realizar y promover la celebración de seminarios, conferencias, foros y otros eventos en materia de comercio internacional, para fomentar la cultura de exportación en el estado;
 
-III. Vincular a los inversionistas con los sectores productivos, educativos y empresariales en el Estado;
+VI. Coadyuvar en la difusión de programas y acciones de asesoría para el desarrollo de productos innovadores y con calidad de exportación en el estado;
 
-IV. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+VII. Promover y difundir programas de asesoría dirigidos al sector empresarial relacionados con el proceso de exportación;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VIII. Brindar apoyo a las empresas yucatecas para su participación y la promoción de sus productos en ferias, exposiciones y otros eventos comerciales nacionales e internacionales, y
 
-V. Apoyar a la industria del Estado en su promoción, a través de la participación conjunta en eventos nacionales e internacionales;
+IX. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-VI. Integrar en herramientas promocionales, los estudios, estadística y análisis de los proyectos de inversión con los que cuente esta Secretaria;
-
-VII. (DEROGADA, D.O. 1 DE ENERO DE 2013)
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-VIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 483.
 
-El Director General de Planeación y Proyectos Estratégicos tendrá las siguientes facultades y obligaciones:
+El Director General de Planeación y Competitividad tendrá las siguientes facultades y obligaciones:
 
-I. Planear, organizar y coordinar la realización de foros de consulta ciudadana, acerca de temas relacionados con esta Secretaría;
+I. Elevar la competitividad económica del estado, a través de la planeación y evaluación de acciones que permitan el fortalecimiento del capital humano, el desarrollo de infraestructura y la ejecución de programas de apoyo para las empresas y de procedimientos administrativos que faciliten su apertura y funcionamiento;
 
-II. Contribuir al establecimiento de las bases para que el Estado cuente con un programa rector, que permita promover el desarrollo económico estatal y potencializar las vocaciones comerciales e industriales de sus diversas regiones;
+II. Participar en la elaboración del programa sectorial de desarrollo económico y vigilar que se ajuste y contribuya al cumplimiento de los objetivos definidos en la materia en el Plan Estatal de Desarrollo;
 
-III. Coadyuvar a la regulación de los servicios regionales del sector, de conformidad con el Plan Estatal de Desarrollo, bajo criterios de eficiencia, productividad y optimización del gasto público para brindar una mayor calidad en los servicios que se ofrecen a la población;
+III. Coadyuvar en la regulación de los servicios regionales del sector, de conformidad con el Plan Estatal de Desarrollo y los criterios de eficiencia, para elevar su calidad en beneficio de la población;
 
-IV. Estimular y apoyar la ejecución de los proyectos de inversión, mediante la realización de estudios que permitan disponer de información confiable en materia industrial, comercial, logística, tecnológica, de comercialización, sobre la disponibilidad de infraestructura y acerca de las ventajas de capital que ofrezca el Estado;
+IV. Dirigir la implementación de estrategias, programas, proyectos y acciones que permitan el desarrollo de la productividad, la competitividad, la innovación y las tecnologías de la información, para el fortalecimiento de los sectores económicos del estado;
 
-V. Formular, evaluar e identificar estudios y proyectos económicos estratégicos y darles seguimiento;
+V. Impulsar la elaboración de estudios e investigaciones que permitan identificar las causas que inhiben el desarrollo y la competitividad económica estatal, regional o municipal, así como efectuar propuestas para su atención;
 
-VI. Coordinar la investigación de proyectos potenciales de inversión y desarrollo para las diferentes regiones del Estado;
+VI. Participar en el desarrollo de sistemas de información estadística y análisis económico que sean de interés para el estado;
 
-VII. Identificar la infraestructura disponible, potencial y faltante, y localizar los factores que inhiben la competitividad municipal y regional;
+VII. Impulsar el fortalecimiento de la mejora regulatoria, el desarrollo de las tecnologías de la información y la digitalización de la Administración Pública estatal como estrategias encaminadas a fomentar y facilitar la apertura y el funcionamiento de empresas en la entidad;
 
-VIII. Participar en la operación de sistemas de información estadística y análisis económico de interés para el Estado;
+VIII. Coordinar la evaluación del desempeño de las unidades administrativas de la secretaría, para contribuir al cumplimiento de los objetivos y las metas definidos en el Plan Estatal de Desarrollo, los programas de mediano plazo, los programas presupuestarios y los demás instrumentos de planeación aplicables, y proponer las medidas que estime pertinentes;
 
-IX. Colaborar en el desarrollo integral sustentable, equitativo, planificado, de largo plazo y sustentable, de las distintas regiones y actividades productivas;
+IX. Proporcionar a las dependencias y entidades de la Administración Pública estatal la información referente a las actividades que competen a la secretaría, y
 
-X. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
+X. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XI. Participar en la planeación estratégica, de políticas y acciones de fomento y desarrollo económico, con la participación del Consejo Consultivo para el Desarrollo Económico de Yucatán; de conformidad con los planes federal, regional, estatal y municipal, así como de los ordenamientos jurídicos en la materia y los acuerdos internacionales;
-
-XII. Vincular a esta Secretaría con otras dependencias encargadas del desarrollo económico estatal en la República Mexicana, con el fin de lograr la posibilidad de trazar proyectos interestatales, para facilitar su promoción a nivel federal en caso de ser estados vecinos y en caso de ser distantes, conocer, reconocer y aprovechar experiencias de éxito, para una aplicación local con visión global que impulse el desarrollo y la innovación tecnológica;
-
-XIII. Identificar y sugerir la aplicación de proyectos internacionales de éxito, como detonantes del fomento y desarrollo económico para el Estado;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XIV. Coadyuvar en el desarrollo de la competitividad como eje para el fomento económico, e impulsar la innovación en los proyectos elaborados conjuntamente con organismos empresariales, el sector académico y el sector científico;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 1 DE ENERO DE 2013)</small>
-
-XV. Establecer vinculación efectiva entre empresas, instituciones educativas y centros de investigación, a fin de orientar sus esfuerzos hacia las necesidades reales de las empresas, sectores y encadenamientos productivos;
-
-XVI. Coordinar la evaluación de las acciones y actividades de las áreas de esta Secretaría, con objeto de procurar la consecución de las metas y objetivos establecidos en los programas operativos anuales y en los planes y programas rectores vigentes;
-
-XVII. Proporcionar a las dependencias y entidades de la Administración Pública y a la ciudadanía, información referente a las actividades que competen a esta Secretaría;
-
-XVIII. (DEROGADA, D.O. 1 DE ENERO DE 2013)
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XIX. Vincular de manera efectiva a los sectores académico y científico con el productivo del Estado;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XX. Promover la economía basada en el conocimiento en el sector empresarial del Estado;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XXI. Dirigir las acciones que permitan el desarrollo de los sectores estratégicos del estado, y
-
-XXII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 484.
 
-El Director de Planeación y Análisis Económicos tendrá las siguientes facultades y obligaciones:
+El Director de Planeación y Análisis Económico tendrá las siguientes facultades y obligaciones:
 
-I. Coadyuvar en la planeación, organización y coordinación de la realización de los diversos foros de consulta ciudadana que realice esta Secretaría;
+I. Brindar apoyo y asesoría técnica en la elaboración del programa sectorial de desarrollo económico y de los demás instrumentos de planeación que requiera la secretaría para su adecuado funcionamiento;
 
-II. Colaborar al establecimiento de las bases para que el Estado cuente con un programa Rector, el cual permita promover el desarrollo económico estatal y potencializar las vocaciones comerciales e industriales de las diversas regiones;
+II. Verificar la adecuada elaboración de estudios e investigaciones que permitan identificar las causas que inhiben el desarrollo y la competitividad económica estatal, regional o municipal, así como efectuar propuestas para su atención;
 
-III. Coadyuvar a la formulación, evaluación e identificación de estudios y proyectos económicos estratégicos y darles seguimiento;
+III. Participar en la definición de políticas, estrategias y acciones en materia económica, y vigilar que contribuyan al cumplimiento de los objetivos y las metas correspondientes, y que se ajusten a las disposiciones legales y normativas aplicables;
 
-IV. Auxiliar en la identificación de la infraestructura disponible, potencial y faltante por región, y localizar los factores que inhiben la competitividad municipal y regional;
+IV. Apoyar a las unidades administrativas de la secretaría en la integración y el análisis de la información que les corresponda con respecto a los instrumentos de planeación, los programas presupuestarios, los informes trimestrales, el informe de gobierno, la cuenta pública y los demás reportes que les sean solicitados;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+V. Integrar, mantener actualizados y difundir los indicadores y la información que permitan conocer el contexto económico del estado;
 
-V. Participar en la planeación estratégica, de políticas y acciones de fomento y desarrollo económico, con la participación del Consejo Consultivo para el Desarrollo Económico de Yucatán; de conformidad con los planes federal, regional, estatal y municipal, así como de los ordenamientos jurídicos en la materia y los acuerdos internacionales;
+VI. Coordinar la elaboración y actualización de los programas presupuestarios y las unidades básicas de presupuestación de la secretaría;
 
-VI. Contribuir al establecimiento de un marco regulatorio que sustente, garantice y facilite la inversión productiva en las diversas fases;
+VII. Vigilar que el desempeño de la secretaría contribuya al cumplimiento de los objetivos y las metas definidos en el Plan Estatal de Desarrollo, los programas de mediano plazo, los programas presupuestarios y los demás instrumentos de planeación aplicables;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+VIII. Integrar la información de la secretaría para la elaboración de los informes trimestrales, el informe de gobierno, la cuenta pública y los demás reportes que le sean solicitados, y
 
-VII. Apoyar a las diversas direcciones de esta Secretaría respecto a la información estadística y económica, la relativa a la cuenta pública, informes trimestrales y los Programas Operativos Anuales, así como diseñar los reportes ejecutivos que le sean solicitados;
+IX. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
-VIII. Recopilar e integrar los datos para la elaboración de los proyectos y programas de esta Secretaría, así como de los informes de actividades que rinde la misma, que permitan evaluar periódicamente las actividades realizadas;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-IX. Recopilar, elaborar, mantener y difundir de manera interna y externa, la base de datos sobre los principales indicadores económicos en los ámbitos municipal, estatal, regional, nacional e internacional;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-X. Dar atención al público y responder las solicitudes oficiales que requieran información económica del Estado, así como de las actividades de esta Secretaría y de las dependencias relacionadas con la materia económica
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XI. Generar indicadores detallados del comercio exterior del Estado de Yucatán, que incluyan los referentes a exportaciones, importaciones y aquéllas que sean de interés para el sector empresarial y al público en general
-
-XII. Coordinar al personal de esta Secretaría en la elaboración, corrección y validación de los Programas Operativos Anuales, como parte del proceso anual de planeación y presupuestación;
-
-XIII. Evaluar las acciones y actividades de las áreas de esta Secretaría, con objeto de procurar la consecución de las metas y objetivos establecidos en los programas operativos anuales y en los planes y programas rectores vigentes;
-
-XIV. Integrar la información que esta Secretaría necesita proporcionar anualmente al Titular del Poder Ejecutivo para el informe que guarda la administración pública del Estado;
-
-XV. Integrar la información económica que será utilizada en el Plan Estatal de Desarrollo;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XVI. Monitorear y evaluar anualmente las labores de esta Secretaría para verificar que se hubieran realizado de acuerdo al Plan Estatal de Desarrollo;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XVII. Coadyuvar en la planeación y operación de los sistemas de información estadística y de análisis económico que sean de interés para el Estado;
-
-XVIII. (DEROGADA, D.O. 1 DE ENERO DE 2013)
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XIX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 484 Bis.
 
-El Director de Innovación y Proyectos Estratégicos tendrá las siguientes facultades y obligaciones:
+El Director de Competitividad tendrá las siguientes facultades y obligaciones:
 
-I. Coordinar las acciones que permitan el desarrollo de los sectores estratégicos del Estado;
+I. Proponer y, en su caso, implementar los programas y las acciones que permitan incrementar la competitividad económica del estado;
 
-II. Coordinar los proyectos y programas de los sectores estratégicos del Estado;
+II. Efectuar propuestas para fortalecer el capital humano, la infraestructura o los procesos administrativos a cargo de la secretaría, de conformidad con las necesidades y la vocación de las regiones y los municipios del estado;
 
-III. Promover la economía basada en el conocimiento en el sector empresarial del Estado;
+III. Participar en el seguimiento y la evaluación de los proyectos públicos, especialmente, estratégicos, o, en su caso, privados que en materia económica se implementen en el estado;
 
-IV. Promover estrategias y los programas para la investigación, desarrollo e innovación con el objeto de elevar la competitividad en las empresas del Estado;
+IV. Apoyar en el desarrollo de proyectos y acciones de mejora regulatoria y de digitalización que promuevan la atracción de inversiones para el estado en sus diversas fases;
 
-V. Coordinar los proyectos y programas del sector estratégico tecnologías de la información, y
+V. Colaborar en la organización y el funcionamiento de sitios para abrir y operar empresas de manera ágil, y
 
-VI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+VI. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
 > <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL D.O. 21 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE DIECISIETE FRACCIONES.</small>
 
@@ -7809,21 +7639,33 @@ VI. Crear esquemas de financiamiento que satisfagan de forma eficiente y oportun
 
 VII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 485 Bis.
 
-El Director de Desarrollo Fiduciario tendrá las siguientes facultades y obligaciones:
+El Director de Desarrollo Financiero y Fiduciario tendrá las siguientes facultades y obligaciones:
+
+> <small>(ADICIONADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 I. Determinar la viabilidad financiera de los proyectos presentados por los diversos sectores sociales, privados y públicos, a fin de tramitar su financiamiento;
 
+> <small>(ADICIONADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 II. Realizar acciones para obtener recursos financieros de instituciones públicas y privadas, así como de organismos internacionales, enfocadas al apoyo y ejecución de los proyectos y programas que estén a cargo de la Secretaría;
+
+> <small>(ADICIONADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 III. Proporcionar la asesoría financiera que sea requerida internamente o por otras dependencias;
 
+> <small>(ADICIONADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 IV. Evaluar las alternativas existentes en el mercado financiero para canalizar apoyos a los sectores productivos, industriales, comerciales y de servicios del estado;
 
+> <small>(ADICIONADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 V. Ser responsable de las actividades relacionadas con la ingeniería financiera, y poseer información sobre los instrumentos y organismos del mercado financiero; proponer nuevos y mejorados esquemas financieros para la obtención de recursos que permitan la realización de los proyectos, y
+
+> <small>(ADICIONADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 VI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
@@ -7838,6 +7680,20 @@ I. Celebrar los convenios necesarios para dar validez a los proyectos presentado
 II. Llevar a cabo los trámites jurídicos que avalen la obtención de los recursos financieros de instituciones públicas y privadas, así como de organismos internacionales, enfocadas al apoyo y ejecución de los proyectos y programas a cargo de la Secretaría a través del fideicomiso "Fondo Yucatán", y
 
 III. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2018)</small>
+
+###### Artículo 485 Quater.
+
+El Director General de Promoción de Yucatán en la República de Cuba y el Caribe tendrá las siguientes facultades y obligaciones:
+
+I. Representar al Titular de esta secretaría en eventos y actividades vinculadas a los sectores productivos y sociales del estado de Yucatán en la República de Cuba y el Caribe;
+
+II. Fungir como enlace de esta secretaría y de las entidades paraestatales del estado con los organismos internacionales de la República de Cuba y el Caribe, para el intercambio de vínculos comerciales;
+
+III. Asesorar a los interesados que soliciten asistencia para el desarrollo de actividades de promoción y comercialización entre la República de Cuba y el Caribe, y el estado de Yucatán, y
+
+IV. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
@@ -7913,9 +7769,9 @@ XVI. Las demás que le otorguen este Reglamento y otras disposiciones normativas
 
 El Director Jurídico tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2018)</small>
 
-I. Procurar y llevar al cabo las gestiones de cobranza por la vía judicial y extrajudicial de los créditos o financiamientos que se otorguen a los sujetos de apoyo de los programas y fondos constituidos, administrados u operados por esta Secretaría, así como aceptar, en caso necesario, los pagos de dichos créditos, ya sea en numerario o en especie y turnarlos al área correspondiente;
+I. Procurar y llevar al (sic) cabo las gestiones de cobranza por la vía judicial de los créditos o financiamientos que se otorguen a los sujetos de apoyo de los programas y fondos constituidos, administrados u operados por esta secretaría;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
@@ -7925,9 +7781,7 @@ II. Atender las solicitudes, consultas y cuestionamientos que formulen los inter
 
 III. Coordinar los asuntos jurídicos correspondientes a las unidades administrativas de esta Secretaría con las demás dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-IV. Dictaminar sobre las bajas y sanciones que proceda aplicar al personal de esta Secretaría;
+IV. (DEROGADA, D.O. 17 DE AGOSTO DE 2018)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
@@ -7949,17 +7803,13 @@ VIII. Contribuir al establecimiento de un marco regulatorio que sustente, garant
 
 IX. Proponer al titular de la Secretaría, la celebración de convenios en el ámbito de su competencia, para el mejor ejercicio de sus atribuciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-X. Coadyuvar dentro de la competencia de esta Secretaría, en la instrumentación de la simplificación administrativa a través de la digitalización de la administración estatal;
+X. (DEROGADA, D.O. 17 DE AGOSTO DE 2018)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 XI. Coadyuvar en los asuntos de índole jurídica con las unidades administrativas de esta Secretaría, en la planeación o implementación de estrategias o planes para el desarrollo económico del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-XII. Coadyuvar en el proceso de apertura de empresas en el Estado ante cualquier autoridad federal, estatal y municipal en el ámbito de su competencia, y
+XII. (DEROGADA, D.O. 17 DE AGOSTO DE 2018)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
@@ -13314,3 +13164,11 @@ D.O. 22 DE JUNIO DE 2018.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado con excepción de lo dispuesto en el artículo 3 Ter.
+
+D.O. 17 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 640/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE FOMENTO ECONÓMICO”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
