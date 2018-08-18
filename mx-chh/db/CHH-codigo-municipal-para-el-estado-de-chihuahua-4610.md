@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2018-06-23"
+last_updated: "2018-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -187,9 +187,9 @@ XVII.- CUSIHUIRIACHI, con cabecera en el pueblo del mismo nombre, y las Seccione
 
 XVIII.- CHIHUAHUA, con cabecera en la capital del Estado y las Secciones Municipales de Ciénega de Ortiz, Colonia Soto, El Charco, Guadalupe y El Sauz;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2018)</small>
 
-XIX.- CHÍNIPAS, con cabecera en el pueblo de Chínipas de Almada y las secciones municipales de Guadalupe Victoria, Ignacio Valenzuela Lagarda, Norogachi y Milpillas;
+XIX.- CHÍNIPAS, con cabecera en el pueblo de Chínipas de Almada y las secciones municipales de Guadalupe Victoria, Ignacio Valenzuela Lagarda, Norogachi, Milpillas y Palmarejo;
 
 XX.- DELICIAS, con cabecera en la ciudad del mismo nombre.
 
@@ -719,9 +719,9 @@ XXXV.- En general, promover en la esfera administrativa, todo aquello que fuere 
 
 XXXVI.- Los Ayuntamientos podrán solicitar la comparecencia de cualquier funcionario de la Administración Pública Municipal, cuando se discuta algún asunto de la competencia del compareciente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2018)</small>
 
-XXXVII.- Establecer un sistema permanente de capacitación a los servidores de las diversas dependencias municipales a las que se refiere el artículo 60 de este Código; y
+XXXVII.- Implementar, en coordinación con las dependencias federales y estatales competentes, un Sistema de Profesionalización y Capacitación del Servicio Público Municipal, mediante modelos de formación continua de los servidores públicos municipales y de certificación de competencias laborales para los titulares de las diversas dependencias municipales a las que se refiere el último párrafo del artículo 60 de este Código; dicha certificación deberá ser expedida por instituciones reconocidas en el Sistema Nacional de Competencias, en los términos que establezca la Ley.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2001)</small>
 
@@ -1203,15 +1203,11 @@ Los Regidores Seccionales, se dividirán con el Presidente Seccional, las funcio
 
 Los Comisarios de Policía, son los encargados del orden y la vigilancia en sus respectivas comisarías. Desempeñarán en su jurisdicción las atribuciones conferidas a las demás autoridades municipales, quedando a ellas plenamente subordinados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 44.
 
 Los miembros de las juntas municipales serán electos en escrutinio secreto por mayoría de votos, fijándose las bases para su celebración en la convocatoria que para tal efecto expida el Ayuntamiento cuando menos con quince días de anticipación al de la elección. Los comisarios de policía serán electos en plebiscitos por mayoría de votos. Los miembros de las juntas municipales y los comisarios de policía podrán ser removidos cuando así lo solicite más de la mitad de los ciudadanos de la correspondiente sección municipal o comisaría. Las elecciones se verificarán bajo las siguientes bases:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
@@ -1476,6 +1472,10 @@ Los Ayuntamientos expedirán oportunamente las cartas y manuales de organizació
 > <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 Los empleados y servidores públicos municipales en general, están obligados a participar en los cursos y procesos de capacitación a que sean convocados por la Administración Municipal. La administración municipal a través de la Oficialía Mayor elaborará los programas, esquemas, manuales y demás instrumentos necesarios para impartir la capacitación y los esfuerzos de profesionalización.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2018)</small>
+
+Las personas titulares de la Secretaría, Tesorería, Oficialía Mayor y Dirección de Obras Públicas, están obligadas a participar en el Sistema de Profesionalización y Capacitación del Servicio Público Municipal, que instrumente el Ejecutivo del Estado por conducto de la dependencia competente, mediante modelos de formación continua, y a contar con una certificación de competencia laboral, expedida por una institución reconocida en el Sistema Nacional de Competencias. Dicha certificación deberá realizarse dentro de los seis meses siguientes de haber tomado posesión del cargo y deberá estar vigente durante el desempeño del mismo. En caso de incumplimiento, será causa de sanciones administrativas en los términos de la Ley General de Responsabilidades Administrativas.
 
 (ADICIONADO, P.O. 10 DE DICIEMBRE DE 2008) (F. DE E., P.O. 24 DE DICIEMBRE DE 2008)
 
@@ -3237,8 +3237,6 @@ Son objeto de derechos por servicios generales en los rastros municipales, toda 
 
 DERECHO POR SERVICIO DE ALUMBRADO PUBLICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 175.
@@ -3246,8 +3244,6 @@ DERECHO POR SERVICIO DE ALUMBRADO PUBLICO
 Es objeto de este derecho, el servicio de alumbrado público que el municipio presta en bienes de uso común, de los señalados en el artículo 105, fracción III, de este Código.
 
 Son sujetos de este derecho, los propietarios o poseedores de predios, ya sean urbanos, semiurbanos o rústicos, ubicados en el área territorial del municipio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
@@ -4864,6 +4860,26 @@ A partir de la entrada en vigor del presente Decreto, el diseño, ejecución, su
 P.O. 23 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO LXV/RFLYC/0771/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL CÓDIGO MUNICIPAL Y DE LA LEY ELECTORAL, TODOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/RFLYC/0844/2018 XV P.E, POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 35 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, 28 Y 60 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el titular del área administrativa de la Oficialía Mayor, la obligación de contar con la certificación de competencia laboral a que hace mención el último párrafo del artículo 60 del Código Municipal para el Estado, tendrá vigencia una vez que se haya emitido el estándar de certificación por la autoridad federal competente.
+
+P.O. 18 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0845/2018 XV P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 11, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
