@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-servicios-privados-de-seguridad-del-estado-de-305
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-26"
-last_updated: "2003-04-26"
+last_updated: "2018-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "ZAC"
 ---
 # REGLAMENTO DE SERVICIOS PRIVADOS DE SEGURIDAD DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO PARA EL REGISTRO Y REVALIDACIÓN DE EMPRESAS DE SEGURIDAD PRIVADA EN EL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 18 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE SERVICIOS PRIVADOS DE SEGURIDAD DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 26 de abril de 2003.
 
 DOCTOR RICARDO MONREAL AVILA, Gobernador del Estado de Zacatecas, en ejercicio de las facultades que me confieren los artículos 82 fracciones II, VI y XXXII de la Constitución Política del Estado; 2 y 7 de la Ley Orgánica de la Administración Pública del Estado, 5 fracción III, 6 fracción I, 8 fracciones IV y VII de la Ley de Seguridad Pública del Estado, y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Que en esa virtud, he tenido a bien expedir el siguiente:
 
@@ -615,7 +619,7 @@ VII. Los duplicados deberán contar con las firmas autógrafas de las personas q
 
 ###### Artículo 58.
 
-El Secretario Ejecutivo deberá integrar el expediente respectivo, otorgando al Prestador del Servicios el término de tres días hábiles para la aclaración del resultado de la verificación.
+El Secretario Ejecutivo deberá integrar el expediente respectivo, otorgando al Prestador del (sic) Servicios el término de tres días hábiles para la aclaración del resultado de la verificación.
 
 Concluido dicho término, dentro del expediente se harán constar las manifestaciones del Prestador de Servicios y se dará fe de los documentos que éste presente, o en su caso, la falta de ellos. A solicitud del Prestador de Servicio y por una sola vez, éste término podrá ampliarse hasta por un plazo de diez días hábiles más.
 
@@ -691,7 +695,7 @@ III. No contar con los permisos a que se refieren los artículos 6 y 18 fracció
 
 IV. Hacer caso omiso a la solicitud de colaboración de una Autoridad, en los términos del artículo 11 de este Reglamento;
 
-V. Realizar funciones reservadas a los cuerpos de seguridad publica y/o de las Fuerzas Armadas, según lo previene el artículo 48 Fracción I de este Reglamento;
+V. Realizar funciones reservadas a los cuerpos de seguridad pública y/o de las Fuerzas Armadas, según lo previene el artículo 48 Fracción I de este Reglamento;
 
 VI Incumplimiento de la sanción de suspensión temporal, si se continua con la prestación de servicios; y
 
@@ -749,7 +753,7 @@ I. La autoridad ante quien se interpone el recurso, que será el Secretario Ejec
 
 II. Nombre, denominación o razón social del recurrente, del representante legal y del representante común, en caso de que sean dos o más personas las recurrentes, así como el domicilio que señalan para oír y recibir notificaciones;
 
-III. Acto de autoridad que afecte su derecho o interés legitimo;
+III. Acto de autoridad que afecte su derecho o interés legítimo;
 
 IV. Expresar los agravios que le causa el acto que se impugna;
 
@@ -781,7 +785,7 @@ Una vez admitido el Recurso, el Secretario Ejecutivo dictará acuerdo citando a 
 
 La resolución que se dicte en el Recurso de Revocación podrá recurrirse ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios.
 
-TRANSITORlOS
+## TRANSITORIOS
 
 Artículo primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -802,3 +806,17 @@ DR. RICARDO MONREAL AVILA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMAS TORRES MERCADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA EL REGISTRO Y REVALIDACIÓN DE EMPRESAS DE SEGURIDAD PRIVADA EN EL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Para la solicitud de alta o baja del personal deberá llenar los formatos que expide el Centro Estatal de Información, dependiente del Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+TERCERO. Se abroga el Reglamento de Servicios Privados de Seguridad del Estado de Zacatecas, publicado en el Suplemento 34 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 26 de abril del 2003.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Reglamento.
