@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-ejercicio-profesional-en-el-estado-de-zacatecas-31965"
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-07"
-last_updated: "2013-03-23"
+last_updated: "2018-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EJERCICIO PROFESIONAL EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 7 de junio de 2003.
 
@@ -541,9 +541,11 @@ Cada colegio aprobará su respectivo código de ética profesional, ajustándose
 
 ### CAPÍTULO VI. DEL SERVICIO SOCIAL PROFESIONAL
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 62.
 
-El servicio social profesional voluntario consistirá en las actividades que se realicen de manera individual, con el propósito de brindar un beneficio social a la población, con el apoyo de la ciencia, la técnica y la cultura.
+El servicio social profesional obligatorio consistirá en las actividades que se realicen de manera individual, con el propósito de brindar un beneficio social a la población, con el apoyo de la ciencia, la técnica y la cultura.
 
 ###### Artículo 63.
 
@@ -562,6 +564,46 @@ En el mes de noviembre de cada año los colegios de profesionistas entregarán a
 ###### Artículo 66.
 
 La Secretaría extenderá la constancia a los profesionistas que hayan prestado el servicio social. También podrá otorgar reconocimiento honorífico a los colegios de profesionistas con motivo de la realización de programas de servicio social destacados. Dichas constancias podrán ser entregadas en un evento anual.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2018)</small>
+
+###### Artículo 66 Bis.
+
+El cumplimiento del servicio social estudiantil es obligatorio y constituye un requisito para obtener el título profesional, conforme a ello, las actividades que el educando desempeñe deberán preferentemente estar relacionadas con su perfil académico.
+
+Las personas mayores de 60 años quedan exceptuadas del cumplimiento de lo ordenado en el presente Capítulo, conforme a lo dispuesto en el reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2018)</small>
+
+###### Artículo 66 Ter.
+
+Para los efectos de esta Ley, se entiende por servicio social estudiantil el conjunto de actividades realizadas por estudiantes en beneficio de la sociedad y el Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2018)</small>
+
+###### Artículo 66 Quater.
+
+El servicio social estudiantil tendrá como objetivos fundamentales, los siguientes:
+
+I. Contribuir a la solución de necesidades de la sociedad y del Estado;
+
+II. Propiciar la vinculación de su disciplina con el campo profesional correspondiente;
+
+III. Fomentar en los estudiantes una conciencia de responsabilidad social, así como una actitud reflexiva, crítica y constructiva ante el entorno social, y
+
+IV. Propiciar el ingreso del estudiante al mercado laboral.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2018)</small>
+
+###### Artículo 66 Quinquies.
+
+El cumplimiento del servicio social de los estudiantes de las instituciones de educación superior se sujetará a sus planes y programas de estudio, normatividad institucional, objetivos señalados en esta Ley y otras disposiciones aplicables. Dichas instituciones diseñarán programas y modalidades del servicio social los cuales se registrarán en la Secretaria.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2018)</small>
+
+###### Artículo 66 Sexies.
+
+El servicio social de estudiantes de las instituciones de educación superior no podrá ser menor de cuatrocientas ochenta horas efectivas y no se computará el tiempo que, por enfermedad u otra causa grave, deba permanecer fuera del lugar en donde lo presta.
 
 ### CAPÍTULO VII. DEL ARBITRAJE EN MATERIA PROFESIONAL
 
@@ -736,3 +778,11 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 18 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 389.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS A LA LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE ZACATECA (SIC)".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
