@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2018-03-07"
+last_updated: "2018-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -1183,7 +1183,9 @@ IV. Recibir información completa sobre los riesgos de la operación y las conse
 
 V. Haber otorgado su consentimiento en forma expresa, en los términos de esta Ley, y
 
-VI. Tener parentesco por consanguinidad, por afinidad o civil o ser cónyuge, concubina o concubinario del receptor. Cuando se trate de trasplante de médula ósea o componente sanguíneo, no será necesario este requisito.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2018)</small>
+
+VI. Tener, de preferencia, parentesco por consanguinidad, por afinidad o civil con el receptor. No obstante, cuando no exista un donador relacionado por algún tipo de parentesco, las donaciones se realizarán una vez que se cumplan los requisitos previstos en el artículo 333, fracción VI, de la Ley General de Salud.
 
 ###### ARTÍCULO 110.
 
@@ -2356,3 +2358,11 @@ DADO en la Sala de Sesiones de la Honorable Legislatura del Estado, a los catorc
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los diecisiete días del mes de enero del año dos mil dieciocho. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 410.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
