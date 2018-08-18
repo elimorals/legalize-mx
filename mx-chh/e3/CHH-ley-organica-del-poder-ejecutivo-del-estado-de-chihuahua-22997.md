@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2018-06-30"
+last_updated: "2018-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2018.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -1515,11 +1515,17 @@ VI. Promover el desarrollo equilibrado de los municipios conurbados, impulsando 
 
 VII. Fomentar e impulsar la participación de los ayuntamientos en los programas que tienen al desarrollo de los mismos;
 
-VII (SIC). Promover la participación ciudadana de forma organizada que impulse el desarrollo comunitario para el cumplimiento de planes y programas de los Municipios;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2018)</small>
+
+VIII. Promover la participación ciudadana de forma organizada que impulse el desarrollo comunitario para el cumplimiento de planes y programas de los Municipios;
 
 IX. Elaborar e impartir cursos de capacitación dirigidos a los Presidentes Municipales electos y sus suplentes, a fin de que una vez que reciban la constancia que los acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad.
 
 Así mismo, dada la diversa naturaleza de la gestión de regidores y síndicos municipales, elaborar e impartir cursos de capacitación para éstos con los mismos requisitos y consecuencias que los citados en el párrafo anterior;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2018)</small>
+
+Instrumentar y desarrollar, en coordinación con las dependencias federales competentes y con Instituciones de Educación Superior, un Sistema de Profesionalización y Capacitación del Servicio Público Municipal, mediante modelos de formación continua de los servidores públicos municipales; y de certificación de las competencias laborales de los titulares de las diversas dependencias municipales a las que se refiere el último párrafo del artículo 60 del Código Municipal para el Estado, en los términos que establezca la Ley.
 
 X. Asesorar, impartir y organizar cursos y talleres de capacitación y actualización administrativa y jurídica para el desempeño de las funciones municipales, y
 
@@ -2899,7 +2905,7 @@ SEGUNDO.- Los Poderes Ejecutivo y Legislativo deberán integrar el Panel de Espe
 
 P.O. 30 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/EXLEY/0743/2018 P.O. LEY DE CENTROS DE CUIDADO INFANTIL DEL ESTADO DE CHIHUAHUA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/EXLEY/0743/2018 P.O. LEY DE CENTROS DE CUIDADO INFANTIL DEL ESTADO DE CHIHUAHUA”.]
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2914,3 +2920,15 @@ QUINTO.- El Comité Estatal y los Comités Municipales a que se refieren los art
 SEXTO.- El Programa Estatal de Supervisión contemplado en la presente Ley, deberá estar diseñado y en operación a más tardar dentro de los ciento ochenta días posteriores a que el presente Decreto entre en vigor.
 
 SÉPTIMO.- La Secretaría de Desarrollo Social y el DIF Estatal, deberán iniciar inmediatamente con las actividades tendientes a la integración del Registro Estatal previsto en esta Ley.
+
+P.O. 18 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/RFLYC/0844/2018 XV P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 35 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, 28 Y 60 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el titular del área administrativa de la Oficialía Mayor, la obligación de contar con la certificación de competencia laboral a que hace mención el último párrafo del artículo 60 del Código Municipal para el Estado, tendrá vigencia una vez que se haya emitido el estándar de certificación por la autoridad federal competente.
