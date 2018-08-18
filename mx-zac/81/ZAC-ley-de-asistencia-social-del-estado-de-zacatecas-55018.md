@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-asistencia-social-del-estado-de-zacatecas-55018"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-04"
-last_updated: "2018-02-24"
+last_updated: "2018-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril de 2007.
 
@@ -157,7 +157,11 @@ XIV. La colaboración y auxilio a las autoridades laborales competentes, en la v
 
 XV. El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de las personas menores de dieciocho años de edad a la satisfacción de sus necesidades y a la salud física y mental, y
 
-XVI. Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2018)</small>
+
+XVI. La atención integral a personas con trastornos mentales y del comportamiento, que no puedan por sí mismas satisfacer sus requerimientos básicos de subsistencia y se encuentren, o no, en estado de abandono.
+
+XVII. Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
 
 ###### Artículo 11.
 
@@ -1446,3 +1450,9 @@ P.O. 24 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 287.- SE REFORMAN DIVERSOS ORDENAMIENTOS, CON EL FIN DE ACTUALIZAR LA DENOMINACIÓN DE LA ENTIDAD RESPONSABLE DE LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL ESTADO DE ZACATECAS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 18 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 411.- SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS”.]
+
+Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
