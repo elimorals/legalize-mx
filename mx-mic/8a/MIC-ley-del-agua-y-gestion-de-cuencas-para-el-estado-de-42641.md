@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2016-12-29"
+last_updated: "2018-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -831,13 +831,17 @@ XII. Pagar oportunamente las contribuciones, derechos, aprovechamientos y produc
 
 XIII. Elaborar los programas y presupuestos anuales de ingresos y egresos derivados de la prestación de los servicios públicos;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2018)</small>
 
-XIV. Proponer al Congreso del Estado, a más tardar el treinta y uno de agosto del año anterior al que serán aplicadas, las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento, suministro o transportación de agua potable y manejo de lodos, de acuerdo con los costos reales del servicio. Las cuales deberán ser integradas en la Iniciativa de Ley de Ingresos del Municipio, para el ejercicio fiscal del año que se trate.
+XIV. Proponer al Congreso del Estado, a más tardar el veinte de septiembre del año anterior al que serán aplicadas, las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento, suministro o transportación de agua potable y manejo de lodos, de acuerdo con los costos reales del servicio. Las cuales deberán ser integradas en la Iniciativa de Ley de Ingresos del Municipio, para el ejercicio fiscal del año que se trate.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 Una vez publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, las cuotas y tarifas serán ampliamente difundidas en los estrados de las oficinas municipales y de los organismos operadores, también deberán difundirse en su caso, en otros medios que permita a los usuarios su conocimiento.
 
-En el caso de los Ayuntamientos que concluyen su periodo constitucional no presentaren la propuesta de cuotas y tarifas para el ejercicio fiscal siguiente, dentro del plazo a que se refiere el presente artículo, los Ayuntamientos que inicien su periodo constitucional deberán presentarlas para su aprobación ante el Congreso del Estado, en un plazo no mayor a treinta días naturales contados a partir de la toma de posesión.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+Cuando se trate del año en que termina su encargo la administración municipal se estará a lo dispuesto en lo conducente por el artículo 142 de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, según corresponda.
 
 XV. Ordenar y ejecutar la suspensión de los servicios públicos, cuando proceda;
 
@@ -2064,3 +2068,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 630 POR EL QUE “SE REFORMA EL ARTÍCULO 36 FRACCIÓN XIV PÁRRAFOS PRIMERO Y TERCERO DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, a los 112 Ayuntamientos del Estado y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y efectos conducentes.
