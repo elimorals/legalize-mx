@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2018-08-16"
+last_updated: "2018-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,6 +25,8 @@ state: "MOR"
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2018.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE AGOSTO DE 2018.]
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -716,15 +718,17 @@ La persona titular de dicho órgano interno de control será designado por el Co
 
 Los órganos internos de control estarán adscritos administrativamente a los entes de gobierno respectivos y mantendrán la coordinación necesaria con la Entidad Superior de Auditoría y Fiscalización.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2018)</small>
+(ADICIONADO, P.O. 16 DE AGOSTO DE 2018) (F. DE E., P.O. 20 DE AGOSTO DE 2018)
 
 ###### Artículo 23-D.
 
-Se crea el organismo público autónomo denominado Instituto de la Mujer para el Estado Libre y Soberano de Morelos con personalidad jurídica y patrimonio propio, capacidad para decidir sobre el ejercicio de su presupuesto responsable de garantizar y establecer las políticas y acciones que propicien y faciliten la plena incorporación de la mujer en la vida, económica, política, cultural y social del Estado de Morelos.
+Se crea el organismo público autónomo denominado Instituto de la Mujer para el Estado de Morelos con personalidad jurídica y patrimonio propio, capacidad para decidir sobre el ejercicio de su presupuesto responsable de garantizar y establecer las políticas y acciones que propicien y faciliten la plena incorporación de la mujer en la vida, económica, política, cultural y social del Estado de Morelos.
 
 La titular de dicho instituto será nombrada por el Congreso del Estado de Morelos, mediante el voto aprobatorio de las dos terceras partes de sus integrantes y durará en el cargo un periodo de tres años contados a partir de su designación, pudiendo ser ratificada por el propio Congreso solamente por un periodo igual.
 
-Para ser titular del Instituto de la Mujer del Estado de Morelos, se requiere:
+> <small>(F. DE E., P.O. 20 DE AGOSTO DE 2018)</small>
+
+Para ser titular del Instituto de la Mujer para el Estado de Morelos, se requiere:
 
 I.- Ser ciudadano morelense por nacimiento o por residencia.
 
@@ -5402,9 +5406,9 @@ QUINTA. El proceso de designación del Titular iniciará una vez que se haga la 
 
 P.O. 16 DE AGOSTO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL CUATROCIENTOS CUARENTA Y UNO.- POR EL QUE SE REFORMA EL ARTÍCULO 147 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS CUARENTA Y UNO.- POR EL QUE SE REFORMA EL ARTÍCULO 147 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
 
-PRIMERO. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+PRIMERO. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO. Las adiciones contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
 
