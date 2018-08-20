@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-de-la-universidad-politecnica-de-108683"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-15"
-last_updated: "2016-09-12"
+last_updated: "2018-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de junio de 2015.
 
@@ -33,7 +33,9 @@ ESTATUTO ORGÁNICO DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES
 
 La Junta Directiva, con fundamento en lo dispuesto por los artículos 6° Fracción IV, 14 Fracción XIV de la Ley de la Universidad Politécnica de Aguascalientes; 8° Segundo Párrafo y 41 fracciones VIII y X de la Ley para el Control de Entidades Paraestatales del Estado de Aguascalientes, y
 
-C O N S I D E R A N D O :…
+C O N S I D E R A N D O :
+
+[...]
 
 Es por lo cual, esta Junta Directiva acuerda:
 
@@ -47,103 +49,135 @@ ESTATUTO ORGÁNICO DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES
 
 El presente estatuto orgánico tiene por objeto establecer la estructura básica y las bases para la organización de la Universidad; atribuir las facultades y funciones que le corresponden a sus distintas áreas y que no estén previstas en la Ley, en la Ley para el Control de Entidades Paraestatales y en las demás disposiciones aplicables, e instituir a los demás órganos de la Universidad, para proveer a la exacta observancia de los artículos 6° Fracción IV, 14 fracciones VI y XIV de la Ley, y 8° Segundo Párrafo y 41 fracciones VIII y X de la Ley para el Control de Entidades Paraestatales.
 
-###### ARTÍCULO 2°.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
-La estructura básica de la Universidad se integrará por:
+###### ARTÍCULO 2º.
+
+Para el estudio, planeación y ejercicio de las atribuciones y funciones de los asuntos de su competencia, la Universidad Politécnica de Aguascalientes contará con la siguiente estructura orgánica:
+
+A. Son órganos colegiados de gobierno de la Universidad:
 
 I. La Junta Directiva;
 
-II. El Consejo Social;
+II. El Consejo Social; y
 
 III. El Consejo de Calidad;
 
-IV. El Comité de Rectoría;
+B. Son órganos colegiados de apoyo de la Universidad:
 
-V. El Consejo Académico;
+I. El Comité de Rectoría;
 
-VI. La Junta Académica;
+II. El Consejo Académico
 
-VII. El Rector;
+III. La Junta Académica; y
 
-VIII. El Secretario Académico;
+IV. Las comisiones, comités y consejos instituidos en las leyes, reglamentos, manuales y demás normas jurídicas aplicables a la Universidad;
 
-IX. El Secretario Administrativo;
+C. Son unidades administrativas de la Universidad:
 
-X. El Director de Planeación;
+I. El Rector;
 
-XI. El Director de Vinculación;
+II. El Secretario Académico;
 
-XII. El Director Jurídico;
+III. El Secretario Administrativo;
 
-XIII. El Director de Posgrado e Investigación;
+IV. El Director de Planeación;
 
-XIV. El Director de Estudios Profesionales;
+V. El Director de Vinculación;
 
-XV. El Director de Contabilidad;
+VI. El Director Jurídico;
 
-XVI. El Contralor Interno;
+VII. El Director de Posgrado e Investigación;
 
-XVII. Los directores de programa académico;
+VIII. El Director de Estudios Profesionales;
 
-XVIII. Los departamentos de:
+IX. El Director de Contabilidad;
 
-a. Servicios Escolares;
+X. Los Directores de programa académico;
 
-b. Recursos Humanos;
+XI. Los Jefes de los Departamentos de:
 
-c. Recursos Materiales;
+a) Servicios Escolares;
 
-d. Servicios Generales;
+b) Recursos Humanos;
 
-e. Control Presupuestal y Activos Fijos;
+c) Recursos Materiales;
 
-f. Ingresos;
+d) Servicios Generales;
 
-g. Egresos;
+e) Activos Fijos;
 
-h. Informática;
+f) Ingresos;
 
-i. Estadística;
+g) Egresos;
 
-j. Calidad Institucional;
+h) Informática;
 
-k. Ciencias Básicas;
+i) Estadística;
 
-l. Idiomas;
+j) Calidad Institucional;
 
-m. Formación Integral y Tutorías;
+k) Ciencias Básicas;
 
-n. Centro de Información;
+l) Idiomas;
 
-o. Laboratorio de Alta Tecnología;
+m) Formación Integral y Tutorías;
 
-p. Vinculación;
+n) Centro de Información;
 
-q. Incubadora;
+o) Laboratorio de Alta Tecnología;
 
-r. Actividades Deportivas y Culturales;
+p) Vinculación;
 
-s. Promoción y Difusión;
+q) Incubadora;
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+r) Actividades Deportivas y Culturales;
 
-t. Comunicación;
+s) Promoción y Difusión;
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+t) Comunicación;
 
-u. Bolsa de Trabajo y Seguimiento a Egresados; y
+u) Bolsa de Trabajo y Seguimiento a Egresados;
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+v) Superación Docente;
 
-v. Superación Docente.
+w) Relaciones Públicas; y
 
-XIX. Los profesores de tiempo completo y los de asignatura;
+x) Proyectos Empresariales.
 
-XX. El Comité Académico de Posgrado previsto en el Capítulo III del Reglamento de Estudios de Posgrado de la Universidad;
+XII. Los profesores de tiempo completo y los de asignatura;
 
-XXI. El Comité de Adquisiciones y Enajenaciones integrado de acuerdo a lo previsto por el Artículo 31 último párrafo de la Ley Patrimonial del Estado, y
+D. Son órganos de Control y Evaluación de la Universidad:
 
-XXII. Las comisiones: a. De Ingreso, Promoción y Permanencia de Personal Académico; b. Académica y de Evaluación, y c. De Financiamiento Educativo y Becas, cuya integración, atribuciones y funcionamiento prevén los reglamentos de Ingreso, Promoción y Permanencia de Personal Académico, de Alumnos y de Becas respectivamente.
+I. El Órgano de Vigilancia; y
+
+II. El Órgano Interno de Control:
+
+a) La Unidad Auditora;
+
+b) La Unidad Investigadora; y
+
+c) La Unidad Substanciadora y Resolutora.
+
+Cada unidad administrativa contará con el personal auxiliar que apruebe la Junta Directiva y que sea necesario para el buen desarrollo de las funciones que tenga atribuidas y para el despacho de sus asuntos de acuerdo a la disponibilidad presupuestal.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 2º BIS.- Para los efectos del presente Estatuto Orgánico se entenderá por:
+
+I. Estatuto Orgánico: El Estatuto Orgánico de la Universidad Politécnica de Aguascalientes;
+
+II. Ley: La Ley de la Universidad Politécnica de Aguascalientes;
+
+III. Ley para el Control de las Entidades Paraestatales: La Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
+
+IV. Universidad: La Universidad Politécnica de Aguascalientes;
+
+V. Unidad Auditora: La encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno;
+
+VI. Unidad Investigadora: La encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y
+
+VII. Unidad Substanciadora y Resolutora: La encargada de dirigir y conducir los procedimientos de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso, en términos de lo establecido por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ###### ARTÍCULO 3°.
 
@@ -207,9 +241,11 @@ XIV. Proveer a la presentación oportuna de los informes y declaraciones previst
 
 XV. Coordinar sus actividades con los titulares de las demás secretarías o direcciones de la Universidad para el mejor desempeño de sus funciones.
 
-###### ARTÍCULO 7°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2018)</small>
 
-El Rector tendrá las siguientes atribuciones:
+###### ARTÍCULO 7º.
+
+El Rector, además de las facultades que le atribuyen la Ley, la Ley para el Control de las Entidades Paraestatales y las demás normas jurídicas aplicables, tendrá las siguientes:
 
 I. Ejercer la dirección general de la Universidad;
 
@@ -231,9 +267,25 @@ IX. Nombrar y remover a los funcionarios de la Universidad, cuyo nombramiento y 
 
 X. Conceder discrecionalmente moratorias para el pago de las cuotas escolares de los estudiantes que demuestren contar con una situación económica precaria eventual; resolver en la esfera administrativa las controversias sobre la causación, generación, determinación, montos, periodos y plazos de pagos de las cuotas escolares; validar la justificación de causas que impidan ocasionalmente el otorgamiento de las becas que están a cargo del Comité de Financiamiento Educativo y Becas, y condonar las cantidades adeudadas por concepto de productos y aprovechamientos;
 
-XI. Autorizar la realización de visitas a empresas o a otras instituciones, la participación en eventos foráneos, los viajes de estudio, la organización de eventos a realizarse dentro de la Institución y los que se realicen fuera del campus pero a nombre, por cuenta o involucrando a la Universidad; los intercambios académicos y estudiantiles, y el otorgamiento de los apoyos financieros para la realización de los anteriores; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
-XII. Resolver las controversias concretas planteadas por los alumnos, estudiantes o egresados sobre asuntos académicos, académico-administrativo, administrativos o sobre los proyectos y programas de la Universidad.
+XI. Autorizar la realización de visitas a empresas o a otras instituciones, la participación en eventos foráneos, los viajes de estudio, la organización de eventos a realizarse dentro de la Institución y los que se realicen fuera del campus pero a nombre, por cuenta o involucrando a la Universidad; los intercambios académicos y estudiantiles, y el otorgamiento de los apoyos financieros para la realización de los anteriores;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XII. Resolver las controversias concretas planteadas por los alumnos, estudiantes o egresados sobre asuntos académicos, académico-administrativo, administrativos o sobre los proyectos y programas de la Universidad;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XIII. Llevar a cabo las acciones necesarias a fin de que las funciones del Órgano de Vigilancia y del Órgano Interno de Control del (sic) de la Universidad, se realicen de acuerdo con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XIV. Rendir ante la Junta Directiva, los informes trimestrales que le presenten la Unidad Auditora, Unidad Investigadora y la Unidad Substanciadora y Resolutora del Órgano Interno de Control, con apego a los principios de transparencia y rendición de cuentas y cuidando en todo momento la protección de los datos personales; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XV. Todas aquellas que le sean encomendadas por la Junta Directiva y demás disposiciones legales aplicables.
 
 El Rector podrá emitir acuerdo delegatorio de las facultades previstas en las fracciones II, XI y XII de este artículo, y II, IV y VI del artículo 25 de la ley de la Universidad, así como de las que la Ley para el Control de Entidades Paraestatales le atribuye y no declare como indelegables.
 
@@ -445,7 +497,9 @@ XI. Desarrollar las demás funciones inherentes al área de su competencia, así
 
 El Director de Contabilidad dependerá del Secretario Administrativo, y además de las funciones y atribuciones previstas en el artículo 6° del presente estatuto, tendrá las siguientes:
 
-I. Elaborar, registrar y controlar la contabilidad y las finanzas de la Universidad, de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+I. Elaborar, registrar y controlar la contabilidad presupuestal y las finanzas de la Universidad, de acuerdo a la normatividad aplicable;
 
 II. Auxiliar al Secretario Administrativo en la administración de los recursos financieros de la Universidad, en la realización de las operaciones correspondientes con las instituciones de crédito y las del sistema financiero, y en las operaciones que sean necesarias para la percepción de los ingresos que correspondan a la Universidad;
 
@@ -471,23 +525,7 @@ XII. Desarrollar las demás funciones inherentes al área de su competencia, as�
 
 ###### ARTÍCULO 17.
 
-El Contralor Interno dependerá del Rector y además de las funciones (sic) atribuciones previstas en el artículo 6° de este estatuto, le corresponderán las siguientes:
-
-I. Asesorar a los funcionarios y órganos colegiados, y auditar internamente los procesos de la Universidad en los asuntos de su competencia;
-
-II. Vigilar el cumplimiento de las disposiciones jurídicas aplicables a la Institución;
-
-III. Ordenar la verificación de auditorías sistemáticas;
-
-IV. Participar en los actos de entrega recepción de las unidades administrativas;
-
-V. Participar en el Comité de Adquisiciones y Enajenaciones;
-
-VI. Investigar el procedimiento y resolución de los expedientes de la responsabilidad administrativa de los servidores públicos;
-
-VII. Gestionar la aplicación de las sanciones correspondientes a que se hayan hecho acreedores los servidores públicos que incurran en faltas; y
-
-VIII. Previo acuerdo con el Rector, participar en las sesiones de la Junta Directiva.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2018)
 
 ###### ARTÍCULO 18.
 
@@ -589,19 +627,21 @@ III. Asegurar y supervisar el adecuado funcionamiento los sistemas eléctricos, 
 
 IV. Apoyar en la supervisión de la (sic) obras materiales en el campus
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 23.
 
-El jefe del departamento de Control Presupuestal y Activos Fijos dependerá del Secretario Administrativo y le corresponderán las siguientes funciones y atribuciones:
+El jefe del departamento de Activos Fijos dependerá del Director de Contabilidad y le corresponderán las siguientes funciones y atribuciones:
 
-I. Llevar el control presupuestal de la Universidad;
+I. (DEROGADA, P.O. 20 DE AGOSTO DE 2018)
 
-II. Coadyuvar con los secretarios y directores en la elaboración de los anteproyectos presupuestales de la Universidad, considerando la expectativa de las aportaciones de los gobiernos federal y estatal, y participar con el Secretario Administrativo en la formulación, operación y supervisión del proceso programático-presupuestal de la Universidad;
+II. (DEROGADA, P.O. 20 DE AGOSTO DE 2018)
 
-III. Proponer al Secretario Administrativo la distribución del presupuesto entre las distintas áreas de la Universidad;
+III. (DEROGADA, P.O. 20 DE AGOSTO DE 2018)
 
-IV. Participar en la integración y elaboración del anteproyecto de programa operativo anual de la Universidad, y evaluar su desarrollo, en el ámbito de su competencia;
+IV. (DEROGADA, P.O. 20 DE AGOSTO DE 2018)
 
-V. Registrar, evaluar y dar seguimiento el (sic) ejercicio presupuestal de la Universidad, y elaborar y consolidar periódicamente los informes presupuestales de la Universidad, de acuerdo a la normatividad aplicable;
+V. (DEROGADA, P.O. 20 DE AGOSTO DE 2018)
 
 VI. Llevar el inventario, el control y el aseguramiento de la debida custodia de los activos fijos de la Universidad;
 
@@ -825,7 +865,7 @@ II. Gestionar que el Laboratorio de Alta Tecnología cuente con las instalacione
 
 III. Coordinar al personal de laboratorios;
 
-IV. Promover y vigilar la adecuada realización de los eventos o proyectos académicos e institucionales organizados y, o desarrollados en el Laboratorio de Alta Tecnología o con el equipamiento del mismo, y bridar (sic) el soporte técnico o académico que se requiera;
+IV. Promover y vigilar la adecuada realización de los eventos o proyectos académicos e institucionales organizados y, o desarrollados en el Laboratorio de Alta Tecnología o con el equipamiento del mismo, y bridar el soporte técnico o académico que se requiera;
 
 V. Capacitar y asesorar a los profesores maestros y alumnos para la buena utilización del equipo del Laboratorio de Alta Tecnología;
 
@@ -939,9 +979,7 @@ VI. Promover el uso de servicio de bolsa de trabajo de la Universidad entre el p
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 39 Bis.
-
-El Jefe de Departamento de Superación Docente, dependerá del Secretario Académico y tendrá las siguientes funciones y atribuciones:
+ARTÍCULO 39 BIS.- El Jefe de Departamento de Superación Docente, dependerá del Secretario Académico y tendrá las siguientes funciones y atribuciones:
 
 I. Diseñar, organizar coordinar y supervisar las actividades relacionadas con el Programa de Formación y Actualización Docente;
 
@@ -963,6 +1001,42 @@ IX. Participar en la determinación de lineamientos de la evaluación y de compe
 
 X. Presentar reportes periódicos de las actividades desarrolladas a la Secretaría Académica, emitir constancias de asistencia a cursos, diseñar la metodología de evaluación de desempeño docente del profesorado, emitir dictámenes de competencias docentes, emitir reporte de evaluación docente y administrar el presupuesto para capacitación docente.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 39 TER.- El Jefe de Departamento de Relaciones Públicas dependerá del Director de Vinculación, y tendrá las siguientes funciones y atribuciones:
+
+I. Construir y mantener una imagen positiva de la Universidad entre los miembros de la comunidad universitaria y hacia el exterior de la misma;
+
+II. Generar un vínculo entre la Universidad y las diferentes instancias del sector privado, académico y gubernamental para integrar de manera positiva el trabajo en común;
+
+III. Coadyuvar en la organización, logística y protocolo de los distintos eventos de la Universidad y de los órganos colegiados que dependan de la Dirección de Vinculación, ejecutando planes y programas, a fin de divulgar las actividades institucionales;
+
+IV. Fungir como canal directo de comunicación entre la Dirección de Vinculación y las distintas áreas de la Universidad;
+
+V. Representar al Director de Vinculación en los actos y reuniones que éste le encomiende;
+
+VI. Recibir y atender a visitantes e invitados especiales que acudan a la Universidad para consolidar vínculos que contribuyan al cumplimiento de su objeto;
+
+VII. Las demás que el Director de Vinculación le encomiende.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 39 QUÁTER.- El Jefe de departamento de Proyectos Empresariales dependerá del Director de Vinculación, y tendrá las siguientes funciones y atribuciones:
+
+I. Establecer mecanismos para la cooperación directa entre el sector productivo y la academia en solución de problemas e investigación conjunta;
+
+II. Promover una relación con centros de investigación, asociaciones e instituciones dedicados a la innovación;
+
+III. Establecer mecanismos para brindar apoyo tecnológico y servicios diversos a sectores productivos (análisis, asesoría e información científica y tecnológica);
+
+IV. Implementar estrategias para la sensibilización de los sectores productivos hacia la investigación, desarrollo e innovación;
+
+V. Buscar financiamientos externos que permitan la obtención de recursos para el financiamiento de los proyectos de la Universidad, a través de la gestión ante dependencias gubernamentales y la participación en convocatorias afines, tanto del sector público, como privado;
+
+VI. Coordinar los proyectos empresariales que sean de su competencia; y
+
+VII. Las demás que el Director de Vinculación le encomiende.
+
 ###### ARTÍCULO 40.
 
 Los profesores de tiempo completo y los de asignatura tendrán las atribuciones y funciones indicadas en el Reglamento de Ingreso Promoción y Permanencia de Personal Académico y en las demás disposiciones jurídicas aplicables.
@@ -974,6 +1048,162 @@ El Rector será suplido en sus ausencias temporales por el Secretario Académico
 ###### ARTÍCULO 42.
 
 Los secretarios, directores y jefes de departamento serán suplidos en sus ausencias de hasta treinta días, por el servidor público de la jerarquía inmediata inferior que éstos designen bajo su responsabilidad, y cuando las ausencias sean mayores de este plazo por el servidor público que designe el Rector.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 43.
+
+Los Órganos de Control y Evaluación son los responsables de promover, evaluar, mejorar y fortalecer el buen funcionamiento del control interno y gestión, así como estudiar y fiscalizar el ejercicio eficiente de los recursos públicos; además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública, conforme a las disposiciones normativas aplicables en la materia, y son:
+
+I. Órgano de Vigilancia; y
+
+II. Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 44.
+
+El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades de la Universidad; estará integrado por un Comisario Público Propietario y un Suplente, designados en los términos establecidos en la Ley para el Control de las Entidades Paraestatales.
+
+El Comisario Público evaluará el desempeño general y por funciones de la Universidad, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la normatividad aplicable.
+
+Para el cumplimiento de las funciones citadas la Junta Directiva y el Rector deberán proporcionar la información que solicite el Comisario Público de la Universidad correspondiente y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 45.
+
+El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de la Universidad, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 46.
+
+Para el ejercicio de sus funciones, el Órgano Interno de Control contará con la siguiente estructura:
+
+I. Unidad Auditora;
+
+II. Unidad Investigadora; y
+
+III. Unidad Substanciadora y Resolutora.
+
+Los Titulares de dichas Unidades serán designados por el Gobernador del Estado, en los mismos términos que lo es para el Comisario, de conformidad con la Ley para el Control de las Entidades Paraestatales.
+
+El servidor público que ejerza la función de Autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 47.
+
+Las funciones de la Unidad Auditora, que conforma el Órgano Interno de Control, serán las siguientes:
+
+I. Elaborar y ejecutar, con aprobación del Rector, el programa anual de auditorías a las diversas áreas que conforman la Universidad;
+
+II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño de la Universidad;
+
+III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman la Universidad;
+
+IV. Coordinar las acciones a fin de verificar que las áreas que conforman la Universidad cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado;
+
+V. Asistir y participar en el Comité de Adquisiciones y Enajenaciones y en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
+
+VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de la Universidad sobre el correcto ejercicio del gasto público;
+
+VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
+
+VIII. Rendir informe trimestral a la Junta Directiva, a través del Rector, sobre el estado que guardan los asuntos de su competencia;
+
+IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente;
+
+X. Asesorar a los servidores públicos y Órganos Colegiados de la Universidad en los asuntos de su competencia;
+
+XI. Previo acuerdo con el Rector, participar en las sesiones de la Junta Directiva;
+
+XII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los Procedimientos contemplados en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XIII. Participar en los actos de entrega recepción de las Unidades Administrativas; y
+
+XIV. Las demás atribuciones previstas en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 48.
+
+Las funciones de la Unidad Investigadora, que conforma el Órgano Interno de Control, serán las siguientes:
+
+I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos a la Universidad y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
+
+II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos a la Universidad, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+III. Realizar la investigación por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
+
+IV. Solicitar información o documentación a cualquier autoridad o persona física o moral durante la investigación, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+
+V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos de la Universidad o bien, referidas a faltas de particulares en relación con la Universidad;
+
+VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos a la Universidad o de particulares que puedan constituir responsabilidades administrativas de acuerdo a la normativa aplicable, autorizando con su firma los acuerdos e informes;
+
+VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos de la Universidad o de los particulares, habilitando para ello al personal del área correspondiente;
+
+VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
+
+IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita a la Universidad;
+
+X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XII. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+XIII. Ordenar medidas de apremio y dictar medidas cautelares;
+
+XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
+
+XVI. Rendir informe trimestral a la Junta Directiva, a través del Rector, sobre el estado que guardan los asuntos de su competencia;
+
+XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los Procedimientos contemplados en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
+
+XIX. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 49.
+
+Las funciones de la Unidad Substanciadora y Resolutora, que conforma el Órgano Interno de Control, serán las siguientes:
+
+I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Unidad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos de la Universidad, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
+
+II. Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos de la Universidad.
+
+III. Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
+
+IV. En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
+
+V. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
+
+VI. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, y ratificar las mismas;
+
+VII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
+
+VIII. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+IX. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
+
+X. Rendir informe trimestral a la Junta Directiva, a través del Rector, sobre el estado que guardan los asuntos de su competencia;
+
+XI. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones;
+
+XII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los Procedimientos contemplados en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XIII. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera; y
+
+XIV. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
 
 T R A N S I T O R I O S :
 
@@ -996,3 +1226,19 @@ P.O. 12 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES”.]
+
+PRIMERO. Las presentes reformas entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones jurídicas que se opongan a las contenidas en las presentes reformas.
+
+TERCERO. Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, la Junta Directiva deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de la fecha de su publicación.
+
+CUARTO. Dentro de los treinta días siguientes a su publicación deberá realizarse la inscripción de la presente reforma en el Registro de Entidades Paraestatales a cargo de la Dirección del Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales, de conformidad como lo establece la fracción II del artículo 27 de la Ley de Control de Entidades Paraestatales vigente en el Estado.
+
+QUINTO. Las referencias hechas a la Contraloría Interna, así como a su titular, tanto en este Estatuto Orgánico como en cualquier normatividad aplicable a la Universidad, se entenderán realizadas a la Unidad de Auditoría y a su titular.
+
+SEXTO. Lo correspondiente a la estructura y plazas es competencia del Gobierno del Estado, el recurso que otorga la Federación a través de la Coordinación General de Universidades Tecnológicas y Politécnicas son para gastos de operación de la Universidad y son complementarios a los otorgados por el Gobierno del Estado, por lo cual el Estado deberá apoyar con recursos económicos para la creación de las nuevas plazas.
