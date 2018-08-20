@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-ley-del-patrimonio-del-estado-de-quintana-4691
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-15"
-last_updated: "2011-04-26"
+last_updated: "2018-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE FECHA 20 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 15 de junio de 2005.
 
@@ -873,7 +875,7 @@ EL SECRETARIO DE HACIENDA
 
 FREDY EFRÉN MARRUFO MARTÍN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 31 DE AGOSTO DE 2009.
 
@@ -882,3 +884,15 @@ P.O. 31 DE AGOSTO DE 2009.
 P.O. 26 DE ABRIL DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley del Patrimonio del Estado de Quintana Roo publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo el 15 de junio del 2005 y su última reforma publicada en el Periódico Oficial del Estado el 26 de abril de 2011.
+
+TERCERO.- Se derogan todas las disposiciones de carácter administrativo que se opongan al presente Reglamento.
+
+CUARTO.- La Agencia de Proyectos Estratégicos del Estado de Quintana Roo, contará con un plazo de hasta 360 días hábiles posteriores a la entrada en vigor del presente Reglamento, para emitir los lineamientos a que se hace referencia.
