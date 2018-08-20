@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2018-07-24"
+last_updated: "2018-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -67,7 +67,7 @@ El procedimiento contempla desde luego, la garantía de audiencia del magistrado
 
 - FORTALECER Y EFICIENTAR AL PODER JUDICIAL. Para ello se redistribuyen las funciones administrativas que antes de esta reforma, correspondían al Pleno del Tribunal o a los magistrados en lo particular, y que ahora se establecen como propias del Consejo de la Judicatura, para permitir que los magistrados puedan avocarse de manera completa al ejercicio de la función propiamente jurisdiccional; asimismo, se da competencia a las salas para dictar jurisprudencia y al Pleno para resolver la contradicción de tesis entre la que dicten las mismas.
 
-- EL PERFECCIONAMIENTO DE LA CARRERA JUDICIAL. De la adecuada selección y capacitación de los servidores públicos del Poder Judicial, depende en gran parte la eficiencia en el cumplimiento del principio de justicia pronta y expedita que deben impartir los tribunales; por ello, se consignan los procedimientos que actualmente operan en esta materia, tales como los exámenes de aptitud y de oposición, para eficientar y en todo caso cuidad la aplicabilidad del escalafón y de los demás criterios (sic) rigen para la promoción de personal en los diversos cargos.
+- EL PERFECCIONAMIENTO DE LA CARRERA JUDICIAL. De la adecuada selección y capacitación de los servidores públicos del Poder Judicial, depende en gran parte la eficiencia en el cumplimiento del principio de justicia pronta y expedita que deben impartir los tribunales; por ello, se consignan los procedimientos que actualmente operan en esta materia, tales como los exámenes de aptitud y de oposición, para eficientar y en todo caso cuidar la aplicabilidad del escalafón y de los demás criterios (sic) rigen para la promoción de personal en los diversos cargos.
 
 Además de lo anterior, destacan en esta Ley respecto a la que se abroga, las siguientes modificaciones:
 
@@ -95,11 +95,11 @@ Asimismo, podrá formar un fondo de apoyo para el mejoramiento de la administrac
 
 ### CAPITULO II. De las Autoridades Judiciales
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 3°.
 
-En el ejercicio de la función jurisdiccional, corresponde al Poder Judicial la potestad de interpretar, aplicar y ejecutar las leyes del fuero común en materia civil, familiar, penal y de justicia para menores en el territorio del Estado.
+En el ejercicio de la función jurisdiccional, corresponde al Poder Judicial la potestad de interpretar, aplicar y ejecutar las leyes del fuero común en materia civil, familiar, penal, y justicia para adolescentes en el territorio del Estado.
 
 ###### ARTICULO 4°.
 
@@ -119,7 +119,9 @@ b) Juzgados Familiares.
 
 c) Juzgados de Oralidad Mercantil.
 
-d) Juzgados de Justicia para Menores.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+d) Juzgados Especializados en Justicia Penal para Adolescentes.
 
 e) Juzgados Penales.
 
@@ -231,11 +233,11 @@ III. Padezca incapacidad física o mental permanente para el desempeño de su ca
 
 El Supremo Tribunal de Justicia funcionará en Pleno y en salas colegiadas, las que podrán residir en la capital del Estado, en otros distritos judiciales o regiones.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 11.
 
-El Pleno del Supremo Tribunal de Justicia conocerá de los asuntos de naturaleza judicial que determinen la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado; los códigos, Civil; Penal; de Procedimientos Civiles; de Procedimientos Penales; la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, la presente Ley y las demás disposiciones legales aplicables.
+El Pleno del Supremo Tribunal de Justicia conocerá de los asuntos de naturaleza judicial que determinen la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado; los códigos, Civil; Penal; y de Procedimientos Civiles y Penales; la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, la Ley Nacional de Ejecución Penal; la presente Ley, y las demás disposiciones legales.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -273,7 +275,13 @@ X. Elegir al Magistrado que habrá de suplir las ausencias temporales o definiti
 
 XI. Calificar las excusas o impedimentos que los magistrados presenten para conocer en el Pleno sobre determinados asuntos, en los casos previstos en la ley de que se trate;
 
-XII. Conocer y resolver los recursos sobre las revisiones extraordinarias que se interpongan en materia penal;
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XI BIS. Conocer y resolver sobre la conmutación de pena, liberación condicionada o liberación anticipada a que hace referencia el artículo 146 de la Ley Nacional de Ejecución Penal;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XII. Conocer y resolver los recursos sobre las revisiones extraordinarias que se interpongan en materia penal, y de ejecución penal;
 
 XIII. Resolver las quejas que supongan responsabilidad administrativa, que se presenten en contra de sus integrantes e imponer las sanciones que correspondan, y
 
@@ -393,9 +401,9 @@ VIII. Las demás que les confiera la presente Ley, y las que le sean propias por
 
 Cada Sala, de acuerdo con su competencia, conocerá:
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
-I. De los recursos de apelación que se interpongan en contra de las resoluciones de los jueces de Primera Instancia, y de los Jueces Menores, y
+I. De los recursos de apelación que se interpongan en contra de las resoluciones de los jueces de Primera Instancia, de los Jueces Menores, y de los Jueces de Ejecución, y
 
 II. De los demás asuntos que expresamente les encomiende la ley.
 
@@ -545,11 +553,13 @@ Las regiones judiciales serán determinadas por el Consejo de la Judicatura y co
 
 Los tribunales o juzgados tendrán jurisdicción en el territorio del Distrito o Región Judicial al que pertenezcan, conforme lo determine el Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 50.
 
-En cada Distrito o Región Judicial habrá el número de Tribunales y Juzgados que determine el Consejo de la Judicatura, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales, de lo familiar, de justicia para menores, de ejecución de penas y medidas de seguridad y demás materias en que ejerzan su jurisdicción, y se distinguirán por su denominación o número ordinal que les corresponda.
+En cada Distrito o Región Judicial habrá el número de Tribunales y Juzgados que determine el Consejo de la Judicatura, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales, de lo familiar, de justicia para adolescentes, de ejecución, y demás materias en que ejerzan su jurisdicción, y se distinguirán por su denominación o número ordinal que les corresponda.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
 Las Regiones Judiciales podrán comprender el ámbito territorial de más de un Distrito Judicial.
 
@@ -609,9 +619,9 @@ VII. De las cuestiones relativas a los asuntos que afecten los derechos de los m
 
 VIII. En general de todas las cuestiones familiares que reclamen la intervención judicial.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
-ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces especializados en justicia penal para adolescentes, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre catorce años cumplidos y menos de dieciocho años de edad, así como a las personas mayores de dieciocho años de edad a quienes se les atribuya la comisión o participación en un hecho señalado como delito en las leyes penales mientras eran adolescentes.
+ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los Jueces de Primera Instancia, los Jueces Especializados en Justicia Penal para Adolescentes, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, y a aquellas que en el momento de la comisión de la conducta atribuida hayan sido adolescentes en términos de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
 
@@ -661,51 +671,95 @@ ARTICULO 53 QUÁTER. Los jueces de oralidad mercantil conocerán, tramitarán y 
 
 Los jueces del Ramo Penal conocerán, tramitarán y resolverán los asuntos por delitos comunes que sean de su competencia conforme a la legislación penal del Estado y demás leyes aplicables, así como de asuntos de otro fuero a prevención, cuando así lo dispongan las leyes relativas.
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2018)</small>
 
-ARTICULO 54 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces de ejecución de sanciones penales tendrán las siguientes:
+ARTICULO 54 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces de ejecución tendrán las siguientes:
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
 
 I. Determinar la duración de las penas o medidas de seguridad;
 
-II. Resolver sobre las modificaciones, suspensión o sustitución de las penas o medidas de seguridad;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+II. Resolver sobre las modificaciones, suspensión, sustitución o conmutación de las penas o medidas de seguridad;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
 
 III. Ordenar el cumplimiento de las sanciones distintas a la privativa de libertad;
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
+
 IV. Ordenar el cumplimiento de las sanciones que, por sentencia judicial, sustituyan a la pena de prisión o concedan el beneficio de la suspensión condicional de la misma;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
 
 V. Ordenar el cumplimiento de las medidas impuestas a inimputables;
 
-VI. Decretar como medidas de seguridad, la custodia del interno que padezca enfermedad mental de tipo crónico, continuo e irreversible, en los términos señalados por el Código Penal;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+VI. Decretar como medidas de seguridad, la custodia del interno que padezca enfermedad mental de tipo crónico, continuo e irreversible, en los términos señalados por el Código Penal, y la Ley Nacional de Ejecución Penal;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
 
 VII. Sustanciar el procedimiento para el cumplimiento de la sanción pecuniaria y de la reparación del daño;
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
+
 VIII. Garantizar a los sentenciados su defensa en el procedimiento de ejecución;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
 
 IX. Revocar los beneficios otorgados cuando ocurra algún supuesto contenido en la ley;
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
+
 X. Ordenar la reaprehensión del sentenciado cuando proceda;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
 
 XI. Aplicar la ley más favorable a los sentenciados;
 
-XII. Solicitar información sobre el Programa de Reinserción aplicado a los internos;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
-XIII. Vigilar que el tratamiento de reinserción social del sentenciado que aplique el Poder Ejecutivo, se desarrolle sobre la base del trabajo, la capacitación, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado y procurar que no vuelva a delinquir;
+XII. Solicitar información sobre el Plan de Actividades aplicado a los internos;
 
-XIV. Conocer y resolver sobre las solicitudes de beneficios y tratamientos preliberacionales que impliquen una modificación en las condiciones de cumplimiento de la condena;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XIII. Vigilar que el Plan de Actividades del sentenciado que aplique el Poder Ejecutivo, se desarrolle sobre la base del trabajo, la capacitación para el trabajo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado y procurar que no vuelva a delinquir;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XIV. Conocer y resolver sobre las solicitudes de beneficios preliberacionales que impliquen una modificación en las condiciones de cumplimiento de la condena;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
 
 XV. Resolver las peticiones de traslado que formulen internos o autoridades de otras entidades federativas;
 
-XVI. Conocer y resolver los incidentes y medios de impugnación que surjan con motivo de la ejecución de las sanciones;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XVI. Conocer y resolver los incidentes y medios de impugnación que surjan con motivo de la ejecución de las penas y medidas de seguridad;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
 
 XVII. Resolver de oficio o a petición de parte la extinción de los efectos de la responsabilidad penal;
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
+
 XVIII. Llevar el registro y control de los sentenciados puestos a su disposición para el cumplimiento de sus sanciones;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
 
 XIX. Resolver la prescripción de los antecedentes penales;
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
+
 XX. Resolver sobre la rehabilitación de derechos que la sentencia hubiere privado al sentenciado;
 
-XXI. Conocer y resolver las peticiones o quejas que los internos formulen en relación con el régimen y el tratamiento penitenciarios, en cuanto afecten sus derechos y beneficios que les otorgue la ley, y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XXI. Conocer y resolver las peticiones o quejas que los internos formulen en relación con el régimen y el sistema penitenciario, en cuanto afecten sus derechos y beneficios que les otorgue la ley, y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
 
 XXII. Las demás que otros ordenamientos le confieran.
 
@@ -1495,9 +1549,9 @@ III. Comprobar si se encuentran inventariados y asegurados los instrumentos del 
 
 IV. Revisar los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
-V. Hacer constar el número de asuntos, penales; civiles; mercantiles; familiares; de justicia penal para adolescentes; y de ejecución de sentencias y medidas de seguridad, concluidos y en trámite; así como de los juicios de amparo que se hayan promovido en contra del órgano visitado, durante el lapso que comprende la revisión;
+V. Hacer constar el número de asuntos, penales; civiles; mercantiles; familiares; de justicia penal para adolescentes; y de ejecución de penas y medidas de seguridad, concluidos y en trámite, así como de los juicios de amparo que se hayan promovido en contra del órgano visitado, durante el lapso que comprende la revisión;
 
 VI. Determinar si los procesados en libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si durante la suspensión de un proceso prescribió la acción penal;
 
@@ -1645,9 +1699,9 @@ Para la consulta y expedición de documentos que se encuentren depositados en el
 
 Se depositarán en el Archivo Judicial:
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
-I. Todos los expedientes del orden civil, familiar y penal, y los relativos a la justicia para menores, concluidos, tanto por el Supremo Tribunal de Justicia, como por los juzgados de los diversos distritos y regiones judiciales~
+I. Todos los expedientes del orden civil, familiar y penal, y los relativos a la justicia para adolescentes, concluidos, tanto por el Supremo Tribunal de Justicia, como por los juzgados de los diversos distritos y regiones judiciales;
 
 II. Los expedientes que aún cuando no estén concluidos, hayan dejado de tramitarse por cualquier motivo por un lapso de seis meses;
 
@@ -1693,11 +1747,11 @@ La biblioteca estará al servicio de los funcionarios judiciales y del público 
 
 ### CAPITULO IX. De la Gaceta Judicial
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 145.
 
-El Poder Judicial contará con una Gaceta que publicará por lo menos en forma trimestral- y tendrá por objeto dar a conocer la jurisprudencia, las tesis aisladas más notables que se pronuncien en el ramo civil, familiar y penal, y en materia de justicia para menores y, de ejecución de sentencias y medidas de seguridad, por las salas y el Pleno del Supremo Tribunal de Justicia- así como los trabajos, artículos jurídicos y ejecutorias de amparo que se estimen importantes.
+El Poder Judicial contará con una Gaceta que publicará por lo menos en forma trimestral y tendrá por objeto dar a conocer la jurisprudencia, las tesis aisladas más notables que se pronuncien en el ramo civil, familiar y penal, y en materia de justicia para adolescentes y, de ejecución de sentencias y medidas de seguridad, por las salas y el Pleno del Supremo Tribunal de Justicia, así como los trabajos, artículos jurídicos y ejecutorias de amparo que se estimen importantes.
 
 ###### ARTICULO 146.
 
@@ -2399,7 +2453,7 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 25 DE MARZO DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 737.- SE REFORMA LOS ARTÍCULOS, 97 EN SU PÁRRAFO TERCERO, 99 EN SU FRACCIÓN II, Y 102 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 737.- SE REFORMA LOS ARTÍCULOS, 97 EN SU PÁRRAFO TERCERO, 99 EN SU FRACCIÓN II, Y 102 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2466,3 +2520,13 @@ P.O. 24 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1045.- SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ; Y DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los reglamentos correspondientes deberán ser armonizados dentro de los 180 días siguientes a la entrada en vigor de este Decreto.
