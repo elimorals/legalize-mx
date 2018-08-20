@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2018-07-27"
+last_updated: "2018-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -153,7 +153,9 @@ Validez personal y edad penal
 
 Las disposiciones de este Código se aplicarán a personas físicas y morales, en los términos que el mismo establece.
 
-A las personas físicas se aplicará este Código a partir de los dieciocho años de edad; y quienes tengan entre doce años cumplidos y menos de dieciocho años de edad, quedan sujetos a las disposiciones de la Ley de Justicia para Menores del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+A las personas físicas se aplicará este Código a partir de los dieciocho años de edad; y quienes tengan entre doce años cumplidos y menos de dieciocho años de edad, quedan sujetos a las disposiciones de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 Este Código se aplicará, por igual, a todos los responsables de los delitos, sean nacionales o extranjeros, con la salvedad, por lo que hace a estos últimos, de las excepciones reconocidas en los tratados celebrados por el Estado Mexicano con otras naciones y en el derecho de reciprocidad.
 
@@ -515,7 +517,9 @@ La reparación del daño como responsabilidad civil, podrá exigirse subsidiaria
 
 Plazo para pagar la reparación del daño
 
-El juzgador, teniendo en cuenta el monto de la reparación de los daños causados y la situación económica del obligado, podrá fijar plazo para el pago de la reparación del daño, que no excederá del término de un año.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+El juzgador, teniendo en cuenta el monto de la reparación de los daños causados y la situación económica del obligado, podrá fijar plazo para el pago de la reparación del daño, de conformidad con lo previsto para estos casos en la Ley Nacional de Ejecución Penal.
 
 ###### ARTÍCULO 41.
 
@@ -537,19 +541,25 @@ Formas de ejecución de la reparación del daño
 
 El pago de la reparación del daño puede ser negociado entre la víctima u ofendido, las personas morales que hubieren realizado erogaciones con motivo del hecho ilícito y el imputado o sentenciado, pero éste no obtendrá el beneficio de la suspensión condicional hasta en tanto se dé por satisfecha la reparación del daño.
 
-Una vez decretado en sentencia firme, el cobro de la reparación del daño se hará efectivo por la Comisión Ejecutiva Estatal de Atención a Víctimas, mediante el procedimiento administrativo de ejecución, pues adquiere el carácter de crédito fiscal.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+Una vez decretado en sentencia firme, el cobro de la reparación del daño se hará efectivo por la Autoridad Fiscal correspondiente, mediante el procedimiento administrativo de ejecución, pues adquiere el carácter de crédito fiscal.
 
 ###### ARTÍCULO 44.
 
 Otro destino de la reparación del daño
 
-Si la víctima u ofendido renuncian o no cobran la reparación del daño dentro del plazo de tres meses de haber sido requeridos, o no se encuentran identificados, el importe se aplicará al Fondo de Ayuda, Asistencia y (sic) Integral, de acuerdo a lo que señala la Ley General de Víctimas.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+Si la víctima u ofendido renuncian o no cobran la reparación del daño dentro del plazo de tres meses de haber sido requeridos, o no se encuentran identificados, el importe se aplicará al Fondo previsto en la Ley de Víctimas para el Estado.
 
 ###### ARTÍCULO 45.
 
 Aplicación de las garantías económicas
 
-Cuando el imputado se sustraiga a la acción de la justicia, las garantías económicas relacionadas con la libertad provisional se destinarán al Fondo de Ayuda, Asistencia y Reperación (sic) Integral, de conformidad con lo que establece la Ley General de Víctimas.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+Cuando el imputado se sustraiga a la acción de la justicia, las garantías económicas relacionadas con la libertad provisional se destinarán al Fondo previsto en la Ley de Víctimas para el Estado.
 
 #### Sección Tercera. Sanción Pecuniaria
 
@@ -569,9 +579,13 @@ II. El momento en que cesó la consumación, si el delito es permanente, o
 
 III. El momento de consumación de la última conducta, si el delito es continuado.
 
-El plazo para su pago se determinará por la autoridad judicial y no excederá de un año, atendiendo a la situación económica del sentenciado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
-El importe de la multa y la sanción económica se destinarán a los fondos de, procuración; y administración de la justicia.
+El plazo para su pago se determinará por la autoridad judicial en términos de lo previsto al respecto por la Ley Nacional de Ejecución Penal.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+El importe de la multa y la sanción económica se destinarán al Fondo previsto en (sic) Ley de Víctimas para el Estado; al Poder Judicial del Estado; a la Fiscalía General del Estado; y a la Secretaría de Salud.
 
 En cualquier tiempo podrá cubrirse el importe de la sanción pecuniaria, descontándose de ésta la parte proporcional a las jornadas de trabajo prestado a favor de la comunidad o al tiempo de prisión que el sentenciado haya cumplido; tratándose de la sanción pecuniaria sustitutiva de la pena privativa de libertad, la equivalencia será a razón de un día de sanción pecuniaria por un día de prisión.
 
@@ -597,7 +611,9 @@ Si son de uso lícito, se decomisarán sólo cuando el sujeto haya sido condenad
 
 Destino de los instrumentos, objetos o productos del delito
 
-La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito, que se encuentren asegurados o decomisados. El numerario decomisado y los recursos que se obtengan por la enajenación de los bienes decomisados, una vez satisfecha la reparación a la víctima, serán entregados en partes iguales al Poder Judicial, a la Procuraduría, a la Secretaría de Salud y al fondo previsto en la Ley General de Víctimas, en los términos del Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito, que se encuentren asegurados o decomisados. El numerario decomisado y los recursos que se obtengan por la enajenación de los bienes decomisados, una vez satisfecha la reparación a la víctima, serán entregados en partes iguales al Poder Judicial, a la Fiscalía General del Estado, a la Secretaría de Salud, y al Fondo previsto en la Ley de Víctimas del Estado, en los términos del Código Nacional de Procedimientos Penales, y de la Ley Nacional de Ejecución Penal.
 
 ###### ARTÍCULO 50.
 
@@ -609,11 +625,15 @@ Si los instrumentos o cosas decomisadas, son sustancias nocivas o peligrosas, se
 
 Término para disponer de bienes a disposición de la autoridad
 
-Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las jurisdiccionales, que no hayan sido decomisados y que no sean recogidos por quienes tengan derecho a ello, serán subastados en el término que señala la Ley de Administración de Bienes y el producto se destinará a los fondos de, Ayuda, Asistencia y Reparación Integral; procuración y administración de justicia.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las jurisdiccionales, que no hayan sido decomisados y que no sean recogidos por quienes tengan derecho a ello, serán subastados en el término que señala la Ley de Administración de Bienes y el producto se destinará al Fondo previsto en (sic) Ley de Víctimas para el Estado; al Poder Judicial del Estado; a la Fiscalía General del Estado; y a la Secretaría de Salud.
 
 Los bienes perecederos de consumo que no sean reclamados de inmediato, deberán ser donados a instituciones de asistencia pública, a criterio de la autoridad que esté conociendo del asunto.
 
-En el caso de bienes que se encuentren a disposición de las autoridades investigadora o jurisdiccional que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo, por un lapso a partir de la notificación que se le haga, transcurrido el cual se aplicará al Fondo de Ayuda, Asistencia y Reperación (sic) Integral.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+En el caso de bienes que se encuentren a disposición de las autoridades investigadora o jurisdiccional que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo, por un lapso a partir de la notificación que se le haga; transcurrido el cual se aplicará al Fondo previsto en (sic) Ley de Víctimas para el Estado; al Poder Judicial del Estado; a la Fiscalía General del Estado; y a la Secretaría de Salud.
 
 #### Sección Quinta. Suspensión y Privación de Derechos
 
@@ -723,6 +743,10 @@ Podrá imponerse como pena autónoma o como sustantiva de la pena de prisión o 
 
 Cada día de prisión o cada día de multa, será sustituido por una jornada de trabajo en favor de la comunidad.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+Esta pena no privativa de la libertad, se aplicará conforme a lo establecido en los artículos, 165, 166, y 167, de la Ley Nacional de Ejecución Penal.
+
 ### CAPÍTULO II. Medidas de Seguridad
 
 ###### ARTÍCULO 60.
@@ -752,6 +776,10 @@ Aplicación y duración.
 La vigilancia de la autoridad consiste en la supervisión y orientación de la conducta del sentenciado, ejercidas por personal especializado dependiente de la autoridad competente, con la finalidad exclusiva de coadyuvar a la reinserción social del sentenciado y a la protección de la comunidad.
 
 La autoridad judicial deberá disponer esta supervisión cuando en la sentencia imponga una sanción que restrinja la libertad o derechos; sustituya la pena de prisión por otra sanción; o conceda la suspensión condicional, y en los demás casos en que la ley disponga. Su duración no deberá exceder de la correspondiente a la pena o medida de seguridad.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+La ejecución de la vigilancia o monitoreo del sentenciado, corresponderá aplicarla a la autoridad de seguridad pública competente, en términos de lo dispuesto en el artículo 168 de la Ley Nacional de Ejecución Penal.
 
 #### Sección Segunda. Tratamiento de Inimputables o Imputables Disminuidos
 
@@ -5150,3 +5178,13 @@ P.O. 27 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1045.- SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ; Y DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+TERCERO. El Ejecutivo del Estado deberá armonizar los reglamentos correspondientes dentro de los 180 días siguientes a la entrada en vigor de este Decreto.
