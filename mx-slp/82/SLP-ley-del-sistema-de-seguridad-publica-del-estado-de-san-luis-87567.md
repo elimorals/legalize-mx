@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2018-07-03"
+last_updated: "2018-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -59,11 +59,11 @@ III. Integrar el Sistema Estatal de Seguridad Pública, que contribuirá con el 
 
 IV. Establecer las bases mínimas a que estarán sujetas las instituciones de seguridad pública estatal y municipal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 2°.
 
-La seguridad pública es una función a cargo del Gobierno Estatal y los municipios, que tiene como fines salvaguardar la integridad y derechos de las personas; así como preservar las libertades, el orden y la paz; comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y persecución de los delitos, además la reinserción social del sentenciado en términos de esta Ley.
+La seguridad pública es una función a cargo del Estado y los ayuntamientos, que tiene como fines salvaguardar la integridad y derechos de las personas; así como preservar las libertades, el orden y la paz; comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y persecución de los delitos, además de la reinserción social de las personas privadas de la libertad y el apoyo a los órganos jurisdiccionales y aquellos encargados de la supervisión de libertades en términos de esta Ley, y de la Ley Nacional de Ejecución Penal, y del Código Nacional de Procedimientos Penales.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
 
@@ -115,19 +115,27 @@ VI. Dirección: la Dirección General de Seguridad Pública del Estado;
 
 VII. Director: el titular de la Dirección General de Seguridad Pública del Estado;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+VII BIS. Coordinación Especializada: la Coordinación Especializada en Justicia Penal para Adolescentes;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+VII TER. Coordinador Especializado: el titular de la Coordinación Especializada en Justicia Penal para Adolescentes;
+
 VIII. Elemento de seguridad pública: Los integrantes de los cuerpos de seguridad pública que ostenten ese carácter mediante nombramiento o instrumento jurídico equivalente, expedido por autoridad competente;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
-IX. Instituciones policiacas: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y, en general, todas las instancias encargadas de la seguridad pública a nivel local y municipal, que realicen funciones similares;
-
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
-IX. BIS Policía Investigadora: es el cuerpo de seguridad integrado por elementos de seguridad pública facultados para la investigación de delitos que, en el ámbito de su competencia, actúan bajo el mando y la conducción del Ministerio Público para efectos de la investigación, en términos de lo que disponen la Constitución, y el Código Nacional de Procedimientos Penales;
+IX. Instituciones policiacas: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos, del Sistema Integral de Justicia Penal para Adolescentes; y en general todas las instancias encargadas de la seguridad pública a nivel local y municipal que realicen funciones similares;
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-IX. TER. Policía Procesal: son los elementos de seguridad al mando de la Secretaría o de la Dirección; los que estarán, en todos los casos, facultados para la atención de requerimientos del Ministerio Público, o del Poder Judicial, en el desahogo de investigación de delitos y de cualquier acción relacionada con el proceso penal acusatorio adversarial, de conformidad con lo que establece el Código Nacional de Procedimientos Penales y demás disposiciones legales aplicables al caso;
+IX BIS. Policía Investigadora: es el cuerpo de seguridad integrado por elementos de seguridad pública facultados para la investigación de delitos que, en el ámbito de su competencia, actúan bajo el mando y la conducción del Ministerio Público para efectos de la investigación, en términos de lo que disponen la Constitución, y el Código Nacional de Procedimientos Penales;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+IX TER. Policía Procesal: son los elementos de seguridad al mando de la Secretaría o de la Dirección; los que estarán, en todos los casos, facultados para la atención de requerimientos del Ministerio Público, o del Poder Judicial, en el desahogo de investigación de delitos y de cualquier acción relacionada con el proceso penal acusatorio adversarial, de conformidad con lo que establece el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal, y las demás disposiciones legales aplicables al caso;
 
 X. Presidente: presidente municipal en los ayuntamientos de la Entidad;
 
@@ -180,6 +188,10 @@ III. La Fiscalía General del Estado;
 IV. El Director General de Seguridad Pública del Estado;
 
 V. El Director General de Prevención y Reinserción Social;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+V BIS. El Coordinador Especializado en Justicia Penal para Adolescentes;
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -277,9 +289,9 @@ VI. Vigilar que sean puestas a disposición de las autoridades competentes, las 
 
 VII. Delegar las atribuciones cuya naturaleza así lo permita, en los servidores públicos que determine esta Ley y sus reglamentos;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
-VIII. Vigilar, conforme lo establece el Código Nacional de Procedimientos Penales, se dé cumplimiento por parte de la policía procesal a lo establecido en el mismo, coordinándose en todo momento con el Ministerio Público para la investigación de los delitos;
+VIII. Vigilar, conforme lo establece el Código Nacional de Procedimientos Penales y la Ley Nacional de Ejecución Penal, se dé cumplimiento por parte de la policía procesal a lo establecido en los mismos, coordinándose en todo momento con el Ministerio Público para la investigación de los delitos;
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -292,6 +304,10 @@ X. Prestar el auxilio a las autoridades competentes que soliciten protección pa
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 XI. Establecer las medidas de seguridad que considere necesarias para el traslado del imputado, del Centro de Reinserción Social a los centros de justicia y dentro del mismo, cuando sea necesaria la presencia de éste para el desahogo de la audiencia, y en los demás casos en que corresponda;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XI BIS. Establecer las medidas de seguridad que considere necesarias para el traslado de adolescentes, en los casos que sea necesaria la presencia de éstos para el desahogo de una audiencia o diligencia en que la autoridad jurisdiccional especializada lo requiera y en los demás casos en que corresponda;
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -309,17 +325,17 @@ XIV. Disponer la colaboración con la Fiscalía General del Estado para el cumpl
 
 XV. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 15.
 
-Las atribuciones del Fiscal General del Estado; el Director; el Director General de Prevención y Reinserción Social; y el Director General de la Policía Investigadora, estarán previstas en su propia ley o reglamentos.
+Las atribuciones del Fiscal General del Estado; el Director; el Director General de Prevención y Reinserción Social; el Coordinador Especializado en Justicia Penal para Adolescentes; y el Director General de la Policía Investigadora, estarán previstas en su propia ley o reglamentos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 16.
 
-El Secretario; el Fiscal General del Estado; el Director; el Director General de Prevención y Reinserción Social; y el Director General de la Policía Investigadora, serán los encargados de ejecutar las disposiciones que el Ejecutivo dicte en cumplimiento de este Ordenamiento.
+El Secretario; el Fiscal General del Estado; el Director; el Director General de Prevención y Reinserción Social; el Coordinador Especializado en Justicia Penal para Adolescentes; y el Director General de la Policía Investigadora, serán los encargados de ejecutar las disposiciones que el Ejecutivo dicte en cumplimiento de este Ordenamiento.
 
 ###### ARTICULO 17.
 
@@ -395,7 +411,9 @@ c) Los agentes del Ministerio Público.
 
 d) Los peritos.
 
-e) Los cuerpos de seguridad y custodia de los centros estatales y distritales de reclusión y de menores infractores del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+e) Los cuerpos de seguridad y custodia de los centros estatales y distritales de reclusión y del Centro de Internamiento para Adolescentes.
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -444,6 +462,10 @@ V. Aprehender a los infractores de la ley en los casos de flagrante delito, poni
 VI. Vigilar el tránsito de vehículos y peatones en las calles, caminos, carreteras, puentes y áreas de jurisdicción estatal, e imponer las sanciones que correspondan;
 
 VII. Ejecutar los programas y acciones diseñados para garantizar la seguridad pública y prevenir los delitos;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+VII BIS. Brindar el apoyo a las autoridades jurisdiccionales y aquellos órganos encargados de la supervisión de libertades en términos de esta Ley, y de la Ley Nacional de Ejecución Penal;
 
 VIII. Sistematizar, intercambiar y suministrar la información respectiva, conforme a lo estipulado por la Ley General del Sistema Nacional de Seguridad Pública;
 
@@ -545,11 +567,11 @@ Estas deberán llevar en el reverso la firma del titular de los respectivos cuer
 
 Los servidores públicos a que se refiere este artículo incurrirán en responsabilidad, cuando expidan credenciales a personas que no pertenezcan a las instituciones de seguridad pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 35.
 
-Las autoridades de seguridad pública del Estado dictarán las medidas conducentes, para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; Secretario General de Gobierno; Procurador General de Justicia o Fiscal General, en su caso; Secretario de Seguridad Pública; Director General de Seguridad Pública del Estado; Director General de Prevención y Reinserción Social; y el Director General de la Policía Investigadora del Estado. Asimismo, brindarán servicio de protección a aquellas personas que la autoridad electoral determine conforme a la ley.
+Las autoridades de seguridad pública del Estado dictarán las medidas conducentes, para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; Secretario General de Gobierno; Fiscal General; Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; Secretario de Seguridad Pública; Director General de Seguridad Pública del Estado; Director General de Prevención y Reinserción Social; Coordinador Especializado en Justicia Penal para Adolescentes; y el Director General de la Policía Investigadora del Estado. Asimismo, brindarán servicio de protección a aquéllas personas que la autoridad electoral determine conforme a la ley.
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2017)</small>
 
@@ -633,6 +655,10 @@ VI. El Director General de Seguridad Pública del Estado;
 
 VII. El Director General de Prevención y Reinserción Social;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+VII BIS. El Coordinador Especializado en Justicia Penal para Adolescentes;
+
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 VIII. El Director General de la Policía Investigadora;
@@ -691,7 +717,9 @@ IX. Verificar que los programas, estrategias, acciones, políticas y servicios q
 
 X. Evaluar el cumplimiento de las políticas, estrategias y acciones establecidas por el sistema nacional de seguridad pública en los términos de ley;
 
-XI. Desarrollar, implantar y evaluar la política en materia de prevención social del delito, con carácter integral, e implementar la política criminal en el ámbito estatal, sobre las causas que generan la comisión de delitos y conductas antisociales; así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que conduzcan al respeto a la legalidad y a la protección de las víctimas;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XI. Desarrollar, implantar, y evaluar, en corresponsabilidad con otras instituciones, la política en materia de prevención social del delito, con carácter integral, e implementar la política criminal en el ámbito estatal, sobre las causas que generan la comisión de delitos y conductas antisociales; así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que conduzcan al respeto a la legalidad y a la protección de las víctimas;
 
 XII. Elaborar y publicar informes de actividades del Consejo Estatal;
 
@@ -705,7 +733,9 @@ XVI. Establecer, administrar y resguardar, a través del Centro Estatal de Certi
 
 XVII. Coadyuvar con las instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio y correcta aplicación de los recursos de los fondos de ayuda federal y recursos estatales convenidos, así como del cumplimiento de la ley;
 
-XVIII. Fomentar la participación ciudadana en la formulación de planes y programas de prevención de delitos; así como diseñar, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito y la violencia, apoyándose en medios eficaces de promoción y comunicación masiva;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XVIII. Fomentar la participación ciudadana en la formulación de planes y programas de prevención de delitos, reinserción social y liberados; así como diseñar, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito y la violencia, apoyándose en medios eficaces de promoción y comunicación masiva;
 
 XIX. Vigilar, a través del Centro Estatal de Certificación de Control de Confianza, que en las instituciones de seguridad pública, estatales, y municipales, se aplique homogénea y permanentemente el protocolo de certificación correspondiente, aprobado por el Centro Nacional de Certificación y Acreditación;
 
@@ -740,6 +770,10 @@ VIII. Un representante de la Dirección General de la Policía Investigadora;
 IX. Un representante de la Secretaría de Seguridad Pública del Estado, que a su vez representará al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
 
 X. Un representante de la Dirección General de Prevención y Reinserción Social;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+X BIS. Un representante de la Coordinación Especializada en Justicia Penal para Adolescentes;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -781,7 +815,9 @@ Los organismos de coordinación en materia de seguridad pública tendrán las si
 
 I. Coordinar el Sistema Estatal y Municipal de Seguridad Pública;
 
-II. Proponer lineamientos para el establecimiento de políticas generales en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+II. Proponer lineamientos para el establecimiento de políticas generales en materia de seguridad pública y reinserción social
 
 III. Organizar, administrar, operar y modernizar tecnológicamente las instituciones de seguridad pública;
 
@@ -795,7 +831,9 @@ VII. Establecer en el ámbito de su competencia, el servicio de carrera del pers
 
 VIII. Llevar a cabo los convenios de cooperación para la realización de acciones policiales conjuntas, con pleno respeto a las atribuciones constitucionales de las autoridades operativas;
 
-IX. Elaborar propuestas de modificaciones a leyes y reglamentos en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+IX. Elaborar propuestas de modificaciones a leyes y reglamentos en materia de seguridad pública y reinserción social;
 
 X. Incentivar las relaciones con la comunidad para el fomento de la cultura de prevención de infractores y delitos;
 
@@ -899,7 +937,9 @@ XV. Velar por la vida e integridad física y moral de las personas detenidas, as
 
 XVI. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
 
-XVII. Utilizar los protocolos de investigación y de cadena de custodia adoptados por las instituciones de seguridad pública;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XVII. Utilizar los protocolos de investigación y de cadena de custodia adoptados por las instituciones de seguridad pública, y/o protocolos de los centros penitenciarios;
 
 XVIII. Participar en operativos y mecanismos de coordinación con otras instituciones de seguridad pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
@@ -969,17 +1009,27 @@ XLIX. Las demás que señalen las leyes y reglamentos respectivos.
 
 ARTICULO 56 BIS. En el caso de los elementos de seguridad pública que sean habilitados como Policía Investigadora, o como Policía Procesal, además de las obligaciones contenidas en el artículo 56 de esta Ley, tendrán, en su caso, las siguientes:
 
-I. Atender en todos los casos las disposiciones contenidas en el Código Nacional de Procedimientos Penales, relacionadas con declaraciones por parte de los imputados;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
-II. Cuidar en todo momento que sus actuaciones se lleven a cabo conforme a los principios de legalidad, pertinencia, suficiencia, y contundencia, a que se refiere el Código Nacional de Procedimientos Penales;
+I. Atender en todos los casos las disposiciones contenidas en el Código Nacional de Procedimientos Penales, relacionadas con declaraciones por parte de los imputados, así como aquellas previstas en la Ley Nacional de Ejecución Penal;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+II. Cuidar en todo momento que sus actuaciones se lleven a cabo conforme a los principios de legalidad, pertinencia, suficiencia, y contundencia, a que se refiere el Código Nacional de Procedimientos Penales, así como los que contiene la Ley Nacional de Ejecución Penal;
 
 III. Prestar auxilio a víctimas, ofendidos, testigos, jueces, magistrados, agentes del Ministerio Público, policías, peritos y, en general, a todos los sujetos que con motivo de su intervención en el procedimiento, cuya vida o integridad corporal se encuentren en riesgo inminente;
 
-IV. Ejecutar las medidas de protección que dicte la autoridad competente, a que se refiere el Código Nacional de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
-V. Ejecutar las órdenes de comparecencia y aprehensión en los términos del Código Nacional de Procedimientos Penales;
+IV. Ejecutar las medidas de protección que dicten las autoridades competentes a que se refieren, el Código Nacional de Procedimientos Penales, y la Ley Nacional de Ejecución Penal;
 
-VI. Llevar a cabo los registros de sus actuaciones en los términos del Código Nacional de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+V. Ejecutar las órdenes de comparecencia y aprehensión en los términos del Código Nacional de Procedimientos Penales; llevar a cabo los traslados y custodia de personas procesadas y sentenciadas a recintos judiciales; así como de aquellas que hayan obtenido su libertad condicional en términos de la Ley Nacional de Ejecución Penal;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+VI. Llevar a cabo los registros de sus actuaciones en los términos del Código Nacional de Procedimientos Penales, y de la Ley Nacional de Ejecución Penal;
 
 VII. Dar inicio a las investigaciones de hechos delictivos de los que tengan noticia, en los términos del Código Nacional de Procedimientos Penales;
 
@@ -1005,7 +1055,9 @@ XVII. Solicitar a las autoridades competentes, a través del Ministerio Público
 
 XVIII. Incorporar a las bases de datos criminalísticos, la información que pueda ser útil en la investigación de los delitos, y utilizar su contenido para el desempeño de sus atribuciones, y
 
-XIX. Las demás que se deriven del Código Nacional de Procedimientos Penales y cualquier otra disposición relacionada.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XIX. Las demás que se deriven del Código Nacional de Procedimientos Penales, y de la Ley Nacional de Ejecución Penal, o cualquier otra disposición relacionada.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2017)</small>
 
@@ -1413,7 +1465,9 @@ Al concluir el servicio, el integrante deberá entregar al funcionario designado
 
 El Estado y los ayuntamientos deben recabar, sistematizar, intercambiar y suministrar la información sobre seguridad pública, mediante instrumentos tecnológicos idóneos que permitan fácil y rápido acceso a los usuarios autorizados por la ley, instituyendo el Sistema Estatal de Información Sobre Seguridad Pública, y coordinándose con la Federación, a fin de coadyuvar al Sistema Nacional de Información para la Seguridad Pública.
 
-Las instituciones policiales, de procuración y administración de justicia tendrán acceso a la información contenida en las bases de datos, en el ámbito de su función de investigación, persecución y sanción de los delitos; dicho acceso al sistema estará condicionado al cumplimiento de la ley, los acuerdos generales, convenios, y demás disposiciones legales.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
+Las instituciones policiales, de procuración y administración de justicia tendrán acceso a la información contenida en las bases de datos, en el ámbito de su función de investigación, persecución, sanción de los delitos, y ejecución penal; dicho acceso al sistema estará condicionado al cumplimiento de la ley, los acuerdos generales, convenios, y demás disposiciones legales.
 
 ###### ARTICULO 91.
 
@@ -1501,7 +1555,9 @@ VII. Lugar a donde será trasladado el detenido.
 
 El agente del Ministerio Público, debe de instruir la actualización de la información relativa al registro, tan pronto reciba a su disposición al detenido, y recabará además lo siguiente:
 
-I. Número de averiguación previa;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+I. Número de carpeta de investigación;
 
 II. Hora de la puesta a disposición;
 
@@ -1575,9 +1631,11 @@ En el caso de que los integrantes de las instituciones de seguridad pública ase
 
 ### Capítulo V. Del Sistema Unico de Información Criminal
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 104.
 
-El Sistema Unico de Información Criminal se integrará entre otros, con los datos de: vehículos robados y recuperados; mandamientos judiciales; registro de procesados y sentenciados.
+El Sistema Único de Información Criminal se integrará, entre otros, con los datos de: vehículos robados y recuperados; mandamientos judiciales; registro de procesados, sentenciados y liberados.
 
 ###### ARTICULO 105.
 
@@ -2129,7 +2187,9 @@ XII. Inteligencia: aportar información estratégica para la ejecución de accio
 
 XIII. Prevención de delito: es el conjunto de acciones que se realizan para involucrar a la sociedad en los mecanismos institucionales de prevención del delito, fomentar la cultura de la legalidad, de denuncia del delito, de promoción de la ciudadanía, cuidado del otro, así como crear una política pública destinada a inhibir o reducir la incidencia delictiva en un lugar y periodo determinada (sic);
 
-XIV. Sistema de video vigilancia: es una herramienta tecnológica que, a través de cámaras de video localizadas estratégicamente e interconectadas entre sí, que permiten apoyar la operación y despliegue policial, la persecución y prevención de los delitos, la atención de emergencias o documentar faltas e infracciones relacionadas con la seguridad pública;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XIV. Sistema de video vigilancia: es una herramienta tecnológica que, a través de cámaras de video localizadas estratégicamente e interconectadas entre sí, que permiten apoyar la operación y despliegue policial, la persecución y prevención de los delitos, la atención de emergencias o documentar faltas e infracciones relacionadas con la seguridad pública; así como el seguimiento a personas liberadas bajo algún beneficio preliberacional, o sanción no privativa de la libertad;
 
 XV. Video vigilancia pública: las actividades orientadas a la capacitación, transmisión, almacenamiento de imágenes y/o sonidos, obtenidos en espacios públicos o privados con acceso al público, mediante el uso de videocámaras o dispositivos tecnológicos especiales, realizadas por instituciones de seguridad pública, prestadores de servicios de seguridad privada o por personas físicas o morales privadas que, en su caso, cuenten con un convenio de colaboración; y que tiene como fin contribuir a la prevención y persecución eficaz de los delitos; apoyar la operación y despliegue policial; la atención de emergencias; la procuración de justicia; o documentar faltas e infracciones relacionadas con la seguridad pública, y
 
@@ -2634,3 +2694,13 @@ PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación 
 SEGUNDO. Los sistemas de video vigilancia con que cuenten actualmente las instituciones de seguridad pública estatal y municipal, deberán irse adaptando a la norma técnica en la materia y a lo previsto en este Decreto, de acuerdo a sus posibilidades presupuestales y en un tiempo razonable.
 
 TERCERO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1045.- SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ; Y DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado deberá armonizar los reglamentos correspondientes dentro de los 180 días siguientes a la entrada en vigor de este Decreto.
