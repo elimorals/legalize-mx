@@ -4,7 +4,7 @@ identifier: "VER-ley-de-juntas-de-mejoras-del-estado-de-veracruz-de-ignacio-9133
 country: "mx"
 rank: "ley"
 publication_date: "1963-02-21"
-last_updated: "2005-08-19"
+last_updated: "2018-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "VER"
 ---
 # LEY DE JUNTAS DE MEJORAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE -ANTES MEJORAMIENTO MORAL, CIVICO Y MATERIAL DEL ESTADO-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 679 DE JUNTAS DE MEJORAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE PUBLICADA EN LA G.O. DE 20 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUNTAS DE MEJORAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE AGOSTO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018 (ABROGADA).
 
-Ley publicada en la Gaceta Oficial del Estado de Veracruz-Lave, el jueves 21 de febrero de 1963.
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 21 de febrero de 1963.
 
 FERNANDO LOPEZ ARIAS, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed:
 
@@ -33,7 +35,7 @@ FERNANDO LOPEZ ARIAS, Gobernador Constitucional del Estado Libre y Soberano de V
 
 A virtud de lo expuesto y en uso de las facultades extraordinarias que me tiene conferidas la H. XLVI Legislatura del Estado, por Decreto número 98, de fecha 28 de diciembre del año próximo anterior, publicado en la "Gaceta Oficial", de 29 del mismo mes y año, he tenido a bien expedir la siguiente
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE AGOSTO DE 2005)</small>
 
 LEY DE JUNTAS DE MEJORAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
@@ -333,7 +335,7 @@ La presente Ley entrará en vigor el día siguiente al de su publicación en la 
 
 DADA en la residencia del Poder Ejecutivo del Estado, en la ciudad de Jalapa-Enríquez, Ver., a los veinticuatro días del mes de enero de mil novecientos sesenta y tres. Lic. FERNANDO LOPEZ ARIAS.- El Secretario de Gobierno, Lic. ROMULO CAMPILLO REYNAUD.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 G.O. 4 DE ABRIL DE 1992.
 
@@ -352,3 +354,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los bienes adquiridos por las Juntas de Mejoramiento Moral, Cívico y Material, serán transferidos por el Ejecutivo Estatal al patrimonio de las Juntas de Mejoras de las localidades de los municipios respectivos.
 
 Tercero. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 679 DE JUNTAS DE MEJORAS PARA EL ESTADO DE VERACRUZ".]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley de Juntas de Mejoras del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del estado el 21 de febrero de 1963, y se derogan todas las disposiciones que se opongan a lo previsto en la presente Ley.
