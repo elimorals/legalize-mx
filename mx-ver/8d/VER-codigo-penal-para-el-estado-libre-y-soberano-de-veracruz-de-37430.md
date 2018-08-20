@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2018-08-16"
+last_updated: "2018-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -4153,7 +4153,7 @@ VI. Limite, prohíba o condicione el acceso y uso de métodos de salud sexual y 
 
 ### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 365.
 
@@ -4259,9 +4259,57 @@ Estas medidas reeducativas tienen por objeto eliminar los estereotipos de suprem
 
 ###### Artículo 371.
 
-Se impondrán de tres a quince años de prisión y multa de hasta cuatrocientos días de salario, a quien aceche o realice acciones de espionaje con el propósito de obtener información sobre la ubicación, las actividades, los operativos o labores en general que, en el desempeño de sus funciones, realicen elementos de instituciones de seguridad pública, sean éstas de vigilancia, de persecución, de investigación, de sanción del delito o de ejecución de penas.
+Comete el delito contra la seguridad pública y se le impondrán de siete a quince años de prisión y multa de cuatrocientas a ochocientas unidades de medida y actualización, a quien incurra en cualquiera de las conductas siguientes:
 
-Si el sujeto activo es un servidor público, las penas señaladas en el párrafo anterior se incrementarán hasta en una mitad y se impondrá la inhabilitación para el desempeño de empleo, cargo o comisión públicos, hasta por el término de quince años.
+I. Utilice instrumentos punzocortantes, punzo contundentes, contuso cortantes, contuso contundentes o de cualquier material, que por su resistencia o su fuerza, dañe o impida el paso de vehículos de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas;
+
+II. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, equipos de comunicación de cualquier tipo;
+
+III. Posea, porte o utilice equipos o artefactos que permitan la intervención, escucha o transmisión de datos para prácticas de espionaje, con respecto a canales de comunicaciones oficiales o privadas, estos últimos cuando sean utilizados para funciones de seguridad pública;
+
+IV. Permita o consienta la instalación de antenas o cualquier instrumento de comunicación en bienes de su propiedad o posesión, con los cuales se intercepte o transmita la señal o las comunicaciones para el espionaje o halconeo;
+
+V. Posea, porte o utilice para el espionaje, en su persona, domicilio o en el lugar donde se le aprehenda, uniformes, prendas de vestir, insignias, distintivos o equipos correspondientes o similares a los utilizados por cualquiera de las instituciones o corporaciones policiales municipales, estatales, federales o de las fuerzas armadas mexicanas, o que simulen la apariencia de los utilizados por éstas;
+
+VI. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, escritos o mensajes producidos por cualquier medio, que tengan relación con alguna pandilla o miembros de la delincuencia organizada, de algún grupo o actividades delictivas; así como de las actividades de las corporaciones de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas;
+
+VII. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, accesorios u objetos que se utilizan en los vehículos oficiales de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas;
+
+VIII. Detente, posea, conduzca o custodie un vehículo que simule ser de las corporaciones de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas, para el espionaje, se le incrementará hasta la mitad de la sanción, prevista en este artículo; y
+
+IX. Dañe, altere o impida el funcionamiento o monitoreo de cámaras de vigilancia en la vía pública, establecimientos o edificios públicos, instaladas para ser utilizadas por las instituciones de seguridad pública o de las fuerzas armadas mexicanas.
+
+Las mismas penas se impondrán a los participantes que se vean involucrados en la ejecución de alguno de los supuestos descritos en las fracciones del párrafo anterior.
+
+La pena se incrementará hasta la mitad cuando, se empleen menores de edad, personas con discapacidad o de la tercera edad, para la comisión de este delito.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2018)</small>
+
+###### Artículo 371 Bis.
+
+Se incrementará hasta una cuarta parte de la sanción prevista en el artículo 371 a quien, para la comisión de los delitos señalados en este capítulo, utilice algún vehículo del servicio público de transporte de pasajeros, u otro que preste un servicio análogo; o sea similar en apariencia a los vehículos antes señalados.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2018)</small>
+
+###### Artículo 371 Ter.
+
+Se incrementará hasta el doble de la sanción prevista en el artículo 371 a quien, siendo elemento de los cuerpos de seguridad pública municipales, estatales, federales, de las fuerzas armadas mexicanas, de seguridad privada o de traslado de valores, porte o utilice teléfonos móviles, radiofrecuencias, radiotransmisiones o cualquier aparato de comunicación y filtre información relativa a las actividades de los cuerpos de seguridad pública municipales, estatales, federales o de las fuerzas armadas mexicanas para grupos delictivos.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2018)</small>
+
+###### Artículo 371 Quáter.
+
+Se incrementará hasta el doble de la sanción prevista en el artículo 371, a quienes hayan tenido el carácter de servidores públicos de los tres niveles de gobierno de los cuerpos de seguridad pública o de las fuerzas armadas mexicanas; y se actualice cualquiera de las hipótesis previstas en este Capítulo.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2018)</small>
+
+###### Artículo 371 Quinquies.
+
+Para los fines de este capítulo se entenderá por:
+
+I. Halconeo: La acción de acechar, vigilar o cualquier acto encaminado a obtener y comunicar información a una agrupación delictiva sobre las acciones y, en general, las labores de los elementos de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas.
+
+II. Espionaje: Intervenir comunicaciones privadas u oficiales, utilizando cualquier medio tecnológico, con la finalidad de obtener y comunicar información a una agrupación delictiva sobre las acciones y, en general, las labores de los elementos de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
@@ -4935,11 +4983,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS (MICHOACÁN DE OCAMPO)”.]
+G.O. 20 DE AGOSTO DE 2018.
 
-Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. Surtirá efectos exclusivamente para modificar la porción normativa que establece la denominación de la parte integrante de la Federación "Michoacán de Ocampo", por lo que quedan subsistentes las denominaciones de las demás partes de la Federación vigentes al momento de la entrada en vigor.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 687 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
-D.O.F. 17 DE MAYO DE 2021.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. En la aplicación del presente Decreto se empleará el principio de sucesión de normas penales sustantivas.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS (VERACRUZ DE IGNACIO DE LA LLAVE)”.]
 
