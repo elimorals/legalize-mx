@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2018-06-22"
+last_updated: "2018-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -61,9 +61,7 @@ a) Las Secretarías del Despacho;
 
 b) La Oficialía Mayor;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
-
-c) La Procuraduría General de Justicia;
+c) (DEROGADO, P.O. 20 DE AGOSTO DE 2018)
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
@@ -247,9 +245,7 @@ XIII. Secretaría de Cultura;
 
 XIV. Oficialía Mayor;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
-
-XV. Procuraduría General de Justicia;
+XV. (DEROGADA, P.O. 20 DE AGOSTO DE 2018)
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2009)</small>
 
@@ -394,6 +390,10 @@ XXXVI. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2016)
 XXXVII. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2016)
 
 XXXVIII. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2016)
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XXXVIII BIS. La supervisión administrativa y seguimiento a través del órgano administrativo competente, por motivo de la concesión de medidas cautelares, condiciones de la suspensión del proceso, preliberación, medidas de seguridad o no privativas de la libertad. Así como la intervención como autoridad corresponsable, en términos del artículo 7 de la Ley Nacional de Ejecución Penal, y
 
 XXXIX. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2016)
 
@@ -569,9 +569,9 @@ e) Fomentar y apoyar el diseño y funcionamiento de mecanismos de consulta ciuda
 
 II. Celebrar y ejecutar convenios con la Federación en materia de desarrollo regional y social, coordinando con las dependencias y entidades federales, estatales y municipales que concurren al desarrollo regional y social del Estado, la ejecución de los planes y programas respectivos;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
-III. Planear, coordinar, concertar, ejecutar y evaluar programas especiales para la atención de los sectores sociales más desprotegidos;
+III. Planear, coordinar, concertar y evaluar programas para la atención de los sectores sociales más desprotegidos, dentro de los cuales de manera corresponsable actuará con las autoridades penitenciarias, de liberados y post-penales, estableciendo acciones adecuadas para incluir a las personas liberadas para su reinserción social y prevención de su reincidencia, extendiéndose los programas a sus familias;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
 
@@ -761,6 +761,10 @@ III. Formular, con el concurso de los sectores productivos, los planteamientos e
 
 IV. Fomentar la creación de fuentes de empleo, impulsando el establecimiento de la micro, pequeña, mediana y gran industria; maquiladoras, unidades de explotación minera, talleres artesanales y servicios;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+IV BIS. En corresponsabilidad con las autoridades penitenciarias, de liberados, y post-penales, elaborar planes y programas para generar fuentes de empleo y capacitación para el trabajo a liberados para su reinserción social y prevención de su reincidencia, extendiéndose el apoyo a sus familias;
+
 V. Promover la capacitación para el trabajo en función de las necesidades de la industria, el comercio y los servicios, actuando coordinadamente con el sector empresarial y con las instituciones educativas;
 
 VI. Apoyar los programas de investigación y desarrollo tecnológico y fomentar su divulgación, así como promover mecanismos de articulación entre las instituciones de investigación y las empresas y sectores demandantes de estos servicios;
@@ -917,6 +921,14 @@ V. Proponer a la Secretaría de Educación Pública federal, los contenidos regi
 
 VI. Planear, programar, presupuestar, ejecutar y evaluar los programas educativos, recreativos y deportivos en el Estado;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+VI BIS. A través de las instituciones y/o áreas encargadas del deporte, en coordinación con las autoridades penitenciarias, planear, presupuestar, y ejecutar programas de actividades físicas y deportivas en el interior de los centros penitenciarios;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+VI TER. En coordinación con las autoridades penitenciarias, planear, programar, presupuestar, evaluar, y ejecutar programas educativos para personas privadas de su libertad en los centros penitenciarios, así como para liberados y sus familiares a través de la Unidad respectiva;
+
 VII. Distribuir con toda oportunidad los libros de texto gratuitos y el material educativo complementario que la Secretaria de Educación Pública federal proporcione a los planteles;
 
 VIII. Expedir los certificados y otorgar las constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios, de conformidad con los requisitos establecidos en los planes y programas de estudios correspondientes;
@@ -1063,6 +1075,10 @@ VII. Promover el incremento de la productividad en el trabajo;
 
 VIII. Procurar las medidas de prevención social en los centros de trabajo;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+VIII BIS. Brindar en coordinación con las autoridades penitenciarias la capacitación para el trabajo a las personas privadas de la libertad y aquellas que la hayan obtenido; así como prever el acceso a la seguridad social para las mismas;
+
 IX. Supervisar la correcta aplicación de las disposiciones y resoluciones legales, relativas a la participación de los trabajadores en las utilidades de las empresas, salarios mínimos y capacitación; así como de las medidas de seguridad e higiene industrial en el ámbito de su competencia;
 
 X. Promover la constitución y el funcionamiento de las comisiones mixtas; así como el desarrollo de la capacitación y adiestramiento en y para el trabajo;
@@ -1091,7 +1107,9 @@ XXI. Organizar y patrocinar exposiciones y museos de trabajo y previsión social
 
 XXII. Llevar las estadísticas generales correspondientes a la materia del trabajo;
 
-XXIII. Estudiar y proyectar planes para impulsar la ocupación en el Estado, en coordinación con la Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XXIII. Diseñar, proyectar y aplicar planes para impulsar la ocupación de las personas privadas de la libertad en los centros penitenciarios del Estado, así como de las que la han obtenido, en coordinación con la Secretaría de Desarrollo Económico;
 
 XXIV. Poner a disposición de las autoridades federales del trabajo, la información que soliciten para el cumplimiento de sus funciones;
 
@@ -1187,6 +1205,10 @@ XII. Atender los programas de las culturas étnicas del Estado, en un marco de a
 
 XIII. Integrar de manera permanente programas de promoción de todas las expresiones culturales de las etnias indígenas en el Estado, realizando eventos en los que se expongan y comercialicen sus productos y artesanías, procurando proteger la creación original y su ámbito;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XIII BIS. En corresponsabilidad con las autoridades penitenciarias, de liberados y post-penales, fomentar y promover la cultura y el arte, a través de programas que incluyan sin discriminación alguna, a las personas privadas de la libertad y de aquellas que la hayan obtenido;
+
 XIV. Promover mediante becas y concursos la investigación de nuestro pasado étnico, y de nuestras raíces culturales y estéticas;
 
 XV. Celebrar convenios con instituciones públicas y privadas a nivel estatal, nacional e internacional, para la organización de eventos culturales de relevancia como festivales o eventos, en los que se presenten manifestaciones culturales de cualquier índole o de interés general;
@@ -1236,6 +1258,10 @@ XVI. Resolver los recursos administrativos que se interpongan en contra de los a
 XVII. Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación en el campo de la salud, y difundir los resultados de los estudios realizados;
 
 XVIII. Asesorar y apoyar a los organismos públicos, estatales y municipales, en la instrumentación de medidas y acciones en materia de salud;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XVIII BIS. En corresponsabilidad con la autoridad penitenciaria brindar la atención médica a las personas privadas de su libertad, para garantizar su salud física, psicológica, psiquiátrica, y sexual, así como prever la disponibilidad de medicamentos que corresponden al cuadro básico de insumos para la atención médica; brindar el auxilio en otros servicios en materia de salud, de adicciones con que no cuenten los centros penitenciarios a través de otras Instituciones del mismo sector, sin discriminación de origen étnico o nacional, color de piel, cultura, sexo, género, edad, discapacidades, condición social, económica, salud, jurídica, religión, apariencia física, características genéticas, situación migratoria, embarazo, lengua, opiniones, preferencias sexuales, identidad o filiación política, estado civil, idioma, antecedentes penales, o cualquier otra que atente contra la dignidad humana;
 
 XIX. Promover, organizar y participar en conferencias, convenciones, encuentros y congresos en materia de salud, y
 
@@ -1323,6 +1349,10 @@ XXX. Rendir informe semestral de los resultados y avances del cumplimiento de lo
 
 XXXI. Administrar el Sistema Penitenciario; aplicar el modelo de reinserción social; y tramitar por acuerdo del Gobernador del Estado las solicitudes de extradición y traslado de internos;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+
+XXXI BIS. Administrar y operar el Sistema Penitenciario sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para procurar la reinserción social de las personas privadas de su libertad; en corresponsabilidad con otras instituciones y órganos, brindar el apoyo para prevenir la reincidencia, así como coadyuvar con las autoridades jurisdiccional y administrativa del Estado, en términos de la Ley Nacional de Ejecución Penal y del Código Nacional de Procedimientos Penales;
+
 > <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
 
 XXXII. Vigilar y coordinar, a través de la Dirección de Ejecución de Medidas para Menores, el funcionamiento de los centros de internamiento juvenil, y de los centros de ejecución de medidas en libertad; así como elaborar los programas personalizados de ejecución, y ejecutar las medidas de internamiento definitivo dictadas por el Juez Especializado en Justicia para Menores, y
@@ -1333,9 +1363,7 @@ XXXIII. Las demás que les sean encomendadas por el titular del Ejecutivo, le co
 
 ###### ARTICULO 42.
 
-La Procuraduría General de Justicia es el órgano del Ejecutivo del Estado al que corresponde ejercer las atribuciones conferidas al Ministerio Público por la Constitución Política de los Estados Unidos Mexicanos, por la Constitución Política del Estado y por la Ley Orgánica de la Procuraduría General de Justicia del Estado de San Luis Potosí.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 20 DE AGOSTO DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -1972,3 +2000,13 @@ P.O. 22 DE JUNIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1045.- SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ; Y DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado deberá armonizar los reglamentos correspondientes dentro de los 180 días siguientes a la entrada en vigor de este Decreto.
