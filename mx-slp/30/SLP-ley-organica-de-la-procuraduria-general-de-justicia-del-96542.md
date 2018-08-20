@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-procuraduria-general-de-justicia-del-96542"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-10-24"
-last_updated: "2014-09-27"
+last_updated: "2018-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y DÉCIMO CUARTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 20 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A PARTIR DE LA EXPEDICIÓN DEL PLAN ESTRATÉGICO DE TRANSICIÓN, MEDIANTE EL CUAL EL FISCAL GENERAL CONTARÁ CON UN PLAZO DE HASTA TRESCIENTOS SESENTA Y CINCO DÍAS PARA SU IMPLEMENTACIÓN.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL TREINTA DE SEPTIEMBRE DEL AÑO DOS MIL CATORCE, PREVIA SU PUBLICACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -35,7 +35,9 @@ DECRETO 357
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS...
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Así, se emite un ordenamiento que fortalece las atribuciones de la institución de (sic) Ministerio Público, con el propósito de que su actuación sea, como siempre, en beneficio de la sociedad potosina, ávida de que la persecución e investigación del delito sea óptima, así como una más y mejor procuración de justicia.
 
@@ -3012,3 +3014,95 @@ PRIMERO. Este Decreto entrará en vigor el treinta de septiembre del dos mil cat
 SEGUNDO. La Procuraduría General de Justicia contará con un plazo máximo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, para crear el organismo desconcentrado denominado Centro de Protección de Personas que Intervienen en el Proceso Penal, conforme lo dispone la ley de la materia y para emitir el Reglamento Interior del mismo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1045.- SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ; Y DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Vigencia. La Ley que se expide con el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”, salvo lo establecido en los artículos transitorios siguientes.
+
+A partir del plazo estipulado en el artículo Décimo Cuarto Transitorio, párrafo primero, de este Decreto, se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, Decreto Legislativo número 357, el veinticuatro de octubre de dos mil trece, y los reglamentos que de la misma deriven.
+
+Quedan derogadas todas las disposiciones que se contrapongan a la presente Ley, y a la reforma constitucional publicada en el Periódico Oficial del Gobierno del Estado “Plan de San Luis” el dos de octubre de dos mil diecisiete, mediante la cual se creó la Fiscalía General de Estado.
+
+Todas las menciones a la Procuraduría General de Justicia del Estado de San Luis Potosí en la normativa correspondiente, se entenderán referidas a la Fiscalía General del Estado de San Luis Potosí, atendiendo al esquema gradual de transición y siempre y cuando no se contrapongan a la reforma constitucional y a la presente Ley.
+
+Asimismo, todos los convenios y actos jurídicos celebrados por la extinta Procuraduría General de Justicia del Estado, se entenderán como vigentes y obligarán en sus términos a la Fiscalía General del Estado, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+SEGUNDO. Nombramiento. En un plazo de un año posterior a la vigencia de la Ley Orgánica de la Fiscalía General del Estado de San Luis Potosí, todo el personal de la Fiscalía General del Estado deberá ser nombrado conforme a las disposiciones previstas en la presente Ley y sus respectivos Reglamentos.
+
+TERCERO. Competencia de los Asuntos del Sistema Tradicional y Sistema Penal Acusatorio Tramitados Antes de la Presente Ley. Los asuntos tramitados y conocidos por la Procuraduría General de Justicia del Estado, antes de la entrada en vigor de la presente Ley, y antes de que sea instalada la Fiscalía General del Estado en términos de los transitorios de este Decreto, seguirán tramitándose por el personal sustantivo y de confianza de la Procuraduría General de Justicia del Estado, que no haya ingresado a la Fiscalía General del Estado, o que habiendo ingresado no haya entregado los asuntos que estén bajo su cargo, y responsabilidad, entendiendo la dualidad de la función hasta la conclusión de su encargo o de la entrega recepción correspondiente; y según sea determinado, además, por la Unidad de Conclusión del Sistema Tradicional a que se hace alusión en estos artículos transitorios.
+
+Precisándose que, por el hecho de ejercer una dualidad de funciones, no implica doble pago o ingreso automático en la Fiscalía General del Estado.
+
+CUARTO. Reglamentación. El Fiscal General del Estado en un término no mayor de nueve meses, contados a partir de la entrada en vigor del presente Decreto, expedirá los siguientes Reglamentos:
+
+- Reglamento interno de la Fiscalía General del Estado.
+
+- Reglamento de la Dirección General de Métodos de Investigación.
+
+- Reglamento del Instituto Universitario de Ciencias Penales y Forenses.
+
+- Reglamento del Servicio Profesional de Carrera.
+
+- Reglamento en Materia de Servicios Periciales.
+
+- Los demás Reglamentos necesarios para la operación y funcionamiento de las áreas sustantivas de la Fiscalía General.
+
+QUINTO. En tanto se expiden los reglamentos a que se refiere el artículo transitorio anterior, se aplicarán las disposiciones de esta Ley, y el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, publicado en el Periódico Oficial del Estado, edición extraordinaria, del diecinueve de septiembre de dos mil nueve, en todo aquello que no se oponga a las disposiciones de esta Ley.
+
+SEXTO. Procedimientos de Responsabilidad, Separación y Remoción. Los procedimientos de responsabilidad administrativa, de separación y remoción de cargo iniciados con antelación a la entrada en vigor de la presente Ley, serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+El trámite de los asuntos iniciados ante la Unidad Especializada en Investigación de Delitos Cometidos por Servidores Públicos, así como los hechos de corrupción cometidos con anterioridad a la entrada en vigor del presente Decreto, serán conocidos y continuados hasta su conclusión por esta Unidad de la Visitaduría General.
+
+SÉPTIMO. Asignación Presupuestaria para la Fiscalía General del Estado. Acorde a los plazos que se establezcan en coordinación con la Secretaría de Finanzas del Gobierno del Estado, y una vez concluidos los reglamentos inherentes a cada parte sustantiva, será solicitado en términos de la reforma constitucional del dos de octubre de octubre (sic) de dos mil diecisiete.
+
+En tanto no se constituya la Fiscalía reglamentada, seguirán operando los artículos transitorios, Quinto, y Sexto, del Decreto Legislativo 705 publicado el dos de octubre de dos mil diecisiete en el Periódico Oficial del Estado.
+
+Asimismo, se faculta al Ejecutivo del Estado para hacer las ampliaciones y los ajustes presupuestales que se requieran para dar cumplimiento a la presente Ley, dentro del presupuesto aprobado para el ejercicio fiscal dos mil dieciocho, y a solicitar la ampliación presupuestal que proceda.
+
+OCTAVO. De conformidad con la Ley General de Contabilidad Gubernamental; la Ley de Disciplina Financiera de las Entidades Federativas y Municipios; así como los lineamientos emitidos por el Consejo Nacional de Armonización Contable (CONAC), deberá de establecerse la creación e implementación de las áreas y de los sistemas informáticos en los que se registrarán las operaciones financieras, presupuestales y programáticas de la Fiscalía General como ente autónomo, a más tardar el 31 de diciembre del 2018, estableciendo los procesos administrativos para la creación de dichas operaciones, con el fin de que la planeación para el ejercicio presupuestal del año 2019 cumpla en su totalidad con las normas establecidas.
+
+NOVENO. La Fiscalía General del Estado contará con un plazo máximo de trescientos sesenta y cinco días, contados a partir de la entrada en vigor del presente Ordenamiento, para instituir las áreas que establece la presente Ley con las que no cuente a su entrada en vigor.
+
+DÉCIMO. Los bienes muebles e inmuebles, recursos presupuestales y financieros que formen parte de la Procuraduría General de Justicia del Estado, pasarán a formar parte de la Fiscalía General del Estado.
+
+DÉCIMO PRIMERO. Plan Estratégico de Transición. A partir de la vigencia del presente Decreto, el Fiscal General del Estado contará con un plazo de noventa días para la Expedición de un Plan Estratégico de Transición, el cual contendrá como mínimo los siguientes puntos:
+
+a) Programa para el diseño de la nueva estructura orgánica.
+
+b) Programa para el ingreso del personal de la Fiscalía General del Estado.
+
+c) Programa estratégico legal de la Fiscalía General del Estado.
+
+d) Programa estratégico económico de la Fiscalía General del Estado.
+
+e) Programa estratégico de traspaso de recursos presupuestales para la instalación, inicio y seguimiento funcional de la Fiscalía General del Estado.
+
+f) Programa estratégico sobre bienes de la Fiscalía General del Estado.
+
+g) Programa de conclusión del sistema tradicional y personal de la Procuraduría General de Justicia del Estado.
+
+DÉCIMO SEGUNDO. El Fiscal General del Estado, deberá designar una Unidad de Clausura de la Procuraduría General de Justicia del Estado de San Luis Potosí, y del sistema tradicional; y una Unidad de Implementación de la Fiscalía General del Estado de San Luis Potosí para el Plan Estratégico de Transición.
+
+Dichas unidades deberán generar esquemas de coordinación para el traslado de recursos humanos, materiales, financieros y todo lo relacionado a la transmisión de los procesos sustantivos, que surjan entre los procesos de clausura de las estructuras de la Procuraduría General de Justicia del Estado de San Luis Potosí, y el de diseño e instalación de la Fiscalía General del Estado.
+
+Estas unidades deberán coordinarse y estar en comunicación, a través del Fiscal General, el cual deberá supervisar de manera puntual la ejecución del Plan Estratégico de Transición, y sus miembros serán prestadores de servicios profesionales que tengan experiencia y conocimiento en gestión de instituciones públicas o privadas, diseño, evaluación e implementación de políticas públicas, y proceso penal acusatorio; en el caso de la Unidad de Clausura, que tengan experiencia y conocimiento en procesos de transición institucional, manejo de recursos humanos en instituciones públicas. Durarán en su encargo el tiempo que dure el Plan de Clausura y el proceso de diseño e instalación de la Fiscalía General del Estado.
+
+El personal de base de la Procuraduría General de Justicia del Estado, durante la transición a la que alude el párrafo anterior, conservará su salario, nivel, antigüedad, y demás prestaciones de las que gocen; concluido dicho término aquellos que, en su caso, sean reubicados en otras dependencias o entidades de Gobierno del Estado, seguirán gozando de dichas prestaciones en los mismos términos.
+
+DÉCIMO TERCERO. Lineamientos Provisionales. En tanto se expiden los Reglamentos Interiores de la Fiscalía General del Estado, el Fiscal General deberá expedir dentro de un plazo máximo de noventa días contados a partir de la vigencia del presente Decreto, los lineamientos provisionales para la organización interna.
+
+Durante este plazo permanecerá vigente la actual estructura orgánica de la Procuraduría General de Justicia, y la relación laboral se tendrá entendida con el Gobierno del Estado.
+
+DÉCIMO CUARTO. Proceso de Traslado Gradual de los recursos humanos e Instalación de la Fiscalía General del Estado de San Luis Potosí. A partir de la expedición del Plan Estratégico de Transición, el Fiscal General contará con un plazo de hasta de trescientos sesenta y cinco días para su implementación, así como para la expedición de los Reglamentos Interiores de la Fiscalía General del Estado.
+
+Durante el plazo referido en el párrafo anterior, se llevarán a cabo todos los ajustes administrativos para la operación de la Fiscalía General del Estado como órgano constitucional autónomo. Concluido dicho plazo, la Fiscalía General del Estado deberá funcionar en términos de la presente Ley, y conocerá de los hechos señalados como delitos por las leyes estatales, federales, generales o especiales de su competencia legal a partir de ese día.
+
+La Fiscalía General del Estado podrá atraer y conocer de los casos del sistema penal acusatorio por interés o trascendencia, que hayan sido iniciados por la Procuraduría General de Justicia del Estado de San Luis Potosí, antes del inicio de vigencia de la presente Ley, y antes de concluido el plazo para su instalación definitiva, de tal suerte que sólo podrán ser conocidas por las Fiscalías Especializadas en la estructura de la Fiscalía General del Estado, por atracción directa del Fiscal General.
+
+DÉCIMO QUINTO. Las averiguaciones previas iniciadas con anterioridad a la entrada en vigor del Sistema Penal Acusatorio, continuarán su trámite y serán resueltas en los términos de las disposiciones legales aplicables, en concatenación con lo relativo al Plan de Clausura.
+
+Para los efectos del párrafo anterior el Fiscal General del Estado, continuará con las atribuciones a que se refieren los artículos, quinto y sexto transitorios del Decreto Legislativo 705, de creación de la Fiscalía General del Estado;
+
+Para los efectos del párrafo primero del presente artículo, los Agentes del Ministerio Público, los Peritos, y los Agentes de la Policía, desempeñarán sus atribuciones en los términos de las disposiciones aplicables en el momento del hecho.
