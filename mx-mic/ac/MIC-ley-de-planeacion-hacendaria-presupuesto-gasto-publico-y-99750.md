@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-hacendaria-presupuesto-gasto-publico-y-99750"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2016-12-31"
+last_updated: "2018-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 20 de marzo de 2014.
 
@@ -257,9 +257,11 @@ C) Cuando en el decreto se consideren ingresos extraordinarios, se deberá obser
 
 D) Cuando se trate de leyes de ingresos municipales, se deberá agregar el acta de cabildo en la que fue debidamente aprobada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 9°.
 
-La Secretaría publicará a más tardar el mes de julio en el Periódico Oficial, el calendario con base mensual de la proyección de ingresos estimados de las participaciones, aportaciones o transferencias federales para cada uno de los municipios del Estado, para el ejercicio fiscal de que se trate.
+La Secretaría publicará a más tardar el día diez de septiembre en el Periódico Oficial, el calendario con base mensual de la proyección de ingresos estimados de las participaciones en ingresos federales y estatales y las aportaciones federales y estatales para cada uno de los municipios del Estado, para el ejercicio fiscal de que se trate.
 
 Las estimaciones a que se refiere el párrafo anterior se ajustarán cuando se publique el presupuesto de la Federación.
 
@@ -1558,3 +1560,11 @@ TERCERO. Los reglamentos, manuales y demás disposiciones administrativas que en
 CUARTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán, para su conocimiento y efectos legales conducentes.
 
 QUINTO. El porcentaje a que hace (sic) referencia los artículos derogados 21 y 31, relativo a los adeudos del ejercicio fiscal, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, será del cinco por ciento para el ejercicio 2017, cuatro por ciento para el 2018, tres por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en la citada Ley.
+
+P.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 630 POR EL QUE “SE REFORMA EL ARTÍCULO 9° PÁRRAFO PRIMERO DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, a los 112 Ayuntamientos del Estado y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y efectos conducentes.
