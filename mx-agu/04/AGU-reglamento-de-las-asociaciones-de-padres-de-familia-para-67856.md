@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-las-asociaciones-de-padres-de-familia-para-67856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-30"
-last_updated: "2010-11-01"
+last_updated: "2018-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # REGLAMENTO DE LAS ASOCIACIONES DE PADRES DE FAMILIA PARA LAS ESCUELAS PUBLICAS DE EDUCACION BASICA DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO DE LAS ASOCIACIONES DE PADRES DE FAMILIA PARA LAS ESCUELAS PUBLICAS DE EDUCACION BASICA DEL ESTADO DE AGUASCALIENTES
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LAS ASOCIACIONES DE PADRES DE FAMILIA PARA LAS ESCUELAS PÚBLICAS DE EDUCACIÓN BÁSICA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE FECHA 20 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2010.
+REGLAMENTO DE LAS ASOCIACIONES DE PADRES DE FAMILIA PARA LAS ESCUELAS PÚBLICAS DE EDUCACIÓN BÁSICA DEL ESTADO DE AGUASCALIENTES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de marzo de 2009.
 
@@ -712,8 +714,32 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 
 Dado por el Poder Ejecutivo en la ciudad de Aguascalientes, Ags., marzo de 2009.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 1 DE NOVIEMBRE DE 2010.
 
 ÚNICO: Las reformas y adiciones realizadas al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LAS ASOCIACIONES DE PADRES DE FAMILIA PARA LAS ESCUELAS PÚBLICAS DE EDUCACIÓN BÁSICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO
+
+Se abroga el Reglamento de las Asociaciones de Padres de Familia para las Escuelas Públicas de Educación Básica del Estado de Aguascalientes, publicado el 30 de marzo de 2009 en el Periódico Oficial del Estado y sus reformas del 1º de noviembre de 2010.
+
+###### ARTÍCULO TERCERO
+
+Para la integración de las Mesas Directivas de las Asociaciones de Padres de Familia correspondientes, se deberán sujetar a lo siguiente:
+
+I. Quienes hayan sido elegidos previo a la entrada en vigor del presente Reglamento, durarán en su encargo únicamente hasta julio de 2019, debiéndose apegar a las disposiciones vigentes para el Ciclo Escolar 2019-2020.
+
+II. La integración de las nuevas mesas directivas de instituciones educativas, deberán apegarse a las disposiciones establecidas en el presente Reglamento.
+
+###### ARTÍCULO CUARTO
+
+Todas aquellas disposiciones que se opongan al presente Reglamento quedarán sin efecto.
