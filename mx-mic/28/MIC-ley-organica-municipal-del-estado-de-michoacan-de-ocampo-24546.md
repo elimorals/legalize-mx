@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2018-02-14"
+last_updated: "2018-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -2395,15 +2395,13 @@ En lo no previsto en esta Ley, se aplicará supletoriamente lo establecido en la
 
 La Hacienda Pública Municipal se constituirá por los ingresos que señale la Ley de Hacienda Municipal y la Ley de Ingresos que apruebe el Congreso del Estado. Además, con aquellos ingresos que determinen las Leyes y decretos federales y estatales y los convenios respectivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 142.
 
-Las iniciativas de Ley de ingresos municipales deberán presentarse para su aprobación, ante el Congreso del Estado, a más tardar el treinta y uno de agosto del año anterior al que se ejercerán. Estas leyes tendrán vigencia anual y regirán el ejercicio fiscal de que se trate, a partir del uno de enero y hasta el treinta y uno de diciembre del año al que correspondan.
+Las iniciativas de Ley de Ingresos Municipales deberán presentarse para su aprobación ante el Congreso del Estado, a más tardar el veinte de septiembre del año anterior al de su aplicación. Estas leyes tendrán vigencia anual y regirán el ejercicio fiscal de que se trate, a partir del uno de enero y hasta el treinta y uno de diciembre del año al que correspondan.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
-
-En el caso de las administraciones que concluyen su periodo constitucional no presentaren la Iniciativa de Ley de Ingresos Municipal para el ejercicio fiscal siguiente, las administraciones municipales que inicien su periodo constitucional, deberán presentarla para su aprobación, ante el Congreso del Estado en un plazo no mayor a treinta días contados a partir de la toma de posesión.
+En el año en que termina su encargo, la administración municipal deberá elaborar el anteproyecto de iniciativa de Ley de Ingresos en apoyo al Ayuntamiento Electo, incluyendo sus recomendaciones, a efecto de que éste último la presente al Congreso del Estado, a más tardar el día treinta del mes de septiembre.
 
 ###### Artículo 143.
 
@@ -3248,3 +3246,11 @@ P.O. 14 DE FEBRERO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Se concede a todos los Ayuntamientos el plazo de sesenta días naturales para que expidan o en su caso revisen y actualicen sus reglamentos municipales.
+
+P.O. 20 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 630.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 9° PÁRRAFO PRIMERO DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO 142 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA EL ARTÍCULO 36 FRACCIÓN XIV PÁRRAFOS PRIMERO Y TERCERO DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, a los 112 Ayuntamientos del Estado y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y efectos conducentes.
