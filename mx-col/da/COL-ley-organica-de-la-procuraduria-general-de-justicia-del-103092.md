@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-procuraduria-general-de-justicia-del-103092"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-25"
-last_updated: "2016-11-22"
+last_updated: "2018-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 21 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2018 (ABROGADO).
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima el sábado 25 de octubre de 2014.
 
@@ -2120,3 +2122,29 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 21 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 475 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga le Ley Orgánica de la Procuraduría General de Justicia del Estado de Colima publicada en el Periódico Oficial "El Estado de Colima" el 25 de octubre de 2014.
+
+TERCERO. Quedan abrogados, de manera progresiva y gradual, los preceptos de la Ley Orgánica del Ministerio Público para el Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el 04 de octubre de 1997, así como sus reformas, entre tanto se resuelven los procedimientos iniciados con antelación a la entrada en vigor de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Colima señalada en el artículo transitorio anterior, los cuales se regirán por las disposiciones vigentes al momento de su inicio.
+
+CUARTO. En términos de lo previsto por el Artículo Segundo Transitorio del Decreto 08, publicado en Periódico Oficial "El Estado de Colima" el 7 de noviembre del año 2015, que reformó, adicionó y derogó diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Colima, el Congreso del Estado deberá emitir la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General del Estado.
+
+QUINTO. Una vez emitida la declaratoria señalada en el artículo transitorio anterior, el Gobernador por única vez podrá designar directamente al Fiscal General del Estado, debiendo ejercer esta facultad en el plazo máximo de diez días hábiles contados a partir del día siguiente a la emisión de la referida declaratoria.
+
+SEXTO. Los asuntos y procedimientos penales que se encuentren en trámite ante la Procuraduría General de Justicia del Estado a la entrada en vigor de la presente Ley, continuarán su trámite ante la Fiscalía General del Estado, de conformidad a las disposiciones del sistema de justicia penal vigente al momento de su inicio.
+
+SÉPTIMO. Todos los recursos materiales y financieros, así como el personal adscrito a la Procuraduría General de Justicia del Estado, se consideran transferidos a la Fiscalía General del Estado, con pleno respeto a sus derechos laborales.
+
+OCTAVO. El Fiscal General, en el ámbito de su competencia, estará facultado para emitir los reglamentos, acuerdos, decretos y lineamientos necesarios para proveer en la esfera administrativa la exacta observancia de las disposiciones contenidas en la presente Ley.
+
+El Ejecutivo del Estado, conservará, en el ámbito de su competencia y sin perjuicio de lo dispuesto en el párrafo anterior, su facultad reglamentaria en los términos que anteceden.
+
+NOVENO. Cualquier mención realizada en las leyes, reglamentos y demás ordenamientos jurídicos del Estado con relación a la Procuraduría General de Justicia del Estado, al Procurador General de Justicia y a la Policía Ministerial, incluyendo sus términos equivalentes, se entenderá hecha a la Fiscalía General del Estado, al Fiscal General del Estado y a la Policía Investigadora, respectivamente, quienes asumirán todas las funciones y atribuciones que dichas leyes, reglamentos y ordenamientos disponen para esas autoridades cuya denominación y organización ha cambiado.
+
+DÉCIMO. La Fiscalía General del Estado deberá seguir observando todas las disposiciones reglamentarias y administrativas aplicables a la fecha de entrada en vigor de la presente Ley para la Procuraduría General de Justicia del Estado que no se opongan a la misma, en tanto entren en vigor sus propias disposiciones.
