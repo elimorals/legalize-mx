@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-desarrollo-de-las-convivencias-y-116212"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-08-31"
-last_updated: "2016-08-31"
+last_updated: "2018-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116212&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-07-12"
 ---
 # REGLAMENTO PARA EL DESARROLLO DE LAS CONVIVENCIAS Y ENTREGAS-RECEPCIONES, QUE SE LLEVAN A CABO EN EL CENTRO DE CONVIVENCIA FAMILIAR SUPERVISADA DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL DESARROLLO DE LAS CONVIVENCIAS Y ENTREGAS-RECEPCIONES, QUE SE LLEVAN A CABO EN EL CENTRO DE CONVIVENCIA FAMILIAR SUPERVISADA DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 21 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO PARA EL DESARROLLO DE LAS CONVIVENCIAS Y ENTREGAS-RECEPCIONES, QUE SE LLEVAN A CABO EN EL CENTRO DE CONVIVENCIA FAMILIAR SUPERVISADA DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2018 (DEROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 31 de agosto de 2016.
 
@@ -709,3 +711,17 @@ TERCERO.- Se dejan sin efecto todas las disposiciones legales y administrativas 
 CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 66, FRACCIÓN V, DEL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, LA LICENCIADA ZAIRA LILIANA JIMENEZ SEADE, SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO.--------------------------------------------------------------------------------------------------------------------------------------- C E R T I F I C A--------------------------------------------QUE LAS PRESENTES FOJAS (Dieciséis), CONCUERDAN CON LA PARTE CONDUCENTE DEL ACUERDO 22-30/2016, EMITIDO POR EL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, EN SESION PLENARIA DE FECHA DOCE DE JULIO DE DOS MIL DIECISÉIS, PARA SU PUBLICACIÓN EN LA GACETA DE LA CIUDAD DE MÉXICO, EN CUMPLIMIENTO AL ACUERDO DE MERITO. SE EXPIDE LA PRESENTE, PARA LOS EFECTOS PROCEDENTES, A LOS OCHO DÍAS DEL MES DE AGOSTO DE DOS MIL DIECESÉIS (SIC).- DOY FE.
 
 (Firma)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA EL DESARROLLO DE LAS CONVIVENCIAS Y ENTREGAS-RECEPCIONES, QUE SE LLEVAN A CABO EN EL CENTRO DE CONVIVENCIA FAMILIAR SUPERVISADA DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia de la Ciudad de México y para su mayor difusión, se publicará en la Gaceta Oficial de la Ciudad de México y en el Portal Web del Poder Judicial de la Ciudad de México.
+
+SEGUNDO.- Se deroga el Reglamento para el Desarrollo de las Convivencias y Entregas-Recepciones, que se llevan a cabo en el Centro de Convivencia Familiar Supervisada del Tribunal Superior de Justicia de la Ciudad de México, aprobado por el Consejo de la Judicatura de la Ciudad de México, mediante Acuerdo General 22-30/2016, de fecha 12 de julio de 2016.
+
+TERCERO.- Se dejan sin efecto todas las disposiciones legales y administrativas internas que se opongan al presente Reglamento.
+
+CUARTO.- Se instruye a la Secretaría General del Consejo de la Judicatura de la Ciudad de México, hacer del conocimiento de los Órganos Jurisdiccionales en Materia Familiar, mediante la circular respectiva, las disposiciones contenidas en este acuerdo para su debida atención y cumplimiento.
