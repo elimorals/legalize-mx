@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2018-07-31"
+last_updated: "2018-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,19 @@ state: "GRO"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO -ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO QUE DEROGA LA DE 29 DE NOVIEMBRE DE 1880-
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+
+NOTA 2. EL 18 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 78/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 756 POR EL QUE SE REFORMA EL ARTÍCULO 14 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO EN MATERIA DE DERECHOS Y CULTURA INDÍGENA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTIUNO DE AGOSTO DE DOS MIL DIECIOCHO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2018.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
 El Ciudadano General Silvestre G. Mariscal, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a los habitantes del mismo sabed: Que, por la Secretaría del H. Congreso del Estado, se me ha comunicado lo siguiente:
 
 El XXIII Congreso Constitucional del Estado Libre y Soberano de Guerrero, en nombre del pueblo que representa y en su carácter de Constituyente, de conformidad con lo dispuesto en el Decreto número 6 del Gobierno Provisional del propio Estado, de fecha 16 de mayo del año en curso de 1917, ha tenido a bien expedir, la siguiente:
-
-> <small>N. DE E. EL DECRETO NUMERO 453, EXPEDIDO POR LA SEXAGÉSIMA LEGISLATURA, PUBLICADO EN EL P.O. DE 29 DE ABRIL DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -257,11 +257,13 @@ En el diseño, implementación y evaluación de las políticas públicas se inco
 
 El Estado establecerá las medidas necesarias para la protección y el acceso a la salud de las mujeres y niñas de los pueblos indígenas y comunidades afromexicanas atendiendo, principalmente, a su salud sexual y reproductiva, proveyendo lo necesario en los aspectos de enfermedades infecto contagiosas y maternidad.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+(NOTA: EL 18 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 78/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 756 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 14.
 
-El Estado reconoce y garantiza las acciones de seguridad pública y prevención del delito; de su sistema de faltas, sujetas a su reglamento interno, que no constituyan ilícitos tipificados en el Código Penal del Estado, y que implementen los Pueblos y Comunidades Indígenas y Afromexicanas, dentro de sus localidades, de acuerdo a sus prácticas tradicionales, cuyo seguimiento de acción se dará a través de su Policía Comunitaria o Rural, integradas por los miembros de cada comunidad y designados en Asamblea Popular o General, y con sujeción a la Ley de Seguridad Publica y su reglamento interno de esta entidad. Dichas policías tendrán una estrecha vinculación, colaboración y coordinación con el Sistema Estatal de Seguridad Pública, en lo que hace a su registro, control, supervisión, asesoría, capacitación y evaluación.
+La ley establecerá las bases para una adecuada delimitación de competencias en las materias de seguridad pública e impartición de justicia y de los mecanismos legales de vinculación y coordinación entre los sistemas normativos indígenas y el sistema jurídico estatal, para que los pueblos indígenas y afromexicanos apliquen sus propios sistemas normativos. Tratándose de delitos que afecten bienes jurídicos propios de un pueblo o comunidad indígena o afromexicana, o bienes personales de alguno de sus miembros, se estará a lo dispuesto por la legislación nacional aplicable.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -5164,3 +5166,19 @@ SEGUNDO. En términos de la fracción III, del artículo 199 de la Constitución
 TERCERO. Remítase al Titular del Poder Ejecutivo, para su reconocimiento y efectos legales conducentes.
 
 CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento general.
+
+(NOTA: EL 18 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 78/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 756 POR EL QUE SE REFORMA EL ARTÍCULO 14 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO EN MATERIA DE DERECHOS Y CULTURA INDÍGENA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTIUNO DE AGOSTO DE DOS MIL DIECIOCHO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 21 DE AGOSTO DE 2018.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. El Congreso del Estado, dentro del plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá aprobar la legislación secundaria en la materia.
+
+TERCERO. En tanto se expiden y reforman las leyes a que se refiere el Segundo Transitorio, continuará aplicándose la legislación en materia de derechos y cultura indígena, que se encuentren vigentes en el Estado, a la fecha de entrada en vigor del presente Decreto.
+
+CUARTO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los Honorables Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+QUINTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+SEXTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
