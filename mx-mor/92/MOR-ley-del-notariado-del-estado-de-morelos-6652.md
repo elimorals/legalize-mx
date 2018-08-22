@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-notariado-del-estado-de-morelos-6652"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-03"
-last_updated: "2017-11-01"
+last_updated: "2018-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 3 de agosto de 1983.
 
@@ -69,15 +69,17 @@ La vigilancia del cumplimiento de esta Ley, corresponde al Ejecutivo del Estado,
 
 El Ejecutivo del Estado, en la esfera administrativa, dictará las medidas que estime pertinentes para el exacto cumplimiento de esta Ley, y para la eficaz prestación del servicio público del Notariado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 4o.
 
-Los Notarios del Estado de Morelos, deberán ejercer sus funciones dentro de los límites de éste, debiendo establecer sus oficinas y su residencia en la Demarcación Notarial que les corresponda, conforme a esta Ley.
+Los Notarios del Estado de Morelos, deberán ejercer sus funciones en toda la Entidad Federativa, bajo el principio de rogación.
 
-Los actos que formalice podrán referirse a cualquier otro lugar, siempre que se dé cumplimiento a las disposiciones de esta Ley.
+Los Notarios no podrán establecer sus oficinas fuera de los límites de su demarcación o del estado de Morelos, so pena de ser inhabilitado en su función.
 
-Quien carezca de la patente de Notario expedida para actuar en el Estado de Morelos, no podrá ejercer sus funciones notariales dentro de los límites del mismo, ni instalar oficinas.
+Los actos que se celebren ante su fe podrán referirse a cualquier lugar, siempre que se firmen las escrituras o actas correspondientes por las partes dentro del estado de Morelos y de cumplimiento en las disposiciones de esta Ley.
+
+Se prohíbe a quienes no son notarios usar anuncios al público, en oficinas de servicios o comercios que puedan constituir una idea de que quien los usa, o a quién beneficia, realiza trámites o funciones notariales, sin ser Notario, tales como: “Asesoría notarial”, “Trámites notariales”, así como otros términos semejantes, referidos a la función notarial.
 
 ###### ARTICULO 5o.
 
@@ -109,13 +111,13 @@ Las demarcaciones Notariales tendrán como finalidad atender las necesidades de 
 
 Notario es el profesional del Derecho encargado de la función pública notarial, consistente en dar forma legal a la voluntad de las partes, redactar los instrumentos adecuados a ese fín, confiriéndoles autenticidad; conservar los originales de éstos y los testimonios correspondientes. En su función, está comprendida la autenticación de hechos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 10.
 
-Cuando una o varias Notarías estuvieren vacantes o se resolviere crear una o más nuevas en los términos del Artículo 8o. de esta Ley, el Ejecutivo del Estado, publicará convocatoria para que los aspirantes al ejercicio del Notariado presenten el examen de oposición correspondiente. Esta convocatoria mencionará, entre otros datos la Demarcación Notarial en donde se ubique la Notaría vacante o de nueva creación y será publicada por una sola vez, en el Periódico Oficial del Estado, y por tres veces consecutivas y con intervalos de cinco días en uno de los periódicos de mayor circulación en el Estado.
+Cuando una o varias Notarías estuvieren o sea inminente el estado de vacancia o se resolviere crear una o más nuevas en los términos del artículo 8° de esta Ley, el Ejecutivo del Estado, previa expedición y sin necesidad de declaratoria de vacancia, publicará convocatoria para que los aspirantes al ejercicio del Notariado presenten el examen de oposición correspondiente. Esta convocatoria mencionará, entre otros datos, la Demarcación Notarial en donde se ubique la Notaría a concursar y será publicada por una sola vez, en el Periódico Oficial del Estado, y por tres veces consecutivas y con intervalos de cinco días en uno de los periódicos de mayor circulación en el Estado.
 
-En un plazo de treinta días hábiles, contados a partir de la fecha de la última publicación, los aspirantes deberán acudir ante la Secretaría General de Gobierno a presentar su solicitud para ser admitidos en el examen de oposición.
+En un plazo de treinta días hábiles, contados a partir de la fecha de la última publicación, los aspirantes deberán acudir ante la Secretaría de Gobierno a presentar su solicitud para ser admitidos en el examen de oposición.
 
 #### SECCION SEGUNDA. DE LOS REQUISITOS PARA SER ASPIRANTE AL NOTARIADO Y NOTARIO
 
@@ -211,13 +213,15 @@ Reunido el Jurado, cada uno de sus miembros interrogará al sustentante sobre cu
 
 Una vez concluido el examen de cada sustentante, el Secretario del Jurado dará lectura al trabajo práctico del mismo.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 20.
 
 Concluida la prueba teórica de cada sustentante, los miembros del Jurado emitirán separadamente y por escrito, la calificación que cada uno de ellos otorgue a las pruebas prácticas y teóricas.
 
-Los miembros del Jurado calificarán cada prueba en escala numérica del 0 al 10 y promediarán los resultados. La suma de los promedios se dividirán entre cinco para obtener la calificación final, cuyo mínimo para aprobar será el de 7 puntos.
+Los miembros del Jurado calificarán cada prueba en escala numérica del 0 al 10 y promediarán los resultados. La suma de los promedios se dividirá entre cinco para obtener la calificación final, cuyo mínimo para aprobar será el de 7 puntos.
 
-El Jurado a puerta cerrada, determinará quién de los aprobados resultó con mayor puntuación para recibir la patente de Notario. En el caso de empate en la puntuación, se otorgará al sustentante con mayor antigüedad en el registro de aspirantes y si también fueran coincidentes, se resolverá por mayoría de votos en favor de quién el Jurado emita su veredicto y en cualquier caso éste será inapelable. El Secretario levantará el acta correspondiente que deberá, en todos los casos ser suscrita por los integrantes del Jurado.
+El Jurado a puerta cerrada, determinará quién de los aprobados resultó con mayor puntuación para recibir la patente de Notario. En el caso de empate en la puntuación, se otorgará al sustentante con mayor antigüedad en el registro de aspirantes y si también fueran coincidentes, por el que se haya hecho cargo de un protocolo notarial o fungido como sustituto de un notario por el mayor número de veces y, si esto no fuere posible, se resolverá por mayoría de votos en favor de quién el Jurado emita su veredicto y en cualquier caso éste será inapelable. El Secretario levantará el acta correspondiente que deberá, en todos los casos ser suscrita por los integrantes del Jurado.
 
 ###### ARTICULO 21.
 
@@ -359,7 +363,7 @@ I.- Actuar en los asuntos que se les encomienda, si alguna circunstancia les imp
 
 II.- Intervenir en el acto o hecho que por Ley corresponda exclusivamente a algún funcionario público.
 
-III.- Actuar como Notario en caso de que intervengan por sí o en representación de tercera persona, su cónyuge, sus parientes consanguineos o afines en línea colateral hasta el cuarto grado inclusive, y los afines en la colateral hasta el segundo grado.
+III.- Actuar como Notario en caso de que intervengan por sí o en representación de tercera persona, su cónyuge, sus parientes consanguíneos o afines en línea colateral hasta el cuarto grado inclusive, y los afines en la colateral hasta el segundo grado.
 
 IV.- Ejercer sus funciones si el acto o hecho interesa al Notario, a su cónyuge o a alguno de sus parientes en los grados que expresa la fracción inmediata anterior.
 
@@ -483,27 +487,25 @@ La numeración de las escrituras y actas notariales será progresiva, sin interr
 
 No habrá entre un instrumento y otro, más espacio que el indispensable para las firmas y la autorización.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 48.
 
-Cuando esté por concluir el libro o juego de libros que están en uso del protocolo del Notario, éste lo comunicará por escrito a la Secretaría General de Gobierno y le enviará el libro o juego de libros en que habrá de continuar actuando y una vez legalizados por su titular se remitirán al Archivo General de Notarías, de donde los recogerá el interesado al dar el Notario el aviso de terminación correspondiente.
+Cuando el Notario o quien lo sustituya esté por concluir el libro o juego de libros que están en uso, lo comunicará por el (sic) escrito al Secretario de Gobierno y le enviará el libro o juego de libros en que habrá de continuar actuando y, una vez autorizados dentro del plazo de tres días, se pondrán a disposición del notario solicitante.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 49.
 
-Cuando el Notario no pueda dar cabida a otro instrumento en el libro o juego de libros que tiene en uso, anotará en cada libro, después de la última escritura pasada, una razón de terminación de ese volumen, con expresión de la fecha y la hora de su asiento, y el número de páginas utilizado e instrumentos asentados.
+Cuando el Notario o quien lo esté sustituyendo no pueda dar cabida a otro instrumento en el libro o juego de libros de protocolo que tiene en su uso, anotará en cada folio, después del último instrumento una razón de terminación de ese volumen, con expresión de la fecha y la hora de su asiento y el número de páginas utilizando en instrumentos asentados, razones en la (sic) que deberán asentarse la firma y sello de autorizar.
 
-El Notario pondrá su firma y sello de autorizar y comunicará el contenido del aviso de terminación al Archivo General de Notarías.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 50.
 
-A partir de la fecha en que se haga la anotación de terminación de volumen a que se refiere el Artículo anterior, el Notario dispondrá de un término de sesenta días naturales para asentar la razón de cierre en cada libro en la que se deberá hacer constar los documentos extendidos, los instrumentos autorizados, el día y hora en que se cierre el libro, así como los instrumentos que no pasaron; los que estén pendientes de autorización definitiva los enumerará y señalará el motivo por el que estén pendientes, y pondrá su firma y su sello.
+A partir de la fecha en que se haga la anotación de terminación del volumen a que se refiere el artículo anterior el Notario o quien lo sustituya en un término de 90 días, asentará una razón de cierre en cada libro o juego de libros, en la que se deberá hacer constar los documentos extendidos, los instrumentos que no pasaron, los que estén pendientes y pondrá su firma y sello de autorizar.
 
-Dentro de los sesenta días naturales siguientes a la fecha del cierre del libro, el Notario los enviará al Archivo General de Notarías y recabará el recibo correspondiente.
-
-El director del Archivo General de Notarías expedirá certificación de la fecha y hora en que se cierre el libro y lo devolverá al Notario dentro de los quince días hábiles siguientes, previa inutilización por medio de líneas cruzadas y perforaciones de las hojas en blanco que hayan sobrado.
-
-Cuando el Notario tenga su protocolo en varios libros, al cerrar uno tendrá que cerrarlos todos para los efectos indicados.
+El Notario o quien lo sustituya enviará al Archivo General de Notarios el libro o juego de libros, para la certificación de cierre, previa inutilización por medio de líneas cruzadas en las hojas en blanco que hayan sobrado.
 
 ###### ARTICULO 51.
 
@@ -565,7 +567,7 @@ No deberá modificarse en una escritura la descripción de un inmueble, si con �
 
 IV.- Al citar un instrumento otorgado ante otro Notario, expresará el nombre del Notario y el número de la Notaría a la que corresponde el protocolo en que consta, el número y fecha del instrumento de que se trate y en su caso, los de la inscripción en el Registro Público de la Propiedad.
 
-V.- Consignará el acto en claúsulas redactadas con claridad, concisión y sin palabras o fórmulas inútiles o anticuadas.
+V.- Consignará el acto en cláusulas redactadas con claridad, concisión y sin palabras o fórmulas inútiles o anticuadas.
 
 VI.- Designará con precisión las cosas que sean objeto del acto, de tal modo que no puedan confundirse con otras; y si se tratare de bienes inmuebles, determinará su naturaleza, su ubicación y sus colindancias o linderos, y en cuanto fuere posible, sus dimensiones y extensión superficial.
 
@@ -1005,17 +1007,15 @@ Los Notarios no autorizarán los documentos que con carácter de minutas les pre
 
 Los Notarios podrán separarse del ejercicio de sus funciones o ausentarse del lugar de residencia de su Notaría, en cada trimestre, por quince días sucesivos o alternados, o en un semestre por un mes, dando aviso a la Secretaría General de Gobierno.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 103.
 
-Los Notarios podrán solicitar del Ejecutivo del Estado, por medio del Secretario General de Gobierno, Licencias para separarse de su cargo por motivos personales justificados hasta por el término de un año renunciable. El otorgamiento de esta Licencia es atribución discrecional del Titular del Ejecutivo.
+Los Notarios podrán solicitar del Ejecutivo del Estado, por medio del Secretario de Gobierno, Licencias para separarse de su cargo por motivos personales justificados hasta por el término de un año renunciable. El otorgamiento de esta Licencia es atribución discrecional del Titular del Ejecutivo.
 
-Cuando se les hubiese concedido una Licencia por el supuesto anterior, no tendrán derecho a otra sino después de que haya transcurrido un año de estar en el ejercicio de su función notarial, salvo el caso previsto en el Párrafo siguiente.
+Cuando se les hubiese concedido una Licencia por el supuesto anterior, no tendrán derecho a otra sino después de que haya transcurrido un año de estar en el ejercicio de su función notarial, salvo el caso previsto en el párrafo siguiente.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1989)</small>
-
-Para el desempeño de un cargo público o de un puesto de elección popular. Los Notarios tienen derecho a solicitar y a obtener Licencia para separarse del ejercicio de sus funciones por todo el tiempo de duración de su encargo.
+Para el desempeño de un cargo público o de un puesto de elección popular, los notarios tienen derecho a solicitar y a obtener licencia para separarse del ejercicio de sus funciones por todo el tiempo de duración de su encargo, sin que puedan ser sujetos de inspecciones a sus respectivas notarías hasta que se reincorporen, atendiendo a los principios de indelegabilidad de la función notarial y debido proceso que garantiza una adecuada defensa.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1989)</small>
 
@@ -1193,17 +1193,25 @@ Para ser inspector de notarías, el interesado, además de satisfacer los requis
 
 Los inspectores de Notarías practicarán visitas de inspección y vigilancia a las notarías, previa orden por escrito, fundada y motivada por la Secretaría General de Gobierno, en la que se expresará el nombre del Notario, el tipo de la inspección a realizarse, el motivo de la visita, el número de la notaría a visitar, la fecha y la firma de la autoridad que la expida.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 121.
 
-La Secretaría General de Gobierno ordenará visitas de inspección general a las notarías, por lo menos una vez al año.
+La Secretaría General de Gobierno (sic) ordenará visitas de inspección general a las Notarías cada tres años.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 122.
 
-La Secretaría General de Gobierno, al tener conocimiento de que en una notaría se ha cometido alguna contravención a esta Ley o a sus Reglamentos, designará un inspector de notarías para que practique una investigación en la notaría de que se trate, constriñéndose a los hechos consignados en la orden respectiva y le enviará al Colegio de Notarios del Estado, una copia de la queja.
+La Secretaría General de Gobierno (sic) únicamente procederá en contra de un notario mediante queja presentada por quien acredite interés jurídico, en la que se advierta claramente que en una Notaría se ha cometido alguna contravención a esta Ley o a sus Reglamentos, designará un inspector de Notarías para que practique una investigación en la Notaría de que se trate, con excepción de la Notaría donde su titular se encuentre en licencia y hasta en tanto ésta concluya, constriñéndose a los hechos consignados en la orden respectiva y le enviará al Colegio de Notarios del Estado, una copia de la queja.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 123.
 
-Las visitas se practicarán en las oficinas de la notaría, en días y horas hábiles. Si la visita fuere general, el Notario deberá ser notificado con cinco días de anticipación por la Secretaría General de Gobierno; si la visita fuere especial, no se requerirá la notificación anticipada.
+Las visitas se practicarán en las oficinas de la Notaría, en días y horas hábiles. Si la visita fuere general, el Notario deberá ser notificado con quince días de anticipación por la Secretaría General de Gobierno (sic); si la visita fuere especial, no se requerirá la notificación anticipada.
+
+Las visitas especiales únicamente podrán ordenarse como consecuencia de una queja presentada en los términos especificados en el artículo anterior.
 
 ###### ARTICULO 124.
 
@@ -1497,7 +1505,7 @@ TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango je
 
 P.O. 22 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS SETENTA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY. ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS, Y DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS SETENTA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY. ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS, Y DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS".]
 
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -1522,3 +1530,13 @@ P.O. 1 DE NOVIEMBRE DE 2017.
 PRIMERO. REMÍTASE EL PRESENTE DECRETO AL GOBERNADOR CONSTITUCIONAL DEL ESTADO, PARA LOS EFECTOS DE LO DISPUESTO POR LOS ARTÍCULOS 44 Y 70, FRACCIÓN XVIII, INCISOS A), B) Y C), DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 SEGUNDO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL “TIERRA Y LIBERTAD”, ÓRGANO DE DIFUSIÓN OFICIAL DEL GOBIERNO DEL ESTADO DE MORELOS.
+
+P.O. 22 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS TREINTA Y SIETE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango normativo que se opongan al presente Decreto.
