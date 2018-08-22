@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2018-08-18"
+last_updated: "2018-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -387,7 +387,7 @@ IV.- Para el mejoramiento integral del Estado, deberá plantearse el desarrollo 
 
 V.- Los centros de población que hayan cumplido con los requisitos señalados para cada categoría política, podrán ostentar oficialmente la que les corresponda, solicitando previamente declaración que al respecto deberá hacer el Ayuntamiento de cada municipio del Estado.
 
-VI.- El Ayuntamiento deberá someter la solicitud efectuada en sesión de Cabildo; de ser procedente, deberá publicarse la declaratoria en el Periódico Oficial del Gobierno del Estado.
+VI.- El Ayuntamiento deberá someter la solicitud efectuada en sesión de Cabildo; de ser procedente, deberá publicarse la declaratoria en el Periódico Oficial de (sic) Gobierno del Estado.
 
 VII.- La población podrá expresar el deseo de elevar su categoría política al Ayuntamiento a que pertenezca, debiendo contar con la aprobación de por lo menos, el diez por ciento de los electores residentes en la misma, acreditarán además que cuentan con los requisitos para su determinación a la categoría solicitada.
 
@@ -1543,7 +1543,7 @@ VII.- Recopilar la documentación e información necesarias para acreditar la ex
 
 VIII.- Administrar el archivo del ayuntamiento, incluyendo la colección ordenada y anotada de leyes, decretos, reglamentos, circulares y órdenes relativas a los distintos ramos de la administración municipal; así como la custodia guarda, conservación y difusión del acervo documental del archivo histórico municipal;
 
-IX.- Llevar los trámites necesarios para que se otorgue dispensa de edad y para que se supla el consentimiento de quienes, deben otorgarlo a fin de que contraigan matrimonio los menores de edad;
+IX.- (DEROGADA, P.O. 22 DE AGOSTO DE 2018)
 
 X.- Formular la lista, de personas que estén en aptitud de ser nombrados por el Ayuntamiento, como miembros del Consejo Local de Tutelas;
 
@@ -4859,7 +4859,7 @@ A partir de la entrada en vigor del presente Decreto, el diseño, ejecución, su
 
 P.O. 23 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO LXV/RFLYC/0771/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL CÓDIGO MUNICIPAL Y DE LA LEY ELECTORAL, TODOS DEL ESTADO DE CHIHUAHUA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLYC/0771/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL CÓDIGO MUNICIPAL Y DE LA LEY ELECTORAL, TODOS DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4880,6 +4880,14 @@ Para el titular del área administrativa de la Oficialía Mayor, la obligación 
 P.O. 18 DE AGOSTO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0845/2018 XV P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 11, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0847/2018 XV P.E., POR MEDIO DEL CUAL SE DEROGA DEL ARTÍCULO 63 LA FRACCIÓN IX DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
