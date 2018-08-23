@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-60-sobre-el-sistema-estatal-de-asistencia-social-267
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-26"
-last_updated: "1987-02-26"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 26 de febrero de 1987.
 
@@ -89,7 +89,13 @@ XI.- Familiares que dependen económicamente de quienes se encuentren detenidos 
 
 XII.- Habitantes del medio rural o urbano que carezcan de lo indispensable para su subsistencia; y
 
-XIII.- Personas afectadas por desastres.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+XIII.- Personas afectadas por desastres; y
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+XIV.- Menores migrantes, en cuanto se soluciona su situación migratoria o repatriación.
 
 ###### ARTICULO 5o.
 
@@ -606,3 +612,13 @@ DANTE DELGADO RANNAURO
 EL SECRETARIO DE FINANZAS Y PLANEACION
 
 RAUL OJEDA MESTRE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 662 POR EL QUE SE REFORMA LA FRACCIÓN XIII Y SE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 4° DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
