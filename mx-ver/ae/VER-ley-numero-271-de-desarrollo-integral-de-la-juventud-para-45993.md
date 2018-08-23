@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-271-de-desarrollo-integral-de-la-juventud-para-45993
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-15"
-last_updated: "2015-02-26"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 271 DE DESARROLLO INTEGRAL DE LA JUVENTUD PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE DESARROLLO INTEGRAL DE LA JUVENTUD
+LEY DE DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el lunes 15 de agosto de 2005.
 
@@ -133,13 +133,15 @@ El Gobierno del Estado deberá promover y apoyar, por todos los medios a su alca
 
 La juventud tiene derecho a vivir esta etapa de su vida con calidad, creatividad, vitalidad e impregnada de valores que contribuyan (sic) su pleno desarrollo y expresión de su potencialidad y capacidad humana.
 
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 7.
 
-La juventud con capacidades diferentes, ya sea por disminución en sus facultades físicas, intelectuales o sensoriales que le limitan para realizar una actividad normal, tiene derecho a disfrutar de una vida plena y digna.
+Por ningún motivo las personas jóvenes con discapacidad serán objeto de discriminación. Además de los derechos que esta y otras leyes les reconozcan, tienen derecho a desarrollar plenamente sus aptitudes y a gozar de una vida digna que les permita integrarse plenamente a la sociedad.
 
-> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+Las autoridades del Estado, en el ámbito de sus competencias, deberán asegurar que las personas jóvenes con discapacidad tengan acceso efectivo a la educación en todos sus niveles, a la capacitación laboral, a un empleo digno, a una remuneración satisfactoria, a los servicios de salud adecuados, a la seguridad y previsión social, así como a oportunidades de esparcimiento adecuado.
 
-El Programa preverá los mecanismos necesarios para que la juventud con esta característica pueda llegar a bastarse a sí misma, teniendo como objetivo su participación activa en la comunidad.
+El programa preverá los mecanismos necesarios para que las personas jóvenes con esta característica puedan alcanzar óptimos niveles de desarrollo para bastarse a sí mismas y para participar de manera activa en cualquier ámbito de la sociedad, cuando por sí mismas así lo decidan.
 
 #### SECCIÓN SEGUNDA. Del Derecho a la Dignidad
 
@@ -832,3 +834,11 @@ G.O. 26 DE FEBRERO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 685 QUE REFORMA EL ARTÍCULO 7 DE LA LEY DE DESARROLLO INTEGRAL DE LA JUVENTUD PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
