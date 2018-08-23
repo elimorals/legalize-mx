@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2017-12-26"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -223,9 +223,9 @@ La Secretaría hará la distribución de los recursos públicos de acuerdo con l
 
 Las finanzas públicas del Estado estarán apegadas a las reglas de disciplina financiera establecidas en el Título Segundo Capítulo Primero de la Ley de Disciplina, así como a criterios de racionalidad y de estricta disciplina fiscal, de manera que para cada año se cumpla con el balance presupuestario.
 
-> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
 
-Asimismo, para satisfacer los objetivos a los que estén destinados, los recursos públicos de que dispongan las Unidades Presupuestales se administrarán de conformidad con los principios de: eficiencia, eficacia, economía, transparencia, honradez, rendición de cuentas, y evaluación del desempeño.
+Asimismo, para satisfacer los objetivos a los que estén destinados, los recursos públicos de que dispongan las Unidades Presupuestales se administrarán de conformidad con los principios de: eficiencia, eficacia, economía, transparencia, honradez, rendición de cuentas y evaluación del desempeño. Para tal efecto, los Poderes, así como los Organismos Autónomos, tienen la obligación de publicar en sus portales de Internet, en los primeros cinco días de cada mes, la información financiera de sus unidades presupuestales, tanto sus ingresos como egresos; las participaciones mensuales por fondos que reciben distinguiendo los factores de distribución que le corresponde al Estado, los descuentos por concepto que realiza la Secretaría de Hacienda y Crédito Público, las aportaciones federales, los convenios provenientes del Ramo 23, los recursos de hidrocarburos recibidos tanto terrestres como marítimos, los remanentes de la bursatilización; el Impuesto Sobre la Renta participable, la deuda pública con su destino final, deuda contingente o circulante por dependencia, entidad, municipio u órgano autónomo; los estados financieros de los informes trimestrales del gasto público con las notas describiendo las cuentas de orden debidamente desglosadas como la marca la Ley de Contabilidad Gubernamental, así como todo reporte que deba ser entregado a la Federación en cumplimiento a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y al cumplimiento del principio de transparencia a que se refiere la fracción I del presente Código. El incumplimiento de este artículo será sancionado conforme a la Ley de Responsabilidades de los Servidores Públicos para el Estado.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4019,7 +4019,21 @@ Para estos efectos, el ochenta por ciento de los recursos obtenidos se aplicará
 
 La recepción, administración, distribución y comprobación de los recursos se sujetará, invariablemente, a las disposiciones aplicables en materia de ejercicio del gasto público y transparencia financiera, así como a la contabilidad gubernamental y a la revisión y fiscalización de la cuenta pública.
 
-Los procedimientos de Licitación Pública que se desahoguen para el otorgamiento de las concesiones y los contratos respectivos se ajustarán a lo dispuesto por la Ley de la Materia y demás disposiciones aplicables.
+> <small>(REFORMADO, G.O. 23 DE AGOSTO 2018)</small>
+
+Los procedimientos de licitación pública que se desahoguen para el otorgamiento de las concesiones y los contratos respectivos, se ajustarán a lo dispuesto por la Ley de la materia, así como por los lineamientos que dicte la autoridad educativa estatal, pero la emisión de la convocatoria y la resolución del procedimiento estarán a cargo de un Comité de Licitaciones, el cual se conformará con los siguientes miembros:
+
+I. El Director de la Escuela;
+
+II. Un representante de los docentes;
+
+III. Un representante de los padres de familia;
+
+IV. Un representante del Consejo Escolar de Participación Social en la Educación, que corresponda;
+
+V. Un representante de la jefatura del sector escolar correspondiente; y
+
+VI. Un representante de la supervisión escolar correspondiente.
 
 ###### Artículo 231.
 
@@ -5690,3 +5704,21 @@ G.O. 26 DE DICIEMBRE DE 2017.
 Artículo primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 692 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 6 DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE AGOSTO 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 693 QUE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 230 BIS DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. La Secretaría de Educación deberá emitir los lineamientos a que se hace mención en este Decreto, dentro de los treinta días siguientes al inicio de su vigencia.
