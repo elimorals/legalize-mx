@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2018-02-22"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1423,7 +1423,9 @@ II. Promover y realizar acciones encaminadas al respeto de los derechos humanos 
 
 III. Promover y destinar mayores recursos orientados a políticas públicas y acciones a favor de los derechos de niñas, niños y adolescentes;
 
-IV. Realizar un diagnóstico municipal sobre la situación de la niñez y la Adolescencia en el Municipio, que pueda orientar en la cuantificación de la violencia, exclusión, distinción, restricción o cualquier tipo de discriminación que tenga por objeto menoscabar o anular el reconocimiento, goce o ejercicio pleno de derechos humanos de las niñas, niños y adolescentes, donde se ponga especial énfasis en las personas menores en situación de mayor riesgo o vulnerabilidad de manera urgente; y
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+IV. Realizar un diagnóstico municipal sobre la situación de la niñez y la adolescencia en el Municipio, que pueda orientar en la cuantificación de la violencia, o cualquier tipo de maltrato físico o psicológico, exclusión, distinción, restricción o cualquier tipo de discriminación que tenga por objeto menoscabar o anular el reconocimiento, goce o ejercicio pleno de derechos humanos de las niñas, niños y adolescentes, donde se ponga especial énfasis en las personas menores en situación de mayor riesgo o vulnerabilidad de manera urgente; y
 
 V. Coadyuvar en la detección y orientación de denuncia en materia de trata de personas, en específico, lo referente a niñas, niños y adolescentes observando en todo momento los principios rectores, entre ellos el interés superior de la niñez.
 
@@ -3449,11 +3451,11 @@ El Plan de Desarrollo Municipal contendrá, por lo menos, un diagnóstico sobre 
 
 El Plan de Desarrollo Municipal se complementará con programas anuales sectoriales de la administración municipal y, en su caso, con el Programa Sectorial de Desarrollo Metropolitano Municipal, así como por los posprogramas especiales de los organismos desconcentrados y descentralizados de carácter municipal.
 
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 198.
 
-Los Ayuntamientos, en términos de esta Ley y demás disposiciones aplicables, podrán convenir con los de otros municipios del Estado o de otras Entidades Federativas, la elaboración conjunta de planes de desarrollo para las regiones en las que se ubiquen.
+Los Ayuntamientos, en términos de esta Ley y demás disposiciones aplicables, podrán convenir con los de otros municipios del Estado o de otras Entidades Federativas, la elaboración conjunta de Planes de Desarrollo para las Regiones o Zonas Metropolitanas en las que se ubiquen.
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -4160,3 +4162,19 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
 
 Tercero. La antigüedad, prestaciones y demás derechos adquiridos a los que sean sujetos los miembros de los Cuerpos de Bomberos ya establecidos en las diferentes modalidades que prevalecen en el Estado, serán respetados por sus respectivos contratantes a partir de la entrada en vigor del presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 663 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE PLANEACIÓN Y A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 670 QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 103, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 60 DUODECIES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y ADICIONA UN PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 18, DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
