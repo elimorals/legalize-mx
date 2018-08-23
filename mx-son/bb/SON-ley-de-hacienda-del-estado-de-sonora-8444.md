@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2018-07-31"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "SON"
 ---
 # LEY DE HACIENDA DEL ESTADO DE SONORA
 
-[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-[NOTA 2. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2018, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE MAYO DE 2018.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1769,7 +1767,7 @@ V.- Las demás que impongan otras disposiciones fiscales.
 
 Los notarios ante quienes se celebre (sic) los contratos, actos u operaciones a que alude el Artículo 198 están obligados:
 
-I.- Al informar a la Oficina recaudadora de su jurisdicción, dentro de los quince días siguientes a la celebración de dichos actos, convenios o contratos, así como de toda modificación que a éstos se haga, anexando copia de la escritura correspondiente;
+I.- Al informar a la Oficina recaudadora de su jurisdicción, dentro de los quince días siguientes a la celebración de dichos actos, convenios o contratos, así como de toda modificación que a estos se haga, anexando copia de la escritura correspondiente;
 
 II.- A dar aviso, dentro del término de quince días siguientes, del otorgamiento de las escrituras en que se haga constar la extinción de las obligaciones que originan los ingresos gravables;
 
@@ -2007,13 +2005,13 @@ Para efectos de este Impuesto se entiende por valor de la emisión, el monto tot
 
 Cuando el monto de las disminuciones a que se refieren las fracciones anteriores de este artículo sea superior al valor de las actividades correspondientes al mes de que se trate, la diferencia se amortizará en los meses siguientes hasta agotarse.
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 212
 
 M BIS 2.- Sobre la base gravable se aplicará la tasa del 12%.
 
-La mitad de los recursos que se obtengan por parte del Estado serán destinados a instituciones de asistencia privada autorizadas por la Secretaría de Hacienda, CONADIC y CLUNI, que operen programas de prevención y rehabilitación de adicciones.
+La mitad de los recursos que se obtengan por parte del Estado serán destinados a instituciones de asistencia privada y asociaciones civiles autorizadas por los Servicios de Salud de Sonora, CONADIC y que cuenten con CLUNI, mismos que deberán operar programas de prevención y rehabilitación de adicciones.
 
 Los recursos serán otorgados de conformidad con los lineamientos que al efecto expida la Secretaría de Hacienda.
 
@@ -7334,6 +7332,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 31 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 239, QUE REFORMA EL ARTÍCULO 212-M BIS DE LA LEY DE HACIENDA DEL ESTADO".]
 
 ###### ARTÍCULO ÚNICO.
 
