@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-21-de-aguas-del-estado-de-veracruz-de-ignacio-de-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2018-02-22"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 21 DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 29 de junio de 2001.
 
@@ -49,17 +51,19 @@ LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPÍTULO I. DEL OBJETO DE LA LEY
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto reglamentar el artículo 9 de la Constitución Política del Estado, en materia de aguas de jurisdicción estatal, así como establecer las bases de coordinación entre los ayuntamientos y el Ejecutivo del estado, en caso de aguas de jurisdicción nacional estarán a lo dispuesto por la legislación federal respectiva.
+La presente Ley es de orden público e interés social y tiene por objeto reglamentar el artículo 8 de la Constitución Política del Estado, en materia de aguas de jurisdicción estatal, así como establecer las bases de coordinación entre los ayuntamientos y el Ejecutivo del Estado, en caso de aguas de jurisdicción nacional estarán a los (sic) dispuesto por la legislación federal respectiva.
 
-Se consideran de jurisdicción estatal las aguas, sus cauces, lechos y riberas respectivos, localizadas en el territorio del Estado de Veracruz, en términos de lo dispuesto por la Constitución y leyes federales, esta ley y demás leyes del Estado.
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
 
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+El Estado y los municipios, en su ámbito de competencia, garantizarán el derecho humano que tiene toda persona al agua potable y saneamiento, y definirán las bases, apoyos, así como las modalidades para el acceso, uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la federación y la ciudadanía para la consecución del fin común en la prestación del servicio, mismo que deberá ser: suficiente, salubre, aceptable y asequible.
 
-En el Estado de Veracruz de Ignacio de la Llave se considerará de utilidad pública el aprovechamiento de las aguas cuyo curso o depósito se localice en dos o más predios.
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+En el Estado de Veracruz de Ignacio de la Llave se considera de utilidad pública el aprovechamiento de las aguas cuyo curso o depósito se localice en dos o más predios.
 
 ###### Artículo 2.
 
@@ -97,7 +101,17 @@ El Ejecutivo del estado, a través de la Comisión del Agua del Estado de Veracr
 
 Para efectos de esta Ley se entenderá por:
 
-I. Agua potable: la que puede ser ingerida sin provocar efectos nocivos a la salud y reúne las características establecidas por las normas oficiales mexicanas;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 23 DE AGOSTO DE 2018)</small>
+
+I. Agua potable: la que puede ser ingerida sin provocar efectos nocivos a la salud y reúne las características establecidas por las normas oficiales mexicanas; misma que debe ser:
+
+a). Suficiente. Cantidad adecuada que se requiere para el consumo humano básico;
+
+b). Salubre. Beneficioso para la salud;
+
+c). Aceptable. Apropiada para el consumo humano; y
+
+d). Asequible. Que pueda alcanzarse o conseguirse.
 
 II. Agua pluvial: la proveniente de la lluvia, nieve o granizo;
 
@@ -375,7 +389,7 @@ VI. Vigilar la correcta prestación y funcionamiento de los servicios a que se r
 
 VII. Proyectar, ejecutar y supervisar, por administración directa o a través de terceros por licitación, obras de infraestructura hidráulica;
 
-VIII. Establecer las bases a que deben sujetarse las licitaciones para la adjudicación de los contratos administrativos, vigilar su cumplimiento y, en su caso, rescindirlos administrativamente de conformidad con la ley;
+VIII. Establecer las bases a que deben sujetarse las licitaciones para la adjudicación de los contratos administrativos, vigilar su cumplimiento y, en su caso, rescindirlos rldministrativamente de conformidad con la ley;
 
 IX. Vigilar el uso eficiente y preservación del agua, así como fomentar una cultura del agua como recurso vital escaso;
 
@@ -387,7 +401,7 @@ XII. Definir, en el ámbito de su competencia, las fuentes de abastecimiento de 
 
 XIII. Promover, apoyar y, en su caso, realizar por sí o a través de particulares, la potabilización del agua, el tratamiento de las aguas residuales y el reúso de las mismas;
 
-XlV. Coadyuvar con los Organismos Operadores Municipales o Intermunicipales, cuando así lo soliciten, en las gestiones de financiamiento y planeación de obras para los sistemas requeridos en la prestación de los servicios;
+XIV. Coadyuvar con los Organismos Operadores Municipales o Intermunicipales, cuando así lo soliciten, en las gestiones de financiamiento y planeación de obras para los sistemas requeridos en la prestación de los servicios;
 
 XV. Promover, apoyar y, en su caso, gestionar ante las dependencias y entidades federales, las asignaciones, concesiones y permisos correspondientes, con objeto de dotar de agua a centros de población y asentamientos humanos;
 
@@ -525,11 +539,15 @@ V. No tener antecedentes penales por la comisión de delitos realizados con dolo
 
 El Gobernador del Estado nombrará y removerá libremente al Director General, quien tendrá las siguientes atribuciones:
 
-I. Representar legalmente a la Comisión, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; formular querellas y denuncias, otorgar el perdón judicial, formular posiciones y rendir informes; promover y desistirse del juicio de amparo, así como promover juicio de lesividad;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+I. Representar legalmente a la Comisión, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la Ley; de manera enunciativa y no limitativa podrá formular demandas y contestarlas, reconvenirlas tanto de carácter civil, laboral, fiscal, administrativa y mercantil; formular querellas y denuncias, otorgar el perdón judicial, formular posiciones y rendir informes; promover y desistirse del juicio de amparo, así como promover el juicio de lesividad;
 
 II. Presentar al Consejo de Administración, para su aprobación, las acciones de planeación y programación de los Servicios Públicos a su cargo;
 
-III. Tramitar ante las autoridades competentes, previo acuerdo del Consejo de Administración, la expropiación, ocupación temporal, total o parcial de bienes o la limitación de derechos de dominio;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+III. Tramitar ante las autoridades estatales y federales competentes, previo acuerdo del Consejo de Administración, la expropiación, ocupación temporal, total o parcial de bienes o la limitación de derechos de dominio;
 
 IV. Ordenar la publicación, en la Gaceta Oficial del Estado y en el periódico de mayor circulación de la localidad de que se trate, de las cuotas y tarifas que determine el Consejo de Administración, cuando la Comisión preste los servicios públicos;
 
@@ -551,7 +569,9 @@ XII. Ejecutar los acuerdos del Consejo de Administración;
 
 XIII. Rendir un informe anual de actividades de la Comisión, así como rendir los informes sobre el cumplimiento de acuerdos del Consejo de Administración; resultados de los estados financieros; avance en las metas establecidas en el programa operativo anual, en los programas de operación autorizados por el propio Consejo de Administración, cumplimiento de los programas de obras y erogaciones en las mismas; presentación anual del programa de labores y los proyectos del presupuesto de ingresos y egresos para el siguiente ejercicio;
 
-XlV. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+XIV. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, celebrando convenios, anexos de ejecución o acuerdos, que sean necesarios para el trámite y atención de asuntos de interés común;
 
 XV. Ordenar la práctica de visitas de inspección y verificación, de conformidad con lo dispuesto en esta ley y demás legislación aplicable;
 
@@ -563,13 +583,19 @@ XVIII. Resolver el recurso administrativo de revocación que se interponga en co
 
 XIX. Someter a la aprobación del Consejo de Administración el proyecto de reglamento interior del organismo; y
 
-XX. Las demás que señalen expresamente esta Ley y las leyes del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE AGOSTO DE 2018)</small>
 
-> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+XX. Firmar los títulos de Concesión que se emitan por la administración de las aguas estatales; y
+
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+XXI. Las demás que señale expresamente esta Ley o las aplicables.
+
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 22.
 
-La Comisión para el mejor desempeño de sus funciones contará con un Subdirector y un Coordinador General, que serán designados libremente por el Director General.
+La Comisión para el manejo y mejor desempeño de sus funciones contará con el personal necesario e indispensable que será designado libremente por el Director General.
 
 > <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
 
@@ -585,11 +611,11 @@ La Comisión, a petición de los Ayuntamientos, podrá prestar transitoriamente,
 
 La Comisión, durante el período de operación transitoria a que se refiere el párrafo anterior, tendrá las facultades que expresamente le otorguen la presente ley y demás disposiciones legales aplicables a los organismos operadores municipales.
 
-> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 25.
 
-El Director General designará y removerá libremente a quienes estén al frente de los organismos operadores municipales o regionales a través de los cuales preste el servicio de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales.
+El Director General designará y removerá libremente a quienes estén al frente de las Oficinas Operadoras de la Comisión a través de los cuales preste el servicio de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales.
 
 > <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
 
@@ -793,7 +819,9 @@ III. Tres representantes de los usuarios; y
 
 IV. El titular del órgano de control interno del Ayuntamiento, en funciones de comisario.
 
-Por cada representante propietario se nombrará un suplente.
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+Por cada representante propietario se nombrará un suplente, en el caso de los usuarios, el suplente solo entrará en funciones en caso de renuncia del propietario.
 
 Se podrá invitar a las sesiones del Órgano de Gobierno, a representantes de las dependencias federales, estatales o municipales, vinculados directamente con la materia de agua, los que participarán con voz, pero sin voto.
 
@@ -857,11 +885,11 @@ Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes 
 
 El Órgano de Gobierno celebrará sesiones ordinarias al menos una vez al mes y las extraordinarias que sean necesarias, cuando las convoquen el Presidente o la mayoría de sus miembros.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 40.
 
-Al frente del Organismo Operador habrá un Director, quien deberá cumplir con los requisitos que establece la Ley Orgánica del Municipio Libre. El Director será designado y removido por el Ayuntamiento, a propuesta del Órgano de Gobierno, y tendrá las siguientes atribuciones:
+Al frente del Organismo Operador habrá un Director, quien deberá cumplir con los requisitos que establece la Ley Orgánica del Municipio Libre, deberá contar con conocimientos técnicos en el ramo o experiencia técnica no menor a 3 años, en cualquiera de los supuestos, estos deben ser comprobados; el Director será designado y removido por el Ayuntamiento, a propuesta del Órgano de Gobierno, y tendrá las siguientes atribuciones:
 
 I. Representar legalmente al organismo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; formular querellas y denuncias, otorgar el perdón judicial, formular posiciones y rendir informes; promover y desistirse del juicio de amparo, así como promover juicio de lesividad;
 
@@ -1187,9 +1215,11 @@ III. A solicitud del usuario, para hacer trabajos de remodelación, construcció
 
 IV. El usuario no cumpla con las obligaciones contenidas en la presente ley;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 76.
 
-El prestador del servicio dictaminará la viabilidad del otorgamiento del servicio a nuevos fraccionamientos o conjuntos habitacionales, comerciales, industriales o mixtos, considerando la disponibilidad del agua y la infraestructura para su prestación.
+El prestador del servicio dictaminará y autorizará la factibilidad del otorgamiento del servicio a nuevos fraccionamientos o conjuntos habitacionales, comerciales, industriales o mixtos, considerando la disponibilidad del agua y la infraestructura para su prestación.
 
 Al efecto, el prestador del servicio determinará, aprobará y supervisará, en los términos de la presente ley, las obras necesarias para su prestación, a cargo del promotor o desarrollador.
 
@@ -1431,17 +1461,25 @@ El cálculo de las cuotas por consumo de agua potable se efectuará aplicando la
 
 Cuando no se pueda determinar el volumen de agua, como consecuencia de la descompostura del medidor por causas no imputables al usuario, la tarifa de agua se pagará conforme a la cantidad de metros cúbicos usados en promedio de los tres últimos períodos, o en su defecto, del último periodo pagado, en los casos que determine el reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 105.
 
-La determinación y pago de la cuota por consumo de agua se realizará por períodos mensuales y se deberá efectuar dentro del mes siguiente al periodo que se cubre.
+La determinación y pago de la cuota por consumo de agua, alcantarillado y saneamiento, se realizará por períodos mensuales y se deberá efectuar dentro del mes siguiente al período que se cubre.
 
-> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
+La falta de pago de los servicios, de dos periodos consecutivos faculta al prestador a requerir el pago y en caso de incumplimiento, suspenderlo hasta que se cubra el adeudo y los gastos por el restablecimiento del servicio.
 
-La falta de pago de dos periodos consecutivos faculta al prestador del servicio a suspenderlo hasta que se regularice el pago y se cubran los gastos por el restablecimiento del servicio.
+Igualmente, el prestador del servicio podrá suspenderlo cuando se comprueben derivaciones de agua o alcantarillado no autorizadas.
 
-Igualmente, el prestador del servicio podrá suspenderlo cuando se comprueben derivaciones no autorizadas o un uso distinto al contratado o convenido.
+Para el caso de subsistir el incumplimiento de pago por el usuario doméstico, se procederá a restringir el servicio, suministrando cincuenta litros diarios por cada habitante de la vivienda, en tanto no se cubra el adeudo, aplicando el siguiente procedimiento:
+
+I. El prestador del servicio formulará requerimiento expreso debidamente fundado y motivado;
+
+II. Se concederá el plazo de tres días hábiles para realizar el pago o celebrar convenio en parcialidades;
+
+III. Recabará la información necesaria para verificar el número de personas que habitan la vivienda; necesidades a cubrir; las condiciones en que viven; capacidad económica; si alguno de los habitantes se encuentra en una situación de vulnerabilidad o de especial protección;
+
+Si en la casa habitación, no hay persona alguna en un supuesto de debilidad manifiesta y existe renuencia del usuario de llegar a un acuerdo de pago, cuando tenga capacidad económica para hacerlo, o lo incumple cuando lo celebra, se suspenderá en forma absoluta el suministro de agua hasta que se regularice y se cubran los gastos por el restablecimiento.
 
 ###### Artículo 106.
 
@@ -2086,3 +2124,13 @@ G.O. 22 DE FEBRERO DE 2018.
 Primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 690 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Los Organismos prestadores del servicio, contarán con sesenta días para establecer los mecanismos necesarios para la implementación de lo dispuesto en el artículo 105 de la presente Ley.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
