@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2017-11-25"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -67,9 +67,11 @@ IV. El establecimiento de zonas intermedias de salvaguarda, con motivo de la pre
 
 V. La prevención, el control y la atenuación de la contaminación ambiental, en el territorio del estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 3º.
 
-Para los efectos de esta ley, se tomarán las definiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y las siguientes:
+Para los efectos de esta ley, se tomarán las definiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y las siguientes:
 
 I. Actividades riesgosas: Aquellas actividades que conllevan la utilización de materiales peligrosos que de conformidad a la legislación federal y disposiciones aplicables no se consideran actividades altamente riesgosas;
 
@@ -131,7 +133,7 @@ XXVIII. Residuo incompatible: Aquel que al entrar en contacto o ser mezclado con
 
 XXIX. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-XXX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en [a vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+XXX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -141,13 +143,17 @@ XXXI. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de
 
 XXXII. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2018)</small>
 
-XXXIII. Auditoría ambiental: Examen metodológico de los procesos de una empresa respecto de la contaminación y el riesgo ambiental que generan, el cumplimiento de la normatividad ambiental aplicable, de los parámetros internacionales y de buenas prácticas de operación e ingeniería, con base en los requerimientos establecidos en los Términos de Referencia, y en su caso, las medidas preventivas y correctivas necesarias para proteger al ambiente; y
+XXXIII. Auditoría ambiental. Examen metodológico de los procesos de una empresa respecto de la contaminación y el riesgo ambiental que generan, el cumplimiento de la normatividad ambiental aplicable, de los parámetros internacionales y de buenas prácticas de operación e ingeniería, con base en los requerimientos establecidos en los Términos de Referencia, y en su caso, las medidas preventivas y correctivas necesarias para proteger al ambiente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2018)</small>
 
-XXXIV. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables.
+XXXIV. Cambio climático. Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE AGOSTO DE 2018)</small>
+
+XXXV. Contaminación acústica. La presencia en el ambiente de sonidos molestos e intempestivos que rebasen los límites máximos permisibles señalados en las normas oficiales que para el efecto emitan las autoridades competentes; o aquel que por su intensidad, duración o frecuencia, implique daño, riesgo o perjudique el bienestar de las personas, con independencia de cuál sea la fuente que los origine.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1655,7 +1661,7 @@ Los procesos industriales que generen residuos de lenta degradación, para los c
 
 Del ruido, vibraciones, energía térmica y lumínica y olores.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 94.
 
@@ -1703,13 +1709,61 @@ Derecho a la información ambiental.
 
 ###### Artículo 102.
 
-Quedan prohibidas las emisiones de ruidos, vibraciones, energía térmica y lumínica y la generación de olores, en cuanto rebasen los límites máximos contenidos en las normas oficiales mexicanas, o en su caso, la normatividad reglamentaria que para ese efecto expida el Titular del Ejecutivo del Estado. Los gobiernos municipales, mediante las acciones de inspección y vigilancia correspondientes, adoptarán las medidas para impedir que se transgredan dichos límites y, en su caso, aplicarán las sanciones correspondientes.
+Quedan prohibidas las emisiones de ruidos, vibraciones, energía térmica y lumínica y la generación de olores, en cuanto rebasen los límites máximos contenidos en las normas oficiales mexicanas, o en su caso, la normatividad técnica que para ese efecto expida el Titular del Ejecutivo del Estado. Los gobiernos municipales, mediante las acciones de inspección y vigilancia correspondientes, adoptarán las medidas para impedir que se transgredan dichos límites y, en su caso, aplicarán las sanciones correspondientes.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 En la construcción de obras o instalaciones que generen energía térmica, ruido, vibraciones y olores, así como en la operación y funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de dichos contaminantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+Los responsables de fuentes fijas y móviles que contaminen por emisión de ruido o vibraciones, energía térmica y lumínica y olores estarán obligados a utilizar equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas oficiales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+Los responsables de fuentes fijas de contaminación acústica deberán contar con un sistema de monitoreo y medición de decibeles que muestre a los usuarios los niveles de emisión sonora a que están expuestos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+Los decibeles se medirán en Ponderación A, de acuerdo a lo establecido en la Norma Oficial, desde el exterior de cualquiera de los inmuebles vecinos a aquel en que se genere el ruido, o bien en el área pública; atendiendo las indicaciones para ello especificadas en las normas, los respectivos reglamentos y atendiendo los lineamientos técnicos de los equipos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+Las autoridades estatales y municipales responsables en la materia deberán contar con un sistema de atención, disponible las 24 horas, para recibir y atender reportes de contaminación acústica, debiendo acudir a verificar los decibeles y levantar constancia para en caso de que el nivel sonoro rebase la norma.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+En los casos de competencia municipal, cuando la infracción se cometa en casa habitación o propiedad privada sin giro comercial, la autoridad municipal deberá acudir al domicilio y entregará apercibimiento que de no cesar el ruido en un plazo de 30 minutos podrá imponerse arresto administrativo hasta por 36 horas o citarlo para que acuda en día y hora específica con un juez calificador para que determine la naturaleza y monto de la sanción correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+La flagrancia será sancionada de inmediato con la infracción correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+En materia de emisión de ruido las autoridades competentes y la sociedad en general, podrán utilizar cualquier medio tecnológico para auto regularse o monitorear las emisiones de ruido y, en su caso, tomar las medidas oportunas para evitar la contaminación acústica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+Las violaciones al presente artículo constituyen infracción y serán sancionadas por la Secretaría o los gobiernos municipales, en asuntos de sus respectivas competencias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+Las personas físicas y jurídicas podrán denunciar ante la Secretaría y los gobiernos municipales, según corresponda, todo hecho violatorio del presente artículo.
 
 ###### Artículo 103.
 
 Las normas oficiales mexicanas y la normatividad estatal que al efecto se expida, en materias objeto del presente capítulo, establecerán los procedimientos, a fin de que los gobiernos municipales prevengan y controlen la contaminación por ruido, vibraciones, energía térmica, lumínica y olores, y fijarán los límites de emisión.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2018)</small>
+
+###### Artículo 103 Bis.
+
+Los municipios dentro de sus facultades, establecerán una zonificación en función de la contaminación acústica permitida, la que deberán considerar para la emisión de las licencias de giro y funcionamiento.
+
+Las autoridades municipales en el ámbito de su competencia, deberán realizar las inspecciones correspondientes a los giros comerciales y, en su caso, en propiedad privada, cuando se rebasen los límites de emisión de ruidos, debiendo garantizar los derechos establecidos en la ley del procedimiento Administrativo.
+
+Queda prohibida la detonación de artículos de pirotecnia que generen ruido excesivo fuera del horario de las ocho a las veintiún horas del día, salvo autorización previa de la autoridad competente.
 
 ## TITULO QUINTO
 
@@ -2037,7 +2091,9 @@ Del recurso de revisión.
 
 Cuando exista o pueda existir riesgo inminente de desequilibrio ecológico o daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes, o para la salud de la población, o en caso de que el decomiso se pueda determinar como sanción, la Secretaria y los gobiernos municipales, según corresponda, fundada y motivadamente, podrán ordenar alguna o algunas de las siguientes medidas:
 
-I. La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen recursos naturales, materiales o substancias contaminantes, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de éste artículo;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2018)</small>
+
+I. La clausura temporal, parcial o total de las fuentes contaminantes, y en su caso, de las instalaciones en que se manejen o almacenen recursos naturales, materiales, substancias contaminantes o se genere ruido superior a lo que establece la norma o se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de este artículo;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
@@ -2067,15 +2123,17 @@ Las violaciones a los preceptos de esta ley, sus reglamentos y las disposiciones
 
 I. Amonestación;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2018)</small>
 
-II. Multa por el equivalente de veinte a veinte mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción;
+II. Multa por el equivalente de treinta a treinta y cinco mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción; si la sanción es por generación de ruido excesivo la multa no podrá exceder, en ningún caso, de quinientas unidades de medida y actualización;
 
 III. Clausura temporal o definitiva, parcial o total, cuando:
 
 a) El infractor no hubiese cumplido en los plazos y condiciones impuestos por la autoridad competente, con las medidas correctivas o de urgente aplicación ordenadas; o
 
-b) En casos de reincidencia, cuando las infracciones generen efectos negativos al ambiente.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2018)</small>
+
+b) En casos de reincidencia, cuando las infracciones generen efectos negativos al ambiente o a la salud.
 
 IV. Arresto administrativo hasta por treinta y seis horas;
 
@@ -2089,7 +2147,13 @@ Si una vez vencido el plazo concedido por la autoridad ordenadora para subsanar 
 
 En caso de reincidencia, el monto de la multa será hasta dos veces de la cantidad originalmente impuesta, sin exceder del doble del máximo permitido, así como la clausura definitiva.
 
-Se considera reincidente al infractor que incurra mas de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que esta no hubiese sido desvirtuada.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2018)</small>
+
+Se considera reincidente al infractor que incurra más de dos ocasiones en conductas que impliquen infracciones a un mismo precepto, en un periodo de un año, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+Cuando en un año de calendario un establecimiento comercial sea efectivamente sancionado en más de dos ocasiones por rebasar los límites sonoros de la norma, será clausurado definitivamente y su licencia revocada.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -2097,9 +2161,11 @@ Se considera reincidente al infractor que incurra mas de una vez en conductas qu
 
 Cuando la gravedad de la infracción lo amerite, las dependencias del Poder Ejecutivo o el gobierno municipal que hubiese otorgado la concesión, permiso, licencia y, en general, toda autorización para la realización de actividades comerciales, industriales o de servicios, o para el aprovechamiento de recursos naturales, en favor de aquel que haya dado lugar a la infracción, ordenará la suspensión, revocación o cancelación de las mismas o, en su caso, la solicitará a la autoridad que la hubiese expedido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 148.
 
-Para la imposición de las sanciones por infracciones a ésta ley, se tomará en cuenta:
+Para la imposición de las sanciones por infracciones a esta ley, se tomará en cuenta:
 
 I. La gravedad de la infracción, considerando principalmente los siguientes criterios: los posibles impactos en la salud pública; generación de desequilibrios ecológicos; las afectaciones de recursos naturales o de la biodiversidad que se ocasionaron o pudieron ocasionar; y, en su caso, los niveles en que se hubiesen rebasado los límites establecidos en las normas oficiales mexicanas aplicables;
 
@@ -2114,6 +2180,14 @@ V. El posible beneficio directamente obtenido o que pudiese haber obtenido el in
 En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiese incurrido, previamente a que la autoridad competente imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
 La autoridad correspondiente podrá otorgar al infractor, la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración al ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previsto (sic) en el artículo 144 de esta ley y la autoridad justifique plenamente su decisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+Cuando una sanción económica impuesta por emisión de ruido no sea pagada en los treinta días hábiles siguientes a su imposición, la autoridad administrativa podrá optar por el procedimiento administrativo de ejecución o por que se inscriba como crédito fiscal en la cuenta catastral del inmueble en que se generó la infracción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2018)</small>
+
+En el caso de infracciones por emisión de ruido, la gravedad de la sanción será calificada atendiendo el número de decibeles que sobrepasen la Norma Oficial aplicable al caso concreto, al número de personas afectadas y, en su caso, a la reincidencia.
 
 ###### Artículo 149.
 
@@ -2654,3 +2728,13 @@ P.O. 25 DE NOVIEMBRE DE 2017.
 [N. DE. E. TRANSITORIO DEL "DECRETO 26443/LXI/17 QUE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE AGOSTO DE 2018,
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26853/LXI/18, MEDIANTE EL CUAL SE REFORMA LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. La Secretaría y los municipios tendrán un plazo de 180 días hábiles, contados a partir de la entrada en vigor de este decreto, para adecuar sus reglamentos en los que podrán establecer zonas con regulación especial.
+
+Tercero. La Secretaría y los municipios, dentro de los 180 días hábiles siguientes contados a partir de la entrada en vigor de este decreto, elaborarán un mapa de fuentes generadoras de ruido, de acuerdo a lo dispuesto por la fracción XXIX del artículo 5 de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente.
