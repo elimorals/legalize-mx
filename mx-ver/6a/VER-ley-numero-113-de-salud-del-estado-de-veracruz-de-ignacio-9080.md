@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2018-05-15"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -755,15 +755,35 @@ ARTICULO 58 SEPTIES.- La Secretaría de Salud, a través de sus hospitales y cl�
 
 ### CAPITULO V. ATENCION MATERNO-INFANTIL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 59.
 
-La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
+La protección materno-infantil y la promoción de la salud materna abarca el periodo que va del embarazo, parto y puerperio, en razón de la condición de vulnerabilidad en que se encuentran la mujer y el producto. La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I.- La atención de la mujer durante el embarazo, el parto y el puerperio.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna.
+I. La atención de la mujer durante el embarazo, el parto y el puerperio, incluyendo en caso de ser solicitada por ésta, la atención psicológica que requiera;
 
-III.- La promoción de la integración y del bienestar familiar.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+II. La prevención de la transmisión del VIH/Sida y otras infecciones de transmisión sexual en mujeres embarazadas a fin de evitar la transmisión perinatal;
+
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+III. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo atención prenatal, nutrición adecuada, promoción de la vacunación oportuna y prevención de enfermedades;
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+IV. La revisión ocular y del oído en el recién nacido;
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+V. Si en la revisión del recién nacido se tiene alguna sospecha por parte del médico tratante de displasia de cadera, se deberá realizar examen clínico y radiografía anteposterior de pelvis, y de ser necesario, ultrasonido de cadera; y
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+VI. La promoción de la integración y del bienestar familiar.
 
 ###### ARTICULO 60.
 
@@ -3550,3 +3570,11 @@ G.O. 15 DE MAYO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 664 QUE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II Y III Y SE ADICIONAN LAS FRACCIONES IV, V Y VI DEL ARTÍCULO 59 DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
