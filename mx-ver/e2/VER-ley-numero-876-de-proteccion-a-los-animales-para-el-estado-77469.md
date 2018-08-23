@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-876-de-proteccion-a-los-animales-para-el-estado-7746
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2016-11-10"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 876 DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 5 de noviembre de 2010.
 
@@ -82,6 +82,22 @@ Las autoridades del Estado deben auxiliar a las federales en la aplicación de l
 ###### Artículo 3.
 
 Están prohibidas la caza y captura de cualquier especie de fauna silvestre en el Estado, las peleas de animales y los circos con animales, así como los actos a que se refiere el artículo 28 de esta Ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 23 DE AGOSTO DE 2018)</small>
+
+Quedan prohibidas las mutilaciones de animales cuyo objeto sea modificar su apariencia o conseguir un fin no médico, particularmente:
+
+I. El corte de la cola;
+
+II. El corte de las orejas;
+
+III. La sección de las cuerdas vocales; y
+
+IV. La extirpación de uñas y dientes.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+Sólo se permitirán las intervenciones con anestesia que tengan un fin médico o para impedir la reproducción.
 
 > <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
 
@@ -321,7 +337,7 @@ II. Brindar capacitación al personal y elementos de seguridad en materia de leg
 
 Artículo 11 bis. Corresponde a la Fiscalía General del Estado:
 
-l. Crear la Fiscalía Especializada en Delitos Contra los Animales;
+I. Crear la Fiscalía Especializada en Delitos Contra los Animales;
 
 II. Capacitar a su personal para la recepción y atención de denuncias por maltrato animal; y
 
@@ -353,7 +369,7 @@ La Secretaría, en coordinación con la Secretaría de Salud, propondrá al Gobe
 
 > <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-l. El trato digno y respetuoso a los animales en los centros de salud animal, rastros, establecimientos comerciales y en los procesos de crianza, manejo, exhibición, animaloterapias y entrenamiento;
+I. El trato digno y respetuoso a los animales en los centros de salud animal, rastros, establecimientos comerciales y en los procesos de crianza, manejo, exhibición, animaloterapias y entrenamiento;
 
 II. El control de animales abandonados y ferales, así como la incineración de animales muertos;
 
@@ -566,6 +582,10 @@ I. Causarles la muerte utilizando cualquier medio que prolongue la agonía o pro
 II. El sacrificio de animales empleando métodos diversos a los establecidos en las normas oficiales mexicanas y, en su caso, las normas ambientales;
 
 III. Torturar o maltratar a un animal por maldad, brutalidad, egoísmo o negligencia grave;
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+III Bis. Las mutilaciones de animales cuyo objeto sea modificar su apariencia o conseguir un fin no médico;
 
 IV. El uso de animales vivos como blanco de ataque en el entrenamiento de animales adiestrados para espectáculos, deportes de seguridad, protección o guardia, o como medio para verificar su agresividad, salvo en el caso de aquellas especies que formen parte de la dieta de las especies de fauna silvestre, incluyendo aquellas manejadas con fines de rehabilitación para su integración en su hábitat, así como las aves de presa, siempre y cuando medie autoridad competente o profesionales en la materia;
 
@@ -1136,3 +1156,11 @@ G.O. 10 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 673 POR EL QUE SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 3 Y UNA FRACCIÓN III BIS AL ARTÍCULO 28 DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
