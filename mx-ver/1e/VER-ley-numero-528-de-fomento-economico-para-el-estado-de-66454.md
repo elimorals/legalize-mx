@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-528-de-fomento-economico-para-el-estado-de-66454"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-30"
-last_updated: "2018-08-16"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 528 DE FOMENTO ECONÓMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de enero de 2009.
 
@@ -89,6 +89,10 @@ IX. Entidades. Las señaladas en el artículo 3 de la Ley Orgánica del Poder Ej
 
 X. Empresa. Persona jurídica, cualquiera que sea su régimen legal, cuya actividad principal consista en la producción de bienes y servicios destinados al mercado. Las personas físicas con actividad empresarial se consideran equiparables a esta categoría.
 
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+XI. Zona Económica Estatal: área geográfica del territorio estatal, determinada por Decreto del Ejecutivo, en la cual el Gobierno del Estado y el o los ayuntamientos que la integren, quedarán obligados en el ámbito de sus respectivas competencias a otorgar las facilidades y los incentivos temporales que se establezcan en términos del Convenio de Coordinación para el establecimiento y desarrollo de la Zona Económica Estatal respectiva, previa autorización del Congreso local.
+
 ###### Artículo 5.
 
 Son objetivos de la presente Ley:
@@ -99,9 +103,9 @@ II. Crear y otorgar apoyos, incentivos y estímulos para el establecimiento, con
 
 III. Fomentar y estimular las inversiones nacionales e internacionales;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
 
-IV. Determinar, impulsar y consolidar sectores económicos estratégicos, así como impulsar y favorecer a las Zonas Económicas Especiales, fortaleciendo su competitividad a través del fomento de agrupamientos empresariales, integración de cadenas productivas, programas de desarrollo de proveedores locales, desarrollo de infraestructuras y creación de estímulos, apoyos e incentivos específicos;
+IV. Determinar, impulsar y consolidar sectores económicos estratégicos, así como impulsar y favorecer a las Zonas Económicas Estatales o Especiales, fortaleciendo su competitividad a través del fomento de agrupamientos empresariales, integración de cadenas productivas, programas de desarrollo de proveedores locales, desarrollo de infraestructuras y creación de estímulos, apoyos e incentivos específicos;
 
 V. Aprovechar y explotar de manera sustentable, con apego a la normatividad ecológica, los recursos naturales del Estado;
 
@@ -129,7 +133,13 @@ XIV. Mejorar la concertación con el sector empresarial veracruzano para impulsa
 
 XV. Promover y conservar la extensión y vinculación de los sectores público, empresarial, educativo y de investigación para potenciar el desarrollo económico; y
 
-XVI. Impulsar la asociación empresarial y el surgimiento de nuevos agrupamientos empresariales en parques, corredores, conjuntos, ciudades industriales, zonas portuarias, costeras y aeroportuarias.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+XVI. Impulsar la asociación empresarial y el surgimiento de nuevos agrupamientos empresariales en parques, corredores, conjuntos, ciudades industriales, zonas económicas estatales, portuarias, costeras y aeroportuarias.
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+XVII. En los aspectos no previstos en la presente Ley, respecto de la Zona Económica Estatal respectiva, se aplicará supletoriamente la Ley para el Establecimiento y Desarrollo de Zonas Económicas Especiales del Estado de Veracruz de Ignacio de la Llave, el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave y el Código de Procedimientos Civiles para el Estado de Veracruz y demás Leyes aplicables.
 
 ## TÍTULO SEGUNDO. DE LOS CONSEJOS DE ECONOMÍA
 
@@ -185,9 +195,9 @@ V. Formular propuestas respecto al presupuesto destinado a los fondos de Fomento
 
 VI. Establecer los apoyos a las zonas económicas y empresas que, por eventos naturales, económicos, sociales o de siniestros, requieran de manera inmediata reactivar su economía;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
 
-VII. Crear programas para impulsar la inclusión en la vida productiva de sectores vulnerables, y las consideradas como Zonas Económicas Especiales;
+VII. Crear programas para impulsar la inclusión en la vida productiva de sectores vulnerables, y las consideradas como Zonas Económicas Especiales y Zonas Económicas Estatales;
 
 VIII. Extinguir o cancelar apoyos, estímulos e incentivos;
 
@@ -197,7 +207,9 @@ X. Promover la constitución de fideicomisos que le permitan aplicar los fondos 
 
 XI. Establecer las especificaciones, requisitos y procedimientos para el otorgamiento, extinción, cancelación y recuperación, en su caso, de apoyos, incentivos y estímulos;
 
-XII. Impulsar y apoyar la creación de agrupamientos, zonas, conjuntos y parques empresariales, así como corredores, ciudades industriales, zonas portuarias, aeroportuarias y costeras en el Estado;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+XII. Impulsar y apoyar la creación de agrupamientos, zonas económicas estatales, conjuntos y parques empresariales, así como corredores, ciudades industriales, zonas portuarias, aeroportuarias y costeras en el Estado;
 
 XIII. Fomentar una cultura empresarial de mejora continua, calidad, productividad y competitividad entre los sectores público, privado y social;
 
@@ -353,6 +365,10 @@ Los Ayuntamientos podrán otorgar a los empresarios que inviertan, en su municip
 
 Asimismo, los Ayuntamientos podrán celebrar convenios con las autoridades estatales y federales, así como con inversionistas o empresas, para promover el desarrollo de las actividades y proyectos productivos de estos últimos, en los que se determinará el monto de los incentivos y recursos que aportarán las partes para tal fin.
 
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+Para el caso de las Zonas Económicas Estatales los beneficios fiscales a otorgar, deben tener como objetivo fomentar la generación de empleos permanentes, el ascenso industrial, el crecimiento de la productividad del trabajo, e inversiones productivas que impulsen el desarrollo económico de la Zona, los cuales también deben ser otorgados por el o los Ayuntamientos que la integren de manera temporal y decreciente a favor de los Inversionistas que cuenten con Autorización, Permiso o Asignación por parte del Consejo de Economía del Estado.
+
 ###### Artículo 18.
 
 Las personas físicas o morales con actividad empresarial asentadas en el territorio veracruzano o que inviertan en él, podrán solicitar los apoyos, incentivos y estímulos previstos en esta Ley, los cuales estarán condicionados a la autorización previa del Consejo y a su disponibilidad presupuestal, siempre que sus actividades cumplan con una o varias de las siguientes condiciones:
@@ -479,9 +495,11 @@ La Secretaría coordinará la elaboración y el seguimiento de los programas de 
 
 ## TÍTULO OCTAVO. DE LAS ZONAS DE INDUSTRIALIZACIÓN
 
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 28.
 
-El Ejecutivo, a través de la Secretaría, atendiendo al Plan y conforme a sus recursos disponibles, apoyará la creación, desarrollo y consolidación de conjuntos y parques empresariales; corredores y ciudades industriales; zonas portuarias, aeroportuarias y costeras, procurando el concurso de los sectores público, privado y social.
+El Ejecutivo, a través de la Secretaría, atendiendo al Plan y conforme a sus recursos disponibles, apoyará la creación, desarrollo y consolidación de conjuntos y parques empresariales; corredores y ciudades industriales; zonas económicas estatales, portuarias, aeroportuarias y costeras, procurando la participación de los sectores público, privado y social.
 
 ## TÍTULO NOVENO. DEL FOMENTO AL SECTOR MINERO
 
@@ -599,9 +617,9 @@ I. Establecimiento de programas y proyectos de impulso a las distintas regiones 
 
 II. Apoyar a inversionistas locales y regionales, vinculándolos con el desarrollo tecnológico;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
 
-III. Motivar e impulsar la comercialización de productos y servicios e impulsar los sectores estratégicos dentro de las Zonas Económicas Especiales;
+III. Motivar e impulsar la comercialización de productos y servicios e impulsar los sectores estratégicos dentro de las Zonas Económicas Especiales y las Zonas Económicas Estatales;
 
 IV. Promover apoyos y estímulos financieros;
 
@@ -836,5 +854,13 @@ G.O. 16 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 651 QUE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 36 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE VERACRUZ”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 691 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
