@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2018-05-07"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -131,65 +131,91 @@ III. Secretario Particular Adjunto.
 
 Además de las áreas descritas contará con las unidades y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2018)</small>
 
-ARTICULO 4 BIS 2.- La Oficina del Ejecutivo será responsable del seguimiento y evaluación de los Acuerdos e instrucciones dictados en las sesiones de los gabinetes del Ejecutivo del Estado, así como mantener informado al Titular del Ejecutivo del Estado de la situación que guarda el cumplimiento de los compromisos y acuerdos institucionales instruidos en las sesiones de gabinete, así como establecer vínculos de coordinación y colaboración con las dependencias de la administración estatal, para lo cual tendrá las facultades siguientes:
+ARTICULO 4 BIS 2.- La Oficina del Ejecutivo será responsable del seguimiento y evaluación de los acuerdos e instrucciones dictados en sesiones de los gabinetes del Ejecutivo del Estado, así como mantener informado al Titular del Ejecutivo del Estado de la situación que guarda el cumplimiento de los compromisos y acuerdos institucionales e internacionales; así como establecer vínculos de coordinación y colaboración con las dependencias y entidades de las administraciones públicas estatal y federal, para lo cual tendrá las facultades siguientes:
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 I. Asesorar y apoyar al Titular del Ejecutivo del Estado en los asuntos que le encomiende, así como formular los estudios, análisis, opiniones y recomendaciones que resulten procedentes;
 
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
 II. Proveer al Titular del Ejecutivo del Estado de la información y datos necesarios para sus actividades, toma de decisiones y formulación de mensajes;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 III. Preparar las reuniones de trabajo del Titular del Ejecutivo del Estado con el C. Presidente de la República y con funcionarios de las dependencias de las diferentes instancias de Gobierno, proporcionándole la información necesaria para apoyar la adecuada toma de decisiones;
 
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
 IV. Brindar asesoría, estudios y análisis especializados que permitan anticipar escenarios y situaciones específicas de orden económico, social y político en la entidad, sugiriendo estrategias de acción y políticas alternativas para su oportuna solución;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 V. Recopilar y proporcionar al Titular del Ejecutivo del Estado y a los miembros del gabinete información de naturaleza económica, social y política que permita apoyar la oportuna y adecuada toma de decisiones dando prioridad a la formulación, seguimiento y evaluación de las políticas de gobierno;
 
-VI. Formular análisis y reportes sobre la situación que guarda la administración pública del Estado;
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2018)</small>
+
+VI. Formular análisis y reportes sobre la situación que guarda la Administración Pública del Estado, así como coordinar el seguimiento de la correspondencia institucional y de los asuntos recibidos para el Titular del Ejecutivo del Estado y turnados para su atención a las dependencias y entidades competentes;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 VII. Convocar, organizar y coordinar las reuniones de gabinete legal y ampliado, así como dar seguimiento y evaluación de los acuerdos que se tomen en los gabinetes especializados, sectorial y regional o cualquier otro, elevando a la consideración del Titular del Ejecutivo del Estado la situación que guarde el cumplimiento de los mismos;
 
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
 VIII. Verificar el cumplimiento de los programas e instrucciones que expresamente señale el Titular del Ejecutivo del Estado;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 IX. Orientar y supervisar las acciones de los gabinetes del Ejecutivo del Estado de acuerdo a las políticas, lineamientos y prioridades que fije el Titular del Ejecutivo del Estado;
 
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
 X. Emitir recomendaciones para la operación y funcionamiento de los gabinetes del Ejecutivo del Estado;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 XI. Registrar los acuerdos del Titular del Ejecutivo del Estado con los titulares de las dependencias federales, estatales y municipales, así como con otras personas y servidores públicos;
 
-XII. Dar seguimiento a la agenda política y de gestión gubernamental sobre temas relevantes y estratégicos de la gestión pública, que deban ser considerados por el Titular del Ejecutivo del Estado en las sesiones de gabinete;
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2018)</small>
+
+XII. Dar seguimiento a la agenda política y de gestión gubernamental sobre temas relevantes y estratégicos de la gestión pública que deban ser considerados por el Titular del Ejecutivo del Estado;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 XIII. Dar seguimiento y evaluar los programas de alto impacto social que promuevan las dependencias de la administración pública e informar al Titular del Ejecutivo del Estado de los resultados obtenidos;
 
-XIV. Diseñar y coordinar los planes y programas de seguimiento a las estrategias gubernamentales, mediante un sistema de indicadores.
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2018)</small>
+
+XIV. Diseñar y coordinar los planes y programas de seguimiento a las estrategias gubernamentales, mediante sistemas de información e indicadores, y con la participación ciudadana;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 XV. Establecer los programas para brindar la asesoría y el apoyo al Titular del Ejecutivo del Estado en la Conferencia Nacional de Gobernadores y en las distintas conferencias, comités, consejos y reuniones de Gobernadores;
 
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
 XVI. Coordinar las oficinas de las comisiones Sonora Arizona y Sonora Nuevo México;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 XVII. Someter a consideración del Titular del Ejecutivo del Estado la información de mejoras que contribuyan al adecuado funcionamiento de la administración pública del Estado;
 
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
 XVIII. Coordinar el diseño y ejecución de proyectos de modernización administrativa que incidan en la simplificación y mejora continua de los procesos de trabajo y la calidad de los servicios administrativos sustantivos de las unidades administrativas; y
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 XIX. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular del Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2018)</small>
 
-ARTICULO 4 BIS 3.- La Oficina del Ejecutivo para el cumplimiento de sus facultades estará integrada por las áreas siguientes:
+ARTICULO 4 BIS 3.- La Oficina del Ejecutivo contará para el cumplimiento de sus facultades con las unidades y el personal que se determinen. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
-I. Coordinación de Asesores;
-
-II. Coordinación Técnica del Gabinete;
-
-III. Coordinación de Evaluación y Seguimiento;
-
-IV. Oficina de Enlace y Cooperación Institucional.
-
-Además de las áreas descritas contará con las unidades y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
-
-> <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
-
-Para el debido cumplimiento de las facultades encomendadas la Oficina del Ejecutivo podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
+Para el debido cumplimiento de las facultades encomendadas, la Oficina del Ejecutivo podrá contratar prestadores externos de servicios. Dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
 
 ARTICULO 4 BIS 4.- (DEROGADO, B.O. 17 DE FEBRERO DE 2017)
 
@@ -575,7 +601,7 @@ XVIII. Emitir opinión jurídica del contenido de los contratos que, sobre cualq
 
 XIX. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado;
 
-XX. Coordinar los trabajos inherentes a la implementación y homologación de juicios orales y del nuevo sistema de justicia penal;
+XX. (DEROGADA, B.O. 23 DE AGOSTO DE 2018)
 
 XXI. Certificar la documentación y expedientes que obren en los archivos de la Consejería Jurídicas y en general de toda aquella documentación necesaria para dar cumplimiento a los requerimientos que efectúen autoridades administrativas y judiciales;
 
@@ -583,9 +609,11 @@ XXII. Delegar la facultad de certificación en aquellos Titulares Jurídicos de 
 
 XXIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Titular del Ejecutivo del Estado.
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2018)</small>
 
-ARTICULO 23 BIS 1.- La Secretaría de la Consejería Jurídica estará integrada por cuando menos cinco Subsecretarías, por la Defensoría Pública y por la Secretaría Ejecutiva de la Comisión Implementadora del nuevo sistema de justicia penal; y demás unidades y personal necesarios para el debido cumplimiento de sus facultades.
+ARTICULO 23 BIS 1.- La Secretaría de la Consejería Jurídica estará integrada por cuando menos cuatro Subsecretarías, por la Defensoría Pública y por las demás unidades y el personal necesarios para el debido cumplimiento de sus facultades.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 Las atribuciones y funciones Subsecretarías y demás áreas que integren la Consejería se establecerán en las leyes, reglamentos, manuales y demás ordenamientos legales correspondientes.
 
@@ -2462,3 +2490,19 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las atribuciones que se le confieran a los órganos de control y desarrollo administrativo se entenderán conferidas a los órganos internos de control.
+
+B.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 237, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de la Consejería Jurídica deberá proponer al titular del Poder Ejecutivo del Estado, dentro de los treinta días hábiles posteriores a la publicación de este Decreto en el Boletín Oficial del Gobierno del Estado de Sonora, las modificaciones al Reglamento Interior de esa Secretaría, así como las de los demás ordenamientos reglamentarios y administrativos que procedan.
+
+###### ARTÍCULO TERCERO.
+
+Cualquier trámite, diligencia, gestión, procedimiento o proceso que se encuentre vigente respecto a la derogación de la fracción XX, del artículo 23 bis y modificación del párrafo primero del artículo 23 bis 1 de la presente Ley, atenderá la previsión contenida en los puntos de acuerdo números Tercero, Cuarto y Quinto del Acuerdo por el que el Estado de Sonora, a través de sus tres poderes y la Fiscalía General de Justicia se adhiere al Acuerdo entre los tres Poderes de la Unión para la Consolidación del Sistema de Justicia Penal, por tanto las obligaciones a cargo de los servidores públicos que hubieren estado adscritos a la Secretaría Ejecutiva de la Comisión Implementadora del Nuevo Sistema de Justicia Penal, será responsabilidad exclusiva de dichos servidores públicos y éstos tendrán además el deber legal de atenderlas hasta su legal extinción.
