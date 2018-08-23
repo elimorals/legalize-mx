@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2017-12-02"
+last_updated: "2018-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -3109,9 +3109,11 @@ VII. Carecer el vehículo de holograma que contenga el número de las placas, o
 
 VIII. Arrojar desde el interior del vehículo cualquier clase de objeto o basura a la vía pública, o depositar materiales y objetos que modifiquen o entorpezcan las condiciones apropiadas para circular, detener y estacionar vehículos automotores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 176.
 
-Se sancionará a los conductores o propietarios de vehículos que comentan (sic) las siguientes infracciones:
+Se sancionará a los conductores o propietarios de vehículos que cometan las siguientes infracciones:
 
 I. No presentar licencia o permiso vigente para conducir;
 
@@ -3127,7 +3129,9 @@ VI. Circular en reversa más de diez metros;
 
 VII. Dar vuelta prohibida;
 
-VIII. Producir ruido excesivo con claxon o mofleo, o
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2018)</small>
+
+VIII. Producir ruido excesivo con claxon, mofleo o equipos de audio; o
 
 IX. Falta de una placa de circulación.
 
@@ -4006,3 +4010,13 @@ P.O. 2 DE DICIEMBRE DE 2017.
 [N. DE. E. TRANSITORIO DEL “DECRETO 26503/LXI/17 QUE REFORMA EL ARTÍCULO 174 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor a los 120 días siguientes de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26853/LXI/18, MEDIANTE EL CUAL SE REFORMA LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. La Secretaría y los municipios tendrán un plazo de 180 días hábiles, contados a partir de la entrada en vigor de este decreto, para adecuar sus reglamentos en los que podrán establecer zonas con regulación especial.
+
+Tercero. La Secretaría y los municipios, dentro de los 180 días hábiles siguientes contados a partir de la entrada en vigor de este decreto, elaborarán un mapa de fuentes generadoras de ruido, de acuerdo a lo dispuesto por la fracción XXIX del artículo 5 de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente.
