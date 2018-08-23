@@ -4,7 +4,7 @@ identifier: "VER-ley-de-obras-publicas-y-servicios-relacionados-con-ellas-95031"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-16"
-last_updated: "2017-12-21"
+last_updated: "2018-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 825 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 16 de abril de 2013.
 
@@ -371,7 +371,9 @@ VII. La adquisición de áreas y predios, previa consulta con la Secretaría de 
 
 VIII. Cuando las condiciones ambientales se pudieran deteriorar, los proyectos deberán incluir lo necesario para que se preserven o restauren los ecosistemas. En tal supuesto se dará intervención a la Secretaría de Medio Ambiente; y
 
-IX. El libre tránsito y desempeño de las personas con capacidades diferentes.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+IX. Las instalaciones para que las personas con capacidades diferentes y adultos mayores puedan acceder y transitar en los inmuebles que sean construidos, las que, según la naturaleza de la obra, podrán consistir en rampas, puertas, elevadores, baños, pasamanos, asideras, estacionamiento vehicular y otras instalaciones semejantes a las anteriores para desplazarse y realizar sus trámites o servicios de un modo seguro y autónomo.
 
 ###### Artículo 16.
 
@@ -1404,3 +1406,11 @@ Segundo. La Secretaría de Finanzas y Planeación contará con noventa días há
 Tercero. Todos los procedimientos iniciados por probables responsabilidades administrativas de los servidores públicos o particulares, antes de la entrada en vigor de la normatividad en combate a la corrupción, continuarán su trámite y resolución de conformidad con la legislación vigente al momento de su inicio.
 
 Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 661 QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 15 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
