@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-822-para-la-integracion-de-las-personas-con-74107"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-11"
-last_updated: "2018-07-12"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 822 PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 11 de marzo de 2010.
 
@@ -385,9 +385,13 @@ La Secretaría de Trabajo, Previsión Social y Productividad del Gobierno del Es
 
 Las autoridades estatales y municipales competentes convocarán a organizaciones, empresarios, sectores social y educativo y Sistemas para el Desarrollo Integral de la Familia del Estado y de los Municipios, para que creen e impulsen programas de capacitación, certificación de competencias e inclusión laboral para personas con discapacidad que, por alguna razón, no tuvieran otra opción para integrarse o capacitarse para el trabajo.
 
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 21.
 
-A efecto de garantizar el acceso de las personas con discapacidad al servicio público estatal, en la administración pública centralizada y paraestatal se les destinará, por lo menos, el tres por ciento de las vacantes disponibles, siempre que cumplan con los requisitos de ingreso y cuenten con las aptitudes para el desempeño de las funciones correspondientes.
+A efecto de garantizar el acceso al empleo de las personas con discapacidad al servicio público estatal, los Poderes Ejecutivo, Legislativo y Judicial, así como los Organismos Autónomos y los Ayuntamientos destinarán por lo menos el tres por ciento de las vacantes disponibles, para emplear o contratar a personas con discapacidad, siempre que cumplan con los requisitos de ingreso y cuenten con las aptitudes para el desempeño de las funciones correspondientes, señaladas en el Reglamento de la presente Ley.
+
+Por cuanto hace al Sector Privado, la Secretaría de Trabajo, Previsión Social y Productividad del Estado supervisará y de ser procedente reconocerá y certificará a las empresas que cumplan con la contratación de las personas con discapacidad, en el porcentaje señalado en el párrafo anterior.
 
 ### CAPÍTULO IV. De la Educación
 
@@ -823,13 +827,57 @@ Para diagnosticar la condición de discapacidad, la Secretaría de Salud y los S
 
 ### CAPÍTULO ÚNICO. De las Responsabilidades y Sanciones
 
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 55.
 
-El incumplimiento a las disposiciones de esta Ley se sancionará de la manera siguiente:
+Serán responsables del incumplimiento de las disposiciones de esta Ley los titulares de las entidades públicas y privadas. Si el infractor es una entidad pública, la sanción será determinada e impuesta por la autoridad administrativa competente, en los términos de las leyes aplicables.
 
-I. Por parte de autoridades estatales y municipales, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Veracruz de Ignacio de la Llave o la Ley Orgánica del Municipio Libre, según corresponda; y
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
 
-II. Por personas u organizaciones que no sean servidores públicos, de acuerdo con las disposiciones aplicables.
+###### Artículo 56.
+
+Respecto al cumplimiento del artículo 21 de esta ley, la Secretaría de Trabajo, Previsión Social y Productividad del Estado sancionará administrativamente a las empresas del sector privado que infrinjan esta Ley, de acuerdo con el reglamento correspondiente.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+###### Artículo 57.
+
+Las multas relativas que refiere el artículo anterior se aplicarán de acuerdo a lo siguiente:
+
+I. De cien y hasta mil Unidades de Medida y Actualización diaria vigente, a quien incumpla con cualquiera de las obligaciones establecidas en el artículo 21 de esta Ley.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+###### Artículo 58.
+
+La Secretaría de Trabajo y Previsión Social y Productividad del Estado se abstendrá de sancionar al infractor, por una sola vez, en caso de que se trate de la primera infracción en que incurra.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+###### Artículo 59.
+
+Son causas de clausura temporal del establecimiento, además de las señaladas en las disposiciones jurídicas aplicables, la reincidencia en cualquiera de las conductas previstas en el artículo 57 de esta Ley.
+
+La Secretaría de Trabajo, Previsión Social y Productividad informará de los hechos constitutivos de causal de clausura a las autoridades competentes, a efecto de que éstas ejerzan sus atribuciones en la materia y, en su caso, apliquen las sanciones correspondientes.
+
+La imposición de las sanciones anteriores se llevará a cabo sin perjuicio de las demás multas o sanciones que resulten aplicables, en términos de otras disposiciones.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+###### Artículo 60.
+
+Las autoridades competentes, para la determinación e imposición de sanciones de carácter administrativo a que se refiere el presente Capítulo, tomarán en cuenta, en su caso, lo siguiente:
+
+I. La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que hubiere sido sancionada y, además de aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución respectiva; y
+
+II. La intención de realizar la conducta.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+###### Artículo 61.
+
+Las sanciones administrativas impuestas conforme a la presente Ley podrán ser impugnadas por los particulares, a través de los medios establecidos por la ley administrativa en la materia o por los medios de defensa establecidos en el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
 
 T R A N S I T O R I O S
 
@@ -898,3 +946,11 @@ G.O. 12 DE JULIO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 656 QUE REFORMA LOS ARTÍCULOS 21 Y 55 Y ADICIONA LOS ARTÍCULOS 56, 57, 58, 59, 60 Y 61 DE LA LEY PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. El Ejecutivo del Estado contará con un plazo no mayor a treinta días contado a partir de la entrada en vigor del presente Decreto para hacer las adecuaciones reglamentarias correspondientes.
