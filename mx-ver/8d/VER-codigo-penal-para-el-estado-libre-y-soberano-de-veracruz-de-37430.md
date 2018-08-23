@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2018-08-20"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1289,7 +1289,7 @@ Si la persona a quien se induzca o ayude al suicidio fuere menor de edad o incap
 
 ### CAPÍTULO VI. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 149.
 
@@ -1337,15 +1337,19 @@ IV. A juicio de dos médicos, exista razón suficiente de que el producto padece
 
 ###### Artículo 154 Bis.
 
-A quien ejerza cualquier tipo de violencia física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, comparta éste o no, en contra de su cónyuge, concubina o concubinario, pariente hasta el cuarto grado en ambas líneas o incapaz sobre el que sea tutor o curador, se le impondrán, independientemente de las sanciones que correspondan por cualquier otro delito, de cuatro a seis años de prisión, multa de hasta seiscientos días de salario, caución de no ofender y, en su caso, pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio, patria potestad o tutela.
+A quien ejerza cualquier tipo de violencia física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, comparta éste o no, en contra de su cónyuge, concubina o concubinario, pariente hasta el cuarto grado en ambas líneas o incapaz sobre el que sea tutor o curador, se le impondrán, independientemente de las sanciones que correspondan por cualquier otro delito, de cuatro a seis años de prisión, multa de hasta seiscientas Unidades de Medida y Actualización, caución de no ofender y, en su caso, pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio, patria potestad o tutela.
 
-> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
 
-En caso de que la víctima sea mujer, se sancionará con pena de cuatro a siete años de prisión y multa de hasta setecientos días de salario. Además, se sujetará al activo a las medidas reeducativas que establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave, las que, en ningún caso, excederán del tiempo impuesto en la pena de prisión.
+En caso de que la víctima sea mujer, se sancionará con pena de cuatro a siete años de prisión y multa de hasta setecientas Unidades de Medida y Actualización, además se sujetará al activo a las medidas reeducativas que establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave, las que, en ningún caso, excederán del tiempo impuesto en la pena de prisión.
 
 > <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
 La persona sentenciada por este delito tendrá la obligación de reparar el daño a las víctimas directa o indirectamente afectadas, considerando lo previsto en el artículo 56 fracción V de este Código.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+A quien siendo condenado por este delito, reincida en el mismo, será sancionado elevándose la pena corporal hasta el doble; asimismo, se le impondrá, previa solicitud del agraviado, trabajo comunitario a favor de otras víctimas de este delito. Este delito se perseguirá de oficio sea cual fuere el medio o el sujeto que formule la denuncia.
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -1629,6 +1633,8 @@ Este delito se perseguirá por querella.
 
 ### CAPÍTULO I. VIOLACIÓN DE LA INTIMIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 176.
 
 A quien mediante engaño o sin consentimiento de la persona que legítimamente pueda otorgarlo, se introduzca a un despacho, oficina o consultorio, o permanezca en ellos sin anuencia de quien está facultado para darla, se le aplicarán prisión de un mes a tres años y multa hasta de cincuenta días de salario.
@@ -1649,13 +1655,33 @@ Este delito se perseguirá por querella.
 
 ###### Artículo 177.
 
-Se impondrán prisión de seis meses a cinco años y multa hasta de trescientos días de salario, a quien sin consentimiento del que esté legitimado para otorgarlo, con el fin de conocer asuntos propios de la intimidad personal o familiar de una o más personas:
+Se impondrán prisión de seis meses a cinco años y multa hasta de trescientas Unidades de Medida y Actualización, a quien sin consentimiento del que esté legitimado para otorgarlo, con el fin de conocer asuntos propios de la intimidad personal o familiar de una o más personas:
 
 I. Se apodere de documentos u objetos de cualquier clase;
 
-II. Reproduzca dichos documentos u objetos; o
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+
+II. Reproduzca dichos documentos u objetos; y
 
 III. Intercepte comunicaciones o utilice medios técnicos para escuchar, observar, grabar, transmitir o reproducir la imagen, el sonido o ambos.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+###### Artículo 177 Bis.
+
+A quien, aprovechándose de la confianza depositada en él, difunda, revele, transmita, reproduzca imágenes audiovisuales, con contenido pornográfico, entendido éste como la exhibición del pene, senos, glúteos, la vagina o bien actos sexuales, sin el consentimiento de la persona que deba otorgarlo, se le impondrán pena de prisión de cinco a diez años y multa de doscientas a quinientas Unidades de Medida y Actualización.
+
+Cuando exista ánimo lucrativo en la revelación del contenido a que se refiere el párrafo anterior, la pena de prisión se aumentará hasta en una mitad adicional.
+
+Además se decretará el decomiso de los objetos, instrumentos y productos del delito, y se ordenará la destrucción de los materiales gráficos.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+###### Artículo 177 Ter.
+
+A quien reciba u obtenga de una persona, imágenes, textos o grabaciones de voz o audiovisuales de contenido pornográfico y las revele o difunda con fines de lucro y sin el consentimiento de la persona que expresamente puede otorgarlo, en perjuicio de su intimidad, se le impondrán de dos a diez años de prisión y multa de cien a doscientas Unidades de Medida y Actualización.
+
+Además se decretará el decomiso de los objetos, instrumentos y productos del delito, y se ordenará la destrucción de los materiales gráficos.
 
 ### CAPÍTULO II. VIOLACIÓN
 
@@ -4991,17 +5017,21 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. En la aplicación del presente Decreto se empleará el principio de sucesión de normas penales sustantivas.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS (VERACRUZ DE IGNACIO DE LA LLAVE)”.]
+G.O. 23 DE AGOSTO DE 2018.
 
-Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. Surtirá efectos exclusivamente para modificar la porción normativa que establece la denominación de la parte integrante de la Federación "Veracruz de Ignacio de la Llave", por lo que quedan subsistentes las denominaciones de las demás partes de la Federación vigentes al momento de la entrada en vigor.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 666 QUE REFORMA LOS PÁRRAFOS PRIMERO Y SEGUNDO Y ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 154 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-D.O.F. 17 DE MAYO DE 2021.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 74 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PARTIDAS SECRETAS.”]
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+G.O. 23 DE AGOSTO DE 2018.
 
-D.O.F. 28 DE MAYO DE 2021.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 667 POR EL QUE SE REFORMA EL ARTÍCULO 177 Y SE ADICIONAN LOS ARTÍCULOS 177 BIS Y 177 TER AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. En la aplicación del presente Decreto se empleará el principio de sucesión de normas penales sustantivas.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXIII BIS AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SEGURIDAD PRIVADA”.]
 
