@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-875-de-transparencia-y-acceso-a-la-informacion-11666
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-29"
-last_updated: "2018-05-15"
+last_updated: "2018-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el jueves 29 de septiembre de 2016.
 
@@ -1201,9 +1201,37 @@ Los sujetos obligados implementarán medios de autenticación digital, para trá
 
 Los sujetos obligados establecerán canales de comunicación con los ciudadanos, a través de las redes sociales y plataformas digitales, que les permitan participar en la toma de decisiones.
 
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 52.
 
-Cada sujeto obligado integrará un consejo consultivo de gobierno abierto, que proponga mejores prácticas de participación ciudadana y colaboración en la implementación y evaluación de la política digital del Estado en materia de datos abiertos y la realización de indicadores específicos sobre temas relevantes.
+Cada sujeto obligado integrará un Consejo Consultivo de Gobierno Abierto, que proponga mejores prácticas de participación ciudadana y colaboración en la implementación y evaluación de la política digital del Estado en materia de datos abiertos y la realización de indicadores específicos sobre temas relevantes.
+
+El Consejo Consultivo de Gobierno Abierto de los sujetos obligados estará integrado por un Presidente, quien será un representante del sujeto obligado, así como por un Secretario y un Vocal, quienes serán elegidos, mediante audiencias públicas para tal efecto, por el Comité de Transparencia. Todos los miembros del Consejo tendrán voz y voto. Los cargos de los integrantes del Consejo Consultivo son de carácter honorífico, por lo que no recibirán sueldo alguno. Durarán tres años en el ejercicio de su encargo, al término de los cuales, se renovará el Consejo Consultivo conforme a los procedimientos que establece la Ley.
+
+Para la selección del secretario y vocal del Consejo Consultivo, el Comité de Transparencia del Sujeto Obligado emitirá una convocatoria estableciendo un procedimiento democrático de consulta ciudadana para la recepción y audiencia de aquellos ciudadanos que quieran participar. Los ciudadanos que aspiren a ser integrantes de los consejos consultivos no podrán ser servidores públicos, ni tener militancia en ningún partido político. El proceso de audiencia y selección durará un periodo de hasta cuarenta días hábiles, al término del cual el Comité de Transparencia hará públicos los nombres y perfiles de los ciudadanos que ocuparán los cargos de Secretario y Vocal en los consejos consultivos. Para su selección el Comité de Transparencia privilegiará en todo momento la equidad de género y la inclusión de personas con conocimiento en la materia.
+
+El Consejo Consultivo de Gobierno Abierto de los sujetos obligados tendrá las siguientes atribuciones:
+
+I. Fungir como la instancia de apoyo, consulta y asesoramiento de los Sujetos Obligados, para la formulación, seguimiento y evaluación del Plan de Gobierno Abierto;
+
+II. Establecer los lineamientos generales de actuación;
+
+III. Solicitar la información que estimen necesaria al Órgano Garante sobre los asuntos que se encuentren en trámite o haya resuelto el mismo, con la finalidad de coadyuvar en las acciones propias del Consejo Consultivo;
+
+IV. Participar de manera activa en la creación del Plan de Gobierno Abierto;
+
+V. Analizar, evaluar y emitir recomendaciones sobre el Plan de Gobierno Abierto;
+
+VI. Promover la transparencia, participación ciudadana y colaboración interinstitucional, que genere nuevos canales de comunicación entre gobierno y ciudadanía que favorezca el debate público; y
+
+VII. Impulsar políticas públicas en materia de Gobierno Abierto y sobre comunicación gubernamental;
+
+El Consejo Consultivo de Gobierno Abierto se reunirá en sesión ordinaria cada tres meses. El Presidente podrá convocar, por sí o a solicitud formulada por la mayoría de los integrantes de dicho Consejo, a sesión extraordinaria.
+
+Para que el Consejo pueda sesionar es necesario que este presente la mayoría de sus integrantes.
+
+Para el desahogo de sus reuniones, el Consejo podrá invitar a representantes del Órgano Garante, instituciones académicas, organizaciones de la sociedad civil o ciudadanos en general que puedan contribuir en los trabajos propios del Consejo.
 
 ###### Artículo 53.
 
@@ -3840,5 +3868,13 @@ G.O. 15 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 633 QUE REFORMA LA FRACCIÓN II DEL APARTADO A DEL ARTÍCULO 115 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 684 POR EL QUE SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
