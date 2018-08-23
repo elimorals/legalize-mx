@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-573-de-los-derechos-de-ninas-ninos-y-108896"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-03"
-last_updated: "2016-03-30"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 573 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 3 de julio de 2015.
 
@@ -1385,7 +1385,9 @@ Para una efectiva protección y restitución de los derechos de niñas, niños y
 
 En el ejercicio de sus funciones, la Procuraduría Estatal de Protección podrá solicitar el auxilio de autoridades competentes, quienes estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables.
 
-Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría Estatal de Protección deberá establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes.
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de las niñas, niños y adolescentes, la Procuraduría Estatal de Protección deberá establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación pública o privada, de cultura, deporte y, en general, de cualquier sitio donde permanezcan, se atienda o se le preste un servicio a niñas, niños y adolescentes, a fin de garantizar los derechos de éstos. Las autoridades estarán obligadas a reportar a la Procuraduría Estatal de Protección cualquier indicio de que existe una situación de riesgo, amenaza o afectación de los derechos de niñas, niños y adolescentes.
 
 La Procuraduría Estatal de Protección contará con representaciones municipales, denominadas Procuradurías Municipales de Protección, que estarán adscritas a los Sistemas DIF Municipales, a efecto de lograr la mayor presencia y cobertura posible en los municipios, en términos de lo previsto por la presente Ley.
 
@@ -1956,5 +1958,13 @@ G.O. 30 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 839 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+[N DE E. TRANSITORIOS DEL “DECRETO NÚMERO 670 QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 103, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 60 DUODECIES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y ADICIONA UN PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 18 DE LA LEY DE EDUCACIÓN, TODOS DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
