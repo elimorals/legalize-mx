@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2018-05-29"
+last_updated: "2018-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -259,7 +259,13 @@ IV. Fortalecer los sistemas de educación a distancia, mediante la utilización 
 
 V. Establecer programas que involucren a los padres de familia o tutores en la atención a sus hijos o pupilos, y promover la participación social en favor de los servicios educativos;
 
-VI. Promover en los docentes el conocimiento de los derechos humanos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE AGOSTO DE 2018)</small>
+
+VI. Promover en los docentes el conocimiento de los derechos humanos.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+Asimismo, cuando las autoridades educativas, los directores de los planteles educativos o el resto del personal docente noten la prolongada o reiterada ausencia de un estudiante, deberán notificarlo o reportarlo ante la Procuraduría Estatal de Protección o a la Procuraduría Municipal de Protección correspondiente, con la finalidad de descartar o detectar posibles situaciones de maltrato físico o psicológico en contra del menor;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
@@ -2054,6 +2060,14 @@ Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
 G.O. 29 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 647 QUE REFORMA LOS ARTÍCULOS 127, 128, 129, 130, 131 Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 129 DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 670 QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 103, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 60 DUODECIES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y ADICIONA UN PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 18, DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
