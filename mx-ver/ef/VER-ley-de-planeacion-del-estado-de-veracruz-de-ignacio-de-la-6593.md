@@ -4,7 +4,7 @@ identifier: "VER-ley-de-planeacion-del-estado-de-veracruz-de-ignacio-de-la-6593"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-29"
-last_updated: "2017-12-26"
+last_updated: "2018-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 29 de enero de 1987.
 
@@ -307,6 +307,10 @@ Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan 
 
 ARTICULO 14 BIS.- Los Programas Sectoriales de Desarrollo Metropolitano Municipal se referirán a cada uno de los programas definidos conjuntamente por los Comités de Planeación Municipales de los municipios que integran las Zonas Metropolitanas de la entidad, en colaboración con el Subcomité de Planeación para el Desarrollo Metropolitano Municipal, el Consejo para el Desarrollo Metropolitano del Estado de Veracruz de Ignacio de la Llave y aprobados por cada uno de los Cabildos que correspondan.
 
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+
+El Consejo para el Desarrollo Metropolitano del Estado de Veracruz promoverá la elaboración de los Programas Sectoriales de Desarrollo Metropolitano para ser remitidos y aprobados por el Congreso del Estado en los primeros seis meses de iniciado el periodo de los Ayuntamientos respectivos, los cuales serán considerados como el documento base para la presupuestación con recurso estatal de obras de carácter metropolitano.
+
 ###### ARTICULO 15.
 
 Los programas regionales se referirán a las regiones que se consideren prioritarias o estratégicas, en función de los objetivos fijados en el Plan, y cuya extensión territorial rebase el ámbito jurisdiccional de dos o más municipios.
@@ -469,9 +473,11 @@ Los convenios que se celebren conforme a este capítulo, se considerarán de der
 
 Las controversias que se susciten con motivo de la interpretación y cumplimiento de estos convenios, serán resueltas por el Tribunal Fiscal del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 42.
 
-Los proyectos de Presupuesto de Egresos del Estado y de los Ayuntamientos; los programas y presupuestos de las entidades paraestatales, no integrados en los proyectos antes mencionados, las iniciativas de Ley de Ingresos y los actos que las dependencias de la Administración Pública Estatal y Municipal realicen, para inducir acciones de los sectores de la sociedad, deberán ser congruentes con los objetivos y prioridades del Plan Estatal de Desarrollo y del Plan Municipal de Desarrollo, según corresponda y con los programas a que se refiere esta Ley.
+Los proyectos de Presupuesto de Egresos del Estado y de los Ayuntamientos; los programas y presupuestos de las entidades paraestatales, no integrados en los proyectos antes mencionados, las iniciativas de Ley de Ingresos y los actos que las dependencias de la Administración Pública Estatal y Municipal realicen, para inducir acciones de los sectores de la sociedad, deberán ser congruentes con los objetivos y prioridades del Plan Estatal de Desarrollo y del Plan Municipal de Desarrollo, según corresponda y con los programas a que se refiere esta Ley, particularmente con los Programas Sectoriales de Desarrollo Metropolitano respectivos.
 
 El propio Ejecutivo Estatal, los Ayuntamientos del Estado y las entidades paraestatales, observarán dichos objetivos y prioridades en la concertación e inducción de acciones del Plan Estatal de Desarrollo, de los Planes Municipales de Desarrollo y de los programas correspondientes, con las representaciones de los grupos sociales o con los particulares interesados.
 
@@ -584,3 +590,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los 212 ayuntamientos del Estado, dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto, deberán aprobar el Reglamento de Planeación del Desarrollo Municipal.
 
 Tercero. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 663 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE PLANEACIÓN Y A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
