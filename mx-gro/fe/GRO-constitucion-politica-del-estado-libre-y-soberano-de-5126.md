@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2018-08-21"
+last_updated: "2018-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "GRO"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO -ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO QUE DEROGA LA DE 29 DE NOVIEMBRE DE 1880-
 
-NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
-
-NOTA 2. EL 18 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 78/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 756 POR EL QUE SE REFORMA EL ARTÍCULO 14 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO EN MATERIA DE DERECHOS Y CULTURA INDÍGENA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTIUNO DE AGOSTO DE DOS MIL DIECIOCHO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1209,7 +1207,9 @@ XL. Otorgar autorización al Gobernador para que recurra al endeudamiento como f
 
 XLI. Cambiar la residencia de los Poderes del Estado;
 
-XLII. Autorizar al Gobernador, con el voto de las dos terceras partes del total de sus integrantes, para enajenar, donar, permutar o conceder el uso y disfrute de bienes de propiedad estatal, en los términos que fije la Ley;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
+
+XLII. Autorizar al Gobernador, con el voto de las dos terceras partes del total de sus integrantes, para enajenar, donar o permutar bienes inmuebles de propiedad estatal, en los términos que fije la Ley;
 
 XLIII. Conceder la ciudadanía honoraria a los vecinos de otros Estados que por sus méritos se hagan acreedores a ella; otorgar premios o recompensas a los que hayan prestado servicios de importancia a la humanidad, al país o al Estado, y establecer distinciones a quienes hayan brindado servicios eminentes al Estado de Guerrero; y,
 
@@ -1625,7 +1625,9 @@ X. Mantener relaciones políticas e institucionales con el gobierno federal y co
 
 XI. Recurrir al endeudamiento y contratar empréstitos para inversiones públicas productivas, en los términos y condiciones que establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las Leyes de la materia;
 
-XII. Enajenar, donar, permutar o conceder el uso y disfrute de bienes de propiedad estatal, previa autorización del Congreso del Estado que habrá de votar con dos terceras partes del total de sus integrantes;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
+
+XII. Enajenar, donar o permutar bienes inmuebles de propiedad estatal, previa autorización del Congreso del Estado que habrá de votar con las dos terceras partes del total de sus integrantes.
 
 XIII. Proveer a la eficaz satisfacción de los servicios públicos del Estado, de conformidad con los presupuestos aprobados, y gestionar aquellos que puedan proporcionar otras entidades públicas o privadas;
 
@@ -2021,7 +2023,9 @@ II. Personalidad jurídica y patrimonio propios;
 
 III. Garantizada su autonomía técnica, presupuestal, de gestión, organización, funcionamiento y de decisión, en los términos dispuestos en esta Constitución y en las demás disposiciones aplicables; y,
 
-IV. Su residencia y domicilio legal en la ciudad de Chilpancingo, capital del Estado de Guerrero.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
+
+IV. Su residencia y domicilio legal en la ciudad de Chilpancingo de los Bravo, capital del Estado de Guerrero.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2815,11 +2819,11 @@ Cada Órgano con Autonomía Técnica elaborará su proyecto de presupuesto con l
 
 El proyecto de presupuesto será remitido por su titular al Poder al que estén adscritos, para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 145.
 
-Los Órganos con Autonomía Técnica tendrán atribuciones para proponer al Poder al que estén adscritos, los reglamentos para su organización y funcionamiento, de conformidad con lo dispuesto en esta Constitución y en las leyes aplicables.
+Los Órganos con Autonomía Técnica tendrán autonomía de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan esta Constitución y en las leyes aplicables.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2841,11 +2845,11 @@ Cada Órgano con Autonomía Técnica tendrá un titular, designado por el plazo 
 
 Esta Constitución garantiza la objetividad, imparcialidad, especialización y el profesionalismo de los integrantes de los Órganos con Autonomía Técnica, en el marco de las leyes orgánicas y secundarias respectivas y de los reglamentos expedidos por cada uno de ellos.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 148.
 
-Para ser Auditor General o Especial de la Auditoría General, consejero del Consejo de Políticas Públicas, consejero del Consejo de la Judicatura o defensor general del Instituto de la Defensoría, se requiere cumplir los requisitos generales establecidos en el artículo 111 de esta Constitución, y los especiales que para cada uno se señalen.
+Para ser Auditor Superior, consejero del Consejo de Políticas Públicas, consejero del Consejo de la Judicatura o defensor general del Instituto de la Defensoría, se requiere cumplir los requisitos generales establecidos en el artículo 111 de esta Constitución, y los especiales que para cada uno se señalen.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2883,11 +2887,15 @@ La Auditoría Superior del Estado de Guerrero ejercerá su función mediante la 
 
 La actuación de la Auditoría Superior del Estado de Guerrero deberá regirse por los principios de legalidad, imparcialidad, definitividad, confiabilidad, profesionalismo, transparencia y máxima publicidad.
 
-1. La Auditoría Superior del Estado de Guerrero contará con un titular denominado Auditor Superior del Estado y cuatro Auditores especiales, nombrados por las dos terceras partes de los diputados presentes en sesión del Congreso del Estado; así mismo, con la votación requerida para su nombramiento, podrán ser removidos exclusivamente por las causas graves que la ley de la materia señale y conforme a los procedimientos establecidos en esta Constitución;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
 
-2. El Auditor Superior durará en su encargo 7 años improrrogables;
+1. La Auditoría Superior del Estado de Guerrero contará con un titular denominado Auditor Superior del Estado, nombrado por las dos terceras partes de los diputados presentes en sesión del Congreso del Estado; así mismo, con la votación requerida para su nombramiento, podrá ser removido exclusivamente por las causas graves que la ley de la materia señale y conforme a los procedimientos establecidos en esta Constitución;
 
-3. La Junta de Coordinación Política propondrá en ternas al Congreso del Estado, la designación de los cuatro Auditores especiales que durarán en su encargo 4 años, con una sola posibilidad de reelección;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
+2. El Auditor Superior durará en su encargo 7 años y podrá ser nombrado nuevamente por una sola vez;
+
+3. (DEROGADO, P.O. 24 DE AGOSTO DE 2018)
 
 4. La Auditoría Superior del Estado de Guerrero contará con un servicio civil de carrera y con el personal jurídico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en su ley de la materia y en su reglamento interior;
 
@@ -2907,11 +2915,11 @@ II. Poseer al día de su designación, título y cédula profesional en Contadur
 
 #### SECCIÓN III. COMPETENCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 153.
 
-La Auditoría Superior del Estado de Guerrero será competente para:
+La Auditoría Superior del Estado será competente para:
 
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3657,7 +3665,7 @@ I. A rendir protesta constitucional previa al ejercicio de su cargo en los térm
 
 La autoridad que reciba la protesta dirá:
 
-¿Protesta guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes del cargo de… que el Estado os ha conferido?
+¿Protesta guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes del cargo de... que el Estado os ha conferido?
 
 El interrogado contestará:
 
@@ -3785,7 +3793,9 @@ IX. Los Magistrados del Tribunal de lo Contencioso Administrativo;
 
 X. El Fiscal General;
 
-XI. El Auditor General y los Auditores especiales;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
+
+XI. El Auditor Superior del Estado;
 
 XII. Los consejeros del Consejo de Políticas Públicas;
 
@@ -5171,6 +5181,8 @@ CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero
 
 P.O. 21 DE AGOSTO DE 2018.
 
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 756 POR EL QUE SE REFORMA EL ARTÍCULO 14 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO EN MATERIA DE DERECHOS Y CULTURA INDÍGENA”.]
+
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. El Congreso del Estado, dentro del plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá aprobar la legislación secundaria en la materia.
@@ -5178,6 +5190,34 @@ SEGUNDO. El Congreso del Estado, dentro del plazo de 180 días naturales contado
 TERCERO. En tanto se expiden y reforman las leyes a que se refiere el Segundo Transitorio, continuará aplicándose la legislación en materia de derechos y cultura indígena, que se encuentren vigentes en el Estado, a la fecha de entrada en vigor del presente Decreto.
 
 CUARTO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los Honorables Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+QUINTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+SEXTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 24 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 757 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos de la Entidad para efecto de lo dispuesto por la fracción III del numeral 1 del Art. 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, y oportunamente expídase la declaratoria respectiva conforme a lo dispuesto por el numeral 2 del mismo artículo.
+
+SEGUNDO. Una vez emitida la declaratoria por el Congreso del Estado, la presente reforma Constitucional entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+TERCERO. Remítase el presente Decreto al titular del Poder Ejecutivo Estatal, para su conocimiento y efectos procedentes.
+
+CUARTO. Publíquese el presente Decreto para el conocimiento general y sus efectos legales procedentes.
+
+P.O. 24 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 758 POR EL QUE SE REFORMAN LOS ARTÍCULOS 145, 148, 151 NUMERALES 1 Y 2, 153 Y LA FRACCIÓN XI DEL ARTÍCULO 195 Y SE DEROGA EL CONTENIDO DEL NUMERAL 3 DEL ARTÍCULO 151 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO EN MATERIA DE FISCALIZACIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, sin perjuicio de lo previsto en los transitorios legales.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los Honorables Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO. El actual Titular de la Auditoría Superior del Estado, continuará en el cargo hasta la conclusión del periodo para el cual fue nombrado, no estará impedido para participar en el proceso de designación del nuevo titular de la Auditoría Superior del Estado de Guerrero, para ser nombrado por un sólo periodo más, sujetándose a lo dispuesto en la Constitución Política del Estado Libre y Soberano de Guerrero, en la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 231 y en la Ley Número 468 de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero.
+
+CUARTO. Los actuales Auditores Especiales de la Auditoría Superior del Estado, continuarán en el cargo hasta en tanto el Titular de la Auditoría Superior del Estado, conforme al procedimiento establecido en la Ley de la materia, designe en su caso, a los Auditores Especiales.
 
 QUINTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
 
