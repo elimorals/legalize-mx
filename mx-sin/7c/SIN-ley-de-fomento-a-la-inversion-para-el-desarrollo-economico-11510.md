@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-fomento-a-la-inversion-para-el-desarrollo-economico-1151
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-27"
-last_updated: "2016-12-28"
+last_updated: "2018-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 1996.
 
@@ -39,9 +39,11 @@ LEY DE FOMENTO A LA INVERSION PARA EL DESARROLLO ECONOMICO DEL ESTADO DE SINALOA
 
 ## TITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 1o.
 
-Esta Ley es de orden público y de interés social, de observancia general en el Estado de Sinaloa. Su aplicación corresponde al Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Económico y a aquellas instancias previstas en la misma Ley.
+Esta Ley es de orden público y de interés social, de observancia general en el Estado de Sinaloa. Su aplicación corresponde al Ejecutivo del Estado por conducto de la Secretaría de Economía y a aquellas instancias previstas en la misma Ley.
 
 ###### ARTICULO 2o.
 
@@ -97,7 +99,9 @@ Para efectos de esta Ley se entiende por:
 
 a).- Ley: Ley de Fomento a la Inversión para el Desarrollo Económico de Sinaloa.
 
-b).- Secretaría: Secretaría de Desarrollo Económico del Estado de Sinaloa o la entidad que en determinado momento sustituya a ésta.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
+b).- Secretaría: Secretaría de Economía del Estado de Sinaloa o la entidad que en determinado momento sustituya a ésta.
 
 c).- Codesin: Consejo para el Desarrollo Económico de Sinaloa. Organo mixto que coordinará y vinculará los esfuerzos de los organismos públicos, privados y sociales de la Entidad, relativos a la promoción económica de Sinaloa.
 
@@ -107,7 +111,9 @@ e).- (DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 f).- Ceprofies: Certificados de Promoción Fiscal del Estado de Sinaloa: Documento que emite la Comisión Dictaminadora mediante el cual el empresario se hace acreedor de los estímulos fiscales y derechos que esta Ley otorga.
 
-g).- Comisión: Comisión Dictaminadora: Grupo operativo representativo de los sectores público y privado, presidido por el Titular de la Secretaría, facultado para emitir dictámenes y determinar los apoyos y estímulos establecidos en la presente Ley.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
+g).- Comisión: Comisión Dictaminadora: Grupo operativo representativo de los sectores público y privado, presidido por el Titular de la Secretaría, facultado para emitir dictámenes y determinar los apoyos y estímulos establecidos en la presente Ley, o en su caso proponer a la Secretaría la suspensión o cancelación de los incentivos otorgados.
 
 h).- UDI´S: Unidades de Inversión: Unidad de cuenta cuyo valor en pesos para cada día publica, periódicamente el Banco de México en el Diario Oficial de la Federación.
 
@@ -291,11 +297,13 @@ VII.- Posición tecnológica del proyecto: Dentro de esta consideración, se com
 
 ### CAPITULO III. DEL TIPO DE INCENTIVOS FISCALES
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 29.
 
-las personas físicas o morales que cumplan con las condiciones de inversión y empleo señaladas en el artículo 25, deberán presentar su solicitud de incentivos ante la Secretaría de Desarrollo Económico, quien la turnará a la Comisión para su aprobación o rechazo. Las empresas que resulten aprobadas se harán acreedoras, según sea el caso a los siguientes estímulos:
+Las personas físicas o morales que cumplan con las condiciones de inversión y empleo señaladas en el artículo 25, deberán presentar su solicitud de incentivos ante la Secretaría, quien la turnará a la Comisión para su aprobación o rechazo. Las empresas que resulten aprobadas se harán acreedoras, según sea el caso a los siguientes estímulos:
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 9 DE AGOSTO DE 2006)</small>
 
 I.- Reducción o condonación temporal de las siguientes contribuciones:
 
@@ -310,6 +318,8 @@ I.- Reducción o condonación temporal de las siguientes contribuciones:
 5.- Licencia de Construcción; y
 
 6.- Tarifa por la Conexión de Agua Potable y Alcantarillado.
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2006)</small>
 
 TABLA I: PROYECTOS COMERCIALES Y DE SERVICIOS
 
@@ -338,6 +348,8 @@ Licencia de Construcción 80
 Tarifas de Conexión de Agua 0
 
 Potable y Alcantarillado
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2006)</small>
 
 TABLA II: PROYECTOS CONSTRUCCIÓN DE VIVIENDA Y
 
@@ -369,6 +381,8 @@ Tarifas de Conexión de Agua 0
 
 Potable y Alcantarillado
 
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2006)</small>
+
 TABLA III: PROYECTOS INDUSTRIALES Y TURISTICOS QUE GENEREN HASTA 99 EMPLEOS PERMANENTES
 
 CONCEPTOS 1er.- 3er. 4. Año 5to. Año
@@ -396,6 +410,8 @@ Licencia de Construcción 100
 Tarifas de Conexión de Agua 50
 
 Potable y Alcantarillado
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2006)</small>
 
 TABLA IV: INDUSTRIAS QUE SE INSTALEN EN PARQUE INDUSTRIAL Y EMPRESAS TURÍSTICAS E INDUSTRIALES QUE GENEREN DE 100 A 249 EMPLEOS PERMANENTES
 
@@ -426,6 +442,8 @@ Licencia de Construcción 100
 Tarifas de Conexión de Agua 50
 
 Potable y Alcantarillado
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2006)</small>
 
 TABLA V: INDUSTRIAS Y EMPRESAS TURISTICAS QUE GENEREN DE 250 O MÁS EMPLEOS PERMANENTES E INVIERTAN MÁS DE 4 MILLONES DE UDI'S
 
@@ -459,6 +477,8 @@ Agua Potable y
 
 Alcantarillado
 
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2006)</small>
+
 TABLA VI: PROYECTOS DE CONSTRUCCIÓN DE PARQUES
 
 INDUSTRIALES
@@ -489,6 +509,8 @@ Tarifas de Conexión de Agua 0
 
 Potable y Alcantarillado
 
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2006)</small>
+
 TABLA VII: PROYECTOS DE INVERNADEROS AGRÍCOLAS Y GRANJAS ACUÍCOLAS
 
 CONCEPTOS 1er.Año 2Año. 3er Año
@@ -516,6 +538,8 @@ Licencia de Construcción 100 0 0
 Tarifas de Conexión de Agua 0
 
 Potable y Alcantarillado
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2006)</small>
 
 TABLA VIII: PROYECTOS DE CONSTRUCCIÓN DE VIVIENDA EN MUNICIPIO QUE TRADICIONALMENTE NO CUENTAN CON ESTE TIPO DE INVERSIONES (el Fuerte, Choix, Sinaloa, Mocorito, Badiraguato, Angostura, Cosalá, Elota, San Ignacio, Concordia, el Rosario y Escuinapa)
 
@@ -607,7 +631,9 @@ Se dará trámite a la solicitud de incentivos fiscales siempre y cuando el peti
 
 Una vez aprobada la solicitud de incentivos fiscales del inversionista se procederá a emitir una resolución. Los estímulos fiscales y derechos se otorgarán a través de CEPROFIES en los cuales se indicarán los incentivos que se conceden y servirán como instrumento de pago de las contribuciones y otros incentivos no fiscales.
 
-La resolución por parte de la Comisión Dictaminadora será representada por un Dictamen, que deberán signar los representantes de las Secretarías de Desarrollo Económico, Administración y Finanzas y Planeación y Desarrollo, así como también del Comité Regional de Promoción Económica y el H. Ayuntamiento donde se desarrollará el proyecto que se dictaminó, dicho Dictamen podrá ser utilizado para realizar los trámites ante las áreas recaudadoras municipales y estatales. Para su respectiva reducción de estímulos otorgados y período de vigencia establecido en tanto se otorga el Certificado de Promoción Fiscal en definitiva.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
+La resolución por parte de la Comisión Dictaminadora será representada por un Dictamen, que deberán signar los representantes de las Secretarías de Economía, Administración y Finanzas y Desarrollo Social, así como también del Comité Regional de Promoción Económica y el H. Ayuntamiento donde se desarrollará el proyecto que se dictaminó, dicho Dictamen podrá ser utilizado para realizar los trámites ante las áreas recaudadoras municipales y estatales. Para su respectiva reducción de estímulos otorgados y período de vigencia establecido en tanto se otorga el Certificado de Promoción Fiscal en definitiva.
 
 La Secretaría deberá notificar lo conducente a las autoridades involucradas en el otorgamiento de los incentivos establecidos en cada resolución.
 
@@ -625,9 +651,11 @@ Se entenderá como resuelta en forma positiva la solicitud, en caso de no contes
 
 Una vez aprobados los incentivos fiscales, estímulos y apoyos adicionales, éstos se entenderán condicionados al cumplimiento de los compromisos asumidos por parte de los inversionistas bajo la pena de aplicar las sanciones contenidas en la Ley, en caso de incumplimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 40.
 
-Las empresas que hayan sido beneficiadas con el otorgamiento de incentivos fiscales, deberán presentar un informe a la Secretaría en el que acrediten el cumplimiento de los compromisos asumidos. Dicho informe deberá realizarse en un término que no exceda los 18 meses posteriores al otorgamiento de los incentivos.
+Las empresas que hayan sido beneficiadas con el otorgamiento de incentivos fiscales, deberán presentar un informe a la Secretaría en el que acrediten el cumplimiento de los compromisos asumidos. Dicho informe deberá presentarse semestralmente, a partir de la vigencia del certificado de promoción fiscal que corresponda, de acuerdo con las disposiciones del Reglamento de esta Ley.
 
 La no presentación de este informe, tendrá como efecto considerar como incumplidos los compromisos con las consecuentes sanciones establecidas en la Ley.
 
@@ -661,9 +689,11 @@ Todo cambio de propietario de empresas beneficiadas con incentivos, implicará e
 
 La asociación, fusión, escisión o compra de una empresa existente, que no genere inversiones adicionales o mayores empleos, no será considerada como una nueva inversión.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 46.
 
-En caso de que por causas de fuerza mayor, quiebra, cambios en las condiciones del mercado, el proyecto sufriere modificaciones en el monto de inversión, empleo o las demás condiciones en las que se basó el cálculo de incentivos durante el primer año de operaciones, la Secretaría llevará a cabo un proceso de revisión de los incentivos otorgados, pudiendo éstos cancelarse, modificarse o extenderse a su juicio o a propuesta del Codesin.
+En caso de que por causas de fuerza mayor, quiebra, cambios en las condiciones del mercado, el proyecto sufriere modificaciones en el monto de inversión, empleo o las demás condiciones en las que se basó el cálculo de incentivos durante el primer año de operaciones, la Secretaría llevará a cabo un proceso de revisión de los incentivos otorgados, pudiendo éstos cancelarse, modificarse o extenderse a su juicio, a propuesta del Codesin y/o de la Comisión.
 
 ###### ARTICULO 47.
 
@@ -935,9 +965,9 @@ III.- En función de necesidades específicas de las empresas, se podrán tramit
 
 3). Pago parcial de costos de adiestramiento y capacitación.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
 
-ARTICULO 79 BIS.- Cuando esta Ley establezca como incentivo la deducibilidad en el Impuesto Sobre Nómina, se deberá autorizar cada deducción por la Secretaría y el CODESIN y se otorgará mediante CEPROFIES, los cuales se harán efectivos en el ejercicio inmediato siguiente. Dichas deducciones no podrán exceder del 25% de dicho impuesto. La Secretaría de Desarrollo Económico y el CODESIN definirán criterios cada año para establecer los montos deducibles para cada caso.
+ARTICULO 79 BIS.- Cuando esta Ley establezca como incentivo la deducibilidad en el Impuesto Sobre Nómina, se deberá autorizar cada deducción por la Secretaría y el CODESIN y se otorgará mediante CEPROFIES, los cuales se harán efectivos en el ejercicio inmediato siguiente. Dichas deducciones no podrán exceder del 25% de dicho impuesto. La Secretaría y el CODESIN definirán criterios cada año para establecer los montos deducibles para cada caso.
 
 ## TITULO V. DE LA COMISION DICTAMINADORA
 
@@ -949,9 +979,11 @@ La Comisión se integra por un representante de la Secretaría; uno de la Secret
 
 Los integrantes de la Comisión desempeñarán sus funciones honoríficamente.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 81.
 
-Son facultades de esta Comisión, emitir dictámenes y determinar los estímulos fiscales establecidos en esta Ley.
+Son facultades de esta Comisión, emitir dictámenes, determinar los estímulos establecidos en esta Ley y, en su caso, proponer a la Secretaría la suspensión o cancelación de los incentivos otorgados.
 
 ###### ARTICULO 82.
 
@@ -1129,19 +1161,31 @@ IV.- Por los recursos que se obtengan por cualquier otro concepto.
 
 ### CAPITULO I. DE LA APLICACION DE SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 99.
 
-La Secretaría, con fundamento en la resolución del Codesin, sancionará conforme a lo previsto por esta Ley, las siguientes faltas:
+La Secretaría, con fundamento en la resolución de la Comisión, sancionará conforme a lo previsto por esta Ley, las siguientes faltas:
 
 I.- Aportar información falsa para obtener el otorgamiento de incentivos;
 
-II.- No cumplir en el tiempo establecido con los compromisos a cargo del inversionista, señalados en la resolución emitida por la Secretaría y el Codesin;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
+
+II.- No cumplir en el tiempo establecido con los compromisos a cargo del inversionista, señalados en la resolución emitida por la Secretaría y la Comisión;
 
 III.- Aprovechar los incentivos señalados en esta Ley para fines distintos a los señalados por el inversionista en su solicitud;
 
-IV.- Ceder los beneficios concedidos en la resolución emitida por la Secretaría y el Codesin sin su autorización previa; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
 
-V.- La no presentación oportuna del informe a que se refiere el Artículo 40 de esta Ley.
+IV.- Ceder los beneficios concedidos en la resolución emitida por la Comisión, sin su autorización previa;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
+
+V.- La no presentación oportuna del informe a que se refiere el Artículo 40 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2018)</small>
+
+VI.- Estar en incumplimiento de compromisos de otros apoyos otorgados conforme a esta Ley y su Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -1183,9 +1227,11 @@ No se impondrán sanciones, cuando el inversionista cumpla en forma espontánea 
 
 La Secretaría de Hacienda Pública y Tesorería del Gobierno del Estado, para la aplicación de sanciones y con base en la solicitud de la Secretaría y/o del Codesin, fundará y motivará su procedencia y comunicará a la autoridad hacendaria que corresponda, la imposición de la sanción para que notifique al inversionista y proceda al cobro de la misma, aún mediante el procedimiento económico coactivo.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 106.
 
-Los ingresos que el Estado obtenga por concepto de sanciones impuestas a los inversionistas, se destinará a la formación de un fondo para el otorgamiento de los incentivos previstos por esta Ley.
+Los ingresos que el Estado obtenga por concepto de sanciones impuestas a los inversionistas, se destinarán a la formación de un fondo para el otorgamiento, operación y supervisión de los incentivos previstos por esta Ley.
 
 ### CAPITULO II. DEL RECURSO DE REVISION
 
@@ -1352,3 +1398,15 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 24 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 816 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Reglamento de la Ley deberá modificarse en un periodo de 30 días hábiles, posteriores a la entrada en vigor de las reformas a la presente Ley.
+
+TERCERO. La Comisión deberá sesionar dentro de los 45 días hábiles posteriores a la entrada en vigor del presente Decreto, para efectos de emitir oficios de notificación a los beneficiarios de Ceprofies con las nuevas disposiciones.
+
+CUARTO. Los informes semestrales a que se refiere el artículo 40 de la presente Ley, se deberán realizar por los beneficiarios de los incentivos otorgados antes de la entrada en vigor de las reformas a la presente Ley, tomando en consideración la fecha de la notificación a que alude el artículo transitorio que antecede.
