@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2018-07-04"
+last_updated: "2018-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -3133,7 +3133,7 @@ A los padres o tutores que acepten que los menores sujetos a su patria potestad,
 
 Para los efectos de este precepto, se considerará que es empleado, el menor de edad que preste sus servicios por un salario, o cualquier otra prestación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ARTICULO 274 BIS.- Al que procure, facilite, obligue o induzca por cualquier medio a uno o más menores de dieciocho años, con o sin su consentimiento, a realizar actos de exhibicionismo corporal, lascivos o sexuales, con el objeto y fin de videograbarlos, fotografiarlos o exhibirlos por cualesquier medio, con o sin el ánimo de obtener un lucro, se le impondrán de seis a doce años de prisión y de setecientos a mil días de multa.
 
@@ -3465,6 +3465,12 @@ IX.- Ejerza algún otro empleo, cargo o comisión oficial o particular, teniendo
 
 Cuando el monto del producto del delito o de los daños o perjuicios causados, exceda de mil veces el valor diario de la Unidad de Medida y Actualización, la sanción será de uno a nueve años de prisión y de ciento ochenta a quinientas veces multa.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
+###### ARTICULO 300 Bis.
+
+Se impondrá de uno a ocho años de prisión y de treinta a ciento ochenta días de multa al servidor público que autorice indebidamente o permita la ocupación irregular de áreas y predios en los Centros de Población, el Asentamiento Humano o construcción en polígonos de protección, salvaguarda y amortiguamiento en torno a la infraestructura o equipamientos de seguridad estatal o de protección en derechos de vía, o que no acate el área urbanizable.
+
 ### CAPITULO III. ADQUISICION U OCULTACION INDEBIDA DE RECURSOS PUBLICOS
 
 ###### ARTICULO 301.
@@ -3595,7 +3601,11 @@ Al servidor público que con motivo de su empleo, cargo o comisión en el servic
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Fondo Auxiliar para la Administración de Justicia del Estado.
 
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
+### CAPÍTULO X. OCUPACIÓN IRREGULAR DE ÁREAS Y PREDIOS
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
+ARTICULO 325 BIS.- A quien promueva, induzca o se beneficie de la ocupación irregular de áreas, predios, polígonos de protección, salvaguarda y amortiguamiento en torno a la infraestructura o equipamientos de seguridad estatal, de protección en derechos de vía o que no acaten el área urbanizable se le impondrá prisión de uno a ocho años y de cien a mil días de multa.
 
 ###### ARTICULO 308.
 
@@ -3607,7 +3617,7 @@ II.- Mediante la realización de los actos a que se refiere la fracción anterio
 
 III.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público, a su cónyuge o a sus parientes consanguíneos o por afinidad hasta el cuarto grado o a sociedades de las que el agente forme parte.
 
-### CAPITULO II. TORTURA
+### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
 
 ###### ARTICULO 309.
 
@@ -3619,13 +3629,13 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 ## TITULO CUARTO. DELITOS CONTRA LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
-### CAPITULO III. FRAUDE PROCESAL
+### CAPITULO II. TORTURA
 
 ###### ARTICULO 310.
 
 Al particular que por sí o por interpósita persona promueva una conducta ilícita de un servidor público o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrá prisión de tres meses a dos años y de diez a cien días multa.
 
-### CAPITULO IV. IMPUTACION DE HECHOS FALSOS Y SIMULACION DE PRUEBAS
+### CAPITULO III. FRAUDE PROCESAL
 
 ###### ARTICULO 311.
 
@@ -3643,15 +3653,15 @@ II. De tres a ocho años de prisión y de quinientos a un mil días multa cuando
 
 No será sancionado el particular que denuncie ante el Ministerio Público dentro de los quince días siguientes a los hechos, la entrega que haya efectuado a un servidor público de dinero o cualquier otra dádiva cuando éste lo hubiera solicitado o lo incitara a ello.
 
-### CAPITULO V. EVASION DE PRESOS
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+### CAPITULO IV. IMPUTACION DE HECHOS FALSOS Y SIMULACION DE PRUEBAS
 
 ###### ARTICULO 313.
 
 Al que a sabiendas adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, se le aplicará prisión de seis meses a cinco años y de treinta a trescientos días multa.
 
-### CAPITULO VI. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO V. EVASION DE PRESOS
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 314.
 
@@ -3669,7 +3679,7 @@ IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testig
 
 El testigo, perito o intérprete que retracte espontáneamente sus falsas declaraciones rendidas ante cualquier autoridad administrativa o ante la judicial, antes de que se pronuncie sentencia en la instancia en que las diere, sólo pagará de treinta a ciento ochenta días multa, pero si faltare a la verdad al retractar sus declaraciones, se le aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo.
 
-### CAPITULO VII. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO VI. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 316.
 
@@ -3707,33 +3717,37 @@ Se aplicará de uno a dos años de prisión y de diez mil a treinta mil días mu
 
 Si la conducta a que se refiere el párrafo anterior la realiza un integrante de alguna institución de seguridad pública, se aplicará de dos a cinco años de prisión, de veinte mil a cuarenta mil días multa e inhabilitación para ejercer cualquier empleo o cargo público en cualquier ámbito de gobierno hasta por veinte años.
 
-### CAPITULO VIII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO VII. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ###### ARTICULO 322.
 
 Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante los sellos puestos por orden legítima de la autoridad competente, se le aplicará prisión de tres meses a dos años o de sesenta a ciento ochenta días multa.
 
-### CAPITULO IX. DELITOS DE ABOGADOS DEFENSORES Y LITIGANTES
+### CAPITULO VIII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### ARTICULO 323.
 
 Al que cometa un delito en contra de un servidor público o agente de la autoridad en el acto de ejercer sus funciones o con motivo de ellas, se le aplicará prisión de tres meses a tres años, además de la que le corresponda por el delito cometido.
 
-### CAPITULO UNICO. DE LOS DELITOS ELECTORALES
-
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+### CAPITULO IX. DELITOS DE ABOGADOS DEFENSORES Y LITIGANTES
 
 ###### ARTICULO 324.
 
 Al que indebidamente se atribuya y ejerza funciones propias de un servidor público, se le aplicarán de seis meses a cinco años de prisión y de veinte a cien días multa.
 
-### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
+### CAPITULO UNICO. DE LOS DELITOS ELECTORALES
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 325.
 
 Al que usare uniformes oficiales, condecoraciones, grados jerárquicos, distintivos o insignias a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura a que correspondan aquéllos, se le impondrá prisión de tres meses a tres años y de veinte a cincuenta días multa.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2016)</small>
 
 ## TÍTULO QUINTO. DE LOS DELITOS ELECTORALES
 
@@ -4658,3 +4672,9 @@ P.O. 4 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 619 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 180 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 24 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 822 DEL H. CONGRESO DEL ESTADO.- SE ADICIONAN LOS ARTÍCULOS 300 BIS, Y UN CAPÍTULO X DENOMINADO «OCUPACIÓN IRREGULAR DE ÁREAS Y PREDIOS» DENTRO DEL TÍTULO TERCERO DE LA SECCIÓN CUARTA DEL LIBRO SEGUNDO, CON EL ARTÍCULO 325 BIS AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
