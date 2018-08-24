@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-117477"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-12-02"
-last_updated: "2016-12-02"
+last_updated: "2018-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-11-24"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO AL ORDEN EN QUE LOS JUECES DE DISTRITO ESPECIALIZADOS EN EL SISTEMA PENAL ACUSATORIO EJERCERAN EL CARGO DE ADMINISTRADOR EN LOS CENTROS DE JUSTICIA PENAL FEDERAL]
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO DÉCIMO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, PUBLICADO EN EL D.O.F. DE 24 DE AGOSTO DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL CINCO DE NOVIEMBRE DE DOS MIL DIECIOCHO.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL ORDEN EN QUE LOS JUECES DE DISTRITO ESPECIALIZADOS EN EL SISTEMA PENAL ACUSATORIO EJERCERÁN EL CARGO DE ADMINISTRADOR EN LOS CENTROS DE JUSTICIA PENAL FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2018 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 2 de diciembre de 2016.
 
@@ -68,3 +70,49 @@ SEGUNDO. Los jueces de Distrito especializados en el sistema penal acusatorio fu
 TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en la página de intranet http://portalconsejo.cjf.gob.mx
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, relativo al orden en que los jueces de Distrito Especializados en el Sistema Penal Acusatorio ejercerán el cargo de administrador en los Centros de Justicia Penal Federal, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiséis de octubre de dos mil dieciséis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza y Manuel Ernesto Saloma Vera.- Ciudad de México, a veinticuatro de noviembre de dos mil dieciséis.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el cinco de noviembre de dos mil dieciocho, con excepción de lo previsto en los Transitorios TERCERO, primer párrafo; CUARTO; NOVENO; DÉCIMO y DÉCIMO PRIMERO los cuales iniciarán su vigencia al día siguiente al de la aprobación del citado instrumento normativo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Se aprueba la baja del puesto específico de Asistente de Despacho Judicial de Primera Instancia y Ejecución de Penas, por lo que las áreas administrativas competentes deberán realizar los ajustes necesarios, asimismo llevarán a cabo las acciones respectivas para la creación de las plazas de Administrador.
+
+Las plazas de Asistente de Despacho Judicial de Primera Instancia y Ejecución de Penas con que actualmente cuenta cada Centro, se convertirán en la de Asistente de Constancias y Registro de Juez de Control o Juez de Enjuiciamiento.
+
+Las personas que actualmente ocupan las plazas de Asistente de Despacho Judicial de Primera Instancia y Ejecución de Penas, a la entrada en vigor del presente Acuerdo ocuparán las de Asistente de Constancias y Registro de Juez de Control o Juez de Enjuiciamiento.
+
+CUARTO. El Instituto de la Judicatura convocará al curso de capacitación para ocupar la plaza de Administrador de manera inmediata a la publicación del presente Acuerdo, conforme a los artículos 7 y 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+
+El curso de capacitación tendrá una duración de tres semanas. Al finalizar el curso, el Instituto de la Judicatura remitirá los resultados y los nombres de los candidatos elegibles al Pleno del Consejo de la Judicatura Federal, a fin de que determine su asignación a los Centros por seis meses, antes de la entrada en vigor de este Acuerdo.
+
+QUINTO. Los jueces de Distrito de cada Centro de Justicia Penal Federal designarán, conforme al mecanismo previsto en el artículo 15 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, al juez que a partir de la entrada en vigor de dicho instrumento normativo se desempeñará como Juez de Despacho, por lo que resta de este año calendario.
+
+SEXTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, en coordinación con la Dirección General de Innovación, Planeación y Desarrollo Institucional, deberá elaborar las modificaciones necesarias a los Manuales de Organización y Puestos; y de Procesos y Procedimientos Administrativos del Centro de Justicia Penal.
+
+Las áreas administrativas competentes del Consejo brindarán el apoyo y asesoría que sean necesarios para la elaboración de las modificaciones respectivas.
+
+Los proyectos de modificaciones a los Manuales señalados en el párrafo anterior, deberán someterse a la consideración y, en su caso, aprobación del Pleno del Consejo de la Judicatura Federal; para su posterior publicación en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+SÉPTIMO. Los juzgadores que con la entrada en vigor de este Acuerdo dejarán de realizar la función de Juez Administrador, continuarán adscritos al mismo Centro de Justicia Penal Federal en funciones jurisdiccionales.
+
+Sin perjuicio de lo previsto en el párrafo anterior, el Pleno a propuesta de la Comisión de Adscripción podrá readscribir a los juzgadores que funjan como Juez Administrador a otro Centro de Justicia Penal Federal, siempre que las necesidades del servicio así lo requieran y haya causa fundada y suficiente para ello.
+
+OCTAVO. Las plazas de Asistente de Constancias y Registro de Juez de Control o Juez de Enjuiciamiento, (que se designen conforme a lo previsto en el Transitorio Tercero de este Acuerdo); Secretaria Particular de Juez de Distrito, y Chofer de funcionario con que actualmente cuenta el Juez que deja de ser Administrador continuarán asignadas a éste en el mismo Centro de Justicia Penal Federal o en aquel al que se readscriba.
+
+NOVENO. Se autoriza habilitar en todos los Centros, el puesto específico de Encargado del Despacho Logístico y Administrativo del Centro de Justicia Penal Federal con que cuenta la plantilla ampliada aprobada para los Centros de Justicia Penal Federal.
+
+DÉCIMO. Las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para la implementación del presente Acuerdo.
+
+DÉCIMO PRIMERO. La Comisión de Administración resolverá sobre las necesidades de personal adicional que deriven de este Acuerdo.
+
+DÉCIMO SEGUNDO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, relativo al orden en que los jueces de Distrito Especializados en el Sistema Penal Acusatorio ejercerán el cargo de administrador en los Centros de Justicia Penal Federal.
+
+DÉCIMO TERCERO. Las referencias que se hagan en cualquier disposición al Juez Administrador del Centro de Justicia Penal Federal se entenderán hechas al Administrador del Centro de Justicia Penal Federal.
+
+DÉCIMO CUARTO. La Visitaduría Judicial deberá presentar al Pleno la propuesta de metodología de inspección a los Centros de Justicia Penal Federal, en términos de lo previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
