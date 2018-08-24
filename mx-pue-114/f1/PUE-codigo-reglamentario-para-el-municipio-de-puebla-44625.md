@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2018-03-16"
+last_updated: "2018-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -2514,6 +2514,18 @@ p) Transporten animales feroces y de espectáculos sin jaulas o camiones que gar
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 q) Inciten a los animales para que se acometan entre ellos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 24 DE AGOSTO DE 2018)</small>
+
+r) Realicen en espacios o lugares públicos, en contra de un individuo, sin que medie su consentimiento, las conductas siguientes:
+
+1. Expresiones verbales con connotación sexual o lasciva, tales como palabras, comentarios, jadeos, silbidos o cualquier sonido que puedan aludir al cuerpo, la sexualidad, la forma de vestir o a la edad;
+
+2. Conductas no verbales con connotación sexual o lasciva, tales como exhibición de genitales, masturbación, actos que involucren contacto corporal, tocamientos, roces intencionales u opresión de genitales contra el cuerpo.
+
+3. Invitaciones, insinuaciones, solicitudes o proposiciones para actos lascivos o con connotación sexual, y
+
+4. Captación de imágenes, videos o cualquier registro audiovisual del cuerpo o de alguna parte de él, con connotación sexual o lasciva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -7043,7 +7055,7 @@ Para la determinación y aplicación de las medidas preventivas y de seguridad d
 
 Son medidas de seguridad las siguientes:
 
-I. La realización de diagnósticos, peritajes y auditorias a lugares de probable riesgo para la población;
+I. La realización de diagnósticos, peritajes y auditorías a lugares de probable riesgo para la población;
 
 II. La clausura temporal o definitiva, parcial o total;
 
@@ -7079,7 +7091,7 @@ Para el establecimiento de medidas de seguridad en eventos públicos y/o masivos
 
 I.- Implementar las medidas de seguridad y de protección civil, que sean indicadas por la Unidad Operativa Municipal de Protección Civil;
 
-II.- Proveer asistencia medica en el lugar, señalamientos y equipo básicos de seguridad y servicios sanitarios en la medida y con los requisitos que sean indicados por la Unidad Operativa Municipal de Protección Civil;
+II.- Proveer asistencia médica en el lugar, señalamientos y equipo básicos de seguridad y servicios sanitarios en la medida y con los requisitos que sean indicados por la Unidad Operativa Municipal de Protección Civil;
 
 III.- Indicar mediante señalética, que será colocada en lugares visibles, donde se realice un espectáculo público y/o masivo, los cupos Máximos del inmueble (capacidad);
 
@@ -9251,9 +9263,9 @@ XX. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
 
 XXI. ALIMENTOS EN GENERAL CON VENTA DE CERVEZA EN BOTELLA ABIERTA.- Establecimiento mercantil cuya actividad preponderante es la elaboración y venta de alimentos, los cuales deben reunir las condiciones de seguridad e higiene que determine el Sector Salud y de manera complementaria la venta de cerveza en botella abierta.
 
-XXII. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLlCAS.- Establecimiento mercantil cuya actividad preponderante es la presentación de ARTISTAS y GRUPOS MUSICALES, quedando estrictamente obligados a cumplir con lo establecido en las disposiciones señaladas en el CAPÍTULO 12 denominado ESPECTÁCULOS PÚBLICOS, y que tiene venta al público de bebidas alcohólicas; y
+XXII. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLICAS.- Establecimiento mercantil cuya actividad preponderante es la presentación de ARTISTAS y GRUPOS MUSICALES, quedando estrictamente obligados a cumplir con lo establecido en las disposiciones señaladas en el CAPÍTULO 12 denominado ESPECTÁCULOS PÚBLICOS, y que tiene venta al público de bebidas alcohólicas; y
 
-XXIII. CENTRO DE ENTRETENIMIENTO CON VENTA DE ALIMENTOS Y BEBIDAS ALCOHÓLlCAS.- Establecimiento mercantil cuya actividad preponderante son los juegos de azar de tipo manual, mecánico o electrónico y que además podrá ofrecer alimentos preparados así como bebidas alcohólicas a sus clientes.
+XXIII. CENTRO DE ENTRETENIMIENTO CON VENTA DE ALIMENTOS Y BEBIDAS ALCOHÓLICAS.- Establecimiento mercantil cuya actividad preponderante son los juegos de azar de tipo manual, mecánico o electrónico y que además podrá ofrecer alimentos preparados así como bebidas alcohólicas a sus clientes.
 
 DEL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
 
@@ -9463,7 +9475,7 @@ I. MISCELÁNEA O ULTRAMARINOS CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UN
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-II. MISCELÁNEA 0 ULTRAMARINOS CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. De las 06:00 a las 24:00 horas;
+II. MISCELÁNEA O ULTRAMARINOS CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. De las 06:00 a las 24:00 horas;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -9509,7 +9521,7 @@ I. BILLARES CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA ABIERTA;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-II. BOLICHE CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUACIÓN ALCOHÓLlCA DE 6º GL EN ENVASE ABIERTO;
+II. BOLICHE CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUACIÓN ALCOHÓLICA DE 6º GL EN ENVASE ABIERTO;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -33191,7 +33203,7 @@ En todos los contratos celebrados entre representantes y boxeadores, deberá esp
 
 ###### Artículo 2216 Ter.
 
-La Comisión, podrá aceptar la rescisión de un contrato a petición de una o de ambas partes, cuando ésta compruebe que el contrato ha sido violado por la otra, sirviendo de base para la indemnización de la contraparte, la garantía otorgada por el representante al boxeador o luchador, dividiéndola por meses y tomando en cuenta los que faltan para que la vigencia del contrato se dé por terminada.
+La Comisión, podrá aceptar la rescisión de un contrato a petición de una o de ambas partes, cuando ésta compruebe que el contrato ha sido violado por la otra, sirviendo de base para la indemnización de la contraparte, la garantía otorgada por el representante al boxeador o luchador, dividiéndola por meses y tormando en cuenta los que faltan para que la vigencia del contrato se dé por terminada.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -34737,7 +34749,7 @@ DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA: “HUGO LEICHT”
 
 ###### Artículo 2335 Sexies.
 
-El Premio Municipal de Investigación Histórica: "Hugo Leicht" será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
+El Premio Municipal de Investigación Histórica: “Hugo Leicht” será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -37402,3 +37414,9 @@ P.O. 16 DE MARZO DE 2018.
 PRIMERO. La presente reforma y adición de diversas disposiciones del Libro Tercero Capítulo 17 del Código Reglamentario para el Municipio de Puebla son de orden general y entrarán en vigor un día después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se concede un plazo de noventa días para que la Secretaría de Desarrollo Urbano y Sustentabilidad y a (sic) la Secretaría de Infraestructura y Servicios Públicos realice (sic) las propuestas de modificaciones y actualizaciones necesarias a sus Manuales de Procedimientos respectivos y los presenten ante el H. Ayuntamiento para su aprobación.
+
+P.O. 24 DE AGOSTO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE AGOSTO DE 2018, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN Y JUSTICIA, POR EL QUE ADICIONA EL INCISO R) DE LA FRACCIÓN IV DEL ARTÍCULO 209 DEL CAPÍTULO 9 POLICÍA Y GOBIERNO, DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+QUINTO. Se instruye al Secretario del Ayuntamiento para que en la forma legal correspondiente realice los trámites necesarios ante la Secretaría General de Gobierno del Estado, a fin de que se publiquen por una sola vez en el Periódico Oficial del Estado de Puebla, el presente Dictamen.
