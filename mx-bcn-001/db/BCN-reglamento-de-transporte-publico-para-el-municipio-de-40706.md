@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2018-03-16"
+last_updated: "2018-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -131,7 +131,9 @@ Cierre de circuito.- Son los espacios físicos autorizados en los que, sin reali
 
 Concesión.- Acto administrativo mediante el cual el ayuntamiento otorga a una persona moral, la prestación del servicio público de transporte masivo de pasajeros bajo las modalidades que establece la ley y el presente reglamento.
 
-Conductor.- Toda persona que maneje un vehículo en cualquiera de sus modalidades.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
+Conductor.- Toda persona que maneje u opere un vehículo destinado al servicio de transporte público, particular o privado, en todas sus modalidades.
 
 Consejo.- Consejo Municipal del Transporte.
 
@@ -179,7 +181,9 @@ Reglamento.- El Reglamento de Transporte Público para el Municipio de Ensenada.
 
 Reincidencia.- Violación repetida de lo estipulado en las leyes y reglamentos de materia de transporte por el mismo infractor.
 
-Revista Vehicular.- Es la inspección física de las unidades, equipamiento auxiliar e infraestructura de los servicios de transporte público, a fin de comprobar el cumplimiento de las disposiciones en materia de equipo, aditamentos, sistemas y en general las condiciones de seguridad, operación y especificaciones técnicas para la óptima prestación del servicio.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
+Revista Vehicular.- Es la inspección físico - mecánica realizada de manera trimestral por la Unidad Municipal de Transporte a todas las unidades destinadas al servicio de transporte público, particular o privado, en todas sus modalidades reguladas por este reglamento y la Norma Técnica numero 12 en materia de diseño, seguridad, comodidad, imagen y operación del transporte público en la modalidad de transporte masivo, así como en la Norma Técnica número 13 en materia de diseño, seguridad, comodidad, imagen y operación del transporte público en la modalidad de alquiler (taxi), a fin de comprobar el cumplimiento de dichas disposiciones.
 
 Ruta alimentadora.- Son las que operan recorridos con distancias de menor longitud que las denominadas rutas troncales, considerándose entre ellas las que efectúan el servicio público de la periferia de la ciudad abasteciendo a una ruta troncal o exprés.
 
@@ -198,6 +202,14 @@ Servicio Público de Transporte.- Es aquel a través del cual el Ayuntamiento sa
 Sitio.- El espacio en la vía pública o en propiedad privada, autorizado por la autoridad municipal del transporte, para estacionar vehículos de alquiler, no sujetos a itinerario y a donde el público usuario pueda acudir a contratar estos servicios.
 
 Tarifa.- Es la cuota que pagan los usuarios en general por la prestación de un servicio, autorizada por el Ayuntamiento para la prestación del servicio público de transporte de pasajeros de alquiler o colectivo urbano, suburbano o intermunicipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE AGOSTO DE 2018)</small>
+
+Tarjetón de operador: Documento de identidad expedido anualmente por la Unidad Municipal de Transporte, con los datos personales y fotografía del conductor u operador de unidades destinadas al servicio público de pasajeros, que debe estar vigente y a la vista de los usuarios para encontrarse en aptitud de operar;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE AGOSTO DE 2018)</small>
+
+Tarjetón de unidad: Documento de identidad para las unidades destinadas al servicio de transporte público de pasajeros, expedido anualmente por la Unidad Municipal de Transporte, que especifica la ruta, el número económico, el cupo máximo de pasajeros, así como las tarifas oficiales, el número telefónico para quejas y sugerencias y el nombre de la empresa concesionaria a la que pertenece la unidad, que debe estar vigente y a la vista de los usuarios para encontrarse en aptitud de operar.
 
 Taxi, con Itinerario Fijo.- Son los vehículos de alquiler con capacidad de hasta 5 pasajeros contando al chofer, salvo los que ya cuentan con permisos con capacidad de 9 pasajeros o los que autorice el Ayuntamiento exclusivamente en rutas alimentadoras.
 
@@ -647,6 +659,12 @@ b.- De servicio especializado.- Los destinados a transportar un tipo específico
 
 c.- De servicio de grúa y remolques.- Los destinados a transportar o remolcar otros vehículos.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
+###### Artículo 35 Bis.
+
+Toda unidad que tenga como fin la prestación del servicio de transporte público en todas sus modalidades, deberá cumplir con su revista vehicular de manera trimestral, y de forma semestral las que tengan como fin la prestación de servicio particular o privado de pasajeros y de carga en todas sus modalidades, ambas ante la Unidad Municipal de Transporte, excepto las que mediante oficio demuestren que se encuentran fuera de servicio o impedidas para prestar el servicio correspondiente.
+
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 36.
@@ -923,11 +941,11 @@ VII.- Proporcionar capacitación continúa y permanente a sus operadores y demá
 
 VIII.- Cumplir con las disposiciones jurídicas y administrativas aplicables en materia ambiental;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
 
 IX.- Vigilar que los conductores de sus vehículos, cuenten con:
 
-a. Licencia de conducir vigente para operar unidades de transporte público.
+a. Licencia de conducir y tarjetón de operador vigente para operar unidades de transporte público.
 
 b. Constancia de antecedentes penales.
 
@@ -943,7 +961,9 @@ X.- Contar con póliza de seguro vigente para responder de los daños y perjuici
 
 XI.- Tratándose de personas morales, contar con un 15% del total de unidades destinadas a la prestación del servicio, acondicionadas con aditamentos especiales que permitan a las personas con discapacidad temporal o permanente y de la tercera edad, hacer uso del servicio público de transporte en condiciones de accesibilidad, seguridad, comodidad, higiene y eficiencia;
 
-XII.- Mantener actualizados sus registros ante la Unidad, respecto a su representatividad y personalidad jurídica, parque vehicular existente y en operación, conductores, y demás datos relacionados con el permiso o concesión otorgados, debiendo utilizar las formas que al efecto autorice la Unidad, las cuales, se publicarán en la Gaceta Municipal Órgano Oficial del Ayuntamiento;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
+
+XII.- Mantener actualizados sus registros ante la Unidad respecto a su representatividad y personalidad jurídica, tarjetones de unidad, parque vehicular existente y en operación, conductores u operadores, vigentes las revistas mecánicas y demás datos relacionados con el permiso o concesión otorgados, debiendo utilizar las formas que al efecto autorice la Dirección, las cuales, se publicarán en el (sic) la Gaceta Municipal Órgano Oficial del Ayuntamiento;
 
 XIII.- Realizar el pago de los derechos correspondientes a todos y cada uno de los trámites administrativos, permisos y concesiones otorgados, para la explotación del servicio;
 
@@ -1033,11 +1053,11 @@ En el caso de que se declare la revocación del permiso por cualquiera de los su
 
 ### CAPITULO XI. DE LAS OBLIGACIONES DE LOS CONDUCTORES DE LOS VEHÍCULOS DE TRANSPORTE PÚBLICO
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 62.
 
-Es obligación de los conductores de vehículos de transporte público, obtener y traer consigo licencia de chofer vigente que corresponda a cada modalidad y la documentación establecida por este reglamento y otras disposiciones jurídicas y administrativas aplicables, de acuerdo con las categorías, modalidades y tipo de servicio.
+Es obligación de los conductores de vehículos de transporte público, obtener y traer consigo licencia de chofer vigente que corresponda a cada modalidad, el tarjetón de operador mismo que acredita que el titular cuenta con los cursos de capacitación requeridos por la Unidad y la aprobación de exámenes toxicológicos, además de la documentación establecida por este reglamento y otras disposiciones jurídicas y administrativas aplicables, de acuerdo con las categorías, modalidades y tipo de servicio.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1101,7 +1121,9 @@ El Registro Público de Transporte Municipal se integrará por:
 
 I.- Registro de permisos y concesiones;
 
-II.- Registro de licencias de conductor;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
+
+II.- Registro de licencia y tarjetón de operador;
 
 III.- Registro de representantes legales, mandatarios y apoderados de personas morales y permisionarios del servicio de transporte público;
 
@@ -1109,7 +1131,11 @@ IV.- Registro de vehículos de transporte público matriculados en el Municipio;
 
 V.- Registro de infracciones, sanciones y delitos; y
 
-VI.- Las demás que sean necesarias a juicio de la Unidad.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE AGOSTO DE 2018)</small>
+
+VI. Registro de tarjetón de unidad.
+
+VII.- Las demás que sean necesarias a juicio de la Unidad.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1147,7 +1173,7 @@ De toda información, registro, folio o certificación que realice el Registro P
 
 Las tarifas para el cobro del transporte público de pasajeros, se fijarán de acuerdo con las condiciones y circunstancias de la prestación del servicio, de modo que permitan a los concesionarios y permisionarios, una ganancia económica justa en relación con el importe de la contraprestación a cargo de los usuarios, así como realizar nuevas inversiones en equipo e instalaciones adecuadas para el servicio.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 73 Bis.
 
@@ -1161,35 +1187,27 @@ La credencial de estudiante deberá contener los siguientes requisitos de forma 
 
 1. Nombre completo.
 
-2. Nombre de la Institución Educativa
+2. Nombre de la Institución Educativa.
 
-3. Vigencia
+3. Vigencia.
 
-4. Fotografía del Alumno
+4. Fotografía del Alumno.
 
-5. Logo o imagen de la Institución
+5. Logo o imagen de la Institución.
 
-6. Matricula
+6. Turno en que el estudiante asista a clases, ya sea en turno matutina (sic), vespertino, mixto o en modalidad semiescolarizado, en el caso de universidades públicas o privadas donde no se especifique el turno, se entenderá como turno mixto.
 
-7. Turno en que el estudiante asista a clases, ya sea en turno matutino, vespertino, mixto o en modalidad semiescolarizado, en el caso de universidades públicas donde no se especifique el turno, se entenderá como turno mixto.
-
-En caso de tener los siguientes documentos, también se deberá presentar:
+En caso de tener los siguientes documentos, también deberá presentar:
 
 1. Grado
 
-2. Periodo Escolar
+2. Período Escolar
 
 3. Programa Académico
 
 4. Número de Registro ante SEP
 
-El descuento tarifario a los estudiantes, será aplicable en los horarios que la Secretaria de Educación Pública determine en sus lineamentos (sic).
-
-b) Los mayores de 60 años, a quienes se les aplicará un descuento del 50% en la tarifa vigente, beneficio que se obtendrá mediante la exhibición de la credencial expedida por el Instituto Nacional de Personas Adultas Mayores (INAPAM).
-
-c) Las personas con discapacidad así como su acompañante cuando resulte indispensable para su traslado, beneficio que se obtendrá mediante la exhibición de la credencial expedida por el Sistema para el Desarrollo Integral de la Familia. (SMDIF) y los niños menores de tres años, tendrán acceso al servicio sin costo alguno.
-
-En el caso de los acompañantes de las personas con discapacidad, deberán igualmente tramitar la credencial que los acredite como tales.
+El descuento tarifario a los estudiantes, será aplicable en los horarios que la Secretaría de Educación Pública determine en sus lineamentos
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1449,7 +1467,9 @@ VI.- El exceso sobre el peso máximo autorizado superior a los porcentajes compr
 
 VII.- El reiterado incumplimiento no justificado de los horarios en los servicios en que éstos vengan prefijados con el permiso o concesión correspondiente.
 
-VIII.- Carecer del documento en el que se anuncien los teléfonos y Unidad Municipal de Transporte en donde deben formularse las reclamaciones de los usuarios.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
+
+VIII.- Carecer del tarjetón de unidad, así como tarjetón de operador, ambos a la vista y vigentes.
 
 IX.- La negativa y obstrucción a la actuación de los servicios de inspección cuando no se den las circunstancias previstas en este reglamento.
 
@@ -1539,7 +1559,9 @@ V.- Prestar el servicio público fuera de la ruta autorizada en su caso, o hacer
 
 VI.- Alterar las tarifas vigentes; Por no acatar las disposiciones relativas al aumento de capacidad, modificación de ruta, especificaciones, sistema de operación y demás condiciones en que deba prestarse el servicio público de que se trate, o cualquier otra irregularidad cometida en la prestación del servicio, conforme a la reglamentación Municipal correspondiente;
 
-VII.- Cuando el conductor no porte licencia o no sea la que corresponda al tipo modalidad o prestación del servicio;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
+
+VII.- Cuando el conductor no porte tarjetón de operador y licencia vigentes o no sea la que corresponda al operador y a la modalidad o prestación del servicio;
 
 VIII.- Alterar en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio, sin autorización expresa y por escrito de la Unidad;
 
@@ -1809,7 +1831,9 @@ I.- Por realizar el servicio público de transporte con placas y registro Federa
 
 II.- La carencia o no adecuado funcionamiento, imputable al transportista o manipulación de los instrumentos de medición, sus elementos, u otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, o no pasar la revisión periódica de los mismos en los plazos y forma legalmente establecidos.
 
-III.- Por carecer del documento que anuncie los teléfonos y dirección en donde deben formularse las reclamaciones de los usuarios.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
+III.- Carecer reincidentemente de tarjetón de operador y licencia vigente o no sea la que corresponda al operador y a la modalidad o prestación del servicio.
 
 IV.- Por la negativa y obstrucción a la actuación de los servicios de inspección cuando no se den las circunstancias previstas en este reglamento.
 
@@ -1962,3 +1986,15 @@ P.O. 16 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 10, 22 FRACCIÓN XIII Y XIV Y 26 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALFORNIA, RELATIVOS AL CONSEJO MUNICIPAL DE TRANSPORTE”.]
 
 ÚNICO.- LA REFORMA DE LOS ARTÍCULOS 10, 22 FRACCIÓN XIII Y XIV Y 26 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVOS AL CONSEJO MUNICIPAL DE TRANSPORTE, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 24 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 58 FRACCIONES IX Y XII, 62, 68 FRACCIÓN II Y VI, 96 FRACCIÓN VIII, 100 FRACCIÓN VII Y 108 FRACCIÓN III DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALFORNIA".]
+
+ÚNICO.- LA REFORMA DE LOS ARTÍCULOS 6, 58 FRACCIONES IX Y XII, 62, 68 FRACCION II Y VI, 96 FRACCION VIII, 100 FRACCION VII Y 108 FRACCION III DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA. Entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 24 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL ARTÍCULO 73 BIS DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente iniciativa entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
