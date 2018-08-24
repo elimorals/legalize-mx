@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-281-de-seguridad-publica-del-estado-de-guerrero-5443
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-16"
-last_updated: "2014-08-01"
+last_updated: "2018-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 281 DE SEGURIDAD PUBLICA DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 777 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 24 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 281 DE SEGURIDAD PÚBLICA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 16 de febrero de 2007.
 
@@ -3086,3 +3088,27 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 24 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 777 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Número 281 de Seguridad Pública del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero número 14 de fecha 16 de febrero de 2007.
+
+TERCERO. Una vez que entre en vigor la presente Ley, en un término de 180 días se expedirá el reglamento de la presente Ley.
+
+CUARTO. Se derogan todas aquellas disposiciones relacionadas a la seguridad pública, cuya regulación se prevea en la Ley.
+
+QUINTO. El Secretariado Ejecutivo, en un término de quince días, a partir de la entrada en vigor de la presente Ley, transferirá los recursos humanos, financieros y materiales, asuntos en trámites de la Universidad Policial del Estado; de la Dirección General del Sistema Estatal de Información Policial y de la Dirección General de la Unidad Estatal de Telecomunicaciones a la Secretaría de Seguridad Pública.
+
+SEXTO. Para el cumplimiento de las acciones derivadas por la entrada en vigor de la Ley, el Consejo Estatal, la Secretaría, la Secretaría de Finanzas y Administración y la Secretaria de la Contraloría y Transparencia Gubernamental y los Ayuntamientos en el ámbito de sus respectivas competencias, establecerán y desarrollaran los mecanismos de programación, ejecución e inversión presupuestaria para el cumplimiento de los objetivos y fines de la Ley, conforme a la disponibilidad presupuestal.
+
+SÉPTIMO. Los ayuntamientos municipales, deberán hacer las previsiones presupuestales necesarias para el cumplimiento de la presente Ley, y en un plazo que no exceda de ciento ochenta días a partir de la entrada en vigor de esta Ley, deberán adecuar sus ordenamientos jurídicos a las prescripciones contenidas en la Ley, sin perjuicio de sus facultades constitucionales.
+
+OCTAVO. Las disposiciones legales de otros ordenamientos que beneficien al servicio y personal de seguridad pública conservaran su vigencia, hasta en tanto no se adecuen a la Ley.
+
+NOVENO. Remítase al Titular del Poder Ejecutivo del Estado Libre y Soberano de Guerrero, para su conocimiento y efectos legales conducentes.
+
+DÉCIMO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para su conocimiento general.
