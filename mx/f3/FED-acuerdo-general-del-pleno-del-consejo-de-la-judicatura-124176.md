@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-124176"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-11-03"
-last_updated: "2017-11-03"
+last_updated: "2018-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124176&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-10-26"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA ASIGNACION DE AUDIENCIAS Y ASUNTOS, LA RENDICION DE ESTADISTICA Y LOS LIBROS ELECTRONICOS DE CONTROL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL]
 
-ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ASIGNACIÓN DE AUDIENCIAS Y ASUNTOS, LA RENDICIÓN DE ESTADÍSTICA Y LOS LIBROS ELECTRÓNICOS DE CONTROL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ASIGNACIÓN DE AUDIENCIAS Y ASUNTOS, LA RENDICIÓN DE ESTADÍSTICA Y LOS LIBROS ELECTRÓNICOS DE CONTROL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2018.
 
 Acuerdo publicado al Número 3 del Diario Oficial de la Federación, el viernes 3 de noviembre de 2017.
 
@@ -77,13 +79,21 @@ VI. Mantener actualizada la plantilla de los servidores públicos del Centro de 
 
 VII. Enviar mensualmente los reportes estadísticos a la Dirección General de Estadística Judicial;
 
-VIII. Asesorar a la persona que designe el Juez Administrador del Centro de Justicia Penal Federal, a efecto de que exista quien pueda suplirlo en sus ausencias temporales o definitivas;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
 
-IX. Apoyar al Juez Administrador con los listados o reportes de asuntos, necesarios para preparar la visita de inspección o aquellos que se requieran durante la misma, así como en la elaboración del informe circunstanciado correspondiente; y
+VIII. Instruir a la persona que designe el Administrador del Centro de Justicia Penal Federal, a efecto de que exista quien pueda suplirlo en sus ausencias temporales o definitivas;
 
-X. Las que determine el Juez Administrador al que se encuentre adscrito, en relación con la captura y consulta de información en el Sistema Integral de Seguimiento de Expedientes.
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
 
-La designación y remoción del Analista Jurídico estará a cargo de los Jueces que integren el Centro de Justicia Penal Federal, en términos de lo dispuesto por el Acuerdo General 36/2014 del Pleno del Consejo de la Judicatura Federal que regula los Centros de Justicia Penal Federal.
+IX. Apoyar al Administrador con los listados o reportes de asuntos, necesarios para preparar la visita de inspección o aquellos que se requieran durante la misma, así como en la elaboración del informe circunstanciado correspondiente; y
+
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+
+X. Las que determine el Administrador al que se encuentre adscrito, en relación con la captura y consulta de información en el Sistema Integral de Seguimiento de Expedientes.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+
+La designación y remoción del Analista Jurídico se realizará en términos de lo dispuesto por el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, para el Analista Jurídico SISE.
 
 ###### Artículo 3.
 
@@ -101,9 +111,11 @@ Para la programación automática de la audiencia en la agenda, el Sistema Integ
 
 La duración promedio de audiencias, de acuerdo con esos parámetros, deberá actualizarse en tiempo real con la información histórica que recabe el sistema.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 6.
 
-Corresponde al Juez Administrador en los Centros de Justicia Penal Federal:
+Corresponde al Administrador de los Centros de Justicia Penal Federal:
 
 I. Configurar los días inhábiles de turno, habilitar o inhabilitar a los jueces que integran el Centro de Justicia Penal Federal para que el sistema de gestión realice el turnado aleatorio de audiencias y asuntos, considerando periodos vacacionales o inasistencia de alguno de ellos por causa diversa en cuyo caso registrará los motivos de la ausencia.
 
@@ -113,11 +125,11 @@ II. Supervisar que previo a la agenda de las audiencias se encuentre capturada t
 
 III. Solicitar al sistema de gestión la programación de audiencias en el Sistema Integral de Seguimiento de Expedientes e indicar lo siguiente:
 
-a) Señalar el tipo de audiencia y si su prioridad es “Alta” o “Baja”.
+a) Señalar el tipo de audiencia y si su prioridad es "Alta" o "Baja".
 
-Tratándose de audiencias iniciales con detenido o de carácter de urgente deberá clasificarla con prioridad “Alta” y asentar la fecha y hora que conforme a las características del caso cumpla con la obligación de celebrarla de inmediato.
+Tratándose de audiencias iniciales con detenido o de carácter de urgente deberá clasificarla con prioridad "Alta" y asentar la fecha y hora que conforme a las características del caso cumpla con la obligación de celebrarla de inmediato.
 
-Cuando la prioridad sea “Baja”, el sistema buscará la sala, fecha y hora más próximas para la celebración de la audiencia en horario ordinario;
+Cuando la prioridad sea "Baja", el sistema buscará la sala, fecha y hora más próximas para la celebración de la audiencia en horario ordinario;
 
 b) En las audiencias con detenido, prever y registrar el tiempo de traslado de los imputados al Centro de Justicia Penal Federal para que el sistema lo contemple para la reservación de audiencia;
 
@@ -129,7 +141,13 @@ El Instituto Federal de Defensoría Pública, a través de sus Delegados, manten
 
 e) Registrar el correo electrónico de las personas imputadas, defensores públicos y defensores privados cuando estos lo hayan proporcionado, para notificarles la fecha y hora señalada, así como la sala, en que se celebrará la audiencia; y
 
-IV. En caso de cancelación de audiencia, el Juez Administrador tendrá que exponer el motivo de la cancelación y asentar su firma electrónica para validar dicha cancelación.
+> <small>(REFORMADA [N. DE E. CON SUS PÁRRAFOS] POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+
+IV. En caso de cancelación de audiencia, exponer el motivo de la cancelación y asentar su firma electrónica para validar dicha cancelación, así como en el supuesto en el que se requiera reprogramar la audiencia porque el juez no se encuentre presente para iniciarla.
+
+Si una cancelación o reprogramación de audiencia se hace a instrucción de un juez, éste lo hará directamente mediante su firma electrónica y la correspondiente justificación.
+
+En los demás casos en que estando presente el juez asignado aleatoriamente por el sistema para atender determinada audiencia, y se tenga que reprogramar una audiencia por imposibilidad de éste, él mismo será el responsable de justificar directamente el cambio en el sistema de gestión.
 
 ###### Artículo 7.
 
@@ -137,11 +155,11 @@ En los casos que durante la celebración de una audiencia se requiera programar 
 
 En el Sistema Integral de Seguimiento de Expedientes se programará la hora y asignará la audiencia al Juez que se encuentre disponible.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 8.
 
-En caso de que alguno de los jueces del Centro se encuentre impedido para conocer o seguir conociendo de un asunto, conocerá otro juez del mismo Centro, con exclusión de aquel que funja como Administrador; en caso de no ser posible, conocerá el Administrador en términos de lo previsto en el artículo 8 del Acuerdo General 36/2014 que regula los Centros de Justicia Penal Federal.
-
-Si tampoco fuera posible, conocerá un Juez del Centro de Justicia Penal Federal más cercano, el cual será designado, de conformidad con los lineamientos que determine la Comisión de Creación de Nuevos Órganos.
+En caso de que alguno de los jueces del Centro se encuentre impedido para conocer o seguir conociendo de un asunto, conocerá otro juez del mismo Centro, en caso de no ser posible, conocerá un Juez del Centro de Justicia Penal Federal más cercano, el cual será designado, de conformidad con los lineamientos que determine la Comisión de Creación de Nuevos Órganos.
 
 ###### Artículo 9.
 
@@ -1950,3 +1968,49 @@ OCTAVO. La Dirección General de Estadística Judicial difundirá los instructiv
 NOVENO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y las Direcciones Generales de Estadística Judicial; y de Tecnologías de la Información llevarán a cabo la revisión integral del funcionamiento y operación de la gestión judicial de los Centros de Justicia Penal Federal, así como las acciones necesarias para el cumplimiento del presente Acuerdo.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la asignación de audiencias y asuntos, la rendición de estadística y los libros electrónicos de control en los Centros de Justicia Penal Federal, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de once de octubre de dos mil diecisiete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Jorge Antonio Cruz Ramos, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza y J. Guadalupe Tafoya Hernández.- Ciudad de México, a veintiséis de octubre de dos mil diecisiete.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el cinco de noviembre de dos mil dieciocho, con excepción de lo previsto en los Transitorios TERCERO, primer párrafo; CUARTO; NOVENO; DÉCIMO y DÉCIMO PRIMERO los cuales iniciarán su vigencia al día siguiente al de la aprobación del citado instrumento normativo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Se aprueba la baja del puesto específico de Asistente de Despacho Judicial de Primera Instancia y Ejecución de Penas, por lo que las áreas administrativas competentes deberán realizar los ajustes necesarios, asimismo llevarán a cabo las acciones respectivas para la creación de las plazas de Administrador.
+
+Las plazas de Asistente de Despacho Judicial de Primera Instancia y Ejecución de Penas con que actualmente cuenta cada Centro, se convertirán en la de Asistente de Constancias y Registro de Juez de Control o Juez de Enjuiciamiento.
+
+Las personas que actualmente ocupan las plazas de Asistente de Despacho Judicial de Primera Instancia y Ejecución de Penas, a la entrada en vigor del presente Acuerdo ocuparán las de Asistente de Constancias y Registro de Juez de Control o Juez de Enjuiciamiento.
+
+CUARTO. El Instituto de la Judicatura convocará al curso de capacitación para ocupar la plaza de Administrador de manera inmediata a la publicación del presente Acuerdo, conforme a los artículos 7 y 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+
+El curso de capacitación tendrá una duración de tres semanas. Al finalizar el curso, el Instituto de la Judicatura remitirá los resultados y los nombres de los candidatos elegibles al Pleno del Consejo de la Judicatura Federal, a fin de que determine su asignación a los Centros por seis meses, antes de la entrada en vigor de este Acuerdo.
+
+QUINTO. Los jueces de Distrito de cada Centro de Justicia Penal Federal designarán, conforme al mecanismo previsto en el artículo 15 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, al juez que a partir de la entrada en vigor de dicho instrumento normativo se desempeñará como Juez de Despacho, por lo que resta de este año calendario.
+
+SEXTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, en coordinación con la Dirección General de Innovación, Planeación y Desarrollo Institucional, deberá elaborar las modificaciones necesarias a los Manuales de Organización y Puestos; y de Procesos y Procedimientos Administrativos del Centro de Justicia Penal.
+
+Las áreas administrativas competentes del Consejo brindarán el apoyo y asesoría que sean necesarios para la elaboración de las modificaciones respectivas.
+
+Los proyectos de modificaciones a los Manuales señalados en el párrafo anterior, deberán someterse a la consideración y, en su caso, aprobación del Pleno del Consejo de la Judicatura Federal; para su posterior publicación en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+SÉPTIMO. Los juzgadores que con la entrada en vigor de este Acuerdo dejarán de realizar la función de Juez Administrador, continuarán adscritos al mismo Centro de Justicia Penal Federal en funciones jurisdiccionales.
+
+Sin perjuicio de lo previsto en el párrafo anterior, el Pleno a propuesta de la Comisión de Adscripción podrá readscribir a los juzgadores que funjan como Juez Administrador a otro Centro de Justicia Penal Federal, siempre que las necesidades del servicio así lo requieran y haya causa fundada y suficiente para ello.
+
+OCTAVO. Las plazas de Asistente de Constancias y Registro de Juez de Control o Juez de Enjuiciamiento, (que se designen conforme a lo previsto en el Transitorio Tercero de este Acuerdo); Secretaria Particular de Juez de Distrito, y Chofer de funcionario con que actualmente cuenta el Juez que deja de ser Administrador continuarán asignadas a éste en el mismo Centro de Justicia Penal Federal o en aquel al que se readscriba.
+
+NOVENO. Se autoriza habilitar en todos los Centros, el puesto específico de Encargado del Despacho Logístico y Administrativo del Centro de Justicia Penal Federal con que cuenta la plantilla ampliada aprobada para los Centros de Justicia Penal Federal.
+
+DÉCIMO. Las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para la implementación del presente Acuerdo.
+
+DÉCIMO PRIMERO. La Comisión de Administración resolverá sobre las necesidades de personal adicional que deriven de este Acuerdo.
+
+DÉCIMO SEGUNDO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, relativo al orden en que los jueces de Distrito Especializados en el Sistema Penal Acusatorio ejercerán el cargo de administrador en los Centros de Justicia Penal Federal.
+
+DÉCIMO TERCERO. Las referencias que se hagan en cualquier disposición al Juez Administrador del Centro de Justicia Penal Federal se entenderán hechas al Administrador del Centro de Justicia Penal Federal.
+
+DÉCIMO CUARTO. La Visitaduría Judicial deberá presentar al Pleno la propuesta de metodología de inspección a los Centros de Justicia Penal Federal, en términos de lo previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
