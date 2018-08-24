@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2017-12-15"
+last_updated: "2018-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE AGOSTO DE 2018.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -1722,33 +1722,21 @@ Las vigencias de las prórrogas se sujetarán a lo dispuesto en los artículos 5
 
 ### CAPÍTULO IV. DE LA OCUPACIÓN Y DEL VISTO BUENO DE SEGURIDAD Y OPERACIÓN DE LAS CONSTRUCCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 65.
 
-Los propietarios o poseedores están obligados a dar el aviso de terminación de las obras ejecutadas por escrito a la Delegación o la Secretaría de Desarrollo Urbano y Vivienda, según corresponda, en un plazo no mayor de 15 días hábiles, contados a partir de la conclusión de las mismas, a fin de que la autoridad constate que las obras se hayan ejecutado sin contravenir las disposiciones de este Reglamento. El aviso antes referido deberá ser registrado por la autoridad en el carnet del Director Responsable de Obra y del Corresponsable, en su caso.
+Los propietarios o poseedores están obligados a dar el aviso de terminación de las obras ejecutadas por escrito a la Delegación y/o la Secretaría de Desarrollo Urbano y Vivienda, según corresponda, en un plazo no mayor de 15 días hábiles, contados a partir de la conclusión de las mismas, a fin de que la autoridad constate que las obras se hayan ejecutado sin contravenir las disposiciones de este Reglamento. El aviso antes referido deberá ser registrado por la autoridad en la base de datos de Seguimiento de Obras de la Ciudad de México y en el Sistema de Información respectivo, junto con la responsiva del Director Responsable de Obra y de los Corresponsables, en su caso.
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+Se podrá dar aviso de terminación de obra, parcial para ocupación en edificaciones que operen y funcionen independientemente del resto de la obra, las cuales deben garantizar que cuentan con los equipos de seguridad necesarios y que cumplen con los requerimientos de habitabilidad y seguridad establecidos en este Reglamento, cuando estas hayan dado cumplimiento a las condicionantes hidráulicas contenidas en el Dictamen de Factibilidad de Servicios, así como, en el caso de proyectos que requieran de Estudio de Impacto Urbano, cumplir con la totalidad de estudios, proyectos y obras establecidas en las medidas de integración contenidas en el Estudio de Impacto Urbano a las que se refiere el artículo 93 de la Ley, y el cumplimiento de la obligación que establece la fracción III del artículo 64 de la Ley.
 
-Se podrá dar aviso de terminación de obra parcial, para ocupación en edificaciones que operen y funcionen independientemente del resto de la obra, las cuales deben garantizar que cuentan con los equipos de seguridad necesarios y que cumplen con los requerimientos de habitabilidad y seguridad establecidos en este Reglamento.
+En caso de existir diferencia entre la obra ejecutada y los planos registrados, prevista en la fracción II del artículo 70 del presente Reglamento, el propietario, poseedor o representante legal deberán anexar dos copias de los planos que contengan dichas modificaciones, las cuales deberán cumplir con este Reglamento y sus Normas, suscritos por el propietario, poseedor o representante legal, el Director Responsable de Obra o los Corresponsables, en su caso, así como exhibir el pago de los derechos correspondientes por los metros cuadrados de construcción adicional, de acuerdo con el Código Fiscal de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
-
-En caso de existir diferencia entre la obra ejecutada y los planos registrados, prevista en la fracción II del artículo 70 del presente Reglamento, el propietario, poseedor o representante legal deberán anexar dos copias de los planos que contengan dichas modificaciones, las cuales deberán cumplir con este Reglamento y sus Normas, suscritos por el propietario, poseedor o representante legal, el Director Responsable de Obra o los Corresponsables, en su caso, así como exhibir el pago de los derechos correspondientes por los metros cuadrados de construcción adicional, de acuerdo con el Código Fiscal del Distrito Federal.
-
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
-
-En el caso de que los trabajos amparados con licencia de construcción especial en la vía pública contengan modificaciones, el interesado presentará dos copias legibles de los planos y el archivo electrónico de los mismos, este último será remitido a la Agencia por la Administración, en un término no mayor a 10 días hábiles posteriores a la revisión que la autoridad competente realice, así como exhibir el pago de los derechos y aprovechamientos correspondientes por los metros cuadrados de construcción adicional, de acuerdo con el Código Fiscal del Distrito Federal.
-
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+En el caso de que los trabajos amparados con licencia de construcción especial en la vía pública contengan modificaciones, el interesado presentará dos copias legibles de los planos y el archivo electrónico de los mismos, este último será remitido a la Agencia por la Administración, en un término no mayor a 10 días hábiles posteriores a la revisión que la autoridad competente realice, así como exhibir el pago de los derechos y aprovechamientos correspondientes por los metros cuadrados de construcción adicional, de acuerdo con el Código Fiscal de la Ciudad de México.
 
 En el caso de la manifestación de construcción tipo A y la licencia de construcción especial señalada en el artículo 57, fracciones II a VIII, sólo se requiere dar aviso de terminación de obra.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
-
-Para las manifestaciones de construcción tipo B y C, así como en los casos señalados en el artículo 57, fracción I de este Reglamento, la Administración otorgará la autorización de uso y ocupación cuando la construcción se haya apegado a lo manifestado o autorizado, cumpliendo con los requerimientos de habitabilidad y seguridad establecidos en este Reglamento.
-
-> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+Para las manifestaciones de construcción tipo B y C, así como en los casos señalados en el artículo 57, fracción I de este Reglamento, la Administración otorgará la autorización de uso y ocupación cuando la construcción se haya apegado a lo manifestado o autorizado, cumpliendo con los requerimientos de habitabilidad y seguridad establecidos en este Reglamento, y haya cumplido las condicionantes contenidas en el Dictamen de Factibilidad de Servicios Hidráulicos, así como con la totalidad de estudios, proyectos y obras establecidas en las medidas de integración contenidas en el Estudio de Impacto Urbano a las que se refiere el artículo 93 de la Ley, y el cumplimiento de la obligación que establece la fracción III del artículo 64 de la Ley.
 
 Adicionalmente, para las edificaciones que pertenezcan al grupo A o subgrupo B1 o subgrupo B2 inciso a), según el artículo 139 de este Reglamento, se deberá presentar la Constancia de Cumplimiento de la Revisión firmada por el Corresponsable y emitida por el Instituto.
 
@@ -3755,3 +3743,13 @@ SEGUNDO.- El presente decreto entrará en vigor el día de su publicación.
 TERCERO.- Continúan en suspensión, derivado del Acuerdo por el que se integra e instala la Comisión para el estudio y propuestas de reformas al Reglamento de Construcciones para el Distrito Federal, publicado 10 de noviembre 2016, la fracción XV del artículo 2, las fracciones XII y XIII del artículo 35, la fracción V del artículo 39, la fracción I del artículo 40, los artículos 42 y 46 Bis, el inciso j) del artículo 53, los incisos l) y m) del artículo 58, la fracción VI del artículo 82,y los artículos 82 Bis y 124.
 
 CUARTO.- Los Corresponsables en Seguridad Estructural con registro vigente a la fecha de la publicación de las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones serán considerados del Nivel 1 para los efectos de la observancia de las mismas.
+
+G.O. 24 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 65 DEL REGLAMENTO DE CONSTRUCCIONES DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto continuarán su trámite conforme a la norma que aplicaba al inicio del mismo.
