@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-84484"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-16"
-last_updated: "2011-12-30"
+last_updated: "2018-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LOS SUJETOS OBLIGADOS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE TECATE, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 24 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018 (ABROGADO).
 
 > <small>N. DE E. EL 16 DE DICIEMBRE DE 2011 SE PUBLICÓ EN EL PERIÓDICO OFICIAL DEL ESTADO EL TEXTO ORIGINAL DEL PRESENTE ORDENAMIENTO (COMO LO INDICA EL ACTA DE SESIÓN DE CABILDO NÚMERO 41 CELEBRADA EL 29 DE NOVIEMBRE DE 2011). EL 30 DE DICIEMBRE DE 2011, NUEVAMENTE SE PUBLICÓ EL TEXTO ORIGINAL DE ESTE ORDENAMIENTO (MISMA SESIÓN DE CABILDO), CUYO TEXTO DIFIERE DEL PUBLICADO POR PRIMERA VEZ, SIN EMBARGO, NO SE PRECISA QUE SE TRATE DE UNA REFORMA O ERRATA.</small>
 
@@ -746,3 +748,27 @@ Los asuntos que se encuentren en trámite, serán substanciados conforme al proc
 ###### ARTÍCULO QUINTO.
 
 Dentro de los sesenta días naturales posteriores a la publicación del presente Reglamento, el Presidente Municipal por conducto de la Unidad deberá instalar el Comité y la Comisión, de conformidad a las nuevas disposiciones del presente Reglamento.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE CREA EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LOS SUJETOS OBLIGADOS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE TECATE, BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento de Transparencia y Acceso a la Información Pública para el Municipio de Tecate, Baja California, Publicado en el Periódico Oficial No. 60, de fecha 30 de diciembre de 2011.
+
+TERCERO.- Los procedimientos de acceso a la información que se encuentren en trámite a la entrada en vigor de este Reglamento, se sustanciarán conforme a la normatividad que se encontraba vigente en el momento de su inicio.
+
+CUARTO.- La instalación del Comité de Transparencia por primera ocasión, deberá realizarse dentro de los 10 días naturales siguientes a la publicación del presente Reglamento en el Periódico Oficial del Estado, los Comités que ya estuvieren conformados, y que no sean opuestos a lo que se señala en el presente Reglamento, solo deberán formalizar su establecimiento.
+
+QUINTO.- Los sujetos obligados deberán contemplar para los efectos de la Ley de Ingresos del Municipio de Tecate, Baja California, las cuotas o tarifas correspondientes por los servicios de la Unidad de Transparencia.
+
+SEXTO.- Los sujetos obligados deberán expedir a más tardar dentro de los 30 días hábiles siguientes a la publicación del presente Reglamento los manuales para el cumplimiento de las obligaciones en materia de transparencia.
+
+SÉPTIMO.- Hasta en tanto no se publiquen los manuales para el cumplimiento de las obligaciones de transparencia, es obligación de cada Sujeto Obligado publicar la información de acuerdo a la tabla de aplicabilidad que le corresponda.
+
+OCTAVO.- Los sujetos obligados deberán proceder a la verificación de sus respectivas tablas de aplicabilidad, dentro del término de 30 días naturales.
+
+NOVENO.- Para los efectos del cumplimiento de la información en versión pública de la declaración patrimonial, declaración fiscal y declaración de intereses de los servidores públicos, estos se harán en los formatos aplicables para el ejercicio fiscal de 2017, hastas (sic) en tanto el Comité Coordinador del Sistema Estatal Anticorrupción determine cuales serán los lineamientos, criterios y demas resoluciones conducentes para ello.
