@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-de-la-comision-de-derechos-humanos-del-12748
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-04-02"
-last_updated: "2018-04-02"
+last_updated: "2018-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2018.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de abril de 2018.
 
@@ -102,17 +102,35 @@ Cuando la Comisión reciba un escrito de queja que resulte de la competencia de 
 
 ### CAPÍTULO I. Integración
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 15.
 
 Los funcionarios y órganos de la Comisión, de conformidad con el artículo 11 de la Ley entre otros se encuentran los siguientes:
 
-I. El Presidente;
+I. La Presidencia;
 
 II. El Consejo;
 
-III. La Secretaría General; y
+III. La Junta;
 
-IV. La Visitaduría.
+IV. La Secretaría General;
+
+V. La Visitaduría;
+
+VI. La Dirección de Educación en Derechos Humanos;
+
+VII. La Contraloría Interna;
+
+VIII. La Coordinación de Seguimiento, Vinculación y Transparencia;
+
+IX. La Coordinación de Comunicación;
+
+X. La Unidad de Control Documental y Análisis; y
+
+XI. Las demás direcciones, coordinaciones, departamentos, personal técnico o administrativo que sean necesarios para el desarrollo de las actividades de la Comisión, cuyos titulares serán designados por el presidente de acuerdo con sus facultades y atribuciones.
+
+La Integración de la Junta, sus funciones y las de la Dirección de Educación en Derechos Humanos y la Contraloría interna, serán las conferidas en la Ley.
 
 ### CAPÍTULO II. De la Presidencia
 
@@ -258,6 +276,12 @@ I. Supervisar el respeto a los Derechos Humanos en el Sistema Penitenciario del 
 
 II. Recibir y dar trámite a la Petición Extraordinaria de Exhibición de Persona a que se refiere la Ley.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 35 Bis.
+
+Quien sea titular de la Visitaduría General, será titular de la Unidad Investigadora con las facultades y atribuciones previstas para las Unidades Investigadoras en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, y para los procedimientos que realice le será aplicable la citada ley así como en lo que no se oponga a lo dispuesto en dicha Ley, será de aplicación supletoria la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes
+
 ###### Artículo 36.
 
 Los Visitadores Auxiliares y los Profesionales Investigadores de la Comisión serán designados por el Presidente de la Comisión y tendrán las siguientes facultades:
@@ -290,15 +314,105 @@ Para apoyar los trabajos de la Visitaduría General se nombrará a los Visitador
 
 La Comisión contará con el personal de apoyo que requiera para elaborar los proyectos de resolución dentro de las quejas que se tramiten. Tendrán el carácter de "Proyectistas" los funcionarios que reciban ese nombramiento.
 
-### CAPÍTULO ÚNICO. Condiciones Generales de Trabajo
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE AGOSTO DE 2018)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI. De la Coordinación de Seguimiento, Vinculación y Transparencia
 
-### CAPÍTULO II. De las Pruebas
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 38 Bis.
+
+La Comisión contará con una Coordinación de Vinculación, Seguimiento y Transparencia, y su designación corresponderá al Presidente.
+
+Quien sea titular de la Coordinación de Vinculación, Seguimiento y Transparencia deberá contar con Licenciatura en Derecho y de preferencia con experiencia en la materia de derechos humanos.
+
+La Coordinación de Seguimiento y Vinculación y Transparencia, tendrá las siguientes atribuciones:
+
+I. Solicitar y requerir, información y documentación a las diversas autoridades, así como realizar todas las acciones y gestiones necesarias, para dar seguimiento al cumplimiento de las recomendaciones emitidas por la Comisión;
+
+II. Recibir la información y documentación sobre el seguimiento y cumplimiento de las recomendaciones, evaluándolas y determinar el estado de cumplimiento;
+
+III. Proporcionar apoyo y asesoría jurídica necesarios a las unidades administrativas de la Comisión para el ejercicio de sus atribuciones;
+
+IV. Formular las bases y revisar los requisitos legales a que deban someterse los convenios y contratos a celebrar por la Comisión, de acuerdo con los requerimientos de las áreas respectivas, así como los instrumentos jurídicos de cualquier naturaleza relativos a los derechos y obligaciones patrimoniales de la Comisión;
+
+V. Elaborar los estudios, propuestas y proyectos de acciones de inconstitucionalidad para ser sometidos a la aprobación respectiva; en su caso, dar el seguimiento que corresponda a las acciones promovidas ante la Suprema Corte de Justicia de la Nación;
+
+VI. Proponer proyectos normativos que resulten relevantes en relación con los derechos humanos y recomendar mejoras o correcciones a la normatividad;
+
+VII. Verificar que la normatividad estatal existente cumpla con las normas internacionales en materia de derechos humanos;
+
+VIII. Ser el Vínculo con Organizaciones de la Sociedad Civil;
+
+IX. Ser Titular de la Unidad de Transparencia
+
+X. Ser Titular de la Unidad Sustanciadora, con las facultades y atribuciones previstas para las Unidades Sustanciadoras en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, y para los procedimientos que realice le será aplicable la (sic) esta Ley y en lo que no se oponga a lo dispuesto en dicha Ley, será de aplicación supletoria la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
+
+XI. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO VII. De la Coordinación de Comunicación
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 38 Ter.
+
+La Comisión contará con una Coordinación de Comunicación, su titular deberá contar por lo menos con el grado de licenciatura en las disciplinas afines a la comunicación, su designación corresponderá al Presidente y tendrá las siguientes atribuciones:
+
+I. Coordinar y difundir las actividades de la Comisión ante los medios de comunicación;
+
+II. Labores de diseño y producción;
+
+III. Coordinar la producción creativa de campañas publicitarias de la Comisión
+
+IV. Proporcionar atención a los diferentes medios de comunicación
+
+V. Realizar el monitoreo de medios
+
+VI. Las demás que le confieran las disposiciones leglaes, así como aquellas que le asigne el Presidente de la Comisión.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO VIII. De la Unidad de Control Documental y Análisis
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 38 Quater.
+
+La comisión contará con una Unidad de Documentación y Análisis con la misión el resguardar, administrar y preservar los acervos documentales, bibliográfico y hemerográfico con que cuenta la Comisión de Derechos Humanos del Estado de Aguascalientes; generar investigaciones con base en dichos acervos y las herramientas necesarias para darlos a conocer y facilitar el acceso a sus contenidos, así como brindar la asistencia necesaria para atender las consultas que planteen los usuarios, para las diferentes áreas dela (sic) Comisión.
+
+A cargo de esta Unidad, estará un profesional cuyo perfil en la investigación de las presuntas violaciones a los derechos humanos, le permita conocer, para sistematizar, los acervos documentales, por lo que se sugiere, tenga la categoría de presupuestal de proyectista y cuente por lo menos con el grado de licenciatura.
+
+La Unidad de Documentación y Análisis, tendrá las siguientes atribuciones:
+
+I. Coordinar y administrar los archivos, archivos de quejas e históricos y administrativos que integran el patrimonio documental de la Comisión
+
+II. Para su ordenación y conservación física, esto es, su acomodo secuencial en el área de acervo, de acuerdo a su procedencia y orden original, y las medidas para evitar su deterioro y asegurar su permanencia, atenderá a las directrices y a los criterios que emita el Consejo;
+
+III. Proponer y aplicar las normas, directrices, criterios, lineamientos y manuales para la administración, así como el diseño y desarrollo de sistemas automatizados para la gestión documental y archivística;
+
+IV. Elaborar los instrumentos de control y consulta para la adecuada organización y localización expedita de los expedientes o documentos, de apoyo jurídico o de control;
+
+V. Atender las funciones de tutoría conferidas a la Comisión;
+
+VI. Formar parte, por conducto de su titular, del Comité de Acceso a la Información y de Protección de Datos Personales como asesor en materia de archivos.
+
+VII. Realizar trabajos de análisis e investigación jurídica e histórico documental sobre temas relacionados con la Comisión, principalmente con base en los archivos y demás acervos que resguarda, y generar obras para su posterior publicación en formato impreso o electrónico, así como brindar consulta y asesoría en la materia;
+
+VIII. Sistematizar y clasificar las obras especializadas en el área de Derechos Humanos y afines, y una vez efectuada ésta, incorporarlas a los acervos de la biblioteca.
+
+IX. Recopilar y sistematizar la legislación nacional e internacional, los procesos legislativos y dar seguimiento cronológico a las reformas y adiciones que presente el marco jurídico federal, local e internacional, de trascendencia al orden jurídico nacional en materia de derechos humanos;
+
+X. Brindar acceso a información confiable respecto de los acervos que resguarda, de conformidad con los procedimientos de acceso a la información, en términos de las disposiciones aplicables en la materia;
+
+XI. Ser titular de la Unidad de Transparencia encargada de atender las solicitudes para el ejercicio de los derechos ARCO;
+
+XII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Presidente o por el Secretario General.
 
 ## TÍTULO IV. DEL FUNCIONAMIENTO DE LA COMISIÓN
 
-### CAPÍTULO III. De las Resoluciones y las Cumplimentaciones
+### CAPÍTULO ÚNICO. Condiciones Generales de Trabajo
 
 ###### Artículo 39.
 
@@ -376,7 +490,7 @@ Los servidores públicos de la Comisión, que tengan el carácter de trabajadore
 
 ## TÍTULO V. DE LAS ACTUACIONES DE LA COMISIÓN
 
-### CAPÍTULO IV. De la Terminación
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 51.
 
@@ -426,7 +540,7 @@ VI. Realizar las acciones que conforme a derecho juzguen conveniente para el mej
 
 Para efectos de lo que establece la Ley, el Presidente, el Secretario General y el Visitador General de la Comisión, tendrán la facultad de solicitar en cualquier momento a las autoridades que se tomen todas las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones denunciadas o reclamadas, o la producción de daños de difícil reparación a los afectados, así como para solicitar su modificación cuando cambien las situaciones que las justificaron.
 
-### CAPÍTULO V. De las Notificaciones y los Términos
+### CAPÍTULO II. De las Pruebas
 
 ###### Artículo 60.
 
@@ -442,7 +556,7 @@ La Comisión acordará sobre la admisibilidad de las pruebas ofrecidas y sólo p
 
 La Comisión podrá realizar la práctica de cualquier tipo de diligencia para la preparación y desahogo de las pruebas ofrecidas por las partes.
 
-### CAPÍTULO VI. De las Actuaciones Especiales
+### CAPÍTULO III. De las Resoluciones y las Cumplimentaciones
 
 ###### Artículo 61.
 
@@ -456,7 +570,7 @@ La cumplimentación de las recomendaciones emitidas por la Comisión, se exigir�
 
 La cumplimentación de las recomendaciones podrá ser exigida a autoridad diversa a aquella señalada en la resolución respectiva, cuando su cumplimiento le corresponda, previo acuerdo dictado por el Presidente de la Comisión.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. De la Terminación
 
 ###### Artículo 64.
 
@@ -478,7 +592,7 @@ VI. El convenio de las partes, siempre y cuando no sea contrario a la Ley. De lo
 
 La Comisión podrá acordar que los expedientes concluidos de manera definitiva sean dados de baja previa certificación de la microfilmación de los mismos o de su conservación a través de cualquier otro procedimiento técnico- científico que permita su consulta.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. De las Notificaciones y los Términos
 
 ###### Artículo 66.
 
@@ -504,7 +618,7 @@ Los términos comenzarán a correr el día siguiente al en que surta efecto la n
 
 En ningún término se contarán los días en que no puedan tener lugar actuaciones ante la Comisión.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. De las Actuaciones Especiales
 
 ###### Artículo 70.
 
@@ -522,6 +636,8 @@ Cuando lo estime procedente, hará la denuncia correspondiente ante el Ministeri
 
 ## TÍTULO VI. DE LOS RECURSOS DE IMPUGNACIÓN Y DE QUEJA
 
+### CAPÍTULO ÚNICO
+
 ###### Artículo 73.
 
 Los recursos de queja e impugnación previstos en los artículos 81, de la Ley, son los contemplados en la Ley de la Comisión Nacional de los Derechos Humanos, por lo que para su presentación y tramitación se deberá de cumplir con lo establecido en esa Ley.
@@ -530,11 +646,15 @@ Sólo los quejosos podrán presentar recursos de queja o impugnación.
 
 ## TÍTULO VII. DE LOS GASTOS DE REPRESENTACIÓN
 
+### CAPÍTULO ÚNICO
+
 ###### Artículo 74.
 
 El artículo 9° de la Ley de la Comisión establece en sus fracciones XX y XXI, la obligación que tiene este Organismo de establecer y mantener comunicación con las diferentes organizaciones públicas o privadas, nacionales o extranjeras encargadas de la defensa y promoción de los Derechos Humanos; así como la obligación de participar en eventos nacionales e internacionales en materia de Derechos Humanos u otros que se relacionen con sus objetivos, para tal efecto se otorgarán gastos de representación al personal de este Organismo, vigilando que no se malgasten recursos públicos y que por el contrario dichos gastos se ajusten a cumplir adecuadamente con las obligaciones señaladas en la Ley.
 
 ## TÍTULO VIII. DE LOS FINIQUITOS
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 75.
 
@@ -575,3 +695,11 @@ CONSEJERO.
 Dr. José Alfredo Muñoz Delgado,
 
 SECRETARIO TÉCNICO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES".]
+
+Único.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
