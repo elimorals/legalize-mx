@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-76541"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2016-12-29"
+last_updated: "2018-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE AGOSTO DE 2018.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 31 de agosto de 2010.
 
@@ -139,6 +139,10 @@ El Fedatario Público tendrá la disposición, posesión, mando, uso y traslado 
 
 En caso de pérdida, extravío o robo de cualquier instrumento notarial, el Fedatario Público deberá dar aviso de inmediato al titular del Poder Ejecutivo del Estado, al Consejo de Notarios y dar parte al Ministerio Público.
 
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+Los notarios también podrán designar hasta tres personas para que realicen trámites ante las diversas oficinas del Instituto de Seguridad Jurídica Patrimonial de Yucatán, las cuales deberán registrarse ante el Consejo de Notarios y la Dirección del Archivo Notarial.
+
 ###### Artículo 10.
 
 Únicamente los notarios públicos del Estado podrán actuar como tales en la Entidad, aunque en los actos que sean otorgados ante su fe pública se refieran a bienes o actos que se encuentren o tengan efectos fuera del Estado o a materias de cualquier naturaleza.
@@ -168,6 +172,16 @@ Los fedatarios públicos, en el desempeño de sus funciones, son auxiliares de l
 Es obligación de los fedatarios públicos y del personal a su servicio, guardar absoluta reserva para con las personas que no tengan injerencia en el otorgamiento, dirección o revisión del acto o convenio en que intervengan; pero tratándose de actos que deban consignarse en los instrumentos notariales, y ya suscritos por las partes en el acta respectiva, éstos podrán ser vistos por cualquier persona que demuestre interés jurídico, previa solicitud por escrito, con excepción de los testamentos, que permanecerán en el secreto de la notaría pública mientras viva el testador.
 
 La solicitud a que se refiere el párrafo anterior deberá contener, cuando menos, domicilio y firma del solicitante, el acto jurídico contenido en el acta y acreditar su interés jurídico.
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 14 Bis.
+
+Los notarios y escribanos públicos deberán presentar al Consejo de Notarios del Estado un informe semestral, que incluya los datos que para el índice se refiere el artículo 86 de esta ley.
+
+Este informe podrá ser presentado en los primeros 15 días de los meses de enero y junio respecto de los seis meses inmediatos anteriores y podrá ser presentado en forma mecánica o mediante cualquier otro sistema electrónico o informático.
+
+El consejo de notarios no deberá autorizar los protocolos del notario público que tenga al momento de solicitar dicha autorización, dos o más de los informes atrasados.
 
 ### CAPÍTULO II. Del Aspirante a Notario Público
 
@@ -211,15 +225,21 @@ Para la acreditación de las prácticas notariales, el interesado exhibirá cons
 
 El Consejo de Notarios tendrá la facultad de verificar que efectivamente se realicen las prácticas notariales que se mencionan en este artículo.
 
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 18.
 
 La solicitud del examen a que se refiere el artículo 15 de esta ley deberá ser presentada antes de que transcurran dos años de la fecha de expedición de la constancia de terminación de las prácticas notariales, salvo que dichas prácticas se realicen dentro del plazo de cinco años establecido en la fracción II del artículo 16, caso en el que deberá solicitarse una vez cumplido dicho requisito.
 
-En caso de haber transcurrido los plazos que establece el párrafo que antecede, el interesado deberá realizar otras prácticas notariales en los términos de los artículos 16 fracción VII y 17 de esta Ley.
+El curso de ética y práctica notarial deberá tomarse después de la expedición de la constancia de terminación de las prácticas notariales y aprobarse dentro de los dos años anteriores a la presentación del examen de aspirante a notario.
+
+En caso de haber transcurrido los plazos previstos en este artículo, el interesado deberá realizar otras prácticas notariales o aprobar un nuevo curso de ética y práctica notarial, según sea el caso, en los términos establecidos en los artículos 16, fracciones V y VII, y 17 de esta Ley.
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 19.
 
-El Consejo de Notarios dentro de los sesenta días naturales siguientes a la fecha de la sesión en que se hubiere tomado el acuerdo favorable a la solicitud del examen, a que se refiere el artículo 15 de esta ley, fijará lugar, día y hora para aplicarlo; lo que notificará al titular del Poder Ejecutivo y al Tribunal Superior de Justicia ambos del Estado, para los efectos conducentes.
+El Consejo de Notarios dentro de los noventa días naturales siguientes a la fecha de la sesión en que se hubiere tomado el acuerdo favorable a la solicitud del examen, a que se refiere el artículo 15 de esta Ley, fijará lugar, día y hora para aplicarlo; lo que notificará al titular del Poder Ejecutivo, y al Tribunal Superior de Justicia, ambos del Estado, para los efectos conducentes.
 
 #### Sección Segunda. De la Integración del Sínodo
 
@@ -235,9 +255,13 @@ III.- El tercero por el Consejo de Notarios, quien fungirá como Secretario.
 
 El titular del Poder Ejecutivo del Estado y el Pleno del Tribunal Superior de Justicia deberán nombrar al sinodal que les corresponda dentro de los cinco días hábiles siguientes de haber sido notificados por el Consejo de Notarios y harán del conocimiento de este último dentro de los tres días hábiles posteriores, a fin de que el propio Consejo esté en aptitud de notificarle al aspirante a Notario Público la integración del sínodo.
 
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 21.
 
-No podrán formar parte del sínodo el cónyuge y los parientes consanguíneos, afines o civiles del sustentante, en línea recta sin limitación de grado y dentro del tercer grado de parentesco en línea colateral, o los notarios públicos con los que el sustentante haya realizado o continuado sus prácticas notariales, ni con los que hubiere tenido relación laboral, ni aquellos de los que sea o haya sido socio. Si alguno de los designados para integrar el sínodo tuviere alguno de los impedimentos señalados, deberá excusarse de intervenir en el examen.
+No podrán formar parte del sínodo el cónyuge y los parientes consanguíneos, afines o civiles del sustentante, en línea recta sin limitación de grado y en línea colateral dentro del tercer grado de parentesco; ni los notarios públicos con los que el sustentante haya realizado o continuado sus prácticas notariales, con los que haya tenido relación laboral o que lo hayan asesorado para presentar su examen de aspirante a notario; ni aquellos que sean o hayan sido sus socios.
+
+Si alguno de los designados para integrar el sínodo tuviere alguno de los impedimentos señalados, deberá excusarse de intervenir en el examen.
 
 ###### Artículo 22.
 
@@ -305,9 +329,11 @@ En caso de calificación aprobatoria, el Consejo de Notarios comunicará el resu
 
 La patente de aspirante a Notario Público será registrada en el Consejo de Notarios y publicada sin costo alguno en el Diario Oficial del Gobierno del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 38.
 
-La patente de aspirante a Notario Público será revocada en caso de dejar de reunirse alguno de los requisitos señalados en el artículo 16 de esta Ley.
+La patente de aspirante a notario público será revocada en caso de dejar de reunirse alguno de los requisitos señalados en el artículo 16 de esta Ley o cuando esta sea impuesta como sanción, conforme a lo dispuesto en el artículo 148.
 
 #### Sección Cuarta. Del Proceso para cubrir una Notaría Pública vacante
 
@@ -372,6 +398,10 @@ Una vez obtenida la patente y previo al inicio de sus funciones, el Notario Púb
 ###### Artículo 44.
 
 El Consejo de Notarios desarrollará un esquema de actualización permanente necesaria para mantener la vigencia de la patente de aspirante a Notario de conformidad a lo dispuesto en el reglamento de esta ley.
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+Los escribanos públicos deberán participar en el esquema de actualización permanente, a efecto de poder continuar en el desempeño de sus funciones y mantener la vigencia de la patente.
 
 ### CAPÍTULO III. Del Ejercicio de la Función Notarial
 
@@ -501,11 +531,13 @@ La firma autógrafa o electrónica acreditada y el sello, son los medios que el 
 
 ### CAPÍTULO V. De las Ausencias y Licencias de los Notarios Públicos
 
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 #### Sección Primera. Del Protocolo Abierto
 
 ###### Artículo 59.
 
-Los notarios públicos que inicien en el ejercicio de sus funciones gozarán de un plazo de cuarenta y cinco días naturales para celebrar uno o más convenios de suplencia con otros notarios públicos en funciones.
+Los notarios públicos que inicien en el ejercicio de sus funciones gozarán de un plazo de cuarenta y cinco días naturales para celebrar uno o más convenios de suplencia con otros notarios públicos en funciones. En ningún caso un notario público podrá tener convenios de suplencia vigentes con más de tres notarios públicos a la vez.
 
 ###### Artículo 60.
 
@@ -523,45 +555,71 @@ Los notarios públicos podrán, sin necesidad de obtener licencia, separarse del
 
 Tratándose de las ausencias temporales a que se refiere este artículo, el Notario Público será suplido por aquel Notario que haya sido designado en el convenio a que se refieren los artículos 59 y 60 de esta ley.
 
-> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 63.
 
-Los notarios públicos tienen derecho a solicitar, y obtener del Poder Ejecutivo del Estado, licencia para estar separados de su cargo por un término que abarque más de cuarenta y cinco días y hasta un año. En este caso el Notario Público será suplido por un aspirante a Notario que cuente con la patente respectiva vigente; éste será nombrado por el mismo notario titular y será responsable personal de los actos en que intervenga en el ejercicio de la suplencia.
+Los notarios Públicos tienen derecho a solicitar y obtener del Poder Ejecutivo del estado, licencia para estar separados de su cargo por un término que abarque más de cuarenta y cinco días y hasta un año. En este caso el notario público será suplido por alguno de los notarios con los que haya celebrado el convenio de suplencia que menciona el artículo 59 de esta Ley o por un aspirante a notario que cuente con la patente respectiva vigente, elegido por el mismo notario titular, quien será responsable solidario respecto del cumplimiento y conclusión de los actos jurídicos pasados ante el notario suplente. El notario suplente será responsable de las infracciones a la ley en el ejercicio de su función.
 
 Los notarios públicos podrán renunciar en cualquier momento a las licencias obtenidas en términos del párrafo anterior.
 
-> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+En ningún caso, se podrá otorgar licencia cuando, en los cinco años anteriores, el notario solicitante haya obtenido licencias que, en su conjunto, equivalgan a un periodo igual o mayor a tres años, salvo que se trate de lo previsto en el artículo 64 de esta ley.
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 64.
 
-En caso de que un Notario Público acepte ocupar, o sea electo para desempeñar un cargo o empleo público, deberá solicitar y obtener del Poder Ejecutivo del Estado, la licencia para separarse de su función notarial por todo el tiempo que dure su encargo. En este caso será suplido por un aspirante a Notario Público que será nombrado por el Notario Público que obtenga licencia. El Notario Público suplente estará en funciones mientras dure el cargo o empleo público del Notario Público suplido y responderá personalmente de los actos en que intervenga.
+En caso de que un notario público acepte ocupar, o sea electo para desempeñar un cargo o empleo público, o bien que padezca una enfermedad, que le impida temporalmente desempeñar su función como notario, deberá solicitar y obtener del Poder Ejecutivo del estado, la licencia para separarse de su función notarial por todo el tiempo que dure esta circunstancia. En este caso será suplido por uno de los notarios públicos con los que haya celebrado el convenio de suplencia o por un aspirante a notario, que será elegido por el notario público que obtenga licencia y será responsable solidario respecto del cumplimiento y conclusión de los actos jurídicos pasados ante el notario suplente. El notario público suplente estará en funciones mientras dure el cargo o empleo público del notario público suplido, o la enfermedad correspondiente y será responsable de las infracciones a la ley en el ejercicio de su función respecto de los actos en que intervenga.
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 65.
 
-En los casos de separación de los notarios públicos de sus funciones por suspensión por responsabilidad o incapacidad grave, el Poder Ejecutivo del Estado al ordenar ésta, a propuesta del Consejo de Notarios, designará al Notario Público que se haga cargo interinamente de la notaría pública de que se trate, para terminar con los negocios que haya iniciado el Notario Público suspendido.
+En los casos de separación de los notarios públicos de sus funciones por suspensión por responsabilidad o en los casos de incapacidad temporal que por sus circunstancias el notario no esté en condiciones de elegir a su suplente, el notario público será suplido por el notario con el que haya celebrado un convenio de suplencia, en caso de que cuente con más de un convenio vigente, lo suplirá el notario público en funciones con el que haya celebrado el convenio más antiguo y, en caso de imposibilidad, el Consejo de Notarios designará al notario público que se hará cargo interinamente de la notaría pública de que se trate, para terminar con los negocios que haya iniciado el notario público que se encuentre en los supuestos de este artículo.
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 66.
 
-En los casos previstos en este capítulo el Notario Público o el aspirante a Notario que ejerza la función notarial en suplencia, tendrá todas las atribuciones y funciones del Notario Público a quien suple cuando ejercite la función notarial de conformidad a lo dispuesto por esta Ley. No podrá suplir a más de un Notario Público al mismo tiempo.
+En los casos previstos en este capítulo, el notario público o el aspirante a notario público que ejerza la función notarial en suplencia, tendrá todas las atribuciones y funciones del notario público a quien suple cuando ejercite la función notarial de conformidad con lo dispuesto por esta ley. No se podrá suplir a más de un notario público al mismo tiempo.
+
+De igual forma, el notario suplente podrá, en relación con los instrumentos en trámite del notario público suplido, autorizarlos y expedir testimonios, así como realizar todos los trámites y pagos para llenar todos los requisitos previos o posteriores a su autorización, y, en general, hacer cuanto pudiera efectuar el notario suplido.
+
+El notario suplente deberá, a solicitud del notario suplido, incluso en un plazo de sesenta días naturales posteriores a la fecha de terminación de su suplencia, concluir todos los asuntos en trámite que haya iniciado, por lo que deberá autorizar las escrituras otorgadas ante él en el ejercicio de su suplencia y expedir los testimonios, en relación con las escrituras otorgadas ante él en el ejercicio de su suplencia, así como realizar todos los trámites y pagos para llenar todos los requisitos previos o posteriores a su autorización y, en general, hacer cuanto pudiera efectuar el notario suplido. Hasta en tanto el notario suplente no concluya los asuntos en trámite, no se le otorgará una nueva patente para el desempeño de otra suplencia.
+
+El plazo señalado en el párrafo anterior servirá únicamente para realizar todos aquellos trámites y diligencias que tengan por objeto la terminación de trámites notariales que no hayan concluido durante el ejercicio de la suplencia.
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 66 Bis.
+
+El notario público deberá reanudar sus funciones inmediatamente después de que concluya el plazo de su ausencia temporal, a que se refiere el artículo 62; licencia, previsto en los artículos 63 y 64; o suspensión, conforme al artículo 65.
+
+De existir causa justificada para no presentarse a reanudar sus funciones transcurridos los términos que prevé este capítulo, el Notario Público deberá comunicarlo, adjuntando la documentación que acredite la justificación, al Consejo de Notarios y al Poder Ejecutivo del Estado, a fin de evitar la sanción que corresponda.
 
 #### Sección Segunda. Del Protocolo Electrónico
 
 ### CAPÍTULO VI. De la Suspensión y Terminación de la Función Notarial
 
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 67.
 
-Son causas de suspensión del ejercicio de las funciones de un Notario Público, las siguientes:
+Son causas de suspensión del ejercicio de las funciones de un notario público, las siguientes:
 
-I.- Dictarse en su contra auto de formal prisión por delitos dolosos en términos de la legislación penal, hasta que cause ejecutoria la sentencia absolutoria, se le otorgue perdón, o se deje sin efecto legal el auto de formal prisión;
+I.- Dictarse en su contra auto de vinculación a proceso y habérsele impuesto medida cautelar consistente en prisión preventiva, en términos de la legislación penal, hasta que se revoque esta medida o auto de vinculación a proceso, con o sin medida cautelar de prisión preventiva, por delitos derivados del ejercicio de su función notarial;
 
-II.- Padecer enfermedad que lo imposibilite en forma transitoria para ejercer la función notarial, en este caso, la suspensión durará todo el tiempo que subsista el impedimento, siendo aplicable lo previsto en el artículo 62 de esta ley, y
+II.- Padecer enfermedad que lo imposibilite en forma transitoria para ejercer la función notarial, en este caso, la suspensión durará todo el tiempo que subsista el impedimento, siendo aplicable lo previsto en los artículos 64 y 65 de esta ley, y
 
-III.- Hacerse acreedor de la suspensión por haber incurrido en faltas, previstas en la legislación aplicable.
+III. Hacerse acreedor de la suspensión por haber incurrido en faltas, previstas en la legislación aplicable.
 
-Cuando el Poder Ejecutivo del Estado o el Consejo de Notarios tenga conocimiento de que un Notario Público está imposibilitado para ejercer sus funciones, se hará la comunicación respectiva para que el Poder Ejecutivo designe en un plazo de quince días hábiles, dos médicos legalmente autorizados para ejercer su profesión, para que dictaminen dentro de un plazo de tres días hábiles, acerca de la naturaleza del padecimiento y si éste lo imposibilita para actuar como Fedatario Público, pudiendo el interesado ofrecer un dictamen médico que acredite su capacidad física y mental para ejercer la función notarial, dentro del mismo plazo a partir de que sea notificado.
+Para efectos de lo dispuesto en la fracción II de este artículo, a solicitud de algún quejoso que acredite su interés jurídico, el Consejo de Notarios, podrá realizar visitas para verificar la capacidad física o mental de los notarios en funciones, y, en caso de encontrar evidencia de alguna condición que pudiera generar imposibilidad temporal o definitiva del ejercicio de la función, lo comunicará al Poder Ejecutivo para los efectos a que se refiere el siguiente párrafo.
 
-Los dictámenes médicos serán enviados al Poder Ejecutivo del Estado quien a su vez le dará aviso al Consejo de Notarios, y en caso de resultar imposibilitado para actuar como Fedatario Público, se sujetará al procedimiento estipulado en esta ley.
+Sin perjuicio de lo dispuesto en el párrafo anterior, cuando el Poder Ejecutivo del estado o el Consejo de Notarios tenga conocimiento de que un notario público está imposibilitado para ejercer sus funciones, se hará la comunicación respectiva para que el Poder Ejecutivo designe, en un plazo de quince días hábiles, dos médicos legalmente autorizados para ejercer su profesión, preferentemente de los servicios de salud, para que practiquen el examen correspondiente y dictaminen, dentro de un plazo de tres días hábiles, acerca de la naturaleza del padecimiento y si este lo imposibilita para actuar como fedatario público. El notario público interesado podrá ofrecer un dictamen médico que acredite su capacidad física y mental para ejercer la función notarial, dentro del mismo plazo a partir de que sea notificado.
+
+El Poder Ejecutivo podrá aplicar los medios de apremio previstos en el artículo 138 bis, en caso de que el notario público se niegue u obstaculice la elaboración del dictamen médico a que hace referencia este artículo.
+
+Los dictámenes médicos serán enviados al Poder Ejecutivo del estado quien a su vez le dará aviso al Consejo de Notarios, y en caso de resultar imposibilitado físicamente para actuar como fedatario público, se impondrá la suspensión o la revocación de la patente, en términos de esta ley. Sin embargo, en caso de que el dictamen determine la incapacidad mental, la patente del fedatario público será suspendida, en términos de la fracción II de este artículo, hasta en tanto se dicte la sentencia ejecutoria de interdicción, en cuyo caso le será revocada la patente.
 
 ###### Artículo 68.
 
@@ -577,23 +635,13 @@ II.- Por renuncia expresa, y
 
 III.- Revocación.
 
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 70.
 
-La patente de un Notario Público, será revocada cuando:
+La patente de un notario público será revocada por resolución del Ejecutivo derivada de una sentencia ejecutoria de interdicción contra el notario público, que lo haga no apto para el desempeño de la función notarial.
 
-I.- Transcurrido el término de la licencia que se le hubiere concedido, no se presente sin causa justificada dentro de los tres días hábiles siguientes a reanudar sus labores. Para efectos de ésta fracción y del artículo 68, quedará vacante la Notaría Pública.
-
-De existir causa justificada para no presentarse a reanudar sus funciones, el Notario Público deberá comunicarlo, adjuntando la documentación que acredite la justificación, al Consejo de Notarios y al Poder Ejecutivo del Estado.
-
-II.- Por dejar de actuar en su protocolo durante más de dos meses consecutivos en el año, sin previa licencia, salvo que ello fuere por causas ajenas a su voluntad;
-
-III.- Por no desempeñar personalmente sus funciones, de acuerdo con la ley;
-
-IV.- Por resolución dictada por el Poder Ejecutivo del Estado en los términos y condiciones establecidos en esta ley;
-
-V.- Por imposibilidad permanente del Notario Público, sea por enfermedad incurable o senilidad, que lo hagan no apto para el desempeño de la función notarial, y
-
-VI.- Por no conservar vigente la garantía que responda de su actuación.
+La revocación también procederá a petición del propio notario público derivado de su edad avanzada o enfermedad; o cuando esta sea impuesta como sanción, conforme a lo dispuesto en el artículo 148.
 
 En caso de que sea revocada la patente de un Notario Público, tendrán derecho de audiencia el Consejo de Notarios y el interesado, ante el Poder Ejecutivo del Estado.
 
@@ -605,9 +653,11 @@ La declaración de revocación de la Patente de Notario Público la realizará e
 
 El Oficial del Registro Civil que levante el acta de defunción de un Notario Público, lo deberá comunicar inmediatamente al titular del Poder Ejecutivo del Estado, a la Dirección de Archivo Notarial y al Consejo de Notarios.
 
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 73.
 
-En caso de que alguna autoridad judicial declare mediante sentencia ejecutoriada la interdicción de algún Notario Público que se encuentre en ejercicio de sus funciones, deberá notificarlo al Consejo de Notarios y al Poder Ejecutivo del Estado, quien a su vez publicará en el Diario Oficial del Gobierno del Estado la suspensión a que se refiere la fracción II del artículo 67 de esta ley.
+En caso de que alguna autoridad judicial dictare medidas provisionales en un procedimiento de interdicción contra algún fedatario público que se encuentre en ejercicio de sus funciones o dicte un auto de vinculación a proceso con medida cautelar de prisión preventiva, deberá notificarlo al Consejo de Notarios y al Poder Ejecutivo del Estado, quien a su vez publicará en el Diario Oficial del Gobierno del Estado la suspensión a que se refiere la fracción II o la fracción I del artículo 67 de esta ley, según corresponda.
 
 ###### Artículo 74.
 
@@ -957,11 +1007,19 @@ VIII.- Implementar cursos de capacitación, ética y práctica notarial a los as
 
 IX.- Resolver las consultas que le presenten por escrito los fedatarios públicos en ejercicio de sus funciones;
 
-X.- Llevar a cabo en un plazo no mayor de sesenta días naturales, una etapa de conciliación respecto de los procedimientos entablados en contra de los fedatarios públicos;
+> <small>(REFORMADA, D.O. 27 DE AGOSTO DE 2018)</small>
 
-XI.- Emitir opinión fundada respecto de los procedimientos entablados en contra de los fedatarios públicos, y
+X.- Llevar a cabo en un plazo no mayor de treinta días naturales, una etapa de conciliación respecto de los procedimientos entablados en contra de los fedatarios públicos;
 
-XII.- Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, D.O. 27 DE AGOSTO DE 2018)</small>
+
+XI.- Emitir dictamen respecto de los procedimientos entablados en contra de los fedatarios públicos, acerca de los hechos investigados, exponiendo, con base en las diligencias, las constancias y los fundamentos jurídicos, la existencia o no de una presunta responsabilidad del fedatario público;
+
+> <small>(ADICIONADA, D.O. 27 DE AGOSTO DE 2018)</small>
+
+XII.- Informar al Poder Ejecutivo respecto al cumplimiento de los notarios públicos de la obligación de contratar un seguro de responsabilidad civil profesional, o el medio de garantía que utilicen para garantizar las responsabilidades en que pudieren incurrir, en términos del artículo 55, y
+
+XIII.- Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 118.
 
@@ -971,11 +1029,15 @@ El Presidente del Consejo de Notarios será sustituido en caso de impedimento o 
 
 ### CAPÍTULO XIV. Del Ejercicio de las Funciones de los Escribanos Públicos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 119.
 
 Los escribanos públicos serán nombrados por el Poder Ejecutivo del Estado y durarán en el ejercicio de sus funciones seis años.
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+Los escribanos públicos podrán ser ratificados en sus funciones al concluir su nombramiento, siempre y cuando acrediten haber participado en el esquema de actualización permanente a que se refiere el artículo 44 de esta Ley.
 
 Los nombramientos para escribanos públicos se realizarán durante el mes de diciembre del año que corresponda, y entrarán en funciones el día primero de enero del año siguiente a la designación.
 
@@ -1027,17 +1089,29 @@ El Reglamento de esta Ley, deberá establecer lo relativo a las ausencias y lice
 
 ###### Artículo 124.
 
-Los escribanos públicos gozarán de fe pública únicamente para dar autenticidad a cualquiera de los actos o hechos jurídicos cuya cuantía o interés no exceda mil doscientas unidades de medida y actualización, siempre y cuando así lo prevengan las leyes.
+Los escribanos públicos gozarán de fe pública únicamente para dar autenticidad a cualquiera de los actos o hechos jurídicos cuya cuantía o interés no exceda dos mil unidades de medida y actualización, siempre y cuando así lo prevengan las leyes.
 
 Para los efectos de este artículo, en las operaciones traslativas de dominio se tomará en cuenta el valor consignado en el avalúo correspondiente y el valor consignado en la cédula catastral vigente, en cualquier otro caso.
 
-Los escribanos públicos sólo podrán realizar operaciones respecto de los inmuebles ubicados en los municipios del departamento judicial al que correspondan, siempre que en dichos municipios no existiere algún Fedatario Público en ejercicio de sus funciones, a excepción del municipio de Mérida, en el cual no podrán actuar.
+Los escribanos públicos solo podrán realizar operaciones respecto de los inmuebles ubicados en los municipios del departamento judicial al que correspondan, siempre que el Escribano Público no exceda de su cuantía o interés establecidos en esta Ley. Con excepción del Municipio de Mérida, en donde únicamente tendrán competencia los escribanos nombrados para ejercer en dicha localidad
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 125.
 
 Los escribanos públicos autorizarán con su firma y con su sello los documentos que sean firmados ante ellos por los comparecientes, en los términos establecidos en esta ley.
 
-Podrán certificar los documentos y copias que deban obrar en el apéndice de las actas que autoricen, quedándoles estrictamente prohibido efectuar fe pública de hechos o actos distintos a los actos expresamente autorizados en esta ley.
+Podrán certificar los documentos y copias que deban obrar en el apéndice de las actas que autoricen.
+
+Los Escribanos Públicos podrán certificar firmas o dar fe pública de su ratificación, cotejar con sus originales las copias o reproducciones de documentos en medios impresos que les sean exhibidos, expidiendo las certificaciones correspondientes, pero únicamente cuando dichas certificaciones y ratificaciones sean o formen parte de los apéndices, actas, escrituras públicas o testimonios que autoricen. En caso de ser varias las hojas que integren un mismo documento, se hará constar su número en la certificación.
+
+Lo establecido en este artículo, se realizará tomando en cuenta el Escribano Público la cuantía o interés establecidos en esta Ley.
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 125 Bis.
+
+Los escribanos públicos podrán realizar constancias de hechos dentro del municipio que corresponda su nombramiento, siempre y cuando no intervenga cuantía y lo permita la Ley.
 
 ###### Artículo 126.
 
@@ -1049,7 +1123,9 @@ Si no cumpliere con esta obligación será requerido por escrito para que cumpla
 
 El ejemplar a que se refiere el artículo anterior será conservado en la Dirección del Archivo Notarial y servirá de base en caso de discusión acerca de los contratos que contenga, para dirimir los derechos controvertidos.
 
-### CAPÍTULO XVI. De las Quejas
+### CAPÍTULO XV BIS. De los Medios de Apremio
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 128.
 
@@ -1059,9 +1135,11 @@ Se practicará a cada notaría o escribanía pública, una visita ordinaria por 
 
 El Poder Ejecutivo del Estado, nombrará al visitador que deba efectuarlas. La visita ordinaria tendrán por objeto cerciorarse de que las notarías o escribanías públicas funcionen con regularidad y que los fedatarios públicos ajusten sus actos a las disposiciones de la presente ley. La visita especial tendrá por objeto el asunto que la hubiere originado.
 
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 130.
 
-El Poder Ejecutivo del Estado, a través de la Consejería Jurídica, ordenará la visita especial a una notaría o escribanía pública cuando tenga conocimiento mediante queja presentada, de que un Fedatario Público ha incumplido en el ejercicio de sus funciones notariales.
+El Titular del Poder Ejecutivo del Estado, a través de la Consejería Jurídica, ordenará la visita especial a una notaría o escribanía pública cuando tenga conocimiento mediante queja presentada o cualquier otra vía jurídica, de que un Fedatario Público ha incumplido en el ejercicio de sus funciones notariales.
 
 ###### Artículo 131.
 
@@ -1095,9 +1173,133 @@ En el acta hará constar el visitador las irregularidades que observe, y señala
 
 Cuando como resultado de la visita a que se refieren los artículos anteriores, se presuma la comisión de algún delito por parte de algún Fedatario Público, se dará parte a la autoridad competente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 27 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO XVI. De las Responsabilidades de los Fedatarios Públicos
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 138 Bis.
+
+El Poder Ejecutivo para hacer cumplir sus determinaciones o las del Consejo de Notarios, por conducto de la Consejería Jurídica, hará uso de los medios de apremio siguientes:
+
+I.- Apercibimiento;
+
+II.- Multa de cincuenta a doscientas unidades de medida y actualización;
+
+III.- Auxilio de la fuerza pública, y
+
+IV.- Los demás que establezcan otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 138 Ter.
+
+Las multas a las que se refiere esta ley se fijarán en cantidad líquida, tendrán el carácter de crédito fiscal y se harán efectivas conforme al procedimiento administrativo de ejecución, en términos de la legislación aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 27 DE AGOSTO DE 2018)</small>
+
 ### CAPÍTULO XVII. De las Sanciones
 
-Artículo 148 (sic).- El fedatario público incurrirá en responsabilidad cuando incumpla con lo dispuesto en esta ley y se le impondrá las siguientes sanciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 139.
+
+Corresponde al Consejo de Notarios substanciar los procedimientos previstos en este capítulo derivados de las quejas o visitas de inspección de las que se desprendan hechos que puedan constituir alguna responsabilidad de las previstas en esta Ley, considerando los derechos de los notarios públicos conforme a un debido procedimiento. El Titular del Ejecutivo, a través de la Consejería Jurídica tendrá a su cargo la imposición de las sanciones derivadas del dictamen que para tal efecto emita el Consejo de Notarios.
+
+El procedimiento y las sanciones previstas en este Capítulo también resultarán aplicables cuando se trate de notarios públicos suplentes por convenio, en términos del artículo 59 de esta ley o de aspirantes en funciones de notario público.
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 140.
+
+Cualquier persona podrá presentar queja ante el Poder Ejecutivo del Estado o ante el Consejo de Notarios, por incumplimiento de los términos y condiciones del ejercicio de la función notarial establecidos en esta ley.
+
+Si la queja es presentada ante el Poder Ejecutivo, este la turnará al Consejo de Notarios para que inicie el procedimiento respectivo.
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 141.
+
+El escrito de la queja deberá contener:
+
+I.- El nombre y domicilio del quejoso para recibir notificaciones;
+
+II.- El acto realizado por el Fedatario Público del que se deriva la queja;
+
+III.- El nombre y número del Fedatario Público que realizó las actuaciones que originan la queja;
+
+IV.- Los hechos que le consten al quejoso relativos al acto o actos que aduce son irregulares, bajo protesta de decir verdad;
+
+V.- Las escrituras, actas, testamentos o constancias que se encuentren relacionadas con los hechos, y
+
+VI.- El nombre y domicilio del tercero interesado, cuando lo haya y los conozca.
+
+En cada escrito de queja solo podrá aparecer un quejoso, salvo en los casos que se trate de la impugnación de resoluciones conexas, o que se afecten los intereses jurídicos de dos o más personas, que podrán promover la queja contra la función notarial en un solo escrito.
+
+Si se omiten los datos previstos en alguna de las fracciones de este artículo, el Consejo de Notarios requerirá al quejoso para que los subsane dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo y forma se tendrá por no presentada la queja.
+
+El Consejo de Notarios podrá no admitir una queja cuando de la simple lectura de los hechos descritos se haga evidente y notorio que no existe infracción alguna a la ley.
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 142.
+
+El Consejo de Notarios, dentro de los cinco días hábiles siguientes a la fecha de inicio de la investigación, informará al fedatario público sobre el motivo de esta y le dará un término de diez días hábiles para que manifieste lo que a su derecho convenga, así como para presentar las pruebas que estime pertinentes.
+
+De considerarlo necesario, el Consejo de Notarios le solicitará al Poder Ejecutivo la realización de las visitas especiales que correspondan a fin de obtener mayores elementos que permitan obtener evidencias y corroborar los hechos motivo de la investigación.
+
+El Consejo de Notarios podrá requerir a cualquier dependencia o entidad involucrada la información adicional que requiera, siempre y cuando se encuentre dentro de las funciones de la dependencia o entidad y tenga una relación con el caso concreto, así como recabar pruebas y realizar diligencias.
+
+La investigación a que se refieren los párrafos anteriores deberá realizarse en un plazo máximo de un mes, contado a partir de la fecha de solicitud del informe al fedatario público. El Consejo de Notarios concluirá su investigación con la realización de un dictamen acerca de los hechos investigados, en el que expondrá, con base en las diligencias, las constancias y los fundamentos jurídicos, la existencia o no de una presunta responsabilidad del fedatario público. El Consejo de Notarios remitirá el dictamen, junto con el expediente formado del caso, a la Consejería Jurídica del Poder Ejecutivo del Estado, la cual podrá acordar la práctica de las pruebas o diligencias que estime necesarias, para mejor proveer.
+
+La Consejería Jurídica resolverá, en un plazo de un mes, sobre la procedencia de la sanción y determinará aquellas que, en su caso, le sean aplicables al fedatario público, de conformidad con lo estipulado en el capítulo siguiente de esta ley.
+
+Cuando se trate de casos que a juicio del Consejo de Notarios sean susceptibles de resolverse mediante conciliación, hasta antes de la elaboración del dictamen, el Consejo de Notarios lo notificará al fedatario público y citará a las partes para que comparezcan a una audiencia que deberá celebrarse dentro de los quince días naturales siguientes.
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 143.
+
+En la audiencia, el Consejo de Notarios tomando en cuenta los hechos manifestados en la queja y los argumentos que haya expresado el fedatario público, determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses, conforme a las disposiciones de esta ley, sin prejuzgar sobre el conflicto planteado.
+
+En la audiencia las partes deberán procurar la realización de acciones que promuevan la ejecución total de los trabajos, la prestación de los servicios y la completa resolución de las controversias, a través de los convenios que entre ellas acuerden.
+
+En caso de que sea necesario, la audiencia se podrá realizar en varias sesiones. Para ello, el Consejo de Notarios señalará los días y horas para que tengan verificativo. El procedimiento de audiencia deberá agotarse en un plazo no mayor de treinta días hábiles, contado a partir de la fecha en que se haya celebrado la primera sesión, salvo que las partes acuerden un plazo mayor, por causas debidamente justificadas.
+
+De toda diligencia deberá levantarse acta circunstanciada, en la que consten los resultados de las actuaciones.
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 144.
+
+La asistencia a la audiencia será obligatoria para ambas partes, por lo que la inasistencia por la parte afectada traerá como consecuencia el tenerlo por desistido de su acción. En caso de que el fedatario público no asista a la audiencia, sin causa justificada, el Consejo de Notarios solicitará la aplicación de los medios de apremio previstos en el artículo 138 bis, de conformidad con el orden señalado en dicha disposición jurídica.
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 145.
+
+En el supuesto de que las partes lleguen a una conciliación, el convenio respectivo las obligará, quedando además obligadas a informar al Consejo de Notarios, dentro de un plazo de quince días, sobre el cumplimiento de los compromisos adquiridos, con lo que se dará por terminada la etapa de conciliación; de igual manera, el cumplimiento del convenio podrá ser demandado por la vía judicial correspondiente.
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 146.
+
+Si las partes no llegan a un acuerdo mediante el procedimiento de conciliación y el Consejo de Notarios considera que hay causa razonable para continuar el procedimiento para determinar la responsabilidad del fedatario público, se procederá conforme a lo previsto por el artículo 142.
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 147.
+
+Las reglas específicas de los procedimientos previstos en este capítulo se detallarán en el reglamento de esta ley.
+
+### CAPÍTULO XVIII. De Los Delitos en Materia Notarial
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 148.
+
+El fedatario público o el notario público suplente responsable del incumplimiento de las disposiciones de esta ley, se hará acreedor a las sanciones siguientes:
 
 I.- Amonestación por escrito:
 
@@ -1131,9 +1333,21 @@ c) Por realizar cualquier actividad incompatible en los términos de esta ley;
 
 d) Por negligencia e imprudencia que provoque la nulidad de un acta por resolución judicial;
 
-e) Por separarse del cargo sin contar con la licencia en términos de lo dispuesto por esta ley, y
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
-f) Por oponerse u obstaculizar el ejercicio de las facultades de inspección y vigilancia establecidas en la ley de la materia.
+e) Por separarse del cargo sin contar con la licencia en términos de lo dispuesto por esta ley;
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+f) Por oponerse u obstaculizar el ejercicio de las facultades de inspección y vigilancia establecidas en la ley de la materia;
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+g) Por no haber concluido todos los asuntos en trámite que haya iniciado, en el plazo que dure la suplencia o la extensión de esta, a solicitud del notario suplido, en términos del artículo 66, salvo que los asuntos no hayan sido concluidos por motivos no imputables al notario suplente o que el notario suplido haya decidido concluir por sí mismo, y
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+h) Por no presentarse, sin causa justificada, a reanudar sus labores, transcurrido el término de ausencia temporal, previsto en el artículo 62; de la licencia que se le hubiere concedido, conforme a los artículos 63 o 64; o de la suspensión que se le hubiere impuesto, conforme al artículo 65.
 
 III.- Suspensión hasta por ciento ochenta días naturales:
 
@@ -1149,87 +1363,41 @@ e) Por expedir copias o certificaciones de documentos que no haya tenido a la vi
 
 f) Por expedir testimonios de actas que no haya autorizado;
 
-g) Por no conservar vigente la garantía establecida por esta ley, previo requerimiento que haga el Consejo de Notarios, y
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
-h) Por desempeñar su encargo faltando a la probidad y honradez que debe guardar en ejercicio de sus funciones.
+g) Por no conservar vigente la garantía establecida por esta ley, previo requerimiento que haga el Consejo de Notarios;
 
-IV.- Revocación de la patente de fedatario público:
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+h) Por desempeñar su encargo faltando a la probidad y honradez que debe guardar en ejercicio de sus funciones, y
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+i) Por dejar de actuar en su protocolo durante más de cuarenta y cinco días consecutivos en el año, sin previa licencia, salvo que ello fuere por causas ajenas a su voluntad.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 27 DE AGOSTO DE 2018)</small>
+
+IV.- Revocación de la patente de notario público o de escribano público o de aspirante a notario público:
 
 a) Por reincidir en alguno de los supuestos señalados en la fracción III de este artículo;
 
-b) Por abandonar el ejercicio de su función sin causa justificada de conformidad a lo establecido en esta ley;
+b) Por abandonar el ejercicio de su función sin causa justificada de conformidad a lo establecido en esta ley, y
 
-c) Por haber sido condenado por delito doloso e intencional considerado como grave por la legislación penal, mediante sentencia definitiva ejecutoriada que amerite pena corporal, y
+c) Por haber sido condenado por delito doloso e intencional considerado como grave por la legislación penal, mediante sentencia definitiva ejecutoriada que amerite pena corporal.
 
-d) Por imposibilidad permanente del fedatario público, sea por enfermedad o edad avanzada en términos de lo señalado en esta ley.
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
-### CAPÍTULO XVIII. De Los Delitos en Materia Notarial
+Tratándose de los notarios suplentes, la sanción de suspensión a que se refiere la fracción III implicará que no puedan obtener otra patente de notario suplente por el plazo de ciento ochenta días naturales; y, en el caso de la revocación, esta traerá aparejada tanto la de notario suplente como la de aspirante.
 
-###### Artículo 139.
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
-Cualquier persona podrá presentar queja ante el Poder Ejecutivo del Estado o ante el Consejo de Notarios, por incumplimiento de los términos y condiciones del ejercicio de la función notarial establecidas en esta ley.
+###### Artículo 148 Bis.
 
-Si la queja es presentada ante el Poder Ejecutivo del Estado, éste la turnará al Consejo de Notarios para que inicie el procedimiento respectivo.
+Si durante el desarrollo de un procedimiento sancionador el Consejo de Notarios o la Consejería Jurídica considera que un particular infringió las disposiciones de esta ley, podrá seguir en su contra el procedimiento sancionador a que se refiere el artículo 139 de esta ley y sancionarlo conforme al artículo 148.
 
-###### Artículo 140.
+En caso de que la falta o infracción cometida amerite suspensión o revocación de la patente respectiva, en términos del artículo 148, se impondrá al particular, como sanción, la restricción al acceso al examen de (sic) previsto en el artículo 15, por un periodo de cinco años.
 
-El escrito de la queja deberá contener:
-
-I.- El nombre y domicilio del quejoso para recibir notificaciones;
-
-II.- El acto realizado por el Fedatario Público del que se deriva la queja;
-
-III.- El nombre y número del Fedatario Público que realizó las actuaciones que originan la queja;
-
-IV.- Los hechos que le consten al quejoso relativo al acto o actos que aduce son irregulares, bajo protesta de decir verdad;
-
-V.- Las escrituras, actas, testamentos o constancias que se encuentren relacionadas con los hechos, y
-
-VI.- El nombre y domicilio del tercero interesado, cuando lo haya.
-
-En cada escrito de queja sólo podrá aparecer un quejoso, salvo en los casos que se trate de la impugnación de resoluciones conexas, o que se afecten los intereses jurídicos de dos o más personas, mismas que podrán promover la queja contra la función notarial en un solo escrito.
-
-Si se omiten los datos previstos en alguna de las fracciones de este artículo, el Consejo de Notarios requerirá al quejoso para que los subsane dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo y forma se tendrá por no presentada la queja.
-
-El Consejo de Notarios podrá no admitir una queja cuando de la simple lectura de los hechos descritos se haga evidente y notorio que no existe infracción alguna a la ley.
-
-###### Artículo 141.
-
-Una vez recibida la queja respectiva, el Consejo de Notarios requerirá un informe circunstanciado al Fedatario Público señalado como presunto responsable, quien deberá remitirlo dentro de los cinco días hábiles siguientes a la recepción del requerimiento respectivo, adjuntando toda la documentación que obre en su poder respecto al acto o hecho jurídico del que se adolece el quejoso.
-
-Después de recibido el informe circunstanciado a que se refiere el párrafo anterior, si el Consejo de Notarios lo considera procedente le solicitará al Poder Ejecutivo del Estado autorice una visita especial a la notaría o escribanía pública de que se trate.
-
-Asimismo el Consejo de Notarios, podrá requerir a cualquier dependencia o entidad involucrada la información adicional que requiera, siempre y cuando se encuentre dentro de las funciones de la dependencia o entidad y tenga una relación con el caso concreto.
-
-###### Artículo 142.
-
-El Consejo de Notarios una vez que cuente con los escritos de ambas partes señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá celebrar dentro de los quince días hábiles siguientes a la fecha de recepción de la queja.
-
-La asistencia a la audiencia será obligatoria para ambas partes, por lo que la inasistencia por la parte quejosa traerá como consecuencia el tenerlo por desistido de su queja.
-
-###### Artículo 143.
-
-En la audiencia, el Consejo de Notarios tomando en cuenta los hechos manifestados en la queja y los argumentos que hiciere valer el Fedatario Público, determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses, conforme a las disposiciones de esta ley, sin prejuzgar sobre el conflicto planteado.
-
-En la audiencia las partes deberán procurar la realización de acciones que promuevan la ejecución total de los trabajos, la prestación de los servicios y la completa resolución de las controversias, a través de los convenios que acuerden las mismas.
-
-En caso de que sea necesario, la audiencia se podrá realizar en varias sesiones. Para ello, el Consejo de Notarios señalará los días y horas para que tengan verificativo. El procedimiento de audiencia deberá agotarse en un plazo no mayor de treinta días hábiles contados a partir de la fecha en que se haya celebrado la primera sesión, salvo que las partes acuerden un plazo mayor, por causas debidamente justificadas.
-
-De toda diligencia deberá levantarse acta circunstanciada, en la que consten los resultados de las actuaciones.
-
-###### Artículo 144.
-
-En el supuesto de que las partes lleguen a una conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial correspondiente.
-
-###### Artículo 145.
-
-Si las partes no llegan a la conciliación, el Consejo de Notarios designará un instructor, quien realizará un dictamen de la queja el cual enviará junto con el expediente formado del caso a la Consejería Jurídica del Gobierno del Estado, la cual podrá acordar la práctica de las pruebas que estime necesarias, para mejor proveer y con intervención de las partes.
-
-Una vez realizadas estas pruebas, si las hubiere, resolverá la procedencia de la queja, así como determinará las sanciones que, en su caso, le sean aplicables al notario público, de conformidad con lo estipulado en el capítulo siguiente de esta ley.
-
-###### Artículo 146.
-
-El procedimiento a seguir para aplicar lo dispuesto en este capítulo se sujetará a lo que establezca el reglamento de esta ley.
+En caso de ser aspirante, además de la sanción referida en este artículo, le serán aplicables las previstas en el artículo 148.
 
 ###### Artículo 149.
 
@@ -1241,9 +1409,17 @@ En el caso de que un libro del protocolo ya se encuentre en la Dirección de Arc
 
 El procedimiento a seguir para aplicar lo dispuesto en este Capítulo se sujetará a lo que establezca el reglamento de esta ley.
 
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### Artículo 150 Bis.
+
+Las responsabilidades penales, civiles y administrativas de los fedatarios públicos, se exigirán de acuerdo con la legislación aplicable en cada materia.
+
+El inicio de un procedimiento para reclamar la responsabilidad penal, civil o administrativa de un fedatario público no suspenderá los procedimientos que se instruyan en términos de esta ley.
+
 ###### Artículo 151.
 
-Se aplicará la sanción de tres meses a tres años y de diez a cincuenta días-multa además de las previstas en el artículo 290 del Código Penal del Estado, a quien careciendo de la patente de Fedatario Público en términos de esta ley se ostente como tal para ejercer en cualquier medio publicitario o por simular funciones inherentes a un Fedatario Público.
+Se aplicará pena de prisión de tres meses a tres años y de diez a cincuenta días-multa además de las previstas en el artículo 290 del Código Penal del Estado, a quien careciendo de la patente de Fedatario Público en términos de esta ley se ostente como tal para ejercer en cualquier medio publicitario o por simular funciones inherentes a un Fedatario Público.
 
 > <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
 
@@ -1251,9 +1427,11 @@ Se aplicará la sanción de tres meses a tres años y de diez a cincuenta días-
 
 Se aplicará la misma pena establecida en el artículo anterior, a la persona que siendo Notario Público con patente de otra Entidad Federativa o del Distrito Federal, introduzca al Estado o conserve en su poder, por sí o por interpósita persona, libros de protocolo o (sic) hojas de protocolo de otra Entidad, con la finalidad de llevar a cabo en el Estado actos que únicamente pueden realizar los notarios públicos en el Estado de Yucatán.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 153.
 
-Se aplicará la pena de tres meses a tres años de prisión y de diez a cien días-multa, además de las previstas en el artículo 285 del Código Penal del Estado, a:
+·Se aplicará la pena de seis meses a seis años de prisión y de veinte a doscientos días-multa, además de las previstas en el artículo 285 del Código Penal del Estado, a:
 
 I.- Quien hiciere declaraciones falsas ante Fedatario Público que éste hiciere constar en un acta notarial o escritura pública;
 
@@ -1269,7 +1447,7 @@ Se impondrá la pena de prisión de tres meses a dos años y de diez a cien día
 
 Al Fedatario Público que a sabiendas lo permita, se le aplicará el doble de dicha penalización, sin perjuicio de las demás sanciones que de conformidad a esta ley se haga acreedor. La misma sanción se impondrá a quien sin motivo fundado niegue la validez o fuerza probatoria de las actas otorgadas ante Fedatario Público y de los documentos certificados o ratificados por él.
 
-T R A N S I T O R l O S:
+T R A N S I T O R I O S:
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1416,3 +1594,47 @@ Para los efectos de este decreto, las patentes de los escribanos públicos con r
 Artículo Tercero. Derogación tácita
 
 Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
+
+D.O. 27 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 650/2018 POR EL QUE SE MODIFICA LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Modificaciones al reglamento de la ley
+
+El Titular del Poder Ejecutivo del estado deberá realizar las adecuaciones al Reglamento de la Ley del Notariado del Estado de Yucatán que correspondan, de acuerdo con lo establecido en este decreto, en un plazo de noventa días naturales, contado a partir de su entrada en vigor.
+
+Tercero. Inaplicabilidad del artículo 63, párrafo tercero
+
+Las licencias que, al momento de la entrada en vigor de este decreto, se encuentren vigentes, tendrán la duración por la que fueron expedidas, aun cuando se supere el plazo establecido en el artículo 63, párrafo tercero, de la Ley del Notariado del Estado de Yucatán.
+
+Cuarto. Efectos del artículo 63, párrafo tercero, respecto de las licencias otorgadas
+
+A partir de la entrada en vigor del presente decreto, las licencias que hayan sido otorgadas no se computarán para efectos de lo dispuesto en el párrafo tercero, del artículo 63 de la Ley del Notariado del Estado de Yucatán.
+
+Quinto. Licencias vigentes
+
+Los notarios suplentes y los notarios suplidos, que lo sean a la fecha de entrada en vigor de este decreto, deberán aplicar lo dispuesto por el artículo 66 de la Ley del Notariado del Estado de Yucatán.
+
+Sexto. Reconocimiento y validez de patentes
+
+Las patentes de los escribanos públicos con residencia en la ciudad de Mérida y demás municipios del estado permanecerán vigentes hasta el 31 de diciembre de 2021. Concluido este plazo, deberá atenderse a lo dispuesto por el segundo párrafo del artículo 119.
+
+Séptimo. Celebración de convenios con instituciones públicas y académicas
+
+El Consejo de Notarios procurará celebrar un convenio de colaboración con el Instituto Nacional Electoral, a efecto que los fedatarios públicos puedan cerciorarse de la identidad de las personas que comparezcan ante su fe, utilizando métodos de reconocimiento y comparación de patrones con la información biométrica recabada por el Instituto.
+
+D.O. 27 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 651/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN, EN MATERIA NOTARIAL”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el diario oficial del estado.
+
+Segundo. Derogación tácita.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este decreto.
