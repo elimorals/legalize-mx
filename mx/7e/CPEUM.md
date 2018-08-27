@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2017-09-15"
+last_updated: "2018-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE AGOSTO DE 2018.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -722,7 +722,7 @@ La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de
 
 V. Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas, secuestro o delincuencia organizada; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
-El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas (sic) los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
+El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
 
 VI. Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos, y
 
@@ -7694,7 +7694,13 @@ DÉCIMO QUINTO.- Las reformas a los artículos 65; 74, fracción IV y 83 de esta
 
 DÉCIMO SEXTO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 28; 29, párrafo primero; 69, párrafo segundo; 76, fracciones II, por lo que se refiere a la supresión de la ratificación del Procurador General de la República por el Senado y XII; 78, fracción V; 82, fracción VI; 84; 89, fracción IX; 90; 93, párrafo segundo; 95; 102, Apartado A; 105, fracciones II, incisos c) e i) y III; 107; 110 y 111 por lo que se refiere al Fiscal General de la República; 116, fracción IX y 119, párrafo primero de esta Constitución, entrarán en vigor en la misma fecha en que lo hagan las normas secundarias que expida el Congreso de la Unión necesarias por virtud de las adiciones, reformas y derogaciones a que se refiere el presente Transitorio, siempre que se haga por el propio Congreso la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General de la República.
 
-El Procurador General de la República que se encuentre en funciones al momento de expedirse la declaratoria a que se refiere el párrafo anterior, quedará designado por virtud de este Decreto Fiscal General de la República por el tiempo que establece el artículo 102, Apartado A, de esta Constitución, sin perjuicio del procedimiento de remoción previsto en la fracción IV de dicho artículo.
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2018)</small>
+
+Una vez realizada la declaratoria a que se refiere el párrafo anterior, la Cámara de Senadores iniciará de forma inmediata el procedimiento previsto en el Apartado A del artículo 102 de esta Constitución para la designación del Fiscal General de la República. Si la Cámara de Senadores no estuviere reunida, la Comisión Permanente la convocará inmediatamente a sesión extraordinaria.
+
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2018)</small>
+
+El Procurador General de la República que se encuentre en funciones al momento de expedirse la declaratoria a que se refiere el párrafo primero de este artículo, continuará en su encargo hasta en tanto el Senado designe al Fiscal General de la República.
 
 DÉCIMO SÉPTIMO.- Una vez que entren en vigor las disposiciones de este Decreto referidas en el Transitorio anterior, se procederá de la siguiente forma:
 
@@ -8187,3 +8193,9 @@ TERCERO. Las Legislaturas de las entidades federativas deberán llevar a cabo la
 CUARTO. El Congreso de la Unión deberá expedir la legislación procedimental a que hace referencia la fracción XXX del artículo 73 constitucional adicionado mediante el presente Decreto, en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
 
 QUINTO. La legislación procesal civil y familiar de la Federación y de las entidades federativas continuará vigente hasta en tanto entre en vigor la legislación a que se refiere la fracción XXX del artículo 73 constitucional, adicionada mediante el presente Decreto, y de conformidad con el régimen transitorio que la misma prevea. Los procedimientos iniciados y las sentencias emitidas con fundamento en la legislación procesal civil federal y la legislación procesal civil y familiar de las entidades federativas deberán concluirse y ejecutarse, respectivamente, conforme a la misma.
+
+D.O.F. 27 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO SEXTO TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA POLÍTICA-ELECTORAL”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 10 DE FEBRERO DE 2014”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
