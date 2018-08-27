@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2018-06-22"
+last_updated: "2018-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE AGOSTO DE 2018.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2117,13 +2117,29 @@ II. Hacer constar en las oficinas del Registro Civil un nacimiento no verificado
 
 III. Cuando los padres no presenten un hijo suyo al Registro Civil, con el propósito de hacerle perder su estado civil o declaren falsamente su fallecimiento o lo presenten ocultando sus nombres o atribuyendo la paternidad a otras personas;
 
-IV. Cuando sustituyan a un niño por otro o cometan ocultación del infante, rehusándose, sin causa justificada, a hacer la entrega o presentación de un menor de siete años a la persona que tenga derecho de exigirlo, y
+> <small>(REFORMADA, D.O. 27 DE AGOSTO DE 2018)</small>
 
-V. Cuando se usurpe el estado civil de otro, con el fin de adquirir derechos de familia que no le corresponden al infractor.
+IV. Cuando sustituyan a un niño por otro o cometan ocultación del infante, rehusándose, sin causa justificada, a hacer la entrega o presentación de un menor de siete años a la persona que tenga derecho de exigirlo;
+
+> <small>(REFORMADA, D.O. 27 DE AGOSTO DE 2018)</small>
+
+V. Cuando se usurpe el estado civil de otro, con el fin de adquirir derechos de familia que no le corresponden al infractor, y
+
+> <small>(ADICIONADA, D.O. 27 DE AGOSTO DE 2018)</small>
+
+VI. Cuando se altere o modifique el estado civil en un acta de matrimonio, con el fin de aparentar tener un régimen conyugal diferente al verdadero.
 
 > <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
 Además de las sanciones indicadas, el imputado perderá todo derecho de heredar que tuviera respecto de las personas a quienes por la comisión del delito perjudique en sus derechos de familia.
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+Al funcionario público o persona que realice o colabore en las comisiones de los ilícitos señalados en las fracciones II y VI de este artículo, se le aumentará la pena impuesta en dos terceras partes, sin perjuicio de fincar las responsabilidades que correspondan a los servidores públicos en los términos de la ley de la materia.
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+La persona, que utilice un acta de matrimonio que contenga alteración del régimen conyugal a que se refiere la fracción VI de este artículo, ante algún fedatario público o institución gubernamental, se le aumentará a la pena impuesta dos terceras partes.
 
 ### CAPÍTULO V. MATRIMONIOS ILEGALES
 
@@ -3535,9 +3551,21 @@ XXI. Siendo patrón, dolosamente simule contratos u operaciones que importen cr�
 
 Se presumirá la simulación por la circunstancia de que el crédito supuesto, grave en más del cincuenta por ciento el capital del patrono.
 
-Cuando el infractor fuere una empresa, sociedad o cualquier otra persona moral, las sanciones serán impuestas al gerente, director, administrador, representante o responsable de ella que hubiere intervenido en los hechos; y además, a juicio del juez o tribunal, podrá imponerse la sanción de suspensión de actividades por un término hasta de dos años o disolución de la persona moral, y
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
-XXII. Siendo patrón, dolosamente simule créditos o cualquier otra obligación por supuestas responsabilidades provenientes del contrato de trabajo, para eludir el pago de obligaciones, burlando a sus acreedores y pretendiendo aprovechar en su favor los créditos a favor de los trabajadores. Cuando el infractor fuera una empresa, sociedad o cualquiera otra persona moral, se observará lo dispuesto en la parte final de la fracción que precede.
+Cuando el infractor fuere una empresa, sociedad o cualquier otra persona moral, las sanciones serán impuestas al gerente, director, administrador, representante o responsable de ella que hubiere intervenido en los hechos; y además, a juicio del juez o tribunal, podrá imponerse la sanción de suspensión de actividades por un término hasta de dos años o disolución de la persona moral;
+
+> <small>(REFORMADA, D.O. 27 DE AGOSTO DE 2018)</small>
+
+XXII. Siendo patrón, dolosamente simule créditos o cualquier otra obligación por supuestas responsabilidades provenientes del contrato de trabajo, para eludir el pago de obligaciones, burlando a sus acreedores y pretendiendo aprovechar en su favor los créditos a favor de los trabajadores. Cuando el infractor fuera una empresa, sociedad o cualquiera otra persona moral, se observará lo dispuesto en la parte final de la fracción que precede, y
+
+> <small>(ADICIONADA, D.O. 27 DE AGOSTO DE 2018)</small>
+
+XXIII. Quien comparezca ante un fedatario público, para celebrar cualquier tipo de acto o hecho jurídico utilizando documentos públicos o privados alterados, apócrifos, o inclusive auténticos pero que estos últimos contengan información falsa, o pretenda acreditar u ostentar su identidad o personalidad con documentos públicos o privados, que induzcan al error tanto a dichos fedatarios como al tercer adquirente o contratante de buena fe respecto a su identidad verdadera o falta de personalidad o capacidad, independientemente si obtiene o no, parte o todo el precio del bien que fuere vendido o sea motivo de la operación plasmada en dicho contrato.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXIII, D.O. 27 DE AGOSTO DE 2018]</small>
+
+Se sancionará al actor del ilícito en una mitad más de la pena, si exhibiere testigos para acreditar su identidad o personalidad, en términos de la fracción I del artículo 49 de la Ley del Notariado del Estado de Yucatán, y a los testigos también se les castigará, si son cómplices. Lo establecido en esta fracción prescribirá a los quince años.
 
 ###### ARTÍCULO 325.
 
@@ -3553,11 +3581,17 @@ II. (DEROGADA, D.O. 7 DE DICIEMBRE DE 2010)
 
 III. Con prisión de un año seis meses a cinco años y de cien a doscientos días-multa, cuando el valor de lo defraudado excediere de cien, pero no de seiscientas unidades de medida y actualización;
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 27 DE AGOSTO DE 2018)</small>
 
-IV. Con prisión de cinco a diez años y de doscientos a quinientos días-multa, si el valor de lo defraudado fuere mayor de seiscientas unidades de medida y actualización, y
+IV. Con prisión de cinco a diez años y de doscientos a quinientos días-multa, si el valor de lo defraudado fuere mayor de seiscientas unidades de medida y actualización;
 
-V. La reparación del daño proveniente de la fracción XVIII del Artículo 324 de este Código, será regulado en la sentencia de gradación del concurso.
+> <small>(REFORMADA, D.O. 27 DE AGOSTO DE 2018)</small>
+
+V. La reparación del daño proveniente de la fracción XVIII del Artículo 324 de este Código, será regulado en la sentencia de gradación del concurso, y
+
+> <small>(ADICIONADA, D.O. 27 DE AGOSTO DE 2018)</small>
+
+VI. La conducta prevista en la fracción XXIII del artículo 324, se sancionará por su gravedad, con prisión de cuatro a ocho años y de quinientos a mil días-multa si el valor de lo defraudado fuera mayor de seiscientas unidades de medida y actualización.
 
 > <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
@@ -4397,6 +4431,26 @@ A quien cometa actos de maltrato o crueldad en contra de un animal doméstico, q
 
 En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal doméstico previo a su muerte, las penas se aumentarán en una mitad. Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía de éste.
 
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 410.
+
+Se impondrá de uno a cinco años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización a quien:
+
+I. Organice, induzca, provoque, promueva o realice una o varias peleas de perros, públicas o privadas, con o sin apuestas, o las permita en su propiedad.
+
+II. Anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
+
+III. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
+
+IV. Ocasione o permita que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+
+V. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+
+La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
+
+Asimismo, incurre en responsabilidad penal, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO. Este Código entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
@@ -4792,3 +4846,23 @@ D.O. 22 DE JUNIO DE 2018.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día 01 de agosto del 2018, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 651/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN, EN MATERIA NOTARIAL”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el diario oficial del estado.
+
+Segundo. Derogación tácita.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 27 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 652/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE PELEAS DE PERROS".]
+
+Artículo único. Entrada en vigor
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
