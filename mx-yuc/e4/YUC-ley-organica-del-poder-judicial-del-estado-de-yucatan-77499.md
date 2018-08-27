@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2017-11-24"
+last_updated: "2018-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE AGOSTO DE 2018.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -907,7 +907,7 @@ Asimismo, en este sistema podrán conformarse, para la ágil atención de los pr
 
 > <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-En materia de justicia para adolescentes, existirán, en términos de la legislación procesal penal, jueces de control y juecesde los tribunales de juicio oral especializados, quienes tendrán, en sus respectivos ámbitos de competencia, las facultades y obligaciones establecidas en los dos párrafos anteriores de este artículo, en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y en las demás disposiciones legales y normativas aplicables.
+En materia de justicia para adolescentes, existirán, en términos de la legislación procesal penal, jueces de control y jueces de los tribunales de juicio oral especializados, quienes tendrán, en sus respectivos ámbitos de competencia, las facultades y obligaciones establecidas en los dos párrafos anteriores de este artículo, en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y en las demás disposiciones legales y normativas aplicables.
 
 Número de juzgados
 
@@ -933,9 +933,13 @@ Sólo podrán ser removidos por causa justificada y previo juicio de responsabil
 
 Es causa de terminación del cargo de los jueces:
 
-I.- Cumplir 70 años de edad;
+> <small>(REFORMADA, D.O. 27 DE AGOSTO DE 2018)</small>
 
-II.- Por infracción a la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, y
+I.- Cumplir 75 años de edad;
+
+> <small>(REFORMADA, D.O. 27 DE AGOSTO DE 2018)</small>
+
+II.- Por infracción a la legislación aplicable en materia de responsabilidades administrativas, y
 
 III.- Por incapacidad física o mental.
 
@@ -2532,3 +2536,11 @@ El gobernador deberá regular a la comisión intersecretarial para la reinserci�
 Décimo. Previsiones presupuestales
 
 El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
+
+D.O. 27 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 649/2018 POR EL QUE SE MODIFICA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE JUECES DE PRIMERA INSTANCIA”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
