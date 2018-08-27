@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2018-07-25"
+last_updated: "2018-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE AGOSTO DE 2018.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -253,11 +253,13 @@ Los consejos municipales estarán integrados, al menos, por el presidente munici
 
 ### Capítulo IV. Secretariado ejecutivo
 
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 21.
 
 Naturaleza y objeto
 
-El secretariado ejecutivo es un órgano desconcentrado de la Secretaría General de Gobierno, con autonomía técnica y de gestión, que tiene por objeto coordinar el funcionamiento del sistema estatal.
+El secretariado ejecutivo es un órgano desconcentrado de la Secretaría de Seguridad Pública, con autonomía técnica y de gestión, que tiene por objeto coordinar el funcionamiento del sistema estatal.
 
 ###### Artículo 22.
 
@@ -337,7 +339,9 @@ VII. No estar sujeto a procedimiento administrativo ni haber sido suspendido, de
 
 Atribuciones
 
-El Centro Estatal de Información sobre Seguridad Pública es un órgano desconcentrado de la Secretaría General de Gobierno, con autonomía técnica y de gestión, y tiene las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+El Centro Estatal de Información sobre Seguridad Pública es un órgano desconcentrado de la Secretaría de Seguridad Pública, con autonomía técnica y de gestión, y tiene las siguientes atribuciones:
 
 I. Vigilar el adecuado desarrollo en el estado de las bases de datos y los registros administrativos del sistema nacional.
 
@@ -411,7 +415,9 @@ El titular del Centro Estatal de Prevención del Delito y Participación Ciudada
 
 Atribuciones
 
-El Centro Estatal de Evaluación y Control de Confianza es un órgano desconcentrado de la Secretaría General de Gobierno, con autonomía técnica y de gestión, y tiene las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+El Centro Estatal de Evaluación y Control de Confianza es un órgano desconcentrado de la Secretaría de Seguridad Pública, con autonomía técnica y de gestión, y tiene las siguientes atribuciones:
 
 I. Aplicar las evaluaciones necesarias para el ingreso o la permanencia en las instituciones de seguridad pública, de conformidad con las disposiciones emitidas por el Centro Nacional de Certificación y Acreditación, e informarles sobre los resultados obtenidos.
 
@@ -1584,3 +1590,19 @@ La Secretaría de Seguridad Pública deberá emitir los lineamientos en los cual
 Quinto. Aplicación de norma técnica
 
 En tanto se emiten los lineamientos previstos en el artículo transitorio anterior de este decreto, la Secretaría de Seguridad Pública aplicará, en lo conducente, la Norma Técnica para Estandarizar las Características Técnicas y de Interoperabilidad de los Sistemas de Video-vigilancia para la Seguridad Pública.
+
+D.O. 27 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 648/2018 POR EL QUE SE MODIFICA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, SOBRE LAS INSTANCIAS DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Trámite de asuntos
+
+Los acuerdos y convenios así como los asuntos, expedientes y demás actos jurídicos, pendientes y en trámite, que se encuentren bajo cualquier concepto en el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Información sobre Seguridad Pública y el Centro Estatal de Evaluación y Control de Confianza, se transferirán y quedarán a cargo de la Secretaría de Seguridad Pública, a partir de la entrada en vigor de este decreto.
+
+Tercero. Transferencia de recursos
+
+A partir de la entrada en vigor de este decreto, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles e inmuebles del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, del Centro Estatal de Información sobre Seguridad Pública y del Centro Estatal de Evaluación y Control de Confianza, pasarán al dominio y uso de la Secretaría de Seguridad Pública.
