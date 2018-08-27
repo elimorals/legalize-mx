@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-instituto-de-seguridad-juridica-patrimonial-822
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-19"
-last_updated: "2016-12-28"
+last_updated: "2018-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE AGOSTO DE 2018.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de julio de 2011.
 
@@ -428,6 +428,10 @@ Para inscribir o anotar cualquier Título de conformidad con el principio regist
 Inscrito o anotado un derecho, no podrá inscribirse o anotarse otro de igual, anterior o posterior fecha que, refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
 
 Si sólo existiere anotado alguno de los avisos a que se refiere ésta Sección, tampoco podrá inscribirse o anotarse otro Título de la clase antes expresada, mientras el asiento esté vigente, con las excepciones previstas por la Ley.
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
+Para efectos de la realización de la inscripción o anotación de los títulos, la Dirección del Registro Público de la Propiedad y de Comercio o los registradores pueden requerir información o consultar, por cualquier medio, a los fedatarios públicos sobre la escritura que hayan autorizado, cuando algún apartado de esta requiera aclaración.
 
 #### SECCIÓN IV. De la Calificación Registral
 
@@ -2286,3 +2290,35 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 27 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 650/2018 POR EL QUE SE MODIFICA LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Modificaciones al reglamento de la ley
+
+El Titular del Poder Ejecutivo del estado deberá realizar las adecuaciones al Reglamento de la Ley del Notariado del Estado de Yucatán que correspondan, de acuerdo con lo establecido en este decreto, en un plazo de noventa días naturales, contado a partir de su entrada en vigor.
+
+Tercero. Inaplicabilidad del artículo 63, párrafo tercero
+
+Las licencias que, al momento de la entrada en vigor de este decreto, se encuentren vigentes, tendrán la duración por la que fueron expedidas, aun cuando se supere el plazo establecido en el artículo 63, párrafo tercero, de la Ley del Notariado del Estado de Yucatán.
+
+Cuarto. Efectos del artículo 63, párrafo tercero, respecto de las licencias otorgadas
+
+A partir de la entrada en vigor del presente decreto, las licencias que hayan sido otorgadas no se computarán para efectos de lo dispuesto en el párrafo tercero, del artículo 63 de la Ley del Notariado del Estado de Yucatán.
+
+Quinto. Licencias vigentes
+
+Los notarios suplentes y los notarios suplidos, que lo sean a la fecha de entrada en vigor de este decreto, deberán aplicar lo dispuesto por el artículo 66 de la Ley del Notariado del Estado de Yucatán.
+
+Sexto. Reconocimiento y validez de patentes
+
+Las patentes de los escribanos públicos con residencia en la ciudad de Mérida y demás municipios del estado permanecerán vigentes hasta el 31 de diciembre de 2021. Concluido este plazo, deberá atenderse a lo dispuesto por el segundo párrafo del artículo 119.
+
+Séptimo. Celebración de convenios con instituciones públicas y académicas
+
+El Consejo de Notarios procurará celebrar un convenio de colaboración con el Instituto Nacional Electoral, a efecto que los fedatarios públicos puedan cerciorarse de la identidad de las personas que comparezcan ante su fe, utilizando métodos de reconocimiento y comparación de patrones con la información biométrica recabada por el Instituto.
