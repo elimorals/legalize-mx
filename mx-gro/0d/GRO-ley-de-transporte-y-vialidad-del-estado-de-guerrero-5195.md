@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-transporte-y-vialidad-del-estado-de-guerrero-5195"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2013-11-26"
+last_updated: "2018-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de junio de 1989.
 
@@ -65,7 +65,9 @@ V. Estaciones: El lugar exclusivo para realizar obligatoriamente el ascenso y de
 
 VI. Infraestructura: Las instalaciones necesarias para la correcta prestación del Servicio Público de Transporte Masivo de Pasajeros, de manera enunciativa, más no limitativa: Estaciones ubicadas a lo largo del Corredor con Terminales en su origen y destino con paradas predeterminadas para el ascenso y descenso de pasajeros, Paraderos y/o Patios y Talleres;
 
-VII. Organismo: Los organismos públicos descentralizados que se constituyan para administrar y regular técnicamente la operación del Transporte Masivo.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+VII. Organismos: Los organismos públicos descentralizados que se constituyan para administrar y regular técnicamente la operación del Transporte Masivo;
 
 VIII. Paraderos: El lugar exclusivo para realizar obligatoriamente el ascenso y descenso de pasajeros de los Vehículos de Transporte Masivo sobre las Rutas Alimentadoras;
 
@@ -133,7 +135,9 @@ Son autoridades en materia de transporte y vialidad:
 
 I. El Gobernador del Estado;
 
-II. El Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+II. Jefe de la Oficina del Gobernador;
 
 III. El Secretario de Finanzas y Administración;
 
@@ -151,11 +155,11 @@ VIII. Director General de Tránsito, Caminos, Puertos y Aeropuertos del Estado.
 
 Corresponde a las autoridades señaladas en el artículo anterior la aplicación de esta Ley, y sus disposiciones reglamentarias y las administrativas que para su mejor observancia expidan los órganos competentes y quienes podrán auxiliarse de la fuerza pública para su cumplimiento.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 10.
 
-La Comisión Técnica de Transporte y Vialidad es un Órgano Administrativo Desconcentrado, jerárquicamente subordinado a la Secretaría General de Gobierno, cuyo objeto será regular y conducir el servicio público de transporte que lleven a cabo los particulares y la vialidad de jurisdicción estatal.
+La Comisión Técnica de Transporte y Vialidad es un órgano administrativo desconcentrado, jerárquicamente subordinado al Jefe de la Oficina del Gobernador, cuyo objeto será regular y conducir el servicio público de transporte que lleven a cabo los particulares y la vialidad de jurisdicción estatal.
 
 ###### ARTICULO 11.
 
@@ -219,17 +223,25 @@ XVII. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 La Comisión Técnica de Transporte y Vialidad contará con un órgano de gobierno denominado Consejo Técnico, que estará integrado por:
 
-I. El Secretario General de Gobierno, quien fungirá como presidente;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+I. El Jefe de la Oficina del Gobernador, quien fungirá como Presidente;
 
 II. El Secretario de Finanzas y Administración;
 
-III. El Secretario de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+III. El Secretario de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial;
 
 IV. El Secretario de Desarrollo Social;
 
-V. El Secretario de Desarrollo Económico, y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-VI.- El Secretario de Desarrollo Rural.
+V. El Secretario de Fomento y Desarrollo Económico; y
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+VI. El Secretario de Agricultura, Ganadería, Pesca y Desarrollo Rural.
 
 El Director General de la Comisión Técnica de Transporte y Vialidad será nombrado y removido por el Titular del Poder Ejecutivo, mismo que podrá participar en las sesiones del Consejo con voz pero sin voto.
 
@@ -255,41 +267,49 @@ V. Conocer y aprobar el establecimiento de Comités Consultivos de Transporte y 
 
 VI. Designar y remover a los servidores públicos de la Comisión Técnica de Transporte y Vialidad;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-VII. Otorgar al Director General de la Comisión Técnica de Transporte y Vialidad facultades generales para la defensa de dicho órgano, en todo tipo de juicios, así como para delegar poderes generales y/o especiales a servidores públicos subalternos o a terceras personas; y
+VII. Otorgar al Director General de la Comisión Técnica de Transporte y Vialidad facultades generales para la defensa de dicho órgano, en todo tipo de juicios, así como, para delegar poderes generales y especiales a servidores públicos subalternos o a terceras personas y llevar a cabo la substanciación de los procedimientos administrativos para suspender, revocar o desaparecer las concesiones del servicio público de transporte y los permisos; y
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 VIII. Las demás que sean necesarias para el ejercicio de las facultades de la Comisión Técnica de Transporte y Vialidad.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 14.
 
-El Director conducirá las labores operativas de la Comisión Técnica, de conformidad con las políticas anteriores y autorizaciones del Consejo Técnico, de quien será el órgano ejecutor y proporcionará a éste los elementos indispensables para el ejercicio de las facultades que la ley y sus disposiciones reglamentarias confieren a ese cuerpo colegiado.
+El Director General conducirá las labores operativas de la Comisión Técnica de Transporte y Vialidad y actuará como su representante legal con las limitaciones, modalidades y facultades que le fije el Consejo Técnico; procurando el óptimo aprovechamiento y ejecutar los acuerdos del Consejo Técnico; con facultades para comparecer ante toda clase de autoridades federales, estatales, municipales, administrativas, judiciales, civiles, penales, militares, Juntas Federales y Locales de Conciliación y Arbitraje, Tribunal Estatal de Conciliación y Arbitraje, Tribunal de Justicia Administrativa, Instituto Mexicano del Seguro Social, Secretaría de Hacienda y Crédito Público, Servicio de Administración Tributaria, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, instituciones estatales de seguridad social, instituciones bancarias, así como ante cualquier clase de personas físicas y jurídicas; esta facultad la podrá delegar a favor de terceras personas.
 
-Representar a la Comisión Técnica de Transporte y Vialidad con facultades generales para la defensa de dicha Comisión, en todo tipo de juicios, así como para delegar poderes generales y/o especiales a servidores públicos subalternos o a terceras personas.
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+###### ARTICULO 14 Bis.
+
+Los delgados regionales, tendrán a su cargo dentro de su competencia la vigilancia y el control para el buen funcionamiento del servicio público de transporte, llevando a cabo todo tipo de autorizaciones de trámite, siempre y cuando éste no implique el cambio de naturaleza de las concesiones del servicio público de transporte y los permisos.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 15.
 
-El Contralor General del Estado, designará a quien deberá de fungir como Comisario Público de la Comisión Técnica de Transporte y Vialidad, que tendrá a su cargo las facultades de vigilancia del cumplimiento de esta Ley y de las leyes que rigen la organización y funcionamiento administrativo y el manejo de los recursos públicos.
+El Secretario de Contraloría y Transparencia Gubernamental, designará conforme a la Ley Orgánica de la Administración Pública del Estado de Guerrero número 08 y a la Ley número 690 de Entidades Paraestatales del Estado de Guerrero, quien fungirá como titular del órgano interno de control de la Comisión Técnica de Transporte y Vialidad, mismo que tendrá a su cargo las facultades de vigilancia verificación, control y evaluación del desempeño de la Comisión de acuerdo con las leyes antes referidas y demás disposiciones legales aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 16.
 
-El Consejo Técnico, con el auxilio del Director, en los términos de esta Ley, propiciará la formación y funcionamiento de comités consultivos para las principales ciudades del Estado y las distintas regiones, procurando la participación de la ciudadanía.
+El Consejo Técnico, con el auxilio del Director General de la Comisión Técnica de Transporte y Vialidad, en los términos de esta Ley, propiciará la formación y funcionamiento de comités consultivos para las principales ciudades y distintas regiones del Estado, procurando la participación de la ciudadanía.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 17.
 
-En el uso de las facultades, el Consejo Técnico y el Director, sin perjuicio de las disposiciones de Ley, se sujetarán a los siguientes criterios:
+El Consejo Técnico y el Director General de la Comisión Técnica de Transporte y Vialidad, en uso de sus facultades y sin perjuicio de las disposiciones de Ley, se sujetarán a los siguientes criterios:
 
 I. Se orientará a la ciudadanía sobre la pertinencia de la fijación y revisión de las tarifas del servicio público de transporte;
 
-II. No se otorgarán concesiones ni permisos para el servicio público a servidores públicos estatales; a servidores públicos de elección popular; a magistrados, jueces y en general a juzgadores; ni a servidores públicos federales. Tampoco se otorgarán a sus cónyuges ni a parientes de servidores públicos superiores hasta el cuarto grado por afinidad o consanguinidad.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-Se exceptuará de lo anterior cuando el pariente sea titular de alguna concesión o permiso o sea trabajador del transporte con una antigüedad mayor de cinco años;
+II. No se otorgarán concesiones ni permisos para el servicio público a servidores públicos federales, estatales y municipales, ni de elección popular; tampoco se otorgarán a sus cónyuges, ni a parientes de servidores públicos superiores hasta el cuarto grado por afinidad o consanguinidad;
 
 III. Se cuidará que en la fijación y revisión de las tarifas se armonicen los criterios de interés público y social y el de derecho a utilidades razonables;
 
@@ -325,11 +345,9 @@ El Consejo Estatal Consultivo de Transporte y Vialidad emitirá opiniones y reco
 
 Los Comités Consultivos de Transporte y Vialidad de carácter regional o municipal que se establezcan se conformarán con los servidores públicos, los representantes de las organizaciones locales de concesionarios y los técnicos que el Consejo Técnico designe.
 
-> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
-###### ARTICULO 21
-
-BIS.- A fin de que los diferentes sectores de la comunidad estén conscientes de la responsabilidad que les corresponde en el bienestar colectivo, ya sea como peatones, pasajeros, conductores de vehículos automotores, concesionarios o permisionarios, las autoridades de Tránsito y Transporte y Vialidad del Estado, así como las del Municipio en la esfera de su competencia, deberán fomentar de manera permanente la preparación y difusión de campañas y cursos de seguridad educativa vial.
+ARTICULO 21 BIS.- A fin de que los diferentes sectores de la comunidad estén conscientes de la responsabilidad que les corresponde en el bienestar colectivo, ya sea como peatones, pasajeros, conductores de vehículos automotores, concesionarios o permisionarios, las autoridades de tránsito y transporte y vialidad del Estado, así como, las del Municipio en la esfera de su competencia, deberán fomentar de manera permanente la preparación y difusión de campañas y cursos de seguridad educativa vial.
 
 ### CAPITULO IV. DE LAS LICENCIAS
 
@@ -367,9 +385,9 @@ V. Por las demás causas que para cada servicio se prevengan en las disposicione
 
 Las personas menores de 18 años y mayores de 16 años pueden obtener licencia para conducir únicamente los vehículos de servicio privado que determine el reglamento de esta Ley, pero además de satisfacer los requisitos del caso, deberán acreditar, mediante una carta responsiva, que cuentan con el consentimiento de quienes ejerzan la patria potestad o su tutor, siendo éstos últimos los responsables de los daños que se ocasionen.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
-La Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, exigirá fianza o depósito, o póliza de seguro con una cobertura amplia por la cantidad del importe de cuarenta y cinco veces el salario mínimo diario vigente de la zona económica correspondiente al domicilio de la persona que ejerza la patria potestad o tutoría sobre el menor que será consignado ante la Secretaría de Finanzas y Administración para garantizar el pago a terceros por los daños y perjuicios que el menor llegare a ocasionar con el vehículo que conduzca.
+La Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, exigirá fianza o deposito, o póliza de seguro con una cobertura amplia, por la cantidad del importe de cuarenta y cinco veces el valor de la Unidad de Medida y Actualización que será consignado ante la Secretaría de Finanzas y Administración, para garantizar el pago a terceros por los daños y perjuicios que el menor llegare a ocasionar, con el vehículo que conduzca.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -393,9 +411,13 @@ El control técnico estará a cargo de la Comisión Técnica de Transporte y Via
 
 Las Direcciones Generales de Tránsito Estatal y Municipales solicitarán la impresión de formas para licencias, permisos; y todos los demás conceptos señalados en la Ley de Ingresos vigente, a la Subsecretaría de Ingresos, la cual llevará el registro y control de folios que sean distribuidos por las Administraciones Fiscales tanto a la Dirección General de Tránsito, Caminos, Puertos y Aeropuertos como a sus Delegaciones en el Estado y Municipales.
 
-Asimismo, el pago de los Derechos e Impuestos Adicionales que se originen por la expedición de licencias, permisos y los demás conceptos a que hace referencia el párrafo que antecede, deberá hacerse exclusivamente en la Oficina Rentística de su Jurisdicción correspondiente.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
-La Dirección General de Tránsito y sus Delegaciones, así como las Direcciones de Tránsito Municipales, en el Estado, informarán mensualmente a la Secretaría de Finanzas y Administración sobre el total de licencias expedidas, permisos otorgados y otros conceptos cobrados, así como los números de folios utilizados por medio de cortes de efectos y cortes de ingresos.
+Asimismo, el pago de los derechos e impuestos adicionales que se originen por la expedición de licencias, permisos y los demás conceptos a que hace referencia el párrafo que antecede, deberá hacerse exclusivamente en la Administración Fiscal de la Secretaría de Finanzas y Administración de su jurisdicción correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+
+La Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado y sus delegaciones, y las direcciones de tránsito municipales en el Estado, informarán mensualmente a la Secretaría de Finanzas y Administración sobre el total de licencias expedidas, permisos otorgados y otros conceptos cobrados, así como, los números de folios utilizados por medio de cortes de efectos y cortes de ingresos.
 
 ### CAPITULO V. DE LOS VEHICULOS
 
@@ -765,7 +787,9 @@ ARTICULO 51 BIS 16.- La Comisión Técnica de Transporte y Vialidad llevará el 
 
 ARTICULO 51 BIS 17. - La Comisión Técnica de Transporte y Vialidad podrá equipar, operar, y dar mantenimiento al Sistema de Recaudo, Sistema de Despacho y/o al Centro de Control, directamente o a través de terceros, mediante el otorgamiento de concesiones o contratos.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas será la responsable del mantenimiento de la Infraestructura respectiva, directamente o a través de terceros, mediante el otorgamiento de concesiones o contratos.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+
+Los organismos, serán los responsables del mantenimiento de la infraestructura respectiva, directamente o a través de terceros, mediante el otorgamiento de concesiones o contratos.
 
 Los Organismos establecerán los mecanismos para garantizar la seguridad de la infraestructura y usuarios del servicio.
 
@@ -1295,11 +1319,7 @@ La Comisión Técnica de Transporte y Vialidad administrará el padrón de condu
 
 DE LAS BASES PARA LOS REGLAMENTOS MUNICIPALES EN MATERIA DE VIALIDADES Y DE ESTACIONAMIENTOS EN ZONAS TURISTICAS.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
-
-ARTICULO 108 (sic) Bis 1.- Los ayuntamientos, en los términos del artículo 115 de la Constitución General de la República y de la Constitución Política del Estado, y de conformidad con las bases que establece esta Ley, expedirán reglamentos para la utilización de las vialidades en zonas turísticas y en materia de estacionamientos a efecto de atender el interés público y favorecer las actividades económicas y sociales, lograr una mayor eficiencia en las funciones urbanas.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 96.
 
@@ -1354,6 +1374,12 @@ La Comisión Técnica de Transporte y Vialidad mantendrá en buen estado la señ
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 26 DE FEBRERO DE 1991)</small>
 
 ### CAPITULO XI. DE LAS SANCIONES
+
+###### ARTICULO 107 Bis 1.
+
+Los Ayuntamientos del Estado, en los términos de los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 178 de la Constitución Política del Estado Libre y Soberano de Guerrero, y de conformidad con las bases que establece esta Ley, expedirán reglamentos para la utilización de las vialidades en zonas turísticas y en materia de estacionamientos, a efecto de atender el interés público, y favorecer las actividades económicas y sociales y lograr una mayor eficiencia en las funciones urbanas.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 107 Bis 2.
 
@@ -1441,7 +1467,9 @@ Las autoridades de transporte y tránsito podrán retener la documentación del 
 
 Las sanciones a que se refiere el artículo anterior serán las siguientes:
 
-I. Multa;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+I. Multa o el aseguramiento de una o ambas placas, según la gravedad de la falta;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -1459,9 +1487,11 @@ VI. Detención de vehículo.
 
 Los montos y duración según sea el caso y el procedimiento de aplicación de las sanciones quedará regulado en el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 110.
 
-Para los efectos de esta Ley, multa es la sanción pecuniaria impuesta por contravenir las disposiciones de esta Ley y sus disposiciones reglamentarias y variará, según la gravedad de la infracción, de una a cincuenta veces el salario mínimo diario vigente en la región donde se cometa.
+Para los efectos de esta Ley, multa es la sanción pecuniaria impuesta por contravenir las disposiciones de esta Ley y sus disposiciones reglamentarias y variará, según la gravedad de la infracción, de una a cincuenta veces el valor de la Unidad de Medida y Actualización.
 
 Se aplicará multa en los casos en que se viole lo dispuesto en los artículos: 22, 23, 37, 38, 39, 47, 50, 51, 61 párrafo segundo, 62, 63, 69 fracciones I, II, III, V, VI, VII, VIII y IX, 79, 81, 83, 87, 91, 94 fracciones I, II, III y IV, 98, 99, 103 y 104.
 
@@ -1507,9 +1537,11 @@ II. La falta de iniciación de la prestación del servicio dentro del plazo esta
 
 III. La interrupción del servicio sin causa justificada debidamente comprobada a juicio de la Comisión Técnica de Transporte y Vialidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 114.
 
-Para resolver respecto de la revocación o la caducidad de una concesión o permiso, la Comisión Técnica de Transporte y Vialidad oirá al interesado en la forma prevista por el Reglamento respectivo.
+Para resolver respecto de la suspensión, revocación o la caducidad de una concesión del servicio público de transporte o permiso, la Dirección General de la Comisión Técnica de Transporte y Vialidad, para no dejar al concesionario en estado de indefensión, lo oirá en la forma prevista por el reglamento respectivo, para lo cual se llevará a cabo un procedimiento interno administrativo y a falta de disposición expresa, se aplicará de manera supletoria el Código de Justicia Administrativa del Estado de Guerrero.
 
 La autoridad podrá otorgar plazos en los casos de la transgresión a las disposiciones a que se refieren los artículos 111 y 112 con el objeto de que se superen las deficiencias o irregularidades detectadas.
 
@@ -1545,25 +1577,37 @@ La Dirección de la Comisión Técnica de Transporte y Vialidad, clasificará la
 
 La reincidencia trae consigo el agravamiento de la sanción.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2018)</small>
+
+El Director General de la Comisión Técnica de Transporte y Vialidad, está facultado para ordenar el aseguramiento de placas, documentos o para remitir en cualquier momento un vehículo del servicio público de transporte al depósito de vehículos correspondiente, siempre que el infractor se encuentre alterando las disposiciones previstas en la presente Ley y su reglamento, y que esto afecte de manera grave la alteración del orden público y la paz social.
+
 ###### ARTICULO 118.
 
 El aseguramiento del interés fiscal para el efecto de cobro de las sanciones pecuniarias, se hará en los términos de las disposiciones de la materia.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 119.
 
-Se concede el recurso administrativo de inconformidad que podrá hacer valer el interesado en contra de la sanción impuesta, ante la propia Dirección de la Comisión Técnica de Transporte y Vialidad, en primera instancia y su resolución podrá ser recurrida ante el Tribunal de lo Contencioso Administrativo.
+Se concede el recurso administrativo de inconformidad que podrá hacer valer el interesado en contra de la sanción impuesta, ante la propia Dirección General de la Comisión Técnica de Transporte y Vialidad en primera instancia y su resolución podrá ser recurrida ante el Tribunal de Justicia Administrativa del Estado de Guerrero.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 120.
 
-Para efectos del artículo anterior, el interesado contará con tres días hábiles a partir de la notificación correspondiente para hacer valer lo que a su derecho corresponda ante la Dirección de la Comisión Técnica de Transporte y Vialidad.
+Para efectos del artículo anterior, el interesado contará con tres días hábiles a partir de que la sanción impuesta le sea notificada, pudiendo hacer valer ante la Dirección General de la Comisión Técnica de Transporte y Vialidad, lo que a su derecho convenga y cause agravios.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 121.
 
-La Dirección de la Comisión Técnica de Transporte y Vialidad, resolverá por escrito en un término de cinco días hábiles, contados a partir del día siguiente en que reciba la inconformidad.
+La Dirección General de la Comisión Técnica de Transporte y Vialidad, emitirá resolución por escrito en un término de cinco días hábiles, contados a partir del día siguiente en que se reciba el escrito, donde se interponga el recurso de inconformidad administrativa.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 122.
 
-Las violaciones de los servidores públicos a esta Ley y sus disposiciones reglamentarias, se sancionarán en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Las violaciones de los servidores públicos a esta Ley y sus disposiciones reglamentarias, se sancionarán en los términos de la Ley número 465 de Responsabilidades Administrativas del Estado de Guerrero.
 
 T R A N S I T O R I O S
 
@@ -1617,7 +1661,7 @@ El Secretario de Gobierno.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+{N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]
 
 P.O. 26 DE FEBRERO DE 1991.
 
@@ -1654,3 +1698,17 @@ Se derogan todas las disposiciones legales y administrativas que se opongan al p
 ###### ARTÍCULO CUARTO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales constitucionales.
+
+P.O. 28 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 782 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los asuntos que actualmente se encuentran en trámite y los que se inicien con anterioridad a la vigencia del presente Decreto, deberán substanciarse y resolverse conforme a las disposiciones vigentes al momento en que se suscitaron los hechos que lo motivaron.
+
+CUARTO. Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero para los efectos legales conducentes.
+
+QUINTO. Publíquese el presente Decreto para el conocimiento general en el Periódico Oficial del Gobierno del Estado.
