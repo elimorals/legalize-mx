@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2018-02-16"
+last_updated: "2018-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -1161,6 +1161,10 @@ I.- Cuando se trate de errores ortográficos, de escritura, mecanográficos o lo
 
 II.- Cuando se pretenda aclarar cualquier otro error que no alteren los datos esenciales del documento original.
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+III. Cuando en los libros que obran en poder de la Coordinación Técnica del Sistema Estatal del Registro Civil o en el Registro Civil que corresponda, se haya omitido el segundo apellido de los padres del registrado, así como el municipio como lugar de nacimiento, se deberá subsanar la omisión, sin costo alguno del beneficiario.
+
 ###### Artículo 105.
 
 En el Procedimiento de Aclaración Administrativa, los Oficiales del Registro Civil fungirán como órganos receptores de la Coordinación Técnica del Sistema Estatal del Registro Civil.
@@ -1640,3 +1644,13 @@ P.O. 16 DE FEBRERO DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
 
 SEGUNDO. Notifíquese el presente decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+P.O. 28 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 781 MEDIANTE CUAL SE ADICIONA LA FRACCIÓN III, AL ARTÍCULO 104 DE LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
