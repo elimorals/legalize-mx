@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-164
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-05-24"
-last_updated: "2018-08-14"
+last_updated: "2018-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 24 de mayo de 2000.
 
@@ -285,13 +285,11 @@ ZARAGOZA, comprende las municipalidades de: Alpoyeca, Cualác, Huamuxtitlán, y 
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
-###### ARTICULO 9o.
+###### ARTICULO 9.
 
-El Tribunal Superior de Justicia del Estado estará integrado, al menos, por veintinueve magistrados, incluyendo a los especializados, conforme lo determine el Pleno del Tribunal, de acuerdo con las necesidades del servicio. Funcionará en Pleno o en Salas. Uno de los magistrados será Presidente del Tribunal y no integrará Sala. Otro de los magistrados integrará el Consejo de la Judicatura sin funciones jurisdiccionales.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
+El Tribunal Superior de Justicia del Estado estará integrado, al menos, por veinticinco magistrados, incluyendo a los especializados, conforme lo determine el Pleno del Tribunal, de acuerdo con las necesidades del servicio. Funcionará en Pleno o en Salas. Uno de los magistrados será Presidente del Tribunal y no integrará Sala. Otro de los magistrados integrará el Consejo de la Judicatura sin funciones jurisdiccionales.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -315,9 +313,11 @@ En los días hábiles, el horario del Poder Judicial para el despacho de los asu
 
 ### CAPITULO II. DEL PLENO DEL TRIBUNAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2018)</small>
+
 ###### ARTICULO 14.
 
-El Pleno del Tribunal estará integrado por los Magistrados Numerarios, para sesionar bastará con la asistencia de doce de ellos, sus resoluciones se tomarán por unanimidad o por mayoría de votos de los Magistrados presentes, el Presidente tendrá voto de calidad en caso de empate. Los acuerdos que emita serán obligatorios.
+El Pleno del Tribunal estará integrado por Magistrados, para sesionar bastará con la asistencia del cincuenta por ciento más uno de ellos; sus resoluciones se tomarán por unanimidad o por mayoría de votos de los magistrados presentes, el Presidente tendrá voto de calidad en caso de empate. Los acuerdos que emita serán obligatorios.
 
 El Pleno, celebrará sesión ordinaria, por lo menos dos veces al mes y extraordinaria cuando sea necesario.
 
@@ -753,7 +753,7 @@ Se exceptuarán del examen de oposición a quienes hayan fungido como Jueces de 
 
 Son atribuciones y facultades de los jueces, las siguientes:
 
-l. Acordar y dictar sentencia de manera oportuna, fundada y motivada, con sujeción a las normas aplicables en cada caso;
+I. Acordar y dictar sentencia de manera oportuna, fundada y motivada, con sujeción a las normas aplicables en cada caso;
 
 II. Dictar dentro de los términos y plazos previstos en la ley, los decretos, autos y sentencias que correspondan dentro del procedimiento respectivo;
 
@@ -1154,8 +1154,6 @@ II.- Proponer al Consejo de la Judicatura Estatal, el nombramiento del personal 
 III.- Conceder licencias con goce de sueldo o sin él, hasta por cinco días, al personal de su adscripción;
 
 IV.- Conocer de los negocios civiles y mercantiles de acuerdo con la competencia que señale el Código Procesal Civil, de las informaciones testimoniales para registros extemporáneos de nacimiento y de las diligencias de apeo y deslinde;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 V.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
@@ -2794,3 +2792,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales conducentes.
+
+P.O. 28 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 780, POR EL QUE SE REFORMAN LOS ARTÍCULOS 9 Y 14 PRIMER PÁRRAFO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
