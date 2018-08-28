@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2017-11-29"
+last_updated: "2018-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -343,7 +343,13 @@ c) La contratación de empréstitos y los anticipos que se les otorguen por conc
 
 d) La enajenación, gravamen, transmisión de la posesión o dominio de bienes, participaciones, impuestos, derechos, aprovechamientos, contribuciones o cualquier tipo de ingreso fiscal que forme la hacienda municipal;
 
-e) La transmisión en forma gratuita o donación de la propiedad, así como el uso o disfrute de los bienes del municipio;
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2018)</small>
+
+En el caso de las solicitudes de enajenación, transmisión de la posesión o dominio de bienes, durante el último año del período constitucional de la administración municipal, éstas sólo podrán autorizarse hasta tres meses antes de que concluya el periodo de gobierno correspondiente;
+
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2018)</small>
+
+e) La transmisión en forma gratuita o donación de la propiedad, así como el uso o disfrute de los bienes del municipio. Esta autorización, durante el último año del período constitucional de la administración municipal, sólo podrá otorgarse hasta tres meses antes de que concluya el periodo de gobierno correspondiente;
 
 f) Las concesiones de prestación de servicios públicos que les corresponda a los municipios, sus prórrogas y cancelaciones;
 
@@ -1770,3 +1776,11 @@ Segundo. Los Departamentos de Organización y Métodos, y de Responsabilidades A
 Tercero. Dentro de los sesenta días hábiles siguientes al de la entrada en vigor del presente Decreto, se deberá iniciar el procedimiento para la designación del contralor interno, mediante el mecanismo que para tal efecto establezca el Congreso del Estado a través de la Junta de Coordinación Política.
 
 Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE AGOSTO DE 2018.
+
+[N DE E. TRANSITORIOS DEL "DECRETO NÚMERO 705 QUE REFORMA EL INCISO E) Y ADICIONA UN PÁRRAFO AL INCISO D) DE LA FRACCIÓN XVI DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO".]
+
+PRIMERO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN LA GACETA OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO.
+
+SEGUNDO. SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
