@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-110376"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-23"
-last_updated: "2017-07-18"
+last_updated: "2018-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 08
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2015.
 
@@ -49,7 +49,9 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 08.
 
 La presente Ley tiene por objeto regular la organización y funcionamiento de la Administración Pública Centralizada y Paraestatal del Estado de Guerrero.
 
-Las Secretarías, la Procuraduría de Protección Ecológica, la Coordinación General de Fortalecimiento Municipal, la Consejería Jurídica y la Representación del Poder Ejecutivo del Estado de Guerrero en el Distrito Federal y demás dependencias directamente adscritas al Jefe del Ejecutivo, integran la Administración Pública Centralizada.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+
+Las secretarías, la Procuraduría de Protección Ambiental, la Consejería Jurídica del Poder Ejecutivo y la Representación del Poder Ejecutivo del Estado de Guerrero en la Ciudad de México y demás dependencias directamente adscritas al Jefe del Ejecutivo, integran la Administración Pública Centralizada.
 
 Los Organismos Públicos Descentralizados, las Empresas de Participación Estatal, los Fideicomisos y demás organismos que se instituyan con tal carácter, constituyen la Administración Pública Paraestatal, debiéndose regir, además de lo dispuesto en la presente Ley, por lo estipulado en la Ley de Entidades Paraestatales del Estado de Guerrero y demás disposiciones que resulten aplicables.
 
@@ -145,15 +147,25 @@ Los titulares de las dependencias y entidades a que se refiere esta Ley no podr�
 
 Igualmente, podrán hacerlo cuando ello tenga como propósito apoyar la descentralización de facultades y programas federales con sujeción a las Leyes y acuerdos de coordinación.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 16.
 
-Al tomar posesión del cargo o empleo, todos los servidores públicos de la administración pública estatal, otorgarán ante el superior jerárquico la protesta de cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de una u otra emanen.
+Al tomar posesión del cargo o empleo, todos los servidores públicos de la administración pública estatal, otorgarán ante el superior jerárquico la protesta constitucional previa al ejercicio de su cargo, de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de una y otra emanen en los términos siguientes:
 
-La protesta a que se refiere el párrafo anterior, el Gobernador o quién éste designe, dirá: “¿PROTESTA GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCIÓN POLÍTICA DEL ESTADO, LAS LEYES, REGLAMENTOS Y ACUERDOS QUE DE UNA Y OTRA EMANAN, ASÍ COMO DESEMPEÑAR CON LEALTAD, EFICACIA Y RESPONSABILIDAD EL CARGO QUE SE LE HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO? Levantando la mano derecha, el interrogado contestará. “SI PROTESTO” y el C. Gobernador del Estado responderá: "SI ASÍ NO LO HICIERE, QUE EL PUEBLO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO SE LO DEMANDE"
+La autoridad que reciba la protesta dirá:
 
-Asimismo, los titulares de las dependencias, entidades y demás organismos del Poder Ejecutivo, levantarán un inventario sobre los bienes que se encuentren en poder de las dependencias y entidades, debiéndose apegar a las disposiciones legales vigentes y a la normatividad que señale la Secretaría de Contraloría y Transparencia Gubernamental y la Secretaría de Finanzas y Administración, levantándose en todo caso, acta de entrega recepción, con las formalidades del caso.
+"¿Protesta guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes, que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes del cargo de ... que el Estado os ha conferido?
 
-Los titulares de las dependencias, serán responsables de la posesión, vigilancia y conservación de los bienes de propiedad estatal que administre, así como de la correcta aplicación de los recursos públicos.
+El interrogado contestará: "Sí Protesto".
+
+Acto continuo, la misma autoridad que tome la protesta dirá:
+
+"Si no lo hicieres así, que la Nación y el Estado os lo demanden".
+
+Asimismo, los titulares de las secretarías, dependencias, entidades y demás organismos de la Administración Pública Estatal, realizarán un inventario sobre los bienes que se encuentren en poder de las secretarías, dependencias y entidades, debiéndose apegar a las disposiciones legales vigentes y a la normatividad que señale la Secretaría de Contraloría y Transparencia Gubernamental y la Secretaría de Finanzas y Administración, elaborando en todo caso, acta de entrega recepción, con las formalidades del caso.
+
+Los titulares de las secretarías, dependencias, entidades y demás organismos de la Administración Pública Estatal, serán responsables de la posesión, vigilancia y conservación de los bienes de propiedad estatal que administre, así como de la correcta aplicación de los recursos públicos.
 
 ###### ARTÍCULO 17.
 
@@ -179,7 +191,7 @@ V. Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial;
 
 VI. Secretaría de Seguridad Pública;
 
-VII. Secretaría de Educación (sic) Guerrero;
+VII. Secretaría de Educación Guerrero;
 
 VIII. Secretaría de Cultura;
 
@@ -193,7 +205,9 @@ XII. Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural;
 
 XIII. Secretaría de Medio Ambiente y Recursos Naturales;
 
-XIV. Secretaría de Asuntos Indígenas y Comunidades Afromexicanas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XIV. Secretaría de Asuntos Indígenas y Afromexicanos;
 
 XV. Secretaría de la Mujer;
 
@@ -211,19 +225,29 @@ B. Dependencias
 
 I. Jefe de la Oficina del Gobernador;
 
-II. Consejería Jurídica del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+II. Consejería Jurídica del Poder Ejecutivo del Estado
 
 III. Consejo de Políticas Públicas;
 
-IV. Coordinación General de Fortalecimiento Municipal;
+IV. (DEROGADA, P.O. 28 DE AGOSTO DE 2018)
 
-V. Representación del Poder Ejecutivo del Estado de Guerrero en el Distrito Federal, y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-VI. Procuraduría de Protección Ecológica del Estado.
+V. Representación del Poder Ejecutivo del Estado de Guerrero en la Ciudad de México; y
 
-El Procurador de Protección Ecológica será nombrado por el Pleno del Congreso del Estado por el voto de las dos terceras partes de los diputados presentes en sesión, de entre la terna de Ciudadanos profesionales del tema ambiental que someta a su consideración el Titular del Poder Ejecutivo Estatal, éste último podrá removerlo libremente. En el supuesto de que, a juicio del Congreso del Estado, ninguno de los integrantes de la terna propuesta por el Ejecutivo Estatal reunieran los requisitos y el perfil requeridos para el desempeño del cargo, el Ejecutivo presentará propuesta diferente a la original por una sola ocasión, y en caso de rechazarse hará el nombramiento de manera directa a favor de una persona distinta a las rechazadas. El Congreso del Estado deberá tomarle la protesta de ley y expedir el decreto correspondiente.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-El Procurador de Protección Ecológica, ejercerá las atribuciones previstas por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero, así como las demás leyes y reglamentos aplicables en la materia.
+VI. Procuraduría de Protección Ambiental.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+
+El Procurador de Protección Ambiental será nombrado por el Pleno del Congreso del Estado por el voto de las dos terceras partes de los diputados presentes en sesión, de entre la terna de ciudadanos profesionales del tema ambiental que someta a su consideración el Titular del Poder Ejecutivo Estatal, éste último podrá removerlo libremente. En el supuesto de que, a juicio del Congreso del Estado, ninguno de los integrantes de la terna propuesta por el Ejecutivo Estatal reunieran los requisitos y el perfil requeridos para el desempeño del cargo, el Ejecutivo presentará propuesta diferente a la original por una sola ocasión, y en caso de rechazarse hará el nombramiento de manera directa a favor de una persona distinta a las rechazadas. El Congreso del Estado deberá tomarle la protesta de ley y expedir el decreto correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+
+El Procurador de Protección Ambiental, además de las atribuciones previstas por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero, ejercerá las señaladas en el artículo 44 Bis de la presente Ley y demás leyes y reglamentos aplicables en la materia.
 
 ###### ARTÍCULO 19.
 
@@ -233,7 +257,9 @@ El despacho y resolución de todos los asuntos de las Secretarías y dependencia
 
 La Secretaría General de Gobierno es el órgano encargado de conducir, por delegación del Ejecutivo, la política interna del Estado, y le corresponde el despacho de los asuntos siguientes:
 
-I.- Conducir las relaciones del Poder Ejecutivo con otros Poderes del Estado y con los Ayuntamientos de la Entidad, así como, en lo procedente, con la Federación, el Distrito Federal y las demás Entidades Federativas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+I.- Conducir las relaciones del Poder Ejecutivo con otros poderes del Estado y con los ayuntamientos de la entidad, así como, en lo procedente, con la Federación, Ciudad de México y las demás entidades federativas;
 
 II.- Presentar ante el Congreso del Estado, las iniciativas de Leyes y Decretos del Ejecutivo, procurando su oportuna publicación;
 
@@ -247,9 +273,13 @@ VI.- Fomentar el desarrollo político e intervenir y ejercer las atribuciones qu
 
 VII.- Tramitar los nombramientos que, para el ejercicio de las funciones notariales, expida el Ejecutivo Estatal y llevar el libro de registro respectivo; autorizar los libros del protocolo, controlar el archivo de notarías; y, en general, ordenar inspecciones periódicas para vigilar el puntual ejercicio de la función notarial;
 
-VIII.- Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, incluyendo la implementación y operación de sistemas informáticos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-IX.- Tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los Magistrados de los Tribunales Superior de Justicia y de lo Contencioso Administrativo, de los Consejeros de la Judicatura Estatal correspondientes y, en general, de todo Tribunal Administrativo y Juntas Locales de Conciliación y Arbitraje del Estado;
+VIII.- Vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y del Comercio, incluyendo la implementación y operación de sistemas informáticos;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+IX.- Tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los Magistrados de los Tribunales Superior de Justicia y de Justicia Administrativa, de los Consejeros de la Judicatura Estatal correspondientes y, en general, de todo Tribunal Administrativo y juntas locales u órganos de Conciliación y Arbitraje del Estado
 
 X.- Otorgar a los Tribunales y a las autoridades judiciales el auxilio que soliciten para el debido ejercicio de sus funciones, coadyuvando a la recta y expedita impartición de justicia, así como promover las excitativas de justicia en los términos de ley;
 
@@ -257,7 +287,9 @@ XI.- Coordinar la comparecencia de servidores públicos del Poder Ejecutivo ante
 
 XII.- Tramitar y ejecutar por acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio de los bienes, en los casos de utilidad pública, conforme a la ley;
 
-XIII.- Realizar los actos necesarios para reivindicar la propiedad del Estado, por conducto del Fiscal General del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XIII.- Realizar los actos necesarios para reivindicar la propiedad del Estado, por conducto de la Consejería Jurídica del Poder Ejecutivo del Estado;
 
 XIV.- Expedir, previo acuerdo del Gobernador, las licencias, autorizaciones, concesiones y permisos, cuyo otorgamiento no corresponda a otras dependencias del Ejecutivo;
 
@@ -277,25 +309,33 @@ XXI.- Proveer la observancia y aplicación de las disposiciones agrarias que al 
 
 XXII.- Actuar como encargado del despacho en ausencia del Gobernador, dentro de los límites que establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado, salvo cuando aquél acuerde que otro servidor público llevará a cabo esta función;
 
-XXIII.- Integrar y administrar el Sistema Estatal de Archivos, incluido el histórico;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-XXIV.- Organizar los actos cívicos del Gobierno del Estado, en cumplimiento al calendario oficial vigente, así como promover en forma coordinada con las instancias federales y municipales competentes, la cultura cívica de la población;
+XXIII.- Vigilar la administración del Sistema Estatal de Archivos, incluido el histórico;
+
+XXIV.- (DEROGADA, P.O. 28 DE AGOSTO DE 2018)
 
 XXV.- Administrar y publicar el Periódico Oficial del Gobierno del Estado;
 
-XXVI.- Atender la formulación, regulación y conducción de la política de comunicación social del Gobierno del Estado y las relaciones con los medios masivos de información;
+XXVI.- (DEROGADA, P.O. 28 DE AGOSTO DE 2018)
 
 XXVII.- Establecer y conducir las políticas de las estaciones de radio y televisión propiedad del Gobierno del Estado y vincularlas a las políticas y programas de bienestar social, atendiendo los principios contenidos en los artículos 3o. y 9o. de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXVIII.- Realizar las tareas de ingeniería de transporte y de señalización de la vialidad en el Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-XXIX.- Otorgar, revocar o modificar las concesiones y permisos necesarios para la explotación de carreteras y vialidades de jurisdicción estatal, así como ejercer, en su caso, el derecho de reversión;
+XXVIII.- Coordinar la asesoría, asistencia, capacitación y apoyo a los Ayuntamientos;
 
-XXX.- Actuar como autoridad en materia de transporte y vialidad y cuidar el interés estatal en la misma;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-XXXI.- Regular la concesión y explotación del servicio público de transporte en las vialidades de jurisdicción estatal;
+XXIX.- Contribuir a la coordinación eficiente entre dependencias y entidades estatales y, entre éstas y los gobiernos federal y municipal;
 
-XXXII.- Reestructurar y autorizar, previo estudio, las tarifas del servicio público de transporte, sujeto a permiso o concesión del Gobierno del Estado, conjuntamente con la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXX.- Promover las acciones que sin afectar la competencia municipal, conlleven al desarrollo integral de los municipios de la entidad, coadyuvando así a la construcción del nuevo federalismo;
+
+XXXI.- (DEROGADA, P.O. 28 DE AGOSTO DE 2018)
+
+XXXII.- (DEROGADA, P.O. 28 DE AGOSTO DE 2018)
 
 XXXIII.- Proporcionar la atención adecuada y oportuna a las demandas que le presenten ciudadanos u organizaciones sociales y partidos políticos, en un marco de tolerancia, armonía y respeto, procurando mantener una relación efectiva y coordinada con los mismos en la solución de sus requerimientos, a través del diálogo, la concertación y el respaldo para facilitar su acceso puntual hacia los servicios públicos que brindan las dependencias y entidades del gobierno estatal, y
 
@@ -451,7 +491,9 @@ XXXI.- Intervenir en todas las operaciones en las cuales las entidades paraestat
 
 XXXII.- Llevar el registro de las cuentas corrientes de depósito de dinero u otro tipo de operaciones financieras del Gobierno del Estado;
 
-XXXIII.- Autorizar, conjuntamente con la Secretaría General de Gobierno, la reestructuración de las tarifas de los servicios públicos, particularmente, de transporte sujeto a permisos y autorizaciones;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXXIII. Autorizar, conjuntamente con el Jefe de la Oficina del Gobernador, la reestructuración de las tarifas de los servicios públicos, particularmente, de transporte sujeto a permisos y autorizaciones;
 
 XXXIV.- Establecer y operar un Sistema de Administración, Capacitación y Desarrollo de Personal de la Administración Pública Estatal con perspectiva de género, incluido lo relativo a las relaciones laborales;
 
@@ -513,7 +555,7 @@ II.- Coordinar las acciones que incidan en el abatimiento de los niveles de pobr
 
 III.- Coordinar, concertar y ejecutar programas y proyectos especiales para el desarrollo social y productivo de la Entidad, que garanticen una mejoría en los niveles de vida de los grupos de población más desprotegidos, con la participación que corresponda a las dependencias y entidades de la Administración Pública Estatal, Federal y Municipal, así como la de los sectores social y privado;
 
-IV.- En coordinación con la Secretaría de Educación (sic) Guerrero, organizar y operar el Sistema Estatal de Becas del Gobierno del Estado;
+IV.- En coordinación con la Secretaría de Educación Guerrero, organizar y operar el Sistema Estatal de Becas del Gobierno del Estado;
 
 V.- Coordinar las entidades paraestatales, órganos administrativos desconcentrados y establecimientos públicos de bienestar social, la asistencia social y de fomento al sector social empresarial;
 
@@ -645,7 +687,7 @@ XXXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### ARTÍCULO 26.
 
-La Secretaría de Educación (sic) Guerrero, es el órgano encargado de impulsar integralmente los programas de educación pública y privada en el Estado y le corresponde el despacho de los asuntos siguientes:
+La Secretaría de Educación Guerrero, es el órgano encargado de impulsar integralmente los programas de educación pública y privada en el Estado y le corresponde el despacho de los asuntos siguientes:
 
 I.- Formular y coordinar la política de desarrollo educativo del Gobierno del Estado, libre de toda forma de discriminación y orientada a promover la equidad, el respeto a los derechos humanos y las libertades democráticas;
 
@@ -687,9 +729,11 @@ XIX.- Promover de conformidad con las disposiciones legales aplicables y ante la
 
 XX.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 27.
 
-La Secretaría de Cultura, es el órgano rector de las políticas y acciones culturales del estado de Guerrero, y la encargada de conducir, formular, coordinar, ejecutar y evaluar dichas políticas y acciones, en concordancia con los planes y programas de desarrollo de la entidad, según los principios de participación social contemplados en la ley y en diversos ordenamientos nacionales y tratados internacionales, correspondiéndole el despacho de los asuntos siguientes:
+La Secretaría de Cultura, es el órgano rector de la política y acciones culturales y cívicas del Estado de Guerrero, y la encargada de conducir, formular, coordinar, ejecutar y evaluar dichas políticas y acciones, en concordancia con los planes y programas de desarrollo de la entidad, según los principios de participación social contemplados en la ley y en diversos ordenamientos nacionales y tratados internacionales, correspondiéndoles el despacho de los asuntos siguientes:
 
 I.- Garantizar el derecho de acceso a la cultura y las artes de los guerrerenses, de manera armónica y equitativa;
 
@@ -709,19 +753,25 @@ VII.- Conducir las relaciones del gobierno con los creadores artísticos, intér
 
 VIII.- Promover y difundir investigaciones y estudios para el reconocimiento y desarrollo de la cultura local, nacional e internacional, en sus expresiones artísticas, científicas y tecnológicas;
 
-IX.- Impulsar un Programa de Iniciación Artística, con el fin de fomentar el conocimiento de la literatura, las artes plásticas, la música, el teatro, el cine, las artes visuales y multimedia para niños, jóvenes y adultos, en coordinación con la Secretaría de Educación (sic) Guerrero y con la concurrencia de dependencias y entidades federales, estatales y municipales, así como de los sectores social y privado;
+IX.- Impulsar un Programa de Iniciación Artística, con el fin de fomentar el conocimiento de la literatura, las artes plásticas, la música, el teatro, el cine, las artes visuales y multimedia para niños, jóvenes y adultos, en coordinación con la Secretaría de Educación Guerrero y con la concurrencia de dependencias y entidades federales, estatales y municipales, así como de los sectores social y privado;
 
 X.- Fomentar y consolidar el sistema estatal de orquestas infantiles y juveniles, a través de núcleos comunitarios de aprendizaje musical;
 
-XI.- Integrar, coordinar y dirigir, con la participación de la Secretaría de Educación (sic) Guerrero, el establecimiento de bibliotecas, hemerotecas, archivos históricos, casas de cultura y museos, así como el Sistema de Educación Artística de nivel medio superior y superior en la entidad. La Secretaría de Cultura podrá crear fábricas de artes y oficios;
+XI.- Integrar, coordinar y dirigir, con la participación de la Secretaría de Educación Guerrero, el establecimiento de bibliotecas, hemerotecas, archivos históricos, casas de cultura y museos, así como el Sistema de Educación Artística de nivel medio superior y superior en la entidad. La Secretaría de Cultura podrá crear fábricas de artes y oficios;
 
-XII.- Implementar un Programa de Fomento de la Lectura y el libro, en coordinación con la Secretaría de Educación (sic) Guerrero y los ayuntamientos, con la participación del gobierno federal y los sectores social y privado, a través de ferias del libro, salas de lectura, brigadas culturales, red de bibliotecas, clubes de libros y el apoyo a la producción editorial independiente;
+XII.- Implementar un Programa de Fomento de la Lectura y el libro, en coordinación con la Secretaría de Educación Guerrero y los ayuntamientos, con la participación del gobierno federal y los sectores social y privado, a través de ferias del libro, salas de lectura, brigadas culturales, red de bibliotecas, clubes de libros y el apoyo a la producción editorial independiente;
 
 XIII.- Fomentar y difundir la creación artística, su producción y profesionalización, mediante becas, reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes y promotores culturales, otorgados a través de evaluaciones sustentadas en los principios de imparcialidad y equidad;
 
 XIV.- Promover el turismo cultural junto con la Secretaría de Turismo, a través de un circuito de festivales, ferias temáticas, certámenes, conciertos, exposiciones, convenciones y encuentros nacionales e internacionales. Asimismo, administrar, preservar, acrecentar el patrimonio cultural, arqueológico, histórico y artístico del Estado, así como levantar y actualizar el inventario del mismo;
 
 XV.- Impulsar la promoción y difusión de las Jornadas Alarconianas y de otros festivales culturales, en el ámbito estatal, nacional e internacional. Asimismo, a través de los medios masivos de comunicación se difundirán las acciones y programas que lleve a cabo esta Secretaría, a fin de contribuir a la formación de públicos para todas las expresiones culturales;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XXIX, VÉASE LITERALIDAD DEL DECRETO NO. 779, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2018, PÁGINA 14.]</small>
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XV (SIC).- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 XVI.- Establecer, en coordinación con las Secretarías de Turismo y de Medio Ambiente y Recursos Naturales Estatales, las políticas, normas técnicas y procedimientos de construcción, vigilancia y aplicación para la protección, conservación, rescate y restauración de zonas, bienes y monumentos arqueológicos, artísticos e históricos, así como de sitios, ciudades y pueblos de carácter histórico patrimonial, y de rutas y corredores turísticos, ecológicos y culturales, con el apoyo de la sociedad civil;
 
@@ -739,7 +789,9 @@ XXII.- Coordinarse y concertar acuerdos y convenios con los gobiernos federal, e
 
 XXIII.- Concertar convenios en el ámbito cultural internacional, para el intercambio y la cooperación con autores, organismos e instituciones, tanto públicos como privados, nacionales o extranjeros;
 
-XXIV.- Impulsar la participación de organizaciones civiles, grupos y colectivos guerrerenses, para la creación de proyectos, fundaciones, fondos, patronatos y similares, orientados a la promoción y divulgación de las políticas y acciones culturales a cargo de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXIV. Organizar los actos cívicos del Gobierno del Estado, en cumplimiento al calendario cívico vigente, así como promover en forma coordinada con las instancias federales y municipales competentes, la cultura cívica de la población; y
 
 XXV.- Estructurar y administrar transparente y equitativamente los recursos financieros, humanos y materiales de que disponga entre las diferentes áreas que la integran, de acuerdo a la normatividad existente para tal efecto, rindiendo cuentas de manera veraz y efectiva;
 
@@ -934,6 +986,8 @@ XXIV.- Vigilar la preservación de los recursos naturales renovables y desarroll
 XXV.- Establecer y operar un sistema de seguimiento y evaluación de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con las dependencias correspondientes;
 
 XXVI.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 32.
 
@@ -1133,7 +1187,7 @@ XIX. Organizar grupos de jóvenes para la gestión y constitución de empresas q
 
 XX. Fomentar la creación y conservación de fuentes de empleo y constituir la bolsa de trabajo de la juventud;
 
-XXI. Operar en coordinación con la Secretaría de Educación (sic) Guerrero, el programa de becas escolares del nivel medio superior y superior, para apoyar en su formación profesional a la juventud;
+XXI. Operar en coordinación con la Secretaría de Educación Guerrero, el programa de becas escolares del nivel medio superior y superior, para apoyar en su formación profesional a la juventud;
 
 XXII. Convenir con las dependencias y entidades de la Administración Pública Federal y Estatal, así como con la iniciativa privada, para el eficaz cumplimiento de sus fines;
 
@@ -1317,7 +1371,7 @@ XXXI.- Los demás que le fijen las leyes y reglamentos del Estado.
 
 ###### ARTÍCULO 39.
 
-(sic) La Secretaría de Contraloría y Transparencia Gubernamental le corresponde el despacho de los asuntos siguientes:
+La Secretaría de Contraloría y Transparencia Gubernamental le corresponde el despacho de los asuntos siguientes:
 
 I. Proponer del registro, cuando así se requiera a los auditores externos de las secretarías, dependencias y entidades de la Administración Pública Estatal, así como normar y controlar su desempeño;
 
@@ -1381,9 +1435,11 @@ XXIX. Ejercer las facultades que la Constitución Política del Estado Libre y S
 
 XXX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 40.
 
-El Jefe de la Oficina del Gobernador, coordinará los trabajos del secretario particular, secretario privado, secretario auxiliar; coordinación de giras, responsable de medios de comunicación; coordinador de audiencias; coordinador administrativo, jefe de escoltas, jefe de ayudantes, equipo informático y demás personal asignado, correspondiéndole el despacho de los siguientes asuntos:
+El Jefe de la Oficina del Gobernador, coordinará los trabajos del secretario particular, secretario privado, secretario auxiliar; coordinación de giras, responsable de medios de comunicación; coordinador de audiencias; coordinador administrativo, la Comisión Técnica de Transporte y Vialidad, jefe de escoltas, jefe de ayudantes, equipo informático y demás personal asignado, correspondiéndole el despacho de los siguientes asuntos:
 
 I. Dar seguimiento puntual a las órdenes y acuerdos del Gobernador y solicitar los informes que correspondan;
 
@@ -1399,13 +1455,17 @@ VI. Custodiar, cuidar y resguardar la documentación e información propia de la
 
 VII. Atender todo lo relacionado con las peticiones y documentación dirigidas al Gobernador, registrándolas y turnándolas para asegurar su debida atención por parte de las áreas que correspondan;
 
-VIII. Mantener las relaciones interinstitucionales e intergubernamentales de la Oficina del Gobernador con las Secretarías, dependencias y entidades de la Administración Pública Estatal, Organismos Públicos Descentralizados del Estado, Proyectos Prioritarios y, en general, con otras instituciones del sector público, privado y social;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+VIII. Mantener las relaciones interinstitucionales e intergubernamentales con las secretarías, dependencias y entidades de la Administración Pública Estatal y en general, con otras instituciones del sector público, privado y social;
 
 IX. Diseñar el calendario de giras y asistencia a actividades y eventos públicos del Gobernador, tanto en el interior del país como en el extranjero;
 
 X. Colaborar en la organización de eventos que promueva el Gobernador, a efecto de garantizar certeza, seguridad, oportunidad, eficacia y control interno;
 
-XI. Coordinar, conjuntamente con los Jefes de Escolta y de Ayudantes, en su caso, con el Representante del Poder Ejecutivo del Estado de Guerrero en el Distrito Federal, la logística de las giras y reuniones de trabajo del Gobernador, y la asistencia de éste a eventos públicos, tanto en el interior del Estado y del país, como en el extranjero;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XI. Coordinar, conjuntamente con los Jefes de Escolta y de Ayudantes, en su caso, con el Representante del Poder Ejecutivo del Estado de Guerrero en la Ciudad de México, la logística de las giras y reuniones de trabajo del Gobernador, y la asistencia de éste a eventos públicos, tanto en el interior del Estado y del país, como en el extranjero;
 
 XII. Conducir, coordinar y evaluar las tareas de comunicación social de la Oficina del Gobernador y coordinar en esta materia, las acciones de las Secretarías, dependencias y entidades de la Administración Pública Estatal;
 
@@ -1437,7 +1497,37 @@ XXV. Supervisar el oportuno mantenimiento preventivo y correctivo del equipo inf
 
 XXVI. Mantener la integridad de datos y sistemas de información de la Oficina del Gobernador, y
 
-XXVII. Las demás que de manera expresa le confiera el Gobernador o le encomienden expresamente otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXVII. Regular la concesión y explotación del servicio público de transporte en las vialidades de jurisdicción estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXVIII. Autorizar, conjuntamente con la Secretaría de Finanzas y Administración, la restructuración de las tarifas de los servicios públicos, particularmente, de transporte sujeto a permisos y autorizaciones.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXVIII (SIC). Atender la formulación, regulación y conducción de la política de comunicación social del Gobierno del Estado y las relaciones con los medios masivos de información;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXIX. Realizar las tareas de ingeniería de transporte y de señalización de la vialidad en el Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXX. Otorgar, revocar o modificar las concesiones y permisos necesarios para la explotación de carreteras y vialidades de jurisdicción estatal, así como ejercer en su caso, el derecho de reversión;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXXI. Actuar como autoridad en materia de transporte y vialidad y cuidar el interés estatal en la misma;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXXII. Reestructurar y autorizar, previo estudio, las tarifas del servicio público de transporte, sujeto a permiso o concesión del Gobierno del Estado, conjuntamente con la Secretaría de Finanzas y Administración; y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXXIII. Las demás que de manera expresa le confiera el Gobernador o le encomienden expresamente otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 41.
 
@@ -1499,41 +1589,25 @@ Así mismo, dicho consejo contará con los comités internos y el personal técn
 
 ###### ARTÍCULO 43.
 
-La Coordinación General de Fortalecimiento Municipal, es el órgano encargado de proporcionar asesoría, asistencia, capacitación y apoyo a los Ayuntamientos; contribuir a la coordinación eficiente entre dependencias y entidades estatales y, entre éstas y los gobiernos federal y municipal; promover las acciones que sin afectar la competencia municipal, conlleven al desarrollo integral de los municipios de la entidad, coadyuvando así a la construcción del nuevo federalismo y le corresponde el despacho de los asuntos siguientes:
+(DEROGADO, P.O. 28 DE AGOSTO DE 2018)
 
-I.- Proporcionar asistencia y capacitación técnica en materia financiera, jurídica, hacendaria, de planeación, administrativa y de obras y servicios públicos a los gobiernos municipales, así como coordinar las que presten las distintas dependencias y entidades en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
-
-II.- Participar en coordinación con la Secretaría de Planeación y Desarrollo Regional, en la planeación y programación de obras e inversiones tendientes a promover el desarrollo integral de los Municipios;
-
-III.- Coadyuvar con la Secretaría de Planeación y Desarrollo Regional en el seguimiento de los programas federales, conforme a las leyes y acuerdos de coordinación que se establezcan;
-
-IV.- Realizar en coordinación con Instituciones de Educación Media y Superior, los estudios Técnicos para promover políticas públicas que impulsen la descentralización en el marco del nuevo federalismo, así como establecer el centro de documentación e información, que permita mantener actualizada la documentación e información relativa a la vida del Municipio; impulsando foros y otras actividades académicas, tendientes al desarrollo integral del mismo;
-
-V.- Proporcionar asistencia para la elaboración de proyectos de inversión pública en obras y servicios, así como los tendientes a la modernización y equipamiento para mejorar la prestación de los servicios públicos municipales;
-
-VI.- Proporcionar asistencia a los Ayuntamientos sobre la normatividad y operación en materia de adquisiciones y obras públicas;
-
-VII.- Apoyar en coordinación con la Secretaría de Desarrollo Social del Gobierno Federal, la Secretaría de Planeación y Desarrollo Regional, y la Secretaría de Contraloría y Transparencia Gubernamental, a los Consejos de Desarrollo Municipal en su formación y funcionamiento;
-
-VIII.- Asesorar a los Ayuntamientos en el cumplimiento de las disposiciones contenidas en la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero;
-
-IX.- Realizar estudios en materia jurídica que conduzcan a proporcionar a los Ayuntamientos los elementos técnicos que permitan adecuar el marco jurídico del Municipio y promover la aplicación de los diversos reglamentos municipales;
-
-X.- Coadyuvar con la Secretaría General de Gobierno, a través del Consejo Estatal de Seguridad Pública, en lo relativo a la instalación de los Consejos Municipales de Seguridad Pública;
-
-XI.- Promover el establecimiento de mecanismos de coordinación y cooperación entre los órganos de Gobierno Federal y Estatal, para el fortalecimiento de los Municipios, y
-
-XII.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 44.
 
-La Representación del Poder Ejecutivo del Estado de Guerrero en el Distrito Federal, es la oficina de vinculación y relaciones con autoridades y la ciudadanía en el Distrito Federal, correspondiéndole el despacho de los asuntos siguientes:
+La Representación del Poder Ejecutivo del Estado de Guerrero en la Ciudad de México, es la oficina de vinculación y relaciones con autoridades y la ciudadanía en la Ciudad de México, correspondiéndole el despacho de los asuntos siguientes:
 
-I. Representar al Gobernador en todos los actos que él determine, que hayan de realizarse en la Ciudad de México, Distrito Federal;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-II. Promover al Estado de Guerrero y a su gobierno, realizando las gestiones necesarias ante organismos públicos y privados asentados en el Distrito Federal;
+I. Representar al Gobernador en todos los actos que él determine, que hayan de realizarse en la Ciudad de México;
 
-III. Establecer en coordinación con el Jefe de la Oficina del Gobernador, el vínculo directo y permanente de comunicación, con las dependencias y entidades de la Administración Pública Federal, Estatales y Municipales así como el Gobierno del Distrito Federal;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+II. Promover al Estado de Guerrero y a su gobierno, realizando las gestiones necesarias ante organismos públicos y privados asentados en la Ciudad de México;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+III. Establecer en coordinaciones con el Jefe de la Oficina del Gobernador, el vínculo directo y permanente de comunicación, con las secretarías, dependencias y entidades de la Administración Pública federal, estatales y municipales, así como el Gobierno de la Ciudad de México;
 
 IV. Recibir, analizar y turnar a las dependencias y entidades de la Administración Pública Estatal, la información, documentación y textos que entregan las dependencias y entidades de la Administración Pública Federal, estableciendo recomendaciones para el fortalecimiento de las políticas públicas en el Estado;
 
@@ -1557,9 +1631,13 @@ XIII. Apoyar al Gobernador en la promoción y coordinación de programas y activ
 
 XIV. Apoyar la promoción de inversiones productivas para el Estado, provenientes del sector público, social y privado;
 
-XV. Apoyar a las dependencias y entidades del Estado, en las actividades y participaciones que tengan en foros, congresos, seminarios, conferencias y otros eventos que se realicen en el Distrito Federal;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-XVI. Contribuir con las dependencias y entidades de la Administración Pública Estatal, en la organización de ferias, exposiciones, certámenes y eventos promocionales de los sectores industrial, minero, artesanal, comercial y de servicios que se realicen en el Distrito Federal;
+XV. Apoyar a las secretarías, dependencias y entidades del Estado, en las actividades y participaciones que tengan en foros, congresos, seminarios, conferencias y otros eventos que se realicen en la Ciudad de México;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XVI. Contribuir con las secretarías, dependencias y entidades de la Administración Pública Estatal, en la organización de ferias, exposiciones, certámenes y eventos promocionales de los sectores industrial, minero, artesanal, comercial y de servicios que se realicen en la Ciudad de México;
 
 XVII. Contribuir a la promoción de la actividad turística del Estado;
 
@@ -1567,11 +1645,61 @@ XVIII. Llevar a cabo el programa de relaciones públicas a efecto de promover la
 
 XIX. Apoyar a funcionarios estatales durante sus visitas oficiales a la Ciudad de México;
 
-XX. Desarrollar las actividades de logística y protocolo de la agenda de trabajo del Gobernador en la Ciudad de México, D.F. y, en su caso, actividades con los servicios de apoyo de los titulares de la Administración Pública Federal para la atención del Gobernador;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
 
-XXI. Establecer y mantener el enlace con las comunidades y organizaciones guerrerenses radicadas en el Distrito Federal y zonas conurbadas, y
+XX. Desarrollar las actividades de logística y protocolo de la agenda de trabajo del Gobernador en la Ciudad de México y en su caso, actividades con los servicios de apoyo de los titulares de la Administración Pública Federal para la atención del Gobernador;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+
+XXI. Establecer y mantener el enlace con las comunidades y organizaciones guerrerenses radicadas en la Ciudad de México y zonas conurbadas, y
 
 XXII. Las demás que le confiera el Gobernador.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 44 Bis.
+
+La Procuraduría de Protección Ambiental del Estado, es el órgano especializado en la procuración de la justicia ambiental, encargado de vigilar, en el ámbito de su competencia, el cumplimiento de la legislación ambiental en el Estado de Guerrero, para efecto de preservar y proteger el medio ambiente, correspondiéndole las siguientes atribuciones:
+
+I. Observar y hacer observar en el ámbito de su competencia, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales (SEMAREN), la exacta aplicación de las normas y reglamentos federales, estatales y municipales en materia de protección al ambiente, de preservación y restauración del equilibrio ecológico y de los recursos naturales, en coordinación con el gobierno federal, los ayuntamientos y la participación de los sectores social y privado;
+
+II. Realizar acciones de inspección, vigilancia y protección en las áreas naturales protegidas de la entidad para verificar el cumplimiento de las disposiciones legales aplicables;
+
+III. Conformar un cuerpo de control y vigilancia de los recursos naturales y ecológicos con la participación interinstitucional y de todos los sectores de la sociedad, preferentemente a nivel comunitario y municipal;
+
+IV. Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la normatividad ambiental estatal, y dar seguimiento a las mismas;
+
+V. Brindar asesoría a las secretarías, dependencias y entidades de la Administración Pública Estatal en materia de verificación y aplicación de las leyes ambientales y, en su caso, previa solicitud, a los ayuntamientos de la entidad;
+
+VI. Fomentar la cultura ambiental y el respeto a la legislación que incida en la prevención y preservación del medio ambiente;
+
+VII. Coordinar el control de la aplicación de la normatividad ambiental con otras autoridades estatales, federales y municipales;
+
+VIII. Diseñar y operar, con la participación y coordinación de los sectores público, privado y social, los instrumentos económicos jurídicos para la captación de recursos financieros y materiales;
+
+IX. Promover la participación de las autoridades estatales y municipales, de universidades, centros de investigación y particulares para que coadyuven en el eficaz ejercicio de su función;
+
+X. Salvaguardar los intereses de la población y fomentar su participación en el estímulo y vigilancia del cumplimiento de las disposiciones jurídicas ambientales, así como de brindar asesoría en asuntos de protección y defensa del ambiente y de los recursos naturales, dentro del ámbito de su competencia;
+
+XI. Atender las quejas y denuncias ciudadanas presentadas con motivo de las afectaciones en contra del medio ambiente y los recursos naturales de conformidad a las leyes ambientales, en los asuntos que sean de su competencia;
+
+XII. Iniciar, substanciar y resolver los procedimientos administrativos de inspección y vigilancia imponiendo, en su caso, las medidas y sanciones correspondientes, así como de los recursos administrativos que le competan;
+
+XIII. Suscribir convenios o acuerdos de coordinación y colaboración con otros niveles de gobierno en el ámbito de sus atribuciones, previa autorización del Gobernador;
+
+XIV. Elaborar y proponer al Ejecutivo del Estado, en el ámbito de su competencia, las iniciativas y reformas a las leyes y reglamentos, con respecto a la protección del medio ambiente y los recursos naturales de la entidad;
+
+XV. Expedir y reformar su Reglamento Interior, aprobado que sea por el Ejecutivo del Estado;
+
+XVI. Elaborar su Programa Operativo Anual (POA), como principal instrumento de planeación estableciendo de manera pormenorizada las acciones y compromisos anuales conforme a sus facultades;
+
+XVII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus atribuciones, de conformidad con las disposiciones jurídicas y administrativas, previa autorización del Gobernador del Estado;
+
+XVIII. Remitir mensualmente su informe de actividades al Gobernador del Estado;
+
+XIX. Participar en el Subcomité Sectorial de Ecología y Cambio Climático del Estado, de conformidad con la normatividad aplicable, así como, en la vigilancia del cumplimiento de la legislación estatal asociada al cambio climático; y
+
+XX. Las demás que le señalen las leyes y ordenamientos legales, vigentes en el Estado o que le confiera el Gobernador del Estado
 
 ### CAPÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1764,3 +1892,21 @@ SEXTO. Dentro de los noventa días a la entrada en vigor del presente Decreto, l
 SÉPTIMO. Las facultades con que cuentan los órganos internos de control de las secretarías, dependencias y entidades paraestatales que por virtud del presente Decreto pasan a formar parte de la Secretaría de Contraloría y Transparencia Gubernamental, continuarán vigentes en términos de los reglamentos interiores que los rigen, hasta en tanto se expida la normatividad correspondiente.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 779 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 08".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los asuntos que con motivo de esta Ley deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la Dependencia que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables los cuales tendrán que atenderse.
+
+TERCERO. Cuando en esta Ley se dé denominación nueva o distinta o se instituya alguna dependencia cuyas funciones estén establecidas por la ley anterior u otras leyes especiales, dichas atribuciones se entenderán concedidas a la dependencia que determine esta ley.
+
+CUARTO. Los titulares de las dependencias y entidades de la Administración Pública Estatal a los que se refieren esta Ley, deberán presentar dentro de los noventa días siguientes a la entrada en vigor, los proyectos legales y reglamentos para armonizar el marco jurídico estatal.
+
+QUINTO. En tanto se expidan los nuevos ordenamientos que (sic) regular los aspectos sustantivos y adjetivos de este mandato seguirán aplicándose en todo lo que no se oponga a este Decreto, tanto las disposiciones legales como reglamentarias que regulaban los actos previstos en la Ley que se propone.
+
+SEXTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales conducentes.
+
+SÉPTIMO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para su conocimiento general.
