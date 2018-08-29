@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-estatal-del-agua-del-82436"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-20"
-last_updated: "2011-07-20"
+last_updated: "2018-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DEL AGUA, DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DEL AGUA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DEL AGUA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 20 de julio de 2011.
 
@@ -550,3 +552,23 @@ Artículo Tercero.- Conforme a lo dispuesto por el artículo 8°, de la Ley Org�
 Dado en la Sala de Juntas del Instituto Estatal del Agua, en la ciudad de Tuxtla Gutiérrez, Chiapas; a dieciséis de febrero de dos mil once.
 
 Integrantes de la Junta de Gobierno: Presidente.- José Cuauhtémoc Ordaz Gordillo, Secretario de Infraestructura.- Secretario Técnico.- Felipe Antonio Constantino Ricaldi, Jefe de la Unidad de Apoyo Administrativo.- Vocales: Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- Lourdes Adriana López Moreno, Secretaria de Medio Ambiente, Vivienda e Historia Natural.- José Ángel del Valle Malina, Secretario del Campo.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "PUB. NO. 2893-A-2018 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DEL AGUA".]
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Instituto Estatal del Agua, publicado en el Periódico Oficial del Estado, número 314, Tomo III, de fecha miércoles 20 de julio de 2011, mediante Publicación número 2997-A-2011; así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Director General del Instituto Estatal del Agua, resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los órganos administrativos, el Director General del Instituto Estatal del Agua, resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización del Instituto, deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la entrada en vigor del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- En cumplimiento a lo dispuesto por los artículos 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas, y 13 fracción V de la Ley Estatal del Periódico Oficial, publíquese el presente Reglamento Interior en el Periódico Oficial.
