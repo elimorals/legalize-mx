@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2018-08-15"
+last_updated: "2018-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2018.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1173,23 +1175,43 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 
 ### CAPÍTULO I BIS. DISCRIMINACION
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2018)</small>
 
-182 Bis.- Se aplicará sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientos días multa, al que por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas o de cualquier otra índole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+182 Bis.- Se aplicará sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientos días multa, al que por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas, apariencia física, modificaciones estéticas corporales o de cualquier otra indole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
 
 I. Niegue a una persona un servicio o una prestación a la que tenga derecho;
 
-II. Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo; o límite un servicio de salud, principalmente a la mujer en relación con el embarazo; o
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2018)</small>
 
-III. Niegue o restrinja derechos educativos.
+II. Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo; o limite un servicio de salud, principalmente a la mujer en relación con el embarazo;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2018)</small>
+
+III. Niegue o restrinja las oportunidades de empleo y los consiguientes derechos laborales, principalmente por razón de apariencia física o modificaciones estéticas corporales, o
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+IV. Niegue o restrinja derechos educativos.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación a que tenga derecho, se le aumentará en una mitad la pena prevista en el primer párrafo del presente artículo, y además, se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
 
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
 No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
 
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
 Asimismo, se incrementará la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 Este delito se perseguirá por querella.
 
@@ -3736,3 +3758,9 @@ P.O. 15 DE AGOSTO DE 2018.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 29 DE AGOSTO DE 2018.
+
+> <small>[N. DE E. EL "DECRETO NO. 446.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES LEGALES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS Y DE LA LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS".]</small>
+
+[LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE ZACATECAS.]
