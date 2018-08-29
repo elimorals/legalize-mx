@@ -4,7 +4,7 @@ identifier: "COL-ley-de-mejora-regulatoria-para-el-estado-de-colima-82126"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-02"
-last_updated: "2013-10-26"
+last_updated: "2018-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE MEJORA REGULATORIA PARA EL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE COLIMA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 29 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2018 (ABROGADA).
 
 Ley Publicada en el Suplemento número 3 del Periódico Oficial del estado de Colima, el sábado 2 de julio de 2011
 
@@ -1506,3 +1508,23 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. E
 P.O. 26 DE OCTUBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 538 POR EL QUE SE APRUEBA EXPEDIR LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE COLIMA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga la Ley de Mejora Regulatoria expedida por Decreto 340 publicado en el Periódico Oficial "El Estado de Colima" el 02 de julio de 2011.
+
+TERCERO. El Consejo Estatal deberá ser instalado a los noventa días naturales siguientes a la entrada en vigor de la presente Ley.
+
+CUARTO. El Gobernador y los Ayuntamientos estarán facultados para emitir los reglamentos, acuerdos, decretos, lineamientos y manuales necesarios para proveer en la esfera administrativa la exacta observancia de las disposiciones contenidas en la presente Ley.
+
+QUINTO. La Estrategia Estatal será aprobada por el Consejo Estatal dentro del año siguiente de que sea emitida la Estrategia Nacional.
+
+SEXTO. El Plan Estatal de Mejora Regulatoria 2018-2021 continuará su vigencia hasta en tanto se emita la Estrategia Estatal.
+
+SÉPTIMO. Los procesos, programas y acciones iniciados con anterioridad a la entrada en vigor de la presente Ley se solventarán y resolverán de conformidad con las disposiciones vigentes al momento de su inicio.
+
+OCTAVO. Las disposiciones vigentes que no se contrapongan con lo establecido en esta Ley, seguirán surtiendo efectos.
