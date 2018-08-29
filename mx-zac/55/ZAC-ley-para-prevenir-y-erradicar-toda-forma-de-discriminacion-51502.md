@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-prevenir-y-erradicar-toda-forma-de-discriminacion-5150
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-29"
-last_updated: "2013-03-23"
+last_updated: "2018-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACION EN EL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL SUPLEMENTO DEL 29 DE SEPTIEMBRE DE 2018 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de julio de 2006.
 
@@ -57,15 +59,19 @@ El objeto de la presente Ley es prevenir y erradicar toda forma de discriminaci�
 
 Asimismo, la presente Ley promueve la igualdad de oportunidades y de trato, a efecto de que sean reales, efectivas y permanentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 3.
 
-Queda prohibida toda forma de discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias religiosas, la migración o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda forma de discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias religiosas, la migración, la apariencia física, modificaciones estéticas corporales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que deben combatirse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta Ley se entiende por discriminación toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, el embarazo, la lengua, las ideologías o creencias religiosas, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra, tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas, y la igualdad real de oportunidades de los individuos.
+Para los efectos de esta Ley se entiende por discriminación toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, el embarazo, la lengua, las ideologías o creencias religiosas, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, la apariencia física, modificaciones estéticas corporales o cualquier otra, tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas, y la igualdad real de oportunidades de los individuos.
 
 Se considera discriminatoria toda ley o acto que, siendo de aplicación idéntica para todas las personas, produzca consecuencias perjudiciales para las personas o grupos en situación de vulnerabilidad.
 
@@ -900,3 +906,7 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 29 DE AGOSTO DE 2018.
+
+> <small>[N. DE E. EL “DECRETO NO. 446.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES LEGALES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS Y DE LA LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE ZACATECAS.]</small>
