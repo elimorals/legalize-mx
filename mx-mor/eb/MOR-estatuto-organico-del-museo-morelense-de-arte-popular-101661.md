@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-museo-morelense-de-arte-popular-101661"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-02"
-last_updated: "2016-07-20"
+last_updated: "2018-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL MUSEO MORELENSE DE ARTE POPULAR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2018.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 2 de julio de 2014.
 
@@ -53,31 +55,39 @@ Para efectos del presente Estatuto Orgánico se entenderá por:
 
 I. Arte Popular, a los objetos elaborados en una Comunidad, para el beneficio de los componentes de su Pueblo, tales como satisfactores para su uso cotidiano, ceremonias, fiestas y ritos;
 
-II. Coordinador, a la persona Titular de la Coordinación del MMAPO;
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2018)</small>
 
-III. Decreto, al Decreto número mil trescientos noventa y nueve, por el que se crea el Organismo Público Descentralizado denominado Museo Morelense de Arte Popular;
+II. Comisario Público, a la persona titular del Órgano Interno de Control, designado en términos de la Ley Orgánica;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2018)</small>
 
-IV. Direcciones, a la Dirección de Planeación y a la Dirección de Exposiciones del MMAPO;
+III. Coordinador, a la persona Titular de la Coordinación del Museo Morelense de Arte Popular;
 
-V. Estatuto, al presente Estatuto Orgánico;
+IV. Decreto, al Decreto número mil trescientos noventa y nueve, por el que se crea el Organismo Público Descentralizado denominado Museo Morelense de Arte Popular;
 
-VI. Junta Directiva, al Órgano de Gobierno del MMAPO;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2018)</small>
 
-VII. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado de Morelos;
+V. Direcciones, a la Dirección de Planeación y a la Dirección de Exposiciones del Museo Morelense de Arte Popular;
 
-VIII. MMAPO, al Museo Morelense de Arte Popular;
+VI. Estatuto, al presente Estatuto Orgánico;
 
-IX. Manuales Administrativos, a los Manuales de Organización, y de Políticas y Procedimientos del MMAPO;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2018)</small>
 
-X. Presidente, a la persona titular de la presidencia de la Junta Directiva;
+VII. Junta Directiva, al Órgano de Gobierno del Museo Morelense de Arte Popular;
 
-XI. Secretario Técnico, a la persona titular de la Secretaría Técnica de la Junta Directiva;
+VIII. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
-XII. Subcomité de Adquisiciones, al Subcomité de Adquisiciones, Arrendamientos y Servicios del MMAPO, como Órgano Interno regulador de sus adquisiciones, arrendamientos y servicios, y
+IX. MMAPO, al Museo Morelense de Arte Popular;
 
-XIII. Unidad de Exhibición, al espacio de conservación, exhibición, difusión y comercialización del Arte Popular.
+X. Manuales Administrativos, a los Manuales de Organización, y de Políticas y Procedimientos del MMAPO;
+
+XI. Presidente, a la persona titular de la presidencia de la Junta Directiva;
+
+XII. Secretario Técnico, a la persona titular de la Secretaría Técnica de la Junta Directiva;
+
+XIII. Subcomité de Adquisiciones, al Subcomité de Adquisiciones, Arrendamientos y Servicios del MMAPO, como Órgano Interno regulador de sus adquisiciones, arrendamientos y servicios, y
+
+XIV. Unidad de Exhibición, al espacio de conservación, exhibición, difusión y comercialización del Arte Popular.
 
 ### CAPÍTULO II. DE LA NATURALEZA, OBJETO Y ATRIBUCIONES DEL MMAPO
 
@@ -363,9 +373,11 @@ XVII. Coordinar la asignación de recursos a los Programas Desarrollando su Eval
 
 ### CAPÍTULO VII. DEL ÓRGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 22.
 
-El Órgano de Vigilancia del MMAPO estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, el cual formará parte de la estructura orgánica del MMAPO y sus actividades tendrán como finalidad apoyar la función directiva y promover el mejoramiento de gestión del mismo; sus facultades y obligaciones se realizarán de acuerdo a las instrucciones que dicte la Secretaría de la Contraloría del Estado de Morelos conforme a la Ley de la materia, así como las que se establecen en la Ley Orgánica y el Decreto.
+El Órgano Interno de Control del MMAPO estará integrado por un Comisario Público, designado por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en términos de los artículos 67 y 69 de la Ley Orgánica.
 
 ### CAPÍTULO VIII. DE LAS SUPLENCIAS
 
@@ -417,11 +429,15 @@ Las funciones, forma de sesionar, y demás operatividad del Subcomité de Adquis
 
 ### CAPÍTULO X. DE LAS RESPONSABILIDADES
 
-> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 29.
 
-Los servidores públicos del MMAPO, serán responsables del desempeño de sus funciones, en términos de lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos y demás disposiciones jurídicas aplicables en la materia.
+Los servidores públicos del MMAPO serán responsables del desempeño de sus funciones, en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Morelos y demás normativa aplicable en la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2018)</small>
+
+Artículo 29 BIS. La responsabilidad administrativa a la que está sujeto cada servidor público, llegado el caso de que se determine la misma, será personal y directa proporcional a sus atribuciones y competencia, por lo que para su determinación deberán considerarse las funciones y nivel del servidor público de que se trate, en términos de los Manuales Administrativos del MMAPO, en el entendido de que el Manual de Políticas y Procedimientos deberá publicarse, al efecto, en el Periódico Oficial “Tierra y Libertad”.
 
 ### CAPÍTULO XI. DEL RÉGIMEN LABORAL
 
@@ -504,3 +520,17 @@ CUARTA. Dentro de un plazo de 60 días hábiles posteriores a la entrada en vigo
 QUINTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; 11, fracción XXXV, y 18, fracción XXVI, del Reglamento Interior de la Secretaría de Gobierno; el Museo Morelense de Arte Popular, dentro de un plazo de 05 días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá informar a la Secretaría de Gobierno del Poder Ejecutivo Estatal, las modificaciones realizadas por virtud de este instrumento.
 
 SEXTA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto serán resueltos por la Junta Directiva del Museo Morelense de Arte Popular.
+
+P.O. 29 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR".]
+
+PRIMERA. La presente reforma al Estatuto Orgánico iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+SEGUNDA. Inscríbase la presente reforma del Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto en los artículos 78, penúltimo párrafo y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Estatuto Orgánico.
+
+CUARTA. Dentro de un plazo de 90 días hábiles posteriores a la entrada en vigor del presente Estatuto, el MMAPO podrá actualizar sus Manuales Administrativos, así como los descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto esto sucede, se mantendrán vigentes los actuales, en lo que no se opongan al presente Estatuto Orgánico.
+
+Dentro de un plazo de 15 días hábiles posteriores a la actualización que, en su caso, se realice del Manual de Políticas y Procedimientos, o bien, cuando no se actualice contados a partir de la vigencia de este instrumento, el MMAPO deberá gestionar su publicación en el Periódico Oficial "Tierra y Libertad”, en coordinación con la Secretaría de Administración.
