@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-21"
-last_updated: "2017-02-22"
+last_updated: "2018-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 21 de junio de 2014.
 
@@ -450,6 +450,10 @@ VI. Coadyuvar en las actividades de reutilización, reciclado y biodegradación 
 VII. Participar en eventos educativos sobre residuos.
 
 VIII. Cumplir con lo establecido en la normatividad federal, estatal y municipales en materia de residuos.
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2018)</small>
+
+IX. Utilizar únicamente materiales biodegradables en las bolsas plásticas que se distribuyan al consumidor final para transportación, carga o traslado de mercancía en establecimientos comerciales.
 
 ###### ARTÍCULO 22.
 
@@ -1042,3 +1046,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 29 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0838/2018 XIV P.E., POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 21 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al año posterior al de su publicación en el Periódico Oficial del Estado.
