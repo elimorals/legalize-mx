@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-civil-para-el-estado-de-nuevo-leon-22837"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-22"
-last_updated: "2017-06-21"
+last_updated: "2018-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de enero de 1997.
 
@@ -55,7 +57,9 @@ II. Alto Riesgo.- Al inminente o muy probable ocurrencia de una emergencia o des
 
 III. Apoyo.- Al conjunto de actividades administrativas destinadas a la prevención, el auxilio y la recuperación de la población ante situaciones de emergencia o desastre;
 
-IV. Auxilio.- Las acciones destinadas primordialmente a salvaguardar la vida, salud y bienes de las personas; la planta productiva; y a preservar los servicios públicos y el medio ambiente, ante la presencia de desastres. Estas acciones son de: alertamiento; evaluación de daños; planes de emergencia; seguridad; búsqueda, salvamento y asistencia; servicios estratégicos, equipamiento y bienes; salud; aprovisionamiento; comunicación social de emergencia; reconstrucción inicial y vuelta a la normalidad;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2018)</small>
+
+IV.- Auxilio.- Las acciones destinadas primordialmente a salvaguardar la integridad física, salud y bienes de las personas; la planta productiva; y a preservar los servicios públicos y el medio ambiente, ante la presencia de desastres. Estas acciones son de: alertamiento; evaluación de daños; planes de emergencia; seguridad; búsqueda, salvamento y asistencia; servicios estratégicos, equipamiento y bienes; salud; aprovisionamiento; comunicación social de emergencia; reconstrucción inicial y vuelta a la normalidad;
 
 V. Damnificado.- A la persona que sufre en su integridad física o en sus bienes daños de consideración, provocados directamente por los efectos de un desastre; también se considerarán damnificados a sus dependientes económicos. Es aplicable este concepto, a la persona que por la misma causa haya perdido su ocupación o empleo, requiriendo consecuentemente del apoyo gubernamental para sobrevivir en condiciones dignas;
 
@@ -69,11 +73,21 @@ IX. Grupos Voluntarios.- A las organizaciones y asociaciones legalmente constitu
 
 X. Prevención.- A las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos, así como para evitar desastres y mitigar su impacto destructivo sobre la vida, la salud, bienes de las personas, la planta productiva, los servicios públicos y el medio ambiente;
 
-XI. Protección Civil.- Al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación, y apoyo, tendientes a proteger la vida, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten, o transiten en la Entidad;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2018)</small>
 
-XII. Recuperación.- Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado (población y entorno), así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos; y
+XI.- Protección Civil.- Al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación, y apoyo, tendientes a proteger la integridad física, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten, o transiten en la Entidad;
 
-XIII. Riesgo.- La probabilidad de peligro o contingencia de que se produzca un desastre.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2018)</small>
+
+XII.- Recuperación.- Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado (sic) población y entorno, así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2018)</small>
+
+XIII.- Riesgo.- La probabilidad de peligro o contingencia de que se produzca un desastre; y
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2018)</small>
+
+XIV.- Protocolo de Seguridad CÓDIGO ADAM.- Es el Protocolo de Seguridad implementado en edificios públicos y privados frecuentados por menores de edad, para dar con la ubicación de éstos, en caso de se hayan extraviado, se hayan perdido o exista indicio de que hayan sido sustraídos.
 
 ###### Artículo 3.
 
@@ -693,11 +707,89 @@ Cuando los efectos de los altos riesgos, emergencias o desastres rebasen la capa
 
 Cuando debido a la magnitud de los altos riesgos, emergencias o desastres, sea necesaria la concurrencia simultánea de las Autoridades estatales y municipales de protección civil, la Dirección de Protección Civil será quien coordine las (sic) trabajos de respuesta ante la contingencia, en el lugar de los hechos.
 
-### CAPÍTULO IX. DEL PROGRAMA ESTATAL DE PROTECCIÓN CIVIL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2018)</small>
+
+### CAPITULO VIII BIS. DE LA IMPLEMENTACIÓN DEL CÓDIGO ADAM
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2018)</small>
+
+Artículo 50 BIS.- Son obligaciones de Protección Civil del Estado, las siguientes:
+
+I. La implementación del Protocolo de Seguridad Código Adam en todos los edificios Públicos o Privados que sean frecuentados por menores de edad dentro del Estado de Nuevo León;
+
+II. Los elementos de Protección Civil impartirán la capacitación necesaria sobre el Protocolo de Seguridad Código Adam a todos los Administradores de edificios Públicos o Privados frecuentados por menores de edad;
+
+III. Los elementos de Protección Civil, una vez que concluyan con la capacitación de los administradores de los edificios Públicos o Privados frecuentados por menores de edad y que se haya completado exitosamente el entrenamiento para conocer e implementar el Protocolo de Seguridad Código Adam, procederán a certificar a dichos administradores;
+
+IV. En el informe que rindan los administradores, deberán incluir en su lista de requisitos los edificios frecuentados por menores de edad en su Plan de Contingencia, el Protocolo de Seguridad Código Adam; y
+
+V. Los elementos de Protección Civil, luego de certificar a los administradores, deberán cerciorarse de que dichos lugares estén debidamente identificados como adscritos al Protocolo de Seguridad Código Adam. Esta identificación consiste en ubicar en lugares muy visibles, como entradas, ascensores y en todos los niveles, letreros tamaño treinta por treinta centímetros, color violeta, con letras blancas que lean: Código Adam, lo cual será responsabilidad única de cada una de las empresas.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2018)</small>
+
+Artículo 50 BIS 1.- Quedan excluidos del cumplimiento de esta Ley, edificios que por lo pequeño de sus estructuras y por la naturaleza de los servicios que bridan a la ciudadanía no reciban visitas de niñas, niños y adolescentes, en donde los menores de edad no acudan o donde no tengan permitido el acceso.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2018)</small>
+
+Artículo 50 BIS 2.- Protección Civil del Estado al concluir el año recibirá el informe anual de los administradores de las personas perdidas y encontradas, así mismo publicándose los resultados de los casos de menores perdidos y encontrados mediante la implementación del Protocolo de Seguridad Código Adam, en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2018)</small>
+
+Artículo 50 BIS 3.- Es obligación de los administradores que tengan a su cargo edificios públicos o privados frecuentados por menores de edad:
+
+I. Tener personas capacitadas y responsables para la activación del Protocolo de Seguridad Código Adam, estas personas serán los Administradores;
+
+II. Vigilar que se cumpla con la implementación del Protocolo de Seguridad Código Adam en los edificios Públicos o Privados, designarán a las personas encargadas de capacitar a los Administradores que serán los responsables de implementar dicho Protocolo; y
+
+III. Mantener capacitadas a tantas personas como sean necesarias en el manejo e implementación del Protocolo de Seguridad Código Adam proporcional al número de menores que pudiesen acudir a estos establecimientos.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2018)</small>
+
+Artículo 50 BIS 4.- Los Administradores tendrán la obligación de ordenar la realización de por lo menos dos simulacros anuales, en los edificios Públicos o Privados frecuentados por menores de edad, para que se tenga implementado en su Plan de Contingencia, el Protocolo de Seguridad Código Adam.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2018)</small>
+
+Artículo 50 BIS 5.- El procedimiento del Protocolo de Seguridad del Código Adam:
+
+I. Cuando un padre, madre, tutor o encargado notifique a cualquier empleado que labore en el edificio Público o Privado que su hijo se ha extraviado, este último de inmediato obtendrá del padre, madre, tutor o encargado una descripción detallada del menor, pero sin limitarse a:
+
+a) Fecha y hora de su desaparición;
+
+b) Fecha y hora en que fue recibida la información;
+
+c) Información general: Nombre completo, apodos por los que se le conoce y responde, sexo, edad, estatura, peso, vestimenta, color y tipo de zapatos, color de piel y ojos, color de pelo y tipo de peinado, o si tiene algún padecimiento o discapacidad y cualquier otra seña particular que permita identificarlo fácilmente, lugar de desaparición, datos completos del o de la querellante y foto reciente.
+
+II. El empleado alertará mediante altoparlante, u otro sistema de difusión similar, que se ha activado el "Código Adam" y proveerá la descripción provista por el padre, madre, tutor o encargado del menor y dará el número de teléfono o extensión de donde se está haciendo el anuncio. Será responsabilidad de cada Administrador de edificio que al momento de la implementación de este código cuenten con este sistema;
+
+III. El empleado escoltará al padre, madre, tutor o encargado hacia la salida principal donde se encontrará con él administrador y simultáneamente, todas las puertas de salida serán vigiladas para evitar la salida del menor sin su padre o madre, tutor o encargado;
+
+IV. El Administrador del edificio Público o Privado habrá de coordinar los recursos que estén a su disposición para una búsqueda primaria del menor dentro y en los alrededores de la estructura que administra;
+
+V. En las salidas del edificio, se le pedirá a aquellas personas que estén por abandonar el mismo en compañía de algún menor, que pasen por la salida principal previamente designada por el Administrador, si aún luego de llegar a ésta, insisten en abandonar el edificio, les será permitido una vez se determine que ningún menor que salga es el que se está buscando y el presunto padre, madre, tutor o encargado presente una identificación oficial con foto;
+
+VI. Después de anunciado el Código Adam por los altoparlantes, u otro sistema de difusión similar, los empleados buscarán por todo el edificio y se designarán dos o más de ellos, según se estime necesario, por cada área para que verifiquen y certifiquen que el menor no se encuentra en el mismo. Los empleados que se encuentren atendiendo al público o aquellos que se excluyan con anterioridad por el administrador, no estarán obligados a llevar a cabo la búsqueda;
+
+VII. Si el menor no es hallado en un período de diez minutos se llamará al número telefónico de emergencias 911 y se le informará la situación para que personal de Seguridad Pública o Emergencias del Estado se apersonen inmediatamente al lugar;
+
+VIII. Si el menor es hallado ileso y aparenta haberse extraviado en el edificio, será entregado al padre, madre, tutor o encargado del mismo inmediatamente; y
+
+IX. Si fuera hallado acompañado por otra persona que no sea su padre, madre, tutor o encargado se deberán utilizar los medios más razonables para demorar la salida de esta persona del edificio, en lo que se da aviso a las autoridades.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2018)</small>
+
+Artículo 50 BIS 6.- En el caso en que el menor no aparezca, el Administrador procederá a realizar el reporte al número de emergencia 911 a las autoridades competentes, proporcionando toda la descripción del menor de edad.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2018)</small>
+
+Artículo 50 BIS 7.- Además de las obligaciones establecidas en la presente Ley, los administradores tendrán las siguientes:
+
+I. Enviar copia de las características e información requerida sobre la descripción de los niños, niñas y adolescentes extraviados a la autoridad competente; y
+
+II. Es responsabilidad tanto de la autoridad como de los administradores de edificios concientizar al público mediante la implementación de los Protocolos de Seguridad del Código Adam para que las niñas, niños, padres y madres se familiaricen con este código y su uso en forma responsable.
 
 ## TÍTULO SEGUNDO. DE LA OPERACIÓN DE LA PROTECCIÓN CIVIL
 
-### CAPÍTULO X. DE LA DECLARATORIA DE EMERGENCIA
+### CAPÍTULO IX. DEL PROGRAMA ESTATAL DE PROTECCIÓN CIVIL
 
 ###### Artículo 51.
 
@@ -789,7 +881,7 @@ A fin de que la comunidad conozca el Programa Estatal de Protección Civil, este
 
 En lo conducente, cada uno de los Municipios del Estado, deberá elaborar y publicar su propio Programa Municipal de Protección Civil, de manera similar al del Estado, de conformidad con los lineamientos de esta Ley.
 
-### CAPÍTULO XI. DE LA DECLARATORIA DE ZONA DE DESASTRE
+### CAPÍTULO X. DE LA DECLARATORIA DE EMERGENCIA
 
 ###### Artículo 63.
 
@@ -819,7 +911,7 @@ El Presidente del Consejo o el Secretario Ejecutivo en su ausencia, una vez que 
 
 En lo conducente se aplicarán a nivel municipal las disposiciones de este CAPÍTULO, siendo el responsable de llevar a cabo la declaratoria formal de emergencia el Presidente Municipal.
 
-### CAPÍTULO XII. DE LA ACCIÓN POPULAR
+### CAPÍTULO XI. DE LA DECLARATORIA DE ZONA DE DESASTRE
 
 ###### Artículo 67.
 
@@ -863,7 +955,7 @@ La declaratoria formal de zona de desastre de aplicación de recursos estatales 
 
 Para el caso de que la zona de desastre se declare a nivel municipal, se aplicarán en lo conducente, las disposiciones de este CAPÍTULO.
 
-### CAPÍTULO XIII. DE LA INSPECCIÓN, CONTROL Y VIGILANCIA
+### CAPÍTULO XII. DE LA ACCIÓN POPULAR
 
 ###### Artículo 73.
 
@@ -884,6 +976,8 @@ Recibida la denuncia, la autoridad ante quien se formuló, la turnará de inmedi
 ###### Artículo 77.
 
 Las Autoridades del Estado y las Municipales en los términos de esta Ley, atenderán de manera permanente al publico en general, en el ejercicio de la denuncia popular. Para ello, difundirán ampliamente domicilios y números telefónicos destinados a recibir las denuncias.
+
+### CAPÍTULO XIII. DE LA INSPECCIÓN, CONTROL Y VIGILANCIA
 
 ### CAPÍTULO XIV. DE LAS NOTIFICACIONES Y RECURSOS
 
@@ -1124,3 +1218,15 @@ P.O. 21 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 265. SE REFORMA EL ARTÍCULO 331 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN; SE ADICIONA UN ARTÍCULO 32 BIS LA (SIC) LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN, SE REFORMAN LAS FRACCIONES XII Y XIII, ASIMISMO SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN CIVIL PARA EL DEL (SIC) ESTADO DE NUEVO LEÓN; SE REFORMAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 9; POR MODIFICACIÓN EL NOMBRE DEL CAPÍTULO III; ASÍ MISMO SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 9; Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 10, TODOS DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 411. SE REFORMAN POR MODIFICACIÓN LAS FRACCIONES IV, XI, XII Y XIII Y POR ADICIÓN DE LA FRACCIÓN XIV AL ARTÍCULO 2, ASÍ COMO POR UN CAPÍTULO VIII BIS, AL TÍTULO PRIMERO, DENOMINADO DE LA IMPLEMENTACIÓN DEL CÓDIGO ADAM, EL CUAL CONSTA DE LOS ARTÍCULO (SIC) 50 BIS, 50 BIS 1, 50 BIS 2, 50 BIS 3, 50 BIS 4, 50 BIS 5, 50 BIS 6 Y 50 BIS 7, TODOS DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEON, CONTENIDAS EN EL DECRETO NÚM. 402 Y QUE FUE OBJETO DE OBSERVACIONES POR PARTE DEL EJECUTIVO DEL ESTADO, EN EJERCICIO DE SU FACULTAD CONFERIDA EN EL ARTÍCULO 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Tercero.- El Titular del Poder Ejecutivo tendrá 120 días a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones en el Reglamento de Operación del Sistema Estatal de Protección Civil para el Estado de Nuevo León.
+
+Cuarto.- Los Ayuntamientos del Estado, tendrán 120 días a partir de la entrada en vigor del presente Decreto, para adecuar sus disposiciones reglamentarias.
