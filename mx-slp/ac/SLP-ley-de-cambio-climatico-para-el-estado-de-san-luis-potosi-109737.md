@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cambio-climatico-para-el-estado-de-san-luis-potosi-10973
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2017-09-14"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2015.
 
@@ -131,9 +131,11 @@ VII. Transversalidad: enfoque de coordinación, cooperación y articulación en 
 
 Para la atención y prevención de los efectos del cambio climático, el Ejecutivo del Estado, por conducto de la Secretaría, coordinará las acciones de las dependencias y entidades de la administración pública estatal.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 6°.
 
-La Secretaría diseñará, formulará e instrumentará las políticas estatales para la prevención y mitigación de emisiones de gases de efecto invernadero; la adaptación a los efectos del cambio climático; y la promoción del desarrollo de programas y estrategias estatales de acción climática.
+La Secretaría diseñará, formulará e instrumentará las políticas estatales para la prevención y mitigación de emisiones de gases de efecto invernadero; la adaptación a los efectos del cambio climático; y la promoción del desarrollo de programas y estrategias estatales de acción climática, en concordancia con la política nacional.
 
 ### Capítulo II. De la Prevención
 
@@ -697,7 +699,7 @@ TERCERO. La Secretaría integrará la Comisión Intersecretarial, y el Consejo C
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
-DADO en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el once de agosto de dos mil quince.
+DADO en el salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el once de agosto de dos mil quince.
 
 Diputado Presidente, Crisógono Sánchez Lara; Diputado Primer Secretario, Jorge Adalberto Escudero Villa; Diputado Segundo Secretario, Jorge Alejandro Vera Noyola. (Rúbricas).
 
@@ -742,3 +744,11 @@ P.O. 14 DE SEPTIEMBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1047.- SE REFORMA EL ARTÍCULO 6° DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
