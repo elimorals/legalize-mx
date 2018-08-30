@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2018-07-11"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-CONSIDERANDO..
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente
 
@@ -197,59 +199,135 @@ Las instituciones particulares podrán prestar los servicios de asistencia socia
 
 El Poder Ejecutivo del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, el cual será el organismo rector de la asistencia social en la Entidad, y tendrá como objetivos, la prestación de servicios en ese campo, promoción de la asistencia social y el incremento de las acciones coordinadas que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley, con la finalidad de fortalecer a la familia, mediante consensos ciudadanos y políticas públicas que permitan concretar el desarrollo comunitario y familiar en todos los municipios de la entidad.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NO. 3450 PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2018, Y EN ATENCIÓN AL CONSIDERANDO NÚMERO "IV.- VALORACIÓN DE LA INICIATIVA" RELATIVA AL TEMA DE LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; SE ADVIERTE QUE LA LIII LEGISLATURA NO SÓLO DEROGÓ LA FRACCIÓN XIII DEL PRESENTE ARTÍCULO SINO INCLUSIVE PUBLICÓ DIVERSAS FRACCIONES QUE PERTENECÍAN AL TEXTO ORIGINAL CON MODIFICACIONES; POR LO QUE SE SUGIERE CONSULTAR LA CRONOLOGÍA DE ESTE ARTÍCULO. NO IDENTIFICÁNDOSE FE DE ERRATAS POSTERIOR AL DECRETO CITADO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 16.
 
 El Sistema, para el logro de sus objetivos, realizará las siguientes funciones:
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
 I.- Vigilar el estricto cumplimiento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
 II.- Promover y prestar servicios de asistencia social;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
 III.- Apoyar y promover el desarrollo integral de la familia y de la comunidad;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
 IV.- Promover la responsabilidad ciudadana que tiene cada individuo con la asistencia social;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
 V.- Promover acciones y programas de orientación y fortalecimiento familiar;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
 VI.- Promover acciones para el desarrollo de la familia y mejoramiento de la comunidad;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
 VII.- Realizar acciones de apoyo educativo en la equidad y los derechos humanos para la integración familiar, social y de capacitación para el trabajo a los beneficiarios de esta ley;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
 VIII.- Realizar estudios y diagnósticos que permitan conocer la situación real de los sujetos de asistencia social;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
 IX.- Participar en acciones interinstitucionales que promuevan e impulsen el sano desarrollo físico, mental y social de los menores, de forma especial a aquellos que se encuentren en situación vulnerable;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
 X.- Coordinar las funciones relacionadas con la beneficencia pública y la beneficencia privada en el Estado, así como proponer programas de asistencia social que contribuyan al uso eficiente de los bienes que la componen;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
 XI.- Llevar a cabo todas las funciones inherentes a la autorización, inspección, supervisión, vigilancia y demás señaladas en esta Ley respecto de la constitución, funcionamiento y extinción de las instituciones de beneficencia privada;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
 XII.- Fomentar, apoyar, coordinar, evaluar y supervisar las actividades que lleven a cabo las instituciones o asociaciones civiles y todo tipo de entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-XIII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono o maltrato, de adultos mayores desamparados, personas con discapacidad mental o física y mujeres receptoras de violencia familiar, sin perjuicio de la competencia a cargo de la Fiscalía General del Estado de Morelos conforme a lo previsto en esta Ley;
+XIII.- (DEROGADA, P.O. 30 DE AGOSTO DE 2018)
 
-XIV.- Procurar, de acuerdo a los programas y recursos disponibles, mantener en permanente funcionamiento los establecimientos del Sistema, tales como: Centros de Desarrollo, Guarderías, y demás que se pongan en operación, en términos de la normativa aplicable;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+XIV.- Procurar, de acuerdo con los programas y recursos disponibles, mantener en permanente funcionamiento los establecimientos del Sistema, tales como: Centros de Desarrollo, Guarderías, Centros de Bienestar Familiar, Centros de Atención al Adulto Mayor y demás que se pongan en operación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
 
 XV.- Llevar a cabo acciones en materia de prevención de la discapacidad y de rehabilitación de personas con discapacidad con sujeción a las disposiciones aplicables en materia de salud;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
 XVI.- Llevar a cabo acciones de alimentación complementaria a personas de escasos recursos y población de zonas marginadas;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
 
 XVII.- Realizar estudios e investigaciones sobre asistencia social, con la participación en su caso, de las autoridades asistenciales del Gobierno del Estado, de los Municipios y organizaciones de la sociedad civil;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
 XVIII.- Promover, realizar y certificar la capacitación de recursos humanos para la asistencia social;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
 
 XIX.- Operar el Sistema Estatal de Información en Materia de Asistencia Social a que se refiere la fracción VI del Artículo 12 de esta Ley;
 
-XX.- Realizar estudios e investigaciones en materia de prevención, atención y rehabilitación de discapacidad;
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN III DEL ARTÍCULO 36 TER.]</small>
 
-XXI.- Participar en programas de rehabilitación y educación especial;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
 
-XXII.- Proponer a las autoridades correspondientes la adaptación y readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de las personas con discapacidad;
+XX.- Prestar servicios de asistencia psicológica, representación jurídica y de orientación social a menores, personas receptoras de violencia familiar y víctimas de delitos sexuales, adultos mayores y personas con discapacidad sin recursos;
 
-XXIII.- Elaborar y proponer los reglamentos que se requieran en la materia, observando su estricto cumplimiento, y
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN IV DEL ARTÍCULO 36 TER.]</small>
 
-XXIV.- Las demás que establezcan las disposiciones aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+XXI.- Fomentar acciones de paternidad responsable que propicie la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN V DEL ARTÍCULO 36 TER.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+XXII.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos del Código Familiar para el Estado Libre y Soberano de Morelos;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN VI DEL ARTÍCULO 36 TER.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+XXIII.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+XXIV.- Realizar estudios e investigaciones en materia de prevención, atención y rehabilitación de discapacidad;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+XXV.- Participar en programas de rehabilitación y educación especial;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+XXVI.- Proponer a las autoridades correspondientes la adaptación y readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de las personas con discapacidad;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+XXVII.- Elaborar y proponer los reglamentos que se requieran en la materia, observando su estricto cumplimiento, y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+XXVIII.- DEROGADA.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+XXIX.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 ###### ARTÍCULO 17.
 
@@ -589,11 +667,19 @@ I.- Integrará el Sistema Estatal de Asistencia Social a que refiere el artícul
 
 II.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono o maltrato, de adultos mayores desamparados, personas con discapacidad mental o física y mujeres receptoras de violencia familiar;
 
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XX DEL ARTÍCULO 16, P.O. 30 DE AGOSTO DE 2018.]</small>
+
 III.- Prestar servicios de asistencia psicológica, representación jurídica y de orientación social a menores, personas receptoras de violencia familiar y víctimas de delitos sexuales, adultos mayores y personas con discapacidad sin recursos;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XXI DEL ARTÍCULO 16, P.O. 30 DE AGOSTO DE 2018.]</small>
 
 IV.- Fomentar acciones de paternidad responsable que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
 
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XXII DEL ARTÍCULO 16, P.O. 30 DE AGOSTO DE 2018.]</small>
+
 V.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos del Código Familiar para el Estado Libre y Soberano de Morelos;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XXIII DEL ARTÍCULO 16, P.O. 30 DE AGOSTO DE 2018.]</small>
 
 VI.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
@@ -803,23 +889,25 @@ Las instituciones recibirán una constancia de su registro con el número corres
 
 El Sistema podrá hacer la difusión de los servicios que prestan las instituciones de asistencia social.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ### CAPÍTULO X. DE LA VIGILANCIA Y SUPERVISIÓN DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL
 
 ###### ARTÍCULO 57.
 
-Las instituciones de asistencia social deberán de ajustar su funcionamiento a lo dispuesto por las leyes, reglamentos y Normas Oficiales Mexicanas, que al efecto se expidan en materia de salud y asistenciales, así como por la Secretaría de Salud y el Consejo Nacional de Normalización y Certificación.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2018)
 
 ###### ARTÍCULO 58.
 
-La supervisión y vigilancia para el cumplimiento de las normas en la materia corresponde a la Secretaría de Salud a través del Sistema.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2018)
 
 ###### ARTÍCULO 59.
 
-El incumplimiento a las disposiciones de esta Ley y las demás disposiciones derivadas de ésta, serán sancionadas administrativamente por la Secretaría de Salud conforme a sus atribuciones.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2018)
 
 ###### ARTÍCULO 60.
 
-Las resoluciones dictadas con fundamento en esta Ley y demás disposiciones que de ella emanen, en perjuicio de particulares, podrán ser recurridas administrativamente de conformidad con lo establecido por la Ley del Procedimiento Administrativo para el Estado de Morelos.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2018)
 
 ### CAPÍTULO XI. DE LA INFORMACIÓN PÚBLICA Y TRANSPARENCIA
 
@@ -1016,3 +1104,13 @@ VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la Administración Púb
 VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Centro de Evaluación y Control de Confianza del Estado de Morelos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrito a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto; en especial los derechos de la acreditación otorgada por el Centro Nacional de Certificación y Acreditación.
 
 VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conducentes ante el Centro Nacional de Certificación y Acreditación, con relación a las adecuaciones realizadas por virtud de este Decreto, respecto del Centro de Evaluación y Control de Confianza del Estado de Morelos.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS CINCUENTA POR EL QUE SE REFORMAN DIVERSAS LEYES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ARMONIZAR LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
