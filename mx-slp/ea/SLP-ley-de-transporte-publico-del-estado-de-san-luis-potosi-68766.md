@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2018-07-28"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -883,9 +883,9 @@ El vehículo relevado invariablemente deberá ser presentado sin los rótulos de
 
 Los concesionarios y permisionarios deberán efectuar las modificaciones y adecuaciones que establezca la Secretaría en materia de seguridad, comodidad y prevención de accidentes.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
-Los concesionarios del servicio de transporte público a que se refiere la fracción I del artículo 21 de esta Ley, como medida de prevención y seguridad, instalarán cámaras de video en las unidades de transporte, para documentar los eventos que se susciten tanto dentro de la unidad, como al frente de la misma durante la prestación del servicio; los archivos digitales de las cámaras deberán, sin excepción, conservarse por un término que no será menor de noventa días naturales contados a partir del día siguiente que corresponda a la videograbación, y deberán ser proporcionados a la Secretaría cuando ésta los solicite sin dilación alguna. El número de cámaras a instalar y la calidad de las videograbaciones, será determinada por la Secretaría. El incumplimiento de las obligaciones a que se refiere este párrafo, será causa de revocación de la concesión o permiso de que se trate.
+Los concesionarios del servicio de transporte público a que se refiere la fracción I del artículo 21 de esta Ley, como medida de prevención y seguridad instalarán cámaras de video en las unidades de transporte, para documentar los eventos que se susciten tanto dentro de la unidad, como al frente de la misma durante la prestación del servicio; debiendo vigilar tanto el operador, como el concesionario, que no se tapen u obstruyan los lentes de las cámaras; los archivos digitales de las cámaras deberán, sin excepción, conservarse por un término que no será menor de noventa días naturales contados a partir del día siguiente que corresponda a la videograbación, y deberán ser proporcionados sin dilación alguna a la Secretaría cuando ésta los solicite. El número de cámaras a instalar y la calidad de las videograbaciones, será determinada por la Secretaría. El incumplimiento de las obligaciones a que se refiere este párrafo, será causa de revocación de la concesión o permiso de que se trate.
 
 Ningún vehículo deberá portar elementos o equipos adicionales que no sean necesarios para la prestación del servicio, a menos que sean autorizados expresamente por la Secretaría.
 
@@ -963,7 +963,7 @@ h) Aprobar examen médico y toxicológico, y
 
 > <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2016)</small>
 
-í) Presentar el vehículo que, en su caso, sea autorizado por la Secretaría, mismo que deberá contar con seguro vigente, así como los colores, logotipos y equipamiento que se le indiquen, y
+i) Presentar el vehículo que, en su caso, sea autorizado por la Secretaría, mismo que deberá contar con seguro vigente, así como los colores, logotipos y equipamiento que se le indiquen, y
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
@@ -1647,6 +1647,10 @@ Queda prohibido a los operadores del transporte público producir con sus vehíc
 
 Por ningún motivo se transportarán pasajeros en los estribos de ascenso y descenso de las unidades de transporte público, o con las puertas de la unidad abiertas.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
+ARTICULO 86 BIS. Queda prohibido a los operadores del transporte público de cualquier modalidad, obstaculizar, impedir o negar el servicio público de transporte a adultos mayores, niños, personas con discapacidad, y mujeres embarazadas.
+
 ###### ARTICULO 87.
 
 El incumplimiento de las obligaciones señaladas a los permisionarios, concesionarios u operadores, sin perjuicio de la responsabilidad civil o penal en la que incurran, será sancionado de conformidad con lo establecido en la presente Ley y demás disposiciones legales y administrativas aplicables.
@@ -1747,11 +1751,11 @@ La Secretaría promoverá la celebración de convenios entre los proveedores del
 
 Tomando en cuenta el interés social, la Secretaría podrá autorizar el establecimiento de tarifas especiales, que se aplicarán de manera general e impersonal a sectores específicos de la población, en beneficio de los menores de doce años de edad, estudiantes, personas con discapacidad, adultos mayores, y jubilados.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 97.
 
-Se considera tarifa especial aquélla que aplica a los usuarios que, por sus condiciones particulares, son sujetos de tratamiento específico, a los que deberá aplicarse todos los días del año, un cincuenta por ciento de descuento sobre la tarifa genérica autorizada para el servicio de transporte colectivo urbano de primera y segunda clase, colectivo de ruta, y mixto, así como para el servicio interurbano; esta prestación únicamente se otorgará mediante esquemas de prepago, salvo en las zonas rurales donde se puede pagar en efectivo.
+Se considera tarifa especial aquella que aplica a los usuarios que, por sus condiciones particulares, son sujetos de tratamiento específico, a los que deberá aplicarse todos los días del año el cincuenta por ciento de descuento sobre la tarifa genérica autorizada para el servicio de transporte colectivo urbano de primera y segunda clase, colectivo de ruta, y mixto, así como para el servicio interurbano; y, exclusivamente para los adultos mayores, el de automóvil de alquiler de sitio, y automóvil de alquiler de ruleteo que se hayan incorporado al "programa voluntario de descuento a adultos mayores," está prestación únicamente se otorgará mediante esquemas de prepago, salvo en las zonas rurales donde se puede pagar en efectivo tratándose de automóvil de alquiler de sitio, y automóvil de alquiler de ruleteo; al efecto, el solicitante del servicio deberá presentar en el momento, credencial oficial expedida por la autoridad competente en materia de adultos mayores. La Secretaría llevará a cabo permanentemente un programa voluntario de descuento para adultos mayores, al cual podrán incorporarse concesionarios de automóvil de alquiler de sitio, y automóvil de alquiler de ruleteo, que así lo soliciten.
 
 ## TITULO DECIMO. DE LOS SERVICIOS AUXILIARES DEL TRANSPORTE PUBLICO
 
@@ -2824,5 +2828,21 @@ P.O. 28 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1037.- SE REFORMAN LOS ARTÍCULOS 2, 6, 13 Y 17; Y ADICIONA AL ARTÍCULO 12 LA FRACCIÓN XXIII TER, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1048.- SE ADICIONA EL ARTÍCULO 86 BIS, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Primero. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1054.- SE REFORMAN LOS ARTÍCULOS 46 Y 97 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
