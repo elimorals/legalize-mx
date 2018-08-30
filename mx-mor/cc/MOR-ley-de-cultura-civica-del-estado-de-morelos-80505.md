@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-cultura-civica-del-estado-de-morelos-80505"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-30"
-last_updated: "2018-07-11"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Reglamento publicado en la segunda sección del Periódico Oficial del estado de Morelos, el miércoles 30 de marzo de 2011.
 
@@ -663,19 +663,15 @@ Respecto de las actuaciones ante el Juzgado Cívico no habrá días y horas inh�
 
 Cuando el probable infractor no hable español, o se trate de un sordomudo, y no cuente con traductor o interprete, se le proporcionará uno, sin cuya presencia el procedimiento administrativo no podrá dar inicio. Si en el término de cuatro horas, no se le asigna, se procederá a su inmediata liberación y en caso de que se encuentre culpable en la comisión de una infracción, el tiempo de espera se restará al tiempo de sanción.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 53.
 
-En caso de que el probable infractor sea menor de edad, el Juez citará a quien detente la custodia o tutela, legal o de hecho, en cuya presencia se desarrollará la audiencia y se dictará la resolución.
+En caso de que el probable infractor sea niña, niño o adolescente, el Juez citará a quien detente la custodia o tutela, legal o de hecho, en cuya presencia se desarrollará la audiencia y se dictará la resolución.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+En tanto acude quien custodia o tutela a la niña, niño o adolescente, éste deberá permanecer en la oficina del Juzgado, en la sección de menores. Si por cualquier causa no asistiera el responsable del menor en un plazo de dos horas, se otorgará una prórroga de cuatro horas. Si al término de la prórroga no asistiera el responsable, el Juez procederá a dar aviso a la Fiscalía General del Estado, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, a efecto de que ésta designe un representante de la niña, niño o adolescente, después de lo cual determinará su responsabilidad.
 
-En tanto acude quien custodia o tutela al menor, éste deberá permanecer en la oficina del Juzgado, en la sección de menores. Si por cualquier causa no asistiera el responsable del menor en un plazo de dos horas, se otorgará una prórroga de cuatro horas. Si al término de la prórroga no asistiera el responsable, el Juez procederá a dar aviso a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, a efecto de que éste designe un representante del menor, después de lo cual determinará su responsabilidad.
-
-En caso de que el menor de edad resulte responsable, el Juez lo amonestara y le hará saber las consecuencias jurídicas y sociales de su conducta.
-
-Cuando se determine la responsabilidad de una persona menor de edad en la comisión de alguna de las infracciones previstas en este ordenamiento, en ningún caso se le impondrá como sanción el arresto.
-
-Si a consideración del Juez el menor se encontrara en situación de riesgo, lo enviará a las autoridades competentes a efecto de que reciba la atención correspondiente.
+En caso de que la niña, niño o adolescente resulte responsable, el Juez lo amonestara y le hará saber las consecuencias jurídicas y sociales de su conducta.
 
 ###### Artículo 54.
 
@@ -983,7 +979,7 @@ SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publica
 
 P.O. 1 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y UNO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 17, 19, 21, PÁRRAFO PRIMERO DEL ARTÍCULO 23, PÁRRAFO SEGUNDO DEL ARTÍCULO 57, 62 FRACCIÓN I DEL ARTÍCULO 63 PÁRRAFO PRIMERO DEL ARTÍCULO 82 DE LA LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y UNO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 17, 19, 21, PÁRRAFO PRIMERO DEL ARTÍCULO 23, PÁRRAFO SEGUNDO DEL ARTÍCULO 57, 62 FRACCIÓN I DEL ARTÍCULO 63 PÁRRAFO PRIMERO DEL ARTÍCULO 82 DE LA LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
 
 Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -1048,3 +1044,13 @@ VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la Administración Púb
 VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Centro de Evaluación y Control de Confianza del Estado de Morelos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrito a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto; en especial los derechos de la acreditación otorgada por el Centro Nacional de Certificación y Acreditación.
 
 VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conducentes ante el Centro Nacional de Certificación y Acreditación, con relación a las adecuaciones realizadas por virtud de este Decreto, respecto del Centro de Evaluación y Control de Confianza del Estado de Morelos.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS CINCUENTA POR EL QUE SE REFORMAN DIVERSAS LEYES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ARMONIZAR LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
