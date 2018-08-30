@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2018-07-04"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -345,7 +345,9 @@ La inscripción ante el registro civil de los menores de un año será gratuita.
 
 A nadie se le exigirá comprobar la legal estancia en el país para la inscripción ante el registro civil de sus hijos nacidos en territorio estatal.
 
-II. Que todas las personas mayores de 64 años que residan en el Estado, reciban una aportación económica mayor a lo que determina el objetivo número uno de los Objetivos de Desarrollo del Milenio del Programa de las Naciones Unidas para el Desarrollo.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+II. Mediante recursos propios o a través de programas federales, que todas las personas mayores de 64 años que residan en el Estado, reciban una aportación económica, mayor a lo que determina el objetivo número uno de los Objetivos de Desarrollo Sostenible del Programa de las Naciones Unidas para el Desarrollo.
 
 III. El respeto y protección de los derechos humanos de los migrantes, entre ellos el derecho a la salud, derechos laborales, derecho a la seguridad pública y a la procuración de justicia.
 
@@ -995,7 +997,9 @@ XIV. Formular objeción del nombramiento o remoción de los Fiscales de Delitos 
 
 XV. Conceder licencia al Gobernador del Estado y a los Diputados para separarse de su cargo, en los términos de esta Constitución.
 
-XVI. Constituirse en Colegio Electoral para elegir al ciudadano que deba sustituir al Gobernador, ya sea con el carácter de provisional, de interino o de sustituto, en los términos de los artículos 55, de esta Constitución.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+XVI. Constituirse en Colegio Electoral para elegir soberanamente al ciudadano que deba sustituir al Gobernador, ya sea con el carácter de provisional, de interino o de sustituto, en los términos de los artículos (sic) 55, de esta Constitución.
 
 XVII. Autorizar al Ejecutivo para que celebre arreglos sobre los límites del Estado y sancionar en su caso dichos arreglos, previamente a que sean sometidos a la aprobación del Congreso de la Unión.
 
@@ -1233,9 +1237,13 @@ III.- Tener 30 años cumplidos al día de la elección.
 
 IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso o haberse separado ocho años antes de la fecha de la elección o, en su caso, designación.
 
-V.- No tener empleo, cargo o comisión en el gobierno federal, estatal o municipal, o renunciar o estar separado de cualquiera de ellos cuando menos ciento veinte días antes del día de la elección. En los casos de los cargos de elección popular, obtener la licencia respectiva en el plazo antes señalado.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-VI.- No haber ocupado anteriormente el cargo de Gobernador o Gobernadora por elección popular.
+V.- No tener empleo, cargo o comisión en el gobierno federal, estatal o municipal, o renunciar o estar separado de cualquiera de ellos. En los casos de los cargos de elección popular, obtener la licencia respectiva antes de ocupar el cargo.
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+VI.- No haber ocupado anteriormente el cargo de Gobernador o Gobernadora por elección popular; lo anterior se exceptúa, cuando se trate del mismo periodo por el cual ejerció el cargo, en cuyo caso, no tendrá que rendir la protesta a que se refiere el artículo 54 de esta Constitución.
 
 VII. No haber ocupado en el periodo inmediato anterior la Titularidad del Ejecutivo de manera provisional, interina o sustituta.
 
@@ -1269,7 +1277,9 @@ Si el Congreso del Estado estuviere en receso, la Comisión Permanente nombrará
 
 II. Cuando la falta absoluta del Gobernador ocurra en los últimos cuatro años del periodo, si el Congreso del Estado se encontrare en sesiones, se elegirá con la concurrencia de cuando menos las dos terceras partes del número total de sus miembros y por mayoría calificada de dos terceras partes de los presentes, en escrutinio secreto, al Gobernador Sustituto, quien deberá concluir el periodo.
 
-Si el Congreso no estuviere reunido, la Comisión Permanente nombrará por mayoría simple un Gobernador Provisional y convocará, en un plazo de diez días naturales al Congreso a Sesión Extraordinaria, para que, erigido en Colegio Electoral, haga la designación del Gobernador Sustituto.
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN II], P.O. 30 DE AGOSTO DE 2018)</small>
+
+Si el Congreso no estuviere reunido, la Comisión Permanente nombrará por mayoría simple un Gobernador Provisional y convocará, dentro del plazo de siete días naturales al Congreso a Sesión Extraordinaria, para que, erigido en Colegio Electoral, haga la designación del Gobernador Sustituto.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1281,7 +1291,9 @@ I. Por muerte, o incapacidad total y permanente.
 
 II. Por ser sentenciado por cargos de responsabilidad política o por delitos del orden común calificados por el Congreso del Estado, erigido en Gran Jurado.
 
-III. Por renuncia expresa por causa grave que será calificada por el Congreso del Estado.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+III. Por renuncia expresa o por causa grave que será calificada por el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2513,7 +2525,7 @@ El Gobernador, el Fiscal General del Estado, los Fiscales de Materia o de Distri
 
 Los empleos o cargos públicos del Estado durarán el tiempo establecido en esta Constitución o en la Ley. Para desempeñar más de un empleo del Estado y del Municipio, o de éstos y de la Federación, se requerirá autorización previa del Congreso del Estado y, en su caso, de la Comisión Permanente, y sólo podrá concederse por razones de interés público.
 
-Las limitaciones a que se refiere este artículo no incluyen a los empleos en el ramo de la docencia los que se sujetarán a lo dispuesto por la Ley de la materia.
+Las limitaciones a que se refiere este artículo no incluyen a los empleos en el ramo de la docencia, los que se sujetarán a lo dispuesto por la Ley de la materia.
 
 Todas las personas que se desempeñen en el Servicio Público del estado y sus municipios, al tomar posesión de sus cargos deberán hacer protesta formal de respetar y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución del Estado Libre y Soberano de Chiapas y las leyes que de ellas emanen.
 
@@ -4496,3 +4508,21 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispu
 Artículo Tercero.- La Secretaría de Hacienda Pública, deberá realizar los ajustes presupuestales necesarios para el cumplimiento de las disposiciones previstas en el presente Decreto, por el resto del presente ejercicio fiscal y los subsecuentes.
 
 Artículo Cuarto.- El nombramiento de los Magistrados que integren las Salas Regionales Unitarias y Especializadas en Primera Instancia, se realizarán conforme a lo establecido en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Chiapas.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 274 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 275 DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II, DEL PÁRRAFO QUINTO, DEL ARTÍCULO 4, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Ejecutivo del Estado, durante el ejercicio fiscal en curso y de conformidad con la suficiencia presupuestaria, deberá dar continuidad al apoyo que actualmente otorga a los adultos mayores de 64 años o más, activos en el correspondiente programa.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
