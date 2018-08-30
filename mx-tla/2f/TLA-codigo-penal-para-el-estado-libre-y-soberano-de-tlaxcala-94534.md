@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2018-04-12"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -1955,19 +1955,21 @@ a) Niegue el otorgamiento o contratación de las operaciones a que hacen referen
 
 b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-III. Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen (sic) referencia la fracción anterior o sea parte en las mismas, y
+III. Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que se hace referencia en la fracción anterior o sea parte en las mismas, y
 
-IV. La o el servidor público que teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o haga un pago inicial.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+IV. La o el servidor público que teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o haga un pago ilegal.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
-A quien cometa el delito a que se refiere el presente artículo, se le impondrán de seis a doce meses de prisión y de treinta a ciento cincuenta días de multa.
+A quien cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
@@ -2623,9 +2625,15 @@ A quien prive de la vida a otra persona, se le impondrá de doce a veinte años 
 
 Al que prive de la vida a otro en riña se le impondrá la mitad o cinco sextos de las penas que le puedan corresponder según se trate de provocado o provocador.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 228.
 
-A quien cometa homicidio calificado se le impondrá de veinte a cincuenta años de prisión y multa de mil cuatrocientos cuarenta a tres mil seiscientos días de salario.
+A quien cometa homicidio calificado se le impondrá de veinte a cincuenta años de prisión y multa de mil cuatrocientos cuarenta a tres mil seiscientas Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
+Salvo que se trate del supuesto previsto en la fracción X del artículo 239, en el que se aplicará la penalidad contenida en el cuarto párrafo del artículo 230.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2017)</small>
 
@@ -2667,15 +2675,21 @@ Si entre el activo y la víctima existió una relación sentimental, afectiva, d
 
 Además de las sanciones descritas en el artículo anterior, el sujeto activo será condenado a la pérdida de los derechos que le asistieran con relación a los bienes o patrimonio de la víctima, al momento de cometer el delito; así como los que hubiera tenido respecto a su persona, si no se consumare, quedando en tentativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 230.
 
-A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, o concubinario u otra relación de pareja permanente, con conocimiento de esa relación, se le impondrá prisión de veinticinco a cincuenta años y multa de mil ochocientos a tres mil seiscientos días de salario.
+A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, o concubinario u otra relación de pareja permanente, con conocimiento de esa relación, se le impondrá prisión de veinticinco a cincuenta años y multa de mil ochocientos a tres mil seiscientas Unidades de Medida y Actualización.
 
 Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple intencional.
 
-Si en la comisión de este delito concurre alguna circunstancia agravante de las previstas en el artículo 239 de este código, se impondrán de treinta a sesenta años de prisión y multa de dos mil ciento sesenta a cuatro mil seiscientos veinte días de salario.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
+Si en la comisión de este delito concurre alguna circunstancia agravante de las previstas en el artículo 239 de este código, se impondrán de treinta a sesenta años de prisión, y multa de dos mil ciento sesenta a cuatro mil seiscientos veinte Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
+En el caso de que el delito se cometa en términos de la fracción X, del artículo 239, no aplicará la penalidad del párrafo anterior, sino que se impondrán de cincuenta a setenta años de prisión, y multa de dos mil ciento sesenta a cuatro mil seiscientos veinte Unidades de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
 
@@ -2761,7 +2775,7 @@ IX. Existe brutal ferocidad: Cuando el sujeto activo lo comete sin ningún motiv
 
 X. Cuando dolosamente se cometa en contra de servidores públicos de las instituciones policiales, de procuración y administración de justicia, si se encuentran en el ejercicio de sus funciones o con motivo de las mismas, siempre que se estén cumpliendo con arreglo a la ley.
 
-Igualmente el homicidio y las lesiones serán calificados cuando en su ejecución concurra cualquiera de las hipótesis previstas en el artículo 240 de este Ordenamiento Punitivo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 240.
 
@@ -3065,6 +3079,8 @@ A quien cometa el delito de requerimiento extrajudicial ilícito de pago se le i
 
 ### CAPÍTULO I. VIOLACIÓN
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 284.
 
 En lo referente a los delitos en materia de trata de personas, se estará a lo previsto en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
@@ -3075,7 +3091,7 @@ En lo referente a los delitos en materia de trata de personas, se estará a lo p
 
 ###### Artículo 285.
 
-A quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a catorce años y multa de quinientos setenta y seis a mil ocho días de salario.
+A quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de veinte a veinticinco años y multa de quinientos setenta y seis a mil ocho Unidades de Medida y Actualización.
 
 ###### Artículo 286.
 
@@ -3083,15 +3099,23 @@ Se entiende por cópula, la introducción del pene por vía vaginal, anal o buca
 
 ###### Artículo 287.
 
-Si entre el sujeto activo y el pasivo de la violación existiera un vínculo matrimonial, de concubinato o de pareja, se impondrán las penas previstas en el artículo 285 de este código, en estos casos el delito se investigará previa querella.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2018)
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 288.
 
-Se sancionará con prisión de ocho a catorce años y multa de quinientos setenta y seis a mil ocho días de salario a quien introduzca por vía vaginal o anal cualquier elemento, instrumento o cualquier parte del cuerpo humano, distinto al pene, por medio de la violencia física o moral o sin el consentimiento de la víctima.
+Se sancionará con prisión de veinte a veinticinco años y multa de quinientos setenta y seis a mil ocho Unidades de Medida y Actualización a quien introduzca por vía vaginal o anal cualquier elemento, instrumento o cualquier parte del cuerpo humano, distinto al pene, por medio de la violencia física o moral o sin el consentimiento de la víctima.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
+Lo anterior, con independencia del sexo del ofendido.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 289.
 
-Se aplicarán de diez a quince años de prisión y multa de setecientos veinte a mil ochenta días de salario, a quien:
+Se aplicarán de veinticinco a treinta años de prisión y multa de setecientos veinte a mil ochenta Unidades de Medida y Actualización, a quien:
 
 I. Realice cópula con persona menor de catorce años de edad;
 
@@ -3099,9 +3123,33 @@ II. Realice cópula con persona que no tenga la capacidad de comprender el signi
 
 III. Realice cópula con persona que por cualquier causa no pueda resistirla, o
 
-IV. Introduzca por vía anal o vaginal cualquier elemento, instrumento o cualquier parte del cuerpo humano distinto del pene en una persona menor de catorce años de edad o persona que no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirla.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-Si se ejerciera violencia, las penas previstas se aumentarán en una mitad.
+IV. Realice cópula con persona que se encuentre bajo su cuidado o custodia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+V. Realice cópula en los términos de los artículos 285 o 288, con la intervención de dos o más personas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+VI. Realice cópula en los términos de los artículos 285 o 288, con una persona sobre quien mantenga una relación de autoridad, o se aproveche de los medios o circunstancias del empleo, cargo o profesión que ejerce;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+VII. Realice cópula en los términos de los artículos 285 o 288, con una persona con la que convive con motivo de su familiaridad, o de su actividad docente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+VIII. Realice cópula en los términos de los artículos 285 o 288, con quien sea o haya sido su cónyuge, concubina o pareja permanente, o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+IX. Introduzca por vía anal o vaginal cualquier elemento, instrumento o cualquier parte del cuerpo humano distinto del pene, con independencia del sexo de la víctima, en cualquiera de los supuestos anteriores.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
+Si se ejerciera violencia, las penas previstas se aumentarán en un tercio.
 
 ### CAPÍTULO III. ESTUPRO
 
@@ -4690,3 +4738,15 @@ Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 154.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA Y LA LEY MUNICIPAL DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido de este Decreto.
