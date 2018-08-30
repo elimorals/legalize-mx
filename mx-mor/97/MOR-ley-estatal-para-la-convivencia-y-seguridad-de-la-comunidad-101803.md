@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-para-la-convivencia-y-seguridad-de-la-comunidad-101
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-23"
-last_updated: "2018-07-11"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL PARA LA CONVIVENCIA Y SEGURIDAD DE LA COMUNIDAD ESCOLAR DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 23 de julio de 2014.
 
@@ -33,7 +33,9 @@ GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y 
 
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:…
+LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
+
+[...]
 
 Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir la siguiente:
 
@@ -241,15 +243,19 @@ VI. Las demás que señale la presente Ley, su Reglamento y las disposiciones le
 
 En el ámbito de su respectiva competencia la Comisión de Derechos Humanos del Estado de Morelos, coadyuvará con las acciones en materia de prevención, combate y erradicación de la violencia escolar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 13.
 
-Corresponde a los Sistemas Estatal y Municipal para el Desarrollo Integral de la Familia, y a la Fiscalía General del Estado de Morelos, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia; en el ámbito de sus respectivas competencias, las siguientes atribuciones:
+Corresponde a los Sistemas Estatal y Municipal para el Desarrollo Integral de la Familia las siguientes atribuciones:
 
-I. Intervenir en casos de violencia a estudiantes cuando involucre al padre, la madre o el tutor, cualquier familiar, docente o autoridad escolar;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-II. Atender los asuntos remitidos por el Director del plantel educativo y prestar servicios de asistencia psicológica, representación jurídica y de orientación social, a los generadores, partícipes y víctimas de violencia escolar;
+I. Canalizar a las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia estatal o municipal los casos de violencia a estudiantes cuando involucre al padre, la madre o el tutor, cualquier familiar, docente o autoridad escolar;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+II. Atender los asuntos remitidos por el Director del plantel educativo y prestar servicios de orientación social y prevención de la violencia escolar;
 
 III. Implementar diversas acciones que coadyuven en el ámbito familiar a la promoción de la convivencia para la paz;
 
@@ -341,7 +347,7 @@ II. Promover el respeto a la propiedad pública y privada;
 
 III. Implementar en el plantel educativo el Programa Estatal para la Convivencia y Seguridad de la Comunidad Escolar;
 
-IV. Promover un curso informativo para docentes, personal administrativo y auxiliar, para la detección y atención de casos de violencia escolar; así como la responsabilidad administrativa y/o penal a la que son sujetos en caso de ser ellos las y los generadores y participes de violencia;
+IV. Promover un curso informativo para docentes, personal administrativo y auxiliar, para la detección y atención de casos de violencia escolar; así como la responsabilidad administrativa y/o penal a la que son sujetos en caso de ser ellos las y los generadores y partícipes de violencia;
 
 V. Proponer a la autoridad competente, los programas de formación e información que refieran:
 
@@ -371,9 +377,9 @@ IX. Denunciar ante la autoridad competente conductas de acoso o violencia escola
 
 X. Solicitar el apoyo a la autoridad local en los casos de violencia escolar, que así lo ameriten;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-XI. Notificar por escrito a la autoridad competente, las situaciones en que la víctima del acoso o violencia escolar, requiera de atención en el aspecto psicológico, médico y jurídico;
+XI. Notificar por escrito a la Fiscalía General del Estado, a través de la Procuraduría de Niñas, Niños, Adolescentes y la Familia, a los Sistemas para el Desarrollo Integral de la Familia o a la Secretaría de Salud, las situaciones en que la víctima del acoso o violencia escolar, requiera de atención en el aspecto psicológico, médico y jurídico;
 
 XII. Aplicar las medidas disciplinarias y correctivas a las que serán sujetos los generadores de violencia escolar;
 
@@ -629,7 +635,7 @@ El Consejo Estatal estará integrado por los titulares o representantes de las d
 
 Los cargos de los integrantes del Consejo Estatal son de carácter honorífico, en virtud de esto, los integrantes no obtendrán retribución alguna por las actividades realizadas en el mismo.
 
-El Gobernador será quién presidirá el Consejo Estatal, por sí o por el representante que este designe. Para el caso de que el representante que designe el Gobernador del Estado para fungir como Presidente del Consejo Estatal, sea un integrante de éste último en términos del artículo citado en el párrafo que antecede, dicho integrante deberá designar a su vez a la persona que lo supla ante éste, asimismo, el Gobernador será quien designe como Secretario Técnico a una de las autoridades que conforme el Consejo.
+El Gobernador será quien presidirá el Consejo Estatal, por sí o por el representante que este designe. Para el caso de que el representante que designe el Gobernador del Estado para fungir como Presidente del Consejo Estatal, sea un integrante de éste último en términos del artículo citado en el párrafo que antecede, dicho integrante deberá designar a su vez a la persona que lo supla ante éste, asimismo, el Gobernador será quien designe como Secretario Técnico a una de las autoridades que conforme el Consejo.
 
 ###### ARTÍCULO 42.
 
@@ -820,3 +826,13 @@ VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la Administración Púb
 VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Centro de Evaluación y Control de Confianza del Estado de Morelos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrito a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto; en especial los derechos de la acreditación otorgada por el Centro Nacional de Certificación y Acreditación.
 
 VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conducentes ante el Centro Nacional de Certificación y Acreditación, con relación a las adecuaciones realizadas por virtud de este Decreto, respecto del Centro de Evaluación y Control de Confianza del Estado de Morelos.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS CINCUENTA POR EL QUE SE REFORMAN DIVERSAS LEYES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ARMONIZAR LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
