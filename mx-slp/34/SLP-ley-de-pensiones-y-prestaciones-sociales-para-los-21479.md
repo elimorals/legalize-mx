@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2017-07-04"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -723,7 +723,9 @@ VIII. Al fallecer un trabajador que haya pasado a ser pensionista por edad y tie
 
 IX. Cuando fallezca un trabajador que haya pasado a ser pensionista por haber sido declarado incapacitado a causa del servicio, sus beneficiarios señalados por esta Ley continuarán percibiendo pensión en la cuantía fijada por la fracción IV de este artículo, y
 
-X. Cuando fallezca un trabajador que hubiere pasado a ser pensionista por invalidez ajena al servicio, sus familiares recibirán únicamente el importe de seis meses de pensión que venía disfrutando.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+X. Cuando fallezca un trabajador que hubiere pasado a ser pensionista por invalidez ajena al servicio, sus beneficiarios recibiraín (sic) una pensioín (sic) igual al noventa por ciento de la que hubiera correspondido al trabajador.
 
 ###### ARTICULO 78.
 
@@ -2276,3 +2278,11 @@ P.O. 4 DE JULIO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1049.- SE REFORMA EL ARTÍCULO 77 EN SU FRACCIÓN X, DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
