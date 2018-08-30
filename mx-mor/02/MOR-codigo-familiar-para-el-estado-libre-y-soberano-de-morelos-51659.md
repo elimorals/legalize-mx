@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2018-07-11"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -2565,7 +2565,7 @@ II.- A destinar de preferencia los recursos del incapacitado a su reintegración
 
 > <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
 
-III.- A formar inventario solemne y circunstanciado, anexando avalúo de los bienes que constituyen el patrimonio del incapaz, si dichos bienes producen frutos civiles, industriales o de otra naturaleza análoga, dentro del plazo que el juez designe con intervención del curador y del mismo incapacitada se ha cumplido dieciséis años de edad. El plazo para formar el inventario no podrá ser mayor de seis meses;
+III.- A formar inventario solemne y circunstanciado, anexando avalúo de los bienes que constituyen el patrimonio del incapaz, si dichos bienes producen frutos civiles, industriales o de otra naturaleza análoga, dentro del plazo que el juez designe con intervención del curador y del mismo incapacitado se (sic) ha cumplido dieciséis años de edad. El plazo para formar el inventario no podrá ser mayor de seis meses.
 
 IV.- A administrar el caudal de los incapacitados. La propiedad, administración y usufructo de los bienes que el pupilo ha adquirido con su trabajo le corresponden a éste;
 
@@ -2897,7 +2897,7 @@ La adopción siempre será benéfica para el adoptado, atendiendo al interés su
 
 ###### ARTÍCULO 361.
 
-QUIENES PUEDEN ADOPTAR.– Los mayores de veintiocho años y menores de cincuenta años de edad, unidos en matrimonio, en pleno ejercicio de sus derechos, pueden adoptar a uno o varios menores o incapaces aun cuando estos sean mayores de edad, siempre y cuando la adopción sea benéfica para este, acreditando:
+QUIENES PUEDEN ADOPTAR.- Los mayores de veintiocho años y menores de cincuenta años de edad, unidos en matrimonio, en pleno ejercicio de sus derechos, pueden adoptar a uno o varios menores o incapaces aun cuando estos sean mayores de edad, siempre y cuando la adopción sea benéfica para este, acreditando:
 
 I.- Que tienen medios suficientes para proveer a la subsistencia, cuidado y educación personal del adoptado, como un hijo propio, según las circunstancias de la persona que trata de adoptar;
 
@@ -2905,9 +2905,9 @@ II.- Que el adoptante sea persona de buenas costumbres, y disfrute de buena salu
 
 III.- Su identidad, antecedentes familiares, entorno social y motivos para adoptar, y
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-IV.- Que acepta expresamente que la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, realice el seguimiento del otorgado en adopción, por el plazo establecido en el Reglamento para Adopción de Menores.
+IV.- Que acepta expresamente, que la Fiscalía General del Estado, a través de la Procuraduría de la Defensa del Menor y la Familia, realice el seguimiento del otorgado en adopción, por el plazo establecido en el Reglamento para Adopción de Menores.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
@@ -2963,13 +2963,11 @@ II.- La patria potestad se ejercerá en los términos y por las personas señala
 
 III.- El adoptado se integrará a la familia de los adoptantes, adquiriendo; lazos de parentesco con todos los parientes de éstos, como si hubiera filiación consanguínea; correlativamente se extinguirá toda relación de parentesco con sus padres naturales.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 369.
 
-INTERVENCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y LAPROCURADURÍA (SIC) DE PROTECCIÓN DE NIÑAS, NIÑOS, ADOLESCENTES Y LA FAMILIA. En todo procedimiento relativo a la adopción, se dará intervención al Sistema para el Desarrollo Integral de la Familia y a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, conforme el ámbito de su competencia, conforme a la normativa aplicable.
-
-En caso de que las citadas autoridades no acepten o consientan, en su respectivo ámbito competencial, la adopción del menor o incapaz, deberán acreditar fehacientemente los motivos por los cuales consideran no sea favorable dicha adopción, así como que acrediten que el menor o incapaz se encontraría en peligro su desarrollo físico, mental o cualquiera otro motivo análogo.
+INTERVENCIÓN DE LA FISCALÍA GENERAL DEL ESTADO. En todo procedimiento relativo a la adopción, se dará intervención como parte a la Fiscalía General del Estado, por conducto de la Procuraduría de la Defensa del Menor y la Familia. En caso de que la Procuraduría no acepte o consienta la adopción del menor o incapaz, deberá acreditar fehacientemente los motivos por los cuales considera no sea favorable dicha adopción, así como que acredite que el menor o incapaz se encontraría en peligro su desarrollo físico, mental o cualquiera otro motivo análogo.
 
 ###### ARTÍCULO 370.
 
@@ -2989,15 +2987,17 @@ MARCO JURÍDICO.- La adopción internacional es la promovida por ciudadanos de o
 
 Las adopciones internacionales siempre serán plenas.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 372.
 
-NACIONALIDAD DE LOS ADOPTANTES.- En igualdad de circunstancias se preferirá a los adoptantes mexicanos, salvo que quien ejerza la patria potestad o la tutela sobre el menor consienta en la adopción internacional. En tal caso, deberá obtener la autorización del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, el que tomará en cuenta el interés superior del niño.
+NACIONALIDAD DE LOS ADOPTANTES.- En igualdad de circunstancias se preferirá a los adoptantes mexicanos, salvo que quien ejerza la patria potestad o la tutela sobre el menor consienta en la adopción internacional. En tal caso, deberá obtener la autorización de la Fiscalía General del Estado, a través de la Procuraduría, la que tomará en cuenta el interés superior del niño.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 373.
 
-INTERVENCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN ADOPCIONES INTERNACIONALES.- Las adopciones internacionales promovidas por los ciudadanos originarios de los países que son parte de la Convención sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, en su carácter de autoridad central, verifique y determine:
+INTERVENCIÓN DE LA FISCALÍA GENERAL DEL ESTADO- Las adopciones internacionales promovidas por los ciudadanos originarios de los países que son parte de la Convención sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando la Fiscalía General del Estado, a través de la Procuraduría, en su carácter de autoridad central, verifique y determine:
 
 I.- Que el menor es adoptable;
 
@@ -3007,15 +3007,15 @@ III.- Que las personas, instituciones y autoridades, cuyo consentimiento se requ
 
 IV.- Que las autoridades centrales del estado de origen de los solicitantes, acrediten que han constatado que los futuros padres adoptivos reúnen el perfil y características idóneas, están aptos para adoptar, y que el menor ha sido o será autorizado para entrar y residir permanentemente en ese país.
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-V.- Que aceptan expresamente que la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia realice el seguimiento de la adopción, por el plazo establecido en el Reglamento de Adopciones.
+V.- Que aceptan expresamente, que la Fiscalía General del Estado a través de la Procuraduría de la Defensa del Menor y la Familia, realice el seguimiento de la adopción, por el plazo establecido en el Reglamento de Adopciones.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 374.
 
-EFECTOS ANTE LAS DEPENDENCIAS ADMINISTRATIVAS.- Una vez declarada la adopción, el Juez de lo Familiar lo informará al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, en coordinación con la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, a la Secretaría de Relaciones Exteriores y a la autoridad migratoria dependiente de la Secretaría de Gobernación, para los efectos legales y administrativos subsecuentes.
+EFECTOS ANTE LAS DEPENDENCIAS ADMINISTRATIVAS.- Una vez declarada la adopción, el Juez de lo Familiar lo informará a la Fiscalía General del Estado, a través de la Procuraduría, a la Secretaría de Relaciones Exteriores y a la autoridad migratoria dependiente de la Secretaría de Gobernación, para los efectos legales y administrativos subsecuentes.
 
 ### CAPÍTULO ÚNICO. DEL ESTADO DE INTERDICCIÓN
 
@@ -3217,7 +3217,7 @@ DERECHO ALIMENTARIO DEL CÓNYUGE O PRESENTE. Si el cónyuge presente no fuere he
 
 RESTAURACIÓN DE LA SOCIEDAD CONYUGAL. Cuando el cónyuge ausente regrese o se probare su existencia, antes de la presunción de muerte, quedará restaurada la sociedad conyugal.
 
-### CAPÍTULO V. DE LAS ACTAS DE DIVORCIO
+### CAPÍTULO VI. DE LOS EFECTOS DE LA PRESUNCIÓN DE MUERTE EN RELACIÓN CON LOS DERECHOS EVENTUALES DE AQUEL SOBRE EL QUE RECAE LA DECLARACIÓN
 
 ###### ARTÍCULO 410.
 
@@ -3257,7 +3257,7 @@ III.- Con la certidumbre de su muerte; y
 
 IV.- Con la sentencia que cause ejecutoria, en el caso del artículo 414 de este Ordenamiento y de acuerdo con lo previsto por los artículos 549 y 550 del Código Procesal Familiar.
 
-### CAPÍTULO VI. DE LOS EFECTOS DE LA PRESUNCIÓN DE MUERTE EN RELACIÓN CON LOS DERECHOS EVENTUALES DE AQUEL SOBRE EL QUE RECAE LA DECLARACIÓN
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 416.
 
@@ -3279,7 +3279,7 @@ Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena
 
 ## TÍTULO PRIMERO. DEL REGISTRO CIVIL
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LAS ACTAS DE NACIMIENTO
 
 ###### ARTÍCULO 419.
 
@@ -3387,7 +3387,7 @@ ALTERACIÓN DE ACTAS POR EL OFICIAL O FUNCIONARIO DEL REGISTRO CIVIL. La alterac
 
 CORRECCIONES NO SUBSTANCIALES DE LAS ACTAS DEL REGISTRO CIVIL. Los vicios o defectos que haya en las actas, sujetan al Oficial del Registro Civil a las correcciones que señale el Reglamento respectivo, pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
-### CAPÍTULO II. DE LAS ACTAS DE NACIMIENTO
+### CAPÍTULO III. DE LAS ACTAS DE ADMISIÓN Y RECONOCIMIENTO
 
 ###### ARTÍCULO 438.
 
@@ -3471,7 +3471,7 @@ ACTAS DE NACIMIENTO EN CASO DE PARTO MÚLTIPLE. Cuando se trate de parto múltip
 
 ACTAS DE NACIMIENTO Y DE DEFUNCIÓN DEL RECIEN NACIDO. Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento atento lo dispuesto por el artículo 3 de este Código y otra de defunción.
 
-### CAPÍTULO III. DE LAS ACTAS DE ADMISIÓN Y RECONOCIMIENTO
+### CAPÍTULO IV. DE LAS ACTAS DE MATRIMONIO
 
 ###### ARTÍCULO 451.
 
@@ -3499,7 +3499,7 @@ RECONOCIMIENTO DIVERSO AL DEL REGISTRO. Si el reconocimiento se hace por alguno 
 
 La omisión del Registro en el caso del párrafo que precede no quita los efectos legales al reconocimiento o admisión hecho conforme a las disposiciones de este Código.
 
-### CAPÍTULO IV. DE LAS ACTAS DE MATRIMONIO
+### CAPÍTULO V. DE LAS ACTAS DE DIVORCIO
 
 ###### ARTÍCULO 456.
 
@@ -3625,7 +3625,7 @@ El Oficial del Registro Civil que sin motivo justificado retarde la celebración
 
 ANOTACIÓN DEL ACTA DE MATRIMONIO EN OTRAS ACTAS. Extendida el acta de matrimonio, se anotará ésta en las de nacimiento, reconocimiento u adopción de los contrayentes, si las hubiere y remitirá el aviso correspondiente al Oficial del Registro Civil del lugar en donde obren los registros. El Oficial del Registro Civil que no de cumplimiento a esta disposición, será sancionado con cien días de salario mínimo general en el Estado.
 
-### CAPÍTULO V. DE LAS ACTAS DE DIVORCIO
+### CAPÍTULO VI. DE LAS ACTAS DE DEFUNCIÓN
 
 ###### ARTÍCULO 468.
 
@@ -3639,7 +3639,7 @@ CONTENIDO DEL ACTA DE DIVORCIO. El acta de divorcio contendrá: los nombres, ape
 
 ANOTACIÓN DEL ACTA DE DIVORCIO EN OTRAS ACTAS. Extendida el acta de divorcio, se anotará ésta en las de nacimiento y matrimonio de los divorciados.
 
-### CAPÍTULO VI. DE LAS ACTAS DE DEFUNCIÓN
+### CAPÍTULO I. INSCRIPCIÓN EN ACTAS SOBRE EJECUTORIAS QUE DECLAREN LA ADOPCIÓN
 
 ###### ARTÍCULO 471.
 
@@ -3703,7 +3703,7 @@ PROHIBICIÓN DE INSCRIBIR CIRCUNSTANCIAS PERJUDICIALES EN EL ACTA DE DEFUNCIÓN.
 
 ## TÍTULO SEGUNDO. DE LA INSCRIPCIÓN, RECTIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
 
-### CAPÍTULO I. INSCRIPCIÓN EN ACTAS SOBRE EJECUTORIAS QUE DECLAREN LA ADOPCIÓN
+### CAPÍTULO II. INSCRIPCIÓN EN ACTAS SOBRE EJECUTORIAS QUE DECLAREN LA TUTELA
 
 ###### ARTÍCULO 478.
 
@@ -3721,7 +3721,7 @@ El acta de adopción será guardada en los archivos del registro civil sin exped
 
 DE LA INVALIDACIÓN DE LA ADOPCIÓN. El Juzgado o Tribunal al resolver que una adopción queda sin efectos, remitirá dentro del plazo de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y haga la anotación conducente en el acta de nacimiento.
 
-### CAPÍTULO II. INSCRIPCIÓN EN ACTAS SOBRE EJECUTORIAS QUE DECLAREN LA TUTELA
+### CAPÍTULO III. DE LA INSCRIPCIÓN EN ACTAS DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD PARA ADMINISTRAR BIENES, DE LA DECLARACIÓN DE AUSENCIA Y DE LA PRESUNCIÓN DE MUERTE
 
 ###### ARTÍCULO 481.
 
@@ -3739,7 +3739,9 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado obser
 
 NOTIFICACIÓN DE LA RECUPERACIÓN DE LA CAPACIDAD LEGAL DEL PUPILO AL OFICIAL DEL REGISTRO CIVIL. Cuando se recobre la capacidad legal, se dará aviso al Oficial del Registro Civil que corresponda por conducto del interesado, mediante la copia certificada de resolución judicial que así lo determine, para efectos de cancelar la inscripción o inscripciones a que se refieren los artículos 481 y 482 de este Código.
 
-### CAPÍTULO III. DE LA INSCRIPCIÓN EN ACTAS DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD PARA ADMINISTRAR BIENES, DE LA DECLARACIÓN DE AUSENCIA Y DE LA PRESUNCIÓN DE MUERTE
+### CAPÍTULO IV. DE LA RECTIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 484.
 
@@ -3755,9 +3757,7 @@ El acta en donde se asiente la ejecutoria en que se declare la ausencia o la pre
 
 CANCELACIÓN DEL ACTA CUANDO CESE LA INCAPACIDAD, O SE PRESENTE EL AUSENTE O EL PRESUNTO MUERTO. Cuando se recobre la capacidad legal para administrar bienes o su persona, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
-### CAPÍTULO IV. DE LA RECTIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+### CAPÍTULO ÚNICO. REGLAS GENERALES
 
 ###### ARTÍCULO 487.
 
@@ -3771,7 +3771,7 @@ EFECTOS JURÍDICOS CIVILES PARA DESPUÉS DE LA MUERTE
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-### CAPÍTULO ÚNICO. REGLAS GENERALES
+### CAPÍTULO I. DE LOS TESTAMENTOS EN GENERAL
 
 ###### ARTÍCULO 488.
 
@@ -3827,7 +3827,7 @@ PREFERENCIA EN EL USO DEL DERECHO DEL TANTO ENTRE COHEREDEROS. Si dos o más coh
 
 ## TÍTULO SEGUNDO. DE LA SUCESIÓN TESTAMENTARIA
 
-### CAPÍTULO I. DE LOS TESTAMENTOS EN GENERAL
+### CAPÍTULO II. DE LA CAPACIDAD PARA HEREDAR POR TESTAMENTO
 
 ###### ARTÍCULO 500.
 
@@ -3841,7 +3841,7 @@ PROHIBICIÓN DE TESTAR CONJUNTAMENTE. No pueden testar en el mismo acto dos o m�
 
 IMPOSIBILIDAD DE UN TERCERO PARA UTILIZAR SU LIBRE ARBITRIO EN TESTAMENTO. Ni la subsistencia del nombramiento de los herederos o de los legatarios, ni la designación de las cantidades que a ellos corresponda, pueden dejarse al arbitrio de un tercero, aun cuando lo hubiere dispuesto el testador.
 
-### CAPÍTULO II. DE LA CAPACIDAD PARA HEREDAR POR TESTAMENTO
+### CAPÍTULO III. DE LA CAPACIDAD PARA TESTAR
 
 ###### ARTÍCULO 503.
 
@@ -3949,7 +3949,7 @@ Las personas llamadas por la Ley para desempeñar la tutela legítima y que reh�
 
 ###### ARTÍCULO 518.
 
-TESTAMENTO A FAVOR DE CLASES CON MIEMBROS INDETERMINADOS. Cuando el testador deje como herederos o legatarios a clases formadas por número indeterminado de individuos, tales como los pobres, los huérfanos, los ciegos, y otras personas de condiciones similares, se regirán por lo dispuesto en las Leyes de Asistencia Social. Los testamentos hechos en favor de las iglesias, sectas o instituciones religiosas, se sujetarán a lo dispuesto en los artículos 27 y 130 de la Constitución Federal y sus leyes reglamentarias.
+TESTAMENTO EN FAVOR DE CLASES CON MIEMBROS INDETERMINADOS. Cuando el testador deje como herederos o legatarios a clases formadas por número indeterminado de individuos, tales como los pobres, los huérfanos, los ciegos, y otras personas de condiciones similares, se regirán por lo dispuesto en las Leyes de Asistencia Social. Los testamentos hechos en favor de las iglesias, sectas o instituciones religiosas, se sujetarán a lo dispuesto en los artículos 27 y 130 de la Constitución Federal y sus leyes reglamentarias.
 
 ###### ARTÍCULO 519.
 
@@ -4003,7 +4003,7 @@ DECLARACIÓN JUDICIAL DE INCAPACIDAD DEL HEREDERO QUE HUBIERE ENTRADO EN POSESI�
 
 Lo dispuesto en este artículo también se aplicará al heredero aparente cuando fuere privado de la herencia, así como respecto a los actos y contratos que celebre.
 
-### CAPÍTULO III. DE LA CAPACIDAD PARA TESTAR
+### CAPÍTULO IV. DE LAS CONDICIONES, TÉRMINOS O PLAZOS QUE PUEDEN ESTABLECERSE EN LOS TESTAMENTOS
 
 ###### ARTÍCULO 530.
 
@@ -4033,7 +4033,7 @@ I.- Los menores que no han cumplido dieciséis años de edad; y
 
 II.- Los que constante o accidentalmente no disfruten de su cabal juicio.
 
-### CAPÍTULO IV. DE LAS CONDICIONES, TÉRMINOS O PLAZOS QUE PUEDEN ESTABLECERSE EN LOS TESTAMENTOS
+### CAPÍTULO V. DE LA OBLIGACIÓN TESTAMENTARIA DE PROPORCIONAR ALIMENTOS Y DEL TESTAMENTO INOFICIOSO
 
 ###### ARTÍCULO 533.
 
@@ -4103,7 +4103,7 @@ CONOCIMIENTO O NO DEL TESTADOR DEL CUMPLIMIENTO DE LA CONDICIÓN. Si la condici�
 
 EFECTOS RETROACTIVOS CUANDO SE CUMPLE LA CONDICIÓN. La condición que se ha cumplido, existiendo la persona a quien se impuso, se retrotrae al tiempo de la muerte del testador, y desde entonces deben abonarse los frutos de la herencia o legado, a menos que el testador haya dispuesto expresamente otra cosa.
 
-### CAPÍTULO V. DE LA OBLIGACIÓN TESTAMENTARIA DE PROPORCIONAR ALIMENTOS Y DEL TESTAMENTO INOFICIOSO
+### CAPÍTULO VI. DE LA INSTITUCIÓN DE HEREDERO
 
 ###### ARTÍCULO 545.
 
@@ -4167,7 +4167,9 @@ No obstante, el hijo póstumo tendrá derecho a percibir íntegra la porción qu
 
 PENSIÓN ALIMENTICIA COMO CARGA DE LA MASA HEREDITARIA. La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testador haya gravado con ella a alguno o algunos de los partícipes de la sucesión.
 
-### CAPÍTULO VI. DE LA INSTITUCIÓN DE HEREDERO
+### CAPÍTULO VII. DE LOS LEGADOS
+
+DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 553.
 
@@ -4215,9 +4217,7 @@ ERROR CIRCUNSTANCIAL EN LA INSTITUCIÓN DE HEREDERO. El error en el nombre, apel
 
 NULIDAD DEL TESTAMENTO POR INCERTIDUMBRE EN LA PERSONA O EN LA COSA. Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse será nula, a menos que por algún evento puedan resultar ciertas.
 
-### CAPÍTULO VII. DE LOS LEGADOS
-
-DISPOSICIONES GENERALES
+### CAPÍTULO VIII. DE LAS SUBSTITUCIONES
 
 ###### ARTÍCULO 563.
 
@@ -4523,7 +4523,7 @@ En el caso del párrafo anterior, si el legado consiste en prestación periódic
 
 CONCLUSIÓN DEL LEGADO. Cuando el legado debe concluir en un día que es seguro que ha de llegar, se entregará la cosa o cantidad legada al legatario, quien se considerará como usufructuario de ella.
 
-### CAPÍTULO VIII. DE LAS SUBSTITUCIONES
+### CAPÍTULO IX. INEXISTENCIA, NULIDAD, REVOCACIÓN Y CADUCIDAD DE LOS TESTAMENTOS
 
 ###### ARTÍCULO 622.
 
@@ -4561,7 +4561,7 @@ Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capita
 
 La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Ministerio Público.
 
-### CAPÍTULO IX. INEXISTENCIA, NULIDAD, REVOCACIÓN Y CADUCIDAD DE LOS TESTAMENTOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 627.
 
@@ -4631,7 +4631,7 @@ FALTA DE CADUCIDAD DE LA DISPOSICIÓN TESTAMENTARIA CON CONDICIÓN DE SUCESO PAS
 
 ## TÍTULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DEL TESTAMENTO PÚBLICO ABIERTO
 
 ###### ARTÍCULO 638.
 
@@ -4709,7 +4709,7 @@ En todos los casos en que se otorgue un testamento conforme a lo dispuesto en es
 
 Cuando el Archivo General de Notarías del Estado reciba una solicitud de informe acerca de la existencia o inexistencia de disposición testamentaria, para emitir su informe, deberá consultar la base de datos del Registro Nacional de Avisos de Testamento a fin de proporcionar al solicitante el reporte de búsqueda nacional, que se obtenga de su consulta.
 
-### CAPÍTULO II. DEL TESTAMENTO PÚBLICO ABIERTO
+### CAPÍTULO III. DEL TESTAMENTO PÚBLICO CERRADO
 
 ###### ARTÍCULO 646.
 
@@ -4745,7 +4745,7 @@ SOLEMNIDADES EN EL TESTAMENTO. Las solemnidades se practicarán de modo continuo
 
 Faltando alguna de las referidas, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pérdida de oficio.
 
-### CAPÍTULO III. DEL TESTAMENTO PÚBLICO CERRADO
+### CAPÍTULO IV. DEL TESTAMENTO OLÓGRAFO
 
 ###### ARTÍCULO 651.
 
@@ -4841,7 +4841,7 @@ EFECTOS DE LA ALTERACIÓN DEL TESTAMENTO PÚBLICO CERRADO. El testamento cerrado
 
 SANCIONES POR FALTA DE PRESENTACIÓN O POR SUSTRACCIÓN DEL TESTAMENTO PÚBLICO CERRADO. Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en el artículo 645 de este Código, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
-### CAPÍTULO IV. DEL TESTAMENTO OLÓGRAFO
+### CAPÍTULO V. DEL TESTAMENTO PRIVADO
 
 ###### ARTÍCULO 669.
 
@@ -4927,7 +4927,7 @@ FALTA DE EFECTOS DEL TESTAMENTO ORIGINAL O DUPLICADO. El testamento ológrafo qu
 
 PERSONAS A LAS QUE SE PUEDE INFORMAR DE LA EXISTENCIA DE TESTAMENTO OLÓGRAFO. El encargado del Registro Público de la Propiedad no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
 
-### CAPÍTULO V. DEL TESTAMENTO PRIVADO
+### CAPÍTULO VI. DEL TESTAMENTO MILITAR
 
 ###### ARTÍCULO 682.
 
@@ -4991,7 +4991,7 @@ MUERTE O AUSENCIA DE ALGÚN TESTIGO. Si después de la muerte del testador murie
 
 Lo dispuesto en el párrafo anterior se observará también en el caso de ausencia de alguno o algunos de los testigos, siempre que en la falta de comparecencia del testigo no hubiere dolo.
 
-### CAPÍTULO VI. DEL TESTAMENTO MILITAR
+### CAPÍTULO VII. DEL TESTAMENTO MARÍTIMO
 
 ###### ARTÍCULO 690.
 
@@ -5007,7 +5007,7 @@ ENTREGA DEL TESTAMENTO MILITAR. Los testamentos otorgados por escrito, conforme 
 
 TESTAMENTO MILITAR ORAL. Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto a la Secretaría de la Defensa Nacional, y ésta a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos 685 al 689 de este Código.
 
-### CAPÍTULO VII. DEL TESTAMENTO MARÍTIMO
+### CAPÍTULO VIII. DEL TESTAMENTO HECHO EN PAÍS EXTRANJERO O FUERA DEL ESTADO
 
 ###### ARTÍCULO 693.
 
@@ -5045,7 +5045,7 @@ APLICACIÓN SUPLETORIA DEL CÓDIGO CIVIL DEL DISTRITO FEDERAL EN EL PROCEDIMIENT
 
 SUPUESTOS PARA QUE PRODUZCA EFECTOS EL TESTAMENTO MARÍTIMO. El testamento marítimo solamente producirá efectos legales falleciendo el testador en el mar o dentro de un mes contado desde su desembarque en algún lugar, donde, conforme a la Ley mexicana o a la extranjera, haya podido ratificar u otorgar de nuevo su última disposición.
 
-### CAPÍTULO VIII. DEL TESTAMENTO HECHO EN PAÍS EXTRANJERO O FUERA DEL ESTADO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 701.
 
@@ -5069,7 +5069,7 @@ El papel en que se extiendan los testamentos otorgados ante los agentes diplomá
 
 ## TÍTULO CUARTO. DE LA SUCESIÓN LEGÍTIMA
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA SUCESIÓN DE LOS DESCENDIENTES
 
 ###### ARTÍCULO 705.
 
@@ -5121,7 +5121,7 @@ HERENCIA A PRORRATA DE PARIENTES DEL MISMO GRADO. Los parientes que se hallaren 
 
 APLICACIÓN DE LAS REGLAS DE PARENTESCO EN SUCESIÓN LEGÍTIMA. Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo II, Título Único, Libro Segundo de este Código.
 
-### CAPÍTULO II. DE LA SUCESIÓN DE LOS DESCENDIENTES
+### CAPÍTULO III. DE LA SUCESIÓN DE LOS ASCENDIENTES
 
 ###### ARTÍCULO 713.
 
@@ -5153,7 +5153,7 @@ HERENCIA DEL ADOPTADO. El adoptado hereda como un hijo, pero no hay derecho de s
 
 Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
 
-### CAPÍTULO III. DE LA SUCESIÓN DE LOS ASCENDIENTES
+### CAPÍTULO IV. DE LA SUCESIÓN DEL CÓNYUGE SUPÉRSTITE
 
 ###### ARTÍCULO 719.
 
@@ -5195,7 +5195,7 @@ Cuando se reconozca o admita a algún hijo después de que éste haya adquirido 
 
 En todo caso de reconocimiento o admisión de un descendiente antes de su muerte, a pesar de la impugnación de parte legítima, el que reconoce o admite tendrá por lo menos derecho a alimentos, en el caso de que el reconocimiento o admisión se haya hecho cuando el reconocido o admitido tuvo también derecho a percibirlos.
 
-### CAPÍTULO IV. DE LA SUCESIÓN DEL CÓNYUGE SUPÉRSTITE
+### CAPÍTULO V. DE LA SUCESIÓN DE LOS COLATERALES
 
 ###### ARTÍCULO 727.
 
@@ -5219,7 +5219,9 @@ DERECHO DEL CÓNYUGE A HEREDAR AUN TENIENDO BIENES PROPIOS. El cónyuge recibir�
 
 SUCESIÓN TOTAL DEL CÓNYUGE. A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
 
-### CAPÍTULO V. DE LA SUCESIÓN DE LOS COLATERALES
+### CAPÍTULO VI. DE LA SUCESIÓN DE LOS CONCUBINOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 732.
 
@@ -5241,9 +5243,7 @@ SUCESIÓN DE LOS HIJOS DE LOS HERMANOS A FALTA DE ESTOS. A falta de hermanos, su
 
 SUCESIÓN DE LOS PARIENTES MAS PRÓXIMOS POR AUSENCIA DE TODOS LOS ANTERIORES. A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del cuarto grado, sin distinción de línea, ni consideración al doble vínculo, y heredarán por partes iguales.
 
-### CAPÍTULO VI. DE LA SUCESIÓN DE LOS CONCUBINOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO VII. DE LA SUCESIÓN DEL ESTADO
 
 ###### ARTÍCULO 737.
 
@@ -5251,7 +5251,7 @@ SUCESIÓN DE LOS CONCUBINOS. Los concubinos tienen derecho a heredarse recíproc
 
 Si al morir el autor de la herencia le sobreviven varias concubinas o concubinos en las condiciones mencionadas al principio de este artículo, ninguno de ellos heredará.
 
-### CAPÍTULO VII. DE LA SUCESIÓN DEL ESTADO
+### CAPÍTULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDA ENCINTA
 
 ###### ARTÍCULO 738.
 
@@ -5259,7 +5259,7 @@ CONDICIONES DE LA SUCESIÓN DEL ESTADO. A falta de los herederos designados en l
 
 ## TÍTULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGÍTIMA
 
-### CAPÍTULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDA ENCINTA
+### CAPÍTULO II. DE LA APERTURA DE LA HERENCIA
 
 ###### ARTÍCULO 739.
 
@@ -5307,7 +5307,7 @@ NOTIFICACIÓN DE DILIGENCIAS JUDICIALES A LA VIUDA. Para cualquiera de las dilig
 
 SUSPENSIÓN DE LA DIVISIÓN DE LA HERENCIA. La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez, mas los acreedores podrán ser pagados por mandato judicial.
 
-### CAPÍTULO II. DE LA APERTURA DE LA HERENCIA
+### CAPÍTULO III. DE LOS ALBACEAS
 
 ###### ARTÍCULO 750.
 
@@ -5425,7 +5425,7 @@ POSIBILIDAD DE IMPEDIR LA ACEPTACIÓN DE ACREEDORES DE LA HERENCIA REPUDIADA. El
 
 HEREDERO DECLARADO PROVENIENTE DE LEGATARIO O ACREEDOR HEREDITARIO. El que a instancias de un legatario o acreedor hereditario haya sido declarado heredero, será considerado como tal por los demás, sin necesidad de nuevo juicio.
 
-### CAPÍTULO III. DE LOS ALBACEAS
+### CAPÍTULO IV. DEL INVENTARIO, SU FORMACIÓN Y DE LA LIQUIDACIÓN DE LA HERENCIA
 
 ###### ARTÍCULO 774.
 
@@ -5791,7 +5791,7 @@ REQUISITOS PARA LA REMOCIÓN DEL CARGO DEL ALBACEA O INTERVENTOR. La remoción d
 
 Las causas de remoción obligatoria del albacea se regirán por lo dispuesto en la fracción IV del artículo 742 del Código Procesal Familiar.
 
-### CAPÍTULO IV. DEL INVENTARIO, SU FORMACIÓN Y DE LA LIQUIDACIÓN DE LA HERENCIA
+### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DEL HEREDERO
 
 ###### ARTÍCULO 838.
 
@@ -5847,7 +5847,7 @@ REQUISITOS Y APLICACIÓN PARA LA VENTA DE BIENES HEREDITARIOS. La venta de biene
 
 La mayoría de los interesados, o la autoridad judicial en su caso, determinará la aplicación que haya de darse al precio de las cosas vendidas.
 
-### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DEL HEREDERO
+### CAPÍTULO VI. DE LA PARTICIÓN
 
 ###### ARTÍCULO 849.
 
@@ -5933,7 +5933,7 @@ RESPETO A LOS ACTOS DE ADMINISTRACIÓN DEL POSEEDOR DE LA HERENCIA EN FAVOR DE T
 
 Los actos de enajenación de bienes a título oneroso que hubiese hecho el poseedor de la herencia, a favor de tercero, serán válidos respecto al heredero o herederos, a no ser que dicho tercero hubiere procedido de mala fe. Los actos de enajenación a título gratuito, serán nulos aun cuando hubiere habido buena fe en el tercero y en el enajenante.
 
-### CAPÍTULO VI. DE LA PARTICIÓN
+### CAPÍTULO VII. DE LOS EFECTOS DE LA PARTICIÓN
 
 ###### ARTÍCULO 867.
 
@@ -6007,7 +6007,7 @@ FORMALIDADES Y GASTOS DE LA PARTICIÓN. La partición constará en escritura pú
 
 Los gastos de la partición se rebajarán del fondo común; los que se hagan por interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
 
-### CAPÍTULO VII. DE LOS EFECTOS DE LA PARTICIÓN
+### CAPÍTULO VIII. DE LA RESCISIÓN Y NULIDAD DE LAS PARTICIONES
 
 ###### ARTÍCULO 880.
 
@@ -6059,7 +6059,7 @@ PRETENSIÓN DE ACREEDORES Y LEGATARIOS DESPUÉS DE REALIZADA LA PARTICIÓN. Los 
 
 Los acreedores tendrán, en el mismo caso, pretensión contra los legatarios, en la parte que no sean cubiertos sus créditos con los bienes de la herencia. En todos los supuestos anteriores, procede la pretensión de enriquecimiento indebido.
 
-### CAPÍTULO VIII. DE LA RESCISIÓN Y NULIDAD DE LAS PARTICIONES
+### CAPÍTULO IX. DE LA TRANSMISIÓN HEREDITARIA DE LOS DERECHOS NO PATRIMONIALES
 
 ###### ARTÍCULO 889.
 
@@ -6598,3 +6598,13 @@ VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la Administración Púb
 VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Centro de Evaluación y Control de Confianza del Estado de Morelos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrito a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto; en especial los derechos de la acreditación otorgada por el Centro Nacional de Certificación y Acreditación.
 
 VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conducentes ante el Centro Nacional de Certificación y Acreditación, con relación a las adecuaciones realizadas por virtud de este Decreto, respecto del Centro de Evaluación y Control de Confianza del Estado de Morelos.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL CUATROCIENTOS CINCUENTA POR EL QUE SE REFORMAN DIVERSAS LEYES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ARMONIZAR LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
