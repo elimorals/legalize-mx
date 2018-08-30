@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2018-07-11"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -97,7 +97,9 @@ IV. Los Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecu
 
 V. El Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
-VI. El Certificado de Idoneidad: El documento expedido por el Sistema DIF Morelos, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+VI. El Certificado de Idoneidad: El documento expedido por la Procuraduría, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
 VII. El CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Social;
 
@@ -115,13 +117,15 @@ XIII. La Familia de Acogimiento pre-adoptivo: Aquélla que acoge provisionalment
 
 XIV. La Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
-XV. El Informe de Adoptabilidad: El documento expedido por el Sistema DIF Morelos, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la Adoptabilidad de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+XV. El Informe de Adoptabilidad: El documento expedido por la Procuraduría, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la Adoptabilidad de niñas, niños y adolescentes;
 
 XVI. El Órgano Jurisdiccional, a los juzgados o tribunales federales o de las entidades federativas;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-XVII. Las Procuradurías de Protección: La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y las instancias Municipales;
+XVII. Las Procuradurías de Protección: La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia de la Fiscalía General del Estado y sus homologas a nivel municipal;
 
 XVIII. El Programa Local: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Morelos;
 
@@ -135,7 +139,7 @@ XXII. La Representación Originaria: La representación de niñas, niños y adol
 
 XXIII. La Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXIV. El Sistema DIF Morelos: El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos;
+XXIV. (DEROGADA, P.O. 30 DE AGOSTO DE 2018)
 
 XXV. El Sistema de Protección Local: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Morelos;
 
@@ -355,11 +359,11 @@ Cuando las autoridades estatales tengan conocimiento de casos de niñas, niños 
 
 Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES PRIMERO Y SEGUNDO PÁRRAFO], P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 25.
 
-El Sistema DIF Morelos con el apoyo de los Sistemas DIF municipales, deberán otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
-
-Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, de conformidad con la legislación aplicable, el Sistema DIF Morelos, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
+La Procuraduría de Protección estatal, con apoyo de las Procuradurías municipales, deberán otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial. Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, de conformidad con la legislación aplicable, la Procuraduría estatal, según sea el caso, se asegurará de que niñas, niños y adolescentes:
 
 I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior;
 
@@ -367,15 +371,17 @@ II. Sean recibidos por una familia de acogida como medida de protección, de car
 
 III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedimiento de adopción, que supone la vinculación de niñas, niños y adolescentes, respecto del cual ya se ha declarado la condición de adoptabilidad, con su nuevo entorno y determinar la idoneidad de la familia para convertirse en familia adoptiva;
 
-IV. El Sistema DIF Morelos, en el ámbito de sus respectivas competencias, deberán registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, o
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+IV. Deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento preadoptivo, o
 
 V. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
 
-Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 3450 SE ADVIERTE QUE EL CONTENIDO DE LOS ANTERIORES ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, SE INTEGRARON AL ACTUAL.]</small>
 
-La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-El Sistema DIF Morelos en todo momento será responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento, pudiendo apoyarse de los Sistemas DIF Municipales.
+La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia. La Procuraduría estatal en todo momento será responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento, pudiendo apoyarse de las Procuradurías Municipales.
 
 ###### Artículo 26.
 
@@ -403,9 +409,11 @@ Cuando se verifique cualquier tipo de violación a los derechos de niñas, niño
 
 Los procedimientos de adopción se desahogarán de conformidad con la legislación familiar vigente, tomando en cuenta el certificado de idoneidad de las familias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 28.
 
-Corresponde al Sistema DIF Morelos, así como a los Sistemas DIF Municipales, en el ámbito de sus respectivas competencias:
+Corresponde a las Procuradurías, en el ámbito de sus respectivas competencias:
 
 I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación; y
 
@@ -413,9 +421,9 @@ II. Coadyuvar en el acopio de información para mantener actualizado el registro
 
 III. La evaluación correspondiente para quienes pretenden adoptar
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
-El Sistema DIF Morelos, en coordinación con la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, informará de manera trimestral a la Procuraduría de Protección Federal respecto de las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, y las adopciones concluidas.
+La Procuraduría de Protección Estatal informará de manera trimestral a la Procuraduría de Protección Federal.
 
 ###### Artículo 29.
 
@@ -423,19 +431,25 @@ La adopción se regirá por lo dispuesto en el Código Familiar para el Estado L
 
 Tratándose de adopción internacional, se atenderá a lo dispuesto por la Ley General de los Derechos de las Niñas, Niños y adolescentes y la demás normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 30.
 
-El Sistema DIF Morelos expedirá la autorización de los profesionales que realicen los estudios que servirán de sustento al certificado de idoneidad, a favor de quienes cumplan los requisitos señalados por el artículo 32 de la Ley General.
+La Procuraduría estatal expedirá la autorización de los profesionales que realicen los estudios que servirán de sustento al certificado de idoneidad, a favor de quienes cumplan los requisitos señalados por el artículo 32 de la Ley General.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 31.
 
-Cuando las personas que laboren en las instituciones públicas y privadas contravengan los derechos de niñas, niños y adolescentes o incurran en actos contrarios al interés superior de la niñez, el Sistema DIF Morelos revocará la autorización y registrará la cancelación a que se refiere el artículo anterior; dando parte al Sistema Nacional DIF, a fin de evitar adopciones contrarias al interés superior de la niñez. Lo anterior, sin perjuicio de las sanciones previstas en las disposiciones jurídicas aplicables.
+Cuando las personas que laboren en las instituciones públicas y privadas contravengan los derechos de niñas, niños y adolescentes o incurran en actos contrarios al interés superior de la niñez, la Procuraduría estatal revocará la autorización y registrará la cancelación a que se refiere el artículo anterior; dando parte al Sistema Nacional DIF, a fin de evitar adopciones contrarias al interés superior de la niñez.
 
-Cualquier persona podrá presentar una queja ante el Sistema DIF Morelos si considera que se actualizan los supuestos previstos en el primer párrafo de este artículo.
+Lo anterior, sin perjuicio de las sanciones previstas en las disposiciones jurídicas aplicables. Cualquier persona podrá presentar una queja ante la Procuraduría estatal si considera que se actualizan los supuestos previstos en el primer párrafo de este artículo.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 32.
 
-El Sistema DIF Morelos y las instituciones públicas y privadas de acuerdo a su objeto social, ofrecerán orientación, cursos y asesorías gratuitas, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros.
+La Procuraduría estatal y las instituciones públicas y privadas de acuerdo a su objeto social, ofrecerán orientación, cursos y asesorías gratuitas, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros.
 
 ### Capítulo Quinto. Del Derecho a la Igualdad Sustantiva
 
@@ -479,11 +493,11 @@ La adopción de estas medidas y la realización de acciones afirmativas formará
 
 Serán factor de análisis prioritario las diferencias de género como causa de vulnerabilidad y discriminación en contra de las niñas y las adolescentes.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 38.
 
-Las autoridades estatales y municipales deberán reportar semestralmente a la Instancia competente del Estado en materia de prevención y eliminación de la discriminación, las medidas de nivelación, medidas de inclusión y acciones afirmativas que adopten, para su registro y monitoreo, quien a su vez, deberá reportar al Consejo Nacional para Prevenir la Discriminación y al Sistema DIF Morelos.
-
-Dichos reportes deberán desagregar la información, por lo menos, en razón de edad, sexo, escolaridad, entidad federativa y tipo de discriminación.
+Las autoridades estatales y municipales deberán reportar semestralmente a la Instancia competente del Estado en materia de prevención y eliminación de la discriminación, las medidas de nivelación, medidas de inclusión y acciones afirmativas que adopten, para su registro y monitoreo, quien a su vez, deberá reportar al Consejo Nacional para Prevenir la Discriminación y a la Fiscalía, a través de la Procuraduría. Dichos reportes deberán desagregar la información, por lo menos, en razón de edad, sexo, escolaridad, entidad federativa y tipo de discriminación.
 
 ###### Artículo 39.
 
@@ -969,11 +983,11 @@ Las autoridades estatales y municipales, deberán brindar protección a las niñ
 
 La Procuraduría de Protección Estatal, deberá brindar la protección que prevé esta Ley y demás disposiciones aplicables, en tanto, el Instituto Nacional de Migración determine la condición migratoria de la niña, niño o adolescente,
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 83.
 
-Para garantizar la protección integral de los derechos, el Sistema DIF Morelos y, en su caso, los Sistemas DIF Municipales, así como la Fiscalía General del Estado de Morelos, habilitarán espacios de alojamiento o Centros de Asistencia para recibir a niñas, niños y adolescentes migrantes.
+Para garantizar la protección integral de los derechos, la Fiscalía, a través de la Procuraduría y, en su caso, los Sistemas DIF Municipales, habilitarán espacios de alojamiento o Centros de Asistencia para recibir a niñas, niños y adolescentes migrantes.
 
 Los espacios de alojamiento de niñas, niños y adolescentes migrantes, respetarán el principio de separación y el derecho a la unidad familiar, de modo tal que si se trata de niñas, niños o adolescentes no acompañados o separados, deberán alojarse en sitios distintos al que corresponde a las personas adultas. Tratándose de niñas, niños o adolescentes acompañados, podrán alojarse con sus familiares, salvo que lo más conveniente sea la separación de éstos en aplicación del principio del interés superior de la niñez.
 
@@ -981,15 +995,19 @@ Los espacios de alojamiento de niñas, niños y adolescentes migrantes, respetar
 
 Está prohibido devolver, expulsar, deportar, retornar, no admitir, o de cualquier manera transferir o remover a una niña, niño o adolescente cuando su vida, seguridad y/o libertad estén en peligro a causa de persecución o amenaza de la misma, violencia generalizada o violaciones masivas a los derechos humanos, entre otros, así como donde pueda ser sometido a tortura u otros tratos crueles, inhumanos o degradantes.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 85.
 
-En caso de que el Sistema DIF Morelos o los sistemas DIF municipales identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración a fin de adoptar medidas de protección especial.
+En caso de que la Fiscalía, a través de la Procuraduría o los sistemas DIF municipales identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración a fin de adoptar medidas de protección especial.
 
-El Sistema DIF Morelos, en coordinación con las instituciones competentes, realizará una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
+La Fiscalía, a través de la Procuraduría, en coordinación con las instituciones competentes, realizará una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 86.
 
-El Sistema DIF Morelos enviará al Sistema Nacional DIF la información necesaria para alimentar la base de datos de niñas, niños y adolescentes migrantes extranjeros no acompañados, incluyendo, las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica, así como cualquier otro dato que sea relevante o solicitado por el Sistema Nacional DIF.
+La Fiscalía, a través de la Procuraduría enviará al Sistema Nacional DIF la información necesaria para alimentar la base de datos de niñas, niños y adolescentes migrantes extranjeros no acompañados, incluyendo, las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica, así como cualquier otro dato que sea relevante o solicitado por el Sistema Nacional DIF.
 
 ## TÍTULO TERCERO. De las Obligaciones
 
@@ -1612,3 +1630,13 @@ VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la Administración Púb
 VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Centro de Evaluación y Control de Confianza del Estado de Morelos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrito a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto; en especial los derechos de la acreditación otorgada por el Centro Nacional de Certificación y Acreditación.
 
 VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conducentes ante el Centro Nacional de Certificación y Acreditación, con relación a las adecuaciones realizadas por virtud de este Decreto, respecto del Centro de Evaluación y Control de Confianza del Estado de Morelos.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS CINCUENTA.- POR EL QUE SE REFORMAN DIVERSAS LEYES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ARMONIZAR LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
