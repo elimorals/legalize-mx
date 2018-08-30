@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2018-07-11"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -533,11 +533,15 @@ X. Fomentar entre toda la población una cultura de la vejez, de respeto, apreci
 
 Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, en materia de adultos mayores:
 
-I. Desarrollar los lineamientos, mecanismos e instrumentos para la organización y funcionamiento de las instituciones de-atención a las personas adultas mayores, como casas de día programas de esparcimiento y apoyos varios, para su desarrollo integral;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+I. Desarrollar los lineamientos, mecanismos e instrumentos para la organización y funcionamiento de las instituciones de atención a las personas adultas mayores, como casas de día programas de esparcimiento y apoyos varios, para su desarrollo integral;
 
 II. Otorgar servicios de calidad y calidez a las personas adultas mayores, brindándoles una atención especializada en su salud física, mental, emocional y espiritual, ayudándoles a vivir con mayor dignidad, que les permita vivir con entusiasmo y alegría;
 
-III. Fomentar la Participación de las personas adultas mayores en Congresos y Encuentros convocados por los DIF Nacionales, Estatales y Municipales, motivándolos a mantener un estilo de vida saludable a través del deporte, la cultura y la educación; proyectar a la sociedad una imagen positiva del proceso de envejecimiento y de la vejez misma y capacitación sobre el auto cuidado, así como a cuidadores primarios;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+III. Brindar alojamiento a las personas adultas mayores que por eventualidad hayan sido afectados por una contingencia o siniestro y se encuentren desprotegidos, otorgándoles un trato digno con calidad y respeto;
 
 IV. Brindar espacios y servicios de asistencia social con atención integral a las personas adultas mayores que se valgan física y mentalmente por sí mismos; activos y funcionales. Promoviendo la cultura de una vejez digna, activa, productiva y ocupativa;
 
@@ -547,19 +551,35 @@ VI. Promover la participación y el desarrollo humano a través de la recreació
 
 VII. Implementar acciones para garantizar la cobertura en materia alimentaria para las personas adultas mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
 
-VIII. Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
 
-IX. Promover, mediante la vía conciliatoria, la solución a la problemática familiar; y
+VIII. Canalizar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y, en general, cualquier acto que perjudique a las personas adultas mayores;
 
-X. Las demás que le confieran otros ordenamientos jurídicos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+IX. Implementar acciones para garantizar la cobertura en materia alimentaria para las personas adultas mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
+
+X. (DEROGADA, P.O. 30 DE AGOSTO DE 2018)
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+XI. Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+XII. Promover, mediante la vía conciliatoria, la solución a la problemática familiar; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
+XIII. Las demás que le confieran otros ordenamientos jurídicos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE AGOSTO DE 2018)</small>
 
 La finalidad de estos programas es mantener la integridad y autosuficiencia de las personas adultas mayores y retrasar su deterioro, garantizando su seguridad, autosuficiencia y subsistencia para una vida digna o bien, proporcionar los cuidados paliativos necesarios para un buen morir.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
-
 ###### Artículo 28.
 
-LaProcuraduría (sic) de Protección de Niñas, Niños, Adolescentes y la Familia llevará un registro y vigilará el funcionamiento de las instituciones públicas y privadas que otorguen asistencia social a las personas adultas mayores, haciendo del conocimiento a las autoridades competentes sobre las irregularidades advertidas, a efecto de que se impongan las sanciones correspondientes.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2018)
 
 ###### Artículo 29.
 
@@ -625,49 +645,41 @@ V. La Asesoría jurídica gratuita a las personas adultas mayores que decidan re
 
 VI. La Creación de mecanismos de autoempleo mediante capacitación y financiamiento para que las personas adultas mayores adquieran conocimientos y destrezas en el campo de formulación y ejecución de proyectos productivos;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2018)</small>
 
-### CAPÍTULO III. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS, ADOLESCENTES Y LA FAMILIA
+### CAPÍTULO III. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS, ADOLESCENTESY (SIC) LA FAMILIA DEL ESTADO DE MORELOS
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 34.
 
 La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, garantizará a las personas adultas mayores:
 
-I. La vigilancia en el respeto a los derechos de las personas adultas mayores;
+I.- La vigilancia en el respeto a los derechos de las personas adultas mayores;
 
-II. La recepción de quejas, denuncias e informes en relación a las personas adultas mayores; poner en conocimiento de las autoridades competentes y en caso de ser procedente, iniciar y llevar las acciones legales que procedan;
+II.- La recepción de quejas, denuncias e informes en relación a las personas adultas mayores; poner en conocimiento de las autoridades competentes y en caso de ser procedente, iniciar y llevar las acciones legales que procedan;
 
-III. Que sean proporcionados en forma gratuita los servicios de asistencia jurídica y de orientación social a las personas adultas mayores en los trámites o procedimientos relacionados con ellas;
+III.- Que sean proporcionados en forma gratuita los servicios de asistencia jurídica y de orientación social a las personas adultas mayores en los trámites o procedimientos relacionados con ellas;
 
-IV. La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a las personas adultas mayores;
+IV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a las personas adultas mayores;
 
-V. Que sean puestos a disposición del Ministerio Público o de cualquier órgano jurisdiccional lo (sic) elementos a su alcance en la protección de sus derechos, derivados de los procedimientos o procesos que afecten o puedan afectar a las personas adultas mayores;
+V.- Que sean puestos a disposición del Ministerio Público o de cualquier órgano jurisdiccional, lo (sic) elementos a su alcance en la protección de sus derechos, derivados de los procedimientos o procesos que afecten o puedan afectar a las personas adultas mayores;
 
-VI. La comparecencia ante las autoridades o instituciones competentes;
+VI.- La comparecencia ante las autoridades o instituciones competentes;
 
-VII. Que sean denunciados ante las autoridades que corresponda, los casos de maltrato, lesiones, abuso físico o psíquico, abandono, descuido o negligencia y en general cualquier conducta de acción u omisión que perjudique a las personas adultas mayores, para lograr la protección jurídica, física y emocional de éste y la aplicación de las sanciones que procedan:
+VII.- Que sean denunciados ante las autoridades que corresponda, los casos de maltrato, lesiones, abuso físico o psíquico, abandono, descuido o negligencia y en general cualquier conducta de acción u omisión que perjudique a las personas adultas mayores, para lograr la protección jurídica, física y emocional de éste y la aplicación de las sanciones que procedan;
 
-VIII. Para el cumplimiento de sus atribuciones, podrá solicitar de cualquier autoridad los informes, datos estadísticos, implementos y auxilio que requiera;
+VIII.- Para el cumplimiento de sus atribuciones, podrá solicitar de cualquier autoridad los informes, datos estadísticos, implementos y auxilio que requiera;
 
-IX. La realización de visitas de inspección, vigilancia y evaluación en la prestación de los servicios de asistencia privada a las personas adultas mayores;
+IX.- La realización de visitas de inspección, vigilancia y evaluación en la prestación de los servicios de asistencia privada a las personas adultas mayores;
 
-X. Que sean gestionadas ante las autoridades del Registro Civil, el registro extemporáneo de las personas adultas mayores;
+X.- Que sean gestionadas ante las autoridades del Registro Civil, el registro extemporáneo de las personas adultas mayores;
 
-XI. Que sean llevados a cabo los censos estadísticos de los casos y asuntos que sobre las personas adultas mayores conozca; y ejecutará los programas de orientación y difusión de los derechos del mismo;
+XI.- Que sean llevados a cabo los censos estadísticos de los casos y asuntos que sobre las personas adultas mayores conozca; y ejecutará los programas de orientación y difusión de los derechos del mismo;
 
-XII. Que sean impuestas previo procedimiento y derecho de audiencia del sancionado las sanciones administrativas que este ordenamiento establece;
+XII.- Llevará un registro y vigilará el funcionamiento de las instituciones públicas y privadas que otorguen asistencia social a las personas adultas mayores, haciendo del conocimiento a la Secretaría de Salud sobre las irregularidades advertidas, a efecto de que ésta imponga las sanciones reglamentarias que para tal efecto se señalen, y
 
-XIII. Llevar un registro y vigilar el funcionamiento de las instituciones públicas y privadas que otorguen asistencia social a las personas adultas mayores, haciendo del conocimiento a las autoridades competentes sobre las irregularidades advertidas, a efecto de que se imponga las sanciones reglamentarias que para tal efecto se señalen;
-
-XIV. Brindar alojamiento a las personas adultas mayores, que por eventualidad hayan sido afectados por una contingencia o siniestro y se encuentren desprotegidos, otorgándoles un trato digno con calidad y respeto;
-
-XV. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y, en general, cualquier acto que perjudique a las personas adultas mayores;
-
-XVI. Coadyuvar con Fiscalía General del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito; y
-
-XVII. Las demás que le confieran otros ordenamientos jurídicos.
+XIII.- Las demás que le confieran otros ordenamientos.
 
 ## TÍTULO SEXTO. DEL CONSEJO ESTATAL PARA LA INTEGRACIÓN, ASISTENCIA, PROMOCIÓN Y DEFENSA DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
@@ -1016,3 +1028,13 @@ VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la Administración Púb
 VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Centro de Evaluación y Control de Confianza del Estado de Morelos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrito a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto; en especial los derechos de la acreditación otorgada por el Centro Nacional de Certificación y Acreditación.
 
 VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conducentes ante el Centro Nacional de Certificación y Acreditación, con relación a las adecuaciones realizadas por virtud de este Decreto, respecto del Centro de Evaluación y Control de Confianza del Estado de Morelos.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL CUATROCIENTOS CINCUENTA POR EL QUE SE REFORMAN DIVERSAS LEYES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ARMONIZAR LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
