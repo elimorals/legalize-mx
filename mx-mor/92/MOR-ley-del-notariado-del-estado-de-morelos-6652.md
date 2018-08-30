@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-notariado-del-estado-de-morelos-6652"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-03"
-last_updated: "2018-08-22"
+last_updated: "2018-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MOR"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 2: DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS PUBLICADA EN EL P.O. DE 30 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 3 de agosto de 1983.
 
@@ -1540,3 +1542,29 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su s
 SEGUNDA. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango normativo que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS CUARENTA Y NUEVE POR EL QUE SE EXPIDE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS, Y SE DEROGA LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS PUBLICADA EN EL PERIÓDICO OFICIAL “TIERRA Y LIBERTAD” NÚMERO 3129, SEGUNDA SECCIÓN DE FECHA TRES DE AGOSTO DE MIL NOVECIENTOS OCHENTA Y TRES”.]
+
+PRIMERA. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga la Ley del Notariado del Estado de Morelos publicada en el Periódico Oficial Número 3129 segunda sección, de fecha 03 de agosto de 1983.
+
+TERCERA. Se derogan todas las disposiciones sobre notariado que se opongan a los preceptos de esta Ley.
+
+CUARTA. Los Notarios en funciones con el término de treinta días siguientes a partir de la vigencia de esta Ley, remitirán a la Secretaría de Gobierno, la fianza que previene la presente Ley.
+
+QUINTA. La asociación civil a la cual hace referencia la presente Ley, denominada Colegio de Notarios del Estado de Morelos, deberá llevar a cabo todas las acciones necesarias para adecuar sus Estatutos de acuerdo a lo establecido por el presente Decreto, a más tardar, en los treinta días naturales siguientes a la publicación del mismo e informar de manera inmediata al titular del Ejecutivo estatal para que, en su caso, proceda al reconocimiento institucional en los términos de la presente Ley.
+
+Pasados los treinta días naturales siguientes a la publicación del presente Decreto, de no haberse recibido el aviso de modificación de los Estatutos al que se refiere el párrafo anterior, el Colegio de Notarios del Estado de Morelos, perderá automáticamente el reconocimiento institucional por parte del Gobierno del Estado de Morelos.
+
+SEXTA. El Ejecutivo del Estado contará con treinta días hábiles seguidos a la publicación del presente Decreto en el Periódico Oficial “Tierra y Libertad”, para hacer los nombramientos a que haya lugar en apego al artículo 186 de la presente Ley.
+
+SÉPTIMA. Ante la distribución de competencias que la presente Ley asigna a nuevas autoridades, por razones de seguridad jurídica y de conformidad con las distintas publicaciones que se han efectuado en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado, esta Soberanía ejerce su competencia constitucional como órgano que dio existencia a las dos leyes que han estado vigentes desde que inició la regulación del notariado en el Estado de Morelos, para realizar una interpretación auténtica bajo el principio “eius est interpretari cuius est condere legem” que dice “el legislador tiene competencia para una interpretación auténtica” tanto de la Ley Orgánica del Notariado del Estado como de la diversa Ley del Notariado del Estado, la primera que estuvo en vigor del 09 de diciembre de 1945 al 02 de octubre de 1983 y, la segunda, a partir del día siguiente y hasta la entrada en vigor de la presente Ley que se expide, siendo las únicas que han condicionado la validez del ingreso al notariado.
+
+En mérito de lo cual, esta Soberanía reconoce y confirma la legitimidad de los procedimientos administrativos que culminaron con la designación de los notarios titulares, quedando consolidadas sus respectivos nombramientos fíat o patentes para que continúen surtiendo plenos efectos jurídicos y de esta manera depurados de cualquier vicio dado de carácter incontrovertible del cual están investidas y que subyace de la circunstancia legal de que son producto de exámenes de oposición cuyo resultado es inapelable, salvo las emitidas en términos de la primera ley porque establecía la designación directa, sin que ello pueda restarles legalidad a estas últimas.
+
+OCTAVA. El Ejecutivo del Estado contará con treinta días hábiles seguidos a la publicación del presente Decreto en el Periódico Oficial “Tierra y Libertad”, para emitir un nuevo Reglamento de la presente Ley. Para su elaboración, el Colegio de Notarios podrá emitir por escrito dirigido al Secretario de Gobierno sus observaciones y comentarios, sin que por dicho motivo se obligue, de ninguna manera al Ejecutivo del Estado, a aplicarlos en el Reglamento respectivo.
+
+NOVENO. A juicio del Ejecutivo del Estado, el Reglamento respectivo podrá contemplar la utilización de mecanismos o medios electrónicos para la prestación más eficaz de la función notarial. Para ello, podrá establecer mesas de trabajo con el Colegio de Notarios, el Archivo General de Notarias y el Instituto de Servicios Registrales y Catastrales del Estado de Morelos, con el objetivo de establecer programas o sistemas electrónicos que beneficien a la función notarial y registral en su conjunto, teniendo como objetivo principal, un mejor servicio para la ciudadanía morelense.
