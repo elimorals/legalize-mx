@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-12959
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-11"
-last_updated: "2018-07-11"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Morelos, el miércoles 11 de julio de 2018.
 
@@ -125,9 +125,11 @@ XXX. Servicios Periciales, al cuerpo de personas con conocimientos y experiencia
 
 La Fiscalía General es un órgano constitucional autónomo cuya función primordial es la persecución de los delitos como una de las necesidades torales tanto del Estado como de la sociedad en general; su autonomía constitucional consiste en lo siguiente:
 
-I. Autonomía financiera, por la que contará un presupuesto equivalente al tres punto cinco por ciento del presupuesto total de egresos del Estado de Morelos, sin que pueda ser menor en términos reales al determinado en el presupuesto de egresos del año anterior en términos del artículo 79-A de la Constitución Local. Del equivalente total que resulte, corresponde el cinco por ciento a la Fiscalía Anticorrupción;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-II. Independencia en su estructura orgánica y la determinación de niveles, categorías y salarios, conforme al tabulador que para tal efecto se publique en el Periódico Oficial “Tierra y Libertad”, y
+I. Autonomía financiera, por la que contará con un presupuesto equivalente al siete por ciento de los ingresos de libre disposición del Presupuesto de Egresos del Estado, entendiendo como tales a los señalados en el artículo 2, fracción XIX de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; y sin que pueda ser menor en términos reales al determinado en el presupuesto de egresos del año anterior en términos del artículo 79-A de la Constitución Local. Del equivalente total que resulte, corresponde el cinco por ciento a la Fiscalía Anticorrupción;
+
+II. Independencia en su estructura orgánica y la determinación de niveles, categorías y salarios, conforme al tabulador que para tal efecto se publique en el Periódico Oficial "Tierra y Libertad", y
 
 III. Facultad reglamentaria, la cual debe ser entendida como la posibilidad que le ha sido otorgada para expedir sus propias disposiciones normativas, con el propósito de regular las acciones que desarrolla en el ámbito de su competencia, delimitar las atribuciones que ejerce y regir su actuación, bajo las políticas permanentes de especialización técnica, profesionalización y rendición de cuentas, debiendo respetar en todo momento la Constitución Federal, la Convención de las Naciones Unidas Contra la Corrupción, los Tratados Internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte, los Códigos y Leyes Nacionales, Generales y Federales que rijan su actuar procesal, la Constitución Local y, en general, toda disposición jurídica aplicable.
 
@@ -185,9 +187,13 @@ XIV. Las demás que le confieran las disposiciones legales y reglamentarias apli
 
 El Comité de Adquisiciones de la Fiscalía General se integrará y funcionará de conformidad con lo que disponga para tales efectos el Reglamento y la normativa aplicable.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 6.
 
 Entre la Fiscalía General y su personal existe una relación administrativa o laboral, de conformidad con las disposiciones jurídicas aplicables a cada hipótesis y conforme a las actividades desempeñadas.
+
+Para efectos del párrafo anterior, las relaciones administrativas se sujetarán a la normativa aplicable al efecto, como la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales y de Procuración de Justicia del Sistema Estatal de Seguridad Pública; y para el caso de las relaciones laborales será aplicable la Ley del Servicio Civil del Estado de Morelos.
 
 ###### Artículo 7.
 
@@ -453,9 +459,13 @@ Toda persona o autoridad está obligada a proporcionar gratuita, expedita y opor
 
 #### SECCIÓN PRIMERA. DE LA FISCALÍA GENERAL
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 21.
 
 La Fiscalía General está a cargo de un Fiscal General, quien es el Jefe de la Institución del Ministerio Público, y ejerce la autoridad jerárquica sobre todo el personal de la misma.
+
+Las ausencias del Fiscal General serán suplidas por el titular de la Fiscalía Metropolitana, en términos del Reglamento.
 
 ###### Artículo 22.
 
@@ -1081,6 +1091,8 @@ Las demás atribuciones y disposiciones necesarias de este sistema se desarrolla
 
 #### SECCIÓN SEGUNDA. DEL RÉGIMEN LABORAL O ADMINISTRATIVO DEL PERSONAL
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 74.
 
 Para ocupar el cargo de Fiscal General, además de los requisitos exigidos por la Constitución Política del Estado Libre y Soberano de Morelos, la persona deberá cumplir con lo siguiente:
@@ -1091,13 +1103,11 @@ II. No estar sujeto a proceso penal, y
 
 III. No haber sido defensor particular o asesor jurídico en un proceso vigente al momento de su designación.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 75.
 
-El Fiscal General será suplido en sus ausencias absolutas en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Morelos.
-
-En el Reglamento se normará la suplencia del Fiscal General en los casos de ausencia temporal, suplencia que no podrá durar más de noventa días naturales.
-
-El servidor público que supla al Fiscal General ante su ausencia absoluta ejercerá las atribuciones que le confieran la Constitución Política del Estado Libre y Soberano de Morelos, la presente Ley y las demás normas que resulten aplicables.
+El Fiscal General será suplido en su ausencia absoluta en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Morelos y la presente Ley.
 
 ###### Artículo 76.
 
@@ -1157,11 +1167,13 @@ Lo anterior sin perjuicio de la garantía de audiencia previa que deberá conced
 
 ###### Artículo 82.
 
-En el caso de los Agentes del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, en términos del artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, su ingreso y permanencia se regularán, de conformidad con las disposiciones legales y reglamentarias aplicables para tal efecto.
+En el caso de los Agentes del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, en términos del artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, su ingreso y permanencia se regularán, de conformidad a la normativa aplicable al efecto, como la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales y de Procuración de Justicia del Sistema Estatal de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 83.
 
-El personal de la Fiscalía General que no realice funciones policiales, de pericia o de investigación y que no pertenezca al Servicio de Carrera, mantendrá una relación de carácter laboral con la Fiscalía General, por lo que el ingreso y permanencia serán de conformidad con las disposiciones legales que para tal efecto se encuentren vigentes en la Entidad.
+El personal de la Fiscalía General que no realice funciones policiales, de pericia o de investigación y que no pertenezca al Servicio de Carrera, mantendrá una relación de carácter laboral con la Fiscalía General, por lo que el ingreso y permanencia serán de conformidad con las disposiciones de relaciones laborales, por lo que será aplicable la Ley del Servicio Civil del Estado de Morelos.
 
 El Reglamento determinará los requisitos que deberán satisfacer las personas titulares de las Unidades Administrativas que integran la Fiscalía General, que no se encuentren bajo el supuesto establecido en el párrafo anterior.
 
@@ -1441,13 +1453,17 @@ Las demás atribuciones y disposiciones necesarias de este órgano auxiliar se d
 
 ### CAPÍTULO II. DEL CONSEJO DE HONOR Y JUSTICIA
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 115.
 
-La Fiscalía General, en cumplimiento a lo establecido en el artículo 176 de la Ley del Sistema de Seguridad Pública del Estado de Morelos, integrará el Consejo de Honor y Justicia, y junto con la Visitaduría General y de Asuntos Internos, son las instancias encargadas en el respectivo ámbito de sus competencias y atribuciones, de conocer, resolver y ejecutar, los procedimientos administrativos del Régimen Disciplinario, en los términos establecidos en la Ley General de Responsabilidades Administrativas, en su caso, por esta Ley, y el Reglamento.
+La Fiscalía General, en cumplimiento a lo establecido en el artículo 176 de la Ley del Sistema de Seguridad Pública del Estado de Morelos y 105 de la Ley General del Sistema Nacional de Seguridad Pública, integrará el Consejo de Honor y Justicia, y junto con la Visitaduría General y de Asuntos Internos, son las instancias encargadas en el respectivo ámbito de sus competencias y atribuciones, de conocer, resolver y ejecutar, los procedimientos administrativos del Régimen Disciplinario, en los términos establecidos en la Ley General de Responsabilidades Administrativas, en su caso, por esta Ley, y el Reglamento.
 
 ###### Artículo 116.
 
 Los integrantes del Consejo de Honor velarán por la honorabilidad y reputación de la institución y combatirán con energía las conductas lesivas para la comunidad o la corporación; para tal efecto gozarán de amplias facultades para examinar los expedientes u hojas de servicio de los elementos para allegarse de la información necesaria para dictar su resolución.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 117.
 
@@ -1455,17 +1471,15 @@ El Consejo de Honor estará integrado por:
 
 I. El Fiscal General o el representante que éste designe, quien fungirá como Presidente y contará con voz y voto de calidad, en caso de empate;
 
-II. Un representante del Secretariado Ejecutivo Estatal, que contará con voz y voto;
+II. Cada uno de los Fiscales Especializados en los términos de esta Ley, que contarán con voz y voto;
 
-III. Un representante de la Secretaría de Gobierno, que contará con voz y voto;
+III. Cada uno de los Fiscales Regionales en los términos de esta Ley, que contarán con voz y voto;
 
-IV. Un representante de la Secretaría de la Contraloría, que contará con voz y voto;
+IV. El titular del Órgano Interno de Control de esta Fiscalía General, que contará con voz y voto;
 
-V. Un representante del Consejo Ciudadano de Seguridad Morelos, que contará con voz y voto, y
+V. La persona titular de la Visitaduría General y de Asuntos Internos, quien fungirá como Secretario Técnico y sólo tendrá derecho a voz.
 
-VI. La persona titular de la Visitaduría General y de Asuntos Internos, quien fungirá como Secretario Técnico y sólo tendrá derecho a voz.
-
-El cargo de Consejero de Honor y Justicia será honorífico y deberá acreditar el perfil de licenciatura en derecho, con excepción del vocal señalado en la fracción V.
+El cargo de Consejero de Honor y Justicia será honorífico, por lo que no se recibirá emolumento alguno por su desempeño.
 
 ###### Artículo 118.
 
@@ -1888,3 +1902,27 @@ SECRETARIO DE GOBIERNO
 LIC. ÁNGEL COLÍN LÓPEZ
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS CUARENTA Y SIETE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES JURÍDICAS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS Y DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. La Fiscalía General del Estado deberá realizar las gestiones, convenios o acciones que sean necesarias para respetar los derechos adquiridos de su personal con base bien sea en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales y de Procuración de Justicia del Sistema Estatal de Seguridad Pública o la Ley del Servicio Civil del Estado de Morelos.
+
+QUINTA. Se autoriza al Gobernador del Estado para que se constituya en garante avalista, deudor solidario, subsidiario o sustituto de la Fiscalía General del Estado de Morelos, para que en garantía del cumplimiento de todas y cada una de las obligaciones a su cargo, derivadas del pago por concepto de cuotas y aportaciones a favor del Instituto Mexicano del Seguro Social, solicite a la Secretaría de Hacienda y Crédito Público, afecte a favor de dicho órgano constitucional autónomo, las participaciones presentes y futuras que en ingresos federales le correspondan.
+
+En la firma del instrumento jurídico que formalice el acto materia de esta Disposición Transitoria, comparecerán en nombre y representación del Gobernador del Estado, las instituciones y los servidores públicos competentes, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos, y por la Fiscalía General del Estado de Morelos, el Fiscal General.
+
+La garantía de cumplimiento a las obligaciones que se contraen con la incorporación de los trabajadores de la Fiscalía General del Estado de Morelos, ante el Instituto Mexicano del Seguro Social, se establecerá con los recursos que a favor de dicho órgano constitucional autónomo se señalen en el Presupuesto de Egresos del Gobierno del Estado.
+
+Se autoriza al Poder Ejecutivo del Estado de Morelos a pagar directamente las cuotas y aportaciones que se generen por la incorporación voluntaria de la Fiscalía General del Estado de Morelos, al régimen obligatorio del Instituto Mexicano del Seguro Social, exclusivamente en el caso que la citada Fiscalía no cubra de manera oportuna las cuotas correspondientes.
+
+Se autoriza a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que los pagos que realice y que correspondan a la Fiscalía General del Estado de Morelos, los pueda descontar de las cantidades próximas a ministrar en las transferencias presupuestales que correspondan al mencionado órgano, lo que deberá formalizarse en el instrumento que se celebre entre el Instituto Mexicano del Seguro Social y la citada Fiscalía.
