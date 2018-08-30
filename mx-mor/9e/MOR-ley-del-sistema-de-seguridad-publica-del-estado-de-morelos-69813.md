@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2018-01-10"
+last_updated: "2018-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -107,7 +107,9 @@ XVIII. Ley General, a la Ley General del Sistema Nacional de Seguridad Pública;
 
 XIX. Ley, a la Ley del Sistema de Seguridad Pública del Estado de Morelos;
 
-XX. Fiscalía, a la Fiscalía General del Estado de Morelos;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+XX. Fiscalía, a la Fiscalía General del Estado de Morelos, organismo constitucional autónomo reconocido en la Constitución local;
 
 XXI. Programa Estatal, al Programa Estatal de Seguridad Pública;
 
@@ -385,9 +387,9 @@ h) En su caso, aquellas medidas que en lo general se hayan adoptado para el mejo
 
 i) Cualquier otra información que para sus fines requiera el Consejo Estatal y el Secretariado Ejecutivo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2018)</small>
 
-II. Fiscalía General del Estado de Morelos:
+II. Fiscalía:
 
 a) Estado que guarda el rezago de las averiguaciones previas;
 
@@ -411,7 +413,7 @@ j) Estadística del avance de la profesionalización de la policía ministerial,
 
 k) En su caso, de todas aquellas medidas que en lo general se hayan adoptado para el cumplimiento de sus atribuciones, el mejor desempeño de la institución y en beneficio de la ciudadanía; y
 
-l) Cualquier otra información que para sus fines requiera el Consejo Estatal y el Secretariado Ejecutivo.
+l) (DEROGADO, P.O. 30 DE AGOSTO DE 2018)
 
 III. Secretariado Ejecutivo:
 
@@ -2735,29 +2737,19 @@ La Visitaduría General y las Unidades de Asuntos Internos, ejecutarán las reso
 
 ### CAPÍTULO III. DE LOS CONSEJOS DE HONOR Y JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 176.
 
-La Fiscalía, la Comisión Estatal de Seguridad Pública, la Coordinación Estatal de Reinserción Social y las áreas de Seguridad Pública Estatal y Municipales, contarán con un Consejo de Honor y Justicia, el cual conocerá y resolverá los asuntos que le sean turnados por la Visitaduría y las Unidades de Asuntos Internos, una vez que se haya agotado todo el procedimiento establecido en esta Ley y dentro de los plazos establecidos por la misma.
-
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+La Fiscalía, la Comisión Estatal de Seguridad Pública, la Coordinación Estatal de Reinserción Social y las áreas de Seguridad Pública Estatal y Municipales, contarán con un Consejo de Honor y Justicia, el cual conocerá y resolverá los asuntos que le sean turnados por la Visitaduría y las Unidades de Asuntos Internos, una vez que se haya agotado todo el procedimiento establecido en esta Ley y las demás aplicables, dentro de los plazos establecidos por la misma.
 
 El Consejo de Honor y Justicia confirmará, modificará o negará la propuesta de sanción, por unanimidad o mayoría simple de sus miembros, respecto de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
 I. La destitución o remoción de la relación administrativa;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 II. La suspensión temporal de funciones;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-III. Cambio de adscripción, y
-
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+III. Cambio de adscripción; y
 
 IV. Los recursos de queja y rectificación.
 
@@ -2767,31 +2759,49 @@ Los Consejos de Honor y Justicia velarán por la honorabilidad y reputación de 
 
 Podrán proponer al Consejo Estatal o Municipal, la condecoración de elementos que se hayan destacado por su actuación y desempeño en el servicio.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 178.
 
 Los Consejos de Honor y Justicia estarán integrados por los siguientes funcionarios estatales o sus equivalentes en el ámbito municipal:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
 I. El titular o el representante que éste designe de la institución de seguridad pública correspondiente, quien fungirá como presidente pero sólo contará con voz;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
 
 II. Un representante del Secretariado Ejecutivo Estatal, quien intervendrá en los Consejos de Honor y Justicia Estatales y Municipales;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
 
 III. Un representante del Secretariado Ejecutivo Municipal, en su caso;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
 IV. Un representante de la Secretaría de Gobierno;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
 
 V. Un representante de la Secretaría de Contraloría;
 
-VI. (DEROGADA, P.O. 26 DE MARZO DE 2014)
+VI. (DEROGADA, P.O. 26 DE MARZO DE 2014; P.O. 30 DE AGOSTO DE 2018)
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
 
 VII. Dos vocales ciudadanos, que serán designados por el Consejo Estatal o Municipal de Seguridad Pública, según sea el caso, y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+
 VIII. El titular de la Visitaduría General o de la Unidad de Asuntos Internos, quien fungirá como secretario técnico y sólo tendrá derecho a voz;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE AGOSTO DE 2018)</small>
+
 El cargo de consejero de honor y justicia será honorífico y deberá acreditar el perfil de licenciatura en derecho, con excepción de las fracciones I y VII.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE AGOSTO DE 2018)</small>
+
+En el caso de la Fiscalía, toda vez que goza de plena autonomía constitucional, integrará su Consejo de Honor y Justicia de acuerdo a lo que establezca su propia ley orgánica.
 
 ###### Artículo 179.
 
@@ -2881,11 +2891,13 @@ Las resoluciones del Consejo de Honor y Justicia que recaigan sobre el Recurso d
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 194.
 
 Los titulares, mandos superiores y mandos medios de la Comisión Estatal de Seguridad Pública, Fiscalía, Secretariado Ejecutivo del Sistema Estatal, las corporaciones de Seguridad Pública Municipal se considerarán personal de seguridad pública; serán de libre designación y remoción, sujetándose para su ingreso y permanencia a las evaluaciones de certificación y control de confianza.
+
+La Fiscalía, como organismo constitucional autónomo, integrará el órgano colegiado estatal y nacional en el Estado, del sistema de seguridad pública. Sin embargo, su titular será nombrado y removido de acuerdo a lo estipulado por la Constitución local y no estará supeditado o bajo las órdenes de ninguna institución, corporación o Poder del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
 
@@ -3075,15 +3087,15 @@ Se derogan todas las disposiciones de igual o menor rango que se opongan al pres
 
 P.O. 12 DE SEPTIEMBRE DE 2011.
 
-Primero.- Aprobado que sea el presente decreto túrnese al titular del Poder Ejecutivo para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+Primero.- Aprobado que sea el presente decreto túrnese al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
 
-Segundo.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+Segundo.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 Tercero.- La comisión permanente que el Consejo Estatal de Seguridad Pública debe conformar en términos del artículo 14 de la Ley del Sistema de Seguridad Pública del Estado de Morelos, por virtud de lo establecido en el artículo 130-B, adicionado en ese ordenamiento por efecto del presente decreto, habrá de ser establecida para iniciar sus labores a más tardar en cuarenta y cinco días hábiles contados a partir de la entrada en vigor de esta reforma.
 
 P.O. 22 DE FEBRERO DE 2012.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
 
@@ -3172,3 +3184,25 @@ SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 TERCERA. Se abroga la Ley de Justicia para Adolescentes del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4636 de fecha 18 de agosto de 2008, así como se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 CUARTA. Dentro de un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Tribunal Unitario de Justicia para Adolescentes, la Fiscalía General del Estado de Morelos, la Comisión Estatal de Seguridad Pública y el Instituto de la Defensoría Pública del Estado de Morelos, deberán realizar las modificaciones que resulten necesarias a nivel reglamentario, así como expedir los instrumentos normativos necesarios para dar cumplimiento al mismo; en tanto esto sucede, se mantendrán vigentes los actuales.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL CUATROCIENTOS CUARENTA Y SIETE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES JURÍDICAS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS Y DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. La Fiscalía General del Estado deberá realizar las gestiones, convenios o acciones que sean necesarias para respetar los derechos adquiridos de su personal con base bien sea en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales y de Procuración de Justicia del Sistema Estatal de Seguridad Pública o la Ley del Servicio Civil del Estado de Morelos.
+
+QUINTA. Se autoriza al Gobernador del Estado para que se constituya en garante avalista, deudor solidario, subsidiario o sustituto de la Fiscalía General del Estado de Morelos, para que en garantía del cumplimiento de todas y cada una de las obligaciones a su cargo, derivadas del pago por concepto de cuotas y aportaciones a favor del Instituto Mexicano del Seguro Social, solicite a la Secretaría de Hacienda y Crédito Público, afecte a favor de dicho órgano constitucional autónomo, las participaciones presentes y futuras que en ingresos federales le correspondan.
+
+En la firma del instrumento jurídico que formalice el acto materia de esta Disposición Transitoria, comparecerán en nombre y representación del Gobernador del Estado, las instituciones y los servidores públicos competentes, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos, y por la Fiscalía General del Estado de Morelos, el Fiscal General.
+
+La garantía de cumplimiento a las obligaciones que se contraen con la incorporación de los trabajadores de la Fiscalía General del Estado de Morelos, ante el Instituto Mexicano del Seguro Social, se establecerá con los recursos que a favor de dicho órgano constitucional autónomo se señalen en el Presupuesto de Egresos del Gobierno del Estado.
+
+Se autoriza al Poder Ejecutivo del Estado de Morelos a pagar directamente las cuotas y aportaciones que se generen por la incorporación voluntaria de la Fiscalía General del Estado de Morelos, al régimen obligatorio del Instituto Mexicano del Seguro Social, exclusivamente en el caso que la citada Fiscalía no cubra de manera oportuna las cuotas correspondientes.
+
+Se autoriza a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que los pagos que realice y que correspondan a la Fiscalía General del Estado de Morelos, los pueda descontar de las cantidades próximas a ministrar en las transferencias presupuestales que correspondan al mencionado órgano, lo que deberá formalizarse en el instrumento que se celebre entre el Instituto Mexicano del Seguro Social y la citada Fiscalía.
