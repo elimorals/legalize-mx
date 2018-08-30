@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-condiciones-generales-de-trabajo-de-los-84490"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-06"
-last_updated: "2012-01-06"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS GENERALES DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2018.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 6 de enero de 2012.
 
@@ -109,29 +109,61 @@ Tiene por objeto establecer la coordinación, control, armonía, seguridad efici
 
 En el Instituto Hacendario del Estado de México, las relaciones laborales se regirán por lo dispuesto en:
 
-I. Ley Federal del Trabajo.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
 
-II. Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
+I. Acuerdo del Ejecutivo del Estado por el que se expide el Código de Ética de los Servidores Públicos del Estado de México, las Reglas de Integridad para el Ejercicio de su Empleo, Cargo o Comisión y los Lineamientos Generales para Propiciar su Integridad a través de los Comités de Ética y de Prevención de Conflicto de Intereses.
 
-III. Ley para la Coordinación y Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
 
-IV. Reglamento de la Ley para la Coordinación y Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+II. Acuerdo por el que se establecen las Normas Administrativas para la Asignación y Uso de Bienes y Servicios de las Dependencias y Organismos Auxiliares del Poder Ejecutivo Estatal.
 
-V. Normas Administrativas para la Asignación y Uso de Bienes y Servicios de las Dependencias, Organismos Auxiliares y Fideicomisos Públicos del Poder Ejecutivo.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
 
-VI. Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios.
+III. Código Administrativo del Estado de México.
 
-VII. Código Administrativo.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
 
-VIII. Reglamento Interior del Instituto Hacendario del Estado de México.
+IV. Código de Conducta para los Servidores Públicos del Instituto Hacendario del Estado de México.
 
-IX. Manual de Organización del Instituto Hacendario del Estado de México.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
 
-X. El presente Reglamento de Condiciones Generales de Trabajo de los Servidores Públicos Generales del Instituto Hacendario del Estado de México.
+V. Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios.
 
-XI. Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
 
-XII. Lo no previsto en el presente Reglamento se resolverá por analogía y los principios generales de derecho.
+VI. Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+VII. Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+VIII. Ley Federal del Trabajo.
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+IX. Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+X. Manual General de Organización del Instituto Hacendario del Estado de México.
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+XI. Reglamento de Condiciones Generales de Trabajo de los Servidores Públicos Generales del Instituto Hacendario del Estado de México.
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+XII. Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+> <small>(ADICIONADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+XIII. Reglamento Interno del Instituto Hacendario del Estado de México.
+
+> <small>(ADICIONADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+Lo no previsto en el presente Reglamento se resolverá por analogía y los principios generales de derecho.
 
 ###### Artículo 3.
 
@@ -153,7 +185,9 @@ VII. El Tribunal, al Tribunal Estatal de Conciliación y Arbitraje del Estado de
 
 VIII. ISSEMYM, al Instituto de Seguridad Social del Estado de México y Municipios.
 
-IX. Ley de Responsabilidades, a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+IX. Ley de Responsabilidades, a la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 X. Ley de Seguridad Social, a la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios.
 
@@ -205,7 +239,7 @@ VIII. Cartilla del Servicio Militar Nacional (varón) (copia).
 
 IX. Comprobante de Domicilio (copia).
 
-X. Certificado de No Antecedentes Penales (original).
+X. (DEROGADA, G.G. 30 DE AGOSTO DE 2018)
 
 XI. Certificado Médico (original).
 
@@ -227,53 +261,81 @@ Son servidores públicos generales: los que prestan sus servicios en funciones o
 
 ### CAPITULO III. DE LOS NOMBRAMIENTOS
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 12.
 
-Los servidores públicos prestarán sus servicios mediante el nombramiento respectivo y en su caso, cuando se trate de servidores públicos sujetos a una relación por tiempo u obra determinados, el nombramiento podrá ser sustituido por un contrato, en ese caso, las partes se sujetarán a las disposiciones contenidas en el mismo.
+Los servidores públicos prestarán sus servicios mediante el contrato individual de trabajo y/o nombramiento respectivo, sujetándose a las disposiciones contenidas en el mismo.
+
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 13.
 
-El Vocal Ejecutivo en su carácter de representante legal del IHAEM, otorgará los nombramientos por conducto del Jefe de la Unidad de Administración y Finanzas.
+El Vocal Ejecutivo en su carácter de representante legal del IHAEM, otorgará los contratos individuales de trabajo y/o los nombramientos por conducto del jefe de la Unidad de Administración y Finanzas.
+
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 14.
 
-Los nombramientos aceptados obligan al titular y al servidor público al cumplimiento recíproco de las disposiciones contenidas en la Ley, en las presentes condiciones, así como ejecutar las labores con calidad y eficiencia.
+Los contratos individuales de trabajo y/o los nombramientos aceptados obligan al titular y al servidor público al cumplimiento recíproco de las disposiciones contenidas en la Ley, en las presentes condiciones, así como ejecutar las labores con calidad y eficiencia.
+
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 15.
 
-El carácter del nombramiento podrá ser, por tiempo indeterminado o determinado.
+El carácter de contrato individual de trabajo y/o nombramiento podrá ser, por tiempo indeterminado, determinado u obra determinada.
+
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 16.
 
-Son nombramientos por tiempo indeterminado, aquellos que se expidan para ocupar plazas vacantes definitivas, o plazas de nueva creación.
+Son contratos individuales de trabajo y/o nombramientos por tiempo indeterminado, aquéllos que se expidan para ocupar plazas vacantes definitivas.
+
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 17.
 
-Son nombramientos por tiempo determinado, aquellos que se expidan para ocupar plazas vacantes, originadas por el otorgamiento de licencias sin goce de sueldo e incapacidades por ingravidez concedidas al o la titular de la plaza.
+Son contratos individuales de trabajo y/o nombramientos por tiempo determinado, los que señalen el término de la prestación del servicio, su origen puede corresponder a la necesidad de:
+
+a) Cubrir interinamente la ausencia de un servidor público nombrado por tiempo indeterminado en una plaza presupuestal.
+
+b) Realizar labores que se presentan en forma extraordinaria o esporádica, cuando no cuente con servidores públicos que puedan llevarlas a cabo.
+
+c) Para programas especiales por aumentos de cargas de trabajo o rezago, plenamente justificados.
+
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 18.
 
-Son nombramientos por obra determinada, aquellos que se expidan cuando los servicios que se vayan a prestar, sean con el fin de realizar una obra especifica y perfectamente definida.
+Son contratos individuales de trabajo y/o nombramientos por obra determinada, aquéllos que se expidan cuando los servicios que se vayan a prestar, sean con el fin de realizar una obra específica y perfectamente definida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 19.
 
-Lo (sic) nombramientos deberán contener como mínimo:
+Los contratos individuales de trabajo y/o nombramientos deberán contener como mínimo:
 
 I. Nombre completo del servidor público.
 
 II. Cargo para el que es designado, fecha de inicio de sus servicios y lugar de adscripción.
 
-III. Carácter del nombramiento, ya sea de servidores públicos, así como la temporalidad del mismo.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+III. Carácter del tipo de contrato individual de trabajo y/o nombramiento, ya sea de servidores públicos, así como la temporalidad del mismo.
 
 IV. Remuneración que va a percibir el servidor público.
 
 V. Partida presupuestal a la que deberá afectarse la remuneración.
 
-VI. Firma del servidor público autorizado para suscribir los nombramientos.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+VI. Firma del servidor público autorizado para suscribir los contratos individuales de trabajo y/o nombramientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 20.
 
-El nombramiento quedará sin efecto y sin responsabilidad para el IHAEM, en los siguientes casos:
+El contrato individual de trabajo y/o nombramiento quedará sin efecto y sin responsabilidad para el IHAEM, en los siguientes casos:
 
 I. Cuando el aspirante a ocupar un puesto, acredite la personalidad con datos falsos, se apoye en documentos falsos o se atribuya capacidades que no posee.
 
@@ -283,23 +345,39 @@ III. Cuando el servidor público se ostente con un grado de estudio cualquiera q
 
 DE LA SUSPENSIÓN TEMPORAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 21.
 
-El IHAEM, podrá suspender temporalmente los efectos del nombramiento en los siguientes casos:
+El IHAEM, podrá suspender temporalmente los efectos del contrato individual de trabajo y/o nombramiento en los siguientes casos:
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
 
 I. Padecer el servidor público alguna enfermedad contagiosa que implique algún peligro para las personas que laboren con él.
 
-I (SIC). Tener licencia sin goce de sueldo por incapacidad temporal ocasionada por un accidente o enfermedad que no constituya un riesgo de trabajo.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
 
-II. El arresto del servidor público.
+II. Tener licencia sin goce de sueldo por incapacidad temporal ocasionada por un accidente o enfermedad que no constituya un riesgo de trabajo.
 
-III. La prisión preventiva del servidor público seguida de sentencia absolutoria.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
 
-IV. Las previstas por otros ordenamientos aplicables e impuestas por la autoridad competente.
+III. El arresto del servidor público.
 
-V. Las licencias otorgadas sin goce de sueldo para desempeñar cargos de elección popular.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
 
-VI. Alistarse y servir de guardia nacional para asegurar y defender los intereses de la patria.
+IV. La prisión preventiva del servidor público seguida de sentencia absolutoria.
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+V. Las previstas por otros ordenamientos aplicables e impuestas por la autoridad competente.
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+VI. Las licencias otorgadas sin goce de sueldo para desempeñar cargos de elección popular.
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+VII. Alistarse y servir de guardia nacional para asegurar y defender los intereses de la patria.
 
 El tiempo de suspensión de la relación laboral en los casos previstos por las fracciones I y II se sujetará a lo que establezca la incapacidad expedida por el ISSEMYM.
 
@@ -341,17 +419,19 @@ La democión se entiende, cuando un servidor público pase a ocupar un puesto de
 
 Se considera cambio de adscripción cuando un servidor público sea transferido a otra área distinta a la que estaba adscrito, en el que deberá mantener igual puesto, nivel y rango salarial.
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 30.
 
-Permuta, es la transferencia recíproca de los servidores públicos.
-
-Es requisito indispensable que al realizarse una permuta los interesados ocupen puestos del mismo nivel y rango salarial y cumplan con el nivel de escolaridad y la experiencia profesional necesarias para el desempeño del puesto a ocupar.
+Permuta, es el cambio de un servidor público de un puesto de trabajo a otro, sin que se modifique la naturaleza del empleo original ni el sueldo que deba percibir.
 
 ### CAPITULO V. DE LAS JORNADAS Y HORARIOS DE TRABAJO
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 31.
 
-Jornada de trabajo; es el tiempo durante el cual servidor (sic) público está a disposición del IHAEM para prestar sus servicios, en los horarios establecidos en estas condiciones de trabajo y conforme a las necesidades de este Organismo.
+Jornada de trabajo, es el tiempo durante el cual el servidor público está a disposición del IHAEM para prestar sus servicios, en los horarios establecidos en el presente Reglamento.
 
 ###### Artículo 32.
 
@@ -377,7 +457,9 @@ Los servidores públicos deberán iniciar y concluir la prestación de sus servi
 
 El Registro de Puntualidad y Asistencia se sujetará a los siguientes lineamientos:
 
-1. Se exceptúa del control de puntualidad y asistencia a los servidores públicos que se ubiquen del nivel OA R5 (Subdirector) en adelante.
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+1. Se exceptúa del control de puntualidad y asistencia a los servidores públicos que se ubiquen del nivel OA R4 en adelante.
 
 2. Cuando por motivos de su función los servidores públicos no deban estar sujetos al registro de puntualidad y asistencia, a través de la Unidad de Administración y Finanzas deberán solicitar la autorización correspondiente al Vocal Ejecutivo del IHAEM, quien la otorgará o denegará por escrito.
 
@@ -415,19 +497,27 @@ Cuando no pueda dar cumplimiento a lo señalado en el párrafo anterior, deberá
 
 La aplicación de descuentos por tiempo no laborado a servidores públicos generales con registro de puntualidad y asistencia a través de lista de firmas, se sujetará a los siguientes lineamientos:
 
-1. El descuento por tiempo no laborado por falta de puntualidad y asistencia, no constituye una sanción.
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+1. El descuento por tiempo no laborado por falta de puntualidad y asistencia, constituirá una sanción.
 
 2. El tiempo no laborado, a partir del minuto 11 después de la hora de entrada se descontará de las percepciones del servidor público, cuando se trate de faltas de puntualidad injustificadas.
 
 3. El día laborado, cuando se trate de falta injustificada, se descontará de las percepciones del servidor público.
 
-4. Para los servidores públicos que registren su asistencia a través de lista, es responsabilidad de la Unidad de Administración y Finanzas aplicar el descuento por tiempo no laborado.
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+4. Para los servidores públicos que registren su asistencia a través del registro mediante huella digital o lista, es responsabilidad de la Unidad de Administración y Finanzas aplicar el descuento por tiempo no laborado.
 
 5. Los descuentos por tiempo no laborado, derivado de faltas de puntualidad y asistencia no justificadas, se aplicarán de acuerdo a las siguientes fórmulas:
 
 a) Faltas de puntualidad:
 
-1. Total de percepciones mensuales = Sueldo diario
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+1. Total, del sueldo base, más gratificación
+
+burócrata de percepciones mensuales = Sueldo diario
 
 30.4
 
@@ -443,7 +533,9 @@ a) Faltas de puntualidad:
 
 b) Faltas de asistencia en jornada continua:
 
-1. Total de percepciones mensuales = Sueldo diario
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+1. Total del sueldo de percepciones mensuales = Sueldo diario
 
 30.4
 
@@ -465,7 +557,9 @@ a) La inasistencia al trabajo.
 
 b) Presentarse a laborar después del minuto 30 de la hora de entrada.
 
-c) Registrar la salida antes del límite del horario establecido, entre el minuto 5 y 1 antes de la hora de salida.
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+c) Registrar la salida antes del límite del horario establecido.
 
 d) Omitir el registro de entrada y/o salida.
 
@@ -483,13 +577,21 @@ Dos faltas de puntualidad Severa llamada de atención escrita
 
 Tres faltas de puntualidad Amonestación escrita
 
-Cuatro faltas de puntualidad Suspensión de un día sin goce de sueldo
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
-Cinco faltas de puntualidad Suspensión de dos días sin goce de sueldo
+Cuatro faltas de puntualidad Descuento de un día
 
-Seis faltas de puntualidad Suspensión de tres días sin goce de sueldo
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
-Siete faltas de puntualidad Suspensión de cuatro días sin goce de sueldo
+Cinco faltas de puntualidad Descuento de dos días
+
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+Seis faltas de puntualidad Descuento de tres días
+
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+Siete faltas de puntualidad Descuento de cuatro días
 
 Nota: Las faltas no son acumulativas de uno a otro mes; una vez sancionadas las faltas cometidas en el mes calendario no podrán considerarse para el siguiente
 
@@ -499,13 +601,21 @@ a) Para servidores públicos que laboran horario continuo:
 
 Inasistencia SANCIÓN
 
-Una inasistencia Amonestación escrita
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
-Dos inasistencias Suspensión de tres días sin goce de sueldo
+Una inasistencia Descuento de un día
 
-Tres inasistencias Suspensión de ocho días sin goce de sueldo
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
-Más de tres Causa de rescisión laboral
+Dos inasistencias Descuento de dos días
+
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+Tres inasistencias Descuento de tres días
+
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+Más de tres inasistencias Causal de rescisión laboral
 
 Nota: Las faltas no son acumulativas de uno a otro mes; una vez sancionadas las faltas cometidas en el mes calendario no podrán considerarse para el siguiente.
 
@@ -551,9 +661,11 @@ El mal uso o descuido voluntario de estos bienes será motivo de la sanción pre
 
 ### CAPITULO XI. DEL LUGAR DE TRABAJO
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 43.
 
-El servidor público prestará sus servicios en el centro de trabajo especificado en su respectivo nombramiento o bien en aquel que por circunstancias especiales se requiera sus servicios a juicio del IHAEM.
+El servidor público prestará sus servicios en el centro de trabajo especificado en su respectivo contrato individual de trabajo y/o nombramiento o bien en aquél que por circunstancias especiales se requiera sus servicios a juicio del IHAEM.
 
 ###### Artículo 44.
 
@@ -569,9 +681,11 @@ Sueldo es la retribución que el IHAEM debe pagar a los servidores públicos por
 
 Los sueldos de los servidores públicos serán los que conforme a la Ley, la Secretaría de Finanzas del Gobierno del Estado de México, asigne para cada puesto en los tabuladores respectivos.
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 46.
 
-El pago de los sueldos se efectuará los días trece y veintiocho de cada mes, en moneda de curso legal mediante una transferencia electrónica a cuenta bancaria o a través de cheque nominativo de fácil cobro en las oficinas del IHAEM, dentro del horario normal de labores. Cuando los días de pago no sean laborables, este se hará el día laboral inmediato anterior.
+El pago de los sueldos se efectuará los días diez y veinticinco de cada mes, en moneda de curso legal mediante una transferencia electrónica a cuenta bancaria o a través de cheque nominativo de fácil cobro en las oficinas del IHAEM, dentro del horario normal de labores. Cuando los días de pago no sean laborables, éste se hará el día laboral inmediato anterior.
 
 ###### Artículo 47.
 
@@ -691,13 +805,21 @@ d) A más tardar el día 15 de diciembre se pagará la otra aportación restante
 
 Los servidores públicos que hayan prestado sus servicios por un lapso menor a un año calendario, tendrán derecho a que se les pague la parte proporcional del aguinaldo, conforme a los días efectivos laborados.
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 57.
 
-Por cada cinco años de servicios ininterrumpidos efectivos prestados, los servidores públicos tendrán derecho al pago mensual de una prima por permanencia en el servicio, cuya cantidad es la comprendida en el presupuesto de egresos correspondientes y será fijada por los titulares de las instituciones públicas.
+Por cada cinco años de servicios ininterrumpidos efectivos prestados, los servidores públicos tendrán derecho al pago mensual de una prima por permanencia en el servicio, cuya cantidad es la comprendida en el presupuesto de egresos correspondientes y será fijada por los titulares de las unidades administrativas, y serán las contenidas en el convenio sindical autorizado entre los sindicatos y el Gobierno del Estado de México.
+
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 58.
 
-Los servidores públicos tendrán derecho a percibir durante cada año una "gratificación por convenio" correspondiente a 20 días de sueldo base, de los cuales 10 días se pagarán en la segunda quincena del mes de febrero y el resto en la segunda quincena de noviembre.
+Los servidores públicos tendrán derecho a percibir durante cada año una “gratificación por convenio” correspondiente a veinte días de sueldo base, de los cuales diez días se pagarán en la segunda quincena del mes de febrero y el resto en la segunda quincena de noviembre, con base en el cálculo siguiente:
+
+1. Sueldo base mensual x 10
+
+30.4
 
 ###### Artículo 59.
 
@@ -724,6 +846,16 @@ Los servidores públicos recibirán la Prima de Antigüedad a que se refiere el 
 ###### Artículo 63.
 
 Los servidores públicos del IHAEM gozarán de las prestaciones económicas contempladas en el presupuesto anual.
+
+> <small>(ADICIONADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+###### Artículo 63 Bis.
+
+Los servidores públicos gozarán como prestación económica de becas institucionales para aumentar su nivel de conocimientos para el mejor desempeño del puesto que tienen asignado, a solicitud del servidor público dirigida a la o el Vocal Ejecutivo del Instituto Hacendario, siempre y cuando se cuente con suficiencia presupuestal para otorgarla.
+
+Solo se otorgarán becas a servidores públicos que tengan al menos un año de antigüedad de servicio.
+
+El monto de la beca se determinará por la o el Vocal Ejecutivo del Instituto, con base en lo establecido en los lineamientos que para tal efecto se emitan.
 
 #### SECCIÓN IV. ESTÍMULOS ASOCIADOS A LA PUNTUALIDAD Y ASISTENCIA
 
@@ -781,19 +913,33 @@ Los servidores públicos podrán gozar de las siguientes licencias con goce de s
 
 a) Para realizar trámite de pensión ante el ISSEMYM, a los servidores públicos generales les corresponde licencia por dos meses calendario, por una sola vez y sin prórroga; debiendo acompañar su solicitud del documento oficial en el que se compruebe la iniciación del mismo ante el ISSEMYM;
 
-b) Por gravidez, por un período de 90 días, debiendo acompañar su solicitud del Certificado de Incapacidad expedido por el ISSEMYM;
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+b) Por gravidez, por un período de noventa días naturales, debiendo acompañar su solicitud del Certificado de Incapacidad expedido por el ISSEMYM.
 
 c) Por enfermedad profesional en los términos señalados en el artículo 133 de la Ley.
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 71.
 
-Las servidoras públicas embarazadas disfrutarán para el parto, de licencia con goce de sueldo íntegro por un período de 90 días naturales y de un período de lactancia, que no excederá seis (sic) a nueve meses a partir de que se reincorpore la servidora pública a laborar, en el cual tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos, o el tiempo equivalente que la servidora pública convenga con el titular de la institución pública o dependencia o su representante.
+Las servidoras públicas embarazadas disfrutarán para el parto, de licencia con goce de sueldo íntegro por un período de noventa días naturales y de un período de lactancia, que no excederá de nueve meses a partir de que se reincorpore la servidora pública a laborar, en el cual tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos, o el tiempo equivalente que la servidora pública convenga con el Vocal Ejecutivo. Las trabajadoras tendrán los derechos siguientes:
 
-En caso de adopción las servidoras públicas gozarán de una licencia con goce de sueldo íntegro, por un período de 45 días naturales, contados a partir de que se otorgue legalmente la adopción.
+I. Ejercer la lactancia plenamente en cualquier ámbito, incluido su centro de trabajo, en las mejores condiciones de sanidad.
 
-Los servidores públicos, disfrutarán de una licencia con goce de sueldo íntegro de 5 días hábiles con motivo de nacimiento de su hijo o de adopción.
+II. Disfrutar de licencia temporal por lactancia, posterior a la licencia por maternidad, con las opciones siguientes:
 
-A los servidores públicos se les otorgará una licencia con goce de sueldo íntegro, por causa de enfermedad o accidente graves de alguno de sus hijos, cónyuge o concubina o concubinario, previa expedición del certificado médico por parte del ISSEMYM, el cual determinará los días de licencia. En caso de que ambos padres sean servidores públicos, sólo se concederá la licencia a uno de ellos.
+a) Por tres meses, con goce de medio sueldo.
+
+b) Por seis meses, sin goce de sueldo.
+
+Para gozar de la licencia temporal, posterior a la licencia por maternidad, la trabajadora debe acreditar la práctica de la lactancia materna efectiva, mediante certificado expedido por el ISSEMYM, mismo que deberá presentar en su centro de trabajo cada mes.
+
+En caso de adopción las servidoras públicas gozarán de una licencia con goce de sueldo íntegro, por un período de cuarenta y cinco días naturales, contados a partir de que se otorgue legalmente la adopción.
+
+Los servidores públicos, disfrutarán de una licencia con goce de sueldo íntegro de cinco días hábiles con motivo del nacimiento de su hijo o de adopción.
+
+A los servidores públicos se les otorgará una licencia con goce de sueldo íntegro, por causa de enfermedad o accidente graves de alguno de sus hijos, cónyuge o concubina o concubinario, previa expedición del certificado médico por parte del ISSEMYM, el cual determinará los días de licencia. En caso que ambos padres sean servidores públicos, sólo se concederá la licencia a uno de ellos.
 
 ###### Artículo 72.
 
@@ -805,7 +951,9 @@ b) 60 días, a quienes tengan de (sic) cinco años de servicio consecutivos; y
 
 c) 180 días, a los que tengan una antigüedad mayor de ocho años de servicios consecutivos.
 
-Estas licencias podrán concederse a criterio del Vocal del IHAEM y se podrá autorizar cuando no afecten la buena marcha del trabajo o el servicio. En estos casos deberá contarse previamente con la autorización del superior inmediato superior (sic) del servidor público, al menos con nivel de Coordinador o Jefe de Área.
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+Estas licencias podrán concederse a criterio del Vocal del IHAEM y se podrá autorizar cuando no afecten la buena marcha del trabajo o el servicio. En estos casos deberá contarse previamente con la autorización del superior inmediato servidor público, al menos con nivel de Coordinador o Jefe de Unidad.
 
 Los servidores públicos generales podrán solicitar licencia sin goce de sueldo a su plaza, para ocupar cargos de confianza, hasta por doce meses, ésta podrá renovarse.
 
@@ -821,57 +969,55 @@ Los servidores públicos podrán gozar, adicionalmente, de licencias con goce de
 
 MOTIVO DURACIÓN REQUISITO
 
-a) Examen profesional 5 días Documento oficial que
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+a) Examen profesional Cinco días hábiles Documento oficial que
 
 establezca fecha para
 
 presentar examen
 
-b) Contraer nupcias 5 días Acta de matrimonio
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+b) Contraer nupcias Cinco días hábiles Acta de matrimonio
 
 (fotocopia)
 
-c) Nacimiento de hijo 2 a 3 días Acta de nacimiento
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+c) Nacimiento de hijo o adopción Cinco días hábiles Acta de nacimiento
 
 (fotocopia)
 
-d) Fallecimiento de familiar 1 a 3 días Acta de defunción
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
-en primer grado de (fotocopia)
+d) Fallecimiento de familiar Tres días hábiles Acta de defunción
 
-parentesco consanguíneo
+en primer grado de parentesco (fotocopia)
 
-(padres e hijos), en segundo
+consanguíneo (padres e hijos),
 
-grado de parentesco
+en segundo grado de parentesco
 
-(hermanos, abuelos y
+(hermanos, abuelos y nietos)
 
-nietos) y por afinidad
+y por afinidad (suegros, cónyuge,
 
-(suegros, cónyuge, yernos
+yernos, nueras, concubina o
 
-y nueras)
+concubinario)
 
 El trámite de licencia por examen profesional, por contraer nupcias, por fallecimiento de familiar o por nacimiento de hijos se regulará de conformidad con lo señalado en el capítulo VII del presente Reglamento "Justificación de Incidencias derivadas del Control de Puntualidad y Asistencia". Dicho trámite podrá realizarlo el servidor público el primer día en que se presente a reanudar sus labores, después de haberse registrado el acontecimiento. Esto no exime al servidor público de notificar previamente a su superior inmediato:
 
 En caso de licencia por matrimonio, que hará uso de la misma, y las fechas en que se ausentará a laborar.
 
-En caso de fallecimiento de un familiar o nacimiento de un hijo, hacerlo del conocimiento de su superior inmediato, personalmente o vía telefónica el primer día de su ausencia.
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
 
-En los casos de fallecimiento de un familiar, los días de licencia se otorgarán como sigue:
+En caso de fallecimiento de un familiar, nacimiento de un hijo o adopción, hacerlo del conocimiento de su superior inmediato, personalmente o vía telefónica el primer día de su ausencia.
 
-- Un día, cuando el acontecimiento se suscite en viernes o en jueves, cuando el viernes sea día inhábil, según el Calendario Oficial de Días Festivos no Laborables.
+> <small>(DEROGADO QUINTO PÁRRAFO, G.G. 30 DE AGOSTO DE 2018)</small>
 
-- Dos días, si es jueves o bien lunes o martes, y le sigue un día inhábil.
-
-- Tres días, si es lunes, martes o miércoles.
-
-En el caso de licencia por nacimiento de un hijo; se otorgarán:
-
-- Dos días, si acontece el día jueves o viernes, en este último caso, se le otorgará ese día y el siguiente día hábil.
-
-- Tres días, si es lunes, martes o miércoles.
+> <small>(DEROGADO SEXTO PÁRRAFO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 Las plazas que queden vacantes temporalmente por licencia del titular, no podrán cubrirse interinamente, excepto en los casos de licencia sin goce de sueldo por asuntos personales y por ocupar puestos de elección popular, o de confianza.
 
@@ -883,9 +1029,11 @@ El servidor público que presente solicitud de licencia, tendrá la obligación 
 
 El servidor público que a más tardar el cuarto día de haber terminado su licencia, no se presente a laborar o gestionar la prórroga correspondiente, incurrirá en las causales de rescisión de la relación laboral, previstas en el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 76.
 
-La autorización de permisos de entrada y salida del servidor público, deberá contar con la aprobación del Coordinador o Jefe de Unidad y estos casos deberán justificarse plenamente y que pueden ser para:
+La autorización de permisos de entrada y salida del servidor público, deberán contar con la autorización del Coordinador o Jefe de Unidad con la firma debidamente registrada, y estos casos deberán justificarse plenamente y que pueden ser para:
 
 a) Iniciar labores después del minuto treinta del horario oficial al inicio de la jornada laboral.
 
@@ -941,9 +1089,11 @@ Las vacaciones no podrán compensarse con una remuneración.
 
 Los servidores públicos a los que se hubiere otorgado licencia sin goce de sueldo, disfrutarán de los periodos anuales de vacaciones, proporcionales a los días efectivamente laborados.
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 85.
 
-Los servidores públicos que durante el periodo vacacional se encuentren incapacitados por enfermedad o gravidez, tendrán derecho a que se les reponga los días de vacaciones que no hubieren disfrutado, una vez concluida la incapacidad.
+Los servidores públicos que durante el periodo vacacional se encuentren con licencia por enfermedad o maternidad, podrán gozar, al reintegrarse al servicio, de hasta dos periodos vacacionales no disfrutados anteriormente por esa causa.
 
 ###### Artículo 86.
 
@@ -1031,7 +1181,9 @@ XIX. Conservar en buen estado y presentación los instrumentos, mobiliario, equi
 
 XX. Hacer entrega de los documentos, fondos, valores y bienes cuya atención, administración o guarda, estén a su cuidado, de acuerdo con las disposiciones aplicables. Levantar el acta correspondiente de entrega y recepción de área respectiva, en los casos de suspensión, terminación o rescisión de la relación de trabajo, así como renuncia absteniéndose de abandonar el trabajo hasta en tanto no concluya dicha entrega.
 
-XXI. Cumplir con las demás obligaciones que le impongan la L.F.T.; la de Responsabilidades y demás disposiciones del presente Reglamento.
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2018)</small>
+
+XXI. Cumplir con las demás obligaciones que le impongan el presente Reglamento, la L.F.T., la Ley de Responsabilidades, el Código de Ética de los Servidores Públicos del Estado de México y las demás disposiciones legales aplicables.
 
 ###### Artículo 90.
 
@@ -1137,17 +1289,27 @@ IV. Obedecer las órdenes y disposiciones que tiendan a evitar accidentes de tra
 
 ### CAPITULO XIX. DE LOS RIESGOS PROFESIONALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 95.
 
-Los riesgos profesionales son los accidentes o enfermedades a que está expuesto el servidor público del IHAEM, en el ejercicio o con motivo del trabajo, siempre que sea de manera directa y cuando sea comisionado para asistir en representación del IHAEM a cualquier lugar dentro del estado o entidad federativa, distinta a esta.
+Los riesgos de trabajo son los accidentes o enfermedades a que está expuesto el servidor público del IHAEM, en el ejercicio o con motivo del trabajo, siempre que sea de manera directa y cuando sea comisionado para asistir en representación del IHAEM a cualquier lugar dentro del Estado o entidad federativa, distinta a ésta.
 
-También se considera riesgo profesional los accidentes de trabajo que sufran los servidores públicos durante su traslado de su domicilio a su centro de trabajo y de este a aquel.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 30 DE AGOSTO DE 2018)</small>
 
-El IHAEM procurará los medios adecuados para prevenir riesgos profesionales.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 96.
 
 El accidente de trabajo es toda lesión orgánica o perturbación funcional inmediata o posterior, o la muerte, producida repentinamente en ejercicio o con motivo del trabajo cualesquiera que sea el lugar y el tiempo en el que se presente.
+
+> <small>(ADICIONADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+Se consideran accidentes de trabajo los que sufran los servidores públicos durante su traslado de su domicilio a su centro de trabajo y de este a aquél.
+
+> <small>(ADICIONADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
+El IHAEM procurará los medios adecuados para prevenir accidentes de trabajo.
 
 ###### Artículo 97.
 
@@ -1225,7 +1387,7 @@ III. La suspensión temporal y la rescisión por reincidencia, por el Vocal Ejec
 
 Los servidores públicos que incurran en el transcurso de un mes calendario en inasistencias injustificadas, serán sancionados de acuerdo a lo estipulado en el capítulo IX de este Reglamento.
 
-En ningún caso, el servidor público a quien se le aplique una sanción de suspensión sin goce de sueldo, podrá prestar sus servicios durante los días en que esté suspendido.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 107.
 
@@ -1237,9 +1399,11 @@ Para la aplicación de sanciones por violaciones al presente Reglamento, se toma
 
 Las sanciones contempladas en el presente ordenamiento, serán aplicadas a los servidores públicos sin detrimento de los descuentos, procedimientos administrativos o demás acciones legales que tengan lugar por las infracciones cometidas.
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 109.
 
-Cuando el servidor público incurra en alguna acción u omisión que se traduzca en el incumplimiento de las obligaciones estipuladas en este reglamento, en la Ley, el jefe superior jerárquico del servidor público procederá a levantar acta administrativa, en la que con toda precisión se asentarán los hechos, la declaración del servidor público afectado y la de los testigos de asistencia; firmando el acta todos los que en ella intervengan.
+Cuando el servidor público incurra en alguna acción u omisión que se traduzca en el incumplimiento de las obligaciones estipuladas en este reglamento, en la Ley, el jefe superior jerárquico del servidor público procederá a levantar acta administrativa, en la que con toda precisión se asentarán los hechos, la declaración del servidor público afectado y la de los testigos de asistencia; firmando el acta todos los que en ella intervengan. Posteriormente se le remitirá copia de la misma al Órgano de Control Interno.
 
 ### CAPITULO XXII. RESCISIÓN DE RELACIÓN DE TRABAJO
 
@@ -1287,7 +1451,7 @@ XVII. Sustraer listas de puntualidad y asistencia del lugar designado para ello,
 
 XVIII. Desatender las funciones de su encargo;
 
-XIX. Sustraer documentos, fondos, valores, bienes y equipo que estén bajo su resguardo y se tenga comprobación de ello; y (sic)
+XIX. Sustraer documentos, fondos, valores, bienes y equipo que estén bajo su resguardo y se tenga comprobación de ello; y
 
 XX. Incurrir en actos de violencia laboral, entendiéndose por estos los relativos (sic) discriminación, acoso y hostigamiento sexual. Para los efectos de la presente fracción se entiende por:
 
@@ -1380,3 +1544,15 @@ APROBACIÓN: 27 de septiembre de 2011
 PUBLICACIÓN:
 
 VIGENCIA: En cumplimiento a lo previsto por el artículo 58 de la Ley, el presente Reglamento surtirá sus efectos a partir de su depósito en el Tribunal Estatal de Conciliación y Arbitraje.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS GENERALES DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
