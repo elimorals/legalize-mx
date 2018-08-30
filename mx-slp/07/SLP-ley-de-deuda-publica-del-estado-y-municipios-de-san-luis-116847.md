@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-y-municipios-de-san-luis-116847
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-06"
-last_updated: "2016-10-06"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 6 de octubre de 2016.
 
@@ -79,7 +79,9 @@ I. Afectaciones: comprometer como garantía o fuente de pago de obligaciones los
 
 II. Agencia Calificadora de Valores: la institución autorizada por la Comisión Nacional Bancaria y de Valores, como ente facultado para emitir opiniones al riesgo crediticio de un emisor o de un financiamiento;
 
-III. Asociaciones Público-Privadas: las previstas conforme a la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+III. Asociaciones Público-Privadas: las previstas conforme a la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí, incluyendo los proyectos de prestación de servicios o cualquier esquema similar de carácter local, independientemente de la denominación que se utilice;
 
 IV. Aportaciones Federales: las ministraciones de recursos que reciben el Estado y los municipios que están destinados a un fin específico de acuerdo al Capítulo V de la Ley de Coordinación Fiscal, y que se contemplan en el Ramo 33 del Presupuesto de Egresos de la Federación;
 
@@ -105,6 +107,10 @@ XIV. Deuda Pública: cualquier financiamiento contratado por los sujetos de esta
 
 XV. Disciplina Financiera: la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los sujetos de esta Ley, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico, el empleo y la estabilidad del sistema financiero;
 
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+XV Bis. Disponibilidades: los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las transferencias federales etiquetadas;
+
 XVI. Empréstitos: las operaciones de endeudamiento directo o contingente que resulten del crédito público, mediante la emisión de valores que suscriban el Estado, o los municipios, así como las que emitan las entidades del Estado o las entidades de los municipios y los organismos intermunicipales, con el aval o el respaldo solidario del Estado, o Municipio correspondiente;
 
 XVII. Entidades del Estado: los organismos descentralizados estatales, las empresas de participación estatal mayoritaria, y los fideicomisos públicos que de conformidad con la Ley Orgánica de la Administración Pública del Estado, sean considerados entidades paraestatales;
@@ -113,9 +119,15 @@ XVIII. Entidades de los Municipios: los organismos descentralizados municipales,
 
 XIX. Fideicomisos: aquéllos que por contrato o mediante acuerdo expreso constituyen el Estado o los municipios, con el propósito de que sirvan de auxilio en el ejercicio de las atribuciones legales que tienen conferidas cada uno de ellos, para impulsar las áreas prioritarias del desarrollo;
 
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+XIX Bis. Fideicomisos Públicos con Estructura Orgánica: aquellos que cuentan con un Comité Técnico, un Director General, y una estructura análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, por lo que son considerados Entidades paraestatales;
+
 XX. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los sujetos de esta Ley, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
-XXI. Financiamiento Neto: la diferencia entre las disposiciones realizadas de un financiamiento y las amortizaciones efectuadas de la deuda pública;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+XXI. Financiamiento Neto: la suma de las disposiciones realizadas de un Financiamiento y las Disponibilidades, menos las amortizaciones efectuadas de la Deuda Pública;
 
 XXII. Fuente de Pago: los recursos utilizados por los sujetos de esta Ley para el pago de cualquier financiamiento u obligación;
 
@@ -151,7 +163,7 @@ XXXVII. Obligaciones a Corto Plazo: cualquier obligación contratada con Institu
 
 XXXVIII. Participaciones Federales: las ministraciones de recursos que reciben el Estado y los municipios por concepto de la proporción que corresponde a sus haciendas públicas de los ingresos federales de libre disposición y que se contemplan en el Ramo 28 del Presupuesto de Egresos de la Federación;
 
-XXXIX. Periódico Oficial: Periódico Oficial del Gobierno del Estado “Plan de San Luis”;
+XXXIX. Periódico Oficial: Periódico Oficial del Gobierno del Estado "Plan de San Luis";
 
 XL. Presupuesto de Egresos: documento que establece la distribución del gasto público para un ejercicio fiscal, aprobado por el Congreso para el caso del gasto Estatal, y por el cabildo en el caso de gasto municipal;
 
@@ -469,9 +481,11 @@ Los sujetos de esta Ley sólo podrán contraer obligaciones o financiamientos cu
 
 Cuando las obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la inversión pública productiva realizada.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 17.
 
-Lo dispuesto en este Capítulo no será aplicable a la contratación de financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, así como por la Ley de Coordinación Fiscal.
+Lo dispuesto en este Capítulo no será aplicable a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, incluyendo aquellos rubros o destinos para atender a la población afectada por desastres naturales en los términos de las leyes, reglas de operación, y lineamientos aplicables, así como por la Ley de Coordinación Fiscal.
 
 ###### ARTÍCULO 18.
 
@@ -485,9 +499,13 @@ I. Exista una mejora en la tasa de interés, incluyendo los costos asociados, lo
 
 II. No se incremente el saldo insoluto, y
 
-III. No se amplíe el plazo de vencimiento original de los financiamientos respectivos, el plazo de duración del pago del principal e intereses del financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del financiamiento.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-Dentro de los quince días naturales siguientes a la celebración del refinanciamiento o reestructuración, el sujeto de esta Ley deberá informar al Congreso sobre la celebración de este tipo de operaciones, así como inscribir dicha operación, ante el Registro Estatal, y en el Registro Público Único.
+III. No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, no se otorgue plazo o periodo de gracia, ni se modifique el perfil de amortizaciones del principal del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del Financiamiento.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
+Dentro de los quince días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, el sujeto de esta Ley deberá informar al Congreso del Estado sobre la celebración de este tipo de operaciones, así como presentar la solicitud de inscripción de dicho Refinanciamiento o Reestructuración ante el Registro Público Único.
 
 ###### ARTÍCULO 20.
 
@@ -603,11 +621,17 @@ El Secretario de Finanzas, tesorero municipal o su equivalente de los sujetos de
 
 En el caso de que el Estado o cualquiera de sus entidades soliciten financiamientos por un monto mayor o igual a cuarenta millones de unidades de inversión (UDIS) o su equivalente, o el municipio o cualquiera de sus entidades soliciten financiamientos por un monto mayor a diez millones de unidades de inversión o su equivalente y, en ambos casos, a un plazo de pago superior a un año, deberán cumplir con lo siguiente:
 
-I. Implementar un proceso competitivo con por lo menos cinco diferentes instituciones financieras, del cual obtenga mínimo dos ofertas irrevocables de financiamiento. Las temporalidades de dichas propuestas no deberán diferir en más de treinta días naturales y deberán tener una vigencia mínima de sesenta días naturales;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+I. Implementar un proceso competitivo con por lo menos cinco diferentes instituciones financieras, del cual obtenga mínimo dos ofertas irrevocables de Financiamiento. La temporalidad de dichas propuestas no deberá diferir en más de treinta días naturales y deberán tener una vigencia mínima de sesenta días naturales. Tratándose de propuestas relativas a Instrumentos derivados, no será aplicable la vigencia mínima de sesenta días naturales;
 
 II. La solicitud del financiamiento que se realice a cada institución financiera deberá precisar y ser igual en cuanto a: monto, plazo, perfil de amortizaciones, condiciones de disposición, oportunidad de entrega de los recursos y, en su caso, la especificación del recurso a otorgar como fuente de pago del financiamiento o garantía a contratar, de acuerdo con la aprobación del Congreso. En ningún caso la solicitud podrá exceder de los términos y condiciones autorizados por el Congreso;
 
 III. Las ofertas irrevocables que presenten las instituciones financieras deberán precisar todos los términos y condiciones financieras aplicables al financiamiento, así como la fuente o garantía de pago que se solicite. Los sujetos de esta Ley estarán obligados a presentar la respuesta de las instituciones financieras que decidieron no presentar oferta;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE AGOSTO DE 2018)</small>
+
+En caso de no obtener el mínimo de ofertas irrevocables, el proceso competitivo será declarado desierto por única ocasión, por lo que el Ente Público deberá realizar un nuevo proceso competitivo y, en caso de no obtener dos ofertas irrevocables en los términos de la fracción I de este artículo, la oferta ganadora será aquella que se hubiera presentado en el día y la hora indicada en la invitación enviada a las Instituciones Financieras o prestador de servicios, misma que deberá cumplir con los términos establecidos en la invitación correspondiente;
 
 IV. Contratar la oferta que represente las mejores condiciones de mercado para el sujeto obligado, es decir, el costo financiero más bajo incluyendo todas las comisiones, gastos y cualquier otro accesorio que estipule la propuesta. Para establecer un comparativo que incluya la tasa de interés y todos los costos relacionados al financiamiento, se deberá aplicar la metodología establecida para el cálculo de la tasa efectiva, bajo los lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público, y
 
@@ -618,6 +642,14 @@ En caso de fraccionar la contratación del monto de financiamiento autorizado po
 Para acreditar la contratación bajo las mejores condiciones de mercado de los financiamientos distintos a los señalados en el segundo párrafo del presente artículo, el sujeto obligado deberá implementar un proceso competitivo con por lo menos dos instituciones financieras y obtener únicamente una oferta irrevocable, de acuerdo a lo establecido en la fracción I de este artículo.
 
 Los sujetos de esta Ley, en cualquier caso, deberán elaborar un documento que incluya el análisis comparativo de las propuestas, conforme a lo establecido en la fracción IV de este artículo. Dicho documento deberá publicarse en la página oficial de Internet de los sujetos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
+En el caso de operaciones de Reestructuración que cumplan lo señalado en el artículo 23, párrafo segundo de esta Ley, no se requerirá realizar el proceso competitivo.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
+Asimismo, tratándose de Refinanciamientos que sustituyan un Financiamiento por otro de forma total, aplicará la excepción prevista en el párrafo que antecede.
 
 ###### ARTÍCULO 25.
 
@@ -633,7 +665,11 @@ Los sujetos de esta Ley deberán entregar al Congreso, una copia de los document
 
 Con excepción de los financiamientos que se contraten mediante el mercado bursátil, cuando la autorización del financiamiento a que hace referencia el artículo 22 de esta Ley, exceda de cien millones de unidades de inversión, dicho proceso de contratación se realizará mediante licitación pública, en los términos siguientes:
 
-I. El proceso competitivo descrito en el artículo 24 de esta Ley deberá realizarse públicamente y de manera simultánea. Para ello, las propuestas presentadas deberán entregarse en una fecha, hora y lugar previamente especificados, y serán dadas a conocer en el momento en que se presenten, pudiendo emplear mecanismos electrónicos que aseguren el cumplimiento de lo anterior, y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+I. El proceso competitivo descrito en el artículo 24 de esta Ley deberá realizarse públicamente y de manera simultánea. Para ello, las propuestas presentadas deberán entregarse en una fecha, hora y lugar previamente especificados, y serán dadas a conocer en el momento en que se presenten, pudiendo emplear mecanismos electrónicos que aseguren el cumplimiento de lo anterior. El Ente Público no estará obligado a presentar las negativas de participación presentadas por las Instituciones Financieras o prestador de servicios.
+
+En caso de no obtener el mínimo de ofertas irrevocables, la licitación pública será declarada desierta por única ocasión, por lo que el Ente Público deberá realizar una nueva licitación pública y, en caso de no obtener dos ofertas irrevocables en los términos de la fracción I del artículo 24 de esta Ley, la oferta ganadora será aquella que se hubiera presentado en el día y la hora indicada en la convocatoria, misma que deberá cumplir con los términos establecidos en la propia convocatoria. La convocatoria podrá indicar supuestos adicionales bajo los cuales podrá declararse desierta una licitación pública, y
 
 II. La institución financiera participante que resulte ganadora del proceso competitivo se dará a conocer en un plazo no mayor a dos días hábiles posteriores al tiempo establecido, de conformidad con la fracción anterior, a través de medios públicos, incluyendo la página oficial de internet del propio sujeto de esta Ley, publicando el documento en que conste la comparación de las propuestas presentadas.
 
@@ -671,9 +707,11 @@ Los recursos derivados de las obligaciones a corto plazo deberán ser destinados
 
 El Estado y los municipios presentarán en los informes periódicos a que se refiere la Ley General de Contabilidad Gubernamental, y en su respectiva cuenta pública, la información detallada de las obligaciones a corto plazo contraídas en los términos del presente Capítulo, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado. Adicionalmente, deberá incluir la tasa efectiva de las obligaciones a corto plazo a que hace referencia el artículo 24 fracción IV de esta Ley, calculada conforme a la metodología que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 33.
 
-Las obligaciones a corto plazo a que se refiere el presente Capítulo, no podrán ser objeto de refinanciamiento o reestructura a plazos mayores a un año, salvo en el caso de las obligaciones destinadas a inversión pública productiva, y se cumpla con los requisitos previstos en el Capítulo I del presente Título Tercero.
+Las obligaciones a corto plazo a que se refiere el presente Capítulo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año.
 
 ### CAPÍTULO III. De la Emisión de Valores
 
@@ -729,13 +767,19 @@ En caso de que el Estado incluya a sus municipios en el mecanismo de coordinaci�
 
 ### CAPÍTULO V. Del Sistema de Alertas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 42.
 
-Los sujetos de esta Ley que tengan contratados financiamientos y obligaciones inscritos en el Registro Público Único, se sujetarán a la evaluación de su nivel de endeudamiento, de conformidad con el Sistema de Alertas previsto en el Capítulo V del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+Los sujetos de esta Ley que tengan contratados financiamientos y obligaciones inscritos en el Registro Público Único, cuya fuente o garantía de pago sea de Ingresos de libre disposición, se sujetarán a la evaluación de su nivel de endeudamiento, de conformidad con el Sistema de Alertas previsto en el Capítulo V del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 Tratándose de obligaciones derivadas de contratos de Asociación Público-Privada, la evaluación a que se refiere el párrafo anterior debe considerar las erogaciones pendientes de pago destinadas a cubrir los gastos correspondientes a la inversión pública productiva.
 
 La evaluación de los sujetos de esta Ley será realizada única y exclusivamente con base en la documentación e información proporcionada por los mismos sujetos obligados y disponibles en el Registro Público Único.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
+Para aquellos casos en que el Estado, realice la afectación de sus participaciones federales en garantía o como Fuente de pago a través de un fideicomiso público sin estructura que funja como acreditado en el Financiamiento u Obligación correspondiente, se consolidarán estos con los Financiamientos y Obligaciones del Estado o Municipio, y serán computables para efectos del Sistema de Alertas.
 
 ###### ARTÍCULO 43.
 
@@ -747,7 +791,9 @@ Para el caso de los proyectos contratados bajo esquemas de Asociación Público-
 
 II. Indicador de servicio de la deuda y de obligaciones sobre ingresos de libre disposición, el cual está vinculado con la capacidad de pago. Para su cálculo se incluirán las amortizaciones, intereses, anualidades y costos financieros vinculados a cada financiamiento y pago por servicios derivados de esquemas de Asociación Público-Privada destinados al pago de la inversión, y
 
-III. Indicador de obligaciones a corto plazo y proveedores y contratistas sobre ingresos totales, el cual muestra la disponibilidad financiera del sujeto de esta Ley para hacer frente a sus obligaciones contratadas a plazos menores de doce meses en relación con los ingresos totales.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+III. Indicador de Obligaciones a Corto Plazo y Proveedores y Contratistas, menos los montos de efectivo, bancos e inversiones temporales, sobre Ingresos totales, el cual muestra la disponibilidad financiera del Ente Público para hacer frente a sus obligaciones contratadas a plazos menores de doce meses en relación con los ingresos totales.
 
 La definición específica de cada indicador, su aplicación, periodicidad de medición, y la obligación de entrega de información por parte de los sujetos de esta Ley, atenderá a las disposiciones que al efecto emita la Secretaría de Hacienda y Crédito Público.
 
@@ -773,9 +819,11 @@ III. Un nivel de endeudamiento elevado tendrá un techo de financiamiento neto i
 
 Para efectos de la determinación del techo de financiamiento neto de aquellos sujetos de esta Ley, que no tengan contratados financiamientos y obligaciones inscritos en el Registro Público Único, que den lugar a la evaluación que deberá realizar la Secretaría de Hacienda y Crédito Público sobre los indicadores del Sistema de Alertas de acuerdo a los artículos 42 y 43 de esta Ley, tendrán que entregar la información requerida por la misma, de acuerdo al reglamento, para la evaluación correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 46.
 
-En caso de que las entidades del Estado y las entidades de los municipios, se ubiquen en un nivel de endeudamiento elevado, deberán firmar un convenio con el Estado o municipio, respectivamente, para establecer obligaciones específicas de responsabilidad hacendaria.
+En caso de que las entidades del Estado y las entidades de los municipios, con excepción del Poder Ejecutivo del Estado y los Municipios, se ubiquen en un nivel de endeudamiento elevado, deberán firmar un convenio con el Estado o municipio, respectivamente, para establecer obligaciones específicas de responsabilidad hacendaria.
 
 El seguimiento de las obligaciones de responsabilidad hacendaria establecidas en dicho convenio, estará a cargo del Estado o municipio, según corresponda.
 
@@ -805,7 +853,9 @@ Para la inscripción de los financiamientos y obligaciones en los registros, Est
 
 I. Los financiamientos y obligaciones deberán cumplir con los requisitos establecidos en el reglamento, así como con los dispuestos en los capítulos I y II del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en los términos del Reglamento del Registro Público Único;
 
-II. En el caso de financiamientos y obligaciones que utilicen como garantía o fuente de pago las participaciones o aportaciones federales, se deberá cumplir con las disposiciones establecidas en la Ley de Coordinación Fiscal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+II. En el caso de financiamientos y obligaciones que utilicen como garantía o fuente de pago las participaciones o aportaciones federales, se deberá cumplir con las disposiciones establecidas en la Ley de Coordinación Fiscal. El Estado o el Municipio que realice la afectación de sus participaciones federales en garantía o como Fuente de pago a través de un fideicomiso público sin estructura que funja como acreditado en el Financiamiento u Obligación correspondiente, deberán cumplir con los requisitos que al efecto determine el Reglamento del Registro Público Único. En los reportes que en términos de esta Ley deben presentarse respecto de los Financiamientos y Obligaciones, éstos serán consolidados con los Financiamientos y Obligaciones del sujeto de la Ley, según corresponda;
 
 III. En el caso de la deuda estatal garantizada se deberá contar con la inscripción en el Registro de la Deuda del Sector Público Federal, y en el Registro Estatal;
 
@@ -827,11 +877,15 @@ X. Los demás requisitos que establezcan el propio Reglamento, y el Reglamento d
 
 En el Registro Estatal se inscribirán en un apartado específico las obligaciones que se deriven de contratos de Asociaciones Público-Privadas. Para llevar a cabo la inscripción, los sujetos de esta Ley deberán presentar la información relativa al monto de inversión del proyecto a valor presente y el pago mensual del servicio, identificando la parte correspondiente al pago de inversión, el plazo del contrato, así como las erogaciones pendientes de pago.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 52.
 
-La disposición o desembolso del financiamiento u obligación a cargo de los sujetos de esta Ley estará condicionada a la inscripción del mismo en el Registro Público Único, excepto tratándose de obligaciones a corto plazo o emisión de valores, en cuyo caso deberán quedar inscritos en un período no mayor a treinta días naturales, contados a partir del día siguiente al de su contratación, de la fecha de cierre del libro, o de subasta, según corresponda.
+La disposición o desembolso del financiamiento u obligación a cargo de los sujetos de esta Ley estará condicionada a la inscripción del mismo en el Registro Público Único, excepto tratándose de obligaciones a corto plazo o emisión de valores.
 
-Para el caso del Registro Estatal, las obligaciones de corto plazo deberán registrarse previamente a la disposición del mismo.
+En el caso de Obligaciones a corto plazo la solicitud de inscripción deberá presentarse ante el Registro Público Único, en un período no mayor a treinta días naturales contados a partir del día siguiente al de su contratación.
+
+Tratándose de emisión de valores, el Ente Público deberá presentar en un plazo de diez días hábiles siguientes a la inscripción de la emisión en el Registro Público Único, la colocación o circulación de los valores a efecto de perfeccionar la inscripción.
 
 ###### ARTÍCULO 53.
 
@@ -980,3 +1034,13 @@ El Secretario de Finanzas
 José Luis Ugalde Montes
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1052.- SE REFORMAN LOS ARTÍCULOS 3°, 17, 19, 24, 27, 33, 42, 43, 46, 50 Y 52; Y ADICIONA A LOS ARTÍCULOS 3°, 24 Y 42, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
