@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2018-04-17"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -33,7 +33,9 @@ DECRETO 176
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Para expedir esta nueva Ley, se tomó en cuenta además de las disposiciones de la Ley General de Protección Civil, que son obligatorias, las aportaciones contenidas en iniciativas anteriores; de las autoridades, funcionarios y expertos en la materia, que se incorporan a sus disposiciones que resultan en beneficio de la protección de la vida de los potosinos y de sus bienes.
 
@@ -677,6 +679,10 @@ El registro será obligatorio y permitirá a los agentes consultores capacitador
 
 A fin de evitar conflicto de interés real o potencial, así como tráfico de influencias; ningún servidor público o persona que forme de los consejos de protección civil nacional, estatal y municipal, así como los familiares directos de los empleados de los gobiernos referidos, no podrán obtener el registro como agentes consultores capacitadores.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 52 Bis (SIC). De los ingresos obtenidos por el concepto de asistencia social establecido en la Ley de Hacienda del Estado, el Ejecutivo del Estado, en base a su suficiencia presupuestal podrá destinar recursos a instituciones públicas y privadas dedicadas a atender emergencias y situaciones de desastre, siempre y cuando cumplan los requisitos aplicables de los artículos 66 y 67 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí.
+
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 52 Ter.
@@ -990,3 +996,11 @@ P.O. 17 DE ABRIL DE 2018.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1046.- SE ADICIONA EL ARTÍCULO 52 BIS A LA LEY DE (SIC) SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
