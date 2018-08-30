@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-11025
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-12"
-last_updated: "2018-02-10"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 12 de septiembre de 2015.
 
@@ -183,9 +183,15 @@ IX. Incorporar en los presupuestos de Egresos del Estado la asignación de recur
 
 X. Crear en cada uno de los entes públicos del Estado, los mecanismos y poner en marcha las acciones afirmativas institucionales apropiados para el cumplimiento de los objetivos de esta Ley, tanto en las relaciones internas, como en el servicio al público;
 
-XI. Suscribir convenios a través del Instituto, dirigidos a impulsar, fortalecer y promover la difusión y el conocimiento de la presente ley; así como, velar por el cumplimiento de la misma en el Estado en los ámbitos público y privado, y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-XII. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+XI. Suscribir convenios a través del Instituto, dirigidos a impulsar, fortalecer y promover la difusión y el conocimiento de la presente ley; así como, velar por el cumplimiento de la misma en el Estado en los ámbitos público y privado;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+XII. Impulsar la paridad en la asignación de puestos directivos en todas las dependencias y entidades de la Administración Pública, tanto centralizada como paraestatal, y
+
+XIII. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ###### ARTÍCULO 12.
 
@@ -195,9 +201,15 @@ I. Vigilar que el marco jurídico estatal esté debidamente armonizado con los c
 
 II. Aprobar las iniciativas correspondientes para armonizar las leyes estatales en materia de igualdad sustantiva y derechos humanos de las mujeres, de conformidad con los compromisos internaciones (sic) adquiridos por México en esta materia, las disposiciones constitucionales y las leyes generales en la materia;
 
-III. Garantizar que en los presupuestos de ingresos y egresos del Estado, las leyes de carácter fiscal y el paquete económico de cada ejercicio legal, se consideren los principios de perspectiva de género, y transversalidad y que en las disposiciones legales necesarias para promover los principios, políticas y objetivos que sobre la igualdad entre mujeres y hombres expidan, se consideren las acciones presupuestales necesarias para garantizar su ejecución, y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-IV. Capacitar, a través del Instituto de Investigaciones Legislativas, en coordinación con la oficialía mayor del propio Congreso, a asesoras y asesores, secretarias y secretarios técnicos de comisiones, investigadoras e investigadores y demás personal que intervenga en los procesos legislativos, en legislación con perspectiva de género, elaboración de presupuestos con perspectiva de género y mecanismos promoción y vigencia de los derechos humanos.
+III. Garantizar que en los presupuestos de ingresos y egresos del Estado, las leyes de carácter fiscal y el paquete económico de cada ejercicio legal, se consideren los principios de perspectiva de género, y transversalidad y que en las disposiciones legales necesarias para promover los principios, políticas y objetivos que sobre la igualdad entre mujeres y hombres expidan, se consideren las acciones presupuestales necesarias para garantizar su ejecución;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+IV. Impulsar la paridad en la asignación de puestos directivos en todos sus órganos, y
+
+V. Capacitar, a través del Instituto de Investigaciones Legislativas, en coordinación con la oficialía mayor del propio Congreso, a asesoras y asesores, secretarias y secretarios técnicos de comisiones, investigadoras e investigadores y demás personal que intervenga en los procesos legislativos, en legislación con perspectiva de género, elaboración de presupuestos con perspectiva de género y mecanismos promoción y vigencia de los derechos humanos.
 
 ###### ARTÍCULO 13.
 
@@ -211,9 +223,15 @@ III. Considerados (sic) vulnerables, en teoría de género, y en los mecanismos 
 
 IV. Dictar con diligencia las órdenes de protección que se soliciten y que procedan conforme a la ley a favor de mujeres y en su caso de sus menores hijos, que se encuentren en estado de desventaja y vulnerabilidad;
 
-V. Impartir justicia, considerando además de los principios que rigen la actuación judicial, los principios de igualdad, igualdad sustantiva y perspectiva de género, y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-VI. Garantizar que todas las actuaciones judiciales tengan por sustento los principios de la Constitución Federal, la Constitución del Estado, y los Tratados Internacionales de los que México sea parte.
+V. Impartir justicia, considerando además de los principios que rigen la actuación judicial, los principios de igualdad, igualdad sustantiva y perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+VI. Impulsar la paridad en la asignación de puestos directivos en todos sus órganos, y
+
+VII. Garantizar que todas las actuaciones judiciales tengan por sustento los principios de la Constitución Federal, la Constitución del Estado, y los Tratados Internacionales de los que México sea parte.
 
 ###### ARTÍCULO 14.
 
@@ -235,9 +253,15 @@ VII. Evaluar la aplicación de la presente ley en los ámbitos público y privad
 
 VIII. Evaluar la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
 
-IX. Evaluar el impacto de las políticas públicas, obras y acciones de los entes públicos en la población de hombres y mujeres en el Estado, a través de los resultados que arroje el Banco Estatal de Indicadores de Género a que se refiere la ley del Instituto, y emitir a los mismos las recomendaciones que procedan para lograr la igualdad sustantiva entre ambos sexos, y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-X. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+IX. Evaluar el impacto de las políticas públicas, obras y acciones de los entes públicos en la población de hombres y mujeres en el Estado, a través de los resultados que arroje el Banco Estatal de Indicadores de Género a que se refiere la ley del Instituto, y emitir a los mismos las recomendaciones que procedan para lograr la igualdad sustantiva entre ambos sexos;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+X. Impulsar la paridad en la asignación de puestos directivos en todas las instituciones públicas del Estado, y
+
+XI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ### CAPÍTULO III. DE LOS MUNICIPIOS
 
@@ -257,9 +281,15 @@ III. Considerar, de conformidad con lo establecido en la Ley Orgánica del Munic
 
 IV. Implementar instancias municipales de la mujer, en la medida de sus posibilidades presupuestales, encargadas de ejecutar la política municipal en materia de igualdad de conformidad con lo establecido en la presente Ley;
 
-V. Diseñar, formular y aplicar campañas de concientización y sensibilización, así como programas de desarrollo, de acuerdo a la región, en las materias que esta Ley le confiere, y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-VI. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas, como en las rurales.
+V. Diseñar, formular y aplicar campañas de concientización y sensibilización, así como programas de desarrollo, de acuerdo a la región, en las materias que esta Ley le confiere;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
+VI. Impulsar la paridad en la asignación de puestos directivos en todas las dependencias y entidades de la administración pública municipal, y
+
+VII. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas, como en las rurales.
 
 ###### ARTÍCULO 17.
 
@@ -738,5 +768,13 @@ P.O. 10 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 880.- SE REFORMA EL ARTÍCULO 30; Y ADICIONA AL ARTÍCULO 5° LA FRACCIÓN XII BIS DE LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1053.- SE REFORMAN LOS ARTÍCULOS 11, 12, 13, 14 Y 16; Y ADICIONA A LOS ARTÍCULOS 11, 12, 13, 14 Y 16 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
