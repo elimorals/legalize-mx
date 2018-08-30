@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-atender-y-erradicar-la-trata-de-personas-7936
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-27"
-last_updated: "2011-01-29"
+last_updated: "2018-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # LEY PARA PREVENIR, ATENDER Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA PREVENIR, SANCIONAR, Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS; Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 30 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE ENERO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 518 PUBLICADO EN EL P.O. DE 27 DE ENERO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de enero de 2011.
 
@@ -33,7 +33,7 @@ Dr. Fernando Toranzo Fernández Gobernador Constitucional del Estado Libre y Sob
 
 DECRETO 518
 
-LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUClONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
+LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
 EXPOSICION DE MOTIVOS.
 
@@ -141,7 +141,7 @@ III. Brindar atención y protección a las víctimas del delito de trata de pers
 
 IV. Colaborar en el diseño e implementación de programas permanentes para prevenir la trata de personas.
 
-## TITULO SEGUNDO. DE LA COMISION PARA LA PREVENCION, ATENCION Y ERRADlCACION DE LA TRATA DE PERSONAS
+## TITULO SEGUNDO. DE LA COMISION PARA LA PREVENCION, ATENCION Y ERRADICACION DE LA TRATA DE PERSONAS
 
 ### Capítulo I. De su Denominación y Objeto
 
@@ -425,11 +425,7 @@ La Comisión propondrá la adopción de medidas para lograr la recuperación fí
 
 Las autoridades estatales, en el ámbito de sus competencias, garantizarán de manera efectiva la seguridad física de las víctimas del delito de trata de personas que se encuentren en territorio estatal.
 
-TlTULO CUARTO
-
-DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER Y ERRADICAR LA TRATA DE PERSONAS
-
-## TITULO QUINTO. DE LAS AUTORIDADES QUE APLICAN LA LEY
+## TITULO CUARTO. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER Y ERRADICAR LA TRATA DE PERSONAS
 
 ### Capítulo Unico. Contenido del Programa
 
@@ -457,7 +453,7 @@ IX. Las alternativas para obtención de recursos y financiamiento de las accione
 
 X. La metodología de evaluación y seguimiento de las actividades que se deriven, fijando indicadores para evaluar los resultados.
 
-## TITULO SEXTO. DE LA PARTICIPACION SOCIAL
+## TITULO QUINTO. DE LAS AUTORIDADES QUE APLICAN LA LEY
 
 ### Capítulo Unico. De sus Atribuciones
 
@@ -885,6 +881,8 @@ II. Garantizar a las víctimas del delito, la adecuada y oportuna atención, par
 
 III. Las demás que les confieran los ordenamientos legales aplicables.
 
+## TITULO SEXTO. DE LA PARTICIPACION SOCIAL
+
 ### Capítulo Unico
 
 ###### ARTICULO 54.
@@ -905,9 +903,7 @@ VI. Proporcionen los datos necesarios para el desarrollo, investigaciones y esta
 
 En todos los lugares en los que se presten bienes o servicios públicos, se deberá colocar en un lugar visible, avisos que señalen: En el Estado de San Luis Potosí la trata de personas es un delito grave, cualquier persona que participe en la realización de esta conducta será sancionada en los términos del Código Penal.
 
-TITULO SEPTlMO
-
-DEL FINANCIAMIENTO DEL PROGRAMA ESTATAL
+## TITULO SEPTIMO. DEL FINANCIAMIENTO DEL PROGRAMA ESTATAL
 
 ### Capítulo Unico
 
@@ -954,3 +950,25 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1051.- LEY PARA PREVENIR, SANCIONAR, Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS; Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor de este Decreto, se abroga la Ley para Prevenir, Atender y Erradicar la Trata de Personas en el Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el veintisiete de enero de dos mil once, mediante el Diverso Legislativo número 518.
+
+TERCERO. En tanto se reforman las leyes respectivas, las referencias hechas en la presente Ley a la Fiscalía General del Estado, se entenderán hechas a la Procuraduría General de Justicia del Estado.
+
+CUARTO. El Ejecutivo del Estado contará con un término de ciento veinte días contados a partir de la publicación de la presente Ley para emitir el Reglamento de la misma.
+
+QUINTO. El Ejecutivo del Estado deberá instalar la Comisión Estatal para Prevenir, Investigar, Sancionar y Erradicar los Delitos en Materia de Trata de Personas, y para la Protección y Asistencia a las Víctimas de estos Delitos dentro de los treinta días siguientes a la entrada en vigor de este Ordenamiento;
+
+SEXTO. Una vez instalada, la Comisión contará con un término de 90 noventa días para publicar el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia de las Víctimas de estos Delitos, conforme a las disposiciones de esta Ley.
+
+SÉPTIMO. La Fiscalía General del Estado deberá crear y operar la fiscalía, o unidad especializada para la investigación de los delitos previstos en la Ley General, que contará con Agentes Fiscales y policías especializados, así como con los recursos humanos, financieros y materiales que requieran para su efectiva operación. Estas unidades se integrarán con servicios periciales y técnicos especializados para el ejercicio de su función. Asimismo, deberá capacitar a su personal en materia de planeación de investigación.
+
+Para ingresar y permanecer en las fiscalías especializadas en la investigación y persecución de los delitos en materia de trata de personas, será necesario cumplir con los requisitos que determine la Ley Orgánica de dicha Fiscalía.
