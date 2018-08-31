@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2017-12-29"
+last_updated: "2018-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -863,8 +863,6 @@ IV.- Comprobante de domicilio que acredite la residencia de por lo menos seis me
 
 La autoridad municipal podrá, en términos de la normatividad que al efecto emita, realizar visitas domiciliarias para verificar la información proporcionada por el solicitante o requerir de cualquier otro documento complementario a fin de confirmar la identidad y residencia del solicitante.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ARTÍCULO 40 TER.- La constancia de vecindad contendrá cuando menos, los datos siguientes del solicitante:
@@ -1539,7 +1537,9 @@ I.- Adecuado funcionamiento del Ayuntamiento como órgano máximo de autoridad d
 
 II.- Idónea división administrativa y territorial del Municipio;
 
-III.- Preservación del orden público como requerimiento prioritario de la sociedad, en los aspectos de seguridad personal y patrimonial de los habitantes del Municipio, salud pública, vialidad, esparcimiento, cultura, desarrollo urbano y demás aspectos fundamentales de la vida comunitaria;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+
+III.- Preservación del orden público como requerimiento prioritario de la sociedad, en los aspectos de seguridad personal y patrimonial, de los habitantes del Municipio, salud pública, vialidad, esparcimiento, cultura, desarrollo urbano, el derecho a una vida libre de violencia, la implementación de acciones afirmativas hacia las mujeres, y demás aspectos fundamentales de la vida comunitaria;
 
 IV.- Establecimiento de las bases para garantizar, en beneficio de la sociedad, la más adecuada prestación de los servicios públicos municipales directamente por el Ayuntamiento o a través de concesionarios;
 
@@ -2605,15 +2605,11 @@ Los Tesoreros Municipales serán responsables de las erogaciones que efectúen f
 
 ### CAPÍTULO XVI. DE LA CONTRALORÍA MUNICIPAL
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 168.
 
 Cada Municipio contará con una Contraloría Municipal, la cual tendrá las funciones y facultades de un órgano interno de control en el Municipio, estará a cargo de un Contralor Municipal, quien deberá cumplir los mismos requisitos señalados para el Secretario del Ayuntamiento, será nombrado y removido por el Ayuntamiento, a propuesta del Presidente Municipal y será remunerado de acuerdo con el presupuesto respectivo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -2629,19 +2625,13 @@ III.- Vigilar el correcto uso del patrimonio municipal;
 
 IV.- Formular al Ayuntamiento propuestas para que en el estatuto o reglamento respectivo se expidan, reformen o adicionen las normas reguladoras del funcionamiento, instrumentos y procedimientos de control de la Administración Pública Municipal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 V.- Vigilar el cumplimiento de las normas de control y fiscalización de las dependencias y entidades municipales;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 V Bis.- Dar estricto cumplimiento a los lineamientos, bases, políticas, metodologías, principios, recomendaciones, requerimientos y demás instrumentos que emitan los Comités Coordinadores de los Sistemas Nacional y Estatal Anticorrupción, así como el Comité Rector del Sistema Nacional de Fiscalización;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -2667,25 +2657,17 @@ XIII.- Verificar el cumplimiento de las obligaciones de proveedores y contratist
 
 XIV.- Emitir opinión sobre proyectos de sistemas de contabilidad y control en materia de programación, presupuestos, administración de recursos humanos, materiales y financieros, contratación de deuda y manejo de fondos y valores que formule la Tesorería Municipal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 XV.- Informar cuando lo requiera el Secretario de la Contraloría del Estado, el Presidente Municipal, o el Síndico, sobre el resultado de la evaluación, y responsabilidades, en su caso, de los servidores públicos municipales;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 XVI.- Recibir y registrar, sin perjuicio de lo que dispongan otros ordenamientos, las declaraciones patrimoniales, de conflicto de intereses y, en su caso, la constancia de presentación de declaración fiscal anual de los servidores públicos municipales, que conforme a la ley están obligados a presentar, así como investigar la veracidad e incremento ilícito correspondientes;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 XVI Bis.- Remitir, en el plazo, forma y términos que le soliciten las autoridades competentes la información relativa a los instrumentos de rendición de cuentas previstos en la Ley de Responsabilidades Administrativas del Estado de Puebla;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -2701,25 +2683,17 @@ XX.- Participar en la entrega-recepción de las dependencias y entidades del Mun
 
 XXI.- Vigilar que el inventario general de los bienes municipales sea mantenido conforme a lo dispuesto por la presente Ley;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 XXII.- Investigar, calificar, sustanciar y resolver el procedimiento administrativo de determinación de responsabilidades en contra de los servidores públicos municipales, en el caso de faltas administrativas no graves de acuerdo a la ley de la materia;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 XXII Bis.- Investigar, calificar y sustanciar el procedimiento administrativo de responsabilidades en contra de los servidores públicos municipales o particulares en el caso de faltas administrativas graves de acuerdo a la ley de la materia;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 XXII Ter.- Remitir, previa sustanciación, en el caso de faltas administrativas graves, el expediente respectivo al Tribunal de Justicia Administrativa del Estado y a la Fiscalía Especializada de Combate a la Corrupción; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4158,3 +4132,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los asuntos, procedimientos y juicios que se encuentren en trámite al momento de entrar en vigor el presente Decreto, se substanciarán conforme a las disposiciones legales vigentes en el momento de su inicio y se resolverán hasta su total conclusión por la instancia que conozca de ellos.
 
 TERCERO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 80 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
