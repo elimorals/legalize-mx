@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-483-de-instituciones-y-procedimientos-101753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2017-06-02"
+last_updated: "2018-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 30 de junio de 2014.
 
@@ -2929,13 +2929,17 @@ g) Resolver los recursos de inconformidad que se presenten contra resoluciones e
 
 h) Las demás que en materia del Servicio Profesional Electoral Nacional se deriven del Estatuto del Servicio y demás normativa aplicable; y
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2018)</small>
 
-LXXIV. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en esta Ley.
+LXXIV. Atender las solicitudes que presenten los ciudadanos, los pueblos y las comunidades indígenas para el cambio de modelo de elección de sus autoridades municipales por sistemas normativos internos;
 
-LXXV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-LXXVI. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+LXXV. Desarrollar el procedimiento de consulta para el cambio de modelo de elección de sus autoridades municipales por sistemas normativos internos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2018)</small>
+
+LXXVI. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en esta Ley.
 
 LXXVII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
@@ -3205,13 +3209,17 @@ II. Educación Cívica y Participación Ciudadana;
 
 III. Administración;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-IV. Quejas y Denuncias; y
+IV. Quejas y Denuncias;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-V. Seguimiento al Servicio Profesional Electoral Nacional.
+V. Seguimiento al Servicio Profesional Electoral Nacional; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2018)</small>
+
+VI. Sistemas Normativos Internos.
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS NÚMERO 238 PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2016, MODIFICÓ LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO PASANDO DE DIECIOCHO A SIETE FRACCIONES.]</small>
 
@@ -6971,6 +6979,10 @@ j) Las previstas, en lo conducente, en el artículo 46 de la Ley número 674 de 
 
 k) Las demás que determine esta Ley o las leyes que resulten aplicables.
 
+### CAPÍTULO I. DE LA ATENCIÓN A LAS SOLICITUDES
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 448.
 
 El procedimiento para determinar las responsabilidades de los servidores públicos del Instituto Electoral a que se refiere este Título se iniciará de oficio o a petición de parte, por queja o denuncia, presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o, en su caso por el Ministerio Público del fuero común. No se admitirán denuncias anónimas. Las responsabilidades administrativas a que se refiere este artículo, prescribirán en tres años.
@@ -7046,6 +7058,142 @@ Con independencia del sentido de la resolución que se dicte al final del proced
 ###### ARTÍCULO 454.
 
 Las resoluciones por las que se impongan sanciones administrativas podrán ser impugnadas a través de los medios de defensa que establezcan los demás ordenamientos de carácter reglamentario, y en los términos que fije la ley correspondiente.
+
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2018)</small>
+
+# LIBRO QUINTO. DE LA ATENCIÓN A LAS SOLICITUDES Y DESARROLLO DE LA CONSULTA PARA EL CAMBIO DE MODELO DE ELECCIÓN DE AUTORIDADES MUNICIPALES POR SISTEMAS NORMATIVOS INTERNOS
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2018)</small>
+
+## TÍTULO ÚNICO. DE LA ATENCIÓN A LAS SOLICITUDES PRESENTADAS POR LOS CIUDADANOS, PUEBLOS Y COMUNIDADES INDÍGENAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO II. DE LOS REQUISITOS
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 455.
+
+Corresponde al Instituto Electoral atender las solicitudes que presenten los ciudadanos, los pueblos y las comunidades indígenas para el cambio de modelo de elección de sus autoridades municipales por sistemas normativos internos, y desarrollar, en su caso, el procedimiento de consulta de conformidad con lo establecido en el presente Título y la normativa que para el efecto se emita.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 456.
+
+Los ciudadanos, los pueblos y las comunidades indígenas en el ejercicio de la libre determinación y autonomía, dentro del marco constitucional y la soberanía del Estado, podrán presentar ante el Instituto Electoral, la solicitud para el cambio de modelo de elección de sus autoridades municipales por sistemas normativos internos, previo cumplimiento de los requisitos y procedimientos establecidos en el presente Título.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO III. DEL PROCEDIMIENTO PARA LA CONSULTA
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 457.
+
+Podrán presentar solicitud de cambio de modelo de elección de autoridades municipales, los ciudadanos que de manera previa, libre y consensada, hayan acordado en asambleas comunitarias de la mayoría de las comunidades que integran el municipio, iniciar el procedimiento para elegir a sus autoridades municipales mediante sistemas normativos internos o usos y costumbres, para lo cual, deberán cumplir con lo siguiente:
+
+I. Pertenecer a un municipio reconocido como indígena en términos de la Ley número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero;
+
+II. Presentar el acta de asamblea de cada una de las comunidades, en las que se haya aprobado solicitar el cambio de modelo de elección de autoridades municipales por sistemas normativos internos o usos y costumbres, la que deberá estar firmada por los ciudadanos asistentes, así como por la autoridad comunitaria o tradicional;
+
+III. Presentar el acta de asamblea general o actas de asambleas comunitarias donde se nombre al Comité de Gestión encargado de realizar los trámites referentes a la solicitud; y
+
+IV. Señalar domicilio para recibir notificaciones y demás requerimientos derivados de la solicitud presentada.
+
+El Instituto Electoral, en su caso, podrá verificar la veracidad de la información por los medios que así considere necesarios.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 458.
+
+El Consejo General del Instituto Electoral, en un plazo de hasta 60 días naturales, contados a partir de la presentación de la solicitud, resolverá sobre la procedencia de la misma, verificando el cumplimiento de los requisitos dispuestos en el presente capítulo.
+
+En caso, de la falta de algún requisito, el Instituto Electoral notificará al Comité de Gestión para que en un plazo de 15 días naturales contados a partir del día siguiente a su notificación, los subsane. Fenecido dicho plazo, con o sin la respuesta del Comité Gestor, el Consejo General, resolverá lo conducente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO IV. DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 459.
+
+Resuelta la procedencia de la solicitud, el Instituto Electoral llevará a cabo el procedimiento de consulta para el cambio de modelo de elección de sus autoridades municipales por sistemas normativos internos.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 460.
+
+Se reconoce el derecho a la consulta previa, libre e informada a los ciudadanos indígenas, como sujetos de derechos fundamentales, así como a las comunidades y pueblos indígenas, como sujetos de derecho público. Este derecho está regulado en términos de la Constitución Federal y en la Constitución Local, así como en los instrumentos internacionales de derechos humanos de los pueblos y comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 461.
+
+El Instituto Electoral deberá realizar las consultas mediante procedimientos apropiados, en corresponsabilidad con las comunidades indígenas solicitantes, atendiendo las particularidades culturales propias del municipio de que se trate.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 462.
+
+El Instituto Electoral, en la realización de la consulta previa, libre e informada, deberá observar en todo momento los principios de congruencia y contradicción, inherentes a todo proceso jurisdiccional; aplicando invariablemente los principios libre, pacífico, informado y democrático, garantizando en todo momento los derechos humanos (sic) los ciudadanos, pueblos y comunidades indígenas consagrados en la Constitución Federal, la Constitución Local, así como en tratados, pactos y convenios internacionales aplicados a la materia.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 463.
+
+Las consultas deberán efectuarse de buena fe y de manera apropiada de acuerdo con los sistemas normativos internos (usos y costumbres) presentes en el municipio de que se trate, a fin de generar las condiciones de diálogo y consenso que permitan llegar a un acuerdo acerca de las medidas propuestas a través del consentimiento libre e informado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 464.
+
+En ningún caso las prácticas comunitarias podrán limitar los derechos político-electorales de los ciudadanos en las etapas de la consulta.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 465.
+
+La consulta que realice el Instituto Electoral deberá establecer un plan de trabajo, con los ciudadanos, pueblos y comunidades indígenas del municipio en donde se solicita la consulta, a efecto de generar un calendario con corresponsabilidad y que permita generar el consenso para alcanzar los acuerdos necesarios.
+
+El plan de trabajo deberá sujetarse a las etapas siguientes:
+
+I. Medidas preparatorias: en la cual el Instituto Electoral deberá allegarse de información, mediante la propia comunidad o por información objetiva que pueda recopilar, así como a partir de procedimientos idóneos que permitan obtener datos trascendentales en torno a los sistemas normativos internos o usos y costumbres que rigen a las comunidades indígenas del municipio que se trate.
+
+Para ello, realizará dictámenes periciales, entrevistas con los habitantes, informes de las autoridades municipales legales y tradicionales, con el objeto de determinar la viabilidad de la implementación de los usos y costumbres, así como constatar que las comunidades del municipio están inmersas en el marco normativo local que reconocen y regula los diversos aspectos de su cosmovisión.
+
+Verificada la existencia y vigencia del sistema normativo interno en las comunidades indígenas en cuestión, el Instituto Electoral deberá proceder a realizar la consulta a fin de determinar si la mayoría de la población está de acuerdo en celebrar los comicios para la elección e integración de las autoridades municipales mediante el sistema normativo interno o usos y costumbres.
+
+II. Consulta. Derivado de la existencia del sistema normativo interno, el Instituto Electoral deberá desarrollar la consulta en dos momentos:
+
+a). Fase informativa. Consistente en implementar una campaña de difusión exhaustiva, con la finalidad de que las comunidades del municipio en cuestión, cuenten con la información necesaria para tomar una determinación y, en su caso, las posibles afectaciones sociales, culturales o respecto a sus derechos reconocidos que la medida implique. Entre otras actividades, el Instituto Electoral celebrará asambleas comunitarias informativas, para informar a la población respecto a los métodos de elección de partidos políticos y del sistema normativo interno o usos y costumbres.
+
+b). Fase de consulta. En ella participarán los ciudadanos del municipio en cuestión, debiendo sujetarse a lo establecido en los acuerdos, lineamientos o reglamentos que al efecto se aprueben. Para lo cual, se implementarán asambleas comunitarias de consulta.
+
+III. Elección.
+
+a) Resultados. Desarrollado lo anterior, el Instituto Electoral someterá al Congreso del Estado los resultados de la consulta, a fin de que emita el Decreto en el cual determine la fecha de la elección y de toma de posesión del órgano de gobierno municipal, con efectos al siguiente proceso electoral.
+
+b) Realización de la elección. Emitida la resolución del Congreso, el Instituto Electoral deberá disponer las consultas, así como las medidas conducentes y adecuadas, para que se establezcan todas las condiciones de diálogo y consenso que sean necesarias para llevar a cabo, en su caso, las elecciones por usos y costumbres.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 466.
+
+En la realización de las consultas y la adopción de las medidas correspondientes se deberán atender a los principios establecidos tanto en el Convenio No 169 de la Organización Internacional del Trabajo sobre Pueblos Indígenas y Tribales en Países Independientes como en la Declaración sobre los Derechos de los Pueblos Indígenas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 467.
+
+Las autoridades federales, estatales y municipales deberán brindar apoyo y colaboración al Instituto Electoral para que éste realice las actividades inherentes a la atención de la solicitud y desarrollo de la consulta.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 468.
+
+El Instituto Electoral deberá emitir la reglamentación relacionada con el trámite de las solicitudes y el desarrollo de la consulta para el cambio del modelo de elección de las autoridades municipales por sistemas normativos internos.
 
 T R A N S I T O R I O S
 
@@ -7184,3 +7332,11 @@ SEGUNDO. Remítase al Gobernador Constitucional del Estado de Guerrero, para los
 TERCERO. Comuníquese a las autoridades electorales competentes para su conocimiento y efectos legales conducentes.
 
 CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 791 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+SEGUNDO. El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero deberá emitir la normativa regulatoria del Libro Quinto de la presente Ley, en un plazo no mayor a sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
