@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2018-04-13"
+last_updated: "2018-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1573,6 +1573,12 @@ III.- Se aumentarán en dos tercios si el acusado o sentenciado permanece fuera 
 
 La prescripción de la acción penal y de la sanción no influyen en la responsabilidad civil proveniente de delito, la cual se rige por las leyes civiles correspondientes.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 128 Bis.
+
+La prescripción para cualquiera de sus efectos será improcedente para los delitos de violación, feminicidio y homicidio doloso.
+
 2.- PRESCRIPCION DE LA ACCION PERSECUTORIA
 
 ###### Artículo 129.
@@ -2273,7 +2279,7 @@ II.- Los aparatos de medición de las tomas de agua;
 
 III.- Los tableros de control, pozos, bombas, válvulas, instalaciones o instrumentos de la red de agua potable, alcantarillado y drenaje de jurisdicción estatal o municipal; y
 
-IV.-· Las redes de agua potable, drenaje o sistemas de alcantarillado de jurisdicción estatal o municipal.
+IV.- Las redes de agua potable, drenaje o sistemas de alcantarillado de jurisdicción estatal o municipal.
 
 #### SECCION SEGUNDA (SIC).- INCENDIO Y OTROS ESTRAGOS
 
@@ -3335,13 +3341,19 @@ Comete el delito de hostigamiento sexual quien, valiéndose de una posición jer
 
 Comete el delito de acoso sexual quien con respecto a una persona con la que no exista relación de subordinación, lleve a cabo conductas verbales, físicas o ambas, relacionadas con la sexualidad que la pongan en riesgo o le cause un daño o sufrimiento psicoemocional que lesione su dignidad.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 278 Quáter.
 
-Al responsable del delito de hostigamiento sexual se le impondrán de seis meses a dos años de prisión y multa de cincuenta a trescientos días de salario y será punible cuando se ocasione un daño o perjuicio en la posición laboral, docente, doméstica o de cualquier naturaleza que se derive de la subordinación de la persona agredida.
+Al responsable del delito de hostigamiento sexual se le impondrán de seis meses a dos años de prisión y multa de cincuenta a trescientos días del valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito y será punible cuando se ocasione un daño o perjuicio en la posición laboral, docente, doméstica o de cualquier naturaleza que se derive de la subordinación de la persona agredida.
 
-Al responsable del delito de acoso sexual se le impondrá multa de cincuenta a trescientos días de salario.
+Al responsable del delito de acoso sexual se le impondrá multa de cincuenta a trescientos días del valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
+
+Cuando la víctima sea mujer, en el caso del delito de acoso sexual, se impondrá además de la sanción pecuniaria señalada para tal efecto, de un mes a un año de prisión.
+
+Cuando la víctima sea mujer, en el caso del delito de hostigamiento sexual, la sanción que corresponda se aumentará desde una tercera parte de la mínima y hasta dos terceras partes de la máxima.
+
+Además, en ambos casos, se sujetará al agresor a un tratamiento integral para su reeducación y sensibilización conforme a las medidas establecidas en la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla.
 
 > <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
@@ -6664,3 +6676,21 @@ P.O. 13 DE ABRIL DE 2018.
 PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 278 QUÁTER DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, previstos en los artículos 278 Bis y 278 Ter, del Código Penal del Estado Libre y Soberano de Puebla, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que este Decreto resulte más benéfico. Lo mismo se observará respecto a la ejecución de las penas correspondientes.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 128 BIS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
