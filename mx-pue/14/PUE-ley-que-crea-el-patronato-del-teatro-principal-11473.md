@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-patronato-del-teatro-principal-11473"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-31"
-last_updated: "1996-06-28"
+last_updated: "2018-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY QUE CREA EL PATRONATO DEL TEATRO PRINCIPAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SUPRIME EL PATRONATO DEL TEATRO PRINCIPAL, CREADO MEDIANTE LA LEY QUE CREA EL PATRONATO DEL TEATRO PRINCIPAL, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO EL TREINTA Y UNO DE JULIO DE MIL NOVECIENTOS NOVENTA, PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL PATRONATO DEL TEATRO PRINCIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018 (ABROGADO).
 
 Ley Publicada en el Periódico Oficial del Estado de Puebla, el martes 31 de julio de 1990.
 
@@ -205,7 +207,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de julio de mil novecientos noventa.- El Gobernador del Estado.- Lic. Mariano Piña Olaya.- Rúbrica.- El Secretario de Gobernación.- Lic. Héctor Jiménez y Meneses.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 28 DE JUNIO DE 1996.
 
@@ -220,3 +222,39 @@ El Titular del Poder Ejecutivo Estatal proveerá lo necesario para la integraci�
 ###### ARTICULO TERCERO.
 
 Los integrantes del actual Patronato del Teatro Principal, informarán a los miembros del nuevo Patronato que integre el Titular del Poder Ejecutivo Estatal, sus actividades realizadas, entregando los fondos, cuentas de cheques, valores e inversiones bancarias obtenidas durante su gestión, así como los recursos materiales que integren el patrimonio del Teatro Principal; la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública del Estado, intervendrá y fiscalizará estas acciones para que se apeguen conforme a derecho.
+
+P.O. 31 DE AGOSTO DE 2018
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SUPRIME EL PATRONATO DEL TEATRO PRINCIPAL, CREADO MEDIANTE LA LEY QUE CREA EL PATRONATO DEL TEATRO PRINCIPAL, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO EL TREINTA Y UNO DE JULIO DE MIL NOVECIENTOS NOVENTA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO. Se abroga la Ley que crea el Patronato del Teatro Principal, publicada en el Periódico Oficial del Estado el día treinta y uno de julio de mil novecientos noventa.
+
+TERCERO. El personal del Patronato del Teatro Principal, que se encuentre laborando en el mismo y que se considere indispensable para continuar con el seguimiento de los asuntos, será transferido al Organismo Público Descentralizado denominado Convenciones y Parques, a la entrada en vigor del presente Decreto.
+
+CUARTO. Los recursos financieros que formen parte del patrimonio del Patronato del Teatro Principal y aquéllos que tenga derecho a percibir a la entrada en vigor del presente Decreto, se transferirán dentro del término de treinta días hábiles a la Secretaría de Finanzas y Administración, con destino preferente al Organismo Público Descentralizado denominado Convenciones y Parques.
+
+QUINTO. Los bienes muebles que formen parte del patrimonio del Patronato del Teatro Principal se transmitirán en propiedad al Organismo Público Descentralizado denominado Convenciones y Parques, dentro del término de treinta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO. El inmueble denominado Teatro Principal deberá entregarse a la Secretaría de Finanzas y Administración, dentro del término de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, para que preferentemente lo destine al Organismo Público Descentralizado denominado Convenciones y Parques.
+
+SÉPTIMO. Los asuntos en trámite, así como los juicios, recursos y procedimientos en los que, a la entrada en vigor del presente Decreto, sean parte el (sic) Patronato del Teatro Principal, continuarán tramitándose a través de las unidades administrativas competentes del Organismo Público Descentralizado denominado Convenciones y Parques.
+
+OCTAVO. Toda la documentación e información física y electrónica que corresponda al Patronato del Teatro Principal deberá ser transferida al Organismo Público Descentralizado denominado Convenciones y Parques, dentro del término de treinta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. Los derechos, obligaciones, contratos, convenios y demás instrumentos jurídicos a favor o en los que se haga referencia al Patronato del Teatro Principal, se entenderán subrogados y concedidas al Organismo Público Descentralizado denominado Convenciones y Parques.
+
+DÉCIMO. La persona que se designe como liquidador del Patronato del Teatro Principal, deberá llevar a cabo los trámites legales y administrativos finales de la Entidad que resulten con motivo de este Decreto hasta su total conclusión, en un periodo que no deberá exceder de los noventa días naturales a partir de la publicación del presente Decreto.
+
+El liquidador deberá rendir informes de las acciones realizadas cada quince días a la Secretaría de la Contraloría y la Secretaría de Cultura y Turismo.
+
+DÉCIMO PRIMERO. El liquidador a que se refiere el artículo anterior, deberá coordinarse con la Secretaría de la Contraloría y con las demás instancias competentes para llevar a cabo el proceso de entrega - recepción a que haya lugar.
+
+DÉCIMO SEGUNDO. Todo instrumento jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera al Patronato del Teatro Principal, se entenderá referido al Organismo Público Descentralizado denominado Convenciones y Parques.
+
+DÉCIMO TERCERO. En caso de ser necesario, en un plazo no mayor a noventa días hábiles a partir de la publicación del presente Decreto, se realizarán las adecuaciones a los ordenamientos que resulten aplicables.
+
+DÉCIMO CUARTO. La (sic) Secretarías de Finanzas y Administración, de la Contraloría, de Cultura y Turismo y demás competentes en el ámbito de sus respectivas atribuciones y de manera coordinada, darán seguimiento a las acciones de supresión, así como a las demás que resulten conducentes para dar cumplimiento al presente Decreto.
+
+DÉCIMO QUINTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
