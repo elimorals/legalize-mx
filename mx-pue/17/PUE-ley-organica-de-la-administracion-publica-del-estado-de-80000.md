@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2018-07-27"
+last_updated: "2018-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -209,9 +209,9 @@ V. SECRETARÍA DE COMPETITIVIDAD, TRABAJO Y DESARROLLO ECONÓMICO;
 
 VI. SECRETARÍA DE CULTURA Y TURISMO;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-VII. SECRETARÍA DE DESARROLLO RURAL, SUSTENTABILIDAD Y ORDENAMIENTO TERRITORIAL;
+VII. SECRETARÍA DE DESARROLLO RURAL;
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
@@ -231,7 +231,9 @@ XIV. SECRETARÍA DE DESARROLLO SOCIAL;
 
 XV. SECRETARÍA DE SEGURIDAD PÚBLICA; y
 
-XVI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2018)</small>
+
+XVI. SECRETARÍA DE MEDIO AMBIENTE Y ORDENAMIENTO TERRITORIAL.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2016)</small>
 
@@ -1213,27 +1215,27 @@ LI.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su c
 
 LII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2018)</small>
 
-### CAPÍTULO VIII. DE LA SECRETARÍA DE DESARROLLO RURAL, SUSTENTABILIDAD y ORDENAMIENTO TERRITORIAL
+### CAPÍTULO VIII. DE LA SECRETARÍA DE DESARROLLO RURAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 40.
 
-A la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Rural, corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-I.- Formular y conducir las políticas generales de asentamientos humanos, vivienda, desarrollo urbano, territorial, ordenamiento ecológico y territorial, así como la ambiental y de recursos naturales del Estado, así como las relativas al desarrollo rural del Estado, en coordinación con los sectores público y productivo;
+I.- Formular y conducir las políticas generales de desarrollo rural del Estado, en coordinación con los sectores público y productivo:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-II.- Elaborar, revisar, ejecutar, evaluar y vigilar los Programa (sic) en materia de Desarrollo Urbano, Ordenamiento Ecológico, Medio Ambiente, Recursos Naturales, así como los correspondientes en materia de Desarrollo Rural;
+II.- Elaborar, revisar, ejecutar, evaluar y vigilar los programas en materia de Desarrollo Rural;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-III.- Ejercer las atribuciones y funciones que en materia de producción agropecuaria, acuícola, silvícola y de desarrollo rural, así como en materia de asentamientos humanos y desarrollo urbano que corresponden al Estado, en términos de las disposiciones, acuerdos, convenios y decretos aplicables;
+III.- Ejercer las atribuciones y funciones en materia de producción agropecuaria, acuícola, silvícola y de desarrollo rural que corresponden al Estado, en términos de las disposiciones, acuerdos, convenios y decretos aplicables;
 
 IV.- Fomentar en el Estado el desarrollo rural, impulsando la agricultura, ganadería, pesca, avicultura, apicultura, piscicultura y silvicultura, así como el manejo sustentable de los recursos;
 
@@ -1265,135 +1267,81 @@ XVII.- Coordinar las acciones que el Titular del Poder Ejecutivo Estatal conveng
 
 XVIII.- Coordinar las relaciones entre el Ejecutivo del Estado y las Instituciones Federales, Estatales, Municipales y del sector privado que tengan relación con la producción ganadera, avícola, piscícola, apícola, agrícola y silvícola en el Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-XIX.- Coadyuvar con las autoridades competentes, en el establecimiento y aprovechamiento de zonas de protección de ríos, arroyos, manantiales, lagos, embalses, depósitos, fuentes de abastecimiento de agua para el servicio de las poblaciones y de actividades productivas, agrícolas, pecuarias, acuacultura e industriales, de cuencas hidrográficas, vasos, manantiales y aguas de propiedad nacional en la Entidad, así como en el establecimiento de reservas de agua para la conservación de ecosistemas acuáticos y para el uso de consumo humano;
+XIX.-·Coadyuvar con las autoridades competentes, en el establecimiento y aprovechamiento de aguas pluviales, zonas de protección de ríos, arroyos, manantiales, lagos, embalses, depósitos y fuentes de abastecimiento, de aguas de propiedad nacional en la Entidad, para el servicio de actividades productivas, agrícolas, pecuarias y acuacultura;
 
 XX.- Proponer los estudios, proyectos, construcción y conservación de las obras de riego y drenaje con la participación de las autoridades federales, estatales, municipales competentes, así como con los usuarios del riego;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXI.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXI.- Proponer al Gobernador del Estado las acciones e inversiones públicas que en materia de desarrollo urbano estatal se deban ejecutar en la Entidad, en concordancia con los planes y programas establecidos;
+XXII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXII.- Elaborar programas y proyectos integrales de carácter regional, subregional o parcial en materia de desarrollo urbano, concertando y coordinando su realización con las diferentes autoridades Federales, Estatales y Municipales que pudieran tener competencia en dichos proyectos;
+XXIV.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXV.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXIII.- Establecer en los programas integrales de desarrollo urbano, estrategias de desarrollo de infraestructura urbana y todas aquéllas que resulten necesarias para su ejecución;
+XXVI.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXVII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXIV.- Elaborar y vigilar el cumplimiento de las Declaratorias de provisiones de predios y áreas, que expida el Ejecutivo del Estado; así como definir, delimitar y controlar los usos de suelo y destinos que integran las reservas territoriales del Estado;
+XXVIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXIX.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXV.- Revisar, evaluar y dictaminar la viabilidad de la constitución de urbanizaciones conforme a la Ley de la materia;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XXVI.- Participar en los estudios de vialidad, comunicaciones y transportes en el Estado, a fin de que se cumplan las disposiciones legales relativas a desarrollo urbano en la Entidad;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XXVII.- Coadyuvar con las autoridades competentes, en la conservación de zonas arqueológicas, sitios históricos de interés cultural y zonas típicas o de belleza natural, así como respetar y hacer respetar su conservación en la ejecución de obras públicas y en los programas de desarrollo urbano;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XXVIII.- Prever y regular en concordancia con los Gobiernos Federal y Municipales, las políticas para satisfacer las necesidades de tierra para el desarrollo urbano y de vivienda, a nivel estatal;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XXIX.- Asesorar a los Ayuntamientos, cuando éstos lo soliciten y en coordinación con ellos, llevar acabo (sic) la implementación de políticas en todo lo relacionado con el desarrollo urbano;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XXX.- Participar en las Comisiones Consultivas que estén relacionadas con las funciones asignadas a esta Secretaría;
+XXX.- Participar en las comisiones consultivas, órganos colegiados, interinstitucionales e intersectoriales que estén relacionadas con las funciones asignadas a esta Secretaría;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XXXI.- Organizar y fomentar las investigaciones relacionadas con las materias de su competencia;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXXII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXXII.- Aplicar los instrumentos de política ambiental previstos en la Ley de la materia y sus Reglamentos, en los términos en ellos establecidos, así como la regulación de las acciones para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el Estado, acerca de las materias y zonas que no sean exclusivas de la Federación o de los Municipios;
+XXXIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXXIV.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXXIII.- Expedir el Informe Anual del Medio Ambiente y ponerlo a disposición del público en términos de la ley correspondiente;
+XXXV.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXXVI.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXXIV.- Formular, evaluar y ejecutar los programas de ordenamiento ecológico a que se refiere la normatividad aplicable, con la participación de los Ayuntamientos, previa celebración del convenio correspondiente;
+XXXVII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXXVIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXXV.- Evaluar el impacto ambiental de las obras o actividades que no estén reservadas a la Federación, conforme a los preceptos correspondientes en la ley respectiva; así como regular las actividades que no sean consideradas altamente riesgosas para el ambiente;
+XXXIX.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-XXXVI.- Establecer, regular, administrar y vigilar, los parques urbanos y las áreas naturales protegidas de competencia estatal, con participación de los Gobiernos Federal, Estatales y Municipales, en el ámbito de su competencia;
+XL.- Proponer los estudios, proyectos, construcción y conservación de las obras de riego y drenaje con la participación de las autoridades federales, estatales, municipales competentes, así como con los usuarios del riego;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XLI.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXXVII.- Realizar acciones para la protección y conservación de la vida silvestre y la biodiversidad en el Estado, y colaborar con las demás autoridades competentes, en las acciones de protección, preservación y restauración del equilibrio ecológico y la protección de los sistemas acuáticos;
+XLII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XLIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXXVIII.- Aplicar las políticas y programas, en coordinación con las autoridades de protección civil en caso de emergencia ecológica, contingencia o riesgo ambiental, conforme a las políticas y programas de protección civil y de incendios forestales que al efecto se establezcan;
+XLIV.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XLV.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XXXIX.- Prever y controlar la contaminación en los términos de las leyes aplicables;
+XLVI.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XLVII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-XL.- Requerir la instalación de sistemas de tratamiento de aguas residuales, a los establecimientos industriales y agropecuarios, en los casos previstos en la ley correspondiente, y en su caso, proponer los estudios, proyectos, construcción y conservación de las obras de riego y drenaje con la participación de las autoridades federales, estatales, municipales competentes, así como con los usuarios del riego;
+XLVIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLI.- Coadyuvar con las autoridades competentes, en el establecimiento y aprovechamiento de zonas de protección de ríos, arroyos, manantiales, lagos, embalses, depósitos, fuentes de abastecimiento de agua para el servicio de las poblaciones y de actividades productivas agrícolas, pecuarias, acuícolas e industriales, de cuencas hidrográficas, vasos, manantiales y aguas de propiedad nacional en la Entidad, así como en el establecimiento de reservas de agua para la conservación de ecosistemas acuáticos y para el uso de consumo humano;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLII.- Promover el aprovechamiento de las aguas pluviales, la recarga de los mantos acuíferos, el aislamiento de los sistemas de drenaje y alcantarillado de las aguas pluviales, y asegurar su correcto aprovechamiento;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLIII.- Coadyuvar con las autoridades Federales, Municipales y los Sistemas Operadores en la regulación de las descargas de origen industrial, de servicios, de origen municipal y su mezcla con otras descargas; las descargas derivadas de actividades agropecuarias y acuícolas; las infiltraciones de origen humano, industrial, agropecuario y acuícola que afecten los mantos acuíferos; el vertimiento de residuos sólidos en cuerpos y corrientes de agua y la disposición final de los lodos generados en los sistemas de tratamiento de aguas;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLIV.- Regular los sistemas de recolección, transporte, almacenamiento, tratamiento, aprovechamiento, reciclaje, reutilización y disposición final de los residuos sólidos e industriales que no sean considerados peligrosos por la normatividad aplicable;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLV.- Formular y ejecutar acciones de mitigación y adaptación al cambio climático, y en su caso, participar con la federación en los programas de acciones en la materia;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLVI.- Fomentar la aplicación de tecnologías, equipos y procesos que reduzcan las emisiones y descargas contaminantes provenientes de cualquier tipo de fuente, en coordinación con la Federación y los Ayuntamientos;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLVII.- Promover e impulsar la aplicación de tecnologías y uso de energías alternas en materia Ambiental;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLVIII.- Establecer y mantener actualizado el Sistema Estatal de Información Ambiental;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLIX.- Conducir la política estatal de información y difusión en materia ambiental;
+XLIX.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 L.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas en las materias de su competencia;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-LI.- Atender los asuntos que afecten el equilibrio ecológico o el ambiente en cualquier Municipio del Estado y, en coordinación con la Federación, los asuntos que afecten el equilibrio ecológico de zonas compartidas por el Estado y otras Entidades Federativas;
+LI.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1407,13 +1355,9 @@ LIII.- Ordenar y ejecutar la realización de visitas de verificación y de inspe
 
 LIV.- Conocer y resolver, en los ámbitos de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+LV.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
-LV.- Planear, realizar, coordinar, supervisar e instrumentar acciones de saneamiento, preservación, protección y restauración de los ecosistemas y terrenos forestales; así como diseñar e instrumentar programas de forestación y reforestación en zonas degradadas de jurisdicción estatal, implementando acciones de mantenimiento de las zonas forestadas o reforestadas;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-LVI.- En el ámbito de su competencia, establecer criterios, lineamientos, requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en las actividades forestales, así como los relativos a la prevención, combate y control de incendios forestales y al uso del fuego en terrenos forestales, en términos de las leyes, acuerdos o convenios respectivos;
+LVI.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1423,9 +1367,7 @@ LVII.- Hacer del conocimiento de las autoridades competentes, y en su caso, denu
 
 LVIII.- Prestar directamente o a través de terceros, los servicios que las diversas leyes le atribuyan;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-LIX.- Establecer mecanismos para la protección y trato digno de los animales en el Estado de Puebla y ejercer las demás atribuciones que le otorgue la legislación en la materia;
+LIX.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2001,13 +1943,115 @@ XXXIX.- Intervenir en lo relacionado con la regulación de los servicios de Segu
 
 XL.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
-> <small>(DEROGADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA SU DENOMINACIÓN], P.O. 31 DE AGOSTO DE 2018)</small>
 
-### CAPÍTULO XVII
+### CAPÍTULO XVII. DE LA SECRETARÍA DE MEDIO AMBIENTE Y ORDENAMIENTO TERRITORIAL
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 49.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+A la Secretaría de Medio Ambiente y Ordenamiento Territorial, corresponde el despacho de los siguientes asuntos:
+
+I.- Formular y conducir las políticas generales de asentamientos humanos, desarrollo urbano, territorial, ordenamiento ecológico y territorial, así como ambiental y de recursos naturales del Estado, en coordinación con los sectores público, privado y social;
+
+II.- Elaborar, revisar, ejecutar, evaluar y vigilar los programas en materia de Ordenamiento Territorial, Desarrollo Urbano, Ordenamiento Ecológico, Medio Ambiente y Recursos Naturales;
+
+III.- Ejercer las atribuciones y funciones en materia de medio ambiente, recursos naturales, ordenamiento territorial, asentamientos humanos y desarrollo urbano que le corresponden al Estado, en términos de las disposiciones, acuerdos, convenios y decretos aplicables;
+
+IV.- Proponer al Gobernador del Estado y en su caso ejecutar en coordinación con las instancias correspondientes las acciones e inversiones públicas que en materia de medio ambiente, recursos naturales, ordenamiento territorial, asentamientos humanos y desarrollo urbano estatal se deban ejecutar en la Entidad, en concordancia con los planes y programas establecidos;
+
+V.- Elaborar y en su caso ejecutar, programas y proyectos integrales de carácter regional, subregional o parcial en materia de desarrollo urbano, concertando y coordinando su realización con las diferentes autoridades Federales, Estatales y Municipales que pudieran tener competencia en dichos proyectos;
+
+VI.- Establecer en los programas integrales de desarrollo urbano, estrategias de desarrollo de infraestructura urbana y todas aquéllas que resulten necesarias para su ejecución;
+
+VII.- Elaborar y vigilar el cumplimiento de las Declaratorias de provisiones de predios y áreas, que expida el Ejecutivo del Estado; así como definir, delimitar y controlar los usos de suelo y destinos que integran las reservas territoriales del Estado;
+
+VIII.- Revisar, evaluar y dictaminar la viabilidad de la constitución de urbanizaciones conforme a la Ley de la materia;
+
+IX.- Participar en los estudios de vialidad, comunicaciones y transportes en el Estado, a fin de que se cumplan las disposiciones legales relativas a desarrollo urbano en la Entidad;
+
+X.- Coadyuvar con las autoridades competentes, en la conservación de zonas arqueológicas, sitios históricos de interés cultural y zonas típicas o de belleza natural, así como respetar y hacer respetar su conservación en la ejecución de obras públicas y en los programas de desarrollo urbano;
+
+XI.- Prever y regular en concordancia con los Gobiernos Federal y Municipales, las políticas para satisfacer las necesidades de tierra para el desarrollo urbano y de vivienda, a nivel estatal;
+
+XII.- Asesorar a los Ayuntamientos, cuando estos lo soliciten y en coordinación con ellos, llevar a cabo la implementación de políticas en todo lo relacionado con el medio ambiente, recursos naturales, ordenamiento territorial, asentamientos humanos, y el desarrollo urbano;
+
+XIII.- Participar en las comisiones consultivas, órganos colegiados, interinstitucionales e intersectoriales que estén relacionadas con las funciones asignadas a esta Secretaría;
+
+XIV.- Organizar y fomentar las investigaciones relacionadas con las materias de su competencia;
+
+XV.- Aplicar los instrumentos de política ambiental previstos en la Ley de la materia y sus Reglamentos, en los términos en ellos establecidos, así como la regulación de las acciones para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el Estado, acerca de las materias y zonas que no sean exclusivas de la Federación o de los Municipios;
+
+XVI.- Expedir el Informe Anual del Medio Ambiente y ponerlo a disposición del público en términos de la ley correspondiente;
+
+XVII.- Formular, evaluar y ejecutar los programas de ordenamiento ecológico a que se refiere la normatividad aplicable, con la participación de los Ayuntamientos, previa celebración del convenio correspondiente;
+
+XVIII.- Evaluar el impacto ambiental de las obras o actividades que no estén reservadas a la Federación, conforme a los preceptos correspondientes en la ley respectiva; así como regular las actividades que sean consideradas altamente riesgosas para el ambiente;
+
+XIX.- Establecer, regular, administrar y vigilar, los parques urbanos y las áreas naturales protegidas de competencia estatal, con participación de los Gobiernos Federal y Municipales, en el ámbito de su competencia;
+
+XX.- Realizar acciones para la protección y conservación de la vida silvestre y la biodiversidad en el Estado, y colaborar con las demás autoridades competentes, en las acciones de protección, preservación y restauración del equilibrio ecológico y la protección de los sistemas acuáticos;
+
+XXI.- Aplicar las políticas y programas, en coordinación con las autoridades de protección civil en caso de emergencia ecológica, contingencia o riesgo ambiental, conforme a las políticas y programas de protección civil y de incendios forestales que al efecto se establezcan;
+
+XXII.- Prever y ejecutar los proyectos y las acciones tendientes a controlar la contaminación provocada por las emisiones de humos, gases, partículas sólidas, ruido, vibraciones, energía térmica o lumínica, olores, generadas por establecimientos industriales, así como por fuentes móviles que circulen en la entidad, en los términos establecidos en las leyes aplicables;
+
+XXIII.- Realizar acciones para prevenir y procurar el control de la contaminación generada por el aprovechamiento de los minerales o sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su intemperismo que pueda utilizarse como materia prima;
+
+XXIV.- Requerir la instalación de sistemas de tratamiento de aguas residuales a los establecimientos industriales y agropecuarios, en los casos previstos en la ley correspondiente;
+
+XXV.- Coadyuvar con las autoridades competentes, en el establecimiento y aprovechamiento de zonas de protección de ríos, arroyos, manantiales, lagos, embalses, depósitos, fuentes de abastecimiento de agua, de aguas de propiedad nacional en la Entidad, para la conservación de ecosistemas acuáticos;
+
+XXVI.- Promover el aprovechamiento de las aguas pluviales, la recarga de los mantos acuíferos, y asegurar su correcto aprovechamiento;
+
+XXVII.- Coadyuvar con las autoridades Federales, Municipales y los Sistemas Operadores en la regulación de las descargas de origen industrial, de servicios, de origen municipal, agropecuarias y acuícolas, y su mezcla con otras descargas; las infiltraciones de origen humano, industrial, agropecuario y acuícola que afecten los mantos acuíferos; el vertimiento de residuos sólidos en cuerpos y corrientes de agua y la disposición final de los lodos (sic) generados en los sistemas de tratamiento de aguas;
+
+XXVIII.- Regular los sistemas de recolección, transporte, almacenamiento, tratamiento, aprovechamiento, reciclaje, reutilización y disposición final de los residuos sólidos e industriales que no sean considerados peligrosos por la normatividad aplicable;
+
+XXIX.- Formular y ejecutar acciones de mitigación y adaptación al cambio climático, y en su caso, participar con la federación en los programas de acciones en la materia;
+
+XXX.- Fomentar la aplicación de tecnologías, equipos y procesos que reduzcan las emisiones y descargas contaminantes provenientes de cualquier tipo de fuente, en coordinación con la Federación y los Ayuntamientos;
+
+XXXI.- Promover e impulsar la aplicación de tecnologías y uso de energías alternas en materia Ambiental;
+
+XXXII.- Establecer y mantener actualizado el Sistema Estatal de Información Ambiental;
+
+XXXIII.- Conducir la política estatal de información y difusión en materia ambiental;
+
+XXXIV.- Fomentar la participación de la sociedad en materia de protección al ambiente, conforme lo dispuesto en la legislación aplicable;
+
+XXXV.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas en las materias de su competencia;
+
+XXXVI.- Atender los asuntos que afecten el equilibrio ecológico o el ambiente en cualquier Municipio del Estado y, en coordinación con la Federación, los asuntos que afecten el equilibrio ecológico de zonas compartidas por el Estado y otras Entidades Federativas;
+
+XXXVII.- Expedir recomendaciones a las autoridades correspondientes, en las materias de su competencia;
+
+XXXVIII.- Ordenar y ejecutar la realización de visitas de verificación y de inspección que le correspondan, para comprobar el cumplimiento de las disposiciones legales y reglamentarias en los ámbitos de su competencia; así como, imponer y aplicar medidas preventivas o de seguridad y sanciones administrativas, en los ámbitos de su competencia y con sujeción a las leyes, reglamentos y demás disposiciones aplicables, así como promover la aplicación de las que correspondan a otras autoridades con relación a los asuntos de su despacho;
+
+XXXIX.- Conocer y resolver, en los ámbitos de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
+
+XL.- Planear, realizar, coordinar, supervisar e instrumentar acciones de saneamiento, preservación, protección y restauración de los ecosistemas y terrenos forestales, así como diseñar e instrumentar programas de forestación y reforestación en zonas degradadas de jurisdicción estatal, implementando acciones de mantenimiento de las zonas forestadas o reforestadas;
+
+XLI.- Promover la utilización de materiales biodegradables;
+
+XLII.- Proteger la imagen del entorno ambiental, respecto de las vialidades de jurisdicción estatal, sus zonas adyacentes y los bienes inmuebles propiedad del Estado, así como regular la colocación e instalación de anuncios y mobiliario urbano en los mismos;
+
+XLIII.- En el ámbito de su competencia, establecer criterios, lineamientos, requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en las actividades forestales, así como los relativos a la prevención, combate y control de incendios forestales y al uso del fuego en terrenos forestales, en términos de las leyes, acuerdos o convenios respectivos;
+
+XLIV.- Hacer del conocimiento de las autoridades competentes, y en su caso, denunciar, las infracciones o delitos que se cometan en las materias de su competencia;
+
+XLV.- Prestar directamente o a través de terceros, los servicios que las diversas leyes le atribuyan;
+
+XLVI.- Establecer mecanismos para la protección y trato digno de los animales en el Estado de Puebla y ejercer las demás atribuciones que le otorgue la legislación en la materia;
+
+XLVII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
+
+XLVIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia;
+
+XLIX.- Establecer el sistema de autorregulación y auditorías ambientales, desarrollar los programas para el fomento de las mismas, y supervisar su ejecución con apoyo de los Ayuntamientos, y
+
+L.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 ## TÍTULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -2672,3 +2716,29 @@ TERCERO. Las funciones de conciliación, registro de los contratos colectivos de
 CUARTO. La Junta Local de Conciliación y Arbitraje continuará conociendo y atendiendo de los conflictos en materia laboral hasta que se instituya e inicie su funcionamiento el órgano judicial competente.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día diecisiete de diciembre de dos mil dieciocho.
+
+SEGUNDO. Para el cumplimiento de este Decreto, el Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura de las Dependencias, así como crear, fusionar, escindir o disolver las unidades administrativas necesarias, realizando las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla para el ejercicio fiscal que corresponda, dentro de los siguientes sesenta días naturales, a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. La Secretaría de la Contraloría coordinará la transferencia de los recursos humanos, materiales y financieros, así como del acervo documental existente, hacia las Dependencias que ejercerán las atribuciones para las que fueron originalmente asignados, lo cual no podrá exceder del plazo establecido en el artículo anterior.
+
+CUARTO. Cuando alguna unidad administrativa pase de una Dependencia a otra, con motivo de lo establecido en el presente Decreto, la transferencia se realizará incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales que la unidad administrativa haya utilizado para la atención de los asuntos que conoció.
+
+QUINTO. Los asuntos en trámite, así como los juicios, recursos y procedimientos que con motivo de la entrada en vigor de este Decreto deban pasar de una Dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que se formalice la transferencia correspondiente, en términos de este Decreto.
+
+Una vez concretada dicha transferencia los asuntos, juicios, recursos y procedimientos en trámite serán despachados o resueltos a través de la unidad administrativa que absorba las atribuciones que los hayan originado conforme al presente Decreto.
+
+SEXTO. Todo instrumento jurídico ya sea legal o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial, se entenderá asignado a la Secretaría de Desarrollo Rural o a la Secretaría de Medio Ambiente y Ordenamiento Territorial a través dc la unidad administrativa que absorba las atribuciones de aquella conforme al presente Decreto.
+
+SÉPTIMO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto pasen de una Dependencia a otra, se respetarán en términos de las disposiciones legales aplicables.
+
+OCTAVO. El Ejecutivo del Estado dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, expedirá los reglamentos interiores de la Secretaría de Desarrollo Rural y de la Secretaría de Medio Ambiente y Ordenamiento Territorial.
+
+En tanto no se expidan los reglamentos a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los reglamentos vigentes en todo aquello que no contravengan al presente.
+
+NOVENO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
