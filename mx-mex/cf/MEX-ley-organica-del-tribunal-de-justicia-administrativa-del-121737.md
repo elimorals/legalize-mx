@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-tribunal-de-justicia-administrativa-del-121737
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-05-30"
-last_updated: "2017-09-07"
+last_updated: "2018-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO, PUBLICADA EN LA G.G. DE 31 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2018 (ABROGADA).
 
 Ley publicada en la Gaceta de Gobierno del Estado Libre y Soberano de México, el martes 30 de mayo de 2017.
 
@@ -1298,3 +1300,25 @@ TERCERO. Dentro del plazo que no deberá exceder de un año a partir del inicio 
 CUARTO. La declaración de situación patrimonial y de intereses, deberán ser presentadas conforme a los formatos aprobados para tal efecto, hasta en tanto, el Comité Coordinador del Sistema Estatal Anticorrupción del Estado de México emita las normas y formatos impresos de medios magnéticos y electrónicos, bajo los cuales se deberán presentar dichas declaraciones.
 
 QUINTO.- El Tribunal de Justicia Administrativa proveerá las adecuaciones necesarias a su reglamento interior en un plazo que no deberá exceder de ciento veinte días hábiles.
+
+G.G. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, publicada el treinta de mayo de dos mil diecisiete en el Periódico Oficial "Gaceta del Gobierno".
+
+CUARTO. El Tribunal expedirá su Reglamento Interior en un plazo no mayor de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Los procedimientos de la competencia del Consejo de la Justicia Administrativa iniciados con anterioridad a la entrada en vigor de la presente Ley, se substanciarán y serán resueltos conforme a las disposiciones aplicables vigentes a su inicio, así como a la normatividad aplicable en el momento en el que hayan sucedido los hechos que motiven la probable comisión de una conducta irregular de las y los servidores públicos.
+
+SEXTO. En lo sucesivo todas las referencias que se hagan al Consejo de la Justicia Administrativa relativas a su administración y funcionamiento, se entenderán hechas a la Junta de Gobierno y Administración del Tribunal de Justicia Administrativa del Estado de México.
+
+SÉPTIMO. El procedimiento para la designación del Titular del Órgano Interno de Control, se regirá conforme a lo previsto en la Constitución del Estado Libre y Soberano de México, en relación con lo contemplado por el presente ordenamiento jurídico.
+
+OCTAVO. El funcionamiento de las unidades administrativas de nueva creación se encontrará sujeto a la disponibilidad presupuestal del Tribunal.
+
+NOVENO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
