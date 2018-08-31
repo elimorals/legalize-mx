@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2018-03-15"
+last_updated: "2018-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -781,13 +781,13 @@ ARTICULO 34 TER.- La Secretaría a través de la autoridad competente, determina
 
 ARTICULO 34 QUATER.- La Secretaría determinará, mediante acuerdo que para tal efecto se publique en el Periódico Oficial del Estado, las características, condiciones, especificaciones, obligaciones y demás que considere pertinentes, que deberán cumplir los sujetos que pretendan prestar este Servicio de Transporte Complementario.
 
-> <small>[N. DE E. SE ADVIERTE QUE ES IDÉNTICO AL TERCER PÁRRAFO.]</small>
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ES IDÉNTICO AL TERCER PÁRRAFO.]</small>
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 La prestación de este servicio estará sujeta a la autorización que para tal efecto emita la Secretaría, de conformidad con la normatividad aplicable.
 
-> <small>[N. DE E. SE ADVIERTE QUE ES IDÉNTICO AL SEGUNDO PÁRRAFO.]</small>
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ES IDÉNTICO AL SEGUNDO PÁRRAFO.]</small>
 
 La prestación de este servicio estará sujeta a la autorización que para tal efecto emita la Secretaría, de conformidad con la normatividad aplicable.
 
@@ -1065,9 +1065,11 @@ La autoridad competente vigilará que las asignaciones y reasignaciones de las c
 
 ARTICULO 55 BIS.- Las concesiones y permisos concluyen por:
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-I.- Término de la vigencia, que podrá ser prorrogado por un plazo igual al de su duración, cuando el titular haya cumplido con todos los requisitos establecidos por esta Ley y su Reglamento y así lo determine la autoridad competente;
+I.- No cumplir con las obligaciones previstas en esta Ley y su Reglamento, o con el pago de las contribuciones que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con el vehículo materia de la concesión o permiso que se trate, establecidos en las disposiciones fiscales del Estado.
+
+La autoridad verificará en el primer trimestre de cada año el cumplimiento de las obligaciones a que se refiere el párrafo anterior, debiendo hacerlo constar conforme a sus atribuciones.
 
 II.- Renuncia expresa del titular;
 
@@ -1295,7 +1297,9 @@ III.- Número de concesión.
 
 IV.- Tipo del servicio;
 
-V.- Tipo de vehículo, marca, número de motor, número de serie, número de placas y capacidad de pasajeros;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+
+V.- Tipo de vehículo;
 
 VI.- En caso de personas morales, los vehículos que amparan la concesión;
 
@@ -1313,9 +1317,7 @@ X.- Facultades de las autoridades con relación a la vigilancia y control del se
 
 XI.- Nombre del beneficiario y/o beneficiarios substitutos;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-XII.- Vigencia de la concesión;
+XII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -1385,15 +1387,17 @@ Las personas físicas que aspiren a prestar el Servicio Público de Transporte, 
 
 Las personas morales debidamente constituidas, que aspiren a prestar el Servicio Público de Transporte, se les otorgarán el número de concesiones para satisfacer el servicio de que se trate, previo estudio técnico que al efecto realice la autoridad competente.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 70.
 
-Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el Servicio Público de Transporte, tendrán una vigencia de diez años; la autoridad o la comisión respectiva certificará cada tres años, la validez de las mismas.
+Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el Servicio Público de Transporte, tendrán una vigencia indeterminada, siempre y cuando se encuentren al corriente en sus obligaciones previstas en esta Ley y su Reglamento, o con el pago de las contribuciones que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con el vehículo materia de la concesión de que se trate, establecidos en las disposiciones fiscales del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 Lo previsto en el párrafo anterior, no libera al concesionario de la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad en las rutas urbanas y transporte público masivo y doce años de antigüedad en las rutas suburbanas y foráneas, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, en términos de la Ley de Ingresos del Estado vigente.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 Las concesiones que se otorguen para prestar el Sistema de Transporte Público Masivo, tendrán una vigencia de hasta treinta años; quedarán sujetas a lo establecido en esta Ley y su Reglamento, así como a lo señalado en el Título de Concesión respectivo.
 
@@ -1509,15 +1513,21 @@ En caso de que la Secretaría determine que es procedente el otorgamiento de un 
 
 Lo señalado en el párrafo anterior aplicará para cualquier trámite administrativo relacionado a los permisos y que el interesado no promueva ante la Secretaría en el término citado.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 79.
 
-Los permisos o autorizaciones a que hace referencia la presente Ley, tendrán una vigencia hasta de un año con excepción de los permisos del Servicio del Transporte Mercantil de personas en su modalidad de alquiler o taxi y de los Taxis Locales, los cuales tendrán una vigencia de diez años. Lo anterior no libera a sus titulares de realizar los trámites procedentes a través del pago anual que deberán efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, según lo señalado en la Ley de Ingresos del Estado vigente.
+Los permisos o autorizaciones a que hace referencia la presente Ley, tendrán una vigencia hasta de un año con excepción de los permisos del Servicio del Transporte Mercantil de personas en su modalidad de alquiler o taxi y de los Taxis Locales, tendrán una vigencia indeterminada, siempre y cuando se encuentren al corriente en sus obligaciones establecidas en esta de (sic) Ley y su Reglamento y con el pago de las contribuciones que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con el vehículo materia del permiso o autorización de que se trate, establecidos en las disposiciones fiscales del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 El registro para Empresas de Redes de Transporte a que se refiere el artículo 92 Quater de la presente Ley, tendrá una vigencia de diez años.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
 Para el caso de los permisos del Servicio de Transporte Mercantil de Personas en su modalidad de alquiler o Taxi y Taxis locales, deberán prestar el servicio con vehículos que no excedan de siete años de antigüedad.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 Los demás vehículos que prestan los servicios de transporte mercantil a que se refiere esta Ley, contarán con la antigüedad y condiciones que señale la normatividad aplicable.
 
@@ -2089,7 +2099,7 @@ El horario, es el tiempo de inicio y término para la prestación del Servicio P
 
 La autoridad competente reglamentará todo lo relativo a los itinerarios y a su ampliación, así como respecto al incremento en las frecuencias de paso, los horarios de servicio de cada ruta y el aumento de las unidades asignadas a cada ruta mediante ampliación de parque vehicular a través de la incorporación de concesiones de rutas consideradas como no rentables. Para ello, considerará:
 
-I a IV.-...
+I a IV.-... (SIC)
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
 
@@ -2682,3 +2692,13 @@ PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los concesionarios o permisionarios que a la entrada en vigor del presente Decreto, se encuentren en la hipótesis de abandono, por haber ya transcurrido el término para que ésta se actualice, tendrán 30 días hábiles contados a partir del día siguiente de su publicación, para acudir ante la autoridad competente y hacer efectivos sus derechos, de lo contrario se tendrá por confirmado el abandono correspondiente.
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las concesiones y permisos del Servicio del Transporte Mercantil que hayan sido otorgadas con anterioridad a la entrada en vigor del presente Decreto, tendrán una vigencia indeterminada, exceptuando las concesiones de Transporte Masivo, cuya vigencia continuará conforme a lo dispuesto por la Ley del Transporte para el Estado de Puebla.
