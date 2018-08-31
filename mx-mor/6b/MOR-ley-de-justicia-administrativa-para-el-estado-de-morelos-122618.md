@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-administrativa-para-el-estado-de-morelos-122618
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-11-15"
+last_updated: "2018-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -183,9 +181,13 @@ Sólo podrán intervenir en juicio quienes tengan un interés jurídico o legít
 
 En los juicios que se promuevan ante el Tribunal de Justicia Administrativa, no procederá la gestión de negocios, por lo que la persona que promueva a nombre de otra deberá acreditar debidamente su personalidad en los términos que señala esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 15.
 
-La representación de los particulares para comparecer a juicio se otorgará en escritura pública, la representación procesal de los particulares deberá recaer en quien desempeñe legalmente la profesión de Abogado o Licenciado en Derecho
+La representación legal de los particulares para comparecer a juicio se otorgará mediante escritura pública.
+
+La representación procesal de los particulares deberá recaer en quien desempeñe legalmente la profesión de Abogado o Licenciado en Derecho. Dichos profesionistas deberán tener título y cédula debidamente expedida por la autoridad competente, además de que habrán de registrase (sic) ante la Secretaría General del Tribunal, de conformidad con los formatos que emita el Pleno del Tribunal.
 
 Las autoridades no podrán ser representadas, con excepción del Gobernador del Estado, los Secretarios en la Administración Pública Estatal y los Presidentes Municipales.
 
@@ -223,21 +225,35 @@ La personalidad de las partes deberá ser analizada de oficio. Cuando la persona
 
 De no acreditarse debidamente la personalidad, no se le admitirá en juicio.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 23 Bis.
+
+Siempre que el órgano jurisdiccional advierta que existe una manifiesta y sistemática incapacidad técnica del representante procesal o delegado, prevendrá a la parte de que se trate para que designe otro.
+
+En el caso de representante procesal, si no se designa a otro, se dará vista al titular de la defensoría de oficio, para que colabore en la defensa.
+
+En el caso del delegado, si no se realiza la sustitución se dará la intervención correspondiente al respectivo órgano interno de control de la autoridad demandada.
+
 ### Capítulo III. De las Notificaciones, plazos y Términos
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 24.
 
-Todo acuerdo o resolución debe publicarse dentro de los tres días siguientes al de su pronunciamiento en la “Lista de Acuerdos” que se publicará en los Estrados de cada Sala y en la página de internet del Tribunal de Justicia Administrativa.
+Todo acuerdo o resolución debe publicarse dentro de los tres días siguientes al de su pronunciamiento en la Lista que se publicará en los Estrados de cada Sala y en la página de internet del Tribunal, y se notificará en el mismo tiempo a las partes.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 25.
 
-Las partes en el juicio en el primer escrito o diligencia en la que comparezcan deberán designar domicilio para oír y recibir notificaciones en la ciudad de Cuernavaca. De no contar con domicilio en la ciudad de Cuernavaca, deberán señalar una cuenta de correo electrónico, en caso (sic) las autoridades demandadas, el correo debe ser de carácter institucional.
+Las partes en el juicio en el primer escrito o diligencia en la que comparezcan deberán designar domicilio para oír y recibir notificaciones en la ciudad de Cuernavaca. De no contar con domicilio en la ciudad de Cuernavaca, deberán señalar una cuenta de correo electrónico.
 
-Cuando las partes no señalen domicilio para oír notificaciones o lo señale (sic) fuera de la ciudad de Cuernavaca, ni correo electrónico, éstas, aún las de carácter personal, se le notificarán por lista en los términos previstos por esta Ley.
+Cuando las partes no señalen domicilio para oír notificaciones o lo señale fuera de la ciudad de Cuernavaca, ni correo electrónico, éstas, aún las de carácter personal, se le notificarán por lista en los términos previstos por esta Ley.
 
-En tanto no se haga nueva designación de domicilio para oír notificaciones, éstas se seguirán practicando en el domicilio originalmente señalado, a menos que éste no exista o se encuentre desocupado, en cuyo caso, las resoluciones o acuerdos se le notificarán por Lista de Acuerdos.
+En tanto no se haga nueva designación de domicilio para oír notificaciones, éstas se seguirán practicando en el domicilio originalmente señalado, a menos que éste no exista o se encuentre desocupado, en cuyo caso, las resoluciones o acuerdos se le notificarán por Lista.
 
-En caso de que en el domicilio señalado para oír y recibir notificaciones se encuentre cerrado o se nieguen a recibir la notificación, se deberá dejar aviso de notificación fijado en la puerta de acceso al domicilio, en el que se señale los datos de identificación del juicio, la parte a la que se va a notificar, y la fecha del auto a notificarse, con el aviso de que debe de comparecer dentro de los dos días hábiles siguientes, ante las oficinas de la Sala correspondiente del Tribunal de Justicia Administrativa para notificarse personalmente, en caso de que no acuda al lugar indicado en el plazo antes señalado, la notificación del acuerdo o resolución se le hará al día siguiente por medio de la “Lista de Acuerdos” que se fija en los estrados de la Sala que corresponda.
+En caso de que en el domicilio señalado para oír y recibir notificaciones se encuentre cerrado o se nieguen a recibir la notificación, se deberá dejar aviso de notificación fijado en la puerta de acceso al domicilio, en el que se señale los datos de identificación del juicio, la parte a la que se va a notificar, y la fecha del auto a notificarse, con el aviso de que debe de comparecer dentro de los dos días hábiles siguientes, ante las oficinas de la Sala correspondiente del Tribunal de Justicia Administrativa para notificarse personalmente, en caso de que no acuda al lugar indicado en el plazo antes señalado, la notificación del acuerdo o resolución se le hará al día siguiente por medio de la Lista que se fija en los estrados de la Sala que corresponda.
 
 ###### Artículo 26.
 
@@ -265,11 +281,13 @@ VIII. Cuando el Tribunal estime que se trata de un caso urgente o existen motivo
 
 Las notificaciones personales surtirán sus efectos al día siguiente en que se practican.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 28.
 
 Las notificaciones a que se refiere el artículo anterior se harán precisamente en el domicilio señalado por las partes a quien deba notificarse o en el correo electrónico que hayan designado para tal efecto.
 
-Las notificaciones de carácter personal que se practiquen por correo electrónico, se practicarán de la siguiente manera: Al día siguiente de su publicación en la “Lista de Acuerdos” el actuario deberá dejar constancia en el expediente de que se envía un aviso electrónico y se levantará razón del aviso, al día siguiente al que se envía el aviso de notificación, se realizará la notificación personal por correo electrónico y se levantará razón de notificación personal en la que hará constar que le surte efectos la notificación, para el cómputo de los términos.
+Las notificaciones de carácter personal que se practiquen por correo electrónico, se practicarán de la siguiente manera: Al día siguiente de su publicación en la Lista el actuario deberá dejar constancia en el expediente de que se envía un aviso electrónico y se levantará razón del aviso, al día siguiente al que se envía el aviso de notificación, se realizará la notificación personal por correo electrónico y se levantará razón de notificación personal en la que hará constar que le surte efectos la notificación, para el cómputo de los términos.
 
 ###### Artículo 29.
 
@@ -319,9 +337,11 @@ En caso de reincidencia, podrá ser suspendido de su cargo, oyéndosele previame
 
 Son días hábiles para la promoción, substanciación y resolución de los juicios todos los días del año, excepto los sábados y domingos, el primero de enero, el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el diez de abril, el uno y cinco de mayo, el dieciséis y treinta de septiembre, el uno, dos y el tercer lunes de noviembre en conmemoración del 20 de noviembre, el uno de diciembre de cada seis años, cuando tome posesión de su cargo el titular del Poder Ejecutivo Federal, el veinticinco de diciembre y aquellos días en que el Tribunal suspenda las labores.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 36.
 
-Los plazos se contarán por días hábiles, empezarán a correr al día hábil siguiente de la notificación cuando ésta se practique personalmente o por oficio, y al día siguiente a aquel en que surta efectos la notificación cuando ésta se realice por lista o por correo electrónico en términos de la presente ley; serán improrrogables y se incluirá en ellos el día de su vencimiento.
+Los plazos se contarán por días hábiles, empezarán a correr el día hábil siguiente a aquel en que surtan efectos la notificación, ya sea que se practiquen personalmente, por oficio, por lista o por correo electrónico; y serán improrrogables y se incluirá en ellos el día de su vencimiento.
 
 Cuando esta Ley señale como término meses o años, estos se contarán por meses o años naturales, pero si el último día fuese inhábil, concluirá al día hábil siguiente.
 
@@ -639,9 +659,13 @@ Si el perito no concurre a la audiencia sin causa justificada, se hará uso de l
 
 Será innecesaria la designación de perito por parte de las Salas, cuando las partes designen, de común acuerdo, al mismo perito.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 70.
 
-En el juicio la prueba pericial no tiene carácter de colegiado, por lo que se valorará atendiendo a los peritajes rendidos y desahogados en autos.
+Las ausencias temporales de los Magistrados, por licencia o por cualquier otra causa, serán suplidas por el Secretario que al efecto designe el Pleno, el cual deberá cumplir con los mismos requisitos señalados en el artículo 6 de esta Ley; y asumirán las facultades correspondientes al Magistrado que suple. Los Secretarios que sean designados para desempeñar las funciones de Magistrado podrán recibir una compensación adicional que determine el Pleno, de acuerdo a la suficiencia presupuestal.
+
+Las ausencias absolutas o definitivas serán cubiertas por el Magistrado que para tal efecto designe el Congreso del Estado, conforme al procedimiento establecido en la Constitución y demás normativa aplicable para la designación de Magistrados; y en tanto ocurre esta designación definitiva, el Pleno designará a quien temporalmente suplirá la ausencia.
 
 ###### Artículo 71.
 
@@ -733,9 +757,13 @@ El Tribunal deberá emitir la resolución que corresponda en un término no mayo
 
 ### Capítulo XI. De la Sentencia
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 85.
 
-La sentencia deberá dictarse dentro de los cuarenta y cinco días hábiles siguientes contados a partir de que se publique el cierre de la instrucción. El Magistrado deberá formular el proyecto de sentencia dentro de los primeros treinta días del plazo señalado. El Secretario General de Acuerdos lo deberá listar para su discusión y aprobación en la sesión de Pleno que corresponda, cuando menos siete días hábiles antes de la sesión de Pleno y deberá publicarla también en la Página de Internet del Tribunal.
+La sentencia deberá dictarse dentro de los cuarenta y cinco días hábiles siguientes contados a partir de que se publique el cierre de la instrucción. El Magistrado deberá formular el proyecto de sentencia dentro de los primeros treinta días del plazo señalado. La Secretaría General de Acuerdos lo deberá listar para su discusión y aprobación en la sesión de Pleno que corresponda, cuando menos siete días hábiles antes de la sesión de Pleno y deberá publicarla también en la Página de Internet del Tribunal.
+
+Atendiendo a la complejidad del asunto y las cargas laborales del Tribunal, el dictado de la sentencia podrá prorrogarse por un periodo de veinte días más.
 
 La publicación del proyecto en lista producirá el efecto de citación para sentencia.
 
@@ -813,11 +841,13 @@ En los asuntos relacionados con Faltas administrativas graves, Faltas de particu
 
 Al momento de que se reciba en la Oficialía de partes del Tribunal (sic) Justicia Administrativa del Estado de Morelos, la demanda en la que se solicite la designación de beneficiarios ante el deceso de un elemento de Seguridad Pública Estatal o Municipal, la Secretaría General deberá turnarlo a la Sala que corresponda.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 94.
 
 La Secretaría de Acuerdos de la Sala del conocimiento, deberá dar cuenta al Magistrado Titular, con la demanda presentada e informar si ésta reúne los requisitos a (sic) que se establecen en la presente Ley, procediendo a emitir el acuerdo de admisión o la prevención correspondiente.
 
-En caso de que entre los beneficiarios existan menores, incapacitados y adultos mayores, deberá de suplirse tanto la queja como el error del promovente, en tratándose de menores atendiendo en todo momento a su interés superior. Y de ser necesario se le designará Asesor Jurídico.
+En caso de que entre los beneficiarios existan menores, incapacitados o adultos mayores, deberá de suplirse tanto la queja como el error del promovente, y de ser necesario se le designará Asesor Jurídico. Asimismo, de oficio o a petición de parte, el Tribunal podrá dictar las medidas provisionales necesarias, para asegurarles su subsistencia, en tanto se resuelve el procedimiento.
 
 ###### Artículo 95.
 
@@ -843,9 +873,11 @@ El pago hecho por las Autoridades Estatales o Municipales en cumplimiento de la 
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 98.
 
-Se establecen los recursos de queja y reconsideración.
+Se establecen los recursos de queja, reconsideración y excitativa.
 
 ###### Artículo 99.
 
@@ -867,9 +899,13 @@ Recibida la queja, el Magistrado solicitará del Secretario o Actuario de que se
 
 La queja por exceso o defecto en el cumplimiento de las resoluciones del Tribunal se interpondrá ante la Sala correspondiente por escrito, dentro del término de tres días, contados a partir de la fecha en que se hubiesen notificado al interesado la resolución o se hubiese manifestado sabedor del contenido de la misma, por cualquier medio.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 102.
 
-Tan pronto como se reciba la queja, la Sala solicitará de la autoridad su informe con justificación, el que deberá rendirse dentro del término de tres días; con vistas a lo que exponga el quejoso y a lo manifestado por la autoridad en su informe, la Sala dictará la resolución que corresponda en un término no mayor de quince días contados a partir de su publicación en la Lista de Acuerdos.
+Tan pronto como se reciba la queja, la Sala solicitará de la autoridad su informe con justificación, el que deberá rendirse dentro del término de tres días; con vistas a lo que exponga el quejoso y a lo manifestado por la autoridad en su informe, la Sala dictará la resolución que corresponda en un término no mayor de quince días hábiles contados a partir de su publicación en la Lista.
+
+Atendiendo a la carga de trabajo y la complejidad del asunto, el término para la resolución del recurso podrá ampliarse por un periodo de diez días más.
 
 ###### Artículo 103.
 
@@ -883,9 +919,13 @@ El recurso de reconsideración procede en contra de las providencias o acuerdos 
 
 El recurso de reconsideración deberá interponerse por escrito dentro del término de tres días contados a partir de la fecha de notificación de la actuación impugnada, expresando los agravios que dicha actuación cause al recurrente.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 106.
 
-Del escrito de reconsideración se dará vista a las partes por el término de tres días para que manifiesten lo que a su derecho convenga; transcurrido dicho término, se turnara el recurso para resolver, la Sala dictará la resolución que corresponda en un término no mayor de quince días contados a partir de su publicación en la Lista de Acuerdos.
+Del escrito de reconsideración se dará vista a las partes por el término de tres días para que manifiesten lo que a su derecho convenga; transcurrido dicho término, se turnara el recurso para resolver, la Sala dictará la resolución que corresponda en un término no mayor de quince días hábiles contados a partir de su publicación en la Lista.
+
+Atendiendo a la carga de trabajo y la complejidad del asunto, el término para la resolución del recurso podrá ampliarse por un periodo de diez días más.
 
 ###### Artículo 107.
 
@@ -894,6 +934,36 @@ El Magistrado de la Sala podrá desechar de plano aquellos recursos notoriamente
 ###### Artículo 108.
 
 Contra las resoluciones que se dicten en los recursos de queja o reconsideración, no procederá recurso alguno.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 108 Bis.
+
+La excitativa de justicia tiene por objeto que el Pleno o el Pleno Especializado ordenen, a pedimento de parte legítima, que los Magistrados cumplan con los plazos y términos que marca la presente ley, para dictar sentencia o para presentar el proyecto de sentencia, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 108 Ter.
+
+Las partes podrán formular el Recurso de Excitativa de Justicia ante el Magistrado Presidente del Tribunal de Justicia Administrativa, cuando se trate de asuntos que se tramiten ante las Salas de Instrucción, y ante el Magistrado Presidente del Pleno Especializado si el asunto corresponde a las Salas Especializadas, cuando el Magistrado que conoce del juicio no resuelve dentro de los plazos señalados en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 108 Quater.
+
+Recibida la excitativa de justicia, el Pleno del Tribunal, solicitará informe al Magistrado responsable que corresponda, quien deberá rendirlo en el plazo de cinco días. Si con base en el informe presentado se encuentra infundada la excitativa, o que existe causa justificada para el retraso en cuestión, así se hará saber al solicitante. El Pleno del Tribunal dará cuenta a la Sala Instructora y si encuentra fundada la excitativa, y otorgará un plazo que no excederá de diez días para que el Magistrado correspondiente formule el proyecto respectivo.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+Artículo 108 Quintus. Se considera que existe causa justificada para el retraso en la emisión de las sentencias:
+
+I. Por la complejidad en el análisis del asunto;
+
+II. Por la extensión o lo voluminoso del expediente, y
+
+III. Por carga excesiva de trabajo.
+
+La excitativa quedará sin materia si durante su trámite el Magistrado del conocimiento dicta la sentencia correspondiente.
 
 ## TÍTULO SÉPTIMO. DE LA SUSPENSIÓN Y DE OTRAS MEDIDAS CAUTELARES
 
@@ -906,6 +976,8 @@ La Sala podrá conceder la suspensión de los actos impugnados, en el mismo auto
 El auto que decrete la suspensión debe notificarse sin demora a la autoridad demandada, para su cumplimiento.
 
 Si los actos o resoluciones impugnados se hubiesen ejecutado y afecten a particulares de escasos recursos económicos, impidiéndoseles el ejercicio de su única actividad personal de subsistencia y esté pendiente de dictarse la sentencia, las Salas podrán dictar las medidas cautelares que estimen necesarias para preservar el medio de subsistencia del demandante.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 110.
 
@@ -927,7 +999,7 @@ b. Continúe la producción o el comercio ilegal de bebidas alcohólicas, y
 
 c. Se afecten intereses de menores o incapaces o se les pueda causar trastorno emocional;
 
-d. Se involucre el bienestar de la población en materia de seguridad pública, derivado de la resolución que da por terminada la relación administrativa existente entre el Estado y los Ayuntamientos, con Agentes del Ministerio Púbico, peritos y los miembros de las instituciones policiales.
+d. Se involucre el bienestar de la población en materia de seguridad pública, derivado de la resolución que da por terminada la relación administrativa existente entre el Estado y los Ayuntamientos, con Agentes del Ministerio Público, peritos y los miembros de las instituciones policiales.
 
 La Sala resolverá sobre la suspensión de inmediato, una vez que se solicite. Si concede la suspensión, procurará fijar la situación en que habrán de quedar las cosas y dictará las medidas pertinentes para conservar la materia del juicio y evitar que se causen daños irreparables para el actor o, en su caso para restituir al actor en el goce de su derecho, hasta en tanto no cause estado la sentencia definitiva. Una vez recibida la solicitud, el Secretario dará cuenta al Magistrado para que proceda en los términos de este artículo.
 
@@ -985,23 +1057,27 @@ II. El de nulidad de actuaciones y notificaciones, y
 
 III. El de reposición de constancias de autos.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 118.
 
-La interposición de los incidentes especificados en el artículo anterior, suspenderán el procedimiento y podrán promoverse hasta antes de la celebración de la audiencia; las Salas podrán desechar de plano aquellos incidentes que consideren notoriamente improcedentes.
+La interposición de los incidentes especificados en el artículo anterior, suspenderán el procedimiento y podrán promoverse hasta antes de la celebración de la audiencia de ley; las Salas podrán desechar de plano aquellos incidentes que consideren notoriamente improcedentes.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 119.
 
 Procede la acumulación de autos en los siguientes casos:
 
-I. Cuando el acto impugnado sea uno mismo, aun cuando sean diferentes las partes y se expresen distintos agravios;
+I. Cuando el acto impugnado sea uno mismo, aun cuando sean diferentes las partes y se expresen distintos agravios, y
 
-II. Cuando se impugnen actos que sean unos antecedentes de los otros o consecuencia de los mismos, aun cuando no exista identidad de partes y los agravios sean distintos, y
+II. Cuando se impugnen actos que sean unos antecedentes de los otros o consecuencia de los mismos, aun cuando no exista identidad de partes y los agravios sean distintos.
 
-III. Que los expedientes se encuentren sustanciando en diversas Salas.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 120.
 
-La acumulación procederá de oficio o a petición de parte y podrá plantearse hasta antes de la celebración de la audiencia.
+La acumulación procederá de oficio o a petición de parte y podrá plantearse hasta antes de la celebración de la audiencia de ley. El incidentista debe señalar el o los juicios que pretenda se acumulen.
 
 ###### Artículo 121.
 
@@ -1009,9 +1085,15 @@ Hecha la solicitud, el Magistrado dispondrá que se haga relación de ella en un
 
 En caso de declararse procedente la acumulación se ordenará agregar el expediente más reciente al expediente promovido con anterioridad.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 122.
 
-Desde que se pida la acumulación hasta que ésta se resuelva, los juicios conexos continuarán con su tramitación, hasta el cierre de la instrucción. El Magistrado ante quien se plantee la acumulación deberá hacerlos del conocimiento, mediante oficio, del Magistrado que conozca del juicio conexo.
+Desde que se pida la acumulación, los juicios conexos quedarán suspendidos, hasta en tanto se resuelva aquella. El Magistrado ante quien se plantee la acumulación deberá hacerlos del conocimiento, mediante oficio, al o los Magistrados que conozca del juicio o de los juicios conexos.
+
+La acumulación solamente tiene como efecto que en una sola sentencia se resuelvan los juicios acumulados, pero no tiene como consecuencia que los mismos se fusionen en uno solo, ya que cada uno conserva su individualidad, aun cuando físicamente se forme con ellos un solo expediente.
+
+En caso de que el órgano jurisdiccional que deseche o desestime una acumulación, advierta que existen elementos suficientes que demuestren que su promoción se haya dirigido a entorpecer o dilatar el procedimiento en cuestión, se impondrá una multa de 30 a 300 unidades diarias de medida y actualización.
 
 ###### Artículo 123.
 
@@ -1175,6 +1257,92 @@ Las partes podrán invocar la jurisprudencia del Tribunal, en cuyo caso lo hará
 
 El Presidente ordenará se remitan a la Secretaría de Gobierno, para su publicación en el Periódico Oficial "Tierra y Libertad", las tesis jurisprudenciales y aquellas que estime convenientes dar a conocer y ordenará su publicación en el Boletín Electrónico.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2018)</small>
+
+## TÍTULO DÉCIMO SEGUNDO. DE LOS CONVENIOS DE TERMINACIÓN DE LA RELACIÓN ADMINISTRATIVA DE LOS ELEMENTOS DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 135.
+
+Para finiquitar las relaciones administrativas entre los miembros de las instituciones de seguridad pública del Estado o los Ayuntamientos de mutuo acuerdo, se podrán presentar ante el Tribunal convenios para dar por terminada su relación administrativa o convenios de pago de prestaciones, y elevarlos a categoría de cosa juzgada, siempre y cuando cumplan con las formalidades que se establezcan en la presente ley.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 136.
+
+Los convenios deberán cumplir con los siguientes requisitos:
+
+I. Firma y huella digital del elemento policiaco, así como del representante o funcionario público facultado por el Estado o Municipio para la suscripción del convenio;
+
+II. Desglose detallado de las prestaciones que se cubren, señalando cuando menos, concepto periodo y cantidades;
+
+III. Condiciones de la relación administrativa del servidor público, consistente en:
+
+a) Fecha de inicio de la relación administrativa;
+
+b) Ultima remuneración percibida;
+
+c) Prestaciones a las que tenía derecho;
+
+d) Último cargo;
+
+IV. Declaración del servidor público respecto de sus antecedentes de trabajo en instituciones públicas del Estado de Morelos;
+
+V. Domicilio legal y personal de las partes, y
+
+VI. Asimismo, se deberá adjuntar la documentación siguiente:
+
+a) Copia de la identificación oficial de los suscribientes;
+
+b) Copia certificada del documento del que derive la representación legal de la autoridad para suscribir el convenio;
+
+c) Copia del Comprobante Fiscal Digital por Internet (CFDI) o manifestación de entrega posterior de la misma, expedida por la autoridad facultada;
+
+d) Título de crédito con el que se cubrirá el pago acordado entre las partes, o manifestación de entrega posterior de la misma;
+
+e) Archivo electrónico que contenga en (sic) convenio que proponen las partes;
+
+f) Copia certificada del acta de entrega, mediante la cual el elemento que concluye su nombramiento haga entrega al funcionario designado para tal efecto, respecto de toda la información, documentación, equipo, materiales, identificaciones, valores, armas de fuego, licencia para portar armas, insignias u otros recursos que hayan sido puestos bajo su responsabilidad o custodia, o la manifestación de la entrega posterior, sin perjuicio de las obligaciones respectivas conforme a la Ley de Entrega Recepción de la Administración Pública para el Estado de Morelos y sus Municipios, y
+
+g) Copia certificada del expediente personal del servidor público.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 137.
+
+En el escrito de solicitud, las partes deberán señalar domicilio para oír y recibir notificaciones en la Ciudad de Cuernavaca, en el Estado de Morelos. Las suscribientes podrán señalar como medio especial para oír y recibir notificaciones una cuenta de correo electrónico, de carácter personal o institucional según sea el caso.
+
+Cuando los miembros de las instituciones de Seguridad Pública del Estado o los Ayuntamientos, no señalen domicilio para oír y recibir notificaciones o lo hagan fuera de la ciudad de Cuernavaca, Morelos, estas, aun las de carácter personal, se les notificará por medio de Lista que se fijará en los estrados de cada sala y en la página de internet del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 138.
+
+Presentado el convenio en la oficialía de partes común del Tribunal, la Secretaría General de Acuerdos del Tribunal, deberá turnarlo en forma aleatoria a la Sala que corresponda, conforme a los acuerdos que para tal fin apruebe el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 139.
+
+Verificado que se cumplan los requisitos antes señalados, se procederá a emitir el acuerdo de admisión o la prevención correspondiente, en caso de haber omitido alguno de ellos.
+
+En el acuerdo de admisión, se deberá señalar día y hora hábil para que los promoventes comparezcan ante la Sala que conozca del asunto para la ratificación del convenio y pago, en su caso.
+
+En el caso de que se cubran todos los requisitos y la agenda institucional de la Sala que dé trámite a la solicitud de ratificación del convenio, lo permita, la audiencia podrá celebrarse el mismo día de la recepción en la Sala, mediante comparecencia.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 140.
+
+En la audiencia de ratificación del convenio, se hará la entrega del título de crédito a favor de los miembros de Seguridad Pública de Estado y los Ayuntamientos, así como copia del Comprobante Fiscal Digital por Internet (CFDI) o manifestación de entrega posterior, expedida por autoridad facultada, previa identificación y firma de recibido.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 141.
+
+Celebrada la audiencia de ratificación, el Magistrado de la Sala, deberá realizar la declaración de terminación de la relación administrativa de los miembros de Instituciones de Seguridad Pública del Estado o los Ayuntamientos, con estos, según sea el caso. Hecho lo cual se turnará al Pleno, para que se eleve a la categoría de cosa juzgada el convenio, para los efectos legales a que haya lugar.
+
 DISPOSICIONES TRANSITORIAS
 
 PRIMERA. Una vez aprobadas las presentes leyes y reformas de Ley, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
@@ -1252,3 +1420,29 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL CUATROCIENTOS CUARENTA Y OCHO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS Y DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS".]
+
+PRIMERA. Una vez aprobada la presente reforma, remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado de Morelos.
+
+TERCERA. Derivado de la reforma constitucional contenida en el Decreto Dos Mil Seiscientos Once por el que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos con el propósito de fortalecer al Poder Judicial del Estado, y como una excepción a lo previsto en el artículo 12 de la Ley Orgánica del Tribunal de Justicia Administrativa, el Magistrado Titular de la Tercera Sala continuará fungiendo como Presidente hasta el 31 de diciembre de 2018; a partir del primero de enero de 2019 y hasta el 31 de diciembre de 2020, asumirá la Presidencia del Tribunal el Titular de la Cuarta Sala, y por último a partir del primero de enero de 2021 asumirá la Presidencia del Tribunal de Justicia Administrativa el Titular de la Quinta Sala hasta el 31 de diciembre de 2022; a partir del primero de enero de 2023 se procederá conforme a lo previsto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+CUARTA. Derivado de la reforma constitucional contenida en el Decreto Dos Mil Seiscientos Once por el que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos con el propósito de fortalecer al Poder Judicial del Estado, a la entrada en vigor de la presente reforma, en razón de la Disposición Transitoria SÉPTIMA del texto original de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, publicada el 19 de julio de 2017 en el Periódico Oficial "Tierra y Libertad", número 5514, órgano de difusión del Gobierno del Estado de Morelos, quedan reconocidas las adscripciones originales como Magistrados de las Salas Especializadas en Responsabilidades Administrativas, de los Titulares de las Salas Cuarta y Quinta, por el plazo de nueve años a partir del diecinueve de julio de dos mil diecisiete. Lo anterior sin perjuicio de que dichos Magistrados podrán mantener su adscripción durante todo su encargo, en razón de las consideraciones expuestas en el presente Decreto y emanadas de la Reforma Constitucional, publicada en el Periódico Oficial "Tierra y Libertad", número 5591, de fecha cuatro de abril de este año Disposición Transitoria Séptima.
+
+QUINTA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+SEXTA. El Tribunal de Justicia Administrativa dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones al reglamento interior de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+SÉPTIMA. Conforme a lo previsto por el artículo décimo sexto del Decreto número tres mil doscientos cincuenta, publicado en el Periódico Oficial "Tierra y Libertad", número 5612, de 13 de julio de 2018, en cual se asignaron recursos adicionales no etiquetados al Tribunal de Justicia Administrativa del Estado de Morelos, estos deberán ser destinados para dar cumplimiento a las siguientes disposiciones legales: Artículos 25, fracción XIV, y 32, fracción V, de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos; disposición transitoria décima segunda del Decreto número dos mil ciento noventa y tres, por el que se expiden la Ley de Responsabilidades Administrativas para el Estado de Morelos; la Ley de Justicia Administrativa del Estado de Morelos; la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos; se reforman, adicionan y derogan diversas disposiciones del Código Penal para el Estado de Morelos; de la Ley Orgánica de la Fiscalía General del Estado de Morelos; y de la Ley Orgánica Municipal del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 5591, de 04 de abril de 2018, al Decreto número dos mil seiscientos nueve publicado en el Periódico Oficial "Tierra y Libertad" número 5593 de fecha dieciocho de abril del presente año, al Decreto número dos mil ochocientos cuarenta y nueve; por el que se designa al Titular del Órgano Interno de control del Tribunal de Justicia Administrativa del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 5594, de 25 de abril del 2018, así como el pago de las prestaciones que se adeudan de los años dos mil quince al dos mil diecisiete.
+
+OCTAVA. En tanto entra en funcionamiento la Plataforma Digital Nacional a que se refiere la Ley General de Responsabilidades Administrativas, la autoridad competente continuará llevando el registro de las sanciones y de las medidas de apremio que se impongan a los servidores públicos y particulares por los Órganos Internos (sic) Control del Estado de Morelos y por el Tribunal de Justicia Administrativa del Estado de Morelos, concluyendo el registro al momento de la puesta en marcha de dicha Plataforma, teniendo entonces la obligación de transferir dichos registros a la misma.
+
+NOVENA. De conformidad con lo dispuesto en el artículo 25, fracción XVIII, de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, que por virtud de este instrumento se reforma, los juicios sobre responsabilidad administrativa de Notarios, que se encuentren en trámite o en proceso ante las salas de instrucción del Tribunal de Justicia Administrativa, deberán ser transferidos con los expedientes respectivos, en un plazo no mayor a 5 días hábiles contados a partir de la entrada en vigor de este instrumento, a las Salas Especializadas de dicho Tribunal, a fin de que sean estas últimas quienes continúen con su desahogo hasta su conclusión, en términos de la normativa aplicable, sin que el cambio de autoridad jurisdiccional pueda modificar o alterar su curso o resultado.
+
+En caso de que la sala de instrucción de que se trate no realice el traslado respectivo en el plazo a que se refiere el párrafo anterior, cualquiera de las partes podrá solicitarle por escrito que se lleve a cabo dicha transferencia.
