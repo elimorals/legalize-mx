@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2018-08-03"
+last_updated: "2018-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -99,9 +99,7 @@ Cuando en un acto o evento se requiera la representación del Ayuntamiento en su
 
 En caso de tratarse de actos o eventos donde se requiera la representación legal del Municipio para la realización de actos jurídicos, deberá asistir el Presidente Municipal en su carácter de órgano ejecutivo del Ayuntamiento o en su caso, el funcionario de la Administración Pública Municipal que éste determine de conformidad con las disposiciones aplicables.
 
-INTEGRACION DEL AYUNTAMIENTO.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 8.
 
@@ -109,9 +107,9 @@ El Ayuntamiento se integra por un Presidente Municipal, un Síndico Procurador y
 
 Los integrantes del Ayuntamiento también son llamados Munícipes y/o ediles.
 
-(REFORMADO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
-
 El Ayuntamiento funcionará, de manera colegiada, en régimen de sesiones de cabildo, con igual derecho de participación de todos sus integrantes.
+
+La Dirección de Relaciones Públicas instalará una placa conmemorativa de 75x75 centímetros en la sala de sesiones “Benito Juárez” de la casa municipal, al finalizar cada periodo del Ayuntamiento, con los nombres de sus Munícipes, así como también de aquellos ediles que formaron parte del Ayuntamiento y por distintas causales no terminaron el ciclo.
 
 DEFINICIÓN DE CABILDO.
 
@@ -2420,3 +2418,11 @@ P.O. 3 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DEL ARTÍCULO 114 BIS Y LA MODIFICACIÓN DEL ARTÍCULO 133 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, B. C.”.]
 
 UNÍCO.- LA CREACION DEL ARTICULO 114 BIS Y LA MODIFICACION DEL ARTICULO 133 del REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, Entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA".]
+
+PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y/o en la Gaceta Municipal de Ensenada.
+
+SEGUNDO.- Sera Oficialía Mayor, quien cubrirá los gastos para la instalación de la placa conmemorativa correspondiente a cada Ayuntamiento.
