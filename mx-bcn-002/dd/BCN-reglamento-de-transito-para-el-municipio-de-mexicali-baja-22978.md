@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2018-07-06"
+last_updated: "2018-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -261,23 +261,9 @@ III.- (DEROGADA, P.O. 11 DE ENERO DE 2013)
 
 El conductor al que se le tomen muestras de sangre para su análisis, podrá solicitar se le proporcione una de éstas, a fin de someterla a exámenes por su cuenta.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
-
 ###### ARTÍCULO 13.
 
-Competerá al Gobierno del Estado de Baja California, en términos de lo dispuesto por las leyes de la materia, según corresponda:
-
-I.- El control y registro de los vehículos que transiten en el Municipio;
-
-II.- La expedición, suspensión y cancelación de licencias para conducir; y,
-
-III.- La verificación y control de las emisiones contaminantes de los vehículos, dentro del Programa de Verificación Vehicular obligatoria respectivo.
-
-En los aspectos a que se refieren los incisos anteriores, las autoridades municipales tendrán las facultades que las propias leyes, y los convenios o acuerdos que se celebren, les señalen.
-
-La atribución prevista en el inciso III anterior, se desarrolla a través de Centros de Verificación autorizados, los cuales, mediante concesión, ofrecen al público de manera continua, permanente, uniforme, general y en igualdad de condiciones, el servicio de verificación de emisiones contaminantes a la atmosfera proveniente de automotores, expidiendo al efecto, un certificado u holograma, siendo este documento el que acredita haber aprobado la verificación vehicular, acorde al calendario y demás lineamientos previstos en el Programa de Verificación Vehicular Obligatorio para el Estado de Baja California en vigor.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2018)
 
 ### CAPÍTULO SEGUNDO. DE LA EDUCACIÓN VIAL
 
@@ -2033,7 +2019,15 @@ e).- El conductor deberá permanecer en los separos hasta que el médico diagnos
 
 f).- El Juez Calificador apercibirá formalmente al conductor de que si incurre de nuevo en esta conducta dentro del plazo de dos años, será turnado a la Agencia del Ministerio Publico.
 
-g).- En el caso de que el conductor reincida en un plazo de dos años, el juez calificador turnara al conductor y remitirá copia certificada de las constancias que integren el registro en que formo el antecedente a la Agencia de Ministerio Publico.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+g).- En caso de reincidencia dentro del plazo de dos años, será suspendida temporalmente su licencia de conducir, por un período de uno a tres meses, previo el procedimiento administrativo correspondiente, además el Juez Calificador remitirá copia certificada de las constancias que integren el registro en que formó el antecedente a la Agencia de (sic) Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+h).- En el supuesto establecido en el inciso g), el Juez Calificador remitirá a la Secretaría de Planeación y Finanzas del Estado de Baja California copia certificada de las constancias que integren el registro en que formó el antecedente, así como de la resolución administrativa que contenga la imposición de la sanción consistente en la suspensión temporal de la licencia de conducir.
+
+El titular de la licencia de conducir, conforme a lo previsto por el artículo 47 de la Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California, estará obligado a entregar la licencia de conducir a la autoridad municipal en un plazo no mayor de cinco días naturales, contados a partir de la notificación de la resolución administrativa.
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
@@ -2139,13 +2133,17 @@ I.- Amonestación;
 
 II.- Apercibimiento;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-III.- Multa; o,
+III.- Multa;
 
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-IV.- Multa electrónica y/o infracción administrativa captada a traves de dispositivo tecnológico.
+IV.- Multa electrónica y/o infracción administrativa captada a traves de dispositivo tecnológico; o
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2018)</small>
+
+V.- Suspensión temporal de la licencia de conducir.
 
 (ADICIONADO, P.O. 21 DE FEBRERO DE 2003) (REPUBLICADO, P.O. 7 DE MARZO DE 2003)
 
@@ -2225,7 +2223,9 @@ Cuando el infractor, en uno o en varios hechos, viole varias disposiciones de es
 
 Al infractor reincidente se le aplicará el doble de la multa correspondiente a la conducta infringida, y no contará con el beneficio de descuento por pronto pago; además, se le impondrá como sanción que asista a una sesión de educación vial.
 
-Para efectos de este Reglamento, se considerará reincidente a quien infrinja una misma disposición en un período de ciento ochenta días.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+Para efectos de este Reglamento, se considerará reincidente a quien infrinja una misma disposición en un período de ciento ochenta días, naturales.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2008)</small>
 
@@ -2398,3 +2398,9 @@ P.O. 6 DE JULIO DE 2018.
 PRIMERO.- Las presentes reformas entrarán en vigor a los sesenta días naturales siguientes a la fecha de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Departamento de Tránsito de Mexicali, Baja California, deberá tomar las previsiones necesarias para hacer efectivas las disposiciones objeto de las presentes reformas, en el ámbito de sus respectivas competencias.
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO DE TRÁNSITO MUNICIPAL PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA".]
+
+ÚNICO.- Las modificaciones y adiciones que se contienen en el presente Acuerdo entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
