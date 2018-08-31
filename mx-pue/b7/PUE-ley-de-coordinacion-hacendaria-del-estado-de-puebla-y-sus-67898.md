@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-coordinacion-hacendaria-del-estado-de-puebla-y-sus-67898
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2014-03-19"
+last_updated: "2018-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE COORDINACION HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 20 de marzo de 2009.
 
@@ -33,7 +35,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anterior expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracción I, 64, 67 y 79 fracciones VI y IX de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracción I y II, 69 fracción I, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 21 y 24 fracciones I y II del Reglamento Interior del Honorable Congreso del Estado, se expide la siguiente:
 
@@ -351,31 +355,39 @@ I. El Fondo General de Participaciones incluyendo sus incrementos;
 
 II. La participación que le corresponda al Estado del Impuesto Especial Sobre Producción y Servicios aplicado a la cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
-III. La recaudación que se realice en el Estado del Impuesto Sobre Automóviles Nuevos; y
+III. La recaudación que se realice en el Estado del Impuesto Sobre Automóviles Nuevos;
 
-IV. La recaudación del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+
+IV. La recaudación del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos; y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2018)</small>
+
+V. Los demás conceptos que en materia de coordinación fiscal federal deban participarse a los Municipios y que no tengan establecida una forma para su distribución.
 
 ###### ARTÍCULO 51.
 
 El Fondo para Incentivar y Estimular la Recaudación Municipal se integrará con el 100% del Fondo de Fomento Municipal establecido en la Ley de Coordinación Fiscal, que será entregado por el Estado a los Municipios.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 52.
 
-El fondo de Desarrollo Municipal se distribuirá entre los Municipios de la siguiente forma:
+La distribución entre los Municipios de cada uno de los conceptos que integran el Fondo de Desarrollo Municipal se realizará de la siguiente forma:
 
 I. El 50% se distribuirá en proporción directa al número de habitantes de cada Municipio; y
 
 II. El 50% restante, se distribuirá tomando en cuenta los elementos siguientes:
 
-A) Garantía: que asegura al Municipio recibir recursos financieros en términos nominales iguales a los del ejercicio fiscal inmediato anterior, recibidos por el criterio de marginación.
+A) Garantía: Se distribuirá el 43% en proporción directa a los recursos que le correspondieron a cada Municipio de la suma de los conceptos que integran el Fondo de Desarrollo Municipal recibidos por Garantía, Equidad y Marginación del penúltimo ejercicio fiscal inmediato anterior al año para el cual se efectúa el cálculo.
 
-B) Equidad y Marginación: que distribuye el aumento nominal directo del ejercicio fiscal inmediato anterior, de este componente del Fondo de Desarrollo Municipal, para los 217 Municipios, con base en la siguiente fórmula:
+B) Equidad y Marginación: Se distribuirá el 7% para los 217 Municipios, con base en lo siguiente:
 
-a) 25% del total de los recursos se repartirá en partes iguales entre los 217 Municipios de la Entidad; y
+a) Equidad: El 1.75% del total de los recursos se repartirá en partes iguales entre los 217 Municipios de la Entidad; y
 
-b) El 75% restante, conforme a la fórmula establecida en el presente artículo, la cual toma en cuenta las necesidades básicas y ponderadores siguientes:
+b) Marginación: El 5.25% restante, conforme a la aportación porcentual establecida en el presente inciso, la cual toma en cuenta las necesidades básicas y ponderadores siguientes:
 
 Necesidad Básica Ponderador
 
@@ -397,63 +409,47 @@ Ingresos.
 
 El indicador se construye estableciendo la relación entre la población ocupada con ingresos hasta de un salario mínimo, y el total de la población ocupada en el Municipio en estudio:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 4.]</small>
 
 Educación.
 
 Este indicador representa la proporción de la población mayor de 15 años sin primaria completa, respecto del total de la población mayor de 15 años del Municipio en cuestión:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 4.]</small>
 
 Vivienda.
 
 Para la conformación de este indicador, se tomará en cuenta el promedio de ocupantes por cuarto en viviendas particulares de cada uno de los Municipios de la Entidad. Para este fin, el procedimiento empleado es una interpolación lineal, resultando la siguiente expresión:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINAS DE LA 4 A LA 5.]</small>
 
 Electrificación.
 
 Este indicador se traduce en la relación entre las viviendas particulares sin energía eléctrica y las viviendas particulares habitadas en el Municipio en estudio:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 5.]</small>
 
 Drenaje.
 
 El indicador de carencia en materia de drenaje se constituye estableciendo la relación entre las viviendas particulares sin drenaje y las viviendas particulares habitadas del Municipio en estudio:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINAS DE LA 5 A LA 6.]</small>
 
-Una vez determinados los cinco indicadores, éstos deben ponderarse, combinarse entre si y producir un valor índice antes de elevarse a la a, lo que servirá para acentuar las carencias significativas entre los Municipios. El resultado de esta expresión, se denomina Índice Integrador de Déficit Social para el i-ésimo Municipio:
+Después de calcular el IID del Municipio observado, se incorpora la variable poblacional multiplicando dicho índice por la población total municipal. Este paso se realiza para obtener elementos comunes en un parámetro con valor relativo, que permitan llevar a cabo la etapa de agregación como se muestra a continuación:
 
-(VEASE ARCHIVO ANEXO)
-
-Después de calcular el lID del Municipio observado, se incorpora la variable poblacional multiplicando dicho índice por la población total municipal. Este paso se realiza para obtener elementos comunes en un parámetro con valor relativo, que permitan llevar a cabo la etapa de agregación como se muestra a continuación:
-
-DSRi = IIDi * Ti
-
-Donde:
-
-DSRi = Déficit Social Relativo del i-ésimo Municipio;
-
-IIDi = Índice Intregador (sic) de Déficit Social
-
-del i-ésimo Municipio;
-
-Ti = Total de la población del i-ésimo Municipio.
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 6.]</small>
 
 Una vez determinada la situación de pobreza en el Municipio, se define la del Estado mediante la suma de los Déficit Sociales Relativos de los Municipios que lo integran, como se expresa a continuación:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 6.]</small>
+
+Cada uno de los Déficit Sociales Relativos municipales se divide entre el Déficit Social Estatal para determinar la aportación porcentual que le corresponde a cada Municipio, como lo indica la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 6.]</small>
 
 Con esta transformación a déficit relativos se traduce el fenómeno a una misma expresión estatal y así la asignación se sujeta a los mismos criterios, es decir, en función de la magnitud de la pobreza de cada Municipio.
 
 Para fines de aplicación de esta fórmula, los datos estadísticos se tomarán de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática al iniciarse cada ejercicio fiscal. En tanto que los estratos de marginalidad municipal se obtendrán a partir de los últimos índices de marginalidad elaborados por el Consejo Nacional de Población con base en la información del Instituto Nacional de Estadística, Geografía e Informática, que al inicio de cada ejercicio fiscal se encuentre vigente.
-
-La fórmula para la aplicación de los recursos a que se refiere la fracción II de este artículo es la siguiente:
-
-(VÉASE ARCHIVO ANEXO)
-
-Si el monto recibido de los recursos a que se refiere esta fracción es igual o menor al del ejercicio fiscal inmediato anterior, éste será distribuido aplicando el coeficiente de participación relativa del citado ejercicio.
 
 ###### ARTÍCULO 53.
 
@@ -481,9 +477,73 @@ II. Recursos provenientes de las cuotas impuestas a la venta final de gasolinas 
 
 III. Demás que en términos de la Ley de Coordinación Fiscal tengan derecho a percibir el Estado y los Municipios.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 56.
 
-Las fórmulas para la distribución y entrega de los fondos y recursos participables que correspondan a los Municipios, así como los montos estimados que corresponderán a cada uno de éstos y su calendario de entrega, se darán a conocer mediante los Acuerdos que para estos efectos emita el Ejecutivo del Estado a través de la Secretaría de Finanzas y Administración, los cuales se publicarán en el Periódico Oficial del Estado y en su página electrónica de Internet.
+El 20% del total de los fondos y recursos participables correspondientes al Estado, se distribuirá entre los Municipios, conforme a lo siguiente:
+
+1 Fondo de Fiscalización y Recaudación:
+
+a) El 40% se distribuirá considerando la recaudación del Impuesto Predial que capten los Municipios de la Entidad y los cobros por servicio de agua que capten los mismos, sus organismos operadores o las instancias responsables de prestar dichos servicios, de conformidad con lo dispuesto en los artículos 53 y 54 de la presente Ley;
+
+b) El 40% considerando el mismo criterio del inciso a), conformando 3 grupos de acuerdo a su participación en el total de la recaudación del Impuesto Predial y cobros por servicio de agua del ejercicio fiscal inmediato anterior, de acuerdo a lo siguiente:
+
+b.1) Grupo 1: Integrado por los Municipios con una recaudación mayor al 1% de la recaudación total;
+
+b.2) Grupo 2: Conformado por los Municipios con una recaudación del 0.10% al 1% de la recaudación total; y
+
+b.3) Grupo 3: Integrado por los Municipios con una recaudación menor al 0.10% de la recaudación total.
+
+c) El 20% estableciendo un monto de compensación a los Municipios que como resultado de la distribución establecida en los incisos a) y b) antes referidos, reciban menos de $10,000.00 (Diez Mil Pesos 00/100 M.N.) mensuales, y un monto de equidad conformado con los recursos remanentes después de asignar el monto de compensación distribuyendo éstos en partes iguales a los Municipios de la Entidad.
+
+Lo anterior, como lo indica la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINAS DE LA 7 A LA 9.]</small>
+
+La entrega a los Municipios del Fondo de Fiscalización y Recaudación se realizará dentro de los cinco días siguientes a aquel en que el Estado lo reciba, considerando los anticipos que de dicho Fondo el Estado recibe mensualmente conforme al artículo 4o. de la Ley de Coordinación Fiscal.
+
+II. Recursos provenientes de la recaudación derivada de la aplicación de las cuotas previstas en el artículo 2o.-A de la Ley del Impuesto Especial Sobre Producción y Servicios, conforme al artículo 4o-A fracción I de la Ley de Coordinación Fiscal:
+
+a. El 70% en proporción directa a la población, de acuerdo a la última información oficial disponible que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía (INEGI) vigente al inicio del ejercicio fiscal para el cual se efectúa el cálculo; y
+
+b. El 30% en proporción inversa a la población, de acuerdo a la última información oficial disponible que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía (INEGI) vigente al inicio del ejercicio fiscal para el cual se efectúa el cálculo.
+
+Lo anterior, como lo indica la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINAS DE LA 9 A LA 10.]</small>
+
+III. Fondo de Compensación:
+
+a. El 70% en proporción directa a la población, de acuerdo a la última información oficial disponible que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía (INEGI) vigente al inicio del ejercicio fiscal para el cual se efectúa el cálculo; y
+
+b. El 30% en proporción inversa a la población, de acuerdo a la última información oficial disponible que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía (INEGI) vigente al inicio del ejercicio fiscal para el cual se efectúa el cálculo.
+
+Lo anterior, como lo indica la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINAS DE LA 10 A LA 11.]</small>
+
+IV. Fondo de Extracción de Hidrocarburos:
+
+a. El 50% en partes iguales entre los Municipios extractores de petróleo y gas, de acuerdo a la información oficial disponible del último censo económico realizado por el Instituto Nacional de Estadística y Geografía (INEGI) vigente al inicio del ejercicio fiscal para el cual se efectúa el cálculo;
+
+b. El 25% entre los Municipios no extractores de petróleo y gas en proporción directa a la población, de acuerdo a la última información oficial disponible que hubiere dado a conocer sobre la población el Instituto Nacional de Estadística y Geografía (INEGI) vigente al inicio del ejercicio fiscal para el cual se efectúa el cálculo;
+
+c. El 6.25% en partes iguales entre los Municipios no extractores de petróleo y gas; y
+
+d. El 18.75% entre los Municipios no extractores de petróleo y gas, de acuerdo a la aportación porcentual del Municipio i vigente en el año t, a que se refiere el inciso b) de la fracción II del artículo 52 de la presente Ley, que toma en cuenta el déficit existente en las necesidades básicas de ingresos, educación, vivienda, electrificación y drenaje.
+
+Lo anterior, como lo indica la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 11.]</small>
+
+IV.1 Si el Municipio i es extractor de petróleo y gas, de acuerdo a la información oficial disponible del último censo económico realizado por el Instituto Nacional de Estadística y Geografía (INEGI) vigente al inicio del año t.
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 11.]</small>
+
+IV.2 Si el Municipio i no es extractor de petróleo y gas, de acuerdo a la información oficial disponible del último censo económico realizado por el Instituto Nacional de Estadística y Geografía (INEGI) vigente al inicio del año t.
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINAS DE LA 11 A LA 12.]</small>
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -1228,3 +1288,15 @@ P.O. 19 DE MARZO DE 2014.
 PRIMERO.- El presente Decreto deberá ser publicado en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas aquéllas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto deberá ser publicado en el Periódico Oficial del Estado y entrará en vigor a partir del día primero de enero de dos mil diecinueve.
+
+SEGUNDO. Los recursos de los Fondos de Desarrollo Municipal, de Fiscalización y Recaudación, de Compensación y de Extracción de Hidrocarburos; así como de los recursos provenientes de la recaudación derivada de la aplicación de las cuotas previstas en el artículo 2o.-A de la Ley del Impuesto Especial Sobre Producción y Servicios, conforme al artículo 4o-A fracción I de la Ley de Coordinación Fiscal, correspondientes al Ejercicio Fiscal 2018 y anteriores, se distribuirán a los Municipios mediante las disposiciones legales aplicables para dichos ejercicios fiscales.
+
+TERCERO. Los Recursos derivados del Impuesto Federal Sobre Tenencia o Uso de Vehículos de ejercicios fiscales anteriores a la entrada en vigor del presente Decreto, que recaude el Gobierno del Estado, formarán parte de la distribución del Fondo de Desarrollo Municipal, que se contempla en el artículo 50 de la presente Ley.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
