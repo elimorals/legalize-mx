@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-desarrollo-urbano-del-estado-de-guerrero-numero-211-2027
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-13"
-last_updated: "2015-01-16"
+last_updated: "2018-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE DESARROLLO URBANO DEL ESTADO DE GUERRERO NUMERO 211
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 790 DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 31 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO URBANO DEL ESTADO DE GUERRERO NÚMERO 211
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de marzo de 2001.
 
@@ -35,61 +37,7 @@ El Pleno de la Quincuagésima Sexta Legislatura al Honorable Congreso del Estado
 
 EXPOSICION DE MOTIVOS
 
-Que el Ciudadano Licenciado René Juárez Cisneros, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, en uso de las facultades que le confieren los artículos 74 fracciones I y XXXVIII de la Constitución Política Local, por oficio número 0288, de fecha 13 de marzo del año 2000, remitió a este Honorable Congreso iniciativa de Ley de Desarrollo Urbano del Estado de Guerrero.
-
-Que en Sesión de fecha 14 de marzo del año 2000, la Quincuagésima Sexta Legislatura al Honorable Congreso del Estado, tomó conocimiento de la Iniciativa de referencia, turnándola a la Comisión de Desarrollo Urbano y Obras Públicas para su estudio y emisión del Dictamen y Proyecto de Ley respectivo.
-
-ANTECEDENTES
-
-I.- Que cumpliendo con uno de los principales objetivos que contempla el Plan Estatal de Desarrollo del Estado de Guerrero 1999-2005, en el apartado de desarrollo urbano, es el de actualizar la Ley Estatal de Desarrollo Urbano e instalar el Comité y Consejo Consultivo y entre sus estrategias y líneas de acción se fija modernizar la infraestructura y los servicios urbanos básicos, para elevar la calidad de vida de la población que en ellas reside.
-
-II.- Que una de las prioridades del Titular del Poder Ejecutivo Estatal, es la de actualizar y consolidar los avances de la modernización legislativa, acorde con las necesidades del Estado y ajustarlas como norma jurídica a la Modernización Legislativa Federal, cumpliendo en esta forma con las exigencias de la sociedad guerrerense.
-
-III.- Que con fecha 26 de septiembre de 1976, entró en vigor la Ley de Desarrollo Urbano del Estado de Guerrero núm. 64, la cual no ha sido reformada para adecuarla a los tiempos actuales en que vive la Administración Pública Estatal, por eso resulta relevante el esfuerzo y prioridad de este Gobierno el de impulsar las normas jurídicas en materia de desarrollo urbano, para adecuarlas a las nuevas exigencias de los Planes y Programas de Gobierno, de ahí la importancia de esta nueva Ley de Desarrollo Urbano, que servirá para normar, estructurar, regular y orientar la planeación, fundación, conservación, mejoramiento y crecimiento de los centros de población del Estado de Guerrero.
-
-IV.- Que por acuerdo de la Comisión Dictaminadora, en la elaboración del presente Dictamen y Proyecto de Ley, se tomó en cuenta la iniciativa presentada por la Fracción Parlamentaria del Partido de la Revolución Democrática en la anterior Legislatura y que obra en los archivos de la misma. Por otra parte, fue fundamental la participación de los Colegios de Ingenieros y Arquitectos; de los funcionarios del Gobierno del Estado y del H. Ayuntamiento del Municipio de Acapulco de Juárez, Guerrero, así como las propuestas presentadas por los Integrantes de la Fracción Parlamentaria del Partido Revolucionario Institucional.
-
-V.- Que en el Foro Mundial de Parlamentarios para el Hábitat, se dictaron acuerdos que reiteran principios fundamentales basados en nuestra visión política, económica, social, ética y espiritual de los asentamientos humanos y la vivienda, basada en la dignidad humana, los derechos humanos, la igualdad entre los pueblos, razas, etnias y entre el varón y la mujer, la solidaridad, la paz, la democracia, la sustentabilidad, la protección y preservación prioritaria del ambiente, la institucionalización, el compromiso internacional, la responsabilidad mutua y el respeto de los diversos valores religiosos y étnicos y de los orígenes culturales de las personas. El impulso en las actividades legislativas y políticas internacionales, regionales y nacionales a la promoción del desarrollo sustentable de los asentamientos humanos en un mundo en proceso de urbanización y en el fomento al acceso a una vivienda adecuada para todos, mejorando la condición humana y su calidad de vida.
-
-VI.- Que de esta manera, el problema de la seguridad en la tenencia de la tierra y el desarrollo urbano, que implica el diseño de una nueva normatividad jurídica y su regulación inmediata, se convierten en dos de los ejes centrales para el desarrollo sustentable de los asentamientos humanos, por lo que deben adaptarse y cumplirse las medidas legislativas adecuadas sin menoscabo de los derechos humanos, los derechos y costumbres de las etnias, que habitan en este territorio del sur y, desde luego, buscar la equidad y justicia entre los diferentes sectores sociales. Por lo anterior, y
-
-CONSIDERANDO
-
-PRIMERO.- Desde la perspectiva ciudadana, es de reconocer que Guerrero no ha podido insertarse plenamente en un proceso de desarrollo sostenido que, sobre la base de una estructura de participación política democrática, garantice por encima de todo, el respecto a los derechos humanos y civiles de la ciudadanía. El exacerbado desequilibrio económico y social, es un ejemplo de ello; que se manifiesta en los altos índices de marginación, atraso del sector productivo y en el grave deterioro político entre autoridades y ciudadanía.
-
-SEGUNDO.- Particularmente en lo que respecta a los asentamientos humanos y el desarrollo urbano, dado el proceso tan acelerado de urbanización en los últimos años, nuestra Entidad ha tenido permanentemente que enfrentar considerables problemas de atención que no sólo propicien asentamientos humanos irregulares y que dificultan la atención gubernamental, sino que ponen en peligro la seguridad de sus habitantes, limitan el desarrollo económico y vulnera sus garantías individuales.
-
-Lo anterior, obliga a cada uno de los actores políticos y sociales de la sociedad guerrerense, a cumplir su papel con estricto apego al marco jurídico establecido, es en este último aspecto que la nueva Ley de Desarrollo Urbano desde una concepción que se incorpora a los principios fundamentales que internacionalmente buscan el desarrollo armónico de la sociedad entre sí y con la naturaleza. Es, entonces, un instrumento jurídico que norma el diseño de políticas públicas, promueve y fortalece la participación ciudadana, garantiza el derecho de la sociedad a un desarrollo urbano seguro y sostenido y, respeto a sus derechos humanos y ciudadanos, otorgando certeza y confianza jurídica.
-
-TERCERO.- Los trabajos realizados en el Foro Mundial de Parlamentarios para el Hábitat, constituyeron una base fundamental para que este H. Congreso realizara modificaciones significativas a diversos artículos de la iniciativa original remitida por el Titular del Ejecutivo del Estado a este Cuerpo Colegiado, además de los diversos foros que se realizaron en diversas partes del Estado, con profesionales y especialistas en la materia, mismos que brindaron los elementos de juicio necesarios para estructurar un proyecto de ley de desarrollo urbano mejor constituido y completo, acorde con las exigencias del nuevo milenio.
-
-CUARTO.- Dado que la Ley No. 64 de Desarrollo Urbano del Estado de Guerrero, vigente a la fecha, ha quedado rebasada respecto a los retos, necesidades y expectativas de nuestra Entidad, procede expedir un nuevo ordenamiento en esta materia.
-
-QUINTO.- La presente Ley, en general establece una nueva estructura normativa apegada a los lineamientos que dicta la Ley General de Asentamientos Humanos de la Federación, principalmente en cuanto se refiere a las atribuciones y facultades de las autoridades estatales y municipales, y concuerdan con los principios tendientes a fortalecer el municipio en el esquema de un nuevo federalismo.
-
-Igualmente, la nueva Ley de Desarrollo Urbano, está dirigida a garantizar cuatro condiciones fundamentales: ubicar al Estado como rector del desarrollo urbano; involucrar las últimas reformas al artículo 115 de nuestra Carta Magna, en términos de recatar las nuevas atribuciones y facultades asignadas a los ayuntamientos; garantizar la participación de la Sociedad Civil en la toma de decisiones y, cuidar la congruencia de este nuevo proyecto con la legislación adjetiva en vigor.
-
-SEXTO.- El ejercicio de planeación para el desarrollo urbano, se concibe en la integración de un Sistema Estatal de Planeación del Desarrollo Urbano, definiendo con mayor precisión tanto los contenidos de los planes en cada uno de los ámbitos geográfico y jurisdiccionales, como los mecanismos de elaboración, modificación y cancelación de los mismos. Es decir, la planeación del desarrollo urbano, adquiere el carácter de permanente y norma la obligatoriedad como causa de utilidad pública e interés social.
-
-SEPTIMO.- La nueva Ley de Desarrollo Urbano del Estado, contempla nuevos elementos sustanciales para el desarrollo social en materia de urbanización y asentamientos humanos que omitía la Ley anterior: se integra la Comisión Consultiva de Desarrollo Urbano del Estado de Guerrero, los Consejos de Urbanismo de los Municipios y, los Consejos Ciudadanos Municipales, con la finalidad de cambiar la estructura que venía operando el Comité para el Desarrollo Urbano, mismos que estarán integrados en forma plural, para vigilar el cumplimiento de la presente Ley.
-
-Se puntualizan y actualizan conceptos, alcances y mecanismos jurídicos, para la fundación, conservación, mejoramiento, crecimiento y zonificación de los centros de población, lo que permitirá una mayor atención y ordenamiento de los mismos; de entre sus principales aportaciones, se encuentra la definición de responsabilidades municipales para la definición y control de reservas territoriales y la regularización de la tenencia de la tierra urbana en los centros de población, así como el derecho de preferencia para la adquisición de bienes inmuebles para el cumplimiento de las atribuciones del Estado que garanticen la satisfacción de demanda de tenencia de la tierra, prestación de servicios y vivienda con interés social.
-
-En la concepción de la irrestricta participación ciudadana en los procesos de desarrollo urbano, tanto estatal como de cada uno de los centros de población, se establece un capítulo especial, donde se norman los mecanismos y responsabilidades de las autoridades para propiciar y garantizar la injerencia de la ciudadanía en el desarrollo urbano; así como para fomentar el financiamiento para el desarrollo urbano, que implica la eficientización de la administración pública.
-
-Consecuentes con la obligatoriedad de garantizar el derecho a la vivienda, se establece un capítulo específico del Sistema Estatal de Vivienda, que da marco para la definición de políticas públicas y la elaboración de planes y programas específicos de carácter permanente en sus diferentes excepciones, donde se vincula la obligatoriedad de los municipios para hacer lo conducente en el marco de sus propias jurisdicciones.
-
-Un capítulo importante, es el que señala las normas fundamentales y los principios sobre los cuales deben permitirse las construcciones, la infraestructura, el equipamiento y los servicios urbanos, de tal manera que garanticen el armónico funcionamiento y desarrollo de los centros de población.
-
-Por último, se incorporan dos capítulos con la finalidad de ofrecer garantía en el cumplimiento de la presente Ley, incorporando las medidas de seguridad, infracciones, sanciones y recursos y, por su parte los mecanismos de denuncia que, conforme a este ordenamiento puedan hacer los particulares que se vean afectados por acciones contrarias a la correcta aplicación de la presente Ley.
-
-En resumen, el presente proyecto de Ley de Desarrollo Urbano del Estado de Guerrero, cuenta con cuatro Títulos, quince Capítulos, nueve Secciones y 123 Artículos. El Título Primero "De la Esfera de la Competencia", cuenta con tres Capítulos denominados "Disposiciones Generales", "De la Concurrencia y Coordinación de Autoridades" y "De los Organismos Auxiliares".
-
-El Título Segundo, "Del Sistema de Planeación de Desarrollo Urbano" cuenta con un Capítulo Unico denominado "De los Planes de Desarrollo Urbano", del cual derivan nueve Secciones: "Del Plan Estatal de Desarrollo Urbano", "De los Planes de Ordenación de Zonas Conurbadas Interestatales", "De los Planes Regionales de Desarrollo Urbano", "De los Planes de Zonas Metropolitanas y de los Planes de Conurbación Intermunicipal", "De los Planes Municipales de Desarrollo Urbano", "De los Planes de Desarrollo Urbano de Centros de Población", "De los Planes Parciales de Desarrollo Urbano", "De los Planes Sectoriales de Desarrollo Urbano" y, "De los Esquemas de Desarrollo Urbano".
-
-El Título Tercero "Del Desarrollo Urbano Regional y Sectorial", cuenta con nueve Capítulos denominados "De las Conurbaciones", "De las Regulaciones a la Propiedad en los Centros de Población", "De la Fusión, Subdivisión, Relotificación y Fraccionamientos de Terrenos", "De las Reservas Territoriales para el Desarrollo Urbano y la Vivienda", "Del Sistema Estatal de Vivienda", "De la Regularización de la Tenencia de la Tierra", "De la participación Social", "Del control del Desarrollo Urbano", "De la Prevención de Emergencia Urbana".
-
-El Título Cuarto "De las Medidas de Seguridad", cuenta con Dos Capítulos denominados "De las Infracciones, Medidas de Seguridad y Sanciones" y "Del Recurso de Inconformidad".
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 47 fracciones I y XLIX de la Constitución Política Local; 8o. fracción I y 127 párrafo segundo de la Ley Orgánica del Poder Legislativo en vigor, este H. Congreso, tiene a bien expedir la siguiente:
 
@@ -149,7 +97,7 @@ Crecimiento: La acción tendiente a ordenar y regular la expansión física de l
 
 Crecimiento Urbano: Expansión espacial y demográfica de la ciudad, ya sea por extensión física territorial del tejido urbano, por incremento en las densidades de construcción y población, o como generalmente sucede, por ambos aspectos. Esta expansión puede darse en forma anárquica o planificada.
 
-Declaratoria: Acto administrativo por el cual la autoridad competente en razón del interés social y en ejercicio de las facultades que le confieren las leyes de la materia, determina las áreas o predios que serán utilizadas para la fundación, conservación, mejoramiento y crecimiento de los centros de población, así como los fines públicos o particulares a los que se prevean o puedan dedicarse dichas áreas o predios conforme a lo previsto en los programas de desarrollo urbano de los cuales deriva.
+Declaratoria: Acto Administrativo por el cual la autoridad competente en razón del interés social y en ejercicio de las facultades que le confieren las leyes de la materia, determina las áreas o predios que serán utilizadas para la fundación, conservación, mejoramiento y crecimiento de los centros de población, así como los fines públicos o particulares a los que se prevean o puedan dedicarse dichas áreas o predios conforme a lo previsto en los Programas de Desarrollo Urbano de los cuales deriva.
 
 Destinos: Los fines públicos a que se prevé dedicar determinadas zonas o predios de un centro de población.
 
@@ -203,7 +151,7 @@ Patrimonio Artístico: Bienes, muebles e inmuebles que revisten valor estético 
 
 Patrimonio Cultural y Natural de la Humanidad: Término acuñado por la UNESCO, para proteger y conservar zonas y sitios patrimoniales e históricos, engloba monumentos, conjuntos y lugares.
 
-El Patrimonio Histórico y Cultural: El constituido por los inmuebles que presenten valor arquitectónico y los vinculados a la historia local o nacional; las plazas, paseos, parques y calles que contengan expresiones de arte o que constituyan apariencia tradicional; así como los barrios típicos y los característicos de la imagen urbana del sitio.
+El Patrimonio Histórico y Cultural: El constituido por los inmuebles que presenten valor arquitectónico y los vinculados a la historia Local o Nacional; las plazas, paseos, parques y calles que contengan expresiones de arte o que constituyan apariencia tradicional; así como los barrios típicos y los característicos de la imagen urbana del sitio.
 
 Planeación del Ordenamiento Territorial: El proceso permanente y contínuo de formulación, programación, presupuestación, ejecución, control, fomento, evaluación y revisión del ordenamiento territorial.
 
@@ -497,7 +445,7 @@ XXIV.- Evitar el establecimiento de asentamientos humanos en zonas de alto riesg
 
 > <small>(ADICIONADA, P.O. 16 DE ENERO DE 2015)</small>
 
-XXV.- Coadyuvar con el Gobierno del Estado a través de las Secretarías encargadas del Desarrollo Urbano, Obras Publicas, Cultura, Turismo, y en su caso con las competentes de la Administración Pública Federal, u organismos civiles sin fines de lucro o Junta de Conservación, para la protección, cuidado, mantenimiento, remozamiento, mejoramiento, rehabilitación, recuperación imagen urbana, conservación de la fisonomía y patrimonio arquitectónico e histórico ,el desarrollo armónico e integral y otras acciones que tiendan a mantener a los Centros Históricos.
+XXV.- Coadyuvar con el Gobierno del Estado a través de las Secretarías encargadas del Desarrollo Urbano, Obras Publicas, Cultura, Turismo, y en su caso con las competentes de la Administración Pública Federal, u organismos civiles sin fines de lucro o Junta de Conservación, para la protección, cuidado, mantenimiento, remozamiento, mejoramiento, rehabilitación, recuperación imagen urbana, conservación de la fisonomía y patrimonio arquitectónico e histórico, el desarrollo armónico e integral y otras acciones que tiendan a mantener a los Centros Históricos.
 
 > <small>(ADICIONADA, P.O. 16 DE ENERO DE 2015)</small>
 
@@ -1127,7 +1075,7 @@ Por sus características especiales la ciudad de Taxco de Alarcón, Guerrero, co
 
 ###### ARTICULO 40 Bis 2.
 
-Se destinara anualmente en el Presupuesto de Egresos del Estado, recursos fiscales para el Plan Parcial de Desarrollo Urbano de los municipios que cuenten con Centros Históricos, para su mejoramiento, remozamiento, conservación, desarrollo integral y controlado, equipamiento urbano, imagen urbana de fachadas, imagen urbana tradicional , impacto urbano, usos de suelo, zonificación, restauración, infraestructura, servicios urbanos accesibles , patrimonio artístico, histórico y cultural, protección del patrimonio histórico, riesgos de urbanización, regeneración urbana, sistemas de iluminación particular y condiciones para su habitabilidad.
+Se destinara anualmente en el Presupuesto de Egresos del Estado, recursos fiscales para el Plan Parcial de Desarrollo Urbano de los municipios que cuenten con Centros Históricos, para su mejoramiento, remozamiento, conservación, desarrollo integral y controlado, equipamiento urbano, imagen urbana de fachadas, imagen urbana tradicional, impacto urbano, usos de suelo, zonificación, restauración, infraestructura, servicios urbanos accesibles, patrimonio artístico, histórico y cultural, protección del patrimonio histórico, riesgos de urbanización, regeneración urbana, sistemas de iluminación particular y condiciones para su habitabilidad.
 
 Dichos recursos no podrán ser transferidos hacia otras áreas de Gobierno y Administración Estatal o Municipal. De ocurrir transferencias de gasto destinadas para el Plan Parcial del Centro Histórico a otro destino en el municipio, previas Auditorías, este perderá la ministración en el próximo ejercicio fiscal, sin menoscabo en lo dispuesto en las disposiciones legales aplicables.
 
@@ -2080,3 +2028,37 @@ P.O. 16 DE ENERO DE 2015.
 PRIMERO. El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página Web del Congreso del Estado.
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 790 DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley de Desarrollo Urbano del Estado de Guerrero número 211, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero número 21, el 13 de marzo de 2001 y se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
+
+TERCERO. En un plazo de un año contado a partir de la entrada en vigor de esta Ley, las autoridades estatales y municipales deberán crear o adecuar todas las disposiciones legales y reglamentarias relacionadas con los contenidos de este instrumento.
+
+CUARTO. En un plazo de un año contado a partir de la entrada en vigor de esta Ley, se deberá crear la instancia de procuración de justicia de ordenamiento territorial y desarrollo urbano, así como las disposiciones legales que regulen su integración y funcionamiento.
+
+En tanto no se cree la instancia de procuración de justicia de ordenamiento territorial y desarrollo urbano, el Estado y los municipios deberán realizar las funciones que correspondan a dicha instancia.
+
+QUINTO. En un plazo de un año contado a partir de la entrada en vigor de esta Ley, se formularán o adecuarán todos los instrumentos de planeación estatales y municipales, los atlas de riesgos, y los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los instrumentos de participación democrática y ciudadana.
+
+SEXTO. En un plazo de seis meses a partir de la entrada en vigor de esta Ley, el titular de la Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial, deberá convocar a la sesión de instalación de la comisión metropolitana o de conurbación.
+
+SÉPTIMO. En un plazo no mayor de seis meses a partir de la entrada en vigor de esta Ley, la Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial del Estado de Guerrero, emitirá los lineamientos para la integración y funcionamiento del Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano.
+
+OCTAVO. En un plazo de un año contado a partir de la entrada en vigor de esta Ley, se expedirán los lineamientos en materia de equipamiento, infraestructura y vinculación con el entorno, a que se sujetarán las acciones de suelo financiadas con recursos estatales, así como los de organismos que financien vivienda para los trabajadores de acuerdo con lo establecido en la presente Ley.
+
+NOVENO. En un plazo de un año contado a partir de la entrada en vigor de esta Ley, se emitirán los criterios y lineamientos normativos para la delimitación territorial de las zonas metropolitanas y conurbaciones intraestatales, así como los lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones vinculados con las materias de interés metropolitano, cumplan con su objetivo de acuerdo con la presente Ley.
+
+DÉCIMO. En un plazo de seis meses, la Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial del Estado de Guerrero, creará e iniciará las operaciones del Sistema Estatal de Información Territorial y Urbano previsto en esta Ley.
+
+DÉCIMO PRIMERO. En un plazo de seis meses a partir de la entrada en vigor de la presente Ley, la Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial del Estado de Guerrero, establecerá los lineamientos para la certificación de especialistas en gestión territorial que coadyuven y tengan una participación responsable en el proceso de evaluación del impacto territorial, así como en otros temas para el cumplimiento y aplicación de la Ley.
+
+DÉCIMO SEGUNDO. En un plazo de un año contado a partir de la entrada en vigor de esta Ley, el Congreso del Estado de Guerrero adecuará el Código Penal para el Estado Libre y Soberano de Guerrero para que se configuren como delitos las conductas de los sujetos privados o públicos que promuevan o se beneficien con la ocupación irregular de áreas o predios de conformidad con lo previsto en la presente Ley.
+
+DÉCIMO TERCERO. La Secretaría de Finanzas y Administración, en coordinación con la Secretaría de Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Desarrollo Regional, deberán realizar las acciones administrativas, adecuaciones estructurales, y presupuestarias necesarias para la aplicabilidad de la presente Ley.
+
+DÉCIMO CUARTO. Los procedimientos administrativos iniciados por las autoridades locales con anterioridad a la entrada en vigor de la Ley (sic) Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano serán concluidos conforme a las disposiciones aplicables vigentes.
