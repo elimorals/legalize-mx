@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-de-justicia-administrativa-del-122616
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-19"
-last_updated: "2018-04-04"
+last_updated: "2018-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -53,11 +53,15 @@ LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
 ### CAPÍTULO I. De las Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 1.
 
-El Tribunal de Justicia Administrativa cuenta con las facultades, competencia y organización que establece la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley de Justicia Administrativa del Estado de Morelos y esta Ley; forma parte del Sistema Estatal Anticorrupción y está dotado de plena jurisdicción, autonomía e imperio suficiente para hacer cumplir sus determinaciones.
+El Tribunal de Justicia Administrativa cuenta con las facultades, competencias y organización que establece la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, la Ley de Justicia Administrativa del Estado de Morelos, la Ley de Responsabilidades Administrativas del Estado de Morelos, la Ley General de Responsabilidades Administrativas y demás normativa aplicable; forma parte integrante del Sistema Estatal Anticorrupción y está dotado de plena jurisdicción, autonomía e imperio suficientes para hacer cumplir sus determinaciones y resoluciones.
 
 Las resoluciones que emitan las Salas de Instrucción, las Salas Especializadas, el Pleno Especializado en Responsabilidades Administrativas o el Pleno del Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
+
+Las instalaciones del Tribunal son inviolables y por tanto queda prohibido el acceso a cualquier persona armada. Para el caso de los elementos de seguridad que sean parte dentro de algún juicio, se abstendrán de portar su arma de cargo durante el desahogo de la diligencia. Para el cumplimiento de lo señalado en el presente párrafo, el Ejecutivo del Estado destinará elementos del área de Seguridad Pública.
 
 ###### Artículo 2.
 
@@ -107,21 +111,25 @@ XVII. Tribunal, al Tribunal de Justicia Administrativa del Estado de Morelos, y
 
 XVIII. Tribunal Superior, al Tribunal Superior de Justicia del Estado de Morelos.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### Artículo 3 Bis.
+
+Además de las atribuciones y competencias señaladas en los artículos 18 y 25 de esta Ley, el Tribunal tendrá competencia para conocer y resolver de las responsabilidades administrativas de los servidores públicos y particulares vinculados con faltas graves promovidas por la Contraloría del Estado, la Entidad Superior de Auditoría y Fiscalización, los órganos internos de control de los entes públicos estatales o municipales o de los organismos constitucionales autónomos, para la imposición de sanciones en términos de la Ley General de Responsabilidades Administrativas, de la Ley de Responsabilidades Administrativas del Estado de Morelos y de la demás normativa aplicable. Así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al Patrimonio de los entes públicos estatales o municipales, en el ámbito de su respectiva competencia.
+
 ### CAPÍTULO II. De la Integración del Tribunal
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 4.
 
 El Tribunal estará integrado por siete Magistrados, actuará y estará organizado de la siguiente manera:
 
-I. En siete salas de las cuales cinco serán Salas de Instrucción y dos serán Salas Especializadas, teniendo éstas últimas competencia exclusiva en responsabilidades administrativas, pudiendo auxiliar, previo acuerdo del Pleno y en caso de requerirse, en las demás materias; dicho acuerdo deberá ser publicado en el Periódico Oficial;
+I. En siete salas de las cuales cinco serán Salas de Instrucción y dos serán Salas Especializadas, teniendo éstas últimas competencias exclusivas en responsabilidades administrativas, pudiendo auxiliar, previo acuerdo del Pleno y en caso de requerirse, en las demás materias; dicho acuerdo deberá ser publicado en el Periódico Oficial;
 
-II. Un Pleno Especializado, que estará integrado por cinco Magistrados, y
+II. Un Pleno Especializado, que estará integrado por cuatro Magistrados, y
 
-III. El Pleno, integrado por el total de los Magistrados.
-
-En caso de excusa o recusación de uno de los Magistrados, el Pleno y el Pleno Especializado se integrarán en términos del artículo 16 de esta Ley.
+III. El Pleno, integrado por el total de los Magistrados. En caso de excusa o recusación de uno de los Magistrados, el Pleno y el Pleno Especializado se integrarán en términos del artículo 16 de esta Ley.
 
 ###### Artículo 5.
 
@@ -145,13 +153,13 @@ Al término de su respectivo encargo, los Magistrados tendrán derecho a un habe
 
 El retiro forzoso del cargo se producirá en los mismos términos que para los Magistrados del Tribunal Superior.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 10.
 
-Durante el ejercicio de su encargo, los Magistrados, Secretario General, Secretarios de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y Oficiales Judiciales, no podrán desempeñar otro puesto o empleo público o privado, ni ejercer la abogacía sino en causa propia.
+Durante el ejercicio de su encargo, los Magistrados, los Secretarios Generales, Secretarios de Acuerdos, Secretarios de Estudio y Cuenta, el titular de la Defensoría de Oficio del Tribunal, Actuarios y Oficiales Judiciales, no podrán desempeñar otro puesto o empleo público o privado, ni ejercer la abogacía sino en causa propia. El incumplimiento de esta disposición será causa de separación de su encargo.
 
-El incumplimiento de esta disposición será causa de separación de su encargo.
-
-Quedan exceptuados de esta disposición, la docencia y los cargos honoríficos en asociaciones de carácter cultural o de beneficencia y cuyo desempeño no perjudique las funciones propias del Tribunal. En ningún momento, podrán recibir remuneración alguna por éstas actividades.
+Quedan exceptuados de esta disposición, la docencia y los cargos honoríficos en asociaciones de carácter cultural o de beneficencia y cuyo desempeño no perjudique las funciones propias del Tribunal.
 
 ###### Artículo 11.
 
@@ -159,7 +167,7 @@ Las licencias a los Magistrados por un término que no exceda de treinta días n
 
 ### CAPÍTULO III. Del Presidente del Tribunal
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 12.
 
@@ -167,7 +175,7 @@ El Presidente del Tribunal será elegido por el voto favorable de cuando menos c
 
 El Presidente durará en el cargo dos años.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 13.
 
@@ -227,7 +235,7 @@ XXI. Las demás que le confieran el Pleno, la presente Ley u otros ordenamientos
 
 ### Capítulo IV. Del Pleno
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 16.
 
@@ -293,21 +301,21 @@ El Pleno sesionará una vez por semana o cuantas veces sea necesario a considera
 
 Las sesiones del Pleno se desarrollarán conforme a las reglas establecidas en el Reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 18.
 
 Son atribuciones y competencias del Pleno:
 
 A) Atribuciones:
 
-I. Aprobar el proyecto de presupuesto de egresos, que será remitido al Ejecutivo;
+I. Aprobar el proyecto de presupuesto de egresos, que será remitido al Ejecutivo. En el proyecto que se remita, deberá considerarse el presupuesto de egresos que corresponda al Órgano Interno de Control del Tribunal;
 
 II. Expedir, modificar y dejar sin efectos el Reglamento;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
-
 III. Llevar a cabo la elección del Presidente del Tribunal en los términos de la presente Ley;
 
-IV. Nombrar y remover a los funcionarios y demás servidores públicos del Tribunal, formular y aprobar o rechazar los nombramientos y remociones propuestas por los Magistrados;
+IV. Nombrar y remover a los funcionarios y demás servidores públicos del Tribunal, a excepción de los integrantes del órgano interno de control, así como formular y aprobar o rechazar los nombramientos y remociones propuestas por los Magistrados;
 
 V. Conceder licencia a los Magistrados, Secretarios, Actuarios y demás servidores públicos del Tribunal, de las Salas de Instrucción, de las Salas Especializadas y del Pleno Especializado, en los términos previstos en esta Ley y el Reglamento;
 
@@ -327,13 +335,13 @@ XII. Acordar la celebración de toda clase de actos jurídicos necesarios para e
 
 XIII. Aprobar el presupuesto de egresos y la cuenta pública anual, de conformidad con lo aprobado por el Congreso del Estado para el ejercicio fiscal correspondiente; cumpliendo con el sistema de planeación democrática del desarrollo y las normas de contabilidad gubernamental y disciplina financiera, de conformidad con la normativa aplicable, debiendo de ser publicados en el Periódico Oficial;
 
-XIV. Cada dos años presentar el diagnóstico cualitativo y cuantitativo sobre el trabajo de las Salas de Instrucción en materia de responsabilidades administrativas, el cual deberá ser remitido para su consideración al Comité Coordinador del Sistema Estatal Anticorrupción, y
+XIV. Cada dos años presentar el diagnóstico cualitativo y cuantitativo sobre el trabajo de las Salas de Instrucción en materia de responsabilidades administrativas, el cual deberá ser remitido para su consideración al Comité Coordinador del Sistema Estatal Anticorrupción;
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2018)</small>
+XV. Realizar la adscripción de las Salas Especializadas y del Pleno Especializado por cuando menos el voto favorable de al menos cinco magistrados;
 
-XV. Realizar la adscripción de las Salas Especializadas y del Pleno Especializado por cuando menos el voto favorable de al menos cinco magistrados, y
+XV. Conocer y resolver la excitativa de justicia, en el caso en que algún Magistrado no dicte la sentencia en el asunto de que se trate dentro del plazo legal, y
 
-XVI. Las demás que determinen las Leyes
+XVI. Las demás que determinen las Leyes.
 
 B) Competencias:
 
@@ -343,79 +351,73 @@ II. Resolver los asuntos sometidos a su jurisdicción, por lo que conocerá de:
 
 a) Los juicios que se promuevan en contra de cualquier acto, omisión, resolución o actuación de carácter administrativo o fiscal que, en el ejercicio de sus funciones, dicten, ordenen, ejecuten o pretendan ejecutar las dependencias que integran la Administración Pública Estatal o Municipal, sus organismos auxiliares estatales o municipales, en perjuicio de los particulares;
 
-b) Los juicios que se promuevan contra la resolución negativa ficta recaída a una instancia o petición de un particular. Se entenderá que se configura la resolución negativa ficta cuando las autoridades estatales o municipales o sus organismos descentralizados, no den respuesta a una petición o instancia de un particular en el término que la Ley señale o a falta de éste en el de treinta días hábiles, contados a partir del día siguiente a aquel en que se haya formulado la petición. La demanda podrá interponerse en cualquier tiempo, mientras no se produzca la resolución expresa;
+b) Los juicios que se promuevan contra la resolución negativa ficta recaída a una instancia o petición de un particular. Se entenderá que se configura la resolución negativa ficta cuando las autoridades estatales o municipales o sus organismos descentralizados, no den respuesta a una petición o instancia de un particular en el término que la Ley señale. La demanda podrá interponerse en cualquier tiempo, mientras no se produzca la resolución expresa;
 
 c) Los juicios en que se pida la declaración de afirmativa ficta, en los casos en que así proceda conforme a la ley rectora del acto. En estos casos para que proceda la declaración, el actor deberá acompañar a su demanda, el escrito de solicitud de la pretensión deducida frente a la autoridad administrativa y el escrito en el que solicite la certificación de que se produjo la afirmativa ficta;
 
-d) Los juicios en los que se reclame responsabilidad patrimonial objetiva y directa al Estado, conforme a la Ley de la materia;
+d) Los juicios que se promuevan en contra de cualquier acto o resolución de carácter fiscal, producido por un organismo descentralizado estatal o municipal, en agravio de los particulares;
 
-e) Las controversias que se susciten por la interpretación, cumplimiento, rescisión o terminación de los contratos de naturaleza administrativa o los que deriven de la Ley de Obra Pública y Servicios relacionados con la misma del Estado de Morelos, o de la Ley Sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos, o de los Reglamentos Municipales en dichas materias;
+e) Los juicios que promuevan las autoridades de la Administración Pública estatal o municipal o sus organismos auxiliares o descentralizados para controvertir un acto o resolución favorable a un particular, cuando estimen que es contrario a la ley;
 
-> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+f) Juicios que se entablen contra las resoluciones que nieguen la devolución de un ingreso de los regulados por el Código Fiscal del Estado, indebidamente percibidos por el Estado o los Municipios o cuya devolución proceda de conformidad con las leyes fiscales;
 
-f) Conforme a lo establecido en el artículo 123, apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, conocerá de los juicios promovidos por los miembros de las instituciones de seguridad pública, derivados de su relación administrativa con el Estado y los Ayuntamientos, en contra de las sentencias definitivas mediante las que se imponen correctivos disciplinarios y sanciones impuestas por los Consejos de Honor y Justicia, con excepción de las responsabilidades administrativas graves previstas en la Ley General de Responsabilidades Administrativas;
+g) Los juicios promovidos en contra de las resoluciones que impongan multas por infracción a las normas administrativas estatales o municipales;
 
-g) (DEROGADO, P.O. 16 DE FEBRERO DE 2018)
+h) Los juicios que se entablen por reclamaciones de pensiones y demás prestaciones sociales que concedan las leyes en favor de los miembros de los cuerpos policiales estatales o municipales;
 
-h) (DEROGADO, P.O. 16 DE FEBRERO DE 2018)
+i) El procedimiento administrador sancionador establecido en la Ley del Notariado del Estado de Morelos;
 
-i) De las controversias vinculadas con la probable violación al derecho de los servidores públicos de elección popular cuyo periodo ha concluido, de recibir las remuneraciones que en derecho les corresponda, por el desempeño de un encargo de elección popular cuando el periodo de su ejercicio ya ha concluido;
+j) Los juicios en los que se reclame responsabilidad patrimonial objetiva y directa al Estado, sin perjuicio y conforme a la Ley de la materia;
 
-j) Los asuntos cuya resolución esté reservada al Tribunal conforme a la normativa aplicable, y
+k) Las controversias que se susciten por la interpretación, cumplimiento, rescisión o terminación de los contratos de naturaleza administrativa o los que deriven de la Ley de Obra Pública y Servicios relacionados con la misma del Estado de Morelos, o de la Ley Sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos, o de los Reglamentos Municipales en dichas materias;
 
-k) En caso de asuntos que afecten a particulares y que sean sometidos a su jurisdicción, suplir la deficiencia de la queja;
+l) Conforme a lo establecido en el artículo 123, apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, conocerá de los juicios promovidos por los miembros de las instituciones de seguridad pública, derivados de su relación administrativa con el Estado y los Ayuntamientos, en contra de las sentencias definitivas mediante las que se imponen correctivos disciplinarios y sanciones impuestas por los Consejos de Honor y Justicia, con excepción de las responsabilidades administrativas graves previstas en la Ley General de Responsabilidades Administrativas;
+
+m) De las controversias vinculadas con la probable violación al derecho de los servidores públicos de elección popular cuyo periodo ha concluido, de recibir las remuneraciones que en derecho les corresponda, por el desempeño de un encargo de elección popular cuando el periodo de su ejercicio ya ha concluido;
+
+n) Los asuntos cuya resolución esté reservada al Tribunal conforme a la normativa aplicable;
+
+o) En caso de asuntos que afecten a particulares y que sean sometidos a su jurisdicción, suplir la deficiencia de la queja;
 
 III. Establecer las reglas para la distribución de los asuntos entre las Salas de instrucción, y
 
-IV. Los demás que determinen las Leyes.
+IV. Los demás asuntos cuyo conocimiento corresponda al Tribunal, en los términos que determinen las Leyes.
 
 ### Capítulo V. Del Pleno Especializado
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 19.
 
-El Pleno Especializado se integrará por cuatro Magistrados de las Salas de Instrucción y un Magistrado de Sala Especializada, exceptuando al Magistrado de Sala Especializada que haya dictado la resolución en primera instancia de que se trate.
+El Pleno Especializado se integrará por los dos Magistrados de las Salas Especializadas y dos Magistrados de las Salas de Instrucción. El Presidente no podrá integrar el Pleno Especializado, salvo que al mismo tiempo que ocupe la Presidencia del Tribunal, esté adscrito a una Sala Especializada.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
-
-El Presidente del Pleno no integrará el Pleno Especializado. El Pleno designará por la mayoría de votos de sus integrantes al Presidente del Pleno Especializado y a los cuatro Magistrados de las Salas de Instrucción para que integren el Pleno Especializado junto con los Magistrados de las Salas Especializadas, quienes lo harán de manera rotativa, excluyendo en todo momento, al Magistrado que haya resuelto en primera instancia.
+El Pleno designará por cinco votos a los dos Magistrados de Sala de Instrucción que integrarán el Pleno Especializado.
 
 Los nombramientos que realice el Pleno del Tribunal sobre los Magistrados de las Salas de Instrucción para integrar el Pleno Especializado serán por tiempo indefinido, hasta que el Presidente del Tribunal proponga otra votación y se resuelva por la mayoría del Pleno del Tribunal.
 
-Las sesiones del Pleno Especializado serán válidas con la concurrencia de la mayoría de sus miembros.
+Las sesiones del Pleno Especializado serán válidas con la concurrencia de la mayoría de sus miembros. Las decisiones del Pleno Especializado se tomarán por unanimidad o mayoría de votos. Cuando no se alcance la mayoría por la ausencia temporal de alguno de los Magistrados, el asunto que se discutiría en la sesión, se aplazará para la sesión del Pleno subsiguiente. Solo en los casos que no se pueda lograr la mayoría en la discusión y aprobación de un proyecto de sentencia por la falta absoluta, temporal o por excusa de alguno de los Magistrados, el Magistrado de Sala Especializada tendrá voto de calidad.
 
-Las decisiones del Pleno Especializado se tomarán por unanimidad o mayoría de votos.
-
-Cuando no se alcance la mayoría por la ausencia temporal de alguno de los Magistrados, el asunto que se discutiría en la sesión, se aplazará para la sesión del Pleno subsiguiente.
-
-Solo en los casos que no se pueda lograr la mayoría en la discusión y aprobación de un proyecto de sentencia por la falta absoluta, temporal o por excusa de alguno de los Magistrados, el Pleno deberá habilitar a un Secretario de las Salas Especializadas que cumpla con los requisitos señalados en el artículo 6 de esta Ley, que permite efectuar las deliberaciones correspondientes y resolver la votación.
-
-El Pleno Especializado desarrollará las sesiones en los términos previstos para el Pleno del Tribunal y en lo no establecido en el presente artículo se aplicará lo dispuesto en el artículo 16 de esta Ley.
-
-Las sesiones del Pleno Especializado en las que se traten asuntos jurisdiccionales serán públicas, excepto cuando por acuerdo fundado de sus integrantes, a propuesta del Presidente del Pleno Especializado, se determine realizarlas en privado y de ellas se guardará registro en audio y video, resguardando los datos personales de conformidad con la Ley (sic) Transparencia y Acceso a la Información Pública del Estado de Morelos. Las sesiones de este Pleno deberán ser transmitidas en vivo a través de los medios electrónicos con los que cuente el Tribunal.
+El Pleno Especializado desarrollará las sesiones en los términos previstos para el Pleno del Tribunal y en lo no establecido en el presente artículo se aplicará lo dispuesto en el artículo 16 de esta Ley. Las sesiones del Pleno Especializado en las que se traten asuntos jurisdiccionales serán públicas, excepto cuando por acuerdo fundado de sus integrantes, a propuesta del Presidente del Pleno Especializado, se determine realizarlas en privado y de ellas se guardará registro en audio y video, resguardando los datos personales de conformidad con la Ley (sic) Transparencia y Acceso a la Información Pública del Estado de Morelos y demás normativa aplicable. Las sesiones de este Pleno deberán ser transmitidas en vivo a través de los medios electrónicos con los que cuente el Tribunal.
 
 ### Capítulo VI. Del Presidente del Pleno Especializado
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 20.
 
-El Presidente del Pleno Especializado será electo por cuando menos cinco votos favorables en Pleno de los Magistrados, durará en el cargo dos años.
+El Presidente del Pleno Especializado será electo por voto de los Magistrados integrantes de las Salas Especializadas y durará en el cargo dos años.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 21.
 
-En el último día hábil del mes de junio de cada año, el Pleno Especializado celebrará sesión solemne en la que su Presidente del Pleno Especializado rendirá el informe anual correspondiente, el cual deberá publicarse en el Boletín Electrónico del Tribunal, debiendo remitirlo al Poder Ejecutivo para su publicación en el Periódico Oficial.
+En el último día hábil del mes de junio de cada año, el Pleno Especializado celebrará sesión solemne en la que su Presidente del Pleno Especializado rendirá el informe anual correspondiente, el cual deberá publicarse en el Boletín Electrónico del Tribunal, debiendo remitirlo al Poder Ejecutivo para su publicación en el Periódico Oficial. En esta misma sesión, de ser el caso, el Presidente del Pleno Especializado saliente entregará la Presidencia al Magistrado que haya resultado electo Presidente, tomándole la protesta de ley el propio Pleno Especializado.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
-
-En esta misma sesión, de ser el caso, el Presidente del Pleno Especializado saliente entregará la Presidencia al Magistrado que haya resultado electo Presidente por el Pleno, tomándole la protesta de ley.
-
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 22.
 
-El Presidente del Pleno Especializado será suplido en sus faltas temporales por el Magistrado que determine el Pleno.
+El Presidente del Pleno Especializado será suplido en sus faltas temporales por el Magistrado de Sala Especializada que determine el Pleno.
 
 ###### Artículo 23.
 
@@ -449,41 +451,59 @@ El Pleno Especializado deberá sesionar por lo menos una vez al mes o cuantas ve
 
 Las sesiones del Pleno Especializado se desarrollarán conforme a las reglas establecidas en el Reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 25.
 
-Al Pleno Especializado le corresponden las siguientes atribuciones:
+Es competencia del Pleno Especializado:
 
 I. Fijar la Jurisprudencia del Pleno Especializado;
 
 II. Resolver las contradicciones que se susciten entre las sentencias de las Salas Especializadas del Tribunal;
 
-III. Conocer y resolver de los recursos que se interpongan en contra de las resoluciones emitidas por las Salas Especializadas, relativas a:
+III. Resolver respecto de las faltas administrativas graves, investigadas y sustanciadas por la Entidad Superior de Auditoria y Fiscalización y los órganos internos de control respectivos, según sea el caso, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes;
+
+IV. Imponer sanciones que correspondan a los servidores públicos y particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades. Así como fincar a los responsables el pago de las cantidades por concepto de responsabilidades resarcitorias, las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o Municipal o al Patrimonio de los entes públicos estatales o municipales;
+
+V. Dictar las medidas preventivas y cautelares para evitar que el procedimiento sancionador quede sin materia, y el desvío de recurso obtenidos de manera ilegal;
+
+VI. Conocer de las reclamaciones por responsabilidad objetiva y directa del Estado, cuando así proceda;
+
+VII. Conocer de las resoluciones que impongan sanciones a los servidores públicos en términos de la Ley General de Responsabilidades Administrativas o la relativa del Estado de Morelos por faltas no graves, así como contra las que decidan los recursos administrativos previstos en dichos ordenamientos;
+
+VIII. Conocer y resolver sobre los procedimientos, resoluciones o actos administrativos que en materia administrativa se dicten sobre interpretación y cumplimiento de contratos de obra pública, adquisiciones, arrendamiento y servicios celebrados por las dependencia y entidades de la Administración pública estatal o municipal o de sus organismos auxiliares, las entidades públicas, o por los organismos constitucionalmente autónomos;
+
+IX. Conocer y resolver de los recursos que se interpongan en contra de las resoluciones emitidas por las Salas Especializadas, relativas a:
 
 a) Recurso de apelación, y
 
 b) Los demás recursos previstos en la Ley General de Responsabilidades Administrativas;
 
-IV. Conocer y resolver sobre el recurso de excitativa de justicia interpuesto en contra de las Salas Especializadas;
+X. Conocer y resolver sobre el recurso de excitativa de justicia interpuesto en contra de las Salas Especializadas;
 
-V. Calificar las excusas y recusaciones de los Magistrados de las Salas Especializadas;
+XI. Calificar las excusas y recusaciones de los Magistrados de las Salas Especializadas;
 
-VI. Cursar la correspondencia del Pleno Especializado, autorizándola con su firma;
+XII. Cursar la correspondencia del Pleno Especializado, autorizándola con su firma;
 
-VII. Rendir los informes previos y justificados en los juicios de amparo que se promuevan en contra de actos del Pleno Especializado;
+XIII. Rendir los informes previos y justificados en los juicios de amparo que se promuevan en contra de actos del Pleno Especializado;
 
-VIII. Dictar las medidas que exijan el orden, el buen servicio y la disciplina del Pleno Especializado y exigir se guarde el respeto y consideración debidos;
+XIV. Designar a la persona titular de la Secretaría General de Acuerdos del Pleno Especializado, y al titular de la Defensoría de Oficio del Tribunal, a que se refiere la Ley General de Responsabilidades Administrativas; el cual, además, pertenecerá a la plantilla del Tribunal, pero guardará independencia en su actuar;
 
-IX. Decretar las medidas de apremio para hacer cumplir las determinaciones del Pleno Especializado;
+XV. Dictar las medidas que exijan el orden, el buen servicio y la disciplina del Pleno Especializado y exigir se guarde el respeto y consideración debidos;
 
-X. Solicitar al Gobernador del Estado, Secretarios de Despacho, Presidentes Municipales y demás autoridades el apoyo necesario para hacer cumplir sus determinaciones, y
+XVI. Decretar las medidas de apremio para hacer cumplir las determinaciones del Pleno Especializado;
 
-XI. Informar mensualmente al Pleno del Tribunal de las labores del Pleno Especializado.
+XVII. Solicitar al Gobernador del Estado, Secretarios de Despacho, Presidentes Municipales y demás autoridades el apoyo necesario para hacer cumplir sus determinaciones, e
+
+XVIII. Conocer y resolver en definitiva sobre el procedimiento administrativo sancionatorio en los términos establecidos en la Ley del Notariado del Estado de Morelos.
+
+XIX. Informar mensualmente al Pleno del Tribunal de las labores del Pleno Especializado.
 
 ### Capítulo VII. De la Integración y Competencia de las Salas de Instrucción y las Salas Especializadas
 
 #### Sección Primera. De la Integración de las Salas
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 26.
 
@@ -495,7 +515,7 @@ Las Salas de Instrucción y Salas Especializadas conocerán de los asuntos que p
 
 #### Sección Segunda. De las Atribuciones Genéricas de los Magistrados
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 28.
 
@@ -507,7 +527,7 @@ II. En el caso de asuntos que afecten a particulares y que sean sometidos a su j
 
 III. Proceder a la ejecución de la sentencia;
 
-IV. Resolver el Recurso de Reconsideración previsto en la Ley de Justicia Administrativa;
+IV. Resolver conforme a su competencia los Incidentes, los recursos de Reconsideración y de Queja previstos en la Ley de Justicia Administrativa;
 
 V. Cursar la correspondencia de la Sala, autorizándola con su firma;
 
@@ -1323,7 +1343,7 @@ CUARTA. La Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del
 
 P.O. 15 DE FEBRERO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL QUINIENTOS OCHENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLITÍCA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL QUINIENTOS OCHENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
 
 PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -1408,3 +1428,27 @@ DÉCIMA. Los efectos del régimen transitorio de las reformas constitucionales p
 DÉCIMA SEGUNDA (SIC). En respeto irrestricto a la no retroactividad de la ley, el actual Fiscal Especializado en Combate a la Corrupción, continuará desempeñando su cargo en las condiciones en las que lo ha hecho hasta ahora y podrá cumplir con la temporalidad que establece su nombramiento.
 
 DÉCIMA TERCERA. Una vez que haya concluido la prohibición para realizar modificaciones en materia electoral por lo menos noventa días antes de que inicie el proceso electoral que establece el artículo 115 fracción II de la Constitución Federal, o bien hasta que se haya resuelto el último recurso de impugnación, el Congreso del Estado de Morelos deberá realizar las adecuaciones necesarias al artículo 26 de la Constitución Política del Estado Libre y Soberano de Morelos, para establecer que los magistrados especializados serán únicamente magistrados. Mientras se realiza la modificación antes mencionada, se entenderá para todos los efectos conducentes que, por Magistrados Especializados, se referirá al Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes.
+
+P.O. 31 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL CUATROCIENTOS CUARENTA Y OCHO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS Y DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS".]
+
+PRIMERA. Una vez aprobada la presente reforma, remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado de Morelos.
+
+TERCERA. Derivado de la reforma constitucional contenida en el Decreto Dos Mil Seiscientos Once por el que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos con el propósito de fortalecer al Poder Judicial del Estado, y como una excepción a lo previsto en el artículo 12 de la Ley Orgánica del Tribunal de Justicia Administrativa, el Magistrado Titular de la Tercera Sala continuará fungiendo como Presidente hasta el 31 de diciembre de 2018; a partir del primero de enero de 2019 y hasta el 31 de diciembre de 2020, asumirá la Presidencia del Tribunal el Titular de la Cuarta Sala, y por último a partir del primero de enero de 2021 asumirá la Presidencia del Tribunal de Justicia Administrativa el Titular de la Quinta Sala hasta el 31 de diciembre de 2022; a partir del primero de enero de 2023 se procederá conforme a lo previsto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+CUARTA. Derivado de la reforma constitucional contenida en el Decreto Dos Mil Seiscientos Once por el que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos con el propósito de fortalecer al Poder Judicial del Estado, a la entrada en vigor de la presente reforma, en razón de la Disposición Transitoria SÉPTIMA del texto original de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, publicada el 19 de julio de 2017 en el Periódico Oficial "Tierra y Libertad", número 5514, órgano de difusión del Gobierno del Estado de Morelos, quedan reconocidas las adscripciones originales como Magistrados de las Salas Especializadas en Responsabilidades Administrativas, de los Titulares de las Salas Cuarta y Quinta, por el plazo de nueve años a partir del diecinueve de julio de dos mil diecisiete. Lo anterior sin perjuicio de que dichos Magistrados podrán mantener su adscripción durante todo su encargo, en razón de las consideraciones expuestas en el presente Decreto y emanadas de la Reforma Constitucional, publicada en el Periódico Oficial "Tierra y Libertad", número 5591, de fecha cuatro de abril de este año Disposición Transitoria Séptima.
+
+QUINTA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+SEXTA. El Tribunal de Justicia Administrativa dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones al reglamento interior de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+SÉPTIMA. Conforme a lo previsto por el artículo décimo sexto del Decreto número tres mil doscientos cincuenta, publicado en el Periódico Oficial "Tierra y Libertad", número 5612, de 13 de julio de 2018, en cual se asignaron recursos adicionales no etiquetados al Tribunal de Justicia Administrativa del Estado de Morelos, estos deberán ser destinados para dar cumplimiento a las siguientes disposiciones legales: Artículos 25, fracción XIV, y 32, fracción V, de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos; disposición transitoria décima segunda del Decreto número dos mil ciento noventa y tres, por el que se expiden la Ley de Responsabilidades Administrativas para el Estado de Morelos; la Ley de Justicia Administrativa del Estado de Morelos; la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos; se reforman, adicionan y derogan diversas disposiciones del Código Penal para el Estado de Morelos; de la Ley Orgánica de la Fiscalía General del Estado de Morelos; y de la Ley Orgánica Municipal del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 5591, de 04 de abril de 2018, al Decreto número dos mil seiscientos nueve publicado en el Periódico Oficial "Tierra y Libertad" número 5593 de fecha dieciocho de abril del presente año, al Decreto número dos mil ochocientos cuarenta y nueve; por el que se designa al Titular del Órgano Interno de control del Tribunal de Justicia Administrativa del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 5594, de 25 de abril del 2018, así como el pago de las prestaciones que se adeudan de los años dos mil quince al dos mil diecisiete.
+
+OCTAVA. En tanto entra en funcionamiento la Plataforma Digital Nacional a que se refiere la Ley General de Responsabilidades Administrativas, la autoridad competente continuará llevando el registro de las sanciones y de las medidas de apremio que se impongan a los servidores públicos y particulares por los Órganos Internos (sic) Control del Estado de Morelos y por el Tribunal de Justicia Administrativa del Estado de Morelos, concluyendo el registro al momento de la puesta en marcha de dicha Plataforma, teniendo entonces la obligación de transferir dichos registros a la misma.
+
+NOVENA. De conformidad con lo dispuesto en el artículo 25, fracción XVIII, de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, que por virtud de este instrumento se reforma, los juicios sobre responsabilidad administrativa de Notarios, que se encuentren en trámite o en proceso ante las salas de instrucción del Tribunal de Justicia Administrativa, deberán ser transferidos con los expedientes respectivos, en un plazo no mayor a 5 días hábiles contados a partir de la entrada en vigor de este instrumento, a las Salas Especializadas de dicho Tribunal, a fin de que sean estas últimas quienes continúen con su desahogo hasta su conclusión, en términos de la normativa aplicable, sin que el cambio de autoridad jurisdiccional pueda modificar o alterar su curso o resultado.
+
+En caso de que la sala de instrucción de que se trate no realice el traslado respectivo en el plazo a que se refiere el párrafo anterior, cualquiera de las partes podrá solicitarle por escrito que se lleve a cabo dicha transferencia.
