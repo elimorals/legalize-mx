@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-congreso-de-estado-de-tabasco-115801"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-23"
-last_updated: "2017-11-11"
+last_updated: "2018-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 23 de julio de 2016.
 
@@ -91,7 +91,9 @@ XI. Recinto: El Recinto Oficial del Congreso;
 
 XII. Salón de Sesiones: El lugar destinado dentro del Recinto donde se reúnen los Legisladores en Pleno para tratar los asuntos de su competencia;
 
-XIII. Secretaría General: La Secretaría General del Congreso; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Secretaría de Asuntos Parlamentarios: La Secretaría de Asuntos Parlamentarios del Congreso; y
 
 XIV. Turno: La resolución de trámite que dicta el Presidente, para enviar a una Comisión, Comité o, en su caso, a la Junta, un asunto presentado al Pleno;
 
@@ -107,7 +109,9 @@ Conforme a lo señalado en la Ley, el Recinto es el conjunto arquitectónico que
 
 La Junta procurará, a través de los órganos técnicos, financieros y administrativos, que todos los órganos legislativos, las fracciones parlamentarias, los diputados, los órganos auxiliares y las unidades administrativas cuenten, conforme a la disponibilidad presupuestal, con espacios dignos y funcionales para el adecuado desarrollo de sus trabajos.
 
-La seguridad, la protección civil y el mantenimiento físico del Recinto, incluidos los bienes muebles e inmuebles propiedad del Poder Legislativo, son responsabilidad de la Junta, que prestará a través de la Secretaría General y de las unidades administrativas correspondientes.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+La seguridad, la protección civil y el mantenimiento físico del Recinto, incluidos los bienes muebles e inmuebles propiedad del Poder Legislativo, son responsabilidad de la Junta, que prestará a través de las unidades administrativas correspondientes.
 
 ###### Artículo 6.
 
@@ -131,9 +135,11 @@ Cuando a las sesiones del Pleno, de las Comisiones o de los Comités asistan inv
 
 Para los casos de Sesiones Solemnes, el Presidente asignará el lugar o lugares que conforme al protocolo ocuparán los invitados especiales y servidores públicos asistentes.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 10.
 
-Durante el desarrollo de las sesiones ordinarias, extraordinarias y solemnes, el Secretario General y el Director de Apoyo y Servicios Parlamentarios, así como el personal correspondiente, tendrán un lugar destinado en el Salón de Sesiones, para efectos de apoyar a los órganos directivos y a los diputados para el adecuado desarrollo de sus funciones.
+Durante el desarrollo de las sesiones ordinarias, extraordinarias y solemnes, el Secretario de Asuntos Parlamentarios y el Director de Servicios Legislativos, así como el personal correspondiente, tendrán un lugar destinado en el Salón de Sesiones, para efectos de apoyar a los órganos directivos y a los diputados para el adecuado desarrollo de sus funciones.
 
 ###### Artículo 11.
 
@@ -147,7 +153,9 @@ Sólo cuando haya sesiones privadas así establecidas por Ley o por Acuerdo del 
 
 Una vez declarada válida la elección de Diputados y entregadas las constancias de mayoría y validez o de asignación proporcional, el Presidente de la Mesa Directiva en la Legislatura saliente, entre los días 17 al 19 de agosto del año de la elección, con base en las comunicaciones de las autoridades electorales o las resoluciones jurisdiccionales que sean notificadas al Congreso, convocará por escrito a los diputados electos con los domicilios proporcionados por la autoridad electoral para efectos de la instalación de la Legislatura siguiente.
 
-El Secretario General de la Cámara auxiliará a la Legislatura entrante en su conjunto y a sus integrantes en lo particular, en la preparación y desarrollo de los actos previos y del inicio de su mandato constitucional.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+El Secretario de Asuntos Parlamentarios de la Cámara auxiliará a la Legislatura entrante en su conjunto y a sus integrantes en lo particular, en la preparación y desarrollo de los actos previos y del inicio de su mandato constitucional.
 
 ###### Artículo 13.
 
@@ -215,11 +223,15 @@ IV. Caso fortuito o fuerza mayor; y
 
 V. Permiso escrito otorgado por el Presidente de la mesa, para atender asuntos urgentes de orden personal.
 
-Las inasistencias de los diputados a las sesiones de comisiones debidamente convocadas, o su retiro de las mismas, serán justificadas por el Presidente de la Comisión, por las mismas causas señaladas en el párrafo anterior. En todo caso, el Presidente de la Comisión deberá informar por escrito al Presidente de la Mesa Directiva, de las justificaciones otorgadas y las causas que las motivaron. Deberá informar también, de las inasistencias o retiros injustificados.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Las inasistencias de los diputados a las sesiones debidamente convocadas de las comisiones o de la Junta de Coordinación Política, cuando fuere integrante de alguna de éstas, o su retiro de las mismas, serán justificadas por el Presidente que corresponda, por las mismas causas señaladas en el párrafo anterior. En todo caso, el Presidente de que se trate deberá informar por escrito al Presidente de la Mesa Directiva, de las justificaciones otorgadas y las causas que las motivaron. Deberá informar también, de las inasistencias o retiros injustificados.
 
 Salvo casos excepcionales relacionados con el desahogo del orden del día del Pleno, no se convocará a sesiones de Comisiones o Comités durante el horario en que se programen sesiones del Pleno, que impidan a los diputados asistir a las mismas.
 
-Los diputados que no justifiquen sus inasistencias o ausencias a las sesiones del Pleno o de las Comisiones se harán acreedores a las sanciones disciplinarias consistentes en apercibimiento, descuentos y suspensión temporal o definitiva, según corresponda en términos del artículo 28 de este Reglamento.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Los diputados que no justifiquen sus inasistencias o ausencias a las sesiones del Pleno, de la Junta de Coordinación Política o de las Comisiones se harán acreedores a las sanciones disciplinarias consistentes en apercibimiento, descuentos y suspensión temporal o definitiva, según corresponda en términos del artículo 28 de este Reglamento.
 
 #### SECCIÓN SEGUNDA. DE LAS LICENCIAS
 
@@ -467,25 +479,27 @@ La elección de los miembros de la Mesa Directiva se efectuará en los términos
 
 Para elegir la Mesa Directiva que fungirá el siguiente período ordinario de sesiones, el Presidente de la Mesa Directiva o de la Comisión Permanente saliente convocará a todos los diputados a una reunión previa, que se efectuará al menos, el día hábil anterior al inicio del período ordinario, con el único propósito de que se elija a la Mesa Directiva para el siguiente período y su receso.
 
-La Mesa Directiva o Comisión Permanente saliente conducirá la reunión previa, con el auxilio del Secretario General y el Director de Apoyo y Servicios Parlamentarios.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+La Mesa Directiva o Comisión Permanente saliente conducirá la reunión previa, con el auxilio del Secretario de Asuntos Parlamentarios y el Director efe Servicios Legislativos.
 
 En todo caso, antes del inicio de la primera sesión ordinaria del período ordinario que corresponda, los integrantes de la Mesa Directiva otorgarán la protesta de Ley:
 
 En primer lugar, el Presidente de la Mesa Directiva lo hará en los siguientes términos:
 
-“Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ellas emanen, desempeñar leal y patrióticamente el cargo de Presidente de la Mesa Directiva del Congreso del Estado de Tabasco, de la (número) Legislatura de la Cámara de Diputados, que me ha sido conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado”; si así no lo hiciere, que la Nación y el Estado me lo demanden”
+"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ellas emanen, desempeñar leal y patrióticamente el cargo de Presidente de la Mesa Directiva del Congreso del Estado de Tabasco, de la (número) Legislatura de la Cámara de Diputados, que me ha sido conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado"; si así no lo hiciere, que la Nación y el Estado me lo demanden"
 
 A continuación, el propio Presidente de la Mesa Directiva, tomará la protesta a los demás miembros de la misma, en la forma siguiente:
 
-“¿Protestan ustedes desempeñar leal y patrióticamente el cargo de integrantes de la Mesa Directiva de la (número) Legislatura del Honorable Congreso del Estado, que les ha sido conferido, guardar y hacer guardar la Constitución Política de los Estado (sic) Unidos Mexicanos, la particular del Estado y las Leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado?”
+"¿Protestan ustedes desempeñar leal y patrióticamente el cargo de integrantes de la Mesa Directiva de la (número) Legislatura del Honorable Congreso del Estado, que les ha sido conferido, guardar y hacer guardar la Constitución Política de los Estado (sic) Unidos Mexicanos, la particular del Estado y las Leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado?"
 
 Los Diputados electos como integrantes de la Mesa responderán:
 
-“Sí, protesto.”
+"Sí, protesto."
 
 El Presidente proseguirá:
 
-“Si así lo hicieren, que la Nación y el Estado se los premie y, si no, que se los demande”.
+"Si así lo hicieren, que la Nación y el Estado se los premie y, si no, que se los demande".
 
 ###### Artículo 41.
 
@@ -547,13 +561,19 @@ La Junta como Órgano de Gobierno del Congreso, representativo de la pluralidad 
 
 Como órgano directivo de orden político y parlamentario, la Junta tiene las facultades y cumple las obligaciones señaladas en el artículo 55, fracciones I, II, III, V, X, XIII, XIV y XV, de la Ley.
 
-En su condición de órgano directivo de orden administrativo, la Junta tiene las facultades y cumple las obligaciones señaladas en el artículo 55, fracciones IV, VI, VII, VIII, IX, XI y XII, de la Ley. Para tal efecto se auxiliará de las Direcciones de Finanzas y de Administración, que dependen directamente de la propia Junta.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-Sin perjuicio de lo anterior, la Junta podrá requerir directamente el apoyo de las áreas administrativas dependientes de la Secretaria General.
+En su condición de órgano directivo de orden administrativo, la Junta tiene las facultades y cumple las obligaciones señaladas en el artículo 55, fracciones IV, VI, VII, VIII, IX, XI y XII, de la Ley. Para tal efecto se auxiliará de la Dirección de Administración y Finanzas que dependen directamente de la propia Junta.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Sin perjuicio de lo anterior, la Junta podrá requerir directamente el apoyo de las otras áreas y unidades administrativas a que se refiere el artículo 60 de la Ley, las cuales también dependen directamente de la misma Junta.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 52.
 
-Las decisiones o acuerdos de la Junta se tomarán por mayoría de votos de sus miembros presentes, mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su Fracción Parlamentaria; en caso de empate, el Presidente tendrá voto de calidad.
+Las decisiones o acuerdos de la Junta se tomarán por mayoría de votos de sus miembros mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su Fracción Parlamentaria; en caso de empate, el Presidente tendrá voto de calidad.
 
 ###### Artículo 53.
 
@@ -593,57 +613,45 @@ Cuando en un asunto se precise que alguna Comisión deba presentar una opinión 
 
 En todo caso, en el dictamen que se apruebe se deberá hacer mención de la opinión rendida y del sentido de la misma, razonando su procedencia o no.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 58.
 
 Las comisiones tendrán las facultades y obligaciones de carácter común que establece el artículo 65 de la Ley y la competencia por materia que se derive de su denominación.
 
 De manera específica las Comisiones Ordinarias, tendrán las facultades y obligaciones siguientes:
 
-I. Asuntos de la Frontera Sur:
+I. Bienestar Social, Asuntos Indígenas, Atención a Grupos Vulnerables, Adultos Mayores y Personas con Discapacidades:
 
-a) Analizar y dictaminar respecto de las iniciativas y conocer de los asuntos derivados de los compromisos, facultades y obligaciones del Estado de Tabasco, en relación con la región fronteriza internacional que comprende su territorio;
+a) Opinar o dictaminar respecto a las iniciativas y propuestas de modificaciones a las leyes que incidan de manera directa en los planes, programas y políticas públicas en materias de desarrollo social; pueblos, comunidades y habitantes indígenas; y atención a grupos vulnerables, personas con características especiales y adultos en plenitud;
 
-b) Promover el estrechamiento de los vínculos sociales, políticos, económicos y culturales, entre las regiones fronterizas y sus poblaciones;
+b) Analizar y evaluar las políticas y programas de desarrollo social en el estado y los municipios, para determinar la operatividad y actualización de la legislación y demás normatividad estatal o federal aplicable en la materia, considerando la participación de las diferentes dependencias y entidades de la Administración Pública Estatal y en su caso de los Gobiernos Municipales;
 
-c) Promover acciones de participación de las autoridades competentes y ciudadanos, en los temas de interés común, a fin de diseñar las leyes, decretos y acuerdos que sean necesarios, para promover el desarrollo de la Frontera Sur del Estado;
+c) Promover, foros, encuentros y debates con instancias de los sectores público, social y privado, sobre los instrumentos legislativos en materia de desarrollo social, con objeto de permitir a las instancias administrativas gubernamentales brindar mejores servicios a la población en esos rubros y ampliar su cobertura;
 
-d) Mantener relación con las comisiones respectivas del Congreso de la Unión, de las legislaturas locales y de los Congresos de los países fronterizos, para impulsar acciones conjuntas, ante las instancias competentes; a fin de atender y resolver la problemática de la Frontera Sur y fomentar el desarrollo de la región;
+d) Formular análisis y recomendaciones respecto de los programas federales, estatales y municipales de desarrollo social, buscando el beneficio de los sectores sociales más desprotegidos en las zonas rurales y urbanas, en especial para las personas discapacitadas, con el propósito de elevar el nivel de vida de la población;
 
-e) Promover acciones para hacer efectivos los derechos humanos de los migrantes que transitan por territorio tabasqueño; y
+e) Coadyuvar en la solución de los problemas que enfrenten las comunidades indígenas, derivados de la interacción de entes públicos de los diferentes órdenes de gobierno o de particulares, con motivo de la realización de obras o programas que incidan o puedan afectar su entorno o sus derechos;
 
-f) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+f) Llevar a cabo acciones y gestiones que beneficien social, económica y culturalmente a los indígenas tabasqueños, buscando y vigilando, además, que reciban el trato y respeto que se merecen;
 
-II. Asuntos Indígenas:
+g) Conocer y dictaminar, en el ámbito de la competencia estatal, sobre los asuntos tendientes al cumplimiento de las disposiciones contenidas en los artículos 1, 2, 4, 18 y 115, de la Constitución Política de los Estados Unidos Mexicanos, en relación a las comunidades y pueblos indígenas existentes en la entidad;
 
-a) Conocer, proponer, gestionar y dictaminar en todo lo relacionado con las leyes locales aplicables a los pueblos, comunidades y habitantes indígenas del Estado;
+h) Coadyuvar en la vigilancia de la aplicación del artículo 27 de la Constitución General de la República y demás leyes y reglamentos agrarios, referidos a las poblaciones y comunidades indígenas;
 
-b) Coadyuvar en la solución de los problemas que enfrenten las comunidades indígenas, derivados de la interacción de entes públicos de los diferentes órdenes de gobierno o de particulares, con motivo de la realización de obras o programas que incidan o puedan afectar su entorno o sus derechos;
+i) Impulsar mecanismos de difusión e información que permitan concientizar a la población acerca del marco jurídico estatal que rige los derechos y obligaciones de grupos vulnerables, personas con características especiales y adultos en plenitud, así como sus avances, alcances y resultados;
 
-c) Llevar a cabo acciones y gestiones que beneficien social, económica y culturalmente a los indígenas tabasqueños, buscando y vigilando, además, que reciban el trato y respeto que se merecen;
+j) Coadyuvar con las diferentes instituciones y entes públicos de los diferentes órdenes de gobiernos, que atiendan o cumplan responsabilidades respecto de los grupos vulnerables;
 
-d) Conocer y dictaminar, en el ámbito de la competencia estatal, sobre los asuntos tendientes al cumplimiento de las disposiciones contenidas en los artículos 1, 2, 4, 18 y 115, de la Constitución Política de los Estados Unidos Mexicanos, en relación a las comunidades y pueblos indígenas existentes en la entidad;
+k) Dar seguimiento y opinar respecto de las políticas públicas que conforme a los planes y programas estatales y municipales de desarrollo, se implementen para mejorar las condiciones de los grupos vulnerables y los individuos que los integran;
 
-e) Coadyuvar en la vigilancia de la aplicación del artículo 27 de la Constitución General de la República y demás leyes y reglamentos agrarios, referidos a las poblaciones y comunidades indígenas; y
+l) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-f) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-III. Atención a Grupos Vulnerables, Personas con Discapacidad y Adultos en Plenitud:
-
-a) Opinar o dictaminar respecto de las iniciativas de ley y de las propuestas de reformas, que posibiliten el desarrollo e integración social de grupos vulnerables, personas con características especiales y adultos en plenitud;
-
-b) Impulsar mecanismos de difusión e información que permitan concientizar a la población acerca del marco jurídico estatal que rige los derechos y obligaciones de grupos vulnerables, personas con características especiales y adultos en plenitud, así como sus avances, alcances y resultados;
-
-c) Coadyuvar con las diferentes instituciones y entes públicos de los diferentes órdenes de gobiernos, que atiendan o cumplan responsabilidades respecto de los grupos vulnerables;
-
-d) Dar seguimiento y opinar respecto de las políticas públicas que conforme a los planes y programas estatales y municipales de desarrollo, se implementen para mejorar las condiciones de los grupos vulnerables y los individuos que los integran; y
-
-e) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-IV. Comunicaciones y Transportes, Tránsito y Vialidad:
+II. Comunicaciones y Transportes, Tránsito y Vialidad:
 
 a) Dictaminar u opinar respecto de las iniciativas de leyes y decretos o propuestas relacionados con el sector de comunicaciones y transportes, que sean de la competencia estatal;
 
-b) Analizar y proponer soluciones legislativas o reglamentarias a las disposiciones de tránsito y vialidad, relacionadas con el control y el orden de la circulación vehicular y peatonal en las vías públicas del Estado y de los Municipios;
+b) Analizar y proponer soluciones legislativas o reglamentarias, a las disposiciones de tránsito y vialidad, relacionadas con el control y el orden de la circulación vehicular y peatonal en las vías públicas del Estado y de los Municipios;
 
 c) Investigar y proponer soluciones sobre los asuntos relacionados con las vías de comunicaciones y transportes; así como con los medios y sistemas de comunicación, sus concesiones y funcionamiento;
 
@@ -651,25 +659,13 @@ d) Mantener estrecha relación con todos los organismos de esta materia, para qu
 
 e) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-V. Desarrollo Social:
+III. Derechos Humanos, Igualdad de Género y Asuntos de la Frontera Sur:
 
-a) Opinar o dictaminar respecto a las iniciativas y propuestas de modificaciones a las leyes que incidan de manera directa en los planes, programas y políticas públicas en materia de Desarrollo Social;
-
-b) Analizar y evaluar las políticas y programas de desarrollo social en el estado y los municipios, para determinar la operatividad y actualización de la legislación y demás normatividad estatal o federal aplicable en la materia, considerando la participación de las diferentes dependencias y entidades de la Administración Pública Estatal y en su caso de los Gobiernos Municipales;
-
-c) Promover, foros, encuentros y debates con instancias de los sectores público, social y privado, sobre los instrumentos legislativos en materia de desarrollo social, con objeto de permitir a las instancias administrativas gubernamentales brindar mejores servicios a la población en esos rubros y ampliar su cobertura;
-
-d) Formular análisis y recomendaciones respecto de los programas federales, estatales y municipales de desarrollo social, buscando el beneficio de los sectores sociales más desprotegidos en las zonas rurales y urbanas, en especial para las personas discapacitadas, con el propósito de elevar el nivel de vida de la población; y
-
-e) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-VI. Derechos Humanos:
-
-a) Conocer, estudiar y dictaminar en todo lo relacionado con las reformas, adiciones y derogaciones a las leyes relativas a los derechos humanos;
+a) Conocer, estudiar y dictaminar en todo lo relacionado con las reformas, adiciones y derogaciones a las leyes relativas a los derechos humanos, igualdad de género y asuntos de la frontera sur;
 
 b) Expedir la Convocatoria para la designación del Presidente y del Consejo Consultivo de la Comisión Estatal de Derechos Humanos;
 
-c) Conocer y dictaminar, en unión de la Comisión de Gobernación y Puntos Constitucionales, sobre la licencia, renuncia o falta absoluta del Presidente de la Comisión Estatal de Derechos Humanos;
+c) Conocer y dictaminar, en unión de la Comisión de Gobernación y Puntos Constitucionales, sobre la licencia, renuncia o falta absoluta del Presidente de la Comisión Estatal de Derechos Humanos,
 
 d) Conocer y dictaminar, en unión de la Comisión de Justicia y Gran Jurado, sobre las propuestas de designación del Presidente de la Comisión Estatal de Derechos Humanos y de su Consejo Consultivo;
 
@@ -677,11 +673,25 @@ e) Promover el estudio, enseñanza, divulgación y respeto a los derechos humano
 
 f) Conocer y opinar sobre los informes y actividades de la Comisión Estatal de Derechos Humanos;
 
-g) Atender y orientar, a los ciudadanos que así lo soliciten, respecto del procedimiento a seguir para reclamar violaciones a sus derechos; y
+g) Atender y orientar, a los ciudadanos que así lo soliciten, respecto del procedimiento a seguir para reclamar violaciones a sus derechos;
 
-h) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+h) Conocer y opinar sobre los programas, acciones y políticas públicas que ejecuten el gobierno estatal y los municipios para la atención y superación de las mujeres, en lo social, económico y cultural;
 
-VII. Desarrollo Agropecuario, Forestal y Pesquero:
+i) Impulsar acciones en los órdenes de gobierno federal, estatal o municipal, que incidan en el abatimiento de los índices de violencia en contra de las mujeres;
+
+j) Promover la equidad entre los géneros y conocer de asuntos que se relacionan con la discriminación y maltrato de personas por razones de género o preferencia sexual, raza, edad, credo religioso, ideología o filiación política y situación socioeconómica entre otros;
+
+k) Promover el estrechamiento de los vínculos sociales, políticos, económicos y culturales, entre las regiones fronterizas y sus poblaciones;
+
+l) Promover acciones de participación de las autoridades competentes y ciudadanos, en los temas de interés común, a fin de diseñar las leyes, decretos y acuerdos que sean necesarios, para promover el desarrollo de la Frontera Sur del Estado;
+
+m) Mantener relación con las comisiones respectivas del Congreso de la Unión, de las legislaturas locales y de los Congresos de los países fronterizos, para impulsar acciones conjuntas, ante las instancias competentes; a fin de atender y resolver la problemática de la Frontera Sur y fomentar el desarrollo de la región;
+
+n) Promover acciones para hacer efectivos los derechos humanos de los migrantes que transitan por territorio tabasqueño; y
+
+ñ) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+
+IV. Desarrollo Agropecuario, Forestal y Pesquero:
 
 a) Conocer y dictaminar de las iniciativas y proposiciones legislativas y parlamentarias relacionadas con el sector agropecuario, forestal y pesquero;
 
@@ -695,11 +705,11 @@ e) Promover y realizar todas las gestiones necesarias para el desarrollo de indu
 
 f) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-VIII. Educación, Cultura, Ciencia y Tecnología:
+V. Educación, Ciencia y Tecnología, Cultura, Infancia, Juventud y Deporte:
 
-a) Dictaminar en lo relativo a las reformas y adiciones de las leyes de Educación, de Profesiones, de instituciones educativas, así como las relacionadas con la Cultura, Ciencia y Tecnología; y en general, de aquellas que tiendan a la regulación de las mismas, en el ámbito de competencia estatal y municipal;
+a) Dictaminar en lo relativo a las reformas y adiciones de las leyes de Educación, de Profesiones, de instituciones educativas, así como las relacionadas con la cultura, ciencia y tecnología, infancia, juventud y deporte; y en general, de aquellas que tiendan a la regulación de las mismas, en el ámbito de competencia estatal y municipal;
 
-b) Estudiar y dictaminar en todo lo referente a educación, cultura, servicios educativos, ciencia y tecnología, vigilando el correcto cumplimiento de lo dispuesto en los artículos 2º, Apartado B, fracción II, y 3° de la Constitución General de la República, y de las disposiciones de las leyes federal y local en la materia con el fin de desarrollar y acrecentar el nivel educativo del pueblo;
+b) Estudiar y dictaminar en todo lo referente a educación, cultura, servicios educativos, ciencia y tecnología, vigilando el correcto cumplimiento de lo dispuesto en los artículos 2°, Apartado B, fracción II, y 3° de la Constitución General de la República, y de las disposiciones de las leyes federal y local en la materia con el fin de desarrollar y acrecentar el nivel educativo del pueblo;
 
 c) Promover ante las instancias correspondientes la creación de instalaciones educativas, y culturales suficientes y adecuadas; así como programas de vivienda digna para los maestros, a fin de procurar su permanencia en las comunidades;
 
@@ -707,41 +717,19 @@ d) Impulsar políticas, programas y acciones que contribuyan al desarrollo cient
 
 e) Impulsar el crecimiento y la consolidación de la comunidad científica y académica en nuestra entidad;
 
-f) Apoyar el otorgamiento de mayores recursos en materia de Educación, Cultura, Ciencia y Tecnología;
+f) Apoyar el otorgamiento de mayores recursos en materia de educación, cultura, ciencia y tecnología;
 
-g) Establecer mecanismos legislativos que incentiven la inversión del sector privado en investigación y desarrollo de la educación, cultura, ciencia y tecnología; y
+g) Establecer mecanismos legislativos que incentiven la inversión del sector privado en investigación y desarrollo de la educación, cultura, ciencia y tecnología, y deporte;
 
-h) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+h) Conocer y dictaminar de los asuntos relacionados con los programas y acciones que ejecuten los tres órdenes de gobierno, sus dependencias y entidades, para el desarrollo social, económico, cultural y deportivo de la población infantil y de la juventud del Estado;
 
-IX. Energía, Recursos Naturales y Protección Ambiental:
+i) Conocer y dictaminar en coordinación con las comisiones respectivas sobre las leyes, sus modificaciones y reformas, que tiendan a regular y proteger los derechos y obligaciones de los niños y jóvenes del Estado;
 
-a) Estudiar y dictaminar lo relacionado con iniciativas y propuestas referidas al desarrollo sustentable, a la protección del ambiente, buscando siempre la preservación del equilibrio ecológico en lo que corresponde al ámbito estatal;
+j) Estudiar y dictaminar en todo lo referente a recreación y deporte; y
 
-b) Coadyuvar en las acciones donde se involucre a la ciudadanía y a la población escolar, para que a través de los medios masivos de comunicación den a conocer, en coordinación con la dependencia del ramo, las campañas de concientización para la preservación del equilibrio ecológico y del medio ambiente;
+k) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-c) Fomentar campañas con el apoyo de cuadros técnicos, científicos y académicos, que planteen soluciones a los problemas ambientales y la preservación de los ecosistemas;
-
-d) Conocer y dictaminar lo relativo a convenios sobre protección y mejoramiento ambiental, que, en su caso, celebre el Ejecutivo con las demás entidades federativas y con la Federación;
-
-e) Coadyuvar en la investigación técnico industrial, en materia de energía y recursos naturales no renovables; promover el desarrollo de los energéticos, de la industria petrolera, petroquímica básica, minera, eléctrica y nuclear; y
-
-f) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
-
-X. Igualdad de Género.
-
-a) Conocer, dictaminar o resolver, sobre las iniciativas de ley o decreto y demás propuestas relacionadas con la igualdad y equidad de género;
-
-b) Conocer y opinar sobre los programas, acciones y políticas públicas que ejecuten el gobierno estatal y los municipios para la atención y superación de las mujeres, en lo social, económico y cultural;
-
-c) Impulsar acciones en los órdenes de gobierno federal, estatal o municipal, que incidan en el abatimiento de los índices de violencia en contra de las mujeres;
-
-d) Promover la equidad entre los géneros y conocer de asuntos que se relacionan con la discriminación y maltrato de personas por razones de género o preferencia sexual, raza, edad, credo religioso, ideología o filiación política y situación socioeconómica entre otros; y
-
-e) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-XI. Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico:
+VI. Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico:
 
 a) Analizar y dictaminar sobre el fomento, regulación y promoción del desarrollo de la industria pequeña, mediana y rural, así como auspiciar la organización de productores industriales y la investigación técnico industrial;
 
@@ -763,11 +751,11 @@ i) Analizar y dictaminar lo relativo a la creación de organismos que auxilien a
 
 j) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-XII. Fortalecimiento Municipal:
+VII. Fortalecimiento Municipal y Trabajo:
 
 a) Revisar el marco constitucional y legal que garantice el fortalecimiento equilibrado ajustando su actuación al marco jurídico que impone la Constitución General de la República, la particular del Estado y la Ley Orgánica de los Municipios del Estado y demás legislación aplicable;
 
-b) Conocer y dictaminar todas las iniciativas que incidan en la vida de los municipios;
+b) Conocer y dictaminar todas las iniciativas que incidan en la vida de los municipios, y propuestas de modificación a la Ley de tos Trabajadores al Servicio del Estado y las que contemplen disposiciones relativas a la previsión social;
 
 c) Promover la consulta popular para la elaboración de los planes municipales de desarrollo;
 
@@ -775,11 +763,15 @@ d) Vigilar que los ayuntamientos den cabal cumplimiento como órgano colegiado a
 
 e) Coadyuvar para consolidar un nuevo régimen hacendario que contribuya al desarrollo municipal;
 
-f) Recopilar los programas operativos anuales, municipales, así como los diversos convenios celebrados entre los municipios entre sí y con las instancias federal y estatal. Dichos programas y convenios, estarán a disposición de todos los diputados; y
+f) Recopilar los programas operativos anuales, municipales, así como los diversos convenios celebrados entre los municipios entre sí y con las instancias federal y estatal. Dichos programas y convenios, estarán a disposición de todos los diputados;
 
-g) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+g) De todos los asuntos referentes a las relaciones obrero-patronales, y mejoramiento de las clases trabajadoras;
 
-XIII. Gobernación y Puntos Constitucionales, conocerá y dictaminará de:
+h) Promoverá el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales vigentes; y
+
+i) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+
+VIII. Gobernación y Puntos Constitucionales, conocerá y dictaminará de:
 
 a) La intermediación y promoción de la solución negociada de los conflictos políticos que surjan entre los Municipios y el Estado, y de aquellos que se relacionen con los límites y la división territorial de los Municipios;
 
@@ -799,7 +791,7 @@ h) De la expedición, reformas, adición, derogación y abrogación de las disti
 
 i) De las iniciativas de creación, reforma, adición y derogación de leyes o decretos, no reservados expresamente a otra Comisión;
 
-j) Conocer junto con la Comisión de Justicia y Gran Jurado, de la designación de los Magistrados del Tribunal de lo Contencioso Administrativo;
+j) Conocer junto con la Comisión Instructora de la Cámara, Justicia y Gran Jurado, y Reglamento y Prácticas Parlamentarias de la designación de los Magistrados del Tribunal de lo Contencioso Administrativo;
 
 k) La designación del ciudadano que en términos de ley, deba suplir al gobernador en sus faltas temporales o absolutas;
 
@@ -809,7 +801,7 @@ m) De las iniciativas de creación, reformas, adiciones, derogaciones y abrogaci
 
 n) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-XIV. Hacienda y Finanzas, conocerá y dictaminará de:
+IX. Hacienda y Finanzas, conocerá y dictaminará de:
 
 a) Las iniciativas de ley de ingresos y de las propuestas de presupuestos de egresos del Estado y de los municipios, así como de todo lo relacionado al patrimonio de los mismos;
 
@@ -823,23 +815,13 @@ e) La creación de impuestos extraordinarios o especiales, estatales o municipal
 
 f) La aplicación del gasto público y partidas presupuestales, de acuerdo a lo establecido por el artículo 36, fracción XXXI, de la Constitución Política del Estado;
 
-g) Conocer y dictaminar, en unión con la Comisión de Gobernación y Puntos Constitucionales, sobre la creación o supresión de empleos públicos;
+g) En unión con la Comisión de Gobernación y Puntos Constitucionales, sobre la creación o supresión de empleos públicos;
 
 h) Recopilar los programas operativos anuales del Estado, así como los diversos convenios celebrados por el Ejecutivo estatal, con las instancias federal y municipal. Dichos programas y convenios, estarán a disposición de todos los diputados; y
 
-i) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+i) Sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-XV. Infancia, Juventud, Recreación y Deporte:
-
-a) Conocer y dictaminar de los asuntos relacionados con los programas y acciones que ejecuten los tres órdenes de gobierno, sus dependencias y entidades, para el desarrollo social, económico, cultural y deportivo de la población infantil y de la juventud del Estado;
-
-b) Conocer y dictaminar en coordinación con las comisiones respectivas sobre las leyes, sus modificaciones y reformas, que tiendan a regular y proteger los derechos y obligaciones de los niños y jóvenes del Estado;
-
-c) Estudiar y dictaminar en todo lo referente a recreación y deporte; y
-
-d) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-XVI. Inspectora de Hacienda, Primera:
+X. Inspectora de Hacienda, Primera:
 
 a) Examinar y dictaminar, con fundamento en los informes técnicos y financieros y demás soportes documentales que rinda el Órgano Superior de Fiscalización del Estado, sobre las cuentas públicas de los poderes del Estado y de los órganos constitucionales autónomos;
 
@@ -851,19 +833,19 @@ d) En el ámbito de su competencia, vigilar al Órgano Superior de Fiscalizació
 
 e) Conocer y dictaminar, cuando el Órgano Superior de Fiscalización, al realizar las evaluaciones señaladas en los tres últimos párrafos del artículo 41, de la Constitución local, correspondiente a los tres poderes del Estado, detecte irregularidades y las haga del conocimiento del Congreso;
 
-f) Ordenar al Órgano Superior de Fiscalización del Estado, en los (sic) que respecta a los tres poderes del Estado y órganos constitucionales autónomos, la depuración de los documentos de la cuenta pública, así como de los papeles de trabajo e informes resultantes de su revisión, glosa y auditoría con antigüedad de más de seis años; determinando los que deben destruirse o conservarse; y
+f) Ordenar al Órgano Superior de Fiscalización del Estado, en los que respecta a los tres poderes del Estado y órganos constitucionales autónomos, la depuración de los documentos de la cuenta pública, así como de los papeles de trabajo e informes resultantes de su revisión, glosa y auditoría con antigüedad de más de seis años; determinando los que deben destruirse o conservarse; y
 
 g) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-XVII. Inspectora de Hacienda, Segunda:
+XI. Inspectora de Hacienda, Segunda:
 
-a) Además de las atribuciones señaladas para la Inspectora Primera de Hacienda pero aplicándolas en su competencia y jurisdicción, deberá vigilar que las cuentas públicas de los municipios de Balancán, Centla, Emiliano Zapata, Jalapa, Jonuta, Macuspana, Tacotalpa, Teapa y Tenosique, del Estado de Tabasco, queden concluidas y glosadas, así como, entregados los informes técnicos, financieros y los demás soportes documentales suficientes que en términos de ley, presente el órgano técnico al Congreso a más tardar el primero de agosto del año siguiente de que se trate;
+a) Además de tas atribuciones señaladas para la Inspectora Primera de Hacienda pero aplicándolas en su competencia y jurisdicción, deberá vigilar que las cuentas públicas de los municipios de Balancán, Centla, Emiliano Zapata, Jalapa, Jonuta, Macuspana, Tacotalpa, Teapa y Tenosique, del Estado de Tabasco, queden concluidas y glosadas, así como, entregados los informes técnicos, financieros y los demás soportes documentales suficientes que en términos de ley, presente el órgano técnico al Congreso a más tardar el primero de agosto del año siguiente de que se trate;
 
-b) Examinar y dictaminar, con fundamento en los informes técnicos y financieros y demás soportes documentales que rinda el Órgano Superior de Fiscalización, sobre las cuentas públicas de los municipios señalados en el inciso anterior; y
+b) Examinar y dictaminar, con fundamento en los informes técnicos y financieros y demás soportes documentales que rinda él Órgano Superior de Fiscalización, sobre las cuentas públicas de los municipios señalados en el inciso anterior; y
 
 c) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-XVIII. Inspectora de Hacienda, Tercera:
+XII. Inspectora de Hacienda, Tercera:
 
 a) Además de las atribuciones señaladas para la Inspectora Primera de Hacienda pero aplicándolas en su competencia y jurisdicción, deberá vigilar que las cuentas públicas de los municipios de Cárdenas, Centro, Comalcalco, Cunduacán, Huimanguillo, Jalpa de Méndez, Nacajuca y Paraíso, del Estado de Tabasco queden concluidas y glosadas, así como, entregados los informes técnicos, financieros y los demás soportes documentales suficientes que en términos de ley, presente el órgano técnico al Congreso a más tardar el primero de agosto del año siguiente de que se trate;
 
@@ -871,27 +853,43 @@ b) Examinar y dictaminar, con fundamento en los informes técnicos y financieros
 
 c) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-XIX. Instructora de la Cámara:
+XIII. Instructora de la Cámara, Justicia y Gran Jurado, y Reglamento y Prácticas Parlamentarias:
 
-a) Conocer y dictaminar de las denuncias, querellas, requerimientos del ministerio público o acusaciones que le turne el Congreso o las comisiones unidas de Gobernación y Puntos Constitucionales y de Justicia y Gran Jurado, en los casos que ameriten la incoación de procedimientos en materia de juicio político o de declaración de procedencia, en los términos de la Constitución Política del Estado Libre y Soberano de Tabasco y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+a) Conocer y dictaminar de las denuncias, querellas, requerimientos del ministerio público o acusaciones que le turne el Congreso o la Comisión de Gobernación y Puntos Constitucionales, en los casos que ameriten la incoación de procedimientos en materia de juicio político o de declaración de procedencia, en los términos de la Constitución Política del Estado Libre y Soberano de Tabasco y la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-XX. Justicia y Gran Jurado:
+b) Conocer y dictaminar sobre las propuestas de designación de Magistrados del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje del Estado y del Presidente de la Comisión Estatal de los Derechos Humanos; en este último de manera unida con la Comisión de Derechos Humanos, Igualdad de Género y Asuntos de la Frontera Sur;
 
-a) Conocer y dictaminar sobre las propuestas de designación de Magistrados del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje del Estado y del Presidente de la Comisión Estatal de los Derechos Humanos; en este último de manera unida con la Comisión Ordinaria de Derechos Humanos;
+c) Conocer y dictaminar sobre las denuncias o querellas a que hace alusión la Ley de Responsabilidades de los Servidores Públicos, en unión de la Comisión de Gobernación y Puntos Constitucionales;
 
-b) Conocer y dictaminar sobre las denuncias o querellas a que hace alusión la Ley de Responsabilidades de los Servidores Públicos, en unión de la Comisión de Gobernación y Puntos Constitucionales;
+d) Conocer y dictaminar sobre las recompensas y honores que deban otorgarse a quienes presten servicios importantes a la Patria, Estado, Municipios o a la Humanidad;
 
-c) Conocer y dictaminar sobre las recompensas y honores que deban otorgarse a quienes presten servicios importantes a la Patria, Estado, Municipios o a la Humanidad;
+e) Procurar y vigilar la estricta aplicación de la Ley de Justicia Administrativa para el Estado de Tabasco;
 
-d) Procurar y vigilar la estricta aplicación de la Ley de Justicia Administrativa para el Estado de Tabasco;
+f) Conocer y dictaminar, junto con la Comisión de Gobernación y Puntos Constitucionales, sobre la designación de los Magistrados del Tribunal de lo Contencioso Administrativo;
 
-e) Conocer y dictaminar, junto con la Comisión de Gobernación y Puntos Constitucionales, sobre la designación de los Magistrados del Tribunal de lo Contencioso Administrativo;
+g) Conocer y dictaminar sobre la ratificación del Consejero propuesto por el Ejecutivo del Estado y sobre la designación que le corresponda al Congreso, para integrar ambos, el Consejo de la Judicatura del Poder Judicial del Estado;
 
-f) Conocer y dictaminar sobre la ratificación del Consejero propuesto por el Ejecutivo del Estado y sobre la designación que le corresponda al Congreso, para integrar ambos, el Consejo de la Judicatura del Poder Judicial del Estado; y
+h) Conocer y dictaminar todo lo relacionado con las iniciativas y propuestas de reformas a la Constitución Política del Estado concerniente al Poder Legislativo Estatal, así como de su Ley Orgánica, el presente Reglamento, Manuales y demás ordenamientos que deriven del marco jurídico del Congreso;
 
-g) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+i) Elaborar iniciativas de Ley o Decreto, así como propuestas de acuerdo, tendientes a la adecuación y perfeccionamiento de las normas que rigen el trabajo legislativo;
 
-XXI. Ordenamiento Territorial y Obras Públicas:
+j) Realizar los estudios que versen sobre disposiciones normativas, regímenes y prácticas parlamentarias;
+
+k) Proponer al pleno los protocolos o acuerdos para la comparecencia de servidores públicos ante el pleno;
+
+l) Desahogar consultas en materia de derecho y prácticas parlamentarias;
+
+m) Promover la realización de estudios e incremento del acervo documental especializado en derecho parlamentario;
+
+n) Promover la edición de publicaciones que se consideren de interés en el desarrollo de la actividad parlamentaria;
+
+ñ) Conocer y dictaminar los temas relacionados con la inscripción de Leyendas, Letras Doradas en el Salón de Sesiones, los Premios y Estímulos contemplados por las distintas leyes aplicables, así como de los acuerdos parlamentarios no contemplados por este ordenamiento tomados en las Sesiones;
+
+o) Conocer los informes trimestrales que rindan la Dirección de Apoyo a Comisiones y Proyectos Normativos, y el Instituto de Investigaciones Legislativas; y
+
+p) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+
+XIV. Ordenamiento Territorial y Obras Públicas:
 
 a) Dictaminar todo lo concerniente sobre las leyes y decretos, en su caso, relacionados con las obras públicas en el Estado;
 
@@ -907,23 +905,9 @@ f) Conocer y dictaminar todo lo relacionado con planes de urbanización estatale
 
 g) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-XXII. Protección Civil:
+XV. Recursos Hidráulicos, Energía y Protección Ambiental:
 
-a) Conocer y dar seguimiento a los planes y programas que el Consejo y el Instituto de Protección Civil del Estado, en el marco de los Sistemas Nacional y Estatal de Protección Civil, han elaborado para responder a las contingencias y desastres naturales en Tabasco;
-
-b) Dar seguimiento y trámite correspondiente a las peticiones y propuestas que los ciudadanos formulen en torno a las medidas, planes y programas de protección civil en Tabasco;
-
-c) Fomentar, en coordinación con el consejo y la unidad de protección civil del Estado de Tabasco, la difusión de programas preventivos entre la población civil para actuar en caso de desastres;
-
-d) Gestionar ante el Consejo y el Instituto de Protección Civil y los organismos pertinentes, la realización de campañas escolares de educación para situaciones de emergencia, que informen y preparen a la juventud sobre los desastres naturales propensos de ocurrir en el Estado y cómo actuar frente a ellos;
-
-e) Investigar, en coordinación con las comisiones competentes, las medidas y acciones que enriquezcan el marco normativo y los respectivos programas y planes de acción de protección civil en el Estado; y
-
-f) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-XXIII. Recursos Hidráulicos:
-
-a) Conocer, analizar y dictaminar sobre los asuntos legislativos relacionados con los recursos hidráulicos del Estado;
+a) Conocer, analizar, estudiar y dictaminar sobre los asuntos legislativos relacionados con los recursos hidráulicos del Estado, y propuestas referidas al desarrollo sustentable y protección del ambiente, buscando siempre la preservación del equilibrio ecológico que le corresponde en el ámbito estatal;
 
 b) Solicitar en el ámbito de su competencia información, documentos o la comparecencia de los titulares de las Secretarías del Gobierno del Estado, Presidentes Municipales, Concejos Municipales, Directores y Administradores de los Organismos Descentralizados y Órganos Desconcentrados Estatales o de las Empresas de Participación Estatal Mayoritaria;
 
@@ -933,33 +917,19 @@ d) En el ámbito de competencia estatal, establecer enlaces institucionales con 
 
 e) Establecer reuniones de trabajo y una relación de comunicación con las Secretarias de Ordenamiento Territorial y Obras Públicas, y de Energía, Recursos Naturales y Protección Ambiental; así como la Comisión Estatal de Agua y Saneamiento, la Comisión Nacional del Agua, dependencias, organismos, descentralizados u órganos desconcentrados de carácter estatal y federal para tratar, analizar y atender temas relacionados con el recurso agua en el Estado;
 
-f) Fomentar el establecimiento de una cultura del agua en la población de la Entidad, a través de la realización de campañas con el apoyo de cuadros técnicos, científicos y académicos que tengan que ver con el derecho de las personas a acceder a este recurso, el cuidado y protección del mismo, así como las medidas y acciones a realizar en caso de presentarse desastres relacionados con el agua; y
+f) Fomentar el establecimiento de una cultura del agua en la población de la Entidad, a través de la realización de campañas con el apoyo de cuadros técnicos, científicos y académicos que tengan que ver con el derecho de las personas a acceder a este recurso, el cuidado y protección del mismo, así como las medidas y acciones a realizar en caso de presentarse desastres relacionados con el agua;
 
-g) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+g) Coadyuvar en las acciones donde se involucre a la ciudadanía y a la población escolar, para que a través de los medios masivos de comunicación den a conocer, en coordinación con la dependencia del ramo, las campañas de concientización para la preservación del equilibrio ecológico y del medio ambiente;
 
-XXIV. Reglamento y Prácticas Parlamentarias:
+h) Fomentar campañas con el apoyo de cuadros técnicos, científicos y académicos, que planteen soluciones a los problemas ambientales y la preservación de los ecosistemas;
 
-a) Conocer y dictaminar todo lo relacionado con las iniciativas y propuestas de reformas a la Constitución Política del Estado concerniente al Poder Legislativo Estatal, así como de su Ley Orgánica, el presente Reglamento, Manuales y demás ordenamientos que deriven del marco jurídico del Congreso;
+i) Conocer y dictaminar lo relativo a convenios sobre protección y mejoramiento ambiental, que, en su caso, celebre el Ejecutivo con las demás entidades federativas y con la Federación;
 
-b) Elaborar iniciativas de Ley o Decreto, así como propuestas de acuerdo, tendientes a la adecuación y perfeccionamiento de las normas que rigen el trabajo legislativo;
+j) Coadyuvar en la investigación técnico industrial, en materia de energía y recursos naturales no renovables; promover el desarrollo de los energéticos, de la industria petrolera, petroquímica básica, minera, eléctrica y nuclear; y
 
-c) Realizar los estudios que versen sobre disposiciones normativas, regímenes y prácticas parlamentarias;
+k) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-d) Proponer al pleno los protocolos o acuerdos para la comparecencia de servidores públicos ante el pleno;
-
-e) Desahogar consultas en materia de derecho y prácticas parlamentarias;
-
-f) Promover la realización de estudios e incremento del acervo documental especializado en derecho parlamentario;
-
-g) Promover la edición de publicaciones que se consideren de interés en el desarrollo de la actividad parlamentaria;
-
-h) Conocer y dictaminar los temas relacionados con la inscripción de Leyendas, Letras Doradas en el Salón de Sesiones, los Premios y Estímulos contemplados por las distintas leyes aplicables, así como de los acuerdos parlamentarios no contemplados por este ordenamiento tomados en las Sesiones;
-
-i) Conocer los informes trimestrales que rindan la Dirección de Estudios Legislativos y Proyectos Normativos, y el Instituto de Investigaciones Legislativas; y
-
-j) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-XXV. Salud:
+XVI. Salud:
 
 a) Analizar y dictaminar sobre los asuntos encaminados a mejorar el nivel de salud de la población, procurando principalmente fortalecer las acciones dirigidas a los grupos de escasos recursos económicos;
 
@@ -971,7 +941,7 @@ d) Conocer los programas de salud pública del Estado y de los Municipios, y fun
 
 e) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-XXVI. Seguridad Pública y Procuración de Justicia:
+XVII. Seguridad Pública, Procuración de Justicia y Protección Civil:
 
 a) Analizar y dictaminar, todo lo referente a las facultades y obligaciones de los organismos de seguridad pública;
 
@@ -979,21 +949,21 @@ b) Conocer y dictaminar todo lo relacionado con la prevención del delito y, en 
 
 c) Promover programas y acciones que beneficien la seguridad pública, prevención del delito y la reinserción social de los procesados, sentenciados, reos y menores infractores;
 
-d) Conocer y dictaminar de los asuntos tendentes a lograr una adecuada y eficaz procuración de justicia en el Estado y participar junto con la Comisión de Justicia y Gran Jurado, en el proceso de designación del Fiscal General del Estado, en los términos de los ordenamientos aplicables;
+d) Conocer y dictaminar de los asuntos tendentes a lograr una adecuada y eficaz procuración de justicia en el Estado y participar junto con la Comisión de Instructora de la Cámara, Justicia y Fran (sic) Jurado, y Reglamento y Prácticas Parlamentarias, en el proceso de designación del Fiscal General del Estado, en los términos de los ordenamientos aplicables;
 
-e) Conocer y dictaminar acerca de los convenios de coordinación en materia de seguridad pública que se celebren entre la federación, el gobierno del Estado y los Ayuntamientos o concejos municipales, o entre algunos de ellos; y
+e) Conocer y dictaminar acerca de los convenios de coordinación en materia de seguridad pública que se celebren entre la federación, el gobierno del Estado y los Ayuntamientos o concejos municipales, o entre algunos de ellos;
 
-f) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+f) Conocer y dar seguimiento a los planes y programas que el Consejo y el Instituto de Protección Civil del Estado, en el marco de los Sistemas Nacional y Estatal de Protección Civil, han elaborado para responder a las contingencias y desastres naturales en Tabasco;
 
-XXVII. Trabajo y Previsión Social:
+g) Dar seguimiento y trámite correspondiente a las peticiones y propuestas que los ciudadanos formulen en torno a las medidas, planes y programas de protección civil en Tabasco;
 
-a) Respecto a las iniciativas y propuestas de modificación a la Ley de los Trabajadores al Servicio del Estado y las que contemplen disposiciones relativas a la previsión social;
+h) Fomentar, en coordinación con el consejo y la unidad de protección civil del Estado de Tabasco, la difusión de programas preventivos entre la población civil para actuar en caso de desastres;
 
-b) De todos los asuntos referentes a las relaciones obrero-patronales, y mejoramiento de las clases trabajadoras;
+i) Gestionar ante el Consejo y el Instituto de Protección Civil y los organismos pertinentes, la realización de campañas escolares de educación para situaciones de emergencia, que informen y preparen a la juventud sobre los desastres naturales propensos de ocurrir en el Estado y cómo actuar frente a ellos;
 
-c) Promoverá el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales vigentes; y
+j) Investigar, en coordinación con las comisiones competentes, las medidas y acciones que enriquezcan el marco normativo y los respectivos programas y planes de acción de protección civil en el Estado; y
 
-d) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+k) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
 ###### Artículo 59.
 
@@ -1015,7 +985,9 @@ VII. Establecer relaciones interinstitucionales con las dependencias u organismo
 
 VIII. Las demás que deriven del presente Reglamento y de las normas, disposiciones y acuerdos aplicables.
 
-El Secretario Técnico deberá mantener relaciones de coordinación con la Secretaría General, la Dirección de Apoyo y Servicios Parlamentarios y con las demás Comisiones, a fin de atender de manera expedita y eficiente el estudio de iniciativas, minutas, proposiciones con punto de acuerdo y demás asuntos turnados, así como transmitir los requerimientos de investigación y recibir el apoyo necesario para el cumplimiento de las demás atribuciones parlamentarias que tienen conferidas las comisiones.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+El Secretario Técnico deberá mantener relaciones de coordinación con la Secretaría de Asuntos Parlamentarios, la Dirección de Servicios Legislativos y con las demás Comisiones, a fin de atender de manera expedita y eficiente el estudio de iniciativas, minutas, proposiciones con punto de acuerdo y demás asuntos turnados, así como transmitir los requerimientos de investigación y recibir el apoyo necesario para el cumplimiento de las demás atribuciones parlamentarias que tienen conferidas las comisiones.
 
 ### CAPÍTULO V. DE LOS COMITÉS
 
@@ -1055,9 +1027,11 @@ Las fracciones parlamentarias tienen derecho a recibir los recursos materiales y
 
 En razón de lo anterior, las fracciones parlamentarias deben rendir cuentas de los recursos públicos puestos a su disposición, en términos de las leyes y ordenamientos respectivos, así como de los acuerdos parlamentarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 66.
 
-Los diputados cuyo origen provenga de una candidatura partidista, que al inicio de la Legislatura del año de la elección no se integren a una fracción parlamentaria deben notificarlo mediante escrito con firma autógrafa dirigido al Presidente, por conducto de la Secretaría General.
+Los diputados cuyo origen provenga de una candidatura partidista, que al inicio de la Legislatura del año de la elección no se integren a una fracción parlamentaria deben notificarlo mediante escrito con firma autógrafa dirigido al Presidente, por conducto de la Secretaría de Asuntos Parlamentarios.
 
 No se podrán formar grupos parlamentarios después de haberse formulado la declaratoria correspondiente por parte del Presidente de la Mesa. Tampoco podrán existir fracciones parlamentarias de partidos políticos que no cuenten con registro nacional o local, o que lo hayan obtenido posteriormente al inicio de la Legislatura.
 
@@ -1183,13 +1157,21 @@ Los proyectos de leyes y decretos deberán acompañarse del expediente respectiv
 
 Sólo se podrán omitir los citados requisitos, cuando se trate de otorgar facultades extraordinarias al Gobernador en situaciones de sublevación o trastorno interior, conforme lo señalado en el artículo 51, fracción XIX, de la Constitución.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 87.
 
-Las leyes y decretos que deban pasar al Ejecutivo para su promulgación, se remitirán en original mediante oficios por la Secretaría General, debiendo quedar copia en poder de la Dirección de Apoyo y Servicios Parlamentarios.
+Las leyes y decretos que deban pasar al Ejecutivo para su promulgación, se remitirán en original mediante oficios por la Secretaría de Asuntos Parlamentarios, debiendo quedar copia en poder de la Dirección de Servicios Legislativos y de la Secretaría Particular de la Presidencia de la Junta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 88.
 
-Enviadas las leyes y decretos al Ejecutivo para su promulgación, el Secretario General, a través del Director de Apoyos y Servicios Parlamentarios, tendrá la responsabilidad de darles seguimiento hasta su publicación en el Periódico Oficial del Estado de Tabasco, así como verificar y cotejar que éstos hayan sido publicados en los términos aprobados.
+Enviadas las leyes y decretos al Ejecutivo para su promulgación, el Secretario de Asuntos Parlamentarios, a través del Director de Servicios Legislativos, tendrá la responsabilidad de darles seguimiento hasta su publicación en el Periódico Oficial del Estado de Tabasco, así como verificar y cotejar que éstos hayan sido publicados en los términos aprobados.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Una vez publicado el Decreto, el Secretario de Asuntos Parlamentarios deberá informarlo a la Secretaría Particular de la Presidencia de la Junta, remitiéndole copia de la publicación respectiva.
 
 #### SECCIÓN SEGUNDA. DE LAS PROPOSICIONES CON PUNTO DE ACUERDO Y OTRAS FIGURAS LEGISLATIVAS
 
@@ -1211,9 +1193,11 @@ Las proposiciones con Puntos de Acuerdos y demás figuras legislativas que se pr
 
 #### SECCIÓN TERCERA. DE LOS TURNOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 90.
 
-Corresponde al Presidente de la Mesa, con el auxilio del Secretario General y el Director de Apoyo y Servicios Parlamentarios, dictar los turnos que correspondan a las diferentes iniciativas de ley o decreto, proposiciones de acuerdos y otras figuras legislativas que se sometan al Pleno por los diputados y demás sujetos con derecho a ello.
+Corresponde al Presidente de la Mesa, con el auxilio del Secretario de Asuntos Parlamentarios y del Director de Servicios Legislativos, dictar los turnos que correspondan a las diferentes iniciativas de ley o decreto, proposiciones de acuerdos y otras figuras legislativas que se sometan al Pleno por los diputados y demás sujetos con derecho a ello.
 
 Los turnos se realizarán conforme a las respectivas atribuciones y especialidad de las Comisiones y Comités o, en su caso, de la Junta.
 
@@ -1287,7 +1271,9 @@ Las Comisiones, durante el receso, continuarán el estudio de los asuntos pendie
 
 El dictamen será válido sólo cuando la comisión o comisiones discutan un asunto en reunión y éste se apruebe, por mayoría de sus integrantes presentes.
 
-La comisión o comisiones que emitan dictamen, deberán enviarlo de inmediato a la Mesa Directiva, por conducto de la Secretaría General, para su programación y aprobación en la sesión del pleno.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+La comisión o comisiones que emitan dictamen, deberán enviarlo de inmediato a la Mesa Directiva, por conducto de Ja Secretaría de Asuntos Parlamentarios, para su programación y aprobación en la sesión del pleno.
 
 ###### Artículo 101.
 
@@ -1401,7 +1387,9 @@ Presentada una propuesta de adición o modificación a un dictamen y oídos los 
 
 Cuando el Congreso solicite la comparecencia de algún Titular de las Secretarías del Poder Ejecutivo, se le permitirá instruirse del expediente respectivo, sin que por esto deje de verificarse dicha comparecencia.
 
-Para los efectos del párrafo anterior, el Secretario General del Congreso dará aviso al Titular del Poder Ejecutivo de los asuntos que vayan a tratarse.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Para los efectos del párrafo anterior, el Secretario de Asuntos Parlamentarios del Congreso dará aviso al Titular del Poder Ejecutivo de los asuntos que vayan a tratarse.
 
 ###### Artículo 112.
 
@@ -1477,33 +1465,21 @@ Lo anterior no impedirá el desarrollo de la sesión correspondiente.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 122.
 
-El Congreso, para el debido desempeño y desarrollo de sus actividades de orden parlamentario, contará con una Secretaría General que tendrá bajo su adscripción las unidades administrativas previstas en la Ley. Asimismo, contará con los órganos administrativos que dependen directamente de la Junta previstos en la referida Ley para el buen desempeño de sus funciones.
+El Congreso, para el debido desempeño y desarrollo de sus actividades de orden parlamentario, contará con una Secretaría de Asuntos Parlamentarios que tendrá bajo su adscripción las unidades administrativas previstas en la Ley. Asimismo, contará con los órganos administrativos que dependen directamente de la Junta previstos en la referida Ley para el buen desempeño de sus funciones.
 
 ###### Artículo 123.
 
-El Congreso del Estado contará con una Dirección de Finanzas que dependerá de la Junta, a la cual le corresponderán además de las facultades que le son conferidas por el artículo 62 de la Ley, las siguientes atribuciones:
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-I. Lograr una adecuada recepción, custodia e inversión de los recursos financieros asignados al Congreso del Estado, así como de los flujos de efectivo y pago oportuno de las prestaciones a sus servidores públicos;
-
-II. Controlar y custodiar, de ser el caso, los ingresos de origen distinto al presupuestal que reciba o genere el Congreso del Estado;
-
-III. Coordinar las actividades relativas al pago oportuno de las obligaciones contraídas con terceros por parte del Congreso del Estado;
-
-IV. Conducir las actividades para la apertura de cuentas bancarias y de ser el caso, de los contratos de servicios financieros o de inversión que suscriba el Congreso del Estado;
-
-V. Proponer y aplicar las normas y lineamientos en materia financiera;
-
-VI. Participar en el Comité de Adquisiciones, Arrendamientos y Prestación de Servicios del Congreso;
-
-VII. Ejercer el presupuesto de egresos del Poder Legislativo conforme a los lineamientos que emita la Junta, y en su caso, por acuerdo del Presidente de la Junta, en términos de la normatividad aplicable; y
-
-VIII. Las demás que le señalen la Junta y su Presidente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 124.
 
-El Congreso contará con una Dirección de Administración, que dependerá de la Junta de Coordinación Política, a la cual le corresponderán además de las facultades que le son conferidas por el artículo 61 de la Ley, las siguientes atribuciones:
+El Congreso contará con una Dirección de Administración y Finanzas, que dependerá de la Junta de Coordinación Política, a la cual le corresponderán además de las facultades que le son conferidas por el artículo 61 de la Ley, las siguientes atribuciones:
 
 I. En coordinación con la Unidad de Capacitación y Fomento Permanente, presentar a la consideración de la Junta el programa de capacitación y desarrollo profesional del personal del Congreso;
 
@@ -1517,23 +1493,59 @@ V. Coordinar las actividades de adquisición y contratación de los bienes, serv
 
 VI. Participar en el Comité de Adquisiciones, Arrendamientos y Prestación de Servicios del Congreso; y
 
-VII. Las demás que le señalen la Junta y su Presidente.
+VII. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO II. DE LA SECRETARÍA GENERAL DEL CONGRESO Y LAS ÁREAS ADMINISTRATIVAS A SU ADSCRIPCIÓN
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Lograr una adecuada recepción, custodia e inversión de los recursos financieros asignados al Congreso, así como de los flujos de efectivo y pago oportuno de las prestaciones a sus servidores públicos;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Controlar y custodiar, de ser el caso, los ingresos de origen distinto al presupuestal que reciba o genere el Congreso;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+X. Coordinar las actividades relativas al pago oportuno de las obligaciones contraídas con terceros por parte del Congreso;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Conducir las actividades para la apertura de cuentas bancarias y de ser el caso, de los contratos de servicios financieros o de inversión que suscriba el Congreso;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Proponer y aplicar las normas y lineamientos en materia financiera;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Ejercer el presupuesto de egresos del Poder Legislativo conforme a los lineamientos que emita la Junta, y en su caso, por acuerdo del Presidente de la Junta, en términos de la normatividad aplicable; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Las demás que le señalen la Junta y su Presidente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO II. DE LA SECRETARÍA DE ASUNTOS PARLAMENTARIOS Y LAS ÁREAS ADMINISTRATIVAS DEL CONGRESO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 125.
 
-La Secretaría General coordina y supervisa los servicios parlamentarios y de apoyo técnico de la Cámara de Diputados. La prestación de dichos servicios queda a cargo de las unidades administrativas adscritas a dicha Secretaría.
+La Secretaría de Asuntos Parlamentarios coordina y supervisa los servicios parlamentarios y de apoyo técnico de la Cámara de Diputados. La prestación de dichos servicios queda a cargo de las unidades administrativas adscritas a dicha Secretaría.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 126.
 
-El Secretario General es el encargado de velar que todas y cada una de las unidades administrativas a su cargo realicen con eficiencia las obligaciones señaladas en la Ley, debiendo informar oportunamente al presidente de la Junta cuando algún servidor público no realice su labor adecuadamente, para que se proceda conforme a derecho.
+El Secretario de Asuntos Parlamentarios es el encargado de velar que todas y cada una de las unidades administrativas a su cargo realicen con eficiencia las obligaciones señaladas en la Ley, debiendo informar oportunamente al presidente de la Junta cuando algún servidor público no realice su labor adecuadamente, para que se proceda conforme a derecho.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 127.
 
-Son obligaciones del Secretario General:
+Son obligaciones del Secretario de Asuntos Parlamentarios:
 
 I. Hacer un extracto de los documentos que deban darse cuenta en la Sesión;
 
@@ -1569,15 +1581,21 @@ XVI. Apoyar y asesorar a la Comisión Permanente en cuanto a recepción, registr
 
 XVII. Las demás que le señalen la Ley, el presente Reglamento, el Pleno del Congreso mediante acuerdo Parlamentario y la Junta.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 128.
 
-La Secretaría General contará con el apoyo de las unidades administrativas señaladas en la Ley, las cuales desempeñarán las obligaciones que se establecen para cada una de ellas en dicho ordenamiento y en el presente Reglamento.
+La Secretaría de Asuntos Parlamentarios contará con el apoyo de las unidades administrativas señaladas en la Ley, las cuales desempeñarán las obligaciones que se establecen para cada una de ellas en dicho ordenamiento y en el presente Reglamento.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE APOYO Y SERVICIOS PARLAMENTARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE SERVICIOS LEGISLATIVOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 129.
 
-La Dirección de Apoyo y Servicios Parlamentarios, además de las atribuciones señaladas en el artículo 86 de la Ley, llevará a cabo las siguientes funciones:
+La Dirección de Servicios Legislativos, además de las atribuciones señaladas en el artículo 86 de la Ley, llevará a cabo las siguientes funciones:
 
 I. Prestar los servicios en materia de asistencia técnico-parlamentaria a la Presidencia de la Mesa Directiva, para el desempeño de sus atribuciones parlamentarias;
 
@@ -1585,13 +1603,21 @@ II. Proponer y aplicar los mecanismos e instrumentos para la recepción, registr
 
 III. Asistir a la Presidencia de la Mesa Directiva, conforme a sus instrucciones, en todo lo relacionado con el fuero de los legisladores;
 
-IV. Acordar con el Secretario General el despacho de los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-V. Asistir al Secretario General en el cumplimiento de sus funciones, representarlo cuando reciba delegación específica para ello o actuar en los casos en que se encuentre ausente;
+IV. Acordar con el Secretario de Asuntos Parlamentarios el despacho de los asuntos de su competencia;
 
-VI. Proponer al Secretario General, normas, políticas y lineamientos que se relacionen con los servicios que proporcionan las áreas de su responsabilidad;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Auxiliar al Secretario General para cuidar de la propiedad, corrección, forma, fondo y estilo, con que sean elaborados los documentos con los que se haya que dar cuenta al Congreso;
+V. Asistir al Secretario de Asuntos Parlamentarios en el cumplimiento de sus funciones, representarlo cuando reciba delegación específica para ello o actuar en los casos en que se encuentre ausente;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Proponer al Secretario de Asuntos Parlamentarios, normas, políticas y lineamientos que se relacionen con los servicios que proporcionan las áreas de su responsabilidad;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Auxiliar al Secretario de Asuntos Parlamentarios para cuidar de la propiedad, corrección, forma, fondo y estilo, con que sean elaborados los documentos con los que se haya que dar cuenta al Congreso;
 
 VIII. Establecer los mecanismos de registro de los expedientes que se encuentren en poder de las Comisiones y de los Comités;
 
@@ -1601,23 +1627,35 @@ X. Ejecutar las políticas, procedimientos y lineamientos administrativos de las
 
 XI. Elaborar, y prestar los servicios del Diario de los Debates, así como de la Versión Estenográfica de las sesiones;
 
-XII. Coordinar la elaboración y publicación de la Gaceta Parlamentaria, con el apoyo de la Dirección de Comunicación Social y Relaciones Públicas y, en su caso, de la Dirección de Asuntos Jurídicos, Transparencia y Acceso a la Información Pública; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-XIII. Las demás que le encomienden el Presidente de la Junta y el Secretario General.
+XII. Coordinar la elaboración y publicación de la Gaceta Parlamentaria, con el apoyo de la Dirección de Comunicación Social y Relaciones Públicas y, en su caso, de la Dirección de Asuntos Jurídicos; y
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS, TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Las demás que le encomienden el Presidente de la Junta y el Secretario de Asuntos Parlamentarios.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 130.
 
-La Dirección de Asuntos Jurídicos, Transparencia y Acceso a la Información Pública es el área dependiente de la Secretaría General, cuya función principal es representar al Congreso y a sus órganos directivos en los asuntos jurídicos o litigiosos de los que sea parte o tenga interés; así como apoyar, asesorar y asistir a los Diputados y a los Órganos Legislativos del Congreso en las sesiones y reuniones.
+La Dirección de Asuntos Jurídicos es el área dependiente de la Junta, cuya función principal es representar al Congreso y a sus órganos directivos en los asuntos jurídicos o litigiosos de los que sea parte o tenga interés; así como apoyar, asesorar y asistir a los Diputados y a los Órganos Legislativos del Congreso en las sesiones y reuniones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 131.
 
-Corresponde a la Dirección de Asuntos Jurídicos, Transparencia y Acceso a la Información Pública, además de lo señalado en el artículo 87 de la Ley, las siguientes atribuciones:
+Corresponde a la Dirección de Asuntos Jurídicos, además de lo señalado en el artículo 62 Bis de la Ley, las siguientes atribuciones:
 
 I. Rendir los informes jurídicos requeridos por las autoridades jurisdiccionales en los términos de las leyes aplicables;
 
-II. Proponer al Secretario General, los reglamentos administrativos necesarios para el adecuado funcionamiento del Congreso;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+II. Proponer a la Presidencia de la Junta, los reglamentos administrativos necesarios para el adecuado funcionamiento del Congreso;
 
 III. Representar al Congreso y/o Poder Legislativo, así como a sus distintos órganos, en las acciones de inconstitucionalidad, controversias constitucionales y juicios de Amparo, rindiendo los informes correspondientes;
 
@@ -1629,29 +1667,37 @@ VI. Ejercer la representación del Congreso como entidad pública, en sus relaci
 
 VII. Presentar denuncias y/o querellas con motivo de los delitos cometidos en contra de los bienes del Congreso;
 
-VIII. Analizar las solicitudes de información para emitir una respuesta sobre si es información reservada, inexistencia de la información o incompetencia de la información;
+VIII. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-IX. Elaborar proyectos sobre las respuestas a las solicitudes de información;
+IX. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-X. Llevar el control y estadísticas sobre las solicitudes de información presentadas, atendidas, notificadas, así como de los recursos de quejas interpuestos;
+X. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-XI. Requerir a las unidades administrativas del Congreso, la información necesaria para dar cumplimiento a las disposiciones en materia de información pública;
+XI. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-XII. Presidir el Comité de Transparencia y Acceso a la Información del Congreso; y
+XII. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-XIII. Las demás que le indiquen el Presidente de la Junta y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-Esta Dirección tendrá adscrita una Unidad de Transparencia y Acceso a la Información Pública, la cual será la encargada de gestionar y dar cumplimiento, conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, todo lo relativo a las solicitudes de acceso a la información que las personas formulen al Congreso, contando con las facultades y atribuciones que le concede la referida Ley en su artículo 50.
+XIII. Las demás que le indique el Presidente de la Junta.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE ATENCIÓN CIUDADANA, GESTORÍA Y QUEJAS
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+#### SECCIÓN CUARTA. DE LA UNIDAD DE ATENCIÓN CIUDADANA
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 132.
 
-La Dirección de Atención Ciudadana, Gestoría y Quejas es el área dependiente de la Secretaría General encargada de recibir las demandas e inquietudes de la ciudadanía para dar el trámite que corresponda.
+La Unidad de Atención Ciudadana es el área dependiente de la Junta encargada de recibir las demandas e inquietudes de la ciudadanía para dar el trámite que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 133.
 
-Corresponde a la Dirección de Atención Ciudadana, Gestoría y Quejas, además de lo señalado en el artículo 88 de la Ley, las siguientes atribuciones:
+Corresponde a la Unidad de Atención Ciudadana, además de lo señalado en el artículo 62 Quáter de la Ley, las siguientes atribuciones:
 
 I. Atender a quienes, por la problemática de su necesidad, requieran orientación y atención personal;
 
@@ -1663,17 +1709,25 @@ IV. Mantener informado al ciudadano sobre el status que guarda la solicitud que 
 
 V. Coadyuvar en la atención y seguimiento de los asuntos que le sean turnados por la Junta o alguna comisión; y
 
-VI. Las demás que le asignen el Presidente de la Junta y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS
+VI. Las demás que le asigne el Presidente de la Junta.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+#### SECCIÓN QUINTA. DE LA UNIDAD DE DIFUSIÓN LEGISLATIVA
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 134.
 
-La Dirección de Comunicación Social y Relaciones Públicas es el área dependiente de la Secretaría General, cuya función es asesorar y asistir a los Órganos Legislativos a través de diversos mecanismos de comunicación social y estrategias de difusión de las actividades del Congreso.
+La Unidad de Difusión Legislativa es el área dependiente de la Junta, cuya función es asesorar y asistir a los Órganos Legislativos a través de diversos mecanismos de comunicación social y estrategias de difusión de las actividades del Congreso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 135.
 
-Corresponden a la Dirección de Comunicación Social y Relaciones Públicas, además de lo señalado en el artículo 89 de la Ley, las siguientes atribuciones:
+Corresponden a la Unidad de Difusión Legislativa, además de lo señalado en el artículo 62 Quintus de la Ley, las siguientes atribuciones:
 
 I. Organizar e implementar los servicios de información del Congreso;
 
@@ -1691,37 +1745,55 @@ VII. Vigilar el cumplimiento de las disposiciones señaladas por el artículo 13
 
 VIII. Operar y administrar los servicios de comunicación por medios electrónicos e internet, en los cuales se difunda e informe sobre las funciones del Congreso, sus órganos de gobierno, el trabajo legislativo, su composición, la transmisión en vivo de las sesiones de Pleno, el manejo de las cuentas oficiales en redes sociales, la elaboración de boletines electrónicos y demás atribuciones relacionadas con su naturaleza y competencia; y
 
-IX. Las demás que le asignen el Presidente de la Junta y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-#### SECCIÓN SEXTA. DIRECCIÓN DE ESTUDIOS LEGISLATIVOS Y PROYECTOS NORMATIVOS
+IX. Las demás que le asigne el Presidente de la Junta.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+#### SECCIÓN SEXTA. DIRECCIÓN DE APOYO A COMISIONES Y PROYECTOS NORMATIVOS
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 136.
 
-La Dirección de Estudios Legislativos y Proyectos Normativos es el área dependiente de la Secretaría General, la cual brinda apoyo y asesoría en materia de técnica jurídica y legislativa a los Diputados, sus comisiones y personal de apoyo técnico a las mismas.
+La Dirección de Apoyo a Comisiones y Proyectos Normativos es el área dependiente de la Secretaría de Asuntos Parlamentarios, la cual brinda apoyo y asesoría en materia de técnica jurídica y legislativa a los Diputados, sus comisiones y personal de apoyo técnico a las mismas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 137.
 
-Corresponden a la Dirección de Estudios Legislativos y Proyectos Normativos, además de lo señalado en el artículo 90 de la Ley, las siguientes atribuciones:
+Corresponden a la Dirección de Apoyo a Comisiones y Proyectos Normativos, además de lo señalado en el artículo 90 de la Ley, las siguientes atribuciones:
 
 I. Elaborar, analizar y formular comentarios sobre iniciativas de leyes y puntos de acuerdo que presenten los Diputados;
 
-II. Remitir, para su observación al Secretario General, el análisis y opinión que realice sobre iniciativas de leyes y puntos de acuerdo que presenten los Diputados;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+II. Remitir, para su observación al Secretario de Asuntos Parlamentarios, el análisis y opinión que realice sobre iniciativas de leyes y puntos de acuerdo que presenten los Diputados;
 
 III. Realizar trabajos de investigación sobre la dinámica política, económica y social del Estado que ayuden al desarrollo legislativo;
 
 IV. Dar seguimiento a la agenda legislativa, para efectuar análisis de coyuntura sobre temas a tratar en las sesiones del Congreso; y
 
-V. Las demás que le asignen el Presidente de la Junta y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-#### SECCIÓN SÉPTIMA. DIRECCIÓN DEL ARCHIVO LEGISLATIVO
+V. Las demás que le asignen el Presidente de la Junta y el Secretario de Asuntos Parlamentarios.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+#### SECCIÓN SÉPTIMA. COORDINACIÓN DE ARCHIVO LEGISLATIVO
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 138.
 
-La Dirección de Archivo Legislativo es el área dependiente de la Secretaría General, encargada de la recopilación y resguardo del trabajo legislativo del Congreso.
+La Coordinación de Archivo Legislativo es el área dependiente de la Secretaría de Asuntos Parlamentarios, encargada de la recopilación y resguardo del trabajo legislativo del Congreso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 139.
 
-Corresponden a la Dirección del Archivo Legislativo, además de lo señalado en el artículo 91 de la Ley, las siguientes atribuciones:
+Corresponden a la Coordinación de Archivo Legislativo, además de lo señalado en el artículo 91 de la Ley, las siguientes atribuciones:
 
 I. Tener bajo su resguardo y custodia, todos y cada uno de los decretos emitidos por el Congreso, una vez finalizado el trabajo legislativo de la legislatura que corresponda;
 
@@ -1729,21 +1801,29 @@ II. Resguardar los documentos históricos que para su guarda y conservación, en
 
 III. Resguardar los documentos que ingresen por donación, legado, compra, reintegración o depósito, de personas físicas o jurídico colectivas, e instituciones públicas o privadas;
 
-IV. Hacer uso de todos los medios técnicos necesarios para la conservación de los documentos que forman los fondos de la Unidad de Archivo Histórico y asegurar la integridad de los mismos;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-V. Permitir la consulta al público de los fondos de la Unidad de Archivo Histórico, salvo que el documento de referencia se encuentre en evidencia;
+IV. Hacer uso de todos los medios técnicos necesarios para la conservación de los documentos que forman los fondos del Archivo Histórico y asegurar la integridad de los mismos;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+V. Permitir la consulta al público de los fondos del Archivo Histórico, salvo que el documento de referencia se encuentre en evidencia;
 
 VI. Suscribir, previa autorización del Presidente de la Junta y, en su caso, del Pleno de la Cámara, toda clase de convenios, contratos y demás actos jurídicos que tengan por objeto promover y apoyar la recuperación, conservación, investigación, difusión y publicación de documentos de valor histórico para el Congreso del Estado, con apego a las normas y procedimientos correspondientes, y en general que sean necesarios para el buen funcionamiento del Archivo;
 
 VII. La administración, manejo, resguardo, conservación, preservación de los documentos que emanen del Poder Legislativo, en términos de lo que establece la Ley de Archivos Públicos del Estado de Tabasco; y
 
-VIII. Las demás que le ordenen el Presidente de la Junta y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Las demás que le ordenen el Presidente de la Junta y el Secretario de Asuntos Parlamentarios.
 
 #### SECCIÓN OCTAVA. COORDINACIÓN DE BIBLIOTECA Y VIDEOTECA LEGISLATIVA
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 140.
 
-La Coordinación de Biblioteca y Videoteca Legislativa, es el área dependiente de la Secretaría General encargada del resguardo y disposición al Público del acervo de libros; hemeroteca y videoteca legislativa.
+La Coordinación de Biblioteca y Videoteca Legislativa, es el área dependiente de la Secretaría de Asuntos Parlamentarios encargada del resguardo y disposición al Público del acervo de libros; hemeroteca y videoteca legislativa.
 
 ###### Artículo 141.
 
@@ -1763,13 +1843,17 @@ VI. Optimizar los recursos documentales y la eficiente prestación de los servic
 
 VII. Promover convenios de intercambio y colaboración con instituciones afines; y
 
-VIII. Las demás que ordenen el Presidente de la Junta y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Las demás que ordenen el Presidente de la Junta y el Secretario de Asuntos Parlamentarios.
 
 #### SECCIÓN NOVENA. COORDINACIÓN DE SEGURIDAD Y OPERACIÓN LOGÍSTICA
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 142.
 
-La Coordinación de Seguridad y Operación Logística es el área dependiente de la Secretaría General encargada de la vigilancia y protección de los bienes muebles e inmuebles propiedad del Congreso del Estado, así como la seguridad de los diputados en el interior del recinto oficial.
+La Coordinación de Seguridad y Operación Logística es el área dependiente de la Secretaría de Asuntos Parlamentarios encargada de la vigilancia y protección de los bienes muebles e inmuebles propiedad del Congreso del Estado, así como la seguridad de los diputados en el interior del recinto oficial.
 
 ###### Artículo 143.
 
@@ -1777,13 +1861,17 @@ Corresponden a la Coordinación de Seguridad y Operación Logística, además de
 
 I. Organizar y disponer de los recursos humanos y técnicos necesarios para la aplicación de los servicios de salvaguarda de los legisladores, personal y visitantes del Congreso;
 
-II. Auxiliar al Secretario General en la elaboración y ejecución del programa de seguridad para los legisladores, personal y visitantes del Congreso;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+II. Auxiliar al Secretario de Asuntos Parlamentarios en la elaboración y ejecución del programa de seguridad para los legisladores, personal y visitantes del Congreso;
 
 III. Restringir el acceso al recinto de personas que se encuentren en estado de ebriedad o bajo los efectos de algún enervante o estupefaciente;
 
 IV. Acatar las órdenes del Presidente de la Mesa Directiva, cuando éste instruya el retiro de personas que perturben el orden durante el desarrollo de las sesiones del Congreso;
 
-V. Auxiliar al Secretario General en la formulación y operación del programa de protección civil de la Cámara;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+V. Auxiliar al Secretario de Asuntos Parlamentarios en la formulación y operación del programa de protección civil de la Cámara;
 
 VI. Prestar el servicio de vigilancia permanente en las instalaciones del Congreso, conforme a las técnicas y estrategias de seguridad aplicables;
 
@@ -1791,19 +1879,27 @@ VII. Operar sistemas de control de acceso, permanencia y salida a las instalacio
 
 VIII. Coordinarse con aquellas otras autoridades de seguridad, en los casos de visitas oficiales o bien, ante causas extraordinarias, para la protección y resguardo de los Diputados y personad del Congreso; y
 
-IX. Las demás que le ordenen el Presidente de la Junta y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Las demás que le ordenen el Presidente de la Junta y el Secretario de Asuntos Parlamentarios.
 
 #### SECCIÓN DÉCIMA. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 144.
 
-El Instituto de Investigaciones Legislativas, es el área dependiente de la Secretaría General encargada de investigar y difundir temas relacionados con el estudio de la actividad legislativa.
+El Instituto de Investigaciones Legislativas, es el área dependiente de la Junta encargada de investigar y difundir temas relacionados con el estudio de la actividad legislativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 145.
 
-Corresponden al Instituto de Investigaciones Legislativas, además de lo señalado en el artículo 94 de la Ley, las atribuciones siguientes:
+Corresponden al Instituto de Investigaciones Legislativas, además de lo señalado en el artículo 62 Ter de la Ley, las atribuciones siguientes:
 
-I. Proponer al Presidente de la Junta, por conducto del Secretario General, las propuestas de reformas o adiciones necesarias para armonizar el marco Jurídico Estatal con el Federal, conforme las facultades concurrentes;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+I. Proponer al Presidente de la Junta, las propuestas de reformas o adiciones necesarias para armonizar el marco Jurídico Estatal con el Federal, conforme las facultades concurrentes;
 
 II. Realizar foros de capacitación para el personal de apoyo de los Diputados y las Comisiones para la debida realización de Iniciativas y Dictámenes;
 
@@ -1811,23 +1907,31 @@ III. Realizar estudios de investigación referente a los temas Jurídicos-Legisl
 
 IV. Las demás que determinen la Junta y su Presidente.
 
-### CAPÍTULO III. DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO III. DE LA UNIDAD DE CONTRALORÍA INTERNA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 146.
 
-La Contraloría Interna es el área administrativa del Congreso encargada de llevar a cabo las prácticas de auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas, conforme a la Ley de la materia.
+La Unidad de Contraloría Interna es el área administrativa del Congreso encargada de llevar a cabo las prácticas de auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas, conforme a la Ley de la materia.
 
 Así también interviene en los procedimientos de entrega-recepción en las diferentes áreas del congreso conforme lo dispone la Ley de la Materia.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 147.
 
-La Contraloría Interna contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, conforme la disposición presupuestal aplicable.
+La Unidad de Contraloría Interna contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, conforme la disposición presupuestal aplicable.
 
-En el desempeño de sus funciones la Contraloría Interna se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia.
+En el desempeño de sus funciones la Unidad de Contraloría Interna se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 148.
 
-Para el adecuado funcionamiento de la Contraloría Interna, el titular además de las señaladas en el artículo 97 de la Ley, habrá de llevar a cabo las siguientes funciones:
+Para el adecuado funcionamiento de la Unidad de Contraloría Interna, el titular además de las señaladas en el artículo 97 de la Ley, habrá de llevar a cabo las siguientes funciones:
 
 I. Proponer para su aprobación por la Junta los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión, evaluación y control de los recursos a cargo de los Órganos Legislativos y Técnico Administrativos que ejerzan recursos del presupuesto de egresos del Congreso;
 
@@ -1847,29 +1951,41 @@ VIII. Establecer los mecanismos de orientación y cursos de capacitación que re
 
 IX. Las demás que le señalen la Junta y su Presidente.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 149.
 
-Los Servidores Públicos adscritos a la Contraloría Interna y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
+Los Servidores Públicos adscritos a la Unidad de Contraloría Interna y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 150.
 
-Los Servidores Públicos del Congreso estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Contraloría Interna, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que la Ley y el presente Reglamento les confieren.
+Los Servidores Públicos del Congreso estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Unidad de Contraloría Interna, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que la Ley y el presente Reglamento les confieren.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 151.
 
-La Contraloría contará con una Unidad de Evaluación de Desempeño, que se encargará de evaluar el cumplimiento de las funciones y el control del gasto del Poder Legislativo, de conformidad con lo señalado por la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, y demás disposiciones aplicables.
+La Unidad de Contraloría contará con un Departamento de Evaluación de Desempeño, que se encargará de evaluar el cumplimiento de las funciones y el control del gasto del Poder Legislativo, de conformidad con lo señalado por la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, y demás disposiciones aplicables.
 
 La evaluación del desempeño se realizará a través de la verificación del grado de cumplimiento de objetivos y metas, con base en indicadores de desempeño que permitan conocer los resultados de la aplicación de los recursos públicos.
 
-Para tal efecto, la Unidad de Evaluación del Desempeño se sujetará a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-I. Efectuará las evaluaciones por sí misma o a través de personas físicas y jurídicas colectivas, en cuyo caso, el titular de la Contraloría Interna solicitará a la Junta, que de acuerdo a las posibilidades presupuestales, autorice las contrataciones correspondientes, con apego a la normatividad aplicable. Dichas personas deberán contar con experiencia probada en la materia que corresponda evaluar, así como cumplir con los requisitos de independencia, imparcialidad, transparencia y los que se establezcan en las disposiciones aplicables;
+Para tal efecto, el Departamento de Evaluación del Desempeño se sujetará a lo siguiente:
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+I. Efectuará las evaluaciones por sí misma o a través de personas físicas y jurídicas colectivas, en cuyo caso, el titular de la Unidad de Contraloría Interna solicitará a la Junta, que de acuerdo a las posibilidades presupuestales, autorice las contrataciones correspondientes, con apego a la normatividad aplicable. Dichas personas deberán contar con experiencia probada en la materia que corresponda evaluar, así como cumplir con los requisitos de independencia, imparcialidad, transparencia y los que se establezcan en las disposiciones aplicables;
 
 II. Todas las evaluaciones se harán públicas y al menos deberán contener la siguiente información:
 
 a) Los datos generales del evaluador, destacando al coordinador de la evaluación y a su principal equipo colaborador;
 
-b) Los datos generales de la unidad administrativa responsable de dar seguimiento a la evaluación al interior de la dependencia o entidad;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+b) Los datos generales del Departamento Administrativo responsable de dar seguimiento a la evaluación al interior de la dependencia o entidad;
 
 c) La forma de contratación del evaluador, de acuerdo con las disposiciones aplicables;
 
@@ -1883,35 +1999,19 @@ g) Un resumen ejecutivo en el que se describan los principales hallazgos y recom
 
 h) De ser el caso, el costo total de la evaluación externa, especificando la fuente de financiamiento;
 
-III. La Unidad de Evaluación de Desempeño propondrá a la Junta los programas anuales de evaluación, los respectivos indicadores y demás lineamientos aplicables;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+III. El Departamento de Evaluación de Desempeño propondrá a la Junta los programas anuales de evaluación, los respectivos indicadores y demás lineamientos aplicables;
 
 IV. Las unidades administrativas del Congreso deberán dar seguimiento a la atención de las recomendaciones que se emitan derivadas de las evaluaciones correspondientes.
 
-### CAPÍTULO IV. UNIDAD DE CAPACITACIÓN Y FORMACIÓN PERMANENTE
+> <small>(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO IV. UNIDAD DE CAPACITACIÓN Y FORMACIÓN PERMANENTE
 
 ###### Artículo 152.
 
-Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentario y de orden administrativo del Congreso, la Junta contará con la Unidad de Capacitación y Formación Permanente de los funcionarios adscritos al Servicio Profesional de Carrera, que tendrá las siguientes atribuciones:
-
-I. Proponer a la Junta y cumplir, una vez aprobado, el reglamento respectivo, así como las políticas, manuales y lineamientos que regulen el Servicio Profesional de Carrera del Congreso del Estado;
-
-II. Definir los procedimientos para administrar adecuadamente el Servicio Profesional de Carrera del Congreso del Estado;
-
-III. Expedir las constancias de capacitación de los funcionarios del Servicio;
-
-IV. Coadyuvar en la elaboración de los catálogos de rangos y puestos del cuerpo del Servicio;
-
-V. Proponer las políticas para el pago de remuneraciones al personal que integra el Servicio;
-
-VI. Preparar y llevar a cabo el programa de capacitación para la formación, actualización y especialización de los funcionarios que integran el Servicio;
-
-VII. Llevar a cabo las evaluaciones del desempeño del personal de carrera;
-
-VIII. Diseñar y operar el sistema de información sobre el personal del Servicio;
-
-IX. Realizar además, todas las tareas encomendadas por la Junta, relativas a la capacitación del personal; y
-
-X. Las demás que le encomienden la Junta y su Presidente.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO V. DE LA DIRECCIÓN DE CONTROL Y EVALUACIÓN
 
@@ -1983,9 +2083,11 @@ Si algún Diputado, omiso en presentar su declaración, persistiera en tal actit
 
 La sanción pecuniaria que se fije deberá pagarse en la Dirección de Finanzas del Congreso.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 160.
 
-Tratándose de los demás servidores públicos del Congreso, la Contraloría Interna procederá en los términos que dispone la Ley Orgánica y el presente Reglamento, para que se inicien los procedimientos en ellos señalados; correspondiéndole a este órgano administrativo declarar que quedarán sin efecto los nombramientos de quienes se hayan hecho acreedores a esta sanción.
+Tratándose de los demás servidores públicos del Congreso, la Unidad de Contraloría interna procederá en los términos que dispone la Ley Orgánica y el presente Reglamento, para que se inicien los procedimientos en ellos señalados; correspondiéndole a este órgano administrativo declarar que quedarán sin efecto los nombramientos de quienes se hayan hecho acreedores a esta sanción.
 
 ###### Artículo 161.
 
@@ -1999,9 +2101,13 @@ Para efectos de los procedimientos previstos en este Capítulo, se aplicará la 
 
 Los Servidores Públicos del Poder Legislativo, antes de tomar posesión de sus cargos, cumplirán con lo que establece el artículo 128 de la Constitución Política de los Estados Unidos Mexicanos.
 
-El Director de Administración expedirá, por acuerdo de la Junta, los nombramientos del personal administrativo del Congreso, salvo acuerdo delegatorio a su Presidente.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-Los nombramientos de los servidores públicos que sean designados por el Pleno deberán ser firmados por el Presidente de la Junta. Los nombramientos que se expidan a partir de nivel de Director o Coordinador serán firmados por el Presidente de la Junta o, en su caso, por el Secretario General, previo acuerdo que emita la Junta. Los demás nombramientos serán firmados por el Director de Administración.
+El Director de Administración y Finanzas expedirá, por acuerdo de la Junta, los nombramientos del personal administrativo del Congreso, salvo acuerdo delegatorio a su Presidente.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Los nombramientos de los servidores públicos que sean designados por el Pleno y los que se expidan a partir del nivel de Director o Coordinador serán firmados por el Presidente de la Junta. Los demás nombramientos serán firmados por el Director de Administración y Finanzas.
 
 ###### Artículo 163.
 
@@ -2009,17 +2115,21 @@ Los Servidores Públicos del Congreso deberán permanecer en sus oficinas durant
 
 Igual obligación tendrán para la realización de trabajos urgentes o extraordinarios, pero siempre de carácter oficial. La falta de cumplimiento a esta disposición será sancionada por el Contralor Interno.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 164.
 
-Los Servidores Públicos del Congreso del Estado que no asistan a sus labores sin causa justificada, serán sancionados con el descuento correspondiente al día que falten. Quien se presente quince minutos después de la hora señalada para su entrada a laborar, se le contará como retardo. Quien acumule más de tres retardos en la quincena, se le sancionará con medio día de sueldo; y quien acumule más de siete, con un día. La constante repetición de inasistencias y retardos, serán calificados y valorados a juicio del Secretario General y el Director de Administración, para la determinación que corresponda, quienes deberán dar cuenta a la Contraloría Interna para su conocimiento y efectos legales.
+Los Servidores Públicos del Congreso del Estado que no asistan a sus labores sin causa justificada, serán sancionados con el descuento correspondiente al día que falten. Quien se presente quince minutos después de la hora señalada para su entrada a laborar, se le contará como retardo. Quien acumule más de tres retardos en la quincena, se le sancionará con medio día de sueldo; y quien acumule más de siete, con un día. La constante repetición de inasistencias y retardos, serán calificados y valorados a juicio del Director de Administración y Finanzas, para la determinación que corresponda, quienes deberán dar cuenta a la Dirección de Asuntos Jurídicos para su conocimiento y efectos legales.
 
 ###### Artículo 165.
 
 Los Servidores Públicos del Poder Legislativo, sin perjuicio de sus labores, atenderán las solicitudes de trabajo que les confieran sus superiores, siempre que se refieran a asuntos oficiales del Congreso.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 166.
 
-Los Servidores Públicos están obligados a guardar reserva en relación con los asuntos y documentos del Congreso; en caso de quebrantarla, se les exigirá responsabilidad bajo procedimiento de la Contraloría Interna, que los sancionará como corresponda. Cuando se trate de servidores públicos nombrados por el Pleno, el caso será resuelto por la Junta.
+Los Servidores Públicos están obligados a guardar reserva en relación con los asuntos y documentos del Congreso; en caso de quebrantarla, se les exigirá responsabilidad bajo procedimiento de la Unidad de Contraloría Interna, que los sancionará como corresponda. Cuando se trate de servidores públicos nombrados por el Pleno, el caso será resuelto por la Junta.
 
 ###### Artículo 167.
 
@@ -2168,3 +2278,19 @@ P.O. 11 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “SE REFORMAN, LA FRACCIÓN XIII DEL ARTÍCULO 3, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 5, EL ARTÍCULO 10, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 12, LOS PÁRRAFOS SEGUNDO Y CUARTO DEL ARTÍCULO 16, EL TERCER PÁRRAFO DEL ARTÍCULO 40, LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 51, LOS ARTÍCULOS 52 Y 58, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 59, EL PRIMER PÁRRAFO DEL ARTÍCULO 66, EL PÁRRAFO PRIMERO DEL ARTÍCULO 88, EL PÁRRAFO PRIMERO DEL ARTÍCULO 90, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 100, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 111, EL ARTÍCULO 122, EL PÁRRAFO PRIMERO DEL ARTÍCULO 124, LOS ARTÍCULOS 125 Y 126, EL PÁRRAFO PRIMERO DEL ARTÍCULO 127, EL ARTÍCULO 128, EL PÁRRAFO PRIMERO Y LAS FRACCIONES IV A LA VII Y LA XII Y XIII DEL ARTÍCULO 129, EL ARTÍCULO 130, EL PÁRRAFO PRIMERO Y LAS FRACCIONES II Y XIII DEL ARTÍCULO 131, EL ARTÍCULO 132, EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 133, EL ARTÍCULO 134, EL PÁRRAFO PRIMERO Y LA FRACCIÓN IX DEL ARTÍCULO 135, EL ARTÍCULO 136, EL PÁRRAFO PRIMERO Y LAS FRACCIONES II Y V DEL ARTÍCULO 137, EL ARTÍCULO 138, EL PÁRRAFO PRIMERO Y LAS FRACCIONES IV, V Y VII DEL ARTÍCULO 139, EL ARTÍCULO 140, LA FRACCIÓN VIII DEL ARTÍCULO 141, EL ARTÍCULO 142, LAS FRACCIONES II, V Y IX DEL ARTÍCULO 143, EL ARTÍCULO 144, EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 145, EL PRIMER PÁRRAFO DEL ARTÍCULO 146, EL ARTÍCULO 147, EL PRIMER PÁRRAFO DEL ARTÍCULO 148, LOS ARTÍCULOS 149 Y 150, LOS PÁRRAFOS PRIMERO Y TERCERO Y LAS FRACCIONES I, II INCISO B), Y III DEL PÁRRAFO TERCERO DEL ARTÍCULO 151, EL ARTÍCULO 160, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 162, LOS ARTÍCULOS 164 Y 166, Y LAS SECCIONES SEGUNDA, TERCERA, CUARTA, QUINTA, SEXTA Y SÉPTIMA DEL CAPÍTULO II DEL TÍTULO QUINTO “DE LAS UNIDADES ADMINISTRATIVAS DEL CONGRESO”, Y LOS CAPÍTULOS II Y III DEL TÍTULO QUINTO “DE LAS UNIDADES ADMINISTRATIVAS DEL CONGRESO”; SE ADICIONAN, UN SEGUNDO PÁRRAFO AL ARTÍCULO 88, LAS FRACCIONES DE LA VIII A LA XIV AL ARTÍCULO 124; Y SE DEROGAN, EL ARTÍCULO 123, LA FRACCIÓN VII DEL ARTÍCULO 124, EL PÁRRAFO SEGUNDO Y LAS FRACCIONES DE LA VIII A LA XII DEL PÁRRAFO PRIMERO DEL ARTÍCULO 131, EL ARTÍCULO 152, Y EL CAPÍTULO IV DEL TÍTULO QUINTO “DE LAS UNIDADES ADMINISTRATIVAS DEL CONGRESO”, TODOS DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia de otros ordenamientos legales a las unidades, áreas administrativas o comisiones que se modifican por virtud de este Decreto, se entenderán referidas a las señaladas en éste.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
