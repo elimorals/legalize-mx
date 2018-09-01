@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2018-04-21"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -700,7 +700,7 @@ ARTICULO 68 bis.- En los procedimientos en que intervengan personas que aleguen 
 
 ARTICULO 68 TER.- Los agentes de la Procuraduría Social intervendrán en todos los juicios en los que:
 
-l. Se afecten los intereses sociales;
+I. Se afecten los intereses sociales;
 
 II. Se afecte a la persona, bienes o derechos de incapaces mayores de edad y ausentes, adultos mayores o con discapacidad, a criterio del Juez; y
 
@@ -1212,15 +1212,13 @@ Entre tanto que un litigante no hiciera nueva designación del domicilio en dond
 
 Se equipara a una negativa a recibir notificaciones, el hecho de que el servidor público que practique la diligencia encuentre cerrado el domicilio señalado con tal fin dos o más veces, de lo que deberá expresamente asentarse razón en autos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 109.
 
 Será notificado personalmente en el domicilio de los litigantes, del Agente de la Procuraduría Social y a la Procuraduría de Protección de Niñas, Niños y Adolescentes:
 
-l. El emplazamiento del demandado a juicio y siempre que se trate de la primera notificación en cualquier procedimiento judicial, aunque sean diligencias preparatorias;
+I. El emplazamiento del demandado a juicio y siempre que se trate de la primera notificación en cualquier procedimiento judicial, aunque sean diligencias preparatorias;
 
 II. La citación para absolver posiciones, para el reconocimiento de libros y documentos, salvo las que este Código permita se reciban sin citación de la contraria;
 
@@ -1232,7 +1230,7 @@ V. Cuando se haga saber el envío de los autos a otro tribunal;
 
 VI. La sentencia definitiva o interlocutoria, cuando no se dicten dentro del término señalado en este Código y los autos definitivos que pongan fin a un procedimiento; y
 
-VIl. En los demás casos en que la ley o el juzgador así lo ordene.
+VII. En los demás casos en que la ley o el juzgador así lo ordene.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2404,8 +2402,6 @@ Sección 1a.
 
 Disposiciones Generales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 249.
@@ -2420,7 +2416,7 @@ El Gobierno del estado de Jalisco, a través de sus poderes y los ayuntamientos,
 
 En los asuntos de familia, el Juez de la causa podrá decretar las órdenes de protección previstas por la legislación general y estatal de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-El juez substanciará dentro de las 24 horas siguientes a su recepción, las medidas urgentes de protección especial que no sean del ámbito penal, previstas en la fracción VIl del artículo 122 de la Ley General de los Derechos de Niñas, Niños y Adolescentes. En caso de incumplimiento de las medidas urgentes de protección, se impondrán las medidas de apremio correspondientes previstas en este Código.
+El juez substanciará dentro de las 24 horas siguientes a su recepción, las medidas urgentes de protección especial que no sean del ámbito penal, previstas en la fracción VII del artículo 122 de la Ley General de los Derechos de Niñas, Niños y Adolescentes. En caso de incumplimiento de las medidas urgentes de protección, se impondrán las medidas de apremio correspondientes previstas en este Código.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -6400,11 +6396,13 @@ El Juez deberá compeler a los árbitros a cumplir con sus obligaciones.
 
 De la Modificación de las Actas del Estado Civil.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 758.
 
-Las actas que contengan errores mecanográficos, ortográficos o de otra índole, que no afecten sustancialmente los datos de las actas del estado civil, serán aclarados o testados mediante solicitud de parte interesada presentada ante el Oficial del Registro Civil que corresponda, acompañada del acta en la que se pretenda hacer la testadura o aclaración. El Oficial del Registro Civil examinará la solicitud y, si la encuentra procedente ordenará sin más trámite, que se testen las menciones prohibidas o aclaraciones, en su caso, tanto en el mismo original como en el duplicado, girando, para esos efectos, sendos oficios al Titular del Archivo General del Estado y dejando constancia en el propio Registro Civil.
+Las actas que contengan errores mecanográficos, ortográficos o de otra índole, que no afecten sustancialmente los datos de las actas del estado civil, serán aclarados mediante solicitud de parte interesada presentada ante el Oficial del Registro Civil que corresponda, o Notario Público con adscripción en la región notarial del lugar donde corresponda al Oficial del Registro Civil, acompañada del acta en la que se pretenda hacer la aclaración. El Oficial del Registro Civil o el Notario Público examinarán la solicitud y si la encuentran procedente, el primero ordenará sin más trámite, que se realicen las aclaraciones correspondientes. En su caso, el Notario Público hará el trámite en escritura pública y girará, junto con copia certificada del testimonio que expida, sendos oficios al titular del Archivo General del Estado y al propio Oficial del Registro Civil, quienes sin más trámite harán las notaciones correspondientes.
+
+Solo el Oficial del Registro Civil podrá testar, mediante solicitud de parte interesada, las expresiones prohibidas por la ley de tal manera que queden absolutamente ilegibles, con la advertencia al final del acta, de la causa por la que se hacen.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
@@ -6484,6 +6482,10 @@ El Juez resolverá atendiendo a las circunstancias especiales de cada caso.
 
 El juez examinará la solicitud y el convenio y si encuentra que éste reúne los requisitos que señala el artículo anterior, citará a los solicitantes para que personalmente se presenten a ratificarlo dentro de un término no menor de cinco días ni mayor de diez.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Los interesados tendrán la opción de presentar la solicitud a que se refiere el artículo que antecede debidamente ratificada ante Notario Público, en cuyo caso ya no será necesaria la ratificación prevista en este dispositivo.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 766.
@@ -6514,9 +6516,13 @@ Si el agente de la Procuraduría Social, o la Procuraduría de Protección de Ni
 
 Cuando cualquiera de las autoridades administrativas a que se refiere el artículo anterior se opongan a la solicitud o a la aprobación del convenio, se dará vista de lo que exprese a los cónyuges y, una vez llenadas las exigencias contenidas en el escrito de oposición o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la ley, el Juez traerá los autos a la vista y resolverá si es o no fundada la oposición y aprobará o denegará la aprobación del convenio. En este último caso, declarará también improcedente la solicitud de divorcio.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 770.
 
-Una vez aprobado el convenio, en los casos de los dos artículos, anteriores, en el mismo auto el Juez mandará citar a los promoventes para que personalmente concurran al juzgado dentro de un término que en ningún caso excederá de diez días. En la junta, que será siempre reservada, el Juez procurará restablecer la armonía entre los comparecientes y si no lo obtuviere y éstos insisten en divorciarse, así se hará constar en los autos, y trayéndolos a la vista declarará disuelto el vínculo del matrimonio y condenará a los cónyuges a cumplir el convenio aprobado.
+Una vez aprobado el convenio, en los casos de los dos artículos anteriores, en el mismo auto el Juez mandará citar a los promoventes para que personalmente concurran al juzgado dentro de un término que en ningún caso excederá de diez días. En la junta, que será siempre reservada, el Juez procurará restablecer la armonía entre los comparecientes y si no lo obtuviere y éstos insisten en divorciarse, así se hará constar en los autos, y trayéndolos a la vista declarará disuelto el vínculo del matrimonio y condenará a los cónyuges a cumplir el convenio aprobado.
+
+La junta referida en el párrafo que antecede no será necesaria cuando los interesados presenten un escrito debidamente ratificado ante Notario Público, a través del cual manifiesten expresamente su firme decisión en divorciarse y continuar con el tramite iniciado; en este caso, deberá hacer constar el Notario Público que exhortó a los comparecientes a restablecer la armonía, sin obtener un resultado favorable.
 
 ###### ARTICULO 771.
 
@@ -6540,6 +6546,18 @@ La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el 
 
 Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción para que levante el acta correspondiente, la archive con el mismo número de acta en el apéndice correspondiente y publique la parte resolutiva de la sentencia durante quince días en las tablas destinadas al efecto; igualmente remitirá copia de la sentencia ejecutoriada al Oficial del Registro Civil que autorizó el acta de matrimonio y el de nacimiento de los divorciados para que hagan las anotaciones correspondientes.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO IV BIS. Del Divorcio ante Notario
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 775 BIS.- Los cónyuges podrán acudir ante Notario Público de la región notarial correspondiente al lugar donde se celebró el matrimonio a tramitar su divorcio cuando no tengan hijos menores de edad o mayores de edad que requieran alimentos y haya transcurrido un año de casados.
+
+Los cónyuges comprobarán con las copias certificadas respectivas que son casados, mayores de edad y la ingravidez de la cónyuge. Podrán ante el propio fedatario liquidar su sociedad legal o conyugal si fuera el caso, y manifestaran bajo protesta de decir verdad que los hechos declarados son ciertos y de manera terminante y explicita, su voluntad de divorciarse.
+
+El Notario Público hará constar en escritura pública la solicitud de divorcio, que medió ante los cónyuges procurando avenirlos y, si estos ratifican dicha solicitud, así se expresará en el instrumento público y los declarará divorciados. Satisfechos los requisitos de ley, el Notario expedirá testimonios que remitirá tanto al Oficial del Registro Civil ante quien se celebró el matrimonio y al Director del Archivo de Registro Civil del Estado, para que el primero levante el acta de divorcio correspondiente y ambos realicen las anotaciones a que hubiere lugar.
+
 ### CAPITULO V.
 
 De los Concursos.
@@ -6547,18 +6565,6 @@ De los Concursos.
 Sección 1a.
 
 Reglas Generales.
-
-### CAPITULO VI.
-
-De las Sucesiones.
-
-Sección 1a.
-
-Disposiciones Generales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 776.
 
@@ -6836,15 +6842,17 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 
 Al cumplir el síndico lo que se dispone en el artículo 783, presentará también dictamen, por separado, respecto del juicio que se hubiese formado de las causas que motivaron la insolvencia del deudor y concluirá pidiendo, si estima que de las actuaciones resultaré motivo para presumir la insolvencia culpable o fraudulenta, se consignen los hechos al Ministerio Público para la averiguación correspondiente. La falta de dictamen no impedirá que el juez, en cualquier estado del concurso, ya sea de oficio o a solicitud de la parte interesada, haga la consignación antes indicada.
 
-### CAPÍTULO VII. De la Extinción de Dominio de Bienes
+### CAPITULO VI.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+De las Sucesiones.
 
-ARTICULO 953 bis.- Los jueces de extinción de dominio y, en tanto estos sean nombrados, los jueces civiles de primera instancia o mixtos serán competentes para conocer de los procedimientos de extinción de dominio de bienes, dentro del ámbito de su competencia y de acuerdo con la Ley de Extinción de Dominio del Estado de Jalisco.
+Sección 1a.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+Disposiciones Generales.
 
-ARTICULO 953 ter.- El procedimiento de extinción de dominio de bienes procederá en los términos de la Ley de Extinción de Dominio del Estado de Jalisco.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 817.
 
@@ -7636,6 +7644,26 @@ El albacea y los herederos comparecerán ante el Notario y exhibiendo copia cert
 
 También avisará al Juzgado que previno, por medio de oficio, para que se siente razón en los autos y a los representantes del Fisco, si no estuvieren cubiertos los impuestos, para los efectos relativos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 935 BIS.- Sin perjuicio de lo dispuesto en los artículos 934 y 935 precedentes, cuando todos los interesados sean mayores de edad, no existan interesados incapaces, exista o no testamento público abierto, podrán los interesados iniciar la tramitación del negocio sucesorio ante Notario Público que tenga su jurisdicción en el domicilio donde correspondería conocer a la autoridad judicial del mismo, en los términos del presente Código.
+
+Quien promueva un intestado ante Notario, deberá presentar a éste los justificantes de la muerte del autor de la herencia y los que acrediten su parentesco con éste; además, bajo protesta de decir verdad expresará los nombres y domicilios de los parientes en línea recta y del cónyuge supérstite o a falta de ellos el de los colaterales dentro del cuarto grado de que tenga conocimiento y, de serle posible, presentará también certificado de las partidas del Registro Civil que demuestren el parentesco.
+
+El Notario pedirá informe al Procurador Social del Estado, al Registro Público de la Propiedad, al Director del Archivo de Instrumentos Públicos y al Director del Registro Nacional de Avisos de Testamentos, acerca de si en su oficina se ha depositado o registrado algún testamento del autor de la sucesión, para que en su caso de que así sea se le remita copia autorizada del mismo.
+
+Si no apareciere depositado o registrado algún testamento del autor de la sucesión en las oficinas precitadas, el Notario tendrá por ratificado el intestado y mandará publicar edictos por tres veces, de diez en diez días, en el Boletín Judicial o en el Periódico Oficial del Estado, así como en un diario de los de mayor circulación a juicio del Notario, haciendo saber la radicación del intestado, el nombre del finado, las demás particularidades que lo identifiquen, la fecha y lugar de fallecimiento, previniendo a los interesados que deberán presentarse a deducir y justificar su (sic) derechos a la herencia en un término improrrogable de treinta días hábiles y a hacer el nombramiento de albacea.
+
+Hechas las publicaciones a que se refiere el párrafo anterior, una vez trascurrido el término concedido a los interesados para presentarse a deducir y justificar su (sic) derechos, que se computara desde el día siguiente a la última publicación, el Notario levantará certificación realizando la declaración de herederos en favor de quien resulte procedente en vista de los justificantes presentados o lo denegará con reserva de sus derechos a los que la hubieren pretendido para que los hagan valer en juicio ordinario.
+
+Al hacerse la declaración de herederos de acuerdo con los párrafos precedentes, estos de común acuerdo designaran al albacea que tendrá carácter de definitivo.
+
+Cuando comparezcan o aparecieren interesados incapaces, niñas, niños o adolescentes que tengan derecho a la herencia o a pensión alimenticia, el Notario suspenderá su intervención y a costa de quienes hayan iniciado el procedimiento sucesorio, remitirá testimonio de lo practicado por él al juzgado que resulte competente, para que judicialmente continúe el procedimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 935 TER.- Los herederos y/o legatarios que hayan iniciado o continuado un procedimiento sucesorio ante Notario Público, con el consentimiento del albacea, podrán continuar la prosecución del mismo ante un Notario distinto del que hubiere conocido, siempre y cuando sea competente de conformidad con lo dispuesto por el artículo 935 Bis.
+
 ###### ARTICULO 936.
 
 Practicadas las operaciones de inventario y avalúo por el albacea y satisfechos los impuestos correspondientes, estando conformes todos los herederos, aquél los presentará al Notario para su protocolización.
@@ -7644,9 +7672,11 @@ Practicadas las operaciones de inventario y avalúo por el albacea y satisfechos
 
 Formado por el albacea, con aprobación de los herederos, el proyecto de participación de la herencia, lo exhibirá al Notario para su protocolización.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 938.
 
-Cuando se suscite controversia, el Notario suspenderá su intervención y a costa de los interesados remitirá testimonio de lo practicado por él al Juzgado que previno, para que judicialmente continúe el procedimiento, sin que los interesados puedan volver a separarse de éste.
+Cuando se suscite controversia, el Notario suspenderá su intervención y a costa de los interesados remitirá testimonio de lo practicado al Juzgado que previno, o en su caso al competente, para que judicialmente continúe el procedimiento, sin que los interesados puedan volver a separarse de éste.
 
 Sección 9a.
 
@@ -7774,25 +7804,25 @@ En lo demás se observará lo dispuesto en el Capítulo que antecede.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2011)</small>
 
-### CAPITULO I.
+### CAPÍTULO VII. De la Extinción de Dominio de Bienes
 
-Disposiciones Generales.
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
+ARTICULO 953 bis.- Los jueces de extinción de dominio y, en tanto estos sean nombrados, los jueces civiles de primera instancia o mixtos serán competentes para conocer de los procedimientos de extinción de dominio de bienes, dentro del ámbito de su competencia y de acuerdo con la Ley de Extinción de Dominio del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
+ARTICULO 953 ter.- El procedimiento de extinción de dominio de bienes procederá en los términos de la Ley de Extinción de Dominio del Estado de Jalisco.
 
 ## TITULO DECIMO TERCERO.
 
 De La Jurisdicción Voluntaria.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de estos Cargos y de las Cuentas de la Tutela.
+Disposiciones Generales.
 
-Sección 1a.
-
-De la Declaración de Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
 
 ###### ARTICULO 954.
 
@@ -7858,9 +7888,15 @@ Los actos de jurisdicción voluntaria de que no se hiciere mención especial en 
 
 Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
 
-### CAPITULO III.. De la Disposición de Bienes de Personas Menores de Edad, Incapaces y Ausentes y de la Transacción sobre sus Derechos
+### CAPITULO II.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de estos Cargos y de las Cuentas de la Tutela.
+
+Sección 1a.
+
+De la Declaración de Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 965.
 
@@ -8348,13 +8384,9 @@ En los actos que relacionados con niñas, niños y adolescentes, el Juez llamar�
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO IV.
+### CAPITULO III.. De la Disposición de Bienes de Personas Menores de Edad, Incapaces y Ausentes y de la Transacción sobre sus Derechos
 
-De la Adopción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1014.
 
@@ -8456,9 +8488,9 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 Cuando se trata de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapaz como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapaz, a fin de que el Juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca fijando en este caso las condiciones y seguridades con que debe hacerse; pudiendo, si lo estimare conveniente, dispensar la almoneda siempre que consientan en ello el tutor y el curador.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-De la Excusa y Pérdida de la Patria Potestad y de la Emancipación.
+De la Adopción.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -8502,13 +8534,13 @@ Si el adoptado fuere niña, niño o adolescente, no se decretará la conversión
 
 Rendidas las justificaciones y desahogadas las pruebas, el juez dictará su resolución, en un término no mayor de quince días de la celebración de la audiencia, y al causar Estado remitirá copias de la misma al Oficial del Registro Civil para que levante el acta correspondiente.
 
-### CAPITULO VI.
+### CAPITULO V.
 
-De la Guarda y Custodia.
+De la Excusa y Pérdida de la Patria Potestad y de la Emancipación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1032.
 
@@ -8578,11 +8610,13 @@ De las resoluciones en que se conceda la emancipación se remitirá copia certif
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-De las Informaciones Ad-Perpetuam.
+De la Guarda y Custodia.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1962)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1040.
 
@@ -8704,9 +8738,11 @@ En caso de encarcelamiento de quien ejerza la guarda y custodia, el Juez fijará
 
 En las diligencias de que trata este capítulo se oirá precisamente a la Procuraduría de Protección de Niñas, Niños y Adolescentes y contra las resoluciones que se dicten no procederá recurso alguno.
 
-### CAPITULO VIII.
+### CAPITULO VII.
 
-Del Apeo y Deslinde.
+De las Informaciones Ad-Perpetuam.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1962)</small>
 
 ###### ARTICULO 1051.
 
@@ -8770,17 +8806,17 @@ Si hubiere oposición y se fundare en título debidamente registrado con anterio
 
 No tendrá valor la información cuando se hubiere recibido habiendo juicio pendiente o anunciado, aún cuando se pretenda que se ratifique ante el Juez.
 
-### CAPITULO IX.
+### CAPITULO VIII.
 
-Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+Del Apeo y Deslinde.
 
 ###### ARTICULO 1058.
 
 El apeo y deslinde tendrán lugar cuando no se hayan fijado los límites que separan un fundo de otro u otros y cuando hay motivo fundado para creer que no son exactos ya porque naturalmente se hayan confundido, ya porque se hayan destruido las señales que los marcaban, ya porque éstas se hayan colocado en lugar distinto del primitivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+La diligencia de apeo y deslinde también podrá tramitarse ante Notario Público facultado para actuar en el lugar en que deba practicarse la diligencia.
 
 ###### ARTICULO 1059.
 
@@ -8808,6 +8844,14 @@ V.- La designación de un perito para que intervenga en el reconocimiento.
 
 Con la solicitud se presentarán los planes y demás documentos que deban servir para la diligencia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Si el apeo se tramita ante Notario Público, además de acreditarse la propiedad o titularidad del bien a deslindar, se deberá acreditar la propiedad o titularidad de los colindantes, salvo que el predio colinde con predio o bienes destinados a servicios públicos o de propiedad Municipal, Estatal o Federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Así mismo, cuando el trámite se realice por Notario Público la solicitud deberá ser suscrita además por los colindantes del predio a deslindar y deberá contener señalados el día, hora y lugar para que dé principio la diligencia de deslinde.
+
 ###### ARTICULO 1061.
 
 Recibida la promoción la mandará el Juez hacer saber a los colindantes para que dentro de tres días presenten los títulos o documentos de su posesión, nombren perito si quisieren hacerlo y señalará día, hora y lugar para que dé principio la diligencia de deslinde.
@@ -8832,13 +8876,25 @@ V.- El Juez mandará que se fijen las señales con mojoneras convenientes en los
 
 Los puntos respecto de los cuales hubiere oposición, no quedarán deslindados ni se fijará en ellos señal alguna, mientras no haya sentencia ejecutoria que resuelva la cuestión, dictada en el juicio correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Al realizarse la diligencia por Notario Público, éste deberá levantar acta en la que haga constar y certifique los hechos ocurridos durante la diligencia, misma que deberá protocolizar en escritura pública, junto con la solicitud y demás documentos que le hayan sido presentados para la realización de la diligencia, en los términos de la Ley del Notariado del Estado de Jalisco.
+
 ###### ARTICULO 1063.
 
 Los gastos del apeo se harán a prorrata por el que lo promueva y los propietarios colindantes; pero el Juez podrá a su arbitrio eximir de la obligación de contribuir a los gastos, a los colindantes que sean notoriamente pobres.
 
-### CAPITULO UNICO.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+En el caso de que el trámite de la diligencia se realice ante Notario Público, los gastos serán únicamente por cuenta de quien la promueva.
+
+### CAPITULO IX.
+
+Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1064.
 
@@ -8851,6 +8907,10 @@ II. La dispensa para no habitar en el domicilio conyugal por alguno de los cóny
 ## TITULO DECIMO CUARTO.
 
 Del Procedimiento en los Negocios de la Competencia de los Jueces de Paz.
+
+### CAPITULO UNICO.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 1065.
 
@@ -9555,3 +9615,17 @@ P.O. 21 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26752/LXI/18 QUE DEROGA EL ARTÍCULO 971 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 1 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26926/LXI/18, QUE REFORMA LOS ARTÍCULOS 2, 3, 9, 21, 35, 43, 50, 57, 58, 62, 67, 70, 84, 90, 96, 101, 123, 125, 128, 142, 149, 158, 159, 160, 167, 171, 174, 175, 176, 177, 178, 179, 207, 208 Y 212, ADICIONA LOS ARTÍCULOS 53 BIS Y 206 BIS, Y DEROGA LOS ARTÍCULOS 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195 Y 196 DE LA LEY DEL NOTARIADO; REFORMA LOS ARTÍCULOS 405 BIS, 2842, 2845 Y 3118 DEL CÓDIGO CIVIL; REFORMA LOS ARTÍCULOS 758, 765, 770, 935 BIS, 935 TER, 938, 1058, 1060, 1062 Y 1063, Y ADICIONA EL CAPÍTULO IV BIS AL TÍTULO DÉCIMO SEGUNDO Y EL ARTÍCULO 775 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; Y REFORMA LOS ARTÍCULOS 122, 131, 133, 134 Y 135 DE LA LEY DEL REGISTRO CIVIL, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Lo previsto en el artículo 57, fracción VI, de la reforma a la Ley del Notariado del Estado de Jalisco, no será aplicable a los Notarios que hubiesen obtenido su nombramiento o fiat antes de la entrada en vigor del presente decreto.
+
+TERCERO. Lo previsto en el artículo 21 fracción V, del presente decreto, no será aplicable a quienes hayan obtenido patente de aspirante al ejercicio del notariado con anterioridad a la entrada en vigor del presente decreto
+
+CUARTO. Los Notarios adscritos a alguno de los municipios de los señalados en la fracción I del artículo 29 de esta Ley, que tengan su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia del presente decreto, podrán mantener su oficina en ese municipio.
+
+QUINTO. Las presentes disposiciones surtirán todos sus efectos en tanto no se opongan expresamente a las disposiciones en materia procesal civil y familiar.
