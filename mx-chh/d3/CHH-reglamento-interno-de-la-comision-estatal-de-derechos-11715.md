@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interno-de-la-comision-estatal-de-derechos-11715"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-28"
-last_updated: "1998-02-28"
+last_updated: "2018-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, PUBLICADO EN EL P.O. DE 1 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE CHIHUAHUA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 28 de Febrero de 1998.
 
@@ -624,3 +626,17 @@ TRANSITORIOS (SIC)
 ÚNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Chihuahua, Chih. 01 de diciembre de 1997.- El Presidente del Consejo de la Comisión Estatal de Derechos Humanos, Heliodoro Juárez González. Rúbrica.- Los Consejeros: Patricia Berlanga Fuentes, Javier Ávila Aguirre, Manuel Martínez Martínez y Daniel Torres Jáquez. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS".]
+
+PRIMERO.- Se abroga el Reglamento Interno de la Comisión de los Derechos Humanos de fecha 01 de diciembre de 1997, publicado en el Periódico Oficial del Estado el día 28 de febrero de 1998.
+
+SEGUNDO.- Se aprueba el presente Reglamento Interno.
+
+TERCERO.- El presente Reglamento deberá ser publicado en el Periódico Oficial del Estado.
+
+CUARTO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
