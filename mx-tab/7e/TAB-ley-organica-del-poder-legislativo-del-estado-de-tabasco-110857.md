@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-110857
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-23"
-last_updated: "2017-11-15"
+last_updated: "2018-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -96,6 +96,14 @@ XIII. Ley: La Ley Orgánica del Poder Legislativo del Estado de Tabasco;
 XIV. Mesa Directiva: la Mesa Directiva del Congreso del Estado; y
 
 XV. Reglamento: El Reglamento Interior del Congreso del Estado de Tabasco.
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Voto ponderado: Es aquél que es utilizado en la Junta de Coordinación Política, en el cual cada Coordinador de Fracción Parlamentaria representará tantos votos como integrantes tenga su Fracción.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVI, P.O. 1 DE SEPTIEMBRE DE 2018]</small>
+
+El sistema de mayoría de voto ponderado de quienes integran la Junta de Coordinación Política será el que rija para la instalación, funcionamiento y toma de decisiones de ese Órgano de Gobierno Colegiado.
 
 ###### Artículo 5.
 
@@ -223,13 +231,17 @@ Son obligaciones de los Diputados:
 
 I. Rendir la protesta constitucional antes de asumir su cargo;
 
-II. Asistir puntualmente a las sesiones de Pleno y de comisiones, considerándose como retardo el presentarse a las mismas después de aprobado el orden del día y como falta el ausentarse totalmente de una sesión o no hallarse presente durante una votación nominal o por cédula;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+II. Asistir puntualmente a las sesiones de Pleno, de las comisiones y de la Junta de Coordinación Política, cuando fuere miembro de la misma, considerándose como retardo el presentarse a las mismas después de aprobado el orden del día y como falta el ausentarse totalmente de una sesión o no hallarse presente durante una votación nominal o por cédula;
 
 III. Permanecer en las sesiones de Pleno desde su inicio y hasta su conclusión, excepto por causa justificada que se los impida, de lo que darán aviso al Presidente;
 
 En caso de abandonar la sesión sin aviso ni causa justificada, la Presidencia ordenará el descuento de la dieta correspondiente a un día al diputado que incurra en esta falta;
 
-IV. Solicitar por escrito al Presidente respectivo la justificación de sus ausencias, cuando proceda, en las sesiones del Pleno o de las sesiones de las comisiones de los que forme parte;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Solicitar por escrito al Presidente respectivo la justificación de sus ausencias, cuando proceda, en las sesiones del Pleno, de la Junta de Coordinación Política o de las sesiones de las comisiones y demás órganos de los que forme parte;
 
 V. Desempeñar en la Mesa Directiva del Congreso, la Junta de Coordinación o la Comisión Permanente y en las Comisiones, el cargo para el que fuere electo o designado;
 
@@ -265,7 +277,9 @@ Se considera falta a una sesión cuando un diputado no registra su asistencia co
 
 Se considerará como falta definitiva el ausentarse totalmente de una sesión o no hallarse presente durante una votación nominal o por cédula.
 
-Los Diputados que sin causa justificada o sin previa licencia del Presidente del Congreso, falten a tres sesiones del Pleno continuas y ocho discontinuas dentro de un período ordinario o tres continuas o discontinuas en un período extraordinario, no tendrán derecho a asistir a sesiones por el tiempo que reste del período, llamándose al suplente, quien asumirá sus funciones.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Los Diputados que sin causa justificada o sin previa licencia del Presidente del Congreso, de la Junta de Coordinación Política o de las comisiones de las que formen parte, falten a tres sesiones del Pleno continuas y ocho discontinuas dentro de un período ordinario o tres continuas o discontinuas en un período extraordinario, no tendrán derecho a asistir a sesiones por el tiempo que reste del período, llamándose al suplente, quien asumirá sus funciones.
 
 El Diputado que se haga acreedor a esta sanción, volverá al ejercicio de su encargo hasta el siguiente período ordinario y sus dietas y percepciones económicas las recibirá el suplente que haya sido llamado.
 
@@ -293,17 +307,21 @@ IV. Suspensión temporal; y
 
 V. Separación definitiva del cargo de diputado.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 29.
 
-El Presidente del Congreso y los presidentes de las comisiones, son responsables del orden y la disciplina durante las sesiones de dichos órganos legislativos. Para ello se auxiliarán de los integrantes de la Mesa y de las juntas directivas, respectivamente, así como de los órganos auxiliares y unidades administrativas del propio Congreso.
+El Presidente del Congreso, el de la Junta de Coordinación Política y los presidentes de las comisiones, son responsables del orden y la disciplina durante las sesiones de dichos órganos legislativos. Para ello se auxiliarán de los integrantes de la Mesa y de las juntas directivas, respectivamente, así como de los órganos auxiliares y unidades administrativas del propio Congreso.
 
-Los Diputados serán exhortados por el Presidente del Congreso, de la Comisión Permanente, de las Comisiones o Comités, por sí mismos o a moción de cualquiera de los diputados, a guardar el orden o compostura en la sesión o reunión de que se trate, cuando así sea necesario.
+Los Diputados serán exhortados por el Presidente del Congreso, de la Junta de Coordinación Política, de la Comisión Permanente, de las Comisiones o Comités, por sí mismos o a moción de cualquiera de los diputados, a guardar el orden o compostura en la sesión o reunión de que se trate, cuando así sea necesario.
 
 ###### Artículo 30.
 
 La dieta de los diputados será disminuida cuando se actualice alguno de los siguientes supuestos:
 
-I. Falten injustificadamente a una sesión de Pleno o de la Comisión Permanente;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+I. Falten injustificadamente a una sesión de Pleno, de la Junta de Coordinación Política o de la Comisión Permanente;
 
 II. Falten injustificadamente a una sesión o reunión de Comisiones o Comités.
 
@@ -375,7 +393,9 @@ III. Conducir los debates y deliberaciones, aplicando el Reglamento en lo conduc
 
 IV. Conceder el uso de la palabra a los miembros de la Cámara que lo requieran, en el orden en que haya sido solicitada;
 
-V. Someter a consideración de la asamblea los acuerdos que propongan los Diputados o las Fracciones Parlamentarias;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+V. Someter a consideración de la asamblea los acuerdos que propongan los Diputados, las Fracciones Parlamentarias, la Junta de Coordinación Política y, excepcionalmente, el Presidente de ésta;
 
 VI. Cuidar que durante las sesiones y en el recinto legislativo, los diputados se conduzcan conforme a su investidura y a las normas que rigen el ejercicio de sus funciones exhortándolos, en su caso, a conducirse conforme a ellas;
 
@@ -455,11 +475,15 @@ V. Recabar, computar y anunciar los resultados de las votaciones de los ciudadan
 
 VI. Dar lectura al orden del día, a las actas, oficios y demás documentos que se presenten con motivo de los asuntos que deban despacharse en las sesiones;
 
-VII. Cotejar, asentar y firmar en todos los expedientes, los trámites que se dieren a las resoluciones que sobre ellos se tomaren, expresando las fechas de cada uno y cuidando de que no se alteren ni enmienden las proposiciones o proyectos de ley, una vez entregados a la Secretaría General del Congreso;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Cotejar, asentar y firmar en todos los expedientes, los trámites que se dieren a las resoluciones que sobre ellos se tomaren, expresando las fechas de cada uno y cuidando de que no se alteren ni enmienden las proposiciones o proyectos de ley, una vez entregados a la Secretaría de Asuntos Parlamentarios del Congreso;
 
 VIII. Llevar un libro para el asiento por orden cronológico y a la letra, de las leyes, decretos y acuerdos, que expida el Congreso;
 
-IX. Auxiliarse en sus labores con el Secretario General del Congreso;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Auxiliarse en sus labores con la Secretaría de Asuntos Parlamentarios del Congreso;
 
 X. Firmar el Primer Secretario, en unión del Presidente las actas de las sesiones una vez aprobadas, las leyes y decretos que deban enviarse al Ejecutivo para su promulgación o publicación, así como los acuerdos económicos del Congreso. En caso de negativa o imposibilidad del Primer Secretario para suscribir los referidos documentos, podrán ser firmados por el Segundo Secretario;
 
@@ -541,7 +565,9 @@ III. Proponer al Pleno la integración de las Comisiones, con el señalamiento d
 
 IV. Integrar el proyecto del Presupuesto Anual de Egresos del Congreso y turnarlo al Ejecutivo, para que se incluya en el Presupuesto Anual de Egresos del Gobierno del Estado;
 
-V. Proponer al pleno la designación o remoción del Secretario General, del Director del Instituto de Investigaciones Legislativas y del Director de Control y Evaluación del Órgano Superior de Fiscalización;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+V. Proponer al pleno la designación o remoción del Secretario de Asuntos Parlamentarios, del Director del Instituto de Investigaciones Legislativas y del Director de Control y Evaluación del Órgano Superior de Fiscalización;
 
 VI. Nombrar y remover libremente a los demás directores y empleados del Congreso;
 
@@ -583,7 +609,9 @@ En el caso de que ninguna Fracción Parlamentaria cuente con la mayoría absolut
 
 Las decisiones o acuerdos de la Junta se tomarán por mayoría de votos de sus miembros presentes, mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su Fracción Parlamentaria; en caso de empate, el Presidente tendrá voto de calidad.
 
-El quórum legal para la instalación, funcionamiento y toma de decisiones de la Junta se conformará por la mayoría absoluta de los Coordinadores de las Fracciones Parlamentarias.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+El quórum legal para la instalación, funcionamiento y toma de decisiones de la Junta se realizará bajo el sistema de voto ponderado, es decir, con la asistencia de el (a) o los (as) Coordinadores Parlamentarios que representen la mayoría de voto ponderado de ese Órgano Colegiado de Gobierno. En caso de no quedar instalada la Junta por falta de quórum se convocará a una segunda sesión dentro de las veinticuatro horas siguientes y las necesarias hasta su instalación bajo el sistema mayoritario de voto ponderado.
 
 La ausencia del Presidente a las sesiones legalmente convocadas será suplida por el Vicecoordinador de la Fracción Parlamentaria a la que pertenezca el Presidente, en tanto se procede conforme lo señala el artículo siguiente.
 
@@ -623,17 +651,35 @@ IX. Las demás que, derivándose de la presente Ley, le sean conferidas por la p
 
 La Junta de Coordinación Política deberá quedar constituida e instalada a más tardar, en la primera sesión del primer Período Ordinario de Sesiones, en la que se hará la declaratoria correspondiente.
 
-Este órgano de Gobierno sesionará por lo menos una vez a la semana durante los períodos ordinarios de sesiones y con la periodicidad que acuerde durante los recesos. A las reuniones de la Junta de Coordinación Política, concurrirá el Secretario General en funciones de Secretario Técnico, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten. Acudirá a sus sesiones el Presidente de la Mesa Directiva del Congreso, para efectos de la integración del orden del día de las sesiones del Pleno.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Este órgano de Gobierno sesionará por lo menos una vez a la semana durante los períodos ordinarios de sesiones y con la periodicidad que acuerde durante los recesos. A las reuniones de la Junta de Coordinación Política, concurrirá el Secretario de Asuntos Parlamentarios en funciones de Secretario Técnico, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten. Acudirá a sus sesiones el Presidente de la Mesa Directiva del Congreso, para efectos de la integración del orden del día de las sesiones del Pleno.
 
 La Junta de Coordinación Política dispondrá de un local adecuado en las instalaciones del Congreso y contará con los elementos humanos y materiales necesarios para el desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 60.
 
-Para el adecuado desempeño de sus atribuciones de orden administrativo, la Junta de Coordinación Política contará con la Dirección de Administración y con la Dirección de Finanzas.
+Para el adecuado desempeño de sus atribuciones de orden administrativo, la Junta de Coordinación Política contará con las siguientes unidades y áreas administrativas:
+
+I. Dirección de Administración y Finanzas;
+
+II. Dirección de Asuntos Jurídicos;
+
+III. Instituto de Investigaciones Legislativas;
+
+IV. Unidad de Atención Ciudadana;
+
+V. Unidad de Difusión Legislativa; y
+
+VI. Unidad de Transparencia y Acceso a la Información Pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 61.
 
-Corresponde a la Dirección de Administración:
+Corresponde a la Dirección de Administración y Finanzas:
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
@@ -657,27 +703,137 @@ VIII. Proporcionar mantenimiento y conservación de los bienes muebles e inmuebl
 
 IX. Expedir, por acuerdo de la Junta de Coordinación Política, los nombramientos del personal administrativo del Congreso; y
 
-X. Las demás que le señalen la Junta de Coordinación Política.
+> <small>(DEROGADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+X. Realizar la programación, control presupuestal, contabilidad y formulación de la cuenta pública, de los fondos asignados al Congreso;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Elaborar el proyecto de presupuesto anual del Poder Legislativo, bajo la supervisión de la Junta de Coordinación Política;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Tramitar ante la dependencia competente del Poder Ejecutivo del Estado, la entrega de los fondos asignados al Poder Legislativo en el Presupuesto General de Egresos;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Recibir, proveer y controlar los recursos financieros asignados al Congreso;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Pagar los sueldos, salarios y demás prestaciones al personal que labora en el Congreso, así como efectuar los pagos a los proveedores de bienes y servicios que se requieran;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Elaborar mensualmente la información relativa al avance financiero y presupuestal y, en representación del Presidente de la Junta de Coordinación Política, remitirla dentro de los siguientes treinta días del mes que corresponda, al Órgano Superior de Fiscalización.
+
+Asimismo, enviar trimestralmente a dicho órgano, dentro de los treinta días siguientes del trimestre respectivo, la cuenta pública del Congreso, para los efectos correspondientes;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Informar mensualmente al Presidente de la Junta de Coordinación Política, el estado que guardan los recursos financieros; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Las demás que le señale la Junta de Coordinación Política.
 
 ###### Artículo 62.
 
-Corresponde a la Dirección de Finanzas
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-I. Realizar la programación, control presupuestal, contabilidad y formulación de la cuenta pública, de los fondos asignados al Congreso;
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-II. Elaborar el proyecto de presupuesto anual del Poder Legislativo, bajo la supervisión de la Junta de Coordinación Política;
+###### Artículo 62 Bis.
 
-III. Tramitar ante la dependencia competente del Poder Ejecutivo del Estado, la entrega de los fondos asignados al Poder Legislativo en el Presupuesto General de Egresos;
+Corresponde a la Dirección de Asuntos Jurídicos:
 
-IV. Recibir, proveer y controlar los recursos financieros asignados al Congreso;
+I. Representar al Congreso del Estado y a sus órganos directivos en los asuntos jurídicos o litigiosos que así lo requieran;
 
-V. Pagar los sueldos, salarios y demás prestaciones al personal que labora en el Congreso, así como efectuar los pagos a los proveedores de bienes y servicios que se requieran;
+II. Auxiliar y brindar asesoría jurídica a los Diputados, a la Junta de Coordinación Política, a la Mesa Directiva, al Secretario de Asuntos Parlamentarios y las demás áreas administrativas del Congreso, cuando así lo soliciten;
 
-VI. Elaborar mensualmente la información relativa al avance financiero y presupuestal y, en representación del Presidente de la Junta de Coordinación Política, remitirla dentro de los siguientes treinta días del mes que corresponda, al Órgano Superior de Fiscalización. Asimismo, enviar trimestralmente a dicho órgano, dentro de los treinta días siguientes del trimestre respectivo, la cuenta pública del Congreso, para los efectos correspondientes;
+III. Presentar a la Junta de Coordinación Política, propuestas de carácter legal que tengan como finalidad el estricto cumplimiento y mejor funcionamiento de las actividades del Congreso; y
 
-VII. Informar mensualmente al Presidente de la Junta de Coordinación Política, el estado que guardan los recursos financieros; y
+IV. Las demás que le señale la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 62 Ter.
+
+Son atribuciones del Instituto de Investigaciones Legislativas:
+
+I. Investigar y difundir temas relacionados con el estudio de la actividad legislativa;
+
+II. Proponer a la Junta de Coordinación Política anteproyectos de iniciativas de leyes, reformas o adiciones, tendientes a actualizar la legislación vigente en el Estado, derivado de reformas constitucionales, ordenamientos generales, federales, o tesis y mandamientos jurisdiccionales;
+
+III. Proponer las directrices de investigación, difusión, conservación de documentos, de intercambio bibliográfico y de experiencia en investigación con los Congresos locales, Congreso de la Unión, instituciones académicas locales y nacionales;
+
+IV. Proponer la realización de convenios de colaboración con entes públicos o privados, para el desarrollo y mejoramiento de las funciones legislativas y tareas a cargo del Congreso, los diputados y el personal de apoyo;
+
+V. Efectuar estudios comparativos de la Legislación del Estado con respecto a otras entidades federativas, del orden federal y de otros países;
+
+VI. Compilar las leyes, códigos y reglamentos del fuero común vigentes en el Estado, para modernizar su archivo; analizar y estudiar las diferentes legislaciones, con la finalidad de actualizar, en su caso, las leyes estatales;
+
+VII. Mantener permanentemente actualizada, sistematizada y disponible, en la página oficial del Congreso en Internet, la información relativa a la Constitución Política del Estado, las leyes estatales y sus reglamentos, así como sus diversas reformas y las fichas de los procesos legislativos correspondientes; y
 
 VIII. Las demás que le señale la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 62 Quáter.
+
+Corresponde a la Unidad de Atención Ciudadana:
+
+I. Gestionar ante las diversas instancias de gobierno, las peticiones y quejas de la ciudadanía, como apoyo a las actividades de gestión y representación popular de los diputados;
+
+II. Realizar las actividades necesarias para el cumplimiento de los acuerdos de coordinación, que celebre el Congreso del Estado con las dependencias y entidades de los gobiernos federal, estatal y municipal en la materia; y
+
+III. Las demás que le señale la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 62 Quintus.- Corresponde a la Unidad de Difusión Legislativa:
+
+I. Diseñar el proyecto de Programa de Comunicación Social del Congreso, para dar a conocer las actividades que se lleven a cabo en el ejercicio de sus funciones, y auxiliar a los diputados en sus relaciones con los medios de comunicación;
+
+II. Proporcionar la información relacionada con las actividades legislativas que se le solicite, manteniendo al día el archivo correspondiente;
+
+III. Asistir a todas las reuniones del pleno y comisiones y llevar un archivo de grabación magnetofónica, filmaciones, notas periodísticas y fotografías;
+
+IV. Reunir el material informativo necesario para la elaboración de la revista mensual del Congreso, así como la organización de exposiciones de carácter cultural;
+
+V. Dirigir las relaciones públicas de la Legislatura;
+
+VI. Contar con un directorio oficial actualizado de los diputados y los servidores públicos del Congreso; y
+
+VII. Las demás que le señale la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 62 Sextus.- Corresponde a la Unidad de Transparencia y Acceso a la Información Pública:
+
+I. Recabar, transparentar y actualizar la información pública de oficio a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado;
+
+II. Asesorar y orientar a quienes lo requieran, en la elaboración de las solicitudes de información, así como en los trámites para hacer efectivo el ejercicio de su derecho de acceso a la misma;
+
+III. Recibir y tramitar las solicitudes de acceso a la información pública, así como darles seguimiento hasta la entrega de dicha información en la forma en que la haya pedido el interesado conforme a la Ley de la materia;
+
+IV. Coordinar, organizar, administrar, custodiar y sistematizar los archivos que contengan la información pública a su cargo;
+
+V. Llevar el registro y actualizar mensualmente las solicitudes de acceso a la información, así como sus trámites, costos de reproducción y/o envío y resultado;
+
+VI. Efectuar las notificaciones correspondientes a los solicitantes en los términos de la ley de la materia y su reglamento;
+
+VII. Proponer los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
+
+VIII. Elaborar un catálogo de información o de expedientes clasificados, actualizándolos, por lo menos, cada seis meses;
+
+IX. Verificar, en cada caso, que la información solicitada no esté clasificada como reservada o confidencial;
+
+X. Recibir las solicitudes de aclaración, la acción de protección de datos personales, dándoles el seguimiento que corresponda;
+
+XI. Representar al Congreso del Estado en los litigios tratándose de los medios de impugnación que prevé la Ley de Transparencia y Acceso a la Información Pública del Estado; y
+
+XII. Las demás que sean necesarias para facilitar el ejercicio de acceso a la información pública y las que señale la Junta de Coordinación Política.
 
 ### CAPÍTULO IV. De las Comisiones
 
@@ -787,71 +943,45 @@ En el ejercicio de dichas funciones, tratándose de las comparecencias, solicitu
 
 Los Diputados además de formar parte de las comisiones para las que fueren designados, podrán participar en las sesiones de otras comisiones, con voz pero sin voto.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 75.
 
 Para el desempeño de sus funciones, el Congreso cuenta con las siguientes Comisiones ordinarias:
 
-I. Asuntos de la Frontera Sur;
+I. Bienestar Social, Asuntos Indígenas, Atención a Grupos Vulnerables, Adultos Mayores y Personas con Discapacidades;
 
-II. Asuntos Indígenas;
+II. Comunicaciones y Transportes, Tránsito y Vialidad;
 
-III. Atención a Grupos Vulnerables, Personas con Discapacidad y Adultos en Plenitud;
+III. Derechos Humanos, Igualdad de Género y Asuntos de la Frontera Sur;
 
-IV. Comunicaciones y Transportes, Tránsito y Vialidad;
+IV. Desarrollo Agropecuario, Forestal y Pesquero;
 
-V. Desarrollo Social;
+V. Educación, Ciencia y Tecnología, Cultura, Infancia, Juventud y Deporte;
 
-VI. Derechos Humanos;
+VI. Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico;
 
-VII. Desarrollo Agropecuario, Forestal y Pesquero;
+VII. Fortalecimiento Municipal y Trabajo;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2016)</small>
+VIII. Gobernación y Puntos Constitucionales;
 
-VIII. Educación, Cultura, Ciencia y Tecnología.
+IX. Hacienda y Finanzas;
 
-IX. Energía, Recursos Naturales y Protección Ambiental;
+X. Inspectora de Hacienda, Primera;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+XI. Inspectora de Hacienda, Segunda;
 
-X. Igualdad de Género.
+XII. Inspectora de Hacienda, Tercera;
 
-XI. Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico;
+XIII. Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias;
 
-XII. Fortalecimiento Municipal;
+XIV. Ordenamiento Territorial y Obras Públicas;
 
-XIII. Gobernación y Puntos Constitucionales;
+XV. Recursos Hidráulicos, Energía y Protección Ambiental;
 
-XIV. Hacienda y Finanzas;
+XVI. Salud; y
 
-XV. Infancia, Juventud, Recreación y Deporte.
-
-XVI. Inspectora de Hacienda, Primera;
-
-XVII. Inspectora de Hacienda, Segunda;
-
-XVIII. Inspectora de Hacienda, Tercera;
-
-XIX. Instructora de la Cámara;
-
-XX. Justicia y Gran Jurado;
-
-XXI. Ordenamiento Territorial y Obras Públicas;
-
-XXII. Protección Civil;
-
-XXIII. Recursos Hidráulicos;
-
-XXIV. Reglamento y Prácticas Parlamentarias;
-
-XXV. Salud;
-
-XXVI. Seguridad Pública y Procuración de Justicia; y
-
-XXVII. Trabajo y Previsión social.
-
-Las comisiones ordinarias antes relacionadas tienen facultades para el análisis, debate y dictamen de los asuntos que les son remitidos, en concordancia con las funciones legislativas, deliberativas, de control, administrativas y jurisdiccionales que competen al Poder Legislativo. Su competencia específica será determinada en el Reglamento y se corresponderá, en lo general con, las referidas a los Poderes Públicos, las dependencias y entidades de la Administración Pública Estatal, así como a los órganos constitucionales autónomos y municipios.
+XVII. Seguridad Pública, Procuración de Justicia y Protección Civil.
 
 ### CAPÍTULO V. De los Comités
 
@@ -891,21 +1021,29 @@ Las Fracciones Parlamentarias deberán entregar la documentación antes menciona
 
 Examinada que sea por la Mesa Directiva del Congreso la documentación referida, el Presidente en la primera sesión ordinaria de inicio de la Legislatura, hará la declaratoria de haberse constituido las Fracciones Parlamentarias respectivas.
 
-### CAPÍTULO VII. De la Secretaría General del Congreso
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO VII. De la Secretaría de Asuntos Parlamentarios
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 82.
 
-Para la coordinación y ejecución de las tareas que permitan el mejor cumplimiento de las funciones legislativas y la atención eficiente de sus necesidades administrativas y financieras, el Congreso contará con una Secretaría General integrada por las unidades administrativas previstas en esta Ley, conforme a lo que prevea el Presupuesto de Egresos del Poder Legislativo.
+Para la coordinación y ejecución de las tareas que permitan el mejor cumplimiento de las funciones legislativas, el Congreso contará con una Secretaría de Asuntos Parlamentarios integrada por las unidades administrativas previstas en esta Ley, conforme a lo que prevea el Presupuesto de Egresos del Poder Legislativo.
 
-La Secretaría General coordina y supervisa los servicios parlamentarios y de apoyo técnico de la Cámara de Diputados. La prestación de dichos servicios queda a cargo de las unidades administrativas adscritas a dicha Secretaría.
+La Secretaría de Asuntos Parlamentarios coordina y supervisa los servicios parlamentarios y de apoyo técnico de la Cámara de Diputados. La prestación de dichos servicios queda a cargo de dicha Secretaría y de las unidades administrativas adscritas a ésta.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 83.
 
-El Secretario General del Congreso, será nombrado por el Pleno con el voto de la mayoría absoluta de los Diputados presentes, a propuesta de la Junta de Coordinación Política, por el término de cada Legislatura, pudiendo ser reelecto; continuará en sus funciones hasta la realización de la elección correspondiente.
+El Secretario de Asuntos Parlamentarios será nombrado por el Pleno con el voto de la mayoría absoluta de los Diputados presentes, a propuesta de la Junta de Coordinación Política, pudiendo ser reelecto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 84.
 
-Para ser Secretario General del Congreso, se requiere:
+Para ser Secretario de Asuntos Parlamentarios, se requiere:
 
 I. Ser mexicano y estar en pleno goce de sus derechos;
 
@@ -919,33 +1057,45 @@ V. No haber sido durante los últimos dos años miembro de la dirigencia naciona
 
 VI. No haber sido condenado por delito intencional, que haya ameritado pena de privación de la libertad.
 
-### CAPÍTULO VIII. De las Áreas Administrativas dependientes de la Secretaría General
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO VIII. De las Áreas Legislativas y Administrativas dependientes de la Secretaría de Asuntos Parlamentarios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 85.
 
-Para su funcionamiento, la Secretaría General contará con las siguientes unidades y áreas administrativas, cuyos titulares serán designados por la Junta de Coordinación Política, previos los acuerdos y consensos necesarios entre sus integrantes:
+Para su funcionamiento, la Secretaría de Asuntos Parlamentarios contará con las siguientes unidades y áreas legislativas y administrativas, cuyos titulares serán designados por la Junta de Coordinación Política:
 
-I. Dirección de Apoyo y Servicios Parlamentarios;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-II. Dirección de Asuntos Jurídicos, Transparencia y Acceso a la Información Pública;
+I. Dirección de Servicios Legislativos;
 
-III. Dirección de Atención Ciudadana, Gestoría y Quejas;
+II. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-IV. Dirección de Comunicación y Relaciones Públicas;
+III. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-V. Dirección de Estudios Legislativos y Proyectos Normativos;
+IV. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-VI. Dirección del Archivo Legislativo;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+V. Dirección de Apoyo a Comisiones y Proyectos Normativos;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Coordinación de Archivo Legislativo;
 
 VII. Coordinación de Biblioteca y Videoteca Legislativa;
 
 VIII. Coordinación de Seguridad y Operación Logística; y
 
-IX. Instituto de Investigaciones Legislativas.
+IX. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2018)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 86.
 
-La Dirección de Apoyo y Servicios Parlamentarios tiene las siguientes atribuciones:
+La Dirección de Servicios Legislativos tiene las siguientes atribuciones:
 
 I. Prestar servicios de asistencia técnica a la Presidencia de la Mesa Directiva, seguimiento de comunicaciones y correspondencia; control de turnos y documentos; apoyo en la certificación y autentificación documental;
 
@@ -957,55 +1107,27 @@ IV. Apoyar a las comisiones a través de sus secretarios técnicos; para la orga
 
 V. Formar, clasificar y custodiar los expedientes del Pleno y las Comisiones; desahogar consultas y prestar apoyo documental a los órganos de la Cámara y los legisladores; y
 
-VI. Las demás que le señale la Junta de Coordinación Política y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Las demás que le señalen la Junta de Coordinación Política y el Secretario de Asuntos Parlamentarios.
 
 ###### Artículo 87.
 
-Corresponde a la Dirección de Asuntos Jurídicos, Transparencia y Acceso a la Información Pública:
-
-I. Representar al Congreso del Estado y a sus órganos directivos en los asuntos jurídicos o litigiosos que así lo requieran;
-
-II. Auxiliar y brindar asesoría jurídica a los Diputados, a la Junta de Coordinación Política, a la Mesa Directiva, al Secretario General y las demás áreas administrativas del Congreso, cuando así lo soliciten;
-
-III. Integrar el Comité de Transparencia y operar los servicios de acceso a la información pública del Congreso del Estado, de conformidad con la legislación y normatividad aplicables, a través de la Unidad de Acceso a la Información prevista en la Ley de Transparencia;
-
-IV. Presentar a la Junta de Coordinación Política, propuestas de carácter legal que tengan como finalidad el estricto cumplimiento y mejor funcionamiento de las actividades del Congreso; y
-
-V. Las demás que le señale la Junta de Coordinación Política y el Secretario General.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 88.
 
-Corresponde a la Dirección de Atención Ciudadana, Gestoría y Quejas:
-
-I. Gestionar ante las diversas instancias de los tres órdenes de gobierno, las peticiones y quejas de la ciudadanía, como apoyo a las actividades de gestión y representación popular de los diputados;
-
-II. Realizar las actividades necesarias para el cumplimiento de los acuerdos de coordinación, que celebre el Congreso del Estado con las dependencias y entidades de los gobiernos federal, estatal y municipal en la materia; y
-
-III. Las demás que le señale la Junta de Coordinación Política y el Secretario General.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 89.
 
-Corresponde a la Dirección de Comunicación Social y Relaciones Públicas:
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-I. Diseñar el proyecto de Programa de Comunicación Social del Congreso, para dar a conocer las actividades que se lleven a cabo en el ejercicio de sus funciones, y auxiliar a los diputados en sus relaciones con los medios de comunicación;
-
-II. Proporcionar la información relacionada con las actividades legislativas que se le solicite, manteniendo al día el archivo correspondiente;
-
-III. Asistir a todas las reuniones del pleno y comisiones y llevar un archivo de grabación magnetofónica, filmaciones, notas periodísticas y fotografías;
-
-IV. Reunir el material informativo necesario para la elaboración de la revista mensual del Congreso, así como la organización de exposiciones de carácter cultural;
-
-V. Dirigir las relaciones públicas de la Legislatura;
-
-VI. Contar con un directorio oficial actualizado de los diputados y los servidores públicos del Congreso;
-
-VII. Llevar a cabo eventos culturales, cívicos, sociales, homenajes y aniversarios luctuosos, que busquen el mantenimiento de las buenas relaciones públicas del Congreso; y
-
-VIII. Las demás que le señale la Junta de Coordinación Política y el Secretario General.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 90.
 
-Corresponde a la Dirección de Estudios Legislativos y Proyectos Normativos:
+Corresponde a la Dirección de Apoyo a Comisiones y Proyectos Normativos:
 
 I. Brindar asesoría y apoyo en materia de técnica jurídica y legislativa, a las comisiones ordinarias y especiales, o a los diputados que lo requieran;
 
@@ -1013,11 +1135,15 @@ II. Apoyar a las comisiones en el análisis de las iniciativas y proposiciones p
 
 III. Apoyar a los diputados y a las comisiones, en la elaboración de anteproyectos de iniciativas de leyes o decretos, proposiciones reformas o adiciones, tendientes a actualizar la legislación vigente en el Estado, derivado de reformas constitucionales, ordenamientos generales, federales, o tesis y mandamientos jurisdiccionales; y
 
-IV. Las demás que le señalen la Junta de Coordinación Política y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Las demás que le señalen la Junta de Coordinación Política y el Secretario de Asuntos Parlamentarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 91.
 
-Corresponde a la Dirección del Archivo Legislativo:
+Corresponde a la Coordinación de Archivo Legislativo:
 
 I. Planear, programar y organizar las transferencias periódicas de documentos de trámite concluido de las dependencias y unidades administrativas del Poder Legislativo;
 
@@ -1029,7 +1155,9 @@ IV. Hacer uso de todos los medios técnicos necesarios para la conservación de 
 
 V. Permitir la consulta al público de los fondos de la Dirección del Archivo Legislativo, con excepción de los que tengan el carácter de reservados, conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado; y
 
-VI. Las demás que le señale la Junta de Coordinación Política y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Las demás que le señalen la Junta de Coordinación Política y el Secretario de Asuntos Parlamentarios.
 
 ###### Artículo 92.
 
@@ -1039,7 +1167,9 @@ I. Promover el mejoramiento de la biblioteca y sistemas de información bibliogr
 
 II. Dar cumplimiento a lo dispuesto por la Ley General de Bibliotecas y la Ley del Libro y Bibliotecas Públicas del Estado de Tabasco; y
 
-III. Las demás que le señale la Junta de Coordinación Política y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+III. Las demás que le señalen la Junta de Coordinación Política y el Secretario de Asuntos Parlamentarios.
 
 ###### Artículo 93.
 
@@ -1051,45 +1181,39 @@ II. Desarrollar e implementar los programas y acciones de protección civil para
 
 III. Coordinar las acciones de seguridad y logística en los eventos oficiales que realicen los órganos directivos y comisiones del Congreso, dentro y fuera del recinto legislativo;
 
-IV. Las demás que le encargue la Junta de Coordinación Política y el Secretario General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Las demás que le encarguen la Junta de Coordinación Política y el Secretario de Asuntos Parlamentarios.
 
 ###### Artículo 94.
 
-Son atribuciones del Instituto de Investigaciones Legislativas:
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
-I. Investigar y difundir temas relacionados con el estudio de la actividad legislativa;
-
-II. Proponer a la Junta de Coordinación Política anteproyectos de iniciativas de leyes, reformas o adiciones, tendientes a actualizar la legislación vigente en el Estado, derivado de reformas constitucionales, ordenamientos generales, federales, o tesis y mandamientos jurisdiccionales;
-
-III. Proponer las directrices de investigación, difusión, conservación de documentos, de intercambio bibliográfico y de experiencia en investigación con los Congresos locales, Congreso de la Unión, instituciones académicas locales y nacionales;
-
-IV. Proponer la realización de convenios de colaboración con entes públicos o privados, para el desarrollo y mejoramiento de las funciones legislativas y tareas a cargo del Congreso, los diputados y el personal de apoyo;
-
-V. Efectuar estudios comparativos de la Legislación del Estado con respecto a otras entidades federativas, del orden federal y de otros países;
-
-VI. Compilar las leyes, códigos y reglamentos del fuero común vigentes en el Estado, para modernizar su archivo; analizar y estudiar las diferentes legislaciones, con la finalidad de actualizar, en su caso, las leyes estatales;
-
-VII. Mantener permanentemente actualizada, sistematizada y disponible, en la página oficial del Congreso en Internet, la información relativa a la Constitución Política del Estado, las leyes estatales y sus reglamentos, así como sus diversas reformas y las fichas de los procesos legislativos correspondientes; y
-
-VIII. Las demás que le señale la Junta de Coordinación Política y el Secretario General.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 95.
 
-Las áreas administrativas de la Secretaría General se regirán, en su integración, funcionamiento y competencia, por lo dispuesto en la Presente ley, el Reglamento y los manuales de organización y procedimientos respectivos, con apego al Presupuesto de Egresos del Poder Legislativo.
+Las áreas legislativas y administrativas de la Secretaría de Asuntos Parlamentarios se regirán, en su integración, funcionamiento y competencia, por lo dispuesto en la Presente ley, el Reglamento y los manuales de organización y procedimientos respectivos, con apego al Presupuesto de Egresos del Poder Legislativo.
 
-### CAPÍTULO IX. De la Contraloría Interna
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO IX. De la Unidad de Contraloría Interna
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 96.
 
-En términos de las leyes aplicables, el Congreso cuenta también con una Contraloría Interna cuyo titular será nombrado por la Junta de Coordinación Política, por el término de la Legislatura. El contralor podrá ser removido de su cargo por causa grave, calificada por la propia Junta.
+En términos de las leyes aplicables, el Congreso cuenta también con una Unidad de Contraloría Interna, cuyo titular será nombrado por la Junta de Coordinación Política.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 97.
 
-La Contraloría Interna de la Cámara tiene a su cargo practicar auditorías, revisiones, investigaciones y verificaciones, en términos de las disposiciones aplicables.
+La Unidad de Contraloría Interna de la Cámara tiene a su cargo practicar auditorías, revisiones, investigaciones y verificaciones, en términos de las disposiciones aplicables.
 
-Corresponde a la Contraloría Interna:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Corresponde a la Unidad de Contraloría Interna:
 
 I. Proponer y aplicar las normas y criterios en materia de control, fiscalización y evaluación que deban observar las fracciones parlamentarias, dependencias, órganos, coordinaciones y unidades administrativas que ejerzan recursos del Presupuesto de Egresos del Poder Legislativo;
 
@@ -1131,13 +1255,13 @@ La Junta de Coordinación Política contará con la Dirección de Control y Eval
 
 La Dirección de Control y Evaluación dependerá directamente de la Junta de Coordinación Política, y tendrá las atribuciones y facultades que se relacionan en el artículo 96 de la Ley de Fiscalización Superior del Estado de Tabasco. Su titular será designado para el término de la Legislatura por el voto de las dos terceras partes de los diputados presentes en la sesión respectiva, a propuesta de la Junta de Coordinación Política, debiendo cumplir los requisitos de Ley, pudiendo ser reelecto.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ### CAPÍTULO XI. Del Servicio Profesional de Carrera Parlamentaria
 
 ###### Artículo 99.
 
-Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentario y de orden administrativo del Congreso, se instituye el Servicio Profesional de Carrera Parlamentaria. Para tal propósito, el Congreso contará con la Unidad de Capacitación y Formación Permanente de los funcionarios adscritos a este Servicio.
-
-La Unidad dependerá de la Junta de Coordinación Política, que designará a su titular, quien deberá cumplir los requisitos y ejercer las atribuciones que se establezcan en el Reglamento del Servicio Profesional de Carrera Parlamentaria.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
@@ -1165,7 +1289,9 @@ III.- Para ser titular del Órgano Interno de Control de alguno de los organismo
 
 IV.- La convocatoria pública para la elección del titular del Órgano Interno de Control correspondiente, deberá publicarse en la página oficial de internet del Congreso, en un periódico de los de mayor circulación del Estado y en su caso en la Gaceta Legislativa del Congreso del Estado;
 
-V.- Una vez abierto el periodo a que se refiera la convocatoria correspondiente, se recibirán las solicitudes de los aspirantes, y la documentación comprobatoria del cumplimiento de los requisitos correspondientes; la Secretaría General del Congreso entregará los expedientes a la Comisión de Gobernación y Puntos Constitucionales, misma que se encargará de realizar la revisión correspondiente a efecto de determinar el cumplimiento de los requisitos exigidos para el cargo respectivo;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+V.- Una vez abierto el periodo a que se refiera la convocatoria correspondiente, se recibirán las solicitudes de los aspirantes, y la documentación comprobatoria del cumplimiento de los requisitos correspondientes; la Secretaría de Asuntos Parlamentarios del Congreso entregará los expedientes a la Comisión de Gobernación y Puntos Constitucionales, misma que se encargará de realizar la revisión correspondiente a efecto de determinar el cumplimiento de los requisitos exigidos para el cargo respectivo;
 
 VI.- En caso de que la Comisión de Gobernación y Puntos Constitucionales, determine que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud, mediante acuerdo por escrito, con el señalamiento del o los requisitos incumplidos;
 
@@ -1595,9 +1721,11 @@ Las votaciones nominales se harán a través de un sistema automatizado de asist
 
 Este sistema podrá ser empleado también en las votaciones ordinarias, cuando por la importancia del asunto sujeto a discusión, a propuesta del presidente de la Mesa Directiva, el Pleno lo apruebe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 165.
 
-Las votaciones para elegir personas se harán por cédulas, en las que se emitirá el voto por escrito, que se depositará en un ánfora colocada al efecto frente a la directiva del Congreso. Obtenida la votación, el Secretario de la Mesa, con el auxilio del Secretario General, realizará su escrutinio y verificará el resultado, el cual se le dará a conocer al Presidente, para que éste haga la declaratoria que corresponde.
+Las votaciones para elegir personas se harán por cédulas, en las que se emitirá el voto por escrito, que se depositará en un ánfora colocada al efecto frente a la directiva del Congreso. Obtenida la votación, el Secretario de la Mesa, con el auxilio del Secretario de Asuntos Parlamentarios, realizará su escrutinio y verificará el resultado, el cual se le dará a conocer al Presidente, para que éste haga la declaratoria que corresponde.
 
 Mientras se verifica la votación, ningún miembro de la Legislatura deberá abandonar el salón de sesiones.
 
@@ -1834,3 +1962,19 @@ SEGUNDO.- En la imposibilidad de lograr las dos terceras partes para el (sic) de
 TERCERO.- El Congreso del Estado de Tabasco, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política del Estado Libre y Soberano de Tabasco les otorga autonomía conforme a las disposiciones previstas en el presente Decreto.
 
 Lo anterior, con excepción de aquellos titulares de los órganos internos de control que actualmente se encuentren en funciones, quienes continuarán en su encargo en los términos en los que fueron nombrados.
+
+P.O. 1 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 204 POR EL QUE "SE REFORMAN, LA (SIC) FRACCIONES II Y IV DEL ARTÍCULO 23, EL PÁRRAFO TERCERO DEL ARTÍCULO 26, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 27, EL ARTÍCULO 29, LA FRACCIÓN I DEL ARTÍCULO 30, LA FRACCIÓN V DEL ARTÍCULO 41, LAS FRACCIONES VII Y IX DEL ARTÍCULO 45, LA FRACCIÓN V DEL ARTÍCULO 55, EL QUINTO PÁRRAFO DEL ARTÍCULO 56, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 59, LOS ARTÍCULOS 60, 75, 82 Y 83, EL PRIMER PÁRRAFO DEL ARTÍCULO 84, EL PÁRRAFO PRIMERO Y LAS FRACCIONES I, V Y VI DEL ARTÍCULO 85, EL PÁRRAFO PRIMERO Y LA FRACCIÓN VI DEL ARTÍCULO 86, EL PÁRRAFO PRIMERO Y LA FRACCIÓN IV DEL ARTÍCULO 90, LA FRACCIÓN VI DEL ARTÍCULO 91, LA FRACCIÓN III DEL ARTÍCULO 92, LA FRACCIÓN IV DEL ARTÍCULO 93, LOS ARTÍCULOS 95 Y 96, LOS PÁRRAFOS PRIMERO Y ·SEGUNDO DEL ARTÍCULO 97, LA FRACCIÓN V DEL ARTÍCULO 99 TER, EL PÁRRAFO PRIMERO DEL ARTÍCULO 168, Y LOS CAPÍTULOS VII, VIII Y IX DEL TÍTULO III DE LA "ORGANIZACIÓN Y FUNCIONAMIENTO DEL CONGRESO"; SE ADICIONAN LA FRACCIÓN XVI AL ARTÍCULO 4, LAS FRACCIONES DE LA XI A LA XVII AL ARTÍCULO 61, LOS ARTÍCULOS 62 BIS, 62 TER, 62 QUÁTER, 62 QUINTUS Y 62 SEXTUS; Y SE DEROGAN, EL CONTENIDO DE LA FRACCIÓN X DEL ARTÍCULO 61, EL ARTÍCULO 62, LAS FRACCIONES II, III, IV Y IX DEL ARTÍCULO 85, LOS ARTÍCULOS 87, 88, 89, 94 Y 99, Y EL CAPÍTULO XI DEL TÍTULO III DE LA "ORGANIZACIÓN Y FUNCIONAMIENTO DEL CONGRESO", TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia de otros ordenamientos legales a las unidades, áreas administrativas o comisiones que se modifican por virtud de este Decreto, se entenderán referidas a las señaladas en éste.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
