@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2017-12-28"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO CIVIL DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2541,7 +2543,7 @@ Esta causal podrá ser invocada por cualquiera de los cónyuges, si transcurrido
 
 Cuando un cónyuge demande el divorcio o la ilegitimidad del matrimonio por causas que no justifique o que hayan resultado insuficientes, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la sentencia que cause estado o de la resolución que decrete la caducidad de la instancia. Durante esos tres meses, los cónyuges no están obligados a vivir juntos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE FEBRERO DE 2016)</small>
 
 Art. 405 bis.- El divorcio administrativo procede cuando:
 
@@ -2562,6 +2564,10 @@ Se presentarán personalmente al Oficial del Registro Civil del lugar de su domi
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
 
 El Oficial del Registro Civil, previa identificación de los cónyuges, levantará un acta en la que hará constar la solicitud de divorcio y citará a los cónyuges transcurridos treinta días naturales para que la ratifiquen personalmente. Durante ese lapso, los solicitantes deberán acudir al Sistema para el Desarrollo Integral de la Familia, estatal o municipal, con personal de trabajo social con capacitación en terapia de pareja o a cualquier otra institución acreditada, quienes procurarán avenirlos y se les extenderá una constancia que deberá entregar al Oficial del Registro Civil en la audiencia de ratificación. Ratificada la solicitud, el Oficial del Registro Civil los declarará divorciados, levantará el acta de divorcio y hará las anotaciones correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Los cónyuges podrán acudir ante Notario Público de la región notarial correspondiente al lugar donde se celebró el matrimonio a tramitar su divorcio bajo el mismo procedimiento al que se sujetarían ante el Oficial del Registro Civil. El Notario Público hará constar en escritura pública la solicitud de divorcio, que medió ante los cónyuges procurando avenirlos y, si estos ratifican dicha solicitud, así se expresará en el instrumento público y declarará la disolución del vínculo matrimonial. Satisfechos los requisitos de ley, el Notario expedirá testimonios que remitirá tanto al Oficial del Registro Civil ante quien se celebró el matrimonio y al Director del Archivo de Registro Civil del Estado, para que el primero levante el acta de divorcio correspondiente y ambos realicen las anotaciones a que hubiere lugar.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
 
@@ -17079,6 +17085,10 @@ IV. El notario no conozca al testador, ni haya bases suficientes para su plena i
 
 V. En el caso previsto en el artículo 2833.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando el testador sea ciego y designe perito en sistema de escritura Braille o existan las condiciones técnicas en la notaría, se podrá realizar el testamento en escritura braille, sin la asistencia de los testigos.
+
 ###### Art. 2843.
 
 El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, y día en que hubiere sido otorgado, precisándose, además, la hora de su inicio y de su terminación.
@@ -17090,6 +17100,10 @@ El que fuere enteramente sordo pero que sepa leer, deberá dar lectura a su test
 ###### Art. 2845.
 
 Cuando sea ciego el testador, se dará lectura en voz alta al testamento dos veces: una por el notario y otra por uno de los testigos u otra persona que el testador designe.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+En el caso de que el testador hubiere optado por el sistema de escritura Braille, él mismo realizará la segunda lectura, asentando este hecho en el instrumento público.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
 
@@ -18511,17 +18525,21 @@ Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con 
 
 En el proyecto de partición se expresará la parte que del capital o fundo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquélla se extinga.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Art. 3118.
 
-Cuando todos los herederos sean mayores de edad, exista testamento público abierto, podrán los interesados tramitar el negocio sucesorio ante notario público que tenga su jurisdicción en el domicilio donde correspondería conocer a la autoridad judicial del mismo, en los términos del Código de Procedimientos Civiles. También en los casos de sucesión legítima, o testamento público cerrado y ológrafo, una vez que hubieren sido reconocidos los herederos, y designado el albacea, podrán los interesados separarse del trámite judicial y concurrir a notaría para la prosecución del negocio.
+Cuando todos los herederos sean mayores de edad, no existan herederos incapaces, exista testamento público abierto, o se trate de sucesión legitima, podrán los interesados tramitar, desde su inicio, el negocio sucesorio ante notario público que tenga su jurisdicción en el domicilio donde correspondería conocer a la autoridad judicial del mismo, en los términos del Código de Procedimientos Civiles. También en los casos de sucesión legítima, iniciada ante la autoridad judicial, o cuando exista testamento público cerrado u ológrafo, una vez que hubieren sido reconocidos los herederos, y designado el albacea, podrán los interesados separarse del trámite judicial y concurrir a notaria para la prosecución del negocio.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 Cuando haya niñas, niños o adolescentes, podrán separarse, si están debidamente representados y el Agente de la Procuraduría Social da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo a la Procuraduría de Protección de Niñas, Niños y Adolescentes, dará su aprobación si no se lesiona (sic) derechos y el interés superior de la niñez.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 Ante el notario podrán adoptar todos los acuerdos que se estimen convenientes para el arreglo y terminación del trámite sucesorio.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 El notario expedirá el título de propiedad respectivo.
 
@@ -19187,6 +19205,20 @@ P.O. 14 DE DICIEMBRE DE 2017.
 
 P.O. 28 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26721/LXI/17 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4, 5, 6, 7, 8, 31, 64 Y 82, TODOS DE LA LEY DE ATENCIÓN A VÍCTIMAS; LOS ARTÍCULOS 599 Y 601 DEL CÓDIGO CIVIL, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26721/LXI/17 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4, 5, 6, 7, 8, 31, 64 Y 82, TODOS DE LA LEY DE ATENCIÓN A VÍCTIMAS; LOS ARTÍCULOS 599 Y 601 DEL CÓDIGO CIVIL, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
-PRIMERO. El presente decreto entrará en vigor el día primero de enero del año 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
+PRIMERO. El presente decreto entrará en vigor el día primero de enero del año 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 1 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26926/LXI/18, QUE REFORMA LOS ARTÍCULOS 2, 3, 9, 21, 35, 43, 50, 57, 58, 62, 67, 70, 84, 90, 96, 101, 123, 125, 128, 142, 149, 158, 159, 160, 167, 171, 174, 175, 176, 177, 178, 179, 207, 208 Y 212, ADICIONA LOS ARTÍCULOS 53 BIS Y 206 BIS, Y DEROGA LOS ARTÍCULOS 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195 Y 196 DE LA LEY DEL NOTARIADO; REFORMA LOS ARTÍCULOS 405 BIS, 2842, 2845 Y 3118 DEL CÓDIGO CIVIL; REFORMA LOS ARTÍCULOS 758, 765, 770, 935 BIS, 935 TER, 938, 1058, 1060, 1062 Y 1063, Y ADICIONA EL CAPÍTULO IV BIS AL TÍTULO DÉCIMO SEGUNDO Y EL ARTÍCULO 775 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; Y REFORMA LOS ARTÍCULOS 122, 131, 133, 134 Y 135 DE LA LEY DEL REGISTRO CIVIL, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Lo previsto en el artículo 57, fracción VI, de la reforma a la Ley del Notariado del Estado de Jalisco, no será aplicable a los Notarios que hubiesen obtenido su nombramiento o fiat antes de la entrada en vigor del presente decreto.
+
+TERCERO. Lo previsto en el artículo 21 fracción V, del presente decreto, no será aplicable a quienes hayan obtenido patente de aspirante al ejercicio del notariado con anterioridad a la entrada en vigor del presente decreto
+
+CUARTO. Los Notarios adscritos a alguno de los municipios de los señalados en la fracción I del artículo 29 de esta Ley, que tengan su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia del presente decreto, podrán mantener su oficina en ese municipio.
+
+QUINTO. Las presentes disposiciones surtirán todos sus efectos en tanto no se opongan expresamente a las disposiciones en materia procesal civil y familiar.
