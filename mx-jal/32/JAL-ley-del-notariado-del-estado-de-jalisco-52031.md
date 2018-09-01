@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2016-12-01"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 1 DE DICIEMBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 25907/LXI/16 PUBLICADO EN EL P.O. DE 26 DE NOVIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -49,15 +49,19 @@ LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
 La presente Ley es de orden público y de aplicación general y tiene por objeto establecer las bases y principios rectores de la actividad notarial en el Estado de Jalisco, así como regular su organización y funcionamiento.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 2°.
 
-La función notarial es de carácter vitalicio y se ejerce por los notarios con cuya intervención y asesoría se conforma el instrumento al que se le otorga fuerza legal y reconocimiento público en los términos del artículo 121 de la Constitución Política de los Estados Unidos Mexicanos.
+La función notarial se ejerce por los notarios con cuya intervención y asesoría se conforma el instrumento al que se le otorga fuerza legal y reconocimiento público en los términos del artículo 121 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 3°.
 
 Notario Público es el profesional del derecho que desempeña una función pública, investido por delegación del Estado a través del Titular del Poder Ejecutivo, de la capacidad de formalizar y dar fe para hacer constar hechos, actos y negocios jurídicos a los que se quiera o deba dar autenticidad y seguridad jurídica.
 
-También le faculta intervenir como mediador, conciliador o árbitro, y en concurrencia con los órganos jurisdiccionales, en el trámite de negocios de jurisdicción voluntaria y de los procedimientos sucesorios en tanto no se suscite controversia entre los interesados, en los casos en que expresamente la Ley lo autorice.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+También le faculta intervenir como mediador, conciliador o árbitro, y en concurrencia con los órganos jurisdiccionales, en el trámite de negocios de jurisdicción voluntaria y de tramitación especial, en tanto no se suscite controversia entre los interesados, en los casos en que expresamente la legislación civil lo autorice.
 
 El notario podrá ser depositario de bienes, disposiciones testamentarias, acciones de empresas mercantiles y de otros títulos valor, que sean consecuencia de los actos jurídicos otorgados ante él, de conformidad a lo establecido en el artículo 90 de esta Ley, y en los casos que prevea el Reglamento.
 
@@ -125,9 +129,9 @@ IX. No haber sido separado definitivamente, por sanción, del ejercicio del nota
 
 X. Acreditar mediante prueba testimonial ante la autoridad jurisdiccional, ser una persona honesta, de buenas costumbres y haber observado constantemente una conducta que inspire total confianza en la sociedad para el ejercicio notarial;
 
-(NOTA: EL 20 DE ENERO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 65/2012, DECLARÓ LA INVALIDEZ DEL DECRETO 24158/LIX/12 RESPECTO DE LA PORCIÓN QUE DEROGA LA FRACCIÓN XI DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE ENERO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-XI. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2012)
+XI. No estar comprendido en el supuesto de incompatibilidad con el ejercicio notarial a que esta ley se refiere.
 
 ###### Artículo 10.
 
@@ -227,13 +231,17 @@ I. Que exista declaratoria del Titular del Poder Ejecutivo de vacancia de una No
 
 II. Ser tenedor de patente de aspirante al ejercicio del notariado;
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-III. Acreditar que continúa vigente el cumplimiento de los requisitos previstos por el artículo 9° fracciones IV, V, VII y VIII de esta ley, previa actualización de los documentos relativos; y
+III. Acreditar que continúa vigente el cumplimiento de los requisitos previstos por el artículo 9°. fracciones IV, V, VII y VIII de esta ley, previa actualización de los documentos relativos;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Haber sido aprobado y obtener la mejor calificación en el examen de oposición que al efecto deberá realizarse. Dicha calificación no podrá se (sic) inferior a ochenta puntos.
+IV. Haber sido aprobado y obtener la mejor calificación en el examen de oposición que al efecto deberá realizarse. La calificación mínima aprobatoria será de ochenta puntos sobre cien; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+V. No ser servidor público, salvo que se separe del cargo un año antes de la presentación del examen de aspirante a la obtención del fiat.
 
 ###### Artículo 22.
 
@@ -639,7 +647,9 @@ La notaría será atendida personalmente:
 
 I. Por el notario adscrito; y
 
-II. Por los notarios asociados en caso de existir convenio de asociación notarial, quienes actuarán en el protocolo del notario con nombramiento de mayor antigüedad.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+II. Por los notarios asociados en caso de existir convenio de asociación notarial, quienes actuarán en el protocolo del notario que de común acuerdo señalen en el convenio.
 
 ###### Artículo 36.
 
@@ -751,11 +761,17 @@ El notario expedirá copias certificadas y testimonios por mandamiento judicial,
 
 En todos los casos aquí señalados, el notario deberá ser notificado con 24 horas de anticipación con el objeto de salvaguardar los derechos estipulados en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
-El notario autorizante, el o sus asociados, asistentes, practicantes para el ejercicio notarial, empleados, dependientes y demás personas que puedan tener acceso a los libros del protocolo, así como el Director del Archivo de Instrumentos Públicos y los demás servidores públicos de esa dependencia, están estrictamente obligados a guardar el secreto profesional sobre actos que autorice el primero y aun sobre la existencia de ellos, salvo cuando lo requiera la Secretaría General de Gobierno o por orden judicial o ministerial, fundada y motivada, sean requeridos.
+Los notarios, sus practicantes para el ejercicio notarial, empleados, dependientes y demás personas que puedan tener acceso a los libros del protocolo, así como el Director del Archivo de Instrumentos Públicos y los demás servidores públicos de esa dependencia, están estrictamente obligados a guardar el secreto profesional sobre actos que autoricen los primeros y aun sobre la existencia de ellos, salvo cuando lo requiera la Secretaría General de Gobierno o por orden judicial o ministerial, fundada y motivada, sean requeridos.
 
 Las personas señaladas en el párrafo anterior quedan sujetas en su caso a las disposiciones del Código Penal del Estado por el delito de revelación del secreto profesional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Se exceptúa lo señalado en el primer párrafo del presente artículo, en el caso de que la información sea solicitada mediante escrito por notario público para verificar datos relacionados con un acto jurídico al que esté dando trámite, quedando el notario solicitante obligado al secreto profesional en los términos del presente artículo.
 
 ###### Artículo 44.
 
@@ -857,7 +873,9 @@ III. Que actúen en oficina notarial única.
 
 Suscrito el convenio de asociación notarial, se deberá presentar a la Secretaría General de Gobierno, para que, de encontrarlo ajustado a derecho, se le de publicidad al acto de su celebración a través del periódico oficial El Estado de Jalisco.
 
-A partir de la fecha de publicación del convenio de asociación notarial, los notarios podrán actuar indistintamente en el protocolo del notario de mayor antigüedad en su nombramiento, quienes además lo deberán comunicar de inmediato a las autoridades que se mencionan en el artículo 44 de esta ley.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+A partir de la fecha de publicación del convenio de asociación notarial, los notarios podrán actuar indistintamente en el protocolo del notario que de común acuerdo hayan determinado en el convenio de asociación, quienes además lo deberán comunicar de inmediato a las autoridades mencionadas en el artículo 45 de esta ley.
 
 En caso de que el protocolo se encontrare parcialmente utilizado al autorizarse el convenio de asociación, se levantará acta por los asociados a continuación del último acto notarial asentado, la que será visada por el Director del Archivo de Instrumentos Públicos. En los mismos términos se procederá, en su caso, en los protocolos de los notarios asociados, los que se depositarán en el Archivo de Instrumentos Públicos para su guarda y custodia.
 
@@ -894,6 +912,10 @@ Si el notario faltante es aquel en cuyo protocolo se ha estado actuando, el asoc
 El sello de autorizar del faltante deberá enviarse a la Dirección del Archivo de Instrumentos Públicos para su destrucción inmediata, informándose de este hecho a las autoridades a que se refiere el artículo 45 de esta ley.
 
 Ante la falta definitiva de un notario asociado, el convenio de asociación notarial se tendrá por concluido, siempre y cuando no subsistan dos notarios asociados.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 53 bis. En caso de fallecimiento de un notario con adscripción a las Regiones de la 1 a la 12 previstas en el artículo 32 de esta ley, que no tuviere celebrado convenio de asociación notarial, el Secretario General de Gobierno, escuchando la opinión del Consejo de Notarios, podrá autorizar, por un plazo no mayor a seis meses, a un notario de la misma región del fallecido, para que concluya los trámites de los instrumentos autorizados por el faltante, en los términos del artículo 53 de esta ley, para cuyo efecto conservará durante ese plazo el protocolo del notario fallecido, al término del cual deberá remitirlo al Archivo de Instrumentos Públicos para su resguardo definitivo, de conformidad al artículo 198, fracción I de esta ley. En este caso, se deberá hacer mención al oficio de autorización en cada intervención que realice con el cargo conferido.
 
 #### SECCIÓN TERCERA. DE LA SUSPENSIÓN Y TERMINACIÓN DE LA FUNCIÓN NOTARIAL
 
@@ -943,17 +965,29 @@ II. La que se imponga como sanción por autoridad competente;
 
 III. La revocación del nombramiento en los términos de esta ley;
 
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 IV. El impedimento físico o psíquico total y permanente que lo imposibilite para actuar como notario.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+La Secretaría General de Gobierno, la Procuraduría Social o el Consejo de Notarios, apoyados en indicios que hagan probable la existencia de causa de incapacidad para el desempeño de su función, podrán requerir al notario en funciones que acuda a una institución del sector salud con domicilio en el Estado de Jalisco dentro de los 10 días hábiles siguientes a partir de la fecha en que sea notificado, con la finalidad de que ésta dictamine si existe algún impedimento físico o psíquico que lo imposibilite a desempeñar sus funciones notariales;
 
-La Secretaría General de Gobierno, la Procuraduría Social o el Consejo de Notarios, apoyados en indicios que hagan probable la existencia de causa de incapacidad para el desempeño de su función, podrán requerir al notario en funciones que acuda a una institución del sector salud con domicilio en el Estado de Jalisco dentro de los 10 días hábiles siguientes a partir de la fecha en que sea notificado, con la finalidad de que ésta dictamine si existe algún impedimento físico o psíquico que lo imposibilite a desempeñar sus funciones notariales; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 V. El fallecimiento o declaración de ausencia del notario.
 
-En el caso del fallecimiento, los oficiales del registro civil o el Consejo de Notarios, cuando conozcan del mismo, deberán notificarlo inmediatamente a la Secretaría General de Gobierno.
+En el caso del fallecimiento, los oficiales del registro civil o el Consejo de Notarios, cuando conozcan del mismo, deberán notificarlo inmediatamente a la Secretaría General de Gobierno; y
 
-En los casos anteriores, el Titular del Ejecutivo emitirá el acuerdo correspondiente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Tener 80 años cumplidos.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+En los casos previstos en las fracciones I a IV del presente artículo, el Titular del Ejecutivo emitirá el acuerdo o resolución que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+El Notario que haya terminado la función notarial por cualquiera de los supuestos de las fracciones I y VI del presente artículo, tendrá la categoría de Notario en retiro, sin que la fracción VI sea aplicable a los Notarios que hubiesen obtenido su nombramiento o fiat, en términos del artículo Segundo Transitorio de este Decreto.
 
 ###### Artículo 58.
 
@@ -964,6 +998,10 @@ I. Si dentro de los treinta días hábiles siguientes a la notificación del acu
 II. Si transcurrido el término de la licencia no reanuda sus funciones dentro de los treinta días hábiles siguientes sin causa justificada;
 
 III. Cuando sin justificación e ininterrumpidamente deje de ejercer la función notarial en un término de seis meses.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría General de Gobierno procederá a asegurar el sello y el protocolo del notario que hubiere incurrido en alguno de los supuestos antes previstos.
 
 ###### Artículo 59.
 
@@ -985,9 +1023,11 @@ Cuando la separación del notario sea definitiva, se procederá de conformidad c
 
 Protocolo es el conjunto de folios ordenados numérica y cronológicamente, en los que el notario, observando los requisitos establecidos en la presente ley, asienta las escrituras y actas que se otorguen ante su fe. También forman parte del protocolo los libros de documentos, los índices, las actas de apertura y cierre de cada tomo, así como sus soportes informáticos.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 62.
 
-El Consejo de Notarios, a solicitud del notario y a costa de éste, autorizará imprimir los folios que formarán el tomo o tomos requeridos, mismos que serán remitidos al Archivo de Instrumentos Públicos, para su entrega.
+El Consejo de Notarios, a solicitud del notario y a costa de éste, autorizará imprimir los folios y el papel testimonio que requiera para su ejercicio. Los folios serán remitidos al Archivo de Instrumentos Públicos, para su entrega. El papel testimonio tendrá las características que determine el Consejo de Notarios quien lo entregará al solicitante por conducto del Colegio de Notarios.
 
 ###### Artículo 63.
 
@@ -1027,9 +1067,11 @@ El notario no deberá asentar acto jurídico alguno en los folios de un tomo sin
 
 Cuando un notario celebre convenio de asociación notarial, o de existir, éste quedare disuelto, a continuación del último instrumento pasado en los folios que integran el tomo en el que se actúa, con la intervención del Director del Archivo de Instrumentos Públicos o de quien legalmente lo sustituya, se levantará acta en donde se relacione el acuerdo respectivo y se deje constancia del número de folios por utilizar en ese tomo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 67.
 
-Todo instrumento se iniciará en el folio nuevo y consecutivo en su orden que le corresponda, y en ningún caso se iniciará en el anverso del inmediato anterior.
+Todo instrumento se iniciará en el folio nuevo y consecutivo en su orden que le corresponda, y en ningún caso se iniciará en el reverso del inmediato anterior.
 
 Los folios se utilizarán en forma progresiva por ambos lados.
 
@@ -1065,7 +1107,9 @@ Dentro de los cinco días hábiles que sigan a la fecha en que se hubiese asenta
 
 El notario, concluido el último libro de los que integran el tomo, levantará en pliego suelto, un acta de cierre que contendrá las escrituras asentadas, precisando las que fueron autorizadas y las que no pasaron, en cuyo caso expresará el motivo, además de señalar el número de folios utilizados, los inutilizados, el número de libros de que consta el tomo y los folios que integran cada uno.
 
-Dentro del término de noventa días naturales contados a partir de la fecha de otorgamiento del último instrumento de cada tomo, el notario deberá presentar los libros que lo integran, junto con las actas de apertura y cierre, así como el duplicado del índice a que se refiere el artículo anterior, debidamente encuadernados, al Director del Archivo de Instrumentos Públicos, quien dentro del plazo de quince días hábiles contados a partir de su presentación, deberá revisar y devolver el tomo correspondiente, dejando constancia de lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Dentro del término de noventa días naturales contados a partir de la fecha de otorgamiento del último instrumento de cada tomo, el notario deberá presentar por sí o por conducto de persona de su confianza y bajo su responsabilidad, los libros que lo integran, junto con las actas de apertura y cierre, así como el duplicado del índice a que se refiere el artículo anterior, debidamente encuadernados, al Director del Archivo de Instrumentos Públicos, quien dentro del plazo de quince días hábiles contados a partir de su presentación, deberá revisar y devolver el tomo correspondiente, dejando constancia de lo siguiente:
 
 I. De que el acta se levantó y el tomo se presentó en la temporalidad prevista en esta ley;
 
@@ -1175,9 +1219,13 @@ En el caso en que dichos inmuebles no estén inscritos, expresará la razón de 
 
 En el supuesto de que se transmitan inmuebles que no estuvieren registrados, cumpliéndose con lo estipulado en el Código Urbano, se deberá transcribir e insertar el certificado catastral con historial a partir de 1936. Cuando se trate de enajenación sobre bienes inmuebles inscritos, se insertará el certificado de libertad o gravamen actualizado, excepto en los casos en que la última escritura se hubiere otorgado dentro de 45 días hábiles.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-En todos los casos, se deberá agregar al Apéndice copia, en lo conducente, de los documentos exhibidos por las partes, salvo que se hayan agregado con anterioridad, o se hubieren autorizado en el protocolo del mismo Notario;
+Se deberá agregar al Apéndice copia en lo conducente de los documentos exhibidos por las partes. No será necesario agregar copia fotostática de los documentos exhibidos por las partes que ya obren en el protocolo del notario, ni los que estén inscritos en algún registro público, con la obligación de citar en el instrumento público sus datos de inscripción, incorporación o registro, ni los que se hubieren autorizado en el protocolo del mismo notario, debiendo hacer constar cualquiera de las hipótesis anteriores. A solicitud del compareciente se podrá agregar una copia fotostática certificada al testimonio que se expida de aquel documento exhibido, haciendo mención de esta circunstancia en la escritura correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Tratándose de actos traslativos de dominio, el notario deberá agregar al apéndice el testimonio con el que el enajenante acredite la propiedad del inmueble; en caso que dicho testimonio comprenda más inmuebles, se agregará copia del mismo, asentando razón de ello en la escritura.
 
 V. Al referir el nombre de algún notario, se expresará su número y adscripción, así como el número y fecha del instrumento;
 
@@ -1195,21 +1243,25 @@ Los representantes de personas jurídicas manifestarán sus generales y se preci
 
 VII. Cuando algún guarismo, palabra o frase resulten equivocados o deban ser sustituidos por otros, se encerrarán dentro de un paréntesis y se testarán con una raya delgada en el centro que permita su lectura. Si un guarismo, palabra o frase se omitió o debe sustituir a otros, se anotará entre renglones y se encerrará entre comillas. En ambos casos, lo testado o puesto entre renglones se salvará antes de las firmas;
 
-VIII. Debe dar fe de conocimiento de los comparecientes o de que los identificó con documentos oficiales expedidos por autoridades federales, estatales, municipales o por el Instituto Federal Electoral que contengan la fotografía y firma del compareciente.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-En cualquier otro caso intervendrán dos testigos conocidos del Notario o identificados por éste, a través de los medios señalados en el párrafo anterior, los que deberán ser mayores de edad, saber leer y escribir, quienes autentificarán la identidad de los otorgantes, sin que puedan desempeñarse como tales los ciegos, sordos y mudos, además, la persona identificada deberá estampar sus huellas digitales, preferentemente de sus dedos índices, haciendo constar esta circunstancia;
+VIII. Debe dar fe de conocimiento de los comparecientes o de que los identificó con documentos oficiales expedidos por autoridades federales, estatales, municipales o por el Instituto Nacional Electoral que contengan la fotografía y firma del compareciente.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+En su caso, el notario estará obligado a cerciorarse de la identidad de los comparecientes mediante la consulta de la información contenida en los soportes tecnológicos aprobados por el Colegio de Notarios para tal efecto.
 
-IX. Cuando se requiera que el instrumento se asiente además en algún otro idioma distinto al español, se podrá hacer ya sea dividiendo la plana de arriba a abajo por medio de una línea en dos partes iguales o a continuación del final del instrumento, escribiéndose primero el idioma español. En caso de que el notario no conozca el idioma diverso al español, deberá ser asistido por un perito traductor designado por el interesado, o en su defecto, por perito oficial o reconocido por el Supremo Tribunal de Justicia del Estado, debiendo observarse lo dispuesto en la fracción VI de este artículo.
+En cualquier otro caso intervendrán dos testigos quienes se identificarán con documentos oficiales que contengan fotografía y firma, deberán ser mayores de edad, saber leer y escribir y declararán conocer la identidad de los otorgantes, sin que puedan desempeñarse como tales los ciegos, sordos y mudos, además, la persona identificada deberá estampar sus huellas digitales, preferentemente de sus dedos índices, haciendo constar esta circunstancia.
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Cuando se requiera que el instrumento se asiente además en algún otro idioma distinto al español o en sistema de escritura Braille, se podrá hacer ya sea dividiendo la plana de arriba a abajo por medio de una línea en dos partes iguales o a continuación del final del instrumento, escribiéndose primero el idioma español. En caso de que el notario no conozca el idioma diverso al español, deberá ser asistido por un perito traductor o perito en sistema de escritura Braille designado por el interesado, o en su defecto, por perito oficial o reconocido por el Supremo Tribunal de Justicia del Estado, debiendo observarse lo dispuesto en la fracción VI de este artículo;
 
 X. Hará constar que los otorgantes tienen capacidad y bastará que en ellos no observe manifestación de incapacidad natural y que no tenga noticia de algún impedimento legal;
 
 XI. En los contratos de compraventa en que proceda la designación de beneficiario y por voluntad del adquirente no se consigne la institución, se dejará constancia de haber informado a esa parte sobre el derecho que tiene de designarlo en los términos de la legislación civil;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-XII. En cumplimiento de disposiciones fiscales o administrativas, contendrá las menciones o liquidaciones que resulten aplicables al acto o hecho jurídico materia del otorgamiento;
+XII. En cumplimiento de disposiciones fiscales o administrativas, contendrá la cantidad de impuestos y contribuciones causados en favor de la hacienda federal, estatal y municipal que resulten aplicables al acto o hecho jurídico materia del otorgamiento;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2013)</small>
 
@@ -1311,9 +1363,9 @@ VI. Cuando se trate de constancias expedidas por asociaciones religiosas y cuyos
 
 Cuando deban invocarse documentos, ya sea porque acrediten la personería o personalidad de las partes, integren constancias de actuaciones judiciales o administrativas o guarden íntimo nexo con el negocio jurídico en que interviene, el notario dejará acreditados los supuestos indicados, en la siguiente forma:
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-I. Relacionando o insertando en lo conducente los documentos respectivos, agregándolos en original o en copias cotejadas y certificadas al apéndice; en cuyo caso, se hará mención especial de ello en la escritura, así como en la nota relativa. No será necesario agregar nuevamente cuando el documento relacionado o insertado se encuentre asentado en el protocolo, o se encuentre agregado con antelación al libro de documentos del mismo notario. En ambos casos, se hará mención especial de ello en la escritura, así como en la nota relativa; y
+I. Se deberá agregar al Apéndice copia en lo conducente de los documentos exhibidos por las partes. No será necesario agregar copia fotostática de los documentos exhibidos por las partes que ya obren en el protocolo del notario, ni los que estén inscritos en algún registro público, con la obligación de citar en el instrumento público sus datos de inscripción, incorporación o registro, ni los que se hubieren autorizado en el protocolo del mismo notario, debiendo hacer constar cualquiera de las hipótesis anteriores. A solicitud del compareciente se podrá agregar una copia fotostática certificada al testimonio que se expida de aquel documento exhibido, haciendo mención de esta circunstancia en la escritura correspondiente.
 
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
@@ -1365,7 +1417,9 @@ En los actos en donde se requiera la asistencia de testigos instrumentales, se e
 
 Cuando el otorgante sea ciego o no sepa o no pueda leer, designará a una persona de su confianza, para que en presencia del notario, lea el instrumento y manifestada su conformidad, firme o estampe en su caso sus huellas digitales debiendo ser preferentemente de los dedos índices en unión de la persona que hubiese leído el documento, concluyendo el acto con la expresión de esta circunstancia.
 
-Cuando el otorgante sea sordo o mudo, pero sepa leer y escribir, dará lectura al instrumento y pondrá de su puño y letra la frase "conforme previa lectura dada por mí", y firmará a continuación.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando el interesado designe perito en sistema de escritura Braille, se deberá elaborar el instrumento respectivo en los términos del artículo 84, fracción IX.
 
 Si alguno de los comparecientes no supiere o no pudiere firmar, imprimirá sus huellas digitales y firmará a su ruego otra persona conocida y designada por el compareciente.
 
@@ -1399,7 +1453,17 @@ El notario sólo podrá recabar firmas fuera de la Región de su adscripción, c
 
 El notario será solidariamente responsable con las partes, en favor de la hacienda pública, cuando expida los testimonios relativos a actos o contratos autorizados por él, sin que se encuentren cubiertas las prestaciones fiscales correspondientes.
 
-Si transcurrido el término establecido en las leyes fiscales aplicables no se hubiese pagado el impuesto respectivo por causa imputable a las partes otorgantes, el notario se liberará de la responsabilidad solidaria, comunicando a la autoridad fiscal acreedora la existencia y exigibilidad del crédito fiscal, aportando datos para su cuantificación y localización del sujeto directo de la obligación fiscal, en los términos de la legislación fiscal aplicable.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+El notario será el único responsable en favor de la hacienda pública, cuando expida el testimonio sin que se hayan pagado las prestaciones fiscales correspondientes.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Si transcurrido el término establecido en las leyes fiscales aplicables no se hubiese pagado el impuesto respectivo por causa imputable a las partes otorgantes, el notario se liberará de la responsabilidad solidaria, comunicando a la autoridad competente la existencia y exigibilidad del crédito correspondiente, aportando datos para su cuantificación así como para la localización del sujeto obligado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Si transcurrido el término establecido en las leyes fiscales aplicables no se hubiese pagado el impuesto respectivo por causa imputable al notario, éste será responsable por la suma efectivamente percibida.
 
 ### CAPÍTULO IV. DE LOS DUPLICADOS Y AVISOS
 
@@ -1561,9 +1625,11 @@ El Estado es propietario de los folios, tomos, libros, sellos, discos y soportes
 
 El notario deberá conservarlos en su oficina notarial bajo su más estricta responsabilidad con el carácter de depositario; sin embargo, transcurridos cinco años a partir de la fecha del acta de cierre de los tomos del protocolo o libros de registro de certificaciones, podrá concentrarlos con sus correspondientes libros de documentos y soportes electrónicos en la Dirección del Archivo de Instrumentos Públicos.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 123.
 
-Los libros o folios del protocolo, los soportes electrónicos en que consten instrumentos autorizados por notario y sus correspondientes Libros de Documentos estando en uso o ya concluidos, siempre deberán encontrarse dentro de la notaría, salvo que sean trasladados por el mismo notario, bajo su estricta responsabilidad, solamente en los casos determinados por la presente Ley.
+Los libros o folios del protocolo, los soportes electrónicos en que consten instrumentos autorizados por notario y sus correspondientes Libros de Documentos estando en uso o ya concluidos, siempre deberán encontrarse dentro de la notaría, salvo que sean trasladados en los casos determinados por la presente Ley.
 
 ###### Artículo 124.
 
@@ -1571,17 +1637,19 @@ Cuando judicial o ministerialmente se ordene el cotejo o reconocimiento de algun
 
 Si los libros se encontraren en depósito de la Dirección del Archivo de Instrumentos Públicos se notificará al notario autorizante.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 125.
 
-El notario que sufra la pérdida, destrucción o substracción de folios, libros, tomos o discos del protocolo o libros de certificaciones, ocurrirá por escrito ante el Ejecutivo del Estado, en el que solicite autorización de nuevos libros, folios o soportes informáticos para suplir los perdidos, destruidos o robados.
+El Notario que sufra la pérdida, destrucción o sustracción de folios, ocurrirá por escrito ante el Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, dentro de los 30 treinta días hábiles siguientes a que detecte la falta y solicitará autorización para su reposición.
 
-El notario para acreditar la falta posterior de los documentos señalados en el párrafo que antecede, presentará la denuncia por la pérdida ante el ministerio público, y en su caso, satisfará los requisitos para la reposición.
+El notario deberá acreditar fehacientemente la preexistencia y falta posterior de los folios, debiendo acompañar a su solicitud copia fotostática certificada de la denuncia correspondiente ante el Ministerio Público, así como copia certificada por el Director del Archivo de Instrumentos Públicos, del acta de dotación de los folios correspondientes.
 
-El Titular del Poder Ejecutivo, mediante acuerdo, instaurará procedimiento con intervención del Consejo de Notarios del Estado, y sin sujeción a términos o trámites formales procesales y una vez acreditada fehacientemente su existencia y falta posterior con la documentación correspondiente, resolverá a la brevedad posible lo que corresponda.
+Tratándose de folios ya utilizados, una vez satisfechos los requisitos anteriores, el Secretario General de Gobierno declarará procedente la reposición y ordenará al Director del Archivo de Instrumentos Públicos que entregue al fedatario solicitante el duplicado que obra en su poder para que éste haga las veces de matriz, el cual se empastará en el libro correspondiente, junto con una copia certificada de la denuncia respectiva. El Archivo de Instrumentos Públicos conservará copia fotostática del duplicado certificada por el Director de dicha institución.
 
-Si se declara procedente la reposición se autorizará la entrega de folios o soportes para la integración de los libros o tomos, haciendo constar en el acta correspondiente la circunstancia de autorizarse para reponer el perdido, la que firmará el Presidente del Consejo de Notarios o quien haga sus veces, observando en lo conducente lo dispuesto por el artículo 65 de esta ley.
+En caso de inexistencia del duplicado correspondiente al instrumento público, además de los requisitos señalados en el segundo párrafo de este artículo, la solicitud de reposición de folios deberá firmarse por los intervinientes en el acto jurídico quienes deberán manifestar bajo protesta de decir verdad la celebración del acto y ratificar su dicho ante la Secretaría General de Gobierno; cumplido lo anterior se declarará procedente la reposición para efectos de que se autorice la entrega de los folios en los que se asentará el contenido de los folios perdidos, de lo que se levantará acta con la intervención del Consejo de Notarios y el Archivo de Instrumentos Públicos.
 
-En dichos folios o soportes, con intervención del Director del Archivo de Instrumentos Públicos, se asentarán los instrumentos contenidos en los libros o tomos, folios o soportes informáticos perdidos o destruidos, mediante el cotejo de los tomos de duplicados existentes en esa dependencia, quien levantará el acta correspondiente.
+Tratándose de folios sin utilizar, no procederá su reposición, sin embargo el Notario deberá informarlo a la Secretaría General de Gobierno y al Consejo de Notarios, debiendo agregar ambas comunicaciones así como copia certificada de la denuncia ante el Ministerio Público al libro de documentos y hacer relación de ello en el acta de cierre del tomo correspondiente.
 
 En caso de incurrir en más de uno de los supuestos previstos en el primer párrafo de este artículo, durante la utilización de un tomo de protocolo, se sancionará en los términos que señale esta Ley.
 
@@ -1603,7 +1671,9 @@ El testimonio es el documento que contiene la trascripción fiel y literal del i
 
 Constituye además el único instrumento legítimo que acredita el cumplimiento de la totalidad de los requisitos para que un acto pasado ante notario pueda entrar a la circulación jurídica.
 
-Cada una de las hojas que lo integren deberá llevar al margen superior derecho preimpreso, realzado o estampado el sello de autorizar y además rubricarse. Para la impresión del testimonio deberá aplicarse en lo conducente lo previsto en el artículo 64 de esta ley.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Cada una de las hojas que lo integren deberá llevar al margen superior derecho impreso, realzado o estampado el sello de autorizar y además rubricarse. Para la impresión del testimonio deberá aplicarse en lo conducente lo previsto en el artículo 64 de esta ley.
 
 Tratándose de protocolizaciones, en los testimonios que se expidan deberá transcribirse, en su caso, el acta y el documento protocolizado.
 
@@ -1711,6 +1781,10 @@ Las visitas a los notarios se practicarán por mandamiento escrito que deberá e
 
 Los agentes visitadores designados, actuarán conjunta o separadamente. Podrán ser substituidos, aumentados o reducidos en su número en cualquier tiempo, por quien lo ordenó, debiéndose comunicar esta circunstancia al visitado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Para los efectos previstos en este artículo, la visita podrá efectuarse ya sea en el domicilio de la oficina notarial que tuvieren registrado o en cualquier otro domicilio, en el que se tenga conocimiento de la posible existencia de folios, papel testimonio, sello u hologramas de cualquier notario.
+
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 143.
@@ -1767,11 +1841,15 @@ Los visitadores y demás servidores públicos que conozcan del contenido de las 
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 149.
 
-El Titular del Poder Ejecutivo del Estado tendrá la facultad de aplicar sanciones de carácter administrativo por infracciones a la ley.
+El Titular del Poder Ejecutivo del Estado tendrá la facultad de imponer sanciones de carácter administrativo por infracciones a la normatividad en que incurran los Notarios Públicos en el ejercicio de su función.
 
-Las sanciones de carácter administrativo por infracciones a la ley serán impuestas por el Titular del Ejecutivo del Estado y consistirán, según el caso, en amonestación, multa, suspensión y revocación del nombramiento del notario.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Las sanciones de carácter administrativo por infracciones a la normatividad que regula la función notarial o a cualquier disposición que establezca obligaciones a los notarios públicos, serán impuestas por el Titular del Poder Ejecutivo, y consistirán según el caso, en amonestación, multa, suspensión, así como revocación del nombramiento de notario e inhabilitación definitiva para desempeñar dicho cargo.
 
 La responsabilidad notarial prescribe a los cinco años de cometida la infracción, sin perjuicio de la de carácter civil, penal o fiscal, que prescribirá en los términos previstos en las leyes de la materia.
 
@@ -1877,9 +1955,13 @@ Es Juez competente para conocer de los juicios en que se demande al Notario Púb
 
 En caso de responsabilidad penal, el notario deberá ser oído desde el inicio de la averiguación correspondiente.
 
-### CAPÍTULO III. DEL PROCEDIMIENTO ADMINISTRATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-#### SECCIÓN PRIMERA. DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPÍTULO III. DEL PROCEDIMIENTO ADMINISTRATIVO DE RESPONSABILIDAD NOTARIAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+#### SECCIÓN PRIMERA. DEL PROCEDIMIENTO ADMINISTRATIVO DE RESPONSABILIDAD NOTARIAL
 
 ###### Artículo 157.
 
@@ -1887,31 +1969,43 @@ La aplicación de la presente ley, por violaciones a la misma o a las demás dis
 
 Las infracciones a esta ley, cometidas por los notarios y que no constituyan un delito, se considerarán como faltas administrativas y las sanciones correspondientes se impondrán por la autoridad administrativa facultada para ello, en los términos de esta ley, tomando en cuenta la gravedad y demás circunstancias que concurran en el caso de que se trate.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 158.
 
-El procedimiento administrativo se substanciará y resolverán (sic) con arreglo a esta ley. A falta de disposición expresa y en cuanto no se oponga a lo prescrito en esta sección, se aplicará de manera supletoria lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+El procedimiento administrativo de responsabilidad notarial se substanciará y resolverá con arreglo a esta ley. A falta de disposición expresa y en cuanto no se oponga a lo prescrito en esta sección, se aplicará de manera supletoria lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+El procedimiento administrativo de responsabilidad notarial será substanciado de oficio por la Secretaría General de Gobierno o la autoridad en quien se delegue dicha facultad.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 159.
 
-El procedimiento administrativo podrá iniciarse:
+El procedimiento administrativo de responsabilidad notarial podrá iniciarse:
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+I. A petición de parte; y
 
-I. A petición de parte por quien se considere agraviado; y
+II. Por solicitud de la Dirección del Archivo de Instrumentos Públicos, la Procuraduría Social o el Consejo de Notarios del Estado de Jalisco.
 
-II. De oficio, en los casos previstos en los artículos 70, 147 fracción III y 192 de la presente Ley.
+En todos los supuestos deberá acompañarse al escrito, la documentación y constancias que acrediten la posible comisión de las irregularidades cuya sanción se pretenda; de lo contrario, si la Secretaría General de Gobierno advierte que el escrito es obscuro o incompleto, o que no se adjuntaron los documentos necesarios para su trámite, requerirá al quejoso o autoridad denunciante, para que dentro del término de cinco días hábiles la aclare o exhiba los documentos, apercibiéndolos que de no hacerlo, se desechará de plano la queja y se tendrá por no presentada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 160.
 
-Son partes en el procedimiento administrativo:
+Son partes en el procedimiento administrativo de responsabilidad notarial:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 I. El agraviado;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 II. El notario o notarios involucrados;
 
-III. La autoridad revisora de los actos jurídicos que asiente el Notario en el protocolo a su cargo; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+III. La autoridad revisora de la función notarial;
 
 IV. El Consejo del Colegio de Notarios del Estado, en los casos que se requiera de su intervención u opinión.
 
@@ -1945,23 +2039,17 @@ Las resoluciones que se pronuncien y los actos que se ejecuten con motivo de la 
 
 Las partes en el primer escrito o en la primera diligencia en que intervengan en el procedimiento administrativo, deben designar domicilio en esta ciudad, para que se les hagan las notificaciones que deban ser personales. En su defecto, se harán por medio de lista de acuerdos que se fijará en lugar visible y de fácil acceso en el local de la Dependencia respectiva.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 167.
 
 Se notificará personalmente a las partes:
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+I. El acuerdo que ordene la instauración del procedimiento de responsabilidad notarial;
 
-I. El acuerdo que ordene la celebración de cualquier audiencia, con una anticipación de cuando menos diez días hábiles antes de la fecha en que tenga verificativo, sin tomar en cuenta el día de la notificación, ni el de la celebración de la misma;
+II. La resolución definitiva; y
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
-
-II. El acuerdo que ordene la instauración del procedimiento;
-
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
-
-III. La resolución definitiva; y
-
-IV. Los demás caso (sic) en que así se determine.
+III. Los demás casos en que así se determinen.
 
 ###### Artículo 168.
 
@@ -1981,25 +2069,13 @@ Las notificaciones a las autoridades y al Consejo de Notarios del Estado, se har
 
 #### Sección Tercera. De la Mediación y Conciliación
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 171.
 
-Una vez presentada la queja o previo a su presentación, el interesado podrá solicitar se lleve a cabo el procedimiento de mediación o conciliación ante la Secretaría General de Gobierno o ante el Colegio de Notarios a través de la Comisión de Honor y Justicia o ante cualquier Centro debidamente autorizado, siempre y cuando:
+Desde el inicio del procedimiento administrativo de responsabilidad notarial hasta antes del pronunciamiento de su resolución respectiva, las partes podrán solicitar se lleve a cabo el procedimiento de mediación o conciliación ante la Secretaría General de Gobierno, la Comisión de Honor y Justicia del Colegio de Notarios, el Instituto de Justicia Alternativa del Estado de Jalisco, siempre y cuando las posibles infracciones cometidas no constituyan faltas graves, considerándose como tales las previstas en los artículos 152 y 154 de la presente ley, y se respeten los derechos de terceros.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
-
-I. Se encuentre ajustada a las disposiciones de la presente ley;
-
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
-
-II. Se refiera a derechos disponibles y no constituyan un delito o faltas graves a la presente ley; y
-
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
-
-III. No afecte derechos de terceros.
-
-Tratándose de faltas graves, podrá ser objeto de mediación o conciliación, la reparación del daño, la cual será considerada como atenuante en la imposición de la sanción administrativa correspondiente.
+Tratándose de faltas graves, sólo podrá ser objeto de mediación o conciliación, la reparación del daño.
 
 ###### Artículo 172.
 
@@ -2011,119 +2087,127 @@ Una vez concluido el procedimiento, dentro del plazo de los 10 días siguientes,
 
 #### Sección Cuarta. De la Queja Administrativa
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 174.
 
-Las quejas administrativas en contra de un notario serán formuladas por escrito y se presentarán por quien se considera agraviado ante el Titular del Poder Ejecutivo, a través de la Secretaría General de Gobierno, con la documentación correspondiente.
+Cuando el procedimiento de responsabilidad se inicie por un particular, éste deberá presentar la queja de posible responsabilidad notarial ante la Secretaría General de Gobierno por escrito o vía correo electrónico y en ambos casos deberá ratificarla dentro de los treinta días hábiles siguientes a su presentación.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 175.
 
-Si se advierte que la queja es obscura o incompleta, o que no se adjuntaron los documentos señalados en el artículo que antecede de esta Ley, se requerirá al quejoso para que dentro del término de cinco días hábiles la aclare o exhiba los documentos aludidos o señale el lugar o archivo en que se encuentran, apercibiéndolo que de no hacerlo, se desechará de plano la queja y se tendrá por no presentada.
+Al tener conocimiento el Titular del Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, de cualquier probable infracción cometida por un Notario, ya sea a través del acta o informe realizado por las autoridades revisoras facultadas en términos de esta Ley o por el Consejo de Notarios; o una vez ratificado el escrito de queja interpuesto por el particular interesado que estime un actuar irregular del fedatario, se procederá como sigue:
+
+I. De no advertir causa notoria de improcedencia, se dará vista al Consejo de Notarios para que dentro del plazo de treinta días hábiles emita opinión sobre los hechos motivo de la queja, salvo el caso de que la queja sea presentada por el propio Consejo;
+
+II. Transcurrido el plazo para la que el Consejo de Notarios emita la opinión a que se refiere la fracción que antecede, el Secretario General de Gobierno deberá pronunciarse sobre el archivo definitivo del expediente o bien sobre la instauración del procedimiento administrativo al fedatario inculpado, en cuyo caso precisará la causa por la que se inicia, los hechos que lo motivan, los fundamentos legales, así como la referencia a las actas y demás documentos que lo originen;
+
+III. En el mismo acuerdo, se fijará día y hora para que tenga verificativo la audiencia, que no podrá ser menor a diez ni mayor a treinta días hábiles, en la que el Notario inculpado será oído en su defensa, así como para que ofrezca pruebas y produzca alegatos;
+
+IV. Abierta la audiencia se procederá al desahogo de los medios de convicción ofrecidos por las partes. Si el fedatario implicado es omiso en presentar escrito de defensa y elementos probatorios, se tendrá por perdido el derecho a exhibirlos y por presumiblemente ciertas las infracciones que se le atribuyan; y
+
+V. Una vez desahogadas las pruebas admitidas o en caso de no haber comparecido el Notario a la audiencia establecida en este capítulo, el Titular del Ejecutivo dictará la resolución definitiva correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 176.
 
-Se ratificará la queja ante el Secretario General de Gobierno, con excepción de las planteadas por autoridad o dependencia de la administración pública federal, estatal o municipal.
+La Secretaría General de Gobierno o la dependencia en quien delegue la facultad respectiva, para el cumplimiento de la suspensión impuesta o revocación del nombramiento, procederá a tomar la custodia de los libros que integren el Protocolo, el sello de autorizar, hologramas, folios en blanco y papel testimonio, los que se concentrarán en la Dirección del Archivo de Instrumentos Públicos.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 177.
 
-Ratificada la queja, se dará intervención al Consejo de Notarios del Estado, a fin de recabar su opinión debidamente fundada y motivada sobre la procedencia del inicio del procedimiento administrativo, la que se deberá remitir al Secretario General de Gobierno dentro del término de treinta días hábiles.
+En los casos de suspensión o revocación del cargo, ésta se ejecutará por conducto del Director del Archivo de Instrumentos Públicos o dependencia en quien la Secretaría General de Gobierno delegue la facultad respectiva, quien levantará acta circunstanciada en la que se indicará tanto el número del último folio utilizado, como del instrumento público y acta de certificaciones que consten en el Protocolo y en el de Registro de Certificación de firmas, así como las que estén pendientes de firmas. A partir de este acto de ejecución, el notario estará impedido para actuar.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 178.
 
-Transcurrido el término anterior, el Secretario General de Gobierno analizará la queja para determinar si se está o no en el caso de iniciar el procedimiento administrativo correspondiente, mediante acuerdo debidamente fundado y motivado.
+Si la resolución que se pronuncie en el procedimiento administrativo, declara procedente la queja e impone sanción al notario, sólo en los casos de suspensión en el ejercicio de sus funciones o revocación del nombramiento, se publicará en el periódico oficial "El Estado de Jalisco"; además se hará del conocimiento de todas las autoridades a que se refiere el artículo 45 de la presente ley.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 179.
 
-En caso de que se considere procedente, el Titular del Poder Ejecutivo emitirá acuerdo en el que se ordene la instauración del procedimiento administrativo contra el notario inculpado, en el que se precisará la causa por la que se inicia, los hechos que lo motiven, los fundamentos legales, así como la referencia de las actas y demás documentos que lo originen, disponiendo notificar al Notario y al quejoso, entregándoles copia del mismo, así como de los documentos que lo funden.
+Ponen fin al procedimiento administrativo de responsabilidad notarial:
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+I. La resolución definitiva emitida por el Titular del Poder Ejecutivo o el Secretario General de Gobierno; o
+
+II. El desistimiento expreso del particular quejoso presentado mediante escrito ratificado, siempre y cuando no se trate de faltas graves previstas en los artículos 152 o 154 de la presente ley.
 
 ###### Artículo 180.
 
-En el mismo acuerdo de inicio del procedimiento, se señalará día y hora para que tenga verificativo una audiencia de avenimiento con intervención del Colegio de Notarios, a través de un representante designado al efecto por su Consejo, a la que deberán comparecer personalmente las partes, con el apercibimiento que de no asistir con justa causa, se les impondrá una multa hasta por el equivalente de 200 veces el valor diario de la Unidad de Medida y Actualización.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 181.
 
-El servidor público que presida la audiencia de avenimiento, previa identificación de los comparecientes, los exhortará a conciliar sus diferencias. De llegar a una conciliación, se levantará el acta respectiva en la que se fijarán con precisión los puntos respecto a la forma de lograr la satisfacción de los intereses recíprocos de las partes, que deberán ser cumplidos en sus términos, sin ulterior recurso.
-
-En este supuesto, quedará suspendido el procedimiento administrativo, hasta que las partes hagan del conocimiento al Secretario General de Gobierno, el cabal cumplimiento a lo pactado en el convenio, para que pronuncie acuerdo decretando el sobreseimiento del procedimiento administrativo y el archivo del expediente como asunto concluido.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 182.
 
-De no ser posible el avenimiento de las partes porque así lo hubieren manifestado o porque alguna de ellas no hubiere asistido, se asentará razón en el acta que se levante.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 183.
 
-Agotada la etapa de avenimiento, el Titular del Ejecutivo emitirá acuerdo señalando día y hora para que tenga lugar una audiencia en la que el Notario será oído en defensa, con intervención del quejoso, el cual será notificado a las partes con una anticipación de cuando menos diez días hábiles antes de la fecha de la audiencia, sin tomar en cuenta el día de la notificación ni el de la celebración de la misma.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 184.
 
-Las partes dentro del procedimiento serán oídas dentro de la audiencia a que se refiere este capítulo, en comparecencia personal o por escrito, en la que podrán ofrecer los medios de convicción que a su derecho convenga y producir sus alegatos.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 185.
 
-Serán admisibles toda clase de pruebas, excepto la confesional mediante absolución de posiciones, las que no tengan relación inmediata y directa con los hechos controvertidos, así como las que sean contrarias a derecho o a la moral.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 186.
 
-En la audiencia, se dictará resolución indicando cuáles pruebas se admiten y procediendo a su desahogo en la misma diligencia si el caso lo permite, o en su defecto, señalándose nueva fecha para su reanudación.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 187.
 
-Si no comparece el Notario a la audiencia, se tendrán por ciertos y admitidos los hechos materia del procedimiento, así como por perdido su derecho para ser oído y ofrecer pruebas.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 188.
 
-Una vez desahogadas las pruebas admitidas, o en caso de no haber comparecido el Notario a la audiencia prevista en el artículo 180 de esta ley, el Titular del Ejecutivo dictará la resolución definitiva correspondiente.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 189.
 
-La Secretaría General de Gobierno o la dependencia en quien delegue la facultad respectiva, para el cumplimiento de la suspensión impuesta o revocación del nombramiento, procederá a recoger los libros que integren el Protocolo y el sello de autorizar, los que se concentrarán en la Dirección del Archivo de Instrumentos Públicos.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 190.
 
-En los casos de suspensión o revocación del cargo, ésta se ejecutará por conducto del Director del Archivo de Instrumentos Públicos o dependencia en quien la Secretaría General de Gobierno delegue la facultad respectiva, quien levantará acta circunstanciada en la que se indicará tanto el número del último folio utilizado, como del instrumento público y acta de certificaciones que consten en el Protocolo y en el de Registro de Certificación de firmas, así como las que estén pendientes de firmas. A partir de este acto de ejecución, el notario estará impedido para asentar y autorizar negocios, actos o hechos jurídicos, o actas de certificaciones.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 191.
 
-Si la resolución que se pronuncie en el procedimiento administrativo, declara procedente la queja e impone sanción al notario, sólo en los casos de suspensión en el ejercicio de sus funciones o revocación del nombramiento, se publicará en el periódico oficial “El Estado de Jalisco”; además se hará del conocimiento de todas las autoridades a que se refiere el artículo 45 de la presente ley.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ### CAPÍTULO IV. PROCEDIMIENTO ADMINISTRATIVO DE OFICIO
 
 ###### Artículo 192.
 
-Al tener conocimiento el Titular del Ejecutivo del Estado, por parte de las autoridades revisoras facultadas para ello, o del Consejo de Notarios, de alguna infracción cometida por un notario, se procederá como sigue:
-
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
-
-I. Se emitirá acuerdo decretando el inicio del procedimiento administrativo contra el fedatario inculpado, en el que se precisará la causa por la que se inicia, los hechos que lo motivan, los fundamentos legales, así como la referencia a las actas y demás documentos que lo originen;
-
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
-
-II. En el mismo acuerdo, señalará día y hora para que tenga verificativo una audiencia en la que el notario será oído en defensa; y
-
-III. Se ordenará notificar al notario y a la autoridad correspondiente, entregándole copia del acuerdo, así como de los documentos que lo funden.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 193.
 
-Las partes dentro del procedimiento serán oídas dentro de la audiencia a que se refiere este capítulo, en comparecencia personal o por escrito, en la que podrán ofrecer los medios de convicción que a su derecho convenga y formular alegatos por escrito.
-
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 194.
 
-En cuanto a la admisión, desahogo de las pruebas, son aplicables las disposiciones previstas en el capítulo anterior.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 195.
 
-Una vez desahogadas las pruebas admitidas o en caso de no haber comparecido el Notario a la audiencia establecida en este capítulo, el Titular del Ejecutivo dictará la resolución definitiva correspondiente.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 196.
 
-Si en la resolución que se pronuncie se impone como sanción la suspensión o revocación del nombramiento del notario, se procederá en los términos de los artículos 189, 190 y 191 de la presente ley.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2018)
 
 ## TÍTULO CUARTO. ARCHIVO DE INSTRUMENTOS PÚBLICOS
 
@@ -2281,6 +2365,34 @@ f) Pagar las cuotas ordinarias que acuerde la asamblea y que serán fijadas por 
 
 g) Las demás que se contengan en ésta u otras leyes.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 206 bis. Los Notarios en retiro tendrán los siguientes derechos y obligaciones:
+
+I. Derechos:
+
+a) Utilizar conforme a la normatividad establecida, los bienes y servicios del Colegio;
+
+b) Participar en los eventos, cursos de actualización y posgrados organizados por el Consejo de Notarios;
+
+c) Llevar el distintivo del Colegio;
+
+d) Recibir las distinciones acordadas por el Consejo;
+
+e) Recibir de ser el caso, los beneficios de la mutualidad notarial;
+
+f) Participar en las Asambleas con derecho a voz; y
+
+g) Los demás reconocidos por el Colegio de Notarios, con excepción del ejercicio de la función notarial.
+
+II. Obligaciones:
+
+a) Cumplir con las normas legales y observar una conducta digna que corresponde al Notario en funciones;
+
+b) Participar en las comisiones o encomiendas que le realice el Consejo de Notarios, estando impedidos para ser insaculados en el proceso de exámenes a que se refiere esta Ley; y
+
+c) Las demás que establezca el Colegio de Notarios con excepción del ejercicio de la función notarial.
+
 ###### Artículo 207.
 
 La dirección, administración y representación del Colegio de Notarios del Estado, estará a cargo de un Consejo de Notarios, el que se integrará con veinte consejeros propietarios y mantendrá la estructura orgánica siguiente:
@@ -2329,9 +2441,9 @@ La quinta Vicepresidencia Regional representará a las regiones 11 y 12.
 
 Los Vicepresidentes Regionales deberán ser notarios públicos adscritos a cualquiera de los municipios que integren las regiones que representan, sin cuyo requisito no podrán ser electos para ese cargo.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-Los miembros del Consejo de Notarios durarán en funciones 3 años y podrán ser reelectos por una sola ocasión.
+Los miembros del Consejo de Notarios durarán en funciones 3 años y no podrán ser reelectos para el mismo cargo.
 
 El desempeño del cargo de Consejero será honorífico y sin remuneración alguna y no será renunciable sin causa justificada. La cesación en el ejercicio del notariado producirá automáticamente la del cargo.
 
@@ -2348,6 +2460,10 @@ Las denuncias presentadas en este sentido, serán de la competencia de la Comisi
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
 La plantilla que obtenga la mayoría de sufragios coordinará con el Consejo saliente, la entrega-recepción del patrimonio del Colegio y tomará posesión en sesión solemne en la fecha que señale durante el mes de enero siguiente al de la elección.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de empate, se celebrará nueva asamblea el sábado siguiente a las 10:00 horas, cuyo único punto de la orden del día será la elección del nuevo consejo, sin que para ello sea necesario emitir nueva convocatoria.
 
 ###### Artículo 209.
 
@@ -2385,7 +2501,9 @@ III. Coadyuvar en la práctica de visitas a las notarías de la entidad;
 
 IV. Promover la cultura jurídica en general y en particular la de sus asociados, procurando la superación profesional del gremio, y su actualización;
 
-V. Tomar las medidas para que la función notarial se preste bajo el criterio de eficiencia y observando los valores éticos;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+V. Tomar las medidas necesarias para que la función notarial se preste en cumplimiento de la presente Ley, bajo los criterios de eficiencia y valores éticos que debe observar el notario en el ejercicio de su función; por lo que en caso de quejas o inconformidades que en forma reiterada se presenten por parte de la ciudadanía, ya sea por conducto de la Secretaría General de Gobierno o al Colegio de Notarios, en contra de algún notario, el Consejo de Notarios, previo haber escuchado al notario señalado, podrá acordar la suspensión de entrega de folios, papel testimonio u hologramas, hasta en tanto se emita la resolución prevista en la fracción V del artículo 175 de la ley, misma que se comunicará al notario implicado y al Secretario General de Gobierno para los efectos legales correspondientes. La resolución anterior deberá ser tomada por cuando menos el 75% de los integrantes de dicho Consejo.
 
 VI. Resolver las consultas que le hicieren las autoridades y los notarios, así como las diferencias que surjan entre éstos y los particulares respecto de las funciones que competan a este Colegio;
 
@@ -2401,23 +2519,45 @@ IX. Organizar, establecer y reglamentar para el mejor desempeño de la función 
 
 Para los efectos de lo establecido en el párrafo anterior, el Consejo de Notarios deberá organizar cursos periódicos de actualización, procurando incluir en ellos temas novedosos que sean impartidos preferentemente por profesores universitarios, los cuales tendrán una duración mínima de veinte horas anuales, siendo obligatorios para todos los Notarios;
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-X. Expedir por conducto del Presidente y Secretario del Consejo, credenciales que acrediten a los integrantes del Colegio como Notarios en el Estado;
+X. Dar cumplimiento a las medidas cautelares que le comunique la autoridad en caso de procedimientos de responsabilidad notarial;
 
-XI. Emitir su opinión sobre las quejas administrativas por presuntas infracciones a esta Ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-XII. Participar en los exámenes de aspirante y de oposición a que se refiere la presente Ley;
+XI. Dar cumplimiento a las acciones precautorias dictadas por la autoridad;
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-XIII. Convocar a asambleas de asociados;
+XII. Expedir por conducto del Presidente y Secretario del Consejo, credenciales que acrediten a los integrantes del Colegio como Notarios en el Estado;
 
-XIV. Delegar sus facultades en uno o varios consejeros;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-XV. Elaborar sus estatutos y reglamento interno; y
+XIII. Emitir su opinión sobre las quejas administrativas por presuntas infracciones a esta Ley;
 
-XVI. Representar al Colegio como su apoderado general judicial y para actos de administración, así como para suscribir títulos de crédito y abrir cuentas de cheques y girar a cargo de las mismas, para lo cual gozará de las facultades generales y especiales que requieran poder o cláusula especial conforme a los tres primeros párrafos del artículo 2207 del Código Civil del Estado de Jalisco y 9 de la Ley General de Títulos y Operaciones de Crédito, así como conferir poderes y revocar los que hubiesen otorgado.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Participar en los exámenes de aspirante y de oposición a que se refiere la presente Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Convocar a asambleas de asociados;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Delegar sus facultades en uno o varios consejeros;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Elaborar sus estatutos y reglamento interno;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Representar al Colegio como su apoderado general judicial y para actos de administración, así como para suscribir títulos de crédito y abrir cuentas de cheques y girar a cargo de las mismas, para lo cual gozará de las facultades generales y especiales que requieran poder o cláusula especial conforme a los tres primeros párrafos del artículo 2207 del Código Civil del Estado de Jalisco y 9 de la Ley General de Títulos y Operaciones de Crédito, así como conferir poderes y revocar los que hubiesen otorgado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Celebrar convenios con diversas instituciones para compartir información contenida en los soportes tecnológicos que permitan verificar la autenticidad de los documentos oficiales con que se identifican los comparecientes.
 
 Las facultades para actos de dominio se reservan en forma exclusiva al Colegio de Notarios constituido en asamblea.
 
@@ -2836,3 +2976,17 @@ P.O. 26 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25907/LXI/16 QUE REFORMA EL ARTÍCULO 39 DE LA LEY DEL NOTARIADO Y LOS ARTÍCULOS 860, 911 Y 971 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES.]
 
 ÚNICO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 1 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26926/LXI/18, QUE REFORMA LOS ARTÍCULOS 2, 3, 9, 21, 35, 43, 50, 57, 58, 62, 67, 70, 84, 90, 96, 101, 123, 125, 128, 142, 149, 158, 159, 160, 167, 171, 174, 175, 176, 177, 178, 179, 207, 208 Y 212, ADICIONA LOS ARTÍCULOS 53 BIS Y 206 BIS, Y DEROGA LOS ARTÍCULOS 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195 Y 196 DE LA LEY DEL NOTARIADO; REFORMA LOS ARTÍCULOS 405 BIS, 2842, 2845 Y 3118 DEL CÓDIGO CIVIL; REFORMA LOS ARTÍCULOS 758, 765, 770, 935 BIS, 935 TER, 938, 1058, 1060, 1062 Y 1063, Y ADICIONA EL CAPÍTULO IV BIS AL TÍTULO DÉCIMO SEGUNDO Y EL ARTÍCULO 775 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; Y REFORMA LOS ARTÍCULOS 122, 131, 133, 134 Y 135 DE LA LEY DEL REGISTRO CIVIL, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Lo previsto en el artículo 57, fracción VI, de la reforma a la Ley del Notariado del Estado de Jalisco, no será aplicable a los Notarios que hubiesen obtenido su nombramiento o fiat antes de la entrada en vigor del presente decreto
+
+TERCERO. Lo previsto en el artículo 21 fracción V, del presente decreto, no será aplicable a quienes hayan obtenido patente de aspirante al ejercicio del notariado con anterioridad a la entrada en vigor del presente decreto
+
+CUARTO. Los Notarios adscritos a alguno de los municipios de los señalados en la fracción I del artículo 29 de esta Ley, que tengan su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia del presente decreto, podrán mantener su oficina en ese municipio.
+
+QUINTO. Las presentes disposiciones surtirán todos sus efectos en tanto no se opongan expresamente a las disposiciones en materia procesal civil y familiar.
