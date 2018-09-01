@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2017-11-11"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1143,7 +1143,7 @@ g) De las actas de inscripción de sentencia de tutela, emancipación, ausencia,
 
 ### CAPITULO XVI. De la nulificación, rectificación, aclaración y testadura de las actas del registro civil
 
-(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 120], P.O. 15 DE JUNIO DE 1999)
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ### CAPITULO XVII. De las Visitas de Orientación e Inspección
 
@@ -1151,7 +1151,7 @@ g) De las actas de inscripción de sentencia de tutela, emancipación, ausencia,
 
 ###### Artículo 122.
 
-Sólo se harán mediante sentencia ejecutoria, la nulificación y rectificación de las actas del estado civil; la aclaración y testaduras que se deban efectuar en las mismas, se llevaran a cabo ante el Oficial del Registro Civil donde se haya asentado el acta, o en el Registro Civil del Estado, a través del procedimiento administrativo que se señale en el Reglamento correspondiente.
+Sólo se harán mediante sentencia ejecutoria, la nulificación y rectificación de las actas del estado civil; en el mismo sentido o por actuación ante Notario Público, con el testimonio correspondiente, lo relativo a la aclaración a que se refiere el artículo 758 del Código de Procedimientos Civiles del Estado de Jalisco; las testaduras que se deban efectuar en las mismas, se llevarán a cabo ante el Oficial del Registro Civil donde se haya asentado el acta, o en el Registro Civil del Estado, a través del procedimiento administrativo que se señale en el Reglamento correspondiente.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 121], P.O. 15 DE JUNIO DE 1999)
 
@@ -1225,11 +1225,17 @@ I. Las personas de cuyo estado se trate;
 
 II. Las que se mencionan en el acta como relacionadas con el estado civil de alguno;
 
-III. Los herederos de las personas comprendidas en las dos fracciones anteriores; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+III. Los herederos de las personas comprendidas en las dos fracciones anteriores;
 
-IV. Los que según el Código Civil del Estado puedan continuar o intentar la acción respectiva, así como el Oficial del Registro Civil, en los casos de nulificación y rectificación.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Los que según el Código Civil del Estado puedan continuar o intentar la acción respectiva, así como el Oficial del Registro Civil, en los casos de nulificación y rectificación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+V. Las personas antes referidas podrán acudir ante Notario Público a solicitar las aclaraciones a que se refieren los artículos 128 de esta Ley y 758 del Código de Procedimientos Civiles del Estado de Jalisco.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 15 DE JUNIO DE 1999)
 
@@ -1237,23 +1243,25 @@ IV. Los que según el Código Civil del Estado puedan continuar o intentar la ac
 
 En los casos de nulificación y rectificación de las actas del estado civil siempre serán partes el ministerio público y el oficial del Registro Civil donde se asentó el acta.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 131], P.O. 15 DE JUNIO DE 1999)
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 133.
 
 Los negocios que versen sobre la nulificación y rectificación de las actas del estado civil, se tramitarán en la forma que se establezca en el Código de Procedimientos Civiles del Estado para los juicios ordinarios y será competente para conocer de ellos el juzgado de Primera Instancia que ejerza su jurisdicción en el domicilio de la oficialía del Registro Civil.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 132], P.O. 15 DE JUNIO DE 1999)
+Para el caso del trámite de aclaración ante Notario Público será competente aquel cuya región notarial corresponda al Registro Civil del lugar del acta a aclarar.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 134.
 
-Una vez que exista sentencia ejecutoria deberá remitirse copia de la misma al oficial del Registro Civil y al Titular del Archivo General del Registro Civil para que hagan las anotaciones que procedan.
+Una vez que exista sentencia ejecutoriada o testimonio expedido por Notario Público, deberá remitirse copia autorizada del mismo al oficial del Registro Civil y al Titular del Archivo General del Registro Civil para que sin más trámite, realicen las anotaciones que procedan.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 133], P.O. 15 DE JUNIO DE 1999)
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 135.
 
-La sentencia ejecutoria hará fe plena contra todos, aunque no hayan comparecido; pero si alguno probare que estuvo absolutamente impedido para salir al juicio o que el procedimiento intentado es fraudulento, se le admitirá probar contra ella; más se tendrá como buena la sentencia anterior y surtirá sus efectos, hasta que recaiga otra que la contradiga y cause ejecutoria.
+La sentencia ejecutoria, la escritura pública o el testimonio expedido por el Notario Público en los casos de aclaración antes previstos, harán fe plena contra todos, aunque no hayan comparecido; pero si alguno probare que estuvo absolutamente impedido para salir al juicio o que el procedimiento intentado es fraudulento, se le admitirá probar contra ella; más se tendrá como buena la sentencia anterior y surtirá sus efectos, hasta que recaiga otra que la contradiga y cause ejecutoria.
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ANTES CAPÍTULO XVI], P.O. 15 DE JUNIO DE 1999)
 
@@ -1587,6 +1595,20 @@ P. O. 1 DE JULIO DE 2017.
 
 P. O. 11 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26494/LXI/17 QUE REFORMA EL ARTÍCULO 2 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26494/LXI/17 QUE REFORMA EL ARTÍCULO 2 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+P.O. 1 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26926/LXI/18, QUE REFORMA LOS ARTÍCULOS 2, 3, 9, 21, 35, 43, 50, 57, 58, 62, 67, 70, 84, 90, 96, 101,123, 125, 128, 142, 149, 158, 159, 160, 167, 171, 174, 175, 176, 177, 178, 179, 207, 208 Y 212, ADICIONA LOS ARTÍCULOS 53 BIS Y 206 BIS, Y DEROGA LOS ARTÍCULOS 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195 Y 196 DE LA LEY DEL NOTARIADO; REFORMA LOS ARTÍCULOS 405 BIS, 2842, 2845 Y 3118 DEL CÓDIGO CIVIL; REFORMA LOS ARTÍCULOS 758, 765, 770, 935 BIS, 935 TER, 938, 1058, 1060, 1062 Y 1063, Y ADICIONA EL CAPÍTULO IV BIS AL TÍTULO DÉCIMO SEGUNDO Y EL ARTÍCULO 775 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; Y REFORMA LOS ARTÍCULOS 122, 131, 133, 134 Y 135 DE LA LEY DEL REGISTRO CIVIL, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Lo previsto en el artículo 57, fracción VI, de la reforma a la Ley del Notariado del Estado de Jalisco, no será aplicable a los Notarios que hubiesen obtenido su nombramiento o fiat antes de la entrada en vigor del presente decreto.
+
+TERCERO. Lo previsto en el artículo 21 fracción V, del presente decreto, no será aplicable a quienes hayan obtenido patente de aspirante al ejercicio del notariado con anterioridad a la entrada en vigor del presente decreto
+
+CUARTO. Los Notarios adscritos a alguno de los municipios de los señalados en la fracción I del artículo 29 de esta Ley, que tengan su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia del presente decreto, podrán mantener su oficina en ese municipio.
+
+QUINTO. Las presentes disposiciones surtirán todos sus efectos en tanto no se opongan expresamente a las disposiciones en materia procesal civil y familiar.
