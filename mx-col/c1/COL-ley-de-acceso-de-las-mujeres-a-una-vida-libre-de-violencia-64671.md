@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2018-05-12"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -681,11 +681,63 @@ Son excepciones al párrafo anterior los casos de violencia que se deban conside
 
 Una vez otorgadas y ejecutadas las órdenes de protección, las autoridades judiciales que las dicten deberán dar seguimiento a la situación de violencia que haya ameritado su expedición, con la finalidad de ratificar, modificar o revocar la orden.
 
-### CAPÍTULO I. DE SU OBJETO E INTEGRACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO IV. PROTOCOLO ALBA
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 39 TER.- El Protocolo Alba es el mecanismo institucional que permite la coordinación de esfuerzos de los tres órdenes de gobierno comprometidos en la promoción y ejecución de actividades conducentes para la localización de mujeres y niñas con reporte de extravío.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 39 QUÁTER.- El Protocolo Alba tendrá como objetivo llevar a cabo la búsqueda inmediata, para la localización de mujeres y niñas desaparecidas, con el fin de proteger su vida, libertad personal e integridad, mediante un plan de atención y coordinación entre las autoridades de los tres niveles de gobierno, que involucren a medios de comunicación, sociedad civil, organismos públicos y privados, en todo el territorio mexicano.
+
+El Protocolo Alba se activa al instante que se reporta la desaparición de la mujer y la niña, desde ese momento se inician las labores pertinentes para su localización, El Protocolo Alba no se desactiva sino hasta encontrar a la mujer y a la niña.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 39 QUINQUIES.- Se integrará el Grupo Técnico de Colaboración del Protocolo Alba, el cual tiene el objetivo de brindar mayor cobertura en la implementación de los mecanismos de búsqueda y localización de niñas y mujeres desaparecidas. Será presidido por el Titular de la Fiscalía General del Estado de Colima.
+
+El Grupo Técnico de Colaboración estará conformado por al menos las instituciones y medios de comunicación que se enlistan a continuación:
+
+I. Secretaría General de Gobierno.
+
+II. Fiscalía General del Estado de Colima.
+
+III. Secretaría de Seguridad Pública.
+
+IV. Secretaría de Planeación y Finanzas.
+
+V. Secretaría de Salud y Bienestar Social.
+
+VI. Secretaría de Educación.
+
+VII. Instituto Colimense de las Mujeres.
+
+VIII. Secretaría de Infraestructura y Desarrollo Urbano.
+
+IX. Secretaría de Movilidad.
+
+X. Sistema para el Desarrollo Integral de la Familia.
+
+XI. Instituto Colimense de Radio y Televisión.
+
+XII. Comisión de Derechos Humanos del Estado de Colima.
+
+XIII. Junta de Asistencia Privada del Estado de Colima.
+
+XIV. Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+Se podrá solicitar además la colaboración de Organismos no Gubernamentales, Dependencias Federales y Municipales que coadyuven a la pronta localización de la víctima.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 39 SEXIES.- Al encontrar a la mujer o niña desaparecida y/o ausente, por parte de las autoridades correspondientes se les brindará atención médica, psicológica y legal, protegiendo en todo momento su integridad.
 
 ## TÍTULO CUARTO. DEL SISTEMA ESTATAL
 
-### CAPÍTULO II. DEL PROGRAMA INTEGRAL ESTATAL
+### CAPÍTULO I. DE SU OBJETO E INTEGRACIÓN
 
 ###### ARTÍCULO 40.
 
@@ -809,7 +861,7 @@ Los integrantes del Sistema Estatal sólo podrán ser suplidos por el inmediato 
 
 La finalidad y objetivo de los Subsistemas será aportar los avances en la construcción de modelos, proporcionando a la Secretaría Ejecutiva la información respectiva en los instrumentos y mecanismos que para tal efecto, ésta diseñe y establezca, para el seguimiento del Programa Integral Estatal, con rubros cuantitativos y cualitativos.
 
-### CAPÍTULO III. DE LAS COMPETENCIAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
+### CAPÍTULO II. DEL PROGRAMA INTEGRAL ESTATAL
 
 ###### ARTÍCULO 52.
 
@@ -905,7 +957,7 @@ XX.- Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las 
 
 El Ejecutivo Estatal y los Ayuntamientos, en el ámbito de sus competencias, propondrán en el Proyecto de Presupuesto de Egresos correspondiente asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema Estatal y del Programa Integral Estatal previstos en la presente Ley.
 
-### CAPÍTULO IV. DE LA ATENCIÓN A LAS RECEPTORAS
+### CAPÍTULO III. DE LAS COMPETENCIAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
 #### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
 
@@ -1485,7 +1537,7 @@ XI.- Celebrar convenios de coordinación y concertación con los sectores públi
 
 XII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-### CAPÍTULO V. DE LOS REFUGIOS
+### CAPÍTULO IV. DE LA ATENCIÓN A LAS RECEPTORAS
 
 ###### ARTÍCULO 70.
 
@@ -1527,7 +1579,7 @@ VI.- Acceder al servicio de las bolsas de trabajo para tener una actividad labor
 
 VII.- Los demás señalados en esta Ley y otras disposiciones legales.
 
-### CAPÍTULO I. EJES DE ACCIÓN
+### CAPÍTULO V. DE LOS REFUGIOS
 
 ###### ARTÍCULO 73.
 
@@ -1573,7 +1625,7 @@ La autoridad evitará proporcionar o hacer pública la información relacionada 
 
 ## TÍTULO QUINTO. DE LOS EJES DE ACCIÓN Y DE LOS MODELOS
 
-### CAPÍTULO II. DE LOS MODELOS
+### CAPÍTULO I. EJES DE ACCIÓN
 
 ###### ARTÍCULO 76.
 
@@ -1589,7 +1641,7 @@ II.- Abordajes terapéuticos exitosos que han probado su efectividad al disminui
 
 III.- Inscribirse ante la Secretaría Ejecutiva del Sistema Estatal previo registro legal respetando la autoría intelectual.
 
-### CAPÍTULO ÚNICO. DE LAS SANCIONES
+### CAPÍTULO II. DE LOS MODELOS
 
 ###### ARTÍCULO 78.
 
@@ -1668,6 +1720,8 @@ III.- La armonización legislativa y judicial en su completitud y la interpretac
 La Secretaría Ejecutiva del Sistema Estatal, buscará establecer las bases de coordinación, para que la armonización judicial se estructure como parte de los mecanismos de aceleramiento para construir la igualdad sustantiva.
 
 ## TÍTULO SEXTO. DE LAS SANCIONES ADMINISTRATIVAS
+
+### CAPÍTULO ÚNICO. DE LAS SANCIONES
 
 ###### ARTÍCULO 89.
 
@@ -1826,3 +1880,15 @@ P.O. 12 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 481 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 15 DE LA LEY DE SALUD DEL ESTADO DE COLIMA; SE ADICIONA LA FRACCIÓN XXII, PASANDO A LA ACTUAL XXII A SER XXIII, AL ARTÍCULO 60 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA; SE REFORMAN LAS FRACCIONES II Y III, ASIMISMO SE ADICIONA UNA FRACCIÓN IV, TODAS DEL ARTÍCULO 26 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 520 POR EL QUE SE ADICIONA UN CAPÍTULO IV DENOMINADO "PROTOCOLO ALBA" AL TÍTULO TERCERO DE LOS MECANISMOS GARANTES, Y LOS ARTÍCULOS 39 TER, 39 QUÁTER, 39 QUINQUIES Y 39 SEXIES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La Fiscalía General del Estado de Colima, tendrá 90 días naturales a partir de la entrada en vigor del presente Decreto, para emitir los lineamientos del Protocolo Alba, apegándose a lo establecido en los diversos instrumentos nacionales e internacionales.
+
+TERCERO.- La Fiscalía General del Estado de Colima, tendrá 120 días naturales a partir de la entrada en vigor del presente Decreto, como plazo máximo para instalar el Grupo Técnico de Colaboración del Protocolo Alba.
+
+CUARTO.- Hasta en tanto se constituya la Fiscalía General del Estado de Colima, las referencias que se hagan a ella en el presente Decreto se entenderán hechas a la Procuraduría General de Justicia del Estado.
