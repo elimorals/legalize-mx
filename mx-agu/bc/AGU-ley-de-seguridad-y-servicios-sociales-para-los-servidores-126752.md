@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-12675
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2018-02-26"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Número 9 al Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -205,41 +205,85 @@ XXXV. Ley: A la Ley de Seguridad y Servicios Sociales para los Servidores Públi
 
 XXXVI. Mercancías: A los subyacentes enunciados en las Disposiciones del Banco de México en materia de operaciones derivadas, que tengan el carácter de bienes fungibles diferentes a las Acciones, Índices, Tasas, Derivados, Moneda Nacional, Divisas, Unidades de Inversión, Préstamos y Créditos, en los que el Instituto tenga la posición de acreedora;
 
-XXXVII. Órgano Interno de Control: Es la unidad administrativa a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, de conformidad con la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado de Aguascalientes, Ley Orgánica de la Administración Pública del Estado de Aguascalientes, Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus municipios, Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios y demás disposiciones aplicables, además dirigirán sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado y las demás disposiciones legales aplicables;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XXXVII. (sic) Países Elegibles para Inversiones: A los países cuyas autoridades reguladoras y supervisoras de mercados financieros pertenezcan al Comité Técnico de la Organización Internacional de Comisiones de Valores (IOSCO), a la Unión Europea o bien a los países miembros de la Organización para la Cooperación y el Desarrollo Económico (OCDE), con los que México tenga tratados de libre comercio vigentes;
+XXXVII. Órganos de Control y Evaluación: A los responsables de promover, evaluar, mejorar y fortalecer el buen funcionamiento del control interno y gestión, así como estudiar y fiscalizar el ejercicio eficiente de los recursos públicos; además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública, conforme a las disposiciones normativas aplicables en la materia, y son:
 
-XXXVIII. Pensionado: Es el trabajador o sus beneficiarios que obtuvieron una pensión fundada en una Ley anterior a la vigente, así como a los que se les otorgue una pensión con apoyo en este ordenamiento legal;
+a) Órgano de Vigilancia; y
 
-XXXIX. Préstamos para la Adquisición de Bienes de Consumo Duradero, de Servicios Médicos, Educativos y Turísticos: Es la prestación otorgada por el Instituto a los Servidores Públicos, que refiere a la adquisición de bienes muebles con una vida útil mayor a un año para su funcionamiento y/o manutención. Entendiéndose de igual forma y para los efectos de esta Ley los préstamos relativos a servicios médicos, educativos, turísticos y los que determine la Junta Directiva;
+b) Órgano Interno de Control;
 
-XL. Las Reservas Actuariales y Financieras: Es el patrimonio constituido para cubrir el pasivo laboral correspondiente al pago de las pensiones. Se integrará con el saldo estimado que tendría el fondo resultante de la diferencia entre los egresos y los ingresos al fondo de prestaciones contingentes;
+XXXVII. (sic) (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2018)
 
-XLI. Reserva de Garantía: Se constituye de aportar el porcentaje determinado en esta Ley, sobre el monto del crédito, el cual deberá pagarse por única ocasión, para efecto de restituir el pago de los créditos declarados como irrecuperables;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XLII. Riesgos de trabajo: Los accidentes y enfermedades a que se encuentran expuestos los servidores públicos en el ejercicio o con motivo de su trabajo;
+XXXVIII. Países Elegibles para Inversiones: A los países cuyas autoridades reguladoras y supervisoras de mercados financieros pertenezcan al Comité Técnico de la Organización Internacional de Comisiones de Valores (IOSCO), a la Unión Europea o bien a los países miembros de la Organización para la Cooperación y el Desarrollo Económico (OCDE), con los que México tenga tratados de libre comercio vigentes;
 
-XLIII. Servidor Público o Trabajador: A los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso del Estado o en la Administración Pública Estatal, en las Administraciones Públicas Municipales, así como a los servidores públicos de los organismos que se les otorgue autonomía en el ámbito estatal y municipal, y que aporte al Instituto las cuotas que en este ordenamiento se estipulan y que además serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XLIV. Subrogados Estancia de Bienestar Infantil (EBI): Es la delegación que realiza el Instituto, para que un tercero emita el servicio de Estancia Infantil a que está obligado el Instituto;
+XXXIX. Pensionado: Es el trabajador o sus beneficiarios que obtuvieron una pensión fundada en una Ley anterior a la vigente, así como a los que se les otorgue una pensión con apoyo en este ordenamiento legal;
 
-XLV. Sueldo Base de Cotización: Es el sueldo con el que la entidad afilie al Instituto a los Servidores Públicos de su adscripción, de conformidad con el tabulador de sueldos y salarios establecidos en su propio presupuesto, mismo que no podrá ser inferior a un salario mínimo general vigente en el Estado, a excepción del caso de los pensionados que cotizarán de acuerdo al monto de la pensión que disfruten. Dicho sueldo será la base para el cálculo de las aportaciones y el otorgamiento de las prestaciones a que se refiere esta Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XLVI. Sueldo Bruto: Es toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
+XL. Préstamos para la Adquisición de Bienes de Consumo Duradero, de Servicios Médicos, Educativos y Turísticos: Es la prestación otorgada por el Instituto a los Servidores Públicos, que refiere a la adquisición de bienes muebles con una vida útil mayor a un año para su funcionamiento y/o manutención. Entendiéndose de igual forma y para los efectos de esta Ley los préstamos relativos a servicios médicos, educativos, turísticos y los que determine la Junta Directiva;
 
-XLVII. Tabulador de Sueldos y Salarios de los Afiliados: Es el documento que delimita los niveles máximo y mínimo para retribuir un puesto genérico de trabajo y permite flexibilidad a las Dependencias y entidades públicas patronales para asignar cargos específicos de los mismos, dichos documentos deberán ser publicados en el Periódico Oficial del Estado de Aguascalientes, una vez que los tabuladores sean aprobados por las autoridades respectivas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XLVIII. Unidades de Inversión: A las unidades de cuenta, cuyo valor publica el Banco de México en el Diario Oficial de la Federación;
+XLI. Las Reservas Actuariales y Financieras: Es el patrimonio constituido para cubrir el pasivo laboral correspondiente al pago de las pensiones. Se integrará con el saldo estimado que tendría el fondo resultante de la diferencia entre los egresos y los ingresos al fondo de prestaciones contingentes;
 
-XLIX. UMA: A la Unidad de Medida y Actualización;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-L. Valores Extranjeros: A todos los Valores Extranjeros de Deuda y Valores Extranjeros de Renta Variable, las Estructuras Vinculadas a Subyacentes, los componentes de éstos referidos en la Fracción XX, Inciso b), Numeral 1 o bien la estructura de pagos referida en la Fracción XX, Inciso c) de este Artículo, emitidos por Emisores Extranjeros, así como a los depósitos bancarios de dinero a la vista realizados en Entidades Financieras Extranjeras autorizadas para tales fines y a los Derivados cuyo subyacente sean Valores Extranjeros de Renta Variable;
+XLII. Reserva de Garantía: Se constituye de aportar el porcentaje determinado en esta Ley, sobre el monto del crédito, el cual deberá pagarse por única ocasión, para efecto de restituir el pago de los créditos declarados como irrecuperables;
 
-LI. Valores Extranjeros de Deuda: A los Activos Objeto de Inversión, cuya naturaleza corresponda a valores, títulos o documentos representativos de una deuda a cargo de un tercero, así como a los Instrumentos Bursatilizados, emitidos por Emisores Extranjeros;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-LII. Valores Extranjeros de Renta Variable: A los Activos Objeto de Inversión listados en algún mercado accionario supervisado por una autoridad de los Países Elegibles para Inversiones cuya naturaleza corresponda a capital, emitidos por Emisores Extranjeros; y
+XLIII. Riesgos de trabajo: Los accidentes y enfermedades a que se encuentran expuestos los servidores públicos en el ejercicio o con motivo de su trabajo;
 
-LIII. Vehículos: A las Sociedades de Inversión, Fondos Mutuos, Fideicomisos de Inversión u otros análogos a los anteriores que, cualquiera que sea su denominación, confieran derechos, directa o indirectamente, respecto de los Activos Objeto de Inversión.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XLIV. Servidor Público o Trabajador: A los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso del Estado o en la Administración Pública Estatal, en las Administraciones Públicas Municipales, así como a los servidores públicos de los organismos que se les otorgue autonomía en el ámbito estatal y municipal, y que aporte al Instituto las cuotas que en este ordenamiento se estipulan y que además serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XLV. Subrogados Estancia de Bienestar Infantil (EBI): Es la delegación que realiza el Instituto, para que un tercero emita el servicio de Estancia Infantil a que está obligado el Instituto;
+
+(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XLVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XLVI. Sueldo Base de Cotización: Es el sueldo con el que la entidad afilie al Instituto a los Servidores Públicos de su adscripción, de conformidad con el tabulador de sueldos y salarios establecidos en su propio presupuesto, mismo que no podrá ser inferior a un salario mínimo general vigente en el Estado, A EXCEPCIÓN DEL CASO DE LOS PENSIONADOS QUE COTIZARÁN DE ACUERDO AL MONTO DE LA PENSIÓN QUE DISFRUTEN. Dicho sueldo será la base para el cálculo de las aportaciones y el otorgamiento de las prestaciones a que se refiere esta Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XLVII. Sueldo Bruto: Es toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XLVIII. Tabulador de Sueldos y Salarios de los Afiliados: Es el documento que delimita los niveles máximo y mínimo para retribuir un puesto genérico de trabajo y permite flexibilidad a las Dependencias y entidades públicas patronales para asignar cargos específicos de los mismos, dichos documentos deberán ser publicados en el Periódico Oficial del Estado de Aguascalientes, una vez que los tabuladores sean aprobados por las autoridades respectivas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XLIX. Unidades de Inversión: A las unidades de cuenta, cuyo valor publica el Banco de México en el Diario Oficial de la Federación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+L. UMA: A la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+LI. Valores Extranjeros: A todos los Valores Extranjeros de Deuda y Valores Extranjeros de Renta Variable, las Estructuras Vinculadas a Subyacentes, los componentes de éstos referidos en la Fracción XX, Inciso b), Numeral 1 o bien la estructura de pagos referida en la Fracción XX, Inciso c) de este Artículo, emitidos por Emisores Extranjeros, así como a los depósitos bancarios de dinero a la vista realizados en Entidades Financieras Extranjeras autorizadas para tales fines y a los Derivados cuyo subyacente sean Valores Extranjeros de Renta Variable;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+LII. Valores Extranjeros de Deuda: A los Activos Objeto de Inversión, cuya naturaleza corresponda a valores, títulos o documentos representativos de una deuda a cargo de un tercero, así como a los Instrumentos Bursatilizados, emitidos por Emisores Extranjeros;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+LIII. Valores Extranjeros de Renta Variable: A los Activos Objeto de Inversión listados en algún mercado accionario supervisado por una autoridad de los Países Elegibles para Inversiones cuya naturaleza corresponda a capital, emitidos por Emisores Extranjeros; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+LIV. Vehículos: A las Sociedades de Inversión, Fondos Mutuos, Fideicomisos de Inversión u otros análogos a los anteriores que, cualquiera que sea su denominación, confieran derechos, directa o indirectamente, respecto de los Activos Objeto de Inversión.
 
 ###### Artículo 5°.
 
@@ -317,7 +361,7 @@ XVI. Expedir lineamientos de observancia general para la aplicación para efecto
 
 XVII. Registrar a las Entidades Públicas Patronales y demás sujetos obligados al pago de cuotas y aportaciones que establece la presente Ley, otorgándoles el número que les corresponda;
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVIII DE ESTE ARTICULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 XVIII. SUSPENDER TEMPORALMENTE LAS PRESTACIONES DEL INSTITUTO A LOS AFILIADOS, CUANDO NO SEA (SIC) HAYA RECIBIDO POR LA PARTE PATRONAL LAS APORTACIONES Y EL ENTERO DE LAS PRESTACIONES CUANDO MENOS DE SEIS MESES;
 
@@ -475,23 +519,45 @@ II. El Director General.
 
 La Junta Directiva estará integrada por:
 
-I. El titular de la Secretaría General de Gobierno;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-II. El titular de la Secretaría de Administración de Gobierno del Estado;
+I. El Gobernador del Estado o la persona que designe para tales efectos;
 
-III. El titular de la Secretaría de Finanzas del Gobierno del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-IV. El titular del Ayuntamiento del Municipio de Aguascalientes;
+II. El titular de la Secretaría General de Gobierno;
 
-V. Un representante de los demás Municipios, designado por ellos mismos;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Dos representantes de los organismos públicos descentralizados afiliados al Instituto, designado por ellos mismos; y
+III. El titular de la Secretaría de Administración del Gobierno del Estado;
 
-VII. Cuatro representantes del Sindicato Único de Trabajadores Estatales y Municipales de Aguascalientes, designados por éste.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+IV. El titular de la Secretaría de Finanzas del Gobierno del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+V. El titular del Ayuntamiento del Municipio de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Un representante de los demás Municipios, designado por ellos mismos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Dos representantes de los organismos públicos descentralizados afiliados al Instituto, designado por ellos mismos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Cuatro representantes del Sindicato Único de Trabajadores Estatales y Municipales de Aguascalientes, designados por éste.
 
 Cada integrante de la Junta Directiva tendrá su respectivo suplente, el cual lo substituirá en sus faltas temporales, en términos de lo dispuesto en el reglamento respectivo.
 
 El procedimiento para elegir a los representantes a que se refieren las Fracciones V y VI del presente Artículo, se establecerá en el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+El Gobernador del Estado designará de entre los miembros de la Junta, a quien deba presidirla en caso de ausencia, actuando como Vocales los demás miembros, a excepción de los representantes a que se refieren las fracciones V, VI, VII y VIII del presente Artículo.
 
 ###### Artículo 28.
 
@@ -499,13 +565,17 @@ Los integrantes de la Junta Directiva no gozarán de ningún tipo de compensaci�
 
 Los integrantes de la Junta a que se refieren las Fracciones V, VI y VII del Artículo anterior permanecerán en su cargo tres años pudiendo al término ser ratificados, siempre y cuando se encuentren en funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 29.
 
-El Director General presidirá la Junta Directiva y actuarán como Vocales los demás miembros, quiénes se encontrarán en el orden establecido en el Artículo 27 de esta Ley.
+El Gobernador del Estado o la persona que designe para tales efectos, presidirá la Junta Directiva, y los demás miembros actuarán como vocales, quienes se encontraran en el orden establecido en el Artículo 27 de esta Ley.
 
-La Junta Directiva designará, de entre sus miembros, al Secretario de dicha Junta, quién contará con voz, pero sin voto.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-La Junta Directiva deberá contar con un Secretario Técnico, el cual deberá ser el Coordinador Jurídico del Instituto, quién contará con voz, pero sin voto.
+La Junta Directiva designará, al Secretario, en términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, quién contará con voz, pero sin voto.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 30.
 
@@ -685,15 +755,25 @@ VIII. Haber ocupado un puesto directivo en alguna Institución Financiera recono
 
 #### SECCIÓN CUARTA. El Órgano de Vigilancia
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 38.
 
-El Órgano de Vigilancia del Instituto estará integrado por un Comisario Propietario y un Suplente, designados por la Contraloría del Estado de Aguascalientes.
+El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión, y en general, del desempeño de las actividades del Instituto; estará integrado por un Comisario Público Propietario y un Suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 39.
 
-El Comisario evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de Gasto Corriente, Prestaciones, Inversiones y Egresos en general, así corno la solvencia actuarial de los fondos del Instituto.
+El Comisario Público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de Gasto Corriente, Prestaciones, Inversiones y Egresos en general, así como en la solvencia actuarial de los fondos del Instituto y lo referente a sus ingresos.
 
-Asimismo, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado de Aguascalientes le asigne específicamente.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Asimismo, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a las leyes correspondiente (sic).
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Para el cumplimiento de las funciones citadas, la Junta Directiva y el Director General deberán proporcionar la información que solicite el Comisario Público del Instituto y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
 
 ###### Artículo 40.
 
@@ -705,71 +785,49 @@ II. Los parientes consanguíneos del Director General en línea recta sin limita
 
 ###### Artículo 41.
 
-Son facultades y obligaciones del Comisario:
-
-I. Solicitar al Director General todos los estados financieros que éste elabora, con sus anexos correspondientes;
-
-II. Inspeccionar por lo menos dos veces al año, los libros, registros y demás documentos del Instituto, así como realizar arqueos de fondos y revisión de las cuentas bancarias y de inversión, enviando a la Junta Directiva un informe de sus actividades;
-
-III. Intervenir en la formación y revisión de los estados financieros de fin de ejercicio;
-
-IV. Proponer que se incluyan en el orden del día de las sesiones de la Junta Directiva los puntos que crea pertinente tratar;
-
-V. Solicitar, en caso de que lo juzgue pertinente, que se convoque a sesiones extraordinarias de la Junta Directiva;
-
-VI. Asistir a las sesiones de la Junta Directiva, cuando sea citado a las mismas, en las que tendrá voz, pero no voto, y en caso de inasistencia, podrá nombrar un suplente, quién tendrá las mismas facultades prescritas en esta fracción;
-
-VII. Vigilar e informar ilimitadamente en cualquier tiempo por las operaciones del Instituto; y
-
-VIII. Las demás que le encomiende la Junta Directiva.
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 2018)
 
 #### SECCIÓN QUINTA. El Órgano Interno de Control
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 42.
 
-El Instituto contará en su estructura orgánica con un Órgano Interno de Control, que estará a cargo de un Titular designado por el Gobernador del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y la Contraloría del Estado quien actuará en el ámbito de su competencia y ejercerá sus funciones conforme a lo establecido por la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes y las demás disposiciones relativas y aplicables, para su correcto funcionamiento.
+El Instituto contará en su estructura orgánica con un Órgano Interno de Control, mismo que tendrá a su cargo la fiscalización del ejercicio del gasto público, la promoción, la evaluación y el fortalecimiento del buen funcionamiento del control interno del Instituto, y el conocimiento de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública. Actuará en el ámbito de su competencia y ejercerá sus funciones conforme a lo establecido por la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes y las demás disposiciones relativas y aplicables, para su correcto funcionamiento.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 43.
 
-El Órgano Interno de Control se conformará por Unidades Administrativas que tendrán a su cargo el ejercicio de las funciones de investigación y recepción de quejas y denuncias, de sustanciación y resolución, y de auditoría, para el cumplimiento del objeto de dicho Órgano.
+Para el ejercicio de sus funciones, el Órgano Interno de Control contará con las siguientes Autoridades:
 
-Para el cumplimiento de las atribuciones que la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y demás disposiciones aplicables establecen, se deberá garantizar que la autoridad substanciadora y resolutora, sea distinta de aquélla encargada de la investigación y recepción de quejas. Para tal efecto, el Instituto proporcionará los recursos humanos y materiales que requieran para la atención y los asuntos a su cargo, así como los servidores públicos del Instituto estarán obligados a proporcionar el auxilio que requieran para el desempeño de sus facultades.
+I. Autoridad Auditora, que es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno;
+
+II. Autoridad Investigadora, que es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas; y
+
+III. Autoridad Substanciadora y Resolutora, que es la encargada de dirigir y conducir los procedimientos de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso, en términos de lo establecido por la Ley de Responsabilidades Administrativas.
+
+Los titulares de dichas Autoridades serán designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+
+El servidor público que ejerza la función de Autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
+
+Las facultades de cada una de las Autoridades a las que refiere el presente artículo serán determinadas en el Reglamento de esta Ley, de conformidad con la Ley para el Control de Entidades Paraestatales, la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes y las demás disposiciones relativas y aplicables.
+
+Con el objeto de atender situaciones de urgente necesidad y en el caso de ausencia del titular de alguna de las Autoridades señaladas por el presente Artículo o de la imposibilidad del ejercicio de la función que le corresponda, las suplencias se regirán conforme a la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
 
 ###### Artículo 44.
 
-El Órgano Interno de Control, deberá implementar acciones para orientar el desempeño de los servidores públicos en sus empleos, cargos, comisiones o funciones, en coordinación con los Sistemas Nacional y Estatal Anticorrupción, en términos de lo dispuesto en las normas relativas aplicables.
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 45.
 
-El Órgano Interno de Control será responsable de inscribir y mantener actualizada en el Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal, la información correspondiente a los declarantes a su cargo. Asimismo, verificará la situación o posible actualización de algún conflicto de interés, según la información proporcionada, llevará el seguimiento de la evolución y la verificación de la situación patrimonial de dichos declarantes, en los términos de las disposiciones normativas aplicables.
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 46.
 
-El Titular del Órgano Interno de Control, además de aquellas que les confiere la presente Ley y las demás disposiciones relativas, tendrá las siguientes facultades y atribuciones:
-
-I. Instrumentar a través de la Unidad de Investigación y Recepción de Quejas y Denuncias; y la Unidad Substanciadora y Resolutora, respectivamente, los mecanismos para la prevención, corrección e investigación de hechos de corrupción de los servidores públicos adscritos al Instituto y particulares, así como la substanciación, conforme a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, de igual forma acordar la admisión y cumplimiento de las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su respectiva competencia;
-
-II. Elaborar el Programa Anual de Auditoría de las distintas Direcciones, Unidades, Programas o Coordinaciones del Instituto que se requieran para verificar la eficacia, economía y eficiencia de las operaciones de éstas, la confiabilidad de su información financiera y operacional, y el debido cumplimiento de las leyes, reglamentos y políticas aplicables, lo cual deberá informar a la Contraloría del Estado.
-
-III. Vigilar la aplicación oportuna de las medidas correctivas y recomendaciones derivadas de las auditorías o revisiones practicadas tanto por la Contraloría del Estado, así como por las Instancias Federales;
-
-IV. Ordenar visitas, inspecciones, practicar auditorías, solicitar informes, revisar libros y documentos, inspeccionar obras para comprobar si las inversiones y gastos autorizados a las Direcciones, Unidades o Coordinaciones del Instituto, sean aplicados eficientemente al logro de los objetivos y metas de los programas y subprogramas aprobados y en general realizar las investigaciones necesarias para el cabal cumplimiento de sus atribuciones;
-
-V. Ordenar auditorías a las Direcciones, Unidades o Coordinaciones del Instituto, para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos;
-
-VI. Ordenar la verificación aleatoria de declaraciones patrimoniales que obren en el Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal, así como de la evolución del patrimonio de los servidores públicos;
-
-VII. Informar al Director General sobre los resultados de las auditorías, revisiones y visitas de inspección o verificación efectuadas para que se tomen las medidas pertinentes de carácter preventivo y correctivo;
-
-VIII. Ejercer las facultades que establece la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, relativas a la Contraloría Interna;
-
-IX. Instruir a los Titulares de las Unidades y al personal adscrito, para que, durante el desarrollo de las visitas de supervisión, vigilancia y evaluación técnico jurídica, proporcionen al personal de la Contraloría del Estado el apoyo necesario para el adecuado desempeño de sus funciones; mismo que consistirá, entre otros, en el acceso a las instalaciones, expedientes, medios de control y expedición de copias simples o certificadas de cualquier documentación oficial, previa notificación de visita de inspección por parte de la Contraloría del Estado;
-
-X. Vigilar el cumplimiento exacto de las disposiciones que expida la Contraloría del Estado;
-
-XI. Las demás que señalen otros ordenamientos legales o las que le sean encomendadas por el Titular del Instituto, dentro de su competencia.
-
-XII. El Titular del Órgano Interno de Control en ningún caso podrá ejercer las funciones de Autoridad Investigadora y Autoridad Substanciadora en un mismo asunto.
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO V. El Régimen Laboral del Instituto
 
@@ -1117,7 +1175,7 @@ Para los Servidores Públicos en activo, que se recomiende una reubicación a co
 
 ###### Artículo 78.
 
-A efecto de prevenir Riesgos de Trabajo, las Entidades Públicas Patronales, deberán someter a los aspirantes al Servicio Público a los exámenes médicos requeridos por el Instituto, y al mismo tiempo deberá de elaborar el formato oficial que proporcione el Área Médica del Instituto, denominado "Informe Médico", el cual deberá contener la declaración solemne de "BAJO PROTESTA DE DECIR VERDAD", con el fin de que manifiesten si el interesado goza de buena salud, o en su defecto declare si tiene o ha tenido o padece actualmente algún problema de salud.
+A efecto de prevenir Riesgos de Trabajo, las Entidades Públicas Patronales, deberán someter a los aspirantes al Servicio Público a los exámenes médicos requeridos por el Instituto, y al mismo tiempo deberá de elaborar el formato oficial que proporcione el Área Médica del Instituto, denominado “Informe Médico”, el cual deberá contener la declaración solemne de “BAJO PROTESTA DE DECIR VERDAD”, con el fin de que manifiesten si el interesado goza de buena salud, o en su defecto declare si tiene o ha tenido o padece actualmente algún problema de salud.
 
 Lo anterior deberá realizarse atendiendo a los convenios de colaboración de Servicios Médicos, suscritos por el Instituto.
 
@@ -1569,7 +1627,7 @@ a) Las copias certificadas de actas de nacimiento en que se demuestre que el pen
 
 b) Escritura pública o testamento en que conste el reconocimiento de paternidad, en que se demuestre que el pensionado ha tenido al menos un hijo al cohabitar en concubinato con la persona que se pretende inscribir como beneficiario; o
 
-c) Dos testigos aptos que hagan constar, ante el Instituto, que los interesados han convivido como esposos, estando libres de matrimonio, por lo menos los dos años anteriores, acompañado de constancias de domicilio que acrediten el establecimiento de un hogar común, la actuación realizada por los testigos deberá de realizarse supeditados con la confesión de la frase solemne de "BAJO PROTESTA DE DECIR VERDAD";
+c) Dos testigos aptos que hagan constar, ante el Instituto, que los interesados han convivido como esposos, estando libres de matrimonio, por lo menos los dos años anteriores, acompañado de constancias de domicilio que acrediten el establecimiento de un hogar común, la actuación realizada por los testigos deberá de realizarse supeditados con la confesión de la frase solemne de “BAJO PROTESTA DE DECIR VERDAD”;
 
 V. El hecho de cursar estudios con reconocimiento oficial o en planteles del Sistema Educativo Nacional, para el caso de los hijos menores de veinticinco años, se comprobará con la constancia que se expida, la cual deberá estar sellada y firmada, y haber sido expedida por la Secretaría de Educación Pública o bien por una Universidad o Institución Académica incorporada o reconocida por dicha Secretaría; y
 
@@ -1585,7 +1643,9 @@ Es derecho de todo Servidor Público contar con una Cuenta de Ahorro Individual 
 
 El Instituto administrará las Cuentas de Ahorro Individuales para el Retiro, por sí o a través de una Institución experta en Inversiones y reconocida legalmente, si así lo considera conveniente, la cual estará bajo supervisión y regulación del Instituto.
 
-La aportación obligatoria a que se refiere el Artículo 131, será el dos por ciento sobre el Sueldo Base de Cotización a que se refiere el Artículo 4° Fracción XLVI de esta Ley.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+La aportación obligatoria a que se refiere el Artículo 131, será el dos por ciento sobre el Sueldo Base de Cotización a que se refiere el Artículo 4° Fracción XLVII de esta Ley.
 
 A fin de que el Instituto pueda individualizar y administrar dichas aportaciones, las Entidades Públicas Patronales deberán proporcionar la información adicional de cada Servidor Público, que el Instituto le solicite en la forma y periodicidad que se señale para estos efectos.
 
@@ -2512,3 +2572,21 @@ Martha Elisa González Estrada, DIPUTADA PRIMERA SECRETARIA.
 Arturo Fernández Estrada, DIPUTADO SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 23 de febrero de 2018.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 385.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto, de igual o menor jerarquía.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas y administrativas correspondientes.
