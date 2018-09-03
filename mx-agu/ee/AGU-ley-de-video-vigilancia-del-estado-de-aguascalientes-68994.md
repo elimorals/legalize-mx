@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-video-vigilancia-del-estado-de-aguascalientes-68994"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-22"
-last_updated: "2017-07-03"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2009.
 
@@ -43,9 +43,11 @@ LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO I. Generalidades
 
-###### ARTÍCULO 1º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-La presente Leyes de orden e interés público y tiene por objeto regular la utilización, por los cuerpos de seguridad pública estatal y municipales o por prestadores de servicio de seguridad privada, de videocámaras para grabar o captar imágenes con o sin sonido en lugares públicos o en lugares privados con acceso al público, así como su posterior tratamiento; o bien por otras autoridades, en los inmuebles que estén a su disposición.
+###### ARTÍCULO 1°.
+
+La presente Ley es de orden e interés público, de observancia general en el Estado de Aguascalientes y tiene por objeto regular la utilización de videocámaras para grabar y/o captar imágenes con o sin sonidos en lugares públicos o privados con acceso al público, así como su posterior tratamiento; por los cuerpos de seguridad pública estatal y municipales, por prestadores de servicio de seguridad privada, o bien por otras autoridades, en los inmuebles que estén a su disposición, con la finalidad de contar con herramientas útiles y eficaces para la investigación de delitos y la documentación de faltas administrativas relacionadas con la seguridad pública.
 
 La Video Vigilancia en vías públicas será función exclusiva de los cuerpos de seguridad pública estatal y municipales.
 
@@ -504,6 +506,14 @@ En tanto no inicie su vigencia la autonomía de la Fiscalía General de la Repú
 P.O. 3 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 364.- SE REFORMA EL ARTÍCULO 1° DE LA LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
