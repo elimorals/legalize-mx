@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2018-04-16"
+last_updated: "2018-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -51,11 +51,11 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, la Sala Administrativa, los Juzgados de Primera Instancia Civiles, Mercantiles, de Primera Instancia Penales que estará a cargo de Juzgados de Control, de Juicio Oral y de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 2o.
+###### ARTICULO 2o.
 
-El Supremo Tribunal de Justicia, la Sala Administrativa y los Jueces, ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, Ley del Procedimiento Contencioso Administrativo, la Ley del Sistema de Justicia para Adolescentes y demás leyes vigentes.
+El Supremo Tribunal de Justicia, la Sala Administrativa y los Jueces, ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, Ley del Procedimiento Contencioso Administrativo, la normatividad aplicable en materia de Justicia para Adolescentes y demás leyes vigentes.
 
 ###### ARTICULO 3o.
 
@@ -595,15 +595,17 @@ En el Supremo Tribunal de Justicia el turno lo llevarán los presidentes de Sala
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-ARTÍCULO 33 A.- En términos de lo que establece el (sic) 51 de la Constitución Política del Estado, la Sala Administrativa es la máxima autoridad jurisdiccional en la materia contencioso administrativa, y órgano permanente especializado, autónomo e independiente en sus decisiones y resoluciones, las cuales se sujetarán de manera invariable a los principios de legalidad y definitividad; rigiéndose por lo dispuesto en la propia Constitución, esta Ley, la Ley del Procedimiento Contencioso Administrativo, el Reglamento Interior que en uso de sus facultades expida y otros ordenamientos aplicables.
+ARTICULO 33 A.- En términos de lo que establece el Artículo 51 de la Constitución Política del Estado, la Sala Administrativa es la máxima autoridad jurisdiccional en la materia contencioso administrativa, y órgano permanente especializado, autónomo e independiente en sus decisiones y resoluciones, las cuales se sujetarán de manera invariable a los principios de legalidad y definitividad; rigiéndose por lo dispuesto en la propia Constitución, esta Ley, la Ley del Procedimiento Contencioso Administrativo, el Reglamento Interior que en uso de sus facultades expida y otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 La Sala Administrativa tiene a su cargo dirimir las controversias de carácter administrativo y fiscal, que se susciten entre las autoridades del Estado, de los Municipios, sus Organismos Descentralizados y otras personas, en funciones de autoridad, con los particulares. Se reputarán como otras personas, a los prestadores de servicios públicos considerados como áreas estratégicas, que sean concesionados.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-Además, la Sala Administrativa ejercerá las facultades que en materia de combate a la Corrupción establecen la Constitución Política del Estado de Aguascalientes y la normatividad en materia de responsabilidades administrativas de los Servidores Públicos.
+Además, la Sala Administrativa ejercerá las facultades que en materia de combate a la Corrupción establecen la Constitución Política del Estado de Aguascalientes, y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; debiendo resolver aquellos recursos que en términos de dichos (sic) marco normativo aplicable, resulten con motivo de la imposición de sanciones por la comisión de faltas administrativas graves y de faltas de particulares, en los términos previstos por dicha Ley.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 8 DE MAYO DE 2017)</small>
 
@@ -1299,11 +1301,13 @@ En caso de que en la localidad no existan profesionales en la materia de que se 
 
 ### CAPITULO IV. Visita de Juzgados
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 57.
 
-El presidente del Supremo Tribunal de Justicia del Estado nombrará en términos del Artículo 11 de esta ley, los Magistrados Visitadores que practicarán visitas generales o especiales para revisar cada tres meses el buen funcionamiento de los juzgados. Esto sin perjuicio de que el propio presidente efectúe las visitas que considere necesarias, sancionándose el incumplimiento conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado.
+El presidente del Supremo Tribunal de Justicia del Estado nombrará en términos del Artículo 11 de esta ley, los Magistrados Visitadores que practicarán visitas generales o especiales para revisar cada tres meses el buen funcionamiento de los juzgados. Esto sin perjuicio de que el propio presidente efectúe las visitas que considere necesarias, sancionándose el incumplimiento conforme a la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 La visita general tendrá por objeto percatarse del despacho general de los negocios radicados en el juzgado, anotando todas las irregularidades que se tengan y las quejas que se presenten, para lo cual se anunciará en la puerta del juzgado dicha visita. Las visitas especiales tendrán por objeto percatarse de las irregularidades que se hayan denunciado como cometidas en determinados asuntos, y en todos los casos rendirán informe tanto al Presidente del Supremo Tribunal de Justicia del Estado, como al Consejo de la Judicatura Estatal.
 
@@ -2440,3 +2444,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Sistema Local de Protección, adecuará sus lineamientos con el presente Decreto, en un plazo no mayor de 90 días naturales, contados a partir de la publicación del mismo.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 381.- SE REFORMAN EL PRIMER Y TERCER PÁRRAFOS DEL ARTÍCULO 33 A, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 57 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 382.- SE REFORMA EL ARTÍCULO 2° DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Fiscalía General del Estado de Aguascalientes contará con 90 días naturales para la elaboración del Formato de Atención a Víctimas u Ofendidos del Delito y su entrada en operación.
