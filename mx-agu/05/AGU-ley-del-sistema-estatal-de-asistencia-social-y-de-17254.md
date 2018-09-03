@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2018-04-16"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -365,11 +365,17 @@ XIX.- Participar en programas de rehabilitación y educación especial;
 
 XX.- Proponer a las autoridades correspondientes la adaptación y readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XXI.- Los servicios de representación jurídica que para los efectos de esta Ley se requieran, serán prestados por la Procuraduría; y
+XXI.- Los servicios de representación jurídica que para los efectos de esta Ley se requieran, serán prestados por la Procuraduría;
 
-XXII.- Las demás que establezcan las disposiciones aplicables en la materia.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XXII.- Realizar los Cursos Intensivos para Padres de Familia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 ###### ARTICULO 19.
 
@@ -653,9 +659,15 @@ XI.- Representar al menor y a los incapaces ante cualquier autoridad administrat
 
 XII.- Denunciar ante el Ministerio Público aquellos hechos que se presuman son constitutivos de delito en donde el menor o la persona con discapacidad se encuentre involucrado;
 
-XIII.- Celebrar convenios con las autoridades competentes de las Entidades Federativas sobre la materia de su competencia; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XIV.- Las demás que esta ley le confiera y otras disposiciones legales.
+XIII.- Celebrar convenios con las autoridades competentes de las Entidades Federativas sobre la materia de su competencia;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XIV.- Solicitar la presentación ante el Organismo, de los padres, madres o tutores que deban asistir a los Cursos Intensivos para Padres de Familia a que se refiere el Artículo 45 A de la presente Ley; y
+
+XV.- Las demás que esta ley le confiera y otras disposiciones legales.
 
 ###### ARTICULO 42.
 
@@ -688,6 +700,16 @@ V.- Fomentar la paternidad y la maternidad responsables;
 VI.- Asesorar a los padres de familia para atender problemas de alcoholismo, drogadicción, adulterio y otros semejantes, que atenten contra la integridad de la familia;
 
 VII.- En general, brindar la atención a todas aquellas cuestiones indispensables para el bienestar de la familia.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Para tal fin el Organismo implementará los Cursos Intensivos para Padres de Familia.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 45 A.- Para efectos del Artículo anterior, se entenderá por Cursos Intensivos para Padres de Familia los programas de carácter formativos-preventivos que tienen como finalidad que las madres y los padres o tutores comprendan la importancia de mejorar la integración familiar y cumplir a cabalidad el rol de padres y madres de familia; mediante la dignificación de la persona, la promoción de los valores y la comunicación familiar, ello con el propósito de fomentar la prevención de la violencia, adicciones, suicidios y embarazos no deseados.
+
+Los Cursos intensivos para Padres de Familia serán obligatorios para aquellas madres, padres o tutores que no se presenten, sin causa justificada, a las Capacitaciones para Padres de Familia que se realicen de conformidad con el Artículo 154 A de la Ley de Educación del Estado de Aguascalientes. Así como para aquellas madres y padres o tutores de los cuales se compruebe, mediante el apoyo de los trabajadores sociales, psicólogos o maestros de las instituciones educativas, que sus hijos incurren en comportamientos depresivos, agresivos, presenten algún tipo de adicción o estén en el supuesto de un embarazo adolescente.
 
 ###### ARTICULO 46.
 
@@ -1523,7 +1545,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.]</small>
 
 P.O. 27 DE ABRIL DE 2009.
 
@@ -1604,3 +1626,23 @@ P.O. 16 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 370.- SE REFORMAN EL ARTÍCULO 8°; SE ADICIONAN LOS ARTÍCULOS 154, 168, 172; Y SE REFORMA EL ARTÍCULO 172 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto Estatal de Educación del Estado de Aguascalientes tendrá 90 días naturales para elaborar los lineamientos para la realización de las Capacitaciones para Padres de Familia.
+
+###### ARTÍCULO TERCERO.
+
+Los planteles de educación especial, inicial, básica y media superior de instituciones públicas y privadas tendrán 120 días naturales contados a partir del día siguiente de la publicación en el Periódico Oficial del Estado, para implementar las Capacitaciones para Padres de Familia.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado tendrá 90 días naturales para elaborar los lineamientos para la realización de los Cursos Intensivos para Padres de Familia.
