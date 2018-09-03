@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-para-el-desarrollo-de-los-jovenes-123899"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-16"
-last_updated: "2017-10-16"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de octubre de 2017.
 
@@ -83,9 +83,13 @@ X.- Reglamento: El Reglamento de la Ley de Fomento para el Desarrollo de los Jó
 
 XI.- Secretaría de Desarrollo Económico: La Secretaría de Desarrollo Económico del Estado de Aguascalientes;
 
-XII.- Secretaría de la Juventud: La Secretaría de la Juventud del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XIII.- Secretaría de Bienestar y Desarrollo Social: La Secretaría de Bienestar y Desarrollo Social del Estado de Aguascalientes; y
+XII.- Instituto: El Instituto Aguascalentense de la Juventud;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XIII.- Secretaría de Desarrollo Social: La Secretaría de Desarrollo Social del Estado de Aguascalientes; y
 
 XIV.- Instituto de Educación: El Instituto de Educación de Aguascalientes.
 
@@ -137,11 +141,15 @@ La aplicación de la presente Ley corresponde al Titular del Ejecutivo del Estad
 
 I.- La Secretaría de Desarrollo Económico;
 
-II.- La Secretaría de la Juventud;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+II.- El Instituto Aguascalentense de la Juventud;
 
 III.- El Instituto de Educación;
 
-IV.- La Secretaría de Bienestar y Desarrollo Social; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- La Secretaría de Desarrollo Social; y
 
 V.- El Instituto para el Desarrollo de la Sociedad del Conocimiento.
 
@@ -173,9 +181,11 @@ XI.- Coordinar los proyectos que en materia regulatoria, estímulos y coinversio
 
 XII.- Promover la entrega del Premio Anual al Mejor Emprendedor, el cual se hará acreedor a un estímulo económico o en especie, mismo que se deberá destinar a su proyecto de inversión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 10.
 
-Corresponde a la Secretaría de la Juventud:
+Corresponde al Instituto Aguascalentense de la Juventud:
 
 I.- Promover créditos financieros, estímulos fiscales y capacitación para los Jóvenes emprendedores;
 
@@ -199,9 +209,11 @@ III.- Impulsar y fomentar la cultura empresarial y la formación emprendedora me
 
 IV.- Fomentar y fortalecer el acercamiento de las instituciones educativas a los diversos organismos que impulsan y desarrollan programas educativos profesionales que orientan al estudiante a entender el sistema de economía de mercado con contenido social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 12.
 
-Corresponde a la Secretaría de Bienestar y Desarrollo Social:
+Corresponde a la Secretaría de Desarrollo Social:
 
 I.- Promover estrategias orientadas al desarrollo de proyectos productivos de jóvenes emprendedores innovadores, creativos y competitivos que impulsen el desarrollo del Estado;
 
@@ -259,9 +271,11 @@ Para efectos del proceso de análisis, selección y evaluación de los proyectos
 
 ### CAPÍTULO V. Los Incentivos Fiscales
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 20.
 
-La Secretaría de Desarrollo Económico en conjunto con la Secretaría de la Juventud, en el marco de sus respectivas atribuciones y para el cumplimiento de esta Ley, gestionará ante las instancias correspondientes la obtención de incentivos fiscales para jóvenes emprendedores.
+La Secretaría de Desarrollo Económico en conjunto con el Instituto Aguascalentense de la Juventud, en el marco de sus respectivas atribuciones y para el cumplimiento de esta Ley, gestionará ante las instancias correspondientes la obtención de incentivos fiscales para jóvenes emprendedores.
 
 T R A N S I T O R I O S
 
@@ -310,3 +324,13 @@ Arturo Fernández Estrada,
 DIPUTADO SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 13 de octubre de 2017.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Francisco Javier Luévano Núñez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 368.- SE REFORMAN LOS ARTÍCULOS 3°, 8°, 10, 12 Y 20, DE LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
