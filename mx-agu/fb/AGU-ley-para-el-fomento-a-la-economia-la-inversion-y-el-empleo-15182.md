@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2018-06-11"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "AGU"
 ---
 # LEY PARA EL FOMENTO A LA ECONOMIA, LA INVERSION Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 381, PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2013, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO EN CUANTO SE OPONGAN A LAS DISPOSICIONES QUE SE CONTIENEN EN LA LEY DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTES.]</small>
-
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -91,7 +89,9 @@ X.- Trabajar conjuntamente con las autoridades municipales y federales relaciona
 
 XI.- Coadyuvar al proceso de mejora regulatoria y simplificación administrativa, de manera que estimule la creación de nuevas empresas y la ampliación de la planta productiva, así como el desarrollo eficiente de las actividades económicas;
 
-XII.- Fomentar el uso y la operación de instrumentos financieros, avances tecnológicos y de infraestructura, en los sectores económicos estratégicos;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XII.- Fomentar el uso y la operación de instrumentos financieros, avances tecnológicos y de infraestructura, en los sectores económicos estratégicos; así como difundir e impulsar la inclusión financiera, orientando en torno al marco jurídico, características del sector y necesidades de crédito de las unidades económicas en Aguascalientes, a aquellas personas que deseen invertir en la creación de empresas de tecnología financiera;
 
 XIII.- Propiciar las condiciones adecuadas para atraer al Estado inversiones nacionales y extranjeras, a través de una política competitiva de incentivos para la inversión;
 
@@ -421,6 +421,22 @@ IV.- Asesoría continua y permanente sobre la tramitación de los procedimientos
 
 V.- Impulso a la especialización de los procesos productivos y productos con ventajas competitivas.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO XI. Del Apoyo al Autoempleo
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 37.
+
+La Secretaría en coordinación con los sectores educativo, social y privado, apoyará el autoempleo de manera permanente, para tal finalidad, promoverá programas de capacitación y de incremento a la capacidad productiva.
+
+En el caso de los Municipios, la Secretaría se coordinará con los mismos a efecto de que el apoyo al autoempleo, tenga el propósito de:
+
+I.- Vincular la oferta de los programas de capacitación con las necesidades del mercado y sus vocaciones económicas; y
+
+II.- Incrementar las oportunidades de empleo y mejorar el ingreso de su población.
+
 ## TRANSITORIOS
 
 PRIMERO: La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -461,7 +477,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 26 DE NOVIEMBRE DE 2001.
 
@@ -518,3 +534,15 @@ P.O. 11 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 377.- SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 4°; ASÍ COMO SE ADICIONA UN CAPÍTULO XI “DEL AUTOEMPLEO”, QUE SE INTEGRA POR EL ARTÍCULO 37 QUE TAMBIÉN SE ADICIONA A LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deberá contemplar dentro del presupuesto de egresos del año 2019, una partida destinada a la capacitación, al autoempleo, misma que se asignará de acuerdo a los criterios que establezca la Secretaría de Economía, misma que se incrementará progresivamente y de forma anual conforme al salario mínimo.
