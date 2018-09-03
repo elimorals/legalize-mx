@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2018-03-12"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1629,9 +1629,17 @@ Las autoridades sanitarias estatales y municipales en coordinación con las auto
 
 El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos, de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los comités o subcomités municipales y los sectores social y privado, a través del Consejo Estatal de Nutrición que se integrará en los términos previstos en el Reglamento.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-Se deberá dar prioridad a la elaboración de programas nutricionales destinados a los niños y niñas, en los que se indique el tipo de alimentos y bebidas que pueden ser distribuidos en las tiendas ubicadas en las escuelas de educación básica.
+Se deberá dar prioridad a la elaboración de programas nutricionales destinados a los adultos mayores, mujeres embarazadas y niños y niñas, en los que se indique el tipo de alimentos y bebidas que requieren consumir, así como aquellos que pueden ser distribuidos en las tiendas ubicadas en las escuelas de educación básica y en las casas de retiro o asilos.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+El Consejo Estatal de Nutrición también formulará propuestas relativas al tipo de alimentación que deberán de consumir los pacientes con depresión, obesidad, diabetes e insuficiencia renal, dicha información estará a la vista en los hospitales y centros de salud del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Además el Consejo Estatal de Nutrición creará un listado de alimentos que deberán recibir los pacientes que se encuentren recibiendo tratamiento en los establecimientos de atención en contra de las adicciones. Dicha alimentación deberá ser idónea para contrarrestar los efectos de cada una de las drogas o estupefacientes que hayan consumido.
 
 ###### ARTICULO 112.
 
@@ -1909,9 +1917,9 @@ II. La atención psicológica, procurando dominar los trastornos de ansiedad, de
 
 III. La atención médica integral;
 
-IV El trato digno, respetuoso y profesional por parte del personal médico y sanitario, el cual procurará en todo momento la preservación de la calidad de vida del paciente;
+IV. El trato digno, respetuoso y profesional por parte del personal médico y sanitario, el cual procurará en todo momento la preservación de la calidad de vida del paciente;
 
-V La información clara, oportuna y suficiente sobre las condiciones y efectos de la enfermedad y los tipos de tratamientos que puede optar el paciente;
+V. La información clara, oportuna y suficiente sobre las condiciones y efectos de la enfermedad y los tipos de tratamientos que puede optar el paciente;
 
 VI. La atención tanatológica;
 
@@ -3566,3 +3574,11 @@ P.O. 12 DE MARZO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 360.- SE REFORMA Y ADICIONAL EL ARTÍCULO 111, DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
