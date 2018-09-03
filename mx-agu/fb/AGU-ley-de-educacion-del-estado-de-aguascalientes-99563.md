@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2018-07-09"
+last_updated: "2018-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -237,9 +237,9 @@ Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria
 
 XIII. Promover los derechos humanos, los valores de la justicia, igualdad, paz y solidaridad; además, propiciar la cultura de la legalidad, de la inclusión, de la no discriminación y de la no violencia de cualquier tipo;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XIV. Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud física, mental y afectiva, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y las conductas de riesgo;
+XIV. Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación y la unión familiar y la paternidad y maternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios;
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
@@ -269,23 +269,11 @@ XIX. Resaltar y fomentar la responsabilidad de todos para hacer de los espacios 
 
 XX. Promover en la comunidad escolar los principios y funcionamiento del Sistema Nacional Anticorrupción para la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2018)</small>
-
-###### Artículo 9º.
-
-Todo individuo tiene derecho a recibir educación de calidad en condiciones de equidad, sin discriminación alguna por motivos de raza, género, religión, lengua, ideología, impedimento físico o mental, o cualquier otra condición personal, social o económica, por lo tanto, todos los habitantes del Estado de Aguascalientes tienen las mismas oportunidades de acceso y permanencia al Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
-
-En el Sistema Educativo Estatal deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social, privilegiando la participación de los educandos, padres de familia y docentes, para alcanzar los fines a que se refiere el Artículo 8° de la presente Ley.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
-
-Por consiguiente, los padres de familia reforzarán desde el hogar, el fomento a sus hijos o pupilos sobre los valores cívicos, así como el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa; propiciando un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad; inculcando a sus hijos o pupilos el respeto a la autoridad del maestro o personal docente de los planteles educativos, además de las normas de convivencia social de las escuelas.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 9°.
 
-Todo individuo tiene derecho a recibir educación de calidad, sin discriminación alguna por motivos de raza, género, religión, lengua, ideología, impedimento físico o cualquier otra condición personal, social o económica, por lo tanto, todos los habitantes del Estado de Aguascalientes tienen las mismas oportunidades de acceso al Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+Todo individuo tiene derecho a recibir educación de calidad, en condiciones de equidad, sin discriminación alguna por motivos de raza, género, religión, lengua, ideología, impedimento físico o mental, o cualquier otra condición personal, social o económica, por lo tanto, todos los habitantes del Estado de Aguascalientes tienen las mismas oportunidades de acceso, tránsito y permanencia en el Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
 En el Sistema Educativo Estatal deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social, privilegiando la participación de los educandos, padres de familia y docentes, para alcanzar los fines a que se refiere el Artículo 8° de la presente Ley.
 
@@ -517,7 +505,13 @@ III. Vigilar que en el Estado se cumplan los planes y programas de estudio de la
 
 IV. Determinar y formular planes y programas de estudio, distintos de los previstos en la fracción I, del Artículo 12 de la Ley General de educación;
 
-V. Revalidar y otorgar equivalencias de estudios distintos de los mencionados en la fracción V, del Artículo 13 de la Ley General de educación, de acuerdo con los lineamientos generales que expida la Secretaría de Educación Pública;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+V. Revalidar y otorgar equivalencias de estudios distintos de los mencionados en la fracción V, del Artículo 13 de la Ley General de Educación, de acuerdo con los lineamientos generales que expida la Secretaría de Educación Pública. Asimismo, podrán autorizar o delegar, según sea el caso, que las instituciones particulares con reconocimiento de validez oficial de estudios y las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales que la Secretaría expida en términos del Artículo 63 de la Ley General de Educación.
+
+Las autoridades educativas podrán revocar las referidas autorizaciones cuando se presente algún incumplimiento que en términos de los mencionados lineamientos amerite dicha sanción. Lo anterior con independencia de las infracciones que pudieran configurarse, en términos de lo previsto en la Ley General de Educación y en este ordenamiento.
+
+Las constancias de revalidación y equivalencia de estudios deberán ser registradas en el Sistema de Información y Gestión Educativa, en los términos que establezca la Secretaría de Educación Pública;
 
 VI. Otorgar, negar o retirar el reconocimiento de validez oficial que ofrezcan los particulares;
 
@@ -745,11 +739,11 @@ IV. Contribuirá a la mejor convivencia humana tanto por los elementos que aport
 
 V. Será de calidad, entendiéndose por ésta, la congruencia entre los objetivos, resultados y procesos del Sistema Educativo conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 28.
 
-El Ejecutivo y la Autoridad Educativa Estatal realizarán acciones y tomarán las medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, garantizarán una mayor inclusión y equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos al prestar especial atención a los individuos, planteles, comunidades y municipios que se encuentren en situación de rezago o que enfrenten condiciones económicas y sociales de desventaja, ofreciéndoles apoyos específicos.
+El Ejecutivo y la Autoridad Educativa Estatal realizarán acciones y tomarán las medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, garantizarán una mayor inclusión y equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos al prestar especial atención a los individuos, planteles, comunidades y municipios que se encuentren en situación de rezago o que enfrenten condiciones económicas y sociales de desventaja, ofreciéndoles apoyos específicos.
 
 Programarán e instrumentarán acciones específicas dirigidas a combatir el rezago y/o la inequidad, la ineficacia e ineficiencia educativa.
 
@@ -829,13 +823,19 @@ XXVI. Otorgar por conducto del Instituto de Educación de Aguascalientes, un apo
 
 El Gobierno del Estado, en concurrencia con la Federación y los municipios, llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XXVII. Proporcionar programas complementarios en materia de educación afectiva desde la primera infancia y hasta la adolescencia en los niveles de educación básica y media superior; y
+XXVII. Proporcionar programas complementarios en materia de educación afectiva desde la primera infancia y hasta la adolescencia en los niveles de educación básica y media superior;
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XXVIII. Coadyuvar en la elaboración y cumplimiento de programas que tengan por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, en términos de lo dispuesto por la normatividad aplicable.
+XXVIII. Coadyuvar en la elaboración y cumplimiento de programas que tengan por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, en términos de lo dispuesto por la normatividad aplicable; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XXIX. Garantizar el acceso a la educación básica y media superior, aun cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos de calidad.
+
+Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos referidos en el párrafo anterior; así como, en el caso de la educación básica y media superior, la ubicación por grado, ciclo escolar o nivel educativo que corresponda, conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y, en su caso, saberes que previa evaluación demuestren los educandos. De igual forma, las autoridades educativas promoverán acciones similares para el caso de la educación superior.
 
 ###### Artículo 30.
 
@@ -1310,6 +1310,12 @@ En el caso de los planes y programas de estudios que opera el Instituto de Educa
 Los estudiantes de profesional técnico, educación media de formación bivalente y de bachillerato tecnológico prestarán servicio social de conformidad con las disposiciones reglamentarias del Artículo 5° de la Constitución Política de los Estados Unidos Mexicanos y el Artículo 24 de la Ley General de Educación, de la derivada de esta Ley y demás normatividad aplicable.
 
 Los estudiantes de educación media superior de formación propedéutica prestarán servicio social exclusivamente en áreas acordes al perfil del estudiante, de conformidad con los reglamentos y convenios que las instituciones educativas realicen para tal efecto.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 79 A.- Con el objeto de la formación de los estudiantes de los bachilleratos tecnológicos y/o dentro de los contextos reales de las empresas, se contará con la opción de la educación dual.
+
+Para implementar esta opción el Instituto de Educación de Aguascalientes, en coordinación con la Secretaría de Desarrollo Económico del Gobierno del Estado, podrá celebrará (sic) convenios con dichas instituciones educativas y/o con las empresas que deseen participar en esta modalidad educativa.
 
 ### CAPÍTULO IV. De la Educación Superior
 
@@ -2061,11 +2067,27 @@ I. Que sus hijos o pupilos cursen los niveles de educación básica y media supe
 
 II. Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen;
 
-III. Respetar y vigilar que se cumplan los preceptos contenidos en la legislación educativa federal y estatal; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+III. Respetar y vigilar que se cumplan los preceptos contenidos en la legislación educativa federal y estatal;
 
 IV. Colaborar con el personal docente en el diagnóstico y atención de las dificultades de sus hijos o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y a la seguridad, o de violencia física o psicológica.
 
-V. Cumplir con las demás establecidas en la presente Ley.
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+V. Asistir a todas las Capacitaciones para Padres de Familia que lleve a cabo el plantel educativo;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Asistir a los Cursos intensivos para Padres de Familia, cuando así lo determinen las autoridades de cada plantel educativo; y
+
+VII. Cumplir con las demás establecidas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 154 A.- Para efectos de la presente Ley se entenderá por Capacitaciones para Padres de Familia, aquellas reuniones que mensualmente se celebren en cada plantel de educación inicial, básica, media superior y especial, de escuelas públicas o privadas, con la finalidad de que personal especializado y acreditado por el Instituto de Educación del Estado otorguen sobre el cuidado, formación y educación para la convivencia y desarrollo con los menores de edad. Siendo de carácter obligatorio la realización de los mismos, así como la asistencia para las madres y los padres o tutores de los alumnos. Pudiendo ser justificada su inasistencia por causa grave o fuerza mayor.
+
+Las instituciones educativas darán vista a la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes en caso de que los padres, madres o tutores no acudan a las Capacitaciones para Padres, así como de aquellos padres, madres o tutores de los cuales sus hijos incurren en comportamientos depresivos, agresivos, presenten algún tipo de adicción, embarazo en adolescentes o cualquier problema familiar, personal o educativo. Con la finalidad de que se les cite para que acudan al Sistema para el Desarrollo Integral de la Familia del Estado a presentarse a los Cursos Intensivos para Padres de Familia.
 
 ###### Artículo 155.
 
@@ -2177,9 +2199,11 @@ III. Para el caso de instituciones de educación superior, contar con la aprobac
 
 Para garantizar la calidad de la educación obligatoria brindada por los particulares, las autoridades educativas, en el ámbito de sus atribuciones, evaluarán el desempeño de los maestros que prestan sus servicios en estas instituciones. Para tal efecto, dichas autoridades deberán aplicar evaluaciones del desempeño, derivadas de los procedimientos análogos a los determinados por los lineamientos emitidos por el Instituto Nacional para la Evaluación de la Educación, para evaluar el desempeño de los docentes en educación básica y media superior en instituciones públicas. Las autoridades educativas otorgarán la certificación correspondiente a los maestros que obtengan resultados satisfactorios y ofrecerán cursos de capacitación y programas de regularización a los que presenten deficiencias, para lo cual las instituciones particulares otorgarán las facilidades necesarias a su personal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 167.
 
-El Instituto de Educación de Aguascalientes publicará en el Periódico Oficial del Estado y por lo menos en uno de la Entidad una relación de las instituciones a las que haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo publicará, previo al inicio de cada ciclo escolar, la inclusión o la supresión en dicha lista de las instituciones a las que se otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
+El Instituto de Educación de Aguascalientes publicará en el Periódico Oficial del Estado, en su portal electrónico y por lo menos en un diario de mayor circulación en la Entidad, una relación de las instituciones a las que haya concedido autorización o reconocimiento de validez oficial de estudios, así como de aquellas a las que haya autorizado a revalidar o equiparar estudios. Asimismo publicará, previo al inicio de cada ciclo escolar, la inclusión o la supresión en dicha lista de las instituciones a las que se otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
 
 De igual manera indicarán en dicha publicación, los nombres de los educadores que obtengan resultados suficientes, una vez que apliquen las evaluaciones, que dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables, les correspondan.
 
@@ -2187,7 +2211,9 @@ Las autoridades educativas deberán entregar a las escuelas particulares un repo
 
 Los particulares que ofrecen estudios con autorización o con reconocimiento deberán mencionar en la documentación que expidan y en la publicidad que hagan una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgo. Cuando una institución ofrezca diversos estudios de los que solo algunos cuenten con autorización o reconocimiento, la leyenda deberá precisar esta circunstancia.
 
-En caso de no contar con la respectiva autorización o reconocimiento, los particulares lo establecido (sic) en el Artículo 59 de la Ley General de Educación se deberá mencionar en su correspondiente documentación y publicidad que los estudios que ofrecen son sin reconocimiento de validez oficial.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de no contar con la respectiva autorización o reconocimiento, los particulares, en términos de lo establecido en el Artículo 59 de la Ley General de Educación, deberán mencionar en su correspondiente documentación y publicidad que los estudios que ofrecen son sin reconocimiento de validez oficial.
 
 ###### Artículo 168.
 
@@ -2215,7 +2241,13 @@ IX. Facilitar al Instituto de Educación de Aguascalientes cualquier tipo de inf
 
 X. Atender los citatorios que el Instituto emita; y
 
-XI. Abstenerse de impartir servicio educativo con grupos multigrado.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Abstenerse de impartir servicio educativo con grupos multigrado; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Implementar las Capacitaciones para Padres de Familia a que hace referencia el Artículo 154 de la presente Ley.
 
 ###### Artículo 169.
 
@@ -2235,7 +2267,9 @@ De la información contenida en el acta correspondiente así como la documentaci
 
 El Artículo 60 de la Ley General de Educación garantiza la validez, en toda la República, de los estudios realizados en cualquier institución del Sistema Educativo Nacional.
 
-El Instituto de Educación de Aguascalientes avalará los certificados, constancias, diplomas, títulos o grados académicos que expidan u otorguen las instituciones privadas incorporadas y las públicas no autónomas del Estado de Aguascalientes a quienes hayan concluido en ellas estudios, de conformidad con los requisitos establecidos en los planes y programas correspondientes.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+El Instituto de Educación de Aguascalientes avalará los certificados, constancias, diplomas, títulos o grados académicos que expidan u otorguen las instituciones privadas incorporadas y las públicas no autónomas del Estado de Aguascalientes a quienes hayan concluido en ellas estudios, de conformidad con los requisitos establecidos en los planes y programas correspondientes. Dichos certificados, constancias, diplomas, títulos y grados deberán registrarse en el Sistema de Información y Gestión Educativa.
 
 El Instituto de Educación de Aguascalientes, en el caso de programas formativos que promueva, tendrá la facultad de otorgar certificados de estudios y diplomas y en el caso de títulos y grados de educación superior especialidad, maestría y doctorado, se otorgarán por convenio con instituciones públicas de control estatal, o instituciones autónomas, federales o privadas.
 
@@ -2331,7 +2365,15 @@ XXXII. Ostentarse como plantel incorporado sin estarlo; u omitir que imparten es
 
 XXXIII. Disponer indebidamente de los bienes y recursos destinados a la educación;
 
-XXXIV. Abstenerse de cumplir con las disposiciones del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y de cualquiera de las obligaciones previstas en los Artículos correspondientes de esta ley y demás normatividad aplicable.
+XXXIV.- Abstenerse de cumplir con las disposiciones del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y de cualquiera de las obligaciones previstas en los Artículos correspondientes de esta ley y demás normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XXXV.- Abstenerse de implementar, otorgar y registrar mensualmente las Capacitaciones para Padres de Familia establecidas en el Artículo 154 A de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVI.- No enviar a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes el listado de aquellos padres, madres o tutores que deban acudir a los Cursos Intensivos para Padres de conformidad con lo establecido por-el Artículo 154 A de la presente Ley.
 
 ### CAPÍTULO II. De las Sanciones
 
@@ -2351,15 +2393,15 @@ IV. Clausura de los establecimientos educativos.
 
 Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, la gravedad de la infracción según los daños y perjuicios que se hayan producido o puedan producirse a los educandos, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 174.
 
-Quienes cometan las infracciones previstas en la presente Ley, serán sancionados conforme a los siguientes criterios:
+Quienes cometan las infracciones previstas en el Artículo 172 de la presente ley serán sancionados conforme a los siguientes criterios:
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-a) En los supuestos previstos en las fracciones I, II, III, IV, V, VI, VII, VIII y IX del Artículo 172 de esta Ley, se procederá a la amonestación por escrito. En los casos de reincidencia se atenderá a lo dispuesto en la fracción II del Artículo anterior;
+a) En los supuestos previstos en las fracciones I, II, III, IV, V, VI, VII, VIII y IX se procederá a la amonestación.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
 
@@ -2712,3 +2754,39 @@ P.O. 9 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 370.- SE REFORMAN EL ARTÍCULO 8°; SE ADICIONAN LOS ARTÍCULOS 154, 168, 172; Y SE REFORMA EL ARTÍCULO 172 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto Estatal de Educación del Estado de Aguascalientes tendrá 90 días naturales para elaborar los lineamientos para la realización de las Capacitaciones para Padres de Familia.
+
+###### ARTÍCULO TERCERO.
+
+Los planteles de educación especial, inicial, básica y media superior de instituciones públicas y privadas tendrán 120 días naturales contados a partir del día siguiente de la publicación en el Periódico Oficial del Estado, para implementar las Capacitaciones para Padres de Familia.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado tendrá 90 días naturales para elaborar los lineamientos para la realización de los Cursos Intensivos para Padres de Familia.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 374.- SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 9°, LA FRACCIÓN V DEL ARTÍCULO 19, EL PRIMER PÁRRAFO DEL ARTÍCULO 28, LAS FRACCIONES XXVII Y XXVIII DEL ARTÍCULO 29, EL PRIMER Y QUINTO PÁRRAFOS DEL ARTÍCULO 167, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 170; ASÍ COMO SE ADICIONA UNA FRACCIÓN XXIX AL ARTÍCULO 29 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 375.- SE ADICIONA UN ARTÍCULO 79 A, A LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
