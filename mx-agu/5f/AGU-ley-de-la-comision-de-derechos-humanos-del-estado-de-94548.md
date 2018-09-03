@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2017-07-03"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -257,7 +257,9 @@ El titular de la Comisión será el Presidente, mismo que deberá reunir los sig
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos, nacido en el Estado de Aguascalientes o con residencia en él de cinco años anteriores al día en que se publique en el Periódico Oficial del Estado la convocatoria con la que se inicie el proceso de elección de Presidente;
 
-II. Contar, al menos, con título profesional de licenciatura o equivalente, de preferencia Licenciatura en Derecho, así como acreditar experiencia y amplios conocimientos en materia de Derechos Humanos;
+> <small>(REFORMADA, 3 DE SEPTIEMBRE DE 2018)</small>
+
+II. Contar, al menos, con título profesional de licenciatura o equivalente, de preferencia Licenciatura en Derecho, así como acreditar experiencia profesional y prestigio en materia de Derechos Humanos, o actividades afines reconocidas;
 
 III. Tener cuando menos treinta años cumplidos al día en que se publique en el Periódico Oficial del Estado la convocatoria con la que se inicie el proceso de elección de Presidente;
 
@@ -267,7 +269,9 @@ V. No haber resultado responsable por violaciones a los Derechos Humanos en algu
 
 VI. No haber sido condenado por delito doloso;
 
-VII. No haber tenido cargo de elección popular, o bien, de Secretario, Subsecretario o su equivalente en la administración pública estatal o municipal, Fiscal General del Estado durante los tres años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de Presidente; y
+> <small>(REFORMADA, 3 DE SEPTIEMBRE DE 2018)</small>
+
+VII. No haber tenido cargo de elección popular, o bien, de Secretario, Subsecretario o su equivalente en la administración pública federal, estatal o municipal, Fiscal General del Estado durante los dos años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de Presidente; y
 
 VIII. No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en los tres años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de Presidente.
 
@@ -277,7 +281,9 @@ VIII. No desempeñar, ni haber desempeñado cargo de dirección nacional o estat
 
 El nombramiento del Presidente se realizará en términos de lo establecido en el Artículo 62 de la Constitución Política Local y de los siguientes lineamientos:
 
-I. La Comisión Legislativa convocará a las asociaciones civiles que estén legalmente constituidas cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como a colegios de profesionistas e instituciones de educación superior en el Estado, a fin de que presenten propuestas de aspirantes para ocupar el cargo de Presidente. Dicha convocatoria será publicada en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado, asimismo, se fijará en diversos estrados de instituciones públicas y privadas que lo permitan;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+I. La Comisión Legislativa, sesenta días naturales antes de que concluya el período del Presidente, convocará a las asociaciones civiles que estén legalmente constituidas cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como a colegios de profesionistas e instituciones de educación superior en el Estado, a fin de que presenten propuestas de aspirantes para ocupar el cargo de Presidente. Dicha convocatoria será publicada en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado, asimismo, se fijará en diversos estrados de instituciones públicas y privadas que lo permitan;
 
 II. Quienes propongan algún aspirante deberán anexar la documentación necesaria para acreditar que la persona cumple con los requisitos referidos en el Artículo 16 de esta Ley, así como un escrito firmado por el aspirante donde acepta participar en el proceso. La omisión de la presentación del escrito de referencia y de algún documento o su gestión para obtenerlo en los plazos señalados en la convocatoria, será causa de exclusión de la lista de candidatos a que se refiere la Fracción III. Nadie podrá realizar más de una propuesta;
 
@@ -287,7 +293,11 @@ Si el Presidente tiene y hace valer su expectativa de derecho a ser reelecto, fo
 
 IV. La lista de candidatos elaborada por la Comisión Legislativa, deberá publicarse para conocimiento de los interesados y la ciudadanía en general, en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado;
 
-V. La Comisión Legislativa llevará a cabo una consulta pública en términos del Artículo 62, párrafo octavo, Fracción III de la Constitución Política Local, en la que podrán intervenir todos los Diputados del Congreso del Estado. Dicha consulta se desahogará de la siguiente manera:
+> <small>(REFORMADA [N. DE E. CON SU PÁRRAFO E INCISOS], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+V. La Comisión Legislativa llevará a cabo un examen consultivo de conocimientos en materia de derechos humanos, elaborado por institución de educación superior, a efecto de robustecer el análisis de los perfiles de los candidatos en cuestión.
+
+Posteriormente la Comisión Legislativa pública una consulta pública en términos del Artículo 62, párrafo octavo, Fracción III de la Constitución Política Local, en la que podrán intervenir todos los Diputados del Congreso del Estado. Dicha consulta se desahogará de la siguiente manera:
 
 a) Podrá registrarse para participar, a más tardar 24 horas antes del inicio de la consulta pública, toda asociación civil legalmente constituida, cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como colegios de profesionistas e instituciones de educación superior en el Estado, acreditando tal calidad con la documentación correspondiente;
 
@@ -445,9 +455,21 @@ Todos contarán con voz y voto, salvo el Secretario Técnico que únicamente ten
 
 El Presidente también lo será del Consejo y tendrá voto de calidad.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-Los consejeros deberán contar, al menos, con título profesional de licenciatura o equivalente, tener conocimiento en diversas materias técnicas, científicas y humanistas, y cumplir con los requisitos establecidos en el Artículo 16 de esta Ley, a excepción del previsto en su Fracción II; su elección se realizará mediante el mismo procedimiento previsto en el Artículo 17 de esta Ley con la salvedad de que el Pleno los elegirá con el voto de la mayoría de los Diputados que integran el Congreso del Estado.
+La elección de los Consejeros se realizará de acuerdo a los siguientes lineamientos:
+
+I. La Comisión Legislativa, sesenta días naturales antes de que concluya el período de los Consejeros, convocará a las asociaciones civiles que estén legalmente constituidas cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como a colegios de profesionistas e instituciones de educación superior en el Estado, a fin de que presenten propuestas de aspirantes para ocupar el cargo de Consejeros. Dicha convocatoria será publicada en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado, asimismo, se fijará en diversos estrados de instituciones públicas y privadas que lo permitan;
+
+II. Quienes propongan algún aspirante deberán anexar la documentación necesaria para acreditar que la persona cumple con los requisitos referidos en el Artículo 16 de esta Ley a excepción del previsto en su Fracción II, así como un escrito firmado por el aspirante donde acepta participar en el proceso. La omisión de la presentación del escrito de referencia y de algún documento o su gestión para obtenerlo en los plazos señalados en la convocatoria, será causa de exclusión de la lista de candidatos a que se refiere la Fracción III. Nadie podrá realizar más de una propuesta;
+
+III. Recibidas las propuestas, la Comisión Legislativa analizará los documentos de los aspirantes para determinar quienes cumplen con los requisitos para ocupar el cargo y con base en ello elaborará una lista de candidatos;
+
+IV. La Comisión Legislativa emitirá un dictamen en el que se informe al Pleno del Congreso del Estado qué candidatos cumplen con los requisitos, a fin de que dicho órgano soberano elija a los Consejeros con el voto de la mayoría de los Diputados que integran el Congreso del Estado;
+
+El dictamen será sometido a la consideración del Pleno del Congreso del Estado en la sesión ordinaria siguiente a la fecha en que haya sido emitido por la Comisión Legislativa y en caso de que esté en receso, se convocará inmediatamente a un período extraordinario; y
+
+V. Una vez electos los Consejeros, éstos rendirán la protesta de Ley ante el Congreso del Estado.
 
 Durarán en el cargo cuatro años sin posibilidad de reelección en el período inmediato.
 
@@ -1134,3 +1156,15 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 367.- SE REFORMAN LOS ARTÍCULOS 16, 17 Y 24 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan Derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
