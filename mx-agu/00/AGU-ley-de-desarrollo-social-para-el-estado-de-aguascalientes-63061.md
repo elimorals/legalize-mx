@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2018-04-23"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -135,9 +135,9 @@ IX. PERSPECTIVA DE GÉNERO: Garantizar la equidad e igualdad de género en el di
 
 Para efectos de la presente Ley, se consideran sujetos en la elaboración, ejecución, seguimiento y evaluación de la Política Estatal y Municipal de Desarrollo Social los siguientes:
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-I. SECRETARÍA: La Secretaría de Desarrollo Social, o su equivalente;
+I. SECRETARIA: La Secretaria de Desarrollo Social;
 
 II. REGIONES: A los Municipios y zonas de atención prioritaria e inmediata que muestren un mayor atraso respecto de las políticas de desarrollo social;
 
@@ -329,7 +329,9 @@ V. Las estrategias para la vinculación, coordinación y concertación de accion
 
 La Política Estatal de Desarrollo Social debe incluir, cuando menos, las siguientes vertientes:
 
-I. Superación de la pobreza a través de la educación, la salud, la alimentación, la generación de empleo e ingreso, autoempleo y capacitación;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+I. Superación de la pobreza a través de la educación, la salud, la alimentación, la generación de empleo e ingreso, autoempleo, educación financiera, acceso al desarrollo tecnológico y a actividades culturales;
 
 II. Seguridad social y programas asistenciales;
 
@@ -633,9 +635,11 @@ VI. Generar la interacción de los diversos sectores de la sociedad, que permita
 
 La Comisión de Desarrollo Social es un organismo de coordinación, apoyo y vinculación entre las diferentes dependencias y entidades de la administración pública estatal que tengan atribuciones relacionadas con la política de desarrollo social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 61.
 
-La Comisión de Desarrollo Social será presidida por el Titular del Poder Ejecutivo del Estado y estará integrada de la manera siguiente:
+La comisión de Desarrollo Social será presidida por el Titular del Poder Ejecutivo del Estado, o en su caso, por la persona que éste designe, y estará integrada de la manera siguiente:
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -921,11 +925,11 @@ Cuando exista además una violación a los derechos humanos o la comisión de un
 
 Todo servidor público que tenga conocimiento de violación, faltas a esta Ley o tiene conocimiento de que alguien es vulnerado en sus derechos está obligado a denunciar.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 77.
 
-La Contraloría Social al tener conocimiento de las denuncias presentadas deberá actuar de manera inmediata, de conformidad con los procedimientos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y la Legislación Penal aplicable.
+La Contraloría Social al tener conocimiento de las denuncias presentadas deberá actuar de manera inmediata, de conformidad con los procedimientos establecidos en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y el Código Penal para el Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -983,13 +987,17 @@ II. No aplicar los recursos públicos que reciban a los fines para los que fuero
 
 III. No cumplir con el objeto social para el cual fue asignado el recurso público o destinarlo a un fin distinto;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Que un servidor público conozca plenamente de violaciones a la presente Ley y no presente la denuncia correspondiente; y
+IV. Que un servidor público conozca plenamente de violaciones a la presente Ley y no presente la denuncia correspondiente;
 
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-V. Integrar los Comités de Participación Ciudadana, con personas que participen en la estructura o dirigencia de cualquier partido político.
+V. Integrar los Comités de Participación Ciudadana, con personas que participen en la estructura o dirigencia de cualquier partido político; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Uso indebido de recursos o bienes públicos destinados para la ejecución de programas sociales, así como el condicionamiento de programas sociales a favor de un partido político, aspirante, precandidato o candidato.
 
 T R A N S I T O R I O S
 
@@ -1116,3 +1124,15 @@ El presente Decreto iniciara su vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La derogación del inciso "n)", Fracción II, del Artículo 61, iniciará su vigencia a partir del 1° de enero de 2019.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 379.- SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 6°, LA FRACCIÓN I DEL ARTÍCULO 25, EL PRIMER PÁRRAFO DEL ARTÍCULO 61, EL ARTÍCULO 77, Y LAS FRACCIONES IV Y V DEL ARTÍCULO 81; ASÍ COMO SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 81, A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan Derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
