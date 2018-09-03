@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-108763"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-22"
-last_updated: "2017-08-07"
+last_updated: "2018-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -125,7 +125,7 @@ V. Visitar por sí o por conducto del funcionario que designe al efecto, las age
 
 VI. Cambiar de adscripción o comisión a los servidores públicos de la Fiscalía General, cuando las necesidades del servicio así lo exijan;
 
-VII. Suspender a los servidores públicos de la Fiscalía General en el caso que se les hubiere dictado auto de vinculación a proceso, de sujeción a proceso o auto de formal prisión por la comisión del delito doloso. Dicha suspensión se prolongará hasta que exista sentencia ejecutoriada. En caso de que ésta fuese condenatoria, serán destituidos; si por el contrario fuese absolutoria, se le (sic) restituirá en sus derechos;
+VII. Suspender a los servidores públicos de la Fiscalía General en el caso que se les hubiere dictado auto de vinculación a proceso, de sujeción a proceso o auto de formal prisión por la comisión del delito doloso. Dicha suspensión se prolongará hasta que exista sentencia ejecutoriada. En caso de que ésta fuese condenatoria, serán destituidos; si por el contrario fuese absolutoria, se le restituirá en sus derechos;
 
 VIII. Organizar y controlar a la Policía Ministerial y a los servicios de investigación pericial y ejercer el mando directo de ambas unidades;
 
@@ -1197,7 +1197,15 @@ V. Las demás que establezcan las normas legales aplicables.
 
 La Dirección de Visitaduría tendrá a su cargo la supervisión y evaluación técnico jurídica, inspección, fiscalización y control del personal de las unidades administrativas y órganos desconcentrados de la Fiscalía General, coadyuvar en la erradicación y prevención de los actos de corrupción al interior de la Fiscalía General, mediante el ejercicio de la función de Órgano de Control Interno, vigilante de las funciones que con motivo de su encargo desempeñan los servidores públicos y, en su caso, instructor del Procedimiento de Responsabilidad Administrativo, de sanción o remoción correspondiente con base en las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+La Dirección de Visitaduría recibirá de las víctimas u ofendidos del delito el Formato de Atención a Víctimas u Ofendidos del Delito, para verificar la evaluación ciudadana del servicio recibido. De acuerdo a la información que fue recabada en el Formato de Atención a Víctimas u Ofendidos del Delito, iniciará un procedimiento de investigación contra los funcionarios que incurrieron en alguna falta o delito, y en su caso, actuar conforme a lo dispuesto al párrafo primero de este Capítulo. Asimismo, tendrá la facultad para reportar las buenas calificaciones que recibió el personal que atendió a la víctima u ofendido del delito para recomendar el otorgamiento de estímulos por buen desempeño, que pueden ir desde incentivos económicos hasta la recomendación de ascenso a un puesto superior cuando existan oportunidades de participar en promociones.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 La Dirección de Visitaduría tendrá libre acceso a los expedientes, documentos e información que se encuentren bajo la autoridad de los agentes del Ministerio Público, agentes de la Policía Ministerial, peritos o demás auxiliares del Ministerio Público a quienes se realiza una visita, así como a las instalaciones correspondientes y la documentación, el equipo y los elementos que ahí se encuentren, de conformidad con lo dispuesto en esta Ley, su Reglamento y los acuerdos relativos del Fiscal General del Estado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 Los servidores públicos de la Dirección de Visitaduría serán nombrados por el Fiscal General en los términos que determine el Reglamento de esta Ley, y desempeñarán las atribuciones que en el mismo se les confiera.
 
@@ -1237,9 +1245,17 @@ XIV. Iniciar la carpeta de investigación, cuando de la visita técnica-jurídic
 
 XV. De encontrarse acreditada la probable responsabilidad del imputado y acreditado el cuerpo del delito se procederá a ejercer la acción penal correspondiente;
 
-XVI. Presentar y formular la imputación y vinculación a proceso ante los órganos jurisdiccionales correspondientes; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XVII. Las demás que le señalen esta Ley, su Reglamento y otras disposiciones legales aplicables.
+XVI. Presentar y formular la imputación y vinculación a proceso ante los órganos jurisdiccionales correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Instalar buzones, a fin de recibir el Formato de Atención a Víctimas u Ofendidos del Delito, con la finalidad de dar atención y seguimiento a la calificación de la calidad en el servicio recibido por el personal adscrito a la Fiscalía General; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Las demás que le señalen esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
 ## TÍTULO XVIII. ATENCIÓN A VÍCTIMAS DEL DELITO
 
@@ -1257,17 +1273,31 @@ La Fiscalía General, en materia de atención a víctimas tendrá las siguientes
 
 I. Proporcionar a las víctimas u ofendidos del delito o de conductas tipificadas como tales, los servicios de asistencia médica, psicológica y psiquiátrica de urgencia; así mismo, canalizar a dichas víctimas u ofendidos a la Secretaría General de Gobierno, para recibir los servicios de asesoría jurídica gratuita;
 
-II. Solicitar la colaboración de las dependencias e instituciones, así como la de particulares, para el debido cumplimiento de sus objetivos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-III. Celebrar los convenios necesarios con instituciones públicas o privadas para el cumplimiento de sus objetivos; y
+II. Proporcionar a las víctimas u ofendidas del delito el Formato de Atención a Víctimas u Ofendidos del Delito, con la finalidad de calificar la calidad en el servicio recibido por el personal adscrito a la Fiscalía General. El Formato será depositado en el buzón correspondiente en las instalaciones donde se presentó la denuncia;
 
-IV. Las demás que le confieran otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+III. Solicitar la colaboración de las dependencias e instituciones, así como la de particulares, para el debido cumplimiento de sus objetivos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Celebrar los convenios necesarios con instituciones públicas o privadas para el cumplimiento de sus objetivos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+V. Las demás que le confieran otros ordenamientos jurídicos aplicables.
 
 ### CAPÍTULO II. De los Derechos de la Víctima
 
 ###### ARTÍCULO 64.
 
 Durante la Carpeta de Investigación y el proceso penal, la víctima u ofendido del delito, tendrá los derechos a que se refiere la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+La víctima u ofendido del delito tiene derecho a recibir el Formato de Atención a Víctimas u Ofendidos del Delito, en el cual podrá calificar la calidad en la prestación del servicio por parte del personal adscrito a la Fiscalía General; una vez contestado, será depositado en el buzón correspondiente en las instalaciones donde se presente la denuncia.
 
 ## TÍTULO XIX. OFICIALÍA MAYOR
 
@@ -1772,3 +1802,15 @@ P.O. 7 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado (sic) Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 382.- SE REFORMA EL ARTÍCULO 2° DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Fiscalía General del Estado de Aguascalientes contará con 90 días naturales para la elaboración del Formato de Atención a Víctimas u Ofendidos del Delito y su entrada en operación.
