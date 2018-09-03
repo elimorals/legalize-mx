@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2017-07-03"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -145,83 +147,95 @@ XVI. Bienestar animal: Respuesta fisiológica y de comportamiento adecuada de lo
 
 XVII. Campañas: Acción pública realizada de manera periódica por alguna autoridad para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar el aumento de población de animales; o para difundir la concientización entre la población para el trato digno y respetuoso a los animales;
 
-XVIII. Centros de control animal: Los centros públicos destinados para la captura y sacrificio humanitario de animales abandonados, centros antirrábicos y demás que realicen acciones análogas;
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XIX. Condiciones adecuadas: Las condiciones de trato digno y respetuoso que esta Ley establece, así como las referencias que al respecto determinan las normas oficiales mexicanas y las normas zoológicas para el Estado o a nivel Federal;
+XVIII. Caudectomía: Amputación de la cola de los animales;
 
-XX. Epizootia: La enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
+XIX. Centros de control animal: Los centros públicos destinados para la captura y sacrificio humanitario de animales abandonados, centros antirrábicos y demás que realicen acciones análogas;
 
-XXI. Espacios idóneos en la vía pública: Las áreas verdes, vías secundarias, espacios públicos y áreas comunes;
+XX. Condiciones adecuadas: Las condiciones de trato digno y respetuoso que esta Ley establece, así como las referencias que al respecto determinan las normas oficiales mexicanas y las normas zoológicas para el Estado o a nivel Federal;
 
-XXII. Crueldad: El acto de brutalidad, sádico o zoofilico contra cualquier animal;
+XXI. Epizootia: La enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
 
-XXIII. Especies de fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores, que se encuentran bajo control del ser humano;
+XXII. Espacios idóneos en la vía pública: Las áreas verdes, vías secundarias, espacios públicos y áreas comunes;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+XXIII. Crueldad: El acto de brutalidad, sádico o zoofilico contra cualquier animal;
 
-XXIV. Instituto de Salud: Instituto de Servicios y de Salud del Estado de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-XXV. Instrumentos económicos: Los estímulos fiscales, financieros y administrativos que expidan las autoridades del Estado en las materias de la presente Ley;
+XXIV. Especies de fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores, que se encuentran bajo control del ser humano;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXVI. Ley: La Ley de Protección a los Animales para el Estado de Aguascalientes;
+XXV. Instituto de Salud: Instituto de Servicios y de Salud del Estado de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXVII. Limitación razonable del tiempo e intensidad de trabajo: El tiempo e intensidad de trabajo que realizan los animales de monta, cargo y tiro y los animales para espectáculos que, de acuerdo a su especie, cumplan con las disposiciones que esta Ley, su Reglamento y las normas zoológicas y las normas oficiales mexicanas establezcan;
+XXVI. Instrumentos económicos: Los estímulos fiscales, financieros y administrativos que expidan las autoridades del Estado en las materias de la presente Ley;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXVII. Ley: La Ley de Protección a los Animales para el Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXVIII. Limitación razonable del tiempo e intensidad de trabajo: El tiempo e intensidad de trabajo que realizan los animales de monta, cargo y tiro y los animales para espectáculos que, de acuerdo a su especie, cumplan con las disposiciones que esta Ley, su Reglamento y las normas zoológicas y las normas oficiales mexicanas establezcan;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-XXVIII. Mascotas: Los perros y gatos, así como los demás animales y especies de fauna silvestre que sirven de compañía o recreación del ser humano;
+XXIX. Mascotas: Los perros y gatos, así como los demás animales y especies de fauna silvestre que sirven de compañía o recreación del ser humano;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXIX. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, sufrimiento, poner en peligro la vida del animal o que afecten su salud y bienestar, así como la sobreexplotación de su trabajo;
+XXX. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, sufrimiento, poner en peligro la vida del animal o que afecten su salud y bienestar, así como la sobreexplotación de su trabajo;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XXXI. Mutilación con fines estéticos o de practicidad: Aquella práctica que conlleva una cirugía en la que se ampute, escinda o extirpe una o más extremidades u órganos del animal, orientada a un determinado fin estético o de practicidad para sus dueños, sin fines curativos o reconstructivos;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXX. Normas zoológicas para el Estado: Los criterios técnicos de carácter obligatorio emitidos por la autoridad competente en función de las atribuciones que esta Ley y otros ordenamientos le confieren;
+XXXII. Normas zoológicas para el Estado: Los criterios técnicos de carácter obligatorio emitidos por la autoridad competente en función de las atribuciones que esta Ley y otros ordenamientos le confieren;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIII. Otectomía: Escisión de las orejas de los animales;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXXI. Personal capacitado: Las personas que prestan sus servicios, sean estos públicos o privados, o que colaboran con las asociaciones protectoras de animales cuyas actividades estén respaldadas con autorización legal expedida por la autoridad correspondiente que defina la especialización de la acción a realizar;
+XXXIV. Personal capacitado: Las personas que prestan sus servicios, sean estos públicos o privados, o que colaboran con las asociaciones protectoras de animales cuyas actividades estén respaldadas con autorización legal expedida por la autoridad correspondiente que defina la especialización de la acción a realizar;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXXII. Procuraduría: La Procuraduría Estatal de Protección al Ambiente;
+XXXV. Procuraduría: La Procuraduría Estatal de Protección al Ambiente;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXXIII. Reglamento: El Reglamento de la Ley de Protección a los Animales para el Estado de Aguascalientes;
+XXXVI. Reglamento: El Reglamento de la Ley de Protección a los Animales para el Estado de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXXIV. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida sin dolor ni sufrimiento innecesario por métodos físicos o químicos, atendiendo a las normas oficiales mexicanas y las normas zoológicas, estatales o federales expedidas para tal efecto;
+XXXVII. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida sin dolor ni sufrimiento innecesario por métodos físicos o químicos, atendiendo a las normas oficiales mexicanas y las normas zoológicas, estatales o federales expedidas para tal efecto;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXXV. Secretaría: Secretaría de Medio Ambiente;
+XXXVIII. Secretaría: Secretaría de Medio Ambiente;
 
-XXXVI. Sufrimiento: El padecimiento o dolor innecesario por daño físico a cualquier animal;
+XXXIX. Sufrimiento: El padecimiento o dolor innecesario por daño físico a cualquier animal;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XL. Subprocuraduría: La Subprocuraduría de Protección, Defensa y Bienestar de los Animales, de la Procuraduría Estatal de Protección al Ambiente del Estado de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-XXXVII. Subprocuraduría: La Subprocuraduría de Protección, Defensa y Bienestar de los Animales, de la Procuraduría Estatal de Protección al Ambiente del Estado de Aguascalientes.
+XLI. Trato digno y respetuoso: Las medidas que esta Ley, su Reglamento, las normas zoológicas y las normas oficiales mexicanas establecen para evitar dolor innecesario o angustia durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-XXXVIII. Trato digno y respetuoso: Las medidas que esta Ley, su Reglamento, las normas zoológicas y las normas oficiales mexicanas establecen para evitar dolor innecesario o angustia durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
-
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
-
-XXXIX. Vivisección: Abrir vivo a un animal; y
+XLII. Vivisección: Abrir vivo a un animal; y
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-XL. Zoonosis: La transmisión de enfermedades entre seres humanos y animales.
+XLIII. Zoonosis: La transmisión de enfermedades entre seres humanos y animales.
 
 ### CAPITULO II. De la Competencia
 
@@ -401,11 +415,17 @@ V. Celebrar espectáculos con animales en la vía pública;
 
 VI. La venta o adiestramiento de animales en áreas comunes o en áreas en las que se atente contra la integridad física de las personas y animales;
 
-VII. La comercialización de animales enfermos, con lesiones, traumatismos, fracturas o heridas.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2015)</small>
+VII. La comercialización de animales enfermos, con lesiones, traumatismos, fracturas o heridas;
 
-VIII. Realizar espectáculos circenses que ofrezcan, ya sea como atractivo principal o secundario, la exhibición y/o participación de animales silvestres.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Realizar espectáculos circenses que ofrezcan, ya sea como atractivo principal o secundario, la exhibición y/o participación de animales silvestres; o
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+IX. La mutilación con fines estéticos o de practicidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
 
@@ -907,7 +927,7 @@ El propietario, poseedor o encargado de animales será responsable de éstos y d
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2016)</small>
 
-###### ARTÍCULO 42.
+###### ARTICULO 42.
 
 Son obligaciones del propietario, poseedor o encargado de mascotas, las siguientes:
 
@@ -939,9 +959,9 @@ VII.- Colocarles correa al transitar con ellas en la vía pública y recoger el 
 
 VIII.- En caso de vejez, enfermedad dolorosa, accidente grave, se deberá dar en caso de ser necesario una muerte digna y sin sufrimiento, y al cadáver se le dará un destino final adecuado;
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-IX.- Toda persona que no pueda hacerse cargo de su mascota está obligada a buscarle alojamiento y cuidado y bajo ninguna circunstancia podrá abandonarlos en la vía pública o en zonas rurales; y
+IX.- Toda persona que no pueda hacerse cargo de su mascota está obligada a buscarle alojamiento y cuidado y bajo ninguna circunstancia podrá abandonarlos en la vía pública o en zonas rurales;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
@@ -957,7 +977,13 @@ d) Los datos del tatuaje, microchip o cualquier otro medio de identificación de
 
 e) Las demás que establezca esta ley y el reglamento aplicable para el debido control, protección y censo de las mascotas.
 
-Para efectos de la presente Fracción y a fin de realizar las modificaciones respectivas a los datos censales, se deberá comunicar el cambio de propietario, pérdida o muerte de la mascota dentro de un plazo no mayor de diez días hábiles, contados a partir de ocurrido el hecho.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Para efectos de la presente Fracción y a fin de realizar las modificaciones respectivas a los datos censales, se deberá comunicar el cambio de propietario, pérdida o muerte de la mascota dentro de un plazo no mayor de diez días hábiles, contados a partir de ocurrido el hecho; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XI.- Abstenerse de someter a los animales domésticos a todo tipo de mutilaciones incluidas aquellas que se realizan con fines estéticos o de practicidad, salvo en los casos previstos en el segundo párrafo del Artículo 46 de la presente Ley.
 
 ###### ARTICULO 43.
 
@@ -993,13 +1019,17 @@ VI.- El uso de animales vivos, como instrumento de entrenamiento en animales de 
 
 VII.- Hacer ingerir bebidas alcohólicas o suministrar drogas sin fines terapéuticos a un animal;
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-VIII.- El uso de animales en la celebración de ritos y usos tradicionales que puedan afectar el bienestar animal; y
+VIII.- El uso de animales en la celebración de ritos y usos tradicionales que puedan afectar el bienestar animal;
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-IX.- El ofrecimiento de cualquier clase de alimento u objetos a los animales en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarles daño físico, enfermedad o muerte.
+IX.- El ofrecimiento de cualquier clase de alimento u objetos a los animales en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarles daño físico, enfermedad o muerte; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+X.- Realizar mutilaciones con fines estéticos o de practicidad a las que se refiere la Fracción XXXI del Artículo 3° de la presente Ley.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -1007,11 +1037,23 @@ IX.- El ofrecimiento de cualquier clase de alimento u objetos a los animales en 
 
 En todos los lugares de recreación y cautiverio, tales como circos, ferias, zoológicos, parques de diversiones, bioparques y colecciones privadas de animales vivos, se deberán proporcionar a los animales, locales adecuados que les permitan libertad de movimiento, así como las condiciones climatológicas y alimenticias necesarias según su especie, de igual manera deberán contar con vigilancia médica periódica durante el traslado de cualquier animal se deberán revisar las condiciones de higiene y seguridad necesarias, así como tomar las medidas que para el traslado establece esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 46.
 
-Queda prohibido cometer actos que pongan en riesgo la vida, la mutilación de órganos o extremidades o la modificación de instintos naturales de cualquier animal.
+Queda prohibido cometer actos que pongan en riesgo la vida de los animales, realizar actos de mutilación de órganos o extremidades con fines estéticos o de practicidad, y la modificación de instintos naturales de cualquier animal.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Para los efectos de esta Ley, no se consideran actos de mutilación con fines estéticos o de practicidad, a:
+
+I. Las intervenciones que realice un médico veterinario zootecnista para garantizar la salud del animal;
+
+II. Las intervenciones que limiten o anulen la capacidad reproductiva de las especies;
+
+III. Las otectomías que se realicen hasta los cuatro meses de edad del animal; o
+
+IV. Las caudectomías que se realicen dentro de los primeros diez días de vida del animal, cuando éstos sean destinados para guarda y protección en instituciones de seguridad pública, o cuando se realicen en caninos, para cumplir la normatividad relativa a un ejemplar de exposición, presentando previamente ante el médico veterinario zootecnista, el registro de Pedigree y la carta expedida por la Federación Canófila Mexicana.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -1355,9 +1397,9 @@ Son infracciones a lo establecido en esta Ley:
 
 I.- Producir la muerte de un animal, utilizando un medio que prolongue su agonía, causándole sufrimientos innecesarios;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-II.- Llevar a cabo cualquier mutilación orgánica al animal, si no es supervisada por un profesionista en la materia, que garantice el uso de los métodos señalados en el Capítulo V de esta Ley;
+II.- Llevar a cabo cualquier mutilación orgánica al animal, a excepción de aquellas contempladas en el segundo párrafo del Artículo 46 de la presente Ley, mismas que además deberán ser realizadas por médico veterinario zootecnista que garantice el uso de los métodos señalados en el Capítulo V de esta Ley;
 
 III.- Privar a un animal de aire, luz, alimento o bebida, espacio suficiente o de abrigo contra la intemperie, que le cause o pueda causar daño;
 
@@ -1393,9 +1435,15 @@ I.- Los actos u omisiones carentes de un motivo razonable o legítimo que sean s
 
 II.- El torturar o maltratar a un animal por maldad, brutalidad, egoísmo o grave negligencia;
 
-III.- El descuidar la morada y las condiciones de albergue, movilidad e higiene de un animal, a un punto tal que esto pueda causarle sed, insolación, dolores considerables, o bien, que atente gravemente a su salud; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-IV.- Los demás que determine la presente Ley y otras disposiciones jurídicas aplicables.
+III.- El descuidar la morada y las condiciones de albergue, movilidad e higiene de un animal, a un punto tal que esto pueda causarle sed, insolación, dolores considerables, o bien, que atente gravemente a su salud;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- Realizar la mutilación con fines estéticos o de practicidad; y
+
+V.- Los demás que determine la presente Ley y otras disposiciones jurídicas aplicables.
 
 ###### ARTICULO 81.
 
@@ -1421,11 +1469,11 @@ II.- De ciento cincuenta y uno a trescientas veces el valor diario de la unidad 
 
 III.- De trescientas una a quinientas veces el valor diario de la unidad de medida y actualización a quienes cometan las infracciones señaladas en las fracciones I, II, XI y XIII del artículo 79 de esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 84.
 
-En los casos previstos en las fracciones VII, IX, XI y XIII del Artículo 79 de la presente Ley, se impondrá además de la multa prevista en el Artículo 81, para el infractor por primera vez la clausura temporal o parcial, y en caso de reincidencia la clausura será definitiva o total de las instalaciones o sitios donde se desarrollen las actividades que den lugar a la infracción respectiva.
+En los casos previstos en las fracciones II, VII, IX, XI y XIII del Artículo 79 de la presente Ley, se impondrá además de la multa prevista en el Artículo 81, para el infractor por primera vez la clausura temporal o parcial, y en caso de reincidencia la clausura será definitiva o total de las instalaciones o sitios donde se desarrollen las actividades que den lugar a la infracción respectiva.
 
 ###### ARTICULO 85.
 
@@ -1566,3 +1614,19 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 380.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los noventa días naturales siguientes de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se exhorta a la Procuraduría Estatal de Medio Ambiente y a los Municipios del Estado, para que en sus respectivas esferas competenciales, lleven (sic) cabo campañas masivas para dar a conocer la prohibición de la realización de mutilaciones con fines estéticos o de practicidad, así como las sanciones a quienes realicen dichas prácticas.
+
+###### ARTÍCULO TERCERO.
+
+Se exhorta a los Ayuntamientos, para que en caso, realicen las Reformas, Adiciones y/o Derogaciones pertinentes en su marco normativo, a fin de que la infracción contemplada en el Artículo 79 Fracción II de la Ley de Protección a los Animales para el Estado de Aguascalientes, sea considerada respectivamente como falta administrativa, y con ello objeto de sanción.
