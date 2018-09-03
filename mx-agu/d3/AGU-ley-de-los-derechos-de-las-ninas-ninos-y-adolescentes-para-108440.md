@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-07-02"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -1615,15 +1615,31 @@ VIII. Realizar y promover estudios e investigaciones para fortalecer las accione
 
 IX. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos, en razón de edad, sexo, entidad federativa, escolaridad y discapacidad;
 
-XII (SIC). Asesorar y apoyar a los gobiernos de los Municipios que lo requieran para el ejercicio de sus atribuciones;
+> <small>(ADICIONADA [N. DE E. REFORMADO SU NUMERAL], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XIII. Informar cada seis meses al Sistema Nacional de Protección Integral y a su Presidente, sobre sus actividades;
+X. Asesorar y apoyar a los gobiernos de los Municipios que lo requieran para el ejercicio de sus atribuciones;
 
-XIV. Fungir como instancia de interlocución autoridades de los distintos niveles de Gobierno, así como con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado, para el logro de los fines de esta Ley;
+> <small>(ADICIONADA [N. DE E. REFORMADO SU NUMERAL], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XV. Coordinar con el Sistema Nacional de Protección, el intercambio de información necesaria a efecto de dar cumplimiento con el objeto de Ley General a este respecto; y
+XI. Informar cada seis meses al Sistema Nacional de Protección Integral y a su Presidente, sobre sus actividades;
 
-XVI. Las demás que le encomiende el Gobernador, o le atribuyan las demás disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Fungir como instancia de interlocución entre las autoridades de los distintos niveles de Gobierno, así como con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado, para el logro de los fines de esta Ley;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Coordinar con el Sistema Nacional de Protección, el intercambio de información necesaria a efecto de dar cumplimiento con el objeto de la Ley General a este respecto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Promover, desarrollar y brindar acciones para beneficio de la población que atiende la Casa del Adolescente;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Las demás que le encomiende el Gobernador, o le atribuyan las demás disposiciones legales aplicables; y
+
+XVI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 117.
 
@@ -2070,3 +2086,31 @@ El presente Decreto iniciará su vigencia a partir del día siguiente de su publ
 ###### ARTÍCULO SEGUNDO.
 
 Se Derogan todas las disposiciones contrarias a las Reformas aprobadas mediante el presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 369.- SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 7°, Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO NOVENO TRANSITORIO DEL DECRETO NÚMERO 221 DE LA LXIII LEGISLATURA; TODAS LAS DISPOSICIONES DE LA LEY DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto la Secretaría de Finanzas deberá realizar las adecuaciones presupuestales a fin de asignar a la Secretaría General de Gobierno los recursos financieros necesarios para el cumplimiento de los objetivos establecidos de la Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes.
+
+Asimismo, previo a la conclusión del Ejercicio Presupuestal 2018, deberá estar concluida la transferencia de los recursos humanos, financieros y materiales, en su caso, a efecto de dar cumplimiento al presente Decreto. Todos aquellos acuerdos administrativos y actos jurídicos con motivo de las transferencias del personal y recursos materiales y financieros, serán coordinados y vigilados en su ámbito de competencia por la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Las obligaciones laborales serán asumidas por la Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes, respetando los derechos de los trabajadores, en términos de las disposiciones legales aplicables.
+
+Los derechos laborales de los trabajadores serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados, en la transferencia institucional que deberá realizarse.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor del presente Decreto, se deberán emitir y realizar las adecuaciones reglamentarias necesarias a efecto (sic) dar cumplimiento al mismo, en un término no mayor a 90 días hábiles.
+
+###### ARTÍCULO QUINTO.
+
+Se Derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley; de igual o menor jerarquía; razón por la que a la entrada en vigor del presente Decreto, deberán haber concluido las acciones convenientes para llevar a cabo las modificaciones normativas a que haya lugar.
