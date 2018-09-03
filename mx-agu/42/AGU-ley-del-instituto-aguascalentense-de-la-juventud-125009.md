@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-aguascalentense-de-la-juventud-125009"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-31"
-last_updated: "2017-12-31"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Número 28 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el domingo 31 de diciembre de 2017.
 
@@ -177,7 +177,9 @@ XVIII.- Promover la creación y participación en espacios de medios de comunica
 
 XIX.- Analizar y gestionar apoyos a jóvenes en la práctica de una disciplina artística, deportiva o científica;
 
-XX.- Promover, desarrollar o brindar acciones en beneficio de los jóvenes que se integren en la Casa del Adolescente; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XX.- Coadyuvar con el Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes para promover, desarrollar y brindar acciones en beneficio de la población que atiende la Casa del Adolescente; y
 
 XXI.- Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 
@@ -529,7 +531,7 @@ La transferencia de los expedientes, activos fijos y bienes en general que corre
 
 El Ejecutivo del Estado de Aguascalientes proveerá al Instituto Aguascalentense de la Juventud, por conducto de la Secretaría de Finanzas del Estado de Aguascalientes, los recursos para la instalación y operación del mismo, considerando el Presupuesto de Egresos del Estado de Aguascalientes, para el Ejercicio Fiscal del Año 2018.
 
-Asimismo deberá llevar a cabo la transferencia de recursos humanos y materiales, con la colaboración de la Secretaría de Administración del Estado de Aguascalientes, respecto de la “Casa del Adolescente”.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO DÉCIMO.
 
@@ -549,7 +551,7 @@ Se Derogan todas las disposiciones legales y reglamentarias que se opongan al pr
 
 Al Ejecutivo para su promulgación y publicación.
 
-Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los treinta días del mes de diciembre del año dos mil diecisiete.
+Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", del Palacio Legislativo, a los treinta días del mes de diciembre del año dos mil diecisiete.
 
 Lo que tenemos el honor de comunicar a usted, para los efectos Constitucionales conducentes.
 
@@ -572,3 +574,33 @@ Arturo Fernández Estrada,
 DIPUTADO SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 30 de diciembre de 2017.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Francisco Javier Luévano Núñez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 369.- SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 7°, Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO NOVENO TRANSITORIO DEL DECRETO NÚMERO 221 DE LA LXIII LEGISLATURA; TODAS LAS DISPOSICIONES DE LA LEY DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto la Secretaría de Finanzas deberá realizar las adecuaciones presupuestales a fin de asignar a la Secretaría General de Gobierno los recursos financieros necesarios para el cumplimiento de los objetivos establecidos de la Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes.
+
+Asimismo, previo a la conclusión del Ejercicio Presupuestal 2018, deberá estar concluida la transferencia de los recursos humanos, financieros y materiales, en su caso, a efecto de dar cumplimiento al presente Decreto. Todos aquellos acuerdos administrativos y actos jurídicos con motivo de las transferencias del personal y recursos materiales y financieros, serán coordinados y vigilados en su ámbito de competencia por la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Las obligaciones laborales serán asumidas por la Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes, respetando los derechos de los trabajadores, en términos de las disposiciones legales aplicables.
+
+Los derechos laborales de los trabajadores serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados, en la transferencia institucional que deberá realizarse.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor del presente Decreto, se deberán emitir y realizar las adecuaciones reglamentarias necesarias a efecto dar cumplimiento al mismo, en un término no mayor a 90 días hábiles.
+
+###### ARTÍCULO QUINTO.
+
+Se Derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, de igual o menor jerarquía; razón por la que a la entrada en vigor del presente Decreto, deberán haber concluido las acciones convenientes para llevar a cabo las modificaciones normativas a que haya lugar.
