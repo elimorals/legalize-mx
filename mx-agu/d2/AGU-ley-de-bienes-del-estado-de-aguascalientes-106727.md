@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-bienes-del-estado-de-aguascalientes-106727"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2017-07-03"
+last_updated: "2018-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE BIENES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -59,13 +59,19 @@ I. Dependencias del Ejecutivo: las definidas como tales en la Ley Orgánica de l
 
 II. Entidades del Ejecutivo: los organismos públicos descentralizados del Poder Ejecutivo y las empresas de participación estatal mayoritaria mencionados en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes;
 
-III. Órganos Autónomos: las personas de derecho público con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Secretaría: la Secretaría de Fiscalización y Rendición de Cuentas;
+III. Órganos Autónomos: las personas de derecho público con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado de Aguascalientes; y
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Contraloría: la Contraloría del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 3°.
 
-La interpretación de esta Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal, corresponde a la Secretaría.
+La interpretación de esta Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal, corresponde a la Contraloría.
 
 ###### Artículo 4°.
 
@@ -133,7 +139,9 @@ II. Los destinados al servicio de los Poderes Legislativo y Judicial del Estado;
 
 III. Los destinados al servicio de las Dependencias y Entidades del Ejecutivo;
 
-IV. Los que se adquieran mediante actos jurídicos en cuya formalización intervenga la Secretaría, en los términos de esta Ley y, cuando en los mismos se determine la Dependencia o Entidad del Ejecutivo a la que se destinará el bien inmueble y el uso al que está dedicado; y,
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Los que se adquieran mediante actos jurídicos en cuya formalización intervenga la Contraloría, en los términos de esta Ley y, cuando en los mismos se determine la Dependencia o Entidad del Ejecutivo a la que se destinará el bien inmueble y el uso al que está dedicado; y
 
 V. Los que se adquieran por expropiación en los que se determine como destinatario a una Dependencia del Ejecutivo, con excepción de aquellos que se adquieran con fines de regularización de tenencia de la tierra, y desarrollo social, urbano o económico.
 
@@ -159,7 +167,37 @@ Los bienes regulados, se sujetarán al régimen jurídico que dispongan las leye
 
 Los bienes inmuebles de dominio privado del Estado pueden ser objeto de todos los contratos que regula el derecho común, con el requisito para su validez, de que cuando se trate de actos de dominio, éstos sean autorizados por el Congreso del Estado y se lleven a cabo las publicaciones correspondientes en el Periódico Oficial del Estado de conformidad con la presente Ley.
 
-Los organismos públicos descentralizados del Poder Ejecutivo que tengan como objetivo o fin el desarrollo de vivienda, no requerirán de la autorización y las publicaciones señaladas en el párrafo anterior, por los actos de dominio que ejecuten respecto de sus bienes inmuebles, de igual manera, no le serán aplicables los procedimientos y formalidades incluyendo el avalúo para determinar el valor base mínimo de enajenación contenidos en la presente Ley.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Los actos de dominio, cuyo objeto sea el desarrollo de vivienda y el otorgamiento de las prestaciones de seguridad y servicios sociales para los servidores públicos del Estado de Aguascalientes, que sean ejecutados por los organismos públicos descentralizados del Poder Ejecutivo sobre sus bienes inmuebles de dominio privado, estarán sujetos al siguiente procedimiento:
+
+I. Su realización estará exenta de la autorización del Congreso del Estado;
+
+II. Previo a su celebración, se requerirá la intervención de la Contraloría para la emisión de un dictamen sobre:
+
+a) La viabilidad, la oportunidad, el mérito y los beneficios que tendrá para la sociedad o el Estado la limitación de dominio de que se trate;
+
+b) El avalúo que servirá para fijar las compensaciones o contraprestaciones correspondientes, en caso de que haya lugar; y
+
+c) El cumplimiento de las formalidades requeridas por las disposiciones aplicables, en caso de que el bien inmueble que será objeto de la limitación de dominio esté sujeto a un régimen de regulación especial;
+
+III. El Dictamen al que se refiere la fracción anterior deberá ser emitido dentro de los treinta días hábiles siguientes a aquel en el que el organismo público descentralizado de que se trate inicie el trámite para la autorización del acto de dominio respectivo;
+
+IV. Para su celebración es necesario que el dictamen al que refiere la fracción inmediata anterior sea aprobado por el Órgano de Gobierno del organismo público descentralizado de que se trate, en sesión ordinaria o extraordinaria, según sea el caso;
+
+V. La aprobación del dictamen deberá expresarse mediante la emisión de un acuerdo administrativo en el que se justifique la realización del acto de dominio de que se trate, con base en lo siguiente:
+
+a) Se resolverá sobre su viabilidad, oportunidad y mérito;
+
+b) Se señalarán los beneficios que tendrá para la sociedad o el Estado;
+
+c) Se determinará la pertinencia de la fijación de las compensaciones o contraprestaciones correspondientes, en caso de que haya lugar;
+
+d) Se verificará el cumplimiento de las formalidades requeridas por las disposiciones aplicables, en caso de que el bien inmueble que será objeto de la limitación de dominio esté sujeto a un régimen de regulación especial; y
+
+e) Se cumplirán en su emisión los requisitos prescritos por la Ley del Procedimiento Administrativo del Estado de Aguascalientes y las demás normas relativas y aplicables; y
+
+VI. El acuerdo administrativo correspondiente será publicado en el Periódico Oficial del Estado e inscrito en el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 16.
 
@@ -201,9 +239,13 @@ II. Realizar los actos previstos en el artículo 46 de esta Ley, para la disposi
 
 III. Emitir el acuerdo administrativo por el que se desincorpore del régimen de dominio público del Estado, aquellos inmuebles que no sean útiles para destinarlos al servicio público;
 
-IV. Solicitar al Ejecutivo, una vez emitido el acuerdo señalado en la fracción anterior, someta a través de la Secretaría, la petición al Congreso del Estado para obtener la autorización prevista en el Artículo 15 de esta Ley;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-V. Solicitar al Ejecutivo la intervención del Titular de la Secretaría en los actos de dominio correspondientes, una vez autorizado por el Congreso del Estado;
+IV. Solicitar al Ejecutivo, una vez emitido el acuerdo señalado en la fracción anterior, someta a través de la Contraloría, la petición al Congreso del Estado para obtener la autorización prevista en el Artículo 15 de esta Ley;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+V. Solicitar al Ejecutivo la intervención del Titular de la Contraloría en los actos de dominio correspondientes, una vez autorizado por el Congreso del Estado;
 
 VI. Realizar los procedimientos que procedan para la enajenación de bienes inmuebles;
 
@@ -225,13 +267,17 @@ Para tal efecto, emitirán las normas y procedimientos para que sus responsables
 
 Los bienes muebles al servicio de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos del Estado, se regirán por las leyes correspondientes y por las normas que los mismos emitan. En todo caso, podrán desincorporar del régimen de dominio público del Estado, los bienes muebles que estén a su servicio y que por su uso, aprovechamiento o estado de conservación no sean ya adecuados o resulte inconveniente su utilización en el mismo, a fin de proceder a su enajenación.
 
-## TÍTULO CUARTO. DE LA SECRETARÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+## TÍTULO CUARTO. DE LA CONTRALORÍA
 
 ### CAPÍTULO PRIMERO. De las Atribuciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 24.
 
-A la Secretaría le corresponde ejercer las siguientes atribuciones:
+A la Contraloría le corresponde ejercer las siguientes atribuciones:
 
 I. Llevar el inventario de los bienes muebles e inmuebles al cuidado o propiedad del Gobierno del Estado, e informar a la Secretaría de Finanzas cualquier aspecto que pudiera afectar el registro de la propiedad sobre los mismos;
 
@@ -261,13 +307,25 @@ XII. Solicitar, a nombre del Ejecutivo, autorización al Congreso del Estado par
 
 XIII. Expedir las normas para la enajenación de bienes inmuebles propiedad del Gobierno del Estado, salvo aquellos que sean propiedad de las Entidades del Ejecutivo;
 
-XIV. Establecer normas para que las Dependencias del Ejecutivo presten permanentemente, cuidado y uso debido de los bienes muebles e inmuebles propiedad del Estado, con base en los lineamientos emitidos por la Secretaría de Infraestructura y Comunicaciones;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XV. Expedir las disposiciones administrativas para el cumplimiento de esta Ley; y
+XIV. Establecer normas para que las Dependencias del Ejecutivo presten permanentemente, cuidado y uso debido de los bienes muebles e inmuebles propiedad del Estado, con base en los lineamientos emitidos por la Secretaría de Obras Públicas;
 
-XVI. Las demás que le confieran esta Ley, u otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-El inventario y registro de los bienes muebles e inmuebles deberán apegarse a las disposiciones que establece la Ley General de Contabilidad Gubernamental y las disposiciones que de ella emanen. Asimismo, la Secretaría deberá mantener actualizados los inventarios de bienes muebles de su propiedad con el fin de evitar inversiones ociosas y la obsolescencia de los artículos.
+XV. Expedir las disposiciones administrativas para el cumplimiento de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Emitir el dictamen al que se refiere el artículo 15 de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Las demás que le confieran esta Ley, u otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+El inventario y registro de los bienes muebles e inmuebles deberán apegarse a las disposiciones que establece la Ley General de Contabilidad Gubernamental y las disposiciones que de ella emanen. Asimismo, la Contraloría deberá mantener actualizados los inventarios de bienes muebles de su propiedad con el fin de evitar inversiones ociosas y la obsolescencia de los artículos.
 
 ###### Artículo 25.
 
@@ -279,9 +337,11 @@ Las Entidades del Ejecutivo adquirirán por sí mismas, el dominio o el uso de l
 
 ### CAPÍTULO SEGUNDO. DEL REGISTRO ADMINISTRATIVO DE LA PROPIEDAD PÚBLICA DEL ESTADO
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 27.
 
-Está a cargo de la Secretaría el Registro Administrativo de la Propiedad Pública del Estado, en el que se inscribirán los actos jurídicos y administrativos que acrediten la situación jurídica y administrativa de cada bien inmueble del Estado, correspondientes a los Poderes Ejecutivo, Legislativo y Judicial, así como los Órganos Autónomos.
+Está a cargo de la Contraloría el Registro Administrativo de la Propiedad Pública del Estado, en el que se inscribirán los actos jurídicos y administrativos que acrediten la situación jurídica y administrativa de cada bien inmueble del Estado, correspondientes a los Poderes Ejecutivo, Legislativo y Judicial, así como los Órganos Autónomos.
 
 ###### Artículo 28.
 
@@ -327,7 +387,9 @@ XIX. Las actas de entrega recepción de bienes inmuebles del Estado;
 
 XX. Las actas de entrega recepción de obras públicas relativas a la construcción y demolición en bienes inmuebles del Estado;
 
-XXI. Las actas levantadas por la Secretaría en las que se identifique y describa la situación física que guarden los bienes inmuebles del Estado, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XXI. Las actas levantadas por la Contraloría en las que se identifique y describa la situación física que guarden los bienes inmuebles del Estado; y
 
 XXII. Los demás actos jurídicos relativos a los bienes inmuebles del Estado que conforme a las disposiciones legales aplicables, deban ser registrados.
 
@@ -369,9 +431,11 @@ II. La utilización de un medio de comunicación electrónica, en los términos 
 
 En el caso de que la constancia expedida en los términos de la fracción II de este artículo fuere objetada por alguna de las partes en juicio, o que el juzgador, el Ministerio Público o cualquier autoridad que conozca del procedimiento no tuviera certeza de su autenticidad, deberán solicitar al Registro Administrativo de la Propiedad Pública del Estado que expida la constancia en los términos previstos por la fracción I del presente precepto.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 33.
 
-El Registro Administrativo de la Propiedad Pública del Estado permitirá a las personas que lo soliciten, la consulta de las inscripciones de los bienes respectivos y los documentos que con ellas se relacionan, y expedirá, cuando sean solicitadas de acuerdo con las leyes, copias certificadas de las inscripciones y de los documentos relativos, salvo de aquellos que se clasifiquen como reservados o confidenciales en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+El Registro Administrativo de la Propiedad Pública del Estado permitirá a las personas que lo soliciten, la consulta de las inscripciones de los bienes respectivos y los documentos que con ellas se relacionan, y expedirá, cuando sean solicitadas de acuerdo con las leyes, copias certificadas de las inscripciones y de los documentos relativos, salvo de aquellos que se clasifiquen como reservados o confidenciales en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
 
 ## TÍTULO QUINTO. DE LOS BIENES DEL GOBIERNO DEL ESTADO
 
@@ -383,27 +447,41 @@ Las Dependencias y las Entidades del Ejecutivo que tengan a su cargo la posesió
 
 I. Investigar y determinar la situación física, jurídica y administrativa de los bienes inmuebles, así como solicitar los levantamientos topográficos y elaborar los respectivos planos, para efectos del inventario, catastro y registro de dichos bienes inmuebles;
 
-II. Tomar las medidas necesarias para compilar, organizar, vincular y operar los acervos documentales e informativos de los bienes inmuebles, así como recibir e integrar en sus respectivos acervos la información y documentación que le proporcione la Secretaría;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+II. Tomar las medidas necesarias para compilar, organizar, vincular y operar los acervos documentales e informativos de los bienes inmuebles, así como recibir e integrar en sus respectivos acervos la información y documentación que le proporcione la Contraloría;
 
 III. Programar, ejecutar, evaluar y controlar la realización de acciones y gestiones con el fin de coadyuvar a la regularización jurídica y administrativa de los bienes inmuebles, a la formalización de operaciones, al óptimo aprovechamiento de dichos bienes y a la recuperación de los ocupados ilegalmente;
 
-IV. Adoptar las medidas conducentes para la adecuada conservación, mantenimiento, vigilancia y, en su caso, aseguramiento contra daños de los bienes muebles e inmuebles;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-Lo dispuesto en el párrafo anterior no será aplicable cuando por razón de la naturaleza de los bienes muebles o el tipo de riesgos a los que están expuestos, el costo de aseguramiento represente una erogación que no guarde relación directa con el beneficio que pudiera obtenerse, o bien, se constate que no exista oferta de seguros en el mercado para los bienes de que se trate. La Secretaría, a solicitud del responsable de los bienes autorizará previamente la aplicación de la excepción.
+IV. Adoptar las medidas conducentes para la adecuada conservación, mantenimiento, vigilancia y, en su caso, aseguramiento contra daños de los bienes muebles e inmuebles.
 
-V. Coadyuvar con la Secretaría en la inspección y vigilancia de los bienes inmuebles, así como realizar estas acciones en el caso de los que son propiedad de las Entidades del Ejecutivo;
+Lo dispuesto en el párrafo anterior no será aplicable cuando por razón de la naturaleza de los bienes muebles o el tipo de riesgos a los que están expuestos, el costo de aseguramiento represente una erogación que no guarde relación directa con el beneficio que pudiera obtenerse, o bien, se constate que no exista oferta de seguros en el mercado para los bienes de que se trate. La Contraloría, a solicitud del responsable de los bienes autorizará previamente la aplicación de la excepción;
 
-VI. Dar aviso, con carácter informativo, en forma inmediata a la Secretaría de cualquier hecho o acto jurídico que se realice con violación a esta Ley, respecto de los bienes muebles e inmuebles;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Entregar, en su caso, a la Secretaría los bienes inmuebles del Gobierno del Estado o áreas no utilizadas dentro de los cuatro meses siguientes a su desocupación. En caso de omisión, será responsable en los términos de las disposiciones legales aplicables;
+V. Coadyuvar con la Contraloría en la inspección y vigilancia de los bienes inmuebles, así como realizar estas acciones en el caso de los que son propiedad de las Entidades del Ejecutivo;
 
-VIII. Obtener y conservar el aviso del contratista y el acta de terminación de las obras públicas que se lleven a cabo en los bienes inmuebles, y los planos respectivos, así como remitir a la Secretaría original o copia certificada de estos documentos tratándose de bienes inmuebles bajo su responsabilidad; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Dar aviso, con carácter informativo, en forma inmediata a la Contraloría de cualquier hecho o acto jurídico que se realice con violación a esta Ley, respecto de los bienes muebles e inmuebles;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Entregar, en su caso, a la Contraloría los bienes inmuebles del Gobierno del Estado o áreas no utilizadas dentro de los cuatro meses siguientes a su desocupación. En caso de omisión, será responsable en los términos de las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Obtener y conservar el aviso del contratista y el acta de terminación de las obras públicas que se lleven a cabo en los bienes inmuebles, y los planos respectivos, así como remitir a la Contraloría original o copia certificada de estos documentos tratándose de bienes inmuebles bajo su responsabilidad; y
 
 IX. Gestionar los recursos necesarios para el cabal cumplimiento de las responsabilidades a su cargo.
 
 Para efectos de lo dispuesto en la fracción IV de este artículo, el servidor público que tenga en uso o resguardo bienes muebles, deberá proporcionar al responsable de los bienes la información respecto de su conservación, mantenimiento y aseguramiento. El usuario o resguardante, por su negligencia o descuido, responderá de los daños, menoscabo o pérdida de los bienes.
 
-La Secretaría vigilará que el responsable de los bienes cumpla con las funciones a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+La Contraloría vigilará que el responsable de los bienes cumpla con las funciones a que se refiere este artículo.
 
 ### CAPÍTULO SEGUNDO. De las Concesiones, Permisos y Autorizaciones
 
@@ -417,9 +495,11 @@ Se regularán, sin embargo, por el Código Civil del Estado, los aprovechamiento
 
 Los derechos de tránsito, de luz, de derrames y otros semejantes sobre dichos bienes, se rigen exclusivamente por las leyes, reglamentos y demás disposiciones administrativas de carácter estatal.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 36.
 
-Las concesiones para el uso, aprovechamiento o explotación de bienes inmuebles que se encuentren asociadas a la prestación de servicios públicos, se otorgarán mediante los procedimientos previstos en las disposiciones que rijan la prestación de dichos servicios, o en su defecto, por las normas que emita la Secretaría.
+Las concesiones para el uso, aprovechamiento o explotación de bienes inmuebles que se encuentren asociadas a la prestación de servicios públicos, se otorgarán mediante los procedimientos previstos en las disposiciones que rijan la prestación de dichos servicios, o en su defecto, por las normas que emita la Contraloría.
 
 ###### Artículo 37.
 
@@ -441,17 +521,21 @@ En la declaratoria de rescate se establecerán las bases generales que servirán
 
 Si el afectado estuviese conforme con el monto de la indemnización, la cantidad que se señale por este concepto tendrá carácter definitivo. Si no estuviere conforme, el importe de la indemnización se determinará por la autoridad judicial, a petición del interesado, quien deberá formularla dentro del plazo de quince días hábiles contados a partir de la fecha en que se le notifique la resolución que determine el monto de la indemnización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 40.
 
-Independientemente de las acciones en la vía judicial, la Secretaría o las Entidades del Ejecutivo podrán llevar a cabo el procedimiento administrativo de conformidad con la normatividad aplicable tendiente a recuperar la posesión de un bien inmueble del Gobierno del Estado cuando un particular explote, use o aproveche un bien inmueble estatal, sin haber obtenido previamente concesión, permiso o autorización, o celebrado contrato con la autoridad competente.
+Independientemente de las acciones en la vía judicial, la Contraloría o las Entidades del Ejecutivo podrán llevar a cabo el procedimiento administrativo de conformidad con la normatividad aplicable tendiente a recuperar la posesión de un bien inmueble del Gobierno del Estado cuando un particular explote, use o aproveche un bien inmueble estatal, sin haber obtenido previamente concesión, permiso o autorización, o celebrado contrato con la autoridad competente.
 
 Asimismo, podrán iniciar el procedimiento administrativo de conformidad con la normatividad aplicable, las Dependencias u organismos públicos descentralizados del Poder Ejecutivo que hayan otorgado concesión, permiso, autorización o contrato y el particular, no devolviere los bienes inmuebles al concluir el plazo establecido o le dé un uso distinto al autorizado o convenido, sin contar con la autorización previa de la Dependencias u organismos públicos descentralizados del Poder Ejecutivo.
 
 ### CAPÍTULO TERCERO. De las Adquisiciones de los Bienes Inmuebles
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 41.
 
-Para satisfacer las solicitudes de bienes inmuebles de las Dependencias o Entidades del Ejecutivo, la Secretaría deberá:
+Para satisfacer las solicitudes de bienes inmuebles de las Dependencias o Entidades del Ejecutivo, la Contraloría deberá:
 
 I. Recibir de la Dependencia del Ejecutivo solicitante del bien inmueble, la justificación de su necesidad y, acreditamiento de la viabilidad del proyecto, así como la previsión presupuestal correspondiente;
 
@@ -483,21 +567,27 @@ V. Tratándose de construcciones, obtener el respectivo dictamen de seguridad es
 
 VI. Obtener la documentación legal necesaria para la adquisición o el uso oneroso del bien inmueble.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
-Para efecto de determinar el valor de los bienes inmuebles respecto de los cuales las Dependencias y Entidades del Ejecutivo pretendan adquirir la propiedad por cualquier medio, podrán solicitar, por conducto de la Secretaría, los avalúos correspondientes a la autoridad catastral, a las instituciones de crédito o a corredores públicos.
+Para efecto de determinar el valor de los bienes inmuebles respecto de los cuales las Dependencias y Entidades del Ejecutivo pretendan adquirir la propiedad por cualquier medio, podrán solicitar, por conducto de la Contraloría, los avalúos correspondientes a la autoridad catastral, a las instituciones de crédito o a corredores públicos.
 
-La Secretaría emitirá las normas, procedimientos, criterios y metodologías de carácter técnico, conforme a los cuales se realizarán los avalúos, considerando la diversidad de bienes y derechos objeto de valuación, así como sus posibles usos y demás características particulares.
+La Contraloría emitirá las normas, procedimientos, criterios y metodologías de carácter técnico, conforme a los cuales se realizarán los avalúos, considerando la diversidad de bienes y derechos objeto de valuación, así como sus posibles usos y demás características particulares.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 44.
 
-Cuando se pretenda adquirir el dominio de un bien inmueble, una vez seleccionado el más apropiado y siempre que exista previsión y suficiencia presupuestaria en la partida correspondiente, el Titular de la Secretaría, procederá a firmar, en nombre y representación del Ejecutivo, la escritura pública de la adquisición, será con cargo al presupuesto de las Dependencias del Ejecutivo, el pago del precio y demás gastos que origine la adquisición. En este caso se considerará que el bien inmueble ha quedado destinado a la Dependencia del Ejecutivo a cuyo presupuesto se realizó el cargo, sin que se requiera acuerdo de destino.
+Cuando se pretenda adquirir el dominio de un bien inmueble, una vez seleccionado el más apropiado y siempre que exista previsión y suficiencia presupuestaria en la partida correspondiente, el Titular de la Contraloría, procederá a firmar, en nombre y representación del Ejecutivo, la escritura pública de la adquisición, será con cargo al presupuesto de las Dependencias del Ejecutivo, el pago del precio y demás gastos que origine la adquisición. En este caso se considerará que el bien inmueble ha quedado destinado a la Dependencia del Ejecutivo a cuyo presupuesto se realizó el cargo, sin que se requiera acuerdo de destino.
 
-La Dependencia del Ejecutivo destinataria del bien inmueble, tramitará la inscripción de la escritura en los registros pertinentes y remitirá ésta a la Secretaría para su custodia.
+La Dependencia del Ejecutivo destinataria del bien inmueble, tramitará la inscripción de la escritura en los registros pertinentes y remitirá ésta a la Contraloría para su custodia.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 45.
 
-Cuando la Secretaría, adquiera en los términos del derecho privado un bien inmueble para cumplir con finalidades de orden público, podrán convenir con los poseedores derivados, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamiento, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión derivada del bien, pudiendo cubrirse en cada caso una compensación, tomando en cuenta la naturaleza y vigencia de los derechos derivados de los actos jurídicos correspondientes a favor de los poseedores, así como los gastos de mudanza que tengan que erogar. El término para la desocupación y entrega del bien inmueble no deberá exceder de un año.
+Cuando la Contraloría, adquiera en los términos del derecho privado un bien inmueble para cumplir con finalidades de orden público, podrán convenir con los poseedores derivados, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamiento, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión derivada del bien, pudiendo cubrirse en cada caso una compensación, tomando en cuenta la naturaleza y vigencia de los derechos derivados de los actos jurídicos correspondientes a favor de los poseedores, así como los gastos de mudanza que tengan que erogar. El término para la desocupación y entrega del bien inmueble no deberá exceder de un año.
 
 ### CAPÍTULO CUARTO. De la Disposición de los Bienes Inmuebles
 
@@ -519,13 +609,19 @@ VI. Utilizarse en indemnizaciones como pago en especie por las expropiaciones y 
 
 VII. Celebrarse los demás actos de carácter oneroso que se justifiquen en términos de esta Ley o de las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 47.
 
-Los actos previstos en el artículo anterior, los de dominio requerirán autorización del Congreso del Estado, de conformidad con el Artículo 15 de esta Ley. Los de enajenación de bienes inmuebles, señalados en las Fracciones I y VII, se realizará mediante licitación pública; y, los contemplados en las Fracciones II, III, IV, V y VI, se realizarán a través de adjudicación directa previa acreditación de los supuestos a que se refieren dichas acciones.
+De los actos previstos en el artículo anterior, los de dominio requerirán autorización del Congreso del Estado, de conformidad con el Artículo 15 de esta Ley; los de enajenación de bienes inmuebles, señalados en las Fracciones I y VII, se realizarán mediante licitación pública; y, los contemplados en las Fracciones II, III, IV, V y VI, se realizarán a través de adjudicación directa previa acreditación de los supuestos a que se refieren dichas acciones.
 
-El valor base mínimo de enajenación, será el que determine el avalúo que solicite la Secretaría a la autoridad catastral, a las instituciones de crédito, a los corredores públicos, o a los especialistas en materia de valuación con cédula profesional expedida por autoridad competente.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-Si realizada una licitación pública, el bien inmueble del Gobierno del Estado de que se trate, no se enajena, la Secretaría podrá optar, en función de asegurar al Gobierno del Estado las mejores condiciones en cuanto a precio, oportunidad y demás circunstancias pertinentes, por alguna de las siguientes alternativas para enajenarlo:
+El valor base mínimo de enajenación, será el que determine el avalúo que solicite la Contraloría a la autoridad catastral, a las instituciones de crédito, a los corredores públicos, o a los especialistas en materia de valuación con cédula profesional expedida por autoridad competente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Si realizada una licitación pública, el bien inmueble del Gobierno del Estado de que se trate, no se enajena, la Contraloría podrá optar, en función de asegurar al Gobierno del Estado las mejores condiciones en cuanto a precio, oportunidad y demás circunstancias pertinentes, por alguna de las siguientes alternativas para enajenarlo:
 
 I. Celebrar una segunda licitación pública, señalando como postura legal el ochenta por ciento del valor base. De no enajenarse el bien inmueble, se procederá a celebrar una tercera licitación pública, estableciéndose como postura legal el sesenta por ciento del valor mínimo base;
 
@@ -535,29 +631,39 @@ III. Adjudicar el bien inmueble, en caso de haberse efectuado la segunda o terce
 
 En los casos enunciados en las fracciones precedentes, sólo se mantendrá el valor mínimo base utilizado para la licitación anterior, si el respectivo dictamen valuatorio continúa vigente. Si fenece la vigencia del dictamen, deberá practicarse un nuevo avalúo.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 48.
 
-La Secretaría emitirá las normas para la enajenación de bienes inmuebles del Gobierno del Estado, salvo aquellos que sean propiedad de las Entidades del Ejecutivo.
+La Contraloría emitirá las normas para la enajenación de bienes inmuebles del Gobierno del Estado, salvo aquellos que sean propiedad de las Entidades del Ejecutivo.
 
-La Secretaría podrá contratar los servicios para la promoción de la enajenación de bienes inmuebles del Gobierno del Estado a personas especializadas en la materia, cuando cuente con elementos de juicio suficientes para considerar que con ello se pueden aumentar las alternativas de compradores potenciales y la posibilidad de lograr precios más altos. La adjudicación de los contratos de prestación de servicios, se realizará en apego a la normatividad aplicable.
+La Contraloría podrá contratar los servicios para la promoción de la enajenación de bienes inmuebles del Gobierno del Estado a personas especializadas en la materia, cuando cuente con elementos de juicio suficientes para considerar que con ello se pueden aumentar las alternativas de compradores potenciales y la posibilidad de lograr precios más altos. La adjudicación de los contratos de prestación de servicios, se realizará en apego a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 49.
 
-En las enajenaciones a plazo, el Gobierno del Estado se reservará el dominio sobre los bienes inmuebles, o bien, requerirá de garantías suficientes y necesarias constituidas por el comprador, hasta el pago total del precio, de los intereses pactados y de los moratorios, en su caso, y los compradores no tendrán facultad para derribar o modificar las construcciones sin permiso expreso de la Secretaría.
+En las enajenaciones a plazo, el Gobierno del Estado se reservará el dominio sobre los bienes inmuebles, o bien, requerirá de garantías suficientes y necesarias constituidas por el comprador, hasta el pago total del precio, de los intereses pactados y de los moratorios, en su caso, y los compradores no tendrán facultad para derribar o modificar las construcciones sin permiso expreso de la Contraloría.
 
-En el caso a que se refiere el párrafo anterior, la reserva de dominio se podrá liberar parcialmente en forma proporcional a los pagos realizados, cuando el adquirente hubiere fraccionado o subdividido el bien inmueble de que se trate, quedando plenamente identificadas las fracciones con sus medidas y colindancias y siendo posible determinar el valor de cada una. La Secretaría cuidará que las fracciones de terreno cuyo dominio quede en reserva garanticen, a su juicio, el pago del precio, de los intereses pactados y los moratorios que, en su caso, se hubieren convenido.
+En el caso a que se refiere el párrafo anterior, la reserva de dominio se podrá liberar parcialmente en forma proporcional a los pagos realizados, cuando el adquirente hubiere fraccionado o subdividido el bien inmueble de que se trate, quedando plenamente identificadas las fracciones con sus medidas y colindancias y siendo posible determinar el valor de cada una. La Contraloría cuidará que las fracciones de terreno cuyo dominio quede en reserva garanticen, a su juicio, el pago del precio, de los intereses pactados y los moratorios que, en su caso, se hubieren convenido.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 50.
 
-Los bienes inmuebles propiedad de las Entidades del Ejecutivo, pueden ser objeto de todos los contratos que regule el derecho común. Una vez obtenida la autorización del Congreso del Estado prevista en el artículo 15 de esta Ley, podrán realizar cualquier acto jurídico sobre bienes inmuebles de su propiedad, sujetándose a las normas y bases que establezcan sus órganos de gobierno en los términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, sin requerir autorización de la Secretaría. Las normas y bases deberán prever la obtención del valor base mínimo de enajenación, que determine el avalúo que solicite la Entidad del Ejecutivo a la autoridad catastral, o a las instituciones de crédito, o a los corredores públicos, o a los especialistas en materia de valuación con cédula profesional expedida por autoridad competente.
+Los bienes inmuebles propiedad de las Entidades del Ejecutivo, pueden ser objeto de todos los contratos que regule el derecho común. Una vez obtenida la autorización del Congreso del Estado prevista en el artículo 15 de esta Ley, podrán realizar cualquier acto jurídico sobre bienes inmuebles de su propiedad, sujetándose a las normas y bases que establezcan sus órganos de gobierno en los términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, sin requerir autorización de la Contraloría. Las normas y bases deberán prever la obtención del valor base mínimo de enajenación, que determine el avalúo que solicite la Entidad del Ejecutivo a la autoridad catastral, o a las instituciones de crédito, o a los corredores públicos, o a los especialistas en materia de valuación con cédula profesional expedida por autoridad competente.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 51.
 
-Los bienes inmuebles propiedad de los organismos públicos descentralizados del Poder Ejecutivo, sólo podrán ser desincorporados del régimen del dominio público para su enajenación, mediante acuerdo administrativo de la Secretaría.
+Los bienes inmuebles propiedad de los organismos públicos descentralizados del Poder Ejecutivo, sólo podrán ser desincorporados del régimen del dominio público para su enajenación, mediante acuerdo administrativo de la Contraloría.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 52.
 
-Para la enajenación de aquellos bienes inmuebles propiedad de los organismos públicos descentralizados del Poder Ejecutivo que no vengan utilizando directamente en el cumplimiento de su objeto, no se requerirá acuerdo administrativo de la Secretaría, siempre que previamente el organismo de que se trate, dictamine la no utilidad del bien para el cumplimiento de su objeto y cuente con la autorización de su órgano de gobierno para llevar a cabo la enajenación
+Para la enajenación de aquellos bienes inmuebles propiedad de los organismos públicos descentralizados del Poder Ejecutivo que no vengan utilizando directamente en el cumplimiento de su objeto, no se requerirá acuerdo administrativo de la Contraloría, siempre que previamente el organismo de que se trate, dictamine la no utilidad del bien para el cumplimiento de su objeto y cuente con la autorización de su órgano de gobierno para llevar a cabo la enajenación.
 
 ###### Artículo 53.
 
@@ -611,17 +717,21 @@ VII. Los demás actos jurídicos que ordene esta Ley u otras disposiciones legal
 
 Las disposiciones de este Capítulo serán aplicables a los bienes muebles de propiedad estatal que estén al servicio de las Dependencias del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 61.
 
-La Secretaría expedirá las normas generales a que se sujetará el registro, afectación, disposición final y baja de los bienes muebles al servicio de las Dependencias del Ejecutivo.
+La Contraloría expedirá las normas generales a que se sujetará el registro, afectación, disposición final y baja de los bienes muebles al servicio de las Dependencias del Ejecutivo.
 
-La Secretaría podrá practicar visitas de inspección a las Dependencias del Ejecutivo, para verificar el control y existencia en almacenes e inventarios de bienes muebles, así como la afectación de los mismos.
+La Contraloría podrá practicar visitas de inspección a las Dependencias del Ejecutivo, para verificar el control y existencia en almacenes e inventarios de bienes muebles, así como la afectación de los mismos.
 
-La Secretaría emitirá los lineamientos y procedimientos específicos, manuales, formatos e instructivos necesarios para la adecuada administración de los bienes muebles y el manejo de los almacenes.
+La Contraloría emitirá los lineamientos y procedimientos específicos, manuales, formatos e instructivos necesarios para la adecuada administración de los bienes muebles y el manejo de los almacenes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 62.
 
-A la Secretaría le corresponderá, bajo su estricta responsabilidad, lo siguiente:
+A la Contraloría le corresponderá, bajo su estricta responsabilidad, lo siguiente:
 
 I. Autorizar el programa anual de disposición final de los bienes muebles;
 
@@ -631,9 +741,11 @@ III. Licitar o subastar, según sea el caso, los bienes muebles de las Dependenc
 
 El acuerdo administrativo de desincorporación a que se refiere la fracción II de este artículo, tendrá únicamente el efecto de que los bienes pierdan su carácter de inalienables. Dicho acuerdo podrá referirse a uno o más bienes debidamente identificados de manera individual.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 63.
 
-Será facultad de la Secretaría, la enajenación, transferencia o destrucción de los bienes muebles propiedad del Gobierno del Estado que estén al servicio de las Dependencias del Ejecutivo y, que por su uso, aprovechamiento o estado de conservación, no sean ya adecuados o resulte inconveniente su utilización en el mismo, así como la enajenación o destrucción de los desechos respectivos. Para tal efecto, las Dependencias del Ejecutivo, deberán poner a disposición de la Secretaría los bienes muebles, correspondientes.
+Será facultad de la Contraloría, la enajenación, transferencia o destrucción de los bienes muebles propiedad del Gobierno del Estado que estén al servicio de las Dependencias del Ejecutivo y, que por su uso, aprovechamiento o estado de conservación, no sean ya adecuados o resulte inconveniente su utilización en el mismo, así como la enajenación o destrucción de los desechos respectivos. Para tal efecto, las Dependencias del Ejecutivo, deberán poner a disposición de la Contraloría los bienes muebles, correspondientes.
 
 Los ingresos que se obtengan por las enajenaciones a que se refiere este artículo, deberán concentrarse en la Secretaría de Finanzas.
 
@@ -641,39 +753,59 @@ Cuando se trate de armamento, municiones, explosivos, agresivos químicos y arti
 
 Las enajenaciones a que se refiere este artículo no podrán realizarse a favor de los servidores públicos que en cualquier forma intervengan en los actos relativos a dichas enajenaciones, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado o civiles, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a lo dispuesto en este párrafo serán nulas y causa de responsabilidad.
 
-Los servidores públicos que no se encuentren en los supuestos señalados en el párrafo anterior, y contando con la autorización de la Secretaría, podrán participar en las licitaciones públicas de los bienes muebles al servicio de las Dependencias del Ejecutivo, que éstas determinen enajenar.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Los servidores públicos que no se encuentren en los supuestos señalados en el párrafo anterior, y contando con la autorización de la Contraloría, podrán participar en las licitaciones públicas de los bienes muebles al servicio de las Dependencias del Ejecutivo, que éstas determinen enajenar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 64.
 
-Salvo los casos comprendidos en los párrafos tercero y cuarto de este artículo, la enajenación onerosa, se hará mediante licitación pública. De no lograrse la enajenación de los bienes a través del procedimiento de licitación pública, se procederá a su subasta en el mismo evento, en los términos que señalen las normas generales que emita la Secretaría.
+Salvo los casos comprendidos en los párrafos tercero y cuarto de este artículo, la enajenación onerosa, se hará mediante licitación pública. De no lograrse la enajenación de los bienes a través del procedimiento de licitación pública, se procederá a su subasta en el mismo evento, en los términos que señalen las normas generales que emita la Contraloría.
 
 Para efectos de la subasta se considerará postura legal, la que cubra las dos terceras partes del valor base fijado para la licitación. Si en la primera almoneda no hubiere postura legal, se realizará una segunda, deduciendo en ésta un diez por ciento del importe que en la anterior hubiere constituido la postura legal. Si no se lograse la enajenación en la segunda almoneda, se podrán emplear los procedimientos a que se refiere el párrafo siguiente, considerando para tal efecto como valor base la postura legal de esta última almoneda.
 
-La Secretaría, podrá enajenar bienes muebles sin sujetarse a licitación pública, mediante invitación a cuando menos tres personas o adjudicación directa, previa autorización de la Secretaría, cuando se presenten condiciones o circunstancias extraordinarias o imprevisibles o situaciones de emergencia, o no existan por lo menos tres posibles interesados capacitados legalmente para presentar ofertas. En estos casos, la selección del procedimiento de enajenación se hará en función de obtener las mejores condiciones para el Gobierno del Estado, en cuanto a precio, oportunidad y demás circunstancias pertinentes.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-La Secretaría también podrá, enajenar bienes sin sujetarse a licitación pública, cuando el valor de éstos en su conjunto no exceda del equivalente a tres mil días de salario mínimo general vigente en el Estado.
+La Contraloría, podrá enajenar bienes muebles sin sujetarse a licitación pública, mediante invitación a cuando menos tres personas o adjudicación directa, previa autorización de la Contraloría, cuando se presenten condiciones o circunstancias extraordinarias o imprevisibles o situaciones de emergencia, o no existan por lo menos tres posibles interesados capacitados legalmente para presentar ofertas. En estos casos, la selección del procedimiento de enajenación se hará en función de obtener las mejores condiciones para el Gobierno del Estado, en cuanto a precio, oportunidad y demás circunstancias pertinentes.
 
-El monto de la enajenación, salvo para los casos de subasta a que se refiere el párrafo segundo de este artículo, no podrá ser inferior a los valores mínimos de los bienes que, en su caso, determine la Secretaría con base en el avalúo que para tal efecto solicite o, las instituciones de crédito, los corredores públicos o los especialistas en materia de valuación con cédula profesional expedida por autoridad competente, que hayan sido contratados por la propia Secretaría, o mediante el procedimiento que con ese objeto establezca. La Secretaría emitirá, conforme a las disposiciones aplicables, los instrumentos administrativos que contengan los referidos valores.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+La Contraloría también podrá, enajenar bienes sin sujetarse a licitación pública, cuando el valor de éstos en su conjunto no exceda del equivalente a tres mil días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+El monto de la enajenación, salvo para los casos de subasta a que se refiere el párrafo segundo de este artículo, no podrá ser inferior a los valores mínimos de los bienes que, en su caso, determine la Contraloría con base en el avalúo que para tal efecto solicite o, las instituciones de crédito, los corredores públicos o los especialistas en materia de valuación con cédula profesional expedida por autoridad competente, que hayan sido contratados por la propia Contraloría, o mediante el procedimiento que con ese objeto establezca. La Contraloría emitirá, conforme a las disposiciones aplicables, los instrumentos administrativos que contengan los referidos valores.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 65.
 
-La Secretaría podrá donar bienes muebles que estén al servicio de las Dependencias del Ejecutivo cuando ya no les sean útiles: a los Poderes Legislativo y Judicial del Estado; a los Órganos Autónomos; a las Entidades del Ejecutivo, a los fideicomisos públicos; a los municipios del Estado; a instituciones o asociaciones públicas o privadas de salud; beneficencia o asistencia; educativas o culturales; o cuyos fines sean el desarrollo económico; a beneficiarios de algún servicio asistencial público; y a las comunidades agrarias y ejidos. La donación de bienes deberá realizarse a valor del avalúo correspondiente.
+La Contraloría podrá donar bienes muebles que estén al servicio de las Dependencias del Ejecutivo cuando ya no les sean útiles: a los Poderes Legislativo y Judicial del Estado; a los Órganos Autónomos; a las Entidades del Ejecutivo, a los fideicomisos públicos; a los municipios del Estado; a instituciones o asociaciones públicas o privadas de salud; beneficencia o asistencia; educativas o culturales; o cuyos fines sean el desarrollo económico; a beneficiarios de algún servicio asistencial público; y a las comunidades agrarias y ejidos. La donación de bienes deberá realizarse a valor del avalúo correspondiente.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 66.
 
-La transferencia del uso de bienes muebles podrá realizarse exclusivamente entre Dependencias del Ejecutivo, o entre éstas y los Poderes Legislativo y Judicial, los Órganos Autónomos, y las Entidades del Ejecutivo; para ello, deberá contarse con la autorización previa de la Secretaría.
+La transferencia del uso de bienes muebles podrá realizarse exclusivamente entre Dependencias del Ejecutivo, o entre éstas y los Poderes Legislativo y Judicial, los Órganos Autónomos, y las Entidades del Ejecutivo; para ello, deberá contarse con la autorización previa de la Contraloría.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 67.
 
-Efectuada la enajenación o destrucción, procederá la Secretaría a la cancelación de registros en inventarios y se dará la baja respectiva.
+Efectuada la enajenación o destrucción, procederá la Contraloría a la cancelación de registros en inventarios y se dará la baja respectiva.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 68.
 
-La Secretaría podrá otorgar bienes muebles en comodato al servicio de las Dependencias del Ejecutivo cuando ya no les sean útiles: a los Poderes Legislativo y Judicial del Estado; a los Órganos Autónomos; a las Entidades del Ejecutivo, a los fideicomisos públicos; a los municipios del Estado; a instituciones o asociaciones públicas o privadas de salud; beneficencia o asistencia; educativas o culturales; o cuyos fines sean el desarrollo económico; a beneficiarios de algún servicio asistencial público; y, a las comunidades agrarias y ejidos, lo que deberá ser objeto de acreditación y seguimiento por parte de la institución de que se trate.
+La Contraloría podrá otorgar bienes muebles en comodato al servicio de las Dependencias del Ejecutivo cuando ya no les sean útiles: a los Poderes Legislativo y Judicial del Estado; a los Órganos Autónomos; a las Entidades del Ejecutivo, a los fideicomisos públicos; a los municipios del Estado; a instituciones o asociaciones públicas o privadas de salud; beneficencia o asistencia; educativas o culturales; o cuyos fines sean el desarrollo económico; a beneficiarios de algún servicio asistencial público; y, a las comunidades agrarias y ejidos, lo que deberá ser objeto de acreditación y seguimiento por parte de la institución de que se trate.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 69.
 
-La Secretaría llevará y mantendrá permanentemente actualizado un catálogo o registro clasificatorio de los bienes muebles de las Dependencias del Ejecutivo, las que deberán remitirle la información necesaria para tales efectos, así como aquélla que les solicite.
+La Contraloría llevará y mantendrá permanentemente actualizado un catálogo o registro clasificatorio de los bienes muebles de las Dependencias del Ejecutivo, las que deberán remitirle la información necesaria para tales efectos, así como aquélla que les solicite.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
@@ -687,11 +819,13 @@ Las bases que dicten los órganos de gobierno guardarán la debida congruencia c
 
 La facultad a que se refiere la fracción I del artículo 62 de esta Ley, le corresponderá al órgano de gobierno de la Entidad del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 71.
 
-Podrán la Secretaría y los órganos de gobierno de las Entidades del Ejecutivo, establecer comités de bienes muebles para la autorización, control y seguimiento de las operaciones respectivas, según sea el caso.
+Podrán la Contraloría y los órganos de gobierno de las Entidades del Ejecutivo, establecer comités de bienes muebles para la autorización, control y seguimiento de las operaciones respectivas, según sea el caso.
 
-La integración y funcionamiento de estos comités se sujetarán a las normas que emita la Secretaría y a las bases generales que dicten dichos órganos, en los términos de los artículos 61 y 70 de esta Ley, respectivamente.
+La integración y funcionamiento de estos comités se sujetarán a las normas que emita la Contraloría y a las bases generales que dicten dichos órganos, en los términos de los artículos 61 y 70 de esta Ley, respectivamente.
 
 ###### Artículo 72.
 
@@ -733,15 +867,17 @@ Se sancionará con prisión de dos a doce años y multa de trescientas a mil vec
 
 La pena señalada en el artículo anterior se impondrá a quien use, aproveche o explote un bien que pertenece al Estado, sin haber obtenido previamente concesión, permiso o autorización, o celebrado contrato con la autoridad competente.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 75.
 
-Las obras e instalaciones que sin concesión, permiso, autorización o contrato se realicen en inmuebles del Gobierno del Estado, se perderán en beneficio del Estado. En su caso, la Secretaría ordenará que las obras o instalaciones sean demolidas por cuenta del infractor, sin que proceda indemnización o compensación alguna.
+Las obras e instalaciones que sin concesión, permiso, autorización o contrato se realicen en inmuebles del Gobierno del Estado, se perderán en beneficio del Estado. En su caso, la Contraloría ordenará que las obras o instalaciones sean demolidas por cuenta del infractor, sin que proceda indemnización o compensación alguna.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 76.
 
-A los notarios públicos, que autoricen actos jurídicos en contravención de las disposiciones de esta Ley o sus reglamentos, o no cumplan con las mismas, independientemente de la responsabilidad civil o penal en que incurran, la Secretaría podrá sancionarlos con multa de veinte a cinco mil veces el valor diario de la unidad de medida y actualización.
+A los notarios públicos, que autoricen actos jurídicos en contravención de las disposiciones de esta Ley o sus reglamentos, o no cumplan con las mismas, independientemente de la responsabilidad civil o penal en que incurran, la Contraloría podrá sancionarlos con multa de veinte a cinco mil veces el valor diario de la unidad de medida y actualización.
 
 T R A N S I T O R I O S :
 
@@ -820,3 +956,19 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 386.- REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE BIENES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto, de igual o menor jerarquía.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas y administrativas correspondientes.
