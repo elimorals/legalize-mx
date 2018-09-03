@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2018-04-02"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY PARA LA PROTECCION ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES -- ANTES LEY PARA LA PROTECCION ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -201,9 +203,9 @@ B) A recibir el apoyo de las instituciones estatales y municipales en el ejercic
 
 C) A recibir asesoría jurídica por parte de personal capacitado en atención a adultos mayores de forma gratuita en los procedimientos administrativos o judiciales en que sea parte, y contar con un representante legal cuando lo considere necesario;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-D) En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su integridad física, psicológica, de su patrimonio personal, familiar y, cuando sea el caso, testar sin presiones ni violencia;
+D) En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su integridad física, psicológica, de su patrimonio personal, familiar y, cuando sea el caso, testar sin presiones ni violencia. A su vez, cuando el Juez, advierta alguna limitante de movilidad, comunicación, psicológica, o de cualquier otra naturaleza, que pueda constituir la vulnerabilidad del derecho al acceso a la justicia del adulto mayor, solicitará de manera oficiosa, a las dependencias y entidades competentes, que le brinde la atención necesaria;
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
 
@@ -555,13 +557,21 @@ III. Impulsar las actividades de difusión y fomento educativo para los adultos 
 
 IV. Impulsar la formación académica en gerontología y geriatría, para que en escuelas de nivel superior se impartan esas materias;
 
-V. Instituir en sus programas de enseñanza básica, técnica y media superior, la formación axiológica en sus alumnos, para que cultiven el respeto, atención y cuidado de las personas adultas mayores;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+V. Instituir en sus programas de todos los niveles educativos, la formación axiológica en sus alumnos, para que cultiven el respeto, atención y cuidado de las personas adultas mayores, así como la incorporación de contenidos sobre el proceso y transición del envejecimiento;
 
 VI. Instituir programas de becas para las personas adultas mayores, en materia de educación continua y capacitación;
 
-VII. Contratar personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más, restricción que su limitación física o mental declarada por la autoridad médica o legal competente; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-VIII. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+VII. Contratar personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más, restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VII (SIC). Instituir acciones y programas para que de manera voluntaria, permitan al adulto mayor, conforme a su oficio, habilidad o profesión, la enseñanza de estos a jóvenes, niños y adultos, respetando en todo momento sus derechos y la integridad del adulto mayor, sin más, restricción que su limitación física o mental declarada por la autoridad médica o legal competente; y
+
+VIII (SIC). Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO VIII. De la Dirección General del Trabajo del Estado
 
@@ -943,7 +953,7 @@ IV. Si la conducta del infractor implica reincidencia.
 
 Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a las personas que refiere como tales el primer párrafo del Artículo 73 de la Constitución Política del Estado de Aguascalientes.
 
-El incumplimiento a las funciones y atribuciones que establece la presente Ley, se sujetará a lo dispuesto en el Capitulo XVI llamado “de la Responsabilidad de los Servidores Públicos” de la Constitución Política del Estado de Aguascalientes.
+El incumplimiento a las funciones y atribuciones que establece la presente Ley, se sujetará a lo dispuesto en el Capítulo XVI llamado “de la Responsabilidad de los Servidores Públicos” de la Constitución Política del Estado de Aguascalientes.
 
 ###### ARTÍCULO 44.
 
@@ -1102,3 +1112,27 @@ P.O. 2 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 361.- SE REFORMA LA LEY DE PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan Derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo de 180 días naturales, contados a partir de la publicación del presente Decreto, el Titular del Poder Ejecutivo del Estado de Aguascalientes deberá realizar para tal efecto las Reformas y/o Adiciones al Reglamento de la Ley para la Protección Especial de los Adultos Mayores del Estado de Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 362.- SE REFORMA Y ADICIONA EL ARTÍCULO 21 DE LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
