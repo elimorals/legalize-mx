@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-ordenamiento-territorial-desarrollo-urbano-y-96157"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-10-07"
-last_updated: "2018-04-30"
+last_updated: "2018-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de octubre de 2013.
 
@@ -38,10 +38,6 @@ Decreto Número 394
 ###### ARTÍCULO ÚNICO.
 
 Se aprueba el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes.
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN ECHAS A LA PROCURADURÍA GENERAL DE LA REPUBLICA.</small>
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA.</small>
 
 CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
@@ -1545,9 +1541,17 @@ I.- El Gobernador del Estado, quien las presidirá;
 
 II.- Los presidentes de los municipios involucrados en la zona conurbada y metropolitana respectiva;
 
-III.- Un secretario técnico, que será el Secretario de Gestión Urbanística y Ordenamiento Territorial de la Administración Pública del Estado; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-IV.- Los representantes de las dependencias y entidades de las administraciones públicas estatal y municipales y de los sectores público, social y privado, involucrados en el ordenamiento del territorio, asentamientos humanos, desarrollo urbano y vivienda, que a juicio de los presidentes de las comisiones tengan relación con la zona conurbada y metropolitana respectiva. Se invitará a representantes de las dependencias y entidades de la Administración Pública Federal.
+III.- Un secretario técnico, que será el Secretario de Gestión Urbanística y Ordenamiento Territorial de la Administración Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- El Diputado Presidente de la Comisión de Desarrollo Metropolitano y Zonas Conurbadas del Congreso del Estado; y un Diputado de cada uno de los municipios integrantes de la zona metropolitana.
+
+Para la designación a la que hace referencia el párrafo anterior, el Poder Legislativo designará dentro de aquellos que hayan sido electos por los Distritos de la Zona metropolitana; y
+
+V.- Los representantes de las dependencias y entidades de las administraciones públicas estatal y municipales y de los sectores público, social y privado, involucrados en el ordenamiento del territorio, asentamientos humanos, desarrollo urbano y vivienda, que a juicio de los presidentes de las comisiones tengan relación con la zona conurbada y metropolitana respectiva. Se invitará a representantes de las dependencias y entidades de la Administración Pública Federal.
 
 Por cada representante propietario se designará un suplente, que los sustituirá en sus faltas temporales.
 
@@ -12128,3 +12132,19 @@ Los Poderes del Estado, sus dependencias y entidades, los Órganos Constituciona
 ###### ARTÍCULO VIGÉSIMO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 376.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 53, Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 53, RECORRIÉNDOSE LA SUBSECUENTE, AL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las comisiones de conurbación intraestatales deberán dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, reformar de conformidad con el mismo, su reglamento interior respectivo.
