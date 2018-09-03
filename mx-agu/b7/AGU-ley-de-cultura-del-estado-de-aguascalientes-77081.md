@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-del-estado-de-aguascalientes-77081"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-25"
-last_updated: "2016-08-08"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 25 de octubre de 2010.
 
@@ -165,15 +165,41 @@ XI. Diseñará estrategias generales para la gestión de subsidios, el cofinanci
 
 XII. Fomentará la apertura de espacios de referencia cultural independientes.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 7°.
 
-El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
+El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa estableciendo entre otras acciones, aquellas que fomenten y promuevan los siguientes aspectos:
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+I. La cohesión social, la paz y la convivencia armónica de sus habitantes;
+
+II. El acceso libre a las bibliotecas públicas;
+
+III. La lectura y la divulgación relacionadas con la cultura del Estado de Aguascalientes y de México;
+
+IV. La celebración de los convenios necesarios con instituciones privadas para la obtención de descuentos en el acceso y disfrute de los bienes y servicios culturales, así como para el permitir la entrada preferencial a museos, principalmente a personas de escasos recursos, estudiantes, profesores, adultos mayores y personas con discapacidad;
+
+V. La realización de eventos artísticos y culturales gratuitos en escenarios y plazas públicas;
+
+VI. El fomento de las expresiones y creaciones artísticas y culturales de Aguascalientes y del país;
+
+VII. La promoción de la cultura de Aguascalientes en territorio nacional;
+
+VIII. La educación, la formación de audiencias y la investigación artística y cultural;
+
+IX. El aprovechamiento de la infraestructura cultural, con espacios y servicios adecuados para un uso intensivo de la misma;
+
+X. El acceso universal a la cultura para aprovechar los recursos de las tecnologías de la información y las comunicaciones; y
+
+XI. La inclusión de personas y grupos en situación de discapacidad, en condiciones de vulnerabilidad o violencia en cualquiera de sus manifestaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 8°.
 
-Toda persona tiene el derecho al acceso y participación en las manifestaciones culturales. Es deber del Estado incentivar una mayor participación de las personas, grupos sociales, estableciendo los mecanismos para acceder a las actividades, bienes y servicios culturales en vinculación y coordinación con instituciones culturales públicas y privadas.
+Toda persona tiene el derecho al acceso y participación en las manifestaciones culturales, las cuales serán entendidas para los efectos de esta Ley como los elementos materiales e inmateriales pretéritos y actuales, inherentes a la historia, arte, tradiciones, prácticas y conocimientos que identifican a los grupos, pueblos y comunidades que integran el Estado; así como aquellos elementos que las personas, de manera individual o colectiva, reconocen como propios por el valor y significado que les aporta en términos de su identidad, formación, integridad y dignidad cultural, y a las que tienen el pleno derecho de acceder, participar, practicar y disfrutar de manera activa y creativa. Es deber del Estado incentivar una mayor participación de las personas, grupos sociales, estableciendo los mecanismos para acceder a los bienes culturales en vinculación y coordinación con instituciones culturales públicas y privadas.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 8 DE AGOSTO DE 2016)</small>
 
 Para la ejecución de las acciones culturales, que deriven de los instrumentos de planeación, el Estado delegará en el Instituto la promoción para la participación de:
 
@@ -231,9 +257,11 @@ XII. Comúnicación y difusión.
 
 ### CAPÍTULO III. De la Educación Artística
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 13.
 
-La educación artística es el motor de la cultura y libertad creativa.
+La educación artística es el motor de la cultura y libertad creativa que contribuye a desarrollar una educación que integra las facultades físicas, intelectuales y creativas del individuo y hace posible el desarrollo de relaciones más dinámicas y fructíferas entre la educación, la cultura y las artes.
 
 ###### Artículo 14.
 
@@ -413,13 +441,23 @@ XXIII. Promover y fomentar la adquisición de material didáctico y de lectura p
 
 XXIV. Coordinar y supervisar la Red estatal de Bibliotecas Públicas y fungir como enlace con la Red Nacional de Bibliotecas Públicas; conforme a los acuerdos que se hubieran celebrado o se celebren con esa instancia federal y/o con los ayuntamientos;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XXV. Administrar los recursos que le sean asignados; y
+XXV. Administrar los recursos que le sean asignados;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XXVI. Las demás que le confiere esta Ley y los ordenamientos jurídicos aplicables.
+XXVI. Celebrar acuerdos de coordinación con los municipios en las siguientes materias:
+
+a) La elaboración de monografías de contenido cultural que documenten las expresiones y manifestaciones de la cultura de las diferentes localidades, así como las crónicas e historias relevantes, tradición culinaria y oral, entre otros temas;
+
+b) La aplicación de los instrumentos de política pública para la promoción y difusión de la cultura; y
+
+c) El sostenimiento de recintos y espacios culturales para la realización de actividades relacionadas con el objeto de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XXVII. Las demás que le confiere esta Ley y los ordenamientos jurídicos aplicables.
 
 ###### Artículo 31.
 
@@ -1062,3 +1100,11 @@ Se faculta a la Junta Directiva del Instituto Cultural de Aguascalientes, para e
 ###### ARTÍCULO TERCERO.
 
 Las disposiciones reglamentarias deberán expedirse en un término no mayor de 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 373.- SE REFORMA EL ARTÍCULO 7°, EL PRIMER PÁRRAFO DEL ARTÍCULO 8°, EL ARTÍCULO 13, Y LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 30; ASÍ COMO SE ADICIONAN UNAS FRACCIONES DE LA I A LA XI AL ARTÍCULO 7°, Y UNA FRACCIÓN XXVII AL ARTÍCULO 30 DE LA LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
