@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-125052"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2017-12-22"
-last_updated: "2018-05-07"
+last_updated: "2018-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2018
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE SEPTIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2018
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el viernes 22 de diciembre de 2017.
 
@@ -48,6 +50,8 @@ LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 
 La Hacienda Pública del Estado percibirá durante el Ejercicio Fiscal del año 2018, los siguientes ingresos por los conceptos y las cantidades estimadas en pesos que se indican a continuación:
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 2 A LA 6.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. 3 DE SEPTIEMBRE DE 2018, PÁGINAS 57 Y 58.]</small>
 
 El desglose de los ingresos para el Ejercicio Fiscal 2018 no contempla los conceptos y los numerales correspondientes a Cuotas y Aportaciones de Seguridad Social, Contribuciones de Mejoras y Transferencias, Asignaciones, Subsidios y Otras Ayudas establecidos en el Catálogo del Clasificador por Rubro de Ingresos en virtud de que no son aplicables para los ingresos que establece esta Ley.
 
@@ -371,6 +375,8 @@ Por el uso o goce de bienes y por la prestación de los servicios de los Organis
 
 > <small>[N. DE E. VÉASE REFORMA A LAS TABLAS EN LA PRIMERA SECCIÓN DEL P.O. DE 16 DE ABRIL DE 2018, PÁGINA 11.]</small>
 
+> <small>[N. DE E. VÉASE REFORMA A LAS TABLAS EN LA PRIMERA SECCIÓN DEL P.O. 3 DE SEPTIEMBRE DE 2018, PÁGINA 58.]</small>
+
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPÍTULO ÚNICO. De los Productos de los Organismos Descentralizados, Órganos Desconcentrados, Autónomos Y Fideicomisos
@@ -406,6 +412,8 @@ El Instituto para el Desarrollo de la Sociedad del Estado de Aguascalientes, pod
 Sera facultad de la Dirección General del Instituto, previa autorización del Comité Técnico y administrativo, otorgar descuentos que no se hayan considerado en los párrafos anteriores, en cuanto a servicios y usos de espacios se refieran. Para ser aplicables estos descuentos, deberán de estar solicitados, autorizados o publicados por el Instituto y reconocidos en taquilla.
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 133 A LA 135.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. 3 DE SEPTIEMBRE DE 2018, PÁGINA 58.]</small>
 
 Los (sic) cuotas y tarifas de los conceptos del numeral 1, de la fracción XIII, del presente Artículo, incluyen el IVA.
 
@@ -577,7 +585,7 @@ En el caso de que se aperturen cuentas productivas, que manejen las dependencias
 
 ###### ARTÍCULO 39.
 
-En cumplimiento a lo establecido con la Norma Oficial Mexicana número NOM-001-SCT-2-2016, emitida por la Secretaría de Comunicaciones y Transportes, publicada en el Diario Oficial de la Federación, el día 24 de junio de 2016, la cual fue emitida a fin de reforzar la confiablidad de la fabricación de placas metálicas y calcomanías de identificación vehicular, por lo que resulta necesario incorporar nuevas especificaciones técnicas en su fabricación que funcionen como elementos de seguridad , motivo por el cual, se realizará el canje de placas en el periodo comprendido del 2 de enero de 2018 al 31 de mayo de 2018.
+En cumplimiento a lo establecido con la Norma Oficial Mexicana número NOM-001-SCT-2-2016, emitida por la Secretaría de Comunicaciones y Transportes, publicada en el Diario Oficial de la Federación, el día 24 de junio de 2016, la cual fue emitida a fin de reforzar la confiablidad de la fabricación de placas metálicas y calcomanías de identificación vehicular, por lo que resulta necesario incorporar nuevas especificaciones técnicas en su fabricación que funcionen como elementos de seguridad, motivo por el cual, se realizará el canje de placas en el periodo comprendido del 2 de enero de 2018 al 31 de mayo de 2018.
 
 En caso de no efectuar el canje de placas dentro del plazo señalado en el párrafo anterior, los propietarios de los vehículos se harán acreedores a una sanción de 5 a 50 unidades de medida de actualización.
 
@@ -714,3 +722,15 @@ P.O. 7 DE MAYO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 384.- REFORMAS Y ADICIONES A LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2018”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación (sic) el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento a la normatividad aplicable, se acompañan los anexos relativos al presente Decreto, incluida la modificación al ANEXO 7, a que hace referencia el Artículo 112 de la Ley.
