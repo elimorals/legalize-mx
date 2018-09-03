@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2018-07-12"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1561,9 +1561,11 @@ En los casos de las fracciones II y III del presente artículo, los médicos ten
 
 ### CAPÍTULO I. VIOLACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ### CAPÍTULO II. ESTUPRO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 160.
 
@@ -1583,63 +1585,69 @@ VI. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
 
 El delito de feminicidio se sancionará conforme a lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-### CAPÍTULO III. ASEDIO SEXUAL
+### CAPÍTULO III. HOSTIGAMIENTO Y ACOSO SEXUAL
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA LIBERTAD Y EL NORMAL DESARROLLO PSICOSEXUAL
 
 ### CAPÍTULO IV. ABUSO SEXUAL
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 161.
 
-Al que por medio de violencia física o moral, realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a catorce años y multa de trescientos a quinientos días de salario. Por cópula se entiende la introducción del pene o miembro viril en el cuerpo de la víctima, por vía vaginal, anal u oral.
+Al que por medio de violencia física o moral, realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a veinticinco años y multa de trescientas a quinientas Unidades Diarias de Medida y Actualización. Por cópula se entiende la introducción de pene o miembro viril en el cuerpo de la víctima, por vía vaginal, anal u oral.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
-
-Se sancionará con la misma penalidad a quien introduzca en una persona, por medio de la violencia física o moral, por vía vaginal o anal, cualquier elemento, instrumento o parte del cuerpo humano, distinto al miembro viril.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+Se sancionará con la misma penalidad a quien introduzca en una persona, por medio de violencia física o moral, por vía vaginal o anal, cualquier elemento, instrumento o parte del cuerpo humano, distinto al miembro viril.
 
 La misma sanción que establece este artículo se impondrá si entre el activo y el pasivo de la violación existe vínculo matrimonial, de concubinato o de pareja de hecho. En este último caso, el delito se perseguirá por querella de parte.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 162.
 
-Se equipara a la violación y se sancionará con la misma pena al que, sin violencia, cometa alguno de los hechos especificados en el artículo anterior en persona menor de catorce años de edad o que no tenga la capacidad de comprender el significado del hecho o que por cualquiera otra causa no pueda resistirlo. Si se ejerciere violencia, física o moral, el mínimo y el máximo de la pena se aumentarán en una mitad.
+Se equipara a la violación y se sancionará con la misma pena al que, sin violencia, cometa alguno de los hechos especificados en el artículo anterior en persona menor de dieciséis años de edad o que no tenga la capacidad de comprender el significado del hecho o que por cualquiera otra causa no pueda resistirlo. Si se ejerciere violencia, física o moral, el mínimo y el máximo de la pena se aumentarán en una mitad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 163.
 
 Las sanciones que señalan los artículos 161 y 162 se aumentarán de uno a cinco años de prisión cuando concurra alguna de las circunstancias siguientes:
 
-I. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2013)
+I. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2013) (REPUBLICADA, P.O. 3 DE SEPTIEMBRE DE 2018)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 II. Se cometa cuando se aprovechen los medios o circunstancias del empleo, cargo, comisión, profesión, arte u oficio que se ejerza. En este caso, además de la sanción privativa de libertad, el sentenciado, será destituido del empleo, cargo o comisión, en su caso, o suspendido en el ejercicio de su profesión u oficio por un período igual al de la sanción de prisión impuesta;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 III. Ocurra en un centro de reinserción, internamiento o separo de alguna institución de seguridad pública;
 
-IV. Sea cometido por un pariente de la víctima, sin limitación de grado en línea recta ascendente o descendente, o hasta el cuarto grado en línea colateral; por el padrastro o madrastra en contra del hijastro o hijastra, por la pareja o por la persona que vive en concubinato con el padre o la madre de la víctima. En estos casos, el culpable perderá además todos los derechos familiares y sucesorios que le puedan corresponder por su vínculo con la víctima;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+IV. Sea cometido por, un pariente de la víctima, sin limitación de grado en línea recta ascendente o descendente, o hasta el cuarto grado en línea colateral; por el padrastro o madrastra en contra del hijastro o hijastra; por la pareja o por la persona que vive en concubinato con el padre o la madre de la víctima. En estos casos, el culpable perderá además todos los derechos familiares y sucesorios que le puedan corresponder por su vínculo con la víctima;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 V. Sea cometido por servidor público o por persona que tenga a la víctima bajo su custodia, tutela, guarda o educación, o que aproveche la confianza en ella depositada; y
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 VI. Sea cometido por agente con cualidad de servidor público o que ejerciere autoridad sobre la víctima o se trate de un ministro de culto religioso o por quien se ostente como tal.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-Si la violación fuere cometida con participación de dos o más personas, la prisión será de ocho a veinte años y la multa de veinte a doscientas veces el salario mínimo diario vigente en el Estado en el momento de la comisión del delito.
+Si la violación fuere cometida con participación de dos o más personas, la prisión será de diez a veintisiete años y la multa de trescientas a quinientas Unidades Diarias de Medida y Actualización.
 
 ### CAPÍTULO V. DISPOSICIÓN COMÚN
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 164.
+###### ARTÍCULO 164.
 
-Comete el delito de estupro el que realice cópula con el consentimiento de persona mayor de catorce y menor de dieciocho años, independientemente de su sexo. Al que cometa el delito de estupro se le impondrán de seis meses a tres años de prisión y multa de doscientos a cuatrocientos días de salario.
+Comete el delito de estupro el que realice cópula con el consentimiento de persona mayor de dieciséis y menor de dieciocho años, independientemente de su sexo. Al que cometa el delito de estupro se le impondrán de uno a cuatro años de prisión y multa de doscientas a cuatrocientas Unidades de Medida y Actualización.
 
 Cuando se obtenga el consentimiento a través de cualquier tipo de engaño, se aumentarán las sanciones en un tercio.
 
@@ -1653,17 +1661,27 @@ Si se comprueba que la cópula se realizó con consentimiento en virtud de la ex
 
 Este delito se perseguirá por querella de parte.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
 ### CAPÍTULO I. AMENAZAS
 
 ###### Artículo 167.
 
-Al que con fines sexuales asedie a una persona, a pesar de su oposición manifiesta, se le impondrán de tres meses a dos años de prisión y multa de cincuenta a doscientos días de salario.
+Al que con fines sexuales hostigue a una persona, a pesar de su oposición manifiesta, se le impondrán de seis meses a dos años de prisión y multa de cien a doscientas Unidades de Medida y Actualización.
 
-Para los efectos de este Código, se entiende por asedio el importunar a alguien reiteradamente con pretensiones.
+Se entiende por hostigamiento el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor.
 
-Cuando el asedio lo realice el agente valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes o cualquier otra que implique una relación de subordinación, se le impondrán de uno a tres años de prisión y multa de cien a trescientos días de salario.
+Cuando el hostigamiento lo realice el agente valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes o cualquier otra que implique una relación de subordinación, se le impondrán de uno a tres años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
 
-Si el asediador fuese servidor público y utilice los medios o circunstancias que el encargo le proporcione, además de la sanción prevista en el párrafo anterior se le destituirá de su cargo.
+Si el hostigador fuese servidor público y utilice los medios o circunstancias que el encargo le proporcione, además de la sanción prevista en el párrafo anterior se le destituirá de su cargo.
+
+El delito previsto en este artículo será perseguido por querella de parte.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 167 bis.- Al que con fines sexuales acose a una persona, a pesar de su oposición manifiesta, se le impondrán de seis meses a dos años de prisión y multa de cien a doscientas Unidades de Medida y Actualización.
+
+Se entiende por acoso sexual una forma de violencia sin que exista una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar, pero en que el agresor, con fines sexuales, usa poder que conlleva a un estado de indefensión y riesgo de la víctima.
 
 El delito previsto en este artículo será perseguido por querella de parte.
 
@@ -1671,7 +1689,7 @@ El delito previsto en este artículo será perseguido por querella de parte.
 
 ###### Artículo 168.
 
-A quien sin consentimiento de una persona ejecute en ella o la obligue a ejecutar un acto con fines sexuales o lascivos sin llegar a la cópula o a observar cualquier acto sexual o de lascivia, se le impondrán de un mes a dos años de prisión y multa de cien a trescientos días de salario.
+A quien sin consentimiento de una persona ejecute en ella o la obligue a ejecutar un acto con fines sexuales o lascivos sin llegar a la cópula o a observar cualquier acto sexual o de lascivia, se le impondrán de seis meses a dos años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
@@ -2269,7 +2287,7 @@ Artículo 214 ter.- Estos delitos se perseguirán por querella, salvo el caso pr
 
 ### CAPÍTULO III. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 215.
 
@@ -2387,11 +2405,11 @@ El delito de incumplimiento de obligaciones alimentarias, se perseguirá por que
 
 Cuando el sujeto pasivo sea persona diversa al cónyuge, concubina o concubinario o cualquiera otro con quien mantenga, relación de pareja, el perdón que aquel otorgue a favor del sujeto activo sólo surtirá efecto legal si éste cubre los alimentos no suministrados y garantiza, satisfactoriamente a juicio del juez, el pago oportuno de sus obligaciones futuras.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 222.
 
-A quien renuncie a su empleo o solicite licencia sin goce de sueldo y sea éste el único medio de obtener ingresos o se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrán de seis meses a tres años de prisión y multa de trescientos a un mil días de salario, suspensión o pérdida de los derechos de familia y pago, como reparación del daño, de las cantidades no suministradas oportunamente.
+A quien renuncie a su empleo o solicite licencia sin goce de sueldo y sea éste el único medio de obtener ingresos o se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrán de uno a tres años de prisión y multa de trescientas a un mil Unidades de Medida y Actualización, suspensión o pérdida de los derechos de familia y pago, como reparación del daño, de las cantidades no suministradas oportunamente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
@@ -2405,9 +2423,11 @@ Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en de
 
 ###### Artículo 224.
 
-Se entiende por violencia familiar la omisión o el acto de poder, recurrente, intencional y cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional o sexualmente a cualquier miembro de la familia que cohabite en el mismo domicilio, realizado por quien con él tenga parentesco de consanguinidad o afinidad en línea recta ascendente o descendente sin limitación de grado, parentesco de consanguinidad colateral hasta el cuarto grado, cónyuge, concubina o concubinario, pareja de hecho, por una relación de tutela o curatela, y que tenga por efecto causar daño en cualquiera de las clases señaladas en la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Campeche.
+Se entiende por violencia familiar la omisión o el acto de poder, recurrente, intencional y cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicológica o sexualmente a cualquier miembro de la familia que cohabite en el mismo domicilio, realizado por quien con él tenga parentesco de consanguinidad o afinidad en línea recta ascendente o descendente sin limitación de grado, parentesco de consanguinidad colateral hasta el cuarto grado, cónyuge, concubina o concubinario, pareja de hecho, por una relación de tutela o curatela, y que tenga por efecto causar daño en cualquiera de las clases señaladas en la Ley de Prevención y Atención de la Violencia lntrafamiliar para el Estado de Campeche.
 
-Al que cometa este delito se le impondrán de seis meses a cinco años de prisión, suspensión o pérdida de los derechos de familia y hereditarios y, a criterio de la autoridad jurisdiccional competente, la prohibición de acudir o residir en lugar determinado. En todo caso, se aplicará al victimario un tratamiento psicológico o psiquiátrico, en su caso.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Al que cometa este delito se le impondrán de uno a cinco años de prisión, suspensión o pérdida de los derechos de familia y hereditarios y, a criterio de la autoridad jurisdiccional competente, la prohibición de acudir o residir en lugar determinado. En todo caso, se aplicará al victimario un tratamiento psicológico o psiquiátrico, en su caso.
 
 La educación o formación del menor de edad o incapaz no será, en ningún caso, considerada justificante de maltrato.
 
@@ -4256,3 +4276,19 @@ P.O. 12 DE JULIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 302 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 161, 162 Y 163 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 309 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 164; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO III "ASEDIO SEXUAL" DEL TÍTULO SEGUNDO, PARA QUEDAR COMO CAPÍTULO III "HOSTIGAMIENTO Y ACOSO SEXUAL"; SE REFORMAN LOS ARTÍCULOS 167; 168; EL PÁRRAFO PRIMERO DEL ARTÍCULO 222; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 224; Y SE ADICIONA UN ARTÍCULO 167 BIS AL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
