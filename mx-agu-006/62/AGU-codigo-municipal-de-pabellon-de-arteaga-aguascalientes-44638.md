@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2018-03-26"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -2401,9 +2401,13 @@ b.3.- Departamento de Recaudación;
 
 IV.- Dirección Jurídica:
 
-V.- Dirección de Seguridad Pública y Vialidad;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-a).- Subdirección de Seguridad Púbica (sic);
+V. Dirección de Seguridad Pública y Vialidad;
+
+a).- Subdirección de Seguridad Púbica;
+
+a.1.- Departamento de Asuntos Internos;
 
 b).- Subdirección de Vialidad;
 
@@ -9261,15 +9265,17 @@ La comisión podrá solicitar al Instituto del Agua del Estado, la asesoría, ap
 
 La Comisión podrá solicitar al Instituto del Agua del Estado, su coadyuvancia en las gestiones de financiamiento y planeación de obras para la captación, potabilización, conducción, almacenamiento y distribución de agua potable, el alcantarillado, así como el tratamiento de aguas residuales y manejo de lodos.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE TÍTULO CONTABA CON DIECISIETE CAPÍTULOS; Y CON LA REFORMA PUBLICADA EN EL P.O. 3 DE SEPTIEMBRE DE 2018, SE PRECISAN ÚNICAMENTE DIECISÉIS CAPÍTULOS.]</small>
 
-## TITULO QUINTO. DE LA PROTECCION AL AMBIENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+## TITULO QUINTO. DE LA CONSERVACIÓN Y PROTECCIÓN AL AMBIENTE MUNICIPAL
 
-### CAPITULO SEGUNDO. De la Protección, Conservación y Mejoramiento del Ambiente y del Equilibrio Ecológico
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
+### CAPITULO SEGUNDO. De facultades en materia de protección al ambiente
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 648.
 
@@ -9287,435 +9293,309 @@ IV.- Propiciar la preservación, control y mitigación de los contaminantes y su
 
 V.- Coordinar que la política ambiental municipal, se traduzca en una mejor calidad de vida para los habitantes del Municipio.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 649.
 
 Se considera de utilidad pública e interés social:
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 I.- El ordenamiento ecológico dentro del territorio municipal, en los casos previstos por el presente Título y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- El establecimiento de la política y los criterios ambientales particulares del Municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 III.- La creación de jardines, parques y áreas verdes; así como la protección, forestación y reforestación de las áreas naturales del Municipio; y
 
-IV.- Las demás acciones que se realicen para dar cumplimiento a los fines del presente Título, sin perjuicio de las atribuciones que le competen a la Federación y al Estado.
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+IV.- Crear y administrar áreas naturales protegidas de jurisdicción municipal, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+V.- Las demás acciones que se realicen para dar cumplimiento a los fines del presente Título, sin perjuicio de las atribuciones que le competen a la Federación y al Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 650.
 
 Para los efectos del presente Título, se entiende por:
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 I.- AMBIENTE.- El conjunto de elementos naturales o inducidos por el hombre que interactúan en un espacio y tiempo determinados;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- APROVECHAMIENTO RACIONAL: La utilización de elementos naturales en forma eficiente, socialmente útil y que procure la preservación de éstos así como la del medio;
 
-III.- AREAS NATURALES PROTEGIDAS: Aquellas zonas del territorio municipal sobre las que el Municipio ejerce su soberanía y jurisdicción, en donde los ecosistemas originales no han sido significativamente alterados por la actividad del hombre y que han quedado sujetas al régimen jurídico de protección que establece la Ley de Protección del Ambiente del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+III.- ÁREAS NATURALES PROTEGIDAS: Aquellas zonas del territorio municipal sobre las que el Municipio ejerce su soberanía y jurisdicción, en donde los ecosistemas originales no han sido significativamente alterados por la actividad del hombre y que han quedado sujetas al régimen jurídico de protección que establece la Ley de Protección del Ambiente del Estado de Aguascalientes; Dichas áreas podrán tener las siguientes categorías:
+
+a) Refugio de Flora y Fauna Municipal.- Son áreas enfocadas a proteger la biodiversidad, tanto de flora como de fauna silvestre así como los rasgos geológicos/geomorfológicos en las cuales el uso y los impactos están regulados, controlados y limitados para asegurar su conservación. En estas áreas protegidas se promueve la investigación científica, el monitoreo biológico, pero también acciones de educación ambiental, uso público y manejo sustentable. Su objetivo primario es conservar especies y/o rasgos de geodiversidad. Otros objetivos son conservar ecosistemas, especies y rasgos de geosistemas, minimizar las perturbaciones mediante una planeación y ejecución de actividades y conservar los valores culturales y espirituales asociados a la naturaleza;
+
+b) Monumento Natural Municipal.- Se establecen para proteger un monumento natural concreto, que puede ser una formación terrestre, un rasgo geológico como una cueva o una barranca o incluso un elemento vivo como una zona arbolada natural o un árbol considerado como antiguo. Su objetivo primario es proteger rasgos naturales sobresalientes y la biodiversidad y los hábitats asociados a ellos. Otros objetivos son: proporcionar protección a la biodiversidad en paisajes terrestres que en ausencia de ella sufrirían cambios sustanciales; proteger lugares naturales específicos con valores espirituales y/o culturales cuando estos también cuentan con valores de biodiversidad y conservar los valores espirituales y culturales tradicionales del lugar, y
+
+c) Corredor Biológico Municipal.- Se establecen para proteger zonas que fungen como un espacio para el desplazamiento de la fauna silvestre, a través de la presencia de flora silvestre nativa. Pueden ser zonas de ríos, arroyos, arboledas que delimitan campos agrícolas o masas forestales de especies nativas. Estas áreas podrían requerir intervenciones activas para mantener o restaurar hábitats. Su objetivo primario es mantener, conservar y restaurar especies y hábitats. Otros objetivos son el proteger patrones de vegetación u otros rasgos biológicos mediante enfoques de gestión tradicionales; proteger fragmentos de hábitats del paisaje terrestre y desarrollar acciones de educación ambiental y fomentar el aprecio por las especies y/o hábitats;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IV.- PAISAJE: Todo lo que está a nuestro alrededor, ya sea un paisaje natural, compuestos por flora, fauna, agua, aire y suelo, o uno artificial, en el que además de los elementos anteriores, se encuentran los creados por el hombre;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 V.- CONTAMINACION: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que causen desequilibrio ecológico;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VI.- CONTAMINANTE: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VII.- CONTINGENCIA AMBIENTAL: Situación de riesgo, derivada de actividades humanas o fenómenos naturales que pueden poner en peligro la integridad de uno o varios ecosistemas;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VIII.- CONTROL: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IX.- CORRECCION: La modificación de los procesos causales del deterioro ambiental, para ajustarlos a la normatividad que la ley prevé para cada caso en particular;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 X.- CONSERVACION: Conjunto de políticas y medidas orientadas a mantener la diversidad biológica y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XI.- DESARROLLO SUSTENTABLE: Tipo de desarrollo que satisface las necesidades de las generaciones presentes, sin comprometer la capacidad de satisfacer las necesidades de las generaciones futuras;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XII.- DESEQUILIBRIO ECOLOGICO: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente y que afectan negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XIII.- DETERIORO AMBIENTAL: La afectación de la calidad del ambiente, en la totalidad o en parte de los elementos que lo integran, y que origina disminución de la diversidad biótica así como la alteración de los procesos naturales en los sistemas ecológicos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIV.- DIVERSIDAD BIOTICA: La totalidad de la flora y fauna silvestres, acuáticas y terrestres que forman parte de un ecosistema;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XV.- ECOSISTEMAS: La unidad funcional básica de integración de los organismos vivos entre sí y de éstos con el ambiente que los rodea en un espacio y tiempo determinados;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XVI.- ELEMENTO NATURAL: El componente físico, químico y/o biológico presente en el ambiente sin la inducción del hombre.
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XVII.- EQUILIBRIO ECOLOGICO: La relación de interdependencia entre los elementos que conforma el ambiente que hace posible la existencia, transformación y desarrollo del hombre y de los demás seres vivos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XVIII.- EXPLOTACION: El uso indiscriminado de los recursos naturales renovables, que tiene como consecuencia un cambio importante en el equilibrio de los ecosistemas;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XIX.- FAUNA: Vida animal permanente y/o migratoria que existe en el territorio municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XX.- FLORA: Vida vegetal que existe en el territorio municipal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXI.- IMPACTO AMBIENTAL: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXII.- LEY ESTATAL: La Ley de Protección al Ambiente del Estado de Aguascalientes;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXIII.- LEY FEDERAL: La Ley General de Equilibrio Ecológico y Protección al Ambiente;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXIV.- MANIFESTACION DEL IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios el impacto ambiental que generaría una obra o actividad, así como la forma de evitarlo o mitigarlo en caso de que sea negativo;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXV.- MARCO AMBIENTAL: La descripción del ambiente físico y la diversidad biológica, incluyendo los aspectos socioeconómicos del sitio donde se pretende llevar a cabo un proyecto de obras y sus áreas de influencia y, en su caso, una predicción de las condiciones ambientales que prevalecerían si el proyecto no se llevará a cabo;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXVI.- ORDENAMIENTO ECOLOGICO: El proceso de planeación físico-social y ambiental, dirigido a evaluar y programar el uso del suelo y manejo de los recursos naturales en el territorio municipal, para preservar y restaurar el equilibrio ecológico y proteger el ambiente;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXVII.- PLANEACION AMBIENTAL: La formulación, instrumentación, control y evaluación de acciones gubernamentales y no gubernamentales tendientes a lograr el ordenamiento racional del ambiente;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXVIII.- PRESERVACION: El conjunto de medidas y acciones para mantener las condiciones que propician la evolución y continuidad de los procesos naturales;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXIX.- PREVENCION: La disposición y aplicación de medidas anticipadas, tendientes a evitar daños al ambiente;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXX.- PROTECCION: El conjunto organizado de medidas y actividades tendientes a lograr que el ambiente se mantenga en condiciones propicias para el desarrollo pleno de los ecosistemas;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXXI.- RECURSO NATURAL: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXXII.- REGION ECOLOGICA: La unidad del territorio municipal que comparte características ambientales comunes;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXXIII.- RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fin de darles un nuevo uso;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXXIV.- RESIDUOS: Cualquier material generado de los procesos de extracción, conducción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en los procesos que lo generaron;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXXV.- RESIDUOS PELIGROSOS: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables, biológicas, infecciosas o irritantes representan un peligro para el equilibrio ecológico o para el ambiente;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXXVI.- RESIDUOS SOLIDOS MUNICIPALES: Son los residuos que se generan en casas habitación, parques, jardines, vías públicas, oficinas, sitios de reunión, mercados, demoliciones, construcciones, instituciones educativas, establecimientos comerciales y de servicios en general, todos aquellos generados en los espacios públicos de los centros de población;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXXVII.- AGUAS RESIDUALES: Las aguas provenientes de actividades domésticas; industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana y a las que por el uso recibido, se le hayan incorporado contaminantes en detrimento de su calidad original:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXXVIII.- RESTAURACION: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXXIX.- REUSO: Es la acción de aprovechar un residuo sin un proceso previo de transformación;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XL.- VOCACION NATURAL: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XLI.- VERIFICACION VEHICULAR: Es la medición de la cantidad de contaminantes atmosféricos emitidos por las fuentes móviles;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XLII.- PROFEPA: Procuraduría Federal de Protección al Ambiente; y
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XLIII.- CALIDAD DE VIDA. Nivel de bienestar que se alcanza en un ambiente ecológicamente adecuado, que satisface las necesidades básicas y emocionales del ser humano, en cuanto a cantidad y calidad.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPITULO TERCERO. De la Prevención y Control Ambiental
+### CAPITULO TERCERO. De la Política Ambiental
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 651.
+###### ARTÍCULO 651.
 
-El Ayuntamiento, a través del departamento de Ecología, desarrollará acciones diversas para la preservación ambiental y control de efectos contaminantes, así como de los factores causales del deterioro ecológico que se susciten en el Municipio de Pabellón de Arteaga.
+Para la prevención, protección y conservación del equilibrio ecológico en el municipio corresponde a las autoridades municipales:
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+I.- Cumplir y hacer cumplir las diversas disposiciones contenidas en el presente Título referente a la preservación, protección, control del ambiente y al desarrollo sustentable del Municipio, independientemente de las facultades que le reconozcan las disposiciones federales y estatales en materia ambiental;
 
-### CAPITULO CUARTO. De la Participación Social
+II.- Desarrollar acciones para la preservación ambiental y el control de los factores causales del deterioro ecológico en el Municipio;
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+III.- efectuar las verificaciones necesarias a obras y actividades que pretendan realizar personas físicas o morales, que puedan producir contaminación o deterioro ambiental;
+
+IV.- Determinar, conjuntamente con el Instituto de Medio Ambiente del Estado en base a estudios y análisis realizados por éstos, la limitación, modificación o suspensión de actividades industriales, comerciales o de servicios, desarrollos urbanos, turísticos y todas aquellas actividades que puedan causar deterioro ambiental, o bien que alteren la calidad del paisaje o comprometan el desarrollo sustentable dentro de la circunscripción del Municipio;
+
+V.- Proteger el ambiente dentro del territorio municipal, coordinando sus acciones con el Gobierno del Estado y la Federación;
+
+VI.- Promover y fomentar la educación, conciencia e investigación para la protección del ambiente y conservación de los recursos naturales, con la participación de las instituciones educativas, la ciudadanía y las organizaciones sociales y demás sectores representativos del Municipio;
+
+VII.- Elaborar y ejecutar el Programa Municipal de Protección al Ambiente, en congruencia con el Programa Estatal;
+
+VIII.- Constituir el Consejo Municipal de Protección al Ambiente y expedir su Reglamento Interno;
+
+IX.- Colaborar con la Procuraduría Estatal de Protección al Ambiente para retirar de la circulación los vehículos automotores, que rebasen los límites máximos permisibles de emisiones contaminantes a la atmósfera, conforme lo establezcan los reglamentos y normas ecológicas aplicables;
+
+X.- Proteger el ambiente de los diversos centros de población, respecto de los efectos negativos derivados de los servicios públicos municipales;
+
+XI.- Participar concurrentemente con las autoridades responsables en la materia, para analizar la reubicación de las industrias que se encuentren en zonas habitacionales y urbanas, cuando se afecte ecológicamente a la sociedad del Municipio;
+
+XII.- Regular, promover, restringir, prohibir, orientar e inducir la participación de los particulares en acciones económicas y sociales, donde se observen los criterios de preservación, conservación, instauración y restauración del equilibrio ecológico;
+
+XIII.- Ordenar la realización de visitas de inspección, con el objeto de constatar el cumplimiento de la normatividad ambiental en el ámbito de su competencia;
+
+XIV.- Vigilar las áreas naturales que así lo requieran y que se encuentren dentro del Municipio;
+
+XV.- Verificar los terrenos o predios baldíos en los que se acumulen desechos sólidos o prolifere la fauna nociva, que atente contra la salud, el ambiente y/o el equilibrio ecológico;
+
+XVI.- Verificar los establecimientos comerciales, industriales o de servicios que se encuentren dentro del Municipio y produzcan contaminantes que alteren la atmósfera en perjuicio de la salud y la vida, o causen daños ecológicos;
+
+XVII.- Verificar la tala y poda de árboles ubicados en la vía pública, parques, jardines y bienes de dominio público, también autorizar observando otros reglamentos aplicables;
+
+XVIII.- Dictar las medidas de seguridad para prevenir y controlar la contaminación del ambiente, causada por fuentes que no sean jurisdicción Estatal o Federal dentro del territorio municipal, de conformidad con las leyes de la materia y el presente Código.; (sic)
+
+XIX.- Prevenir y controlar la contaminación de la atmósfera, generada por fuentes que no sean de jurisdicción Estatal o Federal;
+
+XX.- Prevenir y controlar la contaminación de aguas que tengan asignadas o concesionadas para la prestación de servicios públicos, y de las que se descarguen en el sistema municipal de drenaje y alcantarillado de los centros de población del Municipio, sin perjuicio de las facultades que tengan el Estado y la Federación en esta materia;
+
+XXI.- Prevenir y controlar la contaminación originada por ruido, vibraciones, energía térmica y lumínica, así como olores, perjudiciales al ambiente generadas por fuentes que no sean de jurisdicción Estatal o Federal;
+
+XXII.- Regular y controlar el manejo de los residuos sólidos, ya sean domésticos, urbanos, de servicios, agropecuarios o de actividades extractivas, con el objeto de que se recolecten y se disponga de ellos conforme a las normas establecidas. Así como participar en el control de los residuos industriales no peligrosos;
+
+XXIII.- Vigilar las áreas ecológicas que así lo requieran y que se encuentren dentro del Municipio;
+
+XXIV.- Promover, organizar y desarrollar programas para mejorar la calidad del aire, agua, suelo y subsuelo, flora y fauna silvestres, así como de aquellas áreas cuyo grado de deterioro se considere peligroso para el ambiente y/o la salud pública de los habitantes del Municipio;
+
+XXV.- Establecer los mecanismos y operativos necesarios para la prevención y control de emergencias ecológicas y/o contingencias ambientales;
+
+XXVI.- Establecer criterios y mecanismos de prevención y control ambiental, derivados de la prestación de servicios públicos, de carácter municipal o privado;
+
+XXVII.- Regular y controlar con fines ambientales, el aprovechamiento de los minerales o sustancias no reservadas al Estado o la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su descomposición que puedan utilizarse para la fabricación de materiales para la construcción u ornamento;
+
+XXVIII.- Incorporar en las licencias municipales de construcción y funcionamiento que tengan como objetivo la realización de obra o actividades que produzcan o puedan producir impacto o riegos ambientales significativos, el resultado del dictamen emitido por la autoridad competente como medio de prevención y control del ambiente y del equilibrio ecológico;
+
+XXIX.- Verificar los terrenos o predios baldíos en los que se acumulen desechos sólidos o prolifere la fauna nociva, que atente contra la salud, el ambiente y/o el equilibrio ecológico;
+
+XXX.- Verificar los establecimientos comerciales, industriales o de servicios que se encuentren dentro del Municipio y produzcan contaminantes que alteren la atmósfera en perjuicio de la salud y la vida, o causen daños ecológicos;
+
+XXXI.- Autorizar y verificar la tala y poda de árboles ubicados en la vía pública, parques, jardines, bienes de dominio público y predios de propiedad particular ubicados en las zonas urbanas del municipio;
+
+XXXII.- Establecer las acciones y restricciones que en materia ecológica deban aplicarse en el territorio del Municipio que permitan realizar la prevención, control y mitigación de contaminantes, así como señalar los requisitos que habrán de observarse para evitar el deterioro ambiental, y
+
+XXXIII.- Las demás que le confieran otros ordenamientos jurídicos en la materia.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO CUARTO. De la Planeación Ambiental
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 652.
 
-Corresponde al Presidente Municipal, a través del Departamento de Ecología, cumplir y hacer cumplir las diversas disposiciones contenidas en el presente Título referente a la preservación, protección, control del ambiente y al desarrollo sustentable del Municipio, independientemente de las facultades que le reconozcan las disposiciones federales y estatales en materia ambiental.
+La Política Ambiental Municipal, es el conjunto de criterios, objetivos, planes, programas y acciones establecidos por el Ayuntamiento con base en estudios técnicos, científicos, sociales y económicos, que permitan orientar las actividades públicas hacia la utilización, regeneración, preservación racional y sustentable de los recursos naturales con que cuenta el Municipio, fomentando el equilibrio ecológico y la protección ambiental.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+La política ambiental municipal será formulada, conducida y evaluada en congruencia con la política Estatal y Federal.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 653.
 
-El Presidente Municipal, a través del Departamento de Ecología, realizará las verificaciones necesarias a obras y actividades de su competencia que pretendan realizar personas físicas o morales, que puedan producir contaminación o deterioro ambiental, y en todo momento tendrá facultades para resolver su aprobación, modificación o rechazo, con base en la información relativa a la manifestación y descripción del impacto ambiental.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-### CAPITULO QUINTO. De la Denuncia Popular
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 654.
-
-El Instituto de Medio Ambiente del Estado y el Municipio, podrán determinar, conjuntamente en base a estudios y análisis realizados por éstos, la limitación, modificación o suspensión de actividades industriales, comerciales o de servicios, desarrollos urbanos, turísticos y todas aquellas actividades que puedan causar deterioro ambiental, o bien que alteren la calidad del paisaje o comprometan el desarrollo sustentable dentro de la circunscripción del Municipio siempre y cuando sean de su competencia.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 655.
-
-Para proteger y conservar el equilibrio ecológico dentro del Municipio de Pabellón de Arteaga, el Ayuntamiento a través del Departamento de Ecología tendrá las siguientes atribuciones:
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-I.- La preservación y restauración del equilibrio ecológico y la protección al ambiente, que se realicen en bienes y zonas de la jurisdicción del Municipio, salvo cuando se refieran a asuntos reservados al Gobierno del Estado o a la Federación;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-II.- Proteger el ambiente dentro del territorio municipal, coordinando sus acciones con el Gobierno del Estado y la Federación;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-III.- Promover y fomentar la educación, conciencia e investigación para la protección del ambiente y conservación de los recursos naturales, con la participación de las instituciones educativas, la ciudadanía y las organizaciones sociales y demás sectores representativos del Municipio;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-IV.- Elaborar y ejecutar el Programa Municipal de Protección al Ambiente, en congruencia con el Programa Estatal;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-V.- Constituir el Consejo Municipal de Protección al Ambiente y expedir su Reglamento Interno;
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
-
-VI.- Colaborar con la Procuraduría Estatal de Protección al Ambiente para retirar de la circulación los vehículos automotores, que rebasen los límites máximos permisibles de emisiones contaminantes a la atmósfera, conforme lo establezcan los reglamentos y normas ecológicas aplicables;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-VII.- Proteger el ambiente de los diversos centros de población, respecto de los efectos negativos derivados de los servicios públicos municipales;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-VIII.- Participar concurrentemente con las autoridades responsables en la materia, para analizar la reubicación de las industrias que se encuentren en zonas habitacionales y urbanas, cuando se afecte ecológicamente a la sociedad del Municipio;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-IX.- Regular, promover, restringir, prohibir, orientar e inducir la participación de los particulares en acciones económicas y sociales, donde se observen los criterios de preservación, conservación, instauración y restauración del equilibrio ecológico;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-X.- Ordenar la realización de visitas de inspección, con el objeto de constatar el cumplimiento de las normatividad ambiental que sean de su competencia, así como del presente Título;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-XI.- Vigilar las áreas naturales que así lo requieran y que se encuentren dentro del Municipio;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-XII.- Verificar los terrenos o predios baldíos en los que se acumulen desechos sólidos o prolifere la fauna nociva, que atente contra la salud, el ambiente y/o el equilibrio ecológico;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-XIII.- Verificar los establecimientos comerciales, industriales o de servicios que se encuentren dentro del Municipio y produzcan contaminantes que alteren la atmósfera en perjuicio de la salud y la vida, o causen daños ecológicos;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-XIV.- Verificar la tala y poda de árboles ubicados en la vía pública, parques, jardines y bienes de dominio público, también autorizar observando otros reglamentos aplicables;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
-
-XV.- Las demás inspecciones, visitas y verificaciones necesarias para el cumplimiento de la Ley General del Equilibrio Ecológico, de la Ley de protección ambiental para el Estado, del Bando Municipal y el presente Título y los respectivos manuales que realizara el municipio; y
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-XVI.- Las demás que le confieran el presente Código y demás ordenamientos jurídicos en la materia.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-### CAPITULO SEXTO. De la Política Ambiental
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 656.
-
-Es facultad del Ayuntamiento a través del departamento de Ecología dictar las medidas de seguridad para prevenir y controlar la contaminación del ambiente, causada por fuentes que no sean jurisdicción Estatal o Federal dentro del territorio municipal, de conformidad con las leyes de la materia y el presente Código.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
-
-###### ARTICULO 657.
-
-Para la prevención del deterioro ambiental dentro del municipio, el Ayuntamiento establecerá los criterios y medidas necesarias para:
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-I.- Prevenir y controlar la contaminación de la atmósfera, generada por fuentes que no sean de jurisdicción Estatal o Federal;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-II.- Prevenir y controlar la contaminación de aguas que tengan asignadas o concesionadas para la prestación de servicios públicos, y de las que se descarguen en el sistema municipal de drenaje y alcantarillado de los centros de población del Municipio, sin perjuicio de las facultades que tengan el Estado y la Federación en esta materia;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-III.- Prevenir y controlar la contaminación originada por ruido, vibraciones, energía térmica y lumínica, así como olores, perjudiciales al ambiente generadas por fuentes que no sean de jurisdicción Estatal o Federal;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-IV.- Regular y controlar el manejo de los residuos sólidos, ya sean domésticos, urbanos, de servicios, agropecuarios o de actividades extractivas, con el objeto de que se recolecten y se disponga de ellos conforme a las normas establecidas. Así como participar en el control de los residuos industriales no peligrosos;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-V.- Vigilar las áreas ecológicas que así lo requieran y que se encuentren dentro del Municipio;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-VI.- Promover, organizar y desarrollar programas para mejorar la calidad del aire, agua, suelo y subsuelo, flora y fauna silvestres, así como de aquellas áreas cuyo grado de deterioro se considere peligroso para el ambiente y/o la salud pública de los habitantes del Municipio;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-VII.- Establecer los mecanismos y operativos necesarios para la prevención y control de emergencias ecológicas y/o contingencias ambientales;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-VIII.- Establecer criterios y mecanismos de prevención y control ambiental, derivados de la prestación de servicios públicos, de carácter municipal o privado;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-VIII (SIC).- Regular y controlar con fines ambientales, el aprovechamiento de los minerales o sustancias no reservadas al Estado o la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su descomposición que puedan utilizarse para la fabricación de materiales para la construcción u ornamento;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-IX.- Incorporar en las licencias municipales de construcción y funcionamiento que tengan como objetivo la realización de obra o actividades que produzcan o puedan producir impacto o riegos ambientales significativos, el resultado del dictamen emitido por la autoridad competente como medio de prevención y control del ambiente y del equilibrio ecológico;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-X.- Verificar los terrenos o predios baldíos en los que se acumulen desechos sólidos o prolifere la fauna nociva, que atente contra la salud, el ambiente y/o el equilibrio ecológico;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-XI.- Verificar los establecimientos comerciales, industriales o de servicios que se encuentren dentro del Municipio y produzcan contaminantes que alteren la atmósfera en perjuicio de la salud y la vida, o causen daños ecológicos;
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
-
-XII.- Autorizar y verificar la tala y poda de árboles ubicados en la vía pública, parques, jardines, bienes de dominio público y predios de propiedad particular ubicados en las zonas urbanas del municipio;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-XIII.- Realizar las demás inspecciones, visitas y verificaciones necesarias para el cumplimiento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley Estatal, del presente Código; y
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-XIV.- Las demás que le confieran otros ordenamientos jurídicos en la materia.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 658.
-
-El Ayuntamiento, a través del Departamento de Ecología, promoverá la participación solidaria y responsable de los habitantes del municipio en la política ambiental y en la observancia del presente título y demás disposiciones jurídicas de la materia, por medio de acciones de difusión y vigilancia de los trabajos que en materia ecológica se realicen dentro de la jurisdicción municipal.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 659.
-
-La preservación y aprovechamiento racional de los recursos naturales dentro del Municipio, son de orden público e interés social e implica una corresponsabilidad social en la que tanto las autoridades municipales como vecinos; transeúntes del Municipio son responsables solidarios en la atención, solución, control y prevención de los problemas ambientales, por lo que deberán participar y colaborar en las tareas de mejoramiento del ambiente y sugerir programas de carácter ecológico a las autoridades competentes.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 660.
-
-El Consejo Municipal de Protección al Ambiente es un cuerpo colegiado de asesoría, asistencia técnica, de apoyo, consulta y opinión, de promoción y gestión para el mejoramiento del ambiente, en el que participarán los sectores público, privado y social del Municipio. El Consejo estará presidido por el Presidente Municipal y tendrá amplia coordinación con el Consejo Consultivo Estatal de Gestión Ambiental.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 661.
-
-El Ayuntamiento convocará en el ámbito territorial de su jurisdicción, a representantes de organizaciones obreras, empresariales, de campesinos, de productores agropecuarios, de las comunidades, de instituciones educativas y de investigación de instituciones privadas y de otros representantes de la sociedad, en el seno del Consejo Municipal de Protección al Ambiente para que manifiesten su opinión y propuestas para la formulación de la política ambiental municipal, promoviendo la participación y corresponsabilidad de la sociedad en las acciones que en materia de ecología emprenda.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 662.
-
-El Ayuntamiento, a través del Departamento de Ecología, podrá celebrar convenios de concertación y participación social con particulares, grupos interesados y organizaciones sociales, instituciones privadas de carácter no lucrativo e instituciones educativas a fin de fomentar y mejorar la protección del ambiente para que en la sede o ámbito de influencia de los mismos, participen responsablemente en la protección del ambiente y restauración del equilibrio ecológico.
-
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
-
-###### ARTICULO 663.
-
-El Ayuntamiento, a través del Departamento de Ecología, promoverá reconocimientos públicos a ciudadanos, grupos o instituciones que de manera altruista se distingan por su labor en la protección, instauración y restauración del ambiente y equilibrio ecológico.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 664.
-
-El Consejo Municipal de Protección al Ambiente, podrá recibir denuncias por actos u omisiones realizados por cualquier persona que contravenga las disposiciones legales dictadas en la materia, asimismo servirá de enlace entre el particular y las autoridades municipales, estatales y federales, para gestionar la solución de la problemática ambiental; también promoverá permanentemente la participación ciudadana y la formación de una auténtica cultura ecológica entre los habitantes del Municipio.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 665.
-
-El Consejo Municipal de Protección al Ambiente se integrará por:
-
-I.- Presidente: Que será el Presidente Municipal;
-
-II.- Secretario: Que será un ciudadano destacado del Municipio preocupado por la protección ambiental; que no sea servidor público y que sea propuesto al Consejo por el Presidente Municipal;
-
-III.- Coordinador técnico: Que será el Jefe del Departamento de Ecología; y
-
-IV.- Vocales:
-
-a) El Regidor de la Comisión de Planeación y Desarrollo sustentable;
-
-b) Un representante del Consejo de Participación Ciudadana;
-
-c) Un representante de los diversos sectores económicos del municipio;
-
-d) Un representante de las instituciones educativas del municipio;
-
-e) Un representante de los delegados, subdelegados y comisarios municipales;
-
-f) Un representante del Instituto Estatal del Medio Ambiente; y
-
-g) Representantes de las dependencias federales y estatales relacionadas con la materia y que acepten formar parte del Consejo.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 666.
-
-El Consejo Municipal de Protección al Ambiente promoverá la creación de un fondo financiero a cargo del Ayuntamiento, que sirva de apoyo para solventar las necesidades y erogaciones derivadas de la protección al ambiente; el cual podrá ser incrementado con las aportaciones de las organizaciones que tengan interés en la materia.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 667.
-
-La denuncia popular es el acto en virtud del cual una persona física o moral hace del conocimiento a la autoridad municipal, la verificación o comisión de posibles ilícitos relativos a las fuentes de contaminación y desequilibrio ecológico, que pudieran repercutir en daños ecológicos a la población señalando en su caso a él o los presuntos responsables para la aplicación de las sanciones previstas en el presente Título y demás leyes relacionadas con la materia.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 668.
-
-La denuncia popular podrá presentarse ante el Departamento de Ecología o ante el Consejo Municipal de Protección al Ambiente quienes le darán seguimiento, mediante previo trámite e investigación otorgará respuesta al denunciante, en un plazo no mayor de 10 días hábiles a la fecha de su recepción.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-### CAPITULO SEPTIMO. De la Planeación Ambiental
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 669.
-
-Si la denuncia popular resultare de competencia federal o estatal, El Departamento de Ecología o el Consejo Municipal de Protección Ambiental, remitirán para su atención y trámite a la autoridad competente, en un plazo que no exceda de 5 días hábiles a partir de la fecha de su recepción, informando de ello por escrito al denunciante.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 670.
-
-El departamento de Ecología, requiere para darle curso y seguimiento a la denuncia popular los siguientes requisitos por escrito:
-
-I.- Ubicación de la posible fuente de contaminación, calle, número, colonia y Código postal;
-
-II.- Horario aproximado en que se produce la mayor emisión de contaminantes;
-
-III.- Datos de la clase de contaminante que se produce;
-
-IV.-. Datos del presunto(s) responsable(s) en caso de que se conozcan; y
-
-V.- Datos del denunciante para respuesta y seguimiento.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 671.
-
-La PROFEPA o el municipio, inclusive, darán curso y seguimiento a la denuncia, y ordenará a un inspector para que se constituya en el domicilio de la posible fuente de contaminación, a efecto de que proceda a realizar las inspecciones necesarias para la comprobación de la existencia de la contaminación denunciada.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 672.
-
-La Política Ambiental Municipal, es el conjunto de criterios, objetivos, planes, programas y acciones establecidos por el Ayuntamiento con base en estudios técnicos, científicos, sociales y económicos, que permitan orientar las actividades públicas hacia la utilización, regeneración, preservación racional y sustentable de los recursos naturales con que cuenta el Municipio, fomentando el equilibrio ecológico y la protección ambiental.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 673.
-
-El Presidente Municipal formulará, conducirá, evaluará y adecuará la política ambiental, en congruencia con la política Estatal y Federal.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-### CAPITULO OCTAVO. De la Promoción de la Educación Ambiental
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 674.
-
-Para la formulación y conducción de la política ambiental, el Ayuntamiento observará los siguientes principios generales:
+Para la formulación y conducción de la política ambiental se observarán los siguientes principios generales:
 
 I.- Las autoridades municipales, El Departamento de Ecología, el Consejo Municipal de Protección Ambiental y los ciudadanos deben asumir la corresponsabilidad de la protección del equilibrio ecológico;
 
@@ -9731,91 +9611,589 @@ VI.- Los recursos naturales no renovables del Municipio deben utilizarse de modo
 
 VII.- La coordinación del Ayuntamiento con los otros niveles de gobierno y la concertación con la sociedad, son indispensables para la eficacia de las acciones de protección al ambiente y conservación de los recursos naturales dentro del Municipio;
 
-VIII.- Los sujetos principales de la concertación de acciones de mejoramiento ambiental dentro del Municipio son tanto sus habitantes, como el Consejo Municipal de Protección al Ambiente, así como los grupos y organizaciones sociales; el propósito de la concertación de las acciones ecológicas, es orientar la relación entre la sociedad y la naturaleza; y
+VIII.- Los sujetos principales de la concertación de acciones de mejoramiento ambiental dentro del Municipio son tanto sus habitantes, como el Consejo Municipal de Protección al Ambiente, así como los grupos y organizaciones sociales; el propósito de la concertación de las acciones ecológicas, es orientar la relación entre la sociedad y la naturaleza, y
 
 IX.- El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son elementos fundamentales para elevar la calidad de vida dentro del Municipio.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 675.
+### CAPITULO QUINTO. De las Áreas Naturales Protegidas
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 654.
 
 La planeación ecológica municipal, es el conjunto de planes, programas y acciones que fijan prioridades para elegir alternativas, establecer objetivos y metas que permitan controlar y evaluar los procedimientos encaminados a la preservación, protección restauración, preservación y regeneración del ambiente, así como cuidar la relación existente entre la flora y la fauna con su entorno.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 676.
+###### ARTÍCULO 655.
 
 En la planeación ambiental del Municipio deberán observarse los siguientes aspectos:
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
-
 I.- El ordenamiento ecológico es el proceso mediante el cual se obtiene el diagnóstico y pronóstico de la problemática ambiental del Municipio, así como del potencial ecológico de su desarrollo, y
 
-II.- La evaluación del impacto ambiental está enfocada a evitar la realización de obras o actividades públicas y privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en la Legislación Ambiental Federal, Estatal, así como en el presente Título, y en las normas técnicas ecológicas emitidas por otras disposiciones legales.
+II.- La evaluación del impacto ambiental está enfocada a evitar la realización de obras o actividades públicas y privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en la Legislación Ambiental Federal, Estatal, así como en el presente Título, y en las normas técnicas ecológicas emitidas por otras disposiciones legales, y
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+III.- El ordenamiento ecológico municipal considerará que la realización de obras públicas y privadas no deben afectar los recursos naturales de su entorno, salvo que técnicamente sea necesario y se mitiguen y/o compensen los impactos;
 
-###### ARTICULO 677.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-El Ayuntamiento, a través de la Dirección de Servicios Públicos y Mantenimiento y a su vez por conducto del Departamento de Ecología, establecerá las acciones y restricciones que en materia ecológica deba aplicarse en el territorio del Municipio que permitan realizar la prevención, control y mitigación de contaminantes, así como señalar los requisitos que habrán de observarse para evitar el deterioro ambiental.
+### CAPITULO SEXTO. Del Manejo de Áreas Verdes
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPITULO NOVENO. De la Protección y Aprovechamiento Racional del Agua
+###### ARTICULO 656.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+Las áreas naturales protegidas de interés municipal, son aquellas zonas donde coexisten diversas especies de flora y fauna, y que mantienen el equilibrio ecológico y sobre las que ejerce su autoridad el Municipio, mismas que deberán quedar sujetas bajo su protección por considerarse de interés social y utilidad pública.
 
-###### ARTICULO 678.
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-Para el aprovechamiento de los recursos naturales del Municipio, el ordenamiento ecológico municipal considerará, que la realización de obras públicas y privadas cuidarán de no afectar los recursos naturales que existan en su entorno, salvo que técnicamente sea necesario y se mitiguen y/o compensen los impactos.
+ARTICULO 656 BIS.- Son áreas naturales protegidas de jurisdicción municipal:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+I.- Los parques urbanos;
 
-###### ARTICULO 679.
+II.- Las zonas sujetas a preservación ecológica de competencia municipal; y
 
-Para la autorización de las actividades secundarias y de servicios dentro del territorio municipal, el ordenamiento ecológico municipal considerará:
+III.- Las demás que tengan este carácter conforme a las disposiciones legales.
 
-I.- La creación de nuevos centros de población;
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-II.- La creación de recursos territoriales y la determinación de los usos, provisiones y destinos del suelo urbano; y
+ARTÍCULO 656 TER.- Las áreas naturales protegidas de jurisdicción municipal serán establecidas mediante declaratorias expedidas por el Ayuntamiento, de conformidad con la (sic) reglas previstas en el presente capítulo y demás disposiciones legales aplicables en la materia.
 
-III.- La ordenación urbana del territorio municipal y los programas de los Gobiernos Federal, Estatal y Municipal para la infraestructura, equipamiento urbano y vivienda.
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+ARTICULO 656 QUATER.- El establecimiento de áreas naturales protegidas en el territorio de los Municipios, deberá tener por objeto:
 
-###### ARTICULO 680.
+I.- Preservar los ambientes naturales representativos de las diferentes regiones biogeográficas y ecológicas y de los ecosistema más frágiles, para asegurar el equilibrio y la continuidad de los procesos evolutivos-ecológicos;
 
-El ayuntamiento, con el objeto de apoyar las actividades de preservación y protección ambiental, realizará las gestiones necesarias para promover la educación ambiental dentro del Municipio, mediante la participación permanente de la sociedad, y para ello:
+II.- Salvaguardar la diversidad genética de las especies silvestres de las que depende la continuidad evolutiva; así como asegurar la preservación y el aprovechamiento sustentable de la biodiversidad del territorio municipal, en particular preservar las especies que están en peligro de extinción, las amenazadas, las endémicas, las prioritarias y las que se encuentran sujetas a protección especial;
 
-I.- Fomentará el respeto, mantenimiento y acrecentamiento de los parques públicos, urbanos y de barrio, así como del resto de las zonas y áreas verdes de jurisdicción municipal;
+III.- Asegurar el aprovechamiento sustentable de los ecosistemas y sus elementos;
 
-II.- Fomentará el respeto, conocimiento y protección de la flora y fauna doméstica, silvestre y acuática existente en el Municipio;
+IV.- Proporcionar un campo adecuado para la investigación científica, el estudio y el monitoreo de los ecosistemas y su equilibrio, así como para la educación ambiental:
 
-III.- Promoverá y difundirá programas y acciones preventivas entre los habitantes del Municipio, para que los mismos conozcan y comprendan los principales problemas ambientales de su localidad, origen y consecuencias, así como las formas y medios por los cuales se pueden prevenir o controlar;
+Generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradicionales o nuevas que permitan la preservación y el aprovechamiento sustentable de la biodiversidad del territorio municipal:
 
-IV.- Promoverá la toma de conciencia a los habitantes para que a partir de un cambio de actitudes y pautas de conducta coadyuven a la conservación, protección y mejoramiento del ambiente, así como a denunciar a todas aquellas personas físicas o morales, públicas o privadas que atenten contra el medio ambiente;
+V.- Proteger poblados, vías de comunicación, instalaciones industriales y aprovechamientos agrícolas, mediante zonas forestales donde se originen torrentes; el ciclo hidrológico en cuencas, así como las demás que tiendan a la protección de elementos circundantes con los que se relacione ecológicamente el área, y
 
-V.- El Programa Estatal de Educación Ambiental funcionará como una guía de las actividades y acciones que en esta materia se realicen en el Municipio de Pabellón de Arteaga y servirá de base para la elaboración del Programa Municipal de Educación Ambiental;
+VI.- Proteger elementos naturales, árboles, zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas y otras áreas de importancia para la recreación, la cultura e identidad municipal.
 
-VI.- Realizará convenios con instituciones educativas de todos niveles que se encuentren en el Municipio, a efecto de llevar a cabo conferencias, pláticas de orientación y de concientización en materia ecológica;
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-VII.- Promover y estimular la asistencia y participación de los ciudadanos, grupos y organizaciones sociales, en ciclos de conferencias, mesas redondas y foros, con el propósito de coadyuvar con la educación y cultura ecológica de la población en general; y
+###### ARTICULO 657.
 
-VIII.- Realizar concertaciones con instituciones educativas y de investigación para proporcionar esquemas educativos y apoyo profesional en la transmisión de tecnologías y proyectos a la población que lo requiera.
+Para la expedición de las declaratorias de establecimiento de áreas naturales protegidas municipales, se deberán realizar los estudios previos justificativos, mismos que deberán cumplir los requisitos que establece el presente Código y tendrán por finalidad identificar la existencia de zonas del territorio municipal o aquellas sobre las que el mismo ejerza jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que requieren ser preservadas y/o restauradas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 681.
+ARTICULO 657 BIS.- Los estudios previos justificativos a que se refiere el artículo anterior, deberán contener cuando menos lo siguiente:
+
+I.- Información general en la que se incluya:
+
+a).- Nombre del área propuesta;
+
+b).- Ubicación del área propuesta dentro de la entidad federativa y el Municipio;
+
+c).- Superficie;
+
+d).- Vías de acceso;
+
+e).- Mapa a escala que contenga la descripción limítrofe;
+
+f).- Nombre de las organizaciones, instituciones, organizaciones gubernamentales o asociaciones civiles participantes en la elaboración del estudio;
+
+II.- Evaluación ambiental, en donde se señalen:
+
+a).- Descripción general de los ecosistemas, especies o fenómenos naturales que se pretendan proteger;
+
+b).- Razones que justifiquen el régimen de protección;
+
+c).- Estado de conservación de los ecosistemas, especies o fenómenos naturales;
+
+d).- Relevancia, a nivel regional y nacional, de los ecosistemas representados en el área propuesta;
+
+e).- Antecedentes de protección del área, y
+
+f).- Ubicación respecto a las regiones prioritarias para la conservación determinadas por la Comisión Nacional para el conocimiento y uso de la biodiversidad.
+
+III.- Diagnóstico del área, en el que se mencionen:
+
+a).- Características históricas y culturales;
+
+b).- Aspectos socioeconómicos relevantes desde el punto de vista ambiental;
+
+c).- Usos y aprovechamientos, actuales y potenciales de los recursos naturales;
+
+d).- Situación jurídica de la tenencia de la tierra;
+
+e).- Proyectos de investigación que se hayan realizado o que se puedan realizar a partir de la declaratoria que en su caso se expida para protección del área;
+
+f).- Problemática específica que deba tomarse en cuenta, y
+
+g).- Centros de población existentes al momento de elaborar el estudio.
+
+IV.- Propuesta de manejo en la que se especifique:
+
+a).- Zonificación y subzonificación preliminar, basadas en las características y estado de conservación de los ecosistemas, especies o fenómenos naturales que se pretende proteger, aspectos socioeconómicos desde el punto de vista ambiental y usos y aprovechamientos actuales y potenciales de los recursos naturales, y
+
+b).- Propuesta de los esquemas de administración, operación y financiamiento.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 657 TER.- Las organizaciones sociales, públicas o privadas y demás personas interesadas, podrán promover ante el municipio el establecimiento de áreas naturales protegidas municipales destinadas a la preservación o educación ambiental, en terrenos de su propiedad o mediante contrato con terceros. El Departamento de Ecología evaluará la petición para que en su caso se promueva ante el ayuntamiento la expedición de la declaratoria respectiva, presentando el estudio previo justificativo, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de dicha dependencia conforme a sus atribuciones.
+
+Asimismo, los sujetos señalados en el párrafo anterior podrán destinar voluntariamente los predios que les pertenezcan a acciones de conservación de los ecosistemas y su biodiversidad. Para tal efecto podrán solicitar al municipio el reconocimiento respectivo. El ayuntamiento emitirá un certificado que contendrá, por lo menos el nombre del promovente, la denominación del área respectiva, ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y en su caso, el plazo de vigencia. Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público. Para obtener la declaratoria o reconocimiento a que se refiere este artículo, el interesado deberá presentar al Departamento de Ecología la información siguiente:
+
+I.- Datos generales:
+
+a).- Persona física (propietario):
+
+a.1).- Nombre (s);
+
+a.2).- Primer apellido, y
+
+a.3).- Segundo apellido.
+
+b).- Persona moral (propietario):
+
+b.1).- Denominación o razón social.
+
+c).- Representante legal (de ser el caso):
+
+c.1).- Nombre (s);
+
+c.2).- Primer apellido;
+
+c.3).- Segundo apellido;
+
+c.4).- Código postal;
+
+c.5).- Calle;
+
+c.6).- Número exterior:
+
+c.7).- Número interior;
+
+c.8).- Colonia:
+
+c.9).- Ciudad o población;
+
+c.10).-Municipio o delegación;
+
+c.11).- Estado;
+
+c.12).- Clave lada;
+
+c.13).-Teléfono y extensión;
+
+c.14).-Teléfono móvil (opcional), y
+
+c.15).- Correo electrónico (para recibir notificaciones).
+
+II.- Manifestación de la voluntad para destinar voluntariamente el predio a la conservación:
+
+a).- Denominación del predio;
+
+a.1).- Nombre del área a certificada (sic);
+
+a.2).- Nombre del (os) administrador (es);
+
+a.3).- Domicilio del (os) administrador (es);
+
+a.4).- Código postal;
+
+a.5).- Calle;
+
+a.6).- Número exterior;
+
+a.7).- Número interior;
+
+a.8).- Colonia o barrio;
+
+a.9).- Ciudad o población;
+
+a.10).-Municipio o delegación;
+
+a.11).- Entidad federativa;
+
+a.12).- Clave lada;
+
+a.13).-Teléfono local;
+
+a.14).- Extensión;
+
+a.15).-Teléfono móvil (opcional), y
+
+a.16).- Correo electrónico.
+
+b).- Ubicación del predio:
+
+b.1).- Municipio, y
+
+b.2).- Entidad federativa.
+
+c).- Plazo y superficie de certificación:
+
+c.1).- Plazo de certificación (años);
+
+c.2).- Superficie a certificar (hectáreas);
+
+c.3).- Colindancias o delimitación del predio;
+
+c.4).- Descripción de las características físicas y biológicas generales del área, especificando los ecosistemas presentes, especies de flora y fauna relevantes a proteger, clima, topografía e hidrología;
+
+c.5).- Descripción de las características relevantes del área a certificar;
+
+c.6).- Descripción de los ecosistemas en el área a certificar;
+
+c.7).- Fauna registrada en el área a certificar;
+
+c.8).- Flora registrada en el área a certificar;
+
+c.9).- Clima;
+
+c.10).-Topografía, y
+
+c.11).- Hidrografía,
+
+III.- Documentos anexos:
+
+a).- Copia simple de identificación oficial vigente para personas físicas y representantes legales;
+
+b).- Copia simple del acta constitutiva para el caso de personas morales;
+
+c).- Copia simple del documento que acredita al representante legal del promovente;
+
+e) (sic).- Para personas morales poder notarial, solo en caso de que la representación y facultades no se encuentren en el acta constitutiva;
+
+f).- Para el caso de personas físicas carta poder firmada ante dos testigos;
+
+g).- Para ejidos y comunidades, acta de asamblea de elección del comisariado ejidal o comunal en funciones y copia simple del acta de asamblea donde el ejido o comunidad expresa su voluntad de certificar el predio en términos de la Ley Agraria;
+
+h).- Copia simple de (los) documento (s) legal (es) que compruebe (n) la propiedad del predio. Para propiedad privada, escrituras públicas. Para ejidos y comunidades, resolución presidencial dotatoria o restitutoria, resolución jurisdiccional, acta de delimitación de tierras y plano oficial del Registro Agrario Nacional;
+
+i).- Mapa georreferenciado expresado en un sistema de coordenadas UTM, con Datum oficial vigente de acuerdo con el Sistema Geodésico Nacional e integrar el cuadro de construcción en proporciones legibles;
+
+j).- Fotografías que permitan identificar las características del predio a certificar;
+
+k).- Estrategia de manejo para la conservación del predio;
+
+l).- Zonificación del área, precisando la superficie de cada zona;
+
+m).- Acciones de protección, conservación y restauración de los recursos naturales, y
+
+n).- Lineamientos para el uso y aprovechamiento de los recursos naturales del predio.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 657 QUATER.- Una vez establecida un área natural protegida solamente podrá ser modificada en cualquiera de sus disposiciones, por la autoridad que la haya establecido, siguiendo las formalidades y requisitos previstos en este Código.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 658.
+
+Las declaratorias para el establecimiento de las áreas naturales protegidas de competencia municipal deberán publicarse en el Periódico Oficial y contener, por lo menos, los siguientes aspectos:
+
+I.- La delimitación precisa del área, señalando la superficie, ubicación, deslinde y, en su caso, la zonificación correspondiente;
+
+II.- El plazo en que deberá quedar elaborado el programa de manejo del área natural protegida y su Reglamento específico, mismos que deberán cumplir con las características que establezca el presente Código, para entre otras cosas, determinar las actividades que podrán llevarse a cabo en el área correspondiente, y las modalidades y limitaciones a que se sujetarán; así como las modalidades a que se sujetará dentro del área, el uso o aprovechamiento de los recursos naturales en general o específicamente de aquellos sujetos a protección;
+
+III.- La causa de utilidad pública que en su caso, fundamente la expropiación de terrenos, para que el Municipio adquiera su dominio, cuando al establecerse un área natural protegida se requiera dicha resolución; en estos casos, deberán observarse las previsiones de la legislación en materia agraria y de expropiación, así como los demás ordenamientos aplicables;
+
+IV.- Los lineamientos generales para la administración, el establecimiento de órganos colegiados representativos y la creación de fondos o fideicomisos, y
+
+V.- Los lineamientos generales para la realización de las acciones de preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de las áreas naturales protegidas, para su administración y vigilancia, así como para la elaboración de las reglas administrativas a que se sujetarán las actividades dentro del área respectiva, conforme a lo dispuesto en este Código y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 658 BIS.- En cualquier tiempo se podrá someter al ayuntamiento la modificación de una declaratoria del área natural protegida, previo estudio técnico que formule el Departamento de Ecología, cuando hayan variado las condiciones que dieron origen a su establecimiento a consecuencia de las siguientes circunstancias:
+
+I.- El desplazamiento de las poblaciones de vida silvestre que se encuentren bajo un régimen de protección:
+
+II.- Contingencias ambientales tales como incendios, huracanes, terremotos y demás fenómenos naturales que puedan alterar o modificar los ecosistemas existentes en el área, o
+
+III.- Por cualquier otra situación, que haga imposible el cumplimiento de los objetivos de su establecimiento.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 658 TER.- Los acuerdos modificatorios de un área natural protegida, se sustentarán en estudios previos justificativos, que como mínimo deberán incluir:
+
+I.- Información general del área natural protegida:
+
+a) Nombre y categoría:
+
+b) Antecedentes de protección, y
+
+c) Superficie, delimitación, zonas y subzonas;
+
+II.- Análisis de la problemática que origina la propuesta de modificación en el que se describan los escenarios actuales y los escenarios naturales o socioeconómicos existentes en el momento de la declaratoria del área natural protegida;
+
+III.- Propuesta de modificaciones de la declaratoria;
+
+IV.- Propuesta de modificación a los lineamientos generales para el manejo del área natural protegida, y
+
+V.- Los demás datos que sean necesarios para sustentar la propuesta de modificación.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 658 QUATER.- Una vez establecida el área natural protegida, quedará sujeta al régimen previsto en este Código y en los demás ordenamientos aplicables. Las áreas naturales protegidas establecidas por el Municipio según el territorio, podrán comprender, de manera total o parcial, predios sujetos a cualquier régimen de propiedad. Los propietarios, poseedores o titulares de derechos sobre tierras y aguas comprendidos dentro de áreas naturales protegidas municipales, deberán sujetarse a las modalidades que de conformidad con el presente Código, establezcan las declaratorias por las que se constituyan, el reglamento específico para la administración y manejo del área natural protegida, así como a las demás disposiciones contenidas en el programa de manejo y en los programas de ordenamiento ecológico que correspondan.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 659.
+
+En el establecimiento, administración y manejo de las áreas naturales de competencia municipal, se promoverá la participación de los habitantes de la zona y de los propietarios o poseedores de tierras y aguas dentro de los límites de las áreas naturales protegidas o adyacentes a la misma; de igual manera, promoverá la participación de los gobiernos federal y estatal y de otras organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad. Para tal efecto, el municipio podrá suscribir con los interesados los convenios de concertación o acuerdos de coordinación que correspondan.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 659 BIS.- El Ayuntamiento, determinará medidas de protección de las áreas naturales, de manera que se aseguren en el territorio municipal la conservación y restauración de los ecosistemas.
+
+El aprovechamiento sustentable de la vida silvestre dentro de las áreas naturales protegidas de competencia municipal podrá llevarse a cabo siempre y cuando se garantice su reproducción controlada o se mantengan o incrementen las poblaciones de las especies aprovechadas y el hábitat del que dependen; y además cuenten con los permisos y disposiciones legales aplicables establecidas por el Gobierno Federal y/o Estatal, o ante cualquier otra autoridad competente.
+
+En el otorgamiento o expedición de permisos, licencias, concesiones, o en general de autorizaciones a que se sujetaren la exploración, explotación o aprovechamiento de recursos en áreas naturales protegidas, se observarán las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de la Ley General para el Desarrollo Forestal Sustentable, de este Código, de las demás disposiciones jurídicas aplicables y lo que al respecto establezcan las declaratorias correspondientes, los programas de manejo y los reglamentos específicos de las áreas naturales protegidas municipales.
+
+Los interesados deberán demostrar ante la autoridad competente, su capacidad técnica y económica para llevar a cabo la exploración, explotación o aprovechamiento de que se trate, sin causar deterioro a la naturaleza.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 659 TER.- El H. Ayuntamiento, a través del Cabildo y el Departamento de Ecología, mantendrá un sistema permanente de información y vigilancia sobre las áreas protegidas en el territorio municipal, para lo cual coordinará sus acciones con el Gobierno del Estado, la Federación y otros municipios. Así mismo, establecerá sistemas de evaluación y seguimientos de las acciones que emprenda.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 659 QUATER.- En las áreas naturales protegidas de jurisdicción municipal se realizará una subdivisión que permita identificar y delimitar las porciones del territorio que la conforman, acorde con sus elementos biológicos, físicos y socioeconómicos, los cuales constituirán un esquema integral y dinámico.
+
+De conformidad con lo dispuesto por el párrafo anterior, en las áreas naturales protegidas municipales podrán establecerse una o más zonas núcleo y una o más zonas de amortiguamiento, según sea el caso, las cuales a su vez podrán estar conformadas por distintas subzonas, de acuerdo a la categoría de manejo que se les asigne. La delimitación territorial de las actividades en las áreas naturales protegidas, se llevará a cabo en función de las zonas y subzonas en que se divida el área.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 660.
+
+Las zonas núcleo tendrán como principal objetivo la preservación de los ecosistemas a mediano y largo plazo, y podrán estar conformadas por las siguientes subzonas:
+
+I.- De Protección. Aquellas superficies dentro del área natural protegida, que han sufrido muy poca alteración, así corno (sic) ecosistemas relevantes o frágiles y fenómenos naturales, que requieren de un cuidado especial para asegurar su conservación a largo plazo, y
+
+II.- De Uso Restringido. Aquellas superficies en buen estado de conservación donde se busca mantener las condiciones actuales de los ecosistemas, e incluso a mejorarlas en los sitios que así se requieran, y en las que se podrán realizar excepcionalmente actividades de aprovechamiento que no modifiquen los ecosistemas y que se encuentren sujetas a estrictas medidas de control.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 660 BIS.- En las zonas núcleo de las áreas naturales protegidas quedará expresamente prohibido:
+
+I.- Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de cauce, vaso o acuífero, así como desarrollar cualquier actividad contaminante;
+
+II.- Interrumpir, rellenar, desecar o desviar los flujos hidráulicos;
+
+III.- Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres, y
+
+IV.- Ejecutar acciones que contravengan lo dispuesto por este Reglamento, la declaratoria respectiva y demás disposiciones que de ellas deriven
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 660 TER.- Las zonas de amortiguamiento, tendrán como función orientar a que las actividades de aprovechamiento, que ahí se realicen, se conduzcan hacia el desarrollo sustentable, contribuyendo de esta manera a la conservación de los ecosistemas a largo plazo y podrá estar integrada por las siguientes subzonas:
+
+I.- De Uso Tradicional: Aquellas superficies en donde los recursos naturales han sido aprovechados de manera tradicional y continua, sin ocasionar alteraciones significativas en el ecosistema. Están relacionados particularmente con la satisfacción de las necesidades socioeconómicas y culturales de los habitantes del área protegida;
+
+II.- De Aprovechamiento Sustentable de los Recursos Naturales: Aquellas superficies en las que los recursos naturales o las actividades productivas que se llevan a cabo, no se limitan a la satisfacción de las necesidades elementales de los habitantes de la zona, o bien, cuando son susceptibles de ser aprovechados para su comercialización;
+
+III.- De Uso Público: Aquellas superficies que presenten atractivos naturales para la realización de actividades de recreación y esparcimiento, en donde es posible mantener concentraciones de visitantes, en los límites que se determinen en la capacidad de carga de los ecosistemas;
+
+IV.- De Asentamientos Humanos: En aquellas superficies donde se han llevado a cabo una modificación sustancial o desaparición de los ecosistemas originales, debido al desarrollo de los asentamientos humanos, previos a la declaración del área protegida;
+
+V.- De Restauración: Aquellas superficies en las que los recursos naturales han resultado severamente alterados o modificados, y que serán objeto de programas de recuperación y rehabilitación. Las subzonas de recuperación tendrán carácter provisional y deberán ser monitoreadas y evaluadas periódicamente para detectar los cambios que se presenten. Una vez que estas sub zonas hayan sido restauradas, se les determinará cualquier otro tipo de las subzonas antes mencionadas, y
+
+VI.- Otras subzonas que se identifiquen conforme a las características propias de la superficie comprendida dentro del área natural protegida.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 660 QUATER.- En las áreas naturales protegidas de competencia municipal se podrán establecer una o más de las subzonas establecidas para las zonas núcleo y de amortiguamiento, respectivamente, pudiendo incluso restringir, prohibir o regular determinadas actividades dentro de las subzonas, con el objeto de mantener las condiciones de los ecosistemas representativos de las áreas, así como la continuidad de sus procesos ecológicos que en ellos se contiene, de conformidad con el programa de manejo del área y su respectivo reglamento.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 661.
+
+La regulación de actividades dentro de las zonas núcleo o de amortiguamiento y sus respectivas subzonas, podrán incluir medidas tales como:
+
+I.- Prohibir de manera total o parcial la realización de actividades en la zona;
+
+II.- Limitar la construcción de instalaciones dentro de la subzona, exclusivamente a aquellas relacionadas con la investigación científica, el monitoreo del ambiente, la educación ambiental y el turismo de bajo impacto ambiental, siempre que dichas actividades o construcciones no impliquen modificaciones de las características o condiciones originales de la zona o subzona,
+
+III.- Limitar las actividades a las de aprovechamiento de los recursos naturales para la satisfacción de las necesidades económicas básicas y/o de autoconsumo de los pobladores, utilizando métodos tradicionales enfocados a la sustentabilidad, conforme a lo previsto en las disposiciones legales y reglamentarias aplicables;
+
+IV.- Condicionar la realización de actividades de aprovechamiento a aquellas que no modifiquen los ecosistemas y que se lleven a cabo bajo un programa de sustentabilidad que garantice la permanencia de especies o la posibilidad de aprovechamiento de recursos naturales a futuro;
+
+V.- Prohibir la extracción o traslado de determinadas especies de flora o fauna:
+
+VI.- Orientar hacia la sustentabilidad y a la disminución del uso de agroquímicos insumos extremos las prácticas agrícolas, pecuarias, agroforestales y silvopastoriles que no estén siendo realizadas en forma sustentable;
+
+VII.- Condicionar la ejecución de obras públicas y privadas para la instalación de infraestructura o explotación de recursos naturales. a que originen beneficios públicos, que guarden armonía con el paisaje, que no provoquen desequilibrio grave y que estén sujetos a estrictas regulaciones de uso de los recursos naturales;
+
+VIII.- Limitar la introducción de especies de flora y fauna y establecer condicionantes para la rehabilitación de ecosistemas deteriorados, privilegiando el uso para tales fines de especies nativas de la región; o en su caso especies compatibles con el funcionamiento y la estructura de los ecosistemas originales, y
+
+IX.- Utilizar cualquier otro mecanismo o restricción que se considere necesario para lograr el objetivo del área natural protegida.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 662.
+
+La regulación de actividades productivas dentro de las zonas núcleo y zonas de amortiguamiento de las áreas naturales protegidas, deberá basarse en un programa de manejo y en un reglamento específico para la administración y manejo del área natural protegida que se elaborarán conforme lo dispuesto por este Código.
+
+En todo caso, las medidas de restricción o regulación de actividades productivas, deberán estar debidamente sustentadas justificando una o más de las siguientes situaciones:
+
+I.- La existencia de ecosistemas que no hayan sido significativamente alterados por la acción del hombre o que contengan elementos de ecosistemas únicos o frágiles, o sean el escenario de fenómenos naturales que requieren una protección integral;
+
+II.- La existencia de condiciones propicias para el desarrollo, reintroducción, alimentación y reproducción de poblaciones de vida silvestre, residentes o migratorias, incluyendo especies en riesgo;
+
+III.- La existencia en la zona de especies de flora y fauna que tengan algún grado de protección conforme a la legislación nacional o internacional;
+
+IV.- La identificación de superficies que mantengan las condiciones y funciones necesarias para la conservación de la biodiversidad y la prestación de servicios ambientales, y
+
+V.- Identificar la necesidad de detener la degradación del ecosistema y establecer acciones orientadas hacia la reestructuración de determinada área en donde se ha llevado a cabo una alteración, modificación sustancial o desaparición de los ecosistemas originales debido a las actividades humanas o de fenómenos naturales, caracterizándose por presentar algunos de los siguientes aspectos: un alto nivel de deterioro; perturbación severa de la vida silvestre; relativamente poca diversidad biológica; introducción de especies exóticas; sobreexplotación de los recursos naturales; regeneración; procesos de desertificación acelerada y erosión y, alteración ocasionada por fenómenos naturales y humanos.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 663.
+
+El Municipio, en el ámbito de su competencia promoverá las inversiones públicas y privadas para el establecimiento y manejo de las áreas naturales protegidas; establecerá, o en su caso promoverá, la utilización de mecanismos para captar recursos y financiar o apoyar el manejo de las áreas naturales protegidas.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 664.
+
+El Departamento de Ecología, formulará dentro del plazo que se establezca en la declaratoria correspondiente o en el plazo de un año contado a partir de la publicación de la declaratoria respectiva, el programa de manejo del área natural protegida, así como el reglamento específico bajo el cual se regirá, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las demás dependencias y entidades competentes, a otras administraciones municipales, en su caso, así como a organizaciones sociales, públicas o privadas, y demás personas interesadas.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 665.
+
+El programa de manejo de las áreas naturales protegidas municipales se elaborará a partir de la información del estudio técnico justificativo que fundamentó la declaratoria del área natural protegida, y deberá contener por lo menos la siguiente información:
+
+I.- La descripción de las características físicas, biológicas, sociales, culturales e históricas del área natural protegida, en el contexto nacional, regional y local, así como el análisis de la situación que guarda la tenencia de la tierra en la superficie respectiva;
+
+II.- Las acciones a realizar a corto, mediano y largo plazo, estableciendo su vinculación con el Programa de Desarrollo Municipal, así como con los programas sectoriales correspondientes. Dichas acciones comprenderán entre otras las siguientes: de investigación y educación ambiental, de protección y aprovechamiento sustentable de los recursos naturales, la flora y la fauna; para el desarrollo de actividades recreativas, turísticas, obras de infraestructura y demás actividades productivas: de financiamiento para la administración del área; de prevención y control de contingencias; de vigilancia y las demás que por las características propias del área natural protegida se requieran;
+
+III.- La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma, así como de todas aquellas personas, instituciones, grupos y organizaciones sociales interesadas en su protección y aprovechamiento sustentable;
+
+IV.- Los objetivos específicos del área natural protegida;
+
+V.- La referencia a las Normas Oficiales Mexicanas aplicables a todas y cada una de las actividades a que esté sujeta el área;
+
+VI.- Los inventarios biológicos existentes y los que se prevea realizar;
+
+VII.- Las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollen en el área natural protegida de que se trate, y
+
+VIII.- La demás información de carácter ambiental, social, cultural, jurídico o económico que se considere necesaria para una adecuada administración del área natural protegida.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 666.
+
+El reglamento específico del área natural protegida será el instrumento jurídico mediante el cual operará y se administrará el área natural protegida; será elaborado tomando como base el programa de manejo del área y deberá contener como mínimo lo siguiente:
+
+I.- Objetivos;
+
+II.- La forma en que habrá de administrarse el área natural protegida, incluyendo una descripción de las funciones y facultades de las instancias de administración;
+
+III.- Las fuentes y esquemas para financiar la administración del área natural protegida y los proyectos relativos a la misma, incluyendo la posibilidad de establecer cobros por el acceso o uso de alguna zona o subzona del área natural protegida y el destino de los ingresos generados por tal concepto;
+
+IV.- Los esquemas de organización y participación de los habitantes, poseedores, propietarios o titulares de derechos sobre tierras yaguas (sic) dentro del área natural protegida;
+
+V.- Prohibiciones, restricciones y limitaciones de obras y actividades en las zonas núcleo y zonas de amortiguamiento, así como en sus subzonas;
+
+VI.- Esquemas y requisitos para la práctica del ecoturismo o turismo alternativo;
+
+VII.- Regulación de las actividades comerciales destinadas a vender bienes o servicios a los visitantes al lugar, incluyendo venta de alimentos y bebidas:
+
+VIII.- Restricciones para el aprovechamiento de especies de flora y fauna;
+
+IX.- Vigilancia del área, y
+
+X.- Sanciones.
+
+El Reglamento a que se refiere el presente artículo deberá publicarse en el Periódico Oficial previa aprobación del Cabildo Municipal.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 667.
+
+Una vez que se cuente con el programa de manejo y el reglamento respectivo del área natural protegida, el municipio podrá otorgar a los ejidos, comunidades agrarias, grupos y organizaciones sociales, y empresariales y demás personas físicas o morales interesadas, la administración total o parcial de las áreas naturales protegidas. Para tal efecto, se deberán suscribir los acuerdos o convenios que regulen el esquema de administración.
+
+Quienes en virtud de lo dispuesto en este artículo adquieran la responsabilidad de administrar las áreas naturales protegidas, estarán obligados a sujetarse a las previsiones contenidas en el presente Reglamento, Normas Oficiales Mexicanas que se expidan en la materia, así como a cumplir los decretos por los que se establezcan dichas áreas, así como el programa de manejo y el reglamento respectivo del área natural protegida.
+
+El Municipio, a través del Departamento de Ecología supervisará y evaluará el cumplimiento de los acuerdos y convenios a que se refiere este precepto.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 668.
+
+El municipio está facultado para celebrar convenios con las autoridades estatales y federales para que quede a cargo de éstas la administración de las áreas naturales protegidas.
+
+Asimismo, podrá promover ante el Gobierno Federal o Estatal, el reconocimiento de las áreas naturales protegidas que conforme a este Código se establezcan, con el propósito de compatibilizar los regímenes de protección correspondiente. Para tales efectos, deberán celebrarse convenios de colaboración que establecerán las bases para la participación de los diferentes niveles de gobierno en la consecución de los objetivos del área natural protegida.
+
+La autoridad municipal establecerá con el Gobierno Federal y Estatal, los mecanismos para que el Municipio tenga conocimiento, y si lo consideran pertinente, pueda emitir su dictamen u opinión, respecto de toda solicitud para la realización de obras o actividades dentro de las áreas naturales protegidas municipales, cuando de conformidad con la legislación aplicable las pretendidas obras o actividades requieran autorización de dichas instancias de gobierno.
+
+Asimismo, el Municipio tomando como base los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración, explotación o aprovechamiento de recursos ocasione o pueda ocasionar deterioro de las áreas naturales protegidas.
+
+En todo caso, el Municipio velará y realizará las acciones necesarias tendientes a que las autoridades federales y estatales, tomen en consideración lo dispuesto en este Código, en los programas de manejo y reglamentos específicos de las áreas naturales protegidas municipales, para la emisión de autorizaciones y permisos de obras y actividades dentro de las mismas.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO SEPTIMO. De la Protección y Aprovechamiento Racional del Agua
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 669.
+
+El Ayuntamiento a través del Departamento de Ecología, elaborará un programa de manejo, forestación y restauración de áreas verdes en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 670.
+
+Las áreas verdes privadas, excepto las de las casas habitación, serán objeto de vigilancia y control del municipio, por lo que cualquier acción, creación, manejo, cambio de uso de suelo, derribo de árboles y remoción de la cubierta vegetal deberá ser previamente autorizada por el municipio a través de las áreas competentes.
+
+Las acciones de derribo y remoción de la vegetación, así como la disposición de los residuos vegetales productos de estas acciones, una vez autorizadas por el Departamento de Ecología, serán responsabilidad del interesado, a quien sólo se le dará asesoría al respecto.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 671.
+
+La adecuada forestación de parques, camellones y áreas de donación que el Municipio autorice deberán Utilizar sólo especies propias de la región o que se ha comprobado su adaptación, así como sus bajos requerimientos de agua tomando en base las reportadas dentro del Programa de manejo, forestación y restauración Municipal.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 672.
+
+El derribo, poda, extracción o remoción de vegetación de un área verde sólo podrá efectuarse en los siguientes casos, previa autorización del departamento de Ecología:
+
+I.- Cuando ponga en riesgo la integridad física de personas, bienes o la infraestructura urbana;
+
+II.- Cuando se haya comprobado que el vegetal está muerto o presenta enfermedad o plaga severas y existen riesgo de contagios;
+
+III.- Cuando la imagen urbana se vea afectada significativamente, y
+
+IV.- Cuando se compruebe que es de utilidad pública.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 673.
+
+Para efectos de la autorización a que se refiere el Artículo anterior, los interesados deberán presentar por escrito, en la que expresarán los motivos y circunstancias de la petición. Posteriormente el departamento de ecología, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
+
+Siempre que se hubiere otorgado una autorización para el derribo, extracción o remoción de vegetación, ésta quedará condicionada a la reposición del mismo con otra especie u otras especies vegetales propias para el área en cuestión.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO OCTAVO. De la Protección y Aprovechamiento del Suelo, y Manejo de Residuos Sólidos
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 674.
 
 El Ayuntamiento prevendrá y controlará la contaminación de las aguas que tenga asignadas o concesionadas para la prestación de servicios públicos, y las que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población a través del departamento de Ecología y La Comisión de los servicios de Agua Potable y Saneamiento, independientemente de las acciones que otras autoridades competentes realicen, en términos de Ley y dentro de su jurisdicción municipal.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPITULO DECIMO. De la Protección y Aprovechamiento del Suelo, y Manejo de Residuos Sólidos
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 682.
+###### ARTICULO 675.
 
 El Ayuntamiento en su circunscripción territorial tendrá las siguientes obligaciones:
 
@@ -9837,89 +10215,73 @@ VIII.- Denunciar ante la autoridad competente a quien realice descargas y/o vert
 
 IX.- Promover el recurso de aguas residuales tratadas en la industria, la agricultura y el riego de áreas verdes, siempre y cuando cumplan con las normas técnicas ecológicas aplicables.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 683.
+###### ARTICULO 676.
 
 Se prohíbe descargar sin previo tratamiento en redes de alcantarillado o drenaje municipal o infiltrar al subsuelo aguas residuales provenientes de industrias, comercios o servicios que contengan contaminantes, desechos, materiales radioactivos o cualquier sustancia que sea dañina a la salud, al ambiente, a la infraestructura urbana o que alteren el equilibrio ecológico.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 684.
+###### ARTICULO 677.
 
 Los usuarios tanto públicos como privados que generen descargas residuales en la red municipal, deberán obtener la autorización correspondiente de la Comisión Operador Municipal del Servicio de Agua Potable, Alcantarillado y Saneamiento y reportar periódicamente a ésta de acuerdo al giro que se trate, los resultados del análisis de la calidad de descarga.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 685.
+### CAPITULO NOVENO. De la Protección del Aire y la Atmósfera
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 678.
 
 La protección ecológica y aprovechamiento del suelo municipal, requiere que el Ayuntamiento establezca una recolección, manejo y reutilización eficaz de los residuos sólidos municipales, por lo que deberán observarse las siguientes disposiciones:
 
-I.- Los usos productivos del suelo no deben alterar el equilibrio de los ecosistemas, por lo que siempre se deben cuidar su integridad física y evitar toda práctica que favorezca la erosión y degradación de las características topográficas que vayan en contra del medio ambiente; y
+I.- Los usos productivos del suelo no deben alterar el equilibrio de los ecosistemas, por lo que siempre se deben cuidar su integridad física y evitar toda práctica que favorezca la erosión y degradación de las características topográficas que vayan en contra del medio ambiente, y
 
 II.- La degradación, erosión y contaminación de los suelos, así como la disminución de su productividad, tiene en la sobre generación y en el deficiente manejo de los residuos sólidos, una de sus principales causas; por consiguiente, para mantener e incrementar la productividad y preservación del suelo, se debe regular, corregir y sancionar toda acción o actividad que al generar o manejar residuos sólidos, conlleve a la disminución de las características del mismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPITULO DECIMO PRIMERO. De la Protección del Aire y la Atmósfera
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 686.
+###### ARTICULO 679.
 
 La protección del suelo y el manejo de los residuos sólidos municipales corresponde al Ayuntamiento y por conducto del departamento de Ecología, ejecutará las siguientes actividades:
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
 I.- Vigilar que los servicios municipales no propicien o generen residuos sólidos sin control;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- Formular y conducir la política municipal en materia de prevención y control de la contaminación del suelo;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
 III.- Operar o concesionar condicionadamente el establecimiento del Servicio Municipal de Limpia, de acopio, reciclaje y disposición final de los residuos sólidos municipales;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IV.- Controlar y vigilar que se cumpla el horario permitido para el depósito de basura en los contenedores;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
 V.- Denunciar ante la autoridad competente las fuentes generadoras de residuos sólidos peligrosos que existan dentro del territorio municipal y que operen sin permiso;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VI.- Celebrar acuerdos y convenios de coordinación con los Ayuntamientos de los municipios colindantes, excepto con los de otras entidades federativas, a fin de recibir o enviar residuos sólidos No peligrosos para su disposición final en sitios que previamente sean autorizados por el Municipio;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
 VII.- Integrar y mantener actualizado el Registro Municipal de Generadores de Residuos Sólidos; y
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VIII.- Controlar y Prevenir que los residuos sólidos o cualquier otro tipo de contaminación de procedencia comercial, doméstica, industrial, agropecuaria o de cualquier otra especie, se acumulen, depositen o infiltren en el suelo o subsuelo, o en la red del sistema municipal de drenaje y alcantarillado.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 687.
+###### ARTICULO 680.
 
 Toda persona física o moral, pública o privada, que genere, almacene, recolecte, aproveche y disponga de residuos sólidos no peligrosos, deberá ajustarse a las normas y disposiciones que fije el presente Título.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 688.
+###### ARTICULO 681.
 
 Las industrias o talleres comprendidos dentro de la jurisdicción municipal, serán responsables del almacenamiento, manejo, transporte y destino final de los residuos sólidos, orgánicos e inorgánicos, que produzcan, así como de los daños que ocasionen a la salud, al ambiente o al paisaje.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPITULO DECIMO SEGUNDO. De la Protección Contra la Contaminación Visual, por Olores, Ruidos, Vibraciones, Radiaciones u Otros Agentes
+### CAPITULO DECIMO. De la Protección Contra la Contaminación Visual, por Olores, Ruidos, Vibraciones, Radiaciones u Otros Agentes
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 689.
+###### ARTICULO 682.
 
 El Ayuntamiento promoverá el saneamiento atmosférico dentro del territorio municipal, y para ello observará los siguientes criterios:
 
@@ -9927,53 +10289,35 @@ I.- En los centros urbanos, sin descuidar los de características rurales, el ai
 
 II.- La contaminación atmosférica es resultado, tanto de las emisiones provocadas por fuentes naturales, como de aquéllas provenientes de fuentes artificiales, fijas y móviles, a las que hace alusión el artículo 646 de este Título, por lo que éstas deben prevenirse y controlarse, con el fin de asegurar la calidad del aire en beneficio de la comunidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPITULO DECIMO TERCERO. Protección de la Flora, Fauna Terrestre y Acuática
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 690.
+###### ARTICULO 683.
 
 Para promover y efectuar el saneamiento atmosférico, el Ayuntamiento a través del departamento de Ecología, podrá:
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
 I.- Formular y conducir la política municipal en materia de prevención y control de la contaminación atmosférica en el ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- Requerir en el ámbito de su competencia, a todas aquellas personas físicas o morales, públicas o privadas, que realicen actividades contaminantes de la atmósfera, la instalación de los equipos de control pertinentes, o de la aplicación de medios necesarios para reducir o eliminar las emisiones contaminantes;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
 III.- Previo acuerdo de coordinación con las autoridades estatales, implementar y operar en el territorio municipal, el sistema de verificación obligatorio de emisiones de gases, humos y partículas contaminantes de los vehículos automotores que circulen en el Municipio, con el objeto de conservar la calidad del aire; y
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IV.- Integrar y mantener actualizado el inventario de fuentes emisoras de contaminantes a la atmósfera, que estén ubicadas en el territorio del Municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 691.
+###### ARTICULO 684.
 
 El Ayuntamiento, a través del departamento de Ecología, vigilará e inspeccionará las siguientes fuentes emisoras de contaminantes atmosféricos:
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
 I.- Las fijas, que incluyen talleres, giros comerciales y de prestación de servicios, así como giros industriales previo convenio con la autoridad estatal;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- Diversas; como depósitos o quema a cielo abierto de residuos sólidos en el municipio; y
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
 III.- Coadyuvará previo acuerdo o convenio con el Estado, con las móviles, como vehículos automotores de combustión interna, motocicletas y similares, salvo el transporte federal.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 692.
+###### ARTICULO 685.
 
 Se requerirá autorización de la Secretaria del Ayuntamiento para instalación y funcionamiento de ladrilleras y alfarerías y sólo podrán instalarse en los sitios que para tal fin haya designado el H. ayuntamiento en apego a la normatividad vigente.
 
@@ -9981,27 +10325,35 @@ I.- El H. Ayuntamiento en coordinación con el Estado definirá los combustibles
 
 II.- Los productores de ladrillos, cerámico y materiales similares deberán instalar el equipo necesario para controlar la contaminación atmosférica.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 693.
+### CAPITULO DECIMO PRIMERO. Protección de la Flora, Fauna Terrestre y Acuática
 
-El Ayuntamiento, a través del departamento de Ecología, establecerá los procedimientos tendientes a prevenir y controlar la contaminación visual y la provocada por olores, ruidos, vibraciones y energía térmica o lumínica. Para ello deberá considerarse que la contaminación generada por los olores, ruidos, vibraciones, energía térmica y lumínica, entre otros, podrá ser prevenida mediante los dictámenes de impacto ambiental y regulada a través de aplicar las sanciones a toda acción que contribuya a la generación de las emisiones contaminantes antes mencionadas para evitar que rebasen los límites máximos de tolerancia humana y, en su caso.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+###### ARTICULO 686.
 
-###### ARTICULO 694.
+El Ayuntamiento, a través del departamento de Ecología, establecerá los procedimientos tendientes a prevenir y controlar la contaminación visual y la provocada por olores, ruidos, vibraciones y energía térmica o lumínica. Para ello deberá considerarse que la contaminación generada por los olores, ruidos, vibraciones, energía térmica y lumínica, entre otros, podrá ser prevenida mediante los dictámenes de impacto ambiental y regulada a través de aplicar las sanciones a toda acción que contribuya a la generación de las emisiones contaminantes antes mencionadas para evitar que rebasen los límites máximos de tolerancia humana y, en su caso (sic).
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 687.
 
 Toda persona física o moral, pública o privada, que realice actividades industriales, comerciales, de servicios o de cualquier otro tipo, que por su naturaleza produzcan emisiones de olores, ruidos, vibraciones, energía térmica, lumínica y que estén afectando a la población, a la fauna y/o flora, los bienes y/o los ecosistemas, deberán establecer medidas correctivas, instalar dispositivos y aislamientos necesarios para reducir dichas emisiones a niveles tolerables, y de no ser suficiente lo anterior, el Ayuntamiento a través del departamento de Ecología y el de Reglamentos podrá reubicarla o cancelar la licencia de uso específico de suelo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 695.
+###### ARTICULO 688.
 
 No se autorizará en las zonas habitacionales o colindantes a ellas, así como cerca de centros escolares y hospitalarios, la creación de establecimientos comerciales, industriales, de servicios y de cualquier otro giro que por sus emisiones y olores, ruidos, vibraciones, energía térmica y lumínica, puedan ocasionar molestias a la población, afectaciones a la salud, al ambiente o a los bienes.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 696.
+### CAPITULO DECIMO SEGUNDO. De la Participación Social
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 689.
 
 El Ayuntamiento con el propósito de proteger la flora, fauna terrestre y acuática que existe dentro del Municipio, se coordinará con las autoridades competentes estatales y federales para:
 
@@ -10011,115 +10363,119 @@ II.- Vigilar y controlar el aprovechamiento de recursos naturales, en áreas que
 
 III. Elaborar y/o actualizar un inventario de las especies de flora y fauna silvestres y acuáticas existentes en el Municipio.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO DECIMO TERCERO. De la Promoción de la Educación Ambiental
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 690.
+
+El Ayuntamiento, a través del Departamento de Ecología, promoverá la participación solidaria y responsable de los habitantes del municipio en la política ambiental y en la observancia del presente título y demás disposiciones jurídicas de la materia, por medio de acciones de difusión y vigilancia de los trabajos que en materia ecológica se realicen dentro de la jurisdicción municipal.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 691.
+
+La preservación y aprovechamiento racional de los recursos naturales dentro del Municipio, son de orden público e interés social e implica una corresponsabilidad social en la que tanto las autoridades municipales como vecinos; transeúntes del Municipio son responsables solidarios en la atención, solución, control y prevención de los problemas ambientales, por lo que deberán participar y colaborar en las tareas de mejoramiento del ambiente y sugerir programas de carácter ecológico a las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 692.
+
+El Consejo Municipal de Protección al Ambiente es un cuerpo colegiado de asesoría, asistencia técnica, de apoyo, consulta y opinión, de promoción y gestión para el mejoramiento del ambiente, en el que participarán los sectores público, privado y social del Municipio. El Consejo estará presidido por el Presidente Municipal y tendrá amplia coordinación con el Consejo Consultivo Estatal de Gestión Ambiental.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 693.
+
+El Ayuntamiento convocará en el ámbito territorial de su jurisdicción, a representantes de organizaciones obreras, empresariales, de campesinos, de productores agropecuarios, de las comunidades, de instituciones educativas y de investigación de instituciones privadas y de otros representantes de la sociedad, en el seno del Consejo Municipal de Protección al Ambiente para que manifiesten su opinión y propuestas para la formulación de la política ambiental municipal, promoviendo la participación y corresponsabilidad de la sociedad en las acciones que en materia de ecología emprenda.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 694.
+
+El Ayuntamiento, a través del Departamento de Ecología, podrá celebrar convenios de concertación y participación social con particulares, grupos interesados y organizaciones sociales, instituciones privadas de carácter no lucrativo e instituciones educativas a fin de fomentar y mejorar la protección del ambiente para que en la sede o ámbito de influencia de los mismos, participen responsablemente en la protección del ambiente y restauración del equilibrio ecológico.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 695.
+
+El Ayuntamiento, a través del Departamento de Ecología, promoverá reconocimientos públicos a ciudadanos, grupos o instituciones que de manera altruista se distingan por su labor en la protección, instauración y restauración del ambiente y equilibrio ecológico.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 696.
+
+El Consejo Municipal de Protección al Ambiente, podrá recibir denuncias por actos u omisiones realizados por cualquier persona que contravenga las disposiciones legales dictadas en la materia, asimismo servirá de enlace entre el particular y las autoridades municipales, estatales y federales, para gestionar la solución de la problemática ambiental; también promoverá permanentemente la participación ciudadana y la formación de una auténtica cultura ecológica entre los habitantes del Municipio.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 697.
 
-Las áreas naturales protegidas de interés municipal, son aquellas zonas donde coexisten diversas especies de flora y fauna, y que mantienen el equilibrio ecológico y sobre las que ejerce su autoridad el Municipio, mismas que deberán quedar sujetas bajo su protección por considerarse de interés social y utilidad pública.
+El Consejo Municipal de Protección al Ambiente se integrará por:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+I.- Presidente: Que será el Presidente Municipal;
+
+II.- Secretario: Que será un ciudadano destacado del Municipio preocupado por la protección ambiental; que no sea servidor público y que sea propuesto al Consejo por el Presidente Municipal;
+
+III.- Coordinador técnico: Que será el Jefe del Departamento de Ecología, y
+
+IV.- Vocales:
+
+a).- El Regidor de la Comisión de Planeación y Desarrollo sustentable;
+
+b).- Un representante del Consejo de Participación Ciudadana;
+
+c).- Un representante de los diversos sectores económicos del municipio;
+
+d).- Un representante de las instituciones educativas del municipio;
+
+e).- Un representante de los delegados, subdelegados y comisarios municipales;
+
+f).- Un representante del Instituto Estatal del Medio Ambiente, y
+
+g).- Representantes de las dependencias federales y estatales relacionadas con la materia y que acepten formar parte del Consejo.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 698.
 
-Son áreas naturales protegidas de jurisdicción municipal:
+El Consejo Municipal de Protección al Ambiente promoverá la creación de un fondo financiero a cargo del Ayuntamiento, que sirva de apoyo para solventar las necesidades y erogaciones derivadas de la protección al ambiente; el cual podrá ser incrementado con las aportaciones de las organizaciones que tengan interés en la materia.
 
-I.- Los parques urbanos;
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-II.- Las zonas sujetas a preservación ecológica de competencia municipal; y
+### CAPITULO DECIMO CUARTO. De las Prohibiciones y Obligaciones de la Ciudadanía
 
-III.- Las demás que tengan este carácter conforme a las disposiciones legales.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-### CAPITULO DECIMO CUARTO. De las Áreas Naturales Protegidas de Interés Municipal
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 699.
 
-Con independencia de lo señalado en el Artículo precedente, el Ayuntamiento a través del Departamento de Ecología, podrá realizar estudios previos que fundamenten la expedición de la declaratoria de nuevas áreas naturales que serán protegidas por el Municipio. En caso necesario, podrá solicitar asesoría técnica o legal a las autoridades competentes estatales o federales.
+El ayuntamiento, con el objeto de apoyar las actividades de preservación y protección ambiental, realizará las gestiones necesarias para promover la educación ambiental dentro del Municipio, mediante la participación permanente de la sociedad, y para ello:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+I.- Fomentará el respeto, mantenimiento y acrecentamiento de los parques públicos, urbanos y de barrio, así como del resto de las zonas y áreas verdes de jurisdicción municipal;
+
+II.- Fomentará el respeto, conocimiento y protección de la flora y fauna doméstica, silvestre y acuática existente en el Municipio;
+
+III.- Promoverá y difundirá programas y acciones preventivas entre los habitantes del Municipio, para que los mismos conozcan y comprendan los principales problemas ambientales de su localidad, origen y consecuencias, así como las formas y medios por los cuales se pueden prevenir o controlar;
+
+IV.- Promoverá la toma de conciencia a los habitantes para que a partir de un cambio de actitudes y pautas de conducta coadyuven a la conservación, protección y mejoramiento del ambiente, así como a denunciar a todas aquellas personas físicas o morales, públicas o privadas que atenten contra el medio ambiente;
+
+V.- El Programa Estatal de Educación Ambiental funcionará como una guía de las actividades y acciones que en esta materia se realicen en el Municipio de Pabellón de Arteaga y servirá de base para la elaboración del Programa Municipal de Educación Ambiental;
+
+VI.- Realizará convenios con instituciones educativas de todos niveles que se encuentren en el Municipio, a efecto de llevar a cabo conferencias, pláticas de orientación y de concientización en materia ecológica;
+
+VII.- Promover y estimular la asistencia y participación de los ciudadanos, grupos y organizaciones sociales, en ciclos de conferencias, mesas redondas y foros, con el propósito de coadyuvar con la educación y cultura ecológica de la población en general; y
+
+VIII.- Realizar concertaciones con instituciones educativas y de investigación para proporcionar esquemas educativos y apoyo profesional en la transmisión de tecnologías y proyectos a la población que lo requiera.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ### CAPITULO DECIMO QUINTO. De las Medidas de Seguridad y Contingencias Ambientales
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 700.
-
-El Ayuntamiento está facultado para celebrar convenios con las autoridades estatales y federales para que quede a cargo de éstas la administración de las áreas naturales protegidas.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 701.
-
-El Ayuntamiento a través del departamento de ecología en conjunto con Protección Civil, elaborará un programa de prevención, atención para casos de emergencia, riesgo, siniestro o contingencia ambiental inminente, acorde con los programas municipal, estatal y federal.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 702.
-
-Cuando se presenten emergencias o contingencias ambientales, el Ayuntamiento, a través del departamento de Ecología, podrá ordenar el aseguramiento de materiales o substancias contaminantes; la clausura temporal, parcial o definitiva de las fuentes contaminantes, observando el marco jurídico estatal y federal relativo a la materia.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-### CAPITULO DECIMO SEPTIMO. De las Prohibiciones y Obligaciones de la Ciudadanía
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 703.
-
-El departamento de Ecología podrá solicitar el auxilio de fuerza pública para efectuar visitas de inspección o para la aplicación de medidas de seguridad, con el objeto de hacer frente de manera inmediata, a la emergencia o contingencia ambiental, cuando se obstaculice la práctica de las diligencias, independientemente de la aplicación de las sanciones que resulten procedentes para quienes se opongan al cumplimiento de las medidas de seguridad.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 704.
-
-El Ayuntamiento a través del Departamento de Ecología, elaborará un programa de manejo, forestación y restauración de áreas verdes en el ámbito de su competencia.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 705.
-
-Las áreas verdes privadas, excepto las de las casas habitación, serán objeto de vigilancia y control del municipio, por lo que cualquier acción, creación, manejo, cambio de uso de suelo, derribo de árboles y remoción de la cubierta vegetal deberá ser previamente autorizada por el municipio a través de las áreas competentes.
-
-Las acciones de derribo y remoción de la vegetación, así como la disposición de los residuos vegetales productos de estas acciones, una vez autorizadas por el Departamento de Ecología, serán responsabilidad del interesado, a quien sólo se le dará asesoría al respecto.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-### CAPITULO PRIMERO. De Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
-
-###### ARTICULO 706.
-
-La adecuada forestación de parques, camellones y áreas de donación que el Municipio autorice deberán Utilizar sólo especies propias de la región o que se ha comprobado su adaptación, así como sus bajos requerimientos de agua tomando en base las reportadas dentro del Programa de manejo, forestación y restauración Municipal.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 707.
-
-El derribo, poda, extracción o remoción de vegetación de un área verde sólo podrá efectuarse en los siguientes casos, previa autorización del departamento de Ecología:
-
-I.- Cuando ponga en riesgo la integridad física de personas, bienes o la infraestructura urbana;
-
-II.- Cuando se haya comprobado que el vegetal esta muerto o presenta enfermedad o plaga severas y existen riesgo de contagios;
-
-III.- Cuando la imagen urbana se vea afectada significativamente; y
-
-IV.- Cuando se compruebe que es de utilidad pública.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 708.
-
-Para efectos de la autorización a que se refiere el Artículo anterior, los interesados deberán presentar por escrito, en la que expresarán los motivos y circunstancias de la petición. Posteriormente el departamento de ecología, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
-
-Siempre que se hubiere otorgado una autorización para el derribo, extracción o remoción de vegetación, ésta quedará condicionada a la reposición del mismo con otra especie u otras especies vegetales propias para el área en cuestión.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 709.
 
 Son obligaciones de los ciudadanos en materia de Ecología:
 
@@ -10131,33 +10487,21 @@ III.- Coadyuvar con las autoridades del Ayuntamiento en la preservación de bosq
 
 IV.- Presentar él o los análisis de la autoridad competente en los términos que señalen las leyes o reglamentos aplicables en la materia, los establecimientos industriales, comerciales o de servicios que generen emisiones a la atmósfera y/o descarga de aguas servidas a la red municipal de drenaje;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE MARZO DE 2018)</small>
-
 V.- Presentar a la autoridad municipal el comprobante de la disposición final de sus desechos sólidos, o bien el manifiesto tratándose de residuos peligrosos, los establecimientos industriales, comerciales o de servicios;
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
 VI.- Contar con un área específica para el lavado de piezas, y vigilar que el almacenamiento de desechos sólidos se encuentre resguardado bajo techo, los dueños y/o encargados de talleres y servicios del ramo automotriz;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
-
 VII.- Proporcionar a los asistentes servicios sanitarios y contenedores para el depósito de desechos sólidos, las personas físicas y morales que realicen ferias, exposiciones y espectáculos públicos;
-
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
 
 VIII.- Separar los residuos sólidos no peligrosos, susceptibles de aprovechamiento;
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
-
 IX.- Recoger las heces fecales de sus mascotas que sean arrojadas en la vía pública, y
-
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
 
 X.- Colocar recipientes adecuados en capacidad y ubicación para el depósito temporal de residuos sólidos urbanos generados por la actividad de las empresas e industrias, y contar con contenedores para la separación de residuos reciclables, orgánicos, inorgánicos, residuos peligrosos y de manejo especial.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 710.
+###### ARTICULO 701.
 
 Queda prohibido a las personas físicas y morales:
 
@@ -10173,29 +10517,153 @@ V.- Edificar o construir en zonas ecológicas o arqueológicas comprendidas dent
 
 VI.- Rebasar los límites permisibles de ruidos, vibraciones, energía térmica y luminosa, vapores, gases, humos, olores y otros elementos degradantes que perjudiquen el equilibrio ecológico y el ambiente en la jurisdicción del Municipio, según lo prevé la Ley General de Equilibrio Ecológico y Protección al Ambiente;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
-
 VII.- Descargar contaminantes que alteren la atmósfera, así como tirar desechos o desperdicios consistentes en aceites, gasolina o cualquier otro en los drenajes o atarjeas;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE MARZO DE 2018)</small>
 
 VIII.- Realizar obras y actividades públicas o privadas que puedan causar desequilibrio ecológico o perjuicio al ambiente.
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
-
 IX.- Depositar residuos no permitidos en los contenedores, las empresas, establecimientos fijos o semifijos;
-
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
 
 X.- depositar en los contenedores, residuos biológico infecciosos, que deben incinerarse de conformidad con las normas establecidas en la ley competente o aquellos que no son incinerables y que deben ser entregados a las instancias correspondientes para su confinamiento;
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
-
 XI.- Depositar cualquier tipo de desecho líquido o de índole diferente a la doméstica, lixiviados, aceites, etc. en los contenedores para residuos sólidos urbanos, y
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
-
 XII.- Depositar residuos vegetales producto de acciones de mantenimiento de las áreas verdes dentro o a un costado de los contenedores municipales para residuos sólidos y urbanos.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 702.
+
+Son prohibiciones en materia de protección a los animales:
+
+I.- Transitar por la vía pública con su mascota y no levantar las heces que defeque;
+
+II.- Mantener mascotas en las azoteas sin realizar los cambios indispensables en el bien inmueble para evitar caídas al vacío; o en balcones, patios, jardines, terrazas, huertas o cualquier espacio abierto sin proporcionarles lugar amplio y cubierto en el que estén protegidos de las inclemencias del tiempo y sin los cuidados necesarios;
+
+III.- Tener perros, gatos, aves, roedores u otros animales encerrados en habitaciones, baños, jaulas o cualquier otro espacio que no les permita su movilidad natural o peces en vasos o recipientes cuyas dimensiones sean reducidas y no aseguren su supervivencia:
+
+IV.- Utilizar perros para el cuidado de lotes baldíos, casas deshabitadas, giros comerciales o cualquier otro espacio sin que se les proporcionen los cuidados necesarios;
+
+V.- Tener perros afuera de las fincas sin los cuidados necesarios para su protección y de las personas que transiten por la vía pública;
+
+VI.- Mantener perros y/o gatos atados en condiciones que afecten su necesidad de movilidad, de tal manera que tengan que permanecer parados o sentados, rodeados de sus propias heces o sujetos con materiales que les causen sufrimiento y daño;
+
+VII.- Mantener perros o gatos permanentemente enjaulados;
+
+VIII.- Molestar y azuzar a los animales;
+
+IX.- Hacinar animales de cualquier especie en alguna finca o terreno de tal manera que se puedan provocar molestias o afectar la salud de los vecinos o daños a los propios animales;
+
+X.- Efectuar prácticas dolorosas o realizar cualquier intervención quirúrgica que no se realice bajo el cuidado de un médico veterinario zootecnista titulado con cédula profesional vigente;
+
+XI.- Utilizar a los animales para las prácticas docentes;
+
+XII.- Cambiar el color natural de un animal por razones puramente estéticas o para facilitar su venta;
+
+XIII.- Dejar a los animales encerrados en el interior de los vehículos o en las cajuelas sin ventilación;
+
+XIV.- Organizar, permitir o presenciar las peleas de perros;
+
+XV.- Atar a los animales a cualquier vehículo en movimiento incluyendo bicicletas y patinetas, obligándolos a correr a la velocidad de éste;
+
+XVI.- Arrojar animales vivos en la vía pública;
+
+XVII.- Exceder el horario de trabajo de los animales de tiro por más de ocho horas;
+
+XVIII.- Carecer de condiciones higiénico-sanitarias adecuadas para su cuidado en el caso de animales utilizados en ferias, espectáculos y/o eventos;
+
+XIX.- Someter a los animales a la exposición del sol, la lluvia, luces intensas o sistemas de sonido que les puedan ocasionar incomodidad y daño;
+
+XX.- Cortar sus cuerdas vocales para evitar que ladre o maúlle;
+
+XXI.- Arrojar animales vivos en recipientes para su cocción o freimiento;
+
+XXII.- Utilizar animales en experimentos cuando la disección no tenga una finalidad científica;
+
+XXIII.- Colgar al animal vivo o quemarlo;
+
+XIV (SIC).- Extraerles las uñas o mutilarles los dientes o cualquier otra parte de su cuerpo por razones puramente estéticas o para facilitar su venta;
+
+XV.- Trasladar a los animales arrastrándolos, suspendidos de los miembros superiores o inferiores o en el interior de costales, cajas o bolsas sin ventilación;
+
+XVI.- Utilizar a los animales para prácticas sexuales;
+
+XVII.- Introducir animales vivos a los refrigeradores, hornos de microondas, estufas, tubos, drenajes, alcantarillas, cajas, pozos, enterrarlos vivos, o llevar a cabo cualquier procedimiento similar que les produzca daño;
+
+XVIII.- Abandonar a los animales en el interior de las fincas sin los cuidados necesarios, por cambio de domicilio o por ausentarse durante tiempo prolongado;
+
+XIX.- Producir la muerte del animal por un medio que le cause dolor, sufrimiento o que le prolongue su agonía;
+
+XX.- Provocar la muerte de animales mediante la estrangulación, asfixia, aplicación de cloruro de potasio, a golpes, utilizando electricidad, ácidos, fuego, instrumentos punzocortantes o cualquier otro dispositivo o procedimiento que les pueda provocar dolor innecesario, sufrimiento o prolonguen su agonía;
+
+XXI.- Utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad, y
+
+XXII.- Utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO QUINTO (SIC). De la Denuncia Popular
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 703.
+
+El Ayuntamiento a través del departamento de ecología en conjunto con Protección Civil, elaborará un programa de prevención, atención para casos de emergencia, riesgo, siniestro o contingencia ambiental inminente, acorde con los programas municipal, estatal y federal.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 704.
+
+Cuando se presenten emergencias o contingencias ambientales, el Ayuntamiento, a través del departamento de Ecología, podrá ordenar el aseguramiento de materiales o substancias contaminantes; la clausura temporal, parcial o definitiva de las fuentes contaminantes, observando el marco jurídico estatal y federal relativo a la materia.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 705.
+
+El departamento de Ecología podrá solicitar el auxilio de fuerza pública para efectuar visitas de inspección o para la aplicación de medidas de seguridad, con el objeto de hacer frente de manera inmediata, a la emergencia o contingencia ambiental, cuando se obstaculice la práctica de las diligencias, independientemente de la aplicación de las sanciones que resulten procedentes para quienes se opongan al cumplimiento de las medidas de seguridad.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO PRIMERO. De Disposiciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 706.
+
+La denuncia popular es el acto en virtud del cual una persona física o moral hace del conocimiento a la autoridad municipal, la verificación o comisión de posibles ilícitos relativos a las fuentes de contaminación y desequilibrio ecológico, que pudieran repercutir en daños ecológicos a la población señalando en su caso a él o los presuntos responsables para la aplicación de las sanciones previstas en el presente Título y demás leyes relacionadas con la materia.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 707.
+
+La denuncia popular podrá presentarse ante el Departamento de Ecología o ante el Consejo Municipal de Protección al Ambiente quienes le darán seguimiento, mediante previo trámite e investigación otorgará respuesta al denunciante, en un plazo no mayor de 10 días hábiles a la fecha de su recepción.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 708.
+
+Si la denuncia popular resultare de competencia federal o estatal, El Departamento de Ecología o el Consejo Municipal de Protección Ambiental, remitirán para su atención y trámite a la autoridad competente, en un plazo que no exceda de 5 días hábiles a partir de la fecha de su recepción, informando de ello por escrito al denunciante.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 709.
+
+El departamento de Ecología, requiere para darle curso y seguimiento a la denuncia popular los siguientes requisitos:
+
+I.- Ubicación de la posible fuente de contaminación, calle, número, colonia y Código postal;
+
+II.- Horario aproximado en que se produce la mayor emisión de contaminantes;
+
+III.- Datos de la clase de contaminante que se produce;
+
+IV.-. Datos del presunto(s) responsable(s) en caso de que se conozcan; y
+
+V.- Datos del denunciante para respuesta y seguimiento.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 710.
+
+La PROFEPA o el municipio, inclusive, darán curso y seguimiento a la denuncia, y ordenará a un inspector para que se constituya en el domicilio de la posible fuente de contaminación, a efecto de que proceda a realizar las inspecciones necesarias para la comprobación de la existencia de la contaminación denunciada.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
 
@@ -10271,7 +10739,7 @@ XXI.- Utilizar a los vehículos tirados por animales para trasladar mercancías,
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO DECIMO SEXTO. DEL MANEJO DE AREAS VERDES
+## TITULO PRIMERO. DE LA SEGURIDAD PUBLICA
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -10281,7 +10749,9 @@ XXI.- Utilizar a los vehículos tirados por animales para trasladar mercancías,
 
 ###### ARTICULO 711.
 
-El presente capítulo se compone de las disposiciones reglamentarias, organizacionales y funcionales relativas a la operación de la Dirección de Seguridad Pública, su objeto es regular la conformación, organización, actuación y funcionamiento de la Secretaría y su observancia es obligatoria para todo su personal.
+El presente capítulo se compone de las disposiciones reglamentarias, organizacionales y funcionales relativas a la operación de la Dirección de Seguridad Pública, su objeto es regular la conformación, organización, actuación y funcionamiento de la Dirección y su observancia es obligatoria para todo su personal.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 La coordinación en un marco de respeto a las atribuciones entre las instancias de la Federación, el Estado y el municipio, es el eje de la seguridad pública.
 
@@ -11289,11 +11759,11 @@ El Instituto Estatal de Seguridad Pública de Aguascalientes será una instancia
 
 La legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos son principios de actuación que los integrantes operativos de la Dirección deben observar invariablemente en el desempeño de sus funciones, con el más alto sentido de la disciplina y compromiso de servicio hacia la comunidad, respetando y haciendo que se respete la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Constitución Política del Estado de Aguascalientes, la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, este Código y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 778.
 
-Los elementos pertenecientes a la Dirección, independientemente de las obligaciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, deberán:
+Los elementos pertenecientes a la Dirección, independientemente de las obligaciones que establece la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, deberán:
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -11549,17 +12019,17 @@ III.- Proporcionalidad: que el uso de la fuerza sea adecuado y corresponda a la 
 
 #### SECCION QUINTA. De la Suspensión Temporal
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 780.
 
 Los principios éticos y los aspectos disciplinarios constituyen la base de la actuación adecuada de los elementos operativos de la Dirección y las Corporaciones Auxiliares.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 781.
 
-La conducta de los elementos operativos de la Dirección y las Corporaciones Auxiliares, dentro y fuera del servicio, se ajustará a los principios de legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos o comisiones.
+La conducta de los elementos operativos de la Dirección y las Corporaciones Auxiliares en el desempeño de sus funciones, empleos, cargos o comisiones se ajustará a los principios de legalidad, objetividad, eficiencia, honradez, lealtad, imparcialidad y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -11579,43 +12049,95 @@ El deber es el conjunto de obligaciones que contraen todos los elementos operati
 
 El individuo que ocupe cualquier cargo dentro de la Dirección y Corporaciones Auxiliares y reciba como retribución un sueldo asignado por el Municipio, tiene la obligación de poner toda su voluntad, esfuerzo y dedicación, al servicio de la sociedad, de las Instituciones y del País.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 785.
 
 Además de las contenidas en el artículo 778 son obligaciones de los integrantes operativos con mando, las siguientes:
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 I.- Imponer las sanciones procedentes a sus subordinados, en términos de lo dispuesto por este libro;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 II.- Revisar en forma cuidadosa la documentación relativa al servicio, bitácora diaria e informe policial homologado y remitirlas al superior jerárquico;
 
-III.- Poner a disposición del Médico de Guardia a los integrantes operativos que se presenten al pase de lista, sean sorprendidos durante su servicio, o conduzcan un vehículo oficial con aliento alcohólico o bajo los efectos de bebidas embriagantes;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-IV.- Dar ejemplo a sus subordinados con su conducta, sus actos, palabras, puntualidad, honestidad y justicia, inspirándoles confianza y aprecio a los mismos;
+III.- Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos bajo el mando y conducción del Ministerio Público, así como en situaciones de grave riesgo, catástrofes o desastres;
 
-V.- Mantener el orden y la disciplina para con los subordinados;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-VI.- Propiciar el buen entendimiento, la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo, profesionalismo, solidaridad y la cooperación en sí mismo y en el personal bajo su mando;
+IV.- Ejecutar los mandamientos judiciales y ministeriales;
 
-VII.- Conocer a sus subordinados, su mentalidad, proceder, actitudes, condiciones de salud, cualidades y defectos, con la finalidad de asignar adecuadamente los servicios y comisiones en las que intervengan, garantizando un buen desempeño;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-VIII.- Supervisar las acciones de sus subordinados durante el servicio;
+V.- Obtener y mantener actualizado su Certificado Único Policial;
 
-IX.- Expresar las órdenes sólo en forma general, definiendo el objetivo por alcanzar, sin entrar en detalles de ejecución, salvo que así lo requiera la orden, promoviendo la iniciativa entre los subordinados;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-X.- Respetar el ejercicio del derecho de opinión y petición de sus subordinados, siempre y cuando sea expresado por escrito y en forma respetuosa;
+VI.- Obedecer las órdenes de los superiores jerárquicos o de quienes ejerzan sobre él funciones de mando y cumplir con todas sus obligaciones, realizándolas conforme a derecho;
 
-XI.- Realizar juntas generales con el personal a su cargo una vez al mes para escuchar en forma directa, quejas o sugerencias relacionadas con el servicio;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XII.- Hacer que sus subordinados conozcan y apliquen las disposiciones establecidas como principios de actuación y obligaciones en este Reglamento, en los manuales e instrumentos normativos aplicables
+VII.- Responder, sobre la ejecución de las órdenes directas que reciba, a un solo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
 
-XIII.- Dar parte al superior jerárquico y a la instancia correspondiente de toda sanción hecha a los integrantes operativos y supervisar que sea anexado a su expediente el documento probatorio.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XIV.- Proponer al Presidente de la Comisión de Normatividad Interna la emisión, actualización, modificación o derogación de los manuales administrativos y de operación necesarios;
+VIII.- Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
 
-XV.- Cuando tenga conocimiento de una falta cometida por un subordinado, impondrá y ejecutará la sanción reglamentaria que corresponda, tomando en consideración la gravedad de la misma, las circunstancias que contribuyeron a su realización, así como los antecedentes y grado jerárquico del infractor, entre otras, sancionando las que sean de su competencia y turnando a la superioridad aquéllas que lo ameriten.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-Lo anterior sin detrimento de los demás instrumentos normativos aplicables.
+IX.- Poner a disposición del Médico de Guardia a los integrantes operativos que se presenten al pase de lista, sean sorprendidos durante su servicio, o conduzcan un vehículo oficial con aliento alcohólico o bajo los efectos de bebidas embriagantes; IV (SIC).- Dar ejemplo a sus subordinados con su conducta, sus actos, palabras, puntualidad, honestidad y justicia, inspirándoles confianza y aprecio a los mismos;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+X.- Mantener el orden y la disciplina para con los subordinados;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XI.- Propiciar el buen entendimiento, la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo, profesionalismo, solidaridad y la cooperación en sí mismo y en el personal bajo su mando;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XII.- Conocer a sus subordinados, su mentalidad, proceder, actitudes, condiciones de salud, cualidades y defectos, con la finalidad de asignar adecuadamente los servicios y comisiones en las que intervengan, garantizando un buen desempeño;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XIII.- Supervisar las acciones de sus subordinados durante el servicio;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XIV.- Expresar las órdenes sólo en forma general, definiendo el objetivo por alcanzar, sin entrar en detalles de ejecución, salvo que así lo requiera la orden, promoviendo la iniciativa entre los subordinados;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XV.- Respetar el ejercicio del derecho de opinión y petición de sus subordinados, siempre y cuando sea expresado por escrito y en forma respetuosa;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XVI.- Realizar juntas generales con el personal a su cargo una vez al mes para escuchar en forma directa, quejas o sugerencias relacionadas con el servicio;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XVII.- Hacer que sus subordinados conozcan y apliquen las disposiciones establecidas como principios de actuación y obligaciones en este Reglamento, en los manuales e instrumentos normativos aplicables
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII.- Dar parte al superior jerárquico y a la instancia correspondiente de toda sanción hecha a los integrantes operativos y supervisar que sea anexado a su expediente el documento probatorio.
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XIX.- Proponer la emisión, actualización, modificación o derogación de los manuales administrativos y de operación necesarios;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XX.- Imponer, cuando tenga conocimiento de una falta cometida por un subordinado, la sanción reglamentaria que corresponda, tomando en consideración la gravedad de la misma, las circunstancias que contribuyeron a su realización, así como los antecedentes y grado jerárquico del infractor, entre otras, sancionando las que sean de su competencia y turnando a la superioridad aquéllas que lo ameriten, y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XI (SIC).- Las demás que establezcan las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -11751,27 +12273,43 @@ Una vez notificada la suspensión, el integrante infractor deberá entregar inme
 
 V.- Degradación: Descenso en el nivel jerárquico y derechos que ostenta el integrante operativo, que se determina por el incumplimiento a las obligaciones propias de su función;
 
-VI.- Remoción: Separación definitiva del integrante operativo de la Dirección.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-Una vez notificada la remoción, el integrante infractor deberá entregar inmediatamente, a quien designe el Director de Seguridad Pública, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones.
+VI.- Destitución: Separación definitiva del integrante operativo de la Dirección.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Una vez notificada la destitución, el integrante infractor deberá entregar inmediatamente, a quien designe el Director de Seguridad Pública, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones.
 
 En todos los casos que se señalan en el presente artículo las sanciones y correctivos disciplinarios que se impongan a los integrantes operativos de la Dirección deberán constar por escrito, estar debidamente fundados y motivados.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 806.
 
 La calificación, aplicación y ejecución de las sanciones y correctivos disciplinarios será conforme a las siguientes reglas:
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 I) Los Superiores jerárquicos de la Dirección podrán imponer a sus subordinados los correctivos disciplinarios consistentes en amonestación o arresto, informando al Director, dentro de los tres días siguientes a su aplicación, exponiendo las causas que lo motivaron y su fundamento.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 II) El Director tienen la atribución de imponer las sanciones y correctivos disciplinarios de amonestación, arresto y cambio de adscripción.
 
-III) La Comisión de Honor y Justicia podrá imponer según la gravedad de la falta las sanciones y correctivos disciplinarios consistentes en suspensión degradación y remoción y su ejecución corresponde al Director.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+III) La Comisión de Honor y Justicia tiene la facultad de imponer las sanciones de suspensión, degradación y destitución.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 Las sanciones señaladas en el artículo 805 no constituyen obligación para aplicarlas en forma progresiva, éstas se impondrán cuando proceda, sin respetar orden o consecución alguna, dependiendo de la gravedad de la falta.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 Con independencia de las acciones que competan a otras autoridades ajenas a la Dirección, no podrá aplicarse más de una sanción por los mismos hechos.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 De conformidad con las disposiciones legales aplicables, cualquier integrante operativo de seguridad pública, podrá ser separado de sus cargo si no cumple con los requisitos de las leyes vigentes que, en el momento del acto, señalen para permanecer en la Dirección o removido por incurrir en responsabilidad en el desempeño de sus funciones. Si cualquier autoridad de las descritas en el presente artículo resolviere la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fuese injustificada, el Municipio sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que, en ningún caso, proceda su reincorporación al servicio y el pago de salarios caídos cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
@@ -11785,7 +12323,9 @@ Asimismo la conclusión del servicio por cualquiera de sus causas será registra
 
 #### SECCION SEPTIMA. De la Rescisión o Destitución
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE SEPTIEMBRE DE 2018, SE ADVIERTE QUE SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PASANDO DE DIECINUEVE FRACCIONES A DIECISIETE.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 807.
 
@@ -12021,27 +12561,51 @@ V.- Por requerirse para mantener una buena relación e imagen con la comunidad d
 
 ###### ARTICULO 811.
 
-Se impondrá el correctivo disciplinario de suspensión temporal sin goce de sueldo, por las siguientes infracciones o faltas:
+Se impondrá el correctivo disciplinario de suspensión temporal sin goce de sueldo hasta por noventa días naturales, por las siguientes infracciones o faltas:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Por reincidencia en las faltas que ameriten arresto;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Por manifestar a sus compañeros disgusto o inconformidad por pertenecer a la Dirección;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Por difamar el honor de sus compañeros, o familiares de éstos;
 
-IV.- Por estar sujeto a proceso penal por hechos ocurridos con motivo del desempeño de su servicio y su estancia en la Corporación pueda afectar la investigación. Si el elemento resulta sin responsabilidad en resolución ejecutoriada, se le reintegrará al servicio pagándosele sus sueldos y prestaciones que hubiese dejado de percibir hasta ese momento;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- Por estar sujeto a proceso penal y en libertad condicional, por conductas delictivas con motivo del desempeño de su servicio o fuera de él, si a juicio de la Comisión su presencia en la Corporación pueda afectar la investigación.
+
+Si el elemento operativo queda sujeto a prisión preventiva y no puede presentarse al servicio, la suspensión se establecerá hasta por los noventa días previstos por la Ley, luego de los cuáles se iniciará el procedimiento de destitución por abandono del servicio.
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Por estar sujeto a procedimiento ante la Comisión de Honor y Justicia, cuando se trate de falta o infracción que denigre a la Corporación;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Por causar daños o provocar pérdidas a los bienes del Municipio, mientras no se cubra el monto de éstos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VII.- Por no acudir a recibir la capacitación que se le orden;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VIII.- Por liberar un detenido sin orden o autorización de la autoridad competente;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IX.- Por infligir o tolerar actos de tortura, tratos crueles, inhumanos o degradantes a aquellas personas que se encuentren bajo su custodia;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 X.- Por impartir órdenes a sus subalternos que contravengan las leyes, reglamentos, el presente Código y demás disposiciones o que lastimen la dignidad o decoro de sus subalternos o constituyan un delito;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XI.- Por Aceptar obsequios de sus subalternos o permitir que se promuevan o colecten suscripciones con ese objeto, salvo por ocasiones sociales.
 
@@ -12065,47 +12629,73 @@ Se impondrá la sanción de perdida de grado cuando se niegue a asistir a los cu
 
 Se impondrá la sanción de Destitución cuando el elemento operativo:
 
-I.- Falte a su servicio asignado por más de tres días consecutivos sin causa justificada, o acumule en un término de treinta días más de tres faltas. En este caso, el Director procederá como lo previene el Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado, sus Municipios y Organismos Descentralizados, dando de baja al elemento;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+I.- Falte a su servicio asignado por más de tres días consecutivos sin causa justificada, o acumule más de tres faltas en un término de treinta días.
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- Incurra en falta de probidad y honradez durante el servicio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 III.- Porte el arma de cargo fuera del servicio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IV.- Ponga en peligro a los particulares a causa de su imprudencia, descuido, negligencia o abandono del servicio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 V.- Se presente a sus labores en estado de ebriedad, o bajo el influjo de sustancias psicotrópicas o estupefacientes o por consumirlas durante el servicio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VI.- Desacate injustificadamente las órdenes de sus superiores;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VII.- Revele asuntos secretos o reservados de los que tenga conocimiento;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 VIII.- Falsee, omita o altere informes o documentos relativos al desempeño de sus funciones;
 
-Aplique a sus subalternos en forma dolosa o reiterada correctivos disciplinarios inmerecidos;
-
-Omita o retarde dolosamente la aplicación de sanciones a sus subalternos en caso de evidente procedencia;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IX.- Obligue a sus subalternos a entregarle dinero o cualquier otro tipo de dádivas, a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 X.- Use armamento y equipo de procedencia o estancia ilegal o carente de registro;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XI.- Utilice equipo y armamento para fines distintos a la función pública asignada;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XII.- Insista en cometer faltas mostrándose incorregible, a pesar de que se le hayan aplicado varios de los correctivos disciplinarios;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIII.- Reciba sentencia judicial condenatoria por la comisión de un delito doloso, dentro o fuera del servicio;
 
-XIV.- Sustraer bienes o recursos asignados para el servicio;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XIV.- Sustraiga bienes o recursos asignados para el servicio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XV.- Incurra en cohecho durante su servicio;
 
-XVI.- Abandone el servicio sin autorización. Se considera abandono del servicio, además, si no se presenta al pase de lista al concluir el turno;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XVII.- Dé positivo en los exámenes antidoping.
+XVI.- Dé positivo en los exámenes antidoping, y
 
-XVIII.- No guarde la reserva y confidencialidad necesarias respecto al desempeño de sus funciones; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-XIX.- Acose sexualmente a detenidos o subordinados.
+XVII.- Acose sexualmente a detenidos o subordinados.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -12219,51 +12809,65 @@ La Comisión de Honor y Justicia se integrará por:
 
 I.- Un Presidente que será el Director de Seguridad Pública;
 
-II.- Un Secretario Técnico que contará sólo con voz y será el Coordinador de Asuntos de Honor y Justicia adscrito a la Secretaría del H Ayuntamiento, el cual deberá ser Licenciado en Derecho y contar con una experiencia mínima de dos años en Seguridad Pública;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-III.- Cinco Vocales que contarán con voz y voto y serán los siguientes:
+II.- Un Secretario Técnico que será el jefe del Departamento de Asuntos Internos de la Dirección de Seguridad Pública y Vialidad;
 
-a. El Regidor Presidente de la Comisión de Seguridad Pública del H Ayuntamiento.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-b. Dos elementos operativos de la Dirección. Ambos deberán contar con al menos cinco años continuos de servicio en la Dirección;
+III.- Cuatro Vocales que contarán con voz y voto y serán los siguientes:
 
-c. Dos ciudadanos reconocidos con destacada solvencia moral, pertenecientes al Consejo Municipal de Consulta y Participación Ciudadana;
+a).- El Regidor Presidente de la Comisión de Seguridad Pública del H Ayuntamiento;
+
+b).- Una persona designada por el ayuntamiento a propuesta del Presidente Municipal:
+
+c).- Un elemento operativo de la Dirección, y
+
+d).- Un ciudadano con destacada solvencia moral, pertenecientes al Consejo Municipal de Consulta y Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 IV.- Un Fiscal, que será el Síndico Municipal, quien contará sólo con voz y fungirá como instancia acusadora.
 
-El Presidente, el fiscal y cada uno de los vocales designarán un suplente. Los anteriores cargos son honoríficos y no percibirán retribución alguna por sus funciones.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+El Presidente, el fiscal y cada uno de los vocales contarán con un suplente. Los anteriores cargos son honoríficos y no percibirán retribución alguna por sus funciones.
 
 Cuando la Comisión de Honor y Justicia considere que la actuación de alguno de los vocales previstos en el presente artículo, pone en riesgo el correcto desempeño de la Comisión, tendrá la facultad de remover al vocal en cuestión, exponiendo las causas que lo motivaron a tomar dicha decisión. Asimismo, al día siguiente a la remoción del vocal en cuestión, el Presidente de la Comisión de Honor y Justicia deberá solicitar a la instancia correspondiente la designación de uno nuevo en un término de cinco días y, en caso de que agotado el término no exista designación alguna, la Comisión de Honor y Justicia procederá a designarlo directamente atendiendo a los requisitos señalados anteriormente.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 823.
 
-Los regidores integrantes de la Comisión serán designados por el H. Ayuntamiento a propuesta del Presidente Municipal.
+El elemento operativo y el ciudadano serán designados por el Presidente Municipal.
 
-Los elementos operativos integrantes de la Comisión serán designados por el Presidente Municipal y durarán un año en su encargo.
+El Secretario Técnico fungirá como secretario de actas y acuerdos y contará con el auxilio de un actuario notificador, nombrado por la Comisión a propuesta de su Presidente.
 
-El Secretario de acuerdos y el Actuario notificador, serán nombrados por la Comisión a propuesta de su Presidente.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 824.
 
-Son parte de la Comisión.
+Son partes del procedimiento ante la Comisión:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- El Síndico Municipal, quien fungirá como fiscal, pudiendo ejercer esta función mediante un representante;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- El Elemento Operativo, y en su caso la persona de su confianza que nombre como su Defensor.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 825.
 
 La Comisión de Honor y Justicia tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-I.- Conocer los asuntos que le turne el Director respecto de las faltas graves previstas en el artículo 778 del presente ordenamiento, en que incurran los integrantes operativos, así como a los principios de actuación y obligaciones previstos en este Código y demás disposiciones legales aplicables.
+I.- Conocer sobre las faltas de los elementos operativos que de conformidad con lo dispuesto por los artículos 811, 812 y 813 del presente código ameriten las sanciones de suspensión, degradación y destitución, diligenciando el procedimiento sancionador respectivo;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 II.- Dictar, durante el proceso, las medidas necesarias para conocer la verdad legal sobre cada caso en particular, ajustándose a los principios esenciales de debido proceso.
 
@@ -12277,25 +12881,43 @@ La separación cesará cuando la Comisión de Honor y Justicia resuelva el asunt
 
 Si el integrante operativo sujeto a la medida de seguridad fue separado temporalmente y no resultare responsable de la falta que se le atribuye, será restituido en el goce de sus derechos y se le cubrirán íntegramente las percepciones que debió recibir durante el tiempo que estuvo separado.
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 IV.- Comunicar a la instancia correspondiente cuando se advierta notoriamente en el proceso la probable comisión de delitos o faltas de los integrantes operativos.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 V.- Dictar en cada caso la resolución que corresponda, imponiendo las sanciones de su competencia a los integrantes operativos de la Dirección de Seguridad Pública, por la comisión de las faltas previstas en el presente ordenamiento;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VI.- Participar en la aprobación de estímulos previstos en este Código y demás instrumentos normativos aplicables;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VII.- Rendir informes trimestrales al Secretario del H. Ayuntamiento;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VIII.- Notificar al Sistema Nacional de Seguridad Pública, sobre las faltas graves sancionadas con re moción que resolviere respecto de los elementos de seguridad pública, en un término de tres días hábiles siguientes a su resolución.
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 IX.- Acordar las notas que hayan de ponerse en el expediente personal de servicio del elemento operativo;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 X.- Ordenar la instrucción del procedimiento administrativo para recabar y desahogar las probanzas necesarias a fin de resolver las quejas o denuncias interpuestas;
 
 Cuando por la naturaleza de las pruebas fuere necesario trasladarse a otro lugar, se nombrará representante para tal efecto, o se trasladarán en pleno los integrantes de la Comisión que estuvieren en la reunión para continuar la diligencia;
 
-XI - Examinar los expediente u hojas de servicio de los elementos operativos y practicar las diligencias que le permitan allegarse de elementos necesarios para dictar resolución;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XII- Las demás que le señale la Ley y el presente Código.
+XI.- Examinar los expediente u hojas de servicio de los elementos operativos y practicar las diligencias que le permitan allegarse de elementos necesarios para dictar resolución;
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XII.- Las demás que le señale la Ley y el presente Código.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
@@ -12653,23 +13275,31 @@ IX.- Por motivo de las funciones propias del elemento operativo, no se desprenda
 
 X.- Cuando lo solicite la fiscalía por no tener pruebas suficientes que acrediten la responsabilidad del elemento operativo.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 846.
 
 Cualquier situación no prevista en este Libro se estará a lo dispuesto por:
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 I.- La Ley de del Sistema Estatal de Seguridad Pública de Aguascalientes;
 
-II.- La Legislación Penal de Aguascalientes;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-III.- La Ley de Responsabilidades de los Servidores Públicos del Estado; y
+II.- El Código Nacional de Procedimientos Penales;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+III.- La Ley de Responsabilidades Administrativas del Estado, y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 IV.- A los principios, de Justicia y Equidad.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO PRIMERO. DE LA SEGURIDAD PUBLICA
+## TITULO SEGUNDO. DEL SERVICIO DE BOMBEROS
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -12869,7 +13499,7 @@ En todo lo relativo a derechos de los elementos del servicio de Bomberos, correc
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO SEGUNDO. DEL SERVICIO DE BOMBEROS
+## TITULO TERCERO. DE LA VIALIDAD MUNICIPAL
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13755,7 +14385,7 @@ IV.- Con el producto del remate, la autoridad municipal procederá a cubrir el m
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO TERCERO. DE LA VIALIDAD MUNICIPAL
+## TITULO CUARTO. DE LA PROTECCIÓN CIVIL
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -14131,7 +14761,7 @@ Los grupos de emergencia establecidos en el territorio municipal, habrán de pre
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO CUARTO. DE LA PROTECCIÓN CIVIL
+## TITULO PRIMERO. DE LA ORDENACION Y REGULACION DEL DESARROLLO URBANO
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -15261,7 +15891,7 @@ Una vez satisfechos los requisitos que establece el presente capítulo, la Direc
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO PRIMERO. DE LA ORDENACION Y REGULACION DEL DESARROLLO URBANO
+## TITULO SEGUNDO. DE LAS CONSTRUCCIONES
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -17319,7 +17949,7 @@ Las áreas destinadas a andadores, deberán estar libres de los estorbos que pue
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO SEGUNDO. DE LAS CONSTRUCCIONES
+## TITULO TERCERO. DE LOS REQUISITOS ESTRUCTURALES
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -18163,7 +18793,7 @@ serán Normas Técnicas Complementarias del presente libro las pertenecientes al
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO TERCERO. DE LOS REQUISITOS ESTRUCTURALES
+## TITULO QUINTO. DE LA EJECUCION DE OBRAS
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19031,7 +19661,7 @@ Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumen
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO QUINTO. DE LA EJECUCION DE OBRAS
+## TITULO QUINTO. DEL USO, OPERACION Y MANTENIMIENTO
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19105,7 +19735,7 @@ Quedan prohibidas instalaciones y construcciones precarias en las zonas de las e
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO QUINTO. DEL USO, OPERACION Y MANTENIMIENTO
+## TITULO PRIMERO. DEL COMERCIO E INDUSTRIA EN GENERAL
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19591,7 +20221,7 @@ Mediante convenios, la administración municipal apoyará a las cámaras, asocia
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO PRIMERO. DEL COMERCIO E INDUSTRIA EN GENERAL
+## TITULO SEGUNDO. DEL COMERCIO Y OTRAS ACTIVIDADES EN LA VIA PUBLICA
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19875,7 +20505,7 @@ Corresponde al H. Ayuntamiento fijar las tarifas de pago y horario de servicio d
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO SEGUNDO. DEL COMERCIO Y OTRAS ACTIVIDADES EN LA VIA PUBLICA
+## TITULO TERCERO. DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20775,7 +21405,7 @@ No podrán expender sin receta médica los medicamentos que determine la Secreta
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO TERCERO. DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
+## TITULO CUARTO. DE LOS ESPECTACULOS PUBLICOS EN GENERAL
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20917,7 +21547,7 @@ VIII.- Las demás que se establezcan en el presente Código y demás normas jur�
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO CUARTO. DE LOS ESPECTACULOS PUBLICOS EN GENERAL
+## TITULO QUINTO. DE LOS FESTEJOS TAURINOS
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21917,7 +22547,7 @@ Los toros para forcados podrán estar sin puntas, embolados o cubrir los cuernos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO QUINTO. DE LOS FESTEJOS TAURINOS
+## TITULO SEXTO. DE LAS FERIAS Y FIESTAS MUNICIPALES
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22841,9 +23471,9 @@ Una vez realizada la auditoría a la fiesta o feria, el H. Ayuntamiento en pleno
 
 (ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)Í
 
-## TITULO SEXTO. DE LAS FERIAS Y FIESTAS MUNICIPALES
+## TITULO PRIMERO. DE LOS REQUISITOS Y FORMALIDADES
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
 ### CAPITULO SEGUNDO. Del Procedimiento Administrativo
 
@@ -23929,7 +24559,7 @@ Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar s
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO PRIMERO. DE LOS REQUISITOS Y FORMALIDADES
+## TITULO SEGUNDO. DE LAS INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24653,9 +25283,11 @@ Si resulta responsable, al notificarle la resolución, el Juez le informará que
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO SEGUNDO. DE LAS INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
+## TITULO TERCERO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+DE LA INDIVIDUALIZACION DE SANCIONES.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 1984.
 
@@ -25747,12 +26379,6 @@ III.- Se resista sin justificación a los reconocimientos médicos y clínicos q
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-## TITULO TERCERO
-
-DE LA INDIVIDUALIZACION DE SANCIONES.
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
-
 ### CAPITULO SEGUNDO. De la Resolución del Recurso
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
@@ -26262,3 +26888,11 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGUASCALIENTES, EN MATERIA DE ECOLOGÍA Y SEGURIDAD PÚBLICA”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
+
+SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
