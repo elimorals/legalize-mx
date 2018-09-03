@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2018-06-25"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -1949,7 +1949,9 @@ Los Consejos Estatal y municipales de Consulta y Participación Ciudadana se int
 
 Es competencia de los Consejos Estatal y Municipales de Consulta y Participación Ciudadana:
 
-I. Promover la participación organizada de la sociedad, en actividades relacionadas con la seguridad pública;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+I. Promover la participación organizada de la sociedad, en actividades relacionadas con la seguridad pública, así como difundir información para la prevención social del delito;
 
 II. Establecer un sistema permanente que permita identificar la percepción de seguridad de la ciudadanía, del que puedan desprenderse conclusiones acerca de los puntos que deban atender las autoridades en seguridad pública para mejorar la percepción de seguridad del ciudadano;
 
@@ -2267,4 +2269,12 @@ P. O. 25 DE JUNIO DE 2018.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación el (sic) en Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación el en (sic) Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 363.- SE REFORMA EL ARTÍCULO 125 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el en (sic) Periódico Oficial del Estado.
