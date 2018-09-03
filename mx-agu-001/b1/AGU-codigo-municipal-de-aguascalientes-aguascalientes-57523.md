@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-07-16"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:16 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -583,7 +583,9 @@ XXVI. Consejo Municipal de la Juventud de Aguascalientes.
 
 XXVII. Comité de Transparencia y Acceso a la Información del Municipio de Aguascalientes.
 
-XXVIII. Comisión de Admisión de Peritos.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+XXVIII. Comisión de Peritos.
 
 XXIX. Consejo que regula la venta de sustancia de efectos psicotrópicos.
 
@@ -5209,7 +5211,9 @@ VI. Determinar el tipo de construcciones que se puedan edificar en el municipio.
 
 VII. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y usos de la vía pública de acuerdo a los planes y programas de desarrollo urbano.
 
-VIII. Coordinar la Comisión de Admisión de Peritos, llevar el registro de los peritos así como asignar peritajes por servicio social en los casos que prevé este Código.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Coordinar la Comisión de Peritos, llevar el registro de los peritos, así como asignar peritajes por servicio social en los casos que prevé este Código.
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
 
@@ -13209,11 +13213,15 @@ En caso de no ser colegiado, el solicitante deberá manifestar su conformidad en
 
 d) Estar domiciliado en el Estado de Aguascalientes por lo menos dos años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno y bajo este mismo período comprobar experiencia en ejecución de obras de edificación de las que trata el presente Libro;
 
-e) Demostrar ante la Comisión de Admisión de Peritos, conocimientos sobre el contenido y aplicación de la Reglamentación Municipal en materia de construcciones mediante la acreditación de un examen que consistirá de dos partes: la primera que corresponderá al conocimiento de los contenidos del presente Libro y los correspondientes del Código Urbano y la segunda correspondiente a la elaboración de un proyecto estructural específico, así como aceptar las responsabilidades que los contenidos del presente Libro le indica y acatar las condiciones y restricciones que la Comisión de Admisión de Peritos le imponga;
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+e) Demostrar ante la Comisión de Peritos, conocimientos sobre el contenido y aplicación de la Reglamentación Municipal en materia de construcciones mediante la acreditación de un examen que consistirá de dos partes: la primera que corresponderá al conocimiento de los contenidos del presente Libro y los correspondientes del Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, y la segunda correspondiente a la elaboración de un proyecto estructural específico, así como aceptar las responsabilidades que los contenidos del presente Libro le indica y acatar las condiciones y restricciones que la Comisión de Peritos le imponga;
 
 f) Presentar por escrito su Currículo Vitae en el que se detalle la experiencia indicada en los contenidos de la presente fracción; y
 
-g) Que se emita dictamen favorable para su registro por la Comisión de Admisión de Peritos.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+g) Que se emita dictamen favorable para su registro por la Comisión de Peritos.
 
 h) Para el refrendo de Perito Responsable de Obra, éste deberá presentar las constancias de habitabilidad que haya firmado en el año anterior.
 
@@ -13245,13 +13253,17 @@ d) Acreditar como mínimo cinco años en el ejercicio profesional de la especial
 
 e) Acreditar que es miembro del Colegio de Profesionistas respectivo con derechos vigentes y presentar el aval técnico del Colegio correspondiente para la especialidad;
 
-f) Aceptar las responsabilidades que el presente Libro le indique y acatar las condiciones y restricciones que la Comisión de Admisión de Peritos le imponga;
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+f) Aceptar las responsabilidades que el presente Libro le indique y acatar las condiciones y restricciones que la Comisión de Peritos le imponga;
 
 g) Presentar por escrito su Currículum Vitae, en el que se detalle la experiencia en materia de su especialidad;
 
 h) Estar domiciliado en el Estado de Aguascalientes por lo menos dos años, presentando la constancia de residencia correspondiente; y
 
-i) Que se emita dictamen favorable para su registro por la Comisión de Admisión de Peritos, conforme a las evaluaciones que la Comisión determine.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+i) Que se emita dictamen favorable para su registro por la Comisión de Peritos, conforme a las evaluaciones que la Comisión determine.
 
 ###### ARTÍCULO 639.
 
@@ -27696,6 +27708,12 @@ P.O. 16 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DE LA "ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
 ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE "REFORMAS A LOS ARTÍCULOS 15, FRAC. XXVIII; 112, FRAC. VIII; Y 638, FRAC. I, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES Y EL REGLAMENTO INTERIOR DE LA COMISIÓN DE PERITOS PARA EL MUNICIPIO DE AGUASCALIENTES".]
+
+ÚNICO.- Las presentes reformas y expedición de Reglamento, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
