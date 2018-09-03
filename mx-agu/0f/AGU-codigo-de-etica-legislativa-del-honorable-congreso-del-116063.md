@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-legislativa-del-honorable-congreso-del-116063"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-22"
-last_updated: "2016-08-22"
+last_updated: "2018-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ÉTICA LEGISLATIVA DEL HONORABLE CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de agosto de 2016.
 
@@ -181,17 +181,267 @@ IV. Dar cuenta de las comisiones desempeñadas y su resultado.
 
 Todo lo anterior, en concordancia con el Plan de Trabajo presentado.
 
-### CAPÍTULO IV. De la Comisión de Gobierno
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO IV. La Junta de Coordinación Política
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 9°.
 
-La Comisión de Gobierno es la competente para:
+La Junta de Coordinación Política es la competente para:
 
-I. Fomentar la cultura de la transparencia y rendición de cuentas mediante capacitaciones periódicamente sobre ética de la función pública, valores democráticos, sistema anticorrupción y diversos temas relacionados con el ejercicio de sus funciones públicas y sobre los contenidos de este Código;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-II. Promover los principios y valores ético-legislativos entre los integrantes del Congreso del Estado y en la sociedad en general; y
+I. Promover el cumplimiento y observancia de las disposiciones de este Código, aplicando y sancionando a los legisladores que hayan cometido alguna falta a este ordenamiento, de conformidad con lo establecido en la Ley Orgánica del Congreso del Estado Aguascalientes y su Reglamento, la Ley de Transparencia del Estado de Aguascalientes, la ley General del Sistema Anticorrupción y la correlativa Ley del Sistema Estatal de Anticorrupción y todas aquellas leyes aplicables en la materia;
 
-III. Aplicar y sancionar a los legisladores que hayan cometido alguna falta a este ordenamiento, de conformidad con lo establecido en la Ley Orgánica del Congreso del Estado Aguascalientes y su Reglamento, la Ley de Transparencia del Estado de Aguascalientes, la ley General del Sistema Anticorrupción y la correlativa Ley del Sistema Estatal de Anticorrupción y todas aquellas leyes aplicables en la materia.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+II. Promover y difundir los principios de conducta y deberes éticos entre los legisladores, su equipo de trabajo, así como de los servidores públicos del H. Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+III. Promover la transparencia y publicidad de los principios, valores y deberes de la conducta ética;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Prevenir a los Legisladores de actos contrarios a la ética y la conducta que deben mostrar en su actuar;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+V. Establecer los mecanismos necesarios para la presentación de quejas en contra de conductas contrarias a este Código, cometidas por cualquier Legislador, o por un conjunto de ellos;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Conocer las quejas que se presenten contra los Legisladores, por contravención a las disposiciones del presente Código, y emitir resoluciones de acuerdo con los procedimientos establecidos en el mismo. En todo caso, en la resolución que prevea una sanción deberán establecerse claramente las razones y motivos por los cuales resultaron inadecuadas las justificaciones vertidas por los Legisladores en la Junta de Coordinación Política durante el procedimiento;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Integrar, conservar, y dar acceso público a los expedientes derivados de las quejas y los procedimientos instaurados en los términos del presente Código; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Las demás que sean necesarias para cumplir con las disposiciones del presente Código.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+Los expedientes derivados de las quejas y procedimientos instaurados en los términos del presente Código, tendrán el carácter de reservados en términos de la Ley General de Transparencia y Acceso a la Información Pública, en tanto se emita la resolución, en cuya (sic) caso se publicará lo relativo en términos de la Fracción XVIII del Artículo 55 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO V. La Presentación, Emplazamiento y Audiencia de Descargo de la Queja
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 10.
+
+Todo proceso iniciado y seguido en contra de los Legisladores, o bien un conjunto de ellos, con motivo del presente Código, deberá sujetarse a las reglas y principios del debido proceso; será pronto, expedito, oral en su desahogo y por escrito en sus determinaciones, continuo y continuado, basado en razones, público, económico y enfocado al asunto en disputa.
+
+Las resoluciones de la Junta de Coordinación Política que tengan que ver con procedimientos sancionatorios serán tomadas por la mayoría de los integrantes con derecho de voto.
+
+Para los efectos del presente Código se entenderán todos los días como hábiles, salvo disposición expresa en contrario.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 11.
+
+La investigación sobre conductas contrarias al presente Código, puede iniciar de oficio o a petición de parte de cualquier ciudadano, bajo su más estricta responsabilidad.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 12.
+
+La Junta de Coordinación Política actuará de oficio por acuerdo de la mayoría de sus miembros, cuando tengan conocimiento de actos que contravengan las disposiciones de este Código.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 13.
+
+La Junta de Coordinación Política actuará a petición de parte, por efecto de una queja presentada ante el mismo por cualquiera otra persona física o moral que considere que la conducta de algún Legislador, o un conjunto de ellos, atenta contra los principios éticos prescritos en el presente Código.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 14.
+
+La parte quejosa deberá presentar su queja por escrito, la cual deberá contener lo siguiente:
+
+I. Nombre del quejoso, o bien señalar su carácter de anónimo;
+
+II. Domicilio para oír y recibir notificaciones, correo electrónico, y teléfono;
+
+III. El o los nombres de los Legisladores que motivan la queja;
+
+IV. Una narración sucinta de los hechos que dieron origen a la queja, así mismo mencionar el fundamento en que se basa la misma;
+
+V. Las razones por las cuales considera que los Legisladores han incurrido en violaciones al presente Código;
+
+VI. Las pruebas que ofrece para sustentar su queja; y
+
+VII. Los demás soportes que considere adecuados para sustentar y reforzar su queja.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 15.
+
+Recibida la queja, el Presidente de la Junta de Coordinación Política la remitirá al Secretario General del Poder Legislativo del Estado, el cual deberá, dentro de los cinco días siguientes:
+
+I. Si la queja no se encuentra dentro del ámbito de facultades de la Junta de Coordinación Política, elaborar un proyecto de resolución, fundada y motivada, que la rechazará. La resolución se presentará al pleno de la Junta de Coordinación Política y, en caso de ser aprobada, se ordenará su publicación en estrados del H. Congreso del Estado. Si la resolución es rechazada por la Junta de Coordinación Política, se regresará al que funja como Secretario General del Poder Legislativo del Estado para que abra el expediente y se instaure el proceso correspondiente;
+
+II. En caso de que la queja sea de una materia que no se encuentre dentro del ámbito de la competencia de la Junta de Coordinación Política, pero constituya materia de alguna violación legal, la Junta de Coordinación Política podrá recabar dicha evidencia o información de prueba, y en casos graves y probablemente atribuibles a los Legisladores, podrá impulsar o coadyuvar el procedimiento correspondiente entregando la evidencia que consiguiera, atestiguándola, y proveyendo de cualquier otro medio de convicción que le conste, a petición de la autoridad correspondiente;
+
+III. Si la queja se encuentra en las facultades de la Junta de Coordinación Política, abrirá el expediente y dará inicio al proceso que de dicha queja se derive. Toda acción que impulse, termine o canalice el proceso deberá estar debidamente basada en razones suficientes, estar en lenguaje simple, ser comunicada a quien lo solicite sin alguna negativa, indicando abiertamente el sentido de los votos de cada integrante con derecho de voto de la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 16.
+
+Una vez abierto el expediente, el Presidente de la Junta de Coordinación Política ordenará se realice el Emplazamiento, notificando por escrito y de manera personal a los Legisladores, dentro de los tres días siguientes.
+
+El resto de las notificaciones, se realizarán por notificación electrónica y en su defecto por estrados del Congreso del Estado. Lo anterior salvo la resolución, que se realizará en términos del Artículo 25 de este Código.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 17.
+
+El emplazamiento se realizará de manera personal, debiendo entregarles una copia del expediente que se haya formado con la queja y la documentación acompañada por la parte quejosa y documentos que formen parte del mismo.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 18.
+
+En cualquier momento del procedimiento, y de ser ello posible, derivado de la naturaleza de la queja, el Presidente y/o el Secretario de la Junta de Coordinación Política podrán intentar la conciliación entre las partes, observando en todo momento las reglas previstas para los procedimientos alternativos de solución de controversias.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 19.
+
+Una vez hecho el emplazamiento, dentro de los cinco días siguientes, el Legislador deberá formular su respuesta a la Junta de Coordinación Política. La misma Junta de Coordinación Política fijará lugar, fecha y hora para llevar a cabo la audiencia de descargo, la cual se llevará a cabo dentro de los tres días siguientes a dicho plazo de respuesta, previa notificación.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 20.
+
+En la audiencia de descargo podrán intervenir las partes, por sí mismos, y mediante un representante designado por ellos mismos solo en casos de incapacidad física para hacerlo. Se les concederá el uso de la palabra por lapsos equitativos y alternados, para que cada uno exponga los motivos y razones que justifican su dicho. En esa misma audiencia, las partes podrán ofrecer y presentar otras pruebas que consideren pertinentes.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 21.
+
+Una vez concluida la audiencia de descargo, si la Junta de Coordinación Política, mediante el voto de la mayoría de los integrantes con derecho de voto, considera que la queja es notoriamente improcedente, emitirá resolución definitiva en ese sentido y la notificará publicándola en los estrados del Congreso del Estado dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 22.
+
+Las partes tienen la obligación de brindar la colaboración más amplia durante la investigación y presentarse ante la Junta de Coordinación Política a citación del mismo para el desahogo de cualquier diligencia que requiera su participación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO VI. La Investigación, Resolución y Apelación de la Queja
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 23.
+
+Si de la audiencia de descargo no se deriva la resolución de improcedencia de la queja, la Junta de Coordinación Política declarará abierta la investigación por un período de hasta treinta días naturales y solicitará a las partes que aporten todas las pruebas de las que tengan conocimiento, debiendo desahogar todas aquellas que resulten idóneas. La Junta de Coordinación Política podrá ordenar la realización de las actuaciones y diligencias que considere necesarias, para informar debidamente su criterio.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 24.
+
+Concluido el plazo mencionado en el Artículo anterior, la Junta de Coordinación Política citará a las partes a una audiencia en la que se darán a conocer las conclusiones preliminares a las que se haya arribado. Las partes podrán solicitar la ampliación del plazo de investigación hasta por quince días naturales más, si señalan la existencia de pruebas supervinientes o no relacionadas previamente y solicitan su desahogo.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 25.
+
+Concluido el plazo a que se refiere el plazo del (sic) Artículo anterior, el Presidente de la Junta de Coordinación Política declarará cerrada la investigación y ordenará al Secretario General del Poder Legislativo del Estado que dentro de los tres días siguientes elabore el proyecto de resolución, mismo que enviará a los integrantes de la Junta de Coordinación Política para su revisión y comentarios, previo a la audiencia de resolución. Los integrantes de la Junta de Coordinación Política enviarán al Presidente sus comentarios u observaciones, en su caso, dentro de los tres días siguientes a la recepción del proyecto de resolución.
+
+Aprobado el proyecto de resolución será hecho del conocimiento de la Mesa Directiva y publicado en los estrados del Congreso del Estado para los efectos conducentes.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 26.
+
+El Presidente de la (sic) del Congreso declarará agotada la investigación y el desahogo de pruebas, y citará a la audiencia final en la cual la Junta de Coordinación Política resolverá, en definitiva.
+
+La audiencia de resolución deberá realizarse dentro de los cinco días siguientes con la presencia de las partes. La notificación a las partes se hará de manera personal con al menos tres días de anticipación a la fecha de realización de la audiencia.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 27.
+
+Si la resolución declara fundada la queja, en ella se establecerá la propuesta de sanción correspondiente en los términos del presente Código. El Presidente ordenará lo conducente conforme a las disposiciones de legislación orgánica, para su debido cumplimiento.
+
+En caso de que la Junta de Coordinación Política resuelva infundada la queja, el Presidente de la misma la hará del conocimiento de inmediato al Presidente de la Mesa Directiva del Congreso del Estado para los efectos conducentes.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 28.
+
+La resolución podrá ser apelada por cualquiera de las partes dentro de los tres días siguientes, mediante escrito dirigido y presentado al Presidente de la Junta de Coordinación Política, quien turnará el expediente y la resolución apelada a la Mesa Directiva del Congreso para su análisis y resolución definitiva.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 29.
+
+Los integrantes de la Junta de Coordinación Política deberán abstenerse, bajo responsabilidad, de conocer e intervenir en aquellos procedimientos de investigación que lleve a cabo la propia Junta de Coordinación Política, en los que tengan interés directo o indirecto en el resultado de la queja, de acuerdo con lo siguiente:
+
+I. Si son parte de los hechos expuestos en la queja;
+
+II. Si tienen parentesco de consanguinidad hasta el cuarto grado o de afinidad hasta el segundo grado con la parte quejosa; o
+
+III. Si tienen conflicto de intereses con los hechos y materias involucrados con la investigación.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 30.
+
+El Legislador que sea objeto de una queja por la cual la Junta de Coordinación Política haya incoado el procedimiento, podrá recusar a cualquier miembro del mismo, cuando concurran algunas inhibitorias señaladas en el artículo anterior, hasta antes de la sesión en la que la Junta de Coordinación Política haya de votar por la resolución de sanción aplicable.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 31.
+
+A todo proceso de oficio o a petición de parte, deberá recaer una resolución a más tardar dentro de los noventa días naturales siguientes a aquel en que se realizó el emplazamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO VII. Las Responsabilidades por Conductas contra la Ética Parlamentaria
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 32.
+
+La omisión de la observación y cumplimiento de los principios del servicio público de los Legisladores, y la violación a las disposiciones contenidas en el presente Código, constituyen conductas que atentan contra la ética parlamentaria, imputables a los Legisladores, sin menoscabo de las que correspondieron por disposición de otra normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 33.
+
+Por la realización de las conductas señaladas en el Artículo anterior, los Legisladores, podrán:
+
+I. Recibir amonestación pública o privada; o
+
+II. Recibir suspensión de la dieta, en los términos que marca el Artículo 178 Tercer Párrafo de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 34.
+
+Si de la audiencia de descargo o bien una vez concluido el período de investigación y emitida la resolución definitiva, se deduce una intención dolosa por parte del quejoso para desacreditar al Legislador o bien a la institución misma, se hará publicación destacada de la correspondiente resolución y se dará lectura en la tribuna del Congreso del Estado, debiendo incluirse en el Orden del Día de la sesión respectiva. Si la parte quejosa fuese un Legislador, la resolución que pudiere ver recaído en algún Legislador calumniado, le será aplicada a dicha parte quejosa, por la interposición de una queja mal intencionada que hubiere resultado, además, infundada.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 35.
+
+En caso de que en un proceso se tenga evidencia que implique a otro Legislador, y ellos personalmente lo comuniquen así por escrito a la Junta de Coordinación Política, podrán acumularse los procesos. De no ser así, se les hará la notificación correspondiente a los Legisladores implicados y se iniciará de oficio otro proceso en contra del que o los que resultaren implicados, tomando como evidencia todo lo actuado hasta el momento en el expediente original. Si alguna actuación se desacreditará en un proceso posterior, los efectos de la desacreditación serán tomados en cuenta en todos los procesos en los que hubiera tenido algún efecto.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 36.
+
+Será un elemento plausible para establecer buena fe de parte del Legislador acusado de violación al presente ordenamiento que voluntariamente provea cualquier prueba idónea que le exonere o le condene. Si el Legislador operará de mala fe para tratar de impedir una convicción justa contra él, ocultando o dificultado la provisión de pruebas, evidencia o razones que él pueda proveer sin dañar a inocentes, será este un elemento a tomar en cuenta para establecer la magnitud de la resolución.
 
 TRANSITORIOS:
 
@@ -226,3 +476,13 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 19 de agosto de 2016.- Carlos Lozano de la Torre.- Rúbrica.- Lic. Alejandro Bernal Rubalcava, en suplencia del Secretario General de Gobierno por ministerio de Ley. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 378.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE ÉTICA LEGISLATIVA DEL HONORABLE CONGRESO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día 14 de Septiembre de 2018.
