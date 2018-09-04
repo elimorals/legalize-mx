@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2018-08-24"
+last_updated: "2018-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2018.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1565,15 +1565,19 @@ Para el despacho de los asuntos que competen al Poder Ejecutivo, el Gobernador s
 
 2. Al efecto, se observarán los principios de idoneidad, experiencia, honorabilidad, especialización, profesionalismo, equidad de género e igualdad de oportunidades.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 88.
 
-El Poder Ejecutivo funcionará a través de dependencias centralizadas y entidades paraestatales, en los términos señalados en su ley orgánica.
+El Poder Ejecutivo funcionará a través de secretarías y dependencias centralizadas y entidades paraestatales, en los términos señalados en su ley orgánica.
 
-1. La organización, atribuciones, control y evaluación de las dependencias centralizadas, así como las relaciones entre ellas, se regularán por la propia ley orgánica y los reglamentos correspondientes; y,
+1. La organización, atribuciones, control y evaluación de las secretarías y dependencias centralizadas, así como las relaciones entre ellas, se regularán por la propia ley orgánica y los reglamentos correspondientes;
 
-2. La ley establecerá las bases generales de creación de las entidades paraestatales y la intervención del Gobernador en su operación, así como las relaciones entre las entidades y el Gobernador, o entre aquéllas y los órganos de la administración pública centralizada.
+2. La ley establecerá las bases generales de creación de las entidades paraestatales y la intervención del Gobernador Constitucional del Estado de Guerrero en su operación, así como las relaciones entre estas, el Gobernador y las secretarías, dependencias y órganos de la administración pública centralizada;
+
+3. El Gobernador representará al Estado en los asuntos en que éste sea parte, por conducto del Consejero Jurídico del Poder Ejecutivo; y
+
+4. La atribución de representar y asesorar jurídicamente al Gobernador del Estado, estará a cargo de quién ejerza la función de Consejero Jurídico del Poder Ejecutivo, en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2605,9 +2609,9 @@ El Tribunal de Justicia Administrativa del Estado de Guerrero contará con una S
 
 3. Contará con el personal jurídico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en su ley orgánica y en su reglamento interior; y
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2018)</small>
 
-4. La Sala Superior del Tribunal le corresponderá la resolución de los procedimientos a que se refiere el artículo 138 fracción II de esta Constitución.
+4. Al Tribunal de Justicia Administrativa, le corresponderá la resolución de los procedimientos señalados en la fracción II del artículo 138 de esta Constitución.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2661,9 +2665,13 @@ VII. Las demás que determine la ley y su reglamento.
 
 El Ministerio Público se organizará en una Fiscalía General del Estado de Guerrero, como órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios, que se regirá en su actuación por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-1. Corresponde al Ministerio Público la representación social de los guerrerenses y la de naturaleza jurídica del Estado en los asuntos en los que sea parte, cuando así lo estipule la ley;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2018)</small>
 
-2. La persecución ante los Tribunales, de todos los delitos del orden común, a tal fin solicitará las medidas cautelares contra los imputados, recabará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes prevean como delito;
+1. Corresponde al Ministerio Público la investigación de los delitos y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función, así como la representación social de los guerrerenses en materia penal;
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2018)</small>
+
+2. Corresponde al Ministerio Público, la persecución ante los tribunales de los delitos del orden común en materia penal, para tal fin solicitará las medidas cautelares contra los imputados, recabará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes prevean como delitos; garantizará que los juicios estatales se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; asimismo, pedirá la aplicación de las penas;
 
 3. El ejercicio de la acción penal ante los Tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial;
 
@@ -5222,3 +5230,19 @@ CUARTO. Los actuales Auditores Especiales de la Auditoría Superior del Estado, 
 QUINTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
 
 SEXTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 4 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 463 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+Segundo. Una vez que entren en vigor las disposiciones de este Decreto, se procederá de la forma siguiente:
+
+El Consejero Jurídico del Poder Ejecutivo y la Fiscalía General del Estado, deberán realizar de manera coordinada las acciones necesarias a efecto de garantizar la sustitución de la representación del Estado, ante todos aquellos órganos o instituciones en los que se siga un procedimiento y que el Estado sea parte.
+
+La Fiscalía General del Estado entregará al Consejero Jurídico del Poder Ejecutivo o a quien este designe todos los expedientes y demás accesorios que tenga bajo su resguardo respecto de los asuntos en los que ejercía la representación del Estado, dentro de los treinta días hábiles siguientes a la entrada en vigor de este Decreto, así como un informe detallado del estatus, antecedentes y observaciones de cada uno de ellos.
+
+De manera conjunta el Consejero Jurídico del Poder Ejecutivo y la Fiscalía General del Estado, darán seguimiento a los procedimientos compartiendo la responsabilidad por un término transitorio no menor a tres meses, a efecto de que no se vean afectados los procedimientos por la transición.
+
+La Fiscalía General del Estado, transferirá los recursos financieros y materiales etiquetados y designados para la representación del Estado de Guerrero a la dependencia que realice las funciones de Consejero Jurídico del Poder Ejecutivo, los titulares de ambas dependencias realizarán las previsiones necesarias para que dichos recursos queden transferidos el mismo día en que entren en vigor las disposiciones señaladas en el presente Decreto.
