@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2018-08-23"
+last_updated: "2018-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3365,8 +3365,6 @@ IV. Separar o impedir el desempeño de su cargo a algún servidor público, esta
 
 ### CAPÍTULO II TER. DESAPARICIÓN FORZADA DE PERSONAS
 
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
-
 ###### Artículo 310.
 
 A quienes, para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público, con empleo de violencia en las personas o sobre las cosas o amenacen a la autoridad para obligarla a tomar alguna determinación, se les impondrán de seis meses a tres años de prisión, multa hasta de cuarenta días de salario y suspensión de derechos políticos hasta por dos años.
@@ -3537,103 +3535,37 @@ XX. Omita el registro de la detención correspondiente o dilate injustificadamen
 
 Se impondrán de cinco a quince años de prisión y multa de quinientas a mil Unidades de Medida y Actualización, y prohibición para desempeñar cargo, empleo o comisión públicos, tomando en consideración el monto de la simulación ocurrida, al servidor o ex servidor público que ordene, autorice o realice el reintegro de recursos públicos a las cuentas bancarias aperturadas para el depósito de recursos financieros de carácter federal, estatal o municipal que le sean asignados al ente público, con la finalidad de resarcir el patrimonio público o solventar las observaciones que hayan sido determinadas por la Auditoría Superior, el Órgano de Fiscalización Superior del Estado, la Contraloría o cualquier otra autoridad que lo hubiere ordenado, y posteriormente los asigne o desvíe nuevamente a un fin distinto al que originalmente estaban reservados o destinados por disposición de ley.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 4 DE SEPTIEMBRE DE 2018)</small>
+
 ### CAPÍTULO VII. EXACCIÓN ILEGAL
 
 ###### Artículo 318 Ter.
 
-Comete el delito de desaparición forzada de persona el servidor público que realice, ordene, autorice, consienta, tolere, apoye o conozca de la detención o privación de la libertad de una persona y además incurra en una o más de las siguientes hipótesis:
-
-I. Se niegue a reconocer dicha detención o privación de la libertad;
-
-II. Omita dolosamente o se niegue a rendir informe sobre dicha detención o privación de libertad;
-
-III. Oculte o mantenga dolosamente el ocultamiento de la víctima;
-
-IV. Se niegue a informar sobre cualquier dato que tenga sobre la detención, la privación de libertad o el paradero de la víctima; y
-
-V. Dolosamente proporcione información falsa o rinda informes falsos sobre la detención, la privación de libertad o el paradero de la víctima. Al servidor público que cometa el delito de desaparición forzada de persona, se le impondrá una pena de diez a treinta años de prisión y multa de mil a cuatro mil días de salario, además de la inhabilitación definitiva para ejercer la función pública.
-
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 318 Quater.
 
-Será igualmente considerado como sujeto activo del delito de desaparición forzada de persona, el particular que:
-
-I. Con la autorización, apoyo, tolerancia, o aquiescencia de algún servidor público, realice alguna de las conductas descritas en el artículo anterior; y
-
-II. Intervenga con cualquier grado de autoría o participación en la comisión de alguna de las hipótesis descritas en el artículo anterior. Al particular que cometa el delito de desaparición forzada de persona, se le impondrá una pena de diez a veinticinco años de prisión y multa de quinientos a dos mil días de salario.
-
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 318 Quinquies.
 
-Se equipara al delito de desaparición forzada de persona el omitir entregar a su familia o a la autoridad a una persona, viva o muerta, que haya nacido durante la privación de libertad de una mujer víctima de desaparición forzada de persona y se sancionará conforme a lo dispuesto en los dos artículos anteriores.
+(DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2018)
 
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+###### Artículo 318 Sexies.
 
-###### Artículo 318. Sexies.
-
-Se sancionará, a quien sin ser autor o partícipe, incurra en alguna de las conductas relacionadas con este delito, conforme a lo siguiente:
-
-I. Ayude a eludir la aplicación de la justicia o a entorpecer la investigación de cualquiera de los delitos de desaparición forzada de persona o su equiparado, con pena de cinco a diez años de prisión y multa de doscientos a mil días de salario;
-
-II. Teniendo conocimiento de la comisión de este delito, omita dar aviso a la autoridad correspondiente, con pena de cinco a diez años de prisión y multa de doscientos a mil días de salario;
-
-III. No evite la comisión de este delito, pudiendo hacerlo sin riesgo propio o ajeno, con pena de uno a cinco años de prisión y multa de cien a quinientos días de salario; y
-
-IV. Teniendo conocimiento del destino final de una persona nacida de una mujer víctima de desaparición forzada de persona, no proporcione la información a la autoridad competente, con pena de tres a seis años de prisión y multa de cien a trescientos días de salario. Si fuere servidor público, se sancionará además con inhabilitación definitiva e inconmutable para ejercer la función pública.
-
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 318 Septies.
 
-Serán atenuantes punitivas y reducirán la pena hasta en una mitad, las siguientes:
-
-I. Que la víctima fuere liberada espontáneamente durante los cinco días siguientes a su privación de libertad; y
-
-II. Que quien hubiere intervenido con cualquier grado de participación en la comisión del delito, o quien no lo hubiere evitado pudiendo hacerlo, proporcione información que conduzca a la libertad de la víctima.
-
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 318 Octies.
 
-Serán atenuantes punitivas y reducirán la pena hasta en un tercio, las siguientes:
-
-I. Que el autor o partícipe proporcione información que conduzca a dar con el paradero de los restos corpóreos de la víctima; y
-
-II. Que el autor material del delito proporcione información relativa a la responsabilidad y paradero del autor intelectual y se logre la ubicación o captura de éste.
-
-> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 318 Nonies.
 
-Serán agravantes punitivas y aumentarán la pena hasta en una mitad más, las siguientes:
-
-I. Que durante la desaparición forzada a la víctima le sobrevenga la muerte;
-
-II. Que se haya realizado alguna acción tendiente a ocultar el cadáver de la víctima;
-
-III. Que se haya realizado la conducta con el fin de ocultar o procurar la impunidad por la comisión de otro delito;
-
-IV. Que la víctima sea periodista o defensor de derechos humanos;
-
-V. Que se haya realizado la conducta con el fin de obtener algún beneficio;
-
-VI. Que la desaparición forzada se ejecute como consecuencia de una práctica policial en la investigación o persecución de algún delito;
-
-VII. Que la víctima se encuentre en una situación de vulnerabilidad. Se considera situación de vulnerabilidad la condición de desventaja de la víctima derivada de una o más de las siguientes circunstancias:
-
-a) Su origen, sexo, orientación sexual, o condición socioeconómica precaria;
-
-b) Nivel educativo, falta de oportunidades, embarazo, violencia o discriminación sufridas previas a la consumación de este delito;
-
-c) Trastorno físico o mental, o discapacidad;
-
-d) Pertenencia a un pueblo o comunidad indígena;
-
-e) Tener más de sesenta años de edad o menos de dieciocho; y
-
-f) Su condición migratoria, aislamiento social, cultural o lingüístico.
+(DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO VIII. INTIMIDACIÓN
 
@@ -5033,19 +4965,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. En la aplicación del presente Decreto se empleará el principio de sucesión de normas penales sustantivas.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXIII BIS AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SEGURIDAD PRIVADA”.]
+G.O. 4 DE SEPTIEMBRE DE 2018.
 
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 678 POR EL QUE SE DEROGA EL CAPÍTULO II TER DEL TÍTULO XVII DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo. Dentro del plazo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión deberá expedir la ley general en materia de seguridad privada a que hace referencia el artículo 73, fracción XXIII Bis de la Constitución Política de los Estados Unidos Mexicanos.
+Primero. El presente Decreto entrará en vigor treinta días posteriores a su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
 
-Tercero. Dentro del plazo de 180 días naturales siguientes a la entrada en vigor de la ley general de seguridad privada a que se refiere el artículo 73, fracción XXIII Bis de la Constitución Política de los Estados Unidos Mexicanos, el Congreso de la Unión y las legislaturas de las entidades federativas deberán expedir la legislación necesaria para adecuar el marco normativo con este Decreto y la ley citada. Mientras tanto, continuará en vigor la legislación en los términos que se encuentre a la fecha de entrada en vigor del presente Decreto.
-
-Para el caso que no se lleven a cabo las adecuaciones normativas, dentro del plazo concedido al Congreso de la Unión y a las legislaturas de las entidades federativas, deberá cesar la aplicación de la legislación que no se ajuste al contenido de la mencionada ley general y, en su caso, aplicarse directamente el contenido de ésta.
-
-Cuarto. Los asuntos en trámite hasta el momento en que entre en vigor la ley general en materia de seguridad privada, se concluirán conforme a la legislación con que se iniciaron.
-
-D.O.F. 18 DE NOVIEMBRE DE 2022.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE GUARDIA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 26 DE MARZO DE 2019”.]
 
