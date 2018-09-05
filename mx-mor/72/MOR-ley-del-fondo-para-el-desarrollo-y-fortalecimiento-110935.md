@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-fondo-para-el-desarrollo-y-fortalecimiento-110935"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-08"
-last_updated: "2018-07-13"
+last_updated: "2018-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MOR"
 
 > <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA DÉCIMA DEL DECRETO NÚMERO TRES MIL DOSCIENTOS CINCUENTA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL FONDO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS.
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018 (ABROGADA).
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE SEPTIEMBRE DE 2018.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el martes 8 de diciembre de 2015.
 
@@ -445,11 +445,11 @@ RÚBRICAS
 
 P.O. 13 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL DOSCIENTOS CINCUENTA.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS Y DEL DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y UNO, POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2018, ASÍ COMO SE ABROGA LA LEY DEL FONDO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS, DADA LA AUTONOMÍA CONSTITUCIONAL DE LA FISCALÍA GENERAL DEL ESTADO Y EL FORTALECIMIENTO DE OTROS TRIBUNALES ESTATALES, ASÍ COMO LOGRAR UN BALANCE PRESUPUESTARIO SOSTENIBLE”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL DOSCIENTOS CINCUENTA.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS Y DEL DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y UNO, POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2018, ASÍ COMO SE ABROGA LA LEY DEL FONDO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS, DADA LA AUTONOMÍA CONSTITUCIONAL DE LA FISCALÍA GENERAL DEL ESTADO Y EL FORTALECIMIENTO DE OTROS TRIBUNALES ESTATALES, ASÍ COMO LOGRAR UN BALANCE PRESUPUESTARIO SOSTENIBLE".]
 
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos dispuestos por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
 
 TERCERA. El Poder Ejecutivo Estatal, a través de la Secretaría de Hacienda, realizará las transferencias y ministraciones necesarias para el cumplimiento del presente Decreto.
 
@@ -483,13 +483,15 @@ IV. Los casos no previstos en la presente disposición, se resolverán por la au
 
 SÉPTIMA. A partir de la entrada en vigor del presente Decreto, se extingue el organismo público dotado de personalidad y patrimonio propio denominado Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos, a que se refiere el artículo 2 de la Ley del Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos abrogada en virtud del presente instrumento.
 
-En consecuencia, el Congreso del Estado emitirá el acuerdo que establezca las acciones y lineamientos para la liquidación del organismo referido en el párrafo anterior, a más tardar en un plazo de 15 días hábiles contados a partir de la entrada en vigor de este Decreto.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2018)</small>
+
+En consecuencia, el Congreso del Estado, a través de la Junta Política y de Gobierno emitirá el acuerdo que establezca las acciones y lineamientos para la liquidación del organismo referido en el párrafo anterior, a más tardar en un plazo de 15 días hábiles contados a partir de la entrada en vigor de este Decreto.
 
 OCTAVA. Excepcionalmente, a partir de la entrada en vigor de este Decreto, se autoriza la cancelación de los montos reportados en cuentas públicas como pendientes por transferir efectivamente a los fideicomisos a que se refiere la Disposición Quinta Transitoria del presente instrumento, con sus efectos contables y presupuestales respectivos, debiendo tales ajustes aplicarse a la obtención de un balance presupuestario sostenible.
 
 NOVENA. Las Secretarías de Hacienda y de la Contraloría, ambas del Poder Ejecutivo Estatal, deberán realizar las acciones respectivas según sus ámbitos de competencia, para vigilar el debido cumplimiento del presente Decreto.
 
-DÉCIMA. Se abroga la Ley del Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 5350, de 08 de diciembre de 2015.
+DÉCIMA. Se abroga la Ley del Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", número 5350, de 08 de diciembre de 2015.
 
 DÉCIMA PRIMERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
