@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-economico-sustentable-del-estado-libre-y-6140
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-04"
-last_updated: "2018-07-13"
+last_updated: "2018-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE DESARROLLO ECONOMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE SEPTIEMBRE DE 2018.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de junio de 2008.
 
@@ -37,7 +37,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -375,7 +377,7 @@ Para la aplicación de una tasa preferencial, se deberá acreditar una relación
 
 Lo anterior, tendrá aplicación en cuanto a los derechos de inscripción en el Registro Público de la Propiedad y el Comercio del Estado de Morelos, de actas constitutivas y de contratos destinados estrictamente a la actividad productiva, entre otros de naturaleza similar.
 
-La persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, establecerá la tasa preferencial, la cual deberá ser publicada en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado, para su entrada en vigor.
+La persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, establecerá la tasa preferencial, la cual deberá ser publicada en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado, para su entrada en vigor.
 
 ###### Artículo 23.
 
@@ -721,7 +723,9 @@ IV. Los casos no previstos en la presente disposición, se resolverán por la au
 
 SÉPTIMA. A partir de la entrada en vigor del presente Decreto, se extingue el organismo público dotado de personalidad y patrimonio propio denominado Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos, a que se refiere el artículo 2 de la Ley del Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos abrogada en virtud del presente instrumento.
 
-En consecuencia, el Congreso del Estado emitirá el acuerdo que establezca las acciones y lineamientos para la liquidación del organismo referido en el párrafo anterior, a más tardar en un plazo de 15 días hábiles contados a partir de la entrada en vigor de este Decreto.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2018)</small>
+
+En consecuencia, el Congreso del Estado, a través de la Junta Política y de Gobierno emitirá el acuerdo que establezca las acciones y lineamientos para la liquidación del organismo referido en el párrafo anterior, a más tardar en un plazo de 15 días hábiles contados a partir de la entrada en vigor de este Decreto.
 
 OCTAVA. Excepcionalmente, a partir de la entrada en vigor de este Decreto, se autoriza la cancelación de los montos reportados en cuentas públicas como pendientes por transferir efectivamente a los fideicomisos a que se refiere la Disposición Quinta Transitoria del presente instrumento, con sus efectos contables y presupuestales respectivos, debiendo tales ajustes aplicarse a la obtención de un balance presupuestario sostenible.
 
