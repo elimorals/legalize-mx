@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-participacion-ciudadana-del-estado-de-chihuahua-129262"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-23"
-last_updated: "2018-06-23"
+last_updated: "2018-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE SEPTIEMBRE DE 2018.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 23 de junio de 2018.
 
@@ -605,7 +605,9 @@ I. La persona titular del Poder Ejecutivo Estatal, cuando voten a favor de revoc
 
 II. Diputaciones por el principio de mayoría relativa, cuando voten a favor de revocar el mandato al menos un equivalente al treinta por ciento de la ciudadanía de la Lista Nominal Distrital correspondiente.
 
-III. Diputaciones por el principio de representación proporcional, cuando no voten a favor de revocar el mandato al menos un equivalente al tres por ciento de la ciudadanía de la Lista Nominal Estatal.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2018)</small>
+
+III. Diputaciones por el principio de representación proporcional, cuando voten a favor de revocar el mandato al menos un equivalente al tres por ciento de la ciudadanía de la Lista Nominal Estatal.
 
 IV. De titulares de presidencias municipales y sindicaturas, cuando voten a favor de revocar el mandato al menos:
 
