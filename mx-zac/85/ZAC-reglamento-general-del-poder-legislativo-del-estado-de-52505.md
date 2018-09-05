@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2017-10-28"
+last_updated: "2018-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -2704,3 +2704,15 @@ Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decr
 Artículo tercero. Los titulares de los órganos internos de control de los organismos constitucionales autónomos, serán designados y tomarán protesta ante el Pleno de la Legislatura, dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto.
 
 Artículo cuarto. Para los efectos del párrafo tercero del artículo 113 de la Constitución Política del Estado Libre y Soberano de Zacatecas y artículo segundo transitorio de la Ley de Justicia Administrativa del Estado de Zacatecas, la Comisión de Régimen Interno y Concertación Política, integrará tres listas de ocho candidatos, cada una de ellas, para los Magistrados que durarán en su encargo 3, 5 y 7 años, misma que será puesta a la consideración del Pleno.
+
+P.O. 5 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Reglamento General entrará en vigor el siete de septiembre de dos mil dieciocho, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se abroga el Reglamento General del Poder Legislativo del Estado de Zacatecas, aprobado mediante Decreto número 346, publicado en el Suplemento al número 99 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 13 de diciembre de 2006.
+
+Artículo tercero. Se derogan todas aquellas disposiciones que contravengan este Reglamento.
+
+Artículo cuarto. Los manuales de organización y procedimientos, así como la demás normatividad que derive del presente Reglamento deberán ser aprobados dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Reglamento.
