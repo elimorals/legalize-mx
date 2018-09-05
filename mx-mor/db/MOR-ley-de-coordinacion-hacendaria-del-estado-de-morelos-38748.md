@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2018-07-13"
+last_updated: "2018-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MOR"
 ---
 # LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE SEPTIEMBRE DE 2018.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -61,7 +63,7 @@ Por su parte, el Instituto de Finanzas y Federalismo Hacendario del Estado, es i
 
 Ambos institutos desarrollan atribuciones tendientes a brindar asesoría técnica y jurídica en las materias que por mandato constitucional están a cargo de los ayuntamientos, resultando que el Instituto de Desarrollo y Fortalecimiento Municipal, principalmente proporciona asistencia técnica en materias administrativas, de planeación y hacienda y coadyuva en la formulación de proyectos de carácter reglamentario o en manuales administrativos y el Instituto de Finanzas Públicas y Federalismo Hacendario realiza estudios relativos al Sistema Nacional y Estatal de Coordinación Hacendaria, realiza estudios permanentes de la legislación de los sistemas hacendarios de la Federación, Estados y Municipios y, atendiendo a que las funciones de los dos institutos se encuentran íntimamente ligadas con el desarrollo municipal, con la finalidad de incrementar la eficiencia para el desarrollo municipal y lograr su fortalecimiento, es que se propone la integración de funciones en un solo órgano que proceda a los municipios de la asesoría técnica, jurídica y contable en las atribuciones que por ley están a cargo de los ayuntamientos.
 
-Por lo anteriormente expuesto, se propone desaparecer el Instituto de Coordinación Hacendaria y que las funciones y atribuciones sean absorbidas por el Instituto de Desarrollo y Fortalecimiento Municipal, desde su integración, los elementos de su composición, lo (sic) métodos de desintegración de sus integrantes, su status institucional y sus competencias principales que resultan centrales para la configuración del modelo de Estado, revistiéndolo de todas las atribuciones que actualmente competen a los dos institutos a efecto de que sea un modelo de Órgano Constitucional Autónomo.
+Por lo anteriormente expuesto, se propone desaparecer el Instituto de Coordinación Hacendaria y que las funciones y atribuciones sean absorbidas por el Instituto de Desarrollo y Fortalecimiento Municipal, desde su integración, lo (sic) elementos de su composición, los métodos de desintegración de sus integrantes, su status institucional y sus competencias principales que resultan centrales para la configuración del modelo de Estado, revistiéndolo de todas las atribuciones que actualmente competen a los dos institutos a efecto de que sea un modelo de Órgano Constitucional Autónomo.
 
 Dentro del análisis a los motivos expuestos observamos la insistencia de señalar que son dos Institutos diferentes en su origen pero análogos en sus funciones y objetivos, y que al mismo tiempo explica que la Ley de Coordinación Hacendaria del Estado de Morelos, ha sufrido reformas, derogaciones y adiciones, por lo que se propone su abrogación para dar a luz a una Ley más completa en su estructura, lo que no encuentra impedimento dentro de la técnica legislativa para llevarse a cabo.
 
@@ -171,15 +173,11 @@ d) El factor obtenido se multiplica en cada municipio por el monto a distribuir 
 
 El Gobierno del Estado, por conducto de la Secretaría de Despacho encargada de la Hacienda Pública, entregará a los municipios las participaciones, de los distintos fondos y conceptos participables que les correspondan, dentro de los cinco días siguientes a la recepción de los recursos de la federación. El retraso dará lugar al pago de intereses, a la tasa de recargo que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el artículo 6º de la Ley de Coordinación Fiscal de la Federación. De las liquidaciones que haga la Secretaría de Despacho encargada de la Hacienda Pública a los Municipios les entregará constancia pormenorizando cada uno de los conceptos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 9.
 
 Las participaciones que corresponden a los municipios del Estado son inembargables y no estarán sujetas a retención, ni podrán afectarse a fines específicos, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el artículo 9° de la Ley de Coordinación Fiscal de la Federación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -207,8 +205,6 @@ Los recursos que por concepto de aportaciones federales reciban el Estado y los 
 
 Los recursos de los fondos de aportaciones federales que correspondan al Gobierno del Estado podrán ser ejercidos por los Ayuntamientos siempre y cuando existan convenios específicos para tal efecto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 13 Bis.
@@ -220,8 +216,6 @@ La afectación de aportaciones federales y sus accesorios como garantía o fuent
 ###### Artículo 14.
 
 El Congreso del Estado a través del Órgano técnico de fiscalización será el responsable de supervisar, vigilar, fiscalizar, constatar e informar de la correcta aplicación de los recursos de los fondos de aportaciones federales que reciban el estado y los municipios, así como fincar, en su caso, las responsabilidades correspondientes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 15.
 
@@ -263,8 +257,6 @@ La distribución por municipios se incluirá en el Presupuesto de Egresos del Go
 
 La Secretaría de Despacho encargada de la hacienda pública, del Poder Ejecutivo y los Ayuntamientos elaborarán conjuntamente el Programa Financiero Anual en aquellos casos en que el Gobierno del Estado asuma obligaciones contingentes u otorgue garantías al municipio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 17.
@@ -276,8 +268,6 @@ La Secretaría de Despacho encargada de la hacienda pública del estado, de mane
 El Gobierno del Estado y los municipios o éstos entre sí, podrán celebrar convenios de coordinación sobre su patrimonio, principalmente con relación a los bienes destinados a un servicio público que presten en conjunto y exista convenio de coordinación o de colaboración administrativa en materia de dicho servicio.
 
 ### CAPÍTULO VI. De los Organismos en Materia de Coordinación Hacendaria
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -295,8 +285,6 @@ IV.- El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelo
 
 El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos será el secretario técnico de los organismos señalados en las fracciones I, II y III de este artículo y tendrá derecho a voz, pero no a voto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
@@ -304,8 +292,6 @@ El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos ser
 La Reunión Estatal de Funcionarios Hacendarios se integrará por la persona titular del Poder Ejecutivo del Estado, por sí o por conducto de la persona titular de la Secretaría de Despacho encargada de la hacienda pública estatal, los Presidentes Municipales de los 33 Municipios del Estado por sí o por conducto de la persona titular de la Tesorería Municipal y por el Diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado.
 
 La Reunión Estatal de Funcionarios Hacendarios, será presidida de manera colegiada por el Titular del Poder Ejecutivo y del Coordinador de la Comisión Permanente de Funcionarios Hacendarios; éste último será elegido por los representantes municipales integrantes de la citada Comisión Permanente de Funcionarios Hacendarios y durará en su encargo de Coordinado, por el plazo de un año.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -316,8 +302,6 @@ La Reunión Estatal de Funcionarios Hacendarios, se reunirá en sesión ordinari
 Para la validez de las sesiones, ordinarias o extraordinarias, se requerirá de la asistencia de cuando menos la mitad más uno de los integrantes de la Reunión, entre los cuales deberán estar quienes la presiden. Las decisiones que se adopten, para ser válidas requerirán de la aceptación mayoritaria de los asistentes a la sesión, con excepción de los supuestos en que esta Ley o su Reglamento dispongan otra cosa.
 
 En la convocatoria se señalarán el domicilio, fecha y horario en que habrá de llevarse a cabo la reunión y los asuntos que deban tratarse en ella.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -341,8 +325,6 @@ VII.- Para el ejercicio de sus facultades, la Reunión Estatal de Funcionarios H
 
 VIII.- Determinar las sedes, agenda y temática de la Reunión Estatal de Funcionarios Hacendarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 22.
@@ -363,15 +345,11 @@ GRUPO SEIS: Amacuzac, Coatlán del Río, Mazatepec, Miacatlán y Tetecala.
 
 Cada Grupo zonal designará de entre sus integrantes a un representante para integrar a la Comisión Permanente de Funcionarios Hacendarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 23.
 
 Los representantes de los municipios, miembros de la Comisión Permanente de Funcionarios Hacendarios, durarán en su encargo un año y no podrán ser reelectos por ningún motivo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -382,8 +360,6 @@ La Comisión Permanente Estatal de Funcionarios Hacendarios sesionará cuando me
 El Coordinador de la Comisión será elegido de entre los representantes de los Municipios del Estado, al momento de renovarse la Comisión Permanente de Funcionarios Hacendarios y durará en su encargo un año. En esta elección no participarán los representantes de los Poderes Ejecutivo y Legislativo.
 
 Para que haya quórum en las reuniones de la Comisión Permanente de Funcionarios Hacendarios, se requiere de la asistencia del Coordinador y la mitad más uno de sus integrantes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -402,8 +378,6 @@ IV.- Realizar estudios y propuestas relativos al Sistema Nacional de Coordinaci�
 V.- Las demás que le otorgue la Reunión Estatal de Funcionarios Hacendarios.
 
 Para el ejercicio de sus facultades, la Comisión Permanente de Funcionarios Hacendarios, se apoyará en el Instituto de Desarrollo y Fortalecimiento Municipal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -429,8 +403,6 @@ d) Grupo de Patrimonio, y
 
 e) Grupo Jurídico.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 25 Bis 1.
@@ -438,8 +410,6 @@ e) Grupo Jurídico.
 La Junta de Coordinación Hacendaria se integra por el representante que designe la Secretaría de Despacho encargada de la hacienda pública estatal y los representantes de los Municipios en la Comisión Permanente de Funcionarios Hacendarios.
 
 Estará presidida conjuntamente por uno de los representantes de la Secretaría de Despacho encargada de la hacienda pública estatal y por un representante elegido de entre los Municipios miembros de la Comisión Permanente de Funcionarios Hacendarios cuya designación deberá ser aprobada por la Reunión Estatal de Funcionarios Hacendarios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -451,8 +421,6 @@ Para que haya quórum en las reuniones de la Junta de Coordinación Hacendaria s
 
 En la convocatoria se señalarán el domicilio, fecha y horario en que habrá de llevarse a cabo la reunión y los asuntos que deban tratarse en ella.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 25 Bis 3.
@@ -461,8 +429,6 @@ La Junta de Coordinación Hacendaria, es el órgano colegiado encargado de formu
 
 Las propuestas contendrán las opiniones de todos y cada uno de los integrantes de la misma, inclusive con los votos particulares de los miembros que así lo soliciten.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
@@ -470,8 +436,6 @@ Las propuestas contendrán las opiniones de todos y cada uno de los integrantes 
 El Instituto de Desarrollo y Fortalecimiento Municipal, se integrará conforme lo establece el artículo 118 bis, de la Constitución Local que actuará como órgano de consulta y análisis técnico de los Municipios en materia hacendaria.
 
 El Instituto de Desarrollo y Fortalecimiento Municipal será el Secretario Técnico de los órganos del Sistema de Coordinación Hacendaria.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -721,7 +685,9 @@ IV. Los casos no previstos en la presente disposición, se resolverán por la au
 
 SÉPTIMA. A partir de la entrada en vigor del presente Decreto, se extingue el organismo público dotado de personalidad y patrimonio propio denominado Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos, a que se refiere el artículo 2 de la Ley del Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos abrogada en virtud del presente instrumento.
 
-En consecuencia, el Congreso del Estado emitirá el acuerdo que establezca las acciones y lineamientos para la liquidación del organismo referido en el párrafo anterior, a más tardar en un plazo de 15 días hábiles contados a partir de la entrada en vigor de este Decreto.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2018)</small>
+
+En consecuencia, el Congreso del Estado, a través de la Junta Política y de Gobierno emitirá el acuerdo que establezca las acciones y lineamientos para la liquidación del organismo referido en el párrafo anterior, a más tardar en un plazo de 15 días hábiles contados a partir de la entrada en vigor de este Decreto.
 
 OCTAVA. Excepcionalmente, a partir de la entrada en vigor de este Decreto, se autoriza la cancelación de los montos reportados en cuentas públicas como pendientes por transferir efectivamente a los fideicomisos a que se refiere la Disposición Quinta Transitoria del presente instrumento, con sus efectos contables y presupuestales respectivos, debiendo tales ajustes aplicarse a la obtención de un balance presupuestario sostenible.
 
