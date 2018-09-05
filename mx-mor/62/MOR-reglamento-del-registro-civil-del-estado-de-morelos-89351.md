@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-registro-civil-del-estado-de-morelos-89351"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-05"
-last_updated: "2017-11-10"
+last_updated: "2018-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de septiembre de 2012.
 
@@ -81,9 +81,17 @@ XIV. Archivo Central: Área de la Dirección General que custodia y conserva los
 
 XV. RENAPO: Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación;
 
-XVI. Base de Datos: El conjunto de datos relacionados con la información generada de las inscripciones, trámites o servicios que proporciona la Dirección General del Registro Civil, almacenadas en medios electrónicos a través de un sistema de información, y
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2018)</small>
 
-XVII. REDAM: Registro de Deudores Alimentarios Morosos.
+XVI. Constancia de inexistencia de registro: documento público para acreditar que no se encuentra inscrito un acto o hecho del estado civil de las personas;
+
+(REUBICADA [N. DE E. REFORMADA], P.O. 5 DE SEPTIEMBRE DE 2018)
+
+XVII. Base de datos: el conjunto de datos relacionados con la información generada de las inscripciones, trámites o servicios que proporciona la dirección general del registro civil, almacenadas en medios electrónicos a través de un sistema de información, y
+
+(REUBICADA [N. DE E. REFORMADA], P.O. 5 DE SEPTIEMBRE DE 2018)
+
+XVIII. REDAM: registro de deudores alimentarios morosos.
 
 ###### Artículo 3.
 
@@ -483,6 +491,10 @@ El documento idóneo para acreditar que no se encuentra asentado un registro de 
 
 Cuando exista más de una Oficialía en el Municipio, la constancia será expedida por la Dirección General.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2018)</small>
+
+La Dirección General expedirá la constancia de inexistencia con firma electrónica y con las medidas de seguridad que permita el programa o paquetería informáticos denominado Sistema de Procesos Administrativos del Registro Civil.
+
 ###### Artículo 41.
 
 Para obtener la constancia de inexistencia de registro de nacimiento de menores de 18 años, se necesitará:
@@ -507,6 +519,12 @@ II. Identificación oficial del interesado, y
 
 III. Recibo de pago de derechos correspondientes.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 42 Bis.
+
+En el supuesto de la constancia de inexistencia de registro de nacimiento, se realizará una búsqueda en la Base de la Clave Única de Registro de Población. En caso de encontrar alguna coincidencia, se deberá anotar la misma y el Estado donde se levantó.
+
 ###### Artículo 43.
 
 Para obtener la constancia de inexistencia de registro de matrimonio se necesitará:
@@ -530,6 +548,10 @@ II. Copia certificada actualizada o cotejada del acta de nacimiento del finado, 
 III. Identificación oficial del finado, y
 
 IV. Recibo de pago de derechos correspondientes.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de no contar con los requisitos señalados en las fracciones II y III del presente artículo, bastará con copia simple del certificado de defunción para la expedición de la constancia, debiendo presentar el original para su cotejo.
 
 ###### Artículo 45.
 
@@ -662,6 +684,12 @@ En términos de la coordinación y colaboración que se tiene con el RENAPO, par
 ###### Artículo 58.
 
 La Dirección General podrá, a solicitud de parte interesada, expedir copias certificadas de los apéndices de registros, así como de los documentos que obren en el archivo de la misma.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 58 Bis.
+
+En el desarrollo de la actividad registral se realizarán las gestiones o acciones necesarias para que las formas puedan ser redactadas en lengua indígena, a petición expresa del interesado.
 
 ### CAPÍTULO XVIII
 
@@ -934,3 +962,11 @@ PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto por el presente Decreto.
 
 TERCERA. Se instruye a la Secretaría de Gobierno, a través de la Dirección General del Registro Civil, para que realice los actos jurídicos y administrativos necesarios e idóneos a fin de implementar las condiciones para que a la brevedad puedan expedirse copias de las actas del registro civil en papel blanco, a través de internet, en coordinación con las autoridades competentes.
+
+P.O. 5 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto por el presente Decreto.
