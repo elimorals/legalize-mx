@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2018-08-04"
+last_updated: "2018-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "CHH"
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE SEPTIEMBRE DE 2018.]</small>
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1417,11 +1419,13 @@ XLIII.- Expedir la ley que regulará su estructura y funcionamiento internos, la
 
 Esta ley no podrá ser iniciada ni objeto de observaciones por el Ejecutivo, que la promulgará y publicará dentro de los diez días hábiles siguientes a su recepción.
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+(REFORMADA, P.O. 30 DE AGOSTO DE 2017) (F. DE E., P.O. 5 DE SEPTIEMBRE DE 2018)
 
-XLIV.- Expedir las leyes necesarias a fin de garantizar la participación ciudadana en el territorio estatal.
+XLIV.- Nombrar a quien ocupe la titularidad de la Auditoría Superior del Estado según el procedimiento dispuesto en el artículo 83 bis de esta Constitución.
 
-XLV.- (DEROGADA, P.O. 8 DE AGOSTO DE 2015)
+(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JUNIO DE 2018) (F. DE E., P.O. 5 DE SEPTIEMBRE DE 2018)
+
+XLV.- Expedir las leyes necesarias a fin de garantizar la participación ciudadana en el territorio estatal.
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
