@@ -4,7 +4,7 @@ identifier: "VER-estatuto-organico-del-colegio-de-bachilleres-del-estado-de-7571
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-23"
-last_updated: "2015-02-24"
+last_updated: "2018-09-06"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # ESTATUTO ORGANICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 6 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 6 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
 
-ESTATUTO ORGANICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ
+ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 2018 (SIN EFECTOS).
 
 Estatuto publicado en la Gaceta Oficial del Estado de Veracruz, el viernes 23 de julio de 2010.
 
@@ -752,3 +752,19 @@ G.O. 24 DE FEBRERO DE 2015.
 Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Acuerdo.
+
+G.O. 6 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ".]
+
+Primero. El presente Estatuto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Queda sin efecto legal alguno, el Estatuto Orgánico del Colegio de Bachilleres del Estado de Veracruz, publicado en la Gaceta Oficial del estado de Veracruz número 232 de fecha 23 de julio de 2010 y el Acuerdo publicado en el número 077 de la Gaceta Oficial del estado de Veracruz de fecha 24 de febrero de 2015.
+
+Tercero. Los aspectos organizativos y procedimentales que, con anterioridad al presente ordenamiento legal, se hayan establecido y ejecutado en forma distinta a la prevista por el mismo, deberán ser ajustados a lo que aquí se disponga.
+
+Cuarto. La Dirección General expedirá los manuales que sean necesarios, con la aprobación de la Junta Directiva, para regular procedimientos específicos del Colegio. Mientras se expiden los manuales referidos, la Dirección General resolverá las cuestiones que dichos manuales deban regular.
+
+Quinto. En los casos en que el presente Estatuto requiera ser adecuado o actualizado para ajustarse estrictamente a los requerimientos del Colegio, la Dirección General resolverá las cuestiones concretas que considere pertinentes con la aprobación de la Junta Directiva.
+
+Sexto. Una vez que entre en vigor el presente Estatuto, la Dirección General del Colegio dispondrá lo necesario para que se circule, difunda y se haga del conocimiento de las instancias correspondientes.
