@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2018-06-07"
+last_updated: "2018-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 6 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -15593,23 +15593,15 @@ Solamente será gratuito el mandato cuando así se haya convenido expresamente.
 
 ###### Art. 2827.
 
-El mandato puede ser escrito o verbal.
+(DEROGADO, B.O. 6 DE SEPTIEMBRE DE 2018)
 
 ###### Art. 2828.
 
-El mandato escrito puede otorgarse:
-
-I.- En escritura pública;
-
-II.- En escrito privado, firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia, Jueces Locales o Menores, o ante el correspondiente funcionario o empleado administrativo, cuando el mandato se otorgue para asuntos administrativos;
-
-III.- En carta poder sin ratificación de firmas.
+(DEROGADO, B.O. 6 DE SEPTIEMBRE DE 2018)
 
 ###### Art. 2829.
 
-El mandato verbal es otorgado de palabra entre presentes, hayan o no intervenido testigos.
-
-Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para que se dio.
+(DEROGADO, B.O. 6 DE SEPTIEMBRE DE 2018)
 
 ###### Art. 2830.
 
@@ -15631,21 +15623,27 @@ Los notarios insertarán este artículo en los testimonios de los poderes que ot
 
 Para que el mandatario pueda ejecutar donaciones en nombre o por cuenta del mandante, es necesario que expresamente se le faculte para ello, sin que sea bastante el poder general para ejercer actos de dominio.
 
+> <small>(REFORMADO, B.O. 6 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 2833.
 
-El mandato debe otorgarse en escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario, ante los jueces o autoridades administrativas correspondientes:
+El mandato debe formalizarse por escrito y otorgarse:
 
-I.- Cuando sea general;
+I.- En escritura pública:
 
-II.- Cuando el interés del negocio para que se confiere llegue a cinco mil pesos o exceda de esa cantidad;
+a) Siempre que sea general;
 
-III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley deba constar e (sic) instrumento público.
+b) Cuando se refiera a inmuebles o derechos reales cualquiera que sea su valor;
+
+c) Cuando el negocio para el que se confiera su importe sea superior al equivalente a 300 UMA; y
+
+d) Cuando en virtud de él, haya de ejecutar el mandatario algún acto que conforme a la ley deba constar en escritura pública.
+
+II.- En escrito privado, ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario(a) público(a) o servidor(a) público(a) que corresponda conocer del negocio para el que se otorga, en los supuestos diversos a los de la fracción anterior.
 
 ###### Art. 2834.
 
-El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de doscientos pesos y no llegue a cinco mil.
-
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de doscientos pesos.
+(DEROGADO, B.O. 6 DE SEPTIEMBRE DE 2018)
 
 ###### Art. 2835.
 
@@ -15877,6 +15875,8 @@ La parte puede ratificar, antes de que la sentencia cause ejecutoria, lo que el 
 
 De los Diversos Modos de Terminar el Mandato.
 
+> <small>(REFORMADO, B.O. 6 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 2876.
 
 El mandato termina:
@@ -15889,9 +15889,9 @@ III.- Por la muerte del mandante o del mandatario;
 
 IV.- Por la interdicción de uno u otro;
 
-V.- Por el vencimiento del plazo y por la conclusión del negocio para que fué concedido;
+V.- Por el vencimiento del plazo fijado en el mismo o por la conclusión del negocio para que fue conferido. Cuando no se haya fijado plazo, se presume que ha sido otorgado por tres años computados a partir de la fecha de su otorgamiento; y
 
-VI.- En los casos previstos por los artículos 835, 836 y 837.
+VI.- En los casos previstos por los artículos 458, 467, 468, 475 y 476 del Código de Familia para el Estado de Sonora.
 
 ###### Art. 2877.
 
@@ -19428,3 +19428,19 @@ El presente Decreto se deberá publicar en el Boletín Oficial del Gobierno del 
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los 60 días anteriores a que el presente Decreto entre en vigor, la Secretaría de la Consejería Jurídica del Gobierno del Estado con el apoyo de las dependencias que considere necesario, deberán llevar a cabo la capacitación a los servidores públicos estatales y municipales encargados de aplicar la normatividad aquí aprobada.
+
+B.O. 6 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 240, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA Y DE LA LEY DEL NOTARIADO PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado ele Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección General de Notarías instrumentará las acciones para operar el sistema de avisos de poderes o mandatos en la base de datos destinada a consignar los avisos relativos al otorgamiento o revocación de mandatos o poderes para actos de dominio, otorgados por personas físicas y morales e informará al notariado sonorense.
+
+###### ARTÍCULO TERCERO.
+
+Las cartas poder que se hubieren otorgado con anterioridad a la entrada en vigor de este Decreto, seguirán en vigor hasta su terminación; sin embargo, la revocación o renuncia deberá hacerse constar en escritura pública en los términos de este Decreto.
