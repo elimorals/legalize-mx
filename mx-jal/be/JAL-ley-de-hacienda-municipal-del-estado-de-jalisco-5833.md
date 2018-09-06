@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2017-08-08"
+last_updated: "2018-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1410,6 +1410,24 @@ IV. Cuando por cualquier causa regresen los bienes o derechos al enajenante dent
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2005)</small>
 
 V.- Los trabajadores que encontrándose en huelga, acepten destinar sus salarios caídos o créditos laborales para la adquisición de partes sociales o activos de la empresa en la que laboran, o de nuevas empresas que reanudarán la producción de sus plantas para la fabricación de los mismos o similares bienes; así como a las empresas que dichos trabajadores constituyan, y a las personas morales donde las empresas de los trabajadores participen como socios o las empresas que adquieran bienes para participar con los trabajadores en conjunto a fin de reactivar las plantas industriales que estén en huelga.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2018)</small>
+
+###### Art. 117 Bis.
+
+En los actos de sucesión testamentaria, intestamentaria, cláusula de beneficiario y cláusula testamentaria de predios rústicos o urbanos, en donde adquieran familiares en línea recta ascendente o descendente hasta el segundo grado o entre cónyuges, se harán las siguientes consideraciones tomando como base el valor del acervo hereditario:
+
+I. Se aplicará la tarifa de factor 0 cero sobre el impuesto hasta por $1'500,000.00 (un millón quinientos mil pesos 00/100 M.N.), por cada uno de los adquirentes referidos en el párrafo anterior, sin importar el número de inmuebles, siempre y cuando la masa hereditaria de inmuebles dentro de un municipio, no sea superior a $4,500,000.00 (cuatro millones quinientos mil pesos 00/100 M.N.)
+
+II. Cuando se trate de dos o más inmuebles se deberán presentar los respectivos avisos de transmisión patrimonial en forma conjunta.
+
+III. En los casos de sucesión testamentaria o intestamentaria, se tomará en cuenta para su aplicación la fecha que corresponda a la de escritura pública en donde se hayan protocolizado las constancias de juicio respectivo o se haya hecho constar la adjudicación de los bienes; en los casos de cláusula de beneficiario y/o cláusula testamentaria, será la de la fecha de defunción del propietario del inmueble correspondiente.
+
+IV. En casos excepcionales y previo estudio socioeconómico del o de los adquirientes, el tesorero del municipio podrá otorgar pago a plazos del impuesto causado, de acuerdo con lo que establece el artículo 50 de la presente Ley.
+
+En todos los casos para aplicar estos beneficios, se deberá presentar copia certificada de la escritura donde conste dichos actos.
+
+Dichos beneficios fiscales deberán ser solicitados por los ayuntamientos al Congreso del Estado, para ser fijados en sus correspondientes leyes de ingresos.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -3927,6 +3945,12 @@ Quinto. El porcentaje a que hace referencia el artículo 209 de la Ley de Hacien
 
 P.O. 8 DE AGOSTO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26418/LXI/17, QUE REFORMA EL ARTÍCULO 100 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO."]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26418/LXI/17, QUE REFORMA EL ARTÍCULO 100 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.”]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26861/LXI/18 QUE ADICIONA EL ARTÍCULO 117 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
