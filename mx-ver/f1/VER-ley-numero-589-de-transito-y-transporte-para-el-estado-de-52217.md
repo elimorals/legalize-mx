@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2017-03-30"
+last_updated: "2018-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -891,15 +891,13 @@ X. Los demás que señale el Reglamento.
 
 Para el otorgamiento de licencias a personas residentes en municipios que presten directamente el servicio de tránsito, los solicitantes acreditarán no tener infracciones pendientes de pago, mediante la constancia que expida dicha autoridad.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 56.
 
-Para obtener la licencia de conducir en la categoría de chofer tipo "A", el interesado deberá, además de reunir los requisitos señalados en el artículo anterior, haber cumplido veintiún años de edad y aprobar los exámenes toxicológicos que aplique la Dirección de Transporte conjuntamente con la Secretaría de Salud del Estado. También, para mantener la vigencia de esa licencia, deberá actualizar su capacitación, aprobando cada dos años el curso que en materia vial imparta la Dirección de Transporte.
+Para poder obtener, por primera vez, la licencia de conducir en la categoría de chofer tipo "A", el interesado deberá, además de reunir los requisitos señalados en el artículo anterior, haber cumplido veintiún años de edad, aprobar los exámenes toxicológicos que aplique la Dirección de Transporte conjuntamente con la Secretaría de Salud del Estado. También, para mantener la vigencia de esa licencia, deberá actualizar su capacitación, aprobando cada tres años el curso que en materia vial imparta la Dirección de Transporte.
 
-> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2014)</small>
-
-De igual forma, deberá certificarse e inscribirse en el padrón de choferes de transporte público de la Secretaría de Seguridad Pública del Estado, para que cada dos años sea certificado ante esta dependencia.
+De igual forma, deberá certificarse e inscribirse en el padrón de choferes de transporte público de la Secretaría de Seguridad Pública del Estado, para que cada cinco años sea certificado ante esta dependencia.
 
 ###### Artículo 57.
 
@@ -2394,3 +2392,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El Ejecutivo del Estado contará con un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, a efecto de realizar las modificaciones reglamentarias correspondientes.
+
+G.O. 6 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 702 QUE REFORMA EL ARTÍCULO 56 DE LA LEY DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación, en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
