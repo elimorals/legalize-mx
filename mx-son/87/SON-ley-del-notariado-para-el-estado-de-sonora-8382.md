@@ -4,7 +4,7 @@ identifier: "SON-ley-del-notariado-para-el-estado-de-sonora-8382"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-04"
-last_updated: "2017-08-03"
+last_updated: "2018-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el jueves 4 de enero de 1996.
 
@@ -647,13 +647,27 @@ Si los que aparecen como otorgantes, sus testigos o intérpretes no firman la es
 
 Si al final del último folio empleado en una escritura o acta, queda espacio después de puestas las firmas, y en su caso, la autorización definitiva, se empleará para asentar las notas complementarias; si por el contrario, no hay espacio para tales notas, podrán hacerse en el reverso del último folio de la escritura. Las constancias de inscripción puestas por los Registros Públicos al calce de los testimonios serán relacionados por el notario en una nota complementaria.
 
+> <small>(REFORMADO, B.O. 6 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 60.
 
-Cuando se trate de revocación o renuncia de poderes o ello resulte de documentos que contengan acuerdos de órganos de personas morales a protocolizarse, el notario deberá cumplir con lo siguiente:
+Cuando se trate de revocación o renuncia de poderes o de mandatos o ello resulte de documentos que contengan acuerdos de órganos de personas morales o agrupaciones o de renuncias que les afecten a ellas, y que la o el notario protocolizare, este procederá como sigue:
 
-I.- Si el poder correspondiente consta en su protocolo, tomará razón de ello en nota complementaria. Si el libro ya estuviere depositado en la Dirección, lo comunicará por escrito al titular de ésta, para los mismos efectos; y
+I.- Si el acto revocado o renunciado consta en el protocolo de la Notaría a su cargo y la escritura está aún bajo su guarda, tomará razón de ello en nota complementaria;
 
-II.- Cuando el poder revocado conste en protocolo a cargo de otro notario de la Entidad, el notario lo comunicará por escrito a aquél para que dicho notario proceda en los términos de la fracción anterior.
+II.- Cuando el acto revocado o renunciado conste en protocolo a cargo de otro notario del Estado de Sonora, lo comunicará por escrito a aquél, para que dicho notario proceda en los términos de la fracción anterior;
+
+III.- Si el libro de protocolo de que se trata, sea de la notaría a su cargo o de otra del Estado de Sonora, ya estuviere depositado en definitiva en el Archivo, la comunicación de la revocación o renuncia será hecha a la Dirección para que haga la anotación complementaria indicada;
+
+IV.- Si el poder o mandato revocado o renunciado constare en protocolo fuera del Estado de Sonora, la o el notario lo comunicará por vía informática y por correo certificado a la o al notario a cargo de quien esté el protocolo, para que haga la anotación correspondiente y será a cargo de la o del interesado cerciorarse que esta se haga; y
+
+V.- La o el notario advertirá a la o al compareciente la conveniencia de llevar a cabo el aviso o notificación de la revocación del poder, a quien dejó de ser apoderado.
+
+En los supuestos previstos en las fracciones I a IV, el aviso podrá ser enviado por correo electrónico o por cualquier otra tecnología, recabando en todo caso, el acuse correspondiente.
+
+> <small>(ADICIONADO, B.O. 6 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 60 BIS.- Las y los notarios que ante su fe se acredite la identidad de algún compareciente con un poder o mandato para actos de dominio, deberán solicitar a la Dirección un informe por vía electrónica de la existencia o no de poderes o mandatos, así como de su revocación o renuncia que será expedido en un plazo no mayor a tres días hábiles, de manera electrónica.
 
 ###### ARTICULO 61.
 
@@ -1075,6 +1089,12 @@ XII.- Establecer, en coordinación con el Consejo, las guardias notariales; y
 
 XIII.- Las demás atribuciones que sean propias y naturales del servicio o que ésta u otras leyes establezcan.
 
+> <small>(ADICIONADO, B.O. 6 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 120 BIS.- La Dirección tendrá un sistema de avisos de poderes o mandatos en una base de datos especialmente destinada a consignar los avisos relativos al otorgamiento, revocación o renuncia de poderes o mandatos para actos de dominio, otorgados por personas físicas y morales, que no tengan actividad mercantil.
+
+Las y los notarios tienen la obligación de dar aviso por escrito o vía electrónica de las escrituras públicas autorizadas que contengan dichos poderes o mandatos, dentro del término de cinco días hábiles siguientes a su otorgamiento, en los formatos que sean proporcionados por la Dirección.
+
 ###### ARTICULO 121.
 
 Los testimonios o copias que expida el Director General causarán, por concepto de derechos, los honorarios que fije la Ley de Ingresos del Estado y serán enterados a la agencia fiscal que corresponda.
@@ -1486,3 +1506,19 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 240, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA Y DE LA LEY DEL NOTARIADO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección General de Notarías instrumentará las acciones para operar el sistema de avisos de poderes o mandatos en la base de datos destinada a consignar los avisos relativos al otorgamiento o revocación de mandatos o poderes para actos de dominio, otorgados por personas físicas y morales e informará al notariado sonorense.
+
+###### ARTÍCULO TERCERO.
+
+Las cartas poder que se hubieren otorgado con anterioridad a la entrada en vigor de este Decreto, seguirán en vigor hasta su terminación; sin embargo, la revocación o renuncia deberá hacerse constar en escritura pública en los términos de este Decreto.
