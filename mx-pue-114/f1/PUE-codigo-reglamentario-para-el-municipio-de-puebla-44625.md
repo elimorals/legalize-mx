@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2018-08-24"
+last_updated: "2018-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5443,7 +5443,17 @@ c) Inmovilización al transporte de carga y distribución de mercancías mediant
 
 d) Proponer la inhabilitación del infractor para conducir en el Municipio por un tiempo determinado no menor de 15 días, ni mayor de un año.
 
-XVIII. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Autorizar como Depósitos Oficiales Equiparados, a los establecimientos con giro de Grúas y Depósito de vehículos que cumplan con los requisitos establecidos en el presente Capítulo;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Imponer las sanciones a que se refiere el artículo 365 Quinquies correspondientes a los Depósitos Oficiales Equiparados por el incumplimiento de las obligaciones establecidas en el presente Capítulo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -5907,6 +5917,18 @@ IV. La inhabilitación o suspensión del infractor para conducir en el Municipio
 
 Para el retiro de vehículos de la circulación, se hará uso de la grúa si fuere necesario, debiendo ser trasladados al Depósito Oficial de Vehículos y para la inmovilización de los mismos, los medios mecánicos que se consideren pertinentes, cuidando en ambos casos no dañar los vehículos.
 
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 352 Bis.
+
+Cuando sea necesario utilizar la grúa para remitir el vehículo al Depósito Oficial, el Agente de la Dirección de Tránsito deberá observar lo siguiente:
+
+a) Al conductor del vehículo le será asignado por parte del Agente de la Dirección de Transito un prestador del servicio, mismo que deberá contar con previa autorización de las dependencias municipales correspondientes, en el ámbito de su competencia;
+
+b) La asignación de los prestadores del servicio funcionará de manera rotativa y por periodos de un mes, cubriendo todos y cada uno de los sectores pertenecientes al municipio, y
+
+c) Verificar que el prestador del servicio elabore la memoria descriptiva, en la que se especifique cada una de las maniobras realizadas, precisando el horario de inicio y terminación de las mismas, además de un inventario detallado del vehículo; dichos documentos serán firmados por el conductor, el Agente de la Dirección de Tránsito y el operador de la grúa y se entregará copia de los mismos al conductor.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 353.
@@ -6100,6 +6122,104 @@ III. Debilitar, por cualquier medio, un puente, haciendo insegura la vía de cir
 IV. Abandonar un vehículo de motor en movimiento o, de cualquier otro modo, hacer imposible el control de su movimiento o velocidad y pudiendo causar daño; y
 
 V. Causar homicidio, lesiones, daño en propiedad ajena o algún otro delito por el tránsito de su vehículo, en forma culposa o intencional.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+APARTADO IV
+
+DEPÓSITOS OFICIALES EQUIPARADOS
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 365 Bis.
+
+Se equiparan a Depósitos Oficiales de vehículos de la Dirección de Tránsito Municipal los establecimientos que sean autorizados por ésta para tal efecto, provistos de equipo de arrastre y salvamento, para llevar a cabo los servicios de remisión, guarda y custodia de vehículos, en términos de lo establecido por el Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 365 Ter.
+
+La Secretaría por conducto de la Dirección de Tránsito autorizará como Depósito Oficial Equiparado a los establecimientos con giros de Grúas y Depósito de vehículos, que cumplan con los siguientes requisitos:
+
+1. Licencias de funcionamiento para los giros específicos de Grúas y Depósito de Vehículos respectivamente, de conformidad con los artículos 629 Bis y 629 Ter del Código Reglamentario para el Municipio de Puebla;
+
+2. Descripción del parque vehicular con el que se prestará el servicio, especificando tipo, marca, modelo y características de acuerdo a la Norma Oficial Mexicana NOM-053-SCT-2-2010;
+
+3. Contar con personal calificado en el manejo de las grúas, para lo cual deberán presentar la siguiente documentación:
+
+a) Lista de personal, identificando a los operadores y ayudantes;
+
+b) Copia de las licencias de manejo vigentes, del tipo necesario para dicha actividad, de cada uno de los operadores;
+
+c) Cursos, certificaciones o cualquier otro documento que acredite la experiencia en el manejo de grúas, y
+
+d) Acreditar que se cuenta con equipo de protección personal de los operadores y ayudantes.
+
+4. Las demás que en función del servicio establezca la Secretaría necesarias para el correcto resguardo de los bienes depositados.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 365 Quáter.
+
+Los establecimientos autorizados como Depósito Oficial, a que se refiere el artículo anterior estarán obligados a:
+
+1. Proporcionar el servicio de manera eficiente;
+
+2. Cobrar lo establecido en la Ley de Ingresos vigente por concepto de Arrastre y Maniobras y ocupación de espacios;
+
+3. Contar con la licencia de funcionamiento vigente;
+
+4. Mantener su parque vehicular en condiciones óptimas para el servicio;
+
+5. Mantener vigente la póliza de seguro;
+
+6. Proporcionar las facilidades al personal designado por la Secretaría y de las unidades administrativas competentes del H. Ayuntamiento, en la práctica de supervisiones, respecto del cumplimiento de las obligaciones;
+
+7. Atender las quejas que presenten los usuarios del servicio;
+
+8. Llegar puntuales al lugar del servicio, con tolerancia máxima de una hora;
+
+9. Reparar los daños que se les pudiera causar con motivo del servicio;
+
+10. Elaborar una memoria descriptiva de las maniobras realizadas y un inventario del vehículo que será firmado por el conductor, el Agente de la Dirección de Tránsito y el operador de la grúa en el lugar del hecho;
+
+11. Atender los requerimientos de servicio que solicite la autoridad, tanto en los supuestos contemplados en el artículo 352 como en los originados por mandamientos administrativos, judiciales o ministeriales, así como las colisiones y siniestros en general, y
+
+12. Brindar el servicio las 24 horas de los 365 días del año.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 365 Quínquies.- Por el incumplimiento de las obligaciones señaladas en el artículo anterior, se sancionará al prestador de servicio autorizado, de conformidad con lo siguiente:
+
+I. Suspensión temporal de la autorización de 1 a 3 meses.
+
+Procede en los siguientes casos:
+
+a) Deficiencia en la prestación del servicio;
+
+b) Falta de atención y seguimiento de las quejas presentadas por los usuarios del servicio;
+
+c) No permitir la inspección de vehículos, equipo, instalaciones y documentación relacionada con el servicio, y
+
+d) No realizar la memoria descriptiva o el inventario del vehículo.
+
+II. Cancelación de la autorización.
+
+Procede en los siguientes casos:
+
+a) No contar con póliza de seguro vigente;
+
+b) No contar con licencia de funcionamiento vigente;
+
+c) No mantener las medidas de seguridad y protección debidas en los Depósitos;
+
+d) No realizar el pago de los daños ocasionados al usuario o a terceros en la prestación del servicio;
+
+e) La falsedad en los datos o documentos proporcionados por el propietario;
+
+f) Cobrar conceptos o maniobras adicionales a los descritos en la memoria descriptiva, y
+
+g) Por reincidir en dos o más ocasiones en un período de un año, en alguno de los supuestos señalados en la fracción I de este artículo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -9825,6 +9945,24 @@ Los establecimientos con giro comercial de casa de empeño, así como las person
 
 Para la actualización de la licencia de los establecimientos con giro comercial de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, además deberán presentar Acta de Visita emitida por la Unidad de Normatividad y Regulación Comercial de la que se desprenda que cuenta con el registro de pignorantes correspondiente al ejercicio fiscal inmediato anterior, cuyo número deberá coincidir con el número de contratos de adhesión expedidos durante el mismo, los cuales se presentarán en copia simple ante la Tesorería Municipal únicamente para su cotejo.
 
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 629 Bis.
+
+Para obtener la licencia de funcionamiento de los establecimientos con el giro de Grúas, además de los requisitos establecidos en el inciso A del artículo 629, deberán cumplir con lo siguiente:
+
+a) Presentar la autorización del parque vehicular emitida por la autoridad competente.
+
+b) Póliza de Seguro con cobertura que ampare robo total, robo parcial, daños a la carga y daños por la carga, respecto de los vehículos recibidos para el traslado.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 629 Ter.
+
+Para obtener la licencia de funcionamiento de los establecimientos con el giro de Depósito de vehículos, además de los requisitos establecidos en el inciso A del artículo 629, deberán cumplir con lo siguiente:
+
+a) Póliza de Seguro con cobertura que ampare robo total, robo parcial, daños, daños a terceros e incendio respecto de los vehículos en Depósito.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
 
 #### SECCIÓN PRIMERA. DE LA JUNTA DE GOBIERNO
@@ -11535,8 +11673,6 @@ V. Corresponsable.- En la elaboración de estudios técnicos de su especialidad 
 
 Para las obras privadas en inmuebles con categoría 3, 4 y 5 ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos del Municipio de Puebla, se solicitará la responsiva del DRO y Corresponsables que se necesiten de acuerdo al tipo de obra de que se trate.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
 ###### Artículo 669.
@@ -12124,8 +12260,6 @@ DE LA PARTICIPACIÓN CIUDADANA
 ###### Artículo 689.
 
 La participación ciudadana es un derecho constitucional y se llevará a cabo a través de los mecanismos establecidos en la Ley Orgánica Municipal y el Capítulo 8 del presente COREMUN, en las actividades de creación y actualización de los instrumentos administrativos que permitan el cumplimiento de sus funciones, así como en la evaluación de su aplicación, con la colaboración de la unidad administrativa de la Contraloría Municipal que desempeña las funciones de contraloría social y/o ciudadana de conformidad con la normativa aplicable.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -16859,7 +16993,7 @@ Tabla uso de suelo específico.
 
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 144.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 27.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 27 Y EN LA SEGUNDA SECCIÓN DEL P.O. 7 DE SEPTIEMBRE DE 2018, PÁGINA 9.]</small>
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -17027,7 +17161,7 @@ La Dirección expedirá la Licencia de obra mayor respecto a la construcción de
 
 El Permiso para la Licencia de obra mayor se expedirá de conformidad con lo señalado en la siguiente tabla:
 
-Tabla de obra mayor .
+Tabla de obra mayor.
 
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINAS DE LA 149 Y 150.]</small>
 
@@ -37420,3 +37554,13 @@ P.O. 24 DE AGOSTO DE 2018.
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE AGOSTO DE 2018, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN Y JUSTICIA, POR EL QUE ADICIONA EL INCISO R) DE LA FRACCIÓN IV DEL ARTÍCULO 209 DEL CAPÍTULO 9 POLICÍA Y GOBIERNO, DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 QUINTO. Se instruye al Secretario del Ayuntamiento para que en la forma legal correspondiente realice los trámites necesarios ante la Secretaría General de Gobierno del Estado, a fin de que se publiquen por una sola vez en el Periódico Oficial del Estado de Puebla, el presente Dictamen.
+
+P.O. 7 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE AGOSTO DE 2018, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE SEGURIDAD PÚBLICA, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, Y SE MODIFICA EL CATÁLOGO DE GIROS COMERCIALES COMPLEMENTARIOS, INDUSTRIALES Y DE SERVICIOS DEL MUNICIPIO DE PUEBLA, CON EL OBJETO DE REGULAR LOS SERVICIOS DE GRÚAS Y DEPÓSITO DE VEHÍCULOS”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
+
+TERCERO. Se concede un plazo de treinta días a partir de la entrada en vigor del presente Dictamen para hacer exigibles los requisitos establecidos en los artículos 629 Bis y 629 Ter, a efecto de que los particulares puedan cumplir con los mismos.
