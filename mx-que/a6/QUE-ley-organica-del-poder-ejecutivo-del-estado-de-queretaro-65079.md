@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2018-05-25"
+last_updated: "2018-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -407,13 +407,15 @@ LIV. Proponer al Consejo Estatal de Protección Civil, políticas, acciones y es
 
 LV. Fomentar la participación ciudadana en la formulación de planes y programas de protección civil, coordinándose, en su caso, con los diferentes órdenes de gobierno;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-LVI. Vigilar que se cumpla con las actividades relativas a la evaluación de riesgos procesales, supervisión de medidas cautelares, suspensión condicional del proceso, así como el seguimiento a la ejecución de sanciones penales, medidas de seguridad y restrictivas de la libertad condicionada, impuestas por resolución judicial. Lo anterior tratándose de personas adultas y adolescentes según sea el caso, en los términos de la legislación penal aplicable; y
+LVI. Vigilar que se cumpla con las actividades relativas a la evaluación de riesgos procesales, supervisión de medidas cautelares, suspensión condicional del proceso, así como el seguimiento a la ejecución de sanciones penales, medidas de seguridad y restrictivas de la libertad condicionada, impuestas por resolución judicial. Lo anterior tratándose de personas adultas y adolescentes según sea el caso, en los términos de la legislación penal aplicable;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-LVII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
+LVII. En el ámbito de su competencia, impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas, de conformidad con las disposiciones aplicables; y
+
+LVIII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
 
 ### Capítulo Tercero. De la Secretaría de Planeación y Finanzas
 
@@ -2008,6 +2010,14 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 P.O. 25 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 7 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
