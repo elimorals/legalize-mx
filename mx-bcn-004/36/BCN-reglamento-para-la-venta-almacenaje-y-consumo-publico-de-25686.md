@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2018-03-16"
+last_updated: "2018-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -413,9 +413,13 @@ I.- Contar con el permiso correspondiente, expedido por la Autoridad Municipal, 
 
 II.- Exhibir en original o copia certificada, el permiso y la revalidación, los cuales deberán colocarse debidamente enmarcados en la entrada del establecimiento. Además deberán presentarlos ante las autoridades municipales, encargadas de la vigilancia y cumplimiento de la ley y este reglamento, cuando así lo requieran, previa identificación correspondiente.
 
-III.- Exigir a todo el personal que labore en su establecimiento portar documento oficial con fotografía que acredite su mayoría de edad y mostrarla a la Autoridad Municipal cuando esta así se lo solicite;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-IV.- Fijar letreros legibles y visibles en el exterior y en el interior del establecimiento señalando claramente que esta prohibida la venta de bebidas alcohólicas, a menores de 18 años y a personas mayores de edad cuando estén en notorio estado de ebriedad o bajo los efectos de algún estupefaciente, se encuentren con armas de cualquier clase o porten uniforme oficial de las fuerzas armadas o de cualquier policía;
+III.- Exigir a todo el personal que labore en su establecimiento portar durante la jornada laboral, un gafete expedido por el permisionario donde conste nombre de empleado, asimismo deberán contar con documento oficial con fotografía que acredite su mayoría de edad y mostrarla a la Autoridad Municipal cuando esta así se lo solicite;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- Fijar letreros legibles y visibles en el exterior y en el interior del establecimiento señalando claramente el nombre del gerente en turno, asimismo que está prohibida la venta de bebidas alcohólicas, a menores de 18 años y a personas mayores de edad cuando estén en notorio estado de ebriedad o bajo los efectos de algún estupefaciente, se encuentren con armas de cualquier clase o porten uniforme oficial de las fuerzas armadas o de cualquier policía;
 
 V.- Fijar letreros legibles y visibles en el exterior y en el interior del establecimiento señalando claramente que esta prohibido el acceso de menores de 18 años a los giros mencionados en los incisos K, L, M, N, O, R, S y T del artículo 18 de este reglamento. Para acreditar la mayoría de edad, el titular del permiso o el encargado del establecimiento deberá solicitar identificación oficial con fotografía;
 
@@ -1860,3 +1864,13 @@ PRIMERO.- Publíquese las presentes reformas en el Periódico Oficial del Estado
 SEGUNDO.- La presente Reforma entra en vigor al día siguiente al de su publicación del Periódico Oficial del Estado de Baja California.
 
 TERCERO.- Se derogan todas las disposiciones normativos (sic) que se opongan a las presentes reformas y adiciones.
+
+P.O. 7 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 13 DEL REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA”.]
+
+PRIMERO.- Publíquese las presentes reformas en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal en su carácter de órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- Las reformas que se aprueban entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Una vez que entren en vigor las reformas aprobadas, notifíquese por conducto de la Secretaría de Gobierno Municipal a las dependencias involucradas, para la implementación de tales reformas.
