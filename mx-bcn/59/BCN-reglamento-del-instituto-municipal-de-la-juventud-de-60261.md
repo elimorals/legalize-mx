@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-instituto-municipal-de-la-juventud-de-60261"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2016-10-21"
+last_updated: "2018-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE ENSENADA IMJUVENS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -229,63 +229,51 @@ Los órganos directivos cuentan con las atribuciones que se establecen en el pre
 
 #### Sección Primera. Del Consejo de la Juventud
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 9.
 
 Del Consejo de la Juventud.
 
-El Consejo de la Juventud es el órgano de gobierno y la máxima autoridad directiva del Instituto, y se integrará por:
+El Consejo de la Juventud es el órgano de gobierno y la máxima autoridad directiva del Instituto, y se integrara:
 
-I. Un Presidente, que será el Presidente Municipal.
+I.- Un Presidente, que será el presidente Municipal.
 
-II. Un Secretario, que será el Director del IMJUVENS.
+II.- Un Secretario Técnico, que será el director del IMJUVENS.
 
-III. Los munícipes integrantes de la Comisión Edilicia de Juventud.
+III.- Los munícipes integrantes de la Comision de la Juventud.
 
-IV. Once vocales que residan en el Municipio.
+IV.- Un representante de la Comisión de Derechos Humanos del Municipio.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+V.- Once vocales que se (sic) residan en el municipio.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 10.
 
-De los vocales, miembros del Consejo de la Juventud.
+De los vocales, miembros del Consejo de la Juventud. Los vocales que se refiere la fracción V del artículo anterior, son los siguientes:
 
-Los vocales a que se refiere la fracción IV del artículo anterior, son los siguientes:
+I.- El Director de Desarrollo Social.
 
-I. El Secretario de Desarrollo Social.
+II.- El Secretario General del Ayuntamiento.
 
-II. El Secretario General del Ayuntamiento.
+III.- Un representante del Departamento de Educación.
 
-III. El Director de Educación.
+IV.- Un representante propuesto por las organizaciones de jóvenes, legalmente constituidas del municipio.
 
-IV. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
+V.- Un representante del sector estudiantil (La Comisión de Juventud definirá la metodología, con base en criterios objetivos, para la designación de dicho representante.)
 
-V. Un representante propuesto por las organizaciones de jóvenes, legalmente constituidas del municipio.
+VI.- Seis jóvenes, de los que tres deberán ser mujeres, uno representante de las personas con discapacidad, y uno de la zona rural del municipio, y que serán designados por el Ayuntamiento, de las propuestas que presente la población con motivo de la convocatoria abierta y recibidas por conducto de la Comisión de Juventud.
 
-VI. Un representante del sector estudiantil. (La Comisión Edilicia de Juventud definirá la metodología, con base en criterios objetivos, para la designación de dicho representante.)
+La convocatoria a que se refieren las fracciones IV, V, VI del presente Artículo, se llevará a cabo conforme la metodología, la fecha y los términos que disponga el acuerdo que para tal afecto (sic) apruebe el Ayuntamiento, a propuesta de la Comisión de Juventud, siempre respetando el principio de igualdad de genero, y una vez aprobada deberá ser publicada en uno de los diarios de mayor circulación del Municipio, en la página electrónica del Ayuntamiento, y en los Estrados del Instituto Municipal de la Juventud de Ensenada.
 
-VII. Seis jóvenes, de los que tres deberán ser mujeres, uno representante de las personas con discapacidad, y uno de la zona rural del municipio, y que serán designados por el Ayuntamiento de las propuestas que presente la población con motivo de la convocatoria abierta y recibidas por conducto de la Comisión Edilicia de Juventud.
-
-La convocatoria a que se refieren las fracciones V, VI y VII del presente artículo, se llevara a cabo conforme la metodología, la fecha y los términos que disponga el acuerdo que para tal efecto apruebe el Ayuntamiento, a propuesta de la Comisión Edilicia de Juventud, y una vez aprobada, deberá ser publicada en uno de los diarios de mayor circulación del municipio, en la página electrónica del Ayuntamiento, y en los Estrados del Instituto Municipal de la Juventud de Ensenada.
-
-La convocatoria deberá lanzarse cada tres años, dentro del primer semestre de gestión de la Administración Pública Municipal de que se trate, cuidando siempre que ésta sea destinada a los grupos juveniles con mayor arraigo y participación en el municipio y que hayan demostrado su efectivo interés en mejorar, de forma integral, el nivel de vida de los jóvenes sin perjuicio de las demás propuestas que puedan provenir de la sociedad en general.
-
-Los miembros integrantes del Consejo de la Juventud a que se refiere el artículo anterior y el presente, tienen derecho a voz y a voto en las deliberaciones de las sesiones del Consejo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 10 Bis.
 
-Una vez establecida la convocatoria, el plazo para recibir solicitudes será de diez días hábiles, contados a partir del día hábil siguiente al que se publique la misma.
+Una vez establecida la convocatoria, el plazo para recibir solicitudes será de diez días hábiles, contados a partir del día hábil siguiente al que se realice la publicación. Una vez cumplido el plazo para la recepción de documentos los integrantes (sic)
 
-Una vez cumplido el plazo para la recepción de documentos, los integrantes de la Comisión de Juventud, en coordinación con el Director del IMJUVENS, analizaran en un plazo no mayor de veinte días hábiles, las solicitudes que hayan sido presentadas durante el periodo de la convocatoria.
-
-En el caso de las solicitudes presentadas por las Asociaciones Civiles, estas deberán estar acompañadas por un acta simple que avale al ciudadano propuesto por dicha asociación.
-
-Una vez realizado el proceso de selección en la Comisión, esta deberá presentar las propuestas al Cabildo para su ratificación.
-
-Una vez seleccionados los miembros del Consejo, el Director del Instituto, se (sic) instruirá al Secretario Fedatario del Ayuntamiento para que lo notifique a efecto de que rinda protesta de ley y asuma sus funciones.
+(sic) de la Comisión de la Juventud, en coordinación con el Director de IMJUVENS, analizaran en un plazo no mayor de veinte días hábiles, las solicitudes que hayan sido presentadas durante el periodo de la convocatoria.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -307,19 +295,27 @@ De las invitaciones al Consejo.
 
 El Consejo, con la aprobación de la mayoría de sus miembros con derecho a voto, puede invitar a representantes de otras dependencias e instituciones públicas federales, estatales o municipales, así como a organizaciones privadas, sociales y académicas, no comprendidas en los artículos 9 y 10 del presente ordenamiento, con el fin de tratar temas específicos que requieren de conocimientos e información específica. Estos invitados podrán participar con voz pero sin derecho a voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES PRIMERO Y SEGUNDO PÁRRAFOS], P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 13.
 
-De las atribuciones del Consejo.
+De las atribuciones del Consejo: El Consejo tiene las siguientes atribuciones:
 
-El Consejo tiene las siguientes atribuciones:
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-l. Autorizar al Director General a emitir los mandatos o poderes generales para pleitos y cobranzas, actos de administración y de dominio, así como las especiales que requieran cláusula especial en los términos del Código Civil para el Estado de Baja California.
+I. Autorizar al Director General a emitir los mandatos o poderes generales para pleitos y cobranzas, actos de administración y dominio, así como las especiales que requieran clausula especial en los términos del Código Civil para el Estado de Baja California.
 
-II. Establecer, en congruencia con los planes y programas nacionales, estatales y municipales, las políticas generales en materia de juventud a seguir por el organismo.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-III. Aprobar los planes y programas de trabajo, así como el proyecto de presupuesto anual de ingresos y egresos y sus modificaciones; los proyectos de inversión y la correcta aplicación de los recursos asignados al Instituto.
+II. Establecer, en congruencia con los planes y programas nacionales, estatales, y municipales, las políticas generales en materia de juventud a seguir por el organismo.
 
-IV. Aprobar el informe anual sobre el estado que guarda la administración del organismo y su situación patrimonial que presente el director.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+III. Aprobar los planes y programas de trabajo, así como el proyecto de presupuesto anual de Ingresos y egresos y sus modificaciones; los proyectos de inversión y la correcta aplicación de los recursos asignados al Instituto.
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Conocer, analizar y realizar observaciones al informe trimestral del Instituto sobre las acciones y actividades realizadas conforme al plan operativo aprobado por el Consejo.
 
 V. Analizar y, en su caso, aprobar los informes trimestrales de avances financieros que rinda el director y evaluar el cumplimiento de los programas aprobados.
 
@@ -337,39 +333,69 @@ XI. Aprobar el plan a mediano plazo, que debe consistir en la planeación por tr
 
 XII. Participar en los órganos juveniles consultivos.
 
-XIII. Las demás que establezca el presente reglamento.
+> <small>(REFORMADA [N. DE ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Aprobar los planes y programas de trabajo que incluyen planeación, objetivos generales, específicos y detalle de los programas a implementar por el Instituto.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Los demás que establezca el presente reglamento.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 13 Bis.
+
+De las atribuciones de los miembros del Consejo:
+
+I.- Evaluar programas en materia de juventud.
+
+II.- Hacer uso de la voz en las sesiones del Consejo.
+
+III.- Proponer los programas dentro del área de su competencia, para someterlos a la aprobación del Consejo.
+
+IV.- Recabar cuanta información y asesoramiento estimen conveniente del personal técnico del Ayuntamiento aspirando una correcta elaboración del plan de actividades y su financiación.
+
+V.- Seguimiento de la efectiva realización de las actividades del plan operativo anual.
+
+VI.- Proponer al Secretario Técnico los asuntos que consideren deban incluirse en el orden del día de las Sesiones de Consejo.
+
+VII.- Recibir y aprobar las actas de las Sesiones de Consejo.
+
+VIII.- Difundir entre los jóvenes, la integración familiar y social, rescatando los principios y valores para fomentar una cultura cívica;
+
+IX.- Promover el debido respeto a la identidad de los jóvenes y garantizar su libre expresión, velando por la erradicación de la discriminación;
+
+X.- Promover dinámicas ante el Consejo que permitan a los jóvenes obtener información actualizada y útil para el desarrollo profesional y humano;
 
 #### Sección Segunda. Del Presidente y Secretario
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-Del Presidente del Consejo.
+Del Presidente del Consejo. Son funciones del Presidente del Consejo:
 
-Son funciones del Presidente del Consejo:
+I.- Convocar a las sesiones de Consejo.
 
-I. Representar al Consejo.
+II.- Presidir las sesiones, dirigir los debates y proponer el trámite que corresponda a los asuntos que conozca.
 
-II. Convocar a las sesiones del Consejo.
+III.- Proponer al Consejo, la integración de programas, comisiones y políticas que mejoren las funciones del Instituto.
 
-III. Presidir las sesiones, dirigir los debates y proponer el trámite que corresponda a los asuntos que conozca.
+IV.- Proponer al Consejo y publicar el informe anual sobre el desempeño de las funciones del Instituto;
 
-IV. Proponer al Consejo, la integración de programas, comisiones y políticas que mejoren las funciones del Instituto.
+V.- Recabar información y elementos estadísticos sobre las funciones del Instituto, para mejorar su desempeño.
 
-V. Las demás que le confiera el presente reglamento.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 15.
 
-Del Secretario del Consejo.
+Del Secretario Técnico del Consejo. Son funciones del Secretario Tecnico del Consejo:
 
-Son funciones del Secretario del Consejo:
-
-l. Elaborar el orden del día de las sesiones del Consejo, tomando en cuenta los asuntos que, a propuesta de los miembros del mismo, se deban incluir.
-
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+I. Elaborar el orden del día de las Sesiones de Consejo, tomando en cuenta los asuntos que, a propuesta de los miembros del mismo, se deban incluir.
 
 II. Convocar a sesiones ordinarias con cinco días de anticipación y extraordinarias con 24 horas de anticipación.
 
-III. Pasar lista de asistencia e informar al Presidente si el Consejo puede sesionar válidamente.
+III. Pasar lista de asistencia e informar al Presidente si el consejo puede sesionar válidamente.
 
 IV. Levantar acta de las sesiones.
 
@@ -377,11 +403,19 @@ V. Dar lectura al acta de la sesión anterior.
 
 VI. Dirigir las actividades administrativas del Consejo.
 
-VII. Ejecutar los acuerdos del Consejo.
+VII. Vigilar el cumplimiento de los acuerdos del Consejo.
 
 VIII. Participar en las reuniones del Consejo.
 
-IX. Aquéllas que sean inherentes a su condición de Secretario del Consejo.
+IX. Informar semestralmente al Consejo de las acciones y actividades realizadas por el Instituto conforme al plan operativo aprobado.
+
+X. Someter a consideración del Consejo el programa operativo anual del Instituto el cual incluirá planeación, objetivos generales, específicos, y detalles de los programas a implementar.
+
+XI. Recomendar al Consejo y al Presidente las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y el funcionamiento del Instituto;
+
+XII. Formular anualmente el anteproyecto de presupuesto del instituto, para someterlo a la aprobación.
+
+XIII. Aquellas que sean inherentes a su condición de Secretario del Consejo.
 
 #### Sección Tercera. De las Sesiones del Consejo
 
@@ -702,3 +736,9 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL ARTÍCULO 16 DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE ENSENADA (IMJUVENS), RELATIVO A DICTAMEN 031/2016".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA (SIC) DIVERSAS REFORMAS AL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE ENSENADA, BAJA CALIFORNIA”.]
+
+UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
