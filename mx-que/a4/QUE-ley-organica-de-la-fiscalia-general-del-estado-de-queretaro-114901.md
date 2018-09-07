@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2018-06-29"
+last_updated: "2018-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -435,7 +435,9 @@ XI. Implementar mecanismos de colaboración con autoridades que ejerzan facultad
 
 XII. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considera como delitos en materia de corrupción;
 
-XIII. Requerir y recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones, así como a las instancias de gobierno, la información que resulte útil o necesaria para sus investigaciones y el cumplimiento de sus atribuciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Requerir y recabar de los funcionarios, empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones, así como a las instancias de gobierno, la información que resulte útil o necesaria para sus investigaciones y el cumplimiento de sus atribuciones;
 
 XIV. Requerir a los particulares la información que resulte útil o necesaria para sus investigaciones;
 
@@ -455,15 +457,19 @@ XX. Proponer al Fiscal General la celebración de convenios con las institucione
 
 XXI. Autorizar las resoluciones respecto del procedimiento abreviado y criterio de oportunidad de los Fiscales adscritos a la Fiscalía Anticorrupción, en términos de las disposiciones aplicables;
 
-XXII. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado; de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XXII. Ordenar el aseguramiento de bienes, instrumentos o productos del delito, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII. Solicitar a la autoridad judicial, para el caso de que los bienes hayan desaparecido o no se localicen por causa atribuible al imputado, el aseguramiento, embargo precautorio y, en su caso, el decomiso de bienes, del valor equivalente, propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueño, o dueño beneficiario o beneficiario controlador;
+
+XXIV. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando éstos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable; y
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XXIII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando éstos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable; y
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-XXIV. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos le confieren.
+XXV. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos le confieren.
 
 El Fiscal Anticorrupción formulará anualmente su anteproyecto de presupuesto de egresos, y lo remitirá al Fiscal General para que sea integrado en el proyecto de presupuesto anual de ingresos y egresos de la Fiscalía General.
 
@@ -803,13 +809,17 @@ XIII. Solicitar la aplicación de medidas cautelares, la imposición de penas y 
 
 XIV. Intervenir en los procedimientos de ejecución de sanciones penales;
 
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Ordenar la destrucción de narcótico conforme a las disposiciones legales aplicables;
+
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XV. Realizar el cobro de derechos por los servicios de expedición de documento que acredite la verificación alfanumérica de automotor que determine la existencia o no de irregularidad en sus datos de identificación vehicular, así como expedición de certificado de existencia o no de reporte de robo de vehículo automotor conforme a las bases de datos de la Fiscalía General; y
+XVI. Realizar el cobro de derechos por los servicios de expedición de documento que acredite la verificación alfanumérica de automotor que determine la existencia o no de irregularidad en sus datos de identificación vehicular, así como expedición de certificado de existencia o no de reporte de robo de vehículo automotor conforme a las bases de datos de la Fiscalía General; y
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XVI. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
+XVII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
 ### Capítulo Séptimo. De la Dirección de Derechos Humanos
 
@@ -1131,21 +1141,21 @@ V. Inscribir y mantener actualizada la información correspondiente a los servid
 
 VI. Realizar la verificación aleatoria de las declaraciones patrimoniales, que obren en el sistema de evolución patrimonial;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Expedir en caso de no existir ninguna anomalía, la certificación correspondiente, misma que se anotará en dicho sistema;
+VII. Expedir la certificación correspondiente, cuando de la revisión de las declaraciones patrimoniales no exista irregularidad, la que deberá registrarse en el sistema de evolución patrimonial;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-VIII. Ejecutar las investigaciones que correspondan;
+VIII. Ejecutar las investigaciones correspondientes, al identificarse irregularidad en las declaraciones patrimoniales presentadas por los servidores públicos;
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 IX. Inscribir en el Sistema Nacional de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Nacional, las anotaciones de aquellas abstenciones que se hayan realizado en términos de las disposiciones; así como hacerlas públicas de conformidad con la Ley General del Sistema Nacional Anticorrupción y los ordenamientos legales en materia de transparencia;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-X. Realizar las visitas de inspección y verificación de las áreas que integran la Fiscalía General, a fin de generar acciones preventivas, correctivas, propuestas de mejora o bien, instaurar la investigación preliminar que resulte procedente;
+X. Realizar las visitas de inspección y verificación de las áreas que integran la Fiscalía General, a fin de generar acciones preventivas, correctivas, propuestas de mejora o bien, instaurar la investigación de presunta responsabilidad administrativa que resulte procedente;
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1199,29 +1209,41 @@ XXII. Expedir las constancias de No inhabilitación respecto de servidores públ
 
 XXIII. Llevar a cabo el procedimiento administrativo de ejecución derivado de sanciones pecuniarias o multas administrativas impuestas al personal de la Fiscalía General, de conformidad con las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-XXIV. Iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa, tratándose de faltas administrativas no graves y en los términos de las disposiciones aplicables;
+XXIV. Investigar las conductas de los servidores públicos de la Fiscalía General que puedan constituir responsabilidades administrativas;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-XXV. Adoptar las medidas necesarias para el fortalecimiento institucional y control interno, para prevenir faltas administrativas y hechos de corrupción;
+XXV. Iniciar y substanciar los procedimientos correspondientes, conforme a lo establecido en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Querétaro;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-XXVI. Solicitar la aclaración de las declaraciones de situación patrimonial;
+XXVI. Resolver los procedimientos de responsabilidad administrativa cuando se trate de actos u omisiones calificados como faltas administrativas no graves, en los términos de las disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
 XXVII. Imponer y ejecutar las sanciones administrativas por faltas administrativas no graves, en los términos de las disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-XXVIII. Realizar el cobro de derechos por los servicios de expedición de constancias de no inhabilitación; y
+XXVIII. Adoptar las medidas necesarias para el fortalecimiento institucional y control interno, para prevenir faltas administrativas y hechos de corrupción;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
-XXIX. Las demás que le confieran las disposiciones aplicables.
+XXIX. Solicitar la aclaración de las declaraciones de situación patrimonial;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XXX. Realizar el cobro de derechos por los servicios de expedición de constancias de no inhabilitación;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XXXI. Ejercer las acciones que den inicio al procedimiento de responsabilidad administrativa ante el Tribunal competente cuando se trate de faltas administrativas graves; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
+XXXII. Las demás que le confieran las disposiciones aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -1620,6 +1642,16 @@ P.O. 29 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 7 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
