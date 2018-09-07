@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2018-03-28"
+last_updated: "2018-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -695,7 +695,7 @@ La caución de no ofender consiste en la garantía que el órgano jurisdiccional
 
 Si desde que cause ejecutoria la sentencia que impuso la caución transcurre un lapso de tres años sin que el inculpado haya repetido el daño, el órgano jurisdiccional ordenará de oficio, o a solicitud de parte, la cancelación de la garantía.
 
-Si el inculpado no puede otorgar la garantía, ésta será subsituída (sic) por vigilancia de la autoridad durante un lapso que no excederá de tres años.
+Si el inculpado no puede otorgar la garantía, ésta será substituída por vigilancia de la autoridad durante un lapso que no excederá de tres años.
 
 ### CAPITULO I. REGLAS GENERALES
 
@@ -997,11 +997,13 @@ La muerte del imputado extingue la pretensión punitiva o las penas o medidas de
 
 La amnistía extingue la pretensión punitiva o las penas o medidas de seguridad impuestas, a excepción del decomiso y de la reparación de los daños y perjuicios, en los términos de la Ley que se dicte concediéndola. Si ésta no expresare su alcance se entenderá que la pretensión punitiva y las penas y medidas de seguridad se extinguen en todos sus efectos, con relación a todos los responsables del delito.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+
 ### CAPITULO VII. RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
 
 ###### ARTICULO 106.
 
-El Titular del Poder Ejecutivo podrá conceder indulto cuando el reo haya prestado importantes servicios al Estado y discrecionalmente por razones humanitarias o sociales, para quienes por la conducta observada en la reclusión o su constante dedicación al trabajo, se le considere merecedor del mismo. El indulto extingue las penas impuestas en sentencia ejecutoria, salvo el decomiso y la reparación de los daños y perjuicios.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
 ### CAPITULO VIII. REHABILITACION
 
@@ -1401,8 +1403,6 @@ Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obli
 
 ### CAPITULO II. SECUESTRO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1999)</small>
-
 ###### ARTICULO 145.
 
 Al que habiendo atropellado culposamente o por caso fortuito a una persona, no le preste auxilio o solicite la asistencia que requiera, pudiendo hacerlo, se le aplicará prisión de tres meses a dos años.
@@ -1451,17 +1451,9 @@ IV. Que la privación de la libertad tenga el propósito de realizar un acto er�
 
 Si la víctima es puesta en libertad espontáneamente, dentro de las veinticuatro horas siguientes a la comisión del delito, sin haber causado daño, se podrá disminuir la pena hasta la mitad.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
+ARTICULO 149 BIS.- (DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
-ARTICULO 149 BIS.- Cuando la privación de la libertad se realice con la finalidad de obtener un lucro mediante el uso de cualquier medio bancario, electrónico o informático o para lograr la entrega o el apoderamiento de cualquier bien, por sí o por parte de un tercero activo, siempre y cuando la privación de la libertad dure el tiempo estrictamente necesario para obtener el lucro y fuera de los casos de los artículos 150 y 150 BIS de este Código, se impondrá prisión de seis a quince años y de cien a doscientos cincuenta días multa, sin perjuicio de aplicar las reglas del concurso.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
-
-La pena se aumentará en una mitad, cuando concurran algunas de las agravantes señaladas en este Código para el delito de secuestro o si se vejare o se torturare a la víctima o si se lleva a cabo por dos o más personas armadas o llevando cualquier instrumento peligroso o que la víctima sea menor de edad o mayor de sesenta años o que sea mujer en estado de embarazo o que sea persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo o que por cualquiera otra circunstancia se encuentre en situación de inferioridad física respecto del agente.
-
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
-
-Cuando participen de cualquier manera en la comisión de este ilícito, personas que sean o hayan sido servidores públicos encargados de prevenir, denunciar, investigar, juzgar la comisión de delitos o ejecutar penas y medidas de seguridad o sean miembros de alguna corporación de seguridad pública o privada, la pena de prisión se aumentará en una mitad y será motivo de inhabilitación para ocupar cargos del servicio público o ser miembro de una corporación de seguridad por un tiempo igual al de la pena de prisión impuesta.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
 ### CAPITULO II. ASALTO
 
@@ -1469,79 +1461,11 @@ Cuando participen de cualquier manera en la comisión de este ilícito, personas
 
 ###### ARTICULO 150.
 
-Al que prive de la libertad a otro, se le aplicará prisión de seis a treinta y cinco años, si el hecho se realiza con el propósito de:
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
-I.- Obtener un rescate, un derecho o el cumplimiento de cualquier condición.
+ARTICULO 150 BIS.- (DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
-II.- Que la autoridad realice o deje de hacer un acto de cualquier índole, o
-
-III.- Causar daño o perjuicio en la persona del secuestrado o en persona distinta relacionada con él.
-
-La pena se agravará hasta en una mitad más si concurre alguna de las circunstancias siguientes:
-
-I.- Que se realice en lugar desprotegido o solitario;
-
-II.- Que el agente se ostente como autoridad sin serlo;
-
-III.- Que se lleve a cabo por dos o más personas;
-
-IV.- Que se realice con violencia, se vejare o se torturase a la víctima, y
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
-
-V.- Que la víctima sea una persona menor de edad o mayor de sesenta años de edad o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo o que por cualquier otra circunstancia se encuentre en situación de inferioridad física respecto del agente;
-
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
-
-VI.- Cuando de esta conducta resulten graves daños físicos o mentales al ofendido o a sus parientes o personas con quienes viva o durante el secuestro o a consecuencia del mismo muera el ofendido o cualquiera otra persona, sin perjuicio de las reglas del concurso.
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
-
-VII. Cuando quien participe de cualquier manera en la comisión de este ilícito, sea servidor público encargado de prevenir, denunciar, investigar o juzgar la comisión de delitos.
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2003)</small>
-
-VIII.- Que el sujeto activo tenga vínculos de parentesco, amistad, gratitud, confianza o relación laboral con el secuestrado o personas relacionadas con éste.
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2003)</small>
-
-IX. Que el sujeto activo sea o haya sido servidor público o se ostente como tal, relacionado con la seguridad pública o privada.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
-
-Si espontáneamente se pone en libertad a la persona, en las veinticuatro horas siguientes a la comisión del hecho y sin haber causado perjuicio, se aplicará la sanción que corresponda por el delito de privación de la libertad personal.
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
-
-ARTICULO 150 BIS.- Independientemente de las sanciones que correspondan en los términos del artículo 150 de este código y fuera de las causas de exclusión del delito previstas por la ley, se sancionará con una pena de uno a ocho años de prisión y de doscientos a setecientos cincuenta días multa, al que:
-
-I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
-
-II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
-
-III. Actúe como asesor de quienes representen o gestionen en favor de la víctima, y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
-
-IV. Aconseje el no presentar la denuncia del secuestro cometido, o bien el no colaborar o el obstruir la actuación de las autoridades;
-
-V. Efectúe el cambio de moneda nacional por divisas, sabiendo que es con el propósito directo de pagar el rescate a que se refiere la fracción I del artículo anterior; y
-
-VI. Intimide a la víctima, a sus familiares hasta el segundo grado o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
-
-No se aplicará sanción alguna a quien, habiendo realizado las conductas previstas en las fracciones III y IV de este artículo, sea ascendiente o descendiente consanguíneo o por adopción, cónyuge, concubina o concubinario o pariente colateral por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo, o que esté ligado al secuestrado por amor, respeto, gratitud o estrecha amistad.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2003)</small>
-
-ARTICULO 150 BIS UNO.- A quién simule encontrarse secuestrado, con el propósito de obtener un beneficio económico o con la intención de que alguien realice o deje de hacer una conducta cualquiera, se le impondrán de dos a ocho años de prisión y de cien a quinientos días multa.
-
-Al que instigue o ayude a otro para simular secuestro se le impondrá la penalidad señalada en el párrafo anterior.
-
-La pena se agravará hasta en una mitad más, si se obtiene el beneficio pretendido.
-
-Si espontáneamente se deja de simular la conducta, en las veinticuatro horas siguientes a la comisión del hecho, no se impondrá pena ni medida de seguridad alguna a no ser que los actos ejecutados u omitidos, constituyan por si mismos el delito, en cuyo caso se impondrá la pena o medida señalada por éste.
-
-Las conductas previstas por este artículo, serán perseguibles por querella, cuando el sujeto activo sea ascendiente o descendiente consanguíneo o por adopción, cónyuge, concubina o concubinario o pariente colateral por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo.
-
-En los demás casos será perseguible por oficio.
+ARTICULO 150 BIS UNO.- (DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
@@ -3531,11 +3455,7 @@ Al que cometa un delito en contra de un servidor público en el acto de ejercer 
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-### CAPÍTULO VIII. DE LA TORTURA
-
-(NOTA: EL 15 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE SEPTIEMBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 16848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+### CAPITULO VIII. DE LA TORTURA
 
 ###### ARTICULO 294.
 
@@ -3699,83 +3619,35 @@ VII. Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, se le sancionará además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por 2 años.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 311.
 
-Comete delito de tortura, el servidor público que, con motivo de sus atribuciones, inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos con el fin de obtener del torturado o de un tercero, información o una confesión, o castigarlo por un acto que haya cometido o se sospeche que cometió, coaccionarlo para que realice o deje de realizar una conducta determinada, o como medio intimidatorio para el torturado o para un tercero.
-
-No se considerarán como tortura, las molestias o penalidades que sean consecuencia únicamente de sanciones legales, que sean inherentes o incidentales a éstas, o derivadas de un acto legítimo de autoridad.
-
-(NOTA: EL 15 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE SEPTIEMBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 16848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
 ###### ARTICULO 312.
 
-A quien cometa el delito de tortura, se le aplicará prisión de tres a doce años, de doscientos a quinientos días multa e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, hasta por dos tantos más del lapso de privación de libertad impuesto.
-
-(NOTA: EL 15 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE SEPTIEMBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 16848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
 ###### ARTICULO 313.
 
-Las penas previstas en el artículo anterior, se aplicarán al servidor público que, con motivo del ejercicio de su cargo y con cualquiera de las finalidades señaladas en el artículo 311 de este Código, instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos, o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
-
-Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves, sean físicos o psíquicos a un detenido.
-
-(NOTA: EL 15 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE SEPTIEMBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 16848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
 ###### ARTICULO 314.
 
-No será causa de inexistencia del delito de tortura, circunstancias tales como: estado de emergencia, conmoción, conflicto interior, inestabilidad política, suspensión de garantías, la peligrosidad del imputado, la inseguridad del establecimiento de reclusión u otras eventualidades públicas.
-
-(NOTA: EL 15 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE SEPTIEMBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 16848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
 ###### ARTICULO 315.
 
-En el momento en que lo solicite, cualquier detenido, cualquiera que sea su situación jurídica, deberá ser reconocido por un perito médico legista y a falta de éste o si lo requiere, además, por un facultativo de su elección. El que haga el reconocimiento queda obligado a expedir de inmediato el certificado correspondiente y en caso de apreciar que se ha infligido dolores o sufrimientos de los comprendidos en el primer párrafo del artículo 311 de este Código, deberá comunicarlo de inmediato al Fiscal que corresponda.
-
-La solicitud de reconocimientos (sic) médico, puede formularla el defensor del imputado o detenido, un tercero o la Defensoría de los Derechos Humanos de Querétaro.
-
-(NOTA: EL 15 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE SEPTIEMBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 16848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
 ###### ARTICULO 316.
 
-El responsable del delito previsto en el presente Capítulo, estará obligado a cubrir los gastos médicos, de asesoría legal, funerarios, de rehabilitación o de cualquier otra índole, que hayan erogado la víctima o sus familiares, como consecuencia del delito. Asimismo, deberá de reparar el daño e indemnizar por los perjuicios causados a la víctima o a sus dependientes económicos, en los siguientes casos:
-
-I. Pérdida de la vida;
-
-II. Alteración de la salud;
-
-III. Pérdida o restricción de la libertad;
-
-IV. Pérdida de ingresos económicos;
-
-V. Incapacidad laboral;
-
-VI. Pérdida o daño a la propiedad; o
-
-VII. Menoscabo de la reputación.
-
-Para fijar los montos correspondientes, el juez tomará en cuenta la magnitud del daño causado.
-
-En los términos de la fracción IV del artículo 47 de este Código, el Estado o los Municipios en su caso, estarán obligados al pago de la reparación de daños y perjuicios.
-
-(NOTA: EL 15 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE SEPTIEMBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 16848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
 ###### ARTICULO 317.
 
-El servidor público que, en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato ante la Fiscalía General del Estado, si no lo hiciere, se le impondrá de tres meses a tres años de prisión y de 15 a 70 UMA de multa, sin perjuicio de lo que establezcan otras leyes.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
 ###### ARTICULO 318.
 
@@ -3951,7 +3823,7 @@ P.O. 16 DE JULIO DE 1999
 
 ###### ARTICULO UNICO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"
+La presente Ley entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”
 
 P.O. 15 DE OCTUBRE DE 1999
 
@@ -4464,3 +4336,13 @@ P.O. 28 DE MARZO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 7 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
