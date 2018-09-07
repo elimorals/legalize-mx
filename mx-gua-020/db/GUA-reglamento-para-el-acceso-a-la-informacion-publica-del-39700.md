@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-acceso-a-la-informacion-publica-del-39700"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-25"
-last_updated: "2004-05-25"
+last_updated: "2018-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE LEON, GTO
 
-REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE LEON, GTO.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE LEÓN, GUANAJUATO, PUBLICADO EN EL P.O. DE 7 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA EL ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE LEÓN, GTO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de mayo de 2004.
 
@@ -153,7 +155,7 @@ VI. Emitir los manuales de procedimientos administrativos para garantizar y agil
 
 VII. Capacitar a los enlaces y personal de las dependencias y entidades en la interpretación y aplicación de la Ley de Acceso y el Reglamento;
 
-Vlll. Coordinarse con el Instituto y demás Unidades de Acceso a la Información Pública, en la difusión del derecho a la información;
+VIII. Coordinarse con el Instituto y demás Unidades de Acceso a la Información Pública, en la difusión del derecho a la información;
 
 IX. Proponer al Ayuntamiento la celebración de contratos y convenios con entidades públicas y privadas para la realización de programas, acciones y medidas que coadyuven al cumplimiento de- la Ley de Acceso y el presente reglamento;
 
@@ -530,3 +532,15 @@ PRESIDENTE MUNICIPAL
 FELIPE DE JESÚS LÓPEZ GÓMEZ
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE LEÓN, GUANAJUATO”.]
+
+PRIMERO. El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento para el Acceso a la Información Pública del Municipio de León, publicado en el Periódico Oficial del Gobierno del Estado número 84, publicado en fecha 25 de mayo de 2004.
+
+TERCERO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente ordenamiento.
