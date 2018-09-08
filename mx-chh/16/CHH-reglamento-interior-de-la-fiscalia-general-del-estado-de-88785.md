@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-fiscalia-general-del-estado-de-88785"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-25"
-last_updated: "2012-07-25"
+last_updated: "2018-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO INTERIOR DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 8 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 8 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 25 de julio de 2012.
 
@@ -4546,3 +4546,37 @@ Se derogan las disposiciones que se opongan a este Reglamento.
 DADO en la residencia del Poder Ejecutivo, en la ciudad de Chihuahua, Chihuahua, a los 10 días del mes de julio del año dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. C. RAYMUNDO ROMERO MALDONADO. Rúbrica. EL FISCAL GENERAL DEL ESTADO. LIC. CARLOS MANUEL SALAS. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA FISCALÍA GENERAL DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Fiscalía General del Estado de Chihuahua publicado el 25 de julio de 2012 en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos, acciones, compromisos o trámites iniciados ante las instancias, que conforme a la reforma de la Ley Orgánica de la Fiscalía General mediante Decreto LXV/RFLEY/0340/2017 II P.O. de fecha 7 de junio de 2017, así como la expedición del presente Reglamento, hayan modificado su nomenclatura o naturaleza jurídica, deberán ser continuados ante las unidades administrativas que realicen las funciones sustantivas que correspondan, según el caso en concreto; para lo cual, deberán atender a su nueva denominación, en su caso, sin que dicha condición altere, modifique, afecte o invalide el curso o la existencia de aquellos.
+
+###### ARTÍCULO CUARTO.
+
+Los acuerdos o instrucciones emitidos por el Fiscal General mediante los cuales se deleguen funciones específicas a favor de las o los servidores públicos y donde se invoquen atribuciones consagradas en el Reglamento Interior de la Fiscalía General del Estado de Chihuahua publicado el 25 de julio de 2012 en el Periódico Oficial del Estado de Chihuahua, conservarán su vigencia, con independencia de que la emisión del presente Reglamento modifique la numeración de los artículos referidos en dichos acuerdos, por lo que las funcionarias y funcionarios a los que se les haya delegado alguna función y pretendan acreditar su personalidad y actuación ante las autoridades que correspondan, deberán atender al contenido, naturaleza y alcance de las atribuciones que le fueron concedidas a efecto de hacerla valer ante terceros; salvo que se revoquen o se dejen sin efectos por la persona titular de la dependencia.
+
+###### ARTÍCULO QUINTO.
+
+Derivado de la entrada en vigor de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, donde se establecen, entre otras obligaciones para las entidades federativas, la creación de una Comisión Local de Búsqueda, mandato que motivó la reforma y adición a la Ley Orgánica de la Fiscalía General que quedó plasmada en el Decreto LXV/RFLYC/0798/2018 XII P.E. publicada en el Periódico Oficial del Estado en fecha 21 de julio de 2018; la Unidad de Búsqueda y Control de Registro de Personas Desaparecidas, dependiente de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada que fuera autorizada en la estructura organizacional para el presente ejercicio fiscal, modifica su denominación por la de Comisión Local de Búsqueda; en consecuencia, las áreas competentes de la administración centralizada del Gobierno del Estado, estarán obligadas a realizar las modificaciones que resulten necesarias con la finalidad de reconocer a dicha unidad con la nomenclatura que se establece en el presente Reglamento a fin de dar cumplimiento y congruencia a lo dispuesto en la ley general de marras.
+
+###### ARTÍCULO SEXTO.
+
+Que de acuerdo al decreto en virtud del cual se expide la Ley Nacional de Ejecución Penal, publicada en el Diario Oficial de la Federación el 16 de junio de 2016, que obliga a su observancia tanto a la Federación como a las entidades federativas y, que de acuerdo a lo previsto en el Artículo Tercero Transitorio de dicho ordenamiento, quedan abrogadas las leyes que regulan la ejecución de sanciones penales en las entidades federativas; la denominación de constancia de antecedentes penales suple a la de certificado de antecedentes penales; modificación que por ningún motivo deberá constituir una alteración en cuanto al contenido del referido documento o que el cambio de denominación genere un obstáculo para su obtención en perjuicio de la persona que lo solicite; en consecuencia las áreas competentes de la Fiscalía General, deberán utilizar los medios de que disponga para la difusión de estas medidas.
+
+###### ARTÍCULO SÉPTIMO.
+
+La desconcentración administrativa de la que fueron objeto tanto la Comisión Estatal de Seguridad, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la Comisión Ejecutiva de Atención Víctimas y el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal, les otorga a éstos órganos especializados, la facultad de gestión y toma de decisiones, desde el punto de vista técnico y operativo, a fin de responder con prontitud e inmediatez a las demandas, solicitudes o peticiones que les planteen la ciudadanía e instituciones públicas o privadas; sin menoscabo de la línea jerárquica existente con el Fiscal General, quien conserva la tutela y responsabilidad sobre dichos organismos.
