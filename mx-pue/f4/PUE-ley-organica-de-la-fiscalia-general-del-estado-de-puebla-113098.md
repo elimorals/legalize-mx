@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2017-12-29"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
@@ -454,6 +454,14 @@ El Fiscal General rendirá protesta ante el Congreso del Estado. Los demás inte
 ###### ARTÍCULO 16.
 
 Las ausencias temporales del Fiscal General serán suplidas, en ese orden, por los titulares de las Fiscalías a que se refiere la fracción I del artículo 9 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+Si la ausencia fuera mayor a treinta días, el Fiscal General del Estado nombrará a alguno de los titulares a que se refiere el párrafo anterior como encargado del despacho, quien ejercerá las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla y demás disposiciones legales (sic) confieren al Fiscal General.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+El nombramiento a que se refiere el párrafo anterior, será notificado al Congreso del Estado, para que pueda ejercer la facultad prevista en el artículo 98 de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 ###### ARTÍCULO 17.
 
@@ -1484,3 +1492,11 @@ CUARTO. En términos del artículo 142 Bis del Código Penal del Estado Libre y 
 El delito de evasión de presos referido en los artículos 167, 168, 169, 170, 171, 173, 174, 175, 176 y 177, derogados por este Decreto, no se extinguen, por permanecer la descripción de la conducta sancionada penalmente en los artículos 436 Sexies, 436 Septies, 436 Octies, 436 Nonies, 436 Decies, 436 Undecies, 436 Duodecies y 436 Terdecies, en el mismo ordenamiento legal.
 
 Por lo que hace los delitos de Tortura y otros tratos o penas crueles, inhumanos o degradantes y sus sanciones, se aplicarán las disposiciones que establece la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+P.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA DOS PÁRRAFOS AL ARTÍCULO 16 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día de su publicación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
