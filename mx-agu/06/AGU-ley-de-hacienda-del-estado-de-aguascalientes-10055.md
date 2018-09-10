@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2017-11-06"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -257,7 +257,53 @@ El pago de este impuesto se efectuará dentro de los treinta días naturales sig
 
 En los actos que se hagan constar en escritura pública, los fedatarios que por disposición legal tengan fe pública en el Estado, calcularán y procederán a recaudar el impuesto bajo su responsabilidad y mediante declaraciones lo enterarán en las oficinas autorizadas, dentro del plazo a que se refiere el párrafo anterior.
 
-Los notarios, corredores públicos o quienes hagan sus veces, los registradores y las autoridades competentes en el Estado, asentarán al margen de la matriz y en los testimonios de los documentos privados, la constancia de pago o la que éste no se causa.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018.)</small>
+
+Los notarios, corredores públicos o quienes hagan sus veces, los registradores y las autoridades competentes en el Estado, asentarán al margen de la matriz y en los testimonios de los documentos privados, la constancia de pago o la leyenda de que éste no se causa.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018.)</small>
+
+Los notarios, corredores públicos o quienes hagan sus veces, los registradores y las autoridades competentes en el Estado, no expedirán testimonios, no registrarán, ni darán trámite a los actos, contratos o documentos públicos o privados que se celebren o presenten ante estos, sino hasta que se haya presentado la declaración correspondiente y efectuado el pago a que refriere el primer párrafo de este Artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018.)</small>
+
+ARTICULO 11 BIS.- Lo dispuesto en el tercer párrafo del Artículo anterior, no será aplicable cuando el contribuyente realice directamente el pago ante la Secretaría de Finanzas del Estado, siempre que se cuente con el documento oficial emitido por los fedatarios públicos, en el que se haga constar el impuesto a cargo del contribuyente causado con motivo de la celebración del acto, contrato o documento público o privado, por el que se deba expedir testimonio, registrarse o darse trámite diverso.
+
+Si durante los trabajos de la celebración del acto o contrato surgieran diferencias en el impuesto causado, no se expedirá el testimonio, no se registrará, ni se dará el trámite correspondiente, hasta en tanto se efectúe el pago por la diferencia restante directamente por el contribuyente a la Secretaría de Finanzas del Estado, siempre que se cuente con el documento oficial emitido por el notario, corredor o fedatario público o quienes hagan sus veces.
+
+Asimismo, el notario, corredor, fedatario público o quienes hagan sus veces, podrá efectuar el pago restante mediante declaración que se presente en términos de lo dispuesto por el Artículo 10 de esta Ley, en la que conste el primer pago efectuado por el contribuyente y la diferencia que habrá de cubrirse para efecto de continuar con el trámite, registro o testimonio correspondiente, respecto a la celebración del acto, contrato o documento público o privado.
+
+Cuando el notario, corredor, fedatario público o quienes hagan sus veces, conozca que el pago del impuesto resultó en exceso, expedirá documento oficial en que conste tal situación, para efecto de que el contribuyente realice el trámite de devolución correspondiente de conformidad con el Código Fiscal del Estado de Aguascalientes.
+
+No procederá la devolución del impuesto si al trámite de devolución que presente el contribuyente no se acompaña el documento oficial expedido por el notario, corredor, fedatario público o quienes hagan sus veces, así como el documento público o privado, en que se haya hecho constar el acto, contrato o testimonio.
+
+Para el caso en el que el contribuyente opte por efectuar el pago directamente ante la Secretaría de Finanzas del Estado del impuesto estimado por el notario, corredor, fedatario público o quienes hagan sus veces; éstos quedarán relevados de presentar la declaración a que se refiere el Artículo anterior, siempre que se presente el aviso correspondiente ante la Secretaría de Finanzas informando tal situación.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018.)</small>
+
+ARTICULO 11 TER.- De conformidad con el Artículo anterior, los notarios, corredores, fedatarios públicos o quienes hagan sus veces, tendrán las obligaciones siguientes:
+
+I.- Expedir el documento oficial en el que conste sello y firma del notario, corredor, fedatario público o quienes hagan sus veces, que para tal efecto apruebe la Secretaría de Finanzas del Estado, en el que se haga constar el impuesto causado a cargo del contribuyente, con motivo de la celebración del acto, contrato o documento público o privado, por el que deba expedirse testimonio, registrarse o darse trámite diverso, cuando se opte por aplicar lo dispuesto en el primer párrafo del Artículo 11 BIS de la presente Ley;
+
+II.- Expedir el documento oficial en el que conste sello y firma del notario, corredor, fedatario público o quienes hagan sus veces, que para tal efecto apruebe la Secretaría de Finanzas del Estado, en el que se haga constar la cantidad restante del impuesto causado a cargo del contribuyente, con motivo de la celebración del acto, contrato o documento público o privado, por el que deba expedirse el testimonio, registrarse o darse trámite diverso, cuando se actualice el supuesto previsto por el párrafo segundo del Artículo 11 BIS de esta Ley;
+
+III.- Expedir el documento oficial en el que conste sello y firma del notario, corredor, fedatario público o quienes hagan sus veces, que para tal afecto apruebe la Secretaría de Finanzas del Estado, en el que se haga constar la cantidad a devolver del impuesto causado a cargo del contribuyente, con motivo de la celebración del acto, contrato o documento público o privado, por el que deba expedirse testimonio, registrarse o darse trámite diverso, cuando se actualice el supuesto previsto por el tercer párrafo del Artículo 11 BIS de la presente Ley, aun cuando no sea solicitado por parte del contribuyente;
+
+IV.- Efectuar el pago dentro del plazo previsto por el Artículo 10 de esta Ley, cuando se opte por aplicar lo dispuesto por el primer párrafo del Artículo 11 del propio ordenamiento; y
+
+V.- Presentar las declaraciones en tiempo y forma en las oficinas autorizadas, dentro del plazo previsto en el Artículo 10 de la presente Ley, cuando se esté obligado a ello.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018.)</small>
+
+ARTICULO 11 QUATER.- Se sancionará a los notarios, corredores, fedatarios públicos o quienes hagan sus veces, que incumplan con las obligaciones previstas por el Artículo 11 TER, conforme a lo siguiente:
+
+I.- Con 10 a 100 unidades de medida y actualización diaria, por no sellar o firmar los documentos oficiales que refrieren las fracciones I, II y III del Artículo 11 TER de la presente Ley, cuando se opte por la opción de pago a cargo del contribuyente;
+
+II.- Con 10 a 150 unidades de medida y actualización diaria, por no expedir documento oficial cuando se esté obligado a ello, según lo dispuesto por las fracciones I, II y III del Artículo 11 TER;
+
+III.- Con 10 a 200 unidades de medida y actualización diaria, por no efectuar el pago dentro del plazo previsto en el presente capítulo, cuando no se siga el procedimiento a que refiere el Artículo 11 BIS; o
+
+IV.- Con 10 a 200 unidades de medida y actualización diaria, por no presentar la declaración en tiempo y forma ante las oficinas autorizadas, dentro del plazo a que refiere el presente Capítulo.
 
 > <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -813,7 +859,7 @@ El importe a acreditar no será sujeto de devolución.
 
 Para efectos de este impuesto son responsables solidarios:
 
-I. Quienes por cualquier título adquieran la propiedad, tenencia o uso de vehículos automotores objeto de .este impuesto, sin cerciorarse con la documentación comprobatoria correspondiente de su pago, la responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados;
+I. Quienes por cualquier título adquieran la propiedad, tenencia o uso de vehículos automotores objeto de este impuesto, sin cerciorarse con la documentación comprobatoria correspondiente de su pago, la responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2980,3 +3026,15 @@ La disposición normativa prevista por el Segundo Párrafo del Artículo 66 de l
 Para el ejercicio fiscal del año 2017, se concede un estímulo fiscal consistente en un subsidio del veinticinco por ciento del impuesto que le resulte a pagar al empleador únicamente por aquellos trabajadores de nuevo ingreso que ostenten la calidad de madres solteras; a los migrantes cuando su condición sea retornar al país de origen por un periodo de tres años a partir de la fecha en que fueron contratados; a los trabajadores mayores de sesenta años; los trabajadores quienes gocen de su primer empleo por un periodo de un año a partir de la fecha en que fueron contratados.
 
 El subsidio a que se refiere el párrafo anterior no podrá aplicarse de manera retroactiva ni dará lugar a devolución alguna del impuesto. Dicho estimulo se regulará a partir del ejercicio fiscal del año 2018 en la Ley de Ingresos del Estado de Aguascalientes.
+
+P.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 387.- SE REFORMA Y ADICIONA LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 01 de enero de 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+Se faculta a la Secretaría de Finanzas del Estado de Aguascalientes, para previamente a la entrada en vigor del presente Decreto, dé a conocer los formatos que deberán ser utilizados por los notarios, corredores, fedatarios públicos o quienes hagan sus veces, para cada uno de los supuestos a que refiere el Artículo 11 Bis del presente Decreto.
