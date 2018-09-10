@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-del-ayuntamiento-de-cuautepec-de-70988"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-09"
-last_updated: "2012-10-08"
+last_updated: "2018-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE CUAUTEPEC DE HINOJOSA, HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE CUAUTEPEC DE HINOJOSA, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE CUAUTEPEC DE HINOJOSA, HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de noviembre de 2009.
 
@@ -780,3 +782,13 @@ P.O. 8 DE OCTUBRE DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones vigentes y aplicables en el Municipio que antecedan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE CUAUTEPEC DE HINOJOSA”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo. Por la entrada en vigor de este Reglamento, se abroga el Reglamento Interior del H. Ayuntamiento de Cuautepec de Hinojosa, Hidalgo; publicado en el Periódico Oficial del Estado de Hidalgo el 09 de noviembre del año 2009.
+
+Tercero. El Ayuntamiento tendrá un periodo de 60 días hábiles para llevar a cabo las acciones necesarias para la instrumentación del contenido de este Reglamento.
