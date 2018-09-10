@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2018-09-06"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -211,9 +211,15 @@ Las personas serán igualmente responsables en la preservación, restauración y
 
 El Estado garantiza a todas las personas el derecho de acceso a los servicios de agua potable, en cantidad suficiente y en condiciones de seguridad y calidad para satisfacer necesidades personales y domésticas.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 9.
+
+Toda familia veracruzana tiene derecho a disfrutar de vivienda digna y decorosa. La ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
+
+> <small>[N. DE E. REUBICADO ANTES PRIMER PÁRRAFO DEL ARTÍCULO; G.O. 10 DE SEPTIEMBRE DE 2018]</small>
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 La propiedad y la posesión tendrán las modalidades y limitaciones señaladas por la Constitución Federal y la Ley.
 
@@ -823,9 +829,9 @@ XXXVIII. Recibir del Gobernador, de los diputados, de los magistrados, de los in
 
 XXXIX. Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna ley constituya un ataque a la soberanía o autonomía del Estado, o de la Constitución Federal;
 
-> <small>(ADICIONADA, G.O. 13 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-XXXIX Bis. Aprobar el Plan Veracruzano de Desarrollo, en los términos de la ley respectiva.
+XXXIX BIS. Aprobar el Plan Veracruzano de Desarrollo, y conocer la evaluación que haga el titular del Poder Ejecutivo anualmente de su avance, en los términos de la ley respectiva.
 
 > <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -12816,3 +12822,19 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El Congreso del Estado deberá adecuar las leyes relativas, conforme a lo dispuesto en este Decreto, dentro de los sesenta días naturales siguientes al inicio de su vigencia.
+
+G.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 746 QUE ADICIONA UN PRIMER PÁRRAFO AL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 748 QUE REFORMA LA FRACCIÓN XXXIX BIS DEL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá hacer las adecuaciones legales correspondientes para dar cumplimiento al mismo.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
