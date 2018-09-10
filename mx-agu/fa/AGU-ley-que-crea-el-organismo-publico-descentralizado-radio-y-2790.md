@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-organismo-publico-descentralizado-radio-y-2790"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-11"
-last_updated: "2005-08-08"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO RADIO Y TELEVISION DE AGUASCALIENTES
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO RADIO Y TELEVISION DE AGUASCALIENTES
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO RADIO Y TELEVISIÓN DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento al Número 2 del Periódico Oficial del Estado de Aguascalientes, el 11 de enero de 1987.
 
@@ -99,7 +99,9 @@ d).- Apoyar a los eventos artísticos y deportivos.
 
 e).- Difundir técnicas tendientes a mejorar la productividad industrial, agrícola y ganadera.
 
-f).- Orientar al radioescucha o al televidente sobre la preservación de la salud, la economía doméstica y la educación familiar y en general programas que se consideren necesarios para fortalecer el bienestar social y estrechar las relaciones entre los sectores sociales de la población.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+f).- Orientar al radioescucha o al televidente sobre la preservación de la salud, la protección del medio ambiente, la economía doméstica y la educación familiar y en general programas que se consideren necesarios para fortalecer el bienestar social y estrechar las relaciones entre los sectores sociales de la población.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 1996)</small>
 
@@ -139,7 +141,7 @@ II.- El Director General.
 
 ###### Artículo 7º.
 
-La Junta Directiva estará integrada por: Un Presidente que será el Gobernador del Estado . Por 6 Vocales que serán: el Secretario de Desarrollo Social del Estado, el Secretario de Finanzas, el Secretario de Gestión e Innovación, el Director del Instituto de Educación de Aguascalientes, el Director del Instituto Cultural de Aguascalientes, un representante del Poder Legislativo, un Secretario de Actas que será el Director General y por un Comisario que será la persona que designe el Contralor General del Gobierno del Estado.
+La Junta Directiva estará integrada por: Un Presidente que será el Gobernador del Estado. Por 6 Vocales que serán: el Secretario de Desarrollo Social del Estado, el Secretario de Finanzas, el Secretario de Gestión e Innovación, el Director del Instituto de Educación de Aguascalientes, el Director del Instituto Cultural de Aguascalientes, un representante del Poder Legislativo, un Secretario de Actas que será el Director General y por un Comisario que será la persona que designe el Contralor General del Gobierno del Estado.
 
 Por cada miembro propietario habrá un suplente que será designado por el titular y contará con las mismas facultades que los propietarios en caso de ausencia de éstos.
 
@@ -336,3 +338,11 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 391.- SE REFORMA LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO RADIO Y TELEVISIÓN DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
