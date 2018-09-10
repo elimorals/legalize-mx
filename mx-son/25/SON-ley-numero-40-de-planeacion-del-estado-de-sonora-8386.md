@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-40-de-planeacion-del-estado-de-sonora-8386"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-02"
-last_updated: "2017-05-22"
+last_updated: "2018-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 40 DE PLANEACION DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACIÓN DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 10 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PLANEACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -490,3 +492,39 @@ B.O. 22 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 289, DE PLANEACIÓN DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Planeación del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado el 02 de febrero de 1984 y se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado de Sonora contará con un plazo de 365 días para armonizar los demás ordenamientos jurídicos de su competencia en la operación de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades responsables deberán emitir sus disposiciones de carácter reglamentario en un plazo de 365 días.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones y atribuciones de las Unidades de Planeación y Evaluación podrán ser realizadas por las unidades administrativas o por las áreas a cargo de las actividades de planeación existentes.
+
+###### ARTÍCULO SEXTO.
+
+Lo correspondiente a la elaboración de la Agenda de Largo Plazo surtirá efecto a partir de la publicación del próximo Plan Estatal de Desarrollo.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Poder Legislativo, Poder Judicial y órganos autónomos deberán publicar en un plazo de 365 días sus Programas de Gestión Institucional.
+
+###### ARTÍCULO OCTAVO.
+
+Los Ayuntamientos deberán de emitir en un plazo de 365 días la primera Agenda Municipal de Largo Plazo.
