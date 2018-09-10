@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-ordenamiento-territorial-desarrollo-urbano-y-96157"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-10-07"
-last_updated: "2018-09-03"
+last_updated: "2018-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de octubre de 2013.
 
@@ -1293,9 +1293,29 @@ XXXIII.- Elaborar encuestas y sondeos de opinión para sugerir las modificacione
 
 XXXIV.- Conocer y aplicar las disposiciones contenidas en el Título Décimo Séptimo de este Código;
 
-XXXV.- Ejercer las facultades que en materia de protección de medio ambiente le conceda el decreto de su creación; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-XXXVI.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
+XXXV.- Ejercer las facultades que en materia de protección de medio ambiente le conceda el decreto de su creación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVI.- Requerir en su caso, a las constructoras o desarrolladoras inmobiliarias el registro del Régimen de Propiedad en Condominio;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVII.- Contar con un servicio vía telefónica de atención al público en el que recibirán los reportes que les correspondan, o los canalizarán a la procuraduría conducente;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVIII.- Instrumentar y difundir mecanismos de participación ciudadana y sana convivencia entre todos aquellos que habiten en un condominio y/o participen en la Asamblea General, a que se refiere el Artículo 469 de este Código;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIX.- Promover con la más amplia difusión, sus funciones, servicios y programas de acción social; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+XL.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 33.
 
@@ -11841,6 +11861,32 @@ I.- Por la vía de la conciliación ante la presentación de la reclamación de 
 
 II.- Por la vía del arbitraje, cuando exista la designación por las partes.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 1122 A.- Los procedimientos que se substancien en las procuradurías estarán regidos por los principios de imparcialidad, economía procesal, celeridad, sencillez, eficacia legalidad, publicidad, buena fe, accesibilidad, información, certidumbre jurídica y gratuidad.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 1122 B.- Los recursos o procedimientos administrativos que se substancien en las procuradurías, deberán ser ágiles, expeditos, gratuitos y estarán sujetos a los principios de buena fe y concertación.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 1122 C.- Los servidores públicos de las entidades y dependencias de la Administración Pública, concesionarios y permisionarios, están obligados a enviar los informes y auxiliar en forma preferente y adecuada al personal de las procuradurías, para un mejor desempeño de sus funciones en atención de las reclamaciones.
+
+Cuando no sea posible proporcionar la información solicitada, deberá darse respuesta por escrito, en el que consten las razones.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 1122 D.- En ningún momento la presentación de una reclamación ante las procuradurías, interrumpirá la prescripción de las acciones judiciales o recursos administrativos previstos en las demás leyes y disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 1122 E.- Se podrán presentar reclamaciones comunes designando para tal efecto un representante.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 1122 F.- En el supuesto de que se presenten dos o más quejas que se refieran al mismo hecho, acto u omisión, la procuraduría respectiva podrá acumular los asuntos para su trámite en un solo recurso o procedimiento administrativo.
+
 ###### ARTÍCULO 1123.
 
 Para iniciar el procedimiento conciliatorio se requiere, que la reclamación precise los actos que se impugnan y las razones que se tienen para hacerlo, así como los generales de la parte reclamante y de la requerida.
@@ -12148,3 +12194,11 @@ Quedan derogadas todas las disposiciones normativas y/o reglamentarias que se op
 ###### ARTÍCULO TERCERO.
 
 Las comisiones de conurbación intraestatales deberán dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, reformar de conformidad con el mismo, su reglamento interior respectivo.
+
+P.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 392.- SE REFORMA Y ADICIONA, EL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
