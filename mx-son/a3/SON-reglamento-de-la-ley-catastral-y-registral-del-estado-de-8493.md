@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-catastral-y-registral-del-estado-de-8493"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-12-15"
-last_updated: "2002-04-01"
+last_updated: "2018-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO DE LA LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY CATASTRAL Y REGISTRAL PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 10 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE ABRIL DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 15 de diciembre de 1994.
 
@@ -1238,3 +1240,49 @@ B.O. 1 DE ABRIL DE 2002.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY CATASTRAL Y REGISTRAL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley Catastral y Registral del Estado de Sonora, entrará en vigor el día primero de noviembre del año dos mil dieciocho, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Con la iniciación de la vigencia de la presente Ley, queda abrogada la Ley Catastral y Registral del Estado de Sonora, así como su Reglamento y todas las menciones a dichos ordenamientos, contenidas en leyes, disposiciones y actos administrativos, se entenderán referidas a esta Ley. A la iniciación de la vigencia de la presente Ley, deberá entrar en vigor su Reglamento.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Legislativo y Ejecutivo y los Municipios de la Entidad, en sus respectivos ámbitos de competencia y dentro de un plazo no mayor de tres años, contado a partir de la iniciación de la vigencia de esta Ley, deberán realizar las adecuaciones normativas, administrativas, técnicas y presupuestarias, para que los catastros estatal y municipales, estén en aptitud de llevar a cabo sus procedimientos conforme a lo dispuesto en el artículo 27 de la presente Ley. El término señalado en este párrafo, surtirá sus efectos en tanto no sea modificado por otra u otras disposiciones legales o administrativas de aplicación obligatoria en el Estado de Sonora.
+
+El Reglamento deberá regular en un apartado especial, la función y procedimientos catastrales, en tanto las oficinas correspondientes estén en aptitud de llevar a cabo sus actividades en los términos de esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema Registral de Folios Electrónicos establecido en esta Ley, se instaurará de manera progresiva en las oficinas registrales del Estado. Para tal efecto, el Instituto deberá promover acciones de migración masiva de inscripciones realizadas conforme a sistemas anteriores.
+
+El Vocal Ejecutivo del Instituto determinará las oficinas donde se llevarán a cabo procesos de migración masiva, atendiendo a la suficiencia presupuestaria. Asimismo, realizados dichos procesos, el Vocal Ejecutivo determinará la fecha a partir de la cual se pondrá en práctica el Sistema Registral de Foiios (sic) Electrónicos establecido en esta Ley, lo que se publicará con anticipación mínima de treinta días naturales a la fecha antes señalada, en el Boletín Oficial del Gobierno del Estado de Sonora y en el Portal Electrónico Oficial del Instituto.
+
+El Reglamento deberá regular y definir en un apartado especial, en forma complementaria a las disposiciones de esta Ley, el sistema conforme al cual operarán las oficinas registrales, en tanto en éstas se implemente el de folios electrónicos.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos en trámite ante autoridades administrativas o judiciales, iniciados con anterioridad a la entrada en vigor de esta Ley, serán concluidos conforme a las disposiciones legales vigentes en la fecha de su inicio.
+
+###### ARTÍCULO QUINTO.
+
+Los procesos de migración de inscripciones y anotaciones marginales, al Sistema Registral de Folios Electrónicos, se llevarán a cabo sin calificación y en forma gratuita. Dichos procesos se realizarán oficiosamente mediante migración masiva o unitaria, en los casos previstos en esta Ley y los titulares registrales no tendrán la obligación de iniciarlos y sus derechos quedarán a salvo y conforme a las inscripciones o registros existentes antes de la iniciación de la vigencia de esta Ley. Lo anterior sin perjuicio del derecho de dichos titulares registrales, de solicitar, en caso de considerarlo conveniente, la señalada migración.
+
+El Reglamento de esta Ley establecerá los procedimientos para que los folios resultantes de procesos de migración contengan los elementos establecidos en esta Ley, los cuales se obtendrán de procedimientos registrales posteriores a la migración.
+
+###### ARTÍCULO SEXTO.
+
+El artículo 91 de esta Ley, sólo se aplicará a los servidores públicos que ingresen al servicio con posterioridad a la iniciación de su vigencia.
+
+###### ARTÍCULO SÉPTIMO.
+
+El titular del Poder Ejecutivo y el Congreso del Estado, a la brevedad que el caso amerita, deberán realizar las adecuaciones presupuestales que resulten necesarias, a fin de dotar de los recursos materiales y financieros al Instituto, para el cumplimiento de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones legales de igual o menor jerarquía jurídica, que se opongan a lo establecido en esta Ley.
