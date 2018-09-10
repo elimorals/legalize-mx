@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-sociedad-del-114795"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-23"
-last_updated: "2018-05-14"
+last_updated: "2018-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de mayo de 2016.
 
@@ -77,9 +77,11 @@ XII. Divulgar y garantizar el acceso abierto a la información científica, tecn
 
 XIII. Establecer el sistema presupuestal y contable que permita identificar plenamente el monto destinado por el Estado de Aguascalientes a la Ciencia, Tecnología e Innovación, monto que no podrá ser menor al 1% de la recaudación fiscal del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 2°.
 
-La investigación científica y tecnológica, el desarrollo tecnológico y la innovación son actividades prioritarias que corresponden al Gobierno del Estado, centros e instituciones de educación, de investigación y desarrollo tecnológico no gubernamentales; a los sectores académicos, privado, social y empleadores de la (sic) Entidades y a las comunidades científica y tecnológica.
+La investigación científica y tecnológica, el desarrollo tecnológico y la innovación son actividades prioritarias que corresponden al Gobierno del Estado, centros e instituciones de educación, de investigación y desarrollo tecnológico no gubernamentales; a los sectores académicos, privado, social y empleadores de las Entidades y a las comunidades científica y tecnológica.
 
 El Gobierno del Estado, a través del Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes, promoverá e impulsará la investigación, el desarrollo tecnológico y la innovación para asegurar el efectivo desarrollo económico, social, educativo y cultural del Estado para consolidarlo en una Sociedad del Conocimiento.
 
@@ -133,7 +135,9 @@ XIX. Sujetos.- Las instituciones, centros, organismos, empresas o personas físi
 
 XX. Usuarios.- Entes susceptibles a ser beneficiados por la adquisición de innovación y/o investigaciones científicas y tecnológicas, ya sean personas físicas o morales; y
 
-XXI. Vinculación.- A la relación formal y estructurada de intercambio científico, innovación y tecnología en todas las áreas del conocimiento con el objeto (sic) avanzar en el desarrollo de la ciencia, innovación y tecnología, así como el coadyuvar a la solución de problemas concretos que permitan tener información suficiente y oportuna para la toma de decisiones de todos los sectores económicos y áreas estratégicas, y la atención de las necesidades tecnológicas para el pleno desarrollo del conocimiento en el Estado.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+XXI. Vinculación.- A la relación formal y estructurada de intercambio científico, innovación y tecnología en todas las áreas del conocimiento con el objeto de avanzar en el desarrollo de la ciencia, innovación y tecnología, así como el coadyuvar a la solución de problemas concretos que permitan tener información suficiente y oportuna para la toma de decisiones de todos los sectores económicos y áreas estratégicas, y la atención de las necesidades tecnológicas para el pleno desarrollo del conocimiento en el Estado.
 
 ###### Artículo 5°.
 
@@ -167,7 +171,9 @@ El IDSCEA tendrá su domicilio en la ciudad capital de Aguascalientes, sin perju
 
 El IDSCEA es el organismo rector en el Estado en materia de Ciencia, Tecnología e Innovación; sus actividades no tendrán fin lucrativo, ya que todos los servicios que presta a la comunidad tienen un fin educativo para lograr que el Estado de Aguascalientes se consolide como sede de la Sociedad del Conocimiento.
 
-El IDSCEA tendrá por objeto ser la entidad asesora del Ejecutivo Estatal especializada para articular las políticas públicas del Gobierno Estatal y promover el desarrollo de la innovación, la investigación científica y tecnológica, divulgación y la modernización tecnológica del Estado. En cumplimiento de dicho objeto le corresponderá al IDSCEA, a través de los órganos que establece esta Ley y de sus representantes, realizar lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+El IDSCEA tendrá por objeto ser la entidad especializada del Ejecutivo Estatal para articular las políticas públicas del Gobierno Estatal y promover el desarrollo de la innovación, la investigación científica y tecnológica, divulgación y la modernización tecnológica del Estado. En cumplimiento de dicho objeto le corresponderá al IDSCEA, a través de los órganos que establece esta Ley y de sus representantes, realizar lo siguiente:
 
 I. Formular y proponer las políticas estatales en materia de innovación, ciencia y tecnología;
 
@@ -287,7 +293,9 @@ Estos órganos cuentan con las atribuciones que se establecen en la presente Ley
 
 La Junta de Gobierno es el órgano máximo del IDSCEA y se integra por:
 
-I. El Secretario General de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+I. El Gobernador del Estado o la persona que él determine, quien lo presidirá;
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
@@ -361,9 +369,11 @@ XIV. Fomentar la comunicación, relación e intercambio con entidades y órganos
 
 XV. Atender y responder a las recomendaciones emitidas por el Consejo; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-XVII (SIC). Las demás que establezca la presente Ley, el Estatuto Interno y demás disposiciones aplicables.
+XVI. Las demás que establezca la presente Ley, el Estatuto Interno y demás disposiciones aplicables.
+
+XVII. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 17.
 
@@ -463,11 +473,15 @@ F) Universidad Tecnológica de Aguascalientes; y
 
 G) Universidad Tecnológica del Norte de Aguascalientes.
 
-Los integrantes de la Fracción II deberán ser académicos y/o estudiantes que tengan relación directa con el estudio de la Ciencia, Tecnología e Innovación, y cumplir para su designación con los requisitos que establece el Artículo 14 de la Ley de Control de Entidades Paraestatales del Estado de Aguascalientes. De igual forma durarán tres años en el encargo, sin posibilidad de reelección, y el mismo será honorífico.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+Los integrantes de la Fracción II deberán ser académicos y/o estudiantes que tengan relación directa con el estudio de la Ciencia, Tecnología e Innovación, y cumplir para su designación con los requisitos que establece el Artículo 14 de la Ley para el Control de Entidades Paraestatales del Estado de Aguascalientes. De igual forma durarán tres años en el encargo, sin posibilidad de reelección, y el mismo será honorífico.
 
 Para la designación de los integrantes de la Fracción II, las Instituciones y Universidades deberán emitir una convocatoria y llevar un proceso de selección que se apegue a los principios de legalidad, transparencia, imparcialidad, no discriminación, equidad, independencia y máxima publicidad; así como informar sobre la misma al Director General.
 
-El Consejo contará con un Secretario de Actas de entre sus integrantes, mismo (sic) será designado mediante el voto mayoritario de estos.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+El Consejo contará con un Secretario de Actas de entre sus integrantes, mismo que será designado mediante el voto mayoritario de estos.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
 
@@ -483,7 +497,11 @@ IV. Revisar y presentar las propuestas de los diversos sectores de la sociedad, 
 
 V. Formular sugerencias tendientes a vincular el desarrollo tecnológico y la innovación en el sector productivo y de servicios, así como la vinculación entre la investigación científica y la educación conforme a los lineamientos que esta misma Ley y otros ordenamientos establecen; y
 
-VII (SIC). Las demás que le soliciten la Junta de Gobierno y/o el IDSCEA.
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+VI.- Las demás que le soliciten la Junta de Gobierno y/o el IDSCEA.
+
+VII. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
 
@@ -491,7 +509,9 @@ Artículo 24 D.- El Consejo celebrará sesiones ordinarias en forma trimestral, 
 
 La convocatoria a las sesiones deberá notificarse por escrito a todos sus integrantes, con un mínimo de cinco días hábiles de anticipación, salvo que se trate de sesiones extraordinarias que podrán convocarse, cuando menos con 24 horas de anticipación.
 
-El Consejo sesionará válidamente con la asistencia de cuando menos, la mitad más uno de sus de sus (sic) integrantes, entre los que deberá estar el Presidente. En segunda convocatoria, el Consejo podrá sesionar con los integrantes que asistan.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+El Consejo sesionará válidamente con la asistencia de cuando menos, la mitad más uno de sus integrantes, entre los que deberá estar el Presidente. En segunda convocatoria, el Consejo podrá sesionar con los integrantes que asistan.
 
 Las recomendaciones del Consejo se tomarán por mayoría de votos; en caso de empate, el Presidente cuenta con voto de calidad.
 
@@ -607,9 +627,11 @@ VIII.- Certificar las actas que se aprueben en las sesiones de la Junta de Gobie
 
 El órgano de vigilancia, para garantizar la imparcialidad, transparencia, honestidad y eficacia en la administración del IDSCEA y de sus servidores públicos, quedará a cargo de un Comisario Público.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 30.
 
-El Comisario Público ejercerá, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública, la Ley para el Control de las Entidades Paraestatales, y en la Ley de Responsabilidades de los Servidores Públicos, todas del Estado de Aguascalientes, y en los demás ordenamientos legales y administrativos aplicables.
+El Comisario Público ejercerá, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública, la Ley para el Control de las Entidades Paraestatales, y en la Ley de Responsabilidades Administrativas, todas del Estado de Aguascalientes, y en los demás ordenamientos legales y administrativos aplicables.
 
 ###### Artículo 31.
 
@@ -813,7 +835,9 @@ Las bases proveerán lo necesario para que el REICyTEA favorezca la vinculación
 
 Las dependencias y entidades de la Administración Pública Estatal, Instituciones públicas de educación superior, así como centros de investigación, promoverán la innovación y el desarrollo tecnológico, para tal efecto, establecerán mecanismos eficientes y funcionales para vincularse con el sector productivo.
 
-El personal de dependencias y entidades de la Administración Pública Estatal, Instituciones públicas de educación superior, así como centros de investigación que tengan la calidad de servidores públicos e incurran en conflicto de intereses, serán sancionados conforme a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes independientemente de las responsabilidades en que incurran conforme a los ordenamientos legales vigentes.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+El personal de dependencias y entidades de la Administración Pública Estatal, Instituciones públicas de educación superior, así como centros de investigación que tengan la calidad de servidores públicos e incurran en conflicto de intereses, serán sancionados conforme a lo establecido por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes independientemente de las responsabilidades en que incurran conforme a los ordenamientos legales vigentes.
 
 ###### Artículo 52.
 
@@ -943,9 +967,11 @@ El IDSCEA convendrá con las entidades y dependencias de la administración púb
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 63.
 
-Las responsabilidades de los servidores públicos estarán sujetas a las disposiciones contenidas en la Constitución Política del Estado de Aguascalientes y, en su defecto, en las de Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+Las responsabilidades de los servidores públicos estarán sujetas a las disposiciones contenidas en la Constitución Política del Estado de Aguascalientes y, en su defecto, en las de Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 En su caso, las personas físicas o morales, centros de investigación, instituciones de educación básica y superior, estarán sujetos a su propia normatividad y a las responsabilidades legales correspondientes.
 
@@ -1030,3 +1056,11 @@ El Gobierno del Estado establecerá a partir del año 2019 una partida presupues
 ###### ARTÍCULO TERCERO.
 
 El Consejo Consultivo materia del presente Decreto deberá instalarse en un plazo no mayor a ciento veinte días naturales, y la emisión de su Reglamento deberá presentarse dentro de los sesenta días naturales siguientes a su instalación.
+
+P.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 395.- SE REFORMA Y ADICIONA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
