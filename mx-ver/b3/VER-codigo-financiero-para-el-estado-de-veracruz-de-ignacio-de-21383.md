@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2018-08-23"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1746,6 +1746,10 @@ b. Ser recién egresado de una universidad, tecnológico, colegio de bachilleres
 c. Tener más de cincuenta años de edad, y no estar jubilado o pensionado; o
 
 d. Tener alguna discapacidad.
+
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+V. Las erogaciones que efectúen los contribuyentes en favor de madres solteras o de jefes de familia que tengan hijos con algún trastorno o discapacidad, debidamente certificado, y que dispongan de jornadas laborales reducidas para atender a sus hijos.
 
 ###### Artículo 104.
 
@@ -5722,3 +5726,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. La Secretaría de Educación deberá emitir los lineamientos a que se hace mención en este Decreto, dentro de los treinta días siguientes al inicio de su vigencia.
+
+G.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 729 QUE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 103 DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. En un plazo no mayor a 60 días hábiles, la Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz emitirá las reglas de operación para que los contribuyentes puedan hacer efectivas las excepciones del pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal previstas en este Decreto.
