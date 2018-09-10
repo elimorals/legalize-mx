@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-106214"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-02"
-last_updated: "2018-06-27"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 
@@ -231,7 +233,7 @@ Son requisitos para ser Diputado, Gobernador o miembro de un Ayuntamiento, adem�
 
 I. Estar inscrito en el Padrón Electoral y contar con credencial para votar con fotografía,vigente;
 
-II. Los Presidentes, Consejeros Electorales, Secretario Ejecutivo del Consejo o Secretariode (sic) los consejos distritales y municipales electorales, miembros del Instituto o del Servicio Profesional Electoral,durante (sic) los tres años posteriores al término de su encargo, no podrán ser postulados a un cargo de elección popular;
+II. Los Presidentes, Consejeros Electorales, Secretario Ejecutivo del Consejo o Secretariode (sic) los consejos distritales y municipales electorales, miembros del Instituto o del Servicio Profesional Electoral,durante los tres años posteriores al término de su encargo, no podrán ser postulados a un cargo de elección popular;
 
 III. No ser ministro de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección de que se trate;
 
@@ -2479,7 +2481,9 @@ Para la publicación de cualquier encuesta o sondeo de opinión sobre asuntos el
 
 El Instituto organizará dos debates obligatorios entre todos los candidatos a Gobernador, los cuales serán transmitidos por las estaciones de radio y televisión en términos de lo dispuesto por el artículo 41 de la CPEUM y la LGIPE y el Reglamento aplicable que expida el INE.
 
-Asimismo, el Instituto promoverá la celebración de debates de candidatos a diputados locales y de candidatos a presidentes municipales.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+Asimismo, el Instituto promoverá la celebración de debates de candidatos a presidentes municipales. El Consejo definirá las reglas, fechas y sedes, respetando el principio de equidad entre candidatos, en que organizará cuando menos un debate obligatorio sobre la plataforma legislativa entre candidatos a diputados; cada partido político será representado por el candidato propietario que ocupa la posición número uno de su lista de candidatos a diputados por el principio de representación proporcional.
 
 Tratándose de debates organizados por medios de comunicación, éstos deberán convocar fehacientemente a todos los candidatos de la elección de que se trate.
 
@@ -3485,25 +3489,29 @@ VII. Utilizar recursos de procedencia ilícita para el financiamiento de cualqui
 
 VIII. En el caso de los aspirantes o precandidatos, solicitar o recibir recursos, en dinero o en especie, de personas no autorizadas por este Código;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-IX. La acción u omisión que constituya violencia política de género, y
+IX. La acción u omisión que constituya violencia política de género;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-X. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+X. No presentarse a los debates obligatorios organizados por el Instituto en términos del artículo 167 de este Código; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+XI. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 Las infracciones referidas en el párrafo anterior se sancionarán, según la gravedad, de la siguiente manera:
 
 I. Con amonestación pública;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-II. Las señaladas en las fracciones I, II, III y X del párrafo anterior, con multa de cuarenta hasta cuatro mil veces el valor diario de la Unidad de Medida y Actualización;
+II. Las señaladas en las fracciones I, II, III y XI del párrafo anterior, con multa de cuarenta hasta cuatro mil veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-III. Las señaladas en las fracciones IV y V del párrafo anterior, con multa de cincuenta hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización;
+III. Las señaladas en las fracciones IV, V y X del párrafo anterior, con multa de cincuenta hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
 
@@ -5872,3 +5880,11 @@ Por única ocasión para el Proceso Electoral Local 2018-2019, la instalación d
 ###### ARTÍCULO SEXTO.
 
 Para el Proceso Electoral Local 2018- 2019, la duración de la campaña para el Ayuntamiento de Aguascalientes que establece el Artículo 161 Fracción III Inciso a) será de cuarenta y cinco días.
+
+P.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 393.- SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 167 Y 244 DEL CÓDIGO ELECTORAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1° de Enero de 2020.
