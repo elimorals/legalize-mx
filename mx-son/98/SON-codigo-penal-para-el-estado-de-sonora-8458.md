@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2018-04-09"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -471,9 +471,9 @@ Para que proceda lo que se prevé en esta fracción, será necesario que el ofen
 
 En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito, la Ley de Prevención y Atención de la Violencia Familiar para el Estado de Sonora, y en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia familiar, rapto, acoso sexual, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio y chantaje.
+ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: sexting contemplado en el artículo 167 Bis de este Código, corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia intrafamiliar, rapto, acoso sexual, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio y chantaje.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1817,7 +1817,7 @@ Al que procure con actos materiales impedir la ejecución de una obra o trabajo 
 
 Cuando el delito anterior se cometa por varias personas, de común acuerdo, la sanción será de tres meses a un año de prisión y multa de diez a cien Unidades de Medida y Actualización, si sólo se hiciere una simple oposición material, sin violencia en las personas o en las cosas; habiéndola, la sanción será de seis meses a dos años de prisión y multa de diez a cien Unidades de Medida y Actualización, sin perjuicio de observar las reglas relativas al concurso de delitos.
 
-### CAPITULO I. EXPOSICION PUBLICA DE PORNOGRAFIA Y EXHIBICIONES OBSCENAS
+### CAPÍTULO I. EXPOSICIÓN PÚBLICA DE PORNOGRAFÍA, EXHIBICIONES OBSCENAS Y SEXTING
 
 > <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -1853,7 +1853,7 @@ Los ultrajes hechos a la legislatura, a un tribunal, a un cuerpo colegiado de la
 
 ## TITULO QUINTO. DELITOS CONTRA EL DESARROLLO Y DIGNIDAD DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 7 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
 ### CAPITULO III. LENOCINIO
 
@@ -1874,6 +1874,12 @@ Al que públicamente ejecute o haga ejecutar, sin fines de explotación, exhibic
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 Tratándose de víctimas menores de edad se aplicará lo establecido en el artículo 169 BIS, párrafo cuarto, del presente ordenamiento.
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 167 BIS.- A quien reciba u obtenga de una persona, imágenes, textos o grabaciones de voz o audiovisuales de contenido erótico, sexual o pornográfico y las revele o difunda sin su consentimiento y en perjuicio de su intimidad, a través de mensajes por teléfono, publicaciones en redes sociales, correo electrónico o cualquier otro medio, se le impondrá de uno a cinco años de prisión y de ciento cincuenta a trescientas Unidades de Medida y Actualización.
+
+Las penas a que se refiere el presente artículo, se aumentarán en una mitad cuando el delito se cometa en contra de una persona menor de edad o que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, aún y cuando mediare su consentimiento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 7 DE ABRIL DE 2008)</small>
 
@@ -4297,7 +4303,7 @@ Son aplicables al delito de abigeato las disposiciones contenidas en el artícul
 
 ARTICULO 312 BIS.- Se considera que comete el delito de abigeato y se sancionará con las mismas penas establecidas para el abigeato en el artículo 312, al que se apodere de una o más cabezas o practique cacería furtiva de borrego cimarrón uoviscanadenis, venado cola blanca uodocoileusvirginianus, venado bura u odocoileushemionus, berrendo o antilocapra americana, o de jabalí de collar o dycotilestajacu, siempre que se trate de semovientes ajenos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] , B.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 9 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 313.
 
@@ -5170,3 +5176,11 @@ B.O. 9 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 245, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
