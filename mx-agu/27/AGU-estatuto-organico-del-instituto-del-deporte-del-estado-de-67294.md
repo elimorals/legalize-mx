@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-del-deporte-del-estado-de-67294
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-02-09"
-last_updated: "2018-06-04"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Estatuto publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 23 de agosto de 2010.
 
@@ -906,11 +906,15 @@ II. Realizar auditorías para verificar y evaluar los sistemas de control intern
 
 III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman "EL IDEA";
 
-IV. Coordinar las acciones a fin de verificar que las áreas que conforman la Universidad cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Coordinar las acciones a fin de verificar que las áreas que conforman “EL IDEA” cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado;
 
 V. Asistir y participar en el Comité de Adquisiciones y Enajenaciones y en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
 
-VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de la Universidad sobre el correcto ejercicio del gasto público;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de “EL IDEA” sobre el correcto ejercicio del gasto público;
 
 VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
 
@@ -1061,3 +1065,7 @@ El Instituto del Deporte del Estado de Aguascalientes deberé hacer las modifica
 ###### ARTÍCULO CUARTO.
 
 Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, la Junta Directiva deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días de su publicación.
+
+P.O. 10 DE SEPTIEMBRE DE 2018.
+
+> <small>[N. DE E. LAS “REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
