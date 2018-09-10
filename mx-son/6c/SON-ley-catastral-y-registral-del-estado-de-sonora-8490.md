@@ -4,7 +4,7 @@ identifier: "SON-ley-catastral-y-registral-del-estado-de-sonora-8490"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "2018-06-25"
+last_updated: "2018-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DE LA LEY CATASTRAL Y REGISTRAL PARA EL ESTADO DE SONORA, PUBLICADA EN EL BOLETÍN OFICIAL EL 10 DE SEPTIEMBRE DE 2018; EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL PRIMERO DE NOVIEMBRE DEL AÑO DOS MIL DIECIOCHO.]</small>
+
 LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -705,7 +707,7 @@ La inscripción no convalida los actos o contratos que sean nulos con arreglo a 
 
 ###### ARTICULO 55.
 
-No obstante lo dispuesto en el segundo párrafo del articulo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello, no se invalidarán, en cuanto a terceros de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante por algún vicio que no sea de carácter ilícito, o que su existencia no resulte de las constancias mismas del Registro.
+No obstante lo dispuesto en el segundo párrafo del artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello, no se invalidarán, en cuanto a terceros de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante por algún vicio que no sea de carácter ilícito, o que su existencia no resulte de las constancias mismas del Registro.
 
 Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
 
@@ -729,7 +731,7 @@ Lo dispuesto en este artículo se aplicará también a los inmuebles que se comp
 
 Tratándose de inmuebles, derechos reales sobre los mismos y otros derechos inscribibles o anotables de la sociedad conyugal, sociedad legal y por separación de bienes, derivados del matrimonio, sólo surtirán efectos contra terceros si consta su existencia en la inscripción correspondiente en el Registro.
 
-Para los efectos de este articulo, el fedatario o autoridad ante quien se otorgue un documento relacionado con inmuebles, derechos reales sobre los mismos y otros derechos inscribibles o anotables, deberán hacer constar la manifestación que las partes intervinientes hagan de su estado civil y del régimen patrimonial de su matrimonio.
+Para los efectos de este artículo, el fedatario o autoridad ante quien se otorgue un documento relacionado con inmuebles, derechos reales sobre los mismos y otros derechos inscribibles o anotables, deberán hacer constar la manifestación que las partes intervinientes hagan de su estado civil y del régimen patrimonial de su matrimonio.
 
 ###### ARTICULO 59.
 
@@ -931,7 +933,7 @@ VIII.- Los demás datos que de acuerdo a esta Ley, al del reglamento respectivo 
 
 ###### ARTICULO 76.
 
-Los documentos en virtud de los cuales deba practicarse una anotación preventiva o definitiva contendrán, cuando menos, el inmueble o derecho relacionados con la misma y sus referencias regístrales; la causa de la inscripción y la persona a quien favorezca la anotación; y los datos señalados en las fracciones VI, VII y VIII del articulo anterior.
+Los documentos en virtud de los cuales deba practicarse una anotación preventiva o definitiva contendrán, cuando menos, el inmueble o derecho relacionados con la misma y sus referencias regístrales; la causa de la inscripción y la persona a quien favorezca la anotación; y los datos señalados en las fracciones VI, VII y VIII del artículo anterior.
 
 Las anotaciones preventivas o definitivas que deban su origen a embargo, secuestro, fianza y otros, expresarán la causa que haya dado lugar a aquéllas y el importe de la obligación que las hubiere originado.
 
@@ -961,9 +963,9 @@ Dentro del Registro Mobiliario se inscribirán:
 
 I.- Los contratos de compraventa de bienes muebles sujetos a condición resolutoria a que se refiere la fracción II del artículo 2562, del Código Civil para el Estado de Sonora;
 
-II.- Los contratos de compraventa de bienes muebles, por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el articulo 2566 del Código Civil para el Estado de Sonora;
+II.- Los contratos de compraventa de bienes muebles, por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 2566 del Código Civil para el Estado de Sonora;
 
-III.- Los contratos de prenda que menciona el articulo 3200 del Código Civil para el Estado de Sonora; y
+III.- Los contratos de prenda que menciona el artículo 3200 del Código Civil para el Estado de Sonora; y
 
 IV.- Los demás documentos relacionados con bienes muebles y que la Ley ordene expresamente que sean registrados.
 
@@ -995,7 +997,7 @@ IV.- Que se dé cumplimiento a lo establecido por la fracción III del artículo
 
 Si se trata de ventas con reserva de dominio o sujetas a condición resolutoria, no será necesario acompañar la factura cuando el vendedor deba entregarla al comprador hasta que hubiere sido pagado el precio.
 
-Si el vendedor entrega la factura sin la anotación a que se refiere el articulo siguiente, antes de que se le haya pagado totalmente el precio, perderá el derecho que le da la inscripción.
+Si el vendedor entrega la factura sin la anotación a que se refiere el artículo siguiente, antes de que se le haya pagado totalmente el precio, perderá el derecho que le da la inscripción.
 
 La anotación de la factura, en su caso, podrá ser hecha indistintamente por el Registrador o por el Notario o Corredor Público ante quien se hubiere otorgado el contrato.
 
@@ -1043,7 +1045,7 @@ IX.- Los demás datos que deban contener, conforme a las disposiciones jurídica
 
 Los testamentos ológrafos serán depositados en los términos que dispone el Código Civil para el Estado de Sonora.
 
-Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el articulo 1640 del Código Civil para el Estado de Sonora.
+Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1640 del Código Civil para el Estado de Sonora.
 
 > <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2005)</small>
 
@@ -1107,7 +1109,7 @@ Las inscripciones preventivas se extinguen por cancelación, caducidad o por su 
 
 ###### ARTICULO 94.
 
-Las inscripciones preventivas y definitivas y sus correspondientes anotaciones marginales, pueden cancelarse por consentimiento de las partes, siempre que éstas lo sean legitimas, tengan capacidad para contratar y hagan constar su voluntad de modo auténtico. También pueden cancelarse por orden judicial o administrativa, conforme lo establezcan las leyes respectivas.
+Las inscripciones preventivas y definitivas y sus correspondientes anotaciones marginales, pueden cancelarse por consentimiento de las partes, siempre que éstas lo sean legítimas, tengan capacidad para contratar y hagan constar su voluntad de modo auténtico. También pueden cancelarse por orden judicial o administrativa, conforme lo establezcan las leyes respectivas.
 
 Tratándose de derechos reales distintos de la propiedad, la cancelación podrá hacerse por renuncia unilateral que haga el titular del derecho, por medio de documento auténtico, siempre y cuando no reporte ese derecho ningún gravamen a favor de otro, caso en el cual será menester la conformidad de éste, expresada en forma indubitable.
 
@@ -1137,7 +1139,7 @@ II.- Se reduzca el derecho inscrito.
 
 ###### ARTICULO 97.
 
-Las inscripciones preventivas, caducarán a los dos años de su fecha, salvo aquéllas a las que se les fije un plazo de caducidad más breve. No obstante, por mandato de las autoridades que las decretaron, o del Juez que conozca del juicio a que se refiere el articulo 70 de esta Ley, podrán prorrogarse una o más veces por dos años cada vez, siempre que la prórroga sea inscrita antes de que caduque la inscripción.
+Las inscripciones preventivas, caducarán a los dos años de su fecha, salvo aquéllas a las que se les fije un plazo de caducidad más breve. No obstante, por mandato de las autoridades que las decretaron, o del Juez que conozca del juicio a que se refiere el artículo 70 de esta Ley, podrán prorrogarse una o más veces por dos años cada vez, siempre que la prórroga sea inscrita antes de que caduque la inscripción.
 
 La caducidad produce la extinción de la inscripción respectiva, por el simple transcurso del tiempo, pero cualquier interesado podrá solicitar en este caso que se anote la cancelación de dicha inscripción.
 
@@ -1287,7 +1289,7 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 
 ###### ARTICULO SEGUNDO.
 
-Se abroga la Ley de Catastro del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora, número 52, Sección XV, de fecha 29 de diciembre de 1983 y sus reformas. Asimismo, se abroga el Acuerdo del Congreso del Estado, de fecha 12 de diciembre de 1904, que aprobó el Reglamento del Titulo XXIII, Libro 3o. del Código Civil, formado por el Ejecutivo, en uso de la facultad que le otorga la fracción II, artículo 73 de la Constitución Política del Estado, publicado en el Periódico Oficial "La Constitución", números 56, 57 y 58, de fechas 24, 27 y 29 de diciembre de 1904, así como sus reformas; la Ley número 100 que contiene el Reglamento del Registro Público de la Propiedad para el Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado, alcance al número 11, de fecha 8 de agosto de 1973 y la Ley número 17 que Suspende la Aplicación del Reglamento del Registro Público de la Propiedad, derogando los artículos Primero y Séptimo Transitorios de la Ley número 100 de 25 de julio de 1973, publicada en el Boletín Oficial del Gobierno del Estado, número 40, de fecha 18 de mayo de 1974; se derogan los artículos del 3453 al 3500 del Código Civil para el Estado de Sonora, y se derogan las demás disposiciones que se opongan a la presente Ley.
+Se abroga la Ley de Catastro del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora, número 52, Sección XV, de fecha 29 de diciembre de 1983 y sus reformas. Asimismo, se abroga el Acuerdo del Congreso del Estado, de fecha 12 de diciembre de 1904, que aprobó el Reglamento del Título XXIII, Libro 3o. del Código Civil, formado por el Ejecutivo, en uso de la facultad que le otorga la fracción II, artículo 73 de la Constitución Política del Estado, publicado en el Periódico Oficial "La Constitución", números 56, 57 y 58, de fechas 24, 27 y 29 de diciembre de 1904, así como sus reformas; la Ley número 100 que contiene el Reglamento del Registro Público de la Propiedad para el Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado, alcance al número 11, de fecha 8 de agosto de 1973 y la Ley número 17 que Suspende la Aplicación del Reglamento del Registro Público de la Propiedad, derogando los artículos Primero y Séptimo Transitorios de la Ley número 100 de 25 de julio de 1973, publicada en el Boletín Oficial del Gobierno del Estado, número 40, de fecha 18 de mayo de 1974; se derogan los artículos del 3453 al 3500 del Código Civil para el Estado de Sonora, y se derogan las demás disposiciones que se opongan a la presente Ley.
 
 ###### ARTICULO TERCERO.
 
@@ -1414,3 +1416,49 @@ B.O. 25 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 287, CATASTRAL Y REGISTRAL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley Catastral y Registral del Estado de Sonora, entrará en vigor el día primero de noviembre del año dos mil dieciocho, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Con la iniciación de la vigencia de la presente Ley, queda abrogada la Ley Catastral y Registral del Estado de Sonora, así como su Reglamento y todas las menciones a dichos ordenamientos, contenidas en leyes, disposiciones y actos administrativos, se entenderán referidas a esta Ley. A la iniciación de la vigencia de la presente Ley, deberá entrar en vigor su Reglamento.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Legislativo y Ejecutivo y los Municipios de la Entidad, en sus respectivos ámbitos de competencia y dentro de un plazo no mayor de tres años, contado a partir de la iniciación de la vigencia de esta Ley, deberán realizar las adecuaciones normativas, administrativas, técnicas y presupuestarias, para que los catastros estatal y municipales, estén en aptitud de llevar a cabo sus procedimientos conforme a lo dispuesto en el artículo 27 de la presente Ley. El término señalado en este párrafo, surtirá sus efectos en tanto no sea modificado por otra u otras disposiciones legales o administrativas de aplicación obligatoria en el Estado de Sonora.
+
+El Reglamento deberá regular en un apartado especial, la función y procedimientos catastrales, en tanto las oficinas correspondientes estén en aptitud de llevar a cabo sus actividades en los términos de esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema Registral de Folios Electrónicos establecido en esta Ley, se instaurará de manera progresiva en las oficinas registrales del Estado. Para tal efecto, el Instituto deberá promover acciones de migración masiva de inscripciones realizadas conforme a sistemas anteriores.
+
+El Vocal Ejecutivo del Instituto determinará las oficinas donde se llevarán a cabo procesos de migración masiva, atendiendo a la suficiencia presupuestaria. Asimismo, realizados dichos procesos, el Vocal Ejecutivo determinará la fecha a partir de la cual se pondrá en práctica el Sistema Registral de Foiios (sic) Electrónicos establecido en esta Ley, lo que se publicara con anticipación mínima de treinta días naturales a la fecha antes señalada, en el Boletín Oficial del Gobierno del Estado de Sonora y en el Portal Electrónico Oficial del Instituto.
+
+El Reglamento deberá regular y definir en un apartado especial, en forma complementaria a las disposiciones de esta Ley, el sistema conforme al cual operarán las oficinas registrales, en tanto en éstas se implemente el de folios electrónicos.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos en trámite ante autoridades administrativas o judiciales, iniciados con anterioridad a la entrada en vigor de esta Ley, serán concluidos conforme a las disposiciones legales vigentes en la fecha de su inicio.
+
+###### ARTÍCULO QUINTO.
+
+Los procesos de migración de inscripciones y anotaciones marginales, al Sistema Registral de Folios Electrónicos, se llevarán a cabo sin calificación y en forma gratuita. Dichos procesos se realizarán oficiosamente mediante migración masiva o unitaria, en los casos previstos en esta Ley y los titulares registrales no tendrán la obligación de iniciarlos y sus derechos quedarán a salvo y conforme a las inscripciones o registros existentes antes de la iniciación de la vigencia de esta Ley. Lo anterior sin perjuicio del derecho de dichos titulares registrales, de solicitar, en caso de considerarlo conveniente, la señalada migración.
+
+El Reglamento de esta Ley establecerá los procedimientos para que los folios resultantes de procesos de migración contengan los elementos establecidos en esta Ley, los cuales se obtendrán de procedimientos registrales posteriores a la migración.
+
+###### ARTÍCULO SEXTO.
+
+El artículo 91 de esta Ley, sólo se aplicará a los servidores públicos que ingresen al servicio con posterioridad a la iniciación de su vigencia.
+
+###### ARTÍCULO SÉPTIMO.
+
+El titular del Poder Ejecutivo y el Congreso del Estado, a la brevedad que el caso amerita, deberán realizar las adecuaciones presupuestales que resulten necesarias, a fin de dotar de los recursos materiales y financieros al Instituto, para el cumplimiento de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones legales de igual o menor jerarquía jurídica, que se opongan a lo establecido en esta Ley.
