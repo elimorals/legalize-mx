@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-informacion-e-61834"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-04"
-last_updated: "2008-06-04"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE INFORMACION E INVESTIGACION GEOGRAFICA, ESTADISTICA Y CATASTRAL DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE INFORMACION E INVESTIGACION GEOGRAFICA, ESTADISTICA Y CATASTRAL DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL INSTITUTO DE INFORMACIÓN E INVESTIGACIÓN GEOGRÁFICA, ESTADÍSTICA Y CATASTRAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 4 de junio de 2008.
 
 EL CONSEJO DIRECTIVO DEL INSTITUTO DE INFORMACIÓN E INVESTIGACIÓN GEOGRÁFICA, ESTADÍSTICA Y CATASTRAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE EL ARTÍCULO 14.7 FRACCIÓN IV DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; Y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de lo expuesto, expide el siguiente:
 
@@ -139,9 +141,11 @@ XV. Aceptar las donaciones, legados y cualquier tipo de otorgamiento de bienes q
 
 XVI. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Consejo Directivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 11.
 
-Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Director General se auxiliará de las unidades administrativas básicas siguientes:
+Para el estudio, planeación y despacho de los asuntos de su competencia, el Director General se auxiliará de las unidades administrativas básicas siguientes:
 
 I. Dirección de Geografía.
 
@@ -155,11 +159,13 @@ V. Unidad Jurídica.
 
 VI. Coordinación Administrativa.
 
-VII. Contraloría Interna.
+VII. (DEROGADA, G.G. 10 DE SEPTIEMBRE DE 2018)
 
 El IGECEM contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
 
-La Contraloría Interna del IGECEM dependerá funcionalmente de la Secretaría de la Contraloría y tendrá las atribuciones que se establecen en el Reglamento Interior de esa dependencia y en los demás ordenamientos legales y administrativos aplicables.
+> <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2018)</small>
+
+Al frente del Órgano Interno de Control habrá un titular, designado en los términos del artículo 38 bis, fracción XIV de la Ley Orgánica de la Administración Pública del Estado de México, quien en el ejercicio de sus atribuciones se auxiliará por los titulares de las áreas correspondientes, de conformidad con la estructura orgánica aprobada y presupuesto autorizado, quien tendrá las atribuciones que se establecen en el Reglamento Interior de la Secretaría de la Contraloría y demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LOS DIRECTORES
 
@@ -402,3 +408,17 @@ MTRA. SORAYA PÉREZ MUNGUÍA
 DIRECTORA GENERAL DEL INSTITUTO DE INFORMACIÓN E INVESTIGACIÓN GEOGRÁFICA, ESTADÍSTICA Y CATASTRAL DEL ESTADO DE MÉXICO Y SECRETARIA TÉCNICA DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO DE INFORMACIÓN E INVESTIGACIÓN GEOGRÁFICA, ESTADÍSTICA Y CATASTRAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
+
+CUARTO.- El presente Acuerdo Modificatorio actualiza al Reglamento Interior del Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México, publicado el 4 de junio de 2008, en el Periódico Oficial "Gaceta del Gobierno”.
