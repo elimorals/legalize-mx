@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2017-11-20"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES -- ANTES LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DE 1986 --
 
-LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
+LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -35,7 +35,9 @@ Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
 El H. Congreso del Estado en sesión ordinaria celebrada hoy, y en uso de la facultad que le concede la fracción II del Artículo 27 de la Constitución Política Local, tuvo a bien expedir la siguiente:
 
-LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -727,9 +729,7 @@ IV.- Una vez entregado al Municipio el fraccionamiento, las partes del mismo que
 
 ###### ARTICULO 52.
 
-Tratándose de propiedad ejidal tributarán en los términos de lo establecido en el Artículo 106 de la Ley Federal de la Reforma Agraria.
-
-Tratándose de ejidos y comunidades agrarias, el pago del impuesto podrá efectuarse dentro del plazo general a que se refiere el párrafo primero de este artículo, o bien anualidades vencidas durante el mes de enero del año siguiente al en que corresponda el pago.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2018)
 
 #### SECCION SEXTA. De las Definiciones
 
@@ -1097,9 +1097,11 @@ Es base de este impuesto el valor del beneficio obtenido en proporción a la obr
 
 #### SECCION CUARTA. Del Pago
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 85.
 
-Este impuesto causará y pagará de conformidad con lo establecido en la Ley de Planeación y Urbanización del Estado.
+Este impuesto causará y pagará de conformidad con lo establecido en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes.
 
 #### SECCION QUINTA. De las Exenciones
 
@@ -1111,15 +1113,19 @@ Quedan exceptuadas de pago de este impuesto, las dependencias de la Federación,
 
 #### SECCION PRIMERA. Del Objeto
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 87.
 
-Es el objeto de este impuesto la propiedad, posesión y explotación de juegos, espectáculos y aparatos mecánicos electrónicos accionados por monedas o fichas.
+Es el objeto de este impuesto, la propiedad, posesión y explotación de los juegos y aparatos accionados por monedas, fichas, tarjetas de recarga o cualesquiera otro medio que permitan su funcionamiento; así como espectáculos públicos.
 
 #### SECCION SEGUNDA. De los Sujetos
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 88.
 
-Son sujetos de este impuesto, las personas físicas o morales que ostenten la propiedad, la explotación de juegos, espectáculos públicos y aparatos mecánicos o electromecánicos mencionados en el artículo anterior.
+Son sujetos de este impuesto, las personas físicas o morales que ostenten la propiedad, la posesión respecto a la explotación de juegos, espectáculos públicos y aparatos mecánicos o electromecánicos mencionados en el artículo anterior.
 
 #### SECCION TERCERA. De la Base
 
@@ -1151,13 +1157,13 @@ VI.- Las cantidades que se paguen por el derecho a reservar localidades en los e
 
 #### SECCION QUINTA. Obligaciones de los Contribuyentes
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTICULO 91.
+###### ARTÍCULO 91.
 
-Las empresas de espectáculos o diversiones públicas deberán otorgar fianza, a satisfacción de la Secretaría de Finanzas, cuando soliciten su permiso, la que perderán en caso de cancelar. Asimismo exhibirán ante la Secretaría de Finanzas el boletaje que se utilizará para permitir el acceso al público a efecto de que sea autorizado y sellado.
+Las personas físicas o morales que organicen, exploten, administren u ostenten la propiedad o posesión de espectáculos o diversiones publicas deberán otorgar fianzas, a satisfacción de la Secretaría de Finanzas, cuando soliciten su permiso, la que perderán en caso de cancelar. Asimismo exhibirán ante la Secretaría de Finanzas el boletaje que se utilizará para permitir el acceso al público a efecto de que sea autorizado y sellado.
 
-En caso de que se sorprenda un boletaje no autorizado por la Secretaría de Finanzas, se impondrá al referido empresario una infracción consistente en el importe de diez a quinientos días de salario mínimo vigente en el Municipio al momento de cometerse la violación.
+En caso de que se sorprenda un boletaje no autorizado por la Secretaría de Finanzas, se impondrá a la persona física o moral correspondiente una infracción consistente en el importe de diez a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse la violación.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
@@ -1856,6 +1862,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 El H. Ayuntamiento de Aguascalientes deberá en el ámbito de su competencia, emitir las reglas de carácter general para otorgar el beneficio fiscal del Segundo Párrafo del Artículo 57 de su Ley de Hacienda.
+
+P.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 389.- SE REFORMA LA DENOMINACIÓN DE LA LEY DE HACIENDA DEL MUNICIPIO, AGS., PARA EL EJERCICIO FISCAL DE 1986, PARA QUEDAR COMO LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES; Y LOS ARTÍCULOS 85, 87, 88, Y 91. ASÍ COMO SE DEROGA EL ARTÍCULO 52 DE LA LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS., PARA EL EJERCICIO FISCAL DE 1986".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del 01 de enero de dos mil diecinueve.
 
 ###### ARTICULO CUARTO.
 
