@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2018-03-19"
+last_updated: "2018-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,7 +26,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -686,19 +686,21 @@ El escrito en que se haga la solicitud deberá expresar claramente el motivo que
 
 En dicha sesión extraordinaria no podrán tratarse asuntos diversos de los que motivaron la convocatoria.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 51.
 
 El Ayuntamiento podrá decretar la celebración de sesiones solemnes cuando exista un evento que lo amerite. Serán sesiones solemnes las siguientes:
 
-a) La que se dedique a recibir el informe anual sobre el estado que guarda la administración municipal, que deberá rendir el Presidente Municipal. Esta sesión será pública.
+a) La que se dedique a recibir el Informe Anual sobre el estado que guarda la Administración Municipal, que deberá rendir el Presidente Municipal, que llevara a cabo en sesión solemne de Cabildo a celebrarse a más tardar en el mes de octubre, y en el último año de ejercicio lo será antes del día 14 de este mes.
 
-c) (sic) A la que asiste el C. Gobernador del Estado de Aguascalientes o el C. Presidente de la República.
+b) A la que asiste el C. Gobernador del Estado de Aguascalientes o el C. Presidente de la República.
 
-d) Las que se celebren para declarar huéspedes honorarios a quienes el Ayuntamiento haya decidido honrar con esta distinción.
+c) Las que se celebren para declarar huéspedes honorarios a quienes el Ayuntamiento haya decidido honrar con esta distinción.
 
-e) Las que se celebren para declarar huéspedes distinguidos del Municipio de Jesús María, a quienes el Ayuntamiento haya decidido honrar con esta distinción.
+d) Las que se celebren para declarar huéspedes distinguidos del Municipio de Jesús María, a quienes el Ayuntamiento haya decidido honrar con esta distinción.
 
-f) Cuando se lleve a cabo el cambio de administración municipal.
+e) Cuando se lleve a cabo el cambio de administración municipal.
 
 ###### ARTICULO 52.
 
@@ -14851,3 +14853,9 @@ P.O. 19 DE MARZO DE 2018.
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DE ACUERDO DE LAS “REFORMAS A LOS ARTÍCULOS 9 Y 96 DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES, PARA LA CREACIÓN DE LA INSTANCIA DE LA FERIA DE LOS CHICAHUALES Y EVENTOS ESPECIALES”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 Quinto.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE SEPTIEMBRE DE 2018.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE "SE REFORMA EL ARTÍCULO 51 DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGS.".]</small>
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
