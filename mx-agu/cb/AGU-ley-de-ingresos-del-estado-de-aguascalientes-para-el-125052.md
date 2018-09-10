@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-125052"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2017-12-22"
-last_updated: "2018-09-03"
+last_updated: "2018-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2018
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE SEPTIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2018
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE SEPTIEMBRE DE 2018.]</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el viernes 22 de diciembre de 2017.
 
@@ -725,7 +725,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 3 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 384.- REFORMAS Y ADICIONES A LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2018”.]
+> <small>(F. DE E., P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 355.- REFORMAS Y ADICIONES A LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2018”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -734,3 +736,7 @@ El presente Decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Para dar cumplimiento a la normatividad aplicable, se acompañan los anexos relativos al presente Decreto, incluida la modificación al ANEXO 7, a que hace referencia el Artículo 112 de la Ley.
+
+> <small>(F. DE E., P.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+> <small>[N. DE E. VÉASE ANEXO EN LA PRIMERA SECCIÓN DEL P.O. DE 10 DE SEPTIEMBRE DE 2018, PÁGINAS DE LA 3 A LA 23.]</small>
