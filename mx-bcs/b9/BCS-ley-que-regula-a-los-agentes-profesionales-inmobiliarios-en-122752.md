@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-regula-a-los-agentes-profesionales-inmobiliarios-en-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-20"
-last_updated: "2017-07-20"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "BCS"
 ---
 # LEY QUE REGULA A LOS AGENTES PROFESIONALES INMOBILIARIOS EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 1 DE ENERO DE 2018 PREVIA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2018 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 LEY QUE REGULA A LOS AGENTES PROFESIONALES INMOBILIARIOS EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Número 28 del Boletín Oficial del Estado de Baja California Sur, el jueves 20 de julio de 2017.
 
@@ -45,43 +47,61 @@ LEY QUE REGULA A LOS AGENTES PROFESIONALES INMOBILIARIOS EN EL ESTADO DE BAJA CA
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de interés social y tiene por objeto regular las actividades de los agentes profesionales inmobiliarios registrados, así como la creación y el establecimiento de las normas y principios del registro estatal de agentes profesionales inmobiliarios en el Estado de Baja California Sur.
+La presente Ley es de orden público y de interés social y tiene por objeto regular las actividades inmobiliarias en el Estado de Baja California Sur, así como el registro estatal de agentes profesionales inmobiliarios en el Estado de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Consejo: El Inmobiliario de Baja California Sur;
+I.- Agente profesional inmobiliario: Las personas físicas o jurídicas que realicen operaciones inmobiliarias con Licencia autorizada por la Secretaría e inscrita en el Registro;
 
-II.- Encargado Responsable: La persona física designada por el Profesional Inmobiliario que sea persona jurídica, que cuenta con la capacitación profesional y/o la certificación de conocimientos especializados y experiencia en Operaciones Inmobiliarias otorgada por alguna Unidad Acreditadora;
+II.- Asesor Inmobiliario: La persona física autorizada por una organización, empresa, asociación, sociedad mercantil o análoga debidamente constituida y cuyo objeto social estipule la ejecución de operaciones de índole inmobiliaria y que ésta a su vez se encuentre inscrita en el Registro;
 
-III.- Ley: La que Regula a los Agentes Profesionales Inmobiliarios en el Estado de Baja California Sur;
+III.- Consejo: El Inmobiliario de Baja California Sur;
 
-IV.- Licencia: La autorización otorgada por la Secretaría a los Agentes Profesionales Inmobiliarios para llevar a cabo Operaciones Inmobiliarias en el Estado, cuándo se cumplan todos los requisitos exigidos por esta Ley y su Reglamento para su registro;
+IV.- Encargado Responsable: La persona física designada por el Profesional Inmobiliario que sea persona jurídica, que cuenta con la certificación de conocimientos especializados y experiencia en Operaciones Inmobiliarias otorgada por alguna Unidad Acreditadora;
 
-V.- Operación Inmobiliaria: El acto de intermediación, tendente a la celebración de un contrato de compraventa, arrendamiento, aparcería, donación, comodato, fideicomiso o cualquier otro contrato traslativo de dominio, uso o usufructo de bienes inmuebles, así como la promoción, administración, comercialización y consultoría sobre los mismos;
+V.- Identificación: Documento que expide la Secretaría al Agente Profesional Inmobiliario, al Asesor inmobiliario y/o Encargado Responsable.
 
-VI.- Programas: Los de capacitación, actualización y profesionalización en materia de Operaciones Inmobiliarias;
+VI.- Ley: La que Regula a los Agentes Profesionales Inmobiliarios en el Estado de Baja California Sur;
 
-VII.- Registro: El Estatal de Agentes Profesionales Inmobiliarios en el Estado de Baja California Sur;
+VII.- Licencia: La autorización otorgada por la Secretaría a los Agentes Profesionales Inmobiliarios para llevar a cabo Operaciones Inmobiliarias en el Estado, cuándo se cumplan todos los requisitos exigidos por esta Ley y su Reglamento para su registro;
 
-VIII.- Reglamento: El de la presente Ley;
+VIII.- Operación Inmobiliaria: El acto de intermediación, tendente a la celebración de un contrato de compraventa, arrendamiento, aparcería, donación, comodato, fideicomiso o cualquier otro contrato traslativo de dominio, uso o usufructo de bienes inmuebles, así como la promoción, administración, comercialización y consultoría sobre los mismos;
 
-IX.- Secretaría: La de Desarrollo Económico, Medio Ambiente y Recursos Naturales del Estado de Baja California Sur;
+IX.- Orden de visita: El documento emitido por la Secretaría, por medio del cual se autoriza a los servidores públicos de esa dependencia a desarrollar una visita de inspección;
 
-X.- Unidades Acreditadoras: Las instituciones de educación pública o privada, así como organismos que cuenten con una certificación que les permita acreditar a Agentes Profesionales Inmobiliarios con registro para realizar Operaciones Inmobiliarias, y
+X.- Programas: Los de capacitación, actualización y profesionalización en materia de Operaciones Inmobiliarias;
 
-XI.- Usuarios: Personas físicas o jurídicas que contratan los servicios de Agentes Profesionales Inmobiliarios con registro.
+XI.- Refrendo: Es el acto por el cual la Secretaría confirma anualmente la autorización de la Licencia;
+
+XII.- Registro: El Estatal de Agentes Profesionales Inmobiliarios en el Estado de Baja California Sur;
+
+XIII.- Reglamento: El de la presente Ley;
+
+XIV.- Secretaría: La de Turismo, Economía y Sustentabilidad del Estado de Baja California Sur;
+
+XV.- Unidades Acreditadoras: Las instituciones de educación pública o privada, así como organismos que cuenten con una certificación que les permita acreditar a Agentes Profesionales Inmobiliarios con registro para realizar Operaciones Inmobiliarias;
+
+XVI.- Usuarios: Personas físicas o jurídicas que contratan los servicios de Agentes Profesionales Inmobiliarios con registro, y
+
+XVII.- Visita de Inspección: Aquella diligencia que realiza la Secretaría a través del servidor público que designe, derivado de una solicitud de expedición, refrendo, reposición, cancelación de una Licencia, de una denuncia o para verificar el cumplimiento de la Ley y este Reglamento.
+
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 3.
 
-Las personas físicas y/o jurídicas que realicen operaciones inmobiliarias en bienes que sean de su propiedad, no estarán obligadas en los términos de la presente Ley. Esta exención aplica también a las personas jurídicas cuya actividad comercial preponderante no sean operaciones inmobiliarias, siempre y cuando estas sean sobre bienes de su propiedad.
+Las personas físicas y/o jurídicas que realicen Operaciones Inmobiliarias en bienes que sean de su propiedad, no estarán obligadas en los términos de la presente Ley. Esta exención aplica también a las personas jurídicas cuya actividad comercial no sean operaciones inmobiliarias, siempre y cuando éstas sean sobre bienes de su propiedad.
 
-### CAPÍTULO SEGUNDO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-DEL OTORGAMIENTO DE LA LICENCIA.
+### CAPÍTULO SEGUNDO. DE LA LICENCIA Y LAS IDENTIFICACIONES
 
 ###### Artículo 4.
 
@@ -95,7 +115,19 @@ b) Comprobante de domicilio fiscal. En caso de tener sucursales, presentar de ca
 
 c) Cédula de inscripción en el Registro Federal de Contribuyentes;
 
-d) Escrito de solicitud de formato libre firmado por el representante legal en el que declare bajo protesta de decir verdad, que las facultades con las que actúa no le han sido revocadas, ni modificadas, mediante el cual deberán además aceptar expresamente cumplir con los programas de capacitación y actualización en materia de operaciones inmobiliarias que determine el Consejo. Asimismo, presentar escrito en el que señale bajo protesta de decir verdad, no contar con antecedentes penales con motivo de la comisión de delitos graves o patrimoniales.
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+c) bis. Poder notarial;
+
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+d) Escrito de solicitud de formato libre firmado por el representante legal en el que declare bajo protesta de decir verdad, que las facultades con las que actúa no le han sido revocadas, ni modificadas, mediante el cual deberán además aceptar expresamente cumplir con los programas de capacitación y actualización en materia de operaciones inmobiliarias que determine el Consejo;
+
+(NOTA: EL 27 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 85/2018, DECLARÓ LA INVALIDEZ DEL INCISO D) BIS, DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+d) bis. CONSTANCIA DE NO ANTECEDENTES PENALES;
 
 e) Identificación oficial vigente del representante legal;
 
@@ -105,9 +137,13 @@ g) Nombrar al Encargado Responsable, quien podrá ser o no el representante lega
 
 h) El recibo de pago de expedición de licencia.
 
-En los términos del inciso f) de la fracción primera del presente artículo, las personas jurídicas autorizarán bajo su estricta responsabilidad el uso de la licencia a los Asesores Inmobiliarios que éstas determinen, quienes la ejercerán bajo su supervisión. Además, se solicitará a los Asesores Inmobiliarios que presenten los requisitos estipulados en los incisos a), c), d), e), f), g) y h) de la fracción II del presente artículo.
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-En el caso de revalidación de la Licencia, el Encargado Responsable deberá acreditar el cumplimiento de los Programas que el Consejo Inmobiliario establezca como obligatorios en los términos de la presente Ley y su Reglamento.
+En los términos del inciso f) de la fracción I del presente artículo, las personas jurídicas autorizarán bajo su estricta responsabilidad el uso de la Licencia a los Asesores Inmobiliarios que éstas determinen, quienes la ejercerán bajo su supervisión. Además, para la expedición de identificaciones la Secretaría solicitará a los Asesores Inmobiliarios que presenten los requisitos estipulados en los incisos a), c), d), e), f) y g) de la fracción II del presente artículo, así como el recibo de pago por la expedición de la identificación.
+
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+En el caso de refrendo de la Licencia, el Encargado Responsable deberá acreditar el cumplimiento de las capacitaciones establecidas en los Programas.
 
 II.- Tratándose de personas físicas:
 
@@ -117,29 +153,47 @@ b) Comprobante de su domicilio fiscal;
 
 c) Cédula de inscripción en el Registro Federal de Contribuyentes;
 
-d) Presentar escrito en el que señale bajo protesta de decir verdad, no contar con antecedentes penales con motivo de la comisión de delitos graves o patrimoniales;
+(NOTA: EL 27 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 85/2018, DECLARÓ LA INVALIDEZ DEL INCISO D), DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+d) CONSTANCIA DE NO ANTECEDENTES PENALES;
 
 e) Acreditar la capacitación profesional y/o la certificación de conocimientos especializados y experiencia en Operaciones Inmobiliarias, otorgadas por parte de alguna Unidad Acreditadora;
 
-f) Escrito de solicitud de formato libre y firmado mediante el que acepta expresamente cumplir con los programas de capacitación y actualización en materia de operaciones inmobiliarias que determine el Consejo Inmobiliario;
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+f) Escrito de solicitud de formato libre y firmado mediante el que acepta expresamente cumplir con los programas de capacitación y actualización en materia de operaciones inmobiliarias;
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+f) bis. Relación de los Asesores Inmobiliarios que estarán autorizados por la misma, para ejercer la Licencia;
 
 g) Dos fotografías tamaño credencial en blanco y negro, y
 
 h) El recibo de pago de expedición de licencia.
 
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+En los términos del inciso f) de la fracción primera del presente artículo, autorizarán bajo su estricta responsabilidad el uso de la Licencia a los Asesores Inmobiliarios que determinen, quienes ejercerán bajo su supervisión. Además, para la expedición de identificaciones la Secretaría solicitará a los Asesores Inmobiliarios que presenten los requisitos estipulados en los incisos a), c), d), e), f) y g) de la fracción II del presente artículo, así como el recibo de pago por la expedición de la identificación.
+
 Para el caso de las personas físicas que ejerzan la actividad de Profesional Inmobiliario en dos o más domicilios, estarán obligadas a informarlo a la Secretaría, para que esta a su vez, lo agregue al Registro.
 
 En los términos de la legislación aplicable, los interesados podrán presentar la documentación a que se refiere el presente artículo, a través de medios de comunicación electrónicos. De igual manera, la Secretaria podrá acceder al registro para efectos de consultar la base de datos y verificar la información integrada de los interesados, en caso de estar inscritos en el mismo.
 
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 5.
 
-La Secretaría recibirá la solicitud acompañada de los documentos a que se refiere el artículo anterior, procediendo a su revisión y valoración para determinar si el solicitante cumple con los requisitos señalados por esta Ley, debiendo además, hacerlo de conocimiento del Consejo Inmobiliario.
+La Secretaría recibirá la solicitud acompañada de los documentos a que se refiere el artículo anterior, procediendo a su revisión y valoración para determinar si el solicitante cumple con los requisitos señalados por esta Ley, debiendo además, hacerlo de conocimiento del Consejo.
 
 ###### Artículo 6.
 
 En caso de que algún requisito quede sin cumplir, la Secretaría se lo hará saber al interesado, otorgándole un plazo de treinta días hábiles para cubrirlo, contados a partir del día hábil siguiente a la fecha de notificación del requerimiento respectivo, apercibiéndolo que de no cumplir en el plazo señalado, será desechada su solicitud pudiendo volver a presentarla una vez satisfechos todos los requisitos.
 
-La Secretaría otorgará la licencia por escrito al solicitante en un plazo que no excederá de treinta días hábiles, contados a partir de que haya cubierto totalmente los requisitos, debiendo proceder a su inscripción en el Registro, asignándole el folio correspondiente para que pueda ejercer la actividad de Agente Profesional Inmobiliario con registro.
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría expedirá la Licencia por escrito al solicitante en un plazo que no excederá de treinta días hábiles, contados a partir de que haya cubierto totalmente los requisitos, debiendo proceder a su inscripción en el Registro, asignándole el folio correspondiente para que pueda ejercer la actividad de Agente Profesional Inmobiliario con registro.
 
 ### CAPÍTULO TERCERO
 
@@ -153,21 +207,31 @@ I.- Recibir solicitudes de personas físicas y jurídicas que deseen obtener lic
 
 II.- Realizar la inscripción correspondiente en el Registro de Agentes Profesionales Inmobiliarios;
 
-III.- Verificar mediante visitas de inspección, en los términos que establezca esta Ley y su Reglamento, el cumplimiento de los requisitos previstos en la misma, para el otorgamiento y revalidación de las Licencias a los Profesionales Inmobiliarios;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-IV.- Revalidar las Licencias de los Agente (sic) Profesionales Inmobiliarios, cuando se cumplan los requisitos exigidos por esta Ley y su Reglamento, en especial lo relacionado a la continua capacitación de la materia;
+III.- Verificar mediante visitas de inspección, en los términos que establezca esta Ley y su Reglamento, el cumplimiento de los requisitos previstos en la misma, para la expedición o refrendo de las Licencias a los Profesionales Inmobiliarios;
 
-V.- Celebrar convenios e instrumentos necesarios para la obtención y ejecución de los programas de capacitación, actualización y profesionalización que deberán ser impartidos en el idioma español e inglés, en materia de Operaciones Inmobiliarias, con Instituciones Educativas de reconocido prestigio académico a nivel nacional, estatal o inclusive Internacional y en su caso, podrá celebrar igualmente convenios con Colegios y Asociaciones Inmobiliarias, debidamente acreditados en la materia ante la Secretaría de Educación Pública;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- Refrendar las Licencias de los Agentes Profesionales Inmobiliarios, cuando se cumplan los requisitos exigidos por esta Ley y su Reglamento, en especial lo relacionado a la continua capacitación de la materia;
+
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+V.- Celebrar convenios e instrumentos necesarios para la obtención y ejecución de los programas de capacitación, actualización y profesionalización que deberán ser impartidos en el idioma español, en materia de Operaciones Inmobiliarias, con Instituciones Educativas de reconocido prestigio académico a nivel nacional, estatal o inclusive Internacional y en su caso, podrá celebrar igualmente convenios con Colegios y Asociaciones Inmobiliarias, debidamente acreditados en la materia ante la Secretaría de Educación Pública;
 
 VI.- Elaborar y ejecutar, con el apoyo del Consejo, el programa anual de capacitación, actualización y profesionalización en materia de Operaciones Inmobiliarias;
 
-VII.- Actualizar permanentemente el Registro de Agentes Profesionales Inmobiliarios, incluyendo las sanciones que en su caso se hayan impuesto conforme a esta Ley, una vez agotados los recursos legales que en su caso proceda;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+VII.- Actualizar permanentemente el Registro de Agentes Profesionales Inmobiliarios, incluyendo las sanciones que en su caso se hayan impuesto conforme a esta Ley, una vez agotados los recursos legales que en su caso procedan;
 
 VIII.- Aplicar las sanciones previstas en la presente Ley;
 
 IX.- Establecer y operar un sistema de quejas o denuncias para Usuarios respecto de los Agentes Profesionales Inmobiliarios con registro, Asesores Inmobiliarios, así como de personas que sin serlo se ostenten como tales, respetando en todo momento los derechos de audiencia y defensa de las personas involucradas;
 
-X.- Inscribir en el Registro de Agentes Profesionales Inmobiliarios a las Asociaciones Inmobiliarias legalmente constituidas en el Estado, y
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+X.- Inscribir en el Registro a los Agentes Profesionales Inmobiliarios, a los Asesores Inmobiliarios que estos autoricen y al Encargado Responsable, y
 
 XI.- Las demás, que señalen la presente Ley y otros ordenamientos.
 
@@ -181,9 +245,13 @@ Los Agentes Profesionales Inmobiliarios con registro tendrán los siguientes der
 
 I.- Tramitar ante la Secretaría su inscripción en el Registro;
 
-II.- Solicitar la revalidación de su licencia con la periodicidad que se prevenga, presentando para este efecto, manifestación bajo protesta de decir verdad, que los datos corresponden a aquéllos que dieron origen, y en su caso, las modificaciones;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-III.- Sujetarse a los Programas permanentes de capacitación, actualización y profesionalización que deberán ser impartidos en el idioma español e inglés, en materia de Operaciones Inmobiliarias. Esta obligación podrá ser eximida por la Secretaría cuando acredite su adiestramiento, capacitación y conocimientos en la materia con las constancias, títulos o certificaciones, expedidas por las Unidades Acreditadoras;
+II.- Solicitar el refrendo anual de su Licencia, presentando para este efecto, manifestación bajo protesta de decir verdad, de que los datos corresponden a aquéllos que dieron origen, y en su caso, las modificaciones;
+
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+III.- Sujetarse a los programas permanentes de capacitación, actualización y profesionalización que deberán ser impartidos en el idioma español en materia de Operaciones Inmobiliarias. Esta obligación podrá ser eximida por la Secretaría cuando acredite su adiestramiento, capacitación y conocimientos en la materia con las constancias, títulos o certificaciones, expedidas por las Unidades Acreditadoras;
 
 IV.- Dar aviso por escrito a la Secretaría, de cualquier cambio o modificación que afecte los datos contenidos en la Licencia otorgada en un término de treinta días hábiles contados a partir de la modificación;
 
@@ -193,7 +261,9 @@ VI.- Cumplir con el reglamento y el Código de Ética de los Agentes Profesional
 
 VII.- Conducirse con honestidad y ética profesional, protegiendo los intereses legales y financieros de sus clientes y de las personas con quien tengan trato de negocios, respecto de las Operaciones Inmobiliarias en que intervengan;
 
-VIII.- Abstenerse de exponer a sus clientes en situaciones de inseguridad legal o financiera en las Operaciones Inmobiliarias en las que los apoyen;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+VIII.- Abstenerse de exponer a sus clientes a situaciones de inseguridad legal o financiera en las Operaciones Inmobiliarias en la que los apoyen;
 
 IX.- Extender por pagos anticipados o depósitos en dinero derivados de la prestación de sus servicios, o por trámites propios de las Operaciones Inmobiliarias, factura electrónica, recibo fiscal u otro documento legal que ampare dichos pagos o depósitos, relacionados únicamente a los servicios prestados por el Agente Profesional Inmobiliario con registro;
 
@@ -215,7 +285,9 @@ DEL REGISTRO ESTATAL DE AGENTES PROFESIONALES INMOBILIARIOS.
 
 La Secretaria llevará el Registro Estatal de los Agentes Profesionales Inmobiliarios el cual tiene por objeto generar y mantener la inscripción y acreditación de los Profesionales Inmobiliarios en el Estado, y en él se asentarán, por lo menos, los siguientes datos:
 
-I.- El nombre y domicilio de los Agentes Profesionales Inmobiliarios, así como su fotografía en caso de personas físicas;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+I.- El nombre y domicilio de los Agentes Profesionales Inmobiliarios, así como su fotografía en caso de personas físicas o la de su representante legal en caso de personas jurídicas;
 
 II.- El nombre y fotografía de los Asesores Inmobiliarios autorizados, en su caso;
 
@@ -223,19 +295,25 @@ III.- El número de folio de la Licencia, y
 
 IV.- Las sanciones a las que se haya hecho acreedor cualquier Profesional Inmobiliario.
 
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 10.
 
-La Secretaría publicará en su sitio de internet el padrón de los Agentes Profesionales Inmobiliarios con registro, a fin de ponerlo a disposición del público interesado, teniendo además la obligación de actualizarlo en términos de Ley.
+La Secretaría publicará en su sitio de internet el padrón de los Agentes Profesionales Inmobiliarios con registro, con sus respectivos Asesores Inmobiliarios, a fin de ponerlo a disposición del público interesado, teniendo además la obligación de actualizarlo en términos de Ley.
 
 ###### Artículo 11.
 
 Para la celebración de cualquier Operación Inmobiliaria, será requisito estar registrado y contar con Licencia como Agente Profesional Inmobiliario, con excepción de lo previsto en el artículo 3° de la presente Ley; en caso de tratarse de personas extranjeras deberán, además, haber cumplido con los requisitos exigidos por las leyes y autoridades en materia migratoria para acreditar que su situación migratoria en el país es legal, y que esté autorizado para llevar a cabo actividades remuneradas.
 
-Los Notarios Públicos de la Entidad, estarán obligados a verificar antes de formalizar cualquier acto jurídico de carácter inmobiliario que el Agente Profesional Inmobiliario que intervenga en dicha operación cuenta con la inscripción en el Registro y la Licencia a que se refiere el presente ordenamiento, con excepción de los (sic) previsto en el artículo 3° de la presente Ley. El notario deberá avisar a la Secretaria de aquellos que se presenten a formalizar actos jurídicos y que no cuenten con dicha licencia.
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+Los Notarios Públicos de la Entidad estarán obligados a verificar antes de formalizar cualquier acto jurídico de carácter inmobiliario, que el Agente Profesional Inmobiliario que intervenga en dicha operación cuenta con la inscripción en el Registro y la Licencia a que se refiere el presente ordenamiento, con excepción de lo previsto en el artículo 3° de la presente Ley. El notario deberá dar aviso a la Secretaría de aquellos que se presenten a formalizar actos jurídicos y que no cuenten con dicha Licencia.
+
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 12.
 
-La Licencia tendrá una vigencia de tres años y podrá ser revalidada por un periodo igual, tramitándose dentro de un plazo no mayor a cinco días hábiles siguientes a su expiración, previo cumplimiento de los requisitos señalados en el presente ordenamiento y su Reglamento.
+La Licencia tendrá una vigencia de tres años con refrendo anual tramitándose dentro de un plazo no inferior a cinco días hábiles previos a su expiración, habiendo cumplido los requisitos señalados en el presente ordenamiento y su Reglamento.
 
 ###### Artículo 13.
 
@@ -245,7 +323,9 @@ I.- Sección A. Inscripción de personas físicas que sean Agente (sic) Profesio
 
 II.- Sección B. Inscripción de personas jurídicas que sean Agente (sic) Profesionales Inmobiliarios.
 
-En ambos casos, se deberá incluir a los Asesores Inmobiliarios autorizados por la misma, según corresponda; asimismo, tendrán la obligación de informar por escrito a la Secretaria de las altas y bajas de sus Asesores Inmobiliarios, en un término de diez días hábiles posteriores al cambio. Los Agentes Profesionales Inmobiliarios con registro seguirán siendo responsables ante la Secretaria de los actos de los Asesores Inmobiliarios autorizados por estas, en tanto no notifiquen la baja de los mismos.
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+En ambos casos, se deberá incluir a los Asesores Inmobiliarios autorizados por la misma, según corresponda; asimismo, tendrán la obligación de informar por escrito a la Secretaría de las altas y bajas de sus Asesores Inmobiliarios, en un término de diez días hábiles posteriores al cambio. Los Agentes Profesionales Inmobiliarios con registro seguirán siendo responsables ante la Secretaría de los actos de los Asesores Inmobiliarios autorizados por estas, en tanto no notifiquen la baja de los mismos.
 
 ### CAPÍTULO SEXTO
 
@@ -257,9 +337,13 @@ El Consejo estará integrado por:
 
 I.- El Titular de la Secretaría quien lo presidirá;
 
-II.- El Titular de la Secretaría de Planeación Urbana, Infraestructura y Transporte del Estado;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-III.- El Titular de la Sub-secretaria de la Consejería Jurídica del Estado, y
+II.- El Titular de la Secretaría de Planeación Urbana, Infraestructura y Movilidad del Estado;
+
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+III.- El Titular de la Subsecretaría de la Consejería Jurídica del Estado, y
 
 IV.- Dos representantes de los Agentes Profesionales Inmobiliarios con registro electos por insaculación por el Titular de la Secretaría, los cuales no podrán ser reelectos, ni tener su asiento profesional en el mismo Municipio del Estado, a efecto de generar mayor participación en el sector inmobiliario. El procedimiento para llevar a cabo la insaculación a que refiere el presente artículo, se establecerá en el Reglamento de la presente Ley
 
@@ -289,7 +373,9 @@ I.- Definir las políticas, estrategias y acciones orientadas a la protección d
 
 II.- Elaborar y aprobar el Código de Ética de los Agentes Profesionales Inmobiliarios con registro de Baja California Sur;
 
-III.- Conocer de las solicitudes de inscripción, otorgamiento de Licencias y revalidación de los Agentes Profesionales Inmobiliarios con registro, y
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+III.- Conocer de las solicitudes de expedición y refrendo de Licencias de los Agentes Profesionales Inmobiliarios con registro, y
 
 IV.- Las demás que le atribuya esta Ley y su Reglamento.
 
@@ -313,9 +399,11 @@ V.- Cancelación definitiva de la Licencia y de la inscripción en el Registro.
 
 La Secretaría no podrá sancionar conductas cometidas con una antigüedad mayor a 6 meses.
 
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 18.
 
-Los Agentes Profesionales Inmobiliarios con registro que durante la vigencia de su registro hubieran sido condenados por la comisión de un delito de carácter patrimonial o que incurran en reincidencia, serán sancionados con la cancelación del registro y revocación de la Licencia respectiva.
+Los Agentes Profesionales Inmobiliarios con registro que durante la vigencia de su registro hubieran sido condenados por la comisión de un delito de carácter patrimonial o que incurran en reincidencia, serán sancionados con la cancelación definitiva de la Licencia y de la inscripción en el Registro
 
 ###### Artículo 19.
 
@@ -341,15 +429,17 @@ Las sanciones consistentes en multa que imponga la Secretaría se harán efectiv
 
 ###### Artículo 22.
 
-Los Agentes Profesionales Inmobiliarios con registro que hayan sido sancionados con la cancelación definitiva de la Licencia y de la inscripción en el registro, no se otorgará de nueva cuenta sino hasta después de transcurrido un periodo de tres años posteriores a su cancelación.
+(DEROGADO, B.O. 10 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO OCTAVO
 
 DEL CÓDIGO DE ÉTICA DE LOS AGENTES PROFESIONALES INMOBILIARIOS CON REGISTRO EN EL ESTADO DE BAJA CALIFORNIA SUR.
 
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 23.
 
-El Código de Ética de los Agentes Profesionales Inmobiliarios con registro, se integrará por un conjunto de principios, valores y directrices que regirán su actuación, para que a través de un comportamiento digno y eficiente, se responda a la necesidad de protección de los Usuarios y a las reclamaciones que atenten contra el prestigio de aquellos.
+El Código de Ética de los Agentes Profesionales Inmobiliarios con registro, se integrará por un conjunto de principios, valores y directrices que regirán su actuación, para que, a través de un comportamiento digno y eficiente, se responda a la necesidad de protección de los Usuarios y a las reclamaciones que atenten contra el prestigio de aquellos.
 
 ### CAPÍTULO NOVENO
 
@@ -361,11 +451,15 @@ La Secretaría podrá llevar a cabo en cualquier momento, visitas de inspección
 
 Todo acto de visita de inspección que lleve a cabo la Secretaría a los Agente (sic) Profesionales Inmobiliarios con registro y a las personas que se ostenten como tales sin serlo, estará sujeto a las siguientes formalidades:
 
-I.- Los actos de inspecciones deberán cumplirse en el lugar o lugares indicados en la orden expedida por escrito por la Secretaría, cuyo objeto será el estipulado en dicho documento, mismo que no podrá ir más allá de la verificación del cumplimiento de los requisitos legales para operar en el Estado como Agente Profesional Inmobiliario con registro, y para la inscripción en el registro de los asesores inmobiliarios en su caso, así como del cumplimiento de las obligaciones que establecen la presente Ley y su Reglamento;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+I.- Los actos de inspecciones deberán cumplirse en el lugar o lugares indicados en la orden de visita expedida por escrito por la Secretaría, cuyo objeto será el estipulado en dicho documento, mismo que no podrá ir más allá de la verificación del cumplimiento de los requisitos legales para operar en el Estado como Agente Profesional Inmobiliario con registro, y para la inscripción en el registro de los Asesores Inmobiliarios en su caso, así como del cumplimiento de las obligaciones que establecen la presente Ley y su Reglamento;
 
 II.- Si las personas físicas o los representantes legales de las personas jurídicas, en su caso, no se encontraran presentes en el lugar indicado para ello, se dejará citatorio a la persona que se encuentre para que la persona que se pretende visitar espere a la hora determinada del día hábil siguiente, con el objeto de efectuar la orden de visita de que se trate y, en caso de inasistencia, se realizará con quien se encuentre en el lugar.
 
-Si el domicilio se encuentra cerrado y nadie responde al llamado del inspector para atender la diligencia, esta se realizará por cédula y se dejará en un lugar seguro y visible del mismo domicilio;
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+Si el domicilio se encuentra cerrado y nadie responde al llamado del inspector para atender la diligencia, ésta se realizará por cédula y se dejará en un lugar seguro y visible del mismo domicilio;
 
 III.- El o los inspectores de la Secretaría que se presenten deberán identificarse con credencial oficial expedida por la propia Secretaría, ante la o las personas con quien se actúa en la diligencia, haciéndolo constar para ello en el acta respectiva;
 
@@ -375,7 +469,9 @@ V.- Para el desarrollo de la visita, el requerido designará dos testigos con id
 
 VI.- El o los inspectores harán entrega de una copia de la orden de visita, así como del acta levantada, donde se asienten los hechos derivados de la actuación;
 
-VII.- No afectará la validez de lo actuado en la diligencia, la negativa de firmar el acta por los Profesionales Inmobiliarios o por la persona con quien se haya realizado la diligencia, así como los testigos que presenciaron las actuaciones, lo que deberá hacerse constar en el acta correspondiente, la cual será válida, incluso, con la firma de un solo inspector, cuando actúen dos o más.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+VII.- No afectará la validez de lo actuado en la diligencia, la negativa de firmar el acta por el Agente Profesional Inmobiliario visitado o por la persona con quien se haya realizado la diligencia, así como los testigos que presenciaron las actuaciones, lo que deberá hacerse constar en el acta correspondiente, la cual será válida, incluso, con la firma de un solo inspector, cuando actúen dos o más.
 
 En el acto de la diligencia los requeridos podrán formular las observaciones que consideren pertinentes y aportar las pruebas necesarias, o dentro del término de los diez días hábiles siguientes a la fecha de la conclusión de la diligencia que corresponda. Transcurrido el plazo anterior, dentro de diez días hábiles siguientes a éste, considerando las circunstancias que hubiesen concurrido y las pruebas aportadas, en su caso, la autoridad dictará la resolución que proceda en los términos previstos en esta Ley debidamente fundada y motivada, notificándola personalmente al interesado, y
 
@@ -387,23 +483,35 @@ El acta levantada con motivo de una inspección deberá ser circunstanciada y de
 
 I.- Nombre y cargo de quien emitió la orden de visita de inspección, número de oficio en que se contiene y firma autógrafa del servidor público de la Secretaría que la emite, así como el texto íntegro del acto administrativo;
 
-II.- Nombre y firma, denominación o razón social del sujeto de la diligencia y, en su caso, con quien se entendió la misma; quien deberá haberse identificado con documento oficial, asentándose en el acta el documento de que se trate y folio, en su caso;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-III.- Hora, fecha y lugar en que se realice la actuación;
+II.- Nombre o razón social del sujeto a visita de inspección y, nombre y firma de con quien se entendió la misma; quien deberá haberse identificado con documento oficial, asentándose en el acta el documento de que se trate y folio, en su caso;
 
-IV.- Nombre, firma y domicilio de las personas que hayan testificado los hechos de las actuaciones, quienes de igual manera deberán identificarse con documento oficial del que se asiente razón en el acta;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+III.- Hora, fecha y lugar en que se realice la visita de inspección;
+
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- Nombre, firma y domicilio de las personas que hayan testificado los hechos de la visita de inspección, quienes de igual manera deberán identificarse con documento oficial del que se asiente razón en el acta;
 
 V.- Nombre y firma del o los inspectores que practicaron la diligencia;
 
-VI.- Objeto de la diligencia;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+VI.- Objeto de la visita de inspección;
 
 VII.- Hechos u omisiones que hubieren conocido los inspectores;
 
 VIII.- En su caso, las manifestaciones de la o las personas que intervinieron, y
 
-IX.- Apartado de lectura y cierre del acta, en la que se haga constar que se dio lectura y explicó el alcance y contenido del acta a los sujetos de la diligencia y las observaciones en caso de que las hubiere.
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-En ningún caso debe imponerse sanción alguna en la misma visita de verificación.
+IX.- Apartado de lectura y cierre del acta, en la que se haga constar que se dio lectura y explicó el alcance y contenido del acta a los sujetos de la visita de inspección y las observaciones en caso de que las hubiere.
+
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+En ningún caso debe imponerse sanción alguna en la misma visita de inspección.
 
 ###### Artículo 26.
 
@@ -484,3 +592,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2567 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA A LOS AGENTES PROFESIONALES INMOBILIARIOS EN EL ESTADO DE BAJA CALIFORNIA SUR.”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al que venza el plazo previsto en el siguiente Artículo Transitorio, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- A partir de la publicación del presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur, se concede a la Secretaría un plazo de 130 días para que emita las modificaciones que correspondan al Reglamento de la presente Ley.
