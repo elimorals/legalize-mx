@@ -4,7 +4,7 @@ identifier: "VER-ley-de-fomento-al-empleo-del-estado-de-veracruz-de-ignacio-8770
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-09"
-last_updated: "2012-05-09"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 549 DE FOMENTO AL EMPLEO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Veracruz, el miércoles 9 de mayo de 2012.
 
@@ -81,23 +81,57 @@ V. Puesto de nueva creación: Es la plaza creada para un trabajador de reciente 
 
 VI. Puesto existente: Todas las plazas creadas con anterioridad a la entrada en vigor de la presente Ley.
 
+> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 3 Bis.
+
+La presente Ley tiene por objeto:
+
+I. Promover la creación de nuevos puestos laborales para los jóvenes de recién egreso con nivel de estudios de Técnico Superior o de Educación Superior;
+
+II. Diseñar políticas para incorporar a los jóvenes con nivel de Técnico Superior o de Educación Superior al ámbito laboral;
+
+III. Fortalecer el vínculo entre Universidades, el sector público y privado para permitir la incorporación de los jóvenes con grado de estudio Técnico Superior o licenciatura al ámbito laboral;
+
+IV. Apoyar a las empresas en la formación, capacitación, especialización y todo lo necesario para lograr el crecimiento profesional de los jóvenes estudiantes y egresados;
+
+V. Orientar a los jóvenes estudiantes y egresados de nivel Técnico Superior y de Educación Superior para la búsqueda de un empleo de calidad acorde a sus perfiles, experiencia y entorno; y
+
+VI. Brindar servicios especializados y gratuitos para la atención de estudiantes y jóvenes egresados en busca de empleo, así como los destinados para desarrollar competencias, habilidades y certificaciones laborales.
+
 ###### Artículo 4.
 
 Los puestos de nueva creación deberán permanecer disponibles por un periodo de treinta meses contado a partir del momento en que sean creados, plazo durante el cual el puesto deberá ser ocupado por un trabajador de reciente ingreso. Transcurrido dicho periodo, o habiendo quedando (sic) vacantes por más de treinta días, los puestos de nueva creación dejarán de tener los beneficios fiscales que esta Ley otorga.
 
 ### CAPÍTULO II. Del Fomento al Empleo y Campo Aplicativo
 
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 5.
 
-El patrón que contrate a un trabajador de reciente ingreso para ocupar algún puesto de nueva creación, tendrá derecho a exentar el impuesto sobre erogaciones por remuneraciones al trabajo personal respecto de dicho trabajador, siempre y cuando cumpla con los requisitos establecidos en esta Ley. Este beneficio no es aplicable a ninguna entidad o dependencia pública.
+El patrón que contrate a un trabajador de reciente ingreso para ocupar algún puesto de nueva creación o contrate a jóvenes recién egresados de los niveles Técnico Superior o Educación Superior para su primera experiencia laboral, aun cuando no sea para un puesto de nueva creación, tendrá derecho a exentar el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal respecto de dicho trabajador, siempre y cuando cumpla con los requisitos establecidos en esta Ley. Este beneficio no es aplicable a ninguna entidad o dependencia pública.
+
+> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 5 Bis.
+
+Para impulsar el fomento de puestos de nueva creación para los jóvenes estudiantes y egresados del nivel superior e incentivar a los patrones a contratarlos, las autoridades responsables deberán:
+
+I. Apoyar a los patrones que contraten a los jóvenes estudiantes y egresados del nivel Técnico Superior y de Educación Superior conforme a las disposiciones fiscales aplicables;
+
+II. Estimular y promover la incorporación de los jóvenes estudiantes y/o egresados de nivel Técnico Superior y de Educación Superior a un empleo en el sector formal adecuado a sus perfiles, expectativas y entorno; y
+
+III. Impulsar la capacitación de los jóvenes estudiantes y egresados del nivel Técnico Superior y de Educación Superior en el desarrollo de sus habilidades según el perfil del empleo y expectativas.
 
 ###### Artículo 6.
 
 La exención a que se refiere el artículo anterior sólo será aplicable tratándose de trabajadores que perciban diariamente hasta seis veces el salario mínimo general vigente en la zona del Estado en donde se haya dado la contratación.
 
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 7.
 
-El patrón que contrate a trabajadores de reciente ingreso, conforme a lo dispuesto en esta Ley, no perderá el beneficio que la misma otorga en el caso de que termine la relación laboral con el trabajador, en términos de la Ley Federal del Trabajo, siempre y cuando el puesto de nueva creación que quede vacante sea ocupado por otro trabajador de reciente ingreso.
+El patrón que contrate a trabajadores de recién ingreso y/o contrate a jóvenes recién egresados de los niveles Técnico Superior o Educación superior para su primera experiencia laboral, conforme a lo dispuesto en esta Ley, no perderá el beneficio que la misma otorga en el caso de que termine la relación laboral con el trabajador, en términos de la Ley Federal del Trabajo, siempre y cuando el puesto de nueva creación que quede vacante sea ocupado por otro trabajador de recién ingreso.
 
 ###### Artículo 8.
 
@@ -113,7 +147,9 @@ b. Presentar una relación de los trabajadores de reciente ingreso que haya cont
 
 2. Copia simple de identificación oficial;
 
-3. Número de Identificación ante el Instituto Mexicano del Seguro Social, acreditando haber inscrito a los trabajadores ante dicho Instituto, en los términos que establece la Ley del mismo;
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+3. En el caso de que se trate de jóvenes recién egresados de los niveles Técnico Superior o Educación Superior para su primera experiencia laboral, deberán ser mayores de 18 y menores de 29 años de edad, contar con título profesional o certificado que acredite la terminación de sus estudios como Técnico Superior o de Educación Superior, expedidos por autoridad o institución legalmente facultada para ello, con fecha de máximo un año previo a la contratación, y no contar con registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, por haber laborado previamente;
 
 4. Clave Única del Registro de Población;
 
@@ -180,3 +216,13 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 732 QUE REFORMA LOS ARTÍCULOS 5, 7 Y 8 FRACCIÓN I, INCISO B NUMERAL 3; Y ADICIONA LOS ARTÍCULOS 3 BIS Y 5 BIS DE LA LEY DE FOMENTO AL EMPLEO DEL ESTADO DE VERACRUZ.”]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
