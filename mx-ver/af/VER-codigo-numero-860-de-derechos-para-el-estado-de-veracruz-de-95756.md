@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2018-03-12"
+last_updated: "2018-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -675,7 +675,9 @@ cualquier otro acto no comprendido en las
 
 fracciones anteriores, relativo a folios mercantiles: 5.3014 UMA
 
-XXVII (SIC). Se exceptúan del pago de los derechos del Registro Público de la Propiedad a que se refiere este artículo:
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+XXVIII. Se exceptúan del pago de los derechos del Registro Público de la Propiedad a que se refiere este artículo:
 
 a) Las certificaciones o copias certificadas que se expidan a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados para obtener su libertad, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos.
 
@@ -703,7 +705,9 @@ l) La inscripción de las escrituras de compraventa a los poseedores de predios 
 
 m) La inscripción de contratos relativos a la constitución de créditos con garantía hipotecaria para la adquisición, construcción y mejoramiento de vivienda, otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (FOVISSSTE), el Fideicomiso Fondo Nacional de Habitaciones Populares (FONHAPO), el Fondo de Operación y Financiamiento Bancario a la Vivienda (FOVI), el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), el Banco Nacional del Ejército, Fuerza Aérea y Armada S.N.C. (BANJERCITO), el Instituto de Pensiones del Estado (IPE); y el Instituto Veracruzano de Desarrollo Urbano, Regional y Vivienda.
 
-n) La inscripción de contratos relativos a la constitución de créditos agrícolas con garantía hipotecaria que otorgue Financiera Rural, como organismo descentralizado de la Administración Pública Federal, sectorizado en la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2018)</small>
+
+n) La inscripción de contratos relativos a la constitución de créditos agrícolas con garantía hipotecaria que otorgue Financiera Rural, como organismo descentralizado de la Administración Pública Federal, sectorizado en la Secretaría de Hacienda y Crédito Público, así como a las instituciones bancarias que operan en segundo piso, fondos y las de riesgo compartido; para el otorgamiento de garantías de crédito a proyectos relacionados con la agricultura, ganadería, pesca, silvicultura, avicultura, agroindustria y otras actividades conexas o afines que se realizan en el medio rural y sean del sector primario.
 
 ñ) La inscripción de contratos relativos a la constitución de créditos con garantía hipotecaria para la micro y pequeña empresa que otorguen las instituciones bancarias y los fideicomisos estatales.
 
@@ -5928,3 +5932,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. La Secretaría de Seguridad Pública y la Secretaría de Finanzas y Planeación deberán realizar las acciones necesarias en un plazo máximo de 60 días naturales para cumplimentar lo ordenado en el presente Decreto.
+
+G.O. 10 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 730 QUE REFORMA EL INCISO n) DE LA FRACCIÓN XXVIII, DEL APARTADO A, DEL ARTÍCULO 13 DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
