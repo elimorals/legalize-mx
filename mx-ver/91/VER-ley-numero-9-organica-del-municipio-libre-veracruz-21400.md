@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2018-08-23"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1603,11 +1603,11 @@ I. Ser oriundo del Municipio o con una residencia cuando menos de 10 años en el
 
 II. Contar con prestigio en los aspectos históricos y culturales del Municipio.
 
-> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 66-B.
 
-El nombramiento del Cronista Municipal será por el término de tres años, pudiendo ser ratificado en virtud de su desempeño y productividad.
+El nombramiento del Cronista municipal será por el término de diez años, pudiendo ser ratificado en virtud de su desempeño y productividad.
 
 > <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
 
@@ -4178,3 +4178,11 @@ G.O. 23 DE AGOSTO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 725 QUE REFORMA EL ARTÍCULO 66-B, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Artículo segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
