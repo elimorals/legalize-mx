@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-850-para-la-solucion-de-conflictos-de-limites-96184"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-26"
-last_updated: "2013-07-26"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 850 PARA LA SOLUCIÓN DE CONFLICTOS DE LÍMITES TERRITORIALES INTERMUNICIPALES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 26 de julio de 2013.
 
@@ -73,15 +73,27 @@ VII. Instituto: el Instituto Nacional de Estadística y Geografía;
 
 VIII. Ley: la Ley para la Solución de Conflictos de Límites Territoriales Intermunicipales en el Estado de Veracruz de Ignacio de la Llave;
 
-IX. Ley Orgánica: la Ley Orgánica del Municipio Libre;
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-X. Municipio: cada uno de los que conforman el Estado; y
+IX. Conflicto de Límites Territoriales: Aquel que se presenta entre dos o más municipios del Estado, por la indefinición, confusión, error, o la indebida apropiación de un determinado espacio territorial.
 
-XI. Partes: los municipios involucrados en los procedimientos de solución de conflictos de límites territoriales.
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+X. Ley Orgánica: La Ley Orgánica del Municipio Libre;
+
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Municipio: Cada uno de los que conforman el Estado; y
+
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Partes: Los municipios involucrados en los procedimientos de solución de conflictos de límites territoriales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 3.
 
-Los conflictos en materia de límites territoriales entre uno o más municipios podrán solucionarse mediante los procedimientos siguientes:
+Los conflictos en materia de límites territoriales entre dos o más municipios podrán solucionarse mediante los procedimientos siguientes:
 
 I. Convenio: cuando los ayuntamientos llegan a un acuerdo amistoso, que someten a la consideración del Congreso;
 
@@ -398,3 +410,13 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 711 POR EL QUE SE ADICIONA LA FRACCIÓN IX RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 2 Y SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 3 DE LA LEY PARA LA SOLUCIÓN DE CONFLICTO DE LÍMITES TERRITORIALES INTERMUNICIPALES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
