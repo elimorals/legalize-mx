@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-866-para-el-fomento-de-la-lectura-y-el-libro-56164"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-22"
-last_updated: "2007-06-22"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 866 PARA EL FOMENTO DE LA LECTURA Y EL LIBRO PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 866 PARA EL FOMENTO DE LA LECTURA Y EL LIBRO PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 866 PARA EL FOMENTO DE LA LECTURA Y EL LIBRO PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Numero Extraordinario 183 a la Gaceta Oficial del Estado de Veracruz, el viernes 22 de junio de 2007.
 
@@ -92,6 +92,10 @@ IV. Establecer mecanismos de coordinación interinstitucional con los distintos 
 V. Estimular la capacitación y formación profesional de los diferentes actores de la producción editorial y de los promotores de la lectura; y
 
 VI. Apoyar la Red de Bibliotecas Públicas Municipales.
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Impulsar la producción, edición, publicación y difusión de libros y hacer accesible el libro en igualdad de condiciones en todo el Estado para aumentar su disponibilidad y acercarlo a la sociedad en general.
 
 ### CAPÍTULO II. De las Autoridades Responsables
 
@@ -264,3 +268,13 @@ A t e n t a m e n t e
 Sufragio efectivo. No reelección
 
 Licenciado Fidel Herrera Beltrán, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 723 QUE ADICIONA UNA FRACCIÓN AL ARTÍCULO 3 DE LA LEY PARA EL FOMENTO DE LA LECTURA Y EL LIBRO PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
