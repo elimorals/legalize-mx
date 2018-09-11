@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2018-08-16"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -248,6 +248,10 @@ XXVI. Establecer, en coordinación con las autoridades municipales y federales, 
 XXVII. Participar en la formulación del Programa de Ordenamiento;
 
 XXVIII. Coordinar, con el Gobierno Federal y la Secretaría de Desarrollo Social y Medio Ambiente del Estado, la instrumentación de los programas y medidas para la preservación de los recursos naturales, prevención de la contaminación, ordenamiento y limpieza de las playas, mejoramiento ambiental de las actividades e instalaciones turísticas, así como la implementación de empresas turísticas, sujetos a un sistema de indicadores de sustentabilidad;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXVIII Bis. Promover en hoteles y restaurantes la donación de alimentos en buen estado no utilizados, con la finalidad de que se destinen a la población en situación de carencia alimentaria;
 
 XXIX. Promover y fomentar, en coordinación con el Gobierno Federal y las dependencias y entidades competentes de la administración pública del Estado, la inversión de capitales nacionales y extranjeros en proyectos de desarrollo turístico y para el establecimiento de servicios turísticos;
 
@@ -973,7 +977,9 @@ Corresponde a la Secretaría promover la competitividad de la actividad turísti
 
 I. La formulación de políticas públicas, modelos y acciones que incrementen la calidad y competitividad en la materia;
 
-II. La profesionalización desde una cultura turística para la sustentabilidad de quienes laboran en empresas turísticas o prestan servicios en la actividad;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+II. La profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad, orientados a las características de las líneas de producto y la demanda, la certificación en competencias laborales y fortalecimiento de la especialización del capital humano;
 
 III. La modernización de las empresas turísticas;
 
@@ -1151,7 +1157,13 @@ XXIII. Garantizar al usuario la tranquila y segura disposición y goce de los bi
 
 XXIV. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada los servicios, ubicación, costo, restricciones y demás aspectos que sean de interés para el visitante; y
 
-XXV. Las demás que establezcan los ordenamientos federales y estatales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXV. Coadyuvar con la Secretaría en los programas que promuevan la donación de alimentos en buen estado no utilizados en hoteles y restaurantes, con la finalidad de que se destinen a la población en situación de carencia alimentaria; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXVI. Las demás que establezcan los ordenamientos federales y estatales.
 
 ### CAPÍTULO ÚNICO
 
@@ -1440,3 +1452,19 @@ G.O. 16 DE AGOSTO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 707 QUE REFORMA EL ARTÍCULO 81, FRACCIÓN II, DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 708 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
