@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2018-06-22"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -375,15 +375,27 @@ El Ayuntamiento residirá en la cabecera del Municipio. Podrá funcionar tempora
 
 Para resolver los asuntos de su competencia los ayuntamientos celebrarán sesiones ordinarias, extraordinarias y solemnes.
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-I. Las sesiones ordinarias se llevarán a cabo por lo menos dos veces por mes; se permitirá el libre acceso al público y a los servidores del ayuntamiento, excepto cuando por acuerdo del Cabildo y por la naturaleza de los asuntos a tratar, deba tener el carácter de privada;
+I. Las sesiones ordinarias se llevarán a cabo por lo menos dos veces por mes;
 
 II. Las sesiones extraordinarias se llevarán a cabo cuando se considere que debe tratarse algún o algunos asuntos que requieran urgente resolución. En las sesiones extraordinarias se tratarán exclusivamente los asuntos que las hayan motivado, y
 
 III. Las sesiones solemnes serán las que determine el Cabildo para la conmemoración de aniversarios históricos y para la presentación de los informes anuales que deba rendir el Presidente Municipal, o cuando ocurran representantes de los Poderes del Estado, de la Federación o personalidades distinguidas.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+Las sesiones de Cabildo serán públicas, permitiéndose el libre acceso al público y a los servidores públicos del ayuntamiento.
+
 Las sesiones podrán llevarse a cabo previa solicitud de por lo menos una tercera parte de los integrantes del Ayuntamiento, cuando por cualquier motivo el Presidente Municipal se encuentre imposibilitado o se niegue a hacerlo.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+En los ayuntamientos de más de 150,000 habitantes, las sesiones de Cabildo deberán ser trasmitidas en vivo mediante medios electrónicos.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+Únicamente podrán celebrarse sesiones privadas a petición del presidente municipal o de la mayoría de los miembros del cabildo, cuando se traten asuntos relativos a la responsabilidad de los integrantes del Cabildo o de los servidores públicos de la administración municipal, o bien cuando se rindan informes en materia contenciosa.
 
 ###### ARTICULO 22.
 
@@ -527,9 +539,9 @@ VII. Los ayuntamientos podrán solicitar al Congreso del Estado las modificacion
 
 VIII. Remitir anualmente al Congreso del Estado, durante el mes de enero de cada año, el inventario general de bienes muebles e inmuebles de su propiedad, para efectos del control y registro de los mismos;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Aprobar el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la Constitución Política del Estado; así como la cuenta pública municipal anual que le presente el Tesorero del Ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, a más tardar el día 31 de enero del año siguiente al del ejercicio.
+IX. Aprobar el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la Constitución Política del Estado; así como la cuenta pública municipal anual que le presente el Tesorero del Ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, a más tardar el día quince de marzo del año siguiente al del ejercicio.
 
 > <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2007)</small>
 
@@ -541,29 +553,31 @@ Al determinar en el presupuesto de egresos las remuneraciones totales de sus mie
 
 X. Proponer para su aprobación al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-XI. Reglamentar los espectáculos públicos, la publicidad y anuncios, vigilando que se desarrollen conforme a derecho, a la moral y a las buenas costumbres, y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2010)</small>
+XI. Reglamentar los espectáculos públicos, la publicidad y anuncios, vigilando que se desarrollen conforme a derecho, a la moral y a las buenas costumbres;
 
-XII. Formular y aprobar su reglamento interno, en el que se habrá de considerar, entre otros, el procedimiento en caso de que fallezca algún integrante del ayuntamiento, en los términos de la fracción VI del artículo 10 de la Ley que Establece las Bases para la Emisión de Bandos de Policía y Gobierno, y Ordenamientos de los Municipios del Estado de San Luis Potosí.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Formular y aprobar su reglamento interno, en el que se habrá de considerar, entre otros, el procedimiento en caso de que fallezca algún integrante del ayuntamiento, en los términos de la fracción VI del artículo 10 de la Ley que Establece las Bases para la Emisión de Bandos de Policía y Gobierno, y Ordenamientos de los Municipios del Estado de San Luis Potosí, y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Autorizar en los términos de la ley, los incentivos fiscales a los propietarios de los predios que tengan estatus de baldíos y que se encuentren limpio (sic), debidamente delimitados y cercados. Estímulo que operará en favor de quienes lo soliciten y demuestren el cumplimiento en los términos que establezca cada ayuntamiento.
 
 c) En materia Operativa:
 
 I. Solicitar al Ejecutivo del Estado, previo acuerdo aprobado por lo menos por las dos terceras partes de sus integrantes, y a través del Presidente Municipal, la expropiación de bienes por causa de utilidad pública;
 
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ EL PRIMER PÁRRAFO DE LA FRACCIÓN II DEL INCISO C) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ EL PRIMER PÁRRAFO DE LA FRACCIÓN II DEL INCISO C) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II. Nombrar, a propuesta del Presidente Municipal, al Secretario; al Tesorero; Contralor Interno y, en su caso, al Oficial Mayor; pudiendo removerlos libremente a propuesta del presidente Municipal y por acuerdo del cabildo, sin responsabilidad para el ayuntamiento. El Contralor Interno Municipal será designado de conformidad con la fracción V del artículo 70 de este Ordenamiento, por el voto de cuando menos las dos terceras partes del cuerpo edilicio, y sólo podrá ser removido por la misma mayoría
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+En caso de ausencia definitiva por cualquier motivo del Secretario; Tesorero; Oficial Mayor; o Contralor Interno, el Presidente deberá convocar dentro de un plazo máximo de cinco días contados a partir de la ausencia definitiva, a sesión de cabildo a fin de que se proceda al nombramiento respectivo en los términos de este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2015)</small>
+Los integrantes del ayuntamiento, y los funcionarios que designe el mismo, deberán abstenerse de recomendar o contratar, por sí o por conducto de terceros, a familiares por afinidad o consanguinidad, en línea directa o transversal hasta el cuarto grado, respecto de ellos, para obtener cualquier tipo de contrato o nombramiento con el municipio.
 
-II. NOMBRAR, A PROPUESTA DEL PRESIDENTE MUNICIPAL, AL SECRETARIO, AL TESORERO Y, EN SU CASO, AL OFICIAL MAYOR; PUDIENDO REMOVERLOS LIBREMENTE A PROPUESTA DEL PRESIDENTE MUNICIPAL Y POR ACUERDO DEL CABILDO, SIN RESPONSABILIDAD PARA EL AYUNTAMIENTO. PARA NOMBRAR AL CONTRALOR INTERNO MUNICIPAL, SERÁ A PROPUESTA DE LOS REGIDORES QUE CONSTITUYAN LA PRIMERA MINORÍA, A TRAVÉS DE LA TERNA QUE PRESENTEN AL CABILDO; DEBIENDO SER DESIGNADO POR EL VOTO DE CUANDO MENOS LAS DOS TERCERAS PARTES DEL CUERPO EDILICIO, Y SÓLO PODRÁ SER REMOVIDO POR LA MISMA CANTIDAD DE VOTOS DE LOS REGIDORES QUE LO NOMBRARON. PARA EL CASO DE QUE LA PROPUESTA NO OBTENGA LA MAYORÍA CALIFICADA, EL PRESIDENTE MUNICIPAL DEBERÁ NOMBRAR AL CONTRALOR INTERNO DE ENTRE QUIENES INTEGREN LA TERNA.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
-
-En todo momento deberán observar el cumplimiento y salvaguarda de los derechos de los trabajadores del municipio que representan, por lo que son responsables de los procesos laborales que deriven en pago, por actos propios o de sus subalternos, generados en su administración. Esta responsabilidad se extiende a los laudos recaídos incluso, en periodos constitucionales posteriores a su mandato, cuyo inicio del procedimiento respectivo, se haya dado durante éste;
+En todo momento deberán observar el cumplimiento y salvaguarda de los derechos de los trabajadores del municipio que representan, por lo que son responsables de los procesos laborales que deriven en pago, por actos propios o de sus subalternos, generados en su administración. Esta Responsabilidad se extiende a los laudos recaídos incluso, en periodos constitucionales posteriores a su mandato, cuyo inicio del procedimiento respectivo, se haya dado durante éste;
 
 III. Acordar con la aprobación de cuando menos las dos terceras partes de sus integrantes, previamente a la autorización del Congreso del Estado, la concesión de los bienes y servicios públicos municipales. En ningún caso podrán concesionarse los de seguridad pública, policía preventiva municipal y tránsito;
 
@@ -617,17 +631,9 @@ XXIII. Constituir dentro de los primeros treinta días del inicio de la administ
 
 XXIV. Designar por el voto de cuando menos las dos terceras partes de sus integrantes, a propuesta del Presidente Municipal, a los delegados municipales que correspondan según sea el caso;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-XXV. El ayuntamiento debe crear un Fondo de Pensiones que dependerá de la tesorería municipal, y será vigilado por los órganos de control interno de la propia administración. Este fondo deberá contar con recursos suficientes para garantizar las jubilaciones, pensiones, y retiros de los trabajadores que con ese carácter, tengan derecho a tales prestaciones. El ayuntamiento podrá celebrar convenios con instituciones públicas o privadas de seguridad social, para el manejo, y ejecución de su fondo de pensiones, siempre que lo apruebe cuando menos las dos terceras partes de los integrantes del cabildo y, la posterior autorización del Congreso del Estado.
-
-Para garantizar que el fondo contenga los recursos necesarios para su operación, deberá incluirse en el Presupuesto de Egresos de cada ejercicio fiscal, un apartado que contemplará tres montos a etiquetar del gasto:
-
-1. El primero, un monto en el cual se programe, con base en el número de trabajadores que cuenten con edad de jubilación, la cantidad de dinero a que asciende su liquidación por antigüedad, así como la suma asegurada de que gozarán una vez que opere su jubilación o retiro.
-
-2. El segundo monto lo integrará un promedio del gasto de los últimos cinco ejercicios fiscales anteriores, con la actualización inflacionaria correspondiente, que prevea cuantos casos de retiro por incapacidad parcial o total permanente, o pensión por riesgo de trabajo se hubiesen requerido.
-
-3. El tercer monto se formará con todos aquellos trabajadores de nuevo ingreso y de incorporación voluntaria, que se acojan a un plan de retiro que preverá cada ayuntamiento, con aportaciones del trabajador y del municipio; mismo que servirá como base para asegurar las jubilaciones y pensiones de cada trabajador, y
+XXV. Emitir recibos por todos y cada uno de los cobros que realice el ayuntamiento, los cuales deberán contener de forma enunciativa más no limitativa, el nombre del ayuntamiento, Clave del Registro Federal de Contribuyentes, Régimen Fiscal en que tributen conforme a la Ley del Impuesto Sobre la Renta, se deberá señalar el domicilio del área o departamento en el que se emitan las facturas electrónicas, contener el número de folio y sello digital asignado por el Sistema de Administración Tributaria, sello digital del contribuyente que lo expide, lugar y fecha de expedición, Clave del Registro Federal de Contribuyentes de la persona a favor de quien se expida, cantidad, unidad de medida y clase de los bienes, mercancías o descripción del servicio o del uso o goce que amparen, valor unitario consignado en número, importe total señalado en número y en letra, señalamiento expreso cuando la prestación se pague en una sola exhibición o en parcialidades, cuando proceda, se indicará el monto de los impuestos trasladados, desglosados por tasa de impuesto y, en su caso, el monto de los impuestos retenidos, forma en que se realizó el pago, efectivo, transferencia electrónica de fondos, cheque nominativo o tarjeta de débito, de crédito, de servicio o la denominada monedero electrónico que autorice el Servicio de Administración Tributaria, además debe contener la fecha y hora de certificación, y
 
 (ADICIONADA, P.O. 13 DE MAYO DE 2014) (REPUBLICADA, P.O. 4 DE JULIO DE 2015)
 
@@ -1065,13 +1071,17 @@ XXXIX. Asistir y acreditar los cursos de inducción, talleres de capacitación y
 
 XL. Constituir, dentro de los primeros treinta días del inicio de la administración, el Consejo Municipal de Protección Civil, con el objeto de prevenir y actuar en casos de riesgo, siniestro o desastre, en coordinación con las autoridades del Estado y la Federación. A este organismo concurrirán los sectores, público, social, y privado, con las funciones y atribuciones que para el efecto señalen, la Ley de Protección Civil del Estado; y el Reglamento municipal correspondiente;
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-XLI. Designar a los coordinadores municipales de protección civil, verificando que cuenten con la debida certificación de competencia, expedida por una institución avalada por la Escuela Nacional de Protección Civil, y
+XLI. Designar a los coordinadores municipales de protección civil, verificando que cuenten con la debida certificación de competencia, expedida por una institución avalada por la Escuela Nacional de Protección Civil;
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-XLII. Las demás que deriven de esta Ley u otros ordenamientos aplicables.
+XLII. Nombrar al enlace municipal de atención al migrante, el que tendrá las atribuciones que determine la Ley, y
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XLIII. Las demás que se deriven de esta Ley u otros ordenamientos aplicables.
 
 ###### ARTICULO 71.
 
@@ -1429,29 +1439,33 @@ X. Las demás que le señalen las leyes y reglamentos municipales.
 
 Los ayuntamientos del Estado contarán con una Contraloría Interna Municipal, la cual está investida de independencia técnica y de gestión. El titular de ésta durará en su encargo todo el ejercicio legal del cabildo que lo nombre, y sólo podrá ser removido, previo procedimiento en los términos a que alude el artículo 85 Ter de esta ley.
 
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2015)</small>
-
 ARTICULO 85 BIS. El Contralor Interno debe acreditar al momento de su nombramiento, el siguiente perfil:
 
-I. Tener título y cédula profesional de, licenciado en, derecho; contador público; administrador público; o economista, o cualquiera otra relacionada con las actividades de fiscalización, con antigüedad mínima de cinco años;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+l. Tener título y cédula profesional de, licenciado en, Derecho; Contador Público; Administrador Publico; o Economista, o cualquiera otra relacionada con las actividades de fiscalización, con una antigüedad mínima de tres años;
 
 II. Contar con por lo menos treinta años de edad;
 
-III. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad, y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Demostrar trayectoria, formación académica, actualización profesional, y experiencia laboral.
+III. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad;
 
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+IV. Demostrar trayectoria, formación académica, actualización profesional, y experiencia laboral;
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+V. No haber desempeñado el cargo de Secretario, Tesorero, Oficial Mayor, Delegado, Director o Jefe de Departamento, en la administración municipal inmediata anterior;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+VI. No desempeñar o haber desempeñado algún cargo de dirección en un partido político estatal o nacional en los últimos cinco años antes del nombramiento, y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+VII. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2015)</small>
 
@@ -1467,83 +1481,169 @@ IV. Incumplir cualquiera de las causas de responsabilidad como servidor público
 
 V. Las demás que le señalen las leyes y reglamentos municipales.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+Para el caso de que el Contralor Interno sea removido de su cargo, el Cabildo deberá nombrar un nuevo Contralor Municipal, de acuerdo con el procedimiento previsto en la parte relativa del artículo 31 inciso c) fracción II de la presente Ley.
+
 ###### ARTICULO 86.
 
 Son facultades y obligaciones del Contralor Interno:
 
-I. Planear, programar, organizar y coordinar el sistema de control y evaluación municipal;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-II. Fiscalizar el ingreso y ejercicio del gasto público municipal, y su congruencia con el presupuesto de egresos;
+I. Desarrollar y coordinar el Sistema de Control Interno de la administración pública municipal;
 
-III. Vigilar que los recursos y aportaciones federales y estatales asignados al municipio, se apliquen en los términos estipulados en las leyes, reglamentos y convenios respectivos;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2009)</small>
+II. Establecer y vigilar el cumplimiento de las normas de control, fiscalización y auditoría que deban observar las dependencias y entidades de la administración pública municipal;
 
-IV. Coordinarse con la Contraloría del Gobierno del Estado, y la Auditoría Superior del Estado, para el cumplimiento de sus atribuciones;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+III. Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Municipal, para lo cual podrá requerir de las dependencias competentes, la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador de los Sistemas, Nacional y Estatal Anticorrupción;
 
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+IV. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a las dependencias y entidades de la Administración Pública Municipal, en la promoción de su cumplimiento;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-V. PROGRAMAR Y PRACTICAR AUDITORÍAS A LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, INFORMANDO EL RESULTADO Y LAS CONCLUSIONES DE LAS MISMAS AL CABILDO. EN CASO DE ENCONTRAR RESPONSABILIDADES O INCONSISTENCIAS DERIVADAS DE LAS AUDITORÍAS REALIZADAS, DEBERÁ INFORMAR DE INMEDIATO A LA AUDITORÍA SUPERIOR DEL ESTADO PARA QUE, EN EL ÁMBITO DE SU COMPETENCIA, ÉSTA REALICE LAS ACTUACIONES CORRESPONDIENTES;
+V. Inspeccionar el ejercicio del gasto público municipal y la obtención de los ingresos, su apego y congruencia a las respectivas leyes, reglamentos, reglas y lineamientos aplicables;
 
-VI. Participar en la entrega recepción de las unidades administrativas de las dependencias y entidades del Municipio, conjuntamente con el Síndico y el Oficial Mayor;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2009)</small>
+VI. Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de revisiones y auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Municipal;
 
-VII. Dictaminar los estados financieros de la Tesorería municipal y verificar que los informes sean remitidos en tiempo y forma a la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-VIII. Participar en la elaboración y actualización de los inventarios generales de bienes muebles e inmuebles propiedad del Ayuntamiento;
+VII. Opinar sobre la idoneidad de los sistemas y normas de registro y contabilidad, de administración de recursos humanos, materiales y financieros, de contratación de obra pública, de adquisición de bienes, de contratación de servicios, de contratación de deuda pública, y de manejo de fondos y valores;
 
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+VIII. Comprobar por sí, el cumplimiento por parte de las dependencias y entidades de la administración pública municipal de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento e inversión; adquisiciones, obra pública, servicios; deuda, sistema de registro y contabilidad, personal, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de muebles e inmuebles y demás activos y recursos materiales; fondos y valores de la propiedad o al cuidado del gobierno municipal;
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2015)</small>
+IX. Coordinar acciones y, en su caso, celebrar convenios con la Auditoría Superior, la Contraloría General, ambas del Estado, para el cumplimiento de sus funciones;
 
-IX. SUBSTANCIAR LOS PROCEDIMIENTOS ADMINISTRATIVOS DISCIPLINARIOS Y RESARCITORIOS, DETERMINANDO O NO LA EXISTENCIA DE RESPONSABILIDADES ADMINISTRATIVAS, POR INCUMPLIMIENTO DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS MUNICIPALES NO SUJETOS A RESPONSABILIDAD POR PARTE DEL CONGRESO DEL ESTADO, APLICANDO LAS SANCIONES DISCIPLINARIAS CORRESPONDIENTES, DANDO CUENTA DE SUS RESULTADOS AL CABILDO;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2015)</small>
+X. Participar, cuando proceda, en el Comité del Sistema Estatal de Fiscalización;
 
-X. Informar oportunamente a los servidores públicos municipales acerca de la obligación de manifestar sus bienes, verificando que tal declaración se presente en los términos de ley;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2015)</small>
+XI. Intervenir en los convenios de concertación con la Contraloría General del Estado y con la Auditoría Superior del Estado en relación a recursos federales, así como vigilar su ejecución y cumplimiento;
 
-XI. Vigilar el cumplimiento de las normas y disposiciones sobre el registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, enajenaciones, arrendamientos, usos y conservación del patrimonio municipal;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2015)</small>
+XII. Informar a la ciudadanía mediante su publicación, el resultado final de la evaluación, fiscalización y auditoría de las dependencias y entidades de la administración pública municipal, así como de la recepción, seguimiento y avance o resolución de los asuntos a que se refiere la fracción XI de este artículo;
 
-XII. Remitir, al Congreso del Estado, al término de su encargo, informe final que contenga la situación de las acciones tomadas, y las observaciones que durante su gestión hayan sido resueltas, o que se encuentren en trámite; que detalle cómo se resolvieron o qué sanción se impuso. Además de las que continúen pendientes de resolver, donde se justifique de manera fehaciente el motivo por el cual no se ha iniciado procedimiento o, en su caso, dictado resolución; todo ello para que el nuevo titular prosiga o inicie el procedimiento o trámites que se venían realizando;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XIII. Recibir y registrar las declaraciones patrimoniales, la constancia de presentación de declaración fiscal y la declaración de conflicto de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones legales aplicables;
 
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+XIV. Atender las quejas y denuncias que presente la ciudadanía derivadas de las actuaciones de los servidores públicos de la Administración Pública Municipal;
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-XIII. PROVEER AL SÍNDICO MUNICIPAL DE ELEMENTOS SUFICIENTES PARA QUE SE HAGAN LAS DENUNCIAS CORRESPONDIENTES ANTE EL MINISTERIO PÚBLICO, EN CASO DE QUE SE PRESUMA LA PROBABLE COMISIÓN DE UN DELITO DENTRO DE LA ADMINISTRACIÓN;
+XV. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Municipal y de los particulares, que pudieran constituir responsabilidades administrativas; así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Municipal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Estatal de Justicia Administrativa; y, cuando se trate de faltas administrativas graves o de faltas administrativas de particulares, emitir el informe de presunta responsabilidad administrativa y ejercer la acción que corresponda ante ese Tribunal o ante la Auditoría Superior del Estado; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Materia de Delitos Relacionados con Hechos de Corrupción y ante otras autoridades competentes, en términos de las disposiciones legales aplicables;
 
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XVI. Llevar en la administración pública municipal, el registro de los servidores públicos sujetos a procedimientos administrativos instaurados, de los sancionados e inhabilitados, de los recursos e impugnaciones que se hayan hecho valer y, en su caso, las resoluciones por las que se dejen sin efectos las resoluciones dictadas; para lo cual deberá realizar la captura, así como el envío oportuno y veraz de la información a la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, en términos de lo previsto por la Ley del Sistema Estatal Anticorrupción, y de la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí;
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2015)</small>
+XVII. Fiscalizar de manera coordinada con el Órgano Interno de Control de la Federación, o de quien haga sus veces, la obra pública federal programada para el Municipio, en los términos de los convenios, acuerdos o programas conjuntos de trabajo;
 
-XIV. PRESENTAR ANUALMENTE AL AYUNTAMIENTO, EL PLAN DE TRABAJO; ASÍ COMO EL CALENDARIO DE AUDITORÍAS Y LAS REVISIONES CORRESPONDIENTES; EN LA PRIMERA QUINCENA DEL MES (SIC) ENERO DE CADA AÑO, Y
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2015)</small>
+XVIII. Solicitar el apoyo de la Contraloría General y Auditoría Superior del Estado, en la implantación de sistemas y órganos de control y evaluación municipal, en el marco del Sistema Estatal de Fiscalización y los convenios particulares que se establezcan;
 
-XV. Las demás que le señalen las leyes y reglamentos municipales.
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Inspeccionar y vigilar la aplicación de los subsidios y fondos que el Estado otorgue al municipio, dependencias y entidades de la administración pública; y, en su caso los que otorgue la Federación, previo acuerdo con ésta;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Intervenir en los procesos de entrega y recepción de las oficinas de las dependencias y entidades de la administración pública municipal, a efecto de verificar el procedimiento a seguir, y conocer de las incidencias que pudieran resultar en faltas administrativas;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXI. Auxiliar a las dependencias y entidades de la administración pública en la prevención de irregularidades en los procesos administrativos;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXII. Normar, coordinar y evaluar el desempeño de los órganos internos de control de las dependencias y entidades de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII. Designar y remover libremente a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Paramunicipal, quienes dependerán jerárquica y funcionalmente de la Contraloría Interna Municipal; asimismo, designar y remover libremente a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control, quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales, representando al titular de dicha Contraloría;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV. Designar y remover para el mejor desarrollo del Sistema de Control Interno de la Gestión Gubernamental, delegados de la propia Contraloría ante las dependencias y órganos desconcentrados de la Administración Pública Municipal descentralizada y comisarios públicos de los órganos de gobierno o vigilancia de las entidades de la Administración Pública Paramunicipal; así como normar y controlar su desempeño;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXV. Designar y remover a los auditores externos de las entidades de la administración pública paramunicipal, así como normar y controlar su desempeño;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXVI. Promover la innovación gubernamental y la mejora de la gestión pública en las dependencias y entidades de la Administración Pública Municipal, bajo los principios de participación ciudadana, transparencia, rendición de cuentas e innovación, y con criterios de eficacia, legalidad, eficiencia y simplificación administrativa, para lo cual podrá emitir normas, lineamientos específicos y manuales; así mismo, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXVII. Desarrollar y aplicar mecanismos de verificación, competencias y cumplimiento de metas individuales de los servidores públicos de la administración pública municipal, en base a la política y lineamientos para la administración de los recursos humanos que expida la Oficialía Mayor o la que haga sus veces;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXVIII. Verificar que se dé cumplimiento a lo establecido en materia de certificación y evaluación de conocimientos en los términos establecidos en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXIX. Colaborar en el marco de los Sistemas Nacionales Anticorrupción y de Fiscalización, así como con los correspondientes en la Entidad, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXX. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXXI. Suspender de acuerdo a lo establecido en la normatividad aplicable, en el manejo, custodia o administración de recursos y valores de la propiedad o al cuidado del Gobierno del Municipal (sic), a los servidores públicos responsables de irregularidades, interviniendo los recursos y valores correspondientes, dando aviso de ello al titular de la dependencia o ente de que se trate y, en su caso, al Cabildo para la sustitución correspondiente;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXXII. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Cabildo, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos municipales, y promover ante las autoridades competentes las acciones que procedan, para corregir las irregularidades detectadas;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIII. Vigilar el cumplimiento de la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Municipal, que apruebe la comisión edilicia de transparencia;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIV. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Municipal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXXV. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Nacional y Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVI. Establecer un sistema para seleccionar a los integrantes de los órganos internos de control sujetos a su designación, que garantice la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVII. Emitir el Código de Ética de los servidores públicos de la Administración Pública Municipal, y las Reglas de Integridad para el ejercicio de la función pública;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVIII. Recibir, tramitar y resolver las inconformidades o impugnaciones que formulen los particulares con motivo de los actos realizados por los servidores públicos de las dependencias y entidades de la administración pública municipal, en materia de adquisiciones, arrendamientos, obras públicas y servicios relacionados con las mismas, y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ### CAPITULO VIII. Del Departamento de Asuntos Indígenas
 
@@ -1617,11 +1717,13 @@ XIX. Las demás que les confiera esta Ley y otras disposiciones legales.
 
 ### CAPITULO IX. De las Comisiones del Ayuntamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
 ### CAPITULO X. De los Delegados Municipales
 
 ###### ARTICULO 89.
 
-En la primera sesión del año en que se instale el Ayuntamiento, se procederá a nombrar de entre sus miembros a los que formarán las comisiones permanentes, mismas que vigilarán el ramo de la administración que se les encomiende; dichas comisiones serán las siguientes:
+En la primera sesión del año en que se instale el Ayuntamiento, se procederá a nombrar de entre sus miembros a los que formarán las comisiones permanentes, mismas que vigilarán el ramo de la administración que se les encomiende; dichas comisiones estarán conformadas por lo menos con tres integrantes, y serán las siguientes:
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
@@ -1683,13 +1785,17 @@ XIV. Policía Preventiva, Vialidad y Transporte;
 
 XV. Salud Pública y Asistencia Social;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-XVI. Servicios, y
+XVI. Servicios;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-XVII. Vigilancia.
+XVII. Vigilancia, y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Transparencia y Acceso a la Información.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
 
@@ -2964,3 +3070,11 @@ P.O. 22 DE JUNIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor a partir del uno de octubre de dos mil dieciocho, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1179.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
