@@ -4,7 +4,7 @@ identifier: "VER-ley-de-fomento-al-empleo-del-estado-de-veracruz-de-ignacio-8770
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-09"
-last_updated: "2018-09-10"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 549 DE FOMENTO AL EMPLEO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Veracruz, el miércoles 9 de mayo de 2012.
 
@@ -69,7 +69,9 @@ III. Patrón: La persona física o moral que tenga ese carácter, en términos d
 
 IV. Trabajador de reciente ingreso: La persona que preste sus servicios a un patrón y que reúna una o más de las siguientes características:
 
-a. Tener entre catorce y veintinueve años de edad, sin previamente haber causado alta ante el Instituto Mexicano del Seguro Social, con educación obligatoria terminada, salvo los casos de excepción que apruebe la autoridad correspondiente, de acuerdo a lo señalado en el artículo 22 de la Ley Federal del Trabajo, y con la autorización de sus padres o tutores a que se refiere el artículo 23 de la propia Ley;
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+a. Tener entre quince y veintinueve años de edad, sin previamente haber causado alta ante el Instituto Mexicano del Seguro Social, con educación obligatoria terminada, salvo los casos de excepción que apruebe la autoridad correspondiente, de acuerdo a lo señalado en los artículos 22 y 22 bis de la Ley Federal del Trabajo.
 
 b. Ser recién egresado de una universidad, tecnológico, colegio de bachilleres u otro centro de preparación académica sin que previamente haya causado alta ante el Instituto Mexicano del Seguro Social;
 
@@ -226,3 +228,11 @@ G.O. 10 DE SEPTIEMBRE DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 700 POR EL QUE SE REFORMA EL INCISO A) DE LA FRACCIÓN IV DEL ARTÍCULO 3 DE LA LEY DE FOMENTO AL EMPLEO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
