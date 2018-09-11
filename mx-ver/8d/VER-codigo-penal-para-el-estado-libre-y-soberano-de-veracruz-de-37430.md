@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2018-09-04"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1339,9 +1339,9 @@ IV. A juicio de dos médicos, exista razón suficiente de que el producto padece
 
 A quien ejerza cualquier tipo de violencia física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, comparta éste o no, en contra de su cónyuge, concubina o concubinario, pariente hasta el cuarto grado en ambas líneas o incapaz sobre el que sea tutor o curador, se le impondrán, independientemente de las sanciones que correspondan por cualquier otro delito, de cuatro a seis años de prisión, multa de hasta seiscientas Unidades de Medida y Actualización, caución de no ofender y, en su caso, pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio, patria potestad o tutela.
 
-> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-En caso de que la víctima sea mujer, se sancionará con pena de cuatro a siete años de prisión y multa de hasta setecientas Unidades de Medida y Actualización, además se sujetará al activo a las medidas reeducativas que establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave, las que, en ningún caso, excederán del tiempo impuesto en la pena de prisión.
+En caso de que la víctima sea mujer o menor de edad, se sancionará con pena de cuatro a siete años de prisión y multa de hasta setecientos días de salario. En ambos casos, se sujetará al activo a las medidas reeducativas que establezca la Ley en la materia o la autoridad competente, las que, en ningún caso, excederán del tiempo impuesto en la pena de prisión.
 
 > <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -2658,6 +2658,10 @@ No procederá el perdón para quien habiéndolo obtenido sea procesado nuevament
 ###### Artículo 241.
 
 A quien le una parentesco con persona menor de dieciocho años de edad o incapaz, o a quien por instrucciones de aquél, sin causa justificada o sin orden de autoridad competente, la sustraiga de la custodia o guarda de quien la tenga de hecho o por derecho, o bien la retenga sin la voluntad de ésta, se le impondrán de dos a nueve años de prisión y multa de hasta cien días de salario.
+
+> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+La pena señalada en el párrafo anterior se aumentará en una mitad a la persona cónyuge, concubina o concubinaria, o con quien existió una relación de pareja, sea padre o madre del menor o incapaz, que sustraiga, retenga u oculte a un hijo menor de edad o incapaz, con la finalidad de obligar al otro a dar, hacer o dejar de hacer algo.
 
 ###### Artículo 242.
 
@@ -4970,5 +4974,21 @@ G.O. 4 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 678 POR EL QUE SE DEROGA EL CAPÍTULO II TER DEL TÍTULO XVII DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor treinta días posteriores a su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 719 POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 241 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 720 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 154 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
