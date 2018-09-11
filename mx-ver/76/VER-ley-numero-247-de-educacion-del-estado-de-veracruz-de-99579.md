@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2018-08-23"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -297,7 +297,9 @@ XV. Coadyuvar con las autoridades educativas federales en la operación y manten
 
 XVI. Elaborar y proponer, a las autoridades educativas federales, contenidos regionales para garantizar la calidad de la educación, previendo lo necesario para revisar el modelo educativo en su conjunto, los planes y programas, y los materiales y métodos educativos;
 
-XVII. Editar libros y producir otros materiales didácticos complementarios a los libros de texto gratuito, con pleno respeto a los principios y disposiciones establecidos en el artículo 3° de la Constitución F ederal (sic), en el artículo 10 de la Constitución del Estado y demás ordenamientos aplicables;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Editar libros impresos o digitales y producir otros materiales didácticos complementarios a los libros de texto gratuito y realizar su difusión mediante el uso de los más recientes avances tecnológicos, con pleno respeto a los principios y disposiciones establecidos en el artículo 3º de la Constitución Federal, en el artículo 10 de la Constitución del Estado y demás ordenamientos aplicables;
 
 XVIII. Operar un sistema estatal de formación, actualización y desarrollo profesional para docentes de educación básica y de media superior, que deberá sujetarse a lo dispuesto por la Ley General del Servicio Profesional Docente, en esta ley y demás disposiciones aplicables;
 
@@ -343,7 +345,9 @@ VII. Coordinarse para fortalecer la educación especial y la educación inicial,
 
 VIII. Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar;
 
-IX. Editar libros y producir otros materiales didácticos, complementarios de los previstos en las secciones inmediatas anteriores, con pleno respeto a los principios y disposiciones establecidos en el artículo 3° de la Constitución Federal, en el artículo 10 de la Constitución del Estado y demás ordenamientos aplicables;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Editar libros impresos o digitales y producir otros materiales didácticos, complementarios de los previstos en las secciones inmediatas anteriores y lograr su difusión mediante el uso de los más recientes avances tecnológicos, con pleno respeto a los principios y disposiciones establecidos en el artículo 3º de la Constitución Federal, en el artículo 10 de la Constitución del Estado y demás ordenamientos aplicables;
 
 X. Crear y promover el establecimiento de bibliotecas públicas y centros de información documental, para apoyar al sistema educativo nacional, estatal y municipal, con el fin de elevar el nivel cultural de la comunidad;
 
@@ -1685,9 +1689,15 @@ IV. El reglamento interno que norme las actividades académicas y administrativa
 
 Los particulares deberán refrendar cada tres años las autorizaciones o los reconocimientos de validez oficial de estudios que les hayan sido otorgados, en términos de las disposiciones reglamentarias aplicables.
 
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 165.
 
-Las autoridades educativas estatales competentes publicarán, anualmente, en la Gaceta Oficial, una relación de las instituciones a las que conceda autorización o reconocimiento de validez oficial de estudios. Asimismo, publicarán oportunamente y en cada caso, la inclusión o la supresión, en esa lista, de las instituciones a las que revoque o retire las autorizaciones o reconocimientos respectivos.
+Las autoridades educativas estatales competentes publicarán, anualmente, en la Gaceta Oficial y en sus portales electrónicos, una relación de las instituciones a las que hayan concedido autorización o reconocimiento de validez oficial de estudios. Asimismo, publicarán oportunamente y en cada caso, la inclusión o la supresión, en esa lista, de las instituciones a las que revoquen o retiren las autorizaciones o reconocimientos respectivos.
+
+La Secretaría de Educación de Veracruz contará con un área especial en sus instalaciones y con personal capacitado que asesore y brinde información a los usuarios que requieran datos relacionados con las autorizaciones o reconocimientos de validez oficial de estudios que se hayan concedido, negado o retirado a los particulares que impartan educación en el Estado. Lo anterior, a efecto de que los interesados en alguna oferta educativa, estén en condiciones de tomar decisiones informadas.
+
+Para un mejor cumplimiento de esta responsabilidad, la autoridad educativa estatal deberá coordinarse con la Secretaría de Educación Pública de la Administración Pública Federal y con sus homólogas en los Estados, a efecto de facilitar la cooperación e intercambio de información en materia de autorizaciones o reconocimientos de validez oficial de estudios, o con cualquier otro tipo de certificación que esté reconocido por dichas autoridades, y por medio de los cuales se brinde certeza y una efectiva garantía de la calidad del programa o plan de estudios ofertado al interesado.
 
 Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios, deberán incluir en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
 
@@ -1709,9 +1719,13 @@ La Autoridad Educativa Estatal procurará llevar a cabo una visita de inspecció
 
 Para garantizar la calidad de la educación obligatoria brindada por los particulares, las autoridades educativas, en el ámbito de sus atribuciones, evaluarán el desempeño de los maestros que prestan sus servicios en estas instituciones. Para tal efecto, dichas autoridades deberán aplicar evaluaciones del desempeño, derivadas de los procedimientos análogos a los determinados por los lineamientos emitidos por el Instituto Nacional para la Evaluación de la Educación, para evaluar el desempeño de los docentes en educación básica y de media superior en instituciones públicas. Las autoridades educativas otorgarán la certificación correspondiente a los maestros que obtengan resultados satisfactorios y ofrecerán cursos de capacitación y programas de regularización a los que presenten deficiencias, para lo cual las instituciones particulares otorgarán las facilidades necesarias a su personal.
 
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 167.
 
-Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
+Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial deberán mencionarlo en su correspondiente documentación y publicidad.
+
+Asimismo, deberán señalarlo directa y expresamente y por escrito al interesado en su oferta educativa al momento de que este realice la inscripción al programa de estudios de que se trate.
 
 ###### Artículo 168.
 
@@ -1873,7 +1887,9 @@ II. Incumplir con lo dispuesto en el artículo 167; o
 
 III. Impartir cualquier tipo de educación, sin contar con la autorización correspondiente.
 
-En los supuestos previstos en este artículo, además de aplicarse las sanciones señaladas en este capítulo, podrá procederse a la clausura del plantel donde se cometan las infracciones a esta ley.
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+En los supuestos previstos en este artículo, se aplicará una multa hasta por nueve mil veces el valor diario vigente de la Unidad de Medida y Actualización y además se procederá a la clausura del plantel donde se cometan las infracciones a esta ley.
 
 ###### Artículo 182.
 
@@ -2070,5 +2086,21 @@ G.O. 23 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 670 QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 103, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 60 DUODECIES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y ADICIONA UN PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 18, DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 722 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 724 QUE REFORMA LOS ARTÍCULOS 165, 167 Y 181 PÁRRAFO SEGUNDO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
