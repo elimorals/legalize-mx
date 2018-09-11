@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2017-11-23"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE OCTUBRE DE 2018 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -669,7 +667,9 @@ XVIII. Solicitar en representación de las mujeres víctimas menores de 18 años
 
 XIX. Instrumentar en coordinación con instancias integrantes del Sistema Estatal, programas y campañas que contribuyan a la prevención y erradicación de la violencia de género;
 
-XX. Prestar servicios jurídicos gratuitos y especializados de orientación, asesoría y defensa a las víctimas de violencia en los términos de esta Ley;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Prestar servicios jurídicos gratuitos y especializados de orientación, asesoría y defensa a las víctimas de violencia durante todo el proceso penal en los términos de esta Ley;
 
 XXI. Diseñar e instrumentar la formación de las y los servidores públicos, vía cursos, seminarios, talleres, diplomados y/o especialidades académicas;
 
@@ -1096,3 +1096,11 @@ G.O. 23 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, a excepción de la Reforma al Código Electoral cuya vigencia iniciará una vez concluido el proceso electoral 2016-2017.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 721 POR EL QUE SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 20 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
