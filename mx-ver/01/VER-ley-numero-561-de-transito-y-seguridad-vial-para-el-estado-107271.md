@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-561-de-transito-y-seguridad-vial-para-el-estado-1072
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-13"
-last_updated: "2017-11-23"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "VER"
 ---
 # LEY NUMERO 561 DE TRANSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE SEPTIEMBRE DE 2018 EN LA GACETA OFICIAL DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
@@ -1703,7 +1707,9 @@ b) Cuando se cause la muerte, de ciento uno a doscientos.
 
 Cuando con una misma conducta se infrinjan dos o más disposiciones de esta Ley o de su Reglamento, se anotarán en la boleta de infracción los folios correspondientes.
 
-El pago dentro de los cinco días siguientes a la imposición de la sanción, dará lugar a un descuento del cincuenta por ciento en su total, salvo cuando se conduzca en estado de ebriedad, caso en el cual no habrá descuento.
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+El pago de las multas dará lugar a descuentos sobre el valor total, siempre y cuando se dé dentro de los siguientes plazos: el setenta y cinco por ciento dentro de los primeros cinco días; el cincuenta por ciento dentro de los días sexto al décimo, el veinticinco por ciento dentro del día undécimo al decimoquinto y el diez por ciento dentro de los días decimosexto al vigésimo. Los plazos se computarán en días hábiles y correrán al día posterior de su imposición, salvo cuando se conduzca en estado de ebriedad, caso en el que no habrá descuento.
 
 Las multas impuestas a los conductores con motivo de las infracciones a la Ley, no implican la omisión en la observancia de las disposiciones penales aplicables, respecto de aquellos casos en los que se acredite la comisión de un delito.
 
@@ -1901,8 +1907,18 @@ Cuarto. A la entrada en vigor del presente Decreto, todas las menciones al salar
 
 G.O. 23 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 338 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 338 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 701 POR EL QUE SE REFORMA El ARTÍCULO 153 EN SU PENÚLTIMO PÁRRAFO DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. El reglamento de esta Ley deberá ser adecuado en el término de noventa días naturales a partir de la vigencia del presente Decreto.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
