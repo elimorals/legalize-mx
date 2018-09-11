@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2018-07-12"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -505,9 +505,13 @@ La Tesorería podrá autorizar expresamente la aceptación de otros instrumentos
 
 Para determinar las contribuciones se considerarán las fracciones del peso; para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediata inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediata superior.
 
-Para los efectos de este Código, se entenderá por salario mínimo el establecido como tal para el Municipio en las disposiciones legales respectivas de orden federal.
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, y los mismos se fijen en salarios mínimos, el cobro se realizará conforme al vigente al momento de su incumplimiento.
+Para los efectos de este Código, se entenderá por Unidad de Medida y Actualización a la unidad de cuenta, para determinar la cuantía del pago de las obligaciones y supuestos previstos en el presente ordenamiento.
+
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, el cobro se realizará conforme a la Unidad de Medida y Actualización vigente al momento del pago.
 
 ###### Artículo 39.
 
@@ -1187,27 +1191,41 @@ Las autoridades fiscales impondrán las sanciones administrativas por infracció
 
 I. Las infracciones que establece el artículo 88 de este Código serán sancionadas con multa equivalente a los montos que a continuación se señalan:
 
-a) De cinco a quince días de salario mínimo, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-b) De quince a treinta días de salario mínimo, por infracción a las fracciones XX, XXII y XXIII.
+a) De 5.483 a 16.444 UMA, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
 
-c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+b) De 16.444 a 32.888 UMA, por infracción a las fracciones XX, XXII y XXIII.
+
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+c) De 32.888 a 54.813 UMA, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
 
 II. La infracción que establece la fracción XXI del artículo 88 de este Código, se sancionará con multa de cien a ciento cincuenta por ciento del crédito omitido;
 
-III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de cincuenta a cien días de salario mínimo;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de setenta y cinco a cien días de salario mínimo; y
+III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de 54.813 a 109.627 UMA;
 
-V. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de cuarenta y cinco a noventa días de salario mínimo.
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de 82.220 a 109.627 UMA; y
+
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+V. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de 49.330 a 98.660 UMA.
 
 Cuando por un acto o una omisión se incurra en varias infracciones a las que correspondan diversas multas, sólo se impondrá la multa mayor.
 
 Los ingresos que el Municipio obtenga por la aplicación de multas y sanciones establecidas en disposiciones reglamentarias, así como en otros ordenamientos de carácter hacendario, se enterarán de conformidad con los montos que establezcan los ordenamientos que las contengan.
 
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 93.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de cinco a cien días de salario mínimo.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 5.483 a 109.627 UMA.
 
 ## TÍTULO QUINTO. DE LOS DELITOS FISCALES
 
@@ -1335,7 +1353,9 @@ II. De nueve meses a cuatro años de prisión, al que imprima, grabe o troquele,
 
 III. De nueve meses a tres años de prisión, al que altere en sus características las cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal; y
 
-De seis meses a dos años de prisión y una multa de treinta a quinientos días de salario mínimo, a quien forme las cosas y objetos señalados en los incisos anteriores con los fragmentos de otros recortados o mutilados.
+> <small>(REFORMADA [N. DE E. Y REUBICADA ANTES ÚLTIMO PÁRRAFO], G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+IV. De seis meses a dos años de prisión y una multa de 32.888 a 548.135 UMA, a quien forme las cosas y objetos señalados en los incisos anteriores con los fragmentos de otros recortados o mutilados.
 
 ###### Artículo 110.
 
@@ -1363,7 +1383,11 @@ X. Utilizar sellos, documentación u otro medio de control fiscal falsificados o
 
 XI. Permitir el uso de su nombre para manifestar negociaciones ajenas.
 
-El delito de defraudación fiscal se sancionará con pena de tres meses a cuatro años de prisión, si el monto de la prestación fiscal defraudada no excede de mil días de salario mínimo, y con prisión de un año a seis años, si dicho monto excede de esa cantidad.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 706 DE FECHA 11 DE SEPTIEMBRE DE 2018, PÁGINA 10.]</small>
+
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+El delito de defraudación fiscal se sancionará con pena de tres meses a cuatro años de prisión, si el monto de la prestación fiscal defraudada no excede de 1,096.277 UMA, y con prisión de un año a seis años, si dicho monto excede de esa cantidad.
 
 Cuando no se pueda determinar la cuantía del impuesto que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -1391,9 +1415,11 @@ c) Imprima u ordene imprimir formas de control fiscal o emita u ordene la emisi�
 
 Altere documentación oficial o expida una falsa en cualquier tipo de trámite del orden fiscal.
 
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 112.
 
-Se impondrá prisión de seis meses a tres años y se impondrá multa de treinta a quinientos días de salario mínimo, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
+Se impondrá prisión de seis meses a tres años y se impondrá multa de 32.888 a 548.135 UMA, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
 
 # LIBRO TERCERO. DE LOS INGRESOS MUNICIPALES
 
@@ -1489,7 +1515,9 @@ Cuando la Tesorería advierta que un inmueble ha salido del dominio público de 
 
 Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
-Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil salarios mínimos.
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de 6,577.667 UMA.
 
 > <small>(ADICIONADO, G.O. 8 DE JULIO DE 2011)</small>
 
@@ -1497,9 +1525,11 @@ Las instituciones que se rijan por la Ley de Instituciones de Beneficencia Priva
 
 A este descuento no se podrá adicionar el previsto en el artículo 118 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 122.
 
-El impuesto anual a pagar no podrá ser menor a tres salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
+El impuesto anual a pagar no podrá ser menor a 3.288 UMA, excepto lo dispuesto por el artículo 118 de este Código.
 
 El pago de este impuesto se considerará definitivo, salvo prueba en contrario.
 
@@ -1675,7 +1705,9 @@ VI. Por los arrendatarios financieros al ejercer la opción de compra en los té
 
 VII. Por las asociaciones religiosas constituidas en los términos de la ley de la materia, siempre que en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
 
-En la enajenación de predios derivada de programas de regularización de la tenencia de la tierra, que realicen organismos federales, estatales o municipales, se pagará este impuesto con una cuota fija equivalente al cincuenta por ciento de un salario mínimo diario.
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+En la enajenación de predios derivada de programas de regularización de la tenencia de la tierra, que realicen organismos federales, estatales o municipales, se pagará este impuesto con una cuota fija equivalente al cincuenta por ciento de una Unidad de Medida y Actualización.
 
 ###### Artículo 142.
 
@@ -1879,9 +1911,11 @@ VI. Retener y enterar el impuesto que corresponda, conforme a los artículos 154
 
 VII. Proporcionar constancia de retención de impuestos a la persona que obtenga el premio.
 
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 159.
 
-No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a los cuatrocientos salarios mínimos en el Municipio.
+No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a 438.511 UMA.
 
 ###### Artículo 160.
 
@@ -1903,11 +1937,11 @@ Son sujetos de este impuesto, las personas físicas o morales, ya sean propietar
 
 Este impuesto se causará mensualmente por cada establecimiento en que se celebren juegos permitidos.
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 164.
 
-Este impuesto se causará y pagará conforme a una tarifa mensual, fijada en salarios mínimos en la Ley de Ingresos del Municipio para el ejercicio fiscal de que se trate, por mesa o máquina de juego.
+Este impuesto se causará y pagará conforme a una tarifa mensual, fijada en Unidades de Medida y Actualización en la Ley de Ingresos del Municipio para el ejercicio fiscal de que se trate, por mesa o máquina de juego.
 
 ###### Artículo 165.
 
@@ -2109,9 +2143,9 @@ Son sujetos de este derecho las personas físicas o morales que soliciten del Ay
 
 El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
 
-(REFORMADO, G.O. 14 DE FEBRERO DE 2003) (REPUBLICADO, G.O. 28 DE FEBRERO DE 2003)
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero sus propietarios cumplirán los requisitos que para el otorgamiento de aquéllos señalen los reglamentos municipales y cubrirán, en su caso, el pago de las formas valoradas que correspondan, que no podrá exceder de un salario mínimo.
+En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero sus propietarios cumplirán los requisitos que para el otorgamiento de aquéllos señalen los reglamentos municipales y cubrirán, en su caso, el pago de las formas valoradas que correspondan, que no podrá exceder de una Unidad de Medida y Actualización.
 
 Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público en general, en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
 
@@ -2127,11 +2161,13 @@ Las licencias, permisos o autorizaciones son intransferibles, otorgados para una
 
 Los permisos o autorizaciones de carácter temporal, para giros comerciales que enajenen o expendan bebidas alcohólicas, tendrán un costo proporcional al número de días para el cual se expidan, en relación con la cuota que corresponda de acuerdo a su giro. En ningún caso el costo será menor al que corresponda a quince días.
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
-
 ###### Artículo 202.
 
-La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca la reglamentación municipal respectiva o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general. Las cuotas o tarifas por la expedición de esas licencias se fijarán en salarios mínimos, respecto de los giros siguientes:
+La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca la reglamentación municipal respectiva o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO, ANTES PARTE FINAL DEL PÁRRAFO PRIMERO], G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+Las cuotas o tarifas por la expedición de esas licencias se fijarán en Unidades de Medida y Actualización, respecto de los giros siguientes:
 
 I. Abarrotes con venta de cerveza;
 
@@ -2273,11 +2309,11 @@ En el caso de que el servicio se preste en rebeldía del usuario, se notificará
 
 Los servicios de deslinde de predios tendrán como base la superficie del predio y se realizarán por peritos designados por el Ayuntamiento. Si practicado el deslinde resulta una diferencia en la superficie del predio, superior o inferior, sobre la que se utilizó como base para el pago de los derechos, se hará el ajuste correspondiente, procediendo al cobro o devolución, según el caso.
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 212.
 
-Los derechos por obras materiales se causarán y pagarán, en salarios mínimos, por los servicios siguientes:
+Los derechos por obras materiales se causarán y pagarán, en Unidades de Medida y Actualización, por los servicios siguientes:
 
 I. Por derechos de alineamiento de predios, calculados sobre el total de metros lineales que tenga el terreno frente a la vía pública, en términos de la normatividad aplicable, conforme a los usos de los terrenos y en todos los casos con rangos de 1 a 10 metros lineales, de más de 10 a 50, y de más de 50: habitacional, con categorías residencial, media, de interés social y popular; o comercial, industrial, agropecuario o de servicio;
 
@@ -2409,17 +2445,17 @@ III. Evaluación de impacto ambiental; y
 
 IV. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
 
-a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio:
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-0.02 salarios mínimos
+a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio: 0.0219 UMA;
 
-b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción:
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-0.25 salarios mínimos
+b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.0219 UMA;
 
-c) Por información grabada en disco de 3.5 pulgadas o disco compacto, por copia:
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-0.30 salarios mínimos
+c) Por información grabada en disco de 3.5 pulgadas o disco compacto, por copia: 0.0328 UMA.
 
 El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
 
@@ -2649,11 +2685,11 @@ Son objeto de estos derechos los servicios de inscripción de actos del estado c
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 246.
 
-Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, por los servicios siguientes:
+Los derechos a que se refiere este Capítulo se causarán y pagarán, en Unidades de Medida y Actualización, por los servicios siguientes:
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
@@ -2885,9 +2921,13 @@ Los productos a que se refieren las fracciones I a IV del artículo anterior se 
 
 Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico-coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán por concepto de almacenaje, por períodos mensuales vencidos, las cuotas siguientes:
 
-I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día, 0.02 salarios mínimos; y
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza, 0.04 salarios mínimos.
+I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día, 0.0219 UMA; y
+
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza, 0.0438 UMA.
 
 Además de las cuotas que señala esta fracción, se cobrará el importe de la manutención y el gasto del cuidado de los animales depositados.
 
@@ -5033,8 +5073,16 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 12 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 654 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 474 DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 654 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 474 DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 706 QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
