@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2018-09-04"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1339,9 +1339,9 @@ IV. A juicio de dos médicos, exista razón suficiente de que el producto padece
 
 A quien ejerza cualquier tipo de violencia física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, comparta éste o no, en contra de su cónyuge, concubina o concubinario, pariente hasta el cuarto grado en ambas líneas o incapaz sobre el que sea tutor o curador, se le impondrán, independientemente de las sanciones que correspondan por cualquier otro delito, de cuatro a seis años de prisión, multa de hasta seiscientas Unidades de Medida y Actualización, caución de no ofender y, en su caso, pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio, patria potestad o tutela.
 
-> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-En caso de que la víctima sea mujer, se sancionará con pena de cuatro a siete años de prisión y multa de hasta setecientas Unidades de Medida y Actualización, además se sujetará al activo a las medidas reeducativas que establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave, las que, en ningún caso, excederán del tiempo impuesto en la pena de prisión.
+En caso de que la víctima sea mujer o menor de edad, se sancionará con pena de cuatro a siete años de prisión y multa de hasta setecientos días de salario. En ambos casos, se sujetará al activo a las medidas reeducativas que establezca la Ley en la materia o la autoridad competente, las que, en ningún caso, excederán del tiempo impuesto en la pena de prisión.
 
 > <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -2658,6 +2658,10 @@ No procederá el perdón para quien habiéndolo obtenido sea procesado nuevament
 ###### Artículo 241.
 
 A quien le una parentesco con persona menor de dieciocho años de edad o incapaz, o a quien por instrucciones de aquél, sin causa justificada o sin orden de autoridad competente, la sustraiga de la custodia o guarda de quien la tenga de hecho o por derecho, o bien la retenga sin la voluntad de ésta, se le impondrán de dos a nueve años de prisión y multa de hasta cien días de salario.
+
+> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+La pena señalada en el párrafo anterior se aumentará en una mitad a la persona cónyuge, concubina o concubinaria, o con quien existió una relación de pareja, sea padre o madre del menor o incapaz, que sustraiga, retenga u oculte a un hijo menor de edad o incapaz, con la finalidad de obligar al otro a dar, hacer o dejar de hacer algo.
 
 ###### Artículo 242.
 
@@ -4973,29 +4977,21 @@ Primero. El presente Decreto entrará en vigor treinta días posteriores a su pu
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE GUARDIA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 26 DE MARZO DE 2019”.]
+G.O. 11 DE SEPTIEMBRE DE 2018.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 719 POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 241 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo.- A partir de la entrada en vigor del presente Decreto, el Consejo Nacional de Seguridad Pública determinará el grado de avance en el diagnóstico y los programas señalados en el Artículo Séptimo transitorio del Decreto de fecha 26 de marzo de 2019 en materia de Guardia Nacional, a fin de dar cumplimiento a lo establecido en el segundo párrafo de dicho transitorio.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-A partir del ejercicio fiscal 2023 el Ejecutivo Federal establecerá un fondo permanente de apoyo a las entidades federativas y municipios destinado al fortalecimiento de sus instituciones de seguridad pública. Dicho fondo se establecerá de forma separada e identificable respecto de cualquier otro ramo o programa destinado a otros propósitos en el Presupuesto de Egresos de la Federación, y no podrá ser inferior en términos porcentuales al incremento que reciba la Fuerza Armada permanente y la Guardia Nacional para tareas de seguridad pública cada año. Los recursos de dicho fondo no podrán ser utilizados para otro fin.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-El fondo a que se refiere el párrafo anterior se distribuirá en proporción directa al número de habitantes con que cuente cada entidad federativa, de acuerdo con la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística y Geografía. Hasta un veinticinco por ciento de dicho fondo se asignará a las entidades federativas con mejores resultados en materia de seguridad pública, conforme los indicadores que establezca el Consejo Nacional de Seguridad Pública.
+G.O. 11 DE SEPTIEMBRE DE 2018.
 
-En adición a los recursos federales establecidos en el presente artículo transitorio, los titulares de los poderes ejecutivos de las entidades federativas establecerán anualmente un fondo de apoyo a las instituciones de seguridad pública de los municipios, en especial aquellos con menor población o mayor grado de marginación. Los recursos que se asignen por cada entidad federativa deberán ser al menos en una proporción uno a uno respecto de los recursos federales a que se refiere este mismo artículo transitorio.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 720 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 154 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE VERACRUZ”.]
 
-Las partidas presupuestales a que hacen referencia los párrafos anteriores no se exceptuarán de la transparencia y fiscalización superior por razones de seguridad nacional y deberán ser utilizadas de conformidad con lo establecido en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-Tercero.- Los procedimientos en trámite y pendientes de resolución en el Poder Judicial de la Federación a la entrada en vigor de este Decreto, se continuarán sustanciando hasta su resolución de fondo sin sobreseerse por cambio en la norma impugnada, y se resolverán conforme al régimen jurídico vigente al momento de su presentación.
-
-D.O.F. 8 DE MAYO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE DECLARA ADICIONADA UNA FRACCIÓN X AL ARTÍCULO 116 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SÍMBOLOS DE LAS ENTIDADES FEDERATIVAS”.]
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 29 DE MAYO DE 2023.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## Transitorio
 
