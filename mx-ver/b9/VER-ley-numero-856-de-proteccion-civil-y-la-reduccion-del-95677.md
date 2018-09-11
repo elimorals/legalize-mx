@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-856-de-proteccion-civil-y-la-reduccion-del-95677"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-01"
-last_updated: "2018-02-22"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 856 DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 1 de agosto de 2013.
 
@@ -747,7 +747,13 @@ XIII. Realizar visitas de verificación y de supervisión técnica, y emitir dic
 
 XIV. Participar y promover el establecimiento de políticas y medidas de adaptación al cambio climático; y
 
-XV. Las demás que señalen esta Ley y otras disposiciones legales aplicables y las que le precise el Consejo Municipal.
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Difundir en la plataforma virtual del municipio o a través de cualquier medio electrónico, o medios de comunicación masivos de cada comunidad del municipio, el contenido de los programas de protección civil que sean autorizados por el Consejo Municipal; los cuales deberán ser remitidos a la Secretaría de Protección Civil en un término no mayor de 15 días posteriores a su aprobación por parte del Consejo Municipal, a fin de que dicha Secretaría conozca el contenido de estos y en su caso, en su aplicación, los vincule con los programas estatales; y
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Las demás que señalen esta Ley y otras disposiciones legales aplicables y las que le precise el Consejo Municipal.
 
 ## TÍTULO TERCERO. Instrumentos, Programas y Participación Social
 
@@ -1494,3 +1500,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
 
 Tercero. La antigüedad, prestaciones y demás derechos adquiridos a los que sean sujetos los miembros de los Cuerpos de Bomberos ya establecidos en las diferentes modalidades que prevalecen en el Estado, serán respetados por sus respectivos contratantes a partir de la entrada en vigor del presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 703 QUE REFORMA LA FRACCIÓN XV Y ADICIONA LA FRACCIÓN XVI DEL ARTÍCULO 47 DE LA LEY DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ”.]
+
+Artículo primero. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
