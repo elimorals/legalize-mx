@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2018-08-23"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 113 DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -3103,7 +3105,9 @@ V.- Recibir información suficiente, clara, oportuna y veraz, así como la orien
 
 VI.- Conocer el informe anual de gestión del Sistema de Protección Social en Salud;
 
-VII.- Contar con su expediente clínico;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+VII.- Contar con su expediente clínico físico o electrónico, que permita realizar los registros, anotaciones y certificaciones relativas a la atención en su salud;
 
 VIII.- Decidir libremente sobre su atención médica;
 
@@ -3578,3 +3582,13 @@ G.O. 23 DE AGOSTO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 715 QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 349 DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil diecinueve, para lo cual se deberán tomar las previsiones presupuestales correspondientes.
+
+Segundo. Los recursos económicos, técnicos y humanos que se requieren para el inicio de la implementación del expediente clínico electrónico al que se refiere el presente Decreto, se deberán otorgar de manera paulatina, en las unidades médicas de la Secretaría de Salud, teniendo un período de tres años para su implementación, en cada uno de los tres niveles de atención médica.
+
+Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
