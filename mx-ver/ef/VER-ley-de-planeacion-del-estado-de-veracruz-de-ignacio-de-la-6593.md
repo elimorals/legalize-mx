@@ -4,7 +4,7 @@ identifier: "VER-ley-de-planeacion-del-estado-de-veracruz-de-ignacio-de-la-6593"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-29"
-last_updated: "2018-08-23"
+last_updated: "2018-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 29 de enero de 1987.
 
@@ -53,7 +53,7 @@ DISPOSICIONES GENERALES.
 
 La presente Ley, norma el Sistema de Planeación Democrática Estatal y señala las modalidades para que el Gobernador del Estado, coordine, mediante convenios, la participación de Veracruz en la planeación nacional del desarrollo. Sus disposiciones son de orden público e interés social.
 
-REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 2o.
 
@@ -95,15 +95,15 @@ La organización y funcionamiento del Sistema Estatal de Planeación Democrátic
 
 El Sistema Estatal de Planeación Democrática contará con:
 
-> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-l. Una estructura institucional constituida por las dependencias estatales y municipales responsables de la formulación, instrumentación, control y evaluación de los programas, por el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave, el Subcomité de Planeación para el Desarrollo Metropolitano Municipal y los Comités de Planeación Municipal como foros de consulta en las diferentes etapas del proceso de planeación.
+I.- Una estructura institucional constituida por las dependencias estatales y municipales responsables de la formulación, instrumentación, control y evaluación de los programas, por el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave, el Subcomité de Planeación para el Desarrollo Metropolitano Municipal y los Institutos Municipales de Planeación.
 
 II.- Una infraestructura de apoyo constituida por las instituciones y organismos sociales y privados que participen dentro del Sistema.
 
-> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-III. El Subcomité de Planeación para el Desarrollo Metropolitano Municipal se integrará con un representante del Comité de Planeación para el Desarrollo del Estado y los representantes de los Comités de Planeación Municipales de los municipios que integran las Zonas Metropolitanas, un representante del Consejo para el Desarrollo Metropolitano del Estado de Veracruz de Ignacio de la Llave (CDMVER), un representante de la Secretaría de Desarrollo Económico y Portuario del Estado de Veracruz, un representante de la Secretaría de Protección Civil del Estado de Veracruz, un representante de la Secretaría de Medio Ambiente del Estado de Veracruz, un representante de la Secretaría de Turismo y Cultura del Estado de Veracruz, un representante de la Secretaría de Infraestructura y Obra Pública del Estado de Veracruz, un representante de la Secretaría de Desarrollo Social del Estado de Veracruz y un representante de la Secretaría de Seguridad Pública del Estado de Veracruz y expertos. El subcomité actuará por Zona Metropolitana.
+III.- El Subcomité de Planeación para el Desarrollo Metropolitano se integrará con un representante del Comité de Planeación para el Desarrollo del Estado y los representantes de los Institutos Municipales de Planeación de los municipios que integran las Zonas Metropolitanas, un representante del Consejo para el Desarrollo Metropolitano del Estado de Veracruz de Ignacio de la Llave (CDMVER), un representante de la Secretaría de Desarrollo Económico y Portuario del Estado de Veracruz, un representante de la Secretaría de Protección Civil del Estado de Veracruz, un representante de la Secretaría de Medio Ambiente del Estado de Veracruz, un representante de la Secretaría de Turismo y Cultura del Estado de Veracruz, un representante de la Secretaría de Infraestructura y Obra Pública del Estado de Veracruz, un representante de la Secretaría de Desarrollo Social del Estado de Veracruz, un representante de la Secretaría de Seguridad Pública del Estado de Veracruz, un representante de la Comisión del Agua del Estado de Veracruz y expertos. El subcomité actuará por Zona Metropolitana.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -153,7 +153,7 @@ La competencia, en materia de planeación se distribuye conforme a lo siguiente:
 
 I.- Al Gobernador del Estado le compete:
 
-REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 a).- Presidir y conducir el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave.
 
@@ -169,7 +169,7 @@ e).- Convenir con el Ejecutivo Federal, con los Ayuntamientos y con los sectores
 
 II.- A la Secretaría de Finanzas y Planeación compete:
 
-REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 a).- Coordinar y elaborar el Plan Estatal de Desarrollo y los programas que de él se deriven, con apoyo y participación de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, integradas en el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave.
 
@@ -217,55 +217,53 @@ a).- Coadyuvar en la formulación, actualización, instrumentación, control y e
 
 b).- Participar en la elaboración de los programas operativos anuales del Plan Estatal de Desarrollo.
 
-> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-c).- Participar en la elaboración de los Programas Sectoriales de Desarrollo Metropolitano Municipal de cada una de las Zonas Metropolitanas de la entidad.
+c).- Participar en la elaboración de los Programas Sectoriales de Desarrollo Metropolitano Municipal de cada una de las Zonas Metropolitanas de la entidad y
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
 VI.- A los Ayuntamientos del Estado, les compete:
 
-a).- Presidir y conducir el Comité de Planeación Municipal, por conducto de su respectivo Presidente Municipal.
+a) Implementar los Sistemas Municipales de Planeación Democrática de los cuales formarán parte la Comisión Edilicia de Planeación del Desarrollo Municipal; el Instituto Municipal de Planeación; el Comité de Planeación Municipal; el Consejo de Desarrollo Municipal; los demás consejos y comités municipales de participación social que determinan las diversas leyes, cada uno dentro de sus facultades y competencias;
 
-b).- Remitir los planes municipales de desarrollo a la Legislatura del Estado o a la Diputación Permanente, para su conocimiento, opinión y observaciones.
+b) Remitir las actualizaciones de los planes municipales de desarrollo a la Legislatura del Estado o a la Diputación Permanente, para su conocimiento, opinión y observaciones;
 
-c).- Aprobar, ejecutar y publicar el Plan Municipal de Desarrollo.
+c) Aprobar, ejecutar, evaluar, actualizar y publicar el Plan Municipal de Desarrollo y sus actualizaciones;
 
-d).- Convenir con el Ejecutivo del Estado, su participación en el proceso de planeación del desarrollo, de acuerdo con lo establecido en esta Ley.
+d) Convenir con el Ejecutivo del Estado, su participación en el proceso de planeación del desarrollo, de acuerdo con lo establecido en esta Ley;
 
-> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+e) Remitir el Programa Sectorial de Desarrollo Metropolitano Municipal a la Comisión Permanente de Desarrollo Metropolitano del Congreso del Estado, para su conocimiento, opinión y observaciones; sin perjuicio de las facultades que en la materia correspondan a la autoridad competente en materia territorial y ambiental;
 
-e).- Remitir el Programa Sectorial de Desarrollo Metropolitano Municipal a la Comisión Permanente de Desarrollo Metropolitano del Congreso del Estado, para su conocimiento, opinión y observaciones; sin perjuicio de las facultades que en la materia correspondan a la autoridad competente en materia territorial y ambiental.
+f) Publicar y ejecutar, previa aprobación del Cabildo, su Programa Sectorial de Desarrollo Metropolitano Municipal; y
 
-> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+g) Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
-f).- Publicar y ejecutar, previa aprobación del Cabildo, su Programa Sectorial de Desarrollo Metropolitano Municipal.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-g).- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
+VII.- A los Institutos Municipales de Planeación, les compete:
 
-VII.- A las Administraciones Públicas Municipales, les compete:
+a) Elaborar, evaluar y actualizar sus Planes Municipales de Desarrollo y coordinar la elaboración e implementación de los programas presupuestarios.
 
-a).- Intervenir respecto a las materias que le correspondan, en la elaboración de Planes Municipales de Desarrollo.
+b) Asegurar la participación social y privada en todos los momentos de la planeación, la congruencia de sus programas, con su propio Plan Municipal, con los Planes Estatal y Nacional de Desarrollo, en su caso los Programas Sectoriales de Desarrollo Metropolitano Municipal, así como otros planes municipales y agendas internacionales para el desarrollo suscritas por México.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+c) Coordinar la elaboración de los programas presupuestarios, e implementar el Sistema de Evaluación del Desempeño en términos del Artículo 134 de la Constitución de los Estados Unidos Mexicanos y demás leyes en la materia.
 
-b) Asegurar la congruencia de sus programas, con su propio Plan Municipal, con los Planes Estatal y Nacional de Desarrollo, en su caso los Programas Sectoriales de Desarrollo Metropolitano Municipal, así como otros planes municipales.
+d) Revisar y evaluar permanentemente la aplicación y los resultados del Plan Municipal de Desarrollo y sus programas, actualizarlos, y en su caso formar parte de los Subcomités de Planeación para el Desarrollo Metropolitano.
 
-c).- Participar en la elaboración de los programas que les corresponden, presentando las propuestas que procedan en relación a sus funciones y objetivos.
+e) Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
-d).- Verificar periódicamente la relación que guarden sus actividades, con los objetivos y prioridades de su programa, así como los resultados de su ejecución.
-
-e).- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
 VIII.- A los Comités de Planeación Municipales, compete:
 
-a).- Coadyuvar en la formulación, actualización, instrumentación, control y evaluación del Plan Municipal de Desarrollo, tomando en cuenta las propuestas de la Administración Pública Municipal, Estatal y Federal, así como los planteamientos y propuestas de las instituciones y grupos sociales, buscando su congruencia con los Planes Nacional y Estatal de Desarrollo.
+a) Coadyuvar con los Ayuntamientos a través de sus Institutos Municipales de Planeación en la formulación, actualización, instrumentación, control, evaluación y actualización del Plan Municipal de Desarrollo.
 
-b).- Colaborar en la formulación del programa operativo anual del Plan Municipal de Desarrollo.
+b) Colaborar en la formulación de los programas presupuestarios de cada una de las áreas de las administraciones públicas municipales.
 
-> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+c) Colaborar en su caso con los Subcomités de Planeación para el Desarrollo Metropolitano, en la formulación y definición conjunta de los Programas Sectoriales de Desarrollo Metropolitano Municipal que correspondan a cada uno.
 
-c).- Colaborar en su caso con los Comités de Planeación Municipal de las Zonas Metropolitanas, en la formulación y definición conjunta de los Programas Sectoriales de Desarrollo Metropolitano Municipal que correspondan a cada uno.
-
-d).- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
+d) Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
 ### CAPITULO III
 
@@ -371,17 +369,17 @@ El Gobernador del Estado, al enviar a la Legislatura del Estado, las iniciativas
 
 PLANES MUNICIPALES DE DESARROLLO Y SUS PROGRAMAS.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 26.
 
-Los planes municipales de desarrollo de cada uno de los municipios del Estado deberán tener una visión estratégica integral para el desarrollo sustentable e incluyente a mediano y largo plazo, con posible vigencia de hasta veinte años; elaborarse, en su caso actualizarse, aprobarse y publicarse dentro de un plazo improrrogable de cuatro meses, contado a partir de la fecha de la toma de posesión de los ayuntamientos respectivos. Antes de publicarse en la Gaceta Oficial del estado, los ayuntamientos remitirán su plan municipal de desarrollo o actualización en su caso, al Congreso del Estado, a efecto de que éste proceda conforme con lo previsto por el artículo 9 fracción VI, inciso b), de esta ley.
+Los planes municipales de desarrollo de cada uno de los municipios del Estado deberán tener una visión estratégica integral para el desarrollo sustentable e incluyente a mediano y largo plazo, con posible vigencia de hasta veinte años; deberán actualizarse al menos una vez al año y someterse a la aprobación en sesión de Cabildo para su publicación. Antes de publicarse las actualizaciones en la Gaceta Oficial del estado, los ayuntamientos las remitirán al Congreso del Estado, a efecto de que éste proceda conforme con lo previsto por el artículo 9 fracción VI, inciso b), de esta ley.
 
 El Plan precisará los objetivos, estrategias, indicadores y prioridades del desarrollo municipal, debiendo contener las previsiones sobre los recursos que serán asignados a tales fines, determinando los órganos responsables de su ejecución y el conjunto de las actividades económicas, sociales, deportivas y culturales a desarrollarse, las cuales deberán ser diseñadas conforme a las leyes y reglamentos de la materia, en congruencia con el Presupuesto de Egresos del ejercicio fiscal correspondiente, los programas que se deriven del plan deberán realizarse conforme a lo anterior.
 
-Si existiere omisión en la ejecución de cualquiera de las obligaciones a realizar dentro del mismo, se estará a lo dispuesto por el Capítulo VII denominado "De la Responsabilidad Administrativa" del Título Sexo de la Ley Orgánica del Municipio Libre.
+Si existiere omisión en la ejecución de cualquiera de las obligaciones a realizar dentro del mismo, se estará a lo dispuesto por el Capítulo VII denominado "De la Responsabilidad Administrativa" del Título Sexo (sic) de la Ley Orgánica del Municipio Libre.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 27.
 
@@ -389,7 +387,7 @@ El Plan Municipal indicará las estrategias, programas, acciones que deban reali
 
 El Plan Municipal de Desarrollo podrá actualizarse de acuerdo a las nuevas realidades del municipio, a los resultados obtenidos, y al seguimiento y evaluación realizados al mismo, y no podrá ser modificado en su totalidad.
 
-En caso de que se requiera de un nuevo Plan Municipal de Desarrollo se someterá a plebiscito la permanencia del plan vigente.
+En caso de que se requiera de un nuevo Plan Municipal de Desarrollo se someterá a plebiscito la permanencia del plan vigente; si el resultado de este plebiscito determina la elaboración de un nuevo Plan se procederá conforme a lo establecido en el Artículo 30 de esta Ley.
 
 El Programa Sectorial de Desarrollo Metropolitano Municipal, deberá actualizarse por la siguiente administración municipal ante el Subcomité de Planeación para el Desarrollo Metropolitano Municipal.
 
@@ -401,19 +399,23 @@ Los programas derivarán del Plan Municipal de Desarrollo y deberán guardar con
 
 Una vez aprobado el Plan Municipal y sus programas, por parte del Ayuntamiento, serán obligatorios para la Administración Pública Municipal, en el ámbito de su respectiva competencia.
 
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 30.
 
-El Plan Municipal de Desarrollo se publicará en la "Gaceta Oficial", previa su aprobación por parte del Ayuntamiento respectivo.
+Si el Plebiscito lo determina, el Ayuntamiento elaborará un nuevo Plan Municipal de Desarrollo en los términos que marca la ley, debiendo ser aprobado por el Cabildo y tendrá vigencia a partir de su publicación en la Gaceta Oficial. Antes de su publicación los ayuntamientos deberán remitirlo al Congreso al Congreso (sic) del Estado a efecto de que éste proceda conforme con lo previsto por el artículo 9 fracción VI, inciso b), de esta ley.
 
 ###### ARTICULO 31.
 
 La coordinación en la ejecución del Plan Municipal y los programas, deberá proponerse al Ejecutivo del Estado, a través de los Convenios respectivos, para su adecuada vinculación con el Plan Estatal de Desarrollo.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 32.
 
-El Plan Municipal de Desarrollo y sus programas, serán revisados y evaluados permanentemente, y serán actualizados con base en las condiciones y circunstancias imperantes. Las actualizaciones que se hagan deberán publicarse en el tablero de avisos y en la página de transparencia en cuanto sean aprobadas por el Cabildo, y al menos una vez al año en la Gaceta Oficial treinta días antes del inicio del siguiente ejercicio.
+El Plan Municipal de Desarrollo y sus programas, serán revisados y evaluados permanentemente, y serán actualizados con base en las condiciones y circunstancias imperantes. Las actualizaciones que se hagan deberán publicarse en el tablero de avisos y en la página de transparencia en cuanto sean aprobadas por el Cabildo, y al menos una vez al año en la Gaceta Oficial treinta días antes del inicio del siguiente ejercicio, debiéndose enviar al congreso para los efectos de Ley antes de su publicación.
+
+En el primer año de ejercicio constitucional, los Ayuntamientos someterán a la aprobación del Cabildo las actualizaciones de sus planes municipales de Desarrollo vigentes para su publicación en un plazo no mayor a 45 días contados a partir de la fecha de su toma de posesión. Antes de publicarse las actualizaciones en la Gaceta Oficial del estado deberán remitirlas al Congreso del Estado para los efectos de ley.
 
 ###### ARTICULO 33.
 
@@ -431,7 +433,7 @@ La revisión y análisis que haga la Legislatura, de las cuentas públicas munic
 
 COORDINACION.
 
-REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 36.
 
@@ -598,3 +600,11 @@ G.O. 23 DE AGOSTO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 710 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
