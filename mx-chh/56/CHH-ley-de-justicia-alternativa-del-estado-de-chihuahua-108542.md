@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-justicia-alternativa-del-estado-de-chihuahua-108542"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-30"
-last_updated: "2017-02-22"
+last_updated: "2018-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 30 de mayo de 2015.
 
@@ -97,6 +99,10 @@ X. Pleno: el Pleno del Supremo Tribunal de Justicia.
 
 XI. Usuario: persona física o moral que de manera voluntaria solicita o participa en alguno de los mecanismos alternativos.
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Consejo: Consejo de la Judicatura del Poder Judicial del Estado.
+
 ## Título Primero. Mecanismos Alternativos para la Solución de Controversias
 
 ### Capítulo Primero. Mecanismos Alternativos en Particular
@@ -113,11 +119,19 @@ Se entiende por conciliación el mecanismo por el cual los usuarios, de manera v
 
 Se denomina justicia restaurativa al mecanismo mediante el cual se involucra a los intervinientes de una controversia, para identificar y atender colectivamente los daños, necesidades y obligaciones de cada uno de los interesados, con el propósito de lograr la reinserción en la comunidad, la recomposición social, así como la reparación del daño o perjuicio causado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 8.
 
-La prestación de los mecanismos alternativos de solución de controversias se podrá realizar por instituciones públicas o privadas, conforme a lo dispuesto en la presente Ley, su reglamento y las demás disposiciones aplicables.
+La prestación de los mecanismos alternativos de solución de controversias se podrá realizar por instituciones públicas o privadas que lo requieran para la mejor solución de los conflictos que ante ellas se presenten, de acuerdo con sus funciones, conforme a lo dispuesto en la presente Ley, su Reglamento y las demás disposiciones legales aplicables.
 
-Los servicios brindados por particulares deberán realizarse solamente por facilitadores certificados y capacitados en la materia que corresponda.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+El servicio en materia de mecanismos alternativos de solución de controversias podrá otorgarse por facilitadoras y facilitadores oficiales, públicos y privados, capacitados y certificados en la materia correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+Las y los jueces menores, dentro del distrito judicial de su adscripción, podrán actuar en funciones de coordinadores y coordinadoras generales titulares de centros regionales, de acuerdo con lo previsto en la Ley Orgánica, en esta Ley, su Reglamento, acuerdos del Consejo y demás legislación aplicable.
 
 ###### Artículo 9.
 
@@ -225,7 +239,9 @@ IV. Proporcionar a los usuarios información y orientación sobre los mecanismos
 
 V. Vigilar que los servicios en materia de mecanismos alternativos se realicen en los términos de esta Ley.
 
-VI. Proponer al Pleno los reglamentos, manuales operativos y de organización del Instituto.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Proponer al Consejo los reglamentos, manuales operativos y de organización del Instituto.
 
 VII. Colaborar con el Instituto de Formación y Actualización Judicial en la capacitación y la evaluación de facilitadores.
 
@@ -237,9 +253,11 @@ X. Fomentar la colaboración con instituciones públicas y privadas, nacionales 
 
 XI. Las adicionales que establezcan la presente Ley y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 18.
 
-El Instituto tendrá competencia en todo el territorio del Estado, y contará con los centros que, estratégicamente distribuidos, determine el Pleno para el cumplimiento de sus fines.
+El Instituto tendrá competencia en todo el territorio del Estado, y contará con los centros que, estratégicamente distribuidos, determine el Consejo para el cumplimiento de sus fines.
 
 ###### Artículo 19.
 
@@ -301,15 +319,19 @@ VI. Obtener la certificación correspondiente en los términos de esta Ley y su 
 
 VII. Los otros que exijan las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 26.
 
-Los facilitadores adscritos al Instituto, en el ejercicio de sus funciones, deberán:
+Las y los facilitadores adscritos al Instituto, así como aquellos en funciones de facilitadores y facilitadoras oficiales y las y los públicos, en el ejercicio de sus funciones, deberán:
 
 I. Vigilar que en los procedimientos de mecanismos alternativos en los que intervengan, no se afecten derechos de terceros, intereses de menores e incapaces ni cuestiones de orden público.
 
 II. Actualizarse periódicamente en la teoría y en las técnicas de los mecanismos alternativos.
 
-III. Renovar la certificación a que alude el artículo 25 de la presente Ley cada dos años.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+III. Renovar la certificación a que alude el artículo 25 de la presente Ley, cada tres años.
 
 IV. Cerciorarse que los usuarios tengan un correcto entendimiento y comprensión del mecanismo alternativo, desde su inicio hasta su conclusión.
 
@@ -329,9 +351,15 @@ X. Cumplir las demás obligaciones que establezcan esta Ley, su reglamento y otr
 
 Los facilitadores adscritos al Instituto tendrán fe pública en los procedimientos en que participen, únicamente para los efectos del artículo 23, fracción I, de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 28.
 
-Los facilitadores adscritos al Instituto no podrán desempeñar otro cargo, empleo o comisión en la Federación, los Estados, municipios u organismos privados, ni practicar el ejercicio remunerado de su profesión, con excepción de las actividades académicas.
+Las y los facilitadores adscritos al Instituto no podrán desempeñar otro cargo, empleo o comisión en la Federación, los Estados, municipios u organismos privados, ni practicar el ejercicio remunerado de su profesión, con excepción de las actividades académicas.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+Las y los jueces menores, en funciones de coordinadores y coordinadoras generales titulares de centros regionales, no podrán practicar el ejercicio remunerado de los mecanismos alternativos de solución de controversias.
 
 ###### Artículo 29.
 
@@ -447,15 +475,19 @@ Los facilitadores privados certificados por el Instituto podrán aplicar los mec
 
 Para ser facilitador privado, es necesario contar con título y cédula de licenciado en derecho, acreditar experiencia profesional mínima de dos años en materia penal, de adolescentes, civil o familiar, así como cumplir con los requisitos establecidos en el artículo 25 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
-Una vez acreditados ante el Instituto los requisitos a que se refiere el artículo anterior, los interesados podrán obtener la certificación y el registro correspondiente en los términos de esta Ley y su reglamento.
+Una vez acreditados ante el Instituto los requisitos a que se refiere el artículo anterior, las y los interesados podrán obtener la certificación y el registro correspondiente en los términos de esta Ley y su reglamento.
 
-La certificación y el registro que otorgue el Instituto tendrán una vigencia de dos años. Para renovarlos, el facilitador privado deberá presentar y aprobar el examen correspondiente, además cumplir con la regulación que establezcan las disposiciones aplicables.
+La certificación y el registro que otorgue el Instituto tendrán una vigencia de tres años. Para renovarlos, la o el facilitador privado deberá presentar y aprobar el examen correspondiente, además cumplir con la regulación que establezcan las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 44.
 
-Los facilitadores privados deberán cumplir las obligaciones establecidas en el artículo 26 y, además, las siguientes:
+Las y los facilitadores privados deberán cumplir las obligaciones establecidas en el artículo 26 y, además, las siguientes:
 
 I. Celebrar convenio de honorarios con los usuarios.
 
@@ -465,7 +497,9 @@ III. Presentar ante el Instituto, para su validación y su registro, los acuerdo
 
 IV. Cubrir el pago de cuotas o derechos que resulten aplicables, en los términos de las disposiciones conducentes.
 
-V. Renovar su certificación cada dos años, cumpliendo con los requisitos a que alude el artículo 42 de esta Ley y las demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+V. Renovar su certificación cada tres años, cumpliendo con los requisitos a que alude el artículo 42 de esta Ley y las demás disposiciones aplicables.
 
 VI. Proporcionar los informes estadísticos que les requiera el Instituto, de conformidad con lo dispuesto en esta Ley y las demás disposiciones aplicables.
 
@@ -497,13 +531,19 @@ El Director, dentro de los treinta días hábiles siguientes a la recepción de 
 
 Un facilitador privado no podrá constituir o pertenecer a dos centros de manera simultánea.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 48.
 
-Es responsabilidad de los facilitadores privados que constituyan centros:
+Es responsabilidad de las y los facilitadores privados que constituyan centros:
 
-I. Renovar cada dos años la autorización para operar.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-II. Cumplir las obligaciones establecidas en esta Ley, el reglamento de la materia, los acuerdos generales del Pleno y las demás disposiciones aplicables.
+I. Renovar cada tres años la autorización para operar.
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+II. Cumplir las obligaciones establecidas en esta Ley, el reglamento de la materia, los acuerdos generales del Consejo y las demás disposiciones aplicables.
 
 III. Mantener el número mínimo de facilitadores privados que establece esta Ley.
 
@@ -682,3 +722,31 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 12 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0874/2018 XVII P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL Y LEY DE JUSTICIA ALTERNATIVA, AMBAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Con la salvedad consagrada en los Artículos Transitorios Segundo y Quinto, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El nuevo régimen de facultades que se concede a las y los jueces menores con la reforma al artículo 104 de la Ley Orgánica del Poder Judicial del Estado contenido en este Decreto, entrará en vigor cuando así sea determinado por el Consejo de la Judicatura.
+
+###### ARTÍCULO TERCERO.
+
+Hasta que el Consejo de la Judicatura determine que el nuevo régimen de facultades de los jueces menores entre en vigor, el artículo 104, en su texto anterior al que se reforma mediante la emisión de este Decreto, seguirá aplicándose.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado, en colaboración con el Consejo de la Judicatura, deberá aprobar, para el ejercicio fiscal dos mil diecinueve, el recurso necesario para que los jueces menores estén en condiciones adecuadas de realizar las tareas que se les ha conferido en este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones contempladas en el presente Decreto, respecto al artículo 128 de la Ley Orgánica del Poder Judicial del Estado de Chihuahua, entrarán en vigor el 05 de septiembre del 2018, si a esta fecha no ha sido publicado, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Judicial del Estado de Chihuahua, de acuerdo a lo establecido en los artículos 46 y 47 de la Ley General de Contabilidad Gubernamental, deberá tomar las previsiones necesarias para que de conformidad a lo establecido en el propio Presupuesto de Egresos vigente, se lleven a cabo las adecuaciones presupuestarias que correspondan, para el funcionamiento de la Secretaría Ejecutiva del Consejo de la Judicatura.
