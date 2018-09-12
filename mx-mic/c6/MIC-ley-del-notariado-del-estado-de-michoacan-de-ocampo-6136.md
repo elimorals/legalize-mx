@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-notariado-del-estado-de-michoacan-de-ocampo-6136"
 country: "mx"
 rank: "ley"
 publication_date: "1980-02-21"
-last_updated: "2016-12-29"
+last_updated: "2018-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,189 +21,89 @@ state: "MIC"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY DEL NOTARIADO DEL ESTADO DE MICHOACÁN
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE DICIEMBRE DE 2021.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 21 de febrero de 1980.
 
-Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
+CARLOS TORRES MANZO, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
-General Salvador Alvarado, Gobernador del Estado de Yucatán, a sus habitantes hace saber:
+El H. Congreso del Estado, se ha servido dirigirme el siguiente
 
-Que el H. Congreso del mismo, ha expedido el siguiente
+D E C R E T O :
 
-DECRETO NUM. 3
+EL CONGRESO DE MICHOACAN DE OCAMPO DECRETA:
 
-"El XXV Congreso Constitucional del Estado Libre y Soberano de Yucatán, en funciones de Constituyente, a nombre y con la autoridad del pueblo yucateco ha tenido a bien expedir la siguiente:
+NUMERO 162
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
+LEY DEL NOTARIADO
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE JULIO DE 2013)</small>
+## TITULO PRIMERO. DEL NOTARIO EN EJERCICIO DE SUS FUNCIONES
 
-## TITULO PRELIMINAR. De los derechos humanos y sus garantías
+### CAPITULO I. DE LAS FUNCIONES DEL NOTARIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
 
-###### Artículo 1.
+###### ARTICULO 1o
 
-Todas las personas en el Estado de Yucatán gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte y en esta Constitución, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Federal establece.
+El Notariado es una función de orden público. Estará bajo la potestad del Poder Ejecutivo por conducto de la Secretaría de Gobierno y su ejercicio se encomendará a los Notarios Públicos.
 
-> <small>(ADICIONADO, D.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Federal, los Tratados Internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
+###### ARTICULO 2o.
 
-> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2009)</small>
+Es facultad del Titular del Poder Ejecutivo del Estado expedir nombramiento de notario público, bajo los criterios y formalidades de selección, designación y permanencia establecidos en la presente Ley.
 
-El Estado de Yucatán reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural, sin perjuicio de las excluyentes de responsabilidad previstas en el Código Penal del Estado de Yucatán.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
+###### ARTICULO 3o.
 
-Las niñas, niños y adolescentes son sujetos de pleno derecho. Todas las instituciones públicas del Estado garantizarán la vigencia y aplicación de las prerrogativas que la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre los Derechos del Niño, esta Constitución y demás normatividad en la materia, otorgan a las niñas, niños y adolescentes.
+El Notario es el profesional del Derecho investido de fe pública para hacer constar los actos y hechos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes, revistiéndolos de solemnidad y formas legales.
 
-> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-La Ley establecerá que en la salvaguarda de los derechos de la infancia se respeten los principios de género e intergeneracionalidad y las características étnicas propias de la sociedad yucateca.
+La función pública notarial es un ejercicio que se debe desempeñar con estricto apego a la norma jurídica, probidad, calificación, prudencia, de manera personalísima, profesionalismo e imparcialidad. En los asuntos y trámites de la función notarial se garantizará la máxima certeza jurídica mediante el uso de sistemas electrónicos de verificación de datos y medidas de seguridad en documentos oficiales. Para tal efecto el Secretario de Gobierno y el Consejo del Colegio de Notarios de Michoacán podrá suscribir convenios de colaboración con las autoridades e instituciones competentes.
 
-> <small>(ADICIONADO, D.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+Los notarios públicos deberán cumplir con el programa de certificación, previamente autorizado por la Secretaría de Gobierno y que implemente el Consejo de Notarios al menos cada seis meses. Esta certificación tendrá una vigencia de dos años y será expedida por la Secretaría de Gobierno y el Consejo de Notarios.
 
-> <small>(ADICIONADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-El Estado a través de un organismo especializado, con la participación de la sociedad civil, establecerá mecanismos para vigilar la atención de las necesidades de niños, niñas y adolescentes y en conjunto producirán información periódica sobre el cumplimiento progresivo de los derechos de la infancia en el Estado, dando a conocer los rubros que presentan rezago.
+En caso de que el Consejo de Notarios no implemente el programa de certificación en tiempo y forma, la Secretaría de Gobierno lo implementará.
 
-> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-El Estado realizará todas las acciones necesarias orientadas a lograr el derecho a una vida digna de las personas adultas mayores en el Estado, tendrán acceso a los servicios de salud, alimentación, cultura, protección de su patrimonio, igualdad de condiciones para desempeñar un trabajo, asistencia y seguridad social e igualdad de oportunidades que les propicie mayor bienestar y una mejor calidad de vida. Las autoridades estatales y municipales; establecerán un sistema permanente de apoyo e integración social de los adultos mayores para permitirles una vida digna y decorosa.
+La Secretaría de Gobierno llevará un libro de registro de los expedientes respectivos, en los que obre copia de la constancia de certificación de los notarios y verificará periódicamente la vigencia de dicha certificación para los efectos correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 2.
+El notario que no cuente con la constancia de certificación vigente, será sancionado de conformidad con lo establecido por los artículos 131 y 132 de esta Ley, bajo apercibimiento que de no obtener la certificación respectiva en el plazo de hasta dos años, contado a partir del día siguiente al de la notificación de la sanción, se considerará reincidencia y será sancionado conforme al artículo 116 de esta Ley.
 
-Todas las autoridades y organismos autónomos del estado de Yucatán, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, así como realizar sus funciones de conformidad con los principios de universalidad, interdependencia, indivisibilidad, progresividad, igualdad y deberán actuar con perspectiva de género. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+###### ARTICULO 4o.
 
-> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2021)</small>
+El notario, además de ejercer su función, solamente podrá:
 
-El Estado reconoce el derecho fundamental al acceso libre y universal de banda ancha e internet, a través de los mecanismos y políticas públicas necesarias para asegurar progresivamente a la población su integración a la sociedad de la información y el conocimiento, promoviendo el desarrollo individual y social.
+I.- Aceptar cargos docentes;
 
-> <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+II.- Representar instituciones de beneficencia pública o privada;
 
-Queda prohibida toda discriminación por motivo de raza, origen étnico, nacionalidad, género e identidad de género, edad, discapacidades, condiciones de salud, social, económica o lingüística, preferencias sexuales, identidad sexual, filiación, instrucción, religión, ideología política, o cualquier otro que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas; así como el uso de cualquier forma de violencia, la comisión de actos que humillen y ultrajen a las personas, para lo cual se debe impartir una educación basada en una mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, manteniendo un plano de igualdad y de respeto para todos. Las niñas, niños y adolescentes no podrán ser objeto de medidas que con la pretensión de ser correctivas, se fundamenten en causas discriminatorias o que sean consecuencia de las actividades, las opiniones expresadas o las creencias de sus padres, o sus tutores o de sus demás familiares.
+III.- Resolver consultas jurídicas relacionadas exclusivamente con su función, verbalmente o por escrito;
 
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+IV.- Ser mandatario de su cónyuge, ascendientes, descendientes en línea recta, y desempeñar la tutela y curatela legítima;
 
-El Estado tiene una composición pluricultural sustentada originalmente en el pueblo maya, el cual desciende de la población que habitaba la península yucateca, al iniciarse la colonización; que conserva sus propios conocimientos, manifestaciones e idioma, así como, sus instituciones sociales, económicas y culturales o parte de ellas.
+V.- Redactar y formular proyectos de escrituras, contratos privados, reglamentos, estatutos y cualquier clase de documentos, relacionados con su función; y,
 
-> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
+VI.- Patrocinar a los interesados en los procedimientos administrativos necesarios para el otorgamiento, registro y trámites fiscales de las escrituras que otorgare.
 
-El derecho a la identidad constituye uno de los cimientos del desarrollo de la cultura maya, por lo que la conciencia de esta identidad es el criterio fundamental para determinar que a una persona le son aplicables las disposiciones sobre el pueblo maya yucateco y sus comunidades.
+###### ARTICULO 5o.
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+El notario no está sujeto a sueldo pagado por el Erario, pero tiene derecho a cobrar de los interesados, en cada caso, los honorarios que devengue de acuerdo al Arancel del Notariado.
 
-Los derechos sociales del pueblo maya, se ejercerán de manera directa, a través de sus representantes, o de las autoridades establecidas. En la elección de sus representantes ante los ayuntamientos se observará el principio de paridad de género.
+###### ARTICULO 6o.
 
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
-
-Los Poderes Públicos del Estado, establecerán en coordinación con la (sic) autoridades federales, las políticas públicas para proteger a los migrantes, tanto en el territorio nacional como en el extranjero, en los términos de la Constitución Política de los Estados Unidos Mexicanos, los Tratados internacionales, las Convenciones diplomáticas, los acuerdos federales y esta Constitución; mediante acciones que velen por el respeto de sus derechos humanos, y la promoción y difusión de la cultura maya.
-
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
-
-El Estado establecerá las políticas públicas para hacer efectivo el acceso del pueblo maya a los medios de comunicación masiva, conforme a las leyes correspondientes.
-
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
-
-Los servicios de salud que se proporcionen a las comunidades mayas, se planearán en coordinación con éstas, teniendo en cuenta su propio idioma y cultura. El Estado apoyara la preservación, protección y evolución contemporánea de la medicina maya; de igual modo, el manejo sustentable del entorno y de sus recursos naturales utilizables, las técnicas tradicionales, su uso y desarrollo endógeno.
-
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
-
-Las leyes establecerán los mecanismos que garanticen la efectiva participación del pueblo maya, en los distintos ámbitos y niveles de gobierno; en la toma de decisiones públicas que se vean afectados, en la elaboración del Plan Estatal de Desarrollo y los planes de desarrollo municipales, y cuando se prevean medidas legislativas relacionadas con éste.
-
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
-
-Se establecerá un organismo que definirá, ejecutará y evaluará las políticas públicas que garanticen la vigencia de los derechos del pueblo maya, y de las comunidades indígenas de otras entidades federativas, que se encuentren transitoria o permanentemente en territorio estatal, en los términos de las disposiciones legales aplicables.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-El Estado garantizará al pueblo maya el acceso a la justicia y la aplicación de sus propias formas de regulación para la solución de conflictos internos, como medio alternativo para la solución de controversias; sujetándose a los principios jurídicos de oralidad, publicidad, inmediación, contradicción, economía y concentración, con pleno respeto a sus derechos y garantías y de manera relevante, la dignidad de las mujeres, sin contravenir las leyes vigentes.
-
-> <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2005)</small>
-
-###### Artículo 3.
-
-Todos los habitantes del Estado están obligados a:
-
-I.- Cumplir con las Leyes vigentes y a respetar y obedecer a las autoridades legítimamente constituidas;
-
-II.- Contribuir a los gastos públicos del Estado como del Municipio en que residan, de la manera proporcional y equitativa, que dispongan las leyes que establezcan contribuciones, que para tal efecto expida el Congreso del Estado;
-
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
-
-III.- Prestar los servicios que las Leyes prescriban, considerándose como tales los servicios que las autoridades requieran, con arreglo a las Leyes, en casos de epidemia, guerra, siniestro o cualquiera otra contingencia grave;
-
-IV.- Inscribirse en el padrón de su municipalidad manifestando la propiedad que tengan, o la industria, profesión o trabajo de que subsistan; y
-
-> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
-
-V.- Corresponsabilizarse con el Estado en la protección y vigilancia de los derechos de las niñas, niños y adolescentes, conforme a las leyes, así como ser responsables de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir la educación obligatoria en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 4.
-
-Nadie está obligado al pago de una contribución que no haya sido decretada previamente por la Nación o por el Estado.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-### CAPITULO I. De los Yucatecos
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 5.
-
-Son Yucatecos:
-
-I.- todos los nacidos dentro o fuera del territorio del Estado, de padres yucatecos;
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
-
-II.- Los nacionales originarios de las demás Entidades de la República Mexicana, que hubiesen residido en el Estado seis meses consecutivos; y
-
-III.- los extranjeros que se naturalicen con arreglo a las Leyes de la República y que hubieren residido en el Estado seis meses consecutivos.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 1o.
-
-Esta Constitución comenzará a regir el día quince del mes en curso en que será solemnemente promulgada.
-
-###### Artículo 2o.
-
-Los Ayuntamientos que comenzaron sus funciones el primero de enero del año en curso, fungirán por todo el período para el cual fueron electos.
-
-###### Artículo 3o.
-
-Los ciudadanos electos para desempeñar los puestos de Presidentes Municipales en las últimas elecciones generales, fungirán como Alcaldes, de acuerdo con esta Constitución y Leyes relativas.
-
-###### Artículo 4o.
-
-Los ciudadanos electos para desempeñar los cargos de Síndicos de los Ayuntamientos, se considerarán como Concejales.
-
-###### Artículo 5o.
-
-Los ciudadanos electos para desempeñar los cargos de Magistrados del Tribunal Superior de Justicia, en las últimas elecciones generales fungirán por todo el período para el cual fueron electos.
-
-###### Artículo 6o.
-
-Quedan derogadas todas las Leyes que de cualquier modo se opongan a la presente Constitución.
-
-Dado en el Palacio del Poder Legislaivo (sic), en Mérida, a los once días del mes de enero de mil novecientos diez y ocho años.- Presidente, Héctor Victoria A., Diputado por el noveno Distrito Electoral.- Vicepresidente, Pedro Solís Cámara, Diputado por el trece Distrito Electoral.- Diego Hernández Fajardo, Diputado por el segundo Distrito Electoral.- Manuel Ríos, Diputado por el tercer Distrito Electoral.- M. Romero C., Diputado por el cuarto Distrito Electoral.- Dr. J. D. Conde Perera, Diputado por el quinto Distrito Electoral.- Bartolomé García, Diputado por el séptimo Distrito Electoral.- Manuel González, Diputado por el octavo Distrito Electoral.- Gustavo Arce, Diputado por el primer Distrito Electoral.- José E. Ancona C., Diputado por el décimo Distrito Electoral.- F. Valencia López, Diputado Socialista por el undécimo Distrito Electoral.- Ceferino Gamboa, Diputado por el duodécimo Distrito Electoral.- Felipe Carrillo, Diputado por el décimo quinto Distrito Electoral.- S. Burgos Brito, Diputado por el décimo sexto Distrito Electoral.- Secretario, Arturo Sales Díaz, Diputado por el sexto Distrito Electoral.- Manuel Berzunza, Secretario Diputado por el décimo cuarto Distrito Electoral.
-
-Por tanto, mando se imprima y publique para su cumplimiento, en Mérida, de Yucatán, a los doce días del mes de enero del año de mil novecientos diez y ocho. - S. ALVARADO. - El Secretario General, ALVARO TORRE DIAZ.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-D.O. 6 DE ENERO DE 1920.
+El cargo de notario es vitalicio y sólo se le puede destituir o suspender conforme a la presente Ley.
 
 ###### ARTICULO 7o.
 
@@ -227,2769 +127,805 @@ I.- En días festivos o en horas que no sean de oficina, salvo de que se trate d
 
 II.- Si alguna circunstancia fortuita le impide atender satisfactoriamente el asunto que se le encomiende, si hubiere otro notario en la localidad.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-(DEROGADO, D.O. 26 DE JULIO DE 2013)
+Las funciones del notario son incompatibles con:
 
-###### Artículo 11.
+I.- El ejercicio de la profesión de corredor público;
 
-(DEROGADO, D.O. 26 DE JULIO DE 2013)
+II.- El cargo de ministro de cualquier culto; y,
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 31 DE JULIO DE 2019)</small>
+III.- Todo empleo, cargo o comisión dependiente de los poderes de la Federación, Estado o Municipio, organismos descentralizados o de participación estatal o empleos particulares.
 
-###### Artículo 12.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2013)</small>
 
-El Estado de Yucatán es parte integrante de los Estados Unidos Mexicanos, y es libre y soberano en todo lo que concierne a su régimen interior, conforme a los principios establecidos en la Constitución Federal.
+###### ARTICULO 11.
 
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
+Queda prohibido a los notarios conservar en depósito sumas de dinero o documentos que representen numerario, con motivo de los actos o hechos en que intervengan. Cuando reciban dinero lo deberán depositar dentro de las 48 horas siguientes en la Secretaría de Finanzas o en la oficina de rentas o en cualquier institución bancaria del lugar. Si los documentos son cobrables por el Notario, dentro del mismo término los hará efectivos y depositará su importe en la forma indicada, salvo en los casos de protesto que se regirán por las leyes de la materia.
 
-###### Artículo 13.
+Se exceptúan de esta prohibición únicamente las cantidades que se destinen al pago de impuestos o derechos de las operaciones que ante él se efectúen, el cual deberá hacerlo dentro del término que establece la Ley.
 
-La soberanía reside esencial y originariamente en el pueblo, y la del Estado para su régimen interior, se ejerce por medio de los poderes públicos, los cuales dimanan del pueblo y se instituyen para su beneficio.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+###### ARTICULO 12.
 
-El Estado de Yucatán adopta la forma de gobierno republicano, representativo, democrático, laico y popular.
+Los notarios, en el ejercicio de sus funciones, reciben las confidencias de sus clientes; en consecuencia, deben guardar reserva sobre lo pasado ante ellos, quedando sujetos a las disposiciones del Código Penal sobre secreto profesional, salvo los informes que obligatoriamente establezcan las leyes respectivas y los actos que deben inscribirse en el Registro Público de la Propiedad.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+###### ARTICULO 13.
 
-###### Artículo 14.
+El notario, como profesional del Derecho, ilustra a las partes en materia jurídica y está obligado a explicarles el valor y consecuencias legales de los actos que vayan a celebrar.
 
-El Territorio del Estado de Yucatán tiene la extensión y los límites que demarca la Constitución Federal; lo constituye la parte norte de la Península de Yucatán, que queda limitada por una línea divisoria que, partiendo del vértice noreste sigue el arco del meridiano 87 grados, 32 minutos (longitud oeste de Greenwich), hasta su intersección con el paralelo 21 grados; y de allí continúa hasta encontrar el paralelo que pasa por la torre sur de la Iglesia de Chemax, 20 kilómetros al oriente de este punto; llegando después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche, cerca de Put, que tiene las siguientes coordenadas geográficas: 19 grados, 18 minutos, 27 segundos, latitud norte, y 89 grados, 8 minutos, 52 segundos longitud oeste; de este punto hasta el Golfo de México, tiene los límites fijados en el convenio celebrado entre los Estados de Campeche y Yucatán con fecha 3 de mayo de 1858; y de este punto hacia el este, por la costa, hasta el punto de partida. Asimismo comprende la Isla de Pérez (LOS ALACRANES), y los islotes, cayos y arrecifes adyacentes a su litoral.
+###### ARTICULO 14.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+El notario está obligado a prestar sus servicios, en días y horas hábiles, cuando fuere requerido para ello, salvo las excepciones que esta Ley señala.
 
-### CAPITULO II. De los ciudadanos yucatecos
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 1970)</small>
+ARTICULO 14 bis.- El Ejecutivo del Estado podrá requerir a los notarios de la Entidad en la prestación de servicios notariales, cuando se trate de satisfacer demandas de interés social. A este efecto, el Ejecutivo Estatal fijará las condiciones a las que deberá sujetarse la prestación de dichos servicios.
 
-###### Artículo 6.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-Son ciudadanos del Estado los varones y las mujeres, que teniendo la calidad de yucatecos, reunan, además, los requisitos siguientes:
+Asimismo, estarán obligados a prestar los servicios en los casos y términos que establece la normatividad electoral.
 
-I.- Haber cumplido dieciocho años y
+Lo dispuesto en este precepto por ser de orden público no es objeto de pacto en contrario, ni de excusa.
 
-II.- Tener un modo honesto de vivir.
+### CAPITULO II. DE LOS NOTARIOS Y SU CIRCUNSCRIPCION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-###### Artículo 7.
+###### ARTICULO 15.
 
-Son derechos del ciudadano yucateco:
+En la capital del Estado los notarios de número no podrán ser menos de diez; de cuatro en Zamora, Uruapan, Apatzingán y La Piedad; de tres en Zacapu y Zitácuaro; de dos en Jiquilpan, Sahuayo, Puruándiro, Los Reyes, Lázaro Cárdenas, Pátzcuaro, Tacámbaro, Ario de Rosales y Ciudad Hidalgo y de uno en las demás cabeceras de Distrito o de Municipalidad.
 
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
+El Titular del Poder Ejecutivo podrá crear nuevas notarías; señalando su circunscripción, tomando en cuenta los siguientes factores:
 
-I.- Votar en los procedimientos de elección. Las leyes respectivas establecerán la forma de garantizar el acceso de las personas con discapacidad y de los residentes en el extranjero al derecho al sufragio;
+En tratándose de las demarcaciones de los distritos judiciales del Estado, habrá un Notario cuando se acredite que en el Distrito Judicial de que se trate los actos notariales inscritos en el Registro Público de la Propiedad en el Estado, en la Dirección del Notariado y Archivo General de Notarías y en las oficinas de Administración de Rentas, se incrementaron en un veinte por ciento durante los dos últimos años, así como cuando el número de notarios en funciones en dicho Distrito Judicial no sea suficiente para cubrir las necesidades notariales en términos del primer párrafo de este artículo o la población del distrito judicial haya aumentado cuando menos un cinco por ciento con base en las cifras del último censo de población y vivienda o del conteo de población y vivienda, según corresponda.
 
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
+Para acreditar los supuestos a que refiere este artículo, la Secretaría de Gobierno ordenará y solicitará los estudios técnicos correspondientes. En dichos estudios deberán tomarse en cuenta, entre otros, los indicadores catastrales y registrales, así como los censos generales de población practicados por el Instituto Nacional de Estadística, Geografía e Informática o el organismo que realice o tenga a cargo dichas funciones.
 
-II.- Poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, teniendo las cualidades que establezca la ley de la materia;
+El Titular del Ejecutivo del Estado expedirá nombramientos de nuevos notarios de acuerdo al procedimiento correspondiente y también los nombramientos de aquellas vacantes que se cubran por cesación y renuncia.
 
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
+###### ARTICULO 16.
 
-III.- Asociarse para tratar los asuntos políticos del Estado;
+El Ejecutivo del Estado puede autorizar permutas definitivas del cargo notarial.
 
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
+###### ARTICULO 17.
 
-IV.- Tomar las armas para la defensa del Estado o sus Instituciones, en los términos que prescriban las leyes, y
+En el nombramiento de cada notario se fijará el lugar de su residencia. En los lugares donde existan varios, ejercerán estos indistintamente dentro de la circunscripción asignada.
 
-> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2014)</small>
+###### ARTICULO 18.
 
-V.- Participar en los procedimientos de participación ciudadana en los términos previstos en la ley de la materia.
+Los notarios ejercerán sus funciones dentro de los límites del distrito judicial de su residencia, pero los actos y hechos jurídicos que autoricen pueden referirse a cualquier otro lugar.
 
-> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
+El Ejecutivo del Estado podrá conceder autorización especial, para cada caso, a los notarios para intervenir fuera de su circunscripción.
 
-###### Artículo 7 Bis.
+###### ARTICULO 19.
 
-Se reconoce el derecho a la libre determinación del pueblo maya, bajo un marco autonómico en armonía con la unidad Estatal, conforme a las siguientes prerrogativas y atribuciones:
+El notario será de número y llevará el que le corresponda, atento al orden que sea nombrado, a menos que exista algún número anterior vacante, en cuyo caso se le asignará éste.
 
-I.- Decidir sus formas internas de convivencia, organización social, económica, política y cultural;
+###### ARTICULO 20.
 
-II.- Preservar y enriquecer el idioma maya peninsular, los conocimientos y todos los elementos que constituyan la cultura e identidad del pueblo maya yucateco; para tal efecto, el Estado garantizará, la promoción, difusión, preservación y desarrollo de la lengua maya, por lo que a través de los Poderes públicos y órdenes de gobierno, en el ámbito de sus respectivas competencias, reconocerá, protegerá y promoverá su preservación, uso y desarrollo, en los términos de ley.
+(DEROGADO, P.O. 26 DE JULIO DE 2013)
 
-III.- Acceder al uso, disfrute y aprovechamiento sustentable de los recursos naturales, flora y fauna silvestre de los lugares y sitios que habiten o en los que se encuentren ubicadas las comunidades; la libre asociación, y los derechos adquiridos por terceros o integrantes de su comunidad, en los términos y formas que para la propiedad y tenencia de la tierra establece la Constitución Política de los Estados Unidos Mexicanos y demás leyes relativas de la materia; salvo los casos que correspondan a las áreas estratégicas que se encuentran determinadas por las leyes.
+## TITULO SEGUNDO. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
-> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-IV.- Elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfruten y ejerzan su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados. En ningún caso las prácticas comunitarias podrán limitar los derechos político-electorales de los ciudadanos en la elección de sus autoridades municipales.
+###### ARTICULO 21.
 
-V.- Los integrantes del pueblo maya serán considerados como sujetos de derecho público, tendrán acceso pleno a la jurisdicción del estado, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, por lo que se deberán tomar en cuenta sus prácticas jurídicas y especificidades culturales, respetando los preceptos de esta Constitución; con derecho a ser asistidos por intérprete y defensor, en su propio idioma y cultura.
+Para obtener el nombramiento de Notario, el solicitante deberá reunir los requisitos siguientes:
 
-Asimismo, compurgarán las penas preferentemente en los establecimientos más cercanos a su domicilio, de modo que se propicie su reintegración a la comunidad, como mecanismo esencial de rehabilitación social.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+I.- Ser mexicano por nacimiento, haber cumplido veintiocho años de edad, estar en pleno uso de sus derechos, acreditar buena conducta, y no pertenecer al estado eclesiástico;
 
-###### Artículo 8.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-Son obligaciones del ciudadano yucateco:
+II.- Tener residencia y domicilio efectivo e ininterrumpido en el Estado, por más de tres años;
 
-I.- inscribirse en los padrones electorales, en los términos que determinen las Leyes;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-II.- desempeñar los cargos de elección popular del Estado que en ningún caso serán gratuitos;
+III.- Ser Licenciado en Derecho, contar con cedula profesional y acreditar cinco años de ejercicio profesional;
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-III.- desempeñar los cargos concejales del municipio donde residan;
+IV.- Gozar de buen estado de salud física y mental;
 
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-IV.- desempeñar las funciones electorales y las de jurado en los términos de la (sic) leyes respectivas;
+V.- No haber sido condenado en sentencia ejecutoriada por delito doloso o preterintencional;
 
-(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-V.- inscribirse en las Juntas Municipales de Reclutamiento para el servicio de las armas;
+VI.- Acreditar haber tomado y aprobado el curso de práctica y actualización notarial, que imparta el Colegio de Notarios del Estado. La asistencia a dicho curso y su aprobación no debe tener una antigüedad mayor de dos años a la fecha en que se practique el examen de oposición correspondiente; y,
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-VI.- Votar en los procedimientos de elección, consulta popular y el de revocación de mandato, en los términos que señale la ley;
+VII.- Aprobar el examen teórico práctico correspondiente con una calificación mínima de ocho, sobre un máximo de diez.
 
-VII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+Los exámenes para aspirar a obtener el nombramiento de notario, se regirán por las reglas siguientes:
 
-###### Artículo 9.
+a. Los exámenes teórico y práctico se efectuarán en el domicilio, día y hora que sean acordados, por la Secretaría de Gobierno, los cuales serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en los tres periódicos de mayor circulación en el Estado, por tres días consecutivos.
 
-La calidad de ciudadano yucateco se pierde por la pérdida de la ciudadanía mexicana.
+b. El jurado se compondrá por cinco miembros propietarios con sus suplentes respectivos. El suplente actuará a falta del titular.
 
-###### Artículo 15.
+c. El jurado estará integrado por un Presidente nombrado por el Titular del Ejecutivo, que será servidor público de la Secretaría de Gobierno; un Secretario, designado por el Colegio de Notarios y que tendrá que ser forzosamente un notario en funciones; y, tres vocales que serán, un catedrático distinguido de la materia notarial en alguna de las universidades del Estado, designado por el Titular del Poder Ejecutivo; un notario, nombrado de común acuerdo entre el Titular del Ejecutivo y el Consejo de Notarios y el Titular de la Dirección del Notariado y Archivo General de Notarias del Gobierno del Estado de Michoacán de Ocampo.
 
-Para su régimen político-administrativo, judicial, fiscal y electoral, el Territorio del Estado de Yucatán, se dividirá en la forma que las Leyes determinen.
+Los miembros que integren el jurado no podrán ser cónyuges o parientes consanguíneos o afines hasta el cuarto y segundo grados, respectivamente, del sustentante, ni titulares de las Notarías en que éste haya realizado su práctica o prestado servicios profesionales.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+d. El examen constará de dos partes, una teórica y una práctica, ambos exámenes se realizarán en el mismo lugar, en las fechas establecidas en la Convocatoria y con los mismos integrantes del jurado.
 
-###### Artículo 16.
+e. La prueba práctica será pública y vigilada por al menos tres miembros del jurado, consistirá en la redacción de uno o varios instrumentos notariales específicos, su tema será sorteado de entre veinte formulados por el jurado, en presencia de todos los aspirantes.
 
-El Poder Público del Estado de Yucatán se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un Congreso formado por menos diputados que los señalados en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
+f. Las pruebas prácticas serán colocadas en sobres cerrados, sellados y firmados por el jurado y el aspirante.
 
-Las elecciones del Gobernador, de los diputados y de los integrantes de los ayuntamientos se realizarán mediante sufragio universal, libre, secreto y directo, conforme a las siguientes disposiciones:
+g. La prueba teórica consistirá en un examen en línea, con preguntas aleatorias relacionadas con el derecho notarial. Una vez finalizado el examen, deberá ser impresa inmediatamente la calificación correspondiente a dicho examen.
 
-Apartado A. De los Partidos Políticos y Agrupaciones Políticas.
+h. Es el jurado en pleno a quién le compete calificar la resolución de la prueba práctica, de conformidad con lo establecido en la convocatoria.
 
-> <small>(REFORMADO, D.O. 8 DE MAYO DE 2017)</small>
+i. Las calificaciones se harán constar en el acta que el Secretario redactará y que deberá ser firmada por todos los integrantes del jurado y se harán públicas a través de la página web del Gobierno del Estado, protegiendo la identidad de los aspirantes.
 
-Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su participación en el proceso electoral, los derechos, obligaciones y prerrogativas que les corresponden, así como las reglas para garantizar la paridad de género en la asignación de candidaturas a diputados y de candidaturas para ayuntamientos, en sus dimensiones horizontal y vertical.
+j. El Secretario del jurado redactará el acta en la que harán constar las calificaciones de todos los participantes, y en específico las calificaciones de aquellos aspirantes con calificación mayor a ocho, remitiéndola de inmediato al Titular del Ejecutivo quien valorará la trayectoria profesional y académica, así como la calificación, para hacer la designación de Notario.
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+Si ninguno de los aspirantes obtuviera calificación mayor a ocho, el concurso se declarará desierto.
 
-Son fines esenciales de los partidos políticos: promover la participación del pueblo en la vida democrática, contribuir a la integración paritaria de los órganos de representación política estatal y, como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público; de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo.
+k. El resultado de este proceso y el nombramiento otorgado por el Titular del Poder Ejecutivo, será publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en los tres periódicos de mayor circulación en el Estado, por tres días consecutivos.
 
-Solo los ciudadanos, de manera libre e individual, podrán afiliarse a los partidos y agrupaciones políticas; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa a ellos.
+###### ARTICULO 22.
 
-Los partidos políticos tendrán el derecho de solicitar el registro de candidatos a cargos de elección popular, quienes para ejercer ese derecho deberán cumplir con los requisitos establecidos en la ley de la materia.
+Los requisitos anteriores se acreditarán, en su orden, con:
 
-Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, esta constitución y las leyes respectivas.
+Copia certificada del acta de nacimiento; acta expedida por la autoridad competente; constancia de la autoridad política del lugar; certificado de residencia otorgado por la autoridad municipal, título debidamente registrado o copia certificada del mismo; certificado emitido por dos médicos oficiales; y, constancia de la Procuraduría General de Justicia del Estado.
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-En los procesos electorales los partidos políticos tendrán derecho a postular candidatos, fórmulas, planillas o listas de forma paritaria, por sí mismos, en coalición o en candidatura común con otros partidos.
+###### ARTICULO 23.
 
-La fiscalización de las finanzas de los partidos políticos se realizará a través de una Unidad Técnica dependiente del Instituto Electoral y de Participación Ciudadana de Yucatán; asimismo, contará con una estructura orgánica y de operación, debiendo ejercitar las facultades que en su caso, le delegue el Instituto Nacional Electoral de conformidad con lo previsto en la ley respectiva.
+Cuando estuviera vacante alguna notaría o fuere creada una nueva, el Ejecutivo del Estado publicará por única ocasión en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en los tres periódicos de mayor circulación en el Estado, durante los tres días siguientes, convocatoria pública abierta para ocupar dicho cargo, con una anticipación de cuarenta y cinco días naturales a la fecha de los exámenes.
 
-El partido político local que no obtenga, al menos, el 3 % del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
+El interesado presentará la solicitud de inscripción correspondiente en la Secretaría de Gobierno, anotándose en aquélla día y hora en que fuere presentada, acompañando los documentos que satisfagan los requisitos que señala esta Ley.
 
-La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro así como el destino de sus bienes y remanentes.
+Entre la fecha de publicación de la convocatoria y el inicio del plazo para la inscripción de solicitudes deberá mediar un plazo de diez días hábiles. Las inscripciones se harán en la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno. El plazo para la recepción de solicitudes será de diez días hábiles.
 
-Apartado B. De los Candidatos Independientes.
+Concluido el plazo de recepción de solicitudes, la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, dentro de los diez días hábiles siguientes, publicará en los mismos medios, la lista de aspirantes que hayan reunido los requisitos exigidos por esta Ley, para presentar el concurso de oposición. La Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno expedirá a los aspirantes la constancia para presentar el concurso de oposición.
 
-Los ciudadanos, para ejercer el derecho a participar en las elecciones estatales como candidatos independientes, deberán cumplir con los requisitos establecidos en la ley respectiva.
+La lista de aspirantes podrá ser impugnada por cualquier persona que acredite tener interés jurídico ante la propia Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, dentro del término de cinco días hábiles contados a partir de la fecha de su última publicación, acompañando las pruebas documentales que se estimen pertinentes. La Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno resolverá lo conducente en un plazo de cinco días hábiles, previa audiencia.
 
-La ley regulará el régimen de postulación, registro, derechos y obligaciones de los candidatos independientes y garantizará su derecho al financiamiento público, así como el acceso a la radio y televisión en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y esta constitución.
+Con independencia de lo anterior, para cubrir la vacante de una notaría ya autorizada, el Titular del Ejecutivo del Estado podrá nombrar Notario titular en esa vacante, presentando el aspirante examen en el cual demuestre experiencia, capacidad y eficiencia en el desempeño de la función notarial. La Secretaría de Gobierno, a través de la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, en coordinación con el Consejo del Colegio de Notarios del Estado, aplicarán el examen.
 
-Apartado C. Del Financiamiento, acceso a medios de comunicación y propaganda.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
 
-La ley garantizará que los partidos y agrupaciones políticas dispongan de los elementos para llevar a cabo sus actividades. Tendrán derecho en la forma que se establezca, al uso permanente de los medios de comunicación social y al financiamiento, garantizando en este caso, que los recursos públicos prevalezcan sobre los de origen privado; de igual modo, la ley establecerá las restricciones en los gastos de precampañas y campañas electorales.
+###### ARTICULO 24.
 
-I. Financiamiento:
+Cuando el Ejecutivo del Estado haya expedido nombramiento de notario al solicitante, éste para iniciar el ejercicio de sus funciones deberá satisfacer los siguientes requisitos:
 
-El financiamiento público de los partidos políticos se compondrá de los montos para el sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, se otorgará conforme a lo que disponga la ley y a lo siguiente:
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O. 30 DE MAYO DE 2017)</small>
+I.- Otorgar garantía por el equivalente a 500 veces el valor diario de la Unidad de Medida y Actualización si va a ejercer en la capital del Estado y 300 veces el valor diario de la Unidad de Medida y Actualización si actuare fuera de ella.
 
-a) Para actividades ordinarias permanentes, los montos se fijarán anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral estatal por el 65% del valor diario de la unidad de medida y actualización.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2013)</small>
 
-(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DEL INCISO A) DE LA FRACCIÓN I DEL APARTADO C DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II.- Proveerse de sello con el diseño que marca esta Ley, registrar éste y su firma en la Secretaría de Gobierno, en el Registro Público de la Propiedad y en la Dirección del Notariado y Archivo General de Notarías;
 
-EN LOS MESES Y AÑOS EN LOS QUE NO SE DESARROLLE PROCESO ELECTORAL, DICHO FINANCIAMIENTO PÚBLICO SE OTORGARÁ EN UN 50% DEL RESULTADO DE LA OPERACIÓN SEÑALADA EN EL PÁRRAFO ANTERIOR.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2013)</small>
 
-(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DEL INCISO A) DE LA FRACCIÓN I DEL APARTADO C DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+III.- Rendir la protesta legal ante el Secretario de Gobierno; y,
 
-EN AMBOS CASOS, el 30% de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en partes iguales y el 70% restante se distribuirá de acuerdo con el porcentaje de votos que hubieren obtenido en la elección inmediata anterior de diputados por el principio de mayoría relativa;
+IV.- Obligarse a establecer su oficina notarial y su domicilio en el lugar en que vaya a desempeñar su cargo, dentro de los treinta días hábiles siguientes a la fecha de la protesta.
 
-b) Para actividades tendientes a la obtención del voto durante el año en el que se elija Gobernador, diputados y ayuntamientos equivaldrá al 60 % del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año. Cuando sólo se elijan diputados y ayuntamientos equivaldrá al 50 % de dicho financiamiento por actividades ordinarias, y
+###### ARTICULO 25.
 
-> <small>(REFORMADO, D.O. 22 DE JULIO DE 2020)</small>
+La garantía a que se refiere la fracción I del artículo anterior, podrá constituirse con depósito en efectivo, hipoteca o fianza en bienes raíces. El notario en cualquier tiempo podrá sustituir la garantía otorgada, por otra, con aprobación del Ejecutivo del Estado.
 
-c) Para actividades específicas equivaldrá al 7% del monto total que corresponda cada año por actividades ordinarias. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente se distribuirá entre los partidos políticos de forma igualitaria y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. Los partidos políticos deberán destinar, entre el 25% hasta el 50%, del monto que les corresponda de las actividades específicas para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADO, D.O. 30 DE MAYO DE 2017)</small>
+###### ARTICULO 26.
 
-La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. El monto máximo que tendrán las aportaciones de sus simpatizantes no podrá exceder anualmente para cada partido del 8% del tope de gastos establecido en la última campaña electoral para Presidente de la República, siempre que dicho monto no rebase el financiamiento público; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+El depósito se hará en la Secretaría de Finanzas y Administración, la hipoteca se constituirá con intervención de Notario Público y la fianza se otorgará ante el Secretario de Gobierno.
 
-II. Acceso a radio y televisión:
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-Los partidos políticos y los candidatos independientes solo podrán acceder a la radio y a la televisión, conforme a lo dispuesto en el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos. El Instituto Nacional Electoral administrará los tiempos que correspondan al Estado en radio y televisión en las estaciones y canales de cobertura en la entidad, conforme a lo que determine la ley respectiva.
+###### ARTICULO 27.
 
-Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas tiempos en cualquier modalidad de radio y televisión.
+El Notario al iniciar el ejercicio de sus funciones dará aviso a la Secretaría de Gobierno, Supremo Tribunal de Justicia, Procuraduría General de Justicia, Secretaría de Hacienda y Crédito Público, Dirección del Registro Público de la Propiedad, Dirección del Notariado y Archivo General de Notarías, Dirección de Gobernación y al Consejo de Notarios de Michoacán.
 
-Ninguna otra persona, física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en el Estado de este tipo de mensajes contratados en territorio nacional o en el extranjero.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-III. Propaganda Electoral:
+###### ARTICULO 28.
 
-En la propaganda política o electoral que difundan los partidos o los candidatos independientes deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien o difamen a las personas.
+Cumplidos los requisitos que señala esta Ley, se registrará el nombramiento respectivo en la Secretaría de Gobierno, en el Registro Público de la Propiedad y en la Dirección del Notariado y Archivo General de Notarías, haciéndose la publicación del mismo en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-La propaganda electoral en los artículos promocionales utilitarios sólo podrá ser elaborada con material textil, de conformidad con lo que establezca la ley respectiva.
+###### ARTICULO 29.
 
-La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública estatal y cualquier otro ente de los órdenes de gobierno estatal y municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+La oficina del notario se denominará NOTARIA PUBLICA NUMERO.....A CARGO DE ............................. Estará abierta cuando menos siete horas al día y en lugar visible habrá un rótulo que contendrá la inscripción indicada.
 
-La ley reglamentaria garantizará el estricto cumplimiento de lo previsto en el párrafo anterior incluyendo el régimen de sanciones a que haya lugar.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2013)</small>
 
-Apartado D. De los Procesos Electorales.
+###### ARTICULO 30.
 
-La ley establecerá las reglas para el desarrollo de las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. La duración de las campañas será de sesenta a noventa días para la elección de gobernador y de treinta a sesenta días cuando sólo se elijan diputados locales o ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+El sello de cada Notario deberá ser autorizado por la Dirección del Notariado y Archivo General de Notarías; ostentará el escudo nacional en el centro y tendrá inscritos en derredor el nombre, apellidos, número de la notaría y lugar de residencia.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+El sello deberá ser de forma circular y con diámetro de cuatro centímetros.
 
-La jornada electoral tendrá lugar el primer domingo de junio de cada 6 años para elegir a la Gobernadora o Gobernador del Estado y de cada 3 años para elegir a las diputadas o los diputados, así como presidentas o presidentes municipales, síndicos y regidoras o regidores de los Ayuntamientos.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-Las mesas directivas de casilla estarán integradas por ciudadanos y la votación se recepcionará en términos de ley, garantizando la efectividad y el secreto del sufragio.
+###### ARTICULO 31.
 
-Apartado E. De la Organización de las Elecciones.
+En el nombramiento del Notario se expresará la autoridad que lo otorgue, lugar y fecha de la expedición, nombre y apellidos de la persona a que se refiere, el lugar de su residencia y el número de la notaría que le corresponda. Deberá también llevar la firma completa del interesado y su fotografía, que se cancelará con el sello de la Secretaría de Gobierno.
 
-La organización de las elecciones es una función estatal que se realiza a través de un organismo público especializado, autónomo y profesional en su desempeño, denominado Instituto Electoral y de Participación Ciudadana de Yucatán, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos y esta constitución. En el ejercicio de esa función, son principios rectores la certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y profesionalización.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-Apartado F. Del Sistema de medios de impugnación y delitos electorales
+###### ARTICULO 32.
 
-Para garantizar los principios constitucionales de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y profesionalización en los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y garantizará la protección de los derechos políticos electorales de los ciudadanos. El Instituto Electoral y de Participación Ciudadana de Yucatán y el Tribunal Electoral del Estado de Yucatán conocerán, en el ámbito de sus competencias, de este sistema.
+La Secretaría de Gobierno, el Registro Público de la Propiedad y la Dirección del Notariado y Archivo General de Notarías, llevarán un libro que se denominará Registro de Notarios, en el cual se tomará razón de las altas y bajas.
 
-El Instituto Electoral y de Participación Ciudadana de Yucatán y el Tribunal Electoral del Estado de Yucatán podrán ordenar la realización de recuentos totales o parciales de votos; la ley determinará los casos en que podrán realizarse en los ámbitos administrativo y jurisdiccional.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-La ley fijará las causales de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, considerando el principio de definitividad de las etapas de los procesos electorales. De igual forma, tipificará los delitos y determinará las faltas en materia electoral y las sanciones que por ellos deban imponerse.
+###### ARTICULO 33.
 
-El Tribunal Electoral del Estado de Yucatán sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la ley de la materia.
+En caso de que se pierda o altere el sello, el Notario de inmediato dará aviso a la Secretaría de Gobierno, a la Dirección del Registro Público de la Propiedad y a la Dirección del Notariado y Archivo General de Notarías, y se proveerá de otro, en el que se pondrá un signo especial que lo distinga del anterior. Si se encontrare el antiguo sello, lo entregará personalmente al Director del Notariado y Archivo General de Notarías, para que ahí se destruya, levantándose de esta diligencia un acta por duplicado. Lo mismo se hará con el sello del Notario que fallezca. Un ejemplar de esta acta quedará depositado en el archivo y otro en poder del Notario que lo sustituya.
 
-###### Artículo 16 Bis.
+## TITULO TERCERO. DE LA FUNCION NOTARIAL
 
-(DEROGADO, D.O. 20 DE JUNIO DE 2014)
+### CAPITULO I. DEL PROTOCOLO
 
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2013)</small>
 
-###### Artículo 17.
+###### ARTICULO 34.
 
-Los Poderes Públicos del Estado, residirán en la ciudad de Mérida, dichos poderes, en caso de guerra o alteración grave del orden público, podrán trasladar a otra localidad la residencia de los mismos.
+El protocolo está constituido por volúmenes de hasta doscientas hojas denominadas folios, los cuales deberán ser numerados y sellados, donde el Notario debe asentar y autorizar las escrituras públicas con sus respectivos apéndices y anexos que contengan los actos y hechos jurídicos.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE JULIO DE 2013)</small>
 
-###### Artículo 18.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE JULIO DE 2013)</small>
 
-El Poder Legislativo del Estado se depositará en una Asamblea de Representantes que se denominará "Congreso del Estado de Yucatán".
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
+###### ARTICULO 35.
 
-###### Artículo 19.
+La numeración de los instrumentos será progresiva, incluyendo aquellos que tengan la mención de "no pasó", los que se encuadernarán junto con los firmados.
 
-Los Diputados son inviolables por la manifestación de ideas y expresión de opiniones, en el desempeño de su encargo; y no podrán ser reconvenidos por ellas.
+###### ARTICULO 36.
 
-> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
+Los expedientes y documentos que se protocolicen deberán agregarse al apéndice del instrumento respectivo y serán considerados como un solo documento.
 
-El Presidente del Congreso en los términos de las leyes garantizará la inviolabilidad del recinto donde los diputados se reúnan a sesionar.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+###### ARTICULO 37.
 
-Los integrantes del Congreso del Estado podrán llevar a cabo sesiones fuera del lugar que ocupe el Recinto del Poder Legislativo de manera presencial o mediante el uso de las tecnologías de la información y la comunicación en los términos que la ley señale.
+La Dirección del Notariado y Archivo General de Notarías imprimirá, autorizará y entregará los folios a los notarios, quienes cubrirán el costo respectivo.
 
-> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+Dicha dependencia llevará un registro en el que se indique la fecha, cantidad y número de folios entregados a cada Notario.
 
-Se entenderá, por sesión mediante el uso de las tecnologías de la información y la comunicación, aquella que garantice la posibilidad de comunicación simultánea o consecutiva entre las y los diputados asociadas a la red de internet en conjunto con el sistema informático legislativo.
+Los folios deberán imprimirse en papel seguridad, con numeración progresiva y con el Escudo del Gobierno del Estado de Michoacán al frente, junto con la leyenda "Folio Autorizado". La Dirección del Notariado y Archivo General de Notarías informará al Secretario de Gobierno la fecha y tiraje de cada impresión, indicando la cantidad y numeración de los folios de cada emisión.
 
-> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+La Dirección del Notariado y Archivo General de Notarías, con la opinión del Colegio de Notarios, determinará los mecanismos pertinentes para el debido control de la autorización de los folios y propondrán el costo de los mismos.
 
-Las sesiones señaladas en el párrafo anterior podrán celebrarse por causas de fuerza mayor, fenómenos naturales, situaciones de emergencia o catástrofes tomando en consideración las determinaciones de las autoridades estatales o federales competentes.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+###### ARTICULO 38.
 
-Cuando en esta Constitución se haga referencia a que las o los diputados se encuentren presentes en una sesión, para la aprobación de un asunto que corresponda a las facultades o atribuciones del Congreso, se entenderá que lo estarán si se encuentran en alguno de los casos comprendidos en este artículo y para ello se estará a lo dispuesto al tipo de votación o porcentaje expresamente requerido dentro del numeral que corresponda de esta Constitución.
+Los folios de los volúmenes medirán al menos, veintiún centímetros de ancho por treinta y cuatro centímetros de largo.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+Las posibles anotaciones se inscribirán después de la autorización. Si no hubiese espacio suficiente, se agregará el folio siguiente al instrumento y se marcará con la leyenda "Anotaciones".
 
-###### Artículo 20.
+Los instrumentos, volúmenes y apéndices que integren el protocolo deberán ser numerados progresivamente. Los folios deberán utilizarse en forma consecutiva por ambas caras, salvo los que sean inutilizados, y los instrumentos que se asienten en ellos se ordenarán en forma sucesiva y cronológica por el Notario, y se encuadernarán en volúmenes que se integrarán por doscientos folios, excepto cuando el Notario deba asentar un instrumento con el cual rebasaría ese número, en cuyo caso deberá dar por terminado el volumen sin asentar dicho instrumento, iniciando con éste el volumen siguiente, previa razón de terminación del volumen en uso, la que se asentará en el siguiente folio que se agregará al final del volumen que se da por terminado, sin que este contenga doscientos folios.
 
-El Congreso del Estado de Yucatán se compondrá de veinticinco Diputadas y Diputados, observando el principio de paridad de género conforme a las normas aplicables, que serán electos popularmente cada tres años, de los cuales, quince serán electos por el principio de mayoría relativa y los restantes, por el de representación proporcional, mediante el procedimiento que la Ley establezca. Por cada Diputada o Diputado Propietario de mayoría relativa, se elegirá un Suplente.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+###### ARTICULO 39.
 
-En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+Para asentar las escrituras y actas en los folios, deberán utilizarse procedimientos de escritura o impresión que sean firmes, indelebles y legibles. La parte utilizable del folio deberá aprovecharse al máximo posible, no deberán dejarse espacios en blanco y las líneas que se impriman deberán estar a igual distancia unas de otras, salvo cuando se trate de la reproducción de documentos, la que podrá hacerse ya sea transcribiendo a renglón cerrado o reproduciendo su imagen por cualquier medio firme e indeleble, incluyendo fotografías, planos y en general cualquier documento gráfico.
 
-> <small>(REFORMADO (N. DE E. ADICIONADO], D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-La ley determinará la forma de establecer la demarcación territorial de los distritos electorales uninominales.
+###### ARTICULO 40.
 
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+Al hacer uso de un folio, en su frente, se pondrá a la cabeza, hacia el lado izquierdo de la misma, el sello del Notario. Nunca podrá sellarse folio alguno por separado, sino que deberán sellarse entrelazados una vez que formen un volumen. Cuando se inutilice un folio, se cruzará con líneas de tinta en ambas caras y se colocará al final del respectivo instrumento.
 
-Los diputados podrán ser electos hasta por cuatro períodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieran postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La reelección se efectuará conforme a lo que disponga la Ley.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+###### ARTICULO 41.
 
-La integración del Congreso del Estado deberá ser bajo el principio de integración paritaria, asignando diputaciones de representación proporcional, compensando al género con el menor número de Diputados de mayoría relativa, en los términos que al efecto disponga la legislación local de la materia.
+Al iniciar la formación de una decena de volúmenes, el Notario hará constar la fecha en que se inicia, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en la Notaría a su cargo, y la mención de que los volúmenes de la misma se formarán con los instrumentos autorizados por el Notario o por quien legalmente lo substituya en sus funciones, de acuerdo con esta Ley. La hoja en la que se asiente la razón a que se refiere este artículo no irá foliada y se encuadernará antes del primer folio del volumen con el cual se inicia la decena. El Notario asentará su sello y firma y contará con un término de 5 días hábiles para dar el aviso de inicio a la Dirección del Notariado y Archivo General de Notarías, mencionando el número de folio y el número del instrumento notarial con que dicha decena de volúmenes se inicie.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE JULIO DE 2009)</small>
+Cuando con posterioridad a la iniciación de un volumen haya cambio de Notario, el que va a actuar cerrará a continuación del último instrumento extendido, explicando en una hoja adicional, la causa que motivare el acto, su nombre y apellidos, su firma y su sello, y abrirá uno nuevo. Se procederá de la misma forma cuando se inicie una suplencia, y en el caso de que el Notario reanude el ejercicio de sus funciones. En todo caso, cualquiera de los movimientos anteriores se notificará al Director del Registro Público de la Propiedad, a la Dirección del Notariado y Archivo General de Notarías y al Consejo de Notarios. Si con motivo de la vacante, el archivo de la oficina deba depositarse en la Dirección del Notariado y Archivo General de Notarías, la razón que expresa este artículo, será asentada por el Director de esta oficina.
 
-## TITULO PRIMERO. De los Yucatecos
+###### ARTICULO 42.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+El notario que reciba una notaría, ya sea por vacancia o por suspensión del notario, deberá hacerlo siempre por riguroso inventario, con asistencia del funcionario a que se refiere el último párrafo del artículo anterior.
 
-###### Artículo 21.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-Para la asignación de diputados por el principio de representación proporcional a los partidos políticos y coaliciones, se considerará lo siguiente:
+De este acto, comprendiendo el inventario, se levantará y firmará un acta por quintuplicado en los términos del artículo 45 de esta Ley, de la que se remitirá un ejemplar a la Secretaría de Gobierno, otro al Registro Público de la Propiedad, otro a la Dirección del Notariado y Archivo General de Notarías, uno más, quedará en poder del Notario que recibe y el último se entregará al Notario suspendido, quien tiene derecho a asistir al acto de entrega.
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+###### ARTICULO 43.
 
-I.- Deberá acreditar que participa con candidatos en la totalidad de los distritos electorales uninominales.
+El notario no puede ejercer sus funciones mientras lo sustituyen o se encuentre suspendido en el ejercicio de ellas.
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-II.- Los principios de pluralidad, representatividad y equidad, y
+###### ARTICULO 44.
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+Los volúmenes del protocolo y demás documentos del archivo del Notario sólo se mostrarán a quienes acrediten interés jurídico. Las escrituras, en particular, sólo podrán leerse a quienes hubieren intervenido en ellas o justifiquen sus derechos. Cuando se trate de disposiciones testamentarias el Notario podrá informar a los herederos, legatarios y albacea, únicamente después de la muerte del testador, en los casos que proceda legalmente.
 
-III.- La obtención del 2% o más de la votación emitida en el Estado
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
+###### ARTICULO 45.
 
-###### Artículo 22.
+La clausura del protocolo se efectuará siempre con asistencia de un interventor que nombrará el Secretario de Gobierno y con la de un Agente del Ministerio Público designado por el Procurador General de Justicia, funcionarios que deberán también suscribir las razones asentadas por el Director del Notariado y Archivo General de Notarías, levantándose por triplicado un inventario pormenorizado de los libros o volúmenes, apéndices y demás documentos pertenecientes a la notaría, para enviar un ejemplar a la Secretaría de Gobierno, otro a la Dirección del Notariado y Archivo General de Notarías y el último, al Notario que estuvo encargado del oficio.
 
-Para ser diputada o diputado, se requiere:
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+###### ARTICULO 46.
 
-I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos;
+Dentro de los treinta y cinco días hábiles siguientes a la integración de una decena de volúmenes, el Notario deberá asentar en una hoja adicional, que deberá agregarse al final del último volumen una razón de cierre en la que se indicará la fecha del asiento, el número de folios utilizados e inutilizados, la cantidad de los instrumentos asentados, y de ellos los autorizados, los pendientes de autorizar y los que no pasaron, y pondrá al calce de la misma su firma y sello. A partir de la fecha en que se asiente la razón mencionada, el Notario dispondrá de un plazo máximo de cuatro meses para encuadernar la decena de volúmenes y enviarla a la Dirección del Notariado y Archivo General de Notarías, el que revisará solamente la exactitud de la razón a que se refiere dicho artículo, debiendo devolver los volúmenes al Notario dentro de los cinco días hábiles siguientes a la fecha de entrega, con la certificación de cierre correspondiente, de lo que la Dirección del Notariado y Archivo General de Notarías informará al Consejo de Notarios.
 
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-II.- Tener veintiun años cumplidos el día de la elección;
+###### ARTICULO 47.
 
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
+Los folios y los volúmenes que integren el protocolo deberán estar siempre en la notaría, salvo en los casos determinados por la Ley o cuando el Notario recabe firmas fuera de ella, lo cual se hará cuando fuera necesario a juicio del Notario. Cuando hubiere necesidad de sacar los folios o volúmenes de la notaría, lo hará el propio Notario. Si alguna autoridad con facultades legales ordena la vista de aquéllos, el acto se efectuará en la misma oficina del Notario y siempre en presencia de éste. En el caso de que un volumen del protocolo ya se encuentre en la Dirección del Notariado y Archivo General de Notarías, la inspección se llevará a cabo en éste, previa citación del respectivo Notario.
 
-III.- No ser Gobernador del Estado; Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Fiscal y Administrativa o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios; Consejero de la Judicatura; regidor o síndico, durante el año calendario de la elección, a menos que se separe de sus funciones 90 días antes de la elección;
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+###### ARTICULO 48.
 
-IV.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de corporación policíaca, cuando menos durante los 90 días anteriores a la fecha de la elección;
+El Notario llevará un legajo para cada uno de los volúmenes del protocolo, en donde irá depositando los documentos que se refieran a las escrituras. El contenido de estos legajos se denominará Apéndice, el cual se considera como parte del protocolo.
 
-> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
+###### ARTICULO 49.
 
-V.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos.
+Los documentos del apéndice se arreglarán por legajos, poniéndose en cada uno de éstos el número que corresponda al de las escrituras públicas a que se refieren, y en cada uno de los documentos se pondrá una letra que los señale y distinga de los otros que forman el legajo. Las copias certificadas de las principales constancias procesales de los expedientes que se protocolicen por mandato judicial se agregarán al "apéndice" del volumen respectivo, considerándose como un solo documento.
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+Los apéndices se encuadernarán ordenadamente y se empastarán, procurando que contengan la misma cantidad de instrumentos y los tomos respectivos indicarán los números de las escrituras que contengan.
 
-VI.- Residir en el Estado durante los dos años inmediatos anteriores a la fecha de la elección. La vecindad no se pierde ni se interrumpe por ausencias durante el desempeño de cargos públicos federales o de elección popular, ni por la ejecución o cumplimiento, fuera de la entidad, de comisiones oficiales otorgadas por el Gobierno del Estado o por alguno de los organismos e instituciones de los que forme parte el propio Gobierno;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+###### ARTICULO 50.
 
-VII.- No ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección;
+Los documentos del apéndice no podrán desglosarse, los conservará el Notario y los remitirá con el volumen respectivo del protocolo, cuando éste deba ser entregado a la Dirección del Notariado y Archivo General de Notarías, en el término de cinco años contados a partir de la fecha en que se puso la certificación de cierre, en donde quedarán definitivamente.
 
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
+El notario podrá expedir copia certificada de los documentos del apéndice, que les sea solicitada, por parte legítima o por orden judicial.
 
-VIII.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-IX.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
+La Dirección del Notariado y Archivo General de Notarías, dará aviso al Secretario de Gobierno cuando los notarios no cumplan lo dispuesto por este artículo.
 
-> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-X.- Estar inscrito en Registro Federal de Electores y contar con Credencial para Votar vigente.
+###### ARTICULO 51.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
+Además del protocolo, los notarios tendrán obligación de llevar un índice por duplicado de las escrituras públicas pasadas ante su fe, por orden progresivo, en el cual se expresará: Nombre y apellidos de los otorgantes, número del acta, naturaleza del acto o hecho jurídico, volumen y fecha. Cuando deban entregar los volúmenes del protocolo a la Dirección del Notariado y Archivo General del Notarías, también depositarán un ejemplar de dicho índice en la misma Dirección y el otro lo conservará el Notario.
 
-###### Artículo 23.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-El cargo de Diputado es incompatible con cualquier cargo, comisión o empleo público.
+###### ARTICULO 52.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+Los volúmenes del protocolo, apéndices y en general todos los archivos de las notarías pertenecen al Estado. Los notarios serán depositarios de ellos y los conservarán hasta que deban entregarlos a la Dirección del Notariado y Archivo General de Notarías.
 
-###### Artículo 24.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-El Instituto Electoral y (sic) Participación Ciudadana de Yucatán declarará la validez de las elecciones de Gobernadora o Gobernador, diputadas y diputados, regidoras y regidores, y síndicos; efectuará la asignación de diputados y regidores según el principio de representación proporcional de forma paritaria; y expedirá las constancias respectivas a los candidatos electos.
+###### ARTICULO 53.
 
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+La pérdida o destrucción total o parcial de los volúmenes del protocolo, deberá ser comunicada de inmediato por el Notario o interesado al Registro Público de la Propiedad y a la Dirección del Notariado y Archivo General de Notarías, aportando las pruebas necesarias que lo acrediten. Justificada cualquiera de esas circunstancias, este último ordenará al Notario la reposición a su costa de los documentos respectivos.
 
-La declaración de validez, la asignación de Diputados y Regidores de representación proporcional y la expedición de las respectivas constancias podrán ser impugnadas ante el Tribunal Electoral del Estado de Yucatán, en los términos que la ley señale.
+En los casos de fallecimiento del Notario, la reposición se hará por el Director del Notariado y Archivo General de Notarías, a solicitud y a costa del interesado.
 
-###### Artículo 25.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-(DEROGADO, D.O. 20 DE JUNIO DE 2014)
+###### ARTICULO 54.
 
-(REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
+La reposición de los volúmenes del protocolo se hará de plano y sin trámite alguno, con el testimonio o con las copias certificadas de los testimonios respectivos, que a costa del Notario o del interesado expida el Director del Registro Público de la Propiedad o la Dirección del Notariado y Archivo General de Notarías o se aporten por aquellos para el objeto señalado.
 
-###### Artículo 26.
+El procedimiento respectivo será sin perjuicio de la responsabilidad civil o penal derivada de la pérdida o destrucción de los volúmenes mencionados.
 
-El Congreso no puede iniciar sus sesiones ni ejercer sus atribuciones, sin la concurrencia de más de la mitad de la totalidad de sus integrantes; los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes, a que concurran bajo las penas que se establezcan; llamando a quien deba suplirlo, a fin de que funcionen mientras se presentan los propietarios y en los demás casos, conforme a lo que dispongan las leyes.
+### CAPITULO II. DE LAS ESCRITURAS PUBLICAS
 
-> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA SE ADVIERTE QUE EL CONTENIDO DEL PRIMER PÁRRAFO DEL PRESENTE ARTÍCULO, FUE DIVIDIDO EN DOS PÁRRAFOS, VÉASE LITERALIDAD DEL DECRETO NÚMERO 144/2029 PUBLICADO EN EL D.O. EL 13 DE DICIEMBRE DE 2019.]</small>
+###### ARTICULO 55.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+Para los efectos de esta Ley se entiende por escritura pública el instrumento original o matriz que el notario asienta en el protocolo, para hacer constar un acto o hecho jurídico, los que además de las formalidades y solemnidades de ley, deberán contener la firma y sello de autorizar del notario.
 
-###### Artículo 27.
+###### ARTICULO 56.
 
-El Congreso para tratar y resolver los asuntos programados y los demás que se le presenten, tendrá cada año dos períodos ordinarios de sesiones.
+Las escrituras se asentarán en forma indeleble, con letra clara, sin abreviaturas, salvo el caso de inserción de documentos, y sin guarismos, a no ser que la misma cantidad aparezca asentada con letras. Los blancos o huecos, si los hubiere, se cubrirán con líneas fuertemente grabadas, precisamente antes de que se firme la escritura. Al final de ella se salvarán las palabras testadas y entrerrenglonadas, de cuyo número se hará mérito; las palabras equivocadas se testarán cruzándolas con una línea que las deje legibles, haciendo constar que no valen; las entrerrenglonadas se harán constar que sí valen. El espacio en blanco que pueda quedar antes y después de las firmas en las escrituras, deberá ser llenado con líneas. Se prohíben las borraduras y raspaduras.
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+###### ARTICULO 57.
 
-El primer período será del 1 de septiembre hasta el 15 de diciembre, pudiéndose aplazar hasta el 30 de diciembre cuando se trate del año de renovación de la persona titular del poder ejecutivo estatal; y el segundo período será del 1 de febrero hasta el 31 de mayo.
+El notario redactará las escrituras en español; podrá usar palabras en otro idioma que sean de uso general y que no tengan equivalente apropiado en el idioma castellano.
 
-En los períodos ordinarios, se ocupará del estudio, discusión, dictaminación y votación de todos los asuntos, conforme a esta Constitución y la ley.
+En las escrituras observará las reglas siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+I.- Expresará el lugar y fecha en que se extienda la escritura, su nombre y apellidos y el número de la notaría;
 
-###### Artículo 28.
+II.- Indicará la hora en los casos en que la Ley así lo prevenga;
 
-El Gobernador del Estado presentará al Congreso del Estado, el tercer domingo del mes de enero de cada año, un informe por escrito y en formato digital, del estado de la Administración Pública Estatal del período comprendido entre el 1 de enero y el 31 de diciembre del año anterior, el cual deberá guardar congruencia con el Plan Estatal de Desarrollo. Igualmente el informe deberá constar en lengua maya. Recibido el informe, el Congreso efectuará la glosa del mismo.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+III.- Consignará las declaraciones que hagan los otorgantes como antecedentes y certificará que ha tenido a la vista los documentos que se hubieren presentado y que se hayan relacionado o insertado en la parte expositiva o proemio de la escritura. Si se tratare de inmuebles relacionará cuando menos el último título de propiedad del bien o del derecho a que se refiere la escritura y citará su inscripción en el Registro Público de la Propiedad o expresará la razón de no estar registrada, debiendo proceder a su inscripción cuando menos en forma simultánea a la que se autoriza;
 
-Durante la glosa deberán comparecer, bajo formal protesta de decir verdad, los funcionarios de la Administración Pública Estatal que considere el Titular del Poder Ejecutivo previa solicitud del Congreso del Estado, así como los que determine el propio Congreso, de acuerdo a su competencia; asimismo, los diputados durante el tiempo que se realicen las comparecencias, podrán formular preguntas derivadas de las mismas y del texto del referido informe; una vez realizadas las preguntas, cada una de ellas deberá ser contestada con objetividad verbal y documental por los funcionarios respectivos. Los funcionarios públicos que comparezcan con motivo del informe deberán permanecer hasta la conclusión del mismo.
+IV.- Al citar algún instrumento pasado ante la fe de otro notario, anotará el nombre de éste, el número de la notaría, el nombre de las partes que intervinieron en el documento, la fecha de expedición y el número de su registro;
 
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+V.- Redactará el acto en cláusulas, con claridad y concisión, evitando toda palabra y fórmula inútil o rebuscada;
 
-Se exceptúa de lo dispuesto en el primer párrafo, el primer informe que abarcará los 15 primeros meses del ejercicio del cargo, y deberá presentarse el tercer domingo del mes de enero del año posterior al inmediato siguiente al de la entrada en funciones del Gobernador del Estado.
+VI.- Designará con precisión las cosas que sean objeto del acto, evitando que puedan confundirse con otras; si se tratare de bienes inmuebles, determinará su naturaleza, ubicación, colindancias o linderos y, en cuanto fuere posible su extensión superficial, sin que pueda aumentar la señalada en los antecedentes, salvo la escritura de rectificación de superficie en los términos del Código Civil;
 
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+VII.- Determinará las renuncias válidas del derecho o de leyes que hagan los contratantes;
 
-En el año que corresponda a la renovación ordinaria del Titular del Poder Ejecutivo, el Gobernador del Estado que concluya su período, deberá presentar al Congreso, el segundo domingo de septiembre, su último informe.
+VIII.- Dejará acreditada la personería de quien comparezca en representación de los directamente interesados, insertando los documentos respectivos o bien, agregándolos al apéndice y haciendo mención de ellos en el testimonio;
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+IX.- Cuando se trate de enajenaciones, gravámenes o hipotecas de bienes inmuebles, si el mandatario es persona física, el poder se insertará en la escritura y el original se agregará al apéndice, salvo que conste en escritura pública. La omisión de este requisito hará responsable al notario de los daños que se causen;
 
-El Gobernador del Estado, dentro del informe a que se refiere este artículo, deberá dar respuesta a las preguntas que le hubieren formulado los integrantes del Congreso, a través del Presidente en turno, las cuales deberán ser presentadas a más tardar el 15 de diciembre del año anterior y tratándose del último, el 15 de julio o, en su caso, el 31 de agosto, en los términos de la parte final del párrafo segundo del artículo 27. Las preguntas, así como las respuestas de las mismas, comprenderán exclusivamente asuntos relativos a la Administración Pública comprendido en el informe del Ejecutivo.
+X.- Compulsará los documentos que deban insertarse a la letra, los cuales sellará, rubricará y en su caso, agregará al apéndice;
 
-> <small>(REFORMADO, D.O. 4 DE OCTUBRE DE 2010)</small>
+XI.- Al anexar al apéndice cualquier documento, expresará el número del legajo y la letra bajo la cual se coloca en el mismo;
 
-###### Artículo 29.
+XII.- Expresará el nombre y apellidos, edad, estado civil, lugar de origen, nacionalidad, profesión u oficio y domicilio de los contratantes y de los testigos de conocimiento e instrumentales, cuando alguna ley los prevenga; de los intérpretes, cuando sea necesaria su intervención. Al expresar el domicilio no sólo mencionará la población en general, sino también el número de la casa, nombre de la calle o cualquier otro dato que precise dicho domicilio, hasta donde sea posible; y,
 
-Toda resolución del Congreso tendrá el carácter de Ley, Decreto o Acuerdo. Las Leyes o Decretos se comunicarán al Poder Ejecutivo firmados por el Presidente y los Secretarios, y se promulgarán en esta forma: "El Congreso del Estado Libre y Soberano de Yucatán, decreta: (texto de la Ley o Decreto)."
+XIII.- Hará constar bajo su fe:
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+a) Que conoce a los otorgantes y que a su juicio tienen capacidad legal;
 
-###### Artículo 30.
+b) Que les leyó la escritura a los interesados, así como a los testigos de conocimiento e intérpretes, si los hubiere, o que los otorgantes la leyeron por sí mismos;
 
-Son facultades y atribuciones del Congreso del Estado:
+c) Que a los otorgantes les explicó el valor y consecuencias legales del contenido de la escritura, así como la obligación, en su caso, de inscribirla en el Registro Público de la Propiedad y Archivo General de Notarías;
 
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+d) Que los interesados manifestaron su conformidad con la escritura y firmaron ésta, o no lo hicieron por declarar que no saben o no pueden hacerlo. En sustitución del otorgante que se encuentre en cualquiera de estos casos, firmará la persona que al efecto elija y aquél imprimará su huella digital del pulgar derecho;
 
-I.- Crear nuevos municipios dentro del territorio del Estado, siendo necesario para el efecto, que:
+e) La fecha o fechas en que firmaron la escritura los otorgantes o la persona o personas elegidas por ellos, los testigos e intérpretes, si los hubiere; y,
 
-a) Los núcleos poblacionales que soliciten erigirse en municipio, cuenten por lo menos con quince mil habitantes;
+f) Los hechos que presencie el notario y que sean integrantes del acto que autorice, como entrega de dinero o de títulos y otros efectos.
 
-b) Acredite que cuenta con elementos suficientes para garantizar su permanencia;
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-c) Los ayuntamientos de los municipios cuyo territorio se pretenda afectar, sean escuchados sobre la conveniencia en este aspecto; quedando obligados a remitir el acuerdo correspondiente, dentro de los doce días hábiles siguientes, al de la fecha en que reciban la prevención del Congreso;
+ARTICULO 57 BIS.- Los notarios están obligados a informar sobre el otorgamiento o revocación de los poderes, mandatos, y actos de apoderamiento pasados ante su fe, dentro de los cinco días hábiles siguientes al otorgamiento del instrumento de que se trate.
 
-d) Se escuchen las comunidades indígenas, que resultaren afectadas.
+El Notario, ingresará todos los datos al Registro Nacional de Avisos de Poderes Notariales, en un término que no excederá de cinco días hábiles contados a partir de su recepción u otorgamiento.
 
-La ley determinará los términos en los cuales se ejercerá este derecho;
+###### ARTICULO 58.
 
-e) Se tome el parecer del Ejecutivo del Estado, en los términos y condiciones dispuestos en el inciso c) de esta fracción, y
+Para que el notario dé fe de conocer a los otorgantes y de que tienen capacidad legal, bastará que sepa su nombre y apellidos que no observe en ellos manifestaciones patentes de incapacidad mental y que no tenga noticia de que están sujetos a incapacidad civil.
 
-f) La creación del nuevo municipio, se acuerde con el voto de las dos terceras partes de los integrantes del Congreso.
+###### ARTICULO 59.
 
-Para el caso de que ocurrieren movimientos migratorios, que hagan evidente la necesidad de anexar o fusionar, un núcleo poblacional a otro municipio, se estará a lo dispuesto por la ley respectiva;
+Si el notario no conoce a los otorgantes, hará constar su identidad y capacidad por la declaración de dos testigos de su conocimiento o por otro medio de prueba, expresándolo así en la escritura.
 
-> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
+Los testigos deberán ser mayores de edad y saber leer y escribir; para que éstos aseguren la identidad y capacidad legal de los otorgantes, bastará que sepan sus nombres y apellidos; que el notario no observe en ellos manifestaciones patentes de incapacidad mental y que no tenga conocimiento de que están sujetos a incapacidad civil.
 
-En la creación de nuevos municipios, los integrantes de las comunidades del pueblo maya, cuya distribución territorial se vea afectada, deberán ser previamente escuchados;
+###### ARTICULO 60.
 
-> <small>(REFORMADA, D.O. 11 DE ABRIL DE 2007)</small>
+La escritura podrá otorgarse si las partes comprueban en forma legal su identidad, haciendo relación el notario de la prueba respectiva, y de ser documental, la transcribirá en lo conducente.
 
-II.- Arreglar definitivamente los límites municipales, de conformidad con lo establecido por las leyes respectivas y las instancias técnico-normativas de la materia, tomando en consideración la opinión de las comunidades del pueblo maya, cuando resultaren afectados;
+###### ARTICULO 61.
 
-III.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
+Los representantes deberán declarar bajo protesta de decir verdad, que su personería no les ha sido revocada o modificada y esta declaración se hará constar en la escritura.
 
-IV.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
+###### ARTICULO 62.
 
-> <small>(ADICIONADA, D.O. 24 DE MAYO DE 2006)</small>
+Si alguno de los otorgantes fuere sordo o mudo y supiera leer revisará por sí mismo la escritura; y si declarare no saber o no poder leer, designará una persona que la lea en sustitución de él quien le dará a conocer el contenido de la escritura por medio de signos o de otra manera. En igual forma se procederá tratándose de personas ciegas; todo lo cual hará costar el notario.
 
-IV Bis.- Someter a referéndum las leyes, decretos, y las reformas a esta Constitución, cuando sea procedente, de conformidad con la ley de la materia;
+###### ARTICULO 63.
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+La parte que no supiere el idioma español, se acompañará de un intérprete elegido por ella, que hará protesta formal ante el notario de cumplir lealmente su cargo. La parte que conozca el idioma español podrá también llevar otro intérprete para lo que a su derecho convenga.
 
-V.- dar, interpretar y derogar Leyes y Decretos;
+###### ARTICULO 64.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE FEBRERO DE 2018)</small>
+Si las partes quisieren hacer alguna adición o variación, antes de que firme el notario, se asentará sin dejar espacio en blanco, mediante la declaración de que se leyó y explicó aquélla, la cual será suscrita de la manera prevenida por los interesados, intérpretes, testigos y el notario, quien firmará y sellará asimismo, al calce, la adición o variación extendida.
 
-VI.- Aprobar, a más tardar, el 15 de diciembre de cada año, la ley de ingresos y el presupuesto de egresos del Gobierno del estado de Yucatán y las leyes de ingresos de los municipios, de conformidad con los requerimientos establecidos en las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable;
+###### ARTICULO 65.
 
-> <small>(ADICIONADO, D.O. 31 DE AGOSTO DE 2012)</small>
+Firmada la escritura por los otorgantes, los testigos e intérpretes, en su caso, inmediatamente después será autorizada por el notario, preventivamente, con la razón "ante mí", su firma y su sello.
 
-Cuando inicie una administración gubernamental estatal en la fecha prevista en el artículo 48 de esta Constitución, el Congreso del Estado aprobará la Ley de Ingresos y el Presupuesto de Egresos del Estado a más tardar el 30 de diciembre del año en que se verifique dicho suceso.
+###### ARTICULO 66.
 
-> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+Cuando se hayan cubierto los impuestos correspondientes, el notario deberá autorizar definitivamente la escritura al calce de la misma.
 
-En caso de no aprobarse el presupuesto de egresos para el ejercicio fiscal correspondiente, continuará en vigor el autorizado para el año inmediato anterior, el cual se ejercerá mensualmente en una doceava parte del total, o de la disponibilidad de los recursos fiscales, con las actualizaciones que sean pertinentes, hasta en tanto se aprueba el del año fiscal respectivo.
+La autorización definitiva contendrá la fecha y el lugar en que se haga, la firma y el sello del notario, así como los demás requisitos que otras leyes prescriban.
 
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
+###### ARTICULO 67.
 
-Determinar las bases, montos y plazos con que serán distribuidas las participaciones a los municipios, con arreglo a las Leyes respectivas. Atendiendo entre otros criterios, el esfuerzo recaudatorio; población y marginación;
+Si el notario que haya autorizado preventivamente una escritura hubiere dejado de tener ese carácter por cualquier motivo, su sucesor podrá autorizarla definitivamente con arreglo al artículo anterior.
 
-> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
+###### ARTICULO 68.
 
-VII.- Revisar la cuenta pública del año anterior, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.
+Si los interesados en una escritura no se presentan a firmarla con sus testigos e intérpretes, en su caso, dentro de un plazo de treinta días naturales, contados a partir de la fecha de su otorgamiento, ésta quedará sin efecto y el notario pondrá al calce de la misma la razón de "no pasó" y firmará.
 
-La revisión de la cuenta pública la realizará el Congreso, a través de la Auditoría Superior del Estado, de conformidad con lo establecido en las leyes aplicables. Si del examen que esta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad solo podrá emitir las recomendaciones para la mejora en el desempeño de estos, en los términos de la ley.
+###### ARTICULO 69.
 
-> <small>(REFORMADO, D.O. 5 DE JULIO DE 2021)</small>
+Si la escritura fue firmada dentro del término a que se refiere el artículo anterior, pero no se acredita al notario el pago oportuno del interés fiscal, pondrá la razón de "no pasó" al margen de la escritura, dejando en blanco el espacio destinado a la autorización definitiva, para utilizarse en caso de revalidación. El plazo para revalidar no excederá de 90 días naturales.
 
-La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado, a más tardar el 30 de abril del año siguiente.
+###### ARTICULO 70.
 
-El Congreso concluirá la revisión de la cuenta pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe general ejecutivo del resultado de la fiscalización, a que se refiere el artículo 43 Bis de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, seguirá su curso en términos de lo dispuesto en dicho artículo.
+Cuando en una escritura consten varios actos jurídicos y dentro del término que establece el artículo 68 los comparecientes otorguen y firmen uno o algunos de tales actos, el notario los razonará y autorizará, dejando sin efecto el o los que le indiquen los interesados y que no estuvieren dispuestos a consentir, asentando la razón de "no pasó" respecto del acto o actos no consentidos. Esta razón se pondrá también al margen del protocolo.
 
-El Congreso evaluará el desempeño de la Auditoria Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización;
+###### ARTICULO 71.
 
-VII Bis.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
+El notario que haya comenzado a redactar en su protocolo una escritura será el único que pueda concluirla hasta su autorización definitiva, salvo el caso previsto en el artículo 67 de esta Ley.
 
-> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
+###### ARTICULO 72.
 
-VII Ter.- Coordinar y evaluar, sin perjuicio de su autonomía técnica, presupuestal y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley de la materia;
+Cada escritura llevará al margen su número, la naturaleza del acto, el nombre y apellidos de los otorgantes.
 
-> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
+###### ARTICULO 73.
 
-VIII.- Establecer las bases conforme a las cuales el Poder Ejecutivo y los municipios puedan contraer obligaciones o empréstitos, con las limitaciones impuestas por las leyes que establezcan las bases generales para incurrir en endeudamiento a que se refiere el numeral 3º de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; así como por lo dispuesto en su artículo 117, fracción VIII;
+El notario que autorice una escritura anotará al margen del título que se le presente la naturaleza y demás circunstancias del acto jurídico que otorgue, siempre que subsista algún derecho que se acredite con el propio documento.
 
-> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
+###### ARTICULO 74.
 
-VIII Bis.- Autorizar por el voto de las dos terceras partes de sus miembros presentes, los montos máximos para que, en las mejores condiciones del mercado, el Poder Ejecutivo y los ayuntamientos contraten empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago, con las excepciones previstas en la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos;
+Se prohíbe a los notarios revocar, rescindir o modificar el contenido de una escritura autorizada definitivamente, por simple razón al margen de ella. En estos casos debe extenderse nueva escritura y hacer las anotaciones conducentes en la primera.
 
-> <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
+###### ARTICULO 75.
 
-VIII Ter.- Aprobar los proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestarias correspondientes a los ejercicios fiscales que se requieran. Asimismo, aprobar las asignaciones directas a dichos proyectos, conforme a las excepciones previstas por la legislación aplicable;
+Todos los actos notariales se harán constar en el protocolo, salvo los siguientes:
 
-> <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
+I.- Los documentos que no requieran este requisito conforme a la Ley General de Títulos y Operaciones de Crédito, pero las actas respectivas se podrán protocolizar, a solicitud de los interesados;
 
-VIII Quáter.- Aprobar la afectación de ingresos del Estado y de los municipios, respecto al cumplimiento de todo tipo de obligaciones que deriven de la contratación de financiamiento o de proyectos para prestación de servicios. Igualmente, corresponderá al H. Congreso del Estado, a solicitud del Titular del Poder Ejecutivo, la aprobación de la desafectación de esos ingresos en términos de la legislación aplicable;
+II.- La certificación de actos que no pugnen con las prescripciones de la ley; la ratificación y reconocimiento de firmas de contratos privados de compraventa, constitución de hipotecas, cartas-poder y demás contratos que conforme a la Ley puedan otorgarse en escritura privada;
 
-> <small>(ADICIONADA, D.O. 28 DE FEBRERO DE 2018)</small>
+III.- La expedición de copias certificadas, certificación de toda clase de documentos, así como cotejos de copias con sus originales; y,
 
-VIII Quinquies.- Autorizar por el voto de las dos terceras partes de sus miembros presentes, al Poder Ejecutivo y a los ayuntamientos la celebración de convenios con la federación para la contratación de deuda estatal garantizada, en los términos de las leyes que expida el Congreso de la Unión en esta materia;
+IV.- En los demás casos en que otra Ley lo autorice expresamente.
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-IX.- crear o suprimir empleos públicos, y señalar, aumentar o disminuir sus dotaciones;
+###### ARTICULO 76.
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+Las enajenaciones de bienes inmuebles cuyo valor fiscal sea mayor a 1 500 veces el veces el (sic) valor diario de la Unidad de Medida y Actualización y la constitución o transmisión de derechos reales estimados en más de esa suma o que garanticen un crédito por mayor cantidad que la mencionada, para su validez, deberán constar en escritura pública.
 
-X.- expedir los Reglamentos que correspondan para fijar y cubrir el contingente de hombres que corresponda dar al Estado para el ejército Nacional;
+###### ARTICULO 77.
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+La obligación que tiene el notario de redactar por escrito las cláusulas de los testamentos públicos abiertos, no implica el deber de escribirlas por sí mismo.
 
-XI.- autorizar la organización, disciplina e instrucción de la Guardia Nacional y de la Policía de los municipios;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+###### ARTICULO 78.
 
-XII.- dar reglas de colonización conforme a las bases que establezca el Congreso General;
+Siempre que se otorgue un testamento, el Notario ante quien se celebre dicho acto jurídico dará aviso provisional por vía electrónica del testamento otorgado dentro de las veinticuatro horas siguientes, posteriormente y por escrito remitirá el documento dentro de los ocho días hábiles siguientes, el aviso se realizará ante la Dirección del Notariado y Archivo General de Notarías, quien deberá llevar registro electrónico y físico de las inscripciones relativas, con los datos que se mencionan.
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+Los testamentos públicos cerrados se presentarán al notario en tres ejemplares en sobres debidamente asegurados. Uno quedará depositado en la notaría; otro se remitirá a la Dirección del ramo y el tercero lo conservará el testador. En cada sobre el notario asentará la certificación procedente.
 
-XIII.- conceder amnistías por los delitos cuyo conocimiento pertenezca exclusivamente a los Tribunales del Estado;
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2009)</small>
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+ARTICULO 78 bis.- El aviso contendrá:
 
-XIV.- conceder premios y recompensas por servicios eminentes prestados al Estado;
+I. Nombre del testador;
 
-> <small>(REFORMADA, D.O. 11 DE MAYO DE 2007)</small>
+II. Nacionalidad del testador;
 
-XV.- Expedir leyes sobre Educación y Cultura, con sujeción a las bases constitucionales federales y las previstas en esta Constitución;
+III. Lugar y fecha de nacimiento;
 
-XVI.- (DEROGADA, D.O. 20 DE JUNIO DE 2014)
+IV. Clave Única de Registro de Población;
 
-> <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
+V. Estado civil;
 
-XVII.- Expedir y modificar la Ley que regule su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesita de promulgación del Ejecutivo Estatal para tener vigencia;
+VI. Nombres de los padres o tutores;
 
-> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
+VII. Nombre del albacea;
 
-XVIII.- Nombrar y remover al Auditor Superior del Estado, al Secretario General del Poder Legislativo, al Director General de Administración y Finanzas, al Director de Evaluación del Presupuesto y al Director del Instituto de Investigaciones Legislativas del Congreso;
+VIII. Lugar y fecha de otorgamiento de testamento;
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
+IX. Clase de testamento;
 
-XIX.- autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
+X. Número del instrumento Notarial;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+XI. Nombre del Notario, número y Distrito donde se otorgó el testamento;
 
-XX.- donar a las Instituciones de interés público o de beneficencia, cualquiera clase de bienes de la propiedad del Estado;
+XII. Volumen y número de escritura;
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+XIII. Lugar y fecha del otorgamiento;
 
-XXI.- Respecto al cargo del Titular del Poder Ejecutivo:
+XIV. Antecedentes sucesorios o notariales; y,
 
-a) Expedir el bando solemne, para dar a conocer la declaración de Gobernador electo hecha por el Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en la forma que establezca la ley de la materia;
+XV. Los demás datos que permitan la mejor identificación de la voluntad sucesoria.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
-b) Recibir el Compromiso Constitucional a que aluden los artículos 67 y 105 de esta Constitución;
+ARTICULO 78 ter.- Los presuntos herederos podrán concurrir ante la Dirección del Notariado y Archivo General de Notarías a solicitar certificado positivo o negativo testamentario, previa exhibición del acta de defunción del testador.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+###### ARTICULO 79.
 
-c) Conceder la licencia para separarse de sus funciones por más de 60 días, y
+Cuando un instrumento contenga evidente injusticia para alguno de los contratantes, el notario deberá hacerles las observaciones correspondientes; pero si las partes insisten en que el instrumento así se autorice, hará constar que hizo las consideraciones de referencia.
 
-d) Nombrar al interino o sustituto, en los casos de falta temporal o absoluta, erigiéndose en Colegio Electoral;
+### CAPITULO III. DE LOS INSTRUMENTOS PRIVADOS
 
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-XXII.- Nombrar a los Magistrados y Magistradas del Poder Judicial del Estado; así como otorgar el haber de retiro a que se refiere el artículo 64 de esta Constitución;
+###### ARTICULO 80.
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+Los contratos de compra-venta, mutuo, permuta, donación de hipoteca, cuando el valor fiscal de los bienes o el precio de las operaciones no exceda el equivalente a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, podrán otorgarse en instrumento privado.
 
-XXIII.- Aceptar las renuncias de los Magistrados del Poder Judicial del Estado en los términos del artículo 68 de esta Constitución;
+###### ARTICULO 81.
 
-XXIII Bis.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
+Los notarios deberán satisfacer en los documentos que ante ellos se ratifiquen los requisitos de existencia y validez que falten al acto jurídico de que se trate.
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+###### ARTICULO 82.
 
-XXIV.- hacer uso del derecho de iniciar Leyes que le concede la Constitución General, y aprobar o secundar, cuando lo crea conveniente, las de los Congresos de los otros Estados;
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+###### ARTICULO 83.
 
-XXV.- aprobar o no la formación o erección de nuevos Estados o Territorios;
+La cancelación del acto jurídico consignado en instrumento privado podrá hacerse en otro de la misma naturaleza.
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+###### ARTICULO 84.
 
-XXVI.- Recibir el Compromiso Constitucional a los Magistrados del Poder Judicial del Estado a que alude el artículo 67 de esta Constitución;
+Los instrumentos privados no se entregarán por el notario ante quien se haga la ratificación de ellos, sino hasta que estén satisfechos los impuestos fiscales que causen.
 
-> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
+###### ARTICULO 85.
 
-XXVII.- Resolver las peticiones de licencias para separarse de sus respectivos cargos y renuncias de sus integrantes, del Auditor Superior del Estado, Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y del Director del Instituto de Investigaciones Legislativas del Congreso;
+Los notarios llevarán la colección de instrumentos privados con numeración progresiva.
 
-> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
+###### ARTICULO 86.
 
-XXVII Bis.- Presentar la cuenta pública en los términos y las formas que fijen las leyes en la materia;
+En el otorgamiento de los instrumentos privados se observarán en lo conducente las formalidades que exige esta Ley para los instrumentos públicos.
 
-XXVIII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
+### CAPITULO IV. DE OTROS ACTOS EN QUE PUEDEN INTERVENIR LOS NOTARIOS
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+###### ARTICULO 87.
 
-XXIX.- arreglar los límites del Estado, por convenios amistosos, los cuales no se llevarán a efecto sin la aprobación del Congreso de la Unión;
+Los notarios, además de intervenir en las escrituras públicas y privadas, podrán hacerlo en:
 
-XXIX Bis.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
+I.- Los testamentos, de conformidad con la Ley respectiva;
 
-> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
+II.- El reconocimiento de firmas;
 
-XXX.- Nombrar a la Diputación Permanente que ha de funcionar en el receso del Congreso, antes de la clausura de cada período de sesiones ordinarias;
+III.- El otorgamiento de carta-poder, de su revocación, sustitución parcial o total;
 
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+IV.- Las certificaciones de entrega de documentos o valores que se hagan en su presencia;
 
-XXXI.- Designar por el voto de sus dos terceras partes, a la Presidenta o Presidente de la Comisión de Derechos Humanos y a los demás integrantes del Consejo Consultivo. Esta elección se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley;
+V.- La expedición de copias certificadas de documentos que se les presenten, de testimonios y certificados que procedan;
 
-> <small>(ADICIONADA, D.O. 26 DE JULIO DE 2013)</small>
+VI.- Notificaciones, interpelaciones, requerimientos y protestos;
 
-XXXI Bis.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de derechos humanos;
+VII.- Certificaciones de hechos que puedan apreciar por los sentidos;
 
-> <small>(ADICIONADA, D.O. 26 DE JULIO DE 2013)</small>
+VIII.- Consignaciones de dinero conforme al artículo 11 de esta Ley; y,
 
-XXXI Ter.- Requerir, a solicitud de la Comisión de Derechos Humanos del Estado de Yucatán, la comparecencia de las autoridades o servidores públicos cuando se hayan negado a aceptar o cumplir alguna recomendación emitida por dicho organismo autónomo, a efecto de que expliquen el motivo de su negativa;
+IX.- Los demás actos que prevengan las leyes.
 
-> <small>(ADICIONADA, D.O. 26 DE JULIO DE 2013)</small>
+###### ARTICULO 88.
 
-XXXI Quáter.- Analizar el Informe Anual presentado por la Comisión de Derechos Humanos del Estado de Yucatán y hacer público el resultado del mismo;
+El reconocimiento de firmas, documentos y contratos privados, se hará mediante una certificación puesta en los propios documentos.
 
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+El notario no podrá autorizar el reconocimiento de firma en blanco.
 
-XXXII.- Nombrar a las comisionadas y comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y a las personas integrantes de su consejo consultivo, en los términos establecidos en esta constitución y en las leyes aplicables;
+###### ARTICULO 89.
 
-> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+Cuando el notario intervenga en la entrega de dinero o valores, lo hará constar en un acta, en la que se especificarán las especies entregadas precisando su monto si está determinado.
 
-XXXII Bis.- Designar, por el voto de las dos terceras partes de sus miembros integrantes, a los titulares de los órganos internos de control de los organismos constitucionales autónomos del estado de Yucatán;
+###### ARTICULO 90.
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+Los notarios podrán expedir copias certificadas de documentos, autos, razones y otras constancias que les exhiban los interesados, ya sea en su oficina o en otro lugar.
 
-XXXIII.- erigirse en Jurado de Acusación para los altos funcionarios de que tratan los artículos 97 y 98;
+Se abstendrán de expedir tales copias cuando se trate de documentos que obren en expedientes y éstos no les sean mostrados por el responsable de la oficina o con su autorización.
 
-> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
+###### ARTICULO 91.
 
-XXXIV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal, para que informe u oriente cuando se discuta una ley o se estudie un negocio, que se relacione con la función de éste;
+Las notificaciones, los requerimientos, las interpelaciones, las certificaciones de hechos y las diligencias para las que no señale forma especial la Ley, se harán constar en actas destacadas que se levantarán por duplicado. El original se entregará a los interesados y el duplicado lo coleccionará y archivará el notario por riguroso orden de fechas, con numeración progresiva.
 
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+###### ARTICULO 92.
 
-XXXV.- Expedir las leyes que establezcan las bases para la organización de la administración pública municipal.
+El reconocimiento de carta privada que contenga otorgamiento o sustitución de poderes se hará constar en una certificación, asentada en el propio documento, la que contendrá los nombres de las partes y la clase de acto que tenga lugar. En caso de revocación, se levantará acta destacada, de la cual el notario también guardará copia.
 
-Los ayuntamientos se sujetarán a dichas bases para la elaboración y aprobación de los bandos de policía y gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia, dentro de sus respectivas jurisdicciones;
+###### ARTICULO 93.
 
-> <small>(ADICIONADA, D.O. 26 DE MAYO DE 2005)</small>
+Los interesados pueden consignar ante un notario dinero y valores, quien levantará acta, cuya copia se entregará al interesado, la cual, producirá el mismo efecto que si el escrito de consignación y los valores hubiesen sido entregados al juez competente. El notario procederá en los términos del artículo 11 de esta Ley y el interesado presentará al juez dicha copia y éste recabará de la autoridad correspondiente los valores consignados, siguiéndose luego las diligencias de consignación.
 
-XXXV Bis.- Formular las disposiciones aplicables, en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
+### CAPITULO V. DE LA ACTUACION NOTARIAL POR RECEPTORIA
 
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+###### ARTICULO 94.
 
-XXXVI.- Expedir la ley que organiza y reglamenta la estructura y funcionamiento de los ayuntamientos, la que tendrá por objeto establecer lo dispuesto en los incisos b), c), d), y e) de la fracción II del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+###### ARTICULO 95.
 
-XXXVII.- pedir, si no lo hubiese hecho antes el Ejecutivo del Estado, en caso de trastorno o sublevación interior, la protección de los Poderes de la Unión;
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
-> <small>(ADICIONADA, D.O. 26 DE MAYO DE 2005)</small>
+###### ARTICULO 96.
 
-XXXVII Bis.- Autorizar la celebración de los convenios de coordinación, dispuestos en el párrafo tercero del inciso i) fracción III, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+###### ARTICULO 97.
 
-XXXVIII.- Fijar las modalidades que a la propiedad privada deban imponerse para beneficio público; ejercer los derechos que le confieren los artículos 27 y 28 de la Constitución Federal;
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+###### ARTICULO 98.
 
-XXXIX.- Conocer y resolver los desacuerdos que surjan por los convenios que suscriban los Ayuntamientos con el Ejecutivo, conforme a los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos;
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+### CAPITULO VI. DE LOS TESTIMONIOS
 
-XL.- Declarar desaparecido un Ayuntamiento, así como revocar el mandato de sus integrantes, mediante el acuerdo de las dos terceras partes de los Diputados que integran el Congreso, previo el cumplimiento del procedimiento respectivo.
+###### ARTICULO 99.
 
-Para el ejercicio de las facultades señaladas en esta fracción, se deberá garantizar en todo momento, que él Regidor afectado tenga oportunidad para ofrecer pruebas y alegar en su defensa;
+Testimonio es el documento auténtico en el que se transcribe íntegra o parcialmente una escritura o acta notarial con los anexos que obran en el apéndice, con excepción de los que estuvieren redactados en idioma extranjero y los que se hayan inserto en el instrumento.
 
-> <small>(ADICIONADA, D.O. 26 DE MAYO DE 2005)</small>
+El testimonio será parcial cuando en él sólo se transcriba parte, ya sea de la escritura o del acta, ya de los documentos del apéndice.
 
-XL Bis.- Designar un Concejo Municipal de entre los ciudadanos y vecinos del municipio de que se trate, en caso de falta absoluta de la totalidad de los integrantes del Ayuntamiento. Dicho Concejo podrá ser:
+El notario expedirá testimonio o copia parcial cuando con ello no cause perjuicio a tercera persona.
 
-a) Provisional, si su designación se lleva a cabo en el lapso de los primeros seis meses del ejercicio de la gestión, y
+###### ARTICULO 100.
 
-b) Definitivo, si se realiza con posterioridad al mencionado período de tiempo.
+Al final de cada testimonio se hará constar su calidad de primero, segundo o ulterior número ordinal, el nombre del interesado a quien se expide, a que título, el número de hojas del testimonio y la fecha de la expedición. Se salvarán las testaduras y lo escrito entre líneas, de la manera prescrita para las escrituras. El testimonio será autorizado por el notario con su firma y sello.
 
-Cada Concejo Municipal será conformado con un número de integrantes en proporción al número de habitantes, conforme a lo establecido en la ley de la materia. También estará investido de personalidad jurídica; con las facultades y atribuciones que las leyes determinen.
+###### ARTICULO 101.
 
-Sus integrantes no podrán ser electos para el período constitucional inmediato;
+Las hojas del testimonio tendrán las dimensiones que fija esta Ley para las del protocolo, llevarán a cada lado un margen de una octava parte de la foja y podrá contener hasta cuarenta renglones. Cada hoja del testimonio llevará al margen el sello y la media firma o rúbrica del notario.
 
-(NOTA: EL 22 DE MARZO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2010, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+###### ARTICULO 102.
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+Los notarios podrán expedir y autorizar testimonios o copias impresas, que sean legibles e indelebles.
 
-XLI.- REVOCAR EL MANDATO CONFERIDO AL GOBERNADOR DEL ESTADO, Y A LOS DIPUTADOS EN LO PARTICULAR. EN AMBOS CASOS SERÁ NECESARIA LA DETERMINACIÓN DEL SESENTA Y CINCO POR CIENTO DE LOS ELECTORES INSCRITOS EN EL LISTADO NOMINAL CORRESPONDIENTE, COMUNICADA AL CONGRESO Y APROBADA POR EL VOTO UNÁNIME DE LA LEGISLATURA EN EL CASO DEL GOBERNADOR, Y DE LAS DOS TERCERAS PARTES EN EL DE LOS DIPUTADOS;
+###### ARTICULO 103.
 
-XLII.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
+El notario podrá expedir a los interesados un primer testimonio, un segundo o de número ulterior, sin necesidad de autorización judicial.
 
-> <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
+###### ARTICULO 104.
 
-XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuera necesario, con objeto de cubrir las vacantes de sus miembros propietarios y suplentes electos por el principio de mayoría relativa, en los plazos y términos que disponga la ley y la convocatoria respectiva;
+Cuando el notario expida un testimonio pondrá al margen del protocolo una anotación que contendrá la fecha de la expedición, el número ordinal que corresponda a éste, para quién se expide y a qué título.
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2013)</small>
 
-XLIII Bis.- Convocar a elecciones extraordinarias, cuando se declare la nulidad de una elección o la desaparición de un Ayuntamiento, en el plazo y condiciones que dispongan las leyes;
+###### ARTICULO 105.
 
-XLIV.- (DEROGADA, D.O. 26 DE MAYO DE 2005)
+Las razones puestas por el Registro Público de la Propiedad al calce de los testimonios, podrán ser extractadas o transcritas por el Notario en una anotación que se hará después de la autorización de la escritura o acta notarial en el instrumento correspondiente.
 
-XLV.- (DEROGADA, D.O. 26 DE MAYO DE 2005)
+Las anotaciones llevarán la firma y sello del notario.
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+### CAPITULO VII. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
 
-XLVI.- Formular el proyecto de Presupuesto de Egresos del Poder Legislativo, atendiendo las posibilidades del ingreso y gasto público del Estado, y remitirlo al titular del Poder Ejecutivo, a más tardar el 15 de octubre de cada año; a fin de que éste, considere su incorporación al proyecto de Presupuesto de Egresos del Estado;
+###### ARTICULO 106.
 
-> <small>(REFORMADA, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+Las escrituras, las actas y sus testimonios, probarán plenamente que los otorgantes manifestaron su voluntad de celebrar el acto consignado en la escritura; que hicieron las declaraciones y se realizaron los hechos de los que haya dado fe el notario y que éste observó las formalidades que mencione, mientras no fuere declarada judicialmente su nulidad.
 
-XLVII.- Determinar los servicios públicos que tendrán a su cargo los municipios según las condiciones territoriales y socioeconómicas de los mismos, así como su capacidad administrativa y financiera;
+###### ARTICULO 107.
 
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+Las correcciones no salvadas en las escrituras, actas y testimonios se tendrán por no hechas. En caso de discordancia entre las palabras y los guarismos prevalecerán aquéllas.
 
-XLVIII.- Ratificar el nombramiento de la secretaria o secretario responsable del control interno del Poder Ejecutivo, que haga la Gobernadora o Gobernador;
+###### ARTICULO 108.
 
-> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+La escritura o el acta será nula cuando:
 
-XLIX.- Designar a la o el Fiscal Especializado en Combate a la Corrupción, a través del mismo procedimiento dispuesto en esta constitución para la o el fiscal general del estado, y
+I.- El notario no tenga expedito el ejercicio de sus funciones al otorgarse el instrumento o al autorizarlo;
 
-> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+II.- No le esté permitido por la ley autorizar el acto o hecho, materia de la escritura o del acta;
 
-L.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
+III.- Fuere otorgada por las partes o autorizada por el notario fuera de la circunscripción asignada a éste para actuar;
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+IV.- Se hiciere aparecer que la escritura o acta fue firmada por las partes ante la presencia del notario y se demuestra que las firmas respectivas se obtuvieron fuera de su circunscripción;
 
-###### Artículo 31.
+V.- Haya sido redactada en idioma extranjero;
 
-Corresponde al Congreso en sesión plena, con asistencia de no menos de las tres cuartas partes del número total de Diputados, resolver sobre la renuncia que de su cargo haga el Gobernador del Estado. Sólo podrá aceptarse la renuncia, siempre que a juicio del Congreso hubiese causa grave y suficiente, y que la renuncia sea hecha personalmente por el Gobernador del Estado ante el Congreso, libre de toda coacción o violencia.
+VI.- Se omitió la mención relativa a la lectura;
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+VII.- No esté firmada por todos los que deben intervenir, según esta Ley, o no contiene la mención exigida a falta de firma;
 
-###### Artículo 32.
+VIII.- No está autorizada con la firma y sello del notario o lo está cuando debiera tener la razón de "no pasó", según los artículos relativos de esta Ley; y,
 
-Los Diputados que acepten la renuncia del Gobernador, sin llenarse los requisitos del artículo anterior, serán personal y criminalmente responsables, y en este caso, la aceptación de la renuncia será nula.
+IX.- Falte algún otro requisito que produzca la nulidad del instrumento por disposición expresa de la Ley.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+En el caso de la fracción II de este artículo solamente será nulo el instrumento en lo referente al acto o hecho cuya autorización no le esté permitida, pero tendrá validez respecto de los otros actos o hechos que contengan y que no estén en la misma situación.
 
-###### Artículo 33.
+Fuera de los casos determinados en este artículo el instrumento no es nulo, aun cuando el notario infractor de alguna prescripción legal quede sujeto a la responsabilidad que en derecho proceda.
 
-No puede el Congreso conceder dispensa de Ley a ninguna persona o corporación, ni tampoco dispensa o revalidación de los estudios que determinen las Leyes sobre Instrucción Pública para efecto de obtener Título Profesional.
+###### ARTICULO 109.
 
-> <small>(REFORMADO, D.O. 19 DE MARZO DE 2010)</small>
+El testimonio será nulo en caso de que:
 
-## TITULO SEGUNDO. Del Estado y su Territorio
+I.- Lo fuere la escritura o el acta en él consignados;
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+II.- El notario no tenga expedito el ejercicio de sus funciones al autorizar el testimonio;
 
-### CAPITULO III. De los Medios de Participación Ciudadana
+III.- Lo autorice fuera de su circunscripción;
 
-> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+IV.- No esté autorizado con la firma y sello del notario; y,
 
-###### Artículo 11 Bis.
+V.- Faltare algún otro requisito que produzca la nulidad por disposición expresa de la Ley.
 
-Son mecanismos de participación ciudadana los siguientes:
+## TITULO CUARTO. DE LAS LICENCIAS, SUSPENSION Y CESACION DE LOS NOTARIOS
 
-A.- El plebiscito, a través del cual, los ciudadanos ejercen su participación opinando sobre los actos y acciones gubernamentales de los Poderes Ejecutivo, Legislativo y de los Municipios; calificadas como trascendentales para la vida pública y el interés social.
+### CAPITULO I. DE LAS LICENCIAS
 
-B.- El referéndum, a través del cual, se garantiza la participación ciudadana para recabar su opinión sobre el contenido total o parcial de las reformas a la Constitución, así como de la creación, derogación o reformas a las leyes o decretos, que acuerde el Poder Legislativo. De los Ayuntamientos, cuando se trate del Bando de Policía y Gobierno, y los reglamentos municipales.
-
-C.- La iniciativa popular, por medio de la cual la ciudadanía tiene el derecho de presentar proyectos de creación, reforma o adición a la Constitución, a las leyes, decretos, Bando de Policía y Gobierno o reglamentos municipales.
-
-D.- La revocación de mandato de los representantes populares electos.
-
-La ley establecerá el porcentaje de ciudadanos que deberán solicitar la revocación de mandato, así como el porcentaje de votación ciudadana que se requiere para que dicha consulta adquiera fuerza vinculante y por tanto obligatoria, tomando como base el listado nominal de la elección que corresponda.
-
-Los requisitos, procedimientos y demás regulación en la materia se establecerán en la ley reglamentaria.
-
-La organización, el desarrollo, el cómputo y declaración de los resultados que se obtengan de los mecanismos de participación ciudadana son una función estatal, que corresponde al Instituto Electoral y de Participación Ciudadana de Yucatán.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 34.
-
-El Auditor Superior del Estado enviará al Congreso del Estado, el informe de resultados de la revisión de la cuenta pública a más tardar el 20 de febrero del año siguiente al de la presentación de dicha cuenta pública.
-
-El Congreso del Estado concluirá la revisión de la cuenta pública a más tardar dentro del año siguiente al de su presentación, en los términos que establezca la Ley.
-
-La contabilidad gubernamental y la cuenta pública se regirán por las leyes aplicables en la materia.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 35.
-
-El derecho de iniciar Leyes o Decretos, compete:
-
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
-
-I.- A las Diputadas y Diputados;
-
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
-
-II.- A la Gobernadora o Gobernador del Estado;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-III.- al Tribunal Superior de Justicia en los asuntos de la competencia del Poder Judicial del Estado;
-
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
-
-IV.- a los Ayuntamientos o Concejos Municipales que conforme a las Leyes en vigor hagan y realicen sus funciones, tratándose de cuestiones municipales;
-
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
-
-V.- A las y los Ciudadanos, conforme a las modalidades que dispongan las leyes.
-
-(REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
-
-###### Artículo 36.
-
-Las iniciativas presentadas por las Autoridades a que se refieren las fracciones II a IV del artículo anterior, y las que presenten los ciudadanos conforme a la ley, pasarán a las Comisiones que correspondan, salvo que se otorgue la respectiva dispensa en los términos de Ley. Las que presenten los Diputados se sujetarán necesariamente a los trámites que dispongan las leyes.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 37.
-
-Todo proyecto de Ley o Decreto que fuere desechado en el Congreso, no podrá volver a presentarse en el mismo período de sesiones en que fuere desechado.
-
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
-
-###### Artículo 38.
-
-Los Proyectos de Ley o Decreto votados por el Congreso, se remitirán al Ejecutivo, quien, si no tuviere observaciones qué hacer, los publicará inmediatamente; excepto los que tuvieren el carácter ad referéndum.
-
-Se considerará aceptado por el Ejecutivo, todo proyecto no devuelto con observaciones dentro de los 10 días hábiles siguientes. Transcurrido este término, si el Congreso hubiere concluido o suspendido sus sesiones, lo remitirá a más tardar el décimo día en que de nuevo estuviere reunido.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 39.
-
-Si el Congreso adoptare las reformas propuestas por el Ejecutivo en sus observaciones, lo comunicará a éste, quien promulgará la Ley o Decreto.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 40.
-
-Si el Congreso no aceptare las observaciones del Ejecutivo, se dará al Proyecto el trámite de prensa, y en el período de sesiones inmediato podrá el Congreso resolver definitivamente, comunicando su resolución al Ejecutivo, quien estará obligado a promulgar la Ley o Decreto en todo caso.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 41.
-
-El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste acuerde la prórroga de sus sesiones o ejerza funciones de Cuerpo Electoral o de Jurado.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 42.
-
-Para funcionar durante los recesos, el Congreso designará a mayoría de votos una diputación permanente, debiendo integrarse de forma paritaria, compuesta de tres diputados y por cada uno de éstos un suplente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 43.
-
-Las atribuciones de la Diputación Permanente son:
-
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a petición del Ejecutivo, la convocación del Congreso a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, y no pudiendo el Congreso ocuparse de más asuntos que aquellos para los que fue convocado;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-II.- recibir el Compromiso Constitucional a los funcionarios que deban prestarla ante el Congreso;
-
-> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
-
-III.- Recibir durante los recesos del Congreso, las iniciativas de Ley, Decreto o Acuerdo, proposiciones y demás asuntos dirigidos a éste y turnarlos para su estudio y dictamen a las comisiones respectivas del Congreso conforme a lo dispuesto en la Ley de Gobierno del Poder Legislativo del Estado de Yucatán, a fin de que se les dé el trámite que corresponda en el inmediato período de sesiones.
-
-> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
-
-IV.- Resolver sobre las peticiones de licencia del Auditor Superior del Estado, Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y del Director del Instituto de Investigaciones Legislativas del Congreso, cuando traten de separarse temporalmente de sus respectivos encargos; resolver sobre las renuncias de los Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado en los términos de esta Constitución; resolver sobre las renuncias colectivas de miembros de Ayuntamientos y acerca de la desintegración de los mismos, nombrando Concejos en los términos de la fracción XL del artículo 30 de la presente Constitución;
-
-> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
-
-V.- Nombrar al Auditor Superior del Estado, Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y al Director del Instituto de Investigaciones Legislativas del Congreso, con el carácter de interinos, por falta absoluta o temporal de los propietarios;
-
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-VI.- acordar el pago de los gastos indispensables para la Secretaría;
-
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-VII.- conceder, en su caso, a los Diputados propietarios o suplentes en ejercicio, licencias para separarse de sus funciones o para aceptar algún empleo de nombramiento del Ejecutivo;
-
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-VIII.- convocar inmediatamente al Congreso, a sesiones extraordinarias, que se efectuarán dentro de los ocho días siguientes, para el nombramiento de Gobernador interino; y
-
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-IX.- las demás que le confiere esta Constitución.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 19 DE MARZO DE 2010)</small>
-
-###### Artículo 44.
-
-Se deposita el Poder Ejecutivo del Estado en una ciudadana o ciudadano que se denominará "Gobernadora o Gobernador del Estado de Yucatán", observando el principio de paridad de género en la integración de su gabinete.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 45.
-
-La elección del Gobernador será popular directa y se hará en los términos que disponga la Ley Electoral.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
-
-###### Artículo 46.
-
-Para ser Gobernadora o Gobernador del Estado se requiere, además de lo dispuesto en la fracción I del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos:
-
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
-
-I.- ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos;
-
-(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
-
-II.- haber nacido en el Estado y con vecindad no menor de un año inmediatamente anterior al día de la elección. La vecindad no se pierde por desempeñar el cargo de Diputado Federal o Senador;
-
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
-
-III.- en caso de no haber nacido en el Estado, tener residencia efectiva en él no menor de 5 años inmediatamente anteriores al día de la elección;
-
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1974)</small>
-
-IV.- tener treinta años cumplidos el día de la elección;
-
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
-
-V.- no ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección;
-
-(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
-
-VI.- no estar en servicio activo, en caso de pertenecer al Ejército o corporación similar, 90 días antes de la fecha de la elección;
-
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
-
-VII.- no ser titular o encargado del despacho de alguna de las dependencias a que se refiere la Ley Orgánica de la Administración Pública del Estado, a menos que se separe de su puesto 90 días antes de la fecha de la elección;
-
-> <small>(REFORMADA, D.O. 22 DE SEPTIEMBRE DE 1987)</small>
-
-VIII.- no estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 53; y
-
-> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
-
-IX.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos.
-
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
-
-X.- No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Fiscal y Administrativa o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, Consejero de la Judicatura, Diputado local, Regidor o Síndico, a menos que se separe de su cargo 120 días antes de la fecha de la elección;
-
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
-
-XI.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, Consejero, Secretario Ejecutivo o sus equivalentes, de los órganos electorales locales o nacionales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
-
-XII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
-
-> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
-
-XIII.- estar inscrito en el Registro Federal del (sic) Electores y contar con Credencial para Votar vigente.
-
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 1974)</small>
-
-###### Artículo 47.
-
-Para ser Gobernador Interino del Estado, se requieren los mismos requisitos que para ser Gobernador Constitucional.
-
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
-
-###### Artículo 48.
-
-El Gobernador Constitucional del Estado entrará en funciones el día 1 de octubre y podrá durar en su encargo hasta seis años.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 49.
-
-El Gobernador, al tomar posesión de su encargo, manifestará ante el Congreso o ante la Diputación Permanente, en los recesos de aquél, el Compromiso Constitucional siguiente: "Me comprometo a guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, y pugnar en todo momento por el bien y prosperidad de la Unión y del Estado, y si así no lo hiciere, que la Nación y el Estado me lo demanden".
-
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
-
-###### Artículo 50.
-
-Si al comenzar un período constitucional no se presentara el Gobernador electo o la elección no estuviere hecha y declarada el 1 de octubre, cesará el Gobernador cuyo período hubiere concluido; encargándose desde luego del Poder Ejecutivo, con el carácter de interino, quien nombre el Congreso.
-
-Si éste no estuviere reunido, se encargará del despacho, provisionalmente, el Secretario General de Gobierno, entre tanto el Congreso se reúne y designa al Gobernador interino y convoca a las elecciones en los términos del artículo 52 de esta Constitución.
-
-Si la falta del Gobernador electo fuere por motivo de fuerza mayor, amenaza grave, coacción o cualquier otra causa que impida asumir materialmente sus funciones; deberá comprobarse este hecho y en tal caso, quien hubiere desempeñado legalmente las funciones, deberá transferirlas al Gobernador electo.
-
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
-
-###### Artículo 51.
-
-En caso de falta absoluta del Gobernador, ocurrida en los 2 primeros años del período constitucional, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral y, concurriendo al menos las dos terceras partes del total de sus integrantes, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino.
-
-Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará al Gobernador provisional y convocará al Congreso a sesiones extraordinarias en los términos de ley, para que este a su vez nombre al Gobernador interino y se expida la convocatoria a elecciones.
-
-Dicha convocatoria deberá ser expedida por el Congreso, dentro de los 10 días hábiles posteriores al del nombramiento del Gobernador interino, debiendo mediar entre la fecha de la convocatoria y la que se señale para la realización de las elecciones, un plazo no mayor de 6 meses.
-
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
-
-###### Artículo 52.
-
-Si la falta del Gobernador fuere absoluta dentro de los últimos 4 años, se nombrará al sustituto, quien concluirá el período constitucional; procediéndose en lo conducente, conforme a lo dispuesto en el artículo anterior.
-
-> <small>(REFORMADO, D.O. 22 DE SEPTIEMBRE DE 1987)</small>
-
-###### Artículo 53.
-
-El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
-
-> <small>(F. DE E., D.O. 25 DE SEPTIEMBRE DE 1987)</small>
-
-Nunca podrá ser electo para el período inmediato:
-
-A) El Gobernador sustituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación.
-
-B) El Gobernador Interino, el provisional o el Ciudadano que bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo los dos últimos años del período.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 54.
-
-Siempre que ocurra una falta absoluta o temporal del Gobernador y mientras se reúne el Congreso del Estado y designa interino, se harán cargo del Despacho del Poder Ejecutivo los titulares de las dependencias que establezca el Código de la Administración Pública de Yucatán, en la que se señalará el orden en que asumirán el encargo en cualquiera de estos casos, el encargado del Poder Ejecutivo hará entrega del cargo al Gobernador nombrado por el Congreso, inmediatamente que se presente a recibirlo.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-### CAPITULO I. Del Estado
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 55.
-
-Son facultades y obligaciones del Gobernador del Estado:
-
-I.- publicar y hacer cumplir las Leyes federales;
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-II.- promulgar, publicar y ejecutar las leyes que expida el Congreso, proveer en su esfera administrativa, exacta observancia. Publicar los bandos y reglamentos que acuerden los ayuntamientos, siempre y cuando, éstos no cuenten con sus propios órganos de difusión oficial;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-III.- nombrar y remover a los titulares de las dependencias que señala el Código de la Administración Pública de Yucatán, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 20 DE ABRIL DE 2016)</small>
-
-III Bis.- Objetar los nombramientos de los comisionados del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales hechos por el Congreso del estado, en los términos establecidos en esta constitución y en las leyes aplicables;
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-IV.- disponer de la Guardia Nacional;
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-V.- disponer de las policías municipales, en aquellos casos que considere como causa de fuerza mayor, o alteración grave del orden público;
-
-> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
-
-VI.- nombrar uno o más apoderados para asuntos judiciales, dentro o fuera del Estado;
-
-VII.- (DEROGADA, D.O. 9 DE SEPTIEMBRE DE 1988)
-
-VIII.- pedir a la Diputación Permanente que convoque al Congreso a sesiones extraordinarias. En este caso, a la apertura de sesiones deberá concurrir para exponer las razones o causas que hicieron necesaria su convocación, y el asunto o asuntos que ameriten una resolución perentoria;
-
-IX.- facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
-
-X.- hacer observaciones a las Leyes y a los Decretos, en los términos que establece el artículo 38 de esta Constitución;
-
-XI.- hacer uso del derecho de iniciar Leyes que le concede el artículo 35 de la presente Constitución;
-
-XII.- cumplir con lo dispuesto en el artículo 28 de esta Constitución;
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
-
-XIII.- expedir la convocatoria para las elecciones ordinarias;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE FEBRERO DE 2018)</small>
-
-XIV.- Presentar ante el Congreso del Estado, a más tardar el 25 de noviembre de cada año, las iniciativas relativas a la ley de ingresos y al presupuesto de egresos del Gobierno del Estado de Yucatán, que regirán durante el año inmediato siguiente, de conformidad con los requerimientos establecidos en las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable.
-
-> <small>(ADICIONADO, D.O. 31 DE AGOSTO DE 2012)</small>
-
-Cuando inicie una administración gubernamental estatal en la fecha prevista en el artículo 48 de esta Constitución, el Gobernador del Estado, por única ocasión, hará llegar al Congreso del Estado las iniciativas antes mencionadas a más tardar el día 20 del mes de diciembre del año en el que inicie el período constitucional para el cual fue electo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 6 DE DICIEMBRE DE 2010)</small>
-
-Asimismo, deberá incluir en el Presupuesto de Egresos del ejercicio fiscal que corresponda, las partidas necesarias para solventar las obligaciones adquiridas en ejercicios fiscales anteriores y pagaderas en dicho ejercicio, siempre que:
-
-a).- Constituyan deuda pública del Estado, o de las entidades paraestatales garantizadas por el Poder Ejecutivo, conforme a lo autorizado por las leyes y los decretos correspondientes, o
-
-b).- Deriven de contratos relativos a proyectos para la prestación de servicios aprobados por el H. Congreso, conforme a la ley de la materia.
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-XV.- resolver definitivamente por sí o por conducto del funcionario que al efecto señale el Código de la Administración Pública de Yucatán, sobre las sanciones que las autoridades administrativas apliquen por infracciones a los reglamentos gubernativos, de policía y de los demás recursos que conforme a las Leyes competan;
-
-XVI.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
-
-XVII.- practicar visitas oficiales, cuando lo crea conveniente, a los municipios del Estado;
-
-> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
-
-XVIII.- concurrir al Congreso, cuando lo juzgue conveniente, para presentar o sostener alguna Iniciativa del Ejecutivo o autorizar a cualquier funcionario del mismo para dicho objeto;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-XIX.- conceder licencia a los servidores públicos y empleados de la Administración Pública Estatal en el ejercicio de su cargo, en términos de la ley;
-
-XX.- pedir la protección de los Poderes de la Unión en caso de sublevación o trastorno interior; y
-
-> <small>(ADICIONADA, D.O. 26 DE JULIO DE 2013)</small>
-
-XX Bis.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de derechos humanos;
-
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 1964)</small>
-
-XXI.- conceder primas y subsidios a los que establezcan en el Estado, industrias y cultivos nuevos, necesarios o ampliados;
-
-> <small>(REFORMADA, D.O. 31 DE MARZO DE 1988)</small>
-
-XXII.- establecer los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación Integral y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas sectoriales, especiales, institucionales y operativos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE MAYO DE 2006)</small>
-
-XXII Bis.- disponer lo necesario, en los términos de la ley respectiva, para garantizar el resultado de los plebiscitos;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-XXIII.- elaborar y remitir el Plan Estatal de Desarrollo, sus actualizaciones, los programas mencionados en la fracción XXII de este Artículo, así como los criterios que le sirven de base al Congreso del Estado para su conocimiento y consideración al ejercer sus atribuciones constitucionales;
-
-> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
-
-XXIV.- Presentar la cuenta pública con la documentación respectiva, en los términos y las formas que fijen las leyes en la materia, y
-
-> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
-
-XXV.- las demás que le confieren esta Constitución y otras Leyes.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 56.
-
-El Gobernador no puede:
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-I.- renunciar a su cargo, ni ausentarse del territorio del Estado o separarse del ejercicio de sus funciones por más de sesenta días sin causa grave calificada por el Congreso. En las separaciones o ausencias del Gobernador que no excedan de sesenta días atenderá el Despacho el funcionario que señale el Código de la Administración Pública de Yucatán;
-
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-II.- imponer contribuciones;
-
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-III.- impedir ni retardar la instalación del Congreso;
-
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-IV.- impedir ni retardar las elecciones populares, ni intervenir en ellas para que recaigan en determinada persona, ya sea por sí o por medio de otras autoridades o agentes, siendo esto motivo de responsabilidad y nulidad de la elección;
-
-> <small>(ADICIONADA, D.O. 24 DE MAYO DE 2006)</small>
-
-IV Bis.- impedir o intervenir en los procesos de plebiscito o referéndum, con el objeto de influir en el resultado de los mismos;
-
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-V.- mezclarse en las causas pendientes, ni disponer durante el juicio de las personas de los reos;
-
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-VI.- remitir deudas, mandando hacer cortes de cuenta respecto de los deudores del Estado, para dejar insolutos los créditos de la Hacienda Pública; y
-
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícitos o espectáculos inmorales.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE ENERO DE 1970)</small>
-
-###### Artículo 57.
-
-Para el despacho de los asuntos encomendados al Poder Ejecutivo del Estado, el titular de este se auxiliará de los servidores públicos que establece el Código de la Administración Pública de Yucatán.
-
-> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
-
-###### Artículo 58.
-
-Para ser titular de las dependencias del Poder Ejecutivo se requiere ser ciudadano mexicano en ejercicio de sus derechos.
-
-> <small>(ADICIONADO, D.O. 26 DE SEPTIEMBRE DE 2013)</small>
-
-###### Artículo 59.
-
-El Poder Ejecutivo formulará informes trimestrales sobre el avance de la gestión y desempeño de la administración pública, así como de sus finanzas, los cuales deberán guardar congruencia con el Plan Estatal de Desarrollo y servirán de base para la integración del informe a que se refiere el artículo 28 de esta Constitución.
-
-Los informes trimestrales serán públicos y se pondrán a disposición de la ciudadanía, para su seguimiento y evaluación, en los términos que establezcan las leyes respectivas.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 60.
-
-Todas las iniciativas de Leyes y Decretos así como los reglamentos y acuerdos que el Ejecutivo formule, promulgue o expida, para que sean obligatorios deberán estar firmados por éste y por los titulares de las dependencias que establezca el Código de la Administración Pública de Yucatán, sin este requisito no serán válidos.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 61.
-
-Los titulares de las dependencias y entidades del Poder Ejecutivo, Directores, Jefes de Departamento y de Oficina y, en general, los servidores públicos de la administración pública estatal, en su caso, serán responsables de las disposiciones que autoricen con infracción de la Constitución Federal, de la local y de las Leyes. Esta responsabilidad es sin perjuicio de la que resulte contra el Gobernador.
-
-Las ausencias de los servidores públicos y funcionarios del Poder Ejecutivo serán suplidas en los términos del Código de la Administración Pública de Yucatán.
-
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 62.
-
-El Ministerio Público es la Institución única e indivisible que representa los intereses de la sociedad, y tiene por objeto dirigir la investigación de los hechos que la ley señale como delitos; ejercitar la acción penal ante los tribunales y adoptar medidas para proteger a las víctimas y testigos, conforme a lo previsto por las leyes correspondientes.
-
-La Institución del Ministerio Público, en su carácter de representante de la sociedad, vigilará por el cumplimiento de las leyes y se regirá por los principios de buena fe, justicia, imparcialidad, independencia, legalidad, objetividad, y unidad.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-Para el cumplimiento de su objeto, el Ministerio Público estará a cargo de la Fiscalía General del Estado de Yucatán y de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán.
-
-> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-La Fiscalía General del Estado de Yucatán, es una dependencia del Poder Ejecutivo, con autonomía técnica y de gestión, bajo el mando del Fiscal General del Estado, quien será su representante legal; y se auxiliará, para la investigación de los delitos, de las instituciones policiales, que actuarán bajo su conducción y mando, de acuerdo con lo que establezcan las leyes.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-La o el Fiscal General del Estado será designado conforme al siguiente procedimiento: la o el titular del Poder Ejecutivo someterá una terna a consideración del Congreso del estado, quien designará a aquél que deba ocupar el cargo, mediante el voto de las dos terceras partes de los integrantes del Congreso.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-En caso de que no se alcance la votación requerida, la o el titular del Poder Ejecutivo someterá otra terna a consideración del Congreso del Estado, para que designe a la o al Fiscal General del Estado en los términos del párrafo anterior.
-
-Si el Congreso del estado, nuevamente, no designara al Fiscal General del Estado, ocupará el cargo la persona que designe el titular del Poder Ejecutivo, quien no podrá haber integrado las ternas previamente propuestas.
-
-Para ser Fiscal General del Estado se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-La o el Fiscal General del Estado podrá ser removido por el Ejecutivo en términos de la ley.
-
-La ley regulará la integración, estructura, funcionamiento, competencia y administración de la Fiscalía General del Estado, y establecerá el servicio profesional de carrera para sus servidores públicos.
-
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 63.
-
-La Defensoría Pública es una institución de orden público y obligatoria para el Estado, la cual tiene por objeto proporcionar defensa penal de alta calidad profesional y gratuita a las personas que carezcan de abogado por cualquier circunstancia; velar por la igualdad ante la ley; por el debido proceso y actuar con profundo respeto por la dignidad humana de los representados; asimismo, ofrecerá sus servicios a los adolescentes sujetos a la ley de la materia y asesorará en asuntos civiles, administrativos, mercantiles y de amparo a quienes así lo soliciten y que no se encuentren en condiciones de retribuir los servicios de un abogado postulante.
-
-La prestación del servicio de defensoría pública estará a cargo del Instituto de la Defensoría Pública del Estado, órgano del Poder Ejecutivo, con autonomía técnica y de gestión, bajo el mando del Defensor General del Estado, quien será su titular y su representante legal.
-
-El Instituto de la Defensoría Pública deberá tener una estructura integrada por al menos un área de litigación, otra de estudio, investigación y análisis, y una más de servicios forenses. Contará también con defensores públicos y demás personal que señale su ley orgánica.
-
-La ley establecerá el sistema de licitaciones de la defensa penal pública para el otorgamiento de contratos de prestación de servicios por medio de personas físicas o morales externas al Instituto.
-
-Las percepciones de los defensores públicos no podrán ser inferiores a las que correspondan a los fiscales del Ministerio Público.
-
-La ley regulará la integración, funcionamiento, competencia y administración del Instituto de la Defensoría Pública del Estado, conforme a lo dispuesto por esta Constitución y establecerá el servicio profesional de carrera para los servidores públicos adscritos a la defensoría pública.
-
-(REUBICADO, D.O. 17 DE MAYO DE 2010)
-
-###### Artículo 64.
-
-El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial impartirá justicia con equidad, perspectiva de género y con apego a los principios de igualdad, autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica. El Poder Judicial deberá fomentar una capacitación continua a los juzgadores respecto a todo lo expresado en este artículo.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-La ley establecerá y organizará los Juzgados de Primera Instancia; así mismo, fijará el procedimiento para la designación de las juezas y jueces, y los requisitos para su permanencia en el cargo. En la designación de estos deberá observarse el principio de paridad de género.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial y estará integrado por once Magistradas y Magistrados, quienes tendrán su respectivo suplente para casos de ausencias mayores a tres meses; funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta constitución y las leyes. En su conformación se observará el principio de paridad de género.
-
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
-
-Las Salas del Tribunal Superior de Justicia podrán ser unitarias o colegiadas. Las Salas conocerán de las materias, recursos y procedimientos que establezcan esta constitución y las leyes respectivas.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-Sus sesiones serán públicas, salvo cuando lo exija la moral o el interés público y en los casos previstos en la ley.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-Las resoluciones del Pleno del Tribunal Superior de Justicia serán definitivas e inatacables, por lo que contra ellas no procederá juicio, ni recurso alguno.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-El Pleno del Tribunal Superior de Justicia, con la finalidad de realizar una adecuada distribución de los asuntos que le competen a las Salas del Tribunal, estará facultado para expedir acuerdos generales, que deberán ser publicados en el órgano de difusión oficial del Estado para todos los efectos legales que corresponda.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-Cada cuatro años, el Pleno del Tribunal Superior de Justicia elegirá de entre sus miembros a la Presidenta o Presidente del Tribunal, quien no integrará Sala y podrá ser reelecto para un período más.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-La Presidenta o Presidente del Tribunal Superior de Justicia será el representante legal del Poder Judicial, con las atribuciones que le confiere esta Constitución y la ley.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-La ley fijará los términos en que sean obligatorios los criterios que establezcan las Salas y el Pleno del Tribunal Superior de Justicia, sobre la interpretación de esta Constitución, las leyes y reglamentos estatales o municipales, así como los requisitos para su interrupción y modificación, sin contravenir la jurisprudencia de los Tribunales de la Federación.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-Las Magistradas y Magistrados del Poder Judicial del Estado durarán en el ejercicio de su cargo seis años, contados a partir de la fecha en que rindan el Compromiso Constitucional, al término de los cuales podrán ser ratificados por un segundo período de hasta por nueve años más y durante el ejercicio de su cargo sólo podrán ser removidos en los términos que establezcan esta Constitución y las leyes de responsabilidades de los servidores públicos.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-Al término de los quince años a que se refiere este artículo, las Magistradas y Magistrados del Tribunal Superior de Justicia tendrán derecho a un haber por retiro vitalicio, con base en las percepciones de las Magistradas y Magistrados en activo y conforme lo que establezca la Ley Orgánica del Poder Judicial.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-Las Magistradas y Magistrados, Juezas y Jueces, percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia, estará a cargo del Consejo de la Judicatura del Poder Judicial, de conformidad con las bases que establezcan esta Constitución y las leyes.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-El presupuesto asignado al Poder Judicial del Estado no podrá ser inferior al dos por ciento del total del gasto programable, el cual no será disminuido respecto al del año anterior y se fijará anualmente, en la forma y términos que establezca la ley.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios es un órgano jurisdiccional del Poder Judicial, que tendrá competencia para resolver los asuntos laborales que surjan entre las autoridades y sus trabajadores, con las atribuciones y la estructura que le confiera la ley.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-Las leyes establecerán medios alternativos a la vía jurisdiccional contenciosa para dirimir controversias y los órganos encargados de su aplicación.
-
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
-
-### CAPITULO II. De los Requisitos para ser Magistrado
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
-
-###### Artículo 65.
-
-Para ser designada Magistrada o Magistrado del Poder Judicial del Estado se deberá:
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-I.- Ser ciudadano mexicano por nacimiento, y tener, además, la calidad de ciudadano yucateco;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-II.- Estar en ejercicio de sus derechos políticos y civiles;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-III.- Poseer al día de la designación título profesional de abogado o licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello, con antigüedad mínima de diez años;
-
-> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
-
-IV.- Cumplir con lo dispuesto en la fracción IV del Artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, y no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-V.- Tener cuando menos treinta y cinco años cumplidos el día de la designación y menos de sesenta y cinco;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación, y
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado local, Presidente Municipal o ministro de culto, durante un año previo al día de la designación.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-Los Magistrados de la Sala especializada en Justicia para Adolescentes deberán acreditar tener los conocimientos suficientes en la materia.
-
-> <small>(DEROGADO TERCER PÁRRAFO, D.O. 20 DE JUNIO DE 2014)</small>
-
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
-
-Los Magistrados del Tribunal de los Trabajadores al Servicio del Estado y Municipios deberán acreditar experiencia y conocimientos en la materia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
-
-###### Artículo 66.
-
-Las propuestas para ocupar el cargo de Magistrada y Magistrado del Poder Judicial deberán considerar a personas que hayan prestado sus servicios con eficiencia y probidad en la procuración o la impartición de justicia o en la carrera judicial o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de conformidad con el siguiente procedimiento.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-La o el titular del Poder Ejecutivo formulará una terna que enviará al Congreso del Estado para que, una vez analizadas las propuestas y dentro del plazo de treinta días naturales, proceda a designar a una Magistrada o Magistrado con el voto de la mayoría de los miembros presentes en la sesión.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-Las Magistradas y Magistrados podrán ser ratificados por el Congreso del Estado, siempre que durante su ejercicio en el cargo hayan actuado con apego a los principios que rigen la función judicial.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-Para tal efecto, el Pleno del Tribunal Superior de Justicia formulará una evaluación de desempeño que acredite la actuación profesional y ética en el cargo, en los términos de la ley. Dicha evaluación deberá ser presentada al Congreso del Estado para que este órgano la considere y dictamine lo procedente, lo cual deberá ser aprobado por mayoría de los Diputados presentes en la sesión relativa, de conformidad con lo que establezca la ley.
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 67.
-
-Los Magistrados del Poder Judicial del Estado al entrar a ejercer su encargo, manifestarán ante el Congreso, o ante la Diputación Permanente, en los recesos de aquél, el compromiso Constitucional siguiente: Presidente; ¿Se compromete a desempeñar leal y patrióticamente el cargo de Magistrado del Poder Judicial del Estado, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las Leyes que de ellas emanen, y pugnar en todo momento por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Si, me comprometo.- Presidente: Si no lo hiciere así, que la Nación y el Estado se lo demanden".
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 68.
-
-El cargo de Magistrado y de Consejero de la Judicatura del Poder Judicial del Estado, sólo es renunciable por causa grave calificada por el Congreso del Estado o en los recesos de éste, por la Diputación Permanente.
-
-Las ausencias accidentales, temporales o absolutas de los Magistrados y de los Consejeros de la Judicatura del Poder Judicial del Estado, serán suplidas en la forma que establezca la ley.
-
-Es causa de retiro forzoso de los Magistrados y de los Consejeros de la Judicatura del Poder Judicial del Estado, padecer incapacidad, ya sea física o mental, que impida desempeñar el encargo, en la forma que dispongan las leyes.
-
-Los Magistrados, Consejeros de la Judicatura, Jueces y Secretarios del Poder Judicial del Estado, no podrán, en ningún caso, aceptar o desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos en instituciones científicas, docentes, literarias o de beneficencia.
-
-Las personas que hayan ocupado el cargo de Magistrado, Consejero de la Judicatura o Juez del Poder Judicial del Estado, no deberán, dentro del año siguiente a la fecha de conclusión del cargo, cualquiera que fuere la causa del mismo, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado de Yucatán, con las excepciones que establezca la ley.
-
-Los impedimentos previstos en este artículo serán aplicables a los servidores públicos con licencia.
-
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
-
-### CAPITULO III. De las Atribuciones del Tribunal Superior de Justicia
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 69.
-
-Corresponde al Pleno del Tribunal Superior de Justicia:
-
-I.- Hacer uso del derecho de iniciar leyes que le confiere esta Constitución;
-
-II.- Revisar las decisiones del Consejo de la Judicatura respecto de la creación de Departamentos Judiciales y juzgados, modificar su competencia y jurisdicción territorial, en términos de la ley;
-
-III.- Resolver las contradicciones entre los criterios que emitan sus Salas, las cuales tendrán carácter obligatorio en los términos que señale la ley;
-
-IV.- Expedir el Reglamento Interior, Acuerdos Generales y demás normas administrativas que sean necesarias para el cumplimiento de sus fines;
-
-V.- Remitir a los poderes, Legislativo y Ejecutivo, del Estado los informes sobre administración de justicia que le soliciten, en los términos de la ley;
-
-VI.- Formular el proyecto anual de Presupuesto de Egresos del Tribunal Superior de Justicia, y remitirlo al Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial;
-
-VII.- Presentar la cuenta pública, con la documentación respectiva y en los términos establecidos en la Ley de la materia, y
-
-VIII.- Las demás que le confieran esta Constitución y otras leyes.
-
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
-
-### CAPITULO IV. Del Control Constitucional Local
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 70.
-
-En materia de control constitucional local, corresponde al Pleno del Tribunal Superior de Justicia erigido en Tribunal Constitucional, conocer:
-
-I.- De las controversias constitucionales que, con excepción de las controversias en materia electoral, se susciten entre:
-
-a) El Estado y los municipios;
-
-b) El Poder Ejecutivo y el Poder Legislativo;
-
-c) Dos o más municipios del Estado, siempre que no se trate de cuestiones relativas a sus límites territoriales, y
-
-d) Uno o más organismos públicos autónomos y otro u otros organismos o poderes del Estado o Municipios.
-
-Las resoluciones del Pleno del Tribunal Superior de Justicia del Estado, sobre controversias constitucionales que declaren la invalidez de normas, con excepción de las normas estatales impugnadas por uno o más municipios, tendrán efectos generales cuando hubieren sido aprobadas por al menos las dos terceras partes de sus integrantes y surtirán sus efectos a partir de su publicación en el órgano de difusión oficial del Estado.
-
-En los demás casos, las resoluciones de Pleno del Tribunal Superior de Justicia tendrán efectos únicamente respecto de las partes en la controversia.
-
-Las controversias constitucionales locales tienen por objeto resolver los conflictos de carácter competencial que surjan entre diferentes órganos de gobierno que pertenecen a órdenes distintos, así como entre órganos que forman parte del mismo orden del régimen interno del Estado, con base en lo dispuesto por esta Constitución, sin perjuicio de las controversias constitucionales que le compete resolver de manera exclusiva a la Suprema Corte de Justicia de la Nación.
-
-II.- De las acciones de inconstitucionalidad en contra de normas de carácter general, estatales o municipales que se consideren contrarias a la Constitución Política del Estado que sean promovidas por:
-
-a) El Ejecutivo del Estado;
-
-b) El Fiscal General del Estado;
-
-c) El treinta y tres por ciento de los integrantes del Congreso, en contra de las disposiciones de carácter general aprobadas por los ayuntamientos;
-
-d) El treinta y tres por ciento de los Regidores del municipio en contra de las disposiciones de carácter general aprobadas por el ayuntamiento, y
-
-e) Los organismos públicos autónomos, por conducto de quien le represente legalmente, con relación a la materia de su competencia.
-
-Las acciones de inconstitucionalidad podrán ser ejercitadas dentro de los treinta días naturales siguientes al de su publicación.
-
-Las resoluciones del Pleno del Tribunal Superior de Justicia sólo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por al menos las dos terceras partes de sus miembros y surtirá efectos a partir de su publicación en el órgano de difusión oficial del Estado.
-
-III.- De las acciones contra la omisión legislativa o normativa, imputables al Congreso, al Gobernador o a los Ayuntamientos, por la falta de expedición de las normas jurídicas de carácter general, a que estén obligados por esta Constitución, así como de las leyes, siempre que la omisión afecte el debido cumplimiento o impida la eficacia de la misma.
-
-El ejercicio de esta acción corresponderá a las autoridades estatales y municipales, así como a las personas residentes en el Estado, conforme a lo que disponga la ley.
-
-La resolución que emita el Pleno del Tribunal Superior de Justicia y decrete la existencia de omisión legislativa o normativa, surtirá sus efectos a partir de su publicación en el órgano de difusión oficial del Estado.
-
-La resolución del Pleno, respecto a omisiones del Congreso del Estado, otorgará un plazo que comprenda dos períodos ordinarios de sesiones para que éste emita la ley, decreto o acuerdo omitido. Si se trata de omisiones del Poder Ejecutivo o de los ayuntamientos, se otorgará un plazo de seis meses para subsanar la omisión.
-
-La declaración de invalidez de las resoluciones a que se refieren las fracciones I y II de este artículo no tendrá efectos retroactivos, salvo en materia penal, en la que regirán las disposiciones constitucionales y legales aplicables de esta materia.
-
-IV.- De las cuestiones de control previo respecto de la constitucionalidad de los proyectos de ley aprobados por el Pleno del Congreso del Estado y hasta antes de su promulgación y publicación; que podrán promover, el Gobernador; el treinta y tres por ciento de los integrantes del Congreso; el Fiscal General del Estado; los Titulares de los organismos públicos autónomos y los Presidentes Municipales en el ámbito de su competencia, en términos de Ley.
-
-Las decisiones del Pleno del Tribunal Superior de Justicia, adoptadas por medio del voto de las dos terceras partes de sus integrantes, en la que estime la inconstitucionalidad de las disposiciones contenidas en los proyectos de ley aprobados por el Pleno del Congreso del Estado, serán obligatorias para éste.
-
-La ley determinará los procedimientos para la substanciación de las Cuestiones de Control Previo de Constitucionalidad.
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE JUNIO DE 2014)</small>
-
-### CAPITULO V
-
-###### Artículo 71.
-
-(DEROGADO, D.O. 20 DE JUNIO DE 2014)
-
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
-
-### CAPITULO VI. Del Consejo de la Judicatura
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 72.
-
-El Consejo de la Judicatura es el órgano del Poder Judicial del Estado, dotado de autonomía técnica y de gestión, al que corresponde conocer y resolver todos los asuntos sobre la administración, vigilancia y disciplina del Poder Judicial del Estado, que no estén reservados de manera exclusiva a la competencia del Tribunal Superior de Justicia, de conformidad con lo que dispongan esta Constitución y la ley.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-El Consejo de la Judicatura se integrará por cinco miembros de los cuales, uno será la Presidenta o Presidente del Tribunal Superior, quien también lo será del Consejo y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por el titular del Poder Ejecutivo. No podrá haber más de tres miembros del mismo género.
-
-Para ser Consejero se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento, y tener, además, la calidad de ciudadano yucateco;
-
-II.- Estar en ejercicio de sus derechos políticos y civiles;
-
-III.- Poseer al día de la designación título profesional de licenciado en administración pública, en finanzas públicas, en economía, en derecho, contador público o alguna carrera afín a tales materias, expedido por autoridad o institución legalmente facultada para ello con antigüedad mínima de diez años;
-
-IV.- Cumplir con lo dispuesto en la fracción IV del Artículo 95 de la Constitución Política de los Estados Unidos Mexicanos;
-
-V.- Tener cuando menos treinta y cinco años cumplidos el día de la designación y menos de sesenta y cinco;
-
-VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación, y
-
-VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado Local, Presidente Municipal o ministro de culto, durante un año previo al día de la designación.
-
-Todos los Consejeros deberán ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
-
-El Pleno del Consejo de la Judicatura tendrá a su cargo la creación de los Departamentos Judiciales, la modificación de su número y jurisdicción territorial; el establecimiento y modificación de la competencia y jurisdicción territorial de los juzgados; de resolver sobre la designación, adscripción, ratificación y remoción de los jueces de primera instancia y de los servidores públicos del Poder Judicial, con excepción de los adscritos al Tribunal Superior de Justicia, de conformidad con lo que establezca la ley.
-
-La Ley Orgánica del Poder Judicial determinará las demás atribuciones que correspondan al Consejo de la Judicatura.
-
-Salvo el Presidente, los Consejeros durarán cuatro años en su cargo, serán sustituidos de manera escalonada y podrán ser ratificados hasta por dos períodos más de cuatro años.
-
-Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad y durante el desempeño de su encargo, sólo podrán ser removidos previo juicio de responsabilidad.
-
-La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual será conducida por el Consejo de la Judicatura y se regirá por los principios de excelencia, imparcialidad, independencia, objetividad, y profesionalismo.
-
-De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones.
-
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que establece esta Constitución y las que se refieran a la designación, adscripción, ratificación y remoción de jueces, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia, únicamente para verificar que hayan sido acordadas conforme a las reglas que disponga la ley y la normatividad aplicable.
-
-En el proceso de programación y presupuestación de los recursos públicos el Consejo deberá implementar como política administrativa indicadores de resultados, como mecanismos para evaluación. El resultado de dichas evaluaciones se deberá considerar en el proceso de programación y presupuesto de los recursos públicos, a fin de propiciar que los recursos económicos se asignen conforme a los resultados alcanzados.
-
-El Consejo de la Judicatura elaborará el presupuesto del Poder Judicial, el cual será remitido por el Presidente del Consejo al titular del Poder Ejecutivo, a más tardar el 15 de octubre de cada año, a fin de que éste considere su incorporación al Proyecto de Presupuesto de Egresos del Estado.
-
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
-
-### CAPITULO VII. De las Disposiciones Generales
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 73.
-
-La imposición de las sanciones y medidas de seguridad a los sentenciados y las medidas que se apliquen a los adolescentes, así como su modificación y duración, es propia y exclusiva de la autoridad judicial, por conducto de sus órganos competentes, en términos de ley.
-
-El juez ordenará oficiosamente la prisión preventiva en el caso de delitos de homicidio doloso, violación y secuestro y los delitos cometidos con medios violentos, así como en los delitos graves que determine la ley. En los demás casos, sólo se podrá ordenar la medida cautelar de prisión preventiva cuando el Ministerio Público lo solicite y otras medidas no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté sujeto a proceso o haya sido sentenciado previamente por la comisión de un delito doloso.
-
-La aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, corresponde a la autoridad administrativa competente, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo en favor de la comunidad. Si el infractor no pagare la multa que se le hubiese impuesto, se conmutará ésta por el arresto correspondiente que no excederá en ningún caso de treinta y seis horas. Si el infractor fuere jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. En el caso de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
-
-> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
-
-###### Artículo 73 Bis.
-
-En los términos previstos por esta Constitución, se establece un Sistema Integral de Justicia para las personas que tengan entre 12 años cumplidos y menos de 18 años de edad, a las que se les atribuya o se les declare responsables de conductas tipificadas como delitos en las disposiciones penales del Estado.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-La procuración, impartición y acceso a la justicia para adolescentes estará a cargo de la Fiscalía General del Estado, de la Sala Especializada, de los jueces en materia de Justicia para Adolescentes del Poder Judicial del Estado, y del Instituto de la Defensoría Pública del Estado. La ejecución y supervisión de las medidas estará a cargo del Centro de Aplicación de Medidas y la Dirección de Ejecución, Prevención y Reinserción Social, en los ámbitos de sus competencias, los que serán órganos especializados en la materia.
-
-> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
-
-Los procedimientos seguidos a los adolescentes, tendrán como principios rectores: el de interés superior, el debido proceso legal, confidencialidad, oportunidad, proporcionalidad y protección integral.
-
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
-
-En los términos y condiciones de Ley, se aplicarán medidas de orientación, protección y tratamiento externo o en internamiento que amerite cada caso, con el fin de lograr la reincorporación social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-El internamiento se utilizará como medida extrema, en el menor tiempo posible, y se aplicará a los adolescentes mayores de catorce años de edad, por la comisión de conductas calificadas como delitos graves en la ley de materia.
-
-(REUBICADO, D.O. 17 DE MAYO DE 2010)
-
-###### Artículo 74.
-
-Se establece un Organismo Público Autónomo denominado Comisión de Derechos Humanos del Estado de Yucatán, con personalidad jurídica y patrimonio propio, encargada de la protección, defensa, estudio, promoción y divulgación de los derechos humanos.
-
-La Ley garantizará el carácter público, apartidista, transparente, expedito e independiente de la Comisión de Derechos Humanos del Estado de Yucatán, cuyo presupuesto no podrá ser disminuido respecto al del año inmediato anterior y se fijará anualmente.
-
-La Comisión de Derechos Humanos del Estado de Yucatán se integrará por un Presidente, un Consejo Consultivo y el personal necesario. El Presidente durará cinco años en su ejercicio y podrá ser ratificado para un período más; únicamente podrá ser removido durante su encargo, en los términos del Título Décimo de esta Constitución; y deberá presentar anualmente ante el Pleno del Congreso, un informe sobre la situación de los derechos humanos, en los términos de Ley.
-
-La Comisión de Derechos Humanos del Estado de Yucatán estará facultada para conocer de quejas en contra de actos u omisiones que constituyan violaciones a los derechos humanos provenientes de cualquier servidor público estatal o municipal y formular recomendaciones públicas, no vinculatorias, así como presentar denuncias y quejas ante las autoridades respectivas. Tratándose del Poder Judicial, únicamente conocerá los actos u omisiones de naturaleza administrativa. No tendrá facultades en asuntos electorales y jurisdiccionales.
-
-Todo servidor público del Estado de Yucatán está obligado a responder las recomendaciones que le presente la Comisión de Derechos Humanos del Estado de Yucatán. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado de Yucatán o, en sus recesos, la Diputación Permanente, podrá requerir, a solicitud de la Comisión de Derechos Humanos del Estado de Yucatán, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE ABRIL DE 2016)</small>
-
-### CAPÍTULO III. Del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
-
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
-
-###### Artículo 75.
-
-El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales es un organismo público autónomo, especializado, independiente, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el ejercicio de los derechos de acceso a la información y la protección de datos personales, conforme a los principios y bases establecidos en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos así como lo dispuesto en esta constitución y en las leyes aplicables.
-
-En su funcionamiento, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
-
-El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en posesión o a cargo de cualquier autoridad, entidad, órgano u organismo de los poderes Ejecutivo, Legislativo y Judicial, ayuntamientos, órganos autónomos, partidos políticos estatales y nacionales con registro en el estado, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal o municipal.
-
-Las resoluciones del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales son vinculatorias, definitivas e inatacables para los sujetos obligados.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se integrará por tres comisionadas y comisionados, quienes serán designados por el Congreso del estado, con el voto de las dos terceras partes de sus integrantes, a propuesta de los grupos parlamentarios, previa realización de una amplia consulta en la que se garantizará la transparencia, independencia y participación de la sociedad. Para su conformación se garantizará la paridad de género y la experiencia en materia de acceso a la información pública y protección de datos personales.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-El nombramiento podrá ser objetado por la Gobernadora o Gobernador en un plazo de diez días hábiles contados a partir del día de la sesión en que se haya aprobado la designación del comisionado. Cuando la Gobernadora o Gobernador no objete el nombramiento, ocupará el cargo la persona nombrada por el Congreso; en caso de objeción, este designará a la o el comisionado de entre las dos propuestas restantes de la terna.
-
-Los comisionados durarán en su cargo siete años y deberán cumplir con los requisitos previstos en las fracciones I, II, IV, V, VI y VII del artículo 65 de esta Constitución y contar con título y cédula profesional al día de su elección, con antigüedad mínima de cinco años, expedido por autoridad e institución legalmente facultada para ello. Los nombramientos se realizarán escalonadamente para garantizar el principio de autonomía. No podrán ser reelectos ni tener otro empleo, cargo o comisión, con excepción de los que desempeñen instituciones docentes, científicas o de beneficencia. Únicamente podrán ser removidos de su cargo en los términos del título décimo de esta constitución y serán sujetos de juicio político.
-
-El comisionado presidente será designado por los propios comisionados, mediante voto secreto, para un período de dos años, con posibilidad de ser reelecto por un período igual. El comisionado presidente estará obligado a rendir un informe anual ante el Congreso del estado, en la fecha y en los términos que disponga la ley.
-
-> <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
-
-Para la gestión y el desempeño de sus atribuciones, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales contará con una estructura administrativa y un consejo consultivo integrado por seis consejeras y consejeros cuyos cargos serán honoríficos. Las consejeras y consejeros serán elegidos paritariamente por el Congreso del estado para un período de cuatro años y no podrán ser reelectos. La ley determinará el procedimiento a seguir para la presentación de las propuestas por el Congreso, el cual deberá garantizar la paridad de género y la inclusión de personas con experiencia en materia de acceso a la información pública y protección de datos personales y derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
-
-Toda autoridad o servidor público estará obligado a coadyuvar con el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y sus integrantes para el buen desempeño de sus funciones. La ley establecerá las medidas de apremio que podrá imponer el organismo para asegurar el cumplimiento de sus decisiones.
-
-El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se coordinará con el organismo garante previsto en el artículo 6o., apartado A, de la Constitución Política de los Estados Unidos Mexicanos, y con los de las demás entidades federativas de conformidad con las disposiciones de las leyes en la materia.
-
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
-
-### CAPÍTULO IV. Del Instituto Electoral y de Participación Ciudadana de Yucatán
-
-(REFORMADO, D.O. 20 DE JUNIO DE 2014) (F. DE E., D.O. 26 DE MARZO DE 2019)
-
-###### Artículo 75 Bis.
-
-El Instituto Electoral y de Participación Ciudadana de Yucatán es un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio; autoridad en la materia, autónomo en su funcionamiento, independiente en sus decisiones y profesional en su desempeño; en cuya integración participan el Instituto Nacional Electoral, los partidos políticos y los ciudadanos, en términos de ley.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-El Instituto Electoral y de Participación Ciudadana de Yucatán contará con un Consejo General, que será su órgano de dirección superior, integrado por siete consejeros electorales, con derecho a voz y voto, uno de los cuales tendrá el carácter de Presidente; y concurrirán, únicamente con derecho a voz, los representantes de los partidos políticos y un Secretario Ejecutivo. Los consejeros electorales durarán en su cargo siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley. No podrá haber más de cuatro Consejeros del mismo género.
-
-Los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos en la ley.
-
-Los consejeros electorales y demás servidores públicos del Instituto Electoral y de Participación Ciudadana de Yucatán, que determine la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
-
-Para el ejercicio de sus funciones, el Instituto Electoral y de Participación Ciudadana de Yucatán contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
-
-> <small>(REFORMADO, D.O. 30 DE MAYO DE 2017)</small>
-
-El Instituto Electoral y de Participación Ciudadana de Yucatán contará con un órgano interno de control dotado de autonomía técnica y de gestión. Su titular será designado por el Congreso del Estado, por el voto de las dos terceras partes, de sus integrantes, a propuesta de instituciones públicas de educación superior, en la forma y términos que determine la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Deberá mantener la coordinación técnica necesaria con la Auditoría Superior del Estado de Yucatán.
-
-El Consejo General del Instituto Electoral y de Participación Ciudadana de Yucatán podrá convenir con el Instituto Nacional Electoral para que este se haga cargo de la organización de los procesos electorales locales, en los términos que disponga la legislación aplicable.
-
-La ley determinará las bases del servicio profesional electoral nacional y las relaciones laborales de los servidores públicos del Instituto Electoral y de Participación Ciudadana de Yucatán.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
-
-> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
-
-### CAPÍTULO V. Del Tribunal Electoral del Estado de Yucatán
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 20 DE JUNIO DE 2014)</small>
-
-###### Artículo 75 Ter.
-
-El Tribunal Electoral del Estado de Yucatán es un organismo público, autónomo e independiente en sus decisiones, máxima autoridad jurisdiccional en la materia y órgano especializado, competente para conocer y resolver los procedimientos, juicios e impugnaciones que se presenten contra actos y omisiones en materia electoral, cuyas funciones deben cumplirse bajo los principios de certeza, imparcialidad, independencia, objetividad, legalidad, máxima publicidad y probidad; para su adecuado funcionamiento, contará con el personal jurídico y administrativo necesario.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-El Tribunal Electoral del Estado de Yucatán funcionará en Pleno, se integrará por tres magistradas y magistrados quienes serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, durarán en su cargo siete años. No podrá haber más de dos magistrados del mismo género.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-La Magistrada Presidenta o el Magistrado Presidente será designado de entre sus integrantes, por la votación mayoritaria de las y los magistrados electorales, de conformidad con el procedimiento que establezca la ley respectiva.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE ABRIL DE 2016)</small>
-
-### CAPÍTULO VI. Del Tribunal de Justicia Administrativa del Estado de Yucatán
-
-> <small>(ADICIONADO, D.O. 20 DE ABRIL DE 2016)</small>
-
-###### Artículo 75 Quater.
-
-El Tribunal de Justicia Administrativa del Estado de Yucatán es un organismo público, autónomo e independiente en sus decisiones, tiene competencia para conocer, resolver y dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública centralizada y paraestatal del estado y sus municipios, y los particulares; e imponer, en los términos que disponga la ley, las sanciones a los servidores públicos por responsabilidades administrativas graves, y a los particulares que participen en actos vinculados con faltas administrativas graves, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos del (sic) estatales o municipales.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-El Tribunal de Justicia Administrativa del Estado de Yucatán estará integrado por tres magistrados, designados por la Gobernadora o Gobernador y ratificados por el voto de las dos terceras partes de los miembros integrantes del Congreso. Durarán en su encargo cinco años pudiendo ser considerados para nuevos nombramientos, hasta para dos períodos más, y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley. No podrá haber más de dos magistrados del mismo género.
-
-Para ser designado Magistrado del Tribunal de Justicia Administrativa del Estado de Yucatán se deberán cumplir los mismos requisitos que para ser nombrado Magistrado del Poder Judicial del Estado. El magistrado presidente será designado de entre sus integrantes, por la votación mayoritaria de los magistrados del tribunal, de conformidad con el procedimiento que establezca la ley respectiva.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-### CAPÍTULO VII. De la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán
-
-> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-###### Artículo 75 Quinquies.
-
-La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán es un organismo público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, presupuestal y de gestión, con capacidad para determinar su organización interna y el ejercicio de sus recursos con arreglo a las normas aplicables, cuyo objeto es investigar, perseguir y consignar ante la autoridad jurisdiccional las conductas que la ley prevé como delitos por hechos de corrupción.
-
-El Fiscal Especializado en Combate a la Corrupción durará en el cargo siete años, al término de los cuales podrá ser ratificado para un segundo período de la misma duración.
-
-El Fiscal Especializado en Combate a la Corrupción será designado conforme al mismo procedimiento previsto para el Fiscal General del Estado y solo podrá ser removido, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo de esta Constitución.
-
-El Fiscal Especializado en Combate a la Corrupción no podrá tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrá asumir un cargo público en las dependencias y entidades estatales ni en los órganos constitucionales autónomos.
-
-(REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
-
-## TITULO OCTAVO. De los Municipios del Estado
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-###### Artículo 76.
-
-El Estado tiene como base de su división territorial y organización política y administrativa, al Municipio. Este será gobernado por un Ayuntamiento electo mediante el voto popular libre, directo y secreto; integrado por una Presidenta o Presidente Municipal, Regidoras, Regidores y un Síndico, de conformidad con lo que establezca la ley de la materia, observando el principio de paridad de género. Entre éste y el Gobierno del Estado, no habrá autoridades intermedias.
-
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
-
-El Ayuntamiento tendrá como fin principal, atender las necesidades sociales de sus habitantes dentro de su ámbito jurisdiccional, procurando el desarrollo integral y sustentable del municipio.
-
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
-
-Se adoptará el principio de representación proporcional, como mecanismo complementario del sistema de mayoría relativa, para la elección de los integrantes de los ayuntamientos. La ley reglamentaria determinará el porcentaje de votación que deberán obtener los partidos políticos y la forma para la asignación de las regidurías de representación proporcional.
-
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
-
-###### Artículo 77.
-
-Los municipios se organizarán administrativa y políticamente, conforme a las bases siguientes:
-
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
-
-Primera.- Los ayuntamientos entrarán en funciones, el 1 de septiembre inmediato a su elección, y durarán en su encargo tres años.
-
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
-
-Segunda.- La Presidenta o Presidente Municipal, las regidoras, los regidores y el síndico, podrán ser reelectos para un período constitucional adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La reelección se efectuará conforme a lo que disponga la Ley.
-
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
-
-Tercera.- El primer Regidor de la lista de candidatos electos por el principio de mayoría relativa, tendrá el carácter de Presidenta o Presidente Municipal, el cual será el órgano ejecutivo y político del Ayuntamiento y el segundo, tendrá el carácter de Síndico. Todas las regidoras y regidores desempeñarán las funciones que la ley respectiva les señale.
-
-Cuarta.- Los ayuntamientos estarán investidos de personalidad jurídica y administrarán libremente su hacienda, conforme lo disponga la ley respectiva.
-
-Quinta.- El Ayuntamiento, es el órgano de gobierno por excelencia en el municipio y creará las dependencias y entidades necesarias de la administración pública municipal, para el cumplimiento de sus atribuciones.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-La administración pública municipal será encabezada por la Presidenta o Presidente Municipal, y se regirá por los principios de imparcialidad, profesionalismo, eficiencia y permanencia; y será centralizada o descentralizada.
-
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
-
-Sexta.- Las Presidentas y Presidentes Municipales rendirán ante el Ayuntamiento un informe anual sobre la administración municipal, el cual será realizado en forma pública y pormenorizada. Su incumplimiento será causa de responsabilidad.
-
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
-
-Séptima.- Las Presidentas y Presidentes Municipales tendrán la obligación al concluir su encargo de llevar a cabo el proceso de entrega recepción, al Ayuntamiento entrante, conforme a la ley respectiva. El incumplimiento de esta obligación será causa de responsabilidad.
-
-Octava.- Las leyes correspondientes, determinarán el número de regidores de mayoría relativa y de representación proporcional, de acuerdo con el número de habitantes de cada municipio.
-
-Por cada regidor propietario se elegirá a un suplente. Todos los regidores tendrán los mismos derechos y obligaciones. Si alguno de éstos dejare de desempeñar su cargo, será sustituido por su suplente. De no ser esto posible, lo será de entre los suplentes provenientes del mismo partido político.
-
-Novena.- La Hacienda Pública Municipal se regirá por los principios de autonomía administrativa, libre ejercicio, transparencia y legalidad; y se formará con los rendimientos de los bienes que le pertenezcan; así como, con las contribuciones y otros ingresos que la legislatura, establezca a su favor.
-
-> <small>(REFORMADA, D.O. 18 DE NOVIEMBRE DE 2021)</small>
-
-Décima.- Los ayuntamientos contarán con sus órganos de control interno.
-
-Décima Primera.- Para examinar los asuntos por ramo, presentar propuestas de solución, y vigilar la ejecución de las disposiciones y acuerdos del Ayuntamiento, se establecerán Comisiones Permanentes y Especiales, que serán electas en la primera sesión ordinaria que celebren los Ayuntamientos. Las Comisiones podrán integrarse de uno o más regidores.
-
-La finalidad, el número, las atribuciones y las obligaciones de las Comisiones serán de acuerdo a las leyes y reglamentos respectivos.
-
-Décima Segunda.- Los municipios podrán celebrar convenios de coordinación, para el correcto ejercicio de sus funciones.
-
-Décima Tercera.- El Gobierno Municipal planeará su desarrollo integral, de manera democrática y a largo plazo. Los programas operativos respectivos, deberán ser acordes con dichos conceptos.
-
-Décima Cuarta.- La prestación de los servicios municipales y la construcción de la obra pública, se regirán por los principios de máximo beneficio colectivo, transparencia, eficiencia, y participación ciudadana, de conformidad con esta Constitución y las leyes respectivas.
-
-Décima Quinta.- Las funciones de calificación por infracciones a los ordenamientos administrativos municipales y de mediación para dirimir conflictos vecinales, serán ejercidas por los ayuntamientos. La Ley Reglamentaria establecerá la forma en que será designada la autoridad competente, sus requisitos de elegibilidad, facultades, duración y las demás para su buen funcionamiento.
-
-Décima Sexta.- En las comisarías que conforman los municipios del Estado habrá autoridades auxiliares del Ayuntamiento, las que serán electas mediante el voto universal, libre, secreto y directo de los ciudadanos residentes en la localidad, dentro de los primeros noventa días siguientes a la toma de posesión del Ayuntamiento, conforme a los lineamientos establecidos por la ley del ramo.
-
-Décima Séptima.- La ley establecerá un sistema de medios de impugnación y resolución de controversias entre la autoridad y los particulares, en materia de lo contencioso administrativo municipal.
-
-Décima Octava.- Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes respectivas basadas en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
-
-> <small>(ADICIONADA [N. DE E. CON SU PÁRRAFO], D.O. 18 DE NOVIEMBRE DE 2021)</small>
-
-Décima Novena.- Los ayuntamientos implementarán la figura de Cabildo Abierto con el objetivo de informar y permitir a la ciudadanía su intervención con derecho a voz pero sin voto en las acciones gubernamentales de interés general para la comunidad y que sean de la competencia municipal.
-
-Los ayuntamientos decidirán, a través de disposiciones reglamentarias, las formas y procedimientos que regulen la figura a la que se refiere el párrafo anterior.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
-
-###### Artículo 78.
-
-Para ser regidora o regidor o integrante de un Concejo Municipal, se requiere:
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco, en el ejercicio de sus derechos políticos y civiles, y con una residencia efectiva en el Municipio de que se trate, no menor de cinco años. La vecindad no se pierde por desempeñar los cargos de Diputado Federal, Senador de la República, o Gobernador del Estado, y Diputado Estatal, así como Funcionario Público Federal, o Estatal.
-
-De ser oriundo del propio municipio, éste plazo deberá reducirse a un año;
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-II.- Tener dieciocho años cumplidos el día de la elección, con excepción del Presidente Municipal que deberá tener veintiún años;
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-III.- Saber leer y escribir;
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-IV.- No ser ministro de culto religioso, salvo que se separe definitivamente de su encargo, cinco años antes de la elección, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley de la materia;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-V.- No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios o Consejero de la Judicatura, durante el año calendario de la elección, a menos que se separe de sus funciones 120 días antes de la elección;
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-VI.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de corporación policíaca alguna en el Municipio en que pretenda su elección, cuando menos durante los noventa días anteriores a ella;
-
-> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
-
-VII.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos.
-
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
-
-VIII.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, ni Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o nacionales, a menos que se separe de sus funciones tres años antes de la fecha de la elección;
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-IX.- No ser Consejero ciudadano electoral, local o federal, a menos que se separe de sus funciones tres años antes de la fecha de la elección;
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-X.- Estar inscrito en el Registro Federal del (sic) Electores y contar con Credencial para Votar vigente.
-
-Los cargos de Presidente Municipal y Síndico son incompatibles con cualquier otro u otra, comisión o empleo público del Estado o la Federación, y
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-XI.- Para ser Síndico se requiere, además de lo anterior:
-
-a) Contar al día de la elección con el nivel escolar que establezca la ley, en cada caso, y
-
-b) No ser directivo de algún partido político, o haberlo sido, un año antes de la elección.
-
-Los síndicos tendrán el carácter de mandatarios de los ayuntamientos y desempeñarán las funciones que establezca la Ley.
-
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
-
-###### Artículo 79.
-
-Los Ayuntamientos estarán facultados para aprobar, de acuerdo con las bases normativas que establezca el Congreso del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, y aseguren la participación ciudadana y vecinal, mismas que para tener vigencia deberán ser promulgadas por el Presidente Municipal y publicadas en la gaceta municipal; en los casos en que el municipio no cuente con ella, en el Diario Oficial del Gobierno del Estado.
-
-> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
-
-### CAPITULO II. Del Territorio del Estado
-
-(REFORMADO, D.O. 26 DE MARZO DE 1975) (F. DE E., D.O. 3 DE ABRIL DE 1975)
-
-###### Artículo 80.
-
-Todo servidor público de los ayuntamientos cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de las faltas, violaciones u omisiones en que incurra en ejercicio de los mismos, en los términos del Título Noveno de esta Constitución.
-
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
-
-###### Artículo 81.
-
-La ley que organiza y reglamenta el funcionamiento de los ayuntamientos, establecerá un sistema de medios de impugnación en materia de lo contencioso administrativo, para dirimir las controversias que se presenten entre la administración pública municipal y los particulares; con sujeción a los principios de igualdad, publicidad, audiencia, legalidad, profesionalismo, gratuidad y proximidad. Los Municipios conforme a lo anterior, podrán contar con Tribunales de lo Contencioso Administrativo.
-
-Dichos organismos privilegiarán la conciliación como mecanismo de solución de controversias.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-En los municipios que no cuenten con un Tribunal de lo Contencioso Administrativo, resolverá las controversias a que se refiere el presente artículo, el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado.
-
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
-
-###### Artículo 82.
-
-La ley que reglamenta el funcionamiento y organización de los ayuntamientos, contendrá los lineamientos siguientes:
-
-I.- Los municipios manejarán su patrimonio conforme a la ley. Para afectarlo, requerirán el voto de las dos terceras partes de los integrantes del Ayuntamiento, en los casos siguientes:
-
-a) Para la realización de cualquier acto que implique la enajenación de bienes del patrimonio inmobiliario, y
-
-b) La desincorporación de algún bien de dominio público y su conversión al dominio privado.
-
-> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
-
-II.- La presentación para su aprobación ante el Congreso del Estado, a más tardar el día 25 de noviembre de cada año, las iniciativas relativas a las leyes de ingresos que regirán en sus municipios durante el año inmediato siguiente, de conformidad con los requerimientos establecidos en las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE FEBRERO DE 2018)</small>
-
-III.- Los presupuestos de egresos serán aprobados por cada Ayuntamiento de conformidad con los requerimientos establecidos en las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable.
-
-> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O. 6 DE DICIEMBRE DE 2010)</small>
-
-El Ayuntamiento deberá aprobar en el Presupuesto de Egresos del ejercicio fiscal que corresponda, las partidas necesarias para solventar las obligaciones adquiridas en ejercicios fiscales anteriores y pagaderas en dicho ejercicio, siempre que:
-
-a).- Constituyan deuda pública del Municipio, o de las entidades paramunicipales garantizadas por el Ayuntamiento o el Poder Ejecutivo del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, o
-
-b).- Deriven de contratos relativos a proyectos para la prestación de servicios aprobados por el Ayuntamiento conforme a la ley de la materia.
-
-IV.- Los Ayuntamientos percibirán las contribuciones, incluyendo tasas adicionales, que establezcan los estados sobre la propiedad inmobiliaria, de su funcionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio del valor de los inmuebles;
-
-V.- También percibirán ingresos por participaciones, aportaciones de los otros niveles de gobierno, ingresos por la prestación de servicios públicos a su cargo, donaciones, subsidios y los demás que determine a su favor el Congreso del Estado;
-
-VI.- Los municipios cuando fuere necesario, podrán celebrar convenios con el Gobierno del Estado, para que éste se haga cargo de la administración de contribuciones y los demás ingresos que se consideren;
-
-VII.- En materia de participación ciudadana, como forma de expresión social, la ley reglamentará su implementación a través de la iniciativa popular, el plebiscito y el referéndum, entre otras;
-
-VIII.- Las leyes no establecerán exenciones o subsidios en favor de persona alguna, respecto de contribuciones municipales. Sólo los bienes del dominio público, estarán exentos de dichas contribuciones, salvo que se utilicen por entidades paraestatales, o los particulares, bajo cualquier título, para fines administrativos distintos a los de su objeto público;
-
-IX.- Para el cobro de sus percepciones fiscales, los ayuntamientos tendrán la facultad económico-coactiva, aplicando el procedimiento administrativo de ejecución, en los términos que establezca el Código Fiscal del Estado;
-
-> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
-
-X.- Los Ayuntamientos deberán rendir su cuenta pública a la Auditoría Superior del Estado, con la documentación respectiva y términos y las formas que fijen las leyes en la materia;
-
-XI.- Celebrar actos, convenios o empréstitos que comprometan al municipio por un plazo mayor al período de su gestión gubernamental, siempre que éstos fueren aprobados por las dos terceras partes de los integrantes del Ayuntamiento respectivo, sujetándose a las modalidades que establezcan las leyes, y
-
-XII.- Resolver los asuntos que conciernan exclusivamente al municipio; y las demás que las leyes le confieran.
-
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
-
-###### Artículo 83.
-
-Los Municipios, a través de sus Ayuntamientos, y de conformidad con los acuerdos aprobados por los mismos, en los términos de las leyes Federales y Estatales, tendrán las siguientes facultades:
-
-I.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
-
-II.- Participar en la creación y administración de sus reservas territoriales;
-
-III.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado junto con la Federación elabore proyectos de desarrollo regional deberán asegurar la participación de los municipios que resultaren involucrados;
-
-IV.- Autorizar, controlar y vigilar el uso del suelo en el ámbito de su competencia, en sus jurisdicciones territoriales;
-
-V.- Intervenir en la regularización de la tenencia de la tierra urbana;
-
-VI.- Otorgar licencias y permisos para construcciones;
-
-VII.- Participar en la creación y administración de reservas ecológicas, y en la elaboración y aplicación de programas de ordenamiento en esta materia;
-
-VIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial;
-
-IX.- Celebrar convenios para la administración y custodia de las zonas federales;
-
-X.- Formular y conducir la política ambiental en el ámbito de su competencia;
-
-XI.- Expedir los reglamentos y disposiciones administrativas que fueren necesarios, de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
-
-XII.- Ejercer las funciones que le encomienda la Ley en materia de culto público, y
-
-XIII.- Las demás que le confiera esta Constitución y las leyes.
-
-> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
-
-###### Artículo 84.
-
-Cuando dos o más centros urbanos situados en territorios de distintos municipios formen o tiendan a formar una continuidad demográfica el Estado y los municipios respectivos, en el ámbito de sus competencias planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la Ley.
-
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
-
-###### Artículo 85.
-
-Los municipios del Estado, previo acuerdo entre los ayuntamientos, podrán coordinarse y asociarse entre sí, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan.
-
-Podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos servicios públicos o funciones, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio.
-
-Tratándose de asociación con municipios de otras entidades federativas, deberán contar con la aprobación del Congreso.
-
-> <small>(ADICIONADO, D.O. 26 DE MAYO DE 2005)</small>
-
-###### Artículo 85 Bis.
-
-Los municipios tendrán a su cargo de manera exclusiva en el ámbito de sus respectivas jurisdicciones, las siguientes funciones y servicios públicos:
-
-I.- Agua Potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
-
-II.- Alumbrado público;
-
-III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos;
-
-IV.- Mercados y Centrales de Abasto;
-
-V.- Panteones;
-
-VI.- Rastro;
-
-VII.- Calles, parques y jardines y su equipamiento;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito, que estarán al mando del Presidente Municipal, en los términos de la ley en materia de seguridad pública del Estado y demás disposiciones aplicables;
-
-IX.- (DEROGADA, D.O. 31 DE AGOSTO DE 2006)
-
-X.- El Catastro, y
-
-XI.- La autorización del uso del suelo y funcionamiento de establecimientos mercantiles.
-
-Por acuerdo de las dos terceras partes de sus integrantes, los ayuntamientos podrán convenir que el Gobierno del Estado se haga cargo temporalmente de alguno de los servicios que son de su competencia exclusiva o que éstos se presten de manera coordinada. Los convenios no podrán exceder del período constitucional del Ayuntamiento, pudiendo ser renovados hasta que el municipio esté en aptitud de asumir su competencia exclusiva, reservándose al municipio, en todo caso, la facultad reglamentaria en la materia del servicio de que se trate.
-
-> <small>(ADICIONADO, D.O. 26 DE MAYO DE 2005)</small>
-
-###### Artículo 85 Ter.
-
-Los municipios, en el ámbito de sus respectivas jurisdicciones, concurrirán con las autoridades estatales y federales, de acuerdo con lo que establezcan las leyes respectivas, en las siguientes materias:
-
-I.- Salud;
-
-II.- Educación;
-
-III.- Población;
-
-IV.- Preservación y promoción de los derechos y desarrollo integral de la etnia maya;
-
-V.- Patrimonio y promoción cultural;
-
-VI.- Regulación y fomento al deporte;
-
-VII.- Protección Civil;
-
-VIII.- Turismo;
-
-IX.- Protección al medio ambiente;
-
-X.- Planeación del Desarrollo Regional;
-
-XI.- Creación y Administración de Reservas Territoriales;
-
-XII.- Desarrollo Económico, en todas sus vertientes, y
-
-XIII.- Desarrollo Social.
-
-Los municipios podrán celebrar convenios con el Ejecutivo del Estado, a fin de que éstos asuman alguna de las funciones o los servicios cuya responsabilidad sea originaria del Estado, trasladándose a favor del municipio los medios para su adecuada prestación así como la contraprestación a cargo de los usuarios del servicio o función de que se trate.
-
-(REUBICADO [N. DE E. ANTES TÍTULO OCTAVO], D.O. 9 DE SEPTIEMBRE DE 2005)
-
-## TITULO NOVENO. De la Función del Estado, como Forma de Convivencia y de su Desarrollo Integral
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 86.
-
-El Estado, en su función ordenadora de la convivencia humana, ejercerá la acción que le compete, en la medida necesaria para asegurar la solidaridad de los elementos asociados y garantizar a éstos una equitativa participación en el bienestar que nace de la convivencia misma. Asimismo, se institucionaliza la perspectiva de género, como principio rector en la legislación, políticas y en general en el quehacer del Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 17 DE MAYO DE 2010)</small>
-
-La Seguridad Pública en Yucatán es una función a cargo del Estado y de los Municipios, en coordinación con la Federación, y tiene por objeto la prevención, la investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en el ámbito de sus respectivas competencias. La actuación de las instituciones estatal y municipales de Seguridad Pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en los Tratados Internacionales en la materia ratificados por el Estado Mexicano y publicados en el Diario Oficial de la Federación.
-
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
-
-Las Instituciones de Seguridad Pública, estatal y municipales, serán de carácter civil, disciplinado y profesional y deberán coordinarse entre sí y con la Federación para cumplir los objetivos de la función a su cargo. El Sistema Estatal de Seguridad Pública tendrá por objeto planear, normar y coordinar las actividades que se realizan en el Estado en materia de Seguridad Pública y estará conformado en los términos que señale la ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JULIO DE 2013)</small>
-
-El Estado, por medio de sus Poderes Públicos, garantizará el respeto al derecho humano de toda persona de gozar de un ambiente ecológicamente equilibrado y la protección de los ecosistemas que conforman el patrimonio natural de Yucatán, basado en los siguientes criterios:
-
-> <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
-
-I.- Las personas en el Estado tienen derecho a vivir en un ambiente saludable que les permita una vida digna, y a hacer uso racional de los recursos naturales con que cuenta la Entidad, para alcanzar el desarrollo sostenido, en los términos que señale la Ley de la materia;
-
-> <small>(ADICIONADA, D.O. 17 DE MAYO DE 2010)</small>
-
-II.- A ninguna persona se le puede obligar a llevar a cabo actividades que ocasionen o puedan ocasionar deterioro al ambiente, en los términos que señale la Ley de la materia; y
-
-> <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
-
-III.- Las personas en el Estado tienen derecho a conocer y tener acceso a la información actualizada acerca del estado del ambiente y de los recursos naturales de la Entidad, así como a participar en las actividades destinadas a su conservación y mejoramiento.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-### CAPITULO UNICO. De la división de Poderes
-
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
-
-###### Artículo 87.
-
-Son funciones específicas del Estado:
-
-I.- armonizar las diferentes actividades individuales, encauzándolas en el sentido de cooperar al bienestar colectivo;
-
-II.- imponer a la actividad individual las limitaciones que sea menester para evitar conflictos o fricciones que debiliten o pongan en peligro el principio de solidaridad que debe prevalecer en la convivencia social;
-
-III.- reintegrar la actividad individual, cuando ésta se encuentre menoscabada por el egoísmo, u otra manifestación análoga, de elementos inadaptados a la estructura social;
-
-> <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
-
-IV.- Prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley;
-
-> <small>(ADICIONADA, D.O. 26 DE JULIO DE 2013)</small>
-
-IV Bis.- Garantizar el cumplimiento del principio de presunción de inocencia, por el cual toda persona acusada de algún delito será inocente hasta que se demuestre su culpabilidad mediante un juicio;
-
-(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
-
-V.- ordenar las relaciones sociales hacia el fin de que la convivencia deje de ser pesada carga para la mayoría y fuente de bienandanza para una minoría, adoptando como principio de justicia el de que cada quien debe cooperar al bienestar colectivo, en la medida de sus fuerzas físicas e intelectuales, y recibir en cambio, de la sociedad, lo bastante para satisfacer sus necesidades;
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-VI.- operar el sistema procesal penal acusatorio, caracterizado por su oralidad y basado en los principios de publicidad, contradicción, concentración, continuidad e inmediación, salvo las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la ley, el cual tiene por objeto esclarecer los hechos, proteger al inocente, procurar que el hecho delictivo no quede impune y que los daños causados por el mismo sean reparados.
-
-La ley establecerá el procedimiento que deberá seguirse ante los tribunales penales y las demás instituciones que formarán parte del sistema acusatorio, y deberá garantizar que el juicio se efectúe ante un juez o tribunal que no haya conocido del caso previamente;
-
-> <small>(ADICIONADA, D.O. 17 DE MAYO DE 2010)</small>
-
-VI Bis.- proporcionar y promover mecanismos alternativos para la solución de controversias a través de vías colaborativas y pacíficas, en las que se privilegie el dialogo entre los particulares, creando las instancias y emitiendo las disposiciones que correspondan para la consecución de ese fin;
-
-> <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
-
-VI Ter.- Organizar el sistema penitenciario sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción social del sentenciado a la sociedad y procurar que no vuelva a delinquir, al observar los beneficios que para él prevea la Ley;
-
-(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
-
-VII.- evitar que por el acaparamiento de las fuentes o instrumentos de producción, sea posible en la estructura social, la explotación de los frutos del esfuerzo ajeno; y
-
-(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
-
-VIII.- propugnar el mejoramiento de los trabajadores a su servicio a fin de que alcancen metas de superación intelectual y beneficios de seguridad social y pensiones en los cauces del Estatuto de los Trabajadores al Servicio del Estado, que es la norma legal que rige las relaciones laborales sobre la materia;
-
-(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
-
-IX.- participar en lo concerniente a su régimen interior al desarrollo nacional, conforme a los principios que establece el Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
-
-(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
-
-X.- organizar un sistema de Planeación del Desarrollo Integral que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía, de acuerdo con los lineamientos del Sistema Nacional de Planeación Democrática, sobre bases que aseguren la conservación y uso racional de los recursos naturales, la salud del ambiente y el desarrollo sostenido;
-
-(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
-
-XI.- coadyuvar con la Federación promoviendo las condiciones para el desarrollo rural integral, con el propósito de generar empleos y de garantizar el acceso de la población campesina al bienestar y justa incorporación y participación en el desarrollo del Estado;
-
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
-
-XII.- fomentar la actividad agropecuaria y forestal para el mejor aprovechamiento de los recursos naturales con obras de infraestructura, créditos y servicios públicos de capacitación y extensionismo;
-
-> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
-
-XIII.- Apoyar e impulsar a las empresas del sector social y las del sector privado propiedad de nacionales, siempre y cuando contribuyan, en el marco de la planeación del desarrollo económico estatal, a los objetivos que en su caso se establezcan;
-
-> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
-
-XIV.- Garantizar la libre opinión ciudadana, a través de los procesos de participación ciudadana que establezcan las leyes; así como el ejercicio del derecho de acceso a la información, y
-
-> <small>(ADICIONADA, D.O. 5 DE ENERO DE 2012)</small>
-
-XV.- Establecer políticas públicas dirigidas a fomentar una alimentación nutritiva, suficiente y de calidad con el fin de combatir la obesidad y los trastornos de la conducta alimentaria en los habitantes del Estado.
-
-> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2019)</small>
-
-XVI.- Establecer en el sistema educativo básico las condiciones y los procedimientos para rescatar, fomentar y preservar la lengua nativa de la entidad.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 88.
-
-El trabajo es un derecho que la sociedad otorga al individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado procurará resolver el problema de la desocupación y reprimirá con sanciones la vagancia y la mendicidad.
-
-> <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
-
-###### Artículo 89.
-
-La propiedad es una institución social que el Estado adopta como medio para la satisfacción de las necesidades individuales, que concede a las personas de manera discrecional; aquella es inalienable e inatacable, cuando se tratare del lugar en donde el hogar tiene su asiento o sobre los instrumentos de trabajo.
-
-El Estado dictará leyes que organicen el patrimonio familiar.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE MAYO DE 2020)</small>
-
-###### Artículo 90.
-
-Los habitantes del Estado tienen derecho a la educación, a la cultura y al acceso a la ciencia, tecnología e innovación, entendiéndolas como derechos humanos fundamentales, y como tales deberán ser garantizados en forma progresiva, no regresiva y sin discriminación alguna.
-
-> <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
-
-Apartado A.- De la Educación.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 9 DE JUNIO DE 2020)</small>
-
-El Estado impartirá y garantizará la educación inicial, preescolar, primaria, secundaria, media superior y superior.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 9 DE JUNIO DE 2020)</small>
-
-La educación inicial, preescolar, primaria y secundaria, conforman la educación básica; esta y la media superior serán obligatorias. La educación superior lo será en términos de la fracción X del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 9 DE JUNIO DE 2020)</small>
-
-La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O. 9 DE JUNIO DE 2020)</small>
-
-Son bases de la Educación que se imparta en el Estado, las siguientes:
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 9 DE JUNIO DE 2020)</small>
-
-I.- Será obligatoria, universal, inclusiva, pública, gratuita, progresista, con contenido nacional y regional, democrática y tenderá a la igualdad entre las personas, procurará siempre desarrollar de manera armónica las facultades del ser humano hasta el máximo de sus posibilidades, fomentará la no discriminación, el civismo, la identidad nacional, el máximo aprovechamiento sustentable de los recursos naturales y la protección del medio ambiente, y promoverá la enseñanza de la lengua de señas mexicana, en la educación básica, el respeto a todos los derechos humanos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia, la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], D.O. 9 DE JUNIO DE 2020)</small>
-
-Además:
-
-a) Será laica, combatirá la ignorancia, el fanatismo y los prejuicios, preparando desde la infancia, para asumir una vida responsable, basada en la comprensión, armonía, tolerancia, equidad de género, inclusión, la no discriminación y cooperación entre todos los pueblos;
-
-b) Coadyuvará con la nación, en la defensa de nuestra independencia política y económica;
-
-c) Priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos;
-
-d) Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
-
-e) Será equitativa, para lo cual el Estado implementará medidas que favorezcan el ejercicio pleno del derecho a la educación de las personas y combatan las desigualdades socioeconómicas y de género en el acceso, tránsito y permanencia en los servicios educativos.
-
-En las escuelas de educación básica de alta marginación, se impulsarán acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario. Asimismo, se respaldará a estudiantes en vulnerabilidad social, mediante el establecimiento de políticas incluyentes y transversales.
-
-En educación para personas adultas, se aplicarán estrategias que aseguren su derecho a ingresar a las instituciones educativas en sus distintos tipos y modalidades;
-
-f) Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancias y necesidades de los educandos. Con base en el principio de accesibilidad se realizarán ajustes razonables y se implementarán medidas específicas con el objetivo de eliminar las barreras para el aprendizaje y la participación;
-
-g) Será intercultural, al promover la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
-
-h) Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar, y
-
-i) Será de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 9 DE JUNIO DE 2020)</small>
-
-II.- Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, lecto-escritura y la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente, entre otras;
-
-> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
-
-III.- Respecto a la educación del pueblo maya, será objeto de atención especial por parte del Estado; su acceso se garantizará mediante leyes y programas que contribuyan a su propio desarrollo, de manera equitativa y sustentable, así como, la educación plurilingüe e intercultural, basada en el respeto, promoción y preservación del patrimonio histórico y cultural y el principio de equidad entre las comunidades; estableciendo los mecanismos que permitan el fomento, subsistencia, enriquecimiento, defensa y orgullo de la cultura maya, así como el respeto por otras culturas.
-
-Cuando se tratare de programas educativos de contenido regional, el Estado deberá consultar al pueblo maya para su definición y desarrollo;
-
-> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
-
-IV.- La educación inicial, preescolar, primaria, secundaria, conforman la educación básica, esta y la media superior serán obligatorias; asimismo el Estado promoverá todos los tipos y modalidades educativas;
-
-> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
-
-V.- La educación superior será obligatoria en los términos que emanen de la Constitución Política de los Estados Unidos Mexicanos, así como de las que emanen de esta Constitución.
-
-El Estado establecerá las políticas para fomentar su inclusión, permanencia y continuidad, en los términos que la ley señale;
-
-> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
-
-VI.- Reconocerá a las maestras y maestros como agentes fundamentales del proceso educativo y su contribución a la transformación social;
-
-> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
-
-VII.- El Estado garantizará materiales didácticos, la infraestructura educativa, su mantenimiento y que las condiciones del entorno, sean idóneas y contribuyan a los fines de la educación, reconociendo que los planteles escolares constituyen un espacio fundamental para el proceso de enseñanza aprendizaje;
-
-> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
-
-VIII.- El Estado apoyará la investigación e innovación científica, tecnológica y humanística, su resultado será sustento de la actividad educativa en concordancia con las leyes reglamentarias de carácter federal, estatal y municipal que así lo dispongan;
-
-> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
-
-IX.- Las Instituciones Educativas particulares no funcionarán y los estudios que impartan no tendrán validez, sin que previamente cuenten con autorización oficial; estas podrán ser de todos los tipos y modalidades, con sujeción a lo dispuesto en esta Constitución.
-
-El Estado será quien otorgue y retire los reconocimientos de validez, con apego a lo que indique la normativa reglamentaria, y
-
-> <small>(REFORMADA [N. DE E. REUBICADA CON SUS INCISOS], D.O. 9 DE JUNIO DE 2020)</small>
-
-X.- Las universidades y demás instituciones de educación superior, a las que la Ley otorgue autonomía, se regirán conforme a lo siguiente:
-
-a) Tendrán la facultad de gobernarse a sí mismas;
-
-b) Realizarán sus fines de educar, investigar y difundir la cultura, de acuerdo con los principios de este artículo;
-
-c) Garantizarán la libertad de cátedra e investigación y el libre pensamiento y discusión de las ideas;
-
-d) Determinarán sus planes y programas;
-
-e) Fijarán los términos de ingreso, promoción y permanencia de su personal académico;
-
-f) Administrarán su patrimonio, y
-
-> <small>(REFORMADO, D.O. 9 DE JUNIO DE 2020)</small>
-
-g) Regirán sus relaciones, con el personal académico y administrativo, por el apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los términos de la Ley Federal del Trabajo, conforme a las características propias de un trabajo especial.
-
-> <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
-
-Apartado B.- De la Cultura
-
-La cultura como valor trascendente, es la base fundamental del desarrollo integral de las personas y la convivencia social.
-
-> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
-
-El Estado implementará con criterio social, políticas para la promoción cultural, el fomento de la cultura maya y su conservación, la difusión de las tradiciones, costumbres, valores regionales y nacionales, buscando inculcar el respeto a la cultura propia y otras distintas.
-
-La ley garantizará la participación de los sectores público, social y privado, en la preservación del patrimonio cultural; la impartición de la educación artística y el impulso a la creación intelectual y las bellas artes, en un marco de libertad y pluralismo.
-
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O. 22 DE MAYO DE 2020)</small>
-
-Apartado C.- De la Ciencia y la Tecnología
-
-La ciencia, la tecnología y la innovación tendrán como base la solidaridad intelectual y moral de los yucatecos, por lo cual deberán desarrollarse respetando el medio ambiente, los principios de la bioética y la dignidad humana, siempre que no comprometan las necesidades ni los intereses de las generaciones futuras, y su principal objetivo será aumentar el bienestar cultural y material de los habitantes, promoviendo los ideales y objetivos de paz y equidad.
-
-El acceso a la ciencia, la tecnología y la innovación deberá considerar lo siguiente:
-
-a) Establecer políticas de largo plazo e implementar mecanismos que fomenten el desarrollo científico y tecnológico de la entidad, que permitan elevar el nivel de vida de la población, combatir la pobreza y proporcionar igualdad de oportunidades;
-
-b) El Estado coordinará los esfuerzos para fortalecer y potenciar las capacidades científicas y de innovación tecnológica con las que cuenta el Estado;
-
-c) Ofrecer condiciones favorables a quienes efectivamente realizan actividades de investigación y desarrollo experimental en ciencia y tecnología, teniendo en cuenta las responsabilidades inherentes a esa labor, los derechos necesarios para su realización, y las garantías para desarrollarlos como carrera, con perspectivas razonables y un grado equitativo de seguridad;
-
-d) Considerar la investigación científica y el desarrollo experimental como una forma de inversión pública cuyo rendimiento, en su mayor parte, sea necesariamente a largo plazo;
-
-e) Fomentar las actividades creadoras de la investigación científica guardando el máximo respeto a la autonomía y a la libertad de investigación necesarias para el progreso científico;
-
-f) Apoyar todas las iniciativas educacionales destinadas a promover el espíritu investigador;
-
-g) Favorecer el surgimiento y desarrollo de investigadores científicos de alta calidad, entre los propios ciudadanos, incentivando a los que aspiran a desarrollarse profesionalmente en el ramo;
-
-h) Fomentar que todos los habitantes interesados en realizar investigación científica y desarrollo tecnológico disfruten de las mismas oportunidades para conseguirlo; asimismo, que tengan igual acceso a los empleos disponibles en la investigación científica y desarrollo tecnológico, y
-
-i) Mantener informada a la sociedad sobre los avances en ciencia y tecnología que se desarrolla en el Estado, pero sobre todo enfocándola a su disfrute y al mejoramiento de su calidad de vida.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 91.
-
-El ejercicio de las acciones inherentes al arrendamiento de predios para habitación, relaja la solidaridad entre los elementos sociales. En consecuencia, el Estado organizará el problema de la habitación humana sobre bases más convenientes.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 92.
-
-Para el desarrollo y consolidación de la solidaridad como condición básica de la convivencia, es necesario fomentar en los elementos sociales, la simpatía, como aptitud de sentir reflejamente el bien o el mal ajenos. Consecuentemente, el Estado impedirá todo espectáculo, comercio o actividad que pueda inspirar sentimientos inhumanos o crueles, o de odio y antipatía entre los conviventes, o de rebajamiento o degradación de la personalidad humana.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2020)</small>
-
-###### Artículo 93.
-
-Las niñas, niños y adolescentes en desamparo, los adultos mayores y las personas con discapacidad recibirán la protección y asistencia especial del Estado, a través de la creación de instituciones, instalaciones y servicios para su cuidado; así como programas sociales que garanticen el disfrute de una vida plena y aseguren su dignidad.
-
-> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
-
-Las leyes que se dicten en esta materia atenderán la vigilancia y orientarán la conveniente asistencia social con miras a lograr la interacción y desarrollo individual asumido por las instituciones de beneficencia pública y privada.
-
-> <small>(REFORMADO, D.O. 24 DE JULIO DE 2009)</small>
-
-### CAPITULO I. Del Poder Legislativo del Estado
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 94.
-
-La familia es una institución social permanente a la que se reconoce como el fundamento primordial de la sociedad sobre la cual evoluciona el Estado. Es una institución integrada por dos o más personas unidas o emparentadas entre sí, por afinidad, por consanguinidad o por adopción, que como comunidad afectiva y de convivencia, potencía el libre desarrollo de todos sus miembros.
-
-> <small>(REFORMADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
-
-El matrimonio es una institución por medio del cual se establece la unión jurídica, libre y voluntaria de dos personas, con igualdad de derechos, deberes y obligaciones, para realizar la comunidad de vida, en donde ambos se procuran respeto y ayuda mutua. El Estado reconoce que es de vital interés para la sociedad que en la unión de dos personas, se establezcan límites en cuanto a la edad y salud física y psíquica.
-
-> <small>(REFORMADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
-
-El concubinato es la unión de dos personas, quienes libres de matrimonio, viven como cónyuges pueden generar una familia, en los términos que fije la ley.
-
-El Estado y la ley protegerán la organización y el desarrollo de la familia, así como el respeto a su dignidad e intimidad. Asimismo, regularán el matrimonio, las causas de separación, disolución y sus efectos; así como las condiciones para la constitución del concubinato.
-
-###### Artículo 95.
-
-(DEROGADO, D.O. 12 DE DICIEMBRE DE 1997)
-
-> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
-
-###### Artículo 95 Bis.
-
-El Estado garantizará, protegerá y promoverá el desarrollo social, económico, político y cultural del pueblo maya. El Estado y sus municipios, dentro del ámbito de sus respectivas competencias, con la participación de las comunidades mayas y en coordinación con las mismas, deberán:
-
-I.- Procurar la incorporación de las mujeres mayas al desarrollo, mediante programas de capacitación y apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y participación en la toma de decisiones relacionadas con la vida comunitaria;
-
-II.- Establecer las politicas, medidas, programas y proyectos específicos, para promover los productos y servicios que generen las comunidades mayas, asi como estimular y fortalecer la asociación de éstas para la comercialización y la creación de infraestructura, que permita elevar su capacidad competitiva en los mercados;
-
-III.- Crear, con base en un programa de desarrollo comunitario, los proyectos, las obras o los servicios prioritarios, en las partidas presupuestales que les sean asignados;
-
-IV.- En los planes de desarrollo municipal y programas que de ellos se deriven, los Municipios darán participación a los integrantes de las comunidades mayas, situadas en sus respectivas jurisdicciones, en los términos que establezca la ley, con el fin de impulsar su desarrollo integral, fortalecer las economías locales y mejorar sus condiciones de vida, mediante acciones coordinadas entre los tres órdenes de gobierno, con la participación activa de las comunidades mayas.
-
-V.- Instituir las políticas necesarias para garantizar que en los poderes públicos del Estado, sus organismos autónomos y en los municipios, existan funcionarios conocedores de la cultura maya y sean maya-hablantes.
-
-VI.- Implementar las políticas necesarias para garantizar la vigencia de los derechos del pueblo maya y el desarrollo integral de sus comunidades.
-
-En cada municipio se establecerán mecanismos de participación ciudadana para coadyuvar con los ayuntamientos en la programación, ejercicio, evaluación y control de los recursos, que se destinen al desarrollo social.
-
-> <small>(REFORMADO, D.O. 31 DE MARZO DE 1988)</small>
-
-###### Artículo 96.
-
-El Estado propugnará por una correcta aplicación de los recursos y al efecto elaborará un Plan de Desarrollo Integral con vigencia sexenal, al cual se sujetarán obligatoriamente los programas de la Administración Pública Estatal.
-
-La Ley determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenio con los Gobiernos Federal y Municipal e induzca y concerte con los particulares, las acciones a realizar para la elaboración y ejecución del Plan Estatal de Desarrollo.
-
-> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
-
-La planeación para el desarrollo estatal y municipal facilitará la programación del gasto público con base en objetivos y metas, claros y cuantificables, que permitan evaluar adecuadamente su cumplimiento, a fin de conocer los resultados obtenidos.
-
-> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
-
-La ley facultará al Poder Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema estatal de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo.
-
-> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
-
-La planeación del Estado también implicará mecanismos para el uso racional de los recursos naturales, la salud y el desarrollo sostenido.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE ABRIL DE 2016)</small>
-
-## TITULO DECIMO. De las responsabilidades de los Servidores Públicos y los particulares vinculados con faltas administrativas graves o hechos de corrupción
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
-
-###### Artículo 97.
-
-Para los efectos de las responsabilidades a que alude este título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial del Estado, los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso del Estado o en la Administración Pública estatal o municipal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
-
-> <small>(ADICIONADO, D.O. 20 DE ABRIL DE 2016)</small>
-
-Los servidores públicos a que se refiere este artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes, en los términos que determine la ley.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-Los servidores públicos del Estado y de los Municipios, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, la que se determinará anual y equitativamente en los presupuestos de egresos correspondientes, de acuerdo a las bases establecidas en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-Las remuneraciones de los servidores públicos y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie, en los términos que establezca la Ley.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-Los servidores públicos del Estado y de los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-Todo servidor público es responsable por la comisión de delitos en el ejercicio de su encargo.
-
-(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 207/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
-
-Para proceder penalmente en contra de los magistrados y consejeros de la Judicatura del Poder Judicial del Estado, se requerirá la declaración de procedencia que emita el Congreso del estado, ÚNICAMENTE POR LA COMISIÓN DE DELITOS COMETIDOS CONTRA LA ADMINISTRACIÓN DE JUSTICIA Y OTROS RAMOS DEL PODER PÚBLICO, PARTICULARMENTE EN LAS RESOLUCIONES O SENTENCIAS QUE PRONUNCIEN, ESTABLECIDOS EN EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN.
-
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
-
-###### Artículo 98.
-
-Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
-
-I.- Se impondrán mediante juicio político, las sanciones indicadas en el artículo 99 de esta Constitución a los servidores públicos señalados en el propio precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos o de su buen despacho.
-
-No procede el juicio político por la mera expresión de ideas.
-
-II.- La comisión de delitos por parte de cualquier servidor público o particulares, será perseguida y sancionada en los términos de la legislación penal aplicable.
-
-> <small>(REFORMADO, D.O. 13 DE MARZO DE 2020)</small>
-
-Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por actos de corrupción o enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 13 DE MARZO DE 2020)</small>
-
-III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, o por intervenir en actos de corrupción. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
-
-Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa del Estado de Yucatán. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
-
-Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el titulo sexto de esta Constitución, sin perjuicio de las atribuciones de las entidades de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
-
-La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Yucatán; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
-
-> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
-
-IV.- El Tribunal de Justicia Administrativa del Estado de Yucatán impondrá a los particulares que intervengan en actos de corrupción o vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con hechos de corrupción o con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de actos de corrupción o faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que dicha sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con actos de corrupción o faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
-
-Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
-
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso respecto de las conductas a las que se refiere este artículo.
-
-En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
-
-### CAPITULO II. De la Elección e Instalación del Congreso
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-###### Artículo 99.
-
-Podrán ser sujetos de juicio político los diputados locales en funciones; los magistrados y los consejeros de la judicatura del Poder Judicial del estado; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; los titulares de las dependencias de la Administración Pública estatal y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales.
-
-> <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
-
-Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñarse.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-En caso de conocer de la acusación, el Congreso del Estado, erigido en Gran Jurado, dictará la sanción correspondiente mediante la resolución de la mayoría absoluta de los miembros presentes, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
-
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
-
-Cuando al Congreso del Estado le sea comunicado, con efecto de notificación, la resolución que dicte la Cámara de Senadores con motivo del Juicio Político a que estuvo sujeto el Gobernador del Estado en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, con el carácter del Organo Ejecutor procederá a aplicar la sanción correspondiente; pero cuando lo estime procedente solicitará a la Cámara de Senadores las aclaraciones que juzgue pertinentes, antes de ejecutar la sanción.
-
-> <small>(F. DE E., D.O. 3 DE ENERO DE 1989)</small>
-
-Las declaraciones y resoluciones de la Legislatura del Estado son definitivas.
-
-(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 207/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-REFORMADO PRIMER PÁRRAFO, D.O. 19 DE JUNIO DE 2017)
-
-###### Artículo 100.
-
-El Congreso del estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente en contra de los magistrados y consejeros de la Judicatura del Poder Judicial del estado, ÚNICAMENTE POR LA COMISIÓN DE DELITOS COMETIDOS CONTRA LA ADMINISTRACIÓN DE JUSTICIA Y OTROS RAMOS DEL PODER PÚBLICO, PARTICULARMENTE EN LAS RESOLUCIONES O SENTENCIAS QUE PRONUNCIEN, ESTABLECIDOS EN EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EFECTUADOS DURANTE SU ENCARGO.
-
-> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
-
-Los diputados locales; los magistrados y los consejeros de la judicatura del Poder Judicial del estado; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; los titulares de las dependencias de la Administración Pública centralizada y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales, que fueran objeto de proceso penal, permanecerán en su cargo, hasta en tanto se dicte sentencia condenatoria definitiva.
-
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
-
-Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continue su curso cuando el inculpado haya concluído el ejercicio de su encargo o comisión.
-
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
-
-Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes.
-
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
-
-En caso de que la Cámara de Diputados del Congreso de la Unión emita la declaración de procedencia por delitos federales, en contra del Gobernador, los diputados locales, los magistrados y los consejeros de la Judicatura del Poder Judicial del estado; y los miembros de los organismos constitucionales autónomos a que se refiere el primer párrafo, en los términos del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, una vez notificada esta, la Legislatura del estado resolverá la separación del inculpado de su encargo y lo pondrá a disposición del Ministerio Público Federal. El Congreso del estado, cuando lo estime pertinente, solicitará al órgano que declaró la procedencia las aclaraciones pertinentes, antes de resolver que el inculpado sea separado de su cargo.
-
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
-
-Las aclaraciones y resoluciones de la Legislatura del Estado son definitivas.
-
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
-
-El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal; tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán valorarse de acuerdo al lucro obtenido y a la reparación de los daños y perjuicios causados por su conducta ilícita.
-
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
-
-Las sanciones económicas no podrán exceder de tres tantos del beneficio obtenido o de los daños o perjuicios causados.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
-
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
-
-###### Artículo 101.
-
-El procedimiento de Juicio Político sólo podrá iniciarse durante el período en que el servidor público esté en funciones o hasta un año después de haberse separado del cargo.
-
-> <small>(ADICIONADO, D.O. 20 DE ABRIL DE 2016)</small>
-
-###### Artículo 101 Bis.
-
-El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades del orden estatal y municipal competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Así mismo, participará, colaborará y asistirá en sus funciones al Sistema Nacional Anticorrupción, en los términos previstos por la ley.
-
-> <small>(ADICIONADO, D.O. 13 DE MARZO DE 2020)</small>
-
-El Sistema Estatal Anticorrupción tendrá como objeto realizar acciones y políticas públicas en la prevención, identificación y sanción de acuerdo a las leyes en la materia, a fin de disuadir y erradicar prácticas de corrupción en el sector público y privado.
-
-Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
-
-> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-I.- El sistema contará con un comité coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa del Estado de Yucatán; el presidente del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; así como por un representante del Consejo de la Judicatura del Estado y otro del comité de participación ciudadana.
-
-II.- El comité de participación ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
-
-III.- Corresponderá al comité coordinador del sistema, en los términos que determine la ley:
-
-a) El establecimiento de mecanismos de coordinación entre el estado, los municipios y entre estos con la federación.
-
-b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan.
-
-c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del estado y sus municipios.
-
-d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del estado y sus municipios en materia de fiscalización y control de los recursos públicos.
-
-e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
-
-Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al comité sobre la atención que brinden a estas, en los términos previstos en la ley.
-
-(REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
-
-## TITULO UNDECIMO. Disposiciones generales
-
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
-
-###### Artículo 102.
-
-Las facultades que no están expresamente concedidas por la Constitución Política de los Estados Unidos Mexicanos a los municipios, se entienden reservadas al Estado.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 103.
-
-Ningún individuo podrá desempeñar a la vez dos o más cargos de elección popular, pero el nombrado puede elegir entre ellos el que quiera desempeñar.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 104.
-
-Ningún pago podrá hacerse sin que esté comprendido en el Presupuesto, o determinado por Ley posterior a éste.
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-###### Artículo 105.
-
-Todo servidor público del Estado y de los municipios, sin excepción alguna, antes de tomar posesión de su encargo, manifestará ante quien corresponda el Compromiso Constitucional de cumplir las obligaciones que contrae, al guardar y hacer guardar sin reserva alguna, la Constitución Política de los Estados Unidos Mexicanos, así como la del Estado y las Leyes que de ellas emanen, en los términos previstos en el artículo 67 de esta Constitución.
-
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
-
-### CAPITULO III. De las facultades del Congreso
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE FEBRERO 1984)</small>
-
-###### Artículo 106.
-
-La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios superiores de la administración pública, así como la de los Presidente Municipales, no excusa la de los subalternos que obedezcan órdenes de aquéllos, dirigidas a suspender o retardar las elecciones populares, la realización de los procedimientos de participación ciudadana, la instalación del Congreso, de los ayuntamientos o el libre ejercicio de las funciones de éstos.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE FEBRERO DE 2018)</small>
-
-###### Artículo 107.
-
-Los órganos públicos del Estado y de los municipios deberán administrar y ejercer los recursos públicos a su cargo con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para satisfacer los objetivos a los que estén destinados.
-
-> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
-
-Los resultados de la ejecución de los programas y del ejercicio de los recursos públicos, serán evaluados por un Órgano de Evaluación, dependiente del Congreso del Estado, con las características que determine la Ley.
-
-> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
-
-Los indicadores de los resultados a evaluar se deberán incorporar en el proceso de programación y presupuestación de los recursos públicos de las entidades fiscalizadas.
-
-> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
-
-Dicho órgano realizará la evaluación del desempeño por sí mismo o a través de la contratación de terceros, bajo principios de imparcialidad y transparencia.
-
-> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
-
-La Ley determinará la organización y atribuciones del Órgano de Evaluación, los requisitos para ser su titular, así como el procedimiento para su designación y remoción, en su caso.
-
-> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
-
-El resultado de las evaluaciones se deberá considerar en el proceso de programación y presupuesto de los recursos públicos de las entidades fiscalizadas, a fin de propiciar que los recursos económicos se asignen tomando en cuenta los resultados alcanzados.
-
-Los contratos que el Gobierno o los Municipios hayan de celebrar, con motivo de la ejecución de obras públicas, serán dados a conocer, mediante convocatoria, para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública, en la cual los contratos se adjudicarán en subasta.
-
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
-
-El Estado y los Municipios podrán asumir, mediante los convenios respectivos la responsabilidad, de la ejecución y operación de obras y prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario, en los términos de la ley de la materia. De conformidad a lo establecido en el Título Séptimo, y en el artículo 104 del Título Décimo, de esta Constitución.
-
-> <small>(ADICIONADO, D.O. 28 DE FEBRERO DE 2018)</small>
-
-El estado y los municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, las cuales deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso del estado, adicionalmente para otorgar garantías respecto al endeudamiento de los municipios. Lo anterior, conforme a las bases que se establezca (sic) en la ley correspondiente, en el marco de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, y por los conceptos y hasta por los montos que el Congreso apruebe. El Poder Ejecutivo informará de su ejercicio al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
-
-> <small>(ADICIONADO, D.O. 28 DE FEBRERO DE 2018)</small>
-
-El estado y los municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la ley. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
-
-(REUBICADO [N. DE E. ANTES TÍTULO UNDÉCIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
-
-## TITULO DUODECIMO. Reforma e inviolabilidad de la Constitución
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 108.
-
-La presente Constitución puede ser adicionada y reformada. Para que las adiciones y reformas lleguen a ser parte de la Constitución, se requiere que el Congreso del Estado las apruebe por el voto de las dos terceras partes del número total de Diputados.
-
-> <small>(ADICIONADO, D.O. 26 DE MAYO DE 2005)</small>
-
-Para que las reformas relacionadas con el municipio formen parte de ésta Constitución, será necesaria la aprobación de la mayoría de los Ayuntamientos, en un plazo no mayor de noventa días naturales, contados a partir del día siguiente a aquel en que reciban el proyecto de minuta.
-
-> <small>(ADICIONADO, D.O. 26 DE MAYO DE 2005)</small>
-
-Transcurrido el plazo fijado con anterioridad, y sin que el o los Ayuntamientos se hayan pronunciado, se entenderá como aprobado el proyecto de minuta.
-
-> <small>(ADICIONADO, D.O. 26 DE MAYO DE 2005)</small>
-
-El Congreso o la Diputación Permanente, harán en su caso, el cómputo de los votos emitidos por los ayuntamientos y la declaratoria correspondiente.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 109.
-
-La Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca en el Estado un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, así los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
-
-## TRANSITORIOS
-
-## TITULO TERCERO. Del Poder Público del Estado
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-### CAPITULO IV. De la iniciativa y formación de las Leyes
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 110.
 
@@ -3011,9 +947,7 @@ Si el Titular del Poder Ejecutivo designa un sustituto que se encargue del despa
 
 Los notarios sustitutos no podrán convertirse en titulares de la notaría que están sustituyendo, dejarán de actuar como notario en cuanto termine la licencia o suspensión del titular y sólo podrán convertirse en titulares, siempre y cuando participen en el proceso que establece la presente Ley.
 
-### CAPITULO V. De la Diputación Permanente y sus atribuciones
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+### CAPITULO II. DE LA SUSPENSION
 
 ###### ARTICULO 113.
 
@@ -3039,63 +973,7 @@ El Juez que dicte auto de formal prisión por delito doloso o preterintencional 
 
 En el caso de la fracción III del artículo 113, tan luego como la Secretaría de Gobierno tenga conocimiento de que un Notario adolece de impedimento físico o mental, designará a dos médicos oficiales para que determinen la naturaleza del padecimiento y si éste lo imposibilita temporal o definitivamente para el ejercicio de sus funciones.
 
-### CAPITULO VI. De la Auditoría Superior del Estado
-
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
-
-###### Artículo 43 Bis.
-
-La Auditoría Superior del Estado es un órgano con autonomía técnica, presupuestal y de gestión para el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley.
-
-La función de fiscalización se realizará conforme a los principios de legalidad, imparcialidad y confiabilidad.
-
-La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la cuenta pública.
-
-Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior del Estado podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
-
-La Auditoría Superior del Estado tendrá a su cargo:
-
-I.- Fiscalizar en forma posterior los ingresos, egresos y deuda pública; el manejo, la custodia y la aplicación de los fondos y recursos públicos estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales, a través de los informes que se rendirán en los términos que disponga la ley.
-
-En el caso de que el estado y sus municipios celebren empréstitos y obligaciones de pago con independencia del origen de los recursos afectados como garantía, la Auditoría Superior del Estado podrá fiscalizar el destino y ejercicio de los recursos correspondientes. Asimismo, fiscalizará los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
-
-Las entidades fiscalizadas a que se refiere el párrafo anterior deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos del estado y los municipios que les sean transferidos y asignados, de acuerdo con los criterios que establezca la ley.
-
-La Auditoria Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, solo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones y términos que determine la ley, derivado de denuncias, la Auditoría Superior del Estado, previa autorización del titular podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley y, en caso de incumplimiento, serán aplicables las sanciones que en esta se prevean. La Auditoría Superior del Estado rendirá un informe específico y detallado al Congreso y, en su caso, remitirá el expediente y promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado de Yucatán, la Fiscalía Especializada en Combate a la Corrupción o a las autoridades competentes.
-
-II.- Entregar al Congreso el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la cuenta pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, deberá entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la cuenta pública estatal, el cual se someterá a la consideración del Pleno del Congreso. El informe general ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre estas.
-
-Para tal efecto, de manera previa a la presentación del informe general ejecutivo y de los informes individuales de auditoría, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, para que estas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los informes individuales de auditoría.
-
-El titular de la Auditoría Superior del Estado enviará a las entidades fiscalizadas los informes individuales de auditoría que les corresponda, a más tardar a los diez días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo al Congreso, los cuales contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta treinta días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa del Estado de Yucatán, las cuales se sujetarán a los procedimientos y términos que establezca la ley.
-
-La Auditoría Superior del Estado deberá pronunciarse en un plazo de ciento veinte días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
-
-En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
-
-La Auditoría Superior del Estado deberá entregar al Congreso, el primer día hábil de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría incluirá los montos efectivamente resarcidos a la Hacienda Pública federal, estatal o municipal, según sea el caso, o al patrimonio de los entes públicos, como consecuencia de sus acciones de fiscalización, así como las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa del Estado de Yucatán.
-
-La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General Ejecutivo al Congreso a que se refiere esta fracción; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
-
-III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales, y efectuar visitas domiciliarias, para solicitar la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-IV.- Promover y denunciar, derivado de sus investigaciones, las responsabilidades administrativas o penales que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Yucatán y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares.
-
-El Congreso del estado designará al Auditor Superior del Estado por el voto de las dos terceras partes de sus miembros integrantes. La ley en la materia determinará el procedimiento para su designación. El Auditor Superior del Estado será electo para desempeñar su cargo por ocho años y podrá ser reelecto por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el título décimo de esta Constitución.
-
-> <small>(REFORMADO, D.O. 13 DE MARZO DE 2020)</small>
-
-Para ser titular de la Auditoría Superior del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, IV, V, VI y VII del artículo 65 de esta Constitución, contar con título y cédula profesional, y acreditar, al menos, cinco años de experiencia en materia de control, auditoría financiera y de responsabilidad, los que señale la ley. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
-
-Los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales o municipales deberán proporcionar la información, documentación y auxilios que soliciten la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+### CAPITULO III. DE LA CESACION
 
 ###### ARTICULO 116.
 
@@ -3197,19 +1075,15 @@ La Secretaría de Gobierno designará el funcionario que se encargue de formular
 
 En el caso de separación o suspensión del Notario por un término mayor de seis meses, el sello de la notaría deberá depositarse en la Dirección del Notariado y Archivo General de Notarías.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 128.
 
-Cuando cese en sus funciones una notaría, no se expedirá convocatoria para designar titular de la misma, si no se cumple con lo establecido en el artículo 15 de esta Ley.
+Cuando cese en sus funciones un Notario, el Secretario de Gobierno podrá nombrar Notario sustituto para que culmine los asuntos pendientes de trámite, autorizando con sello propio y asentando razón de ello en cada caso.
 
-## TITULO CUARTO. Del Poder Legislativo
+## TITULO QUINTO. DE LA RESPONSABILIDAD DE LOS NOTARIOS Y CANCELACION DE GARANTIA
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-### CAPITULO I. Del Gobernador del Estado
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+### CAPITULO I. DE LA RESPONSABILIDAD
 
 ###### ARTICULO 129.
 
@@ -3229,9 +1103,9 @@ El Ejecutivo del Estado aplicará a los notarios las siguientes sanciones admini
 
 I.- Amonestación por oficio;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II.- Multa equivalente al monto de 300 a 500 días de salario mínimo;
+II.- Multa equivalente al monto de 300 a 500 veces el valor diario de la Unidad de Medida y Actualización;
 
 III.- Suspensión del cargo hasta por un año; y,
 
@@ -3247,11 +1121,7 @@ Para aplicar a los notarios las sanciones administrativas que establecen las fra
 
 Tratándose de actos u omisiones de los notarios que por su gravedad motiven la suspención (sic) o cesación del cargo que desempeñan, antes de dictarse la resolución sobre el particular, se observará el procedimiento siguiente: se ordenará la investigación respectiva en los términos de esta Ley y emplazará al presunto infractor para que dentro del término de veinte días rinda su informe, aporte las pruebas y formule alegatos que a sus intereses convengan; el Ejecutivo del Estado, de considerarlo conveniente y dando cuenta con el resultado de la investigación, solicitará la opinión del Consejo de Notarios, la que deberá emitirse en el plazo de cinco días; con los elementos referidos y dentro del término de diez días dictará la resolución definitiva, contra la que no existirá ulterior recurso.
 
-### CAPITULO II. De las facultades y obligaciones del
-
-Gobernador del Estado
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+### CAPITULO II. DE LA CANCELACION DE GARANTIA
 
 ###### ARTICULO 134.
 
@@ -3271,9 +1141,7 @@ VI.- Que transcurran tres meses, después de la publicación en el Periódico of
 
 En caso de oposición se consignará el asunto a la autoridad judicial respectiva para que proceda en términos de Ley.
 
-## TITULO QUINTO. Del Poder Ejecutivo
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+## TITULO SEXTO. DEL COLEGIO DE NOTARIOS Y SU CONSEJO
 
 ###### ARTICULO 135.
 
@@ -3317,21 +1185,21 @@ IV. Emitir recomendaciones en los casos que la Ley le señale;
 
 V. Resolver las consultas que les hicieren los notarios del Estado, referente al ejercicio de sus funciones;
 
-VI. Planear, organizar y ejecutar todos los programas de actualización y certificación que estimen convenientes, así como el curso de formación de aspirantes a notarios; y,
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Las demás que les confiere esta Ley y sus reglamentos.
+VI. Planear, organizar y ejecutar todos los programas de actualización y certificación que estimen convenientes, así como el curso de formación de aspirantes a notarios;
 
-## TITULO SEXTO. Del Poder Judicial
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+VII. Suscribir convenios, contratos y demás instrumentos consensuales que coadyuven al cumplimiento de las funciones notariales; y,
 
-### CAPITULO I. Del Poder Judicial
+VIII. Las demás que les confiere esta Ley y sus reglamentos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+## TITULO SEPTIMO. DEL ARCHIVO GENERAL DE NOTARIAS E INSPECCION
 
-### CAPITULO III. Restricciones a las facultades del Gobernador
+### CAPITULO I. DEL ARCHIVO GENERAL DE NOTARIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE MAYO DE 1984)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 141.
 
@@ -3395,9 +1263,7 @@ El Director del Notariado y Archivo General de Notarías tendrá especial cuidad
 
 El Director del Notariado y Archivo General de Notarías usará un sello semejante al de los notarios que diga: "Michoacán de Ocampo. Dirección del Notariado y Archivo General de Notarías".
 
-### CAPITULO IV. De la Organización del Poder Ejecutivo
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+### CAPITULO II. DE LA INSPECCION DE NOTARIAS
 
 ###### ARTICULO 146.
 
@@ -3430,6 +1296,126 @@ El comisionado hará constar en el acta las irregularidades que observe; consign
 ###### ARTICULO 150.
 
 El acta a que se refiere el artículo anterior, se levantará por quintuplicado, un tanto será remitido al Secretario de Gobierno, otro al Director del Registro Público de la Propiedad, otro a la Dirección del Notariado y Archivo General de Notarías, el cuarto al Consejo de Notarios y el último quedará en poder del Notario.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+## TITULO OCTAVO. DE LA CONCURRENCIA NOTARIAL EN LOS PROCEDIMIENTOS JURISDICCIONALES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO I. DE LOS ACTOS MATERIA DE ESTOS PROCEDIMIENTOS
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 151.
+
+Los notarios en forma concurrente con la autoridad jurisdiccional, podrán autorizar los actos y dar fe de los hechos que a continuación se enumeran, siempre y cuando no se haya promovido o se promueva, durante su trámite, cuestión alguna entre partes determinadas:
+
+I. Los procedimientos sucesorios en los términos del Código de Procedimientos Civiles del Estado; y,
+
+II. Divorcio Administrativo.
+
+En el trámite y substanciación de los procedimientos señalados en las fracciones anteriores, los notarios se sujetarán a la normativa de este título y demás disposiciones aplicables consignadas en esta ley, teniendo aplicación supletoria, en lo que no se contrapongan y sean acordes con su naturaleza, las disposiciones relativas a la jurisdicción voluntaria o vía de autorización señaladas en el Código de Procedimientos Civiles del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO II. NORMAS NOTARIALES DE TRAMITACION SUCESORIA
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 152.
+
+Sin perjuicio de lo dispuesto por el artículo 1129 del Código de Procedimientos Civiles, las sucesiones en las que no hubiere controversia alguna y cuyos herederos fueren mayores de edad, menores emancipados o personas jurídicas, podrán tramitarse ante Notario.
+
+El que se oponga al trámite de una sucesión, o crea tener derechos contra ella, los deducirá conforme lo previene el Código de Procedimientos Civiles. El Juez competente, de estimarlo procedente, lo comunicará al Notario para que, en su caso, a partir de esa comunicación se abstenga de proseguir con la tramitación.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 153.
+
+Si la sucesión fuere testamentaria, la tramitación notarial podrá llevarse a cabo, independientemente de cual hubiere sido el último domicilio del autor de la sucesión o el lugar de su fallecimiento, siempre y cuando se actualicen las hipótesis previstas en la primera parte del artículo anterior; si hubiere legatarios incapaces podrá tramitarse notarialmente la sucesión en el caso que los legados hayan sido pagados o garantizados su pago total, lo cual deberá hacerse constar en el instrumento.
+
+En este caso, deberán obtenerse previamente los informes del Archivo, así como de la oficina respectiva del último domicilio del autor de la sucesión, en caso de que hubiere sido fuera del Estado de Michoacán, a fin de acreditar que el testamento presentado al Notario por todos los herederos, es el último otorgado por el testador.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 154.
+
+La sucesión intestamentaria podrá tramitarse ante Notario si el último domicilio del autor de la sucesión fue el Estado de Michoacán, o si se encuentran ubicados en la entidad uno o la mayor parte de los bienes, lo cual declararán los interesados bajo su responsabilidad, una vez que se hubieren obtenido del Archivo, constancias de no tener depositado testamento o informe de que se haya otorgado alguno, y previa acreditación de los herederos de su entroncamiento con el autor de la sucesión mediante las partidas del Registro Civil correspondiente. Podrán tramitar esta sucesión, el o la cónyuge, los ascendientes, descendientes y colaterales hasta el cuarto grado; fuera de estos casos, la sucesión deberá tramitarse por la vía judicial.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 155.
+
+Si hubiere testamento se exhibirá el testimonio correspondiente y la copia certificada del acta de defunción del autor de la sucesión; el heredero o herederos instituidos y el albacea designado, si lo hubiere, podrán manifestar expresamente y de común acuerdo ante el Notario de su elección:
+
+I. Su conformidad, de llevar la tramitación ante el citado Notario;
+
+II. Que reconocen la validez del testamento;
+
+III. Que aceptan la herencia;
+
+IV. Que reconocen por sí y entre sí sus derechos hereditarios que les sean atribuidos por el testamento; y,
+
+V. Su intención de proceder por común acuerdo.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 156.
+
+El Notario podrá hacer constar también la aceptación o renuncia del cargo de albacea instituido por el autor del testamento, así como las designaciones de albacea que en su caso hagan todos los herederos de común acuerdo, y la aceptación del cargo. También los acuerdos de los herederos para la constitución en su caso de la caución o el relevo de esa obligación. Una vez aceptado el cargo, el albacea procederá a la formación de inventario y avalúo en términos de ley.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 157.
+
+También podrá hacer constar el Notario, la renuncia o repudio de derechos que haga alguno de los herederos o legatarios. Los emancipados podrán aceptar o repudiar sus derechos hereditarios.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 158.
+
+El instrumento de aceptación de herencia podrá otorgarse aún sin la comparecencia de los legatarios instituidos, siempre que los herederos se obliguen al pago de los legados. No se podrá llevar a cabo la adjudicación de bienes sin que se hubiesen pagado o garantizado los legados.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 159.
+
+Si no hubiere testamento, los herederos, en el orden de derechos previsto por el Código Civil, comparecerán todos ante Notario en compañía de dos testigos idóneos; exhibirán al Notario copias certificadas del acta de defunción del autor de la sucesión y las que acrediten su entroncamiento; declararán bajo protesta de decir verdad sobre el último domicilio del finado, y que no conocen de la existencia de persona alguna diversa de ellos con derecho a heredar en el mismo grado o en uno preferente al de ellos mismos.
+
+El Notario procederá a tomar la declaración de los testigos por separado, en los términos previstos para las diligencias de información testimonial por el artículo 1169 del Código de Procedimientos Civiles.
+
+Acto seguido, se procederá en los mismos términos previstos por el artículo anterior, para lo relativo a la aceptación o repudio de los derechos hereditarios, el nombramiento de albacea y la constitución o relevo de la caución correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 160.
+
+El Notario está obligado a dar a conocer las declaraciones de los herederos a que se refieren los artículos anteriores, mediante dos publicaciones que se harán en un diario de circulación nacional, de diez en diez días, con la mención del número de la publicación que corresponda. Estas publicaciones podrán ser suplidas por otra u otras publicaciones en medios electrónicos u otro medio de comunicación masiva que acuerden el Colegio y las autoridades competentes, salvaguardando siempre la debida publicidad y garantía de audiencia de los posibles interesados.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 161.
+
+Una vez hechas las publicaciones a que se refiere el artículo anterior, de lo que se dejará constancia en el instrumento, el o los albaceas presentarán al Notario el inventario y avalúos de los bienes que forman el acervo hereditario del autor de la sucesión para que, con la aprobación de todos los coherederos, en su caso, se realice su protocolización.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 162.
+
+Los herederos y albacea otorgarán las escrituras de partición y adjudicación tal como haya sido ordenado por el autor de la sucesión en su testamento. A falta de éste, conforme a las disposiciones de la Ley de la materia para los intestados, como los propios herederos convengan.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 163.
+
+Contra los acuerdos, resoluciones y determinaciones que los notarios tomen en los procedimientos a que se refiere este Título, no cabrá recurso alguno, sin que por lo anterior se agravien los derechos de los interesados, quienes pueden hacerlos valer en la vía judicial competente.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 164.
+
+Siempre que alguno de los procedimientos a que se refiere este Título, sea interrumpido en su trámite por cualquier causa, el Notario sentará en el expediente del mismo la razón correspondiente.
 
 TRANSITORIOS:
 
@@ -3477,1405 +1463,69 @@ Lic. Ausencio Chávez Hernández. Firmado.
 
 P.O. 11 DE SEPTIEMBRE DE 1986.
 
-## TITULO SEPTIMO. De los Organismos Autónomos
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE JUNIO DE 2014)</small>
-
-### CAPÍTULO I. De las Disposiciones Generales
-
-> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
-
-###### Artículo 73 Ter.
-
-Son organismos constitucionales autónomos del Estado de Yucatán:
-
-I.- La Comisión de Derechos Humanos del Estado de Yucatán;
-
-> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
-
-II.- El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
-
-> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
-
-III.- El Instituto Electoral y de Participación Ciudadana de Yucatán;
-
-> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-IV.- El Tribunal Electoral del Estado de Yucatán;
-
-> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-V.- El Tribunal de Justicia Administrativa del Estado de Yucatán, y
-
-> <small>(ADICIONADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-VI.- La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán.
-
-Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año. Asimismo, rendirán informe de su cuenta pública en los términos que señale la ley en la materia.
-
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
-
-### CAPÍTULO II. De la Comisión de Derechos Humanos del Estado de Yucatán
-
-> <small>(REFORMADO, D.O. 26 DE JULIO DE 2013)</small>
-
-### CAPITULO V. Del Ministerio Público
-
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
-
-### CAPITULO VI. De la Defensoría Pública
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
-
 ###### ARTICULO PRIMERO.
 
-Este Decreto entrará en vigor el día primero de febrero del año en curso.
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
+Los Notarios Públicos Vitalicios coleccionarán las escrituras privadas y, protocolizarán los Instrumentos que contengan: estipulaciones contractuales, certificaciones de hechos, reconocimiento de obligaciones o derechos, las constancias de manifestación de última voluntad que se hubiesen otorgado ante los jueces que actuaron por receptoría hasta la fecha en que entre en vigor este Decreto; las que deberán formalizarse en un plazo que no excederá de 60 días hábiles, si los interesados se encuentran domiciliados dentro de su respectiva circunscripción o, en 90 días si residen fuera de ella.
 
-D.O. 2 DE FEBRERO 1984.
+P.O. 12 DE AGOSTO DE 2009.
 
-UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-D.O. 11 DE MAYO DE 1984.
-
-UNICO.- Este decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 22 DE SEPTIEMBRE DE 1987.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 30 DE SEPTIEMBRE DE 1987.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor a partir del primer día hábil del mes siguiente al de su publicación en el Diario Oficial del Estado.
-
-D.O. 22 DE FEBRERO DE 1988.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 26 DE FEBRERO DE 1988.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 31 DE MARZO DE 1988.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de Gobierno del Estado.
-
-D.O. 10 DE AGOSTO DE 1988.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 9 DE SEPTIEMBRE DE 1988.
-
-PRIMERO.- Los Diputados que se elijan a la LII Legislatura del Congreso del Estado, durarán en funciones del primero de enero de 1991 hasta el cuatro de enero de 1994.
-
-SEGUNDO.- Este decreto entrará en vigor el primero de enero de 1989.
-
-D.O. 15 DE SEPTIEMBRE DE 1988.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 29 DE SEPTIEMBRE DE 1988.
-
-UNICO.- Este Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 21 DE DICIEMBRE DE 1988.
-
-UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 1 DE MARZO DE 1989.
-
-UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 19 DE DICIEMBRE DE 1989.
-
-PRIMERO.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
-
-SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 4 DE JULIO DE 1990.
-
-###### ARTICULO SEGUNDO
-
-- Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" del Estado.
-
-D.O. 6 DE FEBRERO DE 1920.
-
-###### ARTICULO PRIMERO.
-
-Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-
-###### ARTICULO SEGUNDO.
-
-En un plazo no mayor de sesenta días deberá expedirse la Ley Reglamentaria del precepto Constitucional reformado.
-
-###### ARTICULO SEGUNDO
-
-- Estas reformas entrarán en vigor al día siguiente de su publicación en el DIARIO OFICIAL del Estado.
-
-D.O. 26 DE FEBRERO DE 1920.
-
-Este Decreto comenzará a surtir sus efectos desde el día primero de marzo del año en curso.
-
-D.O. 2 DE JULIO DE 1920.
-
-Artículo Segundo.- Esta reforma entrará en vigor desde la fecha de su publicación en el DIARIO OFICIAL del Estado.
-
-D.O. 3 DE FEBRERO DE 1921.
-
-###### ARTICULO TERCERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial el Gobierno del Estado.
-
-D.O. 1 DE MARZO DE 1991.
-
-PRIMERO.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-
-SEGUNDO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 2 DE DICIEMBRE DE 1991.
-
-PRIMERO.- Por esta única vez, los Diputados que se elijan a la LIII Legislatura del Congreso del Estado durarán en funciones del cinco de enero de mil novecientos noventa y cuatro hasta el quince de enero de mil novecientos noventa y siete.
-
-SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 12 DE MARZO DE 1993.
-
-PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-SEGUNDO.- Por esta única ocasión y en tratándose de los procesos electorales correspondientes al presente año, los plazos y términos señalados en estas reformas constitucionales, que se hayan cumplido o vencido, se prorrogan para su aplicación a partir del próximo día 15 de abril.
-
-D.O. 24 DE ABRIL DE 1993.
-
-PRIMERO.- Para los efectos del artículo 20 de la Constitución del Estado, por única ocasión los representantes al Congreso del Estado que resulten electos en los comicios a celebrarse el día 28 de noviembre del año en curso, durarán en su encargo del 5 de enero de 1994 al 30 de junio de 1995.
-
-SEGUNDO.- Para los efectos del artículo 27 reformado de la Constitución del Estado, el Congreso que resulte de las elecciones a celebrarse en el mes de noviembre del presente año, tendrá durante su gestión, cinco periodos de sesiones ordinarias que comenzarán a partir del 16 de enero, del 16 de mayo y del 16 de octubre del año de 1994 y 16 de enero y 16 de mayo del año de 1995 y sin que los mismos puedan prolongarse más que hasta el 15 de marzo, el 15 de julio y el 20 de diciembre de 1994, 15 de marzo y 30 de junio de 1995, respectivamente.
-
-> <small>(REFORMADO, D.O. 19 DE MAYO DE 1993)</small>
-
-TERCERO.- En términos del presente Decreto de reformas a la Constitución Política del Estado de Yucatán, en los comicios a celebrarse el 28 de noviembre de 1993, se elegirá Gobernador, Ayuntamientos y Diputados al Congreso del Estado.
-
-> <small>(REFORMADO, D.O. 19 DE MAYO DE 1993)</small>
-
-CUARTO.- Por esta ocasión, para los efectos del artículo 48 reformado de la Constitución Política del Estado, el Gobernador que resultare electo en los comicios del 28 de noviembre de 1993, durará en su encargo del primero de febrero de 1994 al 31 de julio de 1995.
-
-> <small>(REFORMADO, D.O. 19 DE MAYO DE 1993)</small>
-
-QUINTO.- El Gobernador electo a que se refiere el artículo anterior, rendirá el Informe previsto en el Artículo 28 reformado de la Constitución Política del Estado, por única ocasión, el segundo domingo del mes de junio de 1995, debiendo comprender dicho Informe todo el tiempo de su gestión.
-
-SEXTO.- Los presidentes Municipales que resulten electos en los comicios a celebrarse el 28 de noviembre del presente año, duraran en sus funciones, del primero de enero de 1994, al 30 de junio de 1995, en concordancia con el supuesto de la fracción primera del artículo 76 de la Constitución del Estado.
-
-> <small>(REFORMADO, D.O. 19 DE MAYO DE 1993)</small>
-
-SEPTIMO.- Para el debido cumplimiento de las reformas a que este Decreto se refiere, los subsiguientes comicios para elegir Gobernador, Ayuntamientos y Diputados al Congreso del Estado, serán celebrados el cuarto domingo del mes de mayo de 1995.
-
-OCTAVO.- En su oportunidad, se adecuarán las leyes reglamentarias cuyas disposiciones contravengan lo previsto en el presente Decreto.
-
-NOVENO.- Las funciones de la LII Legislatura continuarán conforme a lo preceptuado en las formas y términos de las leyes vigentes.
-
-DECIMO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 19 DE MAYO DE 1993.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 379/2016 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE MINISTERIO PÚBLICO”.]
-
-Primero. Entrada en vigor
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado, con excepción de lo dispuesto en los párrafos cuarto, quinto y sexto del artículo 62, que entrarán en vigor el primero de octubre de 2018.
-
-Segundo. Armonización legislativa
-
-El Congreso del estado realizará las reformas necesarias para armonizar la legislación estatal a lo previsto en este decreto, en un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor.
-
-Tercero. Derogación tácita
-
-Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
-
-D.O. 20 DE ABRIL DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 380/2016 POR EL QUE SE QUE (SIC) MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ANTICORRUPCIÓN Y TRANSPARENCIA”.]
-
-Primero. Entrada en vigor
-
-Este decreto entrará en vigor en la fecha en que lo hagan las leyes generales a que se refieren las fracciones XXIV y XXIX-V del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, previa publicación en el diario oficial del estado, con excepción de lo dispuesto en el artículo 30, fracción XXXII; el artículo 55, fracción II bis; el artículo 73 ter, fracción II; la denominación del capítulo III del título séptimo; y los artículos 75, 97, 99 y 100 y los artículos transitorios del segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo, décimo primero y vigésimo tercero de este decreto, que entrarán en vigor el día siguiente al de su publicación en el referido medio de difusión oficial.
-
-Segundo. Obligación normativa en materia de transparencia
-
-El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, para armonizarla conforme a las disposiciones del Decreto por el que se reforman y adicionan Diversas Disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Transparencia y este decreto, a más tardar el 5 de mayo de 2016.
-
-Tercero. Legislación transitoria en materia de transparencia
-
-En tanto se expiden las modificaciones a la legislación aplicable el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, este ejercerá las atribuciones y competencias que las leyes vigentes otorgan al Instituto Estatal de Acceso a la Información Pública.
-
-Cuarto. Referencia
-
-En lo sucesivo, cuando en alguna norma se haga referencia al Instituto Estatal de Acceso a la Información Pública, se entenderá hecha al Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
-
-Quinto. Comisionados
-
-Con objeto de no afectar derechos adquiridos con anterioridad a este decreto, los consejeros del Instituto Estatal de Acceso a la Información Pública, que hasta antes de la entrada en vigor de este decreto se desempeñaban como tales, continuarán como comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales a partir de la entrada en vigor de este decreto y concluirán sus cargos en los términos del decreto de su nombramiento respectivo.
-
-Sexto. Presidencia
-
-Los comisionados deberán designar al comisionado presidente, en los términos del párrafo octavo del artículo 75 de la Constitución Política del Estado de Yucatán, en un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto.
-
-Séptimo. Consejo consultivo
-
-El Consejo Consultivo del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se integrará de conformidad con las disposiciones que se expidan para armonizar los contenidos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán a que se refiere el artículo transitorio segundo.
-
-Octavo. Trámite de asuntos
-
-Los acuerdos y convenios, así como los asuntos, expedientes y demás actos jurídicos, pendientes o en trámite, que se encuentren bajo cualquier concepto en el Instituto Estatal de Acceso a la Información Pública, se transferirán y quedarán a cargo del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
-
-Noveno. Derechos laborales
-
-Quedarán a salvo los derechos laborales de los servidores públicos y empleados del entonces Instituto Estatal de Acceso a la Información Pública, con motivo de la entrada en vigor de este decreto y las leyes que, en consecuencia, se emitan.
-
-Décimo. Transferencia de recursos
-
-Los recursos presupuestales, financieros, materiales y, en general, todos aquellos medios que permiten el cumplimiento de las atribuciones asignadas al Instituto Estatal de Acceso a la Información Pública se transferirán al Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
-
-Décimo primero. Exención
-
-El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales queda exento, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados con motivo de la regularización de sus bienes y servicios.
-
-Décimo segundo. Obligación normativa en materia de combate a la corrupción
-
-El Congreso del Estado de Yucatán deberá expedir las leyes y realizar las adecuaciones normativas correspondiente (sic), dentro de los ciento ochenta días siguientes a la entrada en vigor de las leyes generales a que se refieren las fracciones XXIV y XXIX-V del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-
-Décimo tercero. Legislación transitoria en materia de combate a la corrupción
-
-En tanto se expiden y reforman las leyes a que se refiere el artículo transitorio décimo segundo, continuará aplicándose la legislación en materia de responsabilidades administrativas de los servidores públicos, así como de fiscalización y control de recursos públicos, que se encuentre vigente a la fecha de entrada en vigor de este decreto.
-
-Décimo cuarto. Magistrados
-
-Con objeto de no afectar derechos adquiridos con anterioridad a este decreto, los magistrados del actual Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, continuarán como magistrados del organismo autónomo denominado Tribunal de Justicia Administrativa del Estado de Yucatán, exclusivamente por el tiempo que hayan sido nombrados.
-
-Décimo quinto. Transferencia de recursos
-
-Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, incluyendo todos sus bienes y los derechos derivados de los fondos o fideicomisos vigentes, pasarán a formar parte del Tribunal de Justicia Administrativa del Estado de Yucatán.
-
-Décimo sexto. Asuntos pendientes y en trámite
-
-Los acuerdos, convenios, así como los asuntos, expediente (sic), medios de impugnación y demás actos jurídicos pendientes y en trámite en materia fiscal y administrativa, que se encuentren bajo cualquier concepto en el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, se transferirán y quedarán a cargo del Tribunal de Justicia Administrativa del Estado de Yucatán.
-
-Décimo séptimo. Derechos laborales
-
-Los trabajadores de base que se encuentren prestando sus servicios en el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, a la entrada en vigor de este decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Tribunal de Justicia Administrativa del Estado de Yucatán, en los términos que dicha ley determine.
-
-Décimo octavo. Auditor Superior del Estado
-
-Con objeto de no afectar derechos adquiridos con anterioridad a este decreto, el Auditor Superior del Estado, continuará en su cargo en los términos del decreto de su nombramiento.
-
-Décimo noveno. Titular de la secretaría responsable del control interno del Poder Ejecutivo
-
-El Congreso deberá designar al titular de la secretaría responsable del control interno del Poder Ejecutivo, dentro del plazo de noventa días contado a partir de la entrada en vigor de este decreto.
-
-Vigésimo. Vicefiscal Especializado en Combate a la Corrupción
-
-El Congreso deberá designar al titular de la Vicefiscalía Especializada en Combate a la Corrupción, dentro del plazo de noventa días contado a partir de la entrada en vigor de este decreto.
-
-Vigésimo primero. Órganos internos de control
-
-Los titulares de los órganos internos de control de los organismos constitucionales autónomos que se encuentren en funciones continuarán en su encargo en los términos en los que fueron nombrados.
-
-El Congreso deberá designar a los titulares de los órganos internos de control de los organismos constitucionales autónomos que no cuenten con estos, dentro del plazo de noventa días contado a partir de la entrada en vigor de este decreto.
-
-Vigésimo segundo. Previsiones presupuestales
-
-El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
-
-Vigésimo tercero. Derogación tácita
-
-Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
-
-D.O. 27 DE DICIEMBRE DE 2016.
-
-###### ARTICULO PRIMERO.
-
-Se derogan las disposiciones que contravengan éste y el Decreto 570.
-
-###### ARTICULO SEGUNDO.
-
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 16 DE DICIEMBRE DE 1994.
-
-PRIMERO.- Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
-
-SEGUNDO.- Para la aplicación de las reformas al segundo párrafo del Artículo 21 de nuestra Carta Magna y por esta única ocasión el H. Congreso del Estado determinará el ámbito territorial de los distritos electorales dentro de los treinta días siguientes a la vigencia del presente decreto.
-
-D.O. 21 DE DICIEMBRE DE 1994.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-D.O. 31 DE MAYO DE 1995.
-
-UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-D.O. 12 DE DICIEMBRE DE 1997.
-
-DECRETO 122 QUE REFORMA LOS ARTÍCULOS 3 Y 30.
-
-Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-D.O. 12 DE DICIEMBRE DE 1997.
-
-DECRETO 123 QUE DEROGA LA FRACCIÓN XXXII DEL ARTÍCULO 30, Y EL ARTÍCULO 95.
-
-Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-D.O. 9 DE DICIEMBRE DE 2004.
-
-###### ARTICULO PRIMERO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
-
-D.O. 18 DE ABRIL DE 2005.
+P.O. 26 DE JULIO DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO SEGUNDO.
 
-Al entrar en vigor el presente Decreto, deberán impulsarse las reformas y adiciones a la Ley de Educación del Estado de Yucatán y demás disposiciones legales aplicables en esta materia.
-
-###### ARTICULO SEGUNDO.
-
-Esta reforma entrará en vigor el mismo día de su publicación en el Diario Oficial del Estado.
-
-D.O. 4 DE FEBRERO DE 1921.
-
-###### ARTICULO SEGUNDO
-
-Esta reforma entrará en vigor el mismo día de su publicación en el "Diario Oficial" del Estado.
-
-D.O. 24 DE FEBRERO DE 1921.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS.
-
-D.O. 30 DE MARZO DE 1921.
-
-Este decreto entrará en vigor al siguiente día de su publicación, y no afecta a los Alcaldes últimamente electos.
-
-D.O. 6 DE ABRIL DE 1921.
-
-Ese decreto surtirá sus efectos desde el mismo día de su publicación.
-
-D.O. 4 DE AGOSTO DE 1921.
-
-###### ARTICULO SEGUNDO
-
-Este decreto entrará en vigor el mismo día de su promulgación.
-
-D.O. 30 DE NOVIEMBRE DE 1921.
-
-###### ARTICULO SEGUNDO.
-
-Este Decreto surtirá sus efectos el mismo día de su promulgación.
-
-D.O. 27 DE SEPTIEMBRE DE 1922.
-
-Artículo Segundo.- Este Decreto comenzará a regir el mismo día de su publicación en el "Diario Oficial" del Estado.
-
-D.O. 3 DE DICIEMBRE DE 1923.
-
-###### ARTICULO SEGUNDO.
-
-Este decreto comenzará a surtir sus efectos legales desde la fecha de su publicación en el "Diario Oficial" del Estado.
-
-D.O. 27 DE SEPTIEMBRE DE 1924.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS.
-
-D.O. 2 DE OCTUBRE DE 1924.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS.
-
-D.O. 28 DE MAYO DE 1925.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS.
-
-D.O. 31 DE JULIO DE 1925.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS.
-
-D.O. 19 DE NOVIEMBRE DE 1925.
-
-Este decreto surtirá sus efectos el mismo día de su publicación en el "Diario Oficial" del Estado.
-
-D.O. 15 DE JUNIO DE 1927.
-
-Este Decreto comenzará a surtir sus efectos legales el mismo día de su publicación en el "Diario Oficial" del Estado.
-
-D.O. 18 DE MARZO DE 1930.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS.
-
-D.O. 28 DE JUNIO DE 1930.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS.
-
-D.O. 31 DE DICIEMBRE DE 1930.
-
-La reforma de los artículos 20 y 21 constitucionales, entrará en vigor al verificarse las elecciones para integrar la XXXII Legislatura del Estado y la de las demás disposiciones a que este decreto se refiere, el día primero de enero de 1931.
-
-D.O. 31 DE DICIEMBRE DE 1931.
-
-Este decreto entrará en vigor el día primero de enero del año de mil novecientos treinta y dos.
-
-D.O. 30 DE MARZO DE 1932.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS.
-
-D.O. 8 DE AGOSTO DE 1932.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS.
-
-D.O. 20 DE AGOSTO DE 1932.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS.
-
-D.O. 4 DE JULIO DE 1938.
-
-###### ARTICULO 1.
-
-Esta Constitución comenzará a regir el día quince del mes en curso en que será solemnemente promulgada.
-
-###### ARTICULO 2.
-
-Los Ayuntamientos que comenzaron sus funciones el primero de enero del año en curso, fungirán por todo el periodo para el cual fueron electos.
-
-###### ARTICULO 3.
-
-Los ciudadanos electos para desempeñar los puestos de Presidentes Municipales en las últimas elecciones generales, fungirán como Alcaldes, de acuerdo con esta Constitución y Leyes relativas.
-
-###### ARTICULO 4.
-
-Los ciudadanos electos para desempeñar los cargos de Síndicos de los Ayuntamientos, se considerarán como Concejales.
-
-###### ARTICULO 5.
-
-Los ciudadanos electos para desempeñar los cargos de Magistrados del Tribunal Superior de Justicia, en las últimas elecciones generales, fungirán por todo el periodo para el cual fueron electos.
-
-###### ARTICULO 6.
-
-Quedan derogadas todas las Leyes que de cualquier modo se opongan a la presente Constitución.
-
-D.O. 6 DE OCTUBRE DE 1943.
-
-Esta Ley comenzará a regir al día siguiente de su publicación en el "Diario Oficial" del Estado.
-
-D.O. 4 DE OCTUBRE DE 1944.
-
-Esta Ley comenzará a regir el día siguiente al de su publicación en el "Diario Oficial" del Gobierno del Estado.
-
-D.O. 2 DE OCTUBRE DE 1946.
-
-ARTICULO SEGUNNDO (SIC).- Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Oficial del Estado.
-
-D.O. 8 DE OCTUBRE DE 1947.
-
-Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 14 DE OCTUBRE DE 1947.
-
-Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 11 DE SEPTIEMBRE DE 1954.
-
-Esta Ley comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 22 DE ENERO DE 1955.
-
-Esta Ley comenzará a regir el día siguiente al de su publicación en el "Diario Oficial" del Estado.
-
-D.O. 31 DE DICIEMBRE DE 1960.
-
-###### ARTICULO SEGUNDO.
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 19 DE JULIO DE 1961.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 30 DE SEPTIEMBRE DE 1961.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN LOS ARTÍCULOS 1 Y 2 DEL CÓDIGO CIVIL VIGENTE EN EL ESTADO DE YUCATÁN.
-
-D.O. 21 DE NOVIEMBRE DE 1962.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN LOS ARTÍCULOS 1 Y 2 DEL CÓDIGO CIVIL VIGENTE EN EL ESTADO DE YUCATÁN.
-
-D.O. 24 DE MARZO DE 1964.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" del Gobierno del Estado.
-
-D.O. 20 DE AGOSTO DE 1964.
-
-UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado.
-
-D.O. 5 DE MARZO DE 1965.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 27 DE AGOSTO DE 1969.
-
-###### ARTICULO SEGUNDO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 28 DE ENERO DE 1970.
-
-###### ARTICULO SEGUNDO.
-
-Este Decreto entrará en vigor el día primero de febrero del año en curso.
-
-D.O. 19 DE ENERO DE 1971.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 25 DE ENERO DE 1971.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 18 DE ENERO DE 1973.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 5 DE SEPTIEMBRE DE 1973.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 24 DE SEPTIEMBRE DE 1974.
-
-UNICO.- El presente decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 30 DE SEPTIEMBRE DE 1974.
-
-UNICO.- El presente decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 23 DE DICIEMBRE DE 1974.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 7 DE MARZO DE 1975.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 26 DE MARZO DE 1975.
-
-UNICO.- Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 24 DE OCTUBRE DE 1975.
-
-PRIMERO.- Para los efectos del debido cumplimiento de las normas constitucionales que se modifican en este Decreto, los componentes actuales de este Congreso y de los Ayuntamientos del Estado, cesarán en el ejercicio de sus funciones, el día treinta y uno de diciembre del año en curso, como establecieron en su oportunidad las propias disposiciones.
-
-SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 27 DE ENERO DE 1976.
-
-UNICO.- Este Decreto entrará en vigor el día primero de febrero del año en curso.
-
-D.O. 5 DE ABRIL DE 1978.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 26 DE JUNIO DE 1978.
-
-UNICO.- Este Decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 18 DE JULIO DE 1978.
-
-UNICO.- El presente Decreto entrará en vigor el dia siguiente del de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 15 DE SEPTIEMBRE DE 1978.
-
-UNICO.- Este Decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 24 DE DICIEMBRE DE 1979.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 29 DE ENERO 1982.
+El Titular del Poder Ejecutivo del Estado dispondrá lo necesario para que, en un lapso de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, los notarios realicen los trámites respectivos ante la Secretaría de Gobierno, las direcciones del Notariado y Archivo General de Notarías y del Registro Público de la Propiedad e implementen el presente Decreto. Igualmente realizará los trámites administrativos y legales pertinentes para el debido control de la impresión, venta y cobro de folios, así como de su registro.
 
 ###### ARTÍCULO TERCERO.
 
-La educación preescolar será obligatoria en todo el territorio del Estado de Yucatán, a más tardar para el ciclo escolar 2008-2009, y habrá de universalizarse con calidad, la prestación de este servicio educativo, conforme a lo dispuesto en el Artículo Quinto Transitorio, del Decreto publicado en el Diario Oficial de la Federación en fecha 12 de noviembre de 2002.
+Durante el lapso de tiempo establecido en el artículo transitorio segundo del presente Decreto, una vez obtenidos los folios respectivos, cada Notario cerrará los libros de protocolo que se encuentren en uso como si hubieran sido completados.
 
-D.O. 26 DE MAYO DE 2005.
+P.O. 28 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 02 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2o, 3o, 15, 21, 23, 111, 112, 116, 128 y 140 DE LA LEY DEL NOTARIADO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Los notarios en funciones, a la entrada en vigor del presente Decreto, cuentan con dieciocho meses para certificarse.
+
+Artículo Tercero. El programa de certificación previsto en el artículo 3 de esta Ley, deberá ser presentado por el Consejo de Notarios a la Secretaría de Gobierno; una vez autorizado por la Secretaría de Gobierno, el Consejo de Notarios contará con cuarenta y cinco días naturales para implementarlo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 24 FRACCIÓN I; 76, 80 Y 131 FRACCIÓN II DE LA LEY DEL NOTARIADO DEL ESTADO DE MICHOACÁN”.]
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente al de su publicación, en el Diario Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO SEGUNDO.
 
-Todas aquellas disposiciones del presente Decreto, que requieran para su cumplimiento la regulación de la ley que organiza y reglamenta a los Ayuntamientos del Estado, entrarán en vigor una vez expedida y publicada (sic) las reformas a dicha ley, lo cual deberá realizarse antes del primero de enero de 2006.
-
-Las demás disposiciones legales que requieran ser adecuadas, deberán ser expedidas y publicadas en forma subsecuente.
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
 
 ###### ARTÍCULO TERCERO.
 
-Las fechas de presentación al Congreso, de las respectivas leyes de ingresos municipales, dispuesto (sic) en este Decreto, aplicarán a partir del Ejercicio Fiscal 2007.
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
 
 ###### ARTÍCULO CUARTO.
 
-Los Ayuntamientos no podrán celebrar los actos, convenios o empréstitos, que comprometan el patrimonio municipal, más allá del período de gestión y hasta en tanto, no se establezcan las modalidades reglamentarias que precisen su alcance.
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
 
-###### ARTÍCULO QUINTO.
+P.O. 12 DE SEPTIEMBRE DE 2018.
 
-Para los efectos de lo dispuesto por el párrafo segundo del Artículo 108 de esta Constitución, por esta única vez, los municipios no formarán parte del Constituyente Permanente, instituido en la presente reforma.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 649 POR EL QUE "SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3°, EL ARTÍCULO 15, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II, III Y VI DEL ARTÍCULO 21 Y LOS ARTÍCULOS 23 Y 128; Y, SE ADICIONAN LOS ARTÍCULOS 57 BIS, UNA FRACCIÓN VII AL ARTÍCULO 140 RECORRIÉNDOSE EN ORDEN LA SUBSECUENTE Y EL TÍTULO OCTAVO QUE CONTIENE LOS ARTÍCULOS 151 AL 164 TODOS DE LA LEY DEL NOTARIADO DEL ESTADO DE MICHOACÁN".]
 
-###### ARTÍCULO SEXTO.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-El Congreso atendiendo a lo dispuesto en los artículos primero y segundo transitorios, a través de la Gran Comisión, implementará mecanismos de difusión sobre los alcances de la presente reforma, entre los demás Poderes, las autoridades municipales, instituciones académicas, de profesionales y otras de la sociedad organizada; con el propósito de contar con dicho ordenamiento reglamentario en lo que queda del presente año.
-
-D.O. 9 DE SEPTIEMBRE DE 2005.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación, en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-El Presidente de la Comisión de Derechos Humanos y los integrantes de su Consejo Consultivo, continuarán desempeñándose como tales, durante el período para el que fueron designados. Pudiendo ser ratificados, en su caso, en los términos de Ley.
-
-D.O. 9 DE DICIEMBRE DE 2005.
-
-Artículo Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-D.O. 23 DE ENERO DE 2006.
-
-ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 24 DE MAYO DE 2006.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor al día siguiente al de su publicación, en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-Para conocimiento general de los habitantes de la entidad, publíquese el presente decreto, a su vez, en los diarios de mayor circulación en el Estado.
-
-###### ARTÍCULO TERCERO.
-
-Para efecto del ejercicio de la función estatal de organizar las elecciones, se crea el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán. En relación con el ejercicio de los derechos en materia de participación ciudadana y de la instrumentación de los mecanismos de éstos, se estará a lo dispuesto en la Ley de la materia, que en tiempo y forma expida este Congreso.
-
-###### ARTÍCULO CUARTO.
-
-A partir de la entrada en vigor del decreto que reforma la ley de la materia, el patrimonio del Instituto Electoral del Estado de Yucatán, lo será en su integridad del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán.
-
-###### ARTÍCULO QUINTO.
-
-A más tardar el 31 de agosto de 2006, deberán ser designados los consejeros electorales y sus suplentes, del Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en los términos de la ley de la materia.
-
-###### ARTÍCULO SEXTO.
-
-A partir de la entrada en vigor de este Decreto, queda sin efecto el decreto Número 555, publicado en el Diario Oficial del Gobierno del Estado el día 30 de noviembre de 2004, por el cual se designó a los consejeros ciudadanos, del Instituto Electoral del Estado de Yucatán.
-
-> <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
-
-###### ARTÍCULO SÉPTIMO.
-
-Los ciudadanos Gerardo Robigue Herrera Sansores, Mario Ruemer Jesús Leal Guillermo, Rossana Rivera Palmero, Pedro Regalado Uc Be, Sergio Lara Pinto, Landy Lissette Mendoza Fuentes, Carlos Eduardo Pech Escalante y Hernán Vega Burgos, quienes fungieron como consejeros ciudadanos y secretario técnico respectivamente; del Instituto Electoral del Estado, tendrán el carácter de depositarios del patrimonio del Instituto Electoral del Estado, limitando sus actos para lo estrictamente necesario para la conservación del mismo; tanto con el carácter de patrón, como su naturaleza de organismo público autónomo; desde el momento de la entrada en vigor del presente decreto y hasta que resulten legalmente designadas, las personas que fungirán como consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en los plazos y términos previstos, a quienes les entregarán tal patrimonio.
-
-Hasta ese entonces, los depositarios y responsables percibirán una remuneración equivalente, a la que anteriormente recibían en los cargos que ocupaban.
-
-###### ARTÍCULO OCTAVO.
-
-Cualquier referencia que en otras disposiciones jurídicas y administrativas se haga al Instituto Electoral del Estado, se entenderá hecha al Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán.
-
-###### ARTÍCULO NOVENO.
-
-Tratándose del ajuste en el calendario constitucional ordinario y el propio en materia electoral, por la celebración concurrente de las elecciones estatales y federales en el año 2012, el ejercicio constitucional del Gobernador del Estado de Yucatán, electo en los comicios realizados el tercer domingo del mes de mayo de 2007, iniciará sus funciones, el día 1 de agosto de 2007 y concluirá su mandato por única vez, el 30 de septiembre de 2012.
-
-La LVIII Legislatura iniciará sus funciones el 1 de julio de 2007 y concluirá el 30 de junio de 2010, la LIX Legislatura iniciará el 1 de julio de 2010 y concluirá el 31 de agosto de 2012.
-
-Los ayuntamientos a elegirse en el año 2007 iniciarán sus funciones el 1 de julio de ese mismo año y concluirá el 30 de junio de 2010; los ayuntamientos a elegirse en tercer domingo de mayo del año 2010, iniciarán sus funciones el 1 de julio de 2010 y concluirá el 31 de agosto de 2012.
-
-###### ARTÍCULO DECIMO.
-
-El Titular del Poder Ejecutivo del Estado en funciones, rendirá su quinto y sexto informe de Gobierno, conforme a los plazos y términos establecidos en la Constitución Política del Estado, hasta antes de la entrada en vigor de este Decreto.
-
-El Gobernador que resultare electo en el proceso electoral del año 2007, deberá rendir sus informes de Gobierno, el tercer domingo de octubre, en los primeros 4 años de su gestión constitucional, y el primer domingo de septiembre, en el quinto año de su mandato.
-
-###### ARTÍCULO DÉCIMO PRIMERO.
-
-Los Periodos Ordinarios de Sesiones, del Tercer Año de Ejercicio Constitucional, de la LVII Legislatura del Congreso del Estado; así como los recesos en los que entre en funciones la Diputación Permanente, serán los establecidos en la Constitución Política del Estado, hasta antes de la entrada en vigor de este Decreto.
-
-###### ARTÍCULO DÉCIMO SEGUNDO.
-
-Para los efectos del ajuste en el calendario constitucional ordinario y el propio en materia electoral, por la celebración concurrente de las elecciones estatales y federales en el año 2012; la LVIII Legislatura del Congreso del Estado tendrá los siguientes periodos:
-
-Primer Período Ordinario Del 1 de julio al 31
-
-de Sesiones del Primer año de agosto del 2007
-
-de Ejercicio Constitucional
-
-Segundo Período Ordinario Del 16 de octubre al
-
-de Sesiones del Primer año 15 de diciembre de 2007
-
-de Ejercicio Constitucional
-
-Tercer Período Ordinario Del 16 de enero al
-
-de Sesiones del Primer año 15 de abril de 2008
-
-de Ejercicio Constitucional
-
-Primer Período Ordinario Del 16 de mayo al
-
-de Sesiones del Segundo 15 de julio de 2008
-
-año de Ejercicio Constitucional
-
-Segundo Período Ordinario Del 1 de septiembre al
-
-de Sesiones del Segundo año 15 de diciembre de 2008
-
-de Ejercicio Constitucional
-
-Tercer Período Ordinario Del 16 de enero al
-
-de Sesiones del Segundo 15 de abril de 2009
-
-año de Ejercicio Constitucional
-
-Primer Período Ordinario Del 16 de mayo al
-
-de Sesiones del Tercer año 15 de julio de 2009
-
-de Ejercicio Constitucional
-
-Segundo Período Ordinario Del 1 de septiembre
-
-de Sesiones del Tercer año al 15 de diciembre de 2009
-
-de Ejercicio Constitucional
-
-Tercer Período Ordinario Del 16 de enero al
-
-de Sesiones del Tercer año 15 de abril de 2010
-
-de Ejercicio Constitucional
-
-La LIX Legislatura tendrá los siguientes periodos:
-
-Primer Período Ordinario Del 1 de julio al 31
-
-de Sesiones de agosto del 2010
-
-Segundo Período Ordinario Del 16 de octubre al
-
-de Sesiones 15 de diciembre de 2010
-
-Tercer Período Ordinario Del 16 de enero al 15
-
-de Sesiones de abril de 2011
-
-Cuarto Período Ordinario Del 16 de mayo al 15
-
-de Sesiones de julio de 2011
-
-Quinto Período Ordinario Del 1 de septiembre al
-
-de Sesiones 15 de diciembre de 2011
-
-Sexto Período Ordinario Del 16 de enero al 15
-
-de Sesiones de abril de 2012
-
-Séptimo Período Ordinario Del 16 de mayo al 15
-
-de Sesiones de julio de 2012
-
-> <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
-
-Durante los recesos de la LVIII y LIX Legislaturas, funcionará una Diputación Permanente. El último período de cada una de la Legislaturas referidas, podrá ampliarlo hasta el día de conclusión de su ejercicio constitucional.
-
-Los períodos ordinarios de sesiones a partir de la LX Legislatura, deberán ajustarse al calendario establecido en el artículo 27 de la Constitución Política del Estado de Yucatán.
-
-###### ARTÍCULO DÉCIMO TERCERO.
-
-Los plazos y los términos modificados en materia hacendaria y presupuestal, entrarán en vigor a partir del ejercicio constitucional 2007-2012.
-
-###### ARTÍCULO DÉCIMO CUARTO.
-
-Se deroga el ARTÍCULO SEXTO, del Decreto 41, publicado el 10 de agosto de 1988, en el Diario Oficial del Gobierno del Estado de Yucatán, por el que se crea la Medalla de Honor "HECTOR VICTORIA AGUILAR del H. Congreso del estado de Yucatán".
-
-Así mismo, las medallas y los diplomas respectivos, serán impuestos y otorgados en la sesión solemne que acuerde el Congreso del Estado, para conmemorar la expedición de la Constitución Política del Estado.
-
-###### ARTÍCULO DÉCIMO QUINTO.
-
-Tratándose de las disposiciones relativas al sufragio de los yucatecos residentes en el extranjero, se aplicarán hasta en tanto las condiciones logísticas y presupuestales lo permitan, en función de lo que acuerde y convenga el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán con el Instituto Federal Electoral; lo cual no podrá materializarse, antes de las elecciones a celebrarse en el año de 2012.
-
-D.O. 31 DE AGOSTO DE 2006.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 1 DE OCTUBRE DE 2006.
-
-Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-Artículo Segundo.- Se derogan las disposiciones legales que se opongan a este decreto.
-
-Artículo Tercero.- En tanto se crean los órganos especializados y se efectúan los correspondientes nombramientos señalados en el presente decreto, la administración de los procesos jurisdiccionales y procedimientos alternativos y administrativos, estarán a cargo del actual Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores. Dichos actos deberán realizarse a más tardar en un año a partir de la entrada en vigor del presente Decreto.
-
-Artículo Cuarto.- A partir de la entrada en vigor de este Decreto, el Poder Ejecutivo adecuará el presupuesto destinado para el funcionamiento del Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores y en su caso acordará con el Poder Judicial lo conducente en las previsiones que éste tuviere que efectuar en cumplimiento de este decreto.
-
-Artículo Quinto.- Los Poderes Ejecutivo y Judicial harán las previsiones en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2007, con el fin de atender el funcionamiento inicial del Sistema Integral de Justicia para Adolescentes.
-
-Artículo Sexto.- Con respecto a la Subprocuraduría de Justicia para Adolescentes, el Centro de Aplicación de Medidas, la Unidad en Supervisión de Medidas, el Área para la atención de los adolescentes de la Defensoría Legal, todos órganos Especializados del Poder Ejecutivo, deberán ser creados en el mismo plazo de la entrada en vigor de la Ley de la materia.
-
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
-
-Artículo Séptimo.- El Congreso del Estado, nombrará a los Magistrados de la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado, a más tardar el 5 de junio del año 2007.
-
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
-
-Artículo Octavo.- Los Jueces Especializados en Justicia para Adolescentes, deberán ser designados por el Pleno del Tribunal de Justicia del Estado, a más tardar el 10 de junio de 2007.
-
-Artículo Noveno.- Los Poderes Ejecutivo y Judicial, de común acuerdo, mediante convenio de colaboración establecerán las bases para el diseño y ejecución de los programas de capacitación dirigidos a los funcionarios y servidores públicos que conformarán el Sistema Integral de Justicia para Adolescentes, en un plazo de treinta días a partir de la entrada en vigor del presente decreto.
-
-Artículo Décimo.- La Procuraduría General de Justicia del Estado por medio de la Agencia Especializada para la Atención de Adolescentes, y las demás que el Titular de aquella cree conforme a las atribuciones que le otorga la respectiva ley orgánica y la disponibilidad presupuestal, participará en el Sistema Integral de Justicia para Adolescentes.
-
-Artículo Décimo Primero.- Para efecto de garantizar el acceso a la justicia, la aplicación y vigilancia de las medidas que se impongan a los Adolescentes, la Secretaría General de Gobierno hará todo lo conducente con el fin de que la Dirección de la Defensoría Legal del Estado, la Escuela de Educación Social para Menores Infractores y la Dirección de Prevención y Readaptación Social se ajusten a las necesidades del nuevo Sistema.
-
-Artículo Décimo Segundo.- Las reformas y adiciones a la Ley Orgánica del Poder Judicial en lo referente a la creación del Centro Coordinador de Actuarios y a las distintas Oficialías de Partes del Poder Judicial entrarán en vigor cuando el pleno del Tribunal Superior de Justicia expida los acuerdos generales correspondientes y cuente con la disponibilidad presupuestal necesaria.
-
-Artículo Décimo Tercero.- Las reformas y adiciones de la Ley Orgánica del Poder Judicial que se refieren a los departamentos judiciales y los juzgados existentes, en relación con sus jurisdicciones territoriales, cabeceras, sedes y competencias, entrarán en vigor hasta que el Pleno del Tribunal Superior de Justicia del Estado de Yucatán emita y entren en vigor los acuerdos generales correspondientes, para lo cual contará con un plazo no mayor a ciento veinte días posteriores a la fecha de esta publicación.
-
-D.O. 30 DE MARZO DE 2007.
-
-###### ARTÍCULO ÚNICO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-D.O. 11 DE ABRIL DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan las disposiciones que se opongan a lo establecido en este Decreto.
-
-###### ARTÍCULO TERCERO.
-
-Las reformas y adiciones a las leyes relativas deberán realizarse dentro del plazo de un año, contado a partir de la entrada en vigor del presente Decreto.
-
-###### ARTÍCULO CUARTO.
-
-La ley reglamentaria en materia de Derechos y Cultura Maya deberá emitirse dentro del plazo de un año, contado a partir de la entrada en vigor del presente Decreto.
-
-###### ARTÍCULO QUINTO.
-
-El organismo público, que definirá, ejecutará y evaluará las políticas de atención al pueblo maya, deberá crearse dentro del plazo de seis meses, contados a partir de la entrada en vigor del presente Decreto.
-
-D.O. 11 DE MAYO DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-En un plazo no mayor a 60 días de la entrada en vigor de este Decreto, se deberá revisar y en su caso reformar la Ley de Fomento a la Ciencia y la Tecnología del Estado de Yucatán.
-
-D.O. 15 DE DICIEMBRE DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan las disposiciones que se opongan a lo establecido en este Decreto.
-
-###### ARTÍCULO TERCERO.
-
-Dentro de un plazo que no exceda de seis meses a la entrada en vigor de este Decreto, se expedirá la ley en materia de protección a los derechos de la infancia, en la que se contemplará la creación del organismo especializado referido en este Decreto; para lo cual se escuchará a la opinión ciudadana especializada en la materia.
-
-D.O. 18 DE AGOSTO DE 2008.
-
-###### ARTÍCULO ÚNICO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-D.O. 3 DE JULIO DE 2009.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-El Congreso del Estado de Yucatán deberá realizar las adecuaciones que correspondan en las leyes respectivas, en un plazo no mayor a los ciento ochenta días naturales contados a partir de que entre en vigor este Decreto.
-
-###### ARTÍCULO TERCERO.
-
-Subsisten todos los plazos y términos relativos al proceso electoral que contempla el Código Electoral del Estado de Yucatán abrogado, contenido en el decreto 58 publicado en el Diario Oficial del Gobierno del Estado de fecha 16 de diciembre de 1994; únicamente para organizar los comicios locales que se llevarán a cabo en el año 2010.
-
-###### ARTÍCULO CUARTO.
-
-Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
-
-D.O. 24 DE JULIO DE 2009.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 7 DE AGOSTO DE 2009.
-
-###### ARTÍCULO ÚNICO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-D.O. 19 DE MARZO DE 2010.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor a los 30 días siguientes a los de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-El Congreso del Estado deberá emitir la convocatoria para elegir al Auditor Superior del Estado, dentro de los 90 días naturales siguientes contados a partir de la publicación de este Decreto.
-
-En tanto el Congreso del Estado designa al Auditor Superior del Estado, ocupará el cargo en calidad de encargado del despacho, el Contador Mayor de Hacienda del Estado de Yucatán en funciones.
-
-###### ARTÍCULO TERCERO.
-
-La legislación secundaria en materias de fiscalización, presupuestación, contabilidad gubernamental y evaluación, a las que se refiere esta reforma Constitucional, deberá promulgarse dentro de los noventa días naturales siguientes contados a partir de la publicación de este Decreto.
-
-###### ARTÍCULO CUARTO.
-
-Una vez que entre en funciones la Auditoría Superior del Estado, todos los recursos humanos, materiales y patrimoniales de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicho Órgano.
-
-###### ARTÍCULO QUINTO.
-
-Los servidores públicos y empleados de la Contaduría Mayor de Hacienda no podrán ser afectados en sus derechos y prestaciones laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
-
-###### ARTÍCULO SEXTO.
-
-Para efectos de la creación del Órgano de Evaluación previsto en el párrafo segundo del artículo 107, de este Decreto, el Congreso del Estado deberá expedir la Legislación correspondiente.
-
-###### ARTÍCULO SÉPTIMO.
-
-Se derogan todas las disposiciones legales que se contrapongan a lo dispuesto por este Decreto.
-
-###### ARTÍCULO OCTAVO.
-
-Remítase el presente proyecto de Decreto a los Ayuntamientos del Estado, para efectos de lo establecido en el artículo 108 de la Constitución Política del Estado de Yucatán.
-
-###### ARTÍCULO NOVENO.
-
-Los Ayuntamientos contarán con noventa días naturales, contados a partir del día siguiente a aquel en que reciban el presente Decreto, para remitir al Congreso del Estado, el acuerdo de Cabildo que señale la conformidad o inconformidad con el mismo.
-
-###### ARTÍCULO DÉCIMO.
-
-La Oficialía Mayor del Congreso del Estado remitirá este Decreto a los Ayuntamientos del Estado, a partir de su aprobación por el Pleno del Congreso, y deberá informar al Presidente del Congreso o de la Diputación Permanente, para efectos del cómputo correspondiente.
-
-D.O. 17 DE MAYO DE 2010.
-
-###### ARTÍCULO PRIMERO.
-
-Las disposiciones de este Decreto entrarán en vigor el día primero de marzo del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado.
-
-Los Artículos Transitorios TERCERO, QUINTO, SEXTO, DÉCIMO CUARTO Y DÉCIMO OCTAVO, de este Decreto, entrarán en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-El H. Congreso del Estado de Yucatán deberá aprobar y reformar, a más tardar el día 31 de mayo del año 2011, las leyes que sean necesarias para la aplicación de las disposiciones establecidas en este Decreto.
-
-###### ARTÍCULO TERCERO.
-
-A partir de la publicación de este Decreto en el Diario Oficial del Gobierno del Estado de Yucatán y hasta el día 15 de diciembre del año 2010, los poderes Ejecutivo y Judicial del Estado de Yucatán deberán realizar todas las acciones necesarias para adecuar el marco normativo interno correspondiente a las disposiciones previstas en el mismo.
-
-###### ARTÍCULO CUARTO.
-
-El Tribunal Electoral del Estado, el Tribunal Contencioso Administrativo y el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, deberán llevar a cabo todos los trámites legales y administrativos que se requieran para su plena integración al Poder Judicial del Estado, a más tardar el día 31 de marzo del año 2011, en los términos establecidos en este Decreto y en la ley.
-
-###### ARTÍCULO QUINTO.
-
-A partir de la publicación de este Decreto en el Diario Oficial del Gobierno del Estado de Yucatán, el H. Congreso del Estado de Yucatán, deberá aprobar a más tardar el 31 de octubre del año 2010, la Ley Orgánica del Poder Judicial del Estado, la ley relativa a la Fiscalía General del Estado y la ley que crea el Instituto de la Defensoría Pública del Estado de Yucatán, para que entren en vigor de manera simultánea con las reformas previstas en este Decreto.
-
-Los Poderes del Estado, deberán considerar la presupuestación que sea necesaria para el cumplimiento de estos ordenamientos para el ejercicio fiscal del año 2011.
-
-###### ARTÍCULO SEXTO.
-
-Para el cumplimiento del artículo 64 de este Decreto, el Congreso del Estado deberá incrementar gradualmente el Presupuesto del Poder Judicial del Estado, de los ejercicios fiscales 2011, 2012 y 2013, hasta alcanzar el porcentaje mínimo establecido.
-
-###### ARTÍCULO SÉPTIMO.
-
-Con objeto de no afectar derechos adquiridos con anterioridad al presente Decreto, los Magistrados del Tribunal Superior de Justicia del Estado, que estén actualmente en funciones en su primer período, podrán ser ratificados de conformidad a lo previsto en la legislación vigente al momento de su designación, y si lo fueren, por única ocasión, el segundo período será por 11 años más, en términos del artículo 64 del presente Decreto.
-
-###### ARTÍCULO OCTAVO.
-
-Con objeto de no afectar derechos adquiridos con anterioridad al presente Decreto, los actuales Magistrados del Tribunal Electoral del Estado que finalizan su encargo el 30 de marzo de 2012, concluirán sus funciones en esa fecha, sin perjuicio de las disposiciones que se emitan en la legislación secundaria en cumplimiento de la entrada en vigor de este Decreto y con la denominación de Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, a partir del primero de marzo 2011.
-
-El Magistrado del Tribunal de lo Contencioso Administrativo del Estado, se integrará como Magistrado del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, a partir del primero de marzo 2011.
-
-###### ARTÍCULO NOVENO.
-
-Con objeto de no afectar derechos adquiridos con anterioridad al presente Decreto, los Magistrados del Tribunal Electoral del Estado que fueron ratificados o designados por el Congreso del Estado en el mes de marzo del año 2010, concluirán su encargo el 30 de marzo del año 2016, sin perjuicio de las disposiciones que se emitan en la legislación secundaria en cumplimiento de la entrada en vigor de este Decreto y con la denominación de Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, a partir del primero de marzo del año 2011.
-
-Los Magistrados del Tribunal Electoral del Estado que fueron ratificados en el mes de marzo del año 2010, no podrán participar en el procedimiento de ratificación o designación de Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado en el año 2016.
-
-Los Magistrados del Tribunal Electoral del Estado que estuvieren cumpliendo su primer período en el cargo, al concluir éste, podrán ser ratificados por un período más, hasta cumplir el tiempo máximo previsto en el artículo 64 de este Decreto.
-
-###### ARTÍCULO DÉCIMO.
-
-Por única ocasión, y con la finalidad de respetar y garantizar los derechos de los Magistrados Electorales que se encuentren en el ejercicio del cargo al entrar en vigor este Decreto, el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, a partir del primero de marzo de 2011 y hasta el 30 de marzo de 2012, se integrará con 6 Magistrados. Durante este período transitorio, el Presidente de este Tribunal, tendrá voto de calidad.
-
-###### ARTÍCULO DÉCIMO PRIMERO.
-
-Los Magistrados del Poder Judicial, que a la entrada en vigor de este Decreto, hayan cumplido los 15 años a los que se refiere el artículo 64 de este Decreto, o bien, 30 años al servicio del Estado, tendrán derecho al haber de retiro establecido en dicho artículo.
-
-###### ARTÍCULO DÉCIMO SEGUNDO.
-
-A partir de la entrada en vigor de este decreto y hasta la conclusión del actual período del titular del Ejecutivo del Estado, corresponderá al Gobernador del Estado nombrar al Fiscal General del Estado.
-
-###### ARTÍCULO DÉCIMO TERCERO.
-
-El Titular del Poder Ejecutivo que entre en funciones para el período de gobierno 2012-2018, contará con diez días, a partir del inicio de su encargo, para nombrar al Fiscal General del Estado, y hacer del conocimiento del Congreso del Estado dicho nombramiento, para dar inicio al proceso de ratificación previsto en esta Constitución.
-
-Hasta en tanto entre en funciones el Fiscal General del Estado que se nombre en el año 2012, conforme a lo dispuesto en este artículo transitorio, continuará en el cargo el Fiscal General que estuviere en funciones en ese momento.
-
-###### ARTÍCULO DÉCIMO CUARTO.
-
-A partir de la publicación de este Decreto, los Poderes Legislativo, Ejecutivo y Judicial del Estado, deberán designar a los Consejeros de la Judicatura que les corresponda, en un plazo no mayor al 30 de junio del año 2010, mismos que iniciarán sus funciones el 1 de agosto del 2010.
-
-Para tal efecto y con objeto de cumplir con lo establecido en el séptimo párrafo del artículo 72 de este Decreto, el Poder Legislativo nombrará al Consejero que le corresponde por un período de 3 años; el Poder Ejecutivo, por 2 años; el Poder Judicial, por 4 años a cada Consejero que le corresponde. Estos funcionarios podrán ser ratificados en términos del artículo 72 de este Decreto.
-
-###### ARTÍCULO DÉCIMO QUINTO.
-
-Remítase el presente proyecto de Decreto a los Ayuntamientos del Estado, para efectos de lo establecido en el artículo 108 de la Constitución Política del Estado de Yucatán.
-
-###### ARTÍCULO DÉCIMO SEXTO.
-
-La legislación secundaria, necesaria para el adecuado funcionamiento del nuevo sistema penal acusatorio y oral, previsto en los artículos 2, 62, 63, 64, 73, 85 bis, 86 y 87 de este Decreto, deberá estar aprobada y publicada a más tardar el 31 de mayo de 2011.
-
-###### ARTÍCULO DÉCIMO SÉPTIMO.
-
-El Magistrado que sea designado Presidente del Tribunal Superior de Justicia en el mes de diciembre del año 2010, concluirá su encargo en 4 años, conforme al artículo 64 de este Decreto.
-
-###### ARTÍCULO DÉCIMO OCTAVO.
-
-Las disposiciones previstas en este Decreto, relativas al Consejo de la Judicatura del Poder Judicial, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-El Presupuesto de Egresos del Poder Judicial del Estado para el ejercicio fiscal 2011 será elaborado por el Consejo de la Judicatura y remitido al Poder Ejecutivo a más tardar el 15 de octubre de 2010, para efecto de incorporarlo al Proyecto de Presupuesto de Egresos del Estado de dicho ejercicio fiscal.
-
-En la elaboración del Presupuesto, el Consejo de la Judicatura considerará la pertinencia de realizar las adecuaciones estructurales, administrativas, normativas y económicas, así como de recursos materiales y humanos, necesarias para la implementación paulatina del nuevo sistema penal.
-
-###### ARTÍCULO DECIMO NOVENO.
-
-La legislación secundaria que regule al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios del Poder Judicial, establecerá lo relativo a la extinción del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado y las condiciones y mecanismos para la transferencia del personal del Poder Ejecutivo al Poder Judicial.
-
-###### ARTÍCULO VIGÉSIMO.
-
-Los Magistrados de la Sala Especializada en Justicia para Adolescentes, integrarán Pleno del Tribunal Superior de Justicia en términos del artículo 64 de este Decreto.
-
-###### ARTÍCULO VIGÉSIMO PRIMERO.
-
-Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
-
-D.O. 4 DE OCTUBRE DE 2010.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor a los 60 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-Se abroga la Ley Orgánica del Poder Legislativo del Estado de Yucatán, contenida en el Decreto número 6, publicada en el Diario Oficial del Gobierno del Estado el 24 de febrero del año 1988.
-
-###### ARTÍCULO TERCERO.
-
-Cualquier referencia que en otras disposiciones jurídicas y administrativas se realicen de las siguientes denominaciones, se entenderán como:
-
-I.- Gran Comisión: Junta de Gobierno y Coordinación Política.
-
-II.- Comisión Permanente de Hacienda Pública, Inspección de la Contaduría Mayor de Hacienda y Patrimonio Estatal y Municipal en relación a Cuenta Pública: Vigilancia de la Cuenta Pública y Transparencia.
-
-III.- Oficialía Mayor del Congreso: Secretaría General del Poder Legislativo.
-
-IV.- Tesorería del Congreso: Dirección General de Administración y Finanzas.
-
-###### ARTÍCULO CUARTO.
-
-La LIX Legislatura concluirá el 31 de agosto de 2012, según lo dispuesto en el artículo noveno transitorio del Decreto número 677 por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO QUINTO.
-
-De conformidad con lo dispuesto en el artículo décimo segundo transitorio del Decreto número 677, por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán, y para los efectos del ajuste en el calendario constitucional ordinario y el propio en materia electoral, por la celebración concurrente de las elecciones estatales y federales en el año 2012; la LIX Legislatura del H. Congreso del Estado tendrá los siguientes períodos:
-
-Primer Período Ordinario de Sesiones Del 1 de julio al 31 de agosto del
-
-2010
-
-Segundo Período Ordinario de Sesiones Del 16 de octubre al 15 de
-
-diciembre de 2010
-
-Tercer Período Ordinario de Sesiones Del 16 de enero al 15 de abril de
-
-2011
-
-Cuarto Período Ordinario de Sesiones Del 16 de mayo al 15 de julio de
-
-2011
-
-Quinto Período Ordinario de Sesiones Del 1 de septiembre al 15 de
-
-diciembre de 2011
-
-Sexto Período Ordinario de Sesiones Del 16 de enero al 15 de abril de
-
-2012
-
-Séptimo Período Ordinario de Sesiones Del 16 de mayo al 15 de julio de
-
-2012
-
-Durante los recesos de la LIX Legislatura, funcionará una Diputación Permanente.
-
-Los períodos ordinarios de sesiones a partir de la LX Legislatura, deberán ajustarse al calendario establecido en el artículo 27 de la Constitución Política del Estado de Yucatán.
-
-###### ARTÍCULO SEXTO.
-
-La Junta de Gobierno y Coordinación Política de la LIX Legislatura se integrará de la forma siguiente:
-
-PRESIDENTE: DIP. MAURICIO SAHUÍ RIVERO.
-
-SECRETARIO: DIP. ALICIA MAGALLY DEL SOCORRO CRUZ NUCAMENDI.
-
-VOCAL: DIP. CARLOS DAVID RAMÍREZ Y SÁNCHEZ.
-
-VOCAL: DIP. EDILBERTO RODRÍGUEZ LÓPEZ.
-
-El Presidente deberá convocar a la instalación de la Junta de Gobierno y Coordinación Política dentro de los 10 días siguientes a la entrada en vigor de esta Ley.
-
-###### ARTÍCULO SÉPTIMO.
-
-La Junta de Gobierno y Coordinación Política de la LIX Legislatura, deberá proponer al Pleno del H. Congreso del Estado, en un plazo no mayor a 15 días hábiles a partir de la entrada en vigor de esta Ley, la integración de las Comisiones Permanentes que establece esta Ley.
-
-Las comisiones permanentes que estén funcionando a la entrada en vigor de esta Ley, continuarán ejerciendo sus atribuciones hasta que sean integradas por el Pleno las que establece esta Ley.
-
-Las comisiones especiales creadas en la LIX Legislatura, durarán todo el ejercicio constitucional de ésta.
-
-###### ARTÍCULO OCTAVO.
-
-La Mesa Directiva en funciones que se encuentre al momento de entrar en vigor esta Ley, continuará hasta concluir el período ordinario o Diputación Permanente correspondiente.
-
-El Presidente de la Mesa Directiva por única ocasión, realizará el turno de las iniciativas y asuntos legislativos pendientes a las Comisiones Permanentes creadas por esta Ley, de manera directa, por escrito y en base a las atribuciones de cada Comisión.
-
-###### ARTÍCULO NOVENO.
-
-El Congreso expedirá la reglamentación correspondiente dentro de los 180 días siguientes a la entrada en vigor de la presente Ley.
-
-###### ARTÍCULO DÉCIMO.
-
-En tanto se expide la reglamentación que establece esta Ley, se aplicarán las disposiciones de la Ley Orgánica del Poder Legislativo del Estado de Yucatán abrogada, para efecto de todo lo relativo a trámites, procedimientos, votaciones y demás asuntos legislativos que no se oponga a lo establecido por esta Ley.
-
-###### ARTÍCULO DÉCIMO PRIMERO.
-
-Al entrar en vigor esta Ley, el Oficial Mayor y Tesorero del Congreso en funciones, pasarán a ser el Secretario General del Poder Legislativo y Director General de Administración y Finanzas, respectivamente sin necesidad de nombramiento alguno por parte del Congreso.
-
-De igual forma subsisten los nombramientos del Auditor Superior del Estado y del Director del Instituto de Investigaciones Legislativas.
-
-El Director de Evaluación del Presupuesto será nombrado en el plazo que establezca la Ley que regule su funcionamiento.
-
-###### ARTÍCULO DÉCIMO SEGUNDO.
-
-En tanto se expida Ley reglamentaria de la fracción XL, del artículo 30 y la Ley reglamentaria del Título Décimo a que se refiere el artículo 98 de la Constitución Política del Estado de Yucatán, permanecerán vigentes los Títulos Octavo y Noveno de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha 24 de febrero de 1988, mediante Decreto Número 6, misma que se abroga mediante esta Ley.
-
-D.O. 6 DE DICIEMBRE DE 2010.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Quedan derogadas todas aquéllas disposiciones legales que se opongan al presente Decreto.
-
-###### ARTÍCULO TERCERO.
-
-Las reformas y adiciones a las leyes relativas deberán realizarse dentro del plazo de 180 días, contados a partir de la entrada en vigor de este Decreto.
-
-###### ARTÍCULO CUARTO.
-
-Remítase el presente proyecto de Decreto a los ayuntamientos del Estado, para efectos de lo establecido en el artículo 108 de la Constitución Política del Estado de Yucatán.
-
-###### ARTÍCULO QUINTO.
-
-Los ayuntamientos contarán con 90 días, contados a partir del día siguiente a aquél en que reciban el presente Decreto, para remitir al Congreso del Estado, el acuerdo de Cabildo que señale la conformidad o inconformidad con el mismo.
-
-###### ARTÍCULO SEXTO.
-
-La Oficialía Mayor del Congreso del Estado remitirá este Decreto a los ayuntamientos del Estado, a partir de su aprobación por el Pleno del Congreso, y deberá informar al Presidente del Congreso o de la Diputación Permanente, para efectos del cómputo correspondiente.
-
-D.O. 5 DE ENERO DE 2012.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor el 1 de enero del año 2012, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
-
-D.O. 31 DE AGOSTO DE 2012.
-
-###### ARTÍCULO ÚNICO.
-
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-D.O. 26 DE JULIO DE 2013.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-El H. Congreso del Estado de Yucatán, deberá realizar las reformas correspondientes a la Ley de la Comisión de Derechos Humanos del Estado de Yucatán para armonizarla al contenido del artículo 102 Apartado B de la Constitución Política de los Estados Unidos Mexicanos y 74 de este Decreto.
-
-###### ARTÍCULO TERCERO.
-
-El Presidente de la Comisión de Derechos Humanos del Estado de Yucatán, que al entrar en vigor este Decreto se encuentre en funciones cumpliendo su segundo período, por única vez durará en el cargo hasta el día seis de julio del año 2015.
-
-###### ARTÍCULO CUARTO.
-
-Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
-
-D.O. 26 DE SEPTIEMBRE DE 2013.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este Decreto.
-
-D.O. 1 DE ABRIL DE 2014.
-
-###### ARTÍCULO PRIMERO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-###### ARTÍCULO SEGUNDO.
-
-El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán, dentro de los ciento ochenta días siguientes contados a partir de la entrada en vigor de este decreto.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este Decreto.
-
-D.O. 20 DE JUNIO DE 2014.
-
-DECRETO 195/2014, POR EL QUE SE MODIFICAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN EN MATERIA ELECTORAL.
-
-Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Artículo segundo. El Congreso del Estado deberá expedir las leyes y reformas a la legislación estatal con motivo de la entrada en vigor de este Decreto, a más tardar el 30 de junio del año en curso.
-
-Artículo tercero. La reelección de diputados del Congreso local no será aplicable para aquellos que se encuentren en funciones a la entrada en vigor de este decreto.
-
-Artículo cuarto. La reelección de presidentes municipales, regidores y síndicos no será aplicable a los integrantes que hayan protestado el cargo en el ayuntamiento que se encuentre en funciones a la entrada en vigor de este decreto.
-
-Artículo quinto. Los actuales consejeros electorales del Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, continuarán en su encargo hasta en tanto se realicen las designaciones de los nuevos consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán, en términos de lo dispuesto por el artículo transitorio noveno del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político electoral, publicado el 10 de febrero de 2014 en el Diario Oficial de la Federación.
-
-En lo sucesivo, cuando en alguna norma se haga referencia al Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, se entenderá por el Instituto Electoral y de Participación Ciudadana de Yucatán.
-
-Artículo sexto. El Consejero Presidente del Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán que se encuentre en funciones a la entrada en vigor de este Decreto, asumirá el cargo de Presidente del Instituto Electoral y de Participación Ciudadana de Yucatán.
-
-Artículo séptimo. A partir de la entrada en vigor de este decreto, el patrimonio del Instituto de Procedimientos Electorales y Participación Ciudadana, lo será en su integridad del Instituto Electoral y de Participación Ciudadana de Yucatán.
-
-Artículo octavo. Los acuerdos, convenios, así como los asuntos, expedientes y demás actos jurídicos, pendientes y en trámite en el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, que se encuentren bajo cualquier concepto, se transferirán y quedarán a cargo del Instituto Electoral y de Participación Ciudadana de Yucatán.
-
-Los derechos laborales de los servidores públicos y empleados del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán quedarán a salvo con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
-
-Artículo noveno. Con objeto de no afectar derechos adquiridos con anterioridad al presente Decreto, los Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que hasta antes de la entrada en vigor de este Decreto se desempeñaban como tales, continuarán como Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado a partir de la entrada en vigor de este Decreto y concluirán sus cargos en los términos del Decreto de su nombramiento respectivo.
-
-Los Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, a partir de la entrada en vigor de este Decreto, continuarán ejerciendo su competencia en materia electoral hasta en tanto el Senado de la República realice los nombramientos de los nuevos Magistrados del Tribunal Electoral del Estado de Yucatán, en los términos previstos por la fracción IV, inciso c), del artículo 116 y del artículo transitorio décimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político electoral, publicado el 10 de febrero de 2014 en el Diario Oficial de la Federación.
-
-Artículo décimo. El Presidente del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado de Yucatán que se encuentre en funciones a la entrada en vigor de este Decreto, asumirá el cargo de Presidente del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, hasta finalizar el período para el que fue elegido.
-
-Artículo décimo primero. Los acuerdos, convenios, así como los asuntos, expedientes y demás actos jurídicos, pendientes y en trámite en materia administrativa, que se encuentren bajo cualquier concepto en el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, se transferirán y quedarán a cargo del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, a partir de la entrada en vigor de este Decreto.
-
-Artículo décimo segundo. Los acuerdos, convenios, así como los asuntos, expedientes, medios de impugnación y demás actos jurídicos pendientes y en trámite en materia Electoral, que se encuentren bajo cualquier concepto en el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, se transferirán y quedarán a cargo del Tribunal Electoral del Estado de Yucatán, a partir de la entrada en vigor de este Decreto, en los términos de lo dispuesto en el segundo párrafo del artículo noveno transitorio de este Decreto.
-
-Artículo décimo tercero. Quedarán a salvo los derechos laborales de los servidores públicos y empleados del entonces Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
-
-Artículo décimo cuarto. A partir de la entrada en vigor de este Decreto, los servidores públicos y empleados del entonces Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que pertenecían al Tribunal Contencioso Administrativo hasta antes de su incorporación al Poder Judicial, por disposición del decreto 341 publicado en el Diario Oficial del Gobierno del Estado de fecha 24 de noviembre de 2010, pasarán a formar parte del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado.
-
-Artículo décimo quinto. A partir de la entrada en vigor de este Decreto, los servidores públicos y empleados del entonces Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que pertenecían al Tribunal Electoral del Estado hasta antes de su incorporación al Poder Judicial, por disposición del decreto 341 publicado en el Diario Oficial del Gobierno del Estado de fecha 24 de noviembre de 2010, pasarán a formar parte del nuevo Tribunal Electoral del Estado de Yucatán, creado mediante este Decreto. Asimismo, los sueldos y prestaciones laborales de estos servidores públicos y empleados, se generarán del Presupuesto asignado al entonces Tribunal de Justicia Electoral y Administrativa del Poder Judicial, hasta en tanto sea asignada la partida presupuestal del nuevo Tribunal Electoral del Estado de Yucatán.
-
-Los Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que hasta antes de la entrada en vigor de este Decreto se desempeñaban como tales, y que continuarán como Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado a partir de la entrada en vigor de este Decreto, deberán realizar las acciones necesarias a fin de salvaguardar la debida conformación administrativa del nuevo Tribunal Electoral del Estado de Yucatán conforme a este Decreto y a la Ley.
-
-Artículo décimo sexto. A partir de la entrada en vigor de este Decreto, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles e inmuebles del Tribunal de justicia Electoral y Administrativa del Poder Judicial del Estado de Yucatán pasarán al dominio y uso del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
-
-Artículo décimo séptimo. Los Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que hasta antes de la entrada en vigor de este Decreto se desempeñaban como tales, y que continuarán como Magistrados del Tribunal de Justicia Fiscal y. Administrativa del Poder Judicial del Estado a partir de la entrada en vigor de este Decreto, deberán realizar las acciones necesarias a fin de presupuestar lo necesario para el funcionamiento del Tribunal Electoral del Estado de Yucatán para el año 2014 y deberán solicitar al Poder Ejecutivo del Estado, la asignación presupuestaria que sea necesaria para el cumplimiento de las disposiciones establecidas en este Decreto.
-
-Artículo décimo octavo. Quedan exentos el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, el Tribunal Electoral del Estado de Yucatán y el Instituto Electoral y de Participación Ciudadana de Yucatán, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados en el proceso de regulación de los bienes y/o servicios relacionados con motivo de la entrada en vigor de este Decreto.
-
-Artículo décimo noveno. La celebración de elecciones locales tendrá lugar el primer domingo de junio del año que corresponda, en los términos de esta constitución, a partir del 2015, salvo aquella que se verifique en el año 2018, la cual se llevará a cabo el primer domingo de julio.
-
-Artículo vigésimo. Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
-
-D.O. 20 DE JUNIO DE 2014.
-
-DECRETO 196/2014, POR EL QUE SE REFORMAN LOS ARTÍCULOS 28 PÁRRAFOS PRIMERO, TERCERO, CUARTO Y QUINTO, Y 62 PÁRRAFO CUARTO, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN.
-
-Artículo Único.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-D.O. 20 DE ABRIL DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 426/2016 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE DERECHOS POLÍTICO-ELECTORALES DE LOS INDÍGENAS MAYAS DEL ESTADO DE YUCATÁN.”]
-
-Primero. Entrada en vigor.
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Segundo. Derogación tácita.
-
-Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
-
-D.O. 8 DE MAYO DE 2017.
+SEGUNDO. En un plazo de sesenta días el Consejo del Colegio de Notarios deberá realizar las acciones necesarias para la implementación del sistema de verificación de datos y medidas de seguridad en documentos oficiales.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 468/2017 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE IGUALDAD.”]
 
@@ -4928,367 +1578,3 @@ Segundo. Obligación normativa
 El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
 
 D.O. 18 DE JULIO DE 2017.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO 504/2017 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN".]
-
-Artículo único.- Este decreto entrará en vigor el 19 de julio del año 2017.
-
-D.O. 28 DE FEBRERO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO 592/2018 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE DISCIPLINA FINANCIERA".]
-
-Primero. Entrada en vigor
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
-
-Segundo. Obligación normativa
-
-El Congreso deberá armonizar las leyes secundarias relacionadas con la disciplina financiera, en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
-
-D.O. 26 DE MARZO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 49/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE REVOCACIÓN DE MANDATO”.]
-
-Primero. Entrada en vigor
-
-Este decreto entrará en vigor y será aplicable a los presidentes municipales, regidores y síndicos a partir del uno de septiembre del 2021, siempre y cuando no hayan resultado reelectos.
-
-Para el caso de los diputados locales, este decreto entrará en vigor y será aplicable a partir del uno de septiembre del 2021, siempre y cuando no hayan resultado reelectos.
-
-Para el caso de la figura del Gobernador Constitucional del Estado, este decreto entrará en vigor y será aplicable a partir del uno de octubre del 2024. En todos los casos, previa publicación en el Diario Oficial del Gobierno del Estado.
-
-Segundo. Adecuación normativa
-
-El congreso deberá realizar las adecuaciones normativas correspondientes, dentro de los 180 días siguientes a la declaratoria constitucional que para tal efecto haga este o la Diputación Permanente, en su caso.
-
-Tercero. Derogación expresa
-
-Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
-
-D.O. 26 DE MARZO DE 2019.
-
-> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA "NOTA ACLARATORIA" DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN PUBLICADA EN EDICIÓN ESPECIAL DEL D.O. DE 26 DE MARZO DE 2019.]</small>
-
-LIC. MAURICIO TAPPAN SILVEIRA.
-
-CONSEJERO JURÍDICO DEL
-
-GOBIERNO DEL ESTADO DE YUCATÁN.
-
-P R E S E N T E
-
-Por este medio, me permito hacer de su conocimiento que por error involuntario se envió al Diario Oficial la minuta de reformas a la Constitución Política del Estado de Yucatán en materia de Revocación de Mandato, misma que fue publicada el día de hoy en la edición vespertina mediante del (sic) decreto 49/2019, por lo que respetuosamente me permito solicitar se publique una NOTA ACLARATORIA en donde se exprese lo siguiente:
-
-"NOTA ACLARATORIA: La minuta de reformas a la Constitución Política del Estado de Yucatán en materia de Revocación de Mandato, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, en la edición vespertina de fecha 26 de marzo de 2019, mediante del (sic) decreto 49/2019, no surtirá sus efectos legales hasta en tanto concluya el proceso de aprobación por parte del Constituyente Permanente Municipal, en términos de lo dispuesto en el artículo 108 de la Constitución Política del Estado de Yucatán y el Congreso del Estado emita la Declaratoria correspondiente.”
-
-Asimismo, le comunico que una vez agotada la etapa legislativa referida anteriormente, se le informará el resultado obtenido y, en caso de ser procedente, se hará de su conocimiento la declaratoria que emita el Congreso del Estado para los efectos legales que correspondan.
-
-Lo anterior con fundamento en lo señalado en el artículo 108 de la Constitución Política del Estado de Yucatán; y 11 de la Ley del Diario Oficial del Gobierno del Estado de Yucatán.
-
-Sin otro particular, le envío un cordial saludo.
-
-A T E N T A M E N T E
-
-Mérida, Yucatán a 26 de marzo de 2019
-
-DIP. MARTÍN ENRIQUE CASTILLO RUZ
-
-PRESIDENTE DE LA MESA DIRECTIVA DEL H. CONGRESO DEL ESTADO DE YUCATÁN.
-
-D.O. 22 DE ABRIL DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO 62/2019 POR EL QUE SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE LENGUAJE INCLUSIVO CON RESPECTO A LA IGUALDAD DE GÉNERO".]
-
-Entrada en vigor
-
-Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Derogación expresa
-
-Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
-
-D.O. 31 DE JULIO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 96/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE REVOCACIÓN DE MANDATO”.]
-
-Primero. Entrada en vigor
-
-Este decreto entrará en vigor y será aplicable a los presidentes municipales, regidores y síndicos a partir del uno de septiembre del 2021, siempre y cuando no hayan resultado reelectos.
-
-Para el caso de los diputados locales, este decreto entrará en vigor y será aplicable a partir del uno de septiembre del 2021, siempre y cuando no hayan resultado reelectos.
-
-Para el caso de la figura del Gobernador Constitucional del Estado, este decreto entrará en vigor y será aplicable a partir del uno de octubre del 2024. En todos los casos, previa publicación en el Diario Oficial del Gobierno del Estado.
-
-Segundo. Adecuación normativa
-
-El congreso deberá realizar las adecuaciones normativas correspondientes, dentro de los 180 días siguientes a la declaratoria constitucional que para tal efecto haga este o la Diputación Permanente, en su caso.
-
-Tercero. Derogación expresa
-
-Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
-
-D.O. 14 DE NOVIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 115/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE GLOSA”.]
-
-Primero. Entrada en vigor.
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-Segundo. Derogación expresa.
-
-Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
-
-Tercero. Informe en Lengua Maya.
-
-En cuanto al informe en lengua maya al que se refiere el presente decreto, será presentado por el titular del Poder Ejecutivo a partir del Informe de Gobierno que presente al Congreso del Estado en el mes de enero del año 2021.
-
-Por única ocasión, el Informe de Gobierno correspondiente al mes de enero del año 2020 contendrá un resumen en lengua maya.
-
-D.O. 14 DE NOVIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 118/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE PARIDAD DE GÉNERO”.]
-
-Publicación y entrada en vigor.
-
-Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado, previa declaratoria constitucional que lleve a cabo el H. Congreso del Estado de Yucatán de conformidad con lo dispuesto en el párrafo segundo del artículo 108 de la Constitución Política del Estado de Yucatán; dicha publicación deberá realizarse posterior a la declaratoria constitucional que efectúe la H. Cámara de Diputados del Congreso de la Unión respecto de las reformas constitucionales en materia de paridad de género, y al inicio de vigencia de ésta, en términos de su publicación en el Diario Oficial de la Federación.
-
-Adecuación normativa
-
-Artículo Segundo.- El Congreso del Estado de Yucatán deberá adecuar la legislación secundaria correspondiente en un plazo de 180 días naturales contados a partir de la formal entrada en vigor del presente decreto.
-
-Derogación expresa
-
-Artículo Tercero.- Se derogan todas las normas de igual o menor rango que se opongan al presente decreto.
-
-D.O. 14 DE NOVIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 128/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN”.]
-
-Primero. Entrada en vigor
-
-Este decreto entrará en vigor el 1 de enero de 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Segundo. Obligación normativa
-
-El Congreso del estado deberá expedir las leyes y modificaciones a la legislación para armonizarla conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
-
-Tercero. Legislación transitoria
-
-En tanto se expiden las modificaciones a la legislación aplicable a la Fiscalía Especializada en Combate a la Corrupción, esta ejercerá las atribuciones y competencias que las leyes vigentes otorgan a la Vicefiscalía Especializada en Combate a la Corrupción.
-
-Cuarto. Referencia
-
-En lo sucesivo, cuando en alguna norma se haga referencia a la Vicefiscalía Especializada en Combate a la Corrupción, se entenderá hecha a la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán.
-
-Quinto. Referencia a la Fiscalía General del Estado
-
-En los casos en los que las leyes le otorguen facultades y obligaciones a la Fiscalía General del Estado de Yucatán, se entenderá que dichas facultades y obligaciones son propias de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, exclusivamente en cuanto a los delitos por hechos de corrupción.
-
-Sexto. Vicefiscal especializado
-
-Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, el Vicefiscal Especializado en Combate a la Corrupción, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará como Fiscal Especializado en Combate a la Corrupción a partir de la entrada en vigor de este decreto y concluirá su cargo en los términos del decreto relativo a su nombramiento respectivo, con derecho a ser reelecto por una sola vez para un periodo más en términos del artículo 75 Quinquies de este decreto.
-
-Séptimo. Trámite de asuntos
-
-Las carpetas de investigación, acuerdos, convenios, así como los asuntos, expedientes y demás actos jurídicos pendientes y en trámite, que se encuentren bajo cualquier concepto en la Vicefiscalía Especializada en Combate a la Corrupción, se transferirán y quedarán a cargo de la Fiscalía Especializada en Combate a la Corrupción, a partir de la entrada en vigor de este decreto.
-
-Octavo. Derechos laborales
-
-Los trabajadores que se encuentren prestando sus servicios en la Vicefiscalía Especializada en Combate a la Corrupción, a la entrada en vigor de este decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden ante la Fiscalía Especializada en Combate a la Corrupción, en los términos de la legislación aplicable.
-
-Noveno. Transferencia de recursos
-
-Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Vicefiscalía Especializada en Combate a la Corrupción, incluyendo todos sus bienes y los derechos derivados de fondos o fideicomisos vigentes, pasarán a formar parte de la Fiscalía Especializada en Combate a la Corrupción.
-
-Décimo. Exención
-
-La Fiscalía Especializada en Combate a la Corrupción queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
-
-Décimo primero. Previsiones presupuestales
-
-El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
-
-Décimo segundo. Recursos y espacios de la vicefiscalía
-
-En tanto se llevan a cabo las adecuaciones presupuestales, las transferencias y demás actos necesarios para dotar de recursos propios a la Fiscalía Especializada en Combate a la Corrupción continuará ejerciendo los recursos y ocupando los espacios que actualmente tiene asignados la Vicefiscalía Especializada en Combate a la Corrupción en la Fiscalía General del Estado.
-
-D.O. 13 DE DICIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 142/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE PRESERVACIÓN DE LA LENGUA NATIVA DE LA ENTIDAD”.]
-
-Artículo primero. Entrada en vigor
-
-Este decreto entrará en vigor el primero de enero del año 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Artículo segundo. Obligación normativa
-
-El Congreso del Estado deberá armonizar el presente decreto con la Ley de Educación del Estado de Yucatán, en un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor.
-
-D.O. 13 DE DICIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 143/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ENSEÑANZA DE LA LENGUA DE SEÑAS MEXICANA”.]
-
-Primero. Entrada en vigor
-
-Este decreto entrará en vigor el primero de enero del año 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Segundo. Obligación normativa
-
-El Congreso del Estado deberá armonizar el presente decreto con la Ley de Educación del Estado de Yucatán, en un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor.
-
-D.O. 13 DE DICIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 144/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE PERÍODOS ORDINARIOS DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
-
-Artículo primero. Entrada en vigor.
-
-Este decreto entrará en vigor a partir del día siguiente al de su publicación en el diario oficial del estado.
-
-Artículo segundo. Períodos ordinarios.
-
-A partir de que inicie el año 2020 se realizarán los períodos ordinarios de sesiones de este H. Congreso del Estado de Yucatán conforme a las fechas establecidas en este decreto.
-
-Artículo tercero. Ajuste de fechas de las entregas de reconocimientos y medallas que realiza el H. Congreso del Estado de Yucatán.
-
-El Congreso del Estado de Yucatán deberá ajustar las fechas de todos los reconocimientos y medallas que anualmente entrega, de conformidad con los nuevos periodos ordinarios de sesiones contemplados en este decreto.
-
-El presidente de la mesa directiva deberá realizar todas las gestiones y trámites necesarios para el cumplimiento de lo establecido en el párrafo anterior.
-
-Artículo cuarto. Adecuación normativa.
-
-El Congreso del Estado de Yucatán deberá adecuar la legislación secundaria en la materia en un plazo que no exceda de los 180 días naturales a la entrada en vigor del presente decreto.
-
-Artículo quinto. Derogación expresa.
-
-Se derogan todas las disposiciones de mayor o menor rango que se opongan a lo dispuesto en el presente decreto.
-
-D.O. 13 DE MARZO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO 190/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE INHABILITACIÓN POR FALTAS ADMINISTRATIVAS Y HECHOS DE CORRUPCIÓN".]
-
-Entrada en vigor
-
-Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Derogación expresa
-
-Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
-
-D.O. 22 DE MAYO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 220/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE CIENCIA, TECNOLOGÍA E INNOVACIÓN”.]
-
-Primero.- Entrada en vigor
-
-El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Segundo.- Derogación Expresa
-
-Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga (sic) al presente decreto.
-
-D.O. 9 DE JUNIO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 228/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN”.]
-
-Primero. Entrada en vigor
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Segundo. Obligación normativa
-
-El Congreso del Estado de Yucatán deberá de expedir las modificaciones necesarias a la legislación secundaria para armonizarla a las disposiciones de este decreto en un plazo no mayor a noventa días naturales contado a partir de su entrada en vigor.
-
-Tercero. Derogación Expresa
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-D.O. 9 DE JUNIO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 229/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE SESIONES FUERA DEL RECINTO LEGISLATIVO POR CONTINGENCIA”.]
-
-Artículo Primero. Entrada en vigor.
-
-La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
-
-Artículo segundo. Derogación expresa.
-
-Se derogan todas las disposiciones de igual o mayor jerarquía que se opongan al presente decreto.
-
-D.O. 22 DE JULIO DE 2020.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO 255/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE INTEGRACIÓN PARITARIA DEL CONGRESO DEL ESTADO Y FORTALECIMIENTO AL DESARROLLO POLÍTICO DE LAS MUJERES”.]
-
-Único. Entrada en vigor
-
-Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-D.O. 30 DE SEPTIEMBRE DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO 279/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ADULTOS MAYORES".]
-
-Primero.- Entrada en vigor
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Segundo.- Derogación Expresa
-
-Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga al presente decreto.
-
-D.O. 9 DE DICIEMBRE DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO 305/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE FORTALECIMIENTO INSTITUCIONAL".]
-
-Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
-
-D.O. 5 DE JULIO DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 381/2021 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ARMONIZACIÓN DE LA CUENTA PÚBLICA”.]
-
-Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
-
-D.O. 6 DE SEPTIEMBRE DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO 413/2021 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE MATRIMONIO IGUALITARIO".]
-
-Entrada en vigor
-
-Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Armonización legal
-
-Artículo segundo. El Congreso del Estado de Yucatán, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de este decreto, deberá realizar las adecuaciones a la legislación secundaria que correspondan.
-
-D.O. 18 DE NOVIEMBRE DE 2021
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 430/2021 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ÓRGANOS DE CONTROL INTERNO EN EL ÁMBITO MUNICIPAL”.]
-
-Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Artículo segundo. Los ayuntamientos del Estado de Yucatán que no cuenten con su órgano de control interno municipal deberán conformarlo dentro de un plazo de 180 días naturales, contados a partir de la entrada en vigor de este decreto.
-
-Artículo tercero. Se derogan todas las disposiciones que se opongan a este decreto.
-
-D.O. 18 DE NOVIEMBRE DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 431/2021 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE CABILDO ABIERTO”.]
-
-Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
-
-D.O. 7 DE DICIEMBRE DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 436/2021 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE RECONOCIMIENTO DEL INTERNET COMO DERECHO FUNDAMENTAL”.]
-
-Entrada en Vigor.
-
-Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Cláusula derogatoria.
-
-Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
