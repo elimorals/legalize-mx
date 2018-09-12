@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2018-08-10"
+last_updated: "2018-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -3411,11 +3411,15 @@ Las agencias de ventas de vehículos automotores, aseguradoras, tianguis, bazare
 
 ### Capítulo IV. Impuesto Sobre Juegos Permitidos, Rifas, Sorteos, Loterías y Concursos
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 251.
 
-Es objeto de este impuesto, la celebración de juegos permitidos por la Ley de la materia, la enajenación de boletos, billetes y demás comprobantes que permitan presenciar o participar en loterías, rifas, sorteos, juegos con apuestas y concursos así como los permisos respectivos, sea cual fuere la denominación que pretenda dársele a la enajenación, inclusive cooperación o donativos.
+Es objeto de este impuesto, la obtención de ingresos o premios derivados de la celebración de juegos permitidos por la Ley de la materia, la enajenación de boletos, billetes y demás comprobantes que permitan presenciar o participar en loterías, rifas, sorteos, juegos con apuestas y concursos, cuando dicho ingreso haya sido pagado, entregado, otorgado o distribuido en el territorio del Estado, independientemente del lugar en el que se realice el evento; así como los permisos respectivos, sea cual fuere la denominación que pretenda dársele a la enajenación, inclusive cooperación o donativos, aún cuando no se exprese el valor de los mismos o sean distribuidos gratuitamente.
 
 También se considera como objeto de este impuesto la obtención de ingresos derivados de premios por loterías, rifas, sorteos y concursos que celebren los organismos descentralizados de la Administración Pública Federal y Estatal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública. No considerándose para los efectos de este impuesto el reintegro correspondiente al billete que permitió participar en loterías.
+
+El impuesto al que se refiere este artículo no dará lugar a incremento en los precios señalados por los contribuyentes, ni se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase.
 
 ###### Artículo 252.
 
@@ -3437,15 +3441,21 @@ Tratándose de rifas, sorteos y loterías que se celebren con fines benéficos, 
 
 La base de este impuesto será:
 
-I. El ingreso total percibido por los sujetos de este impuesto por la enajenación de boletos, billetes o demás comprobantes que permitan presenciar o participar en loterías, rifas, sorteos, concursos o cualquier otro juego permitido por la Ley de la materia.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+I. El ingreso percibido por los sujetos de este impuesto por la enajenación de boletos, billetes o demás comprobantes que permitan presenciar o participar en loterías, rifas, sorteos, concursos o cualquier otro juego permitido por la Ley de la materia, deduciéndose el valor del premio que se obtenga.
 
 II. El valor de los premios que reciban los beneficiarios en loterías, rifas, sorteos, concursos o cualquier otro juego permitido por la Ley de la materia, sin deducción alguna.
 
 Los contribuyentes del Impuesto Sobre Juegos Permitidos, Rifas, Sorteos, Loterías y Concursos, pagarán conforme a lo siguiente:
 
-a) El 6% sobre los ingresos que se obtengan por la enajenación de boletos, billetes y demás comprobantes que permitan presenciar o participar en loterías, rifas, sorteos, juegos con apuestas y en general y concursos.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-b) El 6% sobre el valor de los premios que reciban los beneficiarios en loterías, rifas, sorteos, juegos con apuestas y en general y concursos, sin deducción alguna. Este impuesto se causará en el momento en que el premio sea pagado o entregado y deberá ser retenido y enterado por las personas físicas o morales que efectúen los pagos o premiaciones dentro de los quince días siguientes en que se realice la retención.
+a) El 6% sobre los ingresos que se obtengan por la enajenación de boletos, billetes y demás comprobantes que permitan presenciar o participar en loterías, rifas, sorteos, juegos con apuestas en general y concursos.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+b) El 6% sobre el valor de los premios que reciban los beneficiarios en loterías, rifas, sorteos, juegos con apuestas en general y concursos, sin deducción alguna. Este impuesto se causará en el momento en que el premio sea pagado o entregado y deberá ser retenido y enterado por las personas físicas o morales que efectúen los pagos o premiaciones dentro de los quince días siguientes en que se realice la retención.
 
 c) Los Organismos Públicos Descentralizados de la Administración Pública Federal aunque conforme a otras leyes o decretos no causen impuestos locales o estén exentos de ellos, deberán de efectuar las retenciones de este impuesto y enterarlo de acuerdo a la fracción anterior.
 
@@ -6346,3 +6356,11 @@ P.O. 10 DE AGOSTO DE 2018.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 266 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
