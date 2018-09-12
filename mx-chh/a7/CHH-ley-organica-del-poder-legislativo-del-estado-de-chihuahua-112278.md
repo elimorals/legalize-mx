@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2018-06-23"
+last_updated: "2018-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -903,11 +903,15 @@ Son Comisiones de Dictamen Legislativo las siguientes:
 
 I.- Primera de Gobernación y Puntos Constitucionales.
 
-II.- Segunda de Gobernación y Puntos Constitucionales.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+II.- Segunda de Gobernación
 
 III.- De Programación, Presupuesto y Hacienda Pública.
 
-IV.- De Seguridad Pública.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- De Seguridad Pública y Protección Civil.
 
 V.- De Transparencia y Acceso a la Información Pública.
 
@@ -943,17 +947,49 @@ XIX.- De Salud.
 
 XX.- De Economía, Turismo y Servicios.
 
-XXI.- De Juventud y Deporte.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XXI.- De Juventud y Niñez.
 
 XXII.- De Igualdad.
 
 XXIII.- De Energía.
 
-XXIV.- De Protección Civil.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV.- De Deporte.
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 XXV.- De Familia, Asuntos Religiosos y Valores.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XXVI.- Anticorrupción.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XXVII.- De Movilidad Urbana.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XXVIII.- De Agua.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XXIX.- De Atención a Grupos Vulnerables.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XXX.- De Recursos Forestales.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XXXI.- De Feminicidios.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XXXII.- De Vivienda.
 
 ###### ARTÍCULO 97.
 
@@ -2556,3 +2592,9 @@ P.O. 23 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0005/2018 I P.O., POR MEDIO DEL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 96 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
