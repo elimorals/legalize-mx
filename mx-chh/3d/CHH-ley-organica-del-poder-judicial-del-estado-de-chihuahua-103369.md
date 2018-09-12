@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-103369"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-29"
-last_updated: "2018-08-04"
+last_updated: "2018-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. EL DECRETO NO. LXV/RFLEY/0338/2017 II P.O., EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE MAYO DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+[NOTA 1: EL DECRETO NO. LXV/RFLEY/0338/2017 II P.O., EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE MAYO DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de octubre de 2014.
 
@@ -1039,9 +1041,7 @@ Las o los funcionarios de las salas unitarias del ramo penal coadyuvarán, dentr
 
 En el Tribunal habrá una o un Secretario General que lo será también del Pleno, estará adscrita o adscrito a la Presidencia y tendrá fe pública en todo lo relativo al ejercicio de su función.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
-
-La o el Secretario General se desempeñará como Secretaria o Secretario Ejecutivo del Consejo de la Judicatura.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -1335,11 +1335,9 @@ III. Llevar un libro de registro en que consten los discernimientos que se hicie
 
 IV. Ejercer las demás atribuciones que les señalen las leyes.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
-
 ###### ARTÍCULO 95.
 
-Solo las o los jueces de primera instancia tendrán facultad para conocer de los asuntos familiares.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -1473,65 +1471,51 @@ IV. Tener licenciatura en Derecho.
 
 Corresponde a los jueces o juezas menores:
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-I. Conocer de juicios civiles cuya cuantía no supere mil quinientas veces el valor diario de la Unidad de Medida y Actualización, al momento de iniciar el procedimiento.
+I. Conocer de juicios civiles cuya cuantía sea determinada por el Consejo de la Judicatura del Poder Judicial del Estado.
 
-II. Conocer de los negocios civiles que versen sobre el arrendamiento o cualquier otra prestación periódica, cuyo importe anual se encuentre dentro del límite establecido en la fracción anterior.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+II. Conocer de los negocios civiles que versen sobre el arrendamiento o cualquier otra prestación periódica, cuyo importe anual sea determinado por el Consejo de la Judicatura del Poder Judicial del Estado.
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
 III. Conocer de las providencias precautorias que sean competencia de las o los jueces de primera instancia en los lugares donde no existan estos y la ley así lo autorice.
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-IV. En materia familiar solo podrán dictar, de ser necesario, las providencias precautorias de carácter urgente y, en su oportunidad, remitirán los autos a la o al juez de primera instancia competente.
+IV. En materia familiar:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-V. Conocer, en su caso, de los procedimientos penales, así como de la ejecución de las penas y medidas de seguridad impuestas en los mismos. Para este efecto, serán considerados juezas o jueces de ejecución de penas con las facultades legales inherentes a estos. Lo anterior, exclusivamente en relación con los delitos siguientes:
+a). De los actos prejudiciales previstos en los artículos 161 y 166 del Código de Procedimientos Familiares.
 
-a. Variación del nombre o domicilio.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-b. Desobediencia y resistencia de particulares.
+b). De las providencias precautorias previstas en el artículo 181 del Código de Procedimientos Familiares.
 
-c. Oposición a que se ejecute una obra o trabajo públicos.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-d. Quebrantamiento de sellos.
+c). De los divorcios por mutuo consentimiento.
 
-e. Falsedad ante autoridades.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-f. Violación de correspondencia.
+d). De las diligencias de jurisdicción voluntaria, cuya competencia corresponde también a los notarios públicos, así como de aquellas que tengan por objeto determinar la dependencia económica, el concubinato, o la autorización a niñas, niños o adolescentes para tramitar la documentación necesaria para viajar al extranjero.
 
-g. Delitos contra la filiación y la institución del matrimonio.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-h. Lesiones, excepto las previstas en el artículo 129, fracciones V, VI y VII del Código Penal.
+e). De aquellos trámites que tengan por objeto recabar el consentimiento para llevar a cabo la adopción, con vista al Ministerio Público.
 
-i. Delitos de peligro para la vida o la salud de las personas.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-j. Allanamiento de vivienda, despacho, oficina o establecimiento mercantil.
+f). De órdenes de protección a que se refiere el Artículo Séptimo del Código de Procedimientos Familiares.
 
-k. Amenazas.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-l. Estupro.
+g). De los demás casos previstos por otras disposiciones jurídicas.
 
-m. Abuso sexual, salvo en las hipótesis de los artículos 174 y 175 del Código Penal.
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
-
-n) Robo, fraude y abuso de confianza, si su monto no excede de mil veces el valor diario de la Unidad de Medida y Actualización al momento de la comisión del delito.
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
-
-o) Daños dolosos, cuyo monto no exceda de mil veces el valor diario de la Unidad de Medida y Actualización y daños imprudenciales, cualquiera que fuere su cuantía.
-
-p. Encubrimiento por favorecimiento y receptación, si el delito principal es de los reservados a su jurisdicción.
-
-q. Delitos que tengan pena alternativa o solo pecuniaria.
-
-r. Delitos que atentan contra el cumplimiento de la obligación alimentaria.
-
-s. Aquellos que determine el Pleno.
+V. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2018)
 
 VI. (DEROGADA, P.O. 31 DE MAYO DE 2017)
 
@@ -1551,7 +1535,15 @@ XI. Ejercer las facultades que corresponden a los tribunales de primera instanci
 
 XII. Practicar las diligencias que les encomienden sus superiores.
 
-XIII. Conocer de los demás asuntos que les faculten las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Actuar, dentro del distrito judicial de su adscripción, en funciones de coordinadores y coordinadoras generales titulares de centros regionales, de acuerdo con lo previsto en la Ley de Justicia Alternativa del Estado de Chihuahua, su Reglamento, acuerdos del Consejo y demás legislación aplicable.
+
+En caso de incumplimiento de los convenios que resulten del procedimiento de mecanismo alternativo aludido en el párrafo anterior, las personas usuarias podrán abrir la vía de apremio ante el juez de primera instancia correspondiente.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Conocer de los demás asuntos que les faculten las leyes.
 
 ### CAPÍTULO OCTAVO. DE LA DIVISIÓN JURISDICCIONAL
 
@@ -1933,7 +1925,13 @@ XXXV.- Fijar las bases de la política informática y de información estadísti
 
 XXXVI.- Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de los tribunales y órganos auxiliares del Consejo.
 
-XXXVII.- Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVII. Establecer comisiones especiales para el adecuado funcionamiento del Poder Judicial y, en su caso, autorizar que las y los servidores públicos designados para atender la comisión correspondiente se separen temporalmente de su cargo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVIII. Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura.
 
 El Consejo de la Judicatura incorporará la perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará por que los órganos a su cargo así lo hagan.
 
@@ -2007,9 +2005,17 @@ IX.- Las demás que establezcan la ley, el Pleno mediante acuerdos generales y o
 
 El Consejo de la Judicatura contará con una o un Secretario Ejecutivo que fungirá como enlace del Pleno y de la Presidencia con las o los Consejeros, las y los Magistrados, jueces y juezas, órganos administrativos del Poder Judicial y los particulares. Dará seguimiento y trámite de los asuntos del Consejo, estará adscrito a la Presidencia y tendrá fe pública en todo lo relativo al ejercicio de su función.
 
-Quien ocupe la titularidad de la Secretaría General del Tribunal desempeñará las funciones de la Secretaría Ejecutiva, sin retribución económica adicional.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-El Secretariado Ejecutivo contará con el personal que fije el presupuesto.
+La o el Secretario Ejecutivo deberá satisfacer, para su designación, los mismos requisitos que para ser Secretaria o Secretario General, establece el artículo 72 de esta Ley.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+La o el Secretario Ejecutivo será nombrado por el Pleno del Consejo de la Judicatura, por mayoría de votos de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría Ejecutiva contará con el personal que fije el presupuesto.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE MAYO DE 2017)</small>
 
@@ -2659,21 +2665,53 @@ II. Las y los Jueces.
 
 III. Secretarías de acuerdos de las salas.
 
-IV. Asistente de Constancias y Registros del Tribunal de Alzada.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-V. Secretarías proyectistas de las salas.
+IV. Secretarías proyectistas de las salas.
 
-VI. Secretarías de acuerdos de juzgado.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+V. Secretarías judiciales, de acuerdos y proyectistas de juzgado de primera instancia.
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Asistente de Constancias y Registros del Tribunal de Alzada.
 
 VII. Asistente de Constancias y Registros de Juzgado.
 
-VIII. Secretaría proyectista de Juzgado.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Las y los Facilitadores.
+VIII. Las y los Visitadores.
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Las Defensoras y Defensores públicos.
 
 X. Actuarias y Actuarios.
 
-XI. Defensoras y Defensores públicos.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Las y los Facilitadores.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Las y los Evaluadores y Supervisores del Instituto de Servicios Previos al Juicio.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Las y los Secretarios Auxiliares de los juzgados.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Las y los Escribientes.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Las y los Oficiales Notificadores.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Las y los Encargados de Sala.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -3866,3 +3904,31 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Notifíquese el presente Decreto a la Suprema Corte de Justicia de la Nación, en cumplimiento a lo ordenado en la Resolución de la Controversia Constitucional número 179/2017.
+
+P.O. 12 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0874/2018 XVII P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL Y LEY DE JUSTICIA ALTERNATIVA, AMBAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Con la salvedad consagrada en los Artículos Transitorios Segundo y Quinto, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El nuevo régimen de facultades que se concede a las y los jueces menores con la reforma al artículo 104 de la Ley Orgánica del Poder Judicial del Estado contenido en este Decreto, entrará en vigor cuando así sea determinado por el Consejo de la Judicatura.
+
+###### ARTÍCULO TERCERO.
+
+Hasta que el Consejo de la Judicatura determine que el nuevo régimen de facultades de los jueces menores entre en vigor, el artículo 104, en su texto anterior al que se reforma mediante la emisión de este Decreto, seguirá aplicándose.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado, en colaboración con el Consejo de la Judicatura, deberá aprobar, para el ejercicio fiscal dos mil diecinueve, el recurso necesario para que los jueces menores estén en condiciones adecuadas de realizar las tareas que se les ha conferido en este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones contempladas en el presente Decreto, respecto al artículo 128 de la Ley Orgánica del Poder Judicial del Estado de Chihuahua, entrarán en vigor el 05 de septiembre del 2018, si a esta fecha no ha sido publicado, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Judicial del Estado de Chihuahua, de acuerdo a lo establecido en los artículos 46 y 47 de la Ley General de Contabilidad Gubernamental, deberá tomar las previsiones necesarias para que de conformidad a lo establecido en el propio Presupuesto de Egresos vigente, se lleven a cabo las adecuaciones presupuestarias que correspondan, para el funcionamiento de la Secretaría Ejecutiva del Consejo de la Judicatura.
