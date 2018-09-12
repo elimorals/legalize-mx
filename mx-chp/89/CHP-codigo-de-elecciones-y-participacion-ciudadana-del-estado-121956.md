@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-del-estado-12195
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-14"
-last_updated: "2018-04-02"
+last_updated: "2018-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Tercera Sección al Número 299 del Periódico Oficial del Estado de Chiapas, el miércoles 14 de junio de 2017.
 
@@ -509,6 +509,10 @@ g) Para las diputaciones por el principio de representación proporcional, cada 
 
 h) En caso de sustituciones de candidatas o candidatos, el partido político, coalición o candidatura común, deberán de considerar el principio de paridad y, en su caso de alternancia, de tal manera que dichas sustituciones solo procederán cuando sean del mismo género de los miembros que integraron la fórmula original
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+3. En caso de sustituciones con motivo de renuncia de candidatas registradas por el principio de mayoría relativa o representación proporcional, sólo podrán ser suplidas por personas del mismo género, previa ratificación ante el Instituto. En todo caso, el Instituto verificará de oficio dichas sustituciones, a fin de prevenir la violencia de género, utilizando el Protocolo para Atender la Violencia Política contra las Mujeres.
+
 ###### Artículo 20.
 
 1. Las diputaciones de representación proporcional tienen por objeto asegurar la pluralidad de los partidos en el seno del Congreso del Estado.
@@ -607,13 +611,19 @@ A continuación, se dividirá la votación obtenida por cada partido en cada cir
 
 Por último, se procederá a asignar las diputaciones distribuidas a cada partido político a las fórmulas de candidatos registrados en las listas por ellos presentadas para las cuatro circunscripciones, siguiéndose para ello el orden decreciente.
 
-4. Las vacantes de miembros propietarios del Congreso local electos por el principio de representación proporcional, serán cubiertas por los suplentes de la fórmula electa respectiva, que invariablemente deberán ser del mismo género que el propietario. Si la vacante se presenta respecto de la fórmula completa, será cubierta por aquella fórmula de candidatos del mismo partido y género que siga en el orden de la Lista, después de habérsele asignado las y los Diputados que le hubieren correspondido.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+4. Las vacantes de miembros propietarios del Congreso local electos por el principio de representación proporcional, serán cubiertas por los suplentes de la fórmula electa respectiva, que invariablemente deberán ser del mismo género que el propietario. Si la vacante se presenta respecto de la fórmula completa, se recorrerá al mismo género. Si la vacante se presenta respecto de la fórmula completa, será cubierta por aquella fórmula de candidatos del mismo partido y género que siga en el orden de la Lista, después de habérsele asignado las y los Diputados que le hubieren correspondido. Tratándose de vacantes por renuncia, deberá ser ratificada ante el Instituto a efecto de verificar que se encuentre libre de coacción y de violencia política de género.
 
 ###### Artículo 24.
 
 1. Los Ayuntamientos de los municipios tendrán regidores electos según el principio de representación proporcional de acuerdo a los requisitos y reglas de asignación que establece este Código.
 
 2 Los regidores de mayoría relativa y de representación proporcional tendrán los mismos derechos y obligaciones.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+3. Las vacantes de miembros de ayuntamientos que con motivo de renuncia se presentaren, serán suplidas por el mismo género, previa ratificación ante el Instituto, quien de oficio verificará que no se haya ejercido coacción y violencia de género para su presentación, utilizando el Protocolo para Atender la Violencia Política contra las Mujeres.
 
 ###### Artículo 25.
 
@@ -7902,3 +7912,11 @@ P.O. 2 DE ABRIL DE 2018.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 288 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS, EN MATERIA DE PARIDAD DE GÉNERO Y VIOLENCIA POLÍTICA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
