@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-tribunal-de-justicia-administrativa-del-120985
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-04-18"
-last_updated: "2017-04-18"
+last_updated: "2018-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el martes 18 de abril de 2017.
 
@@ -113,6 +113,18 @@ Para los efectos del primer párrafo de este artículo, las resoluciones se cons
 
 El Tribunal conocerá de los juicios que promuevan las autoridades para que sean anuladas las resoluciones administrativas favorables a un particular, siempre que dichas resoluciones sean de las materias de su competencia.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+Solo podrán intervenir en el juicio las personas que tengan interés legítimo o jurídico en el mismo.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+En los casos en que el actor pretenda obtener sentencia que le permita realizar actividades reguladas, deberá acreditar su interés jurídico mediante la correspondiente concesión, licencia, permiso, autorización, título o aviso.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+La falta de interés jurídico torna improcedentes las pretensiones del actor.
+
 ###### Artículo 5.
 
 El Tribunal también conocerá y resolverá de las responsabilidades administrativas de los servidores públicos y particulares vinculados con faltas graves promovidas por la Secretaría de la Contraloría del Poder Ejecutivo del Estado y los Órganos Internos de Control de las dependencias y entidades de la administración pública estatal y municipal, o por la Entidad Superior de Fiscalización del Estado de Querétaro, para la imposición de sanciones en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Querétaro. Asimismo, será competente para fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública del Estado o de los municipios o al patrimonio de los entes públicos estatales o municipales.
@@ -197,9 +209,11 @@ XVI. Los demás que establezcan como parte de su competencia esta Ley, el Reglam
 
 ### Capítulo Tercero. Del Presidente del Tribunal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 11.
 
-El Presidente del Tribunal será electo por el Pleno en la última sesión del año en que concluya el periodo del Presidente en funciones y durará en su encargo tres años. Este último no podrá ser reelecto para el periodo inmediato siguiente.
+El Presidente del Tribunal será electo por el Pleno en la última sesión del año en que concluya el periodo del Presidente en funciones y durará en su encargo tres años; podrá reelegirse para el periodo inmediato siguiente por una ocasión y puede ser elegido de nueva cuenta en periodos posteriores, con excepción al inmediato siguiente de la reelección que corresponda.
 
 En caso de falta definitiva del Presidente del Tribunal, el Pleno elegirá al nuevo Presidente para concluir el periodo del Presidente ausente. El Magistrado designado no estará impedido para ser electo en el periodo inmediato siguiente.
 
@@ -910,3 +924,15 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA EL ARTÍCULO 4 Y REFORMA EL ARTÍCULO 11 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. El Presidente del Tribunal de Justicia Administrativa del Estado de Querétaro en funciones, podrá reelegirse en términos de lo dispuesto por el artículo 11 de la presente Ley:
