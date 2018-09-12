@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-notariado-del-estado-de-michoacan-de-ocampo-6136"
 country: "mx"
 rank: "ley"
 publication_date: "1980-02-21"
-last_updated: "2016-12-29"
+last_updated: "2018-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL NOTARIADO DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 21 de febrero de 1980.
 
@@ -55,13 +55,15 @@ El Notariado es una función de orden público. Estará bajo la potestad del Pod
 
 Es facultad del Titular del Poder Ejecutivo del Estado expedir nombramiento de notario público, bajo los criterios y formalidades de selección, designación y permanencia establecidos en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 3o.
 
-El notario es el profesional del Derecho investido de fe pública para hacer constar los actos y hechos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes, revistiéndolos de solemnidad y formas legales.
+El Notario es el profesional del Derecho investido de fe pública para hacer constar los actos y hechos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes, revistiéndolos de solemnidad y formas legales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-La función pública notarial es un ejercicio que se debe desempeñar con estricto apego a la norma jurídica, probidad, calificación, prudencia, de manera personalísima, profesionalismo e imparcialidad.
+La función pública notarial es un ejercicio que se debe desempeñar con estricto apego a la norma jurídica, probidad, calificación, prudencia, de manera personalísima, profesionalismo e imparcialidad. En los asuntos y trámites de la función notarial se garantizará la máxima certeza jurídica mediante el uso de sistemas electrónicos de verificación de datos y medidas de seguridad en documentos oficiales. Para tal efecto el Secretario de Gobierno y el Consejo del Colegio de Notarios de Michoacán podrá suscribir convenios de colaboración con las autoridades e instituciones competentes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -169,17 +171,19 @@ Lo dispuesto en este precepto por ser de orden público no es objeto de pacto en
 
 ### CAPITULO II. DE LOS NOTARIOS Y SU CIRCUNSCRIPCION
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 15.
 
 En la capital del Estado los notarios de número no podrán ser menos de diez; de cuatro en Zamora, Uruapan, Apatzingán y La Piedad; de tres en Zacapu y Zitácuaro; de dos en Jiquilpan, Sahuayo, Puruándiro, Los Reyes, Lázaro Cárdenas, Pátzcuaro, Tacámbaro, Ario de Rosales y Ciudad Hidalgo y de uno en las demás cabeceras de Distrito o de Municipalidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
+El Titular del Poder Ejecutivo podrá crear nuevas notarías; señalando su circunscripción, tomando en cuenta los siguientes factores:
 
-En tratándose de las demarcaciones de los distritos judiciales del Estado, habrá un notario cuando se acredite que en el Distrito Judicial de que se trate los actos notariales inscritos en el Registro Público de la Propiedad en el Estado, en la Dirección del Notariado y Archivo General de Notarías y en las oficinas de Administración de Rentas, se incrementaron en un veinte por ciento durante los dos últimos años, así como cuando el número de notarios en funciones en dicho Distrito Judicial no sea suficiente para cubrir las necesidades notariales en términos del primer párrafo de este artículo o la población del distrito judicial haya aumentado cuando menos un cinco por ciento con base en las cifras del último censo de población y vivienda o del conteo de población y vivienda, según corresponda.
+En tratándose de las demarcaciones de los distritos judiciales del Estado, habrá un Notario cuando se acredite que en el Distrito Judicial de que se trate los actos notariales inscritos en el Registro Público de la Propiedad en el Estado, en la Dirección del Notariado y Archivo General de Notarías y en las oficinas de Administración de Rentas, se incrementaron en un veinte por ciento durante los dos últimos años, así como cuando el número de notarios en funciones en dicho Distrito Judicial no sea suficiente para cubrir las necesidades notariales en términos del primer párrafo de este artículo o la población del distrito judicial haya aumentado cuando menos un cinco por ciento con base en las cifras del último censo de población y vivienda o del conteo de población y vivienda, según corresponda.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+Para acreditar los supuestos a que refiere este artículo, la Secretaría de Gobierno ordenará y solicitará los estudios técnicos correspondientes. En dichos estudios deberán tomarse en cuenta, entre otros, los indicadores catastrales y registrales, así como los censos generales de población practicados por el Instituto Nacional de Estadística, Geografía e Informática o el organismo que realice o tenga a cargo dichas funciones.
 
-El Titular del Ejecutivo del Estado expedirá nombramientos de nuevos notarios y cubrirá las vacantes en caso de cesación y renuncia.
+El Titular del Ejecutivo del Estado expedirá nombramientos de nuevos notarios de acuerdo al procedimiento correspondiente y también los nombramientos de aquellas vacantes que se cubran por cesación y renuncia.
 
 ###### ARTICULO 16.
 
@@ -205,19 +209,23 @@ El notario será de número y llevará el que le corresponda, atento al orden qu
 
 ## TITULO SEGUNDO. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 21.
 
-Para obtener el nombramiento de notario, son indispensables los requisitos siguientes:
+Para obtener el nombramiento de Notario, el solicitante deberá reunir los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-I.- Ser mexicano por nacimiento, haber cumplido treinta años de edad, cinco años de haber obtenido título de licenciado en derecho o abogado, estar en pleno uso de sus derechos, acreditar buena conducta y no haber sido ministro de culto religioso dentro de los últimos tres años;
+I.- Ser mexicano por nacimiento, haber cumplido veintiocho años de edad, estar en pleno uso de sus derechos, acreditar buena conducta, y no pertenecer al estado eclesiástico;
 
-II.- Tener residencia ininterrumpida en el Estado por más de tres años;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-III.- Haber obtenido titulo de licenciado en derecho, debidamente registrado;
+II.- Tener residencia y domicilio efectivo e ininterrumpido en el Estado, por más de tres años;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+III.- Ser Licenciado en Derecho, contar con cedula profesional y acreditar cinco años de ejercicio profesional;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -227,9 +235,9 @@ IV.- Gozar de buen estado de salud física y mental;
 
 V.- No haber sido condenado en sentencia ejecutoriada por delito doloso o preterintencional;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-VI.- Inscribirse en la convocatoria respectiva para ocupar la notaría de mérito; y,
+VI.- Acreditar haber tomado y aprobado el curso de práctica y actualización notarial, que imparta el Colegio de Notarios del Estado. La asistencia a dicho curso y su aprobación no debe tener una antigüedad mayor de dos años a la fecha en que se practique el examen de oposición correspondiente; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -271,7 +279,7 @@ Los requisitos anteriores se acreditarán, en su orden, con:
 
 Copia certificada del acta de nacimiento; acta expedida por la autoridad competente; constancia de la autoridad política del lugar; certificado de residencia otorgado por la autoridad municipal, título debidamente registrado o copia certificada del mismo; certificado emitido por dos médicos oficiales; y, constancia de la Procuraduría General de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 23.
 
@@ -281,9 +289,11 @@ El interesado presentará la solicitud de inscripción correspondiente en la Sec
 
 Entre la fecha de publicación de la convocatoria y el inicio del plazo para la inscripción de solicitudes deberá mediar un plazo de diez días hábiles. Las inscripciones se harán en la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno. El plazo para la recepción de solicitudes será de diez días hábiles.
 
-Concluido el plazo de recepción de solicitudes, la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, dentro de los diez días hábiles siguientes, publicará en los mismos medios, la lista de aspirantes que haya (sic) reunido los requisitos exigidos por esta Ley, para presentar el concurso de oposición. (sic) Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno expedirá a los aspirantes la constancia para presentar el concurso de oposición.
+Concluido el plazo de recepción de solicitudes, la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, dentro de los diez días hábiles siguientes, publicará en los mismos medios, la lista de aspirantes que hayan reunido los requisitos exigidos por esta Ley, para presentar el concurso de oposición. La Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno expedirá a los aspirantes la constancia para presentar el concurso de oposición.
 
 La lista de aspirantes podrá ser impugnada por cualquier persona que acredite tener interés jurídico ante la propia Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, dentro del término de cinco días hábiles contados a partir de la fecha de su última publicación, acompañando las pruebas documentales que se estimen pertinentes. La Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno resolverá lo conducente en un plazo de cinco días hábiles, previa audiencia.
+
+Con independencia de lo anterior, para cubrir la vacante de una notaría ya autorizada, el Titular del Ejecutivo del Estado podrá nombrar Notario titular en esa vacante, presentando el aspirante examen en el cual demuestre experiencia, capacidad y eficiencia en el desempeño de la función notarial. La Secretaría de Gobierno, a través de la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, en coordinación con el Consejo del Colegio de Notarios del Estado, aplicarán el examen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
 
@@ -566,6 +576,12 @@ d) Que los interesados manifestaron su conformidad con la escritura y firmaron �
 e) La fecha o fechas en que firmaron la escritura los otorgantes o la persona o personas elegidas por ellos, los testigos e intérpretes, si los hubiere; y,
 
 f) Los hechos que presencie el notario y que sean integrantes del acto que autorice, como entrega de dinero o de títulos y otros efectos.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 57 BIS.- Los notarios están obligados a informar sobre el otorgamiento o revocación de los poderes, mandatos, y actos de apoderamiento pasados ante su fe, dentro de los cinco días hábiles siguientes al otorgamiento del instrumento de que se trate.
+
+El Notario, ingresará todos los datos al Registro Nacional de Avisos de Poderes Notariales, en un término que no excederá de cinco días hábiles contados a partir de su recepción u otorgamiento.
 
 ###### ARTICULO 58.
 
@@ -1059,11 +1075,11 @@ La Secretaría de Gobierno designará el funcionario que se encargue de formular
 
 En el caso de separación o suspensión del Notario por un término mayor de seis meses, el sello de la notaría deberá depositarse en la Dirección del Notariado y Archivo General de Notarías.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 128.
 
-Cuando cese en sus funciones una notaría, no se expedirá convocatoria para designar titular de la misma, si no se cumple con lo establecido en el artículo 15 de esta Ley.
+Cuando cese en sus funciones un Notario, el Secretario de Gobierno podrá nombrar Notario sustituto para que culmine los asuntos pendientes de trámite, autorizando con sello propio y asentando razón de ello en cada caso.
 
 ## TITULO QUINTO. DE LA RESPONSABILIDAD DE LOS NOTARIOS Y CANCELACION DE GARANTIA
 
@@ -1169,9 +1185,15 @@ IV. Emitir recomendaciones en los casos que la Ley le señale;
 
 V. Resolver las consultas que les hicieren los notarios del Estado, referente al ejercicio de sus funciones;
 
-VI. Planear, organizar y ejecutar todos los programas de actualización y certificación que estimen convenientes, así como el curso de formación de aspirantes a notarios; y,
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Las demás que les confiere esta Ley y sus reglamentos.
+VI. Planear, organizar y ejecutar todos los programas de actualización y certificación que estimen convenientes, así como el curso de formación de aspirantes a notarios;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Suscribir convenios, contratos y demás instrumentos consensuales que coadyuven al cumplimiento de las funciones notariales; y,
+
+VIII. Las demás que les confiere esta Ley y sus reglamentos.
 
 ## TITULO SEPTIMO. DEL ARCHIVO GENERAL DE NOTARIAS E INSPECCION
 
@@ -1275,6 +1297,126 @@ El comisionado hará constar en el acta las irregularidades que observe; consign
 
 El acta a que se refiere el artículo anterior, se levantará por quintuplicado, un tanto será remitido al Secretario de Gobierno, otro al Director del Registro Público de la Propiedad, otro a la Dirección del Notariado y Archivo General de Notarías, el cuarto al Consejo de Notarios y el último quedará en poder del Notario.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+## TITULO OCTAVO. DE LA CONCURRENCIA NOTARIAL EN LOS PROCEDIMIENTOS JURISDICCIONALES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO I. DE LOS ACTOS MATERIA DE ESTOS PROCEDIMIENTOS
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 151.
+
+Los notarios en forma concurrente con la autoridad jurisdiccional, podrán autorizar los actos y dar fe de los hechos que a continuación se enumeran, siempre y cuando no se haya promovido o se promueva, durante su trámite, cuestión alguna entre partes determinadas:
+
+I. Los procedimientos sucesorios en los términos del Código de Procedimientos Civiles del Estado; y,
+
+II. Divorcio Administrativo.
+
+En el trámite y substanciación de los procedimientos señalados en las fracciones anteriores, los notarios se sujetarán a la normativa de este título y demás disposiciones aplicables consignadas en esta ley, teniendo aplicación supletoria, en lo que no se contrapongan y sean acordes con su naturaleza, las disposiciones relativas a la jurisdicción voluntaria o vía de autorización señaladas en el Código de Procedimientos Civiles del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO II. NORMAS NOTARIALES DE TRAMITACION SUCESORIA
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 152.
+
+Sin perjuicio de lo dispuesto por el artículo 1129 del Código de Procedimientos Civiles, las sucesiones en las que no hubiere controversia alguna y cuyos herederos fueren mayores de edad, menores emancipados o personas jurídicas, podrán tramitarse ante Notario.
+
+El que se oponga al trámite de una sucesión, o crea tener derechos contra ella, los deducirá conforme lo previene el Código de Procedimientos Civiles. El Juez competente, de estimarlo procedente, lo comunicará al Notario para que, en su caso, a partir de esa comunicación se abstenga de proseguir con la tramitación.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 153.
+
+Si la sucesión fuere testamentaria, la tramitación notarial podrá llevarse a cabo, independientemente de cual hubiere sido el último domicilio del autor de la sucesión o el lugar de su fallecimiento, siempre y cuando se actualicen las hipótesis previstas en la primera parte del artículo anterior; si hubiere legatarios incapaces podrá tramitarse notarialmente la sucesión en el caso que los legados hayan sido pagados o garantizados su pago total, lo cual deberá hacerse constar en el instrumento.
+
+En este caso, deberán obtenerse previamente los informes del Archivo, así como de la oficina respectiva del último domicilio del autor de la sucesión, en caso de que hubiere sido fuera del Estado de Michoacán, a fin de acreditar que el testamento presentado al Notario por todos los herederos, es el último otorgado por el testador.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 154.
+
+La sucesión intestamentaria podrá tramitarse ante Notario si el último domicilio del autor de la sucesión fue el Estado de Michoacán, o si se encuentran ubicados en la entidad uno o la mayor parte de los bienes, lo cual declararán los interesados bajo su responsabilidad, una vez que se hubieren obtenido del Archivo, constancias de no tener depositado testamento o informe de que se haya otorgado alguno, y previa acreditación de los herederos de su entroncamiento con el autor de la sucesión mediante las partidas del Registro Civil correspondiente. Podrán tramitar esta sucesión, el o la cónyuge, los ascendientes, descendientes y colaterales hasta el cuarto grado; fuera de estos casos, la sucesión deberá tramitarse por la vía judicial.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 155.
+
+Si hubiere testamento se exhibirá el testimonio correspondiente y la copia certificada del acta de defunción del autor de la sucesión; el heredero o herederos instituidos y el albacea designado, si lo hubiere, podrán manifestar expresamente y de común acuerdo ante el Notario de su elección:
+
+I. Su conformidad, de llevar la tramitación ante el citado Notario;
+
+II. Que reconocen la validez del testamento;
+
+III. Que aceptan la herencia;
+
+IV. Que reconocen por sí y entre sí sus derechos hereditarios que les sean atribuidos por el testamento; y,
+
+V. Su intención de proceder por común acuerdo.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 156.
+
+El Notario podrá hacer constar también la aceptación o renuncia del cargo de albacea instituido por el autor del testamento, así como las designaciones de albacea que en su caso hagan todos los herederos de común acuerdo, y la aceptación del cargo. También los acuerdos de los herederos para la constitución en su caso de la caución o el relevo de esa obligación. Una vez aceptado el cargo, el albacea procederá a la formación de inventario y avalúo en términos de ley.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 157.
+
+También podrá hacer constar el Notario, la renuncia o repudio de derechos que haga alguno de los herederos o legatarios. Los emancipados podrán aceptar o repudiar sus derechos hereditarios.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 158.
+
+El instrumento de aceptación de herencia podrá otorgarse aún sin la comparecencia de los legatarios instituidos, siempre que los herederos se obliguen al pago de los legados. No se podrá llevar a cabo la adjudicación de bienes sin que se hubiesen pagado o garantizado los legados.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 159.
+
+Si no hubiere testamento, los herederos, en el orden de derechos previsto por el Código Civil, comparecerán todos ante Notario en compañía de dos testigos idóneos; exhibirán al Notario copias certificadas del acta de defunción del autor de la sucesión y las que acrediten su entroncamiento; declararán bajo protesta de decir verdad sobre el último domicilio del finado, y que no conocen de la existencia de persona alguna diversa de ellos con derecho a heredar en el mismo grado o en uno preferente al de ellos mismos.
+
+El Notario procederá a tomar la declaración de los testigos por separado, en los términos previstos para las diligencias de información testimonial por el artículo 1169 del Código de Procedimientos Civiles.
+
+Acto seguido, se procederá en los mismos términos previstos por el artículo anterior, para lo relativo a la aceptación o repudio de los derechos hereditarios, el nombramiento de albacea y la constitución o relevo de la caución correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 160.
+
+El Notario está obligado a dar a conocer las declaraciones de los herederos a que se refieren los artículos anteriores, mediante dos publicaciones que se harán en un diario de circulación nacional, de diez en diez días, con la mención del número de la publicación que corresponda. Estas publicaciones podrán ser suplidas por otra u otras publicaciones en medios electrónicos u otro medio de comunicación masiva que acuerden el Colegio y las autoridades competentes, salvaguardando siempre la debida publicidad y garantía de audiencia de los posibles interesados.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 161.
+
+Una vez hechas las publicaciones a que se refiere el artículo anterior, de lo que se dejará constancia en el instrumento, el o los albaceas presentarán al Notario el inventario y avalúos de los bienes que forman el acervo hereditario del autor de la sucesión para que, con la aprobación de todos los coherederos, en su caso, se realice su protocolización.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 162.
+
+Los herederos y albacea otorgarán las escrituras de partición y adjudicación tal como haya sido ordenado por el autor de la sucesión en su testamento. A falta de éste, conforme a las disposiciones de la Ley de la materia para los intestados, como los propios herederos convengan.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 163.
+
+Contra los acuerdos, resoluciones y determinaciones que los notarios tomen en los procedimientos a que se refiere este Título, no cabrá recurso alguno, sin que por lo anterior se agravien los derechos de los interesados, quienes pueden hacerlos valer en la vía judicial competente.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 164.
+
+Siempre que alguno de los procedimientos a que se refiere este Título, sea interrumpido en su trámite por cualquier causa, el Notario sentará en el expediente del mismo la razón correspondiente.
+
 TRANSITORIOS:
 
 PRIMERO.- Se abroga la Ley Orgánica del Notariado contenida en el Decreto número 156, expedido por el H. Congreso del Estado, con fecha 13 de junio de 1974, y publicada en el Suplemento al Periódico oficial número 89 del jueves 4 de julio del mismo año, así como todas las disposiciones que se opongan a la presente Ley.
@@ -1376,3 +1518,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 12 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 649 POR EL QUE "SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3°, EL ARTÍCULO 15, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II, III Y VI DEL ARTÍCULO 21 Y LOS ARTÍCULOS 23 Y 128; Y, SE ADICIONAN LOS ARTÍCULOS 57 BIS, UNA FRACCIÓN VII AL ARTÍCULO 140 RECORRIÉNDOSE EN ORDEN LA SUBSECUENTE Y EL TÍTULO OCTAVO QUE CONTIENE LOS ARTÍCULOS 151 AL 164 TODOS DE LA LEY DEL NOTARIADO DEL ESTADO DE MICHOACÁN".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. En un plazo de sesenta días el Consejo del Colegio de Notarios deberá realizar las acciones necesarias para la implementación del sistema de verificación de datos y medidas de seguridad en documentos oficiales.
