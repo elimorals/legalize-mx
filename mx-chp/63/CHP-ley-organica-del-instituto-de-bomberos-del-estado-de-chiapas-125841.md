@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-de-bomberos-del-estado-de-chiapas-12
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-11-15"
-last_updated: "2017-11-15"
+last_updated: "2018-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY ORGÁNICA DEL INSTITUTO DE BOMBEROS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 15 de noviembre de 2017.
 
@@ -393,7 +393,9 @@ III. Tener estudios superiores afines a las actividades del Instituto;
 
 IV. Tener comprobada vocación de servicio; y
 
-V. Recibir el nombramiento del Gobernador del Estado y ser ratificado por la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+V. Recibir el nombramiento de la Junta de Gobierno a propuesta del Director General.
 
 ###### ARTÍCULO 17.
 
@@ -425,7 +427,9 @@ III. Tener estudios afines a las actividades del Instituto;
 
 IV. Tener comprobada vocación de servicio; y
 
-V. Recibir el nombramiento del Gobernador del Estado y ser ratificado por la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+V. Recibir el nombramiento de la Junta de Gobierno a propuesta del Director General.
 
 ###### ARTÍCULO 19.
 
@@ -455,7 +459,9 @@ III. Tener estudios superiores afines a su responsabilidad;
 
 IV. Tener comprobada vocación de servicio; y
 
-V. Recibir el nombramiento del Gobernador del Estado y ser ratificado por la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+V. Recibir el nombramiento de la Junta de Gobierno a propuesta del Director General.
 
 ###### ARTÍCULO 21.
 
@@ -629,7 +635,9 @@ IV. Comprobar amplios conocimientos sobre las materias de trabajo del Instituto;
 
 V. Presentar examen de oposición; y
 
-VI. Recibir el nombramiento del Gobernador del Estado y ser ratificado por la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+
+V (SIC). Recibir el nombramiento de la Junta de Gobierno a propuesta del Director General
 
 ###### ARTÍCULO 34.
 
@@ -992,3 +1000,13 @@ Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorabl
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 15 días del mes de Noviembre del año Dos Mil Diecisiete.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 269 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 16 FRACCIÓN V; 18 FRACCIÓN V Y 20 FRACCIÓN V DE LA LEY ORGÁNICA DEL INSTITUTO DE BOMBEROS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+Artículo Segundo. Quedan abrogadas todas aquellas disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
