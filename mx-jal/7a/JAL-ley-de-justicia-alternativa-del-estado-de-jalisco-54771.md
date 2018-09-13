@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2016-10-11"
+last_updated: "2018-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -139,159 +137,13 @@ XIV. Accesibilidad: Toda persona sin distinciones de origen étnico, sexo, edad,
 
 XV. Alternatividad: Procurará el conciliador proponer diversas soluciones al conflicto de manera que las partes tengan opción de escoger alguna alternativa conveniente para solucionar el conflicto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
 Los métodos alternos serán aplicables a todos los asuntos del orden civil susceptibles de convenio o transacción. Cuando el procedimiento pueda afectar intereses de terceros, éstos deberán ser llamados para la salvaguarda de sus derechos.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
-
-En materia penal, no procederá el trámite del método alternativo respecto a las siguientes conductas, aun cuando éstas se cometan en grado de tentativa:
-
-I. Código Penal para el Estado Libre y Soberano de Jalisco:
-
-a) Asociación delictuosa, artículo 120;
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-b) Corrupción de menores, artículos 142-A y 142-B;
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-c) Abuso sexual infantil, artículos 142-L y 142-M;
-
-d) Lenocinio, artículos 139 y 141;
-
-e) Falsedad en declaraciones e informes dados a una autoridad, artículo 168;
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-f) Prostitución infantil, artículos 142-F y 142-G;
-
-g) De la suposición y supresión del estado civil, artículo 177;
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-h) Violación, artículo 175;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-i) Robo de infante, artículo 179 párrafo cuarto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-j) Tráfico de menores, artículo 179-Bis;
-
-k) (DEROGADO, P.O. 3 DE DICIEMBRE DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-l) Extorsión y extorsión agravada, artículos 189 y 189-Bis;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-m) Homicidio por culpa grave, artículo 48;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-n) Homicidio, simple intencional, en riña y calificado, artículos 213, 217 y 219;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-o) Parricidio, artículo 223;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-p) Infanticidio, artículos 225 y 226;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-q) Aborto, artículos 227 y 228;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-r) Robo y robo equiparado, artículos 234 fracciones III a la VII y último párrafo, y 236 fracciones I, VII, IX, X, XI, XII, XIV y XVI;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-s) Fraude, artículo 252 fracción XXIII;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-t) Administración fraudulenta, artículos 254-Bis y 254-Ter;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-u) Delitos cometidos por servidores públicos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-v) Delitos electorales;
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2013)</small>
-
-w) Delitos fiscales
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2013)</small>
-
-x) Delitos ecológicos; y
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2013)</small>
-
-y) Desaparición forzada de personas, artículos 154-A, 154-D, 154-E, 154-F.
-
-II. Ley Contra la Delincuencia Organizada:
-
-a) Delincuencia organizada, artículo 2;
-
-III. En la Ley Estatal para Prevenir y Sancionar la Tortura:
-
-a) Tortura, artículo 3º;
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-IV. Los delitos tipificados por las leyes generales de conformidad con el artículo 73, fracción XXI de la Constitución Política de los Estados Unidos Mexicano (sic);
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-V. En las demás leyes que expresamente así lo señalen.
-
-En todos los casos el método alterno se aplicará siempre y cuando se trate de delincuente primario.
-
-Cuando el inculpado se encuentre privado de su libertad personal dentro del procedimiento penal, las invitaciones se le notificaran en el sitio donde se encuentre recluido.
-
-> <small>(F. DE E., P. O. 26 DE FEBRERO DE 2011)</small>
-
-El arbitraje procederá conforme a lo establecido en los códigos civil y de procedimientos civiles del Estado.
+Lo relacionado con los mecanismos alternativos en materia penal se regirá por lo dispuesto en el Código Nacional de Procedimientos Penales, y en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y en su caso, en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -351,7 +203,7 @@ III. Lo dispuesto en la presente Ley, y las demás disposiciones de carácter ge
 
 IV. Lo dispuesto en los Códigos Civil y de Procedimientos Civiles del Estado de Jalisco, con respecto a los asuntos del orden civil y familiar;
 
-V. Lo dispuesto en los Códigos Penal y de Procedimientos Penales del Estado de Jalisco, con respecto a los asuntos del orden penal;
+V. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
@@ -999,17 +851,9 @@ Las partes podrán asistir a la entrevista inicial acompañados de su asesor jur
 
 Si las partes no aceptan ninguno de los medios alternativos propuestos se dará por concluido el trámite.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+###### Artículo 56 Bis.
 
-###### Artículo 56
-
-Bis.- Los métodos alternos en materia penal procederán hasta antes de dictarse sentencia definitiva.
-
-Desde su primera intervención, el Ministerio Público, de oficio o, en su caso, el Juez, o ambos a solicitud de cualquiera de las partes o del defensor público o agente de la Procuraduría Social, invitarán a los interesados a que sometan su controversia a un método alterno en los casos en que proceda, y les explicarán los efectos y los mecanismos de mediación ó conciliación disponibles, así como sus alcances.
-
-El Ministerio Público o, en su caso, el Juez, suspenderá el trámite de la averiguación previa o el proceso, según sea el caso, hasta por treinta días para que las partes medien o concilien. En caso de interrumpirse la mediación o conciliación, cualquiera de las partes puede solicitar la continuación de la averiguación previa o del proceso correspondiente.
-
-Si las partes están de acuerdo en someter su conflicto a la resolución mediante la justicia alternativa, quedarán suspendidos desde ese instante el procedimiento de averiguación previa o del proceso jurisdiccional, según sea el caso, así como el término de la prescripción de la acción penal hasta en tanto se dé por cumplido el convenio definitivo, y el Instituto informará dicha decisión de sometimiento a la resolución alternativa (sic) la autoridad que conozca de la investigación, proceso o procedimiento.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2018)
 
 #### SECCIÓN TERCERA. TRÁMITE
 
@@ -1021,7 +865,7 @@ Si las partes aceptan voluntariamente alguno de los medios alternativos propuest
 
 Cuando las partes acepten participar en el procedimiento, se les hará saber que el término del mismo será de hasta dos meses, pudiendo prolongarse por uno más si a juicio de las partes y del prestador se considera conveniente. Continuando el trámite correspondiente.
 
-En caso de asuntos de materia penal, el plazo máximo será de treinta días improrrogable.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 59.
 
@@ -1129,13 +973,11 @@ El convenio sólo deberá suscribirse cuando se trate de materia objeto de algú
 
 (DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 72.
 
-El convenio ratificado y sancionado por el Instituto, se considerará como sentencia que hubiere causado ejecutoria, con todos los efectos que para la ejecución forzosa de la sentencias prevén las leyes. El Instituto comunicará el incumplimiento del convenio a la autoridad correspondiente para los efectos de continuar con el trámite de la averiguación previa o del proceso, así como para que el término de la prescripción del ejercicio de la acción penal por el delito cometido siga corriendo. Una vez cumplido el convenio, el Instituto informará de ello al Juez competente para que sobresea el proceso y extinga la acción correspondiente.
-
-En materia penal, no se extinguirá la acción penal ni se sobreseerá el proceso hasta en tanto el Ministerio Público o el Juez correspondiente tenga por apegado a la ley el convenio referido y por acreditado el cumplimiento del mismo. Una vez revisado por el Juez y sancionado por éste el convenio y su cumplimiento, el Ministerio Público o el Juez tendrá por satisfecha la reparación del daño y se extinguirá la acción penal o se sobreseerá el proceso, según corresponda, otorgando la libertad del procesado o reo.
+El convenio ratificado y sancionado por el Instituto, se considerará como sentencia que hubiere causado ejecutoria, con todos los efectos que para la ejecución forzosa de la sentencias (sic) prevén las leyes.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -1494,3 +1336,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26857/LXI/18 QUE REFORMA LOS ARTÍCULOS 5°, 8°, 58 Y 72 Y SE DEROGA EL ARTÍCULO 58 BIS (SIC) DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 8° DE LA LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES; REFORMA LOS ARTÍCULOS 6° Y 11 DE LA LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 10 Y 18 Y SE ADICIONA EL ARTÍCULO 10 BIS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO, Y SE REFORMA (SIC) LOS ARTÍCULOS 3°, 16, 27 Y 29 DE LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Comisaría de Justicia para Adolescentes del Estado, como Órgano Desconcentrado Especializado de la Fiscalía de Reinserción Social operará con los recursos asignados previo a esta reforma, y se deberán respetar los derechos laborales del personal a su cargo.
