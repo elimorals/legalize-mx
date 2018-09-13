@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2016-11-08"
+last_updated: "2018-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -1569,9 +1569,11 @@ Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de 
 
 Los trabajadores de la salud del Gobierno de esta entidad federativa y de los municipios, así como los de otras instituciones autorizadas por las Autoridades Sanitarias del Estado, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditadas por alguna de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-ARTICULO 114 BIS.- Los propietarios o poseedores de un local o casa habitación están obligados a conservar las condiciones de saneamiento básico de los mismos a fin de garantizar la salud pública.
+ARTICULO 114 BIS.- Los propietarios o poseedores de un local, casa habitación o lotes baldíos están obligados a conservar las condiciones de saneamiento básico de los mismos a fin de garantizar la salud publica.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
 
 Los trabajadores de la salud verificarán que se cumplan con las condiciones de saneamiento básico que determine esta Ley, los reglamentos respectivos, las normas técnicas y las disposiciones legales aplicables; en el supuesto de que el inmueble a verificar se encuentre permanentemente cerrado y la causa que origina la visita represente un riesgo inminente para la salud pública, la autoridad sanitaria competente, previa autorización judicial, efectuará la apertura e ingreso al inmueble, para llevar a cabo las acciones sanitarias necesarias.
 
@@ -2823,11 +2825,11 @@ III.- Las condiciones socio-económicas del infractor, y
 
 IV.- La calidad de reincidente del infractor.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 285.
 
-Se sancionará con multa de hasta veinte veces UMA, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 91, 109, 110, 111, 114 bis primer párrafo, 123, 160, 255, 256 y 257 de la presente Ley.
+La Autoridad Municipal Sancionara con multa hasta veinte veces la UMA, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 91, 109, 110, 111, 114 bis primer párrafo, 123, 160, 255, 256 y 257 de la presente Ley
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -3198,3 +3200,11 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Los Ayuntamientos al elaborar sus proyectos de Leyes de Ingreso (sic) establecerán facilidades administrativas y estímulos fiscales para el pago de las multas a las que hace referencia el presente Decreto.
