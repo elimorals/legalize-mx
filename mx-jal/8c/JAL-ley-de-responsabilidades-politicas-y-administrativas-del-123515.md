@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-politicas-y-administrativas-del-123515
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2017-09-26"
+last_updated: "2018-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección VI del No. 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -119,15 +119,25 @@ I. El ataque que perturbe la vida jurídica y el buen funcionamiento de las inst
 
 II. Los actos u omisiones encaminados a alterar la forma de gobierno republicano, representativo y popular establecida por la Constitución Política de los Estados Unidos Mexicanos y por la Constitución Política el Estado de Jalisco;
 
-III. Las violaciones graves o sistemáticas a las garantías individuales o sociales, siempre y cuando estén fundadas en sentencias firmes emanadas de los tribunales competentes;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+III. Las violaciones graves o sistemáticas a los derechos humanos o las garantías individuales, siempre y cuando estén fundadas en sentencias firmes emanadas de los tribunales competentes;
 
 IV. Los actos u omisiones que contravengan la Constitución local o las leyes que de ella emanan o los reglamentos, cuando causen daños patrimoniales graves al Estado, al Municipio o a la sociedad, o motiven algún trastorno grave en el funcionamiento normal de sus instituciones;
 
 V. Autorizar o asignar cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente, cuando la autorización o asignación sea producto de un acuerdo colegiado, serán responsables los servidores públicos que hubieren votado a favor;
 
-VI. Recibir cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-VII. El no realizar el cobro de un crédito fiscal o cargo fiscal conforme a la ley, y que el Congreso del Estado, haya determinado hacer conforme al procedimiento que dispongan los ordenamientos legales aplicables.
+VI. Recibir cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+VII. El no realizar el cobro de un crédito fiscal o cargo fiscal conforme a la ley, y que el Congreso del Estado, haya determinado hacer conforme al procedimiento que dispongan los ordenamientos legales aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. La contravención a disposiciones en materia urbanística que generen deterioro a la calidad de la vida, y la autorización de actividades que no respeten cualquier tipo de límite, distancia o elementos mínimos tanto para su tolerancia como para su funcionamiento.
 
 2. El ataque, la violación, el daño o trastorno a que se refieren las fracciones anteriores, debe ser cierto y existir la evidencia de haberse producido como consecuencia directa e inmediata del acto u omisión del servidor público.
 
@@ -728,3 +738,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26863/LXI/18 QUE REFORMA EL ARTÍCULO 7° DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
