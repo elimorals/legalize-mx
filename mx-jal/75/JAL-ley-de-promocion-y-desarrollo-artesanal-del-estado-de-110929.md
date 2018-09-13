@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-110929"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2016-11-26"
+last_updated: "2018-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE PROMOCION Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el número 10 Sección LXV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -319,9 +321,11 @@ VII. Discutir, analizar y en su caso, proponer las acciones más convenientes de
 
 ### CAPÍTULO I. De la Naturaleza, Objetivos y Funciones del Instituto
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 30.
 
-El Instituto es un organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, encargado de vigilar el cumplimiento de las disposiciones previstas en la presente Ley.
+El Instituto es un organismo público descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Cultura, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión, encargado de vigilar el cumplimiento de las disposiciones previstas en la presente ley.
 
 ###### Artículo 31.
 
@@ -878,3 +882,19 @@ P.O. 26 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25919/LXI/16 QUE REFORMA EL ARTÍCULO 62 DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26856/LXI/18 QUE REFORMA EL ARTÍCULO 30 DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el 01 de enero de 2019.
+
+SEGUNDO. La Junta de Gobierno deberá adecuar su Reglamento Interno, dentro de los 180 días hábiles a partir de su integración, mismo que deberá ser remitido al titular del Poder Ejecutivo para su publicación en el periódico oficial "El Estado de Jalisco".
+
+TERCERO. En tanto se expide las disposiciones reglamentarias a que se refiere la presente ley, seguirán en vigor en lo que no la contravengan, aquellas que han regido hasta el momento al Instituto de la Artesanía Jalisciense.
+
+CUARTO. El Instituto enviará a la Secretaría de Cultura en un plazo no mayor a 180 días hábiles un diagnóstico del estado que guarda el instituto, lo anterior para ser considerados en los planes y programas de inversión.
+
+QUINTO. El Titular del Ejecutivo del Estado deberá realizar las adecuaciones necesarias al reglamento de esta Ley en un plazo no mayor a noventa días posteriores a la entrada en vigor del presente decreto. Así mismo deberá adecuar el acuerdo de adscripción de las Entidades para ajustarlo a la presente iniciativa.
+
+SEXTO. Se derogan todas las demás disposiciones que se opongan al presente decreto.
