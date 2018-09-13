@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2016-10-11"
+last_updated: "2018-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -45,8 +45,6 @@ CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 1.
@@ -65,8 +63,6 @@ V. Establecer los lineamientos para apoyar a los sujetos de asistencia social se
 
 Serán de aplicación supletoria la Ley de Asistencia Social y la Ley General de los Derechos de Niñas, Niños y Adolescentes; la Ley de los Derechos de Niñas, Niños y Adolescentes, Ley Estatal de Salud, Código Civil, Código de Procedimientos Civiles y Ley para la Operación de Albergues, del Estado de Jalisco.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 2.
@@ -83,67 +79,45 @@ III. Asistencia Social Privada.- Son los servicios que prestan las personas fís
 
 IV. Sistema Estatal.- Es el Sistema Estatal de Asistencia Social del Estado de Jalisco.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 3.
 
 El Gobierno del Estado y los municipios dentro del ámbito de sus competencias, reglamentarán, promoverán y prestarán servicios de asistencia social a través de las siguientes instituciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 I. La Secretaría.- Es la Secretaría de Desarrollo e Integración Social;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 II. Organismo Estatal.- Es el organismo público descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 III. Organismo Municipal.- Es el organismo público descentralizado de cada municipio denominado Sistema Municipal para el Desarrollo Integral de la Familia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 IV. Instituto.- Es el Instituto Jalisciense de Asistencia Social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 V. El Hogar Juan Cruz Ruiz de Cabañas y Crespo, conocido indistintamente con el nombre de Hogar Cabañas; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VI. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 VII. Delegado Institucional.- Son aquellos organismos públicos que tengan por objeto la representación conforme a lo establecido por la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco, tutela y asistencia, a quienes la legislación les reconoce dicho carácter;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 VIII. Representación Coadyuvante.- El acompañamiento de niñas, niños y adolescentes que realiza la Procuraduría de Protección de Niñas, Niños y Adolescentes en los procedimientos jurisdiccionales y administrativos, sin perjuicio de la intervención que corresponda a la Procuraduría Social; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 IX. Aquellas otras que conforme a la ley se encuentran constituidas o se lleguen a constituir.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -183,8 +157,6 @@ XV. Las acciones de apoyo a los migrantes en estado de vulnerabilidad, que trans
 
 XVI. Los demás servicios que tiendan a atender y complementar el desarrollo de aquellas personas que por sí mismas no pueden satisfacer sus necesidades personales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 5.
@@ -211,13 +183,25 @@ h) Víctimas de delito;
 
 i) Migrantes separados;
 
-j) Refugiados o desplazados;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-k) Las embarazadas o que sean madres,
+j) Migrantes no acompañados;
 
-l) Huérfanos; y
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-m) Con enfermedades o trastornos mentales;
+k) Refugiados o desplazados;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+l) Las embarazadas o que sean madres,
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+m) Huérfanos; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+n) Con enfermedades o trastornos mentales;
 
 II. Personas con problemas de alcoholismo u otras adicciones, cuando por estas causas se encuentren en estado de abandono o indigencia;
 
@@ -289,8 +273,6 @@ IX. Las demás que le otorguen las leyes aplicables.
 
 ### CAPITULO III. De la Coordinación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 11.
@@ -302,8 +284,6 @@ Asimismo, participará como integrante del Sistema Nacional de Asistencia Social
 ###### Artículo 12.
 
 En la prestación de servicios asistenciales, el Organismo Estatal y el Instituto actuarán en coordinación con las dependencias y entidades del Gobierno del Estado y de los Municipios, según la competencia que les otorguen las leyes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -383,8 +363,6 @@ VI. Promoverán y gestionarán ante los municipios y demás entes públicos, de 
 
 El Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, es un organismo público descentralizado con personalidad jurídica y patrimonio propios, encargado de la asistencia social pública y demás funciones que le asigna este Código y las demás disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 18.
@@ -437,8 +415,6 @@ XXI. Mandar publicar en el periódico oficial El Estado de Jalisco los protocolo
 
 XXII. Las demás que establezcan las leyes aplicables en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
@@ -490,8 +466,6 @@ El Organismo Estatal quedará exento del pago de toda clase de contribuciones es
 La vigilancia financiera y administrativa, así como la práctica de auditorías en el Instituto, estará a cargo de la Contraloría del Estado en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, sin perjuicio de la intervención que corresponda a la Contaduría Mayor de Hacienda del Congreso del Estado.
 
 ### CAPITULO III. Organos del Organismo Estatal
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -583,8 +557,6 @@ IV. Tener cuando menos treinta años de edad al día de su nombramiento; y
 
 V. Haber residido en el Estado, por lo menos, los tres años anteriores al día del nombramiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 29.
@@ -645,13 +617,9 @@ VI. Actuar en representación del Organismo Estatal, con facultades generales pa
 
 VII. Las demás que sean necesarias para el ejercicio de sus funciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 #### Sección Cuarta. De la Procuraduría de Protección de Niñas, Niños y Adolescentes
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -661,15 +629,11 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes es la entidad p
 
 Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, guarda y custodia institucional, tutela y asistencia a niñas, niños y adolescentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 34.
 
 Para el cumplimiento de sus atribuciones en asuntos jurisdiccionales y administrativos la Procuraduría de Protección de Niñas, Niños y Adolescentes actuará de manera directa por conducto de agentes, o a través de delegados institucionales, de conformidad a la legislación de la materia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -695,8 +659,6 @@ VIII. Desarrollar los lineamentos y procedimientos a los que se sujetarán para 
 
 IX. Las demás previstas en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, este Código y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 36.
@@ -705,15 +667,11 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes solicitará al 
 
 Asimismo, solicitará la imposición de las medidas de apremio, previstas en la legislación estatal, en caso de incumplimiento de las medidas urgentes de protección.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 37.
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes substanciará de manera oficiosa o a petición de parte el procedimiento para la protección integral, asistencia social y, en su caso, restitución de los derechos de niñas, niños y adolescentes, conforme a lo previsto en la legislación de la materia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -725,8 +683,6 @@ Para realizar el diagnóstico a que se refiere el párrafo anterior, cuando exis
 
 La misma institución prevista en este artículo deberá coordinar la ejecución y dar seguimiento a las medidas de seguridad y protección que se dicten para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 39.
@@ -737,8 +693,6 @@ Asimismo, solicitará, con la representación en suplencia, a los oficiales del 
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes cuidará que en los casos que deriven en cambio de apellidos de cualquier niña, niño o adolescente, sea escuchada y tomada en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 40.
@@ -746,8 +700,6 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes cuidará que en
 La Procuraduría de Protección de Niñas, Niños y Adolescentes tendrá la representación coadyuvante de manera oficiosa, en todos los actos y procedimientos administrativos y jurisdiccionales en los que intervengan niñas, niños y adolescentes; y ejercerá la representación en suplencia a falta de quienes ejerzan la representación originaria de éstos, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez y a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
 
 Cuando tuviere conocimiento de hechos que se estimen delictivos que afecten a niñas, niños y adolescentes, deberá formular las denuncias ante el Ministerio Público.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -757,8 +709,6 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes, en coordinaci�
 
 Además, será coadyuvante de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los centros de asistencia social, en términos de lo previsto en la Ley de Asistencia Social.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 42.
@@ -767,15 +717,11 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes recibirá por p
 
 Asimismo, reportará semestralmente a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, la actualización de sus registros, así como los resultados de las visitas de supervisión efectuadas como coadyuvantes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 43.
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes recibirá de las personas interesadas en adoptar, la solicitud correspondiente y realizará las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción y, en su caso, emitirá el certificado de idoneidad respectivo, en los términos de lo dispuesto por las leyes aplicables, y lineamientos y procedimientos que correspondan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -784,8 +730,6 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes recibirá de la
 La Procuraduría de Protección de Niñas, Niños y Adolescentes deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, y de igual forma para las familias de acogida, de conformidad a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes y demás disposiciones legales aplicables.
 
 Coadyuvará con el Sistema Nacional DIF y los Sistemas de las Entidades en la elaboración de los lineamientos y procedimientos para los efectos previstos en el párrafo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -797,51 +741,35 @@ Cuando en el seguimiento se constante (sic) que no se consolidaron las condicion
 
 En caso de que se verifique cualquier tipo de violación a los derechos de niñas, niños o adolescentes asignados, la Procuraduría de Protección de Niñas, Niños y Adolescentes ejercerá las facultades que le otorgan la legislación general y estatal de la materia, y presentará el caso ante el Sistema Estatal DIF para la revocación de la asignación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 46.
 
 Los Sistemas DIF Municipales podrán realizar funciones de delegados institucionales, así como el Hogar Cabañas, en los términos y conforme a las disposiciones de este Código y las normas reglamentarias estatales y municipales respectivas, sin que tal delegación pueda ser ejercida por particulares.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 47.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 48.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 49.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 50.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 51.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 52.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 53.
 
@@ -909,15 +837,11 @@ VII. El importe de las indemnizaciones legales originadas por la comisión de ac
 
 VIII. El producto que se obtenga de la venta en subasta pública de los bienes mostrencos e instrumentos de delitos confiscados y permitidos por la ley, cuando no sean reclamados en el término de un año; con apego a lo que disponga la legislación civil o penal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 IX. Los productos que por los servicios de resguardo y custodia se realicen en la actualidad o que en el futuro se establezcan, de aquellos bienes que les sean remitidos en depósito legal por autoridades federales, estatales o municipales.
 
 La Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado ejercitará la facultad económica coactiva en contra de los propietarios de dichos bienes puestos en depósito, que adeuden 180 días o más de pensión, sin que sus propietarios o titulares de los derechos hayan tramitado su devolución ante las autoridades competentes, o que habiéndolo realizado, no lo notifique oportunamente al Instituto; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1227,15 +1151,11 @@ III. Sugerir a la Junta de Gobierno las medidas que juzgue convenientes para mej
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 72.
 
 El Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas, es un organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio que tendrá a su cargo la protección de niñas, niños y adolescentes que carecen de padres o familiares que los sostengan o que teniéndolos se encuentren en situación económica precaria o de abandono.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1321,8 +1241,6 @@ V. Las unidades técnicas y de administración que determinen las autoridades de
 
 #### Sección Primera. De la Junta de Gobierno
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 78.
@@ -1357,33 +1275,23 @@ Los cargos de consejeros a que se refiere el presente artículo serán honorífi
 
 Las sesiones de la Junta de Gobierno se llevarán a cabo en las instalaciones del Hogar Cabañas, previa convocatoria de su Presidente, pudiendo ser ordinarias o extraordinarias. Ambas deberán celebrarse en la fecha señalada por la convocatoria respectiva, debiendo las ordinarias celebrarse una vez al mes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 80.
 
 Serán facultades de la Junta de Gobierno las siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 I. Realizar en todo caso investigación socioeconómica a los familiares solicitantes de los servicios del Hogar Cabañas para que sólo ingresen aquellas niñas, niños y adolescentes cuya situación económica o moral así lo amerite;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 II. Previo el estudio específico en cada caso, procurar a las personas residentes un hogar familiar por medio de la adopción o de custodias temporales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 III. Proponer las medidas que tiendan a mejorar el tratamiento integral de las personas residentes, con el máximo rendimiento de sus recursos económicos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1505,8 +1413,6 @@ IV. Tener cuando menos treinta años de edad el día de su nombramiento; y
 
 V. Ser de reconocida honorabilidad y tener vocación de servicio social.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 85.
@@ -1539,13 +1445,9 @@ VII. Promover y gestionar ante toda clase de autoridades, personas físicas o ju
 
 VIII. Promover ante el Patronato las medidas que considere convenientes para mayor rendimiento del patrimonio del Hogar Cabañas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 IX. Cuidar que se conserve el orden en los diferentes departamentos del Hogar Cabañas, y de que todos los empleados y personas residentes cumplan con sus obligaciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1561,19 +1463,13 @@ XII. Vigilar que se observe la más estricta moralidad en los departamentos;
 
 XIII. Vigilar la comercialización de los artículos elaborados en el Hogar Cabañas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 XIV. Imponer medidas disciplinarias a las personas residentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 XV. Permitir a las personas residentes que visiten a sus familiares siempre que ello, no sea en perjuicio de su educación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1877,13 +1773,9 @@ Para el desempeño de las funciones que le atribuye este libro, la Procuraduría
 
 Los convenios a que se refiere el presente artículo, en ningún momento implicarán la substitución, en las facultades de la Procuraduría Social, por parte de las entidades con las que hubiere celebrado convenios. Cuando por virtud de dichos convenios, intervengan prestadores del servicio social o pasantes, se entiende que éstos actúan como auxiliares de los servidores públicos de la Procuraduría Social.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2016)</small>
 
 ### CAPÍTULO II. De la Defensoría Pública
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2016)</small>
 
@@ -1896,8 +1788,6 @@ En asuntos del orden penal, la defensoría pública deberá proporcionarse en lo
 En los juzgados especializados en materia penal y mixtos de primera instancia y en las Salas del Supremo Tribunal de Justicia del Estado que conozcan de asuntos del orden penal, la Procuraduría Social tendrá adscrito al menos un defensor.
 
 Habrá un coordinador para los defensores de oficio adscritos a las agencias del Ministerio Público.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2016)</small>
 
@@ -3186,3 +3076,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26859/LXI/18 QUE REFORMA EL ARTÍCULO 5°, DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 60 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
