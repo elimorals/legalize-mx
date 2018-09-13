@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2017-03-04"
+last_updated: "2018-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -697,23 +697,33 @@ VIII. Víctimas de delito;
 
 IX. Migrantes separados;
 
-X. Refugiados o desplazados;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-XI. Las embarazadas o que sean madres,
+X. Migrantes no acompañados;
 
-XII. Huérfanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+XI. Refugiados o desplazados;
 
-XIII. Los que carece (sic) de los cuidados parentales y se encuentren en instituciones de acogimiento o albergues destinados para este fin;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+XII. Las embarazadas o que sean madres;
 
-XIV. Con enfermedades o trastornos mentales; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2017)</small>
+XIII. Huérfanos,
 
-XV. Cualquier otra.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Los que carece (sic) de los cuidados parentales y se encuentren en instituciones de acogimiento o albergues destinados para este fin;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Con enfermedades o trastornos mentales; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Cualquier otra.
 
 ###### Artículo 61.
 
@@ -1624,3 +1634,9 @@ P.O. 4 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26277/LXI/17 QUE REFORMA LOS ARTÍCULOS 188 Y 191 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; 20, 30, 63 Y 64 DE LA LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO, Y 60 Y 61 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26859/LXI/18 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 60 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
