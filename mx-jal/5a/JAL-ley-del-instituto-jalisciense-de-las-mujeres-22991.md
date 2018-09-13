@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-jalisciense-de-las-mujeres-22991"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-29"
-last_updated: "2014-04-08"
+last_updated: "2018-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 29 de diciembre de 2001.
 
@@ -95,11 +95,11 @@ X. El Consejo: Consejo Ciudadano del Instituto Jalisciense de las Mujeres;
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
 
-XI. El Sistema Estatal: El Sistema Estatal para Prevención, Detección, Atención, Sanción y Erradicación la (sic) Violencia contra las Mujeres, y
+XI. El Sistema Estatal: El Sistema Estatal para Prevención, Detección, Atención, Sanción y Erradicación (sic) la Violencia contra las Mujeres, y
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
 
-XII. El Programa Estatal: El Programa Estatal para Prevención, Detección, Atención y Erradicación la (sic) Violencia contra las Mujeres.
+XII. El Programa Estatal: El Programa Estatal para Prevención, Detección, Atención y Erradicación (sic) la Violencia contra las Mujeres.
 
 ### Capítulo II. Del Instituto
 
@@ -261,13 +261,21 @@ XXV. Elaborar su presupuesto de egresos conforme lo establece la Ley de Presupue
 
 XXVI. Ser representante del Poder Ejecutivo del Estado ante los gobiernos federal y municipal, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el ejecutivo solicite su participación para el análisis, información y toma de decisiones sobre la situación de las mujeres en el Estado;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-XXVII. Elaborar, coordinar, aplicar y evaluar, auxiliándose de las demás autoridades integrantes del Sistema Estatal, el Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres, y
+XXVII. Elaborar, coordinar, aplicar y evaluar, auxiliándose de las demás autoridades integrantes del Sistema Estatal, el Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres;
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-XXVIII. Las demás que le otorgue la presente ley y otros ordenamientos legales y reglamentarios.
+XXVIII. Fomentar y promover la inclusión de la perspectiva de género en el funcionamiento y actuación de los órganos judiciales del Consejo de la Judicatura del Estado y del Supremo Tribunal de Justicia del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+XXIX. En materia de justicia penal para adolescentes, proporcionar atención y asesoramiento jurídico, atención psicológica, así como canalizar ante las autoridades correspondientes, a padres, madres o tutores, que lo soliciten, de mujeres adolescentes a quienes se les impute o resulten responsables en la comisión de hechos tipificados como delitos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+XXX. Las demás que le otorgue la presente ley y otros ordenamientos legales y reglamentarios.
 
 ###### Artículo 9.
 
@@ -694,3 +702,11 @@ P.O. 25 DE MAYO DE 2013.
 P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26857/LXI/18 QUE REFORMA LOS ARTÍCULOS 5°, 8°, 58 Y 72 Y SE DEROGA EL ARTÍCULO 58 BIS (SIC) DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 8° DE LA LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES; REFORMA LOS ARTÍCULOS 6° Y 11 DE LA LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 10 Y 18 Y SE ADICIONA EL ARTÍCULO 10 BIS DE LA LEY ÓRGANICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO, Y SE REFORMA (SIC) LOS ARTÍCULOS 3°, 16, 27 Y 29 DE LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Comisaría de Justicia para Adolescentes del Estado, como Órgano Desconcentrado Especializado de la Fiscalía de Reinserción Social operará con los recursos asignados previo a esta reforma, y se deberán respetar los derechos laborales del personal a su cargo.
