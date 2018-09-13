@@ -4,7 +4,7 @@ identifier: "SON-reglamento-del-comite-de-vigilancia-y-fiscalizacion-del-46670"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-17"
-last_updated: "2005-10-17"
+last_updated: "2018-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "SON"
 ---
 # REGLAMENTO DEL COMITE DE VIGILANCIA Y FISCALIZACION DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-REGLAMENTO DEL COMITE DE VIGILANCIA Y FISCALIZACION DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
+REGLAMENTO DEL COMITÉ DE VIGILANCIA Y FISCALIZACIÓN DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 17 de octubre de 2005.
 
@@ -60,7 +60,7 @@ Director: al Director General del Instituto;
 
 Secretario: al Secretario Técnico del Comité;
 
-Representante (s): al representante o representantes de cada uno de los organismos y sindicatos convocados al Comité; (sic)
+Representante (s): al representante o representantes de cada uno de los organismos y sindicatos convocados al Comité;
 
 ###### ARTÍCULO 3.
 
@@ -76,9 +76,11 @@ El Director será el Secretario Técnico del Comité, quien en caso de ausencia 
 
 ### CAPÍTULO II. DE LA CONFORMACIÓN DEL COMITÉ
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 6.
 
-El Comité estará conformado por 10 representantes de entre los organismos adscritos al Instituto incluyendo al Director de éste, de la siguiente manera:
+El Comité estará conformado por 10 representantes de entre los organismos adscritos al instituto Incluyendo al Director de este, de la siguiente manera:
 
 I.- Un representante de la Secretaría de Hacienda del Estado de Sonora;
 
@@ -94,6 +96,10 @@ VI.- Un representante elegido de entre los Organismos Públicos Descentralizados
 
 Todos los representantes deberán contar con un suplente registrado ante el Comité, no obstante, aquellos representantes descritos en las fracciones IV, V y VI deberán contar con un representante sustituto y un suplente, los cuales deberán pertenecer a instituciones, ayuntamientos u organismos diversos al cual pertenezca el representante titular.
 
+> <small>(ADICIONADO, B.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+El titular del Órgano de Control y Desarrollo Administrativo en el ISSSTESON, podrá asistir a las sesiones del Comité, como invitado con derecho de voz.
+
 ###### ARTÍCULO 7.
 
 La elección de los candidatos y el modo de hacerla es libre para cada una de las instituciones, ayuntamientos y organismos que pretendan integrarse al Comité.
@@ -106,9 +112,11 @@ Los representantes descritos en las fracciones IV, V y VI serán nombrados para 
 
 En los casos previstos en las fracciones IV V y VI del artículo 6º de este reglamento, el Director deberá proporcionar a la Junta Directiva el listado de los organismos incorporados al régimen de la Ley y la conformación de los grupos respectivos, a efecto de que se integre la convocatoria para nombramiento de los representantes al Comité.
 
+> <small>(REFORMADO, B.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 10.
 
-Cada ocasión que deban nombrarse representantes y suplentes al Comité, la información necesaria para conformar los grupos a que se refiere el artículo anterior deberá actualizarse y proporcionarse por el Director, para el efecto de que la Junta Directiva expida la convocatoria pertinente.
+Cada ocasión que deban nombrarse representantes y suplentes del Comité, la información necesaria para conformar los grupos a que se refiere el artículo anterior deberá actualizarse y proporcionarse por el Director, la Junta Directiva podrá realizar directamente los nombramientos, o expedir la convocatoria pertinente.
 
 ###### ARTÍCULO 11.
 
@@ -130,21 +138,29 @@ El Comité tendrá las siguientes atribuciones:
 
 I.- Exigir y obtener del Director General un informe trimestral sobre el manejo financiero de todos los fondos del Instituto.
 
-II.- Exigir y obtener del Director General un informe detallado del comportamiento del sistema de pensiones con la periodicidad que el propio Comité determine.
+> <small>(REFORMADA, B.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+II.- Solicitar y obtener del Director General un informe semestral sobre el sistema de pensiones.
 
 III.- Exigir y obtener del Director General un dictamen semestral de los estados financieros del Instituto.
 
-IV.- Obtener del Contador Mayor de Hacienda del Congreso, o del órgano que lo substituya, información relativa al estado financiero y el resultado de las auditorias, inspecciones y visitas que se le practiquen al Instituto.
+> <small>(REFORMADA, B.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- Solicitar al Instituto Superior de Auditoría y Fiscalización del Estado, la información relacionada con las auditorías, inspecciones y visitas que se le practiquen al Instituto.
 
 V.- Participar en el procedimiento de contratación de los auditores externos que elaboren los dictámenes sobre los estados financieros del Instituto, con la facultad especial de vetar, con las dos terceras partes del voto del Comité, la contratación de auditores.
 
-VI.- Definir las acciones que se consideren necesarias y conducentes al cumplimiento de los objetivos y metas del Instituto, según se encuentren previstos en los presupuestos y programas respectivos.
+> <small>(REFORMADA, B.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+VI.- Proponer las acciones que consideren conducentes para el cumplimiento de los objetivos y metas del Instituto, conforme lo previsto en los presupuestos y programas del Instituto.
 
 VII.- Obtener, analizar y, en su caso, opinar sobre la valoración actuarial del Instituto.
 
-VIII.- Cada vez que lo considere conveniente, examinar la suficiencia de las aportaciones y el cumplimiento de los programas anuales de constitución de reservas.
+> <small>(REFORMADA, B.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-IX.- Intervenir como coadyuvante de la Contraloría General en las auditorias y procedimientos de revisión que ésta practique sobre el Instituto.
+VIII.- Solicitar y obtener del Director General un informe semestral sobre la suficiencia de las aportaciones y el cumplimiento de los programas anuales de constitución de reservas.
+
+IX.- (DEROGADA, B.O. 13 DE SEPTIEMBRE DE 2018)
 
 ###### ARTÍCULO 13.
 
@@ -202,9 +218,11 @@ VI.- Comunicar los acuerdos del Comité a quien corresponda para su seguimiento 
 
 VII.- Las demás que señale este reglamento.
 
+> <small>(REFORMADO, B.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 23.
 
-Los acuerdos del Comité deberán comunicarse de inmediato a quien corresponda. El oficio que contenga la comunicación deberá asentar el acuerdo o un extracto del mismo y los datos generales de la sesión respectiva, así como el fundamento legal en que se apoya la atribución y resolución del Comité, siendo el Secretario el responsable de su ejecución y seguimiento.
+Los acuerdos del Comité deberán comunicarse de inmediato a la Junta Directiva. El oficio que contenga la comunicación deberá asentar el acuerdo o un extracto del mismo y los datos generales de la sesión respectiva, así como el fundamento legal en la (sic) que se apoya la atribución y resolución del Comité, el Secretario será el responsable de su ejecución y seguimiento.
 
 ### CAPÍTULO V. DEL TRÁMITE DE LOS ACUERDOS DEL COMITÉ
 
@@ -212,9 +230,11 @@ Los acuerdos del Comité deberán comunicarse de inmediato a quien corresponda. 
 
 La información solicitada al Director General del Instituto deberá ser proporcionada oportunamente a los integrantes del Comité.
 
+> <small>(REFORMADO, B.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 25.
 
-Las valoraciones del Comité respecto al manejo del gasto e inversión de los recursos del Instituto, serán consideradas para la definición de la política financiera del mismo y estas serán exhibidas en internet y publicadas anualmente en el o medios de comunicación impresos que para el efecto designe el Comité.
+Las valoraciones del Comité respecto al manejo del gasto e inversión de los recursos del Instituto, se comunicarán a la Junta Directiva, para que las considere en la definición de la política financiera del mismo, las que se publicaran en internet y anualmente en el o medios de comunicación impresos que para el efecto designe el Comité.
 
 ###### ARTÍCULO 26.
 
@@ -261,3 +281,17 @@ Representante de la Sección 54 del Sindicato Nacional de Trabajadores de la Edu
 LIC. DANIEL VALENZUELA GUEVARA
 
 Secretario Técnico
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA, ADICIONES (SIC) Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL COMITÉ DE VIGILANCIA Y FISCALIZACIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 30 días siguientes a la entrada en vigor de las presentes reformas, la Junta Directiva emitirá la convocatoria para que los organismos incorporados al Instituto, propongan la designación de sus representantes, realice la designación y notificación a los representantes designados para que se presenten a la toma de protesta e instalación del Comité de Vigilancia y Fiscalización del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora.
