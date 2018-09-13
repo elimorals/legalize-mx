@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2018-04-26"
+last_updated: "2018-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
@@ -59,11 +59,13 @@ I. En materia de defensoría pública:
 
 a) Organizar la defensoría pública en el Estado;
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
 b) Representar y defender a los imputados en todas las etapas de los procedimientos penales, o hasta que éste nombre defensor particular; y
 
-c) Representar a los adolescentes infractores en todas las etapas de los procedimientos contemplados por la Ley de Justicia Integral para Adolescentes del Estado, o hasta que éstos nombren defensor particular.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+c) Representar y defender a las personas adolescentes y adultos jóvenes sujetos al Sistema Integral de Justicia Penal para Adolescentes, a través de defensores especializados, en todas las etapas del procedimiento en los términos de la Ley Nacional de la materia, hasta que concluyan, o bien, designen defensor particular.
 
 II. En materia de representación social:
 
@@ -349,13 +351,15 @@ V. Generar estadísticas respecto del desempeño de la función de la Subprocura
 
 VI. Las demás que le confiera el Código Nacional de Procedimientos Penales, esta Ley, el Reglamento y otros ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 16.
 
-La Procuraduría Social adscribirá los defensores públicos que se requieran y permita la capacidad presupuestal en:
+La Procuraduría Social, adscribirá a los defensores públicos que se requieran y permita la capacidad presupuestal en:
 
-I. Las Agencias del Ministerio Público, incluidas las especializadas para adolescentes;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+I. Las Agencias del Ministerio Público, incluidas las especializadas en el Sistema Integral de Justicia Penal para Adolescentes;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -363,7 +367,9 @@ II. Los juzgados de control, tribunales de enjuiciamiento, civiles, mixtos o esp
 
 III. Las salas del Supremo Tribunal de Justicia especializadas en asuntos del orden penal y familiar;
 
-IV. Los Juzgados para adolescentes;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Los Juzgados de Control y Juicio Oral especializados en el Sistema Nacional Integral de Justicia Penal para adolescentes;
 
 V. La Sala especializada para adolescentes; y
 
@@ -541,7 +547,7 @@ IV. Las demás que le asignen la presente ley y las demás disposiciones aplicab
 
 La prestación de los servicios públicos de defensoría pública, representación social, y servicios jurídicos asistenciales, está a cargo de la Procuraduría Social y se ejercen a través de los defensores públicos y agentes sociales nombrados por ésta y comisionados, bien sea a las subprocuradurías, Dirección General de Visitaduría y despacho del Procurador; de acuerdo al principio de especialización
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 27.
 
@@ -551,7 +557,9 @@ I. Ser ciudadano mexicano en pleno uso de sus derechos;
 
 II. Tener veinticinco años de edad al día de su nombramiento;
 
-III. Poseer el día de su nombramiento título profesional de licenciado en derecho o equivalente, con antigüedad mínima de tres años, expedido por autoridad o institución legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+III. Poseer el día de su nombramiento título profesional de licenciado en derecho o equivalente, expedido por autoridad o institución legalmente facultada para ello;
 
 IV. Tener registrado ante la Dirección de Profesiones del Estado, su título profesional y acreditar por lo menos dos años de experiencia en el ejercicio de alguna de las ramas del derecho afines a los objetivos de la Procuraduría; y
 
@@ -559,7 +567,9 @@ V. Gozar de buena reputación y no haber sido condenado por delito doloso que am
 
 VI. Tener la mayor puntuación de entre los aspirantes que reúnan la totalidad de los requisitos de elección; y
 
-VII. Los demás que se establezcan en la convocatoria que se expida al efecto.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+VII. En el caso de la Defensoría Pública para el Sistema Integral de Justicia Penal para adolescentes, se deberá además tener conocimientos interdisciplinarios en materia de niños, niñas y adolescentes, así como preparación específica del Sistema especializado para Adolescentes, del sistema penal acusatorio, de prevención del delito y habilidades para el trabajo con adolescentes.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -571,11 +581,11 @@ Los defensores públicos y los agentes sociales de la Procuraduría Social deber
 
 ### Capítulo Primero. De la Dirección General de Visitaduría
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 29.
 
-La Dirección General de Visitaduría es el área encargada de practicar las visitas de inspección a las notarías públicas en el Estado, las oficinas del Registro Civil y del Registro Público de la Propiedad, cárceles municipales y estatales, instituciones que atiendan a niñas, niños y adolescentes, organismos de asistencia social en la forma y los términos que determinen la leyes; realizar las funciones de inspección y vigilancia que las leyes confieren a la Procuraduría Social, en los procedimientos administrativos no contenciosos, y le corresponde substanciar los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a la Procuraduría Social para su resolución definitiva.
+La Dirección General de Visitaduría es el área encargada de practicar las visitas de inspección a las notarías públicas en el Estado, las oficinas del Registro Civil y del Registro Público de la Propiedad, cárceles municipales y estatales, centros de internamiento especializados en adolescentes, instituciones que atiendan a niñas, niños y adolescentes, organismos de asistencia social en la forma y los términos que determinen las leyes; realizar las funciones de inspección y vigilancia que las leyes confieren a la Procuraduría Social, en los procedimientos administrativos no contenciosos; y le corresponde substanciar los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a la Procuraduría Social para su resolución definitiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
@@ -984,3 +994,11 @@ P.O. 26 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26749/LXI/18 QUE REFORMA LOS ARTÍCULOS 3° Y 18 DE LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26857/LXI/18 QUE REFORMA LOS ARTÍCULOS 5°, 8°, 58 Y 72 Y SE DEROGA EL ARTÍCULO 58 BIS DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 8° DE LA LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES; REFORMA LOS ARTÍCULOS 6° Y 11 DE LA LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 10 Y 18 Y SE ADICIONA EL ARTÍCULO 10 BIS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO, Y SE REFORMA LOS ARTÍCULOS 3°, 16, 27 Y 29 DE LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Comisaría de Justicia para Adolescentes del Estado, como Órgano Desconcentrado Especializado de la Fiscalía de Reinserción Social operará con los recursos asignados previo a esta reforma, y se deberán respetar los derechos laborales del personal a su cargo.
