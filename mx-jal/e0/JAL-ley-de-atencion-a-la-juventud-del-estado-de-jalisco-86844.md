@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-la-juventud-del-estado-de-jalisco-86844"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-24"
-last_updated: "2017-03-04"
+last_updated: "2018-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la sección III del Periódico Oficial del Estado de Jalisco, el sábado 24 de marzo de 2012.
 
@@ -131,7 +131,9 @@ III. Manifiestan discapacidad física o mental;
 
 IV. Se encuentren en situación de calle;
 
-V. Hayan sido víctimas de algún delito en el que hubiese sido vulnerada su integridad física o mental;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+V. Hayan sido víctimas de algún delito en el que hubiese sido vulnerada su integridad física o mental, así como aquellos entre los doce años y menores de dieciocho años que se encuentren en conflicto con la ley;
 
 VI. Jóvenes embarazadas en situación especial, de conformidad con lo que establece el Código de Asistencia Social;
 
@@ -223,7 +225,9 @@ XVII. La protección de sus datos personales que proporcione al utilizar las tec
 
 XVIII. Contar con instalaciones y programas adecuados a sus necesidades, con el objetivo de lograr su desarrollo personal y profesional de forma integral, y
 
-XIX. La reinserción social integral, así como a acceder a beneficios y apoyos que le permitan desarrollarse de manera efectiva.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. La reinserción social integral, así como a acceder a beneficios y apoyos que le permitan desarrollarse de manera efectiva, especialmente a aquéllos que tengan doce años y sean menores de dieciocho años de edad, que se encuentran en conflicto con la ley apegándose a lo dispuesto en el Sistema Integral de Justicia para Adolescentes en el Estado.
 
 ###### Artículo 12.
 
@@ -391,7 +395,7 @@ El Consejo Estatal de la Juventud se encuentra conformado por:
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
 
-l. El Director General del Instituto.
+I. El Director General del Instituto.
 
 II. Los integrantes de la sociedad civil, representados por los titulares de:
 
@@ -694,3 +698,11 @@ P.O. 4 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26274/LXI/17 QUE REFORMA LOS ARTÍCULOS 26 Y 27 DE LA LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26857/LXI/18 QUE REFORMA LOS ARTÍCULOS 5°, 8°, 58 Y 72 Y SE DEROGA EL ARTÍCULO 58 BIS (SIC) DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 8° DE LA LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES; REFORMA LOS ARTÍCULOS 6° Y 11 DE LA LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 10 Y 18 Y SE ADICIONA EL ARTÍCULO 10 BIS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO, Y SE REFORMA (SIC) LOS ARTÍCULOS 3°, 16, 27 Y 29 DE LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Comisaría de Justicia para Adolescentes del Estado, como Órgano Desconcentrado Especializado de la Fiscalía de Reinserción Social operará con los recursos asignados previo a esta reforma, y se deberán respetar los derechos laborales del personal a su cargo.
