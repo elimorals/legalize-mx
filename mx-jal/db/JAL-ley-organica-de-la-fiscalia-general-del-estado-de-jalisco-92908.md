@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-general-del-estado-de-jalisco-92908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2017-10-31"
+last_updated: "2018-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 27214/LXII/18, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 27 de febrero de 2013.
 
@@ -277,7 +279,25 @@ III. Comisaría de seguridad penitenciaría;
 
 IV. Comisaría de atención a preliberados y liberados; y
 
-V. Comisaría de justicia para adolescentes.
+V. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2018)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+De igual forma, contará con un Órgano Desconcentrado Especializado denominado Comisaría de Justicia para Adolescentes del Estado de Jalisco, encargado de ejecutar, supervisar y dar seguimiento a las medidas cautelares y medidas de sanción impuestas por las autoridades competentes a las personas sujetas al Sistema de Justicia Penal para Adolescentes, así como, dirigir, coordinar, organizar y supervisar las áreas de evaluación de riesgos, medidas cautelares, suspensión condicional del proceso, medidas de sanción no privativas de libertad, medidas de sanción privativas de libertad y centros de internamiento para adolescentes que la integran, garantizando en todo momento los derechos humanos e interés superior de niñas, niños y adolescentes y demás facultades y obligaciones que le confiera la Ley Nacional de la Materia y los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 10 Bis.
+
+La Comisaría de Justicia para Adolescentes del Estado de Jalisco contará con autonomía técnica, operativa y de gestión, la cual contará con las siguientes áreas:
+
+I. Área de evaluación de riesgos;
+
+II. Área de seguimiento y supervisión de medidas cautelares distintas a la prisión preventiva y de suspensión condicional del proceso;
+
+III. Área de seguimiento y supervisión de medidas de sanción no privativas de la libertad; y
+
+IV. Área de seguimiento y supervisión de medidas de sanción privativas de la libertad.
 
 ###### Artículo 11.
 
@@ -611,27 +631,39 @@ VI. Las demás que le atribuyan expresamente las leyes o reglamentos.
 
 La Fiscalía General del Estado tiene las siguientes atribuciones en materia de Justicia para Adolescentes:
 
-I. Realizar en cada asunto de su conocimiento, con motivo de la investigación y persecución de conductas tipificadas como delitos atribuidas a adolescentes, el análisis, el diagnóstico del caso, el plan de trabajo y la bitácora de las acciones de investigación;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-II. Velar en todo momento, en los asuntos de su conocimiento, por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de las personas sujetas a la ley en materia de justicia para adolescentes, en lo que sea competencia del estado, así como de las víctimas u ofendidos de los hechos probablemente realizados por los adolescentes;
+I. Realizar en cada asunto de su conocimiento, con motivo de la investigación y persecución de conductas tipificadas como delitos atribuidas a adolescentes o personas adultas jóvenes mediante personal ministerial y policial especializado, con los requisitos previstos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, el análisis, el diagnóstico del caso, el plan de trabajo y la bitácora de las acciones de investigación;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+II. Velar en todo momento, en los asuntos de su conocimiento, por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de las personas sujetas a la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, así como de las víctimas u ofendidos de los hechos probablemente realizados por los adolescentes;
 
 III. Informar de inmediato al adolescente, a sus familiares y a su defensor su situación jurídica, así como los derechos que les asisten;
 
-IV. Realizar lo conducente para que sea asignado al adolescente un defensor público para adolescentes desde el momento en el que sea puesto a su disposición;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-V. Resolver dentro de los plazos y términos previstos en la Ley Federal de Justicia para Adolescentes y en su caso la situación jurídica de los adolescentes que sean puestos a su disposición;
+IV. Realizar lo conducente para que sea asignado al adolescente un defensor público especializado para adolescentes en los términos de la ley de la materia, desde el momento en el que sea puesto a su disposición;
 
-VI. Formular la remisión y poner inmediatamente a los adolescentes a disposición del Juez Especializado para Adolescentes, en los casos en que resulte procedente;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+V. Resolver dentro de los plazos y términos previstos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, en su caso, la situación jurídica de los adolescentes que sean puestos a su disposición;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Ejercitar la acción penal y poner inmediatamente a los adolescentes a disposición del Juez Especializado para Adolescentes, en los casos en que resulte procedente;
 
 VII. Procurar, en los casos de querella necesaria, la conciliación entre el adolescente y la víctima u ofendido;
 
 VIII. Garantizar que durante la fase de detención, no se mantenga al adolescente incomunicado ni se le coaccione, intimide, someta a torturas u otros tratos o penas crueles, inhumanas o degradantes y que se satisfagan sus derechos a la alimentación y a la salud, así como los demás que apliquen a su situación;
 
-IX. Dirigir las investigaciones que sean conducentes para formular el escrito de atribución de hechos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Dirigir las investigaciones que sean conducentes para de ser procedente ejercitar acción penal;
 
 X. Valorar los resultados de su investigación con el fin de determinar la posición del órgano respecto del caso;
 
-XI. Formular el escrito de atribución de hechos;
+XI. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2018)
 
 XII. Realizar durante el procedimiento todas las actuaciones necesarias para la procuración de la justicia, incluyendo ofrecimiento de pruebas, formulación de agravios, alegatos e interposición de recursos;
 
@@ -639,7 +671,9 @@ XIII. Asesorar a la víctima o al ofendido durante la fase de investigación y j
 
 XIV. Solicitar la reparación del daño a la víctima u ofendido cuando proceda, y realizar todas las acciones tendientes a obtenerla, y
 
-XV. Las demás que determine la ley.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Las demás que determine la ley de la materia y el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 19.
 
@@ -1370,3 +1404,11 @@ CUARTO. Por única ocasión, el Fiscal Especial en Combate a la Corrupción elec
 QUINTO. Para todos los efectos a que haya lugar, el Fiscal Especial en Combate a la Corrupción se entenderá como sinónimo de Fiscal Especializado en Combate a la Corrupción.
 
 SEXTO. Se derogan todas las disposiciones legales y reglamentarias que contravengan el presente decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26857/LXI/18 QUE REFORMA LOS ARTÍCULOS 5°, 8°, 58 Y 72 Y SE DEROGA EL ARTÍCULO 58 BIS (SIC) DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 8° DE LA LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES; REFORMA LOS ARTÍCULOS 6° Y 11 DE LA LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 10 Y 18 Y SE ADICIONA EL ARTÍCULO 10 BIS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO, Y SE REFORMA (SIC) LOS ARTÍCULOS 3°, 16, 27 Y 29 DE LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. La Comisaría de Justicia para Adolescentes del Estado, como Órgano Desconcentrado Especializado de la Fiscalía de Reinserción Social operará con los recursos asignados previo a esta reforma, y se deberán respetar los derechos laborales del personal a su cargo.
