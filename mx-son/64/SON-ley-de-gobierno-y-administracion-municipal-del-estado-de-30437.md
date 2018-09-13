@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2018-06-07"
+last_updated: "2018-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -1313,7 +1313,7 @@ IV. Las aportaciones y fuentes de recursos para integrar su patrimonio, así com
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2011)</small>
 
-V.- La forma de integración del órgano de gobierno que será de no menos de cinco ni más de quince miembros;
+V. La forma de integración del órgano de gobierno que será de no menos de cinco ni más de quince miembros;
 
 En ningún caso podrán ser miembros del órgano de gobierno: los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del órgano de gobierno o con el director general; las personas que tengan litigios pendientes con el organismo de que se trate; las personas sentenciadas por delitos patrimoniales y las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
@@ -1321,7 +1321,13 @@ En ningún caso podrán ser miembros del órgano de gobierno: los cónyuges y la
 
 En el caso de los integrantes del órgano de gobierno que no formen parte de la administración pública, con excepción del presidente del consejo consultivo del órgano de que se trate, mismo que se regirá de conformidad con su propia normatividad, éstos tendrán una duración en su encargo de tres años, con posibilidad de reelegirse hasta por un periodo igual de tres años y serán removidos de manera escalonada, atendiendo la forma y el procedimiento que para tal efecto establezca el ayuntamiento en el acuerdo de creación respectivo.
 
-VI. La manera de designar al director general y los requisitos que deberá reunir;
+> <small>(REFORMADA, B.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+VI. La manera de designar al director general y los requisitos que deberá reunir.
+
+(NOTA: EL 27 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO II, PARTE QUINTA Y SEXTA, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE FEBRERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+Tratándose de organismos operadores de agua potable, el director general deberá ser ciudadano mexicano, contar con título profesional expedido por institución con reconocimiento de validez oficial otorgado por las autoridades educativas; contar con experiencia probada en temas hidráulicos, de gestión del agua o administración de recursos hídricos; NO TENER ANTECEDENTES PENALES, no estar inhabilitado para ocupar cargos públicos y no tener parentesco hasta en el cuarto grado, sea consanguíneo o por afinidad, con el Presidente Municipal;
 
 VII. Las facultades y obligaciones del órgano de gobierno, señalando cuáles de dichas facultades son indelegables;
 
@@ -4284,3 +4290,11 @@ El presente Decreto se deberá publicar en el Boletín Oficial del Gobierno del 
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los 60 días anteriores a que el presente Decreto entre en vigor, la Secretaría de la Consejería Jurídica del Gobierno del Estado con el apoyo de las dependencias que considere necesario, deberán llevar a cabo la capacitación a los servidores públicos estatales y municipales encargados de aplicar la normatividad aquí aprobada.
+
+B.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 250, QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 108 DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
