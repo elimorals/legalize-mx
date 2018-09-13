@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-proteccion-y-apoyo-de-las-madres-jefas-de-86234"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2017-03-04"
+last_updated: "2018-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 14 de febrero de 2012.
 
@@ -55,11 +55,11 @@ LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JAL
 
 ° El presente ordenamiento tiene por objeto establecer y regular el apoyo y protección a las madres o padres jefes de familia, o a quien haga sus veces, que habitan en Jalisco en situación socioeconómica de precariedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 3.
 
-° Son sujetos beneficiarios de la presente ley cualquier persona, hombre o mujer, que integren una familia monoparental como sostén de la misma, y que tengan bajo su responsabilidad la manutención de menores de edad o adultos mayores, con relación sanguínea directa o transversal hasta el segundo grado, sin el apoyo económico de su cónyuge, concubinario, ni de cualquier otro miembro del núcleo familiar, de deudores alimentarios por sentencia judicial en los términos del Código Civil ni de institución pública o privada.
+° Son sujetos beneficiarios de la presente ley cualquier persona, hombre o mujer; que integren una familia monoparental como sostén de la misma, y que tengan bajo su responsabilidad la manutención de menores de edad, adultos mayores o personas con discapacidad total permanente y sin ningún ingreso económico, o personas con discapacidad que no puedan desempeñar actividades económicas que generen ingreso con relación sanguínea directa o transversal hasta el segundo grado, sin el apoyo económico de su cónyuge, concubinario, ni de cualquier otro miembro del núcleo familiar, de deudores alimentarios por sentencia judicial en los términos del Código Civil ni de institución pública o privada.
 
 Para efectos de la aplicación e interpretación de la presente ley y los programas que de ella se desprendan, debe entenderse como madres jefas de familia a los beneficiarios mencionados en este artículo.
 
@@ -101,6 +101,8 @@ V. Recibir una ayuda económica mensual una vez cumplimentados los requisitos de
 
 VI. Disfrutar plenamente de los derechos consignados en esta ley y en otras disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 8.
 
 ° Son condiciones de vulnerabilidad de las madres jefas de familia las siguientes:
@@ -111,9 +113,9 @@ I. Asumir la responsabilidad de la manutención de sus hijos e hijas, en forma �
 
 II. La minoría de edad de sus dependientes económicos;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-III. La incapacidad de sus dependientes económicos;
+III. La discapacidad de su dependiente económico, ya sea que se trate de una persona con discapacidad total permanente y sin ningún ingreso económico, o una persona con discapacidad que no puedan desempeñar actividades económicas que generen ingreso;
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
@@ -137,9 +139,9 @@ Las madres jefas de familia deberán cumplir, al menos, con los siguientes requi
 
 I. Ser mexicana y tener mínimo cinco años de residencia comprobables en el territorio jalisciense;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-II. Acreditar que tienen menores descendientes o ascendentes a su cargo o en su caso dependientes económicos menores de edad unidos en parentesco consanguíneo transversal hasta el segundo grado;
+II. Acreditar que tienen menores descendientes o ascendientes a su cargo o en su caso dependientes económicos menores de edad unidos en parentesco consanguíneo transversal hasta el segundo grado, o personas con discapacidad total permanente y sin ningún ingreso económico, o personas con discapacidad que no puedan desempeñar actividades económicas que generen ingreso;
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
@@ -231,7 +233,9 @@ Las dependencias y entidades estatales y municipales, si es el caso, podrán cel
 
 Se crea el Consejo Estatal para la Protección de las Madres Jefas de Familia como un órgano público auxiliar de la Secretaría de Desarrollo e Integración Social, con funciones técnicas, de gestión y de consulta.
 
-El Consejo será honorífico y su objeto es la elaboración de propuestas, programas, políticas públicas y acciones en materia de protección a las madres jefas de familia, con el fin de mejorar sus condiciones de vida y las de sus hijos.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+El Consejo será honorífico y su objeto es la elaboración de propuestas, programas, políticas públicas y acciones en materia de protección a las madres jefas de familia, con el fin de mejorar sus condiciones de vida y las de sus hijos, o en su caso, sus dependientes económicos, de conformidad con lo establecido en el artículo 3 de la presente ley.
 
 El Ejecutivo podrá crear la estructura administrativa mínima necesaria para su funcionamiento en el reglamento de la materia.
 
@@ -386,3 +390,15 @@ P.O. 4 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26278/LXI/17 QUE REFORMA LOS ARTÍCULOS 11, 15, 16, 20, 21 Y 22 DE LA LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26854/LXI/18 QUE REFORMA LOS ARTÍCULOS 3°, 8°, 10 Y 20 DE LA LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Consejo Estatal de Protección de las Madres Jefas de Familia deberá adecuar los programas del mismo dentro de los 60 días siguientes al día que entre en vigor la presente ley.
+
+TERCERO. El Ejecutivo del Estado deberá realizar las adecuaciones necesarias al Reglamento correspondiente del Consejo Estatal de Protección de las Madres Jefas de Familia para el debido cumplimiento del presente decreto.
+
+CUARTO. El Presupuesto de Egresos del Estado de Jalisco del próximo año deberá tomar en cuenta el presente decreto.
