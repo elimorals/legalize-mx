@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-cuidado-de-los-animales-del-estado-de-90455
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-29"
-last_updated: "2018-03-01"
+last_updated: "2018-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE PROTECCION Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 29 de noviembre de 2012.
 
@@ -79,19 +81,13 @@ VII. Enfermedades zoonóticas: cualquier enfermedad que puede transmitirse de an
 
 VIII. Secretaría: Secretaría de Salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 IX. Médico: médico veterinario zootecnista titulado con cédula profesional vigente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 X. Consejo: Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -119,25 +115,17 @@ III. El buen trato.
 
 I. Celebrar convenios de coordinación con las autoridades federales y municipales para la generación de políticas públicas en materia de protección animal, así como para el cumplimiento de los ordenamientos en la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 II. La promoción de información y difusión que genere una cultura cívica de protección a favor de los animales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 III. Promover la colocación de animales que se utilicen en espectáculos circenses dentro (sic) lugares apropiados para su debida preservación y conservación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
 
 IV. Presentar denuncias ante la Procuraduría Federal de Protección al Ambiente cuando detecte violaciones a las leyes federales de la materia; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -165,7 +153,9 @@ II. Expedir la licencia sanitaria e inspeccionar los establecimientos donde se r
 
 III. La regulación y el control sanitario de establos, granjas, zahúrdas y demás establecimientos de cría o explotación de animales;
 
-IV. La creación de los centros antirrábicos, en coordinación con los ayuntamientos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+IV. La creación de los centros de control animal, en coordinación con los ayuntamientos;
 
 V. Realizar campañas de vacunación antirrábica, sanitarias para el control y erradicación de enfermedades zoonóticas y de esterilización;
 
@@ -237,25 +227,17 @@ X. Promover la participación de las personas, las asociaciones protectoras de a
 
 XI. Controlar el crecimiento de las poblaciones de aves urbanas empleando sistemas inofensivos o reubicarlas, cuando resulte necesario para evitar que causen problemas a las estructuras, edificaciones, obras artísticas y demás análogas en áreas públicas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 XII. Controlar la formación de poblaciones federales (sic) mediante estrategias que no provoquen sufrimiento en los animales, para evitar daños en las personas, cosas u otros animales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 XIII. La autoridad municipal competente, deberá asegurar que en el otorgamiento de licencia o permiso para la instalación de circos, se acredite que no exhiban o utilicen ningún animal para la ejecución del espectáculo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
 
 XIV. Presentar denuncias ante la Procuraduría Federal de Protección al Ambiente cuando detecte violaciones a las leyes federales de la materia; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -411,8 +393,6 @@ Toda persona que compre o adquiera por cualquier medio un animal está obligada 
 
 Está prohibido realizar cualquier acto que lesione y provoque sufrimiento a los animales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 29
@@ -473,7 +453,7 @@ II. Contar con la licencia municipal correspondiente;
 
 III. Contar con licencia sanitaria;
 
-IV. Disponer de comida, agua, espacios para dormir y moverse con comodidad, evitando el hacinamiento y procurando la temperatura apropiada; quedando estrictamente prohibido, en el caso de los animales domésticos, la sobrexplotación de las hembras, tenerlas permanentemente enjauladas y sacarlas únicamente para el apareamiento. Se deberá contar para todas las especies con espacios suficientemente amplios con luz natural, para que deambulen con comodidad;
+IV. Disponer de comida, agua, espacios para dormir y moverse con comodidad, evitando el hacinamiento y procurando la temperatura apropiada; quedando estrictamente prohibido, en el caso de los animales domésticos, la sobrexplotación (sic) de las hembras, tenerlas permanentemente enjauladas y sacarlas únicamente para el apareamiento. Se deberá contar para todas las especies con espacios suficientemente amplios con luz natural, para que deambulen con comodidad;
 
 V. Proporcionar el cuidado diario, quedando estrictamente prohibido dejarlos sin la atención debida durante los días no laborables;
 
@@ -561,7 +541,11 @@ Las personas físicas y jurídicas que organicen eventos para otorgar animales e
 
 ### Capítulo VIII. De los centros de control animal
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 50.
+
+Los Centros de Control Animal serán públicos y se destinarán a la atención, protección y cuidado integral de animales domésticos, así como aquellos que realicen acciones análogas dependientes del municipio en el que se encuentren.
 
 Los municipios deberán promover el establecimiento de Centros de Control Animal.
 
@@ -771,8 +755,6 @@ Se impondrán multas de diez a trescientas veces el valor diario de la Unidad de
 
 Se sancionará con el equivalente de quinientos a dos mil veces el valor diario de la Unidad de Medida y Actualización a quién realice espectáculos circenses públicos o privados en los cuales exhiban o utilicen animales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2015)</small>
 
 La sanción señalada en el párrafo que antecede se aplicará independientemente de las sanciones que disponga el Código Penal para el Estado Libre y Soberano de Jalisco.
@@ -888,3 +870,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. A la publicación del presente decreto, los ayuntamientos del Estado de Jalisco, contarán con un periodo de ciento veinte días naturales para emitir el reglamento o disposiciones administrativas correspondientes sobre la disposición final de los animales.
 
 TERCERO. Para efectos del cumplimiento de este decreto, los ayuntamientos considerarán en su Ley de Ingresos de cada año, el cobro sobre la disposición final del cadáver animal.
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26858/LXI/18, QUE REFORMA LOS ARTÍCULOS 6° Y 50 DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Dentro de los 180 días naturales siguientes a la entrada en vigor de este decreto, las autoridades correspondientes deberán realizar las adecuaciones pertinentes en su presupuesto, reglamentos y cualquier otra disposición vinculada y necesaria para su debida aplicación.
