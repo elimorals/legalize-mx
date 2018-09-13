@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2018-09-01"
+last_updated: "2018-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2403,13 +2403,17 @@ Tienen derecho a pedir la ilegitimidad a que se refiere la fracción VIII del ar
 
 #### Sección Cuarta. De la ilicitud en el matrimonio
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 393.
 
 Produce ilicitud en el matrimonio:
 
 I. El matrimonio celebrado en contravención a lo dispuesto en los artículos relativos a las actas de matrimonio de la Ley del Registro Civil del Estado;
 
-II. El matrimonio celebrado, sin que hayan transcurrido los términos fijados en los artículos 270, 271 y 420; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
+II. El matrimonio celebrado, sin que hayan transcurrido los términos fijados en los artículos 271 y 420; y
 
 III. Cuando se contrajo, estando pendiente la decisión de un impedimento que sea susceptible de dispensa.
 
@@ -3009,9 +3013,11 @@ Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los her
 
 Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, noventa días contados desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 466.
 
-Si la viuda, la divorciada o aquélla cuyo matrimonio fuere declarado ilegítimo, contrajere nuevas nupcias dentro del período prohibido por el artículo 270, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+Si la viuda, la divorciada o aquella cuyo matrimonio fuere declarado ilegítimo, contrajere nuevas nupcias, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
 I. Se presume que el hijo es del primer matrimonio, si nace dentro de los trescientos días siguientes a la fecha en que judicialmente y de hecho haya tenido lugar la separación de los cónyuges del primer matrimonio, y antes de ciento ochenta días de la celebración del segundo matrimonio;
 
@@ -19211,9 +19217,9 @@ PRIMERO. El presente decreto entrará en vigor el día primero de enero del año
 
 P.O. 1 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 26926/LXI/18, QUE REFORMA LOS ARTÍCULOS 2, 3, 9, 21, 35, 43, 50, 57, 58, 62, 67, 70, 84, 90, 96, 101, 123, 125, 128, 142, 149, 158, 159, 160, 167, 171, 174, 175, 176, 177, 178, 179, 207, 208 Y 212, ADICIONA LOS ARTÍCULOS 53 BIS Y 206 BIS, Y DEROGA LOS ARTÍCULOS 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195 Y 196 DE LA LEY DEL NOTARIADO; REFORMA LOS ARTÍCULOS 405 BIS, 2842, 2845 Y 3118 DEL CÓDIGO CIVIL; REFORMA LOS ARTÍCULOS 758, 765, 770, 935 BIS, 935 TER, 938, 1058, 1060, 1062 Y 1063, Y ADICIONA EL CAPÍTULO IV BIS AL TÍTULO DÉCIMO SEGUNDO Y EL ARTÍCULO 775 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; Y REFORMA LOS ARTÍCULOS 122, 131, 133, 134 Y 135 DE LA LEY DEL REGISTRO CIVIL, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26926/LXI/18, QUE REFORMA LOS ARTÍCULOS 2, 3, 9, 21, 35, 43, 50, 57, 58, 62, 67, 70, 84, 90, 96, 101, 123, 125, 128, 142, 149, 158, 159, 160, 167, 171, 174, 175, 176, 177, 178, 179, 207, 208 Y 212, ADICIONA LOS ARTÍCULOS 53 BIS Y 206 BIS, Y DEROGA LOS ARTÍCULOS 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195 Y 196 DE LA LEY DEL NOTARIADO; REFORMA LOS ARTÍCULOS 405 BIS, 2842, 2845 Y 3118 DEL CÓDIGO CIVIL; REFORMA LOS ARTÍCULOS 758, 765, 770, 935 BIS, 935 TER, 938, 1058, 1060, 1062 Y 1063, Y ADICIONA EL CAPÍTULO IV BIS AL TÍTULO DÉCIMO SEGUNDO Y EL ARTÍCULO 775 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; Y REFORMA LOS ARTÍCULOS 122, 131, 133, 134 Y 135 DE LA LEY DEL REGISTRO CIVIL, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
-PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Lo previsto en el artículo 57, fracción VI, de la reforma a la Ley del Notariado del Estado de Jalisco, no será aplicable a los Notarios que hubiesen obtenido su nombramiento o fiat antes de la entrada en vigor del presente decreto.
 
@@ -19222,3 +19228,9 @@ TERCERO. Lo previsto en el artículo 21 fracción V, del presente decreto, no se
 CUARTO. Los Notarios adscritos a alguno de los municipios de los señalados en la fracción I del artículo 29 de esta Ley, que tengan su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia del presente decreto, podrán mantener su oficina en ese municipio.
 
 QUINTO. Las presentes disposiciones surtirán todos sus efectos en tanto no se opongan expresamente a las disposiciones en materia procesal civil y familiar.
+
+P.O. 13 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26862/LXI/18 QUE REFORMA LOS ARTÍCULOS 393 Y 466 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
