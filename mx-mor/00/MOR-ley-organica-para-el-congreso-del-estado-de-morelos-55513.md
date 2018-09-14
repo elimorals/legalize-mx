@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2017-12-27"
+last_updated: "2018-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -855,13 +855,11 @@ Las comisiones especiales son aquellas de carácter temporal que acuerde el plen
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
-Artículo 54 BIS.- Para el análisis y dictaminación de las autorizaciones relativas a los contratos de colaboración público privada y de las demás modalidades y actos jurídicos previstos en la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos, deberá constituirse una Comisión Especial.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2016)</small>
-
 ###### Artículo 54 Bis.
 
 Para el análisis y dictaminación de las autorizaciones relativas a los contratos de colaboración público privada y de las demás modalidades y actos jurídicos previstos en la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos, deberá constituirse una Comisión Especial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 55.
 
@@ -899,7 +897,7 @@ Las comisiones legislativas contarán con un Secretario Técnico y el personal d
 
 Dentro de los treinta días siguientes a la conclusión de cada período ordinario de sesiones, los Presidentes de las comisiones legislativas, presentarán por escrito al Presidente de la Mesa Directiva, el informe de sus actividades correspondiente al período inmediato anterior en el que se incluya una relación de los asuntos dictaminados y pendientes.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 59.
 
@@ -909,57 +907,95 @@ Las Comisiones Ordinarias serán las siguientes:
 
 2. Hacienda, Presupuesto y Cuenta Pública.
 
-3. Gobernación, Gran Jurado y Ética Legislativa.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+3. Gobernación y Gran Jurado;
 
 4. Educación y Cultura.
 
 5. Ciencia e Innovación Tecnológica.
 
-6. Reglamentos y Prácticas Parlamentarias.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-7. Justicia y Derechos Humanos.
+6. Reglamentos, Investigación, Prácticas y Relaciones Interparlamentarias;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+7. Justicia, Derechos Humanos y Atención a Víctimas;
 
 8. Trabajo, Previsión y Seguridad Social.
 
 9. Seguridad Pública y Protección Civil.
 
-10. Planeación para el Desarrollo y Asentamientos Humanos.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+10. Planeación para Desarrollo Social, Metropolitano, Zonas Conurbadas y Asentamientos Humanos;
 
 11. Desarrollo Económico.
 
-12. Desarrollo Social.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-13. Salud.
+12. Salud;
 
-14. Desarrollo Agropecuario.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-15. Medio Ambiente.
+13. Desarrollo Agropecuario;
 
-16. Recursos Naturales y Agua.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-17. Pueblos Indígenas.
+14. Medio Ambiente, Recursos Naturales y Agua;
 
-> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-18. Igualdad de Género
+15. Igualdad de Género;
 
-19. De la Juventud.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-20. Participación Ciudadana y Reforma Política.
+16. De la Juventud;
 
-21. Atención a Grupos Vulnerables y Personas con Discapacidad.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-22. Fortalecimiento Municipal y Desarrollo Regional.
+17. Participación Ciudadana y Reforma Política;
 
-23. Desarrollo Metropolitano y Zonas Conurbadas.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-24. Tránsito, Transporte y Vías de Comunicación.
+18. Atención a Grupos Vulnerables, Migrantes y Personas con Discapacidad.
 
-25. Turismo.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-26. De Migración.
+19. Fortalecimiento Municipal, Desarrollo Regional y Pueblos Indígenas;
 
-27. Deporte.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+20. Tránsito, Transporte y Vías de Comunicación;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+21. Turismo;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+22. Deporte;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+23. Transparencia, Protección de Datos personales y Anticorrupción;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+24. De la Familia;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+25. Atención a la Diversidad Sexual;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+26. Desarrollo y Conflictos Agrarios; y
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+27. Ética Legislativa.
 
 28. Investigación y Relaciones Interparlamentarias
 
@@ -971,7 +1007,7 @@ Las Comisiones Ordinarias serán las siguientes:
 
 32. Conflictos Agrarios.
 
-33. Atención a Víctimas.
+33. Atención a Víctimas
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2013)</small>
 
@@ -997,8 +1033,6 @@ V. Los relativos a las leyes que no sean materia específica de otra Comisión; 
 
 VI. Las demás que el pleno le confiera.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
-
 ###### Artículo 61.
 
 Corresponde a la Comisión de Hacienda, Presupuesto y Cuenta Pública, el conocimiento y dictamen de los asuntos siguientes:
@@ -1009,25 +1043,29 @@ II. Conocer y dictaminar sobre el Presupuesto de Egresos del Gobierno del Estado
 
 III. Conocer y dictaminar sobre las iniciativas de la Ley de Ingresos del Gobierno del Estado y de los Municipios;
 
-IV. Solicitar de la Entidad Superior de Auditoría y Fiscalización, la información sobre el ejercicio de los recursos públicos por parte del Gobierno del Estado y de los Ayuntamientos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-V. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas Públicas que haya practicado la Entidad Superior de Auditoría y Fiscalización y remitir los mismos al pleno para ordenar su publicación en el Periódico Oficial “Tierra y Libertad”;
+IV. Proponer a la Junta Política y de Gobierno para su designación, mediante el procedimiento que para tal efecto apruebe la Junta Política y de Gobierno, al Titular de la Entidad Superior de Auditoría y Fiscalización;
 
-VI. Dictaminar lo relativo a los empréstitos que el Ejecutivo Estatal y los Ayuntamientos soliciten, estos últimos cuando su duración exceda del término de su administración;
+V. Solicitar de la Entidad Superior de Auditoría y Fiscalización, la información sobre el ejercicio de los recursos públicos por parte del Gobierno del Estado y de los Ayuntamientos;
 
-VII. Representar al Congreso del Estado ante los organismos hacendarios reconocidos por las Leyes del Estado;
+VI. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas Públicas que haya practicado la Entidad Superior de Auditoría y Fiscalización y remitir los mismos al pleno para ordenar su publicación en el Periódico Oficial "Tierra y Libertad";
 
-VIII. Analizar y dictaminar los asuntos relativos a la autorización que el Gobierno del Estado solicite para enajenar, ceder, permutar, gravar o ejercer cualquier acto de dominio sobre sus bienes inmuebles;
+VII. Dictaminar lo relativo a los empréstitos que el Ejecutivo Estatal y los Ayuntamientos soliciten, estos últimos cuando su duración exceda del término de su administración;
 
-IX. Dictaminar los asuntos que se refieran a la desincorporación de bienes de dominio público del Estado; y
+VIII. Representar al Congreso del Estado ante los organismos hacendarios reconocidos por las Leyes del Estado;
 
-X. Los demás asuntos que le sean turnados y que no sean competencia de otra comisión.
+IX. Analizar y dictaminar los asuntos relativos a la autorización que el Gobierno del Estado solicite para enajenar, ceder, permutar, gravar o ejercer cualquier acto de dominio sobre sus bienes inmuebles;
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+X. Dictaminar los asuntos que se refieran a la desincorporación de bienes de dominio público del Estado; y
+
+XI. Los demás asuntos que le sean turnados y que no sean competencia de otra comisión.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 62.
 
-La Comisión de Gobernación, Gran Jurado Y Ética Legislativa conocerá y dictaminará de los asuntos siguientes:
+La Comisión de Gobernación y Gran Jurado conocerá y dictaminará de los asuntos siguientes:
 
 I. Los que se relacionen con la división territorial del estado y de los municipios;
 
@@ -1039,23 +1077,9 @@ IV. Los asuntos que impliquen conflictos políticos, que sean competencia del Co
 
 V. Los asuntos relacionados con la responsabilidad de los servidores públicos que se mencionan en el Título Séptimo de la Constitución Política del Estado y la Ley Estatal de Responsabilidades de los Servidores Públicos, incluso los de declaración de procedencia de responsabilidad penal;
 
-VI. Los relacionados con la desaparición de un ayuntamiento, la revocación del mandato de alguno de sus miembros, la suspensión de la totalidad de sus integrantes; o la suspensión de alguno de ellos;
+VI. Los relacionados con la desaparición de un ayuntamiento, la revocación del mandato de alguno de sus miembros, la suspensión de la totalidad de sus integrantes; o la suspensión de alguno de ellos; y
 
-VII. Los relativos a la creación, desaparición o fusión de municipios;
-
-VIII. Promoverá le (sic) Ética Legislativa;
-
-IX. prevenir actos contrarios a los señalados en el Código de ética del Congreso del estado;
-
-X. Absolver las consultas que se le interpongan y resolver en primera instancia las denuncias que se formulen de acuerdo con el Código de ética del Congreso del estado.
-
-XI. Organizar cursos de ética y valores, para los diputados y el personal del Congreso del Estado;
-
-XII. Presentar y dictaminar iniciativas relativas a la ética legislativa;
-
-XIII. Los demás que señale el código de Ética del Congreso del Estado de Morelos; y
-
-XIV. Las demás que el pleno del Congreso del Estado le confiera.
+VII. Las demás que el pleno del Congreso del Estado le confiera.
 
 ###### Artículo 63.
 
@@ -1089,39 +1113,55 @@ VI. Reconocimientos, premios, estímulos y recompensas a quienes se destaquen en
 
 VII. Todos aquellos que le sean turnados.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 65.
 
-La Comisión de Reglamentos y Prácticas Parlamentarias se ocupará de los asuntos siguientes:
+La Comisión de Reglamentos, Investigación, Prácticas y Relaciones Parlamentarias, se ocupará de los asuntos siguientes:
 
 I. Proponer la actualización de las normas de discusión y debate en el Congreso del Estado;
 
-II. Implementar programas e impulsar foros que coadyuven a enriquecer las actividades legislativas;
+II. Conocer y dictaminar las iniciativas de reforma a la Ley Orgánica para el Congreso del Estado y su Reglamento;
 
-III. Promover la formación de un acervo bibliográfico del Congreso del Estado;
+III. Implementar programas, impulsar foros, organizar actividades de: investigación, estudio, cooperación y coordinación entre las Comisiones Homologas de las entidades federativas que, coadyuven a enriquecer las actividades legislativas;
 
-IV. Actualizar en su caso el Reglamento de esta Ley;
+IV. Divulgar las ideas, propuestas y debates de los actos y eventos interparlamentarios;
 
-V. Promover la edición de publicaciones que se consideren de interés en el desarrollo de la actividad parlamentaria; y
+V. Promover la formación de un acervo bibliográfico del Congreso del Estado;
 
-VI. Todas aquéllas que tiendan al mejoramiento de las prácticas parlamentarias.
+VI. Promover la edición de publicaciones que se consideren de interés en el desarrollo de la actividad parlamentaria;
+
+VII. Fomentar las relaciones y mecanismos de cooperación con los órganos parlamentarios municipales, estatales, nacionales, regionales e internacionales;
+
+VIII. Realizar estudios e investigaciones al marco normativo del Congreso y de los Congresos Estatales; y
+
+IX. Todas aquellas que tiendan al mejoramiento de las prácticas parlamentarias y que no sean competencia de otra comisión.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 66.
 
-Corresponde a la Comisión de Justicia y Derechos Humanos:
+Corresponde a la Comisión de Justicia, Derechos Humanos y Atención a Víctimas:
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+I. Conocer y dictaminar sobre las iniciativas concernientes a la legislación orgánica de la Fiscalía General del Estado de Morelos y del Poder Judicial, a la de la Comisión de Derechos Humanos del Estado de Morelos, así como a la legislación en materia de atención a víctimas del delito;
 
-I. Conocer y dictaminar sobre las iniciativas concernientes a la legislación orgánica de la Fiscalía General del Estado de Morelos y del Poder Judicial, a la de la Comisión de Derechos Humanos del Estado de Morelos;
-
-II. Dar seguimiento a las recomendaciones emitidas por las Comisiones tanto Nacional, como a la Comisión de Derechos Humanos del Estado de Morelos;
+II. Dar seguimiento a las recomendaciones emitidas por las Comisiones tanto Nacional, como a la Comisión de Derechos Humanos del Estado de Morelos, por violaciones a los derechos humanos, así como, a los acuerdos y resoluciones adoptadas por la Comisión Ejecutiva de Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos;
 
 III. Observar el desempeño de los integrantes de la Procuraduría General de Justicia y opinar lo que corresponda, así como solicitar al pleno del Congreso del Estado, la comparecencia de su Titular;
 
-IV. Conocer y opinar sobre los asuntos relacionados con la violación a derechos humanos y con la procuración e impartición de justicia;
+IV. Conocer y opinar sobre los asuntos relacionados con la violación a derechos humanos de las personas, de las víctimas del delito, así como, los asuntos relacionados con la procuración e impartición de justicia;
 
-V. Conocer y opinar sobre el ejercicio de las funciones relacionadas con la readaptación social en el Estado y dictaminar las iniciativas sobre la materia; y
+V. Conocer y opinar sobre el ejercicio de las funciones relacionadas con la readaptación social en el Estado y dictaminar las iniciativas sobre la materia;
 
-VI. Todos aquellos asuntos que le sean turnados y no sean materia de otra Comisión.
+VI. Conocer y opinar sobre la creación de instituciones y organizaciones de apoyo a las víctimas en el Estado;
+
+VII. Ser el enlace legislativo con la Comisión de Derechos Humanos del Estado y con la Comisión Ejecutiva de Atención a Víctimas del delito;
+
+VIII. Implementar e impulsar foros que involucren a diversas instituciones federales, estatales y municipales en materia de respeto sobre derechos humanos, derechos (sic) víctimas;
+
+IX. Atención, canalización y seguimiento de las víctimas a las instituciones correspondientes para su atención; y
+
+X. Todos aquellos asuntos que le sean turnados y no sean materia de otra Comisión.
 
 ###### Artículo 67.
 
@@ -1147,19 +1187,33 @@ III. Conocer y dictaminar en su caso las iniciativas relacionadas con la prevenc
 
 IV. Todos aquellos asuntos que le sean turnados y no sean competencia de otra Comisión.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 69.
 
-La Comisión de Planeación para el Desarrollo y Asentamientos Humanos, será competente para conocer y dictaminar, en su caso, los siguientes asuntos:
+La Comisión de Planeación para el Desarrollo Social, Metropolitano, Zonas Conurbadas y Asentamientos Humanos, será competente para conocer y dictaminar, en su caso, los siguientes asuntos:
 
-I. Conocer, opinar y en su caso proponer al Titular del Poder Ejecutivo las modificaciones o adiciones al plan estatal y los planes municipales de desarrollo, en los términos establecidos por la Ley de Planeación del Estado de Morelos;
+I. Conocer, opinar y en su caso proponer al Titular del Poder Ejecutivo las modificaciones o adiciones al plan estatal y los planes municipales de desarrollo, en los términos establecidos en la Ley de Planeación del Estado de Morelos;
 
-II. Participar en los foros de consulta relacionados con la planeación democrática;
+II. Conocer y opinar sobre las normas jurídicas relacionadas con las construcciones, la vivienda, la fusión, subdivisión, fraccionamiento y Metropolización;
 
-III. Conocer y dictaminar sobre la legislación en materia de planeación y desarrollo urbano, vivienda y asentamientos humanos;
+III. Conocer y opinar sobre el marco normativo relacionado con la obra pública de (sic) Gobierno del Estado y los Municipios que refieran a la Metropolización y conurbación;
 
-IV. Conocer los asuntos relacionados con la creación de centros de población, declaratorias sobre provisiones, reservas, uso de suelo y destinos de áreas; y
+IV. Participar en los foros de consulta relacionados con: la Planeación Democrática y Proyectos de Desarrollo Metropolitano, Zonas Conurbadas y Asentamiento (sic) Humanos;
 
-V. Todos aquellos que le sean turnados y que no sean competencia de otra Comisión.
+V. Solicitar la información necesaria al Gobierno del Estado, los Municipios, el Consejo para el Desarrollo Metropolitano y a la Coordinación cuando sea requerido, sobre la aplicación y desarrollo de los planes, programas, proyectos, obras y acciones de desarrollo metropolitano;
+
+VI. Promover un enlace entre los tres órdenes de gobierno, los tres poderes y las fuerzas políticas representadas, para alcanzar consensos que se traduzcan en acciones para el combate efectivo de la pobreza y la desigualdad;
+
+VII. Analizar, revisar y dar seguimiento a los temas enfocados en el desarrollo social tales como: empleo, alimentación, desigualdad, pobreza, vivienda, declaratorias sobre provisiones, reservas, uso de suelo y destinos de áreas;
+
+VIII. Los referentes a la autorización al Ejecutivo y los Ayuntamientos para incorporar, desafectar, enajenar, permutar o gravar bienes del dominio público o uso común Municipal y Estatal.
+
+IX. Impulsar la transparencia en la asignación y aplicación de los recursos destinados a los diversos programas del sector social, con el fin de cuidar que lleguen a sus destinatarios con suficiencia, oportunidad y sin condicionamientos políticos;
+
+X. Gestionar, incrementar y supervisar la aplicación de los recursos destinados a los programas sociales, y
+
+XI. Todos aquellos asuntos que le sean turnados y no sean materia de otra Comisión.
 
 ###### Artículo 70.
 
@@ -1177,21 +1231,9 @@ V. Conocer y opinar sobre la política cooperativa, así como promover la educac
 
 VI. En general de todos los asuntos que en cumplimiento de sus funciones y atribuciones le sean turnados, para su atención y todos aquellos que le encomiende la normatividad de la materia.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
-
 ###### Artículo 70 Bis.
 
-La Comisión de Desarrollo Social será competente para conocer y dictaminar, en su caso, los siguientes asuntos:
-
-I. Analizar, revisar y dar seguimiento a los temas enfocados en el desarrollo social tales como educación, salud, empleo, vivienda, alimentación, desigualdad y pobreza y adultos mayores.
-
-II. Impulsar la transparencia en la asignación y aplicación de los recursos destinados a los diversos programas del sector social, con el fin de cuidar que lleguen a sus destinatarios con suficiencia, oportunidad y sin condicionamientos políticos.
-
-III. Promover un enlace entre los tres órdenes de gobierno, los tres poderes y las fuerzas políticas representadas, para alcanzar consensos que se traduzcan en acciones para el combate efectivo de la pobreza y la desigualdad.
-
-IV. Gestionar, incrementar y supervisar la aplicación de los recursos destinados a los programas sociales
-
-V. En general de todos los asuntos que en cumplimiento de sus funciones y atribuciones le sean turnados, para su atención y todos aquellos que le encomiende la normatividad de la materia.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 71.
 
@@ -1205,27 +1247,9 @@ III. Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y 
 
 IV. Todos aquellos que le sean turnados y no sean competencia de otra Comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
-
 ###### Artículo 72.
 
-A la Comisión de Pueblos Indígenas, le corresponde conocer y dictaminar los siguientes asuntos:
-
-I. Dictaminar las iniciativas para proteger y preservar todos los elementos que integran la cultura de los pueblos indígenas del Estado;
-
-II. Organizar foros de participación ciudadana para conocer el punto de vista de las comunidades indígenas en relación con su problemática social;
-
-III. Conocer y opinar de todos los asuntos relacionados con las comunidades indígenas de la entidad;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
-
-IV. Convertirse en coadyuvante con las autoridades federales, estatales y municipales, para promover el desarrollo de los pueblos indígenas del Estado, vigilando las políticas que para el caso se instrumenten;
-
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2017)</small>
-
-V. Dictaminar, en unión con la Comisión de Gobernación, Gran Jurado y Ética Legislativa, los relativos a la creación, desaparición o fusión de municipios indígenas a que se refiere el Título Décimo Primero de esta Ley, y
-
-VI. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 73.
 
@@ -1247,47 +1271,25 @@ IV. Conocer, fomentar y coordinar acciones, estudios y proyectos que propicien e
 
 V. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 74.
 
-Corresponde a la Comisión de Medio Ambiente:
+Corresponde a la Comisión de Medio Ambiente, Recursos Naturales y Agua:
 
-I. Participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos a la prevención y control de la contaminación, a la conservación y restauración del medio ambiente.
+I. Participar, conocer y dictaminar, sobre los asuntos relativos a la prevención y control de la contaminación, a la conservación y restauración del medio ambiente, recursos naturales y agua;
 
-II. Coordinar y promover acciones de protección de los animales;
+II. Conocer y opinar sobre los casos relacionados con la afectación del entorno ambiental, agua y recursos naturales que puedan producir los establecimientos industriales, comerciales, los desarrollos urbanos y en los casos que le confieren las leyes relacionadas con el medio ambiente, la ecología, el agua y la biodiversidad;
 
-III. Investigar y coordinar acciones que propicien el encuentro y trabajo conjunto entre las comisiones de Medio Ambiente o sus homólogas de las entidades federativas, que permitan a los integrantes de esta comisión legislativa ampliar su visión acerca de la problemática ambiental que aqueja a nuestra entidad con el fin de mejorar e innovar el marco normativo en la materia;
+III. Mantener un contacto directo y permanente con la Comisión Estatal del Agua y Medio Ambiente, las dependencias involucradas, así como, con los diversos órganos que la integran, con el propósito de conocer sus programas de operación y la problemática que enfrentan para coordinar y promover acciones de protección y brindar soluciones legislativas;
 
-IV. Conocer y dictaminar en su caso, los asuntos relacionados con la legislación en materia de ecología y biodiversidad;
+IV. Impulsar la transparencia en la asignación y aplicación de los recursos destinados a los diversos programas destinados a la protección y cuidado del medio ambiente, recursos naturales y agua, y
 
-V. Conocer y opinar sobre los casos relacionados con la afectación del entorno ambiental que puedan producir los establecimientos industriales, comerciales, los desarrollos urbanos y en los casos que le confieren las leyes relacionadas con la ecología, y la biodiversidad vigente;
-
-VI. Coadyuvar con las políticas y programas educativos sobre ecología y preservación del medio ambiente; y
-
-VII. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+V. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
 
 ###### Artículo 74 Bis.
 
-Corresponde a la Comisión de Recursos Naturales y Agua:
-
-I. Conocer y dictaminar en su caso, los asuntos relacionados con la legislación en materia de agua y recursos naturales;
-
-II. Mantener un contacto directo y permanente con la Comisión Estatal del Agua y Medio Ambiente y dependencias involucradas, así como con los diversos órganos que la integran, con el propósito de conocer sus programas de operación y la problemática que enfrentan y brindar soluciones legislativas;
-
-III. Impulsar la transparencia en la asignación y aplicación de los recursos destinados a los diversos programas destinados a la protección y cuidado de los recursos naturales y el agua;
-
-IV. Conocer y opinar sobre los casos relacionados con la afectación del entorno de recursos naturales y agua que puedan producir los establecimientos industriales, comerciales, los desarrollos urbanos y en los casos que le confieren las leyes relacionadas con los recursos naturales y el agua;
-
-V. Emitir opiniones y atender las consultas que los órganos facultados para ello hagan llegar a la Comisión;
-
-VI. Conocer y atender todos los asuntos relacionados con la problemática del agua en la entidad;
-
-VII. Los referentes a las acciones que se realicen en materia de preservación y el cuidado de los recursos naturales y el agua; y
-
-VIII. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2016)</small>
 
@@ -1357,59 +1359,49 @@ IX. Los relacionados con el otorgamiento de premios, estímulos y recompensas al
 
 X. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 78.
 
-Corresponde a la Comisión de Atención a Grupos Vulnerables y a Personas con Discapacidad:
+Corresponde a la Comisión de Atención a Grupos Vulnerables, Migrantes y Personas con Discapacidad:
 
-I. Analizar y dictaminar, en su caso, sobre la legislación relacionada con las personas con discapacidad, que no sean materia de otra Comisión;
+I. Analizar y dictaminar, en su caso, sobre la legislación relacionada con los derechos de los grupos vulnerables, los migrantes y las personas con discapacidad, que no sean materia de otra Comisión;
 
-II. Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen los grupos vulnerables y las personas con discapacidad;
+II. Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen los grupos vulnerables, los migrantes y las personas con discapacidad;
 
-III. Conocer e impulsar acciones que conlleven a la realización de planes y programas que contribuyan a mejorar la inserción productiva en la sociedad de las personas con discapacidad, para garantizar una situación de vida más digna a estos grupos;
+III. Conocer e impulsar acciones que conlleven a la realización de planes y programas ante el Gobierno del Estado de Morelos, que coadyuven al bienestar y mejora en las condiciones de vida de los grupos vulnerables, los migrantes y sus familias, así como, las personas con discapacidad;
 
-IV. Promover la coordinación entre los niveles federal, estatal y municipal, así como, con las instituciones y organizaciones especializadas que brindan servicios de promoción y atención a personas con discapacidad;
+IV. Atender y dar seguimiento ante las instancias públicas federal, estatal y municipal, así como privadas y sociales, la problemática que en materia de educación, salud, empleo, vivienda, cultura y desarrollo presenten los grupos vulnerables, los migrantes y sus familias, así como, las personas con discapacidad;
 
-V. Organizar foros de consulta, a efecto de recibir y realizar propuestas que tiendan a mejorar la aplicación o adecuación de la legislación en materia de personas con discapacidad y lograr el cumplimiento de sus objetivos; y
+V. Realizar foros, estudios y mesas de trabajo con los tres niveles de gobierno y proponer en el ámbito de su competencia, las medidas que mejoren la inserción social y productiva en la sociedad de los grupos vulnerables, migrantes y personas con discapacidad, para garantizar una situación de vida más digna;
 
-VI. Conocer y dictaminar en su caso, los demás asuntos que le turne el Presidente del Congreso del Estado.
+VI. Los asuntos relacionados con los planes, programas, estrategias y políticas de apoyo a favor de los grupos vulnerables, migrantes y personas con discapacidad, así como, el fortalecimiento de la vinculación intergubernamental para su desarrollo; y
+
+VII. Todos aquellos asuntos en la materia que le sean turnados y no sean competencia de otra comisión.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 79.
 
-Corresponde a la Comisión de Fortalecimiento Municipal y Desarrollo Regional:
+A la Comisión de Fortalecimiento Municipal, Desarrollo Regional y Pueblos Indígenas, le corresponde conocer y dictaminar los siguientes asuntos:
 
-I. Conocer y dictaminar sobre los asuntos de carácter municipal y regional que no sean competencia de otra Comisión;
+I. Conocer y dictaminar sobre los asuntos de carácter municipal, regional y los relativos a preservar y proteger todos los elementos que integran la cultura de los pueblos indígenas del Estado;
 
-II. Promover la corresponsabilidad entre gobierno municipal y sociedad para el logro de los objetivos municipales;
+II. Promover la corresponsabilidad entre el gobierno municipal, la sociedad y los pueblos indígenas para el logro de los objetivos municipales;
 
-III. Contribuir a una mayor participación municipal en los programas de desarrollo regional;
+III. Organizar foros de participación ciudadana para conocer el punto de vista de la sociedad y de las comunidades indígenas para contribuir a una mayor participación de estas dentro del desarrollo municipal en los programas de desarrollo regional;
 
 IV. Contribuir al fortalecimiento y autonomía municipal;
 
-V. Promover la coordinación y colaboración entre dos o más ayuntamientos y entre éstos y los gobiernos estatal y federal, así como con otras Instancias de gobierno y de la sociedad, para elaborar y ejecutar planes, programas, obras y servicios de interés regional; y
+V. Promover la coordinación y colaboración entre las comunidades indígenas, los ayuntamientos y entre éstos y los gobiernos estatal y federal, así como con otras instancias de gobierno y de la sociedad, para elaborar y ejecutar planes, programas, obras y servicios de interés regional;
 
-VI. Conocer de los demás asuntos que le sean turnados y que no sean materia de otra comisión.
+VI. Dictaminar, en unión con la Comisión de Gobernación, Gran Jurado y Ética Legislativa, los relativos a la creación, desaparición o fusión de municipios a que se refiere el Título Décimo Primero de esta Ley; y
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+VII. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
 
 ###### Artículo 79 Bis.
 
-La Comisión de Desarrollo Metropolitano y Zonas Conurbadas, será competente para conocer y dictaminar, en su caso, los siguientes asuntos:
-
-I. Los referidos a la expedición, reformas y adiciones a la Legislación de Desarrollo Metropolitano y Zonas Conurbadas y Obra Pública;
-
-II. Las normas jurídicas relacionadas con las construcciones, la vivienda, la fusión, subdivisión, fraccionamiento y Metropolización.
-
-III. El marco normativo relacionado con la obra pública de (sic) Gobierno del Estado y los Municipios que refieran a la Metropolización y conurbación;
-
-IV. Los Referentes a la autorización al Ejecutivo y los ayuntamientos para incorporar, desafectar, enajenar, permutar o gravar bienes del dominio público o uso común municipal y Estatal.
-
-V. Emitir opiniones y en su caso proponer al Titular del Poder Ejecutivo, a los Ayuntamientos y al Consejo para el Desarrollo Metropolitano las modificaciones o adiciones al Plan Estatal, Planes Municipales y Proyectos de Desarrollo Metropolitano y Zonas Conurbadas;
-
-VI. Atender los asuntos relacionados con la creación de centros de población, declaratorias sobre provisiones, reservas, uso de suelo y destinos de áreas;
-
-VII. Solicitar la información necesaria al Gobierno del Estado, los municipios, Consejo para el Desarrollo Metropolitano y a la Coordinación cuando sea requerido, sobre la aplicación y desarrollo de los planes, programas, proyectos, obras y acciones de desarrollo metropolitano.
-
-VIII. En general de todos los asuntos que en cumplimiento de sus funciones y atribuciones le sean turnados, para su atención y todos aquellos que le encomiende esta Ley y la normatividad de la materia.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 80.
 
@@ -1457,21 +1449,7 @@ VII. Las demás que le sean turnadas por Mesa Directiva del Congreso del Estado 
 
 ###### Artículo 82.
 
-Corresponde a la Comisión de Migración:
-
-I. Conocer y dictaminar aquellas iniciativas en donde se encuentren involucrados los derechos de los migrantes;
-
-II. Impulsar acciones ante el Gobierno del Estado de Morelos, que coadyuven al bienestar y prosperidad de las familias de los migrantes;
-
-III. Atender y dar seguimiento ante las instancias públicas federal, estatal y municipal, así como privadas y sociales, a la problemática que en materia de educación, salud, cultura y desarrollo presenten los morelenses migrados y sus familiares residentes en el territorio estatal;
-
-IV. Realizar foros y estudios sobre las causas de migración de los morelenses y proponer las medidas para la atención de estas;
-
-V. Los asuntos relacionados con los planes, programas, estrategias y políticas de apoyo a favor de los migrantes, así como el fortalecimiento de la vinculación intergubernamental para su desarrollo;
-
-VI. Los relativos a programas de atención a familias migrantes en las comunidades morelenses en el extranjero y en las comunidades de origen para propiciar el desarrollo de sus habitantes; y
-
-VII. Todos aquellos asuntos en la materia que le sean turnados.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 83.
 
@@ -1487,27 +1465,9 @@ IV. Implementar e impulsar foros que involucren a las diversas instituciones, as
 
 V. Todos aquellos asuntos en la materia que le sean turnados.
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
-
 ###### Artículo 83 Bis.
 
-A la Comisión de Investigación y Relaciones Interparlamentarias, le corresponde:
-
-I. Conocer y dictaminar las iniciativas de reforma a la Ley Orgánica para el Congreso del Estado;
-
-II. Organizar actos y eventos que propicien el encuentro entre las Comisiones de Investigación y Relaciones Interparlamentarias u homologas de las entidades federativas, de los cuales puedan prefigurarse reformas constitucionales o de normatividad interna del Congreso.
-
-III. Divulgar las ideas, propuestas y debates de los actos y eventos interparlamentarios;
-
-IV. Fomentar las relaciones y mecanismos de cooperación y coordinación entre el Congreso del Estado y los Congresos de los Estados;
-
-V. Coordinar e impulsar acuerdos y convenios de investigación, cooperación y estudio entre el Congreso del Estado y los Congresos Estatales;
-
-VI. Fomentar las relaciones y cooperación con los organismos parlamentarios municipales, estatales, nacionales, regionales e internacionales;
-
-VII. Realizar estudios e investigaciones al marco normativo del Congreso y de los Congresos Estatales; y
-
-VIII. Los demás asuntos que le sean turnados y que no sean competencia de otra comisión.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2013)</small>
 
@@ -1607,23 +1567,25 @@ VI. Vigilara el respeto a los derechos humanos de los núcleos agrarios, y;
 
 VII. En general de todos los asuntos que en cumplimiento de sus funciones y atribuciones le sean turnados, para su atención y todos aquellos que le encomiende la normatividad de la materia.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+Artículo 83 octavus.- (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2018)
 
-Artículo 83 Octavus.- Corresponde a la Comisión de Atención a Víctimas, el conocimiento y dictamen de los asuntos siguientes:
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-I. Conocer y dictaminar sobre las iniciativas concernientes a la legislación en materia de víctimas del delito;
+Artículo 83 novenus.- A la Comisión de ética legislativa le corresponde conocer y dictaminar los siguientes asuntos:
 
-II. Conocer y opinar sobre los asuntos relacionados con la violación de los derechos y garantías de las víctimas;
+I.- Promoverá la Ética Legislativa;
 
-III. Los relativos a la creación de instituciones y organizaciones de apoyo a las víctimas en el estado;
+II.- Prevenir actos contrarios a los señalados en el Código de Ética del Congreso del Estado;
 
-IV. Ser el enlace legislativo con la Comisión Ejecutiva de Atención a Víctimas del delito y de Violaciones a los Derechos Humanos para la Atención a las Víctimas;
+III. Absolver las consultas que se le interpongan y resolver en primera instancia las denuncias que se formulen de acuerdo con el Código de Ética del Congreso del Estado;
 
-V. Otorgar seguimiento a los acuerdos y resoluciones adoptadas por la Comisión Ejecutiva de Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos;
+IV. Organizar cursos de ética y valores, para los Diputados y el personal del Congreso del Estado;
 
-VI. Atención, canalización y seguimiento de las víctimas a las instituciones correspondientes de atención a víctimas; y,
+V. Presentar y dictaminar iniciativas relativas a la Ética Legislativa;
 
-VII. Todos aquellos asuntos que le sean turnados y no sean materia de otra Comisión.
+VI. Los demás que señale el Código de Ética del Congreso del Estado de Morelos, y
+
+VII. Las demás que el pleno del Congreso del Estado le confiera.
 
 ### CAPÍTULO IV. DE LOS COMITÉS DEL CONGRESO DEL ESTADO
 
@@ -2974,3 +2936,17 @@ PRIMERA. Una vez aprobado en el Pleno de este Congreso, remítase el presente De
 SEGUNDA. El presente Decreto iniciará su vigencia el día de su aprobación por el Pleno del Congreso del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
+
+P.O. 14 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS POR EL QUE SE REFORMAN LOS ARTÍCULOS 59, LA FRACCIÓN IV, DEL ARTÍCULO 61 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, Y LA FRACCIÓN IV VIGENTE PASA A SER LA FRACCIÓN V, RECORRIÉNDOSE LAS SUBSECUENTES EN SU ORDEN, 62, 65, 66, 69, 74, 78, 79, SE DEROGAN LOS ARTÍCULOS 70 BIS, 72, 74 BIS, 79 BIS, 82, 83 BIS Y 83 OCTAVUS Y SE ADICIONA EL ARTÍCULO 83 NOVENUS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos a que se refiere la fracción XVII, inciso a, del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor el día de su aprobación por el Pleno de este Congreso.
+
+TERCERA.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+CUARTA.- Los Órganos de Gobierno del Congreso del Estado instrumentarán los cambios administrativos que se requieran para dar cumplimiento al presente decreto
+
+QUINTA.- La Junta Política y de Gobierno propiciará la integración de Comisiones, mediante propuesta que sé que (sic) presentará al Pleno.
