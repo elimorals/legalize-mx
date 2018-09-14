@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2018-05-11"
+last_updated: "2018-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -165,9 +165,11 @@ Los permisos que no sean recibidos, inscritos o utilizados por el titular en un 
 
 Los permisos otorgados son personales y se transferirán sólo previa autorización del Presidente Municipal, por lo tanto, todo acto simulado carecerá de validez. En caso de sucesión testamentaria, sesión u operación del establecimiento a través de poder, deberá en todo caso solicitarse a la autoridad municipal el cambio de propietario o de domicilio. El Presidente Municipal, es la única autoridad facultada para autorizar la co-titularidad de la licencia. Lo mismo se aplica para que proceda cualquier cambio o modificación en ellas.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 7.
 
-La empresa y la persona física que aparezcan como co-titulares, se harán responsables solidariamente del pago de todos los adeudos que se ocasionen por motivo de la operación del establecimiento. La empresa podrá solicitar el cambio de co-titular, de giro y de domicilio ante el Presidente Municipal, quien resolverá lo conducente.
+La empresa y la persona física que aparezcan como titular o co-titulares, se harán responsables solidariamente del pago de todos los adeudos que se ocasionen por motivo de la operación del establecimiento. La empresa podrá solicitar el cambio (sic) titular, co-titular y nombre comercial ante el Presidente Municipal, quien resolverá lo conducente.
 
 ###### ARTÍCULO 8.
 
@@ -809,7 +811,9 @@ X. En el caso de terrenos baldíos, o predios que reúnan los requisitos de este
 
 XI. Certificado de Medidas de Seguridad, emitido por la Dirección de Bomberos y Protección Civil.
 
-XII. Título de propiedad, promesa de venta, promesa de arrendamiento o contrato de arrendamiento. En este último caso deberá contar con el consentimiento del propietario del inmueble.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Título de propiedad, promesa de venta, promesa de arrendamiento, contrato de compraventa, comodato, permuta o donación y arrendamiento. En este último caso deberá contar con el consentimiento del propietario del inmueble.
 
 XIII. Certificado de no adeudo o libertad de gravámenes municipales vigente expedido por la Tesorería Municipal, a nombre del propietario del inmueble donde se vaya (sic) establecer el giro.
 
@@ -1043,11 +1047,11 @@ El pago de la revalidación o cualquier otro crédito fiscal que se haya generad
 
 ### CAPITULO OCTAVO. DE LOS CAMBIOS DE TITULAR, DOMICILIO, GIRO Y CANCELACIÓN DE OPERACIONES
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 57.
 
-Se podrá autorizar por el Ayuntamiento el cambio de giro y domicilio. El Presidente Municipal podrá autorizar el cambio de titular y nombre comercial, en ambos casos cuando se reúnan los requisitos que señala el presente reglamento.
+Se podrá autorizar por el Ayuntamiento el cambio de giro y domicilio. El Presidente Municipal podrá autorizar el cambio de titular, co-titular y nombre comercial, en ambos casos cuando se reúnan los requisitos que señala el presente reglamento.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
@@ -1722,3 +1726,15 @@ P.O. 11 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 39 DEL REGLAMENTO DE ALCOHOLES”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y/o en la Gaceta Municipal.
+
+P.O. 14 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 Y 57 DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y/o la Gaceta Municipal.
+
+P.O. 14 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 36 DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado y/o en Gaceta Municipal de Ensenada.
