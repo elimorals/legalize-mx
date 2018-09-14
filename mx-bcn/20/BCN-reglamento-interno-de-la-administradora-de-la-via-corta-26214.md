@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-administradora-de-la-via-corta-26214"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-28"
-last_updated: "2002-06-28"
+last_updated: "2018-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA ADMINISTRADORA DE LA VIA CORTA TIJUANA-TECATE
 
-REGLAMENTO INTERNO DE LA ADMINISTRADORA DE LA VIA CORTA TIJUANA - TECATE
+REGLAMENTO INTERNO DE LA ADMINISTRADORA DE LA VÍA CORTA TIJUANA - TECATE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 28 de junio de 2002.
 
@@ -152,6 +152,12 @@ II. Subdirección Técnica;
 III. Subdirección Operativa;
 
 IV. Coordinación Administrativa.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 10 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de ADMICARGA, contará con un Comité de Transparencia y una unidad de transparencia, las cuales se organizaran y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California debiendo observar lo previsto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California.
+
+La unidad de transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
 
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
@@ -311,9 +317,17 @@ XIII. Someter para su revisión, ajuste y validación, los programas presupuesta
 
 XIV. Fomentar y aplicar criterios y medidas que conlleven a la racionalización, austeridad, disciplina, aprovechamiento y transparencia del gasto;
 
-XV. Coordinar y dirigir la actualización del inventario físico de los bienes muebles e inmuebles de ADMICARGA; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-XVI. Las demás que se deriven de la (sic) leyes, reglamentos, acuerdos, convenios y análogos que sean delegados por el Director.
+XV.- Coordinar y dirigir la actualización del inventario físico de los bienes muebles e inmuebles de ADMICARGA;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+XVI.- Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+XVII.- Las demás que se deriven de las leyes, reglamentos, acuerdos, convenios y análogos que sean delegados por el Director.
 
 ### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LOS TITULARES
 
@@ -333,9 +347,17 @@ IV. Presentar en cada una de las sesiones ordinarias de la Junta los informes de
 
 V. Preparar y presentar ante la Junta las estrategias para el mejor desarrollo y aprovechamiento de la Vía Corta cuya administración tiene a su cargo;
 
-VI. Preparar y presentar ante la Junta para su aprobación el Reglamento, los manuales de organización, de procedimientos y demás documentos de apoyo administrativo necesarios para el adecuado funcionamiento de ADMICARGA, los cuales deberán mantenerse permanentemente actualizados, así como la estructura básica de organización administrativa y modificaciones que procedan; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Conducir las relaciones laborales, seleccionar y contratar al personal, determinar sus atribuciones, ámbito de competencia y retribuciones con base al presupuesto autorizado y la disponibilidad de plazas y, en su caso, remover y dar por concluida la relación laboral de conformidad con los acuerdos, procedimientos y normatividad aplicable.
+VI.- Preparar y presentar ante la Junta para su aprobación el Reglamento, los manuales de organización, de procedimientos y demás documentos de apoyo administrativo necesarios para el adecuado funcionamiento de ADMICARGA, los cuales deberán mantenerse permanentemente actualizados, así como la estructura básica de organización administrativa y modificaciones que procedan;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+VII.- Conducir las relaciones laborales, seleccionar y controlar al personal, determinar sus atribuciones, ámbito de competencia y retribuciones con base al presupuesto autorizado y la disponibilidad de plazas y, en su caso, remover y dar por concluida la relación laboral de conformidad con los acuerdos, procedimientos y normatividad aplicable; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+VIII.- Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
 ###### Artículo 22.
 
@@ -481,6 +503,10 @@ Las ausencias temporales del Subdirector Técnico y del Subdirector Operativo qu
 
 Las ausencias temporales de los Jefes de Departamento o del Coordinador Ejecutivo que no excedan de quince días, serán suplidas por el servidor público que para el efecto designen los Subdirectores a que se encuentren adscritos, y en aquellas que excedan del tiempo antes citado, su suplente será designado por el Director.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 28 BIS.- Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
 ### CAPÍTULO VI. DE LAS COMUNICACIONES OFICIALES Y CIRCULARES
 
 ###### Artículo 29.
@@ -490,6 +516,50 @@ Los servidores públicos con facultad para emitir y firmar comunicaciones oficia
 De igual manera, previo conocimiento del Director, propondrán los acuerdos y convenios de coordinación, colaboración y concertación con otras Entidades Paraestatales del Estado y Municipios, así como con los particulares; firmarán y notificarán los acuerdos en trámite, así como las resoluciones que se emitan con fundamento en las facultades que les corresponden.
 
 Las circulares serán emitidas por el Director y su observancia será de carácter obligatorio para todas las unidades administrativas que integran ADMICARGA.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO VII. ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 30.
+
+El Órgano Interno de Control de ADMICARGA para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
+
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por ADMICARGA y las demás que rigen la administración pública estatal;
+
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de ADMICARGA;
+
+III. Revisar que las operaciones presupuestales que realice ADMICARGA se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+IV. Requerir a las unidades administrativas de ADMICARGA que correspondan, el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorías, verificaciones y revisiones, y formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
+
+V. Informar al titular de ADMICARGA sobre los resultados de las revisiones, auditorías y verificaciones practicadas, y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+
+VI. Asistir a reuniones del Subcomité de Adquisiciones de ADMICARGA, y vigilar que ésta última realice las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y de obra pública, equipamiento, suministros y servicios con apego a las leyes en la materia;
+
+VII. Requerir a terceros que hubieran contratado bienes o servicios con ADMICARGA la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IX. Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental las políticas para simplificar y homogeneizar sus funciones;
+
+X. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de ADMICARGA cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
+
+XI. Requerir a los servidores públicos del ADMICARGA información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
+
+XII. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoría Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
+
+XIII. Coadyuvar en el programa de actualización del marco de actuación de ADMICARGA en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen, y
+
+XIV. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 31.
+
+El Órgano Interno de Control contará con el personal y los recursos necesarios, que garanticen el ejercicio independiente de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -512,3 +582,15 @@ BERNARDO BORBÓN VILCHES
 SECRETARIO DE ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS
 
 ARTURO ESPINOZA JARAMILLO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 20, 21, SE ADICIONAN LOS ARTÍCULOS 10 BIS, 28 BIS, 30 Y 31 DEL REGLAMENTO INTERNO DE LA ADMINISTRADORA DE LA VÍA CORTA TIJUANA TECATE".]
+
+PRIMERO.- La presente reforma al Reglamento Interno de la Administradora de la Vía Corta Tijuana Tecate, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Administradora de la Vía Corta Tijuana Tecate, a partir de la entrada en vigor del presente decreto deberá realizar las gestiones necesarias en conjunto con la Secretaría de la Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Finanzas, a fin de dar solvencia presupuestal y formalizar la operación integral del Órgano Interno de Control, a más tardar el primero de enero del ejercicio fiscal 2019, en los términos aquí prescritos y de conformidad con el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental y de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+TERCERO. La unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental conocerá de los asuntos competencia del Órgano Interno de Control, hasta en tanto se dé cumplimiento al artículo transitorio anterior.
