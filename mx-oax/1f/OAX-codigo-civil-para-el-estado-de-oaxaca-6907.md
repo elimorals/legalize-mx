@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2018-06-23"
+last_updated: "2018-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -546,6 +546,10 @@ VIII. El nombre, edad, ocupación, domicilio y nacionalidad de los padres;
 IX. El nombre, domicilio y nacionalidad de los abuelos paternos y maternos y de los testigos;
 
 X. El nombre, edad, ocupación, domicilio y nacionalidad de la persona distinta de los padres que haga la presentación, en su caso, y el grado de parentesco del registrado con esta última, y aquellos datos precisados en disposiciones legales o convenios expresos firmados sobre el particular por el Ejecutivo Estatal y otras dependencias oficiales.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+En todos los casos que se requiera, el Oficial del Registro Civil está obligado a registrar en el acta de nacimiento el nombre solicitado, con estricto apego a las formas orales, funcionales y simbólicas de comunicación pertenecientes a las lenguas indígenas.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -16492,3 +16496,9 @@ TERCERO.- El Registro Civil deberá facilitar los recursos materiales y humanos 
 CUARTO.- El Registro Civil, contará con un plazo de seis meses a partir de la entrada en vigor del presente Decreto para crear y operar el registro de deudores alimentarios. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el período inexistente entre la entrada en vigor de este decreto y la creación del registro estatal de deudores alimentarios, para lo anterior, el Tribunal Superior de Justicia del Estado deberá enviar al Registro Civil la información correspondiente para los efectos procedentes.
 
 QUINTO.- En un plazo de seis meses contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado realizará las adecuaciones necesarias al Reglamento del Registro Civil y demás disposiciones aplicables para ajustar el funcionamiento de los entes gubernamentales involucrados con el registro de deudores alimentarios.
+
+P.O. 15 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1545.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
