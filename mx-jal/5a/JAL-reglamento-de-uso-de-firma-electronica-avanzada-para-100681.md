@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-uso-de-firma-electronica-avanzada-para-100681"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-04-29"
-last_updated: "2014-04-29"
+last_updated: "2018-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE USO DE FIRMA ELECTRONICA AVANZADA PARA SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE USO DE FIRMA ELECTRÓNICA AVANZADA PARA SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 2014.
 
@@ -39,7 +41,9 @@ GUADALAJARA, JALISCO, A 29 DE ABRIL DE 2014
 
 Jorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado de Jalisco, con fundamento en los artículos 36, 46 y 50 fracciones I y VIII de la Constitución Política del Estado de Jalisco; 1°, 2°, 3°, 4°, 6° y 13 fracción IV de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; así como las disposiciones de la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios, y con base en los siguientes
 
-CONSIDERANDOS:…
+CONSIDERANDOS:
+
+[…]
 
 Por lo anteriormente expuesto y fundado, tengo a bien emitir el siguiente
 
@@ -69,11 +73,13 @@ IV. Reglamento: Reglamento de Uso de Firma Electrónica Avanzada para Servidores
 
 V. Secretaría: Secretaría General de Gobierno del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 3°.
 
-Los funcionarios de las dependencias, entidades, entes públicos estatales autónomos del Estado de Jalisco, quienes a criterio de su titular se consideren con facultades de decisión o susceptibles de hacer uso de firma electrónica avanzada, estarán obligados a utilizarla en los términos establecidos por la carta intención que se suscriba con la Secretaría, a través de la Dirección.
+Los funcionarios de las dependencias y entidades de la Administración Pública Estatal, así como de los entes públicos estatales autónomos, quienes a criterio de su titular se consideren con facultades de decisión o susceptibles de hacer uso de firma electrónica avanzada, estarán obligados a utilizarla en los términos establecidos por la carta intención que se suscriba con la Secretaría, a través de la Dirección.
 
-En el caso de los organismos públicos descentralizados, Ayuntamientos, los Poderes Legislativo y Judicial, todos ellos del Estado de Jalisco, esta determinación deberá preverse en el convenio de uso que, en cada caso, se celebre con la Secretaría.
+En el caso de los Ayuntamientos, los Poderes Legislativo y Judicial, todos ellos del Estado de Jalisco, esta determinación deberá preverse en el convenio de uso que, en cada caso, se celebre con la Secretaría.
 
 ###### Artículo 4°.
 
@@ -109,9 +115,11 @@ En caso de pérdida, extravío, olvido de la contraseña de la llave privada o q
 
 En el supuesto de que el servidor público cause baja por cualquier motivo, éste tendrá la obligación de devolver el mecanismo electrónico al Secretario, Director General, titular o equivalente del organismo público o dependencia del Poder Ejecutivo del Estado de Jalisco a la que se encuentre adscrito, así como a revocar su certificado electrónico conforme a las disposiciones que se encuentran establecidas en la Ley, su Reglamento y, en su caso, en los mecanismos que el PSC emisor tenga disponibles. La Administración General de Recursos Humanos del Gobierno del Estado de Jalisco, proporcionará a la Dirección un mecanismo electrónico por medio del cual enterará de la baja de un servidor público que tenga certificados electrónicos vigentes con el fin de generar la baja de los mismos.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 10.
 
-El incumplimiento de las disposiciones de la Ley, así como del presente Reglamento, será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, o bien de los procesos administrativos de cada organismo público o dependencia correspondiente.
+El incumplimiento de las disposiciones de la Ley, así como del presente Reglamento, será sancionado de conformidad con la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 TRANSITORIOS:
 
@@ -132,3 +140,13 @@ ARTURO ZAMORA JIMÉNEZ
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIGELAG ACU 034/2018 QUE MODIFICA EL REGLAMENTO DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, ASÍ COMO EL REGLAMENTO DE USO DE FIRMA ELECTRÓNICA AVANZADA PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco".
+
+SEGUNDO. Para efectos de la reforma al artículo 33 del Reglamento de la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios, seguirá aplicándose la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco en lo que resulte aplicable en términos del Artículo Segundo Transitorio del Decreto 26435/LXI/17 por el que se expidió la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
