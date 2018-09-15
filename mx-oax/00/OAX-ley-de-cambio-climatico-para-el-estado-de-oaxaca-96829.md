@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cambio-climatico-para-el-estado-de-oaxaca-96829"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2013-11-28"
+last_updated: "2018-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -87,7 +87,9 @@ Para efectos de esta Ley se entenderá por:
 
 I.- Adaptación: Medidas para minimizar la vulnerabilidad, la exposición al riesgo y las consecuencias adversas del cambio climático en sistemas humanos o naturales, o beneficiarse de sus efectos positivos;
 
-II.- Atlas de riesgo: Sistema integral de información, que permite establecer bases de datos y realizar el análisis del peligro, de la vulnerabilidad y del riesgo ante fenómenos naturales como el clima en Oaxaca;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+II.- Atlas de Riesgo: Documento dinámico cuyas evaluaciones de riesgo en asentamientos humanos, regiones o zonas geográficas vulnerables, consideran los actuales y futuros escenarios climáticos en el Estado de Oaxaca;
 
 III.- Cambio climático: Cambios del clima atribuidos directa o indirectamente a la actividad humana, resultado de alteraciones en la composición de la atmósfera global y el uso de suelo y que se suma a la variabilidad natural del clima observada durante períodos comparables;
 
@@ -151,7 +153,9 @@ XXXII.- Resistencia: Capacidad de los sistemas naturales o sociales para persist
 
 XXXIII.- Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción en su vulnerabilidad y la presencia de un agente perturbador;
 
-XXXIV.- Secretaría: Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIV.- Secretaría: Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable.
 
 XXXV.- Sistema Estatal de Bonos de Emisiones de Carbono: Sistema, que hace posible las transacciones de compra venta de reducciones o captura de emisiones de compuestos de efecto invernadero o de permisos de emisión;
 
@@ -279,7 +283,17 @@ XXI.- Aprobar el Proyecto de Reglamento que le presente el CTCC;
 
 XXII.- Informar semestralmente al Gobernador del Estado sobre sus avances y actividades; y
 
-XXIII.- Las demás que sean necesarias para el cumplimiento de sus fines, conforme a las bases y disposiciones de esta Ley y de su Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII.- Diseñar y promover políticas públicas para la preservación del medio ambiente en la prestación de servicios públicos y la planeación de viviendas;
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV.- Diseñar políticas públicas para la construcción de edificaciones sustentables públicas del Estado y Municipios, el uso de materiales ecológicos e instalaciones que permitan la eficiencia y sustentabilidad energética y contribuyan al ahorro en el consumo de agua, la mitigación de emisiones y la captura de carbono, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+XXV.- Las demás que sean necesarias para el cumplimiento de sus fines, conforme a las bases y disposiciones de esta Ley y su Reglamento.
 
 ###### Artículo 11.
 
@@ -1054,3 +1068,11 @@ Tlalixtac de Cabrera, Centro, Oax., a 06 de noviembre del 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE “DECRETO NÚM. 1527.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
