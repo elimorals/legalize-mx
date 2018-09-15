@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-y-conservacion-del-patrimonio-cultural-97200"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-14"
-last_updated: "2014-01-15"
+last_updated: "2018-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE PROTECCION Y CONSERVACION DEL PATRIMONIO CULTURAL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 29 DE SEPTIEMBRE DE 2018, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 15 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 14 de diciembre de 2013.
 
@@ -209,6 +209,10 @@ III. El Pleno Operativo; y
 
 IV. Un Órgano de Vigilancia.
 
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+V. El Consejo Consultivo Ciudadano.
+
 ### CAPÍTULO IV. DEL CONSEJO DIRECTIVO
 
 ###### Artículo 10.
@@ -261,7 +265,11 @@ V. Conocer y, en su caso, aprobar el informe anual de actividades de la Junta;
 
 VI. Promover ante las autoridades competentes, la preservación y rescate del patrimonio cultural del Estado, y
 
-VII. Las demás disposiciones jurídicas y administrativas aplicables.
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Integrar el Consejo Consultivo Ciudadano, de conformidad con el procedimiento previsto en esta Ley, y
+
+VIII. Las demás disposiciones jurídicas y administrativas aplicables.
 
 ### CAPÍTULO V. DEL DIRECTOR GENERAL
 
@@ -366,6 +374,30 @@ III. Inspeccionar y vigilar que las Direcciones y Subdirecciones de la Junta, cu
 IV. Evaluar la atención de las quejas, denuncias e inconformidades presentadas por los interesados; y
 
 V. Las demás que le atribuye la presente Ley, Ley Orgánica de la Administración Pública del Estado de Zacatecas y el Reglamento Interior de la Secretaría de la Función Pública.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 23 bis.- El Consejo Consultivo Ciudadano estará integrado por tres Consejeros que serán designados por el Consejo Directivo, previa realización de una convocatoria pública y abierta a la sociedad.
+
+El procedimiento para la selección de los Consejeros deberá garantizar la transparencia, la igualdad de género y la inclusión de personas con experiencia en la materia de esta Ley, provenientes de organizaciones de la sociedad civil y la academia.
+
+Los consejeros serán honoríficos y durarán en el cargo tres años y no podrán ser reelectos.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 23 ter.- El Consejo Consultivo Ciudadano tiene las siguientes atribuciones:
+
+I. Opinar sobre los proyectos y programas que debe realizar la Junta;
+
+II. Conocer el informe de la Junta sobre el presupuesto asignado a programas y el ejercicio presupuestal y emitir las observaciones correspondientes;
+
+III. Emitir opiniones para la mejora continua en el ejercicio de las funciones sustantivas de la Junta;
+
+IV. Opinar sobre la adopción de criterios generales en materia sustantiva de esta Ley;
+
+V. Solicitar al Director General información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Junta; y
+
+VI. Las demás que señale esta Ley y otros ordenamientos jurídicos.
 
 ### CAPÍTULO VIII. DEL PATRIMONIO DE LA JUNTA
 
@@ -906,3 +938,15 @@ ING. MARIO RODRÍGUEZ MÁRQUEZ
 EL PRESIDENTE DE LA JUNTA DE PROTECCIÓN Y CONSERVACIÓN DE MONUMENTOS Y ZONAS TÍPICAS DEL ESTADO DE ZACATECAS
 
 ING. RAFAEL SÁNCHEZ PREZA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 447.- SE REFORMA Y ADICIONA LA LEY DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente decreto deberá publicarse por una sola vez en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Dentro de los noventa días naturales contados a partir de la entrada en vigor de este Decreto, el Consejo Directivo iniciará el proceso de convocatoria a la sociedad para la designación y nombramiento de los integrantes del Consejo Consultivo Ciudadano de la Junta.
+
+TERCERO. Por única ocasión, el Consejo Consultivo Ciudadano durará en su cargo hasta el 7 de septiembre del año 2021, con el objetivo de que el siguiente Consejo Consultivo Ciudadano inicie con la correspondiente administración estatal, previo procedimiento de convocatoria y designación que el Consejo Directivo realice.
