@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2018-01-24"
+last_updated: "2018-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -359,6 +359,12 @@ La (sic) Secretarías de Turismo y Economía, procurarán que en cada desarrollo
 
 El Instituto proporcionará la asesoría, capacitación y apoyo logistico necesario para montar los espacios de exhibición y venta de artesanías, asimismo realizará las gestiones a que haya lugar, ante los Ayuntamientos y demás autoridades que correspondan con el objeto de fomentar la cultura artesanal.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 35 Bis.
+
+El Instituto podrá celebrar convenios de colaboración con los Ayuntamientos para el uso de los servicios básicos en las exposiciones artesanales, a fin de brindar confort a productores y consumidores en aras de fomentar la comercialización y difusión artesanal.
+
 ### CAPÍTULO XII. DE LOS DERECHOS FUNDAMENTALES DE LAS Y LOS ARTESANOS
 
 ###### Artículo 36.
@@ -384,6 +390,26 @@ V. Financiar campañas de difusión y publicidad de los productos artesanales oa
 El Fondo Artesanal podrá constituirse por las aportaciones estatales, federales, de la iniciativa privada, aportaciones particulares y de organismos internacionales.
 
 El Ejecutivo, a través de la Secretaria de Finanzas, destinará en el presupuesto de Egresos del Estado de Oaxaca, los recursos financieros necesarios para el cumplimiento de los objetivos de esta Ley.
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 1547 SE ADVIERTE QUE EL PRESENTE ORDENAMIENTO FUE PUBLICADO EN EL P.O. DE 27 DE ABRIL DE 2013, SIN LOS ARTÍCULOS 39 Y 40 (PÁGINA 5), POR LO QUE SE RESPETÓ LA LITERALIDAD DEL P.O. DE 15 DE SEPTIEMBRE DE 2018 (PÁGINA 4)]</small>
+
+###### Artículo 39.
+
+A efecto de fomentar las artesanías a nivel estatal, el Instituto promoverá diversas acciones y entre las cuales, de manera ejemplificativa podrán ser las siguientes:
+
+I. …
+
+II. …
+
+III. …
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Reconocer oficialmente la trayectoria artesanal, y,
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+
+V. Las demás que a juicio del Instituto tengan los mismos efectos de la política artesanal en Oaxaca.
 
 Artículo 41 (sic).- El Instituto diseñará políticas públicas para cumplir con los estándares nacionales e internacionales en materia de acceso a la información y transparencia en cuanto al tema de la producción artesanal. Estas políticas públicas incluirán la transparencia y rendición de cuentas de la asignación, eficacia, eficiencia y manejo del Fondo Artesanal.
 
@@ -456,3 +482,11 @@ P.O. 24 DE ENERO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM, 1547.- MEDIANTE CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA.”]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
