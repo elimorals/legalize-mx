@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2018-06-11"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -553,9 +553,9 @@ El Congreso tomará en cuenta las propuestas que hagan los Ayuntamientos relativ
 
 III.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, en el que no podrá haber partidas secretas, tomando en cuenta la Iniciativa enviada por el titular del Poder Ejecutivo, a la cual el Congreso, en su caso, podrá hacer modificaciones.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-Dentro del Presupuesto de Egresos del Estado, se incluirán las partidas plurianuales necesarias para cumplir con las obligaciones contraídas bajo la modalidad de Proyectos de Prestación de Servicios, que hayan sido previamente aprobados por el Pleno y que tengan por objeto crear infraestructura pública.
+Dentro del Presupuesto de Egresos del Estado, se incluirán las partidas plurianuales necesarias para cumplir con las obligaciones contraídas bajo la modalidad de Proyectos de Prestación de Servicios o Asociaciones Público-Privadas, que hayan sido previamente aprobados por el Pleno, en los términos que prevé esta Constitución y las disposiciones de la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
 
@@ -677,9 +677,9 @@ XXXII.- Elegir y nombrar al Fiscal General del Estado, y formular objeción a la
 
 XXXIII.- Nombrar a los miembros del Consejo de la Judicatura Estatal en los términos del artículo 55 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XXXIV.- Autorizar la realización de Proyectos de Prestación de Servicios al Estado, los Municipios y sus entidades públicas, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas. De igual manera se requerirá autorización respecto a las modificaciones por el aumento en el plazo y monto de los pagos plurianuales y la garantía de pago.
+XXXIV.- Autorizar al Estado, los Municipios y sus entidades públicas, previo análisis de sus capacidades de pago, la contratación y los montos máximos para los Proyectos de Prestación de Servicios o de Asociaciones Público-Privadas, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas. De igual manera se requerirá de dicha autorización respecto a las modificaciones por el aumento en el plazo y monto de los pagos plurianuales y la garantía de pago.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -1699,6 +1699,10 @@ Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y as
 
 Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Gobierno del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+Los Municipios tienen la obligación de ejercer una administración pública transparente, de rendición de cuentas y de carácter receptivo, eficaz y eficiente, que garantice a toda persona el derecho a recibir los servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad. Las Autoridades conformarán un sistema de índices de calidad de los servicios públicos, basado en criterios técnicos y acorde a dichos principios.
+
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 70.
@@ -1861,7 +1865,9 @@ En los juicios del orden civil no hay fuero ni inmunidad para ningún servidor p
 
 Serán sujetos de responsabilidad administrativa, los servidores públicos que en el desempeño de su cargo o comisión incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus funciones, empleos, cargos o comisiones, debiendo ser sancionado (sic) por la autoridad competente.
 
-Las sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos y omisiones.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+Las sanciones consistirán en amonestación, suspensión, destitución e inhabilitación temporal o definitiva, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos y omisiones.
 
 Las faltas administrativas graves que determinen las leyes, serán investigadas y substanciadas por el Órgano Superior de Fiscalización del Estado, y los respectivos órganos internos de control según corresponda, y serán resueltas por la Sala Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
@@ -1871,11 +1877,15 @@ Las leyes establecerán los supuestos y procedimientos para impugnar la clasific
 
 Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia de la Sala Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Estatal Especializada en Combate a la Corrupción a que se refiere esta Constitución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 82 A.- La Sala Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación temporal o definitiva para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de este Artículo cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-Artículo 82 A.- La Sala Administrativa impondrán (sic) a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de este Artículo cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
-
 Los procedimientos para la aplicación de las sanciones mencionadas en este Capítulo, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
@@ -3181,8 +3191,24 @@ Cumplidos los extremos legales que establece el Artículo 94 de la Constitución
 
 P.O. 11 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 272.- SE REFORMAN EL ARTÍCULO 15; LOS INCISOS G) Y H) DEL APARTADO C DEL ARTÍCULO 17; Y SE ADICIONA UN INCISO I) AL APARTADO C DEL ARTÍCULO 17, A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 272.- SE REFORMAN EL ARTÍCULO 15; LOS INCISOS G) Y H) DEL APARTADO C DEL ARTÍCULO 17; Y SE ADICIONA UN INCISO I) AL APARTADO C DEL ARTÍCULO 17, A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
 
 ###### ARTÍCULO ÚNICO.
+
+Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322.- SE REFORMAN EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III Y LA FRACCIÓN XXXIV DEL ARTÍCULO 27; ASÍ COMO SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 69 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día (sic) su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo dispuesto en el Artículo Transitorio siguiente.
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 344 "SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 82, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 82 A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
 
 Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
