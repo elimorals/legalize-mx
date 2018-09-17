@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2017-09-29"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -663,17 +661,15 @@ Son atribuciones de los ayuntamientos:
 
 I. Expedir y reformar el Bando Municipal, así como los reglamentos, circulares y disposiciones administrativas de observancia general dentro del territorio del municipio, que sean necesarios para su organización, prestación de los servicios públicos y, en general, para el cumplimiento de sus atribuciones;
 
-> <small>(REFORMADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-I Bis. Aprobar e implementar programas y acciones que promuevan un proceso constante de mejora regulatoria, de acuerdo con la Ley para la Mejora Regulatoria del Estado de México y Municipios y las disposiciones reglamentarias;
+I Bis. Aprobar e implementar programas y acciones que promuevan un proceso constante de mejora regulatoria de acuerdo con la Ley para la Mejora Regulatoria del Estado de México y Municipios, la Ley de Competitividad y Ordenamiento Comercial del Estado de México, la Ley de Fomento Económico del Estado de México, la Ley que crea la Comisión de Factibilidad del Estado de México, sus respectivos reglamentos y demás disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-I Ter. Aprobar y promover un programa para el otorgamiento de la licencia provisional de funcionamiento para negocios de bajo riesgo que no impliquen riesgos sanitarios, ambientales o de protección civil, conforme al Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo, consignado en la Ley de la materia, mismo que deberá publicarse dentro de los primeros 30 días naturales de cada Ejercicio Fiscal y será aplicable hasta la publicación del siguiente catálogo;
+I Ter. Aprobar y promover un programa para el otorgamiento de la licencia o permiso provisional de funcionamiento para negocios de bajo riesgo que no impliquen riesgos sanitarios, ambientales o de protección civil, conforme al Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo, consignado en la Ley de la materia, mismo que deberá publicarse dentro de los primeros 30 días naturales de cada Ejercicio Fiscal y será aplicable hasta la publicación del siguiente catálogo.
 
-> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
-
-El otorgamiento de la licencia a que hace referencia el párrafo anterior, en ningún caso estará sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+El otorgamiento de la licencia o permiso a que hace referencia el párrafo anterior, en ningún caso estará sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
 > <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -795,13 +791,17 @@ XXIV Bis. Promover las acciones y ejecutar los programas sociales necesarios par
 
 XXIV Ter. Los ayuntamientos informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
 
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XXIV Quáter. Otorgar licencias y permisos para construcciones privadas y para el funcionamiento de unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas;
+XXIV Quáter. Otorgar licencias y permisos para construcciones privadas, para el funcionamiento de unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, parques y desarrollos industriales, urbanos y de servicios.
 
-> <small>(ADICIONADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+Tratándose de obras, unidades económicas, inversiones o proyectos que requieran Dictamen Único de Factibilidad, la licencia o permiso correspondiente deberá otorgarse, en un plazo no mayor a veinte días hábiles, contados a partir de que le sea presentado el Dictamen Único de Factibilidad correspondiente, siempre y cuando el solicitante haya presentado el oficio de procedencia jurídica a más tardar diez días hábiles posteriores a la fecha de su recepción;
 
-XXIV Quinquies. Para las unidades económicas que tengan como actividad complementaria o principal la venta de bebidas alcohólicas, se otorgará licencia con vigencia de cinco años que deberá ser refrendada de manera anual, con independencia de que puedan ser sujetos de visitas de verificación para constatar el cumplimiento de las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV Quinques. Otorgar licencia de funcionamiento, previa presentación del Dictamen Único de Factibilidad, a las unidades económicas que tengan como actividad complementaria o principal la venta de bebidas alcohólicas. Esta licencia tendrá una vigencia de cinco años y deberá ser refrendada de manera anual, con independencia de que puedan ser sujetos de visitas de verificación para constatar el cumplimiento de las disposiciones jurídicas aplicables.
+
+Para el refrendo anual no es necesario obtener un nuevo Dictamen Único de Factibilidad, siempre y cuando, no se modifiquen la superficie de la unidad económica, su aforo o su actividad económica;
 
 > <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -873,19 +873,19 @@ XLIII. Conocer y, en su caso, acordar lo conducente acerca de las licencias temp
 
 XLIV. Crear el Registro Municipal de Unidades Económicas, donde se especifique la licencia de funcionamiento con la actividad de la unidad económica e impacto que generen, así como las demás características que se determinen;
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XLV. Colaborar con las autoridades estatales y federales en el ámbito de su competencia para establecer medidas regulatorias a unidades económicas de impacto regional y crear un registro específico que se regirá de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
+XLV. Colaborar con las autoridades estatales y federales en el ámbito de su competencia para establecer medidas regulatorias a unidades económicas de impacto urbano y crear un registro específico que se regirá de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
 
 > <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
 
 XLVI. Las demás que señalen las leyes y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 32.
 
-Para ocupar los cargos de Secretario, Tesorero, Director de Obras Públicas, Director de Desarrollo Económico, o equivalentes, titulares de las unidades administrativas y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
+Para ocupar los cargos de Secretario, Tesorero, Director de Obras Públicas, Director de Desarrollo Económico, Coordinador General Municipal de Mejora Regulatoria, Ecología, Desarrollo Urbano, o equivalentes, titulares de las unidades administrativas. Protección Civil, y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
 
 I. Ser ciudadano del Estado en pleno uso de sus derechos;
 
@@ -897,13 +897,13 @@ II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública;
 
 III. No haber sido condenado en proceso penal, por delito intencional que amerite pena privativa de libertad;
 
-> <small>(REFORMADA, G.G. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Acreditar ante el Presidente o ante el Ayuntamiento cuando sea el caso, el tener los conocimientos suficientes para poder desempeñar el cargo; contar con título profesional o experiencia mínima de un año en la materia, para el desempeño de los cargos que así lo requieran;
+IV. Contar con título profesional y acreditar experiencia mínima de un año en la materia, anta (sic) el Presidente o el Ayuntamiento, cuando sea el caso, para el desempeño de los cargos que así lo requieran; y
 
-> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-V. En los otros casos, acreditar ante los mencionados en la fracción anterior, contar preferentemente con carrera profesional concluida o en su caso con certificación o experiencia mínima de un año en la materia.
+V. En su caso, contar con certificación en la materia del cargo que se desempeñará.
 
 ### CAPITULO CUARTO. Actos administrativos que Requieren
 
@@ -949,11 +949,11 @@ V. Comprobación de que el inmueble no está destinado a un servicio público mu
 
 VI. El destino que se dará a los fondos que se obtengan de la enajenación.
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 36.
 
-Las enajenaciones de bienes inmuebles propiedad de los municipios y sus organismos auxiliares, una vez realizada la desincorporación, se efectuaran a través de subasta pública, en los términos de lo dispuesto en el Libro Décimo Tercero del Código Administrativo del Estado de México y su Reglamento.
+Las enajenaciones de bienes inmuebles propiedad de los municipios y sus organismos auxiliares, una vez realizada la desincorporación, se efectuarán a través de subasta pública, en los términos de lo dispuesto en la Ley de Contratación Pública del Estado de México y Municipios y su Reglamento.
 
 ###### Artículo 37.
 
@@ -1121,9 +1121,9 @@ V. Convocar a sesiones ordinarias y extraordinarias a los integrantes del ayunta
 
 VI. Proponer al ayuntamiento los nombramientos de secretario, tesorero y titulares de las dependencias y organismos auxiliares de la administración pública municipal, favoreciendo para tal efecto el principio de igualdad y equidad de género;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Bis. Expedir, previo acuerdo del Ayuntamiento, la licencia del establecimiento mercantil que autorice o permita la venta de bebidas alcohólicas;
+VI. Bis. Expedir, previo acuerdo del Ayuntamiento, la licencia del establecimiento mercantil que autorice o permita la venta de bebidas alcohólicas, en un plazo no mayor a tres días hábiles, contados a partir de que sea emitida la autorización del Ayuntamiento;
 
 VII. Presidir las comisiones que le asigne la ley o el ayuntamiento;
 
@@ -1143,21 +1143,25 @@ XII bis. Vigilar y ejecutar los programas y subprogramas de protección civil y 
 
 XIII. Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados o descentralizados y fideicomisos que formen parte de la estructura administrativa;
 
-> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XIII Bis. Desarrollar un programa permanente de mejora regulatoria, en coordinación con la dependencia del Ejecutivo del Estado que establezca la Ley de la materia, mismo que deberá de someter al acuerdo de Cabildo;
+XIII Bis. Desarrollar y ejecutar las políticas, programas y acciones en materia de mejora regulatoria, en coordinación con sus dependencias, órganos auxiliares y demás autoridades de conformidad con la Ley para la Mejora Regulatoria del Estado de México y Municipios, la Ley de Competitividad y Ordenamiento Comercial del Estado de México, la Ley de Fomento Económico del Estado de México, la Ley que crea la Comisión de Factibilidad del Estado de México, sus respectivos reglamentos y demás disposiciones jurídicas aplicables, previa aprobación en Cabildo;
 
-> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XIII Ter. Proponer al ayuntamiento y ejecutar un programa especial para otorgar la licencia provisional de funcionamiento para negocios de bajo riesgo sanitario, ambiental o de protección civil, que autorice el cabildo conforme a la clasificación contenida en el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo;
+XIII Ter. Proponer al ayuntamiento y ejecutar un programa especial para otorgar la licencia o permiso provisional de funcionamiento para negocios de bajo riesgo sanitario, ambiental o de protección civil, que autorice el cabildo conforme a la clasificación contenida en el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo.
 
-> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+Para tal efecto, deberá garantizar que el otorgamiento de la licencia o permiso no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios;
 
-Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+XIII Quáter. Expedir o negar licencias o permisos de funcionamiento, previo acuerdo del ayuntamiento, para las unidades económicas, empresas, parques y desarrollos industriales, urbanos y de servicios dando respuesta en un plazo que no exceda de tres días hábiles posteriores a la fecha de la resolución del ayuntamiento y previa presentación del Dictamen Único de Factibilidad, en su caso.
 
-XIII Quáter. Expedir o negar licencias o permisos de funcionamiento, previo acuerdo del ayuntamiento, para las unidades económicas, empresas y parques industriales, dando respuesta en un plazo que no exceda de tres días hábiles posteriores a la fecha de la resolución del ayuntamiento;
+Al efecto, deberá someter a la consideración del Ayuntamiento la autorización de licencias o permisos de funcionamiento en un plazo no mayor a diez días hábiles, contados a partir de que la persona física o jurídica colectiva interesada presente el Dictamen Único de Factibilidad que, de conformidad con la legislación y normatividad aplicables, se requiera.
+
+La autoridad municipal deberá iniciar los trámites relativos con las autorizaciones, licencias o permisos, a partir de que el solicitante presente el oficio de procedencia jurídica emitido por la Comisión de Factibilidad del Estado de México.
+
+Una vez que el solicitante entregue el Dictamen Único de Factibilidad, de ser procedente, podrá obtener la autorización, licencia o permiso correspondiente.
 
 > <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -1173,9 +1177,9 @@ Dicho informe se publicará en la página oficial, en la Gaceta Municipal y en l
 
 XVI. Cumplir y hacer cumplir dentro de su competencia, las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar, a los infractores las sanciones correspondientes o remitirlos, en su caso, a las autoridades correspondientes;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XVI Bis. Vigilar que los establecimientos mercantiles con venta o suministro de bebidas alcohólicas en botella cerrada, consumo inmediato y al copeo, cuenten con la correspondiente licencia de funcionamiento y con las disposiciones legales y reglamentarias correspondientes, instaurar los procedimientos sancionadores correspondientes y, en su caso, dar vista al Ministerio Público por la posible comisión de algún delito;
+XVI Bis. Coadyuvar con el Instituto de Verificación Administrativa del Estado de México respecto a la vigilancia a los establecimientos mercantiles con venta o suministro de bebidas alcohólicas en botella cerrada, consumo inmediato y al copeo, a fin de verificar que cuenten con la correspondiente licencia de funcionamiento y el Dictamen Único de Factibilidad y cumplan con las disposiciones legales y reglamentarias correspondientes. Asimismo, para instaurar, los procedimientos sancionadores correspondientes y, en su caso, dar vista al Ministerio Público por la posible comisión de algún delito;
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1301,7 +1305,9 @@ XI. Participar en los remates públicos en los que tenga interés el municipio, 
 
 XII. Verificar que los remates públicos se realicen en los términos de las leyes respectivas;
 
-XIII. Verificar que los funcionarios y empleados del municipio cumplan con hacer la manifestación de bienes que prevé la Ley de Responsabilidades para los Servidores Públicos del Estado y Municipios;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Verificar que los funcionarios y empleados del municipio cumplan con hacer la manifestación de bienes que prevé la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
 XIV. Admitir, tramitar y resolver los recursos administrativos que sean de su competencia;
 
@@ -1673,13 +1679,11 @@ Las unidades municipales de protección civil tendrán a su cargo la organizaci�
 
 La Unidad Municipal de Protección Civil, será la autoridad encargada de dar la primer respuesta en la materia, debiendo asistir a las emergencias que se presenten en su demarcación; en caso de que su capacidad de repuesta (sic) sea superada, está obligada a notificar al Presidente Municipal para solicitar la intervención de la Dirección General de Protección Civil del Estado de México.
 
-> <small>(ADICIONADO, G.G. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 81 Bis.
 
-Para ser titular de la Unidad Municipal de Protección Civil se requiere, además de los requisitos del artículo 32 de esta Ley:
-
-I. Tener los conocimientos suficientes debidamente acreditados en materia de protección civil para poder desempeñar el cargo y acreditar dentro de los seis meses siguientes a partir del momento en que ocupe el cargo, haber tomado cursos de capacitación en la materia, impartidos por la Dirección General de Protección Civil del Estado de México o por cualquier otra institución debidamente reconocida por la misma.
+Para ser titular de la Unidad Municipal de Protección Civil se requiere, además de los requisitos del artículo 32 de esta Ley, tener los conocimientos suficientes debidamente acreditados en materia de protección civil para poder desempeñar el cargo y acreditar dentro de los seis meses siguientes a partir del momento en que ocupe el cargo, a través del certificado respectivo, haber tomado cursos de capacitación en la materia, impartidos por la Coordinación General de Protección Civil del Estado de México o por cualquier otra institución debidamente reconocida por la misma.
 
 > <small>(ADICIONADO, G.G. 4 DE OCTUBRE DE 2010)</small>
 
@@ -1743,13 +1747,67 @@ El presidente municipal, al inicio de su período constitucional, convocará a o
 
 La Comisión de Planeación para el Desarrollo Municipal contará con un mínimo de cinco miembros encabezados por quien designe el ayuntamiento, y podrá tener tantos como se juzgue conveniente para el eficaz desempeño de sus funciones, los cuales durarán en su encargo el período municipal correspondiente.
 
-### CAPITULO PRIMERO. De las Dependencias Administrativas
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2009)</small>
+### CAPITULO OCTAVO. Comisión Municipal de Mejora Regulatoria
+
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 85 Bis.
+
+Las Comisiones Municipales de Mejora Regulatoria se conformarán, en su caso por:
+
+I. El Presidente Municipal, quien lo presidirá;
+
+II. Un Secretario Técnico que será el Coordinador General Municipal de Mejora Regulatoria;
+
+III. El Síndico Municipal;
+
+IV. El número de regidores que estime cada Ayuntamiento y que serán los encargados de las comisiones que correspondan para el cumplimiento del objeto de las disposiciones jurídicas en materia de mejora regulatoria;
+
+V. El titular del área jurídica;
+
+VI. Representantes empresariales de organizaciones legalmente constituidas, que determine el Presidente Municipal con acuerdo de Cabildo; y
+
+VII. Todos los titulares de las diferentes áreas que integran la administración municipal.
+
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 85 Ter.
+
+El Coordinador General Municipal de Mejora Regulatoria será designado por la o el Presidente Municipal.
+
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 85 Quáter.
+
+Los titulares de dependencias y organismos auxiliares, como sujetos obligados, designarán a un servidor público, que tenga un nivel jerárquico inmediato inferior, como responsable oficial de mejora regulatoria para coordinar, articular y vigilar el cumplimiento de la política de mejora regulatoria y la estrategia al interior de cada área conforme a lo dispuesto en las disposiciones jurídicas aplicables.
+
+La coordinación y comunicación entre el sujeto obligado municipal y la autoridad estatal en materia de mejora regulatoria, se llevará a cabo a través del Coordinador General Municipal de Mejora Regulatoria, para el cumplimiento de las disposiciones jurídicas de la materia.
+
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 85 Quinquies.
+
+El Coordinador General Municipal de Mejora Regulatoria, tendrán las atribuciones que se establezcan en la normatividad Municipal, además de las siguientes:
+
+I. Auxiliar al Presidente Municipal en la ejecución de las políticas, programas y acciones en materia de mejora regulatoria que autorice el Cabildo;
+
+II. Coordinarse con las dependencias federal y estatal que son responsables de la mejora regulatoria, de conformidad a las disposiciones jurídicas aplicables; y
+
+III. Las demás que señalen las disposiciones jurídicas de la materia.
+
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 85 Sexies.
+
+El Coordinador General Municipal de Mejora Regulatoria, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional, además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, el diplomado en materia de mejora regulatoria expedido por el Instituto de Profesionalización de los Servidores Públicos del Estado de México o la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
 
 ## TITULO IV. Régimen Administrativo
 
-### CAPITULO SEGUNDO. De la Tesorería Municipal
+### CAPITULO PRIMERO. De las Dependencias Administrativas
+
+> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 86.
 
@@ -1770,6 +1828,18 @@ III. La Dirección de Obras Públicas o equivalente.
 > <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 IV. La Dirección de Desarrollo Económico o equivalente.
+
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+V. La Dirección de Desarrollo Urbano o equivalente;
+
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+VI. La Dirección de Ecología o equivalente; y
+
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Unidad Municipal de Protección Civil o equivalente.
 
 ###### Artículo 88.
 
@@ -1845,7 +1915,7 @@ III. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
 
 IV. Contar con la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México, dentro de los seis meses siguientes a la fecha en que inicie sus funciones.
 
-### CAPITULO TERCERO. De la Hacienda Pública Municipal
+### CAPITULO SEGUNDO. De la Tesorería Municipal
 
 ###### Artículo 93.
 
@@ -2013,15 +2083,19 @@ I. Diseñar y promover políticas que generen inversiones productivas y empleos 
 
 II. Promover programas de simplificación, desregulación y transparencia administrativa para facilitar la actividad económica;
 
-III. Auxiliar al Presidente Municipal en la ejecución del programa de mejora regulatoria que autorice el Cabildo en los términos de la Ley de la materia;
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+II Bis. Impulsar la simplificación de trámites y reducción de plazos para el otorgamiento de permisos, licencias y autorizaciones del orden municipal, de conformidad con la Ley para la Mejora Regulatoria del Estado de México y Municipios, la Ley de Competitividad y Ordenamiento Comercial del Estado de México, la Ley de Fomento Económico del Estado de México, la Ley que crea la Comisión de Factibilidad del Estado de México, sus respectivos reglamentos y demás disposiciones jurídicas aplicables;
+
+III. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 IV. Desarrollar e implementar las acciones de coordinación que permitan la adecuada operación del Sistema Único de Gestión Empresarial, de conformidad con la Ley de la materia;
 
 V. Establecer y operar el Sistema de Apertura Rápida de Empresas del Estado de México en coordinación con los distintos órdenes de Gobierno en los términos que establece la Ley de la materia;
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-En los casos en que no se haya celebrado convenio de coordinación para la unidad económica del Sistema de Apertura Rápida de Empresas del Estado de México en el municipio, se deberá establecer y operar una ventanilla única que brinde orientación, asesoría y gestión a los particulares respecto de los trámites requeridos para la instalación, apertura, operación y ampliación de nuevos negocios que no generen impacto regional;
+En los casos en que no se haya celebrado convenio de coordinación para la unidad económica del Sistema de Apertura Rápida de Empresas del Estado de México en el municipio, se deberá establecer y operar una ventanilla única que brinde orientación, asesoría y gestión a los particulares respecto de los trámites requeridos para la instalación, apertura, operación y ampliación de nuevos negocios que no generen impacto urbano;
 
 VI. Desarrollar y difundir un sistema de información y promoción del sector productivo del Municipio;
 
@@ -2045,13 +2119,15 @@ XV. Promover el consumo en establecimientos comerciales y de servicios del Munic
 
 XVI. Fomentar la comercialización de productos hechos en el Municipio en mercados nacionales e internacionales;
 
-XVII. Auxiliar al Presidente Municipal en la coordinación con las dependencias del Ejecutivo Estatal que son responsables de la mejora regulatoria y fomento económico en los términos que señale la Ley de la materia;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Auxiliar al Presidente Municipal en la coordinación con las dependencias del Ejecutivo Estatal que son responsables del fomento económico en los términos que señale la Ley de la materia;
 
 XVIII. Conducir la coordinación interinstitucional de las dependencias municipales a las que corresponda conocer sobre el otorgamiento de permisos y licencias para la apertura y funcionamiento de unidades económicas;
 
-> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2067,7 +2143,61 @@ Artículo 96 Quintus.- El Director de Desarrollo Económico o Titular de la Unid
 
 Además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
 
-### CAPITULO CUARTO. De la Contraloría Municipal
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 96 Sexies.
+
+El Director de Desarrollo Urbano o el Titular de la Unidad Administrativa equivalente, tiene las atribuciones siguientes:
+
+I. Ejecutar la política en materia de reordenamiento urbano;
+
+II. Formular y conducir las políticas municipales de asentamientos humanos, urbanismo y vivienda;
+
+III. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de ordenamiento territorial de los asentamientos humanos, del desarrollo urbano y vivienda;
+
+IV. Proponer el plan municipal de desarrollo urbano, así como sus modificaciones, y los parciales que de ellos deriven;
+
+V. Participar en la elaboración o modificación del respectivo plan regional de desarrollo urbano o de los parciales que de éste deriven, cuando incluya parte o la totalidad de su territorio;
+
+VI. Analizar las cédulas informativas de zonificación, licencias de uso de suelo y licencias de construcción;
+
+VII. Vigilar la utilización y aprovechamiento del suelo con fines urbanos, en su circunscripción territorial;
+
+VIII. Proponer al Presidente Municipal, convenios, contratos y acuerdos, y
+
+IX. Las demás que le sean conferidas por el Presidente Municipal o por el Ayuntamiento y las establecidas en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 96 Septies.
+
+El Director de Desarrollo Urbano o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de ingeniería civil-arquitectura; además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
+
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 96 Octies.
+
+El Director de Ecología o el Titular de la Unidad Administrativa equivalente, tiene las atribuciones siguientes:
+
+I. Ejecutar la política en materia de conservación ecológica, biodiversidad y protección al medio ambiente para el desarrollo sostenible;
+
+II. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de ecología y de protección al ambiente;
+
+III. Proponer convenios para la protección al ambiente, al Presidente Municipal, en términos de las disposiciones jurídicas aplicables;
+
+IV. Proponer lineamientos destinados a preservar y restaurar el equilibrio ecológico y proteger el ambiente, al Presidente Municipal;
+
+V. Proponer medidas y criterios para la prevención y control de residuos y emisiones generadas por fuentes contaminantes; y
+
+VI. Las demás que le sean conferidas por el Presidente Municipal o por el Ayuntamiento y las establecidas en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 96 Nonies.
+
+El Director de Ecología o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de biología-agronomía-administración pública; además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
+
+### CAPITULO TERCERO. De la Hacienda Pública Municipal
 
 ###### Artículo 97.
 
@@ -2145,11 +2275,11 @@ Son bienes del dominio privado de los municipios, aquellos que no son de uso com
 
 Se consideran bienes del dominio privado municipal, los señalados en la Ley de Bienes del Estado de México y de sus Municipios.
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 107.
 
-El Ayuntamiento, previo dictamen del Comité correspondiente, podrá acordar la transmisión a título oneroso o gratuito, de los bienes muebles del dominio privado municipal, a través del procedimiento establecido en el Libro Décimo Tercero del Código Administrativo del Estado de México y su Reglamento.
+El Ayuntamiento, previo dictamen del Comité correspondiente, podrá acordar la transmisión a título oneroso o gratuito, de los bienes muebles del dominio privado municipal, a través del procedimiento establecido en la Ley de Contratación Pública del Estado de México y Municipios y su Reglamento.
 
 ###### Artículo 108.
 
@@ -2161,59 +2291,7 @@ Los tribunales del Estado serán competentes para conocer de los juicios que se 
 
 Se reconoce acción popular para denunciar ante el ayuntamiento, ante el Órgano Superior de Fiscalización del Estado de México, o ante el Ejecutivo del Estado, la malversación de fondos municipales y cualquier otro hecho presuntamente delictivo en contra de la hacienda municipal.
 
-### CAPITULO CUARTO BIS. De los Comités Ciudadanos de
-
-Control y Vigilancia
-
-> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
-
-Artículo 113 A.- Los ayuntamientos promoverán la constitución de comités ciudadanos de control y vigilancia, los que serán responsables de supervisar la obra pública estatal y municipal.
-
-> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
-
-Artículo 113 B.- Los comités ciudadanos de control y vigilancia estarán integrados por tres vecinos de la localidad en la que se construya la obra, serán electos en asamblea general, por los ciudadanos beneficiados por aquélla. El cargo de integrante del comité será honorífico.
-
-No podrán ser integrantes de los comités las personas que sean dirigentes de organizaciones políticas o servidores públicos.
-
-> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
-
-Artículo 113 C.- Para cada obra estatal o municipal se constituirá un comité ciudadano de control y vigilancia. Sin embargo, en aquellos casos en que las características técnicas o las dimensiones de la obra lo ameriten, podrán integrarse más de uno.
-
-> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
-
-Artículo 113 D.- Los comités ciudadanos de control y vigilancia tendrán además, las siguientes funciones:
-
-I. Vigilar que la obra pública se realice de acuerdo al expediente técnico y dentro de la normatividad correspondiente;
-
-II. Participar como observador en los procesos o actos administrativos relacionados con la adjudicación o concesión de la ejecución de la obra;
-
-III. Hacer visitas de inspección y llevar registro de sus resultados;
-
-IV. Verificar la calidad con que se realiza la obra pública,
-
-V. Hacer del conocimiento de las autoridades correspondientes las irregularidades que observe durante el desempeño de sus funciones o las quejas que reciba de la ciudadanía, con motivo de las obras objeto de supervisión,
-
-VI. Integrar un archivo con la documentación que se derive de la supervisión de las obras,
-
-VII. Intervenir en los actos de entrega-recepción de las obras y acciones, informando a los vecinos el resultado del desempeño de sus funciones; y
-
-VIII. Promover el adecuado mantenimiento de la obra pública ante las autoridades municipales.
-
-> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
-
-Artículo 113 E.- Los comités ciudadanos de control y vigilancia deberán apoyarse en las contralorías municipal y estatal y coadyuvar con el órgano de control interno municipal en el desempeño de las funciones a que se refieren las fracciones VII y VIII del artículo 112 de esta ley.
-
-> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
-
-Artículo 113 F.- Las dependencias y entidades de la administración pública municipal que construyan las obras o realicen las acciones, explicarán a los comités ciudadanos de control y vigilancia, las características físicas y financieras de las obras y les proporcionarán, antes del inicio de la obra, el resumen del expediente técnico respectivo y darles el apoyo, las facilidades y la información necesaria para el desempeño de sus funciones.
-
-> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
-
-Artículo 113 G.- Las dependencias y entidades señaladas en el artículo anterior harán la entrega-recepción de las obras ante los integrantes de los comités ciudadanos de control y vigilancia y de los vecinos de la localidad beneficiados con la obra.
-
-> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
-
-Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
+### CAPITULO CUARTO. De la Contraloría Municipal
 
 ###### Artículo 110.
 
@@ -2281,9 +2359,61 @@ Para ser contralor se requiere cumplir con los requisitos que se exigen para ser
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 15 DE FEBRERO DE 1999)</small>
 
-### CAPITULO QUINTO. De la Planeación
+### CAPITULO CUARTO BIS. De los Comités Ciudadanos de
 
-### CAPITULO SEXTO. De los Organismos Auxiliares y Fideicomisos
+Control y Vigilancia
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 A.- Los ayuntamientos promoverán la constitución de comités ciudadanos de control y vigilancia, los que serán responsables de supervisar la obra pública estatal y municipal.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 B.- Los comités ciudadanos de control y vigilancia estarán integrados por tres vecinos de la localidad en la que se construya la obra, serán electos en asamblea general, por los ciudadanos beneficiados por aquélla. El cargo de integrante del comité será honorífico.
+
+No podrán ser integrantes de los comités las personas que sean dirigentes de organizaciones políticas o servidores públicos.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 C.- Para cada obra estatal o municipal se constituirá un comité ciudadano de control y vigilancia. Sin embargo, en aquellos casos en que las características técnicas o las dimensiones de la obra lo ameriten, podrán integrarse más de uno.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 D.- Los comités ciudadanos de control y vigilancia tendrán además, las siguientes funciones:
+
+I. Vigilar que la obra pública se realice de acuerdo al expediente técnico y dentro de la normatividad correspondiente;
+
+II. Participar como observador en los procesos o actos administrativos relacionados con la adjudicación o concesión de la ejecución de la obra;
+
+III. Hacer visitas de inspección y llevar registro de sus resultados;
+
+IV. Verificar la calidad con que se realiza la obra pública,
+
+V. Hacer del conocimiento de las autoridades correspondientes las irregularidades que observe durante el desempeño de sus funciones o las quejas que reciba de la ciudadanía, con motivo de las obras objeto de supervisión,
+
+VI. Integrar un archivo con la documentación que se derive de la supervisión de las obras,
+
+VII. Intervenir en los actos de entrega-recepción de las obras y acciones, informando a los vecinos el resultado del desempeño de sus funciones; y
+
+VIII. Promover el adecuado mantenimiento de la obra pública ante las autoridades municipales.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 E.- Los comités ciudadanos de control y vigilancia deberán apoyarse en las contralorías municipal y estatal y coadyuvar con el órgano de control interno municipal en el desempeño de las funciones a que se refieren las fracciones VII y VIII del artículo 112 de esta ley.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 F.- Las dependencias y entidades de la administración pública municipal que construyan las obras o realicen las acciones, explicarán a los comités ciudadanos de control y vigilancia, las características físicas y financieras de las obras y les proporcionarán, antes del inicio de la obra, el resumen del expediente técnico respectivo y darles el apoyo, las facilidades y la información necesaria para el desempeño de sus funciones.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 G.- Las dependencias y entidades señaladas en el artículo anterior harán la entrega-recepción de las obras ante los integrantes de los comités ciudadanos de control y vigilancia y de los vecinos de la localidad beneficiados con la obra.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
+
+### CAPITULO QUINTO. De la Planeación
 
 ###### Artículo 114.
 
@@ -2337,7 +2467,7 @@ El Plan de Desarrollo y los programas que de éste se deriven, serán obligatori
 
 Los planes y programas podrán ser modificados o suspendidos siguiendo el mismo procedimiento que para su elaboración, aprobación y publicación, cuando lo demande el interés social o lo requieran las circunstancias de tipo técnico o económico.
 
-### CAPITULO SEPTIMO. De los Servicios Públicos
+### CAPITULO SEXTO. De los Organismos Auxiliares y Fideicomisos
 
 ###### Artículo 123.
 
@@ -2365,11 +2495,11 @@ d) Otros que consideren convenientes.
 
 Los órganos de control y evaluación gubernamental de los ayuntamientos, serán los responsables de la supervisión y evaluación de la operación de los organismos auxiliares y fideicomisos a que se refiere el presente capítulo.
 
+### CAPITULO SEPTIMO. De los Servicios Públicos
+
 ### CAPITULO OCTAVO. De los Cuerpos de Seguridad Pública y Tránsito
 
 > <small>(REFORMADO, G.G. 25 DE ABRIL DE 2013)</small>
-
-### CAPITULO NOVENO. Del Sistema de Mérito y Reconocimiento al Servicio Público Municipal
 
 ###### Artículo 125.
 
@@ -2510,6 +2640,52 @@ El ayuntamiento emitirá la declaratoria de municipalización, una vez oído a l
 ###### Artículo 141.
 
 Una vez decretada la municipalización del servicio, si el ayuntamiento carece de recursos para prestarlo, podrá concesionarlo en términos de esta Ley.
+
+### CAPITULO NOVENO. Del Sistema de Mérito y Reconocimiento al Servicio Público Municipal
+
+###### Artículo 142.
+
+En cada municipio se integrarán cuerpos de seguridad pública, de bomberos y, en su caso, de tránsito, estos servidores públicos preferentemente serán vecinos del municipio, de los cuales el presidente municipal será el jefe inmediato.
+
+###### Artículo 143.
+
+El Ejecutivo Federal y el Gobernador del Estado en los términos del artículo 115, fracción VII de la Constitución General de la República, tendrán el mando de la fuerza pública en los municipios donde residan habitual o transitoriamente.
+
+En el municipio donde residan permanentemente los Poderes del Estado, el mando de la fuerza pública municipal lo ejercerá, en cualquier caso el Ejecutivo Estatal a través de la Dirección General de Seguridad Pública y Tránsito.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 144.
+
+Los cuerpos municipales de seguridad pública, de protección civil, de bomberos y de tránsito, se coordinarán en lo relativo a su organización, funcionamiento y aspectos técnicos con la Secretaría General de Gobierno por conducto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la Secretaría de Seguridad, el Centro de Control de Confianza, el Instituto Mexiquense de Seguridad y Justicia y la Dirección General de Protección Civil.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Bis.
+
+Para el personal de protección civil, el municipio podrá implementar el servicio profesional de carrera y un régimen complementario de seguridad social.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Ter.
+
+Los Municipios generarán con cargo a sus presupuestos un régimen complementario de seguridad social; reconocimientos y estímulos para Bomberos.
+
+El régimen de estímulos, es el mecanismo por el cual se otorga el reconocimiento público por actos de servicio meritorio o por trayectoria ejemplar, con el objeto de fomentar la calidad y efectividad en el desempeño del servicio para incrementar las posibilidades de promoción y fortalecer la identidad institucional.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Quater.
+
+El Servicio Profesional de Carrera para Bomberos y personal de Protección Civil, es el sistema de administración y control del personal que promueve su profesionalización, desarrollo y permanencia, asegurando la igualdad de oportunidades, ingreso, ascensos, estímulos y beneficios con base en el mérito y la experiencia.
+
+El Servicio Profesional de Carrera para Bomberos y Protección Civil comprende el grado, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Quinquies.
+
+Los municipios en uso de su autonomía hacendaria, podrán convenir con instituciones públicas o privadas, un sistema de ahorro para la obtención de vivienda, a favor de los Bomberos, Protección Civil y de los cuerpos de seguridad pública.
 
 ### CAPITULO DECIMO. Selección, Nombramiento, Atribuciones y Obligaciones del Defensor Municipal de Derechos Humanos
 
@@ -2703,49 +2879,55 @@ Artículo 147 O.- Corresponderá a la Comisión de Derechos Humanos del Estado d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE JULIO DE 2013)</small>
 
-###### Artículo 142.
+###### Artículo 145.
 
-En cada municipio se integrarán cuerpos de seguridad pública, de bomberos y, en su caso, de tránsito, estos servidores públicos preferentemente serán vecinos del municipio, de los cuales el presidente municipal será el jefe inmediato.
+En cada municipio se establecerá un sistema de mérito y reconocimiento al servicio público municipal con los siguientes objetivos:
 
-###### Artículo 143.
+I. Mejorar la capacidad de los recursos humanos, estimulados por la capacitación o motivación de los servidores públicos municipales;
 
-El Ejecutivo Federal y el Gobernador del Estado en los términos del artículo 115, fracción VII de la Constitución General de la República, tendrán el mando de la fuerza pública en los municipios donde residan habitual o transitoriamente.
+II. Mejorar la calidad de los servicios públicos;
 
-En el municipio donde residan permanentemente los Poderes del Estado, el mando de la fuerza pública municipal lo ejercerá, en cualquier caso el Ejecutivo Estatal a través de la Dirección General de Seguridad Pública y Tránsito.
+III. Desarrollar un sistema efectivo de capacitación y desarrollo;
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+IV. Lograr la continuidad de los programas;
 
-###### Artículo 144.
+V. Aprovechar integralmente la experiencia del servidor público municipal;
 
-Los cuerpos municipales de seguridad pública, de protección civil, de bomberos y de tránsito, se coordinarán en lo relativo a su organización, funcionamiento y aspectos técnicos con la Secretaría General de Gobierno por conducto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la Secretaría de Seguridad, el Centro de Control de Confianza, el Instituto Mexiquense de Seguridad y Justicia y la Dirección General de Protección Civil.
+VI. Orientar la función pública municipal a la calidad total en los servicios públicos;
 
-> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+VII. Propiciar el desarrollo integral de los servidores públicos.
 
-###### Artículo 144 Bis.
+###### Artículo 146.
 
-Para el personal de protección civil, el municipio podrá implementar el servicio profesional de carrera y un régimen complementario de seguridad social.
+El sistema de mérito y reconocimiento al servicio público municipal contará con una Comisión Municipal de Evaluación y Reconocimiento Público Municipal en la que participarán:
 
-> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+I. El presidente municipal, quien la presidirá;
 
-###### Artículo 144 Ter.
+II. Un regidor como secretario técnico;
 
-Los Municipios generarán con cargo a sus presupuestos un régimen complementario de seguridad social; reconocimientos y estímulos para Bomberos.
+III. A invitación del presidente municipal, un representante del Gobierno del Estado;
 
-El régimen de estímulos, es el mecanismo por el cual se otorga el reconocimiento público por actos de servicio meritorio o por trayectoria ejemplar, con el objeto de fomentar la calidad y efectividad en el desempeño del servicio para incrementar las posibilidades de promoción y fortalecer la identidad institucional.
+IV. En su caso, representantes de colegios o asociaciones profesionales o técnicas.
 
-> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+###### Artículo 147.
 
-###### Artículo 144 Quater.
+Las funciones de la Comisión Municipal de Evaluación y Reconocimiento del Servicio Público Municipal serán las siguientes:
 
-El Servicio Profesional de Carrera para Bomberos y personal de Protección Civil, es el sistema de administración y control del personal que promueve su profesionalización, desarrollo y permanencia, asegurando la igualdad de oportunidades, ingreso, ascensos, estímulos y beneficios con base en el mérito y la experiencia.
+I. Diseñar y operar un sistema de méritos y reconocimientos a la función pública en áreas técnicas;
 
-El Servicio Profesional de Carrera para Bomberos y Protección Civil comprende el grado, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante.
+II. Aplicar exámenes de oposición a los candidatos a ocupar los puestos en áreas técnicas;
 
-> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+III. Emitir dictámenes sobre el desempeño de los servidores públicos de áreas técnicas;
 
-###### Artículo 144 Quinquies.
+IV. Celebrar evaluaciones cada seis meses a los servidores públicos de áreas técnicas;
 
-Los municipios en uso de su autonomía hacendaria, podrán convenir con instituciones públicas o privadas, un sistema de ahorro para la obtención de vivienda, a favor de los Bomberos, Protección Civil y de los cuerpos de seguridad pública.
+V. Llevar un expediente individual de cada una de las personas que colaboran en la Administración Pública Municipal de manera permanente, donde consten los aspectos de las fracciones anteriores para la promoción y desarrollo del personal;
+
+VI. Promover la capacitación y especialización permanente del personal que labora en las áreas técnicas;
+
+VII. Las que el ayuntamiento le asigne.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO DECIMO PRIMERO. Del Cronista Municipal
 
@@ -2799,101 +2981,17 @@ Artículo 147 V.- De conformidad con la disposición presupuestal de cada Ayunta
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
-###### Artículo 145.
-
-En cada municipio se establecerá un sistema de mérito y reconocimiento al servicio público municipal con los siguientes objetivos:
-
-I. Mejorar la capacidad de los recursos humanos, estimulados por la capacitación o motivación de los servidores públicos municipales;
-
-II. Mejorar la calidad de los servicios públicos;
-
-III. Desarrollar un sistema efectivo de capacitación y desarrollo;
-
-IV. Lograr la continuidad de los programas;
-
-V. Aprovechar integralmente la experiencia del servidor público municipal;
-
-VI. Orientar la función pública municipal a la calidad total en los servicios públicos;
-
-VII. Propiciar el desarrollo integral de los servidores públicos.
-
-###### Artículo 146.
-
-El sistema de mérito y reconocimiento al servicio público municipal contará con una Comisión Municipal de Evaluación y Reconocimiento Público Municipal en la que participarán:
-
-I. El presidente municipal, quien la presidirá;
-
-II. Un regidor como secretario técnico;
-
-III. A invitación del presidente municipal, un representante del Gobierno del Estado;
-
-IV. En su caso, representantes de colegios o asociaciones profesionales o técnicas.
-
-###### Artículo 147.
-
-Las funciones de la Comisión Municipal de Evaluación y Reconocimiento del Servicio Público Municipal serán las siguientes:
-
-I. Diseñar y operar un sistema de méritos y reconocimientos a la función pública en áreas técnicas;
-
-II. Aplicar exámenes de oposición a los candidatos a ocupar los puestos en áreas técnicas;
-
-III. Emitir dictámenes sobre el desempeño de los servidores públicos de áreas técnicas;
-
-IV. Celebrar evaluaciones cada seis meses a los servidores públicos de áreas técnicas;
-
-V. Llevar un expediente individual de cada una de las personas que colaboran en la Administración Pública Municipal de manera permanente, donde consten los aspectos de las fracciones anteriores para la promoción y desarrollo del personal;
-
-VI. Promover la capacitación y especialización permanente del personal que labora en las áreas técnicas;
-
-VII. Las que el ayuntamiento le asigne.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE AGOSTO DE 2009)</small>
-
 ### CAPITULO PRIMERO. De las Oficialías Mediadora-Conciliadoras y de las Oficialías Calificadoras Municipales
 
 > <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
-
-### CAPITULO SEGUNDO. De los Recursos Administrativos
-
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
 
 ## TITULO V. De la Función Mediadora-Conciliadora y de la Calificadora de los Ayuntamientos
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO BIS. De la Acción Popular
+### CAPITULO SEGUNDO. De los Recursos Administrativos
 
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-Artículo 154 A.- La acción popular es una acción pública que será procedente para proteger los derechos e intereses colectivos contenidos en el artículo 284 A del Código de Procedimientos Administrativos del Estado de México y los contenidos en el artículo 125 en sus fracciones I, II, III, VII, VIII, IX y X de la presente Ley.
-
-La protección de los derechos e intereses colectivos a que se refiere el párrafo anterior, comprenderán la prevención y restauración del agravio contingente, en el marco de respeto y aplicación irrestricta de los derechos fundamentales de las personas.
-
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-Artículo 154 B.- La iniciativa popular se sustanciará y resolverá con arreglo a las disposiciones de los títulos primero y tercero del Código de Procedimientos Administrativos del Estado de México y del presente capítulo.
-
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-Artículo 154 C.- En el escrito inicial de demanda se describirán los siguientes requisitos:
-
-a). Identificación del derecho o interés colectivo agraviado o que se pretende proteger;
-
-b). Los hechos, actos u omisiones que la motivan;
-
-c). Enunciación de las pretensiones;
-
-d). Señalamiento de la autoridad responsable;
-
-e). Descripción de las pruebas que justifican la acción;
-
-f). Domicilio para recibir notificaciones;
-
-g). Listado de nombres de los accionantes el cual no deberá ser menor a diez personas por cada derecho o interés colectivo que se argumente.
-
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-Artículo 154 D.- En la acción popular procede el recurso de revisión ante la Sala Superior, en los términos y contra los actos previstos en los artículos 285, 286, 287 y 288 del Código de Procedimientos Administrativos del Estado de México.
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 148.
 
@@ -3111,9 +3209,39 @@ Para el debido cumplimiento de las atribuciones que en este capítulo se previen
 
 Las faltas temporales de los oficiales calificadores serán cubiertas por el secretario de la propia oficialía o por el servidor público que el Presidente Municipal designe, quienes estarán habilitados para actuar en nombre del titular, siempre y cuando cumplan los requisitos de Ley.
 
-### CAPITULO PRIMERO. Del Bando y los Reglamentos
+### CAPITULO SEGUNDO BIS. De la Acción Popular
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 A.- La acción popular es una acción pública que será procedente para proteger los derechos e intereses colectivos contenidos en el artículo 284 A del Código de Procedimientos Administrativos del Estado de México y los contenidos en el artículo 125 en sus fracciones I, II, III, VII, VIII, IX y X de la presente Ley.
+
+La protección de los derechos e intereses colectivos a que se refiere el párrafo anterior, comprenderán la prevención y restauración del agravio contingente, en el marco de respeto y aplicación irrestricta de los derechos fundamentales de las personas.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 B.- La iniciativa popular se sustanciará y resolverá con arreglo a las disposiciones de los títulos primero y tercero del Código de Procedimientos Administrativos del Estado de México y del presente capítulo.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 C.- En el escrito inicial de demanda se describirán los siguientes requisitos:
+
+a). Identificación del derecho o interés colectivo agraviado o que se pretende proteger;
+
+b). Los hechos, actos u omisiones que la motivan;
+
+c). Enunciación de las pretensiones;
+
+d). Señalamiento de la autoridad responsable;
+
+e). Descripción de las pruebas que justifican la acción;
+
+f). Domicilio para recibir notificaciones;
+
+g). Listado de nombres de los accionantes el cual no deberá ser menor a diez personas por cada derecho o interés colectivo que se argumente.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 D.- En la acción popular procede el recurso de revisión ante la Sala Superior, en los términos y contra los actos previstos en los artículos 285, 286, 287 y 288 del Código de Procedimientos Administrativos del Estado de México.
 
 ###### Artículo 154.
 
@@ -3121,7 +3249,9 @@ Contra los actos y resoluciones administrativos que dicten o ejecuten las autori
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEGUNDO. De las Sanciones
+### CAPITULO PRIMERO. Del Bando y los Reglamentos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 155.
 
@@ -3145,7 +3275,7 @@ Contra los actos y resoluciones administrativos que dicten o ejecuten las autori
 
 ## TITULO VI. De la Reglamentación Municipal
 
-### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
+### CAPITULO SEGUNDO. De las Sanciones
 
 ###### Artículo 160.
 
@@ -3171,9 +3301,9 @@ IV. Gobierno Municipal, autoridades y organismos auxiliares del ayuntamiento;
 
 V. Servicios públicos municipales;
 
-> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-V Bis. Los principios, acciones y etapas del programa de mejora regulatoria;
+V Bis. Los principios, acciones, estrategias y lineamientos bajo los cuales se regirá la política de mejora regulatoria;
 
 > <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -3219,6 +3349,8 @@ Los ayuntamientos podrán expedir los reglamentos, circulares y disposiciones ad
 
 Los Bandos, sus reformas y adiciones, así como los reglamentos municipales deberán promulgarse estableciendo su obligatoriedad y vigencia y darse a la publicidad en la Gaceta Municipal y en los estrados de los ayuntamientos, así como en los medios que se estime conveniente.
 
+### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
+
 ###### Artículo 166.
 
 Las infracciones a las normas contenidas en el Bando, reglamentos, circulares y disposiciones administrativas municipales de observancia general, se sancionarán atendiendo a la gravedad de la falta cometida con:
@@ -3249,9 +3381,11 @@ Son servidores públicos municipales, los integrantes del ayuntamiento, los titu
 
 En delitos del orden común, los servidores públicos municipales no gozan de fuero ni inmunidad, pudiendo en consecuencia proceder en su contra la autoridad competente.
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 170.
 
-Por las infracciones administrativas cometidas a esta Ley, Bando y reglamentos municipales, los servidores públicos municipales incurrirán en responsabilidades en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Por las infracciones administrativas cometidas a esta Ley, Bando y reglamentos municipales, los servidores públicos municipales incurrirán en responsabilidades en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 T R A N S I T O R I O S
 
@@ -4590,3 +4724,79 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, serán atendidos, en el ámbito de sus respectivas competencias, por la Comisión Estatal de Factibilidad y el Instituto de Verificación Administrativa del Estado de México, de conformidad con la legislación vigente al momento de su presentación, hasta en tanto se encuentre en operaciones el órgano desconcentrado correspondiente.
+
+Tratándose de las solicitudes pendientes de renovación de Dictamen Único de Factibilidad, los particulares se podrán acoger a los beneficios que otorgan las disposiciones adicionadas y reformadas mediante el presente Decreto, cuando se hace referencia al carácter permanente del referido Dictamen.
+
+Para efectos del párrafo anterior, la Secretaría Técnica de la Comisión Estatal de Factibilidad deberá remitir a la o al Titular de la Dirección General de la Comisión de Factibilidad del Estado de México, en un plazo no mayor a quince días hábiles, contados a partir de que entre en operaciones el órgano desconcentrado correspondiente, los expedientes relacionados con solicitudes de Dictamen Único de Factibilidad que obren en sus archivos.
+
+QUINTO. Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Comisión Estatal de Factibilidad, se entenderá a la Comisión de Factibilidad del Estado de México.
+
+SEXTO. La Legislatura del Estado proveerá los recursos necesarios para la implementación de las disposiciones contenidas en el presente Decreto.
+
+SÉPTIMO. Se abroga la Ley que crea el Instituto de Verificación Administrativa del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 19 de diciembre de 2016.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaria de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaria de Desarrollo Urbano y Metropolitano y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Justicia y Derechos Humanos.
+
+NOVENO. Las y los servidores adscritos a las dependencias del Ejecutivo del Estado que tengan a su cargo funciones de verificación, supervisión o inspección en las materias a que se refiere la Ley que crea el Instituto de Verificación Administrativa del Estado de México, en un plazo no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto, serán credencializados por el Instituto para el desempeño de sus funciones, sin que esto afecte sus derechos laborales, cuya relación laboral continuará a cargo de las dependencias en las que se desempeñen, las que los proveerán de los elementos necesarios, tanto materiales, como financieros, servicios generales, para el ejercicio de sus funciones.
+
+DÉCIMO. Toda referencia a supervisión o inspección contenida en otras disposiciones jurídicas de igual o menor jerarquía en las materias que regula la Ley que crea el Instituto de Verificación Administrativa del Estado de México, se entenderán como verificación.
+
+DÉCIMO PRIMERO. Las dependencias del Ejecutivo del Estado, en el ámbito de su competencia, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO SEGUNDO. Para considerar a los Dictámenes Únicos de Factibilidad emitidos por la Comisión Estatal de Factibilidad como documentos de carácter permanente, los mismos deberán estar sustentados con todas las evaluaciones técnicas que correspondan y no deberán contener en su texto ninguna condicionante.
+
+DÉCIMO TERCERO. Los trámites que se iniciaron ante la Comisión Estatal de Desarrollo Urbano y Vivienda, con la finalidad de obtener la Constancia de Viabilidad para la autorización de conjuntos urbanos y condominios, podrán continuar con el trámite ante la Dirección General de Operación Urbana.
+
+Los particulares deberán contar con la vigencia de los dictámenes, evaluaciones, opiniones, factibilidades y/o cualquier otro documento obtenido de las unidades administrativas participantes de la entonces Comisión Estatal de Desarrollo Urbano y Vivienda, lo anterior, a efecto de salvaguardar los derechos de los particulares que llevaron a cabo sus trámites para la obtención de autorización de conjuntos urbanos y condominios de más de treinta viviendas.
+
+Para efectos de lo anterior, se establece un término de treinta días hábiles a partir de la entrada en vigor del presente Decreto, fenecido dicho plazo sin ninguna manifestación del particular, o bien. sin que se cuente con los dictámenes, evaluaciones, opiniones, factibilidades con vigencia, se tendrá el trámite como total y definitivamente concluido: pudiendo iniciar un nuevo trámite ante la Comisión de Factibilidad del Estado de México.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Dictamen de Factibilidad de Impacto Sanitario se entenderá por evaluación técnica de factibilidad de impacto sanitario;
+
+b) Evaluación Técnica de Impacto Urbano se entenderá por evaluación técnica de factibilidad de impacto urbano;
+
+c) Evaluación técnica de protección civil o evaluación técnica de viabilidad de mediano o alto impacto se entenderá por evaluación técnica de factibilidad de protección civil;
+
+d) Dictamen de Incorporación e Impacto Vial o evaluación técnica de incorporación e impacto vial se entenderá por evaluación técnica de factibilidad de incorporación e impacto vial;
+
+e) Evaluación de impacto ambiental se entenderá por evaluación técnica de factibilidad de impacto ambiental;
+
+f) Dictamen de Factibilidad de Transformación Forestal se entenderá por evaluación técnica de factibilidad de transformación forestal;
+
+g) Evaluación de factibilidad comercial automotriz se entenderá por evaluación técnica de factibilidad comercial automotriz;
+
+h) Dictamen de congruencia de factibilidades o Dictamen de Factibilidad para la Distribución de Agua se entenderá por evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales, así como la evaluación técnica de factibilidad de distribución de agua, según corresponda; y
+
+i) Estudio de Impacto de Movilidad se entenderá por evaluación técnica de factibilidad de impacto de movilidad;
+
+DÉCIMO QUINTO. El Consejo Estatal de Mejora Regulatoria y la Comisión Estatal de Mejora Regulatoria se integrarán e instalarán en un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO SEXTO. Las Dependencias deberán informar a la Comisión Estatal, en un lapso no mayor de treinta días naturales a (sic) entrada en vigor de este Decreto, la actualización de sus Enlaces de Mejora Regulatoria.
+
+DÉCIMO SÉPTIMO. El Ejecutivo Estatal expedirá los reglamentos relacionados con la Ley para la Mejora Regulatoria del Estado de México y sus Municipios, en un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se emitan dichos reglamentos, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+DÉCIMO OCTAVO. En los ordenamientos legales donde se haga referencia al término Estudio de Impacto Regulatorio, se entenderá como Análisis de Impacto Regulatorio.
+
+DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio será expedido por la Comisión, en un plazo de treinta días hábiles contados a partir de la expedición de los lineamientos generales para la implementación del Análisis de Impacto Regulatorio a que hace referencia el tercer párrafo del artículo 66 de la Ley General de Mejora Regulatoria.
+
+VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
+
+VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
