@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2017-09-29"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DELGOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -77,25 +75,29 @@ VII. Código Financiero: Al Código Financiero del Estado de México y Municipio
 
 VIII. Comercializadora: A la unidad económica donde se ejerce la compra y/o venta de oro y/o plata.
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-VIII Bis. Comisión: A la Comisión Estatal de Factibilidad.
+VIII Bis. Comisión: A la Comisión de Factibilidad del Estado de México;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
-IX. Consejo Rector: A la autoridad encargada de emitir la evaluación al seno de la Comisión Estatal de Factibilidad.
+IX. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 X. COPRISEM: A la Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
 
 XI. Dependiente: A toda persona que desempeñe, constantemente, las gestiones propias del funcionamiento de la unidad económica en ausencia, a nombre y cuenta del titular.
 
-XII. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Dictamen Único de Factibilidad: Al Dictamen Único de Factibilidad, que es el documento de carácter permanente emitido por la Comisión de Factibilidad del Estado de México, sustentado en las evaluaciones técnicas de factibilidad en materias de salubridad local, desarrollo urbano y vivienda, protección civil, medio ambiente, desarrollo económico, comunicaciones, movilidad y agua, drenaje, alcantarillado y tratamiento de aguas residuales, previo análisis normativo multidisciplinario, cuya finalidad es determinar la factibilidad de la construcción, apertura, instalación, operación, ampliación o funcionamiento de obras, unidades económicas, inversiones o proyectos, que por su uso o aprovechamiento del suelo generen efectos en el equipamiento urbano, infraestructura, servicios públicos, en el entorno ambiental o salud, en términos de las disposiciones jurídicas aplicables;
 
 XIII. Enseres en vía pública: A aquellos objetos como sombrillas, mesas, sillas o cualquier instalación desmontable, colocados en la vía pública para la prestación del servicio que otorga la unidad económica.
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XIII Bis. Evaluación Técnica de Factibilidad: Al documento emitido por el consejo rector respectivo al seno de la Comisión Estatal de Factibilidad.
+XIII Bis. Evaluación Técnica de Factibilidad: Al análisis efectuado por las dependencias y organismos auxiliares de la administración pública estatal según corresponda en materias de salubridad local, desarrollo urbano y vivienda, protección civil, medio ambiente, desarrollo económico, comunicaciones, movilidad y agua, drenaje, alcantarillado y tratamiento de aguas residuales, respecto de la construcción, apertura, instalación, operación, ampliación o funcionamiento de obras, unidades económicas, inversiones o proyectos, cuya resolución de procedencia o improcedencia podrá ser emitida, inclusive mediante el uso de plataformas tecnológicas, por las autoridades correspondientes;
+
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XIII Ter. Instituto: Al Instituto de Verificación Administrativa del Estado de México;
 
 XIV. Ley: A la Ley de Competitividad y Ordenamiento Comercial del Estado de México.
 
@@ -149,15 +151,19 @@ XXXVII. Ventanilla de gestión: Al órgano administrativo de la Secretaría de D
 
 XXXVIII. Ventanilla única: Al órgano administrativo del Municipio.
 
-XXXIX. Verificación: Al acto administrativo por el que se realiza la evaluación a través de la revisión ocular, comprobación o examen de documentos, en la unidad económica.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIX. Verificación: Al acto administrativo por el que el Instituto de Verificación Administrativa del Estado de México, en coordinación con las dependencias y organismo auxiliares competentes, a través del personal autorizado y previa orden emitida por la autoridad competente, verifican, mediante revisión ocular y examen de documentos el cumplimiento de las condiciones, requerimientos u obligaciones para una obra, unidad económica, inversiones o proyectos, contempladas en las evaluaciones técnicas de factibilidad y/o en el Dictamen Único de Factibilidad y demás normatividad de la materia aplicable;
 
 XL. Verificadores: A los servidores públicos autorizados que inspeccionan las actividades que se realizan en las unidades económicas y comprueban el cumplimiento de las disposiciones jurídicas aplicables.
 
 XLI. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 3.
 
-Para efectos de esta Ley, se aplicarán, de forma supletoria, la Ley de Fomento Económico para el Estado de México, la Ley para la Mejora Regulatoria del Estado de México y Municipios, los Códigos Financiero del Estado de México y Municipios, para la Biodiversidad del Estado de México, Administrativo del Estado de México, de Procedimientos Administrativos del Estado de México, Civil del Estado de México y de Procedimientos Civiles del Estado de México.
+Para efectos de esta Ley, se aplicarán, de forma supletoria, la Ley de Fomento Económico para el Estado de México, la Ley que crea la Comisión de Factibilidad del Estado de México, la Ley que crea el Instituto de Verificación Administrativa del Estado de México, la Ley para la Mejora Regulatoria del Estado de México y Municipios; los Códigos Financiero del Estado de México y Municipios, para la Biodiversidad del Estado de México, Administrativo del Estado de México, de Procedimientos Administrativos del Estado de México, Civil del Estado de México y de Procedimientos Civiles del Estado de México.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
@@ -187,6 +193,14 @@ VIII. Ayuntamientos.
 
 IX. COPRISEM.
 
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+X. Comisión.
+
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Instituto.
+
 ###### Artículo 5.
 
 Corresponde a las autoridades, en el ámbito de su competencia, lo siguiente:
@@ -195,7 +209,9 @@ I. Promover y fomentar, mediante facilidades administrativas las actividades de 
 
 II. Promover la participación de la inversión a las unidades económicas a través de estímulos fiscales y no fiscales, cuando los titulares domicilien y tributen en la entidad.
 
-III. Instalar y priorizar la utilización de las ventanillas que esta Ley contempla.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+III. Instalar y priorizar la utilización de las ventanillas que esta Ley contempla, incluidas las electrónicas o digitales de conformidad con la Ley de Gobierno Digital del Estado de México y Municipios;
 
 IV. Alimentar el Sistema.
 
@@ -207,15 +223,21 @@ VII. Establecer políticas públicas para el desarrollo armónico y sustentable 
 
 VIII. Determinar acciones de simplificación.
 
-IX. Instruir la realización y el trámite de visitas de verificación.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Instruir o solicitar, según corresponda, la ejecución y el trámite de visitas de verificación al Instituto, en términos de las disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 X. Dar respuesta, en un término de tres días hábiles, a las solicitudes que le realice la ventanilla única.
 
-Por cuanto hace a la ventanilla de gestión, la Comisión dará respuesta en los términos contemplados en su reglamento.
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XI. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
+Por cuanto hace a la ventanilla de gestión, la Comisión dará respuesta en los términos contemplados en el Reglamento Interior de la Comisión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Dar vista a la autoridad competente cuando de la visita de verificación en la unidad económica se desprenda un probable hecho ilícito;
 
 XII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
@@ -231,9 +253,11 @@ III. Integrar y operar la ventanilla de gestión.
 
 IV. Facultar a las autoridades acreditadas el acceso al registro estatal.
 
-V. Verificar que los productos que se vendan o suministren en las unidades económicas sean lícitos.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Dar vista a la autoridad competente cuando de la visita de verificación en la unidad económica se desprenda un hecho ilícito.
+V. Solicitar al Instituto su intervención para que en el ámbito de su competencia autorice y coordine visitas de verificación para comprobar que los productos que se vendan en las unidades económicas, sean lícitos;
+
+VI. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 VII. Establecer los mecanismos para la aplicación de estímulos fiscales y no fiscales a que sean acreedores los titulares de las unidades económicas.
 
@@ -353,7 +377,9 @@ I. Permisos.
 
 II. Licencias.
 
-III. Dictámenes.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+III. Evaluaciones técnicas de factibilidad y Dictamen Único de Factibilidad, en su caso;
 
 IV. Cédula informativa de zonificación.
 
@@ -363,9 +389,9 @@ V. Las demás que sean necesarias para la apertura de las unidades económicas.
 
 La ventanilla única entregará al solicitante o representante legal la respuesta de su trámite en un término no mayor a cinco días hábiles, a partir de la fecha del acuse de recibo.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-La ventanilla de gestión deberá entregar al solicitante o representante legal la respuesta de su trámite en los términos contemplados en el Reglamento de la Comisión.
+La ventanilla de gestión deberá entregar al solicitante o representante legal la respuesta de su trámite en los términos contemplados en el Reglamento Interior de la Comisión y demás disposiciones jurídicas aplicables.
 
 La autoridad podrá prorrogar hasta por 5 días hábiles el término anterior, siempre y cuando justifique la necesidad para ello.
 
@@ -521,7 +547,7 @@ II. Modificación del aforo de la unidad económica.
 
 III. Modificación de la actividad económica, siempre y cuando no implique la de la actividad señalada en el permiso.
 
-IV. Cualquier variación que pueda tener la unidad económica.
+IV. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 V. Cuando realice el cese de actividades o cierre de la unidad económica.
 
@@ -537,7 +563,9 @@ Los titulares de las unidades económicas, cuya actividad económica principal s
 
 La colocación de los enseres e instalaciones a que se refiere el artículo anterior procederá cuando se reúnan las condiciones siguientes:
 
-I. Que sean contiguos a la unidad económica y desmontables, es decir que se encuentren sujetos o fijos a la vía pública.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+I. Que sean contiguos a la unidad económica y desmontables, es decir que no se encuentren sujetos o fijos a la vía pública;
 
 II. Que para el paso de peatones se deje una anchura libre de por lo menos dos metros, entre la instalación de los enseres y el arroyo vehicular.
 
@@ -867,11 +895,11 @@ En la solicitud de permiso correspondiente se manifestará que el objeto social 
 
 Las unidades económicas de alto impacto no podrán tener la modalidad de club privado.
 
-> <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 52 Bis.
 
-Para unidades económicas de mediano impacto, la Comisión Estatal de Factibilidad, por conducto de su presidenta o presidente, en términos de lo dispuesto en su Reglamento Interior, en caso de estimarlo indispensable, podrá definir los requisitos para la apertura, instalación, funcionamiento, operación y ampliación de éstas, con la finalidad de prevenir que el costo que generan los requisitos aplicables, sea mayor a la inversión del proyecto económico y no se cause un perjuicio a la o al titular del proyecto.
+Para unidades económicas de mediano impacto, la Comisión, en términos de lo dispuesto en su Reglamento Interior, en caso de estimarlo indispensable, podrá simplificar los requisitos para la apertura, construcción, instalación, operación, ampliación o funcionamiento de éstas, con la finalidad de evitar que el costo que generan los requisitos aplicables, sea mayor a la inversión del proyecto económico y no se cause un perjuicio a la o al titular del proyecto.
 
 #### SECCIÓN III. DE LOS REQUISITOS PARA OBTENER PERMISO O LICENCIA DE FUNCIONAMIENTO PARA LAS UNIDADES ECONÓMICAS DE MEDIANO Y ALTO IMPACTO
 
@@ -1021,6 +1049,8 @@ Independiente de lo anterior, la Secretaría de Salud alimentará el Sistema den
 
 #### SECCIÓN III. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD DE IMPACTO SANITARIO
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 71.
 
 Los ayuntamientos solo permitirán el funcionamiento de unidades económicas cuya actividad principal contemple la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo para su consumo en el interior, a las personas físicas y jurídicas colectivas que cuenten previamente con el Dictamen Único de Factibilidad.
@@ -1059,41 +1089,41 @@ VII. Cuando el titular o dependiente observe notoriamente alcoholizados a los cl
 
 > <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-VIII. Contar con publicidad escrita visible que indique: "El abuso en el consumo de bebidas alcohólicas es dañino para la salud". "El consumo de bebidas alcohólicas está prohibido a menores de edad". "Facilitar el acceso de bebidas alcohólicas a los menores constituye un delito". “Por tu seguridad propón un conductor designado”. "Está prohibida la venta, suministro y consumo de bebidas alcohólicas fuera de esta unidad económica”. Asimismo, deberá contar con una placa en la entrada del establecimiento con la leyenda:
+VIII. Contar con publicidad escrita visible que indique: "El abuso en el consumo de bebidas alcohólicas es dañino para la salud". "El consumo de bebidas alcohólicas está prohibido a menores de edad". "Facilitar el acceso de bebidas alcohólicas a los menores constituye un delito". "Por tu seguridad propón un conductor designado". "Está prohibida la venta, suministro y consumo de bebidas alcohólicas fuera de esta unidad económica". Asimismo, deberá contar con una placa en la entrada del establecimiento con la leyenda:
 
-“Esta unidad económica cuenta con la licencia de funcionamiento y el dictamen de factibilidad de impacto sanitario o Dictamen Único de Factibilidad vigentes, según el caso, que autorizan la venta de bebidas alcohólicas".
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-Esta placa será autorizada por la Comisión Estatal de Factibilidad y a la misma le será asignado un folio, el cual se encontrará publicado en la página electrónica oficial.
+“Esta unidad económica cuenta con Dictamen Único de Factibilidad y la licencia de funcionamiento que autorizan la venta de bebidas alcohólicas”.
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+Esta placa será autorizada por la Comisión y a la misma le será asignado un folio, el cual se encontrará publicado en la página electrónica oficial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 #### SECCIÓN IV. DEL CONSEJO RECTOR DE IMPACTO SANITARIO
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 75.
 
-La unidad económica donde se vendan o suministren bebidas alcohólicas deberá contar con la licencia de funcionamiento vigente que le autorice la venta de bebidas alcohólicas, la cual, se deberá colocar en un lugar visible dentro de la propia unidad económica.
+La unidad económica donde se vendan o suministren bebidas alcohólicas deberá contar con la evaluación técnica de factibilidad de impacto sanitario para obtener el Dictamen Único de Factibilidad, previo a la licencia de funcionamiento vigente que le autorice la venta de bebidas alcohólicas, la cual, se deberá colocar en un lugar visible dentro de la propia unidad económica.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 76.
 
-Para la solicitud o refrendo de la licencia de funcionamiento de una unidad económica con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo, se requiere del Dictamen Único de Factibilidad.
+Para la solicitud de la licencia de funcionamiento de una unidad económica con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo, se requiere del Dictamen Único de Factibilidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 77.
 
-El Dictamen Único de Factibilidad, es un requisito obligatorio para que las autoridades expidan o refrenden las licencias de funcionamiento.
+El Dictamen Único de Factibilidad, es un requisito obligatorio para que las autoridades municipales expidan o refrenden las licencias de funcionamiento de las unidades económicas con venta y suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+Dicho Dictamen será vigente siempre y cuando no varíen las condiciones ni los términos en que fue otorgado originalmente, siendo de carácter personal e intransferible.
 
-Este documento tendrá vigencia de cinco años y será de carácter personal e intransferible, por ende, todo lo contrario a lo señalado será nulo de pleno derecho.
-
-> <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
-
-De igual forma, tratándose de trámites de nuevo ingreso ante la Comisión Estatal de Factibilidad que hayan cumplido con las disposiciones de la materia y siempre y cuando se encuentren afiliados a alguna Cámara, de las acreditadas ante la Comisión, podrá solicitar la autorización de elaboración de placa a que hace referencia el artículo 74 de esta Ley.
+Tratándose de trámites de nuevo ingreso para la obtención del Dictamen Único de Factibilidad ante la Comisión, que hayan cumplido con las disposiciones de la materia, podrán solicitar la autorización de elaboración de placa a que hace referencia el artículo 74 de esta Ley.
 
 ###### Artículo 78.
 
@@ -1129,59 +1159,23 @@ IV. Cuando la unidad económica venda o suministre bebidas alcohólicas a menore
 
 En las unidades económicas donde se vendan o suministren bebidas alcohólicas, se prohíbe su venta o suministro a menores de edad, por lo que se pedirá identificación oficial vigente, para verificar que se trate de un mayor de 18 años.
 
+> <small>(DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 #### SECCIÓN I. DISPOSICIONES PARTICULARES
 
 ###### Artículo 81.
 
-El Consejo Rector de Impacto Sanitario es la autoridad encargada de emitir la evaluación técnica de factibilidad de impacto sanitario al seno de la Comisión, necesaria para la obtención el (sic) Dictamen Único de Factibilidad, para la solicitud y refrendo que realice el ayuntamiento, para la licencia de funcionamiento que deben obtener las unidades económicas con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
+La Comisión para la Protección contra Riesgos Sanitarios del Estado de México es la autoridad encargada de emitir la evaluación técnica de factibilidad de impacto sanitario, necesaria para la obtención el (sic) Dictamen Único de Factibilidad, para la solicitud y refrendo que el particular realice ante el ayuntamiento, de la licencia de funcionamiento que deben obtener las unidades económicas con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
 
 ###### Artículo 82.
 
-El Consejo Rector de Impacto Sanitario se integrará por:
+(DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
-I. Un Presidente, que será el Comisionado para la Protección contra Riesgos Sanitarios del Estado de México.
-
-II. Un Secretario Técnico, que será nombrado por el Presidente.
-
-III. Cinco vocales, que serán los representantes:
-
-> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
-
-a) De la Coordinación General de Protección Civil.
-
-b) De la Secretaría de Educación.
-
-c) De la Secretaría de Desarrollo Económico.
-
-d) De la Secretaría del Medio Ambiente.
-
-e) Del Instituto Mexiquense contra las Adicciones.
-
-Quienes tendrán derecho a voz y voto, y podrán designar a un suplente.
-
-El Presidente deberá convocar como invitados permanentes representantes de:
-
-a) La sociedad civil.
-
-b) El sector empresarial y de cámaras de comercio.
-
-c) Las asociaciones de colonos.
-
-d) La Comisión de Derechos Humanos del Estado de México o de la Defensoría Municipal de Derechos Humanos.
-
-e) Las asociaciones de padres de familia del sector educativo.
-
-f) El ayuntamiento de cuyo territorio se pretende emitir el dictamen de factibilidad.
-
-Quienes tendrán derecho a voz, debiéndose renovar escalonadamente cada dos años.
-
-El cargo de miembro del Consejo Rector de Impacto Sanitario será honorífico y habrá un suplente que integre el Consejo, en caso de ausencia de los vocales.
-
-Las determinaciones del Consejo Rector de Impacto Sanitario se tomarán por mayoría de votos, para lo cual, el Secretario Técnico contará únicamente con voz. El Presidente, en caso de empate, tendrá voto de calidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 83.
 
-Para el cumplimiento de sus fines, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+Para el cumplimiento de sus fines, la Comisión para la Protección contra Riesgos Sanitarios del Estado de México tendrá las funciones siguientes:
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1199,7 +1193,9 @@ VI. Adoptar las medidas administrativas necesarias para favorecer el acceso de l
 
 VII. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-VIII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a los fines del Consejo Rector de Impacto Sanitario.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a sus fines;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1239,8 +1235,6 @@ Por su propia naturaleza las agencias en venta de autos nuevos estarán exentas 
 
 #### SECCIÓN III. DEL CONSEJO RECTOR DE FACTIBILIDAD COMERCIAL AUTOMOTRIZ
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
 ###### Artículo 85.
 
 Las unidades económicas para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas deberán:
@@ -1277,11 +1271,11 @@ b) Elaborar un registro interno de las personas y de los vehículos objeto de en
 
 c) Contratar, en la Fiscalía General de Justicia del Estado, módulos para la expedición gratuita de la constancia o certificación electrónica de que el vehículo no aparece en las bases de datos de autos robados.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 86.
 
-Para el refrendo anual de la licencia de funcionamiento deberá actualizarse el Dictamen Único de Factibilidad.
+Para el refrendo anual de la licencia de funcionamiento, no es necesario que los titulares de las unidades económicas destinadas a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas, actualicen el Dictamen Único de Factibilidad, siempre y cuando no hayan variado las condiciones o términos en que fue otorgado originalmente, conforme a lo dispuesto por esta Ley y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 87.
 
@@ -1291,53 +1285,23 @@ Los usuarios deberán acreditar ante la autoridad competente, cuando ésta se lo
 
 Queda estrictamente prohibido ocupar las vías públicas para realizar actos relacionados con la enajenación de los bienes mencionados en este Capítulo, con excepción de los particulares que oferten hasta dos vehículos de su propiedad frente a su domicilio, supuesto en el cual deberán contar con los documentos que acrediten la propiedad de los bienes respectivos y que no se afecte el tránsito vehicular.
 
+> <small>(DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 #### SECCIÓN IV. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD COMERCIAL AUTOMOTRIZ
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 89.
 
-El Consejo Rector de Factibilidad Comercial Automotriz es la autoridad encargada de emitir la evaluación de factibilidad comercial automotriz al seno de la Comisión, necesaria para la obtención el (sic) Dictamen Único de Factibilidad, respecto de las unidades económicas destinadas a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas.
+(DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 90.
 
-El Consejo Rector de Factibilidad Comercial Automotriz se integrará por:
-
-I. Un Presidente, que será designado por el Secretario de Desarrollo Económico.
-
-II. Un Secretario Técnico, que será el Director General de Comercio, que tendrá voz pero sin voto.
-
-III. Tres vocales que serán los representantes:
-
-a) Del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-b) La Fiscalía Especializada para la Atención de Delitos de Robo de Vehículos del Valle de Toluca, de la Fiscalía General de Justicia del Estado de México.
-
-c) De la Dirección General de Combate al Robo de Vehículos y Transporte de la Secretaría de Seguridad Ciudadana.
-
-Las sesiones del Consejo serán públicas, en donde el Presidente deberá invitar a un representante del sector empresarial y a otro de la sociedad civil, además de un representante de los ayuntamientos en cuyo territorio se pretende emitir el Dictamen de Factibilidad Comercial Automotriz, que tendrán voz, pero sin voto.
-
-Los cargos de los integrantes del Consejo son honoríficos.
+(DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 91.
 
-Para el cumplimiento de sus fines, el Consejo Rector de Factibilidad Comercial Automotriz tendrá las funciones siguientes:
-
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
-I. Atender y resolver, de manera permanente, colegiada e integral, las solicitudes de los particulares presentadas ante la Comisión Estatal de Factibilidad o la Ventanilla de Gestión referentes a las unidades económicas destinadas a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas, para la emisión de la evaluación de factibilidad comercial automotriz al seno de la Comisión.
-
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
-II. Emitir la evaluación de factibilidad comercial automotriz al seno de la Comisión.
-
-III. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
-
-IV. Sesionar, en términos del Reglamento Interior que al efecto expida el Ejecutivo del Estado.
-
-V. Las demás que le confieran otras disposiciones legales.
+(DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1345,11 +1309,13 @@ V. Las demás que le confieran otras disposiciones legales.
 
 ###### Artículo 92.
 
-La evaluación técnica de factibilidad comercial automotriz emitida al seno de la Comisión, es el documento que consiste en la valoración de la procedencia comercial de la unidad económica, de acuerdo con la naturaleza de la actividad económica, constituye un requisito obligatorio para la emisión de la licencia de funcionamiento y su refrendo.
+La evaluación técnica de factibilidad comercial automotriz es la resolución que emite la Secretaría de Desarrollo Económico, a través de la Dirección General de Comercio, que consiste en la valoración de la procedencia comercial de una unidad económica destinada a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, la cual constituye un requisito obligatorio para la emisión del Dictamen Único de Factibilidad, necesario para la licencia de funcionamiento y su refrendo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 93.
 
-(DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
+La Secretaría de Desarrollo Económico, a través de la Dirección General de Comercio, atenderá las solicitudes de los particulares presentadas ante la Comisión o la Ventanilla de Gestión referentes a las unidades económicas destinadas a la enajenación, reparación o mantenimiento de vehículos automotores usados, así como de autopartes nuevas y usadas, para la emisión, en su caso, de la evaluación técnica de factibilidad comercial automotriz.
 
 ###### Artículo 94.
 
@@ -1361,7 +1327,9 @@ La evaluación técnica de factibilidad comercial automotriz emitida al seno de 
 
 La evaluación técnica de factibilidad comercial automotriz, contendrá lo siguiente:
 
-I. Número de Dictamen.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+I. Número de la evaluación técnica de factibilidad;
 
 II. Ubicación del inmueble.
 
@@ -1373,7 +1341,9 @@ V. Lugar y fecha de expedición.
 
 VI. Determinación fundada y motivada de la procedencia de la actividad económica pretendido.
 
-VII. Nombre, cargo y firma de la autoridad que emita el dictamen.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Nombre, cargo y firma de la autoridad que emita la evaluación técnica de factibilidad.
 
 #### SECCIÓN VI. DE LAS ZONAS ESPECIALES PARA TIANGUIS DE AUTOS Y DE APROVECHAMIENTO DE AUTOPARTES
 
@@ -1439,9 +1409,11 @@ c) Copia de la identificación oficial, contra la cual se cotejó la firma del c
 
 d) Tipo del bien o bienes adquiridos y el importe de los mismos.
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 104.
 
-Corresponde a la Secretaría de Desarrollo Económico y a los municipios, en el ámbito de sus competencias, verificar el cumplimiento de esta Sección.
+Corresponde a los municipios en coordinación con el Instituto, en el ámbito de sus competencias, verificar el cumplimiento de esta Sección.
 
 ###### Artículo 105.
 
@@ -1493,7 +1465,9 @@ El proceso de desmantelamiento, así como el registro interno también se sujeta
 
 ### CAPÍTULO VIII. DE LOS ASERRADEROS
 
-#### SECCIÓN II. DEL DICTAMEN DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL
+#### SECCIÓN II. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 114.
 
@@ -1503,23 +1477,31 @@ El presente Capítulo tiene como finalidad regular la apertura de las unidades e
 
 Son autoridades para la aplicación del presente Capítulo la Secretaría del Medio Ambiente, la Protectora de Bosques del Estado de México y los municipios, en el ámbito de su competencia.
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 116.
 
-Corresponde a los municipios otorgar, en su caso, por acuerdo de cabildo del ayuntamiento, la licencia de funcionamiento de los centros de almacenamiento y de transformación de materias primas forestales, previo Dictamen de Factibilidad de Transformación Forestal, emitido por el Consejo Rector.
+Corresponde a los municipios otorgar, en su caso, por acuerdo de cabildo del ayuntamiento, la licencia de funcionamiento de los centros de almacenamiento y de transformación de materias primas forestales, previo Dictamen Único de Factibilidad, para el cual se requerirá la evaluación técnica de factibilidad de transformación forestal, emitida por la Protectora de Bosques del Estado de México.
 
 ###### Artículo 117.
 
 La Protectora de Bosques del Estado de México aplicará, dentro del ámbito de sus atribuciones, las medidas de seguridad e impondrá las infracciones que correspondan por su inobservancia.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 #### SECCIÓN III. DEL CONSEJO RECTOR DE TRANSFORMACIÓN FORESTAL
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 118.
 
-El Dictamen de Factibilidad de Transformación Forestal es el documento de carácter personal e intransferible, necesario para obtener la licencia de funcionamiento de los centros de almacenamiento y transformación de materias primas forestales; y tiene como objeto valorar la capacidad productiva de los bosques maderables de la región, el tiempo de reposición de los individuos arbóreos, el pago de servicios ambientales, la seguridad pública, el combate a la tala clandestina y el fomento económico, en términos de las disposiciones respectivas.
+La evaluación técnica de factibilidad de transformación forestal es el documento de carácter personal e intransferible, necesario para tramitar el Dictamen Único de Factibilidad, requerido para obtener la licencia de funcionamiento de los centros de almacenamiento y transformación de materias primas forestales; y tiene como objeto valorar la capacidad productiva de los bosques maderables de la región, el tiempo de reposición de los individuos arbóreos, el pago de servicios ambientales, la seguridad pública, el combate a la tala clandestina y el fomento económico, en términos de las disposiciones respectivas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 119.
 
-Para la obtención del Dictamen de Factibilidad de Transformación Forestal, el interesado deberá presentar formato que expida la Protectora de Bosques del Estado de México, que contendrá lo siguiente:
+Para la obtención de la evaluación técnica de factibilidad de transformación forestal, el interesado deberá presentar el formato impreso o digital que al efecto expida la Protectora de Bosques del Estado de México, que contendrá lo siguiente:
 
 I. Nombre del titular solicitante.
 
@@ -1539,13 +1521,17 @@ VII. En su caso, los productos que serán elaborados.
 
 VIII. Volumen anual a transformar.
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 120.
 
-El Consejo Rector de Transformación Forestal, derivado del análisis que realice a la documentación presentada y de los comprobantes con los que el interesado acredite la legal procedencia de los productos forestales emitirá el Dictamen de Factibilidad de Transformación Forestal.
+La Protectora de Bosques del Estado de México, derivado del análisis que realice a la documentación presentada y de los comprobantes con los que el interesado acredite la legal procedencia de los productos forestales emitirá la evaluación técnica de factibilidad de transformación forestal, para la obtención del Dictamen Único de Factibilidad.
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 121.
 
-Son causas para negar el Dictamen de Factibilidad, cuando se ponga en riesgo el medio ambiente, la seguridad pública y el fomento al desarrollo económico o por la probable comisión de un delito, o además que no se cumplan con los requisitos establecidos para la obtención del Dictamen de Factibilidad.
+Son causas para negar la evaluación técnica de factibilidad de transformación forestal, cuando se ponga en riesgo el medio ambiente, la seguridad pública y el fomento al desarrollo económico o por la probable comisión de un delito, o además que no se cumplan con los requisitos establecidos para la obtención del Dictamen Único de Factibilidad.
 
 ###### Artículo 122.
 
@@ -1553,53 +1539,27 @@ Si de la visita de verificación se advierte el incumplimiento a las disposicion
 
 Si de las visitas se hallaran elementos constitutivos de delito se hará la denuncia ante el Ministerio Público.
 
-El Consejo Rector de Transformación Forestal, de acuerdo con la gravedad de la infracción, podrá suspender, revocar o cancelar el Dictamen de Factibilidad de Transformación Forestal, notificándole al Ayuntamiento y a la Secretaría del Medio Ambiente y Recursos Naturales, para los efectos legales conducentes.
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+La Protectora de Bosques del Estado de México, de acuerdo con la gravedad de la infracción, podrá suspender, revocar, cancelar o negar la evaluación técnica de factibilidad de transformación forestal, notificándole a la Comisión, al Ayuntamiento y a la Secretaría del Medio Ambiente y Recursos Naturales, para los efectos legales conducentes.
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 123.
 
-El Dictamen de Factibilidad de Transformación Forestal tendrá una vigencia de un año calendario, el cual podrá renovarse con el cumplimiento de los requisitos del mismo.
+La evaluación técnica de factibilidad de transformación forestal tendrá una vigencia de tres años, la cual podrá renovarse con el cumplimiento de los requisitos del mismo.
+
+> <small>(DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 #### SECCIÓN I. DISPOSICIONES PARTICULARES
 
 ###### Artículo 124.
 
-El Dictamen de Factibilidad de Transformación Forestal será emitido por el Consejo Rector de Transformación Forestal para el funcionamiento de los centros de almacenamiento y de transformación de materias primas, mismo que deberá ser suscrito por el Presidente del Consejo Rector.
+La evaluación técnica de factibilidad de transformación forestal será emitida por la Protectora de Bosques del Estado de México, para la expedición del Dictamen Único de Factibilidad requerido para el funcionamiento de los centros de almacenamiento y de transformación de materias primas.
 
 ###### Artículo 125.
 
-El Consejo Rector de Transformación Forestal se integrará por:
-
-I. Un Presidente, que será el Director General de la Protectora de Bosques del Estado de México.
-
-II. Un Secretario Técnico, que será el Director de Protección Forestal de la Protectora de Bosques del Estado de México.
-
-III. Cinco vocales, que serán los representantes de:
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-a) La Secretaría de Seguridad.
-
-b) La Secretaría de Desarrollo Económico.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-c) La Fiscalía General de Justicia.
-
-d) La Procuraduría de Protección al Ambiente del Estado de México.
-
-e) Comisión Estatal de Parques Naturales y de la Fauna.
-
-Los vocales serán designados por el titular de la dependencia que representen, entre los servidores públicos que tengan un rango no menor al de Director.
-
-En las sesiones tendrán derecho a voz y voto y podrán contar con un suplente para actuar en su ausencia, quien también será designado por el titular de cada dependencia.
-
-El cargo de miembro del Consejo Rector de Transformación Forestal será honorífico.
-
-Las determinaciones del Consejo Rector de Transformación Forestal se tomarán por mayoría de votos, para lo cual, el Secretario Técnico contará únicamente con voz. El Presidente, en caso de empate, tendrá voto de calidad.
-
-El Presidente del Consejo Rector de Transformación Forestal convocará a sesiones ordinarias o extraordinarias cuando lo estime conveniente.
-
-El Consejo Rector de Transformación Forestal podrá invitar a asociaciones de profesionales y especialistas en la materia, los cuales participarán en las sesiones únicamente con voz, para efectos de opinión.
+(DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO IX. DE LAS CASAS DE EMPEÑO Y COMERCIALIZADORAS
 
@@ -2149,9 +2109,11 @@ III. Para las unidades económicas de alto impacto multa de quinientas a mil vec
 
 Además de las sanciones a que se refiere este artículo, se dará vista al Ministerio Público, respecto de los delitos que se pudieran haber cometido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 184.
 
-Cuando se trate de unidades destinadas para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, corresponde a la Secretaría de Desarrollo Económico, en el ámbito de sus atribuciones, la imposición de las sanciones siguientes:
+Cuando se trate de unidades destinadas para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, corresponde a la Secretaría de Desarrollo Económico, y por conducto de la Dirección General de Comercio, en el ámbito de sus atribuciones, la imposición de las sanciones siguientes:
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -2179,9 +2141,11 @@ I. Multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actu
 
 II. Clausura temporal o definitiva de la unidad económica que se dedique a la enajenación, reparación o mantenimiento de vehículos usados y autopartes nuevas y usadas, por no contar con la licencia de funcionamiento o por reincidir en el incumplimiento de lo dispuesto por la fracción V del artículo 85 y en el artículo 88.
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 186.
 
-Además de lo señalado en los artículos 184 y 185 la Secretaría de Desarrollo Económico y los ayuntamientos, a través de la autoridad competente, estarán facultados para suspender temporalmente, hasta por noventa días, el funcionamiento de estas unidades económicas como medida. Durante la suspensión se llevará a cabo el procedimiento administrativo correspondiente. En caso de que se mantenga el incumplimiento se sancionará con clausura temporal o permanente, según corresponda.
+Además de lo señalado en los artículos 184 y 185 la Secretaría de Desarrollo Económico, por conducto de la Dirección General de Comercio y los ayuntamientos, a través de la autoridad competente, estarán facultados para suspender temporalmente, hasta por noventa días, el funcionamiento de estas unidades económicas como medida de seguridad. Durante la suspensión se llevará a cabo el procedimiento administrativo correspondiente. En caso de que se mantenga el incumplimiento se sancionará con clausura temporal o permanente, según corresponda.
 
 ###### Artículo 187.
 
@@ -2650,3 +2614,81 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, serán atendidos, en el ámbito de sus respectivas competencias, por la Comisión Estatal de Factibilidad y el Instituto de Verificación Administrativa del Estado de México, de conformidad con la legislación vigente al momento de su presentación, hasta en tanto se encuentre en operaciones el órgano desconcentrado correspondiente.
+
+Tratándose de las solicitudes pendientes de renovación de Dictamen Único de Factibilidad, los particulares se podrán acoger a los beneficios que otorgan las disposiciones adicionadas y reformadas mediante el presente Decreto, cuando se hace referencia al carácter permanente del referido Dictamen.
+
+Para efectos del párrafo anterior, la Secretaría Técnica de la Comisión Estatal de Factibilidad deberá remitir a la o al Titular de la Dirección General de la Comisión de Factibilidad del Estado de México, en un plazo no mayor a quince días hábiles, contados a partir de que entre en operaciones el órgano desconcentrado correspondiente, los expedientes relacionados con solicitudes de Dictamen Único de Factibilidad que obren en sus archivos.
+
+QUINTO. Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Comisión Estatal de Factibilidad, se entenderá a la Comisión de Factibilidad del Estado de México.
+
+SEXTO. La Legislatura del Estado proveerá los recursos necesarios para la implementación de las disposiciones contenidas en el presente Decreto.
+
+SÉPTIMO. Se abroga la Ley que crea el Instituto de Verificación Administrativa del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 19 de diciembre de 2016.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Urbano y Metropolitano y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Justicia y Derechos Humanos.
+
+NOVENO. Las y los servidores adscritos a las dependencias del Ejecutivo del Estado que tengan a su cargo funciones de verificación, supervisión o inspección en las materias a que se refiere la Ley que crea el Instituto de Verificación Administrativa del Estado de México, en un plazo no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto, serán credencializados por el Instituto para el desempeño de sus funciones, sin que esto afecte sus derechos laborales, cuya relación laboral continuará a cargo de las dependencias en las que se desempeñen, las que los proveerán de los elementos necesarios, tanto materiales, como financieros, servicios generales, para el ejercicio de sus funciones.
+
+DÉCIMO. Toda referencia a supervisión o inspección contenida en otras disposiciones jurídicas de igual o menor jerarquía en las materias que regula la Ley que crea el Instituto de Verificación Administrativa del Estado de México, se entenderán como verificación.
+
+DÉCIMO PRIMERO. Las dependencias del Ejecutivo del Estado, en el ámbito de su competencia, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO SEGUNDO. Para considerar a los Dictámenes Únicos de Factibilidad emitidos por la Comisión Estatal de Factibilidad como documentos de carácter permanente, los mismos deberán estar sustentados con todas las evaluaciones técnicas que correspondan y no deberán contener en su texto ninguna condicionante.
+
+DÉCIMO TERCERO. Los trámites que se iniciaron ante la Comisión Estatal de Desarrollo Urbano y Vivienda, con la finalidad de obtener la Constancia de Viabilidad para la autorización de conjuntos urbanos y condominios, podrán continuar con el trámite ante la Dirección General de Operación Urbana.
+
+Los particulares deberán contar con la vigencia de los dictámenes, evaluaciones, opiniones, factibilidades y/o cualquier otro documento obtenido de las unidades administrativas participantes de la entonces Comisión Estatal de Desarrollo Urbano y Vivienda, lo anterior, a efecto de salvaguardar los derechos de los particulares que llevaron a cabo sus trámites para la obtención de autorización de conjuntos urbanos y condominios de más de treinta viviendas.
+
+Para efectos de lo anterior, se establece un término de treinta días hábiles a partir de la entrada en vigor del presente Decreto, fenecido dicho plazo sin ninguna manifestación del particular, o bien, sin que se cuente con los dictámenes, evaluaciones, opiniones, factibilidades con vigencia, se tendrá el trámite como total y definitivamente concluido: pudiendo iniciar un nuevo trámite ante la Comisión de Factibilidad del Estado de México.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Dictamen de Factibilidad de Impacto Sanitario se entenderá por evaluación técnica de factibilidad de impacto sanitario;
+
+b) Evaluación Técnica de Impacto Urbano se entenderá por evaluación técnica de factibilidad de impacto urbano;
+
+c) Evaluación técnica de protección civil o evaluación técnica de viabilidad de mediano o alto impacto se entenderá por evaluación técnica de factibilidad de protección civil;
+
+d) Dictamen de Incorporación e Impacto Vial o evaluación técnica de incorporación e impacto vial se entenderá por evaluación técnica de factibilidad de incorporación e impacto vial;
+
+e) Evaluación de impacto ambiental se entenderá por evaluación técnica de factibilidad de impacto ambiental;
+
+f) Dictamen de Factibilidad de Transformación Forestal se entenderá por evaluación técnica de factibilidad de transformación forestal;
+
+g) Evaluación de factibilidad comercial automotriz se entenderá por evaluación técnica de factibilidad comercial automotriz;
+
+h) Dictamen de congruencia de factibilidades o Dictamen de Factibilidad para la Distribución de Agua se entenderá por evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales, así como la evaluación técnica de factibilidad de distribución de agua, según corresponda; y
+
+i) Estudio de Impacto de Movilidad se entenderá por evaluación técnica de factibilidad de impacto de movilidad;
+
+DÉCIMO QUINTO. El Consejo Estatal de Mejora Regulatoria y la Comisión Estatal de Mejora Regulatoria se integrarán e instalarán en un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO SEXTO. Las Dependencias deberán informar a la Comisión Estatal, en un lapso no mayor de treinta días naturales a entrada en vigor de este Decreto, la actualización de sus Enlaces de Mejora Regulatoria.
+
+DÉCIMO SÉPTIMO. El Ejecutivo Estatal expedirá los reglamentos relacionados con la Ley para la Mejora Regulatoria del Estado de México y sus Municipios, en un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se emitan dichos reglamentos, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+DÉCIMO OCTAVO. En los ordenamientos legales donde se haga referencia al término Estudio de Impacto Regulatorio, se entenderá como Análisis de Impacto Regulatorio.
+
+DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio será expedido por la Comisión, en un plazo de treinta días hábiles contados a partir de la expedición de los lineamientos generales para la implementación del Análisis de Impacto Regulatorio a que hace referencia el tercer párrafo del artículo 66 de la Ley General de Mejora
+
+Regulatoria.
+
+VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
+
+VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
