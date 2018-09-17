@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2018-01-10"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -201,9 +201,9 @@ XIII. La regulación del aprovechamiento de los minerales o substancias no reser
 
 XIV. La preservación, conservación, protección, remediación, recuperación, rehabilitación o restauración del medio ambiente en los centros de población en relación con los efectos derivados de las obras y los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, depósitos de basura, rastros, tránsito y transporte local;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XV. La evaluación de impacto ambiental de obras, actividades o aprovechamientos, emitida al seno de la Comisión Estatal de Factibilidad, que pudieran producir daño al medio ambiente en el territorio del Estado de conformidad a lo establecido en el presente Libro.
+XV. La evaluación técnica de factibilidad de impacto ambiental de obras actividades o aprovechamientos, que pudieran producir daño al medio ambiente en el territorio del Estado de conformidad a lo establecido en el presente Libro;
 
 XVI. La regulación del manejo y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos conforme al presente Libro y al Libro Cuarto de este Código y demás ordenamientos aplicables;
 
@@ -353,9 +353,9 @@ XXV. Equilibrio ecológico: La relación de interdependencia entre los elementos
 
 XXVI. Estado: El Estado Libre y Soberano de México;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XXVII. Evaluación de impacto ambiental. El procedimiento científico y técnico a través del cual al seno de la Comisión Estatal de Factibilidad, las autoridades estatales y los organismos calificados identifican y predicen cuáles efectos ejercerán sobre el medio ambiente una acción o proyecto específico y autorizan la procedencia ambiental de dichos proyectos y las condiciones a las que se sujetarán los mismos para la realización de las obras, actividades o aprovechamientos con el fin de evitar o reducir al mínimo sus defectos negativos en el equilibrio ecológico o en el medio ambiente o a la biodiversidad.
+XXVII. Evaluación técnica de factibilidad de impacto ambiental. El procedimiento científico y técnico a través del cual, las autoridades estatales y los organismos calificados identifican y predicen cuáles efectos ejercerán sobre el medio ambiente una acción o proyecto específico y autorizan la procedencia ambiental de dichos proyectos y las condiciones a las que se sujetarán los mismos para la realización de las obras, actividades o aprovechamientos con el fin de evitar o reducir al mínimo sus defectos negativos en el equilibrio ecológico o en el medio ambiente o a la biodiversidad;
 
 XXVIII. Explotación: Uso de los recursos y elementos naturales renovables y no renovables que tiene como consecuencia un cambio significativo en el equilibrio de los ecosistemas;
 
@@ -471,9 +471,9 @@ c) La prevención y el control de la contaminación a la atmósfera generada por
 
 d) La regulación del aprovechamiento y uso racional, de la prevención y del control de la contaminación de aguas de jurisdicción estatal.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-e) La evaluación de impacto ambiental de los proyectos, obras, acciones y servicios emitida al seno de la Comisión Estatal de Factibilidad, que se ejecuten o se pretendan ejecutar en el Estado.
+e) La evaluación técnica de factibilidad de impacto ambiental de los proyectos, obras, acciones y servicios, que se ejecuten o se pretendan ejecutar en el Estado.
 
 f) La regulación con criterios ecológicos del aprovechamiento de los minerales o sustancias no reservadas a la Federación que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su fragmentación o descomposición que solo puedan utilizarse para la fabricación de materiales para la construcción u ornamentales.
 
@@ -1183,11 +1183,11 @@ IV. Una vez publicada en la Gaceta del Gobierno, su observancia será obligatori
 
 ### CAPITULO V. DE LA EVALUACION DEL IMPACTO AMBIENTAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-67. Las personas físicas o jurídicas colectivas que pretendan la realización de actividades industriales, públicas o privadas, la ampliación de obras y plantas industriales existentes en el territorio del Estado o la realización de aquellas actividades que puedan tener como consecuencia la afectación a la biodiversidad, la alteración de los ecosistemas, el desequilibrio ecológico o puedan exceder los límites y lineamientos que al efecto fije el Reglamento del presente Libro, las normas técnicas estatales o las normas oficiales mexicanas deberán someter su proyecto a la aprobación de la Comisión Estatal de Factibilidad, siempre y cuando no se trate de obras o actividades que estén sujetas en forma exclusiva a la regulación federal. El procedimiento de evaluación de impacto ambiental será obligatorio, así como la manifestación de impacto ambiental que será evaluada por la Secretaría y estará sujeta a la autorización previa de ésta, asimismo estarán obligados al cumplimiento de los requisitos o acciones para mitigar el impacto ambiental que pudieran ocasionar sin perjuicio de otras autorizaciones que corresponda otorgar a las autoridades competentes. Estarán particularmente obligados quienes realicen:
+67. Las personas físicas o jurídicas colectivas que pretendan la realización de actividades industriales, públicas o privadas, la ampliación de obras y plantas industriales existentes en el territorio del Estado o la realización de aquellas actividades que puedan tener como consecuencia la afectación a la biodiversidad, la alteración de los ecosistemas, el desequilibrio ecológico o puedan exceder los límites y lineamientos que al efecto fije el Reglamento del presente Libro, las normas técnicas estatales o las normas oficiales mexicanas deberán someter su proyecto a la aprobación de la Comisión de Factibilidad del Estado de México, siempre y cuando no se trate de obras o actividades que estén sujetas en forma exclusiva a la regulación federal. El procedimiento de evaluación técnica de factibilidad de impacto ambiental será obligatorio en sus modalidades de informe previo, manifestación de impacto ambiental y/o estudio de riesgo, mismos que serán emitidos por la Secretaría y estarán sujetos a la evaluación previa de ésta; asimismo las personas físicas o jurídicas colectivas estarán obligadas al cumplimiento de los requisitos o acciones para mitigar el impacto ambiental que pudieran ocasionar sin perjuicio del Dictamen Único de Factibilidad y otras autorizaciones que corresponda otorgar a las autoridades competentes. Estarán particularmente obligados quienes realicen:
 
 I. Obra pública estatal y municipal;
 
@@ -1203,9 +1203,9 @@ VI. Sistemas de manejo y disposición de residuos sólidos urbanos, industriales
 
 VII. Confinamientos, rellenos sanitarios, sitios de disposición, estaciones de transferencia, e instalaciones de tratamiento o de eliminación de residuos sólidos urbanos y de manejo especial;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-VIII. Conjuntos urbanos, nuevos centros de población y los usos de suelo que requieran de Dictamen Único de Factibilidad en términos del Libro Quinto de este Código.
+VIII. Conjuntos urbanos, nuevos centros de población y los usos de suelo que requieran de evaluación técnica de factibilidad de impacto urbano y Dictamen Único de Factibilidad en términos del Libro Quinto del Código Administrativo del Estado de México y demás disposiciones jurídicas aplicables;
 
 IX. Terminales de transporte para pasajeros y de carga, de carácter estatal o municipal;
 
@@ -1237,11 +1237,15 @@ XIX. Comercio, guarda, almacenamiento o depósito de vehículos de desecho o aut
 
 XX. Las demás que se establezcan en el reglamento de este Libro que puedan causar impactos ambientales significativos de carácter adverso y que, por razón de la obra o actividad de que se trate no sean de jurisdicción federal.
 
-La Secretaría podrá eximir de la evaluación del impacto o riesgo ambiental a aquellos proyectos que, si bien se encuentren previstos en este artículo, no produzcan impactos ambientales significativos de carácter adverso o no causen desequilibrios a la biodiversidad y sus recursos asociados, debido a su ubicación, dimensiones o características, de acuerdo a la reglamentación de este Libro.
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-Para el caso de la obra pública, el reglamento del presente libro establecerá el procedimiento y requisitos para la evaluación del impacto ambiental.
+La Secretaría podrá eximir de la evaluación técnica de factibilidad de impacto ambiental a aquellos proyectos que, si bien se encuentren previstos en este artículo, no produzcan impactos ambientales significativos de carácter adverso o no causen desequilibrios a la biodiversidad y sus recursos asociados, debido a su ubicación, dimensiones o características, de acuerdo a la reglamentación de este Libro.
 
-La manifestación deberá contener, por lo menos, una descripción y evaluación de los efectos que previsiblemente podrá tener el proyecto específico en el o los ecosistemas, considerando el conjunto de los elementos que los conforman, así como las medidas preventivas, de mitigación y las necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente. En el caso de las actividades riesgosas, la manifestación de impacto ambiental deberá de acompañarse de un estudio de riesgo.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+La evaluación técnica de factibilidad de impacto ambiental deberá contener, por lo menos, una descripción y evaluación de los efectos que previsiblemente podrá tener el proyecto específico en el o los ecosistemas, considerando el conjunto de los elementos que los conforman, así como las medidas preventivas, de mitigación y las necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente. En el caso de las actividades riesgosas, la evaluación técnica de factibilidad de impacto ambiental deberá de acompañarse de un estudio de riesgo.
 
 ###### Artículo 2.
 
@@ -1271,11 +1275,11 @@ Los promoventes de la obra o actividad podrán solicitar que se mantenga en rese
 
 69. Al realizar la evaluación del impacto ambiental, la Secretaría se ajustará a los programas de ordenamiento ecológico del territorio y considerará los planes de desarrollo urbano, las declaratorias de áreas naturales protegidas y sus programas de manejo, las normas y demás disposiciones jurídicas que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-70. Una vez evaluado el informe previo, manifiesto de impacto o estudio de riesgo ambiental, la Secretaría, al seno de la Comisión Estatal de Factibilidad, emitirá debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
+70. Una vez evaluado el informe previo, manifiesto de impacto o estudio de riesgo ambiental, la Secretaría, emitirá debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
 
 I. Autorizar la instrumentación de los planes y programas, así como la realización de la obra o actividad de que se trate, en los términos solicitados;
 
@@ -1335,11 +1339,11 @@ En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe prev
 
 77. La persona que construya una obra nueva, amplíe una existente, o explote recursos naturales sin contar previamente con la autorización de impacto ambiental respectiva o que contando con ésta incumpla los requisitos y condiciones establecidos en la misma o en este Libro, estará obligada a reparar los daños ambientales que con tal motivo hubiere causado, sin perjuicio de la aplicación de las sanciones respectivas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-78. Las personas afectadas directamente o los representantes de una organización social que acrediten su interés ante (sic) Comisión Estatal de Factibilidad, tendrán derecho a formular por escrito dentro del expediente del procedimiento administrativo correspondiente, observaciones y propuestas respecto de las obras, actividades o aprovechamientos sujetos a la evaluación de impacto ambiental.
+78. Las personas afectadas directamente o los representantes de una organización social que acrediten su interés ante (sic) Comisión de Factibilidad del Estado de México, tendrán derecho a formular por escrito dentro del expediente del procedimiento administrativo correspondiente, observaciones y propuestas respecto de las obras, actividades o aprovechamientos sujetos a la evaluación de impacto ambiental.
 
 El Reglamento establecerá la forma a través de los cuales se hará efectivo el derecho a que se refiere el párrafo anterior para lo cual determinará las formalidades, plazos y demás circunstancias que resulten necesarias para garantizar adecuadamente los derechos a que se refieren los artículos 1.2 fracción I del Libro Primero de este Código y 2.27 fracción II del presente Libro.
 
@@ -1347,19 +1351,19 @@ El Reglamento establecerá la forma a través de los cuales se hará efectivo el
 
 La persona que haga uso de las formas de participación social a los que se refiere este Libro sin motivos razonablemente fundados, realizando observaciones y peticiones notoriamente frívolas con el ánimo de entorpecer y retardar los procedimientos administrativos de evaluación de impacto ambiental, se hará acreedora a una sanción de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización vigente, sin perjuicio de las responsabilidades civiles y penales en las que pudiera incurrir de acuerdo a lo previsto en el presente Código y demás leyes que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-79. La resolución que ponga fin a un procedimiento de evaluación de impacto ambiental podrá, al seno de la Comisión Estatal de Factibilidad autorizar, condicionar o negar la autorización para la realización del proyecto sometido a evaluación.
+79. La resolución que ponga fin a un procedimiento de evaluación técnica de factibilidad de impacto ambiental podrá autorizar, condicionar o negar la autorización para la realización del proyecto sometido a evaluación.
 
 Para la negativa, autorización condicionada o definitiva de las obras, actividades o aprovechamientos a los que se refiere este Capítulo, la autoridad competente deberá fundar su resolución en lo dispuesto por este Libro, su Reglamento y demás disposiciones jurídicas que resulten aplicables y atenderá a las condiciones y límites establecidos en las normas oficiales mexicanas, criterios ecológicos y normas técnicas estatales, los planes de desarrollo urbano y de ordenamiento ecológico del territorio Estatal, así como a las observaciones y propuestas que resulten fundadas y que se hayan realizado de acuerdo a lo previsto en este Ordenamiento.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-80. El Reglamento de la Comisión Estatal de Factibilidad establecerá los plazos y actos a que se sujetará la integración del expediente de evaluación de impacto ambiental, la cual a partir de la integración del expediente, emitirá la resolución, concediendo la autorización o negándola, la que deberá ser notificada personalmente.
+80. El Reglamento Interior de la Comisión de Factibilidad del Estado de México y el Reglamento del presente Libro establecerán los plazos y actos a que se sujetará la integración del expediente de evaluación técnica de factibilidad de impacto ambiental, la cual a partir de la integración del expediente, emitirá la resolución, concediendo la autorización o negándola, la que deberá ser notificada personalmente.
 
 ###### Artículo 2.
 
@@ -3391,9 +3395,9 @@ La resolución de la Secretaría sólo se referirá a los aspecto (sic) ambienta
 
 311. La valoración económica la realizará la Secretaría a efecto de determinar el monto de cobertura que deberá comprender la garantía financiera o la póliza de seguro que se contrate con base en la evaluación de impacto ambiental que al efecto se requiera.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-De igual forma la Secretaría al seno de la Comisión Estatal de Factibilidad podrá negar la evaluación para efectuar las citadas actividades cuando considere que el desempeño de las mismas será de franca e irremediable afectación ecológica que dañe a la biodiversidad.
+De igual forma la Secretaría podrá negar la evaluación para efectuar las citadas actividades cuando considere que el desempeño de las mismas será de franca e irremediable afectación ecológica que dañe a la biodiversidad.
 
 ###### Artículo 2.
 
@@ -3739,7 +3743,9 @@ X. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
 17. PROBOSQUE es un Organismo Público Descentralizado denominado «PROTECTORA DE BOSQUES DEL ESTADO DE MEXICO», con personalidad jurídica y patrimonio propios; su actividad tendrá el carácter de interés público y beneficio social, y tiene por objeto la protección, conservación, reforestación, fomento y vigilancia de los recursos forestales en el Estado.
 
-PROBOSQUE para el cumplimiento de su objeto se coordinará con las autoridades, organizaciones y personas a fines (sic) a la materia y tendrá las atribuciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+PROBOSQUE para el cumplimiento de su objeto se coordinará con las autoridades, organizaciones y personas afines a la materia y tendrá las atribuciones siguientes:
 
 I. Planear operativamente y ejecutar la protección, conservación, reforestación, fomento y vigilancia de los recursos forestales del Estado;
 
@@ -3767,11 +3773,13 @@ XI. Organizar los servicios técnicos y el registro y control de los peritos for
 
 XII. Adquirir toda clase de bienes y realizar los actos que se requieran para el cumplimiento de su objeto; y
 
-XIII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE ENERO DE 2014)</small>
+XIII. Emitir la evaluación técnica de factibilidad de transformación forestal, para la obtención del Dictamen Único de Factibilidad, derivado del análisis que realice a la documentación presentada y de los comprobantes con los que el interesado acredite la legal procedencia de los productos forestales;
 
-XIV. Vigilar a través de visitas de verificación que los centros de almacenamiento o transformación de materias primas forestales, cumplan con lo establecido en el Dictamen de Factibilidad de Transformación Forestal, aplicando dentro del ámbito de sus atribuciones, las medidas de seguridad e imponiendo las infracciones que correspondan por su inobservancia.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Vigilar, en coordinación con el Instituto de Verificación Administrativa del Estado de México, en el ámbito de sus respectivas competencias, que los centros de almacenamiento o transformación de materias primas forestales, cumplan con lo establecido en la evaluación técnica de factibilidad de transformación forestal aplicando dentro del ámbito de sus atribuciones, las medidas de seguridad e imponiendo las infracciones que correspondan por su inobservancia; y
 
 > <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
@@ -3781,9 +3789,9 @@ XV. Las demás que le atribuyan las disposiciones legales y los convenios o acue
 
 18. La dirección y administración de PROBOSQUE estará a cargo de un consejo directivo y un director general.
 
-> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-El consejo directivo se integrará en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares cuenta con cinco vocales que son los representantes de las Secretarías de Finanzas, Desarrollo Económico, Desarrollo Urbano y Metropolitano, Comunicaciones, Obra Pública y Desarrollo Agropecuario.
+El consejo directivo se integrará en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con seis vocales que son los representantes de las Secretarías de Finanzas, Desarrollo Económico, Desarrollo Urbano y Metropolitano, Comunicaciones, Obra Pública y Desarrollo Agropecuario; así como un Comisario, que será el representante de la Secretaría de la Contraloría.
 
 El director general será nombrado por el Gobernador del Estado a propuesta del presidente del consejo directivo.
 
@@ -7972,3 +7980,79 @@ G.G. 10 DE ENERO DE 2018.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial “Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor el 01 de enero de 2019.
+
+G.G. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, serán atendidos, en el ámbito de sus respectivas competencias, por la Comisión Estatal de Factibilidad y el Instituto de Verificación Administrativa del Estado de México, de conformidad con la legislación vigente al momento de su presentación, hasta en tanto se encuentre en operaciones el órgano desconcentrado correspondiente.
+
+Tratándose de las solicitudes pendientes de renovación de Dictamen Único de Factibilidad, los particulares se podrán acoger a los beneficios que otorgan las disposiciones adicionadas y reformadas mediante el presente Decreto, cuando se hace referencia al carácter permanente del referido Dictamen.
+
+Para efectos del párrafo anterior, la Secretaría Técnica de la Comisión Estatal de Factibilidad deberá remitir a la o al Titular de la Dirección General de la Comisión de Factibilidad del Estado de México, en un plazo no mayor a quince días hábiles, contados a partir de que entre en operaciones el órgano desconcentrado correspondiente, los expedientes relacionados con solicitudes de Dictamen Único de Factibilidad que obren en sus archivos.
+
+QUINTO. Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Comisión Estatal de Factibilidad, se entenderá a la Comisión de Factibilidad del Estado de México.
+
+SEXTO. La Legislatura del Estado proveerá los recursos necesarios para la implementación de las disposiciones contenidas en el presente Decreto.
+
+SÉPTIMO. Se abroga la Ley que crea el Instituto de Verificación Administrativa del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 19 de diciembre de 2016.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaria de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaria de Desarrollo Urbano y Metropolitano y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Justicia y Derechos Humanos.
+
+NOVENO. Las y los servidores adscritos a las dependencias del Ejecutivo del Estado que tengan a su cargo funciones de verificación, supervisión o inspección en las materias a que se refiere la Ley que crea el Instituto de Verificación Administrativa del Estado de México, en un plazo no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto, serán credencializados por el Instituto para el desempeño de sus funciones, sin que esto afecte sus derechos laborales, cuya relación laboral continuará a cargo de las dependencias en las que se desempeñen, las que los proveerán de los elementos necesarios, tanto materiales, como financieros, servicios generales, para el ejercicio de sus funciones.
+
+DÉCIMO. Toda referencia a supervisión o inspección contenida en otras disposiciones jurídicas de igual o menor jerarquía en las materias que regula la Ley que crea el Instituto de Verificación Administrativa del Estado de México, se entenderán como verificación.
+
+DÉCIMO PRIMERO. Las dependencias del Ejecutivo del Estado, en el ámbito de su competencia, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO SEGUNDO. Para considerar a los Dictámenes Únicos de Factibilidad emitidos por la Comisión Estatal de Factibilidad como documentos de carácter permanente, los mismos deberán estar sustentados con todas las evaluaciones técnicas que correspondan y no deberán contener en su texto ninguna condicionante.
+
+DÉCIMO TERCERO. Los trámites que se iniciaron ante la Comisión Estatal de Desarrollo Urbano y Vivienda, con la finalidad de obtener la Constancia de Viabilidad para la autorización de conjuntos urbanos y condominios, podrán continuar con el trámite ante la Dirección General de Operación Urbana.
+
+Los particulares deberán contar con la vigencia de los dictámenes, evaluaciones, opiniones, factibilidades y/o cualquier otro documento obtenido de las unidades administrativas participantes de la entonces Comisión Estatal de Desarrollo Urbano y Vivienda, lo anterior, a efecto de salvaguardar los derechos de los particulares que llevaron a cabo sus trámites para la obtención de autorización de conjuntos urbanos y condominios de más de treinta viviendas.
+
+Para efectos de lo anterior, se establece un término de treinta días hábiles a partir de la entrada en vigor del presente Decreto, fenecido dicho plazo sin ninguna manifestación del particular, o bien. sin que se cuente con los dictámenes, evaluaciones, opiniones, factibilidades con vigencia, se tendrá el trámite como total y definitivamente concluido: pudiendo iniciar un nuevo trámite ante la Comisión de Factibilidad del Estado de México.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Dictamen de Factibilidad de Impacto Sanitario se entenderá por evaluación técnica de factibilidad de impacto sanitario;
+
+b) Evaluación Técnica de Impacto Urbano se entenderá por evaluación técnica de factibilidad de impacto urbano;
+
+c) Evaluación técnica de protección civil o evaluación técnica de viabilidad de mediano o alto impacto se entenderá por evaluación técnica de factibilidad de protección civil;
+
+d) Dictamen de Incorporación e Impacto Vial o evaluación técnica de incorporación e impacto vial se entenderá por evaluación técnica de factibilidad de incorporación e impacto vial;
+
+e) Evaluación de impacto ambiental se entenderá por evaluación técnica de factibilidad de impacto ambiental;
+
+f) Dictamen de Factibilidad de Transformación Forestal se entenderá por evaluación técnica de factibilidad de transformación forestal;
+
+g) Evaluación de factibilidad comercial automotriz se entenderá por evaluación técnica de factibilidad comercial automotriz;
+
+h) Dictamen de congruencia de factibilidades o Dictamen de Factibilidad para la Distribución de Agua se entenderá por evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales, así como la evaluación técnica de factibilidad de distribución de agua, según corresponda; y
+
+i) Estudio de Impacto de Movilidad se entenderá por evaluación técnica de factibilidad de impacto de movilidad;
+
+DÉCIMO QUINTO. El Consejo Estatal de Mejora Regulatoria y la Comisión Estatal de Mejora Regulatoria se integrarán e instalarán en un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO SEXTO. Las Dependencias deberán informar a la Comisión Estatal, en un lapso no mayor de treinta días naturales a (sic) entrada en vigor de este Decreto, la actualización de sus Enlaces de Mejora Regulatoria.
+
+DÉCIMO SÉPTIMO. El Ejecutivo Estatal expedirá los reglamentos relacionados con la Ley para la Mejora Regulatoria del Estado de México y sus Municipios, en un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se emitan dichos reglamentos, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+DÉCIMO OCTAVO. En los ordenamientos legales donde se haga referencia al término Estudio de Impacto Regulatorio, se entenderá como Análisis de Impacto Regulatorio.
+
+DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio será expedido por la Comisión, en un plazo de treinta días hábiles contados a partir de la expedición de los lineamientos generales para la implementación del Análisis de Impacto Regulatorio a que hace referencia el tercer párrafo del artículo 66 de la Ley General de Mejora Regulatoria.
+
+VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
+
+VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
