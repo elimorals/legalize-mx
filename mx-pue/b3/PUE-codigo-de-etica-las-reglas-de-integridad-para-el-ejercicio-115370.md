@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-etica-las-reglas-de-integridad-para-el-ejercicio-1153
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-31"
-last_updated: "2016-05-31"
+last_updated: "2018-09-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO DE ETICA, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCION PUBLICA, Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LAS SERVIDORAS Y LOS SERVIDORES PUBLICOS Y PARA IMPLEMENTAR ACCIONES PERMANENTES QUE FAVOREZCAN SU COMPORTAMIENTO ETICO, A TRAVES DE LOS COMITES DE ETICA Y DE PREVENCION DE CONFLICTOS DE INTERES DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LOS SERVIDORES PÚBLICOS Y PARA IMPLEMENTAR ACCIONES PERMANENTES QUE FAVOREZCAN SU COMPORTAMIENTO ÉTICO, A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS, PUBLICADO EN EL P.O. DE 17 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA, Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LAS SERVIDORAS Y LOS SERVIDORES PÚBLICOS Y PARA IMPLEMENTAR ACCIONES PERMANENTES QUE FAVOREZCAN SU COMPORTAMIENTO ÉTICO, A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018 (SIN EFECTOS).
 
 Acuerdo publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el martes 31 de mayo de 2016.
 
@@ -33,7 +35,9 @@ Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos
 
 ALEJANDRO TORRES PALMER Secretario de la Contraloría del Gobierno del Estado de Puebla, y
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 3, 14 primer párrafo, 17, fracción IV, 37, fracciones IX y LVIII, de la Ley Orgánica de la Administración Pública del Estado de Puebla, 8 y 9, fracción VI, del Reglamento Interior de la Secretaría de la Contraloría; he tenido a bien emitir el siguiente:
 
@@ -788,3 +792,15 @@ SEGUNDO. Se deja sin efecto cualquier otra disposición de la misma naturaleza d
 TERCERO. Los Comités de Ética y de Prevención de Conflictos de Interés deberán estar constituidos en los términos de los Lineamientos generales para propiciar la integridad de los servidores públicos y para implementar acciones permanentes que favorezcan su comportamiento ético, a través de los Comités de Ética y de Prevención de Conflictos de Interés, en un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Acuerdo.
 
 Dado en la Cuatro Veces Heroica Puebla de Zaragoza, a los treinta días del mes de mayo de dos mil dieciséis. El Secretario de la Contraloría. C. ALEJANDRO TORRES PALMER. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL SECRETARIO DE LA CONTRALORÍA DEL GOBIERNO DEL ESTADO, POR EL QUE EXPIDE EL CÓDIGO DE ÉTICA, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LOS SERVIDORES PÚBLICOS Y PARA IMPLEMENTAR ACCIONES PERMANENTES QUE FAVOREZCAN SU COMPORTAMIENTO ÉTICO, A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deja sin efecto el Acuerdo por el que se expide el Código de Ética, las Reglas de Integridad para el Ejercicio de la Función Pública, y los Lineamientos Generales para Propiciar la Integridad de las servidoras y los servidores públicos y para Implementar Acciones Permanentes que Favorezcan su Comportamiento Ético, a través de los Comités de Ética y de Prevención de Conflictos de Interés, publicado en el Periódico Oficial del Estado el treinta y uno de mayo de dos mil dieciséis.
+
+TERCERO. El Acuerdo del Ejecutivo del Estado, por el que emite el Protocolo para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual en las Dependencias y Entidades del Gobierno del Estado de Puebla, publicado en el Periódico Oficial del Estado el ocho de septiembre de dos mil diecisiete; así como los demas instrumentos jurídicos que actualmente se encuentren vigentes que no se opongan a las disposiciones del presente ordenamiento, serán aplicables al presente Acuerdo.
