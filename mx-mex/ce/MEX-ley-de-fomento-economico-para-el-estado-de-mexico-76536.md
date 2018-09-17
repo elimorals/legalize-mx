@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2017-09-29"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -139,8 +139,6 @@ XXXI. Registro: Al Registro Estatal de Desarrollo Económico;
 
 XXXII. Reglamento: Al Reglamento de esta Ley expedido por el Gobernador del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 XXXIII. SAREMEX: Al Sistema de Apertura Rápida de Empresas del Estado de México, instrumento con base en el cual se atiende la gestión empresarial relativa a actividades económicas de balo (sic) riesgo que no requieren del dictamen único de factibilidad.
@@ -161,9 +159,9 @@ XL. Sustentabilidad: A la posibilidad de promover el desarrollo económico sin c
 
 XLI. Trámite: A la solicitud o gestión que realizan las personas físicas o jurídicas colectivas, con base en un ordenamiento jurídico, ya sea para cumplir una obligación que tienen a su cargo, o bien para obtener información, un beneficio, un servicio o una resolución, y que la autoridad a que se refiere el propio ordenamiento está obligada a resolver en los términos del mismo; y
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XLII. Visita colegiada: Al acto en el que las unidades administrativas que participan en la Comisión Estatal de Factibilidad y el Instituto de Verificación Administrativa del Estado de México, en el ámbito de su competencia, llevan a cabo la supervisión técnica y física del inmueble en donde se pretende la apertura, instalación, operación y ampliación de una unidad económica o inversión.
+XLII. Visita colegiada: Al acto en el que las dependencias y organismos auxiliares, bajo la coordinación y ejecución del Instituto de Verificación Administrativa del Estado de México y con conocimiento de la Comisión de Factibilidad del Estado de México, realizan la supervisión técnica y física del inmueble donde se pretende la construcción, apertura, instalación, operación, ampliación o funcionamiento de obras, unidades económicas, inversiones o proyectos, con el objeto de allegarse de los elementos indispensables y estar en aptitud de emitir la evaluación técnica de factibilidad que en su caso sustente la determinación del Dictamen o la resolución correspondiente; y
 
 > <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -329,7 +327,7 @@ El Consejo se integrará por:
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-l. Un Presidente, que será el Secretario de Desarrollo Económico;
+I. Un Presidente, que será el Secretario de Desarrollo Económico;
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -341,19 +339,23 @@ IV. Los titulares de:
 
 a). La Secretaría del Trabajo;
 
-b). La Secretaría de Desarrollo Urbano;
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+b). Secretaría de Desarrollo Urbano y Metropolitano;
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 c). La Secretaría de Obra Pública;
 
-d). La Secretaría de Desarrollo Metropolitano;
+d). (DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 e). La Secretaría de Desarrollo Agropecuario;
 
 f). (DEROGADO, G.G. 27 DE JULIO DE 2015)
 
-g). La Secretaría de Transportes;
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+g). La Secretaría de Movilidad;
 
 h). La Secretaría del Medio Ambiente;
 
@@ -1069,29 +1071,23 @@ La empresa o empresas que resulten premiadas, además de la entrega de su recono
 
 ### Capítulo Primero. De los Trámites Empresariales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 52.
 
-Las autorizaciones, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones que emitan las autoridades correspondientes en relación con la instalación, apertura, operación y ampliación de empresas consideradas de impacto regional, se ajustarán a las disposiciones específicas que en cada caso establezca la legislación aplicable, su reglamentación y los planes de desarrollo urbano, y deberán realizar, en su caso, los trámites siguientes:
+Las autorizaciones, evaluaciones técnicas de factibilidad, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones que emitan las autoridades correspondientes en relación con la instalación, apertura, operación y ampliación de empresas consideradas de impacto urbano, se ajustarán a las disposiciones específicas que en cada caso establezca la legislación aplicable, su reglamentación y los planes de desarrollo urbano, y deberán realizar, en su caso, los trámites siguientes:
 
 I. Dictamen de servicios de agua potable, drenaje y saneamiento. Consiste en la certificación que emite el correspondiente organismo prestador del servicio, en los términos de la Ley del Agua del Estado de México, en la que se definen los puntos de conexión de agua potable y los de descargas de aguas residuales, tratadas o no, según el caso;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 II. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 III. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 IV. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
-V. Dictamen Único de Factibilidad. Es el resultado del análisis normativo multidisciplinario que tiene como finalidad determinar la factibilidad de los proyectos que por su uso o aprovechamiento del suelo generen efectos en el equipamiento urbano, infraestructura, servicios públicos y en el entorno ambiental, para garantizar le (sic) salud de la población, sus bienes, la belleza paisajística y la calidad de vida. Es exigible a aquellos proyectos que generen impacto regional en la infraestructura y equipamiento urbano y en los servicios públicos, de acuerdo con lo previsto en el Código Administrativo del Estado de México.
+V. Dictamen Único de Factibilidad. Al Dictamen Único de Factibilidad, que es el documento de carácter permanente emitido por la Comisión de Factibilidad del Estado de México, sustentado en las evaluaciones técnicas de factibilidad en materias de salubridad local, desarrollo urbano y vivienda, protección civil, medio ambiente, desarrollo económico, comunicaciones, movilidad y agua, drenaje, alcantarillado y tratamiento de aguas residuales, previo análisis normativo multidisciplinario, cuya finalidad es determinar la factibilidad de la construcción, apertura, instalación, operación, ampliación o funcionamiento de obras, unidades económicas, inversiones o proyectos, que por su uso o aprovechamiento del suelo generen efectos en el equipamiento urbano, infraestructura, servicios públicos, en el entorno ambiental o salud, en términos de las disposiciones jurídicas aplicables;
 
 VI. Permiso sanitario de inicio de construcción y de ocupación de obra. Consiste en la autorización para que una persona física o jurídica colectiva, realice actividades relacionadas con el inicio y ocupación de obras de construcción, reconstrucción, modificación o acondicionamiento de determinados establecimientos, y que están reguladas por el Libro Segundo del Código Administrativo;
 
@@ -1105,8 +1101,6 @@ IX. Cédula informativa de zonificación. Es el documento que expide la autorida
 
 El Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo, establecerá las actividades económicas que estarán exentas del cumplimiento de los trámites previstos en el artículo anterior, y en él se señalarán expresamente los que sean aplicables a cada actividad.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 Las actividades contenidas en el Catálogo se gestionarán al amparo del SAREMEX, salvo los casos de excepción que, de acuerdo con otras disposiciones legales aplicables, requieran Dictamen Único de Factibilidad.
@@ -1118,8 +1112,6 @@ Las actividades contenidas en el Catálogo se gestionarán al amparo del SAREMEX
 El SAREMEX es el conjunto de acciones orientadas a la gestión ágil y expedita de los trámites requeridos para la instalación, apertura, operación y ampliación de nuevos negocios que no generan impacto regional, de acuerdo con lo dispuesto por el artículo anterior, por medio de la coordinación de los tres órdenes de gobierno.
 
 La Secretaría promoverá la celebración de convenios con las dependencias federales y municipales, a efecto de asegurar la adecuada operación del SAREMEX.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1139,9 +1131,11 @@ La atención de las gestiones empresariales que se realicen al amparo del SAREME
 
 #### Sección Primera. Del Sistema Único de Gestión Empresarial
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 57.
 
-El SUGE es el conjunto de acciones orientadas a coordinar, evaluar y controlar los procesos a cargo de las dependencias competentes para la emisión de autorizaciones, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones relativos a la instalación, operación, apertura y ampliación de empresas en el Estado que, de acuerdo con la legislación aplicable, generen impacto regional.
+El SUGE es el conjunto de acciones orientadas a coordinar, evaluar y controlar los procesos a cargo de las dependencias competentes para la emisión de autorizaciones, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones relativas a la instalación, operación, apertura y ampliación de empresas en el Estado que, de acuerdo con la legislación aplicable, generen impacto urbano.
 
 ###### Artículo 58.
 
@@ -1179,8 +1173,6 @@ I. Adecuar su normatividad interna a efecto de dar cumplimiento a los propósito
 
 II. Reducir a los mínimos indispensables los requisitos para la emisión de los permisos, licencias, o autorizaciones que les corresponda otorgar;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 III. Definir tiempos máximos de respuesta a las solicitudes que realicen los particulares, que para el caso del SUGE no excederán de siete días hábiles. Se exceptúan del cumplimiento de este plazo, más no de la gestión los casos siguientes:
@@ -1191,13 +1183,9 @@ b). Los proyectos que se pretendan desarrollar en predios que se encuentran en z
 
 c). Los proyectos relacionados con hidrocarburos y sustancias explosivas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 Los supuestos anteriores deberán resolverse en un plazo no mayor a quince días hábiles.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1227,9 +1215,13 @@ II. Un Secretario Técnico, que será el Director General de Atención Empresari
 
 III. Un vocal por cada una de las unidades administrativas (sic) dependencias siguientes:
 
-a). Secretaría General de Gobierno: Dirección General de Protección Civil e Instituto de la Función Registral;
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-b). Secretaría de Desarrollo Urbano: Dirección General de Operación Urbana;
+a). Secretaría General de Gobierno: Coordinación General de Protección Civil;
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+b). Secretaría de Desarrollo Urbano y Metropolitano: Dirección General de Operación Urbana;
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1240,6 +1232,10 @@ d). Secretaría del Medio Ambiente: Direcciones Generales de Ordenamiento e Impa
 e). Comisión del Agua del Estado de México;
 
 f). Instituto de Salud del Estado de México: Coordinación de Regulación Sanitaria.
+
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+g). Secretaría de Justicia y Derechos Humanos: Instituto de la Función Registral.
 
 En ausencia del Presidente en las sesiones de la Comisión, corresponderá al Secretario Técnico cumplir sus funciones.
 
@@ -1301,13 +1297,17 @@ Los particulares que adquieren vehículos usados que no cuenten con un sistema d
 
 ### CAPÍTULO PRIMERO. De las Verificaciones
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 68.
 
-La Secretaría podrá ordenar la práctica de visitas de inspección y verificación a los establecimientos de los beneficiarios de incentivos no fiscales, con el objeto de comprobar que las condiciones y los requisitos legales que sirvieron para el otorgamiento del incentivo, siguen vigentes, así como para comprobar que se está dando cumplimiento a las metas y objetivos correspondientes.
+La Secretaría podrá solicitar al Instituto de Verificación Administrativa del Estado de México la práctica de visitas de verificación a los establecimientos de los beneficiarios de incentivos no fiscales, con el objeto de comprobar que las condiciones y los requisitos legales que sirvieron para el otorgamiento del incentivo, siguen vigentes, así como para comprobar que se está dando cumplimiento a las metas y objetivos correspondientes.
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 69.
 
-La orden de visita de verificación, así como el desarrollo de las visitas de verificación, se realizará cumpliendo las reglas que para tal efecto establece el Código de Procedimientos Administrativos del Estado de México.
+La orden de visita de verificación, así como su desarrollo, se realizará cumpliendo lo establecido en el Código de Procedimientos Administrativos del Estado de México, la Ley que crea el Instituto de Verificación Administrativa del Estado de México y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 70.
 
@@ -1702,3 +1702,79 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, serán atendidos, en el ámbito de sus respectivas competencias, por la Comisión Estatal de Factibilidad y el Instituto de Verificación Administrativa del Estado de México, de conformidad con la legislación vigente al momento de su presentación, hasta en tanto se encuentre en operaciones el órgano desconcentrado correspondiente.
+
+Tratándose de las solicitudes pendientes de renovación de Dictamen Único de Factibilidad, los particulares se podrán acoger a los beneficios que otorgan las disposiciones adicionadas y reformadas mediante el presente Decreto, cuando se hace referencia al carácter permanente del referido Dictamen.
+
+Para efectos del párrafo anterior, la Secretaría Técnica de la Comisión Estatal de Factibilidad deberá remitir a la o al Titular de la Dirección General de la Comisión de Factibilidad del Estado de México, en un plazo no mayor a quince días hábiles, contados a partir de que entre en operaciones el órgano desconcentrado correspondiente, los expedientes relacionados con solicitudes de Dictamen Único de Factibilidad que obren en sus archivos.
+
+QUINTO. Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Comisión Estatal de Factibilidad, se entenderá a la Comisión de Factibilidad del Estado de México.
+
+SEXTO. La Legislatura del Estado proveerá los recursos necesarios para la implementación de las disposiciones contenidas en el presente Decreto.
+
+SÉPTIMO. Se abroga la Ley que crea el Instituto de Verificación Administrativa del Estado de México, publicada en el Periódico Oficial “Gaceta del Gobierno” el 19 de diciembre de 2016.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaria de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaria de Desarrollo Urbano y Metropolitano y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Justicia y Derechos Humanos.
+
+NOVENO. Las y los servidores adscritos a las dependencias del Ejecutivo del Estado que tengan a su cargo funciones de verificación, supervisión o inspección en las materias a que se refiere la Ley que crea el Instituto de Verificación Administrativa del Estado de México, en un plazo no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto, serán credencializados por el Instituto para el desempeño de sus funciones, sin que esto afecte sus derechos laborales, cuya relación laboral continuará a cargo de las dependencias en las que se desempeñen, las que los proveerán de los elementos necesarios, tanto materiales, como financieros, servicios generales, para el ejercicio de sus funciones.
+
+DÉCIMO. Toda referencia a supervisión o inspección contenida en otras disposiciones jurídicas de igual o menor jerarquía en las materias que regula la Ley que crea el Instituto de Verificación Administrativa del Estado de México, se entenderán como verificación.
+
+DÉCIMO PRIMERO. Las dependencias del Ejecutivo del Estado, en el ámbito de su competencia, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO SEGUNDO. Para considerar a los Dictámenes Únicos de Factibilidad emitidos por la Comisión Estatal de Factibilidad como documentos de carácter permanente, los mismos deberán estar sustentados con todas las evaluaciones técnicas que correspondan y no deberán contener en su texto ninguna condicionante.
+
+DÉCIMO TERCERO. Los trámites que se iniciaron ante la Comisión Estatal de Desarrollo Urbano y Vivienda, con la finalidad de obtener la Constancia de Viabilidad para la autorización de conjuntos urbanos y condominios, podrán continuar con el trámite ante la Dirección General de Operación Urbana.
+
+Los particulares deberán contar con la vigencia de los dictámenes, evaluaciones, opiniones, factibilidades y/o cualquier otro documento obtenido de las unidades administrativas participantes de la entonces Comisión Estatal de Desarrollo Urbano y Vivienda, lo anterior, a efecto de salvaguardar los derechos de los particulares que llevaron a cabo sus trámites para la obtención de autorización de conjuntos urbanos y condominios de más de treinta viviendas.
+
+Para efectos de lo anterior, se establece un término de treinta días hábiles a partir de la entrada en vigor del presente Decreto, fenecido dicho plazo sin ninguna manifestación del particular, o bien. sin que se cuente con los dictámenes, evaluaciones, opiniones, factibilidades con vigencia, se tendrá el trámite como total y definitivamente concluido: pudiendo iniciar un nuevo trámite ante la Comisión de Factibilidad del Estado de México.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Dictamen de Factibilidad de Impacto Sanitario se entenderá por evaluación técnica de factibilidad de impacto sanitario;
+
+b) Evaluación Técnica de Impacto Urbano se entenderá por evaluación técnica de factibilidad de impacto urbano;
+
+c) Evaluación técnica de protección civil o evaluación técnica de viabilidad de mediano o alto impacto se entenderá por evaluación técnica de factibilidad de protección civil;
+
+d) Dictamen de Incorporación e Impacto Vial o evaluación técnica de incorporación e impacto vial se entenderá por evaluación técnica de factibilidad de incorporación e impacto vial;
+
+e) Evaluación de impacto ambiental se entenderá por evaluación técnica de factibilidad de impacto ambiental;
+
+f) Dictamen de Factibilidad de Transformación Forestal se entenderá por evaluación técnica de factibilidad de transformación forestal;
+
+g) Evaluación de factibilidad comercial automotriz se entenderá por evaluación técnica de factibilidad comercial automotriz;
+
+h) Dictamen de congruencia de factibilidades o Dictamen de Factibilidad para la Distribución de Agua se entenderá por evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales, así como la evaluación técnica de factibilidad de distribución de agua, según corresponda; y
+
+i) Estudio de Impacto de Movilidad se entenderá por evaluación técnica de factibilidad de impacto de movilidad;
+
+DÉCIMO QUINTO. El Consejo Estatal de Mejora Regulatoria y la Comisión Estatal de Mejora Regulatoria se integrarán e instalarán en un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO SEXTO. Las Dependencias deberán informar a la Comisión Estatal, en un lapso no mayor de treinta días naturales a (sic) entrada en vigor de este Decreto, la actualización de sus Enlaces de Mejora Regulatoria.
+
+DÉCIMO SÉPTIMO. El Ejecutivo Estatal expedirá los reglamentos relacionados con la Ley para la Mejora Regulatoria del Estado de México y sus Municipios, en un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se emitan dichos reglamentos, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+DÉCIMO OCTAVO. En los ordenamientos legales donde se haga referencia al término Estudio de Impacto Regulatorio, se entenderá como Análisis de Impacto Regulatorio.
+
+DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio será expedido por la Comisión, en un plazo de treinta días hábiles contados a partir de la expedición de los lineamientos generales para la implementación del Análisis de Impacto Regulatorio a que hace referencia el tercer párrafo del artículo 66 de la Ley General de Mejora Regulatoria.
+
+VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
+
+VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
