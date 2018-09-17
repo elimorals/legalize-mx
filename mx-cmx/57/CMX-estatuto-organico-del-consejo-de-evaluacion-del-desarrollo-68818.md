@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-consejo-de-evaluacion-del-desarrollo-6881
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-06-15"
-last_updated: "2018-06-07"
+last_updated: "2018-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68818&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,33 +20,43 @@ issue_date: "2009-06-08"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO DE EVALUACION DEL DESARROLLO SOCIAL DEL DISTRITO FEDERAL
 
-ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DEL DISTRITO FEDERAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL CUAL SE DAN A CONOCER LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. 17 DE SEPTIEMBRE DE 2018, TODAS LAS MENCIONES REALIZADAS COMO CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DEL DISTRITO FEDERAL, SE ENTENDERÁN REALIZADAS AL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DE LA CIUDAD DE MÉXICO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JUNIO DE 2018.
+ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DE LA CIUDAD DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE SEPTIEMBRE DE 2018.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 15 de junio de 2009.
 
 Con fundamento en los artículos 70 fracción VIII de la Ley Orgánica de la Administración Pública del Distrito Federal y 42 F de la Ley de Desarrollo Social para el Distrito Federal, la Junta de Gobierno del Consejo de Evaluación del Desarrollo Social del Distrito Federal, en la II Sesión Extraordinaria celebrada el 13 de Mayo de 2009, aprobó el siguiente:
 
-ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DEL DISTRITO FEDERAL
+> <small>(REFORMADO NOMBRE DE LA ENTIDAD FEDERATIVA POR TRANSITORIO TERCERO DEL AVISO PUBLICADO, G.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO NOMBRE DE LA ENTIDAD FEDERATIVA POR TRANSITORIO TERCERO DEL AVISO PUBLICADO, G.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 1.
 
-El Consejo de Evaluación del Desarrollo Social del Distrito Federal es un organismo público descentralizado de la Administración Pública, con personalidad jurídica y patrimonio propio, que goza de autonomía técnica, de gestión y presupuestaria, sectorizado a la Secretaría de Desarrollo Social del Distrito Federal, de conformidad con lo establecido en el artículo 42 B de la Ley de Desarrollo Social para el Distrito Federal.
+El Consejo de Evaluación del Desarrollo Social de la Ciudad de México es un organismo público descentralizado de la Administración Pública, con personalidad jurídica y patrimonio propio, que goza de autonomía técnica, de gestión y presupuestaria, sectorizado a la Secretaría de Desarrollo Social del Distrito Federal, de conformidad con lo establecido en el artículo 42 B de la Ley de Desarrollo Social para el Distrito Federal.
+
+> <small>(REFORMADO NOMBRE DE LA ENTIDAD FEDERATIVA POR TRANSITORIO TERCERO DEL AVISO PUBLICADO, G.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-El Consejo de Evaluación del Desarrollo Social del Distrito Federal tiene por objeto la evaluación externa de los programas y la política social de la Administración Pública, así como la medición de la pobreza y la desigualdad, la clasificación de las unidades territoriales del Distrito Federal por su grado de desarrollo social, la emisión de informes sobre el estado de la cuestión social y cualquier opinión consultiva que sobre el tema se le requiera.
+El Consejo de Evaluación del Desarrollo Social de la Ciudad de México tiene por objeto la evaluación externa de los programas y la política social de la Administración Pública, así como la medición de la pobreza y la desigualdad, la clasificación de las unidades territoriales del Distrito Federal por su grado de desarrollo social, la emisión de informes sobre el estado de la cuestión social y cualquier opinión consultiva que sobre el tema se le requiera.
 
 ###### Artículo 3.
 
 Para el estudio, planeación y despacho de los asuntos que le competen, el Consejo contará con un Comité de Evaluación y Recomendaciones, una Junta de Gobierno, una Dirección General y su estructura administrativa.
 
+> <small>(REFORMADO NOMBRE DE LA ENTIDAD FEDERATIVA POR TRANSITORIO TERCERO DEL AVISO PUBLICADO, G.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 4.
 
-El presente ordenamiento tiene por objeto regular las facultades, estructura, funcionamiento y operación del Consejo de Evaluación del Desarrollo Social del Distrito Federal.
+El presente ordenamiento tiene por objeto regular las facultades, estructura, funcionamiento y operación del Consejo de Evaluación del Desarrollo Social de la Ciudad de México.
 
 ###### Artículo 5.
 
@@ -68,17 +78,25 @@ I. Administración Pública: La Administración Pública del Distrito Federal;
 
 II. Comisión Interinstitucional: La Comisión Interinstitucional de Desarrollo Social del Distrito Federal;
 
-III. Comité: El Comité de Evaluación y Recomendaciones del Consejo de Evaluación del Desarrollo Social del Distrito Federal;
+> <small>(REFORMADO NOMBRE DE LA ENTIDAD FEDERATIVA POR TRANSITORIO TERCERO DEL AVISO PUBLICADO, G.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+III. Comité: El Comité de Evaluación y Recomendaciones del Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
 
 IV. Consejeros y Consejeras: Las seis personas integrantes ciudadanas del Comité electas por la Comisión Interinstitucional y designadas por el Jefe de Gobierno;
 
 V. Contraloría General: La Contraloría General del Distrito Federal;
 
-VI. Consejo de Evaluación: El Consejo de Evaluación del Desarrollo Social del Distrito Federal;
+> <small>(REFORMADO NOMBRE DE LA ENTIDAD FEDERATIVA POR TRANSITORIO TERCERO DEL AVISO PUBLICADO, G.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Dirección General: La Dirección General del Consejo de Evaluación del Desarrollo Social del Distrito Federal;
+VI. Consejo de Evaluación: El Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
 
-VIII. Estatuto: El presente Estatuto Orgánico del Consejo de Evaluación del Desarrollo Social del Distrito Federal;
+> <small>(REFORMADO NOMBRE DE LA ENTIDAD FEDERATIVA POR TRANSITORIO TERCERO DEL AVISO PUBLICADO, G.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Dirección General: La Dirección General del Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
+
+> <small>(REFORMADO NOMBRE DE LA ENTIDAD FEDERATIVA POR TRANSITORIO TERCERO DEL AVISO PUBLICADO, G.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Estatuto: El presente Estatuto Orgánico del Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
 
 IX. Estatuto de Gobierno: El Estatuto de Gobierno del Distrito Federal;
 
@@ -86,13 +104,17 @@ X. Gaceta Oficial: La Gaceta Oficial del Distrito Federal;
 
 XI. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
 
-XII. Junta: La Junta de Gobierno del Consejo de Evaluación del Desarrollo Social del Distrito Federal;
+> <small>(REFORMADO NOMBRE DE LA ENTIDAD FEDERATIVA POR TRANSITORIO TERCERO DEL AVISO PUBLICADO, G.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Junta: La Junta de Gobierno del Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
 
 XIII. Ley: La Ley Orgánica de la Administración Pública del Distrito Federal;
 
 XIV. Ley de Desarrollo: La Ley de Desarrollo Social para el Distrito Federal;
 
-XV. Programa de trabajo: El programa anual de trabajo del Consejo de Evaluación del Desarrollo Social del DF;
+> <small>(REFORMADO NOMBRE DE LA ENTIDAD FEDERATIVA POR TRANSITORIO TERCERO DEL AVISO PUBLICADO, G.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Programa de trabajo: El programa anual de trabajo del Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
 
 XVI. Reglamento: El Reglamento Interior de la Administración Pública del Distrito Federal;
 
@@ -232,19 +254,23 @@ El compromiso de los Consejeros y Consejeras será armonizar sus responsabilidad
 
 El Gobierno del Distrito Federal proporcionará las facilidades humanas, materiales y tecnológicas necesarias para que las y los Consejeros ejerzan sus atribuciones.
 
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 17.
 
-La designación de los Consejeros y Consejeras la realizará el Jefe de Gobierno conforme a la propuesta que le envíe la Comisión Interinstitucional, previo proceso de selección que mediante convocatoria pública se realice.
+La designación de los Consejeros y Consejeras la realizará el Jefe de Gobierno conforme a lo siguiente:
 
 Los Consejeros y Consejeras no podrán desempeñar durante el periodo para el cual fueron designados ni haber desempeñado cargo de dirección nacional o estatal en partido político alguno durante los cinco años anteriores a su designación; tampoco deben haber sido registrados como candidatos a cargo alguno de elección popular o haberlo ocupado en los cinco años anteriores a la designación; y no pueden desempeñar ni haber desempeñado el cargo de Procurador General de Justicia o de la República, Secretario, Subsecretario, Oficial Mayor, Contralor, Consejero Jurídico, Jefe Delegacional o cualquier otro de dirección en la Administración Pública Local o Federal, a menos que se separe de su encargo con cinco años de anticipación al día de su nombramiento. Se entenderá por cargos de dirección los correspondientes al nivel de dirección general y superiores o cualquier otro similar.
 
-La duración del encargo de las Consejeras y los Consejeros será de cuatro años, pudiendo ser ratificadas por única ocasión para un período igual, a propuesta de la Comisión Interinstitucional y de acuerdo a lo establecido por el artículo 42 H de la Ley de Desarrollo.
+La duración del encargo de las Consejeras y los Consejeros será de cuatro años, pudiendo ser ratificadas por única ocasión hasta por cuatro años.
 
-Seis meses antes de que termine su encargo, la persona Consejera interesada en ser ratificada presentará a la Dirección General un escrito en el que solicite y fundamente su interés por ser ratificado, mismo que será remitido a la Secretaría para que ésta haga las gestiones necesarias para que la Comisión Interinstitucional se reúna, analice y resuelva.
+Seis meses antes de que termine su encargo, la persona consejera interesada en ser ratificada presentará a la Dirección General del Consejo de Evaluación del Desarrollo Social de la Ciudad de México un escrito en el que solicite y fundamente su interés por ser ratificado, mismo que será remitido a la Secretaría de Desarrollo Social, para la designación y/o ratificación por parte del Jefe de Gobierno en su calidad de Presidente de la Comisión lnterinstitucional aún y cuando no sesione ésta. Este nombramiento estará vigente en tanto se actualice el supuesto contenido en el artículo DÉCIMO OCTAVO TRANSITORIO de la Constitución Política de la Ciudad de México.
 
-El procedimiento de ratificación de las Consejeras y los Consejeros se regulará en los términos que establezca el Reglamento de la Ley de Desarrollo.
+Las personas consejeras que presenten en tiempo y forma la solicitud para ser ratificada, así como para los casos de las personas consejeras que hayan presentado en tiempo y forma su solicitud tratándose del periodo inmediato anterior, y que en ambos supuestos por cualquier causa no hayan sido ratificadas continuarán ejerciéndolo hasta que se actualice el supuesto contenido en el artículo DECIMO OCTAVO TRANSITORIO de la Constitución Política de la Ciudad de México.
 
-Para cubrir las vacantes de Consejeros y Consejeras que no hayan sido ratificados, la Comisión Interinstitucional emitirá nueva convocatoria pública señalando el número de Consejeros o Consejeras que serán renovados, los requisitos y el procedimiento de la selección que la llevará a proponer a los nuevos integrantes del Comité.
+Las vacantes que se presenten por conclusión del periodo de consejeros y consejeras ciudadanos que no soliciten prórroga de su encargo, serán nombrados por el Presidente de la Comisión Interinstitucional, previa ponderación de sus antecedentes civiles, académicos y administrativos. Estos nombramientos estarán vigentes en tanto se actualice el supuesto contenido en el artículo DÉCIMO OCTAVO TRANSITORIO de la Constitución Política de la Ciudad de México.
+
+El procedimiento de ratificación de las Consejeras y Consejeros se regulará en los términos que establezca el Reglamento de la Ley de Desarrollo.
 
 ###### Artículo 18.
 
@@ -703,3 +729,13 @@ G.O. 7 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “AVISO POR EL CUAL SE DAN A CONOCER LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DEL DISTRITO FEDERAL”.]
 
 Único.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DAN A CONOCER LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México para su difusión.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Todas las menciones realizadas como Consejo de Evaluación del Desarrollo Social del Distrito Fed0eral (sic), se entenderán realizadas al Consejo de Evaluación del Desarrollo Social de la Ciudad de México.
