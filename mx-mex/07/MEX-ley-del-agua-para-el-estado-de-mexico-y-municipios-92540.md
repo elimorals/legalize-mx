@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2017-09-29"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -212,6 +210,14 @@ XXXIV Bis. Distribución de agua a través de pipas: Entrega de agua potable o t
 XXXV. Drenaje: Sistema de obras hidráulicas para la descarga y alejamiento de las aguas residuales y pluviales;
 
 XXXVI. Estado: Estado de México;
+
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVI Bis. Evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales: Al análisis efectuado por la Comisión para la prestación de los servicios de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales;
+
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVI Ter. Evaluación técnica de factibilidad de distribución de agua: Al análisis efectuado por la Comisión para la distribución de agua potable y tratada a través de pipas;
 
 XXXVII. Explotación: Aplicación del agua en actividades encaminadas a extraer elementos químicos u orgánicos disueltos en la misma, después de lo cual es retornada a su fuente original sin consumo significativo;
 
@@ -597,7 +603,9 @@ VI. Asesorar a las comunidades y a los municipios que lo soliciten, en las gesti
 
 VII. Asesorar, auxiliar y proporcionar asistencia técnica a los municipios y a los organismos operadores que lo soliciten;
 
-VIII. Dictaminar la congruencia de las factibilidades de servicios para los nuevos desarrollos urbanos, industriales y de servicios, que otorguen los municipios sobre los proyectos de dotación de los servicios;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Emitir la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, respecto de las factibilidades para los nuevos desarrollos urbanos, industriales y de servicios, que otorguen los municipios sobre los proyectos de dotación de los servicios. Cuando tales evaluaciones técnicas se relacionen con las autorizaciones a que se refiere el Libro Quinto del Código Administrativo del Estado de México, las mismas se emitirán a través de los medios que considere pertinentes, incluyendo las plataformas tecnológicas;
 
 IX. Verificar que los desarrollos a que se refiere la fracción anterior se ubiquen en predios con vocación no inundable, debiendo emitir opinión negativa, en su caso, o condicionada a que se realicen las obras necesarias para evitar la inundación;
 
@@ -653,9 +661,9 @@ XXX. Implementar, operar y mantener la red estatal de estaciones meteorológicas
 
 XXXI. Coadyuvar con los organismos operadores del agua al cumplimiento del marco regulatorio y de los títulos de concesión que al efecto se otorguen para la prestación de los servicios;
 
-> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XXXI Bis. Verificar el debido cumplimiento del Permiso de Distribución y del Dictamen de Factibilidad para la Distribución de Agua, mediante visitas de verificación, así como la aplicación de medidas de seguridad e imposición de sanciones en términos de esta Ley;
+XXXI Bis. Verificar, en coordinación con el Instituto de Verificación Administrativa del Estado de México, el cumplimiento de las condiciones con base en las cuales se haya otorgado la evaluación técnica de factibilidad para la distribución de agua y el Permiso de Distribución, mediante visitas de verificación, así como la aplicación de medidas de seguridad e imposición de sanciones en términos de esta Ley y demás disposiciones jurídicas aplicables;
 
 XXXII. Emitir su reglamento Interior; y
 
@@ -723,9 +731,9 @@ VII. Aprobar el Reglamento Interior de la Comisión; y
 
 VIII. Nombrar a los responsables de supervisar y ejecutar las acciones de desinfección del agua suministrada en bloque u objeto de conducción;
 
-> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Emitir el Dictamen de Factibilidad para la Distribución de Agua, con base en lo dispuesto por el Reglamento;
+IX. Emitir la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, con base en lo dispuesto por el Reglamento;
 
 > <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -957,11 +965,11 @@ Cuando un municipio no tenga capacidad para prestar los servicios, podrá, previ
 
 Los prestadores de los servicios deberán nombrar a los responsables de supervisar y ejecutar las acciones de desinfección del agua potable de las fuentes de abastecimiento de su competencia territorial.
 
-> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 34 Ter.
 
-La Comisión para la Protección contra Riesgos Sanitarios del Estado de México, realizará la vigilancia sanitaria periódica a las pipas para verificar las condiciones de potabilidad del agua, a fin de que reúna los requisitos para uso o consumo humano y que no represente riesgos para la salud. En caso de que no se permita la verificación sanitaria, de que el agua no reúna los requerimientos para uso o consumo humano o que represente riesgos para la salud, se dará de inmediato vista a la autoridad correspondiente para que aplique las sanciones previstas en el presente ordenamiento.
+La Comisión para la Protección contra Riesgos Sanitarios del Estado de México, en coordinación con el Instituto de Verificación Administrativa del Estado de México, realizará la vigilancia sanitaria periódica a las pipas para verificar las condiciones de potabilidad del agua, a fin de que reúna los requisitos para uso o consumo humano y que no represente riesgos para la salud. En caso de que no se permita la verificación sanitaria, de que el agua no reúna los requerimientos para uso o consumo humano o que represente riesgos para la salud, se dará de inmediato vista a la autoridad correspondiente para que aplique las sanciones previstas en el presente ordenamiento.
 
 ###### Artículo 35.
 
@@ -1431,9 +1439,11 @@ II. Se requiera hacer alguna reparación o dar mantenimiento a la infraestructur
 
 III. Exista solicitud justificada del usuario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 76.
 
-El municipio o, en su caso, el organismo operador determinará la factibilidad de otorgamiento del servicio de agua potable a nuevos fraccionamientos, conjuntos habitacionales, comerciales, industriales, mixtos o de otro uso, así como en los casos de ampliación o modificación del uso o destino de inmuebles, previo la satisfacción de los requisitos que para ello señala el Reglamento de esta Ley, y considerando la infraestructura hidráulica para su prestación y la disponibilidad del agua. La Comisión emitirá el dictamen de congruencia respectivo, que incluirá la determinación de si el predio tiene vocación inundable.
+El municipio o, en su caso, el organismo operador determinará la factibilidad de otorgamiento del servicio de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales a nuevos fraccionamientos, conjuntos habitacionales, comerciales, industriales, mixtos o de otro uso, así como en los casos de ampliación o modificación del uso o destino de inmuebles, previo la satisfacción de los requisitos que para ello señala el Reglamento de esta Ley, y considerando la infraestructura hidráulica para su prestación y la disponibilidad del agua. La Comisión emitirá la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, que incluirá la determinación de si el predio tiene vocación inundable.
 
 En el caso de otorgamiento de factibilidad, el municipio o, en su caso, el organismo operador determinará y, en su caso, aprobará, y supervisará, en los términos del Reglamento, las obras necesarias para la prestación del servicio a cargo del desarrollador, mismas que se considerarán para el cálculo del cobro de conexión a la red de distribución correspondiente, o en su caso condicionar la factibilidad al desarrollo de la infraestructura.
 
@@ -2235,9 +2245,11 @@ Los permisos pueden ser revocados, previo el otorgamiento de la garantía de aud
 
 ### CAPÍTULO CUARTO. DE LOS DICTÁMENES
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 150.
 
-La Comisión validará los dictámenes de factibilidad emitidos por los municipios o por los organismos operadores, en los términos del reglamento.
+La Comisión validará los dictámenes de factibilidad emitidos por los municipios o por los organismos operadores, mediante la emisión de la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, en los términos del reglamento.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -2249,7 +2261,9 @@ La Comisión validará los dictámenes de factibilidad emitidos por los municipi
 
 La venta de agua potable o tratada por metro cúbico a pipas para su distribución, que realicen la Comisión, los municipios o los organismos operadores, se llevará a cabo de acuerdo con la disponibilidad del recurso, cuidando en todo momento que no se desatienda el servicio público que tienen a su cargo.
 
-La venta de agua a que se refiere el párrafo anterior se realizará únicamente a quien cuente con Permiso de Distribución y Dictamen de Factibilidad para la Distribución de Agua.
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+La venta de agua a que se refiere el párrafo anterior se realizará únicamente a quien cuente con Permiso de Distribución y la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales.
 
 > <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -2289,7 +2303,9 @@ IV. Exhibir póliza de seguro o fianza que garantice el pago de daños a tercero
 
 V. Cubrir los derechos por el Permiso de Distribución;
 
-VI. Para el Permiso de Distribución municipal se deberá contar con el Dictamen de Factibilidad para la Distribución de Agua;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Para el Permiso de Distribución municipal se deberá contar con la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
 
 VII. Las demás que establezca la normatividad en la materia.
 
@@ -2315,7 +2331,9 @@ La Comisión, los municipios y los organismos operadores, deberán enviar al Reg
 
 El permisionario de distribución tiene las obligaciones siguientes:
 
-I. Presentar el Permiso de Distribución y el Dictamen de Factibilidad para la Distribución de Agua cada vez que le sea requerido por la autoridad correspondiente;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+I. Presentar el Permiso de Distribución y la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales cada vez que le sea requerido por la autoridad correspondiente;
 
 II. Acatar las normas técnicas aplicables al objeto del Permiso de Distribución y, en su caso, sujetarse a las disposiciones generales y normas en materia de tránsito, salubridad, equilibrio ecológico y de protección al ambiente y a la norma oficial mexicana correspondiente;
 
@@ -2325,21 +2343,31 @@ IV. Cobrar las tarifas autorizadas en esta Ley;
 
 V. Adherir en la pipa, en lugar visible para el consumidor, las tarifas autorizadas en esta Ley;
 
-VI. Permitir a la autoridad correspondiente la supervisión, verificación y/o inspección del cumplimiento del objeto del Permiso de Distribución y del Dictamen de Factibilidad para la Distribución de Agua, ya sea en forma directa o mediante terceros autorizados por la autoridad para tal fin y otorgar las facilidades necesarias para tal efecto;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Permitir a la autoridad correspondiente la supervisión, verificación y/o inspección del cumplimiento del objeto del Permiso de Distribución y de la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, ya sea en forma directa o mediante terceros autorizados por la autoridad para tal fin y otorgar las facilidades necesarias para tal efecto;
 
 VII. Resarcir a consumidores y a terceros, los daños que se generen por causas que le fueren imputables, por lo que deberán contratar y mantener vigentes los seguros que garanticen la reparación de los daños y el pago de los perjuicios que se ocasionen;
 
 VIII. Constituir en tiempo y forma las garantías, seguros y fianzas, en los términos establecidos en el Reglamento y el Permiso de Distribución;
 
-IX. Vigilar que el personal a su cargo cumpla con las disposiciones legales en la materia, con las derivadas del Permiso de Distribución y el Dictamen de Factibilidad para la Distribución de Agua, así como con aquellas que emita, en su caso, la autoridad competente;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-X. Proporcionar en todo tiempo a la autoridad otorgante del Permiso de Distribución y del Dictamen de Factibilidad para la Distribución de Agua, los datos, informes y documentos que le sean solicitados, relacionados con el objeto de los mismos;
+IX. Vigilar que el personal a su cargo cumpla con las disposiciones legales en la materia, con las derivadas del Permiso de Distribución y la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, así como con aquellas que emita, en su caso, la autoridad competente;
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+X. Proporcionar en todo tiempo a la autoridad otorgante del Permiso de Distribución y la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, los datos, informes y documentos que le sean solicitados, relacionados con el objeto de los mismos;
 
 XI. Solicitar oportunamente la renovación del Permiso de Distribución que le hubiese sido otorgado, en términos de la presente Ley y su Reglamento;
 
-XII. Atender las instrucciones y recomendaciones que en su caso realice la autoridad otorgante respecto de la materia del Permiso de Distribución y del Dictamen de Factibilidad para la Distribución de Agua;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XIII. Contar con el Permiso de Distribución y Dictamen de Factibilidad para la Distribución de Agua, emitidos por autoridad competente para tal efecto;
+XII. Atender las instrucciones y recomendaciones que en su caso realice la autoridad otorgante respecto de la materia del Permiso de Distribución y de la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Contar con el Permiso de Distribución y la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, emitidos por autoridad competente para tal efecto;
 
 XIV. Suministrar agua potable o tratada al consumidor de conformidad con la normatividad aplicable;
 
@@ -2353,17 +2381,25 @@ XVI. Las demás que le establezcan las disposiciones reglamentarias correspondie
 
 Son causas de revocación de los Permisos de Distribución las siguientes:
 
-I. No cumplir, sin causa justificada con el objeto, obligaciones o condiciones del Permiso de Distribución o del Dictamen de Factibilidad para la Distribución de Agua a través de Pipas, en los términos establecidos en el mismo;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+I. No cumplir, sin causa justificada con el objeto, obligaciones o condiciones del Permiso de Distribución o de la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, en los términos establecidos en el mismo;
 
 II. Cobrar tarifas superiores a las autorizadas;
 
 III. No cubrir las indemnizaciones por daños que se originen con motivo del Permiso de Distribución;
 
-IV. Ceder o transferir el Permiso de Distribución o el Dictamen de Factibilidad para la Distribución de Agua, sin previa autorización de la autoridad otorgante;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-V. Modificar o alterar el Permiso de Distribución o del Dictamen de Factibilidad para la Distribución de Agua;
+IV. Ceder o transferir el Permiso de Distribución o la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, sin previa autorización de la autoridad otorgante;
 
-VI. Prestar servicios distintos a los señalados en el Permiso de Distribución y en el Dictamen de Factibilidad para la Distribución de Agua;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+V. Modificar o alterar el Permiso de Distribución o la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Prestar servicios distintos a los señalados en el Permiso de Distribución y en la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
 
 VII. No proporcionar la información requerida por la autoridad, impedir o dificultar la verificación o inspección de la pipa;
 
@@ -2683,7 +2719,7 @@ SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a
 
 G.G. 13 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL NUEVE DE DICIEMBRE DE 2016".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” EL NUEVE DE DICIEMBRE DE 2016”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -2713,7 +2749,7 @@ Los asuntos que se encuentren en trámite a la entrada en vigor del presente Dec
 
 Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
 
-Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
 
 SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
 
@@ -2758,3 +2794,79 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, serán atendidos, en el ámbito de sus respectivas competencias, por la Comisión Estatal de Factibilidad y el Instituto de Verificación Administrativa del Estado de México, de conformidad con la legislación vigente al momento de su presentación, hasta en tanto se encuentre en operaciones el órgano desconcentrado correspondiente.
+
+Tratándose de las solicitudes pendientes de renovación de Dictamen Único de Factibilidad, los particulares se podrán acoger a los beneficios que otorgan las disposiciones adicionadas y reformadas mediante el presente Decreto, cuando se hace referencia al carácter permanente del referido Dictamen.
+
+Para efectos del párrafo anterior, la Secretaría Técnica de la Comisión Estatal de Factibilidad deberá remitir a la o al Titular de la Dirección General de la Comisión de Factibilidad del Estado de México, en un plazo no mayor a quince días hábiles, contados a partir de que entre en operaciones el órgano desconcentrado correspondiente, los expedientes relacionados con solicitudes de Dictamen Único de Factibilidad que obren en sus archivos.
+
+QUINTO. Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Comisión Estatal de Factibilidad, se entenderá a la Comisión de Factibilidad del Estado de México.
+
+SEXTO. La Legislatura del Estado proveerá los recursos necesarios para la implementación de las disposiciones contenidas en el presente Decreto.
+
+SÉPTIMO. Se abroga la Ley que crea el Instituto de Verificación Administrativa del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 19 de diciembre de 2016.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaria de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaria de Desarrollo Urbano y Metropolitano y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Justicia y Derechos Humanos.
+
+NOVENO. Las y los servidores adscritos a las dependencias del Ejecutivo del Estado que tengan a su cargo funciones de verificación, supervisión o inspección en las materias a que se refiere la Ley que crea el Instituto de Verificación Administrativa del Estado de México, en un plazo no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto, serán credencializados por el Instituto para el desempeño de sus funciones, sin que esto afecte sus derechos laborales, cuya relación laboral continuará a cargo de las dependencias en las que se desempeñen, las que los proveerán de los elementos necesarios, tanto materiales, como financieros, servicios generales, para el ejercicio de sus funciones.
+
+DÉCIMO. Toda referencia a supervisión o inspección contenida en otras disposiciones jurídicas de igual o menor jerarquía en las materias que regula la Ley que crea el Instituto de Verificación Administrativa del Estado de México, se entenderán como verificación.
+
+DÉCIMO PRIMERO. Las dependencias del Ejecutivo del Estado, en el ámbito de su competencia, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO SEGUNDO. Para considerar a los Dictámenes Únicos de Factibilidad emitidos por la Comisión Estatal de Factibilidad como documentos de carácter permanente, los mismos deberán estar sustentados con todas las evaluaciones técnicas que correspondan y no deberán contener en su texto ninguna condicionante.
+
+DÉCIMO TERCERO. Los trámites que se iniciaron ante la Comisión Estatal de Desarrollo Urbano y Vivienda, con la finalidad de obtener la Constancia de Viabilidad para la autorización de conjuntos urbanos y condominios, podrán continuar con el trámite ante la Dirección General de Operación Urbana.
+
+Los particulares deberán contar con la vigencia de los dictámenes, evaluaciones, opiniones, factibilidades y/o cualquier otro documento obtenido de las unidades administrativas participantes de la entonces Comisión Estatal de Desarrollo Urbano y Vivienda, lo anterior, a efecto de salvaguardar los derechos de los particulares que llevaron a cabo sus trámites para la obtención de autorización de conjuntos urbanos y condominios de más de treinta viviendas.
+
+Para efectos de lo anterior, se establece un término de treinta días hábiles a partir de la entrada en vigor del presente Decreto, fenecido dicho plazo sin ninguna manifestación del particular, o bien. sin que se cuente con los dictámenes, evaluaciones, opiniones, factibilidades con vigencia, se tendrá el trámite como total y definitivamente concluido: pudiendo iniciar un nuevo trámite ante la Comisión de Factibilidad del Estado de México.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Dictamen de Factibilidad de Impacto Sanitario se entenderá por evaluación técnica de factibilidad de impacto sanitario;
+
+b) Evaluación Técnica de Impacto Urbano se entenderá por evaluación técnica de factibilidad de impacto urbano;
+
+c) Evaluación técnica de protección civil o evaluación técnica de viabilidad de mediano o alto impacto se entenderá por evaluación técnica de factibilidad de protección civil;
+
+d) Dictamen de Incorporación e Impacto Vial o evaluación técnica de incorporación e impacto vial se entenderá por evaluación técnica de factibilidad de incorporación e impacto vial;
+
+e) Evaluación de impacto ambiental se entenderá por evaluación técnica de factibilidad de impacto ambiental;
+
+f) Dictamen de Factibilidad de Transformación Forestal se entenderá por evaluación técnica de factibilidad de transformación forestal;
+
+g) Evaluación de factibilidad comercial automotriz se entenderá por evaluación técnica de factibilidad comercial automotriz;
+
+h) Dictamen de congruencia de factibilidades o Dictamen de Factibilidad para la Distribución de Agua se entenderá por evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales, así como la evaluación técnica de factibilidad de distribución de agua, según corresponda; y
+
+i) Estudio de Impacto de Movilidad se entenderá por evaluación técnica de factibilidad de impacto de movilidad;
+
+DÉCIMO QUINTO. El Consejo Estatal de Mejora Regulatoria y la Comisión Estatal de Mejora Regulatoria se integrarán e instalarán en un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO SEXTO. Las Dependencias deberán informar a la Comisión Estatal, en un lapso no mayor de treinta días naturales a (sic) entrada en vigor de este Decreto, la actualización de sus Enlaces de Mejora Regulatoria.
+
+DÉCIMO SÉPTIMO. El Ejecutivo Estatal expedirá los reglamentos relacionados con la Ley para la Mejora Regulatoria del Estado de México y sus Municipios, en un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se emitan dichos reglamentos, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+DÉCIMO OCTAVO. En los ordenamientos legales donde se haga referencia al término Estudio de Impacto Regulatorio, se entenderá como Análisis de Impacto Regulatorio.
+
+DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio será expedido por la Comisión, en un plazo de treinta días hábiles contados a partir de la expedición de los lineamientos generales para la implementación del Análisis de Impacto Regulatorio a que hace referencia el tercer párrafo del artículo 66 de la Ley General de Mejora Regulatoria.
+
+VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
+
+VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
