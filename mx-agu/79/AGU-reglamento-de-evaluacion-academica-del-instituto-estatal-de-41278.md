@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-evaluacion-academica-del-instituto-estatal-de-412
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-05"
-last_updated: "2004-10-05"
+last_updated: "2018-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO DE EVALUACION ACADEMICA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA DE AGUASCALIENTES
 
-REGLAMENTO DE EVALUACION ACADEMICA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE EVALUACIÓN ACADÉMICA DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 17 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE EVALUACIÓN ACADÉMICA DEL ESTADO DE AGUASCALIENTES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 5 de octubre de 2004.
 
@@ -782,3 +784,29 @@ A t e n t a m e n t e ,
 Lic. Héctor Alfredo Gómez Barrera,
 
 SECRETARIO EJECUTIVO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE EVALUACIÓN ACADÉMICA DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Queda abrogado y sin efectos el Reglamento de Evaluación Académica del Instituto Estatal de Seguridad Pública de fecha 5 de octubre de 2004. Se derogan todas las disposiciones jurídicas que se opongan a las contenidas al presente Reglamento de Evaluación Académica.
+
+###### ARTÍCULO TERCERO.
+
+Queda abrogado el Título III denominado “De los Docentes y Alumnos” del Reglamento Interior del Instituto Estatal de Seguridad Pública publicado en el Periódico Oficial del Estado el 02 de mayo de 2016, en términos del ARTÍCULO TERCERO TRANSITORIO del Reglamento Interior del Instituto Estatal de Seguridad Pública publicado en el Periódico Oficial del Estado en fecha 09 de julio de 2018.
+
+###### ARTÍCULO CUARTO.
+
+La Junta de Gobierno deberá llevar a cabo las adecuaciones necesarias al Reglamento de Maestría a efecto de (sic) quede armonizada toda la Legislación en la materia en un término no mayor a noventa días contados a partir de la Publicación del Presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Se ordena inscribir el presente Reglamento de Evaluación Académica del Instituto Estatal de Seguridad Pública en el Registro Público del Comercio y del Estado en el libro correspondiente a las Entidades Paraestatales.
