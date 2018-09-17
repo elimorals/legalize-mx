@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-110186
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-10-05"
-last_updated: "2018-02-12"
+last_updated: "2018-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de octubre de 2015.
 
@@ -31,7 +31,9 @@ FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
 C. LICENCIADO ÓSCAR FIDEL GONZÁLEZ MENDÍVIL, en mi carácter de Fiscal General del Estado de Aguascalientes, y en ejercicio de la facultad que me confieren los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos, 59 y 60, de la Constitución Política del Estado de Aguascalientes, y en cumplimiento a lo dispuesto por el artículo cuarto transitorio de la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes, tengo a bien expedir el presente Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes, al tenor de la siguiente:
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por lo antes expuesto y fundado, se emite el siguiente:
 
@@ -389,11 +391,21 @@ VI. Proponer estrategias y acciones de mejoras de la gestión administrativa en 
 
 VII. Representar al Fiscal General y ser enlace en reuniones interinstitucionales en aquellos asuntos que le encomiende;
 
-VIII. Concertar reuniones con los Vice Fiscales, Oficial Mayor, Comisario General de la Policía Ministerial, Directores Generales y Directores, según el asunto a tratar, con el objeto de homologar criterios que se presenten con motivo de la actuación de la Fiscalía.
+> <small>(REFORMADA, P.O 17 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Realizar el estudio técnico de cualquier asunto que le sea encomendado por el Fiscal General.
+VIII. Concertar reuniones con los Vice Fiscales, Oficial Mayor, Comisario General de la Policía Ministerial, Directores Generales y Directores, según el asunto a tratar, con el objeto de homologar criterios que se presenten con motivo de la actuación de la Fiscalía;
 
-X. Las demás que le confiera el Fiscal General.
+> <small>(REFORMADA, P.O 17 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Realizar el estudio técnico de cualquier asunto que le sea encomendado por el Fiscal General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O 17 DE SEPTIEMBRE DE 2018)</small>
+
+X. Apoyar e instrumentar los trabajos de asesoría técnica y diseño de estrategias de litigación a las unidades administrativas, auxiliares y agentes del Ministerio Público de la Fiscalía, en los procedimientos en materia penal, civil y familiar que determine el Fiscal General; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O 17 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Las demás que le confiera el Fiscal General.
 
 ### CAPÍTULO CUARTO. Del Director de Comunicación Social
 
@@ -447,9 +459,9 @@ II. Vigilar y coordinar el desempeño del Director General de Investigación del
 
 III. Auxiliar al Fiscal General en la vigilancia de la constitucionalidad y legalidad de las actuaciones de la Fiscalía;
 
-IV.Supervisar (sic) y vigilar la aplicación de los criterios de oportunidad, la abstención de Investigar, el archivo temporal, la acumulación, la incompetencia, el no ejercicio de la acción penal, y la judicialización con detenido y sin detenido, por parte de los agentes del Ministerio Público;
+IV. Supervisar (sic) y vigilar la aplicación de los criterios de oportunidad, la abstención de Investigar, el archivo temporal, la acumulación, la incompetencia, el no ejercicio de la acción penal, y la judicialización con detenido y sin detenido, por parte de los agentes del Ministerio Público;
 
-V. Revisar, resolver y decidir según el desarrollo de las investigaciones, continuar o no con la persecución del delito, el archivo temporal o definitivo de la investigación, el no ejercicio de la acción penal,o (sic) el sobreseimiento de la causa, en términos de lo establecido por el Código Nacional de Procedimientos Penales;
+V. Revisar, resolver y decidir según el desarrollo de las investigaciones, continuar o no con la persecución del delito, el archivo temporal o definitivo de la investigación, el no ejercicio de la acción penal, o el sobreseimiento de la causa, en términos de lo establecido por el Código Nacional de Procedimientos Penales;
 
 VI. Auxiliar al Fiscal Generalen (sic) el desempeño de las facultades que expresamente le encargue por delegación o por acuerdo;
 
@@ -511,7 +523,7 @@ VII. Solicitar a la autoridad judicial correspondiente las órdenes de aprehensi
 
 VIII. Poner a disposición de la autoridad competente, en su caso y sin demora, a las personas detenidas en caso de flagrante delito o de urgencia, de acuerdo con el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Solicitar,por (sic) medio de sus Fiscales y agentes del Ministerio Público adscritos a su Dirección General, al órgano jurisdiccional competente las órdenes de cateo, medidas de protección, providencias precautorias, medidas cautelares y actos de investigación de control judicial que autorice la ley, siempre que se consideren necesarias para los fines de la investigación;
+IX. Solicitar, por medio de sus Fiscales y agentes del Ministerio Público adscritos a su Dirección General, al órgano jurisdiccional competente las órdenes de cateo, medidas de protección, providencias precautorias, medidas cautelares y actos de investigación de control judicial que autorice la ley, siempre que se consideren necesarias para los fines de la investigación;
 
 X. Atender el estricto cumplimiento al respeto de los derechos humanos del imputado cuando fuere aprehendido, detenido o éste se haya presentado voluntariamente;
 
@@ -735,7 +747,7 @@ XV. Supervisar la formulación de imputaciones, solicitudes de vinculación a pr
 
 XVI. Supervisar y vigilar la aplicación de los criterios de oportunidad, la abstención de investigar, el archivo temporal, la acumulación, la incompetencia, el no ejercicio de la acción penal y la judicialización con detenido y sin detenido, por parte de los Fiscales y agentes del Ministerio Público adscritos a la Dirección General de Atención Especializada;
 
-XVII. Revisar, resolver y decidir según el desarrollo de las investigaciones llevadas a cabo en la Dirección General de Atención Especializada, continuar o no con la persecución del delito, el archivo temporal o definitivo de la investigación, el no ejercicio de la acción penal,o (sic) el sobreseimiento de la causa, en términos de lo establecido por el Código Nacional de Procedimientos Penales;
+XVII. Revisar, resolver y decidir según el desarrollo de las investigaciones llevadas a cabo en la Dirección General de Atención Especializada, continuar o no con la persecución del delito, el archivo temporal o definitivo de la investigación, el no ejercicio de la acción penal, o el sobreseimiento de la causa, en términos de lo establecido por el Código Nacional de Procedimientos Penales;
 
 XVIII. Revisar y supervisar la alimentación de la base de datos sobre la celebración y cumplimiento de acuerdos reparatorios;
 
@@ -925,7 +937,7 @@ VII. Solicitar a la autoridad judicial correspondiente las órdenes de aprehensi
 
 VIII. Poner a disposición de la autoridad competente, en su caso y sin demora, a las personas detenidas en caso de flagrante delito o de urgencia, de acuerdo con el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Solicitar,por (sic) medio de sus Fiscales y agentes del Ministerio Público adscritos a la Dirección General de Atención Especializada, al órgano jurisdiccional competente las órdenes de cateo, medidas de protección, providencias precautorias, medidas cautelares y actos de investigación de control judicial que autorice la Ley, siempre que se consideren necesarias para los fines de la investigación;
+IX. Solicitar, por medio de sus Fiscales y agentes del Ministerio Público adscritos a la Dirección General de Atención Especializada, al órgano jurisdiccional competente las órdenes de cateo, medidas de protección, providencias precautorias, medidas cautelares y actos de investigación de control judicial que autorice la Ley, siempre que se consideren necesarias para los fines de la investigación;
 
 X. Atender el estricto cumplimiento al respeto de los derechos humanos del imputado cuando fuere aprehendido, detenido o éste se haya presentado voluntariamente;
 
@@ -1063,7 +1075,7 @@ XI. Coordinar las acciones en materia de defensa y representación jurídica de 
 
 XII. Auxiliar al Fiscal General en los asuntos que deriven con la Legislatura del Estado, sus comisiones legislativas y los grupos parlamentarios, en lo que hace a los aspectos jurídicos y legislativos;
 
-XIII. Establecer mecanismos de comunicación con el H. Supremo Tribunal de Justicia del Estado de Aguascalientes, Tribunal de lo Contencioso Administrativo,Tribunal (sic) de Arbitraje y demás órganos de carácter jurisdiccional, para el mejoramiento de la procuración y administración de justicia;
+XIII. Establecer mecanismos de comunicación con el H. Supremo Tribunal de Justicia del Estado de Aguascalientes, Tribunal de lo Contencioso Administrativo, Tribunal de Arbitraje y demás órganos de carácter jurisdiccional, para el mejoramiento de la procuración y administración de justicia;
 
 XIV. Coordinar la integración de los procedimientos de separación y de responsabilidad de los servidores públicos de la Fiscalía, en el ámbito de su competencia, de conformidad con lo dispuesto en los ordenamientos legales aplicables y el presente Reglamento;
 
@@ -1127,7 +1139,7 @@ La Dirección de lo Contencioso tiene las facultades y obligaciones siguientes:
 
 I. Representar jurídicamente a la Fiscalía y al Fiscal General en todo tipo de gestiones judiciales y administrativas en materia del orden civil, penal, laboral y administrativo, ante las autoridades administrativas y jurisdiccionales federales y locales, para la defensa de sus intereses y patrimonio;
 
-II. Vigilar la salvaguarda de los intereses y derechos de la Fiscalía en los procedimientos contenciosos en los que sea parte o tenga interés jurídico,y (sic) asegurar que sean atendidos con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
+II. Vigilar la salvaguarda de los intereses y derechos de la Fiscalía en los procedimientos contenciosos en los que sea parte o tenga interés jurídico, y asegurar que sean atendidos con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
 III. Realizar los estudios jurídicos pertinentes para la resolución de los asuntos de su competencia;
 
@@ -1219,7 +1231,7 @@ Son facultades y obligaciones del Directorde (sic) Visitaduría, las siguientes:
 
 I. Diseñar e instrumentar, en coordinación con las unidades administrativas competentes, las políticas institucionales para la rendición de cuentas y disminución de riesgos de corrupción en lo referente a la función ministerial, policial y pericial; y proponer a las unidades administrativas y órganos desconcentrados correspondientes la implementación de las acciones que resulten necesarias para tales efectos; en los mismos términos también diseñará e instrumentará, los indicadores, procedimientos e instrumentos pertinentes para evaluar la actuación de la Institución con la participación ciudadana;
 
-II. Proponer e instrumentar las normas en materia de evaluación técnico-jurídica, inspección, supervisión, investigación, fiscalización y control de la actuación de los agentes del Ministerio Público, de la Policía, Peritos y agentes de Policía Ministerial,y (sic) demás personal de la Fiscalía;
+II. Proponer e instrumentar las normas en materia de evaluación técnico-jurídica, inspección, supervisión, investigación, fiscalización y control de la actuación de los agentes del Ministerio Público, de la Policía, Peritos y agentes de Policía Ministerial, y demás personal de la Fiscalía;
 
 III. Establecer las políticas para la operación del sistema de inspección interna y de supervisión, investigación y control del personal ministerial, policial y pericial, y de los demás servidores públicos de la institución cuando actúen como auxiliares del Ministerio Público de la Federación, para lo cual podrá proponer al Fiscal General los lineamientos de carácter general a que deban sujetarse los titulares de las unidades administrativas y órganos desconcentrados de la Fiscalía;
 
@@ -1247,7 +1259,7 @@ Para su actuación estará conformada por agentes del Ministerio Públicoy (sic)
 
 ###### Artículo 47.
 
-La Direcciónde (sic) Visitaduría ejercerá las atribuciones que la Ley Orgánica,el (sic) presente reglamento y demás normatividad jurídica aplicablele (sic) otorgan, a travésde (sic) la Subdirección de Investigación y de la Subdirección de Responsabilidad Administrativa.
+La Direcciónde (sic) Visitaduría ejercerá las atribuciones que la Ley Orgánica, el presente reglamento y demás normatividad jurídica aplicablele (sic) otorgan, a travésde (sic) la Subdirección de Investigación y de la Subdirección de Responsabilidad Administrativa.
 
 ###### Artículo 48.
 
@@ -1281,11 +1293,11 @@ Los Visitadores, en el ámbito de sus funciones podrán realizar las siguientes 
 
 I. Visita de inspección y fiscalización. La que deriva de una queja y versará exclusivamente sobre la causa generadora de la queja;
 
-II. Visita extraordinaria.La (sic) que se realiza con el objeto de verificar el cumplimiento a instrucciones o recomendacioneshechas (sic) por el Director de Visitaduría, o del personal adscrito a dicha Dirección;
+II. Visita extraordinaria. La que se realiza con el objeto de verificar el cumplimiento a instrucciones o recomendacioneshechas (sic) por el Director de Visitaduría, o del personal adscrito a dicha Dirección;
 
-III. Visita de Control.Derivada (sic) la solicitud del superior jerárquico del servidor público a quien se le practica, la cual versara única y exclusivamente sobre el tema requerido.El (sic) resultado de esta visita le será notificado a quien lo solicitó, así como al servidor público visitado;
+III. Visita de Control. Derivada la solicitud del superior jerárquico del servidor público a quien se le practica, la cual versara única y exclusivamente sobre el tema requerido. El resultado de esta visita le será notificado a quien lo solicitó, así como al servidor público visitado;
 
-IV. Visita ordinaria.Llevada (sic) a cabo de manera periódica y calendarizada, que versa sobre instalaciones, indicios, documentos, equipo, sistemas informáticos, libros de gobierno, actas circunstanciadas, averiguaciones previas, minutarios ydemás (sic) expedientes que se tramiten antequien (sic) se realice la visita. El calendario para la realización de este tipo de visitas será propuesto por el Directorde (sic) Visitaduríay (sic) autorizado por el Fiscal General;
+IV. Visita ordinaria. Llevada a cabo de manera periódica y calendarizada, que versa sobre instalaciones, indicios, documentos, equipo, sistemas informáticos, libros de gobierno, actas circunstanciadas, averiguaciones previas, minutarios ydemás (sic) expedientes que se tramiten antequien (sic) se realice la visita. El calendario para la realización de este tipo de visitas será propuesto por el Directorde (sic) Visitaduríay (sic) autorizado por el Fiscal General;
 
 En el transcurso de las visitas, el Visitador que la practique, podrá requerir le sean presentados todos los expedientes, documentos e información física o digital que se encuentre a cargo del funcionario al que se le practique la visita y éste tendrá la obligación de proporcionarlos, así como expedir las copias simples o certificadas que le sean requeridas.
 
@@ -1445,9 +1457,9 @@ Al frente de la Dirección de Servicios a Víctimas del Delito habrá un Directo
 
 I. Proporcionar a las víctimas del delito, la atención integral de psicológica y trabajo social, así como aplicar las medidas deprotección (sic) cautelares para salvaguardar su seguridad física, psicológica,patrimonial (sic) y familiar, desde que se inicie la carpeta de investigación hastaantes (sic) del desahogo de la audiencia de juicio oral;
 
-II. Disponer las medidas necesarias para que se preste atención médica,psicológica, (sic) ginecológica o cualquiera otra requerida por las víctimas dedelitos (sic) sexuales, con personal del sexo femenino especializado para ello ypara (sic) que las diligencias de los procedimientos relativos, sean llevadas a cabo en áreas privadas, a las que no tenga acceso el público,prohibiéndose (sic) terminantemente la intervención de terceras personas ajenasa (sic) los hechos que se investigan;
+II. Disponer las medidas necesarias para que se preste atención médica, psicológica, ginecológica o cualquiera otra requerida por las víctimas dedelitos (sic) sexuales, con personal del sexo femenino especializado para ello ypara (sic) que las diligencias de los procedimientos relativos, sean llevadas a cabo en áreas privadas, a las que no tenga acceso el público, prohibiéndose terminantemente la intervención de terceras personas ajenasa (sic) los hechos que se investigan;
 
-III. Intervenir, otorgando a los menores e inimputables, en especial a los quesean (sic) víctimas de delitos, la más amplia protección que en derecho proceda,con (sic) el propósito de salvaguardar la situación jurídica más favorable parasus (sic) intereses;
+III. Intervenir, otorgando a los menores e inimputables, en especial a los quesean (sic) víctimas de delitos, la más amplia protección que en derecho proceda, con el propósito de salvaguardar la situación jurídica más favorable parasus (sic) intereses;
 
 IV. Prestar protección legal a las personas en edad senescente, en lostérminos (sic) de la ley de la materia y, en especial, a las personas que hablanuna (sic) lengua indígenay (sic) pertenecen o tienen arraigo en una comunidad ogrupo (sic) étnico reconocido como tal, cuando sean víctimas de delito, con laasistencia (sic) legal que requieran al estar involucrados en alguna carpeta deinvestigación o proceso penal;
 
@@ -1577,7 +1589,7 @@ VI. No estar sujeto a proceso penal;
 
 VII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público; y
 
-VIII.Ser (sic) de notoria buena conducta y no haber sido condenado, mediante sentencia irrevocable, como responsable de un delito doloso.
+VIII. Ser de notoria buena conducta y no haber sido condenado, mediante sentencia irrevocable, como responsable de un delito doloso.
 
 ###### Artículo 69.
 
@@ -1643,7 +1655,7 @@ XXV. Definir, de conformidad con la normatividad aplicable, el catálogo de pues
 
 XXVI. Coordinar la integración del anteproyecto de presupuesto de egresos de la Institución para someterlo a la autorización del Fiscal;
 
-XXVII.Dar (sic) seguimiento al ejercicio del presupuesto de la Fiscalía, así como emitir las bases y los lineamientos para llevar a cabo la contabilidad de la Institución en apego a la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes y demás disposiciones aplicables;
+XXVII. Dar seguimiento al ejercicio del presupuesto de la Fiscalía, así como emitir las bases y los lineamientos para llevar a cabo la contabilidad de la Institución en apego a la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes y demás disposiciones aplicables;
 
 XXVIII. Coordinar la integración y ejecución de los programas de tecnologías de información y de comunicaciones de la Institución, así como autorizar las políticas para la adquisición, aprovechamiento y administración de los bienes y servicios informáticos y de comunicaciones;
 
@@ -2247,7 +2259,7 @@ VII. Diseñar e implementar un esquema de contingencia que garantice el restable
 
 VIII. Elaborar y difundir el control estadístico de las actividades que realice la Fiscalía;
 
-IX.Emitir (sic) opinión técnica al Fiscal, sobre la adquisición o renovación de los equipos de cómputo de la Fiscalía;
+IX. Emitir opinión técnica al Fiscal, sobre la adquisición o renovación de los equipos de cómputo de la Fiscalía;
 
 X. Supervisar los trabajos del personal a su cargo, o de terceros que por la necesidad del servicio se contraten, referente al desarrollo de sistemas de información o aplicación, infraestructura de cómputo, redes de comunicaciones e instalaciones de equipos y sistemas;
 
@@ -2440,3 +2452,9 @@ P.O. 12 DE FEBRERO DE 2018.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
