@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-administrativas-del-estado-de-122654"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-01"
-last_updated: "2018-07-02"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 1 de agosto de 2017.
 
@@ -745,9 +745,17 @@ I. Suspensión del empleo, cargo, comisión o función;
 
 II. Destitución del empleo, cargo, comisión o función;
 
-III. Sanción económica; e
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Inhabilitación temporal para desempeñar empleos, cargos, comisiones o funciones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas.
+III. Sanción económica;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Inhabilitación temporal para desempeñar empleos, cargos, comisiones o funciones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas; e
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+V. Inhabilitación definitiva para desempeñar empleos, cargos, comisiones o funciones en el servicio público, si la falta es reiterada.
 
 (NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -755,7 +763,9 @@ A juicio de la Sala, podrán ser impuestas al infractor una o más de las sancio
 
 La suspensión del empleo, cargo, comisión o función que se imponga podrá ser de treinta a noventa días naturales.
 
-En caso de que se determine la inhabilitación, ésta será de uno hasta diez años si el monto de la afectación de la falta administrativa grave no excede de doscientas veces el valor diario de la Unidad de Medida y Actualización, y de diez a veinte años si el monto excede de dicho límite. Cuando no se cause daños o perjuicios, ni exista beneficio o lucro alguno, se podrán imponer de tres meses a un año de inhabilitación.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+En el caso de que se determine la inhabilitación temporal, ésta será de uno hasta diez años si el monto de la afectación de la falta administrativa grave no excede de doscientas veces el valor diario de la Unidad de Medida y Actualización, y de diez a veinte años si el monto excede de dicho límite. Cuando no se cause daños o perjuicios, ni exista beneficio o lucro alguno, se podrán imponer de tres meses a un año de inhabilitación.
 
 ###### Artículo 65.
 
@@ -789,9 +799,17 @@ I. Tratándose de personas físicas:
 
 a) Sanción económica que podrá alcanzar hasta dos tantos de los beneficios obtenidos o, en caso de no haberlos obtenido, por el equivalente a la cantidad de cien hasta ciento cincuenta mil veces el valor diario de la Unidad de Medida y Actualización;
 
-b) Inhabilitación temporal para participar en adquisiciones, arrendamientos, servicios u obras públicas, según corresponda, por un periodo que no será menor de tres meses ni mayor de ocho años; o
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-c) Indemnización por los daños y perjuicios ocasionados a la Hacienda Pública o al patrimonio de los entes públicos;
+b) Inhabilitación temporal para participar en adquisiciones, arrendamientos, servicios u obras públicas, según corresponda, por un periodo que no será menor de tres meses ni mayor de ocho años;
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+c) Indemnización por los daños y perjuicios ocasionados a la Hacienda Pública o al patrimonio de los entes públicos; o
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+d) Inhabilitación definitiva para participar en adquisiciones, arrendamientos, servicios u obras públicas, si la falta es reiterada; y
 
 II. Tratándose de personas morales:
 
@@ -801,9 +819,17 @@ b) Inhabilitación temporal para participar en adquisiciones, arrendamientos, se
 
 c) La suspensión de actividades, por un periodo que no será menor de tres meses ni mayor de tres años, la cual consistirá en detener, diferir o privar temporalmente a los particulares de sus actividades comerciales, económicas, contractuales o de negocios por estar vinculados a faltas administrativas graves previstas en esta Ley;
 
-d) Disolución de la sociedad respectiva, la cual consistirá en la pérdida de la capacidad legal de una persona moral, para el cumplimiento del fin por el que fue creada por orden jurisdiccional y como consecuencia de la comisión, vinculación, participación y relación con una falta administrativa grave prevista en esta Ley; o
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-e) Indemnización por los daños y perjuicios ocasionados a la Hacienda Pública o al patrimonio de los entes públicos.
+d) Disolución de la sociedad respectiva, la cual consistirá en la pérdida de la capacidad legal de una persona moral, para el cumplimiento del fin por el que fue creada por orden jurisdiccional y como consecuencia de la comisión, vinculación, participación y relación con una falta administrativa grave prevista en esta Ley;
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+e) Indemnización por los daños y perjuicios ocasionados a la Hacienda Pública o al patrimonio de los entes públicos; o
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+f) Inhabilitación definitiva para participar en adquisiciones, arrendamientos, servicios u obras públicas, si la falta es reiterada.
 
 Para la imposición de sanciones a las personas morales deberá observarse además, lo previsto en los Artículos 14 y 15 de esta Ley.
 
@@ -2204,3 +2230,11 @@ P.O. 2 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 344.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 82, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 82 A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
