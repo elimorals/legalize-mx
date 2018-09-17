@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-75705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-16"
-last_updated: "2017-04-03"
+last_updated: "2018-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-06-29"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE SEPTIEMBRE DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2010.
 
@@ -132,6 +132,10 @@ a) De Valuación y Desarrollo Financiero;
 b) De Desarrollo y Evaluación del Proceso Operativo;
 
 c) De Información y Desarrollo Estadístico;
+
+> <small>(ADICIONADO, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+c) Bis De Instituciones de Tecnología Financiera y del Proceso Operativo;
 
 d) De Análisis de Servicios y Productos Financieros;
 
@@ -621,17 +625,61 @@ XXXIX. Dar mantenimiento y soporte técnico a las instalaciones de cómputo, tel
 
 XL. Apoyar y asistir técnicamente la instalación y servicio de los sistemas automatizados desarrollados en la Comisión Nacional;
 
-> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XLI. Establecer, supervisar y evaluar el cumplimiento de las normas y políticas de seguridad para el uso y salvaguarda de los equipos e instalaciones de cómputo, telecomunicaciones, telefonía y bancos de datos de la Comisión Nacional, así como supervisar y evaluar las acciones preventivas y correctivas en la materia, y
+XLI. Establecer, supervisar y evaluar el cumplimiento de las normas y políticas de seguridad para el uso y salvaguarda de los equipos e instalaciones de cómputo, telecomunicaciones, telefonía y bancos de datos de la Comisión Nacional, así como supervisar y evaluar las acciones preventivas y correctivas en la materia;
 
-> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XLII. Administrar los sitios electrónicos de la Comisión Nacional, dentro de la red mundial de información (Intranet/Internet), en coordinación con las unidades administrativas responsables de los contenidos.
+XLII. Administrar los sitios electrónicos de la Comisión Nacional, dentro de la red mundial de información (Intranet/Internet), en coordinación con las unidades administrativas responsables de los contenidos;
 
-> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Valuación y Desarrollo Financiero, las contenidas en las fracciones I a XIV Bis y XXXI a XXXIV; el de Información y Desarrollo Estadístico, las contenidas en las fracciones I a IV y XV a XX, y el de Desarrollo y Evaluación del Proceso Operativo, las contenidas en las fracciones I a IV y XXI a XXXV.
+XLIII. Emitir autorizaciones, previa opinión de la Dirección General de Servicios Legales, respecto del uso de Modelos Novedosos en productos financieros relacionados con las operaciones de las Sociedades Financieras de Objeto Múltiple Entidades No Reguladas, que lo soliciten;
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XLIV. Establecer los programas de transparencia financiera y calidad de la información respecto al análisis, evaluación y dictaminación de contratos de adhesión, publicidad, estados de cuenta y comprobantes de operación de las Instituciones de Tecnología Financiera;
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XLV. Solicitar a las Instituciones de Tecnología Financiera y a las autoridades correspondientes, la información necesaria para el ejercicio de la facultad de vigilancia y las demás atribuciones conferidas a esta Dirección General por el presente Estatuto;
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XLVI. Actuar como consultor en materia de productos y servicios financieros y elaborar estudios relacionados con dichas materias respecto a las Instituciones de Tecnología Financiera. Asimismo, emitir las opiniones técnicas financieras, respecto a los productos y servicios que otorguen las Instituciones de Tecnología Financiera, para resolver las consultas de los Usuarios;
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XLVII. Revisar y, en su caso, ordenar la modificación de los modelos de contratos de adhesión de las Instituciones de Tecnología Financiera;
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XLVIII. Ordenar la suspensión del uso de los modelos de contratos de adhesión utilizados por las Instituciones de Tecnología Financiera, hasta en tanto sean modificados;
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XLIX. Revisar y, en su caso, ordenar modificaciones a los estados de cuenta, comprobantes de operación y documentos que utilizan las Instituciones de Tecnología Financiera para informar a los Usuarios sobre el estado que guardan las operaciones relacionadas con el servicio que éstos hayan contratado con aquéllas, en los términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+L. Requerir, revisar y, en su caso, autorizar a las Instituciones de Tecnología Financiera la información que dirijan a los Usuarios, relativa a las características de sus operaciones;
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+LI. Analizar y, en su caso, ordenar la suspensión de la publicidad y de la información que induzca a error dirigida a los Usuarios sobre los servicios y productos financieros que ofrezcan las Instituciones de Tecnología Financiera, así como aquella que no cumpla con las disposiciones de carácter general que la Comisión Nacional emita para tal efecto;
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+LII. Solicitar a las autoridades competentes en materia de radio, televisión y otros medios de prensa, la suspensión de la difusión de publicidad, en términos de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+LIII. Solicitar a la Comisión Nacional Bancaria y de Valores, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección ordinarias y especiales a las Instituciones de Tecnología Financiera, así como el resultado que se obtenga con motivo de dichas visitas.
+
+> <small>(REFORMADO, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Valuación y Desarrollo Financiero, las contenidas en las fracciones I a XIV Bis y XXXI a XXXIV; el de Información y Desarrollo Estadístico, las contenidas en las fracciones I a V y XV a XX; el de Desarrollo y Evaluación del Proceso Operativo, las contenidas en las fracciones I a V y XXI a XXXV, y el de Instituciones de Tecnología Financiera y del Proceso Operativo, las contenidas en las fracciones I a V, XXXIII, XXXIV y XLIII a LIII.
 
 > <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
@@ -1269,9 +1317,9 @@ XVI. Emitir el acuerdo de abstención de sanción a las Instituciones Financiera
 
 XVII. Fungir como secretario del Comité de Abstención de Sanciones;
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XVIII. Turnar a la Dirección General de Planeación y Organización, en un plazo no mayor a treinta días hábiles, contado a partir de la fecha en que haya quedado firme, la información relativa a las multas impuestas por la Comisión Nacional, para los efectos del artículo 23, fracción XIII, del presente Estatuto Orgánico;
+XVIII. Turnar a la Dirección General de Planeación y Organización, en un plazo no mayor a ciento ochenta días hábiles contado a partir de que se haya notificado la sanción, la información relativa a las multas impuestas por la Comisión Nacional, para los efectos del artículo 23, fracción XIII, del presente Estatuto Orgánico;
 
 XIX. Ordenar, previa solicitud de la Dirección General de Evaluación y Vigilancia, la suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
 
@@ -2150,3 +2198,9 @@ D.O.F. 3 DE ABRIL DE 2017.
 PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las actuaciones que hayan sido iniciadas por unidades administrativas distintas a las competentes, de acuerdo a las presentes reformas, adiciones y derogaciones serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
+
+D.O.F. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS Y ADICIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS".]
+
+ÚNICO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
