@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2018-07-30"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE DICIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2621,7 +2619,7 @@ I. Departamento de Acuerdos.
 
 II. Departamento de Proyectos de Resolución.
 
-C) (SIC) DIRECCIÓN INTERNA DE CONTROL
+C) DIRECCIÓN INTERNA DE CONTROL
 
 I. Departamento de Rendición de Cuentas y Normatividad.
 
@@ -2699,19 +2697,9 @@ d). Departamento de Coordinación de la Juventud de Calvillo (COJUCA).
 
 e). Departamento de Coordinación Educativa.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-VIII. Secretaría de Desarrollo Económico, Turismo y Rural:
-
-a). Dirección de Turismo, Cultura y Pueblo Mágico,
-
-1). Departamento de Turismo y Promoción Municipal;
-
-2). Departamento Pueblo Mágico y artesanos;
-
-3). Departamento de Cultura.
-
-b). Dirección de Desarrollo Económico y Rural,
+VIII. Secretaría de Desarrollo Económico y Rural:
 
 1). Unidad Regional Calvillo del Servicio Nacional de Empleo;
 
@@ -2768,6 +2756,18 @@ b) Departamento de Sistema Municipal de Evaluación.
 c) Departamento de Sistema Municipal de Planeación Integral.
 
 d) Departamento de Sistema De Información Estratégica Municipal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Secretaría de Turismo y Cultura:
+
+1). Departamento de Atención al visitante;
+
+2). Departamento de Pueblo Mágico;
+
+3). Departamento de Cultura;
+
+4). Departamento de Proyectos y Promoción de Destino.
 
 ###### Artículo 312.
 
@@ -3675,87 +3675,95 @@ XVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluac
 
 De la Secretaría (sic) Desarrollo Económico, Turismo y Rural.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 335.
 
-Corresponde a la Secretaría de Desarrollo Económico, Turismo y Rural:
+Corresponde a la Secretaría de Desarrollo Económico y Rural:
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+I. Procurar el mejoramiento de las condiciones de vida de la población del municipio, a través del impulso al desarrollo económico, promoviendo la inversión pública y privada en los sectores económicos, primarios, de transformación y servicios;
 
-I. Procurar el mejoramiento de las condiciones de vida de la población del municipio, a través del impulso al desarrollo económico, promoviendo la inversión pública y privada en los sectores económicos, primarios, de transformación y servicios,
+II. Coordinar la operación de la Unidad Regional del Servicio Nacional del Empleo y coadyuvar al cumplimiento de sus programas y metas;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
-
-II. Coordinar la operación de la Unidad Regional del Servicio Nacional del Empleo y coadyuvar al cumplimiento de sus programas y metas:
-
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
-
-III. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al fomento e impulso de las actividades económicas como la industria, el comercio, los servicios, el turismo y las actividades agropecuarias;
-
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+III. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al fomento e impulso de las actividades económicas como la industria, el comercio, los servicios y las actividades agropecuarias realizando los diversos eventos y/o exposiciones;
 
 IV. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos a la conservación de los recursos naturales y las áreas naturales protegidas, así como todos los que apliquen a estas zonas y mejoren las condiciones de vida de su población;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
-
 V. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al desarrollo de capacidades en la población en general así como para el desarrollo de los distintos sectores productivos del municipio;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+VI. Establecer vínculos de cooperación con las dependencias afines a la Secretaría en el ámbito federal y estatal a fin de establecer mecanismos de cooperación y estrategias para cumplir con los objetivos establecidos en (sic) Plan Municipal de Desarrollo;
 
-VI. Desarrollar y coordinar acciones para la promoción de Calvillo como atractivo turístico, mantener y mejorar la afluencia de visitantes a través de la búsqueda de alianzas con operadores turísticos;
+VII. Programar y organizar las sesiones del Consejo Municipal para el Desarrollo Rural Sustentable, así como dar seguimiento a los acuerdos;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+VIII. Establecer vínculos de cooperación con las dependencias afines a la Secretaría en el ámbito federal y estatal a fin de establecer mecanismos de cooperación y estrategias para cumplir con los objetivos establecidos en (sic) Plan Municipal de Desarrollo;
 
-VII. Coadyuvar con las actividades del Comité Calvillo Pueblo Mágico para dar cumplimiento a los lineamientos del Programa Pueblos Mágicos.
+IX. Establecer vínculos de cooperación con las organizaciones y asociaciones de productores de cada uno de los sectores a los que atiende la Secretaría, a fin de coadyuvar al cumplimiento de sus metas y objetivos;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+X. Ejecutar esquemas de apoyo para las micro, pequeñas y medianas empresas derivadas de las políticas públicas establecidas en los Planes Estatal y Nacional de Desarrollo;
 
-VIII. Fomentar la conservación y el desarrollo de las actividades artesanales del municipio reconociendo este conocimiento como un patrimonio de todos los Calvillenses;
+XI. Facilitar la apertura de nuevas empresas a través de la implementación de la Ventanilla Única de Atención Empresarial; y
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+XII. Entregar la información requerida por el IMPLAN;
 
-IX. Programar y organizar las sesiones del Consejo Municipal para el Desarrollo Rural Sustentable, así como dar seguimiento a los acuerdos;
+XIII. Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+XIV. Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED);
 
-X. Establecer vínculos de cooperación con las dependencias afines a la Secretaría en el ámbito federal y estatal a fin de establecer mecanismos de cooperación y estrategias para cumplir con los objetivos establecidos en (sic) Plan Municipal de Desarrollo;
+XV. Las demás que este Código y otras disposiciones legales determinen.
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XI. Establecer vínculos de cooperación con las organizaciones y asociaciones de productores de cada uno de los sectores a los que atiende la Secretaría, a fin de coadyuvar al cumplimiento de sus metas y objetivos;
+#### SECCIÓN DÉCIMA. SECRETARÍA DE TURISMO Y CULTURA
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
-
-XII. Ejecutar esquemas de apoyo para las micro, pequeñas y medianas empresas derivadas de las políticas públicas establecidas en los Planes Estatal y Nacional de Desarrollo;
-
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
-
-XIII. Facilitar la apertura de nuevas empresas a través de la implementación de la Ventanilla Única de Atención Empresarial; y
-
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
-
-XIV. Las demás que este Reglamento y otras disposiciones legales determinen.
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
-
-XV. Entregar la información requerida por el IMPLAN
-
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
-
-XVI. Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
-
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
-
-XVII. Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
-
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE ENERO DE 2015)</small>
-
-#### SECCIÓN DÉCIMA
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 336.
 
-(DEROGADO, P.O. 19 DE ENERO DE 2015)
+Corresponde a la Secretaría de Turismo y Cultura:
+
+I. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al fomento e impulso de las actividades económicas como la industria, el comercio, los servicios, el turismo y las actividades agropecuarias;
+
+II. Desarrollar y coordinar acciones para la promoción de Calvillo como atractivo turístico, mantener y mejorar la afluencia de visitantes a través de la búsqueda de alianzas con operadores turísticos;
+
+III. Coadyuvar con las actividades del Comité Calvillo Pueblo Mágico para dar cumplimiento a los lineamientos del Programa Pueblos Mágicos;
+
+IV. Establecer vínculos de cooperación con las dependencias afines a la Secretaría en el ámbito federal y estatal a fin de establecer mecanismos de cooperación y estrategias para cumplir con los objetivos establecidos en (sic) Plan Municipal de Desarrollo;
+
+V. Crear planes estratégicos de desarrollo turístico efectivo que vigilen el cuidado del patrimonio natural, arquitectónico y sociocultural del municipio;
+
+VI. Atender de manera atenta y ordenada a los turistas que eligen Calvillo para su visita;
+
+VII. Aprovechar plenamente los recursos naturales, artísticos, artesanales e históricos en beneficio de la economía del Municipio y de sus habitantes;
+
+VIII. Fomentar e incentivar y desarrollar actividades educativas y de difusión de los valores históricos y de turismo cultural del Municipio;
+
+IX. Promover e incrementar el número de visitantes al Municipio, ofreciendo una mejor y mayor calidad de los servicios de turismo cultural;
+
+X. Aumentar la captación de los recursos provenientes de la actividad cultural, destinándolos a la conservación, ampliación y mejoramiento de las instalaciones, eventos y fomento de la cultura Calvillense;
+
+XI. Promover regional, nacional e internacionalmente la cultura, el arte y en especial el trabajo artesanal de nuestra gente, a través de los diversos eventos, festivales, exposiciones y demostraciones culturales;
+
+XII. Organizar, supervisar y controlar las ferias tradicionales del Municipio, como son la Fiesta de Mayo y la Feria de la Guayaba, y apoyar a la realización de las fiestas patronales de las diversas comunidades y/o delegaciones del municipio;
+
+XIII. Coadyuvar en la producción ejecutiva de eventos artísticos a nivel estatal, regional, nacional e internacional que impulsen al Municipio, así como llevar a cabo su promoción;
+
+XIV. Fomentar la conservación y el desarrollo de las actividades artesanales del municipio reconociendo este conocimiento como un patrimonio de todos los Calvillenses;
+
+XV. Proponer a la Presidencia Municipal, para su aprobación por el Ayuntamiento los perímetros feriales para la "Feria de la Guayaba" y las diversas fiestas patronales y populares que se realicen en el Municipio;
+
+XVI. Disponer del área a que se refiere la fracción anterior para los efectos de instalación de las negociaciones y de los atractivos en general que corresponden a la feria y fiestas;
+
+XVII. Fijar con autorización del Ayuntamiento las tarifas, gravámenes o exenciones en su caso, que sean de la competencia del Municipio y que deban aplicarse por servicios y otros espectáculos que se relacionen directamente con la feria y las fiestas;
+
+XVIII. Tener bajo su resguardo las instalaciones del Museo Municipal;
+
+XIX. Entregar la información requerida por el IMPLAN:
+
+XX. Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia;
+
+XXI. Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED);
+
+XXII. Las demás que este Código y otras disposiciones legales determinen.
 
 #### SECCIÓN DÉCIMA PRIMERA. De la Secretaría de Desarrollo Integral de la Familia
 
@@ -20957,137 +20965,47 @@ Artículo 2121 L.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
 ###### Artículo 2122.
 
-Los Vocales serán los siguientes:
-
-I.- El Director de la Casa de la Cultura del Municipio;
-
-II.- Un representante de la Cámara de Comercio del Municipio;
-
-III.- Un representante de la Unión Ganadera Local;
-
-IV.- El Coordinador de Educación en el Municipio; y
-
-V.- Los regidores de Desarrollo y Fomento Agropecuario y de Desarrollo y fomento Económico.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2123.
 
-La instalación del Patronato se realizará mediante acto solemne en Sesión de Cabildo, correspondiendo al Presidente Municipal tomar la protesta a sus integrantes.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2124.
 
-Son facultades y obligaciones del Patronato:
-
-I.- Organizar cada año la "Feria de la Guayaba" y ejecutar el programa general de festejos;
-
-II.- Organizar las diversas fiestas patronales y populares del Municipio, en coordinación con los Comités de cada una de ellas;
-
-III.- Aprobar para bien de la feria, los convenios, contratos, pedidos o acuerdos que deban celebrarse con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestación de servicios;
-
-IV.- Coadyuvar con las autoridades civiles, educativas y religiosas, en coordinación con los Comités, en la organización, preparación y desarrollo de las fiestas patronales y populares;
-
-V.- Decidir los asuntos que le plantee el Presidente del Patronato;
-
-VI.- Proponer a la Presidencia Municipal, para su aprobación por el Ayuntamiento los perímetros feriales para la "Feria de la Guayaba" y las diversas fiestas patronales y populares que se realicen en el Municipio;
-
-VII.- Disponer del área a que se refiere la fracción anterior para los efectos de instalación de las negociaciones y de los atractivos en general que corresponden a la feria y fiestas;
-
-VIII.- Fijar las tarifas que deban aplicarse por el uso del suelo, y por la presentación de los distintos espectáculos que corresponden a la feria o fiestas, dando en lo posible preferencia a los habitantes del Municipio;
-
-IX.- Vigilar que las empresas que proporcionen diversión y esparcimiento a la niñez y a las familias ofrezcan sus servicios a precios accesibles a la economía popular, por lo que las tarifas que les fije el Patronato deberán ser consideradas en forma especial;
-
-X.- Fijar las tarifas, gravámenes o exenciones en su caso, que sean de la competencia del Municipio y que deban aplicarse por servicios y otros espectáculos que se relacionen directamente con la feria y las fiestas;
-
-XI.- Recaudar las cantidades que correspondan por los conceptos a que se refieren las fracciones VIII y X de este artículo;
-
-XII.- Celebrar reuniones ordinarias cada mes y extraordinarias cuando exista algún asunto que lo amerite; y
-
-XIII.- Las demás que le sean encomendadas por el Presidente Municipal o por el Ayuntamiento.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2125.
 
-Los acuerdos del Patronato se toman por mayoría de votos de sus integrantes, en caso de empate el Presidente tiene voto de calidad.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2126.
 
-Son facultades y atribuciones del Presidente del Patronato:
-
-I.- Representar legalmente al Patronato;
-
-II.- Celebrar toda clase de actos y contratos inherentes al objeto del Patronato;
-
-III.- Ejercer facultades de administración, pleitos y cobranzas y aquellas que requieran de autorización especial según otras disposiciones legales;
-
-IV.- Formular querellas y otorgar perdón;
-
-V.- Ejercer y desistirse de acciones judiciales, inclusive del juicio de amparo;
-
-VI.- Comprometerse en asuntos de arbitraje y celebrar transacciones;
-
-VII.- Proponer el programa general de festejos para la organización de la "Feria de la Guayaba";
-
-VIII.- Proponer el nombramiento del personal técnico y administrativo necesario, la fijación de sueldos y demás prestaciones conforme al presupuesto del Patronato;
-
-IX.- Convocar a los integrantes del Patronato y de los Comités organizadores de los diferentes festejos, a las sesiones que estime necesarias, en las que el propio Presidente propondrá los temas de debate;
-
-X.- Tomar los acuerdos que sean propios y acordes a la "Feria de la Guayaba" en su organización y preparación para su desarrollo, con los demás miembros del Patronato y coordinadores que sea necesario escuchar en coordinación con el Secretario Técnico;
-
-XI.- Expedir los diversos nombramientos de los miembros del Patronato y de los Comités, firmados en unión del Secretario Técnico; y
-
-XII.- Establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2127.
 
-Corresponde al Secretario Técnico:
-
-I.- Elaborar las propuestas de programas de trabajo de las festividades al Patronato;
-
-II.- Coordinarse con las diferentes áreas de la Administración Pública Municipal, a efecto de aplicar las disposiciones contenidas en este Título y las demás disposiciones legales que competan a cada área en los diversos festejos;
-
-III.- Organizar, dirigir y motivar a los integrantes del Patronato para la obtención de óptimos resultados del plan de trabajo;
-
-IV.- Participar en la planeación y organización de las actividades;
-
-V.- Levantar las actas de las sesiones del Patronato;
-
-VI.- Dar el trámite respectivo a los asuntos correspondientes al funcionamiento del Patronato o de cualquiera de sus colaboradores;
-
-VII.- Suplir al Presidente en sus ausencias temporales; y
-
-VIII.- Las demás que le asigne el Patronato, el Presidente y el presente Título.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2128.
 
-El tesorero del Patronato administrará los ingresos que se recaben por la aplicación de cuotas, derechos y aprovechamientos, donativos y subsidios provenientes del arrendamiento de los espacios que ocupen los diferentes expositores participantes o feriantes o de cualquier institución pública o privada.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2129.
 
-Los vocales tienen las facultades y atribuciones siguientes:
-
-I.- Asistir a las sesiones del Patronato, con derecho de voz y voto;
-
-II.- Ejecutar las medidas necesarias para que se cumplan los acuerdos tomados y desarrollar en sus términos los programas autorizados;
-
-III.- Tomar parte activa en todo lo que se relacione con las festividades de la feria y las fiestas;
-
-IV.- Promover la participación de la institución que representan;
-
-V.- Proponer acciones, obras, programas y en general cualquier cosa que a su juicio sirva para el mejoramiento de las festividades; y
-
-VI.- Las demás que señale este Título o las que indique el Presidente.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2130.
 
-El órgano de vigilancia del Patronato será el Comisario que será el titular de la Contraloría Municipal, el cual evaluará el desempeño general y por funciones del Patronato; realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente, prestaciones e inversión; y en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2131.
 
-Para el cumplimiento de las funciones del Comisario, todos los integrantes del Patronato y los funcionarios o empleados de éste tendrán obligación de proporcionar la información que les solicite.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2132.
 
-El Patronato deberá informar al Ayuntamiento acerca de los resultados de los festejos, dentro de los treinta días posteriores a éstos.
-
-Asimismo, el Patronato deberá rendir un informe semestral al Ayuntamiento de todas las actividades realizadas durante el periodo, en el cual se incluirán los estados financieros.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO III. De los Comités y Comités Patronales
 
@@ -21601,15 +21519,15 @@ Los participantes estarán obligados a cumplir con las determinaciones e instruc
 
 ###### Artículo 2230.
 
-El Patronato de la Feria de la Guayaba, es un Organismo Público Descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio, cuya sede se establecerá en el Palacio Municipal de Calvillo o en el lugar que como domicilio, dentro del territorio municipal determine el Presidente Municipal, pudiendo establecerse oficinas de representación en cualquier otra parte del territorio del Estado, del país y en el extranjero.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2231.
 
-El Patronato de la Feria de la Guayaba, estará integrado por un consejo directivo y un consejo ciudadano, por el Presidente Ejecutivo, por los comisionados de eventos y actividades y por las demás unidades administrativas que se establezcan en su organigrama que aprobará en todo caso el consejo directivo, así como por los Comités de elección de reina de la feria.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2232.
 
-La organización y realización de la Feria de la Guayaba, se llevará a cabo con la intervención del Gobierno Municipal, a través del Ayuntamiento y de la Presidencia Municipal, en el ámbito de su competencia y mediante la actuación del Patronato de la Feria de la Guayaba, que será titular originario del derecho exclusivo para la realización de los eventos, actos y actividades que específicamente se realicen durante la temporada de la Feria, en su perímetro ferial o con motivo de la misma.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2233.
 
@@ -21625,113 +21543,129 @@ Para la realización de la Feria de la Guayaba, la planeación y programación, 
 
 ###### Artículo 2236.
 
-Corresponde al Patronato de la Feria de la Guayaba, la planeación, programación, organización y realización de los actos y actividades de la feria, con la intervención de las instituciones o entidades públicas o de las personas físicas o morales particulares, con las que celebre convenio o contrato para su participación.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2237.
 
-El Presidente Municipal instruirá al Patronato, en Sesión especial de Consejo Directivo, que se celebrará en el mes de enero de cada año, sobre las bases, lineamientos, propósitos y objetivos para la realización de la Feria de la Guayaba del año de calendario correspondiente, instrucciones bajo las que el Presidente Ejecutivo propondrá al Consejo Directivo, el anteproyecto del plan de la Feria, el que una vez analizado y en su caso modificado, se presentará al Ayuntamiento por el Presidente Municipal, al menos cuatro meses antes de su celebración.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2238.
 
-El Patronato de la Feria de la Guayaba, con el fin de cumplir su objeto institucional podrá promover, organizar y participar en la realización de toda clase de congresos, exposiciones, ferias, competencias, espectáculos y demás actos de naturaleza análoga que se celebren en el Municipio o fuera del mismo.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2239.
 
-Para la participación ferial de toda clase de instituciones públicas o entidades gubernativas, se requerirá la celebración del convenio de coordinación respectivo entre el Patronato y la institución o entidad respectiva.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2240.
 
-En todo caso, el Patronato de la Feria de la Guayaba, contendrá en su estructura orgánica con área de administración y finanzas o tesorería.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2241.
 
-El Consejo Directivo del Patronato de la Feria de la Guayaba, estará integrado por el Presidente Municipal, el Regidor comisionado en materia de espectáculos, por el Sindico Municipal y por un Regidor de cada Grupo Edilicio del Ayuntamiento.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2242.
 
-El Consejo Ciudadano estará integrado por cinco consejeros nombrados por el Ayuntamiento, a propuesta del Presidente Municipal de entre las ternas de candidatos que sometan a su consideración las instituciones o agrupaciones correspondientes y durarán en su encargo cinco años.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2243.
 
-Los candidatos a ocupar el cargo de consejero ciudadano del Patronato de la Feria de la Guayaba, serán propuestos al Presidente Municipal, mediante ternas que le presenten, una por la agrupación de productores de guayaba, otra por comerciantes establecidos, otra de la agrupación de prestadores de servicios turísticos, otra elaborada por instituciones educativas de nivel medio y superior de Calvillo y otra por agrupación de agricultores en general y ganaderos del Municipio.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2244.
 
-Para la designación de las ternas, el Presidente Municipal, por conducto de la Secretaría del Ayuntamiento, expedirá la convocatoria que contenga las reglas para la participación de las agrupaciones y para la selección de candidatos por parte de las mismas, así como para el procedimiento en cuanto a plazos y sus demás requisitos formales.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2245.
 
-El Presidente Ejecutivo será designado por el Presidente Municipal y durará en su encargo el tiempo que corresponda al periodo del Ayuntamiento que lo nombró.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2246.
 
-El Presidente Municipal y subsidiariamente el Presidente Ejecutivo, tendrán la legal representación del Patronato de la Feria de la Guayaba, con facultades de mandatario general para actos de administración, de dominio y de pleitos y cobranzas, incluyendo la suscripción, aceptación o endoso de títulos de crédito.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2247.
 
-El Secretario de Gobernación del Municipio, tendrá el carácter de Secretario Técnico del Patronato, integrando con derecho a voz tanto el Consejo Directivo como el Consejo Ciudadano.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2248.
 
-El titular encargado del área de finanzas o Tesorería del Patronato, será designado por el Presidente Municipal, con aprobación del Ayuntamiento y tendrá la facultad de suscribir cheques con cargo a las cuentas bancarias del propio Patronato, siempre que lo haga de manera mancomunada con otro funcionario, cuya firma sea registrada en la institución bancaria por determinación del Presidente Municipal o del Presidente Ejecutivo.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2249.
 
-Para toda resolución del Consejo Directivo se requiere la aprobación previa del Consejo Ciudadano.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2250.
 
-En la estructura orgánica del Patronato de la Feria de la Guayaba, se contemplará inclusión de comisionados para las áreas de promoción, difusión y relaciones públicas, de exposiciones, de eventos artísticos, culturales, educativos y científicos, de eventos deportivos, de espectáculos y los Comités para la elección de reina de la feria.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2251.
 
-Los nombramientos de comisionados y demás personal del Patronato, cuya designación no corresponda al Presidente Municipal o al Ayuntamiento, serán hechos por el Presidente Ejecutivo.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2252.
 
-Los Comités de elección de reina de la feria estarán integrados formalmente por el número de personas que en cada caso determine y designe el Consejo Directivo y actuarán a nombre del Patronato de la Feria de la Guayaba y observarán en todo caso los actos y resoluciones del Consejo Directivo y del Presidente Ejecutivo.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2253.
 
-Los ingresos que obtenga el Patronato por la celebración anual de la Feria de la Guayaba, serán destinados a la satisfacción de sus gastos y erogaciones con motivo de la misma, así como a la conformación fondo de inversiones para el desarrollo de la propia Feria y para la ejecución del programa respectivo que sean aprobados por el Ayuntamiento, y para la realización de programas de desarrollo municipal que determine el mismo Ayuntamiento.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2254.
 
-El Patronato de la Feria de la Guayaba, determinará sus resultados financieros por la realización de cada celebración anual del evento dentro de los treinta días naturales siguientes a su conclusión y presentará dicha cuenta al Ayuntamiento por conducto del Presidente Municipal.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2255.
 
-Para toda contratación de empréstitos, así como para la adquisición o enajenación de inmuebles propiedad del Patronato de la Feria de la Guayaba, se requiere autorización del Ayuntamiento, otorgada por dos terceras partes de sus miembros.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO VII. De la Supervisión, Sanciones y Estímulos
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 2256.
 
-El Patronato designará al personal que verifique y supervise las actividades autorizadas durante el periodo de la feria o fiesta y perímetro correspondiente, en coordinación con la Secretaría del Ayuntamiento; dicho personal para su identificación portará un gafete con su fotografía y vigilará que todas las actividades se desarrollen dentro de los lineamientos establecidos en la reglamentación vigente aplicable a cada actividad o giro comercial.
+La Secretaría de Turismo y Cultura designará al personal que verifique y supervise las actividades autorizadas durante el periodo de la feria o fiesta y perímetro correspondiente, en coordinación con la Secretaría del Ayuntamiento; dicho personal para su identificación portará un gafete con su fotografía y vigilará que todas las actividades se desarrollen dentro de los lineamientos establecidos en la reglamentación vigente aplicable a cada actividad o giro comercial.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2257.
 
-El Patronato, a través del personal designado para la inspección, vigilará que los establecimientos mercantiles y de servicios que operen permanentemente y que durante el desarrollo de la Feria ó fiesta regional, queden comprendidos dentro del perímetro ferial, acaten el horario y cumplan con las actividades que tienen autorizados por el Municipio, o en su caso el que les autorice el Patronato expresamente, previo el pago de los derechos correspondientes.
+La Secretaría de Turismo y Cultura, a través del personal designado para la inspección, vigilará que los establecimientos mercantiles y de servicios que operen permanentemente y que durante el desarrollo de la Feria ó fiesta regional, queden comprendidos dentro del perímetro ferial, acaten el horario y cumplan con las actividades que tienen autorizados por el Municipio, o en su caso el que les autorice la Secretaría de Turismo y Cultura expresamente, previo el pago de los derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2258.
 
-El Patronato a través del personal técnico que designe coordinadamente con protección civil y la Comisión Federal de Electricidad, evaluará la no instalación de equipos riesgosos para la salud e integridad de las personas, así como que los participantes y/o expositores observen el consumo estricto de la energía eléctrica que se les autorice.
+La Secretaría de Turismo y Cultura a través del personal técnico que designe coordinadamente con protección civil y la Comisión Federal de Electricidad, evaluará la no instalación de equipos riesgosos para la salud e integridad de las personas, así como que los participantes y/o expositores observen el consumo estricto de la energía eléctrica que se les autorice.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2259.
 
-Para garantizar la seguridad propia y de toda la exposición, los participantes y/o expositores, no podrán bajo ningún pretexto retirar las instalaciones eléctricas propiedad del Patronato o del Municipio.
+Para garantizar la seguridad propia y de toda la exposición, los participantes y/o expositores, no podrán bajo ningún pretexto retirar las instalaciones eléctricas propiedad del Municipio.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2260.
 
-El Patronato con el apoyo de las instancias municipales, garantizará el orden, la moral y las buenas costumbres, dentro del perímetro de la feria y expulsará o consignará en su caso ante las autoridades correspondientes a quienes atenten contra los mismos.
+La Secretaría de Turismo y Cultura con el apoyo de las instancias municipales, garantizará el orden, la moral y las buenas costumbres, dentro del perímetro de la feria y expulsará o consignará en su caso ante las autoridades correspondientes a quienes atenten contra los mismos.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2261.
 
-La violación de los artículos relativos a la celebración de actos mediante autorización expresa, traerá como consecuencia la suspensión inmediata de los mismos, además de la imposición de una sanción pecuniaria de 40 a 100 días de salario mínimo, que se hará efectiva por conducto de la Tesorería del Patronato.
+La violación de los artículos relativos a la celebración de actos mediante autorización expresa, traerá como consecuencia la suspensión inmediata de los mismos, además de la imposición de una sanción pecuniaria de 40 a 100 días de salario mínimo, que se hará efectiva por conducto de la Tesorería Municipal.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2262.
 
-Las sanciones que deban aplicarse a quienes desempeñan algún cargo en los organismos de la feria y que incurran en responsabilidad, serán determinadas por el acuerdo de los integrantes del Patronato con voz y voto.
+Las sanciones que deban aplicarse a quienes desempeñan algún cargo en los organismos de la feria y que incurran en responsabilidad, serán determinadas por La Secretaría de Turismo y Cultura.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2263.
 
@@ -21741,21 +21675,27 @@ I.- Amonestación en caso de violación al presente Título, por indisciplina, d
 
 II.- Consignación ante las autoridades competentes, en caso de la comisión de un delito.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 2264.
 
-El Ayuntamiento y el Patronato, podrán otorgar menciones honoríficas o diplomas de reconocimiento, a quienes se distingan por su eficacia, honestidad y empeño, en realizar sus funciones.
+El Ayuntamiento y La Secretaría de Turismo y Cultura, podrán otorgar menciones honoríficas o diplomas de reconocimiento, a quienes se distingan por su eficacia, honestidad y empeño, en realizar sus funciones.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2265.
 
-Los integrantes del Patronato y del Comité Organizador, así como los auxiliares respectivos, desde el momento en que acepten y protesten el fiel desempeño de sus cargos, contraen los derechos y obligaciones a que se refiere este Título.
+Los integrantes del Comité Organizador, así como los auxiliares respectivos, desde el momento en que acepten y protesten el fiel desempeño de sus cargos, contraen los derechos y obligaciones a que se refiere este Título.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2266.
 
-El Ayuntamiento y el Patronato, podrán otorgar compensaciones o gratificaciones a los integrantes del Patronato o a personas o instituciones que auxilien en los festejos.
+El Ayuntamiento podrá otorgar compensaciones o gratificaciones a los integrantes de la Secretaría de Turismo y Cultura o a personas o instituciones que auxilien en los festejos, previa solicitud de la Secretaría de Turismo y Cultura.
 
 ###### Artículo 2267.
 
-Una vez realizada la auditoria a la fiesta ó feria, el Ayuntamiento en Pleno dictará las sanciones, estímulos ó medidas que considere pertinentes.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 # LIBRO SÉPTIMO. DE LOS ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS
 
@@ -24536,3 +24476,15 @@ Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del
 Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Cuarto.- Cúmplase.
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL DECRETO DE “REFORMAS AL CÓDIGO MUNICIPAL DE CALVILLO, AGS., EN LOS ARTÍCULOS 311, 335 Y 336”.]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Se ordena realizar los ajustes necesarios al presupuesto de egresos del ejercicio 2018 y 2019 de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Artículo Cuarto.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Quinto.- Cúmplase.
