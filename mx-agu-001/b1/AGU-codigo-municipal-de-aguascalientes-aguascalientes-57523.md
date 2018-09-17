@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-09-03"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS REFORMAS Y MODIFICACIONES A LOS ARTÍCULOS 98 Y 104 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES PUBLICADO EN EL P.O. DE 5 DE FEBRERO DE 2018, LAS REFERENCIAS A LA CONTRALORÍA MUNICIPAL O A SU TITULAR CONTENIDAS EN ESTE CÓDIGO, ASÍ COMO EN OTRAS DISPOSICIONES REGLAMENTARIAS, ADMINISTRATIVAS O CONTRACTUALES, SE ENTENDERÁN HECHAS AL ÓRGANO INTERNO DE CONTROL Y A SU TITULAR, SEGÚN CORRESPONDA.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -27461,11 +27461,11 @@ P.O. 26 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DE LAS "REFORMAS A LOS ARTÍCULOS 12, 21 Y 31 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO PRIMERO.
 
-Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción a la reforma establecida en el Artículo 31, por lo que dicho Informe Anual de Gobierno se deberá rendir a más tardar en el mes de septiembre a partir del año 2018.
+Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de la reforma al artículo 31, la cual entrará en vigor el 1° de enero de 2019.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -27714,6 +27714,12 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DE "REFORMAS A LOS ARTÍCULOS 15, FRAC. XXVIII; 112, FRAC. VIII; Y 638, FRAC. I, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES Y EL REGLAMENTO INTERIOR DE LA COMISIÓN DE PERITOS PARA EL MUNICIPIO DE AGUASCALIENTES".]
 
 ÚNICO.- Las presentes reformas y expedición de Reglamento, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 31 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO: La presente reforma iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO UNICO.
 
