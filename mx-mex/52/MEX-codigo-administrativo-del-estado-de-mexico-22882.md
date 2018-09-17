@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2018-08-02"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -281,81 +281,25 @@ IX. Las demás que se establezcan en las disposiciones aplicables.
 
 La tramitación de esta declaratoria de extinción de los efectos del acto administrativo no otorga derechos al particular, no constituirá recurso alguno y tampoco suspenderá la ejecución del acto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ## TITULO CUARTO. De la Comisión Estatal de Factibilidad
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+###### Artículo 1.
+
+17.- (DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 1.
 
-17.- La Comisión Estatal de Factibilidad es el órgano técnico de coordinación intergubernamental adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, encargada de emitir el Dictamen Único de Factibilidad en materia de salud, desarrollo urbano, protección civil, medio ambiente, desarrollo económico, infraestructura, cuando así lo requieran los requisitos para la apertura y funcionamiento de una unidad económica.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+18.- (DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 1.
 
-18.- La Comisión Estatal de Factibilidad se integrará por:
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-I. Un Presidente, que será la o el Titular de la Secretaría de Desarrollo Urbano.
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-II. Un Secretario Técnico, que será designado por el Secretario de Desarrollo Urbano.
-
-III. Seis Vocales, que serán:
-
-a) La o el Titular de la Coordinación General de Protección Civil.
-
-b) La o el Titular de la Dirección General de Ordenamiento e Impacto Ambiental.
-
-c) La o el Titular de la Dirección General de Vialidad.
-
-d) La o el Titular de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
-
-e) La o el Titular de la Dirección General de Comercio.
-
-f) La o el Titular de la Dirección General de Operación Urbana.
-
-En el supuesto que por las características especiales del proyecto, se considere necesaria la intervención de otras dependencias u organismos estatales o municipales, la o el Presidente los podrá invitar a las sesiones respectivas únicamente con derecho a voz.
-
-Con excepción del Secretario Técnico, los integrantes de la Comisión Estatal de Factibilidad podrán designar a un suplente, con nivel mínimo de director de área.
-
-Los cargos de los integrantes e invitados de la Comisión Estatal de Factibilidad serán honoríficos.
-
-En el desarrollo de las sesiones, los miembros de la Comisión Estatal de Factibilidad tendrán derecho a voz y voto, a excepción del Secretario Técnico, quien solo tendrá derecho a voz.
-
-La Comisión sesionará como lo establezca su Reglamento Interior.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
-###### Artículo 1.
-
-19.- Para el cumplimiento de sus fines, la Comisión Estatal de Factibilidad tendrá las facultades siguientes:
-
-I. Atender y resolver de manera permanente, colegiada e integral, en los tiempos establecidos en la legislación aplicable, las solicitudes de Dictamen Único de Factibilidad, presentadas por las personas físicas o jurídicas colectivas, dictaminando sobre su procedencia o improcedencia.
-
-II. Solicitar la colaboración de las dependencias del Ejecutivo del Estado y de organismos auxiliares de carácter estatal, para comprobar el cumplimiento de los requisitos para la expedición del Dictamen Único de Factibilidad, en los términos, condiciones y requisitos establecidos en la legislación correspondiente.
-
-III. Establecer el formato para la integración de la carpeta del proyecto que contendrá los trámites, requisitos y tiempos de respuesta, para obtener el Dictamen Único de Factibilidad.
-
-IV. Emitir el Dictamen Único de Factibilidad, en caso de ser procedente.
-
-V. Sesionar, en términos del Reglamento Interior que al efecto expida.
-
-VI. Crear y actualizar de manera semanal el registro de las unidades económicas que cuenten con el Dictamen Único de Factibilidad, así como de aquellas que soliciten dicho dictamen o el refrendo de su licencia de funcionamiento.
-
-VII. Solicitar al Instituto de Verificación Administrativa del Estado de México, la realización de las visitas colegiadas multidisciplinarias correspondientes.
-
-VIII. Expedir su Reglamento Interior.
-
-IX. Las demás que le confieran otras disposiciones legales.
+19.- (DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 1.
 
@@ -1309,11 +1253,11 @@ Para dar curso a la acción popular se seguirá el procedimiento establecido en 
 
 ## TITULO DECIMO SEGUNDO. De los servicios gubernamentales por vía electrónica
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 1.43], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 1.
 
-75.- Las dependencias y organismos auxiliares estatales, así como las dependencias y organismos municipales, integrarán las tecnologías de información, en la prestación de los servicios gubernamentales a su cargo, observando las disposiciones que se señalen en la Ley para el Uso de Medios Electrónicos del Estado de México.
+75.- Las dependencias y organismos auxiliares estatales, así como las dependencias y organismos municipales, integrarán las tecnologías de información, medios y plataformas tecnológicas en la prestación de los servicios gubernamentales a su cargo, observando las disposiciones que se señalen en la Ley de Gobierno Digital del Estado de México y Municipios.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 1.44], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
 
@@ -1321,11 +1265,11 @@ Para dar curso a la acción popular se seguirá el procedimiento establecido en 
 
 76.- En la prestación de los servicios gubernamentales por vía electrónica, se tomarán las medidas necesarias para garantizar la autenticación, autenticidad, confidencialidad, seguridad e integridad de la información, de acuerdo con la ley a que se refiere el párrafo anterior.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 1.45], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 1.
 
-77.- Para aquellos servicios gubernamentales que se otorguen por vía electrónica, en los que exista necesidad de identificar electrónicamente tanto al usuario como a la dependencia u organismo prestador del servicio, se atenderá lo dispuesto por la Ley para el Uso de Medios Electrónicos del Estado de México.
+77.- Para aquellos servicios gubernamentales que se otorguen por vía electrónica, en los que exista necesidad de identificar electrónicamente tanto al usuario como a la dependencia u organismo prestador del servicio, se atenderá lo dispuesto por la Ley de Gobierno Digital del Estado de México y Municipios.
 
 (REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO SEGUNDO], G.G. 6 DE SEPTIEMBRE DE 2010)
 
@@ -1443,11 +1387,11 @@ La Secretaría de la Contraloría vigilará que el sistema de consulta se encuen
 
 ### CAPITULO SEGUNDO. De las autoridades
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-3.- Son autoridades en materia de salud la Secretaría de Salud, el Instituto de Salud del Estado de México y los municipios, en su caso. Es autoridad en materia de impacto sanitario el Consejo Rector de Impacto Sanitario.
+3.- Son autoridades en materia de salud la Secretaría de Salud, el Instituto de Salud del Estado de México y los municipios, en su caso. Es autoridad en materia de impacto sanitario la Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
 
 ### CAPITULO TERCERO. De la Secretaría de Salud
 
@@ -2699,11 +2643,11 @@ XIII. Las demás que determine este Libro.
 
 Para efectos de este Título se entiende por control sanitario el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-49 Bis.- Para la prestación del servicio público de rastros se deberá contar con el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad.
+49 Bis.- Para la prestación del servicio público de rastros se deberá contar con el Dictamen Único de Factibilidad, derivado de la evaluación técnica de factibilidad de impacto sanitario, emitida por la Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
@@ -2711,17 +2655,15 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 49 Ter.- Los concesionarios de los rastros deberán contar con la licencia de funcionamiento vigente que autorice sus actividades, misma que se colocará en un lugar visible.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
 ###### Artículo 2.
 
-49 Quáter.- El Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, es un requisito obligatorio para que los ayuntamientos refrenden las licencias de funcionamiento de los rastros.
+49 Quáter.- (DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 2.
 
 49 Quinquies.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 #### SECCION SEGUNDA. De las medidas de seguridad sanitaria
 
@@ -2853,21 +2795,27 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
-49 Sexies.- Se negará el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, cuando se incumpla con cualquiera de los requisitos establecidos en el Reglamento Interior de la Comisión Estatal de Factibilidad, o cuando en su tramitación se lleven a cabo actividades ilícitas imputables al titular del dictamen o a su representante.
+49 Sexies.- Se negará el Dictamen Único de Factibilidad cuando se incumpla cualquiera de los requisitos establecidos en la Ley que crea la Comisión de Factibilidad del Estado de México y su Reglamento o cuando en su tramitación se lleven a cabo actividades ilícitas imputables al titular del dictamen o a su representante.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-49 Septies.- Para efectos del presente Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+49 Septies.- Para efectos del presente Capítulo, la Comisión para la Protección contra Riesgos Sanitarios del Estado de México tendrá las funciones siguientes:
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-I. Emitir la Evaluación Técnica de Factibilidad de Impacto Sanitario, al seno de la Comisión Estatal de Factibilidad, para el funcionamiento de rastros.
+I. Emitir la Evaluación Técnica de Factibilidad de Impacto Sanitario, para el funcionamiento de rastros y de establecimientos de unidades económicas con venta de bebidas alcohólicas en envase abierto y/o al copeo para su consumo inmediato;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2015)</small>
 
 II. Elaborar el diagnóstico de la situación que prevalece en materia de rastros y su impacto sanitario en la comunidad, debiéndose allegar para ello de la información correspondiente.
 
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2015)</small>
+
 III. Proponer programas y acciones tendientes a combatir el maltrato y sufrimiento animal en colaboración con las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal, y de los sectores social y privado.
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2015)</small>
 
 IV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
@@ -2961,11 +2909,11 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 
 60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, la "COPRISEM" podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
 
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-61. Todo cambio de propietario de un establecimiento, de razón social o denominación o, en su caso, la suspensión de actividades, trabajos o servicios, debe ser comunicado a la "COPRISEM", a través de sus oficinas o en el portal de internet que se cree para tal efecto.
+61.- Todo cambio de propietario de un establecimiento o unidad económica, de razón social o denominación, o giro comercial así como la suspensión de actividades, trabajos o servicios, debe ser comunicado a la "COPRISEM", cuando haya requerido Evaluación Técnica de Factibilidad en materia de salubridad local o Aviso de Funcionamiento para su instalación inicial, a través de sus respectivas oficinas o en el portal de internet que se cree para tal efecto, de conformidad a las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
 
@@ -3095,17 +3043,17 @@ VIII. La desocupación o desalojo de casas, edificios, establecimientos y, en ge
 
 IX. La prohibición de actos de uso, que es la determinación mediante la cual se ordena a los poseedores, encargados u ocupantes la utilización de los aparatos, equipos, sustancias, productos terminados, recipientes o cualquier otro implemento empleado en procesos de producción de bienes y servicios o para la prestación de servicios; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-X. La suspensión temporal hasta por noventa días a establecimientos con venta o suministro de bebidas alcohólicas, que no cuenten con el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad o incumplan con el horario autorizado, contraten, vendan o suministren bebidas alcohólicas a menores de edad.
+X. La suspensión temporal hasta que cese la causa por la cual fue decretada a establecimientos con venta o suministro de bebidas alcohólicas, que no cuenten con el Dictamen Único de Factibilidad emitido por la Comisión de Factibilidad del Estado de México o hasta por noventa días cuando incumplan con el horario autorizado, contraten, vendan o suministren bebidas alcohólicas a menores de edad.
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
 Una vez aplicada esta medida de seguridad, se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento, se sancione con la clausura temporal o definitiva, parcial o total, según corresponda. Además se procederá penalmente conforme a la ley de la materia.
 
-(REFORMADA, G.G. 22 DE ENERO DE 2014) (F. DE E., G.G. 27 DE MARZO DE 2014)
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XI. La colocación de sello de aviso para requerir se acredite el cumplimiento de disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario, aviso de funcionamiento, de la Ley General de Salud, la Ley General para el Control del Tabaco y su reglamento;
+XI. La colocación de sello de aviso para requerir que se acredite el cumplimiento de disposiciones sanitarias consistentes en el Dictamen Único de Factibilidad, aviso de funcionamiento, de la Ley General de Salud, la Ley General para el Control del Tabaco y su reglamento; y
 
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -3155,9 +3103,9 @@ d) Deberá contener el escudo del Gobierno del Estado de México y de la COPRISE
 
 e) Nombre y firma de los verificadores sanitarios, así como fecha de la verificación y el folio correspondiente;
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-f) Deberá contener el modo, lugar y plazo para acreditar el cumplimiento de las disposiciones sanitarias consistentes en el Dictamen Único de Factibilidad emitido por la Comisión Estatal da (sic) Factibilidad, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento.
+f) Deberá contener el modo, lugar y plazo para acreditar el cumplimiento de las disposiciones sanitarias consistentes en el Dictamen Único de Factibilidad emitido por la Comisión de Factibilidad del Estado de México, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento.
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -4905,7 +4853,9 @@ XXIII. Destinos: A los fines públicos a que podrá dedicarse el suelo.
 
 XXIV. Dictamen de Congruencia: Al acto administrativo en el que se determina la congruencia de un plan municipal de desarrollo urbano o de los parciales que deriven de éste, con las políticas, estrategias y objetivos previstos en el Plan Estatal de Desarrollo Urbano y, en su caso, en el plan regional de desarrollo urbano aplicable y en los parciales de competencia estatal.
 
-XXV. Evaluación Técnica de Impacto Urbano: Al estudio y análisis que precisa las condicionantes técnicas que deberán observarse para prevenir y mitigar los efectos que pudiera ocasionar en la infraestructura y el equipamiento urbano, así como en los servicios públicos previstos para una región o centro de población, el uso y aprovechamiento, o el cambio de uso, de densidad, de coeficiente de ocupación o de utilización del suelo, o de altura de edificación, que pretenda realizarse en un determinado predio o inmueble.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XXV. Evaluaciones técnicas de factibilidad de impacto urbano: Al estudio y análisis que precisa las condicionantes técnicas que deberán observarse para prevenir y mitigar los efectos que pudiera ocasionar en la infraestructura y el equipamiento urbano, así como en los servicios públicos previstos para una región o centro de población, del uso y aprovechamiento del suelo que pretenda realizarse en los supuestos establecidos en el artículo 5.35 del presente Libro;
 
 XXVI. Fusión: A la unión de dos o más predios o lotes contiguos, con el fin de constituir una unidad de propiedad.
 
@@ -4913,7 +4863,9 @@ XXVII. Inmueble: Al terreno con o sin construcciones.
 
 XXVIII. Instituciones Gubernamentales: A las dependencias, entidades y organismos auxiliares, federales, estatales y municipales.
 
-XXIX. Impacto Urbano: A la modificación al entorno del territorio por causa de obra pública o privada.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XXIX. Impacto Urbano: A la modificación al entorno del territorio por causa de actividades, proyectos, programas, edificaciones, obras públicas o privadas, servicios o acciones en general, que producen un efecto diferencial y sustantivo en el entorno urbano;
 
 XXX. Libro: Al Libro Quinto del Código Administrativo del Estado de México.
 
@@ -4923,7 +4875,9 @@ XXXII. Movilidad: A la capacidad, facilidad y eficiencia de tránsito o desplaza
 
 XXXIII. Ordenamiento Territorial de los Asentamientos Humanos: A la política pública que tiene como objeto la ocupación y utilización racional del territorio como base espacial de las estrategias del desarrollo socioeconómico y la preservación ambiental.
 
-XXXIV. Opinión técnica: A la que conforme a su competencia u objeto, emitan al seno de la Comisión Estatal de Factibilidad, cada una de las instancias gubernamentales de carácter federal, estatal o municipal, a las que ésta solicite su colaboración para determinar la procedencia del Dictamen Único de Factibilidad.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIV. Opinión técnica: A la que conforme a su competencia u objeto, emitan las instancias gubernamentales, de carácter federal, estatal o municipal, para determinar, en su caso, la procedencia de la evaluación técnica de factibilidad de impacto urbano;
 
 XXXV. Patrimonio Natural y Cultural: A los sitios, lugares o edificaciones con valor arqueológico, histórico, artístico, ambiental, paisajístico y valores simbólicos socialmente relevantes.
 
@@ -5087,9 +5041,9 @@ I. Formular y presentar a consideración del Gobernador del Estado, los proyecto
 
 II. Expedir dictámenes de congruencia de los planes municipales de desarrollo urbano y de los planes parciales derivados de éstos, con el Plan Estatal de Desarrollo Urbano, el plan regional y los planes parciales de desarrollo urbano de competencia estatal aplicables;
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-III. Expedir dictámenes únicos de factibilidad, al seno de la Comisión Estatal de Factibilidad, en los casos y con las formalidades previstas en este Libro y la reglamentación correspondiente.
+III. Expedir las evaluaciones técnicas de factibilidad, en los casos y con las formalidades previstas en este Libro y demás disposiciones jurídicas aplicables;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
@@ -5111,7 +5065,9 @@ d) La enajenación y gravamen de lotes;
 
 e) La liberación o sustitución de las garantías constituidas;
 
-f) La subrogación del titular de la autorización;
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+f) La subrogación o causahabiencia del titular de la autorización;
 
 g) El cambio de tipo o del nombre comercial de los conjuntos urbanos, subdivisiones y condominios;
 
@@ -5121,9 +5077,9 @@ h) La extinción por renuncia de autorizaciones; y
 
 i) Cualquier otra que en términos de este Libro y su reglamento requiera autorización.
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-V. Proponer, al seno de la Comisión Estatal de Factibilidad, políticas específicas para la autorización de conjuntos urbanos de carácter habitacional, en función de la demanda y de las políticas de ordenamiento territorial señaladas en los planes de desarrollo urbano;
+V. Establecer políticas específicas para la autorización de conjuntos urbanos de carácter habitacional, en función de la demanda y de las políticas de ordenamiento territorial señaladas en los planes de desarrollo urbano;
 
 VI. Supervisar la ejecución de las obras de urbanización, infraestructura y equipamiento urbano de conjuntos urbanos, subdivisiones y condominios, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro y demás ordenamientos jurídicos aplicables, en aquellos casos en que dicha facultad no esté específicamente atribuida a otra dependencia u organismos auxiliar del ámbito federal, estatal o municipal;
 
@@ -5155,7 +5111,9 @@ XVI. Ordenar la publicación de los planes de desarrollo urbano del ámbito esta
 
 XVII. Suscribir acuerdos, convenios y contratos con los sectores público, social y privado en la realización de acciones e inversiones concertadas para el desarrollo regional, desarrollo urbano y desarrollo metropolitano.
 
-XVIII. Ejercer el derecho de preferencia del Estado, para adquirir en igualdad de condiciones, predios comprendidos en las áreas urbanizables señaladas en los planes o programas de desarrollo urbano aplicables, cuando éstos vayan a ser objeto de enajenación a título oneroso;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Ejercer el derecho de preferencia del Estado, para adquirir predios comprendidos en las áreas urbanizables o reservas territoriales señaladas en los planes o programas de desarrollo urbano aplicables, cuando éstos vayan a ser objeto de enajenación a título oneroso;
 
 XIX. Interpretar para efectos administrativos las disposiciones de este Libro y su reglamentación;
 
@@ -5165,11 +5123,13 @@ XXI. Determinar infracciones de los particulares a las disposiciones de este Lib
 
 XXII. Emitir dictámenes y opiniones técnicas en el ámbito de su competencia;
 
-XXIII. (DEROGADA, G.G. 10 DE ENERO DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+XXIII. Expedir normas técnicas y administrativas en materia de desarrollo urbano y vivienda;
 
-XXIV. Establecer normas para la evaluación del impacto urbano de obras o proyectos que generen efectos significativos en el territorio estatal.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV. Establecer normas para la evaluación técnica de factibilidad de impacto urbano, tratándose de obras o proyectos de desarrollo urbano y vivienda que generen efectos significativos en el territorio estatal;
 
 > <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -5245,7 +5205,9 @@ XIII. Crear órganos técnicos de participación social, consulta, coordinación
 
 XIV. Celebrar convenios, acuerdos y contratos en las materias de este Libro.
 
-XV. Emitir dictámenes, factibilidades y opiniones técnicas del ámbito de su competencia;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Emitir dictámenes, factibilidades y opiniones técnicas del ámbito de su competencia; tratándose de aquellos que emita en relación con los trámites competencia de la Secretaría, utilizarán preferentemente previo convenio que se celebre, la plataforma tecnológica que al efecto se establezca;
 
 XVI. Establecer medidas y ejecutar acciones para evitar asentamientos humanos irregulares;
 
@@ -5419,9 +5381,9 @@ V. Proponer a las autoridades competentes la adopción de medidas necesarias par
 
 VI. Promover medidas y mecanismos para simplificar y agilizar los procedimientos de autorización de trámites en la materia;
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Proponer programas, acciones y proyectos estratégicos en materia de desarrollo urbano, así como promover la integración de polígonos de actuación y acciones urbanísticas tendentes al proceso de regeneración de zonas urbanas.
+VII. Proponer programas, acciones y proyectos estratégicos en materia de desarrollo urbano, así como promover la integración de polígonos de actuación y acciones urbanísticas tendentes al mejoramiento, reciclamiento, regeneración, y conservación de zonas urbanas, para la formación de conjuntos urbanos y barrios integrales; y
 
 VIII. Proponer ante las instancias correspondientes, proyectos de inversión y financiamiento para el desarrollo urbano; y
 
@@ -5823,9 +5785,9 @@ La organización y funcionamiento de estas instancias, se contendrá como corres
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
-#### SECCIÓN TERCERA. De la Evaluación Técnica de Impacto Urbano
+#### SECCIÓN TERCERA. De la Evaluación Técnica de Factibilidad de Impacto Urbano
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5839,9 +5801,9 @@ I. La localización, extensión y delimitación del polígono que comprenda zona
 
 II. La integración, organización y funcionamiento de un órgano permanente de coordinación metropolitana, que se denominará Comisión Metropolitana, seguido del nombre que identifique la zona de que se trate, en el que participarán el Estado y los municipios respectivos y que será presidida por el titular de la Secretaría de Desarrollo Urbano y Metropolitano.
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-III. La formulación, en el marco de dicha Comisión del respectivo plan de desarrollo urbano de zona metropolitana o de un plan parcial, según fuera el caso.
+III. La formulación, en el marco de la Comisión Estatal de Desarrollo Urbano y Metropolitano del respectivo plan regional de desarrollo urbano de zona metropolitana o de un plan parcial, según fuera el caso;
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5917,7 +5879,7 @@ Las disposiciones de este capítulo serán aplicables en lo conducente a los pro
 
 34.- (DEROGADO, G.G. 8 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 #### SECCIÓN QUINTA. De la Subdivisión y Fusión
 
@@ -5925,7 +5887,7 @@ Las disposiciones de este capítulo serán aplicables en lo conducente a los pro
 
 ###### Artículo 5.
 
-35.- Los interesados deberán obtener el dictamen único de factibilidad, en los siguientes casos:
+35.- La evaluación técnica de factibilidad de impacto urbano es un requisito para la emisión del Dictamen Único de Factibilidad, en los siguientes casos:
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5939,7 +5901,9 @@ II. Gaseras, gasoneras, gasolineras y otras plantas para el almacenamiento, proc
 
 III. Helipuertos, Aeródromos Civiles y Aeropuertos; y
 
-IV. (DEROGADA, G.G. 10 DE ENERO DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Usos de suelo de impacto urbano señalados en los planes municipales de desarrollo urbano;
 
 > <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -5953,35 +5917,33 @@ VI. Condominios que prevean el desarrollo de treinta o más viviendas.
 
 VII. Treinta o más viviendas en un predio o lote.
 
-> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-VIII. Aquellos que señale la Ley de Competitividad y Ordenamiento Comercial del Estado de México y otras disposiciones jurídicas aplicables.
+VIII. Aquellos usos y aprovechamientos de suelo de impacto urbano señalados por otras disposiciones jurídicas estatales y municipales aplicables.
 
-> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-Al Dictamen Único de Factibilidad que en términos de este artículo se emita para fines habitacionales, se le identificará como Dictamen Único de Factibilidad de Vivienda.
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+Asimismo, requieren evaluación técnica de factibilidad de impacto urbano los usos del suelo que encuadren en alguna de las hipótesis previstas en las fracciones de este artículo, como consecuencia de procedimientos de cambios de uso del suelo, de densidad, coeficiente de ocupación del suelo, coeficiente de utilización del suelo y altura de edificaciones.
 
-Asimismo, requieren Dictamen Único de Factibilidad, los cambios de uso del suelo, de densidad, coeficiente de ocupación del suelo, coeficiente de utilización del suelo y altura de edificaciones, que con motivo del cambio se encuadren en alguna de las hipótesis previstas en las fracciones de este artículo.
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+En aquellos casos en que el uso y aprovechamiento específico de los lotes de terreno resultantes de conjuntos urbanos, subdivisiones o condominios, no haya quedado referido en el acuerdo respectivo, para su posterior autorización se requerirá obtener los informes y evaluaciones correspondientes, siempre que el uso pretendido se ubique en alguno de los supuestos de este artículo.
 
-En aquellos casos en que el uso y aprovechamiento específico de los lotes de terreno resultantes de conjuntos urbanos, subdivisiones o condominios, no haya quedado autorizado en el acuerdo respectivo, para su posterior autorización se requerirá obtener Dictamen Único de Factibilidad correspondiente, siempre que el uso pretendido se ubique en alguno de los supuestos de este artículo.
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+Los requisitos específicos para el análisis y en su caso, la emisión de las evaluaciones técnicas de factibilidad de impacto urbano se establecerán en el Reglamento del presente Libro.
 
-La reglamentación correspondiente consignará las particularidades a que se sujetará al dictamen único de factibilidad.
-
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
-36.- Sólo procederá la emisión del Dictamen Único de Factibilidad, cuando el uso del suelo de que se trate esté previsto en el plan municipal de desarrollo urbano o del parcial respectivo, o a falta de dicho plan, el uso del suelo que se determine con la aprobación del cabildo del municipio que se trate, previa consulta con la Comisión de Planeación para el Desarrollo Municipal el cual tendrá la vigencia que se establezca en el Reglamento Interior de la Comisión Estatal de Factibilidad. Tratándose del Dictamen Único de Factibilidad para cambios de usos de suelo, su emisión solo procederá cuando el uso pretendido sea compatible con los usos previstos en el plan municipal de desarrollo urbano y en ambos casos se cumplan los requisitos y demás regulaciones establecidas en este Libro, su reglamentación y disposiciones aplicables.
+36.- Sólo procederá la emisión del Dictamen Único de Factibilidad, previa la emisión de la evaluación técnica de factibilidad de impacto urbano, cuando el uso o aprovechamiento del suelo de que se trate, esté previsto en el Plan Municipal de Desarrollo Urbano o del parcial respectivo; o a falta de dicho plan, el uso de suelo que se determine con la aprobación del Cabildo del municipio que se trate, previa consulta con la Comisión de Planeación para el Desarrollo Municipal y el dictamen favorable de la Secretaría.
 
-La Secretaría solo expedirá el Dictamen Único de Factibilidad, cuando cada una de las instancias gubernamentales participantes en la Comisión Estatal de Factibilidad, otorguen opinión o evaluación técnica favorable según corresponda, en el ámbito de su competencia, respecto del proyecto que se requiera.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-En el caso que una o más instancias gubernamentales participantes en la Comisión Estatal de Factibilidad, no aprueben el proyecto presentado, se notificará el interesado haciendo de su conocimiento el motivo de la negativa.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -6069,9 +6031,9 @@ IV. Su trámite y resolución se sujetará a lo dispuesto en este Libro, su regl
 
 V. Podrán comprender inmuebles de propiedad pública o privada, a excepción de los conjuntos urbanos de Unidades Económicas de Alto Impacto, que únicamente será en inmuebles de propiedad privada;
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-VI. No procederá la emisión del Dictamen Único de Factibilidad y autorización para vivienda en áreas no urbanizables, con excepción de lo dispuesto en el Reglamento del presente Libro.
+VI. No procederá la autorización para vivienda en áreas no urbanizables, con excepción de lo dispuesto en el Reglamento del presente Libro;
 
 VII. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
@@ -6089,9 +6051,9 @@ X. Su titular tendrá, en los términos y condiciones previstos en la reglamenta
 
 a) Ceder a título gratuito al Estado y al municipio la propiedad de las superficies de terreno para vías públicas y áreas de donación para equipamiento urbano, que establezcan los acuerdos de autorización.
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-A excepción de las áreas de donación a favor de los municipios, tratándose de conjuntos urbanos, las áreas de donación de terreno destinadas a equipamiento urbano a favor del Estado, podrán cumplirse previa determinación de la Secretaría al seno de la Comisión Estatal de Factibilidad, por medio del depósito del valor económico que se determine a través del Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México, al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional, de conformidad con las disposiciones reglamentarias de éste y demás disposiciones jurídicas aplicables;
+A excepción de las áreas de donación a favor de los municipios, tratándose de los conjuntos urbanos, las áreas de donación de terreno destinadas a equipamiento urbano a favor del Estado, podrán cumplirse previa determinación de la Secretaría, por medio del depósito del valor económico que se determine a través del Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México, al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional, de conformidad con las disposiciones reglamentarias de éste y demás disposiciones jurídicas aplicables;
 
 b) Construir las obras de infraestructura, urbanización y equipamiento urbano, de conformidad con lo que establezca el presente Libro y su reglamentación.
 
@@ -6183,7 +6145,7 @@ XVI. No se emitirán nuevas autorizaciones a los solicitantes o sus socios, en c
 
 #### SECCIÓN SÉPTIMA. De los Condominios
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -6315,7 +6277,9 @@ IV. Las que soliciten las autoridades federales, estatales y municipales respect
 
 ###### Artículo 5.
 
-49.- Los condominios horizontales, verticales y mixtos, que incluyan a su vez usos mixtos compatibles, requerirán del Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, previa autorización de la Secretaría, con antelación a la constitución de dicho régimen de propiedad, de conformidad con lo que establece este Libro y la reglamentación aplicable.
+49.- Para la autorización que emita la Secretaría para condominios horizontales, verticales y mixtos, que incluyan a su vez usos mixtos compatibles, y con antelación a la constitución de dicho régimen de propiedad, se deberá obtener la evaluación técnica de factibilidad de impacto urbano y el Dictamen Único de Factibilidad emitido por la Comisión de Factibilidad del Estado de México.
+
+Para efectos de la facultad prevista en el artículo 5 de la Ley que Regula el Régimen de Propiedad en Condominio en el Estado de México y demás normatividad en la materia, se deberá observar lo previsto en este Código.
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -7103,7 +7067,7 @@ El Secretario General de Gobierno rendirá informe sobre el monto, uso y destino
 
 ###### Artículo 6.
 
-23.- En los edificios públicos, escuelas, fábricas, industrias, comercios, oficinas, unidades habitacionales, centros de espectáculos o diversiones, en todos los establecimientos abiertos al público y en vehículos de transporte escolar y de personal, deberán practicarse simulacros de protección civil, por lo menos dos veces al año, en coordinación con las autoridades competentes.
+23.- En los edificios públicos, escuelas, fábricas, industrias, comercios, oficinas, unidades habitacionales, centros de espectáculos o diversiones, en todos los establecimientos abiertos al público y en vehículos de transporte escolar y de personal, deberán practicarse simulacros de protección civil, por lo menos dos veces al año, en coordinación con las autoridades competentes. La asistencia de las autoridades en materia de protección civil no condicionará el cumplimiento, registro y resultado del simulacro.
 
 Asimismo, se colocarán, en lugares visibles, material e instructivos adecuados para casos de emergencia, en los que se establezcan las reglas que deberán observarse antes, durante y después del desastre, así como las zonas de seguridad y salidas de emergencia.
 
@@ -7119,31 +7083,27 @@ Lo dispuesto en este artículo se hará en términos de la reglamentación de es
 
 ###### Artículo 6.
 
-24.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil emitirá evaluación técnica de protección civil al seno de la Comisión Estatal de Factibilidad, en los usos de suelo que produzcan un impacto urbano sobre la infraestructura y equipamiento urbanos y los servicios públicos, en los términos previstos en el artículo 5.35 de este Código, y conforme a las disposiciones reglamentarias de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación, en términos de los reglamentos del Libro Quinto y Sexto de este Código.
+24.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil emitirá la evaluación técnica de factibilidad de protección civil, en los casos previstos en el artículo 5.35 de este Código, y conforme a las disposiciones de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación, en términos de los reglamentos del Libro Quinto y Sexto de este Código.
 
 > <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 Una vez concluidas las construcciones derivadas del uso del suelo a que se refiere el párrafo anterior, para el inicio de las operaciones se requerirá la autorización de la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 6.
 
-25.- Requieren autorización de la Secretaría General de Gobierno las actividades que pudieran generar fenómenos perturbadores, quien la emitirá a través de la Coordinación General de Protección Civil.
+25.- Requieren autorización de protección civil de la Secretaría General de Gobierno las actividades que pudieran generar fenómenos perturbadores, quien la emitirá a través de la Coordinación General de Protección Civil.
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+La reglamentación de este Libro establecerá las actividades que requieren de dicha autorización.
 
-La reglamentación de este Libro establecerá las actividades que requieren autorización.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 6.
 
-25 Bis.- Previo a la expedición de la licencia de funcionamiento de establecimiento mercantil que venda bebidas alcohólicas para su consumo, en envase cerrado o al copeo, que otorgue la autoridad municipal, deberá la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil, emitir la evaluación técnica de viabilidad de mediano o alto riesgo al seno de la Comisión Estatal de Factibilidad.
+25 Bis.- Previo a la expedición de la licencia de funcionamiento de establecimiento mercantil que venda bebidas alcohólicas para su consumo, en envase cerrado o al copeo, que otorgue la autoridad municipal, deberá la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil, emitir la evaluación técnica de factibilidad de protección civil, ya sea de mediano o alto riesgo.
 
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
-
-Corresponde a los Municipios emitir dictamen de viabilidad de bajo riesgo, incluyendo a los establecimientos mercantiles que vendan bebidas alcohólicas para su consumo, en envase cerrado o al copeo.
+Corresponde a los Municipios emitir dictamen de protección civil de bajo riesgo, incluyendo a los establecimientos mercantiles que vendan bebidas alcohólicas para su consumo, en envase cerrado o al copeo.
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -7209,6 +7169,8 @@ El Registro será público, deberá estar disponible en el portal informativo qu
 
 ## TITULO CUARTO. De los simulacros y señalizaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 6.
 
 32.- Corresponde a la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil, el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad y sanciones, tratándose de generadores de mediano y alto riesgo. Corresponde a los municipios los de bajo riesgo.
@@ -7217,7 +7179,7 @@ El Registro será público, deberá estar disponible en el portal informativo qu
 
 ## TITULO QUINTO. De las autorizaciones, registros y dictámenes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 6.
 
@@ -7291,9 +7253,9 @@ Se podrá imponer una o más sanciones de las previstas en este artículo por un
 
 I. De mil a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien:
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-a) No cuente con registro de la Secretaría de Seguridad, estando obligado a obtenerlo;
+a) No cuente con registro de la Coordinación General de Protección Civil, estando obligado a obtenerlo;
 
 b) No cumpla con la calendarización de acciones establecidas en su programa específico de protección civil.
 
@@ -13165,9 +13127,9 @@ I. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en 
 
 II. Carril Confinado.- Es el carril en la infraestructura vial destinado para uso exclusivo de los vehículos que operan en los sistemas de transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-III. Dictamen de Incorporación e Impacto Vial.- A la resolución técnica de la Secretaría de Comunicaciones, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto regional, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
+III. Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial. A la resolución técnica de la Secretaría de Comunicaciones, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto urbano, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
 
 IV. Estación de Transferencia Modal.- Instalaciones con equipo tecnológico donde converge el transporte de alta capacidad con otro u otros medios de transporte;
 
@@ -13727,9 +13689,9 @@ La Secretaría establecerá mediante disposiciones administrativas de carácter 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO QUINTO. De los dictámenes
+### CAPITULO QUINTO. De las evaluaciones técnicas de factibilidad
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
@@ -14047,13 +14009,13 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 57.- El titular de una concesión o permiso que hubiere sido revocado estará imposibilitado para obtener otro nuevo dentro de un plazo no menor al cincuenta por ciento del plazo original del título de concesión que hubiere incumplido, dicho plazo se contará a partir de que hubiere quedado firme la resolución respectiva.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
-58.- Se emitirán al seno de la Comisión Estatal de Factibilidad las evaluaciones técnicas de incorporación e impacto vial, tratándose de las autorizaciones de impacto urbano a que se refiere el Libro Quinto de este Código.
+58.- Se emitirán las evaluaciones técnicas de factibilidad de incorporación e impacto vial, tratándose de los casos a que se refiere el artículo 5.35 de este Código, para lo cual, podrán utilizarse las tecnologías de la información, medios y plataformas tecnológicas respectivas.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
 
@@ -14061,13 +14023,11 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 ###### Artículo 17.
 
-59.- La evaluación técnica de incorporación e impacto vial es la resolución emitida al seno de la Comisión Estatal de Factibilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto regional, así corno (sic) las obras y acciones que, en su caso, deban llevarse a cabo para mitigar su efecto.
-
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+59.- La evaluación técnica de factibilidad de incorporación e impacto vial es la resolución técnica que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto urbano, así como las obras y acciones que, en su caso, deban llevarse a cabo para mitigar su efecto.
 
 ###### Artículo 17.
 
-60.- El dictamen de incorporación vial es la resolución técnica que determina la factibilidad de acceder a la infraestructura vial primaria y de cuota determinando las obras y acciones necesarias para tal fin.
+60.- (DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14087,7 +14047,9 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 63.- Los Organismos Auxiliares sectorizados conforme a su competencia emitirán los siguientes dictámenes:
 
-I. El dictamen de incorporación vial establecido en el artículo 17.59;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+I. La evaluación técnica de factibilidad de incorporación e impacto vial establecido en el artículo 17.59;
 
 II. El dictamen de procedencia para helipuertos y aeropistas establecido en el artículo 17.61; y
 
@@ -15158,6 +15120,14 @@ A). Para obra nueva, así como para la ampliación, modificación o reparación 
 6. Planos de instalaciones hidráulicas, sanitarias, eléctricas y especiales, firmados por el Director Responsable de Obra y/o Corresponsable de Obra.
 
 7. Constancia de terminación de obra, en los casos de ampliación, modificación o reparación de la obra existente.
+
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+8. Evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales o documento que acredite la existencia y dotación de agua potable para el desarrollo que se pretende, así como incorporación a los sistemas de agua potable y alcantarillado, el cual será emitido por la Comisión del Agua del Estado de México o autoridad competente, en su caso.
+
+> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+9. Tratándose de conjuntos urbanos, condominios y lotificaciones de vivienda, industriales, comerciales, de servicios y mixtos, la evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales será exigible para la asignación de obligaciones en materia de infraestructura, vinculantes a la autorización que emita la Secretaría de Desarrollo Urbano y Metropolitano, conforme a lo dispuesto por el Libro Quinto del presente Código y su Reglamento, así como la Ley del Agua para el Estado de México y Municipios.
 
 B). Para modalidades de obra nueva, de ampliación, modificación o reparación de la construcción existente, que no afecte elementos estructurales e impliquen la construcción de entre veinte y sesenta metros cuadrados:
 
@@ -18744,3 +18714,79 @@ QUINTO. El Ejecutivo del Estado, para la expedición del Reglamento correspondie
 SEXTO. Se autoriza a la Secretaría, para constituir un fideicomiso de administración y fuente de pago o modificar el Fideicomiso Público de Administración del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, para el cumplimiento de los fines de esta Ley.
 
 SÉPTIMO. Los Municipios para la aplicación de esta Ley, deberán emitir las disposiciones complementarias y aquéllas que permitan homologar conforme a sus estructuras y facultades, las instancias competentes para el cumplimiento de la misma.
+
+G.G. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, serán atendidos, en el ámbito de sus respectivas competencias, por la Comisión Estatal de Factibilidad y el Instituto de Verificación Administrativa del Estado de México, de conformidad con la legislación vigente al momento de su presentación, hasta en tanto se encuentre en operaciones el órgano desconcentrado correspondiente.
+
+Tratándose de las solicitudes pendientes de renovación de Dictamen Único de Factibilidad, los particulares se podrán acoger a los beneficios que otorgan las disposiciones adicionadas y reformadas mediante el presente Decreto, cuando se hace referencia al carácter permanente del referido Dictamen.
+
+Para efectos del párrafo anterior, la Secretaría Técnica de la Comisión Estatal de Factibilidad deberá remitir a la o al Titular de la Dirección General de la Comisión de Factibilidad del Estado de México, en un plazo no mayor a quince días hábiles, contados a partir de que entre en operaciones el órgano desconcentrado correspondiente, los expedientes relacionados con solicitudes de Dictamen Único de Factibilidad que obren en sus archivos.
+
+QUINTO. Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Comisión Estatal de Factibilidad, se entenderá a la Comisión de Factibilidad del Estado de México.
+
+SEXTO. La Legislatura del Estado proveerá los recursos necesarios para la implementación de las disposiciones contenidas en el presente Decreto.
+
+SÉPTIMO. Se abroga la Ley que crea el Instituto de Verificación Administrativa del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 19 de diciembre de 2016.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaria de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaria de Desarrollo Urbano y Metropolitano y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Justicia y Derechos Humanos.
+
+NOVENO. Las y los servidores adscritos a las dependencias del Ejecutivo del Estado que tengan a su cargo funciones de verificación, supervisión o inspección en las materias a que se refiere la Ley que crea el Instituto de Verificación Administrativa del Estado de México, en un plazo no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto, serán credencializados por el Instituto para el desempeño de sus funciones, sin que esto afecte sus derechos laborales, cuya relación laboral continuará a cargo de las dependencias en las que se desempeñen, las que los proveerán de los elementos necesarios, tanto materiales, como financieros, servicios generales, para el ejercicio de sus funciones.
+
+DÉCIMO. Toda referencia a supervisión o inspección contenida en otras disposiciones jurídicas de igual o menor jerarquía en las materias que regula la Ley que crea el Instituto de Verificación Administrativa del Estado de México, se entenderán como verificación.
+
+DÉCIMO PRIMERO. Las dependencias del Ejecutivo del Estado, en el ámbito de su competencia, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO SEGUNDO. Para considerar a los Dictámenes Únicos de Factibilidad emitidos por la Comisión Estatal de Factibilidad como documentos de carácter permanente, los mismos deberán estar sustentados con todas las evaluaciones técnicas que correspondan y no deberán contener en su texto ninguna condicionante.
+
+DÉCIMO TERCERO. Los trámites que se iniciaron ante la Comisión Estatal de Desarrollo Urbano y Vivienda, con la finalidad de obtener la Constancia de Viabilidad para la autorización de conjuntos urbanos y condominios, podrán continuar con el trámite ante la Dirección General de Operación Urbana.
+
+Los particulares deberán contar con la vigencia de los dictámenes, evaluaciones, opiniones, factibilidades y/o cualquier otro documento obtenido de las unidades administrativas participantes de la entonces Comisión Estatal de Desarrollo Urbano y Vivienda, lo anterior, a efecto de salvaguardar los derechos de los particulares que llevaron a cabo sus trámites para la obtención de autorización de conjuntos urbanos y condominios de más de treinta viviendas.
+
+Para efectos de lo anterior, se establece un término de treinta días hábiles a partir de la entrada en vigor del presente Decreto, fenecido dicho plazo sin ninguna manifestación del particular, o bien, sin que se cuente con los dictámenes, evaluaciones, opiniones, factibilidades con vigencia, se tendrá el trámite como total y definitivamente concluido: pudiendo iniciar un nuevo trámite ante la Comisión de Factibilidad del Estado de México.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Dictamen de Factibilidad de Impacto Sanitario se entenderá por evaluación técnica de factibilidad de impacto sanitario;
+
+b) Evaluación Técnica de Impacto Urbano se entenderá por evaluación técnica de factibilidad de impacto urbano;
+
+c) Evaluación técnica de protección civil o evaluación técnica de viabilidad de mediano o alto impacto se entenderá por evaluación técnica de factibilidad de protección civil;
+
+d) Dictamen de Incorporación e Impacto Vial o evaluación técnica de incorporación e impacto vial se entenderá por evaluación técnica de factibilidad de incorporación e impacto vial;
+
+e) Evaluación de impacto ambiental se entenderá por evaluación técnica de factibilidad de impacto ambiental;
+
+f) Dictamen de Factibilidad de Transformación Forestal se entenderá por evaluación técnica de factibilidad de transformación forestal;
+
+g) Evaluación de factibilidad comercial automotriz se entenderá por evaluación técnica de factibilidad comercial automotriz;
+
+h) Dictamen de congruencia de factibilidades o Dictamen de Factibilidad para la Distribución de Agua se entenderá por evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales, así como la evaluación técnica de factibilidad de distribución de agua, según corresponda; y
+
+i) Estudio de Impacto de Movilidad se entenderá por evaluación técnica de factibilidad de impacto de movilidad;
+
+DÉCIMO QUINTO. El Consejo Estatal de Mejora Regulatoria y la Comisión Estatal de Mejora Regulatoria se integrarán e instalarán en un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO SEXTO. Las Dependencias deberán informar a la Comisión Estatal, en un lapso no mayor de treinta días naturales a (sic) entrada en vigor de este Decreto, la actualización de sus Enlaces de Mejora Regulatoria.
+
+DÉCIMO SÉPTIMO. El Ejecutivo Estatal expedirá los reglamentos relacionados con la Ley para la Mejora Regulatoria del Estado de México y sus Municipios, en un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se emitan dichos reglamentos, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+DÉCIMO OCTAVO. En los ordenamientos legales donde se haga referencia al término Estudio de Impacto Regulatorio, se entenderá como Análisis de Impacto Regulatorio.
+
+DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio será expedido por la Comisión, en un plazo de treinta días hábiles contados a partir de la expedición de los lineamientos generales para la implementación del Análisis de Impacto Regulatorio a que hace referencia el tercer párrafo del artículo 66 de la Ley General de Mejora Regulatoria.
+
+VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
+
+VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
