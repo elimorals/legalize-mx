@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-instituto-de-verificacion-administrativa-117778
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-19"
-last_updated: "2017-09-29"
+last_updated: "2018-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA EL INSTITUTO DE VERIFICACION ADMINISTRATIVA DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SÉPTIMO DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 17 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SÉPTIMO DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, PUBLICADA EN LA G.G. DE 17 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Sección Octava de la Gaceta del Gobierno del Estado de México, el lunes 19 de diciembre de 2016.
 
@@ -440,3 +438,79 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, serán atendidos, en el ámbito de sus respectivas competencias, por la Comisión Estatal de Factibilidad y el Instituto de Verificación Administrativa del Estado de México, de conformidad con la legislación vigente al momento de su presentación, hasta en tanto se encuentre en operaciones el órgano desconcentrado correspondiente.
+
+Tratándose de las solicitudes pendientes de renovación de Dictamen Único de Factibilidad, los particulares se podrán acoger a los beneficios que otorgan las disposiciones adicionadas y reformadas mediante el presente Decreto, cuando se hace referencia al carácter permanente del referido Dictamen.
+
+Para efectos del párrafo anterior, la Secretaría Técnica de la Comisión Estatal de Factibilidad deberá remitir a la o al Titular de la Dirección General de la Comisión de Factibilidad del Estado de México, en un plazo no mayor a quince días hábiles, contados a partir de que entre en operaciones el órgano desconcentrado correspondiente, los expedientes relacionados con solicitudes de Dictamen Único de Factibilidad que obren en sus archivos.
+
+QUINTO. Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Comisión Estatal de Factibilidad, se entenderá a la Comisión de Factibilidad del Estado de México.
+
+SEXTO. La Legislatura del Estado proveerá los recursos necesarios para la implementación de las disposiciones contenidas en el presente Decreto.
+
+SÉPTIMO. Se abroga la Ley que crea el Instituto de Verificación Administrativa del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 19 de diciembre de 2016.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaria de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaria de Desarrollo Urbano y Metropolitano y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Justicia y Derechos Humanos.
+
+NOVENO. Las y los servidores adscritos a las dependencias del Ejecutivo del Estado que tengan a su cargo funciones de verificación, supervisión o inspección en las materias a que se refiere la Ley que crea el Instituto de Verificación Administrativa del Estado de México, en un plazo no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto, serán credencializados por el Instituto para el desempeño de sus funciones, sin que esto afecte sus derechos laborales, cuya relación laboral continuará a cargo de las dependencias en las que se desempeñen, las que los proveerán de los elementos necesarios, tanto materiales, como financieros, servicios generales, para el ejercicio de sus funciones.
+
+DÉCIMO. Toda referencia a supervisión o inspección contenida en otras disposiciones jurídicas de igual o menor jerarquía en las materias que regula la Ley que crea el Instituto de Verificación Administrativa del Estado de México, se entenderán como verificación.
+
+DÉCIMO PRIMERO. Las dependencias del Ejecutivo del Estado, en el ámbito de su competencia, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO SEGUNDO. Para considerar a los Dictámenes Únicos de Factibilidad emitidos por la Comisión Estatal de Factibilidad como documentos de carácter permanente, los mismos deberán estar sustentados con todas las evaluaciones técnicas que correspondan y no deberán contener en su texto ninguna condicionante.
+
+DÉCIMO TERCERO. Los trámites que se iniciaron ante la Comisión Estatal de Desarrollo Urbano y Vivienda, con la finalidad de obtener la Constancia de Viabilidad para la autorización de conjuntos urbanos y condominios, podrán continuar con el trámite ante la Dirección General de Operación Urbana.
+
+Los particulares deberán contar con la vigencia de los dictámenes, evaluaciones, opiniones, factibilidades y/o cualquier otro documento obtenido de las unidades administrativas participantes de la entonces Comisión Estatal de Desarrollo Urbano y Vivienda, lo anterior, a efecto de salvaguardar los derechos de los particulares que llevaron a cabo sus trámites para la obtención de autorización de conjuntos urbanos y condominios de más de treinta viviendas.
+
+Para efectos de lo anterior, se establece un término de treinta días hábiles a partir de la entrada en vigor del presente Decreto, fenecido dicho plazo sin ninguna manifestación del particular, o bien. sin que se cuente con los dictámenes, evaluaciones, opiniones, factibilidades con vigencia, se tendrá el trámite como total y definitivamente concluido: pudiendo iniciar un nuevo trámite ante la Comisión de Factibilidad del Estado de México.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Dictamen de Factibilidad de Impacto Sanitario se entenderá por evaluación técnica de factibilidad de impacto sanitario;
+
+b) Evaluación Técnica de Impacto Urbano se entenderá por evaluación técnica de factibilidad de impacto urbano;
+
+c) Evaluación técnica de protección civil o evaluación técnica de viabilidad de mediano o alto impacto se entenderá por evaluación técnica de factibilidad de protección civil;
+
+d) Dictamen de Incorporación e Impacto Vial o evaluación técnica de incorporación e impacto vial se entenderá por evaluación técnica de factibilidad de incorporación e impacto vial;
+
+e) Evaluación de impacto ambiental se entenderá por evaluación técnica de factibilidad de impacto ambiental;
+
+f) Dictamen de Factibilidad de Transformación Forestal se entenderá por evaluación técnica de factibilidad de transformación forestal;
+
+g) Evaluación de factibilidad comercial automotriz se entenderá por evaluación técnica de factibilidad comercial automotriz;
+
+h) Dictamen de congruencia de factibilidades o Dictamen de Factibilidad para la Distribución de Agua se entenderá por evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales, así como la evaluación técnica de factibilidad de distribución de agua, según corresponda; y
+
+i) Estudio de Impacto de Movilidad se entenderá por evaluación técnica de factibilidad de impacto de movilidad;
+
+DÉCIMO QUINTO. El Consejo Estatal de Mejora Regulatoria y la Comisión Estatal de Mejora Regulatoria se integrarán e instalarán en un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO SEXTO. Las Dependencias deberán informar a la Comisión Estatal, en un lapso no mayor de treinta días naturales a (sic) entrada en vigor de este Decreto, la actualización de sus Enlaces de Mejora Regulatoria.
+
+DÉCIMO SÉPTIMO. El Ejecutivo Estatal expedirá los reglamentos relacionados con la Ley para la Mejora Regulatoria del Estado de México y sus Municipios, en un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se emitan dichos reglamentos, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+DÉCIMO OCTAVO. En los ordenamientos legales donde se haga referencia al término Estudio de Impacto Regulatorio, se entenderá como Análisis de Impacto Regulatorio.
+
+DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio será expedido por la Comisión, en un plazo de treinta días hábiles contados a partir de la expedición de los lineamientos generales para la implementación del Análisis de Impacto Regulatorio a que hace referencia el tercer párrafo del artículo 66 de la Ley General de Mejora Regulatoria.
+
+VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
+
+VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
