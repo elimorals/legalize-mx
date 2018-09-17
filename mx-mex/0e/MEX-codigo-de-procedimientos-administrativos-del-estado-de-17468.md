@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2017-09-08"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -1023,6 +1025,10 @@ III. Los visitadores entregarán la orden al visitado o a su representante y si 
 
 IV. Al iniciarse la verificación, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, con credencial o documento vigente con fotografía expedido por la autoridad administrativa, que los acredite legalmente para desempeñar su función;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+Para el caso de visitas que se realicen en materias competencia del Instituto de Verificación Administrativa del Estado de México, los verificadores que en ella intervengan se deberán identificar con credencial o documento vigente con fotografía expedido por dicho Instituto, la cual contará con el medio electrónico de identificación para ser autenticada a través de la plataforma tecnológica respectiva y deberán entregar un ejemplar de la Cartilla de Derechos y Obligaciones a la persona visitada para su conocimiento;
+
 V. La persona con quien se entienda la diligencia será requerida por los visitadores para que nombre a dos testigos que intervengan en la diligencia; si éstos no son nombrados o los señalados no aceptan servir como tales, los visitadores los designarán. Los testigos podrán ser sustituidos por motivos debidamente justificados en cualquier tiempo, siguiendo las mismas reglas para su nombramiento;
 
 VI. Los visitados, sus representantes o la persona con quien se entienda la diligencia, están obligados a permitir a los visitadores el acceso al lugar o zona objeto de la visita, así como poner a la vista la documentación, equipos y bienes que les requieran;
@@ -1035,15 +1041,15 @@ IX. Con las mismas formalidades indicadas en los puntos anteriores, se levantar�
 
 X. El visitado, su representante o la persona con la que se haya entendido la verificación, podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos u omisiones contenidos en el acta de la misma o bien hacer uso de ese derecho, por escrito, dentro del término de tres días siguientes a la fecha en que se hubiere levantado el acta.
 
-(ADICIONADA, G.G. 22 DE ENERO DE 2014) (F. DE E., G.G. 27 DE MARZO DE 2014)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-XI. Al momento de practicar la primera visita de verificación y de encontrarse el establecimiento cerrado, se colocará sello de aviso donde invariablemente se requerirá al visitado para que dentro de los tres días siguientes, comparezca en la oficina de la Jurisdicción de Regulación Sanitaria correspondiente al domicilio de su negociación, a fin de acreditar el cumplimiento de las disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario y aviso de funcionamiento, además del Cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su reglamento.
+XI. Al momento de practicar la primera visita de verificación y de encontrarse el establecimiento cerrado, se colocará sello de aviso donde invariablemente se requerirá al visitado para que dentro de los tres días siguientes, comparezca en la oficina de la Jurisdicción de Regulación Sanitaria correspondiente al domicilio de su negociación, u oficina central de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, según sea el caso, a fin de acreditar el cumplimiento de las disposiciones sanitarias consistentes en el Dictamen Único de Factibilidad y en el aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su reglamento.
 
 Sello que deberá contener la siguiente leyenda:
 
-> <small>(F. DE E., G.G. 27 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-En términos del artículo 2.68 fracción XI del Código Administrativo del Estado de México, se exhorta al propietario y/o representante legal de este establecimiento para que dentro del término de tres días, comparezca en la oficina de la Jurisdicción de Regulación Sanitaria correspondiente al domicilio de la negociación, a fin de que acredite el cumplimiento de las disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento, apercibido que de no dar cumplimiento a este requerimiento se hará uso de los medios de apremios y medidas de seguridad previstas en el artículo 404 de la Ley General de Salud y 2.49 del Código Administrativo del Estado de México respectivamente; con la advertencia de que el retiro o destrucción de este aviso sin la orden de la autoridad competente, será sancionado en términos del artículo 19 fracciones I, IV y V del Código de Procedimientos Administrativos del Estado de México;
+En términos del artículo 2.68 fracción XI del Código Administrativo del Estado de México, se exhorta al propietario y/o representante legal de este establecimiento para que dentro del término de tres días, comparezca en la oficina de la Jurisdicción de Regulación Sanitaria correspondiente al domicilio de la negociación, u oficina central de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, según sea el caso, a fin de que acredite el cumplimiento de las disposiciones sanitarias consistentes en el Dictamen Único de Factibilidad y en el aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento, apercibido que de no dar cumplimiento a este requerimiento se hará uso de las medidas de seguridad previstas en los artículos 404 de la Ley General de Salud y 2.68 del Código Administrativo del Estado de México, así como las medidas de apremio y medidas disciplinarias previstas en el artículo 19 del Código de Procedimientos Administrativos del Estado de México; con la advertencia de que el retiro o destrucción de este aviso sin la orden de la autoridad competente, generará la aplicación de las medidas referidas;
 
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -1127,21 +1133,15 @@ Todo particular interesado podrá desistirse de su solicitud. Si el escrito de i
 
 Las autoridades administrativas podrán celebrar con los particulares acuerdos o convenios de carácter conciliatorio que pongan fin a los asuntos, siempre que no sean contrarios a las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 135.
 
 Las peticiones que los particulares hagan a las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos descentralizados con funciones de autoridad, de carácter estatal o municipal, deberán ser resueltas en forma escrita y notificada, dentro de un plazo que no exceda de quince días hábiles posteriores a la fecha de su presentación, a excepción de los trámites que tengan plazo establecido en la Ley de la materia, los cuales deberán ser resueltos en el término señalado para tal efecto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 Cuando se requiera al promovente para que exhiba los documentos omitidos o cumpla con requisitos, formales o proporcione los datos necesarios para su resolución, el plazo empezará a correr desde que el requerimiento haya sido cumplido. Si la autoridad omite efectuar el requerimiento, la resolución afirmativa ficta se configurará en términos del siguiente párrafo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1155,11 +1155,9 @@ Dentro de los tres días hábiles posteriores a la presentación de la solicitud
 
 En caso de que la autoridad competente no de respuesta a la solicitud de certificación dentro del plazo señalado en el párrafo anterior, los peticionarios acreditarán la existencia de la resolución afirmativa ficta, que producirá todos sus efectos legales ante las autoridades administrativas, con la presentación del documento que acuse de recibo original que contenga la petición formulada en el que aparezca claramente, o sello fechador original de la dependencia administrativa o la constancia de recepción con firma original del servidor público respectivo.
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-La resolución afirmativa ficta operará tratándose de peticiones que den inicio a procedimientos en las materias reguladas por el Código Administrativo, excepto, tratándose de peticiones que tengan por objeto la transmisión de la propiedad o la posesión de bienes del Estado, municipios y organismos auxiliares de carácter estatal o municipal, la afectación de derechos de terceros, el otorgamiento o modificación de concesiones para la prestación de servicios públicos, autorizaciones de conjuntos urbanos, licencias de uso del suelo, normas técnicas, dictamen único de factibilidad, de factibilidad para la distribución de agua y de factibilidad de transformación forestal, así como el permiso para las casas de empeño y de las unidades económicas que ejercen la compra y/o venta de oro y/o plata y la resolución del recurso administrativo de inconformidad. Tampoco se configura la resolución afirmativa ficta cuando la petición se hubiese presentado ante autoridad incompetente, así como en los casos de la rescisión de las relaciones laborales con los policías.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La resolución afirmativa ficta operará tratándose de peticiones que den inicio a procedimientos en las materias reguladas por el Código Administrativo, excepto, tratándose de peticiones que tengan por objeto la transmisión de la propiedad o la posesión de bienes del Estado, municipios y organismos auxiliares de carácter estatal o municipal, la afectación de derechos de terceros, el otorgamiento o modificación de concesiones para la prestación de servicios públicos, autorizaciones de conjuntos urbanos, licencias de uso del suelo, normas técnicas, evaluaciones técnicas de factibilidad, dictamen único de factibilidad, así como el permiso para las casas de empeño y de las unidades económicas que ejercen la compra y/o venta de oro y/o plata y la resolución del recurso administrativo de inconformidad. Tampoco se configura la resolución afirmativa ficta cuando la petición se hubiese presentado ante autoridad incompetente, así como en los casos de la rescisión de las relaciones laborales con los policías.
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3004,3 +3002,79 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, serán atendidos, en el ámbito de sus respectivas competencias, por la Comisión Estatal de Factibilidad y el Instituto de Verificación Administrativa del Estado de México, de conformidad con la legislación vigente al momento de su presentación, hasta en tanto se encuentre en operaciones el órgano desconcentrado correspondiente.
+
+Tratándose de las solicitudes pendientes de renovación de Dictamen Único de Factibilidad, los particulares se podrán acoger a los beneficios que otorgan las disposiciones adicionadas y reformadas mediante el presente Decreto, cuando se hace referencia al carácter permanente del referido Dictamen.
+
+Para efectos del párrafo anterior, la Secretaría Técnica de la Comisión Estatal de Factibilidad deberá remitir a la o al Titular de la Dirección General de la Comisión de Factibilidad del Estado de México, en un plazo no mayor a quince días hábiles, contados a partir de que entre en operaciones el órgano desconcentrado correspondiente, los expedientes relacionados con solicitudes de Dictamen Único de Factibilidad que obren en sus archivos.
+
+QUINTO. Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Comisión Estatal de Factibilidad, se entenderá a la Comisión de Factibilidad del Estado de México.
+
+SEXTO. La Legislatura del Estado proveerá los recursos necesarios para la implementación de las disposiciones contenidas en el presente Decreto.
+
+SÉPTIMO. Se abroga la Ley que crea el Instituto de Verificación Administrativa del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 19 de diciembre de 2016.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Urbano y Metropolitano y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Justicia y Derechos Humanos.
+
+NOVENO. Las y los servidores adscritos a las dependencias del Ejecutivo del Estado que tengan a su cargo funciones de verificación, supervisión o inspección en las materias a que se refiere la Ley que crea el Instituto de Verificación Administrativa del Estado de México, en un plazo no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto, serán credencializados por el Instituto para el desempeño de sus funciones, sin que esto afecte sus derechos laborales, cuya relación laboral continuará a cargo de las dependencias en las que se desempeñen, las que los proveerán de los elementos necesarios, tanto materiales, como financieros, servicios generales, para el ejercicio de sus funciones.
+
+DÉCIMO. Toda referencia a supervisión o inspección contenida en otras disposiciones jurídicas de igual o menor jerarquía en las materias que regula la Ley que crea el Instituto de Verificación Administrativa del Estado de México, se entenderán como verificación.
+
+DÉCIMO PRIMERO. Las dependencias del Ejecutivo del Estado, en el ámbito de su competencia, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO SEGUNDO. Para considerar a los Dictámenes Únicos de Factibilidad emitidos por la Comisión Estatal de Factibilidad como documentos de carácter permanente, los mismos deberán estar sustentados con todas las evaluaciones técnicas que correspondan y no deberán contener en su texto ninguna condicionante.
+
+DÉCIMO TERCERO. Los trámites que se iniciaron ante la Comisión Estatal de Desarrollo Urbano y Vivienda, con la finalidad de obtener la Constancia de Viabilidad para la autorización de conjuntos urbanos y condominios, podrán continuar con el trámite ante la Dirección General de Operación Urbana.
+
+Los particulares deberán contar con la vigencia de los dictámenes, evaluaciones, opiniones, factibilidades y/o cualquier otro documento obtenido de las unidades administrativas participantes de la entonces Comisión Estatal de Desarrollo Urbano y Vivienda, lo anterior, a efecto de salvaguardar los derechos de los particulares que llevaron a cabo sus trámites para la obtención de autorización de conjuntos urbanos y condominios de más de treinta viviendas.
+
+Para efectos de lo anterior, se establece un término de treinta días hábiles a partir de la entrada en vigor del presente Decreto, fenecido dicho plazo sin ninguna manifestación del particular, o bien, sin que se cuente con los dictámenes, evaluaciones, opiniones, factibilidades con vigencia, se tendrá el trámite como total y definitivamente concluido: pudiendo iniciar un nuevo trámite ante la Comisión de Factibilidad del Estado de México.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Dictamen de Factibilidad de Impacto Sanitario se entenderá por evaluación técnica de factibilidad de impacto sanitario;
+
+b) Evaluación Técnica de Impacto Urbano se entenderá por evaluación técnica de factibilidad de impacto urbano;
+
+c) Evaluación técnica de protección civil o evaluación técnica de viabilidad de mediano o alto impacto se entenderá por evaluación técnica de factibilidad de protección civil;
+
+d) Dictamen de Incorporación e Impacto Vial o evaluación técnica de incorporación e impacto vial se entenderá por evaluación técnica de factibilidad de incorporación e impacto vial;
+
+e) Evaluación de impacto ambiental se entenderá por evaluación técnica de factibilidad de impacto ambiental;
+
+f) Dictamen de Factibilidad de Transformación Forestal se entenderá por evaluación técnica de factibilidad de transformación forestal;
+
+g) Evaluación de factibilidad comercial automotriz se entenderá por evaluación técnica de factibilidad comercial automotriz;
+
+h) Dictamen de congruencia de factibilidades o Dictamen de Factibilidad para la Distribución de Agua se entenderá por evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales, así como la evaluación técnica de factibilidad de distribución de agua, según corresponda; y
+
+i) Estudio de Impacto de Movilidad se entenderá por evaluación técnica de factibilidad de impacto de movilidad;
+
+DÉCIMO QUINTO. El Consejo Estatal de Mejora Regulatoria y la Comisión Estatal de Mejora Regulatoria se integrarán e instalarán en un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO SEXTO. Las Dependencias deberán informar a la Comisión Estatal, en un lapso no mayor de treinta días naturales a entrada en vigor de este Decreto, la actualización de sus Enlaces de Mejora Regulatoria.
+
+DÉCIMO SÉPTIMO. El Ejecutivo Estatal expedirá los reglamentos relacionados con la Ley para la Mejora Regulatoria del Estado de México y sus Municipios, en un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se emitan dichos reglamentos, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+DÉCIMO OCTAVO. En los ordenamientos legales donde se haga referencia al término Estudio de Impacto Regulatorio, se entenderá como Análisis de Impacto Regulatorio.
+
+DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio será expedido por la Comisión, en un plazo de treinta días hábiles contados a partir de la expedición de los lineamientos generales para la implementación del Análisis de Impacto Regulatorio a que hace referencia el tercer párrafo del artículo 66 de la Ley General de Mejora Regulatoria.
+
+VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
+
+VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
