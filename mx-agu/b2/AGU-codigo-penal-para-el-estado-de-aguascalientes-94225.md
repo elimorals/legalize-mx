@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2018-07-09"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2161,6 +2161,10 @@ Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confian
 
 Cuando los delitos a que se refieren los artículos 169, 173, 174, 175 y 176 Bis del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento este sujeto a ratificación del Congreso del Estado, las penas previstas serán aumentadas hasta en un tercio.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+En el caso de los tipos penales establecidos en los Artículos 169, 171, 172, 173, 174, 175, 176 y 176 Bis, cuando se compruebe que los mismos se configuraron dentro de un procedimiento de adquisición gubernamental, licitación pública o cualquier procedimiento de contratación dentro de la Administración Pública, se podrá determinar la imposición de la inhabilitación definitiva para participar en adquisiciones, arrendamientos, servicios u obras públicas ya sea a los servidores públicos o a los particulares que sean responsables en la comisión de los mismos. En este supuesto, se deberá dar aviso de dicha sanción al Sistema de Información Estatal de Servidores Públicos y particulares sancionados, en los términos de la Ley del Sistema Estatal Anticorrupción de Aguascalientes y, asimismo, se procederá a la cancelación del registro del Padrón Único de Proveedores de la Administración Pública Estatal como Municipal, según sea el caso.
+
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
 
 ARTÍCULO 163 B.- Para la individualización de las sanciones previstas en este Capítulo, el juez tomará en cuenta lo siguiente:
@@ -3303,8 +3307,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 9 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 342.- SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 75-A DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 342.- SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 75-A DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 344.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 82, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 82 A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
