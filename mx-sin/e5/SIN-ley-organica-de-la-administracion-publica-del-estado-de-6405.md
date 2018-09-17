@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-administracion-publica-del-estado-de-6405"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-01-05"
-last_updated: "2017-12-27"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 5 de enero de 1981.
 
@@ -51,9 +51,11 @@ La estructura y organización del Poder Ejecutivo para el despacho de los negoci
 
 El Gobernador Constitucional del Estado, depositario del ejercicio del Poder Ejecutivo es el titular y autoridad máxima de la administración pública. Salvo los recursos que expresamente establezcan otras leyes, sus resoluciones serán definitivas e inapelables en la vía administrativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 3.
 
-La Administración Pública estatal se integrará con las Secretarías y Entidades Administrativas cuyas denominaciones, estructuras y atribuciones se establecerán en los Reglamentos y demás disposiciones que expida el Gobernador Constitucional del Estado en ejercicio de sus facultades constitucionales y dentro de los límites de las que la presente Ley le otorga.
+La Administración Pública estatal se integrará con las Secretarías, Consejería Jurídica y Entidades Administrativas cuyas denominaciones, estructuras y atribuciones se establecerán en los Reglamentos y demás disposiciones que expida el Gobernador Constitucional del Estado en ejercicio de sus facultades constitucionales y dentro de los límites de las que la presente Ley le otorga.
 
 > <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2000)</small>
 
@@ -67,7 +69,7 @@ La Administración Pública Paraestatal se integrará con los organismos descent
 
 ###### ARTICULO 5.
 
-El Procurador General de Justicia, además de sus facultades constitucionales, es el Consejero Jurídico del Gobernador Constitucional del Estado en los términos que determine la Ley.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
 ###### ARTICULO 6.
 
@@ -93,9 +95,11 @@ Para los efectos de esta Ley, las Secretarías y Entidades Administrativas que i
 
 Para ser válidos los decretos, reglamentos y acuerdos del Gobernador Constitucional del Estado, deberán estar firmados por éste y por el Secretario Encargado del Ramo a que el asunto corresponda, y cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por los Titulares de las mismas.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 10.
 
-En los procedimientos jurisdiccionales, el Gobernador Constitucional del Estado podrá ser representado indistintamente, por la Procuraduría General de Justicia o por la dependencia a que corresponda el asunto, según la distribución de competencias, por conducto de funcionario competente.
+En los procedimientos jurisdiccionales, el Gobernador Constitucional del Estado podrá ser representado indistintamente, por la Consejería Jurídica o por la dependencia a que corresponda el asunto, según la distribución de competencias, por conducto de funcionario competente.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -163,9 +167,43 @@ Cada Secretaría ejercerá las partidas presupuestales que les sean asignadas en
 
 Los titulares de las Secretarías serán responsables de la planeación orientada a resultados, con apego a lo establecido en la Ley de Planeación del Estado y serán responsables también del cumplimiento del programa sectorial a su cargo y de que los programas presupuestarios a través de los cuales se ejerce el gasto en la Secretaría a su cargo tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
 
-### CAPITULO III. De las Entidades Administrativas
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPITULO ÚNICO. De la Administración Pública Paraestatal
+### CAPITULO II Bis. De la Consejería Jurídica
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 23 Bis.
+
+La Consejería Jurídica será el órgano encargado de representar legalmente al Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 23 Bis A.- Al frente de la Consejería Jurídica habrá un Consejero Jurídico que dependerá directamente del Ejecutivo, y será nombrado y removido libremente por éste, quien para el despacho de los asuntos de su competencia, se auxiliará por los Directores Generales, Jefes de Departamento y por los demás funcionarios que establezca el Reglamento Interior respectivo y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 23 Bis B.- Para ser Consejero Jurídico se requerirá:
+
+(NOTA: EL 7 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 87/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+I. Ser ciudadano mexicano POR NACIMIENTO;
+
+II. Tener, cuando menos, treinta y cinco años cumplidos al día de su designación;
+
+III. Contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho;
+
+IV. Gozar de buena reputación; y
+
+V. No haber sido condenado por delito doloso.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 23 Bis C.- La Consejería Jurídica ejercerá las partidas presupuestales que les sean asignadas en el Presupuesto de Egresos del Estado. El titular de la Consejería Jurídica será responsable de que la planeación, programación, presupuestación, aprobación, ejercicio, control, seguimiento y evaluación de los ingresos y egresos públicos se realicen de conformidad con lo establecido en la Ley de Planeación y la Ley de Presupuesto y Responsabilidad Hacendaria, ambas del Estado de Sinaloa; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y en las disposiciones administrativas que para tal efecto se emitan. Asimismo, será responsable de la aplicación y cumplimiento de la Ley General de Contabilidad Gubernamental y de las disposiciones del Consejo Nacional de Armonización Contable.
+
+El titular de la Consejería Jurídica será responsable de la planeación orientada a resultados, con apego a lo establecido en la Ley de Planeación del Estado y serán responsables también del cumplimiento del programa sectorial a su cargo y de que los programas presupuestarios a través de los cuales se ejerce el gasto en la Consejería tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
+
+### CAPITULO III. De las Entidades Administrativas
 
 ###### ARTICULO 24.
 
@@ -188,6 +226,8 @@ Cada entidad administrativa ejercerá las partidas que de su presupuesto le asig
 Los titulares de las entidades administrativas serán responsables de la planeación orientada a resultados, con apego a lo establecido en la Ley de Planeación para el Estado y serán responsables también del cumplimiento del programa institucional a su cargo y de que los programas presupuestarios a través de los cuales se ejerce el gasto en la en la (sic) entidad administrativa a su cargo tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
 
 ## TITULO TERCERO. De la Administración Pública Paraestatal
+
+### CAPITULO ÚNICO. De la Administración Pública Paraestatal
 
 ###### ARTICULO 28.
 
@@ -364,3 +404,11 @@ P.O. 27 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 827 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Ejecutivo del Estado en un plazo que no deberá exceder los 60 días naturales a la entrada en vigor del presente Decreto, realizará las adecuaciones reglamentarias, de estructura orgánica y presupuestales para la conformación de la Consejería Jurídica, la cual quedará adscrita directamente a su cargo.
