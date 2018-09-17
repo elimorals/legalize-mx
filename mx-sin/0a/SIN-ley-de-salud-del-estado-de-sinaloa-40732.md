@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2018-05-04"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -901,9 +901,17 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deberá proceder a la descontaminación microbiana o parasitaria, desinfección, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPÍTULO II. DE LAS ENFERMEDADES NO TRANSMISIBLES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO III. DE LOS ACCIDENTES
+### CAPÍTULO I BIS. DE LA VACUNACIÓN
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 67 Bis.
+
+Toda persona residente en el territorio estatal tiene derecho a recibir de manera universal y gratuita, en cualquiera de las dependencias y entidades de la administración pública estatal del Sistema Estatal de Salud, las vacunas contenidas en el Programa de Vacunación Universal, independientemente del régimen de seguridad social o protección social al que pertenezca, de conformidad con lo establecido en el Capítulo II Bis del Título Octavo de la Ley General de Salud.
+
+### CAPÍTULO II. DE LAS ENFERMEDADES NO TRANSMISIBLES
 
 ###### Artículo 68.
 
@@ -935,9 +943,9 @@ En los lugares donde no existan clínicas del sector público, dicha autoridad d
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO III. DE LOS ACCIDENTES
 
-### CAPÍTULO II. LA ATENCIÓN MATERNO-INFANTIL
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 71.
 
@@ -971,13 +979,11 @@ III. De tránsito.
 
 Para mayor eficacia de las acciones a que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado, dicho Consejo, se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-### CAPÍTULO III. DE LOS SERVICIOS DE PLANIFICACIÓN FAMILIAR
+### CAPÍTULO II. LA ATENCIÓN MATERNO-INFANTIL
 
 ## TÍTULO QUINTO. PRESTACIÓN DE LOS SERVICIOS DE SALUD
 
-### CAPÍTULO IV. DE LA SALUD MENTAL
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO III. DE LOS SERVICIOS DE PLANIFICACIÓN FAMILIAR
 
 ###### Artículo 74.
 
@@ -1011,7 +1017,9 @@ II. Curativas, que tiene como fin efectuar un diagnóstico temprano y proporcion
 
 III. De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades.
 
-### CAPÍTULO V. DE LA SALUD PÚBLICA
+### CAPÍTULO IV. DE LA SALUD MENTAL
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 77.
 
@@ -1075,9 +1083,9 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias establec
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
-### CAPÍTULO VI. DE LA ASISTENCIA SOCIAL
+### CAPÍTULO V. DE LA SALUD PÚBLICA
 
-### CAPÍTULO VII. DE LOS PRESTADORES DE LOS SERVICIOS DE SALUD
+### CAPÍTULO VI. DE LA ASISTENCIA SOCIAL
 
 ###### Artículo 83.
 
@@ -1115,17 +1123,17 @@ Los Comités de Salud a que se refiere el artículo 137 de esta Ley, promoverán
 
 El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones de los programas Nacional y Estatal de planificación familiar formulados por los Consejos Nacional y Estatal de Población respectivamente, así como del elaborado sobre esta materia por el Sector Salud, buscando su incorporación al Programa Estatal de Salud.
 
+### CAPÍTULO VII. DE LOS PRESTADORES DE LOS SERVICIOS DE SALUD
+
 ### CAPÍTULO ÚNICO
 
 ### CAPÍTULO I. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD
-
-### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
 ###### Artículo 87.
 
 Las disposiciones relativas a las atribuciones de las autoridades y los derechos y obligaciones en materia de salud mental, serán reguladas por la Ley especifíca que al efecto se emita.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
 ###### Artículo 88.
 
@@ -1147,7 +1155,7 @@ Las disposiciones relativas a las atribuciones de las autoridades y los derechos
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS HUMANOS DE SINALOA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 93.
 
@@ -1155,7 +1163,7 @@ Salud pública es la ciencia y el arte de prevenir la enfermedad, prolongar la v
 
 Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria.
 
-### CAPÍTULO III. DEL REGISTRO ESTATAL DE DONADORES
+### CAPÍTULO II. DEL CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS HUMANOS DE SINALOA
 
 ###### Artículo 94.
 
@@ -1199,7 +1207,7 @@ VII. La promoción de la educación y la capacitación para el trabajo, así com
 
 La atención médica que se preste a los adultos mayores deberá cumplir con los criterios establecidos en la Ley de Integración Social de Personas con Discapacidad del Estado, las Normas Oficiales Mexicanas y demás disposiciones legales aplicables, e incluirá programas educativos y de promoción de la salud.
 
-### CAPÍTULO IV. DE LA PARTICIPACIÓN SOCIAL
+### CAPÍTULO III. DEL REGISTRO ESTATAL DE DONADORES
 
 ###### Artículo 98.
 
@@ -1273,7 +1281,7 @@ La Secretaría de Salud, en coordinación con la Dirección de Profesiones, vigi
 
 ## TÍTULO SEXTO. DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO
 
-### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
+### CAPÍTULO IV. DE LA PARTICIPACIÓN SOCIAL
 
 ###### Artículo 110.
 
@@ -1491,7 +1499,7 @@ La estructura orgánica interna de la Comisión será la que fije su Reglamento 
 
 ## TÍTULO SÉPTIMO. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACIÓN DE LA COMUNIDAD
 
-### CAPÍTULO II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
 
 ###### Artículo 127.
 
@@ -1537,7 +1545,9 @@ Las personas e instituciones públicas o privadas que tengan conocimiento de acc
 
 De conformidad con las disposiciones legales aplicables, los agentes del Ministerio Público o quienes ejerzan sus funciones que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
 
-### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
+### CAPÍTULO I BIS. DEL EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 134.
 
@@ -1605,9 +1615,15 @@ Cuando la denuncia se haga en forma verbal el responsable de la oficina o unidad
 
 La oficina mencionada o la autoridad sanitaria, según se trate, deberá proporcionar al denunciante copia del documento en el que conste la denuncia con sello de recepción. Una vez recibida la denuncia la oficina mencionada o la autoridad sanitaria, en su caso remitirá el escrito de denuncia en un término de no mayor de cinco días hábiles a la unidad administrativa competente, en la cual deberá informar al denunciante de la atención que se dé a la denuncia. En ningún caso se dará trámite a denuncia anónima.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 139 Bis.
+
+Se podrá denunciar ante las autoridades sanitarias y el Ministerio Público, las prácticas no autorizadas de cirugía plástica, estética y reconstructiva; así como todos aquellos servicios de salud que se realicen sin contar con la especialidad y certificación que requieran para su ejercicio.
+
 ## TÍTULO OCTAVO. DE LA DISPOSICIÓN DE ÓRGANOS Y TEJIDOS DE SERES HUMANOS
 
-### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
+### CAPÍTULO II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### Artículo 140.
 
@@ -1633,7 +1649,7 @@ III. Colaborar en la vigilancia sanitaria de los trasplantes, fomentando la coor
 
 Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos, auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
 ###### Artículo 144.
 
@@ -1737,7 +1753,7 @@ El Consejo podrá determinar la creación de comités y grupos de trabajo, tanto
 
 La integración de cada uno de los comités, así como su organización y funcionamiento, se sujetarán a lo que disponga el Reglamento Interno del Consejo.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
 
 ###### Artículo 150.
 
@@ -1759,7 +1775,7 @@ IV. Los establecimientos autorizados, conforme a la legislación aplicable, para
 
 Los establecimientos autorizados para la realización de trasplantes en casos específicos en que se encuentren ante un probable donador deberán solicitar y obtener información del Registro Estatal de Donadores, así como la disposición que el mismo hubiese hecho respecto de sus órganos y tejidos, con el objeto de proceder, en su caso y previo el cumplimiento de la legislación aplicable.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 153.
 
@@ -1783,7 +1799,7 @@ El Consejo Estatal de Trasplantes definirá la aplicación y los rubros en que s
 
 ## TÍTULO NOVENO. RECURSOS HUMANOS PARA LA SALUD
 
-### CAPÍTULO II. DE LOS MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO ÚNICO
 
 ###### Artículo 158.
 
@@ -1803,13 +1819,13 @@ La Dirección de Profesiones del Estado promoverá la creación de colegios, aso
 
 Asimismo, estimulará su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 160.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, terapia física, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, optometría, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la atención médica prehospitalaria, medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, optometría, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 ###### Artículo 161.
 
@@ -1817,13 +1833,45 @@ La Dirección de Profesiones del Estado proporcionará a las autoridades sanitar
 
 En virtud del convenio que celebren el Gobernador del Estado y el Ejecutivo Federal, en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado cuidará que se proporcione la información a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 162.
 
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de registro ante la autoridad sanitaria y la cédula profesional correspondiente. Iguales menciones deberán consignarse en documentos, papelería y publicidad que utilicen en el ejercicio de tales actividades.
+Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades médicas, deberán poner a la vista del público un anuncio que indique la institución que les expidió el Título, Diploma, número de su correspondiente cédula profesional y, en su caso, el Certificado de Especialidad vigente. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 162 Bis.
+
+Para la realización de cualquier procedimiento médico quirúrgico de especialidad, los profesionales que lo ejerzan requieren de:
+
+I. Cédula de especialista legalmente expedida por las autoridades educativas competentes; y
+
+II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, de acuerdo a la Lex Artis Ad Hoc de cada especialidad, expedido por el Consejo de la especialidad según corresponda, de conformidad con el artículo 81 de la Ley General de Salud.
+
+Los médicos especialistas podrán pertenecer a una agrupación médica, cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad; agrupaciones que se encargan de garantizar el profesionalismo y ética de los expertos en esta práctica de la medicina.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 162 Bis 1.
+
+La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, de conformidad con lo que establece el artículo 162 Bis de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 162 Bis 2.
+
+La oferta de los servicios que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética o reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad los requisitos que se mencionan en los artículos 162, 162 Bis, 162 Bis 1 de la presente Ley, y en el Capítulo Único del Título Décimo Tercero de la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 162 Bis 3.
+
+Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud, un directorio electrónico, con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional.
+
+### CAPÍTULO II. DE LOS MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 163.
 
@@ -1851,7 +1899,7 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 Las autoridades sanitarias estatales, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPÍTULO V. DE LA LIMPIEZA PÚBLICA
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### Artículo 168.
 
@@ -1895,7 +1943,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TÍTULO DÉCIMO. INVESTIGACIÓN PARA LA SALUD
 
-### CAPÍTULO VI. DE LOS RASTROS
+### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
 
 ###### Artículo 173.
 
@@ -1945,7 +1993,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ## TÍTULO DÉCIMO PRIMERO. INFORMACIÓN PARA LA SALUD
 
-### CAPÍTULO VII. DEL AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO V. DE LA LIMPIEZA PÚBLICA
 
 ###### Artículo 179.
 
@@ -1975,7 +2023,7 @@ Las autoridades sanitarias orientarán la captación, producción, procesamiento
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO VIII. DE LA PROSTITUCIÓN
+### CAPÍTULO VI. DE LOS RASTROS
 
 ###### Artículo 183.
 
@@ -1991,7 +2039,7 @@ Para los efectos del artículo anterior, se tomará en cuenta la distancia de ce
 
 ## TÍTULO DÉCIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPÍTULO IX. DE LOS RECLUSORIOS
+### CAPÍTULO VII. DEL AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 186.
 
@@ -2045,7 +2093,7 @@ B). Asistencia social.
 
 En todo lo no previsto en este Título, se estará a lo que disponga esta ley, los reglamentos respectivos, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO X. DE LOS BAÑOS PÚBLICOS
+### CAPÍTULO VIII. DE LA PROSTITUCIÓN
 
 ###### Artículo 194.
 
@@ -2059,7 +2107,7 @@ Los mercados y centros de abasto estarán bajo la vigilancia de la autoridad com
 
 Los vendedores, locatarios y personal cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar en esos lugares las condiciones higiénicas indispensables para el debido mantenimiento de sus locales.
 
-### CAPÍTULO XI. DE LOS CENTROS DE REUNIÓN Y DE ESPECTÁCULOS
+### CAPÍTULO IX. DE LOS RECLUSORIOS
 
 ###### Artículo 197.
 
@@ -2101,7 +2149,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando se contravengan algunas de las disposiciones anteriores o las del reglamento respectivo, la autoridad sanitaria competente podrá, previo cumplimiento de los requisitos legales respectivos, ordenar la suspensión de las obras o su demolición apoyándose en las demás autoridades competentes.
 
-### CAPÍTULO XII. DE LAS PELUQUERÍAS, SALONES DE BELLEZA O DE ESTÉTICA
+### CAPÍTULO X. DE LOS BAÑOS PÚBLICOS
 
 ###### Artículo 207.
 
@@ -2131,7 +2179,7 @@ I. Cuando se trate de cadáveres de personas que hubieren padecido enfermedades 
 
 II. Cuando el traslado se pretenda realizar después de las cuarenta y ocho horas posteriores a la muerte de que se trata.
 
-### CAPÍTULO XIII. DE LOS HOTELES, MOTELES, PENSIONES Y CASAS DE HUÉSPEDES
+### CAPÍTULO XI. DE LOS CENTROS DE REUNIÓN Y DE ESPECTÁCULOS
 
 ###### Artículo 211.
 
@@ -2153,7 +2201,7 @@ Los animales muertos deberán ser incinerados o enterrados antes de que entren e
 
 Los residuos sólidos se recibirán de preferencia en transportes dotados de caja hermética y su manejo será sólo en lo estrictamente indispensable para transportarse al sitio de disposición final.
 
-### CAPÍTULO XIV. DE LAS TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
+### CAPÍTULO XII. DE LAS PELUQUERÍAS, SALONES DE BELLEZA O DE ESTÉTICA
 
 ###### Artículo 216.
 
@@ -2179,7 +2227,7 @@ El sacrifico (sic) de animales en los rastros autorizados se efectuará en los d
 
 El funcionamiento, aseo y conservación de los rastros municipales, estará a cargo de la autoridad municipal competente. Si fueren particulares, quedarán a cargo de las personas responsables de realizarlo y bajo la inspección de las autoridades competentes. En ambos casos, quedarán sujetos a la observancia de lo dispuesto por esta Ley, reglamentos y normas técnicas aplicables. Queda prohibido el funcionamiento de rastros no autorizados por la autoridad sanitaria competente.
 
-### CAPÍTULO XV. DE LOS MEDIOS DE TRANSPORTE PÚBLICO
+### CAPÍTULO XIII. DE LOS HOTELES, MOTELES, PENSIONES Y CASAS DE HUÉSPEDES
 
 ###### Artículo 222.
 
@@ -2213,7 +2261,7 @@ Los proyectos para la implantación del sistema de alcantarillado deberán ser d
 
 Queda prohibido que los desechos o líquidos que produzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-### CAPÍTULO XVI. DE LAS GASOLINERAS
+### CAPÍTULO XIV. DE LAS TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
 
 ###### Artículo 230.
 
@@ -2239,7 +2287,7 @@ El ayuntamiento, considerando el dictamen sanitario de la Secretaría de Salud d
 
 El Ayuntamiento podrá revocar las autorizaciones cuando se dejen de cumplir o se inflijan las disposiciones de esta Ley y los reglamentos respectivos, o por causas de interés público.
 
-### CAPÍTULO XVII. DE LA COMERCIALIZACIÓN Y VENTA DE ALIMENTOS Y BEBIDAS EN LA VÍA PÚBLICA
+### CAPÍTULO XV. DE LOS MEDIOS DE TRANSPORTE PÚBLICO
 
 ###### Artículo 233.
 
@@ -2253,7 +2301,7 @@ Los reclusorios estarán sujetos al control sanitario de los Gobiernos Estatal o
 
 Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes, con un departamento de baños y otro de enfermería, este último para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
 
-### CAPÍTULO XVIII. DE LOS CENTROS ANTIRRÁBICOS
+### CAPÍTULO XVI. DE LAS GASOLINERAS
 
 ###### Artículo 236.
 
@@ -2263,9 +2311,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
 
-### CAPÍTULO XIX. DE LOS GIMNASIOS
-
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+### CAPÍTULO XVII. DE LA COMERCIALIZACIÓN Y VENTA DE ALIMENTOS Y BEBIDAS EN LA VÍA PÚBLICA
 
 ###### Artículo 238.
 
@@ -2281,7 +2327,7 @@ La autoridad municipal, una vez terminada la edificación del centro de reunión
 
 El funcionamiento de los establecimientos a que se refiere el artículo 238 deberá ajustarse a lo dispuesto por las disposiciones legales aplicables, y contará con los servicios de seguridad e higiene que establezcan las normas correspondientes.
 
-### CAPÍTULO I. DE LAS AUTORIZACIONES
+### CAPÍTULO XVIII. DE LOS CENTROS ANTIRRÁBICOS
 
 ###### Artículo 241.
 
@@ -2295,6 +2341,10 @@ Está prohibido utilizar productos de belleza no autorizados ni registrados por 
 
 Los procedimientos de embellecimiento del cuerpo humano, son aquellos que se utilizan para modificar las características externa (sic) y superficiales, mediante la aplicación de substancias, productos o preparados de uso externo, los destinados a incrementar la belleza del cuerpo humano o mejorar su apariencia física y en lo que no haya intervención quirúrgica o la aplicación de cualquier procedimiento de atención médico.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
+Queda prohibido realizar procedimientos médicos o cirugía plástica, estética y reconstructiva en peluquerías, salones de belleza, estéticas u otras similares. El cumplimiento de lo anterior, será vigilado por las autoridades sanitarias, quienes podrán imponer las sanciones correspondientes y denunciar ante las autoridades competentes.
+
 ###### Artículo 244.
 
 Los establecimientos cubiertos y descubiertos dedicados al fisicoculturismo, a ejercicios aeróbicos o deportes en general, deberán acreditar para su funcionamiento que sus instructores y profesores, tengan la preparación técnica o profesional reconocida por alguna institución del sistema educativo nacional.
@@ -2303,7 +2353,9 @@ Los establecimientos cubiertos y descubiertos dedicados al fisicoculturismo, a e
 
 El funcionamiento de los establecimientos mencionados en el artículo anterior y el personal que en ellos labore, deberán apegarse a lo señalado en esta Ley y demás normas aplicables.
 
-### CAPÍTULO II. DE LOS CERTIFICADOS
+### CAPÍTULO XIX. DE LOS GIMNASIOS
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 246.
 
@@ -2319,7 +2371,7 @@ III. Casa de huéspedes o pensión: casa donde se albergan personas para vivir e
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO I. DE LAS AUTORIZACIONES
 
 ###### Artículo 248.
 
@@ -2335,7 +2387,7 @@ III. Lavadero público: el establecimiento al cual acuden los interesados para r
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a cualquiera de los servicios señalados en el artículo anterior, así como para su funcionamiento, se requiere de contar con autorización sanitaria, misma que se expedirá cuando el solicitante haya satisfecho los requisitos que establezcan las normas aplicables.
 
-### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO II. DE LOS CERTIFICADOS
 
 ###### Artículo 250.
 
@@ -2349,7 +2401,7 @@ Los transportes que circulen en el interior de un solo municipio, deberán conta
 
 Los transportes que circulen por más de un municipio del territorio estatal, deberán contar con la autorización sanitaria correspondiente que será expedida por el Gobierno del Estado, una vez cubiertos los requisitos que marca esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 253.
 
@@ -2359,7 +2411,7 @@ Para los efectos de esta Ley, se entiende por gasolinera el establecimiento dest
 
 Las gasolineras deberán contar con las instalaciones de seguridad e higiene que establezca el Reglamento correspondiente, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 255.
 
@@ -2371,7 +2423,7 @@ El comercio ambulante de alimentos y bebidas en la vía pública, deberá sujeta
 
 La Secretaría de Salud y los ayuntamientos se coordinarán para llevar a efecto el control sanitario del comercio ambulante de alimentos y bebidas en la vía pública.
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 257.
 
@@ -2403,7 +2455,7 @@ Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campaña
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2008)</small>
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 259 Bis.
 
@@ -2472,6 +2524,8 @@ En todos los casos en que cambiara la persona del profesor o profesora responsab
 Queda totalmente prohibido, en los establecimientos antes mencionados la venta o suministro de medicamentos, sustancias anabólicas, esteroideas y bebidas alcohólicas, también se prohíbe la realización a menores de doce años, de ejercicios, trabajos o toda actividad que implique sobrecargas, maquinas de fuerza o pesas, salvo autorización expresa de un profesional público.
 
 ## TÍTULO DÉCIMO CUARTO. AUTORIZACIONES Y CERTIFICACIONES
+
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 260.
 
@@ -2576,6 +2630,8 @@ La autoridad sanitaria emitirá la resolución que corresponda al concluir la au
 ###### Artículo 276.
 
 La resolución de revocación surtirá sus efectos, en su caso, de clausura definitiva, prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### Artículo 277.
 
@@ -3226,3 +3282,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Poder Ejecutivo del Estado dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior del Consejo Estatal de Nutrición y Combate al Sobrepeso y Obesidad.
 
 TERCERO. El Consejo Estatal sobre Nutrición y Combate al Sobrepeso y Obesidad deberá ser integrado dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 821 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 829 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE ADICIONA AL TÍTULO CUARTO, EL CAPÍTULO I BIS Y EL ARTÍCULO 67 BIS, DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
