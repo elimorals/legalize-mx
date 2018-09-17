@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2018-06-29"
+last_updated: "2018-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -697,9 +697,11 @@ I. Dirigir el gobierno y la administración pública municipal y proponer al Ayu
 
 II. Presidir las sesiones y dirigir los debates del Ayuntamiento, tomando parte en las deliberaciones con voz y voto;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-III. Rendir en la primera sesión ordinaria del mes de diciembre, un informe por escrito ante el Cabildo sobre la situación que guarda la administración municipal, del cual se enviará copia al Ejecutivo y al Congreso del Estado para su conocimiento.
+III. Rendir en la primera sesión ordinaria del mes de octubre, un informe por escrito ante el Cabildo sobre la situación que guarda la administración municipal, del cual se enviará copia al Ejecutivo y al Congreso del Estado para su conocimiento.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2008)</small>
 
 Las Comisiones del Cabildo realizarán el análisis del informe y podrán solicitar al Presidente Municipal dentro de los quince días siguientes ampliar la información mediante pregunta por escrito y citar a los miembros de la Administración Pública Municipal, quienes comparecerán y rendirán informes bajo protesta de decir verdad. El ejercicio de estas atribuciones se realizará de conformidad con el reglamento que para tal efecto se emita;
 
@@ -1942,3 +1944,9 @@ P.O. 29 DE JUNIO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor a partir del día primero de noviembre del 2018.
 
 SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 830 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 38, DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
