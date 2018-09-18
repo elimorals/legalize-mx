@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-de-cultura-66478"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-27"
-last_updated: "2009-01-27"
+last_updated: "2018-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE CULTURA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE CULTURA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA DEL GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 18 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA DEL ESTADO DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 27 de enero de 2009.
 
@@ -1358,3 +1360,13 @@ ING ROBERTO VÁZQUEZ DÍAZ
 EL SECRETARIO DE CULTURA
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR”.]
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se abroga el Decreto Administrativo mediante el cual se expidió el Reglamento Interior de la Secretaría de Cultura, publicado en la edición extraordinaria del Periódico Oficial del Estado del día 27 de enero de 2009, y se derogan todas las disposiciones de igual o menor rango que se opongan al presente.
