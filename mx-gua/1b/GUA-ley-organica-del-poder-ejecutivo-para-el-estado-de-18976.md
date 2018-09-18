@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2017-11-03"
+last_updated: "2018-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -311,6 +311,10 @@ l) Organizar y controlar lo concerniente al Registro Civil, así como al Registr
 
 m) Solicitar a la Secretaría de Seguridad Pública el apoyo de las fuerzas de seguridad pública, cuando lo considere necesario para el cumplimiento de sus atribuciones;
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+n) Capacitar a los miembros electos del Ayuntamiento, cuando así lo soliciten previo a la toma de protesta del cargo respectivo, en relación a las competencias constitucionales y legales, así como de las atribuciones a ejercer;
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
 II.- En materia jurídica:
@@ -375,7 +379,9 @@ d) Establecer la demarcación y conservar los límites del Estado; así como se�
 
 e) Tramitar lo relacionado con los nombramientos y reelecciones de los Magistrados del Supremo Tribunal de Justicia en el orden que conforme a la Ley le corresponda al Poder Ejecutivo del Estado; así como lo concerniente al Consejero del Poder Judicial que le corresponda proponer;
 
-f) Tramitar los nombramientos, licencias y renuncias de los Magistrados del Tribunal de lo Contencioso Administrativo;
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+f) Enviar al Congreso del Estado, la propuesta del Gobernador, relativa al nombramiento de los Magistrados del Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
 g) (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
@@ -2034,3 +2040,9 @@ El presente decreto entrara en vigencia el día siguiente al de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Las instituciones de educación, centros y entidades referidas en el contenido del presente Decreto que de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica deberán emitir y hacer pública su normatividad institucional en un plazo no mayor de 180 días, contado a partir de la publicación del presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 328, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23, FRACCIÓN IV, INCISO F) Y SE ADICIONA AL ARTÍCULO 23, FRACCIÓN 1 (SIC), UN INCISO N) DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, ASIMISMO SE ADICIONA AL ARTÍCULO 16 UN TERCER PÁRRAFO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
