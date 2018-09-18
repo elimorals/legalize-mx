@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-tribunal-de-justicia-administrativa-del-122037
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-20"
-last_updated: "2018-07-20"
+last_updated: "2018-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -200,6 +200,10 @@ Las faltas definitivas de los Magistrados se comunicarán de inmediato al Gobern
 El Pleno del Tribunal de Justicia Administrativa del Estado de Guanajuato podrá conceder licencias con goce de sueldo a los Magistrados, cuando no excedan de un mes en un año y las que excedan de ese tiempo, solamente podrán concederse sin goce de sueldo hasta por seis meses improrrogables.
 
 En el supuesto de incapacidad por enfermedad o accidente, el Pleno del Tribunal de Justicia Administrativa del Estado de Guanajuato podrá otorgar licencia con goce de sueldo hasta por el término de seis meses.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+El Pleno del Tribunal de Justicia Administrativa del Estado de Guanajuato tramitará ante el Congreso del Estado las licencias mayores a seis meses, así como la separación y renuncia al cargo de Magistrado.
 
 ###### Artículo 17.
 
@@ -872,3 +876,9 @@ P.O. 20 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 86 DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO, Y DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO.”]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 328, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23, FRACCIÓN IV, INCISO F) Y SE ADICIONA AL ARTÍCULO 23, FRACCIÓN 1, UN INCISO N) DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, ASIMISMO SE ADICIONA AL ARTÍCULO 16 UN TERCER PÁRRAFO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
