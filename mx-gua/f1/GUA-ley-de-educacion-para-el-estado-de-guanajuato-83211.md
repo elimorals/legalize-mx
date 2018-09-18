@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2018-05-29"
+last_updated: "2018-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -1315,9 +1315,13 @@ XLVIII. Participar en la realización, en forma periódica y sistemática, de ex
 
 XLIX. Vigilar que las autoridades escolares en instituciones educativas, tratándose de educación básica, cumplan con las normas de control escolar, las cuales deberán facilitar la inscripción, reinscripción, promoción, regularización, acreditación y certificación de estudios de los educandos; y
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-L. Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+L. Implementar las acciones necesarias a fin de evitar el ausentismo, abandono y la deserción escolar, y establecer los mecanismos para notificar a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes de los casos identificados conforme a la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Guanajuato; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+LI. Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -2740,3 +2744,11 @@ P.O. 29 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 306 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 123 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 327, EXPEDIDO POR LA SEXÁGESIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN L Y SE ADICIONA LA FRACCIÓN LI DEL ARTÍCULO 77, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Ejecutivo del Estado, a través de la Secretaría de Educación, deberán, (sic) establecerá los mecanismos necesarios para la aplicación del presente decreto, dentro de los seis meses posteriores a su entrada en vigencia.
