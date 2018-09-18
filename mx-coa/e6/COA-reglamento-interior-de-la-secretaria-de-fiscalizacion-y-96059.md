@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-fiscalizacion-y-96059"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-24"
-last_updated: "2013-09-24"
+last_updated: "2018-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1576 +21,2246 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1965.
 
-Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de septiembre de 2013.
+Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
-RUBÉN IGNACIO MOREIRA VALDEZ, Gobernador Constitucional del Estado de Coahuila de Zaragoza, en ejercicio de las facultades que me confieren los artículos 82 fracción XVIII y 85 párrafo tercero de la Constitución Política del Estado de Coahuila de Zaragoza, y los artículos 6, 9 apartado A fracción XIV de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, y
+Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
-C O N S I D E R A N D O...
+"LAZARO CARDENAS, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-En este sentido tengo a bien emitir el siguiente:
+Que en el ejercicio de las facultades extraordinarias de que me hallo investido para legislar en materia de Seguros, por Decreto del H. Congreso de la Unión, de fecha 29 de diciembre de 1934, he tenido a bien expedir la siguiente
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO PRELIMINAR
 
-### CAPÍTULO I. COMPETENCIA Y ORGANIZACIÓN DE LA SECRETARÍA
+### CAPITULO UNICO
 
-###### ARTÍCULO 1.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-El presente reglamento tiene por objeto regular la organización y el funcionamiento de la Secretaría de Fiscalización y Rendición de Cuentas, su observancia es de carácter general y obligatorio para toda la administración pública estatal.
+###### ARTICULO 1°.
 
-###### ARTÍCULO 2.
+Son instituciones de seguros:
 
-La Secretaría de Fiscalización y Rendición de Cuentas es la dependencia estatal encargada de la verificación, supervisión, control y evaluación del ejercicio gubernamental; del cumplimiento de las disposiciones legales en materia contabilidad gubernamental, de adquisiciones, arrendamientos, entrega - recepción contratación de servicios, obras públicas y servicios relacionados con las mismas; de dictar las medidas preventivas y correctivas necesarias de conformidad con la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, y de implementar las políticas públicas en materia desarrollo (sic), modernización, innovación administrativa y acceso a la información pública.
+I.- Las instituciones nacionales de seguros;
 
-Las atribuciones legales que le corresponden a la Secretaría de Fiscalización y Rendición de Cuentas le son conferidas por la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza, la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza, Ley de Entrega-Recepción del Estado y Municipios de Coahuila de Zaragoza y demás disposiciones jurídicas vigentes en el estado.
+II.- Las sociedades mexicanas privadas autorizadas para practicar operaciones de seguros; y
 
-###### ARTÍCULO 3.
+III.- Las sucursales de compañías extranjeras de seguros autorizadas para operar en la República conforme a esta Ley.
 
-Para efectos del presente reglamento, se entenderá por:
+###### ARTICULO 2°.
 
-I. Titular del Ejecutivo: El Gobernador Constitucional del Estado de Coahuila de Zaragoza;
+Son instituciones nacionales de seguros las constituídas con intervención del Estado Federal, bien que éste suscriba la mayoría del capital, bien que, aun en el caso de no hacerlo, el Estado se reserve el derecho de nombrar la mayoría de los miembros del Consejo de Administración o de la Junta Directiva, o de aprobar o vetar las resoluciones que la Asamblea o el Consejo tomen.
 
-II. Congreso: El Congreso del Estado de Coahuila de Zaragoza;
+Las instituciones nacionales de seguros se regirán por sus leyes especiales y, a falta de estas leyes o cuanto en ellas no esté previsto, por lo que estatuye la presente.
 
-III. Titular: La o el titular de la Secretaría de Fiscalización y Rendición de Cuentas;
+Compete exclusivamente a la Secretaría de Hacienda y Crédito Público, la adopción de todas las medidas relativas a la creación y al funcionamiento de instituciones nacionales de seguros.
 
-IV. Secretaría: La Secretaría de Fiscalización y Rendición de Cuentas;
+Queda prohibido el uso de la palabra "nacional" en la denominación de las instituciones de seguros que no sean de las comprendidas en este artículo.
 
-V. El Estado: El Estado de Coahuila de Zaragoza;
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1954)</small>
 
-VI. Ley Orgánica: La Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza;
+###### ARTICULO 2°.
 
-VII. Dependencias: Las Secretarías del ramo y sus órganos desconcentrados y aquellas que sean creadas de conformidad con la Ley Orgánica;
+bis.- Son Organizaciones Auxiliares de Seguros los Consorcios formados por instituciones de seguros autorizadas con objeto de prestar a cierto sector de la actividad económica un servicio de seguros de manera sistemática, a nombre y por cuenta de dichas instituciones aseguradoras, o celebrar en representación de las mismas los contratos de reaseguro o coaseguro necesarios para la mejor distribución de los riesgos.
 
-VIII. Entidades Paraestatales: Los organismos públicos descentralizados estatales, las empresas de participación estatal, las sociedades o asociaciones asimiladas a estos, los fideicomisos públicos estatales y los organismos públicos que con ese carácter sean creados conforme a la Ley Orgánica;
+Para la constitución de los consorcios y el ejercicio de sus operaciones se requiere autorización previa que se otorgará a juicio del Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público.
 
-IX. Procuraduría General de Justicia: La Procuraduría General de Justicia del Estado;
+Los Consorcios tendrán por único objeto actuar como Instituciones Auxiliares de Seguros en los términos del primer párrafo de este artículo y quedarán sometidos a la inspección y vigilancia de la Secretaría de Hacienda y Crédito Público.
 
-X. CompraNet: Sistema electrónico de adquisiciones y contrataciones gubernamentales.
+Los Consorcios y sus operaciones se regirán por los preceptos de esta Ley que les sean aplicables, o en su caso, por las disposiciones reglamentarias que expida el Ejecutivo Federal.
 
-###### ARTÍCULO 4.
+Los Consorcios tendrán personalidad jurídica para actuar conforme a este artículo y las instituciones de seguros que los construyen se obligarán en los términos y proporciones que pacten.
 
-Para el ejercicio de los asuntos que le competen a la Secretaría habrá al frente un titular, quien se auxiliará de las siguientes unidades administrativas:
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
 
-I. El Despacho del o la Titular
+###### ARTICULO 3°.
 
-II. Subsecretaría de Auditoría Gubernamental y Desarrollo Administrativo;
+En materia de actividad aseguradora:
 
-III. Subsecretaría de Auditoría de Obra Pública y Programas Sociales;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1952)</small>
 
-IV. Coordinación General de Asuntos Jurídicos; y
+I.- Se prohibe a toda persona física y a toda persona jurídica que no tenga el carácter legal de institución de seguros, la práctica de cualquier operación activa de seguros en territorio mexicano.
 
-V. Coordinación Administrativa.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
 
-###### ARTÍCULO 5.
+II.- Se prohibe contratar con empresas extranjeras:
 
-La Secretaría conducirá sus actividades en forma programada, orientada a servir a la comunidad con base en las políticas, estrategias, prioridades y restricciones que establezca el titular del Ejecutivo para el logro de los objetivos, metas y programas de la planeación estatal de desarrollo.
+1).- Seguros de personas cuando el asegurado se encuentre en la República al celebrarse el contrato;
 
-Los servidores públicos de la Secretaría y, en su caso, los profesionistas, consultores y auditores externos que coadyuven en el cumplimiento de las funciones de verificación y vigilancia, deberán guardar la confidencialidad de los programas y resultados de auditoría y la estricta reserva sobre la información y documentos que con motivo de sus actuaciones generen y de toda aquella a la que tengan acceso.
+2).- Seguros sobre bienes que se transporten de territorio mexicano a territorio extranjero, o viceversa, cuando los riesgos queden a cargo de personas domiciliadas en el país. Las Instituciones de crédito no otorgarán créditos comerciales cuando se hubiere pactado el seguro en contravención a lo dispuesto en este inciso;
 
-###### ARTÍCULO 6.
+3).- Seguros de cascos de naves o aeronaves y de cualquier clase de vehículos, contra riesgos propios del Ramo de Marítimo y Transportes siempre que dichas naves, aeronaves o vehículos sean de matrícula mexicana o propiedad de personas domiciliadas en la República;
 
-La atención y el servicio que ofrece la Secretaría estarán basados en principios de calidad y transparencia y tendrá como finalidad la satisfacción del público en general dentro de las facultades que el marco normativo otorga a la Secretaría.
+4).- Seguros de crédito cuando el asegurado esté sujeto a la legislación mexicana;
 
-###### ARTÍCULO 7.
+5).- Seguros contra la responsabilidad civil derivada de eventos que puedan ocurrir en la República; y
 
-La atención y servicio que ofrece la Secretaría se realizará de lunes a viernes en un horario de las ocho a las dieciséis horas excepto los días considerados como inhábiles o alguna otra disposición en contrario.
+6).- Seguros de los demás ramos de daños, contra riesgos que pueden ocurrir en territorio mexicano;
 
-###### ARTÍCULO 8.
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1952)</small>
 
-Los documentos que se presenten para su atención en la Secretaría se entregarán en el área denominada oficialía de partes quien a su vez la turnará a la unidad administrativa que corresponda.
+III.- Sin embargo, cuando ninguna de las empresas aseguradoras autorizadas para operar en el país, pueda o estime conveniente realizar determinada operación de seguro que se le hubiere propuesto, la Secretaría de Hacienda y Crédito Público, previa comprobación de estas circunstancias, podrá discrecionalmente otorgar una autorización específica para que la persona que necesite el seguro lo contrate exclusivamente por conducto de una “institución de seguros”, con una empresa extranjera.
 
-La papelería se recibirá únicamente en un horario que comprende de las ocho a las quince horas.
+(REFORMADA, D.O.F. 5 DE ENERO DE 1952) (F. DE E., D.O.F. 28 DE ENERO DE 1952)
 
-###### ARTÍCULO 9.
+IV.- Se prohibe a toda persona la intermediación en las operaciones a que se refieren las fracciones I y II que anteceden.
 
-Corresponde originalmente a la o el Titular la representación de la Secretaría, así como el trámite y resolución de los asuntos de su competencia. Para la mejor distribución, ejecución y desarrollo de sus funciones, podrá delegar las facultades que así lo permita el presente reglamento en los servidores públicos subalternos de la Secretaría.
+V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1956)
 
-La o el Titular podrá, en todo tiempo, ejercer directamente las facultades que este reglamento confiere a las unidades administrativas de la Secretaría, así como aquellas que haya delegado mediante el acuerdo respectivo.
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-Toda delegación de facultades deberá hacerse por escrito.
+###### ARTICULO 4°.
 
-###### ARTÍCULO 10.
+No se considerarán instituciones de seguros sujetas a la presente ley, las asociaciones de personas, especialmente las cajas y uniones de seguros de los organismos profesionales, que sin expedir pólizas o contratos, concedan a sus miembros seguros en caso de muerte o beneficios en el de enfermedad; pero estarán sujetas a una reglamentación que expedirá la Secretaría de Hacienda y Crédito Público, donde se fijarán las bases para que, cuando por le número de asociados, por la frecuencia e importancia de los seguros que concedan y de los siniestros pagados, la misma Secretaría ordene a estas mutualidades que se ajusten a las disposiciones de la presente ley, convirtiéndose en instituciones de seguros.
 
-Son atribuciones de la o el Titular:
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-I. Emitir las disposiciones, reglas y bases de carácter general, normas y lineamientos para el ejercicio de las atribuciones que las leyes otorgan a la Secretaría, así como fijar, dirigir y controlar su política, en los términos de la legislación aplicable de conformidad con los objetivos, estrategias y lineamientos del Plan Estatal de Desarrollo, y aquellas que expresamente determine el titular del Ejecutivo;
+###### ARTICULO 5°.
 
-II. Acordar con el titular del Ejecutivo los asuntos encomendados a la Secretaría y desempeñar las comisiones y funciones específicas que le confiera, así como mantenerlo informado sobre el desarrollo y cumplimiento de las mismas;
+Para que las sucursales de compañías extranjeras de seguros puedan operar en el país, deberán satisfacer los siguientes requisitos:
 
-III. Someter a la consideración y aprobación del titular del Ejecutivo los programas específicos a cargo de la Secretaría previstos en el Plan Estatal de Desarrollo y encomendar a sus unidades administrativas la ejecución de los mismos;
+I.- Cumplir con los preceptos sobre sociedades extranjeras contenidos en la Ley General de Sociedades Mercantiles.
 
-IV. Proponer al titular del Ejecutivo por conducto de la Consejería Jurídica los proyectos de iniciativas de leyes, así como los proyectos de reglamentos, decretos, acuerdos y órdenes sobre los asuntos de la competencia de la Secretaría;
+II.- Obtener la autorización del Gobierno Federal a que se refieren los artículos 1o. y 11, conforme a lo dispuesto en el artículo 12, para lo cual deberán demostrar que tienen cinco años de funcionamiento normal y que se encuentran habilitadas para operar de acuerdo con las leyes de su país de origen.
 
-V. Comparecer ante el Congreso, siempre que sea requerido para ello y previa anuencia del titular del Ejecutivo, para informar del estado que guarda la Secretaría, así como cuando se discuta una iniciativa de ley o se estudie un asunto concerniente a las actividades de la propia Secretaría;
+Los apoderados residentes en la República deberán estar autorizados para representar a la sociedad sin limitación de facultades y para realizar todos los actos de un apoderado general, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil del Distrito y Territorios Federales. Las sociedades extranjeras no podrán repartir en caso alguno a sus asegurados en México, dividendos que no provengan de las utilidades que obtengan por las operaciones que efectúen en el país, y deberán sujetarse a las disposiciones de esta ley que les sean aplicables, respecto a distribución de utilidades.
 
-VI. Refrendar, para los efectos legales correspondientes, las leyes y decretos que expida el Congreso y que sean promulgados por el titular del Ejecutivo, así como los reglamentos, decretos, acuerdos y circulares que éste expida, en los asuntos de competencia de la Secretaría;
+Deberán llevar, en su domicilio social en la República, los libros exigidos para todo comerciante y, además, los auxiliares de registro indispensables, debiendo conservar copia de las pólizas expedidas en el país y todos los documentos relacionados con su negocio, a fin de que la Secretaría pueda mantener un completo control en las inspecciones que se practiquen y sobre los informes que suministren.
 
-VII. Proponer al titular del Ejecutivo los lineamientos y políticas que orienten la colaboración entre la Secretaría con la Auditoría Superior del Estado de Coahuila, con la Secretaría de la Función Pública del Gobierno Federal y con los órganos internos de control de los gobiernos municipales, para el mejor cumplimiento de sus respectivas responsabilidades;
+Las instituciones extranjeras autorizadas para operar en el país no podrán expedir pólizas de seguros sino por conducto de su sucursal respectiva.
 
-VIII. Proponer al titular del Ejecutivo la organización y funcionamiento de la Secretaría y adscribir orgánicamente sus unidades administrativas, así como conferir atribuciones adicionales a las determinadas por este reglamento y que sean necesarias para el despacho de los asuntos competencia de la Secretaría;
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-IX. Expedir el Manual de Organización de la Secretaría, así como aprobar y expedir los demás manuales de procedimientos para el mejor funcionamiento de la Secretaría;
+III.- Afectar a sus operaciones en la República el capital mínimo que les fije la Secretaría de Hacienda y Crédito Público en los términos del artículo 20. Las sucursales de compañías extranjeras deberán constituir e invertir en los términos de esta Ley su capital, reservas de capital, utilidades no distribuídas y reservas técnicas y deberán mantener siempre en disponibilidad, dentro de la República, en los términos que esta Ley establece, todos los bienes, títulos, créditos o valores afectos a estos renglones.
 
-X. Acordar el nombramiento de los servidores públicos adscritos a la Secretaría y, en su caso, resolver sobre la remoción de los mismos; asimismo gestionar la creación de plazas y promoción del personal en base a las necesidades del servicio;
+###### ARTICULO 6°.
 
-XI. Representar a la Secretaría ante las autoridades diversas del orden federal, estatal o municipal con las facultades inherentes a un poder general para actos de administración, conforme a las disposiciones civiles y administrativas aplicables;
+Las instituciones de seguros extranjeras sólo podrán publicar los datos de contabilidad relativos a su sucursal en la República, y en ningún caso se hará referencia al capital o a las reservas de su oficina matriz.
 
-XII. Otorgar poderes y demás actos jurídicos de naturaleza análoga, que tengan por objeto el cumplimiento de las facultades de la Secretaría, conforme a lo dispuesto por las disposiciones legales aplicables;
+###### ARTICULO 7°.
 
-XIII. Supervisar las funciones que desempeñen las unidades administrativas y los servidores públicos bajo su directa subordinación;
+El uso de las palabras "seguro," "reaseguro," "aseguramiento" u otras similares en cualquier idioma, en la denominación de un establecimiento o de una sociedad, se reserva exclusivamente a las instituciones de seguros. Las sucursales de instituciones de seguros del extranjero autorizadas para operar en México podrán usar en su denominación esos términos, agregando la palabra "sucursal," con indicación del lugar en que operen. El Registro Público de Comercio no inscribirá escrituras públicas de sociedades en cuya denominación se empleen dichas palabras o sus equivalentes, en español o en cualquier otro idioma, sino cuando la escritura aparezcan insertos los documentos oficiales que comprueben la existencia de la autorización otorgada por la Secretaría de Hacienda. El uso ilegal de dichas palabras u otras equivalentes, en español o en cualquier otro idioma, se castigará por la Secretaría de Hacienda y Crédito con multa de $500.00 a $1,000.00 a cada uno de los gerentes, directores o miembros del Consejo de Administración del establecimiento o sociedad correspondiente, y la negociación respectiva será clausurada administrativamente por la Secretaría de Hacienda y Crédito Público, hasta que su denominación sea cambiada.
 
-XIV. Canalizar los asuntos correspondientes a la Subsecretaría de Auditoría de Obra Pública y Programas Sociales, Subsecretaría de Auditoría Gubernamental y Desarrollo Administrativo, a la Coordinación Administrativa y a la Coordinación General de Asuntos Jurídicos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1947)</small>
 
-XV. Designar los comisarios y órganos de vigilancia de las entidades, así como a los titulares de los órganos de control interno de las dependencias;
+###### ARTICULO 8°.
 
-XVI. Aprobar el proyecto de presupuesto de egresos de la Secretaría y presentarlo a la Secretaría de Finanzas de conformidad con las disposiciones aplicables;
+Los Poderes de la Federación y de los Estados, los gobiernos del Distrito y de los Territorios federales, los municipios, los establecimientos descentralizados, las sociedades de economía mixta y las comisiones autónomas deberán celebrar sus contratos de seguro, indistintamente con las instituciones nacionales o mexicanas de seguros y, en su defecto, con las sucursales de empresas extranjeras autorizadas para operar en el país, salvo disposición contraria de la Ley del Seguro Social.
 
-XVII. Suscribir convenios y contratos necesarios para el ejercicio de las atribuciones de la Secretaría que la misma celebre con otras dependencias y entidades paraestatales, con los gobiernos federal, estatales o municipales, asimismo con instituciones públicas o privadas, y con personas físicas o morales;
+Los seguros a que se refiere este artículo se contratarán exclusivamente con la mediación del organismo que para este objeto establezca la Secretaría de Hacienda y Crédito Público.
 
-XVIII. Informar periódicamente al titular del Ejecutivo sobre el resultado de la evaluación de las dependencias y entidades paraestatales que hayan sido objeto de fiscalización, así como sobre la ejecución y avances de los programas específicos a cargo de la Secretaría;
+###### ARTICULO 9°.
 
-XIX. Resolver sobre los recursos administrativos que se interpongan contra los actos, resoluciones y, en general, las determinaciones tomadas por la o el propio Titular, así como las demás que legalmente le correspondan;
+Cuando una institución aseguradora pretenda traspasar su cartera a otra institución autorizada, someterá a la aprobación de la Secretaría de Hacienda y Crédito Público el proyecto de contrato de traspaso, y una vez aprobado, la misma Secretaría dirigirá a cada uno de los asegurados solicitando su consentimiento expreso para que se realice el traspaso. Si se logra la conformidad del 80% de los asegurados, la propia Secretaría autorizará administrativamente la celebración del contrato. Los asegurados inconformes pueden liquidar o cancelar sus pólizas con la institución cesionaria. El contrato de traspaso deberá inscribirse, en todo caso, en el Registro Público de Comercio.
 
-XX. Emitir su opinión sobre la creación, modificación o supresión de dependencias y entidades de la administración pública estatal conforme a lo dispuesto en la Ley Orgánica;
+Para la fusión de dos o más instituciones aseguradoras, en una nueva, se seguirá el mismo procedimiento señalado en los párrafos anteriores.
 
-XXI. Resolver las dudas que se susciten internamente con motivo de la interpretación o aplicación de este reglamento, así como los casos no previstos en el mismo; y
+###### ARTICULO 10.
 
-XXII. Las demás que las leyes le confieran y las que les señalen las disposiciones legales aplicables, así como las que le encomiende el titular del Ejecutivo.
+Para los efectos de esta Ley se entiende:
 
-## TÍTULO SEGUNDO. DEL DESPACHO
+I.- Por coaseguro, la participación de dos o más instituciones de seguros en un mismo riesgo, en virtud de contratos directos realizados por cada una de ellas con el asegurado;
 
-### CAPÍTULO II. DE LA ATENCIÓN Y SERVICIO QUE OFRECE LA SECRETARÍA
+II.- Por reaseguro, el contrato en virtud del cual una institución toma a su cargo total o parcialmente un riesgo ya cubierto por otra o el remanente de daños que exceda de la cantidad asegurada por el asegurador directo;
 
-###### ARTÍCULO 11.
+III.- Por contraseguro, el convenio en virtud del cual una institución de seguros se obliga a reintegrar al contratante las primas o cuotas satisfechas o cubiertas, cuando se cumplan determinadas condiciones.
 
-Al frente de cada subsecretaría, coordinación general y coordinación estará una o un titular, respectivamente, quien tendrá las facultades y obligaciones que le atribuyan este reglamento y las demás disposiciones aplicables, así como aquellas que expresamente le sean delegadas por la o el Titular en la esfera de su competencia.
+## TITULO I. De las instituciones de seguros
 
-Las o los titulares tendrán competencia para realizar sus funciones en todo el territorio del estado y para el mejor ejercicio de éstas, se auxiliarán de las unidades administrativas que tengan adscritas y del personal técnico y administrativo requerido atendiendo a la organización interna de la Secretaría y al presupuesto de egresos correspondiente.
+### CAPITULO I. De las autorizaciones y de la organización
 
-Las subsecretarías, la coordinación general y la coordinación tendrán, en el ejercicio de sus atribuciones, igual rango y entre ellas no habrá preeminencia alguna.
+SECCION 1a.
 
-###### ARTÍCULO 12.
+De las autorizaciones
 
-A los titulares de las subsecretarías, de la coordinación general y de la coordinación les corresponden las siguientes facultades y obligaciones generales:
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-I. Acordar con la o el Titular los asuntos relevantes de las unidades administrativas adscritas a su cargo y responsabilidad;
+###### ARTICULO 11.
 
-II. Conducir en el área de su adscripción la política de administración interna que apruebe la o el Titular;
+El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público y oyendo la opinión de la Comisión Nacional de Seguros, otorgará discrecionalmente las autorizaciones para que se constituyan y operen en materia de seguros, las sociedades que llenen los requisitos que establece la Sección 2a. de este capítulo.
 
-III. Desempeñar las funciones y comisiones que el titular del Ejecutivo, la o el Titular les delegue y encomiende informando sobre el desarrollo de sus actividades;
+Las autorizaciones se referirán a las siguientes operaciones:
 
-IV. Vigilar que se dé cumplimiento a los ordenamientos legales y a las disposiciones reglamentarias o administrativas que resulten aplicables en el despacho de los asuntos de su competencia;
+a). Vida;
 
-V. Coordinar las labores y actividades encomendadas a su cargo, estableciendo mecanismos de integración e interrelación con las demás unidades administrativas de la Secretaría, que propicien la colaboración y el óptimo desarrollo de las atribuciones y funciones que les correspondan;
+b). Accidentes y enfermedades; y
 
-VI. Planear, programar, organizar, dirigir, controlar y evaluar las actividades y el funcionamiento de sus unidades administrativas;
+c). Daños.
 
-VII. Formular los anteproyectos de programas de trabajo y de presupuesto de egresos correspondientes al área de su adscripción y someterlos a la consideración de la o el Titular;
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-VIII. Dictar las medidas necesarias para mejorar el funcionamiento de las unidades administrativas que se les adscriban y proponer a la o el Titular la expedición de acuerdos delegatorios que convengan para el idóneo y expedito despacho de los asuntos a su cargo;
+Las autorizaciones para practicar operaciones de daños se otorgarán para alguno o algunos de los siguientes ramos: responsabilidad civil y riesgos profesionales; marítimo y transportes; incendio; agrícola; automóviles; crédito; y diversos.
 
-IX. Suscribir los documentos relativos al ejercicio de las facultades y atribuciones que legal y reglamentariamente les correspondan y aquellos que les sean señalados por delegación o suplencia;
+Podrán otorgarse autorizaciones para practicar exclusivamente el reaseguro, en alguna o algunas de las operaciones mencionadas en este artículo.
 
-X. Proporcionar, de conformidad con las instrucciones de la o el Titular, la asesoría y cooperación técnica que les sean requeridas por las dependencias y entidades paraestatales o municipales, de acuerdo con las normas, políticas y lineamientos aplicables;
+Para que una institución de seguros pueda practicar varias de las operaciones a que se refiere este artículo, deberá tener autorización del Gobierno Federal para cada una de ellas, y en su caso, para cada ramo.
 
-XI. Proponer a la o el Titular de acuerdo a las necesidades propias de sus actividades las modificaciones a la estructura orgánica de las unidades administrativas que se le adscriban, a efecto de crear, modificar o suprimir áreas, así como el ingreso, promoción, remoción, cese y licencias del personal a su cargo;
+Las autorizaciones, por su propia naturaleza, son intransmisibles.
 
-XII. Solicitar, la información y documentos que requieran para el despacho de los asuntos que correspondan a sus atribuciones;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XIII. Turnar los expedientes con la información, documentación y demás elementos necesarios a las autoridades competentes, así como los resultados de las operaciones que se hayan practicado incluyendo las recomendaciones y sugerencias derivadas de las mismas;
+###### ARTICULO 12.
 
-XIV. Certificar las copias de los documentos y constancias cuyos originales obren en sus archivos y les sean requeridas a instancia de parte legítima en los términos de la legislación aplicable, o sea requerida para trámites que deban seguirse ante autoridad competente; y
+El procedimiento para obtener las autorizaciones se sujetará a las reglas siguientes:
 
-XV. Las demás que las leyes les confieran y las que les señalen las disposiciones legales aplicables, así como las que les encomiende el titular del Ejecutivo y la o el Titular.
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-###### ARTÍCULO 13.
+1a.- Las solicitudes se presentarán ante la Secretaría de Hacienda y Crédito Público, con los siguientes anexos:
 
-Cada dirección general y dirección contará con un titular, quien se auxiliará, según corresponda, de las directoras o los directores de área, subdirectoras o subdirectores, jefas o jefes de departamento, y demás personal técnico y administrativo que requiera y sea determinado por acuerdo de la o el Titular, conforme a las necesidades del servicio y a la autorización previa en el presupuesto de egresos correspondiente, atendiendo a la organización interna de las subsecretarías, coordinación general y coordinación.
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-###### ARTÍCULO 14.
+a). Proyecto de escritura constitutiva de la Sociedad.
 
-A los o las titulares de las direcciones generales y de las direcciones, además del despacho de los asuntos que se señalan en el presente reglamento, previo acuerdo con los titulares de las subsecretarías, de la coordinación general y de la coordinación de su área, les corresponden el ejercicio de las siguientes facultades generales:
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-I. Planear, programar, presupuestar, organizar, dirigir, controlar y evaluar el desarrollo de los programas y acciones encomendadas a la unidad administrativa a su cargo;
+b). Comprobante de haber constituído en la Nacional Financiera, S. A., en efectivo o en los valores mencionados en el artículo 86, a su valor de mercado, un depósito igual al 10% de la cifra mínima que como capital señala el artículo 20 a las sociedades anónimas, según las operaciones o ramos en que se pretenda operar. Independientemente de que la sociedad por constituir sea mutualista o anónima, o se trate de sucursal de compañía extranjera deberá llenarse este requisito para que pueda iniciarse el trámite de la solicitud. El depósito quedará a disposición de la Secretaría de Hacienda y Crédito Público y se devolverá cuando se niegue la autorización solicitada o cuando habiéndose otorgado, se compruebe la inscripción de la sociedad en el Registro Público de Comercio y la iniciación de sus operaciones;
 
-II. Presentar al titular del área de su adscripción los proyectos y estudios que elaboren las áreas administrativas a su cargo, así como los acuerdos y resoluciones que llegaren a emitirse en el ejercicio de las atribuciones encomendadas;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-III. Emitir los dictámenes, opiniones e informes de los asuntos que sean propios de su competencia;
+c). En caso de que se trate de sucursales a que se refiere el artículo 5°., los apoderados de la sociedad extranjera, deberán obligar expresamente en su solicitud a sus poderdantes, a responder ilimitadamente con todos sus bienes y no sólo con los que se encuentren en la República, sometiéndose exclusivamente a las leyes mexicanas y a la jurisdicción de los tribunales del país, en todos los negocios efectuados dentro del Territorio Nacional, en la inteligencia de que el compromiso y la sumisión a que éste capítulo se refiere, serán en beneficio de todas las personas que puedan tener créditos o acciones a cargo de la institución, por operaciones o negocios realizados dentro de la República, o para ser cumplidos en ésta.
 
-IV. Asesorar técnicamente en asuntos de su especialidad a los servidores públicos de la Secretaría así como a las dependencias y entidades paraestatales y a los municipios, a solicitud de los mismos;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-V. Recabar de las dependencias y entidades de la administración pública estatal, así como de las unidades administrativas de la propia Secretaría, la información necesaria para el ejercicio de las funciones que les competen;
+2a.- Si se otorga la autorización, la Secretaría de Hacienda y Crédito Público, hará las observaciones que procedan al proyecto de escritura constitutiva o bien le otorgará su aprobación, comunicándolo al solicitante dentro de los 15 días hábiles siguientes a la fecha de la autorización.
 
-VI. Participar en la elaboración de los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones legales de carácter general, relacionadas con los asuntos de su competencia, así como las adiciones o modificaciones que se estimen necesarias;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-VII. Certificar copias de documentos y constancias cuyos originales obren en su poder;
+3a.- De la escritura constitutiva se exhibirá testimonio para que la Secretaría de Hacienda en el término de 15 días hábiles, otorgue la aprobación o haga las observaciones pertinentes cuando no se ajuste al proyecto aprobado y hechas que sean las modificaciones, se exhibirá nuevo testimonio para su aprobación que se otorgará en igual plazo. De ésta se remitirá copia al Registro Público del Comercio para su inscripción, sin que se requiera mandamiento judicial.
 
-VIII. Dirigir, coordinar, supervisar y evaluar el desempeño de los servidores públicos que estén a su cargo, e intervenir en la designación y promoción de conformidad con los manuales correspondientes y demás disposiciones aplicables, así como promover su capacitación permanente para el desarrollo profesional y la mejora continua en la prestación de sus servicios;
+(REFORMADA, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
-IX. Coordinar las labores y actividades encomendadas a su cargo con las demás unidades administrativas de la Secretaría, de conformidad con los mecanismos de integración e interrelación establecidos en la Secretaría;
+4a.- Toda autorización que se otorgue, quedará sujeta a la condición suspensiva de la inscripción de la Sociedad en el Registro Público del Comercio.
 
-X. Informar de las actividades realizadas por la dirección a su cargo y someterlos a consideración del superior jerárquico, cuando éste lo requiera;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-XI. Delegar en los funcionarios adscritos a su área, para la mejor organización del trabajo, cualquiera de sus facultades, excepto aquéllas que según el titular de la Secretaría y su superior inmediato deban ser ejercidas por él mismo, y;
+5a.- No podrán inscribirse en dicho Registro escrituras constitutivas de sociedades cuyo objeto sea operar en materia de seguros, si no se insertan los documentos oficiales que comprueben haberse otorgado la autorización de la Secretaría de Hacienda y si no ha recibido el Registrador o no se le exhibe, la aprobación de la escritura, otorgada conforme a la regla tercera.
 
-XII. Las demás que las leyes les confieran y las que les señalen las disposiciones legales aplicables, así como las que les encomiende la o el Titular o su superior inmediato.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-###### ARTÍCULO 15.
+6a.- Cualquiera posterior modificación a la escritura constitutiva, deberá ser sometida a la aprobación de la Secretaría de Hacienda. Otorgada ésta, se enviará copia al Registro Público del Comercio para que se haga la inscripción sin requerirse mandamiento judicial.
 
-Para el eficaz desarrollo de sus actividades el Despacho del o la Titular contará con las unidades administrativas siguientes:
+Cualquiera reforma en la constitución y funcionamiento de sociedades extranjeras con sucursales autorizadas en el país, será dada a conocer a la Secretaría de Hacienda para que se cumplan las disposiciones legales aplicables.
 
-I. Dirección de Control de Gestión y Seguimiento.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-II. Jefa o Jefe de la Oficina del Secretario.
+7a.- Las inscripciones en el Registro Público del Comercio de escrituras para las cuales no se haya obtenido la aprobación de la Secretaría de Hacienda y Crédito Público que esta ley requiere; no producirán efectos legales.
 
-III. Dirección de Vinculación.
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-IV. Dirección de Informática.
+###### ARTICULO 13.
 
-###### ARTÍCULO 16.
+Son causas de revocación de las autorizaciones:
 
-La Dirección de Control de Gestión y Seguimiento para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-I. Atender y dar seguimiento a los asuntos turnados a la o el Titular;
+I.- No presentar para la aprobación de la Secretaría de Hacienda, el testimonio de su escritura constitutiva, dentro de los treinta días hábiles siguientes a la aprobación del proyecto o a las observaciones hechas en cumplimiento de las reglas segunda y tercera del artículo anterior.
 
-II. Administrar el directorio personal y ejecutivo de la o el Titular;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-III. Articular los procesos administrativos de gestión, correspondencia y archivo entre las diversas áreas de la Secretaría;
+II.- No presentar para su aprobación a la misma Secretaría, los documentos a que se refiere el artículo 24, en el término de sesenta días hábiles siguientes a la fecha en que se comunique la aprobación de la escritura.
 
-IV. Mantener informado a la o el Titular sobre el avance de gestión que lleve cada asunto a su cargo;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-V. Realizar las acciones de gestoría que le encomiende la o el Titular;
+III.- No iniciar sus operaciones dentro de los sesenta días hábiles siguientes a la fecha en que se comunique la aprobación de los documentos a que se refiere el artículo 24.
 
-VI. Atender, tramitar y dar seguimiento a la correspondencia dirigida a la o el Titular, levantando constancia por escrito del trámite realizado;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-VII. Coordinar y dar seguimiento a las instrucciones de la o el Titular a las diversas áreas de la Secretaría;
+IV.- El hecho de no constituir dentro de los diez días de haber sido notificada, las reservas especiales para obligaciones pendientes de cumplir, que se ordenen de acuerdo con lo dispuesto por la parte final del artículo 135 de esta ley.
 
-VIII. Mantener coordinación permanente con la Jefa o el Jefe de la Oficina del Secretario para realizar de manera eficiente las tareas que le sean encomendadas;
+(REFORMADA, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
-IX. Canalizar los asuntos a las áreas de la dependencia de acuerdo a las instrucciones específicas del jefe inmediato;
+V.- La falta de acatamiento a las observaciones de la Secretaría de Hacienda para que la institución no exceda los límites legales de las obligaciones que pueda contraer, para que no ejecute operaciones distintas de aquellas para las cuales está facultada por su autorización y por las disposiciones legales correspondientes, o bien que la sociedad no mantenga su capital mínimo y sus reservas o las inversiones respectivas, en los términos de esta ley.
 
-X. Gestionar ante las áreas de la dependencia la atención de asuntos emergentes, por instrucciones de la o el Titular;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-XI. Recibir y revisar los asuntos presentados por los titulares de las áreas de la dependencia y que haya que tratar con la o el Titular, a fin de presentar un informe de asuntos pendientes; y,
+VI.- Constituir alguna sucursal o agencia en el extranjero, sin la previa autorización de la Secretaría de Hacienda.
 
-XII. Las demás que las leyes le confieran y las que le señalen las disposiciones legales aplicables, así como las que les asigne la o el Titular.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-###### ARTÍCULO 17.
+VII.- La modificación por la sociedad de su forma de constitución o de las reglas de su funcionamiento, en contravención a las disposiciones legales.
 
-Para el cumplimiento de su objeto, la Jefa o el Jefe de la Oficina del Secretario tendrá las siguientes atribuciones:
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-I. Coordinar, integrar y controlar la agenda de trabajo diaria de la o el Titular;
+VIII.- Las modificaciones que una sociedad extranjera haya introducido a su constitución o a su funcionamiento, siempre que la Secretaría de Hacienda considere inconveniente que la sucursal en México de dicha sociedad, continúe operando dentro del nuevo regimen de su matriz.
 
-II. Atender, tramitar y dar seguimiento a las invitaciones dirigidas a la o el Titular, levantando constancia por escrito del trámite realizado;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-III. Coordinar las audiencias diarias que llegue a tener el o la Titular;
+IX.- El hecho de que la institución obre sin consentimiento de la Secretaría de Hacienda y Crédito Público, en los casos en que esta ley exija ese consentimiento.
 
-IV. Llevar un control sobre los asuntos del Despacho de la o el Titular que hayan sido desahogados y seguir, en su caso, el proceso de los que se encuentren en trámite;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-V. Orientar y coordinar las acciones de difusión, comunicación y prensa de la Unidad de Enlace de Comunicación Social; y
+X.- Que la institución se disuelva o entre en estado de liquidación.
 
-VI. Las demás que las leyes le confieran y las que le señalen las disposiciones legales aplicables, así como las que les asigne la o el Titular.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-###### ARTÍCULO 18.
+XI.- Cuando la institución quiebre, pero si el procedimiento termina en rehabilitación, la Secretaría de Hacienda podrá discrecionalmente, mantener en vigor, la autorización con las modalidades que estime a bien imponer.
 
-Para el cumplimiento de su objetivo, la Dirección de Vinculación tendrá las siguientes atribuciones:
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
 
-I. Revisar la correspondencia recibida en el Despacho de la o el Titular y turnarla al área que corresponda para su debida atención;
+XII.- Que tratándose de sucursales de una sociedad extranjera, la mayoría de las acciones de ésta pasen a poder de un gobierno extranjero, o que tratándose de una sociedad mexicana se infrinja lo establecido en el último párrafo de la fracción I del artículo 17, o que la institución establezca con las entidades o grupos mencionados en dicho párrafo, relaciones evidentes de dependencia.
 
-II. Realizar las acciones de gestoría diversa que le encomiende la o el Titular;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-III. Dar seguimiento puntual de los acuerdos con las subsecretarías y direcciones que le reportan a la o el Titular;
+XIII.- Que la institución haga gestiones por conducto de una cancillería extranjera.
 
-IV. Recibir, revisar y canalizar los documentos oficiales que sean remitidos para firma de la o el Titular por los titulares de las dependencias y entidades paraestatales u otras instancias;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-V. Dar seguimiento a la correspondencia que llega a la Secretaría;
+XVI.- Cualquiera otra causa establecida en la ley.
 
-VI. Acordar con la o el Titular la documentación recibida en el Despacho para su consideración y, en su caso, aprobación;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-VII. Revisar y reportar el avance de los objetivos generales e indicadores del Plan Estatal de Desarrollo;
+###### ARTICULO 14.
 
-VIII. Dar seguimiento al progreso del Programa Sectorial de Modernización Administrativa, Fiscalización y Rendición de Cuentas;
+La revocación se dictará por la Secretaría de Hacienda previa audiencia de la institución afectada, se inscribirá en el Registro Público del Comercio, previa orden de la misma Secretaría y producirá los siguientes efectos:
 
-IX. Desarrollo del informe de gobierno correspondiente a esta Secretaría;
+I.- Incapacitará a la sociedad para otorgar cualquier seguro a partir de la fecha en que se notifique la revocación.
 
-X. Elaboración del documento de comparecencia de la o el Titular ante el Congreso del Estado;
+II.- Si no se hubiere efectuado la inscripción de la sociedad en el Registro Público del Comercio, no podrá ya efectuarse y el depósito a que se refiere la regla primera del anterior artículo 12, se aplicará al Gobierno Federal.
 
-XI. Seguimiento del sistema de acuerdos con el titular del Ejecutivo;
+III.- La sociedad se pondrá inmediatamente en estado de liquidación en los términos del Título IV de esta ley, salvo cuando la causa de la revocación, sea precisamente que la institución entre en estado de liquidación.
 
-XII. Recopilar documentos e información para las reuniones de gabinete;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-XIII. Coordinar solicitudes de información requeridas por la Comisión Permanente de Contralores Estados - Federación;
+###### ARTICULO 15.
 
-XIV. Elaboración de material de apoyo para eventos de la o el Titular;
+En los casos de las fracciones X y XI del artículo 13, la Secretaría de Hacienda puede dictar la revocación sin audiencia de la institución afectada.
 
-XV. Coordinar el proyecto de Gobierno Abierto del Gobierno del Estado;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-XVI. Logística de eventos que preside la o el Titular;
+###### ARTICULO 16.
 
-XVII. Revisión y validación del segmento correspondiente al Despacho, del Manual de Organización; y,
+Se publicarán en el “Diario Oficial”:
 
-XVIII. Las demás que las leyes le confiera y las que le señalen las disposiciones legales aplicables, así como las que les asigne la o el Titular.
+I.- Las autorizaciones para que se constituyan y operen a su amparo, las instituciones de seguros.
 
-###### ARTÍCULO 19.
+II.- Los permisos para que la sociedad inicie sus operaciones, los que se expedirán en cuanto se hubieren llenado los requisitos que para el efecto señala este Capítulo.
 
-Para el cumplimiento de su objeto, la Dirección de Informática tendrá las siguientes atribuciones:
+III.- Las revocaciones de las autorizaciones.
 
-I. Desarrollar y poner a consideración de su superior jerárquico, el plan anual de informática;
+En los dos primeros casos, la publicación será a costa de los interesados y en el tercero, gratuita.
 
-II. Llevar a cabo la operación, mantenimiento preventivo y correctivo de los sistemas, equipos de cómputo y telecomunicaciones de su competencia;
+SECCION 2a.
 
-III. Concentrar, resguardar, mantener y operar las bases de datos de los diferentes sistemas de información con que cuenten las unidades administrativas de la Secretaría, definiendo las normas, disposiciones, prevenciones, lineamientos y medidas que considere necesarias, con el fin de garantizar la integridad, seguridad y disponibilidad de las mismas;
+De la organización
 
-IV. Realizar estudios y evaluaciones de las innovaciones técnicas de sistemas de informática para sugerir los cambios pertinentes en las dependencias, entidades paraestatales y la Procuraduría General de Justicia;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-V. Establecer y mantener actualizado un sistema de información, sobre las actividades realizadas por las dependencias, entidades paraestatales y la Procuraduría General de Justicia, en materia de informática;
+###### ARTICULO 17.
 
-VI. Elaborar y proponer las normas técnicas y criterios de aplicación a que deberá sujetarse la planeación, programación y evaluación de las acciones que en materia de informática lleven a cabo las dependencias, entidades paraestatales y la Procuraduría General de Justicia;
+Las sociedades anónimas que tengan por objeto operar como instituciones de seguros privadas, o nacionales, deberán ser constituídas con arreglo a lo que dispone la Ley General de Sociedades Mercantiles, en cuanto no esté previsto en esta Ley, y particularmente, a las siguientes bases:
 
-VII. Proponer a la o el Titular las medidas tendientes al mejoramiento, modernización e innovación de servicios y sistemas informáticos de la Secretaría; así como la reingeniería y estandarización de los procesos administrativos de la misma;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-VIII. Revisar, verificar y evaluar a las dependencias, entidades paraestatales y la Procuraduría General de Justicia, con respecto a la utilización de equipos de informática, sus accesorios, y normatividad vigente, para su correcta adecuación con el Plan Estatal de Informática;
+I.- Estarán facultadas para emitir acciones no suscritas que se conservarán en la caja de la sociedad y que serán entregadas a los suscriptores contra el pago total de su valor nominal y de las primas que la sociedad fije, en su caso, pudiendo la misma sociedad, cuando el pago se haga en exhibiciones, expedir a los suscriptores certificados provisionales, en los que se harán constar las exhibiciones que el suscriptor cubra. También podrán establecerse sociedades con capital variable, pero en este caso el capital mínimo que exige esta Ley estará siempre representado por acciones sin derecho a retiro. La escritura constitutiva y, en su defecto, las resoluciones relativas a la Asamblea General, determinarán la forma, términos y condiciones en que deberá hacerse la emisión de las acciones y en que podrá ejercitarse el derecho de retiro. Los tenedores de acciones con derecho a retiro deberán tener facultad, por lo menos, para nombrar a dos de los consejeros y a un comisario de la sociedad, siempre que el capital pagado sobre tales acciones represente más del quince por ciento del capital exhibido de una sociedad. Aun cuando las acciones con derecho a retiro estén divididas en varias series, se considerarán como formando una sola para la designación de consejeros. El importe del capital pagado por las acciones sin derecho a retiro se hará constar en todos los documentos de la sociedad en que aparezca mencionado el capital social;
 
-IX. Coordinar los trabajos necesarios para la formulación del Plan Estatal de Informática;
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
 
-X. Diseñar, desarrollar e implementar sistemas que permitan hacer más eficiente el uso de los recursos informáticos del Gobierno del Estado;
+En ningún momento podrán participar en forma alguna en el capital de estas sociedades, gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, o agrupaciones de personas extranjeras, físicas o morales, sea cual fuere la forma que revistan, directamente o a través de interpósita persona.
 
-XI. Vigilar, regular y asegurar el crecimiento adecuado de los sistemas de información en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XII. Revisar, verificar y evaluar el uso de licencias y la utilización de programas de informática y programas de cómputo en las dependencias y las entidades paraestatales;
+II.- El capital exhibido en las sociedades de capital fijo, o el importe pagado sobre las acciones sin derecho a retiro en las sociedades de capital variable, deberá ser, desde el momento de la constitución de la sociedad, igual por lo menos al del capital mínimo, de acuerdo con la autorización;
 
-XIII. Asistir técnicamente en la coordinación y desempeño de la Comisión de Informática del Gobierno del Estado;
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-XIV. Asistir técnicamente en los proyectos de modernización que contemplen aspectos computacionales para su desarrollo;
+III.- Las acciones podrán ser pagadas en exhibiciones que en ningún caso serán menores del 20% del valor nominal de la acción, y cuya periodicidad no excederá de un año, sin perjuicio de lo dispuesto en la fracción anterior;
 
-XV. Administrar el sitio central de información e infraestructura de telecomunicaciones de la Secretaría;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-XVI. Instalar, configurar y administrar el portal de transmisión en vivo de las licitaciones que se lleven a cabo en el Gobierno del Estado;
+IV.- Deberá celebrarse una Asamblea General Ordinaria cada año, por lo menos, y en la escritura se establecerá el derecho de socios que representen, por lo menos, el 10% del capital pagado, para pedir que se convoque a asamblea extraordinaria. Si el Consejo no expidiere la convocatoria pedida, señalando un plazo no mayor de un mes a contar de la fecha en que reciba la petición para la reunión de la Asamblea, el Comisario, a moción de los accionistas interesados, expedirá la convocatoria en los mismos términos en que el Consejo deberá hacerlo;
 
-XVII. Proveer el servicio y la capacitación en materia de transmisión en vivo de las licitaciones;
+V.- Podrá estipularse que la duración de la sociedad sea indefinida; pero no podrá ser inferior a 30 años. La sociedad sólo podrá tener por objeto el funcionamiento como institución de seguros, en los términos de esta Ley;
 
-XVIII. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría;
+VI.- Todas las asambleas y juntas directivas se celebrarán en el domicilio social, debiendo estar éste siempre dentro del territorio de la República;
 
-XIX. Establecer las bases y directrices para la organización, administración, funcionamiento y coordinación de los archivos públicos de la Secretaría.
+VII.- En la escritura deberán estipularse las bases para que en todos los acuerdos de la Asamblea Genera de Accionistas, así como en la designación de los miembros del Consejo de Administración, tengan representación las minorías. Las decisiones que se refieran a la disolución de la Compañía, a su fusión con otras sociedades, a su cambio de objeto, el aumento o reducción de capital y a cualquier otra reforma a la escritura o a los estatutos, deberán tomarse, cuando menos, con una mayoría de 80% del capital pagado, salvo que se trate de segunda convocatoria, caso en el cual las resoluciones podrán tomarse cualquiera que sea el número de votos representados.
 
-XX. Normar y regular la administración de los documentos que integrarán la base de datos del Sistema Informático para el Control de Archivos Públicos (SICAP); y,
+La escritura constitutiva establecerá que cuando haya una sola serie de acciones sin derecho a retiro, todo accionista o grupo de accionistas asistente a la asamblea y tenedor de acciones de esa serie, podrá nombrar un consejero siempre que representen por lo menos, el 15% del capital pagado por dichas acciones. Cuando en la sociedad haya más de una serie de acciones sin derecho a retiro, el derecho a nombrar consejero sólo podrá ser ejercitado, salvo pacto en contrario, si la representación del 15 % se tiene en acciones de la misma serie; pero si se estipula que cada serie puede designar un cierto número de consejeros, los grupos minoritarios dentro de cada serie, tendrán el derecho de nombrar un consejero, siempre que representen, por lo menos, una parte de las acciones de la serie, igual al cociente que resulte de dividir el número total de dichas acciones entre el número de consejeros que deban corresponder a la serie de que se trate.
 
-XXI. Las demás que las leyes le confiera, o le deleguen la o el Titular, dentro de la esfera de sus atribuciones.
+Los accionistas que estén en minoría y posean acciones sin derecho a retiro, deberán nombrar un comisario siempre que sus acciones representen, por lo menos, el 10% del capital pagado.
 
-###### ARTÍCULO 20.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-Corresponde a la Subsecretaría de Auditoría Gubernamental y Desarrollo Administrativo, además de las señaladas en el artículo 12 del presente ordenamiento, las siguientes:
+VIII.- Las cláusulas de la escritura social relativas al reparto de utilidades, deberán declarar que no se decretará dividendo alguno si no existen los fondos disponibles para hacer su pago inmediato, después de haber separado de las utilidades que arroje la cuenta de pérdidas y ganancias, formada de acuerdo con lo que previene esta ley y aprobada por la Secretaría de Hacienda y Crédito Público, un 10% por lo menos, para la constitución de un fondo ordinario de reserva, hasta que éste iguale por lo menos, a la mitad del capital social suscrito. Tampoco podrá repartirse dividendo alguno a los asegurados y a los accionistas, mientras no se haya integrado debidamente la reserva de previsión ordenada por esta ley o mientras haya déficit en el capital mínimo o en las otras reservas técnicas de la Institución.
 
-I. Formular con el apoyo de las áreas de su adscripción el programa anual de trabajo y someterlo a la consideración de la o el Titular para su aprobación;
+IX.- La disolución y liquidación de la sociedad deberá efectuarse de acuerdo con lo que dispone el título IV.
 
-II. Establecer, organizar y coordinar el sistema de control de la gestión gubernamental para dar seguimiento y evaluar el ejercicio del gasto público estatal y el cumplimiento de los planes, programas, metas y proyectos de inversión de las dependencias, entidades paraestatales y la Procuraduría General de Justicia;
+Las disposiciones contenidas en las dos fracciones anteriores serán aplicables, en lo conducente, a las sucursales de instituciones de seguros del extranjero.
 
-III. Proponer las normas de carácter general, lineamientos y políticas que rijan el sistema de control y evaluación de la gestión gubernamental, así como aquellas relativas a la supervisión y auditoría de las dependencias, entidades paraestatales y la Procuraduría General de Justicia, así como las guías para la realización de revisiones de control y auditorías;
+###### ARTICULO 18.
 
-IV. Ordenar, conforme a los programas de trabajo de la Secretaría, las evaluaciones, revisiones, fiscalizaciones, certificaciones, peritajes y auditorías a las dependencias, las entidades paraestatales y a la Procuraduría General de Justicia con el propósito de verificar el cumplimiento de los objetivos de sus programas, la normatividad y procedimientos establecidos;
+Cuando las instituciones de seguros se organicen como sociedades mutualistas, el contrato social deberá otorgarse ante notario, ajustarse a las siguientes bases y registrarse en la forma prevista en la Ley de Sociedades Mercantiles:
 
-V. Ordenar que se lleven a cabo labores de inspección, vigilancia, evaluación, verificación, fiscalización, auditoría y supervisión, directamente o en coordinación con los órganos internos de control de las dependencias, las entidades paraestatales y de la Procuraduría General de Justicia, a efecto de:
+I.- El objeto de la sociedad se limitará al funcionamiento como institución de seguros, en los términos de esta Ley;
 
-a. Verificar que se cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad;
+II.- La responsabilidad social de los mutualizados se limitará a cubrir su parte proporcional en los gastos de gestión de la sociedad, salvo lo que se previene en este mismo artículo para el caso de ajustes totales de siniestros;
 
-b. Verificar el cumplimiento de las disposiciones legales y reglamentarias relativas a la contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la administración pública estatal;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-c. Comprobar que la información financiera refleje en forma razonable sus situación conforme a los principios de contabilidad gubernamental y los generalmente aceptados en la materia que le sean aplicables; y
+III.- El domicilio de la sociedad deberá estar siempre dentro del territorio de la República y su duración podrá ser indefinida;
 
-d. Proponer las acciones preventivas y correctivas necesarias para el mejoramiento de la eficiencia y el logro de sus objetivos.
+IV.- El nombre de la sociedad deberá expresar su carácter de mutualista y la naturaleza de las diversas especies de riesgo asegurado;
 
-VI. Vigilar que las dependencias, las entidades paraestatales y la Procuraduría General de Justicia cumplan con las disposiciones contenidas en los acuerdos y convenios celebrados entre la federación y el estado, el estado y los municipios de Coahuila de Zaragoza y con otras entidades federativas de los que se derive la inversión de fondos federales o estatales distintos de obra pública y programas sociales en la entidad, así como supervisar la correcta aplicación de los mismos según corresponda;
+V.- El número de los mutualizados, cuando se trate del ramo de vida, no podrá ser inferior de 300 individuos, ni de $300,000.00, la suma asegurada. Cuando la mutualidad opere en cualquier otro de los ramos del seguro, el mínimo del valor asegurado no será inferior a $500,000.00 o a $5,000.00 el monto total de las primas que deban ser pagadas en el primer año;
 
-VII. Coordinarse con los responsables de las dependencias y las entidades paraestatales auditadas, a fin de que desde el inicio del proceso de planeación de las auditorías (primer requerimiento de información) se aporte la información de manera completa, ordenada y oportuna;
+VI.- El contrato deberá contener las siguientes estipulaciones sobre:
 
-VIII. Dirigir y supervisar en el ámbito de competencia el desarrollo de las auditorías practicadas a las dependencias, las entidades paraestatales y a la Procuraduría General de Justicia por los auditores externos, con el objeto de que las observaciones sean atendidas y solventadas oportunamente;
+a). La cuantía del fondo social exhibido y la forma de amortizarlo;
 
-IX. Coadyuvar con la Auditoria Superior del Estado, Auditoría Superior de la Federación y la Secretaría de la Función Pública Federal, en el ámbito de competencia, en el desarrollo de las auditorias practicadas al Ejecutivo, y verificar que las observaciones sean atendidas y solventadas oportunamente;
+b). Los nombres, apellidos, domicilios y demás generales de los mutualizados, con indicación de los valores asegurados por cada uno de ellos y las cifras de sus cuentas;
 
-X. Solicitar a las dependencias, las entidades paraestatales y a la Procuraduría General de Justicia, la información que forme parte de la contabilidad y de los archivos generales, necesarios para la práctica de las auditorías e investigaciones que realice la Subsecretaría;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-XI. Proponer a la o el Titular la designación de comisarios en los organismos públicos descentralizados y fideicomisos que forman parte de la administración pública estatal;
+c). El máximo destinado a gastos de funcionamiento inicial y la proporción de las cuotas anuales que podrá emplear el Consejo de Administración para gastos de gestión de la sociedad, que serán fijados cada año por la Asamblea General;
 
-XII. Proponer a la o el Titular la designación de los órganos internos de control que forman parte de la administración pública estatal;
+d). Las condiciones generales de acuerdo con las cuales se celebrarán los contratos entre la sociedad y los mutualizados;
 
-XIII. Proponer a la o el Titular la designación, ante el Tribunal Superior de Justicia del Estado, de los peritos contables y administradores que correspondan;
+e). El monto según el cual se haya hecho la estimación de los valores asegurados y las condiciones recíprocas de prórroga o rescisión de los contratos y las circunstancias que hagan cesar los efectos de dichos contratos;
 
-XIV. Apoyar a las dependencias, las entidades paraestatales y a la Procuraduría General de Justicia, cuando así lo requieran, en actividades que tiendan a la solución de sus problemas administrativos, de control, verificación y evaluación, realizando las acciones que fueren necesarias para mejorar la eficacia y el logro de sus objetivos;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-XV. Acordar con la o el Titular la designación de despachos externos, que coadyuven con las funciones de auditoría, control y vigilancia que realiza la Subsecretaría; de acuerdo a los lineamientos generales que dicte el titular del Ejecutivo y los particulares emitidos por el titular de la Secretaría;
+f). La forma y las condiciones de la declaración que deben hacer los mutualizados en caso de siniestro para el ajuste de las indemnizaciones que puedan debérseles y el plazo dentro del cual deba efectuarse el ajuste de cada siniestro, pudiendo hacerse, si así se conviene en el contrato social, un ajuste total o parcial de dichos siniestros, en la inteligencia de que, en caso de ajustes parciales, dentro de los tres meses que sigan a la expiración de cada ejercicio, se hará un ajuste general de los siniestros a cargo del año, a fin de que cada beneficiario reciba, si hay lugar a ello, el saldo de la indemnización regulada en su provecho. Si en el contrato social se establece que los ajustes de los siniestros sean totales, el mismo contrato especificará el máximo de responsabilidad adicional a cada asegurado, para los casos en que la institución resulte con pérdidas por ese concepto, en un ejercicio determinado;
 
-XVI. Turnar a las autoridades competentes los expedientes con la información, documentación, elementos y resultados de las revisiones que se hayan practicado con la recomendación y sugerencias derivadas de las mismas;
+g). La facultad de la sociedad para rescindir el contrato después del siniestro, dentro del mes siguiente a la notificación hecha al asegurado. Este derecho, cuando se pacte, sólo podrá ejercitarse mediante la restitución por la sociedad de la parte de cuota que corresponda al período que no garantiza los riesgos. En este caso, el mutualizado puede rescindir sin indemnización, las otras pólizas que pueda tener con la sociedad.
 
-XVII. Conocer de los resultados de los dictámenes, opiniones e informes relativos a las evaluaciones, inspecciones, revisiones, verificaciones, fiscalizaciones o auditorías que se hayan llevado a cabo en el cumplimiento de sus funciones, así como los que le soliciten, en la esfera de su competencia;
+VII.- Cada año, por lo menos, se celebrará una Asamblea General, en la fecha que fije el contrato social. En éste se determinará el mínimo de valores asegurados o de cuotas necesarias para la composición de la Asamblea, que no podrá ser, en todo caso, menor del 50% del total de dichas sumas y cuotas.
 
-XVIII. Habilitar días y horas para la práctica de evaluaciones, revisiones, fiscalizaciones, peritajes y auditorías, notificando con anticipación este hecho al auditado, a fin de que se designe el personal que se requiera para el desarrollo de la misma;
+Los estatutos y la escritura determinarán el máximo de votos que podrán ser representados por un solo mutualizado, pero en ningún caso esta representación, por sí sola, excederá del 25% de los valores asegurados o de las cuotas de la sociedad. Cuando se trate de mutualistas que operen en el ramo de vida, cada mutualizado tendrá derecho a un voto.
 
-XIX. Realizar las diligencias tendientes a verificar la autenticidad de documentos que se encuentren relacionados con los procesos de auditoría en los que participe la Subsecretaría y los despachos externos;
+Las decisiones que se refieran a la disolución de la sociedad, a su fusión con otras sociedades, a su cambio de objeto y a cualquiera otra reforma a la escritura, deberán tomarse, cuando menos, con una mayoría del 80% del total de los votos computables en la sociedad, a menos que se trate de segunda convocatoria, caso en el cual las resoluciones podrán tomarse cualquiera que sea el número de votos representados. La Asamblea General tendrá las más amplias facultades para resolver todos los asuntos que a la sociedad competan, en los términos del contrato social;
 
-XX. Supervisar que se realice el aseguramiento de la documentación e información que se encuentre en los archivos de los auditados cuando se considere que exista el riesgo de ser destruida, ocultada, sustraída o alterada;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-XXI. Citar por escrito a funcionarios públicos, cuando con motivo de evaluaciones, revisiones, fiscalizaciones, peritajes y auditorías que se practiquen, sea necesaria su comparecencia ante esta autoridad;
+VIII.- El Consejo de Administración estará formado por el número de miembros mutualizados que establezca el contrato social, y serán electos por un período no mayor de cinco años, precisamente por la Asamblea General. Las facultades del Consejo de Administración se determinarán en el contrato social, y los miembros del Consejo podrán escoger, entre ellos, y, si el contrato social lo permite, fuera de ellos, uno o varios directores, cuya remuneración consistirá en un emolumento fijo que se tomará de la parte de cuotas prevista para gastos de gestión. Las sociedades mutualistas no podrán encargar de la gestión de sus negocios a un director que no haya sido designado en la forma indicada en este artículo o a una empresa distinta de la sociedad. Los miembros del Consejo de Administración deberán ser electos entre los mutualizados que tengan la suma de valores asegurados o de cuotas que determinen los estatutos, pudiendo las minorías cuya representación en la Asamblea no sea menor del 15%, nombrar, por lo menos, un consejero;
 
-XXII. Conocer el contenido de los informes derivados de la práctica de auditorías y visitas de inspección que se realicen y, conforme a sus resultados proponer las acciones pertinentes y dar seguimiento al proceso de solventación;
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-XXIII. Planear, dirigir y coordinar programas de desarrollo administrativo y calidad total, tendiendo a mejorar la productividad de las dependencias, las entidades paraestatales y a la Procuraduría General de Justicia acordes al Plan Estatal de Desarrollo;
+Los miembros del Consejo de Administración deberán ser electos entre los mutualizados que tengan la suma de valores asegurados o de cuotas que determinen los estatutos, pudiendo las minorías, cuya representación en la Asamblea no sea menor del 5%, nombrar un consejero por lo menos.
 
-XXIV. Coordinar, evaluar y supervisar la implementación de programas de desarrollo administrativo en las dependencias, las entidades paraestatales y a la Procuraduría General de Justicia, orientando para que dichos programas sean adecuados y congruentes a los objetivos generales de la administración pública estatal;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-XXV. Proponer los lineamientos que deberán observar las dependencias, las entidades paraestatales y la Procuraduría General de Justicia en materia de desarrollo administrativo, con la finalidad de que los recursos humanos, materiales y técnicos de las mismas sean aprovechados y aplicados con criterios de eficiencia, buscando la simplificación administrativa;
+IX.- La Asamblea General de mutualizados designará uno o varios comisarios, mutualizados o no, encargados de la vigilancia de la sociedad, en la inteligencia de que las minorías que representen, por lo menos, un 10% de los votos computables en la Asamblea, tendrán derecho a la designación de un comisario. Los comisarios tendrán todos los derechos y obligaciones que se imponen en la Ley General de Sociedades Mercantiles a los comisarios de las sociedades anónimas;
 
-XXVI. Proponer e implementar las estrategias de calidad total, desarrollo administrativo, mejora continua, organización y mejora de los procesos que realizan las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, y verificar su observancia;
+X.- Se organizarán y funcionarán de manera que las operaciones de seguros que practiquen no produzcan lucro o utilidad para la sociedad ni para los socios, debiendo cobrar solamente lo indispensable para cubrir sus los gastos generales que ocasione su gestión y para constituir las reservas necesarias a fin de poder cumplir sus compromisos para con los asegurados.
 
-XXVII. Promover e implementar el desarrollo de prácticas administrativas que contribuyan a mejorar la calidad de los procesos y servicios de la administración pública estatal;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-XXVIII. Determinar los métodos y modelos para la evaluación del desempeño en los procesos y servicios que prestan las dependencias y las entidades paraestatales;
+Cualquier remanente que se produzca deberá ser repartido entre los mutualizados en proporción a las primas totales pagadas, después de separar la aportación al fondo de reserva a que se refiere la fracción XII de este artículo. Las pérdidas se repartirán también en proporción a las primas totales pagadas hasta los límites de la responsabilidad de los mutualizados.
 
-XXIX. Autorizar las normas y técnicas para que las dependencias y las entidades paraestatales, cuenten con los manuales de organización, manuales de procedimientos administrativos en base a su reglamento interior y vigilar que en la práctica se ejercite lo señalado en dichos ordenamientos;
+XI.- Los gastos de establecimiento y primera organización estarán limitados al monto del fondo dedicado a este objeto por el contrato social; deberán aparecer en las cuentas en renglón distinto y serán amortizados, cuando más, en diez años, a contar de la fecha de la constitución definitiva de la sociedad, por fracciones anuales iguales. Los gastos de desarrollo ulterior se tratarán en la misma forma que los anteriores, a no ser que la Asamblea imponga una contribución especial a los mutualizados. Estas sociedades no podrán contraer préstamos sin autorización previa de la Secretaría de Hacienda y Crédito Público;
 
-XXX. Evaluar y, en su caso, proponer los cambios en las estructuras orgánicas que deban realizarse en las dependencias y las entidades paraestatales, así como para la creación, modificación o supresión de sus unidades administrativas;
+XII.- Con un 25%, cuando menos, de los remanentes a que se refiere la fracción X de este artículo y con un recargo sobre las primas, que apruebe la Secretaría de Hacienda y Crédito Público, se constituirá un fondo de reserva que tendrá por objeto dar a la sociedad los medios de suplir la insuficiencia de las cuotas anuales para el pago de siniestros. No podrá tomarse más de la mitad de dicho fondo para cubrir los deficientes en un solo ejercicio y, en todo caso, será necesaria la aprobación de la Secretaría de Hacienda. Cuando la mutualista se liquide, los saldos libres de dicho fondo se distribuirán entre todos los mutualizados que hayan contribuído a su formación, en proporción al total de primas pagadas por cada uno de ellos.
 
-XXXI. Evaluar y proponer medidas tendientes a la simplificación de trámites y procedimientos internos de las dependencias y las entidades paraestatales, y asesorar a los municipios, a petición de los mismos;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-XXXII. Dictar las normas, técnicas y criterios de aplicación a que deberá sujetarse la capacitación y el desarrollo profesional de los servidores públicos de la administración pública estatal y otorgar la asesoría correspondiente;
+###### ARTICULO 19.
 
-XXXIII. Proponer e implementar las estrategias de capacitación dirigida a fortalecer las competencias de los servidores públicos de las dependencias y las entidades paraestatales, y verificar su observancia;
+Los poderes que las instituciones de seguros otorguen, no requerirán otras inserciones que las relativas al acuerdo del Consejo que haya autorizado el otorgamiento del mandato, a las facultades que en la escritura o en los estatutos se conceden al Consejo sobre el particular y a la comprobación del nombramiento de los Consejeros.
 
-XXXIV. Planear, dirigir y coordinar el Programa General de Capacitación que facilite el desarrollo de los servidores públicos de las dependencias y las entidades paraestatales;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XXXV. Dar seguimiento y evaluar los programas y proyectos implementados y analizar los resultados de los mismos;
+###### ARTICULO 20.
 
-XXXVI. Elaborar y proponer las herramientas informáticas y de soporte técnico que se requieran en el proceso de entrega-recepción de las unidades administrativas y de los activos que conforman el patrimonio de la administración pública estatal, en base a la normatividad establecida;
+Las instituciones de seguros organizadas como sociedades anónimas deberán contar con un capital mínimo que será determinado discrecionalmente por la Secretaría de Hacienda y Crédito Público al otorgar la autorización, dentro de los siguientes límites:
 
-XXXVII. Asistir a las licitaciones para la adquisición de bienes y servicios de la administración pública estatal, exceptuando aquellos relacionados a obra pública y programas sociales;
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-XXXVIII. Evaluar que los procesos de entrega-recepción de las unidades administrativas de las dependencias y las entidades paraestatales y la Procuraduría General de Justicia, se realice conforme a las disposiciones aplicables en la materia;
+a). Para operaciones de vida, de $2.000,000.00 a $6.000,000.00;
 
-XXXIX. Promover la capacitación permanente del personal a su cargo para el desarrollo profesional y la mejora continua en la prestación de sus servicios;
+b). Para operaciones de accidentes y enfermedades, de $500,000.00 a $1.500,000.00;
 
-XL. Reportar a la o el Titular, el informe anual de resultados de la Subsecretaría, dentro de los términos indicados por la propia Secretaría; y,
+c). Para operaciones de daños, de $1.000,000.00 a $2.000,000.00, cuando la empresa practique solamente uno de los ramos a que se refiere el inciso c) del artículo 11; de $2.000,000.00 a $4.000,000.00 cuando opere dos de dichos ramos y de $3.000,000.00 a $6.000,000.00 cuando opere tres o más.
 
-XLI. Las demás que las leyes les confieran y las que les señalen las disposiciones legales aplicables, así como las que le encomiende la o el Titular así como las que le competen a las unidades administrativas a su cargo.
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-#### SECCIÓN II. DE LAS DIRECCIONES DE LA SUBSECRETARÍA DE AUDITORÍA GUBERNAMENTAL Y DESARROLLO ADMINISTRATIVO
+###### ARTICULO 21.
 
-###### ARTÍCULO 21.
+La responsabilidad que asuma una institución de seguros sin reasegurar, no será superior en cada riesgo, a los siguientes porcentajes de la suma de su capital pagado más reservas de capital, reservas de previsión y utilidades no distribuídas, afectos a cada una de las operaciones que la institución esté autorizada a practicar en los términos del artículo 11:
 
-Para el eficaz desempeño de sus funciones la Subsecretaría de Auditoría Gubernamental y Desarrollo Administrativo contará con las siguientes direcciones generales:
+I.- En accidentes y enfermedades, 5%;
 
-I. Dirección General de Auditoría Interna;
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-II. Dirección General de Auditoría Externa y Cuenta Pública;
+II.- En daños:
 
-III. Dirección General de Desarrollo Administrativo;
+a). 5% cuando la institución opere solamente uno de los ramos a que se refiere el inciso c) del artículo 11;
 
-IV. Dirección General de Modernización.
+b). 4% cuando opere dos de dichos ramos; y
 
-###### ARTÍCULO 22.
+c). 3% cuando opere tres o más ramos.
 
-La Subsecretaría contará con el número de auditores que al efecto permita el presupuesto asignado.
+Tratándose de las operaciones de vida, la Comisión Nacional de Seguros fijará a cada institución el límite máximo de retención, tomando en cuenta el volumen de sus operaciones, su promedio de seguro en vigor y la experiencia que haya obtenido.
 
-###### ARTÍCULO 23.
+###### ARTICULO 22.
 
-Corresponde a la Dirección General de Auditoría Interna además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+Cuando al organizarse una sociedad anónima al amparo de una autorización, los suscriptores de las acciones hubieren pagado, además del valor nominal de ellas, algunas cantidades por concepto de primas u otro similar, estas cantidades se llevarán a un fondo especial de reserva. Cuando el capital líquido de alguna institución de seguros se reduzca a una suma inferior a su mínimo legal, deberá ser reconstituído en un plazo que, sin exceder de un año señalará la Secretaría de Hacienda y Crédito Público. En caso de que no se hiciere la reconstitución dentro del plazo concedido al efecto, la institución será declarada en estado de disolución.
 
-I. Formular el Programa Anual de Trabajo y someterlo a la consideración del titular de la subsecretaría de su adscripción para su autorización;
+###### ARTICULO 23.
 
-II. Coordinar las acciones tendientes al cumplimiento de los objetivos del Programa Anual de Trabajo;
+Cuando no esté íntegramente cubierto el valor de las acciones suscritas de las sociedades anónimas que operen como instituciones de seguros, dichas acciones deberán ser precisamente nominativas y, si fueren cedidas, los cedentes estarán solidariamente obligados con el tenedor a hacer el pago de las exhibiciones pendientes. La responsabilidad que en este artículo se establece para los cedentes, sólo prescribirá en un plazo de tres años, contado desde la fecha en que las exhibiciones debieron haber sido pagadas.
 
-III. Ordenar la práctica de auditorías, visitas de inspección e investigaciones a las dependencias y las entidades paraestatales, a fin de verificar que las operaciones efectuadas se realicen de conformidad con las normas y procedimientos establecidos para el efecto;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-IV. Vigilar y verificar que las operaciones financieras efectuadas por las dependencias y las entidades paraestatales, se realicen de conformidad con las normas y procedimientos establecidos para el efecto;
+###### ARTICULO 24.
 
-V. Llevar a cabo la evaluación de observaciones y resultados derivados de los informes de auditorías; y en caso de que de los mismos se deriven presuntas irregularidades en el cumplimiento de las funciones de los servidores públicos, incumplimiento a la normatividad o daño patrimonial al erario del estado o al patrimonio de los organismos públicos descentralizados y fideicomisos paraestatales, notificar a la dependencia así como a la entidad auditada el dictamen de auditoría en donde se den a conocer los resultados de auditoría, y las irregularidades detectadas, para los efectos legales a que haya lugar;
+Para que una institución de seguros pueda iniciar sus operaciones al amparo de la autorización concedida, necesitará un permiso complementario, que le otorgará la Secretaría de Hacienda y Crédito Público, previa aprobación de los siguientes documentos, redactados en idioma español, que deberá exhibir la institución de seguros:
 
-VI. Realizar, en la esfera de su competencia, labores de evaluación, revisión, fiscalización, peritajes y auditorías, directamente o en coordinación con los órganos internos de control de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, a efecto de verificar que se cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-VII. Solicitar información y documentación que se requiera para la mejor conducción de las acciones de verificación, fiscalización y auditoría que lleven a cabo en las dependencias y las entidades paraestatales;
+I.- Los modelos de pólizas, de cláusulas especiales y adicionales, de certificados individuales de seguro de grupo, de certificados de pólizas abiertas, de certificados provisionales de pólizas, de cláusulas adicionales de las mismas, de modelos de solicitudes de seguro, de examen médico, de cuestionarios, de recibos de pago de primas, de recibos de pago de pólizas, de pagarés por préstamos sobre pólizas, de prospectos que describan sus diversos planes en la contratación del seguro. Si la misma documentación fuere a usarse impresa, deberá serlo en caracteres fácilmente legibles y la aprobación gubernamental versará tanto respecto de su contenido, cuanto de su parte tipográfica y no podrá ponerse en uso sin que la aprobación haya sido otorgada. La Secretaría de Hacienda y Crédito Público fijará administrativamente los requisitos tipográficos para considerar fácilmente legibles los caracteres empleados.
 
-VIII. Emitir y, en su caso, autorizar los dictámenes, opiniones e informes relativos a las evaluaciones, inspecciones, revisiones, verificaciones, fiscalizaciones o auditorías que se lleven a cabo en el cumplimiento de sus funciones, así como los que le soliciten, en la esfera de su competencia;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-IX. Asegurar que las dependencias, las entidades paraestatales y la Procuraduría General de Justicia cumplan con las disposiciones contenidas en los acuerdos y convenios que el estado celebre con la federación o municipios, en donde se derive la inversión de fondos federales y estatales, distintos de obra pública y programas sociales en la entidad, así como supervisar la correcta aplicación de los mismos;
+II.- Las tarifas de primas y extraprimas para cada uno de los planes o formas de seguros que pretenda practicar, acompañadas de una descripción detallada de la forma en que serán practicados dichos planes o formas y de las bases de cálculo de las mismas tarifas a fin de demostrar que tanto las primas netas como sus recargos son suficientes para garantizar los intereses de los asegurados e indicarán las cantidades de seguro a que correspondan dichas tarifas de primas y extraprimas. Cuando no sea factible a las instituciones aseguradoras en el ramo de vida fijar de antemano el monto de las extraprimas y su forma de aplicación, manifestarán el procedimiento general que habrán de seguir para hacerlo, pudiendo cerciorarse la misma Secretaría, en cualquier momento, si se han ajustado a él. Si dentro de un mismo plan de seguros se consideran grupos distintos, a los cuales pretendan aplicar tarifas diferentes, indicarán los requisitos que habrán de llenar las personas o cosas objeto del seguro, para poder ser clasificadas dentro de cada grupo. Cuando pretendan usar tarifas distintas en diversas zonas de la República, indicarán con precisión la que corresponda a cada zona;
 
-X. Revisar los informes de auditoría con base en los resultados de las evaluaciones, revisiones, fiscalizaciones, peritajes y auditorías realizadas en el ejercicio de sus funciones;
+III.- Las instituciones de seguros sobre la vida, remitirán, además, las tablas de valores garantizados de los diversos planes de seguros que practiquen, indicando las cantidades de seguro o de prima a que se refieran, y los valores que en ellas se incluyan corresponderán a un número determinado de primas pagado por el asegurado. Se explicará en las propias tablas el procedimiento seguido para calcularlas, en la inteligencia de que dichos valores garantizados, serán cuando menos equivalentes a las tres cuartas partes de la reserva terminal respectiva. Presentarán, igualmente, las tablas de reservas terminales y medias de los riesgos anormales, así como las reservas que constituyan las compañías por los riesgos peligrosos o anormales y por las cláusulas adicionales que contengan sus pólizas. Las tablas de valores garantizados y reservas se calcularán por el número de años de duración del seguro que administrativamente fije en cada caso, la Secretaría de Hacienda;
 
-XI. Supervisar el seguimiento de las observaciones determinadas en las auditorías realizadas a las dependencias y las entidades paraestatales, con la finalidad de que se lleve a cabo la solventación de las mismas;
+IV.- Cuando las instituciones aseguradoras en el ramo de vida pretendan emitir planes especiales para los cuales no existan tabulados los valores de las primas netas ni de las reservas, estarán obligadas a presentar a la Secretaría de Hacienda esos valores, calculados por la propia institución. También estarán obligadas a hacerlo, cuando pretendan usar tablas para los que no existan calculados esos valores;
 
-XII. Informar a la Subsecretaría sobre el resultado de las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes practicadas por la dirección general y los órganos internos de control;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XIII. Coordinar, supervisar e interactuar con los órganos internos de control de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, a fin de promover el óptimo ejercicio de sus facultades, así como dirigir y evaluar su desempeño en base en las políticas y prioridades en materia de supervisión y control;
+V.- El proyecto de organización y funcionamiento de su contabilidad, teniendo en cuenta las operaciones y los ramos que pretenda practicar la empresa;
 
-XIV. Coordinar funcional y operativamente las acciones de los órganos internos de control y ser el enlace entre la Subsecretaría y los titulares de esos órganos;
+VI.- El porcentaje que se repartirá de las utilidades de la compañía entre los asegurados, así como el procedimiento que sirva para determinar el dividendo que a cada asegurador corresponda de acuerdo con la prima de su póliza, plan de seguro y número de años que ha estado asegurado.
 
-XV. Emitir su opinión a la Subsecretaría sobre la instrumentación de los órganos internos de control; las estructuras orgánico-funcionales y los manuales de organización de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia para el desempeño de sus funciones;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-XVI. Supervisar, en su esfera de competencia, que los órganos internos de control, a través de las auditorías que practiquen, verifiquen que las dependencias, las entidades paraestatales y la Procuraduría General de Justicia cumplan con las disposiciones legales y normativas establecidas para su funcionamiento;
+###### ARTICULO 25.
 
-XVII. Llevar a cabo, en el ámbito de sus atribuciones, labores de inspección y evaluación de las revisiones y auditorías que realizan los órganos internos de control de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia con el propósito de verificar que se cumpla con los objetivos, promoviendo la eficiencia en sus operaciones y demás acciones encaminadas a la calidad;
+Cualquiera modificación o simplemente reimpresión de los documentos a que se refiere la fracción I del artículo anterior o cualquier variación a las tarifas de la fracción II; deberá ser previamente sometida a la aprobación de la Secretaría de Hacienda y Crédito Público y no podrá usarse o ponerse en vigor, sin que esta aprobación haya sido otorgada. La Secretaría podrá suspender los efectos de la autorización concedida para operar, hasta que haya aprobado los documentos, modelos, pólizas, certificados y tarifas expresados.
 
-XVIII. Solicitar a los titulares de los órganos internos de control de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, informes periódicos de los resultados obtenidos en sus auditorías y evaluaciones realizadas, observaciones y sugerencias a efecto de darles seguimiento;
+###### ARTICULO 26.
 
-XIX. Presentar a la o el titular de la Subsecretaría los informes de las actividades realizadas por los órganos internos de control;
+Los gastos de establecimiento y primera organización no deberán exceder del 25% del capital exhibido y deberán amortizarse en un plazo no mayor de diez años a partir de la fecha en que la institución empiece a practicar sus operaciones; en el concepto de que al final del sexto año, deberá estar amortizada, por lo menos, la quinta parte de dichos gastos, y el resto deberá serlo en los años subsecuentes.
 
-XX. Supervisar que los procesos de entrega-recepción de las unidades administrativas de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, se realice (sic) conforme a las disposiciones aplicables en la materia;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-XXI. Desempeñar el cargo de comisario o suplente en los organismos públicos descentralizados y fideicomisos de la administración pública estatal en las que se le designe;
+###### ARTICULO 27.
 
-XXII. Coordinarse en el ámbito de su competencia con las distintas direcciones generales adscritas a la Subsecretaría para el desarrollo de sus actividades;
+Las tarifas a que se refiere la fracción II del artículo 24 y las bases para el cálculo de primas y reservas deberán ser tales que sus términos demuestren la posibilidad de cumplir con los compromisos propuestos en cuanto a beneficios y provechos para el asegurado. La Secretaría de Hacienda y Crédito Público podrá en cualquier momento, modificar las tarifas aprobadas de acuerdo con la fracción II del artículo 24, siempre que de la aplicación de las tarifas en vigor se desprenda la necesidad de modificarlas. Se revocará la autorización concedida a la empresa que no ponga en vigor la tarifa de primas modificada de conformidad con este artículo.
 
-XXIII. Colaborar con las distintas áreas de la Secretaría en trabajos que se encomienden por parte del titular de la Subsecretaría;
+No se aceptarán operaciones o beneficios fundados en sorteos o azares que no puedan determinarse sobre base racional de cálculo, o para los cuales se empleen procedimientos que no sean equitativos para los asegurados.
 
-XXIV. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría; y,
+###### ARTICULO 28.
 
-XXV. Las demás que las leyes le confieran, o le deleguen la o el titular de la subsecretaría de su adscripción y la o el Titular dentro de la esfera de sus atribuciones.
+Las instituciones de seguros autorizadas para hacer negocios en el país podrán establecer sucursales o agencias en cualquier parte del territorio nacional, previa autorización, en cada caso, de la Secretaría de Hacienda y Crédito Público, la que determinará administrativamente los requisitos y formalidades que deben llenarse. Ninguna institución nacional o mexicana de seguros, tendrá facultad para establecer sucursales o agencias en el extranjero si previa autorización de la Secretaría de Hacienda y Crédito Público.
 
-###### ARTÍCULO 24.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-Para llevar a cabo las funciones, la Dirección General de Auditoría Interna contará con la siguiente estructura:
+###### ARTICULO 29.
 
-I. Dirección de Auditoría y Entrega-Recepción;
+Cuando una institución practique varias de las operaciones a que se refiere el artículo 11 de esta Ley, deberá realizar cada una de ellas en departamentos especializados y afectará y registrará separadamente en libros, el capital y reservas de capital que queden afectos a las operaciones de vida; de accidentes y enfermedades; o de daños.
 
-II. Dirección de Control y Seguimiento de Auditoría;
+Las reservas técnicas y cualquiera operación las deberán registrar también por separado, de conformidad con el párrafo anterior.
 
-III. Titular del Órgano Interno de Control.
+Las reservas técnicas quedarán afectas a cada departamento, y en operaciones de daños a cada ramo, y no podrán servir para garantizar obligaciones contraídas por pólizas emitidas en otras operaciones y en su caso, en otros ramos.
 
-###### ARTÍCULO 25.
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-Corresponde a la Dirección de Auditoría y Entrega-Recepción, además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+###### ARTICULO 30.
 
-I. Formular el Programa Anual de Trabajo de la Dirección y someterlo a la consideración del o la titular de la Dirección General de Auditoría Interna para su autorización;
+Podrá capitalizarse el fondo ordinario de reserva establecido por la fracción VIII del artículo 17 y el que se hubiera formado de acuerdo con las disposiciones del artículo 22, pero la sociedad deberá en tales casos reconstituír el primero de acuerdo con el nuevo monto del capital.
 
-II. Supervisar la práctica de auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes a las dependencias y las entidades paraestatales a fin de comprobar que las operaciones efectuadas se realicen de conformidad con la normatividad establecida para el efecto;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-III. Llevar a cabo, en la esfera de su competencia, labores de auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes, directamente o en coordinación con los órganos internos de control a las dependencias y las entidades paraestatales, a efecto de verificar que se cumpla con la normatividad en materia de planeación, sistemas de registro y control contable, presupuestario y programático, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales en las dependencias y las entidades paraestatales;
+###### ARTICULO 31.
 
-IV. Solicitar información y documentación que se requiera para la mejor conducción de las acciones de auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes que lleven a cabo en las dependencias y las entidades paraestatales;
+Mientras las instituciones de seguros no sean puestas en liquidación o declaradas en quiebra, se considerarán de acreditada solvencia, y no estarán obligadas por tanto, a constituir depósitos ni fianzas legales, ni aún en el caso de amparo.
 
-V. Vigilar que las dependencias, las entidades paraestatales y la Procuraduría General de Justicia cumplan con las disposiciones contenidas en los acuerdos y convenios que el estado celebre con la federación o municipios, en donde se derive la inversión de fondos federales y estatales, distintos de obra pública y programas sociales en la entidad, así como supervisar la correcta aplicación de los mismos;
+### CAPITULO II. Del funcionamiento
 
-VI. Emitir los dictámenes, opiniones e informes relativos a las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes que se lleven a cabo en el cumplimiento de sus funciones, así como los que le soliciten, en la esfera de su competencia;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-VII. Elaborar los informes de auditoría con las observaciones y recomendaciones, con base en los resultados de las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes realizadas en el ejercicio de sus funciones;
+###### ARTICULO 32.
 
-VIII. Dar seguimiento a las observaciones determinadas en las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes realizadas a las dependencias y las entidades paraestatales, con la finalidad de determinar la solventación de las mismas; y en caso de que de las mismas se deriven presuntas irregularidades en el cumplimiento de las funciones de los servidores públicos, incumplimiento a la normatividad o daño patrimonial al erario del estado o al patrimonio de los organismos públicos descentralizados y fideicomisos, turnar los expedientes al área jurídica correspondiente para los efectos legales que correspondan;
+El capital pagado y las reservas de capital, así como las utilidades no distribuídas afectas a los fines del artículo 78 en las instituciones de seguros organizadas en forma de sociedades anónimas y el fondo de reserva en las sociedades mutualistas a que se refiere la fracción XII del artículo 18 de esta ley, deberán ser invertidos precisamente en:
 
-IX. Dar seguimiento a los asuntos que, como resultado de las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes, se hayan turnado al área jurídica correspondiente por la dirección;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
-X. Informar periódicamente a la Dirección General de Auditoría Interna sobre el resultado de las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes practicadas por la dirección a su cargo;
+I.- Bienes, créditos o valores de los enumerados en el artículo 85 de esta Ley, subsistiendo para inversiones de esta clase, las reglas establecidas en los artículos 86 y 87 de la misma;
 
-XI. Coordinar los procesos de entrega-recepción, e intervenir en los actos de entrega-recepción de las dependencias y las entidades paraestatales o unidades administrativas de la administración pública estatal, de acuerdo a la normatividad aplicable;
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-XII. Apoyar y asesorar a las dependencias y las entidades paraestatales, cuando así lo requieran, en actividades relacionadas con el proceso de entrega-recepción, excepto lo relacionado a obra pública y programas sociales;
+II.- a) Acciones de instituciones de seguros. La inversión en esta clase de valores nunca podrá ser mayor del 20% de la suma del capital pagado y reservas de capital de la inversora y sólo podrá hacerse con los excedentes de esta suma sobre su capital mínimo legal o sobre el 10% de la reserva de riesgos en curso , si se trata de las operaciones comprendidas en los incisos a) y b) del artículo 11, o el 15% de las primas brutas cobradas durante el año para las demás operaciones, en caso de que dichos porcentajes sean superiores al capital mínimo legal. La inversión en acciones de una misma institución de seguros, en ningún caso excederá del 40% del capital de la emisora; b) Acciones de instituciones autorizadas para operar exclusivamente en reaseguro. La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros, fijará el porciento máximo para inversión en acciones de las señaladas en este inciso;
 
-XIII. Desempeñar el cargo de comisario o suplente en los organismos públicos descentralizados y fideicomisos de la administración pública estatal en las que se le designe;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XIV. Colaborar con las distintas áreas de la Secretaría, en trabajos que se encomienden por parte del titular de la subsecretaría de su adscripción;
+III.- Inversiones en el extranjero que sea necesario hacer como requisito para efectuar operaciones de seguros fuera del territorio nacional, previa autorización de la Secretaría de Hacienda y Crédito Público, en los términos del artículo 28 de esta ley, hasta el 30% de los excedentes sobre el capital mínimo;
 
-XV. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría; y,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XVI. Las demás que las leyes le confiera, o le deleguen su superior jerárquico y la o el titular de la subsecretaría de su adscripción, dentro de la esfera de sus atribuciones.
+IV.- Saldos deudores de agentes por anticipos;
 
-###### ARTÍCULO 26.
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
-Corresponde a la Dirección de Control y Seguimiento de Auditoría, además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+V.- Gastos de establecimiento y de primera organización no amortizados;
 
-I. Formular el Programa Anual de Trabajo de la Dirección y someterlo a la consideración de la o el titular de la Dirección General de Auditoría Interna para su autorización;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
-II. Llevar a cabo, en la esfera de su competencia, labores de auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes, directamente o en coordinación con los órganos internos de control a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, a efecto de verificar que se cumpla con la normatividad en materia de planeación, sistemas de registro y control contable, presupuestario y programático, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+VI.- Muebles y enseres, descontando la reserva por depreciación;
 
-III. Solicitar información y documentación que se requiera para la mejor conducción de las acciones de auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes que lleven a cabo en las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1952)</small>
 
-IV. Dar seguimiento a las observaciones y acciones resultantes de las auditorías practicadas por la Dirección General de Auditoría Interna, hasta su solventación y resolución en el ámbito de su competencia;
+VII.- Diversos deudores, provenientes de operaciones propias del objeto de las instituciones aseguradoras.
 
-V. Una vez establecidas las recomendaciones y observaciones, la instancia fiscalizadora deberá llevar un control de seguimiento de las medidas adoptadas, a fin de que en las fechas señaladas en el informe de auditoría, se visite el área auditada, y se verifique su cumplimiento en los términos y fechas establecidos;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-VI. Llevar a cabo, en la esfera de su competencia, labores de supervisión a las auditorías de seguimiento, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes, directamente o en coordinación con los órganos internos de control a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
+La Secretaría de Hacienda y Crédito Público fijará administrativamente, mediante disposiciones de carácter general, los porcientos máximos de capital pagado, reservas de capital y utilidades no distribuídas afectas a los fines del artículo 78, que puedan invertirse en los conceptos a que se refieren las fracciones IV, V, VI y VII de este artículo.
 
-VII. Vigilar que las dependencias, las entidades paraestatales y la Procuraduría General de Justicia cumplan con las disposiciones contenidas en los acuerdos y convenios que el estado celebre con la federación o municipios, en donde se derive la inversión de fondos federales y estatales, distintos de obra pública y programas sociales en la entidad, así como supervisar la correcta aplicación de los mismos;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-VIII. Emitir los dictámenes, opiniones e informes relativos a las auditorías de seguimiento, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, que se lleven a cabo en el cumplimiento de sus funciones, así como los que le soliciten, en la esfera de su competencia;
+Las utilidades no distribuídas que no estén afectas a los fines del artículo 78, podrán ser invertidas libremente, pero sin violar las prohibiciones del artículo 39. En todo caso la sociedad sólo podrá tener por objeto operar como institución de seguros en los términos de la fracción V del artículo 17.
 
-IX. Elaborar los informes de auditoría con las observaciones y recomendaciones, con base en los resultados de las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes realizadas en el ejercicio de sus funciones;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-X. Dar seguimiento a las observaciones determinadas en las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes realizadas con la finalidad de determinar la solventación de las mismas; y en caso de que de las mismas se deriven presuntas irregularidades en el cumplimiento de las funciones de los servidores públicos, incumplimiento a la normatividad o daño patrimonial al erario del estado o al patrimonio de las entidades paraestatales, turnar los expedientes al área jurídica correspondiente para los efectos legales que correspondan;
+Las inversiones de capital pagado, reservas de capital y utilidades no distribuídas de toda especie a que se refiere este artículo, no estarán sujetas a las reglas sobre depósito de valores establecidas en el artículo 93 de esta Ley.
 
-XI. Coordinar y supervisar la integración de la documentación necesaria para ejercitar las acciones legales que procedan, como resultado de las irregularidades que se detecten en las auditorías;
+###### ARTICULO 33.
 
-XII. Coadyuvar con la Coordinación General de Asuntos Jurídicos en las acciones y procedimientos legales derivadas de los resultados del seguimiento a las auditorías de seguimiento, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes, se (sic) hayan turnado al área jurídica correspondiente;
+Se considerarán operaciones de seguros sujetas a las disposiciones de las leyes mexicanas, las que se celebren en territorio nacional.
 
-XIII. Informar periódicamente a la Dirección General de Auditoría Interna sobre el resultado de las supervisiones, seguimientos, auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes practicadas por la dirección;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XIV. Desempeñar el cargo de comisario o suplente en los organismos públicos descentralizados y fideicomisos de la administración pública estatal en las que se le designe;
+###### ARTICULO 34.
 
-XV. Colaborar con las distintas áreas de la Secretaría, en trabajos que se encomienden por parte de la o el titular de la Subsecretaría;
+Los seguros comprendidos dentro de la enumeración de operaciones y ramos del artículo 11 son los siguientes:
 
-XVI. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría; y,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XVII. Las demás que las leyes le confiera (sic), o le deleguen su superior jerárquico y la o el titular de la subsecretaría de su adscripción, dentro de la esfera de sus atribuciones.
+I.- Para las operaciones de vida, los que tengan como base del contrato riesgos que puedan afectar la persona del asegurado en su existencia. Se considerarán comprendidos dentro de estas operaciones los beneficios adicionales que basados en la salud o en accidentes personales se incluyan en pólizas regulares de seguros de vida;
 
-###### ARTÍCULO 27.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-Corresponde a la o el titular del Órgano Interno de Control, además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+II.- Para las operaciones de accidentes y enfermedades, los que tengan como base la lesión o incapacidad que afecte la integridad personal, salud o vigor vital del asegurado, ocasionada por un accidente o enfermedad de cualquier género;
 
-I. Formular el Programa Anual de Trabajo del Órgano Interno de Control al que se encuentra adscrito y someterlo a la consideración de la o el titular de la Dirección General de Auditoría Interna para a su vez presentarlo para su autorización e integración al Programa Anual de Trabajo de la Subsecretaría;
+III.- Para el ramo de responsabilidad civil y riesgos profesionales, el pago de la indemnización que el asegurado deba aun tercero a consecuencia de un hecho que cause un daño previsto en el contrato de seguro;
 
-II. Llevar a cabo, en la esfera de su competencia, labores de auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes, a efecto de verificar que se cumpla con la normatividad en materia de planeación, sistemas de registro y control contable, presupuestario y programático, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales en las dependencias y las entidades paraestatales que se encuentre adscrito;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-III. Solicitar información y documentación que se requiera para la mejor conducción de las acciones de auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes que lleven a cabo;
+IV.- Para el ramo marítimo y de transporte el pago de la indemnización por los daños y perjuicios que sufran los muebles o semovientes objeto del traslado. Pueden igualmente asegurarse los cascos de las embarcaciones y los aeroplanos para obtener el pago de la indemnización que resulte por los daños o la pérdida de unos u otros, o por los daños o perjuicios causados a la propiedad ajena o a terceras personas con motivo de su funcionamiento. En estos casos, se podrán incluir en las pólizas regulares que se expidan, el beneficio adicional de responsabilidad civil;
 
-IV. Vigilar que las dependencias y las entidades paraestatales cumplan con las disposiciones contenidas en los acuerdos y convenios que el estado celebre con la federación o municipios, en donde se derive la inversión de fondos federales y estatales, distintos de obra pública y programas sociales en la entidad, así como supervisar la correcta aplicación de los mismos;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-V. Emitir los dictámenes, opiniones e informes relativos a las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes que se lleven a cabo en el cumplimiento de sus funciones, así como los que le soliciten, en la esfera de su competencia;
+V.- Para el ramo de incendio, los que tengan por base la indemnización de todos los daños y pérdidas causados por incendio, explosión, fulminación o accidentes de naturaleza semejante;
 
-VI. Formular observaciones y recomendaciones, con base en los resultados de las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes realizadas en el ejercicio de sus funciones;
+VI.- Para el ramo agrícola, el pago de indemnización por los daños o perjuicios que sufran los asegurados por muerte, pérdida o daños ocurridos a sus animales o el pago de indemnización por pérdida parcial o total de los provechos esperados de la tierra antes de la cosecha;
 
-VII. Dar seguimiento a las observaciones determinadas en las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes realizadas a las dependencias y las entidades paraestatales, con la finalidad de determinar la solventación de las mismas; y en caso de que de las mismas se deriven presuntas irregularidades en el cumplimiento de las funciones de los servidores públicos, incumplimiento a la normatividad o daño patrimonial al erario del estado o al patrimonio de los organismos públicos descentralizados y fideicomisos, informar a la Dirección General de Auditoría Interna para los efectos legales que correspondan;
+VII.- Para el ramo de automóviles, el pago de la indemnización que corresponda a los daños o pérdida del automóvil, y a los daños o perjuicios causados a la propiedad ajena o a terceras personas con motivo del uso del automóvil. Las instituciones que se dediquen a este ramo, podrán, en consecuencia, incluir en las pólizas regulares que expidan, beneficio adicional de responsabilidad civil;
 
-VIII. Dar seguimiento a los asuntos que, como resultado de las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes, se hayan turnado al área jurídica correspondiente;
+(REFORMADA, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
-IX. Informar periódicamente a la o el titular de la Dirección General de Auditoría Interna sobre el resultado de las auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes practicados;
+VIII.- Para el ramo de seguro de crédito el pago de la indemnización de una parte proporcional de las pérdidas que sufra el asegurado a consecuencia de la insolvencia total o parcial de sus clientes deudores por créditos comerciales.
 
-X. Apoyar y asesorar a las dependencias, a las entidades paraestatales y a sus unidades administrativas al que se encuentre asignado, cuando así lo requieran;
+(ADICIONADA, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
-XI. Desempeñar el cargo de comisario o suplente en la entidad paraestatal en las que se le designe;
+IX.- Para el ramo de diversos, el pago de la indemnización debida por daños y perjuicios ocasionados a personas o casos por cualquiera otra eventualidad.
 
-XII. Colaborar con las distintas áreas de la Secretaría, en trabajos que se encomienden por parte de la o el titular de la Subsecretaría de Auditoría Gubernamental y Desarrollo Administrativo;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XIII. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría; y,
+###### ARTICULO 35.
 
-XIV. Las demás que las leyes le confieran, o le deleguen su superior jerárquico y la o el titular de la subsecretaría de su adscripción, dentro de la esfera de sus atribuciones.
+Queda facultada la Secretaría de Hacienda y Crédito Público para resolver qué riesgos puedan cubrirse dentro de cada una de las operaciones o ramos mencionados en el artículo anterior, siempre que los riesgos no enumerados tengan las características técnicas de los consignados para cada operación o ramo.
 
-###### ARTÍCULO 28.
+Cuando alguna clase de las comprendidas en el ramo de diversos adquiera una importancia tal que amerite considerarla como ramo independiente, la Secretaría de Hacienda y Crédito Público podrá declarar esa clase como ramo especial para los efectos del artículo anterior.
 
-Corresponde a la Dirección General de Auditoría Externa y Cuenta Pública además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+###### ARTICULO 36.
 
-I. Coordinar las acciones de las auditorías externas practicadas por la Auditoría Superior de la Federación, Auditoria Superior del Estado, así como las efectuadas en forma coordinada con la Secretaría de la Función Pública Federal;
+Las operaciones de reaseguro no pueden ser practicadas por instituciones filiales o sucursales de las que hayan contratado el seguro directo; asimismo, la institución que haya contratado el seguro directo no podrá reasegurar con una institución de la que sea filial o sucursal.
 
-II. Intervenir en forma directa con los responsables de las unidades administrativas de las dependencias y las entidades paraestatales auditadas por parte de los órganos fiscalizadores federales para que desde el proceso de planeación se aporte la información de manera completa, ordenada y oportuna;
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 1937)</small>
 
-III. Coadyuvar con las dependencias y las entidades paraestatales para que las respuestas en vías de solventar irregularidades sea oportuna y suficiente a las observaciones que determinen los auditores designados por la Auditoría Superior de la Federación, la Auditoria Superior del Estado o la Secretaría de la Función Pública Federal.
+Para los efectos de esta Ley, son filiales las instituciones aseguradoras debidamente autorizadas que estén controladas o subordinadas en su organización o funcionamiento a otra institución aseguradora. Se entiende que una institución aseguradora es filial de otra, cuando ésta tiene el 51% del capital social pagado de aquélla.
 
-IV. Coadyuvar con la Coordinación General de Asuntos Jurídicos en el análisis de los actos que impliquen la determinación de responsabilidades;
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
-V. Supervisar la conciliación de la información de los informes periódicos que emiten la Auditoría Superior de la Federación, la Auditoria Superior del Estado y la Función Pública Federal sobre el estatus de solventación de observaciones;
+###### ARTICULO 37.
 
-VI. Supervisar que se mantengan integrados y actualizados los expedientes de las auditorías vigentes y remitir al archivo los expedientes concluidos, manteniéndolos disponibles para consulta;
+Los excedentes que tengan las instituciones de seguros sobre sus límites de retención neta en cada riesgo asegurado, podrán cederlos en forma de coaseguro o reaseguro a instituciones autorizadas, o en forma de reaseguro a instituciones no autorizadas, en la inteligencia de que el monto de primas cedidas a estas últimas sobre cualquier riesgo, no excederá, salvo lo previsto en el párrafo siguiente, el monto de las que se hayan cedido a las primeras sobre el mismo riesgo.
 
-VII. Sostener asesoría permanente con las dependencias y las entidades paraestatales de programas federales en materia normativa, contable y fiscal;
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
-VIII. Conjuntamente con la Subsecretaría de Obra Pública y la Coordinación Administrativa de la Secretaría, revisar las conciliaciones de los derechos del cinco al millar con la Secretaría de Finanzas, para la determinación de los importes que han de reportarse trimestralmente a la Secretaría de la Función Pública Federal, de acuerdo a los lineamientos establecidos;
+Si por haberse agotado la capacidad de retención neta de las instituciones autorizadas sobre algún riesgo, no fuese posible reasegurar con ellas la parte a que se refiere el párrafo anterior, el exceso no cubierto podrá reasegurarse en el extranjero.
 
-IX. Vigilar que las dependencias, las entidades paraestatales y la Procuraduría General de Justicia cumplan con las disposiciones contenidas en los acuerdos y convenios que el estado celebre con la federación o municipios, en donde se derive la inversión de fondos federales y estatales, distintos de obra pública y programas sociales en la entidad, así como supervisar la correcta aplicación de los mismos;
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
-X. Proponer la designación de auditores externos en las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, cuando así se requiera;
+Para computar el monto de las primas que conforme al presente artículo se hayan cedido sobre cualquier riesgo a instituciones autorizadas, se tomará en cuenta solamente el de las que correspondan a la retención neta de las reaseguradoras.
 
-XI. Sugerir los criterios de elegibilidad de los despachos y firmas de auditores externos, en función de sus antecedentes profesionales y definir los lineamientos técnicos y económicos para designar, contratar y evaluar la actuación de los mismos;
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
-XII. Supervisar los trabajos contratados con los despachos externos, y verificar que éstos cumplan con las disposiciones legales y normativas establecidas para su funcionamiento;
+En el reaseguro o coaseguro entre instituciones autorizadas, se dará preferencia a las instituciones nacionales o mexicanas, en el concepto de que dichas operaciones se harán a base de estricta reciprocidad en cuanto al monto de las primas, y por lo mismo, cesará para una compañía la obligación de ofrecer a otra, cuando ésta tenga en su cuenta de primas por reaseguros o coaseguros, un saldo no compensado que alcance la suma de $2,000.00.
 
-XIII. Supervisar la evaluación de observaciones y resultados derivados de los informes emitidos por auditores externos; y en caso de que de los mismos se deriven presuntas irregularidades en el cumplimiento de las funciones de los servidores públicos, incumplimiento a la normatividad o daño patrimonial al erario del estado o al patrimonio de las (sic) organismos públicos descentralizados y fideicomisos paraestatales, turnar al área jurídica correspondiente el dictamen de auditoría para los efectos legales correspondientes establecido (sic) en la Ley de Responsabilidades de Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XIV. Requerir cuando lo estime conveniente, documentación e información complementaria a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, en el seguimiento a los resultados emitidos por auditores externos;
+Tratándose de las operaciones de vida y de accidentes y enfermedades así como de los ramos de responsabilidad civil y riesgos profesionales, de marítimo y transportes, agrícola y crédito, podrá practicarse el reaseguro sin limitación en el país o en el extranjero.
 
-XV. Coordinar en el ámbito de su competencia el desarrollo de las auditorías practicadas al titular del Ejecutivo por los auditores externos, con el objeto de que las observaciones sean atendidas y solventadas oportunamente;
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
-XVI. Informar a la Subsecretaría sobre el resultado de las auditorías practicadas por los auditores externos así como, en su caso, de las acciones de la misma Dirección General de Auditoría Externa y Cuenta Pública;
+En el caso de que se hagan operaciones de reaseguro con instituciones no autorizadas para operar en el país, la institución autorizada que practique el seguro directo, tendrá la obligación de constituir e invertir en los términos de esta Ley, la reserva correspondiente al riesgo cedido y los contratos respectivos deberán someterse a la previa autorización de la Secretaría de Hacienda y Crédito Público.
 
-XVII. Vigilar y verificar que las operaciones financieras efectuadas por las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, se realicen de conformidad con las normas y procedimientos establecidos para el efecto;
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
-XVIII. Llevar a cabo evaluaciones, revisiones, fiscalizaciones, peritajes y auditorías a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia con el propósito de verificar el cumplimiento de sus objetivos, la normatividad y procedimientos establecidos;
+A las instituciones que no cumplan con lo dispuesto en este artículo, se les impondrá una multa de $500.00 a $1,000.00 y en caso de reincidencia, se revocará la autorización.
 
-XIX. Emitir los dictámenes, opiniones e informes relativos a las evaluaciones, inspecciones, revisiones, verificaciones, fiscalizaciones o auditorías que se lleven a cabo en el cumplimiento de sus funciones, así como los que le soliciten, en la esfera de su competencia;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-XX. Formular observaciones y recomendaciones, con base en los resultados de las evaluaciones, revisiones, fiscalizaciones, peritajes y auditorías realizadas en el ejercicio de sus funciones;
+###### ARTICULO 38.
 
-XXI. Desempeñar el cargo de comisario o suplente en los organismos públicos descentralizados y fideicomisos en las que se le designe;
+El seguro de grupo o empresa y el seguro popular a que se refieren los artículos 190 y 191 de la Ley del Contrato de Seguro, se practicarán de acuerdo con sus respectivos reglamentos.
 
-XXII. Colaborar con las distintas áreas de la Secretaría, en trabajos que se encomienden por parte del titular de la Subsecretaría de Auditoría de (sic) Gubernamental y Desarrollo Administrativo;
+###### ARTICULO 39.
 
-XXIII. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría; y,
+Las instituciones de seguros sólo podrán efectuar las operaciones para las que estén especialmente autorizadas y les estará prohibido:
 
-XXIV. Las demás que las leyes le confieran, o le deleguen la o el titular de la subsecretaría de su adscripción y la o el Titular dentro de la esfera de sus atribuciones.
+I.- Hipotecar sus propiedades;
 
-###### ARTÍCULO 29.
+II.- Dar en prenda los valores de su cartera;
 
-Para llevar a cabo las funciones, la Dirección General de Auditoría Externa y Cuenta Pública contará con la siguiente estructura:
+III.- Operar con sus propias acciones;
 
-I. Dirección de Auditoría a Organismos Públicos Descentralizados y Fideicomisos.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-II. Dirección de Control y Seguimiento.
+IV.- Aceptar riesgos mayores de los establecidos en el artículo 21; y
 
-###### ARTÍCULO 30.
+V.- Entrar en sociedades mercantiles de responsabilidad ilimitada y explotar por su cuenta minas, oficinas metalúrgicas, establecimientos mercantiles o industriales o fincas rústicas. En el evento de que adquieran en pago créditos, bienes o establecimientos de los que esta fracción comprende, podrán continuar la explotación por un término que, sin exceder de un año, autorice la Secretaría de Hacienda y Crédito Público.
 
-Corresponde a la Dirección de Auditoría a Organismos Públicos Descentralizados y Fideicomisos además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+Sin embargo, en casos de emergencia, la propia Secretaría podrá autorizar a las instituciones aseguradoras a practicar las operaciones de las fracciones I y II de este artículo.
 
-I. Coordinar la contratación de despachos externos para el desarrollo de auditoría y dictamen de cuenta pública a organismos públicos descentralizados y fideicomisos, de acuerdo a la normatividad y legislación correspondiente;
+###### ARTICULO 40.
 
-II. Establecer interacción entre los despachos externos y los organismos descentralizados para el buen ejercicio de sus funciones;
+Si alguna institución de seguros adquiere acciones, títulos o valores que no deba conservar en su activo, deberá enajenarlos en el término de 60 días, contados desde la adquisición, y, si no lo hiciere, la Secretaría de Hacienda y Crédito Público sacará administrativamente a remate dichos valores.
 
-III. Verificar el avance de los trabajos de auditoría contratados con despachos externos, coordinando acciones con las áreas operativas para el cumplimiento en término de la presentación de la cuenta pública;
+###### ARTICULO 41.
 
-IV. Llevar a cabo la evaluación de observaciones y resultados derivados de los informes emitidos por auditores externos; y en caso de que de los mismos se deriven presuntas irregularidades en el cumplimiento de las funciones de los servidores públicos, incumplimiento a la normatividad o daño patrimonial al erario del estado o al patrimonio de las entidades paraestatales, turnar al área jurídica correspondiente el dictamen de auditoría para los efectos legales correspondientes establecido en la Ley de Responsabilidades de Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza;
+Queda estrictamente prohibido a las instituciones aseguradoras abonar a cualquier persona, ya sean funcionarios, empleados o agentes de las mismas, sobresueldos, gratificaciones, premios o comisiones adicionales basados en el volumen de los seguros que coloquen. Sin embargo, podrán concederse a los agentes, con el objeto de estimularlos, y siempre que no se haga en contra de la técnica y ética del seguro, y que las cantidades desembolsadas por ese concepto, unidas a los otros gastos de adquisición de nuevos negocios, no sobrepasen el límite fijado en esta ley.
 
-V. Integrar en base de datos la información financiera anual e intermedia de las entidades paraestatales para su análisis, clasificación, conciliación y consolidación;
+Ninguna compañía podrá hacer préstamos ni anticipos a sus agentes a cuenta de comisiones, sino sobre las primas del primer año y siempre que éstos otorguen garantía bastante.
 
-VI. Informar a la o el titular de la Dirección General de Auditoría Externa y Cuenta Pública y a su superior jerárquico las observaciones derivadas del análisis y conciliación informativa de las entidades paraestatales;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-VII. Coordinar acciones con los despachos externos así como con las entidades paraestatales en el ámbito de competencia, para el desarrollo de las auditorias practicadas, con el objeto de que las observaciones sean atendidas y solventadas oportunamente;
+###### ARTICULO 42.
 
-VIII. Comunicar a los coordinadores administrativos o equivalentes de las acciones necesarias para facilitar el análisis y presentación de la información en cumplimiento a las disposiciones normativas de la contabilidad gubernamental;
+Los administradores, gerentes y comisarios de las instituciones de seguros, no podrán hacer operaciones en virtud de las cuales resulten o puedan resultar deudores principales o accesorios de la institución, excepción hecha de los préstamos con garantía de las pólizas de vida que dichos individuos tengan en la Compañía. Esta regla se aplicará también a los ascendientes, descendientes y cónyuges de las personas indicadas.
 
-IX. Vigilar y verificar que las operaciones financieras efectuadas por las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, se realicen de conformidad con las normas y procedimientos establecidos para el efecto;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-X. Llevar a cabo evaluaciones, revisiones, fiscalizaciones, peritajes y auditorías a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia con el propósito de verificar el cumplimiento de sus objetivos, la normatividad y procedimientos establecidos conforme al programa de trabajo;
+###### ARTICULO 43.
 
-XI. Emitir los dictámenes, opiniones e informes relativos a las evaluaciones, inspecciones, revisiones, verificaciones, fiscalizaciones o auditorías que se lleven a cabo en el cumplimiento de sus funciones, así como los que le soliciten, en la esfera de su competencia;
+Todo acto, contrato o documento que importe obligación inmediata o eventual para las instituciones de seguros, deberá ser registrado en su contabilidad, la que podrá llevarse sin perjuicio de su valor probatorio legal, en libros encuadernados o en tarjetas u hojas sueltas que llenen los requisitos que fije la Secretaría de Hacienda y Crédito Público.
 
-XII. Vigilar que las dependencias, las entidades paraestatales y la Procuraduría General de Justicia cumplan con las disposiciones contenidas en los acuerdos y convenios que el estado celebre con la federación o municipios, en donde se derive la inversión de fondos federales y estatales, distintos de obra pública y programas sociales en la entidad, así como supervisar la correcta aplicación de los mismos;
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE AGOSTO DE 1936)</small>
 
-XIII. Formular observaciones y recomendaciones, con base en los resultados de las evaluaciones, revisiones, fiscalizaciones, peritajes y auditorías realizadas en el ejercicio de sus funciones;
+###### ARTICULO 44.
 
-XIV. Desempeñar el cargo de comisario o suplente en el organismo público descentralizado o fideicomiso que se le designe;
+El establecimiento, traspaso o clausura de Sucursales, Agencias o Sub-Agencias de instituciones de seguros establecidas en la República, requerirá autorización especial de la Secretaría de Hacienda.
 
-XV. Colaborar con las distintas áreas de la Secretaría en trabajos que se encomienden por parte del titular de la Subsecretaría de Auditoría Gubernamental y Desarrollo Administrativo;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-XVI. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría; y,
+###### ARTICULO 45.
 
-XVII. Las demás que las leyes le confiera, o le deleguen su superior jerárquico y la o el titular de la subsecretaría de su adscripción, dentro de la esfera de sus atribuciones.
+Las instituciones de seguros no podrán repartir a sus accionistas, asegurados, administradores, funcionarios o empleados sino utilidades efectivamente realizadas, aun cuando procedan de ejercicios anteriores; pero en ningún caso destinarán a ese objeto los fondos de reserva que hayan constituído por disposición legal, estipulación de sus estatutos o voto de la Asamblea de Accionistas, para compensar o absorber pérdidas futuras. Tampoco podrán distribuir entre sus accionistas dividendos superiores al 6% del capital, sin haber antes amortizado completamente los gastos de constitución y organización iniciales, en los términos del artículo 26, y ningún reparto será válido mientras exista un déficit en las reservas o en el capital social de la institución, cualquiera que sea su monto.
 
-###### ARTÍCULO 31.
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-Corresponde a la Dirección de Control y Seguimiento además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+Las provisiones que para castigos se establezcan, podrán ser ajustadas de un balance a otro, con aprobación de la Secretaría de Hacienda y Crédito Público, pero sólo en la medida en que se hayan modificado los hechos y factores que sirvieron de base para su cálculo, y respetando siempre las reglas de estimación del activo establecidas en esta ley.
 
-I. Atender las acciones que las auditorías externas practicadas por la Auditoría Superior de la Federación, la Auditoría Superior del Estado, así como las efectuadas en forma coordinada con la Secretaría de la Función Pública Federal;
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
 
-II. Atender y coordinar las solicitudes de información y seguimiento de las distintas autoridades fiscalizadoras;
+ARTICULO 45 bis.- La suma total de saldos a cargo de agentes, documentos por cobrar y deudores diversos solamente se aceptará como inversión de capital y reserva a que se refiere el artículo 32 hasta por el 20% del capital contable de la institución. Cualquier excedente en el activo sobre este porcentaje dará origen a una reserva con cargo a los resultados del ejercicio.
 
-III. Coadyuvar con las dependencias y las entidades paraestatales en la integración de los requerimientos de información previos y definitivos de las autoridades fiscalizadoras;
+No podrán computarse dentro del activo de las instituciones de seguros los títulos de crédito provenientes del pago de la prima, excepto los cheques.
 
-IV. Coadyuvar en forma directa con los responsables de las unidades administrativas de las dependencias y las entidades paraestatales auditadas por parte de la Auditoria Superior de la Federación, la Auditoria Superior del Estado y la Secretaría de la Función Pública Federal para que desde el proceso de planeación se aporte la información de manera completa, ordenada y oportuna;
+Queda prohibido a las instituciones de seguros recibir títulos de créditos sin que contengan la cláusula de “no negociable”, a menos que obtengan autorización de la Secretaría de Hacienda y Crédito Público y siempre que no provengan del pago de la prima.
 
-V. Coadyuvar dentro de su ámbito de competencia en el desarrollo de las auditorías practicadas a las dependencias y las entidades paraestatales por los órganos de fiscalización federal o estatal con el objeto de que las observaciones sean atendidas y solventadas oportunamente;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-VI. Dar seguimiento hasta su cumplimiento a los responsables de las unidades administrativas de las dependencias y las entidades paraestatales auditadas, con la finalidad de que se dé respuesta oportuna y suficiente a las observaciones que determinen los auditores designados por la Auditoría Superior de la Federación, Auditoría Superior del Estado de Coahuila, Secretaría de la Función Pública Federal y demás instancias de fiscalización;
+###### ARTICULO 46.
 
-VII. Coadyuvar con las dependencias y las entidades paraestatales para que las respuestas en vías de solventar irregularidades sea oportuna y suficiente a las observaciones que determinen los auditores designados por la Auditoría Superior de la Federación, la Auditoria Superior del Estado de Coahuila o la Secretaría de la Función Pública Federal;
+La Comisión Nacional de Seguros fijará, para cada una de las operaciones y ramos de seguros, el importe máximo que podrán emplear las instituciones para gastos de adquisición de nuevos seguros, así como el máximo de las comisiones, sueldos, gastos y cualquier otra compensación que les sea permitido pagar a sus agentes y la manera de efectuar esos pagos; en el concepto de que tales comisiones sólo se pagarán sobre las primas que hayan ingresado efectivamente a la compañía. La propia Comisión podrá fijar un límite mayor en los casos a que se refiere este artículo, para los primeros tres años de funcionamiento de las instituciones nacionales y privadas de seguros.
 
-VIII. Informar a la Dirección General de Auditoría Externa y Cuenta Pública sobre las acciones de supervisión relativas a que las dependencias, las entidades y la Procuraduría General de Justicia cumplan con las disposiciones contenidas en los acuerdos y convenios que el estado celebre con la federación o municipios, en donde se derive la inversión de fondos federales y estatales, distintos de obra pública y programas sociales en la entidad, así como supervisar la correcta aplicación de los mismos;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-IX. Conciliar la información de los informes trimestrales que emite la Auditoría Superior de la Federación, la Auditoria Superior del Estado y la Función Pública Federal sobre el estatus de solventación de observaciones;
+###### ARTICULO 47.
 
-X. Proporcionar asesoría permanente con los ejecutores de programas federales en materia normativa, contable y fiscal;
+Para el ramo de vida, las partidas que deben considerarse como gastos de adquisición de nuevos seguros, serán: comisiones a los agentes sobre nuevos negocios, gastos de inspección de agencias, gastos de inspección de riesgos, honorarios por exámenes médicos, sueldos y gastos de agentes inspectores, gastos de agencias, publicaciones y propaganda, y la diferencia entre los anticipos hechos a los agentes sobre la comisión del primer año y lo que hubieren pagado dentro del mismo. A las instituciones nacionales y mexicanas de seguros se les concederá un margen adicional de 5% sobre las primas iniciales pagadas; y durante los primeros cinco años de su funcionamiento, el citado margen será de 10% el primer año, 8% el segundo, 7% el tercero, 6% el cuarto y 5% del quinto en adelante.
 
-XI. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría;
+###### ARTICULO 48.
 
-XII. Mantener integrados y actualizados los expedientes de las auditorías vigentes y remitir al archivo los expedientes concluidos, manteniéndolos disponibles para consulta y,
+En ningún caso las instituciones de seguros ni sus agentes, podrán conceder a sus asegurados reducción de primas, participación en utilidades o comisiones, o cualquiera otra ventaja no especificada en la póliza.
 
-XIII. Las demás que las leyes le confieran, o le deleguen su superior jerárquico y la o el titular de la subsecretaría de su adscripción, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-### CAPÍTULO III. DEL TITULAR DE LA SECRETARÍA
+Las reglas establecidas para determinar el importe de las primas, su devolución, el pago de dividendos en las pólizas en que se contrate ese beneficio y, en general, todas las estipulaciones que contengan los contratos en las diversas operaciones y ramos de seguros, se aplicarán sin excepción a todos los riesgos de la misma clase.
 
-###### ARTÍCULO 32.
+###### ARTICULO 49.
 
-Corresponde a la Dirección General de Desarrollo Administrativo además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+Las instituciones de seguros podrán tener sanatorios, talleres y demás servicios destinados exclusivamente a la atención de los asegurados.
 
-I. Acordar con el titular de la Subsecretaría de Auditoría Gubernamental y Desarrollo Administrativo, los proyectos prioritarios en materia de desarrollo administrativo;
+###### ARTICULO 50.
 
-II. Revisar el programa anual de trabajo propuesto por la Dirección de Desarrollo Administrativo y proponerlo al titular de la Subsecretaría de su adscripción;
+Las solicitudes de seguros deberán contener además de los datos que administrativamente fije la Secretaría de Hacienda y Crédito Público, los siguientes:
 
-III. Revisar y someter para aprobación del titular de la Subsecretaría de su adscripción, la propuesta de los proyectos de desarrollo administrativo que impulsen la calidad total y eficiencia de la administración pública estatal;
+I.- Para el seguro individual de vida, accidente y enfermedades, los datos relativos al solicitante y a su ocupación que sirvan para precisar la tarifa que le corresponda;
 
-IV. Revisar y proponer los cambios de las estructuras orgánicas que se realicen en las dependencias y las entidades de la administración pública estatal, así como en la creación, modificación o supresión de las unidades institucionales del gobierno;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-V. Revisar y avalar el análisis de impacto en relación a los cambios de las estructuras orgánicas que se realicen en las dependencias y organismos públicos descentralizados y fideicomisos de la administración pública estatal, así como en la creación, modificación o supresión de las unidades institucionales del gobierno;
+II.- Para el seguro de grupo, la tarifa completa de primas aplicable.
 
-VI. Revisar y someter para aprobación del titular de la Subsecretaría de su adscripción, las normas y técnicas para la elaboración del manual de organización y el manual de procedimientos de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
+III.- Para el seguro de cosas, los datos relativos a los muebles o inmuebles y a su estado, que sirvan para determinar la tarifa que deba aplicarse.
 
-VII. Revisar y someter para aprobación del titular de la Subsecretaría, las normas administrativas y técnicas que regulen el funcionamiento de los procesos y procedimientos para el control de las funciones de administración pública estatal;
+###### ARTICULO 51.
 
-VIII. Revisar las propuestas de posibles soluciones que mejoren el desempeño de las dependencias y entidades de la administración pública estatal, derivadas como resultado de un diagnóstico organizacional;
+Las pólizas y certificados de seguros que expidan las instituciones aseguradoras, serán numeradas progresivamente por cada serie.
 
-IX. Asegurar la implementación de los manuales de organización, así como los manuales de procedimientos de la administración pública estatal, para su control y seguimiento;
+###### ARTICULO 52.
 
-X. Revisar los avances en la implementación de acciones para la simplificación de trámites y servicios dentro de las dependencias y las entidades paraestatales;
+Las instituciones aseguradoras no podrán, al contratar con los asegurados, modificar o enmendar los modelos de pólizas, endosos o cláusulas especiales que les hubieren sido aprobados por la Secretaría de Hacienda y Crédito Público, ni testar las condiciones en ellos contenidas.
 
-XI. Supervisar la asesoría a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, para instrumentar la metodología de definición de procesos, reingeniería de procesos y mejora continua de los mismos para hacer más eficiente la administración;
+###### ARTICULO 53.
 
-XII. Supervisar la asesoría a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, que lo requieran, a fin de establecer un sistema de gestión de la calidad;
+La Secretaría de Hacienda y Crédito Público fijará administrativamente los casos en que los endosos, cláusulas especiales o modificación de pólizas deben registrarse en los libros de registro que para tal efecto lleve la mencionada Secretaría, estableciendo a la vez los requisitos con que deban expedirse tales documentos.
 
-XIII. Supervisar la asesoría a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia que lo requieran, a fin de lograr la certificación de calidad en su versión vigente, en los procesos claves que repercutan directamente en la atención ciudadana, esto con la finalidad de avalar la calidad y eficiencia de los servicios que el Gobierno Estatal ofrece a la ciudadanía;
+###### ARTICULO 54.
 
-XIV. Evaluar y autorizar los programas de capacitación concernientes a los sistemas de gestión de la calidad, para el mejoramiento profesional de los servidores públicos de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
+Los contratos de prestación de servicio que las instituciones aseguradoras celebren con sus agentes, deberán enviarse a la Secretaría de Hacienda y Crédito Público para su aprobación, sin lo cual no surtirán efecto legal alguno.
 
-XV. Asegurar el cumplimiento de las solicitudes de actualización de los trámites y servicios de las dependencias y las entidades de la administración pública estatal a través del portal de trámites y servicios;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-XVI. Supervisar el programa de premiación de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, así como de servidores públicos que promuevan un sistemas (sic) de gestión de la calidad, y una cultura de valores éticos en el servicio público;
+###### ARTICULO 55.
 
-XVII. Supervisar la promoción de la cultura de calidad y fomentar la participación de las dependencias, las entidades paraestatales y Procuraduría General de Justicia al premio de calidad Coahuila;
+Para el ejercicio de la actividad de agente de seguros, se requiere autorización que la Secretaría de Hacienda otorgará discrecionalmente y que podrá revocar, previa audiencia de la parte interesada, en los términos del reglamento respectivo.
 
-XVIII. Observar el cumplimiento y evaluar los resultados de los proyectos de la Dirección Desarrollo (sic) Administrativo, y presentarlo al titular de la subsecretaría de su adscripción;
+En ningún caso se podrá otorgar autorización para fungir como agente a funcionarios o empleados federales o locales, a funcionarios o empleados de instituciones de crédito o de fianzas y en general, a cualquier persona física o moral que por su posición o por cualquiera otra circunstancia pueda ejercer coacción para contratar seguros.
 
-XIX. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría; y,
+###### ARTICULO 56.
 
-XX. Las demás que las leyes le confieran, o le deleguen la o el titular de la subsecretaría de su adscripción y la o el Titular dentro de la esfera de sus atribuciones.
+Los agentes y funcionarios de las instituciones aseguradoras no proporcionarán datos falsos relativos a sus compañías, ni deprimentes o adversos en cualquier forma para las otras. El agente o funcionario de una institución de seguros que contraviniere este precepto o que en cualquier forma hiciese competencia desleal a otras instituciones aseguradoras, sufrirá una multa que se impondrá administrativamente por la Secretaría de Hacienda, de $100.00 a $500.00 y la cancelación de su tarjeta credencial, independientemente de las responsabilidades penales en que incurra.
 
-###### ARTÍCULO 33.
+###### ARTICULO 57.
 
-Para llevar a cabo las funciones, la Dirección General de Desarrollo Administrativo contará con la siguiente estructura:
+Las instrucciones de carácter general que las instituciones aseguradoras den a sus agentes, relacionadas con sus actividades, deberán sujetarse previamente a la aprobación de la Secretaría de Hacienda y Crédito Público.
 
-I. Dirección de Desarrollo Administrativo.
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-###### ARTÍCULO 34.
+###### ARTICULO 58.
 
-Corresponde a la Dirección de Desarrollo Administrativo además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+Las personas que tengan el carácter de contratantes o de empleados de ellos en cualquier seguro, no podrán ser agentes respecto del mismo. Tampoco podrán los agentes actuar con ese carácter en los contratos de seguro que soliciten otros agentes de la misma empresa aseguradora.
 
-I. Formular y proponer a consideración de la Dirección General de Desarrollo Administrativo, el programa anual de trabajo, de acuerdo al Plan Estatal de Desarrollo;
+###### ARTICULO 59.
 
-II. Desarrollar y proponer a su superior jerárquico los proyectos de desarrollo administrativo que impulsen la calidad total y eficiencia de la administración pública estatal;
+Cualquier propaganda o publicación de las instituciones aseguradoras y de sus agentes, deberá ser aprobada previamente por la Secretaría de Hacienda y Crédito Público. Las empresas aseguradoras responderán de los actos de sus agentes realizados en violación de este artículo. La Secretaría de Hacienda aplicará administrativamente a los inspectores una multa de $100.00 a $500.00 por la primera vez, y podrá revocar la autorización a la empresa o cancelar la credencial al agente, según el caso, si hay reincidencia.
 
-III. Determinar la situación actual en que se encuentra (sic) las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, conforme al programa anual de trabajo, identificando las áreas potenciales respecto al desarrollo organizacional, recurso humano, infraestructura, procesos, tecnología y normatividad con la finalidad de analizar los datos para proponer posibles soluciones que mejoren el desempeño de la organización;
+###### ARTICULO 60.
 
-IV. Opinar respecto a los cambios de las estructuras orgánicas que se realicen en las dependencias y las entidades paraestatales, así como en la creación, modificación o supresión de las unidades institucionales del gobierno;
+En los prospectos de las instituciones aseguradoras, se hará la descripción de los seguros a que se refieran, de manera clara y precisa; en el concepto de que no podrán consignarse sino las ventajas que ofrezcan, sin que pueda en ningún caso, hacerse la descripción en términos ambiguos que permitan confundir un plan con otro que ofrezca mayores garantías o ventajas para el asegurado.
 
-V. Desarrollar e implementar las normas y técnicas para la elaboración del manual de organización y procedimientos de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
+###### ARTICULO 61.
 
-VI. Evaluar y dar seguimiento a la implementación de los manuales de organización, así como a los manuales de procesos y procedimientos de la administración pública estatal, para su control y seguimiento;
+Las instituciones de seguros no podrán exigir a los beneficiarios, que llenen cuestionarios referentes al asegurado fallecido, ni al contrato de seguro que éste hubiere suscrito, si los modelos respectivos no han sido aprobados por la Secretaría de Hacienda y Crédito Público.
 
-VII. Desarrollar y proponer a la Dirección General de Desarrollo Administrativo las normas administrativas y técnicas que regulen el funcionamiento de los procesos y procedimientos para el control de las funciones de las dependencias y las entidades paraestatales;
+###### ARTICULO 62.
 
-VIII. Implementar acciones para la simplificación de trámites y servicios dentro de las dependencias y las entidades paraestatales;
+Las instituciones aseguradoras no podrán en general, designar los seguros en los documentos que empleen para su contratación, con nombres que puedan confundirlos con otros que ofrezcan mayores garantías o beneficios.
 
-IX. Asesorar a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, a través de talleres de planeación estratégica para definir la visión, misión y objetivos de las dependencias y las entidades paraestatales, así como la dirección del quehacer gubernamental, su medición y su razón de ser;
+###### ARTICULO 63.
 
-X. Asesorar a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, para instrumentar la metodología de definición de procesos, reingeniería de procesos y mejora continua de los mismos para hacer más eficiente la administración;
+El certificado médico que pida la institución en caso de fallecimiento del asegurado, expresará las causas y el desarrollo de la enfermedad que originó la muerte. Y si la compañía exige que se expida formulario determinado, éste deberá ser previamente sometido a la aprobación de la Secretaría de Hacienda y Crédito Público.
 
-XI. Asesorar a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, que lo requieran a definir un sistema de gestión de la calidad;
+## TITULO II. De las reservas y de su inversión
 
-XII. Asesorar a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia que lo requieran, a integrar la certificación de calidad en su versión vigente, en los procesos claves que repercutan directamente en la atención ciudadana, esto con la finalidad de avalar la calidad y eficiencia de los servicios que el gobierno estatal ofrece a la ciudadanía;
+### CAPITULO I. De las reservas
 
-XIII. Organizar y coordinar programas de capacitación concernientes a los sistemas de gestión de la calidad, para el mejoramiento profesional de los servidores públicos de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
+###### ARTICULO 64.
 
-XIV. Coordinarse con la Dirección de Capacitación de la Subsecretaría, para capacitar de acuerdo a la norma de calidad y conforme a las necesidades de capacitación de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
+Todas las instituciones de seguros, deberán constituir las siguientes reservas técnicas:
 
-XV. Evaluar y dar seguimiento a los distintos programas implementados en las dependencias y las entidades paraestatales en materia de modernización y desarrollo administrativo;
+I.- Reservas de riesgos en curso para sus pólizas vigentes;
 
-XVI. Auditar, revisar, supervisar y vigilar a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia para asegurar el cumplimiento en materia de calidad y desarrollo administrativo;
+II.- Reservas para obligaciones pendientes de cumplir por pólizas vencidas, por siniestros ocurridos y por dividendos en depósito;
 
-XVII. Coordinar el programa de premiación de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, así como de servidores públicos que promuevan un sistema de gestión de la calidad, así como una cultura de la calidad en el servicio público;
+III.- Reservas de previsión para fluctuaciones de valores y desviaciones estadísticas.
 
-XVIII. Promover la cultura de calidad a través de fomentar la participación de las dependencias, las entidades paraestatales y Procuraduría General de Justicia al premio de calidad Coahuila;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XIX. Actualizar y registrar los trámites y servicios de las dependencias y las entidades paraestatales a través del portal de trámites y servicios;
+###### ARTICULO 65.
 
-XX. Responder las preguntas realizadas por la ciudadanía sobre los diferentes trámites y servicios que ofrecen las dependencias del Gobierno del Estado;
+Las reservas de riesgos en curso que deberán constituir las instituciones de seguros, por los seguros o reaseguros que practiquen, serán:
 
-XXI. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría; y,
+(REFORMADA, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
-XXII. Las demás que las leyes le confieran, o le deleguen su superior jerárquico y la o el titular de la subsecretaría de su adscripción, dentro de la esfera de sus atribuciones.
+I.- La reserva media de primas correspondiente a las pólizas en vigor en el momento de la valuación, disminuída de las primas netas diferidas, para los seguros en los cuales la prima sea constante y la probabilidad del siniestro, creciente con el tiempo.
 
-###### ARTÍCULO 35.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-Corresponde a la Dirección General de Modernización además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+II.- La parte de las primas de tarifa no devengada a la fecha de la valuación para los seguros temporales renovables, dentro del período de cada año en vigor y en el ramo de vida.
 
-I. Acordar con el titular de la Subsecretaría de Auditoría Gubernamental y Desarrollo Administrativo, las estrategias de capacitación para elaborar el programa anual de trabajo;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-II. Presentar y acordar el programa anual de capacitación que facilite el desarrollo de los servidores públicos de las dependencias y las entidades paraestatales;
+III.- Para las operaciones a que se refieren los incisos b) y c) del artículo 11 de esta ley, el 45% del total de las primas emitidas durante el año, correspondientes a las obligaciones asumidas por seguros o reaseguros menos cancelaciones y devoluciones.
 
-III. Revisar y someter para aprobación de la o el titular de la Subsecretaría de su adscripción, las propuestas para la contratación de instituciones, empresas públicas y privadas de capacitación e instructores independientes para la realización de cursos, con base del (sic) presupuesto de egresos aprobado;
+###### ARTICULO 66.
 
-IV. Evaluar los resultados del programa anual de trabajo en base a los indicadores acordados con la Subsecretaría;
+La reserva media de primas, deberá calcularse cada año sobre todas las pólizas con las adiciones y obligaciones que se encuentren en vigor.
 
-V. Seleccionar y proponer instituciones, empresas públicas y privadas de capacitación e instructores independientes para la realización de cursos, con base del (sic) presupuesto de egresos aprobado;
+###### ARTICULO 67.
 
-VI. Elaborar y actualizar los directorios y catálogos de capacitación;
+Para el cálculo de la reserva media de primas correspondiente a las pólizas emitidas por las instituciones que practiquen el seguro de vida, con posterioridad al 31 de diciembre de 1935, usarán las tablas de mortalidad conocidas con el nombre de "Experiencia Americana," o cualquier otra mediante las cuales se obtenga un valor igual o mayor que el que, se obtendría si se calculasen conforme a aquellas tablas. El tipo de interés compuesto que se use para dicho cálculo nunca podrá ser mayor del 4 ½ % anual.
 
-VII. Recibir, canalizar y dar seguimiento a las propuestas, solicitudes, sugerencias e inquietudes de capacitación por parte del personal de las dependencias y las entidades paraestatales;
+Para el cálculo de la reserva media de primas correspondiente a las pólizas emitidas con anterioridad al 31 de diciembre de 1935, se usarán como mínimo y máximo respectivamente, las tablas y el tipo de interés, con que se hubiere hecho la última valuación, debiendo cumplirse, en todo caso, lo dispuesto en el artículo 73.
 
-VIII. Apoyar y orientar las peticiones de capacitación de las demás áreas, así como de las dependencias y las entidades paraestatales;
+La Secretaría de Hacienda y Crédito Público fijará la tabla de morbidez e invalidez que deba usarse en el cálculo de las reservas para los seguros de enfermedad e invalidez siendo en todo caso el tipo de interés no mayor del 4 ½ % anual.
 
-IX. Coordinar con la Dirección General de Desarrollo Administrativo la capacitación relacionada a los sistemas de gestión de calidad, a las dependencias y las entidades paraestatales;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-X. Presentar informes periódicos a la subsecretaría de su adscripción sobre los avances y cumplimiento del plan anual de trabajo;
+###### ARTICULO 68.
 
-XI. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría;
+Las reservas correspondientes a pólizas de seguro que garanticen rentas y en las que haya empezado el período de goce de la renta, se calcularán usando la tabla de mortalidad llamada "Rutherford's Annuity Tables" o cualquier otra que produzca reservas mayores, y se usará un tipo de interés que no sea mayor del 4 ½ % anual.
 
-XII. Las demás que las leyes le confieran, o le deleguen la o el titular de la subsecretaría de su adscripción y la o el Titular dentro de la esfera de sus atribuciones.
+###### ARTICULO 69.
 
-###### ARTÍCULO 36.
+Para la valuación de las pólizas de seguro popular se usará la tabla denominada "Standard Industrial Mortality Table" o cualquiera otra mediante la cual se obtenga para la totalidad de las pólizas de este tipo una reserva mayor. Se usará como máximo en el cálculo de dichas reservas, el tipo de interés anual del 4 ½ %.
 
-Para llevar a cabo las funciones, la Dirección General de Modernización contará con la siguiente estructura:
+Las empresas que demuestren a satisfacción de la Secretaría de Hacienda y Crédito Público que la mortalidad de los asegurados en pólizas de seguro popular es menor que la prevista por la tabla arriba indicada, podrán valuar sus pólizas, con la tabla de mortalidad que más se ajuste a su experiencia.
 
-I. Dirección de Capacitación.
+###### ARTICULO 70.
 
-###### ARTÍCULO 37.
+La reserva media de primas se calculará por el procedimiento de la prima neta nivelada.
 
-Corresponde a la Dirección de Capacitación además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+Las instituciones que lo deseen podrán disminuir de la reserva media así calculada el valor presente de la anualidad de amortización que se previó en la prima de tarifa para cubrir los gastos de adquisición, calculada con las tablas de mortalidad y el tipo de interés usado para determinar la reserva media de primas.
 
-I. Elaborar, proponer el programa anual de capacitación que facilite el desarrollo de los servidores públicos de las dependencias y las entidades paraestatales;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-II. Desarrollar y proponer a la Dirección General los proyectos de capacitación de las dependencias y las entidades paraestatales;
+El período de amortización de los gastos de adquisición será como máximo el de la duración del contrato.
 
-III. Establecer las bases y directrices para la detección de necesidades de capacitación en las dependencias y las entidades paraestatales;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-IV. Seleccionar y proponer instituciones, empresas públicas y privadas de capacitación e instructores independientes para la realización de cursos, con base del (sic) presupuesto de egresos aprobado;
+Los gastos de adquisición deberán estar contenidos en la prima de tarifa y nunca podrán ser mayores que el por-ciento (sic) que de dicha prima fije la Secretaría de Hacienda para cada plan.
 
-V. Elaborar y actualizar los directorios y catálogos de capacitación;
+En ningún caso se permitirá que la reserva media de primas sea menor que la que resulte de aplicar el método llamado "Año Temporal Preliminar."
 
-VI. Recibir, canalizar y dar seguimiento a las propuestas, solicitudes, sugerencias e inquietudes de capacitación por parte del personal de las dependencias y las entidades paraestatales;
+###### ARTICULO 71.
 
-VII. Coordinar con la Dirección de Desarrollo Administrativo, la capacitación relacionada a los Sistemas de Gestión de Calidad, a las dependencias y las entidades paraestatales;
+La expedición de pólizas en las que se ofrezca hacer repartos periódicos de utilidades a los asegurados, por períodos mayores de un año, obliga a la institución a constituir las reservas que correspondan de acuerdo con los procedimientos que administrativamente fije la Secretaría de Hacienda.
 
-VIII. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría; y,
+###### ARTICULO 72.
 
-IX. Las demás que las leyes le confieran, o le deleguen la o el titular de la subsecretaría de su adscripción y la o el Titular dentro de la esfera de sus atribuciones.
+Las compañías estarán obligadas a constituir reservas adicionales cuando los asegurados tengan ocupación peligrosa, pobreza de salud al suscribir el contrato o cuando las pólizas establezcan beneficios adicionales. Dichas reservas se calcularán con los procedimientos que administrativamente determine la Secretaría de Hacienda.
 
-###### ARTÍCULO 38.
+###### ARTICULO 73.
 
-Corresponde a la Subsecretaría de Auditoría de Obra Pública y Programas Sociales además de las señaladas en el artículo 12 del presente ordenamiento, las siguientes:
+Cuando alguno o algunos de los valores que se garanticen en una póliza sean mayores que la reserva terminal respectiva, se aumentará a la reserva media la diferencia entre el importe del valor garantizado más alto y la reserva terminal correspondiente.
 
-I. Formular e implementar los programas generales de control, inspección, revisión, verificación, fiscalización y supervisión, en materia de obra pública, adquisiciones, arrendamientos, contratación de servicios y programas sociales;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-II. Vigilar el cumplimiento de las disposiciones contenidas en los acuerdos y convenios celebrados entre el estado y la federación, de donde se derive la inversión de fondos ya sea de carácter estatal o federal para la ejecución de obras públicas adquisiciones, arrendamientos, contratación de servicios y programas sociales y su correcta aplicación, así como la inversión de fondos estatales convenidos con los municipios;
+###### ARTICULO 74.
 
-III. Formular el programa operativo anual de auditoría y someterlo a la consideración de la o el Titular para su aprobación;
+Si durante cinco años consecutivos, el interés medio neto percibido de las inversiones de una institución de seguros que deba constituir reserva media de primas resulta ser inferior al tipo de interés usado para el cálculo de sus reservas, dicha institución modificará inmediatamente ese tipo para los efectos de la valuación de sus pólizas, de manera que sea cuando más igual al que en promedio hayan redituado dichas inversiones.
 
-IV. Vigilar que las obras públicas y los servicios relacionados con las mismas, los programas sociales, las adquisiciones, arrendamientos y contratación de servicios, se lleven a cabo conforme a la planeación, programación y presupuestos autorizados, en base a la normatividad vigente;
+###### ARTICULO 75.
 
-V. Realizar actividades de auditoría, revisión, vigilancia, verificación, supervisión y fiscalización, directamente o en coordinación con los órganos de control interno de las dependencias y entidades paraestatales, a efecto de verificar que la obra pública, adquisiciones, arrendamientos y contratación de servicios, cumplan con las normas y disposiciones legales aplicables desde su aprobación hasta su entrega y operación;
+La reserva para obligaciones pendientes de cumplir por pólizas vencidas y por siniestros ocurridos, será igual al importe total de las sumas que deba desembolsar la institución al ocurrir el acontecimiento previsto en el contrato.
 
-VI. Ordenar que se lleven a cabo labores de inspección, vigilancia, evaluación, verificación, fiscalización, auditoría y supervisión, directamente o en coordinación con los órganos internos de control de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
+Las reservas que habrán de constituirse para esta clase de obligaciones serán las siguientes:
 
-VII. Vigilar y verificar que se cumplan con las normas y disposiciones legales en materia de adjudicación de contratos de obra pública, servicios relacionados con las mismas, adquisiciones, arrendamientos y contratación de servicios;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-VIII. Verificar el cumplimiento de las obligaciones de los proveedores y contratistas que celebren contratos con las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
+I.- Para el seguro de capitales, las sumas aseguradas en las pólizas respectivas;
 
-IX. Comprobar que la ejecución de la obra pública y servicios relacionados con las mismas, se lleven a cabo conforme a la normatividad aplicable y en base los (sic) requerimientos técnicos adjudicados;
+II.- Para los seguros de daños:
 
-X. Proponer las acciones preventivas y correctivas necesarias para el mejoramiento de la eficiencia la obra pública y los servicios relacionados con las mismas;
+a).- Si se trata de siniestros en los que se ha llegado a un acuerdo por ambas partes, los valores convenidos;
 
-XI. Vigilar que las dependencias, las entidades paraestatales y la Procuraduría General de Justicia cumplan con las disposiciones contenidas en los acuerdos y convenios de coordinación celebrados entre el estado y los municipios de la entidad, de los que se derive la inversión de fondos estatales, así como supervisar la correcta aplicación de los mismos;
+b).- Si se trata de siniestros que han sido valuados en forma distinta por ambas partes, el promedio de esas valuaciones;
 
-XII. Vigilar y verificar que las operaciones efectuadas por las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, en materia de adjudicación de contratos de obra pública, servicios relacionados con las mismas, adquisiciones, arrendamientos y contratación de servicios se realicen de conformidad con las normas y procedimientos establecidos para el efecto;
+c).- Si se trata de siniestros respecto de los cuales los asegurados no han comunicado valuación alguna a las instituciones, la estimación que estas últimas hubieren hecho de esos siniestros. La Secretaría de Hacienda queda facultada en este caso, para rectificar la estimación hecha por las empresas; y
 
-XIII. Formular las observaciones y en su caso, las recomendaciones a las dependencias, las entidades paraestatales, los proveedores y a los contratistas, con base en los resultados de las auditorías, verificaciones, supervisiones, fiscalizaciones y evaluaciones realizadas;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-XIV. Emitir los dictámenes, opiniones e informes relativos a las evaluaciones, inspecciones, revisiones, verificaciones, fiscalizaciones o auditorías que se hayan llevado a cabo en el cumplimiento de sus funciones, así como los que le soliciten, en la esfera de su competencia;
+d).- Si se trata del caso del artículo 135 la cantidad que designe la Secretaría de Hacienda.
 
-XV. Evaluar los procedimientos y operación de las dependencias y llevar a cabo la inspección, seguimiento y evaluación de los procesos relacionados con la inversión pública en materia de obra pública, adquisiciones, arrendamientos, contratación de servicios y programas sociales que realizan las dependencias y entidades paraestatales, con el objeto de proponer la aplicación de medidas conducentes a la mejora;
+III.- La reserva por obligaciones pendientes de cumplir por dividendos dejados en depósito, se calculará teniendo en cuenta los intereses acumulados hasta la fecha de la valuación.
 
-XVI. Habilitar días y horas para la práctica de evaluaciones, revisiones, fiscalizaciones, peritajes y auditorías, notificando con anticipación este hecho al auditado, a fin de que se designe el personal que se requiera para el desarrollo de la misma;
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1961)</small>
 
-XVII. Promover la capacitación permanente del personal a su cargo para el desarrollo profesional y la mejora continua en la prestación de sus servicios; y,
+Las reservas para obligaciones pendientes de cumplir deberán ser constituídas inmediatamente después de que se hayan hecho las estimaciones a que se refieren las fracciones I y II de este artículo y serán invertidas en los términos del primer párrafo del artículo 85. La Comisión Nacional de Seguros podrá, en cualquier momento, avocarse de oficio al conocimiento de un siniestro y mandar constituir la reserva que corresponda.
 
-XVIII. Las demás que las leyes le confieran, la o el Titular expresamente le delegue o atribuya, así como las que le competen a las unidades administrativas a su cargo.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-#### SECCIÓN II. DE LAS DIRECCIONES DE LA SUBSECRETARÍA DE AUDITORÍA DE OBRA PÚBLICA Y PROGRAMAS SOCIALES
+###### ARTICULO 76.
 
-###### ARTÍCULO 39.
+La reserva de previsión para las operaciones de vida se constituirá con el 1% de las primas cobradas durante el año, deducción hecha de la cedidas por concepto de reaseguro.
 
-Para el eficaz desempeño de sus funciones la Subsecretaría contará con las siguientes direcciones de área:
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-I. Dirección de Control y Seguimiento;
+Si el 10% de las utilidades netas que arroje el estado de pérdidas y ganancias formulado de acuerdo con esta Ley, es mayor que el importe de la suma a que se refiere el párrafo anterior, las instituciones aseguradoras deberán constituir como reserva de previsión, precisamente este 10% de las utilidades.
 
-II. Dirección de Fiscalización;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-III. Dirección de Supervisión;
+Para el cálculo de la reserva de previsión en los términos del párrafo anterior, las instituciones aseguradoras no deberán incluir como deducción en su Estado de Pérdidas y Ganancias el 1% de las primas cobradas.
 
-IV. Dirección de Verificación;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-V. Dirección de Auditorías Integrales y Normatividad; y
+La reserva así constituída deberá incrementarse cada año hasta que llegue a tener un valor igual al 10% de las reservas medias de primas, más el 25% de las primas anuales de tarifas de las pólizas de seguro temporal renovable, vigente a la fecha de la valuación.
 
-VI. Dirección de Participación y Contraloría Social.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1961)</small>
 
-###### ARTÍCULO 40.
+###### ARTICULO 77.
 
-Corresponde a la Dirección de Control y Seguimiento además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+La reserva de previsión para las demás operaciones y ramos se constituirá con el 3% de las primas correspondientes a las pólizas emitidas durante el año, menos las cedidas por concepto de reaseguro, las devoluciones y las cancelaciones.
 
-I. Para efectos de planeación, coordinar el programa de auditoría a realizar por las Direcciones de Fiscalización, Supervisión, Verificación, de Auditorías Integrales y Normatividad, así como la de Participación y Contraloría Social;
+Si el 20% de las utilidades que arroje el estado de pérdidas y ganancias es mayor que el importe que arroje el porcentaje a que se refiere el párrafo anterior, las instituciones deberán constituir la reserva de precisión precisamente con este 20% de utilidades.
 
-II. Resguardar por medio de los sistemas informáticos existentes los resultados de las direcciones adscritas a la Subsecretaría de Auditoría de Obra Pública y Programas Sociales de las funciones de auditoría, verificación, fiscalización y supervisión correspondientes;
+La reserva así constituída deberá incrementarse cada año, hasta completar una suma igual al monto del capital mínimo o al 30% de las primas netas retenidas, si el importe de este porcentaje es mayor que el capital mínimo.
 
-III. Asesorar y brindar apoyo a las demás direcciones adscritas a la Subsecretaría de Auditoría de Obra pública y Programas Sociales en materia de sistemas informáticos;
+Las instituciones autorizadas para operar exclusivamente en reaseguro estarán obligadas a constituir e incrementar la reserva a que se refiere este artículo, sólo en la medida en que no les origine o aumente las pérdidas en el ejercicio de que se trate.
 
-IV. Establecer y mantener actualizado el sistema informático de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales y proponer las adecuaciones para su mejora;
+(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1953) (F. DE E., D.O.F. 25 DE FEBRERO DE 1954)
 
-V. Integrar el archivo de los informes de actividades de las direcciones de auditoría con procesos certificados, a efecto de mantenerlos identificados.
+ARTICULO 77 bis.- La reserva de previsión constituída e incrementada en los términos de los dos artículos anteriores será acumulativa y no deberá ser disminuída aun cuando llegare a exceder los topes señalados. Esta reserva sólo podrá afectarse en los casos previstos en esta ley.
 
-VI. Recibir la correspondencia oficial y previo acuerdo con el titular de la Subsecretaría de su adscripción distribuirla entre las direcciones responsables de su atención y vigilar su seguimiento y despacho;
+(REFORMADO, D.O.F. 5 DE ENERO DE 1961) (F. DE E., D.O.F. 9 DE FEBRERO DE 1961)
 
-VII. Mantener actualizada la información relativa a la solventación de observaciones o recomendaciones hechas a las dependencias y a las entidades paraestatales producto de auditorías y elaborar los informes correspondientes;
+###### ARTICULO 78.
 
-VIII. Ser el enlace en materia de acceso a la información, llevando el control y seguimiento de las solicitudes de información que genere la ciudadanía con referencia a obra pública y programas sociales;
+En las instituciones de seguros, la suma del capital pagado, las reservas de capital, las utilidades no distribuídas afectas a este fin y la reserva de previsión, nunca deberá, ser menor del 10% de las reservas de riesgos en curso, si se trata de las operaciones de vida y de accidentes y enfermedades y si la institución tiene hasta $10,000,000.00 de dichas reservas técnicas; del 9% en el caso de reservas técnicas que vayan de $10.000,000.00 a $25.000,000.00; del 8% si las reservas son de $25.000,000.00 a $50.000,000.00; del 7% si las reservas son de $50.000,000.00 a $75.000,000.00; del 6% si las reservas son de $75.000,000.00 a $100.000,000.00; y del 5% cuando las reservas alcancen $100.000,000.00 o más.
 
-IX. Proporcionar a la instancia correspondiente la información que servirá para alimentar periódicamente la página de transparencia en materia de obra pública y programas sociales;
+Tratándose de operaciones de daños, la suma de capital pagado, las reservas de capital, las utilidades no distribuidas afectas a este fin y la reserva de previsión será por lo menos igual al resultado de calcular el 20% de las primas directas más el 10% de las primas de reaseguro emitidas durante el año.
 
-X. Participar como enlace ante la Subsecretaría de Auditoría Gubernamental y Desarrollo Administrativo en materia de certificación de procesos relacionados con el Sistema de Gestión de la Calidad vigente;
+En operaciones de daños, si se trata de empresas autorizadas para operar exclusivamente en reaseguro, la suma a que se refiere el párrafo anterior, será por lo menos igual al 5% de las primas emitidas durante el año.
 
-XI. Participar en representación del titular de la Subsecretaría, en los actos de entrega recepción que se lleven a cabo por funcionarios de la administración pública estatal en materia de obra pública y programas sociales por inicio, cambio o terminación laboral; y,
+Cuando a juicio de la Comisión Nacional de Seguros, tales proporciones no sean suficientes para garantizar las posibles pérdidas por desviaciones estadísticas, la propia Comisión determinará que sean aumentados el capital y las reservas de capital o de previsión, en los términos y condiciones que estime prudentes.
 
-XII. Las demás que las leyes le confiera, o le deleguen la o el Titular y la o el titular de la Subsecretaría dentro de la esfera de sus atribuciones.
+La falta de cumplimiento a lo dispuesto por este artículo, dará lugar a que la Secretaría de Hacienda y Crédito Público señale un plazo que no excederá de un año, para que sean aumentados el capital, las reservas de capital o de previsión, y en caso de incumplimiento, transcurrido dicho plazo, se incurrirá en causa de revocación de la autorización.
 
-###### ARTÍCULO 41.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-Corresponde a la Dirección de Fiscalización además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+###### ARTICULO 79.
 
-I. Llevar a cabo, en la esfera de su competencia, las acciones de fiscalización, inspección, seguimiento y evaluación, a los programas de inversión con recursos propios y transferidos al estado por virtud de los fideicomisos, convenios y acuerdos respectivos celebrados con las dependencias y las entidades de los tres niveles de gobierno a efecto de constatar que se hayan cumplido con las disposiciones contenidas en los acuerdos y convenios celebrados entre la federación y el estado, así como del estado con los municipios;
+Las instituciones de seguros calcularán y registrarán su reservas técnicas al 31 de diciembre de cada año para efectos de balance, sin perjuicio de lo dispuesto en el artículo 84. La Secretaría de Hacienda y Crédito Público podrá ordenar que en cualquier momento se haga una valuación de dichas reservas y las instituciones estarán obligadas a registrarlas e invertirlas de inmediato, conforme a los resultados que arroje dicha estimación para cada operación y ramo.
 
-II. Constatar mediante acciones de fiscalización física, documental y financiera, que las dependencias, las entidades paraestatales y los municipios, cuando existan recursos federales, estatales o mixtos, hayan cumplido con los programas y presupuestos asignados para la realización de obras públicas, adquisiciones, arrendamientos, contratación de servicios e infraestructura derivada de programas sociales, así como con la normatividad aplicable;
+###### ARTICULO 80.
 
-III. Elaborar actas circunstanciadas o cédulas de observaciones en el caso de fiscalizaciones conjuntas con la federación, en las que se registren en forma pormenorizada las incidencias, circunstancias, observaciones e irregularidades, así como los resultados de las acciones implementadas en los procesos de fiscalización y resolver lo conducente;
+Si debido a pérdidas ocurridas a causa de desviaciones estadísticas o fluctuaciones en los valores de las inversiones, se manifiesta un deficiente en las reservas técnicas que deba tener constituídas una institución de seguros, la Secretaría de Hacienda podrá autorizar la reconstitución de dichas reservas mediante:
 
-IV. Realizar las actividades de fiscalización directamente, o en coordinación, en su caso, con la federación, los órganos de control interno de las dependencias y las entidades paraestatales, cuando existan recursos federales, estatales o mixtos, a efecto de comprobar que los recursos aplicados a las obras públicas, adquisiciones, arrendamientos, contratación de servicios y a la infraestructura derivada de programas sociales, se hayan aplicado en forma congruente con el desarrollo de las obras y que se cumplieron con las normas y disposiciones legales aplicables;
+I.- La reducción de las reservas estatutarias, hasta por su monto total;
 
-V. Proponer y coordinar la instalación y funcionamiento de sistemas de información que permitan un control eficiente de las funciones relacionadas con la fiscalización de obras públicas adquisiciones, arrendamientos, contratación de servicios e infraestructura derivada de programas sociales y proporcionar la asesoría técnica y capacitación al personal adscrito a su dirección;
+II.- La reducción de las reservas de previsión, también hasta por su monto total; y
 
-VI. Comisionar al personal adscrito a su dirección que considere pertinente, para que realice actos de fiscalización relacionados con el desempeño de sus funciones y emitir los oficios de comisión correspondientes;
+III.- La reducción de su capital hasta que éste alcance un monto igual o mínimo legal en los términos de esta Ley. En caso de que el capital mínimo se vea afectado, la institución será declarada en estado de disolución.
 
-VII. Constatar durante el proceso de la fiscalización que los contratistas y proveedores de la administración pública cumplieron con los requisitos que establecen las disposiciones legales aplicables para su participación, contratación y ejecución de obra pública adquisiciones, arrendamientos, contratación de servicios e infraestructura derivada de programas sociales;
+Cuando se trate de instituciones que practiquen el ramo de vida, se estará, además, a lo dispuesto en el artículo siguiente.
 
-VIII. Formular a las dependencias y a las entidades auditadas, con base en los resultados de las auditorias, las observaciones resultantes así como las recomendaciones pertinentes, con el objeto de implementar las medidas preventivas y/o correctivas correspondientes. En su caso, y previo acuerdo con la o el titular de la subsecretaría de su adscripción, turnar a la Coordinación General de Asuntos Jurídicos la documentación requerida para los efectos legales a que haya lugar;
+###### ARTICULO 81.
 
-IX. Turnar al área que corresponda, previo acuerdo con la o el titular de la subsecretaría de su adscripción los expedientes de cada caso en particular que requieran la intervención de una autoridad distinta a la administrativa; y,
+Si con la aplicación total de las reservas estatutarias, de previsión, y reducción del capital las instituciones de seguros sobre la vida no logran cubrir el deficiente en sus reservas, ocasionado por desviaciones estadísticas o depreciación de los valores afectos a dichas reservas, la Secretaría de Hacienda podrá autorizar a la institución para que valúe sus pólizas con un procedimiento que se traduzca en una reserva menor; pero siempre que dicha reserva no sea inferior que la que se obtendría de usar la tabla de mortalidad llamada "Experiencia Americana" con el tipo de interés al 4 ½ % y el método de valuación llamado "Año Temporal Preliminar," ni menor también que la reserva que se necesite para que la institución pueda cumplir con los valores garantizados de sus pólizas. Si con todas las medidas anteriores la institución no puede constituir sus reservas técnicas, la Secretaría de Hacienda y Crédito Público la pondrá en estado de disolución.
 
-X. Las demás que las leyes le confieran, o le deleguen la o el Titular y la o el titular de la subsecretaría de su adscripción, dentro de la esfera de sus atribuciones.
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-###### ARTÍCULO 42.
+###### ARTICULO 82.
 
-Corresponde a la Dirección de Supervisión además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+Las instituciones de seguros sobre la vida que se vean obligadas a reducir las bases de valuación de sus reservas medias de primas, en los términos del artículo anterior, no podrán repartir dividendos a sus asegurados ni accionistas mientras no estén en posibilidad de constituir dichas reservas conforme a las bases originales, y mientras no hayan reconstituido las reservas de previsión y las estatutarias y en su caso el capital qué tuvieren que reducir, para poder cubrir los deficientes sufridos.
 
-I. Llevar a cabo, en la esfera de su competencia, las acciones de supervisión, inspección, seguimiento y evaluación, a los programas de inversión con recursos propios y transferidos al estado por virtud de los fideicomisos, convenios y acuerdos respectivos celebrados con las dependencias y las entidades de los tres niveles de gobierno a efecto de constatar que se encuentren dentro de las disposiciones contenidas en los acuerdos y convenios celebrados entre la federación y el estado, así como del estado con los municipios;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-II. Apoyar cuando lo requieran, a las dependencias, a las entidades paraestatales y a los municipios, en actividades que tiendan a la solución de problemas de control, revisión y supervisión de obras públicas e infraestructura derivada de programas sociales, realizando las acciones necesarias que permitan mejorar la eficiencia y el logro de la correcta inversión pública en el estado;
+###### ARTICULO 83.
 
-III. Emitir opinión sobre los aspectos relativos a las acciones que realizan las dependencias y las entidades paraestatales y que deban ser sujetas a fiscalización, a fin de que sean incorporadas al programa de trabajo;
+En las operaciones de reaseguro, practicadas con instituciones autorizadas o no autorizadas, la institución autorizada cedente que haya emitido el seguro directo en el país, deberá retener e invertir también dentro del país, las reservas a que se refieren las fracciones I y II del artículo 64, en los términos de esta Ley.
 
-IV. Supervisar y constatar que los avances programáticos y los recursos ejercidos por las dependencias y las entidades paraestatales, sean congruentes con el desarrollo de las obras, programas y acciones aprobadas por la instancia competente;
+### CAPITULO II. De la inversión de las reservas
 
-V. Supervisar el cumplimiento de convenios, acuerdos y contratos en los que participen las dependencias y las entidades paraestatales, así como los acuerdos y convenios celebrados entre la federación, estado y municipios;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-VI. Comisionar al personal adscrito a su dirección que considere pertinente, para que realice actos de supervisión relacionados con el desempeño de sus funciones y emitir los oficios de comisión correspondientes;
+###### ARTICULO 84.
 
-VII. Proponer las actualizaciones a los lineamientos, las políticas y los programas de trabajo que regulen y orienten el funcionamiento de la Dirección de Supervisión;
+Las reservas técnicas a que se refiere el capítulo anterior deberán constituirse e invertirse en los siguientes términos:
 
-VIII. Proponer la instalación y funcionamiento de sistemas de información que permitan un control eficiente de las funciones relacionadas con la supervisión de obras públicas y programas sociales y proporcionar la asesoría técnica y capacitación al personal adscrito a su dirección;
+I.- Las reservas para riesgos en curso se sujetarán al siguiente régimen:
 
-IX. Coordinar el desarrollo de sus funciones con las que correspondan a las direcciones adscritas a la Subsecretaría;
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-X. Formular, previo acuerdo con la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales y con base en los resultados de las supervisiones realizadas, las observaciones y recomendaciones a las dependencias y a las entidades paraestatales, con el objeto de incrementar la eficiencia de sus operaciones y, en su caso, aplicar las medidas preventivas y correctivas que procedan; y,
+a). En las operaciones de vida, se calcularán y registrarán al 31 de diciembre de cada año. Estas reservas deberán encontrarse íntegramente invertidas en los bienes, créditos y valores que señala el artículo 85 al 31 de enero siguiente. Para ajustar las inversiones de estas reservas a las proporciones que fijan los artículos 86 y 87, las instituciones dispondrán de un plazo que vencerá el 31 de marzo de cada año;
 
-XI. Las demás que las leyes le confieran, o le deleguen la o el Titular y la o el titular de la subsecretaría de su adscripción, dentro de la esfera de sus atribuciones.
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-###### ARTÍCULO 43.
+b). En las operaciones a que se refieren los incisos b) y c) del artículo 11, se calcularán y registrarán al día último de los meses de marzo, junio, septiembre y diciembre de cada año, agregando la reserva correspondiente a la prima emitida en el trimestre de que se trate y deduciendo la de igual período del año inmediato anterior. Estas reservas deberán encontrarse íntegramente invertidas y ajustadas en los términos de los artículos 85, 86 y 87, dentro de los 90 días siguientes a cada una de las fechas antes indicadas.
 
-Corresponde a la Dirección de Verificación además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-I. Llevar a cabo, en el ámbito de su competencia, las acciones de verificación, inspección, seguimiento y evaluación, a los programas de inversión con recursos propios y transferidos al estado por virtud de los fideicomisos, convenios y acuerdos respectivos celebrados con las dependencias y las entidades de los tres niveles de gobierno, a efecto de constatar que se encuentren dentro de las disposiciones contenidas en los acuerdos y convenios celebrados entre la federación y el estado así como del estado con los municipios;
+II.- Las reservas para obligaciones pendientes de cumplir deberán registrarse e invertirse en los términos del artículo 75.
 
-II. Validar el inventario y ubicación geográfica y geodésica de la obra pública ejecutada en el estado y presentar la información en mapas digitalizados mediante una simbología adecuada y vinculada a archivos fotográficos e históricos;
+III.- Las reservas de previsión, calculadas en los términos de los artículos 76 y 77, se registrarán al 31 de diciembre de cada año. Estas reservas deberán encontrase íntegramente invertidas al 31 de enero siguiente en los bienes, créditos y valores que señala el artículo 85 y deberán ajustarse a las proporciones que fijan los artículos 86 y 87 dentro de un plazo que vencerá el 31 de marzo de cada año.
 
-III. Constatar mediante visita al sitio, que las dependencias y las entidades paraestatales, así como los municipios cumplieron con las metas y objetivos programados en materia de obras públicas, servicios relacionados con las mismas y programas sociales;
+(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 4 DE FEBRERO DE 1964)
 
-IV. Constatar que los recursos ejercidos, hayan sido aplicados en forma congruente con el desarrollo de las obras, programas y acciones aprobadas por la instancia competente;
+###### ARTICULO 85.
 
-V. Realizar las actividades de verificación directamente o, en su caso, en coordinación con los órganos de control interno de las dependencias y las entidades y los municipios, a efecto de comprobar que las obras públicas y las acciones de los programas sociales, cumplieron con los objetivos, normas y disposiciones legales aplicables;
+El importe total de las reservas a que se refiere la fracción II del artículo 64, deberá invertirse en valores que a juicio de la Secretaría de Hacienda y Crédito Público sean de fácil realización. Tratándose de obligaciones pendientes de cumplir que sean a plazo determinado, la inversión de sus reservas podrá realizarse en bienes distintos, los cuales serán determinados por la Secretaría de Hacienda y Crédito Público a través de disposiciones de carácter general.
 
-VI. Constatar que las dependencias y las entidades paraestatales y los municipios, hayan cumplido con las disposiciones contenidas en los acuerdos y convenios celebrados entre la federación, el estado y municipios, de donde se derive la inversión de fondos federales y estatales para la realización de obras públicas, servicios relacionados con obra pública y programas sociales;
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
-VII. Constatar que los contratos de obra pública, servicios relacionados con obra pública y programas sociales, que formalizaron las dependencias y las entidades paraestatales, hayan cumplido con la normatividad aplicable;
+Si la reserva fue constituida por orden de la Comisión Nacional de Seguros en el caso previsto en la fracción IV del artículo 135, los productos de la inversión de la reserva quedarán en beneficio del reclamante si el cobro resultare procedente.
 
-VIII. Proponer la instalación y el funcionamiento de sistemas de información que permitan un control eficiente de las funciones relacionadas con la verificación de obras públicas y programas sociales y proporcionar la asesoría técnica y capacitación al personal adscrito a su dirección;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-IX. Comisionar al personal adscrito a su dirección que considere pertinente, para que realice actos de verificación relacionados con el desempeño de sus funciones y emitir los oficios de comisión correspondientes;
+El importe total de las reservas para riesgos en curso, a que se refiere la fracción I del artículo 64, deberá invertirse precisamente en los siguientes bienes:
 
-X. Formular en el ámbito de su competencia y previo acuerdo con la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales y con base en los resultados de las verificaciones realizadas, las observaciones y recomendaciones a las dependencias y a las entidades paraestatales, con el objeto de aplicar, en su caso, las medidas preventivas y correctivas que procedan;
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)(F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-XI. Turnar al área que corresponda, previo acuerdo con la o el titular de la subsecretaría de su adscripción, los expedientes de cada caso en particular que requiera la intervención de una autoridad distinta a la administrativa;
+I.- Primas retenidas correspondientes a reservas constituídas por operaciones de reaseguro celebradas con instituciones de seguros autorizadas o no autorizadas, por la parte retenida por la cedente, así como las inversiones hechas en el extranjero por reservas técnicas correspondientes a operaciones directas practicadas fuera del país por instituciones autorizadas, pero estas últimas inversiones sólo se computarán para los efectos de las operaciones realizadas por la sucursal o agencia correspondiente;
 
-XII. Formular, con base en los resultados de las auditorías realizadas, las observaciones y recomendaciones a las dependencias y a las entidades paraestatales, con el objeto de aplicar las medidas preventivas y en el caso que procesa (sic) aplicar también las medidas correctivas. Asimismo cuando proceda y previo acuerdo con la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales, se turnará a la Coordinación General de Asuntos Jurídicos la documentación integrada para los efectos legales a que haya lugar; y,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XIII. Las demás que las leyes le confiera, o le deleguen la o el Titular y la o el titular de la subsecretaría de su adscripción, dentro de la esfera de sus atribuciones.
+II.- Bonos o títulos emitidos por el Gobierno Federal, por el del Distrito Federal y por instituciones nacionales de crédito, en los términos del artículo 86; así como valores emitidos por organismos públicos descentralizados de carácter federal, aprobados para este efecto por la Comisión Nacional de Valores;
 
-###### ARTÍCULO 44.
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)(F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-Corresponde a la Dirección de Auditorías Integrales y Normatividad, además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+III.- Cédulas hipotecarias y bonos, garantizadas o emitidos por instituciones de crédito legalmente autorizadas;
 
-I. Vigilar y verificar que los procesos de contratación que realicen las dependencias y las entidades paraestatales, cumplan con las disposiciones legales en materia de adquisiciones, arrendamientos y contratación de servicios, así como las aplicables en materia de obra pública y servicios relacionados con las mismas, desde su convocatoria hasta la adjudicación y formalización del contrato;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-II. Supervisar el sistema electrónico de contrataciones gubernamentales CompraNet;
+IV.- Acciones y obligaciones de compañías mexicanas que no sean mineras, petroleras o de seguros, aprobadas para este efecto por la Comisión Nacional de Valores, por medio de acuerdos generales;
 
-III. Verificar las certificaciones electrónicas del CompraNet para la participación de proveedores y contratistas en licitaciones de adquisiciones, obra pública y servicios relacionados con las mismas con recursos estatales y federales;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-IV. Coordinar y vigilar la capacitación y certificación del CompraNet;
+V.- Préstamos con garantía prendaria de las acciones, bonos, títulos o valores a que se refieren las tres fracciones anteriores. El importe del préstamo no excederá del 80% del valor de la prenda, estimado de acuerdo con el artículo 92 de esta ley;
 
-V. Constatar que los procesos de contratación de las adquisiciones, arrendamientos y servicios, obra pública y servicios relacionados con las mismas, cumplan con las disposiciones particulares contenidas en los convenios celebrados entre la federación y estado, así como el estado con los municipios;
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)(F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-VI. Asistir aleatoriamente a los actos derivados de procesos de contratación que realicen las dependencias y las entidades paraestatales, y cuando proceda, emitir opiniones y/o recomendaciones, para que los mismos sean realizados de conformidad con la normatividad aplicable en materia de obras públicas y servicios relacionados con las mismas, así como de adquisiciones, arrendamientos y contratación de servicios;
+VI.- Préstamos con garantía de las reservas medias de primas, siempre que el importe del préstamo no exceda de la reserva terminal correspondiente;
 
-VII. Participar con voz en las reuniones del Comité de Adquisiciones del Gobierno del Estado de Coahuila, y del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública, y vigilar la correcta aplicación de las disposiciones legales vigentes, y cuando así se requiera, emitir opinión respecto a los acuerdos del comité correspondiente;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-VIII. Recibir, revisar, verificar y registrar las solicitudes y documentación presentada por proveedores y contratistas, para su inscripción en el Padrón de Proveedores de la Administración Pública Estatal o en el Padrón de Contratistas, y resolver lo conducente;
+VII.- Préstamos hipotecarios sobre inmuebles urbanos que a juicio de la Comisión Nacional de Seguros se estimen de productos regulares, a plazos no mayores de diez años, siempre que el importe del préstamo no exceda del 50% del valor total de los inmuebles que queden afectos en garantía hipotecaria, ni del 30% de su valor, cuando se trate de inmuebles especializados, de acuerdo con las características que fije la Secretaría de Hacienda y Crédito Público.
 
-IX. Vigilar que los proveedores y contratistas de la administración pública estatal, cumplan con los requisitos que establecen las disposiciones legales aplicables, informando a las dependencias y a las entidades paraestatales, a través de su sistema electrónico de información, sobre las personas físicas y morales que se encuentren impedidas, para presentar proposiciones en procesos de contratación, o para celebrar contratos o pedidos, así como las que incurran en incumplimiento de contrato en perjuicio del Gobierno del Estado;
+Cuando se trate de préstamos hipotecarios sobre inmuebles urbanos destinados a habitación, que reúnan las características que administrativamente fije la misma Secretaría, el plazo de amortización no excederá de quince años ni el importe del préstamo, del 65% del valor del inmueble.
 
-X. Administrar y controlar un sistema electrónico de información, a efecto de conservar actualizado el Padrón de Proveedores de la Administración Pública Estatal y el Padrón de Contratistas, que hayan dado cumplimiento a los requisitos que establecen las disposiciones legales aplicables;
+Los préstamos hipotecarios deberán tener garantía en primer lugar y se reembolsarán por pagos periódicos iguales de capital o de capital de intereses, anuales, semestrales o demás frecuente periodicidad. Los inmuebles dados en garantía deberán estar asegurados contra incendio, terremoto y explosión por su valor destructible. El valor de los inmuebles se determinará de acuerdo con las normas del artículo 92 de esta ley;
 
-XI. Proponer las adecuaciones que permitan hacer más eficiente el control del Padrón de Proveedores de la Administración Pública Estatal y del Padrón de Contratistas;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XII. Realizar las actividades de fiscalización, revisión, supervisión, inspección, verificación y evaluación de adquisiciones, arrendamientos y contratación de servicios realizados por las dependencias y las entidades paraestatales, y dar seguimiento a las irregularidades detectadas hasta su solventación, y sustanciar el procedimiento administrativo correspondiente;
+VIII.- Inmuebles urbanos de productos regulares, en territorio de la República, que deberán estar siempre asegurados contra incendio, explosión y terremoto por su valor destructible;
 
-XIII. Comisionar al personal adscrito a su Dirección que considere pertinente, para que realice actos relacionados con el desempeño de sus funciones y emitir los oficios de comisión correspondientes;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XIV. Asesorar a las dependencias y a las entidades paraestatales, cuando así lo soliciten, respecto de la normatividad en materia de adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con las mismas;
+IX.- Certificados de participación inmobiliaria emitidos en los términos de la Ley General de Títulos y Operaciones de Crédito, con fideicomiso de inmuebles que reúnan las características señaladas en la fracción anterior. Los contratos de fideicomiso deberán ser sometidos a la aprobación de la Comisión Nacional de Seguros. Estos certificados se computarán como inversiones en inmuebles;
 
-XV. Implementar cursos para funcionarios responsables de los procesos de contratación de obras públicas, y adquisiciones, arrendamientos y servicios de las diferentes dependencias, entidades paraestatales y los municipios;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XVI. Coadyuvar con las demás direcciones sobre dictámenes, opiniones e informes en apoyo de verificaciones, supervisiones o fiscalizaciones de obras, acciones y programas sociales que se hayan llevado a cabo por las áreas adscritas a la Subsecretaría;
+X.- Depósitos bancarios a la vista en instituciones de crédito legalmente autorizadas;
 
-XVII. Informar a la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales sobre los resultados de las actividades de revisión, fiscalización, control, inspección, supervisión y evaluación, realizadas en el área de su competencia y sugerir la instrumentación de acciones y medidas preventivas y correctivas necesarias;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XVIII. Emitir previo acuerdo con la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales las observaciones y recomendaciones que resulten entidades paraestatales, apliquen las medidas preventivas y correctivas que procedan; y en su caso y previo acuerdo con la o el titular de la subsecretaría de su adscripción, turnar a la Coordinación General de Asuntos Jurídicos la documentación integrada, para los efectos legales a que haya lugar;
+XI.- Primas de renovación pendientes de cobro que no tengan más de treinta días de vencidas a la fecha del balance o de la estimación, cuando se trate de Instituciones que practiquen operaciones de vida;
 
-XIX. Realizar, en la esfera de su competencia, previo acuerdo con la o el titular de la Subsecretaría de Auditoria de Obra Pública y Programas Sociales, auditorías integrales a obras y servicios relacionados con las mismas, llevados a cabo mediante contrato o administración directa, así como a la contratación de adquisiciones, arrendamientos y servicios;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1961)</small>
 
-XX. Requerir la comparecencia de los proveedores y contratistas involucrados en actos u omisiones que contravengan las disposiciones contenidas en la legislación vigente, relativa a la contratación de adquisiciones, arrendamientos y servicios, obras públicas y servicios relacionados con las mismas, que deriven en incumplimiento de contrato, y en su caso realizar previo acuerdo con la o el titular de la Subsecretaría de Auditoria de Obra Pública y Programas Sociales, el procedimiento administrativo correspondiente hasta su resolución; y,
+XII.- Crédito de habilitación o refaccionarios, descuentos y redescuentos a instituciones de crédito y a fondos permanentes de fomento económico destinados en fideicomiso por el Gobierno Federal en instituciones nacionales de crédito. Las operaciones mencionadas se practicarán de acuerdo con las disposiciones reglamentarias que dicte la Secretaría de Hacienda y Crédito Público.
 
-XXI. Las demás que las leyes le confieran, o le deleguen la o el Titular y la o el titular de la subsecretaría de su adscripción, dentro de la esfera de sus atribuciones.
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)(F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-###### ARTÍCULO 45.
+Las reservas de previsión a que se refiere la fracción III del artículo 64 deberán invertirse precisamente en cualquiera de los bienes, créditos o valores a que se refieren las fracciones II a X y la XII de este artículo.
 
-Corresponde a la Dirección de Participación y Contraloría Social además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-I. Llevar a cabo auditorias a las dependencias y las entidades paraestatales que ejecuten programas sociales en los que se apliquen: recursos federales, estatales, municipales, así como convenidos;
+No podrán considerarse como inversiones de las reservas técnicas, los intereses vencidos y pendientes de cobro de valores o préstamos, ni las rentas de bienes raíces.
 
-II. Llevar a cabo, en la esfera de su competencia, las acciones de supervisión, inspección, seguimiento y evaluación, a los programas de inversión con recursos propios y transferidos al estado por virtud de los fideicomisos, convenios y acuerdos respectivos celebrados con las dependencias y las entidades de los tres niveles de gobierno a efecto de constatar que se encuentren dentro de las disposiciones contenidas en los acuerdos y convenios celebrados entre la federación y el estado, así como del estado con los municipios;
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)(F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-III. Vigilar que los órganos de control interno de las dependencias y entidades paraestatales que desarrollen y ejecuten programas sociales, promuevan eficientemente la participación de la ciudadanía;
+Las inversiones de las reservas técnicas estarán afectas a las obligaciones contraídas por la institución por las pólizas emitidas y no podrán disponer de ellas, total ni parcialmente sino para cumplir las obligaciones contraídas y las que resulten por virtud de sentencia ejecutoria de los tribunales de la República o por laudo de la Comisión Nacional de Seguros, a favor de los asegurados o beneficiarios, de acuerdo con esta ley. Por tanto, los bienes en que se encuentren invertidas las reservas enumeradas en las tres fracciones del artículo 64, son inembargables.
 
-IV. Vigilar que las dependencias y las entidades paraestatales cumplan con las disposiciones contenidas en las leyes, reglas de operación, acuerdos y convenios aplicables en la realización de programas sociales;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-V. Proporcionar a las instancias y organizaciones promotoras y ejecutoras, la asesoría y capacitación sobre la correcta aplicación de las reglas de operación de los programas sociales y contraloría social;
+El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, podrá, mediante disposiciones de carácter general, modificar, reformar y variar los renglones, objetos y límites de inversión de las instituciones de seguros, así como señalar otros nuevos, para satisfacer necesidades de orden social o de interés público.
 
-VI. Supervisar que las dependencias, las entidades paraestatales y los municipios, verifiquen y evalúen el desempeño y las funciones de los integrantes de comités, organismos y organizaciones facultados para desarrollar programas sociales, a fin de coadyuvar al funcionamiento eficiente y a la eficaz consecución de sus objetivos;
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
 
-VII. Informar a la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales sobre el despacho de los asuntos de su competencia, así como del resultado de las revisiones, inspecciones, y evaluaciones de programas, proyectos y planes que desarrollen las dependencias y las entidades paraestatales, los comités y organizaciones autorizadas para ejecutar programas sociales;
+ARTICULO 85 bis.- Para los efectos de inversión, la reserva para riesgos en curso mencionada en la fracción III del artículo 65 quedará sujeta a la deducción del 45% de las primas pendientes de pago, que no tengan más de 30 días de vencidas al cierre del ejercicio, subsistiendo en todo lo que no se oponga a esta regla lo dispuesto en el artículo anterior.
 
-VIII. Recibir quejas y denuncias que le manifieste la ciudadanía derivadas de actos u omisiones que contravengan las disposiciones legales relativas a contraloría social y previo acuerdo con la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales instrumentar acciones de seguimiento a las mismas;
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-IX. Comisionar al personal adscrito a su dirección que considere pertinente, para que realice actos relacionados con el desempeño de sus funciones y emitir los oficios de comisión correspondientes;
+###### ARTICULO 86.
 
-X. Instrumentar, previo acuerdo con la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales, convenios de colaboración interinstitucional, con el objeto de coadyuvar en la coordinación de acciones de capacitación y promoción de la contraloría social y la participación de la ciudadanía en el desarrollo de los mismos;
+Por lo menos el 25% de las reservas técnicas, del capital pagado y de las reservas de capital de las instituciones de seguros, estarán precisamente invertidos en certificados de participación o bonos hipotecarios de las instituciones nacionales de crédito, en valores en serie del Gobierno Federal o del Distrito Federal, emitidos para obras de servicios públicos, garantizados con la afectación en fideicomiso de algún impuesto, cuota de servicio o ingreso suficiente a juicio de la Secretaría de Hacienda y Crédito Público para el servicio de amortización e intereses, siempre que el fideicomiso en favor de los tenedores de valores se constituya en una institución nacional de crédito, o que se otorgue mandato irrevocable en favor del representante común de los tenedores de valores para los cobros de la cuotas de percepción de los ingresos. Para los efectos de la inversión obligatoria a que se refiere este artículo, sólo se computarán los valores antes mencionados, que se emitan con un interés no superior al 6% anual.
 
-XI. Diseñar e instrumentar, previo acuerdo con la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales, sistemas de información y capacitación respecto a la normatividad aplicable en los programas sociales celebrados con la federación y los municipios;
+Un 5% de las reservas técnicas, del capital pagado y de las reservas de capital, deberá estar invertido en bonos para la habitación popular emitidos por instituciones nacionales de crédito. Además, deberá mantenerse invertido cuando menos el 5% de las reservas técnicas, del capital pagado y de las reservas del capital, como sigue:
 
-XII. Formular, en la esfera de su competencia, previo acuerdo con la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales y con base en los resultados de las acciones realizadas, observaciones y recomendaciones a las dependencias, a las entidades paraestatales y los municipios, con el objeto de aplicar las medidas preventivas así como correctivas, según sea el caso;
+1.- En habitaciones populares construídas por las instituciones de seguros, con rentas bajas que, en ningún caso, excedan de $350.00 mensuales, de acuerdo con las características que para cada región del país fije la Secretaría de Hacienda y Crédito Público, previa opinión del Instituto Nacional de la Vivienda; o
 
-XIII. Requerir, previo acuerdo con la o el titular de la Subsecretaría de Auditoria de Obra Pública y Programas Sociales, la comparecencia de los ejecutores de programas sociales;
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-XIV. Formular, con base en los resultados de las auditorías realizadas, las observaciones y recomendaciones a las dependencias y a las entidades paraestatales, con el objeto de aplicar las medidas preventivas y, en su caso, correctivas. Asimismo, previo acuerdo con la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales, turnar cuando proceda a la Coordinación General de Asuntos Jurídicos la documentación integrada para los efectos legales a que haya lugar; y,
+2.- En la edificación de habitaciones populares destinadas a ser vendidas mediante procedimientos de amortización cuyos pagos periódicos, por su poca cuantía, puedan equipararse al importe de rentas, de acuerdo con las características y plazos de amortización que autorice la propia Secretaría de Hacienda y Crédito Público, tras de oír la opinión del Instituto Nacional de la Vivienda; o
 
-XV. Las demás que las leyes le confiera, o le deleguen la o el Titular y la o el titular de la subsecretaría de su adscripción, dentro de la esfera de sus atribuciones.
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-###### ARTÍCULO 46.
+3.- En préstamos hipotecarios con interés no mayor del 7% anual, destinados a la construcción de habitaciones populares, que podrán otorgarse hasta por un 65% del valor del inmueble hipotecado, siempre que el inmueble se utilice precisamente para la habitación del deudor; o
 
-Para el adecuado funcionamiento la Secretaría contará con las siguientes coordinaciones:
+4.- En bonos para la habitación popular emitidos por instituciones nacionales de crédito.
 
-I. Coordinación Administrativa; y
+La Secretaría de Hacienda y Crédito Público, por medio de acuerdos generales, oyendo a la Comisión Nacional de Seguros y a la Comisión Nacional de Valores, podrá admitir que se invierta un 5% de su capital y reservas de capital y técnicas dentro del 25% referido, en valores de la Deuda Pública titulada a cargo del Gobierno Federal, de características distintas a las señaladas en el primer párrafo de este artículo.
 
-II. Coordinación General de Asuntos Jurídicos.
+Las inversiones que hagan las instituciones de seguros en obras de utilidad social, calidad que determinará la Secretaría de Hacienda, con opinión de la Comisión Nacional de Seguros, podrán ser asimiladas a la inversión en valores del Estado, para los efectos del cómputo del 25% que exige este artículo, hasta un 5% de su capital y reservas de capital y técnicas y siempre que las instituciones inviertan en dichas obras cuando menos otro tanto igual al que se les considera, que se afectará a otros renglones de inversión.
 
-###### ARTÍCULO 47.
+Para los efectos de su inversión en los valores a que se refiere este precepto se deducirán del total de las reservas técnicas, las inversiones mencionadas en la fracción I del artículo 85 y las que la Comisión Nacional de Seguros determine previo el estudio correspondiente. Las instituciones autorizadas cedentes, estarán obligadas a hacer la inversión a que se refiere este precepto en la parte que corresponda a las primas retenidas.
 
-Corresponde a la Coordinación Administrativa, además de las señaladas en el artículo 12 del presente ordenamiento, las siguientes:
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-I. Administrar los recursos humanos, económicos y materiales asignados a la Secretaría;
+###### ARTICULO 87.
 
-II. Proporcionar a la Secretaría y a sus unidades administrativas servicios de oficialía de partes, de control y recepción;
+Las inversiones que del importe total de las reservas técnicas a que se refieren las fracciones I y III del artículo 64, haga una institución de seguros en cualquiera de los siguientes bienes, créditos o valores, se limitarán a las proporciones que a continuación se indican respecto de dicho total:
 
-III. Llevar la contabilidad general de la Secretaría, de los programas y fondos especiales de la misma, en los términos de las disposiciones jurídicas y normatividad administrativa aplicables;
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-IV. Implementar y llevar a cabo el registro, control, asignación así como los requerimientos de los recursos federales y estatales que le asignen a la Secretaría;
+I.- Hasta un 30% en los préstamos hipotecarios, y en las cédulas y bonos hipotecarios a que se refieren las fracciones III y VII del artículo 85, así como en los préstamos con garantías de estos valores. No se computarán dentro de este límite los valores de esta clase emitidos ni las cédulas garantizadas por instituciones nacionales de crédito;
 
-V. Ser el responsable del comité de ahorros;
+II.- Hasta un 30% en los inmuebles urbanos a que se refiere la fracción VIII del artículo 85. Las cantidades que inviertan las instituciones de seguros en la construcción o adquisición de un solo inmueble, no excederá del límite que señale discrecionalmente la Comisión Nacional de Seguros, por medio de disposiciones de carácter general con la aprobación de la Secretaría de Hacienda y Crédito Público.
 
-VI. Informar permanentemente a la o el Titular, sobre el estado que guarda el ejercicio del presupuesto de egresos asignado a la Secretaría, así como del trámite de los requerimientos solicitados;
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-VII. Presentar las declaraciones tributarias que corran a cargo de la Secretaría ante las autoridades fiscales competentes;
+La suma de las inversiones a que se refieren las dos fracciones anteriores y la fracción IX del artículo 85 no excederá en ningún caso del 50% de las reservas mencionadas en el primer párrafo de este artículo;
 
-VIII. Establecer los mecanismos necesarios para conservar y mantener los bienes muebles e inmuebles asignados a la misma;
+III.- Hasta un 10% en efectivo o en depósitos bancarios a la vista;
 
-IX. Llevar el control en cuanto a altas y bajas del personal adscrito a la Secretaría;
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-X. Proporcionar a la Secretaría y a sus unidades administrativas servicios de envío de correspondencia, paquetería, mensajería, servicio de copiado, engargolado, fax y otros similares;
+IV.- Hasta un 20% en las acciones a que se refiere la fracción IV del artículo 85 y en préstamos con garantía de las mismas.
 
-XI. Coordinarse con las dependencias responsables del suministro de los bienes y servicios que necesitan las unidades administrativas de la Secretaría para su mejor desempeño, a fin de obtener las características y especificaciones de calidad requeridas, y en su caso, promover ante los proveedores externos el cumplimiento de las mismas; y,
+El 20% establecido en esta fracción podrá invertirse totalmente en valores industriales o en préstamos con garantía de los mismos. Tratándose de valores emitidos por empresas que no sean industriales y de préstamos con garantía de estos valores, no representarán más de la cuarta parte de dicho porciento.
 
-XII. Las demás que las leyes le confieran, el o la Titular expresamente le delegue o atribuya, así como las que le competen a las unidades administrativas a su cargo.
+Las instituciones de seguros podrán invertir hasta el 5% de las reservas técnicas mencionadas en este artículo en acciones de instituciones de crédito o en préstamos prendarios con garantía de dichos títulos, pero estas inversiones se computarán dentro del 20% establecido en la presente fracción.
 
-#### SECCIÓN II. DE LAS DIRECCIONES DE LA COORDINACIÓN ADMINISTRATIVA
+Las inversiones en acciones a que se refiere esta fracción no excederán del 30% del capital de la sociedad emisora;
 
-###### ARTÍCULO 48.
+V.- Hasta un 20% en los descuentos y redescuentos y en créditos de habilitación o refaccionarios a que se refiere la fracción XII del artículo 85; pero sin que las operaciones de préstamos hechas en forma directa excedan del 5% de las reservas técnicas.
 
-Para el eficaz desempeño de sus funciones la Coordinación Administrativa contará con las siguientes direcciones de área:
+Los créditos, títulos o valores de que sea responsable un mismo deudor o emisor, no excederán del 10% de la suma de las reservas técnicas, capital y reservas de capital de la institución inversora, con excepción de los valores a que se refiere el artículo 86 y de las cédulas hipotecarias garantizadas por instituciones hipotecarias legalmente autorizadas.
 
-I. Dirección de Control Presupuestal;
+###### ARTICULO 88.
 
-II. Dirección de Recursos Humanos;
+La Secretaría de Hacienda podrá autorizar a las instituciones para que inviertan en valores extranjeros las reservas correspondientes a obligaciones en monedas extranjeras sin que en ningún caso esa autorización exceda del 25% de las reservas totales.
 
-III. Dirección de Contabilidad; y,
+Para el ramo de vida, una vez que las reservas correspondientes a obligaciones en monedas extranjeras lleguen a ser iguales al 25% ya dicho, las instituciones no podrán ya expedir pólizas en monedas extranjeras. Estos valores podrán ser bonos de gobiernos extranjeros o garantizados por éstos, que se coticen en bolsas oficiales y que se capitalicen al 5 -½ % o menos; y siempre que los intereses hayan sido pagados de una manera regular durante los cinco años anteriores a la fecha de la adquisición. También pueden ser obligaciones de compañías extranjeras, siempre que estén cotizadas en bolsas oficiales y hayan estado al corriente en sus servicios por lo menos durante los cinco años anteriores a la fecha de la adquisición.
 
-IV. Jefatura de Control Vehicular y Mantenimiento General.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-###### ARTÍCULO 49.
+###### ARTICULO 89.
 
-Corresponde a la Dirección de Control Presupuestal además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+Cuando una institución hiciere inversiones de las reservas técnicas en los créditos y bienes a que se refieren las fracciones VII y VIII del artículo 85 de esta ley, se hará constar en las escrituras respectivas a qué operación o ramo de seguros queda afecta esa inversión.
 
-I. Formular en coordinación con las demás áreas de la Secretaría, la calendarización del presupuesto de egresos autorizado para la Secretaría y proponerlo a consideración de su superior jerárquico;
+Las mismas escrituras especificarán que no podrá hacerse ninguna operación con los inmuebles o con los créditos hipotecarios sin autorización previa, en ambos casos, de la Comisión Nacional de Seguros.
 
-II. Emitir los reportes presupuéstales requeridos para la toma de decisiones;
+Cuando una institución de seguros deseare afectar los bienes a que se refiere este artículo a otra operación o ramo de seguros, podrá hacerlo previa autorización de la Comisión Nacional de Seguros, la que ordenará al Registro Público de la Propiedad se haga la inscripción marginal correspondiente. Igual procedimiento se seguirá cuando uno de los bienes de la misma especie no represente inversión de reservas técnicas y se quiera afectarlo a alguna de ellas, con expresión de la operación o ramo correspondiente.
 
-III. Efectuar la adecuación del presupuesto de egresos según los requerimientos del gasto;
+Los inmuebles que adquieran las instituciones de seguros, de acuerdo con la fracción VIII del artículo 85 de esta ley, no deberán tener ningún gravamen y si sobre ellos pesa algún contrato de arrendamiento éste no podrá exceder de 6 años.
 
-IV. Controlar el presupuesto ejercido mensualmente por capítulo estatal y federal;
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-V. Verificar que las afectaciones presupuéstales se realicen de conformidad con las normas y procedimientos establecidos;
+###### ARTICULO 90.
 
-VI. Tramitar la reposición de fondos revolventes, viáticos y pago a proveedores con cargo al presupuesto de egresos autorizado, verificando la documentación comprobatoria de los gastos de acuerdo a los lineamientos establecidos;
+Las instituciones de seguros no podrán, sin autorización previa de la Comisión Nacional de Seguros, prometer en venta, vender, ni dar en arrendamiento por más de 6 años, bienes inmuebles afectos a sus reservas técnicas, a su capital o reservas de capital. Tampoco podrán adquirir inmuebles, otorgar créditos hipotecarios, cancelar garantías hipotecarias u otros derechos reales a su favor, ni adquirir certificados de participación inmobiliaria, sin autorización previa de la Comisión Nacional de Seguros. Para que una institución de seguros, pueda hipotecar o gravar en cualquier forma sus bienes requerirá autorización previa de la Secretaría de Hacienda y Crédito Público, la que sólo se otorgará en casos de emergencia en los términos y condiciones que la propia Secretaría de Hacienda estime convenientes.
 
-VII. Gestionar la liberación de remesas especiales requeridas para el cumplimiento de las funciones de la Secretaría;
+###### ARTICULO 91.
 
-VIII. Organizar y realizar el registro y control de inventarios de activos fijos de la Secretaría;
+Los bienes inmuebles que por cualquier motivo estén gravados con hipotecas, se estimarán en la diferencia entre el avalúo practicado de acuerdo con el artículo 92 y el importe del crédito hipotecario que lo grave.
 
-IX. Gestionar de acuerdo a la normatividad y lineamientos de adquisiciones vigentes, los requerimientos de materiales, bienes o servicios necesarios para el funcionamiento de las unidades;
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1937)</small>
 
-X. Programar y tramitar los pagos de viáticos del personal comisionado;
+###### ARTICULO 92.
 
-XI. Coadyuvar en el comité de ahorros;
+Los valores del activo se estimarán de la manera siguiente:
 
-XII. Coordinar el ejercicio de sus funciones con las unidades responsables del suministro de bienes y servicios para el mejor desempeño de las unidades administrativas de la Secretaría;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
-XIII. Las demás que las leyes le confiera, o le deleguen la o el Titular y la o el titular de la coordinación de su adscripción, dentro de la esfera de sus atribuciones.
+I.- Los bonos, obligaciones y cédulas hipotecarias que se encuentren al corriente en sus servicios de amortización e intereses, se estimarán al valor presente de los futuros beneficios del título, calculado dicho valor al tipo de interés real que según el precio de adquisición devengue el título.
 
-###### ARTÍCULO 50.
+Las obligaciones del Gobierno Federal para obras de servicios públicos y los bonos hipotecarios de instituciones nacionales de crédito, siempre se valuarán por el sistema de amortización;
 
-Corresponde a la Dirección de Recursos Humanos además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
-I. Integrar la documentación necesaria del personal de la Secretaría, de acuerdo a los requisitos establecidos por la Secretaría de Finanzas para conformar la plantilla correspondiente;
+II.- Si los bonos, obligaciones y cédulas hipotecarias no están al corriente en su servicio de amortización e intereses, se estimarán al promedio de las cotizaciones registradas durante los doce meses anteriores a la fecha de la cotización;
 
-II. Revisar que los expedientes, nóminas y pagos del personal estén de acuerdo a los niveles autorizados, así como identificar los faltantes o adeudos e informar a la Secretaría de Finanzas;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
-III. Mantener actualizada la plantilla del personal, registrando las licencias, permisos, incapacidades, prestaciones y servicio médico;
+III.- Las acciones se estimarán al valor promedio de las cotizaciones registradas durante los doce meses anteriores a la fecha de la estimación;
 
-IV. Planear, promover, organizar y coordinar los cursos de capacitación para el personal de la Secretaría;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
-V. Conocer y dar cumplimiento a las condiciones generales de los trabajadores al servicio del estado;
+IV.- Las acciones de las instituciones nacionales de crédito y de seguros serán estimadas como sigue:
 
-VI. Informar mensualmente a la o el titular de la Coordinación Administrativa de las actividades realizadas o cuando él considere necesario;
+a). En su valor nominal, durante los tres primeros años de constituída la institución emisora;
 
-VII. Cumplir y velar por la observancia de las disposiciones jurídicas y normativas que regulen el funcionamiento de la Secretaría; y
+b). Después del período a que se refiere el inciso anterior, en su valor nominal, siempre que la cotización dominante, el día de la estimación o del balance no sea inferior al 95% de dicho valor;
 
-VIII. Las demás que las leyes le confiera, o le deleguen el o la Titular y el o la titular de la coordinación de su adscripción, dentro de la esfera de sus atribuciones.
+c). Cuando la cotización dominante el día de la estimación sea inferior al 95% de su valor nominal, al valor que resulte de acuerdo con las reglas de la fracción III de este artículo;
 
-###### ARTÍCULO 51.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-Corresponde a la Dirección de Contabilidad además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+V.- Los créditos a que se refieren las fracciones V, VI y VII del artículo 85 serán estimados a su valor nominal. Cuando el valor de la garantía no alcance a cubrir el crédito correspondiente se estimarán al valor de realización de esa garantía, estimado por la Comisión Nacional de Seguros;
 
-I. Conservar y resguardar en el archivo a su cargo la documentación soporte de las operaciones contables de la Secretaría;
+(REFORMADA PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1953) (F. DE E., D.O.F. 25 DE FEBRERO DE 1954)
 
-II. Realizar las conciliaciones bancarias, a fin de verificar la aplicación de los recursos de la Secretaría;
+VI.- Los inmuebles urbanos se estimarán por el promedio de avalúos que, conforme a las siguientes bases, practiquen los peritos de las Instituciones de Seguros y que apruebe, en su caso, la Comisión Nacional de Seguros:
 
-III. Llevar la contabilidad de los recursos de origen federal;
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1937)</small>
 
-IV. Conciliaciones de los recursos recibidos de la Secretaría de Finanzas y ante la Secretaría de Hacienda y Crédito Público los recursos federales;
+a). Se calculará el valor físico del inmueble, estimando el valor comercial del terreno, más el costo de reposición de las construcciones, disminuído del demérito por el uso, según se observe por su estado de conservación, y de los castigos que resulten por la ubicación, distribución y demás circunstancias;
 
-V. Dar puntual revisión y seguimiento a los programas federales;
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
 
-VI. Presentar las declaraciones ante la Secretaría de Hacienda y Crédito Público de los recursos estatales y federales que se ejercen en esta Secretaría;
+b). Igualmente se hará una estimación del valor por renta, capitalizando las rentas líquidas que el inmueble sea capaz de producir, usando tipos de interés que fijará administrativamente la Secretaría de Hacienda y Crédito Público, teniendo en cuenta la clase de construcción, el tipo de la misma y demás circunstancias.
 
-VII. Integrar los expedientes de las licitaciones de conformidad con la ley de la materia;
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
 
-VIII. Generar los reportes trimestrales y anuales de los recursos del uno y cinco al millar de origen federal;
+Para calcular la renta líquida, se disminuirán del producto bruto las contribuciones de toda índole, cuotas de agua, gastos de conservación, vacíos, depreciación, seguros y gastos generales de administración.
 
-IX. Revisar y manejar el Sistema de Inversión Pública;
+(REFORMADO, D.O.F. 5 DE ENERO DE 1952) (F. DE E., D.O.F. 28 DE ENERO DE 1952)
 
-X. Las demás que las leyes le confiera, o le deleguen la o el Titular y la o el titular de la coordinación de su adscripción, dentro de la esfera de sus atribuciones.
+Cuando una institución de seguros no esté de acuerdo con algún avalúo practicado, expondrá por escrito, ante la Secretaría de Hacienda, las razones de su inconformidad y ésta resolverá lo que sea de justicia, pudiendo oír, en todo caso, la opinión de otro perito nombrado por la misma Secretaría. Los honorarios de este perito serán pagados también por la institución interesada.
 
-###### ARTÍCULO 52.
+(REFORMADO, D.O.F. 5 DE ENERO DE 1952) (F. DE E., D.O.F. 28 DE ENERO DE 1952)
 
-Corresponde a la Jefatura de Control Vehicular y Mantenimiento General, previo acuerdo con la o el titular de la Coordinación Administrativa, las siguientes:
+Hecha la rectificación de valores de los bienes inmuebles en los términos de esta fracción, no se hará revisión de dichos valores sino cinco años después de la verificación de los avalúos; pero la Secretaría de Hacienda y Crédito Público podrá, en cualquier tiempo, ordenar que se supla el faltante que se produzca por menor productividad líquida anual de los bienes afectos a las reservas, o mandar verificar los valores asignados, aun antes de los cinco años de referencia, si los productos de dichos inmuebles disminuyen en relación con la productividad líquida anual consignada en los avalúos.
 
-I. Registrar y llevar el resguardo y control del parque vehicular, así como el mantenimiento preventivo y correctivo de los bienes muebles e inmuebles a cargo de la Secretaría;
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
 
-II. Controlar y evaluar el uso de los servicios telefónicos, energía eléctrica, servicio postal, mensajería, limpieza y vigilancia;
+Cuando de la revisión que se haga del valor de un inmueble resulte un avalúo superior al de costo o al de adquisición, las instituciones de seguros registrarán en su contabilidad, como valor del inmueble, el que arroje el último avalúo, pero la diferencia en aumento que resulte estará representada por una reserva especial para fluctuación del valor del inmueble. Esta diferencia en aumento sólo se podrá considerar como utilidad, cuando efectivamente se realice en virtud de la venta del inmueble. Por tanto, para los efectos de inversión, el inmueble sólo podrá considerarse con un valor igual al de costo o al de adquisición.
 
-III. Participar en la elaboración del presupuesto para el gasto corriente de la Secretaría, tomando en cuenta las necesidades de materiales y suministros consumibles y servicios requeridos;
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
 
-IV. Llevar el registro y control de los edificios arrendados para el óptimo funcionamiento de la Secretaría;
+Cuando de la revisión que se haga resulte que el valor del inmueble ha disminuido, ésta disminución afectará a la reserva de que habla el párrafo anterior, y si ésta no existiera o fuere insuficiente, se creará desde luego otra por la diferencia que resulte por la baja del inmueble. La pérdida que se sufra por esa baja podrá ser amortizada hasta en cinco años a razón de una quinta parte por año. Para efectos de inversión, en este caso, se tomará el valor del avalúo.
 
-V. Informar mensualmente a la o el titular de la Coordinación Administrativa, o cuando el titular de la coordinación lo considere necesario, sobre las actividades realizadas;
+(REFORMADO, D.O.F. 5 DE ENERO DE 1952) (F. DE E., D.O.F. 10 DE JUNIO DE 1952)
 
-VI. Supervisar el sistema de bitácora de mantenimiento, kilometraje y gasolina, así como el control de activos de vehículos resguardados por la Secretaria;
+Para que las reconstrucciones o reparaciones de inmuebles que aumenten el valor de los mismos, puedan ser computadas en las reservas, las instituciones interesadas someterán a la Secretaría de Hacienda y Crédito Público los proyectos respectivos, y una vez terminadas las obras, dicha Secretaría aceptará como afecto a sus garantías legales, el valor que corresponda a tales reconstrucciones o reparaciones, de acuerdo con el avalúo que al efecto mande practicar.
 
-VII. Dirigir y supervisar el servicio de vigilancia de los bienes e instalaciones de la Secretaría; y,
+(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1953) (F. DE E., D.O.F. 25 DE FEBRERO DE 1954)
 
-VIII. Las demás que las leyes le confieran, o le delegue la o el titular de la coordinación de su adscripción, dentro de la esfera de sus atribuciones.
+No se aceptarán dentro del costo de los inmuebles cantidades cargadas por concepto de intereses, calculados sobre el monto de las inversiones realizadas en la construcción o reconstrucción o sobre el valor del inmueble, cuando dichos cargos se hagan excediendo el plazo autorizado para las obras, o en contravención a disposiciones reglamentarias de la Comisión Nacional de Seguros;
 
-###### ARTÍCULO 53.
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
-Corresponde a la Coordinación General de Asuntos Jurídicos además de las señaladas en el artículo 12 del presente ordenamiento, las siguientes:
+VII.- Los demás bienes y créditos serán estimados por la Secretaría de Hacienda y Crédito Público, de acuerdo con las pruebas conducentes presentadas al efecto y tomando en cuenta las disposiciones de carácter general que sobre el particular dicte la propia Secretaría.
 
-I. Representar legalmente a la Secretaría en los procedimientos judiciales, laborales o administrativos en los fuere (sic) parte o intervenga en el cumplimiento a sus atribuciones, asimismo en aquellos en los que se requiera su intervención;
+### CAPITULO III. Del control de las inversiones
 
-II. Asesorar y apoyar jurídicamente en el área de su competencia a las unidades administrativas de la Secretaría, a las dependencias, las entidades paraestatales y a la Procuraduría General de Justicia, así como a los ayuntamientos del estado, previa solicitud de los mismos;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-III. Fijar y unificar los criterios de interpretación y de aplicación de las disposiciones jurídicas que normen el funcionamiento de la Secretaría;
+###### ARTICULO 93.
 
-IV. Actuar como órgano de consulta y realizar los estudios e investigaciones jurídicas que requiera el desarrollo de las atribuciones de la Secretaría;
+El efectivo y los títulos o valores afectos a las reservas para obligaciones pendientes de cumplir en los términos de los artículos 75 y 86 y del primer párrafo del artículo 85, deberán depositarse precisamente en la Nacional Financiera, S. A., con expresión de las operaciones o ramos a que correspondan dichas inversiones. Estas inversiones quedarán afectas al cumplimiento de las obligaciones de la institución en la operación o ramo correspondiente.
 
-V. Formular, revisar y someter a la consideración de la o el Titular los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas de carácter general relativas a los asuntos de competencia de la Secretaría;
+Los títulos o valores mencionados en las fracciones II, III, IV y IX del artículo 85, afectos a las demás reservas técnicas se depositarán también en la Nacional Financiera, S. A., expresándose asimismo las operaciones o ramos a que correspondan dichas inversiones y quedarán afectas al cumplimiento de las obligaciones de la institución en la operación o ramo correspondiente.
 
-VI. Elaborar los proyectos de normas complementarias administrativas y de control, y programas preventivos en materia de responsabilidades de servidores públicos y de acceso a la información;
+Las instituciones de seguros podrán retirar, en cualquier tiempo, alguno o algunos de los títulos o valores, reemplazándolos por otros de igual valor, previa la aprobación de la Comisión Nacional de Seguros.
 
-VII. Revisar los aspectos jurídicos de las resoluciones, acuerdos, convenios, contratos y demás instrumentos jurídicos que deba suscribir el Titular;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-VIII. Enviar a las autoridades los informes que le sean requeridos a la Secretaría, derivados de asuntos en el que tenga competencia la autoridad requirente;
+###### ARTICULO 94.
 
-IX. Brindar apoyo legal en la atención, trámite y recepción de quejas y denuncias en las que se deriven responsabilidades y obligaciones de servidores públicos;
+La existencia de valores y demás bienes en que se encuentren invertidas las reservas técnicas, deberá justificarse en cualquier momento, en el domicilio legal de la institución, a requerimiento de la Comisión Nacional de Seguros, en la forma que a continuación se indica:
 
-X. Recibir las quejas y denuncias que se presenten, por violación a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, a fin de recabar información, documentos y demás pruebas para instruir, en su caso, el procedimiento de responsabilidad respectivo;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-XI. Practicar de oficio, por denuncia o queja debidamente fundamentada, las investigaciones que correspondan sobre el incumplimiento de las obligaciones y prevenciones que en materia de responsabilidades le competen a los servidores públicos, para lo cual podrá ordenar y llevar a cabo toda diligencia, desahogo de testimonios, practica de visitas de inspección y de auditorías;
+I.- De los valores, mediante la exhibición de los certificados de depósito de la Nacional Financiera, S. A. y en el caso del artículo 99, mediante la exhibición del certificado expedido por el Banco de México, S. A.
 
-XII. Tramitar, sustanciar y resolver los procedimientos administrativos disciplinarios con motivo del incumplimiento de las obligaciones de los servidores públicos de las dependencias, las entidades paraestatales y de la Procuraduría General de Justicia e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y demás disposiciones legales aplicables;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XIII. Tramitar, sustanciar y resolver los procedimientos administrativos disciplinarios con base en los resultados de las auditorías turnadas por la o el titular de la Subsecretaría de Auditoría de Obra Pública y Programas Sociales;
+II.- De los préstamos prendarios, refaccionarios y de habilitación, mediante la exhibición de los documentos respectivos y, en su caso, de los valores pignorados;
 
-XIV. Solicitar, previo acuerdo de la o el Titular, a las dependencias y entidades paraestatales, a la Procuraduría General de Justicia y, en su caso, a las unidades de los Poderes Legislativo y Judicial y de los ayuntamientos, la aplicación de sanciones disciplinarias y resarcitorias que se deriven de responsabilidades administrativas, en contra de quienes resulten responsables por contravenciones a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y demás disposiciones jurídicas aplicables;
+III.- De los préstamos sobre pólizas, mediante la exhibición de los documentos requeridos;
 
-XV. Presentar ante el Ministerio Público competente las denuncias y, en su caso, querellas por hechos probablemente constitutivos de delito que resulten de la aplicación de procedimientos, auditorías, programas e investigaciones a cargo de las unidades administrativas de la Secretaría y que afecten los intereses del estado;
+IV.- De los préstamos hipotecarios, por medio de las escrituras respectivas, a las que se acompañe el dictamen pericial en que conste el valor de la propiedad hipotecada;
 
-XVI. Coordinar, vigilar, supervisar y controlar la recepción, registro y resguardo de las declaraciones de situación patrimonial de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza;
+V.- De los inmuebles, por medio de las escrituras respectivas, a las que deberán estar unidos todos los documentos que constituyan la titulación de la finca así como el comprobante de estar asegurada la propiedad;
 
-XVII. Proponer las normas, formatos y lineamentos generales conforme a los cuales los servidores públicos deberán presentar su declaración de situación patrimonial;
+VI.- De las reservas en otras instituciones autorizadas conforme a la ley, por el estado de reaseguros cedidos por la institución, el que se comprobará por medio de los estados de reaseguros aceptados por las instituciones reaseguradoras, y si se juzga necesario, por las pólizas, contratos y registros respectivos;
 
-XVIII. Proponer la sistematización de los archivos y procedimientos del registro de declaraciones de situación patrimonial de los servidores públicos y mantenerlos actualizados;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-XIX. Requerir a la Secretaría de Finanzas y a los titulares de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, la información relativa a los movimientos de altas y bajas de los servidores públicos con la finalidad de mantener actualizado el padrón de servidores públicos obligados a presentar declaración de situación patrimonial;
+VII.- De los depósitos hechos en bancos, con el estado de cuenta suministrado por el banco y la reconciliación formada entre dicho estado y la cuenta de la institución aseguradora;
 
-XX. Llevar el registro y análisis de la situación patrimonial de los servidores públicos en base a las declaraciones patrimoniales que presenten;
+VIII.- De las inversiones de las reservas en países extranjeros mediante el certificado expedido por autoridad competente, debidamente legalizado; y
 
-XXI. Acordar, ordenar e instrumentar las investigaciones, visitas de inspección y auditorías en relación con la situación patrimonial de los servidores públicos, así como imponer las sanciones que correspondan;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XXII. Recibir, tramitar y resolver las inconformidades que se formulen con motivo de acuerdos, convenios, licitaciones, adjudicaciones y procedimientos de contratación de particulares con las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
+IX.- De las primas de renovación pendientes de cobro, por medio de una relación que indique, por lo menos, el número de la póliza, el importe de la prima y la fecha de su vencimiento, relación que deberá ser comprobada con los registros de primas o con los recibos correspondientes; y
 
-XXIII. Vigilar y supervisar, en coordinación con la subsecretaría respectiva, la celebración de convenios, acuerdos y contratos que suscriban las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
 
-XXIV. Llevar el registro estatal de servidores públicos sancionados e inhabilitados y expedir las constancias de no inhabilitación, en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza;
+X.- Los descuentos y redescuentos a instituciones de crédito, mediante los títulos debidamente endosados, o, en su defecto, por los comprobantes que expida la institución de crédito.
 
-XXV. Celebrar, previo acuerdo de la o el Titular, los contratos, convenios de servicios profesionales y cualquier acto jurídico, en representación de la dependencia, relacionado con las funciones establecidas para la Secretaría conforme a la Ley Orgánica y el presente reglamento;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-XXVI. Vigilar la conservación y preservación de los archivos públicos de la Coordinación General de Asuntos Jurídicos;
+###### ARTICULO 95.
 
-XXVII. Proponer e instrumentar las políticas generales que propicien el acceso a la información pública en los términos de la ley de la materia;
+Si por el informe mensual sobre inversiones de reservas técnicas a que se refiere el artículo 104, se comprueba que el importe de dichas inversiones es menor que el monto total de las reservas calculadas y registradas conforme a lo establecido en el artículo 84, la institución estará obligada a invertir, en los términos de este ordenamiento, el faltante correspondiente, a menos de que por medio de una nueva valuación se demuestre que las inversiones existentes son suficientes para cubrir las reservas calculadas conforme a dicha valuación.
 
-XXVIII. Administrar el sistema informático que permita recibir, turnar y responder de manera pronta y expedita las solicitudes de acceso a la información que sean presentadas a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, de conformidad con lo establecido en la ley de la materia;
+Si por el contrario, el informe mensual arroja un total de inversiones superior al importe de las reservas técnicas calculadas y registradas conforme a lo dispuesto en el artículo 84, la institución podrá obtener autorización de la Comisión Nacional de Seguros para retirar el excedente de inversiones, siempre que la institución demuestre que las inversiones que quedan afectas a las reservas son suficientes para cubrir las reservas técnicas calculadas a la fecha del retiro de valores.
 
-XXIX. Establecer comunicación y coordinación con las dependencias, las entidades paraestatales y la Procuraduría General de Justicia a efecto de atender en la esfera de su competencia, todo lo relacionado en materia de capacitación relacionado a la transparencia y acceso a la información pública;
+###### ARTICULO 96.
 
-XXX. Proponer las políticas, bases y lineamientos en el ámbito de la administración pública estatal para la promoción de la cultura de transparencia en el ejercicio gubernamental;
+La Secretaría de Hacienda, en cualquier momento, podrá solicitar del Registro Público de la Propiedad, certificados respecto de los bienes o créditos de las instituciones aseguradoras, los que serán expedidos sin costo alguno.
 
-XXXI. Llevar la coordinación interinstitucional con los organismos públicos, privados, instituciones educativas en todo lo relativo a la transparencia y acceso a la información pública;
+###### ARTICULO 97.
 
-XXXII. Coordinar el proceso de entrega-recepción correspondiente a la Coordinación General de Asuntos Jurídicos, de acuerdo a la normatividad aplicable; y,
+Las instituciones aseguradoras están obligadas a enajenar, dentro de los tres años, contados desde la fecha de la adquisición, con excepción de los inmuebles urbanos, los bienes raíces que tuvieren que adjudicarse o recibir en pago de sus créditos, o al ejercitar los derechos que les confieren las operaciones que celebren conforme a esta ley.
 
-XXXIII. Las demás que las leyes le confieran, la o el Titular expresamente le delegue o atribuya, así como las que le competen a las unidades administrativas a su cargo.
+###### ARTICULO 98.
 
-#### SECCIÓN II. DE LAS DIRECCIONES DE LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
+Para constituir, en cumplimiento de esta ley, el depósito de valores afectos a las reservas, se procederá en la forma siguiente:
 
-###### ARTÍCULO 54.
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-Para el eficaz desempeño de sus funciones la Coordinación General de Asuntos Jurídicos contará con las siguientes direcciones de área:
+I.- La institución formulará una solicitud a la Secretaría de Hacienda y Crédito Público, indicando el ramo a que deban quedar afectos los valores que desee depositar, y expresando para cada título todos los datos que se requieran para su identificación y los que sean necesarios para determinar su valor, de acuerdo con el artículo 92 de esta ley;
 
-I. Dirección de Control Patrimonial; y
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-II. Dirección de Responsabilidades.
+II.- La Secretaría de Hacienda examinará si los valores propuestos llenan los requisitos de ley, formulando dictamen sobre el particular, y si la resolución fuere favorable, la comunicará a la institución y a la Nacional Financiera, S. A., ordenándole reciba el depósito.
 
-###### ARTÍCULO 55.
+III.- El certificado de depósito deberá contener el concepto legal que la motiva, el ramo de seguros a que se destinan los valores y la declaración de que no podrá ser retirado sin la previa autorización de la Secretaría de Hacienda;
 
-Corresponde a la Dirección de Control Patrimonial además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-I. Vigilar en el ámbito de su competencia, el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza;
+IV.- Hecho el depósito en la Nacional Financiera, S. A., esta institución remitirá a la Secretaría de Hacienda y Crédito Público, el certificado original que contendrá para cada uno de los valores los datos a que se refiere la fracción I de este artículo. Examinado y aprobado el certificado por la Secretaría, se registrará y enviará a la institución aseguradora, conservando copia del mismo para integrar el expediente.
 
-II. Coordinar la integración de un padrón de servidores públicos obligados a presentar la declaración de situación patrimonial;
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-III. Solicitar a la Secretaría de Finanzas y a los titulares de las dependencias y las entidades paraestatales, la información relativa a los movimientos de altas y bajas de los servidores públicos, con la finalidad de mantener actualizado el padrón de servidores públicos obligados a presentar declaración de situación patrimonial;
+###### ARTICULO 99.
 
-IV. Proponer, formular y difundir la normatividad administrativa bajo la cual se debe presentar la declaración de situación patrimonial, así como los manuales, instructivos y formatos de acuerdo con los lineamientos expedidos en la materia;
+Cuando deba hacerse un depósito en efectivo afecto a reservas, fuera del caso a que se refiere la fracción IX del artículo 85, se constituirá en el Banco de México, S. A., observándose lo dispuesto en las fracciones III y IV del artículo anterior.
 
-V. Sistematizar los archivos y procedimientos del registro de declaraciones de situación patrimonial de los servidores públicos y mantenerlos actualizados, así como administrar el sistema electrónico de recepción de declaraciones;
+###### ARTICULO 100.
 
-VI. Coordinar, vigilar, supervisar y controlar la recepción, registro y resguardo de las declaraciones de situación patrimonial de los servidores públicos en los términos de la ley de la materia;
+Cuando quiera invertirse un depósito en efectivo afecto a las reservas o se desee cambiar la naturaleza de la inversión, deberá procederse en los términos del artículo 98.
 
-VII. Asesorar y capacitar a los servidores públicos obligados en la presentación de la declaración de situación patrimonial, así como en el uso de los medios de comunicación electrónica para la recepción de la misma;
+###### ARTICULO 101.
 
-VIII. Expedir los medios de identificación electrónica correspondientes al sistema de recepción de declaraciones;
+Si una institución pretende disponer de los cupones correspondientes a los títulos que hubiere depositado en cumplimiento de esta ley, se procederá como sigue:
 
-IX. Expedir las certificaciones o constancias de las declaraciones patrimoniales que sean solicitadas por autoridades competentes en ejercicio de sus atribuciones o servidores públicos interesados;
+I.- Formulará una solicitud ante la Secretaría de Hacienda y Crédito Público, indicando los valores a que corresponda los cupones, con los datos que se expresan en la fracción I del artículo 98;
 
-X. Integrar el expediente de evolución patrimonial y en caso procedente analizar la información que contenga verificando los datos manifestados en las mismas y, en su caso, citar a los servidores públicos para que realicen las aclaraciones pertinentes;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-XI. Practicar las investigaciones de oficio o a petición de autoridad competente, respecto al incumplimiento de las obligaciones de los servidores públicos en relación con su situación patrimonial y, en su caso, instruir el procedimiento de responsabilidad que proceda;
+II.- Practicado que sea por la Secretaría el estudio respectivo y acordada la solicitud de conformidad, se avisará tanto a la institución como a la Nacional Financiera, S. A., para que haga la entrega de los cupones.
 
-XII. Ordenar y llevar a cabo las investigaciones, visitas de inspección y auditorías en relación con la situación patrimonial de los servidores públicos, así como imponer las sanciones que correspondan;
+###### ARTICULO 102.
 
-XIII. Revisar y resolver las inconformidades de los servidores públicos, respecto a las visitas o auditorías que se les practiquen en relación con su situación patrimonial;
+Si una institución pretende que se le devuelvan todos los valores que hubiere depositado de acuerdo con esta ley, hará una solicitud a la Secretaría de Hacienda y Crédito Público, justificado plenamente no tener obligaciones con los asegurados y con el Estado. Si como consecuencia del estudio practicado por la Secretaría de Hacienda, se acordará en sentido favorable la solicitud, se procederá en los términos de la fracción II del artículo anterior.
 
-XIV. Proponer las políticas, bases, lineamientos y criterios que regulen el funcionamiento de procedimientos e instrumentos para la recepción y atención de quejas, denuncias y sugerencias, relacionadas con el servicio público o el desempeño de los servidores públicos;
+###### ARTICULO 103.
 
-XV. Recibir, tramitar y resolver las quejas, denuncias y sugerencias formuladas con motivo del incumplimiento de las obligaciones de los servidores públicos estatales;
+Cuando una institución de seguros no tenga invertido su capital y reservas, en los términos y proporciones que esta ley señala, la Secretaría de Hacienda la prevendrá que haga los ajustes necesarios en un plazo improrrogable que al efecto se le fije. Si transcurrido dicho plazo la institución no se ha ajustado a la ley, la Secretaría de Hacienda procederá administrativamente al remate de los bienes, créditos o valores en exceso y a la inversión legal del producto, para lo cual tendrá las facultades más amplias de disponer de dichos bienes, créditos o valores y de proceder en rebeldía de la institución afectada. En caso de que no sea posible realizar dicho remate en una segunda almoneda, en la cual se haya fijado como precio un 15% menos del valor original de los bienes que se rematen, la institución será declarada en estado de disolución.
 
-XVI. Practicar las investigaciones que se requieran para la integración de los expedientes relativos y turnar a la autoridad competente aquellas que no fueren competencia de la Secretaría;
+## TITULO III. De la vigilancia e inspección
 
-XVII. Coordinar, diseñar e instrumentar los mecanismos de atención ciudadana para atender con eficiencia y eficacia las quejas, denuncias y sugerencias, y su debido desahogo por parte de las dependencias, las entidades paraestatales y la Procuraduría General de Justicia; y,
+### CAPITULO I. Informes y cuentas
 
-XVIII. Las demás que le (sic) las leyes le confiera, o le deleguen la o el Titular y la o el titular de la coordinación general de su adscripción dentro de la esfera de sus atribuciones.
+###### ARTICULO 104.
 
-###### ARTÍCULO 56.
+Las instituciones de seguros deberán rendir a la Secretaría de Hacienda y Crédito Público la siguiente información, autorizada por los funcionarios o apoderados de las mismas:
 
-Corresponde a la Dirección de Responsabilidades además de las señaladas en el artículo 14 del presente ordenamiento, las siguientes:
+I.- Durante el mes de enero de cada año, un informe sobre las operaciones practicadas del 1°. de enero al 31 de diciembre del año inmediato anterior, que contendrá por lo menos:
 
-I. Vigilar en el ámbito de competencia de la Secretaría el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza;
+a).- Una hoja de trabajo;
 
-II. Practicar las diligencias que estime procedentes en el ámbito de su competencia, a fin de integrar debidamente el expediente relacionado con presuntas irregularidades cometidas por servidores públicos y citar al presunto responsable dentro del procedimiento de investigación administrativa;
+b).- Un estado de pérdidas y ganancias;
 
-III. Expedir el acuerdo de inicio o radicación para la instrucción del procedimiento de responsabilidad administrativa, así como citar por oficio al presunto responsable, en los términos del ordenamiento legal en materia de responsabilidades;
+c).- Un balance general, practicado al 31 de diciembre último;
 
-IV. Ordenar y practicar las investigaciones correspondientes y citar a las audiencias necesarias para poner el expediente de responsabilidad en estado de resolución, así como acordar el cierre de instrucción del procedimiento;
+d).- El cuaderno de valuación, con los datos que administrativamente fije la Secretaría de Hacienda y Crédito Público, cuando se trate de instituciones que operen el ramo de vida.
 
-V. Tramitar los recursos administrativos que le corresponda conocer a la Secretaría de acuerdo con las disposiciones legales vigentes;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-VI. Llevar, vigilar, actualizar y supervisar el padrón de servidores públicos sancionados e inhabilitados y expedir las constancias de inhabilitación o de no inhabilitación, así como de antecedentes de sanción de servidores públicos, a solicitud de parte y previo pago de derechos que correspondan;
+II.- Como un anexo al informe de que habla la fracción anterior, se acompañará al mismo una manifestación de los siniestros ocurridos, de los pagados y de los pendientes de pago durante el ejercicio social de que se trate, por cada uno de los ramos de seguro en que operen.
 
-VII. Rendir los informes en juicios de amparo o cualquier otro que soliciten las autoridades competentes, así como interponer toda clase de recursos o medios impugnativos de conformidad con las leyes de la materia; asimismo actuar en los juicios en que la Secretaría sea parte e intervenir en el cumplimiento de las resoluciones respectivas;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-VIII. Elaborar los proyectos de denuncias o querellas penales necesarias respecto de hechos que puedan constituir delitos derivados de las investigaciones, revisiones, auditorías o fiscalizaciones que se realicen por parte de las unidades administrativas competentes de la Secretaría y turnar los expedientes a la coordinación de su adscripción;
+III.- Dentro de los tres primeros meses de cada año presentarán un informe del seguro practicado en cada uno de los ramos en que operen y por las operaciones realizadas en el año inmediato anterior.
 
-IX. Recibir, tramitar y resolver, en los términos de las leyes en materia de adquisiciones, arrendamientos, contratación de servicios y obras públicas y servicios relacionados con las mismas, las inconformidades que presenten los particulares con motivo de los actos del procedimiento de licitación y contratación, que realicen las dependencias, las entidades paraestatales y la Procuraduría General de Justicia, así como realizar las investigaciones de oficio que resulten pertinentes a partir de las inconformidades que conozca;
+IV.- Durante los primeros diez días de cada mes, un informe del movimiento registrado en sus inversiones en el mes anterior;
 
-X. Brindar asesoría y apoyo técnico en materia de responsabilidades a las unidades administrativas de la Secretaría, a las dependencias, a las entidades paraestatales y a la Procuraduría General de Justicia, así como a los municipios del estado, previa solicitud de los mismos;
+V.- En cualquier época, los informes que solicite la Secretaría de Hacienda de su matrices, sucursales o agencias.
 
-XI. Proponer los proyectos relativos a los criterios y lineamientos en materia de responsabilidades, así como de normas complementarias en materia administrativa, de control, y programas preventivos, con base en los ordenamientos legales aplicables y en concordancia con los objetivos, políticas y prioridades de la Secretaría;
+Las instituciones de seguros al presentar, su informe anual a que se refiere la fracción I de este artículo, acompañarán una solicitud proponiendo inversiones para cubrir el faltante entre las que existan afectas a sus reservas y el importe total de estas últimas que resulten de dicho informe, a fin de que tales reservas se encuentren íntegramente invertidas dentro del plazo a que se refiere el artículo 84.
 
-XII. Como órgano de consulta compilar las normas jurídicas relacionadas con las funciones de la Secretaría;
+Las instituciones de seguros deberán dar aviso por escrito a la Secretaría de Hacienda y Crédito Público, con 10 días de anticipación, de los cambios de sus oficinas.
 
-XIII. Revisar desde el punto de vista jurídico los decretos, acuerdos, convenios, contratos y demás actos jurídicos en los que intervenga la Secretaría, asimismo apoyar y asesorar en la celebración de los mismos a las dependencias, las entidades paraestatales y la Procuraduría General de Justicia a efecto de que sean observadas las disposiciones legales aplicables;
+###### ARTICULO 105.
 
-XIV. Llevar el registro, archivo y control de los acuerdos, convenios y contratos que celebre la administración pública del estado, en las que se involucren atribuciones y obligaciones de la Secretaría, atendiendo a los lineamientos que determine el titular de la misma; y,
+Los informes que deban rendir la instituciones de seguros, conforme a esta ley, se ajustarán precisamente a los modelos que apruebe la Secretaría de Hacienda y Crédito Público.
 
-XV. Las demás que las leyes le confiera o le deleguen la o el Titular y la o el titular de la coordinación general de su adscripción dentro de la esfera de sus atribuciones.
+Los informes anuales serán enviados a la Secretaría de Hacienda, debidamente encuadernados y foliados, y contendrán la documentación principal a que se refiere la fracción I del artículo 104, así como los anexos relativos, y todos los datos numéricos que contengan, deberán corresponder exactamente con los que arrojen las cuentas relativas de su contabilidad.
 
-###### ARTÍCULO 57.
+La infracción a lo dispuesto en los párrafos anteriores así como la consignación de datos abreviados o enmendados que den lugar a duda respecto a lo que representen, será motivo para que el importe respectivo sea rechazado, y se fije un nuevo plazo improrrogable para su presentación. En caso de reincidencia, de que el informe no sea presentado en el plazo que se señale, o que sea nuevamente rechazado, se aplicará una multa de $500.00 a $1,000.00 fijada administrativamente por la Secretaría de Hacienda. En la misma forma se castigará la anotación de partidas virtuales en la contabilidad de las instituciones, salvo aquellas que se refieran a rentas en edificios de su propiedad. La Secretaría de Hacienda, para ese caso, fijará la cantidad que por concepto de renta deba aparecer cargada en los gastos de la institución.
 
-Previo acuerdo del titular del Ejecutivo, la Secretaría para el mejor desempeño de los asuntos de su competencia podrá contar con órganos administrativos desconcentrados, que estarán, jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso.
+###### ARTICULO 106.
 
-###### ARTÍCULO 58.
+Las instituciones de seguros deberán llevar los libros de contabilidad que previene el Código de Comercio y los siguientes auxiliares:
 
-La Secretaría tendrá a su cargo la organización y la coordinación de mecanismos que permitan el control y evaluación de la gestión pública, así como del desarrollo y modernización en la administración pública estatal, a fin de que los recursos humanos, patrimoniales, financieros, y los sistemas de control y los procedimientos técnicos de la misma, sean aprovechados aplicando criterios en apego a las leyes, propiciando en todo momento la eficacia, eficiencia, descentralización, desconcentración y la simplificación administrativa.
+I.- De caja;
 
-La Secretaría será coordinadora de sector en las materias de control, evaluación, desarrollo, informática y modernización administrativa y las dependencias y entidades paraestatales estarán agrupadas a la misma en estas materias.
+II.- De cuentas corrientes;
 
-La coordinación de estos sectores se regirá conforme a los acuerdos respectivos que para tal efecto expida el titular del Ejecutivo, y la Secretaría podrá realizar los estudios y análisis necesarios sobre estas materias, y dictar las disposiciones administrativas y lineamientos generales que sean necesarios al efecto, tanto para las dependencias y las entidades paraestatales.
+III.- De inversiones:
 
-En materia de informática, la coordinación de sector se regirá por las disposiciones que para tal efecto emita la Secretaría.
+a).- Afectas a las reservas; y
 
-###### ARTÍCULO 59.
+b).- No afectas a las reservas.
 
-La o el Titular será suplido en sus ausencias temporales por la o el titular de la subsecretaría, coordinación general o coordinación que para ese efecto designe, informando de ello al titular del Ejecutivo.
+IV.- Registro de pólizas y certificados;
 
-###### ARTÍCULO 60.
+V.- Registro de Reaseguros Cedidos;
 
-Las o los titulares de las subsecretarías, coordinaciones generales y coordinaciones serán suplidos en sus ausencias por la o el titular de la dirección que para ese efecto, designe la o el Titular.
+VI.- Registro de Reaseguros Tomados;
 
-###### ARTÍCULO 61.
+VII.- Registro de Endosos;
 
-Las o los titulares de las direcciones y direcciones generales serán suplidos durante sus ausencias por sus respectivos titulares de las direcciones, subdirecciones y en ausencia de éstos, por la jefa o el jefe de departamento que designe la o el Titular, la o el titular de la subsecretaría o coordinaciones.
+VIII.- Registro de Siniestros;
 
-## TÍTULO SÉPTIMO. DE LOS NOMBRAMIENTOS Y LICENCIAS
+IX.- Registro de Vencimientos;
 
-###### ARTÍCULO 62.
+X.- Copiador de pólizas, o copias al carbón de las mismas;
 
-La o los titulares de las subsecretarías, coordinaciones generales y coordinaciones acordarán con la o el Titular los nombramientos del personal que requieran para sus respectivas áreas, conforme a la plantilla de personal que al efecto se autorice.
+XI.- Copiador de endosos y copias al carbón de los mismos;
 
-###### ARTÍCULO 63.
+XII.- De las demás cuentas de control del libro mayor.
 
-Las licencias al personal de confianza podrán ser hasta por quince días con goce de sueldo, cuando se trate de casos de extrema necesidad y de uno hasta por noventa días, sin goce de sueldo, por cualquier otra causa.
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
-## TÍTULO TERCERO. DE LAS SUBSECRETARÍAS
+Para el ramo marítimo y de transportes, además:
 
-### CAPÍTULO IV. DE LAS SUBSECRETARÍAS, COORDINACIÓN GENERAL Y COORDINACIÓN
+XIII.- Registro de pólizas abiertas;
 
-###### ARTÍCULO 64.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-La o el Titular, las o los titulares de las subsecretarías, coordinaciones generales y coordinaciones, determinarán la procedencia y naturaleza de las solicitudes de licencia, para lo cual deberán considerar las necesidades del servicio de sus respectivas áreas.
+Para las operaciones de vida, además:
 
-T R A N S I T O R I O S
+XIV.- Registro de asegurados para pólizas de grupo;
 
-PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+XV.- De préstamos sobre pólizas;
 
-SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Contraloría del Estado de Coahuila publicado en el Periódico Oficial del Gobierno del Estado No. 22 del 16 de marzo de 2004.
+XVI.- Registro de rescates;
 
-TERCERO.- Se derogan todas las disposiciones que se opongan al presente reglamento.
+XVII.- Registro de caducidad y terminaciones;
 
-CUARTO.- Los asuntos que se refieran a actos o resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente reglamento, se tramitarán, resolverán, defenderán y, en general, serán de la competencia de la unidad administrativa de la Secretaría que tenga para estos efectos la competencia por sujetos, entidades y materias que corresponda, conforme a este reglamento.
+XVIII.- Registro de primas netas, cobradas, iniciales y de renovación.
 
-DADO. En la residencia del Poder Ejecutivo, en la ciudad de Saltillo, Coahuila de Zaragoza, a los nueve días del mes de septiembre de dos mil trece.
+Cuando el copiador de pólizas y endosos se lleve en hoja sueltas, éstas deberán encuadernarse y empastarse en orden progresivo.
 
-"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+Las instituciones que practiquen varias de las operaciones y ramos de seguros que se señalan en el artículo 11, deberán llevar los libros auxiliares que para las distintas operaciones y ramos se indican en este artículo, para fines de manejo interior y de la inspección y para la graduación de acreedores, en su caso, anotando en ellos lo que corresponda a cada operación o ramo.
 
-RUBÉN IGNACIO MOREIRA VALDEZ
+(REFORMADO, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
-(RÚBRICA)
+###### ARTICULO 107.
 
-EL SECRETARIO DE GOBIERNO
+Los libros de contabilidad, los auxiliares y registros a que se refiere el artículo anterior, se ajustarán a los modelos que al efecto apruebe la Secretaría de Hacienda y Crédito Público y podrán ser llevados en libros encuadernados o en tarjetas u hojas sueltas que llenen los requisitos que fije la misma Secretaría.
 
-ARMANDO LUNA CANALES
+###### ARTICULO 108.
 
-(RÚBRICA)
+Las sucursales de instituciones extranjeras conservarán copias de los estados de cuentas que rindan a sus oficinas principales, el original de toda la documentación que se relacione con las operaciones de seguros practicadas en el país y las conformidades u observaciones que reciban sobre las cuentas rendidas.
 
-EL SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
+###### ARTICULO 109.
 
-JORGE EDUARDO VERÁSTEGUI SAUCEDO
+El Libro Mayor de la contabilidad deberá llevarse en forma tabulada, a fin de clasificar dentro de cada cuenta, las operaciones correspondientes a cada una de las monedas en que se opere, debiendo tener además, una columna total en la que se anotarán los equivalentes en moneda nacional.
 
-(RÚBRICA)
+Las instituciones de seguros deberán registrar sin limitación, todas y cada una de las operaciones que practiquen, cualquiera que sea su origen; y por lo que respecta a operaciones reales en moneda extranjera, cualquiera que sea el sistema de registro o de distribución empleado, deberán ser asentadas en la contabilidad al valor real de la operación en moneda nacional, a fin de que la contabilidad arroje los resultados verdaderos y exactos en moneda nacional.
 
-### CAPÍTULO V. DE LAS DISPOSICIONES COMUNES A LAS DIRECCIONES GENERALES Y DIRECCIONES
+Las partidas que anualmente se vayan acumulando por depreciación, deberán llevarse en cuentas de reserva, a fin de presentarlas en el Balance en la forma que indique el estado respectivo del informe anual.
 
-### CAPÍTULO ÚNICO. DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS AL DESPACHO DEL TITULAR
+###### ARTICULO 110.
 
-## TÍTULO CUARTO. DE LAS COORDINACIONES
+Las cuentas que deban llevar las instituciones de seguros, se ajustarán estrictamente al catálogo que al efecto autorice la Secretaría de Hacienda. Previa autorización de la Secretaría de Hacienda, las instituciones que lo necesiten, podrán introducir nuevas cuentas indicando en su solicitud las razones que tengan para ello. En este caso, se adicionará el catálogo respectivo.
 
-### CAPÍTULO I. SUBSECRETARÍA DE AUDITORÍA GUBERNAMENTAL Y DESARROLLO ADMINISTRATIVO
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-#### SECCIÓN I. ATRIBUCIONES DE LA SUBSECRETARÍA DE AUDITORÍA GUBERNAMENTAL Y DESARROLLO ADMINISTRATIVO
+###### ARTICULO 111.
 
-### CAPÍTULO II. SUBSECRETARÍA DE AUDITORÍA DE OBRA PÚBLICA Y PROGRAMAS SOCIALES
+Los libros de contabilidad y los registros, a que se refiere esta ley, deberán conservarse disponibles en las oficinas de la institución y no podrán retardarse en sus asientos por más de 45 y de 5 días respectivamente. El registro de siniestros y vencimientos deberá llevarse al día.
 
-#### SECCIÓN I. ATRIBUCIONES DE LA SUBSECRETARÍA DE AUDITORÍA DE OBRA PÚBLICA Y PROGRAMAS SOCIALES
+La contabilidad, registros, informes y demás documentación, relacionada con las operaciones de seguros en México, deberán consignarse en idioma español.
 
-## TÍTULO QUINTO. DE LOS ÓRGANOS DESCONCENTRADOS ADSCRITOS A LA SECRETARÍA
+###### ARTICULO 112.
 
-### CAPÍTULO I. DE LA COORDINACIÓN ADMINISTRATIVA
+Las agencias y sucursales de las instituciones de seguros, están obligadas a ministrar los informes que en cualquier tiempo les solicite la Secretaría de Hacienda y Crédito Público, en relación con las operaciones de seguro en que intervengan, pudiendo la citada Secretaría ordenar se practiquen las visitas que juzgue necesarias.
 
-#### SECCIÓN I. ATRIBUCIONES DE LA COORDINACIÓN ADMINISTRATIVA
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
 
-## TÍTULO SEXTO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
+###### ARTICULO 113.
 
-### CAPÍTULO II. COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
+Las instituciones de seguros deberán publicar su balance general anual en el “Diario Oficial” de la Federación y en un diario de los de mayor circulación, según el modelo establecido por la Comisión Nacional de Seguros, dentro de los cuatro meses siguientes a su fecha; sin perjuicio de lo cual, si la Comisión Nacional de Seguros al revisar los balances ordenara modificaciones o correcciones que, a su juicio fueren fundamentales, podrá acordar que se haga una nueva publicación del balance general corregido y, en este caso, la publicación deberá hacerse dentro de los quince días siguientes a la notificación del acuerdo respectivo.
 
-#### SECCIÓN I. ATRIBUCIONES DE LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
+Las instituciones no podrán pagar los dividendos decretados por sus asambleas generales de accionistas, ni participaciones sobre utilidades, antes de la aprobación del balance. Sin embargo, la Comisión Nacional de Seguros, discrecionalmente, podrá autorizar el reparto parcial de dichas utilidades, antes de la aprobación, siempre que la utilidad del ejercicio de que se trate sea igual o superior al promedio de las obtenidas en los tres ejercicios inmediatos anteriores.
+
+### CAPITULO II. De la vigilancia e inspección de la instituciones
+
+###### ARTICULO 114.
+
+La inspección y vigilancia de las instituciones de seguros, de sus sucursales y agencias, quedará confiada a la Secretaría de Hacienda y Crédito Público.
+
+(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949) (F. DE E., D.O.F. 16 DE MARZO DE 1949)
+
+###### ARTICULO 115.
+
+Los funcionarios o empleados encargados de la inspección y vigilancia de las instituciones de seguros, no podrán ser consejeros, administradores, funcionarios, empleados o agentes de las instituciones o establecimientos que conforme a esta Ley están sujetos a la inspección y vigilancia de la Secretaría de Hacienda. Se exceptúan de la regla anterior a los Vocales de la Comisión Nacional de Seguros.
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+
+###### ARTICULO 116.
+
+Por lo menos uno vez cada año, se practicará una visita minuciosa a las instituciones de seguros, sin perjuicio de las demás que ordene la Secretaría de Hacienda, ya sea de oficio o a solicitud de los comisarios de las instituciones, de un grupo de accionistas, o tenedores de pólizas, que presentasen datos suficientes a juicio de dicha Secretaría, para justificar esa visita.
+
+###### ARTICULO 117.
+
+Cuando una institución, sucursal o agencia, se rehusare a recibir una visita o a facilitar los elementos indispensables que ajuicio del inspector sean necesarios para la práctica de ésta, dará lugar a la aplicación de una multa de $500.00 a $1,000.00. En caso de reincidencia, la Secretaría de Hacienda revocará la autorización para operar o la credencial respectiva, según sea el caso.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 118.
+
+En cumplimiento de la función de vigilancia que esta Ley confiere a la Secretaría de Hacienda y Crédito Público, ésta:
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+I.- Proveerá en los términos de esta ley y demás relativas, al eficaz cumplimiento de sus preceptos;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+II.- Intervendrá en los arqueos, cortes de caja y demás comprobaciones o verificaciones de contabilidad de las instituciones sometidas a su inspección;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+III.- Tendrá acceso y podrá revisar, por medio de sus inspectores o delegados todos los libros principales o auxiliares de contabilidad, los registros y los demás papeles y correspondencia de las instituciones o establecimientos sometidos a su inspección;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+IV.- Calificará o estimará, de acuerdo con las reglas establecidas en esta ley, los valores de su activo;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+V.- Comprobará la inversión de capital y de las reservas que de acuerdo con esta ley, deban estar invertidos en forma determinada;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+VI.- Verificará la legalidad de las operaciones que celebren las instituciones;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+VII.- Intervendrá en los procedimientos de liquidación en los términos de la ley;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+VIII.- Aplicará las sanciones que en esta ley se establecen, previa audiencia de las partes afectadas, siempre que no se trate de privaciones de la libertad;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+IX.- Reglamentará el ejercicio de la actividad de agentes y ajustadores de seguros;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+X.- Formará y publicará las estadísticas relativas a la organización y al funcionamiento del seguro en la República;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
+XI.- Ordenará a las instituciones de seguros, a través de la Comisión Nacional de Seguros, la constitución de reservas por obligaciones pendientes de cumplir, en los casos a que se refiere la fracción IV del artículo 135.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+XII.- Podrá establecer cláusulas tipo obligatorias para las diversas especies de contratos;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+XIII.- Tendrá las más amplias facultades para interpretar administrativamente la presente ley, por medio de disposiciones generales que se publicarán en el “Diario Oficial”;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+XIV.- Ejercerá la inspección y vigilancia de las instituciones, directamente o por medio de algún organismo descentralizado, auxiliar de la Secretaría, en los términos del reglamento respectivo.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+XV.- Realizará todo aquello que en su concepto sea necesario para la estabilidad de la institución del seguro en México, siempre que tales actos no contravengan lo dispuesto en esta ley.
+
+(ADICIONADO, D.O.F. 16 DE FEBRERO DE 1949) (F. DE E., D.O.F. 16 DE MARZO DE 1949)
+
+ARTICULO 118 bis.- Cuando una Institución de Seguros deje de cumplir reiteradamente las disposiciones dictadas por la Secretaría de Hacienda o la Comisión Nacional de Seguros, para regularizar su situación dentro de la ley, o bien cuando se vea afectada por una inestabilidad económica que haga necesario limitar sus actividades o reducirlas dentro de un marco técnico y económico que permita remediar la situación creada por una mala administración o por malos negocios de la Sociedad, la Secretaría de Hacienda, podrá a través de la Comisión Nacional de Seguros, decretar la intervención de la Institución de Seguros de que se trate.
+
+En el momento de la intervención se podrá suspender temporalmente la contratación de nuevos negocios por parte de la Institución afectada.
+
+El interventor se encargará del manejo de los negocios sociales; dentro de un plazo no mayor de 45 días a contar de la fecha de la aceptación de su cargo, presentará un plan detallado de regularización de la empresa. La Comisión Nacional de Seguros, al aprobar su plan anterior, señalará el plazo de duración de la intervención. En todo caso, la empresa quedará sometida al plan aprobado y a la autoridad del interventor encargado de la realización del mismo.
+
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 1949)</small>
+
+El interventor será designado por la Comisión Nacional de Seguros, y podrá ser una persona física, una institución fiduciaria o un Consejo, no mayor de tres personas de las cuales una actuará como ejecutor y las demás como consejeros. Sus honorarios serán fijados por la propia Comisión, a cargo de la institución afectada. Las faltas temporales o definitivas de los interventores, serán cubiertas por designación inmediata hecha por la Comisión Nacional de Seguros. En cualquier momento, la designación de los interventores podrá ser revocada por la mencionada Comisión exigiendo el cumplimiento de las responsabilidades en que hubiere incurrido con motivo de su cargo.
+
+Si a la terminación del plazo señalado por la intervención, o antes, la sociedad ha regularizado sus operaciones, cesará la intervención; en su caso contrario, la Comisión Nacional de Seguros propondrá a la Secretaría de Hacienda alguna de las otras medidas previstas por la ley.
+
+## TITULO IV. De la disolución de las instituciones de seguros
+
+### CAPITULO UNICO
+
+###### ARTICULO 119.
+
+Las instituciones de seguros serán declaradas en estado de disolución, en cualquiera de los siguientes casos:
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+
+I.- Cuando venza el plazo de duración fijado en el contrato social o cuando aquel se dé por vencido anticipadamente de acuerdo con la Ley General de Sociedades Mercantiles;
+
+II.- Cuando sea revocada la autorización para operar como institución de seguros;
+
+III.- Cuando el capital social se reduzca a menos del mínimo legal y no sea reconstituído dentro del plazo a que se refiere el artículo 22;
+
+IV.- Cuando, tratándose de mutualistas, el mínimo de asociados o el volumen de valores asegurados y de cuotas, sean inferiores a los establecidos en esta ley;
+
+V.- Cuando la matriz de la sucursal de una institución extranjera de seguros se ponga en estado de disolución, liquidación, suspensión de pagos o quiebra y dicha sucursal no se organice como institución mexicana de seguros. En este caso, la disolución de la sucursal se declarará de acuerdo con esta ley;
+
+VI.- Cuando por cualquier otra causa, la disolución deba decretarse conforme a esta ley.
+
+###### ARTICULO 120.
+
+La declaratoria de disolución será dictada administrativamente por la Secretaría de Hacienda y Crédito Público e implicará la inmediata suspensión de los negocios sociales, entretanto se dicta la resolución de que habla el párrafo siguiente.
+
+La propia Secretaría, dentro de un plazo que no exceda de quince días, oyendo previamente a la institución afectada, dictará cualquiera de las siguientes resoluciones:
+
+I.- La concesión de un plazo improrrogable para obtener aumento de capital social o aportaciones extraordinarias de los mutualizados según sea el caso;
+
+II.- La concesión de un plazo improrrogable dentro del cual la sociedad haya de regularizar su situación;
+
+III.- La concesión de un plazo dentro del cual la institución de que se trate haya de transformarse en sociedad mutualista;
+
+IV.- El traspaso de la cartera de la sociedad disuelta;
+
+V.- La intervención de la empresa;
+
+VI.- La liquidación;
+
+VII.- La revocación de la declaratoria de disolución, si se demuestra su improcedencia.
+
+###### ARTICULO 121.
+
+Una vez comprobada a satisfacción de la Secretaría de Hacienda y Crédito Público, la exhibición del capital o de las aportaciones a que se refiere la fracción I del artículo anterior, la propia Secretaría revocará la declaratoria de disolución.
+
+Si transcurrido el plazo concedido en los términos de la fracción I del mismo artículo, no se satisfacen los requisitos del párrafo anterior, la Secretaría de Hacienda, a su juicio, dictará en forma irrevocable, cualquiera de las otras resoluciones enumeradas en el citado artículo.
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+
+###### ARTICULO 122.
+
+La Secretaría de Hacienda concederá un plazo improrrogable dentro del cual la sociedad haya de regularizar su situación, siempre que ésta demuestre mediante un plan de cálculo de reservas, administración y economías, que podrá colocarse dentro de la ley. En este caso, se permitirá la reanudación de las operaciones suspendidas, por un término hasta de dos años durante el cual la institución operará bajo la vigilancia estrecha de la Secretaría, de quien deberá obtener previamente la aprobación de las cantidades que se inviertan para la contratación de nuevos seguros y para la inversión de su capital y reservas, que deberán constituirse precisamente en las épocas que administrativamente fije la Secretaría. Si al expirar el término concedido o antes de él, la Secretaría comprueba en el primer caso, que no ha mejorado la situación de la sociedad, y en el segundo, que ha empeorado, tomará cualquiera de las medidas a que se refiere el artículo 120.
+
+###### ARTICULO 123.
+
+Cuando una sociedad de forma anónima deba transformarse en mutualista de acuerdo con la fracción III del artículo 120, la Secretaría de Hacienda y Crédito Público designará un interventor provisional que con ese carácter reciba todos los bienes de la sociedad disuelta. El interventor designado tendrá a su cargo la comprobación de los negocios realizados por la sociedad, entretanto se hace entrega de los mismos a la mutualidad que se organice. Dentro de un término de 60 días contados a partir de la fecha en que tome posesión de los bienes, el interventor someterá a la Secretaría de Hacienda un estudio sobre el estado financiero que guarde la institución disuelta y fijará las bases que en su concepto deban servir para la organización de la mutualidad. Acompañará, además, la adhesión al plan de mutualidad, de asegurados que representen, por lo menos el mínimo exigido por esta ley. El plan propuesto por el interventor, con las modificaciones que la Secretaría de Hacienda le introduzca, se pondrá desde luego en ejecución, cesando el interventor y entregando los bienes al Consejo de Administración que se designe en su oportunidad. Los asegurados inconformes quedarán facultados para cancelar o liquidar sus pólizas con la nueva institución.
+
+En caso de que no sea posible, dentro del término señalado, obtener la conformidad del mínimo de asegurados exigido por la ley, o porque del estudio del interventor se desprenda la imposibilidad de realizar el plan de mutualización, la Secretaría de Hacienda dictará cualquiera de las resoluciones mencionadas en las fracciones IV a VI del artículo 120.
+
+###### ARTICULO 124.
+
+Cuando la Secretaría de Hacienda resuelva que una institución de seguros disuelta debe traspasar a otra su cartera, procederá desde luego al estudio del convenio que deba celebrarse y que norme el traspaso propalado. Si la Secretaría lo cree necesario, podrá designar un interventor que reciba todos los bienes de la sociedad disuelta para que éste haga entrega a la institución que va a hacerse cargo de la cartera. Si la sociedad disuelta se niega a firmar el convenio de traspaso, la Secretaría de Hacienda lo hará en su rebeldía, procediéndose, en todo caso, a hacer entrega de los bienes, pólizas, créditos, valores, libros, archivos, documentos y demás bienes, bajo la vigilancia estrecha de la propia Secretaría. En seguida de realizado el traspaso, se dará cuenta de la nueva situación a los asegurados de la institución disuelta, a fin de que éstos, si no están conformes con el traspaso realizado, liquiden o cancelen sus pólizas con la institución cesionaria. Esta se considerará sustituída en todos los derechos y obligaciones de la institución disuelta, por las operaciones realizadas antes y vigentes en la fecha del traspaso.
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+
+###### ARTICULO 125.
+
+La Secretaría de Hacienda decretará la intervención de una institución de seguros cuando reiteradamente haya dejado de cumplir sus disposiciones encaminadas a regularizar su situación dentro de la ley, así como cuando la situación económica de la institución determine la necesidad imprescindible de limitar sus actividades o de fijarlas dentro de condiciones técnicas y de economía que puedan remediar la situación creada por una mala administración o por los malos negocios de la sociedad.
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+
+El interventor será nombrado por la Secretaría de Hacienda, recibirá todos los bienes, valores y derechos de la sociedad, se encargará del manejo de los negocios sociales y dentro de un término que no exceda de 60 días rendirá un informe detallado sobre la situación económica de la institución disuelta, a fin de que la Secretaría de Hacienda fije la duración de la intervención. Dentro del plazo que fije la Secretaría, el interventor desarrollará el plan de economías o de administración que haya sido aprobado por la Secretaría para ajustar el funcionamiento de la sociedad a los términos de la ley. Si a la terminación del plazo aludido no fuere posible obtener la regularización de las operaciones, o antes de dicho plazo, si las condiciones de la sociedad empeoran, la Secretaría declarará la liquidación de la compañía en los términos de esta ley.
+
+Si a la terminación del plazo de intervención o antes de él, la sociedad ha regularizado sus operaciones, cesará la intervención y se devolverán al Consejo de Administración los bienes, títulos y valores, revocándose el estado de disolución.
+
+###### ARTICULO 126.
+
+Cuando la Secretaría de Hacienda resuelva la liquidación de una institución de seguros, mandará entregar a un liquidador nombrado por ella, todos los bienes, pólizas, créditos, valores, bienes muebles e inmuebles, libros, archivos, documentos y, en general, todo lo que sea propiedad de la institución. El liquidador, dentro de un plazo de 60 días siguientes a la fecha en que haya tomado posesión, fijará exactamente el activo y pasivo de la sociedad en liquidación y propondrá por escrito, a la Secretaría de Hacienda, la forma en que deba llevarse a cabo. En vista del informe anterior, la Secretaría fijará el término dentro del cual deberá practicarse la liquidación. El liquidador podrá realizar los bienes que formen el activo de la institución, pero deberá obtener, en cada caso, aprobación expresa de la Secretaría de Hacienda. Del activo realizado se deducirán los gastos y honorarios de la liquidación, y el resto se distribuirá entre los tenedores de pólizas en proporción a la reserva técnica correspondiente a cada póliza a la fecha de la declaratoria de disolución y en proporción al valor de las pólizas, para los compromisos vencidos. Los derechos de los asegurados, al hacerse la liquidación de sus pólizas, se valuarán a la fecha de la declaratoria de disolución de la sociedad. Todos los cálculos que sirvan de base para hacer la distribución del activo entre los asegurados, deberán ser previamente aprobados por la Secretaría de Hacienda. Ante ella los asegurados podrán hacer las observaciones que procedan respecto de sus créditos. Para este fin, el liquidador comunicará a cada asegurado el monto de la reserva técnica que le corresponda o, en su caso, el valor de la póliza cuando se trate de compromisos vencidos.
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+
+###### ARTICULO 127.
+
+Al terminar una liquidación, el liquidador dará cuenta por escrito, a cada uno de los tenedores de pólizas y demás acreedores de la institución, de haberse terminado la liquidación, haciendo conocer a cada uno de ellos el monto de sus alcances en numerario y poniéndolos a su disposición por un término de seis meses. Además de la comunicación por escrito antes referida, el liquidador notificará a los acreedores por medio de tres publicaciones que deberán hacerse con intervalos de 15 días una de la otra en el Diario Oficial de la Federación y en otro periódico del domicilio de la sociedad, que ha terminado la liquidación, citándolos para recibir el pago de sus alcances, dentro del término arriba fijado.
+
+La Secretaría de Hacienda podrá autorizar distribuciones parciales entre los acreedores, sujetándose a las disposiciones de este artículo.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+Transcurrido el término de seis meses concedido a los acreedores para recibir el pago de los alcances que les resulten, si no hubieran ocurrido a recogerlos, el liquidador entregará al Banco de México una relación de los pagos pendientes, así como el remanente de los fondos para cubrir, su importe. El Banco de México continuará haciendo los pagos correspondientes bajo su responsabilidad hasta por un término de cinco años, transcurrido el cual, prescribirán automáticamente las cantidades no cobradas, las que se entregarán al Gobierno Federal. Este término de prescripción no es susceptible de suspensión ni de interrupción.
+
+###### ARTICULO 128.
+
+Si la liquidación no puede practicarse dentro del plazo primitivamente concedido, podrá extenderse por una mitad más el término original. Si dentro de la ampliación anterior, el liquidador no concluye las operaciones relativas, la Secretaría de Hacienda designará un nuevo liquidador y exigirá al primeramente nombrado las responsabilidades en que hubiere incurrido en el desempeño de su comisión. La Secretaría fijará al nuevo liquidador un término prudente para la terminación de las operaciones de liquidación.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+###### ARTICULO 129.
+
+Los asegurados tendrán el carácter de acreedores con privilegio especial y cobrarán con preferencia a todos los demás acreedores del mismo grado.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+###### ARTICULO 130.
+
+Declarada judicialmente la quiebra de una institución de seguros, sólo se podrá proceder a la liquidación administrativa de la misma, si la Secretaría de Hacienda, dentro del siguiente día hábil a aquel en que reciba la notificación respectiva, resuelve que se proceda a esa liquidación. El Juez pedirá el nombramiento del liquidador y dentro de las setenta y dos horas de habérsele comunicado éste, hará entrega al designado, por riguroso inventario, de los bienes de la Institución.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
+###### ARTICULO 131.
+
+Los interventores y liquidadores que se designen de acuerdo con los preceptos de este capítulo, serán representantes legales de la institución, tendrán las mismas atribuciones que el Consejo de Administración, y responderán como mandatarios por los actos que ejecuten excediéndose de los límites de su encargo. La Secretaría de Hacienda dará preferencia a las instituciones nacionales de seguros, que podrán actuar como fiduciarias para realizar la intervención y liquidación de instituciones de seguros en los términos de esta Ley.
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+
+Sus honorarios serán fijados en el momento de su designación por la Secretaría de Hacienda y Crédito Público con cargo a las instituciones afectadas. Las faltas temporales o definitivas de los interventores o liquidadores, serán cubiertas por designación inmediata hecha por la Secretaría de Hacienda y Crédito Público. Su designación puede ser revocada. Los interventores o liquidadores sustituídos permanecerán en el desempeño de su encargo hasta que hagan entrega a la persona designada para sustituirlos. Deberán, salvo el caso de instituciones fiduciarias, constituir fianza igual al 10% del activo que aparezca en el balance del último ejercicio. Esta fianza no se cancelará sino hasta que hayan sido aprobadas las cuentas del interventor o liquidador en su caso.
+
+## TITULO V. De las relaciones fiscales, de los procedimientos y de las sanciones
+
+### CAPITULO I. De las relaciones fiscales
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 132.
+
+Las instituciones de seguros estarán sujetas al pago de los impuestos y derechos siguientes, de acuerdo con las leyes y reglamentos respectivos:
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+I.- Predial, que se cause sobre los inmuebles de su propiedad, en las mismas condiciones que para los demás obligados al pago de este impuesto.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+II.- Impuestos y derechos de carácter municipal que causen dichos inmuebles, por concepto de pavimentos, atarjeas y limpia, por su frente y la vía pública y por el agua potable de que disfruten; en las mismas condiciones en que deban pagar los demás causantes.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+III.- Los de patente o sobre giros comerciales, en la inteligencia de que este impuesto lo pagarán en el lugar de su domicilio y no en las agencias o sucursales que tengan en otros lugares.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
+IV.- El Impuesto Federal sobre Primas y el del Timbre establecido por las fracciones II y VII inciso C de la Tarifa contenida en el artículo 4o., de la Ley General del Timbre, en los términos de las leyes respectivas.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+V.- Impuestos sobre utilidades líquidas anuales que causen los balances aprobados por la Secretaría de Hacienda, por conducto de su dependencia encargada del control y vigilancia de las instituciones de seguros, después de hechas las deducciones correspondientes a castigos directos o al establecimiento de fondos o reservas para castigos, para fluctuaciones o para otras provisiones similares que la propia Secretaría apruebe, o que establezca esta ley.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+Los impuestos o derechos que hayan de ser pagados por las sucursales de empresas extranjeras por concepto de su capital, se calcularán sobre el que conforme a la ley conserven en la República dichas sucursales y no sobre el capital total que tenga la empresa matriz.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+VI.- El derecho de inspección y vigilancia, conforme a las siguientes normas:
+
+a). El 50% del presupuesto de gastos de inspección y vigilancia, se prorrateará entre las instituciones de seguros, en relación con el monto del capital y reservas de capital de cada una.
+
+b). El 30% en relación con las primas correspondientes a las pólizas emitidas durante el año inmediato anterior.
+
+c). El 20% restante, en relación con las utilidades y las instituciones nacionales que no tuvieren utilidades, pagarán la cuota que discrecionalmente fije la Secretaría de Hacienda y Crédito Público.
+
+d). Las cuotas serán pagadas por mensualidades adelantadas en el Banco de México, S. A., y el fondo que con ellas se forme, será manejado por la Secretaría de Hacienda y Crédito Público en los términos del reglamento respectivo.
+
+(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 4 DE FEBRERO DE 1964)
+
+###### ARTICULO 133.
+
+No causan el impuesto del timbre los libros de contabilidad de las instituciones a que se refiere el artículo anterior, ni los contrato que ellas celebren, ni los títulos o documentos que ellas expidan, cualquiera que sea su carácter y siempre que tales contratos, títulos o documentos sean propios de los servicios que la institución está autorizada a prestar, salvo los señalados en la fracción IV del artículo anterior. La exención señalada comprende a todas las partes que intervengan en los contratos, títulos o documentos para los que la misma se concede.
+
+###### ARTICULO 134.
+
+Ni la Federación, ni los Estados ni los Municipios, podrán gravar con otros impuestos el capital de las instituciones de seguros a que se refiere el artículo 132 ni las operaciones propias de su objeto que dichas instituciones practiquen, con excepción de los créditos hipotecarios en los cuales el monto del impuesto no exederá de 0.25% sobre el importe de la operación por una vez, como derecho de inscripción en el Registro, sea de la Propiedad, de Hipotecas, de Comercio o de Crédito. La cancelación de las inscripciones no causará derecho alguno. Para los efectos de este artículo, el Distrito y los Territorios Federales se equiparán a los Estados.
+
+Lo dispuesto en este artículo aprovechará a las instituciones, a sus agentes y a las personas que con ellos contraten. Los derechos de registro que en él se autorizan deberán ser cubiertos por quien solicite la inscripción.
+
+### CAPITULO II. De los procedimientos
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 135.
+
+En caso de reclamación contra una institución de seguros, con motivo del contrato de seguro, deberán observarse las siguientes reglas:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+
+I.- El reclamante deberá ocurrir ante la Comisión Nacional de Seguros, la que pedirá un informe detallado a la Institución contra la que se hubiere presentado reclamación;
+
+(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 4 DE FEBRERO DE 1964)
+
+II.- La Comisión Nacional de Seguros citará a las partes a una junta en la que las exhortará a conciliar sus intereses, y si esto no fuera posible, para que voluntariamente y de común acuerdo la designen árbitro. El compromiso arbitral se hará constar en acta ante la citada Comisión.
+
+> <small>(F. DE E., D.O.F. 4 DE FEBRERO DE 1964)</small>
+
+El juicio arbitral se ajustará a esta Ley y al procedimiento que convencionalmente fijen las partes en acta ante la Comisión Nacional de Seguros, de acuerdo con las disposiciones relativas del Código de Comercio, mismo que se aplicará supletoriamente; a falta de disposición en dicho Código, serán aplicables las del Código de Procedimientos Civiles para el Distrito y Territorios Federales. Sin embargo, no tendrá aplicación lo dispuesto por los artículos 1247 y 1296 del Código de Comercio.
+
+El laudo arbitral no admitirá más recurso o medio de defensa que el juicio de amparo. Todas las demás resoluciones del árbitro en el curso del procedimiento, admitirán como único recurso el de la revocación.
+
+> <small>(F. DE E., D.O.F. 4 DE FEBRERO DE 1964)</small>
+
+El laudo que condene a una institución de seguros a pagar, le otorgará para ello un plazo de 15 días hábiles. Si no hiciere el pago, la Comisión ejecutará su resolución, para lo cual podrá disponer de las inversiones de las reservas técnicas de la institución.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
+III.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión Nacional de Seguros, el reclamante podrá ocurrir desde luego ante los Tribunales competentes.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
+IV.- Al recibo de la reclamación la Comisión Nacional de Seguros ordenará a la institución que constituya e invierta la reserva para obligaciones pendientes de cumplir, a menos que a juicio de dicha Comisión fuere notoriamente improcedente.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+###### ARTICULO 136.
+
+En materia jurisdiccional:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+
+I.- Los tribunales no darán entrada a demanda alguna contra una institución de seguros, si el actor en ella no afirma bajo protesta de decir verdad, que ante la Comisión Nacional de Seguros se sustanció y agotó el procedimiento conciliatorio a que se refiere la fracción tercera del artículo anterior.
+
+En cualquier momento en que aparezca que no se agotó el procedimiento conciliatorio, deberá sobreseerse la instancia e imponer al actor las costas originadas por el procedimiento.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+II.- La omisión del procedimiento conciliatorio en la vía administrativa constituye además una excepción dilatoria que puede interponerse por la compañía demandada.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+III.- El juez de los autos comunicará a la Secretaría de Hacienda y Crédito Público la sentencia ejecutoria que se dicte en el procedimiento y la Secretaría, al recibir la notificación requerirá a la institución aseguradora si hubiere sido condenada, para que compruebe dentro de las 72 horas siguientes, haber pagado las prestaciones a que hubiere sido condenada, y en caso de omitir la comprobación, la Secretaría de Hacienda mandará pagar a la persona en cuyo favor se hubiere dictado la sentencia del monto de la reserva constituída en los términos del artículo anterior. Si no fuere suficiente, la misma dependencia ordenará el remate en bolsa de los valores depositados en la Nacional Financiera, S. A., y si ellos estuvieren afectos a las reservas de la institución de seguros, deberá ésta reponerlos en los términos que esta ley señala para la reconstitución de las reservas.
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1952)</small>
+
+IV.- Los contratos concertados contra las prohibiciones del artículo 3°, no producirán efecto legal alguno, sin perjuicio del derecho del asegurado de pedir el reintegro de las primas pagadas.
+
+Esta disposición no es aplicable a los seguros contratados con la autorización específica de la Secretaría de Hacienda y Crédito Público a que se refiere el mismo artículo 3°.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+V.- El contrato celebrado por una institución de seguros en contravención a las tarifas o a las condiciones de póliza aprobadas por la Secretaría de Hacienda, es anulable, pero la acción sólo puede ser ejercitada por el asegurado o el beneficiario o por sus causahabientes, contra la institución de seguros y nunca por ésta contra aquéllos.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+###### ARTICULO 137.
+
+Cuando por la pérdida de las actas de Registro Civil, el asegurado o los beneficiarios en su caso, no puedan comprobar su edad con dichas constancias ni con otros documentos fehacientes, podrán rendir información testimonial ante juez competente, con citación de la institución de seguros, para comprobar ese hecho. El mismo procedimiento deberán seguir los beneficiarios de la póliza si no les es dable comprobar su parentesco por los medios normales que establece el Código Civil.
+
+Si en el momento de contratar un seguro de vida o con posterioridad, presenta el asegurado prueba fehaciente de su edad a la institución aseguradora, ésta le extenderá el comprobante respectivo y no podrá exigir nuevas pruebas, cuando haya de pagar el siniestro por muerte del asegurado.
+
+### CAPITULO III. De las sanciones
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
+
+###### ARTICULO 138.
+
+En los casos de infracción a lo dispuesto en las fracciones I, II y IV del artículo 3°., de esta Ley:
+
+I.- Cualquiera de los actos efectuados contra las prohibiciones contenidas en las fracciones mencionadas, constituirá delito contra el comercio y la industria y se castigará según lo dispuesto por el artículo 253, en concordancia con el 1°, 6°, 13 y demás relativos, del Código Penal para el Distrito y Territorios Federales.
+
+> <small>(F. DE E., D.O.F. 28 DE ENERO DE 1952)</small>
+
+II.- Cuando todos los actos que concurran a la celebración del contrato, incluyendo los de intermediación se hubieren efectuado fuera del territorio nacional; se considerará que el delito se comete por el solo hecho de registrar el pago de las primas en la contabilidad que dentro del territorio mexicano se lleve por el asegurado, por el tomador del seguro o por cualquier otro interesado en el mismo, o bien, porque cualquiera de esas personas realice en México algún acto que signifique cumplimiento de obligaciones o deberes, o ejercicio de derechos, derivados del contrato celebrado en el extranjero. Esta disposición no se aplicará al caso del inciso 1) de la fracción II del artículo 3°.
+
+> <small>(F. DE E., D.O.F. 28 DE ENERO DE 1952)</small>
+
+III.- Es excluyente de responsabilidad penal por desobediencia a la prohibición contenida en la fracción I del artículo 3° de esta Ley, la ignorancia de que a una “institución de seguros” se hubiera revocado la autorización que originalmente tuviera para operar o de que, por cualquier otra causa, se hubieran extinguido o suspendido sus efectos antes de contratar con ella. Esta ignorancia se presumirá en el tomador del seguro y en el asegurado o sus causahabientes, pero no en el intermediario.
+
+> <small>(F. DE E., D.O.F. 28 DE ENERO DE 1952)</small>
+
+IV.- La empresa o negociación que haya efectuado la operación u operaciones activas de seguro que prohibe la fracción I del referido artículo 3°, será intervenida administrativamente por la Secretaría de Hacienda y Crédito Público, hasta que la operación u operaciones ilícitas, se deshagan.
+
+###### ARTICULO 139.
+
+Queda prohibido a las instituciones de crédito que operen en la República, aceptar documentos al cobro de instituciones de seguros no autorizadas de acuerdo con esta ley, que tengan por objeto el cobro de primas. La infracción a lo dispuesto en este artículo será castigada con multa de $100.00 a $300.00.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
+
+ARTICULO 139 bis.- La infracción a lo dispuesto en el último párrafo de la fracción I del artículo 17 se sancionará a juicio de la Secretaría de Hacienda y Crédito Público, y según la gravedad del caso, con la pérdida de la participación de capital de que se trate en favor del Gobierno Federal o con la revocación de la autorización respectiva, en los términos del artículo 13.
+
+###### ARTICULO 140.
+
+Se impondrá multa de $500.00 a $1,000.00 y prisión de seis meses a seis años, a los consejeros, directores o empleados de una institución de seguros:
+
+I.- Que retiren en forma que no sea la autorizada por esta ley o graven o enajenen los bienes, créditos o valores en que estén invertidas las reservas, o cometan cualesquiera otros actos que tengan por efecto disminuir la seguridad y garantía de dichos bienes;
+
+II.- Que en sus informes, cuentas o exposiciones a las Asambleas Generales de Accionistas, desnaturalicen la situación de la empresa;
+
+III.- Que repartan utilidades en oposición a las prescripciones de esta ley, independientemente de la acción para que los accionistas que las reciban, las devuelvan en un término no mayor de 30 días.
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+
+###### ARTICULO 141.
+
+Se impondrá multa de $500.00 a $1,000.00 y prisión de seis meses a tres años:
+
+I.- A los consejeros, directores, auxiliares o empleados de una institución de seguros que intencionalmente inscriban datos falsos en la contabilidad o que produzcan datos falsos en los documentos o informes que deban proporcionar a la Secretaría de Hacienda y Crédito Público; y
+
+II.- A los inspectores y empleados de la Secretaría de Hacienda y Crédito Público encargados de la vigilancia e inspección de las instituciones de seguros, que intencionalmente presente informes inexactos, oculten, omitan o disimulen datos importantes en sus informes.
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+
+###### ARTICULO 142.
+
+Al médico que suscriba un examen destinado a servir de base para la contratación de un seguro con una institución no autorizada para funcionar de acuerdo con esta ley, se le impondrá multa de $500.00 a $1,000.00 y prisión de seis meses a seis años. Igual pena se aplicará al agente o al médico que dolosamente, o con ánimo de lucrar, oculte a la institución a quien sirve la existencia de hechos cuyo conocimiento habría impedido la celebración del contrato de seguro.
+
+###### ARTICULO 143.
+
+Se impondrá una multa de $500.00 a $1,000.00 a la institución de seguros y o a sus empleados o agentes que en alguna forma ofrezcan o hagan descuento o reducción de primas u otorguen algún otro beneficio no estipulado en la póliza, como aliciente para tomar o conservar un contrato de seguro.
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+
+###### ARTICULO 144.
+
+Al agente de una institución de seguros que opere sin la credencial respectiva de la Secretaría de Hacienda y Crédito Público, se le aplicarán de tres meses a un año de prisión y multa hasta de $1,000.00.
+
+###### ARTICULO 145.
+
+Se aplicará una multa de $100.00 a $1,000.00 o prisión de dos meses a un año, a los inspectores o empleados de la Secretaría de Hacienda encargados de la vigilancia e inspección de las instituciones de seguro, que sin justa causa, con perjuicio de la institución relativa y sin consentimiento de ella, revelen algún secreto o violen el secreto profesional o utilicen informes comerciales o técnicos de los que han tenido conocimiento en el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+###### ARTICULO 146.
+
+La infracción de cualquiera de las disposiciones de esta ley, de sus reglamentos y de las que administrativamente dicte la Secretaría de Hacienda y Crédito Público, se castigará, si no tiene pena especialmente señalada en este ordenamiento, con multa de $100.00 a $5,000.00 para los infractores y si se tratare de una sociedad, para cada uno de los consejeros, directores, agentes o empleados que resulten autores o responsables de la infracción. La reincidencia se castigará con multa doble o la aplicada originalmente, y si la infractora fuera una institución de seguros, se revocará su autorización.
+
+## TRANSITORIOS
+
+###### ARTICULO 1°.
+
+Las instituciones de seguros que a la fecha de la expedición de esta ley, tengan incluída en su denominación la palabra "nacional," podrán seguir haciendo uso de esa denominación hasta el término de su respectiva duración.
+
+###### ARTICULO 2°.
+
+Se concede un plazo de seis meses contados a partir de la vigencia de esta ley, para que las instituciones nacionales, mexicanas y sucursales de instituciones extranjeras de seguros obtengan en los términos de esta ley, nuevas autorizaciones para operar. Este término puede ser ampliado por tres meses más, a juicio de la Secretaría de Hacienda y Crédito Público, tomando en cuenta las condiciones especiales de cada caso.
+
+###### ARTICULO 3°.
+
+Las sociedades mutualistas que actualmente tengan celebrado contrato de gestión con algún particular o empresa, deberán someterlo a la revisión de su Asamblea General antes de un año de la vigencia de esta ley. En cualquier caso, dichos contratos no podrán subsistir por más de dos años, después de su ratificación por la Asamblea.
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
+###### ARTICULO 4°.
+
+Se concede un plazo de cuatro años contados a partir de la vigencia de esta Ley, para que las instituciones de seguros que operan actualmente dentro del país, se ajusten a lo dispuesto por los artículos 32, 87 y 88 de la misma.
+
+###### ARTICULO 5°.
+
+Si por la aplicación de las disposiciones contenidas en el artículo 92 de esta ley, en lo que se refiere a inversiones en bienes inmuebles y derechos reales, aparece un deficiente en las reservas, éste deberá cubrirse en un plazo que vencerá el 31 de marzo de 1939. Las instituciones deberán abonar cada año, a partir del presente, la quinta parte del deficiente que resulte.
+
+###### ARTICULO 6°.
+
+Dentro de un plazo que vencerá el 31 de diciembre de 1935, las instituciones de seguros ajustarán su contabilidad, auxiliares y registros a lo que dispone el Capítulo I del Título III de esta ley.
+
+###### ARTICULO 7°.
+
+El Ejecutivo Federal, después de tres años contados a partir de la fecha de vigencia de esta ley, reglamentará el funcionamiento de un Consejo Consultivo de Seguros.
+
+###### ARTICULO 8°.
+
+Se deroga la Ley de 25 de mayo de 1926 y su Reglamento de 25 de noviembre del mismo año.
+
+###### ARTICULO 9°.
+
+Esta ley comenzará a surtir sus efectos a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veintiséis días del mes de agosto de mil novecientos treinta y cinco.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Hacienda y Crédito Público, Eduardo Suárez.- Rúbrica.- Al C. Secretario de Gobernación.- Presente."
+
+Lo que comunico a usted para su publicación y demás fines.
+
+Sufragio Efectivo. No Reelección.
+
+México, D. F., a 30 de agosto de 1935.- El Secretario de Gobernación, Silvano Barba González.- Rúbrica.
+
+Al C. ....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE AGOSTO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 3 DE JULIO DE 1937.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 30 DE JUNIO DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 14 DE FEBRERO DE 1940.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 20 DE ABRIL DE 1943.
+
+DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+...
+
+###### ARTICULO 4°.
+
+Quedan igualmente derogados los artículos relativos a quiebras comprendidos en la Ley General de Instituciones de Seguros.
+
+DISPOSICIONES TRANSITORIAS
+
+###### ARTICULO 1°.
+
+La presente ley entrará en vigor a los tres meses de su publicación en el "Diario Oficial".
+
+###### ARTICULO 2°.
+
+Los procedimientos de quiebras, de liquidación judicial y de suspensión de pagos que estén en tramitación en la fecha de la publicación de la presente ley, si no quedasen concluidos en los dos meses siguientes a dicha fecha, suspenderán su tramitación y los jueces competentes tomarán las medidas necesarias en el transcurso del mes siguiente para que a la entrada en vigor de esta ley, continúen su tramitación con arreglo a la misma.
+
+###### ARTICULO 3°.
+
+La Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y los demás organismos que tengan intervención en la preparación de las listas de personas aptas para el desempeño de la sindicatura, darán cumplimiento a lo que esta ley dispone sobre el particular, para que antes de que transcurran dos meses a partir de la publicación de esta ley, queden preparadas las listas de síndicos y comunicadas por conducto regular a los tribunales y juzgados de la Federación.
+
+###### ARTICULO 4°.
+
+A aquellos matrimonios contraídos bajo los regímenes vigentes, con arreglo a la legislación anterior, a la Ley de Relaciones Familiares y al Código Civil del Distrito Federal, se les aplicarán las disposiciones del Código de Comercio vigente, en el caso de quiebra de uno o ambos cónyuges.
+
+###### ARTICULO 5°.
+
+En aquellos Estados de la República en los que no estén en vigor disposiciones equivalentes a las del Código Civil del Distrito Federal sobre regímenes matrimoniales en caso de quiebra de uno de los cónyuges, se aplicarán las disposiciones indicadas en el artículo anterior.
+
+###### ARTICULO 6°.
+
+Las referencias de esta Ley al Código de Procedimientos Civiles, se entienden hechas respecto del Código de Procedimientos Civiles del Distrito y Territorios Federales. Esta supletoriedad es excepcional y sólo se refiere a los preceptos expresamente reglamentados por esta ley. También es temporal, en tanto que no se promulgue el Código de Procedimientos Mercantiles.
+
+D.O.F. 16 DE ABRIL DE 1946.
+
+###### ARTICULO I.
+
+Las instituciones de seguros existentes, gozarán de un plazo de ciento ochenta días hábiles a partir de la vigencia de estas reformas para ajustar la documentación que utilicen en la formación del contrato de seguro, a las disposiciones del artículo 24 reformado de la Ley General de Instituciones de Seguros.
+
+Mientras no se haya efectuado ese ajuste de formas impresas y no se haya vencido el plazo antes dicho, las instituciones de seguros podrán seguir usando la documentación que hasta esta fecha haya sido aprobada por la Secretaría de Hacienda.
+
+Todas las instituciones de seguros deberán presentar la documentación para ser revisada y aprobada por la Secretaría de Hacienda y Crédito Público, cuando menos dos meses antes de que se venza el plazo establecido en este artículo.
+
+###### ARTICULO II.
+
+Para ajustar sus capitales mínimos a lo dispuesto en los artículos 20 y 21 reformados de la Ley General de Instituciones de Seguros, gozarán las instituciones existentes al expedirse esta ley, de un plazo de un año, prorrogable por un año más a juicio de la Secretaría de Hacienda y Crédito Público.
+
+###### ARTICULO III.
+
+Las presentes reformas entrarán en vigor el día de su publicación en el Diario Oficial.
+
+D.O.F. 31 DE DICIEMBRE DE 1947.
+
+###### ARTICULO I.
+
+En tanto se establezca el organismo a que se refiere el artículo 8°. los seguros indicados en el mismo seguirán contratándose con la "Aseguradora Mexicana", S. A.
+
+###### ARTICULO II.
+
+El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE FEBRERO DE 1949.
+
+###### ARTICULO PRIMERO.
+
+Se concede un plazo de un año, contado a partir de la vigencia de esta Ley, para que las Instituciones de Seguros se ajusten a lo dispuesto en el artículo 87 de la misma.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes reformas y adiciones entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1950.
+
+###### ARTICULO UNICO.
+
+La presente adición entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 5 DE ENERO DE 1952.
+
+###### ARTICULO 1°.
+
+La presente Ley entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2°.
+
+Para que las instituciones de seguros ajusten sus inversiones a lo prevenido en estas reformas, deberán presentar a la Comisión Nacional de Seguros, dentro de los seis meses siguientes a la vigencia de esta Ley, un plan para cumplir con ellas, y la Comisión señalará en cada caso el plazo que estime prudente para el ajuste respectivo.
+
+Si no se presenta oportunamente ese plan, las instituciones omisas tendrán año y medio para el ajuste, contado a partir de la vigencia de esta Ley.
+
+D.O.F. 31 DE DICIEMBRE DE 1953.
+
+###### ARTICULO 1o.
+
+Estas reformas entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2o.
+
+Las inversiones en inmuebles autorizadas por la Comisión Nacional de Seguros con anterioridad a la fecha en que entren en vigor estas reformas, y que se encuentren ajustadas a las disposiciones legales vigentes al otorgarse la autorización, podrán conservarse por las instituciones de manera permanente, sin que puedan verse afectadas dichas inversiones por la reglamentación que expida la Comisión Nacional de Seguros en uso de la facultad que le confiere la fracción I del artículo 87 de esta ley.
+
+###### ARTICULO 3o.
+
+Quedan exceptuados de la limitación relativa al tipo de interés establecido en el artículo 86, los bonos emitidos por el Banco Nacional Hipotecario Urbano y de Obras Públicas para financiar obras de interés general que están siendo construídas por los Ferrocarriles Nacionales de México.
+
+###### ARTICULO 4o.
+
+Las reclamaciones de seguros que se encuentren pendientes en la Comisión Nacional de Seguros y en la Secretaría de Hacienda y Crédito Público, se ajustarán para su resolución a los términos de estas reformas; y en esa virtud e independientemente de que se remitan a la Comisión las reclamaciones que estén pendientes en la Secretaría, la Comisión procederá en todas y cada una de ellas, siempre que la aseguradora hubiese rendido su informe respectivo, a citar a los interesados a una junta en que la designen árbitro.
+
+Si no se obtuviere la conformidad de los interesados y ya se hubiere celebrado la junta de avenencia, la Comisión declarará agotado el procedimiento conciliatorio y los interesados quedarán en posibilidad de acudir a ejercitar sus derechos ante las autoridades judiciales respectivas. En los demás casos, las reclamaciones se tramitarán conforme a lo establecido en estas reformas.
+
+D.O.F. 28 DE DICIEMBRE DE 1954.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor a partir del día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1956.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Las instituciones autorizadas con anterioridad a las presentes reformas, gozarán del plazo de un año para ajustar su capital pagado a las cifras mínimas señaladas en el artículo 20 reformado.
+
+La Secretaría de Hacienda y Crédito Público podrá prorrogar el plazo anterior por un año más cuando así lo amerite la situación financiera de la institución.
+
+###### ARTICULO TERCERO.
+
+Se deroga la fracción V del artículo 3o. de esta ley.
+
+###### ARTICULO CUARTO.
+
+Las instituciones de seguros ajustarán sus inversiones a lo que dispone el artículo 86 reformado en el plazo de un año, pero tanto la disminución de la inversión obligatoria de 30% a 25% a que se refiere el primer párrafo del precepto antes citado, como las inversiones mencionadas en el mismo artículo hasta llegar al 10% obligatorio, se hará en la proporción que corresponda, el día último de los meses de marzo, junio, septiembre y diciembre de 1957, pero sin que en ningún momento la inversión total en valores públicos sea inferior al 30%.
+
+###### ARTICULO QUINTO.
+
+Las instituciones de seguros que al entrar en vigor estas reformas tuvieren inversiones en exceso del límite del 30% establecido en la fracción I del artículo 87 reformado, podrán conservar los préstamos y valores a que esa fracción se refiere, hasta su amortización, pero no podrán renovar ni otorgar créditos hipotecarios ni adquirir nuevos valores de los antes mencionados mientras no se ajusten al nuevo límite.
+
+Las instituciones de seguros que al entrar en vigor estas reformas tuvieren inmuebles urbanos en exceso del 30% a que se refiere la fracción II del artículo 87 reformado, podrán conservar dichos inmuebles en los términos de las disposiciones legales vigentes en el momento de su adquisición, pero sólo podrán adquirir nuevos inmuebles hasta que tengan capacidad legal dentro del 30% mencionado.
+
+D.O.F. 5 DE ENERO DE 1961.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor a partir del día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1963.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día 1o. de enero de 1964.
+
+SEGUNDO.- Las reclamaciones recibidas por la Comisión Nacional de Seguros hasta el 31 de diciembre del presente año se regirán por las disposiciones actualmente en vigor.
+
+D.O.F. 30 DE DICIEMBRE DE 1965.
+
+###### ARTICULO PRIMERO.
+
+Las instituciones de seguros deberán reformar sus escrituras constitutivas, para insertar la prohibición a que se refiere el último párrafo de la fracción I del artículo 17 e incluir en el pacto social que la infracción a dicho precepto producirá la pérdida de la acción o acciones de que se trate en favor de la nación. Para ajustarse a lo preceptuado en este artículo dispondrán del plazo de un año contado a partir de la fecha en que entren en vigor las presentes reformas.
+
+La Secretaría de Hacienda y Crédito Público tendrá la facultad de autorizar las inversiones en el capital de las instituciones de seguros que a la fecha se encuentren en poder de algunas de las personas o entidades mencionadas en el último párrafo de la fracción I del artículo 17.
+
+###### ARTICULO SEGUNDO.
+
+En un plazo de 5 años contado a partir de la fecha en que entre en vigor este Decreto, las instituciones de seguros no podrán liberar las inversiones que tengan constituidas en valores del Estado o de instituciones nacionales de crédito, afectas a la reserva de riesgos en curso.
+
+En caso de violación a este precepto la institución de que se trate deberá reconstituir dicha inversión o dejará de gozar de la deducción a que se refiere el artículo 85 bis.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
