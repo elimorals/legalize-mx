@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-gestion-integral-de-residuos-del-estado-y-los-44842
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2013-06-07"
+last_updated: "2018-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el 10 de mayo de 2005.
 
@@ -446,6 +446,20 @@ V. Promoverán el reconocimiento a los esfuerzos más destacados de la sociedad 
 VI. Impulsarán la conciencia ecológica y la aplicación de la presente Ley, a través de la realización de acciones conjuntas con la sociedad para la prevención y gestión integral de los residuos, y
 
 VII. Concertarán acciones e inversiones con los sectores sociales y privados, instituciones académicas, grupos y organizaciones sociales y demás personas físicas y morales interesadas.
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Generar acciones para inhibir el uso de popotes, bolsas de plástico, y demás productos que no sean biodegradables, salvo que su utilización sea solicitada expresamente por el consumidor.
+
+Dichos residuos generados deberán estar sujetos a los planes de manejo;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Reducir la generación de residuos inorgánicos a través de campañas y programas para concientizar a la población sobre la preservación, restauración ecológica, y la eliminación paulatina del uso de productos de plástico que no sean biodegradable (sic); y
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+X. Generar políticas públicas tendientes a la sustitución progresiva del uso de materiales que generen residuos inorgánicos por aquellos que sean biodegradables.
 
 ###### Artículo 29.
 
@@ -872,3 +886,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 326, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES VIII, IX Y X AL ARTÍCULO 28 DE LA LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
