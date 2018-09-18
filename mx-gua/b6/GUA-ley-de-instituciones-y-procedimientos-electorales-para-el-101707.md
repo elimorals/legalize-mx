@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-instituciones-y-procedimientos-electorales-para-el-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2018-07-20"
+last_updated: "2018-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -83,6 +83,32 @@ XIII. Partidos políticos: Los partidos políticos nacionales y estatales, y
 
 XIV. Tribunal Estatal Electoral: El Tribunal Estatal Electoral de Guanajuato.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 3 Bis.
+
+Para los efectos de esta Ley se entiende por Violencia Política Electoral en razón de género, la acción u omisión que, en el ámbito político o público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político (sic), el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público.
+
+Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón de género.
+
+Constituyen acciones y omisiones que configuran violencia política en razón de género las siguientes:
+
+I. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+II. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+
+III. Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+
+IV. Impedir o restringir su participación como aspirante, precandidato o candidato a cargos de elección popular;
+
+V. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido elegido;
+
+VI. Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género;
+
+VII. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido elegido o nombrado, y
+
+VIII. Impedir o restringir su reincorporación al cargo o función posterior en los casos de licencia o permiso conforme a las disposiciones aplicables.
+
 ###### Artículo 4.
 
 El Instituto Nacional y el Instituto Estatal, en el ámbito de su respectiva competencia, dispondrán lo necesario para asegurar el cumplimiento de esta Ley.
@@ -97,7 +123,9 @@ La aplicación de esta Ley corresponde al Instituto Estatal, al Tribunal Estatal
 
 La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde al Instituto Nacional, al Instituto Estatal, a los partidos políticos y a los candidatos. El Instituto Nacional emitirá las reglas a las que se sujetarán las campañas de promoción del voto que realicen otras organizaciones.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Para el cumplimiento de estas obligaciones, el Instituto Electoral promoverá la igualdad entre mujeres y hombres y se prohibirá la discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condición de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto o resultado anular o menoscabar los derechos y libertades de las personas.
 
 ### Capítulo II. De los derechos y obligaciones político-electorales de los ciudadanos
 
@@ -543,7 +571,11 @@ XXII. Elaborar y entregar los informes de origen y uso de recursos al Instituto 
 
 XXIII. Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone, y
 
-XXIV. Las demás que establezcan la Ley General de Partidos Políticos, la Ley General y esta Ley.
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV. Abstenerse de difundir propaganda electoral que contenga expresiones que constituyan violencia política electoral en razón de género y cualquier discriminación prohibida en el artículo 1º de la Constitución Federal, y
+
+XXV. Las demás que establezcan la Ley General de Partidos Políticos, la Ley General y esta Ley.
 
 El incumplimiento de cualquiera de estas disposiciones será sancionado, en lo que corresponda, por lo previsto en el Título Séptimo de esta Ley.
 
@@ -1011,7 +1043,27 @@ XVII. Ejercer la función de oficialía electoral respecto de actos o hechos exc
 
 XVIII. Informar al Instituto Nacional, a través de su Unidad Técnica de Vinculación con los Organismos Públicos Locales, sobre el ejercicio de las funciones que le hubiera delegado conforme a lo previsto por la Ley General y demás disposiciones que emita el Consejo General del Instituto Nacional, y
 
-XIX. Las demás que determine la Ley General; y aquéllas no reservadas al Instituto Nacional, y que se establezcan en esta Ley.
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Impulsar y generar mecanismos para prevenir y atender la violencia política electoral en razón de género;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Sustanciar los procedimientos correspondientes sobre violencia política electoral en razón de género;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XXI. Garantizar la igualdad de género y el pleno ejercicio de los derechos políticos de las personas;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XXII. Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política electoral en razón de género; la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII. Capacitar al personal que labora en el Instituto Electoral y personas integrantes de mesas directivas de casilla para prevenir la violencia política electoral en razón de género, y
+
+XXIV. Las demás que determine la Ley General, y aquéllas no reservadas al Instituto Nacional, y que se establezcan en esta Ley.
 
 #### Sección Segunda. Del Consejo General
 
@@ -1101,9 +1153,11 @@ En el caso de ausencia definitiva del Consejero Presidente del Consejo General, 
 
 La Secretaría del Consejo General estará a cargo del Secretario Ejecutivo del Instituto Estatal quien asistirá a las sesiones. En caso de ausencia del Secretario Ejecutivo a la sesión, sus funciones serán realizadas por alguno de los integrantes de la Junta Estatal Ejecutiva que al efecto designe el Consejo General para esa sesión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 90.
 
-El Consejo General integrará comisiones permanentes de: Cultura Política y Electoral; Organización Electoral; Prerrogativas y Fortalecimiento de Partidos Políticos; Vinculación; Quejas y Denuncias; Desarrollo Institucional y Servicio Profesional Electoral y de Órganos Regionales, Distritales y Municipales, funcionarán permanentemente y se integrarán exclusivamente por Consejeros Electorales designados por el Consejo General. Los Consejeros Electorales podrán participar hasta en cuatro de las comisiones antes mencionadas, por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
+El Consejo General integrará comisiones permanentes de: Cultura Política y Electoral; Organización Electoral; Prerrogativas y Fortalecimiento de Partidos Políticos; Vinculación; Quejas y Denuncias; Desarrollo Institucional y Servicio Profesional Electoral; de Órganos Regionales, Distritales y Municipales, y Contra la Violencia Política Electoral a las Mujeres, funcionarán permanentemente y se integrarán exclusivamente por Consejeros Electorales designados por el Consejo General. Los Consejeros Electorales podrán participar hasta en cuatro de las comisiones antes mencionadas, por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
 
 La Comisión de Fiscalización sólo se integrará en el supuesto previsto en el artículo 59 de esta Ley.
 
@@ -3995,7 +4049,11 @@ VIII. Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en l
 
 IX. Insertar en su propaganda la leyenda «aspirante a Candidato Independiente», y
 
-X. Las demás establecidas por esta Ley.
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+X. Abstenerse de realizar manifestaciones que contengan expresiones que constituyan violencia política electoral en razón de género y cualquier discriminación prohibida en el artículo 1º de la Constitución Federal, y
+
+XI. Las demás establecidas por esta Ley.
 
 #### Sección Cuarta. De los derechos y obligaciones
 
@@ -4237,7 +4295,11 @@ XV. Ser responsable solidario, junto con el encargado de la administración de s
 
 XVI. Contar con una página electrónica y publicar como mínimo, la información clasificada como pública, y
 
-XVII. Las demás que establezcan esta Ley, y demás ordenamientos.
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Abstenerse de, realizar manifestaciones que contengan expresiones que constituyan violencia política electoral en razón de género y cualquier discriminación prohibida en el artículo 1 de la Constitución Federal, y
+
+XVIII. Las demás que establezcan esta Ley, y demás ordenamientos.
 
 ###### Artículo 322.
 
@@ -4449,7 +4511,11 @@ IX. El incumplimiento de las reglas establecidas para el manejo y comprobación 
 
 X. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Estatal, y
 
-XI. La comisión de cualquier otra falta de las previstas en esta Ley.
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XI. La realización de cualquier acción u omisión que constituyan violencia política electoral en razón de género, y
+
+XII. La comisión de cualquier otra falta de las previstas en esta Ley.
 
 ###### Artículo 347.
 
@@ -4469,7 +4535,11 @@ V. Omitir informar adecuadamente en los informes sobre los recursos recibidos y 
 
 VI. Hacer uso indebido de recursos públicos como aspirantes, precandidatos y candidatos, y
 
-VII. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+VII. La realización de cualquier acción u omisión que constituyan violencia política electoral en razón de género, y
+
+VIII. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 348.
 
@@ -4505,7 +4575,13 @@ XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiemp
 
 XIV. Hacer uso indebido de recursos públicos como aspirantes y candidatos, y
 
-XV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XV. La realización de cualquier acción u omisión que constituyan violencia política electoral en razón de género, y
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 349.
 
@@ -4515,7 +4591,11 @@ I. La negativa a entregar la información requerida por el Instituto Estatal ent
 
 II. La promoción de denuncias frívolas. Para tales efectos, se entenderá como aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia, y
 
-III. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+III. La realización de cualquier acción u omisión que constituyan violencia política electoral en razón de género, y
+
+IV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 350.
 
@@ -4535,7 +4615,11 @@ VI. Que presente o haga valer un documento electoral alterado, así como que alt
 
 VII. Por favorecer intereses políticos, reduzca a prisión a los propagandistas, promotor, aspirantes, precandidatos, candidatos o representantes de un partido político o candidato independiente, pretextando delitos o faltas que no se han cometido, y
 
-VIII. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. La realización de cualquier acción u omisión que constituyan violencia política electoral en razón de género, y
+
+IX. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 351.
 
@@ -4550,6 +4634,10 @@ I. No informar mensualmente al Instituto Estatal del origen y destino de los rec
 II. Permitir que en la creación del partido político intervengan organizaciones gremiales u otras con objeto social diferente a dicho propósito, salvo el caso de agrupaciones políticas nacionales, y
 
 III. Realizar o promover la afiliación colectiva de ciudadanos a la organización o al partido para el que se pretenda registro.
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+IV. La realización de cualquier acción u omisión que constituyan violencia política electoral en razón de género.
 
 ###### Artículo 353.
 
@@ -6266,3 +6354,21 @@ P.O. 20 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 86 DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO Y DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 329, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES Y SE REFORMA EL ARTÍCULO 348 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Consejo General del Instituto Electoral del Estado de Guanajuato, deberá adecuar su normativa interna en un plazo de ciento veinte días, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 330, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 90 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de Gobierno del Estado.
+
+Artículo Segundo. El Consejo General del Instituto Electoral del Estado de Guanajuato, deberá integrar la comisión permanente Contra la Violencia Política Electoral a las Mujeres, en un término de sesenta días, contados a partir del inicio de vigencia del presente Decreto.
+
+Artículo Tercero. El Consejo General del Instituto Electoral del Estado de Guanajuato, deberá adecuar su normativa interna en un plazo de ciento veinte días, contados a partir del inicio de vigencia del presente Decreto.
