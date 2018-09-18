@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-fiscalizacion-y-96059"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-24"
-last_updated: "2013-09-24"
+last_updated: "2018-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 18 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de septiembre de 2013.
 
 RUBÉN IGNACIO MOREIRA VALDEZ, Gobernador Constitucional del Estado de Coahuila de Zaragoza, en ejercicio de las facultades que me confieren los artículos 82 fracción XVIII y 85 párrafo tercero de la Constitución Política del Estado de Coahuila de Zaragoza, y los artículos 6, 9 apartado A fracción XIV de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 En este sentido tengo a bien emitir el siguiente:
 
@@ -45,7 +49,7 @@ El presente reglamento tiene por objeto regular la organización y el funcionami
 
 ###### ARTÍCULO 2.
 
-La Secretaría de Fiscalización y Rendición de Cuentas es la dependencia estatal encargada de la verificación, supervisión, control y evaluación del ejercicio gubernamental; del cumplimiento de las disposiciones legales en materia contabilidad gubernamental, de adquisiciones, arrendamientos, entrega - recepción contratación de servicios, obras públicas y servicios relacionados con las mismas; de dictar las medidas preventivas y correctivas necesarias de conformidad con la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, y de implementar las políticas públicas en materia desarrollo (sic), modernización, innovación administrativa y acceso a la información pública.
+La Secretaría de Fiscalización y Rendición de Cuentas es la dependencia estatal encargada de la verificación, supervisión, control y evaluación del ejercicio gubernamental; del cumplimiento de las disposiciones legales en materia contabilidad gubernamental, de adquisiciones, arrendamientos, entrega - recepción contratación de servicios, obras públicas y servicios relacionados con las mismas; de dictar las medidas preventivas y correctivas necesarias de conformidad con la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, y de implementar las políticas públicas en materia (sic) desarrollo, modernización, innovación administrativa y acceso a la información pública.
 
 Las atribuciones legales que le corresponden a la Secretaría de Fiscalización y Rendición de Cuentas le son conferidas por la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza, la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza, Ley de Entrega-Recepción del Estado y Municipios de Coahuila de Zaragoza y demás disposiciones jurídicas vigentes en el estado.
 
@@ -635,7 +639,7 @@ X. Dar seguimiento a las observaciones determinadas en las auditorías, fiscaliz
 
 XI. Coordinar y supervisar la integración de la documentación necesaria para ejercitar las acciones legales que procedan, como resultado de las irregularidades que se detecten en las auditorías;
 
-XII. Coadyuvar con la Coordinación General de Asuntos Jurídicos en las acciones y procedimientos legales derivadas de los resultados del seguimiento a las auditorías de seguimiento, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes, se (sic) hayan turnado al área jurídica correspondiente;
+XII. Coadyuvar con la Coordinación General de Asuntos Jurídicos en las acciones y procedimientos legales derivadas de los resultados del seguimiento a las auditorías de seguimiento, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes, se hayan turnado al área jurídica correspondiente;
 
 XIII. Informar periódicamente a la Dirección General de Auditoría Interna sobre el resultado de las supervisiones, seguimientos, auditorías, fiscalizaciones, revisiones, evaluaciones, inspecciones, investigaciones, verificaciones, acciones de vigilancia y peritajes practicadas por la dirección;
 
@@ -845,7 +849,7 @@ XVI. Supervisar el programa de premiación de las dependencias, las entidades pa
 
 XVII. Supervisar la promoción de la cultura de calidad y fomentar la participación de las dependencias, las entidades paraestatales y Procuraduría General de Justicia al premio de calidad Coahuila;
 
-XVIII. Observar el cumplimiento y evaluar los resultados de los proyectos de la Dirección Desarrollo (sic) Administrativo, y presentarlo al titular de la subsecretaría de su adscripción;
+XVIII. Observar el cumplimiento y evaluar los resultados de los proyectos de la Dirección (sic) Desarrollo Administrativo, y presentarlo al titular de la subsecretaría de su adscripción;
 
 XIX. Integrar el informe anual de resultados, dentro de los términos indicados por la propia Secretaría; y,
 
@@ -985,7 +989,7 @@ VII. Vigilar y verificar que se cumplan con las normas y disposiciones legales e
 
 VIII. Verificar el cumplimiento de las obligaciones de los proveedores y contratistas que celebren contratos con las dependencias, las entidades paraestatales y la Procuraduría General de Justicia;
 
-IX. Comprobar que la ejecución de la obra pública y servicios relacionados con las mismas, se lleven a cabo conforme a la normatividad aplicable y en base los (sic) requerimientos técnicos adjudicados;
+IX. Comprobar que la ejecución de la obra pública y servicios relacionados con las mismas, se lleven a cabo conforme a la normatividad aplicable y en base (sic) los requerimientos técnicos adjudicados;
 
 X. Proponer las acciones preventivas y correctivas necesarias para el mejoramiento de la eficiencia la obra pública y los servicios relacionados con las mismas;
 
@@ -1369,7 +1373,7 @@ VIII. Las demás que las leyes le confieran, o le delegue la o el titular de la 
 
 Corresponde a la Coordinación General de Asuntos Jurídicos además de las señaladas en el artículo 12 del presente ordenamiento, las siguientes:
 
-I. Representar legalmente a la Secretaría en los procedimientos judiciales, laborales o administrativos en los fuere (sic) parte o intervenga en el cumplimiento a sus atribuciones, asimismo en aquellos en los que se requiera su intervención;
+I. Representar legalmente a la Secretaría en los procedimientos judiciales, laborales o administrativos en los (sic) fuere parte o intervenga en el cumplimiento a sus atribuciones, asimismo en aquellos en los que se requiera su intervención;
 
 II. Asesorar y apoyar jurídicamente en el área de su competencia a las unidades administrativas de la Secretaría, a las dependencias, las entidades paraestatales y a la Procuraduría General de Justicia, así como a los ayuntamientos del estado, previa solicitud de los mismos;
 
@@ -1594,3 +1598,17 @@ EL SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
 JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Fiscalización y Rendición de Cuentas del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado número 77, primera sección del 24 de septiembre de 2013.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente reglamento.
+
+CUARTO. Los asuntos que se refieran a actos o resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente reglamento, se tramitarán, resolverán, defenderán y, en general, serán de la competencia de la unidad administrativa de la Secretaría que tenga para estos efectos la competencia por sujetos, entidades y materias que corresponda, conforme a este reglamento.
