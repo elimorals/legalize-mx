@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2016-12-29"
+last_updated: "2018-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -49,7 +49,7 @@ La relación jurídica de trabajo reconocida por esta Ley se entiende establecid
 
 ###### ARTICULO 3o.
 
-Trabajador es toda persona que presta un servicio físico, intelectual o de ambos géneros a los Poderes Legislativo, Ejecutivo y Judicial, a los Ayuntamientos y a los organismos descentralizados y empresas de participación estatal, en virtud de nombramiento expedido y por figurar en la nómina de pago sus sueldos (sic).
+Trabajador es toda persona que presta un servicio físico, intelectual o de ambos géneros a los Poderes Legislativo, Ejecutivo y Judicial, a los Ayuntamientos y a los organismos descentralizados y empresas de participación estatal, en virtud de nombramiento expedido y por figurar en la nómina de pago sus sueldos.
 
 ###### ARTICULO 4o.
 
@@ -65,27 +65,61 @@ III. Trabajadores temporales.
 
 Se entenderá como trabajadores de confianza todos aquellos que realicen funciones de dirección, vigilancia, fiscalización de orden general dentro de las Dependencias o bien que por el manejo de fondos, valores o datos de estricta confidencialidad deban tener tal carácter, de acuerdo a la siguiente clasificación:
 
-I. Dentro del Poder Ejecutivo: Los titulares de las dependencias básicas, que establezca la Ley Orgánica de la Administración Pública; los Secretarios Particular y Privado del Gobernador; el Subprocurador, Subtesorero; Directores, Jefes y Subjefes de Departamentos; Secretarios Particulares y Asesores o Consultores de los titulares de las dependencias básicas, direcciones y departamentos; Presidentes titulares y auxiliares y Secretario General de Acuerdos de la Junta Local de Conciliación y Arbitraje del Estado; Secretario y Vocales de la Comisión Agraria Mixta; Agente del Ministerio Público; los Jueces del Registro Civil; Jefes y Subjefes de las corporaciones policíacas y los elementos uniformados;
+(NOTA: EL 22 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, SUBTEMA 1.1, OCTAVO, SUBTEMA 2.1, Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 89/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-II. Dentro del Poder Legislativo: El Oficial Mayor, Contador General de Glosa y Subcontador; los Asesores, Visitadores o Auditores y los Jefes de Sección;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-III. En el Poder Judicial: Sin ser limitativa se considerarán como tales: El Secretario General de Acuerdos, el Subsecretario de Acuerdos, el Oficial Mayor, el Director del Instituto de Especialización, el Director de Administración y Desarrollo de Personal, el Director de Contabilidad y Pagaduría, los Titulares de los Juzgados de Primera Instancia, Municipales y de Tenencia; los Jurados y Arbitros; los Asesores y Secretarios Particulares; y, los Secretarios Auxiliares o Proyectistas de las Salas;
+I. Dentro del Poder Ejecutivo: Los titulares de las dependencias básicas, que establezca la Ley Orgánica de la Administración Pública; los Secretarios Particular y Privado del Gobernador; EL FISCAL REGIONAL Y ESPECIAL; Directores, Subdirectores y Jefes de Departamentos; Secretarios Particulares, Técnicos y Asesores de los titulares de las dependencias básicas, y el Oficial del Registro Civil;
 
-IV. En los Organismos Descentralizados y Empresas de Participación Estatal: Los Directores Generales y Subdirectores; Jefes de Departamentos, Asesores, Secretarios Particulares y Ayudantes; y,
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-V. En los Ayuntamientos: El Secretario, Tesorero, Cajero, Oficial Mayor, Comandante de Policía, Policías Preventivos y de Tránsito, Directores y Jefes de Urbanística y Secretario Particular.
+II. Dentro del Poder Legislativo: Secretarios, Directores Generales, Directores, Jefes de Departamentos, Asesores, Auditor Superior, Auditores Especiales Visitadores o Auditores y Contralor Interno, Secretario Técnico de la Secretaría de Servicios Parlamentarios, el Secretario Técnico de la Secretaría de Administración y Finanzas y el Secretario Técnico de la Auditoría Superior de Michoacán.
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+III. En el Poder Judicial: Sin ser limitativa se considerarán como tales: El Secretario General de Acuerdos, el Oficial Mayor, el Director del Instituto de Especialización, el Director de Administración y Desarrollo de Personal, el Director de Contabilidad y Pagaduría, los Titulares de los Juzgados de Primera Instancia, Municipales y de Tenencia; los Asesores y Secretarios Particulares; y, los Secretarios Auxiliares;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+IV. En los Organismos Descentralizados y Empresas de Participación Estatal: Los Directores Generales y Subdirectores; Jefes de Departamentos, Asesores, Secretarios Particulares y análogos; y,
+
+(NOTA: EL 22 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, SUBTEMA 1.1, OCTAVO, SUBTEMA 2.1, Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 89/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+V. En los Ayuntamientos: El Secretario, Tesorero, Cajero, Oficial Mayor, COMANDANTE DE POLICÍA, POLICÍAS PREVENTIVOS Y DE TRÁNSITO, Directores y Jefes de Urbanística y Secretario Particular y análogos.
+
+(NOTA: EL 22 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, SUBTEMA 1.1, OCTAVO, SUBTEMA 2.1, Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 89/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 6o.
 
-Los trabajadores de base serán los no incluidos en el artículo anterior, serán inamovibles, de nacionalidad mexicana y sólo podrán ser sustituidos por extranjeros cuando no existan mexicanos que puedan desarrollar el servicio respectivo. La sustitución será decidida por el titular de la Dependencia oyendo al Sindicato.
+Los trabajadores de base serán los no incluidos en el artículo anterior, serán inamovibles, DE NACIONALIDAD MEXICANA Y SÓLO PODRÁN SER SUSTITUIDOS POR EXTRANJEROS CUANDO NO EXISTAN MEXICANOS QUE PUEDAN DESARROLLAR EL SERVICIO RESPECTIVO. La sustitución de las plazas vacantes o de nueva creación será decidida por el titular de la Dependencia dentro de los seis meses siguientes a la fecha de terminación de la relación laboral oyendo al Sindicato.
+
+Los trabajadores que adquieran base, no serán inamovibles, sino después de seis meses de servicio sin nota desfavorable en su expediente.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 7o.
 
-Son trabajadores temporales aquellos a quienes se otorga nombramiento para obra o tiempo determinados.
+El señalamiento de una obra determinada puede únicamente estipularse cuando lo exige su naturaleza.
+
+El señalamiento de un tiempo determinado puede únicamente estipularse en los casos siguientes:
+
+I. Cuando lo exige la naturaleza del trabajo que se va prestar;
+
+II. Cuando tenga por objeto sustituir temporalmente a otro trabajador; y,
+
+III. En los demás casos previstos por esta Ley.
+
+Al término de la vigencia del contrato por tiempo determinado, la Dependencia y/o Entidad contratante deberá pagar al trabajador las prestaciones proporcionales al tiempo de prestación de los servicios.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 8o.
 
-Lo no previsto por esta Ley o disposiciones especiales se aplicará supletoriamente, y en su orden, Ley Federal del Trabajo, la Ley Federal de los Trabajadores al Servicio del Estado, la costumbre, el uso, los principios generales de derecho y la equidad.
+Lo no previsto por esta Ley o disposiciones especiales se aplicará supletoriamente, y en su orden, la Ley Federal de los Trabajadores al Servicio del Estado, y la Ley Federal del Trabajo, la, costumbre, el uso, la jurisprudencia, los principios generales de derecho y la equidad.
 
 ### CAPITULO II
 
@@ -95,9 +129,11 @@ DERECHOS Y OBLIGACIONES DE LAS PARTES EN LA RELACION LABORAL.
 
 Los trabajadores prestarán sus servicios en virtud de nombramiento expedido por el funcionario facultado para extenderlo y por estar incluidos en las nóminas de pago (sic) sus sueldos.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 10.
 
-Los menores de edad que tengan más de dieciseis años tendrán capacidad legal para prestar servicios, percibir el sueldo correspondiente y ejercitar las acciones derivadas de la presente Ley.
+Los mayores de quince años, tendrán capacidad legal para prestar libremente sus servicios, percibir el sueldo correspondiente y ejercitar las acciones derivadas de la presente Ley.
 
 ###### ARTICULO 11.
 
@@ -167,9 +203,11 @@ La jornada máxima de trabajo nocturno será de siete horas.
 
 Es jornada mixta la que comprende períodos de tiempo de las jornadas diurna y nocturna, siempre que el período nocturno abarque menos de tres horas y media, pues en caso contrario, se reputará como jornada nocturna. La duración máxima de la jornada mixta será de siete horas y media.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 20.
 
-Cuando por circunstancias especiales deban aumentarse las horas de jornada máxima, este trabajo será considerado como extraordinario y nunca podrá exceder de tres horas diarias ni de tres veces consecutivas.
+Cuando por circunstancias especiales deban aumentarse las horas de jornada máxima, este trabajo será considerado como extraordinario y nunca podrá exceder de tres horas diarias ni de tres veces por semana.
 
 ###### ARTICULO 21.
 
@@ -411,15 +449,27 @@ Ningún Jefe de Oficina, Departamento o Director, podrá destituir o suspender d
 
 ### CAPITULO X. DE LA REINSTALACION EN EL TRABAJO O DE LA INDEMNIZACION
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 40.
 
-Cuando un trabajador resulte cesado injustamente tendrá derecho a optar por la reinstalación en el puesto o cargo que desempeñaba con todas las prestaciones que disfrutaba y en las mismas condiciones en que lo venía desempeñando o a que se le cambie de adscripción con sus mismos derechos o a que se le indemnice con el importe de tres meses de salario.
+Cuando un trabajador resulte cesado injustamente tendrá derecho a optar por una de las siguientes acciones:
+
+a) Reinstalación en el puesto o cargo que desempeñaba con todas las prestaciones que disfrutaba, a razón de las que correspondan a la fecha en que se realice la reinstalación y en las mismas condiciones en que lo venía desempeñando; y,
+
+b) Indemnización con el importe de tres meses de salario que gozaba al momento del cese.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 41.
 
-En el caso del artículo anterior, se cubrirán al trabajador los salarios caídos que correrán desde la fecha del cese hasta aquella en que sea reinstalado en el trabajo.
+En el caso del artículo anterior, si en el juicio correspondiente no comprueba la entidad o dependencia la causa de la rescisión, el trabajador tendrá derecho, además, tratándose de los incisos a) y b) del artículo anterior, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses.
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones. En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
+
+Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de 100 a 1000 veces de valor diario de la unidad de medida y actualización.
+
+Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días sin pago de salario y en caso de reincidencia la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
 
 ### CAPITULO XI. DE LAS CONDICIONES GENERALES DE TRABAJO
 
@@ -557,9 +607,17 @@ Queda prohibido a los Sindicatos:
 
 I. Hacer propaganda de carácter religioso;
 
-II. Ejercer la función de comercio, con fines de lucro; y,
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-III. Ejercer cualquier tipo de violencia sobre los trabajadores, para obligarlos a que se sindicalicen.
+II. Ejercer la función de comercio, con fines de lucro;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+III. Ejercer cualquier tipo de violencia sobre los trabajadores, para obligarlos a que se sindicalicen; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Convocar a sus agremiados para realizar actividades que pongan en riesgo su integridad; así como violentar sus derechos humanos, salvo lo dispuesto por la Ley Federal del Trabajo.
 
 ###### ARTICULO 62.
 
@@ -761,6 +819,14 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 El Tribunal de Conciliación y Arbitraje será colegiado y lo integrarán un representante del Gobierno Estatal que será designado por éste, un representante de los trabajadores al servicio del Estado y los Municipios y un árbitro que nombrarán los dos representantes citados. Este último fungirá como presidente y no deberá ser funcionario de las entidades o Poderes señalados en el Artículo 1o. de esta Ley.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Los representantes del Gobierno Estatal y de los trabajadores al servicio del Estado o municipio, durarán en su cargo un periodo de 3 años y podrán ser removidos libremente por quienes los designaron.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+En el periodo inmediato siguiente, la designación del representante de los Trabajadores, no deberá ser de la misma organización sindical del que concluye.
+
 Por cada miembro propietario se elegirá un suplente.
 
 ###### ARTICULO 91.
@@ -769,9 +835,15 @@ Para la designación de nuevos miembros por vacancia se seguirá el procedimient
 
 Las faltas temporales del Presidente y demás representantes del Tribunal serán cubiertas por los suplentes respectivos.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 92.
 
-El Presidente del Tribunal durará en su cargo 3 años y disfrutará de los emolumentos que fije el Presupuesto de Egresos.
+El Presidente del Tribunal durará en su cargo hasta 3 años y disfrutará de los emolumentos que fije el Presupuesto de Egresos del Estado, pudiendo ser ratificado por un periodo más y ser revocado por los representantes por causas graves previstas en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO XVIII. INTEGRACION DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
 
 ###### ARTICULO 93.
 
@@ -781,13 +853,25 @@ I. Ser mexicano en pleno goce de sus derechos civiles;
 
 II. Ser mayor de veinticinco años; y,
 
-III. No haber sido condenado por delitos contra la propiedad o a sufrir pena mayor de un año de prisión por cualquier otra clase de delitos intencioales (sic).
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-El Presidente deberá ser Licenciado en Derecho. El representante de los Trabajadores deberá haber servido al Estado como empleado de base, por un período no menor de cinco años, precisamente anterior a la fecha de la designación.
+III. No haber sido condenado por delito doloso.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+El presidente deberá tener la licenciatura en derecho, cédula profesional, contar cuando menos con cinco años de ejercicio profesional, experiencia acreditable en materia laboral y tener treinta años cumplidos al día de su designación;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+El representante de los Trabajadores deberá haber servido al Estado o Municipio como empleado de base, por un período no menor de cinco años, a la fecha de la designación.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 94.
 
-El Tribunal contará con un Secretario de Acuerdos, Actuarios y el personal que sea necesario. Los empleados del Tribunal estarán sujetos a la presente Ley; pero los conflictos que se susciten con motivo de la aplicación de la misma, serán resueltos por las autoridades locales del trabajo. El Secretario deberá ser Licenciado o Pasante en Derecho.
+El Tribunal contará con un Secretario de Acuerdos, Actuarios y el personal que sea necesario. El personal jurídico y de confianza del Tribunal no deberán ser sindicalizados y estarán sujetos a la presente Ley, pero los conflictos que resulten con motivo de la aplicación de la misma, serán resueltos por las autoridades locales del trabajo.
+
+El Secretario deberá tener la licenciatura en derecho, con experiencia acreditable en materia laboral.
 
 ###### ARTICULO 95.
 
@@ -807,9 +891,11 @@ IV. Conocer de los conflictos sindicales e intersindicales; y,
 
 V. Efectuar el registro de las condiciones generales de trabajo.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 97.
 
-Tan pronto reciba la primera promoción relativa a un conflicto colectivo o sindical, el Presidente del Tribunal de Conciliación y Arbitraje citará a las partes dentro de las veinticuatro horas siguientes a una audiencia de conciliación que deberá llevarse a cabo dentro del término de tres días contados a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo, que obligará como si se tratara de sentencia ejecutoriada. Si no se avienen, remitirá el expediente a la Secretaría de Acuerdos del Tribunal para que se proceda al arbitraje de conformidad con el procedimiento que establece este capítulo.
+Tan pronto reciba la demanda o el primer escrito relativo a un conflicto individual, colectivo o sindical, el Presidente del Tribunal de Conciliación y Arbitraje citará a las partes dentro de las veinticuatro horas siguientes a una audiencia de conciliación que deberá llevarse a cabo dentro del término de tres días contados a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo ejecutoriado. Si no se avienen, remitirá el expediente a la Secretaría de Acuerdos del Tribunal para que se proceda al arbitraje de conformidad con el procedimiento que establece este capítulo.
 
 ###### ARTICULO 98.
 
@@ -833,25 +919,45 @@ I. El nombre y domicilio del reclamante;
 
 II. El nombre y domicilio del demandado;
 
-III. Una relación de los hechos; y,
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-IV. La indicación del lugar en que pueden obtenerse las pruebas que el reclamante no pudiere aportar directamente y que tengan por objeto la verificación de los hechos en que se funde su demanda, y las diligencias cuya práctica solicite con el mismo fin.
+III. Una relación de los hechos;
 
-A la demanda acompañará las pruebas de que disponga y los documentos que acrediten la personalidad de su representante si no concurre personalmente.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-###### Artículo 102.
+IV. La indicación del lugar en que pueden obtenerse las pruebas que el reclamante no pudiere aportar directamente y que tengan por objeto la verificación de los hechos en que se funde su demanda, y las diligencias cuya práctica solicite con el mismo fin; y,
 
-La contestación de la demanda se presentará en un término que no exceda de cinco días contados a partir del siguiente de la fecha de su notificación, deberá referirse a todos y cada uno de los hechos que comprenda la demanda, y ofrecer pruebas en los términos de la fracción V del artículo anterior.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal se ampliará el término en un día más por cada 100 Kms. de distancia o fracción que exceda de la mitad.
+V. Los documentos que acrediten la personalidad de su representante sino concurre personalmente, y podrá acompañar las pruebas que disponga.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 101 BIS. El Tribunal dictará acuerdo admitiendo la demanda si procediere conforme a derecho.
+
+En caso de existir alguna irregularidad en el escrito de demanda, señalará los defectos u omisiones en que se haya incurrido y prevendrá para que los subsane dentro de un término de tres días hábiles.
+
+La demanda se desechará de plano cuando sea notoriamente frívola o improcedente.
+
+Si de la demanda, resulta a juicio del Tribunal, su incompetencia la declarará de oficio o a petición de parte.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 102.
+
+La contestación de la demanda se presentará en un término que no exceda de cinco días hábiles contados a partir del siguiente de la fecha de su notificación, y su contenido será en los términos del artículo 101. Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal se ampliará el término en un día más por cada 100 Kms. de distancia o fracción que exceda de la mitad.
 
 ###### ARTICULO 103.
 
 El Tribunal, tan luego como reciba la contestación de la demanda o una vez transcurrido el plazo para contestarla, ordenará la práctica de las diligencias que fueren necesarias y citará a las partes, y en su caso, a los testigos y peritos, para la audiencia de pruebas, alegatos y resolución.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 104.
 
-El día y hora de la audiencia se abrirá el período de ofrecimiento y recepción de pruebas; el Tribunal calificará las mismas, admitiendo las que estime pertinentes y desechando aquellas que no resulten notoriamente inconducentes contrarias a la Ley o a las buenas costumbres o que no tengan relación con la litis. Acto continuo señalará el orden de su desahogo, primero, las del actor y después las del demandado en la forma y términos que el Tribunal estime oportuno tomando en cuenta la naturaleza de las mismas y procurando la celeridad en el procedimiento.
+En el caso de no lograrse el arreglo conciliatorio, el Tribunal, tendrá a las partes como inconformes y concederá el uso de la palabra al reclamante o a su representante legal para que ratifique, rectifique o amplíe su escrito inicial de demanda, en cuya ampliación sólo podrá aportar nuevos datos respecto a los hechos o incluir mayores prestaciones, sin poder demandar en ese acto a quien no haya incluido en su escrito inicial. Se concederá a las partes el derecho a la réplica y contrarréplica.
+
+En seguida se abrirá el período de ofrecimiento y admisión de pruebas; el Tribunal recibirá y calificará las mismas, admitiendo las que estime pertinentes y desechando aquellas que resulten notoriamente improcedentes, contrarias a la Ley y a las buenas costumbres o que no tengan relación con la litis. Acto continúo, señalará el orden de su desahogo, primero, las del actor y después las del demandado en la forma y términos que el Tribunal estime oportuno tomando en cuenta la naturaleza de las mismas y procurando la celeridad en el procedimiento.
 
 ###### ARTICULO 105.
 
@@ -863,51 +969,73 @@ Los trabajadores podrán comparecer por sí o por representantes acreditados med
 
 Los titulares podrán hacerse representar por apoderados que acrediten ese carácter mediante simple oficio.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 107.
 
-Las partes podrán hacerse acompañar de los asesores que a su interés convenga, los que se limitarán a aconsejarles sin intervención en el juicio.
+En la etapa de desahogo, sólo se atenderán las pruebas admitidas, a menos que se refieran a hechos supervenientes, en cuyo caso, se dará vista a la contraria antes de resolver lo procedente. Se exceptúan las relativas a las tachas de testigos.
 
 ###### ARTICULO 108.
 
 Cuando el demandado no conteste la demanda dentro del término concedido se tendrá por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
 
-###### ARTICULO 109.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujetarse a reglas fijas para su estimación, y resolverá los asuntos a verdad sabida y buena fe guardada, debiendo expresar en su laudo las consideraciones en que funde su decisión.
+###### ARTÍCULO 109.
+
+El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujetarse a reglas fijas para su estimación, y resolverá los asuntos a verdad sabida y buena fe guardada, debiendo expresar en el laudo las consideraciones en que se funde la decisión.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 110.
 
-Antes de pronunciarse el laudo los integrantes del Tribunal podrán solicitar mayor información para mejor proveer en cuyo caso acordarán la práctica de las diligencias necesarias.
+Antes de pronunciarse el laudo, el Tribunal podrá solicitar mayor información para mejor proveer en cuyo caso acordarán la práctica de las diligencias necesarias.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 111.
 
-Si de la demanda o durante la secuela del procedimiento, resulta, a juicio del Tribunal, su incompetencia, lo declarará de oficio o a petición de parte.
+Se tendrá por desistida de la acción y de la demanda intentada, a toda persona que no haga promoción alguna en el término de tres meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. El Tribunal, de oficio o a petición de parte, una vez transcurrido este término declarará la caducidad.
+
+No operará la caducidad si está pendiente de dictarse acuerdo o resolución sobre alguna promoción de las partes o la práctica de alguna diligencia o la recepción de informes o copias que se hubieren solicitado.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 112.
 
-Se tendrá por desistida de la acción y de la demanda intentada, a toda persona que no haga promoción alguna en el término de tres meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. El Tribunal, de oficio o a petición de parte, una vez transcurrido este término declarará la caducidad. No operará la caducidad si está pendiente de dictarse resolución sobre alguna promoción de las partes o la práctica de alguna diligencia o la recepción de informes o copias que se hubieren solicitado.
+Las cuestiones que se susciten sobre personalidad de las partes o personería de sus representantes, o nulidad de actuaciones, se determinará en la vía incidental y serán resueltas de plano.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 113.
 
-Las cuestiones que se susciten sobre personalidad de las partes o personería de sus representantes, competencia del Tribunal o nulidad de actuaciones, se terminará en la vía incidental y serán resueltas de plano.
+El Tribunal sancionará las faltas de respeto que cometan las partes o quienes intervengan, ya sea por escrito o en cualquier otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-###### Artículo 114.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-Cualquier término no especificado en esta Ley, será de tres días. En ningún término se contarán los días inhábiles que señale el Calendario Oficial del Estado.
+###### ARTICULO 114.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+Cualquier término no especificado en esta Ley, será de tres días hábiles.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 115.
 
-El Tribunal sancionará las faltas de respeto que cometan las partes o quienes intervengan, ya sea por escrito o en cualquiera otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de una vez el valor diario de la Unidad de Medida y Actualización.
+El Tribunal de Conciliación y Arbitraje no podrá condenar el pago de costas.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 116.
 
-El Tribunal de Conciliación y Arbitraje no podrá condenar al pago de costas.
+Los miembros del Tribunal de Conciliación y Arbitraje no podrán ser recusados pero deberán de excusarse de conocer de los juicios en que intervengan, en los casos en que los una parentesco consanguíneo hasta el tercer grado en línea recta, o colateral hasta el cuarto grado con alguna de las partes, debiendo entrar en funciones el suplente.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 117.
 
-Los miembros del Tribunal de Conciliación y Arbitraje no podrán ser recusados pero deberán de excusarse de conocer de los juicios en que intervengan, en los casos en que los una parentesco consanguíneo hasta el tercer grado en línea recta, o colateral hasta el cuarto grado con alguna de las partes, debiendo entrar en funciones el suplente.
+El personal del Tribunal está impedido para actuar como apoderado, representante, asesor o abogado en asuntos particulares en materia de trabajo en tanto sean servidores públicos al servicio de este.
+
+Toda persona que desempeñó un empleo, cargo o comisión de cualquier naturaleza en el Tribunal serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, quienes serán considerados de confianza.
 
 ###### ARTICULO 118.
 
@@ -1012,3 +1140,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 561 POR EL QUE "SE REFORMAN LAS FRACCIONES I, II, III, IV Y V DEL ARTÍCULO 5º, LOS ARTÍCULOS 6º, 7º, 8º, 10, 20, 40, 41, 61, 92, 93, 94, 97, 101, 102, 104 PÁRRAFO PRIMERO, 107, 109, 110, 111, 112, 113, 114, 115, 116, 117; SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 90, EL CAPÍTULO XVIII Y SU DENOMINACIÓN Y EL ARTÍCULO 101 BIS, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes
