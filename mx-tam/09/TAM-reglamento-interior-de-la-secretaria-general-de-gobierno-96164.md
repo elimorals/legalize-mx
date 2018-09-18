@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-de-la-secretaria-general-de-gobierno-96164"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-30"
-last_updated: "2018-06-14"
+last_updated: "2018-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,19 @@ state: "TAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO GUBERNAMENTAL MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 18 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE JUNIO DE 2018 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 13 DE JUNIO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018 (DEROGADO).
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 30 de agosto de 2011.
 
 EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, en ejercicio de las facultades que al Ejecutivo a mi cargo confieren los artículos 91, fracciones V y XXVII, y 95 de la Constitución Política del Estado de Tamaulipas y 1, 10, 11, 13, 14, 15, 16, 23 y 24 de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas; y
 
-C O N S I D E R A N D O ...
+C O N S I D E R A N D O
+
+[...]
 
 En virtud de la fundamentación y motivación expuestas, he tenido a bien expedir el siguiente:
 
@@ -1376,3 +1378,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNAMENTAL MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial del Estado de fecha 30 de agosto de 2011 y todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos pendientes a la entrada en vigor del presente Reglamento, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas u órganos desconcentrados a los que se les haya atribuido la competencia.
