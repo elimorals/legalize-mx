@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-cultura-fisica-y-deporte-del-estado-876
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-04"
-last_updated: "2012-05-04"
+last_updated: "2018-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 4 de mayo de 2012.
 
@@ -55,9 +55,13 @@ II. Asociaciones Deportivas: las organizaciones de carácter estatal que agrupan
 
 III. Clubes Deportivos: los organismos constituidos con el fin de promover uno o más deportes, pudiendo integrarse a la Asociación Estatal que corresponda a cada deporte que se practique en sus instalaciones. Esta afiliación puede ser en forma directa o a través de una liga deportiva;
 
-IV. Comisión de Arbitraje: la Comisión de Arbitraje del Deporte en el Estado de Yucatán;
+> <small>(REFORMADA, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-V. Consejo: el Consejo de Cultura Física y Deporte del Estado de Yucatán;
+IV. Comisión de Arbitraje: la Comisión de Apelación y Arbitraje del Deporte del Estado de Yucatán;
+
+> <small>(REFORMADA, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+V. Consejo: el Consejo Estatal de Cultura Física y Deporte;
 
 VI. Consejos Municipales: los Consejos Municipales de Cultura Física y Deporte;
 
@@ -95,11 +99,15 @@ XX. Ligas Deportivas: las organizaciones que en cada especialidad cuenten con la
 
 XXI. Organizaciones deportivas: los Clubes Deportivos, las Ligas Deportivas y las Asociaciones Deportivas;
 
-XXII. Programa Estatal: el Programa Estatal de Cultura Física y Deporte;
+> <small>(REFORMADA, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XXII. Programa Especial: el Programa Especial de Cultura Física y Deporte;
 
 XXIII. Reglamento: el Reglamento de la Ley de Cultura Física y Deporte del Estado de Yucatán;
 
-XXIV. Registro Estatal: el Registro Estatal del Deporte;
+> <small>(REFORMADA, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV. Registro Estatal: el Registro Estatal de Cultura Física y Deporte;
 
 XXV. Sistema Estatal: el Sistema Estatal de Cultura Física y Deporte, y
 
@@ -125,219 +133,191 @@ El Poder Ejecutivo del Estado de Yucatán, a través del IDEY, podrá celebrar c
 
 ### CAPÍTULO I. De la Integración del Sistema Estatal
 
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 7.
 
-El Sistema Estatal en los términos de la Ley tiene por objeto generar las acciones y programas necesarios para la coordinación, fomento, ejecución, apoyo, promoción y desarrollo de la Cultura Física y el Deporte en el Estado de Yucatán.
+El Sistema Estatal, en términos del artículo 9 de la Ley, tiene por objeto implementar mecanismos de colaboración, coordinación y articulación interinstitucional para el desarrollo de instrumentos, políticas y acciones tendientes a garantizar el derecho a la cultura física y el deporte.
+
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 8.
 
-De conformidad con lo dispuesto en el Artículo 10 de la Ley, el Sistema Estatal se integra de la siguiente manera:
+El Sistema Estatal, en términos del artículo 10 de la Ley, estará integrado por:
 
-I. El Titular del Poder Ejecutivo, quien lo Presidirá;
+I. El Consejo;
 
-II. El Secretario General de Gobierno;
+II. Los Consejos Municipales;
 
-III. El Secretario de Obras Públicas;
+III. El IDEY;
 
-IV. El Secretario de Salud;
+IV. Las Asociaciones y Sociedades Deportivas estatales, y
 
-V. El Secretario de Educación;
+V. Los consejos estatales del deporte estudiantil.
 
-VI. El Secretario de Hacienda;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-VII. El Secretario de Planeación y Presupuesto;
+### CAPÍTULO I bis. Del Consejo Estatal de Cultura Física y Deporte
 
-VIII. El Director General del IDEY;
+> <small>(ADICIONADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Los Titulares de los Ayuntamientos, y
+Artículo 8 bis. El Consejo, en términos del artículo 12 de la Ley, es la instancia superior del Sistema Estatal y tiene por objeto propiciar la efectiva coordinación entre instituciones de los sectores público, privado y social, para el adecuado ejercicio y desarrollo del derecho a la cultura física y el deporte en Yucatán.
 
-X. Un representante de las Asociaciones Deportivas.
+> <small>(ADICIONADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-Los integrantes del Sistema podrán intervenir en las sesiones con voz y voto, a excepción del Secretario Técnico del Consejo quien podrá asistir y participar en las mismas con derecho a voz, pero sin voto.
+Artículo 8 ter. El Consejo estará integrado por:
 
-### CAPÍTULO II. De las atribuciones del Sistema Estatal
+I. El Director General del IDEY, quien será el presidente;
+
+II. El Secretario de Administración y Finanzas;
+
+III. El Secretario de Salud;
+
+IV. El Secretario de Educación;
+
+V. El Secretario de Obras Públicas;
+
+VI. El Secretario de la Juventud;
+
+VII. Los Presidentes Municipales de las cabeceras de cada una de las regiones en las que se distribuye el Estado, de conformidad a lo previsto en el Reglamento de la Ley de Planeación para el Desarrollo del Estado de Yucatán, y
+
+VIII. Tres representantes de las Asociaciones y Sociedades Deportivas estatales.
+
+Los integrantes del Consejo tendrán derecho a voz y voto durante las sesiones.
+
+El Consejo contará con un Secretario Técnico, quien será designado por el Presidente y participará en las sesiones únicamente con derecho a voz.
+
+Cuando el Gobernador asista a alguna sesión del Consejo, asumirá el cargo de Presidente y el Director General del IDEY fungirá como Secretario Técnico, conservando el derecho a voz y voto, ambos con las facultades y obligaciones dispuestas en la Ley y en este Reglamento.
+
+El Poder Ejecutivo, por conducto del IDEY, designará, previa convocatoria, a los representantes de las Asociaciones y Sociedades Deportivas estatales a que se refiere la fracción VIII de este artículo, quienes conformarán el Consejo por un periodo de un año, con opción a ser ratificados por un periodo más, y podrán ser removidos por falta injustificada a dos sesiones consecutivas.
+
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 9.
 
-Los cargos de los integrantes del Sistema serán de carácter honorario, por lo que sus miembros no percibirán retribución, emolumento o compensación alguna por su desempeño.
+Los cargos de los integrantes del Consejo serán de carácter honorario, por lo que sus miembros no percibirán retribución, emolumento o compensación alguna por su desempeño.
+
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 10.
 
-Los integrantes del Sistema podrán designar a un suplente con nivel jerárquico inmediato inferior al de él, o al menos, con rango de Director, excepto al Titular del Poder Ejecutivo, quien será suplido en términos del Código de la Administración Pública de Yucatán.
+Los integrantes del Consejo nombrarán, por escrito dirigido al Secretario Técnico, a sus suplentes, quienes los sustituirán en sus ausencias con las facultades y obligaciones que establecen este Reglamento, el Reglamento del Código de la Administración Pública de Yucatán y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 11.
 
-Para su adecuado funcionamiento, el Sistema contará con un Secretario Técnico designado por el Presidente del Consejo a propuesta del IDEY, quien será responsable de la organización y funcionamiento del mismo.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO III. Del funcionamiento del Sistema Estatal
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO II. De las atribuciones del Consejo
+
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 12.
 
-En términos de lo dispuesto por la Ley, el Sistema Estatal tendrá las siguientes atribuciones:
+El Consejo, para el cumplimiento de su objeto, tendrá, además de las previstas en el artículo 13 de la Ley, las siguientes atribuciones:
 
-I. Establecer los instrumentos y políticas públicas tendientes a cumplir los objetivos y fines del Programa Estatal;
+I. Vigilar el cumplimiento de políticas, estrategias, programas y acciones que en materia de Cultura Física y Deporte se desarrollen en el estado;
 
-II. Revisar anualmente el Programa Estatal y demás instrumentos programáticos y evaluar el cumplimiento de sus objetivos;
+II. Evaluar la práctica de la Cultura Física y el Deporte en el estado, y efectuar las propuestas y recomendaciones que considere para su desarrollo y enseñanza;
 
-III. Emitir acuerdos y disposiciones generales para el correcto funcionamiento del Sistema Estatal;
+III. Establecer las políticas, estrategias, acciones o instrumentos para el cumplimiento de los objetivos del Programa Especial;
 
-IV. Dar seguimiento a los acuerdos, lineamientos y políticas que emita el Sistema Nacional;
+IV. Revisar anualmente el Programa Especial y demás instrumentos programáticos en materia de Cultura Física y Deporte, y evaluar el cumplimiento de sus objetivos;
 
-V. Establecer medidas para vincular al Sistema Estatal, con el Sistema Nacional y los Sistemas de otros Estados y Municipios del país;
+V. Dar seguimiento a los acuerdos, políticas, lineamientos, criterios y disposiciones que emita el Sistema Nacional;
 
-VI. Crear mediante acuerdo, las comisiones de trabajo que considere necesarias para la atención de temas específicos y el debido cumplimiento de sus atribuciones;
+VI. Determinar medidas para vincular el Sistema Estatal con el Sistema Nacional y los sistemas de otros estados y municipios del país;
 
-VII. Establecer los procedimientos para la coordinación y concertación en materia deportiva entre las diferentes dependencias y entidades de la Administración Pública Estatal y Municipal, así como sumar la participación activa de las diferentes instituciones públicas y privadas;
+VII. Determinar los requerimientos en materia de Cultura Física y Deporte del estado, y realizar propuestas que permitan su atención por parte de las autoridades competentes;
 
-VIII. Determinar los requerimientos del Deporte en el Estado, para crear y desarrollar los medios idóneos para su atención;
+VIII. Propiciar la formación integral del individuo a través del Deporte;
 
-IX. Proponer y dar seguimiento al debido cumplimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en el Estado en beneficio de la Cultura Física y el Deporte;
+IX. Proponer estrategias para fomentar la Cultura Física y el Deporte entre personas adultas mayores, personas con discapacidad y demás personas en situación de vulnerabilidad;
 
-X. Evaluar permanentemente la práctica de la Cultura Física y el Deporte en el Estado, y proponer las recomendaciones que considere adecuadas para su fomento y enseñanza;
+X. Formular programas destinados a promover y apoyar la formación, capacitación, profesionalización y actualización constante del personal técnico relacionado con la Cultura Física y el Deporte, en sus diferentes disciplinas;
 
-XI. Propiciar la formación integral del individuo a través del Deporte;
+XI. Acordar el otorgamiento de los beneficios previstos en el Artículo 42 de la Ley;
 
-XII. Proponer líneas estratégicas en las diferentes temáticas relacionadas con la Cultura Física y el Deporte;
+XII. Impulsar la creación y el fomento de patronatos, fundaciones y demás organismos filantrópicos en la sociedad civil, con el propósito de que coadyuven en el desarrollo de la Cultura Física y el Deporte en el Estado, y
 
-XIII. Diseñar y operar estrategias para fomentar la práctica deportiva entre personas de la tercera edad, personas con discapacidad y demás sectores de la población;
-
-XIV. Formular programas destinados a promover y apoyar la formación, la capacitación y la actualización constante del personal técnico del Deporte, dedicado a las diferentes disciplinas;
-
-XV. Elaborar propuestas de reformas a leyes, reglamentos y demás instrumentos normativos y programáticos en materia de Cultura Física y Deporte y someterlas a consideración del Titular del Poder Ejecutivo;
-
-XVI. Acordar el otorgamiento, a las personas físicas y morales, de los beneficios establecidos en el Artículo 42 de la Ley;
-
-XVII. Promover la creación y el fomento de patronatos, fundaciones y demás organismos filantrópicos en la sociedad civil, con el fin de que coadyuven en el fomento y el desarrollo de la Cultura Física y el Deporte, y
-
-XVIII. Las demás que le confiera la Ley, este Reglamento y demás disposiciones legales y normativas aplicables.
+XIII. Las demás que establezcan la Ley, este Reglamento y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 13.
 
-El Presidente del Sistema Estatal tendrá las siguientes facultades y obligaciones:
-
-I. Convocar a las sesiones del Sistema Estatal, a través del Secretario Técnico, y presidir las mismas;
-
-II. Aprobar la agenda de los asuntos a tratar en las sesiones del Sistema Estatal;
-
-III. Participar con voz y voto en las sesiones. En caso de empate, emitir voto de calidad;
-
-IV. Nombrar y remover al Secretario Técnico del Sistema Estatal;
-
-V. Proponer al Sistema Estatal la instalación de comisiones para estudiar o evaluar políticas y acciones en materia deportiva;
-
-VI. Promover en todo tiempo la efectiva coordinación y funcionamiento del Sistema Estatal;
-
-VII. Celebrar acuerdos o convenios de colaboración y coordinación con la Federación, el Distrito Federal, las entidades federativas y los municipios, para realizar los fines del Sistema Estatal;
-
-VIII. Instruir al Secretario Técnico para promover y vigilar el cumplimiento de acuerdos, convenios y demás resoluciones del Sistema Estatal, y
-
-IX. Las demás que le confiera la Ley, este Reglamento y otras disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 14.
 
-El Secretario Técnico del Sistema Estatal, tendrá las siguientes atribuciones:
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
-I. Elaborar el proyecto de la orden del día;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-II. Convocar a los integrantes del Sistema Estatal y, en su caso, a los participantes invitados, por instrucción del Presidente;
-
-III. Elaborar las actas de las sesiones del Sistema Estatal;
-
-IV. Recabar las firmas de los integrantes del Sistema Estatal;
-
-V. Enviar la documentación de las sesiones a los miembros del Sistema Estatal;
-
-VI. Llevar un registro de seguimiento de acuerdos del Sistema Estatal, y
-
-VII. Las demás que le confiera el Presidente del Sistema Estatal y otras disposiciones legales y normativas aplicables.
-
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. Del funcionamiento del Sistema Estatal
 
 ###### Artículo 15.
 
-El Sistema Estatal sesionará de manera ordinaria una vez al año y, en forma extraordinaria, cuando sea convocado por su Presidente. Para que el Sistema Estatal sesione válidamente se requerirá la asistencia de la mitad más uno de sus integrantes. Los acuerdos del Sistema Estatal se tomarán con la aprobación de la mayoría de sus miembros presentes.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 16.
 
-Las convocatorias de las sesiones ordinarias y extraordinarias del Sistema Estatal se comunicarán mediante oficio suscrito por el Presidente o, en su caso, por el Secretario Técnico y deberán:
-
-I. Enviarse con al menos cinco días naturales de anticipación a la fecha de la sesión, en el caso de las sesiones ordinarias. Para las sesiones extraordinarias con una anticipación de veinticuatro horas;
-
-II. Indicar el lugar, hora y fecha en que se celebrarán las sesiones;
-
-III. Incluir el orden del día, y
-
-IV. Llevar adjunta la documentación correspondiente a la sesión. Este requisito no será necesario para las sesiones extraordinarias.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 17.
 
-En caso de no reunirse el quórum al que se refiere el Artículo anterior, se hará una segunda convocatoria, la cual se llevará a cabo con el número de miembros que asista.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 18.
 
-El Sistema Estatal, a propuesta de su Presidente, podrá establecer comisiones de trabajo especializadas a efecto de planear, instrumentar y evaluar los acuerdos, cumplir con las materias de coordinación y realizar los análisis, estudios y demás asuntos que sean necesarios para el cumplimiento de su objeto.
-
-Las comisiones se ajustarán a las disposiciones que para su funcionamiento emita el Sistema Estatal.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 19.
 
-En las comisiones podrán participar, a invitación del Presidente del Sistema Estatal, expertos en materia de Cultura Física y Deporte, de instituciones académicas, de investigación y agrupaciones de los sectores social y privado relacionados con su objeto.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
-## TÍTULO TERCERO. PROGRAMA ESTATAL DE CULTURA FÍSICA Y DEL DEPORTE
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+## TÍTULO TERCERO. PROGRAMA ESPECIAL DE CULTURA FÍSICA Y DEL DEPORTE
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 20.
 
-El Programa Estatal es el instrumento rector de la política deportiva en el Estado de Yucatán y tiene por objeto establecer los mecanismos, estrategias, lineamientos, y acciones orientadas al desarrollo y capacitación de la Cultura Física y el Deporte en la Entidad.
+El Programa Especial es el instrumento rector de la política deportiva en el Estado de Yucatán y tiene por objeto establecer los mecanismos, estrategias, lineamientos, y acciones orientadas al desarrollo y capacitación de la Cultura Física y el Deporte en la Entidad.
+
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 21.
 
-La elaboración del Proyecto del Programa Estatal estará a cargo del IDEY, bajo la supervisión del Titular del Poder Ejecutivo del Estado de Yucatán. Las autoridades integrantes del Sistema Estatal, participarán en su elaboración a través de la formulación de observaciones en el seno del mismo.
+En la elaboración del Programa Especial deberán participar los integrantes del Sistema Estatal. Dicha elaboración será supervisada por el IDEY.
 
-El IDEY incorporará al Proyecto del Programa Estatal las propuestas que envíen los Consejos Municipales, previa aprobación del Sistema Estatal.
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 22.
 
-Una vez integrado el Proyecto del Programa Estatal, será presentado al Titular del Poder Ejecutivo del Estado de Yucatán, para su revisión y aprobación. Una vez aprobado el Programa Estatal, deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
+Una vez integrado el Proyecto del Programa Especial, será presentado al Titular del Poder Ejecutivo del Estado de Yucatán, para su revisión y aprobación. Una vez aprobado el Programa Especial, deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 23.
 
-El Programa Estatal, deberá contener lo siguiente:
+El Programa Especial deberá contener, por lo menos, los elementos previstos en el artículo 37 de la Ley de Planeación para el Desarrollo del Estado de Yucatán.
 
-I. El diagnóstico de la situación prevaleciente en el Estado en materia de Cultura Física y Deporte;
-
-II. Los objetivos generales y específicos del Programa;
-
-III. Las estrategias y acciones encaminadas a promover e impulsar la Cultura Física y el Deporte en el Estado;
-
-IV. Las políticas de desarrollo, lineamientos estratégicos, medidas de seguridad e indicadores de desempeño de los rubros establecidos en el Artículo 21 de la Ley;
-
-V. Los mecanismos y criterios de coordinación entre todos los integrantes del Sistema Estatal, para lograr que la actividad y participación deportiva en el Estado de Yucatán se realice en forma ordenada y pacífica;
-
-VI. Las estrategias y acciones tendientes a promover la participación de la sociedad en las actividades relacionadas con la Cultura Física y el Deporte en la Entidad;
-
-VII. La convocatoria dirigida a los equipos, clubes y asociaciones deportivas que cumplan con los requisitos establecidos en la Ley, para integrarse a (sic) Sistema Estatal;
-
-VIII. La relación de torneos o juegos estatales y regionales a verificarse, así como sus ramas de competencia y calendario;
-
-IX. Los mecanismos de coordinación y concertación entre los diferentes organismos e instituciones de los sectores público y privado, para llevar a cabo acciones de formación y capacitación con reconocimiento oficial para los instructores, entrenadores y técnicos dedicados al deporte en el Estado de Yucatán;
-
-X. La implementación de programas y estrategias para la capacitación y profesionalización de los integrantes de las Instituciones deportivas, y
-
-XI. Los demás aspectos que el Consejo apruebe para consolidar el funcionamiento y eficacia del Programa Estatal.
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 24.
 
-La ejecución de las acciones del Programa Estatal estará a cargo de las autoridades señaladas en el propio Programa y se sujetará a la disponibilidad presupuestaria anual, así como a las disposiciones y lineamientos que dicten los órganos competentes.
+La ejecución de las acciones del Programa Especial estará a cargo de las autoridades señaladas en el propio Programa y se sujetará a la disponibilidad presupuestaria anual, así como a las disposiciones y lineamientos que dicten los órganos competentes.
 
 ###### Artículo 25.
 
-El Programa Estatal, deberá revisarse de manera anual por el Sistema Estatal, a efecto de mantenerlo actualizado y dar cabal cumplimiento a sus objetivos.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
-En lo subsecuente, el Programa Estatal, se publicará en el Diario Oficial del Gobierno del Estado de Yucatán, dentro de los seis meses posteriores a la publicación del Plan Estatal de Desarrollo del período de gobierno respectivo.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-## TÍTULO CUARTO. REGISTRO ESTATAL DEL DEPORTE
+## TÍTULO CUARTO. REGISTRO ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
 ### CAPÍTULO ÚNICO
 
@@ -425,13 +405,15 @@ IV. La información adicional que sea necesaria y que determine el IDEY, para ca
 
 El IDEY podrá cancelar la inscripción autorizada en el Registro Estatal, antes de la fecha del vencimiento de la acreditación, si el desempeño del registrado no se apega a las disposiciones legales y reglamentarias aplicables del deporte respectivo.
 
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 34.
 
-El Poder Ejecutivo del Gobierno del Estado de Yucatán, a través del IDEY suscribirá los convenios respectivos con los Ayuntamientos, a efecto de (sic) proporcionen, en forma actualizada y permanente, la información necesaria para integrar el Registro Estatal, y compartir la información que obre en las bases de datos de las dependencias municipales del Deporte.
+El Poder Ejecutivo del Gobierno del Estado de Yucatán, a través del IDEY, suscribirá los convenios respectivos con los Ayuntamientos, a efecto de que proporcionen, en forma actualizada y permanente, la información necesaria para integrar el Registro Estatal, y compartir la información que obre en las bases de datos de las dependencias municipales del Deporte.
 
 ## TÍTULO QUINTO. USO, CONSERVACIÓN Y MANTENIMIENTO DE LA INFRAESTRUCTURA DEPORTIVA
 
-### CAPÍTULO I. Del objeto y atribuciones de la Comisión de Arbitraje
+### CAPÍTULO ÚNICO
 
 ###### Artículo 35.
 
@@ -443,59 +425,81 @@ Cuando el uso de instalaciones deportivas genere ingresos, deberá destinarse co
 
 La construcción, conservación, mantenimiento y uso de las instalaciones deportivas deberá sujetarse en todo caso a las disposiciones específicas previstas en la Ley, así como en los ordenamientos legales, planes, programas y demás disposiciones administrativas aplicables, en materia deportiva y de desarrollo urbano.
 
-## TÍTULO SEXTO. COMISIÓN DE ARBITRAJE DEL DEPORTE EN EL ESTADO DE YUCATÁN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO II. De la integración de la Comisión de Arbitraje
+## TÍTULO SEXTO. COMISIÓN DE APELACIÓN Y ARBITRAJE DEL DEPORTE EN EL ESTADO DE YUCATÁN
+
+### CAPÍTULO I. Del objeto y atribuciones de la Comisión de Arbitraje
+
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 37.
 
-La Comisión de Arbitraje, funcionará en forma independiente a las autoridades deportivas y será el organismo encargado de conocer, tramitar y resolver administrativamente el recurso de revisión, que los miembros del Sistema Estatal presenten en contra de decisiones y sanciones que apliquen las autoridades y organismos deportivos, en la forma y términos establecidos en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
+La Comisión de Arbitraje funcionará en forma independiente a las autoridades deportivas y será el organismo encargado de conocer y resolver las inconformidades que interpongan los integrantes del Sistema Estatal o las personas inscritas en el Registro Estatal contra las resoluciones emitidas por las autoridades correspondientes, en la forma y términos establecidos en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán, así como fungir como panel de arbitraje y coadyuvar, a través de la mediación y la conciliación, en la solución de las controversias que se susciten o puedan suscitarse, en el ámbito jurídico del deporte estatal, entre autoridades, organismos, directivos, deportistas, entrenadores y demás personal relacionado.
+
+> <small>(ADICIONADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 37 bis. La Comisión de Arbitraje, para el cumplimiento de su objeto, tendrá las atribuciones previstas en el artículo 48 bis de la Ley.
 
 ###### Artículo 38.
 
 Las decisiones y sanciones que apliquen las autoridades y organismos deportivos que rebasen el régimen deportivo a que se refiere la Ley y este Reglamento se regirán por lo dispuesto en las disposiciones legales y normativas aplicables.
 
-### CAPÍTULO III. De las sesiones de la Comisión de Arbitraje
+### CAPÍTULO II. De la integración de la Comisión de Arbitraje
+
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 39.
 
-La Comisión de Arbitraje estará integrada, de conformidad con lo dispuesto en el Artículo 49 de la Ley, por cinco miembros nombrados por el Secretario de Educación del Poder Ejecutivo del Gobierno del Estado de Yucatán, quienes deberán estar vinculados al deporte con capacidad plena, conocimiento y experiencia en la materia, además de reconocido prestigio y calidad moral.
+La Comisión de Arbitraje estará integrada, de conformidad con lo dispuesto en el Artículo 49 de la Ley, por un presidente y cuatro miembros, designados por el Titular del Poder Ejecutivo, quienes deberán contar con título de licenciado en derecho, amplio conocimiento del ámbito deportivo y reconocido prestigio y calidad moral.
 
-Además los integrantes de la Comisión de Arbitraje, no deberán ostentar cargo alguno como autoridad perteneciente al IDEY, ni formar parte de comités de asociaciones deportivas, con objeto de asegurar su autonomía al resolver los recursos de inconformidad.
+Ninguno de los integrantes de la Comisión de Arbitraje podrá tener cargo alguno dentro de cualquier autoridad, asociación, sociedad o cualquier otro órgano deportivo, a efecto de asegurar su total autonomía en la resolución de los recursos que conozca.
 
 ###### Artículo 40.
 
-La Comisión de Arbitraje tendrá un Presidente que será electo entre sus integrantes, durará en el cargo un año y podrá ser reelecto por un máximo de dos períodos más. Su designación será durante el último mes de cada año, a efecto de iniciar con los procedimientos de sus atribuciones el primer día hábil del siguiente año. Durante las votaciones de las sesiones, el Presidente tendrá voto de calidad en caso de empate.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 41.
 
 La Comisión de Arbitraje tendrá un Secretario Técnico, que será designado por el Presidente entre los integrantes de la misma, para el despacho de los asuntos administrativos de la Comisión.
 
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 42.
 
-El nombramiento de los miembros de la Comisión de Arbitraje a excepción del Presidente será de tres años.
+El presidente y los integrantes de la Comisión de Arbitraje durarán tres años en su encargo, pudiendo ser reelectos hasta por un periodo más.
 
-### CAPÍTULO I. De la integración de la Comisión Estatal Antidopaje
+Los cargos de los integrantes de la Comisión de Arbitraje son de carácter honorífico, por lo tanto, quienes los ocupen no recibirán retribución alguna por su desempeño.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO III. De las sesiones de la Comisión de Arbitraje
 
 ###### Artículo 43.
 
-La Comisión de Arbitraje, celebrará sesiones ordinarias por lo menos una vez al año y las extraordinarias que se requieran a convocatoria del Presidente por conducto del Secretario Técnico, mismas que se llevarán a cabo en el lugar que se señale para tal efecto en la convocatoria.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 44.
 
-El Secretario Técnico de la Comisión de Arbitraje, por instrucciones del Presidente, convocará a las sesiones, asimismo, cualquier miembro podrá solicitar al Presidente se convoque a reunión cuando por la importancia de los temas a tratar, se estime conveniente.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 45.
 
-La Comisión de Arbitraje sesionará válidamente con la asistencia de más de la mitad de sus integrantes. Los acuerdos de la Comisión de Arbitraje se tomarán por mayoría de votos de los integrantes presentes, el Presidente tendrá voto de calidad en caso de empate.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
-## TÍTULO SÉPTIMO. COMISIÓN ESTATAL ANTIDOPAJE
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO II. De las atribuciones y funcionamiento del Comité Estatal Antidopaje
+## TÍTULO SÉPTIMO. COMITÉ ESTATAL ANTIDOPAJE
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO I. De la integración del Comité Estatal Antidopaje
+
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 46.
 
-La Comisión Estatal Antidopaje es la instancia que tiene por objeto conocer, junto con las asociaciones deportivas estatales, los resultados, controversias e irregularidades que surjan de los controles de dopaje en el deporte a que sean sometidos los deportistas en el territorio estatal.
+El Comité Estatal Antidopaje es la instancia que tiene por objeto conocer, junto con las asociaciones deportivas estatales, los resultados, las irregularidades y las controversias que surjan de los controles de dopaje en el deporte a que sean sometidos los deportistas en el territorio estatal, dentro y fuera de competición.
 
 ###### Artículo 47.
 
@@ -511,35 +515,67 @@ IV. Un delegado deportista recipiendario del mérito deportivo, en carácter de 
 
 V. Un delegado médico de la Secretaria de Salud del Poder Ejecutivo del Gobierno del Estado de Yucatán, en carácter de vocal.
 
+> <small>(ADICIONADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Los integrantes previstos en las fracciones II, III, IV y V de este artículo formarán parte del Comité Estatal Antidopaje previa aceptación de la invitación que les realice el Presidente.
+
 Los integrantes del Comité Estatal Antidopaje podrán intervenir en las sesiones con voz y voto, a excepción del Secretario del Comité quien podrá asistir y participar en las mismas con derecho a voz, pero sin voto.
 
-El Coordinador Médico Estatal y los Delegados que integran el Comité Estatal Antidopaje, durarán en su encargo el tiempo que determine el Director General del IDEY.
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Los integrantes del Comité Estatal Antidopaje durarán un año en su encargo y podrán ser reelectos hasta por un periodo más.
 
 ###### Artículo 48.
 
 Los cargos de los integrantes del Comité Estatal Antidopaje serán de carácter honorario, por lo que sus miembros no percibirán retribución, emolumento o compensación alguna por su desempeño.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO II. De las atribuciones del Comité Estatal Antidopaje
+
 ###### Artículo 49.
 
 El Comité Estatal Antidopaje tendrá las atribuciones conferidas por el Artículo 65 de la Ley, así como las establecidas en otras disposiciones legales y normativas aplicables.
 
-En el desempeño de sus funciones la Comisión Estatal Antidopaje deberá sujetarse invariablemente a las disposiciones contenidas en la Ley, en este Reglamento y otras disposiciones legales y normativas aplicables.
+> <small>(REFORMADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+En el desempeño de sus funciones, el Comité Estatal Antidopaje deberá sujetarse invariablemente a las disposiciones contenidas en la Ley, en este Reglamento y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 50.
 
-Las normas técnicas que expida el Comité Estatal Antidopaje, en los términos del Artículo 66 de la Ley, deberán publicarse, para su conocimiento y cumplimiento, en el Diario Oficial del Gobierno del Estado de Yucatán.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 51.
 
-El Comité Estatal Antidopaje, celebrará sesiones ordinarias por lo menos una vez al año y las extraordinarias que se requieran a convocatoria del Presidente por conducto del Secretario, mismas que se llevarán a cabo en el lugar que se señale para tal efecto en la convocatoria.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 52.
 
-El Secretario del Comité Estatal Antidopaje, por instrucciones del Presidente, convocará a las sesiones, asimismo, cualquier miembro podrá solicitar al Presidente se convoque a reunión cuando por la importancia de los temas a tratar, se estime conveniente.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 53.
 
-El Comité Estatal Antidopaje sesionará válidamente con la asistencia de más de la mitad de sus integrantes. Los acuerdos del Comité Estatal Antidopaje se tomarán por mayoría de votos de los integrantes presentes, el Presidente tendrá voto de calidad en caso de empate.
+(DEROGADO, D.O. 18 DE SEPTIEMBRE DE 2018)
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+## TÍTULO OCTAVO. COMISIÓN ESTATAL CONTRA LA VIOLENCIA EN EL DEPORTE
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 53 bis. La Comisión Estatal contra la Violencia en el Deporte es un órgano colegiado que tiene por objeto definir y conducir las políticas para prevenir y atender la violencia en el deporte en el Estado.
+
+> <small>(ADICIONADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 53 ter. La Comisión Estatal contra la Violencia en el Deporte tendrá, para el cumplimiento de su objeto, las atribuciones previstas en el Artículo 75 quater de la Ley.
+
+> <small>(ADICIONADO, D.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 53 quater. La Comisión Estatal contra la Violencia en el Deporte estará integrada en términos del artículo 75 quinquies de la Ley.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -594,3 +630,13 @@ SECRETARIO DE EDUCACIÓN
 C. JORGE RODRÍGO ARJONA PUERTO
 
 SECRETARIO DE OBRAS PÚBLICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 659/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
