@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2018-01-09"
+last_updated: "2018-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -49,17 +49,25 @@ Naturaleza y objeto de la ley
 
 La presente Ley es de orden público y tiene por objeto establecer las bases generales para la organización del ámbito municipal de gobierno, conforme a lo señalado en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 Naturaleza jurídica del municipio
 
 ###### Artículo 2.
 
-El Municipio libre es una institución de orden público, base de la división territorial y de la organización política y administrativa del Estado, constituido por una comunidad de personas, establecida en un territorio determinado, dotado de personalidad jurídica y patrimonio propio, autónomo en su régimen interior y con libre administración de su hacienda.
+El Municipio Libre es base de la división territorial del Estado y de su organización política y administrativa, constituido por una comunidad de personas, establecida en un territorio delimitado, con personalidad jurídica y patrimonio propio, autónomo en su gobierno interior y libre en la administración de su hacienda.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Órgano de gobierno
 
 ###### Artículo 3.
 
-El Municipio será gobernado y administrado por un Ayuntamiento, cuyos miembros se elegirán por sufragio universal, libre, secreto y directo, mediante los principios de mayoría relativa y de representación proporcional, de conformidad con la Constitución Política para el Estado de Guanajuato y al Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
+El Municipio será gobernado y administrado por un Ayuntamiento, cuyos miembros se elegirán por sufragio universal, libre, secreto y directo, mediante los principios de mayoría relativa y de representación proporcional, de conformidad con la Constitución Política para el Estado de Guanajuato y la Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Toda autoridad municipal tiene la obligación de promover, respetar, proteger y garantizar los derechos humanos de las personas, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
 Principio de legalidad
 
@@ -67,15 +75,21 @@ Principio de legalidad
 
 La autoridad municipal únicamente puede hacer lo que la ley le concede y el gobernado todo lo que ésta no le prohíbe.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 Derecho de petición
 
 ###### Artículo 5.
 
-El Ayuntamiento deberá comunicar por escrito, en un término no mayor de veinte días hábiles, el acuerdo que recaiga a toda gestión que se le presente. Asimismo, el presidente municipal y los titulares de las dependencias y entidades de la administración pública municipal, deberán hacerlo en un plazo no mayor de diez días hábiles.
+El Ayuntamiento y los titulares de las dependencias y entidades de la administración pública municipal respetarán el ejercicio del derecho de petición, siempre que éste se formule por escrito, de manera pacífica y respetuosa.
 
-En caso de que el Ayuntamiento, el presidente municipal o los titulares de las dependencias y entidades de la administración pública municipal, no dieren respuesta en el plazo señalado en el párrafo anterior, se tendrá por contestando en sentido negativo.
+A toda petición recaerá, por parte de la autoridad municipal, un acuerdo congruente con lo solicitado, completo, fundado y motivado que deberá ser comunicado al peticionario o a la persona autorizada por éste, a través de los diferentes tipos de notificaciones establecidos en el artículo 39 del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
-El incumplimiento de las obligaciones contenidas en este artículo, será considerado como falta grave en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+El Ayuntamiento deberá comunicar, en un término no mayor de veinte días hábiles, el acuerdo que recaiga a toda petición que se le presente. Asimismo, el presidente municipal y los titulares de las dependencias y entidades de la administración pública municipal, deberán hacerlo en un plazo no mayor de diez días hábiles.
+
+En caso de que el Ayuntamiento, el presidente municipal o los titulares de las dependencias y entidades de la administración pública municipal no dieren respuesta en los plazos señalados en el párrafo anterior, se tendrá por contestando en sentido negativo.
+
+El incumplimiento de las obligaciones contenidas en este artículo será sancionado en términos de la Ley.
 
 Autonomía municipal
 
@@ -95,11 +109,17 @@ Relaciones laborales
 
 Las relaciones laborales entre los municipios y sus trabajadores, se regirán por las disposiciones de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 Responsabilidades
 
 ###### Artículo 9.
 
-Los servidores públicos municipales, serán responsables de los delitos o faltas administrativas que cometan en el ejercicio de sus funciones o con motivo de ellas, en atención a lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y demás leyes aplicables.
+Los servidores públicos municipales serán responsables de los delitos y faltas administrativas que cometan en el ejercicio de sus funciones o con motivo de ellas.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Los Municipios son responsables en forma directa y objetiva de los daños que, con motivo de su actividad administrativa irregular, ocasionen a las personas y en los bienes o derechos de los particulares.
 
 ## Título Segundo
 
@@ -111,7 +131,9 @@ Habitantes
 
 Son habitantes del Municipio, las personas que residan habitual o transitoriamente dentro de su territorio.
 
-Lo anterior con excepción de la residencia binacional, la cual se sujetará a las previsiones de la Constitución Política para el Estado de Guanajuato y el Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Lo anterior con excepción de la residencia binacional, la cual se sujetará a las previsiones estipuladas en la Constitución Política para el Estado de Guanajuato y en la Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
 
 Derechos de los habitantes del municipio
 
@@ -127,7 +149,13 @@ III. Recibir los beneficios de la obra pública de interés colectivo que realic
 
 IV. Proponer ante las autoridades municipales, las medidas o acciones que juzguen de utilidad pública; y
 
-V. Los demás que otorguen las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+V. Ejercer el derecho de petición ante las autoridades municipales; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Las demás que otorguen las leyes y reglamentos.
 
 Obligaciones de los habitantes del municipio
 
@@ -137,7 +165,9 @@ Son obligaciones de los habitantes del Municipio:
 
 I. Respetar las instituciones y autoridades de los gobiernos federal, estatal y municipal, así como acatar sus leyes y reglamentos;
 
-II. Recibir la educación básica y hacer que sus hijos o pupilos menores la reciban, en la forma prevista por las leyes de la materia;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+II. Recibir la educación básica y media superior y hacer que sus hijos o pupilos menores la reciban, en la forma prevista por las leyes de la materia;
 
 III. Contribuir para los gastos públicos en la forma que lo dispongan las leyes;
 
@@ -155,15 +185,19 @@ Promoción del desarrollo indígena
 
 En los municipios donde se encuentren asentados pueblos y comunidades indígenas, los ayuntamientos promoverán el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
 
-Asimismo, promoverán que la educación básica que se imparta, sea tanto en idioma español como en la lengua indígena correspondiente.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Asimismo, promoverán que la educación básica y media superior que se imparta, sea tanto en idioma español como en la lengua indígena correspondiente.
 
 Para los efectos de los párrafos anteriores, los ayuntamientos expedirán normas de carácter general, en el ámbito de su competencia.
 
-Programas y acciones indígenas
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Acciones a favor de los pueblos indígenas
 
 ###### Artículo 14.
 
-El Programa de Gobierno Municipal, deberá contener acciones tendientes al crecimiento y bienestar de los pueblos y las comunidades indígenas a que hace referencia el artículo anterior.
+Los instrumentos de planeación deberán contener acciones tendientes al crecimiento y bienestar de los pueblos y las comunidades indígenas a que hace referencia el artículo anterior.
 
 ### Capítulo III. De la Participación Social
 
@@ -181,13 +215,17 @@ El Ayuntamiento podrá celebrar consultas populares, cuando se requiera tomar de
 
 Los habitantes podrán solicitar al Ayuntamiento, la realización de consultas populares, con fines específicos que atiendan al interés público.
 
-Atribuciones de las asociaciones de habitantes
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Naturaleza de las asociaciones de habitantes
 
 ###### Artículo 17.
 
 Las asociaciones de habitantes, serán organismos de participación y colaboración en la gestión de demandas y propuestas de interés general, de conformidad con las leyes de la materia y el reglamento correspondiente.
 
-Asociaciones de habitantes. Atribuciones
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Acciones de las asociaciones de habitantes
 
 ###### Artículo 18.
 
@@ -357,6 +395,10 @@ Fusión, división o cambio de categorías políticas
 
 Los ayuntamientos podrán establecer la fusión, división o cambio de las categorías políticas, de conformidad con el Programa Municipal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial. Para tal efecto, se requerirá el acuerdo aprobado por mayoría calificada de los miembros del Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+El acuerdo deberá ser publicado en el Periódico Oficial del Gobierno del Estado.
+
 ## Título Cuarto
 
 ### Capítulo I. Del Ayuntamiento
@@ -373,11 +415,13 @@ II. Los municipios de: Cortazar, Dolores Hidalgo Cuna de la Independencia Nacion
 
 III. Los municipios de Abasolo, Apaseo el Alto, Apaseo el Grande, Atarjea, Comonfort, Coroneo, Cuerámaro, Doctor Mora, Huanímaro, Jaral del Progreso, Jerécuaro, Manuel Doblado, Ocampo, Pueblo Nuevo, Purísima del Rincón, Romita, San Diego de la Unión, San José Iturbide, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Villagrán, Tarimoro, Tierra Blanca, Victoria y Xichú, se integrarán con un síndico y ocho regidores.
 
-Requisitos de integrantes del ayuntamiento
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Requisitos para ser integrante del ayuntamiento
 
 ###### Artículo 26.
 
-Para ser miembro de un Ayuntamiento, deberán reunirse los requisitos que señala el artículo 110 de la Constitución Política para el Estado de Guanajuato y al Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
+Para ser integrante de un Ayuntamiento, deberán reunirse los requisitos que señala la Constitución Política para el Estado de Guanajuato y la Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
 
 Residencia
 
@@ -393,15 +437,27 @@ Obligatoriedad del cargo
 
 El desempeño del cargo de presidente municipal, síndico y regidor es obligatorio y su remuneración se fijará en el Presupuesto de Egresos del Municipio, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público municipal, así como a la situación socioeconómica del Municipio.
 
-El desempeño del cargo se realizará con probidad, eficacia, eficiencia y honradez, quedando impedidos quienes los ocupen, para aceptar otro empleo o cargo en la administración pública municipal, estatal o federal, por el que perciban remuneración alguna, a excepción de los docentes.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+El desempeño del cargo se realizará con disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía e integridad.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Capacitación para el desempeño
+
+###### Artículo 28
+
+1. Los integrantes del Ayuntamiento electo, previo a la protesta del cargo, podrán recibir capacitación de (sic) Gobierno del Estado para el desempeño de sus atribuciones.
 
 ### Capítulo II. De la Instalación del Ayuntamiento
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Comisión instaladora
 
 ###### Artículo 29.
 
-En la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de la gestión del Ayuntamiento saliente, se nombrará una comisión plural de regidores, que fungirá como comisión instaladora del Ayuntamiento electo. La comisión designada convocará a los integrantes del Ayuntamiento electo, de conformidad con la constancia de mayoría, de asignación y la declaratoria de validez expedidas por el órgano respectivo o, en su caso, con la resolución del Tribunal Electoral del Estado de Guanajuato, para que acudan a la sesión de instalación solemne del mismo, en los términos del presente capítulo.
+En la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de la gestión del Ayuntamiento saliente, se nombrará una comisión plural de regidores, que fungirá como comisión instaladora del Ayuntamiento electo. La comisión designada convocará a los integrantes del Ayuntamiento electo, de conformidad con la declaratoria de validez y las constancias de mayoría y de asignación expedidas por el órgano electoral respectivo o, en su caso, con la resolución de la autoridad jurisdiccional electoral competente, para que acudan a la sesión de instalación solemne del mismo, en los términos del presente capítulo.
 
 Renovación del ayuntamiento
 
@@ -436,6 +492,10 @@ Aspectos generales del plan de trabajo
 ###### Artículo 33.
 
 En la sesión solemne de instalación, el presidente municipal dará a conocer a la población los propósitos y objetivos del gobierno municipal, atendiendo a lo dispuesto en su plan de trabajo.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+El plan de trabajo podrá incluir las propuestas presentadas en campaña, objetivos y estrategias que se pretendan incorporar en el Programa de Gobierno Municipal, el que deberá ser presentado al Ayuntamiento dentro del término establecido en el artículo 102 de esta Ley.
 
 Quórum de instalación
 
@@ -487,41 +547,65 @@ Objeto de la primera sesión ordinaria
 
 Al término de la sesión de instalación, el Ayuntamiento entrante procederá en sesión ordinaria, a lo siguiente:
 
-I. Nombrar al secretario, tesorero y contralor;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-II. Aprobar las comisiones a que se refiere esta Ley; y
+I. Nombrar al Secretario del Ayuntamiento y Tesorero;
 
-III. Proceder a la entrega-recepción de la situación que guarda la administración pública municipal.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-Capacitación al Ayuntamiento electo
+II. Aprobar la integración de las comisiones a que se refiere esta Ley; y
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+III. Proceder al acto de entrega recepción de la situación que guarda la administración pública municipal.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Capacitación al ayuntamiento electo
 
 ###### Artículo 42.
 
-Los integrantes de los ayuntamientos electos deberán recibir capacitación en el manejo de la cuenta pública municipal, la cual será impartida por el Órgano de Fiscalización Superior del Congreso del Estado. Éste establecerá las medidas necesarias para que dicha capacitación sea impartida de manera oportuna y suficiente.
+Los integrantes de los ayuntamientos electos deberán recibir capacitación en el manejo de la cuenta pública municipal, por parte de la Auditoría Superior del Estado de Guanajuato, la que será impartida de manera oportuna y suficiente.
 
-Capacitación en cuenta pública
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Capacitación en el manejo de cuenta pública
 
 ###### Artículo 43.
 
-En los términos del convenio de coordinación que al efecto celebren los ayuntamientos y el Órgano de Fiscalización Superior del Congreso del Estado, éste otorgará capacitación en el manejo de la cuenta pública municipal al tesorero, al contralor y al director de obras públicas municipales, dentro de un plazo no mayor a sesenta días posteriores a la instalación del Ayuntamiento. Es obligación de los funcionarios asistir a la capacitación impartida.
+La Auditoría Superior del Estado de Guanajuato otorgará capacitación en el manejo de la cuenta pública municipal al Tesorero, al Contralor y al titular de la dependencia de obras públicas municipales, dentro de un plazo no mayor a sesenta días posteriores a la instalación del Ayuntamiento. Es obligación de los funcionarios asistir a la capacitación impartida.
 
 ### Capítulo III. De la EntregaRecepción (sic) de la Administración Pública Municipal
 
-Entrega recepción
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Etapas del proceso de entrega recepción
 
 ###### Artículo 44.
 
 El Ayuntamiento saliente hará entrega al Ayuntamiento entrante, del expediente que contenga la situación que guarda la administración pública municipal, como parte del proceso de entrega recepción.
 
-La entrega recepción se conformará de tres etapas:
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-I. La relativa a la integración del expediente de entregarecepción (sic), en la que el Órgano de Fiscalización Superior del Congreso del Estado, fungirá como asesor siempre que el ayuntamiento saliente lo solicite;
+El proceso de entrega recepción se conformará de tres etapas:
 
-II. El acto de entrega recepción, en la que el Órgano de Fiscalización Superior del Congreso del Estado, fungirá como observador; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+I. La relativa a la integración del expediente de entrega recepción;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+II. El acto de entrega recepción en el que la Auditoría Superior del Estado de Guanajuato fungirá como observador; y
 
 III. La revisión del expediente de entrega recepción.
 
-El ayuntamiento saliente, deberá entregar al Órgano de Fiscalización Superior del Congreso del Estado, a más tardar el 15 de septiembre o el día siguiente hábil del año de término de funciones, un informe donde se mencione el avance de la entrega recepción y del expediente a que hace referencia este artículo, detallado por cada fracción del artículo 45.
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+En las etapas previstas en las fracciones I y III de este artículo, la Auditoría Superior del Estado de Guanajuato fungirá como asesor.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+El ayuntamiento saliente deberá entregar a la Auditoría Superior del Estado de Guanajuato, a más tardar el 15 de septiembre o el día siguiente hábil del año de término de funciones, un informe donde se mencione el avance de la entrega recepción y del expediente a que hace referencia este artículo, detallado por cada fracción del artículo 45 de esta Ley.
 
 La entrega recepción no podrá dejar de realizarse, bajo ninguna circunstancia.
 
@@ -535,11 +619,15 @@ I. Los libros de actas de las reuniones del Ayuntamiento saliente y la informaci
 
 II. La documentación relativa a la situación financiera y presupuestal, que deberán contener los estados financieros y presupuestales, los libros de contabilidad, pólizas contables y registros auxiliares, correspondientes al Ayuntamiento saliente. Corresponde al Tesorero Municipal proporcionar esta información;
 
-III. La documentación relativa al estado que guarda la cuenta pública del Municipio, incluyendo las observaciones pendientes de atender, los requerimientos e informes que se hayan generado con motivo del ejercicio de las facultades de fiscalización a cargo del Congreso del Estado o del Órgano de Fiscalización Superior y en su caso, de las revisiones efectuadas por la Contraloría Municipal. Corresponde al Presidente Municipal, al Tesorero Municipal, y en su caso, al Contralor Municipal proporcionar esta información;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+III. La documentación relativa al estado que guarda la cuenta pública del Municipio, incluyendo las observaciones y recomendaciones pendientes de atender, los requerimientos e informes que se hayan generado con motivo del ejercicio de las facultades de fiscalización de la Auditoría Superior del Estado de Guanajuato o Auditoría Superior de la Federación y, en su caso, de las revisiones efectuadas por la Contraloría Municipal. Corresponde al Presidente Municipal, al Tesorero Municipal y, en su caso, al Contralor Municipal proporcionar esta información;
 
 IV. La situación de la deuda pública municipal, la documentación relativa a la misma y su registro, así como la relación y registro de los pasivos a cargo del Municipio, que no constituyan deuda pública. Corresponde al Tesorero Municipal proporcionar esta información;
 
-V. El estado de la obra pública ejecutada y en proceso en el Municipio y la documentación relativa a la misma. Corresponde al Titular de la Dependencia de Obra Pública proporcionar esta información;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+V. El estado de la obra pública y servicios relacionados con la misma, que se encuentren ejecutados y en proceso, especificando la etapa en que se encuentren; así como la documentación relativa. Corresponde al Titular de la Dependencia de Obra Pública proporcionar esta información;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -547,7 +635,9 @@ VI. La situación que guarda la aplicación del gasto público de los recursos f
 
 VII. Los manuales de organización y de procedimientos, la plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos, condiciones generales de trabajo y demás información conducente. Corresponde al Tesorero Municipal proporcionar esta información;
 
-VIII. La documentación relativa a convenios o contratos que el Municipio tenga con otros municipios, con el Estado, con el Gobierno Federal o con particulares. Corresponde al Secretario de Ayuntamiento proporcionar esta información;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. La documentación relativa a convenios o contratos que el Municipio tenga con otros municipios, con el Estado, con el Gobierno Federal o con particulares, especificando el estado que guardan las obligaciones contraídas. Corresponde al Secretario de Ayuntamiento proporcionar esta información;
 
 IX. La documentación relativa a los programas municipales y proyectos aprobados y ejecutados, así como el estado que guardan los mismos en proceso de ejecución. Corresponde al Secretario de Ayuntamiento y Tesorero Municipal proporcionar esta información;
 
@@ -555,27 +645,43 @@ X. El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles 
 
 XI. Los libros de actas y la documentación relativa al estado que guardan los asuntos tratados por el Ayuntamiento, sus comisiones y el despacho del Presidente Municipal, incluyendo la relación de aquéllos que se encuentre en trámite. Corresponde al Presidente Municipal y Secretario de Ayuntamiento proporcionar esta información;
 
-XII. Los expedientes formados con motivo de juicios de cualquier naturaleza en los que el Municipio sea parte. Corresponde al Síndico del Ayuntamiento proporcionar esta información;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Los expedientes formados con motivo de juicios de cualquier naturaleza en los que el Municipio sea parte, especificando la etapa procedimental en que se encuentran, alguna carga procesal y la fecha de vencimiento, además de los requerimientos e informes pendientes de entregar. Corresponde al Síndico del Ayuntamiento proporcionar esta información;
 
 XIII. Los padrones de contribuyentes y de proveedores del Municipio, así como la relación de cuentas de predial. Corresponde al Tesorero Municipal proporcionar esta información;
 
 XIV. Los contratos constitutivos de fideicomisos y contratos sociales de empresas de participación municipal vigentes y en proceso de extinción y liquidación, así como todas sus modificaciones. Corresponde al Secretario de Ayuntamiento proporcionar esta información;
 
-XV. Reglamentos, circulares, lineamientos o disposiciones administrativas de observancia general municipales vigentes. Corresponde al Secretario de Ayuntamiento proporcionar esta información;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-XVI. El inventario, registro y ubicación de llaves, candados, combinaciones de cajas fuertes, sellos oficiales y claves de acceso a programas de control electrónico. Corresponde al Secretario de Ayuntamiento proporcionar esta información; y
+XV. Reglamentos, circulares, lineamientos y disposiciones administrativas de observancia general municipales vigentes. Corresponde al Secretario de Ayuntamiento proporcionar esta información;
 
-XVII. La demás información que se estime relevante para garantizar la continuidad de la administración pública municipal.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. El inventario, registro y ubicación de llaves, candados, combinaciones de cajas fuertes, sellos oficiales y claves de acceso a programas de control electrónico. Corresponde al Secretario de Ayuntamiento proporcionar esta información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Las peticiones planteadas al Municipio a las cuales no haya recaído acuerdo, así como aquellos acuerdos que no hayan sido comunicados a los peticionarios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. La demás información que se estime relevante para garantizar la continuidad de la administración pública municipal.
 
 La información a que se refieren las fracciones II, IV, V, VI, VII, X, XIII y XV deberá ser entregada además, en medios magnéticos o electrónicos.
 
-El incumplimiento de las obligaciones contenidas en este artículo, será considerado como falta grave en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+El incumplimiento de las obligaciones contenidas en este artículo será sancionado en los términos de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Acta circunstanciada
 
 ###### Artículo 46.
 
-El Secretario del Ayuntamiento entrante, elaborará acta circunstanciada de la entrega del expediente que contiene la situación que guarda la administración pública municipal, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron y al representante del Órgano de Fiscalización Superior del Congreso del Estado.
+El Secretario del Ayuntamiento entrante, elaborará acta circunstanciada de la entrega del expediente que contiene la situación que guarda la administración pública municipal, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron y al representante de la Auditoría Superior del Estado de Guanajuato.
 
 Informe
 
@@ -609,7 +715,17 @@ Sometido a su consideración el informe, el Ayuntamiento emitirá el acuerdo cor
 
 El Ayuntamiento, dentro de los quince días hábiles siguientes, remitirá copia del expediente de entregarecepción (sic) al Congreso del Estado, para efecto de revisión de las cuentas públicas municipales.
 
-El Órgano de Fiscalización Superior emitirá el informe del proceso entrega recepción en el mes de marzo en la que se precisen las irregularidades detectadas y los probables responsables.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+La Auditoría Superior del Estado de Guanajuato emitirá el informe general del proceso de entrega recepción en el mes de marzo, lo remitirá al Congreso del Estado y dará cuenta a la Contraloría Municipal para los efectos del artículo 10 de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Entrega Recepción en elección consecutiva
+
+###### Artículo 48
+
+1. La elección consecutiva, parcial o total, de los miembros del Ayuntamiento saliente, no exime del cumplimiento del proceso de entrega recepción.
 
 ### Capítulo IV. Del modo de suplir las faltas de los Integrantes del Ayuntamiento y demás Servidores Públicos Municipales
 
@@ -621,17 +737,21 @@ En las faltas por licencia de más de dos meses de los regidores y síndicos pro
 
 Abandono definitivo del cargo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 50.
 
-Tres faltas consecutivas y sin causa justificada a las sesiones de Ayuntamiento, serán consideradas como abandono definitivo del cargo.
+Tres faltas consecutivas y sin causa justificada a las sesiones ordinarias de Ayuntamiento, serán consideradas como abandono definitivo del cargo.
 
 Para que se pueda considerar abandono definitivo del cargo, el Ayuntamiento lo notificará al regidor o síndico que haya incurrido en la causal referida en el párrafo anterior, para que manifieste lo que a su derecho convenga y en su caso, ofrezca las pruebas pertinentes por un término de quince días. Transcurrido dicho plazo el Ayuntamiento acordará si se actualiza el abandono definitivo del cargo, si se finca la responsabilidad correspondiente y si procede llamar al suplente, quien en su caso rendirá la protesta en la sesión siguiente. El acuerdo del Ayuntamiento que declare el abandono definitivo del cargo deberá notificarse al interesado dentro de los cinco días siguientes.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Vacante de síndicos o regidores
 
 ###### Artículo 51.
 
-Cuando por cualquier causa alguno de los síndicos o regidores propietarios dejaren de desempeñar el cargo, éste será cubierto por su suplente. En el caso de los regidores, a falta tanto del propietario como del suplente, se estará a lo establecido por el Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
+Cuando por causa justificada alguno de los síndicos o regidores propietarios dejaren de desempeñar el cargo, éste será cubierto por su suplente. En el caso de los regidores, a falta tanto del propietario como del suplente, se estará a lo establecido por la Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
 
 Despacho por encargo
 
@@ -669,15 +789,23 @@ II. Por estado de interdicción declarado en sentencia judicial firme;
 
 III. Por revocación de mandato; y
 
-IV. Por declaración de procedencia, en cuyo caso el presidente municipal sustituto, desempeñará la función durante el transcurso del juicio, hasta que se dicte sentencia firme. Si ésta fuere condenatoria, el presidente municipal sustituto, concluirá el período correspondiente.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Por declaratoria de separación del cargo emitida por el Congreso del Estado.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN IV], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+El presidente municipal sustituto desempeñará la función durante el proceso judicial, hasta que se dicte sentencia firme. Si ésta fuere condenatoria, el presidente sustituto concluirá el periodo correspondiente.
 
 Cuando se actualice cualquiera de los supuestos anteriores, el secretario del Ayuntamiento convocará, dentro de las cuarenta y ocho horas siguientes, a sesión extraordinaria del Ayuntamiento, la que se ocupará única y exclusivamente del nombramiento del presidente municipal sustituto a propuesta de los integrantes del Ayuntamiento, cuya planilla haya obtenido el primer lugar de la votación en la elección del Ayuntamiento en funciones.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Elegibilidad del presidente interino y sustituto
 
 ###### Artículo 56.
 
-El nombramiento del presidente municipal interino y del sustituto, podrá recaer o no en los miembros del Ayuntamiento, pero la persona designada deberá llenar los mismos requisitos establecidos en la Constitución Política para el Estado y en el Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
+El nombramiento del presidente municipal interino y del sustituto, podrá recaer o no en los miembros del Ayuntamiento, pero la persona designada deberá cumplir los requisitos establecidos en la Constitución Política para el Estado y en la Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
 
 Renuncia o excusa del cargo
 
@@ -723,7 +851,9 @@ Citación a sesiones
 
 Por acuerdo del presidente municipal o de las dos terceras partes de los integrantes del Ayuntamiento, el secretario citará a las sesiones del mismo.
 
-La citación deberá ser personal o en el domicilio del integrante del Ayuntamiento, la que deberá recibir una persona mayor de edad, por lo menos con veinticuatro horas de anticipación, contener el orden del día y, en su caso, la información necesaria para el desarrollo de las mismas, así como el lugar, día y hora.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+La citación deberá ser personal o en el domicilio del integrante del Ayuntamiento, la que deberá recibirse por una persona mayor de edad, por lo menos con veinticuatro horas de anticipación, contener el orden del día y, en su caso, la información para el desarrollo de las sesiones, el lugar, día y hora de su realización. La citación podrá realizarse por vía electrónica, mediante acuerdo del Ayuntamiento, en los casos en que se determine en el reglamento.
 
 De no asistir el número de miembros necesarios para celebrar las sesiones, se citará nuevamente en los términos que fije esta Ley y en la forma que establezca el reglamento interior, y ésta se llevará a cabo con los que asistan.
 
@@ -751,11 +881,31 @@ Sesión privada
 
 Son materia de sesión privada:
 
-I. Los asuntos graves que alteren el orden y la tranquilidad pública del Municipio;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-II. Las comunicaciones que con nota de reservado dirijan al Ayuntamiento, los poderes Legislativo, Ejecutivo y Judicial; y
+I. Los asuntos que:
+
+a) Pongan en riesgo la seguridad pública;
+
+b) Puedan perjudicar los procesos de negociación del Municipio; y
+
+c) Puedan ser contrarios al interés público.
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+II. La información que:
+
+a) Contenga nota de reservado y sea dirigido al Ayuntamiento por algún ente público;
+
+b) Ponga en riesgo la privacidad de las personas; y
+
+c) Sea considerada reservada o confidencial, por mandato expreso de Ley; y
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 III. Los trámites de las solicitudes de licencia y los asuntos de destitución de servidores públicos municipales que hayan sido nombrados por el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Los integrantes del Ayuntamiento deberán guardar la reserva correspondiente de los asuntos tratados en las sesiones privadas.
 
@@ -767,7 +917,13 @@ Las sesiones únicamente se podrán suspender por las siguientes causas:
 
 I. Cuando se altere gravemente el desarrollo de las mismas, ya sea por desorden provocado por el público asistente o por alguno de los integrantes del Ayuntamiento; y
 
-II. Por decretarse un receso por el presidente municipal.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+II. Por decretarse un receso por el presidente municipal; y
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+III. A petición expresa y motivada de algún miembro del Ayuntamiento y sea aprobada por mayoría calificada.
 
 Recinto para sesionar
 
@@ -819,6 +975,24 @@ Las actas de las sesiones de Ayuntamiento, se llevarán por duplicado, el origin
 
 Las actas deberán ser firmadas por los integrantes del Ayuntamiento que participaron en la sesión y por el secretario del mismo.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Gaceta Municipal
+
+###### Artículo 74
+
+1. La Gaceta Municipal es el medio informativo del Ayuntamiento, que será publicada en la página de internet oficial, de conformidad con el reglamento municipal respectivo.
+
+La Gaceta Municipal contendrá como mínimo:
+
+I. El proyecto de orden del día para las sesiones del Ayuntamiento;
+
+II. Los documentos en que se soportan los asuntos a tratar en las sesiones, salvo que sean materia de sesión privada; y
+
+III. La agenda semanal del desarrollo de las comisiones municipales.
+
+La operación de la Gaceta Municipal no exime al Ayuntamiento de realizar las publicaciones en el Periódico Oficial del Gobierno del Estado, de aquellos actos y resoluciones que requieran tal requisito conforme a las leyes y reglamentos aplicables.
+
 ### Capítulo VI. De la Ética de los Integrantes del Ayuntamiento
 
 Ética de los integrantes del ayuntamiento
@@ -845,7 +1019,9 @@ b) Aprobar, de acuerdo con las leyes en materia municipal que expida el Congreso
 
 c) Designar anualmente de entre sus miembros, a los integrantes de las comisiones del Ayuntamiento;
 
-d) Fijar las bases para la elaboración del plan municipal de desarrollo, del Programa de Gobierno Municipal y de los programas derivados de este último y en su oportunidad, aprobarlos, evaluarlos y actualizarlos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+d) Fijar las bases para la elaboración del plan municipal de desarrollo, del Programa de Gobierno Municipal y de los programas derivados de este último y en su oportunidad aprobarlos, evaluarlos y actualizarlos. El Programa de Gobierno Municipal se encontrará vinculado con la información recibida en el expediente de entrega recepción.
 
 Participar en la formulación de programas y proyectos de desarrollo regional, cuando los elabore la Federación o el Estado, los cuales deberán estar en concordancia con los planes generales de la materia.
 
@@ -877,13 +1053,25 @@ o) Organizar cursos, seminarios y programas tendientes a eficientar el cumplimie
 
 p) Promover ante la Suprema Corte de Justicia de la Nación, las controversias constitucionales a que se refiere el artículo 105 fracción I de la Constitución Política de los Estados Unidos Mexicanos, conforme a la ley reglamentaria relativa;
 
-q) Promover ante el pleno del Supremo Tribunal de Justicia las controversias a que se refieren los incisos a) y b) del apartado A de la fracción XV del artículo 89 de la Constitución Política para el Estado;
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+q) Promover ante el pleno del Supremo Tribunal de Justicia las controversias a que se refieren los incisos a) y b) del apartado A de la fracción XV del artículo 88 de la Constitución Política para el Estado;
 
 r) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
 
 s) Solicitar, por acuerdo de la mayoría calificada de sus integrantes al Congreso del Estado, que realice la declaración de que el Municipio se encuentra imposibilitado para ejercer una función o prestar un servicio público, a efecto de que el Ejecutivo del Estado la ejerza o lo preste; y
 
 t) Acordar la división territorial del Municipio, determinando las categorías políticas y su denominación, así como proponer al Congreso del Estado la fundación de centros de población.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+u) Garantizar mediante disposiciones reglamentarias o administrativas el uso, en la imagen institucional, de logotipos, símbolos, lemas o signos sin contenido alusivo a algún partido político o asociación política en:
+
+1. Documentos oficiales de carácter institucional;
+
+2. Vehículos oficiales, maquinaria y mobiliario; y
+
+3. Infraestructura pública y equipamiento urbano municipal.
 
 II. En materia de obra pública y desarrollo urbano:
 
@@ -979,7 +1167,9 @@ IV. Representar al Ayuntamiento en todos los actos oficiales y delegar, en su ca
 
 V. Presentar al Ayuntamiento iniciativas de reglamentos, bandos y demás disposiciones administrativas de observancia general o de reformas y adiciones en su caso;
 
-VI. Promulgar y ordenar la publicación en el Periódico Oficial del Gobierno del Estado, de los reglamentos, bandos de policía y buen gobierno, acuerdos y demás disposiciones administrativas de observancia general, aprobados por el Ayuntamiento;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Promulgar y ordenar la publicación en el Periódico Oficial del Gobierno del Estado, de los reglamentos, bandos de policía y buen gobierno, acuerdos, instrumentos de planeación y demás disposiciones administrativas de observancia general, aprobados por el Ayuntamiento;
 
 VII. Conducir las relaciones del Ayuntamiento con los poderes federales, estatales y con otros ayuntamientos;
 
@@ -995,7 +1185,9 @@ XII. Convocar por conducto del secretario, a las sesiones de Ayuntamiento, confo
 
 XIII. Suscribir a nombre y con autorización del Ayuntamiento, los convenios, contratos y demás actos jurídicos que sean necesarios;
 
-XIV. Proponer al Ayuntamiento, las personas que deban ocupar los cargos de secretario, tesorero, contralor y a los titulares de las dependencias y entidades de la administración pública municipal;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Proponer al Ayuntamiento, las personas que deban ocupar los cargos de secretario de ayuntamiento, tesorero y a los titulares de las dependencias y entidades de la administración pública municipal;
 
 XV. Nombrar y remover del cargo, a los servidores públicos municipales no previstos en la fracción anterior, así como conceder o negar licencias;
 
@@ -1023,7 +1215,9 @@ Los síndicos tendrán las siguientes atribuciones:
 
 I. Procurar, defender y promover los intereses municipales;
 
-II. Representar legalmente al Ayuntamiento, en los litigios en que éste sea parte y delegar esta representación;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+II. Representar legalmente al Ayuntamiento en los litigios en que éste sea parte y podrá delegar esta representación;
 
 III. Presentar al Ayuntamiento iniciativas de reglamentos, bandos de policía y buen gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos;
 
@@ -1307,9 +1501,17 @@ III. Coadyuvar con las dependencias y entidades de la administración pública m
 
 IV. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
 
-V. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+V. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Proponer al Ayuntamiento políticas públicas para la prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -1377,7 +1579,9 @@ II. La ausencia de la mayoría de los integrantes, tanto propietarios como suple
 
 III. La renuncia calificada por el Congreso del Estado o la Diputación Permanente, en los términos previstos por el artículo 115 de la Constitución Política Local, de la mayoría de sus integrantes y no pueda integrarse aun con los suplentes;
 
-IV. La declaratoria de procedencia emitida por el Congreso del Estado, en los términos de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato, respecto de la mayoría de los integrantes y no pueda integrarse éste, aun con los suplentes; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+IV. La declaratoria de separación de cargo emitida por el Congreso del Estado, en los términos de la Ley Orgánica del Poder Legislativo del Estado de Guanajuato, respecto de la mayoría de los integrantes y no pueda integrarse éste, aun con los suplentes; y
 
 V. Por actos u omisiones de los integrantes del Ayuntamiento o Concejo Municipal, que provoquen una situación grave y permanente, que impida el ejercicio de las funciones del Ayuntamiento o Concejo Municipal, conforme al orden constitucional federal o local.
 
@@ -1401,7 +1605,9 @@ Concejo municipal
 
 En el caso de desaparición de un Ayuntamiento o Concejo Municipal, el Congreso del Estado designará un Concejo Municipal, que funcionará hasta concluir el período respectivo.
 
-Dichos concejos municipales, ejercerán las atribuciones que la Ley establece para los ayuntamientos y se integrarán con igual número de miembros, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Dichos concejos municipales, ejercerán las atribuciones que la Ley establece para los ayuntamientos y se integrarán con igual número de miembros, quienes deberán cumplir los requisitos de elegibilidad que señalan la Constitución Política para el Estado de Guanajuato y la Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
 
 Para cubrir las faltas o ausencias temporales de alguno de los integrantes del Concejo, se aplicará en lo conducente, lo dispuesto por la presente Ley, para los miembros del Ayuntamiento.
 
@@ -1421,11 +1627,13 @@ Declaración de suspensión o revocación
 
 El Congreso del Estado, podrá declarar la suspensión o revocación del mandato de alguno o algunos de los integrantes del Ayuntamiento o Concejo Municipal, por las causas establecidas en el presente capítulo, debidamente sustentadas por pruebas idóneas.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 Causas de suspensión de mandato
 
 ###### Artículo 91.
 
-Es causa de suspensión del mandato, la declaración de procedencia dictada por el Congreso del Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado de Guanajuato y de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
+Es causa de suspensión del mandato, la declaración de separación del cargo dictada por el Congreso del Estado, en los términos de la Constitución Política del Estado de Guanajuato y de la Ley Orgánica del Poder Legislativo del Estado de Guanajuato.
 
 Causas de revocación de mandato
 
@@ -1439,13 +1647,17 @@ II. Dejar de asistir sin causa justificada a tres sesiones ordinarias del Ayunta
 
 III. Violar en forma grave y reiterada la Ley de Ingresos Municipal y el presupuesto de egresos aprobado y la normatividad aplicable, que afecte los caudales públicos; y
 
-IV. Vulnerar gravemente las instituciones democráticas y la forma de gobierno republicano, representativo y federal.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Vulnerar gravemente las instituciones democráticas y la forma de gobierno republicano, representativo, federal, democrático y laico.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Substanciación
 
 ###### Artículo 93.
 
-El procedimiento para decretar la suspensión o revocación del mandato de alguno o de algunos de los miembros del Ayuntamiento o Concejo Municipal, se sujetará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
+El procedimiento para decretar la suspensión o revocación del mandato de alguno o de algunos de los miembros del Ayuntamiento o Concejo Municipal, se sujetará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado de Guanajuato.
 
 Suplencia por suspensión o revocación
 
@@ -1463,7 +1675,9 @@ Objeto del Sistema Municipal de Planeación
 
 El Sistema Municipal de Planeación es un mecanismo permanente de planeación integral, estratégica y participativa, a través del cual el Ayuntamiento y la sociedad organizada, establecen procesos de coordinación para lograr el desarrollo del Municipio.
 
-Congruencia del Sistema Municipal de Planeación con el Sistema Estatal de Planeación
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Congruencia del Sistema Municipal de Planeación con el Seplan
 
 ###### Artículo 96.
 
@@ -1491,19 +1705,19 @@ Planeación municipal
 
 La planeación constituye la base de la administración pública municipal y tiene como sustento, el Sistema Nacional de Planeación Democrática y el Sistema Estatal de Planeación.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 Instrumentos de planeación de desarrollo
 
 ###### Artículo 99.
 
-Los municipios contarán con los siguientes instrumentos de planeación:
+Los municipios contarán con un Plan Municipal de Desarrollo y los siguientes instrumentos vinculados al mismo:
 
-I. Plan Municipal de Desarrollo;
+I. Programa municipal de desarrollo urbano y de ordenamiento ecológico territorial;
 
-a) Programa municipal de desarrollo urbano y de ordenamiento ecológico territorial; y
+II. Programa de Gobierno Municipal y los programas derivados del mismo; y
 
-b) Programa de Gobierno Municipal.
-
-1. Programas derivados del Programa de Gobierno Municipal.
+III. En su caso, el programa municipal de desarrollo urbano y de ordenamiento ecológico territorial de zonas conurbadas o zonas metropolitanas.
 
 Contenido del Plan Municipal de Desarrollo
 
@@ -1532,6 +1746,10 @@ El Programa de Gobierno Municipal será elaborado por el organismo municipal de 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 El Programa de Gobierno Municipal indicará los programas que deriven del mismo.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Para la elaboración del Programa de Gobierno Municipal, el organismo municipal de planeación valorará la inclusión de las acciones previstas en el plan de trabajo señalado (sic) el artículo 33 de la Ley Orgánica Municipal para el Estado de Guanajuato.
 
 Publicidad
 
@@ -1745,7 +1963,9 @@ III. Recibida la solicitud, el Ejecutivo resolverá lo conducente en un término
 
 IV. Si la resolución del Ejecutivo fuese afirmativa, se procederá a la suscripción del convenio respectivo, observando en lo conducente lo dispuesto por el artículo anterior.
 
-En caso de negativa del Ejecutivo para ejercer la función o prestar el servicio público, el Municipio podrá solicitar la intervención del Congreso del Estado, de conformidad con lo que establezca la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de negativa del Ejecutivo del Estado para ejercer la función o prestar el servicio público, o bien, cuando habiendo transcurrido treinta días hábiles a partir de que se presentó la solicitud, no se hubiese dado respuesta a la misma, el Municipio podrá solicitar la intervención del Congreso del Estado, de conformidad con lo que establezca la Ley Orgánica del Poder Legislativo del Estado de Guanajuato.
 
 ## Título Sexto
 
@@ -1955,7 +2175,9 @@ Para el supuesto de lo señalado en el párrafo anterior, el Ayuntamiento deber�
 
 El procedimiento de consulta pública para la designación de Contralor Municipal estará a cargo del Presidente Municipal y de la Comisión de Contraloría.
 
-La violación al procedimiento de designación de contralor estará afectada de nulidad y se considerará violación grave a esta Ley.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+La violación al procedimiento de designación de Contralor Municipal estará afectada de nulidad.
 
 > <small>(REFORMADO [N. DE E. SU EPÍGRAFE], P.O. 9 DE ENERO DE 2018)</small>
 
@@ -2001,11 +2223,13 @@ Destitución del contralor
 
 El Contralor Municipal podrá ser destituido de su cargo en los términos del artículo 126 de esta Ley.
 
-Suplencia o sustitución del contralor
+Suplencia o sustitución de Contralor Municipal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 137.
 
-En caso de falta o ausencia mayor de quince días hábiles sin causa justificada del contralor municipal se deberá designar a la persona que lo supla o sustituya, aplicando en lo conducente el procedimiento a que se refiere el artículo 131.
+La falta o ausencia del Contralor Municipal, sin causa justificada, por más de cinco días hábiles se entenderá como abandono del cargo. En este caso el Ayuntamiento deberá designar a la persona que lo sustituya, hasta en tanto concluya el procedimiento previsto en el artículo 131 de esta Ley, la que no podrá permanecer en el cargo más de tres meses.
 
 Cuando se trate de faltas o ausencias justificadas (sic) no excedan del término de quince días hábiles, el contralor municipal designará quien lo supla, del personal que tenga a su cargo.
 
@@ -2015,15 +2239,41 @@ Requisitos para ser contralor
 
 Para ser Contralor Municipal, se deben reunir los siguientes requisitos:
 
-I. Ser ciudadano guanajuatense, en ejercicio de sus derechos civiles y políticos, y no haber sido condenado ejecutoriamente por delito grave del orden común;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-II. Contar con título profesional legalmente expedido en las áreas contables, jurídicas o administrativas y un mínimo de tres años de ejercicio profesional;
+I. Tener ciudadanía mexicana, con pleno goce de sus derechos civiles y políticos y residencia en el Estado no menor de tres años anteriores a la fecha de designación;
 
-III. Ser de reconocida honradez;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-IV. No haber sido dirigente de partido político ni candidato durante la elección del Ayuntamiento en funciones; y
+II. Tener cuando menos treinta años cumplidos al día del nombramiento;
 
-V. No haber sido integrante del Ayuntamiento saliente.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+III. Poseer, al día de su nombramiento, título profesional en las áreas económica, contable, jurídica o administrativas, expedido por autoridad o institución facultada para ello, y con la antigüedad mínima en su ejercicio de cinco años;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Contar con experiencia profesional de cuando menos dos años en el control, manejo y fiscalización de recursos;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de la libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza o enriquecimiento ilícito cometido contra la administración pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+VI. No ser o haber sido dirigente de partido político o asociación política a nivel nacional, estatal o municipal o candidato a puesto de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su designación; y
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+VII. No haber sido integrante del Ayuntamiento saliente.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Prohibiciones del Contralor Municipal
+
+###### Artículo 138
+
+1. Quien tenga la titularidad del órgano interno de control municipal, durante el ejercicio de su cargo, no podrá hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines de control interno.
 
 Atribuciones del Contralor Municipal
 
@@ -2109,11 +2359,13 @@ XXIV. Establecer mecanismos de prevención de conductas que pudieran constituir 
 
 XXV. Las demás que le confiere esta u otras leyes, reglamentos y acuerdos de Ayuntamiento.
 
-Corresponsabilidad
+Solventación de Observaciones y Corresponsabilidad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 140.
 
-Es obligación de los titulares de las dependencias y entidades de la administración pública municipal, participar con el tesorero y el presidente municipal en la solventación de las observaciones que formule el Órgano de Fiscalización Superior del Congreso del Estado.
+Es obligación de los titulares de las dependencias y entidades de la administración pública municipal, participar con el tesorero y el presidente municipal en la solventación de las observaciones y atención de las recomendaciones que formule la Auditoría Superior de la Federación y la del Estado.
 
 El contralor y los servidores públicos de la contraloría que intervengan en la verificación y acompañamiento de procesos administrativos de las distintas entidades y dependencias de la administración municipal, son corresponsables de las acciones u omisiones realizadas en contravención de la ley, cuando habiendo participado en el proceso no hubiesen formulado en tiempo observaciones o bien, hubiesen validado los actos contrarios a derecho.
 
@@ -2267,7 +2519,9 @@ El Ayuntamiento aprobará por mayoría calificada la creación, modificación o 
 
 Las atribuciones de las entidades paramunicipales no deberán exceder las que para el Ayuntamiento señale la Ley y se especificarán en el acuerdo de creación, mismo que deberá publicarse en el Periódico Oficial del Gobierno del Estado.
 
-En caso de extinción, el acuerdo correspondiente fijará la forma y términos de la liquidación.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de extinción, el acuerdo correspondiente fijará la forma y términos de la liquidación, y deberá publicarse en el Periódico Oficial del Gobierno del Estado.
 
 Límites de actuación
 
@@ -2527,7 +2781,9 @@ XIV. Seguridad pública, en los términos del artículo 21 de la Constitución P
 
 XV. Tránsito y vialidad;
 
-XVI. Transporte urbano y suburbano en ruta fija; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Transporte público urbano y suburbano en ruta fija; y
 
 XVII. Los demás que señalen las leyes.
 
@@ -2645,6 +2901,14 @@ El personal de policía preventiva y tránsito y vialidad de las áreas de segur
 
 Además, la policía deberá auxiliar al Ministerio Público en la investigación y persecución de los delitos, cuando así se les requiera.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Sistema de Seguridad Pública
+
+###### Artículo 177
+
+1. Para la prestación del servicio de seguridad pública en el Municipio, se atenderá a las disposiciones contenidas en la Ley General del Sistema Nacional de Seguridad Pública y en la Ley del Sistema de Seguridad Pública del Estado de Guanajuato.
+
 Elementos auxiliares
 
 ###### Artículo 178.
@@ -2689,9 +2953,17 @@ I. Los integrantes del Ayuntamiento;
 
 II. Los titulares de las dependencias y entidades de la administración pública federal, estatal y municipal, así como de los órganos autónomos;
 
-III. Los cónyuges, parientes consanguíneos en línea recta sin limitación de grado, los colaterales y afines hasta el segundo grado, así como los civiles de las personas a que se refieren las fracciones I y II de este artículo; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Las personas físicas o morales que en los últimos cinco años se les haya revocado otra concesión para la prestación de servicios públicos municipales, así como empresas en que sean representantes o tengan intereses económicos, las personas a que se refieren las fracciones anteriores.
+III. Los cónyuges, parientes consanguíneos en línea recta sin limitación de grado, los colaterales y afines hasta el segundo grado, así como los civiles de las personas a que se refieren las fracciones I y II de este artículo;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Las personas físicas o morales que en los últimos cinco años se les haya revocado otra concesión para la prestación de servicios públicos municipales, así como empresas en que sean representantes o tengan intereses económicos, las personas a que se refieren las fracciones anteriores; y
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+V. Las personas físicas o morales que hubieren proporcionado información que resulte falsa o que hayan actuado con dolo o mala fe en alguna etapa del procedimiento para la adjudicación de la concesión.
 
 Bases para el otorgamiento de la concesión
 
@@ -2883,7 +3155,9 @@ III. Se abrirá un período probatorio por el término de quince días hábiles,
 
 IV. Se desahogarán las pruebas ofrecidas en el lugar, día y hora que fije la autoridad municipal;
 
-V. Se dictará resolución, dentro de los diez días hábiles siguientes al vencimiento del plazo para el desahogo de pruebas; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+V. Al cierre de la instrucción el concesionario podrá rendir alegatos en un término de tres días hábiles. La autoridad dictará la resolución, en el término de diez días hábiles.
 
 VI. La resolución que se dicte, se notificará personalmente al interesado, en su domicilio legal o en el lugar donde se preste el servicio.
 
@@ -2895,11 +3169,13 @@ Ejecución de las garantías
 
 Cuando la concesión del servicio público se extinga por causa imputable al concesionario, se hará efectivo a favor del Municipio, el importe de las garantías.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
 Publicidad de las resoluciones de extinción
 
 ###### Artículo 196.
 
-Las resoluciones de extinción de las concesiones de servicios públicos, se publicarán en el Periódico Oficial del Gobierno del Estado y en uno de circulación en el municipio.
+Las resoluciones de extinción de las concesiones de servicios públicos se publicarán en el Periódico Oficial del Gobierno del Estado y en alguno de los de amplia circulación en el municipio.
 
 ## Título Octavo
 
@@ -3047,15 +3323,29 @@ I. Emitirá un acuerdo de inicio del procedimiento de reversión, en el que se s
 
 II. Expedirá una orden de inspección fundada y motivada, de la cual se levantará un acta circunstanciada;
 
-III. Notificará el acuerdo al donatario, otorgándole un plazo de diez días hábiles, para que manifieste lo que a su interés convenga;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-IV. El Ayuntamiento emitirá la resolución correspondiente, ordenando su notificación al donatario. En caso de que se determine ejercer la reversión, dicha resolución deberá publicarse en el Periódico Oficial del Gobierno del Estado; y
+III. Notificará el acuerdo al donatario, otorgándole un plazo de diez días hábiles para que ofrezca pruebas y manifieste lo que a su interés convenga. El Ayuntamiento fijará el lugar, día y hora para el desahogo de pruebas;
 
-V. El Ayuntamiento ordenará la ejecución de la resolución.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Al cierre de la instrucción el donatario podrá rendir alegatos en un término de tres días hábiles. El Ayuntamiento dictará la resolución, en el término de diez días hábiles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+V. La resolución se notificará personalmente al donatario. En caso de que se determine ejercer la reversión, dicha resolución deberá publicarse en el Periódico Oficial del Gobierno del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+VI. El ayuntamiento ordenará la ejecución de la resolución.
 
 El procedimiento anterior será iniciado y tramitado por la dependencia municipal que el Ayuntamiento determine en el reglamento o acuerdo correspondiente, la que emitirá un dictamen conforme al cual el Ayuntamiento resolverá lo conducente.
 
 Declarada la procedencia de la reversión, se requerirá al donatario para que de inmediato haga entrega física y material del bien revertido al patrimonio municipal. En caso de que se hubiere formalizado la donación en instrumento público, a petición del Municipio y una vez que haya quedado firme la reversión, el fedatario público que lo otorgó, procederá a su cancelación, inscribiendo el testimonio respectivo en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+En lo no previsto por este artículo, será aplicable de manera supletoria el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 Permuta de bienes de propiedad municipal
 
@@ -3299,7 +3589,9 @@ Bases para la expedición reglamentaria o normativa
 
 Para la expedición de los bandos de policía y buen gobierno, de los reglamentos, circulares y disposiciones administrativas de observancia general, los ayuntamientos deberán sujetarse a las siguientes bases normativas:
 
-I. Respetar las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y las de la Constitución Política para el Estado de Guanajuato, así como las leyes federales o estatales, con estricta observancia de los Derechos Humanos y sus garantías;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+I. Respetar las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales en los que el Estado Mexicano sea parte, la Constitución Política para el Estado de Guanajuato, las leyes federales y estatales, con estricta observancia de los Derechos Humanos y sus garantías;
 
 II. Delimitación de la materia que regulan;
 
@@ -3453,15 +3745,17 @@ V. El procedimiento a través del cual los municipios aprobarán las disposicion
 
 VI. Para regular las relaciones laborales, administrativas o civiles que deriven del nombramiento o la contratación del personal jurisdiccional y administrativo del Juzgado Administrativo Regional, los municipios acordarán cuál de ellos fungirá como representante común. Los municipios que intervengan en el convenio serán solidariamente responsables por las obligaciones que deriven de dichas relaciones, salvo lo que los municipios acuerden expresamente en el convenio al respecto.
 
-Medios de impugnación
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+Medios de Impugnación
 
 ###### Artículo 243.
 
-Los actos y resoluciones administrativas dictadas por el Ayuntamiento, podrán ser impugnados ante el Tribunal de lo Contencioso Administrativo cuando afecten intereses de los particulares.
+Los actos y resoluciones administrativas dictadas por el Ayuntamiento podrán ser impugnados ante el Tribunal de Justicia Administrativa cuando afecten intereses de los particulares.
 
-Los actos y resoluciones administrativas dictadas por el presidente municipal y por las dependencias y entidades de la administración pública municipal podrán ser impugnados optativamente ante los juzgados administrativos municipales o ante el Tribunal de lo Contencioso Administrativo, cuando afecten intereses de los particulares. Ejercida la acción ante cualquiera de ellos, no se podrá impugnar ante el otro el mismo acto.
+Los actos y resoluciones administrativas dictadas por el presidente municipal y por las dependencias y entidades de la administración pública municipal podrán ser impugnados optativamente ante los juzgados administrativos municipales o ante el Tribunal de Justicia Administrativa, cuando afecten intereses de los particulares. Ejercida la acción ante cualquiera de ellos, no se podrá impugnar ante el otro el mismo acto.
 
-Las resoluciones de los Juzgados Administrativos Municipales que pongan fin al proceso administrativo podrán ser impugnados por las partes, mediante el recurso de revisión ante las Salas del Tribunal de lo Contencioso Administrativo.
+Las resoluciones de los Juzgados Administrativos Municipales que pongan fin al proceso administrativo podrán ser impugnados (sic) por las partes, mediante el recurso de revisión ante las Salas del Tribunal de Justicia Administrativa.
 
 ### Capítulo IV. De las Infracciones y Sanciones
 
@@ -3936,3 +4230,11 @@ Región II León
 Región III Jaral del Progreso
 
 Región IV Irapuato
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 325, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los Ayuntamientos contarán con un periodo de 90 días para adecuar sus reglamentos, en congruencia con el presente Decreto.
