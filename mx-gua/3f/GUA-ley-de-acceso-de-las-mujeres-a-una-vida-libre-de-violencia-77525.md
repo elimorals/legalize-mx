@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2018-06-07"
+last_updated: "2018-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -133,7 +133,11 @@ IX. Violencia feminicida: es la forma extrema de violencia de género contra las
 
 X. Violencia política: es la acción u omisión que, en el ámbito político, público o privado, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o función del poder público y se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón de género; y
 
-XI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Violencia por acoso: Es la agresión reflejada en cualquier acto expresivo, verbal o físico, motivada u orientada por discriminación con base en el género, que pretenda coaccionar a la persona acosada con molestias o requerimientos que la coloquen intencionalmente en una situación de riesgo, incluso en aquellos casos donde no exista subordinación, pero el acosador cometa un ejercicio abusivo del poder que ponga a la víctima en estado de indefensión; y
+
+XII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2018)</small>
 
@@ -1164,6 +1168,14 @@ Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios
 P.O. 7 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 310, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN Y REUBICAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 18 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 331, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 5, REUBICÁNDOSE EL CONTENIDO DE LA FRACCIÓN XI EN UNA FRACCIÓN XII DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
 
 Inicio de vigencia
 
