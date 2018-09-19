@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-la-prestacion-del-servicio-publico-de-47724"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-20"
-last_updated: "2011-09-09"
+last_updated: "2018-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,1268 +23,2462 @@ state: "ROO"
 ---
 # REGLAMENTO PARA LA PRESTACION DEL SERVICIO PUBLICO DE LIMPIA, RECOLECCION, TRANSPORTE, TRATAMIENTO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS EN EL MUNICIPIO DE OTHON P. BLANCO
 
-REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE LIMPIA, RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS EN EL MUNICIPIO DE OTHÓN P. BLANCO, DEL ESTADO DE QUINTANA ROO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2011.
+LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 20 de diciembre de 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2017.
 
-REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE LIMPIA, RECOLECCIÓN, TRANSPORTE, TRATAMIENTO y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS EN EL MUNICIPIO DE OTHÓN P. BLANCO.
+Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
-HONORABLE AYUNTAMIENTO DE OTHÓN P. BLANCO
+NARCISO AGÚNDEZ MONTAÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
-LA QUE SUSCRIBE LIC. CORA AMALIA CASTILLA MADRID,
+QUE EL H. CONGRESO DEL ESTADO, SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-PRESIDENTA MUNICIPAL DE OTHÓN P. BLANCO, QUINTANA ROO
+DECRETO 1687
 
-A TODOS LOS HABITANTES DE ESTE MUNICIPIO HAGO SABER:
+EL HONORABLE CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-QUE EL HONORABLE AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE OTHÓN P. BLANCO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 89, 90 FRACCIONES I, VI Y VII Y 91 FRACCIONES II Y III DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO; Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 115 FRACCIONES I Y II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 126, 128 FRACCIÓN I, 133 Y 145 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; 2, 3, 6 FRACCIONES I, III, V, 65 Y 66 FRACCIONES I INCISOS B Y C DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, EN DÉCIMA OCTAVA SESIÓN CELEBRADA EL 12 DE DICIEMBRE DE 2005, TUVO A BIEN APROBAR EL SIGUIENTE:
+DECRETA:
 
-CON FUNDAMENTO EN LO ESTABLECIDO POR EL ARTÍCULO 115 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; ARTÍCULO 145 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y LAS FACULTADES QUE OTORGA LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, EN SU ARTÍCULO 90 FRACCIÓN VII, POR ACUERDO ADOPTADO POR EL H. AYUNTAMIENTO DE OTHÓN P. BLANCO, EN SESIÓN ORDINARIA DE CABILDO CELEBRADA EL DÍA 12 DE DICIEMBRE DE 2005, SE HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE LIMPIA, RECOLECCIÓN, TRANSPORTE, TRATAMIENTO y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS EN EL MUNICIPIO DE OTHON P. BLANCO.
+## TITULO I. Del Municipio
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO PRIMERO. Disposiciones Generales
 
-### CAPÍTULO I. OBJETO Y COMPETENCIAS
+###### Artículo 1.
 
-###### Artículo 1°.
+Esta Ley es de interés público y tiene por objeto regular las bases para la integración y organización del territorio, la población, el gobierno y la Administración Pública Municipales.
 
-Las disposiciones de este reglamento son de orden público, interés social y observancia general en todo el territorio del Municipio de Othón P. Blanco, Quintana Roo; y tiene por objeto regular el servicio público de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos y todas las acciones relacionadas con el mismo; así como establecer las infracciones y determinar las sanciones por los actos u omisiones que afecten el servicio.
+El municipio libre es la base de la división territorial y de la organización política del Estado, investido de personalidad jurídica propia, integrado por una comunidad establecida en un territorio, con un gobierno autónomo en su régimen interior y en la administración de su hacienda pública, en términos de los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 117 de la Constitución Política para el Estado de Baja California Sur.
 
-###### Artículo 2°.
+###### Artículo 2.
 
-La aplicación del presente reglamento compete:
+Las autoridades municipales tienen las atribuciones que les señalen las leyes, los ordenamientos locales, reglamentos municipales y los convenios que celebren con el Gobierno del Estado y otros municipios, y se ajustarán a los principios establecidos en la Constitución Federal, en la del Estado y en esta Ley. Tendrán, para el cumplimiento de sus fines, todas las competencias que no estén expresamente atribuidas por la Leyes a la Federación o al Estado.
 
-I. Al Presidente o Presidenta Municipal;
+###### Artículo 3.
 
-II. Al Titular de la Dirección General de Servicios Públicos, en forma directa o a través de la persona física o moral a quien se le otorgue la concesión del servicio;
+Los municipios del Estado regularán su funcionamiento de conformidad con lo que establece esta Ley, los Bandos municipales, reglamentos y demás disposiciones legales aplicables.
 
-III. Al Titular de la Dirección General de Desarrollo Urbano, Medio Ambiente y Obras Públicas;
+###### Artículo 4.
 
-IV. Al Titular de la Dirección General de Seguridad Pública y Tránsito Municipal;
+Para el eficaz cumplimiento de sus funciones, los Ayuntamientos podrán coordinarse entre si y con las autoridades estatales; y en su caso, con las autoridades federales, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos.
 
-V. A los Jueces Calificadores; y
+### CAPITULO SEGUNDO. Organización Territorial
 
-VI. A los demás servidores públicos que se indiquen en el presente Reglamento y los ordenamientos legales aplicables.
+###### Artículo 5.
 
-Los Regidores y Regidoras comisionados en materia de Obras y Servicios Públicos, ejercerán sus funciones de conformidad con los que establece la Ley de los Municipios del Estado de Quintana Roo.
+La extensión territorial de los municipios del Estado, así como la superficie y límites de cada uno se encuentran señalados en el artículo 120 de la Constitución Política del Estado de Baja California Sur.
 
-###### Artículo 3°.
+###### Artículo 6.
 
-Para efectos de este Reglamento se entiende por:
+La división territorial de los municipios se integra por la cabecera municipal y por las delegaciones, subdelegaciones, con la denominación, extensión y límites que establezcan los Ayuntamientos.
 
-I. ALMACENAMIENTO.- Acción de retener temporalmente residuos en tanto se entregan al servicio de recolección, se procesan para su aprovechamiento o se dispone de ellos;
+###### Artículo 7.
 
-II. APERCIBIMIENTO.- Conminación para no realizar un comportamiento que origina una infracción a este Reglamento;
+Las localidades establecidas dentro del territorio de los municipios podrán tener las siguientes categorías políticas:
 
-III. ASEO URBANO.- Acción de realizar la limpieza de parques, jardines, vía pública y áreas verdes de jurisdicción municipal;
+I. CIUDAD: Centro de población que tenga la calidad de cabecera municipal o cuyo censo arroje un número mayor de quince mil habitantes,
 
-IV. AMONESTACIÓN.- Es el apercibimiento que realiza la autoridad municipal al infractor, haciéndole notar la falta cometida y exhortándolo a no reincidir, instruyéndolo de sanciones mayores en caso de reincidencia;
+II. VILLA: Centro de población cuyo censo arroje un número mayor de siete mil habitantes,
 
-V. ARRESTO.- Es la privación de la libertad que deberá imponerse por violaciones graves al Reglamento de acuerdo con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, Ley de los Municipios del Estado de Roo (sic) y el Bando de Policía y Gobierno del Municipio de Othón P. Blanco;
+III. PUEBLO: Centro de población cuyo censo arroje un número mayor de tres mil habitantes,
 
-VI. BASURA SANITARIA DOMÉSTICA.- Son aquellos residuos sólidos que contienen desechos de fluidos, secreciones y/o excreciones corporales tales como algodón, gasas, material de curación, pañales, toallas sanitarias, papel higiénico, pañuelos desechables, pantyprotectores, preservativos, tampones y toallitas húmedas;
+IV. CASERIO: Centro de población cuyo censo arroje un número mayor de quinientos habitantes,
 
-VII. BRIGADAS DE ASEO.- Conjunto de trabajadores del Municipio o particulares, encargados de la recolección de los residuos sólidos;
+V. RANCHERIA: Centro de población cuyo censo arroje hasta 499 habitantes.
 
-VIII. CENTRO DE ACOPIO.- Sitio destinado a la recepción de subproductos reciclables presentes en los residuos sólidos antes de que sean integrados a su proceso de manejo convencional, evitando de esta manera su contaminación, facilitando su aprovechamiento y reduciendo los volúmenes de recolección y disposición final;
+El Ayuntamiento podrá acordar o promover en su caso la modificación de categoría política de una localidad, cuando ésta cuente con el número de habitantes indicado, determinando el procedimiento para la declaratoria correspondiente.
 
-IX. COMPOSTA.- Resultado de la descomposición y estabilización de la acción de microorganismos de' los residuos sólidos orgánicos; residuos principalmente de origen orgánico, separados de los residuos sólidos, molidos y estabilizados que se utilizan como sustituto enriquecedor de suelos;
+###### Artículo 8.
 
-X. CONCESIONARIO.- Persona física o moral a quien, mediante un acto administrativo, le es otorgado temporalmente el derecho de hacerse cargo del servicio de limpia, recolección, transporte, tratamiento, reciclaje y/o disposición final de los residuos sólidos no peligrosos en el Municipio de Othón P. Blanco;
+El Ayuntamiento deberá publicar las declaratorias de las categorías políticas y las relativas a las delegaciones municipales, en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-XI. CONTENEDOR.- Recipiente destinado al almacenamiento temporal de los residuos sólidos no peligrosos de origen doméstico, comercial o industrial;
+###### Artículo 9.
 
-XII. CONTENEDOR PÚBLICO.- Recipiente destinado al almacenamiento temporal de los residuos sólidos no peligrosos generados en la vía pública;
+En las categorías políticas a que se refiere el artículo anterior, el Ayuntamiento promoverá el desarrollo urbano, con base en el Plan de Desarrollo Urbano Municipal, procurando atender las necesidades de la población, dotándoles de los servicios públicos correspondientes, en atención a sus características y requerimientos.
 
-XIII. CLAUSURA.- Es el cierre del establecimiento comercial o industrial por parte de la Autoridad, en el que se hubiere cometido o generado la infracción;
+El Ayuntamiento participará en la creación y administración de sus reservas territoriales y ecológicas, de conformidad a las leyes en la materia.
 
-XIV. DISPOSICIÓN FINAL.- Ordenada y definitiva colocación, distribución y confinamiento de los residuos sólidos no peligrosos en un sitio diseñado especialmente para este fin y que cuenta con los sistemas para el control de la contaminación generada por esta actividad;
+###### Artículo 10.
 
-XV. EQUILIBRIO ECOLÓGICO.- La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
+Los Ayuntamientos podrán promover la fusión o la división de las categorías políticas, de conformidad con el Plan de Desarrollo Urbano Municipal. Para tal efecto se requerirá del acuerdo aprobado por mayoría calificada de los miembros del Ayuntamiento.
 
-XVI. ESTACIÓN DE TRANSFERENCIA.- Instalación que, con el equipamiento necesario, permite el cambio del medio de transporte de los residuos sólidos no peligrosos, de las unidades de recolección a vehículos de mayor capacidad para su transporte al sitio de disposición final;
+Para proceder a la fusión o división de las categorías políticas, el Ayuntamiento aprobará el procedimiento para la realización de consultas ciudadanas, con el objeto de recabar la opinión de la población, en los términos previstos en esta Ley.
 
-XVII. FUENTE DE GENERACIÓN.- Lugar donde ser (sic) producen los residuos a través del desarrollo de procesos productivos o de consumo;
-
-XVIII. INCINERACIÓN.- Proceso controlado para reducir los sólidos a cenizas. Esta se realiza en sitios técnicamente acondicionados para ello;
-
-XIX. MATERIAL RECICLABLE.- Es aquel que una vez desechado de su primer uso, puede volver a ser utilizado para elaborar nuevos productos o refabricar los mismos;
-
-XX. MEDIDAS DE SEGURIDAD.- La adopción y ejecución de disposiciones que dicten las autoridades encaminadas a evitar daños a terceros, a la salud pública o al equilibrio ecológico que puedan causar los concesionarios o cualquier otro infractor en sus instalaciones, construcciones, obras en el transporte de residuos sólidos. Las medidas de seguridad tienen el carácter preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan;
-
-XXI. LEY FEDERAL.- Ley General de Equilibrio Ecológico y la Protección al Ambiente;
-
-XXII. LEY ESTATAL.- Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Quintana Roo;
-
-XXIII. LIXIVIADOS. (SIC)- Líquidos provenientes de los residuos orgánicos, los cuáles se forman por fermentación, reacción, arrastre o percolación y que contiene disueltos o en suspensión, componentes que se encuentran en los mismos residuos;
-
-XXIV. PEPENA.- Acción manual de selección de objetos reutilizables o reciclables presentes en los residuos sólidos no peligrosos;
-
-XXV. PLANTA DE COMPOSTA.- Sitio destinado para la recuperación de subproductos orgánicos;
-
-XXVI. PLANTA DE SEPARACIÓN.- Sitio destinado para la recuperación de subproductos inorgánicos reciclables;
-
-XXVII. PRESTADOR DEL SERVlCIO.- Persona física o moral, asignada por la Ley, la autoridad o concesionada, que tiene a su cargo y bajo su responsabilidad el desarrollo de las actividades necesarias para brindar, en forma total o parcial, el servicio público objeto del presente Reglamento;
-
-XXVIII. QUEMA.- Destrucción o eliminación, total o parcial con fuego a los residuos sólidos;
-
-XXIX. REACCIÓN QUÍMICA O BIOLÓGICA.- Acción natural o inducida que genera cambios en la materia provocada por agentes químicos biológicos;
-
-XXX. RECICLAJE.- Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
-
-XXXI. RECOLECCIÓN.- Acción que realiza el Ayuntamiento o el Prestador del Servicio de transferir los residuos sólidos al equipo destinado para conducirlos a las instalaciones de almacenamiento, tratamiento, reciclaje o disposición final;
-
-XXXII. REGLAMENTO.- Al presente Reglamento para la prestación del Servicio Público de Limpia, Recolección, Transporte, Tratamiento y Disposición Final de Residuos Sólidos en el Municipio de Othón P. Blanco;
-
-XXXIII. RELLENO SANITARIO.- Método de ingeniería para la disposición de los residuos sólidos que se generan en el Municipio, los cuáles se depositan, se esparcen, compactan y cubren con una capa de tierra. Contando con los sistemas para el control de la contaminación que esta actividad produce;
-
-XXXIV. RESIDUO INORGÁNICO.- Cualquier tipo de producto residual, de origen domiciliario, comercial o de la industria, el cual no puede ser descompuesto por acción de microorganismos;
-
-XXXV. RESIDUOS ORGÁNICOS.- Todos los desechos de origen animal o vegetal;
-
-XXXVI. RESIDUOS SÓLlDOS.- Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en el proceso que lo generó; y los que provienen de actividades en casa-habitación, sitios y servicios públicos, establecimientos comerciales y de servicios, así como residuos industriales que no se deriven de su proceso. Para efectos del presente Reglamento, cuando se utilice este término se referirá a los residuos sólidos;
-
-XXXVII. RESIDUOS PELlGROSOS.- Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, representan un peligro para el equilibrio ecológico, el ambiente o la salud del ser humano;
-
-XXXVIII. RESIDUOS VOLUMINOSOS.- Aquellos que por sus dimensiones, peso o características, requieran de un servicio especial de recolección; como refrigeradores, calentadores de agua, estufas, colchones, lavadoras o cualquier mueble de características similares;
-
-XXXIX. REUSO.- Proceso de utilización de residuos sólidos sin tratamiento previo que se aplicarán a un nuevo proceso de transformación o de cualquier tipo;
-
-XL. SERVICIO DE LlMPIA.- El servicio público de limpia, recolección, transporte, tratamiento y disposición final de residuos sólidos que tiene por objeto asegurar el manejo de manera permanente, general y regular de dichos residuos para la satisfacción de las necesidades colectivas a cargo del Municipio;
-
-XLI. SEPARACIÓN DE RESIDUOS.- Proceso por el cual se hace una selección de los residuos en función de las características, con la finalidad de utilizarlo para su reciclaje;
-
-XLII. SUBPRODUCTO.- Producto secundario constituido con el material sobrante del proceso de producción de otro principal;
-
-XLIII. SUSPENSIÓN TEMPORAL.- Es la revocación por tiempo determinado o indefinido de la concesión otorgada y en el retiro temporal o definitivo del uso de elementos materiales con los cuales se hubiese perpetrado la violación al Reglamento;
-
-XLIV. USUARIO.- Persona que utiliza los servicios de limpia, recolección, tratamiento y disposición final de los residuos sólidos no peligrosos en el Municipio de Othón P. Blanco; y
-
-XLV. VÍA PÚBLICA.- Aquella superficie de dominio y uso común destinada o que se destine al libre tránsito por disposición de la Autoridad Municipal de conformidad con las leyes, y demás reglamentos de la materia.
-
-###### Artículo 4°.
-
-Son facultades del Ayuntamiento:
-
-I. Prestar el Servicio Público de Limpia directamente o a través de concesión total o parcial;
-
-II. Establecer las tarifas por la prestación del servicio público objeto de este Reglamento, ya sea que se ofrezca de manera directa o a través de terceros, en base al peso, volumen de los residuos sólidos y los diferentes sectores socioeconómicos en que se divida la ciudad;
-
-III. Autorizar las tarifas aplicables a los sectores comercial, industrial y de servicios, en materia de residuos sólidos no peligrosos, ya sea que el servicio se preste directamente o a través de terceros;
-
-IV. Concesionar la prestación del servicio público de limpia, todo en partes de conformidad con la Ley de los Municipios del Estado y el Bando de Policía y Gobierno del Municipio; y
-
-V. Las demás que le confieran expresamente las disposiciones legales aplicables.
-
-### CAPÍTULO I. DE LA PRESTACIÓN DEL SERVICIO
-
-###### Artículo 5°.
-
-Son facultades del Presidente o Presidenta Municipal:
-
-I. Vigilar y hacer cumplir en el ámbito de su competencia este reglamento y demás disposiciones de la materia en los ámbitos federal y estatal;
-
-II. Ejecutar los acuerdo (sic) que en materia de limpia y aseo dicte el Ayuntamiento;
-
-III. Expedir conjuntamente con el Secretario o Secretaria General del Ayuntamiento los títulos de concesión del servicio de limpia, atendiendo lo que al respecto establecen la Ley de los Municipios del Estado y el Bando de Policía y Gobierno del Municipio de Othón P. Blanco; y
-
-IV. Las demás que le señalen este Reglamento y demás disposiciones aplicables a la materia.
-
-###### Artículo 6°.
-
-Son facultades del Director General de Servicios Públicos:
-
-I. Vigilar y hacer cumplir en el ámbito de su competencia este Reglamento y demás disposiciones de la materia en los ámbitos federal y estatal;
-
-II. Auxiliar al Presidente o Presidenta Municipal en lo concerniente a la organización, vigilancia y administración del servicio público de limpia, proponiendo y llevando a cabo las medidas tendentes a eficientar la prestación de dicho servicio;
-
-III. Prestar el servicio público de limpia;
-
-IV. El aseo urbano de parques, jardines, vía pública y áreas verdes de propiedad municipal;
-
-V. La instalación de contenedores públicos en parques, jardines y vía pública, sin alterar las características y los valores históricos, artísticos y culturales de la zona, de acuerdo a la necesidad, cantidad y capacidad requeridas;
-
-VI. Mantener y vigilar que los contenedores públicos estén en buen estado y limpios;
-
-VII. Concertar con los medios de comunicación masiva y con los sectores social y privado, en coordinación con las autoridades federales y locales competentes en la materia, la realización de campañas de limpieza;
-
-VIII. Establecer convenios y la regularización respectiva con las empresas que generen basura y desperdicios sólidos;
-
-IX. Coordinar la colaboración de la ciudadanía y de las organizaciones de colonos, comerciantes e industriales para la recolección y transporte de la basura;
-
-X. Determinar las necesidades de la población para la prestación del servicio;
-
-XI. Establecer un sistema de quejas y reclamaciones que presenten los usuarios para su debida atención, dictándose las medidas necesarias, para su mejor y pronta resolución;
-
-XII. Establecer rutas, horario y frecuencia en que se debe prestar el servicio público de aseo y limpia, pudiendo después escuchar a los vecinos y hacer las modificaciones de acuerdo a las necesidades del servicio;
-
-XIII. Organizar administrativamente el servicio y formular el programa anual del mismo;
-
-XIV. Ordenar la inspección en establecimientos y lugares para verificar el acatamiento de este reglamento;
-
-XV. Imponer las sanciones administrativas previstas en ese reglamento;
-
-XVI. Vigilar e inspeccionar el cumplimiento de los términos de las concesiones otorgadas a los prestadores del servicio público de limpia;
-
-XVII. Llevar a cabo las labores de limpieza o saneamiento de los lugares públicos que resulten afectados por siniestros, explosiones, derrumbes o arrastres de residuos por corrientes pluviales, sin perjuicio de las responsabilidades que se puedan exigir a los causantes de estos;
-
-XVIII. Vigilar que los propietarios de predios baldíos, mantengan los mismos limpios y en condiciones de higiene al igual que el exterior del inmueble por cada uno de los lados que colinde con la vía pública;
-
-XIX. Establecer los lineamientos a los cuáles se sujetarán las áreas y predios destinados al almacenamiento, transferencia, tratamiento, reciclaje y disposición final de los residuos sólidos;
-
-XX. Vigilar que las personas físicas o empresas cumplan con los requisitos que establece el presente reglamento para poder entrar o comprar basura que se puede reciclar, en las áreas y predios destinados al almacenamiento, transferencia, tratamiento, reciclaje y disposición final de los residuos sólidos;
-
-XXI. Formular las normas operativas, políticas y procedimientos a los que se sujetará la prestación de los servicios públicos de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos;
-
-XXII. Dirigir y supervisar el trabajo del personal adscrito a su Dirección;
-
-XXIII. Ejecutar los acuerdos e implementar las medidas administrativas relacionadas con el servicio, dictados por el Ayuntamiento o el Presidente o Presidenta Municipal;
-
-XXIV. Ejecutar los convenios que celebre la autoridad municipal con autoridades federales, estatales e instituciones públicas o privadas que se relacionen con la materia de limpia; y
-
-XXV. Las demás que le otorgue el presente reglamento y otras disposiciones legales aplicables.
-
-###### Artículo 7°.
-
-Son facultades del Director General de Desarrollo Urbano, Medio Ambiente y Obras Públicas:
-
-I. Vigilar y hacer cumplir en el ámbito de su competencia este reglamento y demás disposiciones de la materia en los ámbitos federal y estatal;
-
-II. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente, ocasionados por el servicio público de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos;
-
-III. Realizar campañas para promover la colaboración de la ciudadanía en la separación de residuos por categorías, en la forma y con los materiales que deban utilizarse en su manejo;
-
-IV. Instituir en coordinación con la Dirección General de Servicios Públicos campañas de información a la población para señalar cuáles residuos deben considerarse como peligrosos, tales como baterías, residuos de solventes, residuos de procesos curativos, medicamentos, pinturas, basura sanitaria y heces fecales, informando la forma de almacenarlos y deshacerse de ellos;
-
-V. Diseñar en coordinación con la Dirección General de Servicios Públicos, los lineamientos de recolección y disposición final a efecto de realizar las actividades relacionadas con el desazolve de alcantarillas, redes de drenaje, pozos colectores y de absorción, con la construcción, mejoramiento, mantenimiento de la Infraestructura y el equipamiento urbano del Municipio;
-
-VI. Diseñar y construir las estaciones de transferencia, plantas de tratamiento de residuos sólidos y sitios de disposición final;
-
-VII. Otorgar la autorización y licencia respectiva para la construcción de plantas de tratamiento ya sea de separación, composta, recuperación, reciclaje y disposición final de residuos sólidos no peligrosos, de conformidad y en estricto apego a las disposiciones legales aplicables;
-
-VIII. Difundir los programas que se expidan en materia de educación ambiental, almacenamiento, recolección, transporte, tratamiento, reciclaje y disposición final de los residuos en el Municipio en coordinación con la Dirección General de Servicios Públicos y demás autoridades municipales; y
-
-IX. Las demás que le otorgue el presente Reglamento y otras disposiciones legales aplicables.
-
-###### Artículo 8°.
-
-Son facultades del Director General de Seguridad Pública y Tránsito Municipal:
-
-I. Vigilar y hacer cumplir en el ámbito de su competencia este Reglamento y demás disposiciones de la materia en los ámbitos federal y estatal;
-
-II. Presentar ante el Juez Calificador a los infractores del presente Reglamento, cuando sean sorprendidos en flagrancia de conformidad con las disposiciones legales aplicables;
-
-III. Auxiliar al Director General de Servicios Públicos y al Juez Calificador en el ejercicio de sus funciones en estricto apego a las disposiciones legales aplicables; y
-
-IV. Las demás que le otorgue el presente Reglamento y otras disposiciones legales aplicables.
-
-###### Artículo 9°.
-
-Son facultades de los Jueces Calificadores:
-
-I. Conocer, resolver, conciliar y sancionar en su caso las infracciones flagrantes al presente Reglamento, en los términos de las disposiciones legales aplicables;
-
-II. Expedir citatorios de presentación a las partes involucradas para la solución de conflictos en el ejercicio de sus funciones;
-
-III. Declarar la responsabilidad o la falta de responsabilidad de los infractores presentados ante ellos;
-
-IV. Aplicar las sanciones correspondientes establecidas en la Ley de los Municipios del Estado, el Bando de Policía y Gobierno y el presente Reglamento; y
-
-V. Las demás que le otorgue el presente Reglamento y otras disposiciones legales aplicables.
-
-###### Artículo 10°.
-
-El presente Reglamento es obligatorio para los habitantes que residan temporal o permanentemente en el Municipio de Othón P. Blanco, visitantes y para las personas físicas o morales que realicen o estén relacionadas con la prestación del servicio público de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos, en el ámbito territorial del Municipio de Othón P. Blanco.
-
-### CAPÍTULO II. DE LOS USUARIOS
+### CAPITULO TERCERO. De la Población
 
 ###### Artículo 11.
 
-Se consideran propiedad del Ayuntamiento todos los residuos sólidos desde el momento en que estos sean entregados al recolector o depositados en los contenedores públicos, quedando bajo su custodia en las áreas y predios destinados para tales efectos.
+Son habitantes del municipio, las personas que residan habitual o transitoriamente dentro de su territorio.
 
 ###### Artículo 12.
 
-Queda prohibido introducir; y depositar, residuos sólidos al Municipio de Othón P. Blanco, provenientes de otros Municipios, Estados o Países sin la previa autorización del Ayuntamiento.
+Los habitantes del municipio adquieren la categoría de vecinos por:
+
+I. Tener residencia efectiva en el territorio del municipio por un período no menor de seis meses.
+
+II. Manifestar expresamente ante la autoridad municipal el deseo de adquirir la vecindad y ésta le extienda la constancia de vecindad.
+
+La categoría de vecino se pierde por ausencia de más de seis meses del territorio municipal o renuncia expresa.
+
+La vecindad en un municipio no se perderá cuando el vecino se traslade a residir a otro lugar, en función del desempeño de un cargo de elección popular o comisión de carácter oficial.
 
 ###### Artículo 13.
 
-En caso de fuerza mayor, contingencias ambientales o desastres naturales, el Presidente o Presidenta Municipal podrá autorizar cualquier descarga de residuos sólidos dentro del territorio municipal en lugares distintos de los sitios ya existentes, informando al Ayuntamiento en un plazo de veinticuatro horas.
+Son derechos de los habitantes del municipio:
+
+I. Utilizar los servicios públicos que preste el municipio, de acuerdo con los requisitos que establezca esta Ley, los reglamentos municipales respectivos y de más ordenamientos legales aplicables;
+
+II. Ser atendido por las autoridades municipales, en todo asunto relacionado con su calidad de habitante;
+
+III. Proponer ante las autoridades municipales, las medidas o acciones que juzguen de interés publico;
+
+IV. Las demás que le otorguen las leyes y reglamentos.
 
 ###### Artículo 14.
 
-Queda prohibido realizar actos de pepena dentro de los sitios donde se depositen los residuos sólidos generados en el Municipio a aquellas personas que no cuenten con la autorización correspondiente; previo cumplimiento de los requisitos que se señalan en el presente Reglamento.
+Son obligaciones de los habitantes del municipio:
 
-### CAPÍTULO III. DE LOS PREDIOS BALDÍOS
+I. Respetar las instituciones y autoridades de los gobiernos federal, estatal y municipal, así como acatar sus leyes y reglamentos;
+
+II. Recibir la educación básica y hacer que sus hijos o pupilos menores la reciban, en la forma prevista por las leyes en la materia;
+
+III. Contribuir para los gastos públicos en la forma que lo dispongan las leyes;
+
+IV. Prestar auxilio a las autoridades, cuando para ello sean requeridos legalmente; y
+
+V. Las demás que dispongan las leyes, reglamentos y disposiciones administrativas de observancia general.
+
+### CAPITULO CUARTO. De la Participación Social
 
 ###### Artículo 15.
 
-La Dirección General de Servicios Públicos realizará las siguientes actividades.
-
-I. Barrer y mantener aseadas las vías públicas y áreas verdes a su cargo;
-
-II. La recolección de residuos sólidos no peligrosos provenientes de casa-habitación;
-
-III. El transporte de los residuos sólidos, no peligrosos a los sitios destinados para su disposición final;
-
-IV. La recolección, el transporte y disposición final (cremación o entierro) de cadáveres de animales que se encuentren en la vía pública;
-
-V. Cumplir con las rutas, días y horarios de recolección previamente establecidos;
-
-VI. Dotar a todos los miembros de sus brigadas de aseo con uniformes y el equipo necesario para desarrollar sus labores;
-
-VII. Proporcionar al personal la capacitación para que desarrollen su trabajo con eficiencia y calidad;
-
-VIII. Informar a los usuarios de los horarios para efectuar la recolección de los residuos sólidos en las diversas zonas del Municipio;
-
-IX. Cumplir con los lineamientos y manuales de operación de los sitios de tratamiento, separación y disposición final de residuos sólidos;
-
-X. Capacitar al personal que labore en los sitios donde se depositen los residuos sólidos generados en el Municipio sobre el manejo de los mismos; y
-
-XI. Las demás que le ordenen las disposiciones legales aplicables.
+Los Ayuntamientos promoverán la participación de sus habitantes para el desarrollo comunitario.
 
 ###### Artículo 16.
 
-Queda estrictamente prohibida la recolección de residuos sólidos patológicos provenientes de hospitales, clínicas, laboratorios, centros de salud; estos deberán ser obligatoriamente incinerados en los términos que para ello dispongan los ordenamientos federales en la materia.
+El Ayuntamiento podrá realizar consultas populares y/o encuestas sobre actos administrativos cuando se requiera tomar decisiones que por su naturaleza afecten el interés de la comunidad, conforme a las bases de las convocatorias que previamente expida el Ayuntamiento o aquellas previstas por la Ley de Participación Ciudadana del Estado de Baja California Sur.
 
-## TÍTULO SEGUNDO. DE LA PRESTACIÓN DEL SERVICIO, DE LOS USUARIOS DE LOS PREDIOS BALDÍOS Y DE LAS CONCESIONES
+## TITULO II. De los Ayuntamientos
 
-### CAPÍTULO IV. DE LAS CONCESIONES
+### CAPITULO PRIMERO. Integración de los Ayuntamientos
 
 ###### Artículo 17.
 
-El transporte de basura, residuos y desechos sólidos, deberán efectuarse en vehículos construidos especialmente para dicho propósito y que deberán reunir los siguientes requisitos:
-
-I. Que la caja que sirva de depósito esté forrada de lámina metálica con un espesor mínimo de 15 milímetros y estar cubiertos con tapas, para impedir que la basura se tire en la vía pública;
-
-II. Que permita su aseo perfecto, utilizando agua; y
-
-III. Que estén provistos de las herramientas de trabajo necesarias; palas bieldos, recogedores metálicos o de plástico, etc. Lo anterior sólo estará exceptuado cuando así lo disponga la autoridad municipal competente.
+Cada municipio será gobernado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
 ###### Artículo 18.
 
-Los tiraderos de basura, residuos y desechos, se localizarán a distancias convenientes de los centros de población y su ubicación será fijada por el Ayuntamiento.
+El Ayuntamiento tendrá su residencia oficial en la cabecera del municipio.
+
+El Ayuntamiento por acuerdo de mayoría calificada, podrá decretar el cambio de residencia cuando existan causas justificadas para ello; el traslado será a otro lugar comprendido dentro de la circunscripción territorial del municipio, y deberá publicarse dicho acuerdo en el Boletín Oficial del Gobierno del Estado al día siguiente de su emisión.
 
 ###### Artículo 19.
 
-Los animales que mueran en el interior de las casas, edificios, establos, caballerizas o lugares similares, serán transportados por sus dueños a los tiraderos oficiales.
+El desempeño del cargo de Presidente Municipal, síndico y regidor es obligatorio y su remuneración se fijará en el Presupuesto de Egresos del Municipio, atendiendo los principios de racionalidad, austeridad y disciplina del gasto público municipal, así como a la situación socioeconómica del municipio.
 
-### CAPÍTULO I
+El desempeño del cargo se realizará con prioridad, eficacia, eficiencia y honradez, quedando impedidos quienes lo ocupen, para aceptar otro empleo o cargo en la Administración Pública Municipal, estatal o federal, por el que perciban remuneración alguna, con excepción de las actividades docentes o de beneficencia.
 
-DEL PROCEDIMIENTO PARA EL ALMACENAMIENTO Y LA RECOLECCIÓN.
+### CAPITULO SEGUNDO. De la Toma de Protesta e Instalación de los Ayuntamientos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 20.
 
-Los responsables de las plantas de separación, composta y disposición final de los residuos sólidos no peligrosos, están obligados a:
+Los Ayuntamientos electos, tomarán protesta solemne y públicamente, bajo el siguiente calendario:
 
-I. Capacitar al personal sobre el manejo de los residuos sólidos;
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
 
-II. Equipar a todo su personal con uniformes, con botas, cascos, guantes y demás equipo necesario para desarrollar sus labores de manera segura e higiénica;
+I. El del Municipio de Mulegé, será el día 24 de septiembre del año de la elección;
 
-III. Cumplir y obtener todos los permisos federales, estatales y municipales que se requieran para la correcta y debida operación del manejo y disposición final de los residuos sólidos no peligrosos; y
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
 
-IV. Cumplir con las demás normas que establezca el Ayuntamiento y disposiciones legales aplicables.
+II. El del Municipio de Loreto será el día 25 de septiembre del año de la elección,
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
+
+III. El del Municipio de Comondú, será el día 26 de septiembre del año de la elección;
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
+
+IV. El del Municipio de La Paz, será el día 27 de septiembre del año de la elección;
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
+
+V. El del Municipio de Los Cabos, será el día 28 de septiembre del año de la elección.
+
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
 
 ###### Artículo 21.
 
-El servicio público de limpia, recolección y tratamiento de basura que se concesione a particulares se prestará de manera regular y uniforme mediante retribución de los usuarios.
+Primeramente, el Presidente Municipal entrante rendirá la protesta de ley en los siguientes términos:
+
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de Baja California Sur y las leyes que de ellas emanen, así como desempeñar leal y patrióticamente el cargo de presidente municipal que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la nación, del Estado de Baja California Sur y de este Municipio. Si así no lo hiciere, que el pueblo me lo demande".
+
+Acto seguido, el Presidente Municipal tomará la protesta del resto de los miembros del Ayuntamiento, de la siguiente forma:
+
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+"¿Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de Baja California Sur y las leyes que de ellas emanen, así como desempeñar leal y patrióticamente el cargo que el pueblo les ha conferido?"
+
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+A lo cual, el Síndico y Regidores, levantando la mano dirán:
+
+“Sí, protesto”.
+
+El Presidente Municipal agregará: “Si así no lo hicieren, que el pueblo se los demande”.
 
 ###### Artículo 22.
 
-La Administración Municipal podrá autorizar a las personas físicas o morales para que se inserten anuncios comerciales en los contenedores públicos, mediante el pago de los derechos correspondientes.
+El Ayuntamiento electo, en la sesión solemne de toma de protesta, por conducto del Presidente Municipal, dará a conocer a la población los aspectos generales de su plan de trabajo.
 
 ###### Artículo 23.
 
-Son usuarios del servicio público de limpia las personas físicas o morales que ocupen todo inmueble destinado:
-
-I. Al uso habitacional, sea éste unifamiliar o multifamiliar;
-
-II. Al uso comercial y de servicios;
-
-III. A la educación, cultura, recreación y deporte;
-
-IV. A la industria; y
-
-V. Al uso hospitalario, laboratorio clínico, instituto o centro de investigación.
+Los integrantes del Ayuntamiento electo que no hayan rendido protesta en términos del artículo 20 de esta Ley, serán requeridos por el Presidente Municipal para que en un término máximo de 15 días naturales comparezcan a rendir protesta, en cuyo caso contrario se llamara al suplente.
 
 ###### Artículo 24.
 
-Son derechos de las personas físicas o morales, propietarias o poseedoras de inmuebles descritos en el artículo anterior:
+En la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de actividades del Ayuntamiento saliente, se nombrará una comisión de tres miembros, que fungirá como Comisión Instaladora para el Ayuntamiento electo. La Comisión Instaladora designada convocará a los integrantes del Ayuntamiento electo, de conformidad con la constancia de mayoría, de asignación y la declaratoria de validez expedidas por el órgano respectivo o, en su caso, con la resolución del Tribunal Estatal Electoral, para que acudan a la sesión de instalación formal del mismo, en los términos del artículo que precede.
 
-I. Recibir el servicio público de limpia en forma eficiente y oportuna en los días y horarios establecidos;
-
-II. Reportar ante las autoridades las deficiencias, irregularidades y anomalías en la prestación del servicio;
-
-III. Ser informados respecto de la variación de los días y horarios de la prestación del servicio de limpia; y
-
-IV. Todos los demás que contemple el presente Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 25.
 
-Son obligaciones de las personas físicas o morales, propietarias o poseedoras de inmuebles descritos en el artículo 23, las siguientes:
+La Comisión Instaladora para el Ayuntamiento electo, citará personalmente a los integrantes propietarios y suplentes del mismo para que concurran a la sesión de la instalación a las 9 horas del día mandatado por el artículo 20 de esta Ley. Dicha citación deberá hacerse con una anticipación de quince días naturales.
 
-I. Utilizar adecuadamente y pagar las tarifas aprobadas por el Ayuntamiento, por la prestación del servicio de recolección de residuos sólidos;
-
-II. Contar con los espacios y el número de contenedores necesarios y suficientes para el adecuado almacenamiento de los residuos sólidos que genere en su predio, manteniéndolos aseados y en buenas condiciones de uso;
-
-III. Utilizar contenedores, botes de basura, bolsas de plástico, cajas o recipientes desechables, debidamente cerrados, para ser entregados a los prestadores del servicio, evitando que éstos estén al alcance de animales que dispersen los residuos que en ellos se almacenen;
-
-IV. Separar residuos, de acuerdo a las normas, procedimientos y políticas ambientales que determine la autoridad;
-
-V. Evitar obstaculizar las áreas de acceso a los contenedores que para tal efecto sean instalados;
-
-VI. Desyerbar el perímetro de su predio y almacenar el producto de desecho en sus propios contenedores;
-
-VII. Mantener limpias sus banquetas y la parte proporcional de la calle al frente de sus predios hasta la medianería de sus colindancias, debiendo recolectar la basura que acumulen;
-
-VIII. Limpiar la vía pública cuando sea utilizada para la descarga de materiales de construcción o artículos para su inmueble, inmediatamente después de terminadas las maniobras;
-
-IX. Evitar que animales de su propiedad contaminen la vía pública, parques y jardines con sus desechos, que dispersen residuos sólidos almacenados en contenedores o sitios afines;
-
-X. Ubicar fuera del predio o en lugar de fácil acceso, los contenedores de residuos sólidos a la hora y días establecidos por el prestador del servicio de recolección;
-
-XI. Participar y cooperar con las campañas de limpieza que promueva el ayuntamiento y en general con cualquier programa vinculado con el objeto de este Reglamento;
-
-XII. Facilitar el acceso a su predio a los inspectores del Municipio, con el propósito de que verifiquen el cumplimiento de las normas y disposiciones contenidas en este Reglamento. Así como las disposiciones específicas que sobre el particular acuerde la autoridad municipal;
-
-XIII. Los propietarios o poseedores de inmuebles que estén en régimen de condominio, deberán asignar un área destinada para la recolección de residuos sólidos; y
-
-XIV. Las demás que establezca el presente Reglamento y demás disposiciones legales aplicables.
+Cuando por causa de fuerza mayor no pueda llevarse a cabo la sesión de instalación en el lugar que se tenía previsto, se podrá realizar en un lugar distinto, previa notificación por escrito de manera fehaciente, cuando menos con tres horas de anticipación a los miembros electos del Ayuntamiento.
 
 ###### Artículo 26.
 
-Queda prohibido a los habitantes del Municipio de Othón P. Blanco:
+La Comisión Instaladora declarará valida la Sesión de instalación, con la presencia de la mitad más uno de sus integrantes electos.
 
-I. Arrojar, tirar, mantener basura, desperdicios, desechos, arena, grava, cascajo, volantes, propaganda impresa, ramas, troncos, escombros o materiales similares a estos en la vía pública; parques, plazas, predios baldíos, ríos, arroyos, lagunas, etc, dentro del territorio del Municipio de Othón P. Blanco. Asimismo se prohíbe tirar basura del interior de los vehículos que transitan en la vía pública;
+El Ayuntamiento saliente a través de la Comisión Instaladora dará posesión física de las oficinas municipales al Ayuntamiento que se instala e inmediatamente procederá a hacer la siguiente declaratoria formal y solemne:
 
-II. El lavado de toda clase de vehículos, así como su reparación, la fabricación de muebles y en general la ejecución de cualquier actividad similar en las vías públicas;
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-III. Arrojar en los lotes baldíos propios o ajenos desechos en descomposición, animales muertos, sustancias repugnantes, peligrosas o contagiosas;
-
-IV. Hacer fogatas, quemar llantas, poner hornillas y objetos de cualquier género así como incinerar basura o residuos sólidos en la vía pública;
-
-V. Arrojar o verter agua limpia o sucia, agua contaminada o cualquier otro líquido en la vía pública, redes del servicio público de drenaje y alcantarillado, lagunas, playas o cualquier otro sitio no autorizado;
-
-VI. Dañar, destruir o maltratar los contenedores públicos, propiedad del Municipio;
-
-VII. Extraer de los contenedores públicos cualquier clase de desperdicios que hayan sido depositados, pues tal facultad corresponde a la Dirección General de Servicios Públicos;
-
-VIII. Crear tiraderos clandestinos de basura en el Municipio;
-
-IX. Arrojar a la calle con motivo de las corrientes formadas por las lluvias, la basura y desperdicios; y
-
-X. Realizar todo acto u omisión que impida la prestación eficiente del servicio público de limpia otorgado por la autoridad municipal.
+"Siendo las___horas del día __ de septiembre del año___se declara que queda legítimamente instalado el Ayuntamiento del Municipio de____que deberá funcionar durante el periodo de____”.
 
 ###### Artículo 27.
 
-Los propietarios o poseedores de inmuebles descritos en las fracciones II, III y IV, del artículo 23, además de cumplir con las obligaciones establecidas en el artículo 25 de este reglamento, deberán capacitar a su personal sobre el manejo de residuos sólidos.
+Instalado el Ayuntamiento, se comunicará oficialmente su integración a los Poderes Ejecutivo, Legislativo y Judicial del Estado y de la Federación y a los demás Ayuntamientos del Estado de Baja California Sur.
 
 ###### Artículo 28.
 
-Los propietarios o poseedores de inmuebles descritos en la Fracción V del Artículo 23, además de cumplir con las obligaciones establecidas en los Artículos 25 y 26 (sic) este Reglamento, deberán cumplir con lo que marcan las normas y disposiciones legales en materia de residuos peligrosos biológico-infecciosos y de alto riesgo.
+Al concluir la Sesión de instalación, el Ayuntamiento entrante citará a la Primer Sesión Ordinaria donde procederá a lo siguiente:
 
-### CAPÍTULO II. DEL TRANSPORTE DE LOS RESIDUOS SÓLIDOS NO PELIGROSOS
+I.- Notificar a los miembros propietarios ausentes para que asuman su cargo en un plazo no mayor de quince días naturales, si no se presentan, transcurrido este plazo, serán llamados los suplentes, quienes entrarán en ejercicio hasta la conclusión del periodo constitucional.
+
+II.- Nombrar al secretario general, tesorero, contralor, oficial mayor y titulares de las dependencias administrativas existentes;
+
+III.- Aprobar las comisiones edilicias a que se refiere esta Ley; y
+
+IV.- Proceder a la entrega-recepción de la situación que guarda la Administración Pública Municipal, que hace el Ayuntamiento saliente.
+
+### CAPITULO TERCERO. De la entrega-recepción de la Administración Pública Municipal
 
 ###### Artículo 29.
 
-Los locatarios de mercados, comerciantes fijos, semifijos, ambulantes y tianguistas que cuenten con el permiso correspondiente, además de las obligaciones que les señala el Artículo 25 de este Reglamento, deberán:
+El Ayuntamiento saliente hará entrega al Ayuntamiento entrante, del documento que contenga la situación que guarda la Administración Pública Municipal, conforme al artículo 28 fracción IV de esta Ley.
 
-I. Mantener aseado el perímetro que ocupe su área de venta;
-
-II. Dejar en estado de absoluta limpieza el local o sitio de instalación, al igual que el área de influencia;
-
-III. Contar con contenedores de material lavable, para el almacenamiento de los residuos generados en el día;
-
-IV. No utilizar los contenedores públicos peatonales para depositar los residuos generados por su actividad;
-
-V. Conservar aseada el área común de los establecimientos y depositar los residuos generados en los contenedores; y
-
-VI. Conservar aseada al área ocupada en un radio de dos metros durante y después de la jornada, así como disponer para sus clientes de recipientes adecuados para el depósito de residuos sólidos, tratándose de comerciantes en vía pública.
+La entrega-recepción no podrá dejar de realizarse, bajo ninguna circunstancia.
 
 ###### Artículo 30.
 
-Será obligatorio para las personas físicas o morales que ofrezcan servicios de espectáculos eventuales como circos, ferias, eventos deportivos, recreativos y otros similares:
+El documento a que se refiere el artículo anterior, deberá contener, por lo menos:
 
-I. Mantener limpia y aseada el área que ocupen, instalando botes de basura y contenedores suficientes; y
+I.- Los libros de actas de las reuniones del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
 
-II. Contratar el servicio de recolección correspondiente durante el tiempo que dure el espectáculo eventual.
+II.- La documentación relativa a la situación financiera y estados contables, que deberán contener los libros de contabilidad y registros auxiliares, correspondientes al Ayuntamiento saliente;
 
-Lo anterior será requisito para la autorización de estos eventos.
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
+
+III.- La documentación relativa al estado que guarda la cuenta pública del Municipio; la que incluirá las observaciones pendientes de atender, requerimientos e informes que se hayan generado con motivo del ejercicio de las facultades de fiscalización a cargo de la Auditoría Superior del Estado de Baja California Sur;
+
+IV.- La situación de la deuda pública municipal, la documentación relativa a la misma y su registro, así como la relación y registro de los pasivos a cargo del Municipio, que no constituyan deuda pública;
+
+V.- El estado de la obra pública ejecutada y en proceso en el Municipio y la documentación relativa a la misma;
+
+> <small>(REFORMADA, B.O. 20 DE NOVIEMBRE DE 2014)</small>
+
+VI.- La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como los informes y comprobantes de los mismos, ante la Contraloría General del Estado;
+
+VII.- La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
+
+VIII.- La documentación relativa a convenios o contratos que el Municipio tenga con otros municipios, con el Estado, con el Gobierno Federal o con particulares, vigentes y anteriores;
+
+IX.- La documentación relativa a los programas municipales y proyectos aprobados y ejecutados, así como el estado que guardan los mismos en proceso de ejecución;
+
+X.- El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal;
+
+XI.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y
+
+XII.- Los expedientes formados con motivo de juicios de cualquier naturaleza en los que el Municipio sea parte; y
+
+XIII.- La demás información que se estime relevante para garantizar la continuidad de la Administración Pública Municipal.
 
 ###### Artículo 31.
 
-Los conductores de vehículos destinados al transporte de materiales, deberán cubrir la caja de sus vehículos con el equipo adecuado para evitar que la carga se esparza en el trayecto que recorran cuidando que los mismos no sean cargados al límite de su capacidad volumétrica.
-
-Los conductores de vehículos de transporte de materiales deberán barrer el interior de la caja del vehículo una vez que hayan descargado los materiales respectivos, para evitar que se escapen polvo, desperdicios y residuos sólidos, durante su trayecto de regreso.
+El Secretario del Ayuntamiento entrante, levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron.
 
 ###### Artículo 32.
 
-Los propietarios o encargados de establos, corrales, granjas, caballerizas o cualquier otro local o sitio destinado al alojamiento de animales, están obligados a transportar diariamente el estiércol producido, llevándolo por cuenta propia a los depósitos señalados previamente para ello. Pero si los conservan para vender como abono de tierra, deberán depositarlos en lugares o recipientes apropiados con observancia de los requisitos legales de higiene y salubridad vigentes.
+Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, integrada de manera plural y proporcional a la conformación del Ayuntamiento, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un informe en un plazo de treinta días hábiles.
+
+El informe deberá referirse a todos y cada uno de los puntos contenidos en el expediente a que se refiere el artículo 30 de la presente Ley; el cual se someterá dentro de los quince días hábiles siguientes al conocimiento y consideración del Ayuntamiento, y éste podrá llamar a los servidores públicos que intervinieron en el acta de entrega-recepción, para solicitar cualquier información o documentación relacionada con la misma; los que estarán obligados a proporcionarla y atender las observaciones consecuentes.
 
 ###### Artículo 33.
 
-Los propietarios o encargados de estacionamientos y talleres para la reparación de automóviles, carpinterías, tapicerías, pintura y otros establecimientos similares, deberán ejecutar su labor en el interior de sus establecimientos y no en la vía pública y transportar por su cuenta al lugar que les indique la Dirección General de Servicios Públicos, los residuos que generen previa separación de residuos orgánicos e inorgánicos, dentro de los cuáles se encuentren de manera enunciativa mas no limitativa, los lubricantes, combustibles, solventes y demás sustancias similares.
+Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
 
-### CAPÍTULO I. DEL TRATAMIENTO DE LOS RESIDUOS SÓLIDOS
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 2017)</small>
+
+El Ayuntamiento, dentro de los quince días hábiles siguientes, remitirá copia del expediente de entrega-recepción a la Auditoría Superior del Estado de Baja California Sur, para efecto de que en la revisión de las cuentas públicas municipales, sea tomado en cuenta.
+
+### CAPITULO CUARTO. Del Funcionamiento de los Ayuntamientos
+
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 34.
 
-Los propietarios o encargados de los expendios o bodegas de carbón o leña, están obligados a mantener en perfecto estado de aseo el frente de sus establecimientos, así como evitar la propagación de polvo o residuos sólidos, poniendo especial cuidado en las maniobras de carga, descarga o despacho de dichos combustibles.
+El Ayuntamiento funcionará en períodos de tres años, iniciando cada ejercicio, de conformidad con el calendario previsto en el artículo 118 de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
 
 ###### Artículo 35.
 
-Los propietarios de establecimientos dedicados a la venta de refacciones usadas, chatarra y fierro viejo, tienen la obligación de bardear sus negocios, de impedir el abandono de cualquier vehículo en las afueras de su establecimiento y evitar la contaminación del suelo y de la imagen visual del entorno en que estén ubicados, así mismo estos establecimientos se utilizarán exclusivamente como centros de acopio o de recepción, por lo que el material recolectado tendrá que ser trasladado a las bodegas que previamente le hayan sido autorizadas, dentro de las veinticuatro horas con posterioridad a que los hayan recibido.
+Los Ayuntamientos como órganos deliberantes, deberán resolver colegiadamente los asuntos de su competencia, y al efecto, celebrarán sesiones ordinarias, extraordinarias y solemnes que serán públicas, salvo que exista motivo que justifique que éstas sean privadas. Las causas serán calificadas previamente por el Ayuntamiento.
 
 ###### Artículo 36.
 
-Los desarrolladores de fraccionamientos y conjuntos habitacionales de cualquier tipo tienen la obligación de prestar el servicio de recolección de residuos sólidos, mantener limpios los lotes baldíos, las vías y áreas públicas hasta en tanto realicen la entrega oficial al Municipio conforme a la legislación aplicable, sin que ello releve a los vecinos de las obligaciones impuestas en el presente Reglamento.
+Son materia de sesión privada:
 
-Los propietarios, Directores responsables de obra y corresponsables, deberán evitar la diseminación de materiales, escombros y cualquier otra clase de residuos sólidos municipales en la vía pública.
+I.- Los asuntos graves que alteren el orden y la tranquilidad pública del Municipio;
+
+II.- Las comunicaciones que con nota de reservado dirijan al Ayuntamiento, los poderes Legislativo, Ejecutivo y Judicial;
+
+III.- Las solicitudes de licencia y de remoción de servidores públicos municipales que hayan sido nombrados por el Ayuntamiento; y
+
+IV.- Las que el Ayuntamiento así declare por la naturaleza de los puntos a tratar.
 
 ###### Artículo 37.
 
-Queda prohibido depositar o arrojar residuos sólidos o lixiviados a la vía pública, parques, áreas verdes, predios de propiedad privada, federal, estatal, municipal, lotes, solares, pozos, cenotes, sascaberas, alcantarillas y cualquier espacio abierto o cerrado que no haya sido debidamente destinado para ese fin.
+El Ayuntamiento sesionará las veces que indique el Reglamento Interior del Ayuntamiento, pero deberá celebrar cuando menos una sesión ordinaria pública dentro de los primeros diez días de cada mes.
+
+Además por acuerdo del Presidente Municipal o de tres integrantes del Ayuntamiento, el Secretario citará a las sesiones de Cabildo, cuando sea necesario.
 
 ###### Artículo 38.
 
-El usuario deberá cubrir una tarifa especial para desechar los residuos sólidos voluminosos, la cual será previamente autorizada por el Ayuntamiento.
+La citación deberá ser personal, por lo menos con setenta y dos horas de anticipación, contener el orden del día y, en su caso, la información necesaria para el desarrollo de las mismas, así como el lugar, día y hora de la celebración de la sesión.
+
+De no asistir el número de miembros necesarios para celebrar las sesiones, se citará nuevamente en los términos que fije esta Ley y en la forma que establezca el reglamento interior. Si después de esta segunda convocatoria la sesión respectiva no sucediera por falta de quórum, los asuntos para los que se convocaron se turnarán a la inmediata sesión ordinaria siguiente.
+
+El Ayuntamiento celebrará sesiones extraordinarias, cuando la importancia o urgencia del asunto que se trate lo requiera, debiendo citar cuando menos con veinticuatro horas de anticipación.
 
 ###### Artículo 39.
 
-El usuario deberá separar en bolsas y marcar el tipo de residuos sólidos de origen doméstico, cuando se trate de lo siguiente:
-
-I. Pilas;
-
-II. Excrementos de origen animal;
-
-III. Basura sanitaria doméstica;
-
-IV. Solventes;
-
-V. Aerosoles, medicamentos caducados; y
-
-VI. Piezas y componentes de artículos eléctricos y electrónicos.
+Serán solemnes, las sesiones en que se instale el Ayuntamiento, se rinda el informe de la Administración Pública Municipal y aquéllas que acuerde el Ayuntamiento.
 
 ###### Artículo 40.
 
-En ningún caso se podrán utilizar los contenedores públicos peatonales para depositar otros residuos que no sean generados por los transeúntes. Queda prohibido utilizar áreas aledañas a éstos para desechar cualquier tipo de residuo sólido.
+Las sesiones del Ayuntamiento serán válidas con la asistencia de la mitad más uno de la totalidad de los integrantes del Ayuntamiento, debiendo presidirlas el Presidente Municipal. En su ausencia, dirigirá los debates, el Primer Regidor o el subsiguiente en el orden en que fueron electos, auxiliado por el Secretario del Ayuntamiento. Quien presida la sesión, tendrá voto de calidad.
 
 ###### Artículo 41.
 
-Para los efectos de este reglamento se considera predio baldío a todo terreno o fracción de aquel que esté ocioso.
+Las sesiones de los Ayuntamientos se celebrarán en la Sala de Cabildo; y cuando la solemnidad del caso lo requiera, en el recinto previamente declarado oficial para tal objeto.
+
+Cuando asista público a las sesiones observará respeto y compostura, cuidando quien las presida que por ningún motivo tome parte en las deliberaciones del Ayuntamiento, ni exprese manifestaciones que alteren el orden en el recinto.
+
+Quien presida la sesión hará preservar el orden, pudiendo apercibir al público de abandonar el salón, y en caso de reincidencia remitirlo podrá hacer uso de la fuerza pública para imponer el orden, sin perjuicio de las sanciones a que se hagan acreedores.
 
 ###### Artículo 42.
 
-Son obligaciones de los propietarios o poseedores de predios baldíos las siguientes:
+Las sesiones únicamente se podrán suspender por las siguientes causas:
 
-I. Limpiarlos y mantenerlos en óptimas condiciones de higiene al igual que el exterior del inmueble por cada uno de los lados que colinde con la vía pública;
+I.- Cuando se altere gravemente el desarrollo de las mismas, ya sea por desorden provocado por el público asistente o por alguno de los integrantes del Ayuntamiento; y
 
-II. Cercarlos en los linderos a la altura reglamentaria e instalarles una reja de acceso al nivel de la cerca;
+II.- Por decretarse un receso por el Presidente Municipal, o por quien lo supla en la sesión; y
 
-III. Construirles sus aceras a aquellos que estén sobre calles pavimentadas;
-
-IV. Conservar en perfectas condiciones las cercas, rejas y aceras; y
-
-V. Cortar periódicamente las ramas de los árboles que invadan la vía pública predios colindantes.
+III.- Por pérdida del quórum una vez instalada la sesión.
 
 ###### Artículo 43.
 
-Son obligaciones de los propietarios de predios edificados desocupados ubicados en el Municipio, construcciones inconclusas o ruinosas las siguientes:
+Los acuerdos del Ayuntamiento se tomarán por mayoría simple de votos, salvo aquellos en que por disposición de esta Ley o del reglamento respectivo, se exija mayoría absoluta o calificada. En caso de empate el Presidente Municipal tendrá voto de calidad.
 
-I. Limpiarlos y mantenerlos en óptimas condiciones de higiene al igual que el exterior del inmueble por cada uno de los lados que colinde con la vía pública;
-
-II. Cercarlos en los linderos a la altura reglamentaria e instalarles una reja de acceso al nivel de la cerca, si no tuviere muro de fachada;
-
-III. Construirles sus aceras a aquellos que estén sobre calle pavimentada;
-
-IV. Conservar en perfectas condiciones las cercas o muros de fachada, reja y cercas; y
-
-VI. Cortar periódicamente las ramas de los árboles que invadan la vía pública predios colindantes.
+Ningún integrante del Ayuntamiento podrá abstenerse de votar, a no ser que tenga interés personal en el asunto de que se trate. En este caso, la asistencia del integrante del Ayuntamiento se tomará en cuenta para efecto de determinar el quórum.
 
 ###### Artículo 44.
 
-Si los propietarios o poseedores de los predios referidos en esté capítulo no cumplieran con las obligaciones impuestas en el presente reglamento, la Dirección General de Servicios Públicos realizará la limpieza o en su caso construirá las cercas necesarias para delimitar los mismos.
+Para los efectos de esta Ley, se entiende por:
 
-Por la limpieza del predio y por la construcción de las cercas, se cobrará una cuota conforme a costos directos e indirectos que determine el Ayuntamiento.
+I.- Mayoría simple, más de la mitad de votos en el mismo sentido de los integrantes del Ayuntamiento presentes en la sesión;
+
+II.- Mayoría absoluta, más de la mitad de votos en el mismo sentido de la totalidad de los integrantes del Ayuntamiento; y
+
+III.- Mayoría calificada, el voto en el mismo sentido de las dos terceras partes de la totalidad de los integrantes del Ayuntamiento; cuando el resultado de la operación no sea un número entero, se tomará en consideración el número entero superior inmediato que corresponda.
 
 ###### Artículo 45.
 
-El pago de este derecho se enterará a la Tesorería Municipal dentro de los tres días siguientes de que se haya realizado la limpieza y construida la cerca, y se hubiese notificado al propietario o poseedor del predio.
-
-Los derechos determinados que sean notificados y no se cubran en el plazo establecido en este artículo, se convertirán en créditos fiscales y podrán ser exigidos mediante el procedimiento administrativo de ejecución previsto en el Código Fiscal de los Municipios del Estado.
+El desarrollo de las sesiones del Ayuntamiento, se llevará conforme al orden del día que haya sido aprobado, con la posibilidad de tratar asuntos de interés general.
 
 ###### Artículo 46.
 
-El Ayuntamiento de Othón P. Blanco, podrá concesionar de conformidad con lo establecido en la Ley de los Municipios del Estado y el Bando de Policía y Gobierno del Municipio de Othón P. Blanco, total o parcialmente, el servicio público de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos, así como la explotación de los mismos, cuando esté imposibilitado para prestar por sí mismo el servicio o dicha concesión permita una mejor prestación del mismo.
+El desarrollo de las sesiones del Ayuntamiento, se hará constar por el secretario en un libro o folios de actas, en los cuales quedarán anotados en forma extractada, los asuntos tratados y el resultado de la votación. Cuando el acuerdo de Ayuntamiento se refiera a normas de carácter general o informes financieros, se hará constar o se anexarán íntegramente al libro o folios de actas.
+
+En los demás casos, bastará que los documentos relativos al asunto tratado, se agreguen al apéndice del libro o folios de actas.
+
+Las actas de las sesiones de Ayuntamiento, se llevarán por duplicado, el original lo conservará el propio Ayuntamiento y el otro se enviará terminado el período del gobierno municipal, al Archivo General del Estado, para formar parte del acervo histórico de la Entidad.
+
+Las actas deberán ser firmadas por los integrantes del Ayuntamiento que participaron en la sesión y por el secretario del mismo.
 
 ###### Artículo 47.
 
-En caso de concesionarse total o parcialmente el servicio de recolección de residuos sólidos no peligrosos de origen doméstico, a cada concesionario se le delimitarán y asignarán las rutas y zonas de atención exclusiva, en las cuáles tendrán la responsabilidad de prestar el servicio.
+Los Ayuntamientos podrán revocar sus acuerdos por orden judicial o en aquellos casos en que se hayan dictado en contravención a la Ley o hayan desaparecido las causas que lo motivaron, y siguiendo el procedimiento y las formalidades que fueron necesarios para tomar los mismos, en cuyo caso se seguirán las formalidades de ley.
 
-### CAPÍTULO II. DE LAS TECNOLOGÍAS APLICABLES PARA EL TRATAMIENTO Y DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS
+### CAPITULO QUINTO. De la Ética de los Integrantes del Ayuntamiento
 
 ###### Artículo 48.
 
-Los concesionarios quedan obligados a proporcionar de manera oportuna toda la información que el Ayuntamiento de Othón P. Blanco les solicite, a fin de llevar un control y registro de los mismos.
+Los integrantes del Ayuntamiento guardarán el debido respeto y compostura en el recinto oficial, durante las sesiones y en cualquier acto público con motivo de sus funciones, en congruencia con su dignidad de representantes del pueblo.
 
 ###### Artículo 49.
 
-Es obligación de los concesionarios prestar el servicio que satisfaga los niveles de atención, calidad, frecuencia, dentro de los horarios del servicio, en las zonas de recolección exclusiva que le sean otorgadas.
+Los integrantes del Ayuntamiento, se abstendrán de perjudicar o lesionar física o moralmente a cualquier ciudadano.
+
+Asimismo, deberán guardar la reserva correspondiente de los asuntos tratados en las sesiones secretas.
 
 ###### Artículo 50.
 
-Las concesiones para prestar el servicio en sus diferentes rutas y modalidades se podrá (sic) otorgar a mexicanos por nacimiento o sociedades mercantiles constituidas conforme a las leyes respectivas. Cuyo capital en su caso deberá estar representado por acciones nominativas.
+Las peticiones que realicen los integrantes del Ayuntamiento, deberán hacerse con respeto y atendiendo al interés público.
 
-Las personas físicas o sociedades mercantiles, sólo podrán ser titulares de dos concesiones en un mismo o en diferentes servicios.
-
-### CAPÍTULO III. DE LOS SITIOS DE DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS
+### CAPITULO SEXTO. De las Facultades y Obligaciones de los Ayuntamientos
 
 ###### Artículo 51.
 
-Son obligaciones de los concesionarios del servicio público de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos, las siguientes:
+Son facultades y obligaciones de los Ayuntamientos:
 
-I. Prestar el servicio concesionado con eficiencia y eficacia;
+I.- En materia de gobierno y régimen interior:
 
-II. Cubrir a la Tesorería Municipal los derechos que correspondan en términos de las disposiciones fiscales aplicables;
+a) Presentar iniciativas de Ley o decreto al Congreso del Estado, así como emitir opinión sobre las iniciativas de leyes o decretos que incidan en la competencia municipal, cuando así lo requiera el Congreso del Estado.
 
-III. Contar con el personal, equipo e instalaciones suficientes para cubrir las demandas del servicio;
+b) Aprobar los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, que organicen la Administración Pública Municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal de acuerdo con la Constitución Política del Estado de Baja California Sur, esta Ley y las demás leyes en materia municipal que expida el Congreso del Estado.
 
-IV. Exigir a su personal el trato correcto y respetuoso a los usuarios;
+c) Reglamentar en el ámbito de sus atribuciones la autorización, control y vigilancia de la venta y consumo de bebidas alcohólicas conforme a las leyes en la materia tanto locales como federales;
 
-V. Garantizar a los usuarios o a terceros el pago de daños que pudiera causar con motivo del servicio;
+d) Crear y reglamentar los Consejos Municipales de Giros Restringidos de acuerdo a la ley estatal en la materia;
 
-VI. Realizar y conservar en óptimas condiciones, las obras e instalaciones afectadas o destinadas al servicio, así como renovar y modernizar el equipo necesario para su prestación, conforme a los adelantos técnicos;
+e) Fijar las bases para la elaboración del plan de desarrollo municipal y participar en la formulación de planes y proyectos de desarrollo regional, cuando los elabore la Federación o el Estado, los cuales deberán estar en concordancia con los planes generales de la materia.
 
-VII. Cumplir con los horarios aprobados por el Ayuntamiento para la prestación del servicio;
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2011)</small>
 
-VIII. Exhibir en lugar visible, en forma permanente las tarifas o cuotas autorizadas por el Ayuntamiento y sujetarse a las mismas;
+f) Aprobar y expedir la convocatoria para la designación de Delegados municipales, la que será mediante consulta ciudadana;
 
-IX. Otorgar garantía a favor del Municipio;
+g) Remover a los delegados municipales, en los términos que señala esta Ley;
 
-X. Iniciar la prestación del servicio dentro del plazo que fije el título de concesión;
+h) Aprobar anualmente, el informe del estado que guarda la Administración Pública Municipal, que será rendido por conducto del Presidente Municipal en sesión pública y solemne, mismo que deberá ser entregado previamente al Cabildo para su análisis discusión y aprobación en su caso, con veinte días naturales de anticipación a la fecha del informe;
 
-XI. Permitir a las autoridades municipales la inspección de las unidades recolectoras, así como de las instalaciones, documentación relacionada con el servicio concesionado y libros de contabilidad y documentos que respalden sus estados financieros;
+i) Conceder licencia para separarse de sus cargos al Presidente Municipal, síndicos y regidores, por un término mayor de quince días naturales;
 
-XII. Participar coordinadamente con la autoridad municipal en proyectos y programas relacionados con la separación de residuos sólidos municipales;
+j) Nombrar y remover al contralor, en los términos de esta Ley;
 
-XIII. Registrarse en el padrón que al efecto lleve la Dirección General de Servicios Públicos;
+k) Crear o suprimir las Direcciones necesarias para el buen desempeño de las actividades propias de la Administración Publica Municipal, considerando las condiciones sociales, económicas y políticas del municipio, en los términos de esta Ley;
 
-XIV. Realizar el adecuado mantenimiento preventivo y correctivo de los contenedores de su propiedad, evitando en todo momento fisuras, fugas o escape de olores;
+l) Promover el desarrollo del personal, estableciendo los términos y condiciones para crear y asegurar su permanencia de acuerdo con el servicio civil de carrera;
 
-XV. Descargar los residuos sólidos municipales que recolecten, exclusivamente en los sitios de disposición final autorizados por el Ayuntamiento;
+m) Ordenar la comparecencia de cualquier servidor público municipal, para que informe sobre los asuntos de su competencia;
 
-XVI. Llevar una bitácora en la que se indique el volumen de residuos sólidos municipales recolectados por día;
+n) Otorgar concesiones para el uso, aprovechamiento y explotación de los bienes inmuebles del dominio público municipal, así como de los servicios públicos;
 
-XVII. Transportar residuos sólidos municipales en vehículos recolectores, los cuáles deberán mantener en condiciones de seguridad e higiene y en aptitud para el servicio;
+o) Organizar cursos, seminarios y programas tendientes a eficientar el cumplimiento de las funciones de los integrantes del Ayuntamiento y demás servidores públicos municipales;
 
-XVIII. Rotular con la razón social y datos personales de la empresa prestadora del servicio, los vehículos que se utilicen para el servicio público de recolección;
+p) Constituir o participar en empresas descentralizadas y Fideicomisos;
 
-XIX. Establecer dentro del territorio municipal sus oficinas administrativas y su domicilio fiscal;
+q) Acordar la división territorial municipal en delegaciones, subdelegaciones, colonias, sectores y manzanas;
 
-XX. Abstenerse de realizar actos que impliquen competencia desleal a otros concesionarios; y
+r) Acordar, en su caso, la categoría y denominación política que les corresponda a las localidades, conforme a esta Ley;
 
-XXI. Las demás que establezca, el presente Reglamento y disposiciones legales aplicables.
+s) Convocar a elección de delegados municipales;
 
-### CAPÍTULO IV. DE LA DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS EN EL RELLENO SANITARIO
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2014)</small>
+
+t) Designar en el ámbito de sus respectivas competencias al titular de la Coordinación Municipal de Derechos Humanos, y crear la Coordinación Municipal para la Inclusión de las Personas con Discapacidad;
+
+II.- En materia de obra pública y desarrollo urbano:
+
+a) Acordar la división territorial del Municipio, determinando las categorías políticas y su denominación;
+
+b) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como planear y regular de manera conjunta y coordinada con la Federación, el Gobierno de Estado y los Ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a las leyes de la materia;
+
+c) Constituir los órganos de Planeación municipal que corresponda a sus intereses, de acuerdo al Reglamento de la Administración Publica Municipal de cada Municipio;
+
+d) Establecer y aplicar los sistemas de actualización, ejecución, seguimiento y evaluación del Plan de Desarrollo Municipal y sus respectivos programas, apoyados por los órganos a que se refiere el inciso inmediato anterior;
+
+e) Intervenir en la regularización de la tenencia de la tierra en el ámbito de su competencia;
+
+f) Aprobar la apertura o ampliación de las vías públicas y decretar la nomenclatura de calles, plazas y jardines públicos, así como el alineamiento y numeración oficial de avenidas y calles, conforme al reglamento respectivo, dando aviso a los organismos correspondientes;
+
+g) Acordar el destino o uso de los bienes inmuebles de propiedad municipal;
+
+h) Solicitar al Ejecutivo del Estado, la expropiación de bienes por causa de utilidad pública;
+
+i) Preservar, conservar y restaurar el medio ambiente en el Municipio y participar en la creación y administración de sus reservas territoriales y ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+j) Aprobar el programa de obra pública; así como convenir y contratar la ejecución de obra pública, de conformidad con la Ley en la materia;
+
+k) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales; otorgar licencias y permisos para construcciones privadas;
+
+III.- En materia de servicios públicos:
+
+a) Prestar servicios públicos a los habitantes del Municipio;
+
+b) Instrumentar los mecanismos necesarios como programas de financiamiento, para ampliar la cobertura y mejorar la prestación de los servicios públicos;
+
+c) Garantizar la seguridad pública en el territorio municipal;
+
+d) Intervenir en los términos de las leyes de la materia, en la formulación y aplicación de los programas de transporte público de pasajeros, cuando afecten su ámbito territorial; y
+
+e) Convenir, contratar o concesionar, en términos de ley, la ejecución de obras y la prestación de servicios públicos, con el Estado, con otros municipios de la entidad o con particulares, recabando, cuando proceda, la autorización de la Legislatura del Estado;
+
+IV.- En materia de hacienda pública municipal:
+
+a) Administrar libremente su hacienda publica municipal;
+
+b) Presentar al Congreso del Estado a más tardar el día 15 de septiembre de cada año, la iniciativa de Ley de Ingresos, que deberá regir durante el año siguiente.
+
+Dichas Leyes de Ingresos deberán incluir, en los diferentes conceptos de ingresos a recaudar, los montos probables o aproximados de cada uno de ellos que permita la operación de los servicios públicos.
+
+c) Elaborar anualmente su presupuesto de Egresos. Al aprobar su presupuesto de egresos, deberán señalar la remuneración de todo tipo que corresponda a un empleo, cargo o comisión de cualquier naturaleza. Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a los lineamientos legales establecidos para todos los servidores públicos municipales.
+
+d) Proponer al Congreso del Estado en términos de Ley, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. Asimismo, aprobar el pronóstico de ingresos remitiendo al Congreso del Estado copia certificada de los mismos;
+
+e) Determinar la forma en que el tesorero y demás servidores públicos que manejen caudales públicos municipales, deban caucionar suficientemente su manejo;
+
+f) Aprobar, por acuerdo de mayoría calificada del Ayuntamiento, la contratación de empréstitos en los términos de la Ley de Deuda Pública para el Estado y los Municipios;
+
+g) Conocer los informes mensuales contables y financieros, que presente la Tesorería municipal;
+
+h) Desafectar por acuerdo de mayoría calificada del Ayuntamiento, los bienes del patrimonio inmobiliario municipal, cuando éstos dejen de destinarse al uso común o al servicio público y así convenga al interés público;
+
+i) Emitir las normas generales para la aprobación de adquisiciones, enajenaciones, arrendamientos y contratación de servicios de bienes muebles e inmuebles;
+
+j) Aprobar los movimientos de altas y bajas, registrados en el padrón de bienes muebles e inmuebles de propiedad municipal;
+
+Conocer los informes contables y financieros anuales dentro de los tres meses siguientes a la terminación del ejercicio presupuestal que presentará el tesorero con el visto bueno del síndico;
+
+V.- En materia de participación social, desarrollo social, asistencial y económico, salud pública, educación y cultura:
+
+a) Promover el desarrollo económico, social, educativo, cultural y recreativo del Municipio;
+
+b) Promover y apoyar los programas estatales y federales de capacitación y organización para el trabajo;
+
+c) Organizar y promover la instrucción cívica, que fomente entre los habitantes del Municipio, el conocimiento de sus derechos y obligaciones;
+
+d) Promover y procurar la salud pública del Municipio;
+
+e) Promover y aprobar programas tendientes a prevenir y combatir el alcoholismo;
+
+f) Auxiliar a las autoridades sanitarias en la programación y ejecución de las disposiciones sobre la materia;
+
+g) Proteger y preservar el patrimonio cultural;
+
+h) Impartir la educación, en los términos previstos en las leyes Federal y Estatal de Educación;
+
+i) Formular programas de organización y participación social, que permitan una mayor cooperación entre autoridades y habitantes del Municipio;
+
+j) Promover la participación de los diferentes sectores organizados del Municipio y de habitantes interesados en la solución de la problemática municipal, para la estructura del plan de desarrollo municipal;
+
+k) Promover la organización de asociaciones de habitantes y elaborar procedimientos de consulta, de acuerdo a lo establecido por esta Ley y demás ordenamientos legales aplicables;
+
+l) Contar con un registro del acontecer histórico local y nombrar al cronista municipal quien será el encargado de dicho registro, además quien preserve y fomente la identidad de los pobladores con su municipio y con el Estado y que supervise el archivo de los documentos históricos municipales;
+
+m) Promover la atención para el desarrollo integral de la mujer, para lograr su incorporación plena y activa en todos los ámbitos; y
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2015)</small>
+
+n) Promover y establecer las medidas o programas tendientes a fortalecer los valores de la familia, el respeto, y la igualdad entre los habitantes del municipio.
+
+VI.- Las demás que le confieran las leyes y reglamentos para el cumplimiento de sus funciones.
+
+### CAPITULO SÉPTIMO. De los Integrantes de los Ayuntamientos
 
 ###### Artículo 52.
 
-El interesado en obtener una concesión para la prestación del servicio público de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos, previa convocatoria, deberá por sí mismo o a través de su representante legal, presentar su solicitud por escrito ante la Presidencia Municipal, misma en la que deberá incluir los datos y documentos que a continuación se mencionan:
+Son integrantes o miembros del Ayuntamiento:
 
-I. Nombre completo, edad, nacionalidad y domicilio del solicitante;
+I. El Presidente Municipal;
 
-II. Presentar documentos que acrediten su nacionalidad mexicana por nacimiento;
+II. El Síndico; y
 
-III. Acreditar documentalmente que dispone de los elementos necesarios para prestar el servicio que solicita en concesión;
+III. Los Regidores.
 
-IV. Acreditar satisfactoriamente su capacidad económica y estar en condiciones de otorgar garantías del cumplimiento de las obligaciones provenientes de la concesión que solicita; y
+El Ayuntamiento se regirá conforme al Reglamento Interior, cuyo objeto será regular su funcionamiento estableciendo los procesos para que los integrantes del mismo, se desenvuelvan de manera eficiente y tomen decisiones debidamente normadas.
 
-V. Tratándose de personas morales, la empresa solicitante deberá acreditar estar constituida conforme a las leyes de nuestro país y en caso de contar con socios extranjeros, hacer la manifestación formal de que para los efectos legales se consideran nacionales respecto de la concesión que solicitan, obligándose a no invocar la protección de sus gobiernos bajo pena de perder en beneficio del Municipio las inversiones que hubiere hecho con motivo de la prestación del servicio.
+#### SECCIÓN I. De las Facultades y Obligaciones del Presidente Municipal
 
 ###### Artículo 53.
 
-La garantía que deberá otorgar el concesionario, será la que a juicio del Ayuntamiento sea suficiente para asegurar el cumplimiento de las obligaciones derivadas de la concesión y en la que se incluirá el pago de responsabilidades provenientes por la inobservancia de este reglamento, y demás disposiciones legales aplicables en el Municipio; las relativas a proporcionar los servicios en condiciones adecuadas de continuidad, regularidad e higiene; igualmente las que se deriven de accidentes.
+El Presidente Municipal tendrá las siguientes facultades y obligaciones:
+
+I.- Ejecutar las determinaciones del Ayuntamiento y coordinar la Administración Pública Municipal;
+
+II.- Cumplir y hacer cumplir las leyes, reglamentos, bandos de policía y buen gobierno, y demás disposiciones legales del orden municipal, estatal y federal;
+
+III.-Presidir las sesiones del Ayuntamiento, en las que tendrá en caso de empate, además de su voto individual, el de calidad;
+
+IV.- Representar al Ayuntamiento en todos los actos oficiales y delegar, en su caso, esta representación;
+
+V.- Presentar al Ayuntamiento iniciativas de reglamentos, bandos y demás disposiciones administrativas de observancia general o de reformas y adiciones en su caso;
+
+VI.- Promulgar y ordenar la publicación en el Boletín Oficial del Gobierno del Estado, de los reglamentos, bandos de policía y buen gobierno, acuerdos y demás disposiciones administrativas de observancia general, aprobados por el Ayuntamiento;
+
+VII.- Conducir las relaciones del Ayuntamiento con los poderes federales, estatales y con otros Ayuntamientos;
+
+VIII.- Eficientar la prestación de los servicios públicos municipales;
+
+IX.- Vigilar que la recaudación de las contribuciones y demás ingresos propios del Municipio, se realicen conforme a las leyes aplicables;
+
+X.- Supervisar la administración, registro, control, uso, mantenimiento y conservación del patrimonio municipal;
+
+> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+XI.- Rendir, en Sesión Pública Solemne, durante el plazo del día primero de septiembre al treinta de noviembre de cada año, el informe anual aprobado por el Ayuntamiento sobre el estado que guarda la Administración Pública Municipal; en el último año de la Administración Pública Municipal, lo deberá rendir entre el día primero y el nueve de septiembre.
+
+XII.- Convocar por conducto del Secretario, a las sesiones de Ayuntamiento, conforme al reglamento interior;
+
+XIII.- Suscribir a nombre y con autorización del Ayuntamiento, los convenios, contratos y demás actos jurídicos que sean necesarios;
+
+XIV.- Proponer al Ayuntamiento, las personas que deban ocupar los cargos de secretario, tesorero, contralor y oficial mayor y a los titulares de las dependencias y entidades de la Administración Pública Municipal así como a los subdelegados de las demarcaciones territoriales del municipio;
+
+XV.- Conceder o negar licencias a todos los servidores públicos municipales no previstos en la fracción anterior;
+
+XVI.- Promover la educación cívica y la celebración de ceremonias públicas, conforme al calendario cívico oficial;
+
+XVII.- Vigilar que se integren y funcionen las dependencias y entidades de la Administración Pública Municipal;
+
+XVIII.- Imponer las sanciones que correspondan, por violación a esta Ley, a los reglamentos, bandos de policía y buen gobierno, acuerdos y demás disposiciones administrativas de observancia general. Esta facultad podrá ser delegada;
+
+XIX.- Vigilar que el gasto público municipal, se realice conforme al presupuesto de egresos aprobado por el Ayuntamiento;
+
+XX.- Tener bajo su mando, los cuerpos de seguridad pública, policía preventiva y tránsito municipal, en los términos de la Ley de la materia; con excepción de las facultades que se reservan al Gobernador del Estado en los casos de fuerza mayor o alteración grave del orden público como corresponda.
+
+XXI.- Solicitar autorización del Ayuntamiento, para ausentarse del Municipio por más de quince días;
+
+XXII.- Coadyuvar con las autoridades federales y estatales en el ejercicio de sus atribuciones;
+
+XXIII.- Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados o descentralizados y fideicomisos que formen parte de la estructura administrativa;
+
+> <small>(REFORMADA, B.O. 3 DE MARZO DE 2009)</small>
+
+XXIV.- Expedir constancias de posesión y explotación de terrenos nacionales y terrenos que se encuentren dentro de las reservas territoriales del Municipio, previa consulta a Catastro, Registro Público de la Propiedad y del Comercio y a la autoridad Delegacional o Subdelegacional Municipal que corresponda, quienes deberán levantar un acta circunstanciada misma que será integrada al expediente, según sea el caso de la zona donde se encuentre ubicado el predio señalado por el o la solicitante.
+
+Al realizar la solicitud de las constancias a que refiere el párrafo que antecede, los y las solicitantes deberán presentar dos testigos quienes bajo protesta de decir verdad, harán constar el nombre de la o el posesionario, superficie, colindancia y tiempo de la posesión y explotación del predio, y deberán presentar identificación oficial con fotografía.
+
+La vigencia de la constancia será de un año, contado a partir de la fecha de su expedición;
+
+> <small>(ADICIONADA, B.O. 3 DE MARZO DE 2009)</small>
+
+XXV.- Las demás que le señalen esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 54.
 
-El otorgamiento de las concesiones obliga a sus titulares a la prestación directa del servicio y no podrán ser objeto de embargo, comodato, usufructo o arrendamiento, ni gravadas: e hipotecadas.
+Para el cumplimiento de sus funciones, el Presidente Municipal se auxiliará de los demás integrantes del Ayuntamiento, así como de los órganos administrativos y comisiones que esta Ley establezca.
 
 ###### Artículo 55.
 
-Las concesiones otorgan a su titular los siguientes derechos:
-
-I. Prestar el servicio de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos en su modalidad de concesionado;
-
-II. Presentar al Ayuntamiento para su aprobación el modelo de contrato que regulará la relación entre el concesionario y los usuarios;
-
-III. Suscribir los contratos de servicio con sus usuarios;
-
-IV. Cobrar a sus usuarios las tarifas aprobadas; y
-
-V. Proponer a las autoridades medidas que tiendan a mejorar el servicio y el aprovechamiento óptimo de sus equipos e instalaciones.
+El Presidente asumirá la representación jurídica del Ayuntamiento en los litigios, cuando el síndico esté ausente, se niegue a hacerlo o esté impedido legalmente para ello.
 
 ###### Artículo 56.
 
-La resolución de revocación o caducidad de una concesión, operará sin perjuicio de la aplicación de otras sanciones a que se haga acreedor el infractor.
+Los Presidentes Municipales no podrán:
+
+I. Distraer los fondos y bienes municipales de los fines a que estén destinados;
+
+II. Imponer contribución o sanción alguna que no esté señalada en la Ley de Ingresos u otras disposiciones legales;
+
+III. Juzgar los asuntos relativos a la propiedad o posesión de bienes muebles o inmuebles o en cualquier otro asunto de carácter civil, ni decretar sanciones o penas en los de carácter penal;
+
+IV. Ausentarse del municipio sin licencia del Ayuntamiento, por más de 10 días;
+
+V. Cobrar personalmente o por interpósita persona, multa o contribución alguna, o consentir o autorizar que oficina distinta a la tesorería municipal, conserve o tenga fondos municipales;
+
+VI. Utilizar a los servidores públicos municipales para asuntos particulares;
+
+VII. Residir durante su gestión fuera del territorio municipal.
+
+VIII. Conceder cualquier tipo de descuento que cause perjuicio al erario municipal.
+
+#### SECCIÓN II. De las Facultades y Obligaciones del Síndico
 
 ###### Artículo 57.
 
-El almacenamiento de residuos debe ser temporal. El generador tiene la obligación de dar a sus residuos, cualesquiera de los destinos previstos en este Reglamento.
+Los Síndicos tendrán las siguientes facultades y obligaciones:
+
+I.- Procurar, defender y promover los intereses municipales;
+
+II.- Representar legalmente al Ayuntamiento, en los litigios en que éste sea parte y delegar esta representación;
+
+III.- Presentar al Ayuntamiento iniciativas de reglamentos, bandos de policía y buen gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos;
+
+IV.- Asistir a los remates públicos en los que tenga interés el Municipio;
+
+V.- Vigilar que la cuenta pública municipal, se integre en la forma y términos previstos en las disposiciones aplicables y se remita en tiempo al Congreso del Estado;
+
+VI.- Desempeñar las comisiones que le encomiende el Ayuntamiento, informando su resultado;
+
+VII.- Asistir puntualmente a las sesiones del Ayuntamiento, teniendo voz y voto;
+
+VIII.- Solicitar y obtener del tesorero, la información relativa a la hacienda pública, al ejercicio del presupuesto y al patrimonio municipal;
+
+IX.- Intervenir en la formulación del inventario general de los bienes muebles e inmuebles propiedad del municipio, haciendo que se inscriban en el libro especial, con expresión de sus valores y de todas las características de identificación, así como el uso y destino de los mismos;
+
+X.- Regularizar la propiedad de los bienes inmuebles municipales, para ello tendrán un plazo de noventa días hábiles, contados a partir de la adquisición;
+
+XI.- Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad, para iniciar los trámites correspondientes tendrán un plazo de noventa días hábiles contados a partir de aquel en que concluyó el proceso de regularización;
+
+XII.- Revisar y firmar los Cortes de Caja de la Tesorería Municipal y cuidar que la aplicación de los gastos se haga llenando todos los requisitos legales y conforme al Presupuesto respectivo.
+
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
+
+XIII.- Asistir a las visitas de inspección que se hagan a la Tesorería Municipal, y hacer que oportunamente se rinda a la Auditoría Superior del Estado de Baja California Sur la Cuenta del Gasto Público del año anterior.
+
+XIV.- Las demás que le señalen esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 58.
 
-Los residuos sólidos deberán estar almacenados en bolsas de plástico cerradas y contenedores tapados.
+El Síndico por si solo no puede desistirse, transigir, comprometer en árbitros ni hacer cesión de bienes municipales, salvo autorización expresa que en cada caso le otorgue el Ayuntamiento. El Síndico no tendrá facultades ejecutivas, pero podrá consensar el caso respectivo con el Presidente Municipal.
 
 ###### Artículo 59.
 
-Todo tipo de contenedor sea público o privado, deberá mantenerse en condiciones sanitarias e higiénicas adecuadas y tapado.
+Para el desempeño de las actividades encomendadas al Síndico, contara con asesoría profesional tanto en las áreas jurídicas como contables.
+
+#### SECCIÓN III. De las Facultades y Obligaciones de los Regidores
 
 ###### Artículo 60.
 
-La limpieza de los contenedores será responsabilidad del propietario, poseedor o responsable de los mismos.
+Son facultades y obligaciones de los regidores, las siguientes:
+
+I.- Asistir puntualmente a las sesiones que celebre el Ayuntamiento, teniendo en ellas voz y voto;
+
+II.- Suplir al Presidente Municipal en sus faltas temporales, en los términos establecidos por esta Ley;
+
+III.- Vigilar los ramos de la administración que les encomiende el Ayuntamiento y los programas respectivos, proponiendo las medidas que estimen procedentes;
+
+IV.- Presentar al Ayuntamiento, iniciativas de reglamentos, bandos de policía y buen gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos;
+
+V.- Vigilar la correcta observancia de los acuerdos y disposiciones del Ayuntamiento;
+
+VI.- Cumplir las funciones correspondientes a su cargo y las inherentes a las comisiones de que formen parte, informando al Ayuntamiento de sus gestiones;
+
+VII.- Solicitar y obtener del tesorero, la información relativa a la hacienda pública, al ejercicio del presupuesto y al patrimonio municipal;
+
+VIII.- Solicitar y obtener de los demás titulares de las dependencias y entidades de la Administración Pública Municipal, la información necesaria para el cumplimiento de sus funciones;
+
+IX.- Proponer al Ayuntamiento, las acciones convenientes para el mejoramiento de los servicios públicos y para el desarrollo del Municipio;
+
+X.- Participar responsablemente en las comisiones conferidas por el Ayuntamiento y aquéllas que le designe en forma concreta el Presidente Municipal;
+
+XI.- Promover la participación ciudadana en apoyo a los programas que formule y apruebe el Ayuntamiento;
+
+XII.- Las demás que les señalen esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 61.
 
-Es responsabilidad del usuario del servicio de recolección mantener resguardados de la lluvia los contenedores de almacenamiento de residuos sólidos que genere.
+Los Regidores por si solos no tendrán, en ningún caso, facultades ejecutivas sino meramente legislativas y de gestión social.
 
-### CAPÍTULO I. DEL PROCEDIMIENTO DE INSPECCIÓN Y VIGILANCIA
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO OCTAVO. De las Comisiones Edilicias
 
 ###### Artículo 62.
 
-Los usuarios que desechen cajas de cartón deberán desarmarlas con el objeto de que ocupen el menor espacio posible, tratándose de establecimientos comerciales o industriales que desechen cajas de cartón, deberán formar atados que no excedan de veinte kilogramos de peso y depositarlas a un costado de los contenedores que utilicen.
+El Ayuntamiento a propuesta del Presidente Municipal, podrá aprobar la integración de nuevas comisiones edilicias permanentes que se estimen necesarias para el desempeño de sus funciones además de las contempladas en el artículo 66 de la presente ley.
+
+Para formular la propuesta de los integrantes de cada Comisión, el Presidente Municipal tomará en cuenta el conocimiento, profesión y vocación de los integrantes del Ayuntamiento, escuchando su opinión.
 
 ###### Artículo 63.
 
-La capacidad máxima de un contenedor de uso particular, deberá ser de doscientos litros o su equivalente.
+Las comisiones tendrán por objeto el estudio, dictamen y propuestas de solución a los asuntos de las distintas ramas de la Administración Pública Municipal.
 
 ###### Artículo 64.
 
-Las personas físicas o morales que almacenen residuos sólidos con un volumen mayor a cinco tambores de doscientos litros o su equivalente, deberán permitir el acceso vehicular del prestador del servicio al sitio destinado para su almacenamiento. En el caso de que el acceso vehicular dificulte las maniobras de recolección el propietario o poseedor del inmueble será el responsable de sacarlos a la vía pública a fin de que estos sean recolectados.
+Las comisiones se integrarán de manera colegiada por un presidente y dos secretarios; asimismo, el Ayuntamiento podrá acordar la designación de comisionados para la atención de los asuntos de competencia municipal.
 
 ###### Artículo 65.
 
-Los propietarios de los contenedores están obligados a reponerlos en caso de rotura o cuando por alguna deformación no cierren o exista alguna saliente que represente un riesgo para la salud.
+Solo por causas graves calificadas por las dos terceras partes de los miembros del Ayuntamiento, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento.
 
 ###### Artículo 66.
 
-Queda prohibido depositar, arrojar animales muertos, desperdicios de cualquier tipo en la vía pública, lotes baldíos, terrenos de la ciudad, parques, jardines, calles y banquetas, camellones, playas y en general cualquier sitio público, la persona que sea sorprendida contraviniendo esta disposición se hará acreedora a las sanciones que marca este Reglamento.
+El Ayuntamiento establecerá cuando menos las siguientes:
+
+I. Comisiones Permanentes:
+
+a) De Gobernación, Seguridad Pública y Tránsito, cuyo responsable será el Presidente Municipal;
+
+b) De Hacienda, Patrimonio y Cuenta pública, cuyo responsable será el Síndico;
+
+c) De Obras Pública (sic) y Asentamientos Humanos, Catastro y Registro Publico de la Propiedad;
+
+d) De Desarrollo Urbano, Ecología y Medio Ambiente;
+
+f) De Equidad y Bienestar Social;
+
+g) De Educación, Cultura, Recreación y Deporte;
+
+h) De Desarrollo Rural y Económico;
+
+i) De Estudios Legislativos y Reglamentarios;
+
+j) De Nomenclaturas Oficiales;
+
+k) De Servicios Públicos;
+
+l) De Transporte Público;
+
+m) De saneamiento, agua potable y alcantarillado;
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2014)</small>
+
+n) De Derechos Humanos e Inclusión de las Personas con Discapacidad.
+
+o) Las demás que determine y apruebe el Ayuntamiento, de acuerdo con las necesidades de cada Municipio.
+
+II. Serán comisiones especiales, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el Ayuntamiento, coordinadas por el responsable del área competente.
+
+Las funciones de las comisiones tanto permanentes como especiales estarán normadas por el reglamento a que se refiere el primer párrafo del artículo 52 de esta Ley.
 
 ###### Artículo 67.
 
-Los usuarios de este servicio deberán sacar los desechos sólidos y depositarlos en los lugares días y horas señalados por la Dirección General de Servicios Públicos.
+Las comisiones, para el cumplimiento de sus fines, podrán celebrar reuniones públicas en las localidades del municipio, para recabar la opinión de sus habitantes. Asimismo, en aquellos casos en que sea necesario, podrán solicitar asesoría externa especializada.
 
 ###### Artículo 68.
 
-Podrán instalarse plantas de tratamiento ya sea de separación, composta, recuperación, reciclaje y de disposición final de residuos sólidos previamente autorizados por la Dirección General de Desarrollo Urbano, Medio Ambiente y Obras Públicas.
+Las comisiones podrán llamar a comparecer a los titulares de las dependencias administrativas municipales a efecto de que les informen, cuando así se requiera, sobre el estado que guardan los asuntos de su dependencia.
 
 ###### Artículo 69.
 
-La construcción de plantas de tratamiento, separación, composta, recuperación, reciclaje y disposición final de residuos sólidos, deberá cumplir con toda la normatividad aplicable en materia ambiental y salud pública, de asentamientos humanos, de desarrollo urbano, reglamentos y demás normas aplicables.
+Las comisiones del Ayuntamiento carecen de facultades ejecutivas. Los asuntos y acuerdos que no estén señalados expresamente para una comisión quedarán bajo la responsabilidad del Presidente Municipal.
 
-### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO NOVENO. Suplencia de los Integrantes del Ayuntamiento
 
 ###### Artículo 70.
 
-El almacenamiento de residuos sólidos en los sitios donde no se preste el servicio de recolección a domicilio, se realizará por medio de contenedores ubicados en las localidades que especifique la Dirección General de Servicios Públicos.
+Los integrantes del Ayuntamiento necesitan licencia del mismo, para separarse temporalmente del ejercicio de sus funciones.
+
+Dichas licencias temporales no excederán de quince días, o que excediendo este plazo, sean debido a causa justificada calificada por el Ayuntamiento.
 
 ###### Artículo 71.
 
-Queda prohibido el almacenamiento, acumulación o apilamiento de cualquier tipo de material en sitios distintos a los autorizados por el Ayuntamiento, a fin de evitar reacciones químicas o biológicas que atenten contra la salud pública y el equilibrio ecológico.
+Las faltas temporales del Presidente Municipal, las cubrirá el primer regidor, y en ausencia de éste, el que le siga en número.
 
-### CAPÍTULO III. DEL RECURSO
+Las faltas de los miembros del Ayuntamiento no se cubrirán, cuando no excedan de dos sesiones ordinarias consecutivas y haya el número suficiente de miembros que marca la ley para que los actos del Ayuntamiento tengan validez; cuando no haya ese número, o las faltas excedieran el plazo indicado, se llamará al suplente respectivo el cual estará concluirá (sic) el periodo para el cual fue electo el propietario.
+
+### CAPITULO DÉCIMO. De la Desaparición de Ayuntamientos
 
 ###### Artículo 72.
 
-Las industrias tienen la obligación de transportar sus desechos a los lugares de disposición final de basura, previa observancia del método establecido por la Dirección General de Servicios Públicos, obteniendo la autorización correspondiente.
+Corresponde al Congreso del Estado, declarar la desaparición de Ayuntamientos, en términos de lo que ordena la Constitución Política del Estado de Baja California Sur.
 
 ###### Artículo 73.
 
-El servicio de recolección de residuos sólidos en la ciudad de Chetumal, tendrá una frecuencia mínima de dos veces por semana.
+Son causas de desaparición de un Ayuntamiento:
+
+I.- Incurrir en violaciones graves y reiteradas a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado;
+
+II.- La ausencia de la mayoría de los integrantes, tanto propietarios como suplentes, de manera que no pueda integrarse;
+
+III.- La renuncia calificada por el Congreso del Estado o la Diputación Permanente, en los términos previstos por el artículo 144 de la Constitución Política Local, de la mayoría de sus integrantes y no pueda integrarse aún con los suplentes;
+
+IV.- La declaratoria de procedencia por el Congreso del Estado, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California Sur y de la Ley Reglamentaria del Poder Legislativo, respecto de la mayoría de los integrantes y no pueda integrarse éste, aún con los suplentes; y
+
+V.- Por actos u omisiones de los integrantes del Ayuntamiento, que provoquen una situación grave y permanente, que impida el ejercicio de las funciones del Ayuntamiento, conforme al orden constitucional federal o local.
 
 ###### Artículo 74.
 
-Las brigadas de aseo de la Dirección General de Servicios Públicos serán las encargadas de la recolección de residuos sólidos en los sitios en donde se preste el servicio de recolecta a domicilio.
+La petición para que el Congreso del Estado declare la desaparición de un Ayuntamiento o Concejo municipal, podrá ser formulada por cualquier ciudadano del Municipio, pero deberá acompañarse de las pruebas idóneas que sustenten la misma.
 
 ###### Artículo 75.
 
-Es responsabilidad de los prestadores del servicio el buen manejo de los contenedores de basura que les sean entregados por los usuarios.
+El procedimiento para decretar la desaparición de un Ayuntamiento, se sujetará a lo dispuesto por la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur.
 
 ###### Artículo 76.
 
-Es obligación de los prestadores del servicio de recolección, recoger los residuos sólidos de los habitantes de los callejones, calles cerradas, privadas o de cualquier otra área inaccesible a los vehículos de recolección.
+En el caso de desaparición de un Ayuntamiento, el Congreso del Estado designará un Concejo municipal, que funcionará hasta concluir el período respectivo.
+
+Si la desaparición del Ayuntamiento se declara dentro del primer año del Ejercicio de éste, el Consejo Municipal tendrá el carácter de provisional y se convocará a nueva elección de Ayuntamiento, que se deberá efectuar en el término de cuarenta y cinco días, aplicándose para el efecto, las disposiciones establecidas en la Constitución Política y la Ley Electoral del Estado, en lo conducente.
+
+Dichos consejos municipales, ejercerán las atribuciones que la Ley establece para los Ayuntamientos y se integrarán con igual número de miembros, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
+
+Para cubrir las faltas o ausencias temporales de alguno de los integrantes del Consejo, se aplicará en lo conducente, lo dispuesto por la presente Ley, para los miembros del Ayuntamiento.
+
+Con excepción del Presidente, cuando por cualquier causa alguno de los integrantes del Consejo, dejare de desempeñar su cargo, éste será ocupado por su suplente; a falta de ambos, el Congreso del Estado, nombrará a quien deba ocuparlo. En todo caso, la persona designada, deberá cubrir los requisitos que para ser regidor establezca la Ley.
 
 ###### Artículo 77.
 
-La Dirección General de Servicios Públicos no recolectará desechos sólidos contagiosos provenientes de hospitales y clínicas; estos deberán ser incinerados en el mismo lugar donde se originen, según el sistema que se determine para este efecto.
+Los integrantes del Concejo municipal designado, rendirán su protesta, en el lugar, día y hora que fije el Congreso del Estado, en los mismos términos que prevé esta Ley para la instalación del Ayuntamiento.
+
+### CAPITULO DÉCIMO PRIMERO. De la Suspensión o Revocación del Mandato de los Integrantes del Ayuntamientos
 
 ###### Artículo 78.
 
-Los restos de desechos de jardinería deberán ser almacenados en bolsas de plástico que faciliten su manejo. En el caso de las ramas delgadas éstas deberán cortarse en tramo de un metro y amarrarse para su manejo.
+El Congreso del Estado, podrá declarar la suspensión o revocación del mandato de alguno o algunos de los integrantes del Ayuntamiento o Concejo municipal, por las causas establecidas en el presente capítulo, debidamente sustentadas por pruebas idóneas.
 
 ###### Artículo 79.
 
-Los troncos y ramas gruesas, para los efectos de este Reglamento, se considerarán como desechos voluminosos. Estos deberán ser amarrados en tramos de dos metros sin que excedan de setenta kilogramos de peso.
+Es causa de suspensión del mandato, la declaración de procedencia dictada por el Congreso del Estado, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur.
 
 ###### Artículo 80.
 
-Los desechos voluminosos deberán ser almacenados en un lugar donde no se interfiera con el aspecto estético de la zona, hasta el día en que la Dirección General de Servicios Públicos designe su recolección.
+Son causas de revocación del mandato:
+
+I.- Las violaciones graves y reiteradas a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado y a las leyes que de ellas emanen;
+
+II.- Dejar de asistir sin causa justificada a cinco sesiones ordinarias del Ayuntamiento o Concejo Municipal en forma continua y hasta siete durante un período de siete meses;
+
+III.- Violar en forma grave y reiterada, los presupuestos de ingresos y egresos aprobados y la normatividad aplicable, que afecte los caudales públicos; y
+
+IV.- Vulnerar gravemente las instituciones democráticas y la forma de gobierno republicano, representativo y federal.
 
 ###### Artículo 81.
 
-En el caso de que el usuario desee un servicio de recolección de desechos voluminosos la Dirección General de Servicios Públicos, prestará dicho servicio previo pago de los derechos en la Tesorería Municipal, los que serán cuantificados por la misma.
+El procedimiento para decretar la suspensión o revocación del mandato de alguno o de algunos de los miembros del Ayuntamiento o Concejo municipal, se sujetará a lo dispuesto en el Titulo Quinto de la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur.
 
 ###### Artículo 82.
 
-Quienes deseen transportar directamente desechos sólidos al basurero municipal, podrán hacerlo en la forma y horario que previamente autorice la Dirección General de Servicios Públicos.
+Decretada la suspensión o revocación del mandato, el Ayuntamiento llamará al suplente, para que rinda la protesta y ocupe el cargo, dentro de las cuarenta y ocho horas siguientes a la notificación de la resolución del Congreso del Estado.
 
-## TÍTULO TERCERO. DEL PROCEDIMIENTO PARA EL ALMACENAMIENTO, RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS NO PELIGROSOS
+## TITULO III. AUTORIDADES AUXILIARES
+
+### CAPITULO PRIMERO. De los Delegados Municipales
 
 ###### Artículo 83.
 
-La Dirección General de Servicios Públicos podrá realizar visitas domiciliarias a residencias, comercios, o industrias, con objeto de verificar el exacto cumplimiento de las disposiciones contenidas en este Reglamento.
+Los delegados y subdelegados municipales son autoridades auxiliares del Ayuntamiento y del Presidente Municipal, en la demarcación territorial asignada a la delegación, quienes deberán de acreditar fehacientemente su residencia y garantizar su residencia en ella.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 84.
 
-Será responsabilidad de los prestadores del servicio de recolección de los residuos sólidos autorizados, el transporte de éstos desde el lugar de su generación hasta el sitio de tratamiento, separación o disposición final.
+Para la designación de delegados deberá hacerse una consulta ciudadana de conformidad a la (sic) bases que establezca dicha convocatoria se expedirá con quince días naturales de anticipación a la celebración de la elección, misma que se efectuará el segundo domingo del mes de noviembre del primer año de Gobierno Municipal.
+
+> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2011)</small>
+
+El Ayuntamiento calificará los resultados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, debiendo tomar posesión de su cargo los Delegados electos a más tardar siete días después de la celebración de la elección.
 
 ###### Artículo 85.
 
-Los vehículos destinados al transporte de los residuos sólidos deberán:
-
-I. Contar con una caja de metal contenedora que deberá estar cerrada;
-
-II. Contar con el equipo necesario para evitar la fuga de lixiviados a la vía pública;
-
-III. Estar pintadas de color blanco, contar en ambos lados con la clave o logotipo del prestador del servicio y el número económico que les corresponda en color contrastante;
-
-IV. Tener a la vista el número telefónico o la dirección para recibir quejas;
-
-V. Cumplir con la ley y reglamentos de vialidad vigentes;
-
-VI. Estar en óptimas condiciones mecánicas y de higiene;
-
-VII. Deberá ser lavado al término de cada jornada, especialmente la caja que los haya contenido; y
-
-VIII. Resguardar en un sitio diseñado exclusivamente para este fin.
+Los subdelegados serán propuestos por el Presidente Municipal y ratificados por el Ayuntamiento y duraran en su cargo tres años y no podrán ser reelectos por más de dos periodos de manera consecutiva. Podrán ser removidos a propuesta del propio Presidente Municipal. El Ayuntamiento podrá optar en casos especiales por realizar una consulta ciudadana para la designación de subdelegados.
 
 ###### Artículo 86.
 
-Las unidades que transporten composta y subproductos de los residuos sólidos deberán cumplir las mismas normas que las señaladas en el Artículo anterior.
+Los Delegados Municipales durarán en su encargo tres años sin posibilidad de ser reelectos en el periodo inmediato y sólo podrán ser removidos:
+
+I.- Por pedimento fundado y motivado de la Ciudadanía de la Delegación correspondiente.
+
+II.- Por la realización de actos contrarios a los programas de trabajo del Ayuntamiento.
+
+III.- Cuando deje de satisfacer alguno de los requisitos de elegibilidad establecidos en la convocatoria o que el resultado sea positivo en el examen antidoping que se le practique.
+
+IV.- En los casos y con las formalidades que señala el Título Noveno de la Constitución Política del Estado.
+
+En los casos de las Fracciones I, II y III anteriores, la solicitud de remoción deberá presentarse ante el Presidente Municipal e irá acompañada de las pruebas pertinentes; dentro del plazo de cinco días hábiles el Presidente la hará del conocimiento del Cabildo, el cual designará una Comisión de su seno, que se abocará a la investigación de la misma para averiguar si está probada o no la causa de remoción, y que propondrá al Cabildo el dictamen respectivo dentro de un plazo no mayor de 20 días hábiles siguientes a la Sesión en la que se hubiere tenido conocimiento de la solicitud de remoción; a continuación el Ayuntamiento hará la declaratoria que procediere y el Presidente Municipal se encargará de su ejecución.
 
 ###### Artículo 87.
 
-Queda prohibido el transporte de los residuos fuera de las cajas de las unidades de recolección o de transporte.
+En caso de falta absoluta de cualquiera de los Delegados y Subdelegados Municipales, en (sic) ayuntamiento en pleno designara por acuerdo de la mayoría de sus miembros a la persona que habrá de sustituirlo.
 
 ###### Artículo 88.
 
-Se prohíbe la utilización de unidades de recolección que por sus condiciones permitan la caída de los residuos o el derrame de lixiviados a la vía pública.
+Compete al delegado municipal:
+
+I.- Ejecutar los acuerdos que expresamente le delegue el Ayuntamiento y el Presidente Municipal, en el área de su adscripción;
+
+II.- Vigilar y mantener el orden público en su jurisdicción;
+
+III.- Informar al Presidente Municipal de los acontecimientos que afecten el orden, la tranquilidad pública y la salud de su delegación;
+
+IV.- Promover el establecimiento y conservación de los servicios públicos en su jurisdicción;
+
+V.- Actuar como conciliador en los asuntos que sometan a su consideración los habitantes de su adscripción; y
+
+VI.- Las demás que le señalen esta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
 ###### Artículo 89.
 
-Se prohíbe que cualquier vehículo que transporte residuos sólidos que no esté en servicio, permanezca fuera del sitio designado para resguardo de los mismos.
+Los delegados municipales, podrán asesorarse en las dependencias y entidades correspondientes de la Administración Pública Municipal, para la atención de los asuntos de su competencia.
 
 ###### Artículo 90.
 
-En casos de contingencia o fuerza mayor el Presidente o Presidenta Municipal podrá autorizar la utilización de vehículos de recolección con características diferentes a las señaladas en el presente Reglamento, informando al Ayuntamiento en un plazo de veinticuatro horas.
+Corresponde a los subdelegados:
+
+I. Colaborar para mantener el orden, la seguridad y la tranquilidad de los vecinos del lugar, reportando ante los cuerpos de seguridad pública, a los oficiales calificadores las conductas que requieran de su intervención;
+
+II. Elaborar y mantener actualizado el censo de vecinos de la demarcación correspondiente;
+
+III. Informar al delegado las deficiencias que presenten los servicios públicos municipales;
+
+IV. Participar en la preservación y restauración del medio ambiente, así como en la protección civil de los vecinos.
 
 ###### Artículo 91.
 
-Queda prohibido abandonar en la vía pública vehículos descompuestos o accidentados por un término mayor de tres días.
+Los delegados y subdelegados municipales no pueden:
+
+I. Cobrar contribuciones municipales sin la autorización expresa de la ley;
+
+II. Autorizar ningún tipo de licencia de construcción y alineamiento o para la apertura de establecimientos;
+
+III. Mantener detenidas a las personas, sin conocimiento del titular de la Dirección de Seguridad Publica del municipio;
+
+IV. Poner en libertad a los detenidos en flagrancia por delito del fuero común o federal;
+
+V. Autorizar inhumaciones y exhumaciones;
+
+VI. Expedir, a nombre del Ayuntamiento, títulos de propiedad o constancias de posesión sobre bienes inmuebles en beneficio de particulares, tanto dentro como fuera de su circunscripción territorial.
+
+### CAPITULO SEGUNDO. De los Consejos Municipales de Colaboración
 
 ###### Artículo 92.
 
-Cuando la Dirección General de Servicios Públicos tenga conocimiento de algún vehículo abandonado en la vía pública requerirá al propietario o poseedor para que lo retire en un término de tres días.
+En cada Municipio funcionará uno o varios Consejos de Colaboración Municipal, según lo acuerde el Ayuntamiento. Estarán integrados por tres o más miembros, y uno de ellos fungiendo como Presidente; donde existan organizaciones y agrupaciones representativas de los principales sectores sociales de la comunidad, ellas también podrán estar integradas dentro del Consejo y desempeñarán el cargo a Título Honorario, por lo que no devengarán sueldo.
 
-Si vencido el término otorgado el propietario o poseedor no retira el vehículo abandonado en la vía pública, la Dirección General de Servicios Públicos podrá retirarlo con cargo al propietario o poseedor y levantará acta circunstanciada del requerimiento. Si no se encuentra el propietario o poseedor, la notificación se hará con la persona que se encuentre en el domicilio.
+En la organización, funcionamiento y supervisión de los Consejos Municipales de Colaboración sólo podrá intervenir la autoridad Municipal.
 
 ###### Artículo 93.
 
-Para el tratamiento de los residuos sólidos el Municipio deberá contar con plantas de separación y de composta, las cuáles podrán ser operadas directamente por el Municipio o concesionadas a fin de mejorar el servicio público de limpia.
+Los Consejos serán órganos de promoción y gestión social y tendrán las siguientes facultades y obligaciones:
+
+I.- Coadyuvar para el cumplimiento eficaz de los planes y programas municipales aprobados.
+
+II.- Promover la participación y colaboración de los habitantes y vecinos en todos los aspectos de beneficio social; y
+
+III.- Formar parte de las comisiones consultivas de Desarrollo Municipal para la elaboración, formulación y modificación de los Planes de Desarrollo Municipal.
 
 ###### Artículo 94.
 
-Para el funcionamiento de las plantas de separación y de composta, además del cumplimiento de los ordenamientos federales y estatales aplicables, deberán cumplir con los siguientes requisitos:
-
-I. Contar con el permiso correspondiente;
-
-II. Presentar el estudio correspondiente del impacto ambiental que pudiesen ocasionar las obras o actividades;
-
-III. Cumplir con las especificaciones técnicas aprobadas por la Dirección de Medio Ambiente Municipal;
-
-IV. Capacitar al personal para la realización de actividades;
-
-V. Señalarse cuáles con (sic) los residuos sólidos de acceso restringido a la planta;
-
-VI. Especificarse el destino final que se le puede dar a cada tipo de residuos; y
-
-VII. El personal deberá contar con uniforme, botas, cascos, guantes y demás equipo que le brinde seguridad e higiene para la realización de sus actividades.
+Los Consejos Municipales de Colaboración se integrarán con vecinos del Municipio y serán electos democráticamente en la forma y términos que determine el Ayuntamiento. Durarán en su encargo el tiempo que dure la Administración Municipal en que fueron electos.
 
 ###### Artículo 95.
 
-La elaboración de composta, se realizará únicamente con residuos orgánicos provenientes de alimentos o poda de jardines o áreas verdes públicas o privadas.
+El Ayuntamiento podrá encomendar a los Consejos de Colaboración la recolección de aportaciones económicas de la comunidad.
 
 ###### Artículo 96.
 
-Se prohíbe elaborar composta a partir de alimentos provenientes de hospitales, clínicas, sanatorios, centros de atención a la salud, laboratorios o de investigación y basura sanitaria.
+Los Consejos Municipales de Colaboración tendrán la obligación de informar oportunamente a sus representados y al Ayuntamiento sobre:
+
+I.- Los proyectos que pretendan realizar.
+
+II.- El estado que guardan los objetivos planteados.
+
+III.- Los objetivos realizados; y
+
+IV.- El estado de cuenta que guarda la recolección de aportaciones económicas de la comunidad.
 
 ###### Artículo 97.
 
-Los centros de acopio de subproductos que se establezcan dentro del Municipio, deberán contar con instalaciones cubiertas y adecuadas cumpliendo con las disposiciones legales aplicables.
+Cuando uno o más de los miembros del Consejo no cumpla con sus obligaciones y tenga suplente, será sustituido por éste; si no existe, o falta el suplente, el Ayuntamiento podrá convocar a nuevas elecciones para sustituirlas.
 
-## TÍTULO CUARTO. DEL TRATAMIENTO, COMERCIALlZACIÓN Y DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS
+## TITULO IV. ORGANIZACIÓN ADMINISTRATIVA MUNICIPAL
+
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### Artículo 98.
 
-Los productos o subproductos que se obtengan de los residuos sólidos, podrán ser comercializados en los términos que determine el Ayuntamiento.
+La Administración Pública Municipal será centralizada y descentralizada.
 
 ###### Artículo 99.
 
-El Ayuntamiento aprobará la aplicación de otras tecnologías para el tratamiento y disposición final de los residuos sólidos, cuando se cumplan las siguientes condiciones:
+El Ayuntamiento podrá crear dependencias administrativas, que le estén subordinadas directamente, así como fusionar, modificar o suprimir las ya existentes, a excepción de las señaladas en los artículos 102 y 103 de esta Ley, atendiendo para ello a sus necesidades y capacidad financiera. Asimismo, podrá crear órganos desconcentrados, dependientes jerárquicamente de las dependencias, con las facultades y obligaciones específicas que fije el reglamento y acuerdo respectivo.
 
-I. Que sean viables técnica, económica, ambiental y socialmente, que satisfagan las necesidades del servicio y sean compatibles con la normatividad aplicable; y
-
-II. Que cuenten con las autorizaciones federales y estatales.
+También, podrá crear entidades descentralizadas, cuando el desarrollo económico y social lo haga necesario.
 
 ###### Artículo 100.
 
-La disposición final de los residuos sólidos generados en el Municipio de Othón P. Blanco, deberá realizarse en sitios que cumplan con las especificaciones de ubicación, infraestructura, equipamiento, operación y tecnología, contenidas en la normatividad vigente, federal, estatal y municipal.
+Las dependencias administrativas y entidades descentralizadas o desconcentradas ejercerán las funciones que les asigne esta Ley y el Reglamento de la Administración Pública Municipal, en este último se señalará la creación, estructura, facultades y funcionamiento que tendrán dichas dependencias o entidades.
 
-En el caso de desperdicios consistentes en escombro y productos de demoliciones, estos podrán ser depositados en los bancos de materiales autorizados.
+Los titulares de las dependencias de la administración pública central, así como los organismos desconcentrados y descentralizados serán designados por el acuerdo del Ayuntamiento respectivo a propuesta del Presidente Municipal.
 
 ###### Artículo 101.
 
-Los Basureros Municipales, se consideran patrimonio del Ayuntamiento, por lo tanto el acceso al mismo para la realización de actividades de pepena y reciclaje será regulado por la Dirección General de Servicios Públicos.
+Para ser titular de las dependencias y entidades de la Administración Pública Municipal, se requiere ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos, preferentemente habitante del Municipio, de reconocida honorabilidad y aptitud para desempeñar el cargo y, en su caso, reunir los requisitos del servicio civil de carrera.
+
+### CAPITULO SEGUNDO. De la Administración Pública Centralizada
 
 ###### Artículo 102.
 
-Las personas que deseen ingresar a los Basureros Municipales para realizar actividades de pepena y reciclaje, deberán contar con la credencial que para tal efecto expida el Secretario o Secretaria General del Ayuntamiento. La falta de este documento impedirá el ingreso y en consecuencia la practica de actividades de pepena y reciclaje en el inmueble.
+Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el Ayuntamiento establecerá las siguientes dependencias obligatoriamente para todo municipio del Estado de Baja California Sur:
 
-De igual manera los vehículos que pretendan ingresar a los Basureros Municipales para la realización de las actividades a que se refiere el párrafo anterior, deberán contar con la autorización expresa del Secretario o Secretaria General del Ayuntamiento, por medio del tarjetón distintivo que al efecto le expida dicha autoridad.
+I. Secretaría General Municipal;
+
+II. Tesorería Municipal;
+
+III. Contraloría Municipal;
+
+IV. Oficialía Mayor.
 
 ###### Artículo 103.
 
-El ingreso de vehículos en general a los Basureros Municipales, sólo se permitirá para depositar basura.
+Para el despacho, estudio y planeación de los diversos ramos de la administración municipal, el Ayuntamiento contará por lo menos con las siguientes Dependencias Administrativas que se denominarán Direcciones Generales:
 
-Los vehículos de la Policía Municipal Preventiva, podrán ingresar a los Basureros las veces que sea necesario para realizar la vigilancia del inmueble.
+I. Obras Públicas y Asentamientos Humanos;
+
+II. Servicios Públicos;
+
+III. Desarrollo Social y Económico;
+
+IV. Seguridad Pública, Policía Preventiva y Transito Municipal;
+
+VI (SIC). Desarrollo Urbano y Ecología;
+
+VII. Registro Civil
+
+VIII. Registro Público de la Propiedad y del Comercio
+
+IX. Las demás que el Ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del Municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 104.
 
-Toda persona que cuente con la credencial o tarjetón respectivo para la realización de actividades de pepena y reciclaje en el interior de los Basureros Municipales, está obligado al cumplimiento del presente Reglamento y demás disposiciones que emita el Ayuntamiento.
+En el Reglamento de la Administración Pública Municipal de cada municipio, se contemplaran las subdirecciones que el Ayuntamiento estime necesarias y especificará claramente las facultades y obligaciones de los titulares de dichas dependencias.
 
 ###### Artículo 105.
 
-El horario de acceso a los Basureros Municipales para el desempeño de las actividades a que se refiere el Artículo anterior, será a partir de las siete horas y hasta las dieciocho horas de lunes a sábado, quedando restringido el acceso los domingos.
+Los titulares de las dependencias señaladas en los artículos 102 y 103 de esta Ley, sólo podrán ser removidos de su cargo, cuando en el desempeño del mismo incurran en falta de probidad, notoria ineficiencia, por la comisión de faltas administrativas o delitos o por incumplimiento grave de sus atribuciones, conforme a los establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California Sur.
+
+Para que sea procedente la remoción, deberá observarse lo siguiente:
+
+I.- Cuando la propuesta la formule el Presidente Municipal, se requerirá para su aprobación la mayoría absoluta del Ayuntamiento; y
+
+II.- Cuando la propuesta sea formulada por la mayoría absoluta del Ayuntamiento, se requerirá para su aprobación la mayoría calificada del mismo.
 
 ###### Artículo 106.
 
-El número de acceso de personas que ingresen a los Basureros Municipales para la práctica de actividades de pepena y reciclaje, será el que al efecto determine el Secretario o Secretaria General del Ayuntamiento.
+El Presidente Municipal, previo acuerdo del Ayuntamiento, podrá crear dependencias que le estén subordinadas directamente y se regirán conforme lo determine el Reglamento de la Administración Pública Municipal de cada municipio.
 
-La autoridad municipal revisará a las personas que ingresen al inmueble con la finalidad de evitar se introduzcan al mismo sustancias prohibidas, cigarros o bebidas embriagantes.
+### CAPITULO TERCERO. De la Administración Pública Descentralizada
 
 ###### Artículo 107.
 
-Las asociaciones, sociedades, gremios o sindicatos de pepenadores o recicladores que deseen ingresar al Basurero Municipal a realizar actividades propias, deberán de suscribir con el Ayuntamiento el convenio respectivo a través del Secretario General.
+Integrarán la administración pública descentralizada los organismos descentralizados, empresas de participación municipal, fideicomisos públicos municipales, comisiones, institutos, patronatos y comités.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Los fideicomisos municipales, emisores de valores a que se refiere el Capítulo Quinto de la Ley de Deuda Pública para el Estado, así como los fideicomisos que se constituyan como mecanismos de pago y/o garantía, o ambos de obligaciones contraídas por los Municipios o Entidades Públicas municipales, no serán considerados fideicomisos públicos, ni formarán parte de la administración pública descentralizada, por lo que no les es aplicable lo previsto por la presente Ley.
 
 ###### Artículo 108.
 
-Queda estrictamente prohibido a las personas que realicen actos de pepena y reciclaje dentro de los Basureros Municipales:
+El Ayuntamiento aprobará por mayoría calificada la creación, modificación o extinción de las entidades descentralizadas.
 
-I. Vender el producto reciclado dentro del Basurero;
+Las atribuciones de las entidades descentralizadas no deberán exceder las que para el Ayuntamiento señale esta Ley y se fijarán en el Reglamento de la Administración Pública Municipal, especificándose además en el acuerdo de creación, mismo que deberá publicarse en el Boletín Oficial del Gobierno del Estado.
 
-II. La quema de cualquier tipo de material al interior del inmueble;
-
-III. Fumar, consumir drogas, enervantes, estupefacientes o bebidas alcohólicas al interior del inmueble;
-
-IV. El consumo de alimentos en el interior;
-
-V. Realizar cualquier tipo de comercio; y
-
-VI. Las demás que determine la autoridad municipal.
+En caso de extinción, el acuerdo correspondiente fijará la forma y términos de la liquidación.
 
 ###### Artículo 109.
 
-Queda prohibido el ingreso a los Basureros Municipales a menores de edad, mujeres embarazadas y a personas que se encuentren bajo los efectos del alcohol o drogas.
+Los órganos de gobierno o de administración de las entidades descentralizadas, deberán dictar las medidas administrativas conducentes para contribuir en el control interno de las mismas.
 
 ###### Artículo 110.
 
-La inobservancia de cualquiera de las disposiciones contenidas en el presente Reglamento y de las que al efecto dicte el Ayuntamiento, será causa suficiente para la revocación del permiso para ingresar a los Basureros Municipales.
-
-Las disposiciones relativas al acceso de personas a los Basureros Municipales, no previstas en el presente ordenamiento, serán resueltas en su momento por el Secretario General del Ayuntamiento.
+El Ayuntamiento, por conducto del Presidente Municipal, coordinará y supervisará las acciones que realicen las entidades descentralizadas, vigilando que cumplan con la función para la que fueron creadas.
 
 ###### Artículo 111.
 
-Ningún predio, sin distinción de modalidad de propiedad, podrá ser utilizado como depósito de basura, sin la autorización del Ayuntamiento y en cumplimiento de los requisitos que establece el artículo anterior.
+La creación de organismos descentralizados, se sujetará a los siguientes requisitos:
+
+I. Denominación del organismo;
+
+II. Domicilio legal;
+
+III. Objeto del organismo;
+
+IV. Integración de su patrimonio;
+
+V. Integración del órgano de gobierno, duración en el cargo de sus miembros y causas de remoción de los mismos;
+
+VI. Facultades y obligaciones del órgano de gobierno, señalando cuáles de dichas facultades son indelegables;
+
+VII. Órganos de vigilancia, así como sus facultades;
+
+VIII. Vinculación con los objetivos y estrategias del plan municipal de desarrollo;
+
+IX. Descripción clara de los objetivos y metas;
+
+X. Efectos económicos y sociales que se pretendan alcanzar; y
+
+XI. Las demás que se regulen en el reglamento o acuerdo de Ayuntamiento y sean inherentes a su función.
 
 ###### Artículo 112.
 
-Cualquier sitio que se utilice como tiradero de basura y desperdicios que no haya sido autorizado por el Ayuntamiento y no haya cumplido con lo que establece este Reglamento, será clausurado de manera inmediata y las personas o empresas que los hayan propiciado se harán acreedores a las sanciones que correspondan.
+La administración de los organismos descentralizados estará a cargo de un órgano de gobierno, que será un consejo directivo o su equivalente, designado por el Ayuntamiento en los términos del acuerdo y reglamento respectivo.
+
+El consejo directivo o su equivalente, elegirá de entre sus miembros a su presidente y, en su caso, designará al director general y demás personal necesario para el cumplimiento de sus funciones.
 
 ###### Artículo 113.
 
-El Ayuntamiento, de acuerdo a lo que estipula la Ley Federal te (sic) y la Ley Estatal, promoverá la creación de confinamientos que sirvan para la disposición final de los residuos de procesos industriales considerados como peligrosos, con la finalidad de que sean debidamente controlados de acuerdo a las normas técnicas ecológicas vigentes.
+Los organismos descentralizados deberán rendir informes trimestrales al Ayuntamiento, sobre el ejercicio de sus funciones. Sin perjuicio de lo anterior, el Ayuntamiento podrá solicitar información en cualquier tiempo.
 
 ###### Artículo 114.
 
-El Ayuntamiento, en coordinación con las Secretarías del ramo, en sus competencias federal y estatal, realizará y mantendrá actualizado un censo de residuos de procesos industriales tóxicos y no tóxicos entre las fuentes emisoras radicadas dentro del Municipio.
+Cuando el organismo público descentralizado tenga por objeto la prestación de un servicio público, el Ayuntamiento, a propuesta del propio organismo y del estudio técnico que presente, fijará las tarifas que en su caso correspondan, mismas que deberán ser aprobadas por el Congreso del Estado.
 
 ###### Artículo 115.
 
-Tratándose de la disposición final realizada a través de la modalidad de Relleno Sanitario, se recibirán exclusivamente los residuos que por sus características no puedan ser aprovechados en la planta de composta, o que rebasen la capacidad de ésta.
+Los fideicomisos públicos municipales a que se refiere esta Ley, serán los que constituya el Ayuntamiento, previo estudio que así lo justifique, a efecto de que le auxilien en la realización de actividades que le sean propias o impulsen el desarrollo del Municipio y en los cuales la Tesorería Municipal o el organismo público descentralizado, a través del representante de su órgano de gobierno, sea el fideicomitente.
 
 ###### Artículo 116.
 
-El personal del relleno sanitario deberá contar con uniforme, botas, cascos, guantes y demás equipo que le brinde seguridad e higiene para la realización de sus actividades.
+La creación de los fideicomisos públicos se sujetará a las siguientes bases:
+
+I.- Contarán con un Director General, un Comité Técnico que fungirá como órgano de gobierno, y un comisario encargado de la vigilancia, designado por la contraloría municipal. Dichos cargos serán honoríficos;
+
+II.- El Ayuntamiento podrá autorizar el incremento del patrimonio de los fideicomisos públicos, previa opinión de los fideicomitentes de los mismos y sus comités técnicos;
+
+III.- En los contratos constitutivos de fideicomisos de la Administración Pública Municipal, se deberá reservar a favor H. Ayuntamiento, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos con los gobiernos estatal o federal, por mandato de la ley o que la naturaleza de sus fines no lo permita;
+
+IV.- La modificación o extinción de los fideicomisos públicos, cuando así convenga al interés general, corresponderá al Ayuntamiento, debiendo en todo caso establecer el destino de los bienes fideicomitidos;
+
+V.- Los fideicomisos públicos a través de su comité técnico, deberán de rendir al Ayuntamiento un informe trimestral sobre la administración y aplicación de los recursos aportados al fideicomiso; y
+
+VI.- En los contratos constitutivos de fideicomisos se establecerá la obligación de observar los requisitos y formalidades señalados en esta Ley, para la enajenación de los bienes de propiedad municipal.
 
 ###### Artículo 117.
 
-Queda prohibida la pepena dentro y en los alrededores de las instalaciones del relleno sanitario.
+El comité técnico deberá estar integrado por lo menos con los siguientes propietarios:
+
+I.- El síndico municipal;
+
+II.- Un representante de las dependencias o entidades de la Administración Pública Municipal que de acuerdo con los fines del fideicomiso deban intervenir;
+
+III.- Un representante de la Tesorería Municipal;
+
+IV.- Un representante de la Contraloría Municipal; y
+
+V.- Un representante del fiduciario.
+
+Por cada miembro propietario del comité técnico habrá un suplente que lo cubrirá en sus ausencias.
+
+El representante de la Contraloría Municipal participará con voz pero sin voto.
+
+Los miembros del Comité Técnico serán nombrados y removidos por el Ayuntamiento, a excepción del representante fiduciario, cuyo nombramiento y remoción corresponderá a la institución fiduciaria.
 
 ###### Artículo 118.
 
-Los operadores y usuarios del relleno sanitario tienen la obligación de acatar los lineamientos y manuales de operación que emita la Dirección de Medio Ambiente Municipal.
+Tratándose de fideicomisos públicos, para llevar a cabo su control y evaluación, se establecerá en su contrato constitutivo la facultad de la contraloría municipal de realizar visitas y auditorías, así como la obligación de permitir la realización de las mismas por parte de los auditores externos que determine el Ayuntamiento, sin perjuicio de las facultades de fiscalización del Congreso del Estado. En la cuenta pública municipal se deberá informar y anexar el resultado de las auditorias practicadas.
+
+### CAPITULO CUARTO. De la Secretaría General Municipal
 
 ###### Artículo 119.
 
-Son autoridades competentes para ordenar y ejecutar visitas de inspección, levantamiento y elaboración de actas administrativas por infracciones al presente reglamento, las siguientes:
-
-I. Con carácter de ordenadoras.
-
-a) El Ayuntamiento;
-
-b) El Presidente o Presidenta Municipal;
-
-c) El Director General de Servicios Públicos Municipales; y
-
-d) El Director General de Desarrollo Urbano y Medio Ambiente
-
-II. Con carácter de ejecutoras:
-
-a) Inspectores de la Dirección General de Servicios Públicos Municipales;
-
-b) Inspectores de la Dirección de Desarrollo Urbano;
-
-c) Inspectores de la Dirección de Medio Ambiente.
-
-III. Con carácter de sancionadora:
-
-a) El Ayuntamiento
-
-b) El Presidente o Presidenta Municipal
-
-c) Juez Calificador
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+Compete a la Secretaría General Municipal dar fe pública a los actos y resoluciones del Ayuntamiento y del Presidente Municipal así como del resguardo y concentración de toda la documentación oficial que emane del propio Ayuntamiento.
 
 ###### Artículo 120.
 
-A falta de disposición expresa relativa al procedimiento de inspección, vigilancia y aplicación de sanciones se tendrán como supletorias las disposiciones del Código Fiscal Municipal, en su caso el Código de Procedimientos Civiles del Estado y el Reglamento del Juzgado Municipal de Othón P. Blanco, en lo que no se opongan al presente reglamento.
+Para asumir el cargo de Secretario General, se deben reunir los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos, y no haber sido condenado ejecutoriadamente por delito grave del orden común o federal;
+
+II. Contar preferentemente con un grado académico de licenciatura;
+
+III. Ser de reconocida honradez;
 
 ###### Artículo 121.
 
-El personal autorizado deberá contar con el documento oficial que los acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por la autoridad ordenadora, en la que se precisará la fecha, el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
+Son facultades del Secretario General del Ayuntamiento las siguientes:
 
-De igual forma se dará inicio al procedimiento con la denuncia escrita o por comparecencia ante las autoridades que ostentan el carácter de ordenadoras en el presente reglamento, por el agraviado o cualquier persona que observe algún hecho probablemente constitutivo de una infracción.
+I. Asistir a las sesiones del Ayuntamiento y levantar las actas correspondientes;
 
-La autoridad ordenadora dará trámite al procedimiento en los términos previstos en el presente capítulo.
+II. Emitir los citatorios para la celebración de las sesiones de cabildo, convocadas legalmente;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+III. Dar cuenta en la primera sesión de cada mes, del número y contenido de los expedientes pasados a comisión, con mención de los que hayan sido resueltos y de los pendientes;
+
+IV. Llevar y conservar los libros de actas de cabildo, obteniendo las firmas de los asistentes a las sesiones;
+
+V. Validar con su firma, los documentos oficiales y los actos emanados del Ayuntamiento o de cualquiera de sus miembros, así como certificar documentos expedidos por municipio;
+
+VI. Tener a su cargo el archivo general del Ayuntamiento;
+
+VII. Controlar y distribuir la correspondencia oficial del Ayuntamiento, dando cuenta diaria al Presidente Municipal para acordar su trámite;
+
+VIII. Extender los nombramientos de los titulares de las dependencias administrativas, dentro de los 5 días hábiles siguientes al acuerdo del Ayuntamiento donde se haga la designación correspondiente;
+
+IX. Compilar leyes, decretos, reglamentos, boletines oficiales del estado, circulares y órdenes relativas a los distintos sectores de la Administración Pública Municipal;
+
+X. Expedir las constancias de residencia que soliciten los habitantes del municipio, así como las certificaciones y demás documentos públicos que legalmente procedan, o los que acuerde el Ayuntamiento;
+
+XI. Elaborar con la intervención del síndico el inventario general de los bienes muebles e inmuebles municipales, así como la integración del sistema de información inmobiliaria, que contemple los bienes del dominio público y privado, en un término que no exceda de un año contado a partir de la instalación del Ayuntamiento y presentarlo al cabildo para su conocimiento y opinión.
+
+En el caso de que el Ayuntamiento adquiera por cualquier concepto bienes muebles o inmuebles durante su ejercicio, deberá realizar la actualización del inventario general de los bienes muebles e inmuebles y del sistema de información inmobiliaria en un plazo de noventa días hábiles a partir de su adquisición y presentar un informe trimestral al cabildo para su conocimiento y opinión.
+
+XII. Integrar un sistema de información que contenga datos de los aspectos socio-económicos básicos del municipio;
+
+XIII. Mandar publicar los reglamentos, circulares y demás disposiciones municipales de observancia general y remitir al Congreso del estado la cuenta publica autorizada, la ley de ingresos municipales y cualquier acuerdo, dictamen o comunicado que emane del cabildo y que sea necesaria su envío a la legislatura;
+
+XIV. Las demás que le confieran esta Ley y disposiciones aplicables.
 
 ###### Artículo 122.
 
-La autoridad ejecutora, al iniciar la inspección se identificará debidamente con la persona con quien se entienda la diligencia, exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
+La Secretaría General Municipal para el logro de los objetivos señalados en el artículo anterior, se auxiliará de las áreas o departamentos que se contemplen en el respectivo reglamento interior, asimismo será el enlace entre las áreas de la administración publica municipal con la Presidencia Municipal y el Cabildo.
 
-En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO QUINTO. De la Tesorería Municipal
 
 ###### Artículo 123.
 
-En toda visita de inspección se levantará acta, en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia.
-
-Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto manifieste lo que a su derecho convenga con relación a los hechos u omisiones asentadas en el acta respectiva. A continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por la autoridad ejecutora, quien entregará copia del acta al interesado.
-
-Si la persona con quien se entendió la diligencia o los testigos, se niegan a firmar el acta, o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella sin que esto afecte su validez y valor probatorio.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+La Administración de los recursos de la Hacienda Pública Municipal estará a cargo de la Tesorería municipal, quien es el órgano encargado de la recaudación de los ingresos municipales y responsable de realizar las erogaciones que haga el Ayuntamiento.
 
 ###### Artículo 124.
 
-La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado al acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el Artículo 121 de este Reglamento.
+Para asumir el cargo de Tesorero Municipal, se deben reunir los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos, y no haber sido condenado ejecutoriadamente por delito grave del orden común o federal;
+
+II. Contar preferentemente con un grado académico de licenciatura en área económica, contable, financiera o de administración; y
+
+III. Ser de reconocida honradez.
 
 ###### Artículo 125.
 
-La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección en los términos establecidos en la Ley de los Municipios del Estado de Quintana Roo, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+Son atribuciones del tesorero municipal:
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+I. Recaudar los ingresos que correspondan al Municipio, de conformidad con las leyes fiscales, auxiliándose para ello de la Contraloría Municipal;
+
+II. Vigilar la administración de fondos de obras por cooperación;
+
+III. Documentar toda ministración de fondos públicos;
+
+IV. Ejercer la facultad económico-coactiva y, en su caso, delegarla conforme a las leyes y reglamentos vigentes;
+
+V. Formular los proyectos de presupuesto de egresos y pronóstico de ingresos;
+
+VI. Proponer al Ayuntamiento, las medidas o disposiciones que tiendan a incrementar los recursos económicos que constituyen la hacienda pública municipal;
+
+VII. Aplicar los ingresos, de acuerdo con el presupuesto de egresos aprobado por el Ayuntamiento;
+
+VIII. Llevar la contabilidad general y el control del ejercicio presupuestado;
+
+IX. Llevar el registro, catálogo e inventario de los bienes muebles e inmuebles de propiedad municipal,
+
+X. Elaborar y someter a la aprobación del Ayuntamiento, el programa financiero, mediante el cual se maneja la deuda pública municipal y su forma de administrarla;
+
+XI. Glosar oportunamente las cuentas de la Administración Pública Municipal;
+
+XII. Remitir al Congreso del Estado, por conducto del Secretario General, la cuenta pública municipal, así como rendir los informes contables y financieros mensuales, dentro del mes siguiente, y atender las observaciones que se formulen sobre los mismos. Los informes contables y financieros, deberán ser firmados, además, por el Presidente Municipal;
+
+XIII. Formar y actualizar el catastro municipal;
+
+XIV. Diseñar y mantener actualizado un sistema de información y orientación fiscal, para los contribuyentes del fisco municipal;
+
+XV. Revisar los anteproyectos de presupuestos de egresos de las entidades que integren el sector paramunicipal, para su incorporación al presupuesto de egresos del Ayuntamiento;
+
+XVI. Integrar los estados contables de cierre de ejercicio de la Administración Pública Municipal y demás documentación, para que sea agregado al acta de entrega recepción de la misma, en el rubro relativo a la Tesorería; y
+
+XVII. Proponer al Ayuntamiento, las cuotas y tarifas aplicables a impuestos, derechos, productos y aprovechamientos, contribuciones de mejoras.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+XVII BIS. Cancelar créditos incobrables a favor del Municipio, conforme a las leyes fiscales en vigor, informando al Cabildo.
+
+XVIII. Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
+
+### CAPITULO SEXTO. De la Contraloría Municipal
 
 ###### Artículo 126.
 
-Iniciado el procedimiento la autoridad ordenadora dentro de las setenta y dos horas siguientes, requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento y para que dentro del término de tres días exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la autoridad.
+El control interno, evaluación de la gestión municipal y desarrollo administrativo, estarán a cargo de la Contraloría Municipal, cuyo titular será propuesto por el Presidente Municipal, en la sesión siguiente a la de instalación del Ayuntamiento y será designado en dicha sesión.
 
-Admitidas o desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el párrafo anterior, será optativo presentar alegatos dentro del término de dos días.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+En el presupuesto de egresos deberán preverse los recursos materiales y humanos necesarios y suficientes, con los que deberá contar la Contraloría Municipal para el ejercicio de su función.
 
 ###### Artículo 127.
 
-Una vez recibidos los alegatos o transcurrido el término para presentarlos, se turnará el expediente a la autoridad sancionadora quien procederá, dentro del plazo de diez días hábiles siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
+Para asumir el cargo de contralor municipal, se deben reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos, y no haber sido condenado ejecutoriadamente por delito grave del orden común o federal;
+
+II. Contar preferentemente con un grado académico de licenciatura en área económica, contable, jurídica o administrativa y tener cuando menos una experiencia de tres años en cualquiera de dichas áreas;
+
+III. Ser de reconocida honradez;
+
+IV. No haber sido dirigente de partido político ni candidato durante la elección del Ayuntamiento en funciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 128.
 
-La resolución administrativa correspondiente deberá contener, la fijación clara y precisa de los puntos controvertidos así como el examen y valoración de las pruebas; los fundamentos legales en que se apoyen y los puntos resolutivos, y se señalarán en su caso, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
+Son atribuciones del Contralor Municipal:
+
+I.- Presentar al Ayuntamiento un plan de trabajo anual, durante el mes de enero;
+
+II.- Proponer y aplicar normas y criterios en materia de control y evaluación, que deban observar las dependencias y entidades de la Administración Pública Municipal;
+
+III.- Verificar y vigilar el cumplimiento del plan municipal de desarrollo;
+
+IV.- Realizar visitas y auditorias periódicamente a las dependencias y entidades de la Administración Pública Municipal, y en su caso, promover las medidas necesarias para corregir las deficiencias detectadas;
+
+V.- Vigilar la correcta aplicación del gasto público;
+
+VI.- Presentar trimestralmente al Ayuntamiento un informe de las actividades de la contraloría municipal, señalando las irregularidades que se hayan detectado en el ejercicio de su función;
+
+VII.- Verificar que la Administración Pública Municipal, cuente con el registro e inventario actualizado de los bienes muebles e inmuebles del Municipio;
+
+VIII.- Vigilar que las adquisiciones, enajenaciones y arrendamientos de los bienes muebles e inmuebles que realice el Ayuntamiento y la prestación de servicios públicos municipales, se supediten a lo establecido por esta Ley y demás aplicables;
+
+IX.- Vigilar que la obra pública municipal se ajuste a las disposiciones de la Ley de Obra Pública para el Estado de Baja California Sur y demás disposiciones aplicables en la materia;
+
+X.- Establecer y operar un sistema de quejas, denuncias y sugerencias;
+
+XI.- Participar en la entrega recepción de las dependencias y entidades de la Administración Pública Municipal;
+
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
+
+XII.- Llevar y normar el registro de servidores públicos de la Administración Pública Municipal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+XIII.- Vigilar el desarrollo administrativo de las dependencias y entidades de la Administración Pública Municipal, a fin de que en el ejercicio de sus funciones apliquen con eficiencia los recursos humanos y patrimoniales;
+
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
+
+XIV.- Vigilar que el desempeño de las funciones de los servidores públicos municipales se realice conforme a la Ley, así como establecer mecanismos internos para la Administración Pública Municipal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+XV.- Actuar de manera coordinada en la Tesorería a fin de vigilar que la recaudación municipal cumpla con la reglamentación en la materia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE JULIO DE 2017)</small>
+
+XVI.- Conocer e investigar las conductas de los servidores públicos de la Administración Pública Municipal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur; para lo cual podrá aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Baja California Sur y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante dicho Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, B.O. 20 DE JULIO DE 2017)</small>
+
+XVII.- Ejercer las facultades que la Constitución General de la República le otorga a los órganos internos de control para revisar, mediante las auditorías que se requieran, el ingreso, manejo, custodia y ejercicio de recursos públicos municipales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 20 DE JULIO DE 2017)</small>
+
+XVIII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
+
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 129.
 
-Son medidas de seguridad:
+Es obligación de los titulares de las dependencias y entidades de la Administración Pública Municipal, participar con el Tesorero y el Presidente Municipal en la solventación de las observaciones que formule la Auditoría Superior del Estado de Baja California Sur.
 
-I. La suspensión de trabajos y servicios relacionados con el manejo de los residuos sólidos; y
-
-II. La clausura temporal, parcial o total de las fuentes contaminantes correspondientes.
+### CAPITULO SÉPTIMO. De la Oficialía Mayor
 
 ###### Artículo 130.
 
-Las multas consistirán en los pagos que deberá hacer el infractor al Municipio de Othón P. Blanco, tomando como base el salario mínimo vigente en el Estado de Quintana Roo, al momento de ocurrir la infracción.
+La administración de los recursos humanos y materiales estará a cargo de un Oficial Mayor, quien deberá cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos, y no haber sido condenado ejecutoriadamente por delito grave del orden común o federal;
+
+II. Contar preferentemente con un grado académico de licenciatura en área jurídica, económica, contable, financiera o de administración y tener cuando menos una experiencia de tres años en cualquiera de dichas áreas;
+
+III. Ser de reconocida honradez.
 
 ###### Artículo 131.
 
-Para la imposición de las sanciones por infracciones a este reglamento, se tomará en cuenta:
+A la Oficialía Mayor corresponden las siguientes atribuciones:
 
-I. La gravedad de la infracción y en general el daño causado al ambiente, considerando principalmente el criterio de impacto negativo en la salud pública y en la generación de desequilibrios ecológicos de acuerdo con lo que establezca la Ley Federal, Ley Estatal y demás disposiciones legales aplicables;
+I. Proponer, coordinar y controlar las medidas técnicas y administrativas que permitan el buen funcionamiento de la Administración Pública Municipal;
 
-II. Las condiciones económicas del infractor; y
+II. Establecer, con la aprobación del Presidente Municipal o del Ayuntamiento, las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos y materiales del Ayuntamiento;
 
-III. La reincidencia, si la hubiere.
+III. Detectar, planear y evaluar las necesidades que en materia de recursos humanos requiera la administración para proveer a las dependencias del personal necesario para el desarrollo de sus funciones, por lo que tendrá a su cargo la selección, contratación y capacitación del mismo;
 
-## TÍTULO QUINTO. DEL PROCEDIMIENTO DE INSPECCIÓN Y VIGILANCIA, DE LAS MEDIDAS DE SEGURIDAD, SANCIONES Y RECURSO
+IV. Tramitar las remociones, renuncias, licencias y jubilaciones de los servidores municipales que ocurran;
+
+V. Establecer las normas, políticas y lineamientos de administración, remuneración, capacitación y desarrollo del personal a que haya lugar.
+
+VI. Mantener actualizado el escalafón de los trabajadores municipales, llevar al corriente el archivo de los expedientes personales de los servidores públicos y establecer y aplicar coordinadamente con las unidades administrativas los procedimientos de evaluación y control de los recursos humanos;
+
+VII. Vigilar el cumplimiento de las disposiciones legales y estatutarias que rigen las relaciones laborales entre el Gobierno Municipal y los servidores públicos municipales;
+
+VIII. Expedir identificaciones al personal adscrito al Gobierno Municipal;
+
+IX. Adquirir y suministrar oportunamente como corresponda los bienes materiales y servicios que requieran las distintas dependencias de la administración municipal, así como lo que se requiera para su mantenimiento conforme a las disposiciones legales que regulan su operación;
+
+X. Elaborar y mantener el padrón de proveedores de la Administración Pública Municipal.
+
+XI. Controlar y vigilar los almacenes mediante la implantación de sistemas y procedimientos que optimicen las operaciones de recepción, guarda, registro y despacho de mercancía, bienes muebles y materiales en general;
+
+XII. Elaborar, controlar y mantener actualizado el inventario general de los bienes propiedad del Ayuntamiento;
+
+XIII. Efectuar la contratación de los seguros necesarios para la protección de los bienes de la Administración Pública Municipal;
+
+XIV. Participar en el Comité de Adquisiciones, arrendamientos y servicios del Estado de Baja California Sur;
+
+XV. Formular y divulgar el calendario oficial, señalando los periodos vacacionales, días inhábiles o no laborables para el personal administrativo; y
+
+XVI. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, esta Ley y otras disposiciones reglamentarias.
+
+## TITULO V. SERVICIOS PÚBLICOS MUNICIPALES
+
+### CAPITULO PRIMERO. De los Servicios Públicos Municipales
 
 ###### Artículo 132.
 
-Para la determinación de las sanciones por infracciones a los (sic) dispuesto en el Capítulo Tercero del Título Segundo de este reglamento, además de lo señalado en el artículo anterior deberá tenerse en cuenta:
+Los Municipios tendrán a su cargo la prestación, explotación, administración y conservación de los servicios públicos municipales, considerándose enunciativa y no limitativamente, los siguientes:
 
-I. La ubicación del inmueble;
+I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
-II. La superficie del predio; y
+II.- Alumbrado público;
 
-III. Lo establecido en los párrafos II y III del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+III.- Limpia, recolección, traslado, tratamiento, disposición final y aprovechamiento de residuos;
+
+IV.- Mercados y centrales de abasto;
+
+V.- Rastro;
+
+VI.- Calles, parques, jardines, áreas ecológicas y recreativas y su equipamiento;
+
+VII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; y el de policía preventiva;
+
+VIII.- Tránsito y vialidad;
+
+IX.- Transporte urbano y suburbano;
+
+X.- Estacionamientos públicos;
+
+XI.- Panteones;
+
+XII.- Educación;
+
+XIII.- Bibliotecas públicas y Casas de la Cultura;
+
+XIV.- Asistencia y salud pública;
+
+XV.- Protección civil;
+
+XVI.- Desarrollo urbano y rural; y
+
+XVII.- Los demás que señalen la Constitución Política del Estado y demás leyes.
 
 ###### Artículo 133.
 
-Las notificaciones deberán hacerse personalmente al infractor, de conformidad con lo establecido por el Código Fiscal Municipal y en su caso por el Código de Procedimientos Civiles del Estado de Quintana Roo.
+El Ayuntamiento prestará los servicios públicos de la siguiente forma:
+
+I. Directa, a través de sus propias dependencias administrativas u organismos desconcentrados; y
+
+II. Indirecta, a través de:
+
+a) Las entidades descentralizadas creadas para ese fin;
+
+b) Régimen de concesión, con excepción del de Seguridad Publica y Transito; y
+
+c) Convenios de coordinación o asociación que lleve a cabo con otros Ayuntamientos o con el Ejecutivo del Estado.
 
 ###### Artículo 134.
 
-En caso de ignorarse el domicilio del propietario de un predio, las notificaciones se harán publicando la resolución respectiva, con una vez en el Periódico Oficial del Gobierno del Estado, dos en algún periódico de los de mayor circulación en la ciudad, si se tratare de infracciones a lo contenido en el Capítulo Tercero del Título Segundo de este reglamento.
+La prestación de los servicios públicos municipales, será supervisada por las comisiones correspondientes del Ayuntamiento y auditada por la Contraloría municipal.
 
 ###### Artículo 135.
 
-Si se tratare de infracciones a lo dispuesto en (sic) Capítulo Segundo del Título Segundo de este reglamento, se fijaré (sic) cédula en el domicilio del infractor.
+Los usuarios de los servicios públicos, deberán hacer uso racional y adecuado de las instalaciones destinadas a la prestación de los mismos y comunicar a la autoridad municipal, aquéllos desperfectos y deficiencias que sean de su conocimiento.
 
 ###### Artículo 136.
 
-Si las circunstancias así lo exigen, podrá imponerse al infractor simultáneamente las sanciones y las medidas de seguridad que correspondan, sin perjuicio de la responsabilidad penal en que puede incurrir y la cual se determinará por la autoridad judicial competente.
+En caso de destrucción o daños causados a la infraestructura de los servicios públicos municipales, la autoridad municipal deslindará la responsabilidad e impondrá sanciones administrativas que correspondan, sin perjuicio de que se denuncie penalmente al infractor.
 
 ###### Artículo 137.
 
-En caso de reincidencia, se podrá proceder a la clausura en forma definitiva de la obra, actividad, o concesión de la fuente contaminante que ocasionó la infracción.
+El servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales podrá ser prestado por el Ayuntamiento, preferentemente a través de un organismo público descentralizado, creado en los términos de esta Ley y el reglamento aplicable.
 
 ###### Artículo 138.
 
-Las sanciones que le sean impuestas no relevan a los infractores de la obligación de corregir las irregularidades en que hubieran incurrido. En los casos en los que el Ayuntamiento por seguridad o salud ambiental, tenga que asumir la corrección de las irregularidades, el costo correrá por cuenta del infractor.
-
-(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2011)
+Para la prestación del servicio de alumbrado público, el Ayuntamiento, directamente o a través del Ejecutivo del Estado, celebrará convenios con la dependencia u organismo que corresponda.
 
 ###### Artículo 139.
 
-A los responsables de las infracciones señaladas en este Reglamento, se les aplicará las sanciones conforme lo siguiente:
+El servicio público de mercados y centrales de abasto, es aquél que se presta en inmuebles de propiedad municipal.
 
-I. Apercibimiento:
-
-II. Amonestación, por violaciones a los Artículos 25 Fracciones, I, II, III, IV, V, VI, VII, VIII, X, XII y XIII, 27, 29, 30, 31, 32, 33, 34, 35, 37, 38, 39, 57, 58, 59, 60, 61 y 65;
-
-III. Multa de 1 a 5 salarios mínimos por violaciones a los Artículos 25 Fracciones I, II, III, IV, V, VI, VII, VIII, X, XII y XIII, 27, 29, 30, 31, 32, 33, 34, 35, 37, 38, 39, 57, 58, 59, 60, 61 y 65;
-
-IV. Multa de 3 a 7 salarios mínimos, por violaciones a los Artículos 40 y 66;
-
-V. Multa de 5 a 10 salarios mínimos por violaciones a los Artículos 12 cuando el infractor sea el usuario, 14, 25 Fracción IX, 27, 29, 37 cuando el infractor sea el usuario, 26 Fracción IV, 64, 71, 75, 86, 96 y 117;
-
-VI. Multa de 5 a 30 salarios mínimos vigentes por violaciones a los Artículos 12 y 37 cuando el infractor sea el prestador del servicio 20, 47, 48, 50, 84, 85, 86, 87, 88, 89 y 118;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Multa de 53 a 265 salarios mínimos vigentes, por violaciones a las fracciones I, III y VIII del artículo 26.
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Suspensión temporal de 3 a 7 días por violación a los Artículos 69, 71 y 129 debiéndose tomar en cuenta lo señalado en el Artículo 131 Fracción I;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Cancelación o clausura por violación al Artículo 30;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
-
-X. Arresto administrativo hasta por treinta y seis horas en caso de reincidencia; y
-
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
-
-XI. Revocación de la concesión en términos de lo dispuesto en el artículo 187 y 188 de la Ley de los Municipios del Estado de Quintana Roo, en caso de reincidencia.
+El Ayuntamiento podrá concesionar a comerciantes, los espacios ubicados en el interior de los inmuebles de propiedad municipal, en los términos de esta Ley y el reglamento correspondiente.
 
 ###### Artículo 140.
 
-La autoridad aplicará en primer término el apercibimiento y la amonestación como sanciones a las infracciones del presente ordenamiento, posteriormente se aplicarán las sanciones pecuniarias, y en su caso las sanciones contempladas en las fracciones VII, VIII, IX y X del artículo anterior, salvo aquellos casos en que la gravedad de la infracción comprometa la seguridad y la salud ambiental, lo que ameritará la aplicación directa de sanciones pecuniarias, cancelación, revocación, clausura o arresto.
-
-A la persona física que sea sorprendida en flagrancia infringiendo el artículo 37 se le aplicarán las sanciones pecuniarias establecidas en este ordenamiento.
+Los servicios públicos de tránsito y vialidad, policía preventiva y protección civil se prestarán por el Ayuntamiento como áreas de seguridad pública.
 
 ###### Artículo 141.
 
-En contra de las resoluciones dictadas en aplicación de este Reglamento, procederá el recurso de revisión previsto en la Ley de los Municipios del Estado de Quintana Roo, mismo que se substanciará en la forma y términos señalados en la propia Ley.
+En los servicios de seguridad pública municipal, podrán autorizarse cuando así se solicite, elementos auxiliares que se encarguen de manera específica y concreta de prestar el servicio en zonas, instalaciones o ramas de actividades, bajo la jurisdicción y vigilancia del Ayuntamiento.
 
-## TRANSITORIOS
+Los salarios y costos de estos elementos, serán cubiertos por quienes soliciten dicho servicio, en los términos y montos que acuerde el Ayuntamiento.
 
-PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+###### Artículo 142.
 
-SEGUNDO.- Se abroga el Reglamento de Limpia y Predios Baldíos del Municipio de Othón P. Blanco, Quintana Roo y el Reglamento para la Prestación del Servicio de Limpia, Recolección y Tratamiento de la Basura en el Municipio de Othón P. Blanco, publicados en el Periódico Oficial del Estado con fechas 15 de Diciembre de 1987 y 15 de Julio (sic) de 1994 respectivamente y demás disposiciones que contravengan el presente Reglamento.
+El servicio de panteones podrá ser concesionado, con la condición de que se establezca la obligación de reservar al Municipio, cuando menos, el treinta por ciento de la superficie total que se destine a dicho servicio, para que éste lo utilice con el mismo fin.
 
-TERCERO.- Se concede un plazo de noventa días hábiles contados a partir de la fecha en que entre en vigor el presente Reglamento, a las personas físicas y morales para que se ajusten a las disposiciones contenidas en el mismo.
+###### Artículo 143.
 
-CUARTO.- La aplicación del presente Reglamento en lo relativo a las plantas de tratamiento y disposición final de residuos sólidos, se realizará en los sitios actualmente autorizados por el Ayuntamiento de Othón P. Blanco, en tanto se aprueban e instalan las mismas.
+El servicio público de transporte urbano y suburbano en ruta fija, se prestará conforme a lo dispuesto en la Ley de la materia.
 
-DADO EN LA CIUDAD DE CHETUMAL, QUINTANA ROO, MUNICIPIO DE OTHÓN P. BLANCO A LOS DOCE DÍAS DEL MES DE DICIEMBRE DEL DOS MIL CINCO.
+### CAPITULO SEGUNDO. De las Concesiones de Servicios Públicos Municipales
 
-LA PRESIDENTA MUNICIPAL
+###### Artículo 144.
 
-LIC. CORA AMALIA CASTILLA MADRID.
+Los Ayuntamientos podrán otorgar concesiones para la prestación de los servicios públicos por acuerdo de la mayoría calificada.
 
-El SECRETARIO DEL AYUNTAMIENTO.
+No serán objeto de concesión los servicios públicos de seguridad pública.
 
-LIC. ANGEL E. RIVERO PALOMO.
+###### Artículo 145.
 
-CD. CHETUMAL, QUINTANA ROO, A 15 DE DICIEMBRE DEL AÑO 2005
+Las concesiones para la prestación de servicios públicos, no podrán en ningún caso otorgarse a:
 
-EL QUE SUSCRIBE, LIC. ÁNGEL E. RIVERO PALOMO, SECRETARIO GENERAL DEL HONORABLE AYUNTAMIENTO DE OTHON P. BLANCO, QUINTANA ROO. EN USO DE LAS FACULTADES QUE ME CONFIERE LA FRACCION VIII DEL ARTÍCULO 120 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO Y EL ARTÍCULO 70 FRACCION III, DEL REGLAMENTO INTERIOR DEL AYUNTAMlENTO.
+I. Los integrantes del Ayuntamiento;
 
-CERTIFICO QUE:
+II. Los titulares de las dependencias y entidades de la administración pública estatal y municipal;
 
-LOS DOCUMENTOS QUE ANTECEDEN, SON COPIA FIEL DEL ACTA DE LA DÉCIMA OCTAVA SESIÓN ORDINARIA DE CABILDO, DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE OTHÓN P. BLANCO, CELEBRADA EL DÍA 12 DE DICIEMBRE DEL AÑO 2005, CONSTANTE DE 37 FOJA (S) ÚTIL (ES), MISMAS QUE CONCUERDA (N) CON SU ORIGINAL DE PROCEDENCIA AL QUE ME REMITO.
+III. Los cónyuges, parientes consanguíneos en línea recta sin limitación de grado, los colaterales y afines hasta el segundo grado, de las personas a que se refieren las fracciones I y II de este artículo; y
 
-ATENTAMENTE
+IV. Las personas físicas o morales que en los últimos cinco años se les haya revocado otra concesión para la prestación de servicios públicos municipales en el estado o en cualquier parte de la republica mexicana, así como empresas en que sean representantes o tengan intereses económicos, las personas a que se refieren las fracciones anteriores.
 
-LIC. ANGEL E. RIVERO PALOMO
+###### Artículo 146.
 
-SECRETARIO GENERA (SIC) DEL HONORABLE AYUNTAMIENTO DE OTHON P. BLANCO
+El otorgamiento de las concesiones municipales, se sujetará a las siguientes bases:
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+I. Acuerdo del Ayuntamiento sobre la imposibilidad de prestar por sí mismo el servicio público o la conveniencia de que lo preste un tercero;
 
-P.O. 9 DE SEPTIEMBRE DE 2011.
+II. Publicar la convocatoria para el proceso de licitación publica en el Boletín Oficial del Gobierno del Estado y en uno de mayor circulación en el Municipio, misma que deberá contener:
 
-> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO TERCERO DEL ACUERDO POR EL CUAL SE REFORMA EL REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO PUBLICO DE LIMPIA, RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS EN EL MUNICIPIO DE OTHÓN P. BLANCO.]</small>
+a) El objeto y duración de la concesión;
 
-TERCERO.- La reforma a este reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+b) El centro de población donde vaya a prestarse el servicio público;
+
+c) La autoridad municipal ante quien se deba presentar la solicitud correspondiente y el domicilio de la misma;
+
+d) La fecha límite para la presentación de las solicitudes;
+
+e) Los requisitos que deberán cumplir los interesados; y
+
+f) Los demás que considere necesarios el Ayuntamiento.
+
+III. Los interesados deberán formular la solicitud respectiva, cubriendo los siguientes requisitos.
+
+a) Capacidad técnica y financiera;
+
+b) Acreditar la personalidad jurídica, tratándose de personas morales; y
+
+c) Declaración bajo protesta de decir verdad, de no encontrarse en el supuesto del artículo 145 de esta Ley;
+
+IV. Determinación de las condiciones y formas en que deberán otorgarse las garantías para responder de la prestación del servicio público, en los términos del título-concesión y de esta Ley.
+
+###### Artículo 147.
+
+Las personas físicas o morales interesadas en obtener la concesión del servicio público, deberán presentar su solicitud por escrito ante la autoridad municipal que se indique en la convocatoria, dentro del plazo fijado en la misma.
+
+Si la autoridad municipal que recibió la solicitud, determina que ésta debe aclararse o completarse, notificará por escrito al interesado, para que en el término de cinco días hábiles, subsane la omisión o realice las aclaraciones correspondientes; en caso contrario, se tendrá por no presentada dicha solicitud.
+
+Concluido el período de recepción de solicitudes, los Ayuntamientos formarán una comisión técnica especializada en el servicio público a concesionar, misma que deberá rendir un dictamen técnico, financiero, legal y administrativo, sobre el cual el Ayuntamiento emitirá la resolución correspondiente, dentro del término de treinta días hábiles.
+
+En la citada resolución, se asentarán cuáles solicitudes no fueron aceptadas, indicando las razones que motivaron el rechazo y se determinará discrecionalmente de entre los que reúnan las condiciones técnicas, administrativas, legales y financieras, quien o quienes serán los titulares de la concesión del servicio público de que se trate.
+
+Los puntos resolutivos, se publicarán en el Boletín Oficial del Gobierno del Estado.
+
+###### Artículo 148.
+
+El título-concesión, deberá contener:
+
+I. Nombre y domicilio del concesionario;
+
+II. Servicio público concesionado;
+
+III. Centro de población o región donde se prestará el servicio público concesionado;
+
+IV. Derechos y obligaciones del concesionario;
+
+V. Plazo de la concesión;
+
+VI. Cláusula de reversión, en su caso;
+
+VII. Causas de extinción de la concesión;
+
+VIII. Nombre y firma de la autoridad facultada para expedir el título- concesión; y
+
+IX. Las demás disposiciones que establezcan el reglamento y las que acuerde el Ayuntamiento.
+
+###### Artículo 149.
+
+Las concesiones de servicios públicos se otorgarán por tiempo determinado; el plazo de vigencia de éstas será fijado por los Ayuntamientos, el cual podrá ser prorrogado hasta por plazos equivalentes.
+
+En caso de que la vigencia de la concesión exceda al periodo del Ayuntamiento, en el título correspondiente se establecerán las estipulaciones conforme a las cuales las administraciones municipales subsecuentes ratifiquen, revisen y en su caso, modifiquen las condiciones establecidas para la misma.
+
+###### Artículo 150.
+
+El concesionario, previamente a la fecha que se haya fijado como de inicio para la prestación del servicio público, deberá tramitar y obtener de las autoridades correspondientes, los permisos, licencias y demás autorizaciones que se requieran para dicha prestación. Las autoridades estatales competentes, otorgarán a los concesionarios, las facilidades necesarias para el cumplimiento de esta disposición.
+
+###### Artículo 151.
+
+Son obligaciones de los concesionarios:
+
+I. Prestar el servicio público concesionado con eficiencia y eficacia, sujetándose a lo dispuesto por esta Ley, demás disposiciones legales aplicables, así como a los términos del título concesión;
+
+II. Cubrir a la Tesorería municipal los derechos que correspondan, en los términos de las leyes fiscales aplicables;
+
+III. Contar con el personal, equipo e instalaciones suficientes, para cubrir las demandas del servicio público concesionado;
+
+IV. Realizar y conservar, en óptimas condiciones, las obras e instalaciones afectas o destinadas al servicio público concesionado, así como renovar y modernizar el equipo necesario para su prestación, conforme a los adelantos técnicos;
+
+V. Cumplir con los horarios aprobados por el Ayuntamiento para la prestación del servicio público;
+
+VI. Exhibir en lugar visible, en forma permanente, las tarifas o cuotas autorizadas y sujetarse a las mismas, en el cobro del servicio público que presten;
+
+VII. Otorgar garantía en favor del Municipio;
+
+VIII. Iniciar la prestación del servicio público dentro del plazo que fije el título-concesión; y
+
+IX. Las demás que establezcan los reglamentos respectivos y las disposiciones legales aplicables.
+
+###### Artículo 152.
+
+Son facultades de los Ayuntamientos respecto de las concesiones de servicios públicos:
+
+I. Vigilar el cumplimiento de las obligaciones del concesionario;
+
+II. Realizar las modificaciones que estimen convenientes a los títulos- concesión, cuando lo exija el interés público;
+
+III. Verificar las instalaciones que conforme al título-concesión, se deban construir o adaptar para la prestación del servicio público;
+
+IV. Dictar las resoluciones de extinción, cuando procedan conforme a esta Ley y al título-concesión;
+
+V. Ocupar temporalmente el servicio público e intervenir en su administración, en los casos en que el concesionario no lo preste eficazmente o se niegue a seguir prestándolo, en cuyo caso podrá auxiliarse de la fuerza pública, cuando proceda;
+
+VI. Ejercer la reversión de los bienes afectos o destinados a la concesión, sin necesidad de ningún pago, al término de la misma y de la prórroga en su caso, cuando así se haya estipulado en el título- concesión;
+
+VII. Rescatar por causas de utilidad pública y mediante indemnización, el servicio público objeto de la concesión; y
+
+VIII. Las demás previstas en esta Ley y en otras disposiciones legales aplicables.
+
+###### Artículo 153.
+
+Las concesiones de servicios públicos, se extinguen por cualquiera de las causas siguientes:
+
+I. Cumplimiento del plazo;
+
+II. Revocación;
+
+III. Caducidad
+
+IV. Cualquiera otra prevista en el título-concesión.
+
+###### Artículo 154.
+
+Las concesiones de servicios públicos, podrán ser revocadas por cualquiera de las causas siguientes:
+
+I. Interrupción en todo o en parte del servicio público concesionado, sin causa justificada a juicio del Ayuntamiento o sin previa autorización por escrito del mismo;
+
+II. Ceder, hipotecar, enajenar o de cualquier manera gravar la concesión o alguno de los derechos en ella establecidos, o los bienes afectos o dedicados al servicio público de que se trate, sin la previa autorización por escrito del Ayuntamiento;
+
+III. Modificar o alterar la naturaleza o condiciones en que se preste el servicio público, así como las instalaciones o su ubicación sin la previa aprobación por escrito del Ayuntamiento;
+
+IV. Dejar de pagar, en forma oportuna, los derechos que se hayan fijado a favor del Ayuntamiento, por el otorgamiento de la concesión y refrendo anual de la misma; y
+
+V. Por incumplimiento de las obligaciones del concesionario, establecidas en esta Ley y en el título-concesión.
+
+###### Artículo 155.
+
+Las concesiones de servicios públicos caducarán por cualquiera de las causas siguientes:
+
+I. Por no otorgar la garantía a que se refiere esta Ley; y
+
+II. Por no iniciar la prestación del servicio público, una vez otorgada la concesión, dentro del término señalado en la misma.
+
+###### Artículo 156.
+
+El procedimiento de revocación y caducidad de las concesiones de servicios públicos, se substanciará y resolverá por el Ayuntamiento, con sujeción a las siguientes normas:
+
+I.- Se iniciará de oficio o a petición de parte con interés legítimo;
+
+II.- Se notificará la iniciación del procedimiento al concesionario en forma personal, a efecto de que manifieste lo que a su interés convenga, dentro del plazo de cinco días hábiles contados a partir del día siguiente al de la notificación;
+
+III.- Se abrirá un período probatorio por el término de quince días hábiles, contados a partir del día siguiente al de la notificación a que se refiere la fracción anterior;
+
+IV.- Se desahogarán las pruebas ofrecidas en el lugar, día y hora que fije la autoridad municipal;
+
+V.- Se dictará resolución, dentro de los diez días hábiles siguientes al vencimiento del plazo para el desahogo de pruebas; y
+
+VI.- La resolución que se dicte, se notificará personalmente al interesado, en su domicilio legal o en el lugar donde se preste el servicio.
+
+En lo no previsto por este artículo, será aplicable de manera supletoria el Código de Procedimientos Civiles para el Estado de Baja California Sur.
+
+###### Artículo 157.
+
+Cuando la concesión del servicio público se extinga por causa imputable al concesionario, se hará efectivo a favor del Municipio, el importe de la garantía señalada en esta Ley.
+
+## TITULO VI. PATRIMONIO Y HACIENDA PÚBLICA MUNICIPAL
+
+### CAPITULO PRIMERO. Del Patrimonio Municipal
+
+###### Artículo 158.
+
+El patrimonio municipal se constituye por:
+
+I. Los ingresos que conforman la hacienda pública municipal;
+
+II. Los bienes del dominio público y privado del Municipio;
+
+III. Los derechos y obligaciones constituidos jurídicamente a favor del Municipio;
+
+IV. Los demás bienes, derechos y aprovechamientos que señalen otras leyes y ordenamientos a favor del Municipio; y
+
+V. La deuda pública municipal.
+
+### CAPITULO SEGUNDO. De la Hacienda Pública
+
+###### Artículo 159.
+
+La hacienda pública municipal se constituirá por los rendimientos de los bienes que pertenezcan al Municipio, así como por las contribuciones y otros ingresos que establezcan las leyes fiscales a su favor.
+
+Los recursos que integran la hacienda pública municipal serán ejercidos en forma directa por el Ayuntamiento o por quien éste autorice conforme a la Ley.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Los ingresos que pertenezcan al Municipio podrán afectarse o cederse en los términos previstos en la legislación aplicable.
+
+### CAPITULO TERCERO. De los Bienes del Dominio Público y Privado de los Municipios
+
+###### Artículo 160.
+
+Los bienes del dominio público del Municipio son inalienables, imprescriptibles e inembargables y sólo podrán enajenarse previa desafectación y autorización del Ayuntamiento por acuerdo de su mayoría calificada.
+
+###### Artículo 161.
+
+Los bienes del dominio público municipal, se clasifican en:
+
+I. De uso común;
+
+II. Inmuebles destinados a un servicio público municipal;
+
+III. Monumentos históricos y artísticos, muebles o inmuebles, de propiedad municipal;
+
+IV. Pinturas, murales, esculturas y cualquier obra artística incorporada permanentemente a los inmuebles del Municipio o del patrimonio de los organismos descentralizados, cuya conservación sea de interés histórico o artístico;
+
+V. Servidumbres, cuando el predio dominante sea alguno de los señalados en este artículo; y
+
+VI. Los demás que por disposición de otros ordenamientos, forman o deban formar parte del dominio público municipal.
+
+###### Artículo 162.
+
+Son bienes de uso común:
+
+I.- Las plazas, callejones, calles, avenidas y demás áreas destinadas a la vialidad, que sean municipales;
+
+II.- Los accesos, caminos, calzadas y puentes, que no sean propiedad del Estado o de la Federación;
+
+III.- Los canales, zanjas y acueductos para usos de la población, construidos o adquiridos por los municipios dentro de su territorio, que no sean de la Federación o del Estado;
+
+IV.- Los parques y jardines municipales;
+
+V.- Las construcciones en lugares públicos, para servicio u ornato;
+
+VI.- Los bienes muebles de propiedad municipal, que por su naturaleza no sean sustituibles, tales como documentos, expedientes, manuscritos, publicaciones, mapas, planos, fotografías, grabados, pinturas, películas, archivos, registros y similares; y
+
+VII.- Los demás clasificados por otros ordenamientos como tales.
+
+###### Artículo 163.
+
+Son bienes destinados a un servicio público:
+
+I.- Los inmuebles destinados a las dependencias y oficinas municipales;
+
+II.- Los inmuebles afectos a los servicios públicos municipales;
+
+III.- Los inmuebles que constituyen el patrimonio de los organismos públicos descentralizados;
+
+IV.- Los inmuebles de propiedad municipal que sean parte del equipamiento urbano; y
+
+V.- Cualesquiera otros adquiridos por procedimientos de derecho público.
+
+###### Artículo 164.
+
+Los bienes del dominio privado del Municipio, son los que no estén comprendidos en los artículos anteriores, los cuales son alienables, imprescriptibles e inembargables.
+
+En caso de laudo laboral que condene al Ayuntamiento al pago de prestaciones en favor de los trabajadores, los bienes del dominio privado del Municipio podrán ser embargados para efecto de garantizar los derechos laborales.
+
+###### Artículo 165.
+
+Los inmuebles del dominio privado del Municipio, se destinarán prioritariamente a satisfacer las necesidades colectivas del Municipio.
+
+###### Artículo 166.
+
+Los inmuebles del dominio privado del Municipio, que no sean adecuados para los fines a que se refiere el artículo anterior, podrán ser objeto de enajenación por acuerdo del Ayuntamiento.
+
+###### Articulo 167.
+
+El Ayuntamiento sólo podrá donar o dar en comodato los bienes del dominio privado del Municipio, por acuerdo de la mayoría calificada de sus integrantes, cuando éstos sean a favor de instituciones públicas o privadas, que representen un beneficio social para el Municipio y que no persigan fines de lucro.
+
+El Ayuntamiento en todo caso establecerá los términos y condiciones que aseguren el cumplimiento del beneficio social que se persigue con la donación o el comodato, los que se insertarán textualmente en el acuerdo y en el contrato respectivo.
+
+En el caso de la donación, en el acuerdo correspondiente se deberá establecer la cláusula de reversión.
+
+###### Artículo 168.
+
+Los bienes del Municipio donados, revertirán a su patrimonio cuando se den cualquiera de los siguientes supuestos:
+
+I.- Se utilicen para un fin distinto al autorizado;
+
+II.- La persona jurídica colectiva se disuelva o liquide; o
+
+III.- No se inicie la obra en el término especificado.
+
+###### Artículo 169.
+
+Para ejercer la reversión, el Ayuntamiento se sujetará a las disposiciones de los Códigos Civil y de Procedimientos Civiles vigentes en el Estado.
+
+###### Artículo 170.
+
+Cuando se requiera afectar un bien inmueble de propiedad privada, que por su ubicación y características satisfaga las necesidades para la realización de una obra pública, el ejercicio de una función o la prestación de un servicio público, podrá ser permutado por bienes de propiedad municipal con un valor comercial equivalente, si así lo acuerda la mayoría calificada del Ayuntamiento.
+
+###### Artículo 171.
+
+Sólo procederá la venta de los bienes del dominio privado del Municipio, por acuerdo de la mayoría calificada de los integrantes del Ayuntamiento, cuando el producto de la misma represente un incremento al patrimonio municipal, debiendo éste ser aplicado preferentemente a satisfacer las necesidades colectivas del Municipio.
+
+El Ayuntamiento podrá, si a su juicio concurren circunstancias que así lo ameriten variar el requisito exigido para la venta relativo a que el producto de la misma represente un incremento al patrimonio municipal, justificando en el acuerdo correspondiente el beneficio social que se obtendrá con la misma, requiriendo éste para su validez ser aprobado por la mayoría calificada del Ayuntamiento.
+
+###### Articulo 172.
+
+Cuando la vigencia de los contratos de arrendamiento, comodato u otros traslativos de uso sobre bienes de propiedad municipal, exceda el periodo del Ayuntamiento que los celebre, se estipularán en los mismos las cláusulas conforme a las cuales las administraciones municipales subsecuentes, ratificarán, revisarán y en su caso, modificarán las condiciones establecidas en los mismos.
+
+###### Artículo 173.
+
+La venta de bienes de propiedad municipal en subasta pública, se hará observando las condiciones y el procedimiento siguiente:
+
+I. El acuerdo autorizando la venta y el precio base para la misma, serán aprobados por la mayoría calificada del Ayuntamiento, previo avalúo practicado por dos peritos autorizados;
+
+II. La convocatoria para la subasta deberá ser publicada en el Boletín Oficial del Gobierno del Estado, así como en el periódico de mayor circulación en el Municipio, señalando fecha, hora y lugar donde se efectuará el acto; y
+
+III. En todo lo no previsto, se aplicará supletoriamente el procedimiento establecido en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionado con Bienes Muebles e Inmuebles del Estado de Baja California Sur.
+
+###### Artículo 174.
+
+Cuando la venta de bienes muebles se realice fuera de subasta pública, se requerirá la autorización de la mayoría calificada del Ayuntamiento y el precio será fijado por la misma mayoría, previo avalúo practicado por dos peritos autorizados.
+
+###### Artículo 175.
+
+Ninguna enajenación, uso, disfrute o aprovechamiento de bienes inmuebles del Municipio, podrá hacerse a favor de los miembros del Ayuntamiento o de los titulares de las dependencias y entidades de la Administración Pública Municipal, estatal o federal, ni a sus cónyuges, parientes consanguíneos en línea recta sin limitación de grado, colaterales y afines hasta el segundo grado.
+
+###### Artículo 176.
+
+Toda disposición de bienes de propiedad municipal, que se realice en contravención a la normatividad aplicable, implicará responsabilidad del servidor público que la realice o promueva.
+
+Por razones de interés público, los jueces están obligados a comunicar al Ayuntamiento respectivo, el inicio de cualquier juicio o procedimiento tendiente a acreditar la posesión o propiedad sobre bienes inmuebles que se estimen del dominio público o privado del Municipio.
+
+### CAPITULO CUARTO. De las Adquisiciones, Enajenaciones, Arrendamientos y Contrataciones de Servicios de Bienes Muebles e Inmuebles
+
+###### Artículo 177.
+
+Para el desempeño de las funciones de la Administración Pública Municipal, el Ayuntamiento aprobará las disposiciones administrativas relativas a las adquisiciones, enajenaciones, arrendamientos y contratación de servicios relacionados con bienes muebles e inmuebles del Municipio.
+
+###### Artículo 178.
+
+Para los efectos del artículo anterior, se creará un comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, el cual se integrará con un regidor de cada una de las diversas fuerzas políticas que constituyan el Ayuntamiento y los servidores públicos que determine el mismo.
+
+###### Artículo 179.
+
+El comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, tendrá las siguientes atribuciones:
+
+I. Celebrar concursos para la adjudicación de contratos, en los términos aprobados por el Ayuntamiento;
+
+II. Proponer modificaciones a las disposiciones administrativas aprobadas por el Ayuntamiento;
+
+III. Proponer al Ayuntamiento, previo dictamen, la rescisión de contratos por caso fortuito o fuerza mayor, el pago de indemnizaciones a los proveedores que, en su caso, se consideren procedentes, así como las sanciones que correspondan a los proveedores que hayan incurrido en incumplimiento parcial o total de contratos;
+
+IV. Publicar en el diario de mayor circulación, la convocatoria del concurso sobre adquisiciones de bienes, de conformidad con las bases aprobadas por el Ayuntamiento;
+
+V. Realizar las licitaciones públicas conducentes; y
+
+VI. Las demás que apruebe el Ayuntamiento.
+
+###### Artículo 180.
+
+En lo no previsto en esta Ley, se aplicará supletoriamente, la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Baja California Sur.
+
+### CAPITULO QUINTO. Del Presupuesto Municipal
+
+###### Artículo 181.
+
+El Ayuntamiento aprobará su presupuesto de egresos, que regirá del 1º de enero hasta el 31 de diciembre del ejercicio fiscal correspondiente, debiendo publicarlo para conocimiento de la población dentro de los primeros quince días hábiles de enero, en el periódico de mayor circulación en el Municipio o en otros medios de comunicación que se estimen convenientes.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+###### Artículo 181 Bis.
+
+Los Ayuntamientos preverán en su correspondiente presupuesto de egresos, las partidas necesarias para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de Largo Plazo, así como aquellas partidas emanadas de los compromisos derivados de los ingresos y derechos previamente afectados o cedidos a los fideicomisos, a que se refiere el Capítulo Quinto de la Ley de Deuda Pública para el Estado, mientras dichos fideicomisos estén vigentes.
+
+###### Artículo 182.
+
+La presupuestación del gasto público municipal, atenderá los objetivos y prioridades que señale el plan de gobierno municipal y los programas derivados de éste, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público, procurando observar los siguientes criterios:
+
+I.- El equilibrio entre el ingreso y el egreso;
+
+II.- Operar, mantener, reconstruir, mejorar y ampliar los servicios municipales;
+
+III.- Que el gasto público comprenda las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, pago de deuda pública, transferencia de recursos y pago de pasivos, entre estos últimos, las contingencias laborales y la responsabilidad patrimonial a cargo del Municipio; y
+
+IV.- La distribución equitativa y proporcional del presupuesto de egresos, en la satisfacción de las necesidades del Municipio.
+
+###### Artículo 183.
+
+Durante el mes de septiembre de cada año, la Tesorería municipal recibirá de las dependencias y entidades de la Administración Pública Municipal, sus respectivos anteproyectos de presupuesto, los cuales servirán de base para el proyecto que formule la Tesorería municipal.
+
+###### Artículo 184.
+
+El presupuesto deberá ser aprobado por mayoría calificada del Ayuntamiento. En el acta que se levante, se asentarán las cifras que por cada programa y ramo se hayan autorizado.
+
+###### Artículo 185.
+
+Para cualquier modificación al presupuesto, se deberá seguir el mismo procedimiento que para su aprobación y ser sancionado por mayoría calificada del Ayuntamiento.
+
+###### Artículo 186.
+
+Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto que lo autorice y que tenga saldo disponible para cubrirlo, a excepción de las resoluciones de naturaleza jurisdiccional que determinen obligaciones a cargo del Municipio.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Sin menoscabo de lo anteriormente señalado, los Ayuntamientos, deberán efectuar el pago de las obligaciones de los Municipios, asumidas conforme a lo previsto por el artículo 29, párrafo tercero de la Ley de Deuda Pública para el Estado. En caso de que los recursos disponibles no sean suficientes para el pago total de dichas obligaciones en el año calendario correspondiente con cargo a sus ingresos extraordinarios, la partida relativa para el pago de las cantidades restantes deberá incluirse en el Presupuesto de Egresos del año calendario siguiente, considerando en todo caso las posibilidades financieras del Municipio, debiendo conservarse las directrices de la programación del gasto público estatal, la estructura y el equilibrio presupuestal.
+
+## TITULO VII. PLANEACIÓN DEL DESARROLLO MUNICIPAL
+
+### CAPITULO PRIMERO. De la Planeación del Desarrollo Municipal
+
+###### Artículo 187
+
+Cada Ayuntamiento elaborará su plan de desarrollo municipal y los programas de trabajo necesarios para su ejecución en forma democrática y participativa.
+
+###### Artículo 188.
+
+La formulación, aprobación, ejecución, control y evaluación del plan y programas municipales estarán a cargo de los órganos, dependencias o servidores públicos que determinen los Ayuntamientos, conforme a las normas legales de la materia y las que cada cabildo determine.
+
+###### Artículo 189.
+
+El Plan de Desarrollo Municipal deberá ser elaborado por las áreas correspondientes y presentado para su aprobación y publicación al Cabildo, dentro de los primeros cuatro meses de la gestión municipal. Su evaluación deberá realizarse anualmente.
+
+###### Artículo 190.
+
+El Plan de Desarrollo Municipal tendrá los objetivos siguientes:
+
+I.- Atender las demandas prioritarias de la población;
+
+II.- Propiciar el desarrollo armónico del municipio;
+
+III.- Asegurar la participación de la sociedad en las acciones del gobierno municipal;
+
+IV.- Vincular el Plan de Desarrollo Municipal con los planes de desarrollo federal y estatal;
+
+V.- Aplicar de manera racional los recursos financieros para el cumplimiento del plan y los programas de desarrollo.
+
+###### Artículo 191.
+
+El Plan de Desarrollo Municipal contendrá al menos, un diagnóstico sobre las condiciones económicas y sociales del municipio, las metas a alcanzar, las estrategias a seguir, los plazos de ejecución, las dependencias y organismos responsables de su cumplimiento y las bases de coordinación y concertación que se requieren para su cumplimiento.
+
+###### Artículo 192.
+
+El Plan de Desarrollo Municipal se complementará con programas anuales sectoriales de la administración municipal y con programas especiales de los organismos desconcentrados y descentralizados de carácter municipal.
+
+###### Artículo 193.
+
+En la elaboración de su Plan de Desarrollo Municipal, los Ayuntamientos proveerán lo necesario para promover la participación y consultas populares.
+
+###### Artículo 194.
+
+Los Ayuntamientos publicarán su Plan de Desarrollo Municipal a través del diario de mayor circulación en el municipio durante el primer año de gestión y lo difundirán en forma extensa.
+
+###### Artículo 195.
+
+El Plan de Desarrollo y los programas que de éste se deriven, serán obligatorios para las dependencias de la Administración Pública Municipal, y en general para las entidades públicas de carácter municipal.
+
+Los planes y programas podrán ser modificados o suspendidos siguiendo el mismo procedimiento que para su elaboración, aprobación y publicación, cuando lo demande el interés social o lo requieran las circunstancias de tipo técnico o económico.
+
+###### Artículo 196.
+
+Los Ayuntamientos de acuerdo a sus características, necesidades y recursos económicos podrán crear organismos descentralizados como institutos municipales cuya finalidad primordial será el análisis técnico y la creación de políticas públicas consensadas con la sociedad para lograr los objetivos de los planes, programas, y propuestas.
+
+Los organismos a que se hace referencia en este artículo tendrán la finalidad de orientar, asesorar y aconsejar a los Ayuntamientos en materia de Planeación Municipal desde un punto de vista técnico y profesional. Dichos organismos se regirán conforme al reglamento que previamente apruebe el Ayuntamiento o conforme al acuerdo de creación.
+
+### CAPITULO SEGUNDO. Del Comité de Planeación para el Desarrollo Municipal
+
+###### Artículo 197.
+
+El Comité de Planeación para el Desarrollo Municipal, se integrará con ciudadanos distinguidos del municipio, representativos de los sectores público, social y privado, así como de las organizaciones sociales del municipio, también podrán incorporarse a miembros de los consejos de participación ciudadana.
+
+###### Artículo 198.
+
+El Comité de Planeación para el Desarrollo Municipal tendrá las siguientes atribuciones:
+
+I.- Proponer al Ayuntamiento los mecanismos, instrumentos o acciones para la formulación, control y evaluación del Plan de Desarrollo Municipal;
+
+II.- Consolidar un proceso permanente y participativo de planeación orientado a resolver los problemas municipales;
+
+III.- Formular recomendaciones para mejorar la administración municipal y la prestación de los servicios públicos;
+
+IV.- Realizar estudios y captar la información necesaria para cumplir con las encomiendas contenidas en las fracciones anteriores;
+
+V.- Gestionar la expedición de reglamentos o disposiciones administrativas que regulen el funcionamiento de los programas que integren el Plan de Desarrollo Municipal;
+
+VI.- Comparecer ante el cabildo cuando éste lo solicite, o cuando la comisión lo estime conveniente;
+
+VII.- Proponer, previo estudio, a las autoridades municipales, la realización de obras o la creación de nuevos servicios públicos o el mejoramiento a los ya existentes mediante el sistema de cooperación y en su oportunidad promover la misma;
+
+VIII.- Desahogar las consultas que en materia de creación y establecimiento de nuevos asentamientos humanos dentro del municipio, les turne el Ayuntamiento;
+
+IX.- Formar subcomisiones de estudio para asuntos determinados; y
+
+X.- Proponer al cabildo su reglamento interior.
+
+###### Artículo 199.
+
+El Presidente Municipal, al inicio de su período constitucional, convocará a organizaciones sociales de la comunidad para que se integren al Comité de Planeación para el Desarrollo Municipal.
+
+###### Artículo 200.
+
+El Comité de Planeación para el Desarrollo Municipal contará con un mínimo de cinco miembros encabezados por quien designe el Ayuntamiento, y podrá tener tantos como se juzgue conveniente para el eficaz desempeño de sus funciones, los cuales durarán en su encargo el período municipal correspondiente.
+
+## TITULO VIII. CUERPOS DE SEGURIDAD PUBLICA Y POLICÍA DE TRANSITO MUNICIPAL
+
+### CAPITULO ÚNICO. De los Cuerpos de Seguridad Pública y Tránsito
+
+###### Artículo 201.
+
+En cada municipio se integrarán cuerpos de seguridad pública, protección civil y, en su caso, de tránsito, de los cuales el Presidente Municipal será el jefe inmediato, delegando tal responsabilidad en un director.
+
+###### Artículo 202.
+
+El Ejecutivo Federal y el Gobernador del Estado en los términos del artículo 115, fracción VII de la Constitución General de la República, tendrán el mando de la fuerza pública en los municipios donde residan habitual o transitoriamente.
+
+En el municipio donde residan permanentemente los Poderes del Estado, el mando de la fuerza pública municipal lo ejercerá, en cualquier caso el Ejecutivo Estatal a través de la Dirección General de Seguridad Pública y Tránsito.
+
+###### Artículo 203.
+
+Los cuerpos de seguridad pública, bomberos y tránsito municipales se coordinarán en lo relativo a su organización, función y aspectos técnicos con la Secretaría de Seguridad Pública del Estado.
+
+###### Artículo 204.
+
+Cada Ayuntamiento podrá decidir si opera conjunta o separadamente los cuerpos de Seguridad Pública y los de Tránsito Municipal.
+
+## TITULO IX. COORDINACIÓN MUNICIPAL DE DERECHOS HUMANOS
+
+### CAPITULO PRIMERO. Del Nombramiento del Coordinador Municipal de Derechos Humanos
+
+###### Artículo 205.
+
+En cada municipio, el Ayuntamiento respectivo llevará a cabo una convocatoria abierta a efecto de que se designe al Coordinador Municipal de Derechos Humanos, mismo que durará en su cargo 3 años.
+
+De los aspirantes a Coordinadores Municipales de Derechos Humanos que de dicha convocatoria resultaren, se elegirá por el Cabildo, de una terna presentada por el Presidente de la Comisión Estatal de Derechos Humanos al más apropiado.
+
+La Coordinación Municipal de Derechos Humanos será autónoma en sus actuaciones.
+
+###### Artículo 206.
+
+El Coordinador Municipal deberá reunir los siguientes requisitos:
+
+I.- Ser originario del municipio de que se trate o vecino de él, con residencia efectiva en su territorio no menor de tres años;
+
+II.- Ser ciudadano mexicano en pleno ejercicio de sus derechos y de reconocida honorabilidad en su municipio;
+
+III.- No desempeñar ningún empleo o cargo público al momento de asumir sus funciones en la coordinación;
+
+IV.- Tener más de 25 años al momento de su designación;
+
+V.- Contar preferentemente con licenciatura, especialización o similar en el área de Derechos Humanos.
+
+Durante el tiempo de su encargo, el Coordinador no podrá desempeñar otro empleo, cargo o comisión públicos; ni realizar cualquier actividad proselitista.
+
+###### Artículo 207.
+
+Son causas de separación del Coordinador Municipal de Derechos Humanos:
+
+I.- Renuncia;
+
+II.- Haber sido condenado por delito doloso; y
+
+III.- Haber estado involucrado en soborno, corrupción, cohecho, así como en cualquier otra conducta ilícita.
+
+### CAPITULO SEGUNDO. De las Facultades y Obligaciones del Coordinador Municipal de Derechos Humanos
+
+###### Artículo 208.
+
+Son facultades y obligaciones del Coordinador Municipal de Derechos Humanos:
+
+I.- Recibir las quejas de la población y remitirlas a la Comisión Estatal de Derechos Humanos, por conducto de sus visitadurías, conforme al Reglamento Interno de ese organismo;
+
+II.- Informar a la Comisión Estatal de Derechos Humanos, acerca de presumibles violaciones a los derechos humanos por actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público que residan en el municipio de su adscripción;
+
+III.- Conciliar, con la anuencia de la Comisión Estatal de Derechos Humanos, las quejas que por su naturaleza estrictamente administrativa lo permitan;
+
+IV. Llevar el seguimiento de las recomendaciones que el organismo estatal dirija a las autoridades o servidores públicos del Ayuntamiento;
+
+V.- Vigilar que se elaboren y rindan oportunamente los informes que la Comisión Estatal de Derechos Humanos, solicite a la autoridad municipal, los cuales deberán contener la firma del servidor público respectivo;
+
+VI.- Promover el respeto a los derechos humanos por parte de los servidores públicos del Ayuntamiento, por medio de cursos de capacitación y actualización;
+
+VII.- Fortalecer la práctica de los derechos humanos con la participación de los organismos no gubernamentales del municipio;
+
+VIII.- Asesorar a las personas, en especial a los menores, personas de la tercera edad, indígenas, discapacitados y detenidos o arrestados por autoridades municipales, por la comisión de faltas administrativas, a fin de que les sean respetados sus derechos humanos;
+
+IX.- Impulsar la protección de los derechos humanos, promoviendo, según las circunstancias del municipio, las disposiciones legales aplicables;
+
+X.- Proponer acuerdos y circulares que orienten a los servidores públicos del Ayuntamiento para que, durante el desempeño de sus funciones, actúen con pleno respeto a los derechos humanos; y
+
+XI.- Organizar actividades para la población a efecto de promover el fortalecimiento de la cultura de los derechos humanos.
+
+###### Artículo 209.
+
+El Coordinador Municipal de Derechos Humanos, en todo caso, deberá coordinar acciones con la Comisión Estatal de Derechos Humanos, específicamente con el Visitador Municipal que corresponda al municipio de que se trate.
+
+###### Artículo 210.
+
+Los Coordinadores Municipales de Derechos Humanos ejercerán el presupuesto asignado con sujeción a las políticas de racionalidad, austeridad y disciplina presupuestal, debiendo cumplir con los programas y proyectos definidos por la Comisión de Derechos Humanos.
+
+###### Artículo 211.
+
+El Coordinador Municipal de Derechos Humanos, rendirá un informe semestral de actividades al Ayuntamiento reunido en sesión solemne de cabildo debiendo asistir el Presidente de la Comisión Estatal de Derechos Humanos o quien lo represente.
+
+El Coordinador Municipal de Derechos Humanos deberá entregar en dicha reunión el informe respectivo al Presidente de la Comisión Estatal de Derechos Humanos, o en su caso a quien lo represente en la misma.
+
+## TITULO X. FACULTAD REGLAMENTARIA DE LOS AYUNTAMIENTOS
+
+### CAPITULO PRIMERO. De los Bandos y Reglamentos
+
+###### Artículo 212.
+
+Los Ayuntamientos están facultados para elaborar, expedir, reformar y adicionar, de acuerdo con las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, que organicen la Administración Pública Municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y Vecinal.
+
+###### Artículo 213.
+
+Para la expedición de los bandos de policía y buen gobierno, de los reglamentos, circulares y disposiciones administrativas de observancia general, los Ayuntamientos deberán sujetarse a las siguientes bases normativas:
+
+I.- Respetar las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y la del Estado de Baja California Sur, así como las leyes federales o estatales, con estricta observancia de las garantías individuales;
+
+II.- Delimitarán la materia que regulan;
+
+III.- Sujetos obligados;
+
+IV.- Objeto sobre el que recae la reglamentación;
+
+V.- Derechos y obligaciones de los habitantes;
+
+VI.- Autoridad responsable de su aplicación;
+
+VII.- Facultades y obligaciones de las autoridades;
+
+VIII.- Sanciones y procedimiento para la imposición de las mismas;
+
+IX.- Medios de impugnación; y
+
+X.- Transitorios, en donde se deberá establecer, entre otras previsiones, la fecha en que inicie su vigencia.
+
+###### Artículo 214.
+
+Los Ayuntamientos podrán expedir y promulgar, entre otros, los siguientes reglamentos municipales:
+
+I.- Los que regulen las atribuciones, organización y funcionamiento del Ayuntamiento, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y esta Ley;
+
+II.- Los que establezcan y regulen la estructura y funciones de la Administración Pública Municipal centralizada y descentralizada;
+
+III.- Los que tiendan a asegurar la creación, funcionamiento y prestación de los servicios públicos municipales y el ejercicio de las funciones que la Ley confiera al Municipio y al propio Ayuntamiento;
+
+IV.- Los que se refieran a las facultades en materia de obra pública, desarrollo urbano, fraccionamientos y ecología;
+
+V.- Los que atiendan a la asistencia y salud pública; y
+
+VI.- Los que regulen las actividades de los habitantes del Municipio, en un marco de respeto al derecho, la paz pública y la tranquilidad, que propicien el desarrollo de la vida comunitaria y aquellas que tengan la finalidad de prevención.
+
+###### Artículo 215.
+
+Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, para ser válidos, deberán ser aprobados por mayoría calificada del Ayuntamiento y publicados en el Boletín Oficial del Gobierno del Estado.
+
+## TITULO XI. JUSTICIA ADMINISTRATIVA
+
+### CAPITULO ÚNICO. De los Recursos Administrativos
+
+###### Artículo 216.
+
+Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer los recursos administrativos ante la propia autoridad o el juicio ante la Sala Civil y Administrativa del Tribunal Superior de Justicia del Estado, conforme a las disposiciones y procedimientos señalados en la Ley de Justicia Administrativa para el Estado de Baja California Sur.
+
+## TITULO XII. SERVIDORES PÚBLICOS MUNICIPALES
+
+### CAPITULO PRIMERO. De las Responsabilidades de los Servidores Públicos Municipales
+
+###### Artículo 217.
+
+Son servidores públicos municipales, señalados en el artículo 156 de la Constitución Política del Estado. Dichos servidores públicos municipales serán responsables por los delitos y faltas administrativas que cometan durante su encargo.
+
+###### Artículo 218.
+
+Por las infracciones administrativas cometidas a esta Ley, Bando y reglamentos municipales, los servidores públicos municipales incurrirán en responsabilidades en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+### CAPITULO SEGUNDO. Del Servicio Civil de Carrera
+
+###### Artículo 219.
+
+Los Ayuntamientos institucionalizarán el servicio civil de carrera, el cual tendrá los siguientes propósitos:
+
+I.- Garantizar la estabilidad y seguridad en el empleo;
+
+II.- Fomentar la vocación de servicio, mediante una motivación adecuada;
+
+III.- Promover la capacitación permanente del personal;
+
+IV.- Procurar la lealtad a las instituciones del Municipio;
+
+V.- Promover la eficiencia y eficacia de los servidores públicos municipales;
+
+VI.- Mejorar las condiciones laborales de los servidores públicos municipales;
+
+VII.- Garantizar promociones justas y otras formas de progreso laboral, con base en sus méritos;
+
+VIII.- Garantizar a los servidores públicos municipales, el ejercicio de los derechos que les reconocen las leyes y otros ordenamientos jurídicos; y
+
+IX.- Contribuir al bienestar de los servidores públicos municipales y sus familias, mediante el desarrollo de actividades educativas, cultural, deportivo, recreativo y social.
+
+###### Artículo 220.
+
+Para la institucionalización del servicio civil de carrera, los Ayuntamientos establecerán:
+
+I.- Las normas, políticas y procedimientos administrativos, que definirán qué servidores públicos municipales participarán en el servicio civil de carrera;
+
+II.- Un estatuto del personal;
+
+III.- Un sistema de mérito para la selección, promoción, ascenso y estabilidad del personal;
+
+IV.- Un sistema de clasificación de puestos;
+
+V.- Un sistema de plan de salarios y tabulador de puestos; y
+
+VI.- Un sistema de capacitación, actualización y desarrollo de personal.
+
+###### Artículo 221.
+
+El Ayuntamiento creará una comisión del servicio civil de carrera, como organismo auxiliar de éste la cual estará conformada por el Presidente Municipal, un regidor que designe el cabildo y un representante que determine el Sindicato Único de Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California Sur.
+
+###### Artículo 222.
+
+La comisión del servicio civil de carrera tendrá las siguientes funciones:
+
+I.- Promover ante las dependencias y entidades de la Administración Pública Municipal, la realización de los programas específicos del servicio civil de carrera;
+
+II.- Promover mecanismos de coordinación entre las dependencias y entidades de la Administración Pública Municipal, para uniformar y sistematizar los métodos de administración y desarrollo del personal, encaminados a instrumentar el servicio civil de carrera;
+
+III.- Determinar y proponer los elementos que permitan la adecuación e integración del marco jurídico y administrativo que requiera la instauración del servicio civil de carrera;
+
+IV.- Promover mecanismos de participación permanente, para integrar y unificar los planteamientos de las dependencias y entidades de la Administración Pública Municipal, así como los correspondientes a las representaciones sindicales, en la instrumentación del servicio civil de carrera;
+
+V.- Estudiar y emitir las recomendaciones necesarias para asegurar la congruencia de normas, sistemas y procedimientos del servicio civil de carrera, con los instrumentos del plan de desarrollo municipal;
+
+VI.- Evaluar periódicamente los resultados de las acciones orientadas a la instrumentación del servicio civil de carrera; y
+
+VII.- Las demás que señale el Ayuntamiento, que le sean necesarias para el cumplimiento de su objeto.
+
+###### Artículo 223.
+
+En la aplicación del presente capítulo, se atenderá en lo conducente, lo dispuesto por la Ley de los Trabajadores al Servicio de los Poderes y Municipios del Estado de Baja California Sur.
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor 30 días naturales después de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley Orgánica Municipal Reglamentaria del Titulo Octavo de la Constitución Política del Estado de Baja California Sur, expedida con fecha 17 de diciembre de 1976 y entró en vigor el 1° de enero de 1977.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO CUARTO.
+
+Los Ayuntamientos del Estado deberán adecuar sus reglamentos y demás disposiciones conforme a lo dispuesto a esta (sic) Decreto a más tardar en un plazo de sesenta días naturales a partir de su entrada en vigor. En su caso, el Congreso del Estado deberá realizar las adecuaciones a las leyes secundarias o reglamentarias en materia Municipal del Estado en un término no mayor de noventa días.
+
+###### ARTICULO QUINTO.
+
+Los Ayuntamientos expedirán los reglamentos respectivos sesenta días naturales después de la publicación de la presente ley.
+
+DADO EN EL SALA DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA PAZ, BAJA CALIFORNIA SUR, A LOS CUATRO DÍAS DEL MES OCTUBRE DE DOS MIL SIETE.
+
+DIP. VENUSTIANO PÉREZ SÁNCHEZ
+
+PRESIDENTE
+
+DIP. PROFR. OSCAR LEGGS CASTRO
+
+SECRETARIO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+
+B.O. 10 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 3 DE MARZO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE MARZO DE 2011.
+
+PRIMERO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Por única ocasión los Delegados municipales electos en el mes de junio del año 2011, duraran en su encargo el mismo lapso de tiempo que duraran en su encargo los Ayuntamientos electos el día 06 de febrero de 2011, salvo los casos previstos por la ley en que estos servidores públicos sean removidos de sus cargos.
+
+TERCERO.- Por única ocasión los Subdelegados municipales designados en términos del artículo 85 de la Ley Orgánica del Gobierno Municipal del Estado de Baja California Sur, duraran en su encargo el mismo lapso de tiempo que duraran en su encargo los Ayuntamientos electos el día 06 de febrero de 2011, salvo los casos previstos por la ley en que estos servidores públicos sean removidos de sus cargos.
+
+P.O. 18 DE ABRIL DE 2011.
+
+DECRETO NÚMERO 1909, POR EL QUE SE REFORMAN LOS ARTÍCULOS 51 FRACCIÓN I INCISO F) Y ARTÍCULO 84 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+PRIMERO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Por única ocasión los Delegados Municipales electos en el mes de junio del año 2011, durarán en su encargo el mismo periodo que durarán en su encargo los Ayuntamientos electos el día 06 de febrero de 2011, salvo los casos previstos por la ley en que estos servidores públicos sean removidos de sus cargos.
+
+TERCERO.- Por única ocasión los Subdelegados Municipales designados en términos del artículo 85 de la Ley Orgánica del Gobierno Municipal del Estado de Baja California Sur, durarán en su encargo el mismo periodo que durarán en su encargo los Ayuntamientos electos el día 06 de febrero de 2011, salvo los casos previstos por la ley en que estos servidores públicos sean removidos de sus cargos.
+
+CUARTO.- Se deroga en todos sus términos el decreto número 1906 emitido por este Congreso del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado, de fecha 20 de marzo de 2011.
+
+P.O. 18 DE ABRIL DE 2011.
+
+DECRETO NÚMERO 1911, POR EL QUE SE REFORMA EL ARTÍCULO 20 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 28 DE JUNIO DE 2014.
+
+Primero.- Las presentes Reformas entrarán en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 30 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE NOVIEMBRE DE 2014.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- En un plazo no mayor a 30 días hábiles, los Ayuntamientos de la Entidad proveerán en la esfera administrativa todas las acciones necesarias a fin de crear su correspondiente Coordinación Municipal para la Inclusión de las Personas con Discapacidad.
+
+B.O. 10 DE JULIO DE 2015.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2371.- SE REFORMAN LOS ARTÍCULOS 20 PÁRRAFO PRIMERO; 21 PÁRRAFOS SEGUNDO, CUARTO Y QUINTO; 25 PÁRRAFO PRIMERO; 26 PÁRRAFO TERCERO; 34 Y 53 FRACCIÓN XI DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2459.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, sin perjuicio de lo previsto en el artículo transitorio siguiente.
+
+SEGUNDO.- Las disposiciones del presente Decreto que se encuentren vinculadas con el régimen de responsabilidades administrativas conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y el Tribunal de Justicia Administrativa conforme a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur, entrarán en vigor hasta que las citadas leyes cobren vigencia conforme a los regímenes transitorios de los decretos mediante los cuales se expidan.
