@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-de-desarrollo-forestal-sustentable-74097"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-17"
-last_updated: "2010-02-17"
+last_updated: "2018-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 19 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Chiapas, el miércoles 17 de febrero de 2010.
 
@@ -31,7 +33,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 Juan Sabines Guerrero, Gobernador del Estado, en ejercicio de las facultades que me confieren los artículos 42 y 44, de la Constitución Política del Estado de Chiapas; 5°, 13 Y 23, de la Ley Orgánica de la Administración Pública del Estado de Chiapas; y
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por los fundamentos y consideraciones anteriormente expuestos, el Ejecutivo a mi cargo, tiene a bien expedir el siguiente:
 
@@ -97,7 +101,7 @@ II. La Comisión Forestal del Estado.
 
 III. Los municipios del Estado, en el ámbito de sus atribuciones.
 
-###### Articulo 4°.
+###### Artículo 4°.
 
 La interpretación administrativa del presente Reglamento compete a la Secretaría.
 
@@ -2016,3 +2020,21 @@ Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 2 días del mes de febrero de 2010.
 
 Juan Sabines Guerrero, Gobernador del Estado. - Noé Castañón León, Secretario General de Gobierno.- José Ángel del Valle Molina, Secretario del Campo.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 2937-A-2018 REGLAMENTO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Reglamento.
+
+Artículo Tercero.- Se abroga el Reglamento de la Ley de Desarrollo Forestal Sustentable para el Estado de Chiapas, publicada en fecha 17 de febrero de 2010, en el Periódico Oficial 215 Segunda Sección, mediante publicación 1528-A-2010-D.
+
+Artículo Cuarto.- La Secretaría durante el plazo ciento veinte días naturales, contados a partir de la fecha en que entre en vigor el presente Reglamento, emitirá la (sic) formatos, manuales e instructivos previstos en este ordenamiento y en la Ley, en tanto se emitan, la Secretaría resolverá la (sic) incidencias de procedimiento y operación que se originen por la aplicación de éste ordenamiento legal y la Ley.
+
+Artículo Quinto.- Para las cuestiones no previstas en este Decreto, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Secretario resolverá lo conducente.
+
+Artículo Quinto (sic).- En cumplimiento a lo dispuesto por el artículo 8º, de la Ley Orgánica de la Administración Pública del Estado de Chiapas y 13 fracción III de la Ley Estatal del Periódico Oficial, publíquese el presente reglamento en el Periódico Oficial.
