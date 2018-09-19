@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-la-prestacion-del-servicio-publico-de-47724"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-20"
-last_updated: "2011-09-09"
+last_updated: "2018-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ROO"
 ---
 # REGLAMENTO PARA LA PRESTACION DEL SERVICIO PUBLICO DE LIMPIA, RECOLECCION, TRANSPORTE, TRATAMIENTO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS EN EL MUNICIPIO DE OTHON P. BLANCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA PRESTACIÓN DEL SERVICIO PÚBLICO DE RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS DEL MUNICIPIO DE OTHÓN P. BLANCO, QUINTANA ROO, PUBLICADO EN EL P.O. DE 19 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE LIMPIA, RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS EN EL MUNICIPIO DE OTHÓN P. BLANCO, DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 20 de diciembre de 2005.
 
@@ -119,7 +121,7 @@ XXI. LEY FEDERAL.- Ley General de Equilibrio Ecológico y la Protección al Ambi
 
 XXII. LEY ESTATAL.- Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Quintana Roo;
 
-XXIII. LIXIVIADOS. (SIC)- Líquidos provenientes de los residuos orgánicos, los cuáles se forman por fermentación, reacción, arrastre o percolación y que contiene disueltos o en suspensión, componentes que se encuentran en los mismos residuos;
+XXIII. LIXIVIADOS.- Líquidos provenientes de los residuos orgánicos, los cuáles se forman por fermentación, reacción, arrastre o percolación y que contiene disueltos o en suspensión, componentes que se encuentran en los mismos residuos;
 
 XXIV. PEPENA.- Acción manual de selección de objetos reutilizables o reciclables presentes en los residuos sólidos no peligrosos;
 
@@ -127,7 +129,7 @@ XXV. PLANTA DE COMPOSTA.- Sitio destinado para la recuperación de subproductos 
 
 XXVI. PLANTA DE SEPARACIÓN.- Sitio destinado para la recuperación de subproductos inorgánicos reciclables;
 
-XXVII. PRESTADOR DEL SERVlCIO.- Persona física o moral, asignada por la Ley, la autoridad o concesionada, que tiene a su cargo y bajo su responsabilidad el desarrollo de las actividades necesarias para brindar, en forma total o parcial, el servicio público objeto del presente Reglamento;
+XXVII. PRESTADOR DEL SERVICIO.- Persona física o moral, asignada por la Ley, la autoridad o concesionada, que tiene a su cargo y bajo su responsabilidad el desarrollo de las actividades necesarias para brindar, en forma total o parcial, el servicio público objeto del presente Reglamento;
 
 XXVIII. QUEMA.- Destrucción o eliminación, total o parcial con fuego a los residuos sólidos;
 
@@ -145,15 +147,15 @@ XXXIV. RESIDUO INORGÁNICO.- Cualquier tipo de producto residual, de origen domi
 
 XXXV. RESIDUOS ORGÁNICOS.- Todos los desechos de origen animal o vegetal;
 
-XXXVI. RESIDUOS SÓLlDOS.- Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en el proceso que lo generó; y los que provienen de actividades en casa-habitación, sitios y servicios públicos, establecimientos comerciales y de servicios, así como residuos industriales que no se deriven de su proceso. Para efectos del presente Reglamento, cuando se utilice este término se referirá a los residuos sólidos;
+XXXVI. RESIDUOS SÓLIDOS.- Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en el proceso que lo generó; y los que provienen de actividades en casa-habitación, sitios y servicios públicos, establecimientos comerciales y de servicios, así como residuos industriales que no se deriven de su proceso. Para efectos del presente Reglamento, cuando se utilice este término se referirá a los residuos sólidos;
 
-XXXVII. RESIDUOS PELlGROSOS.- Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, representan un peligro para el equilibrio ecológico, el ambiente o la salud del ser humano;
+XXXVII. RESIDUOS PELIGROSOS.- Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, representan un peligro para el equilibrio ecológico, el ambiente o la salud del ser humano;
 
 XXXVIII. RESIDUOS VOLUMINOSOS.- Aquellos que por sus dimensiones, peso o características, requieran de un servicio especial de recolección; como refrigeradores, calentadores de agua, estufas, colchones, lavadoras o cualquier mueble de características similares;
 
 XXXIX. REUSO.- Proceso de utilización de residuos sólidos sin tratamiento previo que se aplicarán a un nuevo proceso de transformación o de cualquier tipo;
 
-XL. SERVICIO DE LlMPIA.- El servicio público de limpia, recolección, transporte, tratamiento y disposición final de residuos sólidos que tiene por objeto asegurar el manejo de manera permanente, general y regular de dichos residuos para la satisfacción de las necesidades colectivas a cargo del Municipio;
+XL. SERVICIO DE LIMPIA.- El servicio público de limpia, recolección, transporte, tratamiento y disposición final de residuos sólidos que tiene por objeto asegurar el manejo de manera permanente, general y regular de dichos residuos para la satisfacción de las necesidades colectivas a cargo del Municipio;
 
 XLI. SEPARACIÓN DE RESIDUOS.- Proceso por el cual se hace una selección de los residuos en función de las características, con la finalidad de utilizarlo para su reciclaje;
 
@@ -475,7 +477,7 @@ Los propietarios o poseedores de inmuebles descritos en las fracciones II, III y
 
 ###### Artículo 28.
 
-Los propietarios o poseedores de inmuebles descritos en la Fracción V del Artículo 23, además de cumplir con las obligaciones establecidas en los Artículos 25 y 26 (sic) este Reglamento, deberán cumplir con lo que marcan las normas y disposiciones legales en materia de residuos peligrosos biológico-infecciosos y de alto riesgo.
+Los propietarios o poseedores de inmuebles descritos en la Fracción V del Artículo 23, además de cumplir con las obligaciones establecidas en los Artículos 25 y 26 este Reglamento, deberán cumplir con lo que marcan las normas y disposiciones legales en materia de residuos peligrosos biológico-infecciosos y de alto riesgo.
 
 ###### Artículo 29.
 
@@ -885,7 +887,7 @@ Cuando la Dirección General de Servicios Públicos tenga conocimiento de algún
 
 Si vencido el término otorgado el propietario o poseedor no retira el vehículo abandonado en la vía pública, la Dirección General de Servicios Públicos podrá retirarlo con cargo al propietario o poseedor y levantará acta circunstanciada del requerimiento. Si no se encuentra el propietario o poseedor, la notificación se hará con la persona que se encuentre en el domicilio.
 
-## TÍTULO CUARTO. DEL TRATAMIENTO, COMERCIALlZACIÓN Y DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS
+## TÍTULO CUARTO. DEL TRATAMIENTO, COMERCIALIZACIÓN Y DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS
 
 ### CAPÍTULO I. DEL TRATAMIENTO DE LOS RESIDUOS SÓLIDOS
 
@@ -1288,3 +1290,11 @@ P.O. 9 DE SEPTIEMBRE DE 2011.
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO TERCERO DEL ACUERDO POR EL CUAL SE REFORMA EL REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO PUBLICO DE LIMPIA, RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS EN EL MUNICIPIO DE OTHÓN P. BLANCO.]</small>
 
 TERCERO.- La reforma a este reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS DEL MUNICIPIO DE OTHÓN P. BLANCO, QUINTANA ROO”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo.- Se abroga el Reglamento para la prestación del servicio público de recolección, transporte, tratamiento y disposición final de residuos sólidos en el Municipio de Othón P. Blanco, Quintana Roo. Publicado en el Periódico Oficial del Estado de Quintana Roo el día 20 de diciembre del 2005 y sus reformas y adiciones del 09 de septiembre de 2011.
