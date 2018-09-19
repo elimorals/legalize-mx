@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-966
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-20"
-last_updated: "2013-11-27"
+last_updated: "2018-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y MEDIO AMBIENTE DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE, PUBLICADO EN EL P.O. DE 19 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE NOVIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 20 de noviembre de 2013.
 
@@ -1258,3 +1258,25 @@ En tanto se expiden los manuales de organización, de procedimientos y de servic
 Dado en la sede del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los 19 días de Septiembre del dos mil trece.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.- EL SECRETARIO DE DESARROLLO URBANO Y MEDIO AMBIENTE.- HUMBERTO RENÉ SALINAS TREVIÑO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan las disposiciones del Reglamento Interior de la Secretaría de Desarrollo Urbano y Medio Ambiente, publicado en el Periódico Oficial del Estado de Tamaulipas No. 140 de fecha 20 de noviembre de 2013.
+
+###### ARTÍCULO TERCERO.
+
+Los trámites, procedimientos y recursos administrativos que se encuentren en trámite a la entrada en vigor del presente Reglamento, serán instrumentados y resueltos por el titular de la Secretaría, con el debido apoyo de las unidades administrativas que conforme a este ordenamiento reglamentario les corresponda conocer.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expiden los manuales de organización, de procedimientos y de servicios al público, el titular de la Secretaría queda facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
