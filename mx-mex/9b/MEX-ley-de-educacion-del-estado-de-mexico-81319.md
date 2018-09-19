@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2018-01-10"
+last_updated: "2018-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -621,7 +621,9 @@ II. Promover la educación indígena, bilingüe y bicultural, previendo lo neces
 
 III. Generar condiciones adecuadas para facilitar la incorporación de migrantes al Sistema Educativo;
 
-IV. Impartir la educación especial en todos los niveles de educación básica, para que las personas con discapacidades transitorias o definitivas, o con capacidades y aptitudes sobresalientes, logren el desarrollo de su personalidad y se favorezca su integración social;
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Impartir la educación especial en todos los niveles de educación básica, para que las personas con discapacidades transitorias o definitivas, o con capacidades y aptitudes sobresalientes, logren el desarrollo de su personalidad y se favorezca su integración social, debiendo prever lo necesario para ofrecer una adecuada preparación y capacitación a sus maestros, en términos de las disposiciones jurídicas aplicables;
 
 V. Establecer, en coordinación con la Autoridad Educativa Federal y la Secretaría General de Gobierno, las bases conforme a las cuales se prestarán los servicios educativos a las personas que se encuentren internas en los centros de prevención y readaptación social del Estado, en las escuelas de reintegración social y en los albergues temporales a que se refiere el artículo 224 de la Ley de Justicia para Adolescentes del Estado de México;
 
@@ -1631,11 +1633,11 @@ El Ejecutivo del Estado, al presentar ante la Legislatura el proyecto de presupu
 
 Son de interés social las inversiones que en materia educativa realicen el Estado, los municipios, los organismos descentralizados y los particulares.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 48], G.G. 25 DE ABRIL DE 2014)
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 94.
 
-En el presupuesto del Estado se considerarán recursos para la atención de personas y grupos que se encuentren en rezago educativo.
+En el presupuesto del Estado se considerarán recursos para la atención de personas y grupos que se encuentren en rezago educativo; así como para aquellas que requieran una atención especializada.
 
 ### CAPÍTULO QUINTO. DE LOS TIPOS, NIVELES, MODALIDADES Y VERTIENTES DE LA EDUCACIÓN
 
@@ -1809,21 +1811,27 @@ APARTADO SEGUNDO
 
 DE LA EDUCACIÓN ESPECIAL
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 111.
 
-La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, así como aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
-
-Para tal efecto, la Autoridad Educativa Estatal, en el ámbito de su competencia, destinará recursos, de acuerdo con la disponibilidad presupuestal.
-
-La educación especial deberá incorporar los enfoques de inclusión e igualdad sustantiva. Esta educación incluye la capacitación y orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con discapacidad, con dificultades severas de aprendizaje, de comportamiento o de comunicación, o bien con aptitudes sobresalientes.
+La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con dificultades severas de aprendizaje, trastorno por déficit de atención, e hiperactividad TDAH, de conducta o de comunicación, así como aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
 
 > <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
 
+Para tal efecto, la Autoridad Educativa Estatal, en el ámbito de su competencia, destinará recursos, de acuerdo con la disponibilidad presupuestal.
+
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+La educación especial deberá incorporar los enfoques de inclusión e igualdad sustantiva. Esta educación incluye la capacitación y orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con discapacidad, con dificultades severas de aprendizaje, trastorno por déficit de atención, e hiperactividad TDAH, de comportamiento o de comunicación, o bien con aptitudes sobresalientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 112.
 
-Tratándose de menores de edad con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades. Se realizarán ajustes razonables y se aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción de las necesidades básicas de aprendizaje de los alumnos y el máximo desarrollo de su potencial para la autónoma integración a la vida social y productiva. Las instituciones educativas del Estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
+Tratándose de menores de edad con discapacidad, con dificultades severas de aprendizaje, trastorno por déficit de atención, e hiperactividad TDAH, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades. Se realizarán ajustes razonables y se aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción de las necesidades básicas de aprendizaje de los alumnos y el máximo desarrollo de su potencial para la autónoma integración a la vida social y productiva. Las instituciones educativas del Estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
 
 La formación y capacitación de maestros promoverá la educación inclusiva y desarrollará las competencias necesarias para su adecuada atención.
 
@@ -3004,3 +3012,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 19 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 326.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Para la aplicación e implementación de las disposiciones contenidas en el presente Decreto, la Legislatura del Estado deberá proveer los recursos necesarios.
