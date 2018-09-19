@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-para-los-servidores-publicos-del-116981"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-10-14"
-last_updated: "2016-10-14"
+last_updated: "2018-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA PARA LOS SERVIDORES PUBLICOS DEL INSTITUTO DE CAPACITACION Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE CAPACITACIÓN Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL DEL ESTADO DE MÉXICO, PUBLICADO EN EL G.G. DE 19 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE CAPACITACIÓN Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 14 de octubre de 2016.
 
@@ -154,3 +156,9 @@ Silvia Irene Zarza Vértiz
 Personal operativo
 
 (Rúbrica).
+
+G.G. 19 DE SEPTIEMBRE DE 2018.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en la Gaceta de Gobierno del Estado de México.
+
+SEGUNDO.- Se abroga el Código de Conducta de los servidores públicos del Instituto de Capacitación y Adiestramiento para el Trabajo Industrial, publicado en la Gaceta de Gobierno del Estado de México, el día vienes 14 de octubre de 2016.
