@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2018-07-12"
+last_updated: "2018-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE SEPTIEMBRE DE 2018.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -891,7 +891,7 @@ VIII. No ser juez, magistrado ni integrante del Consejo de la Judicatura del Pod
 
 > <small>(ADICIONADA, G.G. 24 DE JUNIO DE 2014)</small>
 
-IX.- No ser militar o jefe de las fuerzas de seguridad pública del Estado o de los municipios en ejercicio de mando en el territorio del distrito o circunscripción por el que se pretenda postularse.
+IX. No ser militar o jefe de las fuerzas de seguridad pública del Estado o de los municipios en ejercicio de mando en el territorio del distrito o circunscripción por el que se pretenda postularse.
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
@@ -1657,7 +1657,9 @@ XXIII. Convenir con la Federación la asunción del ejercicio de funciones, la e
 
 XXIV. Fomentar la organización de instituciones para difundir o inculcar entre los habitantes de Estado, hábitos, costumbres o actividades que les permitan mejorar su nivel de vida;
 
-XXV. Dictar las disposiciones necesarias para la instalación y funcionamiento de la Junta de Conciliación y Arbitraje y nombrar al representante que le concierne;
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXV. Nombrar y remover al titular del Centro de Conciliación Laboral de conformidad con la legislación aplicable.
 
 XXVI. Prestar apoyo a los poderes Legislativo y Judicial y a los ayuntamientos, cuando le sea solicitado, para el ejercicio de sus funciones;
 
@@ -1941,9 +1943,9 @@ El ejercicio del Poder Judicial del Estado se deposita en:
 
 a) Un órgano colegiado denominado Tribunal Superior de Justicia, el cual funcionará en Pleno, Sala Constitucional, Salas Colegiadas y Unitarias Regionales;
 
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-b) En tribunales y juzgados de primera instancia y juzgados de cuantía menor; organizados de acuerdo a su competencia establecida en las leyes secundarias. Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.
+b) En tribunales y juzgados de primera instancia, juzgados de cuantía menor y tribunales laborales, organizados de acuerdo a su competencia establecida en las leyes secundarias. Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.
 
 > <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -1955,7 +1957,9 @@ Los jueces y magistrados del Estado de México, en el ámbito de su competencia,
 
 Las leyes determinarán los procedimientos que habrán de seguirse para sustanciar los juicios y todos los actos en que intervenga el Poder Judicial.
 
-La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cuál se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+La ley establecerá las bases para la selección, formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
 > <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
@@ -1964,6 +1968,14 @@ El Presupuesto de Egresos del Poder Judicial que se apruebe para el ejercicio fi
 > <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
 En ningún caso, el Presupuesto Anual de Egresos que se apruebe para el Poder Judicial del Estado, podrá ser inferior al 2.0% de los ingresos ordinarios del Estado, para el año fiscal de que se trate. De conformidad con las necesidades del servicio, dicho porcentaje se incrementará anualmente.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Los integrantes de los tribunales laborales serán designados atendiendo a lo dispuesto por el artículo 116 fracción III de la Constitución Política de los Estados Unidos Mexicanos y conforme a los procedimientos de selección y formación que el Consejo de la Judicatura del Estado de México determine y deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Antes de acudir a los tribunales laborales, los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral, el cual contará con personalidad jurídica y patrimonio propios, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión rigiéndose por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
 
 > <small>(ADICIONADO, G.G. 12 DE JULIO DE 2004)</small>
 
@@ -2019,7 +2031,9 @@ El Tribunal Superior de Justicia se compondrá del número de magistrados que de
 
 Al finalizar su encargo los magistrados gozarán de un haber de retiro por el monto, plazo y bajo las condiciones que señale la Ley Orgánica del Poder Judicial del Estado.
 
-Los jueces de primera instancia, los de cuantía menor y los ejecutores de sentencias serán los necesarios para el despacho pronto y expedito de los asuntos que les correspondan en los distritos judiciales y en los municipios del Estado.
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Los jueces de primera instancia, los de cuantía menor, los tribunales laborales y los ejecutores de sentencias serán los necesarios para el despacho pronto y expedito de los asuntos que les correspondan en los distritos judiciales y en los municipios del Estado.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2123,23 +2137,23 @@ Los magistrados y jueces estarán impedidos para el ejercicio de la abogacía, s
 
 Tampoco podrán desempeñar ningún otro cargo, empleo o comisión que sea remunerado e incompatible con su función.
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 100.
 
-Los jueces de primera instancia, durarán en su encargo seis años y podrán ser ratificados por el Consejo de la Judicatura, por períodos iguales, previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma.
+Los jueces de primera instancia y los titulares de los tribunales laborales, durarán en su encargo seis años y podrán ser ratificados por el Consejo de la Judicatura, por períodos iguales, previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 101.
 
-Los jueces de primera instancia deberán reunir los mismos requisitos que los magistrados, menos el referente a la edad, que bastará que sea de 28 años y cinco años de poseer título profesional de licenciado en derecho y de ejercicio profesional.
+Los jueces de primera instancia y los titulares de los tribunales laborales deberán reunir los mismos requisitos que los magistrados, menos el referente a la edad, que bastará que sea de 28 años y cinco años de poseer título profesional de licenciado en derecho y de ejercicio profesional.
 
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 102.
 
-En cada distrito o región judicial habrá un juez o los jueces necesarios, quienes conocerán de los asuntos para los que la ley les otorgue competencia.
+En cada distrito o región judicial habrá un juez y tribunal laboral o los que sean necesarios, quienes conocerán de los asuntos para los que la ley les otorgue competencia.
 
 > <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2005)</small>
 
@@ -4590,3 +4604,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. La Legislatura realizará las adecuaciones legislativas correspondientes al presente Decreto dentro del año siguiente a su entrada en vigor.
+
+G.G. 19 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 314.- POR EL QUE SE REFORMAN LA FRACCIÓN XXV DEL ARTÍCULO 77, EL INCISO B) Y EL PÁRRAFO QUINTO DEL ARTÍCULO 88, EL TERCER PÁRRAFO DEL ARTÍCULO 89, EL ARTÍCULO 100, EL ARTÍCULO 101 Y EL ARTÍCULO 102 Y SE ADICIONAN LOS PÁRRAFOS OCTAVO Y NOVENO AL ARTÍCULO 88 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor en la misma fecha en que lo hagan las reformas legales que expida el Congreso de la Unión correspondientes al Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de justicia laboral, publicado en el Diario Oficial de la Federación el 24 de febrero de 2017.
+
+TERCERO. El régimen transitorio del presente Decreto se sujetara a lo previsto en las reformas expedidas por el Congreso de la Unión, referidas en el transitorio anterior.
