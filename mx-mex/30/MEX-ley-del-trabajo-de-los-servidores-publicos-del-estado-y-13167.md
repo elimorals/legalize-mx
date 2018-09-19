@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2016-12-21"
+last_updated: "2018-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -113,9 +113,13 @@ I. Aquéllos cuyo nombramiento o ejercicio del cargo requiera de la intervenció
 
 II. Aquéllos que tengan esa calidad en razón de la naturaleza de las funciones que desempeñen y no de la designación que se dé al puesto.
 
-> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-Son funciones de confianza: las de dirección, inspección, vigilancia, auditoría, fiscalización, asesoría, procuración y administración de justicia y de protección civil, así como las que se relacionen con la representación directa de los titulares de las instituciones públicas o dependencias, con el manejo de recursos, las que realicen los auxiliares directos, asesores, secretarios particulares y adjuntos, choferes, secretarias y demás personal operativo que les sean asignados directamente a los servidores públicos de confianza o de elección popular.
+Son funciones de confianza: las de dirección, inspección, vigilancia, auditoría, fiscalización, asesoría, procuración y administración de justicia y de protección civil, así como las que se relacionen con la representación directa de los titulares de las instituciones públicas o dependencias, con el manejo de recursos, las que realicen los auxiliares directos, asesores, secretarios particulares y adjuntos, choferes, secretarias y demás personal operativo que les sean asignados directamente a los servidores públicos de confianza o de elección popular, así como aquellas que se desempeñen por mandato de la norma que rigen las condiciones de trabajo de la institución pública.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Sin que lo anterior implique o signifique transgredir derechos laborales, sociales o colectivos adquiridos por los trabajadores.
 
 No se consideran funciones de confianza las de dirección, supervisión e inspección que realizan los integrantes del Sistema Educativo Estatal en los planteles educativos del propio sistema.
 
@@ -387,7 +391,9 @@ IV. Acreditar, cuando proceda, el cumplimiento de la Ley del Servicio Militar Na
 
 V. (DEROGADA, G.G. 3 DE AGOSTO DE 2016)
 
-VI. No haber sido separado anteriormente del servicio por las causas previstas en la fracción V del artículo 89 y en el artículo 93 de la presente ley;
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+VI. No haber sido separado anteriormente del servicio por las causas previstas en el artículo 93 de la presente ley;
 
 VII. Tener buena salud, lo que se comprobará con los certificados médicos correspondientes, en la forma en que se establezca en cada institución pública;
 
@@ -477,13 +483,17 @@ Cuando se realice el cambio de adscripción de un servidor público que implique
 
 ### CAPITULO III. De las Condiciones Generales de Trabajo
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 54.
 
-Cada institución pública o, en su caso, dependencia, en razón de la naturaleza de sus funciones, contará con un Reglamento de Condiciones Generales de Trabajo aplicables a los servidores públicos sindicalizados y generales. Las instituciones o dependencias públicas que no cuenten con documento que avale las condiciones generales de trabajo aplicables, deberán estar a lo establecido por esta ley, en caso de que el reglamento sea para sindicalizados se hará de común acuerdo con el sindicato, dichos reglamentos tendrán una duración de tres años y podrán ratificarse o modificarse a su término.
+Cada institución pública o, en su caso, dependencia, en razón de la naturaleza de sus funciones, contará con un Reglamento de Condiciones Generales de Trabajo aplicables a los servidores públicos sindicalizados y generales. Las instituciones o dependencias públicas que no cuenten con documento que avale las condiciones generales de trabajo aplicables, deberán estar a lo establecido por esta ley, en caso de que el reglamento sea para sindicalizados se hará de común acuerdo con el sindicato, dichos reglamentos tendrán una duración de tres años y podrán ratificarse o modificarse a su término; los Convenios de sueldos y prestaciones celebrados con el Sindicato se aplicarán solo a los trabajadores miembros y reconocidos por la agrupación Sindical de conformidad con la normatividad aplicable.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 Los beneficios que se establezcan en los Reglamentos de Condiciones Generales de Trabajo y en los Convenios de Sueldo y Prestaciones, no serán extensivas a los servidores públicos de confianza, en virtud de que sus condiciones se encuentran establecidas en el contrato, nombramiento o formato único de movimiento de personal y en la Normatividad de cada institución pública.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 Asimismo, en las condiciones de trabajo queda prohibida toda discriminación por motivo de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias políticas, sexuales o estado civil, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
@@ -1099,7 +1109,9 @@ IV. Establecer las medidas de seguridad e higiene para la prevención de riesgos
 
 V. Reinstalar cuando proceda al servidor público y pagar los sueldos caídos a que fueren condenadas por laudo ejecutoriado. En caso de que la plaza que ocupaba haya sido suprimida, la institución pública estará obligada a otorgar otra plaza equivalente en categoría y sueldo, o bien a indemnizarlo en los términos que señala el artículo 95 último párrafo de esta ley;
 
-VI. Cumplir oportunamente los laudos que dicte el Tribunal y pagar el monto de las indemnizaciones y demás prestaciones a que tenga derecho el servidor público;
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Cumplir oportunamente los laudos que dicte el Tribunal o la Sala, y pagar el monto de las indemnizaciones y demás prestaciones a que tenga derecho el servidor público;
 
 VII. Proporcionar a los servidores públicos, los útiles, equipo y materiales necesarios para el cumplimiento de sus funciones, así como los reglamentos a observar;
 
@@ -1139,7 +1151,9 @@ XIX. Realizar las deducciones correspondientes al salario o sueldo de un servido
 
 XX. Promover acciones afirmativas en favor de las servidoras públicas.
 
-El incumplimiento a lo previsto en el párrafo anterior, por parte de los servidores públicos estatales y municipales, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+El incumplimiento a lo previsto en el párrafo anterior, por parte de los servidores públicos estatales y municipales, será sancionado en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ### CAPITULO II. Del Sistema de Profesionalización de los Servidores Públicos Generales
 
@@ -1857,9 +1871,9 @@ El Tribunal se integrará por un representante de cada uno de los poderes públi
 
 Se podrán instalar en el territorio de la entidad, las Salas del Tribunal que el presupuesto de egresos permita, se integrarán cada una por un representante del sindicato mayoritario, que represente a los servidores públicos municipales, un representante de los ayuntamientos, que será el del municipio de residencia de la Sala y un árbitro que fungirá como presidente, a propuesta del Secretario del Trabajo, que será nombrado por mayoría de los integrantes del Pleno y podrá durar en su cargo el mismo tiempo que el de la administración pública en la cual fue designado
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-A su vez el Tribunal y las Salas para su funcionamiento, contarán con Salas Orales, cuyas actuaciones serán autorizadas y avaladas por el Secretario Auxiliar asistido por Secretario de Acuerdos que dará Fe.
+A su vez el Tribunal y las Salas para su funcionamiento, contarán con Salas Orales y mesas de audiencia, cuyas actuaciones serán autorizadas y avaladas por el Secretario Auxiliar asistido por (sic) Secretario de Acuerdos que dará Fe.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -1985,15 +1999,17 @@ Concentración: En los procesos se deberá evitar la suspensión de actuaciones.
 
 El Tribunal y las Salas tendrán la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez del proceso.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 192.
 
-El Tribunal y las Salas ordenarán que se corrija cualquier irregularidad u omisión que notare en la substanciación del proceso para el efecto de regularizar el procedimiento, sin que ello implique que pueda revocar sus propias resoluciones.
+El Tribunal y las Salas ordenarán que se corrija cualquier irregularidad u omisión que notare en la substanciación del proceso para el efecto de regularizar el procedimiento y garantizar el debido proceso.
+
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 193.
 
-Lo no previsto en este título en materia procesal se regulará por las disposiciones contenidas en la Ley Federal del Trabajo, aplicadas supletoriamente y por los principios generales del derecho y de justicia social.
+Lo no previsto en esta Ley en materia procesal se regulará por las disposiciones contenidas que regulen casos semejantes de los principios generales del derecho, los principios generales de justicia social que derivan del artículo 123 de la Constitución, la Ley Federal del Trabajo, la jurisprudencia, la costumbre y la equidad, cuando sea el caso.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2009,9 +2025,9 @@ Cuando el conflicto afecte la prestación de servicios públicos de comunicacion
 
 Son partes en el proceso, los servidores públicos, las instituciones públicas o las dependencias, los sindicatos reconocidos ante el Tribunal y, en general, quien acredite tener interés jurídico en el proceso y ejerciten acciones y opongan excepciones.
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-Los terceros interesados podrán intervenir en el proceso comprobando su interés jurídico en el mismo o cuando sean llamados por el Tribunal o las Salas, quienes deberán manifestar lo que a su derecho convenga por escrito en el juicio, hasta antes de la celebración de la audiencia de conciliación, ofrecimiento y admisión de pruebas, apercibiéndolos que para el caso de no hacerlo antes de la etapa referida, se tendrá por perdido su derecho para hacerlo valer con posterioridad y se estarán a las resultas del laudo.
+Los terceros interesados podrán intervenir en el proceso comprobando su interés jurídico en el mismo o cuando sean llamados por el Tribunal o la Sala, quienes deberán manifestar lo que a su derecho convenga por escrito en el juicio, hasta antes de la celebración de la audiencia de conciliación, depuración procesal, ofrecimiento y admisión de pruebas, apercibiéndolos que para el caso de no hacerlo antes de la etapa referida, se tendrá por perdido su derecho para hacerlo valer con posterioridad y se estará a lo resuelto en el laudo.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2033,9 +2049,9 @@ Tratándose de apoderados, la personalidad se acreditará conforme a las siguien
 
 I. Cuando el compareciente actúe como apoderado de persona física podrá hacerlo mediante poder notarial o carta poder, firmada por el otorgante y ante dos testigos, sin necesidad de ser ratificada ante el Tribunal o las Salas;
 
-> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-II. Cuando el compareciente actué como representante de las instituciones públicas o dependencias o de sus titulares, deberá hacerlo mediante oficio o carta poder debidamente firmada por quien tenga facultades para ello, adjuntando el documento correspondiente;
+II. Cuando el compareciente actué como representante de las instituciones públicas o dependencias o de sus titulares, deberá hacerlo mediante oficio, Instrumento notarial o carta poder, debidamente firmada por quien tenga facultades para ello, adjuntando el documento correspondiente;
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2069,11 +2085,11 @@ Pudiendo presentar la documentación comprobatoria de la personalidad en origina
 
 Los servidores públicos; las instituciones y los sindicatos, con facultades para ello, podrán otorgar poder mediante simple comparecencia, previa identificación ante el Tribunal o las Salas para que los representen ante cualquier autoridad del trabajo.
 
-> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 199.
 
-Siempre que dos o más personas ejerciten la misma acción u opongan la misma excepción en un mismo juicio, deberán litigar unidas y con una representación común, salvo que los colitigantes tengan intereses diferentes u opuestos. Si se trata de las partes actoras, el nombramiento del representante común deberá hacerse en el escrito de demanda o en la audiencia de conciliación, ofrecimiento y admisión de pruebas. Si se trata de las demandadas, el nombramiento se hará en el escrito de contestación o en la audiencia a que se ha hecho mención.
+Siempre que dos o más personas ejerciten la misma acción u opongan la misma excepción en un mismo juicio, deberán litigar unidas y con una representación común, salvo que los colitigantes tengan intereses diferentes u opuestos. Si se trata de las partes actoras, el nombramiento del representante común deberá hacerse en el escrito de demanda o en la audiencia de conciliación, depuración procesal, ofrecimiento y admisión de pruebas. Si se trata de las demandadas, el nombramiento se hará en el escrito de contestación o en la audiencia a que se ha hecho mención.
 
 ### CAPITULO IV. De la Competencia
 
@@ -2141,6 +2157,20 @@ Cuando la petición se realice en la audiencia, se autorizará.
 
 Queda prohibido a las partes, terceros y autoridades, la difusión por cualquier medio de las constancias, video o audio-grabaciones de las audiencias celebradas; para lo cual, se estará a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública y a la Ley de Protección de Datos Personales.
 
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 204 A. Operará la declaratoria de la caducidad de la instancia, cualquiera que sea el estado del procedimiento desde el primer auto que se dicte en el mismo hasta la emisión del laudo, si transcurridos ciento veinte días contados a partir de la notificación de la última determinación del Tribunal o la Sala no hubiere promoción que tienda a impulsar el procedimiento por la parte actora, siempre que esa promoción sea necesaria para la continuación del procedimiento.
+
+Para los efectos del párrafo anterior, el Tribunal o la Sala notificará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia de la caducidad, dictará resolución.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 204 B. La suspensión del procedimiento produce la interrupción del término de la caducidad cuando:
+
+I. Por fuerza mayor del Tribunal o la Sala; y
+
+II. En los casos en que es necesario esperar la resolución de una cuestión previa o conexa por el mismo Tribunal o por otras autoridades.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 205.
@@ -2203,13 +2233,23 @@ III. Arresto hasta por treinta y seis horas;
 
 IV. La suspensión temporal del cargo sin goce de sueldo del servidor público que se niegue a dar cumplimiento a un laudo. Esta medida sólo podrá resolverla el presidente del Tribunal, por lo que las Salas darán cuenta del incumplimiento a éste.
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 209 Bis.
 
-Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de prueba, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la substanciación o resolución de un juicio laboral, sele (sic) impondrán hasta quinientos días multa.
+Los abogados, así como el titular del demandado que directamente o, por conducto de sus representantes legales promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de prueba, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la substanciación o cumplimiento de una resolución de un juicio laboral, se le impondrá una multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento que se cometa la violación.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 Cuando en un juicio laboral, el Tribunal y Salas consideren que los hechos son constitutivos de un delito, los pondrán de inmediato en conocimiento del Ministerio Público para los efectos conducentes.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+El Tribunal o la Sala podrán requerir a los responsables de las acciones dilatorias en el procedimiento, para que, dentro de un plazo no mayor a tres días, proporcionen al Tribunal o a la Sala, la información y datos requeridos para la configuración de la sanción correspondiente, apercibidos de no hacerlo, o que la misma sea falsa o incorrecta, se le efectuará una sanción por el doble monto.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+En todo caso y a efecto de configurar las sanciones antes mencionadas, el Tribunal o la Sala podrán allegarse de la información y datos que le sean necesarios, mediante solicitud por oficio a las instituciones que considere pertinentes.
 
 ###### Artículo 210.
 
@@ -2253,9 +2293,9 @@ I. El emplazamiento a juicio, la reconvención y cuando se trate del primer prov
 
 II. El auto de radicación del juicio, en los expedientes que les remitan otras autoridades;
 
-> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-III. La resolución en la que el Tribunal o la Sala se declare incompetente;
+III. La resolución en la que el Tribunal o la Sala determine el incidente de competencia;
 
 IV. El auto de recepción de la sentencia de amparo;
 
@@ -2307,6 +2347,26 @@ La notificación surtirá sus efectos el día en que se practique.
 
 En todos los casos a que se refiere este artículo, el actuario asentará razón en autos, señalando con precisión los elementos de convicción en que se apoye.
 
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 215 Bis.
+
+El Tribunal o Sala estarán facultados para realizar las notificaciones de oficios, exhortos y en general toda actuación procesal a las partes o instancia judicial que corresponda, mediante el correo electrónico que para el efecto designen.
+
+Las notificaciones por correo electrónico se tendrán por legalmente practicadas y surtirán sus efectos a partir del día siguiente de que se tenga o en su caso, se cuente con el acuse de envío correspondiente.
+
+Para los efectos de las notificaciones por correo electrónico que prevé este artículo, el Tribunal o la Sala emitirán los acuerdos y lineamientos que regulen la expedición, uso y vigencia de la Firma Electrónica Avanzada, con la cual se garantice la autenticidad de los usuarios del sistema y la integridad del contenido de las notificaciones que se realicen.
+
+En caso de que alguna de las partes requiera que se le notifique vía electrónica, lo deberá solicitar por escrito al Tribunal o a la Sala en cualquier momento del procedimiento con la información y los lineamientos que el Tribunal o Sala le señalen para tal efecto.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 215 Ter.
+
+En caso de que las notificaciones se practiquen en las instalaciones del Tribunal o de la Sala, se hará constar dicha circunstancia en la razón actuarial, acta o en los autos. El actuario se cerciorará en todo momento que la persona notificada se identifique con documento oficial y que cuente con la autorización o personalidad para ello.
+
+En ningún caso, la primera notificación que señala el artículo 215, se podrá realizar en las instalaciones del Tribunal o de la Sala.
+
 ### CAPITULO VIII. De los Incidentes
 
 ###### Artículo 216.
@@ -2326,6 +2386,10 @@ III. Personalidad;
 IV. Acumulación; y
 
 V. Excusa.
+
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Suspensión de salarios vencidos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
@@ -2356,6 +2420,20 @@ En el caso de la fracción primera únicamente surtirá efectos en las actuacion
 En los casos previstos en las fracciones II y III de este artículo, el tribunal o la sala resolverán en una sola resolución.
 
 Será competente el tribunal o la sala, que hubiere prevenido o que tenga el expediente más antiguo de acuerdo a la competencia de cada uno que menciona esta ley.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 218 Bis.
+
+Se tramitará como incidente especial una vez que el laudo haya quedado firme, el siguiente:
+
+I. Suspensión de salarios vencidos.
+
+El incidente de suspensión (sic) salarios vencidos procede a instancia de parte, en el siguiente caso:
+
+Cuando se trate de un laudo condenatorio en contra del demandado al pago de los salarios vencidos y éste acredite que el actor se haya incorporado a laborar al servicio de diversa Institución Pública, con posterioridad al término de la relación laboral que sostuvo con el demandado.
+
+De resultar procedente el incidente planteado por el demandado previa audiencia incidental, los salarios vencidos se suspenderán a partir de la fecha en que se acredite que el actor se haya incorporado a la Institución Pública.
 
 ### CAPITULO IX. De las Pruebas
 
@@ -2541,7 +2619,9 @@ IX. El testigo enterado ya de su declaración, firmará al margen de la hojas qu
 
 X. Las objeciones o tachas a los testigos se formularán oralmente al concluir el desahogo de la prueba para su apreciación por el Tribunal o la Sala al momento de emitirse la resolución.
 
-Cuando se objetare de falso a un testigo, el Tribunal recibirá las pruebas en la audiencia de desahogo de pruebas a que se refiere la presente ley; y
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando se objetare de falso a un testigo, el Tribunal o la Sala recibirá las pruebas en la audiencia de desahogo de pruebas a que se refiere la presente ley; y
 
 XI. El testigo que dejare de concurrir a la audiencia, no obstante haber sido citado legalmente, se le hará efectivo el apercibimiento decretado, procediendo a la aplicación de los medios de apremio que autoriza esta ley y el Tribunal o la Sala dictará nuevamente las medidas necesarias para que comparezca a rendir su declaración, el día y la hora señalados.
 
@@ -2595,6 +2675,10 @@ V. En caso de existir discrepancia en los dictámenes, el Tribunal o la Sala des
 
 El perito tercero en discordia que designe el Tribunal o la Sala deben excusarse dentro de las cuarenta y ocho horas siguientes a que se notifique su nombramiento, siempre que concurra alguna de las causas de excusa señalados por esta ley, el Presidente del Tribunal o la Sala calificará de plano la excusa y, declarada procedente, se nombrará nuevo perito.
 
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Las partes podrán sustituir el perito designado, cuando el primer nombrado no compareciera a protestar el cargo o a la audiencia a rendir su dictamen.
+
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
 
 #### SECCION QUINTA. De la Inspección
@@ -2617,9 +2701,9 @@ II. Las partes y sus apoderados pueden concurrir a la diligencia de inspección 
 
 III. De la diligencia se levantará acta circunstanciada, que firmarán los que en ella intervengan y la cual se agregará al expediente, previa razón en autos.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-#### SECCION SEXTA. De las Fotografías y cualquier otro Medio de Prueba
+#### SECCION SEXTA. De los Elementos Aportados por los Avances de la Ciencia y la Tecnología
 
 > <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2632,6 +2716,10 @@ También como medio de prueba debe admitirse las fotografías, cintas cinematogr
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
 Para el ofrecimiento, desahogo y reproducción de los medios de prueba señalados en el presente artículo, las partes deberán de allegar al Tribunal o la Sala, los instrumentos, aparatos o elementos necesarios para que pueda apreciarse el contenido de los mismos, en caso de que el oferente no lo haga se tendrá por no admitida.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 220 U. A todo el que presente documentos o testigos falsos, con el objetivo de engañar al Tribunal o a la Sala, se le impondrá una multa de ciento cincuenta a dos mil veces la Unidad de Medida y Actualización vigente al momento de la violación, independientemente de las sanciones penales correspondientes.
 
 (REUBICADO Y REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ENERO DE 2007)
 
@@ -2665,9 +2753,9 @@ X. Disfrute y pago de las vacaciones; y
 
 XI. Monto de pago de sueldos e incorporación y pago de cuotas al Instituto de Seguridad Social del Estado de México y Municipios, y demás prestaciones que se establezcan en la presente ley.
 
-> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-La carga de la prueba corresponderá al servidor público cuando se trate de tiempo extraordinario.
+En todos los casos, la carga de la prueba corresponderá al servidor público cuando se trate de acreditar el tiempo extraordinario laborado.
 
 (REUBICADO, G.G. 30 DE ENERO DE 2007)
 
@@ -2681,11 +2769,11 @@ Las pruebas deberán ofrecerse en la misma audiencia, salvo que se refieran a he
 
 El Tribunal o la Sala podrán ordenar, con citación de las partes el examen de documentos, objetos y lugares, su reconocimiento por actuarios y peritos, y en general practicar las diligencias que juzgue convenientes para el esclarecimiento de la verdad, y requerirá a las partes para que exhiban los documentos y objetos de que se trate.
 
-> <small>(REFORMADO Y REUBICADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 224.
 
-Toda autoridad o persona ajena al juicio que tenga conocimiento de hechos o documentos en su poder que puedan contribuir al esclarecimiento de la verdad, estará obligada a declararlos o aportarlos cuando sea requerida por el Tribunal o la Sala.
+Toda autoridad o persona ajena al juicio que tenga conocimiento de hechos o documentos en su poder que puedan contribuir al esclarecimiento de la verdad, estará obligada a declararlos o aportarlos, cuando sea requerida por el Tribunal o Sala, apercibido de no hacerlo, se le impondrá una multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO X. Del Procedimiento Laboral
 
@@ -2693,11 +2781,11 @@ Toda autoridad o persona ajena al juicio que tenga conocimiento de hechos o docu
 
 Las disposiciones de este capítulo rigen la tramitación y resolución de los conflictos individuales y colectivos, con excepción de la huelga cuya tramitación se sujetará al procedimiento especial que en esta ley se contempla.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 226.
 
-El procedimiento se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes del Tribunal o la Sala que lo turnará a la Sala oral correspondiente el mismo día antes de que concluyan las labores.
+El procedimiento se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes del Tribunal o la Sala que lo turnará a la Sala oral o mesa de audiencia según le corresponda el mismo día antes de que concluyan las labores.
 
 A la demanda se acompañarán las pruebas de que disponga el actor y los documentos que acrediten la personalidad del representante, en caso de que aquel no pudiera concurrir personalmente.
 
@@ -2716,6 +2804,10 @@ IV. Relación de los hechos;
 V. Documentos probatorios; o
 
 VI. Indicación del lugar en que puedan obtenerse los que el actor no pudiese aportar directamente.
+
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Copia de la cédula profesional, cédula electrónica o carta de pasante, en los casos de que el apoderado del trabajador manifieste ser licenciado o pasante en derecho, debidamente certificada o cotejada por Notario Público.
 
 ###### Artículo 228.
 
@@ -2809,7 +2901,9 @@ VI. Si el demandado reconviene al actor, el Tribunal o la Sala, le concederá un
 
 Artículo 233 A.- La etapa de depuración procesal, se desarrollará de la manera siguiente:
 
-I. El Tribunal o la Sala, dispondrán de amplias facultades de dirección procesal para examinar, en su caso, las excepciones de trabajador de confianza, prescripción y cosa juzgada;
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+I. El Tribunal o la Sala, dispondrán de amplias facultades de dirección procesal para examinar, en su caso, las excepciones de prescripción y cosa juzgada;
 
 II. El Tribunal o la Sala tomando en consideración las pruebas ofrecidas respecto a las excepciones perentorias opuestas determinará respecto a su procedencia o improcedencia, circunstancia que se tomará en consideración al momento de emitirse el laudo correspondiente para el efecto de determinar sobre la absolución o condena de la acción o prestaciones en contra de las cuales se opuso la excepción perentoria respectiva;
 
@@ -2825,9 +2919,9 @@ Artículo 233 B.- Si las partes no concurren a la etapa de depuración procesal,
 
 La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las normas siguientes:
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos, que no tengan relación con las excepciones perentorias que hubieren sido declaradas procedentes;
+I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos, que no tengan relación con las excepciones perentorias que hubieren sido declaradas procedentes. Inmediatamente después, el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte y aquél a su vez podrá objetar las del demandado. En caso de que las partes no ofrezcan las pruebas u omitan realizar las objeciones en los términos precisados, perderán su derecho para hacerlo con posterioridad;
 
 II. Las partes podrán ofrecer nuevas pruebas siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas; y
 
@@ -2961,49 +3055,69 @@ Los titulares de las instituciones o dependencias y los sujetos a esta ley, se a
 
 En caso de incumplimiento del laudo o convenio en los términos o modalidades establecidas en el artículo 251 de esta ley, el Tribunal o Sala, a petición de la parte interesada, dictará auto de requerimiento de pago y embargo, estableciendo los medios de apremio que podrán ser empleados para su cumplimiento y realizará las diligencias necesarias para su ejecución.
 
-La diligencia de requerimiento de pago y embargo se practicará en el domicilio de la institución pública o dependencia demandada, previa citación de su titular o su representante legal; si estos no estuviesen el día y hora fijados la diligencia se practicará con el servidor público que se encuentre presente.
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+La diligencia de requerimiento de pago y embargo se practicará en el domicilio de la institución pública, dependencia demandada, nuevo domicilio o denominación del deudor, misma que se realizará con su titular o su representante legal; si estos no estuviesen el día y hora fijados la diligencia se practicará con el servidor público que se encuentre presente.
 
 En las diligencias de requerimiento de pago y embargo se observarán las normas siguientes:
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-I. El actuario requerirá el pago a la persona con quien atienda la diligencia y si no efectúa el mismo procederá al embargo; para tal efecto, requerirá al compareciente por la demandada para que señale bienes suficientes que garanticen el crédito laboral y en caso de no hacerlo, dicho derecho se transfiere al actor;
+I. El actuario asociado personalmente con el actor, requerirá el pago a la persona con quien atienda la diligencia y si no efectúa el mismo procederá al embargo; para tal efecto, requerirá al compareciente por la demandada para que señale bienes tangibles de fácil realización o exhiba el título de crédito suficiente que garanticen el crédito laboral y en caso de no hacerlo, dicho derecho se transfiere al actor;
 
 II. El actuario podrá, en caso necesario, solicitar el auxilio de la Fuerza Pública, para llevar a cabo la diligencia; y
 
-III. El actuario, bajo su responsabilidad, embargará únicamente los bienes necesarios para garantizar el monto adeudado, para lo cual observará el siguiente orden: a) la partida presupuestal a que se refiere el artículo 251 del presente ordenamiento, b) cuenta bancaria y c) bienes del demandado en términos de la Ley de Bienes del Estado de México y de sus Municipios.
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+III. El actuario, bajo su responsabilidad, embargará únicamente los bienes necesarios para garantizar el monto adeudado, para lo cual observará el siguiente orden: a) la partida presupuestal a que se refiere el artículo 251 del presente ordenamiento, b) cuenta bancaria excepto aquellas que provengan de participaciones y aportaciones federales conforme a las leyes fiscales correspondientes, previa comprobación de los hechos a solicitud del demandado, c) bienes del demandado en términos de la Ley de Bienes del Estado de México y de sus Municipios, excepto aquella maquinaria, vehículos e instrumentos de los organismos de salud para la atención, cuidado y protección de los pacientes, de seguridad, así como aquellos necesarios para los organismos de protección civil en atención a las contingencias y atención de emergencias ciudadanas, previa comprobación de los hechos a solicitud del demandado; y
+
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+IV. En caso de que el demandado en la diligencia de embargo, señale cuentas bancarias inexistentes, imprecisas, sin fondos suficientes, o inclusive, cierre sus instalaciones sin justificación oficial alguna con el objetivo de evadir su responsabilidad, la parte actora podrá solicitar que se le de vista al Presidente ejecutor, para que, previa comprobación y valoración de los hechos, le imponga al titular de la Institución Pública una multa que podrá ser de 100 a 5000 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 Cuando el embargo deba recaer en bienes que se encuentren fuera del lugar donde se practique la diligencia, el actuario se trasladará al lugar donde manifieste la parte que obtuvo que se encuentren y previa identificación de los mismos, practicará el embargo.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Si los bienes embargados fuesen dinero o créditos realizables en el acto, el Actuario trabará embargo y los pondrá a disposición del Presidente ejecutor, quien deberá resolver sobre el pago del actor.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Si los bienes embargados son muebles, se pondrán en depósito de la persona, que bajo su responsabilidad designe la parte que obtuvo el embargo. El depositario debe informar al Presidente ejecutor del lugar en que quedarán los bienes embargados bajo su custodia. La parte que obtuvo podrá solicitar el cambio de depositario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 253.
 
 Los medios de apremio que podrán ser empleados por el Tribunal o la Sala, para el cumplimiento de un laudo o convenio son:
 
-I. Requerimiento con amonestación y señalamiento de los medios de apremio que se podrán ordenar;
+I. Multa que podrá ser, de 15 a 50 veces el valor diario de la Unidad de Medida y Actualización vigente, al o los Servidores Públicos responsables;
 
-> <small>(REFORMADA, G.G. 14 DE AGOSTO DE 2009)</small>
+II. Multa que podrá ser, de 60 a 150 veces (sic) valor diario de la Unidad de Medida y Actualización vigente, al o los Servidores Públicos responsables; y
 
-II. Multa que podrá ser, de cincuenta a cien días del salario base que perciba el servidor público; y
+III. En caso de reincidencia, la suspensión temporal del cargo del o de los Servidores Públicos responsables, hasta de uno a quince días sin goce de sueldo, así sucesivamente hasta su cumplimiento.
 
-> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-III. En caso de reincidencia, la suspensión temporal del cargo del servidor público hasta de uno a quince días sin goce de sueldo, así sucesivamente hasta su cumplimiento; y
-
-El Tribunal o la Sala respetarán estrictamente el orden, de los medios de apremio establecidos en este artículo.
-
-Las Salas en un término de cinco días, remitirán el expediente al Tribunal para que acuerde sobre la suspensión temporal del cargo del servidor público.
-
-El Tribunal al recibir los autos resolverá de plano, notificando al superior jerárquico para que proceda a cumplir sobre la suspensión temporal del cargo del servidor público.
-
-Se autoriza al Tribunal la creación del Fondo Auxiliar para la Justicia Laboral Burocrática cuyo objeto e integración y manejo lo regulará el Reglamento Interno del mismo.
+El Tribunal o la Sala podrán tomar las medidas legales necesarias para el cumplimiento de los laudos y sus resoluciones.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
+Las Salas en un término de cinco días, remitirán el expediente al Tribunal para que acuerde sobre la suspensión temporal del cargo del servidor público.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
+El Tribunal al recibir los autos resolverá de plano, notificando al superior jerárquico para que proceda a cumplir sobre la suspensión temporal del cargo del servidor público.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
+Se autoriza al Tribunal la creación del Fondo Auxiliar para la Justicia Laboral Burocrática cuyo objeto e integración y manejo lo regulará el Reglamento Interno del mismo.
+
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 254.
 
-El Tribunal, tratándose de la suspensión temporal hecha a un servidor público, podrá revocar su resolución si el Titular de la Institución o dependencia da cumplimiento al laudo o convenio dentro de los sesenta días naturales siguientes a la fecha de la notificación de la resolución.
+El Tribunal, tratándose de la suspensión temporal hecha a un servidor público incumplido y las multas, podrá dejarlas sin efecto si el titular de la Institución Pública o municipal responsable de realizar el pago da cumplimiento a cabalidad del laudo o convenio.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -3023,11 +3137,13 @@ El Tribunal o la Sala una vez cumplido el laudo o convenio ordenará que se arch
 
 ### CAPITULO XII. Del Fondo Auxiliar para la Justicia Laboral Burocrática
 
-> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 257.
 
-El Fondo Auxiliar para la Justicia Laboral Burocrática, tendrá por objeto obtener recursos económicos, para apoyar al personal del Tribunal en su formación profesional o estímulos, mejorar las instalaciones en las que se imparte justicia laboral burocrática y desarrollar todas aquellas actividades tendientes a elevar la calidad de la prestación del servicio de la justicia laboral burocrática.
+El Fondo Auxiliar para la Justicia Laboral Burocrática, tendrá por objeto obtener recursos económicos, para apoyar al personal del Tribunal y de la Sala en su formación profesional o estímulos, mejorar las instalaciones en las que se imparte justicia laboral burocrática y desarrollar todas aquellas actividades tendientes a elevar la calidad de la prestación del servicio de la justicia laboral burocrática.
+
+El Fondo Auxiliar del Tribunal se ejercerá con plena autonomía del mismo y no podrá ser embargado, descontado, o requerido por persona o autoridad alguna, solo por orden de autoridad judicial.
 
 > <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
 
@@ -3047,7 +3163,9 @@ IV. Los remanentes del Presupuesto de Egresos asignado a este Tribunal que resul
 
 V. Los intereses o rendimientos que se generen por las inversiones y depósitos que se realicen de recursos propios o ajenos;
 
-VI. Los demás bienes que el Fondo adquiera.
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Los demás bienes que el Fondo adquiera y que le generen al Tribunal o a la Sala un ingreso adicional;
 
 B.- Fondo ajeno, constituido por:
 
@@ -3061,11 +3179,23 @@ II. Los valores depositados por cualquier motivo ante el Tribunal que no fueran 
 
 Las sumas o valores que se reciban en el reglón de fondo ajeno, serán reintegrados a los depositantes o beneficiarios, según proceda, mediante orden por escrito del Tribunal, en el que se haya otorgado el depósito, en el término máximo de cinco días hábiles.
 
-> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 260.
 
-El Pleno del Tribunal, por conducto del Presidente, atenderá la administración y manejo del Fondo, bajo su más estricta responsabilidad, haciendo todas las acciones que más convengan a la institución y a sus servidores públicos, mediante el delegado administrativo que en todo tiempo informará al Pleno.
+El Pleno del Tribunal, por conducto del Presidente, atenderá la administración y manejo del Fondo, bajo su más estricta responsabilidad, de la siguiente forma:
+
+I. El Presidente y el delegado administrativo o equivalente del Tribunal aperturarán una cuenta bancaria a nombre del Tribunal;
+
+II. El delegado administrativo del Tribunal o equivalente, establecerá un detallado sistema de registro contable donde informará al Presidente de forma mensual los ingresos obtenidos en el periodo;
+
+III. En caso que el Tribunal o la Sala reciban valores documentales, deberán entregarlos al delegado administrativo o equivalente del Tribunal mediante una relación detallada por escrito, para su debido depósito bancario;
+
+IV. El uso y disposición del Fondo Auxiliar del Tribunal, será autorizado por el Pleno, dejando constancia de ello;
+
+V. La Sala de forma mensual enviará los fondos recabados al Presidente del Tribunal con un listado detallado de ingresos y egresos, para ser ingresados contablemente; y
+
+VI. El Presidente del Tribunal informará al Pleno de forma mensual, el balance de ingresos y egresos realizados al Fondo Auxiliar.
 
 T R A N S I T O R I O S
 
@@ -3386,3 +3516,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Con fundamento en lo previsto por el artículo 61 fracción XXXII de la Constitución Política del Estado Libre y Soberano de México, en relación con lo dispuesto por los artículos 10 y 11 de la Ley de Fiscalización Superior del Estado de México y para efecto de lo dispuesto en el artículo 15 de este Decreto y demás relativos y aplicables, se designa como Auditor Superior de Fiscalización del Estado de México para el periodo del 1° de enero de 2017 al 31 de diciembre de 2024 al Contador Público Fernando Valente Baz Ferreira.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 19 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 325.- POR EL QUE SE REFORMA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los procedimientos laborales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
