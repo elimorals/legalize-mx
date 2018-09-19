@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1252
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-30"
-last_updated: "2017-12-30"
+last_updated: "2018-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento al Número 104 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2017.
 
@@ -69,9 +69,13 @@ III. Constitución del Estado: La Constitución Política del Estado Libre y Sob
 
 IV. Código Penal: El Código Penal para el Estado de Zacatecas;
 
-V. Fiscalía General: La Fiscalía General del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Fiscal General: El Fiscal General del Estado de Zacatecas;
+V. Fiscalía General: La Fiscalía General de Justicia del Estado de Zacatecas;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Fiscal General: El Fiscal General de Justicia del Estado de Zacatecas;
 
 VII. Conducción de la Fiscalía General: La dirección jurídica que ejerce la Fiscalía General sobre las policías durante la investigación, con el fin de que las evidencias y elementos probatorios que se obtengan en su curso sean pertinentes para el esclarecimiento de los hechos y, en su caso, para el ejercicio de la acción penal. La Fiscalía General emitirá manuales y protocolos de actuación para asegurar que los elementos de prueba se recaben respetando los derechos fundamentales;
 
@@ -79,7 +83,9 @@ VIII. Fiscal: El que ejerce las facultades del Ministerio Público;
 
 IX. Fiscal Especial: El nombrado por acuerdo del Fiscal General para asuntos específicos y de carácter temporal;
 
-X. Fiscal Especializado: El Fiscal que ejerce las facultades del Ministerio Público en las materias especificadas en la Constitución del Estado;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+X. Fiscal Especializado: El Fiscal que ejerce las facultades del Ministerio Público en las materias especificadas en la Constitución del Estado y en esta Ley;
 
 XI. Ministerio Público: La Institución del Ministerio Público;
 
@@ -247,9 +253,13 @@ VII. Generar información estadística para el Sistema Nacional previsto en la L
 
 VIII. Las que determine la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, y demás disposiciones legales aplicables.
 
-Apartado C. Atribuciones en materia de derechos humanos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE SEPTIEMBRE DE 2018)</small>
 
-I. Instituir, entre los servidores públicos, el pleno conocimiento sobre los derechos humanos reconocidos en la Constitución, los Instrumentos Internacionales de Derechos Humanos, la Constitución del Estado, este ordenamiento y demás disposiciones aplicables, para lograr el respeto irrestricto de los mismos y brindar una debida procuración de justicia;
+Apartado C. Atribuciones en materia de derechos humanos, tortura y otros tratos o penas crueles, inhumanos o degradantes:
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+I. Instituir, entre los servidores públicos, el pleno conocimiento sobre los derechos humanos, reconocidos en la Constitución, los Instrumentos Internacionales de Derechos Humanos, el Manual para la Investigación y Documentación Eficaces de la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes “Protocolo de Estambul”, la Constitución del Estado, este ordenamiento y demás disposiciones aplicables, para lograr el respeto irrestricto de los mismos y brindar una debida procuración de justicia;
 
 II. Asegurarse que el personal de la Fiscalía General, en el ejercicio de sus atribuciones, promueva, observe, respete, proteja y garantice los derechos humanos de las víctimas, de los ofendidos y de los imputados, en la práctica de cualquier procedimiento;
 
@@ -259,11 +269,21 @@ IV. Promover que se aplique la perspectiva de género en la investigación y per
 
 V. Brindar atención integral a la víctima o al ofendido del delito, por sí o en convenio con las instituciones de seguridad pública y de atención a víctimas, de conformidad con las disposiciones aplicables;
 
-VI. Observar que los servidores públicos eviten incurrir en conductas que se relacionen con la tortura; en aquellos casos en que sea necesario el uso de la fuerza, ésta deberá ser aplicada observando los principios de legalidad, congruencia, oportunidad y proporcionalidad;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Observar que los servidores públicos eviten incurrir en conductas que se relacionen con la tortura y otros tratos o penas crueles, inhumanos o degradantes; en aquellos casos en que sea necesario el uso de la fuerza, ésta deberá ser aplicada observando los principios de legalidad, congruencia, oportunidad y proporcionalidad;
 
 VII. Brindar atención y trato justo a toda persona que se introduzca a territorio estatal, por cualquier motivo, ya sea por un plazo prolongado o de manera transitoria, respetando sus derechos humanos, reconocidos en la Constitución, los Tratados Internacionales y la Constitución del Estado, y
 
 VIII. Atender y resolver, conforme a la normatividad aplicable, las quejas derivadas de una conciliación o recomendación de las Comisiones Nacional y Estatal de los Derechos Humanos, y, en su caso, iniciar procedimientos administrativos de responsabilidad por violaciones a los derechos humanos.
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Capacitar permanentemente a su personal en materia de planeación, desarrollo y técnicas de investigación criminal, uso adecuado, legal, proporcional, razonable y gradual de la fuerza, así como en derechos humanos, y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+X. Iniciar, dirigir, coordinar y supervisar las investigaciones relacionadas con los delitos señalados en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, así como realizar las acciones que correspondan, en el ámbito de su competencia, para la obtención de la oportuna sanción de esos delitos y de la correspondiente reparación integral y atención especializada a víctimas directas e indirectas.
 
 La protección de los derechos e intereses de los grupos vulnerables, ausentes, indígenas y la de otros de carácter individual o social, consistirá en cumplir con las obligaciones constitucionales en los términos de las leyes especiales o según determine el Fiscal General.
 
@@ -366,6 +386,60 @@ VIII. Celebrar convenios con instituciones y organismos públicos o privados, na
 IX. Las demás que en su caso le confieran otras disposiciones legales aplicables.
 
 Apartado L. Son atribuciones en materia de ejecución penal, la intervención en los procesos de ejecución de las sanciones penales y medidas de seguridad, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Apartado M. Atribuciones en materia de desaparición forzada de personas y desaparición cometida por particulares:
+
+I. Dirigir, coordinar y supervisar las investigaciones para la búsqueda y localización de personas desaparecidas y, en su caso, su identificación forense, así como para perseguir los delitos relacionados con la desaparición de personas;
+
+II. Mantener coordinación con la Comisión Nacional de Búsqueda para realizar todas las acciones relativas a la investigación y persecución de los delitos en la materia, conforme a los Protocolos que emitan las autoridades competentes y las demás disposiciones aplicables;
+
+III. Dar aviso de manera inmediata, a través del Registro Nacional, a la Comisión Nacional de Búsqueda sobre el inicio de una investigación de los delitos en la materia, a fin de que se inicien las acciones correspondientes a la búsqueda, así como compartir la información relevante, de conformidad con el Protocolo y demás disposiciones aplicables;
+
+IV. Mantener comunicación continua y permanente con la Comisión Nacional de Búsqueda y las Comisiones Locales de Búsqueda, a fin de compartir información que pudiera contribuir en las acciones para la búsqueda y localización de personas, en términos de las disposiciones aplicables;
+
+V. Informar de manera inmediata a la Comisión Nacional de Búsqueda o a la Comisión Local de Búsqueda, según sea el caso, la localización o identificación de una persona;
+
+VI. Administrar bases de datos con estadísticas relativas a la incidencia de los delitos en la materia, garantizando que los datos estén desagregados, al menos, por género, edad, nacionalidad, sujeto activo, rango y dependencia de adscripción, así como si se trata de desaparición forzada o desaparición cometida por particulares.
+
+Las bases de datos a que se refiere el párrafo que antecede deben permitir la identificación de circunstancias, grupos en condición de vulnerabilidad, modus operandi, delimitación territorial, rutas y zonas de alto riesgo en los que aumente la probabilidad de comisión de alguno de los delitos previstos en la legislación correspondlente (sic) para garantizar su prevención;
+
+VII. Capacitar al personal ministerial, policial y pericial conforme a los más altos estándares internacionales, respecto de las técnicas de búsqueda, investigación y análisis de pruebas para los delitos en la materia, con pleno respeto a los derechos humanos y con enfoque psicosocial;
+
+VIII. Seleccionar, de conformidad con los procedimientos de evaluación y controles de confianza aplicables, al personal policial que conformará los Grupos de Búsqueda;
+
+IX. Integrar los Grupos de Búsqueda, de conformidad con las cifras de los índices del delito de desaparición forzada de personas y la cometida por particulares, así como de Personas No Localizadas que existan en el Estado, en términos de los lineamientos que emita la Comisión Nacional de Búsqueda;
+
+X. Capacitar y certificar a su personal en esta materia, conforme a los criterios que al efecto establezca la Conferencia Nacional de Procuración de Justicia, y
+
+XI. Capacitar a todo el personal policial respecto de los protocolos de actuación inmediata y las acciones específicas que deben realizar cuando tengan conocimiento, por cualquier medio, de la desaparición o no localización de una persona.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Apartado N. Atribuciones en materia de Atención de Trata de Personas:
+
+I. En concordancia con el Programa Nacional, formular políticas e instrumentar programas estatales para prevenir, sancionar y erradicar los delitos en la materia, así como para la protección, atención, rehabilitación y recuperación del proyecto de vida de las víctimas y posibles víctimas, ofendidos y testigos de los mismos;
+
+II. Proponer a la Comisión Intersecretarial contenidos nacionales y regionales, para ser incorporados al Programa Nacional;
+
+III. Prestar servicios de formación, actualización, capacitación y profesionalización para los actores institucionales que participan en los procesos de prevención y combate a los delitos en la materia y de asistencia y protección de las víctimas, de conformidad con las disposiciones generales que las autoridades federales determinen;
+
+IV. Implementar, en coordinación con la Federación, programas y proyectos de atención, educación, capacitación e investigación en materia de esclavitud, trata de personas o explotación y demás delitos en la materia;
+
+V. Impulsar programas para prevenir los factores de riesgo para posibles víctimas de los delitos en la materia que incluyan programas de desarrollo local;
+
+VI. Creación de refugios, albergues y casas de medio camino para las víctimas, ofendidos y testigos de los delitos que la Ley General en la materia defina como del fuero común, o apoyar a las organizaciones de la sociedad civil, para la creación y operación de los mismos, hasta la total recuperación de las víctimas, ofendidos y testigos de los delitos contenidos en la legislación aplicable;
+
+VII. Revisar y evaluar la eficacia de las políticas, programas y acciones con base en los lineamientos que para tal efecto desarrollen las autoridades federales;
+
+VIII. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para su elaboración;
+
+IX. Impulsar reformas legales para el cumplimiento de los objetivos de la presente Ley;
+
+X. Coordinarse con la Federación y otros Estados, con el objeto de generar prevención general, especial y social, en los términos y reglas establecidas en la Ley General del Sistema Nacional de Seguridad Pública, y
+
+XI. Las demás aplicables a la materia, que les confiera esta Ley u otros ordenamientos legales.
 
 ###### Artículo 12.
 
@@ -617,9 +691,11 @@ Acatarán las instrucciones que se les dicten para tal efecto, cumplirán las ac
 
 ### Capítulo V. Fiscalías Especializadas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 34.
 
-Los Fiscales Especializados en Materia de Delitos Electorales, de Combate a la Corrupción y de Derechos Humanos serán nombrados y removidos en los términos establecidos en la Constitución del Estado. El plazo que tendrá la Legislatura del Estado para objetar la decisión del Fiscal General será de diez días hábiles.
+Los Fiscales Especializados en Materia de Delitos Electorales, de Combate a la Corrupción; de Derechos Humanos, Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes; de Desaparición forzada de personas y desaparición cometida por particulares, y Trata de Personas, serán nombrados y removidos en los términos establecidos en la Constitución del Estado y en esta Ley. El plazo que tendrá la Legislatura del Estado para objetar la decisión del Fiscal General será de diez días hábiles.
 
 Al momento de su designación los Fiscales Especializados deberán tener 30 años cumplidos y contar con título profesional de Licenciado en Derecho o afín y cédula profesional debidamente registrados.
 
@@ -699,15 +775,23 @@ XIV. Las demás que de acuerdo a la naturaleza de su función le señalen otras 
 
 Para ser Fiscal Especializado en Combate a la Corrupción se requiere cumplir con los requisitos previstos para los Fiscales Especializados, además deberá contar con conocimiento en los ámbitos de procuración o impartición de justicia, proceso penal acusatorio, así como transparencia, rendición de cuentas o combate a la corrupción; y será nombrado y removido por el Fiscal General en los términos que establece la Constitución del Estado.
 
-#### Sección Tercera. Fiscalía Especializada de Derechos Humanos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+#### Sección Tercera. Fiscalía Especializada de Derechos Humanos, Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 39.
 
-Corresponderá a la Fiscalía Especializada de Derechos Humanos, la atención, investigación, litigación y persecución de los delitos de tortura, contra periodistas y de desaparición de personas.
+La Fiscalía Especializada de Derechos Humanos, Tortura y otros Tratos Crueles, Inhumanos y Degradantes, tendrá a su cargo la atención, investigación, litigación y persecución de los delitos de tortura, así como aquellos cometidos contra periodistas y personas defensoras de derechos humanos.
 
-Tendrá a su cargo las acciones relacionadas con la atención que brinde la Fiscalía General en materia de promoción, respeto, protección y garantía de derechos humanos, atención y protección a víctimas del delito y testigos.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
 
-Corresponde a la Fiscalía Especializada de Derechos Humanos:
+Contará con plena autonomía técnica y operativa y con Ministerios Públicos, policías, servicios periciales y técnicos especializados para conocimiento, investigación y persecución del delito de tortura y otros tratos y penas crueles, inhumanos y degradantes, y estarán dotadas de los recursos humanos, financieros y materiales que requieran para su efectiva operación.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Asimismo, tendrá a su cargo las acciones relacionadas con la atención que brinde la Fiscalía General en materia de promoción, respeto, protección y garantía de derechos humanos, atención y protección a víctimas del delito y testigos; además, le corresponderá el ejercicio de las siguientes atribuciones:
 
 I. Proponer e instrumentar las políticas institucionales para la capacitación y promoción de los Derechos Humanos;
 
@@ -729,9 +813,89 @@ IX. Atender, por parte de la Fiscalía General, en términos de las disposicione
 
 X. Cumplimentar, en coordinación con las autoridades correspondientes, los requerimientos, visitas, medidas cautelares y recomendaciones que los organismos internacionales de Derechos Humanos realicen, respecto de aquellos casos que sean competencia de la Fiscalía General;
 
-XI. Impulsar la colaboración de los Poderes y Ayuntamientos del Estado, organismos autónomos, así como del sector privado, para que coadyuven a la localización de personas reportadas como desaparecidas, y
+XI. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2018)
 
-XII. Las demás que de acuerdo a la naturaleza de su función le señalen otras leyes vigentes en el Estado y las que le encomiende el Fiscal General.
+XII. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2018)
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Iniciar de manera inmediata la investigación por el delito de tortura;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Comenzar con la integración de la carpeta de investigación correspondiente, incluyendo las declaraciones del denunciante o víctima alegada del delito y los testigos;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Realizar el registro del hecho en el Registro Nacional;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Informar a la persona denunciante de su derecho a contar con un asesor jurídico;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Solicitar a las autoridades competentes el resguardo del probable lugar de los hechos y pedir a los peritos su intervención para el procesamiento del mismo;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Solicitar la intervención de peritos para que realicen el dictamen médico-psicológico correspondiente y los demás que se requieran;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Informar a la víctima de su derecho a ofrecer un dictamen médico-psicológico elaborado por peritos independientes o, en su caso, por organismos públicos de protección de los derechos humanos cuando se emitan con motivo de quejas interpuestas ante los mismos;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Emitir las medidas de protección necesarias para resguardar la integridad de las víctimas y testigos;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXI. Notificar, en caso de que la víctima sea una persona extranjera, a la autoridad competente del Estado del que sea nacional y coadyuvar para garantizar el derecho a la asistencia consular;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXII. Solicitar al Juez de Control la realización de la audiencia inicial;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII. Requerir a las instancias del sector público competentes, y del sector privado en los casos que disponga la Ley General de Víctimas, para que se le brinde atención médica, psicológica y jurídica a las personas víctimas del delito de tortura;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV. Ejecutar, supervisar y evaluar el Protocolo correspondiente, así como los protocolos de actuación y para la investigación que emita la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXV. Solicitar a las autoridades competentes su colaboración y apoyo para la investigación y persecución de los delitos materia de su competencia;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXVI. Decretar las medidas de protección en favor de la vida o la integridad de las víctimas, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXVII. Establecer mecanismos de cooperación con otras autoridades competentes para el intercambio de plataformas de información y de la capacitación continua para dichos efectos;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXVIII. Colaborar con otras autoridades competentes a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras Fiscalías Especializadas, con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en la Ley en la materia y participar en la actualización del Registro Nacional del Delito de Tortura;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXIX. Realizar un análisis de contextos y patrones sobre la comisión del delito de tortura, con base en los datos del Registro Nacional del Delito de Tortura y otra información disponible;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXX. Proponer políticas para la prevención de las conductas de tortura, y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XXXI. Las demás que dispongan la Ley de la materia, esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+Para ser integrante y permanecer en la Fiscalía Especializada de Derechos Humanos, Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, será necesario cumplir con los requisitos establecidos en el artículo 58 de la Ley General en la materia.
 
 ###### Artículo 40.
 
@@ -823,9 +987,245 @@ XXXIV. Recopilar, integrar, actualizar y compartir la información que genere en
 
 XXXV. Las demás que le otorguen otras disposiciones jurídicas o administrativas aplicables.
 
-#### Sección Primera. Dirección General de Administración
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
 
-#### Sección Segunda. Dirección General de Desarrollo y Evaluación
+#### Sección Quinta. Fiscalía Especializada para la Atención de Desaparición Forzada de Personas y Desaparición Cometida por Particulares
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 43 Bis.
+
+La Fiscalía Especializada para la Atención de Desaparición Forzada de Personas y Desaparición Cometida por Particulares estará a cargo de la atención, Investigación y persecución de los delitos previstos en la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Además, tendrá las siguientes atribuciones:
+
+I. Recibir las denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos previstos en la Ley General de la materia e iniciar la carpeta de investigación correspondiente;
+
+II. Mantener coordinación con la Comisión Nacional de Búsqueda para realizar todas las acciones relativas a la investigación y persecución de los delitos en esta materia, conforme al Protocolo Homologado de Investigación y demás disposiciones aplicables;
+
+III. Dar aviso de manera inmediata, a través del Registro Nacional, a la Comisión Nacional de Búsqueda sobre el inicio de una investigación de los delitos en esta materia, a fin de que se inicien las acciones correspondientes a la búsqueda, así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
+
+IV. Mantener comunicación continua y permanente con la Comisión Nacional de Búsqueda y las Comisiones Locales de Búsqueda, a fin de compartir información que pudiera contribuir en las acciones para la búsqueda y localización de personas, en términos de las disposiciones aplicables;
+
+V. Informar de manera inmediata a la Comisión Nacional de Búsqueda o a las Comisiones Locales de Búsqueda, según sea el caso, la localización o identificación de una persona;
+
+VI. Mantener comunicación continua y permanente con el Mecanismo de Apoyo Exterior y la Unidad de Investigación de Delitos para Personas Migrantes para recibir, recabar y proporcionar información sobre las acciones de investigación y persecución de los delitos en esta materia cometidos en contra de personas migrantes;
+
+VII. Solicitar directamente la localización geográfica en tiempo real o la entrega de los datos conservados, en los términos establecidos en el Código Nacional de Procedimientos Penales;
+
+VIII. Solicitar a la autoridad judicial competente la autorización para ordenar la intervención de comunicaciones, en términos de las disposiciones aplicables;
+
+IX. Realizar y comunicar, sin dilación, todos aquellos actos que requieran de autorización judicial que previamente hayan sido solicitados por la Comisión que corresponda para la búsqueda y localización de una persona desaparecida;
+
+X. En acuerdo con las autoridades federales y locales competentes, conformar grupos de trabajo interinstitucionales y multidisciplinarios para la coordinación de la investigación de hechos probablemente constitutivos de los delitos en esta materia, cuando de la información con la que cuente la autoridad se desprenda que pudieron ocurrir en dos o más Entidades Federativas o se trata de una persona extranjera en situación de migración, independientemente de su situación migratoria;
+
+XI. Solicitar el apoyo policial a las autoridades competentes, para realizar las tareas de investigación en campo;
+
+XII. Recabar la información necesaria para la persecución e investigación de los delitos en la materia;
+
+XIII. Remitir la investigación y las actuaciones realizadas a las autoridades competentes cuando advierta la comisión de uno o varios delitos diferentes en la materia;
+
+XIV. Solicitar al Juez de Control competente las medidas cautelares que sean necesarias, de conformidad con el Código Nacional de Procedimientos Penales;
+
+XV. Solicitar la participación de la Comisión Ejecutiva de Atención a Víctimas que corresponda, así como de las instituciones y organizaciones de derechos humanos y de protección civil, en los términos de las disposiciones jurídicas aplicables;
+
+XVI. Establecer mecanismos de cooperación destinados al intercambio de información y adiestramiento continuo de los servidores públicos especializados en la materia;
+
+XVII. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para poder hacer la entrega de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación y demás normas aplicables;
+
+XVIII. Solicitar a las autoridades jurisdiccionales competentes la autorización para la realización de las exhumaciones en cementerios, fosas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cadáveres o restos humanos de personas desaparecidas;
+
+XIX. Solicitar a las autoridades jurisdiccionales competentes el traslado de las personas internas a otros centros de reclusión salvaguardando sus derechos humanos, siempre que esta medida favorezca la búsqueda o localización de las personas desaparecidas o a la investigación de los delitos en la materia, en términos de la Ley Nacional de Ejecución Penal;
+
+XX. Facilitar la participación de los familiares en la investigación de los delitos previstos en la Ley General de la materia, incluido brindar información periódicamente a los familiares sobre los avances en el proceso de la investigación y persecución de los delitos en la materia, en términos del Código Nacional de Procedimientos Penales;
+
+XXI. Celebrar convenios de colaboración o cooperación, para el óptimo cumplimiento de sus atribuciones;
+
+XXII. Brindar la información que la Comisión Ejecutiva de Atención a Víctimas, Nacional o estatales, le soliciten para mejorar la atención a las víctimas, en términos de lo que establezcan las disposiciones aplicables;
+
+XXIII. Brindar la información que el Consejo Ciudadano le solicite para el ejercicio de sus funciones, en términos de lo que establezcan las disposiciones aplicables;
+
+XXIV. Proporcionar asistencia técnica a las Fiscalías Especializadas de las Entidades Federativas que lo soliciten;
+
+XXV. Coordinarse y dar impulso permanente a la búsqueda de personas desaparecidas;
+
+XXVI. Contar con personal sustantivo ministerial, policial, pericial y de apoyo psicosocial;
+
+XXVII. Contar con los recursos financieros, materiales y técnicos especializados y multidisciplinarios y una unidad de análisis de contexto que se requieran para su efectiva operación;
+
+XXVIII. Requerir el auxilio necesario a todas las autoridades, en el ámbito de sus competencias, quienes estarán obligadas a colaborar de forma eficaz con la Fiscalía Especializada para el cumplimiento de sus atribuciones;
+
+XXIX. Remitir inmediatamente a la Fiscalía Especializada de la Procuraduría General los expedientes de los que conozca cuando se actualicen los supuestos previstos en el artículo 24 de la Ley General de la materia, o iniciar inmediatamente la carpeta de investigación, cuando el asunto no esté contemplado expresamente como competencia de la Federación, y
+
+XXX. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+Para ser integrante y permanecer en la Fiscalía Especializada para la Atención de Desaparición Forzada de Personas y Desaparición Cometida por Particulares, será necesario cumplir con los requisitos establecidos en el artículo 69 de la Ley General en la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 43 Ter.
+
+En materia de protección de personas, la Fiscalía Especializada para la Atención de Desaparición Forzada de Personas y Desaparición Cometida por Particulares, tendrá las siguientes atribuciones:
+
+I. Establecer programas para la protección de las víctimas, los familiares y toda persona involucrada en el proceso de búsqueda de personas desaparecidas o no localizadas, investigación o proceso penal de los delitos previstos en la Ley General de la materia, cuando su vida o integridad corporal pueda estar en peligro, o puedan ser sometidas a actos de maltrato o intimidación por su intervención en dichos procesos, en términos de lo dispuesto en la Ley para la Protección de Personas que Intervienen en los Procedimientos Penales en el Estado de Zacatecas;
+
+II. Otorgar el apoyo ministerial, pericial, policial y de otras fuerzas de seguridad a las organizaciones de familiares y a familiares en las tareas de búsqueda de personas desaparecidas en campo, garantizando todas las medidas de protección a su integridad física;
+
+III. Podrá otorgar, con apoyo de la Comisión Ejecutiva de Atención Integral a Víctimas que corresponda, como medida urgente de protección, la reubicación temporal, la protección de inmuebles, la escolta de cuerpos especializados y las demás que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere el artículo anterior, conforme a los procedimientos y con las autorizaciones aplicable (sic), y
+
+IV. Podrá otorgar, con apoyo de la Comisión Ejecutiva de Atención integral a Víctimas que corresponda, como medida de protección para enfrentar el riesgo, la entrega de equipo celular, radio o telefonía satelital, instalación de sistemas de seguridad en inmuebles, vigilancia a través de patrullajes, entrega de chalecos antibalas, detector de metales, autos blindados, y demás medios de protección que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere la fracción I de este artículo, conforme a la legislación aplicable.
+
+Cuando se trate de personas defensoras de los derechos humanos o periodistas se estará también a lo dispuesto en la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 43 Quáter.
+
+La incorporación a los programas de protección de las personas a que se refiere el artículo anterior, debe ser autorizada por el agente del Ministerio Público encargado de la investigación o por el titular de la Fiscalía Especializada.
+
+La información y documentación relacionada con las personas protegidas debe ser tratada con estricta reserva o confidencialidad, según corresponda.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+#### Sección Sexta. Fiscalía Especializada para la Atención de Trata de Personas
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 43 Quinquies.
+
+Corresponderá a la Fiscalía Especializada para la Atención de Trata de Personas el diseño e implementación de acciones para la atención, investigación, litigación y persecución de los delitos en materia de trata de personas.
+
+Asimismo, promoverá las acciones necesarias para la asistencia, protección, seguridad y acceso a la justicia de las víctimas, ofendidos y testigos de estos delitos, en términos de la Ley General de la materia.
+
+La Fiscalía Especializada tendrá, además, las siguientes atribuciones:
+
+I. Recibir e investigar las denuncias sobre delitos en materia de trata de personas;
+
+II. Fomentar en la sociedad de Zacatecas la importancia de denunciar conductas que estén relacionadas o tipificadas como delito de trata de personas, garantizando ante todo la seguridad del denunciante;
+
+III. Rendir un informe semestral al Consejo Estatal para Prevenir y Atender la Trata de Personas del Estado de Zacatecas, de las activldades (sic) y políticas implementadas, así como los resultados obtenidos en la ejecución de diversos programas sobre el delito de trata de personas;
+
+IV. Realizar un diagnóstico sobre la problemática que prevalezca en la Entidad en materia de trata de personas;
+
+V. Identificar los sectores y las zonas con mayor índice de vulnerabilidad del Estado, susceptibles a la trata de personas, con el objetivo de diseñar estrategias y mecanismos específicos para desalentarla;
+
+VI. Contar con servidores públicos especializados en materia de trata de personas y de derechos humanos;
+
+VII. Diseñar y crear un sistema de denuncia en delitos en materia de trata de personas en el que sea posible recibir denuncias anónimas y salvaguardar la integridad del denunciante;
+
+VIII. Procurar que el trabajo entre autoridades federales, estatales y municipales, para la atención y combate del delito de trata de personas, se lleve a cabo de manera coordinada y eficiente, y
+
+IX. Las demás que les confieran otros ordenamientos legales y las necesarias para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 43 Sexies.
+
+Con relación a las técnicas de investigación especiales, la Fiscalía Especializada para la Atención de Trata de Personas tendrá las siguientes atribuciones:
+
+I. Cuando tenga conocimiento, por cualquier medio, de la comisión de alguno de los delitos en materia de trata de personas asumirá la función de la dirección de investigación a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Convocará a una reunión de planeación de la investigación a la que asistirán todas las áreas requeridas, en la que se deberá fijar por lo menos:
+
+a) El Ministerio Público responsable del caso;
+
+b) Los policías de investigación asignados;
+
+c) Integrar a funcionarios encargados de las investigaciones patrimoniales y financieras;
+
+d) El mando policial responsable;
+
+e) El análisis y estrategia básica de la investigación;
+
+f) El control de riesgo y manejo de crisis;
+
+g) El control de manejo de información;
+
+h) Lugar en el que deberá ser alojada la víctima, en caso de ser necesario;
+
+i) La relación con el personal encargado de la atención y apoyo a la víctima u ofendidos, y
+
+j) Periodicidad de las reuniones del grupo en las fases críticas y en la continuación de la investigación;
+
+III. Las policías y el Ministerio Público, en el respectivo ámbito de sus competencias, deberán tener como metas de la investigación, por lo menos, las siguientes:
+
+a) Extracción segura de la víctima del lugar de los hechos o de donde se encuentra;
+
+b) Identificación del modus operandi de los involucrados;
+
+c) Obtención de elementos probatorios antes, durante y posterior a la extracción segura de la víctima;
+
+d) Aseguramiento de elementos probatorios conforme a los lineamientos de cadena de custodia;
+
+e) Detención de las personas que cometieron o participaron en la comisión;
+
+f) Identificación y aseguramiento de los recursos económicos obtenidos por el responsable del delito;
+
+g) Identificación de bienes relacionados con los hechos o propiedad de los responsables del delito que pueda ser objeto de extinción de dominio;
+
+h) En caso de que el delito sea cometido por más de dos personas, identificar, determinar las actividades que realiza (sic) y detener a cada integrante del grupo criminal, y
+
+i) Obtener sentencias definitivas contra los responsables del delito;
+
+IV. Las policías que actuarán bajo la dirección y conducción del Ministerio Público, además de las facultades que les confieren otros ordenamientos, durante la fase de investigación podrán:
+
+a) Recabar información en lugares públicos, mediante la utilización de medios e instrumentos y cualquier herramienta que resulten necesarias para la generación de inteligencia. En el ejercicio de esta atribución se deberán respetar los derechos particulares de los ciudadanos;
+
+b) Recabar información de bases de datos públicos, con el objeto de identificar a las víctimas, testigos, lugares de los hechos, forma de operar, sujetos involucrados o bienes de éstos;
+
+c) Realizar análisis técnico táctico o estratégico de la información obtenida para la generación de inteligencia;
+
+d) Verificar la información que reciba sobre hechos que puedan ser constitutivos de delito o delitos para, en su caso, informarlo al Ministerio Público;
+
+e) Efectuar el procesamiento del lugar de los hechos, para lo cual deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme al procedimiento previamente establecido por éste y en términos de las disposiciones aplicables, en caso de contar con personal calificado para tal fin;
+
+V. El Ministerio Público, además de las facultades que les (sic) confieren otros ordenamientos, durante la fase de investigación podrá:
+
+a) Solicitar la intervención de comunicaciones, en términos de la legislación aplicable;
+
+b) Solicitar información a las empresas telefónicas y de comunicación, en términos de la legislación aplicable;
+
+c) Autorizar el seguimiento de personas hasta por un período de un mes, el cual podrá ser prorrogado siempre que existan motivos suficientes, sin que la misma tenga una duración mayor a seis meses, en términos de la normatividad aplicable;
+
+d) Solicitar información a la Comisión Nacional Bancaria y de Valores sobre la actividad financiera de las personas sujetas a investigación, en términos de la legislación aplicable;
+
+e) Autorizar la colaboración de informantes, en los términos de los lineamientos mínimos que emita el Sistema Nacional de Seguridad Pública, así como demás disposiciones aplicables;
+
+f) Autorizar la utilización de cualquier medio, instrumentos o herramienta para la obtención de pruebas, siempre que ésta no contravenga los derechos humanos ni violente el orden jurídico, y
+
+g) Toda aquella que determinen las leyes aplicables.
+
+La protección de las víctimas, ofendidos y testigos de los delitos contenidos en la materia comprenderá, además de lo previsto en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y de los demás contemplados en esta Ley, los siguientes rubros:
+
+VI. Se garantizará a las víctimas de los delitos en la materia, cuando sea necesario, alojamiento adecuado, atención médica de calidad, acceso a la educación, capacitación y oportunidades de empleo, hasta su total recuperación y resocialización.
+
+Asimismo, se les ofrecerán modelos de medio camino y opciones dignas y viables para su reinserción social encaminada a la construcción de autonomía;
+
+VII. Se garantizará a las víctimas de los delitos en la materia, atención física, psicológica y social hasta su total recuperación y rehabilitación.
+
+Esta atención deberá ser proporcionada por autoridades competentes en coordinación con organizaciones no gubernamentales y otros sectores de la sociedad civil, en los términos del párrafo segundo de la fracción V del artículo 62 de la presente Ley General en la materia;
+
+VIII. Todas aquéllas que resulten pertinentes para salvaguardar la seguridad física, la libertad, dignidad, integridad física y mental, los derechos humanos y la reparación del daño, así como el libre desarrollo de la personalidad, en el caso de niñas, niños y adolescentes;
+
+IX. Las víctimas, ofendidos y testigos recibirán la asistencia material, jurídica, médica y psicológica que sea necesaria, por conducto de las autoridades federales y estatales encargadas en la materia, las que se podrán auxiliar de organizaciones privadas, comunitarios y de la Sociedad Civil, en los términos del párrafo segundo de la fracción V del artículo 62 de la presente Ley General en la materia.
+
+En todo momento la autoridad que corresponda les informarán y gestionarán los servicios de salud y sociales y demás asistencia pertinente;
+
+X. Para mejor atender las necesidades de las víctimas de los delitos en esta materia, se proporcionará al personal de policía, justicia, salud, servicios sociales, capacitación que los sensibilice sobre dichas necesidades, así como directrices que garanticen que esta ayuda sea siempre especializada y oportuna;
+
+XI. Al proporcionar servicios y asistencia a las víctimas, se prestará atención a las necesidades especiales que resulten por la índole de los daños sufridos o debido a cualquier situación de vulnerabilidad;
+
+XII. Las víctimas, ofendidos y testigos tendrán derecho a que se les dicte cualquier tipo de medidas cautelares, providencias precautorias y protección personal, que garanticen la vigencia y salvaguarda de sus derechos, las cuales tendrá (sic) vigencia durante la investigación, proceso, sentencia y ejecución de penas, y deberán ser adoptadas por el Ministerio Público y el órgano jurisdiccional competente, en los términos del párrafo segundo de la fracción V del artículo 62 de la Ley General en la materia;
+
+XIII. Además de garantizar las medidas previstas en el artículo 137 del Código Nacional de Procedimientos Penales a favor de las víctimas, ofendidos y testigos, el Ministerio Público y el órgano jurisdiccional competente deberán asegurar, en los términos del párrafo segundo de la fracción V del artículo 62 de la Ley General en la materia, que durante las comparecencias y actuaciones de éstos sus declaraciones se desarrollen libres de intimidación o temor por su seguridad o la de sus familiares y personas cercanas, por lo que al menos garantizará:
+
+a) Medios remotos de distorsión de voz y rasgos;
+
+b) Comparecencia a través de Cámara de Gesell, y
+
+c) Resguardo de la identidad y otros datos personales.
+
+En los casos en que la víctima, ofendido o testigo declare en contra de grupos de la delincuencia organizada, el Ministerio Público y el órgano jurisdiccional competente adoptarán un conjunto de medidas de carácter excepcional para resguardar su vida, libertad, integridad, seguridad e identidad.
 
 ###### Artículo 44.
 
@@ -863,7 +1263,7 @@ XV. Las demás que de acuerdo a la naturaleza de su función le señalen otras l
 
 ### Capítulo VI. Direcciones
 
-#### Sección Tercera. Dirección General del Servicio Profesional de Carrera
+#### Sección Primera. Dirección General de Administración
 
 ###### Artículo 45.
 
@@ -927,9 +1327,13 @@ VII. Los integrantes del Comité con derecho a voz y voto, así como los asesore
 
 VIII. Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
 
+#### Sección Segunda. Dirección General de Desarrollo y Evaluación
+
 ###### Artículo 50.
 
 La Dirección General de Desarrollo y Evaluación dependerá directamente del Fiscal General. Tendrá a su cargo el desarrollo y modernización institucionales a través de la recopilación y el análisis de la información estadística del delito y de los factores económicos, sociales y normativos, que permita el diseño de la política de persecución de la Entidad; así como la implementación de la gestión por resultados en la Fiscalía General, como cultura organizacional sustentada en el presupuesto basado en resultados y la evaluación del desempeño institucional. Sus facultades, funciones y organización quedarán establecidas en el Reglamento.
+
+#### Sección Tercera. Dirección General del Servicio Profesional de Carrera
 
 ###### Artículo 51.
 
@@ -1063,7 +1467,9 @@ I. El Fiscal General, quien será su Presidente;
 
 II. Un representante del Poder Ejecutivo, designado por el Gobernador del Estado;
 
-III. Un representante del Poder Legislativo del Estado, que será el Presidente de la Comisión de Seguridad y Justicia, y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+
+III. Un representante del Poder Legislativo del Estado, que será el Presidente de la Comisión de Seguridad Pública, y
 
 IV. Dos consejeros ciudadanos.
 
@@ -1442,3 +1848,17 @@ Dado en la Sala de Sesiones de la Honorable Legislatura del Estado, a los diecis
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los veintisiete días del mes de diciembre del año dos mil diecisiete. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 452.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Para solventar el impacto presupuestario del presente Decreto a que se refiere la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, por el periodo comprendido, entre los meses de septiembre a diciembre del presente ejercicio fiscal 2018, se autoriza a la Secretaría de Finanzas para realizar las adecuaciones presupuestales correspondientes para transferir el recurso presupuestal del Poder Legislativo a la Fiscalía General de Justicia hasta por el monto que arroje la estimación presupuestal que forma parte del presente instrumento legislativo.
+
+Los costos presupuestales de las fiscalías especializadas que se crean por el presente Decreto para el ejercicio fiscal 2019 y subsecuentes, serán considerados en el Presupuesto de Egresos del Estado que corresponda y de conformidad con el principio de balance presupuestario sostenible y acorde a la capacidad financiera del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
