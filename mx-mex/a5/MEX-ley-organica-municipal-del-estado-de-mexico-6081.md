@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2018-09-17"
+last_updated: "2018-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -679,6 +679,14 @@ I Quáter. Formular, aprobar, implementar y ejecutar las políticas, programas y
 
 I Quintus. Participar en la presentación e instrumentación de Gobierno Digital que prevé la Ley de la materia.
 
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+I Sextus. Formular, aprobar, implementar y ejecutar los programas y acciones para la prevención, atención y en su caso, el pago de las responsabilidades económicas en los conflictos laborales;
+
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+I Septimus. Conocer y en su caso aprobar las acciones que en materia de terminación o recisión de las relaciones de trabajo se presenten;
+
 II. Celebrar convenios, cuando así fuese necesario, con las autoridades estatales competentes; en relación con la prestación de los servicios públicos a que se refiere el artículo 115, fracción III de la Constitución General, así como en lo referente a la administración de contribuciones fiscales;
 
 > <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2010)</small>
@@ -1115,7 +1123,19 @@ III. Promulgar y publicar el Bando Municipal en la Gaceta Municipal y en los est
 
 IV. Asumir la representación jurídica del Municipio y del ayuntamiento, así como de las dependencias de la Administración Pública Municipal, en los litigios en que este sea parte.
 
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+IV Bis. Vigilar y ejecutar los programas y acciones para la prevención, atención y en su caso, el pago de las responsabilidades económicas de los Ayuntamientos de los conflictos laborales;
+
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+IV Ter. Entregar al cabildo de forma mensual, la relación detallada del contingente económico de litigios laborales en contra del Ayuntamiento para la implementación de los programas y acciones para la prevención, atención y en su caso, el pago de las responsabilidades económicas de los Ayuntamientos de los conflictos laborales, en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y la Ley de Protección de Datos Personales en posesión de sujetos obligados del Estado de México y Municipios;
+
 V. Convocar a sesiones ordinarias y extraordinarias a los integrantes del ayuntamiento;
+
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+V Bis. Elaborar, con la aprobación del cabildo, el presupuesto correspondiente al pago de las responsabilidades económicas derivadas de los conflictos laborales;
 
 > <small>(REFORMADA, G.G. 22 DE OCTUBRE DE 2014)</small>
 
@@ -1124,6 +1144,10 @@ VI. Proponer al ayuntamiento los nombramientos de secretario, tesorero y titular
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 VI. Bis. Expedir, previo acuerdo del Ayuntamiento, la licencia del establecimiento mercantil que autorice o permita la venta de bebidas alcohólicas, en un plazo no mayor a tres días hábiles, contados a partir de que sea emitida la autorización del Ayuntamiento;
+
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+VI Ter. Informar al cabildo de los casos de terminación y recisión de las relaciones laborales que se presenten independientemente de su causa, así como de las acciones que al respecto se deban tener para evitar los conflictos laborales, en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y la Ley de Protección de Datos Personales en posesión de sujetos obligados del Estado de México y Municipios;
 
 VII. Presidir las comisiones que le asigne la ley o el ayuntamiento;
 
@@ -1223,6 +1247,14 @@ Para el cumplimiento de sus funciones, el presidente municipal se auxiliará de 
 
 El presidente asumirá la representación jurídica del ayuntamiento y de las dependencias de la Administración Pública Municipal, en los litigios en que sean parte, así como la gestión de los negocios de la hacienda municipal; facultándolo para otorgar y revocar poderes generales y especiales a terceros o mediante oficio para la debida representación jurídica correspondiente pudiendo convenir en los mismos.
 
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+El presidente y los representantes legales asignados, serán responsables conforme a la Ley de Responsabilidades Administrativas del Estado de México y Municipios y las leyes aplicables, por la falta de seguimiento y atención de los litigios laborales instaurados en contra del Ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de incumplimiento de las fracciones IV Bis, IV Ter, V Bis y VI Ter del artículo 48 de todo o parte el Presidente será responsable del pago de los créditos laborales laudados en contra del ayuntamiento durante su gestión y en caso de incumplimiento será responsable con ayuntamientos posteriores.
+
 ###### Artículo 51.
 
 No pueden los presidentes municipales:
@@ -1272,6 +1304,16 @@ I. Procurar, defender y promover los derechos e intereses municipales; represent
 > <small>(REFORMADO, G.G. 22 DE NOVIEMBRE DE 2011)</small>
 
 La representación legal de los miembros de los ayuntamientos, sólo se dará en asuntos oficiales;
+
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+I Bis. Supervisar a los representantes legales asignados por el Ayuntamiento, en la correcta atención y defensa de los litigios laborales;
+
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+I Ter. Informar al presidente, en caso de cualquier irregularidad en la atención y/o defensa de los litigios laborales seguidos ante las autoridades laborales competentes.
+
+En caso de incumplimiento a las responsabilidades establecidas en las fracciones I Bis y I Ter, de este artículo, será responsable el Síndico con el Presidente y el Tesorero del pago y de los conflictos laborales que se registren bajo su gestión;
 
 II. Revisar y firmar los cortes de caja de la tesorería municipal;
 
@@ -1479,11 +1521,13 @@ Las comisiones se conformarán de forma plural y proporcional, teniendo en cuent
 
 Una vez nombrados los integrantes de las comisiones, los presidentes de cada una tendrán treinta días para convocar a sesión a efecto de llevar a cabo su instalación e inicio de los trabajos.
 
-> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 66.
 
-Las comisiones del ayuntamiento serán responsables de estudiar, examinar y proponer a éste los acuerdos, acciones o normas tendientes a mejorar la administración pública municipal, así como de vigilar e informar sobre los asuntos a su cargo y sobre el cumplimiento de las disposiciones y acuerdos que dicte el cabildo.
+Las comisiones del ayuntamiento serán responsables de estudiar, examinar y proponer a éste los acuerdos, acciones o normas tendientes a mejorar la administración pública municipal, la solución de los litigios laborales en su contra, así como de vigilar e informar sobre los asuntos a su cargo y sobre el cumplimiento de las disposiciones y acuerdos que dicte el cabildo.
+
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2012)</small>
 
 Las comisiones, deberán entregar al ayuntamiento, en sesión ordinaria, un informe trimestral que permita conocer y transparentar el desarrollo de sus actividades, trabajo y gestiones realizadas.
 
@@ -1559,15 +1603,15 @@ s). De Asuntos Internacionales y Apoyo al Migrante, en aquellos municipios que s
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2013)</small>
 
-t) De asuntos metropolitanos, en aquellos municipios que formen parte de alguna zona metropolitana;
+t). De asuntos metropolitanos, en aquellos municipios que formen parte de alguna zona metropolitana;
 
 > <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
 
-u) De Protección e Inclusión a Personas con Discapacidad;
+u). De Protección e Inclusión a Personas con Discapacidad;
 
 > <small>(ADICIONADO, G.G. 18 DE JULIO DE 2014)</small>
 
-v) De prevención social de la violencia y la delincuencia;
+v). De prevención social de la violencia y la delincuencia;
 
 > <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
@@ -1581,9 +1625,13 @@ x). Atención a la violencia en contra de las mujeres.
 
 y). De Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
 
-> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-z). Las demás que determine el Ayuntamiento, de acuerdo con las necesidades del municipio.
+z). De prevención y atención de conflictos laborales; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+z.1). Las demás que determine el Ayuntamiento, de acuerdo con las necesidades del Municipio.
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -1943,6 +1991,10 @@ V. Proporcionar oportunamente al ayuntamiento todos los datos o informes que sea
 
 VI. Presentar anualmente al ayuntamiento un informe de la situación contable financiera de la Tesorería Municipal;
 
+> <small>(ADICIONADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+VI Bis. Proporcionar para la formulación del proyecto de Presupuesto de Egresos Municipales la información financiera relativa a la solución o en su caso, el pago de los litigios laborales;
+
 VII. Diseñar y aprobar las formas oficiales de manifestaciones, avisos y declaraciones y demás documentos requeridos;
 
 VIII. Participar en la formulación de Convenios Fiscales y ejercer las atribuciones que le correspondan en el ámbito de su competencia;
@@ -2237,7 +2289,9 @@ I. Los programas en que se señalen objetivos, metas y unidades responsables par
 
 II. Estimación de los ingresos y gastos del ejercicio fiscal calendarizados;
 
-III. Situación de la deuda pública.
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+III. Situación de la deuda pública, incluyendo el contingente económico de los litigios laborales en los que el ayuntamiento forme parte.
 
 > <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
@@ -2301,9 +2355,11 @@ Las funciones de contraloría interna estarán a cargo del órgano que establezc
 
 La contraloría municipal tendrá un titular denominado Contralor, quien será designado por el ayuntamiento a propuesta del presidente municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 112.
 
-El órgano de contraloría interna municipal, tendrá a su cargo las siguientes funciones:
+El órgano interno de control municipal, tendrá a su cargo las funciones siguientes:
 
 I. Planear, programar, organizar y coordinar el sistema de control y evaluación municipal;
 
@@ -2349,9 +2405,13 @@ XVII. Hacer del conocimiento del Órgano Superior de Fiscalización del Estado d
 
 XVIII. Supervisar el cumplimiento de los acuerdos tomados por el Consejo Municipal de Seguridad Pública;
 
-> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-XIX. Las demás que le señalen las disposiciones relativas.
+XIX. Vigilar el cumplimiento de los programas y acciones para la prevención, atención y en su caso, el pago de las responsabilidades económicas de los Ayuntamientos por los conflictos laborales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Las demás que le señalen las disposiciones relativas.
 
 ###### Artículo 113.
 
@@ -4800,3 +4860,13 @@ DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio
 VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
 
 VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
+
+G.G. 19 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 325.- POR EL QUE SE REFORMA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY ÓRGANICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los procedimientos laborales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
