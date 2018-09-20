@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2018-09-17"
+last_updated: "2018-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4637,7 +4637,7 @@ V. Las demás que ordenen los otros ordenamientos.
 
 ### CAPITULO SEGUNDO. De las autoridades
 
-> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -4891,6 +4891,10 @@ XXXVIII. Predio: A la superficie de terreno no lotificada que constituye una uni
 
 XXXIX. Polígono de Redensificación Urbana: Es una superficie de uso urbano subutilizada o deteriorada, que es seleccionada para un mejor aprovechamiento del suelo, permitiendo el desarrollo vertical de inmuebles, con usos mixtos.
 
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIX Bis. Rehabilitación: A la transformación de espacios públicos urbanos, caracterizados por ser lugares inseguros, focos de contaminación, basureros, centros de comercio informal, en espacios públicos de convivencia social;
+
 XL. Relotificación: Al acto por el cual a dos o más lotes o áreas privativas, según corresponda, se le modifican las dimensiones o las ubicaciones originalmente establecidas en la autorización del conjunto urbano, subdivisión o condominio, sin que se incremente el área vendible ni el número de viviendas o lotes.
 
 XLI. Reservas: A las áreas urbanizables previstas en los planes de desarrollo urbano para el crecimiento de un centro de población.
@@ -4961,9 +4965,13 @@ XII. La preservación y restauración del equilibrio ecológico y la protección
 
 XIII. La delimitación de zonas de riesgo y el establecimiento de polígonos de protección, amortiguamiento y salvaguarda para garantizar la seguridad de las personas y de las instalaciones estratégicas.
 
-> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-XIV. Aquellas otras que así reconociera la legislación estatal o federal aplicable a la materia.
+XIV. La rehabilitación de espacios públicos en desuso, a fin de transformarlos en áreas que generen un beneficio social;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Aquellas otras que así reconociera la legislación estatal o federal aplicable a la materia.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
@@ -5001,11 +5009,27 @@ Los registradores de la propiedad sólo inscribirán dichas escrituras públicas
 
 No surtirán efectos los permisos, licencias o autorizaciones que contravengan lo establecido en este Libro, su Reglamento y los planes de desarrollo urbano.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
-7.- Son autoridades para la aplicación de este Libro el Gobernador del Estado, la Secretaría de Desarrollo Urbano y Metropolitano y los municipios.
+6. Bis.- El uso, aprovechamiento y rehabilitación de espacios públicos en desuso y de bajo puentes, se sujetarán a lo dispuesto en el presente Código, en la Ley Orgánica de la Administración Pública del Estado de México, en la Ley de Bienes del Estado de México y de sus Municipios, en los Reglamentos respectivos, reglas de carácter general y en los lineamientos que para tal efecto emita la Secretaría de Comunicaciones.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 5.
+
+6. Ter.- Le corresponde a la Secretaría de Comunicaciones otorgar a particulares, el uso, aprovechamiento y rehabilitación de espacios públicos que se encuentren en desuso, ubicados en la infraestructura vial primaria, que podrá incluir la colocación de publicidad exterior, en el bajo puente.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO TERCERO. Del Consejo Consultivo Estatal de Ordenamiento Territorial y Desarrollo Urbano y Metropolitano
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+###### Artículo 5.
+
+7.- Son autoridades para la aplicación de este Libro el Gobernador del Estado, la Secretaría de Desarrollo Urbano y Metropolitano, la Secretaría de Comunicaciones y los municipios.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5028,10 +5052,6 @@ IV. Crear órganos técnicos de consulta, de coordinación interinstitucional, e
 V. Las demás que le confieran las disposiciones legales.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPÍTULO TERCERO. Del Consejo Consultivo Estatal de Ordenamiento Territorial y Desarrollo Urbano y Metropolitano
-
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5247,6 +5267,10 @@ XXVI. Las demás que le confieran este Libro, y otras disposiciones jurídicas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE ENERO DE 2018)</small>
 
+### CAPÍTULO CUARTO. De la Comisión Estatal de Desarrollo Urbano y Metropolitano
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
 ###### Artículo 5.
 
 11.- El Consejo Consultivo Estatal de Ordenamiento Territorial y Desarrollo Urbano y Metropolitano, es un órgano de asesoría, consulta, seguimiento, opinión, evaluación y participación social, para la deliberación de las políticas de ordenamiento territorial y planeación del desarrollo urbano y metropolitano, que estará presidido por el Gobernador del Estado. Su integración se definirá en el Reglamento de este Libro.
@@ -5319,7 +5343,7 @@ XV. Las demás que sean necesarias para el cumplimiento de su objeto y funciones
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE ENERO DE 2018)</small>
 
-### CAPÍTULO CUARTO. De la Comisión Estatal de Desarrollo Urbano y Metropolitano
+### CAPÍTULO PRIMERO. Del Sistema Estatal de Planes de Desarrollo Urbano
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -5350,10 +5374,6 @@ Participarán como invitados en las sesiones de la Comisión, previa convocatori
 La Comisión regulará su organización y funcionamiento conforme al reglamento interno que expida.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPÍTULO PRIMERO. Del Sistema Estatal de Planes de Desarrollo Urbano
-
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5423,6 +5443,14 @@ n) Otras acciones que se establezcan o declaren por las autoridades competentes.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
+## TÍTULO SEGUNDO. De la Planeación Urbana
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. Del Ordenamiento Territorial de los Asentamientos Humanos
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 5.
 
 16.- La planeación y regulación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, tiene por objeto lograr una distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio estatal, así como mejorar la calidad de vida de sus habitantes, el desarrollo integral de sus comunidades, competitividad de los centros de población y la adaptación al cambio climático.
@@ -5460,14 +5488,6 @@ a) El Plan Estatal de Desarrollo Urbano o de los planes regionales, en cuyo caso
 b) De los planes municipales, en cuyo caso tendrán por objeto especificar en una zona determinada del municipio o centro de población, los aspectos a que se refiere la fracción III de este artículo. Los planes tendrán la estructura, contenido específico, terminología y demás elementos técnicos que establezca la reglamentación de este Libro.
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
-
-## TÍTULO SEGUNDO. De la Planeación Urbana
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPÍTULO SEGUNDO. Del Ordenamiento Territorial de los Asentamientos Humanos
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -5567,6 +5587,10 @@ III. Solamente podrán modificarse, en relación a la estructura urbana prevista
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPÍTULO TERCERO. De los Planes Municipales de Desarrollo Urbano
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 5.
 
 22.- La planeación y regulación del ordenamiento territorial de los asentamientos humanos se sustentará en las políticas siguientes:
@@ -5587,9 +5611,13 @@ Para ordenar y regular los asentamientos humanos en el territorio estatal, el su
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO TERCERO. De los Planes Municipales de Desarrollo Urbano
+### CAPÍTULO CUARTO. De las Conurbaciones y Zonas Metropolitanas
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+#### SECCIÓN PRIMERA. Del Dictamen de Congruencia
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -5625,6 +5653,8 @@ c) Las condiciones climatológicas, hidrológicas, geológicas, ambientales o de
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
+#### SECCIÓN SEGUNDA. De la Constancia de Viabilidad
+
 ###### Artículo 5.
 
 25.- Las normas para el uso y aprovechamiento del suelo considerarán:
@@ -5649,13 +5679,9 @@ IX. (DEROGADA, G.G. 10 DE ENERO DE 2018)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO CUARTO. De las Conurbaciones y Zonas Metropolitanas
+#### SECCIÓN TERCERA. De la Evaluación Técnica de Factibilidad de Impacto Urbano
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-#### SECCIÓN PRIMERA. Del Dictamen de Congruencia
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5763,7 +5789,9 @@ XI. Los Municipios informarán a la autoridad federal competente sobre las autor
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN SEGUNDA. De la Constancia de Viabilidad
+### CAPÍTULO PRIMERO. De los Instrumentos Estatales de Control del Desarrollo Urbano
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -5784,10 +5812,6 @@ III. Los Consejos Municipales de Desarrollo Urbano, que serán instancias perman
 La organización y funcionamiento de estas instancias, se contendrá como corresponda en la reglamentación y convenios respectivos.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
-
-#### SECCIÓN TERCERA. De la Evaluación Técnica de Factibilidad de Impacto Urbano
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5821,10 +5845,6 @@ Dicho convenio se publicará en el Periódico Oficial "Gaceta del Gobierno" y en
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-### CAPÍTULO PRIMERO. De los Instrumentos Estatales de Control del Desarrollo Urbano
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 5.
 
 29.- Aprobado el plan regional de la conurbación o zona metropolitana, los municipios respectivos en el ámbito de sus jurisdicciones, determinarán en los planes Municipales de desarrollo urbano correspondientes, en el plazo de un año, las reservas, usos, destinos y normas de aprovechamiento de áreas y predios involucrados, siempre que no conlleven a la renuncia o alteración de las atribuciones constitucionales del Estado y de los municipios sobre su territorio.
@@ -5845,20 +5865,6 @@ Las disposiciones de este capítulo serán aplicables en lo conducente a los pro
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-###### Artículo 5.
-
-31.- Previamente a la aprobación de los planes municipales de desarrollo urbano, los municipios deberán obtener de la Secretaría el dictamen de congruencia, mismo que se emitirá considerando los principios aplicables establecidos en este Libro, así como las políticas y estrategias del Plan Estatal de Desarrollo Urbano y en su caso, las del plan regional o parcial de desarrollo urbano aplicable.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 10 DE ENERO DE 2018)</small>
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### Artículo 5.
-
-32.- Los planes municipales de desarrollo urbano o los parciales que deriven de éstos que carezcan del dictamen de congruencia, serán nulos y no surtirán efecto legal alguno.
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
-
 ## TÍTULO TERCERO. De la Administración del Desarrollo Urbano
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
@@ -5873,6 +5879,24 @@ Las disposiciones de este capítulo serán aplicables en lo conducente a los pro
 
 ###### Artículo 5.
 
+31.- Previamente a la aprobación de los planes municipales de desarrollo urbano, los municipios deberán obtener de la Secretaría el dictamen de congruencia, mismo que se emitirá considerando los principios aplicables establecidos en este Libro, así como las políticas y estrategias del Plan Estatal de Desarrollo Urbano y en su caso, las del plan regional o parcial de desarrollo urbano aplicable.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 10 DE ENERO DE 2018)</small>
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 5.
+
+32.- Los planes municipales de desarrollo urbano o los parciales que deriven de éstos que carezcan del dictamen de congruencia, serán nulos y no surtirán efecto legal alguno.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+#### SECCIÓN QUINTA. De la Subdivisión y Fusión
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+###### Artículo 5.
+
 33.- (DEROGADO, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 5.
@@ -5881,9 +5905,9 @@ Las disposiciones de este capítulo serán aplicables en lo conducente a los pro
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-#### SECCIÓN QUINTA. De la Subdivisión y Fusión
+#### SECCIÓN SEXTA. De la Relotificación
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -5947,9 +5971,9 @@ Los requisitos específicos para el análisis y en su caso, la emisión de las e
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN SEXTA. De la Relotificación
+#### SECCIÓN SÉPTIMA. De los Condominios
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -6143,10 +6167,6 @@ XVI. No se emitirán nuevas autorizaciones a los solicitantes o sus socios, en c
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN SÉPTIMA. De los Condominios
-
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
 ###### Artículo 5.
 
 39.- Los recursos económicos que se obtengan con motivo de la ejecución de las garantías que aseguran la construcción y los defectos o vicios ocultos de las obras de infraestructura, urbanización y equipamiento urbano, serán destinados por la Secretaría o el Ayuntamiento correspondiente, a la ejecución de las obras que hayan quedado pendientes de ejecutar por parte del titular de la autorización respectiva o a la reparación de las mismas.
@@ -6154,6 +6174,10 @@ XVI. No se emitirán nuevas autorizaciones a los solicitantes o sus socios, en c
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 10 DE ENERO DE 2018)</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+#### SECCIÓN OCTAVA. Del Desarrollo Urbano en Ejidos y Comunidades
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -6166,10 +6190,6 @@ XVI. No se emitirán nuevas autorizaciones a los solicitantes o sus socios, en c
 41.- Las subdivisiones que impliquen la autorización de treinta o más viviendas, o en usos diferentes al habitacional, un coeficiente de utilización de tres mil o más metros cuadrados de construcción, quedarán sujetas a los lineamientos que para los conjuntos urbanos establece el artículo 5.38 del presente Código, con excepción de la obligación de ceder superficies de terreno para vías públicas.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
-
-#### SECCIÓN OCTAVA. Del Desarrollo Urbano en Ejidos y Comunidades
-
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -6253,6 +6273,10 @@ IV. Las que soliciten las autoridades federales, estatales y municipales respect
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
+#### SECCIÓN PRIMERA. De la Cédula Informativa de Zonificación
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
+
 ###### Artículo 5.
 
 46.- La relotificación de conjuntos urbanos, subdivisiones y lotificaciones para condominios, requerirán autorización de la Secretaría e inscripción de los acuerdos respectivos en el Instituto de la Función Registral, de conformidad con lo que establezcan el presente Libro y sus disposiciones reglamentarias.
@@ -6265,15 +6289,15 @@ IV. Las que soliciten las autoridades federales, estatales y municipales respect
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN PRIMERA. De la Cédula Informativa de Zonificación
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
-
 ###### Artículo 5.
 
 48.- En las autorizaciones de relotificaciones, se dejará constancia del uso del suelo de los lotes y áreas privativas resultantes, del coeficiente de ocupación del suelo y coeficiente de utilización del suelo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+#### SECCIÓN SEGUNDA. De la Licencia de Uso del Suelo
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -6291,10 +6315,6 @@ Los titulares de los condominios que se proyecte realizar en lotes provenientes 
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-#### SECCIÓN SEGUNDA. De la Licencia de Uso del Suelo
-
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
-
 ###### Artículo 5.
 
 51.- En condominios horizontales y verticales habitacionales y mixtos, el número máximo de viviendas deberá ser concordante con la densidad y normatividad establecidas en los planes municipales de desarrollo urbano.
@@ -6308,6 +6328,10 @@ Tratándose de condominios horizontales, se deberá contar con una administraci�
 52.- El trámite y emisión del Dictamen Único de Factibilidad para condominios se sujetará a lo dispuesto en los ordenamientos legales aplicables.
 
 > <small>(REFORMADO SU DENOMINACIÓN, G.G. 10 DE ENERO DE 2018)</small>
+
+#### SECCIÓN TERCERA. De los Cambios de Uso y Aprovechamiento del Suelo
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -6323,6 +6347,10 @@ Tratándose de la constitución, ampliación y delimitación de la zona de urban
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
+#### SECCION PRIMERA. Del otorgamiento de las concesiones y permisos
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 5.
 
 54.- Los interesados en conocer los usos del suelo, la densidad de vivienda, el coeficiente de ocupación del suelo, el coeficiente de utilización del suelo y la altura de edificaciones y las restricciones de índole federal, estatal y municipal, que para un predio o inmueble determinado establezca el plan municipal de desarrollo urbano correspondiente, podrán solicitar a la autoridad competente la expedición de una cédula informativa de zonificación, la cual no constituirá autorización alguna y tendrá únicamente carácter informativo y estará vigente en tanto no se modifique el plan del que deriva.
@@ -6333,19 +6361,19 @@ Para su obtención, los interesados deberán incluir en la solicitud respectiva,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN TERCERA. De los Cambios de Uso y Aprovechamiento del Suelo
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 5.
 
 55.- El uso y aprovechamiento con fines urbanos o la edificación en cualquier predio ubicado en la entidad, requerirá licencia de uso del suelo de conformidad con lo dispuesto en este Libro y su Reglamento.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION PRIMERA. Del otorgamiento de las concesiones y permisos
+### CAPÍTULO TERCERO. De la Resiliencia Urbana
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+#### SECCION SEGUNDA. De las obligaciones de los concesionarios y permisionarios
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -6368,6 +6396,10 @@ V. No constituirá autorización para construcción de obras o realización de a
 No se requerirá de licencia de uso del suelo para lotes resultantes de conjuntos urbanos, subdivisiones o condominios autorizados, siempre y cuando el uso y aprovechamiento de los mismos haya quedado comprendido en la autorización respectiva.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+#### SECCION TERCERA. De los derechos de los concesionarios y permisionarios
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -6393,14 +6425,6 @@ Cuando se trate de cambios a usos de suelo de impacto urbano, los municipios deb
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 10 DE ENERO DE 2018)</small>
 
-### CAPÍTULO TERCERO. De la Resiliencia Urbana
-
-> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
-
-#### SECCION SEGUNDA. De las obligaciones de los concesionarios y permisionarios
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
-
 ###### Artículo 5.
 
 57 Bis.- En materia de resiliencia urbana, se observará lo siguiente:
@@ -6419,9 +6443,9 @@ VI. Las autoridades estatales y municipales, en el ámbito de sus respectivas at
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 10 DE ENERO DE 2018)</small>
 
-#### SECCION TERCERA. De los derechos de los concesionarios y permisionarios
+#### SECCIÓN CUARTA. De los prestadores de servicios electrónicos y proveedores privados de transporte
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 5.
 
@@ -6441,15 +6465,19 @@ VI. Las demás acciones en la materia, que resulten acordes a las característic
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
+#### SECCION PRIMERA. De los equipos de salvamento y arrastre
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 5.
 
 58.- La Secretaría establecerá y mantendrá actualizado el Sistema Estatal, el cual tendrá por objeto recabar, organizar, generar y aplicar en los procesos de planeación, regulación, control y evaluación del desarrollo urbano, la información relativa a los asentamientos humanos y el desarrollo urbano de los centros de población en el territorio estatal.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN CUARTA. De los prestadores de servicios electrónicos y proveedores privados de transporte
+### CAPÍTULO CUARTO. De la Movilidad Urbana
 
-> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -6479,9 +6507,9 @@ La organización, funcionamiento y consulta del Sistema Estatal se determinará 
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION PRIMERA. De los equipos de salvamento y arrastre
+### CAPÍTULO ÚNICO. Del Sistema Estatal
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -6489,19 +6517,19 @@ La organización, funcionamiento y consulta del Sistema Estatal se determinará 
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO CUARTO. De la Movilidad Urbana
+## TÍTULO CUARTO. Del Sistema Estatal de Información del Desarrollo Urbano
 
-> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO PRIMERO. De las Medidas de Seguridad
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
 61.- Las medidas de seguridad son determinaciones preventivas ordenadas por las autoridades de desarrollo urbano, que serán de ejecución inmediata y durarán todo el tiempo en que persistan las causas que las motivaron.
 
 Las medidas de seguridad tendrán por objeto evitar la consolidación de acciones o hechos contrarios a las disposiciones contenidas en este Libro, su reglamentación, los planes de desarrollo urbano y las autorizaciones emitidas por las autoridades de desarrollo urbano y procederá su adopción cuando se afecte el interés social.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPÍTULO ÚNICO. Del Sistema Estatal
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -6520,14 +6548,6 @@ IV. Cualquiera otra acción o medida que tienda a garantizar el orden legal y el
 Las autoridades de desarrollo urbano para hacer cumplir las medidas de seguridad que determinen, podrán requerir la intervención de la fuerza pública y la participación de las autoridades administrativas que sean necesarias.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-## TÍTULO CUARTO. Del Sistema Estatal de Información del Desarrollo Urbano
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPÍTULO PRIMERO. De las Medidas de Seguridad
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -6557,18 +6577,6 @@ Las autoridades estatales y municipales en materia de desarrollo urbano podrán 
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-###### Artículo 5.
-
-64.- Las sanciones se impondrán sin perjuicio de la responsabilidad civil o penal que pudieran resultar por los hechos o actos constitutivos de la infracción.
-
-La demolición parcial o total que ordene la autoridad competente será ejecutada por el afectado o infractor a su costa y dentro del plazo que fije la resolución respectiva. En caso contrario, la autoridad la mandará ejecutar por cuenta y cargo del afectado o infractor y su monto constituirá un crédito fiscal.
-
-> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-###### Artículo 5.
-
-67.- Tratándose de construcciones mayores de sesenta metros cuadrados o con claros mayores de cuatro metros, la solicitud de la licencia de construcción y sus planos respectivos llevarán la firma del perito responsable de la obra, acompañándose asimismo la constancia de su inscripción en el Registro Estatal de Desarrollo Urbano.
-
 ## TÍTULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
@@ -6579,7 +6587,11 @@ La demolición parcial o total que ordene la autoridad competente será ejecutad
 
 ###### Artículo 5.
 
-68.- Una vez concluida parcial o totalmente la obra o demolición, o en los casos de suspensión voluntaria a petición del interesado, se deberá recabar la respectiva constancia de terminación o suspensión expedida por la autoridad municipal correspondiente, para lo cual proporcionará la licencia de construcción vigente o su prórroga.
+64.- Las sanciones se impondrán sin perjuicio de la responsabilidad civil o penal que pudieran resultar por los hechos o actos constitutivos de la infracción.
+
+La demolición parcial o total que ordene la autoridad competente será ejecutada por el afectado o infractor a su costa y dentro del plazo que fije la resolución respectiva. En caso contrario, la autoridad la mandará ejecutar por cuenta y cargo del afectado o infractor y su monto constituirá un crédito fiscal.
+
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -13075,7 +13087,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 ### CAPITULO SEGUNDO. Del derecho de vía
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
@@ -13127,15 +13139,23 @@ I. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en 
 
 II. Carril Confinado.- Es el carril en la infraestructura vial destinado para uso exclusivo de los vehículos que operan en los sistemas de transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 III. Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial. A la resolución técnica de la Secretaría de Comunicaciones, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto urbano, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
 
 IV. Estación de Transferencia Modal.- Instalaciones con equipo tecnológico donde converge el transporte de alta capacidad con otro u otros medios de transporte;
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-IV Bis. Propuesta no Solicitada. A la propuesta, presentada por una sociedad mercantil constituida conforme a las leyes mexicanas, para el desarrollo de un proyecto sobre las comunicaciones de jurisdicción local que incluya el proyecto ejecutivo respectivo.
+IV. Bis. Espacio público en desuso. Parte de un bien inmueble público que no está siendo aprovechado;
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Ter. Bajo puente. Espacio público en desuso, ubicado en la parte inferior de los puentes vehiculares;
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Quáter. Propuesta no Solicitada. A la propuesta, presentada por una sociedad mercantil constituida conforme a las leyes mexicanas, para el desarrollo de un proyecto sobre las comunicaciones de jurisdicción local que incluya el proyecto ejecutivo respectivo;
 
 V. Infraestructura de Jurisdicción Local.- Conjunto de vías jerarquizadas que facilitan la comunicación entre las diferentes áreas de la actividad económica y se clasifican en:
 
@@ -13289,9 +13309,11 @@ IV. Cubrir los daños que ocasionen a la infraestructura vial y su derecho de v�
 
 ###### Artículo 17.
 
-13.- La Secretaría es la autoridad competente para el otorgamiento de permisos para el uso, ocupación y/o aprovechamiento del derecho de vía y su zona de seguridad y fijará las normas técnicas que deberán observarse para dichos fines.
+13.- La Secretaría es la autoridad competente para el otorgamiento de permisos para el uso, ocupación y/o aprovechamiento del derecho de vía y su zona de seguridad, espacios públicos en desuso y bajo puentes, y fijará las normas técnicas que deberán observarse para dichos fines. El titular de un permiso otorgado en materia de derecho de vía, espacios públicos en desuso y bajo puentes, en ningún caso podrá ceder los derechos y obligaciones del mismo.
 
-El titular de un permiso otorgado en materia de derecho de vía en ningún caso podrá ceder los derechos y obligaciones del mismo.
+Los derechos derivados del permiso solo podrán cederse, en su caso, para el cumplimiento de obligaciones financieras, derivadas de la estructuración de las inversiones a efectuar, previa autorización de la Secretaría.
+
+Las personas físicas y las jurídicas colectivas que usen y/o aprovechen temporalmente espacios públicos del Estado en desuso y/o bajo puentes, a través de permisos o autorizaciones pagarán mensualmente los aprovechamientos que la Secretaría de Finanzas determine mediante los procedimientos contenidos en reglas de carácter general.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13393,11 +13415,13 @@ VII. Formular y divulgar el Programa Estatal de Publicidad Exterior;
 
 VIII. Las demás que les atribuyan otras disposiciones del Código Administrativo del Estado de México, Leyes, reglamentos y demás disposiciones administrativas aplicables.
 
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
-24.- Se requiere permiso para la colocación de Publicidad Exterior que se instale por un periodo mayor a noventa días. El permiso se otorgará siempre y cuando se cumplan todos y cada uno de los requisitos previstos en el presente capítulo y demás disposiciones aplicables a la materia y tendrá vigencia hasta por un año. Será obligación del particular preservar las condiciones que en su momento permitieron la expedición del permiso. Podrá ser renovable por una sola ocasión por el mismo plazo por el que fue otorgado de acuerdo a lo dispuesto por el penúltimo párrafo del artículo 17.29 de este Código, siempre que se esté al corriente en el cumplimiento de las obligaciones a cargo del titular.
+24.- Se requiere permiso para la colocación de Publicidad Exterior que se instale por un periodo mayor a noventa días. El permiso se otorgará siempre y cuando se cumplan todos y cada uno de los requisitos previstos en el presente capítulo y demás disposiciones aplicables a la materia y tendrá vigencia hasta por un año. Lo anterior sin perjuicio de lo establecido en los artículos 5.6 de este Código y 26 Bis y 26 Ter de la Ley de Bienes del Estado de México y de sus municipios. Será obligación del particular preservar las condiciones que en su momento permitieron la expedición del permiso. Podrá ser renovable por una sola ocasión por el mismo plazo por el que fue otorgado de acuerdo a lo dispuesto por el penúltimo párrafo del artículo 17.29 de este Código, siempre que se esté al corriente en el cumplimiento de las obligaciones a cargo del titular.
+
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
 Los permisos que correspondan a la publicidad exterior que se pretenda instalar en la infraestructura vial primaria, serán expedidos por las autoridades contempladas en las fracciones de la I a la V del artículo 17.5 del presente Código, en el ámbito de sus atribuciones, las que correspondan a la infraestructura vial local, serán emitidas por los municipios.
 
@@ -13428,6 +13452,10 @@ Los Municipios ordenarán los trabajos de retiro de tales instalaciones publicit
 ###### Artículo 17.
 
 27.- Los permisos y autorizaciones no podrán ser objeto de cesión por ninguna vía.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+Sin perjuicio de lo anterior, los permisionarios podrán, por autorización expresa de la Secretaría de Comunicaciones, ceder de manera parcial el derecho de uso al que tengan derecho, en favor de terceros, siempre y cuando se garantice el cumplimiento de los términos del permiso y las disposiciones aplicables por parte del concesionario.
 
 > <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -13501,7 +13529,9 @@ Cualquier incumplimiento a las obligaciones previstas en el presente artículo q
 
 34.- El Programa Estatal de Publicidad Exterior establecerá como mínimo lo siguiente:
 
-I. Los tramos de vialidades, carreteras, autopistas, pasos vehiculares, avenidas, calzadas que componen la Infraestructura Vial Primaria donde se podrá autorizar la instalación de Publicidad Exterior;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+I. Los tramos de vialidades, carreteras, autopistas, puentes vehiculares, bajo puentes, pasos vehiculares, avenidas, calzadas que componen la Infraestructura Vial Primaria donde se podrá autorizar la instalación de Publicidad Exterior;
 
 II. El establecimiento de corredores de publicidad exterior en ciertas zonas de la Infraestructura Vial Primaria;
 
@@ -13525,13 +13555,17 @@ IX. Precisión de los casos en que por razones de interés general se deba proce
 
 35.- Sin menoscabo de lo que se disponga en el Programa Estatal de Publicidad Exterior, en todo caso está prohibida la instalación de cualquier publicidad exterior provisional o permanente en:
 
-I. Puentes vehiculares, pasos a desnivel, muros de contención y taludes;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+I. Muros de contención y taludes, salvo los supuestos previstos en los lineamientos generales a los que hace alusión el artículo 5.6 Bis del presente Código;
 
 II. Monumentos arqueológicos, artísticos e históricos;
 
 III. La vía pública, parques, plazas y jardines públicos;
 
-IV. Cerros, rocas, árboles, lomas, laderas, bosques o puentes, así como en áreas colindantes con ríos, presas, lagos, canales y zonas federales;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Cerros, rocas, árboles, lomas, laderas, bosques, así como en áreas colindantes con ríos, presas, lagos, canales y zonas federales;
 
 V. Zonas declaradas como áreas naturales protegidas, de valor ambiental, o como suelo de conservación;
 
@@ -14027,7 +14061,7 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 ###### Artículo 17.
 
-60.- (DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
+60.- (DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018) (REPUBLICADO, G.G. 20 DE SEPTIEMBRE DE 2018)
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14047,7 +14081,7 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 63.- Los Organismos Auxiliares sectorizados conforme a su competencia emitirán los siguientes dictámenes:
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018) (REPUBLICADA, G.G. 20 DE SEPTIEMBRE DE 2018)
 
 I. La evaluación técnica de factibilidad de incorporación e impacto vial establecido en el artículo 17.59;
 
@@ -18681,9 +18715,9 @@ CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan 
 
 G.G. 15 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DERETO NÚMERO 267.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO Y DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 267.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO Y DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2018.
 
@@ -18717,9 +18751,9 @@ SÉPTIMO. Los Municipios para la aplicación de esta Ley, deberán emitir las di
 
 G.G. 17 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO”.]
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -18790,3 +18824,17 @@ DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio
 VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
 
 VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
+
+G.G. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 332.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS Y DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Comunicaciones tendrá un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto para expedir los Lineamientos Generales para la emisión de la Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial, los Lineamientos Generales para el otorgamiento de los permisos para espacios públicos en las vías primarias de comunicación y normas a las que deberá sujetarse la vigilancia, cuidado, administración y aprovechamiento de los bienes del dominio público.
+
+CUARTO. Toda referencia al dictamen de impacto vial o su equivalente en otros ordenamientos de igual o menor jerarquía se entenderá a la Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial.
+
+QUINTO. Para efectos del segundo párrafo del artículo 17.13 del Código Administrativo del Estado de México, la Secretaría de Finanzas publicará las reglas de carácter general en el Periódico Oficial "Gaceta del Gobierno”, dentro de los primeros veinte días hábiles del Ejercicio Fiscal de 2019.
