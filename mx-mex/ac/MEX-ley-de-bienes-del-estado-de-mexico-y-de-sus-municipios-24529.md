@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienes-del-estado-de-mexico-y-de-sus-municipios-24529"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2017-09-11"
+last_updated: "2018-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 11 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Gaceta del Gobierno el 7 de marzo del 2000.
 
@@ -61,9 +61,9 @@ La aplicación de esta ley corresponde:
 
 I. En los poderes Legislativo y Judicial a los órganos que determinen sus respectivas leyes orgánicas y reglamentos;
 
-> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-II. En el Poder Ejecutivo, a las secretarías de: Finanzas, Educación, Desarrollo Urbano y de la Contraloría;
+II. En el Poder Ejecutivo, a las secretarías de: Finanzas, Comunicaciones, Educación, Desarrollo Urbano y Metropolitano y de la Contraloría;
 
 III. En los municipios a los órganos que determine la Ley Orgánica Municipal del Estado de México y sus reglamentos.
 
@@ -129,7 +129,9 @@ VIII. Autorizar el cambio de uso o destino de los bienes de dominio público, as
 
 IX. Adquirir bienes inmuebles o celebrar los actos jurídicos que impliquen la transmisión a título oneroso o gratuito de los bienes del dominio privado, conforme a lo dispuesto por el artículo 61 fracción XXXVI de la Constitución Política del Estado;
 
-X. Otorgar concesiones, autorizaciones, permisos o licencias sobre bienes del dominio público o privado;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+X. Otorgar concesiones, autorizaciones, permisos o licencias sobre bienes del dominio público o privado, con excepción de aquellos previstos en el artículo 9 Bis de esta Ley;
 
 XI. Recuperar administrativamente los bienes del dominio público cuando se haya cambiado el uso o destino al que hubieren sido afectados o se haya sustituido al usuario sin autorización;
 
@@ -189,6 +191,22 @@ II. Ejercer el procedimiento administrativo de ejecución de créditos fiscales 
 
 III. (DEROGADA, G.G. 14 DE MAYO DE 2014)
 
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 9 Bis.
+
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Comunicaciones, el despacho de lo siguiente:
+
+I. Otorgar autorizaciones o permisos para uso, aprovechamiento y rehabilitación de espacios públicos en el derecho de vía de la infraestructura vial primaria;
+
+II. Emitir los lineamientos generales a los que deberá sujetarse el otorgamiento y la operación de los permisos para uso, aprovechamiento y rehabilitación de espacios públicos en el derecho de vía de las vías primarias de comunicación;
+
+III. Dictar las normas a las que deberá sujetarse la vigilancia, cuidado, administración y aprovechamiento de los bienes del dominio público que sean de su competencia;
+
+IV. Expedir las disposiciones administrativas que, en el ámbito de su competencia, sean necesarias para el cumplimiento de esta Ley; y
+
+V. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+
 ###### Artículo 10.
 
 Corresponde al Ejecutivo del Estado por conducto de la Secretaría de la Contraloría y a los ayuntamientos, vigilar, en el ámbito de sus respectivas atribuciones, el cumplimiento de las disposiciones de la presente ley.
@@ -245,7 +263,9 @@ I. Las vías terrestres de comunicación del domino estatal o municipal;
 
 II. Los montes, bosques y aguas que no sean de la federación o de los particulares;
 
-III. Las plazas, calles, avenidas, viaductos, paseos, jardines y parques públicos;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+III. Las plazas, calles, avenidas, viaductos, bajo puentes, paseos, jardines y parques públicos;
 
 IV. Los monumentos históricos de propiedad estatal o municipal;
 
@@ -327,25 +347,163 @@ La infracción a lo dispuesto en este artículo, será sancionado en términos d
 
 No pierden su carácter de bienes de dominio público los que, estando destinados a un servicio público, de hecho o por derecho fueren aprovechados temporalmente, en todo o en parte, en otro objeto que no pueda considerarse como servicio público, hasta en tanto la autoridad competente resuelva lo procedente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 26.
 
-Sólo podrán otorgarse concesiones, autorizaciones, permisos o licencias sobre bienes de dominio público cuando concurran causas de interés público.
+Sólo podrán otorgarse concesiones, autorizaciones, permisos o licencias sobre bienes de dominio público cuando concurran causas de interés público, o en los casos que así lo señale la ley.
 
-Para determinar el plazo por el que se otorguen las concesiones, se tomará en cuenta, entre otros factores, los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-I. El monto de la inversión que haga el concesionario;
+Para determinar el plazo por el que se otorguen las concesiones o permisos en espacios públicos, se tomará en cuenta, entre otros factores, los siguientes:
+
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+I. El monto de la inversión que haga el concesionario o permisionario;
 
 II. El plazo de amortización de la inversión realizada;
 
-III. El beneficio social y económico que se derive del servicio concesionado;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-IV. La necesidad de la actividad o servicio que se preste a través de la concesión;
+III. El beneficio social y económico que se derive del servicio;
 
-V. El cumplimiento de las obligaciones a cargo del concesionario; y
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-VI. La reinversión que se haga para el mejoramiento de las instalaciones y del servicio concesionado.
+IV. La necesidad de la actividad o servicio que se preste a través de la concesión o permiso;
 
-El concesionario tendrá derecho preferente para prorrogar el plazo de la concesión siempre que haya cumplido con las obligaciones contenidas en el título de concesión.
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+V. El cumplimiento de las obligaciones a cargo del concesionario o del permisionario; y
+
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+VI. La reinversión que se haga para el mejoramiento de las instalaciones y del servicio.
+
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+El concesionario o permisionario tendrá derecho preferente para prorrogar el plazo de la concesión o permiso, siempre que haya cumplido con las obligaciones contenidas en el título de concesión o del permiso correspondiente.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 26 Bis.
+
+Permiso de espacios públicos, es el acto administrativo por el cual la administración pública otorga a una persona física o jurídica colectiva el uso y el aprovechamiento de bienes inmuebles, propiedad del Estado de México, considerados de dominio público, incluyendo la colocación de publicidad exterior, en el bajo puente.
+
+Estos permisos podrán ser:
+
+I. A título gratuito, cuando el uso y goce temporal del inmueble permisionado, se otorgue a organismos públicos estatales o municipales; y
+
+II. A título oneroso, cuando se exija el pago por aprovechamiento a cambio del uso y goce del inmueble permisionado, que determine la Secretaría de Finanzas mediante los procedimientos en las reglas de carácter general.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 26 Ter.
+
+Los permisos para uso, aprovechamiento y rehabilitación de espacios públicos, tendrán una vigencia máxima de quince años.
+
+Dichos permisos podrán prorrogarse hasta por un plazo equivalente al señalado originalmente, siempre que:
+
+a) Durante la vigencia del permiso se justifique la viabilidad de realizar inversiones adicionales, y se acredite un mayor beneficio social.
+
+b) Cuando al vencimiento del plazo originalmente otorgado, queden inversiones realizadas y debidamente acreditadas pendientes por recuperar, en cuyo caso se otorgará la prórroga estrictamente necesaria para dichos fines.
+
+c) Se presenten causas que lo justifiquen, no atribuibles a los permisionario (sic).
+
+Para efectos de la prórroga, el permisionario deberá estar en cumplimiento de las condiciones impuestas y solicitarla por escrito a la Secretaría, al menos, 90 días hábiles antes del vencimiento del plazo original.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 26 Quáter.
+
+Los requisitos bajo los cuales se otorgarán los permisos a que se refiere el artículo 26 Bis, son:
+
+I. Solicitud por escrito del interesado;
+
+II. Cuando se trate de personas jurídicas colectivas, se deberá acompañar copia de la escritura constitutiva;
+
+III. Copia de identificación del interesado, en caso de ser persona jurídica colectiva, del representante que cuente con las facultades correspondientes;
+
+IV. Plano de la ubicación del predio y en su caso, delimitación del espacio solicitado, acompañado de medidas, linderos y colindancias;
+
+V. Uso y destino del inmueble solicitado;
+
+VI. Proyecto de las obras a construir;
+
+VII. La aceptación por escrito de pagar los aprovechamientos determinados por la Secretaría de Finanzas;
+
+VIII. No encontrarse en el Registro de Empresas y Personas Físicas objetadas que al efecto lleva la Secretaría de la Contraloría; y
+
+IX. Las demás que establezcan los lineamientos aplicables en la materia, emitidos por la autoridad competente.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 26 Quinquies.
+
+Los permisos para uso, aprovechamiento y rehabilitación de los espacios públicos, deberán contener:
+
+I. Nombre y domicilio del permisionario;
+
+II. Objeto y fundamentos legales;
+
+III. Descripción del espacio a ser aprovechado;
+
+IV. Derechos y obligaciones del permisionario;
+
+V. El proyecto de la obra o instalación y en su caso, el programa de ejecución, el proceso constructivo y las especificaciones, aprobados por la autoridad competente;
+
+VI. Plazo de construcción y terminación de las obras;
+
+VII. Seguros que deberá presentar el permisionario durante la construcción y operación de las obras;
+
+VIII. Vigencia del permiso;
+
+IX. Características de la construcción Y condiciones de conservación, mantenimiento y operación; y
+
+X. Causas de revocación y terminación.
+
+Una vez otorgado el permiso correspondiente, la Secretaría de Comunicaciones deberá hacerlo del conocimiento de la Secretaría de Finanzas para el efecto de que actualice el inventario patrimonial y el régimen jurídico de los bienes propiedad del Estado.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 26 Sexies.
+
+Los permisos para el uso, aprovechamiento y rehabilitación de espacios públicos terminarán por cualquiera de las siguientes causas:
+
+I. Vencimiento del término por el que se hayan otorgado;
+
+II. Renuncia del permisionario;
+
+III. Desaparición del objeto o fin con que fue solicitado;
+
+IV. Por mutuo acuerdo;
+
+V. Revocación; y
+
+VI. Las demás que se especifiquen en el propio permiso.
+
+Cumplido el término del permiso y en su caso, el de la prórroga que se hubiere otorgado, las obras que se hubieren construido en consecuencia, pasarán al dominio del Estado, sin costo alguno y libre de todo gravamen.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 26 Septies.
+
+Son causales de revocación de los permisos las siguientes:
+
+I. No ejercer los derechos conferidos en el permiso durante un plazo mayor de sesenta días naturales, contados a partir de la fecha de su otorgamiento, debiendo elaborarse para tal efecto, un acta de entrega-recepción del espacio público entregado. El cómputo previsto en la presente fracción, podrá interrumpirse por un evento de caso fortuito o fuerza mayor o por autorización expresa y justificada de la Secretaría de Comunicaciones;
+
+II. No cumplir con las obligaciones o condiciones establecidas en los permisos;
+
+III. Ceder o gravar los permisos, los derechos en ellos conferidos o los bienes afectos a los mismos sin autorización de la Secretaría de Comunicaciones, conforme a lo dispuesto en el permiso, en el Código Administrativo del Estado de México y demás disposiciones aplicables;
+
+IV. No cubrir al Gobierno Estatal, el pago por aprovechamiento correspondiente, en los términos establecidos en el permiso; y
+
+V. Las demás que se señalen en el permiso.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 26 Octies.
+
+El plazo previsto en la fracción I del artículo 26 septies podrá ser prorrogado a juicio de la autoridad competente, previa solicitud del interesado debidamente justificada.
 
 ###### Artículo 27.
 
@@ -810,3 +968,17 @@ G.G. 11 DE SEPTIEMBRE DE 2017.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 332.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS Y DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Comunicaciones tendrá un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto para expedir los Lineamientos Generales para la emisión de la Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial, los Lineamientos Generales para el otorgamiento de los permisos para espacios públicos en las vías primarias de comunicación y normas a las que deberá sujetarse la vigilancia, cuidado, administración y aprovechamiento de los bienes del dominio público.
+
+CUARTO. Toda referencia al dictamen de impacto vial o su equivalente en otros ordenamientos de igual o menor jerarquía se entenderá a la Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial.
+
+QUINTO. Para efectos del segundo párrafo del artículo 17.13 del Código Administrativo del Estado de México, la Secretaría de Finanzas publicará las reglas de carácter general en el Periódico Oficial "Gaceta del Gobierno", dentro de los primeros veinte días hábiles del Ejercicio Fiscal de 2019.
