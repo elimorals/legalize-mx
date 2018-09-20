@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2018-09-17"
+last_updated: "2018-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -283,7 +283,7 @@ XI. Formular, conducir y evaluar las políticas estatales en materia de desarrol
 
 XII. Proponer políticas y estrategias, así como acciones de coordinación entre las dependencias encargadas de la seguridad pública estatal y nacional, en materia de prevención social del delito;
 
-XIII. Coordinar e instrumentar las actividades en materia de control de confianza de los cuerpos de seguridad pública y privada estatales;
+XIII. (DEROGADA, G.G. 20 DE SEPTIEMBRE DE 2018)
 
 XIV. Coordinar a las dependencias del Ejecutivo Estatal en casos de riesgo, siniestro o desastre, para la ejecución de acciones y programas públicos en relación a las personas, sus bienes y el hábitat para el restablecimiento de la normalidad;
 
@@ -371,9 +371,13 @@ XV. Coordinar la evaluación del funcionamiento de la seguridad pública;
 
 XVI. Participar, en coordinación con la Fiscalía General de Justicia, en la elaboración de diagnósticos y estrategias de política criminal;
 
-XVII. Autorizar, coordinar, controlar y supervisar los servicios de seguridad privada, de conformidad con las normas aplicables;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-XVIII. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas del Estado;
+XVII. Autorizar, coordinar, controlar y supervisar los servicios de seguridad pública y privada, de conformidad con las normas aplicables;
+
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Coordinar y prestar los servicios de seguridad pública, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, carriles confinados, terminales y estaciones del sistema de transporte masivo y teleférico, zonas rurales, áreas de recreo y turísticas de competencia estatal; así como las instalaciones estratégicas del Estado;
 
 XIX. Establecer y vigilar la operación de los procedimientos de administración, seguridad, control, vigilancia y apoyo logístico del sistema penitenciario;
 
@@ -401,7 +405,13 @@ Para efectos de lo dispuesto en esta fracción, todas las autoridades del gobier
 
 Los niveles de acceso y características de la plataforma serán definidos en los protocolos de seguridad y en materia de investigación que emitan el Secretario y el Fiscal General, y
 
-XXX. Las demás que le señalen otros ordenamientos jurídicos.
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+XXX. Coordinar e instrumentar las actividades en materia de control de confianza de los cuerpos de seguridad pública y privada estatales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+XXXI. Las demás que le señalen otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO, G.G. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -1163,21 +1173,23 @@ I.- Formular y ejecutar los programas de infraestructura vial primaria;
 
 II.- Formular y ejecutar los planes y programas de comunicaciones de jurisdicción local, en los que se incluyen los relativos a sistemas de transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-III.- Emitir la evaluación técnica de factibilidad de incorporación e impacto vial tratándose de los casos previstos en el artículo 5.35 del Código Administrativo del Estado de México y demás disposiciones jurídicas aplicables;
+III.- Emitir la evaluación técnica de factibilidad de incorporación e impacto vial, tratándose de los casos previstos en el artículo 5.35 del Código Administrativo del Estado de México y demás disposiciones jurídicas aplicables;
 
 IV.- Expedir normas técnicas a que debe sujetarse el establecimiento y operación de la infraestructura vial primaria y las comunicaciones de jurisdicción local;
 
 V.- Vigilar el cumplimiento de las disposiciones legales en materia de infraestructura vial primaria y de comunicaciones de jurisdicción local, con la intervención que corresponda a otras autoridades;
 
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-VI.- Operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial primaria y a las comunicaciones de jurisdicción local de su competencia, directamente o a través de particulares, mediante el otorgamiento de concesiones y contratos;
+VI.- Operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial primaria y a las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad de su competencia, directamente o a través de particulares, mediante el otorgamiento de concesiones y contratos;
 
 VII.- Ejecutar acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras a que se refiere la fracción anterior, sin perjuicio de la intervención que en tales materias corresponda a otras dependencias;
 
-VIII.- Otorgar, modificar, revocar o dar por terminadas las concesiones, permisos o autorizaciones para la construcción, ampliación, rehabilitación, mantenimiento, administración y operación de la infraestructura vial primaria de cuota, ejerciendo los derechos de rescate y reversión;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+VIII.- Otorgar, modificar, revocar o dar por terminadas las concesiones, permisos o autorizaciones para la construcción, ampliación, rehabilitación, mantenimiento, administración y operación de la infraestructura vial primaria de cuota y de los sistemas de transporte masivo o de alta capacidad, ejerciendo los derechos de rescate y reversión;
 
 IX.- Administrar las vías de cuota a cargo del Estado de México;
 
@@ -1227,45 +1239,51 @@ XXI.- Determinar el uso restringido de la infraestructura vial;
 
 > <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
 
-XXII. Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen que puede haber un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos, podrán ser realizados por instituciones públicas o privadas en término de las disposiciones jurídicas aplicables.
+XXII.- Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen que puede haber un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos, podrán ser realizados por instituciones públicas o privadas en término de las disposiciones jurídicas aplicables.
 
-XXIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-XXIV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXIII.- Emitir los lineamientos generales para la emisión de la Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial;
 
-XXV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-XXVI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXIV.- Otorgar a particulares, permisos para el uso y el aprovechamiento de espacios públicos ubicados en el derecho de vía de la infraestructura vial primaria, para su rehabilitación, mantenimiento y operación, con la finalidad de fomentar el desarrollo de áreas de convivencia o interés social;
 
-XXVII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-XXVIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXV.- Emitir los lineamientos generales para el otorgamiento de los permisos para espacios públicos en las vías primarias de comunicación;
 
-XXIX. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXVI.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXX. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXVII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXXI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXVIII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXXII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXIX.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXXIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXX.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXXIV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXXI.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXXV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXXII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXXVI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXXIII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXXVII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXXIV.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXXVIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXXV.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXXIX. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXXVI.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XL. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXXVII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XLI. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+XXXVIII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXXIX.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XL.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XLI.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -2517,7 +2535,7 @@ QUINTO.- La reforma al artículo 219, fracción I inciso C), así como la adici�
 
 SEXTO.- En el caso de los municipios que no suscribieron convenio con el Gobierno del Estado en términos del artículo 225 Bis vigente en 2007, la Secretaría de Finanzas distribuirá las participaciones correspondientes a 2007 a las que hace referencia el artículo 219, fracción II, inciso D) en la forma y términos en que se ha realizado con aquellos que han firmado el referido convenio.
 
-SÉPTIMO.- Los organismos públicos descentralizados municipales que presten los servicios de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, los municipios cuando no cuenten con organismo prestador de dichos servicios y quienes presten el servicio de suministro de agua de manera autónoma, podrán trasladar en la factura correspondiente lo que deban pagar por concepto de las Aportaciones por Servicios Ambientales a que se refiere el Capitulo Tercero del Título Sexto del Código Financiero del Estado de México y Municipios.
+SÉPTIMO.- Los organismos públicos descentralizados municipales que presten los servicios de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, los municipios cuando no cuenten con organismo prestador de dichos servicios y quienes presten el servicio de suministro de agua de manera autónoma, podrán trasladar en la factura correspondiente lo que deban pagar por concepto de las Aportaciones por Servicios Ambientales a que se refiere el Capítulo Tercero del Título Sexto del Código Financiero del Estado de México y Municipios.
 
 OCTAVO.- El Órgano Superior de Fiscalización, de conformidad con lo dispuesto en los artículos 2 fracción V y 8 fracciones II, V, VIII y XIX de la Ley de Fiscalización Superior del Estado de México, deberá revisar la información correspondiente a los cobros y facturaciones a que se refiere el artículo 216-J del Código Financiero del Estado de México y Municipios, así como los depósitos del fideicomiso previsto en el artículo 216-K de dicho ordenamiento, debiendo informar lo conducente a la Legislatura por conducto de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
 
@@ -3445,11 +3463,11 @@ CUARTO. Las autoridades estatales y municipales realizarán las adecuaciones nor
 
 G.G. 17 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO”.]
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
@@ -3517,4 +3535,60 @@ DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio
 
 VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
 
-VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
+VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial “Gaceta del Gobierno” del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
+
+G.G. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 328.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Crea el Organismo Público Descentralizado Denominado Inspección General de las Instituciones de Seguridad Pública del Estado de México, publicada el 18 de julio de 2013 en el Periódico Oficial “Gaceta del Gobierno”.
+
+CUARTO. Se abroga el Decreto que crea el Organismo Público Descentralizado de carácter estatal denominado Centro de Control de Confianza del Estado de México, publicado el 1 de diciembre de 2008 en el Periódico Oficial “Gaceta del Gobierno”.
+
+QUINTO. Se abroga el Decreto 42 de la “LVII” Legislatura del Estado de México por el que se modifica el Decreto que crea el Organismo Público descentralizado de carácter estatal, denominado Centro de Control de Confianza del Estado de México adscrito a la Secretaría General de Gobierno publicado el 19 de enero de 2010 en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEXTO. Se abroga la Ley que crea el Instituto Mexiquense de Seguridad y Justicia, publicada el 18 de julio de 2011, en el Periódico Oficial “Gaceta del Gobierno”.
+
+SÉPTIMO. Las dependencias y organismos auxiliares del Ejecutivo del Estado, en el ámbito de su competencia, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+OCTAVO. El Titular del Ejecutivo Estatal en un plazo no mayor a ciento ochenta días hábiles a la entrada en vigor del presente Decreto, realizará las adecuaciones necesarias a la reglamentación correspondiente.
+
+NOVENO. La Unidad de Asuntos Internos, el Centro de Control de Confianza y la Universidad Mexiquense de Seguridad, realizarán las adecuaciones reglamentarias interiores, así como las gestiones necesarias para dar cumplimiento a lo previsto en el presente Decreto.
+
+DÉCIMO. Cuando en otros ordenamientos legales, administrativos, documentación o papelería se haga referencia a la Inspección General de las Instituciones de Seguridad Pública del Estado de México se entenderá a la Unidad de Asuntos Internos.
+
+DÉCIMO PRIMERO. Cuando en otros ordenamientos legales, administrativos, documentación o papelería se haga referencia al Instituto Mexiquense de Seguridad y Justicia se entenderá a la Universidad Mexiquense de Seguridad.
+
+DÉCIMO SEGUNDO. Los recursos humanos, materiales y presupuestales de la Inspección General de las Instituciones de Seguridad Pública del Estado de México se transferirán a la Unidad de Asuntos Internos.
+
+DÉCIMO TERCERO. Los recursos humanos, materiales y presupuestales del Instituto Mexiquense de Seguridad y Justicia se transferirán a la Universidad Mexiquense de Seguridad.
+
+DÉCIMO CUARTO. Los derechos laborales adquiridos por los servidores públicos adscritos a la Inspección General de las Instituciones de Seguridad Pública del Estado de México al pasar a formar parte de la Unidad de Asuntos Internos permanecerán con las mismas condiciones.
+
+DÉCIMO QUINTO. Los derechos laborales adquiridos por los servidores públicos adscritos al Instituto Mexiquense de Seguridad y Justicia al pasar a formar parte de la Universidad Mexiquense de Seguridad, permanecerán con las mismas condiciones.
+
+DÉCIMO SEXTO. La Legislatura del Estado de México deberá destinar la partida presupuestal necesaria para el cumplimiento del presente Decreto.
+
+DÉCIMO SÉPTIMO. La Secretaría de Finanzas asignará recursos presupuestales para el cumplimiento del presente Decreto que serán programados por cada ejercicio en el Presupuesto de Egresos del Estado de México.
+
+DÉCIMO OCTAVO. El Ejecutivo Estatal y los municipios, respectivamente, deberán instalar los órganos colegiados a que se refiere el artículo 204 del presente Decreto, en un plazo no mayor de sesenta días naturales, a partir de la entrada en vigor del mismo.
+
+DÉCIMO NOVENO. Los procedimientos y demás actos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión, en el ámbito de sus respectivas competencias, por la Unidad de Asuntos Internos o la Comisión de Honor y Justicia de la Secretaría de Seguridad, de conformidad con la legislación vigente al momento de su instauración.
+
+G.G. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 332.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS Y DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Comunicaciones tendrá un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto para expedir los Lineamientos Generales para la emisión de la Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial, los Lineamientos Generales para el otorgamiento de los permisos para espacios públicos en las vías primarias de comunicación y normas a las que deberá sujetarse la vigilancia, cuidado, administración y aprovechamiento de los bienes del dominio público.
+
+CUARTO. Toda referencia al dictamen de impacto vial o su equivalente en otros ordenamientos de igual o menor jerarquía se entenderá a la Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial.
+
+QUINTO. Para efectos del segundo párrafo del artículo 17.13 del Código Administrativo del Estado de México, la Secretaría de Finanzas publicará las reglas de carácter general en el Periódico Oficial "Gaceta del Gobierno", dentro de los primeros veinte días hábiles del Ejercicio Fiscal de 2019.
