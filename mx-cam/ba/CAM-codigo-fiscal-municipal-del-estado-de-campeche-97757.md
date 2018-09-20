@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-municipal-del-estado-de-campeche-97757"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-12-24"
-last_updated: "2013-12-24"
+last_updated: "2018-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 24 de diciembre de 2013.
 
@@ -575,6 +575,14 @@ Los contribuyentes obligados a pagar mediante declaración podrán optar por com
 
 Si la compensación se hubiera efectuado y no procediera, la cantidad compensada deberá ser reintegrada al fisco municipal debidamente actualizada, y se causarán además, los recargos en términos de lo establecido en este ordenamiento sobre las cantidades compensadas indebidamente, por el período transcurrido desde el mes en que se efectuó la compensación indebida hasta aquél en que se haga el pago del monto de la compensación indebidamente efectuada.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 48 bis.- Los contribuyentes obligados a pagar mediante declaración periódica podrán acreditar el importe de los estímulos fiscales a que tengan derecho, contra las cantidades que están obligados a pagar, siempre que presenten aviso ante las autoridades competentes en materia de estímulos fiscales y, en su caso, cumplan con los demás requisitos formales que se establezcan en las disposiciones que otorguen los estímulos.
+
+Los contribuyentes podrán acreditar el importe de los estímulos a que tengan derecho, a más tardar en un plazo de cinco años contados a partir del último día en que venza el plazo para presentar la declaración del periodo en que nació el derecho a obtener el estímulo; si el contribuyente no tiene obligación de presentar declaración del periodo, el plazo contará a partir del día siguiente a aquél en que nazca el derecho a obtener el estímulo.
+
+En los casos en que las disposiciones que otorguen los estímulos establezcan la obligación de cumplir con requisitos formales adicionales al aviso a que se refiere el primer párrafo de este Artículo, se entenderá que nace el derecho para obtener el estímulo, a partir del día en que se obtenga la autorización o el documento respectivo.
+
 ###### ARTÍCULO 49.
 
 Cuando los sujetos de la relación tributaria por actos u omisiones propios, o valiéndose del error reciban indebidamente subsidios o estímulos fiscales municipales, deberán reintegrar la cantidad indebidamente recibida, misma que deberá ser actualizada conforme a este Código. Además, deberán pagar recargos en los términos de este Código, sobre las cantidades actualizadas, indebidamente recibidas, que se calcularán a partir de la fecha en la que hayan recibido el subsidio y hasta la fecha en la que se devuelva al Fisco Municipal la cantidad indebidamente recibida.
@@ -741,7 +749,7 @@ Las entidades y dependencias municipales que tengan a su cargo la aplicación de
 
 No será procedente la acumulación de estímulos fiscales establecidos en las disposiciones fiscales, para ser aplicados a un mismo concepto y ejercicio fiscal.
 
-En caso de que los contribuyentes no hayan solicitado alguno de tos estímulos comprendidos en las disposiciones fiscales, prescribirá su derecho para hacerlo valer con posterioridad.
+En caso de que los contribuyentes no hayan solicitado alguno de los estímulos comprendidos en las disposiciones fiscales, prescribirá su derecho para hacerlo valer con posterioridad.
 
 Tratándose de las personas físicas o morales o unidades económicas que soliciten alguno de los beneficios contenidos en las disposiciones fiscales, y que hubieren interpuesto algún medio de defensa contra el cobro de las contribuciones o créditos fiscales, no procederán las mismas hasta en tanto se exhiba copia certificada del escrito de desistimiento debidamente presentado ante la autoridad que conozca de la controversia y del acuerdo recaído al mismo.
 
@@ -1321,7 +1329,7 @@ I. Se realizarán cumpliendo las formalidades que se establecen para las notific
 
 II. El ejecutor designado por las autoridades fiscales, deberá constituirse en el domicilio del deudor y deberá identificarse con la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos instrumentales de asistencia, si no lo hiciere los designará el propio ejecutor. Si al concluir la diligencia los testigos designados se negaren a firmar, así lo hará constar en el acta, sin que tales circunstancias afecten la legalidad de las diligencias;
 
-III. De las diligencias se levantará acta circunstanciada misma que deberá reunir los requisitos que se establecen en este Código, dejando al finalizar la diligencia, un tanto de la misma con firma autógrafa a la persona con quien se entiende ésta; (sic)
+III. De las diligencias se levantará acta circunstanciada misma que deberá reunir los requisitos que se establecen en este Código, dejando al finalizar la diligencia, un tanto de la misma con firma autógrafa a la persona con quien se entiende ésta;
 
 ###### ARTÍCULO 120.
 
@@ -2015,7 +2023,7 @@ IV. Señalar como domicilio fiscal para efectos del registro municipal de contri
 
 Son infracciones relacionadas con la obligación de pago de las contribuciones, así como de presentación de declaraciones, solicitudes, documentación, avisos, información o expedir constancias:
 
-I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales, o no hacerlo a través de los medios que señale la Tesorería u órgano equivalente, o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos o no hacerlo, o cumplirlos fuera de los plazos señalados en los mismos; se impondrá una multa de 50 a 100 veces el salario mínimo general vigente en el. Municipio;
+I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales, o no hacerlo a través de los medios que señale la Tesorería u órgano equivalente, o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos o no hacerlo, o cumplirlos fuera de los plazos señalados en los mismos; se impondrá una multa de 50 a 100 veces el salario mínimo general vigente en el Municipio;
 
 II. No presentar o hacerlo fuera del plazo señalado en el requerimiento de la autoridad fiscal las declaraciones, las solicitudes, documentación, avisos, contratos, información o constancias que exijan las disposiciones fiscales, se impondrán las siguientes multas:
 
@@ -2029,7 +2037,7 @@ III. Presentar las declaraciones, las solicitudes, los avisos, o expedir constan
 
 IV. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales; se impondrá una multa de 50 a 100 veces el salario mínimo general vigente en el Municipio;
 
-V. No presentar aviso de cambio de domicilio fiscal o de establecimientos, o presentarlo fuera de los plazos; se impondrá una multa de 100 a 150 veces el salario mínimo general vigente en el Municipio; (sic)
+V. No presentar aviso de cambio de domicilio fiscal o de establecimientos, o presentarlo fuera de los plazos; se impondrá una multa de 100 a 150 veces el salario mínimo general vigente en el Municipio;
 
 ###### ARTÍCULO 192.
 
@@ -2063,7 +2071,7 @@ VIII. Omitir la comprobación de la exactitud en los cálculos de contribuciones
 
 IX. Alterar las bases o tasas vigentes, para el cobro de cualquier gravamen u otorgar beneficio o estímulos fiscales a los obligados, sin estar legalmente facultados para ello, se impondrá una multa de 200 a 290 veces el salario mínimo general vigente en el Municipio;
 
-X. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, se impondrá una multa de 200 a 290 veces el salario mínimo general vigente en el Municipio; (sic)
+X. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, se impondrá una multa de 200 a 290 veces el salario mínimo general vigente en el Municipio;
 
 ###### ARTÍCULO 194.
 
@@ -2167,7 +2175,7 @@ Se impondrá sanción de tres meses a tres años de prisión, a quien:
 
 I. Omita solicitar su inscripción en el registro municipal de contribuyentes por más de un año contado a partir de la fecha en que debió hacerlo;
 
-II. Rinda con falsedad al citado registro, los datos, informes o avisos a que se encuentra obligado, y (sic)
+II. Rinda con falsedad al citado registro, los datos, informes o avisos a que se encuentra obligado, y
 
 III. Use intencionalmente más de una clave del registro municipal de contribuyentes;
 
@@ -2198,3 +2206,15 @@ C. Jorge José Sáenz de Miera Lara, Diputado Presidente.- C. Carlos Martín Rui
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los once días del mes de diciembre del año dos mil trece.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO. LIC. WILLIAM ROBERTO SARMIENTO URBINA- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 307 POR EL QUE “SE ADICIONA UN ARTÍCULO 48 BIS AL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- En un término de 120 días contados a partir de la entrada en vigor del presente decreto, los Municipios deberán adecuar las disposiciones municipales que correspondan
