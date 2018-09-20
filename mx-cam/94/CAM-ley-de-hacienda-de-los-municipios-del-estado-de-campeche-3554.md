@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2017-12-27"
+last_updated: "2018-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -2131,157 +2131,101 @@ Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento 
 
 Las personas físicas o morales tenedoras o usuarias o beneficiarias de anuncios, carteles o publicidad o propaganda, en la vía pública o visibles desde la vía pública, o en vehículos de servicio público de pasajeros, así como por difusión fonética, gráfica o electrónica, previamente a su autorización requerirán de licencias, permisos o autorizaciones para su instalación y uso de conformidad con la reglamentación municipal correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 117.
 
-La base para el pago de derechos, por las licencias, permisos o autorizaciones, será por anuncios o carteles de pared o adosados al piso o azotea; publicidad en casetas telefónicas aunque esta sea de la misma empresa que presta el servicio, así como de mantas atravesando calles o banquetas que sean aseguradas a fachadas, árboles o postes, cuyo pago será por metro cuadrado, de igual manera será objeto de este cobro aquellos que para ser observados sean sostenidos por personas, estén o no para ello en la vía pública; por hora aunque se trate de fracción de tiempo y unidad de sonido cuando se trate de difusión fonética y por anuncio en los casos de vehículos de servicio público de pasajeros o particulares, los cuales se causarán y pagarán de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+La base para el pago de derechos, por las licencias, permisos o autorizaciones, será por anuncios o carteles de pared o adosados al piso o azotea; publicidad en casetas telefónicas aunque esta sea de la misma empresa que presta el servicio, así como de mantas atravesando calles o banquetas que sean aseguradas a fachadas, árboles o postes, cuyo pago será por metro cuadrado, de igual manera será objeto de este cobro aquellos que para ser observados sean sostenidos por personas, estén o no para ello en la vía pública; por hora aunque se trate de fracción de tiempo y unidad de sonido cuando se trate de difusión fonética y por anuncio en los casos de vehículos de servicio público de pasajeros o particulares, los cuales se causarán y pagarán de acuerdo con la Unidad de Medida y Actualización (UMA) vigente, conforme a la siguiente:
 
-T A R I F A
+TARIFA
 
-GRUPO 1 2 3
+GRUPOS 1 2 3
 
-I.- De pared, en panel de vidrio, adosados al piso o azotea:
+I.- De pared, en panel de vidrio, adosados al piso o azotea
 
 A. Pintados 1.05
 
 B. Fijados o adheridos 1.05
 
-C. Luminosos 5.23
+C. Luminosos 2.60
 
-D. Giratorios 2.09
+D. Giratorios 1.05
 
-E. Electrónicos 10.45
+E. Electrónicos 5.22
 
 F. Tipo bandera 1.57
 
-G. Mantas en propiedad
+G. Mantas en propiedad privada 1.05
 
-privada 2.09
+H. Bancas y cobertizos publicitarios 1.05
 
-H. Bancas y cobertizos
+l. Torre tipo directorio dentro de centros comerciales:
 
-publicitarios 2.09
+Pintado, fijado o adherido hasta 3 metros de altura: 3.00
 
-I. Torre tipo directorio dentro de centros comerciales:
+Pintado, fijado o adherido más de 3 metros de altura: 5.00
 
-Pintado, fijado o adherido
+Luminoso hasta 3 metros de altura 4.50
 
-hasta 3 metros de altura: 5.00
+Luminoso más de 3 metros de altura 7.50
 
-Pintado, fijado o adherido
+Electrónico hasta 3 metros de altura 5.00
 
-más de 3 metros de altura: 8.5
-
-Luminoso hasta 3 metros
-
-de altura 7.5
-
-Luminoso más de 3 metros
-
-de altura 13.45
-
-Electrónico hasta 3 metros
-
-de altura 10.00
-
-Electrónico más de 3 metros
-
-de altura 15.00
+Electrónico más de 3 metros de altura 7.50
 
 J. Tipo Tótem:
 
-Pintado, fijado o adherido
+Pintado, fijado o adherido hasta 3 metros de altura: 2.50
 
-hasta 3 metros de altura: 5.00
+Pintado, fijado o adherido más de 3 metros de altura: 4.70
 
-Pintado, fijado o adherido
+Luminoso hasta 3 metros de altura 4.50
 
-más de 3 metros de altura: 8.5
+Luminoso más de 3 metros de altura 7.50
 
-Luminoso hasta 3 metros
+Electrónico hasta 3 metros de altura 5.00
 
-de altura 7.5
+Electrónico más de 3 metros de altura 7.50
 
-Luminoso más de 3 metros
+K. Mantas y lonas en toda variedad de
 
-de altura 13.45
+material empleado para publicidad atravesando
 
-Electrónico hasta 3 metros
+calles o banquetas, o fijadas a árboles o postes. 1.05
 
-de altura: 10.00
+L. Publicidad en casetas telefónicas, por cada
 
-Electrónico más de 3 metros
-
-de altura: 15.00
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
-
-K. Mantas y lonas en
-
-toda variedad de material
-
-empleado para
-
-publicidad atravesando
-
-calles o banquetas, o
-
-fijadas a árboles o postes 3.4
-
-L. Publicidad en casetas
-
-telefónicas, por cada
-
-anuncio en caseta 2.00
+anuncio en caseta 1.05
 
 M. Publicidad en Paraderos, por cada anuncio:
 
-Pintado o publicidad
+Pintado o publicidad adherida 1.50
 
-adherida 3.00
+Luminosos 2.00
 
-Luminosos 5.00
+Electrónicos 4.50
 
-Electrónicos 7.5
+II. Por cada anuncio colocado en vehículos de servicio público de pasajeros de ruta fija, urbana, suburbana y foránea.
 
-II.- Por cada anuncio colocado en vehículos de servicio público de pasajeros de ruta fija, urbana, suburbana y foránea
+A. En el exterior del vehículo y 2.50
 
-A. En el exterior del
+Tratándose de cuerpos adheridos al techo del mismo 5.00
 
-vehículo y 5
+B. En el interior de la unidad 2.00
 
-Tratándose de cuerpos
+III. De servicio particular 3.00
 
-adheridos al techo
+IV. Por difusión fonética de publicidad en la vía
 
-del mismo 8
+pública por hora y por unidad de sonido 2.50
 
-B. En el interior de
+V. Por difusión de publicidad con anuncios
 
-la unidad 2.00
+electrónicos no sonoros en la vía pública por
 
-III. De servicio particular 4
+hora y por unidad móvil 2.00
 
-IV.- Por difusión fonética
-
-de publicidad en la vía
-
-pública por hora y por
-
-unidad de sonido 3.5
-
-V. Por difusión de
-
-publicidad con anuncios
-
-electrónicos no sonoros
-
-en la vía pública por
-
-hora y por unidad móvil 3.5
-
-VI. Todos aquellos que no se encuentren relacionados en las fracciones I a IV, estarán sujetos a lo que disponga la autoridad municipal competente, acorde a su naturaleza y magnitud.
+VI. Todos aquellos que no se encuentren relacionados en las fracciones I al IV, estarán sujetos a lo que disponga la autoridad municipal competente, acorde a su naturaleza y magnitud.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -3003,8 +2947,18 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 
 P.O. 27 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 250 POR EL QUE "SE REFORMA EL ARTÍCULO 90 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 250 POR EL QUE “SE REFORMA EL ARTÍCULO 90 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
 
 PRIMERO.- El presente decreto entrará en vigor el día 1° de enero de 2018, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales, administrativas y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 306 POR EL QUE “SE REFORMA EL ARTÍCULO 117 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- En un término de 120 días contados a partir de la entrada en vigor del presente decreto, los Municipios deberán adecuar las disposiciones municipales que correspondan.
