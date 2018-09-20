@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2018-09-19"
+last_updated: "2018-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,79 +21,57 @@ state: "MEX"
 ---
 # CODIGO PENAL DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+REGLAMENTO DE DEBATES DE LA SALA SUPERIOR
 
-CÓDIGO PENAL DEL ESTADO DE MÉXICO
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE SEPTIEMBRE DE 2018.
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de julio de 2009.
 
-Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Federal de Justicia Fiscal y Administrativa.- Pleno de la Sala Superior.
 
-ARTURO MONTIEL ROJAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+ACUERDO G/19/2009
 
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+ACUERDO RELATIVO AL REGLAMENTO DE DEBATES DE LA SALA SUPERIOR.
 
-DECRETO 165
+Con fundamento en lo dispuesto por el artículo 18, fracción VIII, de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa expide el siguiente Reglamento:
 
-LA H. "LIII" LEGISLATURA DEL ESTADO DE MEXICO
-
-DECRETA:
-
-CODIGO PENAL DEL ESTADO DE MEXICO
+REGLAMENTO DE DEBATES DE LA SALA SUPERIOR
 
 # LIBRO PRIMERO
 
 ## TITULO PRIMERO. APLICACION DE LA LEY PENAL
 
-### CAPITULO I. VALIDEZ ESPACIAL
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 1.
 
-Este código se aplicará en el Estado de México, en los casos que sean de la competencia de sus tribunales:
+El presente reglamento tiene por objeto establecer las normas que regularán las sesiones de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, ya sea funcionando en Pleno o en Secciones.
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
-
-I. Por los delitos cuya ejecución se inicie o consume en el territorio del estado;
-
-II. Por los delitos cuya ejecución se inicie fuera del territorio del estado, si se consuman dentro del mismo; y
-
-III. Por los delitos permanentes o continuados, cuando un momento o acto cualquiera de ejecución, se realice dentro del territorio del estado.
-
-En los casos comprendidos en las fracciones II y III de este artículo, se aplicará este código cuando el inculpado se encuentre en el territorio del mismo o no se haya ejercitado en su contra acción penal en otra entidad federativa, cuyos tribunales sean competentes, por disposiciones análogas a las de este código, para conocer del delito.
-
-### CAPITULO II. VALIDEZ TEMPORAL
+### Capítulo II. De las Sesiones
 
 ###### Artículo 2.
 
-La ley penal aplicable es la vigente en el tiempo de realización del delito.
+Las disposiciones del presente ordenamiento se aplicarán a los Magistrados de la Sala Superior, al Secretario General de Acuerdos, a los Secretarios Adjuntos de Acuerdos, a los Servidores Públicos del Tribunal y demás personas que asistan a las sesiones, según corresponda.
 
-Si después de cometido el delito y antes de que cause ejecutoria la sentencia que deba pronunciarse, entraran en vigor una o más leyes que disminuyan la pena o la substituyan por otra que sea menos grave, se aplicará la nueva ley y, en su caso, el órgano jurisdiccional concederá los substitutivos penales que legalmente procedieren.
-
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
-
-Si pronunciada la sentencia ejecutoria se dictare una ley que dejando subsistente la pena señalada para el delito, disminuya su duración o cambie su naturaleza, se individualizará conforme a la nueva ley.
-
-Sin embargo, la ley abrogada deberá continuar aplicándose por los hechos ejecutados durante su vigencia, a menos que la nueva ley sea más favorable.
-
-### CAPITULO III. VALIDEZ PERSONAL
-
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+### Capítulo III. Atribuciones y Obligaciones del Magistrado Presidente de la Sesión
 
 ###### Artículo 3.
 
-Este Código se aplicará a nacionales o extranjeros que hayan cumplido 18 años de edad. Respecto de los segundos, se estará a lo pactado en los tratados internacionales. Los que tengan entre 12 años cumplidos y menos de 18 años de edad quedan sujetos a la legislación especializada.
+En el ejercicio de su función, los Magistrados de Sala Superior gozarán del más amplio derecho para pronunciarse con toda libertad sobre los asuntos que se sometan a su consideración.
 
-### CAPITULO IV. LEYES ESPECIALES Y CONCURSO APARENTE DE NORMAS
+El ejercicio de este derecho, no tendrá más límites que los que impongan el respeto a los pares, la mesura, la prudencia, la honorabilidad y la eficacia en el trabajo del Pleno y las Secciones que regula el presente reglamento.
 
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
+### Capítulo IV. Disposiciones Complementarias
 
 ###### Artículo 4.
 
-Cuando se comete un delito previsto en una ley general o local especial, se aplicarán éstas y, en lo conducente, las disposiciones del presente Código.
+Las sesiones del Pleno o de las Secciones de la Sala Superior serán públicas o privadas, así como ordinarias o extraordinarias. Asimismo, habrá una sesión pública solemne para rendir el informe anual de labores a que se refiere el artículo 30, fracción XIV, de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
 
 ###### Artículo 5.
 
-Cuando una misma materia esté regulada por diversas disposiciones penales, la especial prevalecerá sobre la general, la de mayor entidad absorberá a la de menor entidad, la del hecho posterior de agotamiento cederá ante la del hecho anterior, y la subsidiaria se aplicará cuando no sea posible aplicar la principal.
+Las sesiones se realizarán en el domicilio oficial, ubicado en la sede de la Sala Superior o de las Secciones, serán presididas por el Presidente del Tribunal o los Presidentes de las Secciones, con la intervención de los Magistrados que corresponda y con la participación del Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos, según el caso, quienes darán fe de lo actuado.
+
+Verificado el quórum legal por el Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos, el Presidente del Tribunal o los Presidentes de las Secciones declararán el inicio de la sesión conforme al orden del día.
 
 ## TITULO SEGUNDO. DELITO Y RESPONSABILIDAD
 
@@ -101,45 +79,19 @@ Cuando una misma materia esté regulada por diversas disposiciones penales, la e
 
 ###### Artículo 6.
 
-El delito es la conducta típica, antijurídica, culpable y punible.
+Las sesiones de la Sala Superior, se realizarán cuando así lo requiera el Presidente del Tribunal o el Presidente de la Sección, respectivamente.
+
+El Magistrado Presidente del Tribunal y los Magistrados Presidentes de las Secciones, según corresponda, podrán convocar en cualquier momento para realizar sesiones, cuando un asunto deba ser atendido de manera inmediata o cuando las cargas de trabajo así lo requieran.
 
 ###### Artículo 7.
 
-Los delitos pueden ser realizados por acción y por omisión.
+El horario de las sesiones del Pleno será de las once a las catorce horas, tratándose de sesiones públicas; y las privadas de las catorce a las quince horas. En ambos casos, el horario, orden de desahogo y tipo de sesión señalados podrán ser modificados según las circunstancias particulares que se presenten.
 
-En los delitos de resultado material, también será atribuible el resultado típico producido al que omita impedirlo, si tenía el deber jurídico de evitarlo. En estos casos se estimará que el resultado es consecuencia de una conducta omisiva, cuando se acredite que el que omite impedirlo tenía el deber de actuar para ello, derivado de la ley, de un contrato o de su actuar precedente.
+Las sesiones de las Secciones serán de las doce a las catorce horas, con la distribución de públicas o privadas, según lo establezcan los integrantes de cada Sección.
 
 ###### Artículo 8.
 
-Los delitos pueden ser:
-
-I. Dolosos;
-
-El delito es doloso cuando se obra conociendo los elementos del tipo penal o previendo como posible el resultado típico queriendo o aceptando la realización del hecho descrito por la ley.
-
-II. Culposos;
-
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
-
-El delito es culposo cuando se produce un resultado típico que pudo preverse o proveerse para evitarlo, en virtud de la violación a un deber de cuidado, que debía o podía observarse según las circunstancias y condiciones personales.
-
-III. Instantáneos;
-
-Es instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos.
-
-> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
-
-Lo será con unidad de evento, cuando la conducta sea ejecutada en varias acciones típicas sucesivas de naturaleza patrimonial, siempre que los ofendidos sean distintos y la forma en que se afecte el bien jurídico tutelado lo permita. La unidad de evento excluye el concurso de delitos.
-
-IV. Permanentes;
-
-Es permanente, cuando la consumación se prolonga en el tiempo.
-
-V. Continuados.
-
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
-
-Es continuado, cuando existe unidad de propósito delictivo, pluralidad de conductas e identidad de ofendido y se viola el mismo precepto legal.
+Cuando en la sesión pública no se agote el orden del día, al terminar el horario programado para la misma, y así se considere conveniente, el Magistrado Presidente que corresponda, convocará a los integrantes del Pleno o de la Sección, para que dicha sesión continúe a partir de las diecisiete horas y hasta que se desahogue el total de los asuntos programados para ésta lo cual se hará del conocimiento del público asistente.
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
@@ -147,7 +99,7 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229, el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo, el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI y XVII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Las sesiones extraordinarias podrán celebrarse en cualquier tiempo, mediante convocatoria del Presidente o de los Presidentes de las Secciones, conforme al orden del día que se deberá dar a conocer a los Magistrados.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -155,9 +107,7 @@ Se califican como delitos graves para todos los efectos legales: el cometido por
 
 ###### Artículo 10.
 
-Es punible la tentativa del delito y ésta lo es cuando la intención se exterioriza ejecutando la actividad que debería consumar el delito u omitiendo la que debería evitarlo, si por causas ajenas a la voluntad del agente, no hay consumación pero si pone en peligro el bien jurídico.
-
-Si la ejecución del delito quedare interrumpida por desistimiento propio y espontáneo del inculpado, sólo se castigará a éste con la pena señalada a los actos ejecutados que constituyan por sí mismos delitos.
+En las sesiones públicas sólo podrán intervenir en los debates y participar los Magistrados, la Secretaria General de Acuerdos y los Secretarios Adjuntos de Acuerdos, pero podrán estar presentes las personas interesadas y público en general. A las sesiones privadas sólo podrán asistir los Magistrados, el Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos, el Secretario Particular de la Presidencia, los asesores de la misma y el personal de apoyo que se requiera, así como cualquier otro servidor público del Tribunal cuya presencia sea necesaria.
 
 ### CAPITULO IV. RESPONSABLES DE LOS DELITOS
 
@@ -165,35 +115,9 @@ Si la ejecución del delito quedare interrumpida por desistimiento propio y espo
 
 ###### Artículo 11.
 
-La responsabilidad penal en el hecho delictuoso se produce bajo las formas de autoría y participación:
+Las sesiones se efectuarán conforme al orden del día que formulen el Presidente del Pleno o los Presidentes de las Secciones, por conducto del Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos. Tratándose de asuntos jurisdiccionales el orden se comunicará con cinco días hábiles de anticipación a los Magistrados, acompañándoles una copia de los proyectos de los asuntos a tratar, debiéndose ingresar dichos proyectos al sistema de Intranet del Tribunal.
 
-I. La autoría; y
-
-II. La participación.
-
-Son autores:
-
-a) Los que conciben el hecho delictuoso;
-
-b) Los que ordenan su realización;
-
-c) Los que lo ejecuten materialmente;
-
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
-
-d) Los que con dominio del hecho intervengan en su realización; y
-
-e) Los que se aprovechen de otro que actúa sin determinación propia, conciencia o conocimiento del hecho.
-
-Son partícipes:
-
-a) Los que instiguen a otros, mediante convencimiento, a intervenir en el hecho delictuoso;
-
-b) Los que cooperen en forma previa o simultánea en la realización del hecho delictuoso, sin dominio del mismo; y
-
-c) Los que auxilien a quienes han intervenido en el hecho delictuoso, después de su consumación, por acuerdo anterior.
-
-> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+El orden del día se podrá modificar con los asuntos diferidos o de urgente atención; la modificación deberá comunicarse cuando menos con dos días hábiles de anticipación a la fecha de celebración de la sesión y acompañarse con los proyectos de los asuntos de que se trate.
 
 ###### Artículo 11 Bis.
 
@@ -239,89 +163,59 @@ La sanción impuesta a la persona jurídica colectiva de acuerdo a este Código 
 
 ###### Artículo 12.
 
-Los instigadores y los ordenadores son responsables de los delitos que se cometan con motivo de la instigación u orden, pero no de los demás que se ejecuten, a no ser que debieran haberlos previsto racionalmente.
+Habrá una sesión pública solemne, en el lugar, fecha y hora que fije el Presidente del Tribunal, en la que rendirá, ante el Pleno de la Sala Superior, su informe anual de labores. Cuando a dicho acto asista el Titular de cualquiera de los Poderes de la Unión, o sus representantes se les podrá otorgar el uso de la palabra.
 
 ###### Artículo 13.
 
-Las circunstancias modificativas o calificativas del delito aprovechan o perjudican a todos los inculpados que tuvieren conocimiento de ellas en el momento de su intervención, o debieran preverlas racionalmente.
-
-Las circunstancias personales de alguno o algunos de los inculpados que sean modificativas o calificativas del delito, o constituyan un elemento de éste, aprovecharán o perjudicarán únicamente a aquellos en quienes concurran.
+Iniciada la sesión, el Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos darán cuenta con el asunto que corresponda del orden del día, seguidamente, el Presidente del Tribunal o los Presidentes de las Secciones, lo someterán a consideración de los Magistrados.
 
 ###### Artículo 14.
 
-Si varias personas convienen en ejecutar un delito determinado y alguna o algunas de ellas cometen un delito distinto, todas responderán de la comisión del nuevo delito siempre que concurran las circunstancias siguientes:
+Los Magistrados que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de sentencias o acuerdos, podrán enviarlas al Ponente y demás integrantes del Pleno o Sección, según corresponda, por escrito, de manera previa al desarrollo de la sesión, sin perjuicio de que durante la discusión correspondiente, puedan presentarse aquéllas de manera verbal.
 
-I. Que el nuevo delito sea una consecuencia necesaria del primeramente convenido o sirva de medio para cometerlo; y
-
-II. Que el nuevo delito debiera ser previsto racionalmente por los que convinieron en ejecutar el primero.
+Cuando un Magistrado proponga diferir un asunto deberá expresarlo de inmediato, en cuanto el mismo se ponga a consideración del Pleno o de la Sección. El Magistrado Ponente también podrá solicitar su diferimiento, sin perjuicio de que el Magistrado Ponente pueda retirarlo durante su discusión. Realizada la solicitud, se acordará de plano, señalándose, de ser posible, la fecha en que se someterá nuevamente a discusión el asunto. Una vez votado un asunto, no podrá modificarse lo resuelto, salvo que en la misma sesión se apruebe anular la votación por mayoría igual o superior de los que votaron inicialmente el asunto, en cuyo caso se reiniciará la discusión y se repetirá la votación.
 
 ### CAPITULO V. CAUSAS EXCLUYENTES DEL DELITO Y DE LA RESPONSABILIDAD
 
 ###### Artículo 15.
 
-Son causas que excluyen el delito y la responsabilidad penal:
+Las sesiones del Pleno serán públicas sin perjuicio del derecho de los Magistrados de pronunciarse con toda libertad en los asuntos sometidos para su aprobación, y se sujetarán a las siguientes reglas:
 
-I. La ausencia de conducta, cuando el hecho se realice sin la intervención de la voluntad del agente por una fuerza física exterior irresistible;
+I. El Magistrado Ponente, que lo estime pertinente al inicio de la discusión, tendrá un máximo de cinco minutos para exponer su proyecto de resolución.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+II. Los Magistrados tendrán una primera ronda de intervenciones de tres minutos como máximo cada uno para expresar sus comentarios; el Magistrado Ponente tendrá derecho de réplica al final de dicha ronda, con un tiempo de cinco minutos.
 
-II. Cuando falte alguno de los elementos del hecho delictuoso de que se trate;
+III. Después de la intervención de los Magistrados, el Presidente del Pleno o los Presidentes de las Secciones preguntarán si el asunto está suficientemente discutido; en caso de ser así, se pasará a votación de los Magistrados, con las precisiones que correspondan.
 
-III. Las causas permisivas, como:
+IV. Si el Pleno o la Sección correspondiente, determinan que el asunto no está suficientemente discutido, el Magistrado Presidente preguntará si aquél debe ser diferido para otra sesión o bien si debe realizarse una segunda ronda de intervenciones.
 
-a) Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
+V. El Magistrado Ponente podrá retirar o diferir su proyecto, como resultado de la discusión, mismo que será reprogramado con prioridad para la sesión del Pleno o Sección, en cuanto sea entregado el nuevo proyecto. Si se retira el proyecto antes de que se lleve a cabo la sesión en la que está programado, deberá realizarlo con por lo menos dos días hábiles de anticipación.
 
-1. Que se trate de un delito perseguible por querella;
+VI. Cuando el Presidente del Pleno o los Presidentes de las Secciones consideren el asunto suficientemente discutido, lo someterán a votación de los Magistrados presentes y el Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos tomarán la votación, la que será nominal.
 
-2. Que el titular del bien tenga capacidad de disponer libremente del mismo; y
-
-3. Que el consentimiento sea expreso o tácito y sin que medie algún vicio de la voluntad.
-
-b) Se repela una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa, suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
-
-Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trata de penetrar o haya penetrado sin derecho al hogar del agente, al de su familia, o sus dependencias o a los de cualquier persona que tenga la obligación de defender, al sitio donde se encuentren bienes propios o ajenos, respecto de los que exista la misma obligación; o lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión.
-
-c) Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo; y
-
-d) La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho, y que este último no se realice con el sólo propósito de perjudicar a otro.
-
-IV. Las causas de inculpabilidad:
-
-a) Al momento de realizar el hecho típico el agente padezca un trastorno mental transitorio que le impida comprender el carácter ilícito del hecho o conducirse de acuerdo con esa comprensión, a no ser que el agente hubiese provocado dolosamente o por culpa grave su propio trastorno. En este caso responderá por el hecho cometido.
-
-b) Se realice la acción o la omisión bajo un error invencible:
-
-1. Sobre alguno de los elementos esenciales que integran el tipo penal;
-
-2. Respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca el alcance de la ley, o porque crea que está justificada su conducta.
-
-c) Atentas las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al agente una conducta diversa a la que realizó, en virtud de no haberse podido determinar a actuar conforme a derecho;
-
-Que el resultado típico se produzca por caso fortuito y el activo haya ejecutado un hecho lícito con todas las precauciones debidas.
+VII. Los Magistrados emitirán su voto, el cual podrá ser a favor, en contra o con los resolutivos. Durante la votación, no se podrá motivar las razones del mismo o volver a efectuar comentarios al proyecto. Ningún Magistrado podrá excusarse de emitir su voto a no ser que tenga impedimento legal.
 
 ###### Artículo 16.
 
-Es inimputable el sujeto activo cuando padezca:
+Una vez tomada la votación, el Presidente del Tribunal o los Presidentes de las Secciones harán la declaratoria del resultado de la votación, si ésta reporta un empate, se diferirá a la siguiente sesión no contando como asunto devuelto, si no se aprueba, se devolverá al Ponente para que formule otro, recogiendo en su caso el criterio de la mayoría. De los proyectos aprobados, el Secretario leerá los puntos resolutivos. Los Magistrados que deseen formular voto particular, lo manifestarán en su momento y se hará la declaratoria correspondiente, debiendo emitir el voto particular en un plazo no mayor a diez días hábiles, en caso de que el voto particular no se emita en el plazo previsto, se tendrá por no formulado y se procederá al engrose de la sentencia.
 
-I. Alienación u otro trastorno similar permanente;
-
-II. Trastorno mental transitorio producido en forma accidental o involuntaria; y
-
-III. Sordomudez, careciendo totalmente de instrucción.
-
-Estos padecimientos deben tener como consecuencia la ausencia de la capacidad de comprender la antijuricidad o ilicitud de su acción y omisión, antes o durante la comisión del ilícito.
+En caso de que un proyecto no se apruebe en dos ocasiones, se turnará el asunto a otro Magistrado del Pleno o de la otra Sección, en su caso. Los votos con los resolutivos, se sumarán a los votos a favor siempre que no sean en número mayor que éstos; y que los votos a favor sean iguales o superiores en número a los votos en contra.
 
 ###### Artículo 17.
 
-Las causas excluyentes del delito y de la responsabilidad se harán valer de oficio por el Ministerio Público o por el órgano jurisdiccional.
+Excepcionalmente, cuando por la diversidad de criterios de los Magistrados, respecto de un asunto sometido a su consideración, no haya sido posible su aprobación a pesar de haber cambiado en dos ocasiones de Ponente, o cuando así se decida por el pleno, la votación respectiva se podrá tomar por considerandos. En este caso, conforme se vaya avanzando en la aprobación de un tema, todos los Magistrados deberán estar a la determinación tomada por la mayoría sobre ese particular y, en ese entendido, se pronunciarán en el considerando siguiente, cuando el mismo dependa del anterior.
+
+En todo caso, en el engrose respectivo, se hará constar el desglose de la votación por considerandos.
 
 ### CAPITULO VI. CONCURSO DE DELITOS
 
 ###### Artículo 18.
 
-Existe concurso ideal, cuando con una sola acción u omisión se cometen varios delitos.
+El Presidente de que se trate, someterá a aprobación del Pleno o de las Secciones, el texto de las tesis o precedentes que proponga el Ponente o bien le solicitará por sí o a propuesta del Ponente o de otro Magistrado, que se formulen los que se consideren necesarios. Las tesis también podrán someterse para su aprobación en sesión privada; en todo caso, quedan sujetas a las correcciones de redacción y estilo que se requieran.
 
-Existe concurso real, cuando con pluralidad de acciones u omisiones se cometen varios delitos.
+Corresponderá al Secretario Operativo de Compilación y Sistematización de Tesis, asistir a las sesiones del Pleno y de las Secciones, con la información sobre las tesis, precedentes y jurisprudencias que deban ser reiteradas o, en su caso, aplicadas, al resolver incidentes, quejas o juicios, de los cuales se dé cuenta en las sesiones correspondientes.
+
+Cuando se emita un voto particular, se publicará junto con la tesis o el precedente del asunto aprobado, o bien, con la parte respectiva de la sentencia; sólo en el supuesto que el Magistrado que emita el voto particular y no desee su publicación, deberá manifestarlo durante la sesión.
 
 ### CAPITULO VII. REINCIDENCIA Y HABITUALIDAD
 
@@ -329,71 +223,21 @@ Existe concurso real, cuando con pluralidad de acciones u omisiones se cometen v
 
 ###### Artículo 19.
 
-Será reincidente quien cometa un nuevo delito después de haber sido condenado por sentencia ejecutoriada. Si esta fue dictada por un órgano jurisdiccional del país o del extranjero, será menester que la condena sea por un delito que tenga ese carácter en este código o leyes especiales. No habrá reincidencia si ha transcurrido desde la fecha de la sentencia ejecutoria o del indulto, un término igual al de la prescripción de la pena.
-
-No se aplicará cuando el agente haya obtenido el reconocimiento judicial de inocencia.
+Tratándose de correcciones mecanográficas que no trasciendan al fondo del fallo, sólo se anunciará que existen las mismas y, en su caso, el Magistrado que las haya detectado las hará llegar a través de simple nota al Magistrado Ponente, con una copia para la Secretaría General de Acuerdos o la Secretaría Adjunta de Acuerdos, respectiva.
 
 ###### Artículo 20.
 
-Será considerado delincuente habitual el reincidente que cometa un nuevo delito, siempre que los tres delitos anteriores se hayan cometido en un periodo que no exceda de quince años.
+Los asuntos podrán agruparse de acuerdo al orden de día, con el fin de que se proceda a su discusión en la vía económica, cuando respecto de los mismos se manifieste que no existen comentarios. Los Magistrados podrán emitir su voto favorable refiriéndose a todos los asuntos agrupados, en tanto que aquéllos de los que se indicó que había comentarios o que algún Magistrado estuviere en contra, se discutirán en forma particular y, si fuera el caso, se inscribirán posteriormente, si los hubiere, los votos u opiniones disidentes o particulares respecto de proyectos de resoluciones u otros acuerdos, según corresponda.
 
 ###### Artículo 21.
 
-Las disposiciones del presente capítulo serán aplicables aún en el caso de tentativa, pero no a los delitos contra el estado cualquiera que sea el grado de su ejecución.
+Cuando ningún Magistrado desee hacer uso de la palabra, se procederá de inmediato a la votación del asunto correspondiente.
 
 ## TITULO TERCERO. PENAS Y MEDIDAS DE SEGURIDAD
 
 ###### Artículo 22.
 
-Son penas y medidas de seguridad que pueden imponerse con arreglo a este código, las siguientes:
-
-A. Penas:
-
-I. Prisión;
-
-II. Multa;
-
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
-
-III. Reparación del daño; que comprenderá los rubros citados por el artículo 26 de este ordenamiento.
-
-IV. Trabajo en favor de la comunidad;
-
-V. Suspensión, destitución, inhabilitación o privación del empleo, cargo o comisión.
-
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Suspensión o privación de derechos vinculados al hecho;
-
-VII. Publicación especial de sentencia;
-
-VIII. Decomiso de bienes producto del enriquecimiento ilícito; y
-
-IX. Decomiso de los instrumentos, objetos y efectos del delito.
-
-B. Medidas de seguridad:
-
-I. Confinamiento;
-
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
-
-II. Prohibición de residir o ir a lugares determinados;
-
-III. Vigilancia de la autoridad;
-
-IV. Tratamiento de inimputables;
-
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
-
-V. Amonestación;
-
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
-
-VI. Caución de no ofender; y
-
-> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
-
-VII. Tratamiento.
+En las sesiones privadas y en las reuniones de trabajo de los Magistrados, se seguirá en lo conducente, lo establecido en los artículos anteriores.
 
 ### CAPITULO I. PRISION
 
@@ -401,9 +245,29 @@ VII. Tratamiento.
 
 ###### Artículo 23.
 
-La prisión consiste en la privación de la libertad, la que podrá ser de tres meses a vitalicia, entendiéndose por ésta una duración igual a la vida del sentenciado, y se cumplirá en los términos y con las modalidades previstas en las leyes de la materia.
+El Presidente del Pleno o los Presidentes de las Secciones tendrán las siguientes atribuciones y obligaciones:
 
-SUBTITULO PRIMERO
+a) Constatar con el Secretario General de Acuerdos o con el Secretario Adjunto de Acuerdos respectivo, la integración del quórum legal para llevar a cabo la sesión;
+
+b) Presidir y participar en las sesiones;
+
+c) Autorizar el inicio y terminación de las sesiones;
+
+d) Determinar los recesos y mociones, por sí o a propuesta de cualquier Magistrado;
+
+e) Conceder el uso de la palabra, en el orden solicitado, mismo que será registrado por el Secretario General de Acuerdos o el Secretario Adjunto de Acuerdos que corresponda;
+
+f) Coordinar el debate de las sesiones y moderar la discusión en las mismas, así como ejecutar las medidas necesarias que le instruya el Pleno o la Sección, para su adecuado funcionamiento;
+
+g) Decretar que los asuntos se encuentran suficientemente discutidos;
+
+h) Someter a votación los proyectos de sentencia, así como los acuerdos;
+
+i) Asegurar los apoyos institucionales necesarios para la buena marcha de las sesiones y para hacer frente a cualquier eventualidad que obstaculice su desarrollo;
+
+j) Mantener el orden en las sesiones, de ser necesario, puede solicitar el auxilio de la fuerza pública e imponer las correcciones disciplinarias para salvaguardar la seguridad del recinto e instalaciones; y
+
+k) Tomar las demás acciones que sean necesarias para el adecuado desarrollo de las sesiones.
 
 ### CAPITULO II. MULTA
 
@@ -413,29 +277,17 @@ SUBTITULO PRIMERO
 
 ###### Artículo 24.
 
-La multa consiste en el pago de una suma de dinero al Estado que se fijará por días multa, los cuales podrán ser de treinta a cinco mil.
+En las sesiones, los Magistrados, procurarán realizar su intervención de manera clara y concreta, evitando lecturas o repeticiones innecesarias para lograr un debate ágil y eficiente, en beneficio de los participantes y del público en general.
 
-El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todos sus ingresos, que en ningún caso serán inferiores al salario mínimo general vigente en el lugar donde se consumó.
+En el curso de las intervenciones, los Magistrados deberán abstenerse de: entablar polémicas o debates de manera individual con otro miembro del Pleno o la Sección; hacer alusiones personales o utilizar adjetivos inapropiados que pudiesen ofender a quienes participan en la sesión; interrumpir a otros Magistrados en el uso de la palabra, o generar controversias o discusiones ajenas a los asuntos del orden del día.
 
-En los delitos continuados se atenderá al salario mínimo vigente en el momento consumativo de la última conducta y para los permanentes el que esté en vigor en el momento en que cesó la conducta delictiva.
+En esos supuestos, cualquier Magistrado podrá solicitar al Pleno o la Sección que acuerde por mayoría simple una moción de orden para invitar al Magistrado de que se trate a que se conduzca en los términos previstos en este reglamento.
 
-En caso de insolvencia del sentenciado, la autoridad judicial la sustituirá, total o parcialmente, por prestación de trabajo en favor de la comunidad, saldándose un día multa por cada jornada de trabajo.
-
-En caso de insolvencia e incapacidad física del sentenciado, la autoridad judicial sustituirá la multa por el confinamiento, saldándose un día multa por cada día de confinamiento.
-
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
+Cuando algún Magistrado solicite que se acuerde por mayoría simple una moción, el Pleno o la Sección decidirán, sin discusión, su admisión o rechazo. En caso de que se acepte, el Magistrado Presidente tomará las medidas pertinentes para que se lleve a cabo, de no ser así, la sesión seguirá su curso.
 
 ###### Artículo 25.
 
-Para los efectos de este capítulo y a falta de elementos específicos, se tomara como base por día multa, salvo prueba en contrario:
-
-I. Que los empleados, técnicos, profesionistas y similares, obtienen un ingreso diario equivalente a por lo menos dos y medio veces el salario mínimo general vigente;
-
-II. Que los jefes en mandos intermedios, patrones, empleadores y similares, obtienen un ingreso diario equivalente a por lo menos cinco veces el salario mínimo general vigente;
-
-III. Que los de mayor jerarquía y capacidad económica que estos últimos, obtienen ingresos diarios equivalentes a por lo menos diez veces el salario mínimo general vigente; y
-
-IV. Que las personas que vivan y se desarrollen en los más altos estratos económico-sociales, obtienen ingresos diarios equivalentes a por lo menos veinticinco veces el salario mínimo general vigente.
+Los Magistrados pueden ser asistidos por sus Secretarios cuando así lo requieran, procurando no alterar el desarrollo de la sesión.
 
 ### CAPITULO III. REPARACION DEL DAÑO
 
@@ -443,57 +295,19 @@ IV. Que las personas que vivan y se desarrollen en los más altos estratos econ�
 
 ###### Artículo 26.
 
-La reparación del daño deberá ser plena, efectiva, proporcional a la gravedad del daño causado y a la afectación del desarrollo integral de la víctima u ofendido y, según la naturaleza del delito de que se trate, comprenderá:
+Los Magistrados y el Presidente, podrán ausentarse momentáneamente durante el desarrollo de la sesión.
 
-I. En términos generales:
-
-a) El restablecimiento de las cosas en el estado en que se encontraban antes de cometerse el delito;
-
-b) La restitución del bien obtenido por el delito, con sus frutos y accesiones, y el pago en su caso del deterioro y menoscabo, o de los derechos afectados.
-
-La restitución se hará aun en el caso de que el bien hubiere pasado a ser propiedad de terceros; a menos que sea irreivindicable o se haya extinguido el derecho de propiedad, los terceros serán escuchados en audiencia en la forma que señala el Código de Procedimientos Penales.
-
-Si se trata de bienes fungibles, el juez podrá condenar a la entrega de un objeto igual al que fuese materia de delito sin necesidad de recurrir a prueba pericial;
-
-c) La indemnización del daño material y moral causado a la víctima o a las personas con derecho a la reparación del daño, incluyendo el pago de los tratamientos que, como consecuencia del delito, sean necesarios para la recuperación de su salud física y psicológica;
-
-El monto de la indemnización será el suficiente para cubrir los gastos a que se refiere el párrafo anterior.
-
-d) El resarcimiento de los perjuicios ocasionados;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
-
-II. Tratándose de los delitos de violencia familiar, violencia de género y lesiones que se deriven de éstos, así como del feminicidio, la reparación del daño a la víctima u ofendido incluirá:
-
-a) Las hipótesis a que se refiere la fracción anterior;
-
-b) El restablecimiento de su honor, mediante disculpa pública, a través de los mecanismos que señale la autoridad judicial;
-
-> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
-
-c) La reparación por la afectación en su entorno laboral, educativo y psicológico, a fin de lograr su restablecimiento, ante la imposibilidad de este, la indemnización correspondiente, en términos del Código Nacional de Procedimientos Penales.
-
-La indemnización a que se refiere el párrafo anterior se cuantificará en base a diversos factores como la pérdida del empleo, la inasistencia a las jornadas laborales, la necesidad de cambio de plantel educativo o inasistencia a éste, y demás datos relevantes que permitan realizar la cuantificación correspondiente, y
-
-d) El pago de los gastos indispensables para su subsistencia y, si los hubiere, de los hijos menores de edad o discapacitados, cuando como consecuencia del delito sufrido, se haya visto imposibilitada para desarrollarse en el ámbito laboral; lo anterior, por el tiempo que determine la autoridad judicial, atendiendo a su grado de estudios, edad y estado de salud.
-
-> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
-
-III. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos que, como consecuencia del delito, sean necesarios para la recuperación de la salud del ofendido.
-
-El monto de la indemnización por el daño moral no podrá ser inferior a treinta ni superior a mil días multa y será fijado considerando las circunstancias objetivas del delito, las subjetivas del delincuente y las repercusiones del delito sobre la víctima u ofendido.
-
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+En el supuesto que el Presidente de Tribunal se ausente momentáneamente, solicitará al Presidente de la Sección que corresponda ocupar su lugar durante la ausencia aludida.
 
 ###### Artículo 27.
 
-La reparación del daño se impondrá de oficio al responsable del delito, pero cuando sea exigible a terceros tendrá el carácter de responsabilidad civil.
+Queda prohibido el uso de teléfonos celulares, radiolocalizadores o cualquier otro medio de comunicación que altere el desarrollo de la sesión.
+
+Los asistentes a la sesión pública, deben guardar silencio y observar respeto. En caso contrario, el Presidente tomará las medidas de apremio que estime conducentes.
 
 ###### Artículo 28.
 
-Los comprendidos en el artículo 16, estarán obligados en todo caso a la reparación del daño conforme a las disposiciones de este capítulo. Si fueren insolventes, responderán de dicha reparación los que los tengan bajo su patria potestad, tutela o guarda.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+Cualquier miembro del Pleno, Sección, Secretario de Acuerdos, personal profesional o administrativo del Tribunal Federal de Justicia Fiscal y Administrativa, que revele el contenido de los asuntos tratados en sesión privada a persona que no haya asistido a la sesión incurrirá en responsabilidad administrativa.
 
 ###### Artículo 29.
 
@@ -5403,99 +5217,13 @@ Además de las penas señaladas a los delitos de cohecho cometido por servidores
 
 ## TRANSITORIOS
 
-PRIMERO.- Publíquese el presente Código en la "Gaceta del Gobierno".
+Primero.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Este Código, entrará en vigor cinco días después de su publicación en la "Gaceta del Gobierno".
+Segundo.- Los casos no previstos en este ordenamiento serán resueltos por el Pleno de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa.
 
-TERCERO.- Se abroga el Código Penal para el Estado de México publicado en la Gaceta del Gobierno el veintiséis de enero de mil novecientos ochenta y seis.
+Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
 
-CUARTO.- El Código abrogado seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que conforme al nuevo Código, hayan dejado de considerarse como delitos o que los sujetos al mismo manifiesten su voluntad de acogerse, al presente ordenamiento como mas favorable.
-
-QUINTO.- El artículo 148, que se refiere al delito de prestación ilícita del servicio público de transporte de pasajeros, entrará en vigor a los tres años, a partir del inicio de la vigencia del presente decreto.
-
-Lo tendrá entendido el Gobernador Constitucional del Estado, haciendo que se publique y se cumpla.
-
-Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintinueve días del mes de febrero del dos mil.- Diputado Vicepresidente.- C. Gustavo Alonso Donis García.- Diputados Prosecretarios.- C. Rubén Colín Cortez.- C. Alfonso Rodríguez Tinajero.- Rúbricas.
-
-Por lo tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
-
-Toluca de Lerdo, Méx., a 17 de marzo del 2000.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
-
-ARTURO MONTIEL ROJAS
-
-(RUBRICA).
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-MANUEL CADENA MORALES
-
-(RUBRICA).
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
-
-G.G. 1 DE SEPTIEMBRE DE 2000.
-
-SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE CÓDIGO.
-
-PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
-
-TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
-
-G.G. 3 DE SEPTIEMBRE DE 2003.
-
-PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
-
-G.G. 1 DE ABRIL DE 2004.
-
-PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
-
-TERCERO.- Las disposiciones contenidas en los artículos 91 y 295 del Código Penal del Estado de México, anteriores a esta reforma, se aplicarán respecto de los hechos u omisiones que hayan sido ejecutados durante su vigencia, a menos que los sujetos soliciten, en su beneficio, la aplicación de los preceptos normativos contenidos en el presente decreto.
-
-G.G. 28 DE JULIO DE 2004.
-
-PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial "Gaceta del Gobierno".
-
-G.G. 10 DE AGOSTO DE 2004.
-
-DECRETO NO. 55 QUE ADICIONA LA FRACCIÓN XI AL ARTICULO 136 DEL CÓDIGO PENAL PARA EL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese la presente Ley en el Periódico Oficial. "Gaceta del Gobierno".
-
-SEGUNDO.- La presente ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial, "Gaceta del Gobierno".
-
-TERCERO.- Se abroga la Ley del Registro de Antecedentes Penales y Administrativos del Estado de México.
-
-CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
-
-QUINTO.- El personal y bienes de la actual dirección de Servicios Periciales pasarán a formar parte del Instituto de Servicios Periciales en los términos y condiciones de la presente Ley.
-
-G.G. 10 DE AGOSTO DE 2004.
-
-DECRETO NO. 57 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
-
-TERCERO.- Las disposiciones contenidas en los artículos 23, 24, 176, 242, 243, 259, 261, 273, 274 y 290 del Código Penal, seguirán aplicándose para los hechos u omisiones ejecutados durante su vigencia.
-
-G.G. 27 DE OCTUBRE DE 2004.
-
-PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
-
-G.G. 26 DE NOVIEMBRE DE 2004.
-
-DECRETO 97 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL
+Así lo acordó el Pleno de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, en sesión del día seis de julio de dos mil nueve, ordenándose su publicación en el Diario Oficial de la Federación.- Firman el Magistrado Francisco Cuevas Godínez, Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, y la licenciada Rosana Edith de la Peña Adame, Secretaria General de Acuerdos, quien da fe.- Rúbricas.
 
 ###### ARTICULO PRIMERO.
 
