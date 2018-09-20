@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-60330"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-26"
-last_updated: "2016-09-29"
+last_updated: "2018-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 26 de enero de 2008.
 
@@ -35,9 +35,9 @@ LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO D
 
 EXPOSICION DE MOTIVOS
 
-.
+[...]
 
-LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSI
+LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO I. De las Disposiciones Generales
 
@@ -221,11 +221,17 @@ Los municipios participarán en el Fondo de Fiscalización y Recaudación, que s
 
 Del veinte por ciento distribuible entre los municipios se formará un único fondo que comprenderá el total distribuible, que se asignará de acuerdo a lo siguiente:
 
-I. El noventa por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo publicado por el Instituto Nacional de Estadística y Geografía; el cuatro por ciento de acuerdo al índice municipal de pobreza que se indica en el artículo 35 de la Ley de Coordinación Fiscal; el uno por ciento en proporción inversa a las participaciones que por población tenga cada municipio; y el cinco por ciento restante de acuerdo al factor de eficiencia administrativa del municipio, mismo que será el cociente de la recaudación de impuestos y derechos municipales contenida en la última cuenta pública aprobada por el Congreso del Estado, entre el gasto ejercido en el capítulo 1000, correspondiente a Servicios Personales, para cada uno de los municipios del Estado, y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+I. El noventa por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo publicado por el Instituto Nacional de Estadística y Geografía; el cuatro por ciento de acuerdo al índice municipal de pobreza que se indica en el artículo 35 de la Ley de Coordinación Fiscal; el uno por ciento en proporción inversa a las participaciones que por población tenga cada municipio; y el cinco por ciento restante de acuerdo al factor de eficiencia administrativa del municipio, mismo que será el cociente de la recaudación de impuestos y derechos municipales contenida en la última cuenta pública presentada al Congreso del Estado, entre el gasto ejercido en el capítulo 1000, correspondiente a Servicios Personales, para cada uno de los municipios del Estado, y
 
 II. De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo.
 
 El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría de Finanzas deberá consultar a la Auditoría Superior del Estado a fin de validar los datos contenidos en la cuenta pública del municipio de que se trate.
 
 ###### ARTICULO 19.
 
@@ -498,5 +504,13 @@ P.O. 29 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0393.- SE REFORMA EL ARTÍCULO 18, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1189.- SE REFORMA EL ARTÍCULO 18 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
