@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2016-12-06"
+last_updated: "2018-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -257,17 +259,21 @@ Todas las dependencias y entes públicos estatales y municipales, y organismos d
 
 ### CAPÍTULO I. DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 9.
 
-Corresponde a la Secretaría de Gobierno:
+Corresponde a la Secretaría General de Gobierno:
 
 I. Coordinar las acciones que sean necesarias para el diseño, implementación y evaluación de las políticas públicas que garanticen el pleno goce de los derechos humanos y libertades fundamentales de las personas con discapacidad;
 
 II. Promover las reformas al marco legal del Estado a fin de adecuarlo a la Convención sobre los Derechos de las Personas con Discapacidad y la Convención Interamericana para la Eliminación de Todas las Formas de Discriminación Contra las Personas con Discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 10.
 
-Corresponde a la Secretaría de Desarrollo Social y Regional promover el derecho de las personas con discapacidad a un mayor y mejor índice de desarrollo humano así como el de sus familias, lo cual deberá incluir su alimentación, vestido, vivienda y la mejora continua de sus condiciones de vida. Para estos efectos, realizará las siguientes acciones:
+Corresponde a la Secretaría de Desarrollo Social y Humano promover el derecho de las personas con discapacidad a un mayor y mejor índice de desarrollo humano así como el de sus familias, lo cual deberá incluir su alimentación, vestido, vivienda y la mejora continua de sus condiciones de vida. Para estos efectos, realizará las siguientes acciones:
 
 I. Establecer medidas que garanticen el acceso de las personas con discapacidad en todas las acciones, programas de protección y desarrollo social y estrategias de reducción de la pobreza, en observancia de todas aquellas disposiciones de la Ley de Desarrollo Social del Estado, que le sean aplicables;
 
@@ -325,9 +331,11 @@ XVII. Las demás que dispongan otros ordenamientos;
 
 Queda prohibido cualquier tipo de discriminación contra las personas con discapacidad en el otorgamiento de seguros de salud o de vida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 13.
 
-Corresponde a la Secretaría de Desarrollo Urbano y Obras Públicas:
+Corresponde a la Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura:
 
 I. Establecer programas para realizar adecuaciones físicas a las obras públicas existentes a fin de facilitar el uso y acceso de las personas con discapacidad;
 
@@ -387,17 +395,23 @@ V. Establecer la capacitación de recursos humanos, el uso de materiales y tecno
 
 VI. Generar espacios de encuentro, intercambio e integración cultural y artística entre la población;
 
-VII. Coadyuvar con la Secretaría de Desarrollo Urbano y Obras Públicas y los HH. Ayuntamientos para la adecuación accesible de los espacios públicos, sin afectar la arquitectura y patrimonio cultural del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Coadyuvar con la Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura y los HH. Ayuntamientos para la adecuación accesible de los espacios públicos, sin afectar la arquitectura y patrimonio cultural del Estado;
 
 VIII. Fomentar la elaboración de materiales de lectura, inclusive en Sistema Braille, u otros formatos accesibles; y
 
 IX. Las demás que dispongan otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 16.
 
-Corresponde a la Secretaría de Desarrollo Industrial y Comercial:
+Corresponde a la Secretaría de Desarrollo Económico:
 
-I. Promover el otorgamiento de estímulos fiscales y financieros y reconocimiento público a las empresas e instituciones de gobierno que cuenten con programas de contratación de personas con discapacidad en condiciones de igualdad;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+I. Promover el otorgamiento de estímulos fiscales y financieros y reconocimiento público a las empresas e instituciones de gobierno que cuenten con programas de contratación de personas con cualquier tipo de discapacidad en condiciones de igualdad que configuren el mínimo del tres por ciento de su plantilla laboral;
 
 II. Promover el establecimiento de empresas para la fabricación o reparación de prótesis, órtesis, sillas de ruedas, elevadores para vehículos automotores y casas habitación, regletas para ciegos, máquinas de escribir, bastones, andaderas, aparatos auditivos y otras ayudas técnicas; así como de otros bienes análogos;
 
@@ -405,7 +419,9 @@ III. Promover la creación y operar una bolsa de trabajo para personas con disca
 
 IV. Establecer y operar un programa de capacitación para el trabajo y de autogestión económica;
 
-V. Celebrar convenios con los sectores empresariales, universidades y organismos sociales, a fin de impulsar la incorporación laboral de personas con discapacidad; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+V. Celebrar convenios con los sectores empresariales, universidades y organismos sociales, a fin de impulsar la incorporación laboral de personas con cualquier tipo de discapacidad; y
 
 VI. Las demás que dispongan otros ordenamientos.
 
@@ -421,9 +437,11 @@ III. Promover convenios con los sectores social y privado, a fin de que las pers
 
 IV. Las demás que dispongan otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 18.
 
-Corresponde a la Dirección del Trabajo y Previsión Social dependiente de la Secretaría de Gobierno, promover el derecho al trabajo y empleo de las personas con discapacidad en igualdad de oportunidades y equidad, que les otorgue certeza en su desarrollo personal, social y laboral. Para tal efecto, realizará las siguientes acciones:
+Corresponde a la Secretaría de (sic) Trabajo y Previsión Social, promover el derecho al trabajo y empleo de las personas con discapacidad de forma accesible en igualdad de oportunidades y equidad, que les otorgue certeza en su desarrollo personal, social y laboral. Para tal efecto, realizará las siguientes acciones:
 
 I. Verificar, prohibir y sancionar cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación laboral, promoción profesional y asegurar condiciones de trabajo accesibles, seguras y saludables, mediante las respectivas inspecciones y sanciones que le faculta la Ley de la materia;
 
@@ -437,7 +455,13 @@ V. Fomentar la capacitación y sensibilización del personal que trabaje con per
 
 VI. Realizar inspecciones en los centros de trabajo a fin de verificar que le sean respetados sus derechos laborales a las personas con discapacidad; y
 
-VII. Las demás que dispongan otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Procurar que la contratación de personas con discapacidad configure el tres por ciento de la plantilla laboral; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Las demás que dispongan otros ordenamientos.
 
 ###### Artículo 19.
 
@@ -481,9 +505,11 @@ IX. Procurar que en la operación de sus programas asistenciales dirigidos a gru
 
 X. Las demás que dispongan otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 21.
 
-Corresponde a la Secretaría de Seguridad Pública y Protección a la Comunidad:
+Corresponde a la Secretaría de Seguridad Pública:
 
 I. Vigilar que a las personas con discapacidad se les respete el derecho de preferencia de paso en todos los cruceros o zonas de paso peatonal; y se les otorguen las facilidades necesarias para que puedan abordar las unidades de transporte público;
 
@@ -517,7 +543,9 @@ I. Establecer mecanismos de coordinación con autoridades competentes y empresas
 
 II. Promover que en la concesión del servicio de transporte público, las unidades e instalaciones garanticen a las personas con discapacidad la accesibilidad para el desplazamiento y los servicios, así como la inclusión de especificaciones técnicas y antropométricas, apoyos técnicos o humanos y personal capacitado;
 
-III. Promover en coordinación con la Secretaría de Seguridad Pública y Protección a la Comunidad programas y campañas de educación vial, cortesía urbana y respeto hacia las personas con discapacidad en su tránsito por la vía y lugares públicos, así como para evitar cualquier tipo de discriminación en el uso del transporte público;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+III. Promover en coordinación con la Secretaría de Seguridad Pública programas y campañas de educación vial, cortesía urbana y respeto hacia las personas con discapacidad en su tránsito por la vía y lugares públicos, así como para evitar cualquier tipo de discriminación en el uso del transporte público.
 
 IV. Verificar que los concesionarios del transporte público apliquen debidamente las tarifas preferenciales autorizadas a las personas con discapacidad;
 
@@ -539,7 +567,9 @@ A los HH. Ayuntamientos de los Municipios del Estado, en el ámbito de su compet
 
 I. Prever en los correspondientes presupuestos de egresos municipales los recursos necesarios para la ejecución de programas relativos a la población con discapacidad;
 
-II. Promover la incorporación laboral de las personas con discapacidad, y crear y operar una bolsa de trabajo;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+II. Promover la incorporación laboral de las personas con discapacidad, y crear y operar una bolsa de trabajo. Procurando que las personas con discapacidad que se incorporen alcancen al menos el tres por ciento de la plantilla laboral;
 
 III. Verificar que las licencias y permisos de construcción que se otorguen a proyectos públicos o privados establezcan medidas físicas de acceso y uso para las personas con discapacidad de conformidad con el Reglamento de Construcción respectivo;
 
@@ -587,7 +617,9 @@ Para el cumplimiento de sus objetivos, el Consejo tendrá las siguientes atribuc
 
 I. Proponer políticas, estrategias, lineamientos y programas para promover, coordinar, supervisar y evaluar los procesos en materia de atención, habilitación, rehabilitación e inclusión social de las personas con discapacidad;
 
-II. Coordinar las acciones destinadas al beneficio de personas con discapacidad que desarrollen las dependencias públicas estatales y la sociedad civil, las cuales deberán apegarse a los criterios y estrategias para lograr su inclusión social, cultural, educativa, económica y de salud, así como para el respeto y garantía de sus derechos humanos;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+II. Coordinar las acciones destinadas al beneficio de personas con discapacidad que desarrollen las dependencias públicas estatales y la sociedad civil, las cuales deberán apegarse a los criterios y estrategias para lograr su inclusión social, cultural, educativa, económica, laboral y de salud, así como para el respeto y garantía de sus derechos humanos;
 
 III. Intervenir como instancia mediadora cuando tenga conocimiento de actos u omisiones que constituyan violaciones a los derechos de las personas con discapacidad, atribuibles a instancias de la administración pública estatal, de acuerdo a lo señalado en el artículo 8 de la presente Ley;
 
@@ -615,7 +647,13 @@ XIV. Impulsar acuerdos de colaboración con organismos públicos y privados, nac
 
 XV. Proporcionar al DIF Estatal la información que le requiera para la elaboración de las estadísticas estatales a que se refiere la fracción IV del artículo 20 de la presente Ley; y
 
-XVI. Opinar sobre la política de participación del Estado en las reuniones y congresos nacionales e internacionales relativos a la materia de discapacidad.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Proponer e impulsar acciones y políticas públicas, que permitan la contratación de al menos el 3 por ciento de las plazas ofrecidas en los sectores públicos y privados, para personas con cualquier tipo de discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Opinar sobre la política de participación del Estado en las reuniones y congresos nacionales e internacionales relativos a la materia de discapacidad.
 
 ### CAPÍTULO II. INTEGRACIÓN Y ORGANIZACIÓN INTERNA
 
@@ -645,21 +683,29 @@ III. Los representantes de los Poderes Legislativo y Judicial del Estado, quiene
 
 IV. Catorce Comités de trabajo que serán coordinados por los titulares de las siguientes instancias de gobierno en el Estado:
 
-a. Comité de Seguridad Jurídica y Acceso a la Justicia, coordinado por el Secretario de Gobierno;
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
 
-b. Comité de Accesibilidad y Diseño Universal, coordinado por el Secretario de Desarrollo Urbano y Obras Públicas;
+a. Comité de Seguridad Jurídica y Acceso a la Justicia, coordinado por el Secretario General de Gobierno;
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+b. Comité de Accesibilidad y Diseño Universal, coordinado por el Secretario de Desarrollo Urbano, Obras Públicas e Infraestructura;
 
 c. Comité de Asistencia Social, coordinado por el titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia;
 
 d. Comité de Cultura, coordinado por el Secretario de Cultura;
 
-e. Comité de Desarrollo Social, coordinado por el Secretario de Desarrollo Social y Regional;
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+e. Comité de Desarrollo Social, coordinado por el Secretario de Desarrollo Social y Humano;
 
 f. Comité de Educación, coordinado por el Secretario de Educación;
 
 g. Comité de Salud, coordinado por el Secretario de Salud;
 
-h. Comité de Trabajo, coordinado por el Director del Trabajo y Previsión Social, de la Secretaría de Gobierno;
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+h. Comité de Trabajo, coordinado por el Secretario de Trabajo y Previsión Social;
 
 i. Comité de Capacitación para el Trabajo, coordinado por el Director General del Instituto de Capacitación para el Trabajo;
 
@@ -667,7 +713,9 @@ j. Comité de Deporte, coordinado por el Director General del Instituto del Depo
 
 k. Comité de Turismo, coordinado por el Secretario de Turismo;
 
-l. Comité de Desarrollo Social y Comercial, coordinado por el Secretario de Desarrollo Industrial y Comercial;
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+l. Comité de Desarrollo Social y Comercial, coordinado por el Secretario de Desarrollo Económico
 
 m. Comité de Transporte, coordinado por el Director General del Instituto Estatal del Transporte;
 
@@ -792,3 +840,9 @@ P.O. 6 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 94 POR EL QUE "SE REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 2 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE".]
 
 Único. El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 305 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 9; EL PRIMER PÁRRAFO DEL ARTÍCULO 10; EL PRIMER PÁRRAFO DEL ARTÍCULO 13; LA FRACCIÓN VII DEL ARTÍCULO 15; EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y V DEL ARTÍCULO 16; EL PRIMER PÁRRAFO Y LA FRACCIÓN VII DEL ARTÍCULO 18; EL PRIMER PÁRRAFO DEL ARTÍCULO 21; LA FRACCIÓN III DEL ARTÍCULO 23; LA FRACCIÓN II AL ARTÍCULO 25; LAS FRACCIONES II Y XVI DEL ARTÍCULO 29; LOS INCISOS A, B, E, H Y I DE LA FRACCIÓN IV DEL ARTÍCULO 31, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 18; Y UNA FRACCIÓN XVII AL ARTÍCULO 29 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE".]
+
+Único. El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
