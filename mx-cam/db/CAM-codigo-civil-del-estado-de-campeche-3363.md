@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2017-12-21"
+last_updated: "2018-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -977,11 +977,13 @@ V. Variar algún otro nombre u otra circunstancia; y
 
 VI. Corregir algún dato esencial.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Art. 146.
 
-Si la rectificación únicamente implica la modificación de un nombre, de una fecha u otra circunstancia asentada en el acta de origen, sin alterar en modo alguno la filiación; deberá tramitarse, mediante solicitud por escrito que se presente ante la Dirección del Registro del Estado Civil, a la que se acompañarán en su caso las pruebas que sean pertinentes. Si la solicitud resultare procedente, se ordenará se haga la anotación correspondiente en el acta respectiva en la Oficialía en que se encuentre asentada el acta rectificada y en el duplicado que obre en el Archivo de la Dirección.
+Si la rectificación únicamente implica la modificación de una letra, un nombre, de una fecha u otra circunstancia asentada en el acta de origen, sin alterar en modo alguno la filiación; deberá tramitarse, mediante solicitud por escrito que se presente ante la Dirección del Registro del Estado Civil, a la que se acompañarán en su caso las pruebas que sean pertinentes. Si la solicitud resultare procedente, se ordenará se haga la anotación correspondiente en el acta respectiva en la Oficialía en que se encuentre asentada el acta rectificada y en el duplicado que obre en el Archivo de la Dirección.
+
+La rectificación o enmienda a las actas del Registro Civil se hará en un plazo no mayor de diez días hábiles.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
@@ -2699,9 +2701,9 @@ Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en e
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
-###### Art. 408-B.
+###### Art. 408
 
-Un cónyuge puede adoptar a los hijos del otro y ambos ejercerán la patria potestad, siempre que quien autoriza la adopción tenga el ejercicio exclusivo de dicha potestad.
+B (sic).- Un cónyuge puede adoptar a los hijos del otro y ambos ejercerán la patria potestad, siempre que quien autoriza la adopción tenga el ejercicio exclusivo de dicha potestad.
 
 Cuando se trate de hermanos, o de cualquier otra circunstancia que lo aconseje, el Juez puede autorizar la adopción de dos o más menores o incapacitados o menores e incapacitados, simultáneamente, a la misma persona o pareja de adoptantes.
 
@@ -16382,3 +16384,9 @@ P.O. 21 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 308 POR EL QUE “SE REFORMA EL ARTÍCULO 146 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+ÚNICO.- Este decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial del Estado.
