@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2018-08-30"
+last_updated: "2018-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -862,6 +862,26 @@ El Ejecutivo del Estado al otorgar, refrendar o modificar las concesiones para l
 ###### ARTICULO 45.
 
 En la concesión o permiso se indicará el nombre del titular, la clase de servicio para el que se otorga y, en su caso, la ruta para la que se expide, así como su vigencia y las características de los vehículos con los que se prestará el servicio.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+Los elementos de la concesión del servicio de transporte público se podrán modificar en cualquiera de los casos siguientes:
+
+I. El titular;
+
+II. La temporalidad de vigencia;
+
+III. El vehículo o equipo afecto a la concesión, que podrá ser sustituido, y
+
+IV. En caso de personas morales, el número de vehículos afectos a la concesión.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+Queda prohibido el cambio de modalidad, así como el cambio de área geográfica de adscripción para la que fue otorgada la concesión.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+
+La modificación de los elementos de la concesión será resuelta por el titular de la Secretaría y, en caso de resultar procedente, éste expedirá el título de novación correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2015)</small>
 
@@ -2842,6 +2862,14 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 30 DE AGOSTO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1054.- SE REFORMAN LOS ARTÍCULOS 46 Y 97 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1190.- SE ADICIONA AL ARTÍCULO 45 EL PÁRRAFO SEGUNDO CON LAS FRACCIONES I A IV, Y DOS PÁRRAFOS MÁS DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
