@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-95214"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-18"
-last_updated: "2017-09-29"
+last_updated: "2018-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSPECCION GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PUBLICA DEL ESTADO DE MEXICO
 
+NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 328, PUBLICADO EN LA G.G. DE 20 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+NOTA 2: DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO DÉCIMO DECRETO NÚMERO 328.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. 20 DE SEPTIEMBRE DE 2018, CUANDO EN OTROS ORDENAMIENTOS LEGALES, ADMINISTRATIVOS, DOCUMENTACIÓN O PAPELERÍA SE HAGA REFERENCIA A LA INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO SE ENTENDERÁ A LA UNIDAD DE ASUNTOS INTERNOS.
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE SEPTIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el jueves 18 de julio de 2013.
 
@@ -540,3 +542,45 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 328.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Crea el Organismo Público Descentralizado Denominado Inspección General de las Instituciones de Seguridad Pública del Estado de México, publicada el 18 de julio de 2013 en el Periódico Oficial “Gaceta del Gobierno”.
+
+CUARTO. Se abroga el Decreto que crea el Organismo Público Descentralizado de carácter estatal denominado Centro de Control de Confianza del Estado de México, publicado el 1 de diciembre de 2008 en el Periódico Oficial “Gaceta del Gobierno”.
+
+QUINTO. Se abroga el Decreto 42 de la “LVII” Legislatura del Estado de México por el que se modifica el Decreto que crea el Organismo Público descentralizado de carácter estatal, denominado Centro de Control de Confianza del Estado de México adscrito a la Secretaría General de Gobierno publicado el 19 de enero de 2010 en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEXTO. Se abroga la Ley que crea el Instituto Mexiquense de Seguridad y Justicia, publicada el 18 de julio de 2011, en el Periódico Oficial “Gaceta del Gobierno”.
+
+SÉPTIMO. Las dependencias y organismos auxiliares del Ejecutivo del Estado, en el ámbito de su competencia, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+OCTAVO. El Titular del Ejecutivo Estatal en un plazo no mayor a ciento ochenta días hábiles a la entrada en vigor del presente Decreto, realizará las adecuaciones necesarias a la reglamentación correspondiente.
+
+NOVENO. La Unidad de Asuntos Internos, el Centro de Control de Confianza y la Universidad Mexiquense de Seguridad, realizarán las adecuaciones reglamentarias interiores, así como las gestiones necesarias para dar cumplimiento a lo previsto en el presente Decreto.
+
+DÉCIMO. Cuando en otros ordenamientos legales, administrativos, documentación o papelería se haga referencia a la Inspección General de las Instituciones de Seguridad Pública del Estado de México se entenderá a la Unidad de Asuntos Internos.
+
+DÉCIMO PRIMERO. Cuando en otros ordenamientos legales, administrativos, documentación o papelería se haga referencia al Instituto Mexiquense de Seguridad y Justicia se entenderá a la Universidad Mexiquense de Seguridad.
+
+DÉCIMO SEGUNDO. Los recursos humanos, materiales y presupuestales de la Inspección General de las Instituciones de Seguridad Pública del Estado de México se transferirán a la Unidad de Asuntos Internos.
+
+DÉCIMO TERCERO. Los recursos humanos, materiales y presupuestales del Instituto Mexiquense de Seguridad y Justicia se transferirán a la Universidad Mexiquense de Seguridad.
+
+DÉCIMO CUARTO. Los derechos laborales adquiridos por los servidores públicos adscritos a la Inspección General de las Instituciones de Seguridad Pública del Estado de México al pasar a formar parte de la Unidad de Asuntos Internos permanecerán con las mismas condiciones.
+
+DÉCIMO QUINTO. Los derechos laborales adquiridos por los servidores públicos adscritos al Instituto Mexiquense de Seguridad y Justicia al pasar a formar parte de la Universidad Mexiquense de Seguridad, permanecerán con las mismas condiciones.
+
+DÉCIMO SEXTO. La Legislatura del Estado de México deberá destinar la partida presupuestal necesaria para el cumplimiento del presente Decreto.
+
+DÉCIMO SÉPTIMO. La Secretaría de Finanzas asignará recursos presupuestales para el cumplimiento del presente Decreto que serán programados por cada ejercicio en el Presupuesto de Egresos del Estado de México.
+
+DÉCIMO OCTAVO. El Ejecutivo Estatal y los municipios, respectivamente, deberán instalar los órganos colegiados a que se refiere el artículo 204 del presente Decreto, en un plazo no mayor de sesenta días naturales, a partir de la entrada en vigor del mismo.
+
+DÉCIMO NOVENO. Los procedimientos y demás actos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión, en el ámbito de sus respectivas competencias, por la Unidad de Asuntos Internos o la Comisión de Honor y Justicia de la Secretaría de Seguridad, de conformidad con la legislación vigente al momento de su instauración.
