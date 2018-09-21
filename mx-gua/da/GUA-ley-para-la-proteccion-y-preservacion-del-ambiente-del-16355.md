@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-preservacion-del-ambiente-del-16355"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-08"
-last_updated: "2017-10-26"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 8 de febrero de 2000.
 
@@ -77,8 +81,6 @@ Se considera de utilidad pública:
 
 I.- El establecimiento, protección y preservación de las áreas naturales protegidas y de las zonas de restauración ecológica;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 II.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2012)
 
 III.- Las declaratorias que impongan la conservación y preservación del medio ambiente y su aprovechamiento sustentable;
@@ -87,89 +89,127 @@ IV.- Los programas y acciones tendientes a mejorar la calidad del aire, suelo y 
 
 V.- La preservación de los sitios necesarios para asegurar el mantenimiento e incremento de los recursos genéticos, de la flora y fauna silvestre, frente al peligro de deterioro grave o de extinción.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE SEPTIEMBRE DE 2018]
 
 ###### Artículo 4o.
 
 Tratándose de definiciones y conceptos ambientales serán supletorias la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley de Aguas Nacionales y la Ley General de Desarrollo Forestal Sustentable.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 Para los efectos de esta Ley se entiende por:
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 I.- Actividad de emergencia: Acción o conjunto de acciones que están asociadas a la prevención, control o mitigación de daños causados o que pudieran ocasionarse con motivo de desastres naturales, accidentes o catástrofes;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 II.- Actividades riesgosas: Aquéllas que puedan causar daños a los ecosistemas y a la salud de la población y que no están consideradas como altamente riesgosas por la Federación, de conformidad con la normatividad aplicable y las normas oficiales mexicanas;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 III.- Aguas residuales: Las aguas de composición variada provenientes de las descargas de usos público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y en general, de cualquier uso, así como la mezcla de ellas;
 
-IV.- Alto valor ambiental: Potencial de factores bióticos y abióticos que interactúan en un ecosistema determinado y que propician una biodiversidad relevante o las condiciones para el desarrollo de la misma; así como para ayudar al abastecimiento de agua, regular el clima o proteger otros recursos naturales;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV.- Alto valor ambiental: Potencial de factores bióticos y abióticos que interactúan en un ecosistema determinado y que propician una biodiversidad relevante o las condiciones para el desarrollo de la misma; así como para ayudar al abastecimiento de agua, regular el clima o proteger otros recursos naturales;
 
 V.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VI.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2012)
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 VII.- Consejo consultivo ambiental: Grupo en el que participan investigadores, académicos, industriales, organizaciones ambientalistas y especialistas en materia ambiental; así como representantes de reconocido prestigio de los sectores social y privado, cuya función primordial es asesorar a las distintas autoridades en acciones de prevención, protección y mejoramiento del ambiente; asimismo, sus integrantes podrán opinar y proponer la formulación y ejecución de los programas ambientales del Estado o Municipio de que se trate;
 
-VIII.- Contaminación grave: Presencia en el ambiente de uno o más contaminantes cuyos niveles rebasen los parámetros de las normas oficiales mexicanas cuyo efecto cause o pueda causar un deterioro irreversible a los ecosistemas involucrados y/o cause un daño grave a la salud;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VIII.- Contaminación grave: Presencia en el ambiente de uno o más contaminantes cuyos niveles rebasen los parámetros de las normas oficiales mexicanas cuyo efecto cause o pueda causar un deterioro irreversible a los ecosistemas involucrados o cause un daño grave a la salud;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 IX.- Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 X.- Cuerpo receptor de jurisdicción estatal: Corriente o depósito natural de agua, presas, cauces, embalses creados por el hombre, redes de alcantarillado, colectores, emisores, canales, zanjas, drenes y humedales donde se descargan aguas residuales y que no están reservados a la Federación;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 XI.- Daño ambiental: El perjuicio que se ocasiona o que puede provocarse u ocasionarse a futuro, a los intereses particulares o colectivos, públicos o privados, sobre los elementos naturales que han sido sometidos a los efectos del ambiente deteriorado o en proceso de deterioro, que afectan tanto su calidad de vida como otras formas de vida;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 XII.- Desechos sólidos potencialmente peligrosos: Aquéllos que guardan un estado pasivo de peligrosidad potencialmente expuesto por su combinación con otros desechos o la fragmentación de sus componentes, cuyo manejo requiere el cuidado de su separación y disposición controlada;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 XIII.- Deterioro Ambiental: Es la alteración que sufren uno o varios elementos que conforman los ecosistemas, ante la presencia de un elemento ajeno a las características propias de los mismos;
 
 XIV.- Especie y poblaciones en riesgo: Aquéllas identificadas como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial, con arreglo a las disposiciones legales;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 XV.- Emergencia Ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 XVI.- Fondo ambiental: Mecanismo cuyo objetivo es financiar parcial o totalmente los proyectos y actividades orientados a la conservación, manejo y restauración de los recursos naturales y medio ambiente;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 XVII.- Hábitat: El sitio específico en un medio ambiente físico, ocupado por un organismo, por una población, por una especie o por comunidades de especies en un tiempo determinado;
 
-XVIII.- Norma técnica ambiental: Conjunto de reglas científicas o tecnológicas que expide el Instituto de Ecología del Estado con carácter obligatorio sujetándose a lo dispuesto en las leyes aplicables; cuya finalidad es establecer los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades o uso y destino de bienes de competencia estatal que causen o puedan causar desequilibrio ecológico o daño al ambiente y además que uniforme principios, criterios, políticas y estrategias en la materia;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVIII.- Norma técnica ambiental: Conjunto de reglas científicas o tecnológicas que expide el Ejecutivo del Estado con carácter obligatorio sujetándose a lo dispuesto en las leyes aplicables; cuya finalidad es establecer los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades o uso y destino de bienes de competencia estatal que causen o puedan causar desequilibrio ecológico o daño al ambiente y además que uniforme principios, criterios, políticas y estrategias en la materia;
 
 XIX.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2012)
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 XX.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 XXI.- Programa para prevención de accidentes: Esfuerzo integrado que comprende componentes, procedimientos y personal asignado para llevar a cabo todas las actividades de seguridad, preventivas y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación normal de la obra o actividad de que se trate;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XXII.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2012)
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 XXIII.- Residuos sólidos municipales: Aquellos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala, no considerados como peligrosos conforme a la normatividad ambiental vigente;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 XXIV.- Residuos sólidos no peligrosos: Aquellos que resultan de las actividades industriales y de servicios en gran escala no considerados como peligrosos conforme a la normatividad ambiental vigente;
 
-XXV.- Tratamiento de agua residual: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXV.- Tratamiento de agua residual: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado; y
 
 XXVI.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
+(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE SEPTIEMBRE DE 2018]
+
 ###### Artículo 5o.
 
 Son autoridades competentes para aplicar la presente Ley:
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 I.- El Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 II.- Los Ayuntamientos;
 
-III.- El Instituto de Ecología del Estado; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III.- La Secretaría de Medio Ambiente y Ordenamiento Territorial; y
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -182,8 +222,6 @@ Corresponde al Ejecutivo del Estado:
 I.- Formular, conducir y evaluar la política ambiental estatal;
 
 II.- Aplicar los instrumentos de política ambiental, así como la preservación y restauración del equilibrio ecológico y la protección al ambiente que se realice en bienes y zonas de jurisdicción estatal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -263,8 +301,6 @@ IX.- Aplicar las disposiciones jurídicas relativas a la prevención y control d
 
 X.- Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, con la participación que corresponda al Ejecutivo del Estado conforme a los convenios de coordinación que se celebren;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XI.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2012)
 
 XII.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales, siempre y cuando no se trate de facultades otorgadas a la Federación o al Estado;
@@ -311,9 +347,11 @@ XXVII.- Participar con la Federación en la integración del Sistema Nacional de
 
 XXVIII.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o al Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 8o.
 
-El Instituto de Ecología del Estado, se constituye como organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propios, y tendrá las siguientes atribuciones:
+La Secretaría de Medio Ambiente y Ordenamiento Territorial tendrá además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes:
 
 I.- Evaluar el impacto ambiental que pueda causar la realización de obras, actividades públicas o privadas que no se encuentran reservadas a la Federación y emitir la resolución correspondiente;
 
@@ -351,8 +389,6 @@ XVII.- Proponer al Ejecutivo del Estado la celebración de acuerdos y convenios 
 
 XVIII.- Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 9o.
@@ -369,7 +405,9 @@ IV.- Asesorar en asuntos de protección y defensa del ambiente;
 
 V.- Realizar auditorías ambientales y peritajes a las empresas o entidades públicas o privadas, respecto de los sistemas de explotación, almacenamiento, transporte, producción, transformación, comercialización, uso y disposición de desechos, compuestos o actividades que por su naturaleza constituyan un riesgo potencial para el ambiente, verificando los sistemas y dispositivos necesarios para el cumplimiento de la normatividad ambiental, así como las medidas y capacidad de las empresas o entidades para prevenir y actuar en caso de contingencias y emergencias ambientales;
 
-VI.- Ejecutar los programas de educación ambiental y de conciencia ecológica en coordinación con el Instituto de Ecología del Estado;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VI.- Ejecutar los programas de educación ambiental y de conciencia ecológica en coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
 VII.- Denunciar ante el Ministerio Público los actos u omisiones que impliquen la comisión de delitos, a efecto de proteger y defender el ambiente, así como dar seguimiento a las denuncias presentadas;
 
@@ -565,15 +603,11 @@ XV.- Los demás que señale la Ley General del Equilibrio Ecológico y la Protec
 
 #### SECCION PRIMERA. DE LA PLANEACION AMBIENTAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 16.
 
 En la planeación del desarrollo estatal será considerada la política ambiental que se establezca de conformidad con esta Ley y las demás disposiciones jurídicas aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -587,37 +621,25 @@ El Ejecutivo del Estado y los ayuntamientos en el proceso de planeación democr�
 
 #### SECCION SEGUNDA. DEL ORDENAMIENTO ECOLOGICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 19.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 20.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 21.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 22.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 23.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 24.
 
@@ -679,8 +701,6 @@ El titular del Poder Ejecutivo en coordinación con los ayuntamientos en el ámb
 
 #### SECCION CUARTA. DE LA REGULACION AMBIENTAL DE LOS ASENTAMIENTOS HUMANOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 26.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
@@ -691,7 +711,9 @@ El titular del Poder Ejecutivo en coordinación con los ayuntamientos en el ámb
 
 La evaluación del impacto ambiental es el procedimiento a través del cual se establecen las condiciones a que se sujetará la realización de obras y actividades públicas o privadas que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos.
 
-Requerirán previamente la autorización en materia de impacto ambiental del Instituto de Ecología del Estado, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Requerirán previamente la autorización en materia de impacto ambiental de la Secretaría de Medio Ambiente y Ordenamiento Territorial, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades:
 
 I.- Las que correspondan a asuntos de competencia estatal, que puedan causar desequilibrios ecológicos significativos, daños a la salud pública o a los ecosistemas, o rebasar los límites y condiciones establecidos en las disposiciones jurídicas relativas a la preservación del equilibrio ecológico y la protección al ambiente;
 
@@ -723,9 +745,11 @@ XII.- Las de exploración, explotación y beneficio de minerales y sustancias no
 
 El reglamento determinará las obras o actividades a que se refiere el artículo anterior, que por su ubicación y características no produzcan impactos ambientales y que por lo tanto no deban sujetarse al procedimiento de evaluación de impacto ambiental previsto en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 29.
 
-Corresponde al Instituto de Ecología del Estado la expedición de las autorizaciones de impacto ambiental en el Estado que resulten procedentes, conforme a las disposiciones de esta Ley y el reglamento que al efecto se expida, señalando las condiciones a que se sujetará la realización de las obras y actividades, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente.
+Corresponde a la Secretaría de Medio Ambiente y Ordenamiento Territorial la expedición de las autorizaciones de impacto ambiental en el Estado que resulten procedentes, conforme a las disposiciones de esta Ley y el reglamento que al efecto se expida, señalando las condiciones a que se sujetará la realización de las obras y actividades, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente.
 
 En los municipios, los ayuntamientos determinarán la dependencia o entidad de la administración pública municipal que expedirá la autorización de impacto ambiental sobre las obras y actividades a que se refiere el artículo 44 de esta Ley.
 
@@ -733,9 +757,11 @@ En los municipios, los ayuntamientos determinarán la dependencia o entidad de l
 
 Antes de iniciar la ejecución de los proyectos, quienes pretendan realizar cualquiera de las obras o actividades enumeradas en el artículo 27 deberán solicitar la autorización de impacto ambiental, acompañando a su escrito la información que señale el reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 31.
 
-Presentada la solicitud a que se refiere el artículo anterior, el Instituto de Ecología del Estado en un plazo de diez días hábiles, resolverá si los interesados someterán al procedimiento de evaluación de impacto ambiental la obra o actividad que corresponda, o en su caso, si el mismo no es necesario. Transcurrido el plazo señalado, sin que el Instituto de Ecología del Estado emita la comunicación correspondiente, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental.
+Presentada la solicitud a que se refiere el artículo anterior, la Secretaría de Medio Ambiente y Ordenamiento Territorial en un plazo de diez días hábiles, resolverá si los interesados someterán al procedimiento de evaluación de impacto ambiental la obra o actividad que corresponda, o en su caso, si el mismo no es necesario. Transcurrido el plazo señalado, sin que la Secretaría de Medio Ambiente y Ordenamiento Territorial emita la comunicación correspondiente, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental.
 
 En caso de que la resolución se refiera a la necesidad de evaluación de impacto ambiental, en la misma se establecerá la modalidad de estudio que corresponda, la que podrá ser general, intermedia y específica, en los términos del reglamento de esta Ley.
 
@@ -743,13 +769,17 @@ En caso de que la resolución se refiera a la necesidad de evaluación de impact
 
 Los efectos negativos que sobre el ambiente y los recursos naturales a que se refiere esta Ley, pudieran causar las obras o actividades de competencia estatal que no requieran someterse al procedimiento de evaluación de impacto ambiental a que se refiere la presente sección, estarán sujetas en lo conducente a las disposiciones de la misma, sus reglamentos, las normas oficiales mexicanas en materia ambiental, la legislación sobre recursos naturales que resulte aplicable, así como a través de los permisos, licencias, autorizaciones y concesiones que conforme a dicha normatividad se requieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 33.
 
-Presentada la solicitud de impacto ambiental, el Instituto de Ecología del Estado podrá requerir a los interesados para que aclaren su solicitud de impacto ambiental o para que presenten información adicional, cuando:
+Presentada la solicitud de impacto ambiental, la Secretaría de Medio Ambiente y Ordenamiento Territorial podrá requerir a los interesados para que aclaren su solicitud de impacto ambiental o para que presenten información adicional, cuando:
 
 I.- Se hayan omitido requisitos o documentos que deban anexarse a la manifestación de impacto ambiental, de conformidad con el reglamento de esta Ley; y
 
-II.- Se realicen modificaciones al proyecto de la obra, las que deberán hacerse del conocimiento del Instituto de Ecología del Estado.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II.- Se realicen modificaciones al proyecto de la obra, las que deberán hacerse del conocimiento de la Secretaría de Medio Ambiente y Ordenamiento Territorial.
 
 El requerimiento se deberá hacer dentro de los cinco días hábiles siguientes a la presentación de la manifestación de impacto ambiental o de las modificaciones al proyecto de la obra; los interesados contarán con un plazo no mayor de diez días hábiles siguientes a la notificación correspondiente para dar cumplimiento al requerimiento efectuado, bajo el apercibimiento que de no ser así, será negada la autorización conforme a la fracción III del artículo 41.
 
@@ -771,9 +801,11 @@ d) El capítulo de medidas preventivas y correctivas, contenido en la manifestac
 
 II.- En los casos de emisiones, descargas y manejo de residuos y sustancias cuya autorización no corresponda al ámbito federal que impliquen un riesgo a la salud y bienestar de las personas, de los ecosistemas del medio ambiente en general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 35.
 
-El Instituto de Ecología del Estado notificará a los ayuntamientos, según corresponda, que ha recibido la manifestación de impacto ambiental respectiva, a fin de que éstos manifiesten lo que a su derecho convenga en los siguientes casos:
+La Secretaría de Medio Ambiente y Ordenamiento Territorial notificará a los ayuntamientos, según corresponda, que ha recibido la manifestación de impacto ambiental respectiva, a fin de que éstos manifiesten lo que a su derecho convenga en los siguientes casos:
 
 I.- Obras o actividades derivados de los planes y programas regionales y estatales, en materia de desarrollo urbano, turístico, de vivienda, agropecuarios, sectoriales de industria, así como aquéllos que en general prevean el aprovechamiento masivo de los recursos naturales del Estado;
 
@@ -783,27 +815,37 @@ III.- Actividades consideradas riesgosas en los términos de esta Ley.
 
 El Ayuntamiento deberá emitir su opinión en un término de cinco días hábiles, pasado éste sin que haya respondido, se entenderá que no existe objeción respecto de la realización de la obra o actividad.
 
-La autorización que expida el Instituto de Ecología del Estado no obligará en forma alguna a las autoridades municipales, dependencias federales y estatales para expedir las autorizaciones que les correspondan en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La autorización que expida la Secretaría de Medio Ambiente y Ordenamiento Territorial no obligará en forma alguna a las autoridades municipales, dependencias federales y estatales para expedir las autorizaciones que les correspondan en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 36.
 
-Una vez presentada la manifestación de impacto ambiental, o en su caso, el estudio de riesgo o información adicional, el Instituto de Ecología del Estado iniciará el procedimiento de evaluación para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su reglamento y las normas oficiales mexicanas aplicables e integrará el expediente respectivo en un plazo no mayor de diez días hábiles.
+Una vez presentada la manifestación de impacto ambiental, o en su caso, el estudio de riesgo o información adicional, la Secretaría de Medio Ambiente y Ordenamiento Territorial iniciará el procedimiento de evaluación para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su reglamento y las normas oficiales mexicanas aplicables e integrará el expediente respectivo en un plazo no mayor de diez días hábiles.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 37.
 
-El Instituto de Ecología del Estado podrá solicitar aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental que le sea presentada, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso la suspensión podrá exceder el plazo de sesenta días hábiles, contados a partir de que ésta sea declarada por el Instituto de Ecología del Estado, siempre y cuando le sea entregada la información requerida.
+La Secretaría de Medio Ambiente y Ordenamiento Territorial podrá solicitar aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental que le sea presentada, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso la suspensión podrá exceder el plazo de sesenta días hábiles, contados a partir de que ésta sea declarada por la Secretaría de Medio Ambiente y Ordenamiento Territorial, siempre y cuando le sea entregada la información requerida.
 
-Excepcionalmente, cuando por la complejidad y dimensiones de una obra o actividad el Instituto de Ecología del Estado, requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por sesenta días hábiles adicionales, siempre que se justifique conforme a lo dispuesto en el reglamento de esta Ley.
+Excepcionalmente, cuando por la complejidad y dimensiones de una obra o actividad la Secretaría de Medio Ambiente y Ordenamiento Territorial, requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por sesenta días hábiles adicionales, siempre que se justifique conforme a lo dispuesto en el reglamento de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 38.
 
-Una vez que el Instituto de Ecología del Estado integre el expediente de la solicitud de impacto ambiental, pondrá éste a disposición del público con el fin de que pueda ser consultado por cualquier persona.
+Una vez que la Secretaría de Medio Ambiente y Ordenamiento Territorial integre el expediente de la solicitud de impacto ambiental, pondrá éste a disposición del público con el fin de que pueda ser consultado por cualquier persona.
 
 Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial y la confidencialidad de la información comercial que aporte el interesado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 39.
 
-El Instituto de Ecología del Estado a solicitud de cualquier persona de la comunidad de que se trate, podrá llevar a cabo una consulta pública, conforme a las bases que se establezcan en el reglamento de esta Ley, cuando se trate de los siguientes casos:
+La Secretaría de Medio Ambiente y Ordenamiento Territorial, a solicitud de cualquier persona de la comunidad de que se trate, podrá llevar a cabo una consulta pública, conforme a las bases que se establezcan en el reglamento de esta Ley, cuando se trate de los siguientes casos:
 
 I.- Aquéllos que prevean el aprovechamiento masivo de los recursos naturales del Estado;
 
@@ -817,17 +859,23 @@ V.- Plantas de tratamiento de aguas residuales destinadas a la prestación de un
 
 VI.- Los demás que se señalen en el reglamento.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 40.
 
-Para la autorización de las obras y actividades a que se refiere el artículo 27, el Instituto de Ecología del Estado se sujetará a lo que establezcan los ordenamientos ecológicos, las declaratorias de áreas naturales protegidas y las demás disposiciones jurídicas que resulten aplicables.
+Para la autorización de las obras y actividades a que se refiere el artículo 27, la Secretaría de Medio Ambiente y Ordenamiento Territorial se sujetará a lo que establezcan los ordenamientos ecológicos, las declaratorias de áreas naturales protegidas y las demás disposiciones jurídicas que resulten aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 41.
 
-Agotado el procedimiento de evaluación de impacto ambiental, el Instituto de Ecología del Estado, en un plazo no mayor de treinta días hábiles, emitirá debidamente fundada y motivada la resolución correspondiente, en la que podrá:
+Agotado el procedimiento de evaluación de impacto ambiental, la Secretaría de Medio Ambiente y Ordenamiento Territorial, en un plazo no mayor de treinta días hábiles, emitirá debidamente fundada y motivada la resolución correspondiente, en la que podrá:
 
 I.- Autorizar la realización de la obra o actividad de que se trate, en los términos solicitados;
 
-II.- Autorizar de manera condicionada la obra o actividad de que se trate a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente. Cuando se trate de autorizaciones condicionadas, el Instituto de Ecología del Estado señalará los requerimientos que deben observarse en la realización de la obra o actividad prevista; o
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II.- Autorizar de manera condicionada la obra o actividad de que se trate a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente. Cuando se trate de autorizaciones condicionadas, la Secretaría de Medio Ambiente y Ordenamiento Territorial señalará los requerimientos que deben observarse en la realización de la obra o actividad prevista; o
 
 III.- Negar la autorización solicitada, cuando:
 
@@ -845,11 +893,15 @@ e) Se fundamente en datos o elementos científicos en virtud de que en los estud
 
 La autoridad podrá exigir el otorgamiento de una fianza, previa a la expedición de la autorización, para garantizar el cumplimiento de las condiciones que en cada caso se establezcan.
 
-La resolución del Instituto de Ecología del Estado sólo se referirá a los aspectos ambientales de las obras y actividades de que se trate.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La resolución de la Secretaría de Medio Ambiente y Ordenamiento Territorial sólo se referirá a los aspectos ambientales de las obras y actividades de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 42.
 
-Las personas que presten servicios de impacto ambiental serán responsables ante el Instituto de Ecología del Estado de las manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán bajo protesta de decir verdad que en ellos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
+Las personas que presten servicios de impacto ambiental serán responsables ante la Secretaría de Medio Ambiente y Ordenamiento Territorial de las manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán bajo protesta de decir verdad que en ellos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
 
 Asimismo, las manifestaciones de impacto ambiental y los estudios de riesgo podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales; en este caso, la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
 
@@ -857,7 +909,9 @@ Asimismo, las manifestaciones de impacto ambiental y los estudios de riesgo podr
 
 Cuando las obras o actividades señaladas en el artículo 27 de esta Ley requieran, además de la autorización en materia de impacto ambiental, contar con autorización de inicio de obra, se deberá verificar que el responsable cuente con la autorización de impacto ambiental expedida en términos de lo dispuesto en este ordenamiento.
 
-El Instituto de Ecología del Estado, a solicitud del promovente, integrará a la autorización en materia de impacto ambiental, los demás permisos, licencias y autorizaciones de su competencia, que se requieran para la realización de las obras y actividades a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría de Medio Ambiente y Ordenamiento Territorial, a solicitud del promovente, integrará a la autorización en materia de impacto ambiental, los demás permisos, licencias y autorizaciones de su competencia, que se requieran para la realización de las obras y actividades a que se refiere este artículo.
 
 ###### Artículo 44.
 
@@ -897,25 +951,27 @@ I.- Las obras y actividades de emergencia que sean necesarias para prevenir o pa
 
 II.- Las obras o actividades que por su magnitud, ubicación, condiciones de su entorno y calidad en sus procesos de producción, previo análisis de la solicitud a que se refiere el artículo 27, se considere nula o poco significativa la generación de impactos; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 III.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 47.
 
 En lo posible, la evaluación de impacto ambiental deberá realizarse de manera integral en forma tal que contemple la totalidad de los procesos, elementos, etapas, actividades, servicios y giros a evaluar, por unidad general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 48.
 
-A petición expresa del interesado, el Instituto de Ecología del Estado podrá expedir la autorización del control de emisiones contaminantes para obras o actividades en proceso u operación, que no generen impactos ambientales significativos.
+A petición expresa del interesado, la Secretaría de Medio Ambiente y Ordenamiento Territorial podrá expedir la autorización del control de emisiones contaminantes para obras o actividades en proceso u operación, que no generen impactos ambientales significativos.
 
-Para efectos de lo anterior, el Instituto de Ecología del Estado requerirá al interesado en un plazo no mayor de cinco días hábiles, contados a partir de la presentación de la solicitud que presente la información adicional necesaria a fin de evaluar el impacto ambiental de la obra o actividad de que se trate, siempre y cuando, la misma sea de competencia estatal.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-Recibida la información adicional, el Instituto de Ecología del Estado procederá a dictar la resolución procedente, conforme a lo previsto en el artículo 41 de esta Ley.
+Para efectos de lo anterior, la Secretaría de Medio Ambiente y Ordenamiento Territorial requerirá al interesado en un plazo no mayor de cinco días hábiles, contados a partir de la presentación de la solicitud, que presente la información adicional necesaria a fin de evaluar el impacto ambiental de la obra o actividad de que se trate, siempre y cuando, la misma sea de competencia estatal.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Recibida la información adicional, la Secretaría de Medio Ambiente y Ordenamiento Territorial procederá a dictar la resolución procedente, conforme a lo previsto en el artículo 41 de esta Ley.
 
 En los casos que resulte procedente, la autorización del control de emisiones, hará constar únicamente el cumplimiento de la viabilidad en la materia, sin perjuicio de las funciones y atribuciones que correspondan a las autoridades competentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -953,8 +1009,6 @@ Los proyectos de normas técnicas ambientales deberán ser remitidos al Consejo 
 
 En caso de recibirse propuestas, se tomarán en consideración conforme a las disposiciones del reglamento de la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 54.
@@ -962,8 +1016,6 @@ En caso de recibirse propuestas, se tomarán en consideración conforme a las di
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, vigilará el cumplimiento de las normas técnicas ambientales.
 
 #### SECCION SEPTIMA. DE LA VIGILANCIA DE LAS NORMAS OFICIALES MEXICANAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -983,8 +1035,6 @@ III.- En la prevención y el control de la contaminación generada por la emisi�
 
 Los productores, empresas y organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental, obteniendo con ello la certificación correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 57.
@@ -1001,23 +1051,17 @@ III.- Realizar acciones que induzcan a las empresas a alcanzar los objetivos de 
 
 Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 59.
 
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato celebrará convenios con los productores, empresas u organizaciones empresariales para el cumplimiento de las actividades derivadas del esquema de la auditoría ambiental.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 60.
 
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato desarrollará programas dirigidos a fomentar la realización de auditorías ambientales, aplicando para tal efecto términos de referencia que indiquen la metodología y criterios que se requieran para lograr la protección al ambiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1026,8 +1070,6 @@ La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuat
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato pondrá a disposición de quienes resulten o puedan resultar directamente afectados, los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan.
 
 En todo caso deben observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1039,29 +1081,21 @@ El padrón de prestadores de servicios ambientales tendrá el carácter de regis
 
 Las auditorias ambientales se realizarán preferentemente por personas físicas o morales que estén registrados en el padrón de prestadores de servicios ambientales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato determinará con base en el reglamento respectivo, los requisitos que se deberán cubrir para inscribirse y permanecer en el padrón de prestadores de servicios ambientales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 63.
 
-La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato pondrá a disposición del Instituto de Ecología del Estado el padrón de prestadores de servicios ambientales, en materia de auditoría ambiental, para el debido cumplimiento de las funciones que le señala esta Ley.
+La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato pondrá a disposición de la Secretaría de Medio Ambiente y Ordenamiento Territorial el padrón de prestadores de servicios ambientales en materia de auditoría ambiental, para el debido cumplimiento de las funciones que le señala esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012) (F. DE E., P.O. 12 DE OCTUBRE DE 2012)
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 64.
 
-Las personas que se encuentren laborando en el Instituto de Ecología del Estado, la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, o en la administración pública municipal en el área ambiental, no podrán registrarse en el padrón de prestadores de servicios ambientales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las personas que se encuentren laborando en la Secretaría de Medio Ambiente y Ordenamiento Territorial, la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato o en la administración pública municipal en el área ambiental, no podrán registrarse en el padrón de prestadores de servicios ambientales.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1083,13 +1117,11 @@ El Ejecutivo del Estado promoverá la transformación del desarrollo de las acti
 
 El Ejecutivo del Estado y los ayuntamientos promoverán la incorporación de contenidos de carácter ecológico en los programas del sistema educativo estatal, especialmente en los niveles básicos y medio superior, así como en las actividades de investigación, difusión, extensión y vinculación respectivas. Asimismo, fomentarán la realización de acciones de concientización y cultura que propicien el fortalecimiento de la educación ambiental de la población.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 69.
 
-El Instituto de Ecología del Estado y la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato con la participación de las autoridades competentes, promoverán ante las instituciones de educación superior en el Estado y los organismos dedicados a la investigación científica y tecnológica, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el Estado. Así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación y proteger los ecosistemas de la entidad.
+La Secretaría de Medio Ambiente y Ordenamiento Territorial y la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, con la participación de las autoridades competentes, promoverá ante las instituciones de educación superior en el Estado y los organismos dedicados a la investigación científica y tecnológica, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el Estado. Así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación y proteger los ecosistemas de la entidad.
 
 ###### Artículo 70.
 
@@ -1117,49 +1149,33 @@ El Estado y los municipios establecerán sistemas de manejo ambiental y ahorro e
 
 #### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 74.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 75.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 76.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 77.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 78.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 79.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 80.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 81.
 
@@ -1167,97 +1183,65 @@ El Estado y los municipios establecerán sistemas de manejo ambiental y ahorro e
 
 #### SECCION SEGUNDA. DE LAS DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACION Y VIGILANCIA DE AREAS NATURALES PROTEGIDAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 82.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 83.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 84.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 85.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 86.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 87.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 88.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 89.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 90.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 91.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 92.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 93.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 94.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 95.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 96.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 97.
 
@@ -1341,8 +1325,6 @@ VII.- La ordenación forestal no reservada a la Federación, de las cuencas hidr
 
 VIII.- Las actividades de extracción de materias del subsuelo, las excavaciones y todas aquéllas acciones que alteren la cubierta y suelos forestales, no reservadas a la Federación; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 IX.- La formulación de los programas de desarrollo urbano y de ordenamiento ecológico territorial.
@@ -1363,8 +1345,6 @@ Los ayuntamientos promoverán la introducción y generalización de prácticas d
 
 Los ayuntamientos podrán fijar restricciones de carácter ambiental, tanto al uso de suelo como a las autorizaciones de construcción, así como las que fueren necesarias para la aplicación y cumplimiento de las disposiciones de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 107.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2012)
@@ -1375,17 +1355,27 @@ Los ayuntamientos podrán fijar restricciones de carácter ambiental, tanto al u
 
 ### CAPITULO PRIMERO. DEL REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 341, PUBLICADO EN EL P.O. DE 21 DE SEPTIEMBRE DE 2018, PÁGINA 37.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 108.
 
-El Ejecutivo del Estado, a través del Instituto de Ecología del Estado, y con la colaboración de los Ayuntamientos, integrará un registro de fuentes, emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determinen las disposiciones jurídicas aplicables.
+El Ejecutivo del Estado, a través de la Secretaría de Medio Ambiente y Ordenamiento Territorial y con la colaboración de los Ayuntamientos, integrará un registro de fuentes, emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determinen las disposiciones jurídicas aplicables.
 
-La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante el Instituto y, en su caso, ante los Ayuntamientos.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría de Medio Ambiente y Ordenamiento Territorial y, en su caso, ante los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información periódica con los datos desagregados por sustancia y por fuente, y documentos necesarios para la integración del registro, anexando nombre y dirección de sus establecimientos.
 
-La información registrada será pública y tendrá efectos declarativos. El Instituto de Ecología del Estado permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y las difundirá de manera periódica.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La información registrada será pública y tendrá efectos declarativos. La Secretaría de Medio Ambiente y Ordenamiento Territorial permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y la difundirá de manera periódica.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 La información contenida en el registro será útil además, para efectos de coadyuvar con la autoridad ambiental federal, en la integración del registro de emisiones y transferencia de contaminantes a que se refiere el artículo 109 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
@@ -1447,8 +1437,6 @@ En materia de prevención y control de la contaminación atmosférica, compete a
 
 I.- Controlar la contaminación del aire en los bienes y zonas de jurisdicción municipal, así como en fuentes fijas que funcionen como establecimientos comerciales o de servicios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 II.- Aplicar los criterios generales para la protección de la atmósfera, en los programas de desarrollo urbano y de ordenamiento ecológico territorial de su competencia, definiendo las zonas en que sea permitida la instalación de industrias;
@@ -1483,55 +1471,89 @@ V.- Ejercer las demás atribuciones que les confiera esta Ley y sus reglamentos.
 
 #### SECCION SEGUNDA. DE LA EMISION DE CONTAMINANTES GENERADOS POR FUENTES FIJAS
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 114.
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción estatal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas, se requerirá autorización del Instituto de Ecología del Estado.
-
-Para obtener la autorización a que se refiere este artículo, los responsables de las fuentes fijas deberán presentar solicitud por escrito acompañada de la información y documentación que señalen las disposiciones del Reglamento que al efecto se expida.
-
-La información a que se refiere este artículo deberá presentarse en el formato que determine el Instituto de Ecología del Estado, quien podrá requerir la información adicional o complementaria que considere necesaria y verificar en cualquier momento la veracidad de la misma.
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción estatal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas, se requerirá autorización de la Secretaría de Medio Ambiente y Ordenamiento Territorial.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
+Para obtener la autorización a que se refiere este artículo, los responsables de las fuentes fijas deberán presentar solicitud por escrito acompañada de la información y documentación que señalen las disposiciones del Reglamento que al efecto se expida.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La información a que se refiere este artículo deberá presentarse en el formato que determine la Secretaría de Medio Ambiente y Ordenamiento Territorial, quien podrá requerir la información adicional o complementaria que considere necesaria y verificar en cualquier momento la veracidad de la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 115.
 
-Una vez recibida la información a que se refiere el artículo que antecede e integrado el expediente, el Instituto de Ecología del Estado fundada y motivadamente otorgará o negará la autorización correspondiente, dentro del plazo de treinta días hábiles contados a partir de la fecha en que se presente toda la información requerida. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que se ha negado la autorización solicitada.
+Una vez recibida la información a que se refiere el artículo que antecede e integrado el expediente, la Secretaría de Medio Ambiente y Ordenamiento Territorial fundada y motivadamente otorgará o negará la autorización correspondiente, dentro del plazo de treinta días hábiles contados a partir de la fecha en que se presente toda la información requerida. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que se ha negado la autorización solicitada.
 
-De otorgarse la autorización, el Instituto de Ecología del Estado deberá señalar en la licencia correspondiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+De otorgarse la autorización, la Secretaría de Medio Ambiente y Ordenamiento Territorial, deberá señalar en la licencia correspondiente:
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 I.- Los límites máximos permisibles de emisión por tipo de contaminante a que deberá sujetarse la fuente autorizada, en los casos en que por sus particularidades en sus procesos o características especiales de construcción, no puedan encuadrarse dentro de la normatividad aplicable;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 II.- La periodicidad con que deberá llevarse a cabo la medición y el monitoreo de sus emisiones;
 
-III.- La periodicidad con que deberá remitirse al Instituto de Ecología del Estado el inventario de emisiones;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+III.- La periodicidad con que deberá remitirse a la Secretaría de Medio Ambiente y Ordenamiento Territorial el inventario de emisiones;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 IV.- Las medidas y acciones que habrán de desarrollar los responsables de las fuentes fijas, para prevenir y controlar la contaminación de la atmósfera, pudiendo ser las siguientes:
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 a) Instalar equipos o sistemas de control de emisiones y realizar monitoreos de las mismas, para mantenerlas por debajo de los niveles máximos permisibles para cada uno de los contaminantes emitidos a la atmósfera, de acuerdo a lo señalado en las normas oficiales mexicanas y demás disposiciones legales aplicables;
 
-b) Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine el Instituto de Ecología del Estado;
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+b) Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría de Medio Ambiente y Ordenamiento Territorial;
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 c) Aplicar la mejor tecnología disponible para reducir y controlar sus emisiones y asegurar una calidad del aire satisfactoria para el bienestar de la población y el mantenimiento del equilibrio ecológico;
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 d) Instalar plataformas y puertos de muestreo en las chimeneas o puntos de emisión;
 
-e) Efectuar el monitoreo perimetral de las emisiones contaminantes a la atmósfera en los periodos que determine el Instituto de Ecología del Estado, cuando la fuente de que se trate se localice en zonas urbanas, cuando colinde con Áreas Naturales Protegidas, o cuando por sus características de operación o por sus materias primas, productos o subproductos puedan causar grave deterioro al ambiente;
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-f) Llevar y mantener actualizada una bitácora de sus procesos industriales y una de operación y mantenimiento de los equipos utilizados para el control de las emisiones, de acuerdo a los formatos emitidos por el Instituto de Ecología del Estado;
+e) Efectuar el monitoreo perimetral de las emisiones contaminantes a la atmósfera en los periodos que determine la Secretaría de Medio Ambiente y Ordenamiento Territorial, cuando la fuente de que se trate se localice en zonas urbanas, cuando colinde con Áreas Naturales Protegidas, o cuando por sus características de operación o por sus materias primas, productos o subproductos puedan causar grave deterioro al ambiente;
 
-g) Dar aviso anticipado al Instituto de Ecología del Estado del inicio de operaciones de sus procesos, en el caso de paros programados, y de inmediato en el caso de que éstos sean circunstanciales, si ellos pueden provocar contaminación;
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-h) Avisar de inmediato al Instituto de Ecología del Estado en el caso de falla del equipo de control para que éste determine lo conducente;
+f) Llevar y mantener actualizada una bitácora de sus procesos industriales y una de operación y mantenimiento de los equipos utilizados para el control de las emisiones, de acuerdo a los formatos emitidos por la Secretaría de Medio Ambiente y Ordenamiento Territorial;
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+g) Dar aviso anticipado a la Secretaría de Medio Ambiente y Ordenamiento Territorial del inicio de operaciones de sus procesos, en el caso de paros programados, y de inmediato en el caso de que éstos sean circunstanciales, si ellos pueden provocar contaminación;
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+h) Avisar de inmediato a la Secretaría de Medio Ambiente y Ordenamiento Territorial en el caso de falla del equipo de control para que éste determine lo conducente;
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 i) Las medidas que deberán efectuarse en caso de contingencias;
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 j) Establecer una franja perimetral de amortiguamiento de la contaminación generada, de acuerdo a las medidas de mitigación consideradas en la autorización de impacto ambiental; y
 
-V.- Las demás que establezca esta Ley o las disposiciones que de ella se deriven.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V.- Las demás que establezca esta Ley o las disposiciones que de ella se deriven.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1553,21 +1575,31 @@ Los propietarios o poseedores de vehículos automotores que circulen en el terri
 
 I.- Realizar el mantenimiento regular de sus vehículos automotores a efecto de mantenerlos en buenas condiciones de funcionamiento y dentro de los límites de emisiones permitidos en la normatividad aplicable;
 
-II.- Someter sus vehículos automotores a la verificación de emisiones contaminantes, en los centros de verificación autorizados, dentro del periodo que les corresponda, en los términos del Programa Estatal de Verificación Vehicular que para el efecto expida el Instituto de Ecología del Estado; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II.- Someter sus vehículos automotores a la verificación de emisiones contaminantes, en los centros de verificación autorizados, dentro del periodo que les corresponda, en los términos del Programa Estatal de Verificación Vehicular que para el efecto expida la Secretaría de Medio Ambiente y Ordenamiento Territorial; y
 
 III.- Observar las medidas y restricciones que las autoridades competentes dicten para prevenir y controlar emergencias y contingencias ambientales, así como para mejorar la vialidad.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 118.
 
-En materia de prevención y control de la contaminación atmosférica producida por fuentes móviles, el Instituto de Ecología del Estado tendrá las siguientes atribuciones:
+En materia de prevención y control de la contaminación atmosférica producida por fuentes móviles, la Secretaría de Medio Ambiente y Ordenamiento Territorial tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 I.- Regular el establecimiento y operación de sistemas y programas de verificación de emisiones de vehículos automotores en circulación;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 II.- Autorizar el establecimiento, registro, funcionamiento y control de los centros de verificación vehicular del Estado;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 III.- Expedir anualmente el Programa Estatal de Verificación Vehicular; y
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 IV.- Las demás que le correspondan de conformidad con este ordenamiento y demás disposiciones aplicables.
 
@@ -1679,15 +1711,15 @@ La realización de actividades consideradas como no altamente riesgosas para el 
 
 Las personas físicas o morales que realicen actividades consideradas como no altamente riesgosas, deberán observar los lineamientos, medidas preventivas, correctivas, de control y mitigación, así como utilizar sistemas, procesos, instalaciones, equipos y materiales que prevén las normas oficiales mexicanas y en su caso, las normas técnicas ambientales emitidas por la autoridad competente, con el objeto de prevenir y controlar accidentes que puedan afectar la integridad de las personas, sus bienes o el ambiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 132.
 
-El Instituto de Ecología del Estado establecerá la clasificación y listado de las actividades consideradas como no altamente riesgosas, en virtud de las características de las sustancias involucradas en los procesos, así como sus volúmenes, manejo, almacenamiento, transporte y vulnerabilidad de los equipos.
+La Secretaría de Medio Ambiente y Ordenamiento Territorial establecerá la clasificación y listado de las actividades consideradas como no altamente riesgosas, en virtud de las características de las sustancias involucradas en los procesos, así como sus volúmenes, manejo, almacenamiento, transporte y vulnerabilidad de los equipos.
 
 Se exceptuarán de la regulación estatal las actividades comprendidas en los listados de actividades clasificadas como altamente riesgosas emitidas por la Federación.
 
 El respectivo listado deberá ser publicado en el Periódico Oficial del Gobierno del Estado y en el diario de mayor circulación en la Entidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1815,13 +1847,11 @@ VII.- Impulsar la investigación y promover la educación ambiental en los diver
 
 VIII.- Opinar sobre los proyectos de normas técnicas ambientales que se sometan a su consideración.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 149.
 
-En la integración de los Consejos Consultivos Ambientales podrán participar el Instituto de Ecología del Estado y la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, asimismo se conformarán preferentemente con la representación de un titular y un suplente de los siguientes sectores:
+En la integración de los Consejos Consultivos Ambientales podrán participar la Secretaría de Medio Ambiente y Ordenamiento Territorial y la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, asimismo se conformarán preferentemente con la representación de un titular y un suplente de los siguientes sectores:
 
 I.- Investigación;
 
@@ -1849,9 +1879,11 @@ El funcionamiento y organización de los Consejos Consultivos Ambientales se reg
 
 ### CAPITULO TERCERO. DEL SISTEMA ESTATAL DE INFORMACION AMBIENTAL
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 152.
 
-El Ejecutivo del Estado establecerá y coordinará a través del Instituto de Ecología del Estado, el Sistema Estatal de Información Ambiental que se integrará con los datos e información que generen las dependencias y entidades de la administración pública, estatal y municipal, que realicen funciones en la materia; además de toda aquella información de índole ambiental recopilada de cualquier fuente y la proporcionada por las instituciones de investigación y educación superior en el Estado.
+El Ejecutivo del Estado establecerá y coordinará a través de la Secretaría de Medio Ambiente y Ordenamiento Territorial, el Sistema Estatal de Información Ambiental que se integrará con los datos e información que generen las dependencias y entidades de la administración pública, estatal y municipal, que realicen funciones en la materia; además de toda aquella información de índole ambiental recopilada de cualquier fuente y la proporcionada por las instituciones de investigación y educación superior en el Estado.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -1859,11 +1891,11 @@ El Ejecutivo del Estado establecerá y coordinará a través del Instituto de Ec
 
 Los Ayuntamientos y sus Consejos Consultivos Ambientales, emitirán informes ambientales en forma anual, mismos que serán dados a conocer a la ciudadanía en general para su conocimiento y a las autoridades ambientales del Estado como insumo para la formulación y ejecución de la política ambiental de la Entidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 154.
 
-El Ejecutivo del Estado a través del Instituto de Ecología del Estado, integrará bianualmente un informe ambiental del Estado, en el que se dé a conocer el estado que guardan las políticas ambientales de la Entidad. Dicho informe deberá incluir la siguiente información:
+El Ejecutivo del Estado a través de la Secretaría de Medio Ambiente y Ordenamiento Territorial integrará bianualmente un informe ambiental del Estado, en el que se dé a conocer el estado que guardan las políticas ambientales de la Entidad. Dicho informe deberá incluir la siguiente información:
 
 I.- Recursos naturales;
 
@@ -1883,33 +1915,23 @@ VI.- Prospectiva ambiental.
 
 El informe bianual deberá publicarse en el Periódico Oficial del Gobierno del Estado, durante el mes de marzo siguiente al que corresponda y difundirse en todos los sectores de la sociedad para su conocimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 156.
 
-Toda persona tendrá derecho a que se ponga a su disposición la información ambiental que solicite, en los términos previstos por esta Ley. En su caso, los gastos que se generen correrán por cuenta del solicitante.
+Toda persona tendrá derecho a que se ponga a su disposición la información ambiental que solicite, en los términos previstos por esta Ley, la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato, y las demás disposiciones jurídicas aplicables.
 
 Para los efectos de lo dispuesto en la presente Ley, se considerará información ambiental, cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades ambientales en materia de agua, aire, suelo, flora, fauna y recursos naturales en general, así como sobre las actividades o medidas que les afecten o puedan afectarles.
 
-Toda petición de información ambiental deberá realizarse por escrito, especificando claramente la información que se solicita y los motivos de la petición. Los solicitantes deberán identificarse indicando su nombre o razón social y domicilio.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 157.
 
-Las autoridades negarán la entrega de información ambiental cuando:
-
-I.- Se considere por disposición legal que la información es confidencial o que por su propia naturaleza su difusión afecta la seguridad del Estado;
-
-II.- Se trate de información relativa a asuntos que son materia de procedimientos judiciales o de inspección y vigilancia pendientes de resolución;
-
-III.- Se trate de información aportada por terceros cuando los mismos no estén obligados por disposición legal a proporcionarla; o
-
-IV.- Se trate de información sobre inventarios e insumos y tecnologías de proceso, incluyendo la descripción del mismo.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 158.
 
-La autoridad ambiental deberá responder por escrito a los solicitantes de información ambiental, en un plazo no mayor de veinte días a partir de la recepción de la petición respectiva. En caso de que la autoridad conteste negativamente a la solicitud, deberá señalar las razones que motivaron su determinación.
-
-Si transcurrido el plazo establecido en el párrafo anterior la autoridad no emite su respuesta por escrito, la petición se entenderá resuelta en sentido negativo para el promovente.
-
-La autoridad ambiental, dentro de los diez días hábiles siguientes a la presentación de la solicitud de información, deberá notificar al generador o propietario de la misma de la recepción de la solicitud.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 159.
 
@@ -1919,15 +1941,11 @@ Quién reciba información ambiental de las autoridades competentes, en los tér
 
 ### CAPITULO PRIMERO. DE LA INSPECCION Y VIGILANCIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 160.
 
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato realizará en el ámbito de su competencia, los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como las que del mismo se deriven.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1957,15 +1975,11 @@ Si la persona con quien se entendió la diligencia o los testigos se negaren a f
 
 La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden a que se hace referencia en el artículo 161 de esta Ley, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a la Ley. La información deberá mantenerse por la autoridad en absoluta reserva si así lo solicita el interesado, salvo en caso de requerimiento judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 165.
 
 · El personal autorizado por la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1974,8 +1988,6 @@ La persona con quien se entienda la diligencia estará obligada a permitir al pe
 Levantada el acta de inspección, la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento, señalando el plazo que corresponda, y para que dentro del término de diez días exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes.
 
 Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo de tres días hábiles, presente por escrito sus alegatos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1987,23 +1999,17 @@ Una vez recibidos los alegatos o transcurrido el término para presentarlos, la 
 
 En la resolución administrativa correspondiente, se señalarán o, en su caso, adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la Procuraduría Ambiental y de Ordenamiento Territorial, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo.
 
 Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al artículo 171 de esta Ley, una multa adicional que no exceda de los límites máximos señalados en dicho precepto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 En los casos en que el infractor realice las medidas correctivas o de urgente aplicación para subsanar las irregularidades detectadas, en los plazos ordenados por la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, siempre y cuando el infractor no sea reincidente, y no se trate de alguno de los supuestos previstos en el artículo 169 de esta Ley, ésta podrá revocar o modificar la sanción o sanciones impuestas.
 
 ### CAPITULO SEGUNDO. DE LAS MEDIDAS DE SEGURIDAD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2017,13 +2023,9 @@ II.- El aseguramiento precautorio de los bienes, vehículos, utensilios e instru
 
 III.- La neutralización o cualquier acción análoga que impida que los materiales generen los efectos previstos en el primer párrafo de este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 Asimismo, la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato podrá promover ante la autoridad competente, la ejecución de alguna o algunas medidas de seguridad que se establezcan en otros ordenamientos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2032,8 +2034,6 @@ Asimismo, la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de
 Cuando la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
 ### CAPITULO TERCERO. DE LAS SANCIONES ADMINISTRATIVAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2079,8 +2079,6 @@ II.- Las condiciones económicas del infractor; y
 
 III.- La reincidencia, si la hubiere.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 En el caso que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato y las autoridades municipales impongan una sanción, dichas autoridades deberán considerar tal situación como atenuante de la infracción cometida.
@@ -2088,8 +2086,6 @@ En el caso que el infractor realice las medidas correctivas o de urgente aplicac
 ###### Artículo 173.
 
 Cuando proceda como sanción el decomiso o la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones aplicables a la realización de inspecciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2113,8 +2109,6 @@ III.- Donación a organismos públicos e instituciones científicas o de enseña
 
 Los supuestos previstos en las fracciones I y II del artículo anterior, procederán cuando los bienes decomisados sean susceptibles de apropiación conforme a las disposiciones jurídicas aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 En la determinación del valor de los bienes sujetos a remate o venta, la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato y los ayuntamientos, considerarán el precio que respecto a dichos bienes corra en el mercado al momento de realizarse la operación.
@@ -2127,11 +2121,11 @@ El Estado y los ayuntamientos, podrán promover ante las autoridades competentes
 
 ### CAPITULO CUARTO. DEL RECURSO DE REVISION
 
-> <small>(F. DE E., P.O. 3 DE MARZO DEL 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 177.
 
-Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los afectados, mediante el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, directamente ante la autoridad que emitió la resolución impugnada o acudir ante el Tribunal de lo Contencioso Administrativo.
+Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los afectados, mediante el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, directamente ante la autoridad que emitió la resolución impugnada o acudir ante el Tribunal de Justicia Administrativa.
 
 El recurso de revisión se interpondrá directamente ante la autoridad que emitió la resolución impugnada, quien en su caso, acordará su admisión y el otorgamiento o denegación de la suspensión del acto recurrido.
 
@@ -2153,8 +2147,6 @@ Por lo que se refiere a los bienes distintos a los señalados, éstos se mantend
 
 Por lo que se refiere a los demás trámites relativos a la substanciación del recurso de revisión de esta Ley, se estará a lo dispuesto por el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 180.
@@ -2166,8 +2158,6 @@ Tratándose de obras o actividades que contravengan las disposiciones de esta Le
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la Ley de en (sic) la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el artículo anterior.
 
 ### CAPITULO QUINTO. DE LA DENUNCIA POPULAR
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2197,25 +2187,17 @@ c) Nombre o razón social, y domicilio del presunto infractor o de la fuente con
 
 d) Las pruebas que en su caso ofrezca el denunciante.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 II.- Por comparecencia ante la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, por lo que el servidor público que la reciba levantará acta circunstanciada de la denuncia, la que firmará el denunciante, procediendo a registrar la denuncia y darle el trámite que señala esta Ley; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 III.- Por teléfono o cualquier otro medio electrónico, en cuyo supuesto el servidor público que la reciba levantará acta circunstanciada y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días siguientes a la formulación de la denuncia, sin perjuicio de que la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato investigue de oficio los hechos constitutivos de la denuncia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 Si el denunciante solicita a la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato quedar en el anonimato, por razones de seguridad e interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas le otorgan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2225,19 +2207,13 @@ La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuat
 
 En caso de recibirse dos o más denuncias por los mismos hechos, se acordará la acumulación en un solo expediente, debiéndose notificar a los denunciantes el acuerdo respectivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 Una vez registrada la denuncia, la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato dentro de los diez días siguientes a su presentación, notificará al denunciante el acuerdo de calificación correspondiente, señalando el trámite que se le ha dado a la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 Si la denuncia presentada fuera competencia de otra autoridad, la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato acusará de recibo al denunciante pero no admitirá la instancia y la turnará a la autoridad competente para su trámite y resolución, notificándole de tal hecho al denunciante, mediante acuerdo fundado y motivado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2245,15 +2221,11 @@ Si la denuncia presentada fuera competencia de otra autoridad, la Procuraduría 
 
 Una vez admitida la instancia, la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato llevará a cabo la identificación del denunciante, y hará del conocimiento la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, a fin de que presenten los documentos y pruebas que a su derecho convenga en un plazo máximo de quince días hábiles, a partir de la notificación respectiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato efectuará las diligencias necesarias con el propósito de determinar la existencia de actos, hechos u omisiones constitutivos de la denuncia.
 
 Asimismo, en los casos previstos en esta Ley, podrá iniciar los procedimientos de inspección y vigilancia que fueran procedentes, en cuyo caso se observarán las disposiciones respectivas del presente título.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2261,15 +2233,11 @@ Asimismo, en los casos previstos en esta Ley, podrá iniciar los procedimientos 
 
 El denunciante podrá coadyuvar con la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, aportándole las pruebas, documentación e información que estime pertinentes. Dicha dependencia deberá manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 188.
 
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato podrá solicitar a las instituciones académicas, centros de investigación y organismos del sector público, social y privado, la elaboración de estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias que le sean presentadas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2279,21 +2247,15 @@ Si del resultado de la investigación realizada por la Procuraduría Ambiental y
 
 Cuando se refiera a actos u omisiones atribuibles a autoridades federales, se remitirá el expediente a la Procuraduría Federal de Protección al Ambiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 Las recomendaciones que emita la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato serán públicas, autónomas y no vinculatorias.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 190.
 
 En caso de que no se compruebe que los actos u omisiones denunciados producen o pueden producir desequilibrio ecológico o daños al ambiente o a los recursos naturales o contravengan las disposiciones de la presente Ley, la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato lo hará del conocimiento del denunciante, a efecto de que éste emita las observaciones que juzgue convenientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2304,8 +2266,6 @@ La formulación de la denuncia popular, así como los acuerdos, resoluciones y r
 ###### Artículo 192.
 
 Los expedientes de denuncia popular que hubieren sido abiertos, podrán ser concluidos por las siguientes causas:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2325,8 +2285,6 @@ VI.- Por la emisión de una resolución derivada del procedimiento de inspecció
 
 VII.- Por desistimiento del denunciante.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 193.
@@ -2344,8 +2302,6 @@ Las autoridades y servidores públicos a los que se les solicite información o 
 ###### Artículo 194.
 
 Sin perjuicio de las demás disposiciones aplicables y de las sanciones penales o administrativas que procedan, toda persona que contamine o deteriore el ambiente, produciendo con su acción u omisión desequilibrios ecológicos, daños al medio ambiente, afectación a los recursos naturales, a la biodiversidad, a la vida silvestre o su hábitat, será responsable y estará obligada a reparar los daños causados, conforme a la legislación aplicable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2512,3 +2468,35 @@ P.O. 26 DE OCTUBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 21 DE SEPTIEMBRE DE 2018
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 341, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4o. PRIMER PÁRRAFO Y FRACCIONES VIII Y XVIII; 5o. PÁRRAFO PRIMERO Y FRACCIÓN III; 80. (SIC) EN SU PRIMER PÁRRAFO; 9 FRACCIÓN VI; 27 PÁRRAFO SEGUNDO; 29 EN SU PRIMER PÁRRAFO; 31 PRIMER PÁRRAFO; 33 PRIMER PÁRRAFO Y FRACCIÓN II; 35 EN SU PRIMER Y ÚLTIMO PÁRRAFOS; 36; 37; 38 PRIMER PÁRRAFO; 39 PRIMER PÁRRAFO; 40; 41 PRIMER Y ÚLTIMO PÁRRAFOS, Y FRACCIÓN II; 42 PRIMER PÁRRAFO; 43 SEGUNDO PÁRRAFO; 48 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 63; 64; 69; 108 EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO; 114 PÁRRAFOS PRIMERO Y TERCERO; 115 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, Y FRACCIONES III Y IV EN SUS INCISOS B ), E), F), G) Y H); 117 FRACCIÓN II; 118 EN SU PRIMER PÁRRAFO; 132 PRIMER PÁRRAFO; 149 EN SU PRIMER PÁRRAFO; 152; 154 PRIMER PÁRRAFO; 156 EN SU PRIMER PÁRRAFO; Y 177 EN SU PÁRRAFO PRIMERO. Y SE DEROGAN EL TERCER PÁRRAFO DEL ARTÍCULO 156; Y LOS ARTÍCULOS 157 Y 158, TODOS DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Medio Ambiente y Ordenamiento Territorial, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. El Instituto Estatal de Ecología y la Comisión de Vivienda del Estado de Guanajuato, transferirán a la Secretaría de Medio Ambiente y Ordenamiento Territorial, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones, a través de la entrega-recepción respectiva.
+
+El personal de las entidades paraestatales referidas en el párrafo que antecede, conforme a su situación laboral pasarán a integrar la nueva Secretaría de Medio Ambiente y Ordenamiento Territorial, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Por lo que hace a las secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano, la Comisión Estatal del Agua de Guanajuato, el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato y el Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato, transferirán sólo los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuvieren encomendadas en las materias que se transfieran con motivo del presente Decreto y de las reformas a otros ordenamientos, a través de la entrega-recepción respectiva, y pasarán a ser competencia de la Secretaría de Medio Ambiente y Ordenamiento Territorial.
+
+Artículo Sexto. La Secretaría de Medio Ambiente y Ordenamiento Territorial sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales y secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Ecología, Comisión de Vivienda de Guanajuato, e Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas a los demás ordenamientos.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto Estatal de Ecología y de la Comisión de Vivienda del Estado de Guanajuato. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
+
+Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
