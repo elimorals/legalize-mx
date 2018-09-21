@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-gestion-integral-de-residuos-del-estado-y-los-44842
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2018-09-18"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY PARA LA GESTION INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el 10 de mayo de 2005.
 
@@ -71,7 +73,7 @@ VI. Empresa de servicio de manejo: Persona física o moral registrada y autoriza
 
 VII. Gran generador: Persona física o moral que genere una cantidad igual o mayor a diez toneladas de residuos al año;
 
-VIII. Instituto: El Instituto de Ecología del Estado de Guanajuato;
+VIII. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 IX. Ley General: Ley General para la Prevención y Gestión Integral de los Residuos;
 
@@ -87,9 +89,15 @@ XIII. Residuos inorgánicos: Son aquellos no biodegradables;
 
 XIV. Residuos orgánicos: Aquellos que por sus características son biodegradables;
 
-XV. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales, y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-XVI. Sistema de manejo ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
+XV. Secretaría: La Secretaría de Medio Ambiente y Ordenamiento Territorial;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales, y
+
+XVII. Sistema de manejo ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
 
 ###### Artículo 5.
 
@@ -113,7 +121,9 @@ Son autoridades competentes para aplicar la presente Ley:
 
 I. El Ejecutivo del Estado;
 
-II. El Instituto de Ecología del Estado;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. La Secretaría;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -155,9 +165,11 @@ XIV. Diseñar el establecimiento y aplicación de los instrumentos económicos, 
 
 XV. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 8.
 
-El Instituto, tendrá las siguientes facultades:
+La Secretaría tendrá las siguientes facultades:
 
 I. Formular, conducir y revisar la política estatal en materia de residuos de manejo especial;
 
@@ -167,7 +179,9 @@ III. Formular el Programa para la Prevención y Gestión Integral de Residuos de
 
 IV. Establecer y mantener actualizado un registro de planes de manejo de residuos de manejo especial conforme a los lineamientos que se determinen en el reglamento de esta Ley;
 
-V. Proponer a la Secretaría los residuos de manejo especial que puedan agregarse al listado de las normas oficiales mexicanas, por considerarse sujetos a planes de manejo;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+V. Proponer a la SEMARNAT los residuos de manejo especial que puedan agregarse al listado de las normas oficiales mexicanas, por considerarse sujetos a planes de manejo;
 
 VI. Autorizar el manejo integral de residuos de manejo especial;
 
@@ -191,9 +205,25 @@ XV. Proponer al Titular del Ejecutivo la expedición de los ordenamientos juríd
 
 XVI. Autorizar y controlar las actividades realizadas por los microgeneradores de residuos peligrosos así como establecer y actualizar los registros de éstos de acuerdo a la normatividad aplicable y lo que establezcan los convenios que se suscriban con la Federación y, en su caso, con los municipios, conforme a lo dispuesto por los artículos 11 y 12 de este ordenamiento;
 
-XVII. Coadyuvar en la promoción de la prevención de la contaminación de sitios con residuos peligrosos y su remediación, y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-XVIII. Las demás que se establezcan en esta Ley y otros ordenamientos que resulten aplicables.
+XVII. Coadyuvar en la promoción de la prevención de la contaminación de sitios con residuos peligrosos y su remediación;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Verificar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de residuos de manejo especial;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Inspeccionar y vigilar el manejo integral de los residuos de manejo especial;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Imponer las sanciones y medidas de seguridad que procedan de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la federación y con los municipios, conforme a lo dispuesto en los artículos 11 y 12 de este ordenamiento, y
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XXI. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 9.
 
@@ -211,7 +241,9 @@ IV. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos a
 
 Los ayuntamientos tendrán las siguientes facultades:
 
-I. Formular por sí o con el apoyo del Instituto y con la participación de representantes de los distintos sectores sociales, los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos, los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+I. Formular por sí o con el apoyo de la Secretaría y con la participación de representantes de los distintos sectores sociales, los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos, los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos;
 
 II. Expedir los reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente Ley y en la Ley General;
 
@@ -233,7 +265,9 @@ X. Participar en el control de los residuos peligrosos generados o manejados por
 
 XI. Coadyuvar en la prevención de la contaminación de sitios con residuos peligrosos y su remediación;
 
-XII. Determinar con la asistencia técnica del Instituto, los costos de las distintas etapas de la operación de los servicios de manejo integral de residuos sólidos urbanos;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Determinar con la asistencia técnica de la Secretaría, los costos de las distintas etapas de la operación de los servicios de manejo integral de residuos sólidos urbanos;
 
 XIII. Proponer al Congreso del Estado, las tarifas aplicables al derecho por la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final, comprendido en las etapas del manejo integral de residuos sólidos urbanos;
 
@@ -299,11 +333,13 @@ XI. Los demás que establezca el reglamento de esta Ley y otros ordenamientos ju
 
 ### CAPÍTULO II. DE LOS PROGRAMAS PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-El Instituto formulará, instrumentará y revisará el Programa para la Prevención y Gestión Integral de los Residuos de Manejo Especial.
+La Secretaría formulará, instrumentará y revisará el Programa para la Prevención y Gestión Integral de los Residuos de Manejo Especial.
 
-De igual forma, los ayuntamientos formularán, instrumentarán y evaluarán sus Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos, quienes para tal fin podrán solicitar el apoyo técnico del Instituto.
+De igual forma, los ayuntamientos formularán, instrumentarán y evaluarán sus Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos, quienes para tal fin podrán solicitar el apoyo técnico de la Secretaría.
 
 ###### Artículo 15.
 
@@ -353,9 +389,11 @@ II. Que se trate de residuos de alto volumen de generación, producidos por un n
 
 III. Que se trate de residuos que representen un riesgo a la población, al ambiente o a los recursos naturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 20.
 
-Los grandes generadores de residuos sólidos urbanos y de manejo especial, deberán integrar una propuesta para sustentar el desarrollo de cada uno de los planes de manejo, que se entregará al Instituto para su validación y en la cual se asentará, entre otros, lo siguiente:
+Los grandes generadores de residuos sólidos urbanos y de manejo especial, deberán integrar una propuesta para sustentar el desarrollo de cada uno de los planes de manejo, que se entregará a la Secretaría para su validación y en la cual se asentará, entre otros, lo siguiente:
 
 I. El nombre, la denominación o razón social de quien presente la propuesta, del representante legal en su caso, el nombre de los autorizados para recibir notificaciones, al órgano administrativo al que se dirijan, el lugar y fecha de formulación. La propuesta deberá estar firmada por el interesado o su representante legal;
 
@@ -369,13 +407,17 @@ V. Cronograma enunciando las principales actividades y sus fechas de implantaci�
 
 VI. Los responsables de la implantación y seguimiento de los planes de manejo correspondientes;
 
-VII. La indicación de que parte de la información proporcionada al Instituto deberá manejarse de manera confidencial por tratarse de información privilegiada de valor comercial, y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VII. La indicación de que parte de la información proporcionada a la Secretaría deberá manejarse de manera confidencial por tratarse de información privilegiada de valor comercial, y
 
 VIII. Los indicadores para evaluar el desempeño del plan de manejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 21.
 
-El Instituto podrá convocar, conjuntamente con los ayuntamientos de manera gradual, a los productores, importadores, distribuidores y comercializadores de productos de consumo que al desecharse se conviertan en residuos sólidos urbanos y de manejo especial, susceptibles de ser objeto de planes de manejo de conformidad con las disposiciones de la Ley General, las normas oficiales mexicanas y esta Ley, a fin de:
+La Secretaría podrá convocar conjuntamente con los ayuntamientos de manera gradual, a los productores, importadores, distribuidores y comercializadores de productos de consumo que al desecharse se conviertan en residuos sólidos urbanos y de manejo especial, susceptibles de ser objeto de planes de manejo de conformidad con las disposiciones de la Ley General, las normas oficiales mexicanas y esta Ley a fin de:
 
 I. Dar a conocer que son prioritarios para su atención por el grado de dificultad que implica el manejo de los residuos correspondientes o los problemas ambientales que se han visto asociados a las formas de disposición final comunes de los mismos;
 
@@ -401,11 +443,11 @@ El Ejecutivo del Estado y los ayuntamientos deberán publicar en el Periódico O
 
 ### CAPÍTULO IV. DE LA INFORMACIÓN SOBRE RESIDUOS
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 24.
 
-La información obtenida por el Instituto, la Procuraduría y las autoridades municipales en el ejercicio de sus funciones, será pública en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+La información obtenida por la Secretaría, la Procuraduría y las autoridades municipales en el ejercicio de sus funciones, será pública en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato.
 
 ### CAPÍTULO V. DE LOS INSTRUMENTOS ECONÓMICOS
 
@@ -415,9 +457,11 @@ El Ejecutivo del Estado, en coordinación con las autoridades competentes, evalu
 
 En aquellos casos en que sea técnica y económicamente factible, se promoverá la creación de cadenas productivas y se brindarán incentivos para el establecimiento de los planes de manejo.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 26.
 
-El Instituto promoverá la aplicación de incentivos para alentar la inversión del sector privado en el desarrollo tecnológico, adquisición de equipos y en la construcción de infraestructura para facilitar la prevención de la generación, la reutilización, el reciclaje, el tratamiento y la disposición final ambientalmente adecuados de los residuos sólidos urbanos y de manejo especial, así como de los residuos peligrosos domiciliarios y los generados por los microgeneradores.
+La Secretaría promoverá la aplicación de incentivos para alentar la inversión del sector privado en el desarrollo tecnológico; adquisición de equipos y en la construcción de infraestructura para facilitar la prevención de la generación, la reutilización, el reciclaje, el tratamiento y la disposición final ambientalmente adecuados de los residuos sólidos urbanos y de manejo especial, así como de los residuos peligrosos domiciliarios y los generados por los microgeneradores.
 
 ### CAPÍTULO VI. DE LA EDUCACIÓN
 
@@ -481,9 +525,11 @@ III. La eficiencia administrativa, a través del consumo racional y sustentable 
 
 Asimismo, promoverán que en sus procesos de adquisiciones de bienes para la prestación de sus servicios y cumplimiento de sus funciones, se opte por la utilización y el consumo de productos compuestos total o parcialmente de materiales valorizables.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 31.
 
-El Instituto prestará su apoyo a los poderes del Estado, a los ayuntamientos, así como a los organismos autónomos en la formulación de los sistemas de manejo ambiental.
+La Secretaría prestará su apoyo a los poderes del Estado, a los ayuntamientos, así como a los organismos autónomos en la formulación de los sistemas de manejo ambiental.
 
 ## TÍTULO CUARTO. DE LOS RESIDUOS
 
@@ -511,7 +557,9 @@ VIII. Residuos de la construcción, mantenimiento y demolición en general;
 
 IX. Residuos tecnológicos provenientes de las industrias de la informática, fabricantes de productos electrónicos o de vehículos automotores y otros que al transcurrir su vida útil, por sus características, requieren de un manejo específico, y
 
-X. Otros que sean determinados como tales por la Secretaría.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+X. Otros que sean determinados como tales por las autoridades federales competentes.
 
 ###### Artículo 33.
 
@@ -545,23 +593,33 @@ V. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
 Los grandes generadores de residuos de manejo especial, están obligados a:
 
-I. Registrarse ante el Instituto y obtener autorización para su manejo;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-II. Establecer los planes de manejo y registrarlos ante el Instituto, en caso de que requieran ser modificados o actualizados, notificarlo oportunamente al mismo;
+I. Registrarse ante la Secretaría y obtener autorización para su manejo;
 
-III. Utilizar el sistema de manifiestos que establezca el Instituto, para hacer el seguimiento de la generación y formas de manejo de sus residuos a lo largo de su ciclo de vida integral;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. Establecer los planes de manejo y registrarlos ante la Secretaría, en caso de que requieran ser modificados o actualizados, notificarlo oportunamente a la misma;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+III. Utilizar el sistema de manifiestos que establezca la Secretaría, para hacer el seguimiento de la generación y formas de manejo de sus residuos a lo largo de su ciclo de vida integral;
 
 IV. Llevar bitácoras en la que registren el volumen y tipo de residuos generados y la forma de manejo a la que fueron sometidos;
 
 V. Llevar a cabo el manejo integral de sus residuos, de conformidad con las disposiciones de esta Ley y otros ordenamientos que resulten aplicables, y
 
-VI. Presentar al Instituto un informe anual de los volúmenes de generación y formas de manejo de los residuos de manejo especial generados en grandes volúmenes.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Presentar a la Secretaría un informe anual de los volúmenes de generación y formas de manejo de los residuos de manejo especial generados en grandes volúmenes.
 
 ###### Artículo 38.
 
 Las personas consideradas como microgeneradores de residuos peligrosos, en los términos de la Ley General, están obligadas a:
 
-I. Registrarse ante el Instituto;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+I. Registrarse ante la Secretaría;
 
 II. Sujetar los residuos peligrosos que generen, a los programas y planes de manejo que se establezcan para tal fin y a las condiciones que se fijen por las autoridades ambientales del Estado, y
 
@@ -607,9 +665,11 @@ La etapa de limpia o barrido se excluye del manejo integral de residuos de manej
 
 Tratándose de los residuos sólidos urbanos, las etapas de limpia o barrido, recolección, traslado o trasportación, tratamiento y disposición final estarán a cargo de los municipios por ser un servicio público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 41.
 
-Se requiere autorización del Instituto para llevar a cabo las etapas del manejo integral de residuos de manejo especial, establecidas en las fracciones II, III y de la V a la XII del artículo anterior.
+Se requiere autorización de la Secretaría para llevar a cabo las etapas del manejo integral de residuos de manejo especial establecidas en las fracciones II, III y de la V a la XII del artículo anterior.
 
 Los ayuntamientos podrán autorizar las etapas del manejo integral de los residuos sólidos urbanos señaladas en las fracciones V, VII, IX y XI del artículo anterior.
 
@@ -621,7 +681,9 @@ Para el otorgamiento de autorizaciones se requiere:
 
 I. Ubicarse en lugares que reúnan los criterios que establezca la normatividad aplicable;
 
-II. Instrumentar un plan de manejo registrado ante el Instituto para la operación segura y ambientalmente adecuada de los residuos que maneje;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. Instrumentar un plan de manejo registrado ante la Secretaría para la operación segura y ambientalmente adecuada de los residuos que maneje;
 
 III. Contar con programas para prevenir y responder a contingencias o emergencias ambientales y accidentes;
 
@@ -629,7 +691,9 @@ IV. Contar con personal capacitado y continuamente actualizado, y
 
 V. Otorgar garantías para asegurar que al cierre de las operaciones de sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente.
 
-Además de los requisitos señalados en este artículo, la persona física o moral deberá atender a las condiciones de carácter técnico que por la naturaleza del servicio le sean exigibles por el Instituto, mismas que formarán parte de la autorización.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Además de los requisitos señalados en este artículo, la persona física o moral deberá atender a las condiciones de carácter técnico que por la naturaleza del servicio le sean exigibles por la Secretaría, mismas que formarán parte de la autorización.
 
 ###### Artículo 43.
 
@@ -639,7 +703,9 @@ Durante la vigencia de la autorización la empresa de servicio de manejo deberá
 
 Son causas de revocación de las autorizaciones:
 
-I. Que exista falsedad en la información proporcionada al Instituto;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+I. Que exista falsedad en la información proporcionada a la Secretaría;
 
 II. Cuando las actividades de manejo integral de los residuos contravengan la normatividad aplicable;
 
@@ -721,9 +787,11 @@ Los sitios destinados al tratamiento y disposición final de residuos sólidos u
 
 Los productores y comercializadores cuyos productos y servicios generen residuos susceptibles de valorización mediante procesos de reciclaje realizarán planes de manejo que establezcan las acciones para minimizar la generación de sus residuos, su manejo responsable y para orientar a los consumidores sobre las oportunidades y beneficios de dicha valorización para su aprovechamiento.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 59.
 
-El Instituto en coordinación con los ayuntamientos de conformidad con el Programa Estatal para la Prevención y Gestión Integral de los Residuos, instrumentarán programas para la utilización de materiales o subproductos provenientes de los residuos a fin de promover mercados para su aprovechamiento, vinculando al sector privado, organizaciones sociales y otros agentes económicos.
+La Secretaría en coordinación con los ayuntamientos de conformidad con el Programa Estatal para la Prevención y Gestión Integral de los Residuos, instrumentarán programas para la utilización de materiales o subproductos provenientes de los residuos a fin de promover mercados para su aprovechamiento, vinculando al sector privado, organizaciones sociales y otros agentes económicos.
 
 ###### Artículo 60.
 
@@ -735,7 +803,9 @@ Los residuos que hayan sido seleccionados para su reciclaje y que por sus caract
 
 Los ayuntamientos diseñarán, construirán y operarán centros de composteo de residuos sólidos urbanos orgánicos, de conformidad con lo que se establezca en el Programa Estatal para la Prevención y Gestión Integral de los Residuos y con los programas municipales correspondientes.
 
-Para tal efecto, podrán solicitar el apoyo técnico del Instituto.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Para tal efecto, podrán solicitar el apoyo técnico de la Secretaría.
 
 ###### Artículo 62.
 
@@ -777,9 +847,11 @@ I. Llevar a cabo las acciones necesarias para remediar las condiciones del suelo
 
 II. En caso de que la remediación no fuera factible, a reparar el daño causado a terceros o al ambiente de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 68.
 
-El Instituto, establecerá los lineamientos generales para la remediación de los sitios contaminados.
+La Secretaría establecerá los lineamientos generales para la remediación de los sitios contaminados.
 
 ###### Artículo 69.
 
@@ -841,9 +913,11 @@ Se establece la responsabilidad solidaria, independiente de toda falta, de los g
 
 La exención de responsabilidad sólo se producirá acreditando que, a pesar de haberse adoptado todas las medidas destinadas a evitarlos y sin mediar culpa concurrente del generador u operador de instalaciones, los daños y perjuicios se produjeron por culpa exclusiva de la víctima o de un tercero por quien no se deba responder.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 78.
 
-Todo servidor público está obligado a denunciar ante el Instituto o la Procuraduría cualquier alteración al ambiente, de que tenga conocimiento en razón de su cargo. Los funcionarios públicos que deban velar por el cumplimiento de lo establecido en la normatividad ambiental incurrirán en responsabilidad solidaria en caso de omisión o incumplimiento de deberes, sin perjuicio de las responsabilidades que correspondan. Además serán proporcionalmente responsables por los daños causados al ambiente en el tanto que les sean imputables.
+Todo servidor público está obligado a denunciar ante la Secretaría o la Procuraduría cualquier alteración al ambiente de que tenga conocimiento en razón de su cargo. Los funcionarios públicos que deban velar por el cumplimiento de lo establecido en la normatividad ambiental incurrirán en responsabilidad solidaria en caso de omisión o incumplimiento de deberes, sin perjuicio de las responsabilidades que correspondan. Además, serán proporcionalmente responsables por los daños causados al ambiente en el tanto que les sean imputables.
 
 ###### Artículo 79.
 
@@ -851,9 +925,11 @@ La prescripción de las responsabilidades establecidas en este capítulo es de c
 
 ### CAPÍTULO VI. DEL RECURSO DE REVISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 80.
 
-Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los afectados, mediante el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, directamente ante la autoridad que emitió la resolución impugnada o acudir ante el Tribunal de lo Contencioso Administrativo.
+Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta ley, sus reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, directamente ante la autoridad que emitió la resolución impugnada o acudir ante el Tribunal de Justicia Administrativa.
 
 Para la substanciación del recurso de revisión que se interponga ante las autoridades competentes se estará a lo dispuesto en la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato.
 
@@ -892,3 +968,35 @@ P.O. 18 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 326, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES VIII, IX Y X AL ARTÍCULO 28 DE LA LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 21 DE SEPTIEMBRE DE 2018
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 341, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4o. PRIMER PÁRRAFO Y FRACCIONES VIII Y XVIII; 5o. PÁRRAFO PRIMERO Y FRACCIÓN III; 80. (SIC) EN SU PRIMER PÁRRAFO; 9 FRACCIÓN VI; 27 PÁRRAFO SEGUNDO; 29 EN SU PRIMER PÁRRAFO; 31 PRIMER PÁRRAFO; 33 PRIMER PÁRRAFO Y FRACCIÓN II; 35 EN SU PRIMER Y ÚLTIMO PÁRRAFOS; 36; 37; 38 PRIMER PÁRRAFO; 39 PRIMER PÁRRAFO; 40; 41 PRIMER Y ÚLTIMO PÁRRAFOS, Y FRACCIÓN II; 42 PRIMER PÁRRAFO; 43 SEGUNDO PÁRRAFO; 48 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 63; 64; 69; 108 EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO; 114 PÁRRAFOS PRIMERO Y TERCERO; 115 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, Y FRACCIONES III Y IV EN SUS INCISOS B ), E), F), G) Y H); 117 FRACCIÓN II; 118 EN SU PRIMER PÁRRAFO; 132 PRIMER PÁRRAFO; 149 EN SU PRIMER PÁRRAFO; 152; 154 PRIMER PÁRRAFO; 156 EN SU PRIMER PÁRRAFO; Y 177 EN SU PÁRRAFO PRIMERO. Y SE DEROGAN EL TERCER PÁRRAFO DEL ARTÍCULO 156; Y LOS ARTÍCULOS 157 Y 158, TODOS DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Medio Ambiente y Ordenamiento Territorial, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. El Instituto Estatal de Ecología y la Comisión de Vivienda del Estado de Guanajuato, transferirán a la Secretaría de Medio Ambiente y Ordenamiento Territorial, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones, a través de la entrega-recepción respectiva.
+
+El personal de las entidades paraestatales referidas en el párrafo que antecede, conforme a su situación laboral pasarán a integrar la nueva Secretaría de Medio Ambiente y Ordenamiento Territorial, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Por lo que hace a las secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano, la Comisión Estatal del Agua de Guanajuato, el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato y el Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato, transferirán sólo los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuvieren encomendadas en las materias que se transfieran con motivo del presente Decreto y de las reformas a otros ordenamientos, a través de la entrega-recepción respectiva, y pasarán a ser competencia de la Secretaría de Medio Ambiente y Ordenamiento Territorial.
+
+Artículo Sexto. La Secretaría de Medio Ambiente y Ordenamiento Territorial sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales y secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Ecología, Comisión de Vivienda de Guanajuato, e Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas a los demás ordenamientos.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto Estatal de Ecología y de la Comisión de Vivienda del Estado de Guanajuato. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
+
+Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
