@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-forestal-sustentable-para-el-estado-y-los-443
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-15"
-last_updated: "2016-10-28"
+last_updated: "2018-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 15 de marzo de 2005.
 
@@ -117,7 +119,7 @@ I.- Comisión: La Comisión Nacional Forestal;
 
 II.- Consejo Estatal: El Consejo Estatal Forestal;
 
-III.- Instituto: El Instituto de Ecología del Estado;
+III.- (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -127,9 +129,9 @@ IV.- PAOT: La Procuraduría Ambiental y de Ordenamiento Territorial del Estado d
 
 V.- Protección Civil: La Coordinación Estatal de Protección Civil;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-VI.- Secretaría: La Secretaría de Desarrollo Agroalimentario y Rural;
+VI.- Secretaría: La Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -197,21 +199,35 @@ i) Asesorar y capacitar a los propietarios y poseedores forestales en la elabora
 
 j) Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas producto del sector;
 
-k) Brindar atención de forma coordinada con la Federación y los Municipios, a los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas; y
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-l) Fomentar la reforestación.
+k) Brindar atención de forma coordinada con la Federación y los Municipios, a los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas;
 
-II.- A través del Instituto:
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-a) Promover en coordinación con la Federación, programas y proyectos de educación, capacitación, investigación y cultura forestal, acordes con el programa nacional respectivo;
+l) Fomentar la reforestación;
 
-b) Elaborar estudios para en su caso recomendar al Ejecutivo Federal a través de la SEMARNAT, el establecimiento, modificación o levantamiento de vedas, en coordinación con la Secretaría;
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-c) Elaborar estudios para en su caso recomendar a la Federación el establecimiento de restricciones a la forestación y reforestación en su territorio, en coordinación con la Secretaría;
+m) Promover en coordinación con la Federación, programas y proyectos de educación, capacitación, investigación y cultura forestal, acordes con el programa nacional respectivo;
 
-d) Impulsar programas de conservación y mejoramiento genético forestal con fundamento científico; y
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-e) Impulsar proyectos que contribuyan a la integración y competitividad de las cadenas productivas en materia forestal.
+n) Elaborar estudios para, en su caso, recomendar al Ejecutivo Federal a través de la SEMARNAT, el establecimiento, modificación o levantamiento de vedas;
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+o) Elaborar estudios para, en su caso, recomendar a la Federación el establecimiento de restricciones a la forestación y reforestación en su territorio;
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+p) Impulsar programas de conservación y mejoramiento genético forestal con fundamento científico; y
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+q) Impulsar proyectos que contribuyan a la integración y competitividad de las cadenas productivas en materia forestal.
+
+II.- (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 III.- A través de la PAOT:
 
@@ -427,7 +443,9 @@ Los Ayuntamientos incorporarán en sus informes anuales un apartado que señale 
 
 El Sistema Estatal de Información Forestal tendrá por objeto registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia forestal que servirá como base estratégica para la planeación y evaluación del desarrollo forestal sustentable, la cual estará disponible al público para su consulta.
 
-La Secretaría en coordinación con el Instituto, integrará el Sistema Estatal de Información Forestal, conforme a las normas, criterios, procedimientos y metodología emitidas por la SEMARNAT.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría integrará el Sistema Estatal de Información Forestal conforme a las normas, criterios, procedimientos y metodología emitidas por la SEMARNAT.
 
 ###### Artículo 25.
 
@@ -461,11 +479,11 @@ XI.- La relacionada con la prevención y combate de incendios forestales y los p
 
 XII.- Las demás que se considere (sic) estratégica (sic) para la planeación y evaluación del desarrollo forestal sustentable.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 27.
 
-Toda persona tendrá derecho a que las autoridades en materia forestal pongan a su disposición la información forestal que les soliciten, en los términos previstos por la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+Toda persona tendrá derecho a que las autoridades en materia forestal pongan a su disposición la información forestal que les soliciten, en los términos previstos por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato.
 
 #### Sección Tercera. Del Inventario Estatal Forestal y de Suelos
 
@@ -491,11 +509,11 @@ Toda persona tendrá derecho a que las autoridades en materia forestal pongan a 
 
 La ordenación forestal es la organización económica de un área forestal tomando en cuenta sus características silvícolas, que implica la división espacial y temporal de las actividades de manejo forestal.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 33.
 
-La Secretaría deberá llevar a cabo la ordenación con base en el Inventario Estatal Forestal y de Suelos, y en el Programa Estatal de Desarrollo Urbano y Ordenamiento Ecológico Territorial; excepto en las áreas naturales protegidas, donde serán llevadas a cabo por el Instituto de conformidad con el Código Territorial para el Estado y los Municipios de Guanajuato.
+La Secretaría deberá llevar a cabo la ordenación con base en el Inventario Estatal Forestal y de Suelos, y en el Programa Estatal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial.
 
 ###### Artículo 34.
 
@@ -573,9 +591,11 @@ Será prioritario para el Estado el impulsar la investigación en el sector fore
 
 El Estado fomentará y promoverá la investigación relativa a la materia forestal, mediante convenios de colaboración con instituciones públicas y privadas, preferentemente del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 45.
 
-La Secretaría promoverá el desarrollo de un sistema de mejoramiento genético forestal, con la evaluación y registro de progenitores, la creación de áreas y huertos semilleros, viveros forestales maderables y no maderables, preferentemente de plantas nativas y bancos de germoplasma.
+La Secretaría, promoverá el desarrollo de un sistema de mejoramiento genético forestal, con la evaluación y registro de progenitores, la creación de áreas y huertos semilleros, viveros forestales maderables y no maderables, preferentemente de plantas nativas y bancos de germoplasma.
 
 ###### Artículo 46.
 
@@ -615,13 +635,13 @@ El Estado y los Municipios en el ámbito de su competencia, y de acuerdo a sus l
 
 ### Capítulo Quinto. De la Reforestación y Forestación
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 52.
 
-La Secretaría y el Instituto, así como los Ayuntamientos en el ámbito de sus competencias, promoverán programas tendientes a la forestación y reforestación de los terrenos idóneos en el Estado y municipios, preferentemente en zonas de recarga de acuíferos y áreas naturales protegidas.
+La Secretaría, así como los Ayuntamientos en el ámbito de sus competencias, promoverán programas tendientes a la forestación y reforestación de los terrenos idóneos en el Estado y municipios, preferentemente en zonas de recarga de acuíferos y áreas naturales protegidas.
 
-Para tal efecto la Secretaría y el Instituto, así como los municipios podrán celebrar convenios con instituciones públicas y privadas.
+Para tal efecto la Secretaría, así como los municipios, podrán celebrar convenios con instituciones públicas y privadas.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -639,9 +659,11 @@ El Estado así como los municipios en el ámbito de su competencia, establecerá
 
 ### Capítulo Sexto. De la Conservación y Restauración
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 56.
 
-El Instituto con la información del Inventario Forestal y de Suelos y el Ordenamiento Territorial, identificará las zonas de restauración ecológica en el marco de las cuencas hidrológicas.
+La Secretaría con la información del Inventario Estatal Forestal y de Suelos, identificará las zonas de restauración ecológica en el marco de las cuencas hidrológicas.
 
 ###### Artículo 57.
 
@@ -655,9 +677,9 @@ Los propietarios y poseedores o usufructuarios de terrenos forestales o preferen
 
 Cuando se presenten procesos de degradación o desertificación, o graves desequilibrios ecológicos en terrenos forestales o preferentemente forestales, la Secretaría formulará y ejecutará, en coordinación con los propietarios, programas de restauración ecológica con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que se propicien o que propicien su conservación y restauración de acuerdo a las asignaciones que para tal fin se contemplen en el Presupuesto de Egresos del Estado.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-Para efectos de lo señalado en el artículo 58 y el primer párrafo del presente artículo, el Instituto será competente en tratándose de áreas naturales protegidas, y zonas de restauración, acorde a lo establecido en el Código Territorial para el Estado y los Municipios de Guanajuato.
+Para efectos de lo señalado en el artículo 58 y el primer párrafo del presente artículo, la Secretaría será competente en tratándose de áreas naturales protegidas y zonas de restauración, acorde a lo establecido en el Código Territorial para el Estado y los Municipios de Guanajuato.
 
 ### Capítulo Séptimo. De la Sanidad Forestal
 
@@ -813,11 +835,11 @@ El Ejecutivo Estatal y los Ayuntamientos, conforme a sus atribuciones legales y 
 
 El Estado y los Municipios convocarán a foros de consulta a agrupaciones sociales, privadas y personas físicas, relacionadas con los servicios técnicos forestales con la finalidad de incluir sus propuestas y opiniones en los programas y planes relativos al desarrollo forestal estatal y municipal.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 77.
 
-La Secretaría y el Instituto podrán celebrar convenios de colaboración con municipios, agrupaciones sociales y particulares con la finalidad de promover y difundir programas y acciones de forestación, reforestación, conservación, ordenación y vigilancia de recursos forestales.
+La Secretaría podrá celebrar convenios de colaboración con municipios, agrupaciones sociales y particulares con la finalidad de promover y difundir programas y acciones de forestación, reforestación, conservación, ordenación y vigilancia de recursos forestales.
 
 ###### Artículo 78.
 
@@ -843,13 +865,13 @@ El Consejo Estatal Forestal estará integrado por los siguientes miembros:
 
 I.- Un ciudadano designado por el Gobernador del Estado, quien fungirá como Presidente;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-II.- El Titular de la Secretaría de Desarrollo Agroalimentario y Rural, quien fungirá como Secretario;
+II.- El titular de la Secretaría, quien fungirá como Secretario técnico;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-III.- El Director General del Instituto de Ecología del Estado, quien fungirá como vocal; y
+III.- El titular de la Secretaría de Desarrollo Agroalimentario y Rural, quien fungirá como vocal; y
 
 IV.- Vocales cuyo número y forma de nombrarlos serán de conformidad con el Reglamento de la presente Ley, de entre:
 
@@ -905,9 +927,11 @@ V.- Las demás que le señalen las disposiciones legales aplicables y el Reglame
 
 ### Capítulo Único. De la Denuncia Popular
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 84.
 
-Toda persona podrá denunciar ante la Secretaría, el Instituto, autoridades municipales, o ante otras autoridades, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico al ecosistema forestal o daños a los recursos forestales o contravenga las disposiciones de la presente Ley y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
+Toda persona podrá denunciar ante la PAOT o la Secretaría, autoridades municipales, o ante otras autoridades todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico al ecosistema forestal o daños a los recursos forestales o contravenga las disposiciones de la presente Ley y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
 
 El denunciante deberá aportar todos los elementos de prueba con que cuente para sustentar su denuncia y se encauzará conforme al procedimiento establecido en el Capítulo Quinto, del Título Sexto de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, para el trámite que corresponda.
 
@@ -948,3 +972,35 @@ Artículo Primero.- El presente Decreto entrará en vigencia el día siguiente a
 Artículo Segundo.- El Consejo Estatal Forestal adecuará su composición y estructura, en un término de sesenta días contados a partir de la entrada en vigencia del presente Decreto.
 
 Artículo Tercero.- El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que deriven del presente Decreto Legislativo en un plazo no mayor de seis meses, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 341, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4o. PRIMER PÁRRAFO Y FRACCIONES VIII Y XVIII; 5o. PÁRRAFO PRIMERO Y FRACCIÓN III; 80 (SIC). EN SU PRIMER PÁRRAFO; 9 FRACCIÓN VI; 27 PÁRRAFO SEGUNDO; 29 EN SU PRIMER PÁRRAFO; 31 PRIMER PÁRRAFO; 33 PRIMER PÁRRAFO Y FRACCIÓN II; 35 EN SU PRIMER Y ÚLTIMO PÁRRAFOS; 36; 37; 38 PRIMER PÁRRAFO; 39 PRIMER PÁRRAFO; 40; 41 PRIMER Y ÚLTIMO PÁRRAFOS, Y FRACCIÓN II; 42 PRIMER PÁRRAFO; 43 SEGUNDO PÁRRAFO; 48 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 63; 64; 69; 108 EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO; 114 PÁRRAFOS PRIMERO Y TERCERO; 115 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, Y FRACCIONES III Y IV EN SUS INCISOS B), E), F), G) Y H); 117 FRACCIÓN II; 118 EN SU PRIMER PÁRRAFO; 132 PRIMER PÁRRAFO; 149 EN SU PRIMER PÁRRAFO; 152; 154 PRIMER PÁRRAFO; 156 EN SU PRIMER PÁRRAFO; Y 177 EN SU PÁRRAFO PRIMERO. Y SE DEROGAN EL TERCER PÁRRAFO DEL ARTÍCULO 156; Y LOS ARTÍCULOS 157 Y 158, TODOS DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Medio Ambiente y Ordenamiento Territorial, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. El Instituto Estatal de Ecología y la Comisión de Vivienda del Estado de Guanajuato, transferirán a la Secretaría de Medio Ambiente y Ordenamiento Territorial, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones, a través de la entrega-recepción respectiva.
+
+El personal de las entidades paraestatales referidas en el párrafo que antecede, conforme a su situación laboral pasarán a integrar la nueva Secretaría de Medio Ambiente y Ordenamiento Territorial, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Por lo que hace a las secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano, la Comisión Estatal del Agua de Guanajuato, el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato y el Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato, transferirán sólo los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuvieren encomendadas en las materias que se transfieran con motivo del presente Decreto y de las reformas a otros ordenamientos, a través de la entrega-recepción respectiva, y pasarán a ser competencia de la Secretaría de Medio Ambiente y Ordenamiento Territorial.
+
+Artículo Sexto. La Secretaría de Medio Ambiente y Ordenamiento Territorial sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales y secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Ecología, Comisión de Vivienda de Guanajuato, e Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas a los demás ordenamientos.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto Estatal de Ecología y de la Comisión de Vivienda del Estado de Guanajuato. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
+
+Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
