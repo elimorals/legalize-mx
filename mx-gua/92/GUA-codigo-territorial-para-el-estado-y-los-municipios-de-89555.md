@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2017-12-05"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -319,7 +321,9 @@ XLV. Reserva territorial: predio de propiedad del Estado o de alguno de los muni
 
 XLV bis. Resiliencia: es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preparación, preservación, organización y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
 
-XLVI. Secretaría: Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XLVI. Secretaría: Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -653,19 +657,25 @@ XVIII. Las demás que establezca el Código y las demás disposiciones jurídica
 
 #### Sección Segunda. Secretaría
 
-Atribuciones de la Secretaría
+> <small>(REFORMADO SU ACÁPITE, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Atribuciones de la Secretaría en las materias de ordenamiento y administración sustentable del territorio
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
-La Secretaría tendrá las atribuciones siguientes:
+La Secretaría tendrá en las materias de ordenamiento y administración sustentable del territorio, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes:
 
 I. Participar en la formulación, modificación, actualización y evaluación del programa estatal;
 
-II. Elaborar y ejecutar acciones para la constitución, administración y aprovechamiento de provisiones y reservas territoriales para el desarrollo urbano y la producción de vivienda en los centros de población, en coordinación con otras dependencias y entidades de la administración pública y con la participación de los sectores social y privado;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+II. Elaborar y ejecutar acciones para la constitución, administración y aprovechamiento de provisiones y reservas territoriales para el desarrollo urbano en los centros de población, en coordinación con otras dependencias y entidades de la administración pública y con la participación de los sectores social y privado;
 
-III. Promover la programación de acciones y proyectos para la dotación de infraestructura pública para la accesibilidad universal, incluyendo la movilidad sustentable y el equipamiento urbano, así como para la preservación y restauración del equilibrio ecológico y la protección al ambiente, los espacios naturales, el paisaje, la imagen urbana, las áreas de valor escénico y el patrimonio natural, cultural urbano y arquitectónico, en coordinación con otras dependencias y entidades de la administración pública y con la participación de los sectores social y privado;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+III. Promover la constitución, administración y aprovechamiento de provisiones y reservas territoriales, la programación de acciones y proyectos para la dotación de infraestructura pública para la accesibilidad universal, incluyendo la movilidad sustentable y el equipamiento urbano, así como para la preservación y restauración del equilibrio ecológico y la protección al ambiente, los espacios naturales, el paisaje, la imagen urbana, las áreas de valor escénico y el patrimonio natural, cultural urbano y arquitectónico, en coordinación con otras dependencias y entidades de la administración pública y con la participación de los sectores social y privado;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -691,31 +701,39 @@ IX. Administrar las provisiones y reservas territoriales, en los términos del C
 
 IX bis. Participar en la gestión del ordenamiento sustentable del territorio de los centros de población que presenten un fenómeno de conurbación o metropolización, en coordinación con las autoridades federales, estatales y municipales competentes;
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-IX bis 1. Coordinar y administrar la ejecución de las acciones que convenga el Ejecutivo del Estado con la Federación, con los gobiernos de otros estados y con los ayuntamientos, para el ordenamiento sustentable del territorio de las zonas metropolitanas en las que sea parte el Estado;
+IX bis 1. Coordinar y administrar, en los términos de los acuerdos o convenios, la ejecución de las acciones que convenga el Ejecutivo del Estado con la Federación, con los gobiernos de otros estados, municipios o demarcaciones territoriales, según corresponda, para el ordenamiento sustentable del territorio de las zonas metropolitanas, de las materias que regula la Ley General y este Código;
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-IX bis 2. Asesorar a los gobiernos municipales, cuando así lo soliciten, en materia de administración sustentable del territorio;
+IX bis 2. Asesorar a los gobiernos municipales, cuando así lo soliciten, en materia de administración y ordenamiento sustentable del territorio;
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 IX bis 3. Coordinar la gestión y administración del ordenamiento sustentable del territorio dentro de los centros de población declarados como zonas conurbadas o metropolitanas, con las autoridades de los tres órdenes de gobierno competentes;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+IX bis 4. Conducir la planeación del ordenamiento sustentable del territorio de los centros de población que constituyan o tiendan a constituir zonas conurbadas o metropolitanas, en coordinación con las autoridades federales, estatales y municipales competentes;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+IX bis 5. Emitir los lineamientos y coordinar las acciones para la evaluación y seguimiento al impacto urbano o regional, que deberán observar los entes ejecutores de obras y proyectos que generen efectos en el territorio de uno o más municipios de la entidad;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+IX bis 6. Brindar asesoría y soporte técnico a las dependencias y entidades en materia de ordenamiento y administración sustentable del territorio; y
+
 X. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
 XI. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 
-#### Sección Tercera. Instituto de Ecología
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-Atribuciones del Instituto
+Atribuciones de la Secretaría en materia de medio ambiente
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
-
-###### Artículo 18.
-
-El Instituto de Ecología, además de las atribuciones que se le asignan en la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato y la Ley de Cambio Climático para el Estado de Guanajuato y sus Municipios, tendrá las siguientes:
+Artículo 17 bis. La Secretaría tendrá en materia de medio ambiente, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes:
 
 I. Administrar las áreas naturales protegidas y zonas de restauración de competencia del Estado;
 
@@ -727,23 +745,113 @@ IV. Planear, ejecutar, supervisar y evaluar las labores de conservación y resta
 
 V. Diseñar y fomentar el establecimiento de incentivos económicos y estímulos fiscales para la absorción y conservación de carbono en las áreas naturales protegidas;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+VI. Evaluar, en materia ambiental, el programa estatal y establecer los lineamientos e indicadores correspondientes;
 
-VI. Participar en la formulación y ejecución del programa estatal y promover su cumplimiento, conforme a lo establecido en la Ley General, este Código y la Ley de Planeación para el Estado de Guanajuato;
+VII. Elaborar y proponer al Ejecutivo del Estado el inventario de especies vegetales nativas;
 
-VII. Evaluar, en materia ambiental, el programa estatal y establecer los lineamientos e indicadores correspondientes;
+VIII. Emitir opiniones en el ámbito de su competencia, que le soliciten las autoridades federales, estatales y municipales;
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+IX. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
-VII bis. Elaborar y proponer al Ejecutivo del Estado el inventario de especies vegetales nativas;
+X. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-VII bis 1. Emitir opiniones en el ámbito de su competencia, que le soliciten las autoridades federales, estatales y municipales;
+Atribuciones de la Secretaría en materia de vivienda
 
-VIII. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
+Artículo 17 bis 1. La Secretaría tendrá en materia de vivienda, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes:
 
-IX. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
+I. Proponer al Ejecutivo del Estado las políticas estatales de vivienda y ejecutarlas, incluyendo la constitución de reservas territoriales;
+
+II. Promover el ordenamiento y administración sustentable del territorio de los centros de población, conjuntamente con las dependencias y entidades de la administración pública federal y municipal que corresponda, así como coordinar las acciones que el Ejecutivo del Estado convenga en esta materia, con la participación de los sectores social y privado;
+
+III. Planear, promover, ejecutar, concertar y evaluar las acciones e inversiones en materia de vivienda en todos sus tipos y modalidades, con la participación de los gobiernos de los diferentes ámbitos y de los sectores social y privado;
+
+IV. Promover y apoyar mecanismos de coordinación y financiamiento en materia de vivienda, con la participación de otras dependencias y entidades de la administración pública federal, estatal o municipal, de las instituciones de crédito, públicas y privadas, y de los diversos grupos sociales;
+
+V. Prestar apoyo y soporte técnicos a las unidades administrativas municipales y asesorar, previa solicitud de los ayuntamientos, en la formulación de los contenidos en materia de vivienda de los programas a que se refiere el Código;
+
+VI. Promover, apoyar y realizar investigaciones científicas y tecnológicas en materia de vivienda;
+
+VII. Coordinar la operación y funcionamiento del Inventario Habitacional y de Suelo para Vivienda;
+
+VIII. Participar en la ejecución de las acciones en materia de vivienda previstas en el programa estatal, de conformidad con la normatividad aplicable;
+
+IX. Identificar las necesidades de infraestructura pública, equipamiento urbano y servicios públicos, proponer su incorporación en los programas, así como promover y apoyar su ejecución con los municipios y con los sectores social y privado;
+
+X. Promover ante las instancias competentes la gestión de recursos para la ejecución de acciones, obras y servicios de infraestructura pública relacionados con el desarrollo urbano y la movilidad sustentable;
+
+XI. Promover ante las instancias competentes el desarrollo, construcción, conservación y mejoramiento de obras de infraestructura pública para el desarrollo urbano, en coordinación con otras dependencias y entidades de la administración pública estatal y municipal competentes;
+
+XII. Fungir como agente técnico de los fondos crediticios y financieros destinados a la ejecución de obras y servicios en materia de infraestructura pública y equipamiento urbano, para apoyar la vivienda;
+
+XIII. Apoyar técnicamente a los municipios y a los grupos sociales organizados, en la integración y elaboración de estudios y proyectos de infraestructura pública y equipamiento urbano;
+
+XIV. Generar soluciones habitacionales de interés social, que propicien el crecimiento ordenado de los asentamientos humanos;
+
+XV. Ejecutar proyectos para la adquisición de suelo, urbanización y venta de lotes con servicios, que promuevan el desarrollo urbano y habitacional;
+
+XVI. Desarrollar, ejecutar y promover esquemas, instrumentos, mecanismos y programas de financiamiento para la vivienda, en sus diferentes tipos y modalidades, priorizando la atención a la población de menores ingresos, coordinando su ejecución con las instancias correspondientes;
+
+XVII. Evaluar y dar seguimiento a la aplicación de fondos que se deriven de las acciones e inversiones convenidas, en los términos de las fracciones anteriores;
+
+XVIII. Promover e impulsar las acciones de las diferentes instituciones de los sectores público, social y privado, en sus respectivos ámbitos de competencia, para el desarrollo de la vivienda en los aspectos normativos, tecnológicos, productivos y sociales;
+
+XIX. Fomentar y apoyar medidas que promuevan la calidad de la vivienda;
+
+XX. Realizar la planeación, programación, presupuestación, ejecución y evaluación de las acciones de vivienda de su competencia, incluyendo la constitución, administración y aprovechamiento de reservas territoriales, otorgando atención preferente a la población de menores ingresos;
+
+XXI. Constituir, administrar y aprovechar las reservas territoriales para vivienda y convenir programas y acciones de vivienda con la Federación y con los municipios;
+
+XXII. Fomentar y apoyar acciones y proyectos para la constitución y operación de organismos de carácter no lucrativo en materia de vivienda;
+
+XXIII. Apoyar a las autoridades municipales en la planeación, gestión de recursos, operación de programas y en la ejecución y evaluación de acciones en materia de vivienda, incluyendo la constitución, administración y aprovechamiento de reservas territoriales;
+
+XXIV. Celebrar con las dependencias y entidades de la administración pública federal o municipal, así como con propietarios, desarrolladores y productores sociales de vivienda, toda clase de actos jurídicos para la implementación de las políticas de vivienda y demás acciones inmobiliarias;
+
+XXV. Promover la participación de los sectores social y privado en la instrumentación de las acciones de vivienda, incluyendo la constitución, administración y aprovechamiento de reservas territoriales, de conformidad con lo dispuesto en el Código y en los demás ordenamientos legales aplicables;
+
+XXVI. Coadyuvar con otras dependencias para generar opciones de financiamiento para que más familias tengan acceso a créditos de vivienda;
+
+XXVII. Involucrar a los desarrolladores de vivienda, universidades, proveedores y colegios de profesionistas en el diseño y ejecución de las políticas públicas en materia de soluciones habitacionales de interés social y financiamiento a las viviendas; y
+
+XXVIII. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Atribuciones de la Secretaría en materia de tenencia de la tierra
+
+Artículo 17 bis 2. La Secretaría tendrá en materia de tenencia de la tierra, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes:
+
+I. Organizar y ejecutar acciones para la regularización de los asentamientos humanos en el Estado;
+
+II. Detectar los asentamientos humanos que no cumplan con las disposiciones del Código, en coordinación con los municipios, y llevar el padrón de los mismos;
+
+III. Coordinarse con las autoridades federales, estatales y municipales para la ejecución de las acciones de regularización de asentamientos humanos;
+
+IV. Asesorar a las autoridades municipales para la integración de expedientes de asentamientos humanos susceptibles de ser regularizados y proporcionar el apoyo técnico que se requiera para ello;
+
+V. Apoyar a las diversas dependencias y entidades de los gobiernos federal, estatal y municipales en trámites expropiatorios en asuntos de su competencia, cuando así se lo requieran;
+
+VI. Proponer el establecimiento de normas, criterios y métodos para la coordinación con las instituciones que participen en la regularización de la tenencia de la tierra;
+
+VII. Tramitar y dar seguimiento a las solicitudes de regularización de los asentamientos humanos en la entidad, que le sean turnados para su atención;
+
+VIII. Organizar y ejecutar programas y acciones para la regularización de predios rústicos en la entidad;
+
+IX. Coordinar, vigilar y supervisar el funcionamiento de la Inspectoría Rural y de las inspectorías móviles que se establezcan;
+
+X. Dar seguimiento a las solicitudes de regularización de los predios rústicos en la entidad, que le sean turnados para su atención;
+
+XI. Colaborar con las dependencias y entidades de la administración pública federal, estatal y municipal, en la ejecución de acciones para la regularización de la tenencia de la tierra; y
+
+XII. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
+
+#### Sección Tercera. Instituto de Ecología
+
+###### Artículo 18.
+
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -781,7 +889,9 @@ X. Prestar apoyo y soporte técnicos a los organismos operadores municipales y a
 
 XI. Verificar que se inscriban en el Padrón Inmobiliario del Estado los títulos que amparen derechos de agua de jurisdicción estatal, en los términos de la Ley del Patrimonio Inmobiliario del Estado;
 
-XII. Coadyuvar con el Instituto de Ecología en la formulación de los anteproyectos de normas técnicas ambientales para el uso eficiente del agua;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Coadyuvar con la Secretaría en la formulación de los anteproyectos de normas técnicas ambientales para el uso eficiente del agua;
 
 XIII. Fomentar, coordinar, concertar y en su caso, realizar la investigación y desarrollo tecnológico en materia de agua y la formación y capacitación de recursos humanos;
 
@@ -809,6 +919,10 @@ XVIII. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposicion
 
 XIX. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Para el ejercicio de las atribuciones contenidas en las fracciones II, III, IV, V, VI y XIV, la Comisión Estatal del Agua de Guanajuato se coordinará con la Secretaría.
+
 Órganos de gobierno
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
@@ -827,9 +941,9 @@ El Consejo Directivo estará integrado por:
 
 I. El titular de la Secretaría, quien fungirá como Presidente;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-II. Los titulares de las Secretarías de Desarrollo Agroalimentario y Rural, de Desarrollo Económico Sustentable, de Finanzas, Inversión y Administración, de Salud, de Educación y de Obra Pública; así como del Instituto de Ecología, la Comisión de Vivienda y del Instituto de Planeación;
+II. Los titulares de las Secretarías de Desarrollo Agroalimentario y Rural, de Desarrollo Económico Sustentable, de Finanzas, Inversión y Administración, de Salud, de Educación y de Infraestructura, Conectividad y Movilidad; así como del Instituto de Planeación;
 
 III. Seis representantes de los municipios del Estado, designados por los respectivos ayuntamientos;
 
@@ -929,163 +1043,29 @@ VIII. Las demás que establezca el Código y las demás disposiciones jurídicas
 
 #### Sección Quinta. Comisión de Vivienda
 
-Naturaleza y atribuciones de la Comisión
-
 ###### Artículo 24.
 
-La Comisión de Vivienda del Estado de Guanajuato es un organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propios, con las atribuciones siguientes:
-
-I. Proponer al Ejecutivo del Estado y ejecutar, promover y controlar las políticas estatales de vivienda, incluyendo la constitución de reservas territoriales;
-
-II. Promover el ordenamiento y administración sustentable del territorio de los centros de población, conjuntamente con las dependencias y entidades de la administración pública federal y municipal que corresponda, así como coordinar las acciones que el Ejecutivo del Estado convenga en esta materia, con la participación de los sectores social y privado;
-
-III. Planear, promover, ejecutar, concertar y evaluar las acciones e inversiones en materia de vivienda en todos sus tipos y modalidades, con la participación de los gobiernos de los diferentes ámbitos y de los sectores social y privado;
-
-IV. Promover y apoyar mecanismos de coordinación y financiamiento en materia de vivienda, con la participación de otras dependencias y entidades de la administración pública federal, estatal o municipal, de las instituciones de crédito, públicas y privadas, y de los diversos grupos sociales;
-
-V. Prestar apoyo y soporte técnicos a las unidades administrativas municipales y asesorar, previa solicitud de los ayuntamientos, en la formulación de los contenidos en materia de vivienda de los programas a que se refiere el Código;
-
-VI. Promover, apoyar y realizar investigaciones científicas y tecnológicas en materia de vivienda;
-
-VII. Coordinar la operación y funcionamiento del Inventario Habitacional y de Suelo para Vivienda;
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
-VIII. Participar en la formulación y ejecución del programa estatal y promover su cumplimiento, conforme a lo establecido en la Ley General, este Código y la Ley de Planeación para el Estado de Guanajuato;
-
-IX. Identificar las necesidades de infraestructura pública, equipamiento urbano y servicios públicos, proponer su incorporación en los programas, así como promover y apoyar su ejecución con los municipios y con los sectores social y privado;
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
-X. Promover ante las instancias competentes la gestión de recursos para la ejecución de acciones, obras y servicios de infraestructura pública relacionados con el desarrollo urbano y la movilidad sustentable;
-
-XI. Promover ante las instancias competentes el desarrollo, construcción, conservación y mejoramiento de obras de infraestructura pública para el desarrollo urbano, en coordinación con otras dependencias y entidades de la administración pública estatal y municipal competentes;
-
-XII. Fungir como agente técnico de los fondos crediticios y financieros destinados a la ejecución de obras y servicios en materia de infraestructura pública y equipamiento urbano, para apoyar la vivienda;
-
-XIII. Apoyar técnicamente a los municipios y a los grupos sociales organizados, en la integración y elaboración de estudios y proyectos de infraestructura pública y equipamiento urbano;
-
-XIV. Colaborar con las dependencias y entidades de la administración pública federal, estatal y municipal, en la ejecución de acciones para la regularización de la tenencia de la tierra;
-
-XV. Ejecutar proyectos para la adquisición de suelo, urbanización y venta de lotes con servicios, que promuevan el desarrollo urbano y habitacional;
-
-XVI. Desarrollar, ejecutar y promover esquemas, instrumentos, mecanismos y programas de financiamiento para la vivienda, en sus diferentes tipos y modalidades, priorizando la atención a la población de menores ingresos, coordinando su ejecución con las instancias correspondientes;
-
-XVII. Evaluar y dar seguimiento a la aplicación de fondos que se deriven de las acciones e inversiones convenidas, en los términos de las fracciones anteriores;
-
-XVIII. Promover e impulsar las acciones de las diferentes instituciones de los sectores público, social y privado, en sus respectivos ámbitos de competencia, para el desarrollo de la vivienda en los aspectos normativos, tecnológicos, productivos y sociales;
-
-XIX. Fomentar y apoyar medidas que promuevan la calidad de la vivienda;
-
-XX. Realizar la planeación, programación, presupuestación, ejecución y evaluación de las acciones de vivienda de su competencia, incluyendo la constitución, administración y aprovechamiento de reservas territoriales, otorgando atención preferente a la población de menores ingresos;
-
-XXI. Constituir, administrar y aprovechar las reservas territoriales para vivienda y convenir programas y acciones de vivienda con la Federación y con los municipios;
-
-XXII. Fomentar y apoyar acciones y proyectos para la constitución y operación de organismos de carácter no lucrativo en materia de vivienda;
-
-XXIII. Apoyar a las autoridades municipales en la planeación, gestión de recursos, operación de programas y en la ejecución y evaluación de acciones en materia de vivienda, incluyendo la constitución, administración y aprovechamiento de reservas territoriales;
-
-XXIV. Celebrar con las dependencias y entidades de la administración pública federal o municipal, así como con propietarios, desarrolladores y productores sociales de vivienda, toda clase de actos jurídicos para la implementación de las políticas de vivienda y demás acciones inmobiliarias;
-
-XXV. Promover la participación de los sectores social y privado en la instrumentación de las acciones de vivienda, incluyendo la constitución, administración y aprovechamiento de reservas territoriales, de conformidad con lo dispuesto en el Código y en los demás ordenamientos legales aplicables;
-
-XXVI. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
-
-XXVII. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
-
-Órganos de gobierno
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 25.
 
-Para el gobierno, operación, administración y funcionamiento de la Comisión de Vivienda, se contará con una Junta de Gobierno y un Director General, así como con las unidades administrativas necesarias para cumplir con sus atribuciones y que permita el presupuesto.
-
-Integración de la Junta de Gobierno
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 26.
 
-La Junta de Gobierno será el máximo órgano de la Comisión de Vivienda del Estado de Guanajuato y estará integrada por:
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
-I. El titular de la Secretaría, quien fungirá como Presidente;
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
-II. Los titulares de las Secretarías de Gobierno, de Finanzas, Inversión y Administración, de Desarrollo Económico Sustentable, de Salud, de Educación y de Obra Pública; así como del Instituto de Ecología, la Comisión Estatal del Agua de Guanajuato y del Instituto de Planeación;
-
-III. Seis representantes de los municipios del Estado, designados por los respectivos ayuntamientos; y
-
-IV. El Director General de la Comisión de Vivienda, quien actuará como secretario técnico.
-
-El reglamento interior establecerá el mecanismo para el nombramiento de los representantes a que se refieren la fracción III de este artículo.
-
-Por cada integrante propietario se designará, por escrito, a un suplente con carácter permanente.
-
-El cargo de los integrantes de la Junta de Gobierno será de carácter honorífico, por lo que no se percibirá retribución, emolumento o compensación alguna por el desempeño de esas funciones.
-
-Cuando el Titular del Ejecutivo asista a las sesiones de la Junta de Gobierno, asumirá la presidencia y el Titular de la Secretaría pasará a ser un integrante más.
-
-Atribuciones de la Junta de Gobierno
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 27.
 
-La Junta de Gobierno tendrá las atribuciones siguientes:
-
-I. Aprobar el reglamento interior, así como las demás normas necesarias para el funcionamiento de la Comisión de Vivienda, a propuesta del Director General;
-
-II. Aprobar el programa institucional de la Comisión de Vivienda;
-
-III. Aprobar anualmente el pronóstico de ingresos, el programa operativo y el presupuesto general de gastos e inversión, así como los requerimientos de transferencias o subsidios de la Comisión de Vivienda, los cuales deberán hacerse del conocimiento del Titular del Ejecutivo;
-
-IV. Autorizar las políticas para la celebración de acuerdos, convenios, contratos, mandatos y comisiones relacionados con las atribuciones de la Comisión de Vivienda;
-
-V. Aprobar las políticas generales de colaboración con los sectores social y privado;
-
-VI. Formular las reglas de operación de los programas;
-
-VII. Aprobar los programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y de prestación de servicios, que se requieran para el cumplimiento de las atribuciones de la Comisión de Vivienda;
-
-VIII. Analizar y aprobar, en su caso, los informes que rinda el Director General, con la intervención que corresponda a la Secretaría de la Gestión Pública;
-
-IX. Conocer y resolver aquellos asuntos que someta a su consideración el Director General;
-
-X. Vincular las acciones de fomento al crecimiento económico, de desarrollo social, desarrollo urbano, desarrollo rural, ordenación del territorio, mejoramiento ambiental y aprovechamiento óptimo de los recursos naturales, con las políticas nacional, estatal y municipales de vivienda;
-
-XI. Acordar inversiones y mecanismos de financiamiento y coordinación para ampliar la oferta habitacional; facilitar el crédito a toda la población; consolidar la producción social de vivienda y lograr una mayor transparencia y equidad en la asignación de los apoyos, estímulos y subsidios federales para la adquisición, construcción y mejoramiento de viviendas, particularmente los dirigidos a la población de menores ingresos;
-
-XII. Conocer las opiniones y recomendaciones del Consejo Estatal de Vivienda;
-
-XIII. Aprobar la creación de subcomisiones y grupos de trabajo para la atención de temas específicos;
-
-XIV. Otorgar facultades al Director General para que en representación de la Comisión ejerza actos de dominio inherentes a las atribuciones de la Comisión de Vivienda; y
-
-XV. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
-
-Facultades del Director General
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 28.
 
-El Director General de la Comisión de Vivienda contará con las facultades siguientes:
-
-I. Ejercer la representación legal de la Comisión de Vivienda y otorgar poderes para actos de administración y para pleitos y cobranzas, previa autorización de la Junta de Gobierno;
-
-II. Ejercer las funciones de su competencia por acuerdo del Titular del Ejecutivo;
-
-III. Administrar los recursos humanos, materiales y financieros asignados a la Comisión;
-
-IV. Proponer a la Junta de Gobierno el nombramiento y remoción de los servidores públicos que ocupen cargos de los dos niveles jerárquicos administrativos inferiores al del propio Titular;
-
-V. Celebrar los actos jurídicos, convenios y contratos para el adecuado ejercicio de las atribuciones de la Comisión;
-
-VI. Proponer a la Junta de Gobierno para su aprobación, el reglamento interior de la Comisión de Vivienda, así como el programa institucional;
-
-VII. Presentar ante la Junta de Gobierno, el informe anual de las actividades de la Comisión de Vivienda, así como de la situación que guardan semestralmente los programas a su cargo; y
-
-VIII. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 #### Sección Sexta. Instituto de Planeación
 
-> <small>(REFORMADO ACÁPITE, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Atribuciones del Instituto de Planeación
 
@@ -1109,7 +1089,7 @@ V. Gestionar la publicación del programa estatal, en los términos del Código;
 
 VI. Tramitar y obtener la inscripción del programa estatal en el Registro Público de la Propiedad;
 
-VII. Brindar asesoría y soporte técnico a las dependencias y entidades en materia de ordenamiento y administración sustentable del territorio;
+VII. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 > <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
@@ -1123,33 +1103,31 @@ IX. Dictaminar la congruencia y vinculación con la planeación nacional y estat
 
 IX bis. Informar a los titulares del Periódico Oficial del Gobierno del Estado de Guanajuato y del Registro Público de la Propiedad, de la emisión del dictamen de congruencia o la no validación de los programas a que se refiere la fracción anterior;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-X. Coordinar la planeación del ordenamiento sustentable del territorio de los centros de población que constituyan o tiendan a constituir zonas conurbadas o metropolitanas, en coordinación con las autoridades federales, estatales y municipales competentes;
+X. Participar en la planeación del ordenamiento sustentable del territorio de los centros de población que constituyan o tiendan a constituir zonas conurbadas o metropolitanas, en coordinación con las autoridades federales, estatales y municipales competentes;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 XI. Participar en la coordinación de las acciones que convenga el Ejecutivo del Estado con la Federación, con los gobiernos de otros estados y con los ayuntamientos, para el ordenamiento sustentable del territorio de las zonas metropolitanas ubicadas en el Estado;
 
-XII. Promover el desarrollo, construcción, conservación y mejoramiento de obras de equipamiento urbano e infraestructura pública para el desarrollo urbano, regional y metropolitano, en coordinación con los gobiernos federal y municipal, y la participación de los sectores social y privado;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+XII. Participar en la promoción del desarrollo, construcción, conservación y mejoramiento de obras de equipamiento urbano e infraestructura pública para el desarrollo urbano, regional y metropolitano, en coordinación con los gobiernos federal y municipal, y la participación de los sectores social y privado;
 
-XIII. Promover la constitución, administración y aprovechamiento de provisiones y reservas territoriales, la programación de acciones para la dotación de infraestructura pública y equipamiento urbano, así como para la preservación y restauración del equilibrio ecológico y la protección al paisaje, a la imagen urbana y al patrimonio natural, cultural urbano y arquitectónico, en coordinación con otras dependencias y entidades públicas y con la participación de los sectores social y privado;
+XIII. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 XIV. Organizar, desarrollar y promover actividades de investigación en materia de ordenamiento y administración sustentables del territorio;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-XV. Coordinar las acciones en los términos de los acuerdos o convenios de coordinación que celebre el Ejecutivo del Estado con la Federación, con otras entidades federativas, municipios o demarcaciones territoriales, según corresponda, en las materias que regula la Ley General y este Código;
+XV. Participar en las acciones que correspondan al Gobierno del Estado, y que deriven de los acuerdos o convenios de coordinación que celebre el Ejecutivo del Estado con la Federación, con otras entidades federativas, municipios o demarcaciones territoriales, según corresponda, en las materias que regula la Ley General y este Código;
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 XV bis. Participar en los órganos de deliberación y consulta en materia de desarrollo urbano, establecidos en la Ley General;
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
-XV bis 1. Emitir los lineamientos y coordinar las acciones para la evaluación y seguimiento al impacto urbano o regional, que deberán observar los entes ejecutores de obras y proyectos que generen efectos en el territorio de uno o más municipios de la entidad;
+XV bis 1. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -1773,13 +1751,13 @@ Procedimiento para la formulación y aprobación del programa estatal
 
 En la formulación y aprobación del programa estatal se seguirá el procedimiento siguiente:
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-I. La elaboración del diagnóstico será coordinada por el Instituto de Planeación, con la participación de la Secretaría, la Comisión de Vivienda, el Instituto de Ecología y la Comisión Estatal del Agua de Guanajuato, así como de las dependencias y entidades de la administración pública federal y estatal que se estime necesaria, a partir de los resultados de los estudios e investigaciones de que dispongan;
+I. La elaboración del diagnóstico será coordinada por el Instituto de Planeación, con la participación de la Secretaría y de las dependencias y entidades de la administración pública federal y estatal que se estime necesaria, a partir de los resultados de los estudios e investigaciones de que dispongan;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-II. El Instituto de Planeación, con la participación de la Secretaría, la Comisión de Vivienda, el Instituto de Ecología y la Comisión Estatal del Agua de Guanajuato, así como de las dependencias y entidades de la administración pública estatal que se estime necesaria, formulará el proyecto del programa estatal;
+II. El Instituto de Planeación, con la participación de la Secretaría, así como de las dependencias y entidades de la administración pública estatal que se estime necesaria, formulará el proyecto del programa estatal;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -1793,9 +1771,9 @@ IV. Una vez recibidas las opiniones de los ayuntamientos, los consejos y las dep
 
 V. El Consejo de Planeación para el Desarrollo del Estado de Guanajuato, una vez recibido el proyecto del programa estatal, en el plazo que le señala la fracción anterior lo pondrá a disposición del público en general, en consulta pública, para que los interesados presenten en forma impresa en papel, o en forma electrónica a través del sitio web del Instituto de Planeación, los planteamientos que consideren respecto del proyecto del programa estatal;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-VI. El Instituto de Planeación, recibidos los resultados de la consulta pública, y con la participación de la Secretaría, la Comisión de Vivienda, el Instituto de Ecología y la Comisión Estatal del Agua de Guanajuato, realizará las adecuaciones procedentes dentro de los diez días hábiles siguientes, y someterá a la aprobación del Ejecutivo del Estado el proyecto del programa estatal; y
+VI. El Instituto de Planeación, recibidos los resultados de la consulta pública, y con la participación de la Secretaría, realizará las adecuaciones procedentes dentro de los diez días hábiles siguientes, y someterá a la aprobación del Ejecutivo del Estado el proyecto del programa estatal; y
 
 VII. Aprobado el programa estatal por el Titular del Ejecutivo, el Instituto de Planeación:
 
@@ -1853,9 +1831,9 @@ I. La determinación de las diferentes regiones ecológicas del Estado, describi
 
 II. Los criterios de regulación ambiental para la preservación, protección, restauración y aprovechamiento sustentable de los recursos naturales que se localicen en el Estado, así como para la realización de actividades productivas y la ubicación de los centros de población;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-III. Los objetivos y estrategias de la planeación hidráulica;
+III. Los objetivos y estrategias de la planeación hídrica e hidráulica;
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -1957,9 +1935,9 @@ II. La realización de estudios que permitan complementar y actualizar el acervo
 
 III. Las bases y lineamientos para:
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-a) La formulación y actualización del apartado relativo a la planeación hidráulica en el programa estatal, el Programa de Gobierno del Estado, los programas que deriven del mismo y en los programas operativos anuales de la Comisión Estatal del Agua de Guanajuato;
+a) La formulación y actualización del apartado relativo a la planeación hidráulica en el programa estatal, el Programa de Gobierno del Estado y los programas que deriven del mismo;
 
 b) La programación y evaluación anual del cumplimiento de metas y del impacto de los programas, políticas y acciones en materia hidráulica estatal;
 
@@ -2003,11 +1981,13 @@ El programa estatal deberá ser revisado y actualizado dentro de los seis meses 
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Autoridad encargada del control y evaluación de la planeación territorial
 
 ###### Artículo 54.
 
-El control y la evaluación de los resultados obtenidos en la planeación territorial en el Estado, estará a cargo del Instituto de Planeación, quien presentará y publicará cada año el informe respectivo.
+El control y la evaluación de los resultados obtenidos en la planeación territorial en el Estado, estará a cargo de la Secretaría, quien presentará y publicará cada año el informe respectivo.
 
 Estrategias en materia hidráulica
 
@@ -2717,15 +2697,15 @@ Una vez que el programa municipal en que se establezca la zonificación haya sid
 
 #### Sección Primera. Zonificación forestal
 
-Zonificación forestal
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+Zonificación forestal
 
 ###### Artículo 83.
 
-Para la formulación y actualización de la zonificación forestal del Estado, el Ejecutivo integrará el Inventario Estatal Forestal y de Suelos, e incorporará su contenido al Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano, así como a los sistemas nacional y estatal de información forestal, de conformidad con los criterios, metodología y procedimientos establecidos en la Ley General de Desarrollo Forestal Sustentable y su reglamento.
+Para la formulación y actualización de la zonificación forestal del Estado, la Secretaría integrará el Inventario Estatal Forestal y de Suelos, e incorporará su contenido al Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano, así como a los sistemas nacional y estatal de información forestal, de conformidad con los criterios, metodología y procedimientos establecidos en la Ley General de Desarrollo Forestal Sustentable y su reglamento.
 
-Para tal efecto, el Ejecutivo del Estado efectuará los estudios necesarios para integrar, organizar y mantener actualizada la zonificación forestal en el Estado, con base en el programa de ordenamiento ecológico general del territorio que emitan las autoridades federales competentes, y la información del programa estatal forestal correspondiente, así como aquélla que expidan las autoridades federales, en los términos de la Ley General de Desarrollo Forestal Sustentable, la Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato y su reglamento.
+Para tal efecto, la Secretaría efectuará los estudios necesarios para integrar, organizar y mantener actualizada la zonificación forestal en el Estado, con base en el programa de ordenamiento ecológico general del territorio que emitan las autoridades federales competentes, y la información del programa estatal forestal correspondiente, así como aquélla que expidan las autoridades federales, en los términos de la Ley General de Desarrollo Forestal Sustentable, la Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato y su reglamento.
 
 Uso de la información del Inventario Estatal Forestal y de Suelos
 
@@ -2845,9 +2825,11 @@ En todo caso, las declaratorias deberán publicarse en el Periódico Oficial del
 
 Opinión durante el proceso para declarar un área natural protegida
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 93.
 
-Compete al Instituto de Ecología realizar o coordinar los estudios previos que sustenten técnicamente la declaratoria, así como proponer al Ejecutivo del Estado su expedición, los que deberán estar a disposición del público. Asimismo deberá solicitar la opinión de:
+Compete a la Secretaría realizar o coordinar los estudios previos que sustenten técnicamente la declaratoria, así como proponer al Ejecutivo del Estado su expedición, los que deberán estar a disposición del público. Asimismo deberá solicitar la opinión de:
 
 I. Los ayuntamientos en cuyas circunscripciones territoriales se localice el área natural de que se trate;
 
@@ -2891,7 +2873,9 @@ Predios comprendidos en las áreas naturales protegidas
 
 Las áreas naturales protegidas podrán comprender de manera parcial o total, predios sujetos a cualquier régimen jurídico, siempre que no sean de propiedad federal.
 
-Los terrenos propiedad del Estado ubicados dentro de áreas naturales protegidas de competencia estatal, quedarán a disposición del Instituto de Ecología, el que los abocará a los destinos establecidos en la declaratoria y el programa de manejo correspondientes, conforme a las disposiciones jurídicas que resulten aplicables.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Los terrenos propiedad del Estado ubicados dentro de áreas naturales protegidas de competencia estatal, quedarán a disposición de la Secretaría, la que los abocará a los destinos establecidos en la declaratoria y el programa de manejo correspondientes, conforme a las disposiciones jurídicas que resulten aplicables.
 
 Modificación de la declaratoria de área natural protegida
 
@@ -2915,7 +2899,9 @@ Programa de manejo
 
 Cada área natural protegida deberá contar con un programa de manejo que será elaborado con la participación de las personas e instituciones involucradas.
 
-El Instituto de Ecología y los ayuntamientos formularán el programa de manejo del área natural protegida de que se trate, dentro de los cuatro meses siguientes a la publicación de la declaratoria respectiva en el Periódico Oficial del Gobierno del Estado de Guanajuato, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las dependencias y entidades competentes, a los ayuntamientos, así como a las organizaciones sociales, públicas y privadas, y demás personas interesadas.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría y los ayuntamientos formularán el programa de manejo del área natural protegida de que se trate, dentro de los cuatro meses siguientes a la publicación de la declaratoria respectiva en el Periódico Oficial del Gobierno del Estado de Guanajuato, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las dependencias y entidades competentes, a los ayuntamientos, así como a las organizaciones sociales, públicas y privadas, y demás personas interesadas.
 
 Los programas de manejo de las áreas naturales protegidas deberán revisarse y, en su caso, actualizarse dentro de los tres meses siguientes a la publicación de la actualización de los programas estatales.
 
@@ -2957,11 +2943,13 @@ VIII. Las bases para la formulación de los programas operativos anuales; y
 
 IX. Los indicadores con que se evaluará el cumplimiento del programa de manejo.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Publicación de la versión abreviada del programa de manejo
 
 ###### Artículo 101.
 
-El Instituto de Ecología y los ayuntamientos deberán publicar en el Periódico Oficial del Gobierno del Estado de Guanajuato, así como en un diario de circulación en el o los municipios en que se localice el área natural protegida, la versión abreviada del programa de manejo, que incluirá el plano de localización de la misma.
+La Secretaría y los ayuntamientos deberán publicar en el Periódico Oficial del Gobierno del Estado de Guanajuato, así como en un diario de circulación en el o los municipios en que se localice el área natural protegida, la versión abreviada del programa de manejo, que incluirá el plano de localización de la misma.
 
 Inscripción de las declaratorias y programas de manejo
 
@@ -2975,15 +2963,19 @@ Acuerdos y convenios
 
 Una vez que se cuente con el programa de manejo respectivo, el Ejecutivo del Estado de Guanajuato y los ayuntamientos podrán celebrar acuerdos y convenios con pueblos y comunidades indígenas, comunidades ejidales, organizaciones sociales o empresariales, así como con las demás personas físicas o jurídico colectivas interesadas, para que participen en el cuidado, administración y mantenimiento de las áreas naturales protegidas, así como en la ejecución de medidas, proyectos y acciones de forestación, reforestación, de educación ambiental y de fomento cultural.
 
-El Instituto de Ecología y la unidad administrativa municipal correspondiente deberán supervisar y evaluar el cumplimiento de los acuerdos y convenios que se suscriban para la formulación, ejecución y seguimiento de los programas de manejo, así como promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y demás personas interesadas.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría y la unidad administrativa municipal correspondiente deberán supervisar y evaluar el cumplimiento de los acuerdos y convenios que se suscriban para la formulación, ejecución y seguimiento de los programas de manejo, así como promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y demás personas interesadas.
 
 Las personas que en virtud de lo dispuesto en este artículo adquieran la responsabilidad de participar en el cuidado, administración y mantenimiento de las áreas naturales protegidas estarán obligadas a sujetarse a las previsiones contenidas en el Código, la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, así como a cumplir las declaratorias por las que se establezcan dichas áreas y los programas respectivos.
 
 Acciones para la preservación y aprovechamiento sustentable de la vida silvestre
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 104.
 
-Para la preservación y aprovechamiento sustentable de la vida silvestre dentro de áreas naturales protegidas, el Instituto de Ecología y los ayuntamientos, previa elaboración de los estudios técnicos correspondientes, podrán promover ante las autoridades federales competentes:
+Para la preservación y aprovechamiento sustentable de la vida silvestre dentro de áreas naturales protegidas, la Secretaría y los ayuntamientos, previa elaboración de los estudios técnicos correspondientes, podrán promover ante las autoridades federales competentes:
 
 I. El establecimiento o modificación de zonas de veda, de áreas de refugio o de hábitats críticos para la conservación de la vida silvestre;
 
@@ -3013,17 +3005,17 @@ Los pueblos y comunidades indígenas y demás propietarios, poseedores o usufruc
 
 El solicitante deberá presentar el programa de aprovechamiento, el que se sujetará a la declaratoria y al programa de manejo respectivo.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Propuestas para el establecimiento de áreas naturales protegidas
 
 ###### Artículo 107.
 
-Los pueblos y comunidades indígenas, comunidades ejidales, organizaciones sociales y demás personas interesadas, podrán proponer al Instituto de Ecología el establecimiento de áreas naturales protegidas, en terrenos en los que ejerzan derechos de propiedad o posesión, cuando se trate de áreas que puedan destinarse a la preservación, protección y restauración de la biodiversidad.
+Los pueblos y comunidades indígenas, comunidades ejidales, organizaciones sociales y demás personas interesadas, podrán proponer a la Secretaría el establecimiento de áreas naturales protegidas, en terrenos en los que ejerzan derechos de propiedad o posesión, cuando se trate de áreas que puedan destinarse a la preservación, protección y restauración de la biodiversidad.
 
-El Instituto de Ecología, en su caso, promoverá ante el Ejecutivo del Estado la expedición de la declaratoria respectiva y elaborará el programa de manejo con la participación del solicitante, conforme a las disposiciones de esta Sección.
+La Secretaría, en su caso, promoverá ante el titular del poder Ejecutivo del Estado la expedición de la declaratoria respectiva y elaborará el programa de manejo con la participación del solicitante, conforme a las disposiciones de esta sección.
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
-
-Los predios a que se refiere este artículo se considerarán como áreas productivas dedicadas a una función de utilidad pública, por lo que, una vez emitida la declaratoria y el programa de manejo respectivo, los propietarios, poseedores o usufructuarios podrán solicitar al Instituto de Ecología que expida el certificado respectivo, mismo que deberá contener, al menos, el nombre del interesado, la denominación y modalidad del área o predio, su ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y, en su caso, el plazo de vigencia.
+Los predios a que se refiere este artículo se considerarán como áreas productivas dedicadas a una función de utilidad pública, por lo que, una vez emitida la declaratoria y el programa de manejo respectivo, los propietarios, poseedores o usufructuarios podrán solicitar a la Secretaría que expida el certificado respectivo, mismo que deberá contener, al menos, el nombre del interesado, la denominación y modalidad del área o predio, su ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y, en su caso, el plazo de vigencia.
 
 Denuncia de los actos que impliquen infracción a las declaratorias o programas de manejo
 
@@ -3061,7 +3053,9 @@ IV. El titular del organismo operador;
 
 V. El titular de la unidad administrativa municipal en materia de planeación;
 
-VI. Un representante del Instituto de Ecología, designado por su Titular;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Un representante de la Secretaría, designado por su Titular;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -3091,29 +3085,31 @@ Acciones para salvaguardar la integridad de los humedales de importancia interna
 
 El Comité Técnico podrá requerir a las autoridades competentes que instauren los procedimientos, impongan las medidas de seguridad y ordenen las acciones y medidas correctivas que sean necesarias para salvaguardar la integridad de los humedales de importancia internacional ubicados en el territorio del Municipio, incluyendo las zonas de entorno que se determinen en los programas municipales respectivos.
 
-Acciones para prevenir la contaminación del agua
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+Acciones para prevenir la contaminación del agua
 
 ###### Artículo 114.
 
-La Comisión Estatal del Agua de Guanajuato y los organismos operadores implementarán, de manera prioritaria y en el ámbito de sus respectivas competencias, las medidas, proyectos y acciones para prevenir la contaminación del agua, así como para preservar y restaurar el equilibrio hidrológico en los humedales de importancia internacional.
+La Secretaría, la Comisión Estatal del Agua de Guanajuato y los organismos operadores implementarán, de manera prioritaria y en el ámbito de sus respectivas competencias, las medidas, proyectos y acciones para prevenir la contaminación del agua, así como para preservar y restaurar el equilibrio hidrológico en los humedales de importancia internacional.
 
 #### Sección Cuarta. Zonas de restauración
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Promoción de la declaratoria para el establecimiento de zonas de restauración
 
 ###### Artículo 115.
 
-En caso de desastres por impactos adversos del cambio climático o de procesos acelerados de desertificación o degradación que impliquen la pérdida de recursos de difícil recuperación o restablecimiento, o afectaciones irreversibles a los ecosistemas o sus elementos, el Instituto de Ecología promoverá ante el Ejecutivo del Estado la expedición de la declaratoria para el establecimiento de zonas de restauración. Para tal efecto, elaborará previamente los estudios que las justifiquen.
+En caso de desastres por impactos adversos del cambio climático o de procesos acelerados de desertificación o degradación que impliquen la pérdida de recursos de difícil recuperación o restablecimiento, o afectaciones irreversibles a los ecosistemas o sus elementos, la Secretaría promoverá ante el Ejecutivo del Estado la expedición de la declaratoria para el establecimiento de zonas de restauración. Para tal efecto, elaborará previamente los estudios que las justifiquen.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Identificación de las zonas susceptibles de restauración
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
 ###### Artículo 116.
 
-El Instituto de Ecología, en coordinación con la Secretaría de Desarrollo Agroalimentario y Rural y con la información del Inventario Estatal Forestal y de Suelos, así como con los resultados de los estudios e investigaciones de que disponga, identificará las zonas susceptibles de restauración, en el marco de las cuencas hidrológicas.
+La Secretaría, en coordinación con la Secretaría de Desarrollo Agroalimentario y Rural y con la información del Inventario Estatal Forestal y de Suelos, así como con los resultados de los estudios e investigaciones de que disponga, identificará las zonas susceptibles de restauración, en el marco de las cuencas hidrológicas.
 
 Contenido de las declaratorias de zonas de restauración
 
@@ -3133,9 +3129,11 @@ V. Los plazos para la ejecución del programa de restauración y los indicadores
 
 Programas y acciones relacionadas con el establecimiento de zonas de restauración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 118.
 
-El Instituto de Ecología deberá elaborar y expedir el programa respectivo, dentro de los veinte días hábiles siguientes a la publicación de la declaratoria para el establecimiento de zonas de restauración.
+La Secretaría deberá elaborar y expedir el programa respectivo, dentro de los veinte días hábiles siguientes a la publicación de la declaratoria para el establecimiento de zonas de restauración.
 
 Los ayuntamientos involucrados en la declaratoria deberán formular y expedir las estrategias emergentes respectivas, con base en el programa de manejo y con la participación de las personas e instituciones involucradas.
 
@@ -3163,9 +3161,9 @@ Protección de las zonas de recarga de mantos acuíferos
 
 Los programas deberán incluir políticas, normas, proyectos y acciones para la protección a las zonas de recarga de mantos acuíferos.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-Para tal efecto, las autoridades correspondientes podrán tomar la opinión del Instituto de Ecología y de la Comisión Estatal del Agua de Guanajuato.
+Para tal efecto, las autoridades correspondientes podrán tomar la opinión de la Secretaría y de la Comisión Estatal del Agua de Guanajuato.
 
 Declaratorias para la protección de zonas de recarga de mantos acuíferos
 
@@ -3275,9 +3273,9 @@ XVII. El desarrollo, construcción, conservación, mantenimiento y mejoramiento 
 
 XVIII. Las demás que se determinen en los reglamentos respectivos.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-Para tales efectos, el Instituto de Planeación en coordinación con la Secretaría, emitirá los lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones vinculados con políticas, directrices y acciones de interés metropolitano o regional, cumplan con su objetivo de cobertura y guarden congruencia con los distintos niveles y ámbitos de planeación.
+Para tales efectos, la Secretaría y el Instituto de Planeación en coordinación con las dependencias y entidades de la administración pública estatal, emitirán los lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones vinculados con políticas, directrices y acciones de interés metropolitano o regional, cumplan con su objetivo de cobertura y guarden congruencia con los distintos niveles y ámbitos de planeación.
 
 Asociaciones intermunicipales
 
@@ -3409,9 +3407,9 @@ I. Los presidentes de los municipios que conforman la zona conurbada respectiva.
 
 II. Un representante del Instituto de Planeación, designado por su Titular, quien actuará como Secretario Técnico; y
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-III. Los representantes de la Secretaría, de la Comisión Estatal del Agua de Guanajuato, del Instituto de Ecología y de la Comisión de Vivienda del Estado, designados por sus respectivos titulares.
+III. Los representantes de la Secretaría y de la Comisión Estatal del Agua de Guanajuato, designados por sus respectivos titulares.
 
 La Comisión a que se refiere este artículo podrá convocar, con el carácter de invitados permanentes, a representantes de las dependencias y entidades de la administración pública federal cuya competencia incida en la gestión de zonas conurbadas.
 
@@ -3473,17 +3471,21 @@ I. El Secretario de Gobierno, quien lo presidirá;
 
 II. Un representante del Congreso del Estado de Guanajuato;
 
-III. El Titular de la Secretaría;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+III. El Titular de la Secretaría, quien fungirá como Secretario Técnico;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 IV. El Secretario de Finanzas, Inversión y Administración;
 
-V. El Secretario de Obra Pública;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-VI. El Titular del Instituto de Ecología;
+V. El Secretario de Infraestructura, Conectividad y Movilidad;
 
-VII. El Titular de la Comisión de Vivienda;
+VI. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
+
+VII. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -3495,9 +3497,9 @@ IX. El Titular de la Procuraduría;
 
 X. Los presidentes de los municipios que formen parte de las zonas metropolitanas legalmente constituidas;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-XI. El Titular del Instituto de Planeación, quien fungirá como Secretario Técnico; y
+XI. El Titular del Instituto de Planeación; y
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -4419,11 +4421,11 @@ El Inventario Estatal Forestal y de Suelos formará parte del Subsistema Estatal
 
 Integración e información del Inventario de Áreas Naturales Protegidas
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 217.
 
-El Instituto de Ecología integrará el Inventario de Áreas Naturales Protegidas al Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano y mantendrá actualizada la información siguiente:
+La Secretaría integrará el Inventario de Áreas Naturales Protegidas al Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano y mantendrá actualizada la información siguiente:
 
 I. Los decretos a través de los cuales se declare el establecimiento de áreas naturales protegidas de competencia estatal;
 
@@ -4439,25 +4441,29 @@ VI. Los planos de localización de las áreas; y
 
 VII. Los demás actos y documentos que dispongan el Código, la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato y las demás disposiciones jurídicas relativas.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Inventario de Áreas Naturales Protegidas
 
 ###### Artículo 218.
 
-El Instituto de Ecología incluirá en el Inventario de Áreas Naturales Protegidas y mantendrá actualizada, la información relativa a los elementos distintivos de las diferentes áreas naturales protegidas, sus objetivos y los criterios para su identificación.
+La Secretaría incluirá en el Inventario de Áreas Naturales Protegidas y mantendrá actualizada, la información relativa a los elementos distintivos de las diferentes áreas naturales protegidas, sus objetivos y los criterios para su identificación.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Integración y administración del Inventario Habitacional y de Suelo para Vivienda
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
 ###### Artículo 219.
 
-La Comisión de Vivienda administrará el Inventario Habitacional y de Suelo para Vivienda, así como los indicadores en la materia, que formarán parte del Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano y en el que integrará la información de ese sector, en los términos de la ley federal de vivienda, e incluirá aquélla que permita identificar la evolución y crecimiento del mercado de vivienda, con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
+La Secretaría administrará el Inventario Habitacional y de Suelo para Vivienda, así como los indicadores en la materia, que formarán parte del Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano y en el que integrará la información de ese sector, en los términos de la ley federal de vivienda, e incluirá aquélla que permita identificar la evolución y crecimiento del mercado de vivienda, con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
 
 Objeto de la actualización del Inventario Habitacional y de Suelo para Vivienda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 220.
 
-La Comisión de Vivienda mantendrá actualizado el Inventario Habitacional y de Suelo para Vivienda, a fin de determinar los cálculos sobre el rezago y las necesidades de vivienda, su calidad y espacios, su acceso a los servicios básicos, así como la adecuada planeación de la oferta de vivienda, los requerimientos de suelo para vivienda, las necesidades de infraestructura pública, equipamiento urbano y servicios públicos, y la focalización de medidas, proyectos y acciones en la materia. Entre otros indicadores de evaluación, deberán considerarse los siguientes:
+La Secretaría mantendrá actualizado el Inventario Habitacional y de Suelo para Vivienda, a fin de determinar los cálculos sobre el rezago y las necesidades de vivienda, su calidad y espacios, su acceso a los servicios básicos, así como la adecuada planeación de la oferta de vivienda, los requerimientos de suelo para vivienda, las necesidades de infraestructura pública, equipamiento urbano y servicios públicos, y la focalización de medidas, proyectos y acciones en la materia. Entre otros indicadores de evaluación, deberán considerarse los siguientes:
 
 I. Metas por cobertura territorial;
 
@@ -4467,13 +4473,15 @@ III. Evaluación de los productos habitacionales en términos de su ubicación e
 
 IV. Evaluación de los precios de suelo, de las medidas de control para evitar su especulación y sus efectos en las políticas de vivienda.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Acceso a la información en materia de vivienda
 
 ###### Artículo 221.
 
-La Comisión de Vivienda diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de programas, acciones y financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
+La Secretaría diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de programas, acciones y financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
 
-La Comisión de Vivienda informará de los procedimientos, tiempo de respuesta, costos, requisitos y estímulos fiscales necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de material informativo dirigido a los promotores y productores sociales y privados, principalmente sobre sus programas y reglas de operación. De igual manera, elaborará y difundirá material informativo para la población acreditada o solicitante de algún crédito de vivienda.
+Además, informará de los procedimientos, tiempo de respuesta, costos, requisitos y estímulos fiscales necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de material informativo dirigido a los promotores y productores sociales y privados, principalmente sobre sus programas y reglas de operación. De igual manera, elaborará y difundirá material informativo para la población acreditada o solicitante de algún crédito de vivienda.
 
 Información y cooperación técnica
 
@@ -4499,9 +4507,9 @@ Acciones en los programas para la conservación y restauración de los terrenos 
 
 Los programas de gobierno o aquéllos derivados de los mismos, incluirán proyectos, medidas y acciones para la conservación y restauración de los terrenos forestales y preferentemente forestales, los sumideros de carbono y las cuencas hidrológicas, así como para la reconversión de tierras agropecuarias a zonas de conservación ecológica o de recarga de mantos acuíferos, formuladas a partir de los resultados de los estudios técnicos que se elaboren sobre el estado de zonas degradadas y las condiciones socioeconómicas de las mismas.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-Para tal efecto, las autoridades correspondientes podrán tomar la opinión del Instituto de Ecología, de la Secretaría de Desarrollo Agroalimentario y Rural y del Consejo Estatal Forestal.
+Para tal efecto, las autoridades correspondientes podrán tomar la opinión de la Secretaría, de la Secretaría de Desarrollo Agroalimentario y Rural y del Consejo Estatal Forestal.
 
 Acuerdos y convenios para la conservación y restauración de los espacios naturales
 
@@ -5771,9 +5779,9 @@ VII. Formar comités para promover la construcción, conservación, mantenimient
 
 #### Sección Tercera. Prevención y control de la contaminación del agua
 
-Acciones para prevenir y controlar la contaminación
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+Acciones para prevenir y controlar la contaminación
 
 ###### Artículo 328.
 
@@ -5905,39 +5913,39 @@ Cultura del Agua
 
 ###### Artículo 342.
 
-La Comisión Estatal del Agua de Guanajuato promoverá, ejecutará y evaluará las medidas y acciones necesarias para prevenir y controlar la contaminación de las aguas de jurisdicción estatal.
+La Secretaría en coordinación con la Comisión Estatal del Agua de Guanajuato promoverá, ejecutará y evaluará las medidas y acciones necesarias para prevenir y controlar la contaminación de las aguas de jurisdicción estatal.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Satisfacción de las normas de calidad
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
 ###### Artículo 343.
 
-La Comisión Estatal del Agua de Guanajuato velará que el agua utilizada para los diferentes usos a que se refiere el Código, satisfaga plena e invariablemente las normas de calidad; asimismo, gestionará e instrumentará las medidas que se requieran para impedir que desechos, residuos, basura, materiales y sustancias tóxicas o peligrosas, o lodos resultantes del tratamiento de efluentes, contaminen las aguas y bienes públicos de jurisdicción estatal.
+La Secretaría en coordinación con la Comisión Estatal del Agua de Guanajuato promoverá que el agua utilizada para los diferentes usos a que se refiere el Código, satisfaga plena e invariablemente las normas de calidad; asimismo, gestionará e instrumentará las medidas que se requieran para impedir que desechos, residuos, basura, materiales y sustancias tóxicas o peligrosas, o lodos resultantes del tratamiento de efluentes, contaminen las aguas y bienes públicos de jurisdicción estatal.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Cuerpos receptores y cargas de contaminantes
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
 ###### Artículo 344.
 
-La Comisión Estatal del Agua de Guanajuato determinará la capacidad de asimilación y dilución de los cuerpos receptores y las cargas de contaminantes que éstos pueden recibir.
+La Secretaría en coordinación con la Comisión Estatal del Agua de Guanajuato determinará la capacidad de asimilación y dilución de los cuerpos receptores y las cargas de contaminantes que éstos pueden recibir.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Declaratorias de los cuerpos de aguas de jurisdicción estatal
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
 ###### Artículo 345.
 
-La Comisión Estatal del Agua de Guanajuato en coordinación con el Instituto de Ecología, emitirá las metas de calidad del agua y los plazos para alcanzarlas, por tramos de corriente o subcuenca que contengan aguas de jurisdicción estatal; con base en lo anterior, el Titular del Poder Ejecutivo expedirá las declaratorias de los cuerpos de aguas de jurisdicción estatal.
+La Secretaría en coordinación con la Comisión Estatal del Agua de Guanajuato, emitirá las metas de calidad del agua y los plazos para alcanzarlas, por tramos de corriente o subcuenca que contengan aguas de jurisdicción estatal; con base en lo anterior, el Titular del Poder Ejecutivo expedirá las declaratorias de los cuerpos de aguas de jurisdicción estatal.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Permiso para descargar aguas residuales
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
 ###### Artículo 346.
 
-Los usuarios deberán contar con permiso de la Comisión Estatal del Agua de Guanajuato para descargar aguas residuales en forma permanente o intermitente en cuerpos receptores de jurisdicción estatal.
+Los usuarios deberán contar con permiso de la Secretaría para descargar aguas residuales en forma permanente o intermitente en cuerpos receptores de jurisdicción estatal.
 
 Clausura de las descargas de aguas residuales
 
@@ -5969,9 +5977,9 @@ II. Incurrir en los supuestos que prevé el artículo anterior;
 
 III. Revocación o terminación de la concesión de aguas de jurisdicción estatal, cuando éstas sean las únicas que originen la descarga;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Variar las condiciones del título de descarga, sin autorización previa de la Comisión Estatal del Agua de Guanajuato; o
+IV. Variar las condiciones del título de descarga, sin autorización previa de la Secretaría; o
 
 V. Las demás que se deriven de las disposiciones legales y reglamentarias.
 
@@ -6003,11 +6011,11 @@ La Cultura del Agua es el conjunto de comportamientos y valores de la sociedad e
 
 Promoción de una cultura para el uso eficiente y cuidado del agua
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 351.
 
-El Titular del Ejecutivo, los ayuntamientos, la Comisión Estatal del Agua de Guanajuato y los organismos operadores, promoverán una cultura para el uso eficiente y cuidado del recurso hídrico, a través de la realización de acciones y campañas tendientes a:
+El Titular del Ejecutivo, los ayuntamientos, la Secretaría, la Comisión Estatal del Agua de Guanajuato y los organismos operadores, promoverán una cultura para el uso eficiente y cuidado del recurso hídrico, a través de la realización de acciones y campañas tendientes a:
 
 I. Concientizar a la población que el elemento agua es un recurso vital y escaso que debe aprovecharse con racionalidad y eficiencia;
 
@@ -6035,21 +6043,21 @@ Participación en la elaboración de los lineamientos generales en materia de Cu
 
 La Secretaría de Educación participará en la elaboración de las estrategias en materia de Cultura del Agua contenidas en el Programa de Gobierno del Estado o en aquellos derivados del mismo.
 
-Lineamientos para la implementación de políticas para reducir el consumo de agua potable
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+Lineamientos para la implementación de políticas para reducir el consumo de agua potable
 
 ###### Artículo 353.
 
-La Comisión Estatal del Agua de Guanajuato establecerá los lineamientos para la implementación de políticas para reducir el consumo de agua potable, así como para fomentar su uso racional con la finalidad de hacer eficiente y eficaz su consumo en los organismos públicos.
+La Secretaría y la Comisión Estatal del Agua de Guanajuato establecerán los lineamientos para la implementación de políticas para reducir el consumo de agua potable, así como para fomentar su uso racional con la finalidad de hacer eficiente y eficaz su consumo en los organismos públicos.
 
 Acciones de promoción del cuidado y uso eficiente del agua
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 354.
 
-Con la finalidad de promover el cuidado y uso eficiente del agua, el Titular del Ejecutivo, los ayuntamientos, la Comisión Estatal del Agua de Guanajuato y los organismos operadores, en el ámbito de sus atribuciones, llevarán a cabo las siguientes acciones:
+Con la finalidad de promover el cuidado y uso eficiente del agua, el Titular del Ejecutivo a través de la Secretaría y la Comisión Estatal del Agua de Guanajuato, los ayuntamientos, y los organismos operadores, en el ámbito de sus atribuciones, llevarán a cabo las siguientes acciones:
 
 I. Fomentar y difundir mediante programas y acciones, los beneficios sociales, económicos y ambientales del cuidado, uso racional y correcto aprovechamiento del agua subterránea y superficial;
 
@@ -6065,13 +6073,13 @@ VI. Implementar programas permanentes para detectar fugas y promover la sustituc
 
 VII. Elaborar los proyectos ejecutivos que permitan cumplir los propósitos del Código en materia hídrica.
 
-Estímulos fiscales
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+Estímulos fiscales
 
 ###### Artículo 355.
 
-El Titular del Ejecutivo podrá otorgar estímulos fiscales a las entidades públicas, organismos no gubernamentales y demás instituciones, que se destaquen por sus acciones y esfuerzos en materia de cuidado y uso racional del agua, previa opinión de la Comisión Estatal del Agua de Guanajuato, en los términos que establece el Código Fiscal para el Estado de Guanajuato.
+El Titular del Ejecutivo a través de la Secretaría y la Comisión Estatal del Agua de Guanajuato podrá otorgar estímulos fiscales a las entidades públicas, organismos no gubernamentales y demás instituciones, que se destaquen por sus acciones y esfuerzos en materia de cuidado y uso racional del agua, en los términos que establece el Código Fiscal para el Estado de Guanajuato.
 
 Otorgamiento de reconocimientos
 
@@ -6079,13 +6087,13 @@ Otorgamiento de reconocimientos
 
 Las personas y los organismos públicos o privados que se destaquen en su labor en la promoción de la Cultura del Agua, por el cuidado y uso eficiente de la misma, podrán ser consideradas por el Congreso del Estado para el otorgamiento de los reconocimientos establecidos en la Ley de Premios y Estímulos al Mérito Ciudadano para el Estado de Guanajuato.
 
-Proyectos y acciones en materia de la Cultura del Agua
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+Proyectos y acciones en materia de la Cultura del Agua
 
 ###### Artículo 357.
 
-La Comisión Estatal del Agua de Guanajuato promoverá, coordinará, implementará y desarrollará, de manera permanente, proyectos y acciones en materia de la Cultura del Agua en los que se refleje un uso racional y cuidado del agua, en coordinación con los organismos operadores y el Comité Consultivo de la Cultura del Agua.
+La Secretaría en coordinación con la Comisión Estatal del Agua de Guanajuato promoverán, coordinarán, implementarán y desarrollarán, de manera permanente, proyectos y acciones en materia de la Cultura del Agua en los que se refleje un uso racional y cuidado del agua, en coordinación con los organismos operadores y el Comité Consultivo de la Cultura del Agua.
 
 Comité Consultivo de la Cultura del Agua
 
@@ -7195,7 +7203,9 @@ XII. Difundir entre la población la información relativa a los programas públ
 
 XIII. Fomentar, otorgar estímulos y facilitar la producción de vivienda bajo lineamientos, criterios y parámetros de sustentabilidad; y
 
-XIV. Implementar políticas ambientales en los programas que maneje la Comisión de Vivienda del Estado de Guanajuato.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Implementar políticas ambientales y de sustentabilidad en los programas que maneje la Secretaría.
 
 Aspectos que deberán considerar las políticas de vivienda
 
@@ -7251,11 +7261,13 @@ Congruencia de las acciones de vivienda
 
 Las acciones de vivienda que se realicen en el Estado y los municipios, deberán ser congruentes con las necesidades de cada centro de población y con los programas.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Impulso a la vivienda que cumpla con las normas ambientales y de ordenamiento sustentable del territorio
 
 ###### Artículo 467.
 
-La Comisión de Vivienda promoverá ante los organismos financieros de vivienda que sólo sean elegibles en sus programas y líneas de acción, viviendas que se ubiquen en desarrollos, conjuntos o fraccionamientos que cumplan puntualmente con los programas y las disposiciones jurídicas en materia ambiental.
+La Secretaría promoverá ante los organismos financieros de vivienda que sólo sean elegibles en sus programas y líneas de acción, viviendas que se ubiquen en desarrollos, conjuntos o fraccionamientos que cumplan puntualmente con los programas y las disposiciones jurídicas en materia ambiental.
 
 Atlas de riesgos
 
@@ -7295,19 +7307,21 @@ XII. Que tengan posibilidad o peligro de inestabilidad o deslizamiento del suelo
 
 XIII. Ubicados en las laderas de un volcán.
 
-Lineamientos que deberán observar las acciones de suelo y vivienda
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+Lineamientos que deberán observar las acciones de suelo y vivienda
 
 ###### Artículo 470.
 
-Las acciones de suelo y vivienda financiadas con recursos públicos del Estado de Guanajuato deberán observar los lineamientos que en materia de vivienda popular o económica y de interés social, equipamiento, infraestructura y vinculación con el entorno establezca la Comisión de Vivienda, en coordinación con el Instituto de Planeación, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en el Código y las demás disposiciones jurídicas.
+Las acciones de suelo y vivienda financiadas con recursos públicos del Estado de Guanajuato deberán observar los lineamientos que en materia de vivienda popular o económica y de interés social, equipamiento, infraestructura y vinculación con el entorno y sustentabilidad establezca la Secretaría, en coordinación con el Instituto de Planeación, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en el Código y las demás disposiciones jurídicas.
 
 Promoción de la calidad de la vivienda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 471.
 
-Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Comisión de Vivienda promoverá, en coordinación con las autoridades competentes, que en el desarrollo de las acciones habitacionales, en sus distintos tipos y modalidades, y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y de higiene suficientes en función al número de usuarios, provean de los servicios de suministro de energía eléctrica, de agua potable y de drenaje de aguas residuales que contribuyan a disminuir los factores de enfermedad, y garanticen la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
+Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Secretaría promoverá, en coordinación con las autoridades competentes, que en el desarrollo de las acciones habitacionales, en sus distintos tipos y modalidades, y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y de higiene suficientes en función al número de usuarios, provean de los servicios de suministro de energía eléctrica, de agua potable y de drenaje de aguas residuales que contribuyan a disminuir los factores de enfermedad, y garanticen la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, verificarán que se dé cumplimiento a lo dispuesto en el Código en materia de calidad y sustentabilidad de la vivienda y a las disposiciones jurídicas.
 
@@ -7327,7 +7341,9 @@ Seguridad, habitabilidad y sustentabilidad de la vivienda
 
 Los ayuntamientos expedirán y aplicarán los reglamentos y normas técnicas que establezcan los requisitos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan responsabilidades generales, así como por cada etapa del proceso de producción de vivienda.
 
-La Comisión de Vivienda promoverá y asesorará a las autoridades municipales en la elaboración de las disposiciones reglamentarias que se mencionan en este artículo.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría promoverá y asesorará a las autoridades municipales en la elaboración de las disposiciones reglamentarias que se mencionan en este artículo.
 
 Participación en esquemas de financiamiento
 
@@ -7335,7 +7351,9 @@ Participación en esquemas de financiamiento
 
 El Ejecutivo del Estado fomentará la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y con los principios de una vivienda digna y decorosa.
 
-Asimismo, la Comisión de Vivienda promoverá que las tecnologías sean acordes con los requerimientos sociales y regionales y las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Asimismo, la Secretaría promoverá que las tecnologías sean acordes con los requerimientos sociales y regionales y las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
 
 Uso de materiales y productos sustentables
 
@@ -7345,9 +7363,11 @@ El Ejecutivo del Estado y los ayuntamientos promoverán el uso de materiales y p
 
 Acuerdos y convenios con productores de materiales básicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 476.
 
-La Comisión de Vivienda promoverá la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
+La Secretaría promoverá la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
 
 I. La atención a las necesidades emergentes de vivienda para damnificados, derivados de desastres;
 
@@ -7355,7 +7375,9 @@ II. Apoyar programas de producción social de vivienda, particularmente aquéllo
 
 III. La conformación de paquetes de materiales para las familias de menores ingresos.
 
-Asimismo, la Comisión de Vivienda promoverá la celebración de convenios para el otorgamiento de asesoría y capacitación a los adquirentes de materiales para el uso adecuado de los productos, sobre sistemas constructivos y prototipos arquitectónicos, así como para la obtención de los permisos de construcción.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Asimismo, la Secretaría promoverá la celebración de convenios para el otorgamiento de asesoría y capacitación a los adquirentes de materiales para el uso adecuado de los productos, sobre sistemas constructivos y prototipos arquitectónicos, así como para la obtención de los permisos de construcción.
 
 ### Capítulo III. Financiamiento a la vivienda
 
@@ -7381,17 +7403,21 @@ Destino de los recursos públicos materia de los convenios y acuerdos
 
 Cuando en los convenios y acuerdos a que se refiere el artículo anterior, se utilicen recursos públicos, deberá asegurarse que el destino final de dichos recursos atienda, de manera prioritaria, a las necesidades sociales de vivienda popular o económica y de interés social.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Inversión en acciones de vivienda
 
 ###### Artículo 479.
 
-La Comisión de Vivienda y las unidades administrativas responsables de las políticas de vivienda en los municipios, promoverán programas tendientes a buscar la inversión de organismos federales, instituciones de crédito, organismos que apoyen acciones de vivienda, así como de la iniciativa privada, para la construcción de viviendas.
+La Secretaría y las unidades administrativas responsables de las políticas de vivienda en los municipios, promoverán programas tendientes a buscar la inversión de organismos federales, instituciones de crédito, organismos que apoyen acciones de vivienda, así como de la iniciativa privada, para la construcción de viviendas.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Ofertas de suelo para vivienda
 
 ###### Artículo 480.
 
-La Comisión de Vivienda instrumentará y promoverá acciones y estímulos que induzcan la colaboración y coordinación con los gobiernos federal y estatal y municipales, así como la participación de propietarios, promotores, desarrolladores y usuarios, para generar ofertas de suelo para vivienda con oportunidad, calidad y servicios, preferentemente para beneficio de la población de menores ingresos y de los productores sociales de vivienda.
+La Secretaría instrumentará y promoverá acciones y estímulos que induzcan la colaboración y coordinación con los gobiernos federal y estatal y municipales, así como la participación de propietarios, promotores, desarrolladores y usuarios, para generar ofertas de suelo para vivienda con oportunidad, calidad y servicios, preferentemente para beneficio de la población de menores ingresos y de los productores sociales de vivienda.
 
 Selección de beneficiarios y proveedores
 
@@ -7399,19 +7425,23 @@ Selección de beneficiarios y proveedores
 
 Cuando el Estado o los municipios realicen acciones de vivienda, en la selección de sus beneficiarios y proveedores, deberán preferir en igualdad de circunstancias a las personas físicas o jurídico colectivas que tengan su domicilio social en el Estado de Guanajuato, y a aquéllas que tengan su domicilio en el Municipio donde se ejecuten las acciones, respectivamente.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Participación de los promotores privados de vivienda
 
 ###### Artículo 482.
 
-La participación de los promotores privados en la implementación de las políticas de vivienda del Estado, estará sujeta a la coordinación y supervisión de la Comisión de Vivienda, que dictará las normas para la ejecución de obras e inversiones, los requisitos y trámites, el registro de los promotores y la entrega de fianzas y garantías, dependiendo del alcance de la obra, en observancia de las disposiciones vigentes.
+La participación de los promotores privados en la implementación de las políticas de vivienda del Estado, estará sujeta a la coordinación y supervisión de la Secretaría, que dictará las normas para la ejecución de obras e inversiones, los requisitos y trámites, el registro de los promotores y la entrega de fianzas y garantías, dependiendo del alcance de la obra, en observancia de las disposiciones vigentes.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Supervisión a la participación de los promotores sociales
 
 ###### Artículo 483.
 
-La participación de los promotores sociales en la implementación de las políticas de vivienda del Estado, estará sujeta a la supervisión de la Comisión de Vivienda, entidad ante la que deberán estar acreditados y registrados, conforme a las disposiciones que emita, mismas que permitirán el desarrollo autónomo de los promotores sociales y básicamente estarán orientadas a garantizar la transparencia en el manejo y aplicación de los recursos, vigilando en todo momento el que estén a salvo sus derechos como beneficiarios y productores.
+La participación de los promotores sociales en la implementación de las políticas de vivienda del Estado, estará sujeta a la supervisión de la Secretaría, ante la que deberán estar acreditados y registrados, conforme a las disposiciones que emita, mismas que permitirán el desarrollo autónomo de los promotores sociales y básicamente estarán orientadas a garantizar la transparencia en el manejo y aplicación de los recursos, vigilando en todo momento el que estén a salvo sus derechos como beneficiarios y productores.
 
-La Comisión de Vivienda podrá celebrar convenios con productores sociales y con las universidades e instituciones de educación superior, dirigidos a la investigación, asesoría y apoyo técnico, y demás acciones indispensables para el cumplimiento del objeto del Código.
+La Secretaría podrá celebrar convenios con productores sociales y con las universidades e instituciones de educación superior, dirigidos a la investigación, asesoría y apoyo técnico, y demás acciones indispensables para el cumplimiento del objeto del Código.
 
 Objeto de la aplicación de recursos públicos para la vivienda
 
@@ -7421,9 +7451,11 @@ La aplicación de recursos públicos para la vivienda tiene por objeto la promoc
 
 Mecanismos y acciones para la implementación de las políticas de vivienda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 485.
 
-La Comisión de Vivienda diseñará y operará los mecanismos y acciones para captar y destinar recursos presupuestales, ahorros, subsidios y financiamientos, internos o externos, así como otras aportaciones para la implementación de las políticas de vivienda, que respondan a las necesidades de vivienda de los distintos sectores de la población, preferentemente de la población de menores ingresos.
+La Secretaría diseñará y operará los mecanismos y acciones para captar y destinar recursos presupuestales, ahorros, subsidios y financiamientos, internos o externos, así como otras aportaciones, para la implementación de las políticas de vivienda que respondan a las necesidades de vivienda de los distintos sectores de la población, preferentemente de la población de menores ingresos.
 
 Los mecanismos y acciones a que se refiere el párrafo anterior se ajustarán a lo dispuesto en la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato.
 
@@ -7445,13 +7477,17 @@ V. Mayor participación y diversidad de intermediarios financieros, a efecto de 
 
 Modalidades de financiamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 487.
 
-Las acciones en materia de vivienda se ejecutarán, por parte de la Comisión de Vivienda y de los municipios, de acuerdo a las siguientes modalidades de financiamiento:
+Las acciones en materia de vivienda se ejecutarán de acuerdo a las siguientes modalidades de financiamiento:
 
 I. Fondeo, crédito o préstamo otorgado por instituciones financieras legalmente establecidas;
 
-II. Gasto, subsidio, crédito o inversión directa del gobierno estatal, cuya aplicación se hará a través de la Comisión de Vivienda;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. Gasto, subsidio, crédito o inversión directa del gobierno estatal, cuya aplicación se hará a través de la Secretaría;
 
 III. Gasto, subsidio, crédito o inversión de otros organismos públicos locales o federales de vivienda, que operan en el Estado;
 
@@ -7459,59 +7495,17 @@ IV. Gasto, subsidio, crédito o inversión mixtos, del gobierno estatal y aporta
 
 V. Ahorro de los beneficiarios, conforme a las disposiciones legales.
 
-Desarrollo de acciones que generen recursos financieros
-
 ###### Artículo 488.
 
-La Comisión de Vivienda deberá llevar a cabo acciones que generen recursos financieros que faciliten el sustento económico para el cumplimiento de sus programas en el mediano y largo plazos.
-
-Destino de los recursos de la Comisión
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 489.
 
-Los recursos de la Comisión de Vivienda, se destinarán a realizar las acciones siguientes:
-
-I. Elaboración de estudios y proyectos relacionados con la planeación, diseño, construcción, infraestructura y equipamiento para la vivienda;
-
-II. Adquisición y reciclamiento de suelo urbano para vivienda popular o económica y de interés social;
-
-III. Promoción de la regularización de la tenencia de la tierra, en coordinación con las dependencias y entidades de la administración pública estatal y municipal correspondientes, y con la participación de los diversos grupos sociales;
-
-IV. Ejecución de proyectos para la adquisición de suelo para vivienda, urbanización y venta de lotes con servicios, que promuevan el desarrollo urbano y habitacional;
-
-V. Producción de vivienda nueva y progresiva en todas sus modalidades;
-
-VI. Mejoramiento de vivienda;
-
-VII. Arrendamiento habitacional;
-
-VIII. Autoproducción y autoconstrucción de vivienda;
-
-IX. Crédito para la adquisición de vivienda;
-
-X. Otorgamiento de garantías financieras;
-
-XI. Apoyos para la bursatilización de créditos hipotecarios;
-
-XII. Otorgamiento de subsidios y apoyos vinculados a los programas de ahorro para la vivienda y de suelo para uso habitacional, de adquisición de vivienda, de autoproducción y autoconstrucción de vivienda, de mejoramiento del parque habitacional y de adquisición de lotes con servicios, para la población de menores ingresos, que a través de la Comisión de Vivienda se canalicen;
-
-XIII. El otorgamiento de estímulos a la producción de vivienda bajo los lineamientos, criterios y parámetros de sustentabilidad que establezca la Comisión Nacional de Vivienda;
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
-XIV. Fomento a las actividades de investigación científica y tecnológica para su aplicación a la vivienda, coordinándose para el efecto con la Secretaría de Innovación, Ciencia y Educación Superior y órganos afines; y
-
-XV. Las demás acciones previstas en el Código, y las que las leyes y reglamentos señalen.
-
-Constitución de fondos de ahorro e inversión
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 490.
 
-La Comisión de Vivienda impulsará la constitución de los fondos de ahorro e inversión, de administración, de garantía y de rescate para la vivienda, creados con activos seguros, rentables y de fácil liquidación, con las primas que deben pagar los beneficiarios, con los siguientes objetivos:
-
-I. Promover el ahorro productivo de los beneficiarios; y
-
-II. Que los beneficiarios puedan cubrir sus créditos en los términos y porcentajes establecidos en sus contratos.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 Fomento de programas
 
@@ -7541,69 +7535,43 @@ El Ejecutivo del Estado concederá a través de sus dependencias y entidades, lo
 
 Los ayuntamientos concederán, a través de sus dependencias y entidades, los beneficios, estímulos y facilidades que se consignan en el Código, así como los contenidos en otras disposiciones legales y administrativas vigentes. Dichos beneficios, estímulos y facilidades serán previstos a través de sus respectivas leyes de ingresos municipales o del instrumento jurídico que emitan, a efecto de incentivar el mejoramiento de viviendas, así como la producción social de vivienda popular o económica y de interés social.
 
-Requisitos que deberán cubrir los beneficiarlos de las políticas y acciones de vivienda
-
 ###### Artículo 495.
 
-Los beneficiarios de las políticas y acciones de vivienda popular o económica y de interés social deben por lo menos cumplir los siguientes requisitos:
-
-I. Ser habitantes del Estado de Guanajuato;
-
-II. No ser propietarios de otra vivienda;
-
-III. Los propietarios de vivienda sólo podrán solicitar crédito para las acciones destinadas a la rehabilitación, la ampliación o el mejoramiento de la misma;
-
-IV. Presentar declaración bajo protesta, en la que manifiesten que habitarán la vivienda, sujetándose a las sanciones correspondientes que en caso de incumplimiento determine la Comisión de Vivienda;
-
-V. En la determinación de sus ingresos, corresponde a los beneficiarios entregar la documentación que respalde su dicho, quienes además están obligados a permitir por parte de las autoridades de la Comisión de Vivienda, la verificación de la información que proporcionen; y
-
-VI. En el caso de la población con actividades en la economía informal, la determinación de sus ingresos se ajustará a lo que establezcan las reglas de operación de la Comisión de Vivienda.
-
-Responsabilidad en la gestión, promoción y otorgamiento crediticio
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 496.
 
-La Comisión de Vivienda será responsable de la gestión, promoción y, en su caso, del otorgamiento crediticio para la población de menores ingresos, quien será considerada como sujeto de subsidio o de ayuda de beneficio social.
-
-Presupuestación de los apoyos en materia de vivienda
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 497.
 
-El Ejecutivo del Estado dentro del presupuesto general de egresos del Estado, deberá distinguir en forma separada los apoyos que se destinen a los beneficiarios de las políticas y acciones de vivienda popular o económica y de interés social a cargo de la Comisión de Vivienda.
-
-A través del presupuesto general de egresos del Estado, se sustentarán los subsidios que otorgará la Comisión de Vivienda a la vivienda señalada en el párrafo anterior, con cargo a su presupuesto.
-
-El proyecto de presupuesto general de egresos estatal deberá establecer el monto destinado a la implementación de las políticas de vivienda, el cual preferentemente, no podrá ser inferior en términos reales al del año fiscal anterior. Este gasto se buscará incrementar cuando menos en la misma proporción en que lo permita la disponibilidad de recursos a partir de los ingresos que autorice el Congreso al Gobierno del Estado.
-
-Reglas para los subsidios
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 498.
 
-Los subsidios estatales que a través de la Comisión de Vivienda se otorguen, se sujetarán a la normatividad que para tal efecto se emita para los diferentes tipos de acción de vivienda.
-
-Cuando exista concurrencia de subsidios federales y estatales se deberá ajustar el actuar a la normatividad y convenios que establezcan la Comisión Nacional de Vivienda y demás organismos que operen programas de subsidios.
-
-Prohibición para celebrar contratos
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 499.
 
-La Comisión de Vivienda no celebrará contratos con promotores, desarrolladores y productores sociales de vivienda que hayan incumplido en todo o en parte las obligaciones contractuales con los beneficiarios de los programas que maneja la propia Comisión y no podrán participar en los programas y acciones referidos en este Título.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ### Capítulo IV. Adquisición de suelo para vivienda
 
-Adquisición de predios para la implementación de las políticas de vivienda
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+Adquisición de predios para la implementación de las políticas de vivienda
 
 ###### Artículo 500.
 
-La Comisión de Vivienda deberá adquirir predios para destinarse a la implementación de las políticas de vivienda, respetando los programas y reglamentos municipales, y evaluando la disponibilidad y capacidad de infraestructura pública, equipamiento urbano, movilidad y servicios públicos en los predios de que se trate.
+El Ejecutivo del Estado podrá adquirir predios para destinarse a la implementación de las políticas de vivienda, respetando los programas y reglamentos municipales, y evaluando la disponibilidad y capacidad de infraestructura pública, equipamiento urbano, movilidad y servicios públicos en los predios de que se trate.
 
 Enajenación de áreas y predios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 501.
 
-La Comisión de Vivienda podrá enajenar áreas o predios de su dominio observando en todo caso que:
+El Ejecutivo del Estado podrá enajenar áreas o predios del dominio público observando en todo caso que:
 
 I. El aprovechamiento de los inmuebles sea congruente con los programas estatal y municipales de vivienda y con las disposiciones en materia ambiental y de ordenamiento sustentable del territorio; y
 
@@ -7611,9 +7579,11 @@ II. Se cuente con un programa técnico y financiero en el que se definan las nec
 
 Mecanismos de información
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 502.
 
-La Comisión de Vivienda establecerá las disposiciones administrativas por medio de las cuales se fijarán los mecanismos de información, calificación y clasificación de los bienes de su dominio, con el objeto de normar técnica, financiera y socialmente su aprovechamiento, para ello deberá realizar:
+La Secretaría establecerá las disposiciones administrativas por medio de las cuales se fijarán los mecanismos de información, calificación y clasificación de los bienes, con el objeto de normar técnica, financiera y socialmente su aprovechamiento, para ello deberá realizar:
 
 I. La conformación de un inventario de información pública que contendrá necesidades y oferta de suelo para vivienda en los centros de población con más de cien mil habitantes en el Estado;
 
@@ -7623,19 +7593,19 @@ III. Los criterios e instrumentos para la conformación y consolidación de una 
 
 IV. Las previsiones de suelo para la dotación de infraestructura pública, equipamiento urbano, servicios públicos y fomento al pequeño comercio necesario en los espacios habitacionales.
 
-Aprovechamiento inmobiliario
-
 ###### Artículo 503.
 
-Los actos de adquisición, administración, transmisión, arrendamiento y demás relativos al aprovechamiento inmobiliario que realice la Comisión de Vivienda, destinados al cumplimiento y ejecución de sus programas, acciones, obras e inversiones, se sujetarán a las normas y disposiciones de su órgano de gobierno con arreglo al Código.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ### Capítulo V. Producción social de vivienda
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Desarrollo y consolidación de la producción social de vivienda
 
 ###### Artículo 504.
 
-La Comisión de Vivienda facilitará y promoverá el desarrollo y consolidación de la producción social de vivienda y propiciará la concertación de acciones y programas entre los sectores público, social y privado, particularmente los que apoyen esta forma de producción habitacional.
+La Secretaría facilitará y promoverá el desarrollo y consolidación de la producción social de vivienda y propiciará la concertación de acciones y programas entre los sectores público, social y privado, particularmente los que apoyen esta forma de producción habitacional.
 
 Autoconstrucción y autoproducción de vivienda
 
@@ -7653,9 +7623,11 @@ Las organizaciones de la sociedad civil que tengan por objeto la adquisición, m
 
 Asistencia técnica a productores sociales de vivienda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 507.
 
-La Comisión de Vivienda promoverá la asistencia técnica a los productores sociales de vivienda, la cual se podrá proporcionar a través de:
+La Secretaría promoverá la asistencia técnica a los productores sociales de vivienda, la cual se podrá proporcionar a través de:
 
 I. Organizaciones sociales;
 
@@ -7665,7 +7637,9 @@ III. Colegios, asociaciones o gremios profesionales;
 
 IV. Dependencias y organismos del sector público; y
 
-V. La propia Comisión.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+V. La propia Secretaría.
 
 Acciones de suelo y vivienda
 
@@ -7677,11 +7651,13 @@ I. Autoproductores y autoconstructores, individuales o colectivos, para los dist
 
 II. Otros productores que operen sin fines de lucro tales como los organismos no gubernamentales, asociaciones gremiales e instituciones de asistencia privada.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Actividades productivas y generadoras de ingreso
 
 ###### Artículo 509.
 
-La Comisión de Vivienda fomentará en las acciones y proyectos de producción social de vivienda la inclusión de actividades productivas y el desarrollo de actividades generadoras de ingreso orientadas al fortalecimiento económico de la población participante en ellos, de conformidad con lo establecido en las disposiciones aplicables.
+La Secretaría fomentará en las acciones y proyectos de producción social de vivienda la inclusión de actividades productivas y el desarrollo de actividades generadoras de ingreso orientadas al fortalecimiento económico de la población participante en ellos, de conformidad con lo establecido en las disposiciones aplicables.
 
 Autogestión habitacional
 
@@ -7689,11 +7665,13 @@ Autogestión habitacional
 
 El Ejecutivo del Estado y los ayuntamientos, con el fin de impulsar la constitución de infraestructura para la creación de vivienda en fraccionamientos populares por autoconstrucción, apoyarán preferentemente a asociaciones y agrupaciones de autogestión habitacional.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Estudios en materia de vivienda
 
 ###### Artículo 511.
 
-La Comisión de Vivienda y las unidades administrativas responsables de las políticas de vivienda en los municipios, realizarán estudios para lotificaciones de vivienda popular o económica por autoconstrucción, constitución de reservas territoriales.
+La Secretaría y las unidades administrativas responsables de las políticas de vivienda en los municipios, realizarán estudios para lotificaciones de vivienda popular o económica por autoconstrucción, y para la constitución de reservas territoriales.
 
 Requisitos que deberán satisfacer los grupos no lucrativos
 
@@ -7723,11 +7701,13 @@ V. Atender las distintas formas legales de propiedad y posesión de la tierra, a
 
 Tratándose de las comunidades rurales y pueblos y comunidades indígenas, deberán ser reconocidas y atendidas sus características culturales, respetando sus formas de asentamiento territorial y favoreciendo los sistemas constructivos acordes con el entorno bioclimático de las regiones, así como sus modos de producción de vivienda.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Acciones colectivas de autoconstrucción
 
 ###### Artículo 514.
 
-La Comisión de Vivienda, en coordinación con los ayuntamientos, deberá establecer y apoyar proyectos y acciones colectivas de autoconstrucción cuando se trate de vivienda rural e indígena, en que los integrantes de la propia comunidad participen en los trabajos respectivos de manera conjunta, de tal suerte que, además de abatir los costos, se fomente y respete la solidaridad y el espíritu comunitario, y se aprovechen los materiales naturales disponibles.
+La Secretaría, en coordinación con los ayuntamientos, deberá establecer y apoyar proyectos y acciones colectivas de autoconstrucción cuando se trate de vivienda rural e indígena, en que los integrantes de la propia comunidad participen en los trabajos respectivos de manera conjunta, de tal suerte que, además de abatir los costos, se fomente y respete la solidaridad, la sustentabilidad y el espíritu comunitario, y se aprovechen los materiales naturales disponibles.
 
 Vivienda rural e indígena
 
@@ -7813,13 +7793,13 @@ Participación de las asociaciones de habitantes
 
 Los habitantes que deseen participar en los procesos de planeación relativos al ordenamiento sustentable del territorio, lo podrán hacer a través de las asociaciones de habitantes, sin perjuicio de los derechos que tengan y puedan ejercer individualmente.
 
-Consulta sobre el ordenamiento y administración sustentable del territorio
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+Consulta sobre el ordenamiento y administración sustentable del territorio
 
 ###### Artículo 520.
 
-La Secretaría, el Instituto de Ecología, la Comisión Estatal del Agua de Guanajuato, el Instituto de Planeación, la Comisión de Vivienda, la Procuraduría y las autoridades municipales, podrán solicitar la opinión, asesoría, análisis y consulta de instituciones y organizaciones académicas, profesionales y de investigación, en las diversas materias que inciden en el ordenamiento y administración sustentable del territorio.
+La Secretaría, y las dependencias y entidades de la administración pública estatal y municipal, podrán solicitar la opinión, asesoría, análisis y consulta de instituciones y organizaciones académicas, profesionales y de investigación, en las diversas materias que inciden en el ordenamiento y administración sustentable del territorio.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -7911,6 +7891,8 @@ REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)
 
 Consejo Estatal de Vivienda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 521.
 
 El Ejecutivo del Estado promoverá la constitución del Consejo Estatal Hidráulico, como un organismo de concertación y coordinación entre las instituciones de asesoría y consulta técnica que existan en el Estado, para contribuir al mejoramiento de la gestión del agua.
@@ -7947,9 +7929,9 @@ II. Un Secretario Ejecutivo, que será el Director General de la Comisión Estat
 
 II bis. Un representante de la Secretaría de Desarrollo Agroalimentario y Rural, designado por su Titular;
 
-III. Un representante del Instituto de Ecología, designado por su Titular;
+III. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
-IV. Un representante de la Comisión de Vivienda, designado por su Titular;
+IV. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 V. Un representante del Instituto de Planeación, designado por su Titular;
 
@@ -7979,7 +7961,7 @@ Las instituciones de asesoría y consulta técnica podrán establecerse a nivel 
 
 ###### Artículo 525.
 
-El Consejo Estatal de Vivienda es la instancia de consulta y asesoría de la Comisión de Vivienda y sesionará cuando menos dos veces al año.
+El Consejo Estatal de Vivienda es la instancia de consulta y asesoría de la Secretaría y sesionará cuando menos dos veces al año.
 
 En la integración del Consejo deberán observarse los principios de pluralidad y equidad.
 
@@ -7993,9 +7975,11 @@ El Consejo Estatal de Vivienda se integrará con:
 
 I. Un Presidente, que será el Titular de la Secretaría;
 
-II. Un Secretario Ejecutivo, que será el Director General de la Comisión de Vivienda;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-III. Un representante del Instituto de Ecología, designado por su Titular;
+II. Un Secretario Ejecutivo, designado por el titular de la Secretaría;
+
+III. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -8141,7 +8125,13 @@ Denuncia de la existencia o formación de asentamientos humanos que no cumplan c
 
 La existencia o formación de asentamientos humanos que no cumplan con las disposiciones del Código, podrán ser denunciadas por cualquier persona ante la unidad administrativa municipal, a efecto de que se formulen las denuncias o se ejerzan las acciones legales ante las autoridades competentes.
 
-La Procuraduría canalizará a las autoridades municipales competentes, las denuncias que le presenten sobre la formación o existencia de asentamientos humanos que no cumplan con las disposiciones del Código y dará cuenta de aquéllos que detecte en ejercicio de sus atribuciones de vigilancia.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La Procuraduría y la Secretaría remitirán a las autoridades municipales competentes, las denuncias que le presenten sobre la formación o existencia de asentamientos humanos que no cumplan con las disposiciones del Código.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La Procuraduría dará cuenta de aquéllos que detecte en ejercicio de sus atribuciones de vigilancia.
 
 Suspensión de obras
 
@@ -8719,7 +8709,7 @@ LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPOND
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en la residencia del Poder Ejecutivo, en la ciudad Guanajuato, Gto., el 21 de septiembre de 2012.
+Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., el 21 de septiembre de 2012.
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 
@@ -8806,3 +8796,35 @@ Inicio de vigencia del Decreto
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 1 de enero de 2018.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 341, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4o. PRIMER PÁRRAFO Y FRACCIONES VIII Y XVIII; 5o. PÁRRAFO PRIMERO Y FRACCIÓN III; 80. (SIC) EN SU PRIMER PÁRRAFO; 9 FRACCIÓN VI; 27 PÁRRAFO SEGUNDO; 29 EN SU PRIMER PÁRRAFO; 31 PRIMER PÁRRAFO; 33 PRIMER PÁRRAFO Y FRACCIÓN II; 35 EN SU PRIMER Y ÚLTIMO PÁRRAFOS; 36; 37; 38 PRIMER PÁRRAFO; 39 PRIMER PÁRRAFO; 40; 41 PRIMER Y ÚLTIMO PÁRRAFOS, Y FRACCIÓN II; 42 PRIMER PÁRRAFO; 43 SEGUNDO PÁRRAFO; 48 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 63; 64; 69; 108 EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO; 114 PÁRRAFOS PRIMERO Y TERCERO; 115 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, Y FRACCIONES III Y IV EN SUS INCISOS B), E), F), G) Y H); 117 FRACCIÓN II; 118 EN SU PRIMER PÁRRAFO; 132 PRIMER PÁRRAFO; 149 EN SU PRIMER PÁRRAFO; 152; 154 PRIMER PÁRRAFO; 156 EN SU PRIMER PÁRRAFO; Y 177 EN SU PÁRRAFO PRIMERO. Y SE DEROGAN EL TERCER PÁRRAFO DEL ARTÍCULO 156; Y LOS ARTÍCULOS 157 Y 158, TODOS DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Medio Ambiente y Ordenamiento Territorial, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. El Instituto Estatal de Ecología y la Comisión de Vivienda del Estado de Guanajuato, transferirán a la Secretaría de Medio Ambiente y Ordenamiento Territorial, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones, a través de la entrega-recepción respectiva.
+
+El personal de las entidades paraestatales referidas en el párrafo que antecede, conforme a su situación laboral pasarán a integrar la nueva Secretaría de Medio Ambiente y Ordenamiento Territorial, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Por lo que hace a las secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano, la Comisión Estatal del Agua de Guanajuato, el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato y el Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato, transferirán sólo los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuvieren encomendadas en las materias que se transfieran con motivo del presente Decreto y de las reformas a otros ordenamientos, a través de la entrega-recepción respectiva, y pasarán a ser competencia de la Secretaría de Medio Ambiente y Ordenamiento Territorial.
+
+Artículo Sexto. La Secretaría de Medio Ambiente y Ordenamiento Territorial sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales y secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Ecología, Comisión de Vivienda de Guanajuato, e Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas a los demás ordenamientos.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto Estatal de Ecología y de la Comisión de Vivienda del Estado de Guanajuato. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
+
+Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
