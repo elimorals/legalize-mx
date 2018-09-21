@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-95665
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-23"
-last_updated: "2017-05-24"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 23 de agosto de 2013.
 
@@ -31,7 +31,9 @@ LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Que
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Que en atención a lo anteriormente expuesto, la Quincuagésima Séptima Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -393,67 +395,25 @@ En los casos en que se considere necesario, la Procuraduría de Protección Esta
 
 ### Capítulo VIII. Del Órgano Interno de Control
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 30.
 
-El Órgano Interno de Control tiene por objeto planear, organizar, proponer y coordinar los sistemas de prevención, vigilancia, control y evaluación de las actividades del Sistema, de conformidad con las disposiciones legales aplicables y con los lineamientos operativos de la Dirección General. El Órgano Interno de Control estará integrado por un comisario propietario y un comisario suplente, ambos designados y removidos por la Secretaría de la Contraloría del Poder Ejecutivo, y dependerán del Director General del Sistema.
+Al frente del Órgano Interno de Control habrá un titular, quien será designado en los términos de la fracción XI del artículo 23 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, el cual observará las políticas, normas, lineamientos, procedimientos y demás disposiciones aplicables, así como los programas de trabajo de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro.
+
+El titular del Órgano Interno de Control se auxiliará por los titulares de Auditoría, de Responsabilidades Administrativas y de Atención a Denuncias e Investigaciones, quienes serán designados por el Director General; el demás personal adscrito será nombrado en términos de las disposiciones legales aplicables.
+
+Los servidores públicos a que se refiere el párrafo primero y segundo del presente artículo, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, Reglamento Interior de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro y demás disposiciones legales y administrativas aplicables.
+
+La Dirección General, proporcionará al Órgano Interno de Control, los recursos humanos y materiales que requieran, para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Secretaría referida en los párrafos anteriores están obligados a proporcionarle el auxilio que requiera para el ejercicio de sus facultades.
 
 ###### Artículo 31.
 
-Son atribuciones del Órgano Interno de Control:
-
-I. Inspeccionar a todas las unidades administrativas del Sistema, asegurando su adecuado funcionamiento, planeación, control, fiscalización y evaluación;
-
-II. Recibir quejas y denuncias sobre actuación irregular o indebida de los servidores públicos del Sistema;
-
-III. Instruir el procedimiento administrativo de responsabilidad y, de acuerdo a su competencia, aplicar las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro; y
-
-IV. Las demás que le confiera la presente Ley y demás disposiciones aplicables.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 32.
 
-El Órgano Interno de Control, para el eficaz cumplimiento de su objetivo, tendrá las siguientes obligaciones:
-
-I. Verificar que el Sistema ajuste sus actos a las normas y disposiciones en materia de registro y contabilidad, contratación de personal, servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, baja de bienes, demás activos y recursos materiales que integren su patrimonio, sin perjuicio de lo que dispongan otros ordenamientos a favor de otras autoridades;
-
-II. Comprobar el cumplimiento de las disposiciones en materia de planeación, programación, presupuestación, ingreso, financiamiento, inversión, deuda, patrimonio, valores, control y evaluación del Sistema;
-
-III. Revisar y comprobar el correcto ejercicio del gasto público y su congruencia con el presupuesto de egresos, así como la correcta aplicación de la Ley de Ingresos;
-
-IV. Vigilar el uso correcto de los recursos patrimoniales del Sistema y de los que la Federación y el Estado le transfieran para su ejercicio y administración;
-
-V. Emitir recomendaciones con base en las leyes y reglamentos para el mejor aprovechamiento de los recursos humanos y financieros;
-
-VI. Verificar que se cumpla con la normatividad establecida y con las especificaciones de construcción de obra que se realicen en el Sistema, ya sea por parte de éste o por contratista externo;
-
-VII. Realizar auditorías técnico financieras a la obra pública con el objeto de determinar si los recursos fueron ejercidos conforme a lo programado;
-
-VIII. Propiciar transparencia, honestidad y eficiencia en el manejo de los recursos humanos, materiales y financieros del Sistema;
-
-IX. Impulsar una gestión ágil y transparente mediante la instrumentación de sistemas y procedimientos de control;
-
-X. Dar respuesta oportuna a las quejas o denuncias de la ciudadanía;
-
-XI. Informar al Director General de los resultados de revisiones administrativas, auditorías, exámenes y evaluaciones realizadas al Sistema, así como de las observaciones o recomendaciones derivadas de las mismas y de su seguimiento y corrección;
-
-XII. Vigilar el Programa-Presupuesto y el Programa Operativo Anual del Sistema, informando del resultado a la Dirección General del Sistema y a la Dirección de Auditoría de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro;
-
-XIII. Evaluar mensualmente los estados financieros del Sistema para constatar el adecuado manejo de los recursos;
-
-XIV. Observar que se cumplan las disposiciones de austeridad, racionalidad, disciplina presupuestal, simplificación y desregulación, vigilando que el manejo y aplicación de los recursos se apegue a la normatividad en cada caso y respondan a los lineamientos, prioridades y objetivos establecidos por el titular del Poder Ejecutivo;
-
-XV. Realizar auditorías de conformidad con el Programa Anual de Control y Auditoría para verificar el debido ejercicio de los recursos, el cumplimiento de metas, objetivos y el apego al marco legal aplicable;
-
-XVI. Intervenir en el acto de entrega-recepción administrativa de servidores públicos del Sistema;
-
-XVII. Elaborar bimestralmente un informe sobre las actividades realizadas, mismo que deberá rendir a la Dirección de Auditoría de la Secretaría de la Contraloría del Poder Ejecutivo y a la Dirección General del Sistema;
-
-XVIII. Vigilar que el Sistema no contrate servidores públicos inhabilitados y, en caso contrario, proceder conforme a la normatividad aplicable;
-
-XIX. Atender los requerimientos que le sean formulados por la Secretaría de la Contraloría del Poder Ejecutivo;
-
-XX. Investigar los actos ilícitos u omisiones en el cumplimiento de las funciones y obligaciones de los servidores públicos del Sistema, conocer de los procedimientos administrativos que al efecto se instauren, imponer, cuando sea procedente, las sanciones correspondientes, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y, en su caso, ejecutarlas; y
-
-XXI. Las demás que expresamente le confieran las leyes y reglamentos aplicables o le sean asignadas por la Dirección General.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ### Capítulo IX. De la suplencia de los servidores públicos
 
@@ -530,3 +490,11 @@ Artículo Segundo. El Sistema para el Desarrollo Integral de la Familia del Esta
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
 
 Artículo Cuarto. Las referencias hechas a la Procuraduría de la Defensa del Menor y de la Familia, en leyes, reglamentos y demás disposiciones jurídicas, se entenderán referidas a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro, en tanto se realizan las reformas que correspondan.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 30 Y DEROGA LOS ARTÍCULOS 31 Y 32 DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO".
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
