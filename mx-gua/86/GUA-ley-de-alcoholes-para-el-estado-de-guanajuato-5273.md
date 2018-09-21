@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-alcoholes-para-el-estado-de-guanajuato-5273"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-18"
-last_updated: "2017-11-17"
+last_updated: "2018-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE ALCOHOLES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2017.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE NOVIEMBRE DE 2017.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de diciembre de 1992.
 
@@ -375,7 +373,9 @@ ARTICULO 22 A.- LOS ESTABLECIMIENTOS REFERIDOS EN EL ARTICULO 9, INCISO A), FRAC
 
 LOS MEDIDORES O ALCOHOLIMETROS TENDRAN LAS CARACTERISTICAS Y TIEMPO MAXIMO DE USO SEÑALADO POR LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO.
 
-LOS ESTABLECIMIENTOS DEBERAN INFORMAR A LOS CLIENTES ACERCA DE LA IMPLEMENTACION DE LOS PROGRAMAS EMITIDOS POR LA SECRETARIA DE SALUD DEL ESTADO Y POR EL INSTITUTO DE MOVILIDAD DEL ESTADO DE GUANAJUATO, TENDIENTES A EVITAR O DISUADIR TANTO EL CONSUMO EXCESIVO DE BEBIDAS ALCOHOLICAS, COMO LA CONDUCCION DE VEHICULOS AUTOMOTORES BAJO EL INFLUJO DEL ALCOHOL.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+LOS ESTABLECIMIENTOS DEBERAN INFORMAR A LOS CLIENTES ACERCA DE LA IMPLEMENTACION DE LOS PROGRAMAS EMITIDOS POR LA SECRETARIA DE SALUD DEL ESTADO Y POR LA SECRETARIA DE GOBIERNO, TENDIENTES A EVITAR O DISUADIR TANTO EL CONSUMO EXCESIVO DE BEBIDAS ALCOHOLICAS, COMO LA CONDUCCION DE VEHICULOS AUTOMOTORES BAJO EL INFLUJO DEL ALCOHOL.
 
 EN LOS ESTABLECIMIENTOS, SE DEBERA SUGERIR AL CONDUCTOR QUE SEA NOTORIO SU ESTADO DE EBRIEDAD QUE NO CONDUZCA, INFORMANDOLE LAS ALTERNATIVAS DE SERVICIO PUBLICO DE TRANSPORTE.
 
@@ -904,3 +904,29 @@ Artículo Tercero. La licencia de productor de bebidas alcohólicas artesanales 
 Artículo Cuarto. La Secretaría de Salud en un término de 90 días naturales, contados a partir de la entrada en vigor del presente decreto, emitirá las reglas que contengan las características y el tiempo máximo de uso de los alcoholímetros y medidores, a que hace referencia el artículo 22-A del presente decreto.
 
 Artículo Quinto. La obligación de contar con los alcoholímetros o medidores a que hace referencia el artículo 22-A del presente decreto, entrará en vigor en un plazo de 180 días naturales, contados a partir de que la Secretaría de Salud del Estado emita las reglas señaladas en el transitorio anterior.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 342, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3 FRACCIONES XXII Y XXIV, DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Infraestructura, Conectividad y Movilidad, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. La Secretaría de Obra Pública se transformará en Secretaría de Infraestructura, Conectividad y Movilidad; para tal efecto, el Instituto de Movilidad del Estado de Guanajuato trasferirá los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+Artículo Sexto. La Secretaría de Infraestructura, Conectividad y Movilidad sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Las referencias a la Secretaría de Obra Pública, y del Instituto de Movilidad del Estado de Guanajuato se entenderán referidas a la Secretaría de Infraestructura, Conectividad y Movilidad.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Noveno. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
