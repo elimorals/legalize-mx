@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-fomento-del-aprovechamiento-de-las-fuentes-83600"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-08"
-last_updated: "2016-01-29"
+last_updated: "2018-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY PARA EL FOMENTO DEL APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGIA Y SUSTENTABILIDAD ENERGETICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA EL FOMENTO DEL APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGÍA Y SUSTENTABILIDAD ENERGÉTICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 29 DE ENERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 8 de noviembre del 2011.
 
@@ -123,9 +123,11 @@ III. La Secretaría de Desarrollo Social y Humano;
 
 IV. La Secretaría de Innovación, Ciencia y Educación Superior;
 
-V. El Instituto de Ecología del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-VI. La Comisión de Vivienda del Estado de Guanajuato; y
+V. La Secretaría de Medio Ambiente y Ordenamiento Territorial;
+
+VI. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 VII. Los ayuntamientos.
 
@@ -235,35 +237,41 @@ VI. Generar las acciones para buscar atraer mecanismos y formas de financiamient
 
 VII. Las demás que señalen las leyes y reglamentos que en esta materia le sean aplicables o que le asigne el Gobernador del Estado.
 
-Atribuciones del Instituto de Ecología
+> <small>(REFORMADO SU ACÁPITE, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Atribuciones de la Secretaría de Medio Ambiente y Ordenamiento Territorial
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 12.
 
-Corresponde al Instituto de Ecología del Estado llevar a cabo las siguientes acciones:
+Corresponde a la Secretaría de Medio Ambiente y Ordenamiento Territorial llevar a cabo las siguientes acciones:
 
 I. Proponer disposiciones normativas para mitigar emisiones contaminantes, mediante la utilización de fuentes renovables de energía y la sustentabilidad energética;
 
 II. Cuantificar los efectos al ambiente por la aplicación de las fuentes renovables de energía y la sustentabilidad energética;
 
-III. Elaborar y ejecutar programas para la utilización de las fuentes renovables de energía para disminuir el nivel de contaminación en los centros de población; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Las demás que señalen las leyes y reglamentos que en esta materia le sean aplicables.
+III. Elaborar y ejecutar programas para la utilización de las fuentes renovables de energía para disminuir el nivel de contaminación en los centros de población:
 
-Atribuciones de la Comisión de Vivienda
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+IV. En materia de ecotécnicas y de ingeniería ambiental aplicada a la vivienda, considerará los siguientes lineamientos:
+
+a) El aprovechamiento de la energía solar en calentadores de agua y en la generación de energía eléctrica.
+
+b) La aplicación de sistemas para el aprovechamiento de la biomasa, con el fin de generar energía.
+
+c) Las condiciones acústicas y de radiación solar en todas sus variantes; la iluminación y ventilación natural del entorno; la ganancia térmica y la protección solar y del viento en el diseño arquitectónico.
+
+d) La utilización de material reciclado para la construcción.
+
+V. Las demás que señalen las leyes y reglamentos que en esta materia le sean aplicables.
 
 ###### Artículo 13.
 
-La Comisión de Vivienda del Estado de Guanajuato, en materia de ecotécnicas y de ingeniería ambiental aplicada a la vivienda, considerará los siguientes lineamientos:
-
-I. El aprovechamiento de la energía solar en calentadores de agua y en la generación de energía eléctrica;
-
-II. La aplicación de sistemas para el aprovechamiento de la biomasa, con el fin de generar energía;
-
-III. Las condiciones acústicas y de radiación solar en todas sus variantes; la iluminación y ventilación natural del entorno; la ganancia térmica y la protección solar y del viento en el diseño arquitectónico;
-
-IV. La utilización de material reciclado para la construcción; y
-
-V. Las demás que señalen las leyes y reglamentos que en esta materia le sean aplicables.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ### Capítulo III. Consejo Estatal de Energía
 
@@ -297,13 +305,15 @@ V. El titular de la Secretaría de Finanzas, Inversión y Administración, quien
 
 VI. El Secretario de Innovación, Ciencia y Educación Superior, quien fungirá como Secretario Técnico;
 
-VII. El Director General del Instituto de Ecología del Estado;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VII. El titular de la Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 VIII. El Procurador Ambiental y de Ordenamiento Territorial;
 
-IX. El Director General de la Comisión de Vivienda del Estado de Guanajuato; y
+IX. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018);
 
 X. El titular de la Coordinación General Jurídica del Gobierno del Estado.
 
@@ -612,3 +622,35 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 341, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4o. PRIMER PÁRRAFO Y FRACCIONES VIII Y XVIII; 5o. PÁRRAFO PRIMERO Y FRACCIÓN III; 80. EN SU PRIMER PÁRRAFO; 9 FRACCIÓN VI; 27 PÁRRAFO SEGUNDO; 29 EN SU PRIMER PÁRRAFO; 31 PRIMER PÁRRAFO; 33 PRIMER PÁRRAFO Y FRACCIÓN II; 35 EN SU PRIMER Y ÚLTIMO PÁRRAFOS; 36; 37; 38 PRIMER PÁRRAFO; 39 PRIMER PÁRRAFO; 40; 41 PRIMER Y ÚLTIMO PÁRRAFOS, Y FRACCIÓN II; 42 PRIMER PÁRRAFO; 43 SEGUNDO PÁRRAFO; 48 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 63; 64; 69; 108 EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO; 114 PÁRRAFOS PRIMERO Y TERCERO; 115 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, Y FRACCIONES III Y IV EN SUS INCISOS B), E), F), G) Y H); 117 FRACCIÓN II; 118 EN SU PRIMER PÁRRAFO; 132 PRIMER PÁRRAFO; 149 EN SU PRIMER PÁRRAFO; 152; 154 PRIMER PÁRRAFO; 156 EN SU PRIMER PÁRRAFO; Y 177 EN SU PÁRRAFO PRIMERO. Y SE DEROGAN EL TERCER PÁRRAFO DEL ARTÍCULO 156; Y LOS ARTÍCULOS 157 Y 158, TODOS DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Medio Ambiente y Ordenamiento Territorial, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. El Instituto Estatal de Ecología y la Comisión de Vivienda del Estado de Guanajuato, transferirán a la Secretaría de Medio Ambiente y Ordenamiento Territorial, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones, a través de la entrega-recepción respectiva.
+
+El personal de las entidades paraestatales referidas en el párrafo que antecede, conforme a su situación laboral pasarán a integrar la nueva Secretaría de Medio Ambiente y Ordenamiento Territorial, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Por lo que hace a las secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano, la Comisión Estatal del Agua de Guanajuato, el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato y el Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato, transferirán sólo los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuvieren encomendadas en las materias que se transfieran con motivo del presente Decreto y de las reformas a otros ordenamientos, a través de la entrega-recepción respectiva, y pasarán a ser competencia de la Secretaría de Medio Ambiente y Ordenamiento Territorial.
+
+Artículo Sexto. La Secretaría de Medio Ambiente y Ordenamiento Territorial sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales y secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Ecología, Comisión de Vivienda de Guanajuato, e Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas o la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas a los demás ordenamientos.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto Estatal de Ecología y de la Comisión de Vivienda del Estado de Guanajuato. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
+
+Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
