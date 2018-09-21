@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-8648
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-03"
-last_updated: "2018-05-11"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 3 de marzo de 2012.
 
@@ -925,7 +925,9 @@ Si derivado de la verificación vehicular y la revisión física y mecánica, se
 
 El Instituto podrá autorizar la ampliación de la vida útil hasta por cinco periodos de un año, siempre que de la verificación vehicular y revisión física y mecánica se desprenda que se encuentra en condiciones para continuar prestando el servicio y que la unidad está equipada con sistema de gas, de propulsión eléctrica, o cualquier otra tecnología autorizada y regulada por la Secretaria de Desarrollo Sustentable, que minimice los efectos perjudiciales al medio ambiente.
 
-Los concesionarios o permisionarios podrán iniciar la prestación del servicio con vehículos del modelo correspondiente al año en que se otorgue la concesión o permiso respectivo, o hasta dos modelos anteriores al año del otorgamiento del mismo, previa justificación del área competente del Instituto Queretano del Transporte, para garantizar la correcta operación de la unidad.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Los concesionarios o permisionarios podrán iniciar la prestación del servicio con vehículos del modelo correspondiente al año en que se otorgue la concesión o permiso respectivo, o hasta dos modelos anteriores al año del otorgamiento del mismo, y además que la unidad está equipada con sistema de gas, de propulsión eléctrica, o cualquier otra tecnología autorizada y regulada por la Secretaria de Desarrollo Sustentable, que minimice los efectos perjudiciales al medio ambiente y previa justificación del área competente del Instituto Queretano del Transporte, para garantizar la correcta operación de la unidad.
 
 Se exceptúan de lo anterior los servicios de arrastre y de salvamento y arrastre, los cuales podrán adquirir una concesión o permiso con vehículos de antigüedad no mayor a 15 años, contados a partir de la solicitud, siempre que den cumplimiento con los requisitos señalados previamente, los que se establezcan en la Ley de Servicios Auxiliares del Transporte Público del Estado de Querétaro y en y en (sic) los ordenamientos que de ésta emanen.
 
@@ -3835,7 +3837,9 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 Artículo Tercero. Lo dispuesto por el tercer párrafo del artículo 130, respecto al otorgamiento de permisos y concesiones para el servicio público en la modalidad de taxi o servicio de transporte privado de pasajeros, iniciará su vigencia a partir del primero de enero de 2020.
 
-Para los años 2018 y 2019, deberán otorgarse permisos y concesiones para el servicio público en la modalidad de taxi o servicio de transporte privado de pasajeros, a vehículos híbridos
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Para el año 2018, podrán otorgarse permisos para el servicio público en la modalidad de servicio de transporte privado de pasajeros, a vehículos con propulsión a gas. Para el año 2019, podrán otorgarse los mismos a vehículos híbridos.
 
 Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, deberá expedir el Reglamento de la Ley de Movilidad para el Transporte del Estado de Querétaro en un plazo máximo de 45 días hábiles, contados a partir de la publicación de la presente Ley.
 
@@ -3850,3 +3854,23 @@ Artículo Octavo. Para la presente anualidad, la revisión de la tarifa a que se
 Artículo Noveno. El pago de tarifa a través del sistema de recaudo electrónico a que se refiere el último párrafo del artículo 165 de la presente Ley, será a partir del 01 de abril de 2018.
 
 Artículo Décimo. Una vez aprobada, remítase la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo Décimo Primero. Únicamente para el año 2018, excepcionalmente el Instituto podrá autorizar la ampliación de la vida útil de los vehículos a que refiere el artículo 36 hasta por un año, siempre y cuando de la verificación vehicular y la revisión físico-mecánica se desprenda que la unidad se encuentra en condiciones para continuar prestando el servicio.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 36 DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO; SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO Y SE ADICIONA EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO A LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Una vez aprobada, remítase la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
