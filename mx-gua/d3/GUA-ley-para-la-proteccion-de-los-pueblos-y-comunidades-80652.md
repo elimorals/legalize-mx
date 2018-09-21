@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-pueblos-y-comunidades-80652"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-08"
-last_updated: "2013-06-07"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION DE LOS PUEBLOS Y COMUNIDADES INDIGENAS Y AFROMEXICANAS EN EL ESTADO DE GUANAJUATO -- ANTES LEY PARA LA PROTECCION DE LOS PUEBLOS Y COMUNIDADES INDIGENAS EN EL ESTADO DE GUANAJUATO --
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LA PROTECCIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de abril de 2011.
 
@@ -593,11 +595,15 @@ VI. El titular de la Secretaría de Desarrollo Agroalimentario y Rural;
 
 VII. El titular de la Procuraduría General de Justicia del Estado;
 
-VIII. El titular del Instituto de la Mujer Guanajuatense;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. La titular del Instituto para las Mujeres Guanajuatenses;
 
 IX. El titular del Instituto de la Juventud Guanajuatense;
 
-X. El titular del Instituto Estatal de Ecología;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+X. El titular de la Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
 XI. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
 
@@ -718,3 +724,35 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 341, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4o. PRIMER PÁRRAFO Y FRACCIONES VIII Y XVIII; 5o. PÁRRAFO PRIMERO Y FRACCIÓN III; 80 (SIC). EN SU PRIMER PÁRRAFO; 9 FRACCIÓN VI; 27 PÁRRAFO SEGUNDO; 29 EN SU PRIMER PÁRRAFO; 31 PRIMER PÁRRAFO; 33 PRIMER PÁRRAFO Y FRACCIÓN II; 35 EN SU PRIMER Y ÚLTIMO PÁRRAFOS; 36; 37; 38 PRIMER PÁRRAFO; 39 PRIMER PÁRRAFO; 40; 41 PRIMER Y ÚLTIMO PÁRRAFOS, Y FRACCIÓN II; 42 PRIMER PÁRRAFO; 43 SEGUNDO PÁRRAFO; 48 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 63; 64; 69; 108 EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO; 114 PÁRRAFOS PRIMERO Y TERCERO; 115 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, Y FRACCIONES III Y IV EN SUS INCISOS B), E), F), G) Y H); 117 FRACCIÓN II; 118 EN SU PRIMER PÁRRAFO; 132 PRIMER PÁRRAFO; 149 EN SU PRIMER PÁRRAFO; 152; 154 PRIMER PÁRRAFO; 156 EN SU PRIMER PÁRRAFO; Y 177 EN SU PÁRRAFO PRIMERO. Y SE DEROGAN EL TERCER PÁRRAFO DEL ARTÍCULO 156; Y LOS ARTÍCULOS 157 Y 158, TODOS DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Medio Ambiente y Ordenamiento Territorial, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. El Instituto Estatal de Ecología y la Comisión de Vivienda del Estado de Guanajuato, transferirán a la Secretaría de Medio Ambiente y Ordenamiento Territorial, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones, a través de la entrega-recepción respectiva.
+
+El personal de las entidades paraestatales referidas en el párrafo que antecede, conforme a su situación laboral pasarán a integrar la nueva Secretaría de Medio Ambiente y Ordenamiento Territorial, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Por lo que hace a las secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano, la Comisión Estatal del Agua de Guanajuato, el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato y el Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato, transferirán sólo los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuvieren encomendadas en las materias que se transfieran con motivo del presente Decreto y de las reformas a otros ordenamientos, a través de la entrega-recepción respectiva, y pasarán a ser competencia de la Secretaría de Medio Ambiente y Ordenamiento Territorial.
+
+Artículo Sexto. La Secretaría de Medio Ambiente y Ordenamiento Territorial sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales y secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Ecología, Comisión de Vivienda de Guanajuato, e Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas a los demás ordenamientos.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto Estatal de Ecología y de la Comisión de Vivienda del Estado de Guanajuato. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
+
+Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
