@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2017-04-28"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO 342, PUBLICADO EN EL P.O. 21 DE SEPTIEMBRE DE 2018, LAS REFERENCIAS A LA SECRETARÍA DE OBRA PÚBLICA, Y DEL INSTITUTO DE MOVILIDAD DEL ESTADO DE GUANAJUATO SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE INFRAESTRUCTURA, CONECTIVIDAD Y MOVILIDAD.]</small>
+
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -77,9 +79,17 @@ Obligatoriedad de la Ley
 
 Toda persona que haga uso de las vías públicas terrestres de la entidad, ya sea como conductor o propietario de un vehículo, como concesionario o permisionario, como usuario de los servicios público y especial de transporte en cualquiera de sus modalidades o como peatón, se encuentra obligada a cumplir con las disposiciones contenidas en la presente Ley y su reglamento.
 
-El Instituto de Movilidad del Estado de Guanajuato y la dependencia municipal encargada del tránsito, conforme al ámbito de su competencia, podrán emitir disposiciones y restricciones para la circulación de vehículos por las vías públicas de jurisdicción estatal y municipal cuando por su tipo y características de medidas y peso representen un riesgo para la seguridad de las personas, conservación o correcto funcionamiento de las vías.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-La Policía Estatal de Caminos podrá formular recomendaciones al Instituto de Movilidad del Estado de Guanajuato para la emisión de las disposiciones y restricciones aludidas en el párrafo anterior.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Emisión de disposiciones y restricciones
+
+Artículo 3 bis. La Secretaría de Gobierno y los municipios podrán emitir disposiciones y restricciones para la circulación de vehículos por las vías públicas de jurisdicción estatal y municipal cuando por su tipo y características de medidas y peso representen un riesgo para la seguridad de las personas, conservación o correcto funcionamiento de las vías.
+
+La Policía Estatal de Caminos podrá formular recomendaciones para la emisión de las disposiciones y restricciones aludidas en el párrafo anterior.
 
 Principios rectores de la movilidad
 
@@ -141,7 +151,9 @@ a) En los diferentes sistemas del servicio de transporte deberán realizarse pro
 
 b) El Ejecutivo del Estado diseñará y desarrollará programas y campañas permanentes de educación, seguridad vial y cuidado del medio ambiente.
 
-Todo ello con independencia de la capacitación que impartan de manera directa los concesionarios y permisionarios a sus conductores, los cuales para efectos de reconocimiento podrán ser previamente validados por el Instituto de Movilidad del Estado.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Todo ello con independencia de la capacitación que impartan de manera directa los concesionarios y permisionarios a sus conductores, los cuales para efectos de reconocimiento podrán ser previamente validados por la unidad administrativa de transporte.
 
 Los ayuntamientos implementarán y ejecutarán de manera independiente o coordinada programas y campañas, las cuales deberán ser acordes a las establecidas por el Estado.
 
@@ -195,11 +207,11 @@ V. Conductor: Toda persona que maneje un vehículo en cualquiera de sus modalida
 
 VI. Derrotero: sonlos (sic) movimientos direccionales de una ruta, desde su origen hasta su destino y viceversa;
 
-VII. Director General: El Director General del Instituto de Movilidad del Estado de Guanajuato;
+VII. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 VIII. Estudio Técnico: El diagnóstico, análisis de evaluación y, en su caso estadístico, del cual se determinarán las necesidades de movilidad, así como las propuestas que permitan atender y mejorar las condiciones de movilidad sustentable;
 
-IX. Instituto: El Instituto de Movilidad del Estado de Guanajuato;
+IX. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 X. Ley: La Ley de Movilidad del Estado de Guanajuato y sus Municipios;
 
@@ -215,19 +227,35 @@ XV. Permisionario: El titular de un permiso;
 
 XVI. Permiso: El acto jurídico administrativo en virtud del cual la autoridad competente autoriza de forma temporal a una persona física o jurídico colectiva para la prestación de un servicio público o especial de transporte;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XVI bis. Secretaría: La Secretaría de Infraestructura, Conectividad y Movilidad;
+
 XVII. Sistema Estatal de Ciclovías: conjunto de redes de ciclovías interconectadas entre sí e integradas con otros medios de transporte;
 
 XVIII. Tarifa: La contraprestación económica que el usuario de un servicio público o especial de transporte paga por el servicio recibido;
 
 XIX. Título concesión: Documento oficial que deriva del acto jurídico administrativo de concesión y acredita a una persona física o jurídico colectiva como titular en la prestación del servicio público de transporte en una modalidad específica;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XIX bis. Unidad administrativa de movilidad: La unidad administrativa adscrita a la Secretaría de Infraestructura, Conectividad y Movilidad;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XIX ter. Unidad administrativa de transporte: La unidad administrativa adscrita a la Secretaría de Gobierno;
+
 XX. Usuario: La persona que previo pago de la tarifa correspondiente, utiliza el servicio público y especial de transporte que se presta por las vías públicas dentro del Estado;
 
-XXI. Vehículo: La unidad impulsada por un motor o cualquiera otra forma de propulsión, en el cual se lleva a cabo la transportación de personas o cosas, utilizando las vías públicas dentro del Estado;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XXI. Vehículo: La unidad impulsada por un motor o cualquiera otra forma de propulsión, en la cual se lleva a cabo la transportación de personas o cosas, utilizando las vías públicas dentro del Estado;
 
 XXII. Vía Pública: El espacio de dominio público y uso común que por disposición de la Ley o por razones del servicio esté destinado a la movilidad de las personas, bienes y vehículos motorizados y no motorizados; y
 
-XXIII. Zona metropolitana: Espacio territorial de influencia dominante de un centro de población y declarada como tal en los términos del Código Territorial para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII. Zona metropolitana: Los centros de población o conurbaciones que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia dominante y revisten importancia estratégica para el desarrollo estatal y municipal.
 
 ### Capítulo II. Programa Estatal de Movilidad
 
@@ -297,11 +325,23 @@ V. Los colegios de ingenieros civiles, arquitectos y, en su caso, de las cámara
 
 En el Programa Estatal de Movilidad deberán señalarse de forma expresa las propuestas que fueron tomadas en cuenta y la autoría u origen de las mismas.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Armonización del programa
 
 ###### Artículo 11.
 
-El Programa Estatal de Movilidad deberá ser congruente con la Ley de Planeación para el Estado de Guanajuato, el Código Territorial para el Estado y los Municipios de Guanajuato, el Plan Estatal de Desarrollo, el Programa de Gobierno, el Programa Estatal de Desarrollo Urbano y Ordenamiento Ecológico Territorial y los programas de desarrollo urbano y ordenamiento ecológico territorial de las zonas metropolitanas.
+En la formulación y aprobación del Programa Estatal de Movilidad deberán observarse las disposiciones de la Ley de Planeación para el Estado de Guanajuato y del Código Territorial para el Estado y los Municipios de Guanajuato.
+
+Asimismo, sus objetivos, estrategias e indicadores deberán estar alineados a los siguientes instrumentos de planeación estatal:
+
+I. El Plan Estatal de Desarrollo;
+
+II. El Programa de Gobierno;
+
+III. El Programa Estatal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial; y
+
+IV. Los programas regionales, metropolitanos y, en su caso, parciales, que deriven del Programa Estatal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial.
 
 Programas de movilidad municipales
 
@@ -309,11 +349,17 @@ Programas de movilidad municipales
 
 Los municipios deberán elaborar sus programas de movilidad en total congruencia con lo establecido en el Programa Estatal de Movilidad. Dentro de los tres meses siguientes a la publicación del programa estatal o en su caso de su revisión.
 
-El Ayuntamiento remitirá al Instituto el proyecto, para que emita la opinión respecto a la congruencia del mismo con el programa estatal de movilidad.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-El Instituto emitirá la opinión a que se refiere el párrafo anterior, dentro de los treinta días hábiles siguientes a la presentación del mismo; en caso de que no sea emitida la opinión correspondiente dentro del plazo señalado, se entenderá que el proyecto de programa municipal es congruente con el programa estatal.
+El Ayuntamiento remitirá a la Secretaría el proyecto, para que emita la opinión respecto a la congruencia del mismo con el programa estatal de movilidad.
 
-En caso de que el Instituto emita una opinión negativa respecto de la propuesta, el Ayuntamiento deberá hacer las adecuaciones correspondientes.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría emitirá la opinión a que se refiere el párrafo anterior, dentro de los treinta días hábiles siguientes a la presentación del mismo; en caso de que no sea emitida la opinión correspondiente dentro del plazo señalado, se entenderá que el proyecto de programa municipal es congruente con el programa estatal.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de que la Secretaría emita una opinión negativa respecto del proyecto, el Ayuntamiento deberá hacer las adecuaciones correspondientes.
 
 Publicación y modificación de programas
 
@@ -341,17 +387,33 @@ I. El titular del Poder Ejecutivo;
 
 II. La Secretaría de Gobierno;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II bis. La Secretaría;
+
 III. La Secretaría de Finanzas, Inversión y Administración;
 
 IV. La Policía Estatal de Caminos;
 
-V. El Instituto;
+V. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
-VI. El Director General;
+VI. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 VII. El registrador de concesiones y permisos de transporte, jefes de oficinas regionales de movilidad e inspectores de movilidad; y
 
 VIII. Los Jefes de las Oficinas Recaudadoras del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Unidad administrativa de movilidad
+
+Artículo 15 bis. La Secretaría de Infraestructura, Conectividad y Movilidad, contará con una unidad administrativa en materia de movilidad encargada de ordenar, planear, promover y administrar la movilidad en el Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Unidad administrativa de transporte
+
+Artículo 15 ter. La Secretaría de Gobierno contará con una unidad administrativa en materia de transporte encargada de ordenar, planear, promover y administrar el servicio público y especial de transporte en el Estado, así como la educación vial.
 
 Facultades del titular del Poder Ejecutivo
 
@@ -361,19 +423,53 @@ El titular del Poder Ejecutivo tiene las siguientes facultades:
 
 I. Dictar y aplicar, en cualquier tiempo, cuando así lo requiera el interés público, las medidas necesarias para el cumplimiento de esta Ley y su reglamento;
 
-II. Nombrar y remover libremente al Director General;
+II. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 III. Promover e impulsar la creación de organismos dedicados a la investigación, capacitación y modernización de la movilidad así como de los servicios conexos;
 
 IV. Promover la movilidad en el marco del respeto por los derechos humanos, la seguridad, el medio ambiente y la calidad del entorno urbano;
 
-V. Emitir a propuesta del Instituto el Programa Estatal de Movilidad;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+V. Emitir a propuesta de la Secretaría el Programa Estatal de Movilidad;
 
 VI. Proponer las partidas necesarias en la iniciativa de la Ley del Presupuesto General de Egresos del Estado de Guanajuato para el ejercicio fiscal correspondiente para el cumplimiento del objeto establecido en el presente ordenamiento;
 
-VII. Incluir en el Plan Estatal de Desarrollo y en el Programa de Gobierno los objetivos, metas, estrategias y acciones en materia de movilidad en el Estado; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Incluir en el Plan Estatal de Desarrollo, en el Programa de Gobierno, en el Programa Estatal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial y en los demás programas que deriven de este último, los objetivos, metas, estrategias y acciones en materia de movilidad en el Estado; y
 
 VIII. Las demás que le conceda esta Ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Facultades de la Secretaría
+
+Artículo 16 bis. La Secretaría a través de su titular tiene las siguientes facultades:
+
+I. Planear, ejecutar, coordinar y evaluar el programa estatal en materia de movilidad conforme a las disposiciones legales vigentes y los acuerdos que emita el Gobernador del Estado;
+
+II. Diseñar, proponer y en su caso ejecutar, las políticas públicas estatales en materia de movilidad, infraestructura de movilidad y, en especial, aquellas destinadas a los peatones, personas con discapacidad o movilidad reducida y el derecho a la movilidad motorizada y no motorizada en el Estado;
+
+III. Participar y brindar asesoría técnica a las dependencias y entidades estatales y municipales, relacionada con la planeación del desarrollo urbano y el ordenamiento ecológico territorial, para el mejoramiento de la movilidad;
+
+IV. Colaborar con la Secretaría de Medio Ambiente y Ordenamiento Territorial y las demás dependencias y entidades estatales y municipales, en la planeación, formulación y aplicación de las normas relativas al medio ambiente que incidan en la materia de movilidad;
+
+V. Establecer y promover políticas, planes y acciones tendientes a mejorar la movilidad en las diferentes vialidades estatales, incluyendo las zonas declaradas o consideradas como metropolitanas;
+
+VI. Vigilar el cumplimiento de esta Ley, así como elaborar, fijar y conducir las políticas estatales en el ámbito de su competencia;
+
+VII. Proveer lo necesario para el funcionamiento administrativo y operativo de la unidad administrativa de movilidad;
+
+VIII. Tramitar y resolver los recursos administrativos que le competan;
+
+IX. Ejecutar los acuerdos del Gobernador del Estado en todo lo que se refiere a la materia objeto de esta Ley y su reglamento, en el ámbito de su competencia;
+
+X. Incentivar la formación de especialistas, para la investigación y el desarrollo tecnológico en materia de movilidad;
+
+XI. Realizar los análisis, estudios técnicos y diagnósticos que se requieran para el cumplimiento de sus atribuciones, así como aquellos que en su caso le sean solicitados por los municipios o que se deriven de las acciones de coordinación con los municipios de la entidad; y
+
+XII. Las demás que en esta materia le confiera la normatividad aplicable.
 
 Facultades del titular de la Secretaría de Gobierno
 
@@ -381,19 +477,31 @@ Facultades del titular de la Secretaría de Gobierno
 
 La Secretaría de Gobierno a través de su titular tiene las siguientes facultades:
 
-I. Planear, coordinar y evaluar los programas estatales en materia de movilidad conforme a las disposiciones legales vigentes y los acuerdos que emita el Gobernador del Estado;
+I. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
-II. Vigilar el cumplimiento de esta Ley, así como elaborar, fijar y conducir las políticas estatales en materia de movilidad;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-III. Otorgar y revocar las concesiones del servicio público de transporte de su competencia en los términos de esta Ley y su reglamento;
+II. Vigilar el cumplimiento de esta Ley, así como elaborar, fijar y conducir las políticas estatales en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+III. Otorgar y revocar las concesiones del servicio público de transporte de su competencia en los términos de esta Ley y su reglamento, previa opinión de la Secretaría;
 
 IV. Emitir y suscribir los títulos de concesiones del servicio público de transporte de su competencia;
 
-V. Proveer lo necesario para el funcionamiento administrativo y operativo del Instituto;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+V. Proveer lo necesario para el funcionamiento administrativo y operativo de la unidad administrativa de transporte;
 
 VI. Tramitar y resolver los recursos administrativos que le competan;
 
-VII. Ejecutar los acuerdos del Gobernador del Estado en todo lo que se refiere a la materia objeto de esta Ley y su reglamento; y
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VI bis. Fungir, cuando se vea afectada la prestación del servicio y previa solicitud, como instancia conciliadora en las controversias que surjan entre los concesionarios y permisionarios del servicio público y especial de transporte con las autoridades municipales, y entre éstas; sin perjuicio de la aplicación de sanciones en el ámbito de su competencia en caso de persistir la afectación del servicio;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Ejecutar los acuerdos del Gobernador del Estado en todo lo que se refiere a la materia objeto de esta Ley y su reglamento, en el ámbito de su competencia; y
 
 VIII. Las demás que en esta materia le confiera la normatividad aplicable.
 
@@ -411,13 +519,57 @@ III. Diseñar y emitir los formatos para el control vehicular, conforme a los li
 
 IV. Recaudar los diversos conceptos tributarios que deberán cubrir las personas en materia de servicios de movilidad a que se refiere la presente Ley, con excepción de aquellos que se deriven de las atribuciones que la misma señale como competencia de los municipios.
 
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Atribuciones de la unidad administrativa de transporte
+
+Artículo 18 bis. Son atribuciones de la unidad administrativa de transporte, las siguientes:
+
+I. Diseñar, proponer y en su caso ejecutar, las políticas públicas estatales en materia de educación vial y del servicio público y especial de transporte;
+
+II. Colaborar con las diferentes instancias de gobierno en la planeación y diseño de los programas para la organización y el desarrollo del servicio de transporte en el Estado, en apego a las formalidades, requisitos y características de las diferentes regiones;
+
+III. Participar en las acciones que en materia de protección al medio ambiente lleven a cabo otras autoridades, en relación con la prestación del servicio público y especial de transporte y el particular;
+
+IV. Dictar los acuerdos necesarios para el mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público y especial de transporte de competencia estatal, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+
+V. Instrumentar en coordinación con otras dependencias y con los municipios, programas y campañas de educación peatonal, vial y cortesía urbana, encaminados a la prevención de accidentes, a través de la formación de una conciencia social de los problemas peatonales y viales y una cultura urbana en la población;
+
+VI. En el ámbito de su competencia, promover servicios de transporte público de personas que consideren las necesidades de las mujeres y los lugares a los que viajan, así como módulos de atención a mujeres violentadas en el servicio;
+
+VII. Regular los requisitos para el tránsito en las carreteras, caminos y áreas de jurisdicción estatal;
+
+VIII. Expedir las licencias y permisos para conducir en el Estado con apego a lo que sobre el particular establece esta Ley y su reglamento;
+
+IX. Participar y brindar asesoría técnica a las dependencias y entidades estatales y municipales, relacionadas con el servicio público y especial de transporte;
+
+X. Fungir como consultor técnico de la administración pública estatal sobre los asuntos vinculados al servicio público y especial de transporte, realizando los diagnósticos, propuestas, análisis y estudios técnicos correspondientes;
+
+XI. Promover y proteger la libre concurrencia y la libre competencia, así como prevenir y evitar los monopolios y las prácticas monopólicas;
+
+XII. Participar, con las dependencias y entidades competentes, en la formulación y aplicación de las normas relativas al medio ambiente que incidan en el servicio público y especial de transporte;
+
+XIII. Promover el diseño de sistemas de financiamiento, a favor de los prestadores del servicio para el desarrollo y la modernización del servicio público y especial de transporte;
+
+XIV. Establecer y promover políticas, planes y acciones tendientes a mejorar la regulación en la prestación del servicio público y especial de transporte en las diferentes vialidades estatales, incluyendo las zonas declaradas o consideradas como metropolitanas;
+
+XV. En coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial, promover, impulsar y fomentar sistemas de transporte y medios alternos de movilidad que utilicen los avances tecnológicos y científicos, a través de eficiencia energética y tendientes a reducir emisiones atmosféricas, acústicas y gases de efecto invernadero, promoviendo el mantenimiento y la preservación de los ya existentes;
+
+XVI. Realizar todas aquellas acciones tendientes a que el servicio público y el especial de transporte, además de llevarse a cabo con eficiencia, se proporcione con calidad, garantice la seguridad de peatones, usuarios de la vialidad y los derechos de los permisionarios y concesionarios;
+
+XVII. Efectuar la revisión y control administrativo de los expedientes de las concesiones y permisos del servicio público y especial de transporte; y
+
+XVIII. Las demás que le señalen otras disposiciones legales o reglamentarias aplicables.
+
 Facultades de los jefes de oficina regional de movilidad
 
 ###### Artículo 19.
 
 Los jefes de oficina regional de movilidad tendrán las siguientes facultades:
 
-I. Tramitar el otorgamiento de licencias y permisos para conducir de los operadores de vehículos automotores públicos y privados y de aquellos trámites que les sean encomendados derivado de los actos jurídicos que para el efecto celebre o emita el Instituto;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+I. Tramitar el otorgamiento de licencias y permisos para conducir de los operadores de vehículos automotores públicos y privados y de aquellos trámites que les sean encomendados derivado de los actos jurídicos que para el efecto celebre o emita la unidad administrativa de transporte;
 
 II. Calificar las infracciones a la Ley y su reglamento, en el ámbito de su competencia; y
 
@@ -461,175 +613,49 @@ Convenios para capacitación en primeros auxilios
 
 Los municipios podrán celebrar convenios con el Estado para que a través de este se les brinde la capacitación en primeros auxilios a su personal operativo de tránsito municipal.
 
-### Capítulo IV. Instituto de Movilidad del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-Naturaleza jurídica y objeto
+### Capítulo IV. Participación ciudadana y oficinas regionales
 
 ###### Artículo 24.
 
-El Instituto, es un organismo público desconcentrado de la Secretaría de Gobierno, tiene por objeto ordenar, planear, promover, administrar la movilidad y el servicio público y especial de transporte en el Estado.
-
-Atribuciones del Instituto
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 25.
 
-Son atribuciones del Instituto, las siguientes:
-
-I. Diseñar, proponer y en su caso ejecutar, las políticas públicas estatales en materia de movilidad, educación vial, del servicio público y especial de transporte, infraestructura de movilidad y, en especial, aquella destinada a los peatones, personas con discapacidad o movilidad reducida y el derecho a la movilidad motorizada y no motorizada en el Estado;
-
-II. Colaborar con las diferentes instancias de gobierno en la planeación y diseño de los programas para la organización y el desarrollo del servicio de transporte en el Estado, en apego a las formalidades, requisitos y características de las diferentes regiones;
-
-III. Proveer en el ámbito de su competencia que la vialidad, la infraestructura vial y peatonal, servicios y elementos inherentes o incorporados a ella, se utilicen en forma adecuada conforme a su naturaleza, coordinándose en su caso, con las dependencias y entidades estatales y municipales correspondientes;
-
-IV. Participar en la realización de los estudios necesarios para la creación y modificación de las vialidades en coordinación con las autoridades estatales y municipales, de acuerdo con las necesidades y las condiciones impuestas por el Programa Estatal de Movilidad;
-
-V. Gestionar y fomentar el uso de tecnologías, dispositivos, instrumentos, servicios y procesos no dañinos al medio ambiente, que reduzcan el impacto ambiental y las emisiones contaminantes;
-
-VI. Generar las bases para la accesibilidad y el servicio público de transporte de personas de competencia estatal para personas con discapacidad o movilidad reducida, mujeres, personas adultas mayores, niñas y niños, privilegiando el derecho de estos grupos a contar con medios de transporte acordes a sus necesidades;
-
-VII. Participar en las acciones que en materia de protección al medio ambiente lleven a cabo otras autoridades, en relación con la prestación del servicio público y especial de transporte y el particular;
-
-VIII. Dictar los acuerdos necesarios para mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público y especial de transporte de competencia estatal, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
-
-IX. Promover que las vialidades y los nuevos desarrollos urbanos cuenten con accesibilidad a peatones, personas con discapacidad o movilidad reducida, ciclistas y estacionamientos para bicicletas, basadas en los estudios y planes de movilidad correspondientes que para tal efecto se realicen, a fin de fomentar el uso de transporte no contaminante; sin perjuicio de las acciones que deban ejecutarse en coordinación con los municipios;
-
-X. Instrumentar en coordinación con otras dependencias y con los municipios, programas y campañas de educación peatonal, vial y cortesía urbana, encaminados a la prevención de accidentes, a través de la formación de una conciencia social de los problemas peatonales y viales y una cultura urbana en la población;
-
-XI. En el ámbito de su competencia, promoverá servicios de transporte público de personas que consideren las necesidades de las mujeres y los lugares a los que viajan, así como módulos de atención a mujeres violentadas en el servicio;
-
-XII. Regular los requisitos para el tránsito en las carreteras, caminos y áreas de jurisdicción estatal;
-
-XIII. Expedir las licencias y permisos para conducir en el Estado con apego a lo que sobre el particular establece esta Ley y su reglamento;
-
-XIV. Participar y brindar asesoría técnica a las dependencias y entidades estatales y municipales, relacionadas con la planeación del desarrollo urbano y la obra pública para el mejoramiento de la movilidad, así como del servicio público y especial de transporte;
-
-XV. Fungir como consultor técnico de la administración pública estatal sobre los asuntos vinculados a la movilidad y al servicio público y especial de transporte, realizando los diagnósticos, propuestas, análisis y estudios técnicos correspondientes;
-
-XVI. Realizar los análisis, estudios técnicos y diagnósticos que se requieran para el cumplimiento de su objeto y atribuciones, así como aquellos que en su caso le sean solicitados por los municipios o que se deriven de las acciones de coordinación con los municipios de la entidad;
-
-XVII. Promover, proteger la libre concurrencia y la libre competencia, así como prevenir y evitar los monopolios y las prácticas monopólicas;
-
-XVIII. Emitir la opinión respecto a la congruencia de los programas municipales de movilidad con relación al Programa Estatal de Movilidad;
-
-XIX. Formular recomendaciones públicas no vinculatorias y proponer estrategias a los entes públicos y privados respecto al incumplimiento de las obligaciones contempladas en la presente Ley;
-
-XX. Fungir, cuando se vea afectada la prestación del servicio y previa solicitud, como instancia conciliadora en las controversias que surjan entre los concesionarios y permisionarios del servicio público y especial de transporte con las autoridades municipales, y entre estas; sin perjuicio de la aplicación de sanciones en el ámbito de su competencia en caso de persistir la afectación del servicio;
-
-XXI. Participar, con las dependencias y entidades competentes, en la formulación y aplicación de las normas relativas al medio ambiente que incidan en la materia de movilidad y del servicio público y especial de transporte;
-
-XXII. Promover, impulsar y fomentar sistemas de transporte y medios alternos de movilidad que utilicen los avances tecnológicos y científicos, a través de eficiencia energética y tendientes a reducir emisiones atmosféricas, acústicas y gases de efecto invernadero, promoviendo el mantenimiento y la preservación de los ya existentes;
-
-XXIII. Determinar las características de la infraestructura de movilidad y equipamiento auxiliar del servicio público de transporte que se requiera para su correcta operación, así como promover su construcción, operación, conservación, mejoramiento y vigilancia;
-
-XXIV. Fomentar el uso del transporte no motorizado, y los desplazamientos a pie, así como la accesibilidad para la movilidad de las personas con discapacidad o movilidad reducida;
-
-XXV. Promover acciones preventivas y correctivas respecto de la operación de la infraestructura de movilidad estatal y municipal;
-
-XXVI. Establecer y promover políticas, programas y acciones tendientes a eliminar las interferencias y obstáculos de la seguridad de los usuarios, especialmente de las personas vulnerables, promoviendo el respeto a los derechos humanos;
-
-XXVII. Incentivar la formación de especialistas, para la investigación y el desarrollo tecnológico en materia de movilidad;
-
-XXVIII. Diseñar, impartir y coordinar cursos de capacitación en materia de su competencia, de manera directa o mediante los entes debidamente reconocidos por este;
-
-XXIX. Opinar sobre los criterios y lineamientos que permitan dar unidad y congruencia a los programas y acciones del Gobierno del Estado en materia de movilidad e infraestructura vial relacionada con el servicio público y especial de transporte;
-
-XXX. Promover el diseño de sistemas de financiamiento, a favor de los prestadores del servicio para el desarrollo y la modernización del servicio público y especial de transporte;
-
-XXXI. Establecer y promover políticas, planes y acciones tendientes a mejorar la movilidad en las diferentes vialidades estatales incluyendo las zonas declaradas o consideradas como metropolitanas, así como la regulación en la prestación del servicio público y especial de transporte en las mismas;
-
-XXXII. Conformar comisiones de trabajo con los diferentes sectores, con el objeto de que propongan acciones, programas o proyectos en la materia competencia del Instituto; y
-
-XXXIII. Las demás que le señalen otras disposiciones legales o reglamentarias aplicables.
-
-La administración del Instituto estará a cargo de un Director General.
-
-Facultades no delegables del titular de la Dirección General del Instituto
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 26.
 
-Son facultades no delegables del titular de la Dirección General del Instituto:
-
-I. Proponer al titular de la Secretaría de Gobierno, las medidas que considere necesarias para mejorar las políticas estatales en materia de movilidad y los servicios de transporte en la entidad;
-
-II. Reconsiderar la infracción en el ámbito de su competencia, a quienes incurran en inobservancias a las disposiciones de esta Ley y de su reglamento;
-
-III. Resolver los procedimientos administrativos de su competencia, imponiendo en su caso las sanciones correspondientes;
-
-IV. Certificar los documentos que obren en los archivos del Instituto previo el pago de los derechos correspondientes;
-
-V. Celebrar convenios, contratos y cualquier otro acto jurídico inherente al objeto del Instituto, con las dependencias y entidades de la administración pública, así como con personas físicas y morales, públicas, privadas y sociales nacionales y extranjeras para el logro del mismo, dando cuenta al Secretario de Gobierno de su suscripción, seguimiento y cumplimiento; y
-
-VI. Elaborar los proyectos de estructura organizacional, programas y presupuestos del Instituto cuidando la adecuada administración de sus recursos humanos, materiales y financieros.
-
-Facultades del Director General
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 27.
 
-Son facultades del Director General:
-
-I. Representar al Instituto;
-
-II. Formular, elaborar, revisar, coordinar y dar seguimiento al Programa Estatal de Movilidad, así como a la actualización y modernización del servicio público y especial de transporte en el Estado;
-
-III. Rendir un informe anual de actividades ante el titular de la Secretaría de Gobierno;
-
-IV. Formular los proyectos de Reglamento de la Ley, así como el Reglamento Interior del Instituto y someterlos a consideración del titular de la Secretaría de Gobierno, para su posterior aprobación por el titular del Poder Ejecutivo;
-
-V. Coadyuvar con las estrategias, directrices y lineamientos que establezca el titular de la Secretaría de Gobierno relacionados con el objeto del Instituto;
-
-VI. Supervisar el cumplimiento de las metas del Programa de Gobierno, así como de los programas que del mismo se deriven competencia del Instituto e informar sobre sus avances al titular de la Secretaría de Gobierno;
-
-VII. Revisar el marco normativo que rige la materia de la movilidad y el transporte, a fin de proponer al titular del Poder Ejecutivo las adecuaciones, modificaciones y actualizaciones de las normas, reglas y procedimientos administrativos que resulten pertinentes;
-
-VIII. Programar, orientar, organizar, controlar, aprobar y en su caso modificar, la prestación del servicio público y especial de transporte de competencia estatal;
-
-IX. Tramitar la prórroga, transmisión y modificación de la concesión, así como la rectificación de los títulos de concesión, emitiendo los dictámenes respectivos para la resolución por parte del titular de la Secretaría de Gobierno;
-
-X. Efectuar la revisión y control administrativo de los expedientes de las concesiones y permisos del servicio público y especial de transporte;
-
-XI. Verificar la legalidad y condiciones con las que se presta el servicio público y especial de transporte de competencia estatal y, en su caso, ordenar la detención administrativa de los vehículos afectos a la prestación de dichos servicios;
-
-XII. Establecer y administrar los registros y sistemas de información y de control del servicio público y especial de transporte;
-
-XIII. Expedir las licencias y permisos para conducir de los operadores y conductores de vehículos automotores públicos y privados, respectivamente; así como llevar la administración y control de los expedientes, de la información y registro de los mismos;
-
-XIV. Atender las solicitudes de información que le formule la Unidad de Enlace de la Secretaría de Gobierno en materia de Acceso a la Información Pública;
-
-XV. Comunicar a la Unidad de Enlace de la Secretaría de Gobierno, en materia de Acceso a la Información Pública, las circulares y criterios que emita y que tengan impacto en la ciudadanía;
-
-XVI. Coordinar las comisiones de trabajo con los diferentes sectores, con el objeto de que propongan acciones, programas o proyectos en la materia de competencia del Instituto;
-
-XVII. Realizar las actividades que en materia de movilidad y transporte se le atribuyan expresamente al Instituto y colaborar con el cumplimiento de las políticas en materia ambiental;
-
-XVIII. Realizar todas aquellas acciones tendientes a que el servicio público y el especial de transporte, además de llevarse a cabo con eficiencia, se proporcione con calidad, garantice la seguridad de peatones, usuarios de la vialidad y los derechos de los permisionarios y concesionarios; y
-
-XIX. Las demás que le señalen otras disposiciones legales o reglamentarias aplicables.
-
-Las facultades establecidas en el presente artículo podrán delegarse para su ejercicio en las unidades administrativas o en los servidores públicos adscritos al Instituto, en los términos que establezcan los reglamentos o acuerdos correspondientes.
-
-Unidades administrativas
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 28.
 
-El Instituto para el desarrollo de sus funciones contará con las unidades administrativas necesarias para cumplir con su objeto y atribuciones.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
-La estructura administrativa del Instituto y las facultades de sus unidades administrativas se desarrollarán en el Reglamento Interior del mismo, atendiendo a la disponibilidad presupuestal.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Conformación de comisiones de participación ciudadana en materia de movilidad
 
 ###### Artículo 29.
 
-Para fomentar la participación ciudadana el Instituto deberá conformar comisiones de trabajo, de acuerdo al tema de movilidad o las modalidades del servicio público y especial de transporte, podrán quedar integradas con los concesionarios del servicio, autoridades municipales, organismos no gubernamentales del ramo, cámaras empresariales y sector educativo de la entidad, con el objeto de proponer al Instituto las acciones, programas o proyectos en la materia de su competencia.
+Para fomentar la participación ciudadana, la Secretaría deberá conformar comisiones de trabajo, integradas con las autoridades municipales, organismos no gubernamentales del ramo, cámaras empresariales y sector educativo de la entidad, con el objeto de que propongan acciones, programas o proyectos en materia de movilidad.
 
-Las comisiones de trabajo de participación ciudadana en materia de movilidad serán coordinadas por el Director General del Instituto con el apoyo del personal que este designe.
+Las comisiones de trabajo serán coordinadas por el titular de la Secretaría con el apoyo del personal que éste designe.
 
-El funcionamiento y organización de las comisiones será regulado de acuerdo al Reglamento del Instituto, debiéndose integrar en su mayoría por ciudadanos.
+El funcionamiento y organización de las comisiones de trabajo será regulado en el Reglamento de la Ley, debiéndose integrar en su mayoría por ciudadanos.
 
-Oficinas regionales de movilidad
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Oficinas regionales de la Unidad Administrativa de transporte
 
 ###### Artículo 30.
 
-Podrán establecerse Oficinas Regionales de Movilidad en los municipios de la entidad, cuya jurisdicción y competencia será determinada por el Director General atendiendo a las necesidades de la población y el interés social, así como a la disponibilidad presupuestal. Dicha determinación se publicará en el Periódico Oficial del Gobierno del Estado.
+Podrán establecerse oficinas regionales de la unidad administrativa de transporte en los municipios de la entidad, cuya jurisdicción y competencia será determinada por el Secretario de Gobierno, atendiendo a las necesidades de la población y al interés social, así como a la disponibilidad presupuestal. Dicha determinación se publicará en el Periódico Oficial del Gobierno del Estado.
 
 ### Capítulo V. Autoridades Municipales y sus Facultades
 
@@ -711,17 +737,87 @@ II. Autorización de circulación respecto a las vías para la conducción de tr
 
 ### Capítulo VI. Colaboración entre Autoridades
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Autoridades auxiliares
 
 ###### Artículo 35.
 
-Son autoridades auxiliares en materia de movilidad, la Secretaría de Seguridad Pública y la Secretaría de Obra Pública del Estado de Guanajuato, así como el Instituto de Ecología del Estado de Guanajuato.
+Son autoridades auxiliares en materia de movilidad, la Secretaría de Seguridad Pública y la Secretaría de Medio Ambiente y Ordenamiento Territorial.
 
 Colaboración con otras autoridades
 
 ###### Artículo 36.
 
 Las autoridades estatales y municipales en materia de movilidad y transporte, de conformidad con lo que dispongan las leyes aplicables, coadyuvarán con las autoridades de seguridad pública y los órganos de procuración y de administración de justicia en el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+### Capítulo VII. Comisión Intersecretarial de Movilidad
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Comisión Intersecretarial de Movilidad
+
+Artículo 36 bis. La Comisión Intersecretarial de Movilidad es el órgano encargado de coordinar que las dependencias y entidades de la administración pública estatal impulsen, promuevan, planifiquen y ejecuten acciones transversales y articuladas en materia de movilidad.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Integración de la Comisión Intersecretarial de Movilidad
+
+Artículo 36 ter. La Comisión Intersecretarial de Movilidad se integrará por:
+
+I. El Gobernador del Estado, quien la presidirá;
+
+II. El titular de la Secretaría de Gobierno;
+
+III. El titular de la Secretaría de Infraestructura, Conectividad y Movilidad;
+
+IV. El titular de la Secretaría de Medio Ambiente y Ordenamiento Territorial;
+
+V. El titular de la Secretaría de Seguridad Pública; y
+
+VI. El titular de la Secretaría de Finanzas, Inversión y Administración.
+
+Los integrantes de la Comisión Intersecretarial de Movilidad asistirán a las sesiones y ejercerán su derecho a voz y voto. Cada titular nombrará a su suplente.
+
+Los cargos de los integrantes de la Comisión Intersecretarial de Movilidad serán honoríficos, por lo que no percibirán retribución, emolumento o compensación alguna por su desempeño.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Atribuciones de la Comisión Intersecretarial de Movilidad
+
+Artículo 36 quater. La Comisión Intersecretarial de Movilidad tendrá las atribuciones siguientes:
+
+I. Coordinar las acciones de las dependencias y entidades de la administración pública estatal, en materia de movilidad;
+
+II. Formular las políticas, estrategias y metas estatales en materia de movilidad, y proponer su incorporación en los programas y acciones correspondientes;
+
+III. Impulsar acciones coordinadas para el crecimiento ordenado de la infraestructura vial;
+
+IV. Desarrollar los criterios de transversalidad e integralidad de las políticas públicas de movilidad;
+
+V. Participar en la elaboración e instrumentación del Programa Estatal de Movilidad;
+
+VI. Proponer al Ejecutivo del Estado, reformas al marco jurídico estatal en materia de movilidad;
+
+VII. Realizar y promover estudios y proyectos de investigación y desarrollo tecnológico con relación a la movilidad y difundir sus resultados; y
+
+VIII. Las demás que se establezcan en esta Ley y en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Organización y funcionamiento de la Comisión Intersecretarial
+
+Artículo 36 quinquies. La estructura, organización y funcionamiento de la Comisión Intersecretarial de Movilidad se determinará a través del reglamento de la Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Grupos de trabajo
+
+Artículo 36 sexies. La Comisión Intersecretarial de Movilidad podrá acordar el establecimiento de grupos de trabajo de carácter permanente o temporal, cuyo objeto será la coordinación, seguimiento, desarrollo y evaluación de las funciones de la propia Comisión.
+
+La operación de los grupos de trabajo quedará sujeta a lo establecido en el reglamento de la Ley.
 
 ### Capítulo I. Derechos y Obligaciones de las personas en materia de movilidad
 
@@ -731,15 +827,11 @@ Derecho a la movilidad eficiente y segura
 
 Obligación para conductores de vehículos no motorizados
 
+## TÍTULO SEGUNDO. MOVILIDAD
+
 ### Capítulo III. Vehículos
 
 Concepto de vehículo
-
-## TÍTULO SEGUNDO. MOVILIDAD
-
-### Capítulo IV. Conductores y operadores de vehículos motorizados
-
-Conductores de vehículos motorizados
 
 ###### Artículo 37.
 
@@ -891,9 +983,9 @@ Las autoridades estatales y municipales en el ámbito de su competencia podrán 
 
 Para tal efecto se realizarán los acuerdos y acciones de coordinación correspondientes con el Instituto para las Mujeres Guanajuatenses y las áreas de seguridad pública estatal y municipal, a efecto de canalizar todas aquellas acciones que limiten los derechos de las mujeres y en general que impacten de forma negativa en la equidad de género.
 
-### Capítulo I. Registro vehicular
+### Capítulo IV. Conductores y operadores de vehículos motorizados
 
-Registro de vehículos
+Conductores de vehículos motorizados
 
 ###### Artículo 51.
 
@@ -923,15 +1015,17 @@ IV. Los demás que establezca esta Ley u otros ordenamientos jurídicos.
 
 Las personas con discapacidad o movilidad reducida que utilicen como medio de transporte bicicletas modificadas para su condición, gozarán, en todo lo que les beneficie, de los mismos derechos señalados en el presente artículo.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Centros de alquiler de bicicletas
 
 ###### Artículo 54.
 
-El Instituto y los municipios podrán establecer centros de alquiler de bicicletas y establecerán los requisitos y condiciones para emitir autorización a centros particulares de alquiler.
+La unidad administrativa de transporte y los municipios podrán establecer centros de alquiler de bicicletas y establecerán los requisitos y condiciones para emitir autorización a centros particulares de alquiler.
 
-### Capítulo II. Placas de los vehículos
+### Capítulo I. Registro vehicular
 
-Otorgamiento de placas de circulación
+Registro de vehículos
 
 ###### Artículo 55.
 
@@ -987,11 +1081,13 @@ Registro
 
 Todos los vehículos que circulen por las vías públicas del Estado de Guanajuato y que en razón de su actividad y domicilio y que no estén registrados en otra entidad federativa, deberán efectuar su registro ante la Secretaría de Finanzas, Inversión y Administración. Las condiciones y requisitos para cada tipo y clase de vehículo, son las que al respecto se señalen en esta Ley y sus reglamentos.
 
-La Secretaría de Finanzas, Inversión y Administración, el Instituto de Movilidad del Estado de Guanajuato y la unidad administrativa correspondiente en el municipio establecerán los mecanismos de coordinación para eficientar el registro vehicular en la entidad.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-### Capítulo III. Equipamiento vehicular
+La Secretaría de Finanzas, Inversión y Administración, la Secretaría de Gobierno y la unidad administrativa correspondiente en el municipio, establecerán los mecanismos de coordinación para eficientar el registro vehicular en la entidad.
 
-Accesorios de seguridad
+### Capítulo II. Placas de los vehículos
+
+Otorgamiento de placas de circulación
 
 ###### Artículo 63.
 
@@ -1027,15 +1123,15 @@ Carriles exclusivos
 
 Las autoridades competentes deberán establecer carriles o calles exclusivas para los peatones, vehículos motorizados y no motorizados y los de servicio público de transporte, a efecto de mejorar y eficientar la movilidad, considerando las acciones en materia de infraestructura y señalización para la seguridad de las personas, conforme a sus necesidades.
 
-### Capítulo IV. Circulación de los vehículos
+### Capítulo III. Equipamiento vehicular
 
-Número de personas por vehículo
+Accesorios de seguridad
 
 ## TÍTULO TERCERO. REGISTRO Y CONTROL DE VEHÍCULOS
 
-### Capítulo I. Seguridad Vial
+### Capítulo IV. Circulación de los vehículos
 
-Clasificación de la vía pública
+Número de personas por vehículo
 
 ###### Artículo 66.
 
@@ -1109,9 +1205,9 @@ El Ejecutivo del Estado podrá celebrar convenios de colaboración o coordinaci�
 
 Como resultado de dichos convenios se podrán establecer, cuando se haga necesario, otros requisitos para el registro de los vehículos, además de los señalados anteriormente.
 
-### Capítulo II. Seguridad Vial y Peatonal
+### Capítulo I. Seguridad Vial
 
-Seguridad y educación vial
+Clasificación de la vía pública
 
 ###### Artículo 74.
 
@@ -1191,9 +1287,9 @@ Placas para auto antiguo
 
 Las placas para auto antiguo se proporcionarán a las personas que sean propietarias o legítimas poseedoras de vehículos con una antigüedad mínima de treinta años, contados a partir de su fecha de fabricación, que sus partes y componentes mecánicos y de carrocería conserven sus características de originalidad y de operación, así como contar con una certificación de sus condiciones físico mecánicas expedida por las instituciones u organismos reconocidos por la Secretaría de Finanzas, Inversión y Administración.
 
-### Capítulo III. Estacionamientos Públicos
+### Capítulo II. Seguridad Vial y Peatonal
 
-Finalidad del estacionamiento
+Seguridad y educación vial
 
 ###### Artículo 81.
 
@@ -1217,9 +1313,9 @@ Los vehículos para uso de personas con discapacidad que circulen por las vías 
 
 Los vehículos adscritos a los cuerpos de seguridad pública y los destinados a la prestación de servicios de asistencia social, deberán identificarse con las características que determine el reglamento respectivo.
 
-### Capítulo IV. Sistema Estatal de Ciclovías
+### Capítulo III. Estacionamientos Públicos
 
-Integración del Sistema Estatal de Ciclovías
+Finalidad del estacionamiento
 
 ###### Artículo 84.
 
@@ -1247,19 +1343,23 @@ Los señalamientos viales en la entidad, deberán ajustarse a las especificacion
 
 ## TÍTULO CUARTO. SEGURIDAD VIAL Y PEATONAL
 
+### Capítulo IV. Sistema Estatal de Ciclovías
+
+Integración del Sistema Estatal de Ciclovías
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ### Capítulo I. Licencias y Permisos para Conducir
 
 Obligación de portar la licencia o permiso
+
+## TÍTULO QUINTO. LICENCIAS Y PERMISOS PARA CONDUCIR Y REGISTRO ESTATAL
 
 ### Capítulo II. Registro estatal de licencias y de infracciones
 
 Registro Estatal
 
-## TÍTULO QUINTO. LICENCIAS Y PERMISOS PARA CONDUCIR Y REGISTRO ESTATAL
-
-### Capítulo I. Preservación del Medio Ambiente
-
-Cuidado del medio ambiente
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 88.
 
@@ -1289,65 +1389,77 @@ XI. Zonas peatonales: Son las que sirven exclusivamente para el tránsito de pea
 
 XII. Paso Peatonal: Son áreas claramente delimitadas y reservadas exclusivamente para el tránsito de peatones.
 
-El Instituto y las autoridades Municipales elaborarán sus reglamentos de conformidad con la clasificación contenida en este artículo.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría de Gobierno y las autoridades municipales elaborarán sus reglamentos de conformidad con la clasificación contenida en este artículo.
 
 Límites de velocidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 89.
 
-El Instituto en coordinación con la Policía Estatal de Caminos, serán quienes fijen los límites máximos y mínimos de velocidad para la circulación de los vehículos de motor en las vías públicas de jurisdicción estatal.
+La Secretaría de Gobierno en coordinación con la Policía Estatal de Caminos, serán quienes fijen los límites máximos y mínimos de velocidad para la circulación de los vehículos de motor en las vías públicas de jurisdicción estatal.
 
 En aquellas que correspondan a los municipios, será el Ayuntamiento, por conducto de la autoridad que establezca, el que determine lo procedente.
 
-### Capítulo I. Disposiciones comunes a los servicios Público y Especial de Transporte
+### Capítulo I. Preservación del Medio Ambiente
 
-Servicios público y especial de transporte
+Cuidado del medio ambiente
 
 ###### Artículo 90.
 
 El Ejecutivo del Estado y los municipios promoverán y ejecutarán acciones en materia de seguridad y educación vial para los peatones, conductores, ciclistas, usuarios del servicio público y especial de transporte; y población en general, haciendo uso de los diferentes medios de comunicación, los avances tecnológicos y lo establecido en la fracción I, inciso b), del artículo 5 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Fomento de educación vial
 
 ###### Artículo 91.
 
-El Ejecutivo del Estado, por conducto del Instituto y en coordinación con la Secretaría de Educación y la Secretaría de Innovación, Ciencia y Educación Superior, promoverá en la educación preescolar, primaria, secundaria, nivel medio superior y superior la impartición de cursos y talleres de educación, seguridad y cultura peatonal y vial.
+El Ejecutivo del Estado, por conducto de la unidad administrativa de transporte y en coordinación con la Secretaría de Educación y la Secretaría de Innovación, Ciencia y Educación Superior, promoverá en la educación preescolar, primaria, secundaria, nivel medio superior y superior la impartición de cursos y talleres de educación, seguridad y cultura peatonal y vial.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Investigación y desarrollo tecnológico
 
 ###### Artículo 92.
 
-El Instituto y los municipios podrán incentivar la formación de especialistas, así como la coordinación para la investigación y el desarrollo tecnológico en materia de seguridad peatonal y vial, que permitan prevenir, controlar y abatir la siniestralidad.
+La unidad administrativa de transporte y los municipios podrán incentivar la formación de especialistas, así como la coordinación para la investigación y el desarrollo tecnológico en materia de seguridad peatonal y vial, que permitan prevenir, controlar y abatir la siniestralidad.
 
-### Capítulo II. Servicio Público de Transporte
+### Capítulo I. Disposiciones comunes a los servicios Público y Especial de Transporte
 
-Competencia en la prestación del servicio público
+Servicios público y especial de transporte
 
 ###### Artículo 93.
 
 El servicio de estacionamiento público, prestado por una autoridad o un particular, tiene por finalidad la recepción, guarda y devolución de vehículos motorizados y no motorizados en los lugares debidamente autorizados y en los términos de los reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Regulación de estacionamientos
 
 ###### Artículo 94.
 
-El Instituto y los ayuntamientos en el ámbito de sus competencias y de conformidad con los resultados de los estudios en materia de movilidad que al respecto se realicen, y las disposiciones que para el efecto señale el reglamento respectivo, podrán establecer condiciones, limitantes y en su caso tarifas para el establecimiento y funcionamiento de estacionamientos públicos.
+La unidad administrativa de transporte y los ayuntamientos en el ámbito de sus competencias y de conformidad con los resultados de los estudios en materia de movilidad que al respecto se realicen, y las disposiciones que para el efecto señale el reglamento respectivo, podrán establecer condiciones, limitantes y en su caso tarifas para el establecimiento y funcionamiento de estacionamientos públicos.
 
-### Capítulo III. Servicio Especial de Transporte
+### Capítulo II. Servicio Público de Transporte
 
-Servicio especial de transporte escolar
+Competencia en la prestación del servicio público
 
 ###### Artículo 95.
 
-El Instituto y la autoridad municipal en materia de movilidad deberán promover el uso de la bicicleta como medio de transporte sustentable.
+La Secretaría y la autoridad municipal en materia de movilidad deberán promover el uso de la bicicleta como medio de transporte sustentable.
 
 El Sistema Estatal estará compuesta (sic) de una red de ciclovías en los centros de población y carreteras estatales, debiendo considerar la jerarquía de la movilidad establecida en la presente Ley, así como lo que establezcan los reglamentos correspondientes y los programas estatal y municipales de movilidad.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Proyectos de Ciclovías
 
 ###### Artículo 96.
 
-El Instituto y las autoridades municipales ejecutarán proyectos derivados de los programas de movilidad o estudios técnicos que para tal efecto se realicen y sean congruentes con las necesidades de demanda de los ciclistas actuales y potenciales, características topográficas y climatológicas de las ciudades, así como la conectividad entre las ciclovías que la conforman y la integración con otras modalidades de transporte.
+La Secretaría y las autoridades municipales ejecutarán proyectos derivados de los programas de movilidad o estudios técnicos que para tal efecto se realicen y sean congruentes con las necesidades de demanda de los ciclistas actuales y potenciales, características topográficas y climatológicas de las ciudades, así como la conectividad entre las ciclovías que la conforman y la integración con otras modalidades de transporte.
 
 Obligación de autoridades
 
@@ -1369,19 +1481,21 @@ Las autoridades estatales y municipales, en el ámbito de su competencia, deber�
 
 ## TITULO SEXTO. PRESERVACIÓN DEL MEDIO AMBIENTE
 
-### Capítulo IV. Concesiones
+### Capítulo III. Servicio Especial de Transporte
 
-Explotación de la concesión
+Servicio especial de transporte escolar
 
 ###### Artículo 100.
 
 Toda persona que conduzca un vehículo de motor por las vías públicas dentro del territorio del Estado, deberá portar consigo la licencia o el permiso vigentes que corresponda al tipo de vehículo de que se trate y que haya sido expedida por la autoridad legalmente facultada para ello.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Facultad para expedir licencias y permisos
 
 ###### Artículo 101.
 
-El Instituto expedirá las licencias y permisos para conducir en el Estado, de conformidad a esta Ley y su reglamento.
+La unidad administrativa de transporte expedirá las licencias y permisos para conducir en el Estado, de conformidad a esta Ley y su reglamento.
 
 Donador de órganos y tejidos
 
@@ -1389,13 +1503,17 @@ Donador de órganos y tejidos
 
 La licencia de conducir deberá contener el dato que indique si el titular a cuyo nombre se expide, manifestó o no su voluntad de donar sus órganos y tejidos en caso de fallecimiento.
 
-Al efecto el Instituto celebrará con las dependencias correspondientes, los convenios respectivos.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Al efecto la unidad administrativa de transporte celebrará con las dependencias correspondientes, los convenios respectivos.
 
 Tipos de licencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 103.
 
-Para los efectos señalados en el presente título, el Instituto, expedirá los siguientes tipos de licencia:
+Para los efectos señalados en el presente título, la unidad administrativa de transporte, expedirá los siguientes tipos de licencia:
 
 I. Tipo «A». Que autoriza a su titular a manejar los vehículos clasificados como de transporte particular o mercantil, de pasajeros, que no excedan de diez asientos o de carga cuyo peso no exceda de tres y media toneladas;
 
@@ -1405,7 +1523,9 @@ III. Tipo «C». Que autoriza a su titular a conducir, además de las unidades c
 
 IV. Tipo «D». Que autoriza a su titular a conducir motocicletas, motonetas y otros vehículos similares; este tipo no autoriza a conducir ningún vehículo de los considerados en las fracciones anteriores.
 
-El Instituto podrá incorporar en el Reglamento de la Ley las subclasificaciones que resulten necesarias conforme al interés público, de los tipos de licencia referidas en este artículo.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+En el Reglamento de la Ley se podrán incorporar las subclasificaciones que resulten necesarias conforme al interés público, de los tipos de licencia referidas en este artículo.
 
 Impedimentos para obtener licencias y permisos
 
@@ -1427,11 +1547,13 @@ Los interesados en obtener algún tipo de licencia, deben cumplir con los requis
 
 Las licencias de conducir, se otorgarán solo a personas mayores de edad, lo que se deberá acreditar en los términos que establezca el reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Cursos y exámenes
 
 ###### Artículo 106.
 
-El Instituto dispondrá la impartición de cursos y la aplicación de exámenes psicométricos, teóricos y prácticos necesarios con objeto de corroborar que los interesados cuentan con los conocimientos y habilidades requeridas para el manejo de vehículos de motor. Auxiliándose para ello, en su caso, del equipo o mecanismos tecnológicos que resulten adecuados y de conformidad con lineamientos generales que se expidan para tal fin.
+La unidad administrativa de transporte dispondrá la impartición de cursos y la aplicación de exámenes psicométricos, teóricos y prácticos necesarios con objeto de corroborar que los interesados cuentan con los conocimientos y habilidades requeridas para el manejo de vehículos de motor. Auxiliándose para ello, en su caso, del equipo o mecanismos tecnológicos que resulten adecuados y de conformidad con lineamientos generales que se expidan para tal fin.
 
 Permisos de conducir
 
@@ -1443,13 +1565,15 @@ Este permiso tendrá vigencia hasta en tanto no cumpla la mayoría de edad, auto
 
 El padre, madre o tutor deberá de asumir de manera expresa el consentimiento de hacerse responsable de los daños o perjuicios que pudiera ocasionar el menor en caso de accidente.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Licencias y permisos para personas con discapacidad o con movilidad reducida
 
 ###### Artículo 108.
 
-Las personas con discapacidad o movilidad reducida que el Instituto y las autoridades facultadas para ello, constaten que cuentan con las habilidades y aptitudes necesarias para conducir cualquiera de los vehículos automotores de servicio particular, tendrán derecho a que se les expida la licencia o permiso para conducir correspondiente.
+Las personas con discapacidad o movilidad reducida que la unidad administrativa de transporte y las autoridades facultadas para ello, constaten que cuentan con las habilidades y aptitudes necesarias para conducir cualquiera de los vehículos automotores de servicio particular, tendrán derecho a que se les expida la licencia o permiso para conducir correspondiente.
 
-Las personas con discapacidad o movilidad reducida que sólo pueden manejar un vehículo con características especiales, también tendrán derecho a que se les expida la licencia o permiso para manejar, para lo cual el Instituto y las autoridades facultadas para ello, previamente a su expedición, verificarán que el vehículo para el que se solicita la licencia o permiso, reúne las condiciones, el equipo o las adaptaciones necesarias para su manejo por dichas personas.
+Las personas con discapacidad o movilidad reducida que sólo pueden manejar un vehículo con características especiales, también tendrán derecho a que se les expida la licencia o permiso para manejar, para lo cual la unidad administrativa de transporte y las autoridades facultadas para ello, previamente a su expedición, verificarán que el vehículo para el que se solicita la licencia o permiso, reúne las condiciones, el equipo o las adaptaciones necesarias para su manejo por dichas personas.
 
 Verificación de antecedentes
 
@@ -1469,21 +1593,25 @@ Cancelación de licencias o permisos
 
 Cuando al obtener una licencia o permiso de conducir, el interesado haya proporcionado información o documentación alterada o falsificada, se procederá a cancelar dicha licencia o permiso, una vez comprobada esta circunstancia, sin perjuicio de la responsabilidad penal que pudiera resultar las licencias o permisos cancelados por este supuesto no podrán volverse a otorgar dentro de los siguientes tres años a la cancelación.
 
-El servidor público que otorgue una licencia o permiso de conducir en contravención a lo dispuesto por esta Ley y su reglamento incurrirá en falta grave que será sancionada conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin perjuicio de las responsabilidades civiles o penales que se generen.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+El servidor público que otorgue una licencia o permiso de conducir en contravención a lo dispuesto por esta Ley y su reglamento incurrirá en falta grave que será sancionada conforme a la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, sin perjuicio de las responsabilidades civiles o penales que se generen.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Escuelas de manejo
 
 ###### Artículo 112.
 
-El Instituto podrá celebrar convenios con personas físicas o jurídico colectivas, así como entidades públicas y privadas que cumplan con las características legales, técnicas y administrativas para reconocerlos en la impartición de cursos de manejo a conductores de vehículos particulares con el objeto, en su caso, de establecer acciones coordinadas respecto de las pruebas o exámenes que deben realizarse para la obtención de la licencia o permiso de conducir conforme a lo establecido en esta Ley y su reglamento.
+La Secretaría de Gobierno podrá celebrar convenios con personas físicas o jurídico colectivas, así como con entidades públicas y privadas que cumplan con las características legales, técnicas y administrativas, para reconocerlos en la impartición de cursos de manejo a conductores de vehículos particulares con el objeto, en su caso, de establecer acciones coordinadas respecto de las pruebas o exámenes que deben realizarse para la obtención de la licencia o permiso de conducir conforme a lo establecido en esta Ley y su reglamento.
 
-### Capítulo V. Permisos
+### Capítulo IV. Concesiones
 
-Clasificación de los permisos
+Explotación de la concesión
 
 ###### Artículo 113.
 
-El Instituto creará y administrará el registro estatal de licencias y de infracciones, el cual deberá ser permanentemente actualizado con los datos que genere el propio Instituto y los que le sean proporcionados por los municipios de la entidad.
+La Secretaría de Gobierno a través de la unidad administrativa de transporte creará y administrará el registro estatal de licencias y de infracciones, el cual deberá ser permanentemente actualizado con los datos que genere la propia unidad y los que le sean proporcionados por los municipios de la entidad.
 
 Este registro contendrá como mínimo:
 
@@ -1497,13 +1625,15 @@ IV. La información estadística y en materia de seguridad vial, que permita gen
 
 Las autoridades municipales en materia de tránsito, así como las de salud pública, deben remitir diariamente la información que generen en materia de accidentes e infracciones que permitan integrar el registro estatal correspondiente.
 
-El Instituto y la unidad administrativa equivalente en cada municipio deben crear en conjunto una red informática intermunicipal que permita la consulta oportuna y el flujo de información a las autoridades estatales y municipales.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La unidad administrativa de transporte y la unidad administrativa equivalente en cada municipio, deben crear en conjunto una red informática intermunicipal que permita la consulta oportuna y el flujo de información a las autoridades estatales y municipales.
 
 ## TÍTULO SÉPTIMO. SERVICIOS PÚBLICO Y ESPECIAL DE TRANSPORTE
 
-### Capítulo VI. Servicios Conexos del Transporte
+### Capítulo V. Permisos
 
-Definición
+Clasificación de los permisos
 
 ###### Artículo 114.
 
@@ -1547,9 +1677,9 @@ La autoridad estatal y municipal con base a la Ley de Cambio Climático para el 
 
 ## TÍTULO OCTAVO. REGISTRO ESTATAL DE CONCESIONES Y PERMISOS DEL TRANSPORTE
 
-### Capítulo VII. Tarifas
+### Capítulo VI. Servicios Conexos del Transporte
 
-Facultad de fijar la tarifa
+Definición
 
 ###### Artículo 121.
 
@@ -1557,7 +1687,9 @@ Para los efectos de esta Ley, se considera como:
 
 I. Servicio público de transporte: aquel que se lleva a cabo de manera continua, uniforme, regular y permanente en las vías públicas del Estado y de los municipios, para satisfacer una necesidad colectiva mediante la utilización de vehículos idóneos para cada tipo de servicio y en el cual los usuarios, como contraprestación, realizan un pago en moneda de curso legal, de acuerdo con la tarifa previamente aprobada por la autoridad correspondiente. La prestación del servicio público de transporte es de interés público y requiere de autorización otorgada por el Estado o por los ayuntamientos en el ámbito de su competencia en términos de esta Ley; y
 
-II. Servicio especial de transporte: aquel que sin tener las características propias del servicio público de transporte, se presta para satisfacer una necesidad específica de determinado sector de la población el cual puede ser gratuito o remunerado. Para la prestación de dicho servicio se requiere del permiso otorgado por el Instituto.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. Servicio especial de transporte: aquel que sin tener las características propias del servicio público de transporte, se presta para satisfacer una necesidad específica de determinado sector de la población, el cual puede ser gratuito o remunerado. Para la prestación de dicho servicio se requiere del permiso otorgado por la Secretaría de Gobierno.
 
 En ambos casos, los vehículos en los que se preste el servicio de transporte de que se trate incluirá el servicio del operador, que podrá ser el concesionario, el permisionario o quien se contrate para su operación.
 
@@ -1613,17 +1745,21 @@ VII. Funerario.
 
 Queda prohibido a los prestadores u operadores ofrecer servicio de forma libre y directa en la vía pública.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Facultad de celebrar convenios
 
 ###### Artículo 124.
 
-Para eficientar la prestación de los servicios público y especial de transporte en sus distintas modalidades y que los mismos se lleven a cabo en condiciones óptimas para beneficio de la colectividad, el Instituto y los ayuntamientos, en la esfera de su competencia, podrán celebrar los convenios que se requieran al efecto, entre sí y con los sectores social y privado.
+Para eficientar la prestación de los servicios público y especial de transporte en sus distintas modalidades y que los mismos se lleven a cabo en condiciones óptimas para beneficio de la colectividad, la unidad administrativa de transporte y los ayuntamientos, en la esfera de su competencia, podrán celebrar los convenios que se requieran al efecto, entre sí y con los sectores social y privado.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Autorización de servicio complementario
 
 ###### Artículo 125.
 
-Los concesionarios y permisionarios del transporte público sujetos a una jurisdicción distinta de la estatal que circulen por las vías públicas del Estado, para prestar los servicios público y especial de transporte, requerirán la autorización de servicio complementario expedida por el Instituto o la autoridad de transporte municipal, según sea el caso.
+Los concesionarios y permisionarios del transporte público sujetos a una jurisdicción distinta de la estatal que circulen por las vías públicas del Estado, para prestar los servicios público y especial de transporte, requerirán la autorización de servicio complementario expedida por la unidad administrativa de transporte o la autoridad de transporte municipal, según sea el caso.
 
 Capacidad de los vehículos
 
@@ -1661,21 +1797,27 @@ Para efectos de la antigüedad, esta se computará conforme al año de fabricaci
 
 La prórroga de la unidad, se otorgará únicamente a los vehículos que ya están dados de alta en el servicio, siempre y cuando aprueben la revista físico mecánica y la verificación vehicular en materia ambiental de conformidad con lo que al respecto establezca la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Renovación de parque vehicular
 
 ###### Artículo 128.
 
-El Ejecutivo del Estado a través del Instituto, y los ayuntamientos, independientemente de los años de vida útil de los vehículos, podrán implementar, mediante disposiciones de carácter general, los programas y campañas de renovación del parque vehicular de los servicios público y especial de transporte atendiendo al orden público, la eficiencia y calidad de los mismos, así como el uso de la tecnología sustentable. Dichas disposiciones deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+El Ejecutivo del Estado a través de la unidad administrativa de transporte, y los ayuntamientos, independientemente de los años de vida útil de los vehículos, podrán implementar, mediante disposiciones de carácter general, los programas y campañas de renovación del parque vehicular de los servicios público y especial de transporte atendiendo al orden público, la eficiencia y calidad de los mismos, así como el uso de la tecnología sustentable. Dichas disposiciones deberán publicarse en el Periódico Oficial del Gobierno del Estado.
 
 Organización de los concesionarios y permisionarios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 129.
 
-Cuando los concesionarios y permisionarios del servicio público y especial de transporte pretendan organizarse con el propósito de realizar acciones encaminadas a eficientar, identificar y optimizar su prestación, presentarán su propuesta en los términos que establezcan los reglamentos respectivos para su evaluación por el Instituto o la autoridad municipal competente, según corresponda.
+Cuando los concesionarios y permisionarios del servicio público y especial de transporte pretendan organizarse con el propósito de realizar acciones encaminadas a eficientar, identificar y optimizar su prestación, presentarán su propuesta en los términos que establezcan los reglamentos respectivos para su evaluación por la unidad administrativa de transporte o la autoridad municipal competente, según corresponda.
 
 Cuando los concesionarios y permisionarios se constituyan en cualquiera de las formas permitidas por la legislación aplicable, podrán ser registrados como organizaciones de transportistas ante la autoridad competente.
 
-Todo trámite que realicen las sociedades o asociaciones ante las autoridades estatales, deberá ser efectuado por representante legítimo con facultades suficientes que consten en instrumento público en los términos de la legislación aplicable, debiendo además estar inscrito en el Registro Estatal de Concesiones y Permisos del Transporte del Instituto.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Todo trámite que realicen las sociedades o asociaciones ante las autoridades estatales, deberá ser efectuado por representante legítimo con facultades suficientes que consten en instrumento público en los términos de la legislación aplicable, debiendo además estar inscrito en el Registro Estatal de Concesiones y Permisos del Transporte de la unidad administrativa de transporte.
 
 Enlace y fusión de vehículos
 
@@ -1709,7 +1851,9 @@ La prestación de los servicios público y especial de transporte obliga a su ti
 
 Bajo ninguna circunstancia podrá un vehículo de servicio concesionado o permisionado transitar ni realizar el servicio si carece de seguro que ampare las condiciones señaladas en el párrafo anterior.
 
-El concesionario o permisionario podrá cumplir con esta disposición mediante un contrato de seguro, cuya póliza sea emitida por institución reconocida por la autoridad federal reguladora en materia de seguros y fianzas o bien mediante fideicomiso o constitución de un fondo de garantía, autorizado por el Instituto o la autoridad municipal competente, en los términos que establezca el reglamento que derive de la presente Ley.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+El concesionario o permisionario podrá cumplir con esta disposición mediante un contrato de seguro, cuya póliza sea emitida por institución reconocida por la autoridad federal reguladora en materia de seguros y fianzas, o bien mediante fideicomiso o constitución de un fondo de garantía, autorizado por la unidad administrativa de transporte o la autoridad municipal competente, en los términos que establezca el reglamento que derive de la presente Ley.
 
 Operadores del servicio público y especial de transporte
 
@@ -1719,7 +1863,9 @@ El otorgamiento de las concesiones y permisos obliga a sus titulares a la presta
 
 Cuando el concesionario o permisionario no preste de manera directa el servicio público o especial de transporte de que se trate, deberá contar con conductores que porten la licencia para conducir tipo «B».
 
-En todos los casos, los operadores deberán haber aprobado los cursos y programas de capacitación permanente que impartirá el Instituto o el ente reconocido por este, en los términos del reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+En todos los casos, los operadores deberán haber aprobado los cursos y programas de capacitación permanente que impartirá la unidad administrativa de transporte o el ente reconocido por éste, en los términos del reglamento de la presente Ley.
 
 Identificación de los vehículos
 
@@ -1747,9 +1893,11 @@ Representación de concesionarios y permisionarios
 
 Los concesionarios y permisionarios del servicio público y especial del transporte y sus servicios conexos podrán ser representados mediante poder otorgado en escritura pública en el que conste la facultad para actos de administración, mismo que deberá estar inscrito en el Registro Estatal de Concesiones y Permisos del Transporte o ante la autoridad municipal según corresponda.
 
-### Capítulo VIII. Obligaciones de los Concesionarios y Permisionarios y Prohibiciones de los Operadores
+### Capítulo VII. Tarifas
 
-Obligaciones
+Facultad de fijar la tarifa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 139.
 
@@ -1831,11 +1979,13 @@ Servicio intermunicipal ferroviario
 
 El servicio público de transporte intermunicipal ferroviario es el que se presta por las vías férreas de competencia estatal y con las características para su prestación con seguridad, eficiencia, rapidez y funcionalidad de acuerdo con lo dispuesto en la presente Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Características de operación del servicio intermunicipal
 
 ###### Artículo 149.
 
-El Instituto establecerá las características de operación del servicio público de transporte intermunicipal que conformen el itinerario de servicio, como ruta, derrotero, horarios, frecuencias, tarifas, terminales y lugares de ascenso y descenso, entre otras, de conformidad con lo que al respecto establezca el reglamento de la Ley.
+La unidad administrativa de transporte establecerá las características de operación del servicio público de transporte intermunicipal que conformen el itinerario de servicio, como ruta, derrotero, horarios, frecuencias, tarifas, terminales y lugares de ascenso y descenso, entre otras, de conformidad con lo que al respecto establezca el reglamento de la Ley.
 
 Servicio público de transporte turístico
 
@@ -1891,7 +2041,9 @@ Servicio público de transporte de carga con grúa
 
 El servicio público de transporte de carga con grúa es el que tiene por finalidad transportar cualquier vehículo en unidades que reúnan las clases, tipos y características que al respecto establezca el reglamento de la Ley.
 
-Los vehículos autorizados para prestar el servicio de grúa podrán realizar además maniobras de salvamento, si las características de la unidad autorizada lo permiten y conforme a las disposiciones establecidas en el reglamento de la Ley, en la autorización que para el efecto se emita, así como en aquellas que determine el Instituto.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Los vehículos autorizados para prestar el servicio de grúa podrán realizar además maniobras de salvamento, si las características de la unidad autorizada lo permiten y conforme a las disposiciones establecidas en el reglamento de la Ley, en la autorización que para el efecto se emita, así como en aquellas que determine la unidad administrativa de transporte.
 
 Introducción de submodalidades por causa de interés público
 
@@ -1921,11 +2073,13 @@ Intervención del servicio
 
 El Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, están facultados para intervenir el servicio público de transporte concesionado, siempre que se interrumpa o afecte la prestación eficiente y continúa del mismo, independientemente de que las causas puedan ser imputables o no a las autoridades. La intervención durará únicamente el tiempo en que subsista la causa que le dio origen.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Características de operación
 
 ###### Artículo 162.
 
-El Instituto y las autoridades municipales competentes podrán en todo momento establecer, variar o modificar las características de operación en la prestación del servicio según lo demanden las necesidades del mismo y el interés público.
+La unidad administrativa de transporte y las autoridades municipales competentes podrán en todo momento establecer, variar o modificar las características de operación en la prestación del servicio según lo demanden las necesidades del mismo y el interés público.
 
 Modificación de ruta
 
@@ -1947,19 +2101,27 @@ Zonas conurbadas y metropolitanas
 
 En caso de que dos o más poblaciones integren una sola mancha urbana o formen parte de una conurbación, el servicio entre ellas se considerará como intermunicipal de conformidad con el artículo 145 de esta Ley.
 
-Cuando se requiera para la mejor operación del servicio en las zonas conurbadas, el Instituto podrá emitir la autorización, acuerdo, acciones administrativas o disposiciones de carácter general, que permitan su establecimiento como servicio de transporte intermunicipal, en el cual para el establecimiento de nuevas rutas, ampliaciones, modificaciones, lugares de ascenso y descenso, itinerarios, horarios y demás características de operación que impliquen la intervención de los municipios conurbados, los interesados que pretendan establecer dicho servicio deberán solicitar la validación de los ayuntamientos involucrados, así como la aprobación por parte del Instituto, previa presentación de los datos técnicos correspondientes.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-Cuando exista la necesidad para interconectar los servicios de transporte de varias modalidades en zonas declaradas como metropolitanas dentro del territorio del Estado, el Instituto en coordinación con las autoridades municipales respectivas establecerá las características, acciones técnicas y mecanismos de regulación que habrán de ejecutarse para la prestación del servicio de transporte en dichas zonas, así como para todas aquellas acciones enfocadas a la movilidad de las mismas.
+Cuando se requiera para la mejor operación del servicio en las zonas conurbadas, la unidad administrativa de transporte podrá emitir la autorización, acuerdo, acciones administrativas o disposiciones de carácter general, que permitan su establecimiento como servicio de transporte intermunicipal, en el cual para el establecimiento de nuevas rutas, ampliaciones, modificaciones, lugares de ascenso y descenso, itinerarios, horarios y demás características de operación que impliquen la intervención de los municipios conurbados, los interesados que pretendan establecer dicho servicio deberán solicitar la validación de los ayuntamientos involucrados, así como la aprobación por parte de la unidad administrativa de transporte, previa presentación de los datos técnicos correspondientes.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando exista la necesidad para interconectar los servicios de transporte de varias modalidades en zonas declaradas como metropolitanas dentro del territorio del Estado, la unidad administrativa de transporte en coordinación con las autoridades municipales respectivas establecerá las características, acciones técnicas y mecanismos de regulación que habrán de ejecutarse para la prestación del servicio de transporte en dichas zonas, así como para todas aquellas acciones enfocadas a la movilidad de las mismas.
 
 Lo anterior independientemente de las acciones que corresponda realizar a las autoridades municipales involucradas, mismas que deben ser acordes a las políticas estatales establecidas para las zonas metropolitanas, a los acuerdos que al respecto se celebren con las diversas autoridades estatales y federales, siempre en beneficio del interés público.
 
-Para la mejor operación del servicio en las zonas conurbadas, los municipios involucrados podrán establecer previo convenio con el Instituto, la estructura administrativa, organismos, o acuerdos convenientes para la regulación de la prestación del mismo.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-En caso de controversia entre municipios, el Instituto podrá actuar como instancia conciliadora en términos de la fracción XX del artículo 25 de esta Ley. En caso de no lograr un acuerdo o mecanismos de regulación entre las autoridades municipales involucradas, o bien en caso de incumplimiento a los acuerdos que al respecto se hayan celebrado, el Estado a través del Instituto, se hará cargo de la regulación del servicio conforme a lo establecido en este artículo.
+Para la mejor operación del servicio en las zonas conurbadas, los municipios involucrados podrán establecer previo convenio con la unidad administrativa de transporte, la estructura administrativa, organismos, o acuerdos convenientes para la regulación de la prestación del mismo.
 
-### Capítulo IX. Medicina del Transporte
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-Medicina del Transporte
+En caso de controversia entre municipios, la unidad administrativa de transporte podrá actuar como instancia conciliadora en términos de la fracción VI bis del artículo 17 de esta Ley. En caso de no lograr un acuerdo o mecanismos de regulación entre las autoridades municipales involucradas, o bien en caso de incumplimiento a los acuerdos que al respecto se hayan celebrado, el Estado a través de la unidad administrativa de transporte, se hará cargo de la regulación del servicio conforme a lo establecido en este artículo.
+
+### Capítulo VIII. Obligaciones de los Concesionarios y Permisionarios y Prohibiciones de los Operadores
+
+Obligaciones
 
 ###### Artículo 166.
 
@@ -1985,9 +2147,11 @@ Queda prohibido a los prestadores del servicio de transporte especial ejecutivo 
 
 Número de permisos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 170.
 
-En el otorgamiento de permisos el Instituto evitará prácticas monopólicas, para el caso específico del servicio especial de transporte ejecutivo, cada persona física tendrá derecho a ser titular de un permiso y las personas jurídico colectivas de hasta diez.
+En el otorgamiento de permisos la unidad administrativa de transporte evitará prácticas monopólicas, para el caso específico del servicio especial de transporte ejecutivo, cada persona física tendrá derecho a ser titular de un permiso y las personas jurídico colectivas de hasta diez.
 
 El número de vehículos que ampara el permiso que se otorgue a una persona física o jurídica colectiva, será sólo un vehículo.
 
@@ -1997,11 +2161,13 @@ Cobertura del servicio
 
 El servicio especial ejecutivo podrá prestarse en todas las vías públicas del Estado, sin importar el punto de origen o de destino, debiendo contar el permisionario con un lugar sede, como principal asiento de la prestación del servicio, en cualquiera de los municipios de la entidad.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Obligación de presentar información
 
 ###### Artículo 172.
 
-El otorgamiento del permiso para el servicio especial de transporte ejecutivo obliga a su permisionario a presentar en todo momento al Instituto la información técnica que le sea requerida respecto del servicio brindado, la empresa operadora de la aplicación tecnológica que tenga implementada para tal efecto, la cual deberá presentar en el formato, mecanismo o medio de acceso que para tal efecto le sea especificado por el Instituto.
+El otorgamiento del permiso para el servicio especial de transporte ejecutivo obliga a su permisionario a presentar en todo momento a la unidad administrativa de transporte la información técnica que le sea requerida respecto del servicio brindado, la empresa operadora de la aplicación tecnológica que tenga implementada para tal efecto, la cual deberá presentar en el formato, mecanismo o medio de acceso que para tal efecto le sea especificado por la unidad administrativa de transporte.
 
 Suspensión del permiso
 
@@ -2021,7 +2187,9 @@ Servicio especial de transporte comercial
 
 El servicio especial de transporte comercial es aquel transporte de carga que se presta en unidades especializadas que requieren de condiciones, equipos, adecuaciones o medios para aislar, resguardar, conservar y proteger la carga, así como para evitar cualquier riesgo a terceros.
 
-Cuando por condiciones de seguridad, orden público, interés social, o regulación específica, sea necesario establecer restricciones o condiciones de operación en las unidades de carga especializada que reúnan las características establecidas en el párrafo anterior, el Ejecutivo del Estado o el Instituto determinarán y establecerán las acciones, procedimientos, requisitos y características para la regulación de dichas unidades en términos de la presente Ley, su reglamento o las disposiciones de carácter general que para el efecto emitan.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando por condiciones de seguridad, orden público, interés social, o regulación específica, sea necesario establecer restricciones o condiciones de operación en las unidades de carga especializada que reúnan las características establecidas en el párrafo anterior, el Ejecutivo del Estado o la unidad administrativa de transporte determinarán y establecerán las acciones, procedimientos, requisitos y características para la regulación de dichas unidades en términos de la presente Ley, su reglamento o las disposiciones de carácter general que para el efecto emitan.
 
 Servicio especial de transporte de emergencia
 
@@ -2029,7 +2197,9 @@ Servicio especial de transporte de emergencia
 
 El servicio especial de transporte de emergencia es aquel que se presta en vehículos equipados especialmente para el traslado de personas que hayan sufrido afectación en su salud, así como para atender emergencias, catástrofes, desastres y riesgos naturales con la finalidad de salvaguardar la vida de las personas, sus bienes y el entorno; tales como bomberos, protección civil, seguridad ciudadana, mecánica de emergencia, rescate, primeros auxilios, emergencias médicas y demás que se determinen en el reglamento de la Ley.
 
-Los prestadores del servicio especial de transporte de emergencia deberán registrar los vehículos afectos al mismo ante el Instituto y deberán acreditar semestralmente que los mismos cumplen con las condiciones físico-mecánicas adecuadas para su prestación.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Los prestadores del servicio especial de transporte de emergencia deberán registrar los vehículos afectos al mismo ante la unidad administrativa de transporte y deberán acreditar semestralmente que los mismos cumplen con las condiciones físico-mecánicas adecuadas para su prestación.
 
 Servicio especial de transporte funerario
 
@@ -2037,7 +2207,9 @@ Servicio especial de transporte funerario
 
 El servicio especial de transporte funerario es aquel mediante el cual se efectúa el traslado de cadáveres y restos humanos para su inhumación o cremación.
 
-Los prestadores del servicio especial de transporte funerario deberán registrar los vehículos afectos al mismo ante el Instituto y deberán acreditar semestralmente que los mismos cumplen con las condiciones físico-mecánicas adecuadas para su prestación.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Los prestadores del servicio especial de transporte funerario deberán registrar los vehículos afectos al mismo ante la unidad administrativa de transporte y deberán acreditar semestralmente que los mismos cumplen con las condiciones físico-mecánicas adecuadas para su prestación.
 
 Optimización de vehículos
 
@@ -2045,9 +2217,11 @@ Optimización de vehículos
 
 Los vehículos destinados a la prestación del servicio especial de transporte, podrán utilizarse para realizar otros servicios especiales de transporte, a excepción del servicio especial de transporte ejecutivo, mediante la emisión de los permisos correspondientes, de conformidad con lo que establezca el reglamento de la Ley.
 
-### Capítulo X. Inspección
+### Capítulo IX. Medicina del Transporte
 
-Inspección y consecuencias
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Medicina del Transporte
 
 ###### Artículo 179.
 
@@ -2115,11 +2289,15 @@ d) Evaluación económica que considere los beneficios, así como los costos de 
 
 e) Conclusiones y propuestas.
 
-II. Con base en los estudios que se lleven a cabo según lo señalado en la fracción anterior, el Instituto o el ayuntamiento por conducto del presidente municipal, de ser procedente, emitirán la declaratoria de necesidad pública de transporte, que deberá ser publicada en el Periódico Oficial del Gobierno del Estado, por dos veces consecutivas y por una ocasión en algún periódico que circule en el municipio donde se requiera el servicio;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. Con base en los estudios que se lleven a cabo según lo señalado en la fracción anterior, la unidad administrativa de transporte o el ayuntamiento por conducto del presidente municipal, de ser procedente, emitirán la declaratoria de necesidad pública de transporte, que deberá ser publicada en el Periódico Oficial del Gobierno del Estado, por dos veces consecutivas y por una ocasión en algún periódico que circule en el municipio donde se requiera el servicio;
 
 III. Emitida la declaratoria de necesidad pública de transporte, el Secretario de Gobierno o el presidente municipal, hará la publicación de la convocatoria pública en los mismos términos de la fracción anterior, precisando el tipo de servicio, las modalidades y el número de concesiones a otorgar, a fin de que los interesados en concursar, dentro del término previsto, presenten sus respectivas propuestas, así como la documentación legal y administrativa que se requiera, de conformidad con los reglamentos y las bases correspondientes;
 
-IV. Recibidas las propuestas, cubiertos los requisitos y hechos los depósitos que se fijen para garantizar que los trámites se llevarán hasta su terminación, el Instituto y los ayuntamientos, en el ámbito de su competencia, procederán a dictaminar sobre la mayor capacidad legal, técnica, material y financiera para la prestación del servicio. En el caso de los municipios, esta facultad podrá ser delegada a la dependencia, comisión técnica o entidad competente que el ayuntamiento determine.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Recibidas las propuestas, cubiertos los requisitos y hechos los depósitos que se fijen para garantizar que los trámites se llevarán hasta su terminación, la unidad administrativa de transporte y los ayuntamientos, en el ámbito de su competencia, procederán a dictaminar sobre la mayor capacidad legal, técnica, material y financiera para la prestación del servicio. En el caso de los municipios, esta facultad podrá ser delegada a la dependencia, comisión técnica o entidad competente que el ayuntamiento determine.
 
 El dictamen emitido será puesto a consideración del Secretario de Gobierno o del ayuntamiento para su resolución;
 
@@ -2155,7 +2333,9 @@ Plazo para registrar el vehículo
 
 Notificada la resolución de otorgamiento o transmisión de la concesión, el concesionario tendrá un plazo de treinta días hábiles para registrar el vehículo que destinará a la prestación del servicio ante la autoridad competente, el cual deberá contar con las características señaladas en esta Ley, el reglamento correspondiente y demás disposiciones aplicables. El incumplimiento de dicha obligación dará lugar a la revocación de la concesión.
 
-No estará sujeto al plazo señalado en el párrafo anterior, el registro de vehículos destinados a la prestación del servicio público de transporte intermunicipal de autotransporte y ferroviario o cuando se trate de sistemas de transporte en zonas conurbadas o metropolitanas, en el que será el Ejecutivo del Estado a través del Instituto quien determine lo conducente.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+No estará sujeto al plazo señalado en el párrafo anterior, el registro de vehículos destinados a la prestación del servicio público de transporte intermunicipal de autotransporte y ferroviario o cuando se trate de sistemas de transporte en zonas conurbadas o metropolitanas, en el que será el Ejecutivo del Estado a través de la unidad administrativa de transporte quien determine lo conducente.
 
 Vehículos para inicio de la prestación del servicio
 
@@ -2171,15 +2351,19 @@ Duración de la concesión
 
 Las concesiones que se otorguen para la prestación del servicio público de transporte tendrán una duración de quince años y podrán prorrogarse por otro periodo igual a solicitud del concesionario siempre y cuando acredite que conserva las capacidades legal, técnica, material y financiera en los términos que establezcan los reglamentos correspondientes.
 
-El Instituto y los municipios en el ámbito de sus respectivas competencias realizarán las evaluaciones técnicas del servicio en los términos que se establezcan en el reglamento respectivo.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La unidad administrativa de transporte y los municipios en el ámbito de sus respectivas competencias realizarán las evaluaciones técnicas del servicio en los términos que se establezcan en el reglamento respectivo.
 
 Con independencia de lo anterior, los concesionarios deberán efectuar el refrendo de la concesión a través del pago anual que realizarán ante la autoridad fiscal correspondiente, en los términos de la ley de ingresos respectiva.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Registro de empresas de concesionarios
 
 ###### Artículo 191.
 
-El Instituto o la autoridad municipal que corresponda podrán registrar las empresas acreditadas para prestar el servicio público de transporte que tengan por objeto mejorar la eficiencia y la calidad en la prestación del servicio, en los términos que se establezcan en los reglamentos respectivos.
+La unidad administrativa de transporte o la autoridad municipal que corresponda podrán registrar las empresas acreditadas para prestar el servicio público de transporte que tengan por objeto mejorar la eficiencia y la calidad en la prestación del servicio, en los términos que se establezcan en los reglamentos respectivos.
 
 Limitante para el concesionario
 
@@ -2259,7 +2443,9 @@ XV. Por el incumplimiento de la obligación establecida en la fracción VI del a
 
 XVI. Por no obtener calificación óptima en las evaluaciones técnicas que practique la autoridad competente;
 
-XVII. Por cualquier otra causa grave a juicio del Instituto o de la autoridad municipal correspondiente, que afecte la eficiencia, continuidad, regularidad y uniformidad requeridos en la prestación del servicio y las condiciones de las concesiones; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Por cualquier otra causa grave a juicio de la unidad administrativa de transporte o de la autoridad municipal correspondiente, que afecte la eficiencia, continuidad, regularidad y uniformidad requeridos en la prestación del servicio y las condiciones de las concesiones; y
 
 XVIII. Las demás que se establezcan en la presente Ley, el reglamento que de ella derive y el título concesión.
 
@@ -2317,9 +2503,9 @@ VI. Por el rescate de la concesión; y
 
 VII. Por renuncia expresa y por escrito del titular de la concesión.
 
-### Capítulo XI. Infraestructura del Servicio Público de Transporte
+### Capítulo X. Inspección
 
-Competencia del Instituto
+Inspección y consecuencias
 
 ###### Artículo 201.
 
@@ -2337,11 +2523,13 @@ V. Permiso de servicio especial de transporte; y
 
 VI. Permiso de depósito de vehículos.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Expedición de permisos
 
 ###### Artículo 202.
 
-El Instituto o la autoridad de transporte municipal en el ámbito de sus competencias, expedirán los permisos en términos de lo dispuesto por esta Ley y de los reglamentos respectivos.
+La unidad administrativa de transporte o la autoridad de transporte municipal en el ámbito de sus competencias, expedirán los permisos en términos de lo dispuesto por esta Ley y de los reglamentos respectivos.
 
 Impedimentos para ser permisionario
 
@@ -2363,11 +2551,15 @@ La obtención de los permisos de transporte público para las modalidades de tur
 
 I. El interesado presentará una propuesta que contenga las características técnicas de operación, de los vehículos, de demanda, del servicio y las demás condiciones que se establezcan en el reglamento de la Ley;
 
-II. El Instituto determinará lo procedente respecto a la emisión del permiso con base en los datos técnicos de la propuesta presentada y en el cumplimiento de requisitos que para el efecto se establezcan en el reglamento de esta Ley; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. La unidad administrativa de transporte determinará lo procedente respecto a la emisión del permiso con base en los datos técnicos de la propuesta presentada y en el cumplimiento de requisitos que para el efecto se establezcan en el reglamento de esta Ley; y
 
 III. En caso de ser procedente la emisión del permiso, el solicitante cubrirá los derechos que por tal concepto establezca la ley de ingresos correspondiente, así como cualquier otro derecho que fijen los ordenamientos legales aplicables.
 
-Cuando en un zona determinada, o respecto de la prestación de alguno de los servicios señalados en el presente artículo, se presenten circunstancias técnicas como exceso en la concentración de servicios, requerimiento de acreditación de demanda, servicios organizados para su prestación, o cualquier otro elemento que requiera ser analizado para la determinación en la emisión del permiso, el Instituto ordenará la integración de un estudio técnico que reúna los datos necesarios para resolver sobre la necesidad o no en el establecimiento de nuevos servicios. Lo anterior a efecto de generar una efectiva regulación en el establecimiento de los mismos evitando impactos negativos en el usuario y las vías de comunicación, siempre atendiendo al orden público e interés social.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando en un zona determinada, o respecto de la prestación de alguno de los servicios señalados en el presente artículo, se presenten circunstancias técnicas como exceso en la concentración de servicios, requerimiento de acreditación de demanda, servicios organizados para su prestación, o cualquier otro elemento que requiera ser analizado para la determinación en la emisión del permiso, la unidad administrativa de transporte ordenará la integración de un estudio técnico que reúna los datos necesarios para resolver sobre la necesidad o no en el establecimiento de nuevos servicios. Lo anterior a efecto de generar una efectiva regulación en el establecimiento de los mismos evitando impactos negativos en el usuario y las vías de comunicación, siempre atendiendo al orden público e interés social.
 
 Vigencia de los permisos de transporte público
 
@@ -2411,11 +2603,13 @@ El procedimiento para obtener el permiso del servicio especial de transporte eje
 
 I. El interesado en la prestación del servicio presentará una propuesta que contenga las características de operación del mismo, cantidad y características técnicas de los vehículos, de organización, la información relativa a la o las plataformas tecnológicas en las cuales se establecerá el mecanismo de contratación y gestión del servicio de conformidad con las características que se establezcan en el reglamento de la Ley;
 
-II. El Instituto determinará sobre la necesidad del servicio, mediante elestudio (sic) técnico que se efectúe con base en los datos de que disponga;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. La unidad administrativa de transporte determinará sobre la necesidad del servicio, mediante el estudio técnico que se efectúe con base en los datos de que disponga; y
 
 III. En caso de ser procedente la emisión del permiso, el solicitante cubrirá los derechos fiscales correspondientes, así como los requisitos siguientes:
 
-a) Licencia tipo “B”; y
+a) Licencia tipo "B"; y
 
 b) Vehículo tipo sedán o superior, con cuatro o cinco puertas.
 
@@ -2423,7 +2617,9 @@ El vehículo en el que se prestara el servicio especial de transporte ejecutivo,
 
 Los anteriores requisitos se cubrirán de conformidad con el reglamento de la presente Ley.
 
-Dichos permisos se expedirán hasta por cuatro años, pudiendo ser renovados de conformidad con la necesidad y el resultado de la evaluación del servicio en los términos que establezca esta Ley y su reglamento. El Instituto emitirá los permisos individualizados para cada unidad de conformidad con lo señalado en el reglamento de la Ley.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Dichos permisos se expedirán hasta por cuatro años, pudiendo ser renovados de conformidad con la necesidad y el resultado de la evaluación del servicio en los términos que establezca esta Ley y su reglamento. La unidad administrativa de transporte emitirá los permisos individualizados para cada unidad de conformidad con lo señalado en el reglamento de la Ley.
 
 El procedimiento para obtener el permiso para las demás modalidades del servicio especial de transporte, se establecerá en el reglamento de la Ley.
 
@@ -2441,13 +2637,17 @@ Obligaciones de los permisionarios
 
 Los permisionarios están obligados a cumplir todas y cada una de las condiciones especificadas en el permiso, así como las disposiciones que establezca esta Ley y los reglamentos respectivos o las que determinen las autoridades de movilidad y de transporte correspondientes, para cada tipo y modalidad de servicio, en la inteligencia de que su incumplimiento podrá dar motivo a la cancelación de los mismos.
 
+### Capítulo XI. Infraestructura del Servicio Público de Transporte
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Infraestructura
+
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Objeto del registro
-
-### Capítulo Único. Sanciones
-
-Facultad para sancionar
 
 ###### Artículo 213.
 
@@ -2463,11 +2663,13 @@ Las terminales deberán contar con accesibilidad universal para el ascenso y des
 
 Las terminales contarán con elementos de acceso universal.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Sitios o bases de contratación
 
 ###### Artículo 215.
 
-Los sitios o bases de contratación se autorizarán por el Instituto y deberán instalarse cumpliendo los requerimientos y características de operación que establezcan los ordenamientos, una vez que el lugar de su ubicación haya recibido la anuencia de las autoridades del municipio correspondiente. En ningún caso deberán obstruir el libre tránsito de vehículos o personas.
+Los sitios o bases de contratación se autorizarán por la unidad administrativa de transporte y deberán instalarse cumpliendo los requerimientos y características de operación que establezcan los ordenamientos, una vez que el lugar de su ubicación haya recibido la anuencia de las autoridades del municipio correspondiente. En ningún caso deberán obstruir el libre tránsito de vehículos o personas.
 
 Bases de encierro
 
@@ -2481,11 +2683,17 @@ Depósitos de vehículos
 
 Los depósitos de vehículos deberán destinarse a la guarda y custodia de vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en las vías públicas del Estado, así como aquellos remitidos por autoridad competente.
 
-El Instituto otorgará los permisos de depósito de vehículos a los concesionarios o permisionarios del servicio público de transporte de grúa registrados, previo cumplimiento de las disposiciones establecidas en el reglamento respectivo.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-La autoridad municipal podrá contar con depósitos para vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en las vías públicas de su jurisdicción, por lo que deberán registrar tanto el depósito como los vehículos ante la autoridad estatal conforme a los mecanismos, formatos y requerimientos técnicos que para tal efecto establezca el Instituto.
+La unidad administrativa de transporte otorgará los permisos de depósito de vehículos a los concesionarios o permisionarios del servicio público de transporte de grúa registrados, previo cumplimiento de las disposiciones establecidas en el reglamento respectivo.
 
-Las tarifas para el servicio de depósito serán emitidas por el Instituto, de conformidad con los análisis técnicos que realice.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La autoridad municipal podrá contar con depósitos para vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en las vías públicas de su jurisdicción, por lo que deberán registrar tanto el depósito como los vehículos ante la autoridad estatal conforme a los mecanismos, formatos y requerimientos técnicos que para tal efecto establezca la unidad administrativa de transporte.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Las tarifas para el servicio de depósito serán emitidas por la unidad administrativa de transporte, de conformidad con los análisis técnicos que realice.
 
 Desocupación de depósitos
 
@@ -2493,13 +2701,17 @@ Desocupación de depósitos
 
 El Ejecutivo del Estado y los ayuntamientos a través del área que para tal efecto designen, en el ámbito de su competencia podrán establecer los lineamientos para la desocupación de depósitos mediante el retiro de vehículos que hayan causado abandono a favor del fisco en los términos que se establezcan en el reglamento correspondiente y conforme a los requisitos y disposiciones que establezca el acto jurídico administrativo que para el efecto se emita.
 
-Abandono de vehículos a favor del Instituto
+> <small>(REFORMADO SU ACÁPITE, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Abandono de vehículos a favor de la Secretaría de Finanzas, Inversión y Administración
 
 ###### Artículo 219.
 
 Cuando en un lapso de tres años contados a partir de que se inició el acto que originó la remisión de los vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en la vía pública, y que el propietario o legítimo poseedor no realice los trámites para su salida del depósito respectivo, estos serán considerados abandonados a favor de la Secretaría de Finanzas, Inversión y Administración, con destino al desarrollo y mantenimiento del Sistema Estatal de Ciclovías, por lo que se iniciará el procedimiento correspondiente para la declaración de abandono, así como la forma de distribución de los productos derivados de su enajenación.
 
-En cualquier caso, los titulares de los depósitos, deberán acreditar de manera fehaciente al Instituto o a la autoridad fiscal correspondiente, los servicios que pretenden cobrar, sin perjuicio de la obligación de adjuntar el inventario elaborado al ingreso del vehículo al depósito.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+En cualquier caso, los titulares de los depósitos, deberán acreditar de manera fehaciente a la unidad administrativa de transporte o a la autoridad fiscal correspondiente, los servicios que pretenden cobrar, sin perjuicio de la obligación de adjuntar el inventario elaborado al ingreso del vehículo al depósito.
 
 Enajenación de vehículos
 
@@ -2519,7 +2731,9 @@ II. Al pago de los adeudos que los particulares tengan con los permisionarios de
 
 III. Al pago de los bienes o adeudos que no sean susceptibles de devolución a favor de quienes legalmente les sea autorizada la misma; y
 
-IV. Al Instituto para el desarrollo del Sistema Estatal de Ciclovías.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+IV. A la Secretaría para el desarrollo del Sistema Estatal de Ciclovías.
 
 Terminación del permiso para depósito de vehículos
 
@@ -2529,19 +2743,25 @@ Cuando las personas físicas o jurídico colectivas dejen de ser permisionarios 
 
 Exención del pago de depósito
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 223.
 
-En el caso de los depósitos municipales propiedad del municipio que sean registrados ante el Instituto, será la autoridad municipal la que determine el costo o cuota respectiva.
+En el caso de los depósitos municipales propiedad del municipio que sean registrados ante la unidad administrativa de transporte, será la autoridad municipal la que determine el costo o cuota respectiva.
 
 No procederá el cobro del servicio de depósito y deberá hacerse entrega del vehículo, cuando la detención del mismo no implique falta administrativa o hecho ilícito derivado de los procedimientos instaurados por autoridad competente.
 
-En caso de incumplimiento a lo establecido en el párrafo anterior, el Instituto ordenará la entrega inmediata del vehículo sin costo. En caso de negativa a la entrega del vehículo, el permisionario será sancionado con multa, independientemente de la responsabilidad penal que se genere como consecuencia de las acciones que realicen el interesado o la autoridad.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de incumplimiento a lo establecido en el párrafo anterior, la unidad administrativa de transporte ordenará la entrega inmediata del vehículo sin costo. En caso de negativa a la entrega del vehículo, el permisionario será sancionado con multa, independientemente de la responsabilidad penal que se genere como consecuencia de las acciones que realicen el interesado o la autoridad.
 
 Centros de revista físico mecánica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 224.
 
-El Instituto o la dependencia municipal correspondiente, realizarán la revista físico mecánica a los vehículos de los servicios público y especial de transporte de su competencia y fijarán los costos que deberán aplicarse por su realización.
+La unidad administrativa de transporte o la dependencia municipal correspondiente, realizarán la revista físico mecánica a los vehículos de los servicios público y especial de transporte de su competencia y fijarán los costos que deberán aplicarse por su realización.
 
 Para el cumplimiento de lo anterior, la autoridad competente podrá celebrar convenios o autorizar a las personas físicas o jurídico colectivas que cumplan con las características legales, técnicas y administrativas para llevar a cabo esta revisión, los cursos y programas de capacitación incluirán la perspectiva de género, derecho a una vida libre de violencia para las mujeres, movilidad segura y accesibilidad universal.
 
@@ -2549,15 +2769,21 @@ La revista físico mecánica se realizará en la forma y términos que establezc
 
 Centros de capacitación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 225.
 
-El Instituto impartirá cursos y programas permanentes de capacitación a los operadores de los servicios público y especial de transporte en los términos que establezca el reglamento de la Ley y fijará los costos que deberán aplicarse por su realización.
+La unidad administrativa de transporte impartirá cursos y programas permanentes de capacitación a los operadores de los servicios público y especial de transporte en los términos que establezca el reglamento de la Ley y fijará los costos que deberán aplicarse por su realización.
 
-Para el cumplimiento de lo anterior el Instituto podrá autorizar a personas físicas o jurídico colectivas, así como entidades públicas y privadas reconocidas por la autoridad educativa respectiva que cumplan con las características legales, técnicas y administrativas para tal fin.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Para el cumplimiento de lo anterior la unidad administrativa de transporte podrá autorizar a personas físicas o jurídico colectivas, así como a entidades públicas y privadas reconocidas por la autoridad educativa respectiva que cumplan con las características legales, técnicas y administrativas para tal fin.
 
 A los operadores que aprueben los cursos y programas de capacitación se les expedirá la acreditación correspondiente en los términos y vigencia que al respecto establezca el reglamento de la Ley, al término de la cual el operador deberá obtener una nueva acreditación previa aprobación del curso de capacitación subsecuente.
 
-Cualquier otro tipo de curso o programa de capacitación que impartan los municipios o los propios concesionarios y permisionarios a los operadores, deberán ser aprobados por el Instituto.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Cualquier otro tipo de curso o programa de capacitación que impartan los municipios o los propios concesionarios y permisionarios a los operadores, deberá ser aprobado por la unidad administrativa de transporte.
 
 Finalidad de la capacitación
 
@@ -2565,19 +2791,21 @@ Finalidad de la capacitación
 
 Los cursos y programas de capacitación para los operadores de los servicios público y especial de transporte tendrán como finalidad mejorar las actitudes y aptitudes en la prestación del citado servicio.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Infraestructura del Transporte
 
 ###### Artículo 227.
 
-Además de los servicios conexos regulados en el presente capítulo, el Instituto o la autoridad municipal en el ámbito de sus competencias o de forma coordinada, podrán establecer regulación específica para los servicios, actividades e instalaciones vinculadas con la infraestructura necesaria o vinculada a la prestación de las diferentes modalidades de los servicios público y especial de transporte, ya sea que se ejecuten de manera directa por los concesionarios y permisionarios o por un tercero.
+Además de los servicios conexos regulados en el presente capítulo, la Secretaría o la autoridad municipal en el ámbito de sus competencias o de forma coordinada, podrán establecer regulación específica para los servicios, actividades e instalaciones vinculadas con la infraestructura necesaria o vinculada a la prestación de las diferentes modalidades de los servicios público y especial de transporte, ya sea que se ejecuten de manera directa por los concesionarios y permisionarios o por un tercero.
 
-### Capítulo Único. Medios de Defensa y Responsabilidad
+### Capítulo Único. Sanciones
 
-Quejas y denuncias
+Facultad para sancionar
 
 ###### Artículo 228.
 
-El Instituto y los ayuntamientos en el ámbito de su competencia, establecerán los tipos y parámetros para la fijación de tarifas de los servicios públicos de transporte en la modalidad de urbano, suburbano, intermunicipal y de alquiler sin ruta fija «Taxi», para lo cual podrán auxiliarse de una comisión mixta que al efecto se constituya.
+La unidad administrativa de transporte y los ayuntamientos en el ámbito de su competencia, establecerán los tipos y parámetros para la fijación de tarifas de los servicios públicos de transporte en la modalidad de urbano, suburbano, intermunicipal y de alquiler sin ruta fija “Taxi”, para lo cual podrán auxiliarse de una comisión mixta que al efecto se constituya.
 
 Las tarifas se establecerán con base en los estudios y análisis técnicos que se lleven a cabo o se contraten los cuales deberán considerar lo siguiente:
 
@@ -2613,9 +2841,11 @@ Para el cobro, pago y prepago de las tarifas, las autoridades competentes podrá
 
 Tarifas especiales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 231.
 
-El Instituto y los ayuntamientos, tomando en cuenta las circunstancias particulares de los usuarios y las circunstancias de interés general, deberán autorizar el establecimiento de tarifas especiales y promocionales, que se aplicarán de manera general abstracta e impersonal a sectores específicos de la población.
+La unidad administrativa de transporte y los ayuntamientos, tomando en cuenta las circunstancias particulares de los usuarios y las circunstancias de interés general, deberán autorizar el establecimiento de tarifas especiales y promocionales, que se aplicarán de manera general, abstracta e impersonal, a sectores específicos de la población.
 
 Los acuerdos dictados en ejercicio de las atribuciones señaladas en el presente artículo deberán publicarse en el Periódico Oficial del Gobierno del Estado.
 
@@ -2631,7 +2861,9 @@ Exención de Pago
 
 No procederá el pago de tarifa por el servicio de grúa, cuando derivado de los procedimientos instaurados ante autoridad competente se determine que la causa que originó la prestación del servicio no implicó falta administrativa o hecho ilícito alguno.
 
-En caso de incumplimiento a lo establecido en el párrafo anterior, el Instituto ordenará la exención del pago y en caso de reiterarse el incumplimiento, el permisionario será sancionado con la multa correspondiente.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de incumplimiento a lo establecido en el párrafo anterior, la unidad administrativa de transporte ordenará la exención del pago y en caso de reiterarse el incumplimiento, el permisionario será sancionado con la multa correspondiente.
 
 Tarifa del servicio especial de transporte
 
@@ -2639,11 +2871,17 @@ Tarifa del servicio especial de transporte
 
 Tratándose del servicio especial de transporte, cuando el mismo sea remunerado, la tarifa a aplicar será la convenida entre el usuario y el prestador del servicio.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Tarifa provisional
 
 ###### Artículo 235.
 
-A efecto de mantener la operatividad de los servicios públicos de transporte el Instituto podrá, en su caso, establecer tarifas provisionales a dichos servicios brindando certeza a los usuarios y prestadores, de conformidad con los análisis técnicos de que disponga.
+A efecto de mantener la operatividad de los servicios públicos de transporte la unidad administrativa de transporte podrá, en su caso, establecer tarifas provisionales a dichos servicios brindando certeza a los usuarios y prestadores, de conformidad con los análisis técnicos de que disponga.
+
+### Capítulo Único. Medios de Defensa y Responsabilidad
+
+Quejas y denuncias
 
 ###### Artículo 236.
 
@@ -2655,7 +2893,9 @@ II. Colaborar con las autoridades competentes en el cuidado y conservación de l
 
 III. Contratar personal competente para la prestación del servicio y verificar que cuente con la licencia de conducir respectiva vigente, que se encuentre permanentemente capacitado y preste el servicio en condiciones óptimas e higiene personal;
 
-IV. Verificar que los operadores acudan de forma permanente a los cursos y programas de capacitación y actualización que establezca el Instituto;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Verificar que los operadores acudan de forma permanente a los cursos y programas de capacitación y actualización que establezca la unidad administrativa de transporte;
 
 V. Responder ante la autoridad estatal o municipal, de las faltas o infracciones en que incurran ellos o sus operadores;
 
@@ -2719,13 +2959,15 @@ XII. Las demás que les establezca esta Ley, los reglamentos respectivos y demá
 
 ###### Artículo 238.
 
-La Medicina del Transporte es la actividad a través de la cual se practican los exámenes médicos, psicofísicos, de alcoholemia y toxicológicos, para determinar, con base en los resultados que se obtengan, la salud y aptitud de los operadores de los servicios público y especial de transporte para lo cual el Instituto o los municipios podrán contar con unidades médicas en los términos que se establezcan en el reglamento correspondiente, o bien establecer acciones de coordinación con la dependencia respectiva en materia de salud o entre sí, para la práctica de los exámenes médicos. Las unidades médicas contarán con las características, equipamiento y personal que para el efecto se determine en el reglamento correspondiente.
+La Medicina del Transporte es la actividad a través de la cual se practican los exámenes médicos, psicofísicos, de alcoholemia y toxicológicos, para determinar, con base en los resultados que se obtengan, la salud y aptitud de los operadores de los servicios público y especial de transporte, para lo cual la unidad administrativa de transporte o los municipios podrán contar con unidades médicas en los términos que se establezcan en el reglamento correspondiente, o bien establecer acciones de coordinación con la dependencia respectiva en materia de salud o entre sí, para la práctica de los exámenes médicos. Las unidades médicas contarán con las características, equipamiento y personal que para el efecto se determine en el reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Aplicación de exámenes para los operadores
 
 ###### Artículo 239.
 
-Los operadores de los vehículos de los servicios público y especial de transporte estarán obligados a someterse, cuando así lo determinen el Instituto y los ayuntamientos, en la esfera de su competencia, a los exámenes psicofísicos, teóricos, prácticos, o médicos, así como a la aplicación de pruebas para la detección de la ingesta de bebidas alcohólicas, sustancias psicotrópicas, estupefacientes incluyendo medicamentos con este efecto y de todos aquellos fármacos que, con evidencia médica, alteren o puedan alterar la capacidad para el desarrollo de sus actividades a efecto de corroborar que se encuentran en aptitud para la adecuada prestación del servicio.
+Los operadores de los vehículos de los servicios público y especial de transporte estarán obligados a someterse, cuando así lo determinen la unidad administrativa de transporte y los ayuntamientos, en la esfera de su competencia, a los exámenes psicofísicos, teóricos, prácticos, o médicos, así como a la aplicación de pruebas para la detección de la ingesta de bebidas alcohólicas, sustancias psicotrópicas, estupefacientes, incluyendo medicamentos con este efecto, y de todos aquellos fármacos que, con evidencia médica, alteren o puedan alterar la capacidad para el desarrollo de sus actividades, a efecto de corroborar que se encuentran en aptitud para la adecuada prestación del servicio.
 
 ###### Artículo 240.
 
@@ -2735,9 +2977,9 @@ En su caso, la suspensión será definitiva cuando el permisionario o concesiona
 
 ###### Artículo 241.
 
-La construcción, operación, administración y mantenimiento de la infraestructura para la movilidad y su equipamiento, así como para la prestación del servicio público de transporte de competencia estatal y sus servicios conexos, se realizará con base en las características y especificaciones técnicas que emita el Instituto.
+La construcción, operación, administración y mantenimiento de la infraestructura para la movilidad y su equipamiento, así como para la prestación del servicio público de transporte de competencia estatal y sus servicios conexos, se realizará con base en las características y especificaciones técnicas que emita la Secretaría.
 
-El Instituto podrá proponer mejoras a la infraestructura para la movilidad y servicios conexos cuya competencia corresponda a los municipios.
+La Secretaría podrá proponer mejoras a la infraestructura para la movilidad y servicios conexos cuya competencia corresponda a los municipios.
 
 Infraestructura
 
@@ -2749,7 +2991,7 @@ El Estado y los municipios, en sus respectivos ámbitos de competencia, podrán 
 
 ###### Artículo 243.
 
-En el Registro Estatal de Concesiones y Permisos del Transporte se inscribirán las concesiones y permisos, concesionarios, permisionarios y vehículos con que se prestan los servicios público y especial de transporte de competencia estatal y municipal, así como las resoluciones o actos que creen, modifiquen o extingan un derecho relacionado con los mismos y estará adscrito al Instituto.
+En el Registro Estatal de Concesiones y Permisos del Transporte se inscribirán las concesiones y permisos, concesionarios, permisionarios y vehículos con que se prestan los servicios público y especial de transporte de competencia estatal y municipal, así como las resoluciones o actos que creen, modifiquen o extingan un derecho relacionado con los mismos y estará adscrito a la unidad administrativa de transporte.
 
 Actos registrables
 
@@ -2785,7 +3027,9 @@ XIII. Los domicilios, antecedentes y demás datos relativos a operadores y sus a
 
 XIV. Los demás que establezca la presente Ley y su reglamento.
 
-Las autoridades municipales en materia de transporte, deberán entregar y actualizar de manera permanente y conforme a los mecanismos, formatos y requerimientos técnicos que para tal efecto establezca el Instituto, los datos con que cuenten para alimentar los registros conforme a lo señalado en las fracciones anteriores, a efecto de generar condiciones de certeza así como estadísticas confiables y actualizadas para la planeación del transporte y la movilidad en el Estado. Su inobservancia e incumplimiento, será motivo para dar vista a las autoridades y órganos de control municipal y estatal correspondientes.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Las autoridades municipales en materia de transporte, deberán entregar y actualizar de manera permanente y conforme a los mecanismos, formatos y requerimientos técnicos que para tal efecto establezca la unidad administrativa de transporte, los datos con que cuenten para alimentar los registros conforme a lo señalado en las fracciones anteriores, a efecto de generar condiciones de certeza así como estadísticas confiables y actualizadas para la planeación del transporte y la movilidad en el Estado. Su inobservancia e incumplimiento, será motivo para dar vista a las autoridades y órganos de control municipal y estatal correspondientes.
 
 Consulta de Información
 
@@ -2951,11 +3195,13 @@ Revocación de concesiones
 
 Se procederá a la revocación de las concesiones, en los términos establecidos en esta Ley y en los reglamentos que deriven de la misma.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Pago de adeudos
 
 ###### Artículo 262.
 
-La Secretaría de Finanzas, Inversión y Administración, el Instituto o los municipios en su caso, rechazarán el trámite relativo al registro vehicular, o para reposición de placas de unidades de servicio público cuando previamente no se hayan cubierto o convenido para el pago, los adeudos registrados ante dichas autoridades. De igual manera, el interesado deberá presentar la constancia de no infracción, previo el pago de los derechos correspondientes.
+La Secretaría de Finanzas, Inversión y Administración, la unidad administrativa de transporte o los municipios en su caso, rechazarán el trámite relativo al registro vehicular, o para reposición de placas de unidades de servicio público cuando previamente no se hayan cubierto o convenido para el pago, los adeudos registrados ante dichas autoridades. De igual manera, el interesado deberá presentar la constancia de no infracción, previo el pago de los derechos correspondientes.
 
 Infractores reincidentes
 
@@ -2981,9 +3227,11 @@ La persona que preste el servicio público de transporte en la modalidad de alqu
 
 Competencia para imponer sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 266.
 
-El Director General del Instituto será competente para imponer las sanciones previstas en el artículo 249 de esta Ley, a excepción de la fracción VIII.
+El titular de la unidad administrativa de transporte será competente para imponer las sanciones previstas en el artículo 249 de esta Ley, a excepción de la fracción VIII.
 
 La Policía Estatal de Caminos, en el ámbito de su competencia, impondrá las sanciones previstas en las fracciones I, II y X del artículo 249 de esta Ley.
 
@@ -2995,9 +3243,11 @@ La aplicación de la sanción establecida en la fracción VIII del artículo 249
 
 Infracción de cortesía
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 267.
 
-El Instituto y la autoridad competente en los municipios, podrán establecer campañas de concientización encaminadas al cumplimiento de la normatividad mediante la aplicación de infracciones de cortesía, en cuyo caso, la autoridad podrá retener en garantía un documento en los términos que al respecto establezca el reglamento correspondiente.
+La unidad administrativa de transporte y la autoridad competente en los municipios, podrán establecer campañas de concientización encaminadas al cumplimiento de la normatividad mediante la aplicación de infracciones de cortesía, en cuyo caso, la autoridad podrá retener en garantía un documento en los términos que al respecto establezca el reglamento correspondiente.
 
 En caso de que el infractor no subsane la falta cometida en el término que para el efecto establezca la autoridad competente, se impondrá la multa que corresponda.
 
@@ -3009,13 +3259,17 @@ Las autoridades competentes podrán aplicar las medidas preventivas consistentes
 
 El apercibimiento es la comunicación escrita mediante la cual se señala al concesionario y permisionario la omisión o falta en el cumplimiento de sus obligaciones o que incurran en conductas prohibidas en los términos de los reglamentos que deriven de esta Ley, conminándolo a corregirse, y en caso contrario se hará acreedor a una sanción.
 
-Podrán retirarse de la vía pública y remitirse para su resguardo a un depósito autorizado los vehículos de los servicios público y especial de transporte que no reúnan los requisitos legales o aquellos cuya legal prestación requiera ser verificada por el Instituto o la autoridad municipal respectiva y los demás en los casos establecidos en esta Ley y su reglamento.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Podrán retirarse de la vía pública y remitirse para su resguardo a un depósito autorizado los vehículos de los servicios público y especial de transporte que no reúnan los requisitos legales o aquellos cuya legal prestación requiera ser verificada por la unidad administrativa de transporte o la autoridad municipal respectiva y los demás en los casos establecidos en esta Ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Imposibilidad de efectuar trámites con adeudos de multas
 
 ###### Artículo 269.
 
-La Secretaría de Finanzas, Inversión y Administración y el Instituto de Movilidad del Estado de Guanajuato en su caso, no darán curso a ningún trámite relativo al registro vehicular, o para reposición de licencias o placas, al propietario del vehículo o conductor que no cubra previamente las multas en que haya incurrido.
+La Secretaría de Finanzas, Inversión y Administración y la unidad administrativa de transporte en su caso, no darán curso a ningún trámite relativo al registro vehicular, o para reposición de licencias o placas, al propietario del vehículo o conductor que no cubra previamente las multas en que haya incurrido.
 
 Derecho a inconformarse
 
@@ -3041,9 +3295,11 @@ Los actos y resoluciones dictados por las autoridades estatales y municipales co
 
 Responsabilidad de los servidores públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 274.
 
-Los servidores públicos que incumplan con las obligaciones señaladas en esta Ley y en los reglamentos que de ella emanen o incurran en las conductas prohibidas serán sancionados en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus municipios.
+Los servidores públicos que incumplan con las obligaciones señaladas en esta Ley y en los reglamentos que de ella emanen o incurran en las conductas prohibidas serán sancionados en los términos de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
 Las autoridades en materia de transporte establecerán medidas que faciliten la presentación de quejas y denuncias por incumplimiento de las obligaciones o por incurrir en conductas prohibidas de los servidores públicos dando trámite de acuerdo a la normatividad aplicable.
 
@@ -3182,3 +3438,29 @@ Artículo Primero. El presente decreto entrará en vigor el día siguiente al de
 Artículo Segundo. El Ejecutivo del Estado y los ayuntamientos deberán adecuar sus reglamentos, dentro de los noventa días, posteriores a la entrada en vigencia del presente Decreto.
 
 Artículo Tercero. Los municipios que no cuenten con la infraestructura y los recursos materiales y humanos necesarios para la aplicación del presente Decreto, contarán hasta con un año, contado a partir del inicio de su vigencia, a efecto de que adecúen su infraestructura y su organización administrativa.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 342, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3 FRACCIONES XXII Y XXIV, DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Infraestructura, Conectividad y Movilidad, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. La Secretaría de Obra Pública se transformará en Secretaría de Infraestructura, Conectividad y Movilidad; para tal efecto, el Instituto de Movilidad del Estado de Guanajuato trasferirá los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+Artículo Sexto. La Secretaría de Infraestructura, Conectividad y Movilidad sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Las referencias a la Secretaría de Obra Pública, y del Instituto de Movilidad del Estado de Guanajuato se entenderán referidas a la Secretaría de Infraestructura, Conectividad y Movilidad.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Noveno. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
