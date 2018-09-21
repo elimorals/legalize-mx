@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-11009
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-25"
-last_updated: "2015-09-25"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Décima Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de septiembre de 2015.
 
@@ -299,7 +299,9 @@ III. La Secretaría de Finanzas, Inversión y Administración;
 
 IV. La Secretaría de Desarrollo Económico Sustentable;
 
-V. La Secretaría de Obra Pública;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+V. La Secretaría de Infraestructura, Conectividad y Movilidad;
 
 VI. La Secretaría de Educación;
 
@@ -624,3 +626,31 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 342, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3 FRACCIONES XXII Y XXIV, DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Infraestructura, Conectividad y Movilidad, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. La Secretaría de Obra Pública se transformará en Secretaría de Infraestructura, Conectividad y Movilidad; para tal efecto, el Instituto de Movilidad del Estado de Guanajuato trasferirá los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+Artículo Sexto. La Secretaría de Infraestructura, Conectividad y Movilidad sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Las referencias a la Secretaría de Obra Pública, y del Instituto de Movilidad del Estado de Guanajuato se entenderán referidas a la Secretaría de Infraestructura, Conectividad y Movilidad.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Noveno. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
