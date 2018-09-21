@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-cambio-climatico-para-el-estado-de-guanajuato-y-sus-9661
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2015-12-29"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "GUA"
 ---
 # LEY DE CAMBIO CLIMATICO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO 341, PUBLICADO EN EL P.O. 21 DE SEPTIEMBRE DE 2018, LAS REFERENCIAS AL INSTITUTO ESTATAL DE ECOLOGÍA, COMISIÓN DE VIVIENDA DE GUANAJUATO, E INSTITUTO DE SEGURIDAD EN LA TENENCIA DE LA TIERRA DEL ESTADO DE GUANAJUATO, CONTENIDAS EN OTROS DECRETOS, REGLAMENTOS, CONVENIOS U OTROS INSTRUMENTOS JURÍDICOS EMITIDOS CON ANTERIORIDAD AL PRESENTE DECRETO, SE ENTENDERÁN EFECTUADAS A LA SECRETARÍA DE MEDIO AMBIENTE Y ORDENAMIENTO TERRITORIAL A QUE ALUDE EL PRESENTE DECRETO ACORDE A ÉSTE Y A LAS REFORMAS A LOS DEMÁS ORDENAMIENTOS.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2013.
 
@@ -101,13 +105,17 @@ XVII. Protocolo de Kioto: Protocolo de Kioto de la Convención Marco de las Naci
 
 XVIII. Registro Estatal: Registro Estatal de Emisiones y Reducciones de Gases de Efecto Invernadero.
 
-XIX. Servicios ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano.
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-XX. Sistema Estatal: Sistema Estatal de Cambio Climático.
+XIX. Secretaría: Secretaría de Medio Ambiente y Ordenamiento Territorial.
 
-XXI. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósfera un gas de efecto invernadero o sus precursores y aerosoles en la atmósfera, incluyendo en su caso, compuestos de efecto invernadero.
+XX. Servicios ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano.
 
-XXII. Vulnerabilidad: Nivel al que un sistema es susceptible, o no es capaz de soportar los efectos adversos del cambio climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
+XXI. Sistema Estatal: Sistema Estatal de Cambio Climático.
+
+XXII. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósfera un gas de efecto invernadero o sus precursores y aerosoles en la atmósfera, incluyendo en su caso, compuestos de efecto invernadero.
+
+XXIII. Vulnerabilidad: Nivel al que un sistema es susceptible, o no es capaz de soportar los efectos adversos del cambio climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
 
 ### Capítulo II. Autoridades y facultades
 
@@ -119,13 +127,15 @@ Son autoridades en materia de cambio climático, las siguientes:
 
 I. El Gobernador del Estado;
 
-II. El Instituto de Ecología del Estado;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. La Secretaría;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 III. La Secretaría de Innovación, Ciencia y Educación Superior;
 
-IV. La Comisión de Vivienda del Estado de Guanajuato;
+IV. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 V. La Comisión Estatal del Agua de Guanajuato;
 
@@ -179,11 +189,15 @@ V. Establecer fondos económicos cuyo objeto sea la implementación de acciones 
 
 VI. Las demás que establezcan la presente Ley y las disposiciones jurídicas aplicables.
 
-Facultades del Instituto de Ecología del Estado
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Facultades de la Secretaría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 6.
 
-Corresponde al Instituto de Ecología del Estado:
+Corresponde a la Secretaría:
 
 I. Revisar y, en su caso, actualizar la Estrategia Estatal;
 
@@ -237,9 +251,39 @@ XIX. Promover la celebración de convenios de coordinación con la federación, 
 
 XX. Promover y asesorar a los municipios del Estado en la elaboración de programas de acción climática municipales;
 
-XXI. Remitir, a la autoridad competente a nivel federal, la información que soliciten respecto del cumplimiento del Programa Estatal y de la Estrategia Estatal; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-XXII. Las demás que establezcan la presente Ley y las disposiciones jurídicas aplicables.
+XXI. Remitir, a la autoridad competente a nivel federal, la información que soliciten respecto del cumplimiento del Programa Estatal y de la Estrategia Estatal;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XXII. Promover el desarrollo de vivienda sustentable en el estado de Guanajuato que contemple energías renovables, arquitectura bioclimática, aprovechamiento de agua de lluvia y el manejo sustentable de los residuos sólidos y el agua;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII. Promover el desarrollo de unidades habitacionales de conformidad con lo previsto en el Programa Estatal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial y el atlas estatal de riesgos, con el objeto de evitar las condiciones de vulnerabilidad de las viviendas, ante los fenómenos naturales ocasionados por el cambio climático;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV. Promover e incentivar el desarrollo de programas de remodelación de viviendas que contemplen energías renovables, arquitectura bioclimática, aprovechamiento de agua de lluvia y el manejo sustentable de los residuos sólidos y el agua;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XXV. Formular, regular, dirigir y participar en la instrumentación de acciones de mitigación y adaptación al cambio climático, en las materias de preservación, protección, conservación, restauración, manejo y aprovechamiento sustentable de los recursos hídricos de su competencia;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XXVI. Formular, regular, dirigir y participar en la instrumentación de acciones de mitigación y adaptación al cambio climático, en las materias de ordenamiento territorial de los asentamientos humanos y desarrollo urbano de los centros de población en coordinación con los municipios;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XXVII. Formular, regular, dirigir y participar en la instrumentación de acciones de mitigación y adaptación al cambio climático, en materia forestal y de microcuencas;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XXVIII. Coordinar con el Consejo Estatal de Energía la implementación de acciones de mitigación, reducción y compensación de emisiones de gases de efecto invernadero por el uso de energía; y
+
+XXIX. Las demás que establezcan la presente Ley y las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -255,29 +299,17 @@ II. La captación de fondos concurrentes para financiar la realización de proye
 
 III. Formular, regular, dirigir e implementar programas de educación y comunicación educativa acerca del cambio climático en el sistema de educación del Estado, de tipo superior.
 
-Facultades de la Comisión de Vivienda
-
 ###### Artículo 8.
 
-Corresponde a la Comisión de Vivienda del Estado de Guanajuato:
-
-I. Promover el desarrollo de vivienda sustentable en el estado de Guanajuato que contemple energías renovables, arquitectura bioclimática, aprovechamiento de agua de lluvia y el manejo sustentable de los residuos sólidos y el agua;
-
-II. Promover el desarrollo de unidades habitacionales de conformidad con lo previsto en el Programa de Desarrollo Urbano y Ordenamiento Ecológico Territorial y el atlas estatal de riesgos, con el objeto de evitar las condiciones de vulnerabilidad de las viviendas, ante los fenómenos naturales ocasionados por el cambio climático; y
-
-III. Promover e incentivar el desarrollo de programas de remodelación de viviendas que contemplen energías renovables, arquitectura bioclimática, aprovechamiento de agua de lluvia y el manejo sustentable de los residuos sólidos y el agua.
-
-Facultades de la Comisión Estatal del Agua
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 9.
 
-Corresponde a la Comisión Estatal del Agua formular, regular, dirigir y participar en la instrumentación de acciones de mitigación y adaptación al cambio climático, en las materias de preservación, protección, conservación, restauración, manejo y aprovechamiento sustentable de los recursos hídricos de su competencia.
-
-Facultades del IPLANEG
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 10.
 
-Corresponde al Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato formular, regular, dirigir y participar en la instrumentación de acciones de mitigación y adaptación al cambio climático, en las materias de ordenamiento territorial de los asentamientos humanos y desarrollo urbano de los centros de población en coordinación con sus municipios.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 Facultades de la Secretaría de Desarrollo Agroalimentario y Rural
 
@@ -289,15 +321,19 @@ I. Seguridad alimentaria;
 
 II. Agricultura, ganadería, desarrollo rural, pesca y acuicultura;
 
-III. Microcuencas y uso sustentable del agua en la agricultura; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Forestal.
+III. Uso sustentable del agua en la agricultura; y
+
+IV. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 Facultades de la Secretaría de Seguridad Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 12.
 
-Corresponde a la Secretaría de Seguridad Pública, a través de la Coordinación Ejecutiva de Protección Civil:
+Corresponde a la Secretaría de Seguridad Pública, a través de la Coordinación Estatal de Protección Civil:
 
 I. Formular, regular, dirigir y participar en la instrumentación de acciones de mitigación y adaptación al cambio climático, en la materia de protección civil; y
 
@@ -317,7 +353,9 @@ Corresponde a la Secretaría de Desarrollo Económico Sustentable:
 
 I. Formular, regular, dirigir y participar en la instrumentación de acciones de mitigación y adaptación al cambio climático, en los programas de desarrollo económico del Estado; y
 
-II. Coordinar con el Consejo Estatal de Energía la implementación de acciones de mitigación, reducción y compensación de emisiones de gases de efecto invernadero por el desarrollo industrial y el uso de energía.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. Coordinar la implementación de acciones de mitigación, reducción y compensación de emisiones de gases de efecto invernadero por el desarrollo industrial que acuerde el Consejo Estatal de Energía.
 
 Facultades de la Secretaría de Educación
 
@@ -571,7 +609,9 @@ La Comisión Intersecretarial se integrará por:
 
 I. El Gobernador del Estado, quien la presidirá y en su ausencia podrá delegar esta atribución en el titular de la dependencia o entidad que determine;
 
-II. El titular del Instituto de Ecología del Estado;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. El titular de la Secretaría;
 
 III. El titular de la Procuraduría Ambiental y de Ordenamiento Territorial;
 
@@ -597,7 +637,7 @@ XII. El titular de la Secretaría de Innovación, Ciencia y Educación Superior;
 
 XIII. El titular de la Comisión Estatal del Agua de Guanajuato;
 
-XIV. El titular de la Comisión de Vivienda del Estado de Guanajuato; y
+XIV. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 XV. El titular del Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato.
 
@@ -1127,9 +1167,11 @@ En la elaboración de la Estrategia Estatal se llevará a cabo una consulta púb
 
 Revisiones y actualizaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 58.
 
-El Instituto de Ecología del Estado, con la participación del Consejo Estatal, revisará la Estrategia Estatal, al inicio de la gestión de la Administración Pública Estatal y, en su caso, se actualizarán los escenarios de línea base y sus respectivas acciones derivadas, proyecciones, objetivos y metas correspondientes.
+La Secretaría, con la participación del Consejo Estatal, revisará la Estrategia Estatal, al inicio de la gestión de la Administración Pública Estatal y, en su caso, se actualizarán los escenarios de línea base y sus respectivas acciones derivadas, proyecciones, objetivos y metas correspondientes.
 
 Las revisiones y actualizaciones, en ningún caso, se harán en menoscabo de las metas, proyecciones y objetivos previamente planteados, o promoverán su reducción.
 
@@ -1199,9 +1241,11 @@ XI. El aseguramiento de los ordenamientos ecológicos del territorio en los desa
 
 Programa Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 61.
 
-El Programa Estatal será elaborado al inicio de cada administración, por el Instituto de Ecología del Estado, con la participación del Consejo Estatal, en los términos establecidos en la Ley de Planeación para el Estado de Guanajuato.
+El Programa Estatal será elaborado al inicio de cada administración, por la Secretaría, con la participación del Consejo Estatal, en los términos establecidos en la Ley de Planeación para el Estado de Guanajuato.
 
 En el Programa Estatal se establecerán las estrategias, políticas, directrices, objetivos, acciones, metas e indicadores y la definición de prioridades en materia de adaptación y mitigación, que se implementarán y cumplirán durante el periodo de gobierno correspondiente, de conformidad con la Estrategia Nacional de Cambio Climático, el Programa Especial de Cambio Climático, la Estrategia Estatal, el Programa de Gobierno, en esta Ley y las demás disposiciones jurídicas aplicables.
 
@@ -1227,7 +1271,9 @@ V. La asignación de responsabilidades, tiempos de ejecución, coordinación de 
 
 VI. Estimación de costos; y
 
-VII. Los demás que determinen el Instituto de Ecología del Estado y el Consejo Estatal.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Los demás que determinen la Secretaría y el Consejo Estatal.
 
 #### Sección Tercera. Programas de Acción Climática Municipales
 
@@ -1239,11 +1285,13 @@ Los programas de acción climática municipales serán elaborados al inicio de l
 
 En los programas de acción climática municipales se establecerán las estrategias, políticas, directrices, objetivos, acciones, metas e indicadores y la definición de prioridades en materia de adaptación y mitigación, que se implementarán y cumplirán durante el periodo de gobierno de las administraciones municipales correspondientes, de conformidad con la Estrategia Estatal, el Programa Estatal, el Programa de Gobierno Municipal, en esta Ley y las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Apoyo y asesoría a municipios
 
 ###### Artículo 64.
 
-El Instituto de Ecología del Estado apoyará y asesorará a los municipios que lo soliciten, en la formulación, ejecución y operación de sus programas de acción climática.
+La Secretaría apoyará y asesorará a los municipios que lo soliciten, en la formulación, ejecución y operación de sus programas de acción climática.
 
 #### Sección Primera. Inspección y Vigilancia
 
@@ -1259,11 +1307,13 @@ Sanciones administrativas
 
 ### Capítulo VII. Subsistema Estatal de Información sobre el Cambio Climático
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Objeto
 
 ###### Artículo 65.
 
-El Subsistema Estatal de Información sobre Cambio Climático forma parte del Sistema Estatal de Información Estadística y Geográfica y estará a cargo del Instituto de Ecología del Estado y tiene por objeto integrar, generar y difundir la información que se requiera para la planeación, instrumentación y seguimiento de las políticas estatales en materia de cambio climático.
+El Subsistema Estatal de Información sobre Cambio Climático forma parte del Sistema Estatal de Información Estadística y Geográfica y estará a cargo de la Secretaría y tiene por objeto integrar, generar y difundir la información que se requiera para la planeación, instrumentación y seguimiento de las políticas estatales en materia de cambio climático.
 
 Integración y administración
 
@@ -1289,11 +1339,13 @@ V. La calidad de los suelos, incluyendo su contenido de carbono y avance de la d
 
 VI. La protección, adaptación y manejo de la biodiversidad.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Informes
 
 ###### Artículo 68.
 
-Con base en el Subsistema Estatal de Información sobre el Cambio Climático, el Instituto de Ecología del Estado deberá elaborar, publicar y difundir informes sobre adaptación y mitigación del cambio climático y sus repercusiones, considerando la articulación de éstos en el Plan Estatal de Desarrollo y los programas estatales.
+Con base en el Subsistema Estatal de Información sobre el Cambio Climático, la Secretaría deberá elaborar, publicar y difundir informes sobre adaptación y mitigación del cambio climático y sus repercusiones, considerando la articulación de éstos en el Plan Estatal de Desarrollo y los programas estatales.
 
 Integración de datos
 
@@ -1305,9 +1357,11 @@ Los datos se integrarán en un sistema de información geográfica ambiental que
 
 Inventario Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 70.
 
-El Instituto de Ecología del Estado deberá formular y adoptar metodologías y establecer líneas de coordinación con la federación y los ayuntamientos para la elaboración, actualización y publicación del Inventario Estatal.
+La Secretaría deberá formular y adoptar metodologías y establecer líneas de coordinación con la federación y los ayuntamientos para la elaboración, actualización y publicación del Inventario Estatal.
 
 Cuando se trate de fuentes emisoras de competencia federal, la información se solicitará a través de la autoridad competente.
 
@@ -1339,25 +1393,31 @@ h) Otras, determinadas por las instancias federales, internacionales o las autor
 
 III. El sistema de monitoreo, reporte y verificación para garantizar la integridad, consistencia, transparencia, trazabilidad y precisión de los reportes.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Actualización del Inventario Estatal
 
 ###### Artículo 72.
 
-El Inventario Estatal se actualizará cada cuatro años y el Instituto de Ecología del Estado publicará anualmente las proyecciones de las emisiones.
+El Inventario Estatal se actualizará cada cuatro años y la Secretaría publicará anualmente las proyecciones de las emisiones.
 
 ### Capítulo IX. Registro Estatal de Emisiones y Reducciones de Gases de Efecto Invernadero
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Registro Estatal
 
 ###### Artículo 73.
 
-El Instituto de Ecología del Estado será responsable de elaborar, actualizar y publicar un reporte anual sobre los niveles de emisiones de los gases de efecto invernadero en el Estado, así como determinar las fuentes que deberán reportar en el Registro Estatal por sector, subsector y actividad, así como las acciones realizadas en el año por el gobierno estatal en materia de adaptación y mitigación del cambio climático, a través del proceso o sistema que este determine.
+La Secretaría será responsable de elaborar, actualizar y publicar un reporte anual sobre los niveles de emisiones de los gases de efecto invernadero en el Estado, así como determinar las fuentes que deberán reportar en el Registro Estatal por sector, subsector y actividad, así como las acciones realizadas en el año por el gobierno estatal en materia de adaptación y mitigación del cambio climático, a través del proceso o sistema que este determine.
 
 Reporte de las Fuentes Emisoras
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 74.
 
-Las fuentes emisoras de competencia estatal están obligadas a reportar sus emisiones al Instituto de Ecología del Estado, de acuerdo a las disposiciones de esta Ley y demás ordenamientos que de ella se deriven.
+Las fuentes emisoras de competencia estatal están obligadas a reportar sus emisiones a la Secretaría, de acuerdo a las disposiciones de esta Ley y demás ordenamientos que de ella se deriven.
 
 Cuando se trate de fuentes emisoras de competencia federal, el reporte se realizará al Registro Nacional de Emisiones, en los términos de la Ley General de Cambio Climático.
 
@@ -1447,11 +1507,13 @@ Complementación del Fondo
 
 El Fondo podrá complementar o transferir recursos, a otros fondos con objetivos concurrentes.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Operación del Fondo
 
 ###### Artículo 82.
 
-El Fondo operará a través de un fideicomiso público, a cargo del Instituto de Ecología del Estado, en los términos de la Ley Orgánica del Poder Ejecutivo del Estado de Guanajuato.
+El Fondo operará a través de un fideicomiso público, a cargo de la Secretaría, en los términos de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
 Procedimientos de control
 
@@ -1499,7 +1561,9 @@ Autoridades para evaluar
 
 La evaluación de la política estatal de cambio climático se realizará a través del Consejo Estatal.
 
-La Estrategia Estatal se revisará por el Instituto de Ecología del Estado, por lo menos cada 10 años en materia de mitigación y cada 6 años en materia de adaptación.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La Estrategia Estatal se revisará por la Secretaría, por lo menos cada 10 años en materia de mitigación y cada 6 años en materia de adaptación.
 
 Elementos a evaluar
 
@@ -1509,11 +1573,13 @@ En las revisiones de la Estrategia Estatal se analizarán las desviaciones que, 
 
 En ningún caso, las revisiones y actualizaciones se harán en menoscabo o reducción de las metas, proyecciones y objetivos planteados.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Resultados de las evaluaciones
 
 ###### Artículo 89.
 
-Con base en dichas revisiones y los resultados de las evaluaciones el Instituto de Ecología del Estado actualizará, en su caso, la Estrategia Estatal, y deberá ajustarse para tal efecto el Programa Estatal y los programas de acción climática municipales.
+Con base en dichas revisiones y los resultados de las evaluaciones la Secretaría actualizará, en su caso, la Estrategia Estatal, y deberá ajustarse para tal efecto el Programa Estatal y los programas de acción climática municipales.
 
 Ajustes o modificaciones
 
@@ -1565,11 +1631,13 @@ La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuat
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionadas administrativamente por la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato en los términos de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, considerándose además para su imposición que sean acordes con el daño ambiental ocasionado y con el beneficio económico obtenido por la violación a la legislación ambiental vigente.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 Responsabilidades de los Servidores Públicos
 
 ###### Artículo 97.
 
-Los servidores públicos encargados de la aplicación y vigilancia del cumplimiento de esta Ley se harán acreedores a las sanciones administrativas aplicables en caso de incumplimiento de sus disposiciones, de acuerdo con lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos para el Estado de Guanajuato y su Municipios.
+Los servidores públicos encargados de la aplicación y vigilancia del cumplimiento de esta Ley se harán acreedores a las sanciones administrativas aplicables en caso de incumplimiento de sus disposiciones, de acuerdo con lo dispuesto en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
 T R A N S I T O R I O S
 
@@ -1680,3 +1748,35 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 341, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4o. PRIMER PÁRRAFO Y FRACCIONES VIII Y XVIII; 5o. PÁRRAFO PRIMERO Y FRACCIÓN III; 80, EN SU PRIMER PÁRRAFO; 9 FRACCIÓN VI; 27 PÁRRAFO SEGUNDO; 29 EN SU PRIMER PÁRRAFO; 31 PRIMER PÁRRAFO; 33 PRIMER PÁRRAFO Y FRACCIÓN II; 35 EN SU PRIMER Y ÚLTIMO PÁRRAFOS; 36; 37; 38 PRIMER PÁRRAFO; 39 PRIMER PÁRRAFO; 40; 41 PRIMER Y ÚLTIMO PÁRRAFOS, Y FRACCIÓN II; 42 PRIMER PÁRRAFO; 43 SEGUNDO PÁRRAFO; 48 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 63; 64; 69; 108 EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO; 114 PÁRRAFOS PRIMERO Y TERCERO; 115 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, Y FRACCIONES III Y IV EN SUS INCISOS B ), E), F), G) Y H); 117 FRACCIÓN II; 118 EN SU PRIMER PÁRRAFO; 132 PRIMER PÁRRAFO; 149 EN SU PRIMER PÁRRAFO; 152; 154 PRIMER PÁRRAFO; 156 EN SU PRIMER PÁRRAFO; Y 177 EN SU PÁRRAFO PRIMERO. Y SE DEROGAN EL TERCER PÁRRAFO DEL ARTÍCULO 156; Y LOS ARTÍCULOS 157 Y 158, TODOS DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Medio Ambiente y Ordenamiento Territorial, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. El Instituto Estatal de Ecología y la Comisión de Vivienda del Estado de Guanajuato, transferirán a la Secretaría de Medio Ambiente y Ordenamiento Territorial, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones, a través de la entrega-recepción respectiva.
+
+El personal de las entidades paraestatales referidas en el párrafo que antecede, conforme a su situación laboral pasarán a integrar la nueva Secretaría de Medio Ambiente y Ordenamiento Territorial, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Por lo que hace a las secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano, la Comisión Estatal del Agua de Guanajuato, el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato y el Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato, transferirán sólo los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuvieren encomendadas en las materias que se transfieran con motivo del presente Decreto y de las reformas a otros ordenamientos, a través de la entrega-recepción respectiva, y pasarán a ser competencia de la Secretaría de Medio Ambiente y Ordenamiento Territorial.
+
+Artículo Sexto. La Secretaría de Medio Ambiente y Ordenamiento Territorial sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales y secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Ecología, Comisión de Vivienda de Guanajuato, e Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas a los demás ordenamientos.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto Estatal de Ecología y de la Comisión de Vivienda del Estado de Guanajuato. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
+
+Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
