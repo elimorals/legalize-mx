@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2018-07-05"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -403,7 +403,9 @@ Son auxiliares en materia de seguridad pública:
 
 I. La Coordinación Estatal y las Unidades Municipales de Protección Civil;
 
-II. El personal operativo de la Dirección General de Transporte del Estado;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II. La unidad administrativa de la Secretaría de Gobierno encargada de ordenar, planear, promover y administrar el servicio público y especial de transporte en el Estado, así como la educación vial;
 
 III. Los cuerpos de bomberos y rescate, legalmente constituidos; y
 
@@ -2185,15 +2187,19 @@ La Secretaría a través del Sistema Estatal de Coordinación, Comando, Control,
 
 Prestación del Servicio de Atención de Emergencias
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 148.
 
-El Servicio telefónico de Emergencias Estatal operará las 24 horas, todos los días del año, bajo los dígitos 0-6-6; ningún otro código de tres dígitos podrá funcionar en el Estado para la atención de emergencias. Las Instituciones y Corporaciones de seguridad pública, tránsito, protección civil, bomberos, salud, no podrán establecer centrales de mando alternas, relacionadas con la prestación del Servicio de Atención de Emergencias.
+El Servicio telefónico de Emergencias Estatal operará las 24 horas, todos los días del año, bajo los dígitos 9-1-1; ningún otro código de tres dígitos podrá funcionar en el Estado para la atención de emergencias. Las instituciones y corporaciones de seguridad pública, tránsito, protección civil, bomberos, salud, no podrán establecer centrales de mando alternas, relacionadas con la prestación del Servicio de Atención de Emergencias.
 
 Centros de Atención de Emergencias Municipales
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 149.
 
-Los municipios establecerán sus Centros de Atención de Emergencias Municipales donde se recibirán todos los reportes de la línea de emergencias 0-6-6 y se realizará el radio despacho de todos los cuerpos de emergencia de forma directa y desde el mismo recinto, para auxilios relacionados con la seguridad pública, salud, protección civil entre otras instituciones públicas y privadas que puedan coadyuvar. De igual forma se realizará el monitoreo de los sistemas de video vigilancia urbana en caso de contar con infraestructura para dicha actividad y alguna otra relacionada para monitorear.
+Los municipios establecerán sus Centros de Atención de Emergencias Municipales donde se recibirán todos los reportes de la línea de emergencias 9-1-1 y se realizará el radio despacho de todos los cuerpos de emergencia de forma directa y desde el mismo recinto, para auxilios relacionados con la seguridad pública, salud, protección civil entre otras instituciones públicas y privadas que puedan coadyuvar. De igual forma se realizará el monitoreo de los sistemas de video vigilancia urbana en caso de contar con infraestructura para dicha actividad y alguna otra relacionada para monitorear.
 
 Organización de los Centros de Atención de Emergencias Municipales
 
@@ -2217,15 +2223,19 @@ Este Centro de Mando Unificado Estatal brindará el servicio telefónico de asis
 
 Operación, evaluación y certificación para los Centros de Atención de Emergencia Municipales
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 153.
 
-La Secretaría establecerá los modelos de operación, evaluación y certificación para los Centros de Atención de Emergencia Municipales 0-6-6.
+La Secretaría establecerá los modelos de operación, evaluación y certificación para los Centros de Atención de Emergencias Municipales 9-1-1.
 
-Sanciones por el uso irresponsable del Servicio de Emergencias 066
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Sanciones por el uso Irresponsable del Servicio de Emergencias 9-1-1
 
 ###### Artículo 154.
 
-El Estado y los municipios establecerán los mecanismos para sancionar a las personas que hacen un uso irresponsable del Servicio de Emergencias 0-6-6.
+El Estado y los municipios establecerán los mecanismos para sancionar a las personas que hacen un uso irresponsable del Servicio de Emergencias 9-1-1.
 
 ### Capítulo II. Observatorio Ciudadano Estatal de Seguridad Pública
 
@@ -2773,6 +2783,8 @@ El Estado a través de la Secretaría podrá prestar el servicio de policía, au
 
 Faltas administrativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 202
 
 1. Para vigilar el tránsito y la seguridad en las carreteras, caminos y áreas de jurisdicción estatal y municipal, las autoridades estatales y municipales, en el ámbito de sus competencias, deberán establecer los sistemas que permitan desarrollar de manera efectiva las atribuciones materia de esta Ley, que garanticen el libre tránsito y el uso eficiente de las vías públicas estatales y municipales.
@@ -2851,7 +2863,7 @@ Contra las resoluciones emitidas por los Consejo de Honor y Justicia, únicament
 
 ###### Artículo 209.
 
-El incumplimiento de lo dispuesto por esta Ley a cargo de los servidores públicos, será sancionado conforme a lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir.
+El incumplimiento de lo dispuesto por esta Ley a cargo de los servidores públicos, será sancionado conforme a lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir.
 
 Lo dispuesto en el párrafo anterior, no es aplicable a quienes ocupen un cargo de elección popular ni a los integrantes de las Instituciones Policiales.
 
@@ -2954,3 +2966,29 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su 
 Artículo Segundo. En un plazo no mayor a sesenta días contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado y los ayuntamientos, deberán hacer las previsiones o adecuaciones normativas necesarias para dar cumplimiento a las obligaciones contempladas en el presente decreto.
 
 Artículo Tercero. En un plazo no mayor de sesenta días contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado y los ayuntamientos, deberán hacer las previsiones presupuestales necesarias para dar cumplimiento a las obligaciones contempladas en el presente decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 342, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3 FRACCIONES XXII Y XXIV, DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Infraestructura, Conectividad y Movilidad, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. La Secretaría de Obra Pública se transformará en Secretaría de Infraestructura, Conectividad y Movilidad; para tal efecto, el Instituto de Movilidad del Estado de Guanajuato trasferirá los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+Artículo Sexto. La Secretaría de Infraestructura, Conectividad y Movilidad sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Las referencias a la Secretaría de Obra Pública, y del Instituto de Movilidad del Estado de Guanajuato se entenderán referidas a la Secretaría de Infraestructura, Conectividad y Movilidad.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Noveno. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
