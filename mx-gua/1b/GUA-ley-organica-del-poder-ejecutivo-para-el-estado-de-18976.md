@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2018-09-18"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -165,7 +167,9 @@ VI.- La Secretaría de Desarrollo Económico Sustentable;
 
 VII.- La Secretaría de Desarrollo Agroalimentario y Rural;
 
-VIII.- La Secretaría de Obra Pública;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VIII.- La Secretaría de Infraestructura, Conectividad y Movilidad;
 
 IX.- La Secretaría de Seguridad Pública;
 
@@ -177,13 +181,19 @@ X.- La Secretaría de la Transparencia y Rendición de Cuentas;
 
 XI.- La Secretaría de Turismo; y
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-XII.- Secretaría de Innovación, Ciencia y Educación Superior; y
+XII.- La Secretaría de Innovación, Ciencia y Educación Superior;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-XIII.- La Procuraduría General de Justicia.
+XIII.- La Secretaría de Medio Ambiente y Ordenamiento Territorial;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+XIV.- La Secretaría del Migrante y Enlace Internacional; y
+
+XV.- La Procuraduría General de Justicia.
 
 ###### Artículo 14.
 
@@ -259,11 +269,21 @@ Las Dependencias del Poder Ejecutivo tendrán las siguientes obligaciones:
 
 I.- Formular los anteproyectos de leyes, reglamentos, decretos y acuerdos para regular su funcionamiento, según corresponda a sus atribuciones, y remitirlos al Gobernador del Estado;
 
-II.- Proponer al Gobernador del Estado las políticas y programas relativos a la materia que les corresponda de acuerdo con sus atribuciones, de conformidad con los planes nacional y estatal de desarrollo; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II.- Proponer al Gobernador del Estado las políticas y programas relativos a la materia que les corresponda de acuerdo con sus atribuciones, de conformidad con los planes nacional y estatal de desarrollo;
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2017)</small>
 
 III.- Elaborar y difundir los manuales de organización, de procedimientos y de servicios al público, necesarios para su funcionamiento. Estos instrumentos de apoyo contendrán información sobre los procedimientos administrativos que se establezcan para facilitar la prestación del servicio. Los manuales de organización deberán publicarse en el Periódico Oficial del Gobierno del Estado, y los de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, en medios electrónicos institucionales.
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- Enfocar sus actividades para promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; y
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+V.- Desarrollar entre sus actividades el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez, protegiendo y respetando de manera plena sus derechos, en términos de la ley de la materia, a fin de garantizar el principio de interés superior de la niñez.
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -333,9 +353,9 @@ f) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
 g) Tramitar las solicitudes de indulto que le sean presentadas al Gobernador del Estado;
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-h) Colaborar con la Secretaría de Desarrollo Social y Humano en la conducción de las relaciones con los diferentes Poderes de la Federación, de los Estados o de los municipios para la implementación de la política de respeto a los derechos humanos de los trabajadores migrantes guanajuatenses y sus familias;
+h) Colaborar con la Secretaría del Migrante y Enlace Internacional en la conducción de las relaciones con los diferentes Poderes de la Federación, de los Estados o con los municipios, para la implementación de la política de respeto a los derechos humanos de los migrantes;
 
 i) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
@@ -393,11 +413,13 @@ El Periódico Oficial se editará en forma impresa y electrónica, ambas edicion
 
 i) (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-j) Realizar en coordinación con los municipios, los estudios para la planeación del servicio público de transporte de pasajeros y de carga en el Estado, y elaborar las políticas y estrategias en la materia, de acuerdo a las leyes aplicables;
+j) Realizar en coordinación con los municipios y la Secretaría de Infraestructura, Conectividad y Movilidad, los estudios para la planeación del servicio público de transporte de personas y de carga en el Estado, y elaborar las políticas y estrategias en la materia, de acuerdo a la normatividad aplicable;
 
-k) Vigilar la prestación del servicio público de transporte;
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+k) Otorgar concesiones para la prestación del servicio público de transporte en las carreteras estatales, caminos vecinales y demás vías de jurisdicción estatal;
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -407,7 +429,9 @@ l) Prestar y ordenar el servicio público de transporte de competencia estatal, 
 
 m) Vigilar el cumplimiento de las disposiciones legales estatales de los medios masivos de comunicación, así como dirigir y supervisar la administración de aquellos pertenecientes al Poder Ejecutivo del Estado;
 
-n) Realizar en coordinación con las Secretarías que señale esta Ley, así como con las dependencias y entidades de la Administración Pública Federal y con los municipios, acciones para la regularización de la tenencia de la tierra; y
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+n) Realizar en coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial, así como con las dependencias y entidades estatales, de la Administración Pública Federal y con los municipios, acciones para la regularización de la tenencia de la tierra;
 
 V.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
@@ -575,17 +599,21 @@ a) Coordinar el proceso de integración de la propuesta de inversión de los pro
 
 b) Coordinar el proceso de seguimiento y evaluación de la inversión pública y establecer los lineamientos para ello;
 
-c) Identificar las propuestas de infraestructura pública contenidas en la propuesta de inversión anual y canalizarlos a la Secretaría de Obra Pública para su análisis y dictamen;
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+c) Identificar las propuestas de infraestructura pública contenidas en la propuesta de inversión anual, y remitirlas a la Secretaría de Infraestructura, Conectividad y Movilidad para su análisis y dictamen;
 
 d) Elaborar la prospectiva de los requerimientos de la inversión estatal:
 
 e) Coordinar conjuntamente con la Secretaría de Salud, la elaboración y ejecución del Programa Estatal de Infraestructura en el área de salud;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-f) Convenir con las Secretarías de Desarrollo Económico Sustentable, de Salud, de Desarrollo Agroalimentario y Rural, de Obra Pública y de Innovación, Ciencia y Educación Superior, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
+f) Convenir con las Secretarías de Desarrollo Económico Sustentable; de Salud; de Desarrollo Agroalimentario y Rural; de Infraestructura, Conectividad y Movilidad y, de Innovación, Ciencia y Educación Superior; estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
 
-g) Coordinar conjuntamente con la Secretaría de Obra Pública, la presupuestación de la obra pública del Gobierno del Estado, formulando sus estudios y proyectos;
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+g) Coordinar conjuntamente con la Secretaría de Infraestructura, Conectividad y Movilidad, la presupuestación de la obra pública estatal, formulando sus estudios y proyectos;
 
 h) Coordinar la integración de la propuesta de inversión regional y municipal que se planteará al Ejecutivo;
 
@@ -699,17 +727,7 @@ l) Crear los mecanismos que capten fuentes alternas para la inversión social;
 
 ll) Fomentar la atención de las personas con discapacidad, coordinándose con las dependencias y entidades competentes en la materia;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
-
-II.- En materia de atención a migrantes:
-
-a) Coadyuvar en el diseño de las políticas de respeto a los derechos humanos de los migrantes guanajuatenses y sus familias;
-
-b) Impulsar en coordinación con las autoridades competentes en la materia, estrategias integrales que permitan enfrentar los retos que presenta la migración de los guanajuatenses;
-
-c) Promover en coordinación con las autoridades competentes, programas de atención a familias migrantes en las comunidades guanajuatenses en el extranjero y en las comunidades de origen para propiciar el desarrollo de sus habitantes; y
-
-d) Fomentar la vinculación intergubernamental para potenciar las acciones de protección de los derechos y el apoyo jurídico a favor de los trabajadores migrantes.
+II.- (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 III.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2003)
 
@@ -723,17 +741,11 @@ b) Impulsar en corresponsabilidad con los ayuntamientos, el desarrollo integral 
 
 c) Coordinar con los organismos auxiliares, dependencias estatales, autoridades federales y municipales que correspondan, la formulación y operación de los planes y programas específicos para el abastecimiento y tratamiento de aguas y servicios de drenaje y alcantarillado;
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+d) (DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
-d) Formular, conducir y evaluar la política estatal de desarrollo urbano y vivienda, por ser factores clave del desarrollo social;
+e) (DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
-
-e) Elaborar y apoyar programas que satisfagan las necesidades de suelo para el desarrollo urbano y la vivienda, así como el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las dependencias y entidades estatales que el Poder Ejecutivo convenga, con las autoridades municipales y con la participación de los sectores social y privado;
-
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
-
-f) Procurar el cumplimiento y aplicación de las disposiciones legales que correspondan en materia de desarrollo urbano y asentamientos humanos.
+f) (DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN VII], P.O. 21 DE MAYO DE 2013)</small>
 
@@ -839,9 +851,9 @@ o) Fomentar el mantenimiento y mejora de las fuentes de empleo, mediante capacit
 
 p) Promover la creación de organismos que se encarguen de difundir la cultura de calidad y competitividad de las empresas;
 
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-q) Convenir con las secretarías de Finanzas, Inversión y Administración, Salud, Desarrollo Agroalimentario y Rural, Obra Pública y de Innovación, Ciencia y Educación Superior, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
+q) Convenir con las secretarías de Finanzas, Inversión y Administración; Salud; Desarrollo Agroalimentario y Rural; de Infraestructura, Conectividad y Movilidad e Innovación, Ciencia y Educación Superior, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
 
 r) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
@@ -855,29 +867,19 @@ t) Promover la capacitación para el fomento de actividades productivas en coord
 
 u) (DEROGADO, P.O. 21 DE MAYO DE 2013)
 
-II.- En materia de medio ambiente:
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-a) Proponer, conducir y evaluar las políticas y programas relativos al medio ambiente en coordinación con las entidades competentes, de conformidad con los Planes Nacional y Estatal de Desarrollo;
+v) Colaborar con la Secretaría de Medio Ambiente y Ordenamiento Territorial para formular estrategias, programas y proyectos de desarrollo y fortalecimiento de la economía con perspectiva ambiental, así como coordinarse con las entidades competentes para promover la participación y responsabilidad de la sociedad en la formulación y aplicación de la política y programas ambientales.
 
-b) Fomentar el aprovechamiento sustentable de los recursos naturales;
-
-c) Aplicar y en su caso coordinar los instrumentos de política ambiental previstos en la legislación ambiental local, que procuren la preservación y restauración del equilibrio ecológico y la protección al ambiente que se realice en bienes y zonas de jurisdicción estatal;
-
-d) Promover en coordinación con las entidades competentes, la participación y responsabilidad de la sociedad en la formulación y aplicación de la política y programas ambientales, mediante un sistema permanente de información sobre los ecosistemas y su equilibrio;
-
-e) Proponer al Ejecutivo del Estado el establecimiento de medidas de protección para las áreas naturales en el Estado;
-
-f) Promover la suscripción de convenios de coordinación que tengan por objeto la participación del Estado en la ejecución de acciones y programas en materia de medio ambiente y aprovechamiento de los recursos naturales, así como ejercer las atribuciones que deriven de los mismos;
-
-g) Fomentar y realizar programas de reforestación y restauración ecológica, de acuerdo a los convenios de coordinación que se celebren con otras autoridades y organismos federales y estatales, así como con los ayuntamientos, en el ámbito de sus respectivas competencias; y
+II.- (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 III.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 29.
 
-La Secretaría de Desarrollo Agroalimentario y Rural es la dependencia encargada de fomentar el desarrollo sustentable de las actividades agroalimentarias, pecuarias, forestales, de la fauna y pesqueras, así como de consolidar la ruralidad en Guanajuato a través de la conservación y preservación del espacio rural en el que se desarrollan las actividades productivas y le competen las siguientes atribuciones:
+La Secretaría de Desarrollo Agroalimentario y Rural es la dependencia encargada de fomentar el desarrollo sustentable de las actividades agroalimentarias, pecuarias y pesqueras, así como de consolidar la ruralidad en el estado a través de la conservación y preservación del espacio rural en el que se desarrollan las actividades productivas y le competen las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
@@ -889,15 +891,15 @@ II.- Promover y ejecutar programas productivos y de financiamiento para el desar
 
 III.- Promover la suscripción de convenios de coordinación que tengan por objeto la participación del Estado en la ejecución de acciones y programas en materia de agricultura, ganadería, agua de uso agrícola, desarrollo rural, acuacultura, pesca y aprovechamiento de los recursos naturales; así como ejercer las atribuciones que deriven de los mismos;
 
-IV.- Coordinar con los organismos competentes, la elaboración de los estudios geohidrológicos que permitan corroborar los volúmenes de extracción y recarga de los mantos acuíferos en el Estado;
+IV.- (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
 V.- Fomentar el aprovechamiento sustentable de los recursos naturales y la producción de alimentos, materias primas y productos agroindustriales;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-VI.- Llevar el control estadístico de las actividades agroalimentarias, ganaderas, forestales, acuícolas y pesqueras en el Estado, en coordinación con las autoridades competentes:
+VI.- Llevar el control estadístico de las actividades agroalimentarias, ganaderas, acuícolas y pesqueras en el Estado, en coordinación con las autoridades competentes;
 
 VII.- Promover una adecuada comercialización de la producción agropecuaria del Estado, identificando canales de venta que propicien un mejor precio en beneficio de los productores rurales;
 
@@ -921,9 +923,9 @@ XIV.- Promover la educación y la capacitación campesina a fin de implementar t
 
 XV.- Organizar y promover congresos, seminarios y otros eventos en materia agroalimentaria, agua para uso agrícola, acuacultura, pesca y desarrollo rural, así como la celebración de exposiciones y ferias relacionadas con dichos sectores;
 
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-XVI.- Procesar y difundir en el ámbito estatal la información estadística y geográfica referente a las actividades agroalimentarias, ganadera, forestal, acuícola, pesquera y de desarrollo rural;
+XVI.- Procesar y difundir en el ámbito estatal la información estadística y geográfica referente a las actividades agroalimentarias, ganadera, acuícola, pesquera y de desarrollo rural;
 
 > <small>(ADICIONADA, P.O. 21 DE MAYO DE 2013)</small>
 
@@ -943,37 +945,59 @@ XX.- Fomentar el desarrollo y la modernización de las actividades económicas d
 
 XXI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 30.
 
-La Secretaría de Obra Pública es la dependencia encargada de la planeación, programación, presupuestación, contratación, adjudicación y ejecución de la obra pública estatal, y le competen las siguientes atribuciones:
+La Secretaría de Infraestructura, Conectividad y Movilidad es la dependencia encargada de la planeación, programación, presupuestación, contratación, adjudicación y ejecución de la obra pública estatal y, de formular y conducir la política de movilidad y conectividad de acuerdo a las necesidades del Estado, y le competen las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+I.- En materia de obra pública e infraestructura:
 
-I.- Coordinar conjuntamente con la Secretaría de Finanzas, Inversión y Administración, la presupuestación de la ejecución del Programa de Obra Pública del Gobierno del Estado con base en los anteproyectos presentados por las diferentes dependencias y entidades;
+a) Coordinar conjuntamente con la Secretaría de Finanzas, Inversión y Administración, la presupuestación de la ejecución del Programa de Obra Pública y Servicios relacionados con la misma, con base en los anteproyectos presentados por las dependencias y entidades;
 
-II.- Establecer y expedir las bases y normas a las que deben sujetarse los concursos para la ejecución de las obras que realice el Poder Ejecutivo del Estado, señalando las adjudicaciones que procedan y vigilando el cumplimiento de los contratos celebrados, de conformidad con la legislación aplicable;
+b) Establecer y expedir las bases y normas a las que deben sujetarse los concursos para la ejecución de las obras públicas que realice el Poder Ejecutivo del Estado, señalando las adjudicaciones que procedan y vigilando el cumplimiento de los contratos celebrados, de conformidad con la legislación aplicable;
 
-III.- Consultar a las dependencias correspondientes a la materia de la obra que se concursa sobre las especificaciones a que deben sujetarse los concursos para la ejecución de las mismas;
+c) Consultar a las dependencias correspondientes a la materia de la obra pública que se concursa sobre las especificaciones a que deben sujetarse los concursos para la ejecución de las mismas;
 
-IV.- Intervenir en los procedimientos de planeación, programación, presupuestación, adjudicación y contratación de la obra pública, en coordinación con las demás dependencias del Poder Ejecutivo del Estado que participen en dichos procedimientos;
+d) Intervenir en los procedimientos de planeación, programación, presupuestación, adjudicación y contratación de la obra pública, en coordinación con las dependencias o entidades del Poder Ejecutivo del Estado que participen en dichos procedimientos;
 
-V.- Brindar asistencia técnica y jurídica a las autoridades municipales para la planeación, diseño y ejecución de la obra pública a su cargo, cuando lo soliciten;
+e) Brindar asistencia técnica y jurídica a las autoridades municipales para la planeación, diseño y ejecución de la obra pública a su cargo, cuando lo soliciten;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+f) Realizar y vigilar directamente o a través de terceros, en su caso, las obras públicas autorizadas, incluyendo aquéllas encomendadas por acuerdo expreso del Gobernador del Estado;
 
-VI.- Realizar y vigilar directamente o a través de terceros, en su caso, las obras públicas autorizadas, incluyendo aquéllas encomendadas por acuerdo expreso del Gobernador del Estado;
+g) Realizar o supervisar directamente o a través de terceros, los proyectos o trabajos de conservación de las obras públicas del estado;
 
-VII.- Realizar o supervisar directamente o a través de terceros, los proyectos o trabajos en materia de conservación de las obras públicas del Estado;
+h) Realizar directamente o a través de terceros, las obras convenidas con el gobierno federal y municipal;
 
-VIII.- Realizar directamente o a través de terceros, las obras convenidas con el Gobierno Federal y Municipal;
+i) Coadyuvar en la conservación del patrimonio inmobiliario histórico y cultural en coordinación con las autoridades federales, estatales y municipales;
 
-IX.- Coadyuvar en la conservación del patrimonio histórico y cultural en coordinación con las autoridades federales, estatales y municipales;
+j) Vigilar que se respete el derecho de vía en las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del estado;
 
-X.- Vigilar que se respete el derecho de vía en las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del Estado;
+k) Planear, programar y presupuestar la construcción, conservación, mantenimiento y modernización de las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del estado; y
 
-XI.- Planear, programar y presupuestar la construcción, conservación, mantenimiento y modernización de las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del Estado; y
+l) Planear, organizar y administrar la infraestructura, a fin de que sea incluyente;
 
-XII.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+II.- En materia de conectividad y movilidad:
+
+a) Diseñar e implementar políticas públicas en materia de conectividad y movilidad;
+
+b) Realizar los estudios necesarios sobre movilidad sustentable, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzca a la más eficaz protección de la vida, y a la seguridad, comodidad y rapidez en el transporte de personas y de carga;
+
+c) Llevar a cabo estudios para determinar con base en ellos, las medidas técnicas y operacionales de todos los medios de transporte, con el objeto de que se complementen entre sí y con las obras de infraestructura vial;
+
+d) Planear las obras de transporte, vialidad y conectividad, así como formular los proyectos y la programación correspondientes y dar seguimiento al proceso de ejecución de las mismas, en el ámbito de su competencia;
+
+e) Coordinar las actividades en materia de vialidad, transporte y conectividad, con las autoridades federales, estatales y municipales, así como con las entidades paraestatales, cuya competencia y objeto se relacione con estas materias;
+
+f) Participar en los términos que señale la normatividad aplicable en la planeación y ejecución de acciones en las zonas conurbadas y metropolitanas en materia de transporte y vialidad, en coordinación con la federación, estados y municipios;
+
+g) Regular, administrar y dar mantenimiento a las carreteras y caminos estatales;
+
+h) Proponer, integrar y administrar técnicamente la cartera de proyectos de impacto regional y metropolitano;
+
+i) Impulsar la tecnología digital en el estado, para potenciar el desarrollo social y el impulso a los mercados digitales; y
+
+III.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
 
 ###### Artículo 31.
 
@@ -1280,6 +1304,140 @@ i) Fomentar la participación del sector productivo en la educación superior, m
 j) Impulsar la formación de posgraduados e investigadores en las diferentes ramas del conocimiento, procurando su vinculación con las actividades de fomento al desarrollo del Estado.
 
 III. Las demás que le señalen las leyes o que le asigne legalmente el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 32 Quáter.
+
+La Secretaría de Medio Ambiente y Ordenamiento Territorial es la dependencia encargada de propiciar el desarrollo sustentable, la preservación y restauración del equilibrio ecológico, así como regular las acciones tendientes a proteger el medio ambiente y la implementación de políticas públicas relativas a la ocupación y utilización del territorio y le competen las siguientes atribuciones:
+
+I.- En materia de Medio Ambiente:
+
+a) Aplicar y vigilar el cumplimiento de disposiciones legales en materia de ecología y de protección ambiental;
+
+b) Proponer al Gobernador del Estado las disposiciones jurídicas para la prevención y control de la contaminación, así como para la protección y conservación de los recursos naturales;
+
+c) Implementar, en el ámbito de su competencia, medidas y acciones para prevenir, controlar y restaurar los daños ocasionados por la contaminación del aire, suelo, sub suelo, agua y del ambiente en general;
+
+d) Promover la educación ambiental y la participación social y ciudadana en la preservación y restauración de los recursos naturales y la protección del ambiente;
+
+e) Promover la protección de los recursos de fauna y flora silvestres en el territorio del estado;
+
+f) Impulsar políticas transversales en la administración pública del Estado para fomentar en la comunidad la formación de actitudes y valores de protección ambiental y de conservación del patrimonio natural;
+
+g) Expedir las licencias, permisos y autorizaciones, derivado de los supuestos y procedimientos administrativos que se substancien con motivo de sus atribuciones;
+
+h) Conducir la política estatal de combate al cambio climático;
+
+i) Proponer el establecimiento de áreas naturales protegidas y promover para su administración y vigilancia, la participación de autoridades federales, municipales, universidades, centros de investigación y la sociedad civil en general;
+
+j) Fomentar el desarrollo y uso de la tecnología para la protección y en su caso, el aprovechamiento sustentable de los recursos naturales, así como para el uso de energías limpias;
+
+k) Elaborar estudios de riesgo ambiental y coordinar los estudios, trabajos y servicios meteorológicos y climatológicos, así como los estudios hidrológicos e hidrogeológicos que realice el organismo estatal del agua de Guanajuato;
+
+l) Coordinar y ejecutar proyectos de formación, capacitación y actualización dirigidos a la mejora de la gestión ambiental;
+
+m) Coadyuvar con las autoridades municipales en el diseño de programas que garanticen la prestación de los servicios públicos que protejan, y en su caso, remedien el daño al medio ambiente;
+
+n) Promover la determinación de criterios para el establecimiento de los estímulos fiscales y financieros para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
+
+ñ) Coordinar con los organismos competentes, la elaboración de los estudios geohidrológicos;
+
+o) Aplicar las sanciones previstas en las disposiciones legales en materia ambiental y promover la ejecución de las que correspondan a otras autoridades;
+
+II.- En materia de Ordenamiento Territorial:
+
+a) Formular, ejecutar y evaluar las políticas públicas de desarrollo urbano y ordenamiento territorial;
+
+b) Participar en la formulación, ejecución y evaluación del Programa Estatal de Desarrollo Urbano y Ordenamiento Ecológico Territorial;
+
+c) Asesorar y brindar apoyo a los ayuntamientos para la formulación e instrumentación de sus respectivos programas de ordenamiento territorial;
+
+d) Formular y emitir dictámenes de impacto urbano de los proyectos y obras públicas y privadas en los términos que fijen las disposiciones legales aplicables;
+
+e) Promover y otorgar asesoría y asistencia técnica a las autoridades municipales, en materia de desarrollo metropolitano, coordinación regional e intermunicipal, a efecto de fortalecer sus programas de desarrollo urbano, infraestructura y equipamiento urbano;
+
+f) Promover en el ámbito de su competencia, un desarrollo urbano ordenado de las comunidades y centros de población del estado, así como impulsar la organización de grupos y sectores sociales, a través de comisiones orientadas a estudiar y plantear soluciones en la materia;
+
+g) Participar en el ámbito de su competencia en la elaboración, planeación, ejecución, regulación y evaluación de las políticas, estrategias, programas y proyectos de inversión, en materia de desarrollo urbano, metropolitano, regional e intermunicipal que se establezca en el Plan Estatal de Desarrollo y los programas que de este deriven;
+
+h) Promover la celebración de convenios de colaboración con los municipios en materia urbana;
+
+i) Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos que se dispongan para tal efecto;
+
+j) Efectuar acciones tendientes a la regularización de la tenencia de la tierra en coordinación con los municipios;
+
+k) Promover el estudio y análisis de la situación en que se encuentran los diversos fraccionamientos y asentamientos humanos que existen en el estado;
+
+l) Promover y vigilar en coordinación con los ayuntamientos del Estado, el ordenamiento territorial y el desarrollo sostenible de los asentamientos humanos;
+
+m) Promover, apoyar y vigilar la ejecución de los programas de regularización de la tenencia de la tierra, con la participación de los municipios;
+
+n) Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos; y
+
+ñ) Establecer y vigilar el cumplimiento de los programas de adquisición de vivienda en coordinación, en su caso, con los ayuntamientos y promover el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa; y
+
+III.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 32 Quinquies.
+
+La Secretaría del Migrante y Enlace Internacional es la dependencia encargada de diseñar, proponer, coordinar, implementar, promover, difundir y evaluar políticas públicas sobre hospitalidad, interculturalidad, enlace internacional y la atención integral y respeto de los derechos de los migrantes, sus familias y sus comunidades de origen, con la colaboración de los diferentes actores en el proceso de desarrollo social, económico, cultural y político del Estado de Guanajuato, y le competen las siguientes atribuciones:
+
+I. En materia de migración:
+
+a) Diseñar y proponer el programa estatal de migración, hospitalidad e interculturalidad, así como ejercer las acciones que se contemplen en los convenios suscritos con las dependencias y entidades de la Administración Pública Federal, con otras entidades federativas, los municipios, organismos internacionales y la iniciativa privada, en esta materia;
+
+b) Concertar con los sectores social y privado para que coadyuven en la aplicación de la política y el programa estatal de migración, hospitalidad, e interculturalidad de orden estatal, nacional e internacional;
+
+c) Realizar estudios e investigaciones sobre migración, hospitalidad, e interculturalidad;
+
+d) Diseñar, e implementar políticas públicas para la atención integral de los migrantes de conformidad con la ley en materia de migrantes;
+
+e) Coordinarse con las dependencias y entidades de la administración pública estatal para la atención integral de los migrantes;
+
+f) Establecer mecanismos de evaluación de las políticas públicas en materia de migración de los guanajuatenses;
+
+g) Diseñar e implementar, con el apoyo de la Secretaría de Gobierno, un programa de promoción, procuración y defensa de los derechos humanos de migrantes;
+
+h) Establecer un subsistema de información sobre migración guanajuatense vinculado con el Sistema Estatal de Información Estadística y Geográfica, en términos de la Ley de Planeación para el Estado de Guanajuato;
+
+i) Ejercer las acciones que se contemplen en los convenios suscritos con las dependencias y entidades de la Administración Pública Federal, con otras entidades federativas, los municipios, organismos internacionales y la iniciativa privada, que conlleven al mejoramiento de las condiciones de vida de los migrantes;
+
+j) Coordinarse con los municipios para el establecimiento de acciones y programas en la atención y protección de los migrantes;
+
+k) Fortalecer los vínculos de la entidad con los migrantes guanajuatenses en el extranjero mediante programas de interés común;
+
+l) Promover, ejecutar, concertar y coordinar programas, obras y acciones que permitan el arraigo de los migrantes y sus familias en el estado, permitiéndoles incorporarse a sus comunidades de origen mediante el desarrollo económico regional, así como la difusión de nuestra historia, cultura, tradiciones y valores, que fortalezcan los vínculos entre las comunidades de guanajuatenses radicadas en el extranjero y sus descendientes;
+
+m) Generar, promover, implementar y evaluar proyectos con migrantes para el desarrollo de la Entidad;
+
+n) Vincular organismos públicos y privados, estatales, nacionales e internacionales, para la generación de proyectos a favor de los migrantes, sus familias y sus comunidades, promoviendo la creación de cadenas productivas, a fin de potenciar la producción empresarial de la comunidad migrante;
+
+ñ) Fomentar la comunicación permanente con clubes, federaciones y organizaciones de guanajuatenses radicados o que migran fuera del estado;
+
+o) Gestionar oficinas de atención a los migrantes guanajuatenses en diferentes ciudades del Estado, del país y del extranjero, de acuerdo a las necesidades de su operatividad y a la disponibilidad presupuestal, a efecto de consolidar el vínculo interinstitucional con sus comunidades y desarrollar acciones conjuntas en beneficio de los migrantes;
+
+p) Orientar a los migrantes en retorno acerca de las opciones de educación, empleo, salud y vivienda;
+
+q) Impulsar en coordinación con las autoridades competentes en la materia, estrategias integrales que permitan enfrentar los retos que presenta la migración de los guanajuatenses;
+
+r) Elaborar un padrón de aquellas empresas, patrones y contratistas que por su historial hayan alcanzado confiabilidad en la contratación de trabajadores para realizar labores en el extranjero; y
+
+s) Vincularse con las autoridades laborales y otras competentes, para obtener información en materia de contratación laboral en el extranjero;
+
+II.- En materia de Enlace Internacional:
+
+a) Llevar a cabo las relaciones internacionales del Estado de Guanajuato en el ámbito de su competencia de conformidad con la ley en materia de migrantes;
+
+b) Diseñar, dirigir y ejecutar las acciones de enlace internacional en materia de migración que permita consolidar la presencia del Estado de Guanajuato en el mundo, con base en los principios de cooperación internacional y corresponsabilidad global, favoreciendo la participación de actores no gubernamentales;
+
+c) Colaborar en las acciones que en el ámbito internacional realicen las dependencias y entidades de la Administración Pública Estatal;
+
+d) Celebrar convenios, acuerdos interinstitucionales y demás instrumentos, en el ámbito de su competencia y de acuerdo a los principios de la Política Exterior de México, que permitan contribuir sustantivamente a fortalecer la presencia e influencia del Estado de Guanajuato en el contexto internacional; y
+
+III.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
 
 ###### Artículo 33.
 
@@ -2046,3 +2204,37 @@ P.O. 18 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 328, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23, FRACCIÓN IV, INCISO F) Y SE ADICIONA AL ARTÍCULO 23, FRACCIÓN 1 (SIC), UN INCISO N) DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, ASIMISMO SE ADICIONA AL ARTÍCULO 16 UN TERCER PÁRRAFO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 332, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 13, FRACCIONES VIII Y XII; 22, FRACCIÓN II; 23, FRACCIÓN II, INCISO H) Y FRACCIÓN IV, INCISOS J), K) Y N); 24, FRACCIÓN VIII, INCISOS C), F) Y G); 28, FRACCIÓN I INCISO Q); 29 PÁRRAFO PRIMERO, Y FRACCIONES VI Y XVI; 30; SE ADICIONAN LOS ARTÍCULOS 13, CON LAS FRACCIONES XIII Y XIV, UBICANDO EL CONTENIDO DE LA ACTUAL FRACCIÓN XIII, COMO FRACCIÓN XV; 22, CON LAS FRACCIONES IV Y V; 28, FRACCIÓN I, CON UN INCISO V); 32 QUÁTER; Y 32 QUINQUIES; Y SE DEROGAN DEL ARTÍCULO 26, LA FRACCIÓN II Y DE LA FRACCIÓN V, LOS INCISOS D), E) Y F); 28, FRACCIÓN II; Y 29, FRACCIÓN IV, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de Gobierno del Estado.
+
+Artículo Segundo. A partir de la entrada en vigencia del presente decreto y para dar cumplimiento a la creación de las secretarías de Medio Ambiente y Ordenamiento Territorial; del Migrante y Enlace Internacional; y de Infraestructura, Conectividad y Movilidad, el Gobernador del Estado expedirá y adecuará los reglamentos y demás disposiciones necesarios para el cumplimiento del presente decreto, en un término que no exceda de ciento ochenta días. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente decreto, acorde a lo establecido en el artículo transitorio siguiente.
+
+Artículo Tercero. El Instituto Estatal de Ecología, Comisión de Vivienda del Estado de Guanajuato, e Instituto Estatal de Atención al Migrante Guanajuatense y sus Familias, transferirán a las secretarías de Medio Ambiente y Ordenamiento Territorial, y del Migrante y Enlace Internacional, según corresponda, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+El personal de las entidades paraestatales referidas en el párrafo que antecede, conforme a su situación laboral pasarán a integrar las nuevas secretarías de Medio Ambiente y Ordenamiento Territorial, y del Migrante y Enlace Internacional, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Por lo que hace a la Secretaría de Desarrollo Agroalimentario y Rural, Comisión Estatal del Agua de Guanajuato, Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato e Instituto de Planeación, Estadística y Geografía, transferirán solo los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuvieren encomendadas en las materias que se transfieran con motivo del presente Decreto y de las reformas a otros ordenamientos, a través de la entrega-recepción respectiva, y pasarán a ser competencia de las secretarías de Medio Ambiente y Ordenamiento Territorial, y, de Infraestructura, Conectividad y Movilidad, según corresponda.
+
+La Secretaría de Obra Pública se transformará en Secretaría de Infraestructura, Conectividad y Movilidad, para tal efecto, el Instituto de Movilidad del Estado de Guanajuato, trasferirá los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+Artículo Cuarto. Las secretarías de Medio Ambiente y Ordenamiento Territorial; del Migrante y Enlace Internacional; y de Infraestructura, Conectividad y Movilidad, sustituyen en su ámbito de competencia en todas sus obligaciones y asumen los compromisos adquiridos por las entidades paraestatales que les transfieran los asuntos en términos del artículo tercero transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Ecología y Comisión de Vivienda del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas de los demás ordenamientos.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Atención al Migrante Guanajuatense y sus Familias, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría del Migrante y Enlace Internacional a que alude el presente Decreto.
+
+Las referencias a la Secretaría de Obra Pública, y del Instituto de Movilidad del Estado de Guanajuato se entenderán referidas a la Secretaría de Infraestructura, Conectividad y Movilidad.
+
+Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos presupuestales a las Secretarías de Medio Ambiente y Ordenamiento Territorial; del Migrante y Enlace Internacional; y de Infraestructura, Conectividad y Movilidad para su adecuada operación.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega- Recepción (sic) para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Séptimo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto Estatal de Ecología, del Instituto de Movilidad del Estado de G uanajuatode (sic) la Comisión de Vivienda del Estado de G uanajuatoy (sic) del Instituto Estatal de Atención al Migrante G uanajuatenseDicho (sic) dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
+
+Los asuntos que se encuentren en trámite al momento de la extinción de las entidades referidas en este artículo, serán resueltos por las secretarías correspondientes.
