@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109822"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-11"
-last_updated: "2015-10-02"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "GUA"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGENCIA EL 1 DE ENERO DE 2016.</small>
-
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de septiembre de 2015.
 
@@ -1099,7 +1097,9 @@ VIII. El titular del Instituto Guanajuatense para las Personas con Discapacidad;
 
 IX. El Titular del Instituto de la Juventud Guanajuatense;
 
-X. El Titular del Instituto del Migrante Guanajuatense y su Familia;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+X. El Titular de la Secretaría del Migrante y Enlace Internacional;
 
 XI. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
 
@@ -1300,3 +1300,21 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 338, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1; 2, FRACCIÓN III; 4; 9; 10; 11, FRACCIONES I, II, IV Y V; 12; 13, FRACCIONES I Y VI; 14; 24; 26; 27, PÁRRAFO PRIMERO Y 28; SE ADICIONAN LOS ARTÍCULOS 2, CON LAS FRACCIONES IV Y V, REUBICÁNDOSE EL CONTENIDO DE LA ACTUAL FRACCIÓN IV, COMO VI; UN CAPÍTULO III, DENOMINADO "CONSEJO CONSULTIVO DE MIGRACIÓN", QUE SE INTEGRA CON LOS ARTÍCULOS 16 BIS, Y 16 TER, 16 QUÁTER, Y 16 QUINQUIES, RECORRIÉNDOSE EN SU ORDEN EL ACTUAL CAPÍTULO III, PARA UBICARSE COMO CAPÍTULO IV; 27 BIS; UN CAPÍTULO V, DENOMINADO "PROGRAMAS Y ACCIONES DE HOSPITALIDAD E INTERCULTURALIDAD", QUE SE INTEGRA CON LOS ARTÍCULOS 27 TER, Y 27 QUÁTER Y UN CAPÍTULO VI, DENOMINADO "PRESENCIA DE GUANAJUATO EN EL MUNDO", QUE SE INTEGRA CON EL ARTÍCULO 27 QUINQUIES, RECORRIÉNDOSE EN SU ORDEN EL ACTUAL CAPÍTULO IV, PARA UBICARSE COMO CAPÍTULO VII, Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 11, TODOS ELLOS DE LA LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia el 26 de septiembre de 2018, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. El Gobernador del Estado expedirá el Reglamento de la Ley para la Protección y Atención del Migrante y sus Familias del Estado de Guanajuato, así como las adecuaciones normativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contados a partir de la constitución de la Secretaría del Migrante y Enlace Internacional.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Quinto. El Gobernador del Estado expedirá el Programa Estatal de Migración, Hospitalidad, e Interculturalidad, en un plazo que no exceda de ciento ochenta días, contados a partir de la constitución de la Secretaría del Migrante y Enlace Internacional.
