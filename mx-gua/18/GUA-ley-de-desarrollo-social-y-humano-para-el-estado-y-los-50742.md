@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-social-y-humano-para-el-estado-y-los-50742"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-02"
-last_updated: "2015-09-25"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de junio de 2006.
 
@@ -159,7 +161,7 @@ V. Incluir anualmente en la iniciativa de Ley del Presupuesto General de Egresos
 
 La Secretaría tendrá las siguientes atribuciones:
 
-l. Operar el Sistema Estatal y los programas de desarrollo social y humano en el Estado, en coordinación con las dependencias y entidades de la administración pública estatal relacionadas con la materia, de conformidad con lo establecido en la Ley de Planeación para el Estado de Guanajuato;
+I. Operar el Sistema Estatal y los programas de desarrollo social y humano en el Estado, en coordinación con las dependencias y entidades de la administración pública estatal relacionadas con la materia, de conformidad con lo establecido en la Ley de Planeación para el Estado de Guanajuato;
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -283,7 +285,7 @@ X. Subsidiaridad: Reconocimiento, aprovechamiento y complementación de las capa
 
 Las políticas públicas tendrán los siguientes objetivos:
 
-l. Propiciar las condiciones que aseguren el disfrute de los derechos individuales y sociales, garantizando el acceso a los programas de desarrollo social y humano y la igualdad de oportunidades, así como el abatimiento de la discriminación y la exclusión social;
+I. Propiciar las condiciones que aseguren el disfrute de los derechos individuales y sociales, garantizando el acceso a los programas de desarrollo social y humano y la igualdad de oportunidades, así como el abatimiento de la discriminación y la exclusión social;
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -357,7 +359,9 @@ II. Las campañas de prevención y control de enfermedades transmisibles y los p
 
 III. Los programas dirigidos a las personas en condiciones de pobreza, preferentemente de alta y muy alta marginación o en situación de vulnerabilidad;
 
-IV. Los programas dirigidos a los migrantes y sus familias;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Los programas en las materias de hospitalidad, interculturalidad y migración;
 
 V. Los programas dirigidos a zonas de atención prioritaria;
 
@@ -441,7 +445,7 @@ Los municipios serán entes primordiales en la ejecución de los programas de de
 
 La distribución del gasto social con el que se financiará el desarrollo social y humano se sujetará a los siguientes criterios:
 
-l. Estará orientada a la promoción de un desarrollo regional y microregional equilibrado;
+I. Estará orientada a la promoción de un desarrollo regional y microregional equilibrado;
 
 II. Se basará en indicadores medibles y verificables de los servicios sociales, y
 
@@ -557,7 +561,7 @@ VII. Las demás que le encomiende la Secretaría y las que se señalen en esta L
 
 El Consejo estará integrado por:
 
-l. Un Presidente que será el Titular de la Secretaría;
+I. Un Presidente que será el Titular de la Secretaría;
 
 II. Un Secretario Ejecutivo designado por el Titular de la Secretaría, y
 
@@ -738,3 +742,19 @@ P.O. 25 DE SEPTIEMBRE DE 2015.
 Inicio de vigencia
 
 Artículo Único. El Artículo Segundo de este Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 338, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1; 2, FRACCIÓN III; 4; 9; 10; 11, FRACCIONES I, II, IV Y V; 12; 13, FRACCIONES I Y VI; 14; 24; 26; 27, PÁRRAFO PRIMERO Y 28; SE ADICIONAN LOS ARTÍCULOS 2, CON LAS FRACCIONES IV Y V, REUBICÁNDOSE EL CONTENIDO DE LA ACTUAL FRACCIÓN IV, COMO VI; UN CAPÍTULO III, DENOMINADO "CONSEJO CONSULTIVO DE MIGRACIÓN", QUE SE INTEGRA CON LOS ARTÍCULOS 16 BIS, Y 16 TER, 16 QUÁTER, Y 16 QUINQUIES, RECORRIÉNDOSE EN SU ORDEN EL ACTUAL CAPÍTULO III, PARA UBICARSE COMO CAPÍTULO IV; 27 BIS; UN CAPÍTULO V, DENOMINADO "PROGRAMAS Y ACCIONES DE HOSPITALIDAD E INTERCULTURALIDAD", QUE SE INTEGRA CON LOS ARTÍCULOS 27 TER, Y 27 QUÁTER Y UN CAPÍTULO VI, DENOMINADO "PRESENCIA DE GUANAJUATO EN EL MUNDO", QUE SE INTEGRA CON EL ARTÍCULO 27 QUINQUIES, RECORRIÉNDOSE EN SU ORDEN EL ACTUAL CAPÍTULO IV, PARA UBICARSE COMO CAPÍTULO VII, Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 11, TODOS ELLOS DE LA LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia el 26 de septiembre de 2018, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. El Gobernador del Estado expedirá el Reglamento de la Ley para la Protección y Atención del Migrante y sus Familias del Estado de Guanajuato, así como las adecuaciones normativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contados a partir de la constitución de la Secretaría del Migrante y Enlace Internacional.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Quinto. El Gobernador del Estado expedirá el Programa Estatal de Migración, Hospitalidad, e Interculturalidad, en un plazo que no exceda de ciento ochenta días, contados a partir de la constitución de la Secretaría del Migrante y Enlace Internacional.
