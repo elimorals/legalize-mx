@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-planeacion-para-el-estado-de-guanajuato-84262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-27"
-last_updated: "2013-06-07"
+last_updated: "2018-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE PLANEACION PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PLANEACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, martes 27 de diciembre de 2011.
 
@@ -85,19 +87,33 @@ II. La promoción del desarrollo integral del Estado y sus municipios con visió
 
 III. La consolidación del sistema democrático, impulsando la participación activa de la sociedad en la planeación y ejecución de las actividades de gobierno;
 
-IV. La igualdad de derechos y el mejoramiento de la calidad de vida de los habitantes del Estado, mediante el crecimiento armónico y permanente en el ámbito social económico y político;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-V. La mejora continua de la administración pública estatal y municipal; y
+IV. El mejoramiento de la calidad de vida de los habitantes del Estado, mediante el crecimiento armónico y permanente en el ámbito social, económico y político;
 
-VI. El uso racional de los recursos naturales y del territorio del Estado.
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+V. La perspectiva de género e interculturalidad; así como la promoción, el respeto y la protección de los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VI. La estabilidad de las finanzas públicas para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo en la entidad;
+
+VII. La mejora continua de la administración pública estatal y municipal; y
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. El uso racional, sustentable y sostenible de los recursos naturales y del territorio del Estado.
 
 ###### Artículo 5.
 
 Los planes y programas a que se refiere esta Ley especificarán los mecanismos de coordinación y concertación entre el Poder Ejecutivo del Estado, el Poder Ejecutivo federal, los ayuntamientos y la sociedad.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 6.
 
-El Poder Ejecutivo convocará a los integrantes de los otros poderes del Estado en el proceso de planeación a efecto de evaluar y, en su caso, incorporar sus propuestas para el desarrollo de la entidad.
+El Poder Ejecutivo convocará a los integrantes de los otros Poderes del Estado y a los organismos con autonomía reconocida por la Constitución Política para el Estado de Guanajuato, en el proceso de planeación a efecto de evaluar y, en su caso, incorporar sus propuestas para el desarrollo de la entidad.
 
 ###### Artículo 7.
 
@@ -177,13 +193,17 @@ III. Asegurar la congruencia del Plan Estatal de Desarrollo con la planeación n
 
 IV. Participar en los procesos de planeación del desarrollo inter estatal;
 
-V. Actualizar de manera conjunta con la Secretaría de Desarrollo Social y Humano, el programa estatal de desarrollo urbano y de ordenamiento ecológico territorial;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+V. Actualizar de manera conjunta con la Secretaría de Medio Ambiente y Ordenamiento Territorial, el programa estatal de desarrollo urbano y de ordenamiento ecológico territorial;
 
 VI. Vigilar el cumplimiento de las políticas de desarrollo urbano y de ordenamiento ecológico territorial, con visión de largo plazo;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Elaborar, actualizar, dar seguimiento y evaluar del (sic) Programa de Gobierno del Estado y de los programas derivados del mismo;
+VII. Elaborar, actualizar, dar seguimiento y evaluar el Programa de Gobierno del Estado y de los programas derivados del mismo.
+
+Para tal efecto, dichos instrumentos deberán señalar su alineación a las líneas, los objetivos y las estrategias contenidos en el Plan Estatal de Desarrollo;
 
 VIII. Promover la celebración de convenios para el logro de los objetivos del desarrollo integral de la entidad;
 
@@ -257,9 +277,11 @@ IX. Propiciar vínculos de coordinación con otras estructuras de planeación pa
 
 X. Las demás que señale el reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 21.
 
-Para la integración y funcionamiento de los consejos regionales, sectoriales y especiales deberán observarse los criterios de pluralidad, representatividad y especialidad. En el reglamento de esta Ley se determinarán los procedimientos para su integración y funcionamiento.
+Para la integración y funcionamiento de los consejos regionales, sectoriales y especiales deberán observarse los criterios de pluralidad, equidad de género, representatividad y especialidad. En el reglamento de esta Ley se determinarán los procedimientos para su integración y funcionamiento.
 
 ### Capítulo V. Comisiones de conurbación o comisiones metropolitanas
 
@@ -285,7 +307,21 @@ El sistema de planeación contará con los siguientes instrumentos:
 
 I. Plan Estatal de Desarrollo:
 
-A. Programa estatal de desarrollo urbano y de ordenamiento ecológico territorial;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+A. Programa estatal de desarrollo urbano y de ordenamiento ecológico territorial:
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+a) Programas regionales para cada región a que se refiere el reglamento de la Ley de Planeación para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+b) Programas metropolitanos.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+c) Programas parciales.
 
 B. Programa de Gobierno del Estado:
 
@@ -299,19 +335,31 @@ B. Programa de Gobierno del Estado:
 
 5. Programas operativos anuales;
 
-C. Programas de desarrollo urbano y de ordenamiento ecológico territorial de áreas conurbadas o zonas metropolitanas; y
+C. (DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 D. Planes municipales de desarrollo:
 
-1. Programa municipal de desarrollo urbano y de ordenamiento ecológico territorial; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+1. Programa municipal de desarrollo urbano y de ordenamiento ecológico territorial:
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+1.1. Programas parciales.
 
 2. Programas de gobierno municipal:
 
 a) Programas derivados del programa de gobierno municipal.
 
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 24 bis. Los instrumentos del sistema de planeación deberán contener, por lo menos, un diagnóstico general sobre la problemática que buscan atender, los objetivos específicos y su contribución al logro de las metas del Plan Estatal o Municipal de Desarrollo, las estrategias y líneas de acción que permitan alcanzar los objetivos del programa, así como los indicadores de desempeño que permitan su monitoreo, evaluación y actualización.
+
+> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 25.
 
-El Plan Estatal de Desarrollo contendrá los objetivos y estrategias sectoriales y regionales para el desarrollo de la entidad por un periodo de al menos veinticinco años, deberá concluir su evaluación y actualización en el quinto año de la administración en turno, garantizando la concordancia con el Plan Nacional de Desarrollo.
+El Plan Estatal de Desarrollo contendrá un diagnóstico general de los temas prioritarios para el Estado, los objetivos y estrategias sectoriales y regionales para el desarrollo de la entidad por un periodo de al menos veinticinco años, e indicadores de desempeño que permitan su monitoreo, evaluación y actualización en el quinto año de la administración en turno, garantizando la concordancia con el Plan Nacional de Desarrollo.
 
 El Plan Estatal de Desarrollo deberá ser aprobado por el Ejecutivo del Estado.
 
@@ -399,6 +447,24 @@ Deberá además integrar información relacionada con los planes y programas fed
 
 Asimismo, se incorporarán informes y documentos relevantes derivados de actividades científicas, académicas, trabajos técnicos o de cualquier índole en materia de desarrollo urbano y ordenamiento ecológico territorial, realizados en el Estado por personas físicas o morales, nacionales o extranjeras.
 
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo 41 bis. El Sistema Estatal de Información Estadística y Geográfica cuenta con los siguientes Subsistemas:
+
+I. El Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano, en el que se incluirán, entre otras, la información de los siguientes inventarios, de conformidad con el Código Territorial para el Estado y los Municipios de Guanajuato:
+
+a) Inventario Estatal Forestal y de Suelos.
+
+b) Inventario de Áreas Naturales Protegidas.
+
+c) Inventario de especies vegetales nativas.
+
+d) Inventario Habitacional y de Suelo para Vivienda.
+
+II. El Subsistema Estatal de Información sobre Cambio Climático.
+
+III. Cualquier otro Subsistema previsto en el reglamento de esta Ley y otros ordenamientos jurídicos aplicables.
+
 ###### Artículo 42.
 
 La información que se genere a través del sistema de información será oficial y de uso obligatorio para el Estado y sus municipios conforme a lo establecido en la Ley del Sistema Nacional de Información Estadística y Geográfica.
@@ -463,7 +529,9 @@ En los convenios para concertar la realización de acciones se establecerán las
 
 Los servidores públicos en el ejercicio de sus funciones deberán observar lo dispuesto en esta Ley, en los planes y en los programas que se mencionan en la misma.
 
-La infracción o lo establecido en el párrafo anterior será causa de responsabilidad administrativa, en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y de la Ley Orgánica Municipal para el Estado de Guanajuato.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+La infracción a lo establecido en el párrafo anterior será causa de responsabilidad administrativa, en los términos de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
 ## Transitorios
 
@@ -506,3 +574,35 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 341, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4o. PRIMER PÁRRAFO Y FRACCIONES VIII Y XVIII; 5o. PÁRRAFO PRIMERO Y FRACCIÓN III; 80 (SIC). EN SU PRIMER PÁRRAFO; 9 FRACCIÓN VI; 27 PÁRRAFO SEGUNDO; 29 EN SU PRIMER PÁRRAFO; 31 PRIMER PÁRRAFO; 33 PRIMER PÁRRAFO Y FRACCIÓN II; 35 EN SU PRIMER Y ÚLTIMO PÁRRAFOS; 36; 37; 38 PRIMER PÁRRAFO; 39 PRIMER PÁRRAFO; 40; 41 PRIMER Y ÚLTIMO PÁRRAFOS, Y FRACCIÓN II; 42 PRIMER PÁRRAFO; 43 SEGUNDO PÁRRAFO; 48 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 63; 64; 69; 108 EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO; 114 PÁRRAFOS PRIMERO Y TERCERO; 115 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, Y FRACCIONES III Y IV EN SUS INCISOS B), E), F), G) Y H); 117 FRACCIÓN II; 118 EN SU PRIMER PÁRRAFO; 132 PRIMER PÁRRAFO; 149 EN SU PRIMER PÁRRAFO; 152; 154 PRIMER PÁRRAFO; 156 EN SU PRIMER PÁRRAFO; Y 177 EN SU PÁRRAFO PRIMERO. Y SE DEROGAN EL TERCER PÁRRAFO DEL ARTÍCULO 156; Y LOS ARTÍCULOS 157 Y 158, TODOS DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las disposiciones que se reforman o derogan mediante el presente Decreto, continuarán su trámite hasta su conclusión, de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Cuarto. En tanto se crea la Secretaría de Medio Ambiente y Ordenamiento Territorial, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
+
+Artículo Quinto. El Instituto Estatal de Ecología y la Comisión de Vivienda del Estado de Guanajuato, transferirán a la Secretaría de Medio Ambiente y Ordenamiento Territorial, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones, a través de la entrega-recepción respectiva.
+
+El personal de las entidades paraestatales referidas en el párrafo que antecede, conforme a su situación laboral pasarán a integrar la nueva Secretaría de Medio Ambiente y Ordenamiento Territorial, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Por lo que hace a las secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano, la Comisión Estatal del Agua de Guanajuato, el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato y el Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato, transferirán sólo los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuvieren encomendadas en las materias que se transfieran con motivo del presente Decreto y de las reformas a otros ordenamientos, a través de la entrega-recepción respectiva, y pasarán a ser competencia de la Secretaría de Medio Ambiente y Ordenamiento Territorial.
+
+Artículo Sexto. La Secretaría de Medio Ambiente y Ordenamiento Territorial sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales y secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Ecología, Comisión de Vivienda de Guanajuato, e Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas a los demás ordenamientos.
+
+Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Artículo Octavo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto Estatal de Ecología y de la Comisión de Vivienda del Estado de Guanajuato. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
+
+Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
