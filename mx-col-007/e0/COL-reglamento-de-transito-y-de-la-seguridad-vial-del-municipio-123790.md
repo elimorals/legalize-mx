@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-transito-y-de-la-seguridad-vial-del-municipio-123
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-30"
-last_updated: "2018-08-04"
+last_updated: "2018-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE MANZANILLO, COLIMA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 04 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en el Suplemento No. 1 al Número 62 del Periódico Oficial del Estado de Colima, el sábado 30 de septiembre de 2017.
 
@@ -224,6 +224,14 @@ y. Puentes peatonales.- Las estructuras aéreas para el paso sobre vialidades qu
 z. Rampas para personas con discapacidad.- Las pendientes que integran a la banqueta con el nivel de la calle y tienen correspondencia con los cruces peatonales;
 
 aa. Sitio.- Los lugares donde los vehículos concesionados al servicio público, ejercen un punto de reunión para efectuar la prestación del servicio de transporte de carga o pasaje.
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
+
+XLVI. REPUVE.- El Registro Público Vehicular;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
+
+XLVII. Chip REPUVE.- La constancia de inscripción, consistente en una calcomanía con un dispositivo electrónico que acreditará el registro del vehículo en el Registro Público Vehicular y no podrá ser retirada de éste. El dispositivo electrónico contendrá un elemento intransferible conocido como identificación por radiofrecuencia, que contendrá los datos básicos del registro, y deberá conservarse adherida en el cristal delantero del vehículo.
 
 Para todos los efectos legales a que diere lugar, cuando el presente ordenamiento haga referencia a los vocablos persona, individuo u hombre, incluyendo su respectivo plural, así como la calidad de su función, se entenderá indistintamente al género femenino o masculino. De igual forma, cuando sea el caso de denominaciones a cargos públicos, se enunciarán en el género femenino o masculino que corresponda con el propio de quienes los ocupen o desempeñen.
 
@@ -1047,9 +1055,19 @@ IV.- Oficiales: Son aquellos que pertenecen a entidades gubernamentales o Depend
 
 V.- Servicio social: Son aquellos que realicen actividades de emergencia o asistencia social para instituciones u organismos oficiales o privados.
 
-### CAPÍTULO SÉPTIMO. DEL EQUIPAMIENTO VEHICULAR
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO OCTAVO. DE LA (SIC) MEDIDAS DE PROTECCIÓN DEL MEDIO AMBIENTE
+### CAPÍTULO SEXTO BIS. DE LA CIRCULACIÓN Y REVISIÓN DE VEHÍCULOS
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 66 BIS.- Los vehículos de motor de cualquier tipo o clase, según sea el caso, para poder circular por las vías públicas del Municipio, deberán estar provistos de placas de circulación vigentes al frente y en la parte posterior, tarjeta de circulación, calcomanía fiscal vehicular vigente; además, deberán estar inscritos en el Registro Público Vehicular, llevando adherido el chip o constancia de inscripción en dicho registro en el cristal delantero del vehículo, consistente en una calcomanía con un dispositivo electrónico que contiene un elemento intransferible de identificación por radiofrecuencia y con los datos básicos del registro; así como reunir las condiciones físicas y mecánicas requeridas por este Reglamento.
+
+La falta de cumplimiento de las disposiciones señaladas en el presente artículo será motivo de infracción vial.
+
+En relación a los vehículos que no lleven adherido el Chip REPUVE, se apercibirá al infractor únicamente durante los primeros treinta días posteriores a la instalación de los arcos lectores del mismo; pasando el referido término se aplicará la infracción establecida.
+
+### CAPÍTULO SÉPTIMO. DEL EQUIPAMIENTO VEHICULAR
 
 ###### ARTÍCULO 67.
 
@@ -1185,9 +1203,7 @@ Se prohíbe la instalación de faros, equipo de iluminación o reflectores adici
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2018)</small>
 
-### CAPÍTULO NOVENO. DE LAS LICENCIAS PARA CONDUCIR
-
-OBLIGATORIEDAD DE PORTAR LICENCIA
+### CAPÍTULO OCTAVO. DE LA (SIC) MEDIDAS DE PROTECCIÓN DEL MEDIO AMBIENTE
 
 ###### ARTÍCULO 69.
 
@@ -1219,7 +1235,9 @@ b. Haber pagado la multa por infracción cometida; y
 
 c. Cubrir los gastos ocasionados por retiro de la unidad y aseguramiento.
 
-### CAPÍTULO DÉCIMO. DE LAS SEÑALES PARA EL CONTROL DE TRÁNSITO
+### CAPÍTULO NOVENO. DE LAS LICENCIAS PARA CONDUCIR
+
+OBLIGATORIEDAD DE PORTAR LICENCIA
 
 ###### ARTÍCULO 74.
 
@@ -1249,9 +1267,7 @@ Para asegurar el pago de infracciones cometidas por automovilistas de otra entid
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LOS OBSTÁCULOS AL TRÁNSITO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+### CAPÍTULO DÉCIMO. DE LAS SEÑALES PARA EL CONTROL DE TRÁNSITO
 
 ###### ARTÍCULO 80.
 
@@ -1357,7 +1373,7 @@ V. Colocará banderas o dispositivos de seguridad (en la noche, deberán tener l
 
 Los conductores podrán instalar en la parte posterior de los vehículos, señales adicionales a las establecidas en este ordenamiento, siempre que no resulten contradictorias a sus disposiciones, o entorpezcan la visibilidad posterior del conductor, o que por su materia produzcan efectos reflectores o afecte la visibilidad.
 
-> <small>(REFORMADA SU DENONMINACIÓN, P.O. 27 DE ENERO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2018)</small>
 
 DE LAS SEÑALES AUDITIVAS O SONORA (SIC)
 
@@ -1759,7 +1775,9 @@ El personal del Ayuntamiento cuando ejecuten obras de cualquier tipo en la vía 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2018)</small>
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LOS LÍMITES DE VELOCIDAD
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS OBSTÁCULOS AL TRÁNSITO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 132.
 
@@ -1769,9 +1787,7 @@ En consecuencia no se podrá depositar, en la vía pública, materiales de const
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2018)</small>
 
-### CAPÍTULO DÉCIMO TERCERO. DE LA PREFERENCIA DE PASO A VEHÍCULOS DE EMERGENCIA Y PREVENTIVOS
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+### CAPÍTULO DÉCIMO SEGUNDO. DE LOS LÍMITES DE VELOCIDAD
 
 ###### ARTÍCULO 133.
 
@@ -1851,11 +1867,9 @@ Cuando el agente de policía vial verifique a través del radar o el tacómetro 
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
-### CAPÍTULO DÉCIMO CUARTO. DE LA CIRCULACIÓN VEHICULAR
+### CAPÍTULO DÉCIMO TERCERO. DE LA PREFERENCIA DE PASO A VEHÍCULOS DE EMERGENCIA Y PREVENTIVOS
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
-
-DE LAS PROHIBICIONES DE OBSTRUIR LAS INTERSECCIONES CUANDO NO HAYA ESPACIO SUFICIENTE
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 142.
 
@@ -1875,7 +1889,11 @@ Los vehículos de seguridad pública y de emergencia, podrán estacionarse en la
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
-### CAPÍTULO DÉCIMO QUINTO. DE LAS VUELTAS
+### CAPÍTULO DÉCIMO CUARTO. DE LA CIRCULACIÓN VEHICULAR
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
+DE LAS PROHIBICIONES DE OBSTRUIR LAS INTERSECCIONES CUANDO NO HAYA ESPACIO SUFICIENTE
 
 ###### ARTÍCULO 146.
 
@@ -2041,11 +2059,7 @@ II. Para cambiar la dirección deberá usar la luz direccional o en su defecto d
 
 III. Las luces direccionales deberán de emplearse para indicar cambios de dirección, y durante paradas momentáneas o de estacionamiento de emergencia. También podrán usarse como advertencia, debiendo preferirse en éstas últimas situaciones, las luces intermitentes de destello.
 
-### CAPÍTULO DÉCIMO SEXTO. DEL ESTACIONAMIENTO EN LA VÍA PÚBLICA
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
-
-DEL ESTACIONAMIENTO
+### CAPÍTULO DÉCIMO QUINTO. DE LAS VUELTAS
 
 ###### ARTÍCULO 164.
 
@@ -2179,7 +2193,11 @@ En caso de desarrollarse algún hecho de tránsito terrestre por la realización
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
-### CAPÍTULO DÉCIMO SÉPTIMO. DEL TRANSPORTE DE CARGA
+### CAPÍTULO DÉCIMO SEXTO. DEL ESTACIONAMIENTO EN LA VÍA PÚBLICA
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
+DEL ESTACIONAMIENTO
 
 ###### ARTÍCULO 179.
 
@@ -2315,9 +2333,7 @@ Los talleres o negocios que cuenten con el registro del giro mercantil correspon
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
-### CAPÍTULO DÉCIMO OCTAVO. DE LA EDUCACIÓN E INFORMACIÓN VIAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+### CAPÍTULO DÉCIMO SÉPTIMO. DEL TRANSPORTE DE CARGA
 
 ###### ARTÍCULO 188.
 
@@ -2601,7 +2617,9 @@ Queda estrictamente prohibido, pintar el machuelo de la acera o banqueta de la v
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
-### CAPÍTULO DÉCIMO NOVENO. DE LA PRESERVACIÓN ECOLOGÍA Y PROTECCIÓN DEL MEDIO AMBIENTE
+### CAPÍTULO DÉCIMO OCTAVO. DE LA EDUCACIÓN E INFORMACIÓN VIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 203.
 
@@ -2691,11 +2709,13 @@ El Ayuntamiento dentro de su ámbito de competencia, procurará coordinarse con 
 
 DE LA INFORMACIÓN SOBRE EL ESTADO DE LA VIALIDAD
 
-ARTíCULO 210.- Con objeto de informar a la ciudadanía sobre el estado que guarda la vialidad en las horas de mayor intensidad en el tránsito, el Ayuntamiento se coordinará con las autoridades competentes y celebrará acuerdos de concertación con empresas concesionarias de radio y televisión para que se difundan masivamente los boletines respectivos.
+###### ARTÍCULO 210.
+
+Con objeto de informar a la ciudadanía sobre el estado que guarda la vialidad en las horas de mayor intensidad en el tránsito, el Ayuntamiento se coordinará con las autoridades competentes y celebrará acuerdos de concertación con empresas concesionarias de radio y televisión para que se difundan masivamente los boletines respectivos.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
-### CAPÍTULO VIGÉSIMO. DE LOS HECHOS DE TRÁNSITO
+### CAPÍTULO DÉCIMO NOVENO. DE LA PRESERVACIÓN ECOLOGÍA Y PROTECCIÓN DEL MEDIO AMBIENTE
 
 ###### ARTÍCULO 211.
 
@@ -2767,7 +2787,7 @@ Los propietarios o poseedores de vehículos serán responsables de mantener cerr
 
 La Dirección Operativa de Policía Vial promoverá campañas informativas y de concientización para que los conductores conozcan los puntos claves de seguridad que deben ser sujetos de revisión en un automóvil, y fomentar una cultura de revisión mecánico-preventiva y de mantenimiento en los vehículos para transporte seguro de los usuarios y preservación del ambiente.
 
-### CAPÍTULO VIGÉSIMO PRIMERO. DE LAS OBLIGACIONES DE LOS AGENTES
+### CAPÍTULO VIGÉSIMO. DE LOS HECHOS DE TRÁNSITO
 
 ###### ARTÍCULO 226.
 
@@ -2897,9 +2917,7 @@ DEL RETIRO DE VEHÍCULOS IMPLICADOS POR ACCIDENTES EN LA VÍA PÚBLICA
 
 Los conductores de los vehículos implicados en accidentes tendrán la obligación de retirarlos de la vía pública, una vez que la autoridad competente lo disponga, para evitar otros accidentes, así como los residuos o cualquier otro material que se hubiese esparcido en ella.
 
-### CAPÍTULO VIGÉSIMO SEGUNDO. DE LOS PERITOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+### CAPÍTULO VIGÉSIMO PRIMERO. DE LAS OBLIGACIONES DE LOS AGENTES
 
 ###### ARTÍCULO 233.
 
@@ -2977,7 +2995,9 @@ g. Una vez terminados el acta y el croquis deberán de ser supervisados por sus 
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
-### CAPÍTULO VIGÉSIMO TERCERO. DE LOS RECURSOS
+### CAPÍTULO VIGÉSIMO SEGUNDO. DE LOS PERITOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 237.
 
@@ -3469,6 +3489,8 @@ Cuando el infractor, en uno o en varios hechos viole varias disposiciones de és
 
 Las infracciones a este Reglamento no previstas en los códigos del tabulador, se sancionarán con multas por cinco unidades como mínimo y diez días como máximo. Para los ciclistas las multas serán de una unidad de salario mínimo y dos como máximo.
 
+### CAPÍTULO VIGÉSIMO TERCERO. DE LOS RECURSOS
+
 ###### ARTÍCULO 272.
 
 Toda inconformidad de los particulares derivada de la aplicación del presente ordenamiento podrá ser combatida mediante la interposición de los recursos de inconformidad y revisión, previstos en el Título Cuarto de la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
@@ -3505,7 +3527,7 @@ TABULADOR DE SANCIONES DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MU
 
 > <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 30 DE SEPTIEMBRE DE 2017, PAGINAS DE LA 74 A LA 79.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR, P.O. 27 DE ENERO DE 2018, PÁGINA 18.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR, P.O. 27 DE ENERO DE 2018, PÁGINA 18; P.O. 22 DE SEPTIEMBRE DE 2018, PÁGINA 18.]</small>
 
 Expuesto lo anterior, con fundamento en el Artículo 115 Fracción II de la Constitución Política de los Estados Unidos Mexicanos, 87 Fracción II y 89 Fracción II de la Particular del Estado Libre y Soberano de Colima, de los Artículos 1, 2, 25, 37, 42, 45 Fracción I, Inciso a) y 116 de la Ley del Municipio Libre del Estado de Colima; de los Artículos 1, 2, 4, 89 Párrafos Primero, Segundo y Cuarto, 92, 96 Fracción I; 97 Fracciones I y IV, 98 Fracción I, 99 Fracción IV, y 100 Fracciones I y II Incisos b), c) y d) del Reglamento que Rige el Funcionamiento del Cabildo de Manzanillo, Colima; las Comisiones de Gobernación y Reglamentos, y de Seguridad Pública y Transportes, tienen a bien emitir el siguiente:
 
@@ -3550,3 +3572,7 @@ SEGUNDO.- Siendo Aprobado el mismo, se proceda a su publicación para su entrada
 P.O. 4 DE AGOSTO DE 2018.
 
 > <small>[N. DE E. EL “ACUERDO QUE REFORMA EL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE MANZANILLO, COLIMA, CONSISTENTE EN LA DEROGACIÓN DE LOS ARTÍCULOS 12, 21, 22, 24, 31 Y 62 FRACCIONES XII Y XXII, 68 FRACCIÓN VIII, 70, 74, 75, 77 Y 78.”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.]</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2018.
+
+> <small>[N. DE E. EL "ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE MANZANILLO, COLIMA, CON LA ADICIÓN DE LAS FRACCIONES XLVI Y XLVII AL ARTÍCULO 3, DE UN CAPÍTULO SEXTO BIS DENOMINADO DE LA CIRCULACIÓN Y REVISIÓN DE VEHÍCULOS Y DEL CÓDIGO DE INFRACCIÓN 147", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.]</small>
