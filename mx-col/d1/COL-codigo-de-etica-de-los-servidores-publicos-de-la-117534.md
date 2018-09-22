@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-etica-de-los-servidores-publicos-de-la-117534"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-11-10"
-last_updated: "2016-11-10"
+last_updated: "2018-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE EXPIDEN EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LOS SERVIDORES PÚBLICOS A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Código publicado en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el jueves 10 de noviembre de 2016.
 
@@ -166,3 +168,23 @@ ANDRÉS GERARDO GARCÍA NORIEGA
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDEN EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LOS SERVIDORES PÚBLICOS A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Acuerdo por el que se expiden el Código de Ética, las Reglas de Integridad, y los Lineamientos Generales para los Servidores Públicos de la Administración Pública del Estado de Colima, publicado en el Periódico Oficial "El Estado de Colima", el día 10 de noviembre de 2016.
+
+TERCERO. Los Comités de Ética y de Prevención de Conflictos de Interés continuarán en funcionamiento, debiendo observar lo dispuesto por el presente Acuerdo.
+
+CUARTO. La Contraloría General, las dependencias y entidades llevarán a cabo las acciones que permitan la implementación del presente Acuerdo.
+
+QUINTO. En tanto entré en vigor el Protocolo para Prevenir, Atender y Sancionar el Hostigamiento y Acoso Sexual en el Estado de Colima a que hace referencia el presente Acuerdo, los procedimientos de denuncia de Hostigamiento y Acoso Sexual se atenderán y resolverán conforme a lo previsto en los Lineamientos generales para propiciar la integridad de los servidores públicos, a través de los Comités de ética y de prevención de conflictos de interés.
+
+SEXTO. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Acuerdo se resolverán de conformidad a las disposiciones vigentes al momento de su inicio.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente Decreto.
