@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-general-de-gobierno-17569"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-12"
-last_updated: "2013-05-04"
+last_updated: "2018-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2000.
 
@@ -599,7 +601,7 @@ VII. Las demás que le señalen otras disposiciones legales aplicables y las que
 
 El Oficial Mayor tendrá las siguientes facultades:
 
-I. Acordar con el Secretario el despacho de los asuntos que estén bajo su responsabilidad; así corno las propuestas de modernización, descentralización, desconcentración y simplificación administrativa de la Secretaría;
+I. Acordar con el Secretario el despacho de los asuntos que estén bajo su responsabilidad; así como las propuestas de modernización, descentralización, desconcentración y simplificación administrativa de la Secretaría;
 
 II. Programar, organizar, supervisar y evaluar las actividades de las unidades administrativas de su adscripción, conforme a los lineamientos que determine el Secretario;
 
@@ -840,3 +842,17 @@ P.O. 4 DE MAYO DE 2013.
 PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Los juicios de amparo iniciados con anterioridad a la entrada en vigor de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos publicada el dos de abril de dos mil trece, así como los juicios agrarios iniciados antes de la entrada en vigor de la presente reforma, continuarán tramitándose hasta su resolución final conforme al texto vigente en su inicio, en cuanto se refiere a los artículos 11, 12 bis y 14 anteriores al presente acuerdo de reforma.
+
+P.O. 22 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIGELAG ACU 036/2018 QUE EXPIDE EL REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO”.]
+
+Primero. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial “El Estado de Jalisco” el 12 de septiembre de 2000 y sus reformas posteriores.
+
+Tercero. La Subsecretaría de Asuntos Jurídicos de la Secretaría General de Gobierno, por conducto de la Dirección General Jurídica, fungirá como órgano interno de control en los procedimientos que se ventilen de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, hasta en tanto se lleva a cabo la constitución formal de Órgano Interno de Control.
+
+Cuarto. Se abroga el Decreto del ciudadano Gobernador Constitucional del Estado de Jalisco, mediante el cual se crea el Centro Estatal de Estudios Municipales, publicado en el Periódico Oficial “El Estado de Jalisco” el 28 de agosto de 1984.
+
+Quinto. Se faculta a la Secretaría de Planeación, Administración y Finanzas para que lleve a cabo las adecuaciones administrativas y presupuestales necesarias para el cumplimiento de este Acuerdo.
