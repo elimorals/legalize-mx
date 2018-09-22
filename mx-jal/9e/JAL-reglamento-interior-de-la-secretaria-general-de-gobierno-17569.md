@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-general-de-gobierno-17569"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-12"
-last_updated: "2013-05-04"
+last_updated: "2018-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,179 +21,425 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-REGLAMENTO INTERIOR DE LA COMISION GASTO - FINANCIAMIENTO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE JALISCO
 
-Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 26 de octubre de 1995.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
-HORACIO SÁNCHEZ UNZUETA, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, en ejercicio de las facultades que me confieren los artículos 56 fracción I de la Constitución Política del Estado, 7o. de la Ley Orgánica de la Administración Pública Estatal y 5o. de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal, expido el siguiente:
+Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2000.
 
-REGLAMENTO INTERIOR DE LA COMISIÓN GASTO - FINANCIAMIENTO
+Al margen un sello que dice: Gobierno del Estado. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+
+ACUERDO DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+Guadalajara, Jalisco, 7 siete de Agosto del año 2000 dos mil
+
+En uso de las facultades que me confieren los artículos 36, 46 y 50 fracción VIII y XXIII de la Constitución Política; 1, 2, 3, 5, 6, 12, 19 fracción II, 21,22 fracciones I y XXII, 24, 25 y 30 de la Ley Orgánica del Poder Ejecutivo, y demás relativos y aplicables de estos ordenamientos, ambos de esta Entidad Federativa y con base en los siguientes
+
+CONSIDERANDOS:.
+
+Por lo anteriormente expuesto y fundado, tengo a bien emitir el siguiente
+
+ACUERDO:
+
+ÚNICO.- Se expide el Reglamento Interior de la Secretaría General de Gobierno, para quedar como sigue:
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
-### CAPITULO I. De su Competencia y Organización
+### CAPÍTULO ÚNICO
 
-###### ARTICULO 1.
+###### Artículo 1.
 
-La Comisión Gasto-Financiamiento, en lo sucesivo denominada para los efectos de este Reglamento como la Comisión, es un Organismo creado para apoyar al Titular del Poder Ejecutivo Estatal, en la toma de decisiones relacionadas con el gasto público, su financiamiento y todos aquellos programas de la materia.
+La Secretaría General de Gobierno, como dependencia del Poder Ejecutivo del Estado, tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, así como las demás disposiciones legales y reglamentarias que le sean aplicables.
 
-###### ARTICULO 2.
+###### Artículo 2.
 
-La Comisión tendrá a su cargo el despacho de los asuntos mencionados en el Acuerdo por el cual se señala su competencia, integración y reglas generales de operación, así como los previstos en la Ley de Presupuesto, Contabilidad y Gasto Público, Ley del Presupuesto de Egresos, Reglamento de la Ley de Presupuesto, Contabilidad y Gasto Público y las demás disposiciones legales aplicables.
+Para efectos de este Reglamento, se entenderá por:
+
+I. Reglamento: El Reglamento Interior de la Secretaría General de Gobierno;
+
+II. Secretaría: La Secretaría General de Gobierno;
+
+III. Secretario: El Secretario General de Gobierno; y
+
+IV. Unidades Administrativas: Las Subsecretarías, la Oficialía Mayor, las Direcciones Generales y demás áreas administrativas.
 
 ## TÍTULO SEGUNDO. De la Estructura, Organización y Funcionamiento de la Secretaría
 
-### CAPITULO III (SIC). del (sic) Funcionamiento de la Comisión
+### CAPÍTULO I. Del Secretario
 
-###### ARTICULO 3.
+###### Artículo 3.
 
-La Comisión, contará para su funcionamiento con un Presidente, dos Vocales, un Secretario Técnico y una Subcomisión de Evaluación del Gasto Público, que a su vez estará integrada por funcionarios de un nivel inferior a los titulares de la Comisión.
+Al frente de la Secretaría habrá un titular, a quien corresponde la representación, trámite y resolución de los asuntos competencia de la misma.
 
-###### ARTICULO 4.
+Para la mejor organización del quehacer institucional el Secretario podrá delegar sus atribuciones en servidores públicos subalternos, salvo aquellas que en los términos de este Reglamento u otro ordenamiento jurídico, deban ser ejercidos directamente por él.
 
-Las Dependencias y Entidades de la Administración Pública Estatal, acreditarán a dos personas que los representarán en la Subcomisión de Evaluación del Gasto Público.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 4.
+
+Al Secretario le corresponderá el ejercicio de las atribuciones que expresamente le confieren la Constitución Política del Estado, la Ley Orgánica del Poder Ejecutivo y las demás disposiciones legales.
+
+El Secretario certificará los documentos que obren en el archivo de la Secretaría y podrá delegar dicha atribución mediante acuerdo que será publicado en el Periódico Oficial “El Estado de Jalisco”.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2007)</small>
+
+Artículo 4 bis.- En las ausencias temporales del Gobernador Constitucional del Estado que no excedan de treinta días, el Secretario se hará cargo del despacho del Ejecutivo, de conformidad con el artículo 43 de la Constitución Política del Estado de Jalisco, por lo que, en este caso, el Subsecretario de Asuntos Jurídicos, será el encargado del despacho de la Secretaría.
 
 ### CAPÍTULO II. De la Estructura
 
-###### ARTICULO 5.
+###### Artículo 5.
 
-El Presidente de la Comisión, tendrá a su cargo el despacho de los siguientes asuntos:
+Para el estudio, planeación y despacho de las atribuciones que le competen, la Secretaría contará con las siguientes Unidades Administrativas:
 
-I.- Fijar la celebración de sesiones ordinarias y extraordinarias y convocar a las mismas.
+I. Subsecretaría de Asuntos del Interior;
 
-II.- Autorizar al Secretario Técnico los asuntos a tratar para su análisis y acuerdo correspondiente.
+II. Subsecretaría de Asuntos Jurídicos;
 
-III.- Proponer a la Comisión, la creación de subcomisiones, comités técnicos o grupos de trabajo, permanentes o transitorios, que se estimen necesarios para apoyar las actividades de la misma.
+III. Subsecretaría de Participación Social;
 
-IV.- Concertar audiencia con el titular del Poder Ejecutivo Estatal, para presentarle la síntesis de los acuerdos tomados.
+IV. Oficialía Mayor;
 
-V.- Informar mensualmente al Gobernador del Estado, sobre el avance que presenten cada uno de los asuntos que conozca la Comisión.
+V. Dirección General de Trabajo y Previsión Social; y
 
-VI.- Aquellos que por acuerdo de la Comisión se le encomienden.
+VI. Dirección General de Gobierno.
 
-###### ARTICULO 6.
+###### Artículo 6.
 
-Corresponde al Vocal de la Secretaría de Planeación y Finanzas, el conocimiento, trámite y solución de los siguientes asuntos:
+En el Manual General de Organización de la Secretaría, se precisarán las direcciones de área, así como el resto de la estructura orgánica-funcional de las diversas áreas que integran las unidades administrativas descritas en el artículo anterior.
 
-I.- Dar seguimiento a los acuerdos tomados en las sesiones de la Comisión que le sean turnados en razón a las atribuciones de su Dependencia.
+###### Artículo 7.
 
-II.- Informar a la Comisión sobre los asuntos pendientes de solución que se le hayan turnado.
+La Secretaría, por medio de sus unidades administrativas, planeará y conducirá sus actividades con sujeción a los objetivos, estrategias y líneas de acción establecidas en el Plan Estatal de Desarrollo, para el logro de las metas y programas que se encuentran a cargo de la Secretaría, así como de los organismos descentralizados y desconcentrados coordinados por ella.
 
-III.- Asesorar a la Comisión en aquellos asuntos cuyo trámite se relacione con los que corresponden a su Dependencia.
+###### Artículo 8.
 
-IV.- Ocupar el cargo de Presidente de la Comisión cuando, en forma alternada y por acuerdo, así se determine.
+Los Titulares de las Subsecretarías mencionadas con anterioridad tendrán las siguientes facultades:
 
-V.- Los demás que la Comisión le designe.
+I. Acordar con el Secretario, el despacho de los asuntos que les competen;
 
-###### ARTICULO 7.
+II. Planear, programar, organizar, dirigir y evaluar el funcionamiento de las unidades administrativas que tengan adscritas, informando al Secretario de las actividades que éstas realicen;
 
-Corresponde al Vocal de la Oficialía Mayor de Gobierno, el conocimiento, trámite y solución de los siguientes asuntos:
+III. Coordinar la elaboración del anteproyecto de presupuesto de las unidades administrativas de su adscripción, remitirlo a la Oficialía Mayor para su análisis y, una vez autorizado, supervisar su correcta aplicación;
 
-I.- Dar seguimiento a los acuerdos tomados por la Comisión en cuanto competan a su Dependencia, que para ese efecto se le hayan turnado.
+IV. Coordinarse con las unidades administrativas, para el mejor desempeño de sus facultades;
 
-II.- Informar sobre los asuntos pendientes de solución.
+V. Someter a la aprobación del Secretario, los proyectos y estudios que se elaboren en su ámbito de competencia, así como las propuestas de modernización, desconcentración y simplificación administrativa de las unidades de su adscripción;
 
-III.- Asesorar a la Comisión en aquellos asuntos que tengan relación con los que corresponden a su Dependencia.
+VI. Vigilar que se cumpla con las disposiciones legales concernientes a los asuntos de su competencia;
 
-IV.- Ocupar el cargo de Presidente de la Comisión, cuando alternadamente y por acuerdo de ésta, se determine.
+VII. Someter a la consideración del Secretario los convenios, contratos, acuerdos y anexos de ejecución a celebrarse con los gobiernos estatales y municipales, así como de concertación con los sectores social y privado, en las materias de su competencia;
 
-V.- Los demás que la Comisión le designe.
+VIII. Proponer el nombramiento y remoción de su personal de apoyo, así como de los servidores públicos de las unidades administrativas de su adscripción;
 
-###### ARTICULO 8.
+IX. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por delegación o les correspondan por suplencia;
 
-Corresponde al Vocal de la Coordinación General de Contraloría del Estado, el conocimiento, trámite y solución de los siguientes asuntos:
+X. Resolver los recursos administrativos que se interpongan en contra de resoluciones dictadas por los servidores públicos titulares de las unidades administrativas que se le adscriban, así como los demás que legalmente le correspondan; y
 
-I.- Dar seguimiento a los acuerdos tomados por la Comisión que le sean turnados en razón de la competencia de su Dependencia.
-
-II.- Informar sobre el estado que guardan los asuntos que se le hayan encomendado.
-
-III.- Asesorar a la Comisión en aquellos asuntos que se relacionan con los que competen a su Dependencia.
-
-IV.- Vigilar que los acuerdos tomados se apeguen a la legislación vigente aplicable.
-
-V.- Los demás que la Comisión le designe.
+XII (SIC). Las demás que les señalen otras disposiciones legales o reglamentarias y el Secretario, dentro del ámbito de sus facultades y de las atribuciones de las unidades administrativas de su adscripción.
 
 ### CAPÍTULO IV (SIC). De la Subsecretaría de Asuntos del Interior
 
-###### ARTICULO 9.
+###### Artículo 9.
 
-Corresponde al Secretario Técnico de la Comisión el despacho de los siguientes asuntos:
+La Subsecretaría de Asuntos del Interior contará, para su funcionamiento, con las siguientes Direcciones Generales:
 
-I.- Recibir los asuntos que se giren a la Comisión para su conocimiento, trámite y resolución.
+I. Dirección General de Estudios Estratégicos y Desarrollo Político; y
 
-II.- Dar cuenta al Presidente de la Comisión, de los asuntos recibidos para su atención y acuerdo respectivo.
+II. Dirección General de Asuntos Agrarios.
 
-III.- Elaborar el Orden del Día al que se sujetará la Comisión en cada una de sus sesiones.
+###### Artículo 10.
 
-IV.- Girar los comunicados respectivos a los integrantes de la Comisión, señalando lugar, fecha y hora en que deban efectuarse las reuniones ordinarias o extraordinarias.
+La Dirección General de Estudios Estratégicos y Desarrollo Político, tendrá las siguientes atribuciones:
 
-V.- Redactar las minutas de trabajo que se deriven de los acuerdos tomados por la Comisión.
+I. Coordinar la atención de las manifestaciones que se presentan en el Estado;
 
-VI.- Turnar a la Presidencia, previa revisión, las minutas correspondientes para la firma de los integrantes de la Comisión.
+II. Proponer alternativas de solución en las manifestaciones presentadas;
 
-VII.- Presentar las minutas de acuerdo para la firma de conformidad de los integrantes de la Comisión.
+III. Ser el enlace entre el Gobierno del Estado, la sociedad y los Ayuntamientos en la problemática social;
 
-VIII.- Realizar los estudios y proyectos que requiera la Comisión en apoyo a sus funciones.
+IV. Representar a la Secretaría en eventos de carácter político-social;
 
-IX.- Elaborar la documentación que se haga necesaria para dar seguimiento a los acuerdos tomados por la Comisión.
+V. Proporcionar asesoría a las dependencias y entidades gubernamentales y organizaciones no gubernamentales, y
 
-X.- Coordinar las actividades que se le asignen a la Subcomisión de Evaluación del Gasto Público.
+VI. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
 
-XI.- Los demás que le encomiende la Comisión.
+###### Artículo 11.
 
-###### ARTICULO 10.
+La Dirección General de Asuntos Agrarios tendrá las siguientes atribuciones:
 
-La Subcomisión de Evaluación del Gasto Público, tendrá a su cargo las siguientes funciones:
+I. Realizar la integración de los expedientes de solicitudes estatales de expropiaciones de terrenos;
 
-I.- Elaborar los proyectos, políticas y normas de control y evaluación del gasto público y su financiamiento, que solicite la Comisión.
+II. Emitir opinión de vialidad e impacto económico y social que a nivel regional y municipal tendrían las acciones expropiatorias solicitadas por las dependencias y entidades federales;
 
-II.- Evaluar el ejercicio del gasto público y el cumplimiento de las metas en los programas de las Entidades.
+III. Dar atención y, en su caso, solución a los asuntos agrarios planteados al Ejecutivo Estatal y que son derivados a esta Dirección General;
 
-III.- Emitir los dictámenes y opiniones que requiera la Comisión sobre aquellos aspectos que se relacionen con el control y evaluación del gasto público.
+IV. Procurar la conciliación como vía de solución en los conflictos de tenencia de la tierra de origen ejidal y comunal entre individuos y/o grupos, estableciendo los convenios y acuerdos correspondientes;
 
-IV.- Atender los asuntos que le sean delegados por la Comisión para su trámite correspondiente, y aquellos que por acuerdo se le encomienden.
+V. Establecer coordinación con las diferentes instituciones federales del sector agrario para el seguimiento de los programas de regularización en la tenencia de la tierra;
 
-###### ARTICULO 11.
+VI. Prestar asesoría jurídica en materia agraria a las distintas dependencias y entidades estatales y municipales, así como a los órganos de representación ejidal y comunal y a los ejidatarios y comuneros en lo individual que la requieran;
 
-Las subcomisiones, comités técnicos o grupos de trabajo que se designen, deberán integrarse con servidores públicos de cada una de las Dependencias involucradas en los asuntos a tratar, quienes, en base a la naturaleza del asunto encomendado, podrán apoyarse con personal de la Dependencia o Entidad de que se trate.
+VII. Atender y proponer soluciones a los problemas originados por los asentamientos irregulares ubicados en terrenos ejidales;
+
+VIII. Prestar asesoría técnica topográfica y cartográfica a las distintas dependencias y entidades estatales y municipales sobre terrenos de propiedad social;
+
+IX. Elaborar e interpretar cartográficamente los documentos respectivos, a fin de apoyar a la solución de conflictos interparcelarios o de linderos, entre ejidatarios y/o comuneros, ejidos y comunidades y entre estos pequeños propietarios;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+X. Brindar el servicio de consulta, asesoría y copias de los expedientes que resguarda el Archivo Histórico Agrario;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2013)</small>
+
+XI. Representar al Gobernador del Estado y al Secretario General de Gobierno en los juicios agrarios y demás procedimientos que establece la Ley Agraria y sus reglamentos;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XII. Designar autorizados en los juicios agrarios y demás procedimientos que establece la Ley Agraria y sus reglamentos;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2013)</small>
+
+XIII. Asistir y desahogar las audiencias que establece la Ley Agraria y sus reglamentos;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2013)</small>
+
+XIV. Ser el titular de la oficina de asuntos jurídicos del Gobernador del Estado, para efectos de la representación de éste en los juicios de amparo en materia agraria, de acuerdo con lo dispuesto en el artículo 9° de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, sin perjuicio ni menoscabo de la representación general que corresponda a otras dependencias públicas del Poder Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2013)</small>
+
+XV. Representar al Secretario en los juicios de amparo en materia agraria en que sea señalado como autoridad responsable; y
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2013)</small>
+
+XVI. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
 
 ### CAPÍTULO V. De la Subsecretaría de Asuntos Jurídicos
 
-###### ARTICULO 12.
+###### Artículo 12.
 
-La Subcomisión de Evaluación del Gasto Público deberá formular un calendario de actividades suficiente para evaluar el ejercicio del gasto en las Dependencias, cuando menos bimestralrnente (sic).
+La Subsecretaría de Asuntos Jurídicos contará para su funcionamiento con las siguientes Direcciones Generales y Unidades Administrativas:
 
-###### ARTICULO 13.
+I. Dirección General de Estudios Legislativos y Acuerdos Gubernamentales;
 
-La comisión sesionará en forma ordinaria, cuando menos una vez por mes, mediante convocatoria que llevará a cabo el Presidente, a través del Secretario Técnico, con una anticipación de siete días a la celebración de la junta.
+II. Dirección General Jurídica;
 
-En caso de ausencia de alguno de los integrantes de la Comisión, éste deberá avisar al Presidente con una anticipación de 72 horas a la celebración de la reunión. El Presidente decidirá si se lleva a cabo la reunión con la ausencia de uno de los integrantes. Bajo ninguna circunstancia se llevarán a cabo reuniones con la falta de más de un miembro de la Comisión.
+III. Dirección General de Archivos;
 
-###### ARTICULO 14.
+IV. Dirección General del Registro Civil;
 
-Los integrantes de la Comisión deberán turnar los asuntos a tratar al Secretario Técnico para que éste integre los expedientes respectivos y los incluya en el Orden del Día de la próxima reunión, antes del plazo señalado en el artículo anterior.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-En caso de terceros que requieran exponer asuntos ante la Comisión, deberán hacerlo por escrito a través del Secretario Técnico, anexando todos los antecedentes relativos al caso a tratar. Este lo clasificará y propondrá al Presidente de la Comisión para su inclusión en la siguiente reunión.
+V. Dirección de Profesiones del Estado;
 
-###### ARTICULO 15.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-En casos fortuitos o de fuerza mayor el Presidente o los Vocales de la Comisión podrán convocar a reunión extraordinaria, a través del Secretario Técnico, a quien harán llegar el Orden del Día para que éste a su vez, en un plazo no mayor de 48 horas, lleve a cabo la convocatoria a los demás integrantes de la Comisión.
+VI. Dirección del Archivo de Instrumentos Públicos; y
 
-###### ARTICULO 16.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-La Subcomisión de Evaluación del Gasto Público sesionará por lo menos dos veces al mes, para lo cual su calendario de actividades y fechas de reuniones será dado a conocer a la Comisión durante la primera reunión de los meses de enero y julio. Los calendarios deberán contener las Entidades a evaluar y los representantes de dichas Entidades, acreditados conforme al Articulo 4o. del presente Reglamento.
+VII. Dirección de Certificaciones.
 
-En caso de que el asunto a tratar requiera de revisiones extraordinarias de la Subcomisión, éstas deberán concertarse a través del Secretario Técnico.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2011)</small>
 
-###### ARTICULO 17.
+Artículo 12 bis.- El titular de la Subsecretaría de Asuntos Jurídicos tendrá las siguientes atribuciones:
 
-Las resoluciones de la Comisión serán tomadas por mayoría y cuando afecten a terceros se les notificará por escrito con la única firma del Presidente de la Comisión. Las notificaciones deberán ser enviadas en un plazo no mayor de siete días posteriores a la fecha de la resolución.
+I. Representar al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá;
 
-###### ARTICULO 18.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2013)</small>
 
-Con el fin de cumplir eficazmente sus atribuciones y dependiendo de la magnitud e importancia del asunto, la Comisión podrá solicitar el apoyo y asesoría de instituciones u organismos internos o externos.
+II. Ser el titular de la oficina de asuntos jurídicos del Gobernador del Estado, para efectos de la representación de éste, en términos de lo dispuesto por el artículo 9° de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Igualmente, representar al Secretario cuando sea señalado como autoridad responsable en los juicios de amparo, así como dar atención y cumplimentar los requerimientos que le fueren formulados al Gobernador del Estado y al Secretario por los tribunales locales y federales, incluyendo aquellos que se les dirijan como superiores jerárquicos en los juicios de amparo;
+
+III. Emitir y autorizar las actas, acuerdos y resoluciones que procedan con motivo de las quejas administrativas presentadas en contra de notarios públicos, sin perjuicio de que las pueda ejercer directamente el Secretario;
+
+IV. Levantar y autorizar las actas de ratificación de las quejas administrativas en contra de notarios públicos;
+
+V. Iniciar, a petición de parte interesada, el procedimiento de mediación con motivo de las quejas administrativas presentadas en contra de notarios públicos;
+
+VI. Solicitar a la Procuraduría Social la práctica de visitas generales o especiales a las notarías del Estado;
+
+VII. Emitir el acuerdo que procesa en los casos previstos en el artículo 147 de la Ley del Notariado del Estado de Jalisco;
+
+VIII. Emitir el acuerdo correspondiente, tratándose de quejas administrativas en contra de notarios públicos irregulares o notoriamente improcedentes;
+
+IX. Emitir el acuerdo mediante el cual se determine si se está o no en el caso de iniciar el procedimiento administrativo correspondiente, con motivo de las quejas administrativas presentadas en contra de notarios públicos;
+
+X. Delegar las facultades establecidas en las fracciones III a IX del presente artículo a personal adscrito a la Subsecretaría de Asuntos Jurídicos o a la Dirección General Jurídica; y
+
+XI. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el Secretario.
+
+###### Artículo 13.
+
+Serán atribuciones de la Dirección General de Estudios Legislativos y Acuerdos Gubernamentales, las siguientes:
+
+I. Elaborar iniciativas de ley o decreto;
+
+II. Dar seguimiento a las iniciativas de ley o decreto ante el Congreso del Estado;
+
+III. Revisar y elaborar reglamentos de ley e interiores de las dependencias y entidades de la administración pública estatal;
+
+IV. Apoyar a las dependencias y entidades del Poder Ejecutivo Estatal en la elaboración de sus reglamentos;
+
+V. Resolver las consultas jurídicas planteadas por las dependencias y entidades del Ejecutivo y por los ayuntamientos;
+
+VI. Participar en reuniones intersecretariales y externas con opinión jurídica y representación de la Secretaría;
+
+VII. Revisar y resolver los asuntos legales que sean de su competencia;
+
+VIII. Elaborar acuerdos administrativos del Titular del Poder Ejecutivo y del Secretario General de Gobierno, en ejercicio de sus atribuciones constitucionales y legales;
+
+IX. Elaborar y supervisar los convenios, contratos y acuerdos de coordinación que celebren la Secretaría y el Titular del Poder Ejecutivo;
+
+X. Apoyar a las dependencias y entidades en la elaboración de sus convenios, contratos, acuerdos y anexos de ejecución;
+
+XI. Dirigir y supervisar el manejo de la Dirección de Patrimonio Inmobiliario del Estado, así como su archivo;
+
+XII. Representar al Titular del Poder Ejecutivo o al C. Secretario en comités, programas y juntas de gobierno, cuando así sea requerido, de acuerdo con sus atribuciones;
+
+XIII. Supervisar la promulgación de decretos;
+
+XIV. Remitir para su publicación en el Periódico Oficial "El Estado de Jalisco", los decretos, acuerdos y demás disposiciones que lo requieran;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XV. Supervisar la actualización legislativa y reglamentaria del Poder Ejecutivo a nivel federal y estatal, a través de la revisión diaria del Diario Oficial de la Federación y el Periódico Oficial del Estado y comunicarlo a las dependencias y entidades involucradas;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XVI. Ejercer, en caso de ausencia del titular de la Dirección de Certificaciones, las atribuciones encomendadas al mismo que establece el artículo 19 Bis del presente Reglamento; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XVII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el Secretario o el superior jerárquico.
+
+###### Artículo 14.
+
+Son atribuciones de la Dirección General Jurídica, las siguientes:
+
+I. Elaborar estudios y proyectos jurídicos solicitados por las diversas dependencias y entidades del Ejecutivo Estatal, así como brindarles asesoría jurídica;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
+
+II. Elaborar acuerdos administrativos emitidos por el titular del Ejecutivo Estatal, la Secretaria o el Subsecretario de Asuntos Jurídicos relativos a procedimientos administrativos instaurados en contra de los notarios públicos de la entidad con motivo de las irregularidades cometidas por éstos en el ejercicio de sus funciones;
+
+III. Efectuar los acuerdos de expropiación de bienes inmuebles;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Atender los juicios planteados en contra del titular del Poder Ejecutivo del Estado, así como de la Secretaría, en sus diversas materias;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+V. Fungir como Unidad de Transparencia de la Secretaria, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría, de conformidad de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2009)</small>
+
+VI. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2013)</small>
+
+VII. Durante las ausencias del titular de la Subsecretaría de Asuntos Jurídicos, representar al Gobernador del Estado en los juicios de amparo, en términos de lo dispuesto por el artículo 9° de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como ejercer las demás atribuciones previstas en el artículo 12 bis fracción II del presente Reglamento;
+
+VIII. (DEROGADA, P.O. 4 DE MAYO DE 2013)
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
+
+IX. Substanciar el desahogo del procedimiento relativo a la queja administrativa presentada en contra de notarios públicos, así como el de oficio que contempla la Ley del Notariado del Estado de Jalisco, a partir de la presentación de la queja o recepción del acta de la autoridad revisora;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+
+X. Practicar toda clase de citaciones, notificaciones y emplazamientos; presidir y desahogar audiencias; admitir, desechar y desahogar pruebas; emitir acuerdos de mero trámite; practicar diligencias, inspecciones, sentar certificaciones, certificar documentos y demás actos de carácter procesal que se requieran, levantando y autorizando al efecto las actas correspondientes que se requieran para la substanciación del procedimiento relativo a la queja administrativa presentada en contra de notarios públicos, de conformidad con la Ley del Notariado del Estado de Jalisco;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+
+XI. Fungir, a través de la Dirección de Procedimientos, como mediador o conciliador, de conformidad con la Ley del Notariado del Estado de Jalisco y la Ley de Justicia Alternativa del Estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+
+XII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el Secretario o el superior jerárquico.
+
+###### Artículo 15.
+
+La Dirección General de Archivos, tendrá las siguientes atribuciones:
+
+I. Coordinar y supervisar la custodia, clasificación y catalogación de todos los documentos de carácter histórico pertenecientes a los archivos de las dependencias del Ejecutivo y de los municipios del Estado de Jalisco;
+
+II. Promover la difusión del archivo en los ámbitos culturales nacionales e internacionales;
+
+III. Crear políticas en general al interior y exterior del Archivo Histórico de Jalisco;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+IV. Editar los documentos más representativos de la historia de Jalisco;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+V. Participar, a través de su titular, como Secretario Técnico del Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+VI. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera directamente el Secretario.
+
+###### Artículo 16.
+
+La Dirección General del Registro Civil, tendrá las siguientes atribuciones:
+
+I. Representar a la Secretaría ante el Comité Permanente de Funcionarios del Registro Civil, en las sesiones del Consejo General convocadas por la Secretaría de Gobernación;
+
+II. Presentar iniciativas de ley al Congreso del Estado, por conducto de la Secretaría, para adecuar la ley y el reglamento del Registro Civil a los nuevos procesos y a las necesidades actuales de brindar un mejor servicio;
+
+III. Coordinar y proporcionar los servicios del Registro Civil a la población y a los municipios del Estado, dentro del marco jurídico y de una manera oportuna y sistemática;
+
+IV. Coordinar y asegurar la capacitación necesaria a las oficialías del Registro Civil de los municipios del Estado, unificando criterios y funciones, consultando aspectos jurídicos, administrativos y normativos;
+
+V. Supervisar y autorizar la emisión de formatos de Actas del Registro Civil;
+
+VI. Obtener la información registral de los municipios del Estado y remitir la misma al Registro Nacional de Población; y
+
+VII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
+
+###### Artículo 17.
+
+La Dirección General del Registro Público de la Propiedad y de Comercio, tendrá las siguientes atribuciones:
+
+I. Ejercer las funciones registrales en materia de bienes inmuebles y, de conformidad con las leyes aplicables, las relativas al Registro Federal de Empresas Mercantiles, efectuando reuniones y emitiendo circulares que permitan estandarizar el servicio registral inmobiliario y de comercio en las oficinas centrales y foráneas con el fin de asegurar el apego a la legalidad y eficiencia con que debe prestarse el servicio;
+
+II. Dar fe pública registral en materia inmobiliaria y de comercio en el Estado normando criterios con los directores, coordinadores y jefes de oficina, con el propósito de otorgar publicidad a los actos jurídicos que lo requieran para surtir efectos contra terceros;
+
+III. Vigilar el funcionamiento y constante mejoramiento de la Secretaría en el Estado, visitando a las oficinas, verificando el funcionamiento, sus necesidades y problemática de las mismas para automatizar, sistematizar y eficientar los procesos a través de una reestructuración a fondo de la dependencia;
+
+IV. Proporcionar a las oficinas registrales los elementos que sean necesarios para su correcto funcionamiento;
+
+V. Coordinar esfuerzos con las instancias gubernamentales, privadas y fedatarios públicos, para mejorar los servicios y unificar criterios que eleven la calidad de la función registral;
+
+VI. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
+
+###### Artículo 18.
+
+La Dirección de Profesiones del Estado, tendrá las siguientes atribuciones:
+
+I. Llevar el registro y dar seguimiento al funcionamiento de las agrupaciones de profesionistas, extendiendo a su favor la constancia respectiva;
+
+II. Supervisar el funcionamiento de las agrupaciones de profesionistas, y suspender y cancelar su registro por las causas señaladas en la Ley para el Ejercicio de Profesiones del Estado, previo el procedimiento de audiencia y defensa contemplado en el Reglamento;
+
+III. Llevar el registro de las instituciones de educación superior que expidan título, diploma o grado académico, respecto a los estudios que en las mismas se hayan cursado; así como de los planes de estudio de las carreras, especialidades, maestrías o doctorados que en éstas se lleven;
+
+IV. Expedir cédulas con efectos de patente, para los profesionistas y posgraduados que cumplan con los requisitos establecidos por la Ley para el Ejercicio de Profesiones del Estado y su Reglamento;
+
+V. Cancelar el registro de los títulos, diplomas o grados académicos a que se refiere la Ley para el ejercicio de Profesiones del Estado, en cumplimiento de sentencia ejecutoria dictada por autoridad judicial competente;
+
+VI. Otorgar la autorización provisional a los estudiantes que hayan comprobado la terminación de los estudios en los niveles de profesional técnica y licenciatura, previo cumplimiento del servicio social estudiantil y el pago de derechos correspondientes;
+
+VII. Elaborar, organizar y actualizar permanentemente el Padrón de Profesionistas en el Estado;
+
+VIII. Expedir constancias de actualización y práctica profesional acreditadas por las agrupaciones de profesionistas previo al pago de derechos correspondientes;
+
+IX. Llevar la estadística del ejercicio profesional en el Estado; y
+
+X. Las demás que le confiera la Ley para el ejercicio de Profesiones del Estado, su Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 19.
 
@@ -355,7 +601,7 @@ VII. Las demás que le señalen otras disposiciones legales aplicables y las que
 
 El Oficial Mayor tendrá las siguientes facultades:
 
-I. Acordar con el Secretario el despacho de los asuntos que estén bajo su responsabilidad; así corno las propuestas de modernización, descentralización, desconcentración y simplificación administrativa de la Secretaría;
+I. Acordar con el Secretario el despacho de los asuntos que estén bajo su responsabilidad; así como las propuestas de modernización, descentralización, desconcentración y simplificación administrativa de la Secretaría;
 
 II. Programar, organizar, supervisar y evaluar las actividades de las unidades administrativas de su adscripción, conforme a los lineamientos que determine el Secretario;
 
@@ -529,32 +775,6 @@ El Secretario, los Subsecretarios, los Directores Generales y los Directores de 
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se derogan los acuerdos y disposiciones administrativas dictadas con anterioridad por la Comisión, en cuanto se opongan a este ordenamiento.
-
-TERCERO.- Los asuntos pendientes de solución a la entrada en vigor del presente Reglamento, serán turnados a quien de acuerdo a la competencia señalada le correspondan.
-
-DADO en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los veinticuatro días del mes de octubre de mil novecientos noventa y cinco.
-
-LIC. HORACIO SANCHEZ UNZUETA
-
-Gobernador Constitucional del Estado
-
-(Rúbrica)
-
-C. JUAN JOSE RODRIGUEZ
-
-Secretario General de Gobierno
-
-(Rúbrica)
-
-LIC. JUAN RAMÓN NIETO NAVARRO
-
-Secretario de Planeación y Finanzas
-
-(Rúbrica)
-
 ###### ARTÍCULO PRIMERO.
 
 El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
@@ -616,3 +836,23 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Acuerdo.
 
 TERCERO. Las atribuciones establecidas en los artículos 12 Bis y 14 del Reglamento Interior de la Secretaría General de Gobierno se aplicarán en los procedimientos que se hayan iniciado antes de la entrada en vigor del presente Acuerdo.
+
+P.O. 4 DE MAYO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los juicios de amparo iniciados con anterioridad a la entrada en vigor de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos publicada el dos de abril de dos mil trece, así como los juicios agrarios iniciados antes de la entrada en vigor de la presente reforma, continuarán tramitándose hasta su resolución final conforme al texto vigente en su inicio, en cuanto se refiere a los artículos 11, 12 bis y 14 anteriores al presente acuerdo de reforma.
+
+P.O. 22 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIGELAG ACU 036/2018 QUE EXPIDE EL REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO”.]
+
+Primero. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial “El Estado de Jalisco” el 12 de septiembre de 2000 y sus reformas posteriores.
+
+Tercero. La Subsecretaría de Asuntos Jurídicos de la Secretaría General de Gobierno, por conducto de la Dirección General Jurídica, fungirá como órgano interno de control en los procedimientos que se ventilen de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, hasta en tanto se lleva a cabo la constitución formal de Órgano Interno de Control.
+
+Cuarto. Se abroga el Decreto del ciudadano Gobernador Constitucional del Estado de Jalisco, mediante el cual se crea el Centro Estatal de Estudios Municipales, publicado en el Periódico Oficial “El Estado de Jalisco” el 28 de agosto de 1984.
+
+Quinto. Se faculta a la Secretaría de Planeación, Administración y Finanzas para que lleve a cabo las adecuaciones administrativas y presupuestales necesarias para el cumplimiento de este Acuerdo.
