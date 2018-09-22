@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-comision-de-radio-y-television-de-641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-27"
-last_updated: "2014-12-17"
+last_updated: "2018-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE RADIO Y TELEVISION DE TABASCO -CORAT-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE RADIO Y TELEVISIÓN DE TABASCO, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN DE RADIO Y TELEVISIÓN DE TABASCO (CORAT)
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 27 de septiembre de 2008.
 
@@ -996,3 +998,13 @@ Para su mejor funcionamiento y desempeño, la CORAT deberá elaborar su respecti
 ###### ARTÍCULO SEXTO.
 
 Los recursos humanos, financieros y materiales, que estuviesen asignados a las unidades y direcciones que desaparecen o modifican su competencia, en virtud de los (sic) dispuesto en el presente Reglamento, serán reasignados a las unidades y direcciones que asuman las correspondientes atribuciones, con intervención de la Dirección de Administración, de conformidad a las instrucciones que al efecto señale el Director General de la CORAT.
+
+P.O. 22 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN DE RADIO Y TELEVISIÓN DE TABASCO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Comisión de Radio y Televisión de Tabasco, publicado en el Suplemento “C” al Periódico Oficial número 6893, de fecha 27 de septiembre de 2008 y las subsecuentes reformas.
+
+TERCERO. Para el mejor funcionamiento y desempeño, la CORAT contará con ciento ochenta días hábiles para la actualización de su respectivo Manual de Organización, y Procedimientos.
