@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-fiscalia-general-del-estado-de-oaxaca-110305
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-06"
-last_updated: "2018-01-24"
+last_updated: "2018-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 6 de octubre de 2015.
 
@@ -297,11 +297,15 @@ El Fiscal General intervendrá por sí o por conducto de los agentes del Ministe
 
 El Fiscal General durará en su encargo siete años y será designado y removido conforme al procedimiento y requisitos previstos en el artículo 114 apartado D de la Constitución Estatal.
 
-Los titulares de las fiscalías especializadas en Materia de Combate a la Corrupción y en Delitos Electorales serán designados conforme al procedimiento y requisitos previstos en el artículo 114 apartado D de la Constitución Estatal.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
 
-Los titulares de las fiscalías especializadas en Materia de Combate a la Corrupción y en Delitos Electorales dejarán de ejercer su encargo por renuncia, o podrán ser removidos por causales de responsabilidad en los casos previstos en la Constitución Estatal y demás disposiciones aplicables.
+El Titular de la Fiscalía Especializada en Delitos Electorales será designado conforme al procedimiento y requisitos previstos en el artículo 114 apartado D de la Constitución Estatal.
 
-La Fiscalía Especializada en Materia de Combate a la Corrupción contará con autonomía técnica para el ejercicio de sus funciones conforme al Sistema Estatal Anticorrupción. En el Reglamento se regularán las atribuciones y facultades de sus servidores públicos.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
+
+El Titular de la Fiscalía Especializada en Delitos Electorales dejará de ejercer su encargo por renuncia, o podrá ser removido por causales de responsabilidad en los casos previstos en la Constitución Estatal y demás disposiciones aplicables.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
 
 La Fiscalía Especializada en Delitos Electorales contará con autonomía técnica para el ejercicio de sus funciones. En el Reglamento se regularán las atribuciones y facultades de sus servidores públicos.
 
@@ -437,11 +441,93 @@ XXII. Las demás que con carácter no delegable le confieran otras legislaciones
 
 No se considera delegación los casos en que opere el régimen de suplencias previsto en el Reglamento de la Ley Orgánica, ni el ejercicio de atribuciones conferido a servidores públicos subalternos y que, por su naturaleza, concurran al debido desempeño de las conferidas al Fiscal General.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO IV BIS. DE LAS ATRIBUCIONES Y TITULARIDAD DE LA FISCALÍA ANTICORRUPCIÓN
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 11 Bis.
+
+La Fiscalía Anticorrupción es el órgano con autonomía administrativa, técnica, de gestión y decisión para investigar y perseguir los delitos por hechos de corrupción, así como los delitos cometidos por Servidores Públicos del Estado de Oaxaca conforme al Sistema Estatal de Combate a la Corrupción.
+
+Para el ejercicio de sus facultades, funciones y despacho de los asuntos de su competencia, la Fiscalía Anticorrupción se auxiliará de las siguientes unidades administrativas:
+
+I. Direcciones;
+
+II. Secretaria Ejecutiva;
+
+III. Unidades;
+
+IV. Coordinaciones;
+
+V. Agencias del Ministerio Público especializadas, y;
+
+VI. Las demás que se determinen en esta Ley, su Reglamento y otras disposiciones normativas aplicables.
+
+Para el desarrollo de sus funciones, podrá auxiliarse de las Unidades Administrativas de la Fiscalía General, quienes en el ámbito de su competencia deberán proceder en consecuencia.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 11 Ter.
+
+Al frente de la Fiscalía Anticorrupción habrá un Titular que será designado conforme al procedimiento y requisitos previstos en el artículo 114 apartado D de la Constitución Estatal y dejará de ejercer su encargo por renuncia, o podrá ser removido por causales de responsabilidad en los casos previstos en la Constitución Estatal y demás disposiciones aplicables.
+
+Su Titular presentará anualmente al Congreso del Estado, un informe sobre actividades sustantivas y sus resultados, el cual será público, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Oaxaca. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca.
+
+El Fiscal Anticorrupción intervendrá por sí o por conducto de los Agentes del Ministerio Público en el ejercicio de las atribuciones y facultades conferidas por la Constitución Federal, la Constitución Estatal, esta Ley Orgánica, el Código Nacional de Procedimientos Penales y las demás disposiciones aplicables, en todo el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 11 Quater.
+
+Son obligaciones y facultades del Fiscal Anticorrupción las siguientes:
+
+I. Participar como integrante en el Comité Coordinador del Sistema Estatal de Combate a la Corrupción, atendiendo las bases establecidas en el artículo 120 de la Constitución Estatal, y en los ordenamientos legales aplicables;
+
+II. Garantizar la autonomía de la Fiscalía Anticorrupción como órgano técnico en el ejercicio de sus funciones, las cuales no podrán ser influidas ni restringidas por ninguna autoridad;
+
+III. Suscribir todos los instrumentos jurídicos que se deriven y sean necesarios para el cumplimiento de sus funciones; así como Convenios de colaboración, coordinación y concertación, en el ámbito de competencia de la Fiscalía Anticorrupción;
+
+IV. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que las Leyes consideren como delitos por hechos de corrupción;
+
+V. Contar con Agentes del Ministerio Público, Agentes Estatales de Investigación, Peritos y demás personal del servicio de carrera a que se refiere esta Ley; mismos que le estarán adscritos, sobre los que ejercerá mando directo;
+
+VI. Instruir y delegar a los Servidores Públicos de la Fiscalía Anticorrupción el trámite de los asuntos que estime convenientes;
+
+VII. Contratar profesionales, técnicos, expertos, consultores y asesores especializados, de conformidad con las disposiciones aplicables;
+
+VIII. Proponer al Fiscal General la designación y remoción de los Servidores Públicos considerados como personal de confianza de la Fiscalía Anticorrupción;
+
+IX. Ordenar la rotación de los Servidores Públicos de confianza y del Servicio que se encuentren adscritos a la Fiscalía Anticorrupción, según las necesidades del servicio;
+
+X. Comparecer ante el Congreso del Estado, cuando sea requerido;
+
+XI. Enviar al Fiscal General el apartado del Reglamento de esta Ley relativo a la Fiscalía Anticorrupción; así como emitir los Acuerdos, Circulares, Instructivos, Bases, Manuales de Organización y de Procedimientos, Bases y demás Normas Administrativas necesarias que rijan la actuación de la misma en el ámbito de su competencia;
+
+XII. Solicitar información relacionada con una investigación formalmente iniciada, a las Entidades que integran el sistema financiero de acuerdo con las disposiciones aplicables;
+
+XIII. Requerir a las instancias de cualquier nivel de gobierno la información que resulte útil o necesarias para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
+
+XIV. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera, contable y sobre el uso de recursos públicos, que pueda ser utilizada en la investigación de delitos por hechos de corrupción;
+
+XV. Proponer al Fiscal General la solicitud a los concesionarios de telecomunicaciones, así como de los autorizados y proveedores de servicios de aplicación y contenido, la localización geográfica en tiempo real de los equipos de comunicación móvil, la intervención de comunicaciones y los datos conservados, en los términos de las disposiciones aplicables;
+
+XVI. Solicitar la intervención de comunicaciones privadas en términos del artículo 16 de la Constitución Federal y del Código Nacional de Procedimientos Penales;
+
+XVII. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+
+XVIII. Autorizar la entrega vigilada y las operaciones encubiertas;
+
+XIX. Resolver las excusas o recusaciones de los Agentes del Ministerio Público y Peritos en el procedimiento penal en términos del Reglamento y las disposiciones aplicables;
+
+XX. Proponer al Fiscal General el anteproyecto de presupuesto de egresos de la Fiscalía Anticorrupción, para que se incorpore en el proyecto anual de presupuesto de egresos de la Fiscalía General que será remitido al Congreso del Estado, y;
+
+XXI. Las demás que le confieran otras legislaciones generales, nacionales, federales y estatales aplicables.
+
 ### CAPÍTULO V. DE LA SUPLENCIA Y REPRESENTACIÓN DEL FISCAL GENERAL
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
-
-### CAPÍTULO VI. DE LAS OBLIGACIONES DE LAS AUTORIDADES CON EL MINISTERIO PÚBLICO
 
 ###### Artículo 12.
 
@@ -465,7 +551,7 @@ II. El servidor público suplente del Fiscal General resolverá sobre el inicio 
 
 El Fiscal General será representado ante las autoridades judiciales, administrativas y del trabajo por los servidores públicos que determine el Reglamento o por los agentes del Ministerio Público que se designen para el caso concreto y con las formalidades que para el caso establezca la legislación aplicable.
 
-### CAPÍTULO I. DE LAS BASES GENERALES DE ORGANIZACIÓN
+### CAPÍTULO VI. DE LAS OBLIGACIONES DE LAS AUTORIDADES CON EL MINISTERIO PÚBLICO
 
 ###### Artículo 15.
 
@@ -503,11 +589,11 @@ Durante la investigación y el proceso penal el Ministerio Público conservará 
 
 Los servidores públicos que contravengan lo dispuesto en el presente artículo serán sujetos de responsabilidad administrativa y/o penal.
 
-### CAPÍTULO II. DEL PERSONAL DE LA FISCALÍA GENERAL
+### CAPÍTULO I. DE LAS BASES GENERALES DE ORGANIZACIÓN
 
 ## TÍTULO SEGUNDO. DE LAS BASES GENERALES DE ORGANIZACIÓN Y DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
-### CAPÍTULO III. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
+### CAPÍTULO II. DEL PERSONAL DE LA FISCALÍA GENERAL
 
 ###### Artículo 20.
 
@@ -515,7 +601,13 @@ El Fiscal General ejercerá autoridad jerárquica sobre todo los servidores púb
 
 El Fiscal General emitirá los reglamentos, acuerdos, circulares, instructivos, bases, protocolos y demás disposiciones jurídicas y administrativas necesarias que rijan la actuación de los servidores públicos que integran a la Fiscalía General.
 
-El Reglamento, el Reglamento del Servicio, así como los acuerdos, convenios, reglas, protocolos y manuales se publicarán en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE SEPTIEMBRE DE 2018)</small>
+
+La Fiscalía Anticorrupción mantendrá un sistema de especialización, coordinación y desconcentración en razón a la naturaleza de los delitos que persigue.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE SEPTIEMBRE DE 2018)</small>
+
+El Reglamento, el Reglamento del Servicio, así como los Acuerdos, Convenios, Reglas, Protocolos y Manuales se publicarán en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 21.
 
@@ -577,13 +669,13 @@ El Reglamento y los instrumentos que emanen de éste establecerán las vicefisca
 
 Asimismo, el Reglamento y los instrumentos que emanen regularán todo lo concerniente a la organización y funcionamiento de las fiscalías especializadas en Materia de Combate a la Corrupción y en Delitos Electorales, la Agencia de Investigación, los institutos de la Fiscalía General, la Oficialía Mayor, la Contraloría Interna, y la Visitaduría General.
 
-### CAPÍTULO IV. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
+### CAPÍTULO III. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
 
 ###### Artículo 22.
 
 Los acuerdos por los cuales se disponga la creación o adscripción de fiscalías, vicefiscalías, direcciones, unidades administrativas u operativas y demás áreas administrativas, se publicarán en el Periódico Oficial del Gobierno del Estado.
 
-### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
+### CAPÍTULO IV. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
 ###### Artículo 23.
 
@@ -619,7 +711,7 @@ La Fiscalía General contará con agentes del Ministerio Público, policías de 
 
 Los agentes del Ministerio Público, los policías de investigación, peritos y facilitadores, podrán ser de designación especial y no ser miembros del Servicio, en términos del capítulo VII del presente Título.
 
-### CAPÍTULO VI. DE LA CAPACITACIÓN, FORMACIÓN ÉTICA Y PROFESIONAL DEL PERSONAL DE CONFIANZA
+### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
 ###### Artículo 28.
 
@@ -637,9 +729,7 @@ En atención a la naturaleza de las funciones que tiene a su cargo la Fiscalía 
 
 Las relaciones jurídicas entre la Fiscalía General y el personal a que se refiere este artículo serán de carácter laboral, por lo que cualquier controversia relacionada con la protección al salario y los beneficios de seguridad social que se suscite con motivo de dicha relación será resuelta por las instancias competentes, conforme a las disposiciones aplicables.
 
-### CAPÍTULO VII. DE LA DESIGNACIÓN ESPECIAL
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
+### CAPÍTULO VI. DE LA CAPACITACIÓN, FORMACIÓN ÉTICA Y PROFESIONAL DEL PERSONAL DE CONFIANZA
 
 ###### Artículo 30.
 
@@ -659,7 +749,7 @@ II. La Visitaduría General estará encargada de iniciar, investigar, substancia
 
 III. El Consejo Local por conducto de la comisión respectiva estará encargada de substanciar y resolver el procedimiento previsto en el Capítulo IX del Título Tercero de la presente Ley Orgánica en contra de los miembros del Servicio, en términos del Reglamento del Servicio.
 
-### CAPÍTULO I. BASES GENERALES
+### CAPÍTULO VII. DE LA DESIGNACIÓN ESPECIAL
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
 
@@ -675,7 +765,9 @@ Los agentes del Ministerio Público, los policías de investigación, los perito
 
 El incumplimiento de las obligaciones a que se refiere este capítulo, dará lugar a los procedimientos y a las sanciones que correspondan conforme a esta Ley Orgánica y a las disposiciones aplicables.
 
-### CAPÍTULO II. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA
+### CAPÍTULO I. BASES GENERALES
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 34.
 
@@ -687,7 +779,7 @@ El Fiscal General podrá emitir los instrumentos jurídicos y administrativos qu
 
 La universalidad, interdependencia, indivisibilidad, pluriculturalidad, progresividad, buena fe, autonomía, certeza, legalidad, objetividad, lealtad, imparcialidad, eficacia, honradez, profesionalismo y respeto a los derechos humanos, serán principios rectores en la capacitación, formación, superación, actualización y del desempeño del personal de confianza de la Fiscalía General.
 
-### CAPÍTULO III. DE LOS PROCEDIMIENTOS DE EVALUACIÓN
+### CAPÍTULO II. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA
 
 ###### Artículo 36.
 
@@ -719,7 +811,7 @@ Previo al ingreso como agente del Ministerio Público, como policía de investig
 
 ## TÍTULO TERCERO. DEL SERVICIO PROFESIONAL DE CARRERA
 
-### CAPÍTULO IV. DEL CERTIFICADO Y REGISTRO DE LOS ASPIRANTES Y DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO III. DE LOS PROCEDIMIENTOS DE EVALUACIÓN
 
 ###### Artículo 40.
 
@@ -765,7 +857,7 @@ VI. Buscará generar el sentido de pertenencia institucional, y
 
 VII. Contará con el Sistema (sic) Información y Seguimiento de los miembros del Servicio y sus respectivas carreras.
 
-### CAPÍTULO V. DE LA PROFESIONALIZACIÓN
+### CAPÍTULO IV. DEL CERTIFICADO Y REGISTRO DE LOS ASPIRANTES Y DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 44.
 
@@ -973,7 +1065,7 @@ g. No incurrir en actos u omisiones que afecten la prestación del Servicio, y
 
 h. Los demás requisitos que establezca el Reglamento del Servicio, el Consejo Local y las disposiciones aplicables.
 
-### CAPÍTULO VI. DE LA CONCLUSIÓN DEL SERVICIO
+### CAPÍTULO V. DE LA PROFESIONALIZACIÓN
 
 ###### Artículo 47.
 
@@ -1035,7 +1127,7 @@ Se considera información confidencial por contener datos personales, la conteni
 
 Los miembros del Servicio que no aprueben los procedimientos de evaluación referidos en este capítulo, dejarán de prestar sus servicios en la Fiscalía General, previo desahogo del procedimiento que establece el Capítulo IX del presente Título.
 
-### CAPÍTULO VII. DEL CONSEJO LOCAL DE PROFESIONALIZACIÓN
+### CAPÍTULO VI. DE LA CONCLUSIÓN DEL SERVICIO
 
 ###### Artículo 57.
 
@@ -1095,7 +1187,7 @@ IV. Por las demás causas que establezcan las demás disposiciones aplicables.
 
 El Centro que cancele algún Certificado deberá hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública a que alude la Ley General, sin perjuicio de que se realice otro registro correspondiente en el Sistema de Información y Seguimiento de la Fiscalía General.
 
-### CAPÍTULO VIII. DEL RÉGIMEN DISCIPLINARIO
+### CAPÍTULO VII. DEL CONSEJO LOCAL DE PROFESIONALIZACIÓN
 
 ###### Artículo 66.
 
@@ -1109,7 +1201,7 @@ Los miembros del Servicio están obligados a participar en los programas de prof
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE ENERO DE 2018)</small>
 
-### CAPÍTULO IX. DEL PROCEDIMIENTO ANTE EL CONSEJO LOCAL
+### CAPÍTULO VIII. DEL RÉGIMEN DISCIPLINARIO
 
 ###### Artículo 68.
 
@@ -1143,7 +1235,7 @@ En caso de que los órganos jurisdiccionales determinen que la resolución por l
 
 Tal circunstancia será inscrita en el Registro Nacional de Personal de Seguridad Pública a que hace referencia la Ley General, así como en el Sistema de Información y Seguimiento de la Fiscalía General.
 
-### CAPÍTULO I. DEL PATRIMONIO
+### CAPÍTULO IX. DEL PROCEDIMIENTO ANTE EL CONSEJO LOCAL
 
 ###### Artículo 72.
 
@@ -1157,7 +1249,7 @@ La organización, operación y funcionamiento del Consejo Local serán determina
 
 Además de las funciones que se otorguen al Consejo Local en términos del artículo anterior, dicha instancia será competente a través de la comisión respectiva para substanciar y resolver el procedimiento de separación o remoción de los miembros del Servicio a que alude el presente Título de conformidad con el Reglamento del Servicio.
 
-### CAPÍTULO II. DEL PRESUPUESTO
+### CAPÍTULO I. DEL PATRIMONIO
 
 #### SECCIÓN I. DE LOS DERECHOS Y OBLIGACIONES DE LOS MIEMBROS DEL SERVICIO
 
@@ -1339,7 +1431,7 @@ Los arrestos administrativos consisten en la limitación deambulatoria de un mie
 
 Los términos, formas y condiciones de las faltas leves, así como de la imposición de correcciones disciplinarias serán determinados en el Reglamento del Servicio.
 
-### CAPÍTULO III. DE LOS FONDOS
+### CAPÍTULO II. DEL PRESUPUESTO
 
 ###### Artículo 84.
 
@@ -1361,7 +1453,7 @@ El procedimiento a que se refiere el artículo anterior será substanciado por e
 
 ## TÍTULO CUARTO. DEL PATRIMONIO, PRESUPUESTO Y FONDOS DE LA FISCALÍA GENERAL
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO
+### CAPÍTULO III. DE LOS FONDOS
 
 ###### Artículo 86.
 
@@ -1405,7 +1497,7 @@ X. Los demás que determinen las disposiciones aplicables.
 
 Las multas impuestas por la Fiscalía General tendrán la naturaleza de créditos fiscales y serán enviadas para su cobro a la Secretaría de Finanzas del Estado de Oaxaca, quien una vez efectuado el mismo entregará las cantidades respectivas a la Institución, la cual podrá destinar dichos recursos para cubrir sus gastos de operación e inversión.
 
-### CAPÍTULO II. DE LOS SERVIDORES PÚBLICOS QUE EJERCEN FUNCIONES DE AGENTES DEL MINISTERIO PÚBLICO
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO
 
 ###### Artículo 88.
 
@@ -1419,7 +1511,7 @@ El ejercicio del presupuesto de la Fiscalía General se ejercerá en términos d
 
 El presupuesto de la Fiscalía General será utilizado para gasto corriente, proyectos de inversión, adquisición de bienes, servicios e inmuebles, así como en los demás fines que sean necesarios para el adecuado ejercicio de sus atribuciones, facultades y funciones.
 
-### CAPÍTULO III. DEL CONSEJO CONSULTIVO CIUDADANO
+### CAPÍTULO II. DE LOS SERVIDORES PÚBLICOS QUE EJERCEN FUNCIONES DE AGENTES DEL MINISTERIO PÚBLICO
 
 ###### Artículo 91.
 
@@ -1470,6 +1562,8 @@ VIII. Los que resulten aplicables de acuerdo a las necesidades del servicio en l
 En el caso de que conforme a las disposiciones aplicables a la Fiscalía General le corresponda constituir y administrar otros fondos, se realizará conforme a los instrumentos que para tal efecto emita el Fiscal General, así conforme a las disposiciones aplicables a la materia.
 
 ## TÍTULO QUINTO. DISPOSICIONES COMPLEMENTARIAS
+
+### CAPÍTULO III. DEL CONSEJO CONSULTIVO CIUDADANO
 
 ###### Artículo 95.
 
@@ -1656,3 +1750,13 @@ SEGUNDO. El Reglamento conforme a la estructura prevista en el presente Decreto 
 El Reglamento del Servicio conforme a la nueva carrera de los facilitadores que se incorpora en términos del presente Decreto, deberá expedirse por el Fiscal General dentro de los cien días naturales siguientes al de la entrada en vigor del presente Decreto, debiendo publicarse en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 En tanto se emitan (sic) la normatividad indispensable para el correcto funcionamiento de la Fiscalía General, se seguirán aplicando las disposiciones vigentes de la Fiscalía General al momento de la entrada en vigor del presente Decreto, en lo que no se opongan a la misma.
+
+P.O. 22 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1544.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+TERCERO. El Reglamento conforme a la estructura prevista en el presente Decreto deberá modificarse por el Fiscal General dentro de los treinta días naturales siguientes al de la entrada en vigor del presente Decreto, debiendo publicarse en el Periódico Oficial del Gobierno del Estado.
