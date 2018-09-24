@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2018-07-05"
+last_updated: "2018-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -865,13 +865,11 @@ La solicitud deberá ser firmada por los solicitantes, si alguno no pudiere o no
 
 A la solicitud a que se refiere el artículo anterior, se acompañarán los requisitos que establezca el Reglamento del Registro Civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Art. 103.
 
-Recibida la solicitud y cumplidos los requisitos, el Registro Civil, previamente a la celebración del matrimonio, deberá impartir una plática gratuita de al menos dos horas a los pretendientes, en la que se les hará saber los derechos y obligaciones que nacen del matrimonio, y los efectos que produce éste respecto a los bienes y con relación a los hijos, además se les dará información sobre salud reproductiva y planificación familiar, así como de prevención, detección, atención, sanción y erradicación de violencia intrafamiliar. De la impartición de dicha plática deberá levantarse constancia que firmarán los pretendientes.
+Recibida la solicitud y cumplidos los requisitos, el Registro Civil, previamente a la celebración del matrimonio, deberá informar de manera gratuita a los pretendientes, en la que se les hará saber los derechos y obligaciones que nacen del matrimonio, y los efectos que produce éste respecto a los bienes y con relación a los hijos, además se les dará información sobre salud reproductiva y planificación familiar, así como de prevención, detección, atención, sanción y erradicación de violencia intrafamiliar. De la información proporcionada deberá levantarse constancia que firmarán los pretendientes.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -1465,7 +1463,7 @@ III. El parentesco de consanguinidad legítima o natural, sin limitación de gra
 
 IV. El parentesco de afinidad en línea recta, sin limitación alguna;
 
-V. El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+V. (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 2018)
 
 VI. El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
@@ -1473,7 +1471,11 @@ VII. La fuerza o miedo graves. En caso de rapto subsiste el impedimento entre el
 
 VIII. La embriaguez habitual, la morfinomanía, eteromanía y el uso indebido y persistente de las demás drogas enervantes. Las enfermedades o conformaciones especiales que sean contrarias a los fines del matrimonio, bien porque impidan las funciones relativas, bien porque sean contagiosas e incurables o bien porque científicamente hagan prever algún perjuicio grave o degeneración para los descendientes en ese matrimonio. La impotencia no será impedimento cuando exista por la edad o por otra causa cualquiera, en alguno o en ambos contrayentes y sea conocida de ellos;
 
-IX. La locura, el idiotismo y la imbecilidad;
+(NOTA: EL 30 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+IX. LA DISCAPACIDAD INTELECTUAL;
 
 X. El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
@@ -2155,7 +2157,7 @@ La acción que nace de esta clase de nulidad, y la que dimana del parentesco de 
 
 ###### Art. 299.
 
-La acción de nulidad que nace de la causa prevista en la fracción V del artículo 153, podrá deducirse por el cónyuge ofendido o por el Ministerio Público en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público si este matrimonio se ha disuelto por muerte del cónyuge ofendido. En uno y en otro caso la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Art. 300.
 
@@ -2469,33 +2471,59 @@ El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado 
 
 Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes, a la subsistencia y educación de los hijos varones hasta que lleguen a la mayor edad, o después de ésta si se encuentran imposibilitados para trabajar y carecen de bienes propios suficientes, y de las hijas aunque sean mayores de edad, hasta que contraigan matrimonio, siempre que vivan honestamente.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 342.
 
-En los casos de divorcio, la mujer inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente. El marido inocente sólo tendrá derecho a alimentos cuando esté imposibilitado para trabajar y no tenga bienes propios para subsistir. Además, cuando por el divorcio se originen daños y perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+En los casos de divorcio, los cónyuges, mientras no contraigan nuevas nupcias, tendrán derecho a alimentos, los que se fijarán de acuerdo a los principios de equidad y proporcionalidad, tomando en cuenta las siguientes circunstancias:
 
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia, ni a la indemnización que concede este artículo.
+I. La edad y el estado de salud de los cónyuges;
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+II. Su calificación profesional y posibilidad de acceso a un empleo;
+
+III. Duración del matrimonio y dedicación pasada y futura a la familia;
+
+IV. Colaboración con su trabajo en las actividades del cónyuge;
+
+V. Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
+
+VI. Las demás obligaciones que tenga el cónyuge deudor.
+
+Además, cuando por el divorcio se originen daños y perjuicios a uno de ellos, se responderá como autor de un hecho ilícito.
+
+En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a alimentos, ni al pago de daños y perjuicios, referidos en este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Art. 342-A.
 
-En la demanda de divorcio el cónyuge inocente podrá demandar al otro una compensación de hasta el cincuenta por ciento del valor de los bienes que se adquirieron durante el matrimonio, siempre que ocurran las siguientes circunstancias:
+Cualquier cónyuge podrá demandar al otro una compensación de hasta el cincuenta por ciento del valor de los bienes que se adquirieron durante el matrimonio, siempre que ocurran las siguientes circunstancias:
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2009)</small>
 
 I. Haber estado casado bajo el régimen de separación de bienes; y
 
-II. Que el demandante se haya dedicado en el lapso en que duró el matrimonio preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
-El Juez en la sentencia de divorcio habrá de resolver atendiendo al tiempo que duró el matrimonio, los bienes con que cuente el cónyuge inocente, la custodia de los hijos y las demás circunstancias especiales de cada caso.
+II. Que el demandante se haya dedicado en el lapso en que duró el matrimonio preponderantemente al desempeño del trabajo del hogar como son, las tareas de administración, dirección y atención del mismo o cuidado de la familia, entre otros.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+El Juez habrá de resolver atendiendo al tiempo que duró el matrimonio, los bienes con que cuenten los cónyuges, la custodia de los hijos y las demás circunstancias especiales de cada caso.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
 
 Se exceptúan de los bienes establecidos en este artículo, los que se adquieran por sucesión y donación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 343.
 
-En virtud del divorcio, los cónyuges recobran su entera capacidad para contraer nuevo matrimonio. La mujer no podrá seguir usando el apellido del marido.
+En virtud del divorcio, los cónyuges recobran su entera capacidad para contraer nuevo matrimonio.
 
-El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de dos años, a contar desde que se decretó el divorcio.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
-Para que los cónyuges que se divorcian, voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Art. 344.
 
@@ -2591,11 +2619,15 @@ Los hermanos y demás parientes colaterales, a que se refiere el artículo anter
 
 El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Art. 362.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación básica obligatoria del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+Los alimentos comprenden la comida, el vestido, la habitación, la asistencia en casos de enfermedad y las expensas necesarias para la educación obligatoria del alimentista.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+Respecto de los hijos, los alimentos comprenden, además, los gastos para proporcionarle algún oficio, arte o profesión lícita y adecuados a sus circunstancias personales.
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
@@ -2613,21 +2645,25 @@ El deudor alimentista no podrá pedir que se incorpore a su familia el que debe 
 
 Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
-Determinados por convenio o sentencia, los alimentos tendrán una actualización automática mínima equivalente al aumento porcentual anual correspondiente a la Unidad de Medida y Actualización diaria, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción.
+Determinados por convenio o sentencia, los alimentos tendrán una actualización automática mínima equivalente al aumento porcentual anual correspondiente al salario mínimo general, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
 
 En este caso, la actualización en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Art. 365-A.
 
-Los menores, las personas con discapacidad, los sujetos a estado de interdicción y el cónyuge que se dedique al hogar, gozan de la presunción de necesitar alimentos.
+Los menores, las personas con discapacidad, los sujetos a estado de interdicción y el cónyuge o concubinario que se dedique al hogar, gozan de la presunción de necesitar alimentos.
 
-Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez de la causa resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+###### Art. 365-B.
+
+Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el juez de la causa resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
 
 ###### Art. 366.
 
@@ -2693,13 +2729,21 @@ Cesa la obligación de dar alimentos en caso de injuria, falta o daño graves in
 
 El derecho de recibir alimentos no puede ser objeto de transacción y es irrenunciable o intransmisible; pero sí pueden ser objetos de las operaciones indicadas las pensiones caídas.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 377.
 
-Cuando el marido no estuviere presente, o estándolo rehusare entregar a la mujer lo necesario para los alimentos de ella o de los hijos, será responsable de las deudas que la esposa contraiga para cubrir esa exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
+Cuando el obligado a proporcionar alimentos no estuviere presente, o estándolo rehusare entregar lo necesario para los alimentos de sus acreedores, será responsable de los gastos que éstos hubieren efectuado para cubrir esa exigencia, con sus intereses y demás gastos accesorios; pero sólo en la cuantía estrictamente necesaria para ese objeto, conforme a las circunstancias del caso y siempre que no se trate de gastos de lujo.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando el deudor de alimentos caídos no tenga manera de comprobar su salario o ingresos, se estará a lo dispuesto en el artículo 365-B.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Art. 378.
 
-La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al Juez de Primera Instancia de lo Civil del lugar de su residencia que obligue a su esposo a darle alimentos durante la separación y a que le ministre todos los que haya dejado de darle desde que ésta tuvo lugar. El Juez, según las circunstancias del caso, fijará la suma que el marido deba pagar a la esposa y la que deba ministrarle mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
+El acreedor alimentista que, sin culpa suya, se vea obligado a vivir separado de su deudor, podrá pedir al Juez de Partido de lo civil del lugar de su residencia que obligue a éste a darle alimentos durante la separación y a que le ministre todos los que haya dejado de darle desde que ésta tuvo lugar. El Juez, según las circunstancias del caso, fijará la suma que se deba pagar y la que deba ministrarse mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el deudor pague los gastos que el acreedor haya tenido que erogar con tal motivo, con sus intereses y demás gastos accesorios.
 
 ###### Art. 379.
 
@@ -2759,9 +2803,11 @@ Las cuestiones relativas a la paternidad del hijo nacido después de trescientos
 
 En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días contados desde el nacimiento, si está presente; desde el día en que llegó al lugar si estuvo ausente o desde el día en que descubrió el engaño, si se le ocultó el nacimiento.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 388.
 
-Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejercitado por su tutor. Si éste no lo ejercitare podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+Si el marido está bajo tutela por causa de discapacidad intelectual, este derecho puede ser ejercitado por su tutor. Si éste no lo ejercitare podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ###### Art. 389.
 
@@ -3743,7 +3789,11 @@ Tienen incapacidad natural y legal:
 
 I. Los menores de edad;
 
-II. Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+(NOTA: EL 30 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+II. LOS MAYORES DE EDAD CON DISCAPACIDAD INTELECTUAL, AUN CUANDO TENGAN INTERVALOS LÚCIDOS;
 
 III. Los sordomudos que no sepan leer ni escribir;
 
@@ -3817,9 +3867,11 @@ Ninguna tutela puede conferirse sin que previamente se declare, en los términos
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 518.
 
-El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayor edad.
+El menor de edad con discapacidad intelectual, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayor edad.
 
 Si al cumplirse ésta continuará el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
@@ -3827,9 +3879,11 @@ Si al cumplirse ésta continuará el impedimento, el incapaz se sujetará a nuev
 
 El hijo menor de edad de un incapacitado quedará bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo se le proveerá de un tutor.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 520.
 
-El cargo de tutor de un demente, idiota, imbécil, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras conserve su carácter de tal. Los extraños que desempeñen la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor de la persona con discapacidad intelectual, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras conserve su carácter de tal. Los extraños que desempeñen la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ###### Art. 521.
 
@@ -3897,7 +3951,7 @@ Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare t
 
 Al adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
-### Capítulo IV. De la tutela legítima de los dementes, idiotas, imbéciles, sordomudos, ebrios y de los que habitualmente abusan de las drogas enervantes
+### Capítulo IV. De la Tutela Legítima de las Personas con Discapacidad Intelectual, Sordomudos, Ebrios y de los que Habitualmente Abusan de las Drogas Enervantes
 
 ###### Art. 536.
 
@@ -3923,6 +3977,8 @@ Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores y en su caso conforme al artículo 522.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ### Capítulo V. De la tutela legítima de los menores expósitos o abandonados
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
@@ -3932,6 +3988,10 @@ La falta temporal del tutor legítimo se suplirá en los términos establecidos 
 ###### Art. 540.
 
 El marido es tutor legítimo y forzoso de su mujer y ésta lo es de su marido.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+Las mismas reglas aplicarán en caso de concubinato.
 
 ###### Art. 541.
 
@@ -4083,9 +4143,11 @@ VI. El tutor que permanezca ausente por más de seis meses del lugar en que debe
 
 No pueden ser tutores ni curadores del demente los que hayan causado intencionalmente la demencia, ni los que la hayan fomentado directa o indirectamente.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 560.
 
-Lo dispuesto en el artículo anterior se aplicará en cuanto fuere posible a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes.
+Lo dispuesto en el artículo anterior se aplicará en cuanto fuere posible a la tutela de las personas con discapacidad intelectual, sordomudos, ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes.
 
 ###### Art. 561.
 
@@ -14769,6 +14831,8 @@ Si el que entró en posesión de la herencia y la pierde después por incapacida
 
 ### Capítulo V. De los bienes de que se puede disponer por testamento y de los testamentos inoficiosos
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 2600.
 
 El testador es libre para establecer condiciones al disponer de sus bienes.
@@ -14869,21 +14933,7 @@ Si el legado consistiere en prestación periódica, el legatario hará suyas tod
 
 ###### Art. 2624.
 
-El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
-
-I. A los descendientes varones menores de veintiún años;
-
-II. A los descendientes varones que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente, unos y otras aun cuando fueran mayores de veintiún años;
-
-III. Al cónyuge supérstite, siempre que siendo varón esté impedido de trabajar, o que siendo mujer permanezca viuda y viva honestamente;
-
-IV. A los ascendientes;
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2008)</small>
-
-V. A la mujer o al varón siempre y cuando hayan vivido como si fueran cónyuges durante los cinco años que precedieron inmediatamente a su muerte o que hubieren procreado hijos, a condición de que ambos hayan permanecido libres de matrimonio durante ese tiempo; y
-
-VI. A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
+El testador debe dejar alimentos a las personas con las que tenga esa obligación de acuerdo a lo que establece éste Código.
 
 ###### Art. 2625.
 
@@ -17428,3 +17478,9 @@ P.O. 5 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 319, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 205 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO; SE REFORMA EL ARTÍCULO 1895 Y SE DEROGAN LOS ARTÍCULOS 1896 Y 1897 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico oficial de (sic) Gobierno del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 324, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 103, PRIMER PÁRRAFO; 153, FRACCIÓN IX; 342; 342-A, PRIMER PÁRRAFO Y SU FRACCIÓN II Y EL SEGUNDO PÁRRAFO; 343, PRIMER PÁRRAFO; 362, PRIMER PÁRRAFO; 365, SEGUNDO PÁRRAFO; 365-A; 377; 378; 388; 503, FRACCIÓN II; 518, PRIMER PÁRRAFO; 520; LA DENOMINACIÓN DEL CAPÍTULO IV, DEL TÍTULO NOVENO, DEL LIBRO PRIMERO; 560; Y 2624. SE ADICIONAN LOS ARTÍCULOS 362, CON UN SEGUNDO PÁRRAFO Y SE RECORRE EL ACTUAL SEGUNDO PÁRRAFO COMO TERCERO; 365-B; 377, CON UN SEGUNDO PÁRRAFO; 540, CON UN SEGUNDO PÁRRAFO. SE DEROGAN LOS ARTÍCULOS 153, FRACCIÓN V; 299; 343, SEGUNDO Y TERCER PÁRRAFOS; DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
