@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-ministerio-publico-del-estado-de-guanajuato-78
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-24"
-last_updated: "2017-07-14"
+last_updated: "2018-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 2010.
 
@@ -285,7 +287,7 @@ III. Coordinar y supervisar la actuación de la policía, en el ámbito de su co
 
 IV. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que las leyes consideren como delitos en materia de corrupción;
 
-V. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que las leyes consideren como delitos en materia de corrupción:
+V. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que las leyes consideren como delitos en materia de corrupción;
 
 VI. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considere como delitos en materia de corrupción;
 
@@ -423,11 +425,9 @@ III. Fijar, dirigir y controlar las acciones de la Procuraduría, así como esta
 
 IV. Proponer al titular del Poder Ejecutivo los proyectos de iniciativas de ley y de reformas legislativas en el ámbito de su competencia, así como de reglamentos, necesarios para el cumplimiento de las funciones de la Procuraduría;
 
-V. Solicitar la declaración de procedencia por la comisión de delitos del orden común en contra de los servidores públicos a que hacen referencia la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política para el Estado de Guanajuato, así como pedir el ejercicio de esa atribución a la Procuraduría General de la República por la comisión de delitos del ámbito de su competencia;
+V. (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 2018)
 
 VI. Orientar las políticas de participación de la Procuraduría en las instancias de coordinación de los Sistemas Nacional y Estatal de Seguridad Pública, de acuerdo con la ley de la materia y demás disposiciones aplicables, así como participar, promover, celebrar, ejecutar y dar seguimiento en el ámbito de su competencia a los acuerdos que se adopten en el marco de dichos sistemas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2448,3 +2448,9 @@ Artículo Cuarto. El Poder Legislativo y la Secretaría de Finanzas, Inversión 
 Transferencia de recursos y seguimiento de asuntos
 
 Artículo Quinto. Los recursos materiales asignados, los asuntos que tiene a su cargo y el personal adscrito a la actual Fiscalía Especializada en Investigación de Delitos cometidos por Servidores Públicos de la Procuraduría General de Justicia del Estado, serán transferidos a la Fiscalía Especializada en Combate a la Corrupción.
+
+P.O. 24 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 334, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
