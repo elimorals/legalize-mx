@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-los-migrantes-y-sus-familias-del-82576"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-24"
-last_updated: "2011-08-24"
+last_updated: "2018-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA LEY DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO DE LA LEY DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACAN DE OCAMPO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 24 de agosto de 2011.
 
 LEONEL GODOY RANGEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, en ejercicio de las facultades que me confieren los artículos 60 fracciones I y XXII, 62, 65 y 66 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo; 3°, 4°, 9°, 15, 16 y 18 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo; 2º, 8º fracción V, y Artículo Segundo Transitorio de la Ley de los Migrantes y sus Familias del Estado de Michoacán de Ocampo; y,
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo expuesto, he tenido a bien expedir el siguiente:
 
@@ -420,3 +424,15 @@ LA SECRETARIA DEL MIGRANTE
 ZAIRA ERÉNDIRA MANDUJANO FERNÁNDEZ
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento de la Ley de los Migrantes y sus Familias del Estado de Michoacán de Ocampo, publicado en el tomo CLII, sexta sesión, número 42 del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 24 de agosto de 2011.
+
+Tercero. Se derogan todas aquellas disposiciones de carácter administrativo que se opongan al presente Reglamento.
