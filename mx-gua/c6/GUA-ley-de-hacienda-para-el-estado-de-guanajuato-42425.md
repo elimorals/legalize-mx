@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2016-12-27"
+last_updated: "2018-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -565,17 +567,37 @@ Los organismos descentralizados, sus sucursales o expendios autorizados, a que s
 
 ### CAPÍTULO QUINTO. DEL IMPUESTO POR SERVICIOS DE HOSPEDAJE
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 38.
 
-Es objeto de este impuesto el pago por la prestación de servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido.
+Es objeto de este impuesto el pago por la prestación de servicios de:
+
+I.- Hospedaje en:
+
+a) Establecimientos hoteleros, hostales o moteles; y
+
+b) Departamentos y casas, total o parcialmente;
+
+II.- Campamentos;
+
+III.- Paraderos de casas rodantes; y
+
+IV.- Tiempo compartido.
 
 Se entiende por prestación de servicios de hospedaje, el otorgamiento de albergue o alojamiento a cambio de una contraprestación en dinero o en especie, sea cual fuere la denominación con la que se le designe.
 
 Para tales efectos se entiende prestado el servicio, cuando el mismo se lleve a cabo total o parcialmente, dentro del territorio del Estado, independientemente del lugar donde se acuerde o realice el pago o contraprestación por dichos servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 39.
 
-Están obligados al pago de este impuesto, las personas físicas o morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban los servicios objeto de este impuesto.
+Están obligados al pago de este impuesto, las personas físicas o morales que presten los servicios a que se refiere el artículo anterior, quienes deberán trasladar su importe a las personas que reciban los servicios objeto de este impuesto.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+En los supuestos previstos en las fracciones I, inciso b), II y III del artículo 38 de esta Ley, cuando la contraprestación por servicios de hospedaje se cubra a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, éstas deberán retener y enterar este impuesto.
 
 ###### Artículo 40.
 
@@ -593,7 +615,9 @@ Este impuesto se causará y liquidará, aplicando a la base gravable a que se re
 
 Este impuesto se causará en el momento del pago por la prestación del servicio de hospedaje recibido.
 
-Este impuesto no se causa por los servicios de albergue o alojamiento prestados por hospitales, clínicas o sanatorios, conventos, asilos, seminarios, internados u orfanatos, casas de huéspedes sin fines turísticos y de beneficencia o asistencia social.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+Este impuesto no se causa por los servicios de albergue o alojamiento prestados por hospitales, clínicas o sanatorios, conventos, asilos, seminarios, internados u orfanatos, casas de beneficencia o asistencia social.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
@@ -601,15 +625,23 @@ Este impuesto no se causa por los servicios de albergue o alojamiento prestados 
 
 El impuesto se pagará mediante declaraciones definitivas, a más tardar el día 22 del mes siguiente a aquél en que se perciban las contraprestaciones que dan origen al pago del impuesto, mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general.
 
-Los contribuyentes deberán presentar sus declaraciones mensuales definitivas en términos de lo dispuesto en el primer párrafo del presente artículo, aun cuando no exista impuesto a pagar y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras retengan este impuesto, deberán enterarlo mediante declaraciones definitivas en términos del primer párrafo de este artículo, proporcionando la información de las personas físicas o morales que prestaron el servicio de hospedaje y de la totalidad de las operaciones en las que hayan intervenido.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+Los contribuyentes y retenedores de este impuesto, deberán presentar sus declaraciones mensuales definitivas en términos de lo dispuesto en el presente artículo, aun cuando no exista impuesto a pagar o enterar, y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 44.
 
-Los contribuyentes de este impuesto además de las obligaciones señaladas en el Código Fiscal para el Estado, tendrán las siguientes:
+Los contribuyentes y retenedores de este impuesto, además de las obligaciones señaladas en este Capítulo y el Código Fiscal para el Estado de Guanajuato, tendrán las siguientes:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
-I.- Solicitar su inscripción al Registro Estatal de Contribuyentes;
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes. Tratándose de personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras retengan este impuesto, deberán inscribirse bajo tal carácter, de conformidad con las reglas de carácter general que al efecto emita la Secretaría de Finanzas, Inversión y Administración:
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
@@ -1098,3 +1130,9 @@ P.O. 27 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 171, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DEL AÑO 2017”.]
 
 Artículo Único. El presente decreto entrará en vigor el 1 de enero de 2017.
+
+P.O. 24 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 343, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 38, PRIMER PÁRRAFO, 39, PRIMER PÁRRAFO, 42, SEGUNDO PÁRRAFO, 43, SEGUNDO PÁRRAFO QUE AHORA SERÁ TERCER PÁRRAFO Y 44, PRIMER PÁRRAFO Y FRACCIÓN I; Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 39 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 43, PARA QUEDAR EL ACTUAL PÁRRAFO SEGUNDO COMO PÁRRAFO TERCERO DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
