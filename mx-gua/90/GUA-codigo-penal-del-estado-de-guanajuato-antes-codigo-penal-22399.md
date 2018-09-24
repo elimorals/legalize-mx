@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2018-07-05"
+last_updated: "2018-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -353,6 +353,10 @@ IV.- Se actúe con el consentimiento válido del sujeto pasivo, siempre que el b
 
 V.- Se obre en defensa de bienes jurídicos, propios o ajenos, contra agresión ilegítima, actual o inminente, siempre que exista necesidad razonable de la defensa empleada para repelerla o impedirla;
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+Se presumirá como legítima defensa, salvo prueba en contrario, el hecho de causar daño a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a la casa habitación del agente, al de su familia, a sus dependencias, o a los de cualquier persona que tenga la obligación de defender, al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión;
+
 VI.- En situación de peligro para un bien jurídico, propio o ajeno, se lesionare otro bien para evitar un mal mayor, siempre que concurran los siguientes requisitos:
 
 a) Que el peligro sea actual o inminente.
@@ -379,9 +383,7 @@ IX.- Atentas las circunstancias que concurren en la realización de una conducta
 
 X.- El resultado típico se produce por caso fortuito.
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
-
-XI. Se obre en defensa de bienes jurídicos, propios o ajenos, contra agresión ilegítima por intrusión actual a casa habitación.
+XI.- (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 34.
 
@@ -2795,7 +2797,7 @@ A quien ejerza los actos propios de una profesión o especialidad sin tener tít
 
 ### CAPÍTULO I. COHECHO
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ## TÍTULO QUINTO. DE LOS DELITOS CONTRA EL DESARROLLO DE LAS PERSONAS MENORES E INCAPACES
 
@@ -2803,7 +2805,7 @@ A quien ejerza los actos propios de una profesión o especialidad sin tener tít
 
 ### CAPÍTULO II. PECULADO
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 240
 
@@ -2863,7 +2865,7 @@ Las sanciones que señalan los artículos anteriores se aumentarán hasta en una
 
 ### CAPÍTULO III. CONCUSIÓN
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 239
 
@@ -2877,7 +2879,7 @@ a.- Además de las sanciones impuestas a quienes incurran en los delitos descrit
 
 ### CAPÍTULO IV. ENRIQUECIMIENTO ILÍCITO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 240.
 
@@ -2907,17 +2909,17 @@ c.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO VI. ABANDONO DE FUNCIONES PÚBLICAS
+### CAPÍTULO VI. TRÁFICO DE INFLUENCIAS
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 258], P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 #### SECCIÓN CUARTA. DELITOS CONTRA EL ESTADO
 
 ## TÍTULO PRIMERO. DE LOS DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPÍTULO VII. FALSEDAD ANTE UNA AUTORIDAD
+### CAPÍTULO VII. ABUSO DE AUTORIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 261], P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 241.
 
@@ -2933,33 +2935,33 @@ III.- Separar de sus cargos a alguno de los funcionarios del Estado, mencionados
 
 No se aplicará sanción por el delito de rebelión a quien habiéndose alzado deponga las armas antes de ser tomado prisionero.
 
-### CAPÍTULO VIII. VARIACIÓN DE NOMBRE O DOMICILIO
+### CAPÍTULO VIII. EJERCICIO ILÍCITO DEL SERVICIO PÚBLICO
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 243.
 
 A quienes en forma tumultuaria y violenta resistan o ataquen a la autoridad para impedir u obstaculizar el ejercicio de sus funciones, se les aplicará de tres meses a tres años de prisión y de tres a treinta días multa.
 
-### CAPÍTULO IX. DESOBEDIENCIA, RESISTENCIA Y EXIGENCIA DE PARTICULARES
+### CAPÍTULO IX. USO ILÍCITO DE ATRIBUCIONES Y FACULTADES
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 244.
 
 A quienes para ejercitar un derecho o pretendido derecho tumultuariamente empleen violencia en las personas o en las cosas, se les aplicará de seis meses a dos años de prisión y de cinco a veinte días multa.
 
-### CAPÍTULO X. TRÁFICO DE INFLUENCIAS
+### CAPÍTULO X. AFECTACIÓN DEL SERVICIO PÚBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 245.
 
 A quien por cualquier medio realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor o terror en la población o en un sector de ella, para perturbar la paz pública, menoscabar la autoridad del Estado o presionar a la autoridad para que tome una determinación, se le impondrá prisión de tres a quince años y de treinta a ciento cincuenta días multa.
 
-### CAPÍTULO XI. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
+### CAPÍTULO XI. REGLAS COMUNES
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 246.
 
@@ -2967,43 +2969,47 @@ A quienes sean responsables de los delitos previstos en este título, se les san
 
 Tratándose de personas extranjeras se aumentará hasta un tercio de la punibilidad prevista para cada delito.
 
-## TÍTULO SEGUNDO. DE LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
+## TÍTULO SEGUNDO. DE LOS DELITOS POR HECHOS DE CORRUPCIÓN
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+### CAPÍTULO I. ABANDONO DE FUNCIONES PÚBLICAS
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 252], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 247.
 
-Al servidor público que por sí o por medio de otro solicite, reciba o acepte promesas, dádivas o ventajas para hacer u omitir un acto lícito o ilícito relacionado con sus funciones, se le aplicará prisión de uno a seis años, de diez a sesenta días multa e inhabilitación hasta por cinco años para desempeñar cualquier función pública.
-
-A quien dé o haga promesas, dádivas o ventajas a un servidor público para que haga u omita un acto lícito o ilícito relacionado con sus funciones, se le aplicará la misma pena de prisión establecida en el párrafo anterior.
-
-### CAPÍTULO XIII. ABUSO DE AUTORIDAD
+Al servidor público que por sí o por medio de otro solicite, reciba o acepte promesas, dádivas o ventajas para hacer u omitir un acto lícito o ilícito relacionado con sus funciones, se le aplicará prisión de uno a ocho años y de diez a ochenta días multa.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
+A quien dé o haga promesas, dádivas o ventajas a un servidor público para que haga u omita un acto lícito o ilícito relacionado con sus funciones, se le aplicará la misma pena de prisión establecida en el párrafo anterior.
+
+### CAPÍTULO II. FALSEDAD ANTE UNA AUTORIDAD
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 253], P.O. 24 DE SEPTIEMBRE DE 2018)
+
 ###### Artículo 248.
 
-Al servidor público que disponga de un bien que hubiere recibido en razón de su cargo, se le impondrá de dos a diez años de prisión y de veinte a cien días multa; así como destitución del empleo o cargo e inhabilitación por el mismo término de la pena privativa de libertad impuesta.
+Al servidor público que disponga de un bien que hubiere recibido en razón de su cargo, se le impondrá de dos a diez años de prisión y de veinte a cien días multa.
 
-### CAPÍTULO XIV. AFECTACIÓN AL ORDENAMIENTO TERRITORIAL
+### CAPÍTULO III. VARIACIÓN DE NOMBRE O DOMICILIO
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2018)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 254], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 249.
 
-Al servidor público que con tal carácter, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida o en mayor cantidad que la señalada por la ley se le aplicará de uno a seis años de prisión, de diez a cincuenta días multa, destitución del empleo o cargo e inhabilitación hasta seis años.
+Al servidor público que con tal carácter, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida o en mayor cantidad que la señalada por la ley se le aplicará de uno a ocho años de prisión y de diez a ochenta días multa.
 
-Si lo exigido indebidamente se convirtiera en provecho propio o de un particular, la pena será de tres a ocho años de prisión y de treinta a ochenta días multa, destitución e inhabilitación hasta seis años para obtener otro cargo público.
+Si lo exigido indebidamente se convirtiera en provecho propio o de un particular, la pena será de tres a nueve años de prisión y de treinta a noventa días multa.
 
-### CAPÍTULO XV. DESAPARICIÓN FORZADA DE PERSONAS
+### CAPÍTULO IV. DESOBEDIENCIA, RESISTENCIA Y EXIGENCIA DE PARTICULARES
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 255], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 250.
 
-Al servidor público que durante el tiempo de su cargo y por motivos del mismo, aumente ilícitamente su patrimonio o se conduzca como dueño de bienes no incluidos formalmente en aquél, se le aplicará de tres a doce años de prisión y de treinta a ciento veinte días multa, destitución del empleo o cargo e inhabilitación hasta por dieciocho años.
+Al servidor público que durante el tiempo de su cargo y por motivos del mismo, aumente ilícitamente su patrimonio o se conduzca como dueño de bienes no incluidos formalmente en aquél, se le aplicará de tres a doce años de prisión y de treinta a ciento veinte días multa.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -3011,7 +3017,9 @@ Para efectos del párrafo anterior, se computarán entre los bienes que adquiera
 
 Las mismas sanciones se aplicarán a quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido ilícitamente, a sabiendas de esa circunstancia.
 
-### CAPÍTULO XVI. DISPOSICIONES COMUNES
+### CAPÍTULO V. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 259], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 251.
 
@@ -3019,109 +3027,187 @@ A quien indebidamente se atribuya y ejerza funciones públicas, se le sancionar�
 
 Se sancionará con prisión de tres a doce años y de treinta a ciento veinte días multa a quien indebidamente se atribuya y ejerza funciones de seguridad pública.
 
+(REUBICADO [N. DE E. ANTES CAPÍTULO X], P.O. 24 DE SEPTIEMBRE DE 2018)
+
+### CAPÍTULO VI. QUEBRANTAMIENTO DE SELLOS
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 260], P.O. 24 DE SEPTIEMBRE DE 2018)
+
+###### Artículo 252.
+
+Se impondrá de seis meses a cuatro años de prisión y de cinco a cuarenta días multa:
+
+I.- Al servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las funciones inherentes a su empleo, cargo o comisión.
+
+II.- A quien promueva la conducta ilícita del servidor público o se preste a la promoción o gestión a que se hace referencia en la fracción anterior.
+
+III.- Al servidor público que por sí o por interpósita persona, indebidamente solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí, su cónyuge, concubino, parientes consanguíneos o por afinidad hasta el cuarto grado, cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el agente o las personas antes referidas formen parte.
+
+IV.- Al servidor público que por sí o por interpósita persona, valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga inversiones, enajenaciones, adquisiciones o cualquier otro acto que le produzca algún beneficio económico al servidor público o a alguna de las personas mencionadas en la fracción anterior.
+
+V.- A quien, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIII], P.O. 24 DE SEPTIEMBRE DE 2018)
+
+### CAPÍTULO VII. AFECTACIÓN AL ORDENAMIENTO TERRITORIAL
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2018)</small>
+
+###### Artículo 253.
+
+Al servidor público que dolosamente, con motivo de sus funciones exceda el límite de sus potestades o atribuciones, en detrimento de un particular o de la función pública, se le impondrá de dos a ocho años de prisión y de veinte a ochenta días multa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO VIII. DESAPARICIÓN FORZADA DE PERSONAS
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 253
+
+a.- Comete el delito de ejercicio ilícito del servicio público, el servidor público que:
+
+I.- Por sí o por interpósita persona, proporcione, filtre, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que sea reservada o confidencial y se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
+
+II.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
+
+A quienes incurran en las conductas señaladas en las fracciones anteriores, se le impondrán de dos a siete años de prisión y de veinte a setenta días multa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO IX. DISPOSICIONES COMUNES
+
+###### Artículo 253
+
+b.- Comete el delito de uso ilícito de atribuciones y facultades, el servidor público que:
+
+I.- Otorgue o realice, ilícitamente, permisos, contratos, licencias, adjudicaciones, exenciones, deducciones o subsidios, pagos o autorizaciones de contenido económico.
+
+II.- Contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, o le permita participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que lo haga con conocimiento de tal situación.
+
+III.- Teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados.
+
+A quienes incurran en las conductas señaladas en las fracciones anteriores, se le impondrán de uno a doce años de prisión y de diez a ciento veinte días multa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
 ### CAPÍTULO I. TORTURA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
-###### Artículo 252.
+###### Artículo 253
 
-A quien injustificadamente abandone las funciones públicas que legalmente tenga conferidas, se le sancionará con prisión de seis meses a dos años y de cinco a veinte días multa.
+c.- Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del Estado o de los municipios, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+I.- Utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga.
+
+II.- Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de cinco a noventa días multa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ### CAPÍTULO II. INTIMIDACIÓN
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
-###### Artículo 253.
+###### Artículo 253
 
-A cualquier persona que en la promoción, declaración, informe, peritaje, traducción o interpretación que haga ante la autoridad competente se conduzca falsamente, oculte o niegue intencionadamente la verdad, se le impondrá de dos a ocho años de prisión y de veinte a ochenta días multa.
+d.- Adicionalmente a las sanciones previstas en el presente Título, se impondrá a los servidores públicos responsables, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, por un plazo de uno a veinte años, atendiendo a los siguientes criterios:
 
-Lo previsto en este artículo no es aplicable a quien tenga el carácter de inculpado.
+I.- Será por un plazo de uno hasta diez años cuando no exista daño o perjuicio o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+II.- Será por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 253
+
+e.- Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, atendiendo los criterios del artículo 253-d.
+
+(REUBICADO [N. DE E. ANTES TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
+
+## TÍTULO TERCERO. DE LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO III. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
+###### Artículo 254.
+
+A quien injustificadamente abandone las funciones públicas que legalmente tenga conferidas, se le sancionará con prisión de seis meses a dos años y de cinco a veinte días multa.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 24 DE SEPTIEMBRE DE 2018)
+
 ### CAPÍTULO IV. FRAUDE PROCESAL
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+###### Artículo 255.
+
+A cualquier persona que en la promoción, declaración, informe, peritaje, traducción o interpretación que haga ante la autoridad competente se conduzca falsamente, oculte o niegue intencionadamente la verdad, se le impondrá de dos a ocho años de prisión y de veinte a ochenta días multa.
+
+Lo previsto en este artículo no es aplicable a quien tenga el carácter de inculpado.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VIII DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO V. FALSAS DENUNCIAS
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
+###### Artículo 256.
+
+A quien para eludir el cumplimiento de un mandato de autoridad, oculte su nombre o domicilio, designe otro distinto, altere las señales materiales que lo individualizan o niegue de cualquier modo el verdadero, se le impondrá prisión de uno a cinco años y de diez a cincuenta días multa.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO IX DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
+
 ### CAPÍTULO VI. ATRIBUCIÓN INDEBIDA DE INDICIOS
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-## TÍTULO TERCERO. DE LOS DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
+###### Artículo 257.
+
+A quien agotadas las medidas legales de apremio, se rehusare a cumplir un mandato de autoridad, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 256], P.O. 24 DE SEPTIEMBRE DE 2018)
+
+###### Artículo 258.
+
+A quien empleando la violencia física o moral se oponga a que una autoridad ejerza alguna de sus funciones o resista el cumplimiento de una de sus órdenes cuya ejecución se lleve a cabo en forma legal, se le aplicará de dos a seis años de prisión y de veinte a sesenta días multa.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 257], P.O. 24 DE SEPTIEMBRE DE 2018)
+
+###### Artículo 259.
+
+A quien por medio de la violencia física o moral exija a una autoridad la ejecución u omisión de un acto oficial, esté o no dentro de sus atribuciones, se le impondrá de dos a seis años de prisión y de veinte a sesenta días multa.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XI DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO VII. EVASIÓN DE DETENIDOS, INCULPADOS O SENTENCIADOS
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-###### Artículo 254.
+###### Artículo 260.
 
-A quien para eludir el cumplimiento de un mandato de autoridad, oculte su nombre o domicilio, designe otro distinto, altere las señales materiales que lo individualizan o niegue de cualquier modo el verdadero, se le impondrá prisión de uno a cinco años y de diez a cincuenta días multa.
+A quien con actos materiales entorpezca o se oponga a la ejecución de obras o trabajos públicos legalmente ordenados por una autoridad, se le impondrá de dos a seis años de prisión y de veinte a sesenta días multa.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XII DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO VIII. QUEBRANTAMIENTO DE SANCIONES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
-###### Artículo 255.
+###### Artículo 261.
 
-·A quien agotadas las medidas legales de apremio, se rehusare a cumplir un mandato de autoridad, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
+A quien quebrante sellos puestos por orden de una autoridad, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIV DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO IX. ENCUBRIMIENTO
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-###### Artículo 256.
-
-A quien empleando la violencia física o moral se oponga a que una autoridad ejerza alguna de sus funciones o resista el cumplimiento de una de sus órdenes cuya ejecución se lleve a cabo en forma legal, se le aplicará de dos a seis años de prisión y de veinte a sesenta días multa.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-### CAPÍTULO X. EJERCICIO ARBITRARIO DEL PROPIO DERECHO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
-
-###### Artículo 257.
-
-A quien por medio de la violencia física o moral exija a una autoridad la ejecución u omisión de un acto oficial, esté o no dentro de sus atribuciones, se le impondrá de dos a seis años de prisión y de veinte a sesenta días multa.
-
-###### Artículo 258.
-
-Se impondrá de seis meses a cuatro años de prisión, de cinco a cuarenta días multa, destitución e inhabilitación para desempeñar el empleo, cargo o comisión hasta por cuatro años, al servidor público que por sí o por interpósita persona:
-
-I.- Promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las funciones inherentes a su empleo, cargo o comisión.
-
-II.- Indebidamente solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí, su cónyuge, concubino, parientes consanguíneos o por afinidad hasta el cuarto grado, cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el agente o las personas antes referidas formen parte.
-
-III.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga inversiones, enajenaciones, adquisiciones o cualquier otro acto que le produzca algún beneficio económico al servidor público o a alguna de las personas mencionadas en la fracción anterior.
-
-###### Artículo 259.
-
-A quien con actos materiales entorpezca o se oponga a la ejecución de obras o trabajos públicos legalmente ordenados por una autoridad, se le impondrá de dos a seis años de prisión y de veinte a sesenta días multa.
-
-### CAPÍTULO I. DEFRAUDACIÓN FISCAL
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-###### Artículo 260.
-
-A quien quebrante sellos puestos por orden de una autoridad, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
-
-### CAPÍTULO II. REGLAS COMUNES PARA LOS DELITOS CONTRA LA HACIENDA PÚBLICA
-
-###### Artículo 261.
-
-Al servidor público que dolosamente, con motivo de sus funciones exceda el límite de sus potestades o atribuciones, en detrimento de un particular o de la función pública, se le impondrá de dos a ocho años de prisión, de veinte a ochenta días multa, destitución del empleo o cargo e inhabilitación hasta por seis años.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2018)</small>
-
-### CAPÍTULO I. DELITOS ELECTORALES
 
 ###### Artículo 262.
 
@@ -3147,11 +3233,11 @@ A quien propicie, induzca, permita o se beneficie de la ocupación irregular de 
 
 A quien autorice la ejecución de construcciones susceptibles de ser ocupadas por personas que se ubiquen en zonas de riesgo de conformidad con lo establecido en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, así como la Ley General de Protección Civil, el Código Territorial para el Estado y los Municipios de Guanajuato, se le impondrá una pena de cinco a diez años de prisión y de cien a mil días multa.
 
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 2 DE NOVIEMBRE DE 2001, SE APRECIA LA EXISTENCIA DE ESTE CAPÍTULO.
+(REUBICADO [N. DE E. ANTES CAPÍTULO XV DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO II. DELITOS DE VIOLENCIA POLÍTICA
+### CAPÍTULO X. EJERCICIO ARBITRARIO DEL PROPIO DERECHO
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 262
 
@@ -3163,21 +3249,21 @@ a.- Al servidor público que propicie o mantenga dolosamente el ocultamiento de 
 
 b.- Si se suspende el ocultamiento de manera espontánea dentro de las setenta y dos horas de haberse realizado, la pena privativa de libertad será de uno a cinco años de prisión y multa de cien a quinientos días, destitución del empleo cargo o comisión públicos e inhabilitación para desempeñar otro por el mismo término de la pena privativa de libertad impuesta.
 
-> <small>N. DE E. EL CONTENIDO DE ESTE CAPÍTULO EXISTÍA DESDE EL TEXTO ORIGINAL EN EL CAPÍTULO XV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 12 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER CAPÍTULO XVI.</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO XVI DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
+### CAPÍTULO I. DEFRAUDACIÓN FISCAL
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 263.
 
 Para los efectos de este Código, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados del Estado y de los municipios y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal o en organismos descentralizados, desconcentrados, autónomos, fideicomisos públicos o empresas de participación estatal mayoritaria u organizaciones y sociedades asimiladas a éstas.
 
-## TÍTULO CUARTO. DE LOS DELITOS CONTRA LA HACIENDA PÚBLICA
+(REUBICADO [N. DE E. ANTES TÍTULO TERCERO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+## TÍTULO CUARTO. DE LOS DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
 
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
+### CAPÍTULO II. REGLAS COMUNES PARA LOS DELITOS CONTRA LA HACIENDA PÚBLICA
 
 ###### Artículo 264.
 
@@ -3197,9 +3283,7 @@ No se considerarán tortura los dolores o sufrimientos que sean consecuencia ún
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JULIO DE 2017)</small>
 
-### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
-
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
+### CAPÍTULO I. DELITOS ELECTORALES
 
 ###### Artículo 264 Bis.
 
@@ -3207,9 +3291,9 @@ Comete el delito de intimidación el servidor público que por sí, o por interp
 
 Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y de treinta a cien días multa.
 
-### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+### CAPÍTULO II. DELITOS DE VIOLENCIA POLÍTICA
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 265.
 
@@ -3235,9 +3319,17 @@ VI.- Como representante del inculpado, de la víctima o del ofendido, se absteng
 
 El supuesto previsto por la fracción I de este artículo, se perseguirá por querella.
 
+### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+
 ###### Artículo 266.
 
 A quien altere, falsee o simule documentos o actos que provoquen una resolución judicial o administrativa, se le aplicará de tres a nueve años de prisión y de treinta a noventa días multa.
+
+### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 267.
 
@@ -3246,6 +3338,10 @@ Se aplicará de uno a cinco años de prisión y de diez a cincuenta días multa 
 Cuando esté pendiente el proceso que se instruya por el delito atribuido, se suspenderá el ejercicio de la acción de falsas denuncias, hasta que aquél concluya con resolución irrevocable.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
+
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 267
 
@@ -3256,6 +3352,10 @@ a.- Se aplicará de dos a siete años de prisión y de veinte a setenta días mu
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 (REUBICADO, ANTES CAPÍTULO V, P.O. 3 DE JUNIO DE 2011)
+
+### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 269.
 
@@ -3357,9 +3457,9 @@ A quien para hacer efectivo un derecho o pretendido derecho que deba ejercitar p
 
 Este delito se perseguirá por querella.
 
-## TÍTULO QUINTO. DE LOS DELITOS EN MATERIA ELECTORAL Y VIOLENCIA POLÍTICA
+(REUBICADO [N. DE E. ANTES TÍTULO CUARTO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 20 DE DICIEMBRE DE 2017)</small>
+## TÍTULO QUINTO. DE LOS DELITOS CONTRA LA HACIENDA PÚBLICA
 
 ###### Artículo 279.
 
@@ -3391,11 +3491,11 @@ No se impondrá pena alguna a quien hubiere omitido el pago total o parcial de a
 
 La autoridad fiscal sólo podrá otorgar el perdón cuando las personas procesadas por delitos contra la hacienda pública, paguen íntegramente las prestaciones fiscales originadas por los hechos imputados, o bien, a su juicio quede debidamente garantizado el interés fiscal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2017)</small>
+(REUBICADO [N. DE E. ANTES TÍTULO QUINTO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-## TÍTULO SEXTO. DE LOS DELITOS CONTRA EL AMBIENTE
+## TÍTULO SEXTO. DE LOS DELITOS EN MATERIA ELECTORAL Y VIOLENCIA POLÍTICA
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 284.
 
@@ -3529,7 +3629,11 @@ II.- Existan situaciones de desventaja provocadas por condiciones del género.
 
 Las sanciones a que se refiere el primer párrafo de este artículo se aumentarán de una mitad del mínimo a una mitad del máximo cuando en la comisión de este delito intervenga un servidor público o un dirigente partidista, cuando se emplease violencia o engaño, o por el aprovechamiento de una situación de vulnerabilidad de la mujer.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2007)</small>
+(REUBICADO [N. DE E. ANTES TÍTULO SEXTO], P.O. 24 DE SEPTIEMBRE DE 2018)
+
+## TÍTULO SÉPTIMO. DE LOS DELITOS CONTRA EL AMBIENTE
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 290.
 
@@ -3886,3 +3990,15 @@ P.O. 5 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 319, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 205 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO; SE REFORMA EL ARTÍCULO 1895 Y SE DEROGAN LOS ARTÍCULOS 1896 Y 1897 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico oficial de (sic) Gobierno del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 336, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN V; Y SE DEROGA LA FRACCIÓN XI, AMBAS FRACCIONES DEL ARTÍCULO 33 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 337, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LA DENOMINACIÓN DEL TÍTULO SEGUNDO DE LA SECCIÓN CUARTA DEL LIBRO SEGUNDO; PARA QUEDAR COMO "DE LOS DELITOS POR HECHOS DE CORRUPCIÓN", EN CONSECUENCIA, EL ACTUAL TÍTULO SEGUNDO DENOMINADO "DE LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA", PASA COMO TÍTULO TERCERO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES TÍTULOS; ASÍ COMO LOS ARTÍCULOS 247, PRIMER PÁRRAFO; 248; 249; 250, PRIMER PÁRRAFO; Y 258 Y 261, QUE ADEMÁS SE REUBICAN COMO 252 Y 253, RESPECTIVAMENTE, CON LA CONSECUENTE REUBICACIÓN DE LOS CAPÍTULOS QUE LOS CONTIENE. SE ADICIONAN LOS ARTÍCULOS 253-A; 253-B; 253-C; 253-D; Y 253-E, CON LA INTEGRACIÓN DE SUS RESPECTIVOS CAPÍTULOS, AL NUEVO TÍTULO SEGUNDO. SE REUBICAN EN SU ORDEN, CON IGUAL CONTENIDO NORMATIVO, LOS ARTÍCULOS 252; 253; 254; 255; 256; 257; 259 Y 260, PARA QUEDAR COMO 254; 255; 256; 257; 258; 259; 260 Y 261, RESPECTIVAMENTE, CON LA CONSECUENTE REUBICACIÓN DE TODOS LOS CAPÍTULOS QUE INTEGRARÁN EL TÍTULO TERCERO, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
