@@ -1,0 +1,3206 @@
+---
+title: "LEY DE MOVILIDAD DEL ESTADO DE SONORA Y SUS MUNICIPIOS"
+identifier: "SON-ley-de-movilidad-del-estado-de-sonora-y-sus-municipios-130873"
+country: "mx"
+rank: "ley"
+publication_date: "2018-09-24"
+last_updated: "2018-09-24"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130873&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-son"
+scjn_id: "130873"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "25 SECC. II"
+reform_count: "0"
+scjn_last_update: "2018-09-24"
+issue_date: "2018-09-03"
+state: "SON"
+---
+# LEY DE MOVILIDAD DEL ESTADO DE SONORA Y SUS MUNICIPIOS
+
+LEY DE MOVILIDAD DEL ESTADO DE SONORA Y SUS MUNICIPIOS
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección II del Número 25 del Boletín Oficial del Estado de Sonora, el lunes 24 de septiembre de 2018.
+
+EL C. SECRETARIO DEL XXVII H. AYUNTAMIENTO CONSTITUCIONAL DE SAN LUIS RÍO COLORADO, SONORA, LIC. ÁNGEL ACACIO ANGULO LÓPEZ QUIEN SUSCRIBE, CERTIFICA Y HACE CONSTAR QUE EN LA SESIÓN EXTRAORDINARIA NÚMERO SESENTA Y NUEVE DE CABILDO, CELEBRADA EL DÍA 31 DE AGOSTO DE DOS MIL DIECIOCHO, PREVIA PROPUESTA Y DISCUSIÓN, SE APROBÓ POR UNANIMIDAD DE VOTOS, EL ACUERDO QUE A LA LETRA DICE:
+
+ACUERDO NÚMERO 810 (OCHOCIENTOS DIEZ). Se aprueba por Unanimidad de votos de los integrantes de Cabildo que están presentes el dictamen 57/2018 que presenta la Comisión de Gobernación, Reglamentación Municipal y Derechos Humanos relativo a la iniciativa de Ley de Movilidad y Transporte Público del Estado de Sonora y sus Municipios. Lo anterior en cumplimiento a lo establecido en los artículos 1, 3, 4, 24, 50, 51, 53, 61 de la Ley de Gobierno y Administración Municipal y artículos 1, 4, 5, 5 bis, 6, 7, 24, 47, 76 y demás aplicables del Reglamento Interior de Cabildo.- Notifíquese y Cúmplase.-
+
+Se extiende la presente certificación en la Ciudad de San Luis Río Colorado, Sonora, a los Tres días del mes de Septiembre del Dos mil Dieciocho.
+
+A T E N T A M E N T E
+
+LIC. ÁNGEL ACACIO ANGULO LÓPEZ
+
+SECRETARIO DEL AYUNTAMIENTO
+
+XXVII AYUNTAMIENTO DE SAN LUIS RÍO COLORADO, SONORA
+
+COMISIÓN DE GOBERNACIÓN, REGLAMENTACIÓN MUNICIPAL Y DERECHOS HUMANOS.
+
+San Luis Río Colorado, Sonora, a 20 de Agosto del 2018.
+
+LIC. ÁNGEL ACACIO ANGULO LÓPEZ
+
+SECRETARIO DEL H. AYUNTAMIENTO
+
+P R E S E N T E .-
+
+DICTAMEN: 57/2018.
+
+ASUNTO: SE DICTAMINA SOBRE LA INICIATIVA DE LEY DE MOVILIDAD Y TRANSPORTE PÚBLICO DEL ESTADO DE SONORA Y SUS MUNICIPIOS.
+
+Los Regidores integrantes de la COMISIÓN DE GOBERNACIÓN, REGLAMENTACIÓN MUNICIPAL Y DERECHOS HUMANOS, en cumplimiento al Artículo 61 Fracción IV Inciso A y B; y Artículos 78 y 83 de la Ley de Gobierno de Administración Municipal y Artículo 75 del Reglamento Interior de Cabildo, hemos sesionado con fecha 29 de Agosto del presente año, a fin de dictaminar sobre la iniciativa de Ley de Movilidad y Transporte Público del Estado de Sonora y sus Municipios tomando en cuenta las siguientes:
+
+CONSIDERACIONES:
+
+1. Con fecha del 18 de Julio del presente año, se turno a esta Comisión de Gobernación, Reglamentación Municipal y Derechos Humanos el Acuerdo de Cabildo No. 757 tomando (sic) en la Sesión Extraordinaria No. 65 relativo a dictaminar sobre la iniciativa de Ley de Movilidad y Transporte Público del Estado de Sonora y sus Municipios.
+
+2. Se valoro la (sic) el Proyecto de Reglamento Municipal de Iniciativa de Ley que como Municipio estamos planteando en el tema de movilidad y transporte público para el Estado de Sonora.
+
+3. Se considero viable aprobar la propuesta y presentar la iniciativa ante el Congreso del Estado de Sonora.
+
+Por lo antes expuesto y tomando en consideración lo establecido en la Ley de Gobierno de Administración Municipal y el Reglamento Interior de Cabildo, esta Comisión de Gobernación, Reglamentación Municipal y Derechos Humanos somete a consideración del H. Ayuntamiento el siguiente:
+
+DICTÁMEN:
+
+UNICO: Se aprueba, por Unanimidad de votos de los integrantes de esta Comisión de Gobernación, Reglamentación Municipal y Derechos Humanos la propuesta de este Municipio de iniciativa de Ley de Movilidad y Transporte Público del Estado de Sonora y sus Municipios.
+
+R E S P E T U O S A M E N T E:
+
+COMISIÓN DE GOBERNACIÓN, REGLAMENTACIÓN MUNICIPAL Y DERECHOS HUMANOS.
+
+ING. JOSÉ ENRIQUE REINA LIZARRAGA
+
+PRESIDENTE MUNICIPAL
+
+LIC. LAURA NÚÑEZ SEPÚLVEDA
+
+SÍNDICO PROCURADOR
+
+LIC. KARINA VERÓNICA CASTILLO YANES
+
+PRESIDENTE DE LA COMISIÓN DE GOBERNACIÓN, REGLAMENTACIÓN MUNICIPAL Y DERECHOS HUMANOS
+
+LIC. VÍCTOR PALAFOX SÁNCHEZ
+
+SECRETARIO DE LA COMISIÓN DE GOBERNACIÓN, REGLAMENTACIÓN MUNICIPAL Y DERECHOS HUMANOS
+
+DR. ABEL SÁNCHEZ CERVANTES
+
+INTEGRANTE DE LA COMISIÓN DE GOBERNACIÓN, REGLAMENTACIÓN MUNICIPAL Y DERECHOS HUMANOS
+
+LIC. ROXANA CALDERÓN FLORES
+
+INTEGRANTE DE LA COMISIÓN DE GOBERNACIÓN, REGLAMENTACIÓN MUNICIPAL Y DERECHOS HUMANOS
+
+LIC. HILDA ELENA HERRERA MIRANDA
+
+INTEGRANTE DE LA COMISIÓN DE GOBERNACIÓN, REGLAMENTACIÓN MUNICIPAL Y DERECHOS HUMANOS
+
+LIC. HORTENSIA MARGARITA MIRAMONTES LÓPEZ
+
+INTEGRANTE DE LA COMISIÓN DE GOBERNACIÓN, REGLAMENTACIÓN MUNICIPAL Y DERECHOS HUMANOS
+
+MTRA. ELSA ORALIA CRUZ GUEVARA
+
+INTEGRANTE DE LA COMISIÓN DE GOBERNACIÓN, REGLAMENTACIÓN MUNICIPAL Y DERECHOS HUMANOS
+
+LEY DE MOVILIDAD DEL ESTADO DE SONORA Y SUS MUNICIPIOS
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### Capítulo I. Disposiciones Preliminares
+
+Objeto
+
+###### Artículo 1.
+
+La presente Ley es de orden público e interés general y tiene por objeto establecer las bases y directrices para planificar, regular y gestionar la movilidad de las personas, bienes y mercancías, garantizando a todas las personas que se encuentren en el Estado, las condiciones y derechos para su desplazamiento por el territorio, especialmente por los centros de población y las vías públicas, de manera segura, igualitaria, sustentable y eficiente.
+
+Finalidad de la Ley
+
+###### Artículo 2.
+
+La presente Ley tiene por finalidad:
+
+I. Planear, organizar, administrar y controlar la infraestructura para las personas con discapacidad o movilidad reducida, peatones, movilidad no motorizada transporte público y especial, infraestructura vial, infraestructura carretera y el equipamiento vial, conforme a la jerarquía de movilidad establecida en la presente Ley;
+
+II. Establecer el sistema estatal de ciclovías y de estacionamiento de bicicletas;
+
+III. Garantizar la participación ciudadana en las políticas públicas estatales y municipales relativas a la movilidad;
+
+IV. Planear, regular, ordenar, administrar, supervisar e inspeccionar el servicio público y especial de transporte;
+
+V. Definir la competencia y atribuciones de las autoridades en materia de movilidad y transporte;
+
+VI. Regular los requisitos para el tránsito en las carreteras, caminos y áreas de jurisdicción estatal; y
+
+VII. Establecer las acciones coordinadas que deberán observar los municipios y el Estado conforme a lo dispuesto en la presente Ley.
+
+Obligatoriedad de la Ley
+
+###### Artículo 3.
+
+Toda persona que haga uso de las vías públicas terrestres de la entidad, ya sea como conductor o propietario de un vehículo, como concesionario o permisionario, como usuario de los servicios público y especial de transporte en cualquiera de sus modalidades o como peatón, se encuentra obligada a cumplir con las disposiciones contenidas en la presente Ley y su reglamento.
+
+El Instituto de Movilidad del Estado de Sonora y la dependencia encargada del tránsito, conforme al ámbito de su competencia, podrán emitir disposiciones y restricciones para la circulación de vehículos por las vías públicas de jurisdicción estatal y municipal cuando por su tipo y características de medidas y peso representen un riesgo para la seguridad de las personas, conservación o correcto funcionamiento de las vías.
+
+La Policía Estatal de Caminos podrá formular recomendaciones al Instituto de Movilidad del Estado de Sonora para la emisión de las disposiciones y restricciones aludidas en el párrafo anterior.
+
+Principios rectores de la movilidad
+
+###### Artículo 4.
+
+Para los efectos de la presente Ley son principios rectores de la movilidad:
+
+I. Accesibilidad: como el derecho de las personas a desplazarse por las vías públicas sin obstáculos y con seguridad, independientemente de su condición;
+
+II. Calidad: procurar que los elementos del sistema de movilidad cuenten con los requerimientos y las propiedades aceptables para cumplir con su función, ofrecer un espacio apropiado y confortable para las personas y encontrarse en buen estado, en condiciones higiénicas, de seguridad y con mantenimiento regular para proporcionar una adecuada experiencia de viaje;
+
+III. Derechos humanos en la movilidad: garantizar el respeto irrestricto de los derechos humanos;
+
+IV. Desarrollo económico: a partir del ordenamiento de las vías públicas de comunicación para minimizar los costos y tiempos de traslado de personas y mercancías a fin de contribuir al bienestar social;
+
+V. Desarrollo orientado al transporte colectivo: como el enfoque que la planeación y el desarrollo urbano debe conservar para priorizar medios de transporte masivos, considerando todos los elementos que confluyen alrededor de los mismos y la integración y conectividad con las actividades diarias de las personas, por encima del automóvil particular;
+
+VI. Igualdad: generar las condiciones para que la población ejerza su derecho a la movilidad, atendiendo especialmente a los grupos que por sus condiciones sean catalogados como vulnerables;
+
+VII. Innovación tecnológica: impulsar sistemas tecnológicos que permitan un desarrollo eficiente de la movilidad, generando eficiencia en los sistemas de transporte y el desplazamiento de personas y bienes;
+
+VIII. No discriminación: queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+
+IX. Perspectiva de género: a partir de políticas públicas estatales y municipales, que garanticen la no discriminación, igualdad, equidad, seguridad e integridad física, sexual y no violencia de quienes transiten por la vía pública y utilicen el servicio público y especial de transporte;
+
+X. Participación ciudadana: que permita involucrar y tomar en cuenta la opinión de los habitantes, en los diferentes componentes de la movilidad;
+
+XI. Respeto al medio ambiente: a partir de políticas públicas que incentiven el cambio del uso del transporte particular de motor de combustión interna, traslado peatonal y tracción física por aquellos de carácter colectivo y tecnología sustentable, o de propulsión distinta a aquellos que generan emisión de contaminantes atmosféricos y de gases de efecto invernadero a la atmósfera; y
+
+XII. Sustentabilidad: dirigir acciones al respeto y atención prioritaria del derecho a la movilidad, considerando el impacto que las mismas tendrán en el desarrollo social, económico y ambiental, a fin de no comprometer su disfrute por las generaciones futuras.
+
+Bases de la movilidad
+
+###### Artículo 5.
+
+La modernización y racionalización de la movilidad y el servicio público y especial de transporte en el Estado de Sonora y en sus municipios se soporta en las siguientes bases:
+
+I. Movilidad sustentable:
+
+a) Las autoridades estatales y municipales competentes, son responsables del diseño y aplicación de las políticas públicas en materia de protección al medio ambiente, equidad de género, infraestructura peatonal, de accesibilidad universal, transporte público y especial, transporte privado, ciclovías, estacionamientos y vialidades para la movilidad integrada. Asimismo, se encargarán de la adecuación, construcción y mantenimiento de la infraestructura para la movilidad;
+
+b) Las autoridades estatales y municipales competentes impulsarán y ejecutarán programas y campañas de educación vial que garanticen la seguridad de las personas y sus bienes con la participación de los prestadores de servicios;
+
+c) Las autoridades estatales y municipales competentes, en todo momento, diseñarán las características de operación del transporte público, siguiendo los principios que rigen la movilidad de conformidad a la presente Ley, en beneficio de la población, atendiendo al Programa de Movilidad del Estado y en su caso, el de cada municipio;
+
+d) El Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, coordinarán las acciones correspondientes para la elaboración de planes encaminados a mejorar la movilidad y su integración con los diferentes medios y modalidades de transporte; y
+
+e) Los ayuntamientos en todo momento diseñarán los reglamentos relacionados con la circulación en avenidas, priorizando la libre circulación y la no obstaculización de vías primarias y avenidas principales, fomentando el uso de espacios de estacionamiento adecuados conforme a las necesidades y características del municipio.
+
+II. Preferencia vial de movilidad:
+
+a) Tienen uso preferencial del espacio público, las personas con discapacidad, los peatones, los usuarios de bicicletas, transporte no motorizado y el servicio público y especial de transporte de personas frente a otro tipo de vehículos; y
+
+b) Tiene preferencia vial el servicio público de transporte con mayor capacidad de movilidad de pasajeros y aquel que cuente con algún sistema de eficiencia energética o que utilice combustibles que generen una menor emisión de contaminantes atmosféricos y de gases de efecto invernadero, frente a cualquier otro tipo de modalidad de transporte motorizado que se encuentre regulado por esta Ley.
+
+III. Capacitación y seguridad:
+
+a) En los diferentes sistemas del servicio de transporte deberán realizarse programas y acciones de capacitación técnica, continúa y de primeros auxilios, para los conductores, conforme lo establece esta Ley; y
+
+b) El Ejecutivo del Estado diseñará y desarrollará programas y campañas permanentes de educación, seguridad vial y cuidado del medio ambiente.
+
+Todo ello con independencia de la capacitación que impartan de manera directa los concesionarios y permisionarios a sus conductores, los cuales para efectos de reconocimiento podrán ser previamente validados por el Instituto de Movilidad del Estado.
+
+Los ayuntamientos implementarán y ejecutarán de manera independiente o coordinada programas y campañas, las cuales deberán ser acordes a las establecidas por el Estado.
+
+IV. Infraestructura y factibilidad:
+
+a) La infraestructura para todas las formas de movilidad deberá contar con los elementos que sean necesarios para la accesibilidad universal, segura, cómoda, confortable y de calidad para sus desplazamientos; y
+
+b) Para optimizar la vía pública y reducir los costos generalizados de los viajes, se buscará que la infraestructura a desarrollar para los diferentes modos de transporte (sic) permitan la integración e interconexión entre ellos.
+
+V. Perspectiva de género:
+
+a) Las autoridades estatales y municipales deberán incluir en los cursos de formación, capacitación y actualización de permisionarios, concesionarios y operadores, el tema de derechos humanos de las mujeres y de equidad de género;
+
+b) Las autoridades estatales y municipales, en el ámbito de su competencia, promoverán servicios de transporte público de personas que consideren las necesidades de las mujeres y los lugares a los que viajan, así como módulos de atención a mujeres violentadas en el servicio; y
+
+c) Las autoridades estatales elaborar (sic) campañas de difusión estatal para reportar violencia contra las mujeres y niñas; así como una línea abierta de quejas para denunciar acoso, hostigamiento o abuso en el cobro por parte del operador a las mujeres, niñas, niños y adolescentes.
+
+Supuestos de interés público
+
+###### Artículo 6.
+
+Se considera de interés público:
+
+I. La prestación del servicio público y especial de transporte;
+
+II. El establecimiento de las vías, infraestructura y equipamiento para todas las formas de movilidad, peatonal, de transporte no motorizado, de transporte público, de transporte motorizado y dispositivos de control de movilidad y tránsito, conforme a la jerarquía de movilidad establecida en la presente Ley;
+
+III. El establecimiento de vías, libramientos, rutas y horarios especiales para el transporte de carga; de tal modo que no impacte en la movilidad urbana ni genere problemas de tránsito y contaminación atmosférica y acústica en los centros de población;
+
+IV. La introducción y reemplazo paulatino de las unidades del transporte público en todas sus modalidades, por vehículos que utilicen combustibles menos contaminantes;
+
+V. La implementación de obras y planes para privilegiar el uso de la bicicleta en los centros de población de la entidad, especialmente en aquellos que cuenten con una población superior a los veinticinco mil habitantes, sin perjuicio de los planes que se apliquen con igual objetivo en los municipios de menor población; y
+
+VI. La adecuación de las leyes, reglamentos y disposiciones administrativas en materia de tránsito, de vialidad y de transporte, a fin de que sean concordantes con los principios rectores de la movilidad.
+
+Glosario
+
+###### Artículo 7.
+
+Para los efectos de esta Ley se entenderá por:
+
+I. Banqueta: El área pavimentada a cada lado de una calle, generalmente más elevada y que está reservada para el desplazamiento de las personas;
+
+II. Ciclista: Conductor de un vehículo de tracción física a través de pedales. Se considera ciclista a aquellos que conducen bicicletas asistidas por motores eléctricos;
+
+III. Concesión: El acto jurídico-administrativo por medio del cual el Poder Ejecutivo a través del titular de la Secretaría de Gobierno o el ayuntamiento, en el ámbito de sus respectivas competencias, confiere a una persona física o jurídico colectiva la potestad de prestar el servicio público de transporte, satisfaciendo necesidades de interés general;
+
+IV. Concesionario: El titular de una concesión;
+
+V. Conductor: Toda persona que maneje un vehículo en cualquiera de sus modalidades, excepto transporte público y especial;
+
+VI. Derrotero: sonlos (sic) movimientos direccionales de una ruta, desde su origen hasta su destino y viceversa;
+
+VII. Director General: El Director General del Instituto de Movilidad del Estado de Sonora;
+
+VIII. Estudio Técnico: El diagnóstico, análisis de evaluación y, en su caso estadístico, del cual se determinarán las necesidades de movilidad, así como las propuestas que permitan atender y mejorar las condiciones de movilidad sustentable;
+
+IX. Instituto: El Instituto de Movilidad del Estado de Sonora;
+
+X. Ley: La Ley de Movilidad del Estado de Sonora y sus Municipios;
+
+XI. Movilidad: Es un derecho que consiste en el desplazamiento de personas, bienes y mercancías que se realizan en el Estado de Sonora, a través de las diferentes formas y modalidades de transporte que se ajuste a la jerarquía y principios que se establecen en este ordenamiento, para satisfacer sus necesidades y pleno desarrollo. En todo caso la movilidad tendrá como eje central a la persona;
+
+XII. Movilidad Reducida: Toda persona cuya movilidad se haya reducida por motivos de edad, embarazo y alguna otra situación que sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares en el servicio;
+
+XIII. Operador: La persona que lleva el dominio del movimiento de un vehículo destinado al servicio público y especial de transporte, contando con la capacitación y autorización técnica y legal para conducirlo a través de la vía pública;
+
+XIV. Peatón: La persona que se desplaza a pie o que utiliza ayuda técnicas (sic) por su condición de discapacidad o movilidad reducida por la vía pública;
+
+XV. Permisionario: El titular de un permiso;
+
+XVI. Permiso: El acto jurídico administrativo en virtud del cual la autoridad competente autoriza de forma temporal a una persona física o jurídico colectiva para la prestación de un servicio público o especial de transporte;
+
+XVII. Sistema Estatal de Ciclovías: conjunto de ciclovías interconectadas entre sí e integradas con otros medios de transporte;
+
+XVIII. Tarifa: La contraprestación económica que el usuario de un servicio público o especial de transporte paga por el servicio recibido;
+
+XIX. Título concesión: Documento oficial que deriva del acto jurídico administrativo de concesión y acredita a una persona física o jurídico colectiva como titular en la prestación del servicio público de transporte en una modalidad específica;
+
+XX. Usuario: La persona que previo pago de la tarifa correspondiente, utiliza el servicio público y especial de transporte que se presta por las vías públicas dentro del Estado;
+
+XXI. Vehículo: La unidad impulsada por un motor o cualquiera otra forma de propulsión, en el cual se lleva a cabo la transportación de personas o cosas, utilizando las vías públicas dentro del Estado;
+
+XXII. Vía Pública: El espacio de dominio público y uso común que por disposición de la Ley o por razones del servicio esté destinado a la movilidad de las personas, bienes y vehículos motorizados y no motorizados; y
+
+XXIII. Zona metropolitana: Espacio territorial de influencia dominante de un centro de población y declarada como tal en los términos del Código Territorial para el Estado y los Municipios de Sonora.
+
+### Capítulo II. Programa Estatal de Movilidad
+
+Programa Estatal de Movilidad
+
+###### Artículo 8.
+
+El Programa Estatal de Movilidad es el instrumento de planeación por medio del cual, el Poder Ejecutivo establece los objetivos, metas y acciones a seguir en materia de movilidad, que deberán implementarse para el periodo que corresponda a la administración estatal que lo emita. El Programa se conformará, al menos, de lo siguiente:
+
+I. Los estudios de movilidad que reflejen y documenten de forma precisa las necesidades de la materia al menos una vez en la vigencia del programa tratándose de índices de población será desagregado por género;
+
+II. Las obras públicas y proyectos destinados al logro de los objetivos de la presente Ley;
+
+III. Las políticas públicas estatales que habrán de implementarse;
+
+IV. Las asignaciones presupuestales para el cumplimiento de los objetivos;
+
+V. Las acciones coordinadas con el gobierno federal y con los municipios;
+
+VI. Los compromisos suscritos por cada una de las instancias y dependencias participantes;
+
+VII. Las metas de acuerdo a su calendarización y presupuesto, especificando las acciones, obras y proyectos que se implementarán;
+
+VIII. Los indicadores; y
+
+IX. La información necesaria para que la ciudadanía pueda identificar con facilidad las acciones y obras que se implementarán en cada región, así como el plazo en que serán ejecutadas y concluidas.
+
+El Programa Estatal de Movilidad será emitido por el Gobernador del Estado dentro de los seis meses siguientes a la expedición del Programa de Gobierno y podrá ser modificado en términos de lo dispuesto por el artículo 11 de la presente Ley.
+
+Jerarquía de movilidad
+
+###### Artículo 9.
+
+Las autoridades estatales y municipales en el ámbito de su competencia, proporcionarán los medios necesarios para que las personas puedan elegir libremente la forma de trasladarse.
+
+Para el establecimiento de la política pública en la materia, se otorgará prioridad en la utilización de la vía pública y se valorará la distribución de recursos presupuestales de acuerdo a la siguiente jerarquía de movilidad:
+
+I. Peatones, en especial, escolares, personas con discapacidad o movilidad reducida;
+
+II. Ciclistas;
+
+III. Prestadores del servicio público y especial de transporte de personas;
+
+IV. Prestadores del servicio público de cosas y bienes;
+
+V. Conductores del transporte particular automotor; y
+
+VI. Usuarios de maquinaria agrícola y maquinaria pesada.
+
+Los vehículos de servicio especial de transporte de emergencia como bomberos, protección civil, mecánica de emergencia, rescate, primeros auxilios, emergencias médicas y seguridad tendrán prioridad de los contemplados en la jerarquía de movilidad.
+
+Conformación del Programa Estatal de Movilidad
+
+###### Artículo 10.
+
+En la conformación del Programa Estatal de Movilidad deberán considerarse y en su caso integrar las propuestas y recomendaciones de las siguientes instancias:
+
+I. Las dependencias y entidades del Poder Ejecutivo que tengan injerencia en los temas de movilidad;
+
+II. Los ayuntamientos de la entidad;
+
+III. Las dependencias federales vinculadas con el tema de movilidad;
+
+IV. Las organizaciones de la sociedad civil cuyo objeto tenga injerencia en el objeto de esta Ley; y
+
+V. Los colegios de ingenieros civiles, arquitectos y, en su caso, de las cámaras y organismos de la industria de la construcción y de la vivienda.
+
+En el Programa Estatal de Movilidad deberán señalarse de forma expresa las propuestas que fueron tomadas en cuenta y la autoría u origen de las mismas.
+
+Armonización del programa
+
+###### Artículo 11.
+
+El Programa Estatal de Movilidad deberá ser congruente con la Ley de Planeación para el Estado de Sonora, el Código Territorial para el Estado y los Municipios de Sonora, el Plan Estatal de Desarrollo, el Programa de Gobierno, el Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial y los programas de desarrollo urbano y ordenamiento territorial.
+
+Programas de movilidad municipales
+
+###### Artículo 12.
+
+Los municipios deberán elaborar sus programas de movilidad en total congruencia con lo establecido en el Programa Estatal de Movilidad. Dentro de los tres meses siguientes a la publicación del programa estatal o en su caso de su revisión.
+
+El Ayuntamiento remitirá al Instituto el proyecto, para que emita la opinión respecto a la congruencia del mismo con el programa estatal de movilidad.
+
+El Instituto emitirá la opinión a que se refiere el párrafo anterior, dentro de los treinta días hábiles siguientes a la presentación del mismo; en caso de que no sea emitida la opinión correspondiente dentro del plazo señalado, se entenderá que el proyecto de programa municipal es congruente con el programa estatal.
+
+En caso de que el Instituto emita una opinión negativa respecto de la propuesta, el Ayuntamiento deberá hacer las adecuaciones correspondientes.
+
+Publicación y modificación de programas
+
+###### Artículo 13.
+
+Los programas de movilidad del Estado y los municipios, deberán ser publicados en el Periódico Oficial del Gobierno del Estado. Dichos programas sólo podrán ser modificados tratándose de situaciones extraordinarias, para lo cual la autoridad responsable de su elaboración deberá justificar las causas y dar a conocer la modificación a la ciudadanía, a través del mismo medio.
+
+Destino de recursos para la movilidad
+
+###### Artículo 14.
+
+El Ejecutivo del Estado y los ayuntamientos en sus procesos de planeación destinarán recursos económicos prioritarios en términos reales de sus respectivos presupuestos de egresos para la movilidad, conforme a sus pronósticos de ingresos relativos a la concesión de espacios en la infraestructura de movilidad, la emisión de autorizaciones derivadas de trámites de tránsito y transporte así como la imposición de multas por conducir en estado de ebriedad o bajo el influjo de drogas o estupefacientes.
+
+Lo anterior con el objeto de impulsar la implementación de acciones en materia de infraestructura, seguridad, tecnología, capacitación, cultura vial y calidad en los servicios entre otros aspectos que resulten vinculados con la jerarquía de la movilidad y repercutan en el beneficio de las personas.
+
+### Capítulo III. Autoridades Estatales y sus Facultades
+
+Autoridades estatales
+
+###### Artículo 15.
+
+Son autoridades estatales en materia de movilidad, de conformidad con sus respectivas competencias:
+
+I. El titular del Poder Ejecutivo;
+
+II. La Secretaría de Gobierno;
+
+III. La Secretaría de Finanzas;
+
+IV. La Policía Estatal de (sic) Investigadora;
+
+V. El Instituto;
+
+VI. El Director General;
+
+VII. El registrador de concesiones y permisos de transporte, jefes de oficinas regionales movilidad e inspectores de movilidad; y
+
+VIII. Los Jefes de las Oficinas Recaudadoras del Estado.
+
+Facultades del titular del Poder Ejecutivo
+
+###### Artículo 16.
+
+El titular del Poder Ejecutivo tiene las siguientes facultades:
+
+I. Dictar y aplicar, en cualquier tiempo, cuando así lo requiera el interés público, las medidas necesarias para el cumplimiento de esta Ley y su reglamento;
+
+II. Nombrar y remover libremente al Director General;
+
+III. Promover e impulsar la creación de organismos dedicados a la investigación, capacitación y modernización de la movilidad así como de los servicios conexos;
+
+IV. Promover la movilidad en el marco del respeto por los derechos humanos, la seguridad, el medio ambiente y la calidad del entorno urbano;
+
+V. Emitir a propuesta del Instituto el Programa Estatal de Movilidad;
+
+VI. Proponer las partidas necesarias en la iniciativa de la Ley del Presupuesto General de Egresos del Estado de Sonora para el ejercicio fiscal correspondiente para el cumplimiento del objeto establecido en el presente ordenamiento;
+
+VII. Incluir en el Plan Estatal de Desarrollo y en el Programa de Gobierno los objetivos, metas, estrategias y acciones en materia de movilidad en el Estado; y
+
+VIII. Las demás que le conceda esta Ley y su reglamento.
+
+Facultades del titular de la Secretaría de Gobierno
+
+###### Artículo 17.
+
+La Secretaría de Gobierno a través de su titular tiene las siguientes facultades:
+
+I. Planear, coordinar y evaluar los programas estatales en materia de movilidad conforme a las disposiciones legales vigentes y los acuerdos que emita el Gobernador del Estado;
+
+II. Vigilar el cumplimiento de esta Ley, así como elaborar, fijar y conducir las políticas estatales en materia de movilidad;
+
+III. Otorgar y revocar las concesiones del servicio público de transporte de su competencia en los términos de esta Ley y su reglamento;
+
+IV. Emitir y suscribir los títulos de concesiones del servicio público de transporte de su competencia;
+
+V. Proveer lo necesario para el funcionamiento administrativo y operativo del Instituto;
+
+VI. Tramitar y resolver los recursos administrativos que le competan;
+
+VII. Ejecutar los acuerdos del Gobernador del Estado en todo lo que se refiere a la materia objeto de esta Ley y su reglamento; y
+
+VIII. Las demás que en esta materia le confiera la normatividad aplicable.
+
+Facultades de la Secretaría de Finanzas, Inversión y Administración
+
+###### Artículo 18.
+
+Corresponde a la Secretaría de Finanzas, Inversión y Administración:
+
+I. Expedir y hacer entrega a los propietarios o legítimos poseedores de vehículos de las placas metálicas, tarjetas de circulación, calcomanías y demás signos de identificación que por la naturaleza de los vehículos y condiciones de prestación de los servicios se requieran;
+
+II. Llevar a cabo el registro y control de vehículos que estén dados de alta en el Estado y mantener actualizado el padrón vehicular estatal;
+
+III. Diseñar y emitir los formatos para el control vehicular, conforme a los lineamientos y normatividad correspondiente; y
+
+IV. Recaudar los diversos conceptos tributarios que deberán cubrir las personas en materia de servicios de movilidad a que se refiere la presente Ley, con excepción de aquellos que se deriven de las atribuciones que la misma señale como competencia de los municipios.
+
+Facultades de los jefes de oficina regional de movilidad
+
+###### Artículo 19.
+
+Los jefes de oficina regional de movilidad tendrán las siguientes facultades:
+
+I. Tramitar el otorgamiento de licencias y permisos para conducir de los operadores de vehículos automotores públicos y privados y de aquellos trámites que les sean encomendados derivado de los actos jurídicos que para el efecto celebre o emita el Instituto;
+
+II. Calificar las infracciones a la Ley y su reglamento, en el ámbito de su competencia; y
+
+III. Las demás contenidas en esta Ley y su reglamento.
+
+Facultades de los inspectores de movilidad
+
+###### Artículo 20.
+
+Los inspectores de movilidad tendrán las siguientes facultades:
+
+I. Inspeccionar, verificar y vigilar los servicios público (sic) y especial de transporte de competencia estatal;
+
+II. Levantar las boletas de infracción y actas de inspección en el ámbito de su competencia; y
+
+III. Las demás contenidas en esta Ley y su reglamento.
+
+Facultades de la Policía Estatal de (sic) Investigadora y Tránsito Municipal
+
+###### Artículo 21.
+
+Además de las atribuciones que establece la Ley del Sistema de Seguridad Pública para el Estado (sic) Sonora, son facultades de la Policía Estatal Investigadora y de tránsito municipal, en su caso:
+
+I. Orientar, participar y colaborar con la población en general, en materia de prevención tanto de accidentes viales, como de infracciones a las normas de tránsito;
+
+II. Cuidar de la seguridad y respeto al peatón y ciclista en las vías públicas, dando siempre preferencia a estos sobre los vehículos motorizados;
+
+III. Cuidar que se cumplan y apliquen las disposiciones de esta Ley y sus reglamentos en materia de movilidad, así como informar y orientar a quienes transiten en las vías públicas; y
+
+IV. Las demás que se establezcan en esta Ley, sus reglamentos y en otros ordenamientos aplicables.
+
+Capacitación y equipamiento de primeros auxilios
+
+###### Artículo 22.
+
+Todos los integrantes de la Policía Estatal Investigadora y de los de tránsito municipal que se desempeñen en áreas operativas, deberán estar capacitados en primeros auxilios. Todos los vehículos que utilicen deberán de contar con materiales necesarios para su debida prestación.
+
+Convenios para capacitación en primeros auxilios
+
+###### Artículo 23.
+
+Los municipios podrán celebrar convenios con el Estado para que a través de este se les brinde la capacitación en primeros auxilios a su personal operativo de tránsito municipal.
+
+### Capítulo IV. Instituto de Movilidad del Estado
+
+Naturaleza jurídica y objeto
+
+###### Artículo 24.
+
+El Instituto, es un organismo público desconcentrado de la Secretaría de Gobierno, tiene por objeto ordenar, planear, promover, administrar la movilidad y el servicio público y especial de transporte en el Estado.
+
+Atribuciones del Instituto
+
+###### Artículo 25.
+
+Son atribuciones del Instituto, las siguientes:
+
+I. Diseñar, proponer y en su caso ejecutar, las políticas públicas estatales en materia de movilidad, educación vial, del servicio público y especial de transporte, infraestructura de movilidad y, en especial, aquella destinada a los peatones, personas con discapacidad o movilidad reducida y el derecho a la movilidad motorizada y no motorizada en el Estado;
+
+II. Colaborar con las diferentes instancias de gobierno en la planeación y diseño de los programas para la organización y el desarrollo del servicio de transporte en el Estado, en apego a las formalidades, requisitos y características de las diferentes regiones;
+
+III. Proveer en el ámbito de su competencia que la vialidad, la infraestructura vial y peatonal, servicios y elementos inherentes o incorporados a ella, se utilicen en forma adecuada conforme a su naturaleza, coordinándose en su caso, con las dependencias y entidades estatales y municipales correspondientes;
+
+IV. Participar en la realización de los estudios necesarios para la creación y modificación de las vialidades en coordinación con las autoridades estatales y municipales, de acuerdo con las necesidades y las condiciones impuestas por el Programa Estatal de Movilidad;
+
+V. Gestionar y fomentar el uso de tecnologías, dispositivos, instrumentos, servicios y procesos no dañinos al medio ambiente, que reduzcan el impacto ambiental y las emisiones contaminantes;
+
+VI. Generar las bases para la accesibilidad y el servicio público de transporte de personas de competencia estatal para personas con discapacidad o movilidad reducida, mujeres, personas adultas mayores, niñas y niños, privilegiando el derecho de estos grupos a contar con medios de transporte acordes a sus necesidades;
+
+VII. Participar en las acciones que en materia de protección al medio ambiente lleven a cabo otras autoridades, en relación con la prestación del servicio público y especial de transporte y el particular;
+
+VIII. Dictar los acuerdos necesarios para mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público y especial de transporte de competencia estatal, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+
+IX. Promover que las vialidades y los nuevos desarrollos urbanos cuenten con accesibilidad a peatones, personas con discapacidad o movilidad reducida, ciclistas y estacionamientos para bicicletas, basadas en los estudios y planes de movilidad correspondientes que para tal efecto se realicen, a fin de fomentar el uso de transporte no contaminante; sin perjuicio de las acciones que deban ejecutarse en coordinación con los municipios;
+
+X. Instrumentar en coordinación con otras dependencias y con los municipios, programas y campañas de educación peatonal, vial y cortesía urbana, encaminados a la prevención de accidentes, a través de la formación de una conciencia social de los problemas peatonales y viales y una cultura urbana en la población;
+
+XI. En el ámbito de su competencia, promoverá servicios de transporte público de personas que consideren las necesidades de las mujeres y los lugares a los que viajan, así como módulos de atención a mujeres violentadas en el servicio;
+
+XII. Regular los requisitos para el tránsito en las carreteras, caminos y áreas de jurisdicción estatal;
+
+XIII. Expedir las licencias y permisos para conducir en el Estado con apego a lo que sobre el particular establece esta Ley y su reglamento;
+
+XIV. Participar y brindar asesoría técnica a las dependencias y entidades estatales y municipales, relacionadas con la planeación del desarrollo urbano y la obra pública para el mejoramiento de la movilidad, así como del servicio público y especial de transporte;
+
+XV. Fungir como consultor técnico de la administración pública estatal sobre los asuntos vinculados a la movilidad y al servicio público y especial de transporte, realizando los diagnósticos, propuestas, análisis y estudios técnicos correspondientes;
+
+XVI. Realizar los análisis, estudios técnicos y diagnósticos que se requieran para el cumplimiento de su objeto y atribuciones, así como aquellos que en su caso le sean solicitados por los municipios o que se deriven de las acciones de coordinación con los municipios de la entidad;
+
+XVII. Promover, proteger la libre concurrencia y la libre competencia, así como prevenir y evitar los monopolios y las prácticas monopólicas;
+
+XVIII. Emitir la opinión respecto a la congruencia de los programas municipales de movilidad con relación al Programa Estatal de Movilidad;
+
+XIX. Formular recomendaciones públicas no vinculatorias y proponer estrategias a los entes públicos y privados respecto al incumplimiento de las obligaciones contempladas en la presente Ley;
+
+XX. Fungir, cuando se vea afectada la prestación del servicio y previa solicitud, como instancia conciliadora en las controversias que surjan entre los concesionarios y permisionarios del servicio público y especial de transporte con las autoridades municipales, y entre estas; sin perjuicio de la aplicación de sanciones en el ámbito de su competencia en caso de persistir la afectación del servicio;
+
+XXI. Participar, con las dependencias y entidades competentes, en la formulación y aplicación de las normas relativas al medio ambiente que incidan en la materia de movilidad y del servicio público y especial de transporte;
+
+XXII. Promover, impulsar y fomentar sistemas de transporte y medios alternos de movilidad que utilicen los avances tecnológicos y científicos, a través de eficiencia energética y tendientes a reducir emisiones atmosféricas, acústicas y gases de efecto invernadero, promoviendo el mantenimiento y la preservación de los ya existentes;
+
+XXIII. Determinar las características de la infraestructura de movilidad y equipamiento auxiliar del servicio público de transporte que se requiera para su correcta operación, así como promover su construcción, operación, conservación, mejoramiento y vigilancia;
+
+XXIV. Fomentar el uso del transporte no motorizado, y los desplazamientos a pie, así como la accesibilidad para la movilidad de las personas con discapacidad o movilidad reducida;
+
+XXV. Promover acciones preventivas y correctivas respecto de la operación de la infraestructura de movilidad estatal y municipal;
+
+XXVI. Establecer y promover políticas, programas y acciones tendientes a eliminar las interferencias y obstáculos de la seguridad de los usuarios, especialmente de las personas vulnerables, promoviendo el respeto a los derechos humanos;
+
+XXVII. Incentivar la formación de especialistas, para la investigación y el desarrollo tecnológico en materia de movilidad;
+
+XXVIII. Diseñar, impartir y coordinar cursos de capacitación en materia de su competencia, de manera directa o mediante los entes debidamente reconocidos por este;
+
+XXIX. Opinar sobre los criterios y lineamientos que permitan dar unidad y congruencia a los programas y acciones del Gobierno del Estado en materia de movilidad e infraestructura vial relacionada con el servicio público y especial de transporte;
+
+XXX. Promover el diseño de sistemas de financiamiento, a favor de los prestadores del servicio para el desarrollo y la modernización del servicio público y especial de transporte;
+
+XXXI. Establecer y promover políticas, planes y acciones tendientes a mejorar la movilidad en las diferentes vialidades estatales incluyendo las zonas declaradas o consideradas como metropolitanas, así como la regulación en la prestación del servicio público y especial de transporte en las mismas;
+
+XXXII. Conformar comisiones de trabajo con los diferentes sectores, con el objeto de que propongan acciones, programas o proyectos en la materia competencia del Instituto; y
+
+XXXIII. Las demás que le señalen otras disposiciones legales o reglamentarias aplicables.
+
+La administración del Instituto estará a cargo de un Director General.
+
+Facultades no delegables del titular de la Dirección General del Instituto
+
+###### Artículo 26.
+
+Son facultades no delegables del titular de la Dirección General del Instituto:
+
+I. Proponer al titular de la Secretaría de Gobierno, las medidas que considere necesarias para mejorar las políticas estatales en materia de movilidad y los servicios de transporte en la entidad;
+
+II. Reconsiderar la infracción en el ámbito de su competencia, a quienes incurran en inobservancias a las disposiciones de esta Ley y de su reglamento;
+
+III. Resolver los procedimientos administrativos de su competencia, imponiendo en su caso las sanciones correspondientes;
+
+IV. Certificar los documentos que obren en los archivos del Instituto previo el pago de los derechos correspondientes;
+
+V. Celebrar convenios, contratos y cualquier otro acto jurídico inherente al objeto del Instituto, con las dependencias y entidades de la administración pública, así como con personas físicas y morales, públicas, privadas y sociales nacionales y extranjeras para el logro del mismo, dando cuenta al Secretario de Gobierno de su suscripción, seguimiento y cumplimiento; y
+
+VI. Elaborar los proyectos de estructura organizacional, programas y presupuestos del Instituto cuidando la adecuada administración de sus recursos humanos, materiales y financieros.
+
+Facultades del Director General
+
+###### Artículo 27.
+
+Son facultades del Director General:
+
+I. Representar al Instituto;
+
+II. Formular, elaborar, revisar, coordinar y dar seguimiento al Programa Estatal de Movilidad, así como a la actualización y modernización del servicio público especial de transporte en el Estado;
+
+III. Rendir un informe anual de actividades ante el titular de la Secretaría de Gobierno;
+
+IV. Formular los proyectos de Reglamento de la Ley, así como el Reglamento Interior del Instituto y someterlos a consideración del titular de la Secretaría de Gobierno, para su posterior aprobación por el titular del Poder Ejecutivo;
+
+V. Coadyuvar con las estrategias, directrices y lineamientos que establezca el titular de la Secretaría de Gobierno relacionados con el objeto del Instituto;
+
+VI. Supervisar el cumplimiento de las metas del Programa de Gobierno, así como de los programas que del mismo se deriven competencia del Instituto e informar sobre sus avances al titular de la Secretaría de Gobierno;
+
+VII. Revisar el marco normativo que rige la materia de la movilidad y el transporte, a fin de proponer al titular del Poder Ejecutivo las adecuaciones, modificaciones y actualizaciones de las normas, reglas y procedimientos administrativos que resulten pertinentes;
+
+VIII. Programar, orientar, organizar, controlar, aprobar y en su caso modificar, la prestación del servicio público y especial de transporte de competencia estatal;
+
+IX. Tramitar la prórroga, transmisión y modificación de la concesión, así como la rectificación de los títulos de concesión, emitiendo los dictámenes respectivos para la resolución por parte del titular de la Secretaría de Gobierno;
+
+X. Efectuar la revisión y control administrativo de los expedientes de las concesiones y permisos del servicio público y especial de transporte:
+
+XI. Verificar la legalidad y condiciones con las que se presta el servicio público y especial de transporte de competencia estatal y, en su caso, ordenar la detención administrativa de los vehículos afectos a la prestación de dichos servicios;
+
+XII. Establecer y administrar los registros y sistemas de información y de control del servicio público y especial de transporte;
+
+XIII. Expedir las licencias y permisos para conducir de los operadores y conductores de vehículos automotores públicos y privados, respectivamente; así como llevar la administración y control de los expedientes, de la información y registro de los mismos;
+
+XIV. Atender las solicitudes de información que le formule la Unidad de Enlace de la Secretaría de Gobierno en materia de Acceso a la Información Pública;
+
+XV. Comunicar a la Unidad de Enlace de la Secretaría de Gobierno, en materia de Acceso a la Información Pública, las circulares y criterios que emita y que tengan impacto en la ciudadanía;
+
+XVI. Coordinar las comisiones de trabajo con los diferentes sectores, con el objeto de que propongan acciones, programas o proyectos en la materia de (sic) competencia del Instituto;
+
+XVII. Realizar las actividades que en materia de movilidad y transporte se le atribuyan expresamente al Instituto y colaborar con el cumplimiento de las políticas en materia ambiental;
+
+XVIII. Realizar todas aquellas acciones tendientes a que el servicio público y el especial de transporte, además de llevarse a cabo con eficiencia, se proporcione con calidad, garantice la seguridad de peatones, usuarios de la vialidad y los derechos de los permisionarios y concesionarios; y
+
+XIX. Las demás que le señalen otras disposiciones legales o reglamentarias aplicables.
+
+Las facultades establecidas en el presente artículo podrán delegarse para su ejercicio en las unidades administrativas o en los servidores públicos adscritos al Instituto, en los términos que establezcan los reglamentos o acuerdos correspondientes.
+
+Unidades administrativas
+
+###### Artículo 28.
+
+El Instituto para el desarrollo de sus funciones contará con las unidades administrativas necesarias para cumplir con su objeto y atribuciones.
+
+La estructura administrativa del Instituto y las facultades de sus unidades administrativas se desarrollarán en el Reglamento Interior del mismo, atendiendo a la disponibilidad presupuestal.
+
+Conformación de comisiones de participación ciudadana en materia de movilidad
+
+###### Artículo 29.
+
+Para fomentar la participación ciudadana el Instituto deberá conformar comisiones de trabajo, de acuerdo al tema de movilidad o las modalidades del servicio público y especial de transporte, podrán quedar integradas con los concesionarios del servicio, autoridades municipales, organismos no gubernamentales del ramo, cámaras empresariales y sector educativo de la entidad, con el objeto de proponer al Instituto las acciones, programas o proyectos en la materia de su competencia.
+
+Las comisiones de trabajo de participación ciudadana en materia de movilidad serán coordinadas por el Director General del Instituto con el apoyo del personal que este designe.
+
+El funcionamiento y organización de las comisiones será regulado de acuerdo al Reglamento del Instituto, debiéndose integrar en su mayoría por ciudadanos.
+
+Oficinas regionales de movilidad.
+
+###### Artículo 30.
+
+Podrán establecerse Oficinas Regionales de Movilidad en los municipios de la entidad, cuya jurisdicción y competencia será determinada por el Director General atendiendo a las necesidades de la población y el interés social, así como a la disponibilidad presupuestal. Dicha determinación se publicará en el Periódico Oficial del Gobierno del Estado.
+
+### Capítulo V. Autoridades Municipales y sus Facultades
+
+Autoridades municipales
+
+###### Artículo 31.
+
+Son autoridades municipales en materia de movilidad y transporte:
+
+I. Los ayuntamientos;
+
+II. Los presidentes municipales; y
+
+III. Las dependencias u organismos municipales encargados de la movilidad.
+
+Vigilancia del transporte público municipal
+
+###### Artículo 32.
+
+Los ayuntamientos, a través de las dependencias u organismos que para el efecto designen, están facultados para vigilar y sancionar en el ámbito de su competencia las infracciones a esta Ley y la reglamentación que de ella se derive.
+
+Atribuciones de los ayuntamientos
+
+###### Artículo 33.
+
+Son atribuciones de los ayuntamientos:
+
+I. Expedir el reglamento municipal de conformidad con la presente Ley;
+
+II. Dictar y aplicar; en cualquier tiempo; cuando así lo requiera el interés público, las medidas para el cumplimiento de esta Ley y la reglamentación municipal;
+
+III. Planear, coordinar, evaluar y aprobar los programas en materia de movilidad y transporte en los términos de las disposiciones legales, los cuales deberán ser acordes a las disposiciones y políticas públicas estatales en materia de territorio, planeación, desarrollo urbano, forestal, medio ambiente, igualdad, no discriminación y movilidad, en interacción con los diferentes sistemas de transporte en beneficio del interés público;
+
+IV. Diseñar y ejecutar, en materia de movilidad urbana no motorizada, programas de recuperación y habilitación de espacios urbanos para el desplazamiento peatonal y la construcción y mantenimiento de infraestructura para ciclovías en los términos de esta Ley;
+
+V. Llevar el registro de las concesiones y permisos del servicio público de transporte a efecto de dar certidumbre jurídica a los usuarios, concesionarios y permisionarios;
+
+VI. Otorgar, revocar y suspender las concesiones y permisos del servicio público de transporte conforme a la presente Ley y el reglamento municipal correspondiente;
+
+VII. Tramitar y resolver los recursos administrativos en materia de movilidad y transporte;
+
+VIII. Establecer la tarifa de los servicios públicos de transporte, en los términos de esta Ley;
+
+IX. Elaborar e implementar, a través de la unidad administrativa que determine, el programa de Movilidad y Transporte Municipal en estricto apego y concordancia con el Programa Estatal de Movilidad;
+
+X. Proveer en el ámbito de su competencia que la vialidad, la infraestructura vial y peatonal, servicios y elementos inherentes o incorporados a ella, se utilicen en forma adecuada conforme a su naturaleza, coordinándose en su caso, con las áreas correspondientes para lograr este objetivo;
+
+XI. Realizar todas aquellas acciones tendientes a que el servicio público de transporte de competencia municipal, se proporcione con calidad, garantizando la seguridad de los usuarios del servicio, peatones, usuarios de la vialidad y los derechos de los permisionarios y concesionarios; en su caso, en coordinación con el Estado;
+
+XII. Ordenar la realización de los estudios necesarios para la creación y modificación de las vialidades, de acuerdo con las necesidades y las condiciones impuestas por el Programa de Movilidad y Transporte Municipal, en los que se brindará prioridad a peatones, ciclistas y usuarios de transporte de pasajeros;
+
+XIII. Regular, programar, orientar, organizar, controlar, aprobar y en su caso modificar, la prestación de los servicios públicos de transporte de competencia municipal;
+
+XIV. Promover, impulsar y fomentar los sistemas de transporte público, de eficiencia energética y aquel que utilice combustibles que tengan un menor impacto en generación de emisiones de contaminantes atmosféricos y de gases de efecto invernadero, así como medios y modos de transporte alterno;
+
+XV. Garantizar la accesibilidad y el servicio público de transporte de personas de competencia municipal, para personas con discapacidad o movilidad reducida, mujeres, personas adultas mayores, niñas y niños, privilegiando el derecho de estos grupos a contar con medios de transporte acordes a sus necesidades;
+
+XVI. Promover créditos y facilidades administrativas en la obtención e implementación de aditamentos, nueva tecnología y apoyos técnicos para las adecuaciones necesarias a las diversas unidades de transporte público de competencia municipal para cumplir con la normatividad en materia de movilidad;
+
+XVII. Coordinar las acciones que en materia de protección al medio ambiente, la reducción de contaminantes atmosféricos y de gases de efecto invernadero, lleve a cabo el municipio, en relación con la movilidad y la prestación del servicio público y especial de transporte, y el particular, en el ámbito de su competencia;
+
+XVIII. Dictar los acuerdos necesarios para la conservación, mantenimiento y renovación del parque vehicular, destinado a la prestación del servicio público de transporte de su competencia, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+
+XIX. Instrumentar en coordinación con el Estado y otros municipios, programas y campañas de educación peatonal, vial y cortesía urbana, encaminados a la prevención de accidentes, así como de protección al medio ambiente;
+
+XX. Promover que las actuales vialidades y los nuevos desarrollos urbanos cuenten con ciclovías, accesibilidad universal, estacionamientos para fomentar el uso de transporte no contaminante; sin perjuicio de las acciones que deban ejecutarse en coordinación con el Estado y con otros municipios; y
+
+XXI. Las demás que les confiere esta Ley, su reglamento municipal y demás normatividad aplicable.
+
+Requisitos mínimos
+
+###### Artículo 34.
+
+Las facultades y obligaciones de las autoridades municipales en materia de movilidad y transporte, se precisarán en los reglamentos respectivos, debiendo establecer como mínimo lo siguiente:
+
+I. Autorización de horarios para la circulación de vehículos de carga, así como la determinación de zonas de descarga; y
+
+II. Autorización de circulación respecto a las vías para la conducción de transporte y carga, respecto a las medidas y peso.
+
+### Capítulo VI. Colaboración entre Autoridades
+
+Autoridades auxiliares
+
+###### Artículo 35.
+
+Son autoridades auxiliares en materia de movilidad, la Secretaría de Seguridad Pública y la Secretaría de Infraestructura y Desarrollo Urbano.
+
+Colaboración con otras autoridades
+
+###### Artículo 36.
+
+Las autoridades estatales y municipales en materia de movilidad y transporte, de conformidad con lo que dispongan las leyes aplicables, coadyuvarán con las autoridades de seguridad pública y los órganos de procuración y de administración de justicia en el cumplimiento de sus funciones.
+
+## TÍTULO SEGUNDO. MOVILIDAD
+
+### Capítulo I. Derechos y Obligaciones de las personas en materia de movilidad
+
+Derecho a la movilidad eficiente y segura
+
+###### Artículo 37.
+
+Toda persona que se desplace por el territorio del Estado, tiene derecho a disfrutar de una movilidad eficiente y segura.
+
+Las autoridades, en los términos de esta y otras leyes tomarán las medidas necesarias para garantizar ese derecho, verificando las condiciones bajo las cuales se pueda fomentar el uso del transporte público y medios alternativos de movilidad a través de un diseño adecuado y confortable de la vía pública.
+
+Obligaciones de las personas en la movilidad
+
+###### Artículo 38.
+
+Los peatones, usuarios y operadores del servicio público y especial de transporte, conductores de vehículos motorizados y no motorizados y la población en general, tienen las siguientes obligaciones:
+
+I. Abstenerse de dañar la infraestructura y mobiliario para la movilidad;
+
+II. No obstaculizar, perjudicar o poner en riesgo a las demás personas;
+
+III. Conocer y cumplir las normas y señales de movilidad que sean aplicables;
+
+IV. Obedecer las indicaciones que den las autoridades en materia de movilidad y seguridad vial;
+
+V. Abstenerse de intimidar, abusar y agredir sexualmente a las mujeres; y
+
+VI. Las demás que le impongan la normatividad aplicable en materia de movilidad.
+
+La infracción de estas disposiciones se sancionará conforme a los ordenamientos administrativos, civiles o penales.
+
+Promoción de acciones de movilidad
+
+###### Artículo 39.
+
+El Poder Ejecutivo del Estado y los municipios promoverán el derecho a la movilidad, a través de las dependencias y entidades correspondientes, las acciones necesarias en materia de educación y cultura vial para los peatones, ciclistas, motociclistas, usuarios del servicio público de transporte y conductores de vehículos, y las acciones de prevención de la violencia hacia las mujeres en espacios públicos en coordinación con las entidades competentes, los concesionarios, permisionarios, sector social y privado, a través de los diferentes medios de comunicación.
+
+Las autoridades señaladas en el párrafo anterior se coordinarán en el diseño e instrumentación de programas permanentes de promoción en materia de seguridad, prevención de accidentes y cultura peatonal y vial.
+
+Derechos en materia de movilidad
+
+###### Artículo 40.
+
+Las personas que transiten en el Estado, tendrán los siguientes derechos:
+
+I. Optar por el tipo de movilidad que consideren más adecuado a sus necesidades;
+
+II. Disponer del servicio público y especial de transporte con calidad, eficiencia y seguridad;
+
+III. Acceder a alternativas seguras, cómodas, confortables y de calidad para sus desplazamientos;
+
+IV. Disponer de la información necesaria para elegir el modo de movilidad autorizado más adecuado y planificar el desplazamiento adecuadamente;
+
+V. Presentar ante la autoridad competente de movilidad las denuncias, quejas reclamaciones y sugerencias que estimen oportunas en relación con los servicios público y especial de transporte, así como las irregularidades relacionadas con el mal uso de la vialidad, así como la carencia, deficiencia o mal estado de la nomenclatura y señalización vial;
+
+VI. Participar con su opinión en la toma de decisiones en relación con la movilidad de acuerdo con los procedimientos previstos en esta Ley y demás normatividad aplicable; y
+
+VII. Los demás que establezca esta Ley u otros ordenamientos jurídicos.
+
+Tratándose de las mujeres, además de las señaladas en las fracciones anteriores, tendrán el derecho a la protección a una vida libre de violencia y a que se les respete en su integridad física y psicológica.
+
+Movilidad de peatones
+
+###### Artículo 41.
+
+Las autoridades estatales y municipales propiciarán y fomentarán el tránsito seguro de los peatones, mediante la infraestructura y los señalamientos viales necesarios y deberán garantizar que las vías públicas peatonales no sean obstruidas ni invadidas, implementando las acciones que se requieran para evitarlo.
+
+Infraestructura acorde a movilidad
+
+###### Artículo 42.
+
+Las autoridades estatales y municipales competentes deberán considerar la jerarquía de la movilidad establecida en la presente Ley, en el diseño, uso o destino de la infraestructura de la vialidad.
+
+Derecho de paso preferencial
+
+###### Artículo 43.
+
+Los peatones gozarán del derecho de paso en las intersecciones así como el paso preferencial en todas las zonas que tengan señalamientos al respecto y en aquellos lugares en que el tránsito sea controlado por la autoridad de tránsito, quien en todo tiempo deberá cuidar su seguridad.
+
+Tránsito por las banquetas
+
+###### Artículo 44.
+
+Las banquetas de las vías públicas sólo podrán ser utilizadas para el tránsito de los peatones.
+
+Las personas con discapacidad o movilidad reducida que utilicen sillas de ruedas o aparatos similares, por sí o con el auxilio de otra persona, tendrán preferencia para transitar por las banquetas.
+
+Uso de puentes y pasos peatonales
+
+###### Artículo 45.
+
+Los peatones tienen el deber de cuidar de su integridad física y cuidar a sus acompañantes que no tienen capacidad de hacerlo, por lo tanto, no podrán transitar por las vías públicas destinadas a la circulación vehicular, ni cruzar las vías rápidas por sitios no autorizados, al efecto, deberán utilizar los pasos o puentes peatonales pasa cruzar la vía pública.
+
+El incumplimiento de lo previsto en el párrafo anterior será sancionado de conformidad con los reglamentos respectivos.
+
+Tránsito de escolares
+
+###### Artículo 46.
+
+Los escolares tendrán el derecho de paso preferencial en las intersecciones y zonas señaladas para esos fines y tendrán prioridad para el ascenso y descenso de los vehículos destinados a su transportación, cuidando que no se obstruya el tránsito vial.
+
+Las autoridades de tránsito deberán proteger mediante los dispositivos, señalamientos e indicaciones convenientes el tránsito de los escolares en los lugares y horarios establecidos.
+
+Personas con discapacidad o movilidad reducida
+
+###### Artículo 47.
+
+Las autoridades determinarán e instalarán los señalamientos que se requieran a fin de facilitar la protección, accesibilidad al transporte público, servicios e instalaciones, movilidad y el desplazamiento de las personas con discapacidad o movilidad reducida; debiendo coordinar sus acciones con las autoridades de movilidad respectivas, para que en las nuevas urbanizaciones se incluyan los servicios, dispositivos o la infraestructura que contribuyan a esta finalidad.
+
+Las autoridades deberán implementar las acciones necesarias a efecto de que los establecimientos que ofrezcan servicio al público, cuenten con espacios de estacionamiento exclusivos para los vehículos de las personas con discapacidad o movilidad reducida en los términos y condiciones que señalen los reglamentos respectivos.
+
+Derechos de los usuarios
+
+###### Artículo 48.
+
+Los usuarios del servicio público de transporte de personas tienen los siguientes derechos:
+
+I. Recibir un servicio público de transporte de calidad, en forma permanente, regular, continuo, uniforme e ininterrumpido y en las mejores condiciones de accesibilidad, seguridad, comodidad, higiene y eficiencia;
+
+II. Que se les cobre conforme a la tarifa o el sistema de cobro que se encuentren autorizados y exigir el boleto respectivo que compruebe el pago cuando este se haga en efectivo, en caso de sistemas de cobros donde este no se haga en efectivo deberá existir un registro de dicho pago;
+
+III. Gozar de la tarifa preferencial cuando se encuentren en el supuesto establecido en la normatividad de la materia;
+
+IV. Tratándose de personas con discapacidad o movilidad reducida, a que se les respeten los lugares y accesos destinados para ellas;
+
+V. A recibir atención médica inmediata en caso de siniestros, a cargo del concesionario o permisionario;
+
+VI. A la indemnización por las lesiones causadas en su persona y daños en sus bienes, en su caso;
+
+VII. Conocer el medio donde podrá interponer denuncias, quejas, reclamaciones y sugerencias;
+
+VIII. Conocer los datos del operador, a través del documento de identificación que se establezca en el reglamento de la Ley; lo cual deberá colocarse en un lugar visible del vehículo y será de un tamaño que permita su lectura a distancia;
+
+IX. A la certeza de las características de operación de los distintos servicios; y
+
+X. Los demás que esta y otras disposiciones legales señalen.
+
+Derechos de usuarios del servicio especial de transporte
+
+###### Artículo 49.
+
+Los usuarios del servicio especial de transporte tendrán, en lo que resulte procedente, los mismos derechos que los usuarios del servicio público de transporte.
+
+Acciones en materia de Equidad de Género
+
+###### Artículo 50.
+
+Las autoridades estatales y municipales en el ámbito de su competencia podrán establecer en las diferentes modalidades de transporte e infraestructura para la movilidad, los espacios, servicios, acciones, programas, y demás mecanismos de control y organización que resulten necesarios para coadyuvar en la equidad, seguridad, respeto, integridad y la libertad de desplazamiento de las mujeres, enfocado a la perspectiva de género.
+
+Para tal efecto se realizarán los acuerdos y acciones de coordinación correspondientes con el Instituto Sonorense de la Mujer y las áreas de seguridad pública estatal y municipal, a efecto de canalizar todas aquellas acciones que limiten los derechos de las mujeres y en general que impacten de forma negativa en la equidad de género.
+
+### Capítulo II. Transporte no motorizado
+
+Obligación para conductores de vehículos no motorizados
+
+###### Artículo 51.
+
+Los conductores de vehículos no motorizados deberán hacer uso de las áreas destinadas para ello. En caso de no existir estas, deberán circular en las vías públicas siempre por su derecha respetando el sentido de la circulación, a una distancia no mayor de un metro a partir de la banqueta circulando en línea, no más de un vehículo de este tipo a la vez.
+
+Tránsito seguro
+
+###### Artículo 52.
+
+Las autoridades estatales y municipales propiciarán y fomentarán el tránsito seguro de este tipo de transporte, mediante la infraestructura, mobiliario y el señalamiento vial necesarios, los cuales se regularán en el reglamento respectivo.
+
+En el caso de las ciclovías deberán garantizar que estas se mantengan libres de obstáculos, propiciando su uso y diseño en los programas de desarrollo urbano y ordenamiento ecológico territorial estatal y municipales.
+
+Derechos de los ciclistas
+
+###### Artículo 53.
+
+Los ciclistas que transiten por las vías públicas, gozarán de los siguientes derechos:
+
+I. Contar con la infraestructura necesaria para su correcta y segura movilidad;
+
+II. Contar preferentemente con servicios que le permitan realizar trasbordos con otros modos de transporte; para ello se destinarán áreas de estacionamiento gratuitas, seguras y estratégicas, dejando sus bicicletas resguardadas;
+
+III. Transportar su bicicleta en las unidades de transporte público en las modalidades que lo permitan, de acuerdo a la norma técnica correspondiente; y
+
+IV. Los demás que establezca esta Ley u otros ordenamientos jurídicos.
+
+Las personas con discapacidad o movilidad reducida que utilicen como medio de transporte bicicletas modificadas para su condición, gozarán, en todo lo que les beneficie, de los mismos derechos señalados en el presente artículo.
+
+Centros de alquiler de bicicletas
+
+###### Artículo 54.
+
+El Instituto y los municipios podrán establecer centros de alquiler de bicicletas y establecerán los requisitos y condiciones para emitir autorización a centros particulares de alquiler.
+
+### Capítulo III. Vehículos
+
+Concepto de vehículo
+
+###### Artículo 55.
+
+Para los efectos de esta Ley, de los reglamentos que de ella emanen, así como de cualquier disposición relativa de las autoridades de movilidad correspondientes, se entiende por vehículo todo medio impulsado por un motor o cualquiera otra forma de propulsión, en el cual se lleva a cabo la transportación de personas o de cosas, utilizando las vías públicas terrestres del Estado.
+
+Clasificación de vehículos
+
+###### Artículo 56.
+
+Considerando la finalidad de los vehículos, estos se clasifican en:
+
+I. Vehículos de uso privado;
+
+II. Vehículos de servicio público y especial; y
+
+III. Vehículos para la seguridad pública y el servicio social.
+
+Vehículos de uso privado
+
+###### Artículo 57.
+
+Los vehículos de uso privado son aquellos destinados a satisfacer las necesidades particulares de sus propietarios o poseedores, ya sean estos personas físicas o morales; su circulación será libre por todas las vías públicas del Estado, sin más limitación que el cumplimiento, por parte de sus propietarios y de sus conductores, de todas las normas establecidas por esta Ley y sus reglamentos.
+
+Póliza de seguro para vehículos particulares
+
+###### Artículo 58.
+
+Los vehículos particulares registrados en el Estado deberán contar con una póliza de seguro vigente para responder de los daños y lesiones que pudieran ocasionarse derivados de la responsabilidad de cualquier siniestro o accidente. La cobertura de la póliza, los plazos y los mecanismos para la aplicación del presente dispositivo se determinarán en el reglamento de la presente Ley o en los lineamientos y disposiciones que se establezcan en el acto jurídico administrativo que para el efecto emita el titular del Ejecutivo.
+
+El Ejecutivo del Estado buscará las acciones de coordinación o acuerdos con las aseguradoras existentes en el Estado, a efecto de lograr condiciones óptimas que no resulten onerosas para los particulares en la contratación de las pólizas.
+
+Vehículos de los servicios público y especial de transporte
+
+###### Artículo 59.
+
+Los vehículos de los servicios público especial de transporte son aquellos que están destinados al transporte de personas y de carga, en sus distintas modalidades, que operan en virtud de concesiones o permisos otorgados en los términos de Ley.
+
+Vehículos para la seguridad pública y el servicio social
+
+###### Artículo 60.
+
+Son vehículos de servicio social aquellos que sin estar exentos de acatar las disposiciones de esta Ley y sus reglamentos, cumplen funciones de seguridad y asistencia social, por lo que deberán estar plenamente identificados como tales, con base a las disposiciones relativas.
+
+Vehículos de uso o tránsito eventual
+
+###### Artículo 61.
+
+Se da el nombre de vehículos de uso o tránsito eventual, a aquellos que utilizan las vías públicas de la entidad de manera temporal en sus desplazamientos, en virtud de provenir de otros puntos de la Federación o del extranjero o que por el servicio específico que llevan a cabo, se encuentran sometidos a otra jurisdicción distinta de la estatal. Asimismo, se consideran dentro de esta categoría aquellas unidades que en virtud de convenios de enlace, fusión de equipos o intercambio de servicios, celebrado entre concesionarios o permisionarios locales con concesionarios o permisionarios de servicio federal o de entidades federativas limítrofes, requieren hacer uso de las vías públicas estatales.
+
+Registro
+
+###### Artículo 62.
+
+Todos los vehículos que circulen por las vías públicas del Estado de Sonora y que en razón de su actividad y domicilio y que no estén registrados en otra entidad federativa, deberán efectuar su registro ante la Secretaría de Finanzas. Las condiciones y requisitos para cada tipo y clase de vehículo, son las que al respecto se señalen en esta Ley y sus reglamentos.
+
+La Secretaría de Finanzas, el Instituto de Movilidad del Estado de Sonora y la unidad administrativa correspondiente en el municipio establecerán los mecanismos de coordinación para eficientar el registro vehicular en la entidad.
+
+### Capítulo IV. Conductores y operadores de vehículos motorizados
+
+Conductores de vehículos motorizados
+
+###### Artículo 63.
+
+Los conductores y operadores de vehículos motorizados deberán cumplir con todos los requisitos que establecen esta Ley, su reglamento y demás ordenamientos aplicables para poder circular por la entidad.
+
+Obligaciones de los conductores y operadores de vehículos motorizados
+
+###### Artículo 64.
+
+Todo conductor u operador de vehículo motorizado tendrá las siguientes obligaciones:
+
+I. Respetar los límites de velocidad establecidos por la autoridad competente;
+
+II. No conducir bajo los efectos del alcohol, sustancias psicotrópicas, estupefacientes, enervantes, incluyendo medicamentos con este efecto y de todos aquellos fármacos que con evidencia médica alteren o puedan alterar la capacidad para dicha acción;
+
+III. Utilizar el cinturón de seguridad y asegurar que los pasajeros lo porten;
+
+IV. No hacer uso de teléfonos o dispositivos móviles que distraigan durante la conducción;
+
+V. En caso de menores, deberá (sic) transportarlos en los asientos traseros en un sistema de retención infantil o asiento especial, ajustándose a las normas técnicas de la materia;
+
+VI. Tratándose de vehículos de carga, hacer uso de la vía pública de las zonas urbanas en las vialidades y horarios señalados para tal efecto en los reglamentos respectivos;
+
+VII. Los conductores y operadores de vehículos deberán respetar los derechos previstos en esta Ley e integridad física de los peatones, en especial escolares, personas con discapacidad o movilidad reducida y de los conductores de vehículos no motorizados; y
+
+VIII. Las demás que le señalen la presente Ley y los reglamentos respectivos.
+
+La infracción a este artículo será sancionada de conformidad a la gravedad de cada caso, de acuerdo al presente ordenamiento y a las leyes que resulten aplicables.
+
+Carriles exclusivos
+
+###### Artículo 65.
+
+Las autoridades competentes deberán establecer carriles o calles exclusivas para los peatones, vehículos motorizados y no motorizados y los de servicio público de transporte, a efecto de mejorar y eficientar la movilidad, considerando las acciones en materia de infraestructura y señalización para la seguridad de las personas, conforme a sus necesidades.
+
+## TÍTULO TERCERO. REGISTRO Y CONTROL DE VEHÍCULOS
+
+### Capítulo I. Registro vehicular
+
+Registro de vehículos
+
+###### Artículo 66.
+
+El registro de los vehículos se acreditará mediante la tarjeta de circulación que deberá llevar siempre el conductor del mismo, así como con las placas y la calcomanía correspondiente, que deberán ser colocadas en los lugares que determine el reglamento de esta Ley.
+
+La Secretaría de Finanzas expedirá las placas y la calcomanía que permita identificar a los vehículos conducidos por o en que habitualmente viajen personas con discapacidad.
+
+Vehículos extranjeros
+
+###### Artículo 67.
+
+Los vehículos registrados en otro país podrán circular libremente en el Estado, si lo hacen de manera transitoria; debiendo contar con el permiso de importación e internación temporal otorgado por las autoridades competentes, además de portar las placas y la tarjeta de circulación correspondiente.
+
+Suspensión de circulación de vehículos
+
+###### Artículo 68.
+
+No se podrá suspender la circulación a ningún vehículo por elementos de la Policía Estatal o por las autoridades municipales, salvo los casos de delitos o infracciones flagrantes, requerimientos administrativos o mandatos judiciales en los casos que resulte necesario para la preservación del orden y la paz pública.
+
+Padrón vehicular
+
+###### Artículo 69.
+
+La Secretaría de Finanzas, la Policía Estatal y las autoridades municipales, en los términos del artículo 62 de esta Ley, llevarán un control veraz y actualizado de los vehículos automotores sometidos a la jurisdicción estatal, debiendo integrar y operar un padrón que contenga los datos relativos a los mismos. Para cumplir con este objetivo podrán hacer uso de los medios técnicos que estimen mas adecuados.
+
+Requisitos para el registro vehicular
+
+###### Artículo 70.
+
+Para que el propietario de un vehículo pueda efectuar el registro del mismo, de conformidad con lo establecido en el presente capítulo, deberá satisfacer los requisitos siguientes:
+
+I. Presentar debidamente llenada y completada la forma de aviso correspondiente, proporcionando todos los datos que le sean solicitados por la Secretaría de Finanzas;
+
+II. Exhibir original de la factura, carta factura o documento que acredite la propiedad o legítima posesión del vehículo;
+
+III. Acreditar el pago de los impuestos y derechos que establecen los ordenamientos legales de la materia;
+
+IV. En caso de existir un registro anterior, acreditar que este ha sido cancelado, habiéndose efectuado en consecuencia el cambio de propietario; y
+
+V. Tratándose de vehículos de procedencia extranjera, además de los requisitos antes señalados, deberán de acreditar su legal estancia en el país, con el documento que haya expedido la autoridad competente.
+
+Registro de vehículos del servicio público y especial de transporte
+
+###### Artículo 71.
+
+Para el registro de vehículos destinados a la prestación del servicio público y especial de transporte, además de cumplir los requisitos señalados en el artículo anterior, los interesados deberán acompañar los documentos siguientes:
+
+I. Título concesión o permiso correspondiente vigentes;
+
+II. Constancia de haber aprobado la revista físico-mecánica, expedida por la autoridad competente;
+
+III. Contrato de seguro de cobertura amplia, fideicomiso o fondos de garantía aprobados por la autoridad, para responder a los usuarios y a los terceros ante cualquier siniestro que puedan sufrir;
+
+IV. Constancia de pagos de impuestos y derechos correspondientes; y
+
+V. En el caso del servicio público de transporte de competencia municipal, la anuencia del Ayuntamiento correspondiente.
+
+La información que contiene el registro de los vehículos a que alude este artículo, se considerará pública en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Sonora.
+
+Actualización de datos
+
+###### Artículo 72.
+
+Cuando con posterioridad al registro, ocurra alguna modificación relativa a los datos o características de los vehículos, el propietario deberá darla a conocer a la autoridad correspondiente, para que se lleve a cabo la actualización que proceda, dentro de los plazos que establece la Ley de Hacienda para el Estado.
+
+Convenios de colaboración
+
+###### Artículo 73.
+
+El Ejecutivo del Estado podrá celebrar convenios de colaboración o coordinación con las autoridades federales o de otros estados de la República, para la integración y actualización del registro de los vehículos.
+
+Como resultado de dichos convenios se podrán establecer, cuando se haga necesario, otros requisitos para el registro de los vehículos, además de los señalados anteriormente.
+
+### Capítulo II. Placas de los vehículos
+
+Otorgamiento de placas de circulación
+
+###### Artículo 74.
+
+Las placas de circulación que requieren los vehículos registrados de conformidad con las disposiciones de esta Ley y su reglamento serán otorgadas por la Secretaría de Finanzas.
+
+Obligación de portar placas de circulación
+
+###### Artículo 75.
+
+Ningún vehículo podrá desplazarse por las vías públicas del Estado sin llevar colocadas las placas correspondientes al tipo de uso o servicio propio de la unidad o, en su caso, la autorización provisional, otorgada por la propia autoridad competente, en tanto concluyen los trámites necesarios para su obtención, ya se trate de reposición por sustracción, extravío o reciente adquisición.
+
+Tipos de placas de circulación
+
+###### Artículo 76.
+
+La Secretaría de Finanzas expedirá los tipos de placas siguientes, para:
+
+I. Transporte privado:
+
+a) Automóvil;
+
+b) Autobús;
+
+c) Camión;
+
+d) Remolque;
+
+e) Auto antiguo;
+
+f) Vehículos para Discapacitados;
+
+g) Demostración; y
+
+h) Motocicleta particular.
+
+II. Transporte público:
+
+a) Automóvil;
+
+b) Autobús;
+
+c) Camión; y
+
+d) Vehículos para Discapacitados.
+
+III. Vehículos destinados a la seguridad pública, protección civil y emergencias:
+
+a) Policía preventiva;
+
+b) Policía ministerial;
+
+c) Motocicleta patrulla; y
+
+d) Emergencia.
+
+Placas para patrullas
+
+###### Artículo 77.
+
+Las placas para patrullas, únicamente se proporcionarán a aquellas unidades plenamente identificadas como tales, y que correspondan a instituciones policiales en los términos de la ley en la materia.
+
+Placas de demostración o traslado de vehículos
+
+###### Artículo 78.
+
+Las placas para demostración o traslado a que se hace referencia en el artículo 76 fracción I inciso g de esta Ley, únicamente se proporcionarán a las personas que se dediquen a la fabricación o compra-venta de vehículos automotores sujetos a registro.
+
+Placas para uso de personas con discapacidad
+
+###### Artículo 79.
+
+Las placas para vehículos para uso de personas con discapacidad se proporcionarán a las personas que sean propietarias de vehículos automotores ordinarios o adaptados con los equipos, dispositivos o modificaciones especiales para su manejo por sí mismas o por tercero, previa verificación y certificación que se realice a la unidad por las autoridades de tránsito competentes.
+
+Placas para auto antiguo
+
+###### Artículo 80.
+
+Las placas para auto antiguo se proporcionarán a las personas que sean propietarias o legitimas poseedoras de vehículos con una antigüedad mínima de treinta años, contados a partir de su fecha de fabricación, que sus partes y componentes mecánicos y de carrocería conserven sus características de originalidad y de operación, así como contar con una certificación de sus condiciones físico mecánicas expedida por las instituciones u organismos reconocidos por la Secretaría de Finanzas.
+
+### Capítulo III. Equipamiento vehicular
+
+Accesorios de seguridad
+
+###### Artículo 81.
+
+Todo vehículo que circule en las vías públicas del Estado, contará con los equipos, sistemas, dispositivos y accesorios de seguridad que señale esta Ley y su reglamento.
+
+Los vehículos deberán estar permanentemente en buen estado mecánico.
+
+Emisión de ruidos y contaminantes
+
+###### Artículo 82.
+
+Los vehículos deberán contar con los dispositivos necesarios para prevenir y controlar la emisión de ruidos y gases que propicien la contaminación ambiental. Las características y condiciones en que se hará la instalación de los dispositivos de referencia, serán determinadas por el reglamento de esta Ley y los ordenamientos ambientales aplicables.
+
+Requerimientos de peso y dimensiones
+
+###### Artículo 83.
+
+Todo vehículo para circular por las vías públicas del Estado, debe cumplir con los requerimientos de peso y dimensiones que se especifican en el reglamento, de esta Ley, debiendo las autoridades de tránsito retirarlos de la circulación cuando violen dichas especificaciones o no cuenten con el equipo necesario a que se hace referencia en los artículos que anteceden.
+
+Los vehículos para uso de personas con discapacidad que circulen por las vías públicas del Estado, deberán cumplir con las especificaciones, equipo, accesorios, sistemas o modificaciones especiales que señale el reglamento de esta Ley.
+
+Los vehículos adscritos a los cuerpos de seguridad pública y los destinados a la prestación de servicios de asistencia social, deberán identificarse con las características que determine el reglamento respectivo.
+
+### Capítulo IV. Circulación de los vehículos
+
+Número de personas por vehículo
+
+###### Artículo 84.
+
+Queda prohibido llevar en un vehículo un número mayor de personas al que especifique la tarjeta de circulación respectiva. En el caso de los vehículos de servicio público de transporte y el especial serán las autoridades de transporte competentes, las que determinen el número máximo de personas que pueden ser transportadas según el tipo de vehículos y servicio de que se trate.
+
+Colaboración en materia de registro de antecedentes de tránsito
+
+###### Artículo 85.
+
+Con la finalidad de contar con información oportuna y suficiente para prevenir accidentes de tránsito, así como para detectar a los infractores reincidentes, la Policía Estatal, y los municipios, se apoyarán en el registro estatal de antecedentes de tránsito.
+
+Los procedimientos a seguir por las autoridades de tránsito y de transporte, por los propios responsables e involucrados en los casos en que ocurra un accidente, se especificarán en los reglamentos relativos de esta Ley.
+
+Regulación del tránsito en situaciones extraordinarias
+
+###### Artículo 86.
+
+Cuando se lleguen a presentar situaciones de emergencia que perturben la paz pública, la Policía Estatal o en su caso, las autoridades municipales de movilidad, podrán tomar las medidas necesarias para regular y controlar la movilidad vehicular, aún de manera distinta a la señalada por esta Ley y sus reglamentos, así como por los dispositivos y señalamientos de circulación, mientras tal emergencia perdure, en coordinación con las autoridades competentes.
+
+Especificaciones de los señalamientos viales
+
+###### Artículo 87.
+
+Los señalamientos viales en la entidad, deberán ajustarse a las especificaciones contenidas en el manual de dispositivos para el control del tránsito en calles y carreteras emitido por la Secretaría de Comunicaciones y Transportes.
+
+## TÍTULO CUARTO. SEGURIDAD VIAL Y PEATONAL
+
+### Capítulo I. Seguridad Vial
+
+Clasificación de la vía pública
+
+###### Artículo 88.
+
+Las vías públicas, en lo referente a la movilidad y vialidad, se clasifican en:
+
+I. Vías de acceso controlado o autopista: Son las vialidades en las que se tienen puntos de acceso y de salida localizados, trazo adecuado e intersecciones a desnivel;
+
+II. Vialidades regionales: Son aquellas que comunican al centro de población con otras localidades;
+
+III. Vialidades primarias: Son las arterias cuya función es conectar áreas distantes y que soportan los mayores volúmenes vehiculares con el menor número de obstrucciones;
+
+IV. Vialidades colectoras: Son aquellas que comunican a los fraccionamientos, barrios o colonias con vialidades primarias;
+
+V. Vialidades secundarias: Son arterias que comunican vialidades locales con las colectoras y primarias;
+
+VI. Vialidades locales: Son aquellas que sirven para comunicar internamente a los fraccionamientos, barrios o colonias y dar acceso a los lotes de los mismos
+
+VII. Pares viales: Son aquellas que se desarrollan a lo largo de escurrimientos pluviales como arroyos y tíos, y que tienen flujo en un solo sentido;
+
+VIII. Caminos: Son aquellos que comunican a una localidad con otra u otras dentro del territorio del Estado;
+
+IX. Vías Férreas: Son aquellas por las que circulan trenes y ferrocarriles;
+
+X. Ciclovías: Son aquellas destinadas exclusivamente para la circulación de bicicletas;
+
+XI. Zonas peatonales: Son las que sirven exclusivamente para el tránsito de peatones, debiendo quedar cerradas al acceso de vehículos; y
+
+XII. Paso Peatonal: Son áreas claramente delimitadas y reservadas exclusivamente para el tránsito de peatones.
+
+El Instituto y las autoridades Municipales elaborarán sus reglamentos de conformidad con la clasificación contenida en este artículo.
+
+Límites de velocidad
+
+###### Artículo 89.
+
+El Instituto en coordinación con la Policía Estatal, serán quienes fijen los límites máximos y mínimos de velocidad para la circulación de los vehículos de motor en las vías públicas de jurisdicción estatal.
+
+En aquellas que correspondan a los municipios, será el Ayuntamiento, por conducto de la autoridad que establezca, el que determine lo procedente.
+
+### Capítulo II. Seguridad Vial y Peatonal
+
+Seguridad y educación vial
+
+###### Artículo 90.
+
+El Ejecutivo del Estado y los municipios promoverán y ejecutarán acciones en materia de seguridad y educación vial para los peatones, conductores, ciclistas, usuarios del servicio público y especial de transporte; y población en general, haciendo uso de los diferentes medios de comunicación, los avances tecnológicos y lo establecido en la fracción I, inciso b), del artículo 5 de la presente Ley.
+
+Fomento de educación vial
+
+###### Artículo 91.
+
+El Ejecutivo del Estado, por conducto del Instituto y en coordinación con la Secretaría de Educación y Cultura, promoverá en la educación preescolar, primaria, secundaria, nivel medio superior y superior la impartición de cursos y talleres de educación, seguridad y cultura peatonal y vial.
+
+Investigación y desarrollo tecnológico
+
+###### Artículo 92.
+
+El Instituto y los municipios podrán incentivar la formación de especialistas, así como la coordinación para la investigación y el desarrollo tecnológico en materia de seguridad peatonal y vial, que permitan prevenir, controlar y abatir la siniestralidad.
+
+### Capítulo III. Estacionamientos Públicos
+
+Finalidad del estacionamiento
+
+###### Artículo 93.
+
+El servicio de estacionamiento público, prestado por una autoridad o un particular, tiene por finalidad la recepción, guarda y devolución de vehículos motorizados y no motorizados en los lugares debidamente autorizados y en los términos de los reglamentos respectivos.
+
+Regulación de estacionamientos
+
+###### Artículo 94.
+
+El Instituto y los ayuntamientos en el ámbito de sus competencias y de conformidad con los resultados de los estudios en materia de movilidad que al respecto se realicen, y las disposiciones que para el efecto señale el reglamento respectivo, podrán establecer condiciones, limitantes y en su caso tarifas para el establecimiento y funcionamiento de estacionamientos públicos.
+
+### Capítulo IV. Sistema Estatal de Ciclovías
+
+Integración del Sistema Estatal de Ciclovías
+
+###### Artículo 95.
+
+El Instituto y la autoridad municipal en materia de movilidad deberán promover el uso de la bicicleta como medio de transporte sustentable.
+
+El Sistema Estatal estará compuesta (sic) de una red de ciclovías en los centros de población y carreteras estatales, debiendo considerar la jerarquía establecida en la presente Ley, así como lo que establezcan los reglamentos correspondientes y los programas estatal y municipales de movilidad.
+
+Proyectos de Ciclovías
+
+###### Artículo 96.
+
+El Instituto y las autoridades municipales ejecutarán proyectos derivados de los programas de movilidad o estudios técnicos que para tal efecto se realicen y sean congruentes con las necesidades de demanda de los ciclistas actuales y potenciales, características topográficas y climatológicas de las ciudades, así como la conectividad entre las ciclovías que la conforman y la integración con otras modalidades de transporte.
+
+Obligación de autoridades
+
+###### Artículo 97.
+
+Las autoridades estatales y municipales destinarán el espacio público necesario para el establecimiento de ciclovías con calidad, seguridad y eficiencia. Así mismo, la infraestructura y equipamiento para el desplazamiento y estacionamiento de las bicicletas.
+
+Señalética de Ciclovías
+
+###### Artículo 98.
+
+La red de ciclovías deberá contar con señalética que identifiquen claramente los puntos de cruce, velocidades, sentido y demás características necesarias para el adecuado uso y respeto de la misma.
+
+Mantenimiento del Sistema Estatal de Ciclovías
+
+###### Artículo 99.
+
+Las autoridades estatales y municipales, en el ámbito de su competencia, deberán dar el mantenimiento periódico del sistema estatal de ciclovías a efecto de incentivar el uso permanente de las mismas y evitar riesgos de accidentes.
+
+## TÍTULO QUINTO. LICENCIAS Y PERMISOS PARA CONDUCIR Y REGISTRO ESTATAL
+
+### Capítulo I. Licencias y Permisos para Conducir
+
+Obligación de portar la licencia o permiso
+
+###### Artículo 100.
+
+Toda persona que conduzca un vehículo de motor por las vías públicas dentro del territorio del Estado, deberá portar consigo la licencia o el permiso vigentes que corresponda al tipo de vehículo de que se trate y que haya sido expedida por la autoridad legalmente facultada para ello.
+
+Facultad para expedir licencias y permisos
+
+###### Artículo 101.
+
+El Instituto expedirá las licencias y permisos para conducir en el Estado, de conformidad a esta Ley y su reglamento.
+
+Donador de órganos y tejidos
+
+###### Artículo 102.
+
+La licencia de conducir deberá contener el dato que indique si el titular a cuyo nombre se expide, manifestó o no su voluntad de donar sus órganos y tejidos en caso de fallecimiento.
+
+Al efecto el Instituto celebrará con las dependencias correspondientes, los convenios respectivos.
+
+Tipos de licencias
+
+###### Artículo 103.
+
+Para los efectos señalados en el presente título, el Instituto, expedirá los siguientes tipos de licencia:
+
+I. Tipo «A». Que autoriza a su titular a manejar los vehículos clasificados como de transporte particular o mercantil, de pasajeros, que no excedan de diez asientos o de carga cuyo peso no exceda de tres y media toneladas;
+
+II. Tipo «B». Que autoriza a su titular a conducir, además de los vehículos autorizados en el tipo de licencia anterior, los dedicados a la prestación del servicio público especial de transporte;
+
+III. Tipo «C». Que autoriza a su titular a conducir, además de las unidades contempladas en la licencia tipo «A» todas aquellas unidades que tengan más de dos ejes, así como tractores de semirremolque, camiones con remolque, equipos especiales movibles, vehículos con grúa y en general los de tipo pesado; y
+
+IV. Tipo «D». Que autoriza a su titular a conducir motocicletas, motonetas y otros vehículos similares; este tipo no autoriza a conducir ningún vehículo de los considerados en las fracciones anteriores.
+
+El Instituto podrá incorporar en el Reglamento de la Ley las subclasificaciones que resulten necesarias conforme al interés público, de los tipos de licencia referidas en este artículo.
+
+Impedimentos para obtener licencias y permisos
+
+###### Artículo 104.
+
+No se podrán otorgar licencias o permisos de conducir cuando:
+
+I. El conductor se encuentre suspendido o privado de los derechos derivados de la licencia de conducir, o exista algún impedimento legal ordenado por la autoridad judicial;
+
+II. El solicitante haya sido declarado con incapacidad física o mental que le impida contar con la habilidad necesaria para conducir; y
+
+III. El solicitante proporcione datos o documentación falsa, sin perjuicio de la responsabilidad penal en que incurra.
+
+Cumplimiento de requisitos
+
+###### Artículo 105.
+
+Los interesados en obtener algún tipo de licencia, deben cumplir con los requisitos que al respecto establezca el reglamento de la Ley.
+
+Las licencias de conducir, se otorgarán solo a personas mayores de edad, lo que se deberá acreditar en los términos que establezca el reglamento de esta Ley.
+
+Cursos y exámenes
+
+###### Artículo 106.
+
+El Instituto dispondrá la impartición de cursos y la aplicación de exámenes objeto de corroborar que los interesados cuentan con los conocimientos y habilidades requeridas para el manejo de vehículos de motor. Auxiliándose para ello, en su caso, del equipo o mecanismos tecnológicos que resulten adecuados y de conformidad con lineamientos generales que se expidan para tal fin.
+
+Permisos de conducir
+
+###### Artículo 107.
+
+A las personas mayores de quince años y menores de dieciocho se les podrá expedir permisos de conducir únicamente del servicio particular de los tipos «A» y «D», previo consentimiento por escrito otorgado por el padre, madre o tutor del menor, además del cumplimiento de los requisitos que para tal efecto se establecen por la Ley y su reglamento.
+
+Este permiso tendrá vigencia hasta en tanto no cumpla la mayoría de edad, autorizando a los menores a conducir vehículos únicamente en el horario que comprende de las seis a las veintitrés horas.
+
+El padre, madre o tutor deberá de asumir de manera expresa el consentimiento de hacerse responsable de los daños o perjuicios que pudiera ocasionar el menor en caso de accidente.
+
+Licencias y permisos para personas con discapacidad o con movilidad reducida
+
+###### Artículo 108.
+
+Las personas con discapacidad o movilidad reducida que el Instituto y las autoridades facultadas para ello, constaten que cuentan con las habilidades y aptitudes necesarias para conducir cualquiera de los vehículos automotores de servicio particular, tendrán derecho a que se les expida la licencia o permiso para conducir correspondiente.
+
+Las personas con discapacidad o movilidad reducida que sólo pueden manejar un vehículo con características especiales, también tendrán derecho a que se les expida la licencia o permiso para manejar, para lo cual el Instituto y las autoridades facultadas para ello, previamente a su expedición, verificarán que el vehículo para el que se solicita la licencia o permiso, reúne las condiciones, el equipo o las adaptaciones necesarias para su manejo por dichas personas.
+
+Verificación de antecedentes
+
+###### Artículo 109.
+
+Los servidores públicos responsables de la expedición de las licencias de conducir deben consultar el registro estatal de licencias y de infracciones, con el objeto de verificar que los solicitantes no tengan ningún impedimento para la obtención de la misma.
+
+Licencias foráneas
+
+###### Artículo 110.
+
+Las licencias vigentes que se expidan en otra entidad federativa o en el extranjero, tendrán plena validez dentro de la jurisdicción estatal, siempre y cuando corresponda al tipo de vehículos de que se trate.
+
+Cancelación de licencias o permisos
+
+###### Artículo 111.
+
+Cuando al obtener una licencia o permiso de conducir, el interesado haya proporcionado información o documentación alterada o falsificada, se procederá a cancelar dicha licencia o permiso, una vez comprobada esta circunstancia, sin perjuicio de la responsabilidad penal que pudiera resultar las licencias o permisos cancelados por este supuesto no podrán volverse a otorgar dentro de los siguientes tres años a la cancelación.
+
+El servidor público que otorgue una licencia o permiso de conducir en contravención a lo dispuesto por esta Ley y su reglamento incurrirá en falta grave que será sancionada conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Sonora, sin perjuicio de las responsabilidades civiles o penales que se generen.
+
+Escuelas de manejo
+
+###### Artículo 112.
+
+El Instituto podrá celebrar convenios con personas físicas o jurídico colectivas, así como entidades públicas y privadas que cumplan con las características legales, técnicas y administrativas para reconocerlos en la impartición de cursos de manejo a conductores de vehículos particulares con el objeto, en su caso, de establecer acciones coordinadas respecto de las pruebas o exámenes que deben realizarse para la obtención de la licencia o permiso de conducir conforme a lo establecido en esta Ley y su reglamento.
+
+### Capítulo II. Registro estatal de licencias y de infracciones
+
+Registro Estatal
+
+###### Artículo 113.
+
+El Instituto creará y administrará el registro estatal de licencias y de infracciones, el cual deberá ser permanentemente actualizado con los datos que genere el propio Instituto y los que le sean proporcionados por los municipios de la entidad.
+
+Este registro contendrá como mínimo:
+
+I. Los datos de las licencias para conducir expedidas;
+
+II. El registro individualizado de los infractores de la presente Ley y su reglamento estatal y municipal, así como la o las causales que motivaron la infracción y las sanciones impuestas;
+
+III. Estadísticas de accidentes; y
+
+IV. La información estadística y en materia de seguridad vial, que permita generar medidas de prevención de accidentes e iniciar los procedimientos de suspensión cancelación de la licencia de conducir.
+
+Las autoridades municipales en materia de tránsito, así como las de salud pública, deben remitir diariamente la información que generen en materia de accidentes e infracciones que permitan integrar el registro estatal correspondiente.
+
+El Instituto y la unidad administrativa equivalente en cada municipio deben crear en conjunto una red informática intermunicipal que permita la consulta oportuna y el flujo de información a las autoridades estatales y municipales.
+
+## TITULO SEXTO. PRESERVACIÓN DEL MEDIO AMBIENTE
+
+### Capítulo I. Preservación del Medio Ambiente
+
+Cuidado del medio ambiente
+
+###### Artículo 114.
+
+Para preservar el medio ambiente, las autoridades de la materia, tomarán las medidas necesarias, en los términos de las leyes federales y locales, aplicables en la materia, en relación al funcionamiento vehicular y la actividad de tránsito.
+
+Verificación vehicular
+
+###### Artículo 115.
+
+Los vehículos automotores registrados en el Estado, deberán someterse a las verificaciones mecánicas de emisión de contaminantes de la manera y con la periodicidad que establezcan los ordenamientos aplicables.
+
+Retiro de vehículos contaminantes
+
+###### Artículo 116.
+
+Las autoridades de la materia deberán retirar de la circulación, trasladar y resguardar en los depósitos autorizados para tal efecto, a los vehículos que emitan notoriamente gases u otros contaminantes o que produzcan ruidos que rebasen los límites permitidos de acuerdo con las normas aplicables en la materia.
+
+Liberación de vehículos contaminantes detenidos
+
+###### Artículo 117.
+
+Para la liberación de los vehículos detenidos de conformidad con los supuestos establecidos en el artículo 115 de esta Ley, los propietarios de éstos o sus representantes legales deberán cumplir con el procedimiento y requisitos que para el efecto, se fijen en el reglamento.
+
+Control de ruido
+
+###### Artículo 118.
+
+Queda prohibido a los conductores de vehículos usar de manera innecesaria el claxon o bocina, así como hacer la modificación de estos accesorios o de los silenciadores de fabricación original, para instalar válvulas de escape que produzcan un ruido excesivo de acuerdo con las normas técnicas aplicables.
+
+Conservación de la limpieza
+
+###### Artículo 119.
+
+Los operadores, conductores, usuarios y pasajeros, están obligados a coadyuvar con las autoridades en la conservación de la limpieza en las vías públicas de la entidad, por lo que tienen prohibido arrojar objetos o basura desde el interior de los vehículos.
+
+Subsidios o estímulos fiscales en materia de ecología
+
+###### Artículo 120.
+
+La autoridad estatal y municipal, fijará los actos admirativos de carácter general, que permitan establecer los subsidios o estímulos fiscales a favor de quienes utilicen vehículos eléctricos e híbridos, a fin de reducir con ello significativamente los gases de efecto invernadero.
+
+## TÍTULO SÉPTIMO. SERVICIOS PÚBLICO Y ESPECIAL DE TRANSPORTE
+
+### Capítulo I. Disposiciones comunes a los servicios Público y Especial de Transporte
+
+Servicios público y especial de transporte
+
+###### Artículo 121.
+
+Para los efectos de esta Ley, se considera como:
+
+I. Servicio público de transporte: aquel que se lleva a cabo de manera continua, uniforme, regular y permanente en las vías públicas del Estado y de los municipios, para satisfacer una necesidad colectiva mediante la utilización de vehículos idóneos para cada tipo de servicio y en el cual los usuarios, como contraprestación, realizan un pago en moneda de curso legal, de acuerdo con la tarifa previamente aprobada por la autoridad correspondiente. La prestación del servicio público de transporte es de interés público y requiere de autorización otorgada por el Estado o por los ayuntamientos en el ámbito de su competencia en términos de esta Ley; y
+
+II. Servicio especial de transporte: aquel que sin tener las características propias del servicio público de transporte, se presta para satisfacer una necesidad específica de determinado sector de la población el cual puede ser gratuito o remunerado.
+
+Para la prestación de dicho servicio se requiere del permiso otorgado por el Instituto.
+
+En ambos casos, los vehículos en los que se preste el servicio de transporte de que se trate incluirá el servicio del operador, que podrá ser el concesionario, el permisionario o quien se contrate para su operación.
+
+Queda prohibida la renta de vehículo con operador, o la contratación de operador con vehículo, sin contar con la concesión o permiso correspondiente, así como cualquier otra forma de prestación de servicio que no reúna las características establecidas en la presente Ley.
+
+Modalidades del servicio público de transporte
+
+###### Artículo 122.
+
+El servicio público de transporte se divide en:
+
+I. De personas, este servicio se clasifica en las siguientes modalidades:
+
+a) Urbano;
+
+b) Suburbano;
+
+c) Intermunicipal;
+
+d) Turístico;
+
+e) De alquiler sin ruta fija «Taxi»; y
+
+f) Transporte de personas con discapacidad o movilidad reducida.
+
+II. De carga, este servicio se clasifica en las siguientes modalidades:
+
+a) En general;
+
+b) Materiales para construcción; y
+
+c) De grúas.
+
+Modalidades de servicio especial de transporte
+
+###### Artículo 123.
+
+El servicio especial de transporte se presta bajo las siguientes modalidades:
+
+I. Escolar;
+
+II. De personal;
+
+III. Ejecutivo;
+
+IV. Accesorio;
+
+V. Comercial;
+
+VI. Emergencia; y
+
+VII. Funerario.
+
+Queda prohibido a los prestadores u operadores ofrecer servicio de forma libre y directa en la vía pública.
+
+Facultad de celebrar convenios
+
+###### Artículo 124.
+
+Para eficientar la prestación de los servicios público y especial de transporte en sus distintas modalidades y que los mismos se lleven a cabo en condiciones óptimas para beneficio de la colectividad, el Instituto y los ayuntamientos, en la esfera de su competencia, podrán celebrar los convenios que se requieran al efecto, entre sí y con los sectores social y privado.
+
+Autorización de servicio complementario
+
+###### Artículo 125.
+
+Los concesionarios y permisionarios del transporte público sujetos a una jurisdicción distinta de la estatal que circulen por las vías públicas del Estado, para prestar los servicios público y especial de transporte, requerirán la autorización de servicio complementario expedida por el Instituto o la autoridad de transporte municipal, según sea el caso.
+
+Capacidad de los vehículos
+
+###### Artículo 126.
+
+La cantidad de personas o carga que pueden ser transportadas en los vehículos de los servicios público y especial de transporte, se determinarán en el reglamento que deriven de esta Ley, considerando en (sic) las especificaciones técnicas del fabricante.
+
+Vida útil
+
+###### Artículo 127.
+
+Para efectos de la prestación de los servicios público y especial de transporte se considerará que los vehículos cumplen con vida útil de conformidad con la siguiente tabla:
+
+I. Servicio público de transporte:
+
+> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN II DEL B.O. DE 24 DE SEPTIEMBRE DE 2018, PÁGINA 45.]</small>
+
+II. Servicio especial de transporte:
+
+> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN II DEL B.O. DE 24 DE SEPTIEMBRE DE 2018, PÁGINA 45.]</small>
+
+Los vehículos destinados al servicio especial de transporte en las modalidades de emergencia y funerario podrán ser de cualquier modelo siempre y cuando se encuentren en condiciones físico-mecánicas adecuadas para la prestación del servicio correspondiente.
+
+Para efectos de la antigüedad, esta se computará conforme al año de fabricación del vehículo y considerando la fecha de la factura de origen.
+
+La prórroga de la unidad, se otorgará únicamente a los vehículos que ya están dados de alta en el servicio, siempre y cuando aprueben la revista físico mecánica y la verificación vehicular en materia ambiental de conformidad con lo que al respecto establezca la normatividad aplicable.
+
+Renovación de parque vehicular
+
+###### Artículo 128.
+
+El Ejecutivo del Estado a través del Instituto, y los ayuntamientos, independientemente de los años de vida útil de los vehículos, podrán implementar, mediante disposiciones de carácter general, los programas y campañas de renovación del parque vehicular de los servicios público y especial de transporte atendiendo al orden público, la eficiencia y calidad de los mismos, así como el uso de la tecnología sustentable. Dichas disposiciones deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+
+Organización de los concesionarios y permisionarios
+
+###### Artículo 129.
+
+Cuando los concesionarios y permisionarios del servicio público y especial de transporte pretendan organizarse con el propósito de realizar accione encaminadas a eficientar, identificar y optimizar su prestación, presentarán su propuesta en los términos que establezcan los reglamentos respectivos para su evaluación por el Instituto o la autoridad municipal competente, según corresponda.
+
+Cuando los concesionarios y permisionarios se constituyan en cualquiera de las formas permitidas por la legislación aplicable, podrán ser registrados como organizaciones de transportistas ante la autoridad competente.
+
+Todo trámite que realicen las sociedades o asociaciones ante las autoridades estatales, deberá ser efectuado por representante legítimo con facultades suficientes que consten en instrumento público en los términos de la legislación aplicable, debiendo además estar inscrito en el Registro Estatal de Concesiones y Permisos del Transporte del Instituto.
+
+Enlace y fusión de vehículos
+
+###### Artículo 130.
+
+Los concesionarios y permisionarios del servicio público y especial de transporte, a excepción de las modalidades de alquiler sin ruta fija «Taxi», ejecutivo y de carga en general, podrán, previa autorización de la autoridad competente y de conformidad con los reglamentos que deriven de esta Ley podrán enrolar, fusionar y combinar sus vehículos con el objeto de optimizar el servicio en beneficio de la población y de los propios concesionarios, sin que ello implique el aumento de los vehículos autorizados.
+
+Coadyuvancia en materia de movilidad
+
+###### Artículo 131.
+
+Los concesionarios y permisionarios en lo individual u organizados coadyuvarán en materia de movilidad con las autoridades estatales o municipales, de conformidad con las necesidades del servicio o del interés público y con los acuerdos o convenios que al efecto se celebren.
+
+Equipamiento u operación en los servicios de transporte
+
+###### Artículo 132.
+
+El reglamento de la Ley y los reglamentos municipales que deriven de la misma, establecerán las características o requisitos de equipamiento u operación en los servicios de transporte, adoptando al efecto las medidas que aseguren la prestación del servicio de manera eficaz, oportuna y eficiente.
+
+Lugares de acceso para personas con discapacidad o movilidad reducida
+
+###### Artículo 133.
+
+Las autoridades de movilidad estatales y municipales, según corresponda, deberán proponer a las autoridades correspondientes las medidas necesarias de infraestructura urbana y vehicular que faciliten las personas con discapacidad o movilidad reducida el ascenso y descenso de los vehículos de los servicios público y especial de transporte; asimismo, deberán determinar, en su caso, el número, ubicación y características que deberán reunir los espacios que serán destinados a las personas con discapacidad o movilidad reducida en los vehículos de los servicios público y especial de transporte.
+
+Póliza de seguro
+
+###### Artículo 134.
+
+La prestación de los servicios público y especial de transporte obliga a su titular a resarcir los daños de manera efectiva a los usuarios del servicio, al operador, a terceros, sus bienes y en su caso la carga, de cualquier riesgo que puedan sufrir con motivo de la prestación de los mismos. En el caso del servicio público de transporte de personas, la cobertura protegerá a la totalidad de los usuarios.
+
+Bajo ninguna circunstancia podrá un vehículo de servicio concesionado o permisionado transitar ni realizar el servicio si carece de seguro que ampare las condiciones señaladas en el párrafo anterior.
+
+El concesionario o permisionario podrá cumplir con esta disposición mediante un contrato de seguro, cuya póliza sea emitida por institución reconocida por la autoridad federal reguladora en materia de seguros y fianzas o bien mediante fideicomiso o constitución de un fondo de garantía, autorizado por el Instituto o la autoridad municipal competente, en los términos que establezca el reglamento que derive de la presente Ley.
+
+Operadores del servicio público y especial de transporte
+
+###### Artículo 135.
+
+El otorgamiento de las concesiones y permisos obliga a sus titulares a la prestación del servicio.
+
+Cuando el concesionario o permisionario no preste de manera directa el servicio público o especial de transporte de que se trate, deberá contar con conductores que porten la licencia para conducir tipo «B».
+
+En todos los casos, los operadores deberán haber aprobado los cursos y programas de capacitación permanente que impartirá el Instituto o el ente reconocido por este, en los términos del reglamento de la presente Ley.
+
+Identificación de los vehículos
+
+###### Artículo 136.
+
+Los concesionarios y permisionarios de los servicios público y especial de transporte deberán incorporar en los vehículos con los que se presta el servicio, el diseño que para tal efecto definan las autoridades estatales y municipales, según corresponda, en el que se deberán incluir los colores distintivos, números económicos y los demás elementos que especifiquen los reglamentos respectivos.
+
+En el caso del servicio especial de transporte ejecutivo solo aplicará la portación de un tarjetón de identificación dentro del vehículo, cuyas características y dimensiones serán establecidas en el permiso respectivo.
+
+El número económico es la identificación alfanumérica vinculada directamente a la concesión que se compone de dos o más letras que identifican la clave o abreviatura del municipio del estado de Sonora, para el cual está otorgada la concesión o permiso, seguida del número consecutivo de la misma. De igual forma tratándose de servicios de transporte en zonas metropolitanas o conurbadas, las autoridades respectivas podrán celebrar acuerdos para definir la nomenclatura de las unidades para su mejor identificación.
+
+Publicidad y promoción
+
+###### Artículo 137.
+
+Los vehículos en los que se presta el servicio público y especial de transporte, podrán portar publicidad en el interior y exterior de los mismos previa autorización de la autoridad estatal o municipal competente en materia de movilidad y conforme a los términos y disposiciones que se determine con respeto y trato digno en apego a los derechos humanos en los reglamentos respectivos.
+
+En el caso de propaganda alusiva a los partidos políticos, deberán sujetarse a los plazos, términos y formas establecidos por las disposiciones legales en materia electoral.
+
+Los concesionarios, permisionarios y prestadores de servicios conexos, deberán colaborar con las campañas de información de programas gubernamentales, conforme a lo que establezcan los reglamentos respectivos.
+
+Representación de concesionarios y permisionarios
+
+###### Artículo 138.
+
+Los concesionarios y permisionarios del servicio público y especial del transporte y sus servicios conexos podrán ser representados mediante poder otorgado en escritura pública en el que conste la facultad para actos de administración, mismo que deberá estar inscrito en el Registro Estatal de Concesiones y Permisos del Transporte o ante la autoridad municipal según corresponda.
+
+### Capítulo II. Servicio Público de Transporte
+
+Competencia en la prestación del servicio público
+
+###### Artículo 139.
+
+Es competencia del Ejecutivo del Estado la prestación del servicio público de transporte, con excepción del transporte urbano y suburbano en ruta fija, cuya prestación será competencia de los ayuntamientos.
+
+Formas de prestación del servicio
+
+###### Artículo 140.
+
+El Ejecutivo del Estado y los ayuntamientos prestarán el servicio público de transporte, bajo las siguientes formas:
+
+I. Directa, a través de la dependencia correspondiente;
+
+II. A través de las entidades públicas que se constituyan para tal fin, en los términos de las leyes correspondientes;
+
+III. Mediante el otorgamiento de concesiones o permisos de conformidad con el procedimiento establecido por esta Ley y los reglamentos que de ella se deriven; y
+
+IV. Mediante convenios de coordinación y asociación que suscriban entre sí para la más eficiente prestación del servicio, en los términos de esta Ley.
+
+Servicio público de transporte urbano
+
+###### Artículo 141.
+
+El servicio público de transporte urbano es el destinado al traslado de personas dentro de las zonas urbanas del territorio municipal.
+
+Este servicio se prestará en las clases y con las características que establezcan los reglamentos respectivos, mediante el uso de vehículos que la autoridad municipal considere adecuados, los que en ningún caso tendrán una capacidad inferior a veinte asientos sin modificar las características de fabricación.
+
+Sistemas de transporte urbano
+
+###### Artículo 142.
+
+Los ayuntamientos prestarán el servicio público de transporte urbano a través del sistema que garantice la operación más eficiente, segura y confortable, evitando la superposición no justificada de rutas a fin de garantizar índices razonables de rentabilidad en su operación y tarifas accesibles a la población.
+
+EI servicio se podrá prestar a través de sistemas de rutas independientes o convencionales, de rutas integradas o de cualquier otro que determine el ayuntamiento, conforme a las dimensiones del área urbana, volumen de usuarios, necesidades específicas de traslado, tiempos de recorrido y características de la infraestructura vial existente.
+
+Servicio público de transporte suburbano
+
+###### Artículo 143.
+
+El servicio público de transporte suburbano es el que tiene por objeto trasladar personas de las comunidades rurales hacia la cabecera municipal y viceversa, o de una comunidad a otra, pero siempre dentro del espacio territorial de un mismo municipio.
+
+Este servicio se prestará en las clases y con las características que establezcan los reglamentos respectivos, mediante el uso de vehículos que la autoridad municipal considere adecuados para la prestación del servicio sin modificar las características de fabricación.
+
+La autoridad municipal, determinará los lugares donde los vehículos que presten este servicio deban realizar ascensos y descensos dentro de la mancha urbana. En el caso e los municipios donde opere el sistema de rutas integradas, los recorridos de las rutas suburbanas podrán realizarlo según la ubicación de las estaciones de transferencia que sean determinadas por el área municipal correspondiente.
+
+Características de operación de los servicios urbano y suburbano
+
+###### Artículo 144.
+
+La dependencia u organismo encargado del transporte en el municipio establecerá las características de operación del transporte urbano y suburbano que conformen el itinerario de servicio como ruta, derrotero, horarios, frecuencias terminales, y lugares de ascenso y descenso, entre otros, de conformidad con lo que al respecto se establezcan en los reglamentos municipales que deriven de esta Ley.
+
+Servicio público de transporte intermunicipal
+
+###### Artículo 145.
+
+El servicio público de transporte intermunicipal es el que tiene por objeto trasladar personas y sus cosas, entre puntos ubicados en las vías públicas terrestres o férreas de dos o más municipios del Estado.
+
+Para su optimización, eficiencia, sustentabilidad y modernización, este servicio se podrá prestar a través de sistemas de rutas integradas o de cualquier otro que determine la autoridad estatal, conforme a las dimensiones de las zonas a cubrir, volumen de usuarios, necesidades específicas de traslado, tiempos de recorrido, vialidades y características de la infraestructura existente o la que se requiera para la integración de los usuarios del mismo con otros modos de transporte.
+
+Clasificación del transporte intermunicipal
+
+###### Artículo 146.
+
+El servicio público de transporte intermunicipal se clasifica en:
+
+I. Autotransporte; y
+
+II. Ferroviario.
+
+Servicio intermunicipal de autotransporte
+
+###### Artículo 147.
+
+El servicio público de transporte intermunicipal de autotransporte es el que se presta con las características que establezca el reglamento de la Ley, mediante el uso de midibuses, autobuses o cualquier tipo de vehículos con capacidad de transportación superior a estos, que la autoridad estatal considere adecuada para la prestación del servicio, sin modificar las características de fabricación.
+
+Servicio intermunicipal ferroviario
+
+###### Artículo 148.
+
+El servicio público de transporte intermunicipal ferroviario es el que se presta por las vías férreas de competencia estatal y con las características para su prestación con seguridad, eficiencia, rapidez y funcionalidad de acuerdo con lo dispuesto en la presente Ley y su reglamento.
+
+Características de operación del servicio intermunicipal
+
+###### Artículo 149.
+
+El Instituto establecerá las características de operación del servicio público de transporte intermunicipal que conformen el itinerario de servicio, como ruta, derrotero, horarios, frecuencias, tarifas, terminales y lugares de ascenso y descensos, entre otras, de conformidad con lo que al respecto establezca el reglamento de la Ley.
+
+Servicio público de transporte turístico
+
+###### Artículo 150.
+
+El servicio público de transporte turístico es el que transporta personas hacia aquellos lugares situados en la entidad que revisten un interés histórico, arqueológico, cultural, arquitectónico o recreativo.
+
+Este servicio se prestará en las clases y con las características que establezca el reglamento de la Ley en vehículos con una capacidad superior a seis usuarios.
+
+Características de operación del servicio turístico
+
+###### Artículo 151.
+
+La prestación del servicio público de transporte turístico se podrá ofrecer con guía de turista. Las personas que funjan como guías en este servicio de transporte deberán contar con la acreditación respectiva que para tal efecto les expidan las autoridades de turismo del Estado.
+
+Servicio público de transporte de alquiler sin ruta fija «Taxi»
+
+###### Artículo 152.
+
+El servicio público de transporte de alquiler sin ruta fija «Taxi» es aquel que tiene por objeto trasladar personas y sus cosas en vehículos con capacidad de cinco pasajeros incluido el operador, que se caracteriza por no estar sujeto a itinerarios, rutas, frecuencias ni horarios fijos.
+
+Forma de prestación
+
+###### Artículo 153.
+
+El servicio público de alquiler sin ruta fija «taxi» podrá prestarse de manera libre o mediante el servicio conexo de sitio, con las características, vehículos y capacidad de carga que establezca el reglamento de la Ley.
+
+Servicio público de transporte de personas con discapacidad o movilidad reducida
+
+###### Artículo 154.
+
+El servicio público de transporte de personas con discapacidad o movilidad reducida, es aquel que tiene por objeto asegurar la accesibilidad del servicio público de transporte en vehículos adecuados o adaptados para dichas personas.
+
+La operación del servicio y las especificaciones técnicas y especiales de los vehículos para la prestación de este servicio, así como sus adecuaciones deberán cumplir con lo establecido en las leyes en materia de discapacidad y el reglamento de la presente Ley.
+
+Servicio público de transporte de carga en general
+
+###### Artículo 155.
+
+El servicio público de transporte de carga en general es aquel servicio que se presta para efectuar el traslado de bienes o mercancías en vehículos adecuados para ello mediante el pago convenido y cuyo funcionamiento y capacidad se especifica en el reglamento de la Ley.
+
+La prestación de este servicio deberá realizarse a través de un lugar base de contratación, en los términos que al respecto establezca el reglamento de la Ley.
+
+Servicio público de transporte de materiales para construcción
+
+###### Artículo 156.
+
+El transporte de materiales para construcción, es aquel que se ofrece al público y que comprende el acarreo, desde los lugares de producción o de distribución hasta el lugar de la construcción u obra de toda clase de materiales en bruto o aquellos cuya elaboración es necesaria para la construcción.
+
+Servicio público de transporte de carga con grúa
+
+###### Artículo 157.
+
+El servicio público de transporte de carga con grúa es el que tiene por finalidad transportar cualquier vehículo en unidades que reúnan las clases, tipos y características que al respecto establezca el reglamento de la Ley.
+
+Los vehículos autorizados para prestar el servicio de grúa podrán realizar además maniobras de salvamento, si las características de la unidad autorizada lo permiten y conforme a las disposiciones establecidas en el reglamento de la Ley, en la autorización que para el efecto se emita, así como en aquellas que determine el Instituto.
+
+Introducción de submodalidades por causa de interés público
+
+###### Artículo 158.
+
+El Estado en todo tiempo, podrá introducir en los servicios de transporte las submodalidades que dicte el interés público, adoptando al efecto las medidas que mejor aseguren la prestación del servicio de manera eficaz, oportuna y eficiente.
+
+Excepciones del servicio público
+
+###### Artículo 159.
+
+Queda exceptuado del servicio que regula este capítulo el transporte de carga cuando sea el propietario o el proveedor de la misma quien realiza el traslado o entrega de bienes o materiales; quedando sujeto a cumplir con las condiciones físico mecánicas de los vehículos necesarias para circular en los términos que al respecto establezcan los reglamentos respectivos.
+
+Cambio de modalidad del servicio
+
+###### Artículo 160.
+
+En el caso de las modalidades urbano, suburbano e intermunicipal, cuando por la necesidad de los mismos y por consecuencia de ampliación o modificación de ruta implique un cambio de modalidad, las autoridades estatales y municipales se coordinarán a efecto de que la concesión sea regulada por la autoridad correspondiente de conformidad con las características de la prestación del servicio. Lo anterior no implicará el otorgamiento de una nueva concesión.
+
+En el caso del servicio público de transporte de alquiler sin ruta fija, por causas excepcionales, la autoridad estatal, previo estudio técnico, podrá asignar un municipio diferente para la explotación de este servicio público a las personas físicas que así lo soliciten de conformidad con el reglamento respectivo. Por única ocasión en caso de extrema necesidad.
+
+Intervención del servicio
+
+###### Artículo 161.
+
+El Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, están facultados para intervenir el servicio público de transporte concesionado, siempre que se interrumpa o afecte la prestación eficiente y continúa del mismo, independientemente de que las causas puedan ser imputables o no a las autoridades. La intervención durará únicamente el tiempo en que subsista la causa que le dio origen.
+
+Características de operación
+
+###### Artículo 162.
+
+El Instituto y las autoridades municipales competentes podrán en todo momento establecer, variar o modificar las características de operación en la prestación del servicio según lo demanden las necesidades del mismo y el interés público.
+
+Modificación de ruta
+
+###### Artículo 163.
+
+Tratándose del servicio público de transporte urbano, suburbano e intermunicipal, la autoridad correspondiente podrá modificar temporal o definitivamente el recorrido de una ruta, cuando resulte necesario por caso fortuito o fuerza mayor, la ejecución de una obra pública, modificación de la circulación vial o la mejora sustancial del servicio.
+
+Se requerirá de un estudio técnico cuando la modificación de ruta sea necesaria para la mejora sustancial del servicio o se lleve a cabo por cualquier otra causa de interés público.
+
+Procedencia de la modificación de ruta
+
+###### Artículo 164.
+
+La modificación de ruta podrá hacerse de oficio por la autoridad competente o a solicitud expresa del interesado en la que deberá exponer de manera clara y precisa, la justificación y elementos que sustenten la solicitud de la modificación de la ruta. En todo caso, será el estudio técnico el instrumento que sustente la procedencia o improcedencia de la misma en los términos que establezcan los reglamentos respectivos.
+
+Zonas conurbadas y metropolitanas
+
+###### Artículo 165.
+
+En caso de que dos o más poblaciones integren una sola mancha urbana o formen parte de una conurbación, el servicio entre ellas se considerará como intermunicipal de conformidad con el artículo 145 de esta Ley.
+
+Cuando se requiera para la mejor operación del servicio en las zonas conurbadas, el Instituto podrá emitir la autorización, acuerdo, acciones administrativas o disposiciones de carácter general, que permitan su establecimiento como servicio de transporte intermunicipal, en el cual para el establecimiento de nuevas rutas, ampliaciones, modificaciones, lugares de ascenso y descenso, itinerarios, horarios y demás características de operación que impliquen la intervención de los municipios conurbados, los interesados que pretendan establecer dicho servicio deberán solicitar la validación de los ayuntamientos involucrados, así como la aprobación por parte del Instituto, previa presentación de los datos técnicos correspondientes.
+
+Cuando exista la necesidad para interconectar los servicios de transporte de varias modalidades en zonas declaradas como metropolitanas dentro del territorio del Estado, el Instituto en coordinación con las autoridades municipales respectivas establecerá las características, acciones técnicas y mecanismos de regulación que habrán de ejecutarse para la prestación del servicio de transporte en dichas zonas, así como para todas aquellas acciones enfocadas a la movilidad de las mismas.
+
+Lo anterior independientemente de las acciones que corresponda realizar a las autoridades municipales involucradas, mismas que deben ser acordes a las políticas estatales establecidas para las zonas metropolitanas, a los acuerdos que al respecto se celebren con las diversas autoridades estatales y federales, siempre en beneficio del interés público.
+
+Para la mejor operación del servicio en las zonas conurbadas, los municipios involucrados podrán establecer previo convenio con el Instituto, la estructura administrativa, organismos, o acuerdos convenientes para la regulación de la prestación del mismo.
+
+En caso de controversia entre municipios, el Instituto podrá actuar como instancia conciliadora en términos de la fracción XX del artículo 25 de esta Ley. En caso de no lograr un acuerdo o mecanismos de regulación entre las autoridades municipales involucradas, o bien en caso de incumplimiento a los acuerdos que al respecto se hayan celebrado, el Estado a través del Instituto, se hará cargo de la regulación del servicio conforme a lo establecido en este artículo.
+
+### Capítulo III. Servicio Especial de Transporte
+
+Servicio especial de transporte escolar
+
+###### Artículo 166.
+
+El servicio especial de transporte escolar es el que se presta a quienes se desplazan de su lugar de origen a sus instituciones educativas y viceversa, o cuando su destino se relacione con fines educativos. Este transporte se prestará en vehículos cerrados con capacidad mínima de ocho pasajeros, podrá estar sujeto a itinerario y horario determinado y contará con las características que al respecto establezca el reglamento de la Ley.
+
+Servicio especial de transporte de personal
+
+###### Artículo 167.
+
+El servicio especial de transporte de personal, es el que se presta a quienes se desplazan de su lugar de origen a sus centros de trabajo y viceversa, o cuando su destino se relacione con fines laborales. Este transporte se prestará en vehículos cerrados con capacidad mínima de ocho pasajeros, podrá estar sujeto a itinerario y horario determinado y contará con las características que al respecto establezca el reglamento de la Ley.
+
+Servicio especial de transporte ejecutivo
+
+###### Artículo 168.
+
+El servicio especial de transporte ejecutivo es aquel cuyas especificaciones o características físicas son superiores en términos de lujo y comodidad a los vehículos destinadas (sic) a la prestación del servicio público de transporte de alquiler sin ruta fija "taxi" y cuyo objeto es trasladar personas y sus cosas en vehículos con operador y que previamente se contrata mediante el uso de plataformas tecnológicas y sus dispositivos electrónicos, caracterizándose por no estar sujeto a itinerarios, rutas, frecuencias ni horarios fijos.
+
+Limitación en la prestación del servicio
+
+###### Artículo 169.
+
+Queda prohibido a los prestadores del servicio de transporte especial ejecutivo ofrecer servicio de forma libre y directa en la vía pública.
+
+Número de permisos
+
+###### Artículo 170.
+
+En el otorgamiento de permisos el Instituto evitará prácticas monopólicas, para el caso específico del servicio especial de transporte ejecutivo, cada persona física tendrá derecho a ser titular de un permiso y las personas jurídico colectivas de hasta diez.
+
+El número de vehículos que ampara el permiso que se otorgue a una persona física o jurídica colectiva, será sólo un vehículo.
+
+Cobertura del servicio
+
+###### Artículo 171.
+
+El servicio especial ejecutivo podrá prestarse en todas las vías públicas del Estado, sin importar el punto de origen o de destino, debiendo contar el permisionario con un lugar sede, como principal asiento de la prestación del servicio, en cualquiera de los municipios de la entidad.
+
+Obligación de presentar información
+
+###### Artículo 172.
+
+El otorgamiento del permiso para el servicio especial de transporte ejecutivo obliga a su permisionario a presentar en todo momento al Instituto la información técnica que le sea requerida respecto del servicio brindado, la empresa operadora de la aplicación tecnológica que tenga implementada para tal efecto, la cual deberá presentar en el formato, mecanismo o medio de acceso que para tal efecto, le sea especificado por el Instituto.
+
+Suspensión del permiso
+
+###### Artículo 173.
+
+La prestación de este servicio en contravención a lo establecido en los artículos anteriores, dará lugar a la suspensión del permiso por sesenta días, sin perjuicio de su revocación en caso de reincidencia. En términos del Reglamento de la presente Ley.
+
+Servicio especial de transporte accesorio
+
+###### Artículo 174.
+
+El servicio especial de transporte accesorio, es el que prestan en forma gratuita las organizaciones, establecimientos y comercios con la finalidad de transportar exclusivamente a sus clientes, visitantes, afiliados y miembros de manera complementaria a su actividad o giro principal. Dicho servicio podrá estar sujeto a itinerario y horario determinado, cumpliendo con las características físicas y operativas que al respecto establezca el reglamento de la Ley.
+
+Servicio especial de transporte comercial
+
+###### Artículo 175.
+
+El servicio especial de transporte comercial es aquel transporte de carga que se presta en unidades especializadas que requieren de condiciones, equipos, adecuaciones o medios para aislar, resguardar, conservar y proteger la carga, así como para evitar cualquier riesgo a terceros.
+
+Cuando por condiciones de seguridad, orden público, interés social, o regulación específica, sea necesario establecer restricciones o condiciones de operación en las unidades de carga especializada que reúnan las características establecidas en el párrafo anterior, el Ejecutivo del Estado o el Instituto determinarán y establecerán las acciones, procedimientos, requisitos y características para la regulación de dichas unidades en términos de la presente Ley, su reglamento o las disposiciones de carácter general que para el efecto emitan.
+
+Servicio especial de transporte de emergencia
+
+###### Artículo 176.
+
+El servicio especial de transporte de emergencia es aquel que se presta en vehículos equipados especialmente para el traslado de personas que hayan sufrido afectación en su salud, así como para atender emergencias, catástrofes, desastres y riesgos naturales con la finalidad de salvaguardar la vida de las personas, sus bienes y el entorno; tales como bomberos, protección civil, seguridad ciudadana, mecánica de emergencia, rescate, primeros auxilios, emergencias médicas y demás que se determinen en el reglamento de la Ley.
+
+Los prestadores del servicio especial de transporte de emergencia deberán registrar los vehículos afectos al mismo ante el Instituto y acreditar semestralmente que los mismos cumplen con las condiciones físico-mecánicas adecuadas para su prestación.
+
+Servicio especial de transporte funerario
+
+###### Artículo 177.
+
+El servicio especial de transporte funerario es aquel mediante el cual se efectúa el traslado de cadáveres y restos humanos para su inhumación o cremación.
+
+Los prestadores del servicio especial de transporte funerario deberán registrar los vehículos afectos al mismo ante el Instituto y deberán acreditar semestralmente que los mismos cumplen con las condiciones físico-mecánicas adecuadas para su prestación.
+
+Optimización de vehículos
+
+###### Artículo 178.
+
+Los vehículos destinados a la prestación del servicio especial de transporte, podrán utilizarse para realizar otros servicios especiales de transporte, excepción del servicio especial de transporte ejecutivo, mediante la emisión de los permisos correspondientes, de conformidad con lo que establezca el reglamento de la Ley.
+
+### Capítulo IV. Concesiones
+
+Explotación de la concesión
+
+###### Artículo 179.
+
+Las concesiones que se otorguen, con las salvedades y limitaciones establecidas en esta Ley y sus reglamentos, son para la explotación del servicio público de transporte en:
+
+I. Vehículos;
+
+II. Rutas; o
+
+III. Zona determinada.
+
+Sujetos de concesionamiento
+
+###### Artículo 180.
+
+Las concesiones se otorgarán únicamente en favor de personas físicas o jurídico colectivas de nacionalidad mexicana.
+
+Impedimentos para ser concesionario
+
+###### Artículo 181.
+
+Las concesiones para la prestación del servicio público de transporte, no podrán otorgarse a:
+
+I. Los servidores públicos que de manera directa o indirecta tengan intervención en el procedimiento para su otorgamiento, los de elección popular, los titulares y personal directivo de las dependencias y entidades de la administración pública federal, estatal o municipal;
+
+II. Las empresas de las cuales formen parte ya sea como socios, administradores o representantes, los servidores públicos señalados en la fracción anterior;
+
+III. Los cónyuges, los que tengan parentesco por consanguinidad en línea colateral y de afinidad hasta el segundo grado, consanguíneo en línea recta sin limitación de grado y civil, con los servidores públicos a que se refiere la fracción I del presente artículo; y
+
+IV. Las personas a quienes se les haya revocado una concesión para la prestación del servicio público de transporte en cualquiera de sus modalidades en los términos de esta Ley.
+
+Número de concesiones
+
+###### Artículo 182.
+
+Toda persona, sea física o jurídico colectiva, podrá disfrutar de una o más concesiones, de conformidad con las necesidades del servicio público de transporte de que se trate, las características del mismo y el interés público.
+
+En el caso específico del servicio de alquiler sin ruta fija «Taxi», cada persona física tendrá derecho a ser titular de una concesión y las personas jurídico colectivas de hasta diez, a efecto de evitar prácticas monopólicas.
+
+Número de vehículos
+
+###### Artículo 183.
+
+El número de vehículos que ampara la concesión que se otorgue a una persona física o jurídico colectiva, será el que se requiera para la prestación del servicio de que se trate en cada caso y atendiendo a lo que se establezca en el título concesión respectivo.
+
+En el caso del servicio de alquiler sin ruta fija «Taxi», cada concesión amparará sólo un vehículo.
+
+Procedimiento para el otorgamiento de concesión
+
+###### Artículo 184.
+
+El otorgamiento de una concesión de servicio público de transporte en las modalidades de urbano, suburbano, intermunicipal y de alquiler sin ruta fija «Taxi», deberá ajustarse a los requisitos siguientes, sin que bajo ninguna circunstancia pueda alterarse el orden establecido al efecto, ni omitirse alguno de ellos:
+
+I. Las autoridades estatales o municipales, en el ámbito de su competencia, realizarán u ordenarán los estudios técnicos para detectar de manera oportuna las necesidades de transporte que se vayan presentando y que justifiquen el establecimiento de nuevos servicios o el aumento de los ya existentes.
+
+Los estudios técnicos a que se refiere el párrafo anterior, según corresponda al servicio de que se trate, contendrán como mínimo lo siguiente:
+
+a) El señalamiento de los servicios de transporte en las modalidades existentes en la zona que incidan en el servicio objeto del estudio con las características operativas necesarias;
+
+b) Datos estadísticos debidamente sustentados que avalen la demanda actual y el potencial de servicio;
+
+c) Modalidad y características del servicio de transporte que deba prestarse, precisando el número de vehículos que se requieran, especificando sus particularidades técnicas;
+
+d) Evaluación económica que considere los beneficios, así como los costos de operación del transporte; y
+
+e) Conclusiones y propuestas.
+
+II. Con base en los estudios que se lleven a cabo según lo señalado en la fracción anterior, el Instituto o el ayuntamiento por conducto del presidente municipal, de ser procedente, emitirán la declaratoria de necesidad pública de transporte, que deberá ser publicada en el Periódico Oficial del Gobierno del Estado, por dos veces consecutivas y por una ocasión en algún periódico que circule en el municipio donde se requiera el servicio;
+
+III. Emitida la declaratoria de necesidad pública de transporte, el Secretario de Gobierno o el presidente municipal, hará la publicación de la convocatoria pública en los mismos términos de la fracción anterior, precisando el tipo de servicio, las modalidades y el número de concesiones a otorgar, a fin de que los interesados en concursar, dentro del término previsto, presenten sus respectivas propuestas, así como la documentación legal y administrativa que se requiera, de conformidad con los reglamentos y las bases correspondientes;
+
+IV. Recibidas las propuestas, cubiertos los requisitos y hechos los depósitos que se fijen para garantizar que los trámites se llevarán hasta su terminación, el Instituto y los ayuntamientos, en el ámbito de su competencia, procederán a dictaminar sobre la mayor capacidad legal, técnica, material y financiera para la prestación del servicio. En el caso de los municipios, esta facultad podrá ser delegada a la dependencia, comisión técnica o entidad competente que el ayuntamiento determine.
+
+El dictamen emitido será puesto a consideración del Secretario de Gobierno o del ayuntamiento para su resolución;
+
+V. Cumplido lo anterior, el Titular de la Secretaría de Gobierno o el Ayuntamiento, según el caso de que se trate, emitirán la resolución correspondiente cuyos puntos resolutivos, en caso de otorgarse la concesión, se publicarán en el Periódico Oficial del Gobierno del Estado;
+
+VI. El concesionario cubrirá los derechos que por tal concepto establezca la ley de ingresos respectiva, así como cualquier otro derecho que fijen los ordenamientos legales aplicables; y
+
+VII. Una vez emitida la resolución, la autoridad respectiva expedirá y entregará el título concesión correspondiente.
+
+Representación
+
+###### Artículo 185.
+
+Los interesados en obtener una concesión deberán realizar los trámites personalmente o podrán ser representados en la forma que establezcan los reglamentos respectivos o en su caso, la convocatoria y las bases.
+
+Mecanismo de desempate
+
+###### Artículo 186.
+
+Para el otorgamiento de concesiones del servicio público de transporte siempre que el número de propuestas sea superior al número de concesiones a otorgar, podrá establecerse en la convocatoria y bases correspondientes como mecanismo de desempate, la celebración de un sorteo o aquellos otros que determine la autoridad respectiva para decidir entre las propuestas que hayan reunido los requisitos correspondientes y se encuentren en igualdad de condiciones respecto a la mayor capacidad legal, técnica, material y financiera.
+
+Cuando se celebre un sorteo como mecanismo de desempate este se llevará a cabo conforme a lo que se establezca en las bases respectivas, las cuales garantizarán la existencia de transparencia, certeza, legalidad e imparcialidad en el desarrollo del mismo en beneficio de todos los participantes.
+
+Designación de beneficiario
+
+###### Artículo 187.
+
+Al obtener una concesión, el concesionario, tratándose de persona física, de manera personal y directa deberá designar un beneficiario, el cual podrá ser persona física o jurídico colectiva que reúna los requisitos exigidos para el otorgamiento de la concesión, para el caso de que el primero no pueda prestar el servicio, ya sea por causa de muerte o incapacidad mental permanente. El concesionario podrá sustituir en cualquier momento al beneficiario siguiendo el procedimiento y requisitos establecidos en esta Ley y los reglamentos respectivos.
+
+Plazo para registrar el vehículo
+
+###### Artículo 188.
+
+Notificada la resolución de otorgamiento o transmisión de la concesión, el concesionario tendrá un plazo de treinta días hábiles para registrar el vehículo que destinará a la prestación del servicio ante la autoridad competente, el cual deberá contar con las características señaladas en esta Ley, el reglamento correspondiente y demás disposiciones aplicables. El incumplimiento de dicha obligación dará lugar a la revocación de la concesión.
+
+No estará sujeto al plazo señalado en el párrafo anterior, el registro de vehículos destinados a la prestación del servicio público de transporte intermunicipal de autotransporte y ferroviario o cuando se trate de sistemas de transporte en zonas conurbadas o metropolitanas, en el que será el Ejecutivo del Estado a través del Instituto quien determine lo conducente.
+
+Vehículos para inicio de la prestación del servicio
+
+###### Artículo 189.
+
+Los concesionarios del servicio público de transporte deberán iniciar la prestación del servicio con vehículos del año de fabricación que se establezca en las bases correspondientes sin que se exceda lo relativo a antigüedad del modelo a que se refiere el artículo 127 de esta Ley.
+
+En el caso de la modalidad de alquiler sin ruta fija «Taxi» deberán hacerlo con vehículos del modelo correspondiente al año en que se otorgue la concesión.
+
+Duración de la concesión
+
+###### Artículo 190.
+
+Las concesiones que se otorguen para la prestación del servicio público de transporte tendrán una duración de quince años y podrán prorrogarse por otro periodo igual a solicitud del concesionario siempre y cuando acredite que conserva las capacidades legal, técnica, material y financiera en los términos que establezcan los reglamentos correspondientes.
+
+El Instituto y los municipios en el ámbito de sus respectivas competencias realizarán las evaluaciones técnicas del servicio en los términos que se establezcan en el reglamento respectivo.
+
+Con independencia de lo anterior, los concesionarios deberán efectuar el refrendo de la concesión a través del pago anual que realizarán ante la autoridad fiscal correspondiente, en los términos de la ley de ingresos respectiva.
+
+Registro de empresas de concesionarios
+
+###### Artículo 191.
+
+El Instituto o la autoridad municipal que corresponda podrán registrar las empresas acreditadas para prestar el servicio público de transporte que tengan por objeto mejorar la eficiencia y la calidad en la prestación del servicio, en los términos que se establezcan en los reglamentos respectivos.
+
+Limitante para el concesionario
+
+###### Artículo 192.
+
+La concesión no podrá ser objeto de prenda, embargo o arrendamiento. No obstante lo anterior, los concesionarios podrán, en los casos y bajo las condiciones que las autoridades de movilidad competentes determinen, garantizar con la concesión de que se trate, los créditos que se les otorguen para la reposición de unidades. La forma de llevar a cabo este tipo de operaciones, se determinará en el reglamento correspondiente, en el que también se regulará cualquier simulación o acto de naturaleza análoga que implique la prestación del servicio por un tercero.
+
+No se considerará prestación del servicio por un tercero, cuando la misma derive de la relación laboral entre el concesionario y su operador.
+
+La inobservancia de lo establecido en este precepto, dará lugar a la revocación de la concesión.
+
+Limitantes de las concesiones
+
+###### Artículo 193.
+
+Las concesiones otorgadas para la prestación del servicio público de transporte, no crean derechos reales ni de exclusividad a sus titulares, sólo les otorga el derecho de uso, aprovechamiento y explotación y sólo podrán cederse en los términos de lo dispuesto del artículo 194.
+
+Cesión de la concesión
+
+###### Artículo 194.
+
+Las concesiones para la prestación del servicio público de transporte sólo podrán cederse en los siguientes casos:
+
+I. Por causa de muerte o incapacidad mental, en favor de la persona designada y registrada como beneficiario por el titular de la concesión ante la autoridad correspondiente;
+
+II. Por cesión de derechos gratuita a favor de quien reúna las condiciones técnicas, materiales, legales y financieras para la prestación del servicio de que se trate. La persona física concesionaria del servicio público de alquiler sin ruta fija «Taxi» que ceda los derechos de la concesión, quedará imposibilitado para obtener otra en un plazo de quince años. La sanción anterior será aplicable para personas jurídico colectivas cuando la cesión no se realice a otra persona jurídico colectiva o no derive de la fusión, extinción, separación o escisión de la misma; y
+
+III. Por mandamiento o resolución jurisdiccional.
+
+Los procedimientos y requisitos para la transmisión de la concesión y la designación de beneficiarios se establecerán en los reglamentos correspondientes.
+
+Toda cesión entre particulares será gratuita y deberá ser autorizada, en el ámbito de sus respectivas competencias, por el Secretario de Gobierno o la autoridad en quien delegue tal atribución; y por los ayuntamientos.
+
+Consecuencias de la cesión de la concesión
+
+###### Artículo 195.
+
+La cesión de la concesión conservará las condiciones en las que originalmente quedó otorgada, quedando sujeta al plazo de vigencia y a las demás disposiciones en ella estipuladas, por lo que el nuevo titular será responsable del cumplimiento de todas las obligaciones inherentes a la misma, y causará los derechos que establezca la legislación fiscal aplicable.
+
+La cesión de la concesión que se realice en contravención a lo dispuesto en la presente Ley y los reglamentos que de ella deriven no se considerará válida y por tanto no será reconocida por las autoridades administrativas, además dará lugar a la revocación de la concesión.
+
+Causales de revocación de concesiones
+
+###### Artículo 196.
+
+Las concesiones que se otorguen para la prestación del servicio público de transporte podrán revocarse cuando:
+
+I. Se altere la naturaleza del servicio concesionado;
+
+II. De forma reiterada, en los términos de los reglamentos respectivos, no cumpla con las condiciones del servicio en lo relativo a rutas, itinerarios, horarios y demás características de la prestación del mismo;
+
+III. No se preste el servicio con la eficiencia, uniformidad y regularidad requeridos, no obstante los requerimientos de las autoridades;
+
+IV. El concesionario no se ajuste a lo que las autoridades de movilidad estatal o municipal, determinen de conformidad con esta Ley y su reglamento;
+
+V. Se suspenda el servicio no existiendo motivos de caso fortuito o fuerza mayor;
+
+VI. No se conserven las capacidades legal, técnica, material y financiera requeridas para la prestación del servicio;
+
+VII. El concesionario no tome las medidas que procedan, para evitar la reincidencia del operador en la comisión de infracciones de tránsito o de transporte;
+
+VIII. El concesionario cometa un delito que ponga en riesgo la prestación del servicio para el interés público;
+
+IX. No se observen las tarifas autorizadas para cada tipo de servicio;
+
+X. Cumplida una sanción de suspensión de derechos de concesión, persista la causal que le dio origen;
+
+XI. Acumule tres suspensiones de los derechos derivados de la concesión o de los vehículos, en un periodo de tres años calendario;
+
+XII. El concesionario preste el servicio con un número mayor o con vehículos diferentes a los que ampare la concesión respectiva;
+
+XIII. Los vehículos concesionados se utilicen con fines distintos a los autorizados, violenten el orden público o participen en bloqueos de la vía pública;
+
+XIV. Por no realizar el refrendo anual de la concesión ni cumplir con las demás obligaciones fiscales derivadas de la misma;
+
+XV. Por el incumplimiento de la obligación establecida en la fracción VI del artículo 184 de la presente Ley;
+
+XVI. Por no obtener calificación óptima en las evaluaciones técnicas que practique la autoridad competente;
+
+XVII. Por cualquier otra causa grave a juicio del Instituto o de la autoridad municipal correspondiente, que afecte la eficiencia, continuidad, regularidad y uniformidad requeridos en la prestación del servicio y las condiciones de las concesiones; y
+
+XVIII. Las demás que se establezcan en la presente Ley, el reglamento que de ella derive y el título concesión.
+
+Respeto a la garantía de audiencia
+
+###### Artículo 197.
+
+La revocación de una concesión sólo podrá ser declarada por el Secretario de Gobierno o por el ayuntamiento respectivo, debiendo respetar la garantía de audiencia del concesionario afectado, de acuerdo con el procedimiento que establezcan los reglamentos aplicables.
+
+Efectos de la revocación
+
+###### Artículo 198.
+
+Revocada la concesión, se publicarán en el Periódico Oficial de Gobierno del Estado los puntos resolutivos y se notificará a la Secretaría de Finanzas, con el objeto de que proceda a dar de baja el registro del o los vehículos con los cuales se prestaba el servicio.
+
+De igual manera, se ordenará la inscripción de la resolución de la revocación en el Registro Estatal de Concesiones y Permisos del Transporte.
+
+Rescate de la concesión
+
+###### Artículo 199.
+
+Cuando resulte conveniente conforme a la utilidad pública, el Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, podrán rescatar unilateral y anticipadamente las concesiones, de conformidad con el procedimiento siguiente:
+
+I. Las determinaciones de las autoridades señaladas se emitirán mediante declaratoria en la que se expresen las razones de utilidad pública y fundamentos que sirvieron de base para tomar la medida;
+
+II. En la declaratoria correspondiente se fijarán los términos de la indemnización y la manera como se resarcirán de los posibles daños que la decisión pudiera ocasionar;
+
+III. Para determinar el monto de la indemnización que corresponde al concesionario, se tomará como base el saldo promedio de los doce meses anteriores, conforme a la última declaración del Impuesto Sobre la Renta que haya formulado ante las autoridades fiscales. La cantidad que resulte se multiplicará por el número de meses restantes de la vigencia de la concesión;
+
+IV. El Ejecutivo del Estado o el ayuntamiento, según corresponda, realizará el pago de la indemnización en una sola exhibición dentro de los sesenta días naturales siguientes a la notificación;
+
+V. En caso de daños, el monto será determinado por la autoridad competente con base en el dictamen pericial correspondiente;
+
+VI. El dictamen de peritos se sujetará a las reglas que establece el Código de Procedimientos Civiles para el Estado; y
+
+VII. La declaratoria de rescate deberá ser notificada de manera personal al afectado y publicada en el Periódico Oficial del Gobierno del Estado y contra la misma no procederá recurso alguno.
+
+Extinción de la concesión
+
+###### Artículo 200.
+
+Las concesiones podrán extinguirse por las causas siguientes:
+
+I. Por el vencimiento del plazo previsto en la concesión, siempre que no se haya prorrogado;
+
+II. Por no iniciar la prestación del servicio, dentro de los plazos establecidos en los reglamentos correspondientes, en la resolución, los títulos de concesión y en su caso, en las bases de la convocatoria;
+
+III. Por la revocación de la concesión;
+
+IV. Por la muerte o incapacidad permanente del concesionario en caso de personas físicas, cuando no haya designado beneficiario;
+
+V. Por la disolución, liquidación o concurso de la persona jurídico colectiva, titular de la concesión;
+
+VI. Por el rescate de la concesión; y
+
+VII. Por renuncia expresa y por escrito del titular de la concesión.
+
+### Capítulo V. Permisos
+
+Clasificación de los permisos
+
+###### Artículo 201.
+
+Los permisos se clasifican en:
+
+I. Permiso de transporte público;
+
+II. Permiso eventual de transporte;
+
+III. Permiso extraordinario de transporte;
+
+IV. Permiso provisional de transporte;
+
+V. Permiso de servicio especial de transporte; y
+
+VI. Permiso de depósito de vehículos.
+
+Expedición de permisos
+
+###### Artículo 202.
+
+El Instituto o la autoridad de transporte municipal en el ámbito de sus competencias, expedirán los permisos en términos de lo dispuesto por esta Ley y de los reglamentos respectivos.
+
+Impedimentos para ser permisionario
+
+###### Artículo 203.
+
+Estarán impedidos para obtener los permisos señalados en las fracciones I, II y V del artículo 201 quienes se encuentren dentro de los impedimentos para ser concesionarios a que se refiere el artículo 181 ambos de esta Ley.
+
+Permiso de transporte público
+
+###### Artículo 204.
+
+El permiso de transporte público es el que se otorga para cubrir una necesidad de transporte en las modalidades de turístico, personas con discapacidad y movilidad reducida y de carga en general, de conformidad con lo que establezca esta Ley y su reglamento.
+
+Procedimiento para la obtención de permiso de transporte público
+
+###### Artículo 205.
+
+La obtención de los permisos de transporte público para las modalidades de turístico, personas con discapacidad y movilidad reducida y de carga en general, se sujetará al siguiente procedimiento:
+
+I. El interesado presentará una propuesta que contenga las características técnicas de operación, de los vehículos, de demanda, del servicio y las demás condiciones que se establezcan en el reglamento de la Ley;
+
+II. El Instituto determinará lo procedente respecto a la emisión del permiso con base en los datos técnicos de la propuesta presentada y en el cumplimiento de requisitos que para el efecto se establezcan en el reglamento de esta Ley; y
+
+III. En caso de ser procedente la emisión del permiso, el solicitante cubrirá los derechos que por tal concepto establezca la ley de ingresos correspondiente, así como cualquier otro derecho que fijen los ordenamientos legales aplicables.
+
+Cuando en una zona determinada, o respecto de la prestación de alguno de los servicios señalados en el presente artículo, se presenten circunstancias técnicas como exceso en la concentración de servicios, requerimiento de acreditación de demanda, servicios organizados para su prestación, o cualquier otro elemento que requiera ser analizado para la determinación en la emisión del permiso, el Instituto ordenará la integración de un estudio técnico que reúna los datos necesarios para resolver sobre la necesidad o no en el establecimiento de nuevos servicios. Lo anterior a efecto de generar una efectiva regulación en el establecimiento de los mismos evitando impactos negativos en el usuario y las vías de comunicación, siempre atendiendo al orden público e interés social.
+
+Vigencia de los permisos de transporte público
+
+###### Artículo 206.
+
+Los permisos de transporte público en la modalidad de turístico se expedirán hasta por un año; en la de carga en general hasta por tres años; y hasta por cinco años tratándose del de materiales para construcción y de carga con grúa podrán renovarse de conformidad con la necesidad del servicio en los términos que establezca esta Ley y su reglamento.
+
+Permiso eventual de transporte
+
+###### Artículo 207.
+
+El permiso eventual de transporte se otorga cuando se presenta una necesidad de carácter temporal en el servicio público de transporte en las modalidades de urbano, suburbano e intermunicipal.
+
+La autoridad competente deberá realizar los estudios técnicos necesarios para expedir permisos eventuales, dichos permisos tendrán vigencia durante el tiempo que permanezca la necesidad, siempre que no rebase un término de seis meses, el cual podrá prorrogarse por una sola vez hasta por un periodo igual. En ningún caso, dicho permiso generará derechos adquiridos para los permisionarios. Si dicha necesidad subsistiera luego del periodo en que se otorga el permiso eventual y en su caso la prórroga, se procederá en términos de lo establecido en el artículo 184 de la presente Ley.
+
+Permiso extraordinario de transporte
+
+###### Artículo 208.
+
+Se otorga el permiso extraordinario de transporte cuando se ve rebasada de manera transitoria la capacidad de los concesionarios o permisionarios, provocando una necesidad de transporte derivada de un evento de carácter natural, social o cultural, o por decremento temporal de los vehículos del servicio público de transporte concesionados, supeditado a la duración del suceso. Dicho permiso no requiere la elaboración de estudios técnicos.
+
+Permisos y autorizaciones provisionales
+
+###### Artículo 209.
+
+Se otorga el permiso provisional de transporte con el objeto de que no se interrumpa la prestación del servicio, a quienes por cualquier circunstancia, siendo concesionarios se encuentren impedidos de forma temporal para obtener las placas de servicio público.
+
+Asimismo, podrán otorgar autorizaciones provisionales, respecto de procedimientos jurídico-administrativos, en los siguientes supuestos:
+
+I. A los beneficiarios de las concesiones en tanto se resuelve por el Ejecutivo del Estado o el ayuntamiento la transmisión de derechos de concesión; y
+
+II. A quien por disposición de autoridad jurisdiccional se le conceda la posibilidad de explotar el servicio público de transporte en tanto se resuelve el procedimiento respectivo.
+
+Estos permisos y autorizaciones tendrán una vigencia máxima de sesenta días, renovables en tanto subsista la situación que originó su expedición y se tramitará de acuerdo al procedimiento que para el efecto se establezca en el reglamento respectivo.
+
+Procedimiento para obtener el permiso
+
+###### Artículo 210.
+
+El procedimiento para obtener el permiso del servicio especial transporte ejecutivo, se llevará a cabo de la siguiente manera:
+
+I. El interesado en la prestación del servicio presentará una propuesta que contenga las características de operación del mismo, cantidad y características técnicas de los vehículos, de organización, la información relativa a la o las plataformas tecnológicas en las cuales se establecerá el mecanismo de contratación y gestión del servicio de conformidad con las características que se establezcan en el reglamento de la Ley;
+
+II. El Instituto determinará sobre la necesidad del servicio, mediante el estudio técnico que se efectúe con base en los datos de que disponga;
+
+III. En caso de ser procedente la emisión del permiso, el solicitante cubrirá los derechos fiscales correspondientes, así como los requisitos siguientes:
+
+a) Licencia tipo "B"; y
+
+b) Vehículo tipo sedán o superior, con cuatro o cinco puertas.
+
+El vehículo en el que se prestara el servicio especial de transporte ejecutivo, deberá contar con aire acondicionado, frenos antibloqueo, cinturón de seguridad para todos los pasajeros y bolsas de aire.
+
+Los anteriores requisitos se cubrirán de conformidad con el reglamento de la presente Ley.
+
+Dichos permisos se expedirán hasta por cuatro años, pudiendo ser renovados de conformidad con la necesidad y el resultado de la evaluación del servicio en los términos que establezca esta Ley y su reglamento. El Instituto emitirá los permisos individualizados para cada unidad de conformidad con lo señalado en el reglamento de la Ley.
+
+El procedimiento para obtener el permiso para las demás modalidades del servicio especial de transporte, se establecerá en el reglamento de la Ley.
+
+Permiso de depósito de vehículos
+
+###### Artículo 211.
+
+El permiso de depósito de vehículos se otorga a personas físicas y jurídico colectivas para la guarda y custodia de vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en las vías públicas del Estado, así como aquellos remitidos por autoridad competente, de conformidad con lo dispuesto en la presente Ley y los reglamentos respectivos.
+
+EI permiso de depósito de vehículos se expedirá hasta por cinco años, pudiéndose renovar de conformidad con la necesidad del servicio en los términos que establezca esta Ley y su reglamento.
+
+Obligaciones de los permisionarios
+
+###### Artículo 212.
+
+Los permisionarios están obligados a cumplir todas y cada una de las condiciones especificadas en el permiso, así como las disposiciones que establezca esta Ley y los reglamentos respectivos o las que determinen las autoridades de movilidad y de transporte correspondientes, para cada tipo y modalidad de servicio, en la inteligencia de que su incumplimiento podrá dar motivo a la cancelación de los mismos.
+
+### Capítulo VI. Servicios Conexos del Transporte
+
+Definición
+
+###### Artículo 213.
+
+Los servicios conexos del transporte son todos los servicios complementarios, auxiliares o accesorios que se ofrecen para la mejor prestación de los servicios público y especial de transporte.
+
+Terminales
+
+###### Artículo 214.
+
+Los concesionarios y permisionarios del servicio público de transporte en la modalidad de urbano, suburbano e intermunicipal deberán utiliza terminales donde estacionarán los vehículos al inicio o término de su recorrido.
+
+Las terminales deberán contar con accesibilidad universal para el ascenso y descenso de personas, así como con espacios para el depósito y guarda de bicicletas, los demás requerimientos y características de operación que establezcan los ordenamientos.
+
+Las terminales contarán con elementos de acceso universal.
+
+Sitios o bases de contratación
+
+###### Artículo 215.
+
+Los sitios o base de contratación se autorizarán por el Instituto y deberán instalarse cumpliendo los requerimientos y características de operación que establezcan los ordenamientos, una vez que el lugar de su ubicación haya recibido la anuencia de las autoridades del municipio correspondiente. En ningún caso deberán obstruir el libre tránsito de vehículos o personas.
+
+Bases de encierro
+
+###### Artículo 216.
+
+Los concesionarios y permisionarios de los servicios público y especial del transporte deberán contar con bases de encierro para los vehículos al término de su jornada en la prestación del servicio o mientras no presta el mismo, por lo que ninguno de estos vehículos podrán ser estacionados en ese lapso en la vía pública.
+
+Depósitos de vehículos
+
+###### Artículo 217.
+
+Los depósitos de vehículos deberán destinarse a la guarda y custodia de vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en las vías públicas del Estado, así como aquellos remitidos por autoridad competente.
+
+El Instituto otorgará los permisos de depósito de vehículos a los concesionarios o permisionarios del servicio público de transporte de grúa registrados, previo cumplimiento de las disposiciones establecidas en el reglamento respectivo.
+
+La autoridad municipal podrá contar con depósitos para vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en las vías públicas de su jurisdicción, por lo que deberán registrar tanto el depósito como los vehículos ante la autoridad estatal conforme a los mecanismos, formatos y requerimientos técnicos que para tal efecto establezca el Instituto
+
+Las tarifas para el servicio de depósito serán emitidas por el Instituto, de conformidad con los análisis técnicos que realice.
+
+Desocupación de depósitos
+
+###### Artículo 218.
+
+El Ejecutivo del Estado y los ayuntamientos a través del área que para tal efecto designen, en el ámbito de su competencia podrán establecer los lineamientos para la desocupación de depósitos mediante el retiro de vehículos que hayan causado abandono a favor del fisco en los términos que se establezcan en el reglamento correspondiente y conforme a los requisitos y disposiciones que establezca el acto jurídico administrativo que para el efecto se emita.
+
+Abandono de vehículos a favor del Instituto
+
+###### Artículo 219.
+
+Cuando en un lapso de tres años contados a partir de que se inició el acto que originó la remisión de los vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en la vía pública, y que el propietario o legítimo poseedor no realice los trámites para su salida del depósito respectivo, estos serán considerados abandonados a favor de la Secretaría de Finanzas, con destino al desarrollo y mantenimiento del Sistema Estatal de Ciclovías, por lo que se iniciará el procedimiento correspondiente para la declaración de abandono, así como la forma de distribución de los productos derivados de su enajenación.
+
+En cualquier caso, los titulares de los depósitos, deberán acreditar de manera fehaciente al Instituto o a la autoridad fiscal correspondiente, los servicios que pretenden cobrar, sin perjuicio de la obligación de adjuntar el inventario elaborado al ingreso del vehículo al depósito.
+
+Enajenación de vehículos
+
+###### Artículo 220.
+
+El Ejecutivo del Estado o los ayuntamientos, a través de la dependencia o entidad que corresponda, llevarán a cabo las acciones para la enajenación de los vehículos que pasen a propiedad del fisco del Estado o del municipio.
+
+Aplicación de los recursos económicos
+
+###### Artículo 221.
+
+El decreto o acuerdo respectivo establecerá los porcentajes para la distribución de los recursos económicos que se obtengan de los vehículos enajenados, mismos que se destinarán a lo siguiente:
+
+I. A la Secretaría de Finanzas y los Municipios para el pago en su caso de la infracción que originó el depósito y demás adeudos fiscales generados por los vehículos;
+
+II. Al pago de los adeudos que los particulares tengan con los permisionarios de los depósitos por concepto de los servicios prestados por la guarda y custodia del vehículo y demás maniobras de arrastre, salvamento y cualquier otra anexidad;
+
+III. Al pago de los bienes o adeudos que no sean susceptibles de devolución a favor de quienes legalmente les sea autorizada la misma; y
+
+IV. Al Instituto para el desarrollo del Sistema Estatal de Ciclovías.
+
+Terminación del permiso para depósito de vehículos
+
+###### Artículo 222.
+
+Cuando las personas físicas o jurídico colectivas dejen de ser permisionarios de depósito de vehículos quedan obligados a realizar ante la autoridad correspondiente las acciones jurídicas y administrativas para la entrega de vehículos dados para su guarda y custodia en los términos que al respecto establezca el reglamento respectivo.
+
+Exención del pago de depósito
+
+###### Artículo 223.
+
+En el caso de los depósitos municipales propiedad del municipio que sean registrados ante el Instituto, será la autoridad municipal la que determine el costo o cuota respectiva.
+
+No procederá el cobro del servicio de depósito y deberá hacerse entrega del vehículo, cuando la detención del mismo no implique falta administrativa o hecho ilícito derivado de los procedimientos instaurados por autoridad competente.
+
+En caso de incumplimiento a lo establecido en el párrafo anterior, el Instituto ordenará la entrega inmediata del vehículo sin costo. En caso de negativa a la entrega del vehículo, el permisionario será sancionado con multa, independientemente de la responsabilidad penal que se genere como consecuencia de las acciones que realicen el interesado o la autoridad.
+
+Centros de revista físico mecánica
+
+###### Artículo 224.
+
+El Instituto o la dependencia municipal correspondiente, realizarán la revista físico mecánica a los vehículos de los servicios público y especial de transporte de su competencia y fijarán los costos que deberán aplicarse por su realización.
+
+Para el cumplimiento de lo anterior, la autoridad competente podrá celebrar convenios o autorizar a las personas físicas o jurídico colectivas que cumplan con las características legales, técnicas y administrativas para llevar a cabo esta revisión, los cursos y programas de capacitación incluirán la perspectiva de género, derecho a una vida libre de violencia para las mujeres, movilidad segura y accesibilidad universal.
+
+La revista físico mecánica se realizará en la forma y términos que establezcan los reglamentos correspondientes.
+
+Centros de capacitación
+
+###### Artículo 225.
+
+El Instituto impartirá cursos y programas permanentes de capacitación a los operadores de los servicios público y especial de transporte en los términos que establezca el reglamento de la Ley y fijará los costos que deberán aplicarse por su realización.
+
+Para el cumplimiento de lo anterior el Instituto podrá autorizar a personas físicas o jurídico colectivas, así como entidades públicas y privadas reconocidas por la autoridad educativa respectiva que cumplan con las características legales, técnicas y administrativas para tal fin.
+
+A los operadores que aprueben los cursos y programas de capacitación se les expedirá la acreditación correspondiente en los términos y vigencia que al respecto establezca el reglamento de la Ley, al término de la cual el operador deberá obtener una nueva acreditación previa aprobación del curso de capacitación subsecuente.
+
+Cualquier otro tipo de curso o programa de capacitación que impartan los municipios o los propios concesionarios y permisionarios a los operadores, deberán ser aprobados por el Instituto.
+
+Finalidad de la capacitación
+
+###### Artículo 226.
+
+Los cursos y programas de capacitación para los operadores de los servicios público y especial de transporte tendrán como finalidad mejorar las actitudes y aptitudes en la prestación del citado servicio.
+
+Infraestructura del Transporte
+
+###### Artículo 227.
+
+Además de los servicios conexos regulados en el presente capítulo, el Instituto o la autoridad municipal en el ámbito de sus competencias o de forma coordinada, podrán establecer regulación específica para los servicios, actividades e instalaciones vinculadas con la infraestructura necesaria o vinculada a la prestación de las diferentes modalidades de los servicios público y especial de transporte, ya sea que se ejecuten de manera directa por los concesionarios y permisionarios o por un tercero.
+
+### Capítulo VII. Tarifas
+
+Facultad de fijar la tarifa
+
+###### Artículo 228.
+
+El Instituto y los ayuntamientos en el ámbito de su competencia, establecerán los tipos y parámetros para la fijación de tarifas de los servicios públicos de transporte en la modalidad de urbano, suburbano, intermunicipal y de alquiler sin ruta fija «Taxi», para lo cual podrán auxiliarse de una comisión mixta que al efecto se constituya.
+
+Las tarifas se establecerán con base en los estudios y análisis técnicos que se lleven a cabo o se contraten los cuales deberán considerar lo siguiente:
+
+a) Datos relativos a la demanda atendida;
+
+b) Análisis de la oferta;
+
+c) Estimación de costos;
+
+d) Equipamiento tecnológico;
+
+e) Infraestructura;
+
+f) Planes de mejora;
+
+g) Propuesta de tarifa considerando una utilidad razonable para el prestador; y
+
+h) Los demás que señalen los reglamentos respectivos.
+
+En todos los casos, la tarifa deberá considerar las características, así como las variables sociales y económicas de cada región.
+
+Publicación de la tarifa
+
+###### Artículo 229.
+
+Las tarifas autorizadas para cada tipo de servicio, así como cualquier modificación y ajuste que se haga a las mismas, deberán ser publicadas en el Periódico Oficial del Gobierno del Estado y en un diario de circulación en la entidad o, en su caso, en el municipio donde vayan a ser aplicadas.
+
+Sistemas de cobro y pago de tarifa
+
+###### Artículo 230.
+
+Para el cobro, pago y prepago de las tarifas, las autoridades competentes podrán establecer de manera directa o aprobar conforme a las propuestas que presenten los prestadores del servicio, los sistemas, medios, instrumentos, tecnologías o cualquier accesorio que resulte más conveniente para brindar un mejor servicio al usuario, en los términos que al efecto se establezcan en los reglamentos que deriven de esta Ley o en las disposiciones o lineamientos que para el efecto se emitan.
+
+Tarifas especiales
+
+###### Artículo 231.
+
+El Instituto y los ayuntamientos, tomando en cuenta las circunstancias particulares de los usuarios y las circunstancias de interés general, deberán autorizar el establecimiento de tarifas especiales y promocionales, que se aplicarán de manera general abstracta e impersonal a sectores específicos de la población.
+
+Los acuerdos dictados en ejercicio de las atribuciones señaladas en el presente artículo deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+
+Tarifa preferencial
+
+###### Artículo 232.
+
+En el servicio público de transporte en las modalidades de urbano, suburbano e intermunicipal, se establecerán tarifas preferenciales, con descuento a estudiantes, personas con discapacidad o movilidad reducida, personas adultas mayores y menores de seis años. Los menores de tres años y los integrantes de los cuerpos de seguridad pública e inspectores de movilidad en el ejercicio de sus funciones, quedarán exentos de pago. Los porcentajes de descuento y los requisitos para acreditar la condición de usuario se establecerán en el reglamento respectivo.
+
+Exención de Pago
+
+###### Artículo 233.
+
+No procederá el pago de tarifa por el servicio de grúa, cuando derivado de los procedimientos instaurados ante autoridad competente se determine que la causa que originó la prestación del servicio no implicó falta administrativa o hecho ilícito alguno.
+
+En caso de incumplimiento a lo establecido en el párrafo anterior, el Instituto ordenará la exención del pago y en caso de reiterarse el incumplimiento, el permisionario será sancionado con la multa correspondiente.
+
+Tarifa del servicio especial de transporte
+
+###### Artículo 234.
+
+Tratándose del servicio especial de transporte, cuando el mismo sea remunerado, la tarifa a aplicar será la convenida entre el usuario y el prestador del servicio.
+
+Tarifa provisional
+
+###### Artículo 235.
+
+A efecto de mantener la operatividad de los servicios públicos de transporte el Instituto podrá, en su caso, establecer tarifas provisionales a dichos servicios brindando certeza a los usuarios y prestadores, de conformidad con los análisis técnicos de que disponga.
+
+### Capítulo VIII. Obligaciones de los Concesionarios y Permisionarios y Prohibiciones de los Operadores
+
+Obligaciones
+
+###### Artículo 236.
+
+Los concesionarios y permisionarios tendrán las obligaciones siguientes:
+
+I. Cumplir con las disposiciones que para la prestación de los servicios público y especial de transporte establezca el título de concesión o el permiso, según sea el caso, las que establezca esta Ley y los reglamentos respectivos, así como las que determinen las autoridades de transporte correspondientes para cada tipo y modalidad de servicio;
+
+II. Colaborar con las autoridades competentes en el cuidado y conservación de las vías públicas por las que transiten;
+
+III. Contratar personal competente para la prestación del servicio y verificar que cuente con la licencia de conducir respectiva vigente, que se encuentre permanentemente capacitado y preste el servicio en condiciones óptimas e higiene personal;
+
+IV. Verificar que los operadores acudan de forma permanente a los cursos y programas de capacitación y actualización que establezca el Instituto;
+
+V. Responder ante la autoridad estatal o municipal, de las faltas o infracciones en que incurran ellos o sus operadores;
+
+VI. Contratar los seguros que correspondan de conformidad con la presente Ley y los reglamentos respectivos;
+
+VII. Cubrir los gastos médicos, indemnizaciones y demás prestaciones económicas que se generen a favor de los usuarios, por concepto de accidentes en que intervengan;
+
+VIII. Mantener los vehículos en óptimo estado de higiene, mecánico y eléctrico para la prestación del servicio;
+
+IX. Cumplir con la normativa ambiental que emitan las autoridades competentes, y que los vehículos con los que prestan el servicio público y especial de transporte cuenten con el distintivo y constancia que acredite la verificación vehicular de conformidad con lo establecido en el Programa Estatal de Verificación Vehicular del periodo correspondiente; y
+
+X. Presentar los vehículos a revista físico mecánica en los periodos y condiciones que para el efecto establezca el reglamento correspondiente así como aquellas disposiciones que emita la autoridad competente;
+
+XI. Realizar la prestación del servicio respetando las rutas, itinerarios, horarios y demás condiciones según la modalidad del servicio;
+
+XII. Informar a la autoridad en caso de haber sufrido algún accidente con motivo de la prestación del servicio;
+
+XIII. Informar a la autoridad competente todo cambio de domicilio;
+
+XIV. Proporcionar a la autoridad que corresponda la información que le sea solicitada en la esfera de su competencia;
+
+XV. Observar las disposiciones que para la operación de los servicios conexos del transporte establezcan las autoridades en la esfera de su competencia;
+
+XVI. Portar de manera visible en el vehículo del servicio público y especial de transporte, la Constancia de inscripción al Registro Público Vehicular, así como las placas de circulación correspondientes, o en su caso, el permiso para circular sin las mismas;
+
+XVII. En su caso, contar con espacios para el estacionamiento de vehículos, no motorizados; y
+
+XVIII. Las demás que les establezca esta Ley, los reglamentos respectivos y demás disposiciones aplicables.
+
+En caso de que los concesionarios o permisionarios no cumplan con las obligaciones a su cargo, se harán acreedores a las sanciones señaladas en la presente Ley, los reglamentos respectivos y demás disposiciones aplicables, sin perjuicio de la responsabilidad penal o civil en que pudieran incurrir.
+
+Prohibiciones
+
+###### Artículo 237.
+
+Los operadores de vehículos de los servicios público y especial de transporte, tendrán prohibido lo siguiente:
+
+I. Abastecer de combustible los vehículos con pasajeros en su interior;
+
+II. Llevar pasajeros en los escalones o estribos y circular con las puertas abiertas;
+
+III. Poner en movimiento o no detener el vehículo completamente cuando haya pasajeros que deseen subir o bajar del mismo;
+
+IV. Aumentar o disminuir la velocidad del vehículo entorpeciendo la circulación y el buen servicio;
+
+V. Realizar cualquier acto u omisión que provoque distracción en la conducción del vehículo;
+
+VI. Fumar en el interior del vehículo o conducir bajo los efectos de bebidas alcohólicas, estupefacientes, psicotrópicos o sustancias que produzcan efectos similares, no cuidar su apariencia o aseo personal, o escuchar música con volumen excesivo;
+
+VII. En su caso, circular con el vehículo fuera de ruta o utilizarlo en actividades distintas a las contempladas en la Ley, el reglamento respectivo y las condiciones establecidas en el título concesión o permiso correspondiente;
+
+VIII. En su caso, cobrar tarifas diferentes a las autorizadas por la autoridad competente;
+
+IX. Ser descortés, agresivo o grosero con el usuario, un tercero o con la autoridad;
+
+X. Negar el servicio en razón de género, apariencia física, discapacidad y, edad;
+
+XI. Realizar, alentar, permitir y participar en conductas que constituyan violencia contra las mujeres y niñas; y
+
+XII. Las demás que les establezca esta Ley, los reglamentos respectivos y demás disposiciones aplicables.
+
+### Capítulo IX. Medicina del Transporte
+
+Medicina del Transporte
+
+###### Artículo 238.
+
+La Medicina del Transporte es la actividad a través de la cual se practican los exámenes médicos, psicofísicos, de alcoholemia y toxicológicos, para determinar, con base en los resultados que se obtengan, la salud y aptitud de los operadores de los servicios público y especial de transporte para lo cual el Instituto o los municipios podrán contar con unidades médicas en los términos que se establezcan en el reglamento correspondiente, o bien establecer acciones de coordinación con la dependencia respectiva en materia de salud o entre sí, para la práctica de los exámenes médicos. Las unidades médicas contarán con las características, equipamiento y personal que para el efecto se determine en el reglamento correspondiente.
+
+Aplicación de exámenes para los operadores
+
+###### Artículo 239.
+
+Los operadores de los vehículos de los servicios público y especial de transporte estarán obligados a someterse, cuando así lo determinen el Instituto y los ayuntamientos, en la esfera de su competencia, a los exámenes psicofísicos, teóricos, prácticos, o médicos, así como a la aplicación de pruebas para la detección de la ingesta de bebidas alcohólicas, sustancias psicotrópicas, estupefacientes incluyendo medicamentos con este efecto y de todos aquellos fármacos que, con evidencia médica, alteren o puedan alterar la capacidad para el desarrollo de sus actividades a efecto de corroborar que se encuentran en aptitud para la adecuada prestación del servicio.
+
+### Capítulo X. Inspección
+
+Inspección y consecuencias
+
+###### Artículo 240.
+
+Los servicios público y especial de transporte serán sometidos a la inspección en los términos establecidos en esta Ley, sus reglamentos y demás disposiciones establecidas por las autoridades competentes, quienes podrán imponer suspensiones temporales para circular a los vehículos que no aprueben la inspección.
+
+En su caso, la suspensión será definitiva cuando el permisionario o concesionario se niegue a acatar la sanción, cuando a pesar de esta circule de nuevo, y cuando de forma reiterada no supere las inspecciones vehiculares.
+
+### Capítulo XI. Infraestructura del Servicio Público de Transporte
+
+Competencia del Instituto
+
+###### Artículo 241.
+
+La construcción, operación, administración y mantenimiento de la infraestructura para la movilidad y su equipamiento, así como para la prestación del servicio público de transporte de competencia estatal y sus servicios conexos, se realizará con base en las características y especificaciones técnicas que emita el Instituto.
+
+El Instituto podrá proponer mejoras a la infraestructura para la movilidad y servicios conexos cuya competencia corresponda a los municipios.
+
+Infraestructura
+
+###### Artículo 242.
+
+El Estado y los municipios, en sus respectivos ámbitos de competencia, podrán otorgar inmuebles en arrendamiento o comodato para destinarlos a la instalación de patios de encierro, estaciones y terminales de pasajeros, paraderos, estaciones intermodales, carriles confinados y demás infraestructura que requiera para la prestación del servicio público de transporte, los cuales serán considerados de utilidad pública, a fin de promover el uso de los sistemas de transporte, desincentivar el uso de los vehículos particulares y fomentar una política de movilidad urbana.
+
+## TÍTULO OCTAVO. REGISTRO ESTATAL DE CONCESIONES Y PERMISOS DEL TRANSPORTE
+
+### Capítulo Único. Disposiciones Generales
+
+Objeto del registro
+
+###### Artículo 243.
+
+En el Registro Estatal de Concesiones y Permisos del Transporte se inscribirán las concesiones y permisos, concesionarios, permisionarios y vehículos con que se prestan los servicios público y especial de transporte de competencia estatal y municipal, así como las resoluciones o actos que creen, modifiquen o extingan un derecho relacionado con los mismos y estará adscrito al Instituto.
+
+Actos registrables
+
+###### Artículo 244.
+
+El Registro Estatal de Concesiones y Permisos del Transporte contendrá el nombre y domicilio del concesionario o permisionario, número económico, características de operación y vigencia de la concesión o permiso y se inscribirán, de conformidad con lo que establezca el reglamento de la Ley, los siguientes actos:
+
+I. Las modificaciones de las características de operación de las concesiones y permisos;
+
+II. Las designaciones y, en su caso, las modificaciones de beneficiarios de las concesiones;
+
+III. Las rectificaciones de los títulos de concesión y permisos;
+
+IV. Las prórrogas de la vigencia de la concesión;
+
+V. La renovación de la vigencia de los permisos;
+
+VI. La transmisión de los derechos de las concesiones en los términos establecidos por la presente Ley y su reglamento;
+
+VII. La revocación, suspensión y extinción de las concesiones;
+
+VIII. La revocación, suspensión y cancelación de permisos;
+
+IX. Las sentencias y resoluciones de las autoridades jurisdiccionales y administrativas que hayan causado estado, en las que se ordene la modificación, rectificación, suspensión o extinción de las concesiones;
+
+X. Los documentos de que acrediten la personalidad de las personas jurídico colectivas, relativos a organizaciones de concesionarios y permisionarios de los servicios público y especial de transporte;
+
+XI. Los poderes que otorguen los concesionarios y permisionarios del transporte para los trámites ante las autoridades competentes y en su caso la escritura pública donde conste la revocación de los mismos;
+
+XII. Los datos de infractores en materia del servicio público y especial de transporte así como la o las causales que motivaron la infracción y las sanciones impuestas;
+
+XIII. Los domicilios, antecedentes y demás datos relativos a operadores y sus actualizaciones; y
+
+XIV. Los demás que establezca la presente Ley y su reglamento.
+
+Las autoridades municipales en materia de transporte, deberán entregar y actualizar de manera permanente conforme a los mecanismos, formatos y requerimientos técnicos que para tal efecto establezca el Instituto, los datos con que cuenten para alimentar los registros conforme a lo señalado en las fracciones anteriores, a efecto de generar condiciones de certeza así como estadísticas confiables y actualizadas para la planeación del transporte y la movilidad en el Estado. Su inobservancia e incumplimiento, será motivo para dar vista a las autoridades y órganos de control municipal y estatal correspondientes.
+
+Consulta de Información
+
+###### Artículo 245.
+
+Toda persona podrá solicitar al titular del Registro de Concesiones y Permisos del Transporte, les expida a su costa, las certificaciones y constancias de inscripciones y en su caso, copia simple de los documentos que dieron lugar a las mismas.
+
+Las copias solicitadas serán expedidas por el titular del Registro de Concesiones y Permisos del Transporte, previo el pago de los derechos correspondientes.
+
+El acceso a la información y la protección de los datos personales que obren en el registro, se regirán conforme a las disposiciones legales de la materia.
+
+Organización y funcionamiento
+
+###### Artículo 246.
+
+El Registro Estatal de Concesiones y Permisos del Transporte se organizará y funcionará en los términos del reglamento de la Ley. Los trámites y servicios que preste, causarán los derechos previstos en la legislación fiscal correspondiente.
+
+Mecanismos de registro
+
+###### Artículo 247.
+
+El Registro Estatal de Concesiones y Permisos del Transporte establecerá los mecanismos documentales, técnicos, tecnológicos y de control para el registro de los datos y la emisión de las constancias y certificaciones, así como para el resguardo de los documentos e información a que se refiere el presente Título.
+
+## TÍTULO NOVENO. SANCIONES
+
+### Capítulo Único. Sanciones
+
+Facultad para sancionar
+
+###### Artículo 248.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están facultadas para conocer y sancionar las infracciones a esta Ley y los reglamentos que de ella deriven.
+
+Sanciones
+
+###### Artículo 249.
+
+A quienes infrinjan las disposiciones contenidas en esta Ley y los reglamentos que de ella deriven, se les impondrá conjunta o separadamente, cualquiera de las siguientes sanciones:
+
+I. Multa;
+
+II. Retiro y aseguramiento de vehículos hasta por treinta días;
+
+III. Privación o suspensión de los derechos derivados de las licencias de conducir hasta por ciento ochenta días;
+
+IV. Suspensión de los derechos derivados de las licencias para conducir por haberse detectado conduciendo bajo el influjo de alcohol, estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca efectos similares;
+
+V. Suspensión de la circulación de unidades de los servicios público y especial de transporte hasta por noventa días;
+
+VI. Suspensión de los derechos derivados de las concesiones o permisos hasta por noventa días;
+
+VII. Cancelación de la licencia de conducir;
+
+VIII. Revocación de concesiones;
+
+IX. Cancelación de permisos; y
+
+X. Trabajo a favor de la comunidad en instituciones públicas educativas o de asistencia social, sin que exceda de diez jornadas de hasta tres horas en no más de tres días a la semana, fuera del horario de actividad habitual del infractor; y
+
+XI. Arresto hasta por treinta seis horas.
+
+Las sanciones anteriores se aplicarán en los términos que al respecto establezcan los reglamentos correspondientes, sin perjuicio de las que pudieran derivarse de los hechos cometidos.
+
+Elementos de individualización de sanciones
+
+###### Artículo 250.
+
+Para la aplicación de las sanciones se deberá tomar en consideración los elementos de individualización a que se refiere el Código de Procedimiento Civiles para el Estado de Sonora.
+
+Margen para multas
+
+###### Artículo 251.
+
+La aplicación de la multa, se estará a lo establecido por el reglamento respectivo, el cual la fijará dentro de un margen de una a quinientas veces la Unidad de Medida y Actualización, atendiendo al tipo de falta y su gravedad, las circunstancias de su comisión y las personales del infractor.
+
+La multa aplicable por la prestación del servicio público de transporte y el servicio especial de transporte ejecutivo, sin contar con la concesión o el permiso correspondiente, será de doscientas a setecientas cincuenta veces la Unidad de Medida y Actualización, independientemente de las sanciones que correspondan por el delito cometido en su caso.
+
+Para el caso de que se sorprenda prestando el servicio especial de transporte sin contar con el permiso correspondiente se le aplicará una multa de cien a quinientas veces la Unidad de Medida y Actualización.
+
+Pago de multa
+
+###### Artículo 252.
+
+El pago de las multas, deberá efectuarse en las oficinas recaudadoras correspondientes o a través de los medios electrónicos o tecnológicos que para el efecto determinen las autoridades competentes, aplicándose un descuento del cuarenta por ciento por pronto pago a quien las cubra dentro de los diez días hábiles siguientes al levantamiento de la infracción.
+
+Reincidencia
+
+###### Artículo 253.
+
+Conforme a lo señalado en esta Ley, cuando un conductor incurra en la comisión de tres o más faltas dentro de un plazo de seis meses, será considerado como reincidente, en cuyo caso, y tomando en cuenta la gravedad de la infracción cometida, podrá ser suspendido o privado de los derechos derivados de la licencia o permiso de manejo. Las condiciones y los elementos de calificación que se requieran al respecto, se determinarán en el reglamento respectivo.
+
+En caso de operadores de vehículos del servicio público y especial de transporte, que durante la prestación del mismo se detecte que lo realizan bajo el influjo de psicotrópicos, enervantes, estupefacientes o bebidas alcohólicas, y otras sustancias que produzcan efectos similares, se estará a lo dispuesto por el primer párrafo de este artículo.
+
+Depósito de vehículos
+
+###### Artículo 254.
+
+Los vehículos particulares o de transporte público retirados de la vía pública o asegurados, se depositarán en los lugares que dispongan las autoridades para ese fin, en la inteligencia de que los gastos derivados de estas acciones y demás adeudos, serán cubiertos íntegramente por los propietarios, de acuerdo con las tarifas autorizadas.
+
+Causales de suspensión
+
+###### Artículo 255.
+
+Las causales de suspensión de los derechos otorgados por esta Ley, a personas físicas o jurídico colectivas, se determinarán en el reglamento correspondiente.
+
+Remisión de vehículos
+
+###### Artículo 256.
+
+Serán causas de remisión de vehículos al depósito, las determinadas por el reglamento de la materia.
+
+Procedimiento para conductores en estado inconveniente
+
+###### Artículo 257.
+
+Se sancionará con arresto de veinte hasta treinta y seis horas, a quien conduzca con un nivel de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire espirado superior a 0.4 miligramos por litro, así como bajo el influjo de narcóticos, estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares.
+
+En este caso, inmediatamente se practicará al conductor la prueba de alcoholemia o de aire espirado en alcoholímetro. Cuando el conductor se niegue a otorgar muestra de aire espirado se remitirá a la autoridad competente, y se le practicará un examen pericial clínico médico.
+
+La licencia del conductor será suspendida por ciento ochenta días si se encuentra intoxicado por la ingesta de bebidas alcohólicas, que del examen correspondiente arroje un nivel de alcoholemia igual o superior al 0.8 gramos por litro o de alcohol en aire espirado superior a 0.4 miligramos por litro, así como bajo el influjo de narcóticos, estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares, además el conductor deberá someterse a un programa de prevención o rehabilitación de adicciones en instituciones públicas o privadas que cumplan con los requisitos establecidos en el reglamento de la presente Ley.
+
+A la persona que incurriere por segunda vez en un periodo que no exceda de tres años en el supuesto a que se refiere el párrafo anterior, se le sancionará con arresto administrativo de treinta y seis horas y se le cancelará su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, hasta haber transcurrido tres años a partir de la cancelación, además el conductor deberá acreditar haberse sometido a un programa de prevención o rehabilitación de adicciones en instituciones públicas o privadas, y deberá presentar los exámenes de toxicomanía y alcoholismo, que demuestren que no es dependiente de bebidas alcohólicas, narcóticos, estupefacientes, psicotrópicos, o cualquier otra sustancia que produzcan efectos similares.
+
+Tratándose de menores de 18 años únicamente se les cancelará el permiso para conducir y estarán inhabilitados para obtenerlo por un año contado a partir de la fecha en que se cometió la infracción; además el conductor deberá someterse a un programa de prevención o rehabilitación de adiciones en instituciones públicas o privadas.
+
+La imposición de las sanciones contenidas en el presente artículo quedará a cargo de las autoridades de tránsito y transporte, previa audiencia del infractor, siguiendo el procedimiento que establece el reglamento respectivo y sin perjuicio de la responsabilidad civil o penal que pudiera resultar de la falta cometida en los términos de la ley de la materia.
+
+Sanciones en materia ambiental
+
+###### Artículo 258.
+
+Independientemente de las sanciones que establecen los ordenamientos legales en materia ambiental, los conductores o propietarios de vehículos, que contravengan las disposiciones de esta Ley y sus reglamentos, se harán acreedores a la sanción que corresponda a la falta, sin perjuicio de cubrir el pago de los derechos correspondientes por concepto de depósito y arrastre, en el caso de que el vehículo haya sido remitido a un depósito.
+
+Suspensión de vehículos y de derechos derivados de las concesiones y permisos
+
+###### Artículo 259.
+
+Las causales de suspensión de vehículos del servicio público y especial de transporte, así como de suspensión de derechos de concesión y permisos se determinarán en los reglamentos correspondientes.
+
+La imposición de estas sanciones implicará el depósito de los vehículos en el lugar que dispongan las autoridades para ese fin, en la inteligencia de que los gastos derivados de estas acciones y demás adeudos, serán cubiertos íntegramente por los propietarios.
+
+Cancelación de permisos
+
+###### Artículo 260.
+
+Se procederá a la cancelación de los permisos, en los términos establecidos en los reglamentos que deriven de esta Ley.
+
+Revocación de concesiones
+
+###### Artículo 261.
+
+Se procederá a la revocación de las concesiones, en los términos establecidos en esta Ley y en los reglamentos que deriven de la misma.
+
+Pago de adeudos
+
+###### Artículo 262.
+
+La Secretaría de Finanzas el Instituto o los municipios en su caso, rechazarán el trámite relativo al registro vehicular, o para reposición de placas de unidades de servicio público cuando previamente no se hayan cubierto o convenido para el pago, los adeudos registrados ante dichas autoridades. De igual manera, el interesado deberá presentar la constancia de no infracción, previo el pago de los derechos correspondientes.
+
+Infractores reincidentes
+
+###### Artículo 263.
+
+Cuando el concesionario, permisionario u operador incurra en la comisión de tres o más faltas en un plazo de un año calendario, será considerado como reincidente, en cuyo caso se hará acreedor a las sanciones respectivas, en los términos previstos en los reglamentos que deriven de esta Ley.
+
+Corresponsabilidad del concesionario y permisionario
+
+###### Artículo 264.
+
+Los concesionarios y permisionarios, que autoricen a un operador inhabilitado a suspendido, conducir el vehículo con el que se presta el servicio, serán corresponsables de las faltas en que incurran los mismos por lo que, según la gravedad del caso, si estas derivan en lesiones o en fallecimiento de persona por responsabilidad del operador, será causal para la revocación de la concesión.
+
+Prestación de servicio sin concesión o permiso
+
+###### Artículo 265.
+
+Cuando un operador sea sorprendido prestando los servicios público o especial de transporte, en cualquiera de sus modalidades, sin contar con concesión o permiso, el vehículo será retirado de la vía pública y remitido a un depósito y dará lugar además a la aplicación de la multa prevista en el segundo párrafo del artículo 251 de la presente Ley.
+
+En caso de utilizar en la carrocería colores, números económicos y cualquier otra característica propia de los vehículos concesionados o permisionados, el infractor deberá, en su caso, despintarlo previo a su liberación por orden de la autoridad que corresponda, sin perjuicio de cubrir las multas que procedan.
+
+La persona que preste el servicio público de transporte en la modalidad de alquiler sin ruta fija «Taxi» o el servicio de transporte especial ejecutivo sin concesión o permiso, quedará imposibilitada permanentemente para obtener una concesión o permiso.
+
+Competencia para imponer sanciones
+
+###### Artículo 266.
+
+El Director General del Instituto será competente para imponer las sanciones previstas en el artículo 249 de esta Ley, a excepción de la fracción VIII.
+
+La Policía Estatal, en el ámbito de su competencia, impondrá las sanciones previstas en las fracciones I, II y X del artículo 249 de esta Ley.
+
+Para la aplicación de las sanciones anteriores se deberá observar el procedimiento establecido en el reglamento correspondiente.
+
+La dependencia municipal respectiva, será competente para imponer las sanciones previstas en las fracciones I, II, V, VI, IX y X del artículo 249 de esta Ley.
+
+La aplicación de la sanción establecida en la fracción VIII del artículo 249 de esta Ley corresponderá al Secretario de Gobierno o al Ayuntamiento, en el ámbito de sus respectivas competencias.
+
+Infracción de cortesía
+
+###### Artículo 267.
+
+El Instituto y la autoridad competente en los municipios, podrán establecer campañas de concientización encaminadas al cumplimiento de la normatividad mediante la aplicación de infracciones de cortesía, en cuyo caso, la autoridad podrá retener en garantía un documento en los términos que al respecto establezca el reglamento correspondiente.
+
+En caso de que el infractor no subsane la falta cometida en el término que para el efecto establezca la autoridad competente, se impondrá la multa que corresponda.
+
+Medidas preventivas
+
+###### Artículo 268.
+
+Las autoridades competentes podrán aplicar las medidas preventivas consistentes en apercibimiento y retiro de vehículos para la consecución de los fines establecidos en la presente Ley.
+
+El apercibimiento es la comunicación escrita mediante la cual se señala al concesionario y permisionario la omisión o falta en el cumplimiento de sus obligaciones o que incurran en conductas prohibidas en los términos de los reglamentos que deriven de esta Ley, conminándolo a corregirse, y en caso contrario se hará acreedor a una sanción.
+
+Podrán retirarse de la vía pública y remitirse para su resguardo a un depósito autorizado los vehículos de los servicios público y especial de transporte que no reúnan los requisitos legales o aquellos cuya legal prestación requiera ser verificada por el Instituto o la autoridad municipal respectiva y los demás en los casos establecidos en esta Ley y su reglamento.
+
+Imposibilidad de efectuar trámites con adeudos de multas
+
+###### Artículo 269.
+
+La Secretaría de Finanzas y el Instituto de Movilidad del Estado de Sonora en su caso, no darán curso a ningún trámite relativo al registro vehicular, o para reposición de licencias o placas, al propietario del vehículo o conductor que no cubra previamente las multas en que haya incurrido.
+
+Derecho a inconformarse
+
+###### Artículo 270.
+
+El conductor a quien se levante una boleta de infracción, podrá inconformarse de la misma en los términos que señala esta Ley y su reglamento, así como aquel, cuyo vehículo haya sido retirado de la vía pública y depositado en un local destinado por las autoridades para esa finalidad.
+
+Limitación de circulación
+
+###### Artículo 271.
+
+Las autoridades competentes deberán impedir en todo momento el tránsito de los vehículos que no reúnan los requisitos legales o que representen un grave peligro para la seguridad de sus ocupantes y de los demás vehículos y peatones, así como aquellos que por sus condiciones particulares puedan ocasionar daños a las vías públicas del Estado o de los municipios.
+
+## TÍTULO DÉCIMO. DISPOSICIONES COMPLEMENTARIAS
+
+### Capítulo Único. Medios de Defensa y Responsabilidad
+
+Quejas y denuncias
+
+###### Artículo 272.
+
+Las autoridades en materia de transporte facilitarán los medios para la presentación de quejas y denuncias cuando los concesionarios, permisionarios y prestadores de los servicios conexos incumplan con las disposiciones que señala la presente Ley y los reglamentos que deriven de ella, sin perjuicio de la responsabilidad civil o penal en que se incurra.
+
+Recurso de inconformidad
+
+###### Artículo 273.
+
+Los actos y resoluciones dictados por las autoridades estatales y municipales con motivo de la aplicación de esta Ley y su reglamento, podrán impugnarse mediante lo previsto en el Código de Procedimiento Civiles para el Estado de Sonora.
+
+Responsabilidad de los servidores públicos
+
+###### Artículo 274.
+
+Los servidores públicos que incumplan con las obligaciones señaladas en esta Ley y en los reglamentos que de ella emanen o incurran en las conductas prohibidas serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sonora.
+
+Las autoridades en materia de transporte establecerán medidas que faciliten la presentación de quejas y denuncias por incumplimiento de las obligaciones o por incurrir en conductas prohibidas de los servidores públicos dando trámite de acuerdo a la normatividad aplicable.
+
+Notificaciones
+
+###### Artículo 275.
+
+Las notificaciones, citatorios, requerimientos, solicitudes de información o documentos, así como los acuerdos y resoluciones dictados en aplicación de esta Ley y sus reglamentos se harán y darán a conocer a través de lo previsto en el Código de Procedimiento Civiles para el Estado de Sonora.
+
+T R A N S I T O R I O S
+
+Inicio de vigencia
+
+Artículo Primero. La presente Ley entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley de Tránsito y Transporte del Estado de Sonora.
+
+Derogación tácita
+
+Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+Término para expedir (sic) reglamento de la Ley
+
+Artículo Cuarto. El Ejecutivo del Estado deberá expedir el Reglamento de la Ley, en un término de ciento ochenta días contados a partir de la entrada en vigencia del presente Decreto, en tanto se expide, se aplicarán los Reglamentos de Transporte y de Tránsito de la Ley de Tránsito y Transporte del Estado, en todo aquello que no se oponga al contenido de la presente Ley.
+
+Término para expedir la reglamentación municipal
+
+Artículo Quinto. Los ayuntamientos deberán expedir o adecuar los reglamentos municipales que deriven de esta Ley, dentro de los ciento ochenta días posteriores a la entrada en vigencia del presente Decreto, permaneciendo entre tanto vigentes los reglamentos municipales existentes, en todo aquello que no se oponga al contenido de la presente Ley.
+
+Expedición del Reglamento Interior del Instituto
+
+Artículo Sexto. El Reglamento Interior del Instituto y las reformas al Reglamento Interior de la Secretaría de Gobierno deberán expedirse en un término de noventa días contado a partir del inicio de vigencia del presente Decreto.
+
+Cumplimiento de obligaciones
+
+Artículo Séptimo. Las obligaciones y compromisos adquiridos por la Dirección General de Transporte, para la realización de sus funciones sustantivas, serán asumidas por el Instituto y corresponderá a este continuar su cumplimiento.
+
+Referencia
+
+Artículo Octavo. Cualquier referencia en leyes, decretos, contratos, convenios y demás instrumentos normativos, que se haga a la Dirección General de Transporte, se entenderá hecha al Instituto.
+
+Ultractividad
+
+Artículo Noveno. Hasta en tanto se emita el Reglamento Interior del Instituto, el ejercicio de sus atribuciones se realizarán por conducto del Director General del mismo o de las unidades administrativas de la actual Dirección General de Transporte previstas en el Reglamento Interior de la Secretaría de Gobierno y con los recursos humanos y materiales con que actualmente opera la Dirección.
+
+Coordinación
+
+Artículo Décimo. La Secretaría de Gobierno se coordinará con la Secretaría de Finanzas, para realizar las acciones conducentes a efecto de que el Instituto entre en funciones, como órgano desconcentrado.
+
+Transferencia de recursos y modificación de estructura
+
+Artículo Undécimo. La Secretaría de Finanzas, definirá y aplicará los procedimientos y mecanismos necesarios para la asignación de recursos de la Secretaría de Gobierno que a la fecha se destinan a la Dirección General de Transporte para su operación y funcionamiento, se reasignen al Instituto.
+
+Acompañamiento al proceso de modificación
+
+Artículo Duodécimo. Las Secretarías de Finanzas, y de la Transparencia y Rendición de Cuentas, acompañarán en el proceso de modificación de la estructura de la Dirección General de Transporte al Instituto.
+
+Referencias al servicio público
+
+Artículo Décimo Tercero. La alusión de las concesiones del servicio público de transporte en las modalidades de intermunicipal de autotransporte y de alquiler sin ruta fija «Taxi» contenidas en la presente Ley, se entenderá realizada respecto de las modalidades de foráneo y de alquiler sin ruta fija otorgadas con anterioridad a la entrada en vigor del presente Decreto, respectivamente.
+
+Vigencia de actos celebrados con la anterior Ley
+
+Artículo Décimo Cuarto. Las concesiones, permisos y autorizaciones, otorgadas con apego a la Ley que se abroga, conservarán su vigencia, debiendo regirse en lo sucesivo y sin perjuicio de los derechos adquiridos, por las disposiciones de la presente Ley y su reglamentación.
+
+Término para cambio de vehículos
+
+Artículo Décimo Quinto. Los concesionarios del servicio público de transporte en las modalidades de alquiler sin ruta fija «Taxi», carga en general, carga de grúa tipos «A» y «B» cuyos vehículos excedan de la vida útil y su prórroga contenidas en la tabla del artículo 127 de esta Ley, deberán hacer el cambio por otro vehículo que se encuentre dentro de la vida útil permitida, dentro de los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+Continuación de trámites y procedimientos administrativos iniciados
+
+Artículo Décimo Sexto. Los trámites y procedimientos administrativos, los de aplicación de sanciones y la substanciación de los recursos iniciados o interpuestos antes de la entrada en vigor del presente decreto, serán concluidos y resueltos por las autoridades correspondientes, de conformidad con las disposiciones legales vigentes al momento de su inicio o aplicación respectivos.
+
+Ratificación de convenios y acuerdos de coordinación y colaboración administrativa
+
+Artículo Décimo Séptimo. Los convenios y acuerdos de coordinación y colaboración administrativa relativos a los servicios público y especial de transporte, celebrados con anterioridad a la entrada en vigor del presente decreto, quedarán sujetos a la ratificación por parte del Instituto a solicitud de los ayuntamientos, en su caso se modificarán en atención a las reformas legales y reglamentarias aplicables.
+
+Programa de regularización
+
+Artículo Décimo Octavo. A efecto de actualizar el Registro Estatal de Concesiones y Permisos, para contar con un control adecuado de las concesiones del servicio público de transporte y brindar certeza jurídica a quienes de manera continua y permanente lo han venido prestando sin contar formalmente con el acto administrativo de concesionamiento o con el título de concesión correspondiente, la Secretaría de Gobierno, por conducto del Instituto, instrumentará un programa de regularización, el que se publicará en el Periódico Oficial del Gobierno del Estado para quienes se encuentren en alguno de los supuestos siguientes:
+
+I. Se ostentan como concesionarios y se encuentran prestando el servicio público en virtud de un número económico otorgado a su nombre por la dirección general de tránsito y transporte sin que se hubiere concluido el procedimiento de otorgamiento de concesión correspondiente;
+
+II. Se ostentan como concesionarios y se encuentran prestando el servicio público en virtud de un número económico otorgado a su nombre por la Dirección General de Tránsito y Transporte sin que hubieren realizado o concluido cesión de derechos alguna;
+
+III. A la fecha de implementación del programa de regularización tengan entablados procesos administrativos en contra del Gobierno del Estado en los que se demande el reconocimiento del derecho a explotar una concesión del servicio público de transporte de competencia estatal;
+
+IV. Le hubieren transmitido los derechos de una concesión y el titular de la concesión se negare a formalizarla o materialmente sea imposible efectuar la misma;
+
+V. Cuenten con original o copia certificada de la resolución definitiva de otorgamiento de concesión emitida a su nombre por autoridad competente y que no han venido prestando el servicio, por causas imputables a esta; y
+
+VI. Cuenten con un título concesión para prestar el servicio mixto de personas y cosas o acrediten fehacientemente haber prestado el servicio en dicha modalidad, y no hayan realizado el trámite para el cambio de modalidad al de alquiler sin ruta fija (taxi).
+
+El programa deberá iniciarse a más tardar dentro de los ciento veinte días siguientes a la entrada en vigor del presente decreto.
+
+El titular de la Secretaría de Gobierno, dentro del programa de regularización, deberá emitir las resoluciones correspondientes y, en caso de ser procedente, el Director General del Instituto emitirá y suscribirá los títulos de concesiones correspondientes.
+
+Los derechos por otorgamiento de concesión, por la transmisión de derechos de la concesión y por el trámite de transmisión de derechos de la concesión que se causen con motivo del programa quedarán exentos de pago.
+
+El Instituto determinará la cancelación administrativa previa justificación de los registros de expedientes de concesiones respecto de los cuales no se tenga certeza en cuanto a su otorgamiento, titularidad o prestación del servicio.
+
+Servicio especial de transporte ejecutivo
+
+Artículo Décimo Noveno. En un término de noventa días, contados a partir del inicio de vigencia del presente Decreto, se deberá reformar la Ley de Ingresos para el Estado de Sonora para el Ejercicio Fiscal 2018, a efecto de que se incluya en los conceptos de cobro el relativo al permiso especial de transporte ejecutivo y la tarifa correspondiente.
+
+Evaluación ex-post de la ley
+
+Artículo Vigésimo. En un término de cinco años, contados a partir del inicio de vigencia del presente Decreto, el Congreso del Estado deberá determinar, mediante un procedimiento de evaluación, si la presente Ley ha logrado los objetivos esperados, si ha sido suficientemente efectiva y eficiente en su implementación y si ha tenido los impactos esperados; a efecto de implementar las reformas que resulten necesarias para la mejor implementación de las disposiciones normativas contenidas en este ordenamiento normativo, lo anterior independientemente de las iniciativas de reforma, adición o derogación que se presenten.
+
+FE DE ERRATAS
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado y los ayuntamientos deberán adecuar sus reglamentos, dentro de los noventa días, posteriores a la entrada en vigencia del presente Decreto.
+
+Artículo Tercero. Los municipios que no cuenten con la infraestructura y los recursos materiales y humanos necesarios para la aplicación del presente Decreto, contarán hasta con un año, contado a partir del inicio de su vigencia, a efecto de que adecúen su infraestructura y su organización administrativa.
