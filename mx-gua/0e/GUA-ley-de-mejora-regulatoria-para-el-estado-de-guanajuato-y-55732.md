@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-mejora-regulatoria-para-el-estado-de-guanajuato-y-55732"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-22"
-last_updated: "2013-06-07"
+last_updated: "2018-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE MEJORA REGULATORIA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 24 DE SEPTIEMBRE DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL UNO DE ENERO DE DOS MIL DIECINUEVE.]</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Tercera Parte al Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2007.
 
@@ -67,7 +69,7 @@ Para los efectos de esta ley, se entiende por:
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-l. Administración pública estatal: Es la función que desarrolla el Poder Ejecutivo del Estado para el despacho de los asuntos de su competencia y se clasifica en centralizada y paraestatal. La administración pública centralizada está integrada por las secretarías, los organismos desconcentrados, las unidades de apoyo y la Procuraduría General de Justicia. La administración pública paraestatal está integrada por los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos;
+I. Administración pública estatal: Es la función que desarrolla el Poder Ejecutivo del Estado para el despacho de los asuntos de su competencia y se clasifica en centralizada y paraestatal. La administración pública centralizada está integrada por las secretarías, los organismos desconcentrados, las unidades de apoyo y la Procuraduría General de Justicia. La administración pública paraestatal está integrada por los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -129,7 +131,7 @@ II. Los municipios por conducto de la dependencia o entidad responsable que al e
 
 La SGP tendrá las siguientes atribuciones:
 
-l. Formular y evaluar, en coordinación con la SDES, las políticas en materia de mejora regulatoria y proponerlas al Gobernador del Estado;
+I. Formular y evaluar, en coordinación con la SDES, las políticas en materia de mejora regulatoria y proponerlas al Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -329,7 +331,7 @@ II. Contar con reconocido prestigio en los sectores social, económico o académ
 
 El Consejo tendrá como mínimo, las siguientes atribuciones:
 
-l. Emitir opiniones y formular propuestas sobre la aplicación y orientación de las políticas públicas en materia de mejora regulatoria, así como de la operación y funcionamiento de los instrumentos de la ley;
+I. Emitir opiniones y formular propuestas sobre la aplicación y orientación de las políticas públicas en materia de mejora regulatoria, así como de la operación y funcionamiento de los instrumentos de la ley;
 
 II. Analizar y proponer programas y acciones que incidan en el cumplimiento de la ley;
 
@@ -383,7 +385,7 @@ Se establecerán los programas de mejora regulatoria, como el conjunto de estrat
 
 Los programas de mejora regulatoria contendrán por lo menos lo siguiente:
 
-l. Un diagnóstico de la situación en que se encuentra el marco jurídico que permita conocer su calidad y eficiencia, así como los campos estratégicos que presentan problemáticas y puntos críticos;
+I. Un diagnóstico de la situación en que se encuentra el marco jurídico que permita conocer su calidad y eficiencia, así como los campos estratégicos que presentan problemáticas y puntos críticos;
 
 II. Las acciones para que las administraciones públicas estatal y municipal organicen y mejoren el marco jurídico, que impulse la eficiencia de la gestión pública e incentive la inversión y competitividad;
 
@@ -710,3 +712,23 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 340, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE MEJORA REGULATORIA”.]
+
+Primero. El presente Decreto entrará en vigor el 1 de enero de 2019, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Segundo. Se abrogará la Ley de Mejora Regulatoria para el Estado de Guanajuato y sus Municipios publicada en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato, número 82, tercera parte de 22 de mayo de 2007, hasta en tanto se actualicen los supuestos previstos en el artículo Séptimo Transitorio del presente Decreto.
+
+Tercero. El Consejo Estatal de Mejora Regulatoria deberá estar instalado en un plazo que no exceda los 90 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+Cuarto. El Poder Ejecutivo contará con un plazo de 180 días hábiles para realizar las adecuaciones normativas para dar cumplimiento al presente Decreto.
+
+Quinto. Las solicitudes de dictaminación de las manifestaciones de impacto regulatorio presentadas con anterioridad a la entrada en vigor de la presente Ley serán concluidas conforme a las disposiciones aplicables vigentes a la fecha de su presentación.
+
+Sexto. Las disposiciones normativas vigentes en materia de impacto regulatorio se seguirán aplicando hasta en tanto el Consejo Nacional de Mejora Regulatoria emita los lineamientos generales para la implementación del Análisis de Impacto Regulatorio.
+
+Séptimo. Respecto a la operación de las herramientas tecnológicas del Sistema Estatal, los Sujetos Obligados estarán a lo dispuesto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley General de Mejora Regulatoria, publicado en el Diario Oficial de la Federación el 18 de mayo de 2018.
+
+Para la aplicación de las demás herramientas del Sistema Estatal los Sujetos Obligados contarán con un plazo de 90 días hábiles posteriores a la publicación de los lineamientos a que se refiere la Ley General.
