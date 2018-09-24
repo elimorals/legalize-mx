@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-para-la-proteccion-de-ninas-ninos-y-86800"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-23"
-last_updated: "2012-03-23"
+last_updated: "2018-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY PARA LA PROTECCION DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO GUBERNATIVO NÚMERO 241, PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY PARA LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 23 de marzo de 2012.
 
 Juan Manuel Oliva Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confiere el artículo 77 fracciones II y III de la Constitución Política para el Estado de Guanajuato, y con fundamento en lo dispuesto en los artículos 2º., 3º. y 9º. de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, y de conformidad con el artículo 20 y Tercero Transitorio de la Ley para la Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -352,3 +356,11 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILANA
 EL SECRETARIO DE SALUD
 
 ÉCTOR JAIME RAMÍREZ BARBA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 241, MEDIANTE EL CUAL SE ABROGA EL DECRETO GUBERNATIVO 203, MEDIANTE EL CUAL SE CREA LA MODALIDAD DE SERVICIO ESPECIAL DE TRANSPORTE DE PERSONAS CON DISCAPACIDAD O MODALIDAD REDUCIDA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 68 SEGUNDA PARTE, DEL 27 DE ABRIL DEL 2012”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
