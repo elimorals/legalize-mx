@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2018-09-21"
+last_updated: "2018-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -97,7 +97,9 @@ Principios rectores de la movilidad
 
 Para los efectos de la presente Ley son principios rectores de la movilidad:
 
-I. Accesibilidad: como el derecho de las personas a desplazarse por las vías públicas sin obstáculos y con seguridad, independientemente de su condición;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+I. Accesibilidad universal: como el derecho de las personas a elegir libremente la forma de desplazarse por las vías públicas sin obstáculos y con seguridad, independientemente de su condición;
 
 II. Calidad: procurar que los elementos del sistema de movilidad cuenten con los requerimientos y las propiedades aceptables para cumplir con su función, ofrecer un espacio apropiado y confortable para las personas y encontrarse en buen estado, en condiciones higiénicas, de seguridad y con mantenimiento regular para proporcionar una adecuada experiencia de viaje;
 
@@ -284,6 +286,30 @@ VIII. Los indicadores; y
 IX. La información necesaria para que la ciudadanía pueda identificar con facilidad las acciones y obras que se implementarán en cada región, así como el plazo en que serán ejecutadas y concluidas.
 
 El Programa Estatal de Movilidad será emitido por el Gobernador del Estado dentro de los seis meses siguientes a la expedición del Programa de Gobierno y podrá ser modificado en términos de lo dispuesto por el artículo 11 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+Políticas del programa
+
+Artículo 8 bis. Las políticas y el Programa Estatal de Movilidad deberán:
+
+I. Procurar la accesibilidad universal de las personas, garantizando la máxima interconexión entre vialidades, medios de transporte, rutas y destinos, priorizando la movilidad peatonal y no motorizada;
+
+II. Fomentar la distribución equitativa del espacio público de vialidades que permita la máxima armonía entre los diferentes tipos de usuarios;
+
+III. Promover la innovación tecnológica de punta, para almacenar, procesar y distribuir información que permita contar con nuevos sistemas, aplicaciones y servicios que contribuyan a una gestión eficiente, así como a la reducción de las externalidades negativas en la materia;
+
+IV. Incrementar la oferta de opciones de servicios y modos de transporte integrados, a los diferentes grupos de usuarios, que proporcionen disponibilidad, velocidad, densidad y accesibilidad universal, que permitan reducir la dependencia del uso del automóvil particular, aquellas innovaciones tecnológicas que permitan el uso compartido del automóvil, el uso de la bicicleta y desarrollar nuevas alternativas al transporte público;
+
+V. Establecer políticas, planes y programas para la prevención de accidentes y mejoramiento de la infraestructura vial y de Movilidad;
+
+VI. Promover el acceso de mujeres y niñas en espacios públicos y transporte de calidad, seguro y eficiente, incluyendo las acciones para eliminar la violencia de género y el acoso sexual;
+
+VII. Aumentar el número de opciones de servicios y modos de transporte, por medio del fomento de mecanismos para el financiamiento de la operación del transporte público;
+
+VIII. Establecer políticas, planes y programas para la prevención de accidentes automovilísticos, que desincentiven el uso de los teléfonos celulares al conducir, o manejar bajo el influjo del alcohol o cualquier droga psicotrópico (sic) o estupefaciente; y
+
+IX. Promover las políticas, que integren al transporte de carga y fomentenla (sic) movilidad institucional entendida como aquella realizada por el sector público y privado o instituciones académicas orientadas a racionalizar el uso del automóvil entre quienes acuden a sus instalaciones, incluyendo sistema de auto compartido, transporte público (sic) privado, fomento al uso de la bicicleta redistribución de acuerdo a su residencia y todo tipo de innovación en el sector privado encaminada a dichos fines.
 
 Jerarquía de movilidad
 
@@ -3464,3 +3490,9 @@ Artículo Octavo. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Noveno. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 339, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4 FRACCIÓN I, Y SE ADICIONA EL ARTÍCULO 8 BIS, DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
