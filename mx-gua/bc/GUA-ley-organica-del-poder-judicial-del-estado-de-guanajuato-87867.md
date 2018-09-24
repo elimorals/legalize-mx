@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-87867"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-05-22"
-last_updated: "2018-04-20"
+last_updated: "2018-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2012.
 
@@ -93,8 +93,6 @@ Atribuciones de los que ejercen la función jurisdiccional
 
 Son atribuciones de quienes ejercen la función jurisdiccional, las siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 I. Impartir justicia de manera pronta, completa, imparcial y gratuita.
@@ -109,21 +107,15 @@ IV. Realizar a petición de parte o de oficio, todas las acciones necesarias par
 
 V. Auxiliar a la justicia federal y demás autoridades en los términos de las disposiciones legales aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 En la recepción, el envío y la substanciación de los exhortos y requisitorias cuyo despacho o cumplimentación corresponda a los órganos jurisdiccionales del Poder Judicial del Estado conforme a las normas aplicables, se podrán utilizar los medios electrónicos y la firma electrónica en los términos que fijen las leyes y reglamentos;
 
 VI. Proporcionar a las autoridades competentes con veracidad los datos e informes que soliciten, cuando proceda conforme a la ley; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 VII. Prestar colaboración en materia de asistencia jurídica internacional, cuando resulte procedente en términos de las disposiciones legales aplicables, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -134,8 +126,6 @@ Limitación para el ejercicio de la profesión
 ###### Artículo 8.
 
 Los servidores públicos del Poder Judicial que tengan título de licenciado en derecho u otro equivalente, no podrán ejercer la profesión de abogado, sino en causa propia, de su cónyuge, de sus ascendientes o descendientes, sin limitación de grado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -166,8 +156,6 @@ Prohibición para integrar órganos o dependencias
 No podrán formar parte de un mismo órgano jurisdiccional o dependencia administrativa, servidores públicos del Poder Judicial que estuvieren unidos por vínculo matrimonial o tuvieren parentesco de cualquier tipo dentro del segundo grado.
 
 Prohibición para el ejercicio del cargo
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -813,8 +801,6 @@ IV. Las demás que le asignen las leyes o reglamentos.
 
 Atribuciones del presidente de sala colegiada
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 56.
@@ -833,27 +819,19 @@ V. Acordar la correspondencia de la sala;
 
 VI. Rendir los informes de actividades de la sala; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 VII. Asignar al magistrado ponente el asunto para la elaboración del proyecto de resolución, en el orden previamente establecido por sus integrantes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 VIII. Rendir los informes previo y justificado y, en general, proveer lo relativo a los juicios de amparo que se interpongan contra las resoluciones de la sala, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 IX. Las demás que le asignen las leyes o reglamentos.
 
 Atribuciones de los magistrados de salas colegiadas de segunda instancia
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -866,8 +844,6 @@ I. Concurrir, participar y votar en las sesiones y reuniones a las que sean conv
 II. Integrar la sala para resolver colegiadamente los asuntos de su competencia;
 
 III. Discutir y votar la sentencia correspondiente y, en su caso, formular voto particular en los asuntos en los que disienta del acuerdo mayoritario;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -939,7 +915,7 @@ II. Con copia de dicho acuerdo y los documentos en los que se apoye el mismo, se
 
 III. El informe deberá referirse a todos y cada uno de los hechos comprendidos en el acuerdo, afirmándolos, negándolos, expresando los que ignore por no ser propios o refiriéndolos como crea que tuvieron lugar. Si no rinde el informe se le tendrá por negando los actos u omisiones que se le imputen;
 
-IV Con el informe a que se refiere la fracción anterior el magistrado propondrá las pruebas que estime convenientes para su defensa. Cuando se ofrezca la testimonial de cualquier servidor público ésta se rendirá por oficio, a petición de la Comisión;
+IV. Con el informe a que se refiere la fracción anterior el magistrado propondrá las pruebas que estime convenientes para su defensa. Cuando se ofrezca la testimonial de cualquier servidor público ésta se rendirá por oficio, a petición de la Comisión;
 
 V. Recibido el informe del servidor público o vencido el plazo para su rendición, la Comisión determinará sobre su admisión o la no presentación del mismo. En el primer supuesto, si se ofrecieron pruebas acordará sobre su admisión o no y, en su caso, su recepción o desahogo, el que debe efectuarse en una audiencia que se celebrará dentro de los diez días hábiles que sigan al acuerdo. A la audiencia debe ser citado el magistrado, pero su inasistencia no dará lugar a diferir la misma, si obra constancia de la citación.
 
@@ -1471,21 +1447,15 @@ Los juzgados contarán con el personal que determine el Consejo del Poder Judici
 
 Personal de los juzgados regionales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 101.
 
 Los juzgados regionales que apliquen el sistema penal acusatorio y oral contarán con el número de jueces, sedes y bases que determine el Consejo del Poder Judicial. Además, contarán con una Unidad de Gestión Judicial para su administración, funcionamiento y para la gestión de las causas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Dicha Unidad se compone de las Unidades de Causa y Gestión, de la Sala y de Atención al Público, las cuales contarán respectivamente con Jefe de Unidad de Causa y Gestión, Encargados de Sala y Jefe de Atención al Púbico; tiene las atribuciones que los reglamentos y manuales que para el efecto emita el Consejo, y contará con el personal de apoyo que éste determine.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1601,8 +1571,6 @@ En los partidos judiciales donde sólo exista un juzgado de partido de cada mate
 
 En los partidos judiciales donde sólo exista un juzgado de partido, el expediente se enviará al juzgado de partido más cercano.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Tratándose de los jueces de control y de los que integren tribunal de enjuiciamiento, conocerá del asunto el juez designado por la Unidad de Gestión Judicial, conforme al manual que emita el Consejo del Poder Judicial.
@@ -1629,8 +1597,6 @@ Los jueces de partido que operen el sistema penal acusatorio y oral podrán ejer
 
 I. Jueces de control;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 II. Jueces del tribunal de enjuiciamiento; o
@@ -1639,13 +1605,9 @@ III. Jueces de ejecución.
 
 Los jueces a que se refiere este artículo, tendrán fe pública en ejercicio de sus funciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Los jueces de control integrarán, en su caso, los tribunales de enjuiciamiento en asuntos en donde no hayan intervenido previamente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1661,21 +1623,15 @@ I. Resolver sobre la aplicación, modificación, sustitución o cancelación de 
 
 II. Presidir la audiencia de vinculación a proceso, la de apertura del juicio oral y emitir las decisiones que en ellas corresponda, así como celebrar cualquier otra audiencia que legalmente les sea solicitada y asumir las decisiones atinentes al caso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 III. Sustanciar y resolver los medios impugnativos de su competencia, según la ley aplicable;
 
 IV. Acordar, sustanciar y decidir las solicitudes de suspensión condicional del proceso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 V. Calificar y, en su caso, aprobar los acuerdos asumidos en justicia restaurativa para cuya validez sean necesarias estas determinaciones según la ley aplicable;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1683,33 +1639,23 @@ VI. Validar las resoluciones asumidas en justicia restaurativa emitidas conforme
 
 VII. Instruir, sustanciar y decidir el procedimiento abreviado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 VIII. Calificar y asumir la decisión que corresponda en los casos de detención en flagrancia o urgencia, conforme a la ley aplicable;
 
 IX. Vigilar que se respeten los derechos constitucionales del inculpado y de la víctima u ofendido; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 X. Resolver en audiencia pública la solicitud de extinción de la acción penal derivada del procedimiento especial para los pueblos y comunidades indígenas a que se refiere el Código Nacional de Procedimientos Penales; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XI. Las demás que le asignen las leyes o reglamentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ACÁPITE, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO SU ACÁPITE, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Atribuciones del tribunal de enjuiciamiento
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1717,45 +1663,31 @@ Atribuciones del tribunal de enjuiciamiento
 
 Son atribuciones de los jueces del tribunal de enjuiciamiento:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 I. Integrar el tribunal de enjuiciamiento, para el que fueron designados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 II. Presenciar el desahogo de la audiencia del juicio oral desde el momento en que se declare legalmente instalado el tribunal, hasta aquél en que declare cerrados los debates y se proceda a la fase de pronunciamiento del fallo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 III. Determinar si se considera o no probada la culpabilidad del inculpado y, en su caso, la determinación de la sanción aplicable;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 IV. Emitir su voto respecto al sentido de la sentencia, la naturaleza y magnitud de la punición;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 V. Estar presentes en la audiencia en la que sean leídos los puntos resolutivos de la sentencia y dicha resolución sea explicada por el presidente del tribunal de enjuiciamiento, si el juicio se instruyó en términos de la Ley del Proceso Penal para el Estado de Guanajuato; si se tramitó conforme a las disposiciones del Código Nacional de Procedimientos Penales, será el juez designado como relator quien comunique el fallo respectivo y lo redacte;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 VI. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 VII. Las demás que le asignen las leyes o reglamentos.
 
 Atribuciones del presidente del tribunal del juicio oral
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1795,13 +1727,9 @@ XV. Leer los resolutivos y explicar la sentencia en la audiencia respectiva;
 
 XVI. Instruir los recursos que se promuevan en contra de la sentencia pronunciada en la audiencia del juicio oral; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XVII. Resolver las objeciones que se formulen durante el desahogo de las pruebas; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2137,8 +2065,6 @@ II. Secretario de juzgado menor;
 
 III. Secretario de juzgado de partido o encargado de sala en el sistema penal acusatorio y oral;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 IV. Secretario de sala o Jefe de Unidad de causa y gestión;
@@ -2289,8 +2215,6 @@ VII. En el caso de que ninguno de los aspirantes obtuviera calificación aprobat
 
 VIII. De todo lo anterior se levantará acta y el presidente del jurado declarará quien o quienes hayan resultado aprobados y se procederá a la realización de los trámites respectivos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ACÁPITE, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO SU ACÁPITE, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Prueba práctica para jueces de partido, jefes de unidad de causa y gestión, y encargados de sala del sistema penal acusatorio y oral
@@ -2298,8 +2222,6 @@ Prueba práctica para jueces de partido, jefes de unidad de causa y gestión, y 
 ###### Artículo 152.
 
 Tratándose de jueces de partido para el sistema penal acusatorio y oral, la prueba práctica consistirá en simulacros de tres audiencias, entre las que podrán incluirse las de vinculación a proceso, apertura del juicio oral o de debate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2361,7 +2283,7 @@ Licencias de magistrados
 
 ###### Artículo 159.
 
-A los magistrados podrán concederse licencias DE MÁS DE SEIS MESES por causa de enfermedad. El titular del Poder Ejecutivo o el Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación, someterá la licencia a la aprobación del Congreso del Estado.r
+A los magistrados podrán concederse licencias DE MÁS DE SEIS MESES por causa de enfermedad. El titular del Poder Ejecutivo o el Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación, someterá la licencia a la aprobación del Congreso del Estado.
 
 Consecuencia por inasistencia a laborar al término de la licencia
 
@@ -2405,13 +2327,9 @@ IV. Las de los secretarios de los juzgados, por el secretario interino que desig
 
 V. Las de los servidores públicos de las áreas administrativas del Poder Judicial, por quien designe el Consejo del Poder Judicial; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 VI. Las de los jefes de unidad de causa y gestión, y encargados de sala del sistema penal acusatorio y oral, por quien designe el Consejo del Poder Judicial a propuesta del Coordinador General del Sistema de Gestión, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2598,8 +2516,6 @@ VI. Dar seguimiento a las determinaciones del Consejo del Poder Judicial derivad
 VII. Informar al Consejo del Poder Judicial del cumplimiento de sus determinaciones en los asuntos derivados de las visitas;
 
 VIII. Abstenerse de emitir juicios de aprobación o reprobación sobre el resultado de la visita ante personas distintas de las que integran el Consejo del Poder Judicial;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2951,8 +2867,6 @@ Integración
 
 El fondo auxiliar para impartición de justicia se integra con:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 I. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 II. Las multas impuestas por las salas y por los jueces, en los términos del artículo 51 del Código Penal del Estado de Guanajuato, 56 y 60 del Código de Procedimientos Civiles para el Estado de Guanajuato, 42 de la Ley de Justicia para Adolescentes del Estado de Guanajuato y 40 y 42 del Código de Procedimientos Penales para el Estado de Guanajuato y con las que imponga el Pleno del Supremo Tribunal de Justicia o el Consejo del Poder Judicial;
@@ -2960,8 +2874,6 @@ II. Las multas impuestas por las salas y por los jueces, en los términos del ar
 III. Los rendimientos que se generen por las inversiones de los depósitos en dinero o valores del propio fondo; y
 
 IV. Los rendimientos provenientes de cantidades depositadas por los particulares por cualquier causa ante los tribunales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3081,7 +2993,9 @@ Son faltas administrativas de los servidores públicos del Poder Judicial del Es
 
 I. Incumplir con las funciones y obligaciones que legalmente les competan;
 
-II. Concurrir a sus labores bajo el efecto de bebidas alcohólicas o narcóticos, o consumirlos durante la jornada laboral;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+II. Concurrir a sus labores bajo el efecto de bebidas alcohólicas o consumirlas dentro del centro de trabajo o durante la jornada laboral;
 
 III. Alterar o modificar las constancias de las actuaciones una vez publicado el acuerdo, o debidamente concluida la diligencia de que se trate;
 
@@ -3089,7 +3003,9 @@ IV. Asignar a los servidores públicos del Poder Judicial, labores o actividades
 
 V. Inasistir injustificadamente al desempeño de sus labores o incumplir con el horario reglamentario de trabajo;
 
-VI. Consumir o autorizar el consumo de alimentos durante el horario laborable en el área de trabajo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Concurrir a sus labores bajo el efecto de narcóticos o consumirlos durante la jornada laboral, salvo prescripción médica;
 
 VII. Rendir informes escritos, levantar actas o asentar certificaciones, con datos de los que se tenga conocimiento que son alterados o falsos;
 
@@ -3651,8 +3567,6 @@ Supletoriedad
 
 Será aplicable supletoriamente el Código de Procedimientos Civiles para el Estado de Guanajuato, en la tramitación del recurso administrativo de revisión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 TÍTULO DECIMOSEGUNDO
@@ -3723,13 +3637,9 @@ Toda excitativa de justicia se promoverá por escrito y se despachará o denegar
 
 La falta del informe que se menciona en este artículo, implica la presunción de ser cierto el acto que se atribuye a la autoridad en contra de la cual se promueve la excitativa, salvo prueba en contrario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ### Capítulo III. Queja prevista por el artículo 135 del Código Nacional de Procedimientos Penales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3740,8 +3650,6 @@ Interposición de la queja
 La queja prevista por el artículo 135 del Código Nacional de Procedimientos Penales deberá presentarse por escrito en cualquier momento posterior a aquél en que se produjo la omisión que la motiva, señalando el acto procesal omitido y, en su caso, el plazo establecido en la ley para emitirlo y la fecha a partir de la cual empezó a transcurrir el plazo inobservado.
 
 La queja podrá interponerse ante el órgano jurisdiccional de primera instancia omiso o directamente ante el Consejo del Poder Judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3755,8 +3663,6 @@ Transcurrido el plazo para la rendición del informe, con éste o sin él, el Co
 
 En ningún caso, el Consejo podrá ordenar al Órgano jurisdiccional los términos y condiciones en que deberá subsanarse la omisión, debiéndose limitar su resolución a que se realice el acto omitido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Trámite de la queja presentada ante el órgano jurisdiccional omiso
@@ -3767,23 +3673,17 @@ Si la queja se presenta ante el órgano jurisdiccional omiso, éste tendrá un p
 
 El Consejo del Poder Judicial resolverá dentro del plazo de cuarenta y ocho horas si la omisión se ha verificado. En ese caso, el Consejo procederá en la forma señalada en la parte final del artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 TÍTULO DECIMOTERCERO
 
 INDEMNIZACIÓN EN CASO DE RECONOCIMIENTO DE INOCENCIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ### Capítulo Único
 
 De la indemnización en caso de reconocimiento de inocencia a que se refiere el Código Nacional de Procedimientos Penales y de revisión de sentencia a que se refiere la Ley del Proceso Penal para el Estado de Guanajuato y el Código de Procedimientos Penales para el Estado de Guanajuato
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3796,8 +3696,6 @@ El sentenciado en cuyo favor se dicte el reconocimiento de inocencia o la revisi
 La multa pagada injustamente será devuelta con actualización.
 
 En su resolución, la sala deberá establecer la conducta que hubiere propiciado el error judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3817,8 +3715,6 @@ La indemnización se calculará con base en el promedio diario de los ingresos p
 
 Para los efectos de la determinación de la indemnización, se computará el tiempo que, el que tiene derecho a la indemnización, haya sido sujeto a una medida restrictiva o privativa de la libertad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Titular de la obligación indemnizatoria
@@ -3826,8 +3722,6 @@ Titular de la obligación indemnizatoria
 ###### Artículo 284.
 
 Corresponde al Poder Judicial del Estado la obligación de indemnizar al sentenciado, con independencia del derecho a repetir en contra de quien intencionalmente haya provocado el error judicial o haya incurrido negligentemente en él.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3996,3 +3890,9 @@ P.O. 20 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 298, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 335, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y VI DEL ARTÍCULO 214 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
