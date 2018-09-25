@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2018-08-02"
+last_updated: "2018-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -111,9 +111,9 @@ El Gobierno del Estado está obligado a prestar y promover servicios educativos 
 
 La educación que imparta el Estado de Jalisco, sus municipios y sus Organismos Descentralizados, así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3º de la Constitución Federal y en la Ley General de Educación, los siguientes:
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-I.- Contribuir al desarrollo integral del ser humano, promoviendo los valores éticos-sociales y la cultura de la igualdad y equidad de género, así como la prevención, detección, atención, sanción y erradicación para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, todo ello con la participación activa de los educandos, padres de familia y docentes, estimulando su iniciativa y un alto sentido de responsabilidad social;
+I.- Contribuir al desarrollo integral del ser humano, promoviendo los valores éticos-sociales y la cultura de la igualdad y equidad de género, así como la prevención, detección, atención, sanción y erradicación de la violencia y el acoso escolar, para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, todo ello con la participación activa de los educandos, padres de familia y docentes, estimulando su iniciativa y un alto sentido de responsabilidad social;
 
 II.- Fomentar la adquisición de conocimientos científicos y culturales, el desarrollo de la capacidad de aprendizaje, el interés y metodología de la investigación y la reflexión crítica;
 
@@ -2495,23 +2495,25 @@ La violencia y el acoso escolar serán considerados como indisciplinas, sobre la
 
 Para efectos de este título, se entiende por violencia o acoso escolar, el hostigamiento e intimidación entre estudiantes, y se referirá a la acción de violencia sistemática, física, verbal, psicológica, sexual escrita, por señales o tocamientos, generada entre estudiantes.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 176.
 
 El acoso escolar se puede presentar de las siguientes formas:
 
-I. Físico: empujones, golpes o lesiones;
+I. Físico directo: toda acción intencional que causa un daño corporal como; empujones, golpes o lesiones;
 
-II. Verbal: insultos y menosprecio que se realice por un estudiante a otro, de manera pública o privada;
+II. Físico indirecto: toda acción que ocasiona un menoscabo, daño parcial o total en las pertenencias de los estudiantes;
 
-III. Psicológico: persecución, intimidación, sometimiento, chantaje, manipulación o amenazas, incluidas las gesticulaciones y obscenidades mediante señas, miradas o expresiones corporales;
+III. Verbal: acciones violentas realizadas por un estudiante en contra de otro, de manera pública o privada que se manifiestan a través del uso del lenguaje, como los insultos, menosprecio o humillaciones;
 
-IV. Exclusión social: el estudiante víctima es notoriamente excluido y aislado de la convivencia escolar;
+IV. Psicológico: acción dirigida a desvalorar, intimidar o controlar las acciones, comportamientos y decisiones de la víctima. Consistente en prohibiciones, coacciones, persecución, condicionamientos, sometimiento, manipulación, amenaza, indiferencia, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, incluidas las gesticulaciones y obscenidades mediante señas, miradas o expresiones corporales;
 
-V. Sexual: podrá manifestarse mediante comentarios de índole sexual, ya sea de forma verbal o escrita, miradas o señas que denoten obscenidad, tocamientos, hostigamiento, acoso o abuso de orden sexual, y
+V. Exclusión social: el estudiante víctima es notoriamente excluido y aislado de la convivencia escolar;
 
-VI. Cibernético: por medios electrónicos como Internet, páginas web, redes sociales, blogs, correo electrónico, mensajes de teléfono celular o videograbaciones.
+VI. Sexual: podrá manifestarse mediante comentarios de índole sexual, ya sea de forma verbal o escrita, Miradas o señas que denoten obscenidad, tocamientos, hostigamiento, acoso o abuso de orden sexual. El uso denigrante de la imagen de los estudiantes que pongan en riesgo o lesionen la libertad, seguridad, integridad y su desarrollo psicosexual; y
+
+VII. Cibernético: se puede presentar mediante el uso de cualquier medio electrónico con acceso a Internet, páginas web, redes sociales, blogs, correo electrónico, mensajes de teléfono celular, mensajes de texto o videograbaciones enviados por cualquier medio o aplicación tecnológica.
 
 > <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
 
@@ -2535,11 +2537,11 @@ La autoridad educativa tiene la obligación de derivar hacia un especialista los
 
 Cuando por el tipo o la gravedad del hecho constitutivo de violencia escolar no se logre armonizar la relación entre el generador del acoso y la víctima, se buscará trasladar al primero a otro centro escolar.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 179.
 
-Cuando el presunto acosador tenga entre doce años cumplidos y menos de dieciocho años de edad y la conducta que se le atribuya o compruebe esté tipificada como delito en las leyes estatales, se procederá conforme a lo dispuesto por la Ley de Justicia para Adolescentes del Estado de Jalisco.
+Cuando el presunto acosador tenga entre doce años cumplidos y menos de dieciocho años de edad y la conducta que se le atribuya o compruebe esté tipificada como delito en las leyes estatales, se procederá conforme a lo dispuesto por la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -3988,3 +3990,9 @@ P.O. 2 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 26850/LXI/18 QUE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco.”
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 26855/LXI/18 QUE REFORMA LOS ARTÍCULOS 7, 176 FRACCIONES I, III, IV, VI, Y VII, Y 179 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
