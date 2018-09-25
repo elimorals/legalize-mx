@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2018-08-15"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1305,9 +1305,9 @@ XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos H
 
 XLIX.- Expedir leyes que establezcan la concurrencia del Estado y de los Municipios en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, cumpliendo con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y de las leyes que de ella emanen y de los tratados internacionales de la materia de los que México sea parte;
 
-(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-L.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
+L.- Expedir todas las leyes con perspectiva de género, logrando la transversalidad e institucionalizar acciones y políticas públicas en su diseño, ejecución y evaluación del estado con perspectiva de género.
 
 #### SECCION VI. DE LA DIPUTACION PERMANENTE
 
@@ -4224,3 +4224,11 @@ B.O. 15 DE AGOSTO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2561 SE ADICIONA UNA FRACCIÓN L DEL ARTÍCULO 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
