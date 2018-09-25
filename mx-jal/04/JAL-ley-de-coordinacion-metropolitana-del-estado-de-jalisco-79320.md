@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-metropolitana-del-estado-de-jalisco-79320"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2018-01-11"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 3 de febrero de 2011.
 
@@ -247,9 +247,9 @@ a) El análisis histórico y prospectivo de la creación de infraestructura urba
 
 b) El análisis histórico y prospectivo del crecimiento urbano en cada municipio y de la existencia de áreas de reserva actuales y la posibilidad de constituirlas en el futuro, y
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-c) El análisis histórico y prospectivo de la creación, contenido y modificación de los planes de centro (sic) de población y planes parciales de urbanización existentes en cada municipio.
+c) El análisis histórico y prospectivo de la creación, contenido y modificación de los planes de centro de población y planes parciales de desarrollo urbano existentes en cada municipio; y
 
 III. Para el caso del área metropolitana, un análisis de los servicios públicos de los municipios que la integrarán, que contenga:
 
@@ -375,9 +375,9 @@ V. La conformación de un Sistema Integral de Desarrollo metropolitano urbano, a
 
 Modificaciones a la declaratoria.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-1. La declaratoria de área o región metropolitana puede modificarse para incluir total o parcialmente algún municipio en el caso de un área metropolitana, o algún centro de población en el caso de una región metropolitana, a través de decreto del Congreso del Estado, a petición del municipio interesado o del titular del Poder Ejecutivo del Estado, mismo que se enviará como justificación al Congreso de Jalisco para modificación o emisión de decreto.
+1. La declaratoria de área o región metropolitana puede modificarse para incluir o reducir total o parcialmente algún municipio en el caso de un área metropolitana, o algún centro de población en el caso de una región metropolitana, a través de decreto del Congreso del Estado, a petición del municipio interesado o del titular del Poder Ejecutivo del Estado.
 
 2. La aprobación por parte del Congreso del Estado sobre la inclusión total o parcial de un municipio en el caso del área metropolitana, o de un centro de población en el caso de una región metropolitana, requiere mayoría relativa.
 
@@ -1078,3 +1078,9 @@ PRIMERO. El presente decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. En un plazo no mayor a ciento ochenta días a partir de la entrada en vigor del presente decreto deberán modificarse los Estatutos Orgánicos, convenios, y demás disposiciones de las Instancias de Coordinación Metropolitana a que se refiere este decreto.
 
 TERCERO. Las disposiciones señaladas en el párrafo sexto del artículo 176, serán aplicables a las obras urbanísticas que se realicen con posterioridad a la entrada en vigor del presente decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26931/LXI/18 QUE REFORMA LOS ARTÍCULOS 10 Y 16 DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
