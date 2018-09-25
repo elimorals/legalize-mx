@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2018-07-14"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -551,7 +551,9 @@ XI. Suspensión de derechos, oficio o profesión;
 
 XII. Inhabilitación temporal para manejar vehículos, motores o maquinaria;
 
-XIII. Destitución o suspensión de funciones o empleos públicos;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Suspensión, destitución e inhabilitación de funciones, cargos o empleos públicos;
 
 XIV. Publicación especial de sentencia;
 
@@ -2477,13 +2479,13 @@ I. Todo servidor público que, para usos propios o ajenos, distraiga de su objet
 
 II. Cualquier persona que sin tener el carácter de servidor público y estando obligada a la custodia, administración o aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-Si el monto de lo distraído no excede del equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización, se le impondrá al responsable una pena de tres meses a seis años de prisión y multa por el importe de veinte a cien veces el valor diario de la Unidad de Medida y Actualización.
+Si el monto de lo distraído no excede del equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización, se le impondrá al responsable una pena de tres meses a seis años de prisión; multa por el importe de veinte a cien veces el valor diario de la Unidad de Medida y Actualización; e inhabilitación para ejercer cualquier cargo público de uno a tres años.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-Si excede el monto a que se refiere el párrafo anterior, se impondrá al responsable de dos a doce años de prisión y multa hasta por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+Si excede el monto a que se refiere el párrafo anterior, se impondrá al responsable de dos a doce años de prisión; multa hasta por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización; e inhabilitación para ejercer cualquier cargo público de uno a tres años.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -6482,3 +6484,9 @@ P.O. 14 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26841/LXI/18 QUE REFORMA EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26925/LXI/18 QUE REFORMA LOS ARTÍCULOS 28 Y 148 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
