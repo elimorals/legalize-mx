@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2018-03-28"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -156,6 +158,10 @@ En el caso de extinción de dominio, la ley establecerá un procedimiento jurisd
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 VII. La libertad de trabajar y disponer de los productos del trabajo, de acuerdo con las prescripciones que establecen las leyes relativas.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+De conformidad a lo dispuesto por el artículo 123, apartado A, fracción XX de la Constitución Política de los Estados Unidos Mexicanos, la función conciliadora de las relaciones entre los patrones y los trabajadores estará a cargo del Centro de Conciliación Laboral del Estado de Nayarit, un organismo público descentralizado, el cual contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Se integrará de manera tripartita, por un Titular que será designado por el Congreso del Estado, el cual deberá contar con conocimientos en materia laboral, mediante una terna propuesta por el Gobernador del Estado; un representante del sector obrero; y un representante del sector patronal. El proceso de designación de dichos cargos se hará de conformidad a lo dispuesto en la ley de la materia.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -328,6 +334,10 @@ La etapa de juicio oral se celebrará ante un Juez o Tribunal que no haya conoci
 9.- Cualquier prueba obtenida con violación de derechos fundamentales será nula; y
 
 10.- Los principios previstos en este artículo, se observarán también en las audiencias preliminares al juicio.
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII.- Toda persona tiene derecho a que se le administre justicia por los juzgadores nombrados en términos de ley.
 
 ###### Art. 8.
 
@@ -849,9 +859,9 @@ VII. Aprobar las leyes de ingresos de los municipios, revisar y fiscalizar sus c
 
 VIII. Constituirse en Colegio Electoral para designar al gobernador provisional, interino o sustituto según lo establece esta Constitución; y convocar a elecciones ordinarias y extraordinarias en los términos previstos por la ley.
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Designar a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado, a los Magistrados Numerarios y Supernumerarios del Tribunal de Justicia Administrativa, al Fiscal General, al Fiscal Especializado en Materia de Delitos Electorales, al Fiscal Especializado en Combate a la Corrupción y al Secretario de Seguridad Pública, y ratificar al titular de la Secretaría del Poder Ejecutivo Estatal responsable del control interno con base en las propuestas que haga el Gobernador en los términos de esta Constitución y las leyes aplicables.
+IX. Designar a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado, a los Magistrados Numerarios y Supernumerarios del Tribunal de Justicia Administrativa, al Fiscal General, al Fiscal Especializado en Materia de Delitos Electorales, al Fiscal Especializado en Combate a la Corrupción y al Secretario de Seguridad Pública, al titular del Centro de Conciliación Laboral del Estado de Nayarit y ratificar al titular de la Secretaría del Poder Ejecutivo Estatal responsable del control interno con base en las propuestas que haga el Gobernador en los términos de esta Constitución y las leyes aplicables.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -1251,7 +1261,9 @@ XI.- (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 1998)
 
 XII.- Nombrar y remover libremente a los titulares de las dependencias señaladas en la Ley Orgánica del Poder Ejecutivo y a los demás servidores públicos cuyo nombramiento no esté encomendado a otras autoridades.
 
-Someter a la aprobación del Congreso, la designación del Fiscal General y del Secretario de Seguridad Pública.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+Someter a la aprobación del Congreso, la designación del Fiscal General, del Secretario de Seguridad Pública y del titular del Centro de Conciliación Laboral del Estado de Nayarit.
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)</small>
 
@@ -1433,9 +1445,9 @@ El Secretario General de Gobierno substituirá al Gobernador en las faltas no pr
 
 El ejercicio de la función jurisdiccional corresponde al Poder Judicial, en el ámbito de su competencia y se deposita en el Tribunal Superior de Justicia y en los Juzgados que la ley determine.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-El Tribunal Superior de Justicia, se integrará por nueve Magistrados Numerarios y funcionará en Pleno o en Salas, Colegiadas o Unitarias, en los términos que disponga la ley.
+El Tribunal Superior de Justicia, se integrará por trece Magistrados Numerarios y funcionará en Pleno o en Salas, Colegiadas o Unitarias.
 
 Se podrán nombrar hasta tres Magistrados Supernumerarios y durarán en su cargo 5 años.
 
@@ -1489,9 +1501,9 @@ I.- Garantizar la supremacía y tutela de la presente Constitución, interpretar
 
 II.- Garantizar y proteger los derechos fundamentales previstos en esta Constitución;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-III.- Resolver las controversias del orden civil, familiar, penal, de adolescentes del fuero común, y mercantil en jurisdicción concurrente;
+III.- Resolver las controversias del orden civil, familiar, penal, laboral de su competencia, de adolescentes del fuero común, y mercantil en jurisdicción concurrente;
 
 IV.- (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
@@ -1531,13 +1543,19 @@ Los Magistrados del Tribunal Superior de Justicia son inviolables por las opinio
 
 Los titulares de los Juzgados deberán satisfacer los requisitos que exija la ley; durarán en su encargo seis años, a cuyo vencimiento podrán ser ratificados, previa evaluación, en los términos que fije la ley, y si lo fueren, sólo podrán ser removidos de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+El nombramiento, adscripción, readscripción y remoción de jueces se hará atendiendo a los principios de especialización, idoneidad, experiencia, honorabilidad, equidad de género y no discriminación; con base a méritos y criterios objetivos y mediante los requisitos y procedimientos que para efecto establezca la Ley Orgánica del Poder Judicial para el Estado de Nayarit. Las decisiones del Consejo de la Judicatura dictadas en esa materia, podrán ser impugnadas ante el Pleno del Tribunal, el cual resolverá de manera definitiva e inatacable sin que proceda juicio o recurso alguno en contra de las mismas.
+
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 85.
 
 La planeación del desarrollo institucional, evaluación, administración, vigilancia, disciplina y carrera judicial, del Poder Judicial, estará a cargo del Consejo de la Judicatura en los términos que señale la ley, conforme a las siguientes bases:
 
-1.- Establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+1.- Establecerá las bases para el desarrollo de la carrera judicial a través de la fijación del catálogo de puestos, los procedimientos para el ingreso, permanencia y ascenso de los servidores públicos del Poder Judicial, así como su capacitación, especialización y actualización; la cual se regirá por los principios de excelencia, objetividad, imparcialidad, rectitud, probidad, profesionalismo e independencia.
 
 2.- Determinará el número, división, especialización por materia y competencia territorial de los Juzgados que la ley establezca.
 
@@ -1545,17 +1563,37 @@ La planeación del desarrollo institucional, evaluación, administración, vigil
 
 4.- Podrá expedir acuerdos para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley Orgánica del Poder Judicial.
 
-5.- El Consejo de la Judicatura, se integrará por el Pleno del Tribunal Superior de Justicia y dos jueces que se elegirán conforme a la Ley Orgánica del Poder Judicial, y será presidido por el Presidente del Tribunal.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+5.- El Consejo de la Judicatura se integrará por cinco miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia quien a su vez lo será del Consejo; un Magistrado electo por el Pleno del Tribunal Superior de Justicia, quien durará en su encargo dos años con posibilidad de relección hasta en una ocasión; un Juez de Primera Instancia electo por el Consejo de la Judicatura por un periodo de cuatro años, mediante procedimiento de insaculación y en sesión pública, de entre quienes se registren en la convocatoria; un Consejero nombrado por el Congreso del Estado a propuesta de la Comisión de Gobierno, mediante el voto de las dos terceras partes de los diputados presentes en la sesión; y un Consejero designado por el titular del Poder Ejecutivo Estatal.
+
+El procedimiento para la designación de los Consejeros mediante insaculación deberá atender en todo momento los principios de transparencia y máxima publicidad.
+
+Asimismo, contará con un Secretario Ejecutivo que será la instancia de coordinación de los órganos internos. Será nombrado por el propio Consejo para un periodo de cinco años, de entre el personal de carrera judicial, quien tendrá voz, pero no voto y percibirá una remuneración adecuada al ejercicio del cargo.
+
+Los Consejeros nombrados por los Poderes Legislativo y Ejecutivo, deberán reunir los mismos requisitos que para ser Magistrado, durarán en el cargo el tiempo que se encuentre en funciones la Legislatura o el Poder Ejecutivo que los designó y percibirán una remuneración igual a la de un Juez.
+
+A excepción de los Magistrados, el resto de Consejeros no podrán ser reelectos.
+
+El Presidente tendrá la facultad de convocar a las sesiones ordinarias o extraordinarias del Consejo; en caso de omisión, por acuerdo de la mayoría de los Consejeros se podrá realizar la convocatoria correspondiente.
+
+Las decisiones del Consejo se tomarán por mayoría de votos o unanimidad, en caso de empate el presidente tendrá voto de calidad.
+
+Toda obstrucción para el adecuado ejercicio del cargo de los Consejeros, será materia de responsabilidad en términos de ley.
 
 6.- En el ejercicio de las facultades a que se refiere el presente artículo, el Consejo de la Judicatura funcionará en Pleno o en Comisiones.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+El Pleno resolverá sobre la designación, adscripción, ratificación y remoción del personal jurisdiccional, así como de los demás asuntos que la Ley determine.
+
 7.- El Consejo Consultivo se integrará por cinco consejeros abogados de reconocido prestigio en el Estado, con carácter honorario, designados por el Tribunal Superior de Justicia y funcionará según lo disponga la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Art. 86.
 
-El Tribunal Superior de Justicia cada cuatro años, designará uno de sus miembros como Presidente, podrá ser reelecto, por única ocasión, para el periodo siguiente. En ningún caso la temporalidad al frente de la Presidencia podrá exceder al periodo para el que fue designado como magistrado.
+El Tribunal Superior de justicia cada año designará uno de sus miembros como Presidente, quien podrá ser reelecto hasta por tres ocasiones para el periodo siguiente. En ningún caso la temporalidad al frente de la Presidencia podrá exceder el periodo para el que fue designado como Magistrado.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -1799,7 +1837,7 @@ II. Tener cuando menos 35 años cumplidos al día de la designación;
 
 III. Poseer al día de la designación con antigüedad mínima de 10 años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente autorizada para ello;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación , abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
 V. Ser originario del Estado o haber residido en el durante los dos años anteriores al día de la designación, y
 
@@ -3969,10 +4007,64 @@ Tercero.- Para los efectos previstos por el artículo 131 de la Constitución Po
 
 P.O. 28 DE MARZO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT”.]
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- Para la designación de los Fiscales Especializados, el Congreso del Estado tendrá hasta ciento veinte días para iniciar el procedimiento de designación contados a partir de la entrada en vigor del presente Decreto.
 
 Tercero.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. En un plazo que no exceda de ciento ochenta días naturales posteriores a la publicación de las adecuaciones a las leyes secundarias del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en relación con lo establecido en el Decreto publicado en el Diario Oficial de la Federación el 24 de febrero de 2017, por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral, el Congreso del Estado deberá realizar las modificaciones legales necesarias para armonizar el marco jurídico local con la presente reforma.
+
+TERCERO. La presente reforma garantizará y respetará todos los derechos de los trabajadores conforme a la Ley.
+
+CUARTO. La función conciliatoria estará a cargo del Centro de Conciliación Laboral del Estado de Nayarit. Habrá de integrarse de manera tripartita, es decir, por un Titular que será designado por el Congreso del Estado, el cual deberá contar con conocimientos en materia laboral, mediante una terna propuesta por el Gobernador del Estado; un representante del sector obrero; y un representante del sector patronal.
+
+Dichos cargos serán determinados mediante el proceso que en su momento se establezca en los ordenamientos legales correspondientes.
+
+QUINTO. La designación del Titular del Centro de Conciliación Laboral del Estado de Nayarit, deberá realizarse antes del inicio del ejercicio fiscal posterior a la publicación de la presente reforma. Los representantes patronales y de los trabajadores serán designados por el Gobernador de entre las propuestas que surjan de un proceso de consulta a las organizaciones que agrupen a los sectores antes mencionados, posteriormente serán designados de conformidad a lo que establezca la legislación secundaria aplicable.
+
+SEXTO. El Centro de Conciliación tendrá su funcionamiento de manera regional, contando con oficinas en tres zonas del Estado.
+
+SÉPTIMO. El titular del Poder Ejecutivo del Estado garantizará las previsiones presupuestales necesarias que se generen con el presente Decreto.
+
+OCTAVO. La integración de trece Magistrados Numerarios del Tribunal Superior de Justicia del Poder Judicial del Estado de Nayarit, surtirá sus efectos a partir del 19 de diciembre del 2019.
+
+Los Magistrados que actualmente se encuentran en funciones seguirán en el cargo hasta la conclusión del periodo para el que fueron nombrados.
+
+NOVENO. Se dejarán sin efectos los artículos transitorios noveno, décimo, décimo primero del Decreto número 116 que reforma, adiciona y deroga diversos artículos de la Constitución Política del Estado Libre y Soberano de Nayarit, en materia Político-Electoral, publicado el 10 de junio del 2016 en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+DÉCIMO. El titular del Poder Ejecutivo del Estado, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, deberá designar al Consejero que formará parte del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.
+
+DÉCIMO PRIMERO. El Poder Legislativo del Estado, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, deberá designar en los términos del artículo 85, numeral 5 al Consejero que formará parte del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.
+
+DÉCIMO SEGUNDO. En un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, el Presidente del Consejo de la Judicatura deberá emitir la Convocatoria para la elección del Juez Consejero, cuyo proceso de insaculación se llevará a cabo una vez que se elija al Magistrado y a los Consejeros que integrarán el Consejo de la Judicatura y queden formalmente instalados en la sesión que se señale para tales efectos.
+
+En la sesión pública respectiva, los Consejeros acordarán la forma en la que se llevará a cabo el procedimiento de insaculación.
+
+DÉCIMO TERCERO. Una vez que sea designado el Juez Consejero, el Consejo de la Judicatura iniciará de inmediato sus funciones y procederá en un plazo no mayor a quince días naturales a designar al Secretario Ejecutivo.
+
+DÉCIMO CUARTO. En un plazo no mayor a noventa días naturales posteriores a la entrada en funciones del Consejo de la Judicatura, deberá integrarse la Comisión de Ética.
+
+DÉCIMO QUINTO. Los Consejeros que designe el titular del Poder Ejecutivo y el Poder Legislativo del Estado, no podrán comparecer como abogados postulantes durante el ejercicio de sus funciones, en cualquiera de las instancias de un proceso judicial.
+
+DÉCIMO SEXTO. La Ley Orgánica del Poder Judicial para el Estado de Nayarit, establecerá el funcionamiento de la Comisión de Ética y se integrará de la manera siguiente:
+
+I. Un Magistrado nombrado por el pleno del Tribunal Superior de Justicia, quien deberá ser diverso del Consejo de la Judicatura y durará en el cargo tres años;
+
+II. Los Consejeros designados por los Poderes Legislativo y Ejecutivo, quienes durarán en su encargo el tiempo que se encuentre en funciones la Legislatura y el Poder Ejecutivo que los designó;
+
+III. Un servidor público de carrera judicial electo por el pleno del Consejo de la Judicatura para un periodo de cuatro años, y
+
+IV. Un Licenciado en Derecho que destaque por su honorabilidad, quien será nombrado por el Consejo para un periodo de tres años, de entre las propuestas que presenten las instituciones de Educación Superior del Estado y los Colegios de Abogados, de conformidad con la convocatoria que para tal efecto se emita.
+
+DÉCIMO SÉPTIMO. El periodo de duración de un año de la presidencia del Tribunal Superior de Justicia y del Consejo de la Judicatura surtirá sus efectos a partir de la nueva elección de presidente a verificarse en septiembre del 2018, por lo que el actual Presidente permanecerá en el cargo por el lapso que fue designado.
+
+DÉCIMO OCTAVO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
