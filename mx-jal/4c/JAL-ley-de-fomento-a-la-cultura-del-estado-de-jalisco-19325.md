@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2017-07-25"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FOMENTO A LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
 
@@ -179,9 +181,11 @@ VII. Dictar los acuerdos administrativos necesarios para la eficaz coordinación
 
 VIII. Las demás que le otorgue la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 6.
 
-Sin menoscabo de las atribuciones previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, corresponde a la Secretaría lo siguiente:
+La Secretaría tiene las siguientes atribuciones:
 
 I. Ejecutar la política cultural del Estado;
 
@@ -231,9 +235,17 @@ XVI. Procurar, en coordinación con la Secretaría de Educación, el desarrollo 
 
 XVII. Presentar ante el titular del Poder Ejecutivo del Estado, los proyectos de reglamentos necesarios para el adecuado cumplimiento de la presente ley;
 
-XVIII. Diseñar y operar estrategias para impulsar la creación de mecenazgos, fundaciones, patronatos y similares orientados al apoyo de creadores e intérpretes artísticos y para la conformación de acervos bibliográficos, documentales pictóricos, escultóricos, arquitectónicos, gráficos, videográficos, artesanales y afines; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-XIX. Las demás que le otorguen los ordenamientos jurídicos aplicables.
+XVIII. Diseñar y operar estrategias para impulsar la creación de mecenazgos, fundaciones, patronatos y similares orientados al apoyo de creadores e intérpretes artísticos y para la conformación de acervos bibliográficos, documentales pictóricos, escultóricos, arquitectónicos, gráficos, videográficos, artesanales y afines;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Otorgar apoyos económicos para traslados nacionales e internacionales a la comunidad artística que resida en el Estado, conforme a la Ley de Austeridad y Ahorro del Estado de Jalisco y sus Municipios, en los términos de la convocatoria y las reglas de operación que emita la Secretaría de Cultura; y de acuerdo con la disponibilidad presupuestal; y
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Las demás que le otorguen otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -1118,3 +1130,9 @@ P.O. 25 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26382/LXI/17, QUE DEROGA EL ARTÍCULO 2° BIS Y SE REFORMAN LOS ARTÍCULOS 3°, 6° Y 21 DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26932/LXI/18 QUE REFORMA EL ARTÍCULO 6° DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el 01 de enero de 2019, previa su publicación en el periódico oficial “El Estado de Jalisco”.
