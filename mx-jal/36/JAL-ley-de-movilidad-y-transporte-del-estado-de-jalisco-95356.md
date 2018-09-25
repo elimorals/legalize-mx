@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2018-08-23"
+last_updated: "2018-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -337,6 +337,8 @@ c) Tener un ambiente de trabajo sano, adecuado, con planeación y organización 
 
 d) Los demás que se señalen en la presente ley, su Reglamento y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO] 25 DE SEPTIEMBRE DE 2018)</small>
+
 VI. Los usuarios del transporte público colectivo tendrán las siguientes obligaciones:
 
 a) No invadir los espacios designados como exclusivos para usuarios con alguna preferencia dentro del sistema de transporte público;
@@ -347,7 +349,9 @@ c) Obedecer las indicaciones que realicen los prestadores del servicio público 
 
 d) Acatar las disposiciones legales sobre la movilidad o tránsito, señaladas en el presente ordenamiento legal;
 
-e) En los vehículos de servicio público de pasajeros no deben llevar animales, con excepción de los perros guía, ni objetos que puedan atentar contra la integridad física de los usuarios. El equipaje deberá transportarse en la bodega, baúl o parrilla.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+e) En los vehículos de servicio público de pasajeros no deben llevar animales, con excepción de los perros de asistencia para personas con discapacidades o enfermedades, ni objetos que puedan atentar contra la integridad física de los usuarios. El equipaje deberá transportarse en la bodega, baúl o parrilla.
 
 VII. Los choferes del sistema de transporte público colectivo estarán obligados a:
 
@@ -4020,3 +4024,11 @@ Primero. El presente decreto entrará en vigor el día siguiente de su publicaci
 Segundo. La Secretaría y los municipios tendrán un plazo de 180 días hábiles, contados a partir de la entrada en vigor de este decreto, para adecuar sus reglamentos en los que podrán establecer zonas con regulación especial.
 
 Tercero. La Secretaría y los municipios, dentro de los 180 días hábiles siguientes contados a partir de la entrada en vigor de este decreto, elaborarán un mapa de fuentes generadoras de ruido, de acuerdo a lo dispuesto por la fracción XXIX del artículo 5 de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente.
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26935/LXI/18 QUE REFORMA EL ARTÍCULO 8° DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo del Estado deberá adecuar las disposiciones administrativas y reglamentarias necesarias para dar cumplimiento al presente decreto dentro de los noventa días siguientes al de su publicación.
