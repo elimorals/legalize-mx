@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-tecnologico-jose-mario-molina-116227
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-23"
-last_updated: "2016-08-23"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el número 17 de la Sección III, del Periódico Oficial del Estado de Jalisco el martes 23 de agosto de 2016.
 
@@ -459,6 +459,10 @@ Los estudios que imparte el Instituto comprenden programas educativos de licenci
 
 El Instituto podrá ofrecer también cursos de extensión académica, de lenguas extranjeras, de verano, así como cualquier otro tipo de modalidad que no tenga por objeto la obtención de un título profesional o un grado académico, durante los periodos ordinarios y extraordinarios, de acuerdo con el calendario oficial.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+Además el Instituto promoverá la formación de profesionistas comprometidos en el cuidado al medio ambiente y la acción ante el cambio climático.
+
 ###### Artículo 37.
 
 Los programas de licenciatura comprenden los estudios profesionales que se realizan después del bachillerato. Los programas de licenciatura tienen el propósito de dotar al estudiante de la formación ética y cultural, así como de las capacidades técnicas necesarias para prestar servicios útiles a la sociedad e insertarse en el mercado laboral.
@@ -876,3 +880,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26928/LXI/18 QUE REFORMA LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y ENRÍQUEZ Y LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
