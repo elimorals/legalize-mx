@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-virtual-del-estado-de-84272
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-27"
-last_updated: "2018-07-02"
+last_updated: "2018-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Estatuto publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de diciembre de 2011.
 
 Juan Manuel Oliva Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II, III y XXV, y 79 de la Constitución Política para el Estado de Guanajuato, así como por lo dispuesto por los artículos 2o. y 9o. de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -173,7 +175,9 @@ Participación de los Integrantes
 
 Tienen derecho a participar con voz y voto en las sesiones del Consejo todos sus integrantes o sus respectivos suplentes cuando los primeros no asistan.
 
-Los miembros del Consejo a que se refieren las fracciones IV y V del artículo 9 del Decreto de Creación, serán nombrados por el Gobernador a propuesta del Presidente del Consejo, durarán en su cargo 2 años y sólo podrán ser ratificados por otro periodo igual.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+Los miembros del Consejo a que se refieren las fracciones VI y VII del artículo 9 del Decreto de Creación, serán nombrados por el Gobernador a propuesta del Presidente del Consejo.
 
 Convocatoria de las sesiones
 
@@ -1778,3 +1782,15 @@ Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretar�
 Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
 
 Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 242, MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL DECRETO GUBERNATIVO NÚMERO 40, MEDIANTE EL CUAL SE CREA LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO; Y SE REFORMA EL ARTÍCULO 9 PÁRRAFO SEGUNDO DEL DECRETO GUBERNATIVO NÚMERO 193, MEDIANTE EL CUAL SE EXPIDE EL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Extensión de los efectos de nombramientos
+
+Artículo Segundo. Por única ocasión, acorde a lo estipulado en el presente Decreto Gubernativo, los nombramientos de los ciudadanos Presidente del Consejo Directivo y de los representantes de los sectores productivo y social del Estado, se amplían a cuatro años, contados a partir de la fecha de expedición de su último nombramiento.
