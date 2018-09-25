@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2018-01-25"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -142,13 +142,9 @@ I. De los ingresos federales.
 
 Se aplicarán los siguientes criterios y parámetros:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 1) Se garantizarán a los Municipios los recursos entregados en el año 2013 en los porcentajes correspondientes, y en los términos establecidos en la Ley de Coordinación Fiscal, salvo en el caso de la conformación de un nuevo Municipio; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -178,19 +174,17 @@ En el caso de que el Congreso del Estado apruebe la creación de nuevos municipi
 
 II. De los impuestos estatales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 Por los porcentajes descritos en el artículo 5° fracción VI, que se generen en cada jurisdicción.
 
 Los factores de participación que conforme a las bases anteriores resulten, se revisarán, modificarán y aprobarán anualmente por el Congreso del Estado. En tanto dichos factores no se actualicen, el Congreso del Estado autorizará que se sigan aplicando las que correspondan al año inmediato anterior, a cada municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 8°.
 
-Las participaciones serán cubiertas sin condicionamiento alguno y no podrán ser objeto de reducciones, salvo lo dispuesto por el artículo 9º de la Ley de Coordinación Fiscal Federal. Se calcularán para cada ejercicio fiscal y serán entregadas, por conducto de la Secretaría de Planeación, Administración y Finanzas directamente o a través de los mecanismos generales de distribución que la misma determine, el día 25 de cada mes o al día hábil siguiente en caso de ser inhábil. El Fondo de Fiscalización y Recaudación a que se refiere la fracción IX del artículo 5º de esta Ley, se distribuirá en forma trimestral a los Municipios, dentro de los cinco días siguientes a aquél en que el Estado lo reciba.
+Las participaciones serán cubiertas sin condicionamiento alguno y no podrán ser objeto de reducciones, salvo lo dispuesto por el artículo 9° de la Ley de Coordinación Fiscal Federal. Se calcularán para cada ejercicio fiscal y serán entregadas, por conducto de la Secretaría de Planeación, Administración y Finanzas directamente o a través de los mecanismos generales de distribución que la misma determine, dentro de los cinco días siguientes a aquél en que el Estado lo reciba; y/o en su caso, como lo establezcan las disposiciones federales aplicables. El Fondo de Fiscalización y Recaudación a que se refiere la fracción IX del artículo 5° de esta Ley, se distribuirá en forma mensual a los Municipios, dentro de los cinco días siguientes a aquél en que el Estado lo reciba; adicionalmente, de forma trimestral, se distribuirán los recursos resultantes de la diferencia entre el Fondo de Fiscalización del año 2013 y el Fondo de Fiscalización y Recaudación para el año en que se realiza el cálculo, según lo establecido en el artículo 10 de esta Ley.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -246,9 +240,13 @@ Los factores, indicadores, procedimientos, fórmulas y coeficientes utilizados p
 
 Las participaciones a favor de los municipios a que se refiere la fracción IX del artículo 5 de esta ley, correspondiente al Fondo de Fiscalización y Recaudación, se distribuirá entre el estado y los municipios en dos partes, de la siguiente forma:
 
-La primera parte, se distribuirá entre los municipios del Estado conforme al monto de la participación a este fondo que recibieron cada uno de ellos del Fondo de Coordinación en Derechos del año 2007, garantizándoles los mismos recursos que recibieron en el mismo ejercicio, salvo en el caso de la conformación de uno nuevo.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-La segunda parte, que corresponde a la diferencia entre el Fondo de Coordinación en Derechos del año 2007 y el fondo de Fiscalización y Recaudación para el año en que se realiza el cálculo, se distribuirá en un 80% para el estado y un 20% para los municipios.
+La primera parte, se distribuirá entre los municipios del Estado conforme al monto de la participación a este fondo que recibieron cada uno de ellos del Fondo de Fiscalización del año 2013, garantizándoles los mismos recursos que recibieron en dicho ejercicio, salvo en el caso de la conformación de un nuevo municipio.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+La segunda parte, que corresponde a la diferencia entre el Fondo de Fiscalización del año 2013 y el Fondo de Fiscalización y Recaudación para el año en que se realiza el cálculo, se distribuirá en un 80% para el Estado y un 20% para los municipios.
 
 Del total del porcentaje correspondiente a los municipios se distribuirá de la siguiente manera:
 
@@ -595,3 +593,9 @@ P.O. 25 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26737/LXI/18 QUE REFORMA LOS ARTÍCULOS 1º Y 23 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26930/LXI/18 QUE REFORMA LOS ARTÍCULOS 8° Y 10 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
