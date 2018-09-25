@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-92907"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2016-10-11"
+last_updated: "2018-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco el miércoles 27 de febrero de 2013.
 
@@ -1017,7 +1017,9 @@ V. Vigilar y verificar el cumplimiento de las obligaciones patronales en materia
 
 VI. Vigilar e inspeccionar el cumplimiento de la normativa laboral en el Estado, en el ámbito de su competencia;
 
-VII. Vigilar que no exista discriminación laboral por cualquier motivo, por parte de patrones o empleadores, promoviendo entre estos últimos la equidad y la no discriminación tanto en la oferta de empleos como en la estabilidad, remuneración y desarrollo laboral, así como vigilar la observancia de tales principios al interior de la propia Secretaría;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Vigilar que no exista discriminación laboral por cualquier motivo, por parte de patrones o empleadores, promoviendo entre estos últimos la igualdad y la no discriminación tanto en la oferta de empleos como en la estabilidad, remuneración y desarrollo laboral;
 
 VIII. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo del Estado;
 
@@ -1035,7 +1037,13 @@ XIV. En el ámbito de su competencia, realizar investigaciones tendientes a veri
 
 XV. Realizar las funciones de inspección de jurisdicción estatal y vigilar el cumplimiento de las normas laborales en todos los rubros, y
 
-XVI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Presentar un informe anual de los resultados de las actividades que para abatir la desigualdad laboral en materia de género se han llevado a cabo en el Estado, que incluya las necesidades y desafíos identificados en la materia, al instituto Jalisciense de las Mujeres, la Comisión Estatal de Derechos Humanos y el Congreso del Estado de Jalisco; y
+
+> <small>(REFORMADA, [N. DE E. REUBICADA] P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 26.
 
@@ -2084,3 +2092,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Poder Ejecutivo y los ayuntamientos del Estado, deberán actualizar sus planes y programas en la materia dentro de los 90 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26929/LXI/18 QUE REFORMA LOS ARTÍCULOS 45 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y 7° DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+PRIMERO (SIC). El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
