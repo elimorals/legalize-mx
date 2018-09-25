@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-las-personas-101406
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-16"
-last_updated: "2014-06-16"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101406&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-12-19"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES
 
+> <small>[N. DE E. EL ACUERDO EXPEDIDO POR LA SECRETARIA DE BIENESTAR, PUBLICADO LA PRIMERA SECCIÓN DEL D.O.F. DE 16 DE AGOSTO DE 2019, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de junio de 2014.
 
@@ -31,9 +33,11 @@ ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 1.
 
-El Instituto Nacional de las Personas Adultas Mayores es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines con domicilio legal en la Ciudad de México, Distrito Federal, rector de la política nacional a favor de las personas adultas mayores.
+El Instituto Nacional de las Personas Adultas Mayores es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines con domicilio legal en la Ciudad de México, rector de la política nacional a favor de las personas adultas mayores.
 
 ###### Artículo 2.
 
@@ -117,7 +121,9 @@ XXI. Establecer convenios de coordinación con los gobiernos estatales, con la p
 
 XXII. Celebrar convenios, acuerdos y todo tipo de actos jurídicos que sean necesarios para el cumplimiento de su objeto;
 
-XXIII. Promover la coordinación de acciones y programas que realicen otras dependencias y entidades de la Administración Pública Federal, de los gobiernos estatales y municipales y del Distrito Federal, que tengan como destinatarios a los adultos mayores, buscando con ello optimizar la utilización de los recursos materiales y humanos y evitar la duplicidad de acciones;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII. Promover la coordinación de acciones y programas que realicen otras dependencias y entidades de la Administración Pública Federal, de los gobiernos estatales y municipales, que tengan como destinatarios a los adultos mayores, buscando con ello optimizar la utilización de los recursos materiales y humanos y evitar la duplicidad de acciones;
 
 XXIV. Establecer reuniones con instituciones afines, nacionales e internacionales, para intercambiar experiencias que permitan orientar las acciones y programas en busca de nuevas alternativas de atención;
 
@@ -131,6 +137,10 @@ XXVIII. Elaborar y proponer al titular del Poder Ejecutivo Federal los proyectos
 
 XXIX. Expedir su Estatuto Orgánico, por conducto del Consejo Directivo.
 
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XXX. Crear un registro único obligatorio de todas las instituciones públicas y privadas de casas hogar, albergues, residencias de día o cualquier centro de atención a las personas adultas mayores.
+
 ###### Artículo 6.
 
 El patrimonio del Instituto se integrará con:
@@ -143,7 +153,9 @@ III. Las aportaciones voluntarias, donaciones, herencias o legados que reciba de
 
 IV. Los ingresos que obtenga por las actividades que realice, conforme a las disposiciones legales aplicables;
 
-V. Las aportaciones de los gobiernos de las entidades federativas y ayuntamientos, así como del Distrito Federal, por la prestación de los servicios a su cargo, y
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+V. Las aportaciones de los gobiernos de las entidades federativas y ayuntamientos, por la prestación de los servicios a su cargo, y
 
 VI. Los demás bienes, recursos y derechos que adquiera por cualquier título, de conformidad con las disposiciones jurídicas aplicables.
 
@@ -171,7 +183,7 @@ El “Consejo Directivo” es el órgano máximo de gobierno del Instituto y res
 
 ###### Artículo 10.
 
-El “Consejo Directivo” estará integrado por los titulares de las siguientes dependencias y entidades de la Administración Pública Federal:
+El "Consejo Directivo" estará integrado por los titulares de las siguientes dependencias y entidades de la Administración Pública Federal:
 
 I. Secretaría de Desarrollo Social, quien fungirá como Presidente.
 
@@ -193,11 +205,15 @@ IX. Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 X. Secretaria de Comunicaciones y Transportes
 
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Secretaría de Cultura.
+
 Los representantes propietarios designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director General.
 
-El cargo de miembro del “Consejo Directivo” será honorífico.
+El cargo de miembro del "Consejo Directivo" será honorífico.
 
-Al “Consejo Directivo” le corresponde nombrar y remover, a propuesta de su Presidente, entre personas ajenas al Instituto, al Secretario Técnico y al Prosecretario, quienes podrán o no ser miembros del mismo.
+Al "Consejo Directivo" le corresponde nombrar y remover, a propuesta de su Presidente, entre personas ajenas al Instituto, al Secretario Técnico y al Prosecretario, quienes podrán o no ser miembros del mismo.
 
 El Prosecretario suplirá durante las ausencias temporales al Secretario Técnico;
 
@@ -207,7 +223,7 @@ Dichos representantes tendrán derecho a voz y voto. La convocatoria será formu
 
 Se podrá invitar también, con la aprobación de la mayoría de sus asistentes, a los representantes de otras dependencias e instituciones públicas federales, estatales o municipales, los que tendrán derecho a voz y no a voto en la sesión o sesiones correspondientes.
 
-El Director General del Instituto asistirá a las sesiones del “Consejo Directivo” con voz, pero sin voto.
+El Director General del Instituto asistirá a las sesiones del "Consejo Directivo" con voz, pero sin voto.
 
 ###### Artículo 11.
 
@@ -359,23 +375,65 @@ g) de Planeación, Sistemas y Evaluación;
 
 h) de Comunicación Social;
 
-III. Coordinaciones Regionales
-
-a) Norte;
-
-b) Centro;
-
-c) Sur, y
+III. (DEROGADA CON SUS INCISOS, D.O.F. 25 DE SEPTIEMBRE DE 2018)
 
 IV. Delegaciones Estatales.
 
-Asimismo, podrá contar con los demás servidores públicos administrativos, operativos y técnicos que requiera para el cumplimiento de su objeto, de acuerdo con el manual de organización y de procedimientos del Instituto.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 19.
 
 La Dirección General dispondrá de asesoría y de personal técnico y administrativo que requiera para la atención de los asuntos de su competencia, conforme a los presupuestos y tabuladores aprobados.
 
 Asimismo, designará un Secretario Particular y un Secretario Ejecutivo, quienes desempeñarán las funciones que les encomiende.
+
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 20.
+
+El Instituto podrá contar con los demás servidores públicos administrativos, operativos y técnicos que requiera para el cumplimiento de su objeto, de acuerdo con el manual de organización y de procedimientos.
+
+###### Artículo 21.
+
+Corresponde a los Directores de Área, las facultades y obligaciones genéricas siguientes:
+
+I. Observar y hacer cumplir, en el ámbito de sus respectivas competencias, la Ley Federal de las Entidades Paraestatales, el Reglamento de dicha ley, la Ley del Instituto, el Estatuto y demás disposiciones jurídicas aplicables;
+
+II. Proponer, planear, programar y coordinar las funciones encomendadas a la unidad administrativa a su cargo, observando las normas y políticas generales que rigen al Instituto;
+
+III. Suscribir los documentos relativos al ejercicio de sus facultades y los que les correspondan por suplencia;
+
+IV. Participar en el desarrollo y evaluación de la estructura programática-presupuestal del Instituto;
+
+V. Planear, elaborar y proponer el programa interno de trabajo de la unidad administrativa a su cargo y someterlo a la consideración del Director General para su autorización, así como informar periódicamente a éste sobre los avances del mismo;
+
+VI. Planear, elaborar y proponer al Director General los lineamientos, procedimientos e instrumentos operativos que les permitan sustentar técnicamente el desarrollo de las funciones y programas de sus respectivas competencias, así como sus correspondientes indicadores de gestión;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Acordar con el Director General los asuntos a cargo de sus unidades administrativas, coordinar sus actividades con las demás áreas del Instituto y, cuando corresponda, con otras dependencias y entidades de los tres órdenes de gobierno;
+
+VIII. Desempeñar las comisiones que el Director General les encomiende e informarle sobre el desarrollo y resultado de las mismas;
+
+IX. Planear y formular los proyectos de programas y presupuestos que les correspondan y cumplirlos una vez que sean autorizados;
+
+X. Proponer al Director General el ingreso, promoción, licencia y remoción del personal a su cargo;
+
+XI. Representar al Instituto en los actos jurídicos-administrativos de sus respectivas competencias, siempre y cuando cuenten con las facultades legalmente otorgadas;
+
+XII. Formular y proponer los dictámenes, opiniones, estudios e informes que le sean solicitados por el Director General o por autoridad competente;
+
+XIII. Proponer y realizar estudios, proyectos para el cumplimiento del objeto del Instituto;
+
+XIV. Solventar legal y oportunamente las observaciones de las auditorías que se practiquen en las áreas a su cargo;
+
+XV. Hacer del conocimiento del órgano interno de control en el Instituto, las quejas, denuncias e inconformidades que le sean presentadas por servidores públicos, personas o grupos sociales;
+
+XVI. Participar en las comisiones, comités y subcomités que les encomiende el "Consejo Directivo" o el Director General;
+
+XVII. Participar en las comisiones y subcomisiones que le encomiende el Director General o el Consejo Ciudadano, y
+
+XVIII. Las demás que les confieran la Ley del Instituto, el "Consejo Directivo", el presente Estatuto o el Director General.
 
 ###### Artículo 22.
 
@@ -427,13 +485,17 @@ IX. Hacer del conocimiento de las autoridades competentes, de las anomalías que
 
 X. Analizar, organizar, actualizar, evaluar y difundir la información sobre los adultos mayores, relativa a los diagnósticos, programas, instrumentos, mecanismos y presupuestos, que estarán para su consulta y que se coordinarán con el Instituto Nacional de Estadística, Geografía e Informática (INEGI) y Consejo Nacional de Población (CONAPO);
 
-XI. Coordinar con la Dirección de Programas Estatales, las acciones y programas que realicen otras dependencias y entidades de la Administración Pública Federal, de los gobiernos estatales y municipales y del Distrito Federal, que tengan como destinatarios a los adultos mayores, buscando con ello optimizar la utilización de los recursos materiales y humanos y evitar la duplicidad de acciones;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
 
-XII. Coordinar, inspeccionar, supervisar, certificar, acreditar, visitar, verificar, vigilar y controlar con la Dirección de Programas Estatales, el funcionamiento, capacitación de su personal, modelo de atención y condiciones de la calidad de vida de las instituciones públicas y privadas que se dediquen a la atención de las personas adultas mayores, en cualesquiera de sus modalidades de albergues, asilos, casas de reposo, residencias de día, casas hogar o cualquier otro centro de atención de los adultos mayores, que se encuentren bajo la administración en los gobiernos federal, estatales y municipales, así como del Distrito Federal, de conformidad con las Normas Oficiales Mexicanas, Normas Mexicanas, Normas Técnicas y los reglamentos que se expidan para este efecto;
+XI. Coordinar con la Dirección de Programas Estatales, las acciones y programas que realicen otras dependencias y entidades de la Administración Pública Federal, de los gobiernos estatales y municipales, que tengan como destinatarios a los adultos mayores, buscando con ello optimizar la utilización de los recursos materiales y humanos y evitar la duplicidad de acciones;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Coordinar, inspeccionar, supervisar, certificar, acreditar, visitar, verificar, vigilar y controlar con la Dirección de Programas Estatales, el funcionamiento, capacitación de su personal, modelo de atención y condiciones de la calidad de vida de las instituciones públicas y privadas que se dediquen a la atención de las personas adultas mayores, en cualesquiera de sus modalidades de albergues, asilos, casas de reposo, residencias de día, casas hogar o cualquier otro centro de atención de los adultos mayores, que se encuentren bajo la administración en los gobiernos federal, estatales y municipales, de conformidad con las Normas Oficiales Mexicanas, Normas Mexicanas, Normas Técnicas y los reglamentos que se expidan para este efecto;
 
 XIII. El incumplimiento a la disposición contenida en la fracción anterior será sancionado administrativamente por la Secretaría de Salud y por el Instituto, conforme a sus atribuciones, de conformidad con la Ley Federal del Procedimiento Administrativo y por las autoridades locales, según lo previsto en las leyes estatales correspondientes;
 
-XIV. Denunciar ante las autoridades competentes la violación de las disposiciones a que se refiere la fracción XII de este artículo, como resultado de la inspección, supervisión y vigilancia del funcionamiento de las instituciones públicas y privadas que se dediquen a la atención de las personas adultas mayores, en coordinación con la Subdirección Jurídica, y (sic)
+XIV. Denunciar ante las autoridades competentes la violación de las disposiciones a que se refiere la fracción XII de este artículo, como resultado de la inspección, supervisión y vigilancia del funcionamiento de las instituciones públicas y privadas que se dediquen a la atención de las personas adultas mayores, en coordinación con la Subdirección Jurídica, y
 
 XV. Coordinar, participar, controlar y vigilar que se cumplan los objetivos de los programas nacionales de Salud para los adultos mayores;
 
@@ -477,25 +539,37 @@ V. Compilar, registrar y difundir en coordinación con la Subdirección de Conce
 
 VI. Elaborar y difundir, con el apoyo de las áreas respectivas las bases, normas, políticas y lineamientos institucionales necesarios para la correcta aplicación de los programas a nivel nacional, así como para el adecuado manejo de los recursos humanos, materiales y financieros con los que cuenten las delegaciones estatales;
 
-VII. Coordinar y asesorar a las coordinaciones regionales que integran la Dirección en el desempeño de sus funciones para asegurar el buen desarrollo e implementación de los programas y recursos institucionales;
+VII. (DEROGADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)
 
 VIII. Promover y coordinar la capacitación y asesoría para el personal del Instituto que trabaje en el ámbito gerontológico en el interior de la República;
 
-IX. Dirigir permanentemente a las coordinaciones a su cargo en el establecimiento o modificación de programas o proyectos regionales y en el manejo de problemas o conflictos que se presenten;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
 
-X. Difundir en las coordinaciones regionales y delegaciones estatales información que reciba la Dirección de Programas Estatales con respecto a temas gerontológicos, así como elaborar material impreso que contribuya a brindar o ampliar la capacitación del personal de las delegaciones estatales;
+IX. Dirigir permanentemente a las delegaciones estatales en el establecimiento o modificación de programas o proyectos regionales y en el manejo de problemas o conflictos que se presenten;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+X. Difundir en las delegaciones estatales información que reciba la Dirección de Programas Estatales con respecto a temas gerontológicos, así como elaborar material impreso que contribuya a brindar o ampliar la capacitación del personal de las delegaciones estatales;
 
 XI. Llevar el control y registro de los clubes de la tercera edad en el interior de la República Mexicana, elaborando un directorio nacional de éstos;
 
-XII. Coordinar la integración de la información estadística sobre las actividades que se realicen en las diferentes coordinaciones regionales y delegaciones estatales;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
 
-XIII. Organizar, registrar e integrar la información sobre las actividades que se realicen en las diferentes coordinaciones regionales y delegaciones estatales, y canalizar las más importantes a la Subdirección de Comunicación Social para su difusión en los diferentes medios impresos;
+XII. Coordinar la integración de la información estadística sobre las actividades que se realicen en las diferentes delegaciones estatales;
 
-XIV. Compilar y concentrar la información en general sobre temas gerontológicos que se generen en la Dirección de Programas Estatales, en las coordinaciones regionales y en las delegaciones estatales, con el fin de integrar el centro de documentación del área y archivo histórico del Instituto;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Organizar, registrar e integrar la información sobre las actividades que se realicen en las diferentes delegaciones estatales, y canalizar las más importantes a la Subdirección de Comunicación Social para su difusión en los diferentes medios impresos;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Compilar y concentrar la información en general sobre temas gerontológicos que se generen en la Dirección de Programas Estatales con el fin de integrar el centro de documentación del área y archivo histórico del Instituto;
 
 XV. Planear y coordinar reuniones nacionales y estatales para proporcionar mayores herramientas, técnicas de trabajo y actualización en la aplicación de los programas institucionales;
 
-XVI. Comunicar a las áreas internas del Instituto correspondientes los requerimientos de las coordinaciones regionales y delegaciones estatales, con el fin de proporcionarles los recursos necesarios para el desarrollo de sus funciones;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Comunicar a las áreas internas del Instituto correspondientes los requerimientos de las delegaciones estatales, con el fin de proporcionarles los recursos necesarios para el desarrollo de sus funciones;
 
 XVII. Planear y coordinar con la Dirección de Atención Geriátrica, el programa de recreación física y deporte fomentando la educación física, el deporte adaptado, la cultura cívica y otras alternativas de acción, así como establecer los criterios y lineamientos para la reglamentación y desarrollo de estas actividades en beneficio de la salud integral de las personas adultas mayores;
 
@@ -513,7 +587,9 @@ XXIII. Definir los programas tendientes a motivar y facilitar la afiliación de 
 
 XXIV. Evaluar la efectividad y eficiencia en los trámites y procedimientos para la expedición de credenciales de afiliación;
 
-XXV. Coordinar con las Delegaciones Estatales en el interior de la República y en el Distrito Federal, de la obtención de donativos o cuotas de recuperación por expedición de credenciales de afiliación y del directorio de beneficios, informando de éstos a la Dirección de Administración y Finanzas de manera óptima y transparente;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XXV. Coordinar con las Delegaciones Estatales en el interior de la República, de la obtención de donativos o cuotas de recuperación por expedición de credenciales de afiliación y del directorio de beneficios, informando de éstos a la Dirección de Administración y Finanzas de manera óptima y transparente;
 
 XXVI. Vigilar en coordinación con las Delegaciones Estatales, que se cumplan los objetivos de afiliación a nivel nacional;
 
@@ -551,7 +627,9 @@ LXII. Promover la inclusión de consideraciones, criterios y previsiones sobre l
 
 LXIII. Controlar, vigilar y supervisar la obtención de donativos o cuotas de recuperación por expedición de credenciales de afiliación y del directorio de beneficios para las personas adultas mayores afiliadas al Instituto de manera óptima y transparente, entregándolos a la Dirección de Administración y Finanzas, a través de la Subdirección de Presupuesto y Contabilidad para su registro contable;
 
-LXIV. Definir junto con el Departamento de Afiliación y Estadística las normas y procedimientos para la afiliación de los adultos mayores en las entidades federativas y en el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+LXIV. Definir junto con el Departamento de Afiliación y Estadística las normas y procedimientos para la afiliación de los adultos mayores en las entidades;
 
 LXV. Establecer metas, determinar estrategias y evaluar resultados de los programas de afiliación en el interior del país en coordinación con la Dirección de Programas Estatales, y
 
@@ -599,9 +677,13 @@ XVI. Expedir copias certificadas de todos los documentos y constancias que obren
 
 XVII. Suscribir oficios, escritos y todas las promociones que exija el trámite procesal de los juicios, incluyendo el de amparo, cuando por ausencia del Director General, la firma de los mismos sea urgente;
 
-XVIII. Rendir los informes que le sean requeridos por la Comisión Nacional de Derechos Humanos, respecto de las quejas presentadas en contra del Director General del Instituto, sus unidades administrativas, operativas, coordinaciones regionales y sus delegaciones estatales, o de cualquier otro servidor público del Instituto;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
 
-XIX. Emitir los lineamientos a los que se sujetará la elaboración y autorización, en su caso, de los formatos e instrumentos para la celebración de acuerdos, convenios y contratos con las entidades federativas, municipios, dependencias y entidades de la Administración Pública Federal, estatales y municipales y el Distrito Federal, así como con los sectores social y privado, en las materias objeto del Instituto, así como en la formulación del proyecto de dictamen de procedencia jurídica de las convocatorias y bases de licitación que realicen las unidades administrativas del Instituto;
+XVIII. Rendir los informes que le sean requeridos por la Comisión Nacional de Derechos Humanos, respecto de las quejas presentadas en contra del Director General del Instituto, sus unidades administrativas, operativas, las delegaciones estatales, o de cualquier otro servidor público del Instituto;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Emitir los lineamientos a los que se sujetará la elaboración y autorización, en su caso, de los formatos e instrumentos para la celebración de acuerdos, convenios y contratos con las entidades federativas, municipios, dependencias y entidades de la Administración Pública Federal, estatales y municipales, así como con los sectores social y privado, en las materias objeto del Instituto, así como en la formulación del proyecto de dictamen de procedencia jurídica de las convocatorias y bases de licitación que realicen las unidades administrativas del Instituto;
 
 XX. Emitir los lineamientos a los que se sujetará la elaboración del proyecto de dictamen y, en su caso, de autorización, para el otorgamiento, adquisición, celebración, revocación, terminación, rescisión o modificación, según corresponda, de los convenios, contratos, autorizaciones, permisos y licencias en materias objeto del Instituto;
 
@@ -629,7 +711,9 @@ XXX. Las demás que determine el presente Estatuto y las que le encomiende el Di
 
 Corresponde a la Subdirección de Certificación y Supervisión, las facultades siguientes:
 
-I. Inspeccionar, supervisar, certificar, acreditar, verificar, vigilar y controlar en coordinación con la Dirección de Programas Estatales, el funcionamiento de las instituciones públicas y privadas que se dediquen a la atención de las personas adultas mayores, en cualquiera de sus modalidades de albergues, asilos, casas de reposo, residencias de día, casas hogar o cualquier otro centro de atención de los adultos mayores, que se encuentren bajo la administración en los tres órdenes de Gobierno Federal, Estatal y Municipal, así como del Distrito Federal, de conformidad con las normas oficiales mexicanas, normas mexicanas, normas técnicas y los reglamentos que se expidan para este efecto;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+I. Inspeccionar, supervisar, certificar, acreditar, verificar, vigilar y controlar en coordinación con la Dirección de Programas Estatales, el funcionamiento de las instituciones públicas y privadas que se dediquen a la atención de las personas adultas mayores, en cualquiera de sus modalidades de albergues, asilos, casas de reposo, residencias de día, casas hogar o cualquier otro centro de atención de los adultos mayores, que se encuentren bajo la administración en los tres órdenes de Gobierno Federal, Estatal y Municipal, de conformidad con las normas oficiales mexicanas, normas mexicanas, normas técnicas y los reglamentos que se expidan para este efecto;
 
 II. Coordinar, implementar y supervisar las normas nacionales e internacionales para proporcionar los servicios de geriatría a las personas adultas mayores;
 
@@ -667,11 +751,15 @@ II. Proponer y desarrollar estrategias para celebrar convenios con prestadores d
 
 III. Coordinar con la Dirección de Programas Estatales que los convenios de coordinación celebrados con los gobiernos de las entidades federativas se sujeten a las estrategias diseñadas por esta Subdirección y con los lineamientos que emita la Subdirección Jurídica;
 
-IV. Elaborar por lo menos una vez al año un directorio de beneficios para las personas adultas mayores afiliadas al Instituto en la zona metropolitana, en las coordinaciones Norte, Centro y Sur, así como en las delegaciones estatales;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Elaborar por lo menos una vez al año un directorio de beneficios para las personas adultas mayores afiliadas al Instituto;
 
 V. Coordinar que todos los directorios del país sean uniformes en forma y contenido, respetando los lineamientos sectoriales de comunicación social;
 
-VI. Proponer, definir y elaborar planes para generar ingresos adicionales a través de donaciones voluntarias o cuotas de recuperación en la entrega del directorio de beneficios en el Distrito Federal y en el interior de la República;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Proponer, definir y elaborar planes para generar ingresos adicionales a través de donaciones voluntarias o cuotas de recuperación en la entrega del directorio de beneficios en el interior de la República;
 
 VII. Establecer procedimientos, sistemas y controles para el ingreso y manejo de donativos en dinero o en especie, así como de cuotas de recuperación, siguiendo las normas de control establecidas, informando al Director de Administración y Finanzas y a la Subdirección de Presupuesto y Contabilidad para su control y registro contable;
 
@@ -853,49 +941,7 @@ XII. Las que le encomiende el Director General.
 
 ###### Artículo 34.
 
-Corresponde a las coordinaciones Norte, Centro y Sur, las facultades siguientes:
-
-I. Proporcionar la capacitación, asesoría y elementos técnicos a las delegaciones estatales de la región correspondiente, para la ejecución de los programas;
-
-II. Difundir en las delegaciones estatales las normas y políticas establecidas en el manual de funcionamiento y normatividad, para la ejecución de las actividades que contemplen los programas del Instituto;
-
-III. Llevar a cabo visitas periódicas de apoyo, supervisión y evaluación a las delegaciones estatales de la zona geográfica correspondiente para difundir la misión, objetivos, políticas y programas de la institución, así como supervisar las acciones realizadas;
-
-IV. Vigilar en el ámbito de su competencia que las delegaciones estatales cumplan con las normas, políticas y lineamientos establecidos por la Dirección de Programas Estatales;
-
-V. Ser el enlace permanente entre la Dirección de Programas Estatales y las delegaciones estatales;
-
-VI. Recabar los informes de actividades de las delegaciones estatales y que correspondan a cada región;
-
-VII. Integrar el informe de contactos, universo de personas y servicios mensual, trimestral, semestral y anual de la zona;
-
-VIII. Promover y coordinar cursos de capacitación para el personal foráneo que labora en las coordinaciones;
-
-IX. Promover y coordinar encuentros regionales con los delegados estatales de la zona;
-
-X. Supervisar y llevar un registro de los servicios que se proporcionen en los clubes de la tercera edad de la zona geográfica correspondiente;
-
-XI. Planear, regular y vigilar las acciones de las diferentes delegaciones estatales de la zona;
-
-XII. Mantener informada a la Dirección de Programas Estatales de las actividades desarrolladas en la zona geográfica de su competencia, así como sobre problemáticas o conflictos que se presenten;
-
-XIII. Evaluar los resultados obtenidos en los programas y el avance de las metas alcanzadas por las coordinaciones del Instituto en el interior de la República Mexicana;
-
-XIV. Efectuar juntas periódicas con las delegaciones estatales, así como proporcionarles la información, capacitación y documentación necesaria sobre nuevos programas o proyectos;
-
-XV. Elaborar el programa anual de actividades y necesidades de las coordinaciones regional;
-
-XVI. Promover y apoyar en los eventos de carácter nacional que organiza el Instituto;
-
-XVII. Registrar y dar seguimiento a los avances y desarrollo de los convenios de coordinación y colaboración que suscriba el Instituto en el interior de la República, para dar continuidad al trabajo coordinado que lleven a cabo las delegaciones estatales verificando el cumplimiento de los acuerdos establecidos;
-
-XVIII. Ser el enlace y dar trámite y seguimiento ante las áreas del Instituto a los asuntos de carácter administrativo de las delegaciones estatales de la región, para control de los recursos con los que cuentan éstas y apoyo al personal foráneo;
-
-XIX. Brindar la capacitación, asesoría y normatividad a los nuevos delegados estatales sobre el adecuado uso y manejo de los recursos con que cuenta;
-
-XX. Vigilar y supervisar el apego o cumplimiento de los lineamientos y normatividad establecida para el manejo de los recursos humanos, financieros y materiales con los que cuentan las delegaciones estatales de la región y remitir los informes respectivos del manejo de éstos a la Dirección de Programas Estatales, y
-
-XXI. Las que le encomiende el Director General o el Director de Area de su adscripción.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 35.
 
@@ -1021,43 +1067,7 @@ A propuesta de su presidente, podrá reunirse en cualquier tiempo en sesión ext
 
 ### CAPITULO QUINTO. DE LAS DIRECCIONES DE AREA
 
-Artículo 21 (SIC).- Corresponde a los Directores de Area, las facultades y obligaciones genéricas siguientes:
-
-I. Observar y hacer cumplir, en el ámbito de sus respectivas competencias, la Ley Federal de las Entidades Paraestatales, el Reglamento de dicha ley, la Ley del Instituto, el Estatuto y demás disposiciones jurídicas aplicables;
-
-II. Proponer, planear, programar y coordinar las funciones encomendadas a la unidad administrativa a su cargo, observando las normas y políticas generales que rigen al Instituto;
-
-III. Suscribir los documentos relativos al ejercicio de sus facultades y los que les correspondan por suplencia;
-
-IV. Participar en el desarrollo y evaluación de la estructura programática-presupuestal del Instituto;
-
-V. Planear, elaborar y proponer el programa interno de trabajo de la unidad administrativa a su cargo y someterlo a la consideración del Director General para su autorización, así como informar periódicamente a éste sobre los avances del mismo;
-
-VI. Planear, elaborar y proponer al Director General los lineamientos, procedimientos e instrumentos operativos que les permitan sustentar técnicamente el desarrollo de las funciones y programas de sus respectivas competencias, así como sus correspondientes indicadores de gestión;
-
-VII. Acordar con el Director General los asuntos a cargo de sus unidades administrativas, coordinar sus actividades con las demás áreas del Instituto y, cuando corresponda, con otras dependencias y entidades de los tres órdenes de gobierno y el Distrito Federal;
-
-VIII. Desempeñar las comisiones que el Director General les encomiende e informarle sobre el desarrollo y resultado de las mismas;
-
-IX. Planear y formular los proyectos de programas y presupuestos que les correspondan y cumplirlos una vez que sean autorizados;
-
-X. Proponer al Director General el ingreso, promoción, licencia y remoción del personal a su cargo;
-
-XI. Representar al Instituto en los actos jurídicos-administrativos de sus respectivas competencias, siempre y cuando cuenten con las facultades legalmente otorgadas;
-
-XII. Formular y proponer los dictámenes, opiniones, estudios e informes que le sean solicitados por el Director General o por autoridad competente;
-
-XIII. Proponer y realizar estudios, proyectos para el cumplimiento del objeto del Instituto;
-
-XIV. Solventar legal y oportunamente las observaciones de las auditorías que se practiquen en las áreas a su cargo;
-
-XV. Hacer del conocimiento del órgano interno de control en el Instituto, las quejas, denuncias e inconformidades que le sean presentadas por servidores públicos, personas o grupos sociales;
-
-XVI. Participar en las comisiones, comités y subcomités que les encomiende el “Consejo Directivo” o el Director General;
-
-XVII. Participar en las comisiones y subcomisiones que le encomiende el Director General o el Consejo Ciudadano, y
-
-XVIII. Las demás que les confieran la Ley del Instituto, el “Consejo Directivo”, el presente Estatuto o el Director General.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 42.
 
@@ -1155,21 +1165,25 @@ VI. Las demás que determine el Consejo Ciudadano.
 
 ### CAPITULO NOVENO. DEL ORGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 48.
 
-El Instituto contará, asimismo, con un Organo Interno de Control al frente del cual existirá una titular.
+El Instituto contará, asimismo, con un Órgano Interno de Control al frente del cual existirá un titular. El Titular del Órgano Interno de Control, en el ejercicio de sus facultades, se auxiliará de los siguientes Titulares:
 
-El Titular del Organo Interno de Control, en el ejercicio de sus facultades, se auxiliará de dos Titulares:
+1) Titular del Área de Responsabilidades
 
-1) Titular del Area de Responsabilidades y Titular del Area de Quejas; y
+2) Titular del Área de Quejas; y
 
-2) Titular de Area de Auditoría Interna y Titular de Auditoría para el Desarrollo y Mejora de la Gestión Pública.
+3) Titular del Área de Auditoría Interna y Titular del Área de Auditoría para el Desarrollo y Mejora de la Gestión Pública.
 
-Los servidores públicos a los que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por los artículos 79 y 80 del Reglamento Interior de la Secretaría de la Función Pública.
+Los servidores públicos a los que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables y conforme a lo previsto por los artículos 98 y 99 del Reglamento Interior de la Secretaría de la Función Pública.
+
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 49.
 
-Las ausencias de la/el Titular del Organo Interno de Control, así como la de los dos Titulares de Responsabilidades y Quejas y de Auditoría Interna y Auditoría para Desarrollo y Mejora de la Gestión Pública, serán suplidas conforme a lo previsto en el artículo 88 segundo y tercer párrafo del Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias de la persona que funja como Titular del Órgano Interno de Control, así como la de los Titulares de Responsabilidades, Quejas y de Auditoría Interna y Auditoría para Desarrollo y Mejora de la Gestión Pública, serán suplidas conforme a lo previsto en el artículo 104 segundo y tercer párrafo del Reglamento Interior de la Secretaría de la Función Pública.
 
 ### CAPITULO DECIMO. DEL ORGANO DE VIGILANCIA
 
@@ -1210,3 +1224,15 @@ México, Distrito Federal, a diecinueve de diciembre de dos mil trece, la suscri
 “Con fundamento en lo dispuesto en el artículo 58 fracción VIII de la Ley Federal de las Entidades Paraestatales, este Honorable Consejo Directivo aprueba el Estatuto Orgánico del Instituto Nacional de las Personas Adultas Mayores, e instruye a la Directora General de la Entidad para que continúe con el proceso de inscripción ante el Registro Público de Organismos Descentralizados y su respectiva publicación en el Diario Oficial de la Federación, cumpliendo con la normatividad aplicable".
 
 La presente certificación se expide para los efectos legales a que haya lugar.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES”.]
+
+PRIMERO.- La presente modificación al Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Instituto deberá adecuar su estructura orgánica y sus normas administrativas a lo dispuesto en el presente acuerdo. En tanto no se efectúe la adecuación normativa a que se refiere este precepto, se continuará aplicando aquellas vigentes antes de su entrada en vigor en lo que no se opongan.
+
+TERCERO.- Se deroga cualquier disposición que se oponga al contenido del presente Estatuto.
