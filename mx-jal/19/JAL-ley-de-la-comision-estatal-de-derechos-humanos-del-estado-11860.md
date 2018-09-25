@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2015-11-12"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -153,7 +153,9 @@ IV. Formular propuestas de conciliación buscando la amigable composición entre
 
 V. Proponer las políticas estatales en materia de derechos humanos a través de pronunciamientos, así como diseñar y establecer los mecanismos de coordinación entre la Comisión, las dependencias de gobierno y la sociedad civil que aseguren su adecuada observancia y ejecución;
 
-VI. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+VI. La observancia del seguimiento, evaluación y monitoreo, en materia de igualdad entre hombres y mujeres;
 
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -1504,3 +1506,9 @@ OCTAVO. La Fiscalía General del Estado y los cuerpos de seguridad púbica (sic)
 P.O. 12 DE NOVIEMBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26929/LXI/18 QUE REFORMA LOS ARTÍCULOS 45 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y 7° DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
