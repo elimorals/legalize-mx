@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-colegio-de-educacion-profesional-tecnica-10752
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-04-25"
-last_updated: "2016-05-17"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -427,6 +427,12 @@ Los Órganos Colegiados del Colegio serán los que se integren y funcionen de co
 
 El Comité de Vinculación Estatal estará integrado por representantes de los sectores productivos, público, social y privado, y tendrá a su cargo el asesorar al Director General en la supervisión de los servicios que prestan los planteles, así como la vinculación con el sector productivo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando se trate de planteles ubicados en regiones con vocación productiva rural, el Comité estimulará la formación académica y las actividades de extensión tendientes a promover la sustentabilidad y rentabilidad del campo, al desarrollo de capacidades de la población rural y la producción agroalimentaria.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
 En cada plantel se constituirá un Comité de Vinculación que funcionará como mecanismo propositivo, que permita la participación de la comunidad y de los sectores productivos, público, social y privado, en sus actividades. Estos comités funcionarán en los términos del Reglamento de dicho órgano.
 
 ###### Artículo 29.
@@ -588,5 +594,11 @@ ROBERTO LÓPEZ LARA
 P.O. 17 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25825/LXI/16 QUE REFORMA LOS ARTÍCULOS 6° DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7° DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE; 7° DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3° DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4° DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4° DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6° DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8° Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26928/LXI/18 QUE REFORMA LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y ENRÍQUEZ Y LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
