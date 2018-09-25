@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2017-06-22"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -101,9 +101,9 @@ IV. Sistema Nacional: Es la integración y coordinación de esfuerzos entre el E
 
 V. Sistema Estatal: Coordinación de esfuerzos que realiza el Gobierno del Estado de Baja California Sur para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-VI. VIOLENCIA CONTRA MUJERES: Cualquier acción u omisión, basada en su género, tanto en el ámbito privado como en el público, que impida ejercer cualquiera de sus derechos, que les cause daño, sufrimiento psicológico, físico, patrimonial, económico, sexual, o la muerte.
+VI. VIOLENCIA CONTRA MUJERES: Cualquier acción u omisión, basada en su género, tanto en el ámbito privado como en el público, que impida ejercer cualquiera de sus derechos, que les cause daño, sufrimiento psicológico, físico, patrimonial, económico, sexual, obstétrico o la muerte.
 
 VII. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos en los que se presenta la violencia contra las mujeres;
 
@@ -165,6 +165,10 @@ VII. Violencia de Género.- Es el conjunto de amenazas, agravios, maltrato, lesi
 
 VIII. Violencia Política.- Comprende todas aquellas acciones y omisiones -incluida la tolerancia- que, basadas en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público, inhibir su participación en campañas políticas, restringir el ejercicio de un cargo público, o provocarla a tomar decisiones en contra de su voluntad o de la ley; y
 
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+VIII BIS.- VIOLENCIA OBSTÉTRICA.- Es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre o cause la muerte a la mujer durante el embarazo, parto y puerperio, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en ésta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, así como obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer; y
+
 > <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
 IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
@@ -173,11 +177,11 @@ IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañ
 
 #### SECCIÓN PRIMERA. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 5.
+###### ARTÍCULO 5°.
 
-Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo; mantengan o hayan mantenido una relación de hecho.
+Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual y obstétrica a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo; mantengan o hayan mantenido una relación de hecho.
 
 > <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -283,7 +287,7 @@ V. Diseñar programas que aseguren la igualdad salarial entre mujeres y hombres 
 
 Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
-A fin de prevenir, sancionar y erradicar la violencia institucional, los tres poderes del gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones que correspondan en materia administrativa y proporcionarán la capacitación que requieran sus servidores públicos, a fin de que en ejercicio de sus funciones estos sean capaces de asegurar el derecho de las mujeres a una vida libre de violencia. Asimismo promoverán las acciones conducentes para sancionar las conductas violentas ejercidas por servidores públicos y reparar el daño inflingido a las afectadas, de conformidad con lo dispuesto por las normas jurídicas aplicables.
+A fin de prevenir, sancionar y erradicar la violencia institucional, los tres poderes del gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones que correspondan en materia administrativa y proporcionarán la capacitación que requieran sus servidores públicos, a fin de que en ejercicio de sus funciones estos sean capaces de asegurar el derecho de las mujeres a una vida libre de violencia. Asimismo promoverán las acciones conducentes para sancionar las conductas violentas ejercidas por servidores públicos y reparar el daño inflingido (sic) a las afectadas, de conformidad con lo dispuesto por las normas jurídicas aplicables.
 
 #### SECCIÓN CUARTA. VIOLENCIA EN LA COMUNIDAD
 
@@ -577,7 +581,7 @@ XII. Recibir de la sociedad civil organizada las propuestas en materia de esta l
 
 XIII. Programar y proveer de recursos humanos y materiales para la ejecución de los programas que fortalezcan las áreas de procuración y administración de justicia para mujeres víctimas de violencia;
 
-XIV. Difundir por todos los medios de comunicación el contenido de esta Ley, en español, en lectura Braile así como las principales lenguas indígenas que se hablan en el Estado;
+XIV. Difundir por todos los medios de comunicación el contenido de esta Ley, en español, en lectura Braile (sic) así como las principales lenguas indígenas que se hablan en el Estado;
 
 XV. Realizar un diagnóstico estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres que lleven a cabo las dependencias y entidades de la administración pública estatal y municipal;
 
@@ -1362,3 +1366,9 @@ B.O. 22 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2443 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2562 SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 3, SE ADICIONA UNA FRACCIÓN VIII BIS AL ARTÍCULO 4° Y SE REFORMA EL ARTÍCULO 5° TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
