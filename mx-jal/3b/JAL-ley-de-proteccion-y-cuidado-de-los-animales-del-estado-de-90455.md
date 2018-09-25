@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-cuidado-de-los-animales-del-estado-de-90455
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-29"
-last_updated: "2018-09-13"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 29 de noviembre de 2012.
 
@@ -85,13 +85,17 @@ VIII. Secretaría: Secretaría de Salud;
 
 IX. Médico: médico veterinario zootecnista titulado con cédula profesional vigente;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-X. Consejo: Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco; y
+X. Consejo: Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-XI. Circo: Espectáculo artístico generalmente itinerante en el que se presentan diversos artistas en un edificio o recinto cubierto o no por una carpa, con gradería para los espectadores, conformado por una o varias pistas.
+XI. Circo: Espectáculo artístico generalmente itinerante en el que se presentan diversos artistas en un edificio o recinto cubierto o no por una carpa, con gradería para los espectadores, conformado por una o varias pistas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Albergues de animales domésticos: centros privados y públicos destinados para el refugio o la custodia de animales.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -123,13 +127,17 @@ II. La promoción de información y difusión que genere una cultura cívica de 
 
 III. Promover la colocación de animales que se utilicen en espectáculos circenses dentro (sic) lugares apropiados para su debida preservación y conservación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Presentar denuncias ante la Procuraduría Federal de Protección al Ambiente cuando detecte violaciones a las leyes federales de la materia; y
+IV. Presentar denuncias ante la Procuraduría Federal de Protección al Ambiente cuando detecte violaciones a las leyes federales de la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-V. Las demás que le confieran esta ley y demás ordenamientos jurídicos aplicables.
+V. Elaborar y proponer al titular del Poder Ejecutivo del Estado la norma técnica estatal que establezca las especificaciones para la instalación y operación de Albergues de Animales Domésticos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Las demás que le confieran esta ley y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 5.
 
@@ -217,7 +225,9 @@ VI. Intervenir, en los casos de crueldad en contra de animales, en el rescate de
 
 VII. Proceder al sacrificio humanitario de los animales en los términos de la presente ley;
 
-VIII. Autorizar e inspeccionar lo relativo a la cría, venta de animales y sus productos, atención médica, albergues, adiestramiento, así como cualquier otra actividad o establecimiento relacionados con el apoyo, uso o aprovechamiento de los animales;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Autorizar e inspeccionar lo relativo a la cría, venta de animales y sus productos, atención médica, adiestramiento, así como cualquier otra actividad o establecimiento relacionados con el apoyo, uso o aprovechamiento de los animales;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2018)</small>
 
@@ -235,13 +245,21 @@ XII. Controlar la formación de poblaciones federales (sic) mediante estrategias
 
 XIII. La autoridad municipal competente, deberá asegurar que en el otorgamiento de licencia o permiso para la instalación de circos, se acredite que no exhiban o utilicen ningún animal para la ejecución del espectáculo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-XIV. Presentar denuncias ante la Procuraduría Federal de Protección al Ambiente cuando detecte violaciones a las leyes federales de la materia; y
+XIV. Presentar denuncias ante la Procuraduría Federal de Protección al Ambiente cuando detecte violaciones a las leyes federales de la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-XV. Las demás que por disposición legal le correspondan.
+XV. Autorizar la instalación y operación de albergues de animales domésticos, previa verificación de que cumplan con la norma técnica en la materia, así como inspeccionar periódicamente que se cumpla con la misma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Integrar y actualizar anualmente el Registro Municipal de Albergues de Animales Domésticos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Las demás que por disposición legal le correspondan.
 
 ###### Artículo 9.
 
@@ -649,13 +667,45 @@ Los animales muertos en la vía pública serán recolectados y trasladados por l
 
 Las personas que necesiten desprenderse del cadáver de algún animal doméstico, podrán hacerlo a través del servicio de la autoridad municipal, el cual procederá a su recolección y traslado, previo pago de los derechos señalados en la Ley de Ingresos municipal que corresponda.
 
-### Capítulo I. Disposiciones generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+### Capítulo XII. De los Albergues de Animales Domésticos
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 62 Quáter.
+
+Los Albergues de Animales Domésticos tendrán como objetivo la custodia de animales que se encuentren en el desamparo, propiciando que puedan ser adoptados, o bien adiestrados para diferentes actividades, así como procurar la esterilización de los animales que tengan a su cargo.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 62 Quinquies.
+
+Son obligaciones de los Albergues de Animales Domésticos:
+
+l. Contar con la autorización municipal para su operación;
+
+II. Realizar un censo de los animales resguardados, que contenga sexo, especie, edad, estado de salud, descripción física y el motivo por el cual fueron ingresados;
+
+III. Llevar un registro de los animales que fueron entregados en adopción, y los que fueron sacrificados;
+
+IV. Poner a disposición del Consejo los censos y registros señalados en este artículo;
+
+V. Contar con las condiciones higiénico-sanitarias adecuadas para la salud de los animales;
+
+VI. Contar con alimento y agua suficientes para los animales; y
+
+VII. Contar con un espacio de protección contra las inclemencias del tiempo.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 62 Sexies.
+
+Los Albergues de Animales Domésticos tendrán derecho a celebrar convenios con las entidades educativas dedicadas a la formación de Médicos Veterinarios Zootecnistas, para que los alumnos de estos centros de enseñanza puedan elaborar sus prácticas profesionales en los albergues.
 
 ## TÍTULO CUARTO. De la fauna silvestre
 
-### Capítulo I. De la denuncia
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+### Capítulo I. Disposiciones generales
 
 ###### Artículo 63.
 
@@ -679,7 +729,7 @@ Las autoridades estatales y municipales auxiliarán a las autoridades competente
 
 ## TÍTULO QUINTO. De la denuncia, el procedimiento y las sanciones
 
-### Capítulo II. Del procedimiento de inspección y vigilancia
+### Capítulo I. De la denuncia
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -727,7 +777,9 @@ Cuando la autoridad ejecute algunas de las medidas de seguridad previstas en est
 
 Si el rescate no fuere posible por tratarse de animales abandonados en una finca deshabitada de propiedad privada, la autoridad competente pedirá opinión a las autoridades sanitarias respecto al peligro que pudieren representar para la salud de las personas o de los animales, en cuyo caso, si el dictamen revela que efectivamente existe peligro para la salud, la autoridad correspondiente realizará las gestiones y operaciones necesarias para el desalojo y protección de los animales abandonados.
 
-### Capítulo III. De las sanciones
+### Capítulo II. Del procedimiento de inspección y vigilancia
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### Artículo 75.
 
@@ -737,7 +789,7 @@ Los gobiernos municipales y las autoridades estatales en el ámbito de sus respe
 
 El procedimiento administrativo de inspección y vigilancia podrá iniciarse de oficio o a petición de parte interesada. Los gobiernos municipales no podrán exigir más formalidades que las expresamente previstas en la ley.
 
-### Capítulo IV. De los medios de defensa
+### Capítulo III. De las sanciones
 
 ###### Artículo 77.
 
@@ -766,6 +818,8 @@ Cuando la autoridad lo considere necesario y de acuerdo con el acto realizado en
 ###### Artículo 80.
 
 Cuando el infractor sea reincidente se le aplicará el doble de la multa que corresponda por la conducta reprochable, que se haya impuesto con anterioridad.
+
+### Capítulo IV. De los medios de defensa
 
 ###### Artículo 81.
 
@@ -878,3 +932,9 @@ P.O. 13 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Dentro de los 180 días naturales siguientes a la entrada en vigor de este decreto, las autoridades correspondientes deberán realizar las adecuaciones pertinentes en su presupuesto, reglamentos y cualquier otra disposición vinculada y necesaria para su debida aplicación.
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26927/LXI/18 QUE REFORMA LOS ARTÍCULOS 3°, 4° Y 8°; Y ADICIONA EL CAPÍTULO XII AL TÍTULO TERCERO Y LOS ARTÍCULOS 62 QUÁTER, 62 QUINQUIES Y 62 SEXIES, TODOS DE LA LEY DE PROTECCIÓN Y CUIDADO A LOS ANIMALES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
