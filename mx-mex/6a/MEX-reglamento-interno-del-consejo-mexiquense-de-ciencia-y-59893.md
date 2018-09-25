@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-consejo-mexiquense-de-ciencia-y-59893"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-19"
-last_updated: "2008-02-19"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL CONSEJO MEXIQUENSE DE CIENCIA Y TECNOLOGIA
 
-REGLAMENTO INTERNO DEL CONSEJO MEXIQUENSE DE CIENCIA Y TECNOLOGIA
+REGLAMENTO INTERNO DEL CONSEJO MEXIQUENSE DE CIENCIA Y TECNOLOGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 19 de febrero de 2008.
 
@@ -215,9 +215,11 @@ XVI. Resolver las dudas que se originen con motivo de la interpretación y aplic
 
 XVII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende la Junta Directiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las acciones de control y evaluación que le corresponden, el Director General se auxiliará de las unidades administrativas básicas siguientes:
+Para el estudio, planeación y despacho de los asuntos de su competencia, el Director General se auxiliará de las unidades administrativas siguientes:
 
 I. Dirección de Desarrollo Tecnológico y Vinculación.
 
@@ -225,23 +227,33 @@ II. Dirección de Investigación Científica y Formación de Recursos Humanos.
 
 III. Dirección de Financiamiento, Divulgación y Difusión.
 
-IV. Unidad de Apoyo Jurídico.
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2018)</small>
 
-V. Unidad de Apoyo Administrativo.
+IV. Dirección Jurídica y Administrativa.
 
-VI. Contraloría Interna.
+V. (DEROGADA, G.G. 25 DE SEPTIEMBRE DE 2018)
 
-El COMECYT contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
+VI. (DEROGADA, G.G. 25 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LOS DIRECTORES Y DE LOS JEFES DE UNIDAD
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2018)</small>
+
+Para atender las acciones de control y evaluación, el COMECYT contará con un Órgano Interno de Control, asimismo, con las demás unidades administrativas que le sean autorizadas, cuyas funciones se establecerán en su Manual General de Organización; de igual forma, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 25 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES
+
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 15.
 
-Al frente de cada Dirección y Unidad del COMECYT habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran.
+Al frente de cada Dirección habrá un director, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 16.
 
-Corresponde a los Directores y Jefes de Unidad las atribuciones siguientes:
+Corresponde a los directores el ejercicio de las atribuciones genéricas siguientes:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de las funciones encomendadas a la unidad administrativa a su cargo.
 
@@ -275,7 +287,9 @@ XV. Expedir constancias o copias certificadas de los documentos existentes en su
 
 XVI. Las demás que les confieren otros ordenamientos legales y aquellas que les encomiende el Director General.
 
-### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS DIRECCIONES, DE LAS UNIDADES Y DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 25 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LOS DIRECTORES Y DEL ÓRGANO INTERNO DE CONTROL
 
 ###### Artículo 17.
 
@@ -343,101 +357,79 @@ VIII. Elaborar las publicaciones de difusión y divulgación del COMECYT, así c
 
 IX. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
 
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 20.
 
-Corresponde a la Unidad de Apoyo Jurídico:
+Corresponde a la Dirección Jurídica y Administrativa.
 
-I. Representar al COMECYT ante todo tipo de tribunales, con los poderes específicos que le otorgue el Director General.
+I. Representar al Organismo en los asuntos jurídicos en los que sea parte, previo mandato que al efecto le otorgue el Director General y realizar el oportuno seguimiento a los procedimientos hasta su conclusión.
 
-II. Atender y proponer las demandas, amparos, juicios, citatorios y demás requerimientos de autoridades diversas, que se emitan o se instauren con relación y en contra del COMECYT y su personal, a fin de proteger el interés jurídico y patrimonio del mismo.
+II. Intervenir y asesorar al personal del COMECYT en las diligencias, procedimientos, juicios y controversias laborales, penales y civiles, que se susciten o afecten los interese (sic) y el patrimonio del mismo.
 
-III. Compilar y divulgar los ordenamientos jurídicos que regulen la organización y el funcionamiento del COMECYT.
+III. Compilar, actualizar, registrar y difundir los ordenamientos jurídicos aplicables que regulen la organización y el funcionamiento del Organismo; así como proponer al Director General la actualización, adición o suspensión de los mismos.
 
-IV. Asistir jurídicamente al personal del COMECYT en las diligencias de carácter judicial, cuando se traten asuntos inherentes al Organismo.
+IV. Preparar, acudir y llevar el seguimiento de las audiencias que se ventilen ante las diversas autoridades judiciales estatales y/o federales para resolver los casos que competan al Organismo.
 
-V. Asesorar al personal del COMECYT respecto de los ordenamientos jurídicos que se vinculen con el desarrollo de sus funciones.
+V. Asesorar legalmente el Director General y a las Unidades Administrativas del COMECYT que lo requieran, a fin de que cumplan con sus atribuciones, a través de la observancia de las disposiciones jurídicas.
 
-VI. Revisar y, en su caso, elaborar los proyectos de ordenamientos jurídicos que pretenda suscribir o expedir el COMECYT.
+VI. Cumplir, en el ámbito de su competencia, con las disposiciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en términos de la normatividad aplicable.
 
-VII. Ejecutar las funciones que en materia de información, planeación, programación y evaluación, así como de transparencia y acceso a la información pública, le corresponden al COMECYT, en términos de las disposiciones legales aplicables.
+VII. Ejecutar las funciones que en materia de información, planeación, programación y evaluación le corresponden al Organismo, en términos de las disposiciones legales aplicables.
 
-VIII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
+VIII. Elaborar y emitir opinión sobre los contratos, convenios, acuerdos y demás instrumentos jurídicos que el COMECYT celebre con el sector público, privado y social.
+
+IX. Tramitar la legalización, regularización y registro de los bienes inmuebles que conformen el patrimonio del Organismo, así como organizar y custodiar los documentos que acrediten el origen de la propiedad y/o posesión de los mismos.
+
+X. Realizar los trámites necesarios, ante las instancias correspondientes, relativas a la propiedad industrial y derechos de autor con que cuente el COMECYT.
+
+XI. Aplicar las normas, políticas, lineamientos y demás disposiciones en materia de administración de personal, adquisiciones, servicios, control presupuestal y evaluación programática del COMECYT.
+
+XII. Programar, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas del Organismo.
+
+XIII. Dirigir y coordinar la actualización permanente de los sistemas contables y financieros necesarios para el registro y control del ejercicio presupuestal, informando los estados financieros al Director General.
+
+XIV. Integrar los anteproyectos de presupuestos de ingresos y de egresos del COMECYT, de acuerdo con la normatividad en la materia.
+
+XV. Tramitar los movimientos de ingreso, contratación, cambios, permisos, licencias, incidencias, remuneraciones y demás movimientos del personal del Organismo, en términos de las disposiciones legales.
+
+XVI. Promover y coordinar las actividades de capacitación y profesionalización del personal del COMECYT.
+
+XVII. Planear, proponer e integrar, en coordinación con las demás unidades administrativas, el programa anual de adquisiciones, arrendamientos y servicios para el desarrollo y logro de los objetivos del Organismo.
+
+XVIII. Presidir los Comités de Adquisiciones y Servicios y de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones del Organismo, de conformidad con la normatividad aplicable.
+
+XIX. Ejecutar los procedimientos de adquisiciones y servicios, arrendamientos, enajenaciones, obra pública y servicios relacionados con la misma que requiera el COMECYT, de acuerdo con la normatividad aplicable.
+
+XX. Coordinar el gasto de inversión y gasto corriente a nivel presupuestal.
+
+XXI. Suscribir los convenios y contratos derivados de los procedimientos para la adquisición de bienes, servicios, obra pública y servicios relacionados con la misma, con base en la normatividad aplicable, previo acuerdo del Director General.
+
+XXII. Rescindir administrativamente los contratos de adquisición de bienes y de prestación de servicios que haya celebrado el COMECYT e imponer las sanciones que prevé la legislación en la materia a los proveedores que incurran en el incumplimiento de dichos contratos.
+
+XXIII. Integrar y promover la formulación y actualización de los Manuales de Procedimientos de las unidades administrativas, así como del Manual de Organización y el Reglamento Interno del COMECYT.
+
+XXIV. Llevar el inventario de los bienes muebles del COMECYT, así como promover su conservación y mantenimiento.
+
+XXV. Determinar y controlar las medidas de seguridad y vigilancia de las instalaciones y bienes del Organismo, así como instrumentar mecanismos preventivos y dispositivos de emergencia en caso de desastre.
+
+XXVI. Proponer al Director General, las acciones de modernización administrativa, Mejora Regulatoria, Gobierno Digital y gestión de la calidad en los trámites y servicios que ofrece el Organismo.
+
+XXVII. Integrar el programa anual de actividades del COMECYT y realizar su seguimiento.
+
+XXVIII. Integrar anualmente el proyecto de programa de trabajo del Organismo.
+
+XXIX. Las demás que le confieran otros ordenamientos legales y aquellas que le encomiende el Director General.
 
 ###### Artículo 21.
 
-Corresponde a la Unidad de Apoyo Administrativo:
+(DEROGADO, G.G. 25 DE SEPTIEMBRE DE 2018)
 
-I. Administrar los recursos humanos, financieros y materiales del COMECYT, de acuerdo con las disposiciones aplicables.
-
-II. Establecer políticas y procedimientos para administrar eficientemente los recursos financieros del COMECYT, ejerciendo el control administrativo, contable y financiero respectivo, de acuerdo con los objetivos, lineamientos y estrategias definidas en los programas del Organismo.
-
-III. Realizar estudios e investigaciones financieras y de mercado, orientadas a la instrumentación de mecanismos para optimizar el manejo de los recursos del COMECYT.
-
-IV. Integrar los anteproyectos de presupuestos de ingresos y de egresos del COMECYT, de acuerdo con la normatividad en la materia.
-
-V. Realizar los movimientos de personal del COMECYT, en términos de las disposiciones legales.
-
-VI. Promover y coordinar las actividades de capacitación y profesionalización del personal del COMECYT.
-
-VII. Formular los programas anuales de adquisiciones, arrendamientos y servicios del COMECYT, conjuntamente con las unidades administrativas del Organismo.
-
-VIII. Aplicar las normas, políticas, lineamientos y demás disposiciones en materia de administración de personal, adquisiciones, servicios, control presupuestal y evaluación programática del COMECYT.
-
-IX. Coordinar y ejecutar los procedimientos de adquisición y arrendamiento de bienes, contratación de servicios, obra pública y servicios relacionados con la misma que requiera el COMECYT, de acuerdo con la normatividad aplicable.
-
-X. Programar, organizar y controlar el suministro de los recursos financieros, materiales y técnicos del COMECYT, así como los servicios generales necesarios para el funcionamiento de sus unidades administrativas.
-
-XI. Ejecutar los procedimientos y mecanismos sobre el ejercicio y control del presupuesto de gasto corriente y de inversión del COMECYT.
-
-XII. Presidir el Comité de Adquisiciones y Servicios del COMECYT.
-
-XIII. Suscribir los convenios y contratos derivados de los procedimientos para la adquisición de bienes, contratación de servicios, obra pública y servicios relacionados con la misma, con base en la normatividad aplicable.
-
-XIV. Integrar el manual de organización del COMECYT y promover la formulación y actualización de los manuales de procedimientos de las unidades administrativas del Organismo.
-
-XV. Elaborar, analizar, consolidar e informar sobre los estados financieros del COMECYT, al Director General.
-
-XVI. Llevar el inventario de los bienes muebles e inmuebles del COMECYT, así como promover su conservación y mantenimiento.
-
-XVII. Promover y coordinar las acciones de modernización, mejora regulatoria y gestión de la calidad de las unidades administrativas del COMECYT.
-
-XVIII. Integrar el programa anual de actividades del COMECYT y realizar su seguimiento.
-
-XIX. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 22.
 
-Corresponde a la Contraloría Interna:
-
-I. Vigilar, en el ámbito de su competencia, el cumplimiento de los programas, proyectos y acciones de las unidades administrativas del COMECYT y elaborar los reportes correspondientes.
-
-II. Realizar supervisiones, revisiones, auditorías y evaluaciones administrativas, financieras, contables, operacionales, técnicas y jurídicas a las unidades administrativas del COMECYT, tendentes a verificar el cumplimiento de las normas y disposiciones relacionadas con los sistemas de registro, contabilidad y presupuesto, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos del Organismo.
-
-III. Iniciar, sustanciar y resolver los procedimientos administrativos, disciplinarios y resarcitorios e imponer, en su caso, las sanciones que correspondan, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
-
-IV. Verificar el adecuado ejercicio del presupuesto autorizado al COMECYT, atendiendo los principios de racionalidad, austeridad y disciplina presupuestaria que establecen las normas en la materia.
-
-V. Participar en los actos de entrega y recepción de las unidades administrativas del COMECYT, verificando su apego a las normas correspondientes.
-
-VI. Participar en las sesiones de los comités de adquisiciones y servicios, y de arrendamientos, adquisiciones de inmuebles y enajenaciones del COMECYT.
-
-VII. Atender y tramitar las quejas y denuncias que se interpongan en contra de los servidores públicos del COMECYT por probable responsabilidad administrativa, en términos de la ley en la materia.
-
-VIII. Conocer, tramitar y resolver los recursos administrativos que le correspondan o, en su caso, tramitarlos ante la Secretaría de la Contraloría para su instrucción y resolución.
-
-IX. Ordenar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del COMECYT.
-
-X. Promover la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos del COMECYT sujetos a esta obligación.
-
-XI. Informar a la Secretaría de la Contraloría sobre el resultado de las acciones, comisiones o funciones que le encomiende.
-
-XII. Difundir entre el personal del COMECYT las disposiciones en materia de control que incidan en el desarrollo de sus labores.
-
-XIII. Promover la modernización de los sistemas y procesos de trabajo del COMECYT, a efecto de mejorar el cumplimiento de sus programas y proyectos institucionales.
-
-XIV. Promover acciones de control preventivo y de autocontrol tendientes a modernizar la gestión de las unidades administrativas del COMECYT.
-
-XV. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende la Secretaría de la Contraloría.
+Al frente del Órgano Interno de Control habrá un titular, designado en los términos del artículo 38 bis, fracción XIV de la Ley Orgánica de la Administración Pública del Estado de México, quien en el ejercicio de sus atribuciones se auxiliará por los titulares de las áreas correspondientes, de conformidad con la estructura orgánica aprobada y presupuesto autorizado, quien tendrá las atribuciones que se establecen en el Reglamento Interior de la Secretaría de la Contraloría y demás disposiciones jurídica (sic) aplicables.
 
 ### CAPÍTULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -445,9 +437,11 @@ XV. Las demás que le confieren otros ordenamientos legales y aquellas que le en
 
 EL Director General será suplido en sus ausencias temporales hasta por 15 días naturales, por el Director que aquél designe. En las mayores de 15 días naturales, por quien designe la Junta Directiva.
 
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 24.
 
-Los directores y jefes de unidad serán suplidos en sus ausencias temporales menores de 15 días naturales, por el servidor público de la jerarquía inmediata inferior que aquéllos designen. En los mayores de 15 días naturales, por el servidor público que designe el Director General.
+Los directores serán suplidos en sus ausencias temporales menores de 15 días naturales, por el servidor público de la jerarquía inmediata inferior que aquéllos designen. En los mayores de 15 días naturales, por el servidor público que designe el Director General.
 
 T R A N S I T O R I O S
 
@@ -472,3 +466,17 @@ DR. ELIAS MICHA ZAGA
 DIRECTOR GENERAL DEL CONSEJO MEXIQUENSE DE CIENCIA Y TECNOLOGÍA Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DEL CONSEJO MEXIQUENSE DE CIENCIA Y TECNOLOGÍA”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
+
+CUARTO.- El presente Acuerdo Modificatorio actualiza al Reglamento Interno del Consejo Mexiquense de Ciencia y Tecnología, publicado el 19 de febrero del 2008, en el Periódico Oficial "Gaceta del Gobierno".
