@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2017-05-11"
+last_updated: "2018-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -233,13 +233,17 @@ V. Hacer del conocimiento a las autoridades competentes y, en su caso, denunciar
 
 VI. Regular y vigilar la disposición final de los residuos provenientes de la extracción de materias primas forestales;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Conformar brigadas para la prevención y combate de incendios forestales, cuando cuenten con superficie forestal; y
+VII. Conformar brigadas para la prevención y combate de incendios forestales, cuando cuenten con superficie forestal;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-VIII. Delimitar dentro de sus instrumentos de planeación, las áreas que han sido incendiadas de manera intencional previo (sic) emitido por la secretaría en áreas que no son competencia federal.
+VIII. Delimitar dentro de sus instrumentos de planeación, las áreas que han sido incendiadas de manera intencional previo (sic) emitido por la secretaría en áreas que no son competencia federal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Crear y actualizar un padrón de los viveros existentes en el municipio; vigilar que la extracción de la tierra de monte y de hoja por parte de los viveros, sea sostenible; y en su caso sancionar, conforme a la normativa aplicable, la extracción indiscriminada de dicha tierra.
 
 ### CAPÍTULO II. De la Coordinación entre el Gobierno del Estado y los Gobiernos Municipales
 
@@ -812,3 +816,9 @@ P.O. 11 DE MAYO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Las obras de urbanización iniciadas con anterioridad a la entrada en vigor del presente decreto, seguirán su trámite con los requisitos establecidos al momento de su presentación.
+
+P.O. 25 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26924/LXI/18 QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
