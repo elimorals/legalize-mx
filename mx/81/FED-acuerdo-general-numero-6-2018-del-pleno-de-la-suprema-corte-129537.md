@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-6-2018-del-pleno-de-la-suprema-corte-129
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-07-10"
-last_updated: "2018-07-10"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129537&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "2018-07-02"
 ---
 # ACUERDO GENERAL NUMERO 6/2018 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCION EN LAS CONTRADICCIONES DE TESIS DEL CONOCIMIENTO DE LOS PLENOS DE CIRCUITO, ASI COMO EN LOS AMPAROS EN REVISION RADICADOS EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE ABORDE EL TEMA RELATIVO A DETERMINAR SI LA CONTRAPRESTACION PAGADA POR CONCEPTO DE PREVALIDACION ELECTRONICA DE DATOS QUE NO SE DISMINUYO DEL MONTO DEL DERECHO DE TRAMITE ADUANERO CORRESPONDIENTE, CONSTITUYE UN PAGO A CUYA DEVOLUCION SE TIENE DERECHO]
 
-ACUERDO GENERAL NÚMERO 6/2018, DE DOS DE JULIO DE DOS MIL DIECIOCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN EN LAS CONTRADICCIONES DE TESIS DEL CONOCIMIENTO DE LOS PLENOS DE CIRCUITO, ASÍ COMO EN LOS AMPAROS EN REVISIÓN RADICADOS EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE ABORDE EL TEMA RELATIVO A DETERMINAR SI LA CONTRAPRESTACIÓN PAGADA POR CONCEPTO DE PREVALIDACIÓN ELECTRÓNICA DE DATOS QUE NO SE DISMINUYÓ DEL MONTO DEL DERECHO DE TRÁMITE ADUANERO CORRESPONDIENTE, CONSTITUYE UN PAGO A CUYA DEVOLUCIÓN SE TIENE DERECHO
+ACUERDO GENERAL NÚMERO 6/2018, DE DOS DE JULIO DE DOS MIL DIECIOCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN EN LAS CONTRADICCIONES DE TESIS DEL CONOCIMIENTO DE LOS PLENOS DE CIRCUITO, ASÍ COMO EN LOS AMPAROS DIRECTOS, EN LOS RECURSOS DE REVISIÓN PROMOVIDOS CONTRA SENTENCIAS EMITIDAS POR LAS SALAS DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA Y EN LOS AMPAROS EN REVISIÓN RADICADOS EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE ABORDE EL TEMA RELATIVO A DETERMINAR SI LA CONTRAPRESTACIÓN PAGADA POR CONCEPTO DE PREVALIDACIÓN ELECTRÓNICA DE DATOS QUE NO SE DISMINUYÓ DEL MONTO DEL DERECHO DE TRÁMITE ADUANERO CORRESPONDIENTE, CONSTITUYE UN PAGO A CUYA DEVOLUCIÓN SE TIENE DERECHO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE SEPTIEMBRE DE 2018.
 
 Acuerdo publicado en la Primera Sección al Número 7 del Diario Oficial de la Federación, el martes 10 de julio de 2018.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.
 
-ACUERDO GENERAL NÚMERO 6/2018, DE DOS DE JULIO DE DOS MIL DIECIOCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN EN LAS CONTRADICCIONES DE TESIS DEL CONOCIMIENTO DE LOS PLENOS DE CIRCUITO, ASÍ COMO EN LOS AMPAROS EN REVISIÓN RADICADOS EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE ABORDE EL TEMA RELATIVO A DETERMINAR SI LA CONTRAPRESTACIÓN PAGADA POR CONCEPTO DE PREVALIDACIÓN ELECTRÓNICA DE DATOS QUE NO SE DISMINUYÓ DEL MONTO DEL DERECHO DE TRÁMITE ADUANERO CORRESPONDIENTE, CONSTITUYE UN PAGO A CUYA DEVOLUCIÓN SE TIENE DERECHO.
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL DIECISIETE DE SEPTIEMBRE DE DOS MIL DIECIOCHO, D.O.F. 26 DE SEPTIEMBRE DE 2018)</small>
+
+ACUERDO GENERAL NÚMERO 6/2018, DE DOS DE JULIO DE DOS MIL DIECIOCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN EN LAS CONTRADICCIONES DE TESIS DEL CONOCIMIENTO DE LOS PLENOS DE CIRCUITO, ASÍ COMO EN LOS AMPAROS DIRECTOS, EN LOS RECURSOS DE REVISIÓN PROMOVIDOS CONTRA SENTENCIAS EMITIDAS POR LAS SALAS DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA Y EN LOS AMPAROS EN REVISIÓN RADICADOS EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE ABORDE EL TEMA RELATIVO A DETERMINAR SI LA CONTRAPRESTACIÓN PAGADA POR CONCEPTO DE PREVALIDACIÓN ELECTRÓNICA DE DATOS QUE NO SE DISMINUYÓ DEL MONTO DEL DERECHO DE TRÁMITE ADUANERO CORRESPONDIENTE, CONSTITUYE UN PAGO A CUYA DEVOLUCIÓN SE TIENE DERECHO.
 
 CONSIDERANDO:
 
@@ -47,7 +49,9 @@ En consecuencia, con fundamento en lo antes mencionado, el Pleno de la Suprema C
 
 ACUERDO:
 
-ÚNICO. En tanto la Segunda Sala de la Suprema Corte de Justicia de la Nación resuelve la contradicción de tesis 143/2018 referida en el Considerando Segundo de este instrumento normativo, y se emite el Acuerdo General Plenario que corresponda, en las contradicciones de tesis del conocimiento de los Plenos de Circuito, así como en los amparos en revisión radicados en los Tribunales Colegiados de Circuito, en los que se aborde el tema relativo a determinar si la contraprestación pagada por concepto de prevalidación electrónica de datos que no se disminuyó del monto del derecho de trámite aduanero correspondiente, constituye un pago a cuya devolución se tiene derecho, se deberá continuar el trámite hasta el estado de resolución y aplazar el dictado de ésta.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL DIECISIETE DE SEPTIEMBRE DE DOS MIL DIECIOCHO, D.O.F. 26 DE SEPTIEMBRE DE 2018)</small>
+
+ÚNICO. En tanto la Segunda Sala de la Suprema Corte de Justicia de la Nación resuelve la contradicción de tesis 143/2018 referida en el Considerando Segundo de este instrumento normativo, y se emite el Acuerdo General Plenario que corresponda, en las contradicciones de tesis del conocimiento de los Plenos de Circuito, así como en los amparos directos, en los recursos de revisión promovidos contra sentencias emitidas por las Salas del Tribunal Federal de Justicia Administrativa y en los amparos en revisión radicados en los Tribunales Colegiados de Circuito, en los que se aborde el tema relativo a determinar si la contraprestación pagada por concepto de prevalidación electrónica de datos que no se disminuyó del monto del derecho de trámite aduanero correspondiente, constituye un pago a cuya devolución se tiene derecho, se deberá continuar el trámite hasta el estado de resolución y aplazar el dictado de ésta.
 
 TRANSITORIOS:
 
@@ -58,3 +62,13 @@ SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Fede
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Luis María Aguilar Morales.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
 
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 6/2018, DE DOS DE JULIO DE DOS MIL DIECIOCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN EN LAS CONTRADICCIONES DE TESIS DEL CONOCIMIENTO DE LOS PLENOS DE CIRCUITO, ASÍ COMO EN LOS AMPAROS EN REVISIÓN RADICADOS EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE ABORDE EL TEMA RELATIVO A DETERMINAR SI LA CONTRAPRESTACIÓN PAGADA POR CONCEPTO DE PREVALIDACIÓN ELECTRÓNICA DE DATOS QUE NO SE DISMINUYÓ DEL MONTO DEL DERECHO DE TRÁMITE ADUANERO CORRESPONDIENTE, CONSTITUYE UN PAGO A CUYA DEVOLUCIÓN SE TIENE DERECHO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de nueve votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Norma Lucía Piña Hernández, Eduardo Medina Mora I., Javier Laynez Potisek, Alberto Pérez Dayán y Presidente Luis María Aguilar Morales. Los señores Ministros José Ramón Cossío Díaz y Margarita Beatriz Luna Ramos estuvieron ausentes.- Ciudad de México, a dos de julio de dos mil dieciocho.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL DIECISIETE DE SEPTIEMBRE DE DOS MIL DIECIOCHO, POR EL QUE SE MODIFICAN EL TÍTULO Y EL PUNTO ÚNICO DEL ACUERDO GENERAL NÚMERO 6/2018, DE DOS DE JULIO DE DOS MIL DIECIOCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN EN LAS CONTRADICCIONES DE TESIS DEL CONOCIMIENTO DE LOS PLENOS DE CIRCUITO, ASÍ COMO EN LOS AMPAROS EN REVISIÓN RADICADOS EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE ABORDE EL TEMA RELATIVO A DETERMINAR SI LA CONTRAPRESTACIÓN PAGADA POR CONCEPTO DE PREVALIDACIÓN ELECTRÓNICA DE DATOS QUE NO SE DISMINUYÓ DEL MONTO DEL DERECHO DE TRÁMITE ADUANERO CORRESPONDIENTE, CONSTITUYE UN PAGO A CUYA DEVOLUCIÓN SE TIENE DERECHO".]
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Tribunales Colegiados de Circuito y de los Plenos de Circuito, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 6/2018 en dichos medios electrónicos.
