@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-obras-publicas-y-servicios-relacionados-con-las-115249"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-20"
-last_updated: "2017-10-13"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de junio de 2016.
 
@@ -1609,9 +1609,9 @@ En la ejecución de los trabajos por administración directa, bajo ninguna circu
 
 Cuando se requieran equipos, instrumentos, elementos prefabricados terminados, materiales u otros bienes que deban ser instalados, montados, colocados o aplicados, su adquisición se regirá por las disposiciones correspondientes a tal materia.
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-Podrá llevarse a cabo la contratación de obras por administración directa cuando se trate de la ejecución de obras relacionadas con la conservación y mantenimiento de las vías de comunicación estatal y municipal, cualquiera que sea el monto de la inversión cuando dicha obra se asigne para su ejecución a un organismo público descentralizado cuyo objeto sea la ejecución de las obras señaladas anteriormente.
+Podrá llevarse a cabo la contratación de obras por administración directa cuando se trate de la ejecución de obras y servicios relacionados con las mismas, cuando se trate de la conservación y mantenimiento de las vías de comunicación estatal y municipal, así como de los sistemas de agua potable, alcantarillado y saneamiento, cualquiera que sea el monto de la inversión, cuando dicha obra se asigne para su ejecución a un organismo público descentralizado cuyo objeto sea la ejecución de las obras señaladas anteriormente.
 
 ###### Artículo 93.
 
@@ -2236,3 +2236,11 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Las políticas, bases y lineamientos para las acciones relativas a las obras públicas y servicios relacionados con las mismas, se expedirán por la Secretaría de Obras Públicas del Gobierno del Estado de Sinaloa, dentro de los sesenta días hábiles posteriores a la entrada en vigor del presente decreto.
 
 Artículo Tercero. El Reglamento de la presente Ley deberá ser reformado y publicado en el Periódico Oficial "El Estado de Sinaloa", dentro de los treinta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 855 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6 Y 10, FRACCIÓN IV DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. La obra pública programada y autorizada a la Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa para el ejercicio fiscal del año 2018 que no se hubiere licitado o adjudicado, podrá ser administrada en forma directa por la Comisión, lo que informará a la Secretaría de Administración y Finanzas para la asignación de los recursos correspondientes.
