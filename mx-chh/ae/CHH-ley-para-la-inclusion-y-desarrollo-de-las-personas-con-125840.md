@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-inclusion-y-desarrollo-de-las-personas-con-125840"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-24"
-last_updated: "2018-06-13"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo al Número 7 del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2018.
 
@@ -103,7 +103,19 @@ XVI. Mecanismo.- Mecanismo Consultivo para la Participación Ciudadana.
 
 XVII. Persona con Discapacidad.- Aquella que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, intelectual, mental, sensorial y psicosocial, ya sea permanente o temporal, constante, latente o intermitente y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con las demás personas.
 
-XVIII. Perro guía o animal de servicio.- Animales especialmente entrenados para el apoyo de las actividades cotidianas de las personas con discapacidad.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Perros de asistencia.- Perros especialmente formados para el apoyo de las actividades cotidianas y alerta médica de las personas con discapacidad. Como lo son:
+
+a) Perro guía: formado para la asistencia de personas ciegas o con debilidad visual.
+
+b) Perro de alerta médica: formado para asistir a personas con diabetes mellitus tipo 1 DM1, epilepsia o alguna otra condición médica que lo requiera.
+
+c) Perro señal: formado para asistir a personas sordas o con algún grado de sordera.
+
+d) Perro de asistencia para personas con trastorno del espectro autista TEA.
+
+e) Perro de asistencia para personas con discapacidad motriz o movilidad reducida.
 
 XIX. Perspectiva de Inclusión.- Son los principios, metodologías y mecanismos que permiten identificar, cuestionar y revertir la discriminación, desigualdad y exclusión de las personas con discapacidad, con el fin de alcanzar la accesibilidad universal.
 
@@ -374,6 +386,10 @@ XI. Promover el uso de mecanismos de comunicación alternativa y lengua de seña
 XII. Promover programas de capacitación permanente a docentes en materia de educación inclusiva.
 
 XIII. Las demás que se determinen necesarias para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Implementar el Programa Bilingüe Bicultural, para garantizar la inclusión de las personas con condición de sordera.
 
 ###### Artículo 20.
 
@@ -952,5 +968,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL
 P.O. 13 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0758/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0839/2018 XIV P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 3, FRACCIÓN XVIII; Y SE ADICIONA AL ARTÍCULO 19, LA FRACCIÓN XIV, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
