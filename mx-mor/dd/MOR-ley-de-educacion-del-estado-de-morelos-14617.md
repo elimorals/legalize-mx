@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2015-07-29"
+last_updated: "2018-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -301,13 +301,11 @@ II.- Estructurar el Sistema Educativo Estatal de tal manera que permita al educa
 
 III.- Planear, organizar, desarrollar, administrar, supervisar y evaluar los servicios del Sistema Educativo Estatal, de conformidad con lo dispuesto por la normativa que rige al sistema educativo nacional, pudiendo delegar esta función en sus Entidades, conforme a lo que determine esta Ley o la normatividad que al efecto se expida;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-IV.- Elaborar y proponer a la autoridad educativa federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, la normal y demás para la formación de los docentes de educación básica. La autoridad educativa estatal podrá consultar para tal efecto a los diversos sectores sociales y al magisterio estatal. Dentro de éstas propuestas podrá incluirse el tema de fomento a los valores y prevención de las adicciones;
+IV.- Elaborar y proponer a la autoridad educativa federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, la normal y demás para la formación de los docentes de educación básica. La autoridad educativa estatal podrá consultar para tal efecto a los diversos sectores sociales y al magisterio estatal. Dentro de éstas propuestas, podrá incluirse la educación patrimonial como integradora para fomentar la comprensión, la preservación y el mantenimiento de los bienes culturales y naturales del estado.
 
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
-
-Asimismo deberán coordinarse con las autoridades competentes, para la implementación de programas de prevención del delito y combate a las adicciones que al efecto se establezcan, en términos de la normativa aplicable;
+Asimismo, la autoridad educativa deberá deberán (sic) coordinarse con las instituciones y autoridades competentes, para fomentar los valores, y aplicar programas preventivos que inhiban las adicciones y la comisión de delitos, en términos de la normativa aplicable;
 
 V.- Establecer un sistema permanente de investigación educativa que permita la actualización y mejoramiento del Sistema Educativo del Estado;
 
@@ -1922,3 +1920,13 @@ P.O. 29 DE JULIO DE 2015.
 PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
 
 SEGUNDO. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL CUATROCIENTOS UNO.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
