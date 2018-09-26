@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-economico-sustentable-del-estado-libre-y-6140
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-04"
-last_updated: "2018-09-05"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE SEPTIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de junio de 2008.
 
@@ -141,43 +139,49 @@ IX. Las que determine la persona titular del Poder Ejecutivo del Estado mediante
 
 Se crea la CREDE como órgano de coordinación entre las diversas dependencias del Poder Ejecutivo del Estado, para la deliberación y definición de las políticas públicas, planes, programas y acciones estatales relativas al desarrollo económico.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 7.
 
 La CREDE estará integrada por:
 
-I. La persona titular del Poder Ejecutivo del Estado, quien fungirá como Presidente;
+I. La persona titular del Poder Ejecutivo del Estado, quien lo presidirá por sí o por quien designe para tal efecto, y
 
-II. Las personas titulares de cada una de las dependencias encargadas de los siguientes ramos:
+II. Las personas titulares de las siguientes Secretarías, Dependencias y Entidades del Poder Ejecutivo Estatal:
 
-a) Desarrollo Económico;
+m)(sic) Secretaría de Economía;
 
-b) Turismo;
+n) Secretaría de Turismo;
 
-c) Desarrollo Agropecuario;
+o) Secretaría de Desarrollo Agropecuario;
 
-d) Educación;
+p) Secretaría de Educación;
 
-e) Desarrollo Urbano y Obras Públicas;
+q) Secretaría de Obras Públicas;
 
-f) Salud;
+r) Secretaría de Salud;
 
-g) Finanzas y Planeación; y
+s) Secretaría de Hacienda;
 
-h) Agua y Medio Ambiente;
+t) Secretaría de Desarrollo Sustentable;
 
-III. La persona titular de la Consejería Jurídica, y
+u) Secretaría de Innovación, Ciencia y Tecnología;
 
-IV. Una persona designada por la persona titular del Poder Ejecutivo, integrante de la CREDE, quien fungirá como Secretario Técnico.
+v) Secretaría del Trabajo;
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+w) Comisión Estatal del Agua, y
 
-Todos los integrantes podrán designar a un suplente, el del Presidente será el Secretario de Economía, y en el caso de los demás deberá tener nivel jerárquico de Subsecretario o Director General.
+x) Consejería Jurídica.
+
+La persona titular del Poder Ejecutivo Estatal designará a un integrante de la CREDE como Secretario Técnico.
+
+Todos los integrantes podrán designar por escrito a un suplente. Para el caso de que el representante que designe el Gobernador del Estado para fungir como presidente de la CREDE, sea un integrante de esta última en términos del presente artículo; dicho integrante deberá designar, a su vez, a la persona que lo supla, a fin de evitar la concentración de votos en una sola persona para la toma de decisiones.
 
 Los integrantes tendrán derecho a voz y voto, en caso de empate la persona que funja como Presidente tendrá voto de calidad.
 
-El Presidente y/o el Secretario Técnico podrán invitar a la sesión a las personas que consideren necesarias para el desahogo de los asuntos de que se trate, quienes sólo asistirán con derecho a voz.
+El Presidente o el Secretario Técnico podrán invitar a las sesiones a las personas que consideren necesarias para el desahogo de los asuntos de que se trate, quienes sólo asistirán con derecho a voz.
 
-Los cargos en la CREDE serán honoríficos.
+La participación en la CREDE será con carácter honorífico.
 
 ###### Artículo 8.
 
@@ -235,11 +239,15 @@ III. La persona titular de la Dirección General del Instituto de Desarrollo y F
 
 Contará con un Secretario Técnico, quien será designado por el Presidente de entre los integrantes del Consejo.
 
-Los integrantes a que se refieren las fracciones I y II podrán designar a un suplente, en el primero de los casos deberá tener nivel jerárquico de Subsecretario y en el segundo de Secretario o Director General de Desarrollo Económico o su equivalente.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Todos los integrantes podrán designar por escrito a un suplente.
 
 Las personas integrantes del Consejo Intermunicipal tendrán derecho a voz y voto, en caso de empate la persona que funja como Presidente tendrá voto de calidad.
 
-El Presidente y/o el Secretario Técnico podrán invitar a la sesión a las personas que consideren necesarias para el desahogo de los asuntos de que se trate, quienes sólo asistirán con derecho a voz.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+El Presidente o el Secretario Técnico podrán invitar a las sesiones a las personas que consideren necesarias para el desahogo de los asuntos de que se trate, quienes sólo asistirán con derecho a voz.
 
 Los cargos en el Consejo Intermunicipal serán honoríficos.
 
@@ -435,6 +443,14 @@ III. Aquellos fondos federales relacionados con el objeto de esta Ley, que pueda
 
 El FODEPI será administrado por un fideicomiso público que para tal efecto se constituya y cuya integración y funcionamiento se establecerá en el Reglamento y demás legislación aplicable.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Podrá contar con un órgano interno de control integrado por un Comisario Público, designado por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en términos de los artículos 67 y 69 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+En términos de los convenios que para tal efecto celebre, el FODEPI podrá recibir y administrar recursos del gobierno federal, estatal, municipal y del sector privado en el carácter de Intermediario, Proponente o Ejecutor, vinculados a planes, programas y acciones relacionados al objeto de la Ley.
+
 ###### Artículo 27.
 
 Para el logro de los apoyos directos al desarrollo empresarial y la inversión, la Secretaría, en el marco de las deliberaciones y decisiones de la CREDE expedirá las reglas de operación de los apoyos directos descritos en el artículo 25 de esta Ley.
@@ -509,9 +525,11 @@ El CCDE estará integrado por:
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-I.- El Titular de la Secretaría de Economía quien fungirá como Presidente.
+I. El Titular de la Secretaría de Economía quien fungirá como Presidente.
 
-II. La persona titular de la Subsecretaría de Inversiones, como Secretario Técnico;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+II. La persona titular de la Dirección General de la Secretaría que designe el Presidente, como Secretario Técnico;
 
 III. La persona que presida la Comisión de Desarrollo Económico del Congreso del Estado;
 
@@ -527,7 +545,9 @@ VIII. Una persona representante de cada uno de los tres sindicatos de los trabaj
 
 Los integrantes tendrán derecho a voz y voto, y en caso de empate, quien presida tendrá voto de calidad. El Presidente y/o el Secretario Técnico podrán invitar a la sesión a las personas que consideren necesarias para el desahogo de los asuntos de que se trate, quienes sólo asistirán con derecho a voz.
 
-Los miembros del Consejo podrán designar suplentes, que en el caso al que se refiere la fracción I, deberá tener nivel jerárquico de Subsecretario, y en el caso de la fracción II, nivel jerárquico de Director General
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Los miembros del Consejo podrán designar suplentes.
 
 Los cargos en el CCDE serán honoríficos.
 
@@ -736,3 +756,11 @@ DÉCIMA. Se abroga la Ley del Fondo para el Desarrollo y Fortalecimiento Municip
 DÉCIMA PRIMERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 En consecuencia, los anexos relativos a los clasificadores del gasto y otros de carácter referencial que no se modifican en virtud de este instrumento se ajustarán en los términos de las reorientaciones ordenadas por el mismo, a efecto de guardar la debida congruencia, reportándose, en su caso, en la cuenta pública correspondiente.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS TREINTA Y CINCO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase al Ejecutivo del Estado para los efectos de su divulgación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
