@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2018-09-12"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1309,7 +1309,9 @@ I.- Los previstos en las fracciones I, II, III, V, VII y VIII, a más tardar el 
 
 II.- Del que ocupe la titularidad de la Auditoría Superior del Estado, conforme a lo dispuesto en la Constitución Política del Estado y la Ley de la materia.
 
-III.- El del Instituto de Estudios e Investigación Legislativa, conforme a lo dispuesto en el Estatuto que regule su funcionamiento.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+III.- El del Instituto de Estudios e Investigación Legislativa, conforme a lo dispuesto en el Reglamento que regule su funcionamiento.
 
 ###### ARTÍCULO 127.
 
@@ -1417,7 +1419,7 @@ V.- Elaborar, actualizar y publicar lo relativo al Diario de los Debates.
 
 VI.- Elaborar y publicar la Gaceta Parlamentaria, en los términos que señale el Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
 
-VII.- Coordinar todo lo relativo a las actividades de la Biblioteca del Congreso “Carlos Montemayor”.
+VII.- Coordinar todo lo relativo a las actividades de la Biblioteca del Congreso "Carlos Montemayor".
 
 VIII.- Llevar el control y seguimiento, así como el archivo de los expedientes de los asuntos de su competencia.
 
@@ -1443,7 +1445,13 @@ XVII.- Elaborar, al término del ejercicio constitucional de la Legislatura, el 
 
 XVIII.- Nombrar y remover al personal de la Secretaría de Asuntos Legislativos.
 
-XIX.- Atender las demás actividades que le señalen la presente Ley, sus reglamentos y otros ordenamientos legales aplicables, o las que le encomiende el Pleno, la Junta de Coordinación Política o quien presida la Mesa Directiva, en su caso.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XIX.- Coordinar lo relativo a las actividades del Instituto de Estudios e Investigación Legislativa.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XX.- Atender las demás actividades que le señalen la presente Ley, sus reglamentos y otros ordenamientos legales aplicables, o las que le encomiende el Pleno, la Junta de Coordinación Política o quien presida la Mesa Directiva, en su caso.
 
 ### CAPÍTULO VI. UNIDAD DE TRANSPARENCIA
 
@@ -1496,6 +1504,8 @@ XIX.- Nombrar y remover al personal de la Secretaría de Asuntos Interinstitucio
 XX.- Atender las demás actividades que le señalen la presente Ley y otros ordenamientos legales aplicables, o las que le encomiende el Pleno, la Junta de Coordinación Política o quien presida la Mesa Directiva, en su caso.
 
 ### CAPÍTULO VII. DEL INSTITUTO DE ESTUDIOS E INVESTIGACIÓN LEGISLATIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 132.
 
@@ -1615,35 +1625,67 @@ Quien funja como responsable de la Unidad de Transparencia, dependerá directame
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN DE ARCHIVOS
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 145 Bis.
 
-La Dirección de Archivos desempeñará sus funciones bajo el control y supervisión de la Presidencia de la Mesa Directiva. Estará integrada por las o los titulares de los Archivos de Gestión y Trámite; y de Concentración e Histórico, y será la encargada de vigilar la custodia y seguridad jurídica y material de los acervos que conforman la memoria documental del Poder Legislativo, mediante las siguientes atribuciones:
+La Dirección de Archivos desempeñará sus funciones bajo el control y supervisión de la Secretaría de Administración. Estará integrada por el personal de las unidades de los Archivos de Gestión y Trámite, de Concentración y el Histórico. Será la responsable de aprobar y vigilar la correcta instrumentación del Sistema Institucional de Archivos, así como la custodia y seguridad jurídica y material de los acervos que conforman la memoria documental del Poder Legislativo, mediante las siguientes atribuciones:
 
-I. Operar el sistema archivístico.
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+I. Operar el Sistema Institucional de Archivos, el cual está conformado por:
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+a) La Unidad de Archivo de Gestión y Trámite, a través de los enlaces de los archivos de trámite de las unidades administrativas que conforman los órganos técnicos del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+b) La Unidad de Archivo de Concentración.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+c) La Unidad de Archivo Histórico.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 II. Aprobar y vigilar la correcta instrumentación del Sistema Institucional de Archivos.
 
-III. Aprobar los instrumentos de control necesarios para la regulación de los procesos archivísticos.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+III. Aprobar los instrumentos de control necesarios para la regulación de los procesos archivísticos contemplados en la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 IV. Emitir las normas y lineamientos generales que aseguren la adecuada administración y custodia de los documentos en resguardo del Poder Legislativo.
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
 V. Emplear todos los mecanismos necesarios para la conservación y preservación de los documentos que se generen como resultado del quehacer legislativo y conforman la memoria documental del Poder Legislativo, asegurando la integridad de los mismos.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 VI. Participar como integrante del Comité Técnico de Administración de Documentos y Archivos.
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
 VII. Establecer y desarrollar los programas institucionales y permanentes encaminados a la capacitación y asesoría archivística de las y los responsables de archivos en las Secretarías, y del personal del Poder Legislativo.
 
-VIII. Coordinar los procedimientos de valoración y destino final de la documentación generada por el Poder Legislativo con el Comité de Transparencia.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Colaborar con el Departamento de Tecnologías de la Información, para la administración y conservación de archivos electrónicos.
+VIII. Coordinar los procedimientos de valoración y destino final de la documentación generada por el Poder Legislativo, con el Comité Técnico de Administración de Documentos y Archivos, de acuerdo a la normatividad aplicable.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Coordinar con el Departamento de Tecnologías de la Información, la gestión, administración y conservación de archivos electrónicos.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 X. Las demás que deriven de las disposiciones legales aplicables.
 
 ###### ARTÍCULO 139.
 
-El Instituto de Estudios e Investigación Legislativa, es un órgano eminentemente técnico del Congreso del Estado, dotado con los recursos necesarios para el desarrollo de sus funciones, de acuerdo a lo establecido en el Presupuesto de Egresos.
+El Instituto de Estudios e Investigación Legislativa es un órgano eminentemente técnico de la Secretaría de Asuntos Legislativos del Congreso del Estado, con autonomía para la realización de los estudios e investigaciones que le correspondan, dotado de los recursos necesarios para el desarrollo de sus funciones, de acuerdo a lo establecido en el Presupuesto de Egresos.
 
 El personal del Instituto deberá contar con un perfil profesional relacionado con los diversos temas legislativos, privilegiando la formación de un equipo de trabajo profesional e interdisciplinario.
 
@@ -1655,7 +1697,7 @@ I.- Funcionar como órgano de consultoría del Congreso del Estado, así como ó
 
 II.- Planear, desarrollar y ejecutar los servicios de investigación, estudio y capacitación en apoyo a las comisiones legislativas.
 
-III.- Sistematizar la legislación y reglamentación, histórica y vigente, de la Federación, entidades federativas y municipios, así como tratados internacionales.
+III.- (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2018)
 
 > <small>(F. DE E., P.O. 16 DE JULIO DE 2016)</small>
 
@@ -1663,13 +1705,17 @@ IV.- Presentar a la Secretaría de Administración, el proyecto de su presupuest
 
 V.- Ejercer el presupuesto asignado, bajo los lineamientos que establezca la Secretaría de Administración.
 
-VI.- Nombrar y remover al personal del Instituto, en los términos de la normatividad correspondiente.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+VI.- Proponer a la Secretaría de Asuntos Legislativos, el nombramiento y remoción del personal del Instituto, en los términos del reglamento y lineamientos correspondientes.
 
 VII.- Las demás que le sean encomendadas por las Comisiones y Comités del Congreso del Estado y aquellas que le confieran otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 141.
 
-El Instituto de Estudios e Investigación Legislativa contará, de manera permanente, por lo menos con un total de 10 especialistas en las siguientes áreas:
+El Instituto de Estudios e Investigación Legislativa podrá contar, considerando las posibilidades y disponibilidad presupuestal, con especialistas en las siguientes áreas:
 
 I.- Sociales.
 
@@ -1679,7 +1725,9 @@ III.- Derechos Humanos.
 
 IV.- Medio Ambiente y Sustentabilidad.
 
-V.- Equidad de género.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+V.- Igualdad de género.
 
 VI.- Salud.
 
@@ -1691,9 +1739,15 @@ IX.- Justicia.
 
 X.- Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+En función de las necesidades del Instituto y de acuerdo al área de estudio e investigación que considere, podrá contar con otro tipo de especialistas.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 142.
 
-El Instituto de Estudios e Investigación Legislativa se regulará por el Estatuto que para tal efecto emita el Congreso.
+El Instituto de Estudios e Investigación Legislativa se regulará por el Reglamento que para tal efecto emita el Congreso.
 
 ### CAPÍTULO ÚNICO. DEL OTORGAMIENTO DE ESTÍMULOS Y RECOMPENSAS
 
@@ -2245,9 +2299,11 @@ Las solicitudes de denuncia de Juicio Político y de Declaración de Procedencia
 
 Las denuncias por faltas administrativas en contra de servidores públicos del Congreso, de presidentes municipales, síndicos y regidores de los ayuntamientos, se presentarán ante la Secretaría de Asuntos Interinstitucionales.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 220.
 
-Una vez ratificadas las denuncias, la Secretaría de Asuntos Interinstitucionales las turnará a la Presidencia de la Mesa Directiva, con el objeto de que se substancie el procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos y formule el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso, en que resolverá en definitiva la Presidencia.
+Una vez ratificadas las denuncias, la Secretaría de Asuntos Interinstitucionales las turnará a la Presidencia de la Mesa Directiva, con el objeto de que se substancie el procedimiento administrativo previsto en la Ley aplicable en materia de responsabilidades administrativas y formule el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso, en que resolverá en definitiva la Presidencia.
 
 ## TÍTULO DUODÉCIMO. DE LA ELECCIÓN DE SERVIDORES PÚBLICOS
 
@@ -2598,3 +2654,29 @@ P.O. 12 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0005/2018 I P.O., POR MEDIO DEL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 96 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/RFLEY/0851/2018 XVI P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y DE LA LEY ESTATAL DE BIBLIOTECAS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los recursos humanos, materiales, financieros, presupuestales y documentales, en cualquier soporte, del Archivo Histórico, adscrito a la Biblioteca Carlos Montemayor Aceves de la Secretaría de Asuntos Legislativos, antes de la entrada en vigor del presente Decreto, se transfieren de manera íntegra y en todos sus términos a la Dirección de Archivos, dependiente de la Secretaría de Administración del H. Congreso del Estado, para lo cual se suscribirán las actas de entrega-recepción pertinentes, durante el presente año 2018, con la intervención de las instancias y gestiones que resulten necesarias.
+
+TERCERO.- Para los efectos previstos en el artículo que antecede, la Secretaría de Administración del Poder Legislativo hará las gestiones a que hubiera lugar; así mismo, tomará las medidas organizativas y presupuestales necesarias, que garanticen la correcta ejecución y continuidad del Sistema Institucional de Archivos.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFLEY/0872/2018 XVII P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Asuntos Legislativos, deberá realizar los lineamientos necesarios para la puesta en funcionamiento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Administración, deberá realizar las asignaciones presupuestarias a la entrada en vigor del presente Decreto.
