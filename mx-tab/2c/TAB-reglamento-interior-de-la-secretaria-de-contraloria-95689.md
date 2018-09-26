@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-contraloria-95689"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-30"
-last_updated: "2013-08-07"
+last_updated: "2018-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,19 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA, PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE AGOSTO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tabasco, el martes 30 de julio de 2013.
 
 LIC. ARTURO NÚÑEZ JIMÉNEZ, GOBERNADOR DEL ESTADO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 51, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO; CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 7, FRACCIÓN II, Y 8 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO; Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo antes expuesto, fundado y motivado he tenido a bien emitir el siguiente:
 
@@ -1156,3 +1158,19 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 M. AUD. MARTHA PATRICIA JIMÉNEZ OROPEZA
 
 SECRETARIA DE CONTRALORÍA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA”.]
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Contraloría, publicado en el Periódico Oficial del Estado, Extraordinario No. 82, de fecha 30 de julio de 2013.
+
+TERCERO.- Se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO.- La Secretaría de Controlaría ejercerá la función de Órgano Interno de Control en las Dependencias y Entidades que al momento de la entrada en vigor del presente Reglamento, no cuenten con dicha figura.
+
+QUINTO.- Los Órganos Internos de Control de las Dependencias, ejercerán esta función respecto de los Órganos Desconcentrados y Organismos Descentralizados sectorizados, que al momento de la entrada en vigor del presente Reglamento, no cuenten con dicha figura.
