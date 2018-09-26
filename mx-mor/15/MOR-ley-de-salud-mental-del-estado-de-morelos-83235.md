@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2016-12-22"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -217,15 +217,27 @@ XL.- Unidad de hospitalización de corta estancia.- Unidad Médica integrada por
 
 Son principios de la Ley:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 a) El respeto irrestricto a los derechos humanos de las personas con trastornos mentales;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 b) La universalidad en el acceso de todas las personas con trastornos mentales en el Estado, en condiciones de igualdad efectiva y no discriminación, en los términos establecidos en esta Ley;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 c) La prevención de los trastornos mentales con carácter prioritario para el Sistema Estatal de Salud;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 d) El carácter público de las prestaciones que señala esta Ley;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 e) La atención a las personas que padezcan trastornos mentales, en forma integral;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 f) La transversalidad de las políticas de atención a las personas con trastornos mentales;
 
@@ -235,7 +247,9 @@ h) Confidencialidad;
 
 i) Consentimiento informado;
 
-j) Ingreso voluntario e involuntario;
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+j) Internamiento voluntario e involuntario;
 
 k) Alternativa menos restrictiva;
 
@@ -247,7 +261,9 @@ n) Mecanismo de revisión periódica;
 
 o) Competencia;
 
-p) Acreditación para los profesionales en salud mental;
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+p) Acreditación para los profesionales en salud mental, y
 
 q) Derechos y participación de las familias y los usuarios de salud mental.
 
@@ -601,15 +617,27 @@ El internamiento de personas con padecimientos mentales, se debe ajustar a princ
 
 Sólo puede recurrirse al internamiento de una persona usuaria, cuando el tratamiento no pueda efectuarse en forma ambulatoria o domiciliaria, y previo dictamen de los profesionales acreditados por la Secretaría. El Reglamento señalará las características para este procedimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 47.
 
-El ingreso de las personas usuarias a las unidades que prestan servicios de atención integral hospitalaria médico-psiquiátrica podrá ser voluntario, de emergencia o por orden de autoridad y se ajustará a los procedimientos siguientes:
+El internamiento como último recurso terapéutico en las unidades que prestan servicios de atención integral hospitalaria médico-psiquiátrica, se ajustará a principios éticos y con apego a los derechos humanos, podrá ser voluntario, involuntario o por orden de autoridad y se apegará a los procedimientos siguientes:
 
-I.- El ingreso voluntario requiere de la indicación del médico tratante y de la autorización de la persona usuaria, ambas por escrito, informando a sus familiares o a su representante legal;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II.- El ingreso de emergencia se presenta en el caso de personas con trastornos mentales severos que requieran atención urgente o representen un peligro grave o inmediato para sí mismos o para los demás. Requiere la indicación de un médico psiquiatra y la autorización de un familiar responsable, tutor o representante legal, ambas por escrito. En caso de extrema urgencia, la persona usuaria puede ingresar por indicación escrita del médico a cargo del servicio de admisión de la Unidad Hospitalaria. En cuanto las condiciones de la persona usuaria lo permitan, deberá ser informado de su situación de internamiento, para que en su caso, su condición cambie a la de ingreso voluntario, y
+I.- El internamiento voluntario requiere de la indicación del médico tratante y de la autorización de la persona usuaria, ambas por escrito, informando a sus familiares o a su representante legal;
 
-III.- El ingreso por orden de autoridad se lleva a cabo cuando lo solicita la autoridad competente, siempre y cuando el paciente lo amerite de acuerdo con el examen médico psiquiátrico.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+II.- El internamiento involuntario se presenta en el caso de personas con trastornos mentales que se encuentren impedidos para solicitarlo por sí mismas por incapacidad transitoria o permanente y requieran atención urgente o representen un peligro grave o inmediato para sí mismos o para terceros. Este deberá ser solicitado por escrito por un familiar, tutor, representante legal o, a falta de los anteriores, otra persona interesada que en caso de urgencia solicite el servicio y siempre que exista la indicación por escrito de un médico calificado.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de extrema urgencia, la persona usuaria puede ingresar por indicación escrita del médico a cargo del servicio de admisión de la Unidad Hospitalaria. En cuanto las condiciones de la persona usuaria lo permitan, deberá ser informado de su situación de internamiento, para que, en su caso, su condición cambie a la de internamiento voluntario, y
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+III.- El internamiento por orden de autoridad se lleva a cabo cuando lo solicita la autoridad competente, siempre y cuando el paciente lo amerite de acuerdo con el examen médico psiquiátrico.
 
 ###### Artículo 48.
 
@@ -1032,3 +1060,19 @@ SE DEROGA.
 DÉCIMO. Los derechos y beneficios que a la fecha se hayan otorgado por virtud del ordenamiento legal a que se refiere la disposición transitoria anterior, continuarán siendo aplicables y garantizados por las autoridades competentes.
 
 > <small>[N. DE E. VÉASE ANEXO RELACIÓN DE OBRAS INCLUIDAS EN EL PRESUPUESTO DE EGRESOS 2017, EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINA 128.]</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL NOVECIENTOS SETENTA Y DOS POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
