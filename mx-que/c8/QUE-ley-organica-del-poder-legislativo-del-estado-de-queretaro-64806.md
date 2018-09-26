@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2017-07-21"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -31,7 +35,7 @@ LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE L
 
 CONSIDERANDO
 
-...
+[...]
 
 8. Que en ese sentido y en razón de que el artículo 17 fracción I de la Constitución Política del Estado de Querétaro, otorga a la Legislatura la facultad de expedir su ley orgánica, se aprobó la Ley Orgánica del Poder Legislativo del Estado de Querétaro.
 
@@ -43,33 +47,43 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Primero. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 1.
 
-(Objeto de la ley) Esta Ley tiene por objeto reglamentar la organización, funciones y atribuciones del Poder Legislativo del Estado de Querétaro, de sus órganos y dependencias; normar los procedimientos que derivan de esas atribuciones previstas en la Constitución Política del Estado de Querétaro, así como definir los derechos y obligaciones de los integrantes de la Legislatura y de los servidores públicos del Poder Legislativo.
+(Objeto de la ley) Esta Ley tiene por objeto establecer la organización, funciones y atribuciones del Poder Legislativo del Estado de Querétaro, de sus órganos y dependencias; normar los procedimientos que derivan de esas atribuciones previstas en la Constitución Política del Estado de Querétaro, así como definir los derechos y obligaciones de los integrantes de la Legislatura y de los servidores públicos del Poder Legislativo.
 
 Las disposiciones de esta Ley no son transigibles por vía de acuerdo de la Legislatura o de sus órganos, ni su vigencia u observancia podrán, por este concepto, suspenderse u obviarse.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 2.
 
-(Denominación y permanencia) El Poder Legislativo del Estado, ejerce la función legislativa del Poder Público, independientemente de la renovación periódica de sus integrantes; se deposita en una asamblea denominada Legislatura del Estado, cuyo número ordinal sucesivo se antepondrá al designarla; se integra por representantes populares denominados diputados, quienes serán electos cada tres años. Por cada diputado propietario se elegirá un suplente.
+(Denominación y permanencia) El Poder Legislativo del Estado de Querétaro, ejerce la función legislativa del Poder Público, independientemente de la renovación periódica de sus integrantes; se deposita en una asamblea denominada Legislatura del Estado, cuyo número ordinal sucesivo se antepondrá al designarla; se integra por representantes populares denominados diputados, quienes serán electos o reelectos según corresponda en términos de las disposiciones electorales vigentes. Por cada diputado propietario habrá un suplente.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+Para efectos de la presente ley, se referirá como "diputado" a la persona mujer u hombre que por votación popular o habiendo cumplido con los requisitos de ley y procesos correspondientes accede a ejercer el cargo para formar parte de la Legislatura del Estado; asimismo se referirá como "Presidente" o "Presidenta", "Secretario" o "Secretaria" al diputado o diputada que se encuentre en el cargo.
 
-Los tres años de ejercicio constitucional se considerarán de trabajo legislativo permanente y serán conducidos por la Mesa Directiva con periodos de hasta seis meses cada una y por ningún motivo habrá recesos en los mismos.
+Los tres años de ejercicio constitucional se considerarán de trabajo legislativo permanente, consecuente y serán conducidos por la Mesa Directiva con periodos de hasta seis meses cada una, sin recesos en los mismos, salvo los periodos vacacionales que la misma determine.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 3.
 
-(Personalidad) La Legislatura del Estado cuenta con personalidad jurídica y patrimonio propios; dispondrá del personal y los recursos financieros y materiales necesarios para el eficiente desempeño de sus atribuciones.
+(Personalidad y patrimonio) La Legislatura del Estado cuenta con personalidad jurídica y patrimonio propios, sus bienes son inembargables e imprescriptibles. Dispondrá de los recursos humanos, financieros y materiales necesarios para el eficiente y correcto desempeño de sus atribuciones.
 
 > <small>(ADICIONADO, P.O. 13 DE ENERO DE 2014)</small>
 
 El Poder Legislativo del Estado, con el voto de la mayoría calificada de sus integrantes, podrá celebrar los contratos de corto, mediano y largo plazo, necesarios para el desarrollo de proyectos de infraestructura propia y contratación de servicios integrales, exclusivamente encaminados a las actividades inherentes al Poder Legislativo del Estado de Querétaro. Los contratos que se celebren con esta finalidad podrán tener vigencia anual o plurianual, y podrán celebrarse mediante la utilización de cualquier tipo de contrato o instrumento de adquisición, enajenación, arrendamiento, obra pública, prestación de servicios o proyecto de inversión, incluyendo cualquier tipo de empréstitos, arrendamientos financieros, fideicomisos o crédito en sus diversas modalidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 4.
 
-(Residencia) La Legislatura tendrá su residencia oficial en el municipio de Querétaro y sesionará en sus recintos oficiales. La Mesa Directiva podrá habilitar otros recintos en el territorio del Estado, para el mismo efecto.
+(Residencia y domicilio) La Legislatura tendrá su residencia oficial en el municipio de Querétaro y sesionará en sus recintos oficiales. La Mesa Directiva podrá habilitar otros recintos en el territorio del Estado, para el mismo efecto.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Como domicilio oficial del Poder Legislativo del Estado de Querétaro, se tendrá el ubicado en Avenida Fray Luis de León número 2920, Colonia Centro Sur en la Ciudad de Santiago de Querétaro.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -77,157 +91,203 @@ El Poder Legislativo del Estado, con el voto de la mayoría calificada de sus in
 
 (Inviolabilidad de los recintos oficiales) Los recintos oficiales del Poder Legislativo son inviolables. Ninguna autoridad podrá ejecutar mandatos administrativos o judiciales en ellos. Toda fuerza pública está impedida de tener acceso a los mismos, salvo autorización del Presidente de la Legislatura, en cuyo caso quedará bajo el mando de éste.
 
-El Presidente de la Legislatura podrá requerir el auxilio de la fuerza pública para salvaguardar el orden y la inviolabilidad de los recintos oficiales del Poder Legislativo. Si se estuviera celebrando sesión de la Legislatura e ingresara al recinto la fuerza pública sin mediar autorización, el Presidente de la Mesa Directiva ordenará su desalojo y podrá decretar la suspensión de la sesión hasta que dicha fuerza abandone el recinto y presentará la denuncia o iniciará el procedimiento correspondiente ante las autoridades competentes, para que el responsable sea sancionado.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Queda estrictamente prohibido el ingreso de la fuerza pública a los recintos oficiales sin autorización previa de la Presidencia, ésta podrá requerir el auxilio de la fuerza pública para salvaguardar el orden y la inviolabilidad de los recintos oficiales.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Si se estuviera celebrando sesión de la Legislatura o cualquiera de sus órganos, la Presidencia de la Mesa Directiva solicitará el retiro inmediato de los elementos o cuerpos de seguridad externos al Poder Legislativo, debiendo además presentar querella ante autoridad competente y solicitar el inicio de los procedimientos de responsabilidad que correspondan.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 6.
 
-(Comunicaciones internas) A efecto de promover la eficacia del trabajo legislativo y la economía presupuestal de la Legislatura, las comunicaciones oficiales entre los integrantes de la Legislatura, sus órganos y dependencias, se remitirán preferentemente a través de medios electrónicos y, excepcionalmente, por medios impresos.
+(Comunicaciones internas) A efecto de promover la eficacia del trabajo legislativo y la economía presupuestal de la Legislatura, las comunicaciones internas entre los integrantes de la Legislatura, sus órganos y dependencias, se remitirán preferentemente a través de medios electrónicos y, excepcionalmente, por medios impresos.
 
-Cuando se ponga en duda la eficacia de las comunicaciones a que se refiere este artículo, el departamento de informática del Poder Legislativo podrá ser consultado a efecto de verificar el particular.
+Se entenderán como comunicaciones internas aquellos avisos de tipo administrativo e informativo a trabajadores de la Legislatura relacionados con el funcionamiento del Poder Legislativo, por ende no podrán constituir trámite legislativo, judicial o de responsabilidad alguna.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 7.
 
-(Comunicaciones de particulares) Las comunicaciones que provengan de particulares, dirigidas a algún diputado o dependencia del Poder Legislativo, serán remitidas a su destinatario por la Oficialía de Partes.
+(Oficialía de Partes, Solicitudes de Información y Comunicaciones de particulares) La Oficialía de Partes de la Legislatura se encuentra adscrita a la Secretaría de Servicios Parlamentarios y se ubicará en el domicilio del Poder Legislativo, funcionará y dará tramite a los documentos recibidos conforme a la presente ley y al acuerdo que para tal efecto se encuentre vigente.
 
-Las que se dirijan a la Legislatura o a sus órganos y no constituyan iniciativa de ley, decreto o acuerdo, tendrán el curso que acuerde el Presidente de la Legislatura.
+Las solicitudes de información que realicen los particulares se remitirán a la Unidad de Transparencia para trámite respectivo en su caso conforme a la Ley de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+Son comunicaciones de particulares aquellos documentos no oficiales que impliquen felicitaciones, invitaciones, solicitudes personales, agradecimientos, suscripciones o similares. Dichos documentos serán recibidos en su caso en las oficinas de cada diputado y bajo ningún supuesto en Oficialía de Partes.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 8.
 
-(Comunicaciones oficiales) Las comunicaciones oficiales dirigidas a la Legislatura que no constituyan iniciativa, se harán del conocimiento de los integrantes de la Legislatura, mediante una síntesis, dentro de la Sesión del Pleno que corresponda y se dará el trámite que acuerde el Presidente de la Legislatura. Se exceptúan de lo anterior, aquellas comunicaciones que requieran acuerdo del Pleno, de las cuales se informará en la sesión correspondiente.
+(Comunicaciones oficiales) Se consideran comunicaciones oficiales aquellas que no constituyan iniciativa de Ley y sean remitidas por el Gobernador del Estado, de los titulares de las dependencias del Poder Ejecutivo, del Fiscal General y de las Fiscalías especializadas, del Tribunal Superior de Justicia del Estado, de los Ayuntamientos, de los titulares de los organismos públicos autónomos o de las entidades y de los Poderes u órganos autónomos federales, estatales o municipales.
 
-Tienen carácter oficial, las comunicaciones que provengan del Gobernador del Estado, de sus Secretarios de despacho, del Procurador General de Justicia, de los magistrados y jueces, de los ayuntamientos, de los titulares o representantes de los organismos públicos autónomos o de los organismos descentralizados y de los Poderes u órganos autónomos federales o estatales.
+Las comunicaciones oficiales se harán del conocimiento de los integrantes de la Legislatura, mediante una síntesis, dentro de la Sesión del Pleno que corresponda y se dará el trámite que acuerde la Presidencia de la Legislatura. Se exceptúan de lo anterior, aquellas comunicaciones que requieran acuerdo del Pleno, de las cuales se informará en la sesión correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 9.
 
-(Notificaciones por estrados) Las notificaciones por estrados se llevarán a cabo en los siguientes supuestos:
+(Notificaciones). Se realizarán notificaciones en aquellos casos en que lo ordene alguno de los órganos de la Legislatura y que se deriven de procedimientos legislativos o administrativos en los términos de la ley vigente.
 
-I. Cuando no se señale domicilio legal;
+Se harán notificaciones personales y por cédula en los casos que la ley lo establezca específicamente.
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+Las notificaciones por estrados se realizarán en los siguientes casos:
 
-II. Cuando el domicilio señalado no coincida con el del interesado;
+I. Cuando no se señale domicilio legal o procesal para recibir notificaciones;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+II. Cuando se señale domicilio legal o procesal para recibir notificaciones fuera de la ciudad de Santiago de Querétaro;
 
-III. Cuando el interesado se niegue a recibir la notificación; y
+III. Cuando el domicilio señalado no coincida con el del interesado;
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+IV. Cuando el domicilio señalado no exista o sea de imposible localización.
 
-IV. Cuando el domicilio señalado no exista.
+V. Cuando el interesado o los autorizados se nieguen a recibir la notificación;
+
+VI. En cualquier otro supuesto similar que impida la veracidad de la entrega de la notificación.
+
+Los estrados estarán a cargo de la Secretaría de Servicios Parlamentarios y se ubicarán al exterior de la oficina donde se ubique Oficialía de Partes, o bien en el lugar que al efecto se destine, mismo que deberá estar en el domicilio de la Legislatura y en lugar accesible para su consulta por la ciudadanía.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 10.
 
-(Deber de coadyuvar a la función legislativa) Todas las autoridades estatales y municipales, deberán coadyuvar al cumplimiento de las funciones de los diputados y órganos del Poder Legislativo, proporcionando la información y documentación que les sea solicitada.
+(Deber de coadyuvar a la función legislativa) Es responsabilidad de las autoridades que radiquen en el Estado de Querétaro, coadyuvar al cumplimiento de las funciones de los diputados y órganos del Poder Legislativo cuando se trate de temas inherentes a su función y al órgano legislativo que presidan en su caso.
 
-Si la información o documentación no fuese proporcionada, podrán los diputados o los órganos del Poder Legislativo, por conducto de su presidente, elevar al Pleno su inconformidad, debidamente fundada y motivada, para que éste, analizando el caso particular, promueva las acciones de responsabilidad correspondiente.
+Cuando sin causa o justificación alguna la información no se entregara con la intención de retrasar con ello los trabajos de los órganos legislativos, se solicitará a la Presidencia de la Mesa Directiva elevar a grado de inconformidad la omisión.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 11.
 
-(Excusa por interés personal) Cuando algún integrante de los órganos tuviere interés personal en cualquier asunto que se remita para examen o trámite de éstos, deberá excusarse de intervenir y votar en el asunto, comunicándolo previamente al Presidente del órgano respectivo.
+(Excusa por interés personal) Cuando algún diputado tuviere interés personal o conflicto de intereses en asuntos que se le remitan para análisis, discusión y en su caso votación en cualquiera de los órganos que integra, deberá excusarse de intervenir en el asunto, comunicándolo por escrito a la Presidencia del órgano de que se trate.
 
-En caso de que el Diputado no se excusara, podrá ser recusado por cualquier diputado quien deberá fundar y motivar la recusación que hiciere al homólogo; si de (sic) tratare de asuntos que aún se encuentren en estudio del órgano, resolverá lo conducente el Presidente del mismo; si el diputado recusado es el Presidente del órgano, resolverá el Presidente de la Mesa Directiva, en el supuesto de que sea el Presidente, Vicepresidente o Secretarios de la Mesa Directiva, resolverá el Pleno.
+En caso de que el Diputado no se excusara, podrá ser recusado por algún homólogo, debiendo fundar y motivar dicha recusación. La recusación se presentará ante la Presidencia del órgano que conozca del asunto, si el recusado es el Presidente del órgano, se presentará ante la Presidencia de la Mesa Directiva, en el supuesto de que el recusado o recusada sea integrante propietario de la Mesa Directiva, resolverá el Pleno.
+
+A la excusa y recusación deberá recaer un acuerdo, indicando la procedencia o improcedencia de la solicitud.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 12.
 
-(Entrega y recepción administrativa de la Legislatura) Las dependencias del Poder Legislativo, deberán entregar al Presidente de la Legislatura saliente, la documentación que avale el estado de los asuntos de su competencia, a efecto de (sic) éste designe una comisión para llevar a cabo el procedimiento de entrega y recepción de la Legislatura, el cual se sujetará a las disposiciones que establezca la ley de la materia.
+(Entrega y recepción administrativa de la Legislatura) Los titulares de las dependencias del Poder Legislativo, deberán registrar y desahogar oportunamente los procedimientos preparatorios y ejecutivos del proceso de entrega recepción, debiendo entregar a la Presidencia de la Legislatura en funciones saliente, la información y documentación en los formatos y plazos indicados para ello.
+
+La información y documentación deberá indicar el estado de los asuntos de su competencia, así como toda aquella información complementaria o aclaratoria que permita una transición oportuna, debiendo además atender las disposiciones de la Ley de la presente Ley y de la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 13.
 
-(Sistema de Servicio Profesional de Carrera) El Sistema de Servicio Profesional de Carrera es un procedimiento administrativo de selección y capacitación de personal, que garantiza el ingreso, capacitación, desarrollo, promoción y permanencia de los servidores públicos del Poder Legislativo que formen parte de este sistema, basado en la experiencia y preparación comprobable y la evaluación periódica, calificación de sus funciones, así como la igualdad de oportunidades, con el fin de impulsar la profesionalización de la función pública, en beneficio de la sociedad y de la propia institución.
+(Servicio Profesional de Carrera) El Servicio Profesional de Carrera es un procedimiento administrativo de selección y capacitación de personal, que permitirá el ingreso, capacitación, desarrollo, promoción y permanencia de los servidores públicos del Poder Legislativo, basado en la experiencia laboral, especialización, preparación profesional, registros de evaluación periódica y calificación de sus funciones, con el fin de impulsar la profesionalización del servicio público.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+Los parámetros, criterios, funcionamiento y operación del Servicio Profesional de Carrera del Poder Legislativo, se resolverá de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 14.
 
-(Trabajo anual de investigación) La Legislatura del Estado editará y publicará anualmente al menos una obra o trabajo de investigación legislativa, cuya elaboración estará a cargo de la Dirección de Investigación y Estadística Legislativa. Asimismo, en el mes de noviembre, cada investigador presentará protocolo de investigación para que se considere en el presupuesto correspondiente.
+(Publicación de obras legislativas) Atendiendo al presupuesto disponible, la Legislatura del Estado procurará la edición y publicación anual de obras o trabajos de temas legislativos relacionados con la propia legislatura, debiendo presentar la Dirección de Investigación y Estadística Legislativa en el mes de octubre de cada año, al menos 3 propuestas a la Junta de Coordinación Política para su consideración.
+
+Los órganos del Poder Legislativo podrán enriquecer con sus experiencias las propuestas consideradas como obras o trabajos de interés legislativo para publicación institucional.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 15.
 
-(Revistas, carteles, folletos y demás publicaciones) Los órganos y dependencias del Poder Legislativo podrán editar y publicar, con cargo a sus fondos, las publicaciones que contribuyan al mejor desarrollo de sus actividades. Si requieren recursos adicionales para este propósito, lo solicitarán a la Comisión de Planeación y Presupuesto para que acuerde lo conducente, atendiendo a la disponibilidad presupuestal y prioridades de los programas institucionales.
+(Portal en internet) La Legislatura del Estado contará con un portal en internet, cuyo contenido básico será presentar de manera clara, oportuna, accesible, sencilla e institucional aquella información del Poder Legislativo, diputados, órganos y dependencias que se requiera en materia de transparencia, agenda política, consulta, contenido, proceso legislativo y aquella que la Presidencia de la Legislatura determine periódicamente.
+
+El Portal en internet de la Legislatura estará a cargo de la Presidencia de la Legislatura, debiendo colaborar todas (sic) dependencias y órganos de la Legislatura en el ámbito de su competencia para su correcto funcionamiento y actualización constante.
 
 ### Capítulo Segundo. Derechos y obligaciones de los diputados
 
-#### Sección Primera. Derechos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+#### Sección Primera. De los Derechos
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 16.
 
 (Derechos de los diputados) Son derechos de los diputados:
 
-I. Participar con voz y voto en las sesiones de la Legislatura y de los órganos a que pertenezcan, y con voz en las sesiones y reuniones de los demás órganos de la Legislatura;
+I. Participar con voz y voto en las sesiones de la Legislatura y de los órganos a que pertenezcan, y con voz en las sesiones de los demás órganos de la Legislatura;
 
-II. Recibir, a partir de que protesten el cargo, las percepciones económicas y demás remuneraciones que correspondan al desempeño de sus funciones, que serán denominadas “dietas” y determinadas conforme a las leyes aplicables;
+II. Recibir las percepciones y remuneraciones económicas que correspondan al desempeño de sus funciones, de conformidad con las disposiciones aplicables;
 
-III. Realizar encuestas de opinión, foros y consultas populares sobre los asuntos relativos al ejercicio de su función legislativa y de representación; cuando con este propósito actúen por conducto de las Comisiones, será necesario el acuerdo respectivo en el seno del órgano correspondiente;
+III. Realizar encuestas, foros y consultas de los asuntos que les sean turnados, relativos al ejercicio de su función legislativa y de representación; cuando con este propósito actúen por conducto de las Comisiones, será necesario el acuerdo respectivo en el seno del órgano correspondiente;
 
-IV. Solicitar licencia a la Legislatura;
+IV. Solicitar licencia a la Legislatura para separarse temporal o definitivamente del cargo de diputado;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+V. Rendir una vez al año, un informe de las actividades realizadas en su ejercicio como legislador local. Dicho informe estará disponible en el portal de la página oficial de la Legislatura del Estado;
 
-V. Rendir a la sociedad, una vez al año, un informe de las actividades que realizan;
+VI. Dar a conocer al Pleno de la Legislatura en su caso, dentro del apartado de Asuntos Generales, el contenido de sus iniciativas, así como proponer la Comisión a la que se sugiere sea turnada para estudio y dictamen;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+VII. Solicitar y obtener respuesta de aquella información que se solicite a las autoridades que radiquen en el Estado de Querétaro, cuando se trate de temas inherentes a su función y al órgano legislativo que presidan en su caso.
 
-VI. Dar a conocer ante el Pleno el contenido de sus iniciativas y el alcance de las mismas, así como proponer la Comisión Ordinaria o Especial a la que deba ser turnada para su correspondiente estudio y dictamen;
+VIII. Gozar de periodos de descanso, cuando dichos periodos no coincidan con los periodos vacacionales del personal administrativo de la Legislatura del Estado, se deberá dar aviso por escrito a la Presidencia de la Mesa Directiva a través de la Coordinación del grupo o fracción legislativa según sea el caso; y
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+IX. Los demás señalados en la presente Ley y disposiciones legales y administrativas vigentes aplicables.
 
-VII. Solicitar por sí o mediante las Comisiones a que pertenezcan, la información que para el ejercicio de sus facultades de investigación y representación requieran de las dependencias, organismos y entidades de los Poderes Ejecutivo, Judicial y Legislativo, de los organismos constitucionales autónomos y de las autoridades municipales del Estado; y
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+#### Sección Segunda. De las Obligaciones
 
-VIII. Contar con periodos de descanso, los días y fechas que corresponda a cada periodo, serán determinados por acuerdo de la Junta de Coordinación Política.
-
-#### Sección Segunda. Obligaciones
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
-(Obligaciones de los diputados) Además de las obligaciones generales, aplicables a todos los servidores públicos, corresponden a los diputados las siguientes:
+(Obligaciones de los diputados) Son obligaciones de los diputados:
 
-I. Abstenerse de ostentar el cargo para la comisión de ilícitos penales, civiles, fiscales o administrativos;
+I. Dar aviso previamente y por escrito a la Presidencia de la Legislatura, cuando se pretendan ausentar hasta por quince días naturales del territorio nacional;
 
-II. Abstenerse de actuar en representación de otro Poder estatal o desempeñar cualquier otro empleo en la Federación, en los Estados o en los Municipios, excepto los relativos a la docencia;
+II. Solicitar previamente y por escrito autorización de la Mesa Directiva cuando se ausenten por más de quince días y hasta por treinta días naturales del territorio nacional.
 
-III. Dar aviso a la Presidencia de la Legislatura, a través de sus coordinadores de Grupo Legislativo, Fracción Legislativa o a nombre propio, cuando se ausenten hasta por quince días naturales del territorio nacional;
+En cualquier caso, el diputado que se ausente del territorio nacional deberá comunicar su lugar de destino y aquellos datos que permitan su inmediata localización en caso de urgencia a criterio de la Presidencia de la Legislatura;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEXTO TRANSITORIO DE LA LEY.</small>
+III. Presidir una Comisión ordinaria de dictamen y ser integrante de aquellas comisiones que le determine el Pleno de la Legislatura;
 
-IV. Solicitar autorización de la Mesa Directiva, a través de sus coordinadores de Grupo Legislativo, Fracción Legislativa o a nombre propio, cuando se ausenten por más de quince días y hasta por treinta días naturales del territorio nacional;
+IV. Asistir puntual a las sesiones de la Legislatura y de los órganos a los que pertenezcan, permaneciendo en ellas desde su inicio hasta su término;
 
-En cualquier caso, el diputado que se ausente del territorio nacional deberá comunicar el lugar a que se dirija y los datos que permitan su inmediata localización;
+V. Emitir claramente su voto en los órganos a que pertenezcan y en aquellos asuntos que lo requieran;
 
-V. Integrar no más de cuatro comisiones ordinarias y ser Presidente de una de éstas;
+VI. Actuar en todo momento con el debido respeto hacia las leyes, instituciones y personas;
 
-VI. Concurrir puntualmente a las sesiones de la Legislatura y de los órganos a los que pertenezcan y permanecer en ellas desde su inicio hasta su conclusión;
+VII. Presentar sus manifestaciones patrimoniales, fiscal y de intereses en los términos de la legislación vigente;
 
-VII. Emitir su voto en los asuntos que lo requieran, en el Pleno y demás órganos a que pertenezcan;
+VIII. Cumplir y hacer cumplir las disposiciones de la presente Ley, el Código de Ética del Poder Legislativo y demás disposiciones legales vigentes; acorde a su protesta;
 
-VIII. Actuar con el debido respeto hacia las leyes, instituciones y personas;
+IX. Cumplir con su encargo de manera responsable, comprometida, solidaria y en beneficio de los habitantes del Estado de Querétaro; y
 
-IX. Presentar la manifestación anual de bienes, de acuerdo con la ley de la materia;
+X. Las demás señaladas en la presente Ley y disposiciones legales y administrativas vigentes aplicables.
 
-X. Mantener, permanentemente, acercamiento con la población;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
-
-XI. Abstenerse de ejercer funciones administrativas, salvo las expresamente señaladas en la ley;
-
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
-
-XII. Contar con una página de internet en la que se establezca de manera clara su nombre y apellido, a fin de difundir las actividades legislativas y de trabajo con los ciudadanos y de representación llevadas a cabo, con el propósito de informar permanentemente el desarrollo de su gestión pública y facilidad de contacto con la sociedad; y
-
-N. DE E., DEL ANÁLISIS REALIZADO EN LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL P.O. DE 18 DE OCTUBRE DE 2013, SE OBSERVA QUE SE AGREGÓ ESTA FRACCIÓN.
-
-XIII. Observar estrictamente las disposiciones de esta ley y las normas que de ella emanen.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 18.
 
-(DEROGADO, P.O. 5 DE AGOSTO DE 2016)
+(Prohibiciones de los Diputados) Queda prohibido a los Diputados:
+
+I. Ostentar el cargo de manera irresponsable que pueda derivar en la comisión de ilícitos o faltas administrativas, así como para recibir algún tipo de beneficio personal ajeno a la función que como diputado les corresponde;
+
+II. Desempeñar cualquier otro cargo o empleo en los Poderes del Estado, la Federación, los Estados o en los Municipios, excepto los relativos a la docencia e investigación.
+
+Se exceptúan de lo anterior aquellos cargos, nombramientos o comisiones derivadas del ejercicio como Diputados;
+
+III. Presidir más de una Comisión Ordinaria o integrar más de cuatro comisiones ordinarias en un mismo periodo de la Legislatura;
+
+IV. Cambiar el sentido de su voto una vez que se haya registrado por la secretaría del órgano respectivo, de tal forma que influya en el resultado del cómputo y que no exista claridad en el sentido del mismo;
+
+V. Ejercer funciones administrativas, salvo las expresamente señaladas en la ley; y
+
+VI. Las demás restricciones y prohibiciones que se deriven de la presente ley y demás disposiciones legales y administrativas vigentes.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 19.
 
-(Causas de justificación de inasistencia a las sesiones) Los diputados podrán justificar su inasistencia a las sesiones de la Legislatura o de los órganos a los que pertenezcan, por las siguientes causas:
+(Ausencias y su Justificación) Los diputados previa (sic), en el transcurso o dentro de los tres días hábiles siguientes al desahogo de la sesión del órgano que corresponda, podrán solicitar se justifique su ausencia por cualquiera de las causas que refiere la presente Ley.
+
+Los diputados podrán justificar su inasistencia a las sesiones de la Legislatura o de los órganos a los que pertenezcan, por las siguientes causas:
 
 I. Sufrir el diputado, su cónyuge o alguno de sus parientes consanguíneos hasta el segundo grado, en línea recta o colateral, accidente de cualquier naturaleza que ponga en peligro la vida o la integridad física;
 
@@ -239,15 +299,31 @@ IV. Ocurrir en el lugar donde habitualmente radique el diputado, algún desastre
 
 V. Atender, con el carácter de diputado, compromisos oficiales de naturaleza legislativa, de representación de la Legislatura, de Comisiones, de Grupo o Fracción Legislativa que por su naturaleza tengan prioridad u otros asuntos de carácter personal justificados.
 
+Las ausencias injustificadas serán comunicadas a la Dirección de Servicios Financieros, para los descuentos que correspondan.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 20.
 
-(Justificación de Inasistencias) Los diputados, a través de sus coordinadores de Grupo Legislativo, Fracción Legislativa o a nombre propio, en forma previa, durante el transcurso de la sesión o dentro de los cuatro días hábiles siguientes a la celebración de la sesión, podrán solicitar se justifique su inasistencia a una Sesión del Pleno o de órganos del Poder Legislativo, incorporación después de iniciada o separarse de ella, mediante escrito fundado y motivado, con firma autógrafa. La autorización será valorada y, en su caso, concedida por el Presidente de la Legislatura con acuerdo de la Mesa Directiva o por el Presidente del órgano correspondiente, con acuerdo de sus integrantes.
+(Causas de justificación e inasistencia) Los diputados podrán justificar su inasistencia a las sesiones de la Legislatura o de los órganos a los que pertenezcan, por las siguientes causas:
 
-Las inasistencias, retardos y abandonos, serán comunicados por el Presidente de la Legislatura o el Presidente del órgano correspondiente a la Dirección de Servicios Financieros, para que realice los descuentos autorizados.
+I. Por accidente de cualquier naturaleza que ponga en peligro la vida o la integridad física del diputado, su cónyuge o alguno de sus parientes consanguíneos hasta el segundo grado, en línea recta o colateral;
+
+II. Por enfermedad que impida el desempeño normal y adecuado de sus facultades y funciones ante la Legislatura o padecerla gravemente su cónyuge o alguno de sus parientes consanguíneos hasta segundo grado en línea recta o colateral;
+
+III. Por fallecimiento del cónyuge o alguno de sus parientes consanguíneos hasta el segundo grado, en línea recta o colateral;
+
+IV. Por accidente, incidente o circunstancia tal que impida su traslado al recinto donde se verifique la sesión del órgano respectivo;
+
+V. Por atender encomiendas, comisiones o representaciones oficiales propias a la naturaleza del encargo; y
+
+VI. Por atender asuntos de carácter personal, que deberán ser expuestos en la justificación respectiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 21.
 
-(Descuento por inasistencias, retardos y abandono) Cuando sin causa justificada los diputados falten a las sesiones a las cuales se les haya convocado, provocará el descuento a su dieta, conforme a lo siguiente:
+(Descuento por inasistencias, retardos y abandono) Cuando sin causa justificada los diputados falten a las sesiones a las cuales se les haya convocado, provocará el descuento conforme a lo siguiente:
 
 I. Se considerará inasistencia, el no estar presente en cualquiera de los siguientes momentos:
 
@@ -261,19 +337,21 @@ II. Se considerará retardo, la asistencia a las sesiones después del primer pa
 
 III. Se considera abandono de la sesión, cuando el diputado, habiendo registrado su asistencia, se retire definitivamente sin causa justificada en cualquier momento, antes del término de la sesión.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-El descuento por inasistencia a una sesión del Pleno consistirá en el equivalente a cuatro días de dieta; por inasistencia a una sesión de un órgano, en el equivalente dos días de dieta; y por retardo o abandono, en el equivalente un día de dieta.
+El descuento por inasistencia a una sesión del Pleno consistirá en el equivalente a cuatro días de su remuneración; por inasistencia a una sesión de un órgano, en el equivalente dos días de su remuneración; y por retardo o abandono, en el equivalente un día de su remuneración. No podrá aplicarse más de un descuento a cada diputado por sesión.
 
-No podrá aplicarse más de un descuento a cada diputado por sesión.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 22.
 
-(Separación de funciones por inasistencia) Cuando sin causa justificada a juicio de la Legislatura, un diputado falte a tres sesiones consecutivas del Pleno, se llamará a su suplente, el cual ejercerá las funciones de propietario durante el término de seis meses contados a partir de su toma de protesta. Concluido el periodo, el diputado propietario podrá reincorporarse a sus funciones.
+(Separación de funciones por inasistencia) Cuando sin causa justificada a juicio de la Presidencia de la Legislatura, un diputado falte a tres sesiones consecutivas del Pleno, se llamará a su suplente, el cual ejercerá las funciones durante el plazo de seis meses contados a partir de su toma de protesta. Concluido dicho plazo, el diputado propietario podrá reincorporarse a sus funciones.
 
-#### Sección Tercera. Licencias
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+#### Sección Tercera. De las Licencias
 
 ###### Artículo 23.
 
@@ -283,101 +361,131 @@ I. Por embarazo; y
 
 II. Por solicitud expresa.
 
-Una vez recibida la solicitud, las licencias se concederán en los términos solicitados y se llamará al suplente respectivo.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Las licencias de Diputados y titulares de las dependencias se tramitarán ante la Presidencia de la Legislatura, de no haber impedimento se concederán en los términos solicitados.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando la licencia se realice por solicitud expresa, la Presidencia de la Legislatura llamará al suplente respectivo, o designará titulares interinos conforme a la presente Ley.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 24.
 
-(Licencia por causa de embarazo) Si alguna diputada lo solicitara por causa de su embarazo, podrá disfrutar de licencia con el goce de dietas a que tenga derecho, hasta por noventa días naturales, que podrán disfrutarse antes o después del parto, según su elección.
+(Licencia por causa de embarazo) Las solicitudes por embarazo se considerarán con goce de precepciones (sic) económicas, hasta por noventa días naturales antes o después del parto, según la solicitante.
 
-Durante el goce de la licencia, la Mesa Directiva llamará inmediatamente al suplente, quien gozará de los derechos y tendrá las obligaciones inherentes al cargo.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 25.
 
-(Defunción de legisladores) En caso de fallecimiento de un diputado, el Director de Servicios Administrativos dispondrá inmediatamente la publicación de una esquela y dará aviso al Presidente de la Legislatura, para que éste informe a los diputados, al Gobernador y al Presidente del Tribunal Superior de Justicia. La Legislatura llamará inmediatamente al suplente para que entre en funciones.
+(Defunción de legisladores) En caso de fallecimiento de un diputado, la Presidencia de la Legislatura informará de inmediato a los titulares del Poder Ejecutivo y del Poder Judicial del Estado, asimismo se llamará dentro de las siguientes sesiones de la Legislatura al diputado suplente.
 
-Las dependencias administrativas respectivas, dispondrán de las medidas pertinentes para el pago de gastos originados por el deceso y una ministración especial a la familia, equivalente a doce meses de las remuneraciones y prestaciones como diputado, con cargo al presupuesto de la Legislatura; además, el Director de Servicios Administrativos brindará a la familia del difunto la orientación y asesoría necesarias para la gestión de los trámites funerarios y demás apoyos de tipo administrativo que se requieran para hacer frente a la situación.
+La Presidencia de la Legislatura ordenará las previsiones que correspondan.
 
 ## Título Segundo. Junta preparatoria, instalación y funcionamiento de la Legislatura
 
-### Capítulo Primero. Junta preparatoria
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+### Capítulo Primero. De la Junta preparatoria
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 26.
 
-(Junta preparatoria) A las once horas del día que corresponda a los cinco días naturales anteriores a la fecha de la Sesión de instalación de la Legislatura, la Mesa Directiva, con apoyo de la Dirección de Asuntos Legislativos y Jurídicos, celebrará con los diputados electos citados previamente con la información que para tal efecto proporcione el Instituto Electoral de Querétaro y que se encuentren presentes, una junta preparatoria que tendrá por objeto:
+(Junta preparatoria) Previo a la instalación de una nueva legislatura, la Presidencia de la Legislatura citará a los Diputados electos conforme a las constancias del proceso electoral inmediato que haya proporcionado el Instituto Electoral del Estado de Querétaro.
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+La reunión tendrá verificativo dentro de los 5 días naturales previos a la sesión de instalación de la nueva Legislatura, debiendo notificar a los diputados electos con por lo menos 72 horas de anticipación al día y hora que se señale. La reunión se llevará a cabo y tendrá validez con la asistencia de los diputados que se encuentran presentes.
 
-I. Recibir de los diputados pertenecientes a los diversos Partidos Políticos o coaliciones por el cual fueron electos o, en su caso, los diputados independientes electos, las propuestas para el uso de los recursos para la transición, en los términos de la ley de la materia, a efecto de que se apliquen de forma integral por el grupo de diputados, o bien, de forma proporcional por cada uno de ellos;
+Los acuerdos tomados en la Junta preparatoria se tomarán por mayoría de votos de los diputados electos presentes, en caso de empate o falta de acuerdos, la Presidencia de la Legislatura resolverá lo conducente.
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
-
-II. Verificar y elegir entre los diputados electos, al diputado decano, entendiéndose como tal, al que haya ostentado dicho cargo por más ocasiones o, en su defecto, al de mayor edad, para que funja como Presidente de la Legislatura en la sesión de instalación;
-
-III. En caso de que haya dos o más decanos, será el que pertenezca al Partido Político con mayor representación en la Legislatura entrante; y
-
-IV. En caso de que no haya, será el primer Diputado del Partido Político con mayor representación en la Legislatura y que por orden alfabético, según su apellido le corresponda.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 27.
 
-(Inasistencia a la Junta preparatoria) Los acuerdos tomados en la Junta preparatoria, tendrán validez con la asistencia de los diputados que se encuentran presentes.
+(Objeto y desarrollo de la Junta Preparatoria). La junta preparatoria tendrá por objeto:
 
-### Capítulo Segundo. Instalación y funcionamiento
+I. Informar de los particulares de la sesión solemne de instalación de la Legislatura entrante;
+
+II. Informar el contenido del Acuerdo que establece el formato, orden y duración de los posicionamientos en la Sesión de Instalación de la Legislatura entrante; e
+
+III. Informar quien de los diputados electos o reelectos fungirá como Diputado Decano en la Sesión de instalación de la Legislatura entrante. Se considerará como diputado decano a quien haya desempeñado el cargo de Diputado local por más ocasiones y en caso de que no haya o existan 2 o más en el supuesto, se considerará al de mayor edad.
+
+La sesión estará a cargo de la Presidencia de la Legislatura quien deberá seguir el orden del día previsto en la citación, con el apoyo de la Secretaría de Servicios Parlamentarios.
+
+El Diputado Decano Presidirá la Sesión de instalación de la Legislatura entrante.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+### Capítulo Segundo. De la Instalación de la Legislatura
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 28.
 
-(Instalación) La Legislatura se instalará a las once horas del día veintiséis de septiembre del año que corresponda, en el salón de sesiones “Constituyentes 1916-1917” o, en su caso, en lugar distinto que se acuerde en la Junta Preparatoria, con la concurrencia de los diputados electos que se presenten.
+(Instalación) La Legislatura entrante se instalará en Sesión Solemne a las once horas del día veintiséis de septiembre del año que corresponda, citando para tal efecto la Presidencia de la Legislatura en turno a los diputados que integrarán la próxima.
 
-En caso de que el Presidente de la Legislatura no asistiera a la Sesión de Instalación, asumirá este cargo el primer Diputado que por orden alfabético, según su apellido le corresponda y que asista a la sesión de instalación.
+La sesión de instalación se llevará a cabo en la sede oficial de la Legislatura o donde la Mesa Directiva determine, y con la asistencia de los diputados actuales, de los electos y reelectos que se presenten.
 
-Si no se presentare ningún diputado propietario, el Presidente de la Legislatura será el diputado suplente que asista a la sesión y resulte de aplicar el mismo criterio del párrafo anterior.
+Ante la ausencia absoluta de diputados electos, reelectos y suplentes, y ante la imposibilidad material de integrar la Legislatura del Estado en los términos de lo dispuesto por la Constitución Política del Estado, la presente Ley y demás disposiciones legales aplicables, la Mesa Directiva saliente continuará en funciones hasta en tanto se reestablecen las condiciones básicas para su integración y funcionamiento.
 
-Ante la falta absoluta de los diputados propietarios y suplentes, la Mesa Directiva saliente llamará en primer término al candidato ubicado en primer lugar de la lista plurinominal del Partido Político que haya obtenido mayor representación en la Legislatura, para que funja como Presidente de ésta.
-
-Ante la falta absoluta de los diputados electos propietarios y suplentes y de la lista plurinominal, continuará en funciones la Mesa Directiva saliente, hasta en tanto se tome protesta al menos a un diputado.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 29.
 
-(Procedimiento de instalación) La instalación de la Legislatura se sujetará al siguiente procedimiento:
+(Orden del día de la Sesión de instalación) La Sesión Solemne de instalación de la Legislatura se sujetará preferentemente al siguiente orden del día:
 
-I. Se pasará lista de asistencia a efecto de dar cuenta de los diputados presentes;
+I. Pase de lista de los diputados salientes y entrantes;
 
-II. El Presidente de la Legislatura rendirá la protesta de ley y, en su caso, la tomará después al resto de los diputados electos, solicitando a los presentes ponerse de pie, de acuerdo con lo siguiente:
+II. Posicionamiento de un diputado representante de cada uno de los Partidos Políticos que serán representados en la Legislatura, conforme al Acuerdo que establece el formato, orden y duración de los posicionamientos en la Sesión de Instalación de la Legislatura entrante; aprobado por la Mesa Directiva saliente;
 
-"Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Querétaro y todas las leyes que emanen de ellas, y desempeñar leal y patrióticamente el cargo de diputado que el pueblo me ha conferido, por el bien y prosperidad de la República y del Estado. Si así no lo hiciere, que el Estado y la Nación me lo demanden";
+III. Honores a la Bandera e Himno Nacional;
 
-III. El Presidente de la Legislatura tomará asiento y preguntará a los demás diputados electos, quienes permanecerán de pie:
+IV. Toma de Protesta del Diputado Decano;
 
-"¿Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Querétaro y todas las leyes que emanen de ellas, y desempeñar leal y patrióticamente el cargo de diputado que el pueblo les ha conferido, por el bien y prosperidad de la República y de esta entidad federativa?"
+V. Toma de Protesta a los Diputados electos y reelectos, por parte del Diputado Decano;
 
-Los diputados deberán contestar:
+VI. Declaratoria de instalación de la Legislatura;
 
-"Sí protesto"
+VII. Elección de Mesa de Directiva, en su caso; y
 
-Acto continuo, el Presidente de la Legislatura expresará:
+VIII. Término de la Sesión.
 
-"Si así no lo hicieren, que el Estado y la Nación se los demanden"
+Al momento de hacer la declaratoria de instalación de la Legislatura la Presidencia de la misma deberá indicar: "La (número ordinal que corresponda) Legislatura del Estado de Querétaro queda legalmente instalada y constituida, el día veintiséis de septiembre del año (año que corresponda)".
 
-La misma protesta rendirán los diputados que se incorporen a la Legislatura después de su instalación, ante la Mesa Directiva.
-
-En los mismos términos rendirán protesta, con las adecuaciones relativas al cargo que asuman, los servidores públicos que conforme a las leyes, deban hacerlo ante la Legislatura;
-
-IV. El Presidente de la Legislatura, solicitando a la concurrencia permanecer de pie, declarará:
-
-"La (número ordinal que corresponda) Legislatura del Estado de Querétaro queda legalmente instalada y constituida, el día veintiséis de septiembre del año (año que corresponda)";
-
-V. Instalada la Legislatura, en su caso, uno de los diputados pertenecientes a los distintos Partidos Políticos o coaliciones que los postularon al cargo, harán uso de la palabra, en el orden y por el tiempo que acuerde la Presidencia de la Legislatura; y
-
-VI. Se procederá a la elección de la Mesa Directiva.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 30.
 
-(Comunicación de la instalación) El Presidente de la Legislatura expedirá el decreto en el que conste la integración de la misma, comunicándose a los representantes de los Poderes Ejecutivo y Judicial del Estado, a los Ayuntamientos del Estado de Querétaro, a los organismos públicos autónomos, al Congreso General de los Estados Unidos Mexicanos, al Poder Ejecutivo Federal, a la Suprema Corte de Justicia de la Nación, a las Legislaturas de los Estados y a la Asamblea Legislativa del Distrito Federal, publicándose además en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+(Toma de protesta) El Diputado Decano solicitará a los presentes ponerse de pie, a efecto de que tomen la protesta de ley; se pondrá de pié y levantando su mano diestra a la altura del corazón exclamará:
 
-### Capítulo Primero. Disposiciones generales
+-"Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro y todas las leyes que emanen de ellas, y desempeñar leal y patrióticamente el cargo de diputado que el pueblo me ha conferido, por el bien y prosperidad de la República y del Estado. Si así no lo hiciere, que el Estado y la Nación me lo demanden";
+
+Acto seguido tomará asiento y preguntará a los demás diputados que integrarán la Legislatura entrante:
+
+-"¿Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro y todas las leyes que emanen de ellas, y desempeñar leal y patrióticamente el cargo de diputado que el pueblo les ha conferido, por el bien y prosperidad de la República y de esta entidad federativa?"
+
+Los diputados entrantes deberán levantar igualmente su mano y contestar:
+
+-"Sí protesto"
+
+Acto continuo, la Presidencia de la Legislatura expresará:
+
+-"Si así no lo hicieren, que el Estado y la Nación se los demanden"
+
+La misma protesta rendirán los diputados suplentes que se incorporen a la Legislatura después de su instalación, ante la Mesa Directiva. Los servidores públicos que deban tomar protesta de Ley ante la Legislatura del Estado, lo harán en los mismos términos con las adecuaciones del cargo que asuman.
+
+La Presidencia de la Legislatura expedirá el decreto en el que conste la integración de la misma, comunicándose a los representantes de los Poderes Ejecutivo y Judicial del Estado, a los Ayuntamientos del Estado de Querétaro, a los organismos públicos autónomos, al Congreso General de los Estados Unidos Mexicanos, al Poder Ejecutivo Federal, a la Suprema Corte de Justicia de la Nación, a las Legislaturas de los Estados y a la Asamblea Legislativa del Distrito Federal, ordenándose además publicar en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+### Capítulo Tercero. Del funcionamiento de la Legislatura
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 31.
 
-(Asistencia de los diputados para el funcionamiento de la Legislatura) Para el funcionamiento de la Legislatura, se requiere la asistencia de al menos trece diputados.
+(Funcionamiento de la Legislatura) Para el funcionamiento de la Legislatura, se requiere la asistencia de al menos trece diputados a las sesiones del Pleno y de la mayoría simple de los integrantes en los demás órganos, de conformidad con la presente Ley.
 
 El diputado que asuma el cargo de Presidente de la Legislatura, deberá convocar, por cualquier medio, a los diputados electos propietarios, a efecto de que garanticen el funcionamiento de la Legislatura. En caso de que los diputados propietarios no acudan a la convocatoria, se convocará a los diputados suplentes para tomarles la protesta, salvo las causas justificadas previstas en la presente ley. En caso de que no se justifique la inasistencia de los diputados propietarios, los diputados suplentes que tomen protesta, ejercerán el cargo todo el periodo constitucional de la Legislatura.
 
@@ -385,11 +493,13 @@ Ante la falta de diputados suplentes, el Presidente de la Legislatura para garan
 
 ## Título Tercero. Proceso legislativo
 
-### Capítulo Segundo. De las iniciativas
+### Capítulo Primero. Disposiciones generales
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 32.
 
-(Generalidades) El proceso a que se someterán las iniciativas de ley, decreto o acuerdo, será el establecido en la presente ley.
+(Generalidades) Las iniciativas de Ley, Decreto o Acuerdo se analizarán y dictaminarán por las Comisiones legislativas a que sean turnadas, de conformidad con lo establecido en la presente Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 33.
 
@@ -405,23 +515,27 @@ c) Acuerdo: La resolución expedida por el Poder Legislativo, en materia de su a
 
 (Cómputo de los plazos) Los plazos a que se refiere esta ley, se computarán por días hábiles, salvo disposición expresa en contrario.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-La recepción de documentos se realizará por la Oficialía de Partes en días y horas hábiles, que se comprenderán de lunes a viernes, de las 9:00 a las 16:00 horas. Los que se presenten para trámite Legislativo, deberán ser exhibidos de manera impresa y en archivo electrónico, en formato de procesador de textos editable. El Presidente de la Legislatura podrá habilitar días y horas distintos a los señalados. Los documentos que no fueren recibidos por conducto de esta área, se tendrán por no presentados ante el Poder Legislativo.
+La recepción de documentos se realizará por la Oficialía de Partes en días y horas hábiles, que se comprenderán de lunes a viernes, de las 9:00 a las 16:00 horas. Los que se presenten para trámite Legislativo, deberán ser exhibidos de manera impresa y en archivo electrónico, en formato de procesador de textos editable. La Presidencia de la Legislatura podrá habilitar días y horarios distintos a los señalados. Los documentos que no fueren recibidos en Oficialía de Partes se tendrán por no presentados ante el Poder Legislativo.
 
 Serán inhábiles los periodos vacacionales autorizados por la Mesa Directiva, así como los días de descanso obligatorios señalados por las leyes de la materia, los convenios sindicales y los autorizados por la Mesa Directiva.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 35.
 
-(Aclaración de documentos para trámite legislativo) Antes de darle el trámite a la documentación que se presente para trámite legislativo, el Presidente de la Legislatura, en un plazo no mayor de cinco días, contados a partir de su recepción en la Oficialía de Partes, podrá requerir al autor las aclaraciones que estime pertinentes, o bien, solicitar el cumplimiento de los requisitos o la documentación complementaria que resulte indispensable para abocarse a su estudio.
+(Aclaración de documentos) Previo a dar trámite a las iniciativas y documentación recibida en Oficialía de Partes para trámite legislativo, la Presidencia de la Legislatura, en un plazo no mayor de diez días hábiles, contados a partir de su recepción, podrá requerir al autor las aclaraciones que estime pertinentes, o bien, solicitar el cumplimiento de los requisitos o la documentación complementaria que resulte indispensable para el trámite que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+En el caso de documentos recibidos que no constituyan trámite legislativo, la facultad de requerir podrá ser delegada a la Secretaría de Servicios Parlamentarios.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 36.
 
-(Trámite preferente de asuntos) En los trámites relacionados con las iniciativas del Poder Ejecutivo y del Poder Judicial, que a su solicitud de éstos requieran ser resueltos por la Legislatura en un plazo menor a los establecidos en la presente Ley para cada etapa del proceso legislativo, la Junta de Coordinación Política podrá señalar plazos distintos, mismos que deberán de cumplir las dependencias y órganos del Poder Legislativo para tal efecto. De igual forma, se establecerán plazos menores para los asuntos que acuerde la Junta de Coordinación Política.
+(Trámite preferente de asuntos) Podrán ser considerados para trámite preferente o de urgente y obvia resolución, las iniciativas de Ley presentadas por el Poder Ejecutivo, el Poder Judicial u Organismos Constitucionales Autónomos. Dicho trámite consistirá en establecer menores plazos para la resolución de los mismos.
 
-En ningún caso podrá dispensarse alguna etapa del proceso legislativo.
+La Presidencia de la Legislatura resolverá lo conducente, no obstante, en ningún caso podrán omitirse etapas del proceso legislativo.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
 
@@ -435,7 +549,7 @@ Artículo 37 bis. (Solicitudes de pensión o jubilación) Las solicitudes de pen
 
 A. De la presentación.
 
-l. El titular de la Oficialía Mayor o su equivalente del ente público que corresponda, será el competente para remitir a la Legislatura la solicitud de jubilación o pensión dentro del plazo que para tal efecto señala la Ley de los Trabajadores del Estado de Querétaro; y
+I. El titular de la Oficialía Mayor o su equivalente del ente público que corresponda, será el competente para remitir a la Legislatura la solicitud de jubilación o pensión dentro del plazo que para tal efecto señala la Ley de los Trabajadores del Estado de Querétaro; y
 
 II. Dicha solicitud deberá acompañarse con el expediente y constancias del trabajador, debidamente integrado, en términos de lo contenido en la Ley de los Trabajadores del Estado de Querétaro.
 
@@ -451,7 +565,7 @@ II. En caso de que el ente público no dé cumplimiento al requerimiento formula
 
 D. Del proyecto de dictamen y sus observaciones.
 
-l. Para la formulación del proyecto de dictamen la Comisión deberá considerar la información contenida en el Registro de Antigüedad Laboral;
+I. Para la formulación del proyecto de dictamen la Comisión deberá considerar la información contenida en el Registro de Antigüedad Laboral;
 
 II. Una vez formulado el proyecto de dictamen, la Comisión ordenará su publicación en la página de internet de la Legislatura por un periodo de quince días naturales para publicidad del mismo y en su caso recibir observaciones;
 
@@ -493,31 +607,37 @@ Dicha resolución será notificada al titular de la Oficialía Mayor o su equiva
 
 (Participación del autor de la iniciativa) El autor de la iniciativa deberá ser invitado a participar en el debate del dictamen ante la Comisión que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 41.
 
-(Asuntos inconclusos en el ejercicio constitucional) Previo al término del ejercicio constitucional, las Comisiones que tuvieren asuntos inconclusos de resolución o dictamen, remitirán la documentación original que corresponda a la Dirección de Asuntos Legislativos y Jurídicos.
+(Asuntos inconclusos en el ejercicio constitucional) Cuando las comisiones legislativas tuvieren asuntos pendientes de resolución o dictamen, previo al término del ejercicio constitucional, las Presidencias de dichos órganos remitirán la documentación original a la Secretaría de Servicios Parlamentarios, a efecto de que la Mesa Directiva acuerde lo conducente.
 
-Los dictámenes que expidan las Comisiones y no sean conocidos por el Pleno de la Legislatura, así como los proyectos de ley o decreto que hubieran sido devueltos con observaciones por el Ejecutivo, quedarán a disposición de la sucesora para que se discutan y voten.
+Los dictámenes aprobados por las Comisiones, así como los proyectos de ley o decreto que hubieran sido devueltos con observaciones por el Poder Ejecutivo y no hayan sido del conocimiento del Pleno, quedarán a disposición de la Mesa Directiva entrante para continuar con su trámite legislativo.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
+Las iniciativas pendientes de dictamen o resolución al término de la Legislatura, podrán ser dadas de baja por desistimiento de sus autores o bien por acuerdo de la Mesa Directiva saliente.
 
-Las iniciativas pendientes de dictaminarse al finalizar una Legislatura, podrán ser dadas de baja por Acuerdo de la Mesa Directiva saliente o, en su caso, reasignarse para su estudio y dictamen a las Comisiones que correspondan de la Legislatura siguiente.
+Cuando la Mesa Directiva saliente no realice la baja de las iniciativas pendientes de dictamen, corresponderá a la Mesa Directiva entrante, acordar su baja administrativa inmediata o su reasignación a los nuevos órganos legislativos, acordando los trámites que estime convenientes.
 
-### Capítulo Tercero. De los dictámenes
+Se exceptúan de lo anterior las iniciativas que constituyan tramites de pensión por muerte o vejez, o jubilación, por ende deberán concluir su trámite ante el Pleno de la Legislatura de conformidad con la presente Ley y demás disposiciones legales vigentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
+### Capítulo Segundo. De las iniciativas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 42.
 
-(Requisitos de la iniciativa) La iniciativa deberá de reunir los siguientes requisitos:
+(Requisitos para la presentación de iniciativas) Las iniciativas de Ley, Decreto o Acuerdo deberán de reunir los siguientes requisitos:
 
 a) Nombre y firma autógrafa del autor o autores.
 
-b) Fundamentación.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-c) Exposición de motivos.
+b) Fundamentación legal.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+c) Consideraciones o exposición de motivos.
 
 d) Título de la iniciativa, en el que deberá señalarse si se refiere a una ley, decreto o acuerdo.
 
@@ -525,17 +645,25 @@ e) Propuesta de creación, interpretación, reforma, derogación o abrogación d
 
 Cuando la iniciativa proponga la creación de organismos, dependencias o la ampliación de la estructura gubernamental, deberá justificarse la suficiencia presupuestal.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
-(Iniciativas de particulares) Las iniciativas de particulares serán presentadas en los términos de la ley de la materia.
+(Iniciativas presentadas por particulares) Las iniciativas de particulares serán presentadas en los términos de (sic) Constitución Política del Estado de Querétaro, la Ley de Participación Ciudadana del Estado de Querétaro y la presente Ley.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 44.
 
-(Turno de la iniciativa) En un plazo máximo de cinco días contados a partir de su recepción o aclaración, según corresponda, las iniciativas recibidas serán turnadas para estudio y dictamen a la Presidencia de la Comisión competente, con conocimiento de sus integrantes.
+(Turno de iniciativa) La Presidencia de la Legislatura dentro de un plazo de 7 días hábiles contados a partir de la recepción de Iniciativas, realizará el turno a la Comisión de dictamen que estime competente.
 
-Las iniciativas turnadas se darán a conocer a los integrantes de la Legislatura de manera electrónica.
+Cuando las iniciativas presentadas no cumplan con los requisitos establecidos en la presente ley, se prevendrá al autor para que en un plazo no mayor de 10 días subsane, aclare o corrija las irregulares que correspondan.
+
+Cuando la iniciativa sea presentada por varios autores, bastará notificar la prevención a uno de ellos para que subsane las irregularidades o realice las aclaraciones que correspondan.
+
+Las iniciativas turnadas se harán del conocimiento de los integrantes de la Comisión acusando recibo respectivo de sus oficinas, y se harán del conocimiento de los demás diputados mediante correo electrónico institucional de la Secretaría de Servicios Parlamentarios.
+
+Las iniciativas presentadas se harán del conocimiento público en el portal de internet de la Legislatura, en un plazo de 10 días hábiles.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -547,21 +675,41 @@ Para los efectos de este supuesto, por autor se entiende la o las personas que s
 
 Cuando la iniciativa haya sido firmada por más de una persona, se requiere que la totalidad de quienes la signaron manifiesten su voluntad de retirarla.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 46.
 
-(Acumulación de iniciativas) Cuando se propongan dos o más iniciativas en un mismo sentido o relativas a un mismo ordenamiento, el Presidente de la Mesa Directiva podrá ordenar que se acumulen en un sólo expediente y se dictaminen conjuntamente.
+(Acumulación de iniciativas) Cuando se propongan dos o más iniciativas en un mismo sentido o relativas a un mismo ordenamiento, la Presidencia de la Legislatura, a solicitud del presidente de la Comisión respectiva, podrá ordenar que se dictaminen conjuntamente.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 47.
 
-(Reasignación de iniciativas) El Presidente de la Legislatura podrá reasignar iniciativas para estudio y dictamen de una Comisión distinta a la que conozca de éstas, por inactividad legislativa de tres meses o más. En este caso, la Dirección de Investigación y Estadística Legislativa deberá informar al Presidente de la Legislatura lo anterior, para que éste, a su vez, solicite a la Comisión respectiva, rinda un informe sobre el particular, a más tardar en cinco días hábiles contados a partir de recibir el requerimiento, a fin de determinar lo conducente.
+(Reasignación de iniciativas) La Presidencia de la Legislatura podrá reasignar iniciativas a una Comisión distinta a la de origen cuando:
 
-### Capítulo Cuarto. De los debates
+I. Existan otras iniciativas pendientes de dictamen que estén relacionadas con la iniciativa que se pretenda reasignar.
+
+II. Se determine que existe inactividad legislativa injustificada de por lo menos 4 meses del asunto de mérito, contados a partir de su turno.
+
+La determinación de la inactividad legislativa injustificada será resuelta por la Mesa Directiva, previo informe que para el caso rinda la Presidencia de la Comisión de origen dentro del plazo que se le señale al momento de requerirla.
+
+### Capítulo Tercero. De los dictámenes
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 48.
 
-(Obligatoriedad de emitir dictamen) Las comisiones deberán emitir el dictamen que proponga aprobar la iniciativa, en sus términos o con modificaciones, o bien, rechazarla, pero no podrá dispensarse en ningún caso su dictamen, salvo los casos en que se haya retirado la iniciativa, en los términos de esta Ley.
+(Emisión de dictámenes) A todo turno de iniciativa corresponderá un dictamen individual o con sus acumuladas que deberá ser aprobado por la mayoría de los integrantes de la Comisión respectiva al momento de su votación. Se exceptúan de lo anterior las iniciativas que causen baja por desistimiento de sus autores o bien por acuerdo de la Mesa Directiva, de conformidad con la presente Ley.
 
-En las modificaciones se podrán suprimir fragmentos de la iniciativa, hacer variaciones de forma o de fondo y adicionar o complementar el texto original con elementos distintos a los que formen parte de la iniciativa.
+Los dictámenes podrán:
+
+I. Aprobar la iniciativa en su literalidad.
+
+II. Rechazar la iniciativa, debiendo fundar y motivar las causas.
+
+III. Aprobar la iniciativa con modificaciones.
+
+Cuando se aprueben dictámenes de iniciativas con modificaciones, se podrán suprimir fragmentos de textos, hacer variaciones o adiciones de forma o de fondo, tomando en cuenta elementos complementarios o distintos.
 
 ###### Artículo 49.
 
@@ -601,31 +749,47 @@ V. Emitido el dictamen, la Comisión notificará el mismo a los Ayuntamientos, q
 
 VI. Hecho lo anterior, la Comisión presentará ante el Pleno el dictamen correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 52.
 
-(Publicación de los dictámenes) Elaborado y suscrito el dictamen correspondiente, el Presidente de la Comisión emisora lo remitirá a cada uno de sus integrantes y a la Dirección de Asuntos Legislativos y Jurídicos en medio electrónico, para su incorporación en la edición que corresponda de la Gaceta Legislativa.
+(Ingreso de dictámenes) Aprobado un dictamen por la comisión respectiva, deberá ingresarse por Oficialía de Partes, a efecto de que sea considerado por la Mesa Directiva para su inclusión en la Sesión de Pleno que determine.
 
-### Capítulo Quinto. De las votaciones
+Los dictámenes deberán presentarse impresos y con firmas autógrafas, acompañando archivo electrónico en formato de procesador de textos editable para su incorporación en la edición que corresponda de la Gaceta Legislativa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+### Capítulo Cuarto. De los debates en las Sesiones de Pleno
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 53.
 
-(Apertura de la discusión del dictamen) El Presidente de la Legislatura abrirá el asunto a discusión, con la verificación de que el dictamen a discutirse ya fue hecho del conocimiento de los integrantes de la Legislatura, mediante el informe que para tal efecto rinda el Director de Asuntos Legislativos y Jurídicos.
+(Apertura de la discusión del dictamen) Durante las Sesiones de Pleno, la Presidencia de la Legislatura abrirá los asuntos a discusión conforme al orden del día que se haya anunciado y atendiendo en su caso, al contenido de la Gaceta Legislativa.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 54.
 
-(Lista de oradores) Anunciada la discusión, se formará una lista de los diputados que pidan la palabra en contra o a favor, la cual se leerá de manera íntegra por un Secretario, antes de comenzar el debate.
+(Lista de oradores en la discusión) Anunciada la discusión y previo a comenzar el debate, se formará una lista de oradores, los diputados que pretendan hacer uso de la voz deberán levantar la mano e informar a la Secretaría el sentido de su participación si es a favor o en contra del dictamen de mérito. La Secretaría informará a la Presidencia de la Legislatura el nombre de los diputados registrados y el sentido de su intervención.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+No se concederá el uso de la voz al diputado que no se haya registrado para participar en la discusión, salvo las excepciones que establece esta Ley.
 
-En caso de que las participaciones sean a favor de un dictamen, el registro de oradores será de hasta por tres diputados, privilegiando siempre la intervención de los integrantes de los distintos grupos y fracciones, salvo acuerdo previo emitido para tal efecto por la Junta de Coordinación Política.
+En caso de que las participaciones sean en un solo sentido, a juicio de la Presidencia de la Legislatura, la intervención de oradores será de hasta tres diputados, privilegiando la intervención de los integrantes de los distintos grupos y fracciones.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 55.
 
-(Orden de las intervenciones) Los oradores hablarán alternativamente en contra o a favor, llamándolos el Presidente de la Legislatura por el orden de la lista y comenzando por el inscrito en contra. Si el orador estuviese ausente cuando le corresponda intervenir, se le colocará al último de la lista. Si al terminar las intervenciones no estuviera presente, se procederá a la votación.
+(Orden de las intervenciones) Los oradores registrados hablarán en forma alternada a favor o en contra, la Presidencia de la Legislatura los llamará por el orden de la lista y comenzando por el primer inscrito en contra.
+
+Si el orador registrado estuviese ausente cuando le corresponda intervenir, se le colocará al último de la lista. Si al terminar las intervenciones no estuviera presente, se procederá a la votación.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 56.
 
-(Intervenciones del Presidente) Cuando el Presidente de la Legislatura intervenga en las sesiones con ese carácter, permanecerá sentado en su curul; si quisiera intervenir en las discusiones, lo hará conforme a las reglas aplicables a cualquier otro diputado; mientras lo hace, sus funciones serán ejercidas por el vicepresidente, sin necesidad de cambiar de curul.
+(Intervenciones del Presidente de la Legislatura) Cuando el Presidente de la Legislatura intervenga en las sesiones con ese carácter, permanecerá sentado en su curul; si quisiera intervenir en las discusiones como orador, lo hará conforme a las reglas aplicables a cualquier otro diputado; mientras lo hace, sus funciones serán ejercidas por el vicepresidente, sin necesidad de cambiar de curul.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -639,71 +803,103 @@ Tratándose de alusiones personales, se concederá la intervención una vez agot
 
 Para el caso de los asuntos generales, podrá haber sólo una intervención para hechos o, en su caso, para alusiones personales, teniendo el legislador que haya iniciado el asunto, la facultad de volver a intervenir hasta por una ocasión más.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 58.
 
-(Duración de las intervenciones) Ninguna intervención de los diputados durará más de quince minutos, salvo permiso del Presidente de la Legislatura.
+(Duración de las intervenciones) Ninguna intervención de los diputados durará más de quince minutos, salvo autorización de la Presidencia de la Legislatura.
+
+En el caso de intervenciones de representantes de grupos y fracciones en sesiones solemnes, deberán los oradores sujetarse al formato, orden en la participación y duración que para tal efecto determine la Mesa Directiva.
 
 ###### Artículo 59.
 
 (Prohibición de interrupciones) Ningún diputado podrá ser interrumpido en sus intervenciones, con excepción de lo que señale esta ley.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 60.
 
-(Prohibición de diálogos) El Presidente de la Legislatura procurará que no se den las discusiones en forma de diálogo.
+(Prohibición de diálogos) La Presidencia de la Legislatura al momento de conducir las Sesiones de Pleno, ordenará que no se den las discusiones en forma de diálogo, debiendo llamar al orden en su caso.
 
 ###### Artículo 61.
 
 (Moción suspensiva) Los diputados, en cualquier momento, hasta antes de que se declare la apertura de la votación, podrán solicitar la suspensión de alguna discusión y otros impugnar dicha solicitud, bastando en cada caso que se explique la razón que los motive. En este caso, se consultará al Pleno la procedencia de la solicitud, mediante votación económica.
 
-El Presidente de la Legislatura, al declarar la procedencia de la suspensión, establecerá si el efecto de la resolución es remitir el dictamen a la Comisión que lo propuso para replantear su contenido o solamente para prorrogar su lectura y discusión, hasta una sesión posterior.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-No podrá presentarse más de una moción suspensiva en la discusión de cada asunto.
+La Presidencia de la Legislatura, al declarar la procedencia de la suspensión, establecerá si el efecto de la resolución es remitir el dictamen a la Comisión que lo propuso para aclarar, o replantear su contenido o bien, para prorrogar su discusión y votación, para sesión posterior.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+No procederá más de una moción suspensiva en la discusión de cada asunto.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 62.
 
-(Moción de receso) Los diputados podrán pedir que la sesión entre en receso, en los casos en que se perturbe el orden en el recinto, cuando concurran causas que dificulten el curso normal de las deliberaciones o cuando con ello se favorezca la obtención de consensos.
+(Moción de receso) Los diputados podrán pedir que la sesión entre en receso, en los casos en que se perturbe el orden en el recinto, cuando concurran causas que dificulten el curso normal de las deliberaciones o cuando con ello se favorezca la obtención de consensos en la votación
 
-En este caso, corresponderá al Presidente de la Legislatura valorar y, en su caso, conceder el receso y determinar su duración.
+Corresponde a la Presidencia de la Legislatura en su caso, decretar el receso y determinar su duración.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 63.
 
-(Moción de lectura) Cuando para ilustrar la discusión, un diputado solicite la lectura de algún documento que él mismo presente, éste será leído por uno de los Secretarios, continuando en el uso de la palabra los oradores inscritos.
+(Moción de lectura) Cuando para ilustrar la discusión de un asunto, un diputado solicite la lectura de algún documento, la Presidencia de la Mesa Directiva ordenará se realice la lectura por alguna de las Secretarías o por el solicitante, continuando en el uso de la palabra los oradores inscritos.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 64.
 
-(Suspensión de las discusiones) El Presidente de la Legislatura podrá suspender una discusión por las siguientes causas:
+(Suspensión de las discusiones) En el desahogo de una Sesión de Pleno, la Presidencia de la Legislatura podrá suspender la discusión de un asunto por las siguientes causas:
 
-I. Porque la Legislatura acuerde dar preferencia a otro asunto de mayor urgencia o gravedad;
+I. Cuando el Pleno (sic) la Legislatura acuerde, previa consulta en votación económica, dar preferencia a otro asunto que considere de mayor urgencia o gravedad;
 
-II. Por desórdenes en el recinto que impidan la celebración o continuación de la sesión;
+II. Por desórdenes en el recinto que impidan continuar con la sesión;
 
-III. Por falta de quórum; o
+III. Por falta de quórum que impida continuar la sesión; o
 
-IV. Por moción suspensiva que apruebe la Legislatura.
+IV. Por moción suspensiva en términos de la presente Ley.
+
+Resuelta la contingencia la Presidencia de la Legislatura continuará con el desahogo de la Sesión de Pleno conforme al orden del día señalado.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 65.
 
-(Intervención de servidores públicos) Cuando los titulares de los Poderes Ejecutivo y Judicial del Estado, los Ayuntamientos u organismos autónomos, envíen un representante para que intervenga en los debates, se concederá la palabra a los diputados y al compareciente en los términos que acuerde la Mesa Directiva.
+(Intervención de funcionarios externos) Cuando los titulares del Poder Ejecutivo, Poder Judicial, Organismos Constitucionales Autónomos o Ayuntamientos deban de participar en las Sesiones de Pleno, se estará al formato que para tal efecto determine la Mesa Directiva.
+
+En el desahogo de la glosa que corresponda al informe anual de actividades del Poder Ejecutivo, se estará al formato que acuerde la Mesa Directiva, tomando en consideración la opinión del presidente de la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 66.
 
-(Suficiencia de la discusión) Cuando hubieren hablado todos los diputados inscritos en la lista de oradores, el Presidente de la Legislatura podrá consultar si el asunto se encuentra suficientemente discutido. En caso afirmativo se procederá a la votación; de no ser así, se continuará la discusión, elaborándose una nueva lista de oradores y bastará que hable uno a favor y otro en contra para que pueda repetirse la consulta.
+(Suficiencia de la discusión) Cuando hubieren participado en la discusión todos los diputados inscritos en la lista de oradores, se procederá a la votación del asunto que se trate.
+
+Si la Presidencia de la Legislatura considera que el asunto no está suficientemente discutido y hubiere más diputados solicitando el uso de la voz, ordenará se registre una nueva lista de oradores de conformidad con la presente Ley.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 67.
 
-(Reservas para discusión y votación en lo particular) La discusión y votación de todos los dictámenes relativos a leyes, decretos o acuerdos de la Legislatura, se realizará en lo general y en un sólo acto; pero siempre que lo pida algún diputado, podrán reservarse una o varias partes del texto del proyecto legal propuesto por el dictamen, para discutirse y votarse en lo particular.
+(Reservas para discusión y votación en lo particular) La discusión y votación de los dictámenes se realizará en lo general y en un sólo acto; pero siempre que lo pida algún diputado, podrán reservarse una o varias partes del texto propuesto en el dictamen correspondiente, para discutirse y votarse en lo particular.
 
-Sin perjuicio de lo dispuesto en el párrafo anterior, los dictámenes que contengan en su proyecto más de cincuenta artículos, podrán ser discutidos y votados por libros, títulos, capítulos, secciones y párrafos en que los dividieren sus autores o las comisiones encargadas de su despacho, siempre que así lo acuerde la Legislatura a moción de alguno de sus miembros.
+Sin perjuicio de lo dispuesto en el párrafo anterior, los dictámenes que contengan más de cincuenta artículos, podrán ser discutidos y votados por libros, títulos, capítulos, secciones y párrafos en que los dividieren sus autores o las comisiones encargadas del dictamen, lo anterior cuando así lo acuerde la Legislatura a petición de algún diputado.
 
-### Capítulo Sexto. De la aprobación
+### Capítulo Quinto. De las votaciones
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 68.
 
-(Anuncio de la votación) Cuando llegue el momento de votar, el Presidente de la Legislatura ordenará que los diputados que se hallen fuera del salón concurran a emitir su voto, debiendo permanecer en el salón de sesiones mientras la votación se desahoga.
+(Asistencia para la votación) Es obligación de los Diputados estar presentes al momento de la votación de los asuntos que se estén desahogando durante la Sesión, y permanecer en el Salón de Sesiones hasta el cómputo final del resultado.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 69.
 
-(Derecho a voto) Sólo podrán emitir su voto, los diputados que tengan registrada su asistencia a la sesión.
+(Registro del voto) Sólo se registrará el voto de los diputados que tengan asentada su asistencia a la sesión.
 
 ###### Artículo 70.
 
@@ -713,33 +909,53 @@ Sin perjuicio de lo dispuesto en el párrafo anterior, los dictámenes que conte
 
 (Votación nominal) Las votaciones serán nominales tratándose de leyes y decretos. La votación nominal se practicará del modo siguiente:
 
-I. Un Secretario irá nombrando a los diputados en el orden alfabético, conforme al pase de lista;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+I. Una Secretaría irá nombrando a los diputados en el orden alfabético, conforme al pase de lista;
 
 II. Inmediatamente después de escuchar su nombre, cada diputado expresará el sentido de su voto, pronunciado las palabras "a favor" o "en contra";
 
-III. Mientras esto se realiza, el otro Secretario irá computando los votos, a efecto de comunicar al final el resultado.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-En caso necesario, el Presidente de la Legislatura podrá solicitar a los Secretarios la revisión y rectificación del cómputo definitivo de los votos; y
+III. Mientras esto se realiza, la otra Secretaría irá computando los votos, a efecto de comunicar al final el resultado.
 
-IV. Finalmente, el Presidente de la Legislatura hará la declaratoria que corresponda.
+En caso necesario, la Presidencia de la Legislatura podrá solicitar a las Secretarías la revisión y en su caso la rectificación del cómputo definitivo de los votos; y
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Finalmente, la Presidencia de la Legislatura hará la declaratoria que corresponda.
 
 ###### Artículo 72.
 
 (Votación económica) Se votarán en forma económica todos los asuntos que no deban votarse nominalmente o por cédula. La votación económica se practicará poniéndose de pie los diputados que estén a favor y permaneciendo sentados los que estén en contra.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+A efecto de registrar adecuadamente el sentido de los votos, durante la votación económica solo podrán estar presentes de pie los diputados y personal de la Secretaría de Servicios Parlamentarios.
+
 ###### Artículo 73.
 
 (Votación por cédula) Las votaciones para elegir personas se harán mediante cédulas, conforme a lo siguiente:
 
-I. Cada diputado depositará una cédula en la urna transparente que se disponga para tal efecto, colocada a la vista del Presidente de la Legislatura;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II. Depositadas las cédulas, un Secretario las tomará y contará, leyendo después en voz alta su contenido, pasándolas inmediatamente al Presidente de la Legislatura para que éste constate lo leído;
+I. Cada diputado depositará una cédula en la urna transparente que se disponga para tal efecto, colocada a la vista de la Presidencia de la Legislatura;
 
-III. Mientras esto se realiza, el otro Secretario registrará el resultado de los votos; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Hecho el cómputo total de los votos, el Secretario dará cuenta al Presidente de la Legislatura del resultado de la votación y éste hará la declaratoria respectiva. Si el Presidente advirtiera error en el cómputo, podrá solicitar que éste se realice nuevamente, por una sola vez.
+II. Depositadas las cédulas, una Secretaría las tomará y contará, leyendo después en voz alta su contenido, pasándolas inmediatamente a la Presidencia de la Legislatura para que éste constate lo leído;
 
-El Presidente de la Legislatura deberá conservar y resguardar las cédulas, para el caso de reclamación por alguno de los integrantes de la Legislatura; si no la hubiere hasta antes de la siguiente sesión, podrán ser destruidas.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+III. Mientras esto se realiza, la otra Secretaría registrará el resultado de los votos; y
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Hecho el cómputo total de los votos, la Secretaría dará cuenta a la Presidencia de la Legislatura del resultado de la votación y éste hará la declaratoria respectiva. Si la Presidencia advirtiera error en el cómputo, podrá solicitar que éste se realice nuevamente, por una sola ocasión.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaria de Servicios Parlamentarios deberá conservar y resguardar las cédulas, para el caso de reclamación por alguno de los integrantes de la Legislatura; si no la hubiere hasta antes de la siguiente sesión de Pleno, podrán ser destruidas.
 
 Se exceptúan de lo anterior las propuestas presentadas al Pleno por cualquiera de los órganos del Poder Legislativo, en cuyo caso se procederá a realizar la votación en forma económica.
 
@@ -747,15 +963,25 @@ Se exceptúan de lo anterior las propuestas presentadas al Pleno por cualquiera 
 
 (Irregularidades en la votación por cédula) Para los casos en que se presenten irregularidades en la votación por cédula, se estará a lo siguiente:
 
-I. Cuando se trate de elección de diputados para la integración de órganos del Poder Legislativo, el Presidente de la Legislatura anulará las cédulas que consignen votos a favor de personas que no sean diputados en ejercicio o cuando la cédula contenga el nombre o apellido de un diputado y el nombre o apellido de otro;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II. Cuando se trate de elección de otros servidores públicos, el Presidente de la Legislatura anulará las cédulas que consignen votos a favor de personas no propuestas para la votación;
+I. Cuando se trate de elección de diputados para la integración de órganos del Poder Legislativo, la Presidencia de la Legislatura anulará las cédulas que consignen votos a favor de personas que no sean diputados en ejercicio, o cuando la cédula contenga el nombre o apellido de un diputado y el nombre o apellido de otro;
 
-III. Cuando las cédulas contengan anotaciones notoriamente ilegibles, el Presidente de la Legislatura las anulará, previa constatación del hecho por uno de los Secretarios; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+II. Cuando se trate de elección de otros servidores públicos, la Presidencia de la Legislatura anulará las cédulas que consignen votos a favor de personas no propuestas para la votación;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+III. Cuando las cédulas contengan anotaciones notoriamente ilegibles, la Presidencia de la Legislatura las anulará, previa constatación del hecho por una de las Secretarías; y
 
 IV. Las cédulas faltantes o depositadas en blanco se entenderán como abstenciones.
 
 La nulidad de cédulas individuales no implica la nulidad de la elección, que sólo quedará sin efectos cuando se anule más de la mitad de los votos emitidos o si realizado el cómputo respectivo, aparezcan más cédulas que diputados participantes en la votación. En estos casos se repetirá la votación y si ésta nuevamente debiera anularse, se votará de nuevo el asunto en la sesión inmediata posterior.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+La Presidencia de la Legislatura instruirá a la Secretaría de Servicios Parlamentarios a tomar las previsiones necesarias para evitar confusiones en el cómputo, llenado y registro de las cédulas que correspondan.
 
 ###### Artículo 75.
 
@@ -773,25 +999,35 @@ c) Calificada: La que representa las dos terceras partes de los integrantes de l
 
 (Votación de normas constitucionales) La aprobación de leyes que reformen, deroguen o adicionen preceptos de la Constitución Política del Estado de Querétaro, requerirá la mayoría calificada.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 77.
 
-(Empates en la votación) Si hubiera empate en las votaciones, se repetirá la votación y si resultare empate por segunda vez, se pasará la votación del asunto a la sesión inmediata posterior.
+(Empates en la votación) Si hubiera empate en las votaciones, se repetirá la votación y si resultare empate por segunda ocasión, se pasará la votación del asunto para sesión posterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 78.
 
-(Abstenciones) Los diputados podrán abstenerse de votar un asunto, manifestando “me abstengo” o dejando en blanco la cédula de votación, en su caso. En caso de abstención, el diputado deberá de manifestar el motivo de la misma.
+(Abstenciones) Los diputados podrán abstenerse de votar un asunto, manifestando "me abstengo" o dejando en blanco la cédula de votación, en su caso. En caso de abstención, el diputado podrá manifestar el motivo de la misma.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 Las abstenciones no se computarán dentro de la votación, solo se declararán por separado.
 
-### Capítulo Séptimo. De las observaciones del Poder Ejecutivo del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+### Capítulo Sexto. De la aprobación de dictámenes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 79.
 
-(Aprobación del dictamen) El resultado de la aprobación de los dictámenes que se presenten ante el Pleno, será el siguiente:
+(Aprobación del dictamen) El proceso para la aprobación de los dictámenes que se presenten ante el Pleno, será el siguiente:
 
-I. Si el dictamen propone aprobar la iniciativa en sus términos o con modificaciones y el Pleno lo aprueba, se turnará a la Comisión de Redacción y Estilo para los efectos previstos en esta Ley;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+I. Si el dictamen propone aprobar la iniciativa en sus términos o con modificaciones y el Pleno lo aprueba, se continuará con el trámite a efecto de ordenar su posterior publicación;
 
 II. Si el dictamen propone aprobar la iniciativa en sus términos o con modificaciones y el Pleno lo rechaza, se ordenará su archivo, salvo que éste acuerde instruir a la Comisión que presentó el dictamen, a efecto de que emita uno nuevo;
 
@@ -801,53 +1037,73 @@ III. Si el dictamen propone rechazar la iniciativa y el Pleno lo aprueba, se arc
 
 Rechazada una iniciativa de ley, no podrá presentarse nuevamente, sino hasta pasados seis meses a partir de la fecha en que fuera rechazada por el Pleno; y
 
-IV. Si el dictamen propone rechazar la iniciativa y el Pleno lo rechaza, se devolverá a la Comisión que presentó el dictamen, a efecto de que emita uno nuevo.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-Para efecto de las fracciones II y IV del presente artículo, en caso de que el dictamen contenga voto particular, la instrucción del Pleno será para que el dictamen se emita con base en el mismo.
+IV. Si el dictamen propone rechazar la iniciativa y el Pleno lo rechaza, se devolverá a la Comisión que presentó el dictamen, a efecto de que emita uno nuevo y replantee su contenido.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 80.
 
-(Efectos de la aprobación de las reservas) Si en la discusión en lo particular se presenta una propuesta alternativa al texto del proyecto legal del dictamen, primero se someterá a votación ésta; si se aprueba, quedará el proyecto en tales términos; en caso contrario, subsistirá la literalidad del dictamen, salvo cuando se trate de reformas a la Constitución Política del Estado de Querétaro, en cuyo caso, la literalidad del dictamen deberá ser aprobada por mayoría calificada. En el supuesto de que la propuesta alternativa y la literalidad del dictamen no alcancen la mayoría calificada, se considerará empate en la votación.
+(Efectos de la aprobación de las reservas) Si en la discusión en lo particular se presenta una propuesta alterna al texto del dictamen, primero se someterá a votación ésta; si se aprueba, quedará el proyecto en tales términos; en caso contrario, subsistirá la literalidad del dictamen.
+
+Cuando se trate de reformas a la Constitución Política del Estado de Querétaro, la literalidad del dictamen deberá ser aprobado por mayoría calificada. En el supuesto de que la propuesta alternativa y la literalidad del dictamen no alcancen la mayoría calificada, se considerará empate en la votación y seguirá las reglas previstas en la presente Ley.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 81.
 
-(Trámite de la iniciativa aprobada) Aprobada una iniciativa de ley o decreto por la Legislatura, se procederá conforme a lo siguiente:
+(Trámite para publicación de proyectos de Ley o Decreto) Aprobado un dictamen de Ley, Decreto o Acuerdo por la Legislatura, se procederá conforme a lo siguiente:
 
-I. Pasará a la Comisión de Redacción y Estilo para que, en un plazo no mayor de cinco días hábiles, contados a partir de que recibe el oficio de turno, formule la minuta respectiva, que no contendrá más variaciones que las exigidas por el uso correcto del lenguaje, la semántica y la claridad de las leyes;
+I. La Secretaría de Servicios Parlamentarios realizará los ajustes conforme a lo aprobado por el Pleno de la Legislatura;
 
-II. La minuta que en su caso expida la Comisión, cumplirá las formalidades de las actas de Comisión y será remitida a la Presidencia de la Legislatura, para que en un plazo no mayor de cinco días hábiles, expida el proyecto correspondiente y se remita al Poder Ejecutivo del Estado para su promulgación y publicación en el periódico oficial del Gobierno del Estado “La Sombra de Arteaga”; y
+II. Hecho esto, la Presidencia de la Legislatura y Secretaría firmarán el proyecto de Ley o Decreto para remisión al Poder Ejecutivo del Estado para su promulgación y publicación en su caso, en el Periódico Oficial del Gobierno del Estado, "La Sombra de Arteaga"
 
-III. Fenecido el plazo sin que la Presidencia de la Legislatura hubiere recibido la minuta correspondiente, expedirá de inmediato el proyecto respectivo y lo remitirá al Poder Ejecutivo del Estado para los efectos de la fracción anterior.
+III. Los ajustes que se realicen a los proyectos aprobados podrán contener variaciones para corregir el uso correcto del lenguaje, la gramática, la semántica, la claridad y congruencia legislativa respecto del marco normativo vigente.
 
-La elaboración de los Acuerdos no requerirá de la intervención de la Comisión de Redacción y Estilo, salvo que así lo acuerde la Presidencia de la Mesa Directiva.
+No podrá modificarse sustancialmente el contenido en los proyectos de Ley o Decreto, de tal forma que impliquen un sentido distinto al aprobado por el Pleno de la Legislatura.
 
-Los proyectos de ley, decreto o acuerdo y los comunicados oficiales relativos a los mismos, serán suscritos por el Presidente y el Secretario de la Legislatura, en su caso, que se encuentren en funciones al momento de expedirse la minuta de la Comisión de Redacción y Estilo o al fenecer el plazo en los términos de la fracción III de este artículo, aun cuando no hubieren estado en funciones durante la sesión del Pleno en que el asunto respectivo se hubiere votado.
+El oficio por el que se remita el proyecto de Ley o Decreto para promulgación y posterior publicación se firmará por la Presidencia de la Legislatura en funciones, independientemente de la fecha en que se haya aprobado por el Pleno.
+
+Los Acuerdos aprobados por el Pleno de la Legislatura no requerirán agotar el trámite previsto en el presente artículo, salvo indicación de la Presidencia de la Legislatura.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 82.
 
-(Aprobación de proyecto de reformas constitucionales) Cuando la Legislatura apruebe reformas o adiciones a la Constitución Política del Estado de Querétaro, se remitirá a los Ayuntamientos copia certificada del proyecto de ley aprobado, previo trabajo de la Comisión de Redacción y Estilo.
+(Aprobación de proyecto de reformas constitucionales) Cuando el Pleno de la Legislatura apruebe modificaciones a la Constitución Política del Estado de Querétaro, se remitirá a los Ayuntamientos copia certificada del proyecto de ley aprobado a efecto de que emitan el sentido de su voto "a favor" o "en contra".
 
-Los Ayuntamientos deberán fundar y motivar el sentido de su voto, mismo que podrá ser a favor o en contra.
+Si al recibirse los votos de los Ayuntamientos existiera duda sobre su sentido o contenido, la Presidencia de la Legislatura, dentro de los cinco días naturales siguientes al de la recepción del escrito que contenga el voto, podrá solicitar la aclaración de los puntos que considere necesarios dentro de un plazo igual al señalado.
 
-Si al recibirse los votos de los Ayuntamientos existiera duda sobre su sentido o contenido, el Presidente de la Legislatura, dentro de los diez días naturales siguientes al de la recepción del voto, podrá solicitar al remitente aclare los puntos que considere pertinentes dentro de un plazo igual al señalado, siempre que no se exceda el plazo señalado en la Constitución Política del Estado de Querétaro.
+La falta de respuesta a la prevención dentro del plazo indicado al Ayuntamiento, dará lugar a tener por no presentado el escrito que contenga el voto.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 83.
 
-(Oposición a la firma de proyectos) Los diputados que injustificadamente se nieguen a firmar los proyectos aprobados por la Legislatura, serán sujetos de responsabilidad, en los términos de la ley de la materia. En este caso, los proyectos podrán suscribirse por el Vice-presidente y otro de los Secretarios, haciéndose la anotación marginal que corresponda en el texto.
+(Negativa de firmar documentos cuando hubiere obligación) Los diputados no podrán injustificadamente negarse a firmar documentos cuando hubiere obligación de ello con el objeto de impedir, dilatar o entorpecer algún trámite legislativo.
 
-De igual manera, podrá procederse a la firma del proyecto por parte del Vicepresidente y otro de los Secretarios, cuando no sea suscrito por el diputado facultado, en un plazo de veinticuatro horas contadas a partir de su recepción.
+Ante la negativa injustificada reiterada por parte de los diputados responsables, los documentos podrán suscribirse por el Presidente de la Mesa Directiva y uno de los Secretarios. Cuando la negativa sea del Presidente de la Legislatura podrá firmarse por el Vicepresidente y un Secretario, debiendo hacerse la anotación marginal que corresponda en el texto.
 
-### Capítulo primero. Disposiciones generales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+### Capítulo Séptimo. De las observaciones a Leyes y Decretos
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 84.
 
-(Plazo y naturaleza de las observaciones) Las resoluciones de la Legislatura susceptibles de ser observadas, podrán ser regresadas por el titular del Poder Ejecutivo del Estado, dentro de los quince días naturales siguientes a su recepción, para su reconsideración, con las observaciones totales o parciales planteadas.
+(Naturaleza de las observaciones y plazo para su presentación) Los Proyectos de Ley o Decreto que remita la Legislatura para promulgación y publicación podrán ser observadas por parte del titular del Poder Ejecutivo del Estado dentro de un plazo de quince días hábiles siguientes a su recepción.
 
-El titular del Poder Ejecutivo, deberá precisar la naturaleza de las observaciones formuladas.
+Las observaciones podrán ser parciales o a la totalidad de los proyectos, y deberán ser devueltas acompañando los documentos originales, precisando los razonamientos que dan origen a las mismas.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 85.
 
-(Deber de publicación) Si fenecido el plazo señalado no son recibidas observaciones del titular del Poder Ejecutivo, éste deberá publicar el proyecto correspondiente dentro de los treinta días naturales siguientes a su recepción. En caso contrario, la Presidencia de la Legislatura ordenará su publicación en los periódicos de mayor circulación en el Estado.
+(Deber de publicación) Si fenecido el plazo señalado no son recibidas observaciones por parte del titular del Poder Ejecutivo, éste deberá publicar el proyecto de Ley o Decreto correspondiente dentro de los treinta días hábiles siguientes a su recepción. En caso contrario, la Presidencia de la Legislatura ordenará su publicación en 2 periódicos de mayor circulación en el Estado.
 
 ###### Artículo 86.
 
@@ -855,17 +1111,23 @@ El titular del Poder Ejecutivo, deberá precisar la naturaleza de las observacio
 
 El nuevo dictamen que emita la Comisión seguirá todos los trámites que prescribe esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 87.
 
-(Aprobación) Los proyectos de ley, decreto o acuerdo observados por el titular del Poder Ejecutivo del Estado que sean remitidos por la Comisión dictaminadora para su discusión y votación al Pleno, deberán ser aprobados por mayoría calificada.
+(Aprobación de proyectos con observaciones) La Comisión u órgano legislativo que resuelva sobre las observaciones presentadas por el Poder Ejecutivo a algún proyecto de Ley o Decreto deberá exponer los razonamientos en su propuesta de dictamen.
+
+Los proyectos observados por el titular del Poder Ejecutivo del Estado deberán ser aprobados por mayoría calificada.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 88.
 
-(Proyecto alternativo) Cuando la Comisión emita el dictamen correspondiente a la resolución, considerando las observaciones y presentara un proyecto alternativo al observado, de ser aprobado por la Legislatura, independientemente de que no sea propuesta de la Comisión, se le dará tratamiento de proyecto enviado para su publicación por primera vez.
+(Proyecto alternativo) Cuando la Comisión presente un proyecto alternativo al observado y sea aprobado por la Legislatura, se le dará tratamiento de proyecto enviado para su publicación por primera vez.
 
 ## Título Cuarto. Sesiones del Pleno
 
-### Capítulo Segundo. Formalidad en las sesiones del Pleno
+### Capítulo Primero. Disposiciones generales
 
 ###### Artículo 89.
 
@@ -889,63 +1151,95 @@ e) Las demás que sean convocadas con ese carácter por el Presidente de la Legi
 
 (Frecuencia de las sesiones) La Legislatura sesionará por lo menos dos veces al mes, así como cuantas veces sea necesario, a fin de desahogar los asuntos de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 91.
 
-(Formalidades de la Convocatoria) La convocatoria a sesiones del Pleno corresponde al Presidente de la Legislatura. Se comunicará por escrito o a través de medios electrónicos y contendrá:
+(Formalidades de la Convocatoria) La convocatoria a las Sesiones del Pleno corresponde a la Presidencia de la Legislatura. Se comunicará por escrito o preferentemente a través de correo electrónico institucional y contendrá:
 
 I. La fecha de su emisión;
 
-II. La fecha, hora y sede programadas para la sesión;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-III. La exposición del orden del día; y,
+II. La fecha, lugar y hora programada para la sesión;
 
-IV. La firma autógrafa o clave electrónica del Presidente de la Legislatura, que no podrá ser sustituida por la de otra persona.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-La convocatoria deberá ser remitida a sus destinatarios al menos con un día de anticipación a la fecha en que haya de celebrarse la sesión, con aviso al Director de Asuntos Legislativos y Jurídicos y al Director de Servicios Administrativos, a efecto de que brinden el apoyo necesario en el ámbito de sus facultades.
+III. El orden del día; y
 
-En los casos en que resulte necesario sesionar para designar al Gobernador provisional, interino o sustituto, el Presidente de la Legislatura podrá convocar por cualquier medio a los integrantes de la misma, sin necesidad de cubrir las formalidades que establece el presente artículo.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-Asimismo, sesionará válidamente con el quórum legal, aun cuando no se haya convocado en el plazo señalado, cuando se traten de asuntos legislativos con carácter de urgente, por acuerdo de la Mesa Directiva.
+IV. La firma autógrafa o firma electrónica de la Presidencia de la Legislatura, de conformidad con la presente Ley.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+La convocatoria deberá ser remitida al menos con un día de anticipación a la fecha en que habrá de celebrarse la sesión.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+La Presidencia de la Legislatura podrá convocar a sesionar en el caso de designación de Gobernador provisional, interino o sustituto, o bien cuando se trate de asuntos que considere de urgente resolución. La Sesión se considerará válida cuando exista quórum legal para ello.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Las dependencias del Poder Legislativo deberán brindar el apoyo necesario en el ámbito de su competencia para el desarrollo de las sesiones.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 92.
 
-(Plazo para presentar asuntos que integrarán el orden del día) Para la integración del orden del día, la Mesa Directiva considerará exclusivamente los asuntos que hayan sido presentados en la Oficialía de Partes, con cuarenta y ocho horas de anticipación a la sesión correspondiente, computándose en días hábiles.
+(Asuntos que integrarán el orden del día) Para la integración del orden del día, la Presidencia de la Legislatura considerará preferentemente los dictámenes que hayan sido ingresados en la Oficialía de Partes, con cuarenta y ocho horas de anticipación a la sesión correspondiente, computándose en días hábiles.
 
-El Pleno, a solicitud verbal de cualquier diputado y por mayoría de los presentes, podrá agregar o retirar asuntos del orden del día de la sesión, hasta antes de abrir el apartado de asuntos generales.
+El Pleno, a solicitud de cualquier diputado y por mayoría de votos de los presentes, podrá agregar o retirar asuntos del orden del día de la sesión, hasta antes de abrir el punto de asuntos generales.
 
 ###### Artículo 93.
 
 (Publicidad del orden del día) El orden del día de las sesiones del Pleno se publicará en la Gaceta Legislativa.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 94.
 
-(Quórum) Las sesiones del Pleno requerirán, para su validez, la conducción del Presidente de la Legislatura o del vicepresidente en funciones de aquel y la presencia de la mayoría de los integrantes de la Legislatura.
+(Quórum para el desahogo de sesiones) Las sesiones del Pleno requerirán, para su validez, la conducción de la Presidencia de la Legislatura o del vicepresidente en funciones de aquel y la presencia de la mayoría simple de los integrantes de la Legislatura.
 
 ###### Artículo 95.
 
 (Moción de quórum) Durante el curso de una sesión, cualquiera de los integrantes de la Legislatura podrá solicitar la verificación del quórum legal de la sesión; en caso de no haberlo, bastará la simple declaración del Presidente de la Legislatura para levantar la sesión.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 96.
 
-(Declaratorias de apertura y clausura) El Presidente de la Legislatura o el vicepresidente en funciones de Presidente, abrirá y cerrará las sesiones respectivamente con estas fórmulas: “Se abre la sesión”, “Se levanta la sesión” y en su caso “Se cita para la próxima que tendrá verificativo el día (fecha)”.
+(Declaratorias de apertura y clausura de Sesión) La Presidencia de la Legislatura o la vicepresidencia en funciones de presidente, abrirá y cerrará las sesiones respectivamente indicando: "Se abre la presente Sesión", "Se levanta la presente Sesión" y en su caso "Se cita para la próxima Sesión que tendrá verificativo el día (indicar fecha, lugar y hora).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 97.
 
-(Orden del día) Las sesiones se desarrollarán conforme al orden del día programado en cada caso y se comunicará al Pleno al inicio de éstas, de acuerdo con lo siguiente:
+(Desahogo del Orden del día) Las sesiones de Pleno se desahogarán conforme al orden del día programado, de acuerdo al orden siguiente:
 
-I. Pase de lista, que se efectuará comenzando por los apellidos, a fin de comprobar el quórum;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II. Consideraciones sobre el acta de la sesión anterior;
+I. Pase de lista, que se efectuará comenzando por los apellidos de los diputados, a fin de comprobar el quórum;
 
-III. Dictámenes de leyes, decretos y acuerdos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Propuestas;
+II. Consideraciones al acta de la sesión o sesiones anteriores;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+III. Comunicaciones oficiales;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Dictámenes de leyes, decretos y acuerdos propuestos por los órganos de la Legislatura de conformidad con la presente Ley;
 
 V. Informes de órganos y dependencias del Poder Legislativo; y
 
 VI. Asuntos generales, mismos que no podrán dar inicio a algún trámite legislativo.
 
-Los dictámenes se enlistarán conforme al orden de su registro en la Oficialía de Partes, pudiendo, por su naturaleza, agruparse para su desahogo, sin perjuicio de alguien.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Los dictámenes se enlistarán preferentemente por Leyes, Decretos y Acuerdos, o bien conforme al orden de su ingreso y registro en Oficialía de Partes, pudiendo, por su naturaleza, agruparse para su desahogo.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
@@ -953,19 +1247,33 @@ Los dictámenes se enlistarán conforme al orden de su registro en la Oficialía
 
 (Formato de sesiones solemnes y comparecencias) En las sesiones solemnes, en aquellas en que vaya a recibirse la comparecencia de servidores públicos o en las que sesione conjuntamente con los otros Poderes, la Mesa Directiva acordará lo relativo al formato y deberá solicitar la opinión de la Junta de Coordinación Política.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 99.
 
-(Asistencia del Secretario de Gobierno) En las sesiones del Pleno en las que asista el Secretario de Gobierno, la Mesa Directiva acordará lo relativo al lugar que ocupará en la sesión.
+(Asistencia del Secretario de Gobierno) En las sesiones del Pleno a las que asista el Secretario de Gobierno, representante de las fuerzas armadas o servidor público que a consideración de la Mesa Directiva deba acompañarlos en alguna sesión de Pleno, se acordará la ubicación del lugar que deban ocupar.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 100.
 
-(Elaboración, publicidad y archivo de las actas) La elaboración de las actas corresponde a los Secretarios, quienes, indistintamente, deberán firmarlas y depositarlas en el archivo de la Dirección de Asuntos Legislativos y Jurídicos. No requerirán la aprobación del Pleno, pero serán integradas en la Gaceta Legislativa para conocimiento de los diputados, a fin de que en la sesión del Pleno que corresponda puedan señalar al Secretario las correcciones y aclaraciones pertinentes; si el Secretario se negare a tomarlas en cuenta, el Presidente de la Legislatura acordará lo conducente.
+(Elaboración, publicidad y archivo de las actas de Pleno) La elaboración de las actas corresponde a los Secretarios de cada órgano con auxilio de la Secretaría de Servicios Parlamentarios.
+
+Los Secretarios propietarios o habilitados deberán firmar las actas y depositarlas en el archivo de la Secretaría de Servicios Parlamentarios para su resguardo y archivo.
+
+Las actas permanecerán en archivo en la Secretaría de Servicios Parlamentarios desde la fecha de su depósito y hasta la conclusión de la Legislatura que corresponda, posteriormente se remitirán a resguardo de la biblioteca.
+
+Las actas no requerirán la aprobación del Pleno, pero serán integradas en la Gaceta Legislativa para conocimiento de los diputados, a fin de que en la sesión del Pleno que corresponda puedan sugerir las aclaraciones o correcciones en su caso; la Presidencia de la Legislatura acordará lo conducente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 101.
 
-(Contenido de las actas) Las actas contendrán la descripción clara y sucinta de lo ocurrido en las sesiones; además:
+(Contenido de las actas) Las actas contendrán la descripción clara y sucinta de lo ocurrido en las sesiones, además de indicar:
 
-I. El lugar y la fecha de celebración de la sesión, especificando sus horas de inicio y de término, y los recesos que ocurran;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+I. Lugar y fecha de desahogo de la sesión, especificando las horas de inicio y de término, así como los recesos en su caso;
 
 II. La relación de los diputados que asistan y, en su caso, la justificación de las inasistencias;
 
@@ -975,37 +1283,49 @@ IV. Los resultados de las votaciones y la síntesis de los acuerdos específicos
 
 V. La relación de los diputados que intervengan en asuntos generales y el tema que trataron; y
 
-VI. La firma del Secretario.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-Las actas no constituyen por sí mismas los acuerdos que deban ser expedidos por separado. Sólo por acuerdo del Pleno de la Legislatura, se insertarán textuales en las actas las intervenciones, discursos o pronunciamientos de los diputados.
+VI. La firma de la Secretaría propietaria o habilitada.
 
-### Capítulo Tercero. Orden en las sesiones del Pleno
+Las actas no constituyen por sí mismas los acuerdos que deban ser expedidos por separado.
+
+Sólo por acuerdo del Pleno de la Legislatura, se insertarán textuales en las actas las intervenciones, discursos o pronunciamientos de los diputados.
+
+### Capítulo Segundo. Formalidad en las sesiones del Pleno
 
 ###### Artículo 102.
 
-(Vestimenta de los diputados) A todas las sesiones del Pleno de la Legislatura y la noche del quince de septiembre, durante el desfile cívico en que se traslada la bandera del “Batallón Ligeros de Querétaro”, del recinto principal de la Legislatura a la Casa de la Corregidora, los diputados asistirán con vestimenta formal.
+(Vestimenta de los diputados) A todas las sesiones del Pleno de la Legislatura y la noche del quince de septiembre, durante el desfile cívico en que se traslada la bandera del "Batallón Ligeros de Querétaro", del recinto principal de la Legislatura a la Casa de la Corregidora, los diputados asistirán con vestimenta formal.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+En su caso el personal que los acompañe y personal de la Legislatura que ingrese al recinto durante las sesiones, deberá guardar la misma formalidad en su vestimenta.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 103.
 
-(Comisiones de cortesía) Para los actos protocolarios que celebre la Legislatura, el Presidente de la Mesa Directiva designará las siguientes comisiones de cortesía:
+(Comisiones de cortesía) La Presidencia de la Legislatura designará comisiones de cortesía para atender los actos protocolarios que celebre la Legislatura entre los que destacan:
 
-I. La que acompañe hasta el recinto legislativo al ciudadano que deba rendir protesta como Gobernador del Estado y en su trayecto hasta el recinto oficial del Poder Ejecutivo;
+I. La que acompañe al ciudadano que deba rendir protesta como Gobernador del Estado;
 
-II. La que acompañe al Gobernador del Estado en funciones, en sus recorridos entre la residencia oficial del Poder Ejecutivo y la de la Legislatura, en las ocasiones en que asista a alguna sesión del Pleno, incluida aquella en la que rinda el informe de labores de su gestión administrativa;
+II. La que acompañe a los titulares de los Poderes Ejecutivo y Judicial en las ocasiones en que asistan a alguna sesión de la Legislatura de manera conjunta o individual;
 
-III. La que acompañe fuera del recinto oficial del Poder Legislativo, al ciudadano cuyas funciones como Gobernador del Estado concluyan, cuando se retire de la sesión en que transmita el Poder;
+III. La que acompañe a los ciudadanos que deban rendir protesta ante la Legislatura; y
 
-IV. La que asista a invitar al Tribunal Superior de Justicia, por conducto de su Presidente, a la sesión en que el titular del Poder Ejecutivo rinda informe del estado general que guarda la administración pública;
+IV. Aquellas que a criterio de la Presidencia de la Legislatura deban designarse.
 
-V. La que conduzca al interior del salón de sesiones a los servidores públicos que hayan de rendir protesta ante la Legislatura y los acompañe hasta su salida del recinto, con excepción de los diputados para este último efecto; y
+Las comisiones de cortesía se designarán por la Presidencia de la Legislatura a efecto de que acompañen al interior o salida del recinto legislativo a las personas indicadas.
 
-VI. Las necesarias para atender aquellas diligencias, cuya importancia lo exija.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 104.
 
-(Ubicación de invitados) Los funcionarios y personalidades que acudan a las sesiones de la Legislatura, invitados o requeridos para comparecer, se ubicarán en los lugares que asigne y disponga la Mesa Directiva.
+(Ubicación de invitados a las sesiones de la Legislatura) Los invitados formalmente a las sesiones de la Legislatura y los servidores públicos que deban de comparecer ante ésta, se ubicarán en los lugares que asigne y disponga la Mesa Directiva.
 
-En caso de asistir los titulares o los representantes de los Poderes del Estado, el Gobernador del Estado se colocará a la derecha del Presidente de la Legislatura y el Presidente del Tribunal Superior de justicia a su izquierda. Si además asistieren los titulares o los representantes de los Poderes Federales, podrán ubicarse en el presidium, a la derecha del Gobernador del Estado, el Presidente de la República, y a la izquierda del Presidente del Tribunal Superior de Justicia, se colocará el Presidente de la Cámara de Diputados y de la Cámara de Senadores, seguido del Presidente de la Suprema Corte de Justicia de la Nación.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando asistan los titulares de los Poderes del Estado o sus representantes, el Gobernador del Estado se colocará a la derecha del Presidente de la Legislatura y el Presidente del Tribunal Superior de justicia a su izquierda. Si además asistieren los titulares o los representantes de los Poderes Federales, podrán ubicarse en el presidium, a la derecha del Gobernador del Estado, el Presidente de la República, y a la izquierda del Presidente del Tribunal Superior de Justicia, se colocará el Presidente de la Cámara de Diputados y de la Cámara de Senadores, seguido del Presidente de la Suprema Corte de Justicia de la Nación.
 
 Cuando se trate de la toma de protesta del Gobernador del Estado, el entrante se colocará inmediatamente a la derecha del Presidente de la Legislatura y el saliente, inmediatamente a su izquierda.
 
@@ -1031,15 +1351,19 @@ IV. A continuación, el Gobernador electo rendirá protesta ante la Legislatura 
 
 V. Hecho lo anterior, el Presidente de la Legislatura instruirá a las respectivas comisiones de cortesía para cumplir su cometido.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 108.
 
-(Informes de los Poderes del Estado) Cuando la Legislatura celebre sesiones solemnes para recibir los informes de los Poderes Ejecutivo o Judicial del Estado, por acuerdo de la Mesa Directiva y por conducto de su Presidente, comunicará a los titulares de éstos la sede, fecha y hora de la sesión respectiva.
+(Informes de los Poderes del Estado) Cuando la Legislatura celebre sesiones solemnes para recibir los informes de los Poderes Ejecutivo o Judicial del Estado, por acuerdo de la Mesa Directiva y por conducto de la Presidencia de la Legislatura, comunicará a los titulares de éstos la sede, fecha y hora de la sesión respectiva.
 
-La Legislatura analizará el informe del Gobernador en el seno de las Comisiones.
+Misma situación se realizará cuando se trate de recibir los informes de órganos constitucionales autónomos o aquellos servidores públicos que deban rendir su informe ante la Legislatura, previo acuerdo de la Mesa Directiva.
 
-### Capítulo Primero. Órganos
+La Legislatura analizará el informe del titular del Poder Ejecutivo de conformidad con el acuerdo que al efecto apruebe la Mesa Directiva con opinión del presidente de la Junta de Coordinación Política.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2016)</small>
+Los demás informes podrán ser analizados al seno de las Comisiones, de conformidad con lo que acuerde la Mesa Directiva.
+
+### Capítulo Tercero. Orden en las sesiones del Pleno
 
 ###### Artículo 109.
 
@@ -1053,9 +1377,11 @@ La Legislatura analizará el informe del Gobernador en el seno de las Comisiones
 
 (Acceso restringido al recinto) Sólo con permiso del Presidente de la Legislatura podrán ingresar al lugar destinado a los diputados, personas que no posean ese carácter. Podrán ingresar al recinto, con la debida prudencia y para el efecto de cumplir sus responsabilidades, los asistentes y asesores de los diputados y el personal de las dependencias de la Legislatura que se encuentre asignado, quienes quedarán sujetos a la disciplina del Presidente de la Legislatura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 112.
 
-(Facultades disciplinarias del Presidente) Para garantizar el adecuado desarrollo de las sesiones, podrá el Presidente de la Legislatura:
+(Facultades disciplinarias de la Presidencia) Para garantizar el adecuado desarrollo de las sesiones, la Presidencia de la Legislatura podrá tomar las siguientes determinaciones:
 
 I. Llamar al orden al diputado que lo quebrantase, pudiendo en caso de reincidencia, ordenar su salida del salón de sesiones;
 
@@ -1069,23 +1395,35 @@ V. En los casos de perturbación grave del orden, suspender, prorrogar o declara
 
 VI. Solicitar la presencia de la fuerza pública dentro del recinto legislativo, donde la mantendrá bajo su mando; y
 
-VII. Solicitar, antes de que se lleve a cabo una votación, se retiren del interior del recinto las personas que no tengan el carácter de diputados, a excepción del personal de la Dirección de Asuntos Legislativos y Jurídicos.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Solicitar, antes de que se lleve a cabo una votación, se retiren del interior del recinto las personas que no tengan el carácter de diputados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 113.
 
-(Moción de orden) El Presidente de la Legislatura podrá reclamar el orden del debate, en los siguientes casos:
+(Moción de orden) La Presidencia de la Legislatura podrá reclamar el orden del debate, en los siguientes casos:
 
-I. Cuando se infrinjan artículos de esta Ley, en cuyo caso deberá ser citado el artículo respectivo;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II. Cuando se viertan injurias contra alguna persona o corporación; o
+I. Cuando se viole la presente Ley y con ello se impida o dificulte el debido proceso legislativo;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+II. Cuando se viertan amenazas o injurias contra alguna persona o institución; o
 
 III. Cuando el orador se aparte del asunto en discusión.
 
-No podrá llamarse al orden al orador que critique o censure a funcionarios públicos por faltas o errores cometidos en el desempeño de sus atribuciones.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+No podrá llamarse al orden al diputado en su libre derecho de expresión.
 
 ## Título Quinto. Estructura del Poder Legislativo
 
-### Capítulo Segundo. Dependencias
+### Capítulo Primero. Órganos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2016)</small>
 
 ###### Artículo 114.
 
@@ -1113,9 +1451,9 @@ Ningún diputado, podrá ocupar simultáneamente las Presidencias de la Mesa Dir
 
 Cuando por cualquier causa algún diputado suplente sustituya al propietario en sus funciones, sin necesidad de declaración expresa quedará integrado en los cargos y órganos en que venía desempeñándose el propietario. Se excluyen de lo dispuesto en este párrafo los coordinadores de los Grupos y Fracciones Legislativas y el Presidente de la Legislatura, quienes en todo caso requerirán de designación expresa por parte de su Grupo o Fracción o del Pleno, respectivamente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-#### Sección Primera. Grupos y Fracciones Legislativas y Diputados Independientes
+#### Sección Primera. Grupos y Fracciones Legislativas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -1143,11 +1481,17 @@ Si un diputado independiente se registra y afilia formalmente a un partido polí
 
 Si durante el ejercicio de la función legislativa un diputado renuncia a la militancia de su partido, es expulsado del mismo, se registra en otro partido político, o bien, se declara diputado independiente, no perderá ningún derecho y seguirá sujeto a las mismas obligaciones que tenía previstas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 116.
 
-(Coordinador) Dentro de la semana siguiente a la sesión de instalación de la Legislatura, los Grupos y Fracciones Legislativas designarán libremente, por escrito, ante el Presidente de la Mesa Directiva, a su coordinador, quien podrá tomar decisiones a nombre de los integrantes de su Grupo o a nombre propio, tratándose de una Fracción Legislativa. En el escrito deberá constar la firma autógrafa de la mayoría de sus integrantes.
+(Coordinadores) Dentro de la semana siguiente a la sesión de instalación de la Legislatura, los Grupos Legislativos designarán libremente, por escrito, ante la Presidencia de la Legislatura, a su coordinador, quien podrá realizar propuestas y tomar decisiones a nombre de los integrantes de su Grupo. En el escrito deberá constar la firma autógrafa de la mayoría de sus integrantes.
 
 Corresponde a cada Grupo Legislativo establecer los mecanismos de elección y substitución de su coordinador.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+En el caso de las fracciones legislativas, se entenderá que la coordinación corresponde al diputado que la representa.
 
 ###### Artículo 117.
 
@@ -1169,19 +1513,21 @@ Las relaciones contractuales entre las personas que no hayan sido contratadas po
 
 #### Sección Segunda. Mesa Directiva
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 120.
 
-(Elección y duración de la Mesa Directiva) Se elegirá mediante cédula y por mayoría de votos de los diputados presentes en la sesión, una Mesa Directiva o el Presidente de la Legislatura que conducirá los trabajos del Poder Legislativo hasta por seis meses; en cada caso se especificará la duración del ejercicio correspondiente.
+(Elección y duración de la Mesa Directiva) La Mesa Directiva se elegirá por mayoría de votos de los diputados presentes en la sesión.
 
-En su actuación, la Mesa Directiva observará los principios de imparcialidad y objetividad, haciendo prevalecer el interés general de la Legislatura sobre el particular de sus integrantes o sus órganos.
+La Presidencia de la Legislatura conducirá los trabajos del Poder Legislativo hasta por seis meses; en cada caso se especificará la duración del ejercicio correspondiente.
+
+En su actuación, la Mesa Directiva observará los principios de legalidad, imparcialidad y objetividad, haciendo prevalecer el interés general de la Legislatura sobre el particular de sus integrantes o sus órganos.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 121.
 
-(Tiempo de la elección) La Mesa Directiva será electa en forma previa a la fecha en que deba entrar en funciones.
-
-Cuando por cualquier causa no se celebre esta elección, la Mesa Directiva en funciones continuará conduciendo los trabajos legislativos, hasta en tanto se realice la elección.
+(Tiempo de la elección) La Mesa Directiva será electa en forma previa a la fecha en que deba entrar en funciones, en el Decreto respectivo se indicará el nombre de los diputados que la integrarán, la duración en el cargo y cualquier otra condición, encomienda o prevención acordada para su funcionamiento.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -1231,15 +1577,19 @@ XIII. Designar, en caso de ausencia temporal o definitiva de los titulares de la
 
 XIV. Ejercer las demás atribuciones que le confiera este ordenamiento y las normas que de él se deriven.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 125.
 
-(Carácter del Presidente) Para todos los efectos de esta Ley, se entiende por Presidente de la Legislatura, al de la Mesa Directiva.
+(Carácter del Presidente) Para todos los efectos de esta Ley, se entiende por la Presidencia de la Legislatura, a la Presidencia de la Mesa Directiva y por Secretaría, a los diputados que desempeñan dicha función en los órganos legislativos.
 
 El Presidente de la Legislatura expresa la unidad institucional del Poder Legislativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 126.
 
-(Facultades y obligaciones del Presidente) Corresponde al Presidente de la Mesa Directiva:
+(Facultades y obligaciones de la Presidencia) Corresponde a la Presidencia de la Legislatura:
 
 I. Citar a los diputados a las sesiones del Pleno, mediante convocatoria por escrito o a través de medios electrónicos, salvo las excepciones previstas por esta Ley;
 
@@ -1281,29 +1631,39 @@ XVII. Procurar el orden en las sesiones y hacer uso de las medidas disciplinaria
 
 XVIII. Solicitar el uso de la fuerza pública y ejercer su mando en el interior de los recintos oficiales del Poder Legislativo;
 
-XIX. Hacer respetar el fuero constitucional de los diputados y asegurar la inviolabilidad de los recintos oficiales del Poder Legislativo;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Hacer respetar y asegurar la inviolabilidad de los recintos oficiales del Poder Legislativo;
 
 XX. Designar las comisiones de cortesía que requiera el protocolo;
 
-XXI. Supervisar y ordenar el trabajo de la Dirección de Asuntos Legislativos y Jurídicos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+XXI. Supervisar y ordenar el trabajo de la Secretaría de Servicios Parlamentarios;
 
-XXII. Ejercer la representación legal de la Legislatura exclusivamente para asuntos contenciosos, facultad que podrá delegar al Director de Asuntos Legislativos y Jurídicos o a prestadores externos de servicios profesionales que cuenten con título profesional de Licenciado en Derecho, cuando así se requiera. Asimismo, representará legalmente al Poder Legislativo, en la contratación de empréstitos, arrendamientos financieros o la utilización de cualquier instrumento financiero y de crédito en sus diversas modalidades, previa aprobación del Pleno;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XXIII. Celebrar convenios de colaboración, sin contenido patrimonial, a nombre de la Legislatura, cuando ésta lo acuerde;
+XXII. Ejercer la representación legal de la Legislatura para asuntos judiciales y administrativos, facultad que podrá delegar al titular de la Secretaría de Servicios Parlamentarios o a prestadores de servicios profesionales externos cuando así se requiera. Asimismo, representará legalmente al Poder Legislativo, en la contratación de empréstitos, arrendamientos financieros o la utilización de cualquier instrumento financiero y de crédito en sus diversas modalidades, previa aprobación del Pleno;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XXIV. Rendir ante la Legislatura, en el mes de julio, el informe anual de actividades del Poder Legislativo, consultando previamente a los integrantes de la Mesa Directiva sobre el contenido del mismo;
+XXIII. Celebrar convenios de colaboración a nombre de la Legislatura, de conformidad con las disposiciones legales vigentes o cuando se derive de la aprobación del Pleno de la Legislatura;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV. Rendir ante la Legislatura, en el mes de julio, el informe anual de actividades del Poder Legislativo;
 
 XXV. Declarar recesos, cuando concurran causas que dificulten el curso normal de las deliberaciones o cuando con ello se favorezca la obtención de consensos; y
 
-XXVI. Las demás que le señalen la Legislatura, esta Ley y otras normas aplicables.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XXVI. Las demás facultades que le señalen la presente Ley, la Mesa Directiva, el Pleno de la Legislatura y demás disposiciones vigentes.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 127.
 
-(Imposibilidad de abandonar el territorio del Estado) Durante su gestión, el Presidente de la Legislatura no podrá abandonar el territorio del Estado por más de treinta días naturales, sin mediar autorización de la Mesa Directiva.
+(Salidas del territorio del Estado de los integrantes de la Mesa) Durante el tiempo que dure su gestión, los integrantes de la Mesa Directiva solo podrán abandonar el territorio del Estado hasta por treinta días naturales.
 
 ###### Artículo 128.
 
@@ -1311,19 +1671,29 @@ XXVI. Las demás que le señalen la Legislatura, esta Ley y otras normas aplicab
 
 Si el Presidente de la Mesa Directiva se negare a subordinar sus resoluciones al voto de la Legislatura, en los términos del párrafo anterior, el vicepresidente deberá sustituirlo en el cumplimiento de esta obligación.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 129.
 
-(Sustitución del Presidente) El Presidente de la Legislatura podrá ser sustituido en su cargo, por notorio y reiterado incumplimiento de sus responsabilidades, siempre que exista solicitud presentada por escrito, debidamente fundada y motivada, firmada por al menos diecisiete diputados.
+(Relevo del cargo en la Presidencia de la Legislatura) El Presidente de la Legislatura podrá ser relevado en su cargo, por notorio y reiterado incumplimiento de sus responsabilidades, cuando exista solicitud presentada por escrito, debidamente fundada, motivada y firmada por al menos diecisiete diputados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 130.
 
-(Facultades y obligaciones del vicepresidente) Corresponde al vicepresidente:
+(Facultades y obligaciones de la vicepresidencia) Corresponde a la vicepresidencia de la Legislatura:
 
-I. Auxiliar al presidente en el ejercicio de sus facultades;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II. Llamar al orden al presidente, por sí o a instancia de algún miembro de la Legislatura;
+I. Auxiliar en sus funciones a la Presidencia de la Legislatura, en el cumplimiento de sus funciones;
 
-III. Firmar los proyectos de leyes, decretos, acuerdos y demás resoluciones de la Legislatura, en los casos previstos en esta ley;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+II. Instar al orden a la Presidencia de la Legislatura, por sí o a instancia justificada de algún integrante de la Legislatura;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+III. Firmar los proyectos de leyes, decretos, acuerdos y demás resoluciones de la Legislatura, en los casos de excepción previstos en esta ley;
 
 IV. Suplir al Presidente en sus ausencias por más de seis días o a solicitud de éste, en cuyo caso tendrá las facultades y obligaciones que correspondan a aquel.
 
@@ -1331,51 +1701,79 @@ Si por cualquier causa el Vicepresidente no pudiera ejercer esta suplencia, el p
 
 V. Suplir al Presidente de la Legislatura en las Sesiones del Pleno, fungiendo con el carácter y facultades de éste, hasta que el Presidente se incorpore; y
 
-VI. Ejercer las demás facultades y obligaciones que le confiera la Legislatura, esta Ley y las disposiciones que de ella se deriven.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Ejercer las demás facultades que le señalen la presente Ley, la Mesa Directiva, el Pleno de la Legislatura y demás disposiciones legales vigentes.
 
 ###### Artículo 131.
 
 (Facultades y obligaciones de los Secretarios) Corresponde indistintamente a los Secretarios:
 
-I. Auxiliar al Presidente de la Legislatura en el ejercicio de sus facultades;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II. Por instrucción del Presidente de la Legislatura, pasar lista de los diputados e informar el resultado;
+I. Auxiliar en sus funciones a la Presidencia de la Legislatura, en el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+II. Registrar el pase de lista de los diputados e informar el resultado;
 
 III. Elaborar y firmar las actas de las sesiones del Pleno y de la Mesa Directiva;
 
-IV. Fungir como fedatarios públicos en los términos de esta ley;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-V. Firmar, en forma conjunta con el Presidente de la Legislatura, las leyes, decretos, acuerdos y demás resoluciones que expida la Legislatura;
+IV. Fungir como fedatarios públicos de aquellos actos y documentos que obren en los archivos oficiales del Poder Legislativo;
 
-VI. Registrar y computar las votaciones, informando al Presidente de la Legislatura el resultado de las mismas; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Ejercer las demás facultades y obligaciones que le confiera la Legislatura, esta Ley y las disposiciones que de ella se deriven.
+V. Firmar, en forma conjunta con la Presidencia de la Legislatura, las leyes, decretos, acuerdos y demás resoluciones que expida la Legislatura;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Registrar y computar las votaciones, informando a la Presidencia de la Legislatura el resultado de las mismas; y
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Ejercer las demás facultades que le señalen la presente Ley, la Mesa Directiva, el Pleno de la Legislatura y demás disposiciones vigentes.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 132.
 
-(Auxilio de los Secretarios) Al solicitar el apoyo de los Secretarios, el Presidente de la Legislatura procurará turnar a éstos equitativamente los asuntos.
+(Auxilio de los Secretarios) Al solicitar el apoyo de los Secretarios, la Presidencia de la Legislatura procurará alternar equitativamente los asuntos en que participen.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 133.
 
-(Fe pública de los Secretarios) Los Secretarios podrán certificar para cualquier trámite, documentos expedidos por la Legislatura, sus órganos o dependencias, siempre y cuando obren en original en sus archivos.
+(Fe pública) Los Secretarios podrán certificar documentos generados por la Legislatura, sus órganos o dependencias, cuando éstos obren en original en sus archivos. La certificación hecha por el Secretario, no avala su contenido.
 
-Los Secretarios podrán certificar cualquier otro documento que obre en original o en copia certificada expedida por servidor público competente en uso de sus facultades, si se encuentra en los archivos del Poder Legislativo, para cualquier trámite, debiendo asentarse la leyenda siguiente: "Esta certificación sólo tiene validez oficial para trámites internos legislativos o externos del Poder Legislativo".
+Asimismo, podrán certificar documentos que obre en original o en copia certificada expedida por autoridad competente, si estos se encuentran en los archivos del Poder Legislativo, debiendo asentarse la leyenda: "Esta certificación sólo tiene validez oficial para trámites del Poder Legislativo del Estado de Querétaro".
 
-La certificación hecha por el Secretario, no avala su contenido.
+Se podrán expedir constancias relativas a los cargos y nombramientos aprobados por la Legislatura y sobre la existencia de documentos que obren en los archivos del Poder Legislativo.
 
-Asimismo, podrán expedir constancias relativas a los cargos y nombramientos aprobados por la Legislatura y sobre la existencia de documentos que obren en los archivos del Poder Legislativo.
+En ausencia de los Secretarios propietarios, los suplentes podrán ejercer las facultades que otorga este artículo, o bien por acuerdo de la Mesa Directiva delegar dicha facultad al Secretario de Servicios Parlamentarios.
 
-En ausencia de los Secretarios propietarios, los suplentes podrán ejercer las facultades que otorga este artículo.
+El uso de firma electrónica únicamente se podrá utilizar mediante el sistema informático que mediante acuerdo apruebe la Mesa Directiva, y que deberá garantizar la veracidad, seguridad y control de los documentos que se expidan bajo ese contexto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 134.
 
-(Sesiones de la Mesa Directiva) Para adoptar las resoluciones que deba acordar en forma colegiada, la Mesa Directiva sesionará a propuesta de su Presidente y ante la negativa de éste, de la mayoría de sus integrantes, mediante convocatoria expedida con cuarenta y ocho horas de anticipación a la sesión respectiva o con un tiempo menor en casos de urgencia.
+(Sesiones de la Mesa Directiva) Para adoptar las resoluciones que deba acordar en forma colegiada, la Mesa Directiva sesionará previa convocatoria de la Presidencia de la Legislatura.
 
-Cuando se trate de la resolución relativa a la programación del orden del día de las sesiones plenarias, la convocatoria a que se refiere el párrafo anterior se acompañará de una relación de todos los asuntos recibidos hasta la fecha, con la indicación sobre cuáles de ellos propone el Presidente de la Mesa Directiva para su incorporación al orden del día correspondiente.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Las convocatorias para sesionar en Mesa Directiva deberán entregarse con al menos veinticuatro horas de anticipación a la sesión respectiva, excepto cuando se trate de casos de apremiantes o de urgente resolución.
 
 De las sesiones de la Mesa Directiva se levantará acta por parte del Secretario que señale el Presidente, en la que se asienten los acuerdos respectivos.
 
-Cuando exista empate en las votaciones de las resoluciones la Mesa Directiva, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando exista empate en las votaciones de las resoluciones la Mesa Directiva, la Presidencia de la Legislatura ejercerá su voto de calidad.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+A las sesiones de la Mesa Directiva asistirá la Secretaría de Servicios Parlamentarios a efecto de que participe e informe de los asuntos recibidos y pendientes de resolución por parte de dicho órgano.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
@@ -1387,19 +1785,19 @@ Cuando exista empate en las votaciones de las resoluciones la Mesa Directiva, el
 
 (Función general e integración) La Junta de Coordinación Política es el órgano encargado de procurar la toma de decisiones políticas de la Legislatura y se integra con los coordinadores de los Grupos y Fracciones Legislativas.
 
-Para su funcionamiento tendrá un Presidente y un Secretario.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Para su funcionamiento deberá estar presente el Presidente de la Junta de Coordinación Política y contar con la asistencia de la mayoría de los integrantes; no obstante cuando éstos falten injustificadamente a las sesiones que se les hayan convocado previamente, bastará con el acuerdo de los integrantes que asistan.
 
 ###### Artículo 136.
 
 (Asignación presupuestal) Para cumplir con sus atribuciones, contará con el presupuesto que le asigne la Legislatura, mismo que será ejercido por su Presidente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 137.
 
-(Rotación de cargos de la Junta y tiempo de su elección) Los cargos de Presidente y Secretario de la Junta de Coordinación Política, se ocuparán rotativamente entre los coordinadores de cada uno de los Grupos y Fracciones Legislativas, en los términos, condiciones y procedimientos que acuerde la mayoría de la Junta de Coordinación Política. Posteriormente, los coordinadores podrán ceder o intercambiar el periodo de la Presidencia y Secretaría, de conformidad con los acuerdos suscritos entre los interesados, sin perjuicio de los que no intervengan.
-
-El presidente y secretario que deban funcionar en el primer período de la Junta, serán electos por el Pleno, dentro de las primeras tres sesiones del ejercicio constitucional de la Legislatura.
+(Composición de la Junta de Coordinación Política) La Junta de Coordinación Política estará compuesta por una Presidencia y una Secretaría que ocuparán respectivamente los coordinadores de los Grupos con mayor representación en el Congreso con base en los resultados de la última elección local; los demás coordinadores de los Grupos y Fracciones serán considerados integrantes.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
@@ -1413,7 +1811,9 @@ El presidente y secretario que deban funcionar en el primer período de la Junta
 
 (Competencia de la Junta de Coordinación Política) Compete a la Junta de Coordinación Política:
 
-I. Adoptar la toma de decisiones concertadas en todos los ámbitos y materias que al Poder Legislativo correspondan, las cuales comunicará al órgano o dependencia respectiva, para su debido cumplimiento;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+I. Adoptar la toma de decisiones concertadas en los ámbitos y materias que sean de su competencia; informando en su caso a los órganos o dependencias para su debido cumplimiento;
 
 II. Proponer acuerdos al Pleno de la Legislatura sobre iniciativas presentadas, decisiones de gobierno interno, declaraciones institucionales de la Legislatura y cualquier decisión que sea de su competencia;
 
@@ -1427,27 +1827,33 @@ IV. Turnar al titular del Poder Ejecutivo del Estado, el Proyecto de Presupuesto
 
 El proyecto de Presupuesto de Ingresos y Egresos del Poder Legislativo que se elabore anualmente, señalará de manera ineludible las obligaciones de pago multianuales previstas en los contratos de mediano y largo plazo celebrados por el Poder Legislativo del Estado de Querétaro, en términos del segundo párrafo, del artículo 3 del presente ordenamiento, que se encuentran vigentes, tanto para el ejercicio fiscal correspondiente como para los subsecuentes. El Poder Legislativo garantizará prioritariamente los recursos suficientes y necesarios para el cumplimiento de las obligaciones que se contraigan en los ejercicios fiscales correspondientes, mediante los contratos que el Poder Legislativo celebre con fundamento en lo previsto en el presente ordenamiento y demás leyes aplicables;
 
-V. Proponer a la Legislatura la integración de sus órganos y la substitución de sus miembros, así como la designación de los titulares de las dependencias;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Comunicar a la Mesa Directiva, la inclusión de asuntos en el orden del día para las sesiones del Pleno;
+V. Proponer a la Legislatura la integración de sus órganos y la substitución de sus miembros, así como la designación de los titulares de las dependencias que correspondan conforme a la Presente Ley;
 
-VII. Proponer al Pleno de la Legislatura, a los diputados que deban representar al Poder Legislativo ante organismos oficiales;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Solicitar a la Mesa Directiva, la inclusión de asuntos en el orden del día para las sesiones del Pleno que sean competencia de la Junta de Coordinación Política;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Proponer a la Presidencia de la Legislatura, a los diputados o titulares de dependencias que deban representar al Poder Legislativo ante diferentes órganos o comisiones oficiales;
 
 VIII. Ejercer, por conducto de su Presidente, el presupuesto que tenga asignado;
 
 IX. Proponer a la Legislatura el nombramiento y remoción de los funcionarios externos que deban ser electos por ésta, observando lo dispuesto por esta ley;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-X. Supervisar y ordenar el trabajo de la Coordinación de Comunicación Social;
+X. Supervisar y ordenar el trabajo de la Dirección de Comunicación Social;
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2014)</small>
 
 XI. Proponer al Pleno de la Legislatura, en términos del artículo 3 del presente ordenamiento, la celebración de contratos a que alude el segundo párrafo de dicho numeral, pudiendo también proponer, en su caso, que el Poder Ejecutivo del Estado intervenga en la celebración del contrato correspondiente como aval o deudor solidario, de las obligaciones que contraiga la Legislatura del Estado en ejercicio de la atribución conferida en el presente numeral. Los contratos correspondientes, podrán ser adjudicados o asignados directamente por el Poder Legislativo del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XII. Delegar, por conducto de su Presidente, al Director de Asuntos Legislativos y Jurídicos, la representación legal de la Junta, exclusivamente para la atención de asuntos contenciosos en que se deba hacer valer los intereses institucionales del propio órgano legislativo; la misma delegación podrá realizarse a favor de prestadores externos de servicios profesionales que cuenten con título profesional de Licenciados en Derecho, pero en tal caso será necesario el acuerdo mayoritario de sus integrantes y la anuencia previa de la Mesa Directiva;
+XII. Delegar por Acuerdo de la Presidencia, a la Secretaría de Servicios Parlamentarios, la representación legal de la Junta, exclusivamente para la atención de asuntos contenciosos en que se deba hacer valer los intereses institucionales del propio órgano legislativo; la misma delegación podrá realizarse a favor de prestadores de servicios profesionales externos cuando así se requiera.
 
 > <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2015)</small>
 
@@ -1463,65 +1869,47 @@ XIV. Ejercer las demás atribuciones que le confieran esta Ley y otras disposici
 
 Cada Presidente de la Junta de Coordinación Política rendirá, al abandonar su cargo, un informe a sus integrantes, sobre el presupuesto ejercido durante su gestión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 141.
 
-(Sesiones de la Junta) La Junta de Coordinación Política sesionará en las oficinas de su presidencia o donde se acuerde por la mayoría de sus integrantes, mediante convocatoria emitida por el presidente de la misma o, en su defecto, por la mayoría de los integrantes, al menos dos veces al mes, pero en todo caso lo hará contando con la asistencia de la mayoría de sus integrantes.
+(Sesiones de la Junta) La Junta de Coordinación Política sesionará preferentemente en el domicilio legal de la Legislatura, o en el lugar que determine la Presidencia, quien emitirá la convocatoria indicando día, hora y lugar.
 
-En las sesiones de la Junta en las que se desahoguen asuntos de trámite legislativo, se convocará al Presidente de la Mesa Directiva y al Director de Asuntos Legislativos y Jurídicos.
+En las sesiones de la Junta en las que se desahoguen asuntos de trámite legislativo se podrá invitar a la Presidencia de la Mesa Directiva.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 142.
 
-(Acuerdos) Las decisiones de la Junta de Coordinación Política sobre los asuntos que sean de su conocimiento y requieran la emisión de un acuerdo o propuesta, serán adoptadas, preferentemente, por consenso, en caso de que éste no se obtenga será por mayoría de votos, ponderando el porcentaje de la representatividad que corresponda a los Coordinadores de los Grupos y Fracciones Legislativas presentes, atendiendo para ello al número de Diputados que los integre, en relación con la conformación total de la Legislatura en ejercicio constitucional.
+(Acuerdos de la Junta de Coordinación Política) Las decisiones de la Junta de Coordinación Política sobre los asuntos que sean de su conocimiento y requieran la emisión de un acuerdo o propuesta, serán adoptadas, preferentemente, por consenso, en caso de que éste no se obtenga será por mayoría de votos, ponderando el porcentaje de la representatividad que corresponda a los Coordinadores de los Grupos y Fracciones Legislativas presentes, atendiendo para ello al número de Diputados que los integre, en relación con la conformación total de la Legislatura en ejercicio constitucional.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-#### Sección Tercera bis. Del procedimiento para la ratificación y remoción de funcionarios electos por la Legislatura del Estado
+#### Sección Cuarta. Ratificación o remoción de funcionarios electos por la Legislatura
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-Artículo 142 bis. (Del procedimiento para la ratificación y remoción de funcionarios) La Junta de Coordinación Política determinará el procedimiento para la ratificación y remoción de funcionarios electos por la Legislatura del Estado, emitiendo para tal efecto dictamen debidamente fundado y motivado, sujetándose en los siguientes lineamientos:
+Artículo 142 bis. (Ratificación de funcionarios electos por la Legislatura) La ratificación de funcionarios electos por la Legislatura se realizará de conformidad con la presente Ley y demás disposiciones vigentes aplicables al cargo de que se trate. Cuando no hubiere un procedimiento determinado y sea facultad de la Legislatura, será determinado por la Junta de Coordinación Política y ejecutado por la Mesa Directiva.
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-I. Notificación al funcionario que corresponda, del inicio del procedimiento y sus consecuencias;
-
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
-
-II. Establecer un periodo de ofrecimiento y desahogo de pruebas, así como dar a conocer las pruebas de la contraparte;
-
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
-
-III. Establecer un período de alegatos; y
-
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
-
-IV. Emitir el dictamen correspondiente.
-
-#### Sección Cuarta. Comisiones
+#### Sección Quinta. Comisiones
 
 Primera Parte
 
 Integración y competencia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO OCTAVO TRANSITORIO DE LA LEY.</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 143.
 
-(Integración) Para el estudio y despacho de los asuntos de la Legislatura, se nombrarán Comisiones ordinarias y especiales, en su caso, integradas por un Presidente, un Secretario y hasta tres integrantes que la Legislatura acuerde, de modo que la suma del total de sus integrantes resulte en número impar.
+(Integración) Para el estudio y despacho de los asuntos competencia de la Legislatura, se sesionará en Comisiones, que podrán ser ordinarias y especiales, estarán integradas por una Presidencia, una Secretaría y un integrante.
 
-Dentro de las tres primeras sesiones del Pleno de la Legislatura entrante, a propuesta de cualquier diputado se acordará la integración de las Comisiones ordinarias, las cuales se integrarán preferentemente por diputados de al menos dos de los Grupos o Fracciones Legislativas, considerando el perfil de estudios, la experiencia laboral, aptitudes o intereses de los diputados, en función de las materias de competencia de las Comisiones.
+Dentro de las tres primeras sesiones del Pleno de la Legislatura entrante, a propuesta de cualquier diputado se acordará la integración de las Comisiones ordinarias que estarán integradas preferentemente por diputados de al menos dos de los Grupos o Fracciones Legislativas.
 
-Las Comisiones se tendrán por instaladas a partir de su integración y aprobación por el Pleno de la Legislatura.
+Las Comisiones se tendrán por instaladas a partir de su integración y aprobación por el Pleno de la Legislatura. Su integración podrá modificarse por acuerdo de la mayoría de los integrantes de la Legislatura en Pleno.
 
-La integración de las Comisiones podrá modificarse por acuerdo de la mayoría de los integrantes de la Legislatura.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-Para el estudio y despacho de los asuntos que determine la Junta de Coordinación Política o la Mesa Directiva, las comisiones podrán actuar unidas; en tal caso, todos los integrantes tendrán los mismos derechos y obligaciones, y serán presididas por quien designe la Junta.
+Las Comisiones podrán actuar unidas en lo que corresponde al proceso legislativo para analizar y resolver los asuntos que les sean turnados con motivo de sus competencias, en tal caso todos los integrantes tendrán los mismos derechos y obligaciones, el presidente y secretario serán quienes designe el Presidente de la Junta de Coordinación Política.
 
 ###### Artículo 144.
 
@@ -1529,7 +1917,9 @@ Para el estudio y despacho de los asuntos que determine la Junta de Coordinació
 
 I. Examinar, instruir y poner en estado de resolución los asuntos que les sean turnados para su estudio y emitir los dictámenes, propuestas, recomendaciones e informes que resulten de sus actuaciones;
 
-II. Coordinar, con el apoyo de las Direcciones de Asuntos Legislativos y Jurídicos y de Investigación y Estadística Legislativa, la formulación de proyectos de dictamen y los trabajos de investigación, respectivamente, otorgándoles todas las facilidades para cumplir con esa responsabilidad;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+II. Formular las propuestas y proyectos de dictamen que se discutirán al seno de la Comisión, en coordinación con la Secretaría de Servicios Parlamentarios. Asimismo, de requerirlo podrán solicitar la participación de Investigación y Estadística Legislativa para la realización de trabajos de investigación que enriquezcan las propuestas;
 
 III. Realizar en los términos de la presente Ley, invitaciones a particulares, requisiciones de información oficial, solicitudes de comparecencia de servidores públicos, inspecciones, encuestas, foros y consultas, y demás actuaciones necesarias para la investigación, estudio y desahogo de los asuntos que les sean encomendados;
 
@@ -1545,89 +1935,127 @@ VI. Emitir declaraciones y pronunciamientos no constitutivos de derechos u oblig
 
 VII. Proponer a la Junta de Coordinación Política, representantes de la Legislatura ante organismos públicos o privados que lo soliciten;
 
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-VIII. Acudir en forma colegiada o a través de un diputado que las represente, a congresos, foros, seminarios y demás eventos que enriquezcan la experiencia y capacidad de acción del trabajo legislativo en las materias de su competencia, en el territorio del Estado o fuera de éste;
+VIII. Acudir en forma colegiada o a través de un diputado que las represente, a congresos, foros, seminarios y demás eventos que enriquezcan la experiencia y capacidad de acción del trabajo legislativo en las materias de su competencia, en el territorio del Estado o fuera de éste; dicha representación podrá ser delegada a los servidores públicos de la Legislatura cuando se estime conveniente;
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Delegar, por conducto de su Presidente, al Director de Asuntos Legislativos y Jurídicos, la representación legal de las Comisiones, exclusivamente para la atención de asuntos contenciosos en que se deban hacer valer los intereses institucionales del propio órgano legislativo; la misma delegación podrá realizarse a favor de prestadores externos de servicios profesionales que cuenten con título profesional (sic) Licenciado en Derecho, pero en tal caso será necesario el acuerdo mayoritario de sus integrantes y la anuencia previa de la Mesa Directiva; y
+IX. Delegar, por conducto de la Presidencia de la Comisión, a la Secretaría de Servicios Parlamentarios la representación legal, exclusivamente para la atención de asuntos contenciosos en que se deba hacer valer los intereses institucionales del propio órgano legislativo; la misma delegación podrá realizarse a favor de prestadores de servicios profesionales externos cuando así se requiera;
 
-X. Ejercer los recursos que se les asignen.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+X. Ejercer los recursos que se les asignen, de conformidad con las disposiciones aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Ejercer las demás atribuciones que le confieran esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 145.
 
 (Competencia por materia) Las Comisiones ordinarias serán competentes para conocer los asuntos que les encomiende el Pleno de la Legislatura y demás normas aplicables, así como la materia que derive de su denominación, siendo la siguiente:
 
-I. Administración y procuración de justicia: Tiene a su cargo la atención de asuntos relativos a la administración de justicia, procuración de justicia, y asuntos en las ramas del derecho civil, penal y administrativo;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II. Asuntos indígenas: Tiene a su cargo la atención de asuntos en materia indígena;
+I. Acceso a la Información. Tiene a su cargo la atención de asuntos en materia de información pública, acceso a la información, transparencia y protección de datos personales;
 
-III. Asuntos municipales y del migrante: Tiene a su cargo la atención de asuntos de índole municipal y de los trabajadores migrantes de los municipios del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Derechos humanos y Acceso a la Información Pública: Tiene a su cargo la atención de asuntos en materia de derechos humanos y acceso a la información pública;
+II. Administración y Procuración de Justicia. Tiene a su cargo la atención de asuntos relativos a la administración y procuración de justicia, así como aquellos asuntos en las ramas del derecho civil, penal y administrativo;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-V. Desarrollo agropecuario y rural sustentable: Tiene a su cargo la atención de asuntos en materia de agricultura, ganadería, silvicultura, apicultura y acuicultura; normatividad y política para el desarrollo rural; abasto, comercialización y medidas para garantizar la autosuficiencia agroalimentaria en el Estado;
+III. Asuntos del Migrante. Tiene a su cargo la atención de asuntos relacionados con el tránsito de migrantes queretanos;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Desarrollo económico, comercio y turismo: tiene a su cargo la atención de los asuntos en materia de desarrollo industrial, comercial, fomento de inversiones productivas y economía solidaria, así como de promoción turística del Estado y municipios;
+IV. Asuntos Indígenas. Tiene a su cargo la atención de asuntos relacionados con el fomento y bienestar de los pueblos y comunidades indígenas del Estado;
 
-VII. Desarrollo social y vivienda: Tiene a su cargo la atención y análisis de programas de gobierno para el combate de la pobreza y fomento a la vivienda;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+V. Asuntos Municipales. Tiene a su cargo asuntos relacionados con la competencia de los Municipios en términos de lo dispuesto por la Constitución Federal y la del Estado de Querétaro;
 
-VIII. Desarrollo sustentable y cambio climático: Tiene a su cargo atender asuntos en materia de ecología, preservación del medio ambiente, recursos naturales y cambio climático;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Desarrollo urbano, obras públicas y comunicaciones: Tiene a su cargo la atención de asuntos en materia de planeación urbana, normatividad de obra pública y comunicaciones;
+VI. Ciencia, Tecnología e innovación. Tiene a su cargo la atención de asuntos relacionados con el fomento de los avances científicos, tecnológicos e innovadores conforme a las disposiciones legales vigentes;
 
-X. Educación, cultura, ciencia, tecnología e innovación: Tiene a su cargo la atención de asuntos en materia educativa, fomento de las actividades culturales y de avances científicos, tecnológicos e innovadores en el Estado;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+VII. Educación y Cultura. Tiene a su cargo la atención de asuntos en materia formativa, de enseñanza e infraestructura, así como los relacionados con el fomento de las actividades culturales y artísticas en el Estado de Querétaro;
 
-XI. Familia: Tiene a su cargo la atención de asuntos relacionados con la familia en la rama del derecho civil, así como temas vinculados con la familia y sus integrantes.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+VIII. Derechos Humanos. Tiene a su cargo la atención de asuntos para el respeto, promoción y defensa de los derechos humanos;
 
-XII. Gobernación, administración pública y asuntos electorales: Tiene a su cargo la atención de asuntos en materia de legislación electoral, del gobierno estatal, organismos autónomos, paraestatales, organismos descentralizados, municipales y paramunicipales, sobre su funcionamiento;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+IX. Desarrollo agropecuario y rural sustentable. Tiene a su cargo la atención de asuntos en materia de agricultura, ganadería, silvicultura, apicultura y acuicultura, así como de política para el desarrollo rural; abasto y medidas para garantizar la autosuficiencia agroalimentaria en el Estado de Querétaro;
 
-XIII. Hacienda: Tiene a su cargo asuntos en materia de desincorporación de bienes del dominio público, autorización de endeudamiento de entidades públicas; autorizaciones para contratos y actos jurídicos en materia hacendaria de las entidades públicas, que requieran autorización de la Legislatura;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+X. Desarrollo económico y comercio. Tiene a su cargo la atención de asuntos en materia de desarrollo industrial, comercial, fomento de inversiones productivas y economía solidaria en el Estado de Querétaro;
 
-XIV. Igualdad de género, grupos vulnerables y discriminados. Tiene a su cargo la atención de asuntos relacionados con la garantía de igualdad de las personas, y la no discriminación, la atención de temas relacionados con la mujer y la transversalidad en el ejercicio de sus derechos y políticas públicas dirigidas a estas, así como procurar la protección de los derechos fundamentales de las personas que se encuentran en alguna situación especial de vulnerabilidad;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XV. Instructora: Tiene a su cargo la atención de asuntos en materia de juicio político, declaración de procedencia, suspensión o desaparición de ayuntamientos y revocación, suspensión o inhabilitación de alguno de sus miembros;
+XI. Desarrollo social, grupos vulnerables y vivienda. Tiene a su cargo la atención de asuntos relacionados con acciones y programas en materia de desarrollo social y grupos vulnerables en el Estado de Querétaro, así como el fomento a la vivienda;
 
-XVI. Juventud y deporte: Tiene a su cargo la atención de asuntos en materia de atención y desarrollo de los jóvenes, y fomento de las actividades deportivas;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2017)</small>
+XII. Desarrollo urbano, obras públicas y comunicaciones. Tiene a su cargo la atención de asuntos en materia de desarrollo y planeación urbana, ordenamiento territorial, normatividad de obra pública y comunicaciones;
 
-XVII. Participación ciudadana: tiene a su cargo la atención de los asuntos relacionados con la participación e incidencia de los ciudadanos en los asuntos y decisiones de interés público, los procesos de formación de ciudadanía y el fortalecimiento de la cultura democrática;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XVIII. Planeación y Presupuesto: Tiene a su cargo la atención de asuntos en materia de legislación fiscal estatal y municipal, así como realizar el estudio y dictamen del presupuesto de egresos y las iniciativas de Ley de ingresos de Gobierno del Estado y de los Municipios. Asimismo, es competente para realizar modificaciones al presupuesto de egresos de la Legislatura y a las políticas y lineamientos relativos al empleo de los recursos asignados;
+XIII. Familia. Tiene a su cargo la atención de asuntos relacionados con el concepto de familia como institución social;
 
-XIX. Puntos constitucionales: Tiene a su cargo la atención de asuntos en materia de reformas a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XX. Redacción y estilo: Tiene a su cargo la elaboración de las minutas de los proyectos de leyes y decretos y, en su caso, de los acuerdos que le remita la Mesa Directiva;
+XIV. Gobernación, Administración Pública y Asuntos Electorales. Tiene a su cargo la atención de asuntos en materia electoral, del gobierno estatal, organismos constitucionales autónomos, organismos paraestatales, organismos descentralizados, municipales y paramunicipales;
 
-XXI. Salud y población: Tiene a su cargo la atención de asuntos en materia de seguridad social, salud pública y población;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XXII. Seguridad pública y protección civil: Tiene a su cargo la atención de asuntos en materia de seguridad pública estatal y municipal, y de protección y prevención civil;
+XV. Instructora. Tiene a su cargo la atención de asuntos en materia de juicio político, declaración de procedencia, suspensión o desaparición de ayuntamientos y revocación, suspensión o inhabilitación de alguno de sus miembros;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XXIII. Trabajo y previsión social: Tiene a su cargo la atención de asuntos en materia de decretos de jubilaciones y pensiones de conformidad con lo establecido en el artículo 37 bis de la presente Ley y de lo dispuesto por la Ley de los Trabajadores del Estado de Querétaro. De igual forma, le corresponde el estudio de armonizaciones en materia laboral;
+XVI. Juventud y deporte. Tiene a su cargo la atención de asuntos en materia de atención y desarrollo de los jóvenes, y fomento de las actividades deportivas en el Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XXIV. Movilidad Sustentable. Tiene a su cargo la atención de asuntos en materia de sustentabilidad y ordenamiento de transporte, vialidades y normatividad de tránsito, y
+XVII. Medio ambiente. Tiene a su cargo asuntos relacionados con la protección y conservación del medio ambiente, ecología y desarrollo sustentable;
 
-XXV. Transparencia y rendición de cuentas: Tiene a su cargo vigilar que todo el trabajo administrativo y gasto público que realicen la Dirección de Servicios Administrativos y la Dirección de Servicios Financieros, se ejerza con base en los programas aprobados y en el presupuesto de ingresos y egresos de la Legislatura, pero sin interrumpir el normal desarrollo de la institución; solicitar de cualquier órgano y dependencia del Poder Legislativo los informes que requiera; supervisar y observar, en los términos de la ley de la materia, la rendición del informe de la cuenta pública de la Legislatura; detectar y, en su caso, notificar a la Contraloría Interna, todas y cada una de las presuntas irregularidades e inconsistencias legales en que incurran los funcionarios de los órganos y dependencias del Poder Legislativo.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Movilidad sustentable y tránsito. Tiene a su cargo asuntos relacionados con la movilidad y desplazamiento de personas, vehículos y transporte público en el Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Participación Ciudadana. Tiene a su cargo la atención de los asuntos relacionados con la participación e incidencia de los ciudadanos en los asuntos y decisiones de interés público, los procesos de formación de ciudadanía y el fortalecimiento de la cultura democrática;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Planeación y Presupuesto. Tiene a su cargo la atención de asuntos en materia de legislación fiscal y tributaria, el estudio y dictamen de iniciativas de leyes de ingresos y presupuesto de egresos del Gobierno del Estado de Querétaro en términos de las disposiciones vigentes; así como la modificación presupuestal de los recursos de la Legislatura, conforme políticas y lineamientos relativos al empleo de los recursos asignados.
+
+Le corresponde además conocer de asuntos en materia de desincorporación de bienes del dominio público, endeudamiento, celebración de contratos y actos jurídicos en materia hacendaria de las entidades públicas que requieran autorización de la Legislatura;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XXI. Puntos constitucionales. Tiene a su cargo la atención de asuntos en materia de reformas a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XXII. Salud. Tiene a su cargo la atención de asuntos en materia de salud pública y seguridad social en el Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII. Seguridad pública y protección civil. Tiene a su cargo la atención de asuntos en materia de seguridad pública estatal y municipal, así como de prevención y protección civil;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV. Trabajo y previsión social. Tiene a su cargo la atención de asuntos en materia de decretos de pensiones por vejez, por muerte y jubilaciones, de conformidad con las disposiciones vigentes; y
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XXV. Turismo. Tiene a su cargo la atención de asuntos en materia de promoción y difusión de potenciales para el desarrollo de políticas del turismo en el Estado de Querétaro.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -1643,9 +2071,11 @@ Segunda parte
 
 Funcionamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 147.
 
-(Facultades del Presidente de la Comisión) Corresponde al Presidente de la Comisión:
+(Facultades de las (sic) Presidente de Comisiones) Corresponde a las Presidencias de las Comisiones:
 
 I. Convocar y presidir las sesiones;
 
@@ -1655,13 +2085,17 @@ III. Dictar todos los trámites que exija el desahogo de los asuntos contenidos 
 
 IV. Coordinarse con los integrantes de la Comisión y demás órganos y dependencias del Poder Legislativo, para el eficiente desarrollo de sus actividades;
 
-V. Llevar la correspondencia de la Comisión, custodiar su archivo y entregarlo debidamente inventariado a la Dirección de Asuntos Legislativos y Jurídicos, antes de la conclusión del ejercicio constitucional;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+V. Llevar la correspondencia de la Comisión, custodiar su archivo y entregarlo debidamente inventariado a la Secretaría de Servicios Parlamentarios, antes de la conclusión del ejercicio constitucional;
 
 VI. Cumplir y hacer cumplir los acuerdos de la Comisión;
 
 VII. En las faltas del Secretario, habilitar en esa función a un diputado integrante;
 
-VIII. Representar a la Comisión ante otras autoridades; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Representar a la Comisión ante otras autoridades, representación que podrá ser delegada a la Secretaría de Servicios Parlamentarios atendiendo al asunto de mérito; y
 
 IX. Ejercer las demás facultades que esta Ley, el Pleno de la Legislatura y las normas aplicables le confieran.
 
@@ -1697,65 +2131,95 @@ La Comisión Instructora sesionará de manera reservada y sus integrantes estar�
 
 El Presidente tendrá voto de calidad en caso de empate en la votación de los asuntos que resuelvan.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 152.
 
-(Tiempo de la convocatoria) La convocatoria a sesiones de las Comisiones, será expedida por su Presidente y remitida a sus integrantes por escrito o a través de medios electrónicos, al menos con dos días de anticipación a la fecha en que haya de celebrarse la sesión y con aviso a la Dirección de Asuntos Legislativos y Jurídicos y a la Dirección de Servicios Administrativos, para que brinden el apoyo necesario en el ámbito de sus facultades y obligaciones.
+(Tiempo de la convocatoria) La convocatoria a sesiones de las Comisiones, será expedida por su Presidente y remitida a sus integrantes por escrito o a través de medios electrónicos, al menos con un día de anticipación a la fecha en que haya de celebrarse la sesión y con aviso a Servicios Parlamentarios, Servicios Administrativos, Comunicación Social e Investigación y Estadística Legislativa para que brinden el apoyo necesario en el ámbito de sus responsabilidades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 153.
 
-(Formalidades de la convocatoria) La convocatoria a sesiones de las comisiones contendrá:
+(Formalidades de la convocatoria) La convocatoria a las Sesiones de comisión corresponde a la Presidencia de la Comisión y contendrá:
 
 I. La fecha de su emisión;
 
-II. La fecha, hora y sede programadas para la sesión;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+II. La fecha, lugar y hora programada para la sesión;
 
 III. El orden del día; y
 
-IV. La firma autógrafa o electrónica del Presidente que la valide, las cuales no podrán ser sustituidas por la de otra persona.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-El defecto en las formalidades y el plazo de la convocatoria, no impedirá que se celebre la sesión, pero su validez quedará subordinada a la convalidación de la mayoría de los integrantes de la Comisión.
+IV. La firma autógrafa, firma electrónica de la Presidencia de la Comisión, de conformidad con la presente Ley.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+El defecto en las formalidades y el plazo de la convocatoria, no impedirá que se celebre la sesión, pero su validez quedará subordinada a la asistencia de la mayoría de los integrantes.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 154.
 
-(Omisión de convocatorias) Si a partir de la fecha en que un asunto sea turnado a la Comisión, transcurriesen más de quince días hábiles sin que su presidente convoque a sesionar para iniciar el tratamiento del asunto, podrá convocar el Presidente de la Legislatura a pedimento de uno de los integrantes de la Comisión o turnarlo al Pleno para que éste resuelva.
+(Omisión de convocatorias) Si a partir de la fecha en que un asunto sea turnado a una Comisión para su estudio, transcurriesen más de noventa días hábiles sin que su presidente convoque a sesionar para iniciar el tratamiento del asunto, a pedimento de alguno de los integrantes de la Comisión, el Presidente de la Mesa Directiva podrá reasignar el asunto a otra comisión.
 
-Cuando habiendo asuntos pendientes en la agenda de la Comisión, el presidente omita convocar a sesión en el lapso de un mes, así podrá informarlo alguno de los integrantes de la Comisión al Presidente de la Legislatura, para que éste acuerde lo conducente.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 155.
 
-(Programación de las sesiones) La Dirección de Servicios Administrativos implementará un sistema informático que permita reservar anticipadamente las salas de sesiones, programar las sesiones, conocer el orden del día a que se sujetarán y prevenir cuando algún diputado pertenezca a dos o más Comisiones convocantes, que pretendan sesionar simultáneamente.
+(Programación de las sesiones) Se implementará un sistema informático que permitirá reservar anticipadamente las salas de sesiones, programar reuniones y sesiones de los órganos y dependencias, las salas que se ubiquen en el recinto legislativo serán utilizadas exclusivamente para trabajos relacionados con la función legislativa de los órganos y dependencias.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 156.
 
-(Oposición a la firma) Ante la negativa del secretario de una Comisión, para firmar algún documento generado por acuerdo de la misma, su firma será sustituida por la de cualquier integrante de la Comisión.
+(Oposición a la firma) En el caso de negativa de firmar documentos cuando hubiere obligación por parte de diputados se estará a lo que dispone la presente ley.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 157.
 
-(Voz y voto en las sesiones) Los integrantes de las Comisiones participarán en sus sesiones con voz y voto. Cualquier diputado puede asistir sin voto a las sesiones de las Comisiones de las que no forme parte y exponer en ellas su parecer sobre los asuntos de que conozcan. El personal de apoyo que asistan en las sesiones de las Comisiones, podrán hacer uso de la voz cuando el Presidente lo autorice.
+(Voz y voto en las sesiones de comisión) Los integrantes de las comisiones participarán en las sesiones con voz y voto. Los diputados que no sean integrantes del órgano podrán asistir a las sesiones que desahoguen otras comisiones y participar con voz, pero sin voto, debiendo dar cuenta el Presidente de su asistencia a la sesión respectiva.
+
+En las sesiones de comisión el presidente podrá considerar conceder el uso de la voz a algún servidor público o asistente a la misma, ya sea por invitación, o porque su participación contribuya al análisis y deliberación en algún tema de su competencia.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 158.
 
-(Elaboración y archivo de las actas y pase de lista) La elaboración y firma de las actas y pase de lista corresponden al Secretario, quien podrá solicitar el apoyo de la Dirección de Asuntos Legislativos y Jurídicos.
+(Elaboración, publicidad y archivo de las actas de Comisión) Al termino de cada sesión de comisión se deberá levantar un acta, siguiendo las reglas que para la elaboración, publicidad y archivo de las actas del Pleno establece la presente Ley.
 
-Las actas se levantarán y serán puestas a consideración de los integrantes de la Comisión, para aclaraciones y rectificaciones pertinentes y no requerirán su aprobación.
+Cuando exista un receso en los trabajos de la comisión, decretado por el presidente del órgano, se asentará esta situación, pero de ninguna manera constituirá una nueva acta o con puntos distintos a los que se desahoguen.
 
-El acta original será depositada en el archivo de la Dirección de Asuntos Legislativos y Jurídicos, y una copia se proporcionará a la Presidencia de la Comisión, si lo solicita.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 159.
 
-(Constancias por falta de quórum) Por falta de quórum en una sesión de Comisión, se levantará constancia con apoyo de la Dirección de Asuntos Jurídicos y Legislativos, documento que firmarán los integrantes de la Comisión que estén presentes.
+(Constancias por falta de quórum) Cuando una sesión de comisión sea debidamente convocada y no asistan la mayoría de los integrantes por cualquier causa, el presidente ordenará a Servicios Parlamentarios levante una constancia de falta de quorum y firmarán los diputados que estuvieron presentes.
+
+Si quien falte a la sesión convocada es el presidente de la comisión, el secretario o alguno de los integrantes asistentes notificará por escrito a la Presidencia de la Legislatura dicha situación, a efecto de que verifique si dicha ausencia se trató de una causa justificada.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 160.
 
-(Convenios) Las Comisiones carecen de personalidad jurídica para contratar u obligarse por sí mismas o a nombre de la Legislatura; pero con el acuerdo de sus integrantes, podrán celebrar convenios de colaboración, sin contenido patrimonial, a fin de elevar la calidad de su desempeño legislativo.
+(Celebración de convenios por parte de las comisiones) Las comisiones carecen de personalidad jurídica para contratar u obligarse por sí mismas o a nombre de la Legislatura; pero con el acuerdo de sus integrantes, podrán celebrar convenios de colaboración, sin contenido patrimonial, acordes a la materia de su denominación y de asuntos que les hayan sido turnados para su estudio.
 
-Los convenios que celebren las Comisiones en los términos del párrafo que antecede, se comunicarán al Pleno de la Legislatura.
+Los convenios que celebren las comisiones en los términos del presente artículo se comunicarán al Pleno, a través de la Presidencia de la Legislatura.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 161.
 
-(Infraestructura) Las Comisiones dispondrán del personal, asesores externos y los recursos financieros y materiales que determine el presupuesto de egresos del Poder Legislativo.
+(Recursos humanos y materiales de apoyo a las comisiones) Las Comisiones dispondrán de los recursos humanos y materiales que les sean asignados conforme a su composición, atendiendo al presupuesto de egresos de la Legislatura y disponibilidad presupuestal.
 
-### Capitulo Único. Del procedimiento
+El personal externo de apoyo a los trabajos de las comisiones serán responsabilidad de quienes soliciten sus servicios y ajenos de responsabilidad por parte de la Legislatura, salvo que la Presidencia de la Legislatura haya aprobado conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+### Capítulo Segundo. De las Dependencias
 
 #### Sección Primera. Disposiciones generales
 
@@ -1763,33 +2227,65 @@ Los convenios que celebren las Comisiones en los términos del párrafo que ante
 
 (Dependencias) Son dependencias del Poder Legislativo:
 
-I. La Dirección de Servicios Administrativos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II. La Dirección de Servicios Financieros;
+I. 0La (sic) Secretaría de Servicios Parlamentarios;
 
-III. La Dirección de Asuntos Legislativos y Jurídicos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+II. La Dirección de Servicios Administrativos;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+III. La Dirección de Servicios Financieros;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 IV. La Contraloría Interna;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 V. La Dirección de Investigación y Estadística Legislativa; y
 
-VI. La Coordinación de Comunicación Social.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+VI. La Dirección de Comunicación Social.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Para los efectos de la presente ley se podrán referir a las dependencias por la materia que corresponde a sus atribuciones.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 163.
 
-(Designación de titulares) Dentro de las cuatro primeras sesiones del Pleno que lleve a cabo cada Legislatura entrante, posteriores a la de su instalación, se designará o ratificará a los titulares de las dependencias, con el voto de la mayoría de sus integrantes, mediante propuesta que realice la Junta de Coordinación Política o, en su caso, por parte de cualquier diputado y sólo podrán ser removidos por causa grave justificada, en los términos de la legislación laboral aplicable.
+(Propuesta y designación de titulares) Dentro de las cuatro primeras sesiones del Pleno de la Legislatura entrante, posteriores a la de su instalación, se designará o ratificará a los titulares de las dependencias siguientes:
 
-Los titulares en funciones continuarán desarrollando sus actividades de acuerdo a las facultades que les otorga la ley, hasta en tanto el Pleno de la Legislatura los ratifique o designe a otra persona.
+I. Secretaría de Servicios Parlamentarios;
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+II. Servicios Administrativos;
 
-En caso de ausencia temporal o definitiva de los titulares de las dependencias del Poder Legislativo, la Mesa Directiva, a propuesta de la Junta de Coordinación Política, designará a quienes de manera interina y hasta por un plazo de noventa días naturales, deban llevar a cabo las funciones de los titulares; plazo que podrá prorrogarse hasta en dos ocasiones, por periodos iguales, para el buen funcionamiento de la Legislatura.
+III. Servicios Financieros;
+
+IV. Contraloría Interna;
+
+V. Investigación y Estadística Legislativa; y
+
+VI. Comunicación Social.
+
+La propuesta para designar titulares de las citadas dependencias se realizará en la sesión de Pleno que corresponda, mediante proposición que realice la Junta de Coordinación Política, algún órgano o en su caso algún diputado, requiriéndose para su aprobación la mayoría de votos de los integrantes de la legislatura presentes.
+
+Los titulares en funciones continuarán desarrollando sus actividades institucionales, hasta en tanto el Pleno de la Legislatura los ratifique o designe a otra persona.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 164.
 
-(Titularidad) La titularidad de dos o más dependencias y demás cargos a que se refiere esta ley, no podrá recaer en una misma persona.
+(Titularidad, interinatos y remoción) La titularidad de dos o más dependencias y demás cargos a que se refiere la presente ley, no podrá recaer en una misma persona.
+
+En caso de ausencia temporal por más de 15 días hábiles o ausencia definitiva de los titulares de las dependencias, la Presidencia de la Mesa Directiva, a propuesta de la Presidencia de la Junta de Coordinación Política, designará a quienes de manera interina y hasta por un plazo de noventa días naturales, deban llevar a cabo las funciones de los titulares; plazo que podrá prorrogarse hasta en dos ocasiones, por periodos iguales, para el buen funcionamiento de la Legislatura.
+
+Cuando la ausencia sea temporal hasta por 15 días hábiles, el Presidente de la Mesa Directiva determinará lo conducente.
 
 ###### Artículo 165.
 
@@ -1801,13 +2297,11 @@ II. Poseer título profesional de nivel licenciatura, afín a las funciones del 
 
 III. No estar inhabilitado para ejercer algún cargo público por resolución firme dictada en procedimiento de responsabilidad administrativa.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 166.
 
-(Recursos) Las dependencias contarán con todos los recursos humanos, materiales y financieros que requieran para cumplir con sus funciones en apoyo del Poder Legislativo.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-Para este efecto, cada titular propondrá a la Junta de Coordinación Política, en los primeros diez días del mes de octubre de cada año, el proyecto anual de egresos de la dependencia.
+(Recursos administrativos de las dependencias) Para el cumplimiento de sus funciones y obligaciones las dependencias contarán con los recursos humanos, materiales y financieros que les sean asignados, atendiendo al presupuesto de egresos de la Legislatura y disponibilidad presupuestal.
 
 ###### Artículo 167.
 
@@ -1815,17 +2309,19 @@ Para este efecto, cada titular propondrá a la Junta de Coordinación Política,
 
 Para la función legislativa, se contará con el apoyo institucional del personal de las dependencias del Poder Legislativo, quienes no podrán ser instruidos por los diputados para realizar actividades ajenas al trabajo legislativo.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 168.
 
-(Estructura) Las dependencias tendrán la estructura que determine la Junta de Coordinación Política, asegurando su óptimo desempeño, de acuerdo a la disponibilidad presupuestal.
+(Estructura administrativa) Las dependencias tendrán la estructura administrativa que dispone la presente ley, en caso de modificación, la que les determine la Presidencia de la Junta de Coordinación Política y la Comisión de Planeación y Presupuesto, atendiendo a la disponibilidad presupuestal.
 
 ###### Artículo 169.
 
 (Medidas internas) Los titulares de las dependencias del Poder Legislativo, deberán dictar todas las disposiciones administrativas internas que requieran para ordenar, organizar y distribuir el trabajo y responsabilidades del personal que labore en éstas.
 
-#### Sección Segunda. Dirección de Servicios Administrativos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+#### Sección Segunda. Servicios Administrativos
 
 ###### Artículo 170.
 
@@ -1853,11 +2349,11 @@ VI. Administrar los recursos humanos y materiales con que cuente la Legislatura 
 
 VII. A través del personal a su cargo, prestar, conducir y controlar los servicios de fotocopiado, mensajería, choferes, suministro de materiales de papelería, vigilancia, limpieza y demás análogos de tipo administrativo para el apoyo de las actividades oficiales de la Legislatura, de sus órganos y dependencias;
 
-VIII. Rendir y entregar ante la Comisión de Transparencia y Rendición de Cuentas, cuanto informe le requiera sobre su gestión;
+VIII. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Proponer conjuntamente con el Director de Servicios Financieros, a la Junta de Coordinación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en los artículos 139, fracción IV del presente ordenamiento y 24, último párrafo, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
+IX. Proponer conjuntamente con el Director de Servicios Administrativos, a la Junta de Coordinación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro y demás disposiciones aplicables;
 
 X. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento;
 
@@ -1871,7 +2367,9 @@ XIII. Intervenir en los procesos de adquisición o arrendamiento de bienes inmue
 
 XIV. A través del personal técnico a su cargo, prestar los servicios de mantenimiento y apoyo informático a los órganos y dependencias del Poder Legislativo;
 
-XV. Celebrar contratos con contenido patrimonial a nombre de la Legislatura, previo acuerdo del Pleno;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Celebrar contratos con contenido patrimonial a nombre de la Legislatura, previo acuerdo de la Presidencia de la Legislatura.
 
 XVI. Ejecutar los acuerdos del Pleno de la Legislatura, en el ámbito de su competencia;
 
@@ -1889,7 +2387,9 @@ XIX. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el 
 
 XX. Tener a su cargo un Registro de Antigüedad Laboral que contendrá entre otra información, la relacionada con el sueldo, antigüedad y puesto de los trabajadores del Poder Legislativo. Dicha información podrá ser compartida, mediante solicitud que conste por escrito, con los titulares de las oficialías mayores o sus equivalentes de diversos entes públicos.
 
-#### Sección Tercera. Dirección de Servicios Financieros
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+#### Sección Tercera. Servicios Financieros
 
 ###### Artículo 173.
 
@@ -1915,7 +2415,7 @@ IV. Llevar el registro contable de los ingresos y egresos, de acuerdo a los prin
 
 V. Tener el resguardo y archivo de los asuntos concernientes a su dependencia;
 
-VI. Rendir ante la Comisión de Transparencia y rendición de cuentas, los informes que le requieran sobre su gestión;
+VI. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2018)
 
 VII. Elaborar los informes de cuenta pública del Poder Legislativo y remitirlos a la Entidad Superior de Fiscalización del Estado, en los términos de la ley de la materia;
 
@@ -1937,45 +2437,73 @@ XIV. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y r
 
 XV. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables.
 
-#### Sección Cuarta. Dirección de Asuntos Legislativos y Jurídicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+#### Sección Cuarta. Servicios Parlamentarios
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 176.
 
-(Función y ubicación orgánica) La Dirección de Asuntos Legislativos y Jurídicos es la dependencia encargada de apoyar a los órganos del Poder Legislativo, en el desahogo de los trámites legislativos, brindarles asesoría jurídica en los términos de la presente Ley y recibir, a título de Oficialía de Partes, la documentación que se dirija al Poder Legislativo y a sus órganos.
+(Naturaleza, función y ubicación orgánica) La Secretaría de Servicios Parlamentarios forma parte de la estructura del Poder Legislativo del Estado y se constituye como auxiliar en los trabajos de naturaleza legislativa de los órganos y dependencias.
 
-La Dirección de Asuntos Legislativos y Jurídicos se encuentra orgánicamente subordinada a la Mesa Directiva de la Legislatura.
+Tendrá las atribuciones que le establece la presente Ley y de manera especial el desahogo del proceso legislativo, atención de asuntos de carácter jurídico y contencioso en que la legislatura o sus órganos sean parte.
+
+Le corresponde además recibir, organizar y canalizar los documentos que sean recibidos en la Oficialía de Partes de la Legislatura.
+
+La Secretaría de Servicios Parlamentarios se encuentra orgánicamente subordinada a la Mesa Directiva de la Legislatura y se constituye como secretaría técnica de la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 177.
 
-(Requisitos) Para ser titular de la Dirección de Asuntos Legislativos y Jurídicos se requiere poseer título profesional de licenciatura en derecho y experiencia de tres años en el ámbito legislativo contados a partir de la expedición del título y acreditar maestría en el ámbito jurídico.
+(Requisitos) Para ser titular de la Secretaría de Servicios Parlamentarios se requiere poseer título profesional de licenciatura en derecho y experiencia de tres años en el ámbito legislativo contados a partir de la expedición del título y acreditar maestría en el ámbito jurídico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 178.
 
-(Facultades y obligaciones de la Dirección) Corresponde a la Dirección de Asuntos Legislativos y Jurídicos:
+(Facultades y obligaciones de la Secretaría de Servicios Parlamentarios) Corresponde (sic) la Secretaría de Servicios Parlamentarios:
 
-I. Por acuerdo del Presidente de la Legislatura, redactar, suscribir y tramitar la correspondencia oficial en materia legislativa;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II. Tener a su cargo el archivo de los asuntos legislativos en trámite;
+I. Redactar, organizar, suscribir y tramitar la correspondencia oficial en materia legislativa;
 
-III. Colaborar, con auxilio del personal de la dependencia, en la elaboración de las actas que les correspondan a las Comisiones y Mesa Directiva, y formar el archivo y memoria de las mismas;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Tener a su cargo la Oficialía de Partes del Poder Legislativo, área encargada de recibir los asuntos y documentos que se remitan a la Legislatura, numerarlos para control y abrir los expedientes correspondientes;
+II. Tener a su cargo el archivo de los asuntos de carácter legislativo en trámite de la Legislatura que corresponda;
 
-V. Tener a su cargo al personal adscrito a la dependencia;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Llevar el registro de los asuntos que se remitan a las Comisiones para su trámite legislativo;
+III. Colaborar con los secretarios de los órganos de la Legislatura, en la elaboración de las actas, constancias y documentos que deban formar parte del archivo legislativo;
 
-VII. Rendir a la Legislatura informes trimestrales sobre los asuntos dictaminados y los que están en poder de las Comisiones, con especificación de las fechas en que se hayan turnado;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Recibir, organizar y canalizar los documentos que sean recibidos en Oficialía de Partes de la Legislatura, abriendo los expedientes que para trámite legislativo corresponda;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+V. Organizar al personal administrativo a su cargo, así como coordinarse con las demás dependencias de la Legislatura y externos, a efecto de que las sesiones de los órganos de la (sic) legislativos cuenten con el apoyo necesario para su desarrollo;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Llevar el registro de los asuntos que se remitan a los órganos de la Legislatura para su trámite legislativo;
+
+VII. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 VIII. Fungir como Secretario Técnico de la Junta de Coordinación Política, cuando se traten asuntos de trámite legislativo;
 
-IX. Editar y circular entre los diputados la Gaceta Legislativa;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Editar y circular entre los diputados la Gaceta Legislativa a través de medios electrónicos, en correo institucional;
 
 X. Notificar a las partes, por acuerdo de los Secretarios, en las actuaciones para substanciar los procedimientos de juicio político, declaración de procedencia, suspensión o declaración de desaparición de algún Ayuntamiento, revocación del mandato, suspensión o inhabilitación de alguno de sus miembros;
 
-XI. Ejercer o delegar, por acuerdo del Presidente de la de la Legislatura, la representación legal que le fue delegada;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Ejercer o delegar, por acuerdo de la Presidencia de la Legislatura, la representación legal que le fue delegada;
 
 XII. Fungir como asesor jurídico de la Mesa Directiva de la Legislatura;
 
@@ -1983,49 +2511,83 @@ XIII. Requerir a los diputados electos, con al menos un mes de anticipación a l
 
 XIV. Auxiliar a las comisiones, participar y colaborar en la elaboración de los proyectos de dictamen y demás asuntos de que conozcan. Para tal efecto podrá solicitar el apoyo de la Dirección de Investigación y Estadística Legislativa en el ámbito de sus facultades, así como de personal externo, cuando se requieran conocimientos técnicos específicos;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XV. Tener a su cargo, la Unidad de Transparencia, área encargada de proporcionar la información pública institucional en los términos de la Ley de la materia;
+XV. Colaborar en su caso con la Unidad de Transparencia, y con la Unidad de Atención Ciudadana;
 
-XVI. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XVII. Ejercer las facultades y cumplir las obligaciones que le señale esta ley, el Pleno de la Legislatura y las demás disposiciones aplicables.
+XVI. Representar a los órganos de la Legislatura en sesiones de organismos, comités, asambleas y demás que le instruya la Presidencia de la Legislatura, debiendo indicar el carácter con el que se asiste;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Elaborar y aprobar los manuales operativos de Servicios Parlamentarios y remitirlos a la Contraloría Interna para su conocimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Proponer el uso de tecnologías en el desarrollo de las sesiones de los órganos de la legislatura y ayuden a eficientar el trabajo legislativo; y
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Ejercer las facultades y cumplir las obligaciones que le señale esta ley, el Pleno de la Legislatura y demás disposiciones aplicables.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2018, PÁGINA 35276 Y 35277.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 179.
 
-(Gaceta Legislativa) La Gaceta Legislativa es la publicación para uso interno, que contiene la información sobre los asuntos y el trabajo legislativo a realizarse en las sesiones del Pleno y se integrará en lo general:
+(Gaceta Legislativa) La Gaceta Legislativa es la publicación para uso interno de diputados, que contiene la información sobre los asuntos y el trabajo legislativo a realizarse en las sesiones del Pleno y se integrará en lo general:
 
-I. El orden del día de las sesión (sic) del Pleno de la Legislatura;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II. Las actas del Pleno de la Legislatura;
+I. El orden del día que corresponda a la sesión de Pleno de la Legislatura;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+II. Las actas del Pleno de la Legislatura de la sesión anterior;
 
 III. En su caso, la relación de comunicaciones oficiales remitidas a la Legislatura;
 
-IV. La relación y el turno de las Iniciativas de leyes, decretos y acuerdos, propuestas y solicitudes;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-V. Dictámenes de leyes, decretos y acuerdos;
+IV. Los Dictámenes de leyes, decretos y acuerdos, que hayan sido ingresados por Oficialía de Partes por lo menos dos días antes de la Sesión que corresponda;
 
-VI. Informes de órganos y dependencias del Poder Legislativo; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Los demás que a juicio de la Presidencia, deba hacerse del conocimiento de los diputados.
+V. Los informes de órganos y dependencias del Poder Legislativo, en su caso; y
 
-Los documentos que aparezcan en la Gaceta serán meramente informativos. Las modificaciones hechas a los mismos con posterioridad a la edición de la Gaceta, serán responsabilidad de sus autores.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-Se incluirá la información recibida hasta el cierre de su edición, que se verificará cuarenta y ocho horas antes de la sesión del Pleno respectiva. Es responsabilidad de quienes requieran la publicación de documentos, hacerlos llegar con suficiente anticipación a la Oficialía de Partes del Poder Legislativo.
+VI. Los demás asuntos que a juicio de la Presidencia de la Legislatura, deban hacerse del conocimiento de los diputados.
 
-Se distribuirá a los diputados mediante correo electrónico, el día anterior a aquel en que se celebre la sesión, salvo casos excepcionales que acuerde el Presidente de la Legislatura.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Los documentos que aparezcan en la Gaceta Legislativa tendrán el carácter de informativos. Las modificaciones hechas a los mismos con posterioridad a la edición de la Gaceta, no constituyen responsabilidad para la Legislatura del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+La Gaceta Legislativa se remitirá a los diputados a un correo electrónico institucional, el día anterior a aquel en que se celebre la sesión, salvo casos excepcionales que acuerde la Presidencia de la Legislatura.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 #### Sección Quinta. Contraloría Interna
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 180.
 
-(Función y ubicación orgánica) La Contraloría Interna es la dependencia encargada de recibir quejas, denuncias e inconformidades de orden administrativo y substanciar los procedimientos de responsabilidad que en esa materia deban instaurarse en contra de los servidores públicos del Poder Legislativo, así como intervenir en los procedimientos de entrega y recepción administrativa, conforme a las leyes de la materia; recibir, para su conocimiento, los manuales operativos de las dependencias y, en su caso, auxiliarlas en la elaboración de los mismos. Orgánicamente se encuentra subordinada a la Comisión de Transparencia y rendición de cuentas.
+(Función y ubicación orgánica) La Contraloría Interna es la dependencia encargada de recibir quejas, denuncias e inconformidades de orden administrativo y substanciar los procedimientos de responsabilidad que en esa materia deban instaurarse en contra de los servidores públicos del Poder Legislativo, así como intervenir en los procedimientos de entrega y recepción administrativa, conforme a las leyes de la materia; manifestación patrimonial de servidores públicos del Poder Legislativo, y recibir para conocimiento los manuales operativos de las dependencias y en su caso, auxiliarlas en la elaboración de los mismos. Orgánicamente se encuentra subordinada a la Presidencia de la Mesa Directiva.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 181.
 
-(Requisitos) Para ser titular de la Contraloría Interna se requiere poseer título profesional de licenciatura en derecho, administración o contabilidad.
+(Requisitos) Para ser titular de la Contraloría Interna se requiere poseer título profesional de licenciatura en derecho, administración o contabilidad, y tener experiencia de por lo menos 3 años en el ejercicio de la profesión.
 
-#### Sección Sexta. Dirección de Investigación y Estadística Legislativa
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+#### Sección Sexta. Investigación y Estadística Legislativa
 
 ###### Artículo 182.
 
@@ -2089,21 +2651,27 @@ XIII. Ejercer las facultades y cumplir las obligaciones que le señale esta ley,
 
 (Propiedad del acervo de la biblioteca) El acervo informativo de la biblioteca es propiedad del Poder Legislativo del Estado de Querétaro y su enajenación está prohibida bajo cualquier título.
 
-#### Sección Séptima. Coordinación de Comunicación Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+#### Sección Séptima. Comunicación Social
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 186.
 
-(Función y ubicación orgánica) La Coordinación de Comunicación Social es la dependencia encargada de conducir la política de información institucional de la Legislatura y se encuentra orgánicamente subordinada a la Junta de Coordinación Política.
+(Función y ubicación orgánica) La Dirección de Comunicación Social es la dependencia encargada de conducir la política de información institucional de la Legislatura y se encuentra orgánicamente subordinada a la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 187.
 
-(Requisitos del titular) Para ser titular de la Coordinación de Comunicación Social, se requiere acreditar experiencia o conocimientos técnicos o profesionales, de al menos tres años, en: periodismo, ciencias de la comunicación o sus áreas afines.
+(Requisitos del titular) Para ser titular de la Dirección de Comunicación Social, se requiere tener título de licenciatura en ciencias de la comunicación, periodismo o licenciatura afín, así como tener experiencia mínima de 3 años en actividades afines.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 188.
 
-(Facultades y obligaciones de la Coordinación) Corresponde a la Coordinación de Comunicación Social:
+(Facultades y obligaciones de Comunicación Social) Corresponde a la Dirección de Comunicación Social:
 
 I. Conducir las relaciones informativas con los medios de comunicación, para difundir las actividades institucionales del Poder Legislativo, garantizando el suministro de información veraz, oportuna y completa, procurando la buena imagen institucional y conduciéndose bajo los principios de legalidad, pluralidad, objetividad e imparcialidad;
 
@@ -2121,9 +2689,9 @@ VI. Proponer y participar en la edición, impresión y distribución de folletos
 
 VII. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento;
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-VIII. Administrar y actualizar el sitio oficial de la Legislatura en internet; y
+VIII. Gestionar y mantener actualizado el portal institucional en internet de la Legislatura, en la parte que corresponde a (sic) información periodísticas del Poder Legislativo y sus integrantes;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
@@ -2131,9 +2699,7 @@ IX. Ejecutar las demás instrucciones que en materia de comunicación social rec
 
 ## Título Sexto. Suspensión o declaración de desaparición de Ayuntamientos, revocación de mandato, suspensión o inhabilitación de alguno de sus miembros
 
-### Capítulo Primero. Estructura y funcionamiento
-
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+### Capitulo Único. Del procedimiento
 
 ###### Artículo 189.
 
@@ -2237,15 +2803,21 @@ Ante el incumplimiento de la resolución, se incurrirá en responsabilidad y se 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 2016)</small>
 
-### Capítulo Segundo. Unidad de Transparencia
+### Capítulo Primero. Estructura y funcionamiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
 
 ###### Artículo 200.
 
 (Función general) El Comité de Transparencia del Poder Legislativo es el órgano encargado de vigilar, instruir y coordinar las acciones y procedimientos para la difusión proactiva y actualizada de la información de interés público.
 
-Orgánicamente se encuentra subordinado a la Mesa Directiva, a quien le rendirá un informe bimestral de sus actividades y tendrá como atribuciones las contenidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro y demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+El Comité rendirá un informe semestral por escrito de sus actividades al Pleno de la Legislatura, y tendrá como atribuciones las contenidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, la presente Ley y demás ordenamientos aplicables
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Asimismo corresponde vigilar el funcionamiento y actualización de la información que deba formar parte del Portal en internet de la Legislatura.
 
 > <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
 
@@ -2253,31 +2825,39 @@ Orgánicamente se encuentra subordinado a la Mesa Directiva, a quien le rendirá
 
 (Integración) El Comité de Transparencia estará integrado de la siguiente forma:
 
-I. Un Presidente, que será el titular de la Dirección de Asuntos Legislativos y Jurídicos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-II. Dos vocales, que serán los titulares de la Dirección de Servicios Administrativos y de la Dirección de Servicios Financieros; y
+I. Un Presidente, que será el Presidente de la Legislatura en funciones;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-III. Un Secretario Técnico, que será el titular de la Unidad de Transparencia.
+II. Un Secretario Técnico, que será el titular de la Secretaría de Servicios Parlamentarios;
 
-Sesionará mensualmente de forma ordinaria y de manera extraordinaria cuando así lo requiera por su naturaleza, previa convocatoria que emita el Secretario Técnico a petición del Presidente. Adoptarán sus resoluciones por mayoría de votos, teniendo el presidente el voto de calidad en caso de empate. El Secretario Técnico sólo tendrá derecho a voz.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-Semestralmente, el Comité presentará a la Mesa Directiva un informe del estado que guardan los trámites y acciones relacionadas con su funcionamiento, dando cuenta además a la Comisión de Transparencia y rendición de cuentas.
+III. Tres vocales, que serán los titulares de la Dirección de Servicios Administrativos, de la Dirección de Servicios Financieros y de la Contraloría Interna.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+El Comité de Transparencia sesionará de forma ordinaria por lo menos cada 4 meses y de manera extraordinaria cuando así lo requiera por su naturaleza, previa convocatoria que emita su presidente.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Tendrán derecho a voz y voto todos los integrantes del Comité, sus resoluciones se aprobarán por mayoría de votos, teniendo el presidente el voto de calidad en caso de empate.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+### Capítulo Segundo. Unidad de Transparencia y Unidad de Atención Ciudadana
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 202.
 
-(Función y atribuciones de la Unidad de Transparencia) Es la instancia administrativa responsable de hacer los requerimientos de la información solicitada a los órganos y dependencias del Poder Legislativo y las notificaciones necesarias a los peticionarios, verificando en cada caso que la información no sea de la considerada como reservada o confidencial.
+(Función y atribuciones de la Unidad de Transparencia y de la Unidad de Atención Ciudadana) La Unidad de Transparencia se encuentra subordinada a la Presidencia de la Mesa Directiva y tiene como atribuciones las conferidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, la presente Ley y demás normatividad que resulte aplicable.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+La Unidad de Transparencia proporcionará todo el apoyo e información para el desahogo y atención de los asuntos que sean competencia del Comité de Transparencia.
 
-La Unidad tiene como atribuciones las conferidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, la presente Ley y demás normatividad que resulte aplicable.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
-
-El titular de la Unidad de Transparencia fungirá como Secretario Técnico del Comité de Transparencia del Poder Legislativo y ejecutará las determinaciones que éste establezca.
+La Unidad de Atención Ciudadana estará jerárquicamente subordinada a la Mesa Directiva y le corresponde implementar y ejecutar acciones de atención a la ciudadanía relacionado con el Poder Legislativo.
 
 ## TRANSITORIOS
 
@@ -2520,3 +3100,27 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día de su apr
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Una vez aprobado el presente ordenamiento legal por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro, envíese al titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día 26 de septiembre de 2018.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. La entrada en vigor de la presente Ley, no afectará la conformación de los órganos del Poder Legislativo, los cuales se entenderán integrados en los mismos términos en que venían funcionando y hasta la conclusión de la LVIII Legislatura del Estado, aún en caso de las Comisiones que hayan cambiado de denominación.
+
+Artículo Cuarto. Para el ejercicio fiscal 2018, los órganos y dependencias del Poder Legislativo, continuarán funcionando con los mismos recursos asignados para el cumplimiento de sus facultades y obligaciones.
+
+Artículo Quinto. La duración de la Mesa Directiva que se encuentre en funciones al momento de que entré en vigor la presente Ley, se ajustará a lo dispuesto por el artículo 120 de este mismo ordenamiento, para que la Mesa Directiva que sea electa, inicie el periodo el veintiséis de septiembre del año en curso.
+
+Artículo Sexto. Para efectos de la integración y conformación de las comisiones de dictamen que establece el artículo 145 de la presente Ley, se estará a dicha conformación para el inicio de los trabajos de la Legislatura del Estado, es decir, a partir del 26 de septiembre de 2018.
+
+Hasta en tanto entra en vigor dicha disposición, la integración de las comisiones (competencia) se estará a las disposiciones de la presente Ley, en lo que no contravenga su funcionamiento.
+
+Artículo Séptimo. A partir de la vigencia de la presente Ley, las dependencias que cambien su denominación, conformación y atribuciones, deberán realizar los ajustes, avisos, notificaciones, cambios de nomenclatura y demás trámites administrativos que sean necesarios para el cumplimiento de sus funciones y obligaciones.
+
+Para tal efecto deberá considerarse en los procesos de entrega recepción tal situación y condiciones que requiera ser aclarada o manifiesta.
+
+Artículo Octavo. Los recursos humanos, materiales y financieros considerados para el ejercicio fiscal 2018 se seguirán ejerciendo según lo aprobado para tal efecto, la legislatura deberá considerar los ajustes necesarios para el correcto funcionamiento de sus órganos y dependencias en los ejercicios posteriores, de conformidad con las disposiciones legales aplicables.
