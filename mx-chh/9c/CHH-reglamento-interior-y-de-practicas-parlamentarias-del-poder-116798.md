@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2017-11-22"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO
+REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -1431,6 +1431,18 @@ c. Estados Financieros
 
 d. Declaraciones de Situación Patrimonial
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. En la Dirección de Archivos: Cuadro general de clasificación archivística.
+
+a) Catálogo de disposición documental.
+
+b) Inventarios documentales.
+
+c) Fichas técnicas de valoración documental.
+
+d) Guía simple de archivos.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 143.
@@ -1544,3 +1556,13 @@ P.O. 22 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los artículos 87, segundo párrafo, y 106, primer párrafo, ambos de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua; así como el numeral 49 del Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo, en lo relativo a emisión y citación de las convocatorias por medio electrónico o telemático de las reuniones de comisión, serán aplicables 60 días después de la entrada en vigor del presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+[TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0851/XVIII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESATADO DE CHIHUAHUA, DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y DE LA LEY ESTATAL DE BIBLIOTECAS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los recursos humanos, materiales, financieros, presupuestales y documentales, en cualquier soporte, del Archivo Histórico, adscrito a la Biblioteca Carlos Montemayor Aceves de la Secretaría de Asuntos Legislativos, antes de la entrada en vigor del presente Decreto, se transfieren de manera íntegra y en todos sus términos a la Dirección de Archivos, dependiente de la Secretaría de Administración del H. Congreso del Estado, para lo cual se suscribirán las actas de entrega-recepción pertinentes, durante el presente año 2018, con la intervención de las instancias y gestiones que resulten necesarias.
+
+TERCERO.- Para los efectos previstos en el artículo que antecede, la Secretaría de Administración del Poder Legislativo hará las gestiones a que hubiera lugar; así mismo, tomará las medidas organizativas y presupuestales necesarias, que garanticen la correcta ejecución y continuidad del Sistema Institucional de Archivos.
