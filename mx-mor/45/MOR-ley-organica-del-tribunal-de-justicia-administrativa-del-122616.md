@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-de-justicia-administrativa-del-122616
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-19"
-last_updated: "2018-08-31"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -308,6 +308,8 @@ Las sesiones del Pleno se desarrollarán conforme a las reglas establecidas en e
 Son atribuciones y competencias del Pleno:
 
 A) Atribuciones:
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 I. Aprobar el proyecto de presupuesto de egresos, que será remitido al Ejecutivo. En el proyecto que se remita, deberá considerarse el presupuesto de egresos que corresponda al Órgano Interno de Control del Tribunal;
 
@@ -929,11 +931,13 @@ El Boletín Electrónico se publicará diariamente en la página electrónica de
 
 ### Capítulo XII. Del Órgano Interno de Control
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 51.
 
-El Órgano Interno de Control, es una unidad administrativa dotada de autonomía técnica, financiera y de gestión, en el desempeño de sus funciones. Estará adscrito administrativamente al Pleno y mantendrá una comunicación constante y coordinada con la ESAF. Se encargará de la fiscalización de todos los ingresos y egresos del Tribunal, lo anterior, sin relevar la función que en la materia ejerce la Entidad Superior de Auditoría y Fiscalización del Congreso del estado de Morelos. Habrá de prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas, por el manejo y ejecución de los recursos del Tribunal, además de sancionar aquellas conductas u omisiones de los servidores públicos y del personal del Tribunal, que no sean competencia del Pleno.
+El Órgano Interno de Control, es una unidad administrativa dotada de autonomía técnica, financiera y de gestión, en el desempeño de sus funciones. Estará adscrito administrativamente al Pleno y mantendrá una comunicación constante y coordinada con la ESAF. Se encargará de revisar todos los ingresos, egresos, manejo, custodia y aplicación de los recursos públicos o privados que por cualquier medio le sean asignados al Tribunal, lo anterior, sin relevar la función que en la materia ejerce la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos. Habrá de prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas, por el manejo y ejecución de los recursos del Tribunal, además de sancionar aquellas conductas u omisiones de los servidores públicos y demás personal del Tribunal, que no sean competencia del Pleno.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 Estará facultado para presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
@@ -987,15 +991,31 @@ IX. Llevar el registro y seguimiento de la evolución de la situación patrimoni
 
 X. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Tribunal;
 
-XI. Proponer por conducto de su titular, su presupuesto de egresos ante el Ejecutivo del Estado para ser incluido dentro del presupuesto estatal, y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XII. Las demás que le atribuyan las disposiciones legales Federales, Estatales y reglamentarias aplicables.
+XI. Proponer por conducto de su titular, su presupuesto de egresos ante el Pleno del Tribunal, para que este lo incluya al presupuesto del Tribunal;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Emitir sus lineamientos, manuales, circulares, formatos y demás disposiciones normativas, que le sean necesarias para el debido ejercicio y cumplimiento de sus atribuciones encomendadas en esta ley, su reglamento, así como en la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Morelos y demás normativa aplicable. Así como crear las direccione (sic) y áreas administrativas necesarias para su buen funcionamiento, y;
+
+XIII. Las demás que le atribuyan las disposiciones legales Federales, Estatales y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 54.
 
-Para el ejercicio de las atribuciones que tiene conferidas el Órgano interno de control del Tribunal, contará con los servidores públicos y los recursos económicos que le permita su presupuesto, que le sea asignado por el Congreso del Estado y que se incluirá por separado dentro de la partida destinada en el presupuesto del Estado al Tribunal. La partida que se apruebe para tal fin, nunca podrá ser inferior a la aprobada en el presupuesto del ejercicio fiscal inmediato anterior.
+Para el ejercicio de las atribuciones que tiene conferidas el Órgano Interno de Control del Tribunal, contará cuando menos con las siguientes direcciones:
+
+I. Dirección Jurídica y de Responsabilidades Administrativas, y
+
+II. Dirección de Supervisión y Evaluación de la Gestión Financiera.
+
+Al frente de cada dirección habrá un titular, que será nombrado por el Titular del Órgano Interno de Control del Tribunal.
+
+Así como con el demás personal que le permita contratar su presupuesto.
+
+El Congreso del Estado deberá, dentro del Presupuesto de Egresos del Gobierno del Estado de Morelos que apruebe para cada ejercicio fiscal, desglosar en la asignación presupuestal del Tribunal, la partida que le corresponde al Órgano Interno de Control. La partida que se apruebe para tal fin, nunca podrá ser inferior a la aprobada en el presupuesto del ejercicio fiscal inmediato anterior.
 
 ### Capítulo XIII. De los Impedimentos y de las Excusas
 
@@ -1452,3 +1472,11 @@ OCTAVA. En tanto entra en funcionamiento la Plataforma Digital Nacional a que se
 NOVENA. De conformidad con lo dispuesto en el artículo 25, fracción XVIII, de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, que por virtud de este instrumento se reforma, los juicios sobre responsabilidad administrativa de Notarios, que se encuentren en trámite o en proceso ante las salas de instrucción del Tribunal de Justicia Administrativa, deberán ser transferidos con los expedientes respectivos, en un plazo no mayor a 5 días hábiles contados a partir de la entrada en vigor de este instrumento, a las Salas Especializadas de dicho Tribunal, a fin de que sean estas últimas quienes continúen con su desahogo hasta su conclusión, en términos de la normativa aplicable, sin que el cambio de autoridad jurisdiccional pueda modificar o alterar su curso o resultado.
 
 En caso de que la sala de instrucción de que se trate no realice el traslado respectivo en el plazo a que se refiere el párrafo anterior, cualquiera de las partes podrá solicitarle por escrito que se lleve a cabo dicha transferencia.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS TREINTA.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
