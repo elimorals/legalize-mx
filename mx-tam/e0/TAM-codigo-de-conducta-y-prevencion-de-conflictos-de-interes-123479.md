@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-123479
 country: "mx"
 rank: "codigo"
 publication_date: "2017-08-24"
-last_updated: "2017-08-24"
+last_updated: "2018-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Código publicado en el Anexo al Número 102 del Periódico Oficial del Estado de Tamaulipas, el jueves 24 de agosto de 2017.
 
@@ -170,3 +172,17 @@ Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el 
 Cd. Victoria Tam., a 07 de agosto de 2017,
 
 ATENTAMENTE.- LA DIRECTORA GENERAL DEL SISTEMA DIF TAMAULIPAS.- OMEHEIRA LÓPEZ REYNA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código de Conducta y Prevención de Conflictos de Interés del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, publicado en el Periódico Oficial del Estado Anexo al No. 102 de fecha 24 de agosto de 2017.
