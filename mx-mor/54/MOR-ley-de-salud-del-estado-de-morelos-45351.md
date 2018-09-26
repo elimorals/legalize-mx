@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2018-04-25"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -815,7 +815,33 @@ Los usuarios de los servicios de salud tendrán derecho a:
 
 9.- A que se le comunique todo lo necesario para que pueda dar su consentimiento informado, previo a la aplicación de cualquier procedimiento o tratamiento, así como negarse a éste; y
 
-10.-A que se le entregue un Resumen Clínico al finalizar su estancia en el establecimiento de salud y, si lo solicita, copia (sic) su Expediente Clínico.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+10.- El acceso a la información contenida en su expediente clínico, así como obtener una copia de este, previa solicitud por escrito, esta información deberá ser manejada con máxima discreción y confidencialidad por parte de los prestadores de servicios de salud.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+En todo momento el titular de los datos contenidos en el expediente clínico podrá oponerse y restringir en forma expresa el acceso a dicha información; siempre y cuando no contravenga una determinación judicial dictada por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+El derecho de acceso a la información del expediente clínico también podrá ejercerse por representante legal debidamente acreditado, por el tutor quien ejerza la patria potestad, quien acredite el parentesco en línea recta y el cónyuge o concubino del usuario de servicios de salud; en tratándose de menores de edad, se ponderará en todo momento el interés superior del menor.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Los prestadores de servicios de salud públicos o privados solo permitirán el acceso al expediente clínico de los pacientes fallecidos a las personas señaladas en el párrafo que antecede y a quien acredite tener un interés superior debidamente otorgada (sic) por una autoridad competente.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+El acceso al expediente clínico no podrá negarse a los sujetos legitimados para ejercer ese derecho, salvo que exista una restricción o impedimento planteado por alguna autoridad competente.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+El personal médico que acceda a los datos del expediente clínico en el ejercicio de sus funciones deberá resguardar dicha información y datos conforme a lo establecido en la Norma Oficial Mexicana, del expediente clínico y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Los prestadores de servicios de salud tomarán las medidas administrativas pertinentes para proteger los datos personales contenidos en el expediente clínico a efecto de prevenir el acceso, alteración, comunicación, difusión o cualquier otro manejo indebido o no autorizado respecto de la referida información.
 
 ###### Artículo 57.
 
@@ -4582,3 +4608,15 @@ P.O. 25 DE ABRIL DE 2018.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL TRESCIENTOS NOVENTA Y NUEVE POR EL CUAL SE REFORMA EL NUMERAL 10 Y SE ADICIONA UN SEGUNDO, TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFO A DICHO NUMERAL DEL ARTÍCULO 56 DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
