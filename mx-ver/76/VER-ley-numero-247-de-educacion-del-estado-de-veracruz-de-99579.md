@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2018-09-11"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -1685,9 +1685,9 @@ III. Planes y programas de estudio que las autoridades educativas estatales cons
 
 IV. El reglamento interno que norme las actividades académicas y administrativas, así como la relación de los alumnos con la institución a la que están adscritos, estableciendo un mecanismo de solución de controversias.
 
-> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, G.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-Los particulares deberán refrendar cada tres años las autorizaciones o los reconocimientos de validez oficial de estudios que les hayan sido otorgados, en términos de las disposiciones reglamentarias aplicables.
+Los particulares deberán refrendar cada cinco años las autorizaciones o los reconocimientos de validez oficial de estudios que les hayan sido otorgados, en términos de las disposiciones reglamentarias aplicables. Para el caso del requisito de uso de suelo sólo será exigible cuando los particulares hayan realizado remodelaciones, ampliaciones o modificaciones al inmueble; o cambio de domicilio.
 
 > <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2104,3 +2104,11 @@ G.O. 11 DE SEPTIEMBRE DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 657 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 164 DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El Ejecutivo del Estado contará con 180 días para adecuar la reglamentación aplicable para estar en condiciones de emitir la convocatoria respectiva.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
