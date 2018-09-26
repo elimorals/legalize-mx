@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-transportes-61269"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-23"
-last_updated: "2014-06-25"
+last_updated: "2018-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TRANSPORTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRANSPORTES, PUBLICADA EN EL P.O. DE 26 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRANSPORTES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 23 de abril de 2008.
 
@@ -927,7 +929,7 @@ XXIII. Las demás que en el ámbito de su competencia le confieran las disposici
 
 ## Título Cuarto. De las Suplencias de los Servidores Públicos
 
-### Capítulo Único. De las Ausencias y el Orden de Ias Suplencias
+### Capítulo Único. De las Ausencias y el Orden de las Suplencias
 
 ###### Artículo 46.
 
@@ -974,3 +976,21 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Dec
 Artículo Tercero.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
 
 Artículo Cuarto.- Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "PUB. NO. 2955-A-2018 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRANSPORTES".]
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría Transportes, publicado en el Periódico Oficial número 090, Tomo III, de fecha veintitrés de abril del año dos mil ocho, así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario de Transportes, resolverá lo conducente.
+
+Artículo Cuarto.- El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la entrada en vigor del presente Reglamento Interior.
+
+Artículo Quinto.- En tanto se expide el Manual de Organización respectivo, el Secretario de Transportes resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- La Secretaría de Transportes deberá, establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Ley de Protección Civil del Estado de Chiapas.
+
+Artículo Séptimo.- Publíquese el presente Reglamento Interior en cumplimiento de lo dispuesto por los artículos 1, 2 y 13 fracción V de la Ley Estatal del Periódico Oficial.
