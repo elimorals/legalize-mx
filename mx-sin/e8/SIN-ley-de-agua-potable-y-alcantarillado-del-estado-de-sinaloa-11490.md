@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-agua-potable-y-alcantarillado-del-estado-de-sinaloa-1149
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2017-12-22"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 20 de febrero de 1984.
 
@@ -97,11 +97,11 @@ El reglamento de la presente Ley detallará sus características, la connotació
 
 Los Ayuntamientos de la Entidad establecerán las políticas, lineamientos y especificaciones conforme a las cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación, conservación y mantenimiento de los sistemas de agua potable, alcantarillado y saneamiento de los centros poblados y asentamientos humanos correspondientes.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 6.
 
-Para consulta y asesoramiento, en materia de agua potable, alcantarillado y saneamiento, del Ejecutivo del Estado, de los Ayuntamientos (sic) y de las Juntas Municipales, en adelante Juntas, se establece la Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa, en adelante la Comisión, como un organismo público descentralizado de la administración estatal, con personalidad jurídica y patrimonio propios, la cual tendrá su domicilio social en la capital del Estado.
+Para consulta y asesoramiento, en materia de agua potable, alcantarillado y saneamiento, del Ejecutivo del Estado, de los Ayuntamiento (sic) y de las Juntas municipales, en adelante Juntas, se establece la Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa, en adelante la Comisión, como un organismo público descentralizado de la administración estatal, con personalidad jurídica, patrimonio propio, domicilio social en la capital del Estado y facultades de administración directa para la contratación y ejecución de obra pública en los términos y condiciones previstos en el artículo 92, último párrafo de la Ley de Obras Pública (sic) y Servicios Relacionados con las Mismas del Estado de Sinaloa, de acuerdo al proyecto ejecutivo propuesto por los ayuntamientos y las juntas municipales.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
@@ -153,9 +153,9 @@ II.- Coadyuvar con los Ayuntamientos y el Gobierno del Estado, ante los organism
 
 III.- Cooperar en la promoción de la acción coordinada de la Federación, el Estado y los Municipios en materia de obras de agua potable, alcantarillado y saneamiento;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-IV.- Proponer las bases y normas para la celebración de contratos de construcción y conservación de obras para los sistemas de agua potable, alcantarillado y saneamiento;
+IV. Proponer las bases y normas para la celebración de contratos de construcción y conservación de obras para los sistemas de agua potable, alcantarillado y saneamiento, y en su caso, llevar a cabo la ejecución de las mismas;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
@@ -1337,7 +1337,7 @@ SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el 
 
 P.O. 22 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 334 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE EXPIDEN LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA Y LA LEY ORGÁNICA DE LA PROCURADURÍA FISCAL, AMBAS DEL ESTADO DE SINALOA; Y SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, CÓDIGO FISCAL MUNICIPAL, LEY DE HACIENDA, LEY DE COORDINACIÓN FISCAL, LEY DE JUSTICIA ADMINISTRATIVA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, LEY DE TRÁNSITO Y TRANSPORTES, LEY DE PLANEACIÓN, LEY DE AGUA POTABLE Y ALCANTARILLADO, Y LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS, TODOS DEL ESTADO DE SINALOA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 334 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE EXPIDEN LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA Y LA LEY ORGÁNICA DE LA PROCURADURÍA FISCAL, AMBAS DEL ESTADO DE SINALOA; Y SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, CÓDIGO FISCAL MUNICIPAL, LEY DE HACIENDA, LEY DE COORDINACIÓN FISCAL, LEY DE JUSTICIA ADMINISTRATIVA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, LEY DE TRÁNSITO Y TRANSPORTES, LEY DE PLANEACIÓN, LEY DE AGUA POTABLE Y ALCANTARILLADO, Y LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS, TODOS DEL ESTADO DE SINALOA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1436,3 +1436,11 @@ El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaci
 ###### ARTÍCULO VIGÉSIMO.
 
 Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 855 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6 Y 10, FRACCIÓN IV DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. La obra pública programada y autorizada a la Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa para el ejercicio fiscal del año 2018 que no se hubiere licitado o adjudicado, podrá ser administrada en forma directa por la Comisión, lo que informará a la Secretaría de Administración y Finanzas para la asignación de los recursos correspondientes.
