@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-sistema-para-el-desarrollo-integral-895
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-01"
-last_updated: "2012-08-01"
+last_updated: "2018-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 1 de agosto de 2012.
 
@@ -918,3 +920,25 @@ Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 Dado en el Salón de Sesiones del DIF-Chiapas, en la ciudad de Tuxtla Gutiérrez, Chiapas; el 25 veinticinco de abril del año 2012 dos mil doce.
 
 Integrantes de la Junta de Gobierno: Presidente: Lic. Horacio Moreno Alcázar, Secretario de Desarrollo y Participación Social.- Secretario Técnico: C.P. Hilda Beatriz Velázquez Osorio, Jefa de la Unidad de Apoyo Administrativo del DIF-Chiapas.- Vocales: Dr. James Gómez Montes, Secretario de Salud. -Lic. Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- Lic. César Augusto Corzo Velasco, Secretario de la Función Pública.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN DE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 2956-A-2018 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se reforma (sic) el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, publicado en el Periódico Oficial del Estado, número 381, Tomo III, de fecha 01 de agosto de 2012, Publicación No. 3391-A-2012; así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Director General resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Director General resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización del DIF-Chiapas, deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación y procedimiento, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- El DIF-Chiapas deberá, establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Ley de Protección Civil del Estado de Chiapas.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 4, de la Ley de Procedimientos Administrativos para el Estado de Chiapas, y el artículo 24 de la Ley de Entidades Paraestatales del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial del Estado.
