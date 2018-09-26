@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2018-07-07"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -121,7 +121,9 @@ Los adultos mayores de sesenta años tendrán derecho a recibir servicios médic
 
 Las personas con discapacidad que pertenezcan a población abierta también gozarán del beneficio establecido en el párrafo anterior; en caso de contar con capacidad económica para cubrir la contraprestación, de acuerdo con el estudio respectivo, solamente pagarán el nivel mínimo del tabulador vigente de cuotas de recuperación.
 
-Los pensionados y jubilados, así como los adultos mayores de sesenta años en situación de vulnerabilidad, tendrán derecho a condiciones preferentes en el pago de los derechos estatales y municipales, en la forma y términos que determinen las leyes respectivas.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+Los pensionados y jubilados, así como los adultos mayores de sesenta años, personas con discapacidad en situación de vulnerabilidad, y las mujeres jefas de familia, tendrán derecho a condiciones preferentes en el pago de los derechos estatales y municipales, en la forma y términos que determinen las leyes respectivas.
 
 Las autoridades del Estado y de los municipios:
 
@@ -621,9 +623,15 @@ XI. Expedir leyes para regular las relaciones de trabajo entre el gobierno del E
 
 XII. Expedir la ley que instituya el Tribunal de Justicia Administrativa del Estado;
 
-XIII. Expedir la ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción, así como la ley que distribuya competencias para establecer las responsabilidades administrativas de los servidores públicos del Estado y los municipios, sus obligaciones, las sanciones aplicables por los actos u omisiones en que incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XIV. Expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, las enunciadas en los artículos siguientes, y todas las demás que le concedan la Constitución Federal y la Constitución del Estado.
+XIII. Expedir la ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción, así como la ley que distribuya competencias para establecer las responsabilidades administrativas de los servidores públicos del Estado y los municipios, sus obligaciones, las sanciones aplicables por los actos u omisiones en que incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Expedir la ley que establezca los principios, bases y reglas en materia de pensiones de los servidores públicos del Estado y los municipios, así como fijar la organización y funcionamiento del organismo público rector en la materia dotado de facultades exclusivas para el otorgamiento de las pensiones que correspondan; y
+
+XV. Expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, las enunciadas en los artículos siguientes, y todas las demás que le concedan la Constitución Federal y la Constitución del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -657,7 +665,7 @@ XII. Investir al Gobernador de facultades extraordinarias en los ramos de hacien
 
 XIII. Presentar bases, conforme a las cuales el Ejecutivo pueda celebrar empréstitos sobre el crédito del Estado, con la limitación que establece la fracción VIII del Artículo 117 de la Constitución Federal, y aprobar los contratos respectivos, así como reconocer y mandar pagar las deudas que contraiga el Estado;
 
-XIV. Conceder pensiones y jubilaciones de acuerdo con el Ejecutivo;
+XIV. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2018)
 
 XV. Otorgar distinciones u honores por servicios distinguidos prestados al Estado, bien se trate personalmente de los merecedores, de sus viudas, de sus hijos o de sus padres;
 
@@ -3374,6 +3382,14 @@ P.O. 7 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 503 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN VI DEL ARTÍCULO 39 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 600 POR EL QUE SE APRUEBA REFORMAR EL PÁRRAFO TERCERO DEL ARTÍCULO 4o; LA FRACCIÓN XIII, Y ADICIONAR UNA FRACCIÓN XIV, PASANDO LA ACTUAL FRACCIÓN XIV A SER XV, DEL ARTÍCULO 33; Y DEROGAR LA FRACCIÓN XIV DEL ARTÍCULO 34 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en el artículo transitorio siguiente.
+
+SEGUNDO. La reforma de las fracciones XIII, XIV y XV del artículo 33, y la derogación de la fracción XIV del artículo 34 entrarán en vigor en la misma fecha en que lo haga la Ley a que hace referencia la fracción XIV del artículo 33 del presente Decreto.
 
 ###### ARTÍCULO ÚNICO.
 
