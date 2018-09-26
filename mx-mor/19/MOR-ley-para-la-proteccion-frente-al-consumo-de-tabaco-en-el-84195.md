@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-proteccion-frente-al-consumo-de-tabaco-en-el-84195"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2016-05-04"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -215,9 +215,17 @@ X. En los cines, palenques, estadios, teatros, circos y auditorios;
 
 XI. En los vehículos de transporte público de pasajeros;
 
-XII. En los vehículos de transporte de escolares y transporte de personal oficial y empresarial; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XIII. En cualquier otro lugar, que en forma expresa determine la Secretaría de Salud, mediante la publicación que ordene respecto del mandato en el Periódico Oficial del Estado de Morelos.
+XII. En los vehículos de transporte de escolares y transporte de personal oficial y empresarial;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Dentro de cualquier tipo de vehículo automotor en compañía de menores de edad.
+
+Tratándose de vehículos de uso particular, únicamente les será aplicable lo dispuesto en la fracción I, del artículo 28 de la presente ley, así como lo establecido en el Reglamento para el caso específico, y
+
+XIV. En cualquier otro lugar, que en forma expresa determine la Secretaría de Salud, mediante la publicación que ordene respecto del mandato en el Periódico Oficial del Estado de Morelos.
 
 ###### Artículo 12.
 
@@ -522,3 +530,15 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 TERCERA.- El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será equivalente al que tenga el salario mínimo general vigente diario para todo el país, y hasta que se actualice dicho valor conforme a la legislación reglamentaria para determinar el valor de la Unidad de Medida y Actualización que emita el Congreso de la Unión.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL NOVECIENTOS SETENTA Y UNO.- POR EL CUAL SE REFORMA LA FRACCIÓN XII Y SE ADICIONA LA FRACCIÓN XIII, RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 11 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN DEL HUMO DEL TABACO DEL ESTADO DE MORELOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
