@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-bibliotecas-51741"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2016-10-03"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE BIBLIOTECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -189,7 +189,9 @@ XVI. Llevar a cabo y/o patrocinar investigaciones encaminadas a fomentar el uso 
 
 XVII. Promover, coordinar y vigilar la reparación del material bibliográfico dañado;
 
-XVIII. Promover la dotación a sus bibliotecas de los locales adecuados y equipo necesario, así como asegurar de modo integral y conservar en buen estado las instalaciones, el equipo, la actualización del acervo bibliográfico y el rescate de archivos históricos a través de los gobiernos estatal y municipal;
+> <small>(REFORMADA, P O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Promover la dotación a sus bibliotecas de los locales adecuados y equipo necesario, así como asegurar de modo integral y conservar en buen estado las instalaciones, el equipo y la actualización del acervo bibliográfico, con el apoyo de los gobiernos estatal y municipal.
 
 XIX. Operar el Programa Creación y Modernización de Bibliotecas Públicas Municipales;
 
@@ -384,3 +386,13 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/RFLEY/0851/2018 XIV P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y DE LA LEY ESTATAL DE BIBLIOTECAS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los recursos humanos, materiales, financieros, presupuestales y documentales, en cualquier soporte, del Archivo Histórico, adscrito a la Biblioteca Carlos Montemayor Aceves de la Secretaría de Asuntos Legislativos, antes de la entrada en vigor del presente Decreto, se transfieren de manera íntegra y en todos sus términos a la Dirección de Archivos, dependiente de la Secretaría de Administración del H. Congreso del Estado, para lo cual se suscribirán las actas de entrega-recepción pertinentes, durante el presente año 2018, con la intervención de las instancias y gestiones que resulten necesarias.
+
+TERCERO.- Para los efectos previstos en el artículo que antecede, la Secretaría de Administración del Poder Legislativo hará las gestiones a que hubiera lugar; así mismo, tomará las medidas organizativas y presupuestales necesarias, que garanticen la correcta ejecución y continuidad del Sistema Institucional de Archivos.
