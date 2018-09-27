@@ -4,7 +4,7 @@ identifier: "SON-ley-de-asistencia-social-8480"
 country: "mx"
 rank: "ley"
 publication_date: "1986-06-16"
-last_updated: "2018-07-31"
+last_updated: "2018-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 16 de junio de 1986.
 
@@ -51,13 +51,21 @@ II.- Garantizar la coordinación y concurrencia de la Federación, del Estado y 
 
 El Gobierno del Estado y los Gobiernos Municipales proporcionarán servicios de asistencia social, encaminados al desarrollo integral de la familia y al apoyo en la formación, subsistencia y desenvolvimiento, de individuos con carencias familiares esenciales no superables en forma autónoma por ellos.
 
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 3o.
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental, hasta lograr su incorporación a una vida plena y productiva.
+I.- Asistencia social: El conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental, hasta lograr su incorporación a una vida plena y productiva;
 
-II.- Familia, la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo.
+II.- Familia: La célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo;
+
+III.- Indigente: Cualquier persona que hace de la calle su lugar de habitación, ya sea de forma permanente o transitoria;
+
+IV.- Indigencia: Hace referencia a las sinergias relacionales entre los habitantes de la calle y la ciudadanía en general; incluye la lectura de factores causales tanto estructurales como individuales; y
+
+V.- Calle: Lugar público o privado, pero ajeno al indigente, que éste utiliza para realizar sus actividades cotidianas.
 
 > <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
 
@@ -202,6 +210,38 @@ VII.- La colaboración y auxilio a las autoridades laborales competentes, en la 
 VIII.- El fomento a las acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental; y
 
 IX.- Los análogos a los anteriores, que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 11 BIS.- La Secretaría de Desarrollo Social tendrá las siguientes atribuciones:
+
+I.- Implementar programas para la atención de toda aquella persona que viva en la indigencia, dando prioridad a las niñas, niños u adolescentes que se encuentran en situación de riesgo o afectados por vivir en la calle;
+
+II.- Realizar un diagnóstico, a fin de determinar la caracterización demográfica socioeconómica de los indigentes, a efecto de establecer una línea de base para construir los parámetros de intervención social en la formulación, implementación, seguimiento y evaluación del impacto de las acciones emprendidas tanto por el Estado como los Municipio (sic) para la atención de los indigentes; y
+
+III.- Coordinarse con las demás dependencias y entidades estatales y municipales para que, dentro del ámbito de sus atribuciones, coadyuven con la Federación en términos de la Ley de Asistencia Social de nivel federal y esta ley, en la atención a la problemática de indigencia en el Estado.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 11 BIS 1.- Las acciones que emprenda el Estado y los Municipios en materia de Atención a Indigentes, deberán contemplar las estrategias, mecanismos y acciones de corresponsabilidad entre la sociedad, la familia y gobierno para disminuir la tasa de habitabilidad en calle, debiendo priorizar lo siguiente:
+
+I.- Atención integral de la salud;
+
+II.- Desarrollo humano integral;
+
+III.- Movilización ciudadana y redes de apoyo social;
+
+IV.- Responsabilidad social empresarial;
+
+V.- Formación para el trabajo y la generación de ingresos;
+
+VI.- Convivencia ciudadana; y
+
+V.- Coordinación y colaboración entre el gobierno del Estado y de los municipios con la Federación.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 11 BIS 2.- Los programas que se implementen a nivel estatal y municipal en materia de atención a indigentes se deberán fundamentar en el respeto y la garantía de los derechos y libertades consagradas en la Constitución Política de los Estados Unidos Mexicanos y de manera especial, en los principios de Dignidad Humana, Autonomía personal y Participación Social.
 
 ### CAPITULO II. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE SONORA
 
@@ -774,3 +814,15 @@ B.O. 31 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 267, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE ASISTENCIA SOCIAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo y los Ayuntamientos del Estado, deberán realizar las adecuaciones a sus disposiciones reglamentarias de manera acorde al presente decreto, dentro del plazo de 90 días hábiles contado a partir de la entrada en vigor de este ordenamiento jurídico.
