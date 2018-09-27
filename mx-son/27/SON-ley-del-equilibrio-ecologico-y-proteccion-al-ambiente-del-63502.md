@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2018-07-12"
+last_updated: "2018-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -265,7 +267,9 @@ I.- La formulación, conducción y evaluación de la política ambiental estatal
 
 II.- La formulación y aplicación de los instrumentos de política ambiental previstos en esta ley, así como la preservación y restauración del equilibrio ecológico y la protección al ambiente en el territorio del Estado, en las materias que no están expresamente atribuidas a la Federación o a los municipios;
 
-III.- La prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionan como establecimientos industriales, así como por fuentes móviles que no sean de competencia federal o municipal;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+III.- La prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionan como establecimientos industriales, así como por fuentes móviles que no sean de competencia federal.
 
 IV.- La regulación de actividades que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto por la Ley General;
 
@@ -307,9 +311,17 @@ XXII.- El establecimiento, regulación, administración y vigilancia de parques 
 
 XXIII.- La presentación de las acciones procedentes ante las autoridades competentes de los hechos que puedan constituir ilícitos, materia de esta ley;
 
-XXIV.- La aplicación de las sanciones administrativas por violaciones a la presente ley y a las disposiciones que de ella se deriven; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-XXV.- Las demás que conforme a ésta y otras leyes le competan.
+XXIV.- Apoyar a los ayuntamientos que así lo soliciten, en el cumplimiento de las obligaciones que se derivan de la presente ley;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XXV.- La aplicación de las sanciones administrativas por violaciones a la presente ley y a las disposiciones que de ella se deriven; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XXVI.- Las demás que conforme a ésta y otras leyes le competan.
 
 ###### ARTÍCULO 8º.
 
@@ -321,9 +333,17 @@ I.- La formulación, conducción y evaluación de la política ambiental municip
 
 I BIS.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático;
 
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+I TER.- Recibir y atender denuncias por violaciones a la presente Ley.
+
+Cuando el Ayuntamiento reciba una denuncia que no sea de su competencia o cuando no cuente con los recursos necesarios para atenderla, la remitirá inmediatamente a la Procuraduría para que proceda en términos de la presente Ley.
+
 II.- La aplicación de los instrumentos de política ambiental previstos en esta ley y la preservación y restauración del equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente atribuidas a la Federación o al Estado;
 
-III.- La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como de emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean consideradas de jurisdicción federal o estatal, con la participación que de acuerdo con esta ley corresponda al Estado;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+III.- La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios;
 
 IV.- La aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por el manejo integral de residuos sólidos urbanos;
 
@@ -360,6 +380,10 @@ XIX.- La concertación con los sectores social y privado de la realización de a
 XX.- La aplicación de las sanciones administrativas por violaciones a la presente ley y a las disposiciones que de ellas se deriven;
 
 XXI.- La presentación de las acciones procedentes ante las autoridades competentes de los hechos que puedan constituir ilícitos, materia de esta ley;
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XXI BIS.- El ejercicio de las funciones que en materia de preservación del equilibrio ecológico y la protección al ambiente le transfiera el Estado de conformidad con lo dispuesto en la Ley General;
 
 XXII.- Regular el trato digno y respetuoso que deberá darse a los animales; y
 
@@ -759,11 +783,13 @@ Además del aviso a que se refiere el párrafo anterior, se deberá presentar, d
 
 Los ayuntamientos deberán otorgar las autorizaciones para el uso de suelo, de acuerdo con el ordenamiento aplicable al desarrollo urbano que se implemente en la localidad de que se trate.
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 30
 
-BIS.- Para efectos de lo dispuesto en el artículo 26 de esta Ley, cuando ya haya iniciado una obra o actividad de competencia estatal o municipal, el interesado podrá acudir ante la Comisión o los Ayuntamientos, en su caso, para someter al procedimiento de evaluación de impacto ambiental la parte de la obra o actividad aún no realizada, mediante la licencia ambiental integral.
+BIS.- Para efectos de lo dispuesto en el artículo 26 de esta Ley, cuando ya haya iniciado una obra o actividad de competencia estatal o municipal, el interesado podrá acudir ante la Comisión o los Ayuntamientos, en su caso, para someter al procedimiento de evaluación de impacto ambiental la parte de la obra aún no realizada y de la actividad el proceso no ejecutado, mediante la licencia ambiental integral.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
 
 La Comisión o los Ayuntamientos, notificarán a la Procuraduría a fin de que se determine, de ser el caso, las sanciones que procedan en los términos de esta Ley.
 
@@ -1367,15 +1393,23 @@ Cuando existan normas oficiales mexicanas, criterios ecológicos u otras disposi
 
 #### SECCIÓN I. PUBLICIDAD DE LA LICENCIA AMBIENTAL INTEGRAL Y CONSULTA PÚBLICA
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 85-A.
 
-Una vez que la Comisión y, en su caso, los ayuntamientos reciban una solicitud de Licencia Ambiental Integral pondrán a disposición del público en general, por medio de su tablón de aviso y por los medios electrónicos de los que dispongan, un resumen del proyecto, que contendrá: los datos del promoverte (sic); la denominación de la obra o actividad de que se trate; ubicación, identificación y descripción de los impactos y riesgos ambientales; y por último, las estrategias para la prevención y mitigación de impactos y riesgos ambientales.
+Una vez que la Comisión y, en su caso, los ayuntamientos reciban una solicitud de Licencia Ambiental Integral pondrán a disposición del público en general, por los medios electrónicos de los que dispongan, un resumen del proyecto, que contendrá: los datos del promoverte (sic); la denominación de la obra o actividad de que se trate; ubicación, identificación y descripción de los impactos y riesgos ambientales; y por último, las estrategias para la prevención y mitigación de impactos y riesgos ambientales.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
 
 La Comisión y los Ayuntamientos, al recibir una solicitud de Licencia Ambiental Integral integrarán el expediente respectivo en un plazo no mayor a diez días hábiles contados a partir del término concedido a los ayuntamientos en el último párrafo del artículo 82 de la presente ley.
 
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
 Los promoventes de la Licencia Ambiental Integral podrán requerir que se mantenga en reserva la información integrada al expediente, que de hacerse pública pudiera afectar derechos de propiedad industrial o la confidencialidad de la información comercial aportada, conforme a las formalidades establecidas en el reglamento de esta Ley en materia de Licencia
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Dicho requerimiento de reserva deberá ser presentado por los interesados, por escrito al momento de presentar la solicitud de la Licencia Ambiental, adjuntando anexos mediante los cuales sustenten y respalden su petición. La autoridad competente, deberá resolver en un plazo no mayor a 10 días hábiles.
 
 > <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
 
@@ -1493,17 +1527,13 @@ La Comisión y los ayuntamientos evaluarán los posibles efectos que las obras o
 
 ### CAPÍTULO III. DE LA RESOLUCIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 97.
 
 Una vez evaluada la solicitud de Licencia Ambiental Integral, la Comisión y en su caso los ayuntamientos, emitirán, debidamente fundada y motivada, la resolución correspondiente en la que podrán:
 
-> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
-
 I.- Otorgar la Licencia Ambiental Integral en los términos solicitados;
-
-> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
 
 II.- Otorgar la Licencia Ambiental Integral de manera condicionada a la modificación del proyecto o al establecimiento de medidas adicionales de prevención, mitigación y/o compensación. En este caso la Comisión y los ayuntamientos señalarán los requerimientos que deban observarse en la realización de la obra o actividad prevista; o
 
@@ -1519,15 +1549,9 @@ d) El uso de suelo y las actividades que se llevan a cabo en la zona donde se pr
 
 e) Se afecte el interés público o los derechos de terceros;
 
-> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
-
 f) La solicitud no se ajuste a los requerimientos previstos en esta ley y las demás disposiciones que se derivan de la misma; o
 
 g) Exista falsedad en la información proporcionada.
-
-> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
-
-La Comisión y los Ayuntamientos según corresponda, proporcionara un registro de las licencias emitidas e informaran cada seis meses a la Procuraduría, y esta a su vez, informará en ese periodo lo referente a las empresas o particulares sancionados, de modo tal que se generen las bases de datos que coadyuven a tener un mejor control en materia ambiental.
 
 > <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
 
@@ -1785,9 +1809,11 @@ Quedan prohibidas las quemas de cualquier tipo y de cualquier material en los ce
 
 Las emisiones de contaminantes de los vehículos automotores que circulen en el territorio del Estado no deberán rebasar los límites permisibles establecidos en las normas oficiales mexicanas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 118.
 
-Los propietarios o poseedores de vehículos automotores verificarán éstos con la periodicidad y en los centros de verificación vehicular que para el efecto autoricen la Comisión y los ayuntamientos, a efecto de controlar la generación de emisiones contaminantes.
+Los propietarios o poseedores de vehículos automotores verificarán éstos con la periodicidad y en los centros de verificación vehicular que para el efecto autorice la Comisión, a efecto de controlar la generación de emisiones contaminantes.
 
 Cuando como resultado de la verificación de emisiones contaminantes se detecte que éstas exceden los límites permisibles, el propietario o poseedor deberá efectuar las reparaciones necesarias al vehículo que las genere, en el plazo que para tal efecto establezcan las autoridades ambientales, a fin de que se cumpla con las normas oficiales mexicanas correspondientes.
 
@@ -1797,7 +1823,9 @@ Lo dispuesto en este artículo se aplicará en aquellos municipios cuyo parque v
 
 En aquellos municipios que cuente con un parque vehicular inferior al número antes citado podrán aplicar las disposiciones de este artículo.
 
-En todo caso para incentivar el cumplimiento de la presente disposición por parte de los ciudadanos, los ayuntamientos procurarán establecer sus programas de verificación vehicular de manera independiente a la verificación del cumplimiento de otras disposiciones de índole recaudatorio en el Municipio.
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+En todo caso para incentivar el cumplimiento de la presente disposición por parte de los ciudadanos, la Comisión procurará establecer sus programas de verificación vehicular de manera independiente a la verificación del cumplimiento de otras disposiciones de índole recaudatorio.
 
 ###### ARTÍCULO 119.
 
@@ -1805,27 +1833,57 @@ En relación con las emisiones de contaminantes de vehículos automotores, excep
 
 I.- A la Comisión:
 
-a) Prevenir y controlar la contaminación atmosférica generada por los vehículos automotores destinados al servicio público estatal de transporte;
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-b) Establecer y operar o, en su caso, autorizar el establecimiento y operación de centros de verificación para los vehículos automotores señalados en este inciso, con arreglo a las normas oficiales mexicanas, así como integrar un registro de los centros de verificación autorizados;
+a) Aplicar las disposiciones jurídicas en materia de prevención y control de las emisiones de contaminantes a la atmósfera provenientes de vehículos automotores que no sean considerados de jurisdicción federal, con la participación que de acuerdo con esta ley corresponda a los Municipios;
 
-c) Determinar, de acuerdo con lo dispuesto en las leyes aplicables, las tarifas para los servicios de verificación vehicular obligatoria a que se refiere esta sección;
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-d) Expedir en los centros que opere, constancias respecto de los vehículos que se hubieren sometido a la verificación obligatoria;
+b) Establecer y operar o, en su caso, autorizar el establecimiento y operación de centros de verificación para los vehículos automotores señalados en el inciso anterior, con arreglo a las normas oficiales mexicanas, así como integrar un registro de los centros de verificación autorizados;
 
-e) Supervisar la operación de los centros de verificación vehicular que autorice;
+> <small>(REFORMADO [N. DE E. ADICIONADA], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+c) Establecer programas de verificación vehicular obligatoria;
 
-f) Integrar y mantener actualizado un informe de los resultados obtenidos de la medición de las emisiones contaminantes en los centros de verificación que opere o autorice; y
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+d) Determinar, de acuerdo con lo dispuesto en las leyes aplicables, las tarifas para los servicios de verificación vehicular obligatoria a que se refiere esta sección;
 
-g) Las demás previstas en esta ley y en los reglamentos respectivos;
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-h) (DEROGADO, B.O. 7 DE NOVIEMBRE DE 2011)
+e) Expedir en los centros que opere, constancias respecto de los vehículos que se hubieren sometido a la verificación obligatoria;
 
-i) (DEROGADO, B.O. 7 DE NOVIEMBRE DE 2011)
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+f) Supervisar la operación de los centros de verificación vehicular que autorice;
+
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+g) Integrar y mantener actualizado un informe de los resultados obtenidos de la medición de las emisiones contaminantes en los centros de verificación que opere o autorice;
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+h) Supervisar la operación de los centros de verificación vehicular obligatoria que autoricen;
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+i) Integrar y mantener actualizado un informe de los resultados obtenidos de la medición de las emisiones contaminantes realizadas en los centros de verificación que operen o autoricen;
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+j) Limitar y, en su caso, suspender la circulación de vehículos a fin de reducir los niveles de concentración de contaminantes en la atmósfera cuando éstos excedan los límites máximos permisibles establecidos en las normas oficiales mexicanas aplicables, o cuando no se cuente con comprobante vigente que acredite haber realizado la verificación vehicular de forma satisfactoria; con la participación de la Procuraduría;
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+k) Retirar de la circulación a los vehículos automotores cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas oficiales mexicanas, o cuando no se cuente con comprobante vigente que acredite haber realizado la verificación vehicular de forma satisfactoria, y aquellos vehículos automotores que se encuentren sujetos a las medidas señaladas en la fracción anterior, con la participación de la Procuraduría;
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+l) Aplicar las medidas que establece esta ley y sus reglamentos para prevenir y controlar las contingencias ambientales y emergencias ecológicas, cuando se hayan producido los supuestos previstos en las normas oficiales mexicanas; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADA], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+m) Las demás que se prevean en esta ley y en los reglamentos respectivos.
 
 > <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -1837,35 +1895,39 @@ b) Imponer las sanciones administrativas que correspondan por el incumplimiento 
 
 II.- A los Ayuntamientos, dentro de sus circunscripciones territoriales:
 
-a) Aplicar las disposiciones jurídicas en materia de prevención y control de las emisiones de contaminantes a la atmósfera provenientes de vehículos automotores que no sean considerados de jurisdicción federal o estatal, con la participación que de acuerdo con esta ley corresponda al Estado;
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-b) Establecer programas de verificación vehicular obligatoria;
+a) Aplicar las disposiciones jurídicas en materia de prevención y control de las emisiones de contaminantes a la atmósfera provenientes de vehículos automotores que le sean transferidas por el Estado;
 
-c) Establecer y operar o, en su caso, autorizar el establecimiento y operación de centros de verificación para los vehículos automotores señalados en este inciso, con arreglo a las normas oficiales mexicanas, así como integrar un registro de dichos centros de verificación;
+b) (DEROGADO, B.O. 27 DE SEPTIEMBRE DE 2018)
 
-d) Determinar, en los términos de las disposiciones jurídicas aplicables, las tarifas para los servicios de verificación vehicular obligatoria en los centros que autoricen;
+c) (DEROGADO, B.O. 27 DE SEPTIEMBRE DE 2018)
 
-e) Expedir, en los centros que operen, constancias respecto de los vehículos que se hubieren sometido a la verificación vehicular;
+d) (DEROGADO, B.O. 27 DE SEPTIEMBRE DE 2018)
 
-f) Supervisar la operación de los centros de verificación vehicular obligatoria que autoricen;
+e) (DEROGADO, B.O. 27 DE SEPTIEMBRE DE 2018)
 
-g) Integrar y mantener actualizado un informe de los resultados obtenidos de la medición de las emisiones contaminantes realizadas en los centros de verificación que operen o autoricen;
+f) (DEROGADO, B.O. 27 DE SEPTIEMBRE DE 2018)
 
-h) Limitar y, en su caso, suspender la circulación de vehículos a fin de reducir los niveles de concentración de contaminantes en la atmósfera cuando éstos excedan los límites máximos permisibles establecidos en las normas oficiales mexicanas aplicables;
+g) (DEROGADO, B.O. 27 DE SEPTIEMBRE DE 2018)
 
-i) Retirar de la circulación a los vehículos automotores cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas oficiales mexicanas, o aquellos vehículos automotores que se encuentren sujetos a las medidas señaladas en la fracción anterior;
+h) (DEROGADO, B.O. 27 DE SEPTIEMBRE DE 2018)
 
-j) Aplicar las medidas que establece esta ley y sus reglamentos para prevenir y controlar las contingencias ambientales y emergencias ecológicas, cuando se hayan producido los supuestos previstos en las normas oficiales mexicanas;
+i) (DEROGADO, B.O. 27 DE SEPTIEMBRE DE 2018)
 
-k) Inspeccionar y vigilar la debida observancia de las disposiciones de esta Sección y de los reglamentos respectivos;
+j) (DEROGADO, B.O. 27 DE SEPTIEMBRE DE 2018)
 
-l) Imponer las sanciones administrativas que correspondan por el incumplimiento a las disposiciones señaladas en la fracción anterior; y
+k) (DEROGADO, B.O. 27 DE SEPTIEMBRE DE 2018)
+
+l) (DEROGADO, B.O. 27 DE SEPTIEMBRE DE 2018)
 
 m) Las demás que se prevean en esta ley y en los reglamentos respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 120.
 
-Lo previsto en los incisos h), i), j) y l) de la fracción II del artículo anterior no será aplicable a vehículos automotores destinados a:
+Lo previsto en los incisos j), k) y l) de la fracción I y el inciso a) de la fracción II del artículo anterior, no será aplicable a vehículos automotores destinados a:
 
 I.- Servicios médicos y bomberos;
 
@@ -1873,9 +1935,11 @@ II.- Seguridad pública y tránsito; y
 
 III.- Servicio de transporte de uso privado en los casos de emergencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 121.
 
-La Comisión y los ayuntamientos, en el ámbito de sus respectivas competencias, convocarán públicamente a los interesados en establecer y operar centros de verificación, para que presenten ante ellos las solicitudes para obtener la autorización para establecer y operar dichos centros.
+La Comisión convocará públicamente a los interesados en establecer y operar centros de verificación, para que presenten las solicitudes para obtener la autorización para establecer y operar dichos centros.
 
 En las convocatorias que se expidan se precisarán las instalaciones y el equipo necesarios para operar los centros de verificación conforme al programa de que se trate, así como el número y el área de ubicación de los centros a autorizar.
 
@@ -1893,9 +1957,11 @@ IV.- Las especificaciones de infraestructura y equipo para realizar la verificac
 
 V.- La descripción del procedimiento de verificación que sea congruente con los establecidos por las autoridades competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 123.
 
-La Comisión y los ayuntamientos tramitarán y resolverán la solicitud presentada en un plazo no mayor de veinte días hábiles posteriores a aquél en que la hubieren recibido, y de acuerdo con lo dispuesto en el reglamento respectivo de la presente ley.
+La Comisión tramitará y resolverá la solicitud presentada en un plazo no mayor de veinte días hábiles posteriores a aquél en que la hubiere recibido, y de acuerdo con lo dispuesto en el reglamento respectivo de la presente ley.
 
 En la autorización para operar un centro de verificación se establecerá el tiempo de su vigencia, misma que podrá ser prorrogada previa solicitud de los interesados siempre que la autoridad ambiental compruebe el correcto funcionamiento del centro que se trate.
 
@@ -1903,7 +1969,9 @@ En la autorización para operar un centro de verificación se establecerá el ti
 
 Las autorizaciones para el establecimiento y operación de centros de verificación vehicular se suspenderán cuando los prestadores del servicio dejen de contar con la capacidad o las condiciones técnicas necesarias para su adecuada prestación.
 
-La Comisión y los ayuntamientos establecerán un plazo para subsanar las deficiencias que motivaron la suspensión.
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+La Comisión establecerá un plazo para subsanar las deficiencias que motivaron la suspensión.
 
 ###### ARTÍCULO 125.
 
@@ -2049,9 +2117,19 @@ VI.- En las zonas de pendientes pronunciadas en las que se presenten fenómenos 
 
 VII.- La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro severo de los suelos deben incluir acciones equivalentes de regeneración;
 
-VIII.- La utilización de plaguicidas, fertilizantes y sustancias tóxicas debe ser compatible con el equilibrio de los ecosistemas y considerar sus efectos sobre la salud humana, a fin de prevenir los daños que pudieran ocasionar; y
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+VIII.- La utilización de plaguicidas, fertilizantes y sustancias tóxicas debe ser compatible con el equilibrio de los ecosistemas y considerar sus efectos sobre la salud humana, a fin de prevenir los daños que pudieran ocasionar;
 
 IX.- En los suelos contaminados por la presencia de materiales o residuos deberán realizarse las acciones para recuperar o restablecer sus condiciones, de tal manera que puedan ser utilizados en las actividades previstas por los programas de ordenamiento territorial y de desarrollo urbano o de ordenamiento ecológico que resulten aplicables.
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+X.- Sensibilizar a través de campañas y programas estatales a la población en general y principalmente a industrias, comercios y establecimientos de servicios para que tomen medidas encaminadas a la no utilización de productos plásticos; y
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XI.- Exigir que los establecimientos de alimentos y bebidas, tanto fijos como ambulantes, de todo el Estado no promuevan el consumo, ni utilicen popotes de plástico.
 
 ###### ARTÍCULO 137.
 
@@ -2515,9 +2593,9 @@ V.- La infraestructura para la dotación de servicios básicos, así como la exi
 
 Quedan prohibidas las emisiones de ruido, vibraciones, olores, radiaciones electromagnéticas, energía térmica y lumínica y la generación de contaminación visual, en cuanto rebasen los límites máximos permisibles establecidos en las normas oficiales mexicanas que expida la Secretaría de Medio Ambiente y Recursos Naturales y los criterios ecológicos aplicables.
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-ARTÍCULO 171 BIS.- Los responsables de los establecimientos que generen emisiones de ruido, deberán medirlas conforme a la Norma Oficial Mexicana correspondiente, con la periodicidad que determinen la Comisión y los Ayuntamientos.
+ARTÍCULO 171 BIS.- Los responsables de los establecimientos que generen emisiones de ruido, deberán medirlas conforme a los criterios técnicos y la periodicidad establecida en la Norma Oficial Mexicana correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2707,11 +2785,11 @@ Las personas a quienes la Comisión entregue información ambiental del Sistema 
 
 ### CAPÍTULO III. DEL FONDO AMBIENTAL ESTATAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 190.
 
-El Estado creará el Fondo Ambiental Estatal, cuyos recursos se destinarán a:
+La Comisión creará el Fondo Ambiental Estatal a través de un Fideicomiso, cuyos recursos se destinarán a:
 
 > <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2723,7 +2801,17 @@ III.- El desarrollo de programas de planeación ecológica, educación e investi
 
 IV.- La promoción de la educación, investigación y cultura ambiental en el Estado; y
 
-V.- Las demás que señalen las disposiciones ambientales.
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+V.- El desarrollo e implementación de acciones, proyectos y política de mitigación y adaptación al cambio climático; y
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+VI.- Las demás que señalen las disposiciones ambientales.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 190 BIS.- El Fondo Ambiental Estatal contará con un órgano de gobierno mixto integrado por la Administración Pública Estatal, representantes provenientes de los sectores académico, empresarial, grupos vulnerables y sociedad civil organizada, que deberán comprobar que su objeto y experiencia se relaciona con la protección al medio ambiente y el cambio climático.
 
 ###### ARTÍCULO 191.
 
@@ -2743,9 +2831,9 @@ IV.- Los ingresos que se perciban por concepto del pago de derechos por el otorg
 
 V.- Las herencias, legados y donaciones que reciba de personas físicas o morales nacionales e internacionales;
 
-> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-VI.- Los recursos resultantes de los instrumentos económicos que se creen en el marco de la Ley de Cambio Climático del Estado de Sonora; y
+VI.- Los recursos resultantes de los instrumentos económicos que se creen en el marco de la Ley de Cambio Climático del Estado de Sonora y la Ley de Fomento de Energías Renovables y Eficiencia Energética en el Estado de Sonora;
 
 VII.- Los demás recursos que obtenga por cualquier otro título o concepto.
 
@@ -2767,9 +2855,9 @@ El Ejecutivo del Estado, la Comisión, la Procuraduría y los ayuntamientos expe
 
 La presente ley constituye la base normativa para la expedición por parte de los ayuntamientos, de las disposiciones jurídicas señaladas en este artículo, las cuales serán de observancia general dentro de sus respectivas jurisdicciones, previa su publicación en el Boletín Oficial del Gobierno del Estado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-## TÍTULO OCTAVO. DEL PROCEDIMIENTO DE INSPECCIÓN Y VIGILANCIA, DE LAS MEDIDAS DE CONTROL Y DE SEGURIDAD Y DE LAS SANCIONES
+## TÍTULO OCTAVO. DE LA NOTIFICACIÓN, DEL PROCEDIMIENTO DE INSPECCIÓN Y VIGILANCIA, DE LAS MEDIDAS DE CONTROL Y DE SEGURIDAD Y DE LAS SANCIONES
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -2781,11 +2869,13 @@ Las disposiciones de este Título se aplicarán en los actos de inspección y vi
 
 En todo lo no previsto en este ordenamiento se aplicará supletoriamente, en este orden, la Ley de Procedimiento Administrativo del Estado de Sonora, la Ley de Justicia Administrativa del Estado de Sonora y, en lo que éstas no prevean, el Código de Procedimientos Civiles para el Estado de Sonora.
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 194-A.
 
-Las promociones ante la Procuraduría y los ayuntamientos deberán hacerse por escrito, en las que se precisará el nombre; la denominación o razón social de quien o quienes promuevan o, en su caso, de su representante legal; domicilio para oír y recibir notificaciones e inclusive las personales, dentro de la ciudad donde se encuentren las oficinas de la autoridad competente, así como el nombre de la persona o personas autorizadas para recibirlas; la petición que se formula; los hechos o razones que dan motivo a la petición; el órgano administrativo a que se dirigen, y lugar y fecha de su emisión. El escrito deberá estar firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual se imprimirá su huella digital.
+Las promociones deberán hacerse por escrito, en las que se precisará el nombre; la denominación o razón social de quien o quienes promuevan o, en su caso, de su representante legal; domicilio para oír y recibir notificaciones e inclusive las personales, dentro de la ciudad donde se encuentren las oficinas de la autoridad competente, así como el nombre de la persona o personas autorizadas para recibirlas; la petición que se formula; los hechos o razones que dan motivo a la petición; el órgano administrativo a que se dirigen, y lugar y fecha de su emisión. El escrito deberá estar firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual se imprimirá su huella digital.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
 
 El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos por esta ley y los ordenamientos que de ella se deriven.
 
@@ -2795,7 +2885,9 @@ El promovente deberá adjuntar a su escrito los documentos que acrediten su pers
 
 Los promoventes con capacidad de ejercicio podrán actuar por sí, o por medio de un representante o apoderado legal.
 
-La representación de las personas físicas o morales, públicas o privadas, ante la Procuraduría y los gobiernos municipales para formular solicitudes, participar en el procedimiento administrativo, interponer recursos y desistirse y renunciar a derechos deberá acreditarse mediante instrumento público. Tratándose de personas físicas su representación podrá acreditarse con instrumento público o mediante carta poder firmada ante dos testigos y ratificadas sus firmas y la del otorgante ante las propias autoridades o ante fedatario público, o bien por declaración en comparecencia personal del interesado.
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+La representación de las personas físicas o morales, públicas o privadas, ante la autoridad administrativa para formular solicitudes, participar en el procedimiento administrativo, interponer recursos y desistirse y renunciar a derechos deberá acreditarse mediante instrumento público. Tratándose de personas físicas su representación podrá acreditarse con instrumento público o mediante carta poder firmada ante dos testigos y ratificadas sus firmas y la del otorgante ante las propias autoridades o ante fedatario público, o bien por declaración en comparecencia personal del interesado.
 
 Sin perjuicio de lo anterior, el interesado o su representante legal, mediante escrito firmado, podrá autorizar a la persona o personas que estime pertinentes para oír y recibir notificaciones, realizar trámites, gestiones y comparecencias que fuesen necesarias para la tramitación del procedimiento, incluyendo la interposición del recurso de revisión.
 
@@ -2817,13 +2909,13 @@ La autoridad podrá, de oficio o a petición de parte interesada, habilitar día
 
 En los plazos establecidos por periodos se computarán todos los días; cuando se fijen por mes o por año se entenderá que el plazo concluye el mismo número de día del mes o año de calendario que corresponda, respectivamente; cuando no exista el mismo número de día en el mes de calendario, el término será el primer día hábil del siguiente mes de calendario.
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 194-E.
 
 Las notificaciones de los actos administrativos dictados con motivo de la aplicación de esta Ley, se realizarán:
 
-I.- Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos y resoluciones administrativas definitivas, sin perjuicio de que la notificación de estos actos pueda efectuarse en las oficinas de las unidades administrativas competentes de la Procuraduría y los ayuntamientos, si las personas a quienes deba notificarse se presentan en las mismas.
+I.- Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos y resoluciones administrativas definitivas, sin perjuicio de que la notificación de estos actos pueda efectuarse en las oficinas de las unidades administrativas competentes de las autoridades administrativas competentes, si las personas a quienes deba notificarse se presentan en las mismas.
 
 En este último caso se asentará la razón correspondiente;
 
@@ -2831,11 +2923,11 @@ II.- Por estrados, colocados en un lugar visible de las unidades administrativas
 
 III.- Por edicto publicado en el medio impreso de mayor circulación en el Estado y en el Boletín Oficial del Gobierno del Estado, cuando se desconozca el domicilio del interesado o en su caso, la persona a quien deba notificarse se encuentre desaparecida, o no se le haya localizado en el domicilio oficial o en el señalado para oír y recibir toda clase de notificaciones, hasta en dos ocasiones, o se encuentre en el extranjero, sin haber dejado representante legal autorizado para tales efectos;
 
-IV.- Por instructivo, solamente en el caso señalado en el 194-F de la presente ley.
+IV.- Por instructivo, solamente en el caso señalado en el artículo 194-F de la presente Ley.
 
-Los actos distintos a los señalados en la fracción I de este artículo podrán notificarse por escrito, vía correo ordinario, mensajería, telegrama o telefax, medios de comunicación electrónica o similares, previa solicitud por escrito del interesado, o en las oficinas de las unidades administrativas de la Procuraduría y los ayuntamientos, si se presentan ante ellas las personas facultadas para ello, dentro del término de cinco días hábiles siguientes contados a partir del día en que se dicten los actos que han de notificarse, término que se deberá señalar al momento de presentar la solicitud. Lo anterior, sin perjuicio de que la autoridad ordenadora lo haga por estrados que deberán ubicarse, por parte de la Procuraduría o los ayuntamientos, en lugar visible de sus oficinas administrativas, dentro del término de diez días hábiles contados a partir del día en que se dicten los actos que han de notificarse.
+Los actos distintos a los señalados en la fracción I de este artículo podrán notificarse por escrito, vía correo ordinario, mensajería, telegrama o telefax, medios de comunicación electrónica o similares, previa solicitud por escrito del interesado, o en las oficinas de las unidades administrativas de las autoridades administrativas competentes si se presentan ante ellas las personas facultadas para ello, dentro del término de cinco días hábiles siguientes contados a partir del día en que se dicten los actos que han de notificarse, término que se deberá señalar al momento de presentar la solicitud. Lo anterior, sin perjuicio de que la autoridad ordenadora lo haga por estrados que deberán ubicarse, por parte de la Procuraduría o los ayuntamientos, en lugar visible de sus oficinas administrativas, dentro del término de diez días hábiles contados a partir del día en que se dicten los actos que han de notificarse.
 
-Si los interesados, sus representantes legales o las personas autorizadas por ellos, no ocurren a las oficinas de las unidades administrativas de la Procuraduría y los ayuntamientos a notificarse dentro del término señalado en el párrafo anterior, las notificaciones se darán por hechas y surtirán sus efectos el día hábil siguiente al de la fijación en estrados.
+Si los interesados, sus representantes legales o las personas autorizadas por ellos, no ocurren a las oficinas de las unidades administrativas de las autoridades administrativas competentes, a notificarse dentro del término señalado en el párrafo anterior, las notificaciones se darán por hechas y surtirán sus efectos el día hábil siguiente al de la fijación en estrados.
 
 De toda notificación por estrados se agregará al expediente un tanto igual de aquel, asentándose la razón correspondiente.
 
@@ -2849,15 +2941,19 @@ Las notificaciones personales se entenderán con la persona que deba ser notific
 
 Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona con capacidad de ejercicio que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en su caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio, o con el vecino más cercano, lo que se hará constar en el acta de notificación, sin que ello afecte su validez.
 
-La notificación personal también se podrá realizar al interesado cuando acuda a la oficina administrativa competente de la Procuraduría o de los ayuntamientos, según corresponda.
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-De las diligencias en que conste la notificación, el notificador tomará razón por escrito debiendo permanecer éste publicado por lo menos cinco días en la página electrónica de la Procuraduría o del Ayuntamiento respectivo.
+La notificación personal también se podrá realizar al interesado cuando acuda a la oficina administrativa competente de las autoridades administrativas competentes, según corresponda.
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+De las diligencias en que conste la notificación, el notificador tomará razón por escrito debiendo permanecer éste publicado por lo menos cinco días en la página electrónica de las autoridades administrativas competentes respectivo (sic).
+
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 194-G.
 
-Las notificaciones por estrados se publicarán, además de lo establecido por la fracción II del artículo 194-E, en la página electrónica de la Procuraduría o de los ayuntamientos, según corresponda.
+Las notificaciones por estrados se publicarán, además de lo establecido por la fracción II del artículo 194-E, en la página electrónica de las autoridades administrativas competentes, según corresponda.
 
 > <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
 
@@ -3062,6 +3158,10 @@ En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del
 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada durante el procedimiento seguido en su contra.
 
 Cuando la gravedad de la infracción lo amerite, la Procuraduría o los ayuntamientos, en su caso, solicitarán a la autoridad que los hubiere otorgado, la suspensión, revocación o cancelación del permiso, licencia, registro y en general de toda autorización emitida para la realización de actividades comerciales, industriales o de servicios, o para el aprovechamiento de recursos naturales cuya operación o aprovechamiento haya dado lugar a la infracción.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Aquellos establecimientos de consumo de alimentos y bebidas, tanto fijos como ambulantes, que promuevan el uso de popotes de plástico, serán sancionados con lo dispuesto en la fracción II de este artículo.
 
 ###### ARTÍCULO 197.
 
@@ -3462,3 +3562,19 @@ Los procedimientos administrativos derivados de la inspección y vigilancia, as�
 El Ejecutivo Estatal deberá expedir en un plazo no mayor a un año contado a partir de la entrada en vigor de este Decreto, los Reglamentos y demás disposiciones de observancia general a que hace referencia esta ley que se encuentren pendientes de emitir.
 
 El Reglamento del Fondo Ambiental Estatal y el Reglamento de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Sonora en materia de Licencia Ambiental Integral se consideran prioritarios, por lo que deberán emitirse dentro de los noventa días hábiles contados a partir de la publicación del presente Decreto en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 268, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor a los 45 días naturales, posteriores al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 260, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE (SIC) EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
