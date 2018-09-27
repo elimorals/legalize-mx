@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2018-09-10"
+last_updated: "2018-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3705,13 +3705,15 @@ Al que encuentre abandonada o perdida en cualquier sitio a una persona incapaz d
 
 Al conductor de un vehículo cualquiera o jinete que, culposa o fortuitamente, atropelle a una persona y se retire del lugar, sin prestar o facilitar la asistencia que estuviere a su alcance proporcionar, será sancionado con prisión de un mes a dos años o multa de cuarenta a trescientas Unidades de Medida y Actualización, independientemente de las sanciones que resultaren por el delito cometido, en su caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ARTICULO 274 BIS.- Al conductor de un vehículo cualquiera que, culposa o fortuitamente, se vea involucrado en un accidente de tránsito, donde exista la posibilidad de lesionados, se retire del lugar, sin prestar o facilitar la asistencia que estuviere a su alcance proporcionar, y no intercambien datos de contactos reales, será sancionado con prisión de un mes a un año y multa de cuarenta a trescientas Unidades de Medida y Actualización, independientemente de las sanciones que resultaren por el delito cometido, en su caso.
 
-> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2015)</small>
+Adicionalmente a lo establecido por el artículo 243 de este Código, cuando concurran las circunstancias señaladas en el párrafo anterior, las víctimas resultaren lesionadas, si estas tardan menos de quince días en sanar, la sanción será de tres meses a tres años de prisión y multa de ochenta a cuatrocientas Unidades de Medida y Actualización; si las lesiones de las víctimas se consideran mayores de quince días en sanar, la sanción será de seis meses a cinco años de prisión y multa de doscientas a quinientas Unidades de Medida y Actualización.
 
-Se exceptúa de la pena mencionada en el párrafo anterior cuando el conductor se retire del lugar en busca de auxilio y regrese a ponerse a disposición de los involucrados o las autoridades dentro de las siguientes 3 horas del incidente, o reporte el accidente de tránsito dejando sus datos de contacto de manera inmediata al evento de tránsito.
+Sin menoscabo de lo que marca el artículo 65 de este ordenamiento, cuando concurran las circunstancias señaladas en el primer párrafo de este artículo, si las víctimas fallecieran producto de las lesiones provocadas por el accidente de tránsito, la pena se incrementará de dos a diez años de prisión y multa (sic) doscientas a quinientas Unidades de Medida y Actualización.
+
+Se exceptúa de las penas mencionadas en los párrafos anteriores cuando el conductor se retire del lugar en busca de auxilio y regrese a ponerse a disposición de los involucrados o las autoridades dentro de las siguientes tres horas del incidente, o, si no existieren lesionados, reporte el accidente de tránsito dejando sus datos de contacto de manera inmediata al evento de tránsito.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -4153,17 +4155,21 @@ XII.- Respecto de bienes que integren la infraestructura destinada a la prestaci
 
 XIII.- Respecto de accesorios automotrices o artículos que se encuentren al interior de un vehículo;
 
-> <small>(ADICIONADA, B.O. 25 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-XIV.- En contra de personas discapacitadas o mayores de sesenta años de edad; y
+XIV.- En contra de personas discapacitadas o mayores de sesenta años de edad;
 
-> <small>(ADICIONADA, B.O. 25 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-XV.- Por quienes hayan sido o sean miembros de algún cuerpo de seguridad pública o personal operativo de empresas que presten servicios de seguridad privada, aunque no se encuentren en servicio.
+XV.- Por quienes hayan sido o sean miembros de algún cuerpo de seguridad pública o personal operativo de empresas que presten servicios de seguridad privada, aunque no se encuentren en servicio; y
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-En el supuesto de la fracción I, cuando se haya utilizado violencia en las cosas sin que el agente haya portado arma de fuego o explosivo, así como en los supuestos de las fracciones V y VI, y tratándose de frutos, productos o alimento que se encuentren en el asiento de producción o en los lugares o recipientes precisados en la fracción IX, se impondrá la sanción establecida en el artículo 305, y podrá extinguirse la acción penal mediante la manifestación expresa por parte de la víctima u ofendido de su desinterés jurídico en relación con la investigación o la prosecución de la causa, siempre y cuando el monto del objeto materia del apoderamiento no exceda de doscientas Unidades de Medida y Actualización, al momento de cometerse el delito.
+XVI.- El objeto de robo recaiga sobre cultivos de camarón o cualquier otra especie similar en instalaciones acuícolas de particulares, ya sea productos por cosechar o cosechado.
+
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+En el supuesto de la fracción I, cuando se haya utilizado violencia en las cosas sin que el agente haya portado arma de fuego o explosivo, así como en los supuestos de las fracciones V y VI, y tratándose de frutos, productos o alimento que se encuentren en el asiento de producción o en los lugares o recipientes precisados en la fracción IX, así como también el robo de camarón precisado en la fracción XVI, se impondrá la sanción establecida en el artículo 305, y podrá extinguirse la acción penal mediante la manifestación por parte de la víctima u ofendido de su desinterés jurídico en relación con la investigación o la prosecución de la causa, siempre y cuando el monto del objeto materia del apoderamiento no exceda de doscientas Unidades de Medida y Actualización, al momento de cometerse el delito.
 
 > <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -5184,3 +5190,19 @@ B.O. 10 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 253, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 308 DEL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 256, QUE REFORMA EL ARTÍCULO 274 BIS DEL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
