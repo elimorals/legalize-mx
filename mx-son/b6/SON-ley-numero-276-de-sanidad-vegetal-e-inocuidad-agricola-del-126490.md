@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-276-de-sanidad-vegetal-e-inocuidad-agricola-del-1264
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-29"
-last_updated: "2018-01-29"
+last_updated: "2018-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 276 DE SANIDAD VEGETAL E INOCUIDAD AGRÍCOLA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 29 de enero de 2018.
 
@@ -47,11 +47,13 @@ LEY DE SANIDAD VEGETAL E INOCUIDAD AGRÍCOLA DEL ESTADO DE SONORA
 
 Las disposiciones contenidas en la presente ley son de orden público e interés social y tienen por objeto establecer las medidas para la prevención, control, supresión y erradicación de plagas que representen un riesgo fitosanitario para el Estado de Sonora, a efecto de fomentar el desarrollo sustentable de las actividades agrícolas en la entidad y mejorar las condiciones de productividad, rentabilidad y competitividad del sector; promover la aplicación de sistemas de reducción de riesgos de contaminación en los procesos de producción primaria de vegetales, productos o subproductos agrícolas; y, sustentar la certificación de origen para el otorgamiento de la "Marca Calidad Sonora" para vegetales, productos o subproductos agrícolas, que permita su identificación en los mercados local, nacional e internacional, avalando su excelencia de origen, calidad, sanidad e inocuidad.
 
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 2.
 
-Las medidas fitosanitarias que establezca la Secretaría, serán las necesarias para asegurar la protección del estado fitosanitario de plagas en la entidad, para lo cual se basará en el análisis de riesgo de plagas, los resultados de los centros de investigación, así como las sugerencias del Consejo Estatal de Grupos Técnicos Fitosanitarios y de los Grupos Técnicos Fitosanitarios.
+Las medidas fitosanitarias que establezca la Secretaría, serán las necesarias para asegurar la protección del estatus fitosanitario de plagas en la entidad, para lo cual se basará en el análisis de riesgo de plagas, los resultados de los centros de investigación, así como las sugerencias del Consejo Estatal de Grupos Técnicos Fitosanitarios y de los Grupos Técnicos Fitosanitarios.
 
-La Secretaría podrá apoyarse en organismos de certificación, unidades de verificación u otros especialistas en materia de inocuidad agrícola que la SAGARPA y el SENASICA aprueben o autoricen para la implementación de sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales, necesarios para minimizar la presencia de agentes contaminantes físicos, químicos y microbiológicos; así como en empresas a las que haya otorgado autorización para la certificación de origen mediante el otorgamiento del sello "Marca Calidad Sonora"; salvo en aquellos casos en que personal de la Secretaría determine que la empresa presenta deficiencias en la implementación del sistema de reducción de riesgos de contaminación.
+La Secretaria podrá apoyarse en organismos de certificación, unidades de verificación u otros especialistas en la materia de inocuidad que la SAGARPA y el SENASICA apruebe o autorice para la implementación de sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales, necesarias para minimizar la presencia de agentes contaminantes físicos, químicos y microbiológicos, determinados a través de un análisis de riesgos; así como en las certificaciones que otorgue a las empresas, que sirvan como sustento para la certificación de origen mediante el otorgamiento del sello "Marca Calidad Sonora"; salvo en los casos que personal de la Secretaria determine que la empresa presenta deficiencias en la implementación del sistema de reducción de riesgos de contaminación.
 
 ### CAPÍTULO II. CONCEPTOS
 
@@ -67,9 +69,9 @@ III.- Autorización de Ingreso al Estado: Documento oficial expedido por profesi
 
 IV.- Buenas Prácticas Agrícolas (BPA's): Conjunto de medidas higiénico-sanitarias mínimas que se realizan en el sitio de producción primaria de vegetales, para asegurar que se minimiza la posibilidad de contaminación física, química y microbiológica de un vegetal, producto y/o subproducto fresco;
 
-V.- Cambio Climático: Modificación del clima con respecto al historial climático a una escala global o regional;
+V.- (DEROGADA, B.O. 27 SEPTIEMBRE DE 2018)
 
-VI.- Calentamiento global: Es el incremento continuo de la temperatura promedio global, específicamente la temperatura de la atmósfera y de los mares;
+VI.- (DEROGADA, B.O. 27 SEPTIEMBRE DE 2018)
 
 VII.- Consejo Estatal de Grupos Técnicos Fitosanitarios: Es el órgano técnico de consulta que en materia de sanidad vegetal, apoya a la Secretaría en el desarrollo, aplicación y evaluación de las medidas fitosanitarias determinadas en los Grupos Técnico Fitosanitarios;
 
@@ -79,13 +81,17 @@ IX.- Control Biológico: Métodos de combatir plagas, mediante el uso de organis
 
 X.- Condición fitosanitaria: Condición que adquieren los vegetales, sus productos o subproductos por no ser portadores de plagas que los afecten, o bien, la presencia de éstas no rebasa los niveles de tolerancia previstos en las disposiciones legales aplicables;
 
-XI.- Constancia de origen: Documento oficial expedido por parte de la Secretaría a través de Profesionales Fitosanitarios Estatales Autorizados o de los Organismos Auxiliares de Sanidad Vegetal, a petición de parte por el productor, en la cual hace constar el origen del producto o subproducto vegetal, señalando la condición fitosanitaria. Documento que podrá utilizarse para la movilización;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XI.- Constancia de origen de productos agrícolas: Documento oficial expedido por parte de la Secretaria a través de Profesionales Fitosanitarios Estatales Autorizados o de los Organismos Auxiliares de Sanidad Vegetal, a petición de parte del interesado, en la cual se hace constar el origen del producto o subproducto vegetal, señalando cuando sea el caso la condición fitosanitaria. Documento que podrá utilizarse para la movilización;
 
 XII.- Foco de infestación: Área, unidad o espacio con presencia de plagas o condiciones favorables para las mismas, que representan un riesgo para la agricultura en los procesos de producción y comercialización;
 
 XIII.- Campaña Fitosanitaria: Conjunto de medidas fitosanitarias para la prevención, combate y erradicación de plagas que afecten a los vegetales en un área geográfica determinada;
 
-XIV.- Cuarentena: Restricción a la movilización de productos o subproductos de origen vegetal, con el propósito de prevenir o retardar la introducción al estado, la dispersión y/o propagación de plagas en el Estado de Sonora;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Cuarentena: Restricción a la movilización de productos o subproductos de origen vegetal, maquinaria, equipos e implementos agrícolas, con el propósito de prevenir o retardar la introducción al estado, la dispersión y/o propagación de plagas en el Estado de Sonora;
 
 XV.- Dispositivo Estatal de Emergencia: Aplicación urgente y coordinada de las medidas fitosanitarias necesarias para el control de plagas que pongan en situación de emergencia fitosanitaria a una o varias especies vegetales, en todo o en parte del territorio estatal;
 
@@ -97,13 +103,21 @@ XVIII.- Insumo fitosanitario: Cualquier sustancia o mezcla utilizada en el contr
 
 XIX.- Maleza: Planta considerada fuera de lugar al competir por luz, agua y nutrientes con un cultivo de interés económico;
 
-XX.- Manejo Integrado de Plagas: Estrategia de control en la que se combinan racional y armónicamente una serie de prácticas, que posibilitan paulatinamente la disminución de agroquímicos;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Manejo Integrado de Plagas: Estrategia de control en la que se combinan racional y armónicamente una serie de prácticas para mejorar el estatus fitosanitario y de inocuidad;
 
 XXI.- Medidas fitosanitarias: Conjunto de disposiciones legales que emite la Secretaría, orientados a la prevención, combate, control, supresión y erradicación de plagas que afectan a los vegetales, sus productos o subproductos;
 
 XXII.- Movilización: Desplazamiento por cualquier medio de transporte, sea con fines comerciales o de otra naturaleza, de vegetales, sus productos y subproductos que se realice dentro del Estado;
 
-XXIII.- Organismo Coadyuvante y/o Auxiliar: Organizaciones de productores agrícolas, colegios de profesionistas, sociedades científicas y civiles, Universidades e Instituciones de Investigación y Educación Superior relacionados con actividades de inocuidad agrícola y fitosanitarias, que fungen como auxiliares de la Secretaría en el desarrollo de las medidas fitosanitarias y de reducción de riesgos de contaminación en la producción primaria de vegetales que ésta implante en todo o parte del territorio del estado de Sonora; incluye al Comité Estatal de Sanidad Vegetal, las Juntas Locales de Sanidad Vegetal;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII.- Organismo Coadyuvante: Organismos Auxiliares de Sanidad Vegetal, Organizaciones de Productores Agrícolas, Colegios de Profesionistas, Sociedades Científicas y Civiles, Universidades e Instituciones de Investigación y Educación Superior relacionados con actividades de inocuidad agrícola y fitosanitarias, que fungen como auxiliares de la Secretaría en el desarrollo de las medidas fitosanitarias y de reducción de riesgos de contaminación en la producción primaria de vegetales que ésta implante en todo o parte del territorio del estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII BIS.- Organismos Auxiliares de Sanidad Vegetal: El Comité Estatal de Sanidad Vegetal de Sonora y las Juntas Locales de Sanidad Vegetal en Sonora con registro vigente emitido por la autoridad competente;
 
 XXIV.- Organismos Benéficos: Seres vivos que son enemigos naturales de las plagas, utilizados en la producción agropecuaria y forestal;
 
@@ -117,7 +131,9 @@ XXVIII.- Plantas de Ornato: Planta ornamental que se cultiva con fines decorativ
 
 XXIX.- Proceso productivo: Conjunto de elementos, personas y acciones que intervienen desde la producción primaria de los vegetales, su procesamiento y comercialización;
 
-XXX.- Profesionales Fitosanitarios Estatales Autorizados: Profesionales capacitados y autorizados por la Secretaría para expedir la constancia de origen, y realizar inspecciones y verificaciones conforme a esta Ley;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XXX.- Profesionales Fitosanitarios Estatales Autorizados: Profesionistas con estudios relacionados con la sanidad, capacitados y autorizados por la Secretaría para expedir Permisos de siembra, la constancia de origen, realizar inspecciones y verificaciones conforme a esta Ley, entre otros;
 
 XXXI.- Productor agrícola: Persona física o moral que se dedique a la producción, procesamiento, transformación, industrialización, movilización o comercialización de productos y subproductos vegetales dentro del sector agrícola;
 
@@ -127,11 +143,13 @@ XXXIII.- Productos o subproductos de origen vegetal: Órganos o partes útiles d
 
 XXXIV.- Punto de Verificación Interna (PVI): Instalaciones autorizadas por la SAGARPA ubicadas en las vías terrestres, marítimas y/o aéreas de comunicación, en donde se constatan los certificados fitosanitarios expedidos o cualquier otro documento legalmente reconocido que ampare la movilización de los vegetales, sus productos o subproductos, los insumos, vehículos de transporte, materiales, maquinaria y equipos que pueden diseminar plagas cuando se movilizan de una zona a otra;
 
-XXXV.- Red Meteorológica Estatal: Conjunto de estaciones meteorológicas que proporcionan datos climatológicos básicos para toma de decisiones fitosanitarias;
+XXXV.- (DEROGADA, B.O. 27 SEPTIEMBRE DE 2018)
 
 XXXVI.- SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-XXXVII.- Semilla: Los frutos o partes de éstos, así como las partes vegetales o vegetales completos, que se utilizan para la reproducción y propagación de las diferentes especies vegetales;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVII.- Semilla: La parte que se obtiene del fruto después de la fecundación de la flor, los frutos o partes de éstos, así como las partes vegetales o vegetales completos, que se utilizan para la reproducción y propagación de las diferentes especies vegetales;
 
 XXXVIII.- SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
@@ -141,7 +159,9 @@ XL.- Sistemas de reducción de riesgos de contaminación en la producción prima
 
 XLI.- Soca: Cualquier cultivo donde no se pueda bajar la población de la plaga para lograr el estatus regional planteado; cultivo que se encuentra desatendido desde el punto de vista fitosanitario, en donde no se realizan acciones de control de la plaga y/o cultivos que concluyeron la cosecha y que no han eliminado los residuos de esta;
 
-XLII.- Traspatio: Área interior de la vivienda que se encuentra detrás del patio principal;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XLII.- Traspatio: Área con plantas vegetales en la zona urbana y rural, fuera del área cultivable; área interior de la vivienda que se encuentra detrás del patio principal;
 
 XLIII.- Vegetales: Individuos que pertenecen al reino vegetal, considerándose las especies agrícolas, sus productos o subproductos; que conservan sus cualidades originales y no han sufrido transformación alguna;
 
@@ -152,6 +172,22 @@ XLV.- Veda: Periodo de tiempo durante el cual no debe estar establecido ningún 
 XLVI.- Vivero: Es un conjunto de instalaciones agronómicas en el cual se cultivan todo tipo de plantas hasta que alcanzan el estado adecuado para su plantación; y
 
 XLVII.- Volanta de verificación: Instalaciones temporales ubicadas en las vías terrestres de comunicación estatal, o equipos móviles en donde se constata el origen de los vegetales, productos y subproductos vegetales, y los certificados fitosanitarios que avalen su sanidad, y en su caso se verifican, vehículos de transporte, materiales, maquinaria y equipos que pueden diseminar plagas cuando se movilizan de una zona a otra.
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XLVIII.- Zona Bajo Control Fitosanitario: Área agroecológica determinada en la que se aplican medidas fitosanitarias a fin de controlar, combatir, erradicar o disminuir la incidencia o presencia de una plaga, en un periodo y para una especie vegetal específicos;
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XLIX.- Zona Bajo Protección: Área agroecológica en la que no está presente una plaga, sin embargo, no se han completado todos los requisitos para su reconocimiento como zona libre:
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+L.- Zona de Baja Prevalencia. Área geográfica determinada que presenta infestaciones de especies de plagas no detectables que, con base en el análisis de riesgo correspondiente, no causan impacto económico; y
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+LI.- Zona Libre. Area geográfica determinada en la cual se ha eliminado o no se han presentado casos positivos de una plaga especifica de vegetales, durante un periodo determinado, de acuerdo con las medidas fitosanitarias aplicables establecidas por la Secretaria.
 
 ### CAPÍTULO III. DE LA AUTORIDAD COMPETENTE
 
@@ -387,7 +423,9 @@ La Secretaría, podrá participar en el desarrollo de las siguientes medidas:
 
 I.- Coadyuvar en la localización de la infestación o infección y formulación del análisis de costo-beneficio de los daños potenciales que puedan ocasionar las plagas a los vegetales, productos o subproductos en la región;
 
-II.- Delimitar las áreas infestadas por plagas en el Estado, a fin de que la SAGARPA y el SENASICA estén en posibilidad de emitir las disposiciones administrativas aplicables correspondientes y las que determine el Consejo Estatal de Grupos Técnicos Fitosanitarios y/o los Grupos Técnicos Fitosanitarios;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+II.- Delimitar las áreas infestadas por plagas en el Estado, a fin de que la SAGARPA y el SENASICA estén en posibilidad de emitir las disposiciones oficiales aplicables correspondientes y las que determine Consejo Estatal de Grupos Técnicos Fitosanitarios y/o los Grupos Técnicos Fitosanitarios;
 
 III.- Coordinar a los Organismos e Instituciones para la aplicación de planes de emergencia en la aparición de focos de infestación o infección de plagas o enfermedades;
 
@@ -407,9 +445,11 @@ La Secretaría difundirá con oportunidad por los medios que estimen conveniente
 
 Los productores, empacadores, comerciantes, usufructuarios o quien manipule productos agrícolas, estarán obligados a atender las medidas fitosanitarias que las autoridades competentes implementen para prevenir, controlar, combatir, y erradicar plagas; así como atender focos de infestación, infección, o contingencias fitosanitarias e implementación de sistemas de reducción de riesgos de contaminación.
 
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 20.
 
-Todos las personas físicas o morales, propietarios o usufructuarios que lleven a cabo siembras o plantación de cultivos agrícolas, estarán obligados a generar, propiciar y respaldar las condiciones y facilitar el acceso a los terrenos e instalaciones en general, a los técnicos de los Organismos Auxiliares, Profesionales Fitosanitarios Estatales Autorizados, debidamente autorizados por la autoridad competente, con el objeto de verificar y comprobar la condición fitosanitaria de los cultivos en sus terrenos e instalaciones de su propiedad, posesión o usufructo; así como proporcionar información con el objeto de llevar a cabo las Campañas Fitosanitarias y de Inocuidad Agrícola.
+Todos (sic) las personas físicas o morales, propietarios o usufructuarios que lleven a cabo siembras o plantación de cultivos agrícolas, estarán obligados a generar, propiciar y respaldar las condiciones y facilitar el acceso a los terrenos e instalaciones en general (viveros, invernaderos, casa sombra, bodegas, cuartos fríos, entre otros), a los técnicos de los organismos auxiliares, profesionales fitosanitarios estatales autorizados, debidamente autorizados por la autoridad competente, con el objeto de verificar y comprobar la condición fitosanitaria de los cultivos en sus terrenos e instalaciones de su propiedad, posesión o usufructo: así como proporcionar información con el objeto de llevar a cabo las Campañas Fitosanitarias y de Inocuidad Agrícola.
 
 ### CAPÍTULO III. DEL DISPOSITIVO ESTATAL DE EMERGENCIA DE SANIDAD VEGETAL
 
@@ -423,7 +463,9 @@ Para la instrumentación del Dispositivo Estatal de Emergencia, la Secretaría d
 
 La Secretaría podrá acordar y convenir con el Gobierno Federal y con los gobiernos de los estados circunvecinos, organismos auxiliares y particulares interesados, la creación de uno o varios fondos de contingencia para afrontar inmediatamente las emergencias fitosanitarias que surjan por la presencia de plagas exóticas o existentes en el territorio estatal, que pongan en peligro el patrimonio agrícola o forestal estatal.
 
-### CAPÍTULO IV. DEL CONTROL DEL USO DE PLAGUICIDAS
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO IV. DEL CONTROL DEL USO, MANEJO Y APLICACIÓN DE PLAGUICIDAS
 
 ###### ARTÍCULO 23.
 
@@ -445,21 +487,29 @@ La Secretaría, en coordinación con la Comisión de Ecología y Desarrollo Sust
 
 La Secretaría, los Organismos Coadyuvantes, y público en general, podrán informar a las autoridades laborales competentes, sobre aquellos empleadores que no doten a sus empleados de equipos adecuados de protección para el manejo de agroquímicos, según las disposiciones normativas aplicables.
 
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 28.
 
-Todo agricultor estará obligado a generar, propiciar y respaldar las condiciones y facilitar el acceso a los terrenos e instalaciones en general, al Profesional Estatal Fitosanitario Autorizado, con el objeto de verificar y comprobar la debida utilización de plaguicidas y químicos en sus terrenos e instalaciones de su propiedad, posesión o usufructo.
+Todo agricultor estará obligado a generar, propiciar y respaldar las condiciones y facilitar el acceso a los terrenos e instalaciones en general, al personal técnico de los Organismos Auxiliares de Sanidad Vegetal y al Profesional Fitosanitario Estatal Autorizado, con el objeto de verificar y comprobar la debida utilización de plaguicidas y químicos en sus terrenos e instalaciones de su propiedad, posesión o usufructo.
 
 ###### ARTÍCULO 29.
 
 La Secretaría, en concertación con las organizaciones de productores, fomentará el uso del método de control biológico bajo un estricto control técnico, para el combate de plagas y enfermedades en los cultivos agrícolas.
 
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 30.
 
-La Secretaría podrá solicitar a los propietarios de los registros de los insumos fitosanitarios o de nutrición vegetal, información sobre el uso fitosanitario relacionado con los volúmenes de aplicación, cultivos, regiones, plagas por cada producto registrado.
+La Secretaría podrá solicitar a los Distribuidores y/o comercializadores de insumos fitosanitarios o de nutrición vegetal, información sobre el uso relacionado con los volúmenes de aplicación, cultivos, regiones, plagas por cada producto registrado.
 
 ###### ARTÍCULO 31.
 
 La Secretaría establecerá los procedimientos para control del uso, manejo, venta, aplicación de plaguicidas agrícolas y destino final de los envases que contuvieron plaguicidas agrícolas, en el reglamento de la presente ley.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Todo productor que conserve agroquimicos caducos deberá informar a la Secretaría para su disposición final.
 
 ### CAPÍTULO V. DE LA VIGILANCIA DE SEMILLAS Y DEL MATERIAL PROPAGATIVO PARA SIEMBRA
 
@@ -493,9 +543,11 @@ La Secretaría promoverá y vigilará el ámbito estatal que se cumpla con la ca
 
 Las personas físicas o morales, propietarios o usufructuarios que pretendan realizar la siembra o plantación de cultivos agrícolas, están obligados a obtener ante la Secretaría, el Permiso de Siembra previo al establecimiento del cultivo y bajo el cumplimiento de los requisitos que para tal efecto se determinen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 39.
 
-La Secretaría expedirá el Permiso de Siembra en las ventanillas que para tal efecto se establezcan, con el apoyo de los Organismos Auxiliares en materia de Sanidad Vegetal; bajo el siguiente procedimiento:
+La Secretaría expedirá el Permiso de Siembra en las ventanillas que para tal efecto se establezcan, con el apoyo de los Organismos Auxiliares de Sanidad Vegetal; bajo el siguiente procedimiento:
 
 I.- Las personas físicas o morales, propietarios o usufructuarios acudirán a la ventanilla correspondiente para solicitar el Permiso de Siembra en donde le informarán sobre los requisitos fitosanitarios que se determinen para cada uno de los cultivos en el seno de los Grupos Técnicos Fitosanitarios y validadas en los (sic) Consejo Estatal de Grupos Técnicos Fitosanitarios; además las disposiciones legales aplicables en materia fitosanitaria y en materia de derechos de agua en apego a la Ley de Aguas Nacionales y su Reglamento;
 
@@ -573,7 +625,9 @@ La documentación antes señalada servirá para que la Secretaría solicite el r
 
 La Secretaría a solicitud del Organismo Auxiliar y con la documentación soporte a que se refiere el artículo anterior, constatará que toda la información cumpla con los requisitos fitosanitarios antes señalados, que sustenten el reconocimiento de la Zona Libre y validará el programa de manejo para mitigar el riesgo de dispersión de plagas.
 
-En caso de que la documentación soporte esté completa, la Secretaría por si o con el apoyo del Grupo Técnico Fitosanitario y del Consejo Estatal de Grupos Técnicos Fitosanitarios, evaluará y verificará dicha información mediante una visita de campo, y de resultar satisfactoria la evaluación, la Secretaría podrá publicar en el Boletín Oficial del Estado, el Decreto por el cual se declara como Zona Libre de una Plaga objetivo a una región determinada.
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de que la documentación soporte esté completa, la Secretaría por si o con el apoyo del Grupo Técnico Fitosanitario y del Consejo Estatal de Grupos Técnicos Fitosanitarios, evaluará y verificará dicha información mediante una visita de campo, y de resultar satisfactoria la evaluación, la Secretaría podrá publicar en el Boletín Oficial del Estado, el Decreto por el cual se declara como Zona Libre de una Plaga objetivo a una región determinada y promoverá ante la SAGARPA el reconocimiento federal.
 
 ###### ARTÍCULO 44.
 
@@ -621,7 +675,9 @@ a) La detección recurrente de la Plaga objetivo en un periodo mayor a tres cicl
 
 b) Los niveles de la Plaga no controlables en función de los ciclos biológicos de cada Plaga.
 
-### CAPITULO VIII. DE LA INNOVACIÓN Y TRANSFERENCIA DE TECNOLOGÍA EN MATERIA FITOSANITARIA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO VIII. DE LA INVESTIGACIÓN E INNOVACIÓN Y TRANSFERENCIA DE TECNOLOGÍA EN MATERIA FITOSANITARIA
 
 ###### ARTÍCULO 46.
 
@@ -677,9 +733,11 @@ Los vegetales, sus productos y subproductos que se introduzcan al Estado sin cum
 
 Se prohíbe la movilización de vegetales, sus productos o subproductos en el interior del Estado de Sonora, en aquellos casos que representen un riesgo de diseminación de plagas que afecten el estatus fitosanitario logrado en todos o algunos municipios o regiones de la entidad.
 
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 54.
 
-La Secretaría podrá realizar verificación de cualquier volumen de vegetales, productos o subproductos que se introduzcan al Estado, conforme a lo establecido en el presente instrumento y su Reglamento.
+La Secretaría podrá realizar verificación de cualquier volumen de vegetales, productos o subproductos, incluyendo maquinaria, equipos, medios de transporte, que se introduzcan al Estado, conforme a lo establecido en el presente instrumento y su Reglamento.
 
 ###### ARTÍCULO 55.
 
@@ -703,15 +761,19 @@ II.- El cumplimiento de las disposiciones del presente ordenamiento.
 
 Una vez practicada la verificación, en la cual haya cumplido con las disposiciones legales aplicables, el Profesional Fitosanitario Estatal Autorizado de los Organismos Auxiliares, deberá expedir la constancia de origen, acreditando que sea por el consignatario o propietario, el pago de derechos correspondiente y procederá a suscribir el documento al propietario de los vegetales, sus productos o subproductos o su representante legal, debidamente acreditado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 59.
 
-La constancia de origen del producto o subproducto de origen vegetal deberá contener los siguientes datos:
+La constancia de origen de productos agrícolas deberá contener los siguientes datos:
 
 I.- El nombre y dirección del consignatario;
 
 II.- El Nombre y dirección del destinatario;
 
-III.- El nombre del producto o subproducto de origen vegetal, que se pretende movilizar;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+III.- El nombre del producto o subproducto de origen vegetal que se pretende movilizar (Indicar nombre científico);
 
 IV.- La cantidad a movilizar, indicando la unidad de medida: peso, cajas o sacos;
 
@@ -729,9 +791,11 @@ X.- Folio de la constancia; y
 
 XI.- Los demás documentos que la Secretaría considere necesarios en atención a la situación fitosanitaria que guarde el estado.
 
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 60.
 
-Las constancias de origen estarán numeradas progresivamente y serán expedidas por los Profesionales Fitosanitarios Estatales Autorizados de los Organismos Auxiliares; se expedirán en forma electrónica en original para el interesado o transportista, debiendo establecer un procedimiento de protección de datos que asegure la permanencia de la información por un tiempo mínimo de 5 años; se deberá enviar mensualmente a la Secretaría o cuando esta lo requiera, una copia del archivo electrónico a la Secretaría. La constancia de origen tendrá una vigencia de 4 días naturales a partir de su expedición.
+Las constancias de origen estarán numeradas progresivamente y serán expedidas por los Profesionales Fitosanitarios Estatales Autorizados de los Organismos Auxiliares de Sanidad Vegetal; se expedirán en forma electrónica en original para el interesado o transportista, debiendo establecer un procedimiento de protección de datos que asegure la permanencia de la información por un tiempo mínimo de 5 años; se deberá enviar mensualmente a la Secretaría o cuando esta lo requiera, una copia del archivo electrónico a la Secretaría. La constancia de origen tendrá una vigencia de 4 días naturales a partir de su expedición.
 
 ###### ARTÍCULO 61.
 
@@ -777,9 +841,11 @@ Para la inspección y verificación de vegetales, sus productos y subproductos, 
 
 La inspección se practicará de conformidad con las disposiciones del Reglamento de la presente Ley y las disposiciones legales aplicables publicadas en el Boletín Oficial del Estado.
 
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 69.
 
-Cuando derivado de la verificación del Profesional Fitosanitario Estatales Autorizado determine la existencia de riesgos fitosanitarios o probables infracciones a las disposiciones fitosanitarias, dará aviso a la instancia competente.
+Cuando derivado de la verificación de los Profesionales Fitosanitarios Estatales Autorizados, se determine la existencia de riesgos fitosanitarios o probables infracciones a las disposiciones fitosanitarias, se procederá conforme a esta ley.
 
 ###### ARTÍCULO 70.
 
@@ -788,6 +854,10 @@ Se considera reincidente al infractor que infrinja en más de una vez un mismo p
 ###### ARTÍCULO 71.
 
 Todo productor, transportista, empacador, comercializador de productos y subproductos agrícolas está obligado a generar, propiciar y respaldar las condiciones y facilitar el acceso a los terrenos e instalaciones en general, libros, registros, documentos comprobatorios, a los Profesionales Fitosanitarios Estatales Autorizados, con el objeto de inspeccionar y verificar para comprobar la condición fitosanitaria de los cultivos, productos o subproductos, en sus terrenos e instalaciones de su propiedad, posesión o usufructo.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Así mismo, todo productor, transportista, empacador, comercializador de productos y subproductos agrícolas está obligado a generar, propiciar y respaldar las condiciones y facilitar el acceso a los terrenos e instalaciones en general, registros, documentos comprobatorios, al personal técnico de los Organismos Auxiliares de Sanidad Vegetal, con el fin de cumplir con los programas fitosanitarios y de inocuidad.
 
 ###### ARTÍCULO 72.
 
@@ -857,9 +927,11 @@ Los vegetales y los lugares o establecimientos e instalaciones relacionados con 
 
 ### CAPITULO I. DE LA COORDINACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 82.
 
-Los acuerdos y convenios que celebre el Gobierno del Estado por conducto de la Secretaría, con el Gobierno Federal, los Estados, los Municipios, los Organismos Auxiliares, Organismos coadyuvantes, las personas morales y organizaciones del sector social o privado, podrá referirse a las siguientes materias:
+Los acuerdos y convenios que celebre el Gobierno del Estado por conducto de la Secretaría, con el Gobierno Federal, los Estados, los Municipios, los Organismos Auxiliares de Sanidad Vegetal, Organismos coadyuvantes, las personas morales y organizaciones del sector social o privado, podrá referirse a las siguientes materias:
 
 I.- Sanidad Vegetal;
 
@@ -1072,3 +1144,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veinte días del mes de diciembre del año dos mil diecisiete.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 261, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SANIDAD VEGETAL E INOCUIDAD AGRÍCOLA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
