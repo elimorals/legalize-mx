@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2018-09-13"
+last_updated: "2018-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -373,31 +373,47 @@ El Secretario del Ayuntamiento saliente, tendrá la obligación de levantar el a
 
 ### CAPITULO TERCERO. DE LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 41.
 
-Se entiende por entrega-recepción al proceso legal-administrativo a través del cual las autoridades municipales salientes preparan y entregan a las autoridades entrantes todos los bienes, fondos y valores propiedad del Municipio, así como toda aquella documentación que debidamente ordenada, clasificada y certificada, haya sido generada en la administración municipal.
+Se entiende por entrega-recepción al proceso legal-administrativo a través del cual las autoridades municipales salientes preparan y entregan a las autoridades entrantes todos los bienes, fondos y valores propiedad del Municipio, así como toda aquella documentación que debidamente ordenada, clasificada y certificada, haya sido generada en la administración municipal. De igual forma, se le dará tratamiento formal legal a todo lo relacionado con las tecnologías de la información y comunicación (T.I.C.) que el municipio haya generado, contratado, recibido, administrado, validado o resguardado. Para efectos de este artículo se tomarán las disposiciones que dicta la Estrategia Digital Nacional, en materia de tecnologías de la información y comunicaciones y en la de seguridad de la información publicadas en el Diario Oficial de la Federación el día 8 de mayo de 2014, en el acuerdo que tiene por objeto emitir las políticas y disposiciones para la estrategia digital nacional, en materia de tecnologías de la información y comunicaciones, y en la de seguridad de la información, así como establecer el manual administrativo de aplicación general en dichas materias.
+
+Las tecnologías de información y comunicaciones comprenden el equipo de cómputo, software y dispositivos de impresión que sean utilizados para almacenar, procesar, convertir, proteger, transferir y recuperar información, datos, voz, imágenes y video.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 42.
 
-El Ayuntamiento deberá acordar, por lo menos seis meses antes de que finalice su período de gobierno, las bases mediante las cuales, los titulares de las dependencias y entidades de la administración municipal, harán la entrega de los asuntos de su competencia, así como los recursos humanos, materiales y financieros que tengan asignados para el ejercicio de sus atribuciones legales, conforme a las disposiciones legales del presente capítulo.
+El Ayuntamiento deberá acordar, por lo menos seis meses antes de que finalice su período de gobierno, las bases mediante las cuales, los titulares de las secretarías, direcciones y/o dependencias, así como de las entidades paramunicipales de la administración municipal, como los responsables de las comisarías, harán la entrega de los asuntos de su competencia, así como los recursos humanos, materiales, financieros y de Tecnologías de la Información y Comunicación que tengan asignados para el ejercicio de sus atribuciones legales, conforme a las disposiciones legales del presente capítulo.
 
 Asimismo, para vigilar el desarrollo del proceso de entrega-recepción, se nombrará una comisión mixta que estará conformada con igual número de integrantes del Ayuntamiento saliente y del entrante y, funcionará cuando menos desde un mes antes de la fecha en que se realizará la sesión de instalación del Ayuntamiento electo. Los integrantes del Ayuntamiento entrante que conformarán la citada comisión serán designados por el Presidente Municipal electo y el desempeño de las funciones en la misma será de carácter honorario.
 
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
-Para el cumplimiento de las disposiciones establecidas en el acuerdo que establezca las bases del acto de entrega-recepción, el Órgano de Control y Evaluación Gubernamental del Ayuntamiento será la unidad responsable de coordinar las acciones de planeación, organización, integración y documentación necesarias para la entrega-recepción.
+Para el cumplimiento de las disposiciones establecidas en el acuerdo que establezca las bases del acto de entrega-recepción, el Órgano de Control y Evaluación Gubernamental del Ayuntamiento coordinará las acciones de planeación, organización e integración de la documentación, necesarias para la entrega-recepción, incluyendo las relativas a las tecnologías de la información y comunicación.
+
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 44.
 
-Con el propósito de facilitar el proceso de entrega-recepción, los titulares de las dependencias y entidades de la administración municipal deberán mantener ordenados y permanentemente actualizados sus informes, registros, controles y demás documentación relativa a los asuntos de su competencia y la información de los recursos humanos, materiales y financieros de que disponen para el ejercicio de sus funciones.
+Con el propósito de facilitar el proceso de entrega-recepción, los titulares de las dependencias y entidades de la administración municipal deberán mantener ordenados y permanentemente actualizados y administrados sus informes, registros, controles y demás documentación relativa a los asuntos de su competencia y la información de los recursos humanos, materiales y financieros incluyendo los relativos a las tecnologías de la información y comunicación de que disponen para el ejercicio de sus funciones.
+
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 45.
 
-El Órgano de Control y Evaluación Gubernamental del Ayuntamiento podrá adoptar las medidas pertinentes que se requieran para cumplimentar el acuerdo a que se refiere el artículo 42 de esta Ley.
+El Órgano de Control y Evaluación Gubernamental del Ayuntamiento podrá adoptar las medidas pertinentes que se requieran para dar cumplimiento al acuerdo a que se refiere el artículo 42 de esta Ley, emitiendo sus lineamientos y formatos, mismos que deberán de ser llenados y firmados por el funcionario saliente, enlace del proceso, presidentes tanto como el entrante como el saliente y el Síndico municipal, e integrará el expediente protocolario, y que será entregado al término de la ceremonia de instalación.
+
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 46.
 
-Al término de la ceremonia de instalación, el Ayuntamiento saliente hará entrega legal y administrativa, al Ayuntamiento recién instalado, por conducto de los presidentes - saliente y entrante - de todos los bienes, fondos y valores propiedad del Municipio, así como toda aquella documentación que debidamente ordenada, clasificada y certificada, haya sido generada en la administración municipal.
+Al término de la ceremonia de instalación, el Ayuntamiento saliente hará entrega legal y administrativa, al Ayuntamiento recién instalado, por conducto de los presidentes -saliente y entrante, de todos los bienes, fondos, valores, firmas electrónicas y claves de acceso a portales gubernamentales, relacionando claves y contraseñas de programas y portales de internet incluyendo los dominios tecnológicos propiedad del municipio, así como toda aquella documentación que debidamente ordenada, clasificada y certificada, tanto de manera física como digitalizada, que haya sido generada en la administración municipal.
+
+Los enlaces responsables de dar cumplimiento a las leyes de transparencia y acceso a la información, deberán elaborar un estado de avance municipal, mencionando las áreas de oportunidad, de opacidad y líneas inmediatas de acción, a fin de evitar contingencias y sanciones por falta de cumplimiento.
 
 ###### Artículo 47.
 
@@ -405,15 +421,25 @@ Los documentos a que se refiere el artículo anterior, deberán contener, por lo
 
 I. Los libros de actas de las reuniones del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
 
-II. Los estados financieros correspondientes al último año de su gestión que comprenderá la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-III. La documentación relativa al estado que guarda la cuenta pública del Municipio; la que incluirá los oficios de razonabilidad, las observaciones, requerimientos o apercibimientos emitidos por la Contaduría Mayor de Hacienda del Congreso del Estado o, en su caso, por el Congreso del Estado por conducto de la Contaduría Mayor de Hacienda o la Comisión correspondiente;
+II. Los estados financieros contables correspondientes a la última cuenta pública de su gestión que comprenderá el Estado de Situación Financiera, Estado de Actividades, Estado de Variación en la Hacienda Pública, Estado Analítico del Activo, Estado Analítico de la Deuda y Otros Pasivos, Estado de Cambios en la Situación Financiera, Estado de Flujos de Efectivo y Notas a los estados financieros así como los indicadores de Postura Fiscal que de conformidad con la Ley General de Contabilidad Gubernamental y del Acuerdo por el que se armoniza la estructura de las Cuentas Públicas, se deben presentar en la Cuenta Pública Anual;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+III. La documentación relativa al estado que guarda la fiscalización a las cuentas públicas municipales; la que incluirá las observaciones pendientes de solventar, requerimientos o apercibimientos emitidos por el Instituto Superior de Auditoría y Fiscalización así como la Auditoría Superior de la Federación, incluyendo los dictámenes de despachos contables y evaluaciones al desempeño;
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+III Bis. Infraestructura de las tecnologías de la información y comunicación, incluyendo el hardware, software, redes e instalaciones requeridas para desarrollar, probar, proveer, monitorear, controlar y soportar los servicios digitales municipales, correos electrónicos institucionales, así como seguridad de la información, que tiene por objeto preservar la confidencialidad, integridad y disponibilidad de la información, así como la autenticidad, confiabilidad, trazabilidad y no repudio de la misma;
 
 IV. La situación de la deuda pública municipal, la documentación relativa a la misma y su registro;
 
 V. El estado de la obra pública ejecutada y en proceso, así como la documentación relativa a la misma;
 
-VI. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como de los informes y comprobantes de los mismos, ante la Secretaría de la Contraloría General del Estado;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+VI. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como de los informes y comprobantes de los mismos, presentados ante organismos fiscalizadores;
 
 VII. La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
 
@@ -1179,7 +1205,9 @@ XI. Conocer e investigar los actos u omisiones de los servidores públicos munic
 
 XII. Vigilar el registro e inventario de los bienes muebles e inmuebles del Municipio;
 
-XIII. Elaborar para la formulación de los lineamientos generales y los manuales de organización y procedimientos al que habrán de sujetarse las dependencias y entidades municipales, los cuales deberán ser aprobados por el Ayuntamiento;
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Colaborar en la formulación de los lineamientos generales y los manuales de organización y procedimientos al que habrán de sujetarse las dependencias y entidades municipales, los cuales deberán ser aprobados por el Ayuntamiento;
 
 XIV. Establecer y operar un sistema de quejas, denuncias y sugerencias;
 
@@ -2411,15 +2439,25 @@ I. Que es mayor de edad o que está emancipado.
 
 II. Que es vecino del Municipio.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 III. La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Para los casos que quien desee adquirir el bien, no vivan en una familia conformada tradicionalmente, se considerará como familia al parentesco en línea recta, ascendente o descendente, sin limitación de grado; por consanguineidad hasta el cuarto grado, siempre y cuando cohabiten en el inmueble a enajenar; o bien, a las personas que hayan contraído matrimonio, que hayan vivido en concubinato, y que hayan decidido bajo cualquier causa, llegar a la disolución del mismo, siempre y cuando lo acrediten mediante los medios idóneos según la legislación aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Tratándose de casos en donde los solicitantes sean adultos mayores en grado de vulnerabilidad, se podrán exceptuar los requisitos aquí establecidos, debiendo para tal efecto mediar dictamen de la comisión respectiva;
 
 IV. El promedio de sus ingresos, a fin de que pueda calcularse, la posibilidad de pagar el precio del inmueble que se le venda.
 
 V. La no propiedad de bienes inmuebles. Si el que tenga interés demuestra que quien hizo la compra era propietario de bienes inmuebles, la enajenación estará afectada de nulidad absoluta.
 
-> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-Cumplidos los requisitos arriba expuestos y exceptuando el requisito de la fracción III para los adultos mayores, mediando solicitud, el síndico municipal podrá celebrar promesas de compraventa sobre los lotes de patrimonio municipal en tanto el Ayuntamiento autoriza la respectiva enajenación.
+Cumplidos los requisitos arriba expuestos y mediando solicitud, el Síndico Municipal podrá celebrar promesas de compra-venta sobre los lotes del patrimonio municipal en tanto el Ayuntamiento autoriza la respectiva enajenación.
 
 > <small>(REFORMADO, B.O. 27 DE ABRIL DE 2017)</small>
 
@@ -4298,3 +4336,23 @@ B.O. 13 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 251, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252. QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos tendrán 60 días hábiles para emitir o actualizar sus disposiciones reglamentarias para la correcta operación de este Decreto.
