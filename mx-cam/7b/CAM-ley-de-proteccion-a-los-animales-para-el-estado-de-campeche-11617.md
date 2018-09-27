@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-a-los-animales-para-el-estado-de-campeche-116
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-05"
-last_updated: "1997-04-05"
+last_updated: "2018-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CAM"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 27 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 5 de abril de 1997.
 
@@ -330,3 +334,27 @@ Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 4 de Abril de 1997
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado de Campeche, a los cuatro días del mes de abril del año de mil novecientos noventa y siete.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. FERNANDO RAFFUL.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 310 POR EL QUE "SE EXPIDE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE".]
+
+Primero.- Esta ley entrará en vigor el 1° de enero de 2019, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley de Protección a los Animales para el Estado de Campeche, publicada en el Periódico Oficial del Estado el 5 de abril de 1997.
+
+Tercero.- El Reglamento al que se refiere la presente Ley deberá ser expedido en un término no mayor a 90 días siguientes, contados a partir de su entrada en vigor.
+
+Cuarto.- Los Ayuntamientos deberán expedir o reformar sus reglamentos en materia de protección animal, a más tardar dentro de los 90 días siguientes, contados a partir de la entrada en vigor del presente decreto.
+
+Quinto.- Todos los asuntos o trámites que se encuentren pendientes de resolver al entrar en vigor la presente ley, se desahogarán en los términos previstos por la ley o leyes vigentes al momento de su inicio.
+
+Sexto.- Todas las referencias que en las disposiciones jurídicas vigentes se hacen a la Ley de Protección a los Animales para el Estado de Campeche, se tendrán por hechas a la Ley para la Protección y Bienestar de los Animales del Estado de Campeche.
+
+Séptimo.- La instalación y funcionamiento de los Centros de Bienestar Animal que recaen dentro de la esfera de competencia de las autoridades municipales, se hará cuando se lo permitan sus posibilidades presupuestales.
+
+Octavo.- La Secretaría de Medio Ambiente y Recursos Naturales de la administración pública estatal, determinará dentro de su estructura orgánica y con el personal con que cuenta, el área encargada de llevar el registro a que se refiere esta ley.
+
+Noveno.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a lo dispuesto por este decreto.
