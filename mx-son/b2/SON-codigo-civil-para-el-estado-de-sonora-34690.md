@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2018-09-06"
+last_updated: "2018-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 6 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -17991,9 +17991,11 @@ Cuando el acreedor únicamente ejercita la acción principal, y no la real hipot
 
 La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro.
 
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Art. 3296.
 
-La hipoteca puede constituirse por contrato, testamento o declaración unilateral de voluntad, así como por la ley, con el carácter de necesaria, cuando la misma sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En los tres primeros casos la hipoteca se llama voluntaria, y en el último, necesaria.
+La hipoteca puede constituirse por contrato, testamento o declaración unilateral de voluntad, así como por la ley, con el carácter de necesaria, cuando la misma sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En los tres primeros casos la hipoteca se llama voluntaria y, en el último, necesaria, pudiéndose convenir, en cualquier caso, un esquema denominado hipoteca inversa.
 
 ### CAPITULO II.
 
@@ -18129,13 +18131,83 @@ Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen 
 
 Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 3314 no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 3449, fracción I, salvo lo dispuesto en el Capítulo IX, del Título Noveno del Libro Segundo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO III BIS.
+
+De la Hipoteca Inversa.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Art. 3318 BIS.- Para efectos de este capítulo, se debe entender por pensionista al propietario del bien inmueble hipotecado, y por pensionario al acreedor titular de la hipoteca.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Art. 3318 BIS 1.- La hipoteca inversa es la que se constituye sobre un inmueble que es la vivienda habitual y propia del pensionista, para garantizar el capital que se le conceda por el pensionario para cubrir sus necesidades económicas de vida, en los términos de este capítulo.
+
+ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)
+
+Art. 3318 BIS 2.- El contrato de hipoteca inversa es aquel por el cual el pensionario se obliga a pagar periódicamente y en forma vitalicia al pensionista o a su beneficiario que deberá ser su cónyuge, concubina o concubinario de edad igual o superior a los 60 años, una cantidad de dinero predeterminada, que el pensionista garantizará a través de la hipoteca inversa, en los términos de este capítulo.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Art. 3318 BIS 3.- Están autorizadas para otorgar la hipoteca inversa las instituciones privadas, sociales, las personas físicas y las instituciones públicas, siempre que cuenten con facultades para ello.
+
+El costo de dicho avalúo será cubierto por el pensionario y deberá actualizarse periódicamente para estar acorde con la plusvalía que el bien adquiera con el tiempo.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Art. 3318 BIS 4.- La determinación de la hipoteca inversa se realizará previo avalúo de institución debidamente facultada, que considere el valor comercial de mercado del inmueble, que deberá actualizarse cada 2 años, para estar acorde con la plusvalía que el bien adquiera con el tiempo.
+
+El costo de dicho avalúo será cubierto por el pensionario.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Art. 3318 BIS 5.- El contrato de hipoteca inversa, además de lo pactado, estará sujeto a lo siguiente:
+
+I.- Que la cantidad pactada entre pensionario y pensionista sea suficiente para que éste último cubra sus necesidades básicas, la cual no deberá ser menor al sesenta por ciento del avalúo a que se refiere el artículo 3318 BIS 4.
+
+II.- El tutor, siempre que se encuentre en los supuestos señalados en el presente capítulo, podrá, con autorización judicial, constituir hipoteca inversa para garantizar un crédito otorgado a favor de su propio menor o incapaz.
+
+III.- Que el pensionista disponga del importe del préstamo conforme a los plazos que correspondan a las disposiciones periódicas mediante las cuales el pensionista accederá al importe objeto de la hipoteca inversa.
+
+IV.- Que las personas que recibirán los pagos periódicos, sean a las que se hace referencia en el artículo 3318 BIS 2.
+
+V.- Las condiciones que se establezcan, en su caso, para atender lo dispuesto en el artículo 3318 BIS 6.
+
+VI.- Que la deuda solo sea exigible por el pensionario y la garantía ejecutable cuando fallezca el pensionista y el beneficiario si lo hubiere, respetando el plazo que le concede la fracción II del artículo 3318 BIS 6, respecto a la amortización de la deuda.
+
+VII.- El pensionista habitará vitaliciamente el inmueble hipotecado. El pensionista podrá arrendar de manera parcial o total el inmueble hipotecado, siempre y cuando, cuente con la autorización expresa del pensionario y los términos y condiciones del arrendamiento se establezcan en el contrato correspondiente, sin afectar la naturaleza propia de la hipoteca inversa.
+
+VIII.- Deberá contratarse, de manera conjunta y por el tiempo de la vigencia de la hipoteca inversa, un seguro de gastos funerarios que cubra las erogaciones que deban realizarse al momento del fallecimiento del pensionista.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Art. 3318 BIS 6.- La amortización del capital se sujetará a las siguientes normas:
+
+I.- Cuando fallezca el pensionista y su beneficiario, en su caso de haberlo, sus herederos podrán abonar al pensionario la totalidad del adeudo existente y vencido, sin compensación por la cancelación del gravamen y pago del adeudo.
+
+II.- En el supuesto de la fracción anterior, los herederos del pensionista podrán optar por no pagar el adeudo existente y vencido. Transcurridos seis meses después del fallecimiento del pensionista sin efectuarse el pago, el pensionario cobrará el adeudo hasta donde alcance el valor del bien hipotecado, pudiendo solicitar su adjudicación o su venta.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Art. 3318 BIS 7.- El inmueble no podrá ser transmitido por acto intervivos sin el consentimiento del pensionario. El incumplimiento de esta obligación le conferirá el derecho de declarar vencido anticipadamente el total del adeudo y exigible a la fecha, a menos que se sustituya la garantía en forma bastante e igual a la anterior en un plazo de seis meses.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Art. 3318 BIS 8.- En caso de incumplimiento del pensionario en las ministraciones pactadas, el pensionista estará en condiciones de solicitar la recisión (sic) del contrato y exigir el pago de los daños y perjuicios, o en su caso, el pago de la pena pactada. Además, se tendrá la deuda como liquidada y no generará más intereses; debiendo el pensionario liberar a su costa el gravamen correspondiente. Para el caso de que se constituya una nueva hipoteca inversa sobre el mismo inmueble, ésta tendrá prelación respecto de la anterior.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Art. 3318 BIS 9.- Cuando se extinga el capital pactado y los herederos del pensionista decidan no reembolsar los débitos vencidos, con sus intereses, el pensionario podrá obtener recobro hasta donde alcance el bien hipotecado.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Art. 3318 BIS 10.- En lo no previsto en este código, la hipoteca inversa se regirá por lo dispuesto en la legislación que en cada caso resulte aplicable.
+
 ### CAPITULO IV.
 
 Disposiciones Comunes a las Diversas Clases de Hipotecas.
-
-### CAPITULO V.
-
-De la Extinción de las Hipotecas.
 
 ###### Art. 3319.
 
@@ -18205,9 +18277,9 @@ Si todos los deudores de una obligación mancomunada constituyeren hipotecas sob
 
 Se llaman hipotecas indivisibles las constituídas para garantizar una obligación indivisible. Las mismas facultan al acreedor para hacer efectivo su crédito sobre todos los bienes gravados, caso en el cual se estará a lo dispuesto por el artículo 3329.
 
-### CAPITULO I.
+### CAPITULO V.
 
-Disposiciones Generales.
+De la Extinción de las Hipotecas.
 
 ###### Art. 3335.
 
@@ -18645,9 +18717,9 @@ TERCERA PARTE.
 
 De la Concurrencia y Prelación de los Créditos.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De los Créditos Hipotecarios y Pignoraticios y de Algunos Otros Privilegios.
+Disposiciones Generales.
 
 ###### Art. 3418.
 
@@ -18731,9 +18803,9 @@ Los gastos judiciales hechos por un acreedor, en lo particular, serán pagados e
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
 
-### CAPITULO III.
+### CAPITULO II.
 
-De Algunos Acreedores Preferentes Sobre Determinados Bienes.
+De los Créditos Hipotecarios y Pignoraticios y de Algunos Otros Privilegios.
 
 ###### Art. 3434.
 
@@ -18799,9 +18871,9 @@ II.- Si los acreedores hubieren hecho novación de la deuda o de cualquier otro 
 
 Los acreedores que obtuvieren la separación de bienes no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-Acreedores de Primera Clase.
+De Algunos Acreedores Preferentes Sobre Determinados Bienes.
 
 ###### Art. 3447.
 
@@ -18827,9 +18899,9 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX.- Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencia, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-Acreedores de Segunda Clase.
+Acreedores de Primera Clase.
 
 ###### Art. 3448.
 
@@ -18847,9 +18919,9 @@ V.- El crédito por alimentos fiados al deudor para su subsistencia y la de su f
 
 VI.- La responsabilidad civil en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de cosa ajena, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 
-### CAPITULO VI.
+### CAPITULO V.
 
-Acreedores de Tercera Clase.
+Acreedores de Segunda Clase.
 
 ###### Art. 3449.
 
@@ -18861,17 +18933,17 @@ II.- Los créditos del Erario que no estén comprendidos en el artículo 3434, y
 
 III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-Acreedores de Cuarta Clase.
+Acreedores de Tercera Clase.
 
 ###### Art. 3450.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### CAPITULO I.
+### CAPITULO VII.
 
-De las Oficinas del Registro.
+Acreedores de Cuarta Clase.
 
 ###### Art. 3451.
 
@@ -18885,9 +18957,9 @@ Con los bienes restantes serán pagados todos los demás créditos que no estén
 
 Del Registro Público de la Propiedad.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De los Títulos Sujetos a Registro y de los Efectos Legales del Mismo.
+De las Oficinas del Registro.
 
 ###### Art. 3453.
 
@@ -18901,9 +18973,9 @@ De los Títulos Sujetos a Registro y de los Efectos Legales del Mismo.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
-### CAPITULO III.
+### CAPITULO II.
 
-Del Modo de Hacer el Registro y de las Personas que Tienen Derecho de Pedir la Inscripción.
+De los Títulos Sujetos a Registro y de los Efectos Legales del Mismo.
 
 ###### Art. 3456.
 
@@ -18941,9 +19013,9 @@ Del Modo de Hacer el Registro y de las Personas que Tienen Derecho de Pedir la I
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
-### CAPITULO IV.
+### CAPITULO III.
 
-Del Registro de las Informaciones de Dominio.
+Del Modo de Hacer el Registro y de las Personas que Tienen Derecho de Pedir la Inscripción.
 
 ###### Art. 3465.
 
@@ -18997,17 +19069,17 @@ Del Registro de las Informaciones de Dominio.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
-### CAPITULO V.
+### CAPITULO IV.
 
-De las Inscripciones de Posesión.
+Del Registro de las Informaciones de Dominio.
 
 ###### Art. 3478.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
-### CAPITULO VI.
+### CAPITULO V.
 
-De la Extinción de las Inscripciones.
+De las Inscripciones de Posesión.
 
 ###### Art. 3479.
 
@@ -19028,6 +19100,10 @@ De la Extinción de las Inscripciones.
 ###### Art. 3483.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
+
+### CAPITULO VI.
+
+De la Extinción de las Inscripciones.
 
 ###### Art. 3484.
 
@@ -19305,7 +19381,7 @@ B.O. 12 DE JULIO DE 2007.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-P.O. 6 DE DICIEMBRE DE 2007.
+B.O. 6 DE DICIEMBRE DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -19444,3 +19520,11 @@ La Dirección General de Notarías instrumentará las acciones para operar el si
 ###### ARTÍCULO TERCERO.
 
 Las cartas poder que se hubieren otorgado con anterioridad a la entrada en vigor de este Decreto, seguirán en vigor hasta su terminación; sin embargo, la revocación o renuncia deberá hacerse constar en escritura pública en los términos de este Decreto.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 79, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
