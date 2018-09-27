@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-186-de-las-y-los-jovenes-del-estado-de-sonora-105992
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-22"
-last_updated: "2014-12-22"
+last_updated: "2018-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LAS Y LOS JÓVENES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 22 de diciembre de 2014.
 
@@ -245,9 +245,27 @@ I.- Las políticas públicas de atención integral a la juventud;
 
 II.- Los objetivos, prioridades, estrategias y metas para el desarrollo de la juventud en el Estado, acordes con los Planes Nacional y Estatal de Desarrollo y los Programas Sectoriales correspondientes;
 
-III.- Los proyectos y acciones específicas en virtud de los cuales se instrumentará la ejecución del Programa; y
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-IV.- Las acciones que cada uno de los integrantes del Sistema Estatal deberá realizar de acuerdo a su ámbito de competencia y naturaleza.
+III.- Los proyectos y acciones específicas en virtud de los cuales se instrumentará la ejecución del Programa;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- Las acciones que cada uno de los integrantes del Sistema Estatal deberá realizar de acuerdo a su ámbito de competencia y naturaleza; y
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+V.- La inclusión del programa Consentido Joven, con el objeto de asegurar la prevención de adicciones, embarazo prematuro, suicidio.
+
+El Instituto deberá brindar un constante y apropiado seguimiento a las circunstancias particulares de los Jóvenes que son beneficiados por dicho programa;
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+VI.- Acciones promotoras de la equidad de género; y
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+VII.- Estrategias para la prevención del delito en jóvenes.
 
 El Programa se sujetará a lo previsto en el Plan Estatal de Desarrollo, guardará congruencia con los demás programas y será el documento rector y orientador de las actividades de atención a la juventud.
 
@@ -529,6 +547,22 @@ XX.- Nombrar y remover, previa justificación y notificación a la Junta de Gobi
 
 XXI.- Las demás que le otorguen la Junta de Gobierno y las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 30 Bis.
+
+El Instituto tendrá un presupuesto que le será asignado de acuerdo con lo dispuesto por el Decreto de Egresos del Ejercicio Fiscal correspondiente, para lo cual se tomarán en cuenta los siguientes aspectos:
+
+I.- La operatividad del programa Consentido Joven, el cual será se (sic) programa base en materia de prevención;
+
+II.- La operatividad de sus programas creados para dar cumplimiento al objeto del Instituto;
+
+III.- La operatividad de sus oficinas y centros de atención a la juventud;
+
+IV.- Su nómina; y
+
+V.- Los demás que sean presupuestados en el Programa Operativo Anual.
+
 ### CAPÍTULO TERCERO. DEL CONSEJO CONSULTIVO ESTATAL DE LA JUVENTUD
 
 ###### Artículo 31.
@@ -726,3 +760,13 @@ GUILLERMO PADRÉS ELÍAS
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO ROMERO LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 259, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LOS Y LAS JÓVENES DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
