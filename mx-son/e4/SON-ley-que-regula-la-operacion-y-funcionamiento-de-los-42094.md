@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2018-06-07"
+last_updated: "2018-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -1151,11 +1151,11 @@ Las bebidas alcohólicas que sean recogidas y secuestradas en los términos de e
 
 Tratándose de bebidas alcohólicas adulteradas la Secretaría procederá, levantando un acta, a destruir los envases abiertos o cerrados que contengan dichas bebidas.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 81.
 
-Cumplido el plazo que señala el artículo anterior, tratándose de bebidas legalmente registradas, que no hubieren sido recuperadas, la Secretaría, mediante acta administrativa, procederá de inmediato a su enajenación, donación o destrucción y los recursos que se obtengan se enterarán a la Secretaría.
+Cumplido el plazo que señala el artículo anterior, tratándose de bebidas legalmente registradas, que no hubieren sido recuperadas, la Secretaría, mediante acta administrativa, procederá de inmediato a su enajenación, donación o destrucción y los recursos que se obtengan se enterarán a la Secretaría, salvo el caso que sean materia de algún procedimiento administrativo o jurisdiccional planteado por la parte inconforme, su disposición en las formas descritas en el precepto anterior, se hará hasta en tanto no se resuelva en definitiva su situación legal.
 
 ### CAPÍTULO XII. DE LAS SANCIONES
 
@@ -1696,3 +1696,11 @@ B.O. 7 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 214 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA Y A LA LEY DE HACIENDA DEL ESTADO".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 264, QUE REFORMA EL ARTÍCULO 81 DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
