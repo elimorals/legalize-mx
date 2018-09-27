@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2017-11-27"
+last_updated: "2018-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -477,13 +477,25 @@ Las autoridades competentes establecerán mecanismos eficaces para que la socied
 
 A este efecto, se creará el Comité Ciudadano de Seguridad Pública del Estado, adscrito al Consejo Estatal de Seguridad Pública.
 
-Los ayuntamientos determinarán reglamentariamente los lineamientos para la integración de sus Comités Ciudadanos de Seguridad Pública Municipales, debiendo procurar que se adopten los principios de organización y atribuciones que esta Ley establece, e incluir mecanismos institucionales de coordinación y comunicación con el Comité Ciudadano de Seguridad Pública del Estado con el propósito de armonizar la participación ciudadana organizada en el cumplimiento de los fines de este ordenamiento.
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Los ayuntamientos determinarán reglamentariamente los lineamientos para la integración de sus Comités Ciudadanos de Seguridad Pública Municipales, adoptando los principios de organización y atribuciones que esta Ley establece, debiendo sujetarse a las recomendaciones y lineamientos que emita el Comité Ciudadano de Seguridad Pública del Estado, incluyendo los mecanismos institucionales de coordinación y comunicación que determine este Comité, con el propósito de armonizar la participación ciudadana organizada en el cumplimiento de los fines de este ordenamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+El Comité Ciudadano de Seguridad Pública del Estado emitirá las recomendaciones y lineamientos necesarios para las situaciones que determine, las cuales se harán llegar al municipio a través de su Comité Ciudadano de Seguridad Pública Municipal, quien deberá de mantener constante comunicación y coordinación con el Comité Ciudadano de Seguridad Pública del Estado a efecto de conocer el grado de cumplimiento de dichas recomendaciones por parte de la institución de seguridad pública municipal, lo anterior a fin de salvaguardar la integridad y los derechos de las personas, las libertades, la paz y el orden público dentro del municipio afectado.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 El Sistema Estatal otorgará los apoyos materiales, de gestión o información necesarios para el correcto funcionamiento de los Comités Ciudadanos.
 
 ###### ARTÍCULO 28.
 
 El Comité Ciudadano de Seguridad Pública del Estado será una instancia autónoma, conformada por nueve representantes ciudadanos, que tiene por objeto coadyuvar con las autoridades de Seguridad Pública del Estado y de los Municipios, en el análisis del fenómeno delictivo, de las conductas antisociales y de las infracciones administrativas, generando propuestas de planes, programas y acciones de corto, mediano y largo plazo, para la consecución del objeto y fines de esta Ley.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+El Comité Ciudadano de Seguridad Pública del Estado podrá invitar a sus sesiones, cuando lo considere necesario, a representantes de los Comités Ciudadanos de Seguridad Pública Municipales, quienes asistirán con derecho a voz únicamente.
 
 ###### ARTÍCULO 29.
 
@@ -2990,3 +3002,11 @@ B.O. 27 DE NOVIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 226, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
