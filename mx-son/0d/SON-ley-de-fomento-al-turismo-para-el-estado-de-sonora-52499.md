@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-al-turismo-para-el-estado-de-sonora-52499"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-14"
-last_updated: "2017-08-03"
+last_updated: "2018-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de diciembre de 2006.
 
@@ -127,9 +127,17 @@ XIX.- Turismo de aventura.- Viajes que tienen como fin realizar actividades fís
 
 XX.- Turismo rural.- Aquellos viajes que tienen como fin realizar actividades de convivencia e interacción con una comunidad indígena o rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma, entre los cuales de manera enunciativa se encuentran: etnoturismo, eco-arqueología, agroturismo, preparación y uso de medicina tradicional, talleres gastronómicos, talleres artesanales, vivencias místicas, fotografía rural y aprendizaje de dialectos;
 
-XXI.- Turismo social.- Es aquel que comprende todos aquellos instrumentos y medios, a través de los cuales personas de recursos económicos limitados o con alguna discapacidad, tengan acceso a sitios de interés turístico que tengan como objeto lograr el descanso y el esparcimiento familiar, en condiciones adecuadas de economía, accesibilidad, seguridad y comodidad; y
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-XXII.- Turismo doméstico.- Es el turismo que se realiza dentro del territorio sonorense, entre los mismos habitantes del Estado, mediante la visita de lugares diferentes a los de su residencia.
+XXI.- Turismo social.- Es aquel que comprende todos aquellos instrumentos y medios, a través de los cuales personas de recursos económicos limitados o con alguna discapacidad, tengan acceso a sitios de interés turístico que tengan como objeto lograr el descanso y el esparcimiento familiar, en condiciones adecuadas de economía, accesibilidad, seguridad y comodidad;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XXII.- Turismo doméstico.- Es el turismo que se realiza dentro del territorio sonorense, entre los mismos habitantes del Estado, mediante la visita de lugares diferentes a los de su residencia; y
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII.- Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán conforme a lo establecido en la Ley General del Turismo.
 
 ###### ARTÍCULO 3.
 
@@ -168,6 +176,10 @@ VII.- Celebrar convenios de coordinación con el Estado, y/o a través de este c
 VIII.- Ejercer las funciones que le descentralice el Estado en materia de turismo;
 
 IX.- Participar en las instancias estatales y nacionales que se constituyan para la promoción e impulso de la actividad turística;
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+IX Bis.- Impulsar la actividad turística en las Zonas de Desarrollo Turístico Sustentable, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población, en el ámbito de sus respectivas competencias. También podrán presentar ante la Secretaría de Turismo de la Administración Pública Federal, proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable;
 
 X.- Coadyuvar en la vigilancia de las disposiciones de la presente ley, en los términos de los convenios de coordinación correspondientes;
 
@@ -253,7 +265,15 @@ VII.- Fomentar y promover el turismo social, turismo de salud y el turismo alter
 
 VIII.- Inducir la participación de los sectores público, social y privado en la planeación, ejecución y evaluación de las acciones de fomento y promoción turística;
 
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+VIII Bis.- Impulsar a las micro, pequeñas y medianas empresas turísticas que operen en el Estado y los municipios;
+
 IX.- Brindar apoyo técnico, a los ayuntamientos de la Entidad que lo soliciten en materia de promoción turística;
+
+> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+IX Bis.- Impulsar la actividad turística en las Zonas de Desarrollo Turístico Sustentable, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población, en el ámbito de sus respectivas competencias. También podrá presentar ante la Secretaría de Turismo de la Administración Pública Federal, proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable;
 
 X.- Proponer ante la instancia estatal correspondiente y, en su caso, a los ayuntamientos, el otorgamiento de estímulos para impulsar el desarrollo de la actividad turística de la región;
 
@@ -539,6 +559,18 @@ XIII.- Turismo de Salud.
 
 El Ejecutivo del Estado, a través de la Cofetur, promoverá ante las instancias federales competentes en materia turística, su participación en los programas de promoción turística e inversión que se lleven a cabo en territorio nacional o en el extranjero, con el fin de impulsar el desarrollo turístico del Estado.
 
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 30 Bis.
+
+La Cofetur podrá expedir programas de ordenamiento turístico estatal, con la participación de los Ayuntamientos, los cuales tendrán por objeto:
+
+I.- Determinar el área a ordenar, describiendo sus recursos turísticos; incluyendo un análisis de riesgos de las mismas;
+
+II.- Proponer los criterios para la determinación de los planes o programas de desarrollo urbano, así como del uso del suelo, con el propósito de preservar los recursos naturales y aprovechar de manera ordenada y sustentable los recursos turísticos respectivos, y
+
+III.- Definir los lineamientos para su ejecución, seguimiento, evaluación y modificación.
+
 ### CAPÍTULO II. DE LOS PROGRAMAS MUNICIPALES DE FOMENTO AL TURISMO
 
 ###### ARTÍCULO 31.
@@ -595,13 +627,19 @@ VII.- Crear las condiciones propicias para que las personas con discapacidad pue
 
 VIII.- Observar estrictamente las disposiciones de las Leyes Federal de Turismo y de Protección al Consumidor, Normas Oficiales Mexicanas, la presente ley y su reglamento y demás normatividad relativa al desempeño de su actividad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 12 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-IX.- Participar en el cuidado de la imagen turística del Estado mediante la observancia de las obligaciones a su cargo establecidas en esta Ley, y los demás ordenamientos que incidan en el turismo; y
+IX.- Participar en el cuidado de la imagen turística del Estado mediante la observancia de las obligaciones a su cargo establecidas en esta Ley, y los demás ordenamientos que incidan en el turismo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 12 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-X.- Las demás que les señalen la presente ley, su reglamento y las demás disposiciones normativas que de ella emanen.
+X.- Los prestadores de servicios turísticos que cuenten con albercas o tengan acceso a la playa deberán contar con personal capacitado para realizar funciones de salvavidas, así como los demás requerimientos que establezca el reglamento de esta Ley que sean necesarios para la prevención, salvamento y rescate acuático de personas.
+
+Se entiende para efectos de la presente Ley como Salvavidas, aquella persona certificada para ejercer actividades de prevención, salvamento y rescate acuático; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+XI.- Las demás que les señalen la presente ley, su reglamento y las demás disposiciones normativas que de ella emanen.
 
 ### CAPÍTULO II. DE LA CAPACITACIÓN
 
@@ -667,6 +705,12 @@ V.- La demás información que el prestador de servicios turísticos estime nece
 
 Los prestadores de servicios turísticos inscritos en el Registro Estatal de Turismo actualizarán los datos contenidos en el mismo durante el mes de enero de cada año.
 
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 40 Bis.
+
+La Cofetur coadyuvará con la Secretaría (sic)Turismo federal en la integración del Registro Nacional de Turismo, de acuerdo a las disposiciones contenidas en la Ley General de Turismo y a la normatividad que se emita al respecto.
+
 ## TÍTULO SÉPTIMO. DEL FOMENTO A LA ACTIVIDAD TURÍSTICA
 
 ### CAPÍTULO I. DE LA PROMOCIÓN TURÍSTICA
@@ -692,6 +736,10 @@ La Cofetur podrá convenir con las autoridades federales, municipales y los pres
 ###### ARTÍCULO 45.
 
 La Cofetur promoverá la concertación e inducción de acciones con los tres niveles de gobierno y con los sectores social y privado para el desarrollo ordenado del turismo social dentro y fuera del Estado.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+Las dependencias y entidades del Poder Ejecutivo estatal y de los Ayuntamientos del Estado, promoverán entre sus trabajadores el turismo social.
 
 ###### ARTÍCULO 46.
 
@@ -793,15 +841,29 @@ La Cofetur promoverá ante la autoridad competente la elaboración o actualizaci
 
 ARTÍCULO 62 BIS.- Para los efectos de esta Ley, se entenderá que el Turismo de Salud es una actividad estratégica para la política de turismo, que comprende desarrollar una infraestructura sanitaria y de recuperación para turistas que demandan una alta especialización, el acceso más rápido y menores costos.
 
-### CAPÍTULO ÚNICO. DE LAS VISITAS DE VERIFICACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO ÚNICO. SANCIONES Y RECURSOS
+### CAPÍTULO VII (SIC). DEL TURISMO ACCESIBLE
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 62 Ter.
+
+La Cofetur, con el apoyo y en coordinación de las dependencias y entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 62 Quarter.- Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
+
+La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
+
+La Cofetur y los Ayuntamientos supervisarán que lo dispuesto en este capítulo se cumpla.
+
+### CAPÍTULO ÚNICO. DE LAS VISITAS DE VERIFICACIÓN
 
 ## TÍTULO OCTAVO. DE LAS VISITAS DE VERIFICACIÓN
 
-### CAPÍTULO ÚNICO. DE LAS SITUACIONES DE EMERGENCIA, DESASTRE O IMPACTO SOCIAL
-
-> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
+### CAPÍTULO ÚNICO. SANCIONES Y RECURSOS
 
 ###### ARTÍCULO 63.
 
@@ -841,6 +903,10 @@ En caso de que de las visitas de verificación practicadas conforme al presente 
 
 ## TÍTULO NOVENO. SANCIONES Y RECURSOS
 
+### CAPÍTULO ÚNICO. DE LAS SITUACIONES DE EMERGENCIA, DESASTRE O IMPACTO SOCIAL
+
+> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 68.
 
 El incumplimiento a las disposiciones de esta ley y su reglamento por parte de los prestadores de servicios turísticos, de los desarrolladores turísticos, dará lugar a que la Cofetur, imponga cualquiera de las siguientes sanciones:
@@ -858,6 +924,12 @@ III.- Multa de hasta quinientas unidades de medida y actualización.
 En caso de reincidencia podrá aplicar multa de hasta mil unidades de medida y actualización.
 
 Las sanciones de carácter económico a que se refiere el presente artículo se harán efectivas por la Secretaría de Hacienda, para lo cual se seguirán los procedimientos administrativos respectivos establecidos en el Código Fiscal del Estado.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 68 BIS.- Los prestadores de servicios turísticos en el Estado que incumplan con la obligación prevista en el artículo 34, fracción X de la presente Ley, se le aplicará una multa de 50 a 100 días de unidades de medida y actualización.
+
+Los prestadores de servicios turísticos que sean sancionados en los términos del párrafo anterior, contarán con un plazo de 60 días naturales contados a partir del día siguiente en que haya sido notificada la sanción para contratar al Salvavidas.
 
 ###### ARTÍCULO 69.
 
@@ -906,6 +978,34 @@ Atendiendo a lo dispuesto en el artículo anterior, la Unidad Estatal de Protecc
 ###### ARTÍCULO 75.
 
 La Unidad Estatal de Protección Civil y los Municipios, en el ámbito de sus respectivas competencias, vigilarán que los prestadores de servicios turísticos cumplan con las disposiciones establecidas en la Ley de Protección Civil del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 76.
+
+El personal que sea contratado como salvavidas por parte de los prestadores de servicios turísticos, deberán contar con un certificado mediante el cual se haga constar que cuenta con la capacitación suficiente para el desempeño de la labor, debiendo renovar su certificación cada tres años.
+
+La certificación podrá ser expedida por cualquiera de las autoridades o instituciones que señale el reglamento de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 77.
+
+Los Salvavidas deberán demostrar la certificación de los siguientes conocimientos:
+
+I.- Educación básica;
+
+II.- Natación;
+
+III.- Primeros Auxilios;
+
+IV.- Reanimación Cardiopulmonar;
+
+V.- Maniobras de rescate acuático;
+
+VI.- Interpretación del boletín meteorológico que proporcione la Unidad de Protección Civil; y
+
+VII.- Utilización de equipo de rescate acuático, incluyendo medios mecánicos.
 
 T R A N S I T O R I O S
 
@@ -984,3 +1084,31 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 258, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los prestadores de servicios turísticos, contarán con un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto para dar cumplimiento a la obligación impuesta en el artículo 34, fracción X.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Ejecutivo del Estado contará con un plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto para actualizar el Reglamento de la Ley de Fomento al Turismo para el Estado de Sonora, en los términos aquí previstos.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 265, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Cofetur emitirá los lineamientos, a que hace referencia la fracción III del artículo 30 Bis, a más tardar a los 60 días hábiles posteriores a la entrada en vigor del presente Decreto, los cuales deberán publicarse en el Boletín Oficial del Gobierno del Estado de Sonora.
