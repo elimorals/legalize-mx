@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-8-2015-del-pleno-del-consejo-de-la-106090"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-27"
-last_updated: "2017-01-02"
+last_updated: "2018-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106090&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-02-23"
 
 ACUERDO GENERAL 8/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de febrero de 2015.
 
@@ -519,9 +519,11 @@ Cuando por motivos de la especialización de los tribunales colegiados deje de f
 
 Respecto a la entrega de las grabaciones, libros auxiliares, documentación y demás objetos tramitados, elaborados y asignados al Pleno sin especialización, así como diversa documentación de carácter administrativo como son facturas de correspondencia, actas de sesiones, listas, entre otros, se separará por materia y se entregará al Pleno de Circuito especializado que corresponda. En caso de que lo anterior no sea posible, deberán entregarse los elementos no clasificados para su resguardo, al Pleno que corresponda en atención al estricto orden alfabético de la materia.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 53.
 
-Una vez que se ordene el archivo definitivo de los expedientes electrónicos referidos, deberán remitirse a la Dirección General de Tecnologías de la Información para que se genere un archivo virtual inmodificable, al cual los magistrados integrantes del Pleno y el secretario de acuerdos en funciones, tendrán acceso mediante una conexión de internet.
+Los expedientes electrónicos de los que se haya ordenado su archivo definitivo deberán incorporarse al Sistema Electrónico a través de su herramienta tecnológica que ahora se denomina "Archivo Inmodificable", con lo cual se generará automáticamente el archivo virtual inmodificable, permitiendo imprimir el acuse correspondiente. Los magistrados integrantes del Pleno y el secretario de acuerdos en funciones, tendrán acceso mediante una conexión de internet.
 
 ###### Artículo 54.
 
@@ -590,3 +592,11 @@ QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidade
 SEXTO. Los asuntos que se encuentren en trámite en la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos a la entrada en vigor del presente Acuerdo, serán atendidos por la Secretaría Ejecutiva de Carrera Judicial o por la Secretaría Ejecutiva de Creación de Nuevos Órganos, según corresponda conforme a su ámbito de competencia.
 
 SÉPTIMO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
+
+D.O.F. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 28/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de octubre de dos mil dieciocho.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en los portales del Consejo de la Judicatura Federal y del Sistema Electrónico de Plenos de Circuito en Internet.
