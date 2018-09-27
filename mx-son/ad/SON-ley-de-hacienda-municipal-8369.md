@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2017-08-03"
+last_updated: "2018-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -593,9 +593,9 @@ Cuando los sujetos del impuesto predial, a que se refieren las fracciones I y II
 
 Para los efectos anteriores, se consideran jubilados o pensionados aquellas personas que acrediten la calidad correspondiente.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
-Si el sujeto del impuesto predial no posee la calidad de pensionado o jubilado, pero demuestra una edad superior a los sesenta y cinco años o ser discapacitado, o acredita una antigüedad de cuatro años o más, prestando sus servicios como socorrista de Cruz Roja Mexicana I. A. P., en cualquiera de sus Delegaciones o Bases en el Estado de Sonora, tendrá derecho a la reducción del cincuenta por ciento del importe del impuesto predial de su vivienda, previo estudio socioeconómico que acredite ser de escasos recursos.
+Si el sujeto del impuesto predial no posee la calidad de pensionado o jubilado, pero demuestra una edad superior a los sesenta y cinco años o más o ser discapacitado, o acredita una antigüedad de cuatro años o más, prestando sus servicios como socorrista de (sic) Cruz Roja Mexicana I. A. P.. (sic) en cualquiera de sus Delegaciones o Bases en el Estado de Sonora, o como bombero o voluntario, en cualquiera de los 72 municipios del Estado de Sonora, tendrá derecho a la reducción del cincuenta por ciento del importe del impuesto predial de su vivienda, previo estudio socioeconómico que acredite ser de escasos recursos.
 
 ###### ARTICULO 54.
 
@@ -1951,7 +1951,7 @@ W).- Abarrotes.
 
 Deberá considerarse el caso de expedición de anuencias municipales por cambio de domicilio.
 
-l.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
+lI.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
 
 A).- Fiestas sociales o familiares,
 
@@ -2970,3 +2970,11 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 262, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY DE HACIENDA MUNICIPAL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
