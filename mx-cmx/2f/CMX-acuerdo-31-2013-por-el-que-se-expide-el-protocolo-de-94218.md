@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-31-2013-por-el-que-se-expide-el-protocolo-de-94218"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-05-16"
-last_updated: "2013-05-16"
+last_updated: "2018-09-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94218&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2013-05-08"
 ---
 # ACUERDO 31/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACION POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL PARA PRESERVAR LOS DERECHOS HUMANOS DE LAS PERSONAS QUE PERTENEZCAN A LA POBLACION LESBICO, GAY, BISEXUAL, TRANSGENERO, TRANSEXUAL, TRAVESTI E INTERSEXUAL (LGBTTTI)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO 55/2018, POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO PARA PRESERVAR LOS DERECHOS HUMANOS DE LAS PERSONAS QUE PERTENEZCAN A LA POBLACIÓN LÉSBICO, GAY, BISEXUAL, TRANSGÉNERO, TRANSEXUAL, TRAVESTÍ E INTERSEXUAL (LGBTTTI), PUBLICADO EN LA G.O. DE 27 DE SEPTIEMBRE DE 2018, EL PRESENTE ACUERDO HA QUEDADO SIN EFECTOS.]</small>
+
 ACUERDO 31/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL PARA PRESERVAR LOS DERECHOS HUMANOS DE LAS PERSONAS QUE PERTENEZCAN A LA POBLACIÓN LÉSBICO, GAY, BISEXUAL, TRANSGÉNERO, TRANSEXUAL, TRAVESTI E INTERSEXUAL (LGBTTTI)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE SEPTIEMBRE DE 2018 (SIN EFECTOS).
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de mayo de 2013.
 
@@ -315,3 +317,15 @@ En los supuestos que derivado de la detención de personas probables responsable
 ### CAPÍTULO IV (SIC). CONFIDENCIALIDAD DE LAS ACTUACIONES
 
 En ningún caso se permitirá a la Policía del Distrito Federal, difundir imágenes de personas detenidas de la población LGBTTTI, ni se facilitarán datos que permitan su identificación, con pleno cumplimiento de las normas relativas a la protección jurídica de la Ley de Protección de Datos Personales, especialmente el derecho al honor, a la intimidad, a la propia imagen y a la protección de la misma como medida de no discriminación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 55/2018, POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO PARA PRESERVAR LOS DERECHOS HUMANOS DE LAS PERSONAS QUE PERTENEZCAN A LA POBLACIÓN LÉSBICO, GAY, BISEXUAL, TRANSGÉNERO, TRANSEXUAL, TRAVESTÍ E INTERSEXUAL (LGBTTTI)”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se deja sin efectos el ACUERDO 31 /2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL PARA PRESERVAR LOS DERECHOS HUMANOS DE LAS PERSONAS QUE PERTENEZCAN A LA POBLACIÓN LÉSBICO, GAY, BISEXUAL, TRANSGÉNERO, TRANSEXUAL, TRAVESTI E INTERSEXUAL (LGBTTTI), publicado en la Gaceta Oficial del Distrito Federal el 16 de mayo de 2013.
+
+TERCERO. Se instruye a la Jefatura del Estado Mayor Policial, las Subsecretarías de Operación Policial Zona Norte y Zona Sur, la Subsecretaría de Control de Tránsito, la Subsecretaría de Desarrollo Institucional, la Subsecretaría de Participación Ciudadana y Prevención del Delito, y a la Oficialía Mayor de esta dependencia para que en el ámbito de sus atribuciones provean lo necesario para la implementación del presente Acuerdo, y la actualización de la normatividad institucional.
