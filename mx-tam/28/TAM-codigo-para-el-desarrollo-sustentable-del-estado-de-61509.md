@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2018-03-20"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -782,6 +782,14 @@ La Secretaría deberá elaborar y publicar un informe detallado de la situación
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
 5. El Estado y los Municipios, en el ámbito de sus respectivas competencias, promoverán la investigación, desarrollo y aplicación de tecnologías, equipos, procesos y sistemas que permitan prevenir, controlar y abatir la contaminación en la producción, uso y disposición de bolsas de plástico, a fin de contribuir a que en su ciclo de vida se minimicen los impactos negativos al ambiente, así como a la reducción en la fuente, separación, reutilización y, en su caso, el reciclaje, de las mismas.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+6. Para la protección ambiental del Estado de Tamaulipas y sujeto a los términos señalados en esta Ley y de las disposiciones que de ella emanen, se restringe la venta, dádiva y uso de bolsas en supermercados, tiendas de autoservicio, tiendas de conveniencia, mercados y demás similares elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+7. Quedan exentas de la restricción del párrafo anterior aquellas bolsas que hayan sido producidas incorporando un porcentaje mínimo de treinta por ciento (30%) de material reciclado y que la fabricación de dichas bolsas de plástico sea con materiales y procesos de tecnología que permitan su ágil degradación acorde a la norma NMX-E- 267 o las que la sustituyan.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -4888,6 +4896,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 20 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-388 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y EL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-461 MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS 6 Y 7 AL ARTÍCULO 36, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
