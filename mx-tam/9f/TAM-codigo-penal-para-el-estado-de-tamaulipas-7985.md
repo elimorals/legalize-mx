@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2018-07-12"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -5495,11 +5495,11 @@ Si además de los daños resulta consumado algún otro delito se observarán las
 
 Los delitos previstos en este título se perseguirán por querella de la parte ofendida cuando sean cometidos por un ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado; concubina, o concubinario, adoptante o adoptado y parientes por afinidad, asimismo, hasta el segundo grado. Igualmente se requerirá querella para la persecución de terceros que hubiesen incurrido en la ejecución del delito con los sujetos referidos anteriormente. Si se cometiere algún otro hecho que por sí solo constituya un delito, se aplicará la sanción que para éste señale la Ley.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 438.
 
-Los delitos de abuso de confianza, fraude, fraude laboral, despojo de cosas inmuebles o de aguas y daño en propiedad, se perseguirán a instancia de parte ofendida.
+Los delitos de abuso de confianza, fraude, fraude laboral, despojo de cosas inmuebles o de aguas y daño en propiedad, se perseguirán a instancia de parte ofendida. El delito de extorsión se perseguirá de oficio, con excepción de los supuestos establecidos en el artículo anterior.
 
 ## TITULO VIGESIMO. ENCUBRIMIENTO
 
@@ -6642,6 +6642,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-449 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO, TERCERO Y CUARTO DEL ARTÍCULO 362, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-465 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 438 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
