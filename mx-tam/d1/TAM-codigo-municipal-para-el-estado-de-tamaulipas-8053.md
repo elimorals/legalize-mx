@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2018-05-03"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -939,9 +939,7 @@ Para el ejercicio de las facultades y obligaciones que corresponden a los Síndi
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2014)</small>
 
-### CAPITULO XI
-
-DEL REGIMEN ADMINISTRATIVO.
+### CAPITULO XI. DEL REGIMEN ADMINISTRATIVO
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -997,7 +995,11 @@ XI.- De Estadística Municipal.
 
 XII.- De Juventud.
 
-XIII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XIII.- De Protección a los Animales.
+
+XIV.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -1031,9 +1033,9 @@ Para ser Secretario del Ayuntamiento se requiere:
 
 I.- Ser ciudadano en pleno uso de sus derechos políticos y civiles y no ser miembro del Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-II.- Tener suficiente instrucción, capacidad y honestidad, a juicio del Ayuntamiento. En los municipios que tengan una población que exceda de 50,000 habitantes deberá poseer título de abogado.
+II.- Tener suficiente instrucción, capacidad y honestidad, a juicio del Ayuntamiento. En los municipios cuya población sea superior a 50,000 habitantes, deberá poseer título de Licenciado en Derecho o su equivalente;
 
 III.- No haber sido condenado por sentencia que haya causado ejecutoria, por delito intencional.
 
@@ -2315,7 +2317,7 @@ El Congreso del Estado revisará la Cuenta Pública de cada uno de los Ayuntamie
 
 ### CAPITULO II. DE LA PLANEACION MUNICIPAL
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 168.
 
@@ -2595,11 +2597,11 @@ Las resoluciones del Ayuntamiento en materia de cancelación o caducidad de las 
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 182.
+###### ARTÍCULO 182.
 
-Los Ayuntamientos, para el cumplimiento de sus fines y aprovechamiento de sus recursos, formularán el Plan Municipal de Desarrollo considerando los Sistemas Nacional y Estatal de Planeación Democrática y atendiendo a criterios de planeación estratégica, que permitan una visión de largo plazo y de participación democrática que considere la incorporación de los grupos sociales, a través de los mecanismos de consulta previstos en la Ley Estatal de Planeación.
+Los Ayuntamientos, para el cumplimiento de sus fines y aprovechamiento de sus recursos, formularán el Plan Municipal de Desarrollo considerando los Sistemas Nacional y Estatal de Planeación Democrática y atendiendo a criterios de planeación estratégica, que permitan una visión de largo plazo y de participación democrática que considere la incorporación de los grupos sociales y del principio de igualdad entre el hombre y la mujer, a través de los mecanismos de consulta previstos en la Ley Estatal de Planeación.
 
-En consecuencia, en el proceso de formulación del Plan Municipal de Desarrollo se alentará la participación de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones en las etapas de elaboración, actualización y ejecución, así como de los programas que de él se deriven e incluirá las estrategias, objetivos y acciones de largo plazo que permitan el crecimiento ordenado de las zonas urbanas y el desarrollo óptimo de las actividades económicas y productivas prioritarias de la localidad.
+En consecuencia, en el proceso de formulación del Plan Municipal de Desarrollo se alentará la participación de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones en las etapas de elaboración, actualización y ejecución, así como de los programas que de él se deriven e incluirá las estrategias, objetivos y acciones de largo plazo que permitan el crecimiento ordenado de las zonas urbanas, el desarrollo óptimo de las actividades económicas y productivas prioritarias de la localidad, y se alcance una sociedad más igualitaria, sin las limitaciones impuestas por los roles tradicionales en función del género, y en la que se tengan en cuenta, valoren y potencien por igual las distintas conductas, aspiraciones y necesidades de mujeres y hombres.
 
 > <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
 
@@ -2654,6 +2656,10 @@ Todo cambio realizado al Plan Municipal de Desarrollo con motivo de su perfeccio
 ###### ARTICULO 188.
 
 El titular del área responsable de la planeación municipal vigilará que se cumpla con los objetivos, estrategias y prioridades del Plan Municipal de Desarrollo, y de los planes sectoriales que de él se deriven, y la Contraloría Municipal vigilará que la ejecución de los programas se realice conforme a sus previsiones.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Se observará que siempre se cumpla con la igualdad entre mujeres y hombres a través de la incorporación con perspectiva de género.
 
 ### CAPITULO II. DE LAS RELACIONES INDIVIDUALES DE TRABAJO
 
@@ -5717,7 +5723,7 @@ P.O. 24 DE DICIEMBRE DE 2008.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día .siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 29 DE DICIEMBRE DE 2008.
 
@@ -6121,8 +6127,32 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 
 P.O. 3 DE MAYO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIII-398 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE IMPRENTA Y DE LA LEY ESTATAL DE PLANEACIÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-398 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE IMPRENTA Y DE LA LEY ESTATAL DE PLANEACIÓN”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-463 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS; Y SE ADICIONA LA FRACCIÓN XIII, RECORRIÉNDOSE LA ACTUAL PARA SER XIV DEL ARTÍCULO 64 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-464 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PLANEACIÓN Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-468 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 67, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
