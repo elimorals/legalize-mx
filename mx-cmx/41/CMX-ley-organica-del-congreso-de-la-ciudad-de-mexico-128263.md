@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2018-05-04"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -178,7 +178,9 @@ LI. Vicepresidente: La o el Vicepresidente de la Mesa Directiva del Congreso.
 
 LII. Parlamento Abierto. Son las normas y mecanismos establecidos para asegurar y promover el derecho a la información de los ciudadanos; la participación ciudadana y la rendición de cuentas; la difusión de la información parlamentaria, de manera proactiva, con la mayor cantidad de información relevante para las personas, utilizando formatos sencillos, mecanismos de búsqueda simples y bases de datos en línea con actualización periódica, incluyendo la información presupuestal y administrativas (sic); información detallada sobre los representantes populares y los servidores públicos que lo integran, incluidas la declaración patrimonial y el registro de intereses de los representantes; Información histórica; que presenta la información con característica de datos abiertos, aseguran que las instalaciones, las sesiones y reuniones sean accesibles y abiertas al público; regulan, ordenan y transparentan las acciones de cabildeo, cuentan con mecanismos para evitar conflictos de intereses y aseguran la conducta ética de los representantes; y aprueban leyes que favorecen políticas de gobierno abierto en otros poderes y órdenes de gobierno.
 
-LIII. Asociación Parlamentaria. Asociación de un grupo de Diputadas y Diputados pertenecientes a diferentes partidos políticos y que no alcancen el número mínimo para constituir un Grupo Parlamentario, podrán asociarse con la denominación que acuerden previamente y siempre que la suma de sus integrantes sea mayor a dos.
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+LIII. Asociación Parlamentaria. Asociación de un grupo de Diputadas y Diputados pertenecientes a diferentes partidos políticos, o sin partido, y que no alcancen el número mínimo para constituir un Grupo Parlamentario, podrán asociarse con la denominación que acuerden previamente y siempre que la suma mínima de sus integrantes sea de dos.
 
 LIV. Coalición Parlamentaria. Unión entre dos o más grupos parlamentarios cuyos partidos políticos conformen un gobierno de coalición, la cual será de carácter permanente y tendrá como fin impulsar la agenda legislativa establecida en el Programa y Convenio del Gobierno de Coalición.
 
@@ -192,7 +194,9 @@ En los casos previstos por el reglamento o porque así lo acuerden más de las d
 
 Para efectos legales, se consideran parte del Recinto oficial los inmuebles que alberguen las dependencias del Congreso.
 
-Tanto la sede oficial como las demás instalaciones que ocupa el Congreso para su actividad son inviolables por persona o autoridad alguna. Queda prohibido a toda fuerza pública tener acceso al mismo, salvo con permiso de la o el Presidente de la Mesa Directiva del Congreso o en los recesos por la o el Presidente de la Comisión Permanente, quienes podrán solicitar el auxilio o intervención inmediata de la misma para salvaguardar el fuero constitucional de las y los Diputados, la inviolabilidad del Recinto y demás instalaciones del Congreso.
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Tanto la sede oficial como las demás instalaciones que ocupa el Congreso para su actividad son inviolables por persona o autoridad alguna. Queda prohibido a toda fuerza pública tener acceso al mismo, salvo con permiso de la o el Presidente de la Mesa Directiva del Congreso o en los recesos por la o el Presidente de la Comisión Permanente, quienes podrán solicitar el auxilio o intervención inmediata de la misma para salvaguardar la inviolabilidad del Recinto y demás instalaciones del Congreso.
 
 Cuando sin mediar autorización se hiciere presente la fuerza pública, la o el Presidente de la Mesa Directiva podrá decretar la suspensión de la sesión hasta que dicha fuerza hubiese abandonado el Recinto.
 
@@ -810,9 +814,11 @@ A las reuniones de la Mesa concurrirá la o el Coordinador de Servicios Parlamen
 
 ### CAPÍTULO III. De la Presidencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 31.
 
-La Presidencia de la Mesa Directiva se depositará en la o el Presidente del Congreso y expresa su unidad, garantiza el fuero constitucional de las y los Diputados, y vela por la inviolabilidad del Palacio Legislativo y demás instalaciones del Congreso.
+La Presidencia de la Mesa Directiva se depositará en la o el Presidente del Congreso y expresa su unidad, velando por la inviolabilidad del Palacio Legislativo y demás instalaciones del Congreso.
 
 La o el Presidente conduce las relaciones institucionales con el Congreso y las autoridades locales de la Ciudad de México.
 
@@ -980,15 +986,21 @@ I. Cuando menos por dos Diputadas o Diputados que tengan un mismo origen partida
 
 II. En ningún caso pueden constituir un Grupo Parlamentario separado las y los Diputados que tengan un mismo origen partidario y/o pertenezcan a un mismo partido. Ninguna Diputada o Diputado podrá formar parte de más de un Grupo Parlamentario, pero habiéndose separado del primero se considerará sin partido;
 
-III. Cuando de origen existan Diputadas o Diputados pertenecientes a diferentes partidos políticos y que no alcancen el número mínimo para constituir un Grupo Parlamentario, podrán asociarse a efecto de conformar una Coalición Parlamentaria con la denominación que acuerden previamente y siempre que la suma de sus integrantes sea mayor a dos;
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+III. Cuando de origen existan Diputadas o Diputados pertenecientes a diferentes partidos políticos y que no alcancen el número mínimo para constituir un Grupo Parlamentario, podrán asociarse a efecto de conformar una Asociación Parlamentaria con la denominación que acuerden previamente y siempre que la suma mínima de sus integrantes sea de dos.
 
 IV. La Coalición Parlamentaria podrá constituirse a partir del día siguiente a la conformación de la Junta, mediante convenio suscrito por las y los Diputados integrantes. Ésta se equiparará respecto de los derechos, beneficios y/o prerrogativas que esta ley les otorga a un Grupo Parlamentario;
 
 V. Para los efectos anteriores deberá comunicar su constitución a la Junta, quien lo hará del conocimiento del Pleno en la sesión ordinaria posterior a la comunicación;
 
-VI. Las Coaliciones Parlamentarias tendrán acceso a los derechos, beneficios y/o prerrogativas, una vez que los Grupos Parlamentarios hayan ejercido los suyos, y
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-VII. La integración de una Coalición Parlamentaria sólo podrá ser de carácter permanente, por lo que en caso de disolución de la misma o separación de alguna o algunos de sus integrantes, las o los Diputados que dejen de formar parte de la misma perderán los beneficios, prerrogativas y responsabilidades a los que hayan tenido acceso como integrantes de dicha Coalición y recuperarán la condición previa a la conformación de ésta, por lo que no podrán integrarse a otro Grupo Parlamentario, debiéndoseles guardar las mismas consideraciones que a todas las y los legisladores y apoyándolos, conforme a las posibilidades del Congreso, para que puedan desempeñar sus atribuciones de representación popular.
+VI. Las Coaliciones y Asociaciones Parlamentarias tendrán acceso a los derechos, beneficios y/o prerrogativas, una vez que los Grupos Parlamentarios hayan ejercido los suyos, y
+
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+VII. La integración de un Grupo Parlamentario, Coalición o Asociación Parlamentaria sólo podrá ser de carácter permanente, por lo que en caso de disolución del mismo o separación de alguna o algunos de sus integrantes, las o los Diputados que dejen de formar parte del mismo perderán los beneficios, prerrogativas y responsabilidades a los que hayan tenido acceso como integrantes de dicho Grupo Parlamentario, Coalición o Asociación y recuperarán la condición previa a la conformación de ésta, por lo que no podrán integrarse a otro Grupo Parlamentario, Coalición o Asociación, debiéndoseles guardar las mismas consideraciones que a todas las y los legisladores y apoyándolos, conforme a las posibilidades del Congreso, para que puedan desempeñar sus atribuciones de representación popular.
 
 ###### Artículo 37.
 
@@ -1040,41 +1052,47 @@ I. Entre distintos Grupos Parlamentarios;
 
 II. Entre un Grupo Parlamentario y uno o más Diputados que no pertenecen a un Grupo y/o partido político, y
 
-III. Entre mínimo tres Diputados que no pertenecen a un Grupo Parlamentario y/o partido político.
+III. (DEROGADA, G.O. 28 DE SEPTIEMBRE DE 2018)
 
-Las Coaliciones entre distintos Grupos Parlamentarios solo podrán constituirse en caso de Gobierno de Coalición.
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+La Asociación Parlamentaria se integrará con un mínimo de dos Diputados.
+
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 44.
 
-Las Coaliciones Parlamentarias tendrán las mismas obligaciones y beneficios que los Grupos Parlamentarios y se regularan conforme a este capítulo y lo previsto en las disposiciones reglamentarias del Congreso.
+Las Coaliciones y Asociaciones Parlamentarias tendrán las mismas obligaciones y beneficios que los Grupos Parlamentarios y se regularán conforme a este capítulo y lo previsto en las disposiciones reglamentarias del Congreso.
 
 ## TÍTULO CUARTO. DE LA JUNTA DE COORDINACIÓN POLÍTICA
 
 ### CAPÍTULO I. De su integración
 
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 45.
 
-La Junta se integra con las y los Coordinadores de cada Grupo Parlamentario con mayoría absoluta en el Congreso.
+Al inicio de la Legislatura se instalará la Junta de Coordinación Política la cual se integra con las y los Coordinadores y Vicecoordinadores de los Grupos, Coaliciones o Asociaciones Parlamentarias, representados en el Congreso de la Ciudad de México.
 
 Los votos de cada Grupo Parlamentario serán ponderados con relación al número de integrantes que éste tenga en el Congreso.
 
-En este supuesto en caso de ausencia de la o el Coordinador de algún Grupo Parlamentario en la sesión respectiva de la Junta, podrá actuar y votar en consecuencia, la o el Vicecoordinador.
+En este supuesto, en caso de ausencia de la o el Coordinador de algún Grupo, Coalición o Asociación Parlamentaria en la sesión respectiva de la Junta, podrá actuar y votar en consecuencia, la o el Vicecoordinador.
 
 Las y los Diputados independientes, podrán asistir a la Junta, contando con derecho a voz y sin voto en las determinaciones que se tomen, previa autorización del Congreso.
 
-La Junta queda instalada en el momento que la mayoría de los Grupos Parlamentarios informen a la Coordinación de Servicios Parlamentarios el nombre de su Coordinadora o Coordinador parlamentario.
+La o el presidente de la Mesa Directiva notificará a los Coordinadores de los Grupos, Coaliciones o Asociaciones Parlamentarias, la conformación de los mismos para efectos de que el que tenga mayoría de Diputados en el Congreso, convoque a la sesión de instalación de la Junta.
+
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 46.
 
-La sesión de instalación de la Junta, será convocada por la persona que haya sido electa como Presidenta o Presidente de la misma, y en caso de ausencia de ésta por quien haya sido electa como Secretaria o Secretario.
+La o el Coordinador del Grupo Parlamentario con mayor número de Diputados convocará a los Coordinadores de los Grupos y Coaliciones Parlamentarias a la sesión de instalación de la Junta de Coordinación Política.
 
-Será titular de la Presidencia de la Junta quien haya sido electo por la mayoría de sus integrantes, garantizándose que la persona electa pertenezca a uno de los Grupos Parlamentarios que cuenten con mayor representación en el Congreso, lo anterior conforme a lo establecido en el artículo 29 Apartado E numerales 2 y 3 de la Constitución Local.
+En la sesión de instalación deberá designarse al Presidente de la Junta de Coordinación Política por mayoría simple de los votos ponderados.
 
-La elección de la o el Secretario también se realizara por la mayoría de sus integrantes, y bajo el mismo criterio señalado en el párrafo anterior.
+La Junta sesionará por lo menos una vez a la semana durante los periodos de sesiones y la periodicidad que acuerde durante los recesos.
 
-En el caso de que ningún Grupo se encuentre en el supuesto señalado en el párrafo anterior, la Presidencia de la Junta será ejercida, en forma alternada y para cada año legislativo, por las y los Coordinadores de los tres Grupos Parlamentarios que cuenten con el mayor número de Diputadas o Diputados. El orden anual para presidir este órgano será determinado por la Junta.
-
-Las o los Diputados sin partido, podrán asistir a la Junta, contando con derecho a voz y sin voto en las determinaciones que se tomen, previa autorización de la Junta.
+La persona que ocupe la Secretaría Técnica de la Junta de Coordinación Política será designada por la o el Presidente, quien contará con voz, pero sin voto, y será responsable de preparar los documentos para las reuniones, elaborar las actas y comunicar los acuerdos a las instancias correspondientes del Congreso.
 
 ###### Artículo 47.
 
@@ -1138,11 +1156,13 @@ XXII. Sustituir a sus integrantes y someterlos para su ratificación al Pleno de
 
 XXIII. Las demás que le atribuyen la Constitución Política, la Constitución Local, la presente ley, el reglamento y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 50.
 
-La Junta deberá instalarse, a más tardar, en la segunda sesión ordinaria que celebre el Congreso al inicio de la Legislatura. Sesionará por lo menos una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde durante los recesos.
+La Presidencia de la Junta será ejercida en forma alternada en cada año legislativo por los Coordinadores de los tres Grupos Parlamentarios que cuenten con mayoría de Diputadas y Diputados, y ningún Grupo Parlamentario, Coalición o Asociación podrá repetir en la Presidencia.
 
-A las reuniones de la Junta concurrirá la o el Secretario Técnico, con voz pero sin voto, para auxiliar a las y los integrantes quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+La Junta adoptará sus decisiones por el voto ponderado de sus integrantes, conforme al número de Diputados con que cuente cada uno de sus respectivos grupos en relación del total del Congreso.
 
 ### CAPÍTULO III. De la Presidencia de la Junta de Coordinación Política
 
@@ -1390,6 +1410,8 @@ Se considerará carga de trabajo cuando una Comisión haya emitido cuando menos 
 
 Las Comisiones Ordinarias serán en número que corresponda correlacionadamente con las atribuciones establecidas en esta ley, el reglamento y con la estructura funcional de las dependencias de la Administración Pública.
 
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 74.
 
 El Pleno designará en cada Legislatura las siguientes Comisiones ordinarias con carácter permanente:
@@ -1400,65 +1422,79 @@ II. Administración Pública Local;
 
 III. Administración y Procuración de Justicia;
 
-IV. Alcaldías y Límites territoriales;
+IV. Alcaldías y Límites Territoriales;
 
-V. Asuntos Laborales y Previsión Social;
+V. Asuntos Laborales, Trabajo y Previsión Social;
 
-VI. Asuntos Político – Electorales;
+VI. Asuntos Político-Electorales;
 
-VII. Puntos Constitucionalesy (sic) Atención de Iniciativas Ciudadanas;
+VII. Atención al Desarrollo de la Niñez;
 
-VIII. Atención al Desarrollo de la Niñez;
+VIII. Atención Especial a Víctimas;
 
-IX. Ciencia, Tecnología, Innovación y Cultura;
+IX. Ciencia, tecnología e Innovación;
 
-X. Igualdad de Género y Diversidad;
+X. Cultura;
 
-XI. Derechos Humanos y Grupos de Atención Prioritaria;
+XI. Deporte;
 
-XII. Desarrollo e Infraestructura Urbana;
+XII. Derechos Humanos;
 
-XIII. Desarrollo Metropolitano, Rural, Social, y Pueblos y Comunidades Indígenas;
+XIII. Desarrollo e Infraestructura Urbana y Vivienda;
 
-XIV. Educación;
+XIV. Desarrollo Económico;
 
-XV. Fomento Económico;
+XV. Desarrollo Metropolitano;
 
-XVI. Hacienda;
+XVI. Desarrollo Rural;
 
-XVII. Juventud y Deporte;
+XVII. Desarrollo Social y Exigibilidad de Derechos Sociales;
 
-XVIII. Normatividad Legislativa, Estudios y Prácticas Parlamentarias;
+XVIII. Educación;
 
-XIX. Registral y Notarial;
+XIX. Gestión Integral del Agua;
 
-XX. Rendición de Cuentas y Vigilancia de la Auditoria Superior de la Ciudad de México;
+XX. Hacienda;
 
-XXI. Preservación del Medio Ambiente, Protección Ecológica, Cambio Climático y Gestión integral del agua;
+XXI. Igualdad de Género;
 
-XXII. Presupuesto y Cuenta Pública;
+XXII. Juventud;
 
-XXIII. Protección Civil;
+XXIII. Movilidad Sustentable;
 
-XXIV. Salud y Asistencia Social;
+XXIV. Normatividad, Estudios y Prácticas Parlamentarias;
 
-XXV. Seguridad Pública;
+XXV. Participación Ciudadana;
 
-XXVI. Movilidad;
+XXVI. Planeación del Desarrollo;
 
-XXVII. Transparencia y Combate a la Corrupción;
+XXVII. Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático;
 
-XXVIII. Turismo;
+XXVIII. Presupuesto y Cuenta Pública;
 
-XXIX. Vivienda,
+XXIX. Protección a Periodistas;
 
-XXX. Vigilancia y Evaluación de Políticas y Programas Sociales;
+XXX. Protección Civil y Gestión Integral de Riesgos;
 
-XXXI. Uso y Aprovechamiento de Bienes y Servicios Públicos; y
+XXXI. Pueblos, Barrios Originarios y Comunidades Indígenas Residentes;
 
-XXXII. Participación Ciudadana;
+XXXII. Puntos Constitucionales e iniciativas Ciudadanas;
 
-Las Comisiones ordinarias que se establecen en este artículo desarrollan las tareas específicas que en cada caso se señalan.
+XXXIII. Reconstrucción;
+
+XXXIV. Registral, Notarial y Tenencia de la Tierra;
+
+XXXV. Rendición de Cuentas y Vigilancia de la Auditoria Superior de la Ciudad de México;
+
+XXXVI. Salud;
+
+XXXVII. Seguridad Ciudadana;
+
+XXXVIII. Transparencia y Combate a la Corrupción;
+
+XXXIX. Turismo; y
+
+XL. Uso y aprovechamiento del Espacio Público.
 
 ###### Artículo 75.
 
@@ -1588,27 +1624,23 @@ Para remover temporal o definitivamente de los Comités a alguna o algún Diputa
 
 La integración, actividad y funcionamiento de los Comités se rige por lo establecido en la presente ley y el reglamento.
 
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 92.
 
 El Congreso contará, para su funcionamiento administrativo, con los Comités de:
 
-I. Administración;
+I. Administración y Capacitación;
 
 II. Archivo y Bibliotecas;
 
 III. Asuntos Editoriales;
 
-IV. Asuntos Interinstitucionales;
+IV. Asuntos Internacionales;
 
-V. Asuntos Internacionales;
+V. Atención, Orientación y Quejas Ciudadanas y Asuntos Interinstitucionales; y
 
-VI. Atención, Orientación y Quejas Ciudadanas;
-
-VII. Capacitación;
-
-VIII. Comité del Canal de Televisión del Congreso;
-
-IX. De la Biblioteca “Francisco Zarco”.
+VI. Comité del Canal de Televisión del Congreso
 
 ## TÍTULO OCTAVO. DE LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA
 
@@ -2541,3 +2573,13 @@ SECRETARIA
 (Firma)
 
 DIP. EVA ELOISA LESCAS HERNÁNDEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- La presente reforma entrará en vigor a partir de su aprobación por el Pleno del Congreso.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
