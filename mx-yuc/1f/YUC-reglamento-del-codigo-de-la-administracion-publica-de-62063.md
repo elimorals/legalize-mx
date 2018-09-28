@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2018-08-17"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -131,9 +131,13 @@ Las dependencias contarán con los departamentos y áreas que establezcan los ti
 
 Las atribuciones conferidas a los titulares de los departamentos o áreas se entenderán otorgadas a los superiores jerárquicos a los cuales se encuentren adscritos las unidades administrativas correspondiente (sic).
 
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 8.
 
-Además de las direcciones y unidades administrativas contempladas en la estructura orgánica a que se refiere el artículo anterior, las dependencias tendrán un órgano de control interno dependiente de la Secretaría de la Contraloría General, con las atribuciones establecidas en el artículo 546 de este Reglamento y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
+Además de las direcciones y unidades administrativas contempladas en la estructura orgánica a que se refiere el artículo anterior, las Dependencias tendrán un órgano de control interno dependiente de la Contraloría, siempre y cuando se cuente con suficiencia presupuestal, con las atribuciones establecidas en el artículo 541 de este Reglamento y en la legislación aplicable en materia de responsabilidades administrativas.
+
+Los órganos de control interno en las Dependencias y Entidades contarán con el personal administrativo y técnico que derivado de las necesidades del servicio se requieran, siempre que haya la disponibilidad presupuestaria para ello o, en su caso, con unidades subalternas, previo acuerdo del secretario de la Contraloría además de lo anterior, para el ejercicio de sus facultades, se auxiliarán de las unidades investigadoras adscritas a las direcciones de Auditoría de Recursos Estatales de los Sectores Centralizado y Paraestatal.
 
 ###### Artículo 9.
 
@@ -491,13 +495,21 @@ XXVI. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 XXVII. Auxiliar a los departamentos administrativos de su Dependencia en los procedimientos de licitación y adjudicación de contratos;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XXVIII. Participar en los procesos de actualización y adecuación del orden jurídico que rige el funcionamiento de la Dependencia, y
+XXVIII. Participar en los procesos de actualización y adecuación del orden jurídico que rige el funcionamiento de la Dependencia;
 
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XXIX. Visar contratos y convenios para acompañar la firma del Titular de la Dependencia, cuando éste así lo solicite;
+XXIX. Visar contratos y convenios para acompañar la firma del titular de la Dependencia, cuando este así lo solicite;
+
+> <small>(ADICIONADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XXX. Elaborar, en coordinación con la unidad administrativa competente de la Dependencia, las denuncias por probables faltas administrativas de los servidores públicos de esta o de los particulares que intervengan en actos vinculados con ellas, anexando las actas administrativas, informes, documentos y, en su caso, dictámenes periciales, en términos de la legislación aplicable en materia de responsabilidades administrativas, y
+
+> <small>(ADICIONADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XXXI. Formular denuncias ante el Ministerio Público, cuando se advierta la presunta comisión de delitos derivados de las actuaciones de los servidores públicos en el desempeño de sus funciones en la Dependencia y fungir como parte coadyuvante del procedimiento penal, en términos de la normativa aplicable.
 
 ### CAPÍTULO VI. De las suplencias
 
@@ -9347,319 +9359,311 @@ XVII. Las demás que le otorguen este Reglamento y otras disposiciones normativa
 
 ### CAPÍTULO ÚNICO. De la organización y atribuciones de la Secretaría de la Contraloría General
 
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 524.
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia la Contraloría, contará con la siguiente estructura:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
-
 I. Dirección General de Programas Federales:
 
-a) Dirección de Programas Federales.
+a) Dirección de Programas Federales:
 
-1. Jefatura de Auditoría, y
+1. Departamento de Auditoría;
 
-2. Jefatura de Contraloría Social.
+2. Departamento de Fiscalización;
 
-b) Dirección de Inspección de Obra Pública.
+3. Departamento de Contraloría Social, y
 
-1. Jefatura de Supervisión de Obra Pública, Zona Federal, y
+4. Departamento de Apoyo a Investigaciones relacionadas con Programas Federales.
 
-2. Jefatura de de (sic) Supervisión de Obra Pública, Zona Estatal.
+b) Dirección de Auditoría e Inspección de Obra Pública:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
+1. Departamento de Auditoría de Obra Pública, y
 
-c) Dirección de Normatividad, Quejas y Responsabilidades.
+2. Departamento de Inspección de Obra Pública.
 
-1. Jefatura de Normatividad en Obras Públicas y Adquisiciones;
+c) Dirección de Responsabilidades y Normatividad:
 
-2. Jefatura de Quejas, y Responsabilidades;
+1. Departamento de Normatividad en Obras Públicas y Adquisiciones;
 
-3. Jefatura de Capacitación y Seguimiento a Auditorías, y
+2. Departamento de Responsabilidades;
 
-4. Jefatura de Asuntos Contenciosos.
+3. Departamento de Capacitación y Seguimiento a Auditorías;
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+4. Departamento de Asuntos Contenciosos, y
 
-5. Jefatura de Inconformidades, Sanciones y Conciliaciones
+5. Departamento de Inconformidades, Sanciones y Conciliaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE MARZO DE 2016)</small>
+II. Dirección General de Auditoría de Recursos Estatales:
 
-II. Dirección General del Sector Estatal y Paraestatal:
+a) Dirección de Auditoría de Recursos Estatales del Sector Centralizado:
 
-a) Director de Auditoría al Sector Centralizado.
+1. Órganos de Control Interno, en las Dependencias;
 
-1. Órganos de Control Interno, en las dependencias, y
+2. Departamento de Investigaciones de Auditorías y Contrataciones Públicas Estatales, en el Sector Centralizado, y
 
-> <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2012)</small>
+3. Departamento de Soporte Técnico y Sistemas, en el Sector Centralizado.
 
-2. Coordinador de Auditoría de Sistemas al Sector Estatal.
+b) Dirección de Auditoría de Recursos Estatales del Sector Paraestatal:
 
-b) Director de Auditoría al Sector Paraestatal.
+1. Órganos de Control Interno de Recursos Estatales, en las Entidades;
 
-1. Coordinadores de Sector;
+2. Departamento de Investigaciones de Auditorías y Contrataciones Públicas Estatales, en el Sector Paraestatal, y
 
-2. Órganos de Control Interno, en las entidades;
+3. Departamento de Soporte Técnico y Sistemas, en el Sector Paraestatal.
 
-> <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2012)</small>
+c) Departamento de Control y Seguimiento, y
 
-3. Coordinador de Auditoría de Sistemas al Sector Paraestatal
+d) Dirección de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal:
 
-c) Unidad de Control y Auditoría de Gestión, de quien dependerán los Comisarios Titular y Suplente.
+1. Departamento de Asuntos Jurídicos en el Sector Centralizado;
 
-1. a 4 ... (sic)
+2. Departamento de Asuntos Jurídicos en el Sector Paraestatal, y
 
-> <small>(REFORMADO, D.O. 29 DE MARZO DE 2016)</small>
+3. Departamento de Control y Registro de Situación Patrimonial.
 
-d) Dirección de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal.
+III. Dirección de Administración:
 
-1. Jefatura del Departamento de Asuntos Jurídicos en el Sector Centralizado;
+a) Departamento Administrativo, y
 
-2. Jefatura del Departamento de Asuntos Jurídicos en el Sector Paraestatal, y
+b) Departamento de Informática.
 
-3. Jefatura del Departamento de Control y Registro de Situación Patrimonial.
+Además, esta secretaría contará con la Coordinación General de Transparencia y Acceso a la Información Pública y con el Instituto de Investigaciones, Ética Pública y Prevención de la Corrupción de Yucatán, los cuales tendrán el carácter de órganos desconcentrados.
 
-III. Director de Administración.
+> <small>(ADICIONADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-a) Jefe del Departamento de Contabilidad.
+###### Artículo 524 Bis.
 
-b) Jefe del Departamento de Informática.
+Para efectos de las atribuciones que la legislación aplicable en materia de responsabilidades administrativas las siguientes unidades administrativas serán consideradas como:
 
-> <small>(REFORMADO, D.O. 20 DE MAYO DE 2016)</small>
+I. Autoridades investigadoras de faltas administrativas:
 
-Además, esta secretaría contará con la Coordinación General de Transparencia y Acceso a la Información Pública y con el Instituto Estatal de Combate a la Corrupción, los cuales tendrán el carácter de órganos desconcentrados.
+a) Dirección de Programas Federales:
+
+1. Departamento de Auditoría, y
+
+2. Departamento de Fiscalización.
+
+b) Dirección de Auditoría e Inspección de Obra Pública:
+
+1. Departamento de Auditoría de Obra Pública, y
+
+2. Departamento de Inspección de Obra Pública.
+
+c) Dirección de Auditoría de Recursos Estatales del Sector Centralizado:
+
+1. Departamento de Investigaciones de Auditorías y Contrataciones Públicas Estatales, en el ámbito Centralizado.
+
+d) Dirección de Auditoría de Recursos Estatales del Sector Paraestatal:
+
+1. Departamento de Investigaciones de Auditorías y Contrataciones Públicas Estatales en el ámbito Paraestatal.
+
+e) Instituto de Investigaciones, Ética Pública y Prevención de la Corrupción de Yucatán, y
+
+f) Órganos de Control Interno.
+
+II. La Dirección de Responsabilidades y Normatividad será la autoridad substanciadora de faltas administrativas y resolutora de faltas administrativas no graves:
+
+a) Departamento de Responsabilidades;
+
+b) Departamento de Capacitación y Seguimiento a Auditorías;
+
+c) Departamento de Asuntos Contenciosos, y
+
+d) Departamento de Inconformidades, Sanciones y Conciliaciones.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 525.
 
-El Titular de esta Secretaría tendrá las siguientes facultades y obligaciones:
+El Titular de la Contraloría tendrá las siguientes facultades y obligaciones:
 
-I. Determinar los lineamientos de control, vigilancia y fiscalización de las políticas y programas que se establezcan en las dependencias y entidades así como realizar su evaluación;
+I. Emitir las disposiciones de carácter general necesarias para el ejercicio de las atribuciones que las leyes otorgan a la Contraloría, entre otras, en las materias de control interno, auditorías, investigaciones, declaración patrimonial y de conflicto de intereses, prevención, detección y disuasión de actos de corrupción, programas que se establezcan en las Dependencias y Entidades, con base en las políticas, criterios generales y disposiciones que emitan los comités coordinadores de los sistemas nacional y estatal anticorrupción y el Sistema Nacional de Fiscalización;
 
-II. Ordenar el control, vigilancia y fiscalización de las políticas y programas que se establezcan en las dependencias y entidades así como realizar su evaluación;
+II. Ordenar el control, vigilancia y fiscalización de las políticas y programas que se establezcan en las Dependencias y Entidades, así como del ejercicio del gasto público;
 
-III. Informar trimestralmente al Titular del Poder Ejecutivo del resultado de las evaluaciones realizadas al ejercicio del gasto público en las dependencias y entidades, y trimestralmente, del ejercicio de los recursos federales derivados del Convenio de Coordinación para el Desarrollo Social y Humano que se celebre entre el Poder Ejecutivo Federal y Estatal, y de los convenios de coordinación y concertación y anexos de ejecución que deriven del mismo, proponiendo las medidas correctivas que procedan;
+III. Informar trimestralmente al titular del Poder Ejecutivo del resultado de las evaluaciones realizadas al ejercicio del gasto público en las Dependencias y Entidades, del ejercicio de los recursos federales y de los convenios de coordinación, concertación y anexos de ejecución que de ellos deriven, proponiendo las medidas correctivas que procedan;
 
-IV. Proponer y en su caso, designar, a los Órganos de Control Interno y a los Comisarios Públicos de los consejos de vigilancia de las entidades paraestatales y a sus suplentes;
+IV. Designar y remover a los titulares de los órganos de control interno y a los comisarios públicos en los órganos de gobierno de las Entidades paraestatales y a sus suplentes, quienes dependerán jerárquica y funcionalmente de la Contraloría;
 
-V. Establecer los lineamientos que fueren necesarios para los informes, datos y cooperación técnica que deba prestar la Contraloría, en relación con las dependencias y entidades; y de éstas entre sí;
+V. Fijar las bases para la selección del personal de la Contraloría, en los casos que así se requiera;
 
-VI. Fijar las bases para la selección del personal de la Contraloría, y ordenar al Director de Administración la tramitación de los nombramientos para su firma;
+VI. Vigilar la aplicación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que en materia de fiscalización y control de recursos públicos genere la Contraloría, en términos de la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal Anticorrupción de Yucatán;
 
-> <small>(REFORMADA, D.O. 20 DE ENERO DE 2017)</small>
+VII. Autorizar y hacer del conocimiento del Titular del Poder Ejecutivo el Programa Anual de Auditorías y demás actos de fiscalización de recursos estatales de las Dependencias y Entidades;
 
-VII. Establecer los lineamientos y políticas que orienten la colaboración que deba prestar la contraloría a la Auditoría Superior del Estado, para el cumplimiento de sus respectivas responsabilidades;
+VIII. Resolver el recurso de revocación que se promueva en contra de las resoluciones definitivas derivadas de procedimientos de responsabilidades que emita la Dirección de Responsabilidades y Normatividad por la comisión de faltas administrativas no graves;
 
-VIII. Elaborar y someter a la consideración del Titular del Poder Ejecutivo el Programa Anual de Control y Auditoría de las dependencias y entidades;
+IX. Promover ante la instancia competente el establecimiento de medios de comunicación electrónica para el ejercicio de las facultades que le otorgan a la Contraloría las leyes, reglamentos y demás disposiciones aplicables;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+X. Vigilar que las unidades administrativas de la Contraloría cumplan con las normas de control, evaluación y fiscalización aplicables, de acuerdo con la normativa correspondiente;
 
-IX. Resolver el recurso de revocación que se promueva en contra de las resoluciones definitivas derivadas de procedimientos de responsabilidades que emita la Dirección de Normatividad, Quejas y Responsabilidades;
+XI. Turnar a la unidad administrativa competente para su investigación, los asuntos relativos a los actos, omisiones o conductas de los servidores públicos que pudieran constituir responsabilidades administrativas, y, en su caso, la promoción del procedimiento de responsabilidad administrativa y la aplicación de las sanciones que correspondan, en los términos que señale la legislación aplicable en materia de responsabilidades administrativas, proveyendo lo necesario para interponer las denuncias correspondientes ante la Vicefiscalía Especializada en Combate a la Corrupción o cualquier otra autoridad competente, por conducto de las unidades administrativas facultadas para tal efecto;
 
-X. Autorizar el establecimiento de medios de comunicación electrónica para el ejercicio de las facultades que le otorgan a la Contraloría las leyes, reglamentos y demás disposiciones aplicables;
+XII. Designar al personal que deberá participar en los procesos de entrega-recepción de los servidores públicos obligados de las Dependencias y Entidades;
 
-XI. Vigilar que las unidades administrativas de la Contraloría cumplan con las normas de control, evaluación y fiscalización aplicables, de acuerdo a la normatividad correspondiente;
+XIII. Autorizar y hacer del conocimiento del titular del Poder Ejecutivo las estructuras orgánicas de los órganos de control interno en las Dependencias y Entidades;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+XIV. Proponer a las personas que realizarán las auditorías externas y el dictamen de estados financieros en las Dependencias y Entidades, así como proponerlas en los fondos, fideicomisos, programas o análogos que ellas operen, para su contratación por parte de las Dependencias y Entidades conforme a la normativa que los regula;
 
-XII. Turnar a la unidad administrativa competente para su investigación, los asuntos relativos a los actos, omisiones o conductas de los servidores públicos que pudieran constituir responsabilidades administrativas, para la aplicación de las sanciones que correspondan en los términos que señale la Ley, proveyendo lo necesario para interponer las denuncias correspondientes ante el Ministerio Público, por conducto de las unidades administrativas facultadas para tal efecto;
+XV. Designar al personal que deberá participar en los procesos de transferencia de las Dependencias o Entidades de la Administración Pública estatal y de desincorporación de las Entidades paraestatales;
 
-XIII. Designar al personal que deberá participar en la suscripción de las actas de entrega recepción de los titulares y demás servidores públicos obligados de las dependencias y entidades;
+XVI. Participar en las funciones de control y evaluación asignadas al Consejo de Planeación y Evaluación del Estado de Yucatán;
 
-XIV. Aprobar la organización y funcionamiento de la Contraloría Interna de esta Secretaría, informando al Titular del Poder Ejecutivo de las acciones que lleve a cabo en el ejercicio de sus facultades;
+XVII. Opinar, previamente a su expedición, respecto de las reglas de carácter general que dicten las Dependencias y Entidades en los asuntos en los que el Código y las leyes les confieran competencia a la Contraloría;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+XVIII. Emplear, por sí o por medio de las autoridades investigadoras, substanciadoras o resolutoras, los medios de apremio establecidos en la legislación aplicable en materia de responsabilidades administrativas, para el cumplimiento de sus atribuciones;
 
-XV. Proponer y, en su caso, designar, por acuerdo del Titular del Poder Ejecutivo, en las dependencias y entidades, a las personas que realizarán las auditorías externas, conforme a las disposiciones legales aplicables. Asimismo, someter a la consideración del Titular del Poder Ejecutivo las estructuras orgánicas de las unidades de contraloría interna en las dependencias y entidades, y demás unidades administrativas, proponiendo para tal efecto los tabuladores de sueldos de los integrantes de dichas unidades;
+XIX. Requerir, en el ámbito de su competencia, a las Dependencias y Entidades la información, documentación o acciones necesarias para solventar las cédulas o pliegos de observaciones derivados de las auditorías o acciones de auditoría y fiscalización que realice directamente la Contraloría o en acuerdo con la Secretaría de la Función Pública y la Auditoría Superior de la Federación;
 
-> <small>(REFORMADA, D.O. 20 DE ENERO DE 2017)</small>
+XX. Ordenar, de oficio o derivado de denuncias, la práctica de investigaciones para verificar el cumplimiento de las obligaciones y procedimientos de los servidores públicos, el cumplimiento de los pedidos y contratos de adquisiciones, arrendamientos, servicios y obra pública, concesiones y permisos otorgados, así como de visitas de verificación, debiendo observar lo dispuesto en la legislación aplicable en materia de actos y procedimientos administrativos;
 
-XVI. Designar al personal que deberá participar en los procesos de transferencia de dependencias o entidades de la Administración Pública estatal y de desincorporación de las entidades paraestatales.
+XXI. Convocar, designar y facultar a los servidores públicos que participen en los actos de los procedimientos de contratación que realice la Contraloría y, en su caso, adjudicar los contratos, pedidos y órdenes de servicio respectivos;
 
-> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+XXII. Contratar, ejercer los actos para suspender, terminar anticipadamente y rescindir los contratos que celebre la Contraloría en materia de adquisiciones, arrendamientos, servicios y obra pública, de conformidad con las disposiciones legales aplicables;
 
-XVII. Participar en las funciones de control y evaluación asignadas al Consejo de Planeación y Evaluación del Estado de Yucatán;
+XXIII. Ordenar las auditorías a las Dependencias y Entidades de conformidad con el Programa Anual de Auditorías de Recursos Estatales y demás actos de fiscalización; y cuando la situación lo requiera;
 
-XVIII. Opinar, previamente a su expedición, respecto de las reglas de carácter general que dicten las dependencias y entidades en los asuntos en los que el Código y las leyes les confieran competencia a la Contraloría;
+XXIV. Solicitar a entes públicos de los ámbitos federal, estatal y municipal, a sus servidores públicos, licitantes, proveedores, prestadores de servicios y contratistas y a las personas físicas o morales, la información que requiera para el cumplimiento de las facultades de la Contraloría;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+XXV. Proponer al gobernador los lineamientos técnicos para regular el desarrollo de los procesos de transferencia de las dependencias o entidades de la Administración Pública estatal y de desincorporación de las entidades paraestatales;
 
-XIX. Emplear los medios de apremio establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán para el cumplimiento de sus atribuciones;
+XXVI. Promover el cumplimiento de las normas de control interno por parte de las Dependencias y Entidades, a fin de privilegiar la actividad preventiva y el logro de los objetivos y metas institucionales;
 
-XX. Requerir en el ámbito de su competencia a las dependencias y entidades que hayan sido objeto de auditorías o acciones de auditoría y fiscalización acordadas con la Secretaría de la Función Pública, la Auditoría Superior de la Federación, o de manera directa, la información, documentación o acciones necesarias, para solventar las cédulas o pliegos de observaciones respectivos dentro de los términos otorgados;
+XXVII. Celebrar convenios de coordinación o análogos con la Auditoría Superior del Estado para promover acciones de fiscalización a recursos estatales u otros diversos a estos, ya sea de manera directa o conjunta;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+XXVIII. Solicitar a las autoridades competentes, por sí, o por conducto de los servidores públicos en los que se delegue esta facultad, la información necesaria para la verificación aleatoria de las declaraciones de situación patrimonial de los servidores públicos, en ejercicio de sus facultades de investigación, así como por probable enriquecimiento oculto u ocultamiento de conflicto de interés, y
 
-XXI. Solicitar, por sí o por conducto de la Dirección de Normatividad, Quejas y Responsabilidades, a los servidores públicos, licitantes, proveedores, prestadores de servicios y contratistas que tengan relación con los actos y contratos que realicen las dependencias y entidades, la información y documentación necesaria para el cumplimiento de las atribuciones otorgadas a la Contraloría;
+XXIX. Las demás que le otorga la legislación aplicable en materia de responsabilidades administrativas; de obra pública y servicios conexos; de adquisiciones, arrendamientos y prestación de servicios, de proyectos de prestación de servicios, este Reglamento y demás normativa aplicable.
 
-XXII. Convocar, designar y facultar a los servidores públicos que participen en los actos de los procedimientos de contratación, y en su caso, adjudicar;
-
-XXIII. Contratar, ejercer los actos para suspender, terminar anticipadamente y rescindir los contratos que celebre la Contraloría en materia de adquisiciones, arrendamientos, servicios y obra pública, de conformidad con las disposiciones legales aplicables;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XXIV. Ordenar, las auditorías a las dependencias y entidades de conformidad al Programa Anual de Auditorías y Revisiones; y cuando la situación lo requiera;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XXV. Solicitar a dependencias y entidades del ámbito federal, estatal y municipal y a las personas físicas o morales del sector social y privado, la información que se requieran (sic) para el cumplimiento de las facultades de la Contraloría; y
-
-> <small>(ADICIONADA, D.O. 20 DE ENERO DE 2017)</small>
-
-XXVI. Proponer al gobernador los lineamientos técnicos para regular el desarrollo de los procesos de transferencia de las dependencias o entidades de la Administración Pública estatal y de desincorporación de las entidades paraestatales, y
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XXVII. Las demás que le otorgan las leyes de Responsabilidades de los Servidores Públicos; de Obra Pública y Servicios Conexos; de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, todas del Estado de Yucatán, este Reglamento y otras disposiciones legales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 526.
 
 El Director General de Programas Federales tendrá las siguientes facultades y obligaciones:
 
-I. Conocer de los siguientes asuntos que les remitan los directores a su cargo, y hacerlos del conocimiento del Secretario para su aprobación:
+I. Conocer, y someter a la aprobación del secretario, los programas de capacitación y el apoyo técnico que requieran las unidades administrativas de su adscripción, así como los programas, guías e instructivos que establezcan las disposiciones legales y administrativas aplicables para la planeación, programación, inicio, desarrollo y conclusión de las auditorías;
 
-a) Los anteproyectos del presupuesto por programas de las direcciones;
+II. Ordenar, previo acuerdo o solicitud del secretario, las auditorías, investigaciones de oficio y visitas de verificación a las Dependencias y Entidades, en cuanto corresponda a la aplicación de recursos federales, exceptuando las participaciones federales y los recursos que esta entidad federativa reciba del Fondo de Estabilización de los Ingresos de las Entidades Federativas que corresponden a ingresos de libre disposición en términos de lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-b) Los proyectos de manuales de organización, procedimientos y servicios correspondientes a las direcciones a su cargo;
+III. Preparar el informe que el secretario deba rendir al titular del Poder Ejecutivo y al Comité Coordinador del Sistema Estatal Anticorrupción, correspondiente a las auditorías, investigaciones de oficio y visitas de verificación practicadas a las Dependencias y Entidades, así como de los procedimientos disciplinarios substanciados y resueltos por faltas administrativas, en cuanto al ejercicio de los recursos federales; así como las de obra pública;
 
-c) Los programas de capacitación y el apoyo técnico que requieran las unidades administrativas de su adscripción, y
+IV. Elaborar e integrar el Programa Anual de Auditorías y Revisiones a las Dependencias y Entidades, en cuanto a acciones y programas federales, y de obra pública federal y estatal, para ponerlo a consideración del secretario para su aprobación;
 
-d) Los programas, guías e instructivos que establezcan las disposiciones legales y administrativas aplicables para la planeación, programación, inicio, desarrollo y conclusión de las auditorías.
+V. Turnar a la autoridad substanciadora competente los informes de probable responsabilidad administrativa y los expedientes relativos a las investigaciones de oficio, visitas de verificación y auditorías que practique, si de ellas se desprenden presuntas faltas administrativas de los servidores públicos de la Administración Pública estatal, previo acuerdo con el secretario;
 
-II. Ordenar, previo acuerdo o solicitud del Secretario, las auditorías a las dependencias y entidades, en cuanto corresponda a la aplicación de recursos federales;
+VI. Emitir las cedulas de observaciones de las auditorías directas que se hagan a las Dependencias y Entidades que deriven de la aplicación de recursos federales, así como firmar las que se acuerden con el personal auditor de la Secretaría de la Función Pública, haciendo las recomendaciones procedentes a los entes auditados para su solventación, cuando los informes derivados de la práctica de auditorías así lo establezcan;
 
-III. Preparar el informe que el Secretario deba rendir al Titular del Poder Ejecutivo correspondiente a las auditorías practicadas a las dependencias y entidades, en cuanto al ejercicio de los recursos federales; así como las de obra pública;
+VII. Requerir a las Dependencias y Entidades las acciones para solventar las cédulas de observaciones, promociones de responsabilidad y los pliegos de observaciones que se formulen con motivo de auditorías, investigaciones de oficio o acciones de fiscalización practicadas de manera directa, conjunta o actuando como enlace con la Secretaría de la Función Pública, la Auditoría Superior de la Federación o cualquier otro ente de fiscalización, solicitando la información, documentación o acciones necesarias para tal efecto, en cuanto corresponda a la aplicación de recursos federales, exceptuando las participaciones federales y los recursos que esta entidad federativa reciba del Fondo de Estabilización de los Ingresos de las Entidades Federativas que corresponden a ingresos de libre disposición en términos de lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-IV. Elaborar e integrar el Programa Anual de Auditorías y Revisiones a las dependencias y entidades, en cuanto a acciones y programas federales, y de obra pública federal y estatal, para ponerlo a consideración del Secretario para su aprobación;
+VIII. Emitir instrucciones y requerimientos de información y documentación, así como solicitar el cumplimiento de resoluciones apercibiendo con iniciar procedimientos disciplinarios y hacer uso de las medidas de apremio, que en el ejercicio de las atribuciones de su competencia, sean necesarias dentro de las auditorías, investigaciones de oficio, visitas de verificación, incluso las que se requiera solicitar en las materias fiscal, bursátil, fiduciaria o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios, con el objeto de ejercer sus facultades de investigación del ejercicio de recursos federales y de ejecución de obra pública, y
 
-V. Turnar a la autoridad competente los expedientes relativos a las investigaciones y auditorías que hubiere practicado, si de las mismas se desprenden presuntas responsabilidades de los servidores públicos del Estado de Yucatán, previo acuerdo con el Secretario;
+IX. Las demás que le confiera el titular de la Contraloría, este Reglamento y otras disposiciones legales aplicables.
 
-VI. Emitir las recomendaciones procedentes a los entes auditados cuando los informes derivados de la práctica de auditorías así lo establezcan;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-VII. Requerir a las dependencias y entidades las acciones para solventar los pliegos de observaciones que se formulen con motivo de auditorías o acciones de fiscalización practicadas de manera directa, conjunta o actuando como enlace con la Secretaría de la Función Pública, la Auditoría Superior de la Federación o cualquier otro ente de fiscalización, solicitando la información, documentación o acciones necesarias para tal efecto, actuando como enlace en las mismas, y
-
-VIII. Las demás que le confiera el Titular de la Contraloría, este Reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 527.
 
 Al Director de Programas Federales le corresponde el despacho de los siguientes asuntos:
 
-I. Sugerir a su superior jerárquico la celebración de acuerdos de coordinación con los gobiernos municipales para impulsar la instrumentación o fortalecimiento de los subsistemas municipales de control y evaluación de la gestión pública; así como los términos de los citados convenios;
+I. Emitir requerimientos de información y documentación en el ejercicio de las atribuciones de su competencia, que sean necesarias para llevar a cabo las auditorías, investigaciones de oficio y visitas de verificación y contar con los elementos subjetivos de los probables responsables, en cuanto corresponda a la aplicación de recursos federales, exceptuando las participaciones federales y los recursos que esta entidad federativa reciba del Fondo de Estabilización de los Ingresos de las Entidades Federativas que corresponden a ingresos de libre disposición en términos de lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+II. Requerir, en el ejercicio de sus atribuciones de investigación, información y documentación a entes públicos y a particulares, en los términos de las disposiciones legales aplicables;
 
-II. Planear, programar y organizar la promoción en los grupos sociales beneficiarios de los programas federales, actitudes y conductas propias de un ambiente de orden y disciplina, con apego al marco legal y a la normatividad correspondiente;
+III. Planear, programar y organizar la promoción en los grupos sociales beneficiarios de los programas federales, de actitudes y conductas propias de un ambiente de orden y disciplina, con apego al marco legal y a la normativa correspondiente;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+IV. Planear, programar y organizar la capacitación para los integrantes de los consejos de colaboración municipal y de los órganos que determinen los cabildos de los ayuntamientos previstos en la Ley de Gobierno de los Municipios del Estado de Yucatán, dentro del marco del Programa Anual de Trabajo de Contraloría Social suscrito con la federación y con base en los lineamientos que al efecto emita la Secretaría de la Función Pública, para el cumplimiento eficaz de sus funciones y la mejor capacidad de gestión en sus comunidades;
 
-III. Planear, programar y organizar la capacitación para los integrantes de los Consejos de Colaboración Municipal y de los órganos que determinen los cabildos de los ayuntamientos previstos en la Ley de Gobierno de los Municipios del Estado de Yucatán, dentro del marco del Programa Anual de Trabajo de Contraloría Social suscrito con la Federación y con base a los lineamientos que al efecto emita la Secretaría de la Función Pública, para el cumplimiento eficaz de sus funciones y mejor capacidad de gestión en sus comunidades;
+V. Crear estrategias y acciones a fin de promover la participación de los ciudadanos en acciones de contraloría social que deriven del ejercicio de los programas federales de desarrollo social y proponerlas a su superior jerárquico para su implementación;
 
-IV. Crear las estrategias y acciones a fin de promover la participación de los ciudadanos en acciones de contraloría social de los programas previstos en el Convenio de Desarrollo Social y proponerlas a su superior jerárquico para su implementación;
+VI. Proponer los mecanismos, procedimientos y formatos para la recepción, control, trámite, seguimiento y resolución de las peticiones, sugerencias, reconocimientos, quejas y denuncias relacionadas con los programas federales de desarrollo social;
 
-V. Proponer los mecanismos, procedimientos y formatos para la recepción, control, trámite, seguimiento y resolución de las peticiones, sugerencias, reconocimientos, quejas y denuncias relacionadas con los programas federales;
+VII. Expedir, cuando proceda, certificaciones de documentos que obren, en forma escrita o electrónica, en los archivos de la dirección a su cargo, asimismo, expedir las certificaciones de cualquier documentación o archivo electrónico al que tenga acceso con motivo de la práctica de las investigaciones y auditorías que realice y que obren en los archivos de las Dependencias y Entidades;
 
-VI. Autorizar licencias, dentro del ámbito de su competencia, de conformidad con las necesidades del servicio; y participar, directamente o a través de un representante, en los casos de sanciones, remoción y cese del personal de su responsabilidad, de conformidad con las disposiciones legales aplicables;
+VIII. Elaborar el proyecto de informe que el director general deba rendir al secretario, y de este al Comité Coordinador del Sistema Estatal Anticorrupción, correspondiente a las auditorías e investigaciones de oficio practicadas a las Dependencias y Entidades, en cuanto al ejercicio de los recursos federales, así como el de los resultados de las inspecciones o revisiones efectuadas, para la instrumentación de las acciones y medidas correctivas que correspondan a recursos federales;
 
-VII. Asesorar técnicamente en asuntos de su especialidad a los servidores públicos de esta Secretaría;
+IX. Elaborar e integrar el Programa Anual de Auditorías y Revisiones a las Dependencias y Entidades en relación con los programas y acciones realizados con cargo a recursos federales, tanto los que se pacten en el programa convenido con la Secretaría de la Función Pública, como los previstos en los convenios de reasignación de recursos entre la federación y el estado, así como los demás programas y acciones que se apliquen; y ponerlo a consideración de su superior a fin de que este gestione lo necesario para su aprobación, además informarle sobre sus avances y los de las actividades que desempeñan las unidades administrativas de esta dirección;
 
-VIII. Expedir, cuando proceda, certificaciones de documentos que obren en los archivos de la Dirección a su cargo, asimismo, expedir las certificaciones que se requieran de cualquier documentación a la que tenga acceso con motivo de la práctica de las investigaciones y auditorías que realice y que obren en los archivos de las dependencias y entidades. En ambos casos, únicamente a las personas que acrediten el derecho a solicitarlas.
+X. Proponer las mejoras al control y vigilancia del ejercicio de los recursos públicos federales auditados;
 
-La persona a quien se designe como responsable de la práctica de investigaciones y auditorías, tendrán las atribuciones de expedir las certificaciones que se requieran de cualquier documentación a la que tenga acceso, únicamente para integrar los expedientes de auditorías y de las investigaciones, así como de requerir, cuando lo estime conveniente para el cumplimiento de sus atribuciones, información y documentación a las dependencias y entidades, a los órganos internos de control, así como solicitar los datos e informes que requiera a proveedores y contratistas, en los términos de las disposiciones legales aplicables;
+XI. Promover entre las Dependencias y Entidades, que el cumplimiento de las acciones y programas federales se realice con estricto apego a los principios de disciplina, economía, eficacia, eficiencia, honradez, imparcialidad, integridad, lealtad, legalidad, objetividad, profesionalismo, rendición de cuentas y transparencia, así como a la normativa vigente;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XII. Coordinar, cuando así se requiera, las acciones que lleven a cabo los órganos de control interno en las Dependencias y Entidades, para la mejor ejecución de los programas federales;
 
-IX. Elaborar el proyecto de informe que el Director General deba rendir al Secretario, correspondiente a las auditorías practicadas a las dependencias y entidades, en cuanto al ejercicio de los recursos federales, así como el de los resultados de las inspecciones o revisiones efectuadas, para la instrumentación de las acciones y medidas correctivas que correspondan a recursos federales;
+XIII. Dar seguimiento al cumplimiento de las normas, procedimientos, programas y políticas que regulen el ejercicio del gasto federal;
 
-X. Elaborar e integrar el Programa Anual de Auditorías y Revisiones a las dependencias y entidades en relación con los programas y acciones realizados con cargo a recursos federales, tanto los que se pacten en el programa convenido con la Secretaría de la Función Pública, como los previstos en los convenios de reasignación de recursos entre la Federación y el Estado, así como los demás programas y acciones que se apliquen; y ponerlo a consideración de su superior a fin de que éste gestione lo necesario para su aprobación, además informarle sobre los avances del mismo, y de las actividades que desempeñan las unidades administrativas de esta Dirección;
+XIV. Establecer los procedimientos a que debe sujetarse la vigilancia de fondos y valores federales, así como evaluar sus resultados;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+XV. Supervisar la integración y turnar, previo acuerdo con el Director General de Programas Federales, a la autoridad substanciadora competente, los expedientes relativos a las investigaciones de oficio y las auditorías relacionadas con programas y acciones federales que hubiere practicado, si de ellas se desprenden probables responsabilidades de los servidores públicos, a fin de que se acuerde lo procedente;
 
-XI. Proponer los sistemas de control y vigilancia de las obras ejecutadas con recursos federales;
+XVI. Identificar incongruencias, desviaciones y omisiones que, sin ser delitos o constituir responsabilidades, se presenten en la ejecución de los programas federales que se apliquen en el estado y elaborar propuestas para su adecuación, que garanticen una mejor operación;
 
-XII. Promover entre las dependencias y entidades, que el cumplimiento de las acciones y programas federales se realice con estricto apego a los principios de legalidad, honradez, imparcialidad y eficiencia, así como a la normatividad vigente;
+XVII. Realizar, cuando así se le ordene, las auditorías en las Dependencias y Entidades, a fin de vigilar el estricto cumplimiento de las leyes y normas federales que regulen el ejercicio, control y administración de recursos federales y demás disposiciones legales, así como las auditorías convenidas mediante acuerdos de coordinación y de colaboración celebrados con la federación, en cumplimiento de los términos del acuerdo y con base en las políticas y normas que para tal efecto se establezcan, así como designar a las personas que habrán de realizarlas;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+XVIII. Emitir las cédulas de observaciones e informes derivados de la práctica de auditorías que se realicen a las Dependencias y Entidades que se refieran a acciones o programas con cargo a recursos federales, haciendo las recomendaciones preventivas y, en su caso, las correctivas que resulten procedentes para solventar las observaciones, así como supervisar la elaboración y emitir para su remisión al área substanciadora competente, los informes respectivos y demás documentación que establezca la legislación aplicable en materia de responsabilidades administrativas, teniendo el carácter de parte en los procedimientos disciplinarios que, en su caso, se instauren;
 
-XIII. Coordinar, cuando así se requiera, las acciones que lleven a cabo los órganos de control interno en las dependencias y entidades, para la mejor ejecución de los programas federales;
+XIX. Promover la capacitación y adiestramiento del personal de las áreas de auditoría y responsabilidades, en materia de recursos federales; para tal efecto, deberá integrar y someter a autorización de su superior el Programa Anual de Capacitación del Personal de Auditoría;
 
-XIV. Dar seguimiento al cumplimiento de las normas, procedimientos, programas y políticas que regulen el ejercicio del gasto federal;
+XX. Proponer las actividades de capacitación a desarrollar en coordinación con otras Dependencias y Entidades, con las autoridades públicas y con las diferentes organizaciones sociales, dentro del Programa de Contraloría Social;
 
-XV. Establecer los procedimientos a que debe sujetarse la vigilancia de fondos y valores federales, así como evaluar sus resultados;
+XXI. Establecer los criterios y formatos para la integración de información estadística, así como proporcionar los resultados y evaluaciones de las actividades de esta dirección que le soliciten sus superiores, la Secretaría de Administración y Finanzas o la unidad administrativa que tenga competencia para ello;
 
-XVI. Turnar a su superior, los expedientes relativos a las investigaciones y auditorías relativas a programas y acciones federales que hubiere practicado, si de las mismas se desprenden presuntas responsabilidades de los servidores públicos, a fin de que se acuerde lo procedente;
+XXII. Emitir los dictámenes técnicos, periciales y contables que le soliciten las unidades competentes para ello o que deriven de la práctica de investigaciones de oficio y auditoría del ejercicio de recursos federales;
 
-XVII. Identificar incongruencias, desviaciones y omisiones que, sin ser delitos o constituir responsabilidades, se presenten en la ejecución de los programas federales que se apliquen en el Estado y elaborar propuestas de adecuación a los mismos, que garanticen una mejor operación;
+XXIII. Proponer a su superior para su aprobación, los programas, guías e instructivos que establezcan las disposiciones legales y administrativas aplicables, para la planeación, programación, inicio, desarrollo y conclusión de las auditorías a programas y acciones federales;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+XXIV. Dar seguimiento a las observaciones determinadas en las visitas realizadas por los órganos de control interno a las Dependencias y Entidades, y que se refieran a recursos federales, con excepción de las participaciones federales y los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas que corresponden a ingresos de libre disposición en términos de lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, hasta su total solventación;
 
-XVIII. Realizar, cuando así se le ordene, las auditorías en las dependencias y entidades, a fin de vigilar el estricto cumplimiento de las leyes y normas federales que regulen el ejercicio, control y administración de recursos federales y demás disposiciones legales, así como las auditorías convenidas mediante Acuerdos de Coordinación y de Colaboración celebrados con la Federación, en cumplimiento a los términos del Acuerdo y con base a las políticas y normas que para tal efecto se establezcan, así como designar a las personas que habrán de realizarlas;
+XXV. Llevar el control de los asuntos turnados a la Dirección de Responsabilidades y Normatividad y darles seguimiento hasta su resolución definitiva;
 
-XIX. Analizar el contenido de los informes derivados de la práctica de auditorías a las dependencias y entidades que se refieran a acciones o programas con cargo a recursos federales, y turnar a su superior los resultados, a fin de que se emitan las recomendaciones procedentes a los entes auditados o se turnen a las autoridades competentes cuando se deriven presuntas responsabilidades de servidores públicos;
+XXVI. Dictaminar sobre las opiniones que corresponde emitir a la Contraloría en relación con programas federales, cuando se lo soliciten las unidades administrativas competentes, en cuanto se refieran a las instrucciones sobre la forma y términos en que las Entidades deban llevar sus registros contables y, en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación;
 
-XX. Promover la capacitación y adiestramiento del personal de las áreas de Auditoría, Quejas y Responsabilidades, en materia de recursos federales; para tal efecto, deberá integrar y someter a autorización de su superior el Programa Anual de Capacitación del Personal de Auditoría;
+XXVII. Actuar como enlace en los procesos de la auditoría y coordinar el seguimiento a las observaciones determinadas en las auditorías realizadas por la Secretaría de la Función Pública, la Auditoría Superior de la Federación y otras instancias de fiscalización, sobre el ejercicio de recursos federales, y
 
-Asimismo proponer las actividades de capacitación a desarrollar en coordinación con otras dependencias y entidades, con las autoridades públicas y con las diferentes organizaciones sociales, dentro del Programa de Contraloría Social.
+XXVIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
-XXI. Requerir, cuando lo estime conveniente para el cumplimiento de sus atribuciones, información y documentación a las dependencias y entidades, así como a las federales y a los particulares, y solicitar a proveedores y contratistas los datos e informes que requiera, en los términos de las disposiciones legales aplicables;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XXII. Establecer los criterios y formatos para la integración de información estadística, así como proporcionar los resultados y evaluaciones de las actividades de esta Dirección que le soliciten sus superiores, la Secretaría de Administración y Finanzas o la unidad administrativa que tenga competencia para ello;
-
-XXIII. Emitir los dictámenes técnicos y contables que le soliciten las unidades competentes para ello;
-
-XXIV. Proponer a su superior para su aprobación, los programas, guías e instructivos que establezcan las disposiciones legales y administrativas aplicables, para la planeación, programación, inicio, desarrollo y conclusión de las auditorías a programas y acciones federales;
-
-XXV. Dar seguimiento a las observaciones determinadas en las visitas realizadas por los órganos internos de control a las dependencias y entidades, y que se refieran a recursos federales, hasta su total solventación;
-
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
-
-XXVI. Llevar el control de los asuntos turnados a la Dirección de Normatividad, Quejas y Responsabilidades y darles seguimiento hasta su resolución definitiva;
-
-XXVII. Dictaminar sobre las opiniones que corresponden emitir a esta Secretaría, cuando se lo soliciten las unidades administrativas competentes de la misma, y que deba rendir en su ámbito de competencia, en cuanto se refieran a las instrucciones sobre la forma y términos en que las entidades deban llevar sus registros contables, y en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Así como la modificación o simplificación del funcionamiento del sistema y los procedimientos de contabilidad de cada Entidad a que se refiere el Artículo 36 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Yucatán, en relación con programas federales, y
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XXVIII. Actuar como enlace en los procesos de la auditoría y coordinar el seguimiento a las observaciones determinadas en las auditorías realizadas por la Auditoría Superior de la Federación sobre el ejercicio de recursos federales, y
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XXIX. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 528.
 
-A la Jefatura de Auditoría le corresponde el despacho de los siguientes asuntos:
+Al jefe del Departamento de Auditoría le corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 I. Realizar en forma directa cuando así se le ordene, las auditorías en las dependencias y entidades, a fin de vigilar el estricto cumplimiento de las leyes y normas federales que regulen el ejercicio, control y administración de recursos federales y demás disposiciones legales aplicables, así como las convenidas mediante Acuerdos de Coordinación y de Colaboración celebrados con la Federación en cumplimiento a los términos del Acuerdo y con base a las políticas y normas que para tal efecto se establezcan;
 
-II. Analizar el contenido de los informes derivados de la práctica de auditorías a las dependencias y entidades que se refieran a acciones o programas con cargo a recursos federales, y turnar a su superior los resultados, a fin de que se emitan las recomendaciones procedentes a los entes auditados o se turnen a las autoridades competentes cuando se deriven presuntas responsabilidades de servidores públicos;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-III. Integrar los expedientes relativos a las investigaciones y auditorías relativas a programas y acciones federales que hubiere practicado, si de las mismas se desprenden presuntas responsabilidades de los servidores públicos, a fin de que se acuerde lo procedente;
+II. Supervisar la elaboración, y proponer al titular de la Dirección de Programas Federales el contenido, de las cédulas de observaciones e informes derivados de la práctica de auditorías a las Dependencias y Entidades que se refieran a acciones o programas con cargo a recursos federales a fin de que se emitan las recomendaciones que resulten procedentes para solventar las observaciones, así como supervisar la elaboración y emitir los informes de probable responsabilidad administrativa y demás documentación que establezca la legislación aplicable en materia de responsabilidades administrativas, teniendo el carácter de parte en los procedimientos disciplinarios que, en su caso, se instauren;
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+III. Integrar los expedientes de las investigaciones de oficio y auditorías relativas a programas y acciones federales que hubiere practicado, si de ellas se desprenden probables responsabilidades de los servidores públicos, a fin de que se acuerde lo procedente;
 
 IV. Formular los programas, guías e instructivos que establezcan las disposiciones legales y administrativas aplicables, para el desarrollo y conclusión de las auditorías a programas y acciones federales, y proponerlas a su superior para su aprobación;
 
-V. Dar seguimiento a las observaciones determinadas en las visitas realizadas a las dependencias y entidades, y que se refieran a recursos federales, hasta su total solventación;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+V. Dar seguimiento a las observaciones determinadas en las visitas realizadas a las Dependencias, Entidades y particulares, y que se refieran a recursos federales;
 
 VI. Acordar con su superior inmediato la resolución de los asuntos relevantes, cuya tramitación se encuentre dentro del área de su competencia;
 
-VII. Formular los dictámenes técnicos y contables, opiniones e informes que les sean encomendados por la superioridad, en aquellos asuntos que sean propios de su competencia;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Formular los dictámenes técnicos, periciales y contables, opiniones e informes que le sean encomendados por la superioridad, en aquellos asuntos que sean propios de su competencia;
 
 VIII. Asesorar técnicamente en asuntos de su competencia a los servidores públicos de la Contraloría;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Proponer a la superioridad el establecimiento de los sistemas de control y vigilancia de las obras ejecutadas con recursos federales, así como evaluar los resultados de los programas federales auditados;
+IX. Proponer a la superioridad el establecimiento de las mejoras al control y vigilancia del ejercicio de los recursos federales auditados, así como evaluar los resultados de los programas federales revisados;
 
 X. Dar seguimiento al cumplimiento de las normas, procedimientos, programas y políticas que regulen el ejercicio del gasto federal;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XI. Elaborar el anteproyecto de informe que el Director debe rendir al Director General sobre los resultados de las inspecciones o revisiones efectuadas, para la instrumentación de las acciones y medidas correctivas que correspondan a recursos federales;
+XI. Elaborar el anteproyecto de informe anual para el Comité Coordinador del Sistema Estatal Anticorrupción y el que el director debe rendir al director general sobre los resultados de las inspecciones o revisiones efectuadas, para la instrumentación de las acciones y medidas correctivas que correspondan a recursos federales;
 
 XII. Proponer a su superior jerárquico, las actividades de capacitación que en materia de programas federales requiera su área de auditoría;
 
@@ -9671,17 +9675,93 @@ XIV. Formular y proponer a su superior, conforme a los lineamientos establecidos
 
 XV. Proporcionar la información, datos o cooperación técnica que le sea requerida internamente o por otras dependencias y entidades, de acuerdo con las políticas y normas que establezca el Secretario;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XVI. Actuar como enlace en los procesos de la auditoría y dar seguimiento a las observaciones determinadas en las auditorías realizadas por la Auditoría Superior de la Federación sobre el ejercicio de recursos federales; y
+XVI. Actuar como enlace en los procesos de la auditoría y dar seguimiento a las observaciones determinadas en las auditorías realizadas de manera directa o en forma conjunta con la Secretaría de la Función Pública sobre el ejercicio de recursos federales, y
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 XVII. Las demás que le establezcan este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 528 Bis.
+
+Al jefe del Departamento de Fiscalización le corresponde el despacho de los siguientes asuntos:
+
+I. Dar seguimiento a las auditorías que realice la Auditoría Superior de la Federación en las Dependencias y Entidades, a fin de vigilar el estricto cumplimiento de las leyes y normas que regulen el ejercicio, control y administración de recursos y aportaciones federales, exceptuando las participaciones federales y los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas que corresponden a ingresos de libre disposición en términos de lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones legales aplicables;
+
+II. Dar seguimiento y analizar el contenido de los resultados de la revisión de la cuenta pública que realice la Auditoría Superior de la Federación en las Dependencias y Entidades, así como supervisar la elaboración y emitir los informes de probable responsabilidad administrativa y demás documentación que establezca la legislación aplicable en materia de responsabilidades administrativas de su competencia, para su remisión al área substanciadora competente, teniendo el carácter de parte en los procedimientos disciplinarios que, en su caso, se instauren;
+
+III. Integrar los expedientes relativos a las auditorías que se realicen por la Auditoría Superior de la Federación e investigaciones de oficio que resulten de estas, excepto las que deriven de la revisión del ejercicio del gasto de participaciones federales y de los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas, así como elaborar y emitir los informes de probable responsabilidad administrativa que correspondan a su competencia, si de las auditorías se desprenden probables responsabilidades de los servidores públicos, a fin de que se acuerde lo procedente;
+
+IV. Acordar con su superior inmediato la resolución de los asuntos relevantes, cuya tramitación se encuentre dentro del área de su competencia;
+
+V. Formular los dictámenes técnicos, periciales y contables, opiniones e informes que les sean encomendados por la superioridad, en aquellos asuntos que sean propios de su competencia;
+
+VI. Asesorar técnicamente en asuntos de su competencia a los servidores públicos de la Contraloría;
+
+VII. Proponer a la superioridad el establecimiento de mejoras al control y vigilancia del ejercicio de los recursos federales auditados;
+
+VIII. Dar seguimiento al cumplimiento de las normas, procedimientos, programas y políticas que regulen el ejercicio del gasto público de los fondos y aportaciones que emanan de la Ley de Coordinación Fiscal, excepto de las que deriven de las participaciones federales;
+
+IX. Elaborar el anteproyecto de informe anual al Comité Coordinador del Sistema Estatal Anticorrupción y el que el Director de Programas Federales debe rendir al Director General de Programas Federales sobre los resultados de las inspecciones o revisiones efectuadas, para la instrumentación de las acciones y medidas correctivas que correspondan al ejercicio del gasto público de los fondos y aportaciones federales, exceptuando las participaciones y recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas;
+
+X. Proponer a su superior jerárquico las actividades de capacitación que en materia del ejercicio del gasto público de los fondos y aportaciones que derivan de la Ley de Coordinación Fiscal requiera su área de auditoría;
+
+XI. Proporcionar los resultados y evaluaciones de las actividades de la dirección que le soliciten sus superiores o la unidad administrativa que tenga competencia para ello;
+
+XII. Formular y proponer a su superior, conforme a los lineamientos establecidos, los proyectos de manuales de organización, procedimientos y servicios correspondientes a la jefatura a su cargo;
+
+XIII. Proporcionar la información, datos o cooperación técnica que le sea requerida internamente o por otras Dependencias y Entidades, de acuerdo con las políticas y normas que establezca el secretario;
+
+XIV. Actuar como enlace en los procesos de la auditoría y dar seguimiento a las observaciones determinadas en las auditorías realizadas por la Auditoría Superior de la Federación sobre el ejercicio de recursos federales, excepto las que deriven de la revisión del ejercicio del gasto de participaciones federales y del Fondo de Estabilización de los Ingresos de las Entidades Federativas, y
+
+XV. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 528 Ter.
+
+Al jefe del Departamento de Apoyo a Investigaciones relacionadas con Programas Federales le corresponde:
+
+I. Proponer al director de Programas Federales los manuales de actuación que contengan lineamientos y criterios a los que el personal de su departamento deba apegarse en la realización de investigaciones;
+
+II. Concentrar, recopilar y mantener actualizado el listado de incidencias, hallazgos o conductas derivadas de investigaciones que deban conocer las unidades administrativas adscritas a la Dirección de Programas Federales, e informar de manera trimestral al titular de dicha dirección el estado que guardan;
+
+III. Supervisar y proponer acciones para la adecuada investigación que en razón de su naturaleza deba realizar el personal a su cargo, así como dictaminar respecto a su competencia;
+
+IV. Emitir opiniones y desahogar las consultas que el director de Programas Federales o el personal (sic) su cargo le realicen en relación con la integración de investigaciones e informes que les correspondan;
+
+V. Supervisar, revisar y autorizar los Informes de Probable Responsabilidad Administrativa que deba emitir el personal a su cargo;
+
+VI. Emitir sugerencias, prevenciones o requerimientos al personal a su cargo a fin de generar una adecuada conducción de las investigaciones que deba realizar;
+
+VII. Actuar como apoyo y enlace entre las autoridades investigadoras a su cargo y las sustanciadoras y resolutoras señaladas en la fracción II del artículo 524 bis de este reglamento;
+
+VIII. Fungir como autorizado o representante del personal que realice investigaciones a su cargo en los procedimientos disciplinarios a que hayan lugar;
+
+IX. Dar acompañamiento, previa solicitud, a las autoridades investigadoras adscritas a la Dirección de Programas Federales, en el desahogo de prevenciones o requerimientos que, en su caso, le realicen las autoridades sustanciadoras o resolutoras;
+
+X. Proponer las medidas precautorias o la aplicación de medios de apremio que deban plantear, en el ejercicio de sus atribuciones, las autoridades investigadoras a su cargo;
+
+XI. Emitir las recomendaciones que resulten pertinentes para un mejor desarrollo de los asuntos que deban investigar y dictaminar las unidades administrativas a su cargo;
+
+XII. Compilar los resultados, resoluciones y criterios que emanen de los procedimientos de responsabilidad administrativa en los que sea parte cualquiera de las unidades administrativas a su cargo;
+
+XIII. Elaborar un anteproyecto de informe anual que deba rendirse al Comité Coordinador del Sistema Estatal Anticorrupción respecto a las actividades que desarrolla su departamento;
+
+XIV. Acordar con el director de Programas Federales, la resolución de los asuntos relevantes cuya tramitación se encuentre dentro del área de su competencia o bajo su supervisión;
+
+XV. Proponer a la superioridad el establecimiento de mejoras a los procesos de integración de investigaciones derivadas del ejercicio de las atribuciones conferidas a su departamento;
+
+XVI. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 529.
 
-A la Jefatura de la Contraloría Social le corresponde el despacho de los siguientes asuntos:
+Al jefe del Departamento de la Contraloría Social le corresponde el despacho de los siguientes asuntos:
 
 I. Promover en los grupos sociales beneficiarios de los programas federales, actitudes y conductas propias de un ambiente de orden y disciplina, con apego al marco legal y a la normatividad correspondiente;
 
@@ -9691,13 +9771,101 @@ II. Capacitar y asesorar a los integrantes de los consejos de colaboración muni
 
 III. Establecer estrategias y formas de difusión, a fin de promover la participación en acciones de contraloría social de los programas establecidos y proponerlas a su superior jerárquico para su implementación;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Tramitar, controlar y dar seguimiento a las sugerencias, reconocimientos, quejas y denuncias relacionadas con los programas federales y las que remita la Secretaría de la Función Pública;
+IV. Tramitar, controlar y dar seguimiento a las sugerencias, reconocimientos, quejas y denuncias relacionadas con los programas federales de desarrollo social y remitir a la autoridad investigadora competente las quejas y denuncias que puedan dar lugar a la constitución de faltas administrativas, civiles o penales relacionadas con los programas sociales;
 
 V. Proponer a su superior inmediato la resolución de los asuntos relevantes, cuya tramitación se encuentre dentro del área de su competencia, y
 
 VI. Las demás que le establezcan este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Artículo. 530. Al Director de Auditoría e Inspección de Obra Pública le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+I. Informar trimestralmente al inmediato superior sobre los resultados de las acciones relevantes, avances de los programas y demás actividades propias de esta dirección, así como elaborar los informes que deban emitirse al Comité Coordinador del Sistema Estatal Anticorrupción en el ámbito de inspección y vigilancia de obra pública que realicen las Dependencias y Entidades de la Administración Pública estatal;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. De manera coordinada con la unidad administrativa correspondiente o autónomamente en caso de ser necesario, formular y someter a la aprobación de su superior jerárquico, los programas, guías e instructivos, normas políticas y procedimientos, en los términos de las disposiciones legales y administrativas aplicables a los aspectos de planeación, programación, inicio, desarrollo, conclusión y control de las auditorias a obra pública que se realicen a las dependencias y entidades;
+
+III. Vigilar que las dependencias y entidades den cumplimiento a las disposiciones que regulan la realización de las obras públicas, tanto en el aspecto de su ejecución material, como en sus aspectos administrativos de planeación, contratación presupuestación, previstos en las disposiciones federales o estatales, según sean aplicables;
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Ordenar auditorías e investigaciones de oficio de las obras que realicen las Dependencias y Entidades de la Administración Pública estatal en cualquier momento de su ejecución, para constatar la correcta aplicación de los recursos públicos comprometidos conforme a los programas federales y a las disposiciones jurídicas en materia de obra pública, emitiendo las cédulas de observaciones que se realicen de manera directa y firmando los demás documentos que sean necesarios;
+
+V. Analizar, comprobar y opinar sobre el contenido de los informes, que en materia de obra pública ejecutada con recursos federales transferidos o con los propios del Estado, le presenten a la Contraloría, las dependencias y entidades ejecutoras;
+
+VI. Implementar, determinar y proponer los requerimientos mínimos de información que deberán enviar a la Contraloría las dependencias y entidades, para mantener un adecuado seguimiento a los aspectos de planeación, programación, presupuestación, contratación, ejecución y control de las obras públicas que se realizan con recursos federales transferidos o con los propios del estado, señalando el contenido, uso que tendrá dicha información, periodicidad, medios de envío y formatos que se deberán utilizar;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII. Coordinar y vigilar mediante la supervisión e inspección física que las obras públicas, en proceso de ejecución y terminadas que realizan las dependencias y entidades con recursos federales y los propios del estado, se lleven a cabo conforme a las disposiciones jurídicas aplicables y en caso de existir irregularidades, se emitan por escrito las observaciones y las recomendaciones pertinentes;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Vigilar permanentemente la correcta integración, actualización y control de los inventarios de los expedientes producto de la totalidad de las acciones de esta Dirección y sus Jefaturas referente de las Obras Públicas, que realizan las dependencias y entidades;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IX. Participar en los actos del proceso de recepción de las obras públicas y acciones ejecutadas por las dependencias y entidades, con recursos federales o estatales, con el fin de verificar la calidad, el apego a las normas o especificaciones de los trabajos contratados y ejecutados;
+
+X. Promover la capacitación permanente del personal a su cargo, para su desarrollo profesional, actualización tecnológica, mejora continua en sus funciones, así como promover la certificación técnica del personal supervisor en cuanto a los procedimientos y normatividad en materia de verificación y control de la obra pública;
+
+XI. Coordinarse con la unidad administrativa que resulte competente para revisar y validar las propuestas de auditorías de obra pública, que se integrarán al Programa Anual de Auditorías;
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Emitir, en el ámbito de su competencia, los dictámenes técnicos y periciales en materia de inspección, control y vigilancia de obra pública que le soliciten las áreas competentes de la Contraloría o su superior; para lo cual podrá coordinarse con las áreas administrativas involucradas;
+
+XIII. Requerir, cuando lo estime conveniente para el cumplimiento de sus funciones, datos, información y documentación a las dependencias y entidades estatales y federales, así como a los contratistas, en los términos de las disposiciones legales aplicables;
+
+XIV. Participar e intervenir cuando así se requiera en los procesos de conciliación en materia de obra pública, para dar seguimiento, evaluar y emitir observaciones vinculatorias;
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Fungir como área investigadora y coordinar los procesos de auditoría, investigaciones de oficio y verificación que se lleven a cabo a las Dependencias y Entidades en relación con las obras públicas y acciones derivadas de programas estatales con aplicación de recursos propios del estado o transferidos, así como de programas federalizados previstos en el Presupuesto de Egresos de la Federación, convenios y demás instrumentos de coordinación celebrados con la Secretaría de la Función Pública, designando al personal que ha de realizar esos procesos y vigilando que se dé cumplimiento a las metas que se determinen en la aplicación de estos recursos, conforme a las reglas de operación establecidas para estos programas y a las disposiciones jurídicas aplicables en materia de obra pública;
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Supervisar que las acciones de integración de resultados, observaciones e informes finales de las auditorías, investigaciones de oficio y verificaciones mencionadas en la fracción anterior, se realicen conforme a la normativa establecida, informando de ello al Director General de Programas Federales;
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Coordinar, cuando se le solicite, la participación en comités de obra pública y en los actos de los procedimientos de contratación de las obras públicas que realizan las Dependencias y Entidades con recursos federales transferidos o los propios del estado, haciendo las recomendaciones pertinentes tanto durante la celebración de los actos, como con posterioridad a su realización;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Asesorar a las dependencias y entidades ejecutoras de la Administración Pública Estatal, en materia de inspección y seguimiento de obra pública, así como establecer estrecha coordinación del flujo de información y documentación;
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Emitir y turnar al Director de Responsabilidades y Normatividad, los informes de probable responsabilidad y documentación de los resultados de las observaciones provenientes de auditorías, fiscalizaciones, investigaciones de oficio, revisiones, supervisiones y actas circunstanciadas en materia de obra pública, para efecto de que se substancien y resuelvan los procedimientos disciplinarios que, en su caso, se instauren, teniendo el carácter de parte en ellos;
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Designar al personal supervisor que, en su caso, lleve a cabo las inspecciones de campo durante el proceso de ejecución y verificación de la terminación de la obra pública, que realizan las áreas encargadas de su ejecución en las Dependencias y Entidades, con el fin de inspeccionar que cumplan con lo establecido en el contrato y se apeguen a las normas y especificaciones aplicables;
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XXI. Emitir los requerimientos de información y documentación en el ejercicio de las atribuciones de su competencia, que sean necesarias para llevar a cabo las auditorías, investigaciones de oficio y visitas de verificación;
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XXII. Proponer al secretario los anteproyectos de lineamientos a que hace referencia la Ley de Obra Pública y Servicios Conexos en materia de mecanismos de evaluación de puntos y porcentajes y ajustes de costos, así como la forma y términos en que se deberá enviar a la Contraloría la información relativa a los contratos con el objeto de verificar los aspectos técnicos y la calidad de las obras y servicios conexos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII. Supervisar el ejercicio de las funciones que corresponden al secretario como Administrador del Ente Público Estatal del Programa Informático de la Bitácora Electrónica de Obra Pública, habilitando, administrando y controlando los accesos a los diversos administradores locales del estado de Yucatán, en términos de los lineamientos y la normativa emitida por la Secretaría de la Función Pública, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 530.
 
@@ -9775,93 +9943,91 @@ XXII. Las demás que le confieran este Reglamento y otras las (sic) disposicione
 
 ###### Artículo 531.
 
-Al Jefe de Supervisión de Obra Pública, Zona Federal le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento de Auditoría de Obra Pública le corresponde el despacho de los siguientes asuntos:
 
-I. Participar en la ejecución de los procesos de auditoría y verificación que se llevan al (sic) cabo a las dependencias y entidades, en relación a las obras públicas y acciones derivadas de programas con recursos federales previstos en el presupuesto de egresos de la federación correspondiente y que deriven de, convenios de coordinación o anexos de ejecución celebrados con las dependencias y entidades del Ejecutivo Federal, a fin de vigilar el cumplimiento de las metas que se determinen en el ejercicio de estos recursos, conforme a las reglas de operación establecidas para estos programas y las disposiciones jurídicas aplicables en materia de obra pública;
+I. Participar en la ejecución de los procesos de auditoría e investigaciones de oficio que se llevan a cabo a las Dependencias y Entidades, relacionadas con las obras públicas y acciones derivadas de programas con recursos federales previstos en el presupuesto de egresos de la federación correspondiente y que deriven de convenios de coordinación o anexos de ejecución celebrados con las Dependencias y Entidades del Ejecutivo federal, así como de las obras que se lleven a cabo con recursos estatales, a fin de vigilar el cumplimiento de las metas que se determinen en el ejercicio de estos recursos, conforme a las reglas de operación establecidas para estos programas y a las disposiciones jurídicas aplicables en materia de obra pública;
 
-II. Integrar resultados de auditorías y verificaciones e informar a su superior jerárquico acerca de las revisiones realizadas a los procesos de planeación, programación, presupuestación y ejecución de obras y acciones financiadas total o parcialmente con recursos federales;
+II. Integrar los resultados de auditorías e investigaciones de oficio, informando a su superior jerárquico acerca de las revisiones e inspecciones realizadas a los procesos de planeación, programación, presupuestación y ejecución de obras y acciones financiadas total o parcialmente con recursos federales;
 
-III. Coordinar las acciones de los supervisores designados para la ejecución de las auditorías y verificaciones, así como los operativos en campo a fin de que se cumplan las disposiciones establecidas en los manuales, guías y metodología aplicable para este fin;
+III. Coordinar las acciones de los auditores, inspectores y personal comisionado para llevar a cabo auditorías, investigaciones de oficio e inspecciones, a fin de que se cumplan las disposiciones establecidas en los manuales, guías y metodología aplicable para este fin;
 
-IV. Emitir, en el ámbito de su competencia, los dictámenes técnicos, informes y recomendaciones relacionados con el seguimiento de las auditorías y verificaciones efectuadas, cuando así lo solicite el inmediato superior;
+IV. Supervisar, en el ámbito de su competencia, la elaboración de dictámenes técnicos y periciales, cédulas de observaciones, recomendaciones e informes finales relacionados con el seguimiento de las auditorías de obra pública efectuadas, emitiendo los informes de probable responsabilidad administrativa, para su remisión a la autoridad substanciadora competente, teniendo el carácter de parte en los procedimientos disciplinarios que, en su caso, se instauren, cuando así lo solicite el inmediato superior;
 
-V. Participar directamente en la vigilancia y evaluación de programas federales de acuerdo a la metodología y las acciones conjuntas que se establezcan con la Secretaría de la Función Pública;
+V. Participar directamente en la vigilancia y evaluación de programas federales de acuerdo con la metodología y las acciones conjuntas que se establezcan con la Secretaría de la Función Pública;
 
-VI. Participar directamente en los actos programados en el proceso de recepción de obras y acciones ejecutadas por dependencias y entidades, con recursos federales o estatales;
+VI. Participar directamente en los actos programados de las auditorías de obras ejecutadas por Dependencias y Entidades, con recursos federales o estatales;
 
-VII. Designar al personal supervisor que en su caso, lleve a cabo verificaciones durante el proceso de ejecución y recepción de las obras públicas que realicen las dependencias y entidades, con el fin de verificar que las mismas se hayan ejecutado de conformidad con los contratos celebrados, y su apego a las normas y especificaciones aplicables;
+VII. Designar a los auditores y demás personal que intervenga en las auditorías de obra pública, que se realicen en las Dependencias y Entidades, con el fin de verificar que se hayan ejecutado de conformidad con los contratos celebrados, y con apego a las normas y especificaciones aplicables;
 
-VIII. Vigilar que los actos programados en el proceso de recepción de obras y acciones se lleven a cabo conforme a las disposiciones jurídicas aplicables en materia de obra pública y en caso de existir irregularidades se emitan por escrito las observaciones o recomendaciones pertinentes;
+VIII. Participar en los comités de obra pública en los que las Dependencias y Entidades requieran la participación y opinión técnica de la Contraloría como invitado respecto a obras sujetas a alguna auditoría, con voz pero sin voto, permaneciendo en la sesión solo durante la presentación y discusión del tema para el cual fueron invitados;
 
-IX. Verificar que las deficiencias detectadas en la terminación de las obras sean reparadas, así como remitir al Director de Inspección de Obra Pública las actas circunstanciadas levantadas a las dependencias y entidades que no solventaron las observaciones formuladas, dentro del término conferido;
+IX. Llevar a cabo, dentro del proceso de solventación de las observaciones de las auditorías realizadas, acciones de verificación, así como remitir al Director de Auditoría e Inspección de Obra Pública las actas circunstanciadas levantadas a las Dependencias y Entidades que no solventaron las observaciones formuladas, dentro del término conferido;
 
-X. Elaborar y mantener actualizado el inventario de obras terminadas por dependencia o entidad ejecutora, identificando las que fueron realizadas con recursos estatales y federales;
+X. Ejercer las funciones que corresponden al secretario como Administrador del ente público estatal del Programa Informático de la Bitácora Electrónica de Obra Pública, habilitando, administrando y controlando los accesos a los diversos administradores locales del estado de Yucatán, en términos de los lineamientos y la normativa emitida por la Secretaría de la Función Pública;
 
-XI. Elaborar el informe trimestral de resultados de las acciones relevantes, así como de la información requerida por el inmediato superior acerca de las actividades propias de la jefatura;
+XI. Elaborar los informes que solicite el Comité Coordinador del Sistema Estatal Anticorrupción, así como el trimestral de resultados de las acciones relevantes, así como de la información requerida por el inmediato superior acerca de las actividades propias de la jefatura;
 
 XII. Evaluar el desempeño de las labores del personal a su cargo y promover la capacitación permanente para su desarrollo profesional y mejora continua en sus funciones, y
 
-XIII. Las demás que le establezcan este Reglamento y otras disposiciones legales aplicables.
+XIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 532.
 
-Al Jefe de Supervisión de Obra Pública, Zona Estatal le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento de Inspección de Obra Pública, le corresponde el despacho de los siguientes asuntos:
 
-I. Elaborar y poner a consideración del Director de Inspección de Obra Pública el Programa Anual de Trabajo de la Jefatura, así como organizar, dirigir, supervisar y evaluar las actividades de sus programas y proyectos;
+I. Elaborar y poner a consideración del Director de Inspección de Obra Pública el Programa Anual de Trabajo de la jefatura, así como organizar, dirigir, supervisar y evaluar las actividades de sus programas y proyectos;
 
-II. Realizar las acciones correspondientes a fin de obtener de las dependencias y entidades, la documentación para llevar al cabo una adecuada supervisión y seguimiento de las obras públicas que se realicen con recursos federales transferidos o propios del Estado, señalando las características, periodicidad y calidad con que deberán presentarse;
+II. Realizar las acciones correspondientes a fin de obtener de las Dependencias y Entidades documentación e información con el objeto de inspeccionar y verificar la debida ejecución de las obras públicas que se realicen con recursos federales transferidos o propios del estado;
 
 III. Evaluar el desempeño de las labores del personal adscrito a su área y promover la capacitación permanente para su desarrollo profesional y mejora continua en sus funciones;
 
-IV. Realizar la supervisión y verificación del avance físico de la obra pública que lleven al cabo las dependencias y entidades con recursos presupuestales autorizados previamente, conforme a las disposiciones legales aplicables en la materia;
+IV. Realizar la inspección y verificación del avance físico de la obra pública que lleven al cabo las Dependencias y Entidades con recursos presupuestales autorizados previamente, conforme a las disposiciones legales aplicables en la materia;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+V. Llevar a cabo inspecciones y acciones de verificación que tengan por objeto constatar si la supervisión de las obras públicas en proceso de ejecución que realizan las Dependencias y Entidades con recursos federales transferidos y los propios del estado, se lleven a cabo conforme a las disposiciones jurídicas aplicables en materia de obra pública y, en caso de existir irregularidades, emitir de manera escrita las observaciones y las recomendaciones pertinentes, a fin de que sean subsanadas, realizando el seguimiento de las acciones que se lleven a cabo para tal efecto;
 
-V. Vigilar que la supervisión de las obras públicas en proceso de ejecución que realizan las dependencias y entidades con recursos federales transferidos y los propios del estado se lleven a cabo conforme a las disposiciones jurídicas aplicables en materia de obra pública y en caso de existir irregularidades, emitir de manera escrita las observaciones y las recomendaciones pertinentes;
+VI. Verificar, cuando lo estime conveniente y previa notificación del inicio del proceso de verificación de la terminación de la obra pública por parte de las Dependencias y Entidades, la debida terminación de las obras públicas conjuntamente con los residentes de obra de las áreas encargadas de su ejecución, haciendo por escrito las observaciones o recomendaciones pertinentes cuando se encuentren deficiencias a fin de que sean corregidas o subsanadas, previo a que se fije la fecha de recepción de la obra;
 
-VI. Integrar y mantener actualizado, durante el ejercicio correspondiente, el inventario de obras realizadas con recursos estatales y el de las obras que se ejecuten con fondos transferidos por la federación;
+VII. Coordinarse, cuando lo requiera, con el Departamento de inconformidades, Sanciones y Conciliaciones de la Dirección de Responsabilidades y Normatividad solicitando la opinión y asesoría jurídica en las acciones de inspección de obra pública realizadas por las Dependencias y Entidades en las que intervengan las empresas contratistas;
 
-VII. Mantener coordinación estrecha con la Jefatura de Normatividad en Obras Públicas y Adquisiciones para la participación en los procedimientos de contratación de obra pública realizadas por las dependencias y entidades que ejecutan con recursos federales y propios del estado;
+VIII. Participar en los comités de obra pública en los que las Dependencias y Entidades requieran la participación y opinión técnica de la Contraloría como invitado en la etapa de planeación, contratación y ejecución de las obras públicas, con voz pero sin voto, permaneciendo en la sesión solo durante la presentación y discusión del tema para el cual fue invitado;
 
-VIII. Participar, cuando así se solicite o se lo ordene su superior jerárquico, en los actos de los procedimientos de contratación de obra pública, verificando que se cumpla con la normatividad respectiva;
+IX. Llevar a cabo las investigaciones de oficio de obras en proceso, así como visitas de verificación, observando lo dispuesto en las leyes y reglamentos de obra pública, así como de las leyes de actos y procedimientos administrativos aplicables, cuando sean objeto de la inspección los actos de particulares y, en su caso, supervisar la elaboración y emitir los informes de probable responsabilidad, para su envío a la autoridad substanciadora competente, teniendo el carácter de parte en los procedimientos disciplinarios que, en su caso, se instauren con motivo de los informes remitidos, cuando así lo solicite el inmediato superior;
 
-IX. Elaborar y mantener actualizado el inventario de los expedientes de obras supervisadas por dependencia o entidad ejecutora, identificando las que fueron realizadas con recursos estatales y federales;
+X. Elaborar los informes que solicite el Comité Coordinador del Sistema Estatal Anticorrupción y el informe trimestral de resultados de las acciones relevantes, así como de la información requerida por el inmediato superior acerca de las actividades propias del departamento;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+XI. Designar a los verificadores, inspectores y demás personal que intervenga en las investigaciones de oficio y demás procesos de su competencia durante el proceso de ejecución de las obras públicas que realicen las Dependencias y Entidades, con el fin de verificar que las obras se hayan ejecutado de conformidad con los contratos celebrados y con apego a las normas y especificaciones aplicables;
 
-X. Elaborar el Informe Trimestral de resultados de las acciones relevantes, así como de la información requerida por el inmediato superior acerca de las actividades propias de la jefatura;
+XII. Proponer al Director de Auditoría e Inspección de Obra Pública la forma y términos en que se deberá enviar a la Contraloría la información relativa a los contratos con el objeto de verificar los aspectos técnicos y la calidad de las obras y servicios conexos, y
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+XIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
-XI. Designar al personal supervisor que en su caso, lleve a cabo verificaciones durante el proceso de ejecución de las obras públicas que realicen las dependencias y entidades, con el fin de verificar que las mismas se hayan ejecutado de conformidad con los contratos celebrados, y su apego a las normas y especificaciones aplicables, y
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XII. Las demás que le establezcan este Reglamento y otras disposiciones legales aplicables;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 533.
 
-Al Director de Normatividad, Quejas y Responsabilidades, le corresponde el despacho de los siguientes asuntos:
+Al Director de Responsabilidades y Normatividad le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-I. Practicar investigaciones derivadas de quejas, denuncias, o de irregularidades detectadas durante las auditorías y acciones de fiscalización, y solicitar a las dependencias y entidades, cuando proceda, la práctica de investigaciones respecto a actos, omisiones o conductas de servidores públicos, para contar con elementos tendientes a dictaminar la procedencia de las quejas y denuncias y resolver los procedimientos disciplinarios que se instauren;
+I. Admitir o desechar el informe de probable responsabilidad administrativa que le remita la autoridad investigadora competente o, en su caso, prevenirla para que lo subsane o aclare cuando adolezca de la falta de alguno o algunos de los elementos que deba contener o la narración de los hechos sea obscura o irregular, teniéndolo por no presentado en caso de no hacerlo en términos de lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-II. Solicitar información y documentación a la unidad administrativa competente y emitir observaciones a las constancias documentales que obren en el expediente técnico, cuando no se encuentren sustentadas las observaciones hechas y debidamente integradas las evidencias y pruebas que acrediten las presuntas irregularidades detectadas en las auditorías, investigaciones, visitas e inspecciones, a efecto de que sean subsanadas o se determine, en su caso, la improcedencia de iniciar un procedimiento administrativo;
+II. Iniciar, con la admisión del informe de probable responsabilidad, los procedimientos disciplinarios que son competencia de la Contraloría y resolver los que correspondan a las faltas administrativas no graves, en términos de la legislación aplicable en materia de responsabilidades administrativas;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-III. Iniciar y resolver los procedimientos disciplinarios que se instauren a las personas, que en ejercicio de sus funciones como servidores públicos, desempeñen o hayan desempeñado un empleo, cargo o comisión en las dependencias y entidades, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el servicio público;
+III. Decretar las medidas cautelares y los medios de apremio que considere pertinentes, en términos de la legislación aplicable en materia de responsabilidades administrativas;
 
-IV. Designar al personal que podrá realizar las diligencias, requerimientos, citaciones y notificaciones a que haya lugar, expidiendo las constancias de identificación respectivas;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+IV. Designar a quienes actúen como secretarios en los procedimientos disciplinarios, así como al personal que podrá realizar las diligencias, requerimientos, citaciones y notificaciones en los procedimientos de su competencia, expidiendo las constancias de identificación de los notificadores respectivas;
 
-V. Imponer y ordenar la aplicación de las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán a las personas que desempeñen o hayan desempeñado un empleo, cargo o comisión en la Administración Pública Estatal, aplicando la sanción en forma directa en el caso de inhabilitación temporal, cuando derivado de las quejas, denuncias, investigaciones, auditorías y acciones de fiscalización, se determinen responsabilidades administrativas dentro del procedimiento disciplinario;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+V. Imponer y ordenar la aplicación de las sanciones por faltas administrativas no graves previstas en la legislación aplicable en materia de responsabilidades administrativas a los servidores públicos de la Administración Pública estatal y a las personas que habiendo fungido como servidores públicos se ubiquen en los supuestos a que se refiere la referida legislación;
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -9877,19 +10043,21 @@ VIII. Iniciar, conocer y resolver los procedimientos, y en su caso, imponer las 
 
 IX. Coordinar la actualización y registro de servidores públicos y el de proveedores y contratistas que hayan sido sancionados;
 
-X. Turnar a los órganos de control interno, respectivamente, las resoluciones así como los expedientes relativos a las investigaciones y auditorías que se hubieren practicado, cuando de las mismas se derivaren responsabilidades en las que aquéllos deban imponer las sanciones disciplinarias determinadas en los términos de la Ley de la materia;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+X. Ordenar la práctica de notificaciones de los acuerdos y resoluciones relativos a los procedimientos disciplinarios y administrativos de su competencia, facultando al personal que las llevará a cabo;
 
-XI. Expedir las constancias que acrediten la no existencia del registro de inhabilitación, o en su caso, la situación en la que se encuentren en el registro de servidores públicos sancionados las personas que pretendan desempeñar un empleo, cargo o comisión en el servicio público, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán y los convenios que se celebren con la Federación, Entidades Federativas y municipios;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+XI. Expedir, a las personas que les sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público en el ámbito federal, estatal o municipal, las constancias que acrediten no encontrarse inhabilitados en el Sistema Nacional de Servidores Públicos y Particulares Sancionados, el Registro Estatal de Servidores Públicos Inhabilitados o en los registros que sean hechos de su conocimiento por autoridades competentes de la federación, de las entidades federativas o los municipios o, en su caso, la situación en la que se encuentren registrados, de conformidad con la legislación aplicable en materia de responsabilidades administrativas y los convenios que se celebren con la federación, las entidades federativas y municipios;
 
-XII. Diseñar los mecanismos, procedimientos y formatos para la recepción, control, seguimiento, análisis, investigación y resolución de las quejas y denuncias, así como los relativos al proceso de responsabilidades de los servidores públicos del Estado de Yucatán, que se realice en la Contraloría, y los que se lleven en los Órganos de Control Interno;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+XII. Acordar sobre la procedencia de no iniciar el procedimiento de responsabilidad administrativa o de no imponer sanciones a los servidores públicos que se encuentren en las hipótesis normativas previstas en la legislación aplicable en materia de responsabilidades administrativas, o, en su caso, desechar los informes de probable responsabilidad administrativa cuando sobrevenga alguna de las causales de improcedencia o sobreseimiento del procedimiento conforme a lo previsto en la legislación aplicable en materia de responsabilidades administrativas;
 
-XIII. Atender, dictaminar sobre la procedencia y resolver las quejas y denuncias, respecto a la actuación de las personas que desempeñen o hayan desempeñado un empleo, cargo o comisión en las dependencias y entidades de la Administración Pública del Estado;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Recibir y conocer para su trámite, el recurso de inconformidad que se promueva en contra de los acuerdos de abstención de iniciar el procedimiento o de imponer sanciones que emita, así como del recurso de reclamación promovido en contra de los autos que emita la propia dirección, conforme al procedimiento previsto en la legislación aplicable en materia de responsabilidades administrativas;
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -9899,7 +10067,9 @@ XIV. Admitir las quejas que los contratistas interpongan por presuntos incumplim
 
 XV. Admitir, requerir información, dar vista a los terceros perjudicados y resolver las inconformidades que se presenten en contra de los actos de los procedimientos de contratación en materia de proyectos de prestación de servicios, obras públicas y servicios conexos, adquisiciones y arrendamientos de bienes muebles y prestación de servicios regulados por las disposiciones legales aplicables en el ámbito estatal, y previa la celebración del Convenio con la Secretaría de la Función Pública, en el ámbito de aplicación de las disposiciones legales aplicables del ámbito federal;
 
-XVI. Promover la capacitación del personal de la Contraloría, y cuando se solicite, de las dependencias y entidades, en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios y obra pública;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Promover la capacitación del personal de la Contraloría y, cuando se le solicite, de las Dependencias y Entidades, en materia de responsabilidades administrativas, adquisiciones y arrendamientos de bienes muebles, prestación de servicios y obra pública;
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -9925,19 +10095,23 @@ XXIII. Revisar y dictaminar cuando se le solicite respecto a los aspectos juríd
 
 XXIV. Proponer los criterios en la resolución de procedimientos y recursos administrativos de su competencia;
 
-> <small>(REFORMADA, D.O. 20 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XXV. Instruir los recursos de revocación y demás procedimientos administrativos que le corresponda conocer, derivados de los procedimientos de responsabilidades y de las materias de adquisiciones u obras públicas, de acuerdo con las disposiciones legales vigentes, con excepción de aquellos que sean de la competencia de otras unidades administrativas de esta secretaría;
+XXV. Substanciar los recursos de revocación y el de revisión que se promuevan en contra de las sentencias y resoluciones definitivas, derivados de los procedimientos disciplinarios, de responsabilidad administrativa y de las materias de adquisiciones u obras públicas, de acuerdo con las disposiciones legales vigentes, con excepción de aquellos que sean de la competencia de otras unidades administrativas de la Contraloría;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XXVI. Apoyar en el aspecto jurídico y en coordinación con el Director General de Programas Federales y de las direcciones de Programas Federales, y de Inspección de Obra Pública, en el trámite de atención y solventación de los pliegos de observaciones que formulen a las dependencias y entidades la Secretaría de la Función Pública, o la Auditoría Superior de la Federación;
+XXVI. Asesorar en el aspecto jurídico y en coordinación con el Director General de Programas Federales y de las direcciones de Programas Federales y de Auditoría e Inspección de Obra Pública, la elaboración de informes de probable responsabilidad administrativa que deriven del trámite de atención y solventación de las cédulas de observaciones, promociones de responsabilidad, informes finales y pliegos de observaciones que formulen a las Dependencias y Entidades, la Secretaría de la Función Pública o la Auditoría Superior de la Federación;
 
 XXVII. Presentar, en el ámbito de su competencia y previo acuerdo de su superior jerárquico, las denuncias o querellas ante el Ministerio Público, o en su caso, al H. Congreso del Estado, respecto de hechos posiblemente delictuosos en que el Estado resulte ofendido y que tengan relación a recursos, acciones o programas federales, y en su caso, otorgar perdón y darse por reparado del daño cuando proceda;
 
-XXVIII. Solicitar al juez penal correspondiente la inhabilitación de los servidores públicos que incurran en responsabilidad;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XXIX. Solicitar a la autoridad competente respecto a las sanciones económicas derivadas de responsabilidades administrativas, proceda a la ejecución y embargo precautorio de los bienes de los presuntos responsables, a efecto de garantizar el cobro de la restitución de los recursos en concepto del lucro obtenido o daños y perjuicios causados;
+XXVIII. Promover el recurso de revisión en contra de las resoluciones definitivas que emita el Tribunal de Justicia Administrativa del Estado de Yucatán, en el que se diriman controversias relacionadas con resoluciones emitidas por la Dirección de Responsabilidades y Normatividad;
+
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XXIX. Solicitar a la autoridad competente el embargo precautorio de los bienes de los probables responsables como medida cautelar cuando lo solicite la autoridad investigadora, en términos de lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas, o cuando así se lo solicite el tribunal competente;
 
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -9945,9 +10119,9 @@ XXX. Suscribir los informes previos y justificados, ofrecer pruebas y alegatos e
 
 XXXI. Coordinarse con la Procuraduría General de la República para la investigación de los delitos del orden federal que se detectaren en las acciones operativas de la Contraloría, coadyuvando en representación de la misma en los procedimientos penales, políticos y administrativos correspondientes;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XXXII. Brindar asesoría a los órganos de control interno, cuando lo soliciten, respecto a los aspectos legales relativos a los procedimientos de contratación de adquisiciones y arrendamientos de bienes muebles, prestación de servicios, obra pública y servicios conexos;
+XXXII. Brindar asesoría a los órganos de control interno, cuando lo soliciten, respecto a los aspectos legales relativos a los informes de probable responsabilidad administrativa, los procedimientos de contratación, de adquisiciones y arrendamientos de bienes muebles, prestación de servicios, obra pública y servicios conexos;
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -9959,39 +10133,41 @@ XXXIV. Intervenir con el carácter de tercero perjudicado y de los recursos y de
 
 XXXV. Contestar demandas, realizar promociones de trámite, rendir pruebas y alegatos, promover recursos e incidentes dentro de los juicios contenciosos administrativos que se promuevan en contra de actos emitidos por esta Dirección y por las resoluciones de recursos de revocación que resuelva el Secretario promovidos en contra de los referidos actos o que tengan relación con la Dirección General de Programas Federales;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XXXVI. Emplear los medios de apremio establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán para el cumplimiento de sus atribuciones, y
+XXXVI. Solicitar a la autoridad investigadora, o a cualquier otra, la información o documentación adicional que requiera para llevar a cabo la substanciación de los procedimientos disciplinarios, en términos de la legislación aplicable en materia de responsabilidades administrativas, y
 
 > <small>(ADICIONADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
 XXXVII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 534.
 
-Al Jefe de Normatividad en Obras Públicas y Adquisiciones le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento de Normatividad en Obras Públicas y Adquisiciones le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-I. Proponer al Director de Normatividad, Quejas y Responsabilidades, lineamientos, procedimientos y criterios que deban ser emitidos por la Contraloría en el ámbito de su competencia de conformidad a las disposiciones que le confieren la Ley de Proyectos para la Prestación de Servicios, la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, la Ley de Obra Pública y Servicios Conexos, el Presupuesto de Egresos del Gobierno del Estado, y otras disposiciones legales aplicables;
+I. Proponer al Director de Responsabilidades y Normatividad, lineamientos, procedimientos y criterios que deban ser emitidos por la Contraloría en el ámbito de su competencia de conformidad con lo dispuesto en la Ley de Proyectos para la Prestación de Servicios, la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, la Ley de Obra Pública y Servicios Conexos, el Presupuesto de Egresos del Gobierno del Estado, y otras disposiciones legales aplicables;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-II. Proponer al Director de Normatividad, Quejas y Responsabilidades, los criterios de interpretación que para efectos administrativos corresponda, de las Leyes de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con bienes muebles, de Obra Pública y Servicios Conexos del Estado de Yucatán y de Proyectos Para la Prestación de Servicios; asesorar, capacitar y dar orientación a los servidores públicos de las dependencias y entidades y unidades administrativas de la Contraloría; así como recibir y compilar la información que dichas dependencias y entidades deban remitir a la Contraloría en esas materias, en los términos de las normas vigentes;
+II. Asesorar, capacitar y dar orientación a los servidores públicos de las Dependencias y Entidades y unidades administrativas de la Contraloría; así como recibir y compilar la información que dichas Dependencias y Entidades deban remitir a la Contraloría en las materias de adquisiciones y arrendamientos de bienes muebles, servicios y obras públicas, en los términos de la normativa vigente;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-III. Proponer al Director de Normatividad, Quejas y Responsabilidades, la forma y términos en los que las dependencias y entidades de la Administración Pública Estatal, deban remitir la información relativa a los procedimientos de contratación de adquisiciones, arrendamientos y servicios, obra pública y de proyectos para la prestación de servicios, en los términos de las normas aplicables;
+III. Proponer al Director de Responsabilidades y Normatividad, la forma y términos en los que las Dependencias y Entidades de la Administración Pública estatal, deban remitir la información relativa a los procedimientos de contratación de adquisiciones, arrendamientos y servicios, obra pública y de proyectos para la prestación de servicios, en los términos de las normas aplicables;
 
 IV. Ejercer las atribuciones que la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, confieren a la Secretaría de la Función Pública, previa formalización que se haga del convenio respectivo, y que no le estén expresamente asignadas a otra unidad administrativa;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-V. Someter a consideración del Director de Normatividad, Quejas y Responsabilidades, en el ámbito de su competencia, la conveniencia de solicitar la práctica de investigaciones, visitas e inspecciones, respecto de la conducta de servidores públicos de la Contraloría y de las dependencias y entidades, que pudieran implicar inobservancia de las obligaciones previstas en las disposiciones legales aplicables en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios; obra pública y servicios conexos y de proyectos para la prestación de servicios;
+V. Hacer del conocimiento del Director de Responsabilidades y Normatividad, mediante el registro que se establezca, las intervenciones que tenga el departamento a su cargo en los comités de adquisiciones y obra pública, así como en los actos de contratación de obra pública, adquisiciones, servicios, proyectos para la prestación de servicios y de enajenación de bienes muebles, en las que haya riesgo de incumplimiento de las obligaciones previstas en las disposiciones legales aplicables en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios; obra pública y servicios conexos, de proyectos para la prestación de servicios y de responsabilidades administrativas;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Previo acuerdo con el Director de Normatividad, Quejas y Responsabilidades, proponer la procedencia de solicitar a las unidades administrativas de la Contraloría que lleven a cabo auditorías e investigaciones, o en su caso, remitir a la Jefatura de Quejas y Responsabilidades, la documentación e información que conozca en el desempeño de sus funciones y que pudiere implicar una presunta responsabilidad de quienes desempeñen un empleo, cargo o comisión en la Administración Pública Estatal, en las materias de adquisiciones y arrendamientos de bienes muebles, prestación de servicios, obra pública y servicios conexos y de proyectos para la prestación de servicios;
+VI. Fungir como enlace ante la Secretaría de la Función Pública para el trámite de registro en el sistema electrónico de información pública sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios conexos que al efecto establezca la autoridad federal, asesorar a los servidores públicos en relación con los requisitos y procedimientos para su registro, cambio de denominación de ente público contratante, o del responsable y baja, así como darle seguimiento a las incidencias que haga la autoridad competente;
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -10023,725 +10199,763 @@ XIII. Proponer proyectos de iniciativas de reformas a la Leyes de Proyectos para
 
 XIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 535.
 
-Al Jefe de Quejas y Responsabilidades le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento de Responsabilidades le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+I. Proponer la resolución que admita, deseche, prevenga o tenga por no presentados los informes de probable responsabilidad y susbstanciar (sic) los procedimientos disciplinarios derivados de las auditorías e investigaciones instaurados con motivo del incumplimiento de las obligaciones de los servidores públicos; de las personas que habiendo fungido como servidores públicos, se ubiquen en los supuestos a que se refiere la legislación aplicable en materia de responsabilidades administrativas; y de los particulares vinculados con faltas administrativas graves que le corresponda substanciar a la Contraloría, llevando las diligencias, audiencias, requerimientos, citaciones y notificaciones a que haya lugar;
 
-I. Tramitar los procedimientos disciplinarios derivados de las quejas y denuncias, auditorías e investigaciones formuladas con motivo del incumplimiento de las obligaciones de las personas, que en ejercicio de sus funciones como servidores públicos desempeñen un empleo, cargo o comisión en las dependencias y entidades, llevando las diligencias, requerimientos, citaciones y notificaciones a que haya lugar;
+II. Emplazar al probable responsable citándolo a que comparezca personalmente o por escrito a la audiencia inicial del procedimiento disciplinario a que hace referencia la legislación aplicable en materia de responsabilidades administrativas, y citar a las demás partes que deban concurrir al procedimiento para que manifiesten lo que a su derecho convenga y ofrezcan pruebas;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+III. Valorar de oficio las circunstancias de modo, tiempo y lugar de los hechos o conductas que dan lugar a la probable falta administrativa, la infracción que se imputa al señalado como probable responsable y las pruebas ofrecidas por la autoridad investigadora a fin de determinar si se actualiza alguna causal de improcedencia o de sobreseimiento del procedimiento disciplinario;
 
-II. Citar al presunto responsable dentro del procedimiento disciplinario a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, para que manifieste lo que a su derecho convenga y presente pruebas y alegatos;
+IV. Solicitar información y documentación a las autoridades investigadoras competentes a efecto de contar con los elementos subjetivos de los servidores públicos y particulares probables responsables, que permitan a la autoridad resolutora determinar las sanciones que correspondan;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+V. Remitir al Tribunal de Justicia Administrativa para su resolución los autos originales del expediente del procedimiento disciplinario que haya substanciado cuando se trate de faltas administrativas graves, así como notificar a las partes de la fecha de su envío, indicando el domicilio del tribunal que emitirá la resolución del asunto;
 
-III. Llevar a cabo el análisis y valoración de las observaciones y evidencias que obren en los expedientes formados con motivo de las quejas y denuncias, investigaciones y auditorías, así como la admisión y valoración de los argumentos y pruebas presentados por las personas sujetas a procedimientos disciplinarios;
+VI. Proponer al Director de Responsabilidades y Normatividad los acuerdos sobre la procedencia de no iniciar los procedimientos disciplinarios o de no imponer sanciones a los servidores públicos que se encuentren en las hipótesis normativas previstas en la legislación aplicable en materia de responsabilidades administrativas, así como los que desechen los informes de probable responsabilidad cuando sobrevengan algunas de las causales de improcedencia o sobreseimiento del procedimiento disciplinario;
 
-IV. Solicitar información y documentación a las unidades administrativas de la Contraloría, a las dependencias y entidades relacionadas con las investigaciones, quejas, denuncias y auditorías respecto a la conducta de servidores públicos;
+VII. Llevar las audiencias del procedimiento disciplinario ejerciendo las facultades que le otorga la legislación aplicable en materia de responsabilidades administrativas;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+VIII. Designar a quienes actúen como secretarios en los procedimientos disciplinarios, que tendrán las atribuciones establecidas en la legislación aplicable en materia de responsabilidades administrativas;
 
-V. Proponer al Director de Normatividad, Quejas y Responsabilidades el acuerdo de inicio y la resolución del procedimiento disciplinario a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán;
+IX. Emitir los acuerdos que decidan cualquier·trámite dentro del procedimiento disciplinario y llevar a cabo, con el auxilio del secretario que designe y del personal adscrito debidamente acreditado, las actuaciones, diligencias y notificaciones que requiera la instrucción de los procedimientos de conformidad con la legislación aplicable en materia de responsabilidades administrativas;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+X. Tener por autorizadas a las personas con capacidad legal designadas por el servidor público o particular probable responsable y los terceros a quienes pueda afectar la resolución, solamente para oír notificaciones e imponerse en autos, así como a los que inclusive, se encuentren facultados para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de las pruebas, alegar en las audiencias, pedir que se dicte sentencia y realizar cualquier acto que resulte necesario para la defensa de los derechos del autorizante;
 
-VI. Proponer al Director de Normatividad, Quejas y Responsabilidades los dictámenes sobre la procedencia de no iniciar los procedimientos disciplinarios que deriven de las quejas, denuncias, investigaciones y auditorías;
+XI. Proponer al Director de Responsabilidades y Normatividad la procedencia de decretar por la vía incidental las medidas cautelares solicitadas por el área investigadora en los términos de la legislación aplicable en materia de responsabilidades administrativas;
 
-VII. Levantar y suscribir las actas administrativas relativas al desahogo de las audiencias a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, así como las relativas a las comparecencias que hagan los presuntos responsables en el procedimiento disciplinario a que se refiere la citada ley;
+XII. Elaborar los proyectos de resolución y proponer, en su caso, la imposición de sanciones administrativas por faltas administrativas no graves a servidores públicos de las Dependencias y Entidades, por incumplimiento de las obligaciones a que se refiere la legislación aplicable en materia de responsabilidades administrativas y emitida la resolución correspondiente notificarla a las partes por sí o por conducto del personal adscrito debidamente designado y acreditado;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+XIII. Llevar, controlar, coordinar, vigilar, actualizar y supervisar los registros de servidores públicos sancionados o inhabilitados y expedir las constancias de no encontrarse inhabilitado o la situación en que se encuentre en el Sistema Nacional de Servidores Públicos y Particulares Sancionados, el Registro Estatal de Servidores Públicos Inhabilitados o en los registros que sean hechos de su conocimiento por autoridades competentes de la federación, de las entidades federativas o los municipios;
 
-VIII. Emitir los acuerdos que decidan cualquier trámite dentro del procedimiento disciplinario y llevar a cabo, con el auxilio del personal adscrito debidamente acreditado, las actuaciones, diligencias y notificaciones que requiera la instrucción de los procedimientos de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán;
+XIV. Hacer uso de los medios de apremio previstos en la legislación aplicable en materia de responsabilidades administrativas, incluso, ordenar el desalojo de las personas ajenas al procedimiento, cuando a su juicio resulte conveniente para el normal desarrollo y continuación de las audiencias que lleve en los procedimientos disciplinarios, pudiendo requerir el auxilio de la fuerza pública;
 
-IX. Disponer dentro del procedimiento disciplinario la práctica de investigaciones y citar a otra u otras audiencias cuando no se cuente con elementos suficientes para proponer la resolución respectiva;
+XV. Solicitar a cualquier persona y ente público la expedición de documentos o informes que obren en su poder, cuando cualquiera de las partes lo haya solicitado, y no se le haya expedido sin causa justificada, o cuando se requiera su opinión, la práctica de una inspección o verificación o su testimonio o auxilio para la averiguación de la verdad, haciendo uso, en su caso, de los medios de apremio cuando se niegue su expedición sin justificación válida;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+XVI. Ordenar la realización de diligencias para mejor proveer, disponiendo la práctica y ampliación de cualquier diligencia probatoria, dando vista a las partes para que manifiesten lo que a su derecho convenga;
 
-X. Proponer a su superior, la suspensión temporal a los presuntos responsables, de sus cargos, empleos o comisiones, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, si de las constancias se desprenden elementos que hagan necesaria esta medida y si así conviene para la conducción o continuación de las investigaciones dentro del procedimiento disciplinario;
+XVII. Solicitar mediante exhorto o carta rogatoria la colaboración de las autoridades competentes del lugar, cuando la preparación o desahogo de las pruebas deba tener lugar fuera del ámbito jurisdiccional de la Contraloría;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+XVIII. Proponer al Director de Responsabilidades y Normatividad la necesidad de solicitar, a través del secretario o del Director General de Programas Federales, información y documentación en las materias fiscal, bursátil, fiduciaria o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios, y
 
-XI. Elaborar los proyectos de resolución y proponer, en su caso, la imposición de sanciones administrativas a servidores públicos de las dependencias y entidades, incluida esta Secretaría, por incumplimiento de las obligaciones a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, y emitida la resolución correspondiente notificarla a los interesados por sí o por conducto del personal adscrito debidamente designado y acreditado;
+XIX. Las demás que confieran este Reglamento y otras disposiciones legales aplicables.
 
-XII. Llevar, controlar, coordinar, vigilar, actualizar y supervisar el Registro de Servidores Públicos Sancionados, así como expedir las constancias de inhabilitación o de no inhabilitación, y de antecedentes sancionatorios;
-
-XIII. Promover la celebración o actualización de los convenios con los municipios en materia de registro de servidores públicos sancionados y llevar a cabo acciones para promover el intercambio de información en esa materia con el Gobierno Federal, o con los otros poderes del Estado;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XIV. De manera coordinada con la unidad administrativa que determine su superior o el Secretario, solicitar las investigaciones, visitas de inspección periciales y auditorías a fin de allegarse los elementos necesarios para la determinación de responsabilidades;
-
-XV. Establecer programas preventivos en materia de responsabilidades de los servidores públicos y emitir reglas que orienten el debido desempeño de los mismos, a fin de propiciar una plena vocación del servicio público en beneficio de la colectividad, asesorar y conocer sobre las acciones específicas que en dicha materia establezcan las dependencias y entidades;
-
-XVI. Solicitar, dentro del ámbito de su competencia, a las áreas competentes de auditoría de esta Secretaría, previo acuerdo de su superior jerárquico, informes, auditorías, dictámenes y demás documentación que requiera cuando sea necesario para la resolución de una queja o denuncia que conozca contra algún servidor público;
-
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
-
-XVII. Proponer al Director de Normatividad, Quejas y Responsabilidades la necesidad de solicitar información y documentación, o en su caso, las observaciones a las constancias documentales que obren en el expediente técnico a la unidad administrativa competente, cuando no se encuentren debidamente integradas las evidencias que acrediten las presuntas irregularidades detectadas en las auditorías, visitas e inspecciones a efecto de que sean subsanadas o se determine la improcedencia de iniciar el procedimiento disciplinario, y
-
-XVIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 536.
 
-Al Jefe de Capacitación y Seguimiento a Auditorías le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento de Capacitación y Seguimiento a Auditorías le corresponde el despacho de los siguientes asuntos:
 
-I. Dar seguimiento al trámite de atención y solventación de los pliegos de observaciones formulados a las dependencias y entidades, de acuerdo con los plazos, procedimientos y disposiciones legales aplicables;
+I. Dar seguimiento al trámite de atención y solventación de observaciones, promociones de responsabilidad y pliegos de observaciones formulados a las Dependencias y Entidades como resultado de la práctica de auditorías y de la revisión de resultados de la cuenta pública, de acuerdo con los plazos, procedimientos y disposiciones legales aplicables;
 
-II. Emitir informes y auxiliar al Jefe de Quejas y Responsabilidades, cuando éste se lo solicite, en la instrucción de los procedimientos disciplinarios de responsabilidades administrativas que deriven de acciones de auditoría y fiscalización, para efecto de fincar las responsabilidades que procedan;
+II. Emitir informes y auxiliar al Jefe del Departamento de Responsabilidades, cuando este se lo solicite, respecto de las acciones de seguimiento, de atención y solventación de observaciones, promociones de responsabilidad y pliegos de observaciones que deriven de la práctica de auditorías y la revisión de resultados de la cuenta pública;
 
-III. Proponer los proyectos de demandas, contestaciones y promociones que deba realizar la Contraloría, con motivo de las impugnaciones que se hagan en contra de las resoluciones que determinen responsabilidades de la Contraloría y por parte de la Secretaría de la Función Pública, o la Auditoría Superior de la Federación;
+III. Proponer a su superior los manuales de procedimientos de la Dirección de Responsabilidades y Normatividad;
 
-IV. Coordinar la elaboración de programas y realización de acciones de capacitación en materia jurídica, en las materias administrativas en los que la Contraloría tenga competencia, y
+IV. Elaborar los programas de capacitación, y coordinar y programar la realización de cursos, talleres, y conferencias sobre el orden jurídico competencia de la Dirección de Responsabilidades y Normatividad, y
 
-V. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+V. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 537.
 
-Al Jefe de Asuntos Contenciosos le corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+Al Jefe del Departamento de Asuntos Contenciosos le corresponde el despacho de los siguientes asuntos:
 
 I. Apoyar y asesorar jurídicamente en materia penal a las áreas de auditoría de la Dirección General de Programas Federales;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-II. Analizar y estudiar las observaciones que arrojen cada uno de los procesos de revisión y auditoría, llevados a cabo por las áreas de auditoría de la Dirección General de Programas Federales, emitiendo los criterios para la implementación de las acciones legales correspondientes que pueden derivar en responsabilidad penal;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+II. Conocer el recurso de inconformidad que promuevan los denunciantes y las autoridades investigadoras, en contra de los acuerdos de abstención de iniciar procedimientos o de imponer sanciones que emita la Dirección de Responsabilidades y Normatividad conforme a la legislación aplicable en materia de responsabilidades administrativas, corriéndole traslado al Tribunal de Justicia Administrativa;
 
 III. Elaborar los proyectos de denuncias y querellas por los actos de servidores y ex servidores públicos, que pudieran ser de carácter delictivo, que se deriven de los resultados y observaciones de las auditorías e investigaciones administrativas relacionadas con la aplicación de recursos federales;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+IV. Representar a la Contraloría ante la autoridad ministerial investigadora del fuero federal, coadyuvando con esta autoridad para la debida integración y seguimiento de la investigación respectiva, hasta su entrega a la autoridad judicial correspondiente;
 
-IV. Representar a la Contraloría ante la autoridad ministerial investigadora del fuero federal, coadyuvando con esta autoridad para la debida integración y seguimiento de la averiguación previa respectiva, hasta su consignación ante la autoridad judicial correspondiente;
+V. Dar seguimiento a las causas penales que se hubieren iniciado; promover la coadyuvancia ante la autoridad judicial competente, así como realizar todas las diligencias y actuaciones que se requieran dentro de la investigación o el proceso judicial, en el ámbito de su competencia;
 
-V. Dar seguimiento a las causas penales que se hubieren iniciado; promover la coadyuvancia ante la autoridad judicial competente, así como realizar todas las diligencias y actuaciones que se requieran dentro de la Averiguación Previa o el Proceso Judicial, en el ámbito de su competencia;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-VI. Demandar la destitución en representación de la Contraloría y participar en las audiencias que se realicen ofreciendo pruebas y alegatos y proceder a la suspensión respecto de servidores públicos sancionados cuando el superior jerárquico no lo haga;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+VI. Conocer y dar trámite al recurso de reclamación que se promueva en contra de las resoluciones de la Dirección de Responsabilidades y Normatividad en términos de la legislación aplicable en materia de responsabilidades administrativas;
 
 VII. Llevar a cabo las acciones de coordinación con el personal de la Secretaría de la Función Pública y de la Auditoría Superior de la Federación, en términos del convenio que se celebre en lo concerniente a responsabilidades de servidores y ex servidores públicos que pudieran ser sujetos a sanciones penales;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VIII. Dar seguimiento a cualquier asunto contencioso que sea competencia de la Dirección General de Programas Federales y de la Dirección de Responsabilidades y Normatividad, en términos de las funciones y atribuciones que establece este Reglamento y las demás disposiciones jurídicas aplicables;
 
-VIII. Dar seguimiento de cualquier asunto contencioso que sea competencia de la Dirección General de Programas Federales y de la Dirección de Normatividad, Quejas y Responsabilidades, en términos de las funciones y atribuciones que establece este Reglamento y las demás disposiciones jurídicas aplicables;
+IX. Asesorar a las áreas adscritas a la Dirección General de Programas Federales en relación con aspectos de tipo contencioso de su competencia;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+X. Elaborar los proyectos de contestación, informes, las demandas, denuncias, querellas, y demás promociones y representar a la Contraloría para allanarse, desistirse, ofrecer y desahogar pruebas, manifestar alegatos, interponer recursos y otorgar perdón en los asuntos de orden contencioso que sean competencia de la Dirección de Responsabilidades y Normatividad;
 
-IX. Asesorar a las áreas adscritas a la Dirección General de Programas Federales en relación a aspectos de tipo contencioso de su competencia;
+XI. Elaborar y suscribir en representación de la Contraloría los informes previos y justificados de los juicios de amparo que sean competencia de las unidades administrativas de la Dirección General de Programas Federales;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+XII. Elaborar y suscribir en representación de la Dirección de Responsabilidades y Normatividad y del secretario las alegaciones en las que la Contraloría deba intervenir con el carácter de tercero interesado en los juicios contenciosos y de amparo y de los recursos y demás medios de impugnación que procedan dentro del ámbito de competencia de los actos que emita la propia dirección;
 
-X. Elaborar los proyectos de contestación, informes, las demandas, denuncias, querellas, y demás promociones y representar a la Contraloría para allanarse, desistirse, ofrecer y desahogar pruebas, manifestar alegatos, interponer recursos y otorgar perdón en los asuntos de orden contencioso que sean competencia de la Dirección de Normatividad, Quejas y Responsabilidades;
+XIII. Proponer al Director de Responsabilidades y Normatividad los escritos de requerimientos de información que se lleven a cabo para atender los asuntos contenciosos;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XIV. Substanciar los recursos de revocación que interpongan los servidores públicos de las Dependencias, Entidades y esta Contraloría, en contra de las resoluciones emitidas por la Dirección de Responsabilidades y Normatividad, determinar sobre la suspensión de la resolución recurrida, llevar a cabo las notificaciones a las partes por sí o por medio del personal que se faculte para ello, así como proponer los proyectos de resolución de dichos recursos, y
 
-XI. Elaborar y suscribir en representación de la Contraloría los informes previos y justificados que en los juicios de amparo que sean competencia de las unidades administrativas de la Dirección General de Programas Federales;
+XV. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
-
-XII. Elaborar y suscribir en representación de la Dirección de Normatividad, Quejas y Responsabilidades y del Secretario las alegaciones en las que la Contraloría deba intervenir con el carácter de tercero perjudicado en los juicios contenciosos y de amparo y de los recursos y demás medios de impugnación que procedan dentro del ámbito de competencia de los actos que emita la propia Dirección;
-
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
-
-XIII. Proponer al Director de Normatividad, Quejas y Responsabilidades los escritos de requerimientos de información que se lleven a cabo para atender asuntos contenciosos;
-
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
-
-XIV. Instruir, los recursos de revocación que interpongan los servidores públicos de las dependencias, entidades y esta Contraloría, en contra de las resoluciones emitidas por la Dirección de Normatividad, Quejas y Responsabilidades, así como proponer los proyectos de resolución dichos recursos, y
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
-
-XVI. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
-
-XVII. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
-
-XVIII. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 537 Bis.
 
-Al Jefe de Inconformidades, Sanciones y Conciliación le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento de Inconformidades, Sanciones y Conciliación le corresponde el despacho de los siguientes asuntos:
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 I. Instruir y suscribir los acuerdos de trámite de los mismos de los procedimientos administrativos de imposición de las sanciones a los licitantes, licitadores, proveedores, prestadores de servicio y contratistas que infrinjan las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán y la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y de la Ley de Proyectos para la Prestación de Servicios;
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 II. Solicitar a los licitantes o licitadores, proveedores, contratistas e inversionistas proveedores los datos e informes relacionados con los procedimientos de contratación y cumplimiento de los contratos y pedidos que se celebren;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 III. Llevar a cabo las visitas e inspecciones que estime pertinente a contratistas por si o en coordinación con personal de la Contraloría para verificar el cumplimiento de las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán y la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y de la Ley de Proyectos para la Prestación de Servicios;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Analizar y proponer al Director de Normatividad, Quejas y Responsabilidades la procedencia de solicitar a las autoridades competentes la suspensión o cancelación del registro de contratistas o padrón de proveedores de bienes y servicios, llevando a cabo la tramitación respectiva en representación de la Contraloría;
+IV. Analizar y proponer al Director de Responsabilidades y Normatividad, la procedencia de solicitar a las autoridades competentes la suspensión o cancelación del registro de contratistas o padrón de proveedores de bienes y servicios, llevando a cabo la tramitación respectiva en representación de la Contraloría;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 V. Recibir las promociones, de las inconformidades que presenten los participantes en contra de los actos realizados en cualquier etapa o fase de los procedimientos de contratación en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios, de obra pública y servicios conexos y de proyectos de prestación de servicios admitiendo los procedimientos y las pruebas que se ofrezcan y llevando a cabo las diligencias, requerimientos, citaciones y notificaciones a que haya lugar para su substanciación, emitiendo las directrices necesarias para reponer actuaciones irregulares cuando así procedan;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Proponer al Director de Normatividad, Quejas y Responsabilidades la resolución de las inconformidades para su firma;
+VI. Proponer al Director de Responsabilidades y Normatividad la resolución de las inconformidades para su firma;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Elaborar y proponer al Director de Normatividad, Quejas y Responsabilidades las contestaciones de demanda de los juicios contenciosos y los informes y escritos de comparecencia para formular alegatos que deriven de los procedimientos de imposición de sanciones a licitantes, proveedores y contratistas, así como de las inconformidades que se promuevan al amparo de las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán, la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, y la Ley de Proyectos para la Prestación de Servicios;
+VII. Elaborar y proponer al Director de Responsabilidades y Normatividad las contestaciones de demanda de los juicios contenciosos y los informes y escritos de comparecencia para formular alegatos que deriven de los procedimientos de imposición de sanciones a licitantes, proveedores y contratistas, así como de las inconformidades que se promuevan al amparo de las disposiciones de la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán y la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y la Ley de Proyectos para la Prestación de Servicios;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 VIII. Substanciar los procedimientos de conciliación que promuevan los contratistas al amparo de la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán y de la y (sic) actuar en representación de la Contraloría en las audiencias que se celebren, haciendo las citaciones y requiriendo la información y documentación necesaria;
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 IX. Solicitar cuando así lo requiera o considere a la Jefatura de Normatividad en Obras Públicas y Adquisiciones la opinión de los asuntos que se sometan en los procedimientos de conciliación a que se hace referencia en el párrafo anterior;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 X. Elaborar los proyectos de convenios que serán puestos a disposición de las partes en los procedimientos de conciliación y proponer la conclusión de los mismos, y
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 XI. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 538.
 
-Al Director General del Sector Estatal y Paraestatal le corresponde el despacho de los siguientes asuntos:
+Al Director General de Auditoría de Recursos Estatales le corresponde el despacho de los siguientes asuntos:
 
-I. Conocer de los siguientes asuntos que le remitan los Directores a su cargo, a fin de promover la aprobación por parte del Secretario:
+I. Conocer, y someter a la aprobación del secretario, las propuestas de asignación y, en su caso, cambios de los titulares de los órganos de control interno, comisarios y demás personal de las áreas de auditoría; los proyectos de diagnóstico, soluciones y resultados sobre la gestión de los órganos de control interno y de las demás áreas adscritas a la Dirección General de Auditoría de Recursos Estatales, a fin de propiciar su óptimo desarrollo y funcionamiento; y los programas de capacitación y el apoyo técnico que requieran las unidades administrativas de su adscripción;
 
-a) Los anteproyectos del presupuesto por programas de las direcciones;
+II. Promover la aplicación de las políticas, programas, lineamientos, normas y acciones para la programación, planeación, inicio, desarrollo y conclusión de las auditorías, investigaciones y demás actos de fiscalización, que emitan las autoridades competentes, así como las correspondientes de los Sistemas Nacional y Estatal Anticorrupción y del Sistema Nacional de Fiscalización;
 
-b) Los proyectos de manuales de organización, procedimientos y servicios correspondientes a las direcciones a su cargo;
+III. Ordenar, a solicitud del secretario, las auditorías, investigaciones, inspecciones, revisiones y demás actos de fiscalización relacionadas con recursos estatales, en las Dependencias y Entidades en su ámbito de competencia, así como conocer sus resultados;
 
-c) Las propuestas de designación y, en su caso, de remoción de los titulares de los Órganos de Control Interno, Coordinadores de Sector, Comisarios y de las áreas de auditoría;
+IV. Integrar los informes trimestrales que el secretario debe rendir al Poder Ejecutivo correspondientes a las auditorías, inspecciones, investigaciones y demás actos de fiscalización de recursos estatales practicadas a las Dependencias y Entidades, de conformidad con el programa y acuerdo autorizado así como los informes que el titular de la Contraloría deba rendir a los comités coordinadores de los sistemas nacional y estatal anticorrupción, en términos de la legislación aplicable en materia de responsabilidades administrativas, en el ámbito de su competencia;
 
-d) Los proyectos de diagnóstico, soluciones y resultados sobre la gestión de los Órganos de Control Interno, Coordinadores de Sector, Comisarios y de las áreas de auditoría a fin de propiciar su óptimo desarrollo y funcionamiento;
+V. Consolidar y validar el Programa Anual de Auditorías y demás actos de fiscalización de recursos estatales, así como el de intervenciones en contrataciones públicas que realicen las Dependencias y Entidades con recursos estatales, y ponerlo a consideración del secretario para su aprobación;
 
-e) Los programas de capacitación y el apoyo técnico que requieran los titulares de los Órganos de Control Interno Coordinadores de Sector, Comisarios y de las áreas de auditoría;
+VI. Conocer y llevar un registro de los resultados de las investigaciones practicadas por los titulares de los órganos de control interno y demás autoridades investigadoras adscritas a las direcciones a su cargo, en el ámbito de sus competencias, por probables faltas administrativas de servidores públicos de las Dependencias y Entidades y de los particulares por conductas sancionables, en términos de la legislación aplicable en materia de responsabilidades administrativas;
 
-f) Las propuestas de sectorización de los órganos de vigilancia y control de su ámbito de competencia, y
+VII. Vigilar que se dé cumplimiento a las acciones de seguimiento, respecto a las observaciones y recomendaciones determinadas en las auditorías, inspecciones, revisiones y demás actos de fiscalización, relacionadas con recursos estatales, ordenadas por la Contraloría;
 
-g) Los programas, guías e instructivos que establezcan las disposiciones legales y administrativas aplicables para la planeación, programación, inicio, desarrollo y conclusión de las auditorías.
+VIII. Promover y contribuir, en el ámbito de su competencia, al cumplimiento de la normativa en materia de control interno por parte de las Dependencias y Entidades, a fin de privilegiar la actividad preventiva y el logro de los objetivos y metas institucionales;
 
-II. Dirigir al personal del área de directores, Coordinadores de Sector, Comisarios y los titulares de los Órganos de Control Interno, a fin de garantizar que el ejercicio de sus atribuciones sea óptimo. Asimismo y en coordinación con su superior, establecer la coordinación, integración e interrelación entre éstos y la Contraloría;
+IX. Promover el seguimiento de las observaciones planteadas por los titulares de los órganos de control interno e investigadores adscritos a las direcciones a su cargo, con motivo de su participación en los procedimientos de contrataciones públicas estatales y en los comités de adquisiciones de las Dependencias y Entidades;
 
-III. Ordenar, previo acuerdo o solicitud del Secretario, las auditorías e investigaciones en las dependencias y entidades en su ámbito de competencia;
+X. Coordinar las acciones para el registro de situación patrimonial y de intereses de los servidores públicos de las Dependencias y Entidades, en términos de la normativa en la materia;
 
-IV. Preparar el informe trimestral que el Secretario debe rendir al Poder Ejecutivo, correspondiente a las auditorías practicadas a las dependencias y entidades, de conformidad con el Programa y acuerdo autorizado;
+XI. Conocer los resultados de las verificaciones aleatorias de las declaraciones de situación patrimonial y de interés, así como, de la evolución del patrimonio de los servidores públicos de las Dependencias y Entidades;
 
-V. Elaborar e integrar el Programa Anual de Auditorías y Revisiones a las dependencias y entidades y ponerlo a consideración del Secretario para su aprobación;
+XII. Conocer las acciones de los órganos de control interno en las Dependencias y Entidades, para la integración de los registros de los programas, fondos, fideicomisos o análogos que operan con recursos estatales, así como, la intervención en ellos;
 
-VI. Turnar a la autoridad competente los expedientes relativos a las investigaciones y auditorías que hubiere practicado, si de las mismas se desprenden presuntas responsabilidades de los servidores públicos, previo acuerdo con el Secretario;
+XIII. Someter a consideración del secretario, las bases generales para la realización de auditorías, así como las normas, procedimientos y demás disposiciones en materia de auditorías, inspecciones y demás actos de fiscalización, incorporando las normas del Sistema Nacional de Fiscalización y las que emiten las demás instancias competentes en la materia;
 
-VII. Emitir recomendaciones a las dependencias y entidades derivadas de los informes derivados de la práctica de auditorías e investigaciones que así lo ameriten;
+XIV. Promover el seguimiento a los resultados de las auditorías externas que se realicen a las Dependencias y Entidades de la Administración Pública estatal;
 
-VIII. Designar, por acuerdo del Secretario, al personal que deberá participar en la suscripción de las actas de entrega recepción de los titulares y demás servidores públicos obligados de las dependencias y entidades, y
+XV. Establecer criterios sobre la forma y términos en que las Dependencias y Entidades deben preparar sus registros contables y, en su caso, sus informes y cuentas para fines de fiscalización por parte de esta Contraloría;
 
-IX. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+XVI. Verificar las auditorías, inspecciones, revisiones e investigaciones llevadas a cabo en las Dependencias y Entidades, relacionadas con recursos estatales, a fin de vigilar el estricto cumplimiento de las disposiciones legales que les resulten aplicables;
+
+XVII. Previa instrucción del secretario, fungir como enlace y vigilar el ejercicio de las acciones de fiscalización a recursos estatales u otros diversos a estos, que se practiquen de manera directa o conjunta con la Auditoría Superior del Estado, en virtud de la celebración de convenios de coordinación o análogos, y
+
+XVIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 539.
 
-Al Director de Auditoría al Sector Centralizado le corresponde el despacho de los siguientes asuntos:
+Al Director de Auditoría de Recursos Estatales del Sector Centralizado le corresponde el despacho de los siguientes asuntos:
 
 I. Acordar con su superior inmediato la resolución de los asuntos relevantes cuya tramitación se encuentre dentro del ámbito de su competencia;
 
-II. Sugerir a su superior la designación y, en su caso, la remoción de los titulares de los órganos de control interno de las dependencias y mantener actualizados los catálogos de designación y nombramientos respectivos;
+II. Proponer a su superior la asignación y, en su caso, cambios de los titulares de los órganos de control interno en las Dependencias y mantener actualizadas las designaciones y nombramientos respectivos;
 
 III. Elaborar proyectos acerca de la creación, modificación, organización, fusión o desaparición de las estructuras orgánicas y ocupacionales de las áreas administrativas a su cargo, atendiendo a las necesidades del servicio, y proponerlos a su superior para su aprobación;
 
-IV. Formular y proponer a su superior, el anteproyecto del presupuesto por programas relativo a la Dirección a su cargo, conforme a las normas establecidas;
+IV. Formular y proponer a su superior, el anteproyecto del presupuesto por programas relativo (sic) a la dirección a su cargo, conforme a las normas establecidas;
 
-V. Supervisar que los Órganos de Control Interno den seguimiento a los programas en la Dependencia en que se encuentren comisionados y que se realicen en apego a la normatividad que los regula;
+V. Vigilar las actividades de los titulares de los órganos de control interno en la supervisión de la implementación del sistema de control interno en las Dependencias;
 
-VI. Definir, en coordinación con las unidades administrativas competentes de la Contraloría, las prioridades, estrategias y los criterios básicos, a fin de establecer las bases generales a que se sujetarán los programas de trabajo de los Órganos de Control Interno en su ámbito de competencia;
+VI. Coordinar y supervisar que las revisiones en materia de control interno que lleven a cabo los titulares de los órganos de control interno en las Dependencias, se realicen conforme a la normativa en la materia;
 
-VII. Evaluar el desempeño de la gestión de los titulares de los Órganos de Control Interno y con base a esto informar a su superior jerárquico el diagnóstico y resultados obtenidos; así mismo proponer las soluciones, a fin de propiciar su óptimo desarrollo y funcionamiento;
+VII. Supervisar que los órganos de control interno lleven el registro de los programas, fondos, fideicomisos o análogos que operan con recursos estatales en la Dependencia en que se encuentren comisionados, así como su intervención en ellos;
 
-VIII. Formular y proponer a su superior jerárquico, conforme a los lineamientos establecidos, los proyectos de manuales de organización, procedimientos y servicios correspondientes a la Dirección a su cargo;
+VIII. Formular y proponer a su superior jerárquico, conforme a los lineamientos establecidos, los proyectos de manuales de organización, procedimientos y servicios correspondientes a la dirección a su cargo;
 
-IX. Controlar las intervenciones en las que los órganos de control interno participen en cambios de titulares de unidades administrativas obligadas conforme a la normatividad aplicable y en su caso intervenir, por orden del Secretario o de su superior, en cambio de titulares de las dependencias, para efecto de dar fe del acto de entrega y recepción establecido;
+IX. Supervisar las intervenciones de los órganos de control interno en los procesos de entrega-recepción y transferencia que se lleven a cabo en las Dependencias, conforme a la normativa aplicable y, en su caso, intervenir, por orden del secretario o de su superior, en el cambio de titulares de las Dependencias, para efecto de dar fe del acto de entrega-recepción establecido;
 
-> <small>(REFORMADA, D.O. 20 DE MAYO DE 2016)</small>
+X. Coadyuvar con las asesorías y capacitaciones en materia de entrega-recepción y transferencia dirigidas a los servidores públicos de las Dependencias;
 
-X. Establecer los criterios y formatos necesarios para el eficiente desempeño apropiado de la dirección, así como proporcionar los resultados de las evaluaciones de las actividades de la dirección que le soliciten sus superiores, la dirección de administración o la unidad administrativa que tenga competencia para ello;
+XI. Proponer e implementar los criterios y formatos necesarios para el eficiente desempeño de la dirección, así como proporcionar los resultados de las actividades de la dirección que le soliciten sus superiores;
 
-> <small>(REFORMADA, D.O. 29 DE MARZO DE 2016)</small>
+XII. Promover la capacitación y adiestramiento del personal de los órganos de control interno y demás personal adscrito a la dirección a su cargo; para tal efecto deberá integrar y someter a autorización de su superior el Programa Anual de Capacitación en las materias de su competencia;
 
-XI. Supervisar que los órganos de control interno lleven el seguimiento de sus asuntos turnados a las direcciones de Normatividad, Quejas, y Responsabilidades, y de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal, hasta su resolución definitiva;
+XIII. Planear, programar, organizar, dirigir y controlar el desarrollo de los programas y acciones encomendados a los titulares de los órganos de control interno, jefes de departamento e investigadores, que integren la dirección a su cargo;
 
-XII. Promover la capacitación y adiestramiento del personal de las Contralorías Internas en el ámbito de su competencia, así como del personal a su cargo; y para tal efecto deberá integrar y someter a autorización de su superior el Programa Anual de Capacitación del Personal de Auditoría. Asimismo, solicitar apoyo de otras unidades administrativas competentes de esta Secretaría;
+XIV. Integrar y autorizar el programa anual de auditorías y demás actos de fiscalización de recursos estatales a las Dependencias del sector centralizado, en su ámbito de competencia, así como supervisar su ejecución e informar a su superior jerárquico sobre sus avances y de las demás actividades que desempeña esta dirección;
 
-XIII. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de los programas y acciones encomendados a los Órganos de Control Interno que integren la Dirección a su cargo;
+XV. Supervisar y coordinar al personal a su cargo en la aplicación de las políticas, programas, lineamientos, normas y acciones para la programación, planeación, inicio, desarrollo y conclusión de las auditorías, investigaciones y demás actos de fiscalización, que emitan las autoridades competentes, así como las correspondientes de los sistemas Nacional y Estatal Anticorrupción y de Fiscalización;
 
-XIV. Integrar el Programa Anual de Auditorías a las dependencias del sector centralizado, en su ámbito de competencia y ponerlo a consideración de su superior, a fin de que este gestione lo necesario para su aprobación, así como informarle sobre los avances del mismo y de las actividades que desempeña esta Dirección;
+XVI. Proponer al superior jerárquico al personal que intervendrá en las auditorías, inspecciones, investigaciones, revisiones y demás actos de fiscalización;
 
-XV. Revisar, autorizar los programas y guías que le turnen los órganos de control interno, en su ámbito de competencia para la planeación, programación, inicio, desarrollo y conclusión de las auditorías y proponerlas a su superior para su aprobación;
+XVII. Coordinar y supervisar las auditorías, inspecciones, revisiones e investigaciones ordenadas por la Contraloría en las Dependencias, relacionadas con recursos estatales a fin de vigilar el estricto cumplimiento de las disposiciones legales que les resulten aplicables;
 
-XVI. Proponer ante el superior jerárquico, al personal que intervendrá en las auditorías y revisiones;
+XVIII. Requerir, cuando lo estime conveniente para el cumplimiento de sus atribuciones, información y documentación a las Dependencias;
 
-XVII. Coordinar y supervisar las auditorías, y revisiones o investigaciones en las dependencias en su ámbito de competencia, a fin de vigilar el estricto cumplimiento de las disposiciones legales, en materia de presupuesto y gasto público;
+XIX. Coordinar y supervisar que las auditorías, inspecciones y demás actos de fiscalización que lleven a cabo los titulares de los órganos de control interno en las Dependencias, se realicen conforme a la normativa de la materia;
 
-XVIII. Requerir, cuando lo estime conveniente para el cumplimiento de sus atribuciones, información y documentación a las dependencias;
+XX. Revisar que las cédulas de observaciones e informes finales de las auditorías, así como los informes de resultados derivados de inspecciones y demás actos de fiscalización de recursos estatales practicados a las Dependencias cumplan con la normativa en la materia, y turnar a su superior jerárquico los resultados para su conocimiento;
 
-XIX. Analizar el contenido de los informes derivados de la práctica de auditorías a las dependencias y turnar a su superior los resultados, a fin de que se emitan las recomendaciones procedentes a las dependencias auditadas, o se turnen a las autoridades competentes cuando se deriven presuntas responsabilidades de servidores públicos;
+XXI. Supervisar que los órganos de control interno den seguimiento a las observaciones y recomendaciones determinadas en sus auditorías, revisiones, inspecciones y demás actos de fiscalización relacionados con recursos estatales, realizadas a las Dependencias, hasta que estén totalmente solventadas o promovidas por la existencia de probables faltas administrativas;
 
-XX. Supervisar que los Órganos de Control Interno den seguimiento a las observaciones determinadas en las auditorías y revisiones realizadas a las dependencias, hasta que estén totalmente solventadas;
+XXII. Turnar al departamento investigador correspondiente, el informe de irregularidades cuando se presuma la existencia de probables faltas administrativas de servidores públicos de las Dependencias, o de particulares por conductas sancionables en términos de la legislación aplicable en materia de responsabilidades administrativas por actos u omisiones que hubieren sido detectados en la práctica de la auditoría, inspección u otro acto de fiscalización llevado a cabo por los titulares de los órganos de control interno adscritos a su dirección, para la práctica de la investigación que deba realizar conforme a su competencia, en términos de las disposiciones en la materia;
 
-XXI. Formular informes técnicos y contables, opiniones que les sean encomendados por la superioridad, en aquellos asuntos que sean propios de su competencia;
+XXIII. Formular informes, técnicos y contables, y las opiniones que les sean encomendados por la superioridad, en aquellos asuntos que sean propios de su competencia;
 
-> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+XXIV. Integrar los informes mensuales y trimestrales de las auditorías, inspecciones, investigaciones, verificaciones, revisiones y demás actividades realizadas en el periodo por los titulares de los órganos de control interno, jefes de departamento e investigadores adscritos a su dirección, así como, informarle al Director General de Auditoría de Recursos Estatales sobre los resultados; para la elaboración de propuestas de instrumentación de las acciones y medidas correctivas que correspondan, en el ámbito de su competencia;
 
-XXII. Integrar el informe que el Director General del Sector Estatal y Paraestatal deba rendir al Secretario, en base a los informes recibidos de los Contralores Internos, por las auditorías practicadas a las dependencias en cuanto al ejercicio de los recursos estatales y los resultados de éstas, para la instrumentación de las acciones y medidas correctivas que correspondan, en el ámbito de su competencia;
+XXV. Vigilar que los titulares de los órganos de control interno de las Dependencias, cumplan con la normativa aplicable a sus actos de fiscalización;
 
-XXIII. Realizar en forma directa auditorías no programadas y revisiones, cuando así lo ordene el Titular;
+XXVI. Recibir de los titulares de los órganos de control interno, los expedientes correspondientes de las auditorías, inspecciones, revisiones, verificaciones e investigaciones concluidas para su control, resguardo y archivo;
 
-XXIV. Vigilar que los órganos de control interno de las dependencias, cumplan con la normatividad aplicable y procedimientos que al efecto establezca esta Secretaría;
+XXVII. Proponer criterios sobre la forma y términos en que las Dependencias deban preparar sus registros contables y, en su caso, sus informes y cuentas para fines de fiscalización;
 
-XXV. Recibir de los Órganos de Control Interno, los expedientes relativos a las investigaciones y auditorías que hubiere practicado y turnar a su superior jerárquico los resultados, sí de las mismas se desprenden presuntas responsabilidades de los servidores públicos, a fin de que éste acuerde lo procedente;
+XXVIII. Coordinar y supervisar las actividades de verificación aleatoria de las declaraciones de situación patrimonial y de interés, así como de evolución patrimonial, de los servidores públicos de las Dependencias, en el ámbito de su competencia y, de no existir ninguna anomalía, verificar que se expida la certificación correspondiente, para su anotación en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de conformidad con la legislación aplicable en materia de responsabilidades administrativas;
 
-XXVI. Dictaminar sobre las opiniones que corresponden emitir a la Contraloría, cuando se lo soliciten las unidades administrativas competentes de la misma, y que deban rendir en su ámbito de competencia, en cuanto se refieran a las instrucciones sobre la forma y términos en que las dependencias deban llevar sus registros contables, y, en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación;
+XXIX. Dar seguimiento a las investigaciones por probables actos u omisiones que pudieran constituir faltas administrativas por parte de los servidores públicos de las Dependencias o de los particulares relacionados con ellas, que llevan a cabo los titulares de los órganos de control interno y demás autoridades investigadoras adscritos a su dirección;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XXX. Supervisar que los titulares de los órganos de control interno y demás autoridades investigadoras adscritas a su dirección, lleven el seguimiento de sus asuntos turnados a la Dirección de Responsabilidades y Normatividad y demás autoridades competentes, hasta su resolución definitiva;
 
-XXVII. Coordinar, integrar e interrelacionar a los Órganos de Control Interno con la Dirección General del Sector Estatal y Paraestatal, así como dirigir y evaluar su desempeño con base en las políticas y prioridades dictadas por éste, así como presentarle los resultados correspondientes, y
+XXXI. Integrar y autorizar el programa anual de intervenciones en contrataciones públicas estatales de las Dependencias, dando seguimiento a su ejecución e informar a su superior jerárquico sobre sus avances;
 
-XXVIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+XXXII. Establecer medidas y acciones específicas que aseguren la intervención de los titulares de los órganos de control interno y de los investigadores adscritos a su dirección, en los actos de contrataciones públicas, previa invitación de las Dependencias, en términos de la legislación aplicable en materia de responsabilidades administrativas;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE MARZO DE 2016)</small>
+XXXIII. Conocer las observaciones planteadas por los titulares de los órganos de control interno e investigadores adscritos a la dirección a su cargo, con motivo de su participación en los procedimientos de contrataciones públicas estatales y en los comités de adquisiciones de las Dependencias, así como, del resultado de su seguimiento;
+
+XXXIV. Coordinar el seguimiento de los resultados de las auditorías externas que se realicen a las Dependencias de la Administración Pública estatal, conforme al programa anual de trabajo;
+
+XXXV. Previa instrucción de su superior jerárquico y conforme a la normativa de la materia, coordinar en las Dependencias las acciones de fiscalización de recursos estatales u otros diversos a estos, que se practiquen de manera directa o conjunta con la Auditoría Superior del Estado, derivados de la celebración de convenios de coordinación o análogos, y
+
+XXXVI. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 540.
 
-Al Director de Auditoría al Sector Paraestatal le corresponde el despacho de los siguientes asuntos:
+Al Director de Auditoría de Recursos Estatales del Sector Paraestatal le corresponde el despacho de los siguientes asuntos:
 
 I. Acordar con su superior inmediato la resolución de los asuntos relevantes cuya tramitación se encuentre dentro del ámbito de su competencia;
 
-II. Sugerir a su superior la designación y, en su caso, la remoción de los titulares de los órganos de control interno y coordinadores de sector, y mantener actualizados los catálogos de designación y nombramientos respectivos;
+II. Proponer a su superior la asignación y, en su caso, cambios de los titulares de los órganos de control interno en las Entidades y mantener actualizadas las designaciones y nombramientos respectivos;
 
 III. Elaborar proyectos acerca de la creación, modificación, organización, fusión o desaparición de las estructuras orgánicas y ocupacionales de las áreas administrativas a su cargo, atendiendo a las necesidades del servicio, y proponerlos a su superior para su aprobación;
 
-IV. Formular y proponer a su superior, el anteproyecto del presupuesto por programas relativo a la Dirección a su cargo, conforme a las normas establecidas;
+IV. Formular y proponer a su superior, el anteproyecto del presupuesto por programas relativo (sic) a la dirección a su cargo, conforme a las normas establecidas;
 
-V. Supervisar que los Órganos de Control Interno y Coordinadores de Sector, den seguimiento a los programas ejecutados con recursos estatales en las entidades en que se encuentren comisionados y que se realicen en apego a la normatividad que los regula;
+V. Vigilar las actividades de los titulares de los órganos de control interno en la supervisión de la implementación del sistema de control interno en las Entidades;
 
-VI. Definir, en coordinación con las unidades administrativas competentes de la Contraloría, las prioridades, estrategias y los criterios básicos, a fin de establecer las bases generales a que se sujetarán los programas de trabajo de los órganos de control interno y coordinadores de sector en su ámbito de competencia;
+VI. Coordinar y supervisar que las revisiones en materia de control interno que lleven a cabo los titulares de los órganos de control interno en las Entidades, se realicen conforme a la normativa en la materia;
 
-VII. Evaluar el desempeño de la gestión de los titulares de los órganos de control interno y coordinadores de sector, y con base a esto informar a su superior jerárquico del diagnóstico y resultados obtenidos; asimismo proponer las soluciones, a fin de propiciar su óptimo desarrollo y funcionamiento;
+VII. Supervisar que los órganos de control interno lleven el registro de los programas, fondos, fideicomisos o análogos que operan con recursos estatales en la Entidad en que se encuentren comisionados, así como su intervención en ellos;
 
-VIII. Formular y proponer a su superior jerárquico, conforme a los lineamientos establecidos, los proyectos de manuales de organización, procedimientos y servicios correspondientes a esta Dirección;
+VIII. Formular y proponer a su superior jerárquico, conforme a los lineamientos establecidos, los proyectos de manuales de organización, procedimientos y servicios correspondientes a la dirección a su cargo;
 
-IX. Vigilar las intervenciones en las que los Órganos de Control Interno participen en cambios de titulares de unidades administrativas obligadas, conforme a la normatividad aplicable y en su caso intervenir, por orden del Secretario o de su superior, en cambio de titulares de las dependencias, para efecto de dar fe del acto de entrega y recepción establecido;
+IX. Supervisar las intervenciones de los órganos de control interno en los procesos de entrega-recepción, transferencia y desincorporación que se lleven a cabo en las Entidades, conforme a la normativa aplicable y, en su caso, intervenir, por orden del secretario o de su superior, en el cambio de titulares de las Entidades, para efecto de dar fe del acto de entrega-recepción establecido;
 
-X. Establecer los criterios y formatos necesarios para el eficiente desempeño de esta Dirección, así como proporcionar los resultados de las evaluaciones periódicas de las actividades de la Dirección que le soliciten sus superiores, la Dirección de Administración o la unidad administrativa que tenga competencia para ello;
+X. Coadyuvar con las asesorías y capacitaciones en materia de entrega-recepción, transferencia y desincorporación dirigidas a los servidores públicos de las Entidades;
 
-> <small>(REFORMADA, D.O. 29 DE MARZO DE 2016)</small>
+XI. Proponer e implementar los criterios y formatos necesarios para el eficiente desempeño de la dirección, así como proporcionar los resultados de las actividades de la dirección que le soliciten sus superiores;
 
-XI. Supervisar que los coordinadores de sector y los órganos de control interno lleven el seguimiento de sus asuntos turnados a las direcciones de Normatividad, Quejas y Responsabilidades, y de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal hasta su resolución definitiva;
+XII. Promover la capacitación y adiestramiento del personal de los órganos de control interno y demás personal adscrito a la dirección a su cargo; para tal efecto deberá integrar y someter a autorización de su superior el Programa Anual de Capacitación en las materias de su competencia;
 
-XII. Promover la capacitación y adiestramiento del personal que la conforma y de las Contralorías Internas de su ámbito de competencia, así como del personal a su cargo; y para tal efecto deberá integrar y someter a autorización de su superior el Programa Anual de Capacitación del Personal de Auditoría. Asimismo solicitar apoyo de otras unidades administrativas competentes de la Secretaría;
+XIII. Planear, programar, organizar, dirigir y controlar el desarrollo de los programas y acciones encomendados a los titulares de los órganos de control interno, jefes de departamento e investigadores, que integren la dirección a su cargo;
 
-XIII. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de los programas y acciones encomendadas a los Coordinadores de Sector y Órganos de Control Interno, que integren esta Dirección;
+XIV. Integrar y autorizar el programa anual de auditorías y demás actos de fiscalización de recursos estatales a las Entidades del sector paraestatal, en su ámbito de competencia, así como supervisar su ejecución e informar a su superior jerárquico sobre sus avances y de las demás actividades que desempeña esta dirección;
 
-XIV. Integrar el Programa Anual de Auditorías a las entidades del Sector Paraestatal, en su ámbito de competencia y ponerlo a consideración de su superior, a fin de que este gestione lo necesario para su aprobación, así como informar sobre los avances del mismo y de las demás actividades que desempeña esta Dirección;
+XV. Supervisar y coordinar al personal a su cargo en la aplicación de las políticas, programas, lineamientos, normas y acciones para la programación, planeación, inicio, desarrollo y conclusión de las auditorías, investigaciones y demás actos de fiscalización, que emitan las autoridades competentes, así como las correspondientes de los sistemas Nacional y Estatal Anticorrupción y de Fiscalización;
 
-XV. Revisar y autorizar los programas y guías que le turnen los Coordinadores de Sector y Órganos de Control Interno, para la planeación, programación, inicio, desarrollo y conclusión de las auditorías y proponerlas a su superior para su aprobación;
+XVI. Proponer al superior jerárquico al personal que intervendrá en las auditorías, inspecciones, investigaciones, revisiones y demás actos de fiscalización;
 
-XVI. Proponer a su superior jerárquico el personal que intervendrá en las auditorías y revisiones;
+XVII. Coordinar y supervisar las auditorías, inspecciones, revisiones e investigaciones ordenadas por la Contraloría en las Entidades, relacionados con recursos estatales, a fin de vigilar el estricto cumplimiento de las disposiciones legales que les resulten aplicables;
 
-XVII. Coordinar y supervisar las auditorías, revisiones e investigaciones en las entidades en su ámbito de competencia, a fin de vigilar el estricto cumplimiento de la Ley en materia de contabilidad y gasto público y demás disposiciones legales aplicables;
+XVIII. Requerir, cuando lo estime conveniente para el cumplimiento de sus atribuciones, información y documentación a las Entidades;
 
-XVIII. Requerir, para el cumplimiento de sus atribuciones, información y documentación a las entidades;
+XIX. Coordinar y supervisar que las auditorías, inspecciones y demás actos de fiscalización que lleven a cabos (sic) los titulares de los órganos de control interno en las Entidades, se realicen conforme a la normativa de la materia;
 
-XIX. Analizar el contenido de los informes derivados de la práctica de auditorías a las entidades y turnar a su superior los resultados, a fin de que se emitan las recomendaciones procedentes a los entes auditados; así como turnar los expedientes a las autoridades competentes cuando se deriven presuntas responsabilidades de servidores públicos;
+XX. Revisar que las cédulas de observaciones e informes finales de las auditorías, así como los informes de resultados derivados de inspecciones y demás actos de fiscalización de recursos estatales practicados a las Entidades cumplan con la normativa en la materia, y turnar a su superior jerárquico los resultados para su conocimiento;
 
-XX. Supervisar que los órganos de control interno y coordinadores de sector den seguimiento a las observaciones determinadas en las auditorías y revisiones realizadas a las entidades, hasta que estén totalmente comprobadas;
+XXI. Supervisar que los órganos de control interno den seguimiento a las observaciones y recomendaciones determinadas en sus auditorías, revisiones, inspecciones y demás actos de fiscalización relacionadas con recursos estatales, realizadas a las Entidades, hasta que estén totalmente solventadas o promovidas por la existencia de probables faltas administrativas;
 
-XXI. Formular informes técnicos, contables y opiniones que le sean encomendados por la superioridad, en aquellos asuntos propios de su competencia;
+XXII. Turnar al departamento investigador correspondiente, el informe de irregularidades cuando se presuma la existencia de probables faltas administrativas de servidores públicos de las Entidades o de particulares, por conductas sancionables en términos de la legislación aplicable en materia de responsabilidades administrativas, por actos u omisiones que hubieren sido detectados en la práctica de la auditoría, inspección u otro acto de fiscalización llevados a cabo por los titulares de los órganos de control interno adscritos a su dirección, para la práctica de investigaciones que deba conocer conforme a su competencia, en términos de las disposiciones de la materia;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XXIII. Formular informes técnicos y contables, y las opiniones que le sean encomendados por la superioridad, en aquellos asuntos que sean propios de su competencia;
 
-XXII. Integrar el informe que el Director General del Sector Estatal y Paraestatal deba rendir al Secretario, en base a los informes recibidos de los Coordinadores de Sector y Contralores Internos, por las auditorías practicadas a las entidades en cuanto al ejercicio de los recursos estatales y los resultados de éstas, para la instrumentación de las acciones y medidas correctivas que correspondan, en el ámbito de su competencia;
+XXIV. Integrar el informe que el Director General de Auditoría de Recursos Estatales deba rendir al secretario, con base en los informes recibidos de los titulares de los órganos de control interno y de las unidades con facultades de investigación adscritos a su dirección, para la instrumentación de las acciones y medidas correctivas que correspondan, en el ámbito de su competencia;
 
-XXIII. Realizar auditorías, revisiones e investigaciones, no programadas, cuando así lo ordene el Titular;
+XXV. Vigilar que los titulares de los órganos de control interno de las Entidades, cumplan con la normativa aplicable a sus actos de fiscalización;
 
-XXIV. Vigilar que los Coordinadores de Sector y Órganos de Control Interno de las entidades, cumplan con la normatividad aplicable y procedimientos que al efecto establezca esta Secretaría;
+XXVI. Recibir de los titulares de los órganos de control interno, los expedientes correspondientes de las auditorías, inspecciones, revisiones, verificaciones e investigaciones concluidas para su control, resguardo y archivo;
 
-XXV. Recibir de los Órganos de Control Interno y Coordinadores de Sector, los expedientes relativos a las investigaciones y auditorías que hubiere practicado y turnar a su superior jerárquico los resultados, sí de las mismas se desprenden presuntas responsabilidades de los servidores públicos, a fin de que éste acuerde lo procedente;
+XXVII. Proponer criterios sobre la forma y términos en que las Entidades deban preparar sus registros contables y, en su caso, sus informes y cuentas para fines de fiscalización;
 
-XXVI. Dictaminar sobre las opiniones que corresponden emitir a la Contraloría, cuando se lo soliciten las unidades administrativas competentes de la misma, así como las que deban rendir en su ámbito de competencia, en cuanto se refieran a las instrucciones sobre la forma y términos en que las entidades deban llevar sus registros contables, y, en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación, y
+XXVIII. Coordinar y supervisar las actividades de verificación aleatoria de las declaraciones de situación patrimonial y de interés de los servidores públicos de las Entidades, así como de evolución del patrimonio, en el ámbito de su competencia y, de no existir ninguna anomalía, verificar que se expida la certificación correspondiente, para su anotación en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de conformidad con la legislación aplicable en materia de responsabilidades administrativas;
 
-XXVII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+XXIX. Dar seguimiento a las investigaciones por probables actos u omisiones que pudieran constituir faltas administrativas por parte de los servidores públicos de las Entidades o de los particulares relacionados con ellas, que llevan a cabo los titulares de los órganos de control interno y demás autoridades investigadoras adscritas a su dirección;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
+XXX. Supervisar que los titulares de los órganos de control interno y demás autoridades investigadoras adscritas a su dirección, lleven el seguimiento de sus asuntos turnados a la Dirección de Responsabilidades y Normatividad y demás autoridades competentes, hasta su resolución definitiva;
+
+XXXI. Integrar los informes mensuales y trimestrales de las auditorías, inspecciones, investigaciones, verificaciones, revisiones y demás actividades realizadas en el periodo por los titulares de los órganos de control interno, jefes de departamento e investigadores adscritos a su dirección, así como, informarle a su superior jerárquico sobre los resultados;
+
+XXXII. Integrar y autorizar el programa anual de intervenciones en contrataciones públicas estatales de las Entidades, dando seguimiento a su ejecución e informar a su superior jerárquico sobre sus avances;
+
+XXXIII. Establecer medidas y acciones específicas que aseguren la intervención de los titulares de los órganos de control interno y de los investigadores adscritos a su dirección, en los actos de contrataciones públicas, previa invitación de las Entidades, en términos de la legislación aplicable en materia de responsabilidades administrativas;
+
+XXXIV. Conocer las observaciones planteadas por los titulares de los órganos de control interno e investigadores adscritos a la dirección a su cargo, con motivo de su participación en los procedimientos de contrataciones públicas estatales y en los comités de adquisiciones de las Entidades, así como, del resultado de su seguimiento;
+
+XXXV. Supervisar que los comisarios den seguimiento a los acuerdos emanados de las sesiones de los órganos de gobierno de las Entidades;
+
+XXXVI. Coordinar el seguimiento de los resultados de las auditorías externas que se realicen a las Entidades de la Administración Pública estatal, conforme al programa anual de trabajo;
+
+XXXVII. Previa instrucción de su superior jerárquico y conforme a la normativa de la materia, coordinar en las Entidades las acciones de fiscalización de recursos estatales u otros diversos a estos, que se practiquen de manera directa o conjunta con la Auditoría Superior del Estado, derivados de la celebración (sic) convenios de coordinación o análogos, y
+
+XXXVIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 541.
 
-A los Coordinadores de Auditoría de Sistemas, en su ámbito Paraestatal y Centralizado, les corresponde el despacho de los siguientes asuntos:
+A los titulares de los Órganos de Control Interno les corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Supervisar la implementación del sistema de control interno en las Dependencias y Entidades a las que se encuentran asignados, vigilar, a través de revisiones, el cumplimiento de la normativa aplicable en la materia, así como proponer las adecuaciones y mejoras a sus instrumentos de control en el ámbito de competencia de la Dirección General de Auditoría a Recursos Estatales;
 
-I. Verificar aleatoriamente que las dependencias y entidades den cumplimiento a las disposiciones que rigen en la materia y a la normatividad emitida por la Secretaría de Administración y Finanzas en sistemas informáticos y gestión de calidad;
+II. Intervenir en los procesos de entrega-recepción, transferencia y desincorporación en la Dependencia o Entidad en la cual se encuentren asignados, conforme a la normativa aplicable, para efecto de dar fe del acto realizado;
 
-II. Informar a su superior sobre los resultados de las auditorías, inspecciones y revisiones efectuadas, para la instrumentación de las acciones y medidas correctivas que correspondan;
+III. Requerir a los servidores públicos obligados de las Dependencias y Entidades que no llevaron a cabo la entrega de los recursos inherentes a su cargo, el cumplimiento de la normativa aplicable en materia de entrega-recepción;
 
-III. Turnar a su superior, los expedientes relativos a las investigaciones o auditorías en sistemas informáticos que hubiere practicado, si de las mismas se desprenden presuntas responsabilidades de los servidores públicos;
+IV. Practicar las investigaciones por incumplimiento de la normativa en materia de entrega-recepción, transferencia y desincorporación, que pudieran constituir probables faltas administrativas por parte de los servidores públicos de las Dependencias y Entidades;
 
-IV. Proponer a su superior planteamientos de simplificación, descentralización y automatización de procesos de auditoría;
+V. Proporcionar asesoría y capacitación en materia de entrega-recepción, transferencia y desincorporación, conforme al programa autorizado y a la normativa correspondiente, previa solicitud correspondiente;
 
-V. Proponer recomendaciones de soluciones tecnológicas e informáticas que optimicen los recursos y procesos operativos, propiciando el incremento permanente de la productividad y eficiencia;
+VI. Intervenir en los actos administrativos relacionados con recursos estatales, en los que la normativa expresamente solicite un representante de la Contraloría, debiendo informar oportunamente a su superior jerárquico de los actos en los que haya participado;
 
-VI. Evaluar el uso de la informática, en apoyo a la modernización de la Administración Pública;
+VII. Mantener en todo momento autonomía en todas aquellas acciones de la Dependencia o Entidad, que por su naturaleza sean sujetas a evaluación y control;
 
-VII. Verificar que las políticas, procedimientos y controles para el manejo y uso de la tecnología informática, satisfagan las necesidades para llevar a cabo las actividades y operaciones de las instituciones del Gobierno, evaluando el grado de cumplimiento de las políticas, procedimientos y controles normativos para el uso institucional de los sistemas, la telefonía, telecomunicaciones, Internet, infraestructura electrónica y de seguridad informativa, por el personal de la Dependencia o Entidad, con el fin de otorgar a los mandos superiores la certeza de que la información se maneja en un ambiente de seguridad y control eficiente, y que su flujo a través de los medios informáticos cumple con los conceptos básicos de integridad, totalidad, exactitud, confiabilidad y oportunidad;
+VIII. Asesorar y capacitar, previa programación, a los servidores públicos de la Dependencia o Entidad en la cual se encuentren asignados, en aquellos asuntos que sean propios de su competencia;
 
-VIII. Definir infraestructura de hardware, software y comunicaciones requerida por esta Dirección para llevar a efecto los proyectos o programas que se autoricen;
+IX. Formular los dictámenes, opiniones e informes que les sean encomendados por su superior en aquellos asuntos que sean propios de su competencia; así como, los que deriven de las solicitudes de las autoridades integrantes de los Sistemas Nacional y Estatal Anticorrupción y del Sistema Nacional de Fiscalización;
 
-IX. Realizar auditorías para verificar el cumplimiento de las normas, procedimientos, programas y políticas que regulen la operación de sistemas informáticos y bases de datos de las dependencias o entidades;
+X. Aplicar las políticas, programas, lineamientos, normas y acciones para la planeación, programación, inicio, desarrollo y conclusión de las auditorías, investigaciones y demás actos de fiscalización, que emitan las autoridades competentes, así como las correspondientes a los sistemas Nacional y Estatal Anticorrupción y de Fiscalización;
 
-X. Revisar periódicamente el desempeño de los sistemas informáticos en operación y bases de datos de las dependencias y entidades, así como la información que contienen, para garantizar que la información contable - presupuestal sea integra y confiable;
+XI. Abstenerse de emitir opiniones o tomar decisiones que no se encuentren expresamente autorizadas;
 
-XI. Llevar un registro de los sistemas informáticos y bases de datos de las dependencias y entidades, así como emitir las políticas, manuales y lineamientos para regular la manera en que las mismas dependencias y entidades deberán proporcionar la información que se les requiera para el cumplimiento de las funciones de auditoría;
+XII. Elaborar y remitir para conocimiento y aprobación del superior jerárquico el programa anual de auditorías y demás actos de fiscalización de recursos estatales de la Dependencia y Entidad a la que esté asignado, para tal efecto, contarán con autonomía para la planeación, propuesta de rubros para revisión y ejecución del programa aprobado, así como para la emisión de los informes de resultados de los asuntos que conozcan;
 
-XII. Proponer a su superior, el uso y aprovechamiento adecuado de nuevas tecnologías y herramientas de cómputo;
+XIII. Realizar auditorías, inspecciones, revisiones y demás actos de fiscalización relacionados con recursos estatales en las Dependencias y Entidades, a fin de examinar, fiscalizar y promover el estricto cumplimiento de las disposiciones legales aplicables, que sus operaciones sean congruentes con los procesos de planeación, programación, presupuestación y aplicación de los recursos públicos estatales, y demás rubros establecidos en la legislación aplicable en materia de responsabilidades administrativas;
 
-> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+XIV. Remitir a su superior jerárquico informes periódicos, así como mensuales y trimestrales, de las auditorías, inspecciones, investigaciones, revisiones y demás actividades realizadas en el período, sus resultados, así como del seguimiento de las recomendaciones emitidas en el ámbito de su competencia;
 
-XIII. Implementar y, en su caso, promover las políticas de operación, seguridad y utilización de tecnologías de información y comunicaciones de la Dirección General del Sector Estatal y Paraestatal, acordes con las políticas que, para tal efecto, establezca la Secretaría de Administración y Finanzas;
+XV. Requerir a las unidades administrativas de la Dependencia o Entidad en la cual se encuentren designados, la información y documentación sobre las personas, físicas o morales, con quienes celebren contratos por concepto de adquisiciones y arrendamientos de bienes muebles; así como sobre los prestadores de servicio y contratistas; y las personas que desempeñen un empleo, cargo o comisión en la Dependencia o Entidad correspondiente, y cualquier otra necesaria para cumplir con sus atribuciones, en términos de las disposiciones legales aplicables;
 
-XIV. Remitir a su superior jerárquico el avance mensual del programa anual de trabajo, así como las actividades realizadas durante ese período;
+XVI. Llevar el control y seguimiento a las observaciones y recomendaciones que formulen como resultado de la práctica de auditorías a recursos estatales que realicen en las Dependencias y Entidades, así como, las derivadas de revisiones, inspecciones e investigaciones hasta que estén totalmente solventadas o promovidas por la existencia de probables faltas administrativas, e informar a su superior jerárquico;
 
-XV. Remitir a su superior jerárquico informes trimestrales en el que se detallen las auditorías y actividades que se realicen en el ámbito de su competencia;
+XVII. Sustentar las auditorias, inspecciones y demás actos de fiscalización con la documentación comprobatoria suficiente, asimismo, los informes o documentos que se elaboren deberán estar conforme a la metodología y técnica aplicables;
 
-XVI. Someter a solicitud de su superior jerárquico el Programa Anual de Auditorías y de capacitación del personal de auditorias en el ámbito de su competencia;
+XVIII. Requerir a las Dependencias y Entidades la ejecución de acciones para solventar las cédulas de observaciones que se formulen con motivo de sus auditorías así como de las observaciones que deriven de la práctica de inspecciones y revisiones, solicitando la información, documentación o acciones necesarias para tal efecto;
 
-XVII. Elaborar el programa de trabajo y guías que establezcan las disposiciones legales y administrativas aplicables, para la planeación, programación, inicio, desarrollo y conclusión de las auditorías y proponerlas a su superior para su evaluación, modificación y aprobación;
+XIX. Turnar al director de auditoría al cual se encuentre adscrito, el informe de irregularidades cuando se presuma la existencia de probables faltas administrativas de servidores públicos de las Dependencias y Entidades o de particulares por conductas sancionables en términos de la legislación aplicable en materia de responsabilidades administrativas, con motivo de actos u omisiones detectados en la práctica de la auditoría, inspección u otro acto de fiscalización ordenado por la Contraloría, en términos de las disposiciones de la materia;
 
-XVIII. Elaborar y remitir a su superior jerárquico, el informe de los resultados de las auditorías y revisiones efectuadas, la propuesta de las acciones y medidas correctivas que correspondan, en el ámbito de su competencia;
+XX. Expedir, cuando proceda, certificaciones de documentos que obren en los archivos del órgano de control interno a su cargo;
 
-XIX. Dar seguimiento a las observaciones y recomendaciones que se formulen como resultado de la práctica de auditorías a sistemas que se realicen en dependencias entidades, o de revisiones hasta que estén totalmente solventadas e informar al superior jerárquico;
+XXI. Practicar las investigaciones que le sean asignadas por su superior jerárquico y, en su caso, las que proceda conocer en el ámbito de su competencia conforme a las disposiciones legales, por probables actos u omisiones que puedan constituir faltas administrativas relacionadas con recursos estatales por parte de los servidores públicos de las Dependencias y Entidades o de los particulares por conductas sancionables, en términos de la legislación aplicable en materia de responsabilidades administrativas, así como informar a su superior jerárquico sobre el estado que guarde la tramitación de los procedimientos de investigación que conozca;
 
-XX. Sustentar las auditorías con documentación idónea y suficiente; y preparar los informes o documentos de auditoría de conformidad a la metodología y técnicas aplicables en el ámbito de su competencia;
+XXII. Practicar las actuaciones y diligencias que se estimen procedentes, a fin de integrar debidamente los expedientes relacionados con las investigaciones que lleven a cabo, en el ámbito de su competencia, con motivo de actos u omisiones que pudieran constituir faltas administrativas no graves, de conformidad con (sic) legislación aplicable en materia de responsabilidades administrativas;
 
-XXI. Apoyar técnica y operativamente a los Órganos de Control Interno de la Dependencia o Entidad en la realización de auditorías y revisiones a través de los sistemas informáticos y base de datos;
+XXIII. Solicitar la información necesaria para el esclarecimiento de los hechos materia de la investigación que realice, en términos de la legislación aplicable en materia de responsabilidades administrativas, incluyendo aquella que las disposiciones jurídicas en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de faltas administrativas a que alude la referida normativa, con la obligación de mantener la misma reserva o secrecía, conforme a dichas disposiciones;
 
-XXII. Asesorar técnica y operativamente en asuntos que le encomiende su superior jerárquico a los Órganos de Control Interno de las dependencias y entidades en el ámbito de su competencia, y
+XXIV. Ordenar, por conducto del titular de la Contraloría, la práctica de visitas de verificación, las cuales se sujetarán a lo previsto en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán;
 
-XXIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+XXV. Citar, cuando lo estime necesario, a cualquier servidor público que pueda tener conocimiento de hechos relacionados con probables faltas administrativas que deba conocer en el ámbito de su competencia, a fin de constatar su veracidad, así como solicitarle que aporte, en su caso, los elementos, datos o indicios que permitan advertir la probable responsabilidad administrativa del servidor público o del particular por conductas sancionables en términos de la legislación aplicable en materia de responsabilidades administrativas;
 
-> <small>(REFORMADO, D.O. 29 DE MARZO DE 2016)</small>
+XXVI. Formular requerimientos de información a particulares, que sean sujetos de investigación por haber cometido probables faltas administrativas, en términos de la legislación aplicable en materia de responsabilidades administrativas;
+
+XXVII. Dictar los acuerdos que correspondan en los procedimientos de investigación que realice, en el ámbito de su competencia, incluido el de conclusión y archivo del expediente cuando así proceda, así como el informe de probable responsabilidad administrativa para turnarlo a la autoridad substanciadora en el que se incluirá la calificación de la falta administrativa;
+
+XXVIII. Tramitar el recurso de inconformidad que se interponga con motivo de la calificación de las faltas administrativas que realice, de conformidad con lo establecido en la legislación aplicable en materia de responsabilidades administrativas;
+
+XXIX. Interponer, tramitar y conocer los recursos que como autoridad investigadora le otorga la legislación aplicable en materia de responsabilidades administrativas;
+
+XXX. Imponer las medidas para hacer cumplir sus determinaciones, que establece la legislación aplicable en materia de responsabilidades administrativas para las autoridades investigadoras, y solicitar las medidas cautelares que se estimen necesarias para la mejor conducción de sus investigaciones;
+
+XXXI. Formular denuncias ante el Ministerio Público o, en su caso, ante la instancia competente, cuando de la conclusión de sus investigaciones advierta la presunta comisión de delitos y fungir como parte coadyuvante del procedimiento penal, en términos de la normativa aplicable;
+
+XXXII. Ejercer las funciones de autoridad investigadora previstas en la legislación aplicable en materia de responsabilidades administrativas;
+
+XXXIII. Practicar, según sea el caso, las verificaciones aleatorias de las declaraciones de situación patrimonial y de interés, y, en los casos procedentes la evolución, del patrimonio de los servidores públicos de las Dependencias y Entidades y, de no existir ninguna anomalía, expedir la certificación correspondiente, para su anotación en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal;
+
+XXXIV. Practicar las investigaciones por la probable responsabilidad por faltas administrativas de los servidores públicos de las Dependencias y Entidades, derivadas de la omisión en la presentación de la declaración patrimonial y de intereses o, en su caso, por presuntas anomalías detectadas durante la verificación de las declaraciones de situación patrimonial y de interés, o de la evolución del patrimonio de los servidores públicos de las Dependencias y Entidades;
+
+XXXV. Requerir a los servidores públicos omisos de las Dependencias y Entidades el cumplimiento de su obligación de presentar la declaración de situación patrimonial y de interés, de conformidad con lo establecido en la legislación aplicable en materia de responsabilidades administrativas;
+
+XXXVI. Actuar directamente o a través de los investigadores de auditorías y contrataciones públicas estatales o del personal comisionado para tal efecto, en los procedimientos de adquisiciones y arrendamientos de bienes muebles, prestación de servicios y en los comités que se establezcan en las Dependencias y Entidades de la Administración Pública estatal, relacionados con el ejercicio de recursos estatales, de conformidad con la normativa en la materia;
+
+XXXVII. Informar a su superior jerárquico sobre las observaciones planteadas con motivo de su participación en los procedimientos de contrataciones públicas estatales y en los comités de adquisiciones de las Dependencias y Entidades, así como el resultado de su seguimiento;
+
+XXXVIII. Llevar el registro de los programas, fondos, fideicomisos o análogos que operan con recursos estatales en las Dependencias o Entidades en que se encuentren comisionados;
+
+XXXIX. Conocer y dar seguimiento a los resultados de las auditorías externas que se realicen a las Dependencias y Entidades de la Administración Pública estatal, previa instrucción de su superior jerárquico y conforme al programa anual de trabajo;
+
+XL. Investigar, en el ámbito de su competencia, los actos u omisiones de los servidores públicos que pudieran constituir responsabilidades administrativas relacionadas con recursos estatales que deriven de los resultados con opinión desfavorable o adversa en los dictámenes de auditorías externas, previa (sic) acuerdo con su superior jerárquico;
+
+XLI. Continuar con las investigaciones de actos u omisiones relacionados con probables faltas administrativas no graves de servidores públicos de las Dependencias y Entidades derivadas de auditorías u otros actos de revisión, practicadas a recursos estatales por otros entes fiscalizadores, solicitándoles, en su caso, la información y documentación necesaria para la debida integración de la investigación;
+
+XLII. Previa instrucción de su superior jerárquico, realizar, en las Dependencias o Entidades, las acciones de fiscalización de recursos estatales u otros diversos a estos, que se practiquen de manera directa o conjunta con la Auditoría Superior del Estado, derivados de la celebración (sic) convenios de coordinación o análogos, y
+
+XLIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables, así como las que le encomiende el secretario.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 542.
 
-Al Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal le corresponde el despacho de los siguientes asuntos:
+A los Jefes del Departamento de Investigaciones de Auditorías y Contrataciones Públicas Estatales, en su ámbito Centralizado y Paraestatal, les corresponde el despacho de los siguientes asuntos:
 
-I. Intervenir, en el ámbito de su competencia, y previa orden de su superior jerárquico, en los procesos de entrega-recepción y transferencias que deriven de cambios estructurales de las dependencias y entidades de la Administración Pública estatal;
+I. Integrar y remitir para conocimiento y autorización de su superior jerárquico, el programa anual de intervenciones en contrataciones públicas que realicen las Dependencias y Entidades con recursos estatales, en el ámbito de su competencia;
 
-II. Opinar, en el ámbito de competencia de la contraloría, respecto a los anteproyectos de reglamentos interiores, estatutos orgánicos y manuales de organización que propongan los titulares de las dependencias y entidades, y que estén relacionados con cambios de organización y procedimientos, cuando así se lo soliciten;
+II. Coordinar y supervisar el cumplimiento del programa de trabajo autorizado, así como, las actuaciones en las investigaciones que realicen los investigadores a su cargo, informando a su superior jerárquico el resultado alcanzado;
 
-III. Fundamentar las opiniones que corresponden emitir a la Dirección General del Sector Estatal y Paraestatal en el ámbito de su competencia, cuando se lo soliciten las unidades administrativas respectivas;
+III. Organizar y vigilar la intervención de los investigadores a su cargo, en la supervisión de los procedimientos de contrataciones públicas relacionadas con bienes muebles que llevan a cabo las Dependencias y Entidades con cargo a recursos estatales, cuando intervengan en representación de los titulares de los órganos de control interno;
 
-IV. Atender, previa orden de su superior jerárquico, las solicitudes y recomendaciones emitidas por la Comisión de Derechos Humanos del Estado de Yucatán cuyo conocimiento competa a la Dirección General del Sector Estatal y Paraestatal;
+IV. Ordenar y coordinar la intervención de los investigadores a su cargo, en los comités de adquisiciones que se establezcan en las Dependencias y Entidades de la Administración Pública estatal, cuando se traten asuntos relacionados con el ejercicio de recursos estales;
 
-V. Formular, revisar y someter a la consideración de su superior jerárquico los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones legales de su competencia en los que se le solicite su participación;
+V. Coordinar el seguimiento a las observaciones planteadas por los investigadores a su cargo, con motivo de su participación en los procedimientos de contrataciones públicas estatales y en los comités de adquisiciones de las Dependencias y Entidades;
 
-VI. Representar legalmente al Director General del Sector Estatal y Paraestatal y al secretario en los procedimientos administrativos y jurisdiccionales en que se requiera su intervención y que se encuentren dentro del ámbito de su competencia;
+VI. Plantear a su superior jerárquico, las necesidades de capacitación de los investigadores a su cargo, en materia de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
-VII. Asesorar jurídicamente a las unidades administrativas de la Dirección General del Sector Estatal y Paraestatal, actuar como órgano de consulta y realizar los estudios e investigaciones jurídicos que requiera el desarrollo de sus atribuciones;
+VII. Emitir y supervisar las asesorías y opiniones que soliciten las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales, en materia de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, en el ámbito de su competencia;
 
-VIII. Coordinarse con la Dirección de Normatividad, Quejas y Responsabilidades en la atención y respuesta a las consultas jurídicas planteadas por los órganos de control interno, así como por las diversas unidades administrativas de la Dirección General del Sector Estatal y Paraestatal, respecto a las materias de adquisiciones, arrendamientos, prestación de servicios, obra pública, entrega-recepción e interpretación de leyes, manuales y reglamentos en los que la contraloría tenga dicha atribución;
+VIII. Asignar y supervisar la integración de las investigaciones que lleven a cabo los investigadores a su cargo, así como, el desarrollo de las actuaciones, diligencias y notificaciones que se ordenen, para garantizar que se lleven a cabo en los términos de las disposiciones en la materia;
 
-IX. Otorgar asesoría jurídica en las investigaciones que realicen los órganos de control interno;
+IX. Coordinar y dar seguimiento a los recursos que promuevan, tramiten o interpongan los investigadores a su cargo en ejercicio de sus funciones de autoridad investigadora;
 
-X. Coordinar la difusión en los órganos de control interno de los criterios de interpretación en materia de normatividad estatal, con el objeto de que las observaciones contenidas en las auditorías que practican, así como sus revisiones e investigaciones, cuenten con el debido sustento legal, con la finalidad de homologar y difundir criterios en la interpretación de la normatividad aplicable;
+X. Solicitar información y documentación relacionada con las investigaciones y actuaciones que realicen los investigadores a su cargo, tanto a servidores públicos como a particulares, en el ejercicio de sus funciones;
 
-XI. Compilar y promover la difusión de las normas jurídicas relacionadas con las funciones de la Dirección General del Sector Estatal y Paraestatal;
+XI. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos, y
 
-XII. Revisar, en el aspecto jurídico, los convenios y contratos en los que la contraloría sea parte en el ámbito estatal o que se formalicen con los municipios;
+XII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables, así como las que le encomiende el secretario.
 
-XIII. Solicitar a los órganos de control interno información y documentación con el objeto de instruir los recursos de revocación que se promuevan en contra de las resoluciones que se emitan;
-
-XIV. Instruir los recursos de revocación que se promuevan en contra de las resoluciones de procedimientos disciplinarios de responsabilidad administrativa que emitan los órganos de control interno, de acuerdo con las disposiciones legales vigentes, con excepción de aquellos que sean de la competencia de otras unidades administrativas de la contraloría;
-
-XV. Practicar, en coordinación con el personal a su cargo o el que sea designado por el Director General del Sector Estatal y Paraestatal, las actuaciones, diligencias y notificaciones que requiera el seguimiento y despacho de los asuntos de su competencia, así como citar a comparecer, en cualquier momento, a las personas que considere conveniente para que aporten información tendiente al esclarecimiento de las investigaciones que le sean turnadas, de conformidad con la legislación aplicable;
-
-XVI. Presentar, en el ámbito de su competencia y previo acuerdo con su superior jerárquico, las denuncias o querellas ante el Ministerio Público del fuero común cuando, derivadas de actos de auditoría o revisión practicados por los órganos de control interno, se presuma la existencia de conductas delictivas cometidas por servidores públicos de la Administración Pública estatal;
-
-XVII. Instrumentar los informes previo y justificado, y elaborar alegaciones como tercero perjudicado en los juicios de amparo que deriven de actos y resoluciones emitidas por los órganos de control interno o de la resolución de los recursos de revocación promovidos contra estos;
-
-XVIII. Coordinarse con la Fiscalía General del Estado para la investigación de los delitos del orden común que se detecten en las acciones operativas de la contraloría, coadyuvando en representación de esta en los procedimientos penales, políticos y administrativos correspondientes;
-
-XIX. Coordinar la integración del padrón de servidores públicos obligados a presentar la declaración de situación patrimonial, llevar el registro de su cumplimiento, de conformidad con la legislación aplicable, y brindar asesoría y capacitación para el cumplimiento de dicha obligación;
-
-XX. Coordinar la integración del padrón de servidores públicos obligados a presentar la declaración de situación patrimonial, llevar el registro de estos documentos, de conformidad con la legislación aplicable, y brindar asesoría y capacitación para el cumplimiento de dicha obligación;
-
-XXI. Proponer a los demás sujetos obligados a presentar declaración de situación patrimonial, así como analizar los puestos, cargos o comisiones cuyos titulares deban ser sujetos de la referida obligación, con base en la información que para tal efecto remitan las áreas de recursos humanos o sus equivalentes en las dependencias y entidades de la Administración Pública estatal;
-
-XXII. Proponer los sujetos obligados que deben presentar su declaración de situación patrimonial, con base en el análisis de puestos, cargos o comisiones y la información que para tal efecto remitan las áreas de recursos humanos o sus equivalentes de las dependencias y entidades de la Administración Pública estatal;
-
-XXIII. Proponer a su superior jerárquico las normas y contenido de los formatos bajo los cuales deberán declarar su situación patrimonial los servidores públicos, así como los instructivos y manuales correspondientes;
-
-XXIV. Implementar nuevos sistemas encaminados a optimizar y agilizar el servicio que se brinda a los servidores públicos respecto a sus declaraciones patrimoniales, y dar seguimiento e impulsar los ya existentes;
-
-XXV. Verificar, previo acuerdo o instrucción de su superior jerárquico, y derivado de la práctica de investigaciones, los datos manifestados en las declaraciones de situación patrimonial de los servidores públicos, en los términos de la legislación aplicable, e informarle sobre las presuntas irregularidades que, en su caso, se detecten;
-
-XXVI. Informar al área de responsabilidades de la contraloría el incumplimiento de la obligación de rendir la declaración de situación patrimonial de inicio, anual y de conclusión de encargo, para los efectos que correspondan;
-
-XXVII. Solicitar a la Dirección de Normatividad, Quejas y Responsabilidades la instauración del procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán cuando se presenten irregularidades con motivo de la presentación extemporánea o errónea, o la omisión de las declaraciones de situación patrimonial;
-
-XXVIII. Expedir y, en su caso, negar, de manera fundada y motivada, las copias de las declaraciones patrimoniales, de conformidad con la legislación aplicable;
-
-XXIX. Asesorar a los órganos de control interno en el seguimiento y desahogo de las investigaciones que realicen;
-
-XXX. Expedir, previa compulsa con los originales, certificaciones de los documentos que obren en los archivos de la dirección a su cargo;
-
-XXXI. Desarrollar, de manera individual o coordinada con la unidad administrativa que determine su superior jerárquico o el secretario, las investigaciones que le correspondan, de conformidad con la legislación aplicable;
-
-XXXII. Elaborar y remitir a su superior jerárquico la propuesta del programa anual de trabajo de la dirección a su cargo, para su aprobación, así como informarle sobre sus avances y los de las demás actividades que desempeñe en el ámbito de su competencia;
-
-XXXIII. (DEROGADA, D.O. 20 DE MAYO DE 2016)
-
-XXXIV. Solicitar la información y la documentación que considere pertinente a los órganos de control interno y las demás unidades administrativas de la contraloría, así como a las dependencias y entidades de la Administración Pública estatal, a fin de allegarse de elementos tendientes al despacho de los asuntos de su competencia;
-
-XXXV. Asesorar al personal de la Dirección de Auditoría al Sector Centralizado y de la Dirección de Auditoría al Sector Paraestatal en la realización de auditorías, revisiones e inspecciones que se practiquen en las dependencias y entidades, conforme a los procedimientos establecidos, y
-
-XXXVI. Las demás que le confiera este reglamento y otras disposiciones legales aplicables.
-
-> <small>(REFORMADO, D.O. 29 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 543.
 
-Al Jefe del Departamento de Asuntos Jurídicos en el Sector Centralizado le corresponde el despacho de los siguientes asuntos:
+A los Investigadores de Auditorías y Contrataciones Públicas Estatales, en su ámbito Centralizado y Paraestatal, les corresponde el despacho de los siguientes asuntos:
 
-I. Atender con diligencia las consultas jurídicas que reciba de los órganos de control interno de su competencia o de las unidades administrativas de la Dirección General del Sector Estatal y Paraestatal;
+I. Coadyuvar en la integración del programa anual de intervenciones en contrataciones públicas que realicen las Dependencias y Entidades con recursos estatales;
 
-II. Asesorar en el planteamiento de las observaciones de auditoría cuando los órganos de control interno de su competencia tengan dudas al respecto, revisando conjuntamente con el auditor la normativa aplicable, previo conocimiento y visto bueno del Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal;
+II. Elaborar y entregar a su superior jerárquico trimestralmente, el informe de los avances del programa de trabajo, de las investigaciones que estuviere integrando y de las demás actividades encomendadas;
 
-III. Asesorar a los órganos de control interno de su competencia en el seguimiento y desahogo de las investigaciones que realicen, sugiriendo líneas de investigación y puntualizando en cada caso los objetivos y la finalidad perseguidos en cada actuación;
+III. Participar, en representación de los titulares de los órganos de control interno en los procedimientos de contrataciones públicas relacionadas con bienes muebles con cargo a recursos estatales, llevando a cabo las verificaciones procedentes en términos de la legislación aplicable en materia de responsabilidades administrativas;
 
-IV. Llevar el seguimiento de los avances de las investigaciones que realicen los órganos de control interno de su competencia;
+IV. Participar en representación de los titulares de los órganos de control interno en los comités de adquisiciones que se establezcan en las Dependencias y Entidades de la Administración Pública estatal, relacionados con el ejercicio de recursos estales (sic);
 
-V. Revisar los informes, acuerdos y resoluciones que emitan los órganos de control interno de su competencia, cuando así lo soliciten, proponiendo, en su caso, los cambios pertinentes;
+V. Informar a su superior jerárquico sobre las observaciones planteadas con motivo de su participación en los procedimientos de contrataciones públicas estatales y en los comités de adquisiciones de las Dependencias y Entidades, así como el resultado de su seguimiento;
 
-VI. Proponer a su superior jerárquico la conveniencia de realizar visitas a los órganos de control interno de su competencia para verificar la correcta integración física y resguardo de sus expedientes de investigación;
+VI. Practicar, en el ámbito de su competencia, las investigaciones de actos u omisiones relacionados con probables faltas administrativas de servidores públicos de las Dependencias y Entidades o de particulares por conductas sancionables en términos de la legislación aplicable en materia de responsabilidades administrativas; detectadas en las auditorías, inspecciones u otros actos de fiscalización practicados a los recursos estatales, por parte de la Contraloría, con base en el informe de irregularidades que turnen los titulares de los órganos de control interno;
 
-VII. Coadyuvar con su superior jerárquico en el trámite de las asesorías que en materia de entrega-recepción con motivo de cambios de administración, cambios estructurales de las dependencias o, en su caso, por la toma de posesión de los servidores públicos obligados, planteen a la contraloría las dependencias, respecto a criterios de interpretación o procedencia de la normativa aplicable, o que hagan de conocimiento irregularidades detectadas durante o después del término de revisión establecido;
+VII. Previa solicitud de su superior jerárquico, continuar las investigaciones de actos u omisiones relacionados con probables faltas administrativas no graves de servidores públicos de las Dependencias y Entidades que hubieren sido detectados en las auditorías, inspecciones u otros actos de fiscalización practicadas a los recursos estatales, por parte de otros entes fiscalizadores, solicitándoles la información y documentación necesaria para su integración;
 
-VIII. Elaborar, previa orden de su superior jerárquico, los oficios de requerimiento dirigidos a los servidores públicos de las dependencias que no cumplieron con la normativa aplicable en materia de entrega-recepción con motivo de cambios de Administración o, en su caso, por la toma de posesión de los servidores públicos obligados;
+VIII. Practicar, en el ámbito de su competencia, las investigaciones de actos u omisiones relacionados con probables faltas administrativas de servidores públicos de Dependencias y Entidades por posible incumplimiento de la normativa en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios, relacionados con recursos estatales, derivadas de la intervención de los titulares de los órganos de control interno o la suya, en la supervisión de la ejecución de los procedimientos de contratación pública, o en los comités de adquisiciones, conforme al ámbito de su competencia;
 
-IX. Coadyuvar con su superior jerárquico en la investigación de actos, omisiones o conductas de personas que ejerzan o hayan ejercido funciones como servidores públicos adscritos a dependencias que pudieran constituir responsabilidades administrativas;
+IX. Participar en las acciones que se realicen en la Contraloría para la homologación del marco jurídico y de los criterios normativos en materia de contrataciones públicas relacionadas con recursos estatales;
 
-X. Coadyuvar, previa orden de su superior jerárquico, en la atención de las solicitudes y recomendaciones emitidas por la Comisión de Derechos Humanos del Estado de Yucatán cuyo conocimiento competa a la Dirección General del Sector Estatal y Paraestatal;
+X. Requerir información y documentación, para el cumplimiento de sus atribuciones, a las Dependencias y Entidades relacionadas con las contrataciones públicas que realicen con recursos estatales, en términos de las disposiciones jurídicas aplicables;
 
-XI. Apoyar a su superior jerárquico en la prestación de las asesorías que en materia de auditorías, revisiones e inspecciones se practiquen en las dependencias, conforme a los procedimientos establecidos;
+XI. Proporcionar asistencia jurídica a las unidades administrativas de la Dirección General de Auditorías a Recursos Estatales en materia de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
-XII. Mantener actualizada la normativa estatal de la Dirección de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal relacionada con las dependencias;
+XII. Practicar las actuaciones y diligencias que se estimen procedentes, a fin de integrar debidamente los expedientes relacionados con las investigaciones que realice en el ámbito de su competencia, con motivo de actos u omisiones que pudieran constituir faltas administrativas, de conformidad con la legislación aplicable en materia de responsabilidades administrativas;
 
-XIII. Emitir opinión a su superior jerárquico respecto a los anteproyectos de reglamentos interiores, manuales de organización y demás disposiciones legales que correspondan en el ámbito de su competencia;
+XIII. Citar, cuando lo estime necesario, a cualquier servidor público o particular que pueda tener conocimiento de hechos relacionados con probables faltas administrativas objeto de investigación, así como solicitarles que aporten, en su caso, elementos, datos o indicios que permitan advertir la probable responsabilidad administrativa del servidor público o del particular por conductas sancionables en términos de la legislación aplicable en materia de responsabilidades administrativas;
 
-XIV. (DEROGADA, D.O. 20 DE MAYO DE 2016)
+XIV. Formular requerimientos de información a particulares, que sean sujetos de investigación por haber cometido probables faltas administrativas, en términos de la legislación aplicable en materia de responsabilidades administrativas;
+
+XV. Dictar los acuerdos que correspondan en los procedimientos de investigación que realice, en el ámbito de su competencia, incluido el de conclusión y archivo del expediente cuando así proceda, así como el informe de probable responsabilidad administrativa para turnarlo a la autoridad substanciadora competente en el que se incluirá la calificación de la falta administrativa;
+
+XVI. Tramitar el recurso de inconformidad que se interponga con motivo de la calificación de las faltas administrativas que realice, de conformidad con lo establecido en la legislación aplicable en materia de responsabilidades administrativas;
+
+XVII. Interponer, tramitar y conocer los recursos que como autoridad investigadora le otorga la legislación aplicable en materia de responsabilidades administrativas;
+
+XVIII. Imponer las medidas para hacer cumplir sus determinaciones que establece la legislación aplicable en materia de responsabilidades administrativas para las autoridades investigadoras, y solicitar las medidas cautelares que se estimen necesarias para la mejor conducción de sus investigaciones;
+
+XIX. Formular denuncias ante el Ministerio Público, cuando de sus investigaciones advierta la presunta comisión de delitos y fungir como parte coadyuvante del procedimiento penal, en términos de la normativa aplicable;
+
+XX. Ejercer las funciones de autoridad investigadora que confiere la legislación aplicable en materia de responsabilidades administrativas;
+
+XXI. Practicar, en el ámbito de la competencia de la Contraloría, las investigaciones de actos u omisiones relacionados con probables faltas administrativas no graves de servidores públicos de las Dependencias y Entidades que hubieren sido detectados con motivo de las acciones de fiscalización de recursos estatales u otros diversos a estos, que se practiquen de manera directa o conjunta con la Auditoría Superior del Estado, derivados de la celebración (sic) convenios de coordinación o análogos;
+
+XXII. Previa instrucción, continuar con las investigaciones de actos u omisiones relacionados con probables faltas administrativas no graves de servidores públicos de las Dependencias y Entidades derivadas de auditorías u otros actos de revisión practicadas a recursos estatales por otros entes fiscalizadores, solicitándoles, en su caso, la información y documentación necesaria para la debida integración de la investigación, y
+
+XXIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables, así como las que le encomiende el secretario.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 544.
+
+A los Jefes de los departamentos de Soporte Técnico y Sistemas, en su ámbito Centralizado y Paraestatal, les corresponde el despacho de los siguientes asuntos:
+
+I. Elaborar y proponer a su superior jerárquico el uso de herramientas de tecnologías de la información que tiendan a mejorar los procedimientos que aplican los titulares de los órganos de control interno en materia de auditorías, inspecciones, verificación y evolución patrimonial, contrataciones públicas y demás actos de fiscalización relacionados con recursos estatales;
+
+II. Coordinar y supervisar el análisis, diseño, desarrollo, implementación, mantenimiento y actualización de los sistemas de cómputo, de acuerdo con los requerimientos de la dirección de auditoría a la cual se encuentran adscritos, así como, de las demás unidades administrativas de la Dirección General de Auditoría de Recursos Estatales, en este último caso, previa instrucción de su superior jerárquico;
+
+III. Proporcionar al personal de la dirección a la cual se encuentra adscrito, servicios y asesoría en el uso de aplicaciones de cómputo y soporte técnico, a fin de contribuir al logro de sus objetivos y metas;
+
+IV. Emitir las opiniones en materia de tecnologías de información, cuando se lo solicite su superior jerárquico, en los procesos de evolución patrimonial, investigaciones, contrataciones públicas y demás que se establezcan en la dirección a la cual se encuentra adscrito;
+
+V. Coordinarse con el personal del Departamento de Control y Registro de Situación Patrimonial de la Contraloría, para atender las asesorías sobre el acceso y funcionamiento del sistema autorizado para el registro de situación patrimonial y de intereses que realicen los servidores públicos de las Dependencias y Entidades;
+
+VI. Informar al superior jerárquico sobre el resultado de las actividades que realice conforme al programa de trabajo de la dirección a la cual se encuentre adscrito, así como de las demás actividades que le hayan sido encomendadas;
+
+VII. Promover y coordinar estrategias de vinculación productiva entre los titulares de los órganos de control interno y las demás unidades administrativas de la Dirección General de Auditoría de Recursos Estatales;
+
+VIII. Implementar, coordinar y administrar los sistemas y software de uso de la dirección a la cual se encuentre adscrito, así como los que correspondan a la Dirección General de Auditoría de Recursos Estatales, y
+
+IX. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables, así como las que le encomiende el secretario.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 545.
+
+Los comisarios que actuarán en los órganos de gobierno de las Entidades, con las atribuciones establecidas en el artículo 617.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 546.
+
+Al Jefe del Departamento de Control y Seguimiento le corresponde el despacho de los siguientes asuntos:
+
+I. Formular y proponer al Director General de Auditoría de Recursos Estatales, el anteproyecto del presupuesto por programas relativo al departamento a su cargo, conforme a las normas establecidas;
+
+II. Proponer el Programa Anual de Trabajo del departamento a su cargo;
+
+III. Participar en el seguimiento del Programa Anual de Auditorías y demás actos de fiscalización de recursos estatales de la Dirección General de Auditorías de Recursos Estatales;
+
+IV. Informar al superior jerárquico del avance en la realización de auditorías, inspecciones, investigaciones y demás actos de fiscalización contemplados en el Programa Anual de Auditorías y demás actos de fiscalización de recursos estatales de la Dirección General de Auditorías de Recursos Estatales;
+
+V. Apoyar al superior jerárquico en la integración del informe trimestral que el secretario debe rendir al Poder Ejecutivo, correspondiente a las auditorías, inspecciones, investigaciones y demás actos de fiscalización de recursos estatales practicadas a las Dependencias y Entidades, de conformidad con el programa anual de auditorías y con el acuerdo autorizado;
+
+VI. Promover en el ámbito de su competencia, el diseño de los instrumentos metodológicos y técnicos, que permitan la estandarización y homologación en la realización de las revisiones de control interno y demás temas de la competencia de la Dirección General de Auditoría de Recursos Estatales;
+
+VII. Proponer y, en su caso, atender las necesidades de capacitación en materia de control interno institucional, de los servidores públicos que pertenecen a los órganos de control interno y a las demás unidades administrativas de la Contraloría, previa instrucción del superior jerárquico;
+
+VIII. Conocer los resultados de las revisiones de control interno que realicen los titulares de los órganos de control interno en las Dependencias y Entidades, con el fin de identificar necesidades de capacitación, diseño o actualización de instrumentos metodológicos y técnicos;
+
+IX. Dar seguimiento a las actividades referentes a la implementación y mejora del Sistema de Control Interno Institucional, en coordinación con los titulares de los órganos de control interno en las Dependencias y Entidades;
+
+X. Proponer proyectos para el fortalecimiento del marco normativo del Sistema de Control Interno Institucional del Poder Ejecutivo del estado de Yucatán;
+
+XI. Apoyar al secretario ejecutivo del Comité de Control Interno de la Contraloría, en la preparación de los requerimientos en materia de control interno institucional;
+
+XII. Supervisar la planeación, desarrollo y cierre de la evaluación interna del Sistema de Control Interno Institucional de la Contraloría;
+
+XIII. Colaborar con los titulares de los órganos de control interno, en la impartición de asesoría a los servidores públicos responsables de la implementación, desarrollo, mantenimiento, seguimiento y mejora del Sistema de Control Interno Institucional en las Dependencias y Entidades;
+
+XIV. Apoyar al Director General de Auditoría de Recursos Estatales en la atención de requerimientos en materia de control interno institucional, efectuados por autoridades competentes, y
+
+XV. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 547.
+
+Al Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal le corresponde el despacho de los siguientes asuntos:
+
+I. Asesorar, en el ámbito de su competencia, y previa orden de su superior jerárquico, en los procesos de entrega-recepción, transferencia y desincorporación que deriven de cambios estructurales de las Dependencias y Entidades de la Administración Pública estatal, así como en la interpretación y aplicación de la normativa aplicable a dichos procesos;
+
+II. Formular y revisar, en el ámbito de su competencia, y de manera conjunta con las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales, los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones legales, y someterlos a consideración de su superior jerárquico, así como emitir opinión respecto a aquellos que propongan los titulares de las Dependencias y Entidades, dentro del ámbito de competencia de la Dirección General de Auditoría de Recursos Estatales;
+
+III. Verificar que las opiniones que, en su caso, le corresponda emitir a la Dirección General de Auditoría de Recursos Estatales, se encuentren debidamente fundamentadas, en el ámbito de su competencia;
+
+IV. Coordinar en el ámbito de su competencia, y previa orden de su superior jerárquico, la atención que las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales deban prestar a las solicitudes y recomendaciones emitidas por la Comisión de Derechos Humanos del Estado de Yucatán;
+
+V. Representar legalmente a la Dirección General de Auditoría de Recursos Estatales y al secretario en los procedimientos administrativos y jurisdiccionales en que se requiera su intervención y que se encuentren dentro del ámbito de su competencia;
+
+VI. Asesorar jurídicamente a las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales, actuar como órgano de consulta y realizar los estudios y análisis jurídicos que requiera para el desarrollo de sus atribuciones;
+
+VII. Coordinarse con la Dirección de Responsabilidades y Normatividad en la atención y respuesta a las consultas jurídicas planteadas por los órganos de control interno, derivadas de su participación en los comités de adquisiciones arrendamientos, servicios, obra pública, enajenaciones y demás contrataciones que celebren las Dependencias y Entidades de la Administración Pública del estado;
+
+VIII. Compilar y promover la difusión de las normas jurídicas relacionadas con las funciones de la Dirección General de Auditoría de Recursos Estatales;
+
+IX. Coordinar la difusión en las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales de los criterios de interpretación de la normativa estatal, así como la que emitan los comités coordinadores de los sistemas nacional y estatal anticorrupción y el Sistema Nacional de Fiscalización, con el objeto de que las observaciones contenidas en las auditorías, así como las revisiones e investigaciones que ejecuten sus áreas competentes, cuenten con el debido sustento legal;
+
+X. Asesorar jurídicamente, previa solicitud de su superior jerárquico, a las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales, encargadas de realizar investigaciones por probables faltas administrativas;
+
+XI. Revisar, en el aspecto jurídico, los convenios y contratos en los que la Contraloría sea parte, en el ámbito de la competencia de la Dirección General de Auditoría de Recursos Estatales;
+
+XII. Promover la capacitación técnica y jurídica en materia de declaraciones patrimoniales y de conflicto de interés, así como, sobre las demás materias que corresponda conocer a las unidades que integran la dirección a su cargo; para tal efecto deberá integrar y someter a autorización de su superior el correspondiente programa de capacitación;
+
+XIII. Designar al personal a su cargo o el que sea propuesto por el Director General de Auditoría de Recursos Estatales, para la realización de las actuaciones, diligencias y notificaciones que requiera el seguimiento y despacho de los asuntos de su competencia;
+
+XIV. Supervisar la asistencia jurídica que se presta a los órganos de control interno y a las demás unidades administrativas de la Dirección General de Auditoría de Recursos Estatales, encargadas de realizar investigaciones por probables faltas administrativas, en el ámbito de su competencia y, previo acuerdo con su superior jerárquico, en la formulación de las denuncias o querellas ante el Ministerio Público del fuero común o ante la instancia competente, así como en el procedimiento penal respectivo, cuando, derivado de sus actos de auditoría, revisión o investigación, se desprendan probables conductas delictivas;
+
+XV. Vigilar la instrumentación de los informes previo y justificado, y de las alegaciones como tercero interesado en los juicios de amparo que deriven de la actuación de las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales;
+
+XVI. Verificar la integración del padrón de servidores públicos de las Dependencias y Entidades obligados a presentar la declaración de situación patrimonial y de intereses, así como el registro de su cumplimiento, de conformidad con la legislación aplicable en materia de responsabilidades administrativas, y brindar asesoría y capacitación para el cumplimiento de dicha obligación;
+
+XVII. Supervisar que la unidad administrativa competente integre en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal de la Plataforma digital nacional, la información que para efectos de las funciones del Sistema Nacional Anticorrupción, generen los servidores públicos obligados a presentar las referidas declaraciones, en los términos que establezca la legislación aplicable en materia de responsabilidades administrativas;
+
+XVIII. Implementar los formatos que expidan las autoridades competentes en términos de la legislación aplicable en materia de responsabilidades administrativas, bajo los cuales los servidores públicos deberán presentar las declaraciones de situación patrimonial y de intereses, así como los instructivos y manuales que correspondan;
+
+XIX. Emplear los medios electrónicos autorizados a través de los cuales los servidores públicos deberán presentar las declaraciones de situación patrimonial y de intereses, utilizando los medios de identificación electrónica, con base en los criterios emitidos por los órganos competentes de los sistemas Nacional y Estatal Anticorrupción;
+
+XX. Conocer los listados de servidores públicos omisos que turne el jefe del Departamento de Control y Registro de Situación Patrimonial a las autoridades investigadoras respecto al incumplimiento de la obligación de rendir las declaraciones de situación patrimonial y de intereses, para los efectos que correspondan;
+
+XXI. Coadyuvar con las unidades administrativas competentes de la Dirección General de Auditoría de Recursos Estatales, en la elaboración de los informes que le sean requeridos en el seno de los comités coordinadores de los sistemas nacional y estatal anticorrupción y del Comité Rector del Sistema Nacional de Fiscalización o cualquier otra información que se requiera para el cumplimiento de los compromisos asumidos por la Contraloría ante cualquier órgano colegiado;
+
+XXII. Expedir, previa compulsa con los originales, certificaciones de los documentos que obren en los archivos de la dirección a su cargo;
+
+XXIII. Elaborar y remitir a su superior jerárquico la propuesta del programa anual de trabajo de la dirección a su cargo, para su aprobación, así como informarle sobre sus avances y los de las demás actividades que desempeñe en el ámbito de su competencia;
+
+XXIV. Solicitar la información y la documentación que considere pertinente a los órganos de control interno y las demás unidades administrativas de la Contraloría, así como a las Dependencias y Entidades de la Administración Pública estatal, a fin de allegarse de elementos tendientes al despacho de los asuntos de su competencia;
+
+XXV. Coordinar el apoyo jurídico que requiera el personal de la Dirección de Auditoría de Recursos Estatales del Sector Centralizado y de la Dirección de Auditoría de Recursos Estatales del Sector Paraestatal en la realización de auditorías, revisiones, inspecciones y demás actos de fiscalización que se practiquen en las Dependencias y Entidades, conforme a los procedimientos establecidos, y
+
+XXVI. Las demás que le confiera este reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 548.
+
+Al Jefe del Departamento de Asuntos Jurídicos en el Sector Centralizado, le corresponde el despacho de los siguientes asuntos:
+
+I. Atender con diligencia las consultas jurídicas que reciba de los órganos de control interno de su competencia o de las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales;
+
+II. Asesorar en el planteamiento de las observaciones derivadas de auditorías, inspecciones y revisiones, cuando los órganos de control interno de su competencia tengan dudas al respecto, revisando conjuntamente con el auditor la normativa aplicable, previo conocimiento y visto bueno del Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal;
+
+III. Proponer al Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal los criterios de interpretación de las disposiciones jurídicas que regulan la actuación de las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales, con excepción de aquellos que por disposición expresa sean competencia de otra unidad administrativa de la Contraloría;
+
+IV. Revisar, opinar y, cuando así lo ordene el Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal, formular, en coordinación con las unidades administrativas competentes de la Contraloría, los proyectos de políticas, normas, lineamientos, manuales, guías y demás disposiciones generales aplicables a la Dirección General de Auditoría de Recursos Estatales;
+
+V. Compilar las normas jurídicas relacionadas con las funciones de la Dirección General de Auditoría de Recursos Estatales;
+
+VI. Proponer a su superior jerárquico la realización de visitas a los órganos de control interno de su competencia para verificar la correcta integración física y el resguardo de sus expedientes de investigación;
+
+VII. Instrumentar, de manera conjunta con los titulares de los departamentos de investigaciones de la Dirección de Auditoría de Recursos Estatales del Sector Centralizado, los informes previo y justificado, y las alegaciones como tercero interesado en los juicios de amparo que deriven de actos y resoluciones emitidas por las unidades administrativas de esa dirección;
+
+VIII. Atender las asesorías que en materia de entrega-recepción, transferencia y desincorporación planteen a la Contraloría las Dependencias, respecto a criterios de interpretación o procedencia de la normativa aplicable;
+
+IX. Atender las asesorías en materia de verificación de la evolución patrimonial de los servidores públicos, que planteen los órganos de control interno de su competencia;
+
+X. Coadyuvar con el Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal en la elaboración de los informes de las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales que sean requeridos a la Contraloría por los comités coordinadores de los sistemas nacional y estatal anticorrupción, así como el Comité Rector del Sistema Nacional de Fiscalización;
+
+XI. Coadyuvar, previa orden de su superior jerárquico, en la atención de las solicitudes y recomendaciones emitidas por la Comisión de Derechos Humanos del Estado de Yucatán cuyo conocimiento competa a la Dirección General de Auditoría de Recursos Estatales;
+
+XII. Apoyar a su superior jerárquico en la prestación de las asesorías en materia de auditorías, revisiones e inspecciones y demás actos de fiscalización que practiquen los órganos de control interno en las Dependencias, conforme a los procedimientos establecidos;
+
+XIII. Mantener actualizada la normativa estatal de la Dirección de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal relacionada con las Dependencias;
+
+XIV. Coadyuvar con su superior jerárquico respecto al análisis de los anteproyectos de leyes, decretos reglamentos, acuerdos y demás disposiciones normativas en la materia de competencia de la Dirección General de Auditoría de Recursos Estatales;
+
+XV. Participar en el análisis y elaboración de la normativa en materia de evolución del patrimonio de los servidores públicos, en el ámbito de competencia de la Contraloría;
+
+XVI. Asistir a su superior jerárquico en la elaboración de los programas presupuestarios y de los reportes estadísticos y de resultados que le correspondan, y
+
+XVII. Las demás que le confieran este reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 548 Bis.
+
+Al Jefe del Departamento de Asuntos Jurídicos en el Sector Paraestatal le corresponde el despacho de los siguientes asuntos:
+
+I. Atender con diligencia las consultas jurídicas que reciba de los órganos de control interno de su competencia o de las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales;
+
+II. Asesorar en el planteamiento de las observaciones derivadas de auditorías, inspecciones y revisiones cuando los órganos de control interno de su competencia tengan dudas al respecto, revisando conjuntamente con el auditor la normativa aplicable, previo conocimiento y visto bueno del Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal;
+
+III. Proponer al Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal los criterios de interpretación de las disposiciones jurídicas que regulan la actuación de las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales, con excepción de aquellos que por disposición expresa sean competencia de otra unidad administrativa de la Contraloría;
+
+IV. Revisar, opinar y, cuando así lo ordene el Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal, formular, en coordinación con las unidades administrativas competentes de la Contraloría, los proyectos de políticas, normas, lineamientos, manuales, guías y demás disposiciones generales aplicables a la Dirección General de Auditoría de Recursos Estatales;
+
+V. Compilar las normas jurídicas relacionadas con las funciones de la Dirección General de Auditoría de Recursos Estatales;
+
+VI. Proponer a su superior jerárquico la realización de visitas a los órganos de control interno de su competencia para verificar la correcta integración física y resguardo de sus expedientes de investigación;
+
+VII. Instrumentar, de manera conjunta con los titulares de los departamentos de investigaciones de la Dirección de Auditoría de Recursos Estatales del Sector Paraestatal, los informes previo y justificado, y las alegaciones como tercero interesado en los juicios de amparo que deriven de actos y resoluciones emitidas por las unidades administrativas de esa dirección;
+
+VIII. Atender las asesorías que en materia de entrega-recepción, transferencia y desincorporación planteen a la Contraloría las Entidades, respecto a criterios de interpretación o procedencia de la normativa aplicable;
+
+IX. Atender las asesorías en materia de verificación de la evolución patrimonial de los servidores públicos, que planteen los órganos de control interno de su competencia;
+
+X. Apoyar a su superior jerárquico en la prestación de las asesorías en materia de auditorías, revisiones e inspecciones que practiquen los órganos de control interno en las Entidades, conforme a los procedimientos establecidos;
+
+XI. Mantener actualizada la normativa estatal de la Dirección de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal relacionada con las Entidades;
+
+XII. Coadyuvar con su superior jerárquico respecto al análisis de los anteproyectos de leyes, decretos, reglamentos, acuerdos y demás disposiciones normativas en la materia de competencia de la Dirección General de Auditoría de Recursos Estatales;
+
+XIII. Coadyuvar con el Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal en la elaboración de los informes de las unidades administrativas de la Dirección General de Auditoría de Recursos Estatales que sean requeridos a la Contraloría por los comités coordinadores de los sistemas nacional y estatal anticorrupción, así como el Comité Rector del Sistema Nacional de Fiscalización;
+
+XIV. Participar en el análisis y elaboración de la normativa en materia de evolución del patrimonio de los servidores públicos, en el ámbito de competencia de la Contraloría;
 
 XV. Asistir a su superior jerárquico en la elaboración de los programas presupuestarios y de los reportes estadísticos y de resultados que le correspondan, y
 
 XVI. Las demás que le confieran este reglamento y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O. 29 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-###### Artículo 544.
-
-Al Jefe del Departamento de Asuntos Jurídicos en el Sector Paraestatal le corresponde el despacho de los siguientes asuntos:
-
-I. Atender con diligencia las consultas jurídicas que reciba de los órganos de control interno de su competencia o de las unidades administrativas de la Dirección General del Sector Estatal y Paraestatal;
-
-II. Asesorar en el planteamiento de las observaciones de auditoría cuando los órganos de control interno de su competencia tengan dudas al respecto, revisando conjuntamente con el auditor la normativa aplicable, previo conocimiento y visto bueno del Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal;
-
-III. Asesorar a los órganos de control interno de su competencia en el seguimiento y desahogo de las investigaciones que realicen, sugiriendo líneas de investigación y puntualizando en cada caso los objetivos y la finalidad perseguidos en cada actuación;
-
-IV. Llevar el seguimiento de los avances de las investigaciones que realicen los órganos de control interno de su competencia;
-
-V. Revisar los informes, acuerdos y resoluciones que emitan los órganos de control interno de su competencia, cuando así lo soliciten, proponiendo, en su caso, los cambios pertinentes;
-
-VI. Proponer a su superior jerárquico la conveniencia de realizar visitas a los órganos de control interno de su competencia para verificar la correcta integración física y resguardo de sus expedientes de investigación;
-
-VII. Coadyuvar con su superior jerárquico en el trámite de las asesorías que en materia de entrega-recepción con motivo de cambios de administración, cambios estructurales de las entidades o, en su caso, por la toma de posesión de los servidores públicos obligados, planteen a la contraloría las entidades, respecto a criterios de interpretación o procedencia de la normativa aplicable, o que hagan de conocimiento irregularidades detectadas durante o después del término de revisión establecido;
-
-VIII. Elaborar, previa orden de su superior jerárquico, los oficios de requerimiento dirigidos a los servidores públicos de las entidades que no cumplieron con la normativa aplicable en materia de entrega-recepción con motivo de cambios de Administración o, en su caso, por la toma de posesión de los servidores públicos obligados;
-
-IX. Apoyar a su superior jerárquico en la prestación de las asesorías que en materia de auditorías, revisiones e inspecciones se practiquen en las entidades conforme a los procedimientos establecidos;
-
-X. Mantener actualizada la normativa estatal de la Dirección de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal relacionada con las entidades;
-
-XI. Emitir opinión a su superior jerárquico respecto a los anteproyectos de reglamentos interiores, estatutos orgánicos, manuales de organización y demás disposiciones legales que correspondan en el ámbito de su competencia;
-
-XII. Coadyuvar con su superior jerárquico en la investigación de actos, omisiones o conductas de personas que ejerzan o hayan ejercido funciones como servidores públicos adscritos a entidades que pudieran constituir responsabilidades administrativas;
-
-XIII. (DEROGADA, D.O. 20 DE MAYO DE 2016)
-
-XIV. Asistir a su superior jerárquico en la elaboración de los programas presupuestarios y de los reportes estadísticos y de resultados que le correspondan, y
-
-XV. Las demás que le confieran este reglamento y otras disposiciones legales aplicables.
-
-> <small>(REFORMADO, D.O. 29 DE MARZO DE 2016)</small>
-
-###### Artículo 545.
+###### Artículo 548 Ter.
 
 Al Jefe del Departamento de Control y Registro de Situación Patrimonial le corresponde el despacho de los siguientes asuntos:
 
-I. Coordinar la captura y el registro de las declaraciones patrimoniales que se reciban;
+I. Coordinar la captura y el registro de las declaraciones patrimoniales y de intereses que se reciban;
 
-II. Mantener actualizados los registros de declaraciones patrimoniales de los servidores públicos, asistiendo a su superior jerárquico en su protección y custodia;
+II. Mantener actualizados los registros de declaraciones patrimoniales y de intereses de los servidores públicos, y vigilar su protección y custodia;
 
-III. Coordinar e informar a su superior jerárquico sobre las asesorías que brinde a los servidores públicos en materia de situación patrimonial;
+III. Coordinar e informar a su superior jerárquico sobre las asesorías que brinde a los servidores públicos en materia de situación patrimonial y de intereses;
 
-IV. Brindar o supervisar las asesorías que en materia patrimonial le encomiende su superior jerárquico;
+IV. Brindar o supervisar las asesorías sobre las declaraciones de situación patrimonial y de intereses;
 
-V. Elaborar los reportes con respecto a los servidores públicos obligados, deudores o de cualquier otra índole que le solicite su superior jerárquico;
+V. Elaborar los reportes respecto a los servidores públicos obligados, omisos o de cualquier otra índole en materia de situación patrimonial que le solicite su superior jerárquico;
 
 VI. Asistir a su superior jerárquico en la elaboración de los programas presupuestarios y de todos los reportes estadísticos y de resultados de la Dirección de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal;
 
-VII. Elaborar los oficios dirigidos a la Dirección de Normatividad, Quejas y Responsabilidades con los nombres y datos de los servidores públicos que no cumplieron con la obligación de presentar su declaración patrimonial;
+VII. Elaborar los listados de servidores públicos omisos que deba turnar a las autoridades investigadoras respecto al cumplimiento de la obligación de rendir las declaraciones de situación patrimonial y de intereses, para los efectos que correspondan, y hacerlos del conocimiento de su superior jerárquico;
 
-VIII. Elaborar y proponer a su superior jerárquico las normas y los formatos bajo los cuales deberán declarar su situación patrimonial los servidores públicos obligados, así como los instructivos y manuales que correspondan;
+VIII. Implementar los formatos que expidan las autoridades competentes en términos de la legislación aplicable en materia de responsabilidades administrativas, bajo los cuales los servidores públicos deberán presentar las declaraciones de situación patrimonial y de intereses, así como los instructivos y manuales que correspondan;
 
-IX. Coordinar con el área de informática el óptimo acceso y funcionamiento del Sistema de Declaración Patrimonial por Internet, así como revisar, controlar y registrar las altas, bajas, datos estadísticos y reportes que arroje el sistema, manteniendo constantemente informado al respecto a su superior jerárquico;
+IX. Revisar, supervisar y llevar el control, de la información proporcionada por las áreas de recursos humanos o sus equivalentes en las Dependencias y Entidades, respecto a las fechas en que inicien y concluyen en el ejercicio del empleo, cargo o comisión, los servidores públicos obligados a presentar la declaración de situación patrimonial y de intereses, en términos de la legislación aplicable en materia de responsabilidades;
 
-X. Opinar sobre las solicitudes que reciba la contraloría respecto a la valoración de permanencia o inclusión en el Padrón Patrimonial de Servidores Públicos, así como llevar a cabo el análisis de los puestos, cargos o comisiones, cuyos titulares deban ser sujetos de la obligación de presentar declaración de situación patrimonial, con base en la información que para tal efecto remitan las áreas de recursos humanos o sus equivalentes de las dependencias y entidades de la Administración Pública estatal;
+X. Expedir y, en su caso, negar, de manera fundada y motivada, las copias de las declaraciones patrimoniales, así como las versiones impresas de las declaraciones de situación patrimonial y de intereses de los servidores públicos de la Administración Pública estatal, en términos de la legislación aplicable en materia de responsabilidades administrativas, a las autoridades competentes en el ejercicio de sus respectivas atribuciones, y hacerlo de conocimiento de su superior jerárquico;
 
-XI. Coadyuvar con su superior jerárquico, cuando se lo solicite, en la verificación de los datos manifestados en las declaraciones de situación patrimonial de los servidores públicos, en términos de la legislación aplicable, y
+XI. Proponer a su superior jerárquico, las acciones necesarias para optimizar y agilizar el servicio que se brinda a los servidores públicos respecto a sus declaraciones patrimoniales y de intereses, así como los mecanismos de mejora continua relativos al acceso y utilización del sistema informático autorizado para la presentación de las declaraciones patrimoniales y de intereses;
 
-XII. Las demás que le confieran este reglamento y otras disposiciones legales aplicables.
+XII. Solicitar a las áreas de recursos humanos o sus equivalentes en las Dependencias y Entidades, cuando resulte necesario, las aclaraciones respecto a las fechas en que inicien o concluyen en el ejercicio del empleo, cargo, comisión o función los servidores públicos obligados a presentar la declaración de situación patrimonial y de intereses;
 
-###### Artículo 546.
+XIII. Atender los requerimientos que realicen las autoridades investigadoras y demás instancias competentes, en materia de situación patrimonial y de intereses, y
 
-A los titulares de los Órganos de Control Interno les corresponde el despacho de los siguientes asuntos:
-
-I. Proponer las adecuaciones y mejoras a la normatividad e instrumentos de control y evaluación en las dependencias o entidades en las que se encuentren comisionados;
-
-II. Reportar en forma inmediata al superior jerárquico correspondiente de todos los hechos que puedan implicar responsabilidades de cualquier tipo y que conozcan con motivo de sus funciones;
-
-III. Mantener en todo momento autonomía en todas aquellas acciones de la Dependencia o Entidad, que por su naturaleza sean sujetas a evaluación y control;
-
-IV. Intervenir, por orden del Secretario o de su superior, en todo cambio de titulares de unidades administrativas obligadas conforme a la normatividad aplicable, para efecto de dar fe, del acto de entrega y recepción establecido;
-
-V. Intervenir en los actos administrativos en los que la normatividad expresamente solicite un representante de la Contraloría, debiendo informar oportunamente a su superior jerárquico de los actos a los que haya participado;
-
-VI. Inspeccionar y vigilar que se cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad; contratación y pago de su personal; contratación de servicios, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal, así como las demás que le confieran las disposiciones legales aplicables;
-
-VII. Remitir a su superior jerárquico el avance mensual del programa anual de trabajo así como las actividades realizadas durante este período;
-
-VIII. Remitir a su superior jerárquico un informe mensual detallado de las auditorías y actividades realizadas en el período;
-
-IX. Someter a solicitud de su superior jerárquico el Programa Anual de Auditorías y de Capacitación del Personal de Auditoría;
-
-X. Asesorar técnicamente en asuntos que le encomiende su superior jerárquico a los servidores públicos de la Dependencia o Entidad en la cual se encontrasen comisionados;
-
-XI. Formular dictámenes, opiniones e informes que les sean encomendados por su superior en aquellos asuntos que sean propios de su competencia;
-
-XII. Proponer a su superior para su evaluación, modificación y aprobación, en su caso el anteproyecto del programa de trabajo y guías que establezcan las disposiciones legales y administrativas aplicables, para la planeación, programación, inicio, desarrollo y conclusión de las auditorías;
-
-XIII. Realizar auditorías y revisiones en las dependencias y entidades en su ámbito de competencia, a fin de vigilar el estricto cumplimiento de las disposiciones legales aplicables en materia del Presupuesto y Gasto Público;
-
-XIV. Requerir, información y documentación a la Dependencia o Entidad en la cual se encuentren comisionados, quienes celebren contratos con la misma por concepto de adquisiciones y arrendamientos de bienes muebles, prestadores de servicio y contratistas, a las personas que desempeñen un empleo, cargo o comisión en la Entidad correspondiente, así como solicitar los datos e informes que requiera para la realización de auditorías, revisiones e investigaciones, en los términos de las disposiciones legales aplicables;
-
-XV. Elaborar y entregar a su superior jerárquico, informe de los resultados de las auditorías y revisiones efectuadas, la propuesta de las acciones y medidas correctivas que correspondan, en el ámbito de su competencia;
-
-XVI. Dar seguimiento a las observaciones y recomendaciones que se formulen como resultado de la práctica de auditorías que se realicen en las dependencias y entidades, de revisiones e investigaciones hasta que estén totalmente comprobadas, e informar a su superior jerárquico;
-
-XVII. Sustentar las auditorias con la documentación comprobatoria y suficiente y los informes o documentos de auditoria que se elaboren deberán estar conforme a la metodología y técnica aplicables;
-
-XVIII. Expedir, cuando proceda, certificaciones de documentos que obren en los archivos de la Contraloría Interna a su cargo;
-
-XIX. Turnar a su superior, los expedientes relativos a las auditorías que hubiere practicado y copia por separado, si de las mismas se desprenden presuntas responsabilidades de los servidores públicos, a fin de que éste acuerde lo procedente;
-
-XX. Llevar el control de los asuntos turnados a la unidad administrativa de la Contraloría competente de los Asuntos Jurídicos y Situación Patrimonial, hasta su resolución definitiva;
-
-XXI. Abstenerse de emitir opiniones o tomar decisiones que no se encuentren expresamente autorizadas, y
-
-XXII. Las demás que expresamente le requiera el Secretario de conformidad a las disposiciones legales aplicables y otras disposiciones legales aplicables.
-
-###### Artículo 547.
-
-A los Coordinadores de Sectores, les corresponde el despacho de los siguientes asuntos
-
-I. Elaborar propuesta del Programa Anual de Auditoría de las entidades que correspondan al Sector a su cargo;
-
-II. Recibir y turnar a su superior proyectos de guías de auditoría que le presenten los Contralores Internos y auditores para el mejor desempeño de sus funciones;
-
-III. Conocer las características y requerimientos de cada una las entidades del Sector a su cargo y mantener actualizados los inventarios de documentación y normatividad de las Contralorías Internas;
-
-IV. Remitir a su superior jerárquico el avance mensual del programa anual de trabajo así como las actividades realizadas durante este período;
-
-V. Remitir a su superior jerárquico un informe mensual detallado de las auditorías y actividades realizadas en el período;
-
-VI. Someter a solicitud de su superior jerárquico el Programa Anual de Auditorías y de Capacitación del Personal de Auditoría;
-
-VII. Formular dictámenes, opiniones e informes que les sean encomendados por su superior en aquellos asuntos que sean propios de su competencia;
-
-VIII. Proponer a su superior para su evaluación, modificación y aprobación, en su caso el anteproyecto del programa de trabajo y guías que establezcan las disposiciones legales y administrativas aplicables, para la planeación, programación, inicio, desarrollo y conclusión de las auditorías;
-
-IX. Realizar auditorías y revisiones en las entidades en su ámbito de competencia, a fin de vigilar el estricto cumplimiento de las disposiciones legales aplicables en materia de Presupuesto y Gasto Público;
-
-X. Apoyar e inducir el desarrollo de las auditorías, revisiones e investigaciones que sean ordenadas realizar en las entidades del Sector, supervisando que éstas se desarrollen de acuerdo al programa específico y guías de auditoría, aplicándose la metodología respectiva para el buen resultado de las mismas;
-
-XI. Apoyar al personal del área de auditoría en el desarrollo, presentación y soporte de las irregularidades detectadas en el transcurso de las mismas, participando con sus auditores en la elaboración y lectura de resultados de auditoría ante las autoridades de las entidades;
-
-XII. Requerir, información y documentación a la Dependencia o Entidad en la cual se encuentren comisionados, a quienes celebren contratos con la misma por concepto de adquisiciones y arrendamientos de bienes muebles, prestadores de servicio y contratistas, a las personas que desempeñen un empleo, cargo o comisión en la Entidad correspondiente, así como solicitar los datos e informes que requiera para la realización de auditorías, revisiones e investigaciones, en los términos de las disposiciones legales aplicables;
-
-XIII. Elaborar y entregar a su superior jerárquico informe de los resultados de las auditorías y revisiones efectuadas, la propuesta de las acciones y medidas correctivas que correspondan, en el ámbito de su competencia;
-
-XIV. Dar seguimiento a las observaciones y recomendaciones que se formulen como resultado de la práctica de auditorías que se realicen en las dependencias y entidades, de revisiones e investigaciones hasta que estén totalmente comprobadas e informar a su superior jerárquico;
-
-XV. Sustentar las auditorías con la documentación comprobatoria y suficiente y los informes o documentos de auditoría que se elaboren deberán estar conforme a la metodología y técnica aplicables;
-
-XVI. Expedir, cuando proceda, certificaciones de documentos que obren en los archivos de la Contraloría Interna a su cargo;
-
-XVII. Turnar a su superior, los expedientes relativos a las auditorías que hubiere practicado y copia por separado, si de las mismas se desprenden presuntas responsabilidades de los servidores públicos, a fin de que éste acuerde lo procedente;
-
-XVIII. Llevar el control de los asuntos turnados a la unidad administrativa de la Contraloría competente de los asuntos jurídicos y situación patrimonial, hasta su resolución definitiva;
-
-XIX. Abstenerse de emitir opiniones o tomar decisiones que no se encuentren expresamente autorizadas;
-
-XX. Mantener en todo momento independencia en todas aquellas acciones de la Entidad, que por su naturaleza sean sujetas a evaluación y control;
-
-XXI. Recopilar la Información sobre las actividades de los Contralores Internos y personal de auditoría de su Sector, con el fin de rendir el informe mensual de actividades, que contendrá los avances de auditoría, hallazgos, actividades desarrolladas en el período, informes de cumplimiento de las entidades y demás que se requieren integrar por la Dirección para efectos del Informe mensual al superior, y
-
-XXII. Las demás que expresamente le requiera el Secretario, de conformidad a las disposiciones legales aplicables y otras disposiciones legales aplicables.
-
-###### Artículo 548.
-
-Los comisarios que actuarán en los órganos de gobierno de las entidades, les corresponderá el despacho de los siguientes asuntos:
-
-I. El órgano de vigilancia dentro de los organismos descentralizados, estará integrado por un Comisario Propietario y un Suplente, designado por esta Secretaría de la Contraloría y contarán con todas las facultades para el desempeño de sus funciones de vigilancia;
-
-II. Los comisarios asistirán con voz pero sin derecho a voto a las asambleas o juntas de gobierno de las entidades paraestatales;
-
-III. Asistir a las sesiones de Consejo, previa invitación respectiva;
-
-IV. Emitir el informe anual de los comisarios, previo dictamen de los auditores externos;
-
-V. Vigilar el cumplimiento de los acuerdos emanados del Órgano de Gobierno;
-
-VI. Proponer la participación de invitados que ayuden a tomar una mejor decisión en los asuntos importantes;
-
-VII. Proponer y en su caso, recomendar la integración de grupos auxiliares de trabajo, para el análisis detallado de los asuntos que así lo ameriten;
-
-VIII. Informar a la Secretaría de la Contraloría General periódicamente, de los acuerdos que se adopten en las sesiones de los órganos de gobierno;
-
-IX. Remitir a su superior jerárquico un informe mensual detallado de las actividades realizadas en el período;
-
-X. Someter a solicitud de su superior jerárquico el Programa Anual de Trabajo y de Capacitación;
-
-XI. Formular dictámenes, opiniones e informes que les sean encomendados por su superior en aquellos asuntos que sean propios de su competencia;
-
-XII. Llevar el control de los asuntos turnados a la unidad administrativa de la Contraloría competente de los Asuntos Jurídicos y Situación Patrimonial, hasta su resolución definitiva;
-
-XIII. Abstenerse de emitir opiniones o tomar decisiones que no se encuentren expresamente autorizadas;
-
-XIV. Mantener en todo momento, independencia en todas aquellas acciones de la Entidad, que por su naturaleza sean sujetas a evaluación y control;
-
-XV. Recopilar la información sobre las actividades con el fin de rendir el informe mensual de actividades, que contendrá los avances de hallazgos, actividades desarrolladas en el período, informes de cumplimiento de las entidades y demás que se requieren integrar por la Dirección para efectos del informe trimestral al superior, y
-
-> <small>(ADICIONADA, D.O. 20 DE ENERO DE 2017)</small>
-
-XVI. Vigilar y dar seguimiento a los procesos de transferencia y desincorporación; fungir como representante de la contraloría ante las instancias que intervengan en estos procesos y requerir a estas la información necesaria para el cumplimiento de sus funciones; así como emitir recomendaciones para promover la conclusión de los procesos con estricto apego a las disposiciones aplicables, y
-
-XVII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+XIV. Las demás que le confieran este reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 549.
 
@@ -10785,7 +10999,9 @@ XVII. Participar en los comités de Adquisiciones, Arrendamientos y Prestación 
 
 XVIII. Convocar, designar y facultar a los servidores públicos que participen en los actos de los procedimientos de contratación; adjudicar, rescindir los contratos que se celebren en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios, de conformidad con las disposiciones legales aplicables;
 
-XIX. Elaborar, tramitar y suscribir los contratos y convenios entre la Secretaría y los proveedores de bienes y prestadores de servicios y, de considerarlo conveniente, someterlo a la opinión de la Dirección de Normatividad, Quejas y Responsabilidades;
+> <small>(REFORMADA, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Elaborar, tramitar y suscribir los contratos y convenios entre la Secretaría y los proveedores de bienes y prestadores de servicios y, de considerarlo conveniente, someterlo a la opinión de la Dirección de Responsabilidades y Normatividad, cuando se ejerzan recursos federales o se formalicen acciones con la Secretaría de la Función Pública en la que se acuerden acciones que sean competencia de esta última;
 
 XX. Verificar que los contratos con proveedores de bienes y prestadores de servicios, sean cumplidos en las condiciones y términos pactados en cuanto a cantidad, calidad y precio, así como que los mismos presenten y mantengan vigentes las garantías con que deben contar para asegurar el cumplimiento de sus obligaciones;
 
@@ -10825,9 +11041,11 @@ XXXIV. Administrar los medios de difusión y comunicación electrónica en térm
 
 XXXV. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 550.
 
-Al Jefe del Departamento de Contabilidad le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento Administrativo le corresponde el despacho de los siguientes asuntos:
 
 I. Operar los sistemas de contabilidad de la Contraloría y tener actualizada oportunamente la información financiera;
 
@@ -10845,25 +11063,45 @@ VII. Coordinar y atender auditorías internas y externas, y
 
 VIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 551.
 
 Al Jefe del Departamento de Informática le corresponde el despacho de los siguientes asuntos:
 
-I. Revisar periódicamente los sistemas de operación y bases de datos de esta Secretaría y proponer sus mejoras;
+I. Apoyar en la instalación, operación, reparación, mantenimiento y servicio de los equipos de cómputo y tecnologías de la información; así como brindar asesoría en la selección, adquisición, implementación y desarrollo de software a las áreas que integran la Contraloría; informando a su superior jerárquico;
 
-II. Brindar servicios informáticos y de telecomunicaciones que soliciten las unidades administrativas de esta secretaría;
+II. Revisar periódicamente los sistemas de operación y bases de datos de la Contraloría y proponer sus mejoras;
 
-III. Administrar licencias de software y realizar la distribución de éstas;
+III. Promover y supervisar el uso adecuado de la red, de la internet, de los sistemas, equipos de cómputo y comunicaciones utilizados en la Contraloría;
 
-IV. Proporcionar los servicios de soporte y mantenimiento para el eficiente funcionamiento de los equipos de cómputo de esta Secretaría;
+IV. Administrar la red de voz, datos y video de la Contraloría, conforme a la normativa aplicable vigente;
 
-V. Diseñar, implementar y supervisar sistemas informáticos competencia de la Contraloría;
+V. Administrar las cuentas de acceso a la red y sus recursos, así como mantener y verificar la integridad de los archivos que se utilizan para el procesamiento electrónico de datos;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VI. Proporcionar a las áreas que integran la Contraloría los servicios, el soporte y respaldo necesarios en materia de tecnologías de la información y comunicaciones para el desarrollo de sus funciones;
 
-VI. Cotizar, revisar y autorizar de acuerdo a los lineamientos que expida la Secretaría de Administración y Finanzas, de las solicitudes de adquisiciones de bienes informáticos de esta Secretaría, y
+VII. Administrar y mantener actualizado el inventario de los recursos informáticos de la Contraloría, para analizar las necesidades presentes y futuras en relación con la optimización de recursos, productos, equipos informáticos e infraestructura;
 
-VII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+VIII. Administrar y distribuir licencias de software;
+
+IX. Proporcionar los servicios necesarios de mantenimiento preventivo y correctivo a los bienes informáticos, de acuerdo con los estándares de confiabilidad, seguridad y configuración racional, así como con los procedimientos establecidos por la Secretaría de Administración y Finanzas;
+
+X. Diseñar, implementar, supervisar y administrar el software adquirido y desarrollado para las unidades administrativas de la Contraloría, y, en su caso, coordinarse para estas actividades con las áreas que cuenten con personal técnico en la materia; asimismo, desarrollar, administrar y actualizar el sitio web competencia de la Contraloría;
+
+XI. Evaluar, definir e implementar la infraestructura de hardware, software y telecomunicaciones requeridas por la Contraloría para llevar a efecto los proyectos o programas que se autoricen;
+
+XII. Supervisar y evaluar los servicios informáticos y de telecomunicaciones que son proporcionados por empresas prestadoras de servicios a la Contraloría; en coordinación con las áreas involucradas;
+
+XIII. Analizar y emitir opinión previa a la adquisición de bienes y servicios relacionados con tecnologías de la información en la Contraloría;
+
+XIV. Cotizar, revisar y autorizar las solicitudes de adquisiciones de bienes informáticos, de acuerdo con los criterios de austeridad, economía y suficiencia presupuestal de la Contraloría; así como con los lineamientos que expida la Secretaría de Administración y Finanzas;
+
+XV. Promover en la Contraloría la actualización permanente y la implementación de nuevas tecnologías en materia informática y herramientas de cómputo;
+
+XVI. Implementar y, en su caso, definir las políticas de operación, seguridad y uso de las tecnologías de información y comunicaciones de la Contraloría, de acuerdo con los lineamientos que expida la Secretaría de Administración y Finanzas, y
+
+XVII. Las demás que le confieran este reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 552.
 
@@ -12111,6 +12349,24 @@ El Director General o su equivalente, será designado por el Gobernador del Esta
 
 Al término de su período, la persona que ocupe el cargo de Director General o su equivalente, permanecerá en funciones hasta en tanto se designe a quien deba sustituirlo.
 
+> <small>(ADICIONADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 610 Bis.
+
+Los titulares de las áreas jurídicas de las Entidades de la Administración Pública paraestatal tendrán las facultades y obligaciones que este reglamento dispone en el artículo 15 para los titulares de las áreas jurídicas de las Dependencias, en lo que resulte aplicable.
+
+> <small>(ADICIONADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 610 Ter.
+
+El órgano de vigilancia dentro de las Entidades estará integrado por un comisario propietario y un suplente, designado por la Contraloría y contarán con las facultades establecidas en el artículo 617 para el desempeño de sus funciones de vigilancia.
+
+> <small>(ADICIONADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 610 Quater.
+
+Las Entidades contarán con un órgano de control interno dependiente de la Contraloría, siempre y cuando se cuente con suficiencia presupuestal, con las atribuciones establecidas en el artículo 541 de este Reglamento y en la legislación aplicable en materia de responsabilidades administrativas.
+
 ### CAPÍTULO II. De la administración de las entidades paraestatales
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
@@ -12223,23 +12479,43 @@ IX. Validar, solicitar y custodiar la acreditación de los miembros y participan
 
 Son facultades y obligaciones del Comisario:
 
-I. Participar con voz, pero sin derecho a voto, en las sesiones de la Junta de Gobierno o su equivalente;
+I. Participar con voz, pero sin derecho a voto, en las sesiones del órgano de gobierno, previa invitación respectiva;
 
-II. Proponer acuerdos para crear y fortalecer los mecanismos de control presupuestal, control interno y autoevaluación, que promuevan la racionalidad, la optimización y la transparencia en el uso de los recursos;
+II. Proponer la participación de invitados que ayuden a tomar una mejor decisión en los asuntos importantes;
 
-III. Dar seguimiento al cumplimiento de los acuerdos emanados del (sic) Junta de Gobierno o su equivalente;
+III. Proponer y, en su caso, recomendar la integración de grupos auxiliares de trabajo, para el análisis detallado de los asuntos que así lo ameriten;
 
-IV. Requerir a la Entidad la información y todo tipo de documentos que le sirvan para la realización de sus funciones;
+IV. Dar seguimiento al cumplimiento de los acuerdos emanados del órgano de gobierno;
 
-V. Informar a la Secretaría de la Contraloría General de los acuerdos que se adopten en las sesiones de los órganos de gobierno;
+V. Requerir a la Entidad la información y todo tipo de documentos que le sirvan para la realización de sus funciones;
 
-VI. Presentar a la Junta de Gobierno o su equivalente y a la Secretaría de la Contraloría General, un informe anual de la gestión de la Entidad, y
+VI. Recopilar la información sobre las actividades con el fin de rendir el informe mensual de actividades, que contendrá los avances de hallazgos, actividades desarrolladas en el período, informes de cumplimiento de las Entidades y demás que se requieren integrar por la Dirección de Auditoría de Recursos Estatales del Sector Paraestatal para efectos del informe trimestral al superior;
 
-VII. Las demás que le establezcan este Reglamento y otras disposiciones aplicables.
+VII. Vigilar y dar seguimiento a los procesos de transferencia y desincorporación de la entidad correspondiente; y requerir la información necesaria para el cumplimiento de sus funciones;
+
+VIII. Informar a la Contraloría de los acuerdos que se adopten en las sesiones de los órganos de gobierno;
+
+IX. Emitir el informe sobre los estados financieros de las entidades, previo dictamen de los auditores externos;
+
+X. Remitir a su superior jerárquico un informe mensual detallado de las actividades realizadas en el período;
+
+XI. Formular dictámenes, opiniones e informes que les sean encomendados por su superior en aquellos asuntos que sean propios de su competencia;
+
+XII. Someter a solicitud de su superior jerárquico el programa anual de trabajo y de capacitación;
+
+XIII. Llevar el control de los asuntos turnados a las autoridades investigadoras de la Contraloría, hasta su resolución definitiva;
+
+XIV. Abstenerse de emitir opiniones o tomar decisiones que no se encuentren expresamente autorizadas;
+
+XV. Mantener, en todo momento, independencia en todas aquellas acciones de la Entidad, que por su naturaleza sean sujetas a evaluación y control;
+
+XVI. Emitir opinión sobre el informe anual de gestión del titular de la Entidad correspondiente, y
+
+XVII. Las demás que le establezcan este Reglamento y otras disposiciones aplicables.
 
 ### CAPÍTULO VII. De las facultades y obligaciones del Comisario
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 618.
 
@@ -13172,3 +13448,15 @@ D.O. 17 DE AGOSTO DE 2018.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 661/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE LA CONTRALORÍA GENERAL".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor a los sesenta días naturales siguientes al de su publicación en el diario oficial del estado.
+
+Segundo. Trámite de asuntos
+
+Los acuerdos y convenios, así como los asuntos, expedientes y demás actos jurídicos, pendientes o en trámite, que se encuentren bajo cualquier concepto en la Dirección de Inspección de Obra Pública, la Dirección de Normatividad, Quejas y Responsabilidades, la Dirección General del Sector Estatal y Paraestatal, la Director (sic) de Auditoría al Sector Centralizado y la Dirección de Auditoría del Sector Paraestatal se transferirán y quedarán a cargo de la Dirección de Auditoría e Inspección de Obra Pública, la Dirección de Responsabilidades y Normatividad, la Dirección General de Auditoría de Recursos Estatales, la Dirección de Auditoría de Recursos Estatales del Sector Centralizado y la Dirección de Auditoría de Recursos Estatales del Sector Paraestatal, respectivamente.
