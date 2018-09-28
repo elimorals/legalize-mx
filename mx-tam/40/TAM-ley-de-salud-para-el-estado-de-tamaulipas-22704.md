@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2018-06-12"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -79,13 +79,17 @@ V.- El disfrute de servicios de salud de calidad en todas sus formas y niveles, 
 
 VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud; y
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-VIII.- El respeto al derecho a la salud materna, a la salud sexual y reproductiva, a la higiene en el trabajo y medio ambiente, a la prevención y tratamiento de enfermedades y a la lucha contra ellas.
+VIII.- El respeto al derecho a la salud materna, a la salud sexual y reproductiva, a la higiene en el trabajo y medio ambiente, a la prevención y tratamiento de enfermedades y a la lucha contra ellas; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+IX.- El enfoque de salud pública basado en el género.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -359,9 +363,17 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que
 
 VI.- Impulsar un sistema racional de administración y desarrollo de los recursos humanos para la salud;
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-VIII.- En general, prestar con eficiencia los servicios de salubridad general y local, así como realizar las acciones de regulación y control sanitario en los términos de esta ley y demás disposiciones aplicables.
+VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+VIII.- En general prestar con eficiencia los servicios de salubridad general y local, así como realizar las acciones de regulación y control sanitario en los términos de esta ley y demás disposiciones aplicables; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+IX.- Impulsar permanentemente y fortalecer los servicios de salud para la prevención de embarazos en niñas y adolescentes, así como también, emprender acciones para prevenir el contagio de infecciones de transmisión sexual.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -789,7 +801,9 @@ Los Ayuntamientos crearán un Comité Municipal de Salud, encabezado por el Pres
 
 La atención materno-infantil y del adolescente comprende las siguientes acciones:
 
-I.- Atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+I.- Atención de la mujer durante el embarazo, el parto y el puerperio. Tratándose en particular de una niña o adolescente embarazada, realizar la búsqueda intencionada de ejercicio de violencia sexual, familiar o de género. En caso de encontrarse datos sugestivos, proceder conforme a las disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
@@ -928,6 +942,10 @@ VI.- Convenios para la prestación de servicios de salud a los escolares, siguie
 VII.- Las demás que coadyuven a la protección de la salud materno-infantil y del adolescente.
 
 ### CAPITULO VI. DE LOS SERVICIOS DE PLANIFICACION FAMILIAR
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 35 BIS.- La planificación familiar tiene carácter prioritario. En sus actividades se debe incluir la información y orientación educativa para adolescentes y jóvenes. Asimismo, para disminuir el riesgo reproductivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 y después de los 35 años de edad, así como la conveniencia de espaciar los embarazos y reducir su número; todo ello, mediante una correcta información anticonceptiva, la cual debe ser oportuna, eficaz y completa a la pareja.
 
 ###### ARTICULO 36.
 
@@ -3528,3 +3546,11 @@ P.O. 12 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación (sic) el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-462 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2°, FRACCIONES VII Y VIII; 7°, FRACCIONES VII Y VIII; Y 29 FRACCIÓN I; Y SE ADICIONAN LA FRACCIÓN IX AL ARTÍCULO 2°; LA FRACCIÓN IX AL ARTÍCULO 7°; Y EL ARTÍCULO 35 BIS AL CAPÍTULO VI DEL TÍTULO TERCERO, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
