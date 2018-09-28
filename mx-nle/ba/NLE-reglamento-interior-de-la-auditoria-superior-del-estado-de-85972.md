@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-auditoria-superior-del-estado-de-8597
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-06"
-last_updated: "2018-02-16"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de febrero de 2012.
 
@@ -339,9 +339,9 @@ XIV. Informar al Auditor General de las irregularidades detectadas en las audito
 
 XV. Poner en conocimiento del Auditor General las conductas u omisiones que sean susceptibles de ser sancionadas con multa, acompañando en su caso, los elementos necesarios para su determinación e imposición en términos de la Ley;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XVI. Acordar con el Auditor Especial de Municipios y el Auditor Especial de Gobierno del Estado y Organismos Públicos Autónomos según corresponda, el contenido de los Informes del Resultado respectivos;
+XVI. Acordar con el Auditor Especial de Municipios y el Auditor Especial de Gobierno del Estado y Organismos Públicos Autónomos según corresponda y rendir al Auditor General, el contenido de los Informes del Resultado respectivos, con al menos cinco días hábiles de anticipacion para su entrega al Congreso en los plazos establecidos en la Ley;
 
 XVII. Emitir y comunicar a los entes públicos las recomendaciones al desempeño que deriven de las observaciones detectadas;
 
@@ -399,9 +399,9 @@ XVI. Informar al Auditor General y dar vista a la Unidad de Asuntos Jurídicos r
 
 XVII. Poner en conocimiento del Auditor General las conductas u omisiones que sean susceptibles de ser sancionadas con multa, acompañando en su caso, los elementos necesarios para su determinación e imposición en términos de la Ley;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XVIII. Elaborar y rendir al Auditor General los Informes del Resultado respectivos, para su entrega al Congreso en los plazos establecidos en la Ley;
+XVIII. Elaborar y rendir al Auditor General los Informes del Resultado respectivos, con al menos cinco días hábiles de anticipacion para su entrega al Congreso en los plazos establecidos en la Ley;
 
 XIX. Emitir y comunicar a los entes públicos las recomendaciones a la gestion o control interno, los pliegos presuntivos de responsabilidades y su resolución;
 
@@ -791,7 +791,7 @@ XVII. Las demás que les confieran el Reglamento, los manuales de organización 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE MAYO DE 2015)</small>
 
-### Capítulo IV. De las Atribuciones de las Unidad (sic) Administrativas de Soporte y Control Interno
+### Capítulo IV. De las Atribuciones de las Unidad Administrativas (sic) de Soporte y Control Interno
 
 #### Sección Primera. De las Atribuciones Comunes
 
@@ -1341,7 +1341,9 @@ VII. Detectar las necesidades de tecnología de la información de la Auditoría
 
 VIII. Actualizar el portal oficial de la Auditoría Superior del Estado, conforme a lo dispuesto por la Ley de Transparencia y Acceso a la Información del Estado;
 
-IX. Establecer, controlar y garantizar las medidas de conservación de los procesos de respaldos y servicios, así como la digitalización de los documentos de la Auditoría Superior del Estado; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Establecer, controlar y garantizar las medidas de conservación de los procesos de respaldos y servicios, así como la impresión y digitalización de los comunicados de observaciones preliminares, Informes del Resultado respectivos, y demás documentos de la Auditoría Superior del Estado, a fin de estar en aptitud de cumplir con los plazos establecidos en la Ley y el Reglamento; y
 
 X. Las demás que le confieran el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendadas por su superior jerárquico.
 
@@ -1401,7 +1403,9 @@ XVI. Verificar que los servidores públicos de la Auditoría Superior del Estado
 
 XVII. Sistematizar y establecer métodos y procedimientos de captación de datos, análisis y proyección de información e indicadores estadísticos, en relación al funcionamiento y operación de la Auditoría Superior del Estado, para la adecuada toma de decisiones del Auditor General;
 
-XVIII. Elaborar los informes anuales sobre el cumplimiento de los programas y planes de la Auditoría Superior del Estado, y demás que requiera el Auditor General, en términos de la Ley y el Reglamento, con base en la información y documentación que generen las unidades administrativas de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Elaborar los informes anuales sobre el cumplimiento de los programas y planes de la Auditoría Superior del Estado, verificando que los Auditores Especiales cumplan con los plazos legales para la presentación al Congreso de los Informes del Resultado, debiendo en su caso, gestionar el inicio de los procedimientos para el fincamiento de las responsabilidades administrativas correspondientes;
 
 XIX. Participar en los procesos de adjudicación y contratación de adquisiciones, servicios, arrendamientos y obra pública, y evaluar si en los mismos se cumplen las disposiciones legales aplicables;
 
@@ -1489,7 +1493,7 @@ X. Las demás que les confieran el Reglamento, los manuales de organización y p
 
 La Coordinación de Auditoría Forense, será la Unidad de Soporte y Fiscalización encargada de apoyar a las Unidades Administrativas de la Auditoría Superior del Estado durante los procesos de auditoría en la integración de los elementos que permitan identificar las causas, efectos, consecuencias e incluso los móviles de un hecho o conducta específicos, que provoquen las irregularidades detectadas, recopilando información documental, testimonial y las evidencias que sustenten debidamente estos actos, así como gestionar la realización de las auditorías forenses que determine el Auditor General del Estado. Dicha Coordinación tendrá como titular al Coordinador de Auditoría Forense, y corresponderá a éste, el ejercicio de las facultades y atribuciones siguientes:
 
-l. Elaborar el programa anual de actividades de la Coordinación a su cargo y presentarlo al Auditor General del Estado;
+I. Elaborar el programa anual de actividades de la Coordinación a su cargo y presentarlo al Auditor General del Estado;
 
 II. Participar, en coordinación con las Direcciones de las Unidades Administrativas de Fiscalización, en la planeación y desarrollo del Programa Anual de Auditorías para la Fiscalización de la Cuenta Pública que corresponda, con la finalidad de identificar probables entes, áreas y conceptos, con alto grado de riesgo en sus operaciones, proponiendo las acciones correspondientes para su revisión;
 
@@ -1736,5 +1740,11 @@ Artículo Único. La presente reforma al Reglamento Interior de la Auditoría Su
 P.O. 16 DE FEBRERO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
+
+Artículo Único. Las presentes reformas al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
 
 Artículo Único. Las presentes reformas al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
