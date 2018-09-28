@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-del-municipio-de-57379"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-22"
-last_updated: "2016-07-18"
+last_updated: "2018-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de octubre de 2007.
 
@@ -31,7 +33,9 @@ EL AYUNTAMIENTO DE GENERAL ESCOBEDO EN SESIÓN ORDINARIA DEL DÍA 15 DE OCTUBRE 
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L.
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por lo anteriormente expuesto y fundando, nos permitimos poner a su consideración, y en su caso, aprobación, el:
 
@@ -271,17 +275,15 @@ En la sesión posterior al acto protocolario de entrega-recepción, el Ayuntamie
 
 El dictamen de la Comisión será sometido a consideración del Ayuntamiento en un plazo que no excederá de 60 días naturales. El Ayuntamiento, al conocer el dictamen de la Comisión, podrá convocar a los servidores públicos que hayan formado parte del Ayuntamiento saliente, siempre que considere necesario precisar alguna información. La aprobación del dictamen no podrá exceder de un plazo de 90 días naturales computados a partir del acto protocolario de entrega-recepción.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 19.
 
-El Ayuntamiento inicia su ejercicio a las cero horas del día 31 de octubre del año que corresponda y tomará protesta a las 23 horas del día anterior a su ejercicio.
+El Ayuntamiento electo se instalará solemne y públicamente el día 30 de septiembre del año que corresponda, conforme a lo establecido en la Constitución Política del Estado, aunque hubiere tomado protesta en hora anterior. El ejercicio del mismo iniciará a las cero horas del día 30 de septiembre.
 
-La instalación se realizará en sesión solemne de acuerdo con lo establecido por la Ley y este Reglamento.
+Para los efectos de la instalación del Ayuntamiento, las autoridades que concluyan su gestión convocarán a una sesión solemne, a la que se invitará a la comunidad en general. La invitación referirá lugar, fecha y hora de la sesión, así como el orden del día correspondiente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+La omisión del Ayuntamiento saliente de realizar la convocatoria señalada en este artículo, será sancionada conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
@@ -289,15 +291,27 @@ La instalación se realizará en sesión solemne de acuerdo con lo establecido p
 
 El protocolo para la instalación del Ayuntamiento a que se refiere el artículo 23 de la Ley seguirá el siguiente orden:
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-I. Toma de protesta por el Presidente Municipal entrante;
+I. Protesta de Ley del Presidente Municipal entrante;
 
-II. Toma de protesta por el Presidente Municipal de los dos Síndicos Electos;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-III. Toma de protesta por el Presidente Municipal de los Regidores Electos; y
+II. Toma de protesta a los demás integrantes del Ayuntamiento, por el Presidente Municipal (sic)
 
-IV. El Presidente Municipal declarará formalmente instalado el Ayuntamiento entrante.
+Entrante; y
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+III. Declaración de Instalación formal del Ayuntamiento por el Presidente Municipal entrante.
+
+El Presidente Municipal entrante rendirá la protesta de Ley en los siguientes términos: 2 “PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE PRESIDENTE MUNICIPAL QUE EL PUEBLO ME HA CONFERIDO, SI NO LO HICIERE ASÍ, QUE LA NACION Y EL ESTADO ME LO DEMANDE”.
+
+Acto seguido, el Presidente Municipal tomará la protesta a los demás integrantes del Ayuntamiento en los siguientes términos: “¿PROTESTÁIS GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCIÓN POLITICA DEL ESTADO DEL ESTADO (SIC) LIBRE Y SOBERANO DE NUEVO LEON Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE REGIDOR Y SÍNDICO QUE EL PUEBLO OS HA CONFERIDO?”, a lo que los Regidores y Síndicos entrantes contestarán:
+
+“SI PROTESTO”, a lo que el Presidente Municipal entrante dirá: “SI NO LO HICIEREIS ASÍ, QUE EL PUEBLO OS LO DEMANDE”.
+
+Finalmente, el Presidente Municipal hará la declaración de instalación formal del Ayuntamiento en los siguientes términos: “HOY 30 de septiembre DEL AÑO EN CURSO, SIENDO LAS___HORAS, QUEDA FORMAL Y LEGALMENTE INSTALADO ESTE REPUBLICANO AYUNTAMIENTO DE ______, NUEVO LEÓN, ELECTO DEMOCRÁTICAMENTE PARA DESEMPEÑAR SU ENCARGO DURANTE EL PERÍODO CONSTITUCIONAL QUE COMPRENDE DEL ___ AL ___.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -347,9 +361,15 @@ Son atribuciones y responsabilidades del Ayuntamiento aquellas que estipula la L
 
 I. En materia de Gobierno y Régimen Interior:
 
-a) Aprobar el Plan Municipal de Desarrollo dentro de los primeros tres meses desde la fecha de instalación del Ayuntamiento, así como su correspondiente difusión a la ciudadanía;
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+a) Rendir a la población, en el mes de septiembre de cada año, en sesión pública y solemne, un informe, por conducto del Presidente Municipal, del estado que guarda el Gobierno y la Administración Pública Municipal. Dicho informe deberá ser resumido, breve, conciso y entendible para la población en general, teniendo como referencia los avances del Plan Municipal de Desarrollo;
 
 b) Aprobar la constitución, transformación o extinción de órganos desconcentrados;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Garantizar mediante las disposiciones reglamentarias y administrativas necesarias, todos aquellos lineamientos encaminados a establecer y preservar, de manera permanente y definitiva, el uso respectivo de su escudo de armas, sus colores y elementos de composición como imagen única para fines de comunicación social e imagen institucional del gobierno y la administración pública municipal, así como para su uso único y exclusivo en la decoración, identificación, distintivo y diseño de imagen en todos los bienes muebles e inmuebles del patrimonio municipal, formatos, papelería y documentación oficial.
 
 c) Aprobar la transformación o extinción de órganos descentralizados;
 
@@ -371,6 +391,10 @@ k) Citar a comparecer a los servidores públicos municipales para efectos de inf
 
 l) Conceder licencias sobre faltas temporales o definitivas de los miembros del Ayuntamiento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+m) Resolver sobre el otorgamiento de licencias sin goce de sueldo, a integrantes del Ayuntamiento, así como al Secretario del Ayuntamiento, al Tesorero Municipal, y en su caso, al Titular del área de Seguridad Pública y al Contralor Municipal, para que estos puedan separarse temporalmente del ejercicio de sus funciones para atender los asuntos de su interés, por más de quince días naturales consecutivos y hasta por un plazo que no exceda de cien días naturales
+
 II. En materia de Servicios Públicos:
 
 a) Expedir los lineamientos para la prestación de servicios públicos que están a su cargo de acuerdo con la Ley;
@@ -381,7 +405,9 @@ III. En materia de Hacienda Pública Municipal
 
 a) Expedir los lineamientos para el correcto ejercicio de los recursos que integran la Hacienda Pública;
 
-b) Aprobar el presupuesto de ingresos por mayoría simple a propuesta del Presidente Municipal. El ayuntamiento deberá remitirlo al Congreso antes del día quince del mes de noviembre del año anterior al que surta sus efectos; y en caso de que corresponda la instalación del Ayuntamiento ese año a más tardar el 30 de noviembre;
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+b) Aprobar el proyecto de presupuesto de ingresos que deberá regir durante el ejercicio fiscal del año siguiente y enviarlo para su revisión y aprobación al Congreso del Estado, a más tardar el 30 de noviembre del año anterior al que se pretenda surta efectos;
 
 c) Aprobar por mayoría simple a más tardar el 31 de diciembre de cada año el Presupuesto Anual de Egresos a propuesta del Presidente Municipal;
 
@@ -455,7 +481,9 @@ a) Encabezar la Administración Pública Municipal;
 
 b) Presidir las Sesiones del Ayuntamiento;
 
-c) Rendir un informe anual de (sic) Gobierno Municipal en sesión solemne el día del mes de octubre que el mismo proponga, conforme a los requisitos indicados en la Ley;
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+c) Rendir un informe anual de Gobierno Municipal en sesión solemne el día del mes de septiembre que el mismo proponga, conforme a los requisitos indicados en la Ley;
 
 d) Proponer la integración de las Comisiones en que deban organizarse los Regidores y Síndicos;
 
@@ -677,31 +705,25 @@ La falta temporal del Secretario del Ayuntamiento, Tesorero Municipal, del Titul
 
 La falta absoluta de los servidores públicos municipales referidos en el párrafo anterior, serán cubiertas en la forma dispuesta para la propuesta y nombramiento de los mismos, en los términos de la Ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 39.
 
-El Presidente Municipal podrá ausentarse del municipio hasta por 30 días naturales sin perder su carácter, por razones de enfermedad, vacaciones, o las contempladas por la Ley.
+El Presidente Municipal podrá solicitar licencia en su último año de gobierno por más de treinta días naturales sin exceder de cien, en cuyo caso será suplido por algún funcionario de los mencionados en el artículo 92 de la Ley de Gobierno Municipal o un integrante del Ayuntamiento.
 
-En caso que la ausencia sea por más de 30 y menos de 60 días naturales únicamente será para atender cuestiones de salud personal.
+Los encargados del despacho a que se refiere esta fracción serán designados por el Ayuntamiento y tendrán todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal.
 
-En todo caso, el aviso al Ayuntamiento para efectos de aprobar la licencia será en un término máximo de cinco días.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 40.
 
 Las licencias a que se refiere el artículo anterior seguirán las reglas siguientes:
 
-I. Cuando las faltas que no excedan de 15 días naturales, los asuntos de mero trámite serán atendidos por el Secretario del Ayuntamiento, cumpliendo en todo momento las instrucciones del Presidente Municipal, sin tener derecho de voto en las sesiones del Ayuntamiento.
+I. Si la ausencia no excede de quince días naturales, los asuntos de mero trámite y aquellos que no admiten demora serán atendidos por el Secretario del Ayuntamiento, cumpliendo con las instrucciones del Presidente Municipal, pero no tendrá derecho de voto en las sesiones del Ayuntamiento; y
 
-II. Si la ausencia es mayor de quince días pero menor de treinta días naturales, el Presidente Municipal deberá recabar el permiso del Ayuntamiento quien decidirá por mayoría simple la aceptación o negativa respectiva.
+II. Si la ausencia es mayor de quince días naturales, sin exceder de treinta, el Presidente Municipal debe recabar previamente el permiso del Ayuntamiento y será suplido por algún funcionario de los mencionados en el artículo 92 de la Ley de Gobierno Municipal o un integrante del Ayuntamiento. La ausencia podrá ser, entre otras, por enfermedad, vacaciones, o las contempladas por la Ley.
 
-Dicha ausencia será suplida por el integrante que acuerde el propio Ayuntamiento a propuesta del Presidente Municipal, quien quedará como encargado del Despacho con todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal.
+El Presidente Municipal podrá solicitar licencia por más de treinta días naturales sin exceder de sesenta, únicamente para atender cuestiones de salud personal, en cuyo caso será suplido por algún funcionario de los mencionados en el artículo 92 de esta ley o un integrante del Ayuntamiento.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -711,13 +733,11 @@ Dicha ausencia será suplida por el integrante que acuerde el propio Ayuntamient
 
 La licencia temporal por más de 30 y menos de 60 días naturales del titular de la Presidencia municipal, únicamente procederá para atender cuestiones de salud personal, en cuyo caso será suplido por un encargado de despacho mismo que será designado por el Cabildo por mayoría de votos a propuesta del Presidente municipal, quien además contará con todas las atribuciones que las disposiciones jurídicas dispongan para el mismo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 42.
 
-En caso de renuncia del Presidente Municipal, el Ayuntamiento por acuerdo de la mayoría absoluta de sus integrantes y respetando en todo momento el origen partidista del Presidente electo, designará de entre sus miembros un encargado de despacho quién se encargará de la Presidencia Municipal, el cual tendrá todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal hasta en tanto no rinda protesta el Presidente Municipal sustituto.
+En el caso de licencia o ausencia definitiva o renuncia del Presidente Municipal, el Ayuntamiento, por acuerdo de la mayoría absoluta de sus integrantes, respetando el origen partidista, designará dentro de los miembros del Ayuntamiento, quien deba encargarse del despacho de la Presidencia Municipal con todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal, hasta en tanto rinda protesta el Presidente Municipal Sustituto, que deberá ser designado por el Congreso del Estado.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -1911,13 +1931,33 @@ La discusión y aprobación de las iniciativas de Reglamentos Municipales, deber
 
 Aprobada la iniciativa de Reglamento o su modificación, el Secretario del Ayuntamiento refrendará el acta respectiva, enviando un tanto de la misma en lo relacionado para su publicación en el Periódico Oficial del Estado.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 122.
 
 El Presidente Municipal ordenará una vez que sean aprobadas por el Ayuntamiento las publicaciones de los Reglamentos, Reformas o Adiciones en el Periódico Oficial del Estado y en la Gaceta Municipal. La publicación en fecha distinta en la Faceta de las reformas, modificaciones o adiciones no afecta su entrada en vigor.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Así mismo para la aprobación y expedición de los reglamentos municipales el ayuntamiento debe sujetarse a las disposiciones del presente y a las siguientes bases generales:
+
+I. Que los ordenamientos respeten los derechos humanos y sus garantías, consagradas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado, así como los derechos humanos;
+
+II. Que los ordenamientos sean congruentes y no contravengan o invadan disposiciones o competencias federales o estatales;
+
+III. Que tengan como propósito fundamental la seguridad, el bienestar y la tranquilidad de la población;
+
+IV. Que su aplicación fortalezca al Gobierno Municipal;
+
+V. Informar a la comunidad del inicio del proceso de la consulta pública especificando los principales cambios del Reglamento Municipal o la iniciativa del Reglamento. El aviso deberá ser publicado (sic) el Periódico Oficial, así mismo en dos de los diarios de mayor circulación en la entidad, durante 2-dos días consecutivos y deberá cumplir con un tamaño mínimo de un octavo de página. El aviso del inicio de la consulta pública también podrá hacerse en los medios electrónicos y redes sociales. Las iniciativas o reformas a los Reglamentos estarán disponibles para la consulta pública durante un plazo de 15-quince días hábiles como mínimo, en las oficinas de la autoridad municipal, así como en sus respectivos portales de internet, durante dicho plazo los interesados podrán presentar por escrito a las autoridades competentes, los planteamientos que consideren respecto de la iniciativa del Reglamento Municipal o reformas, los planteamientos deberán estar fundamentados y consignar domicilio para oír y recibir notificaciones
+
+VI. Que en su articulado se incluya la formación y funcionamiento de unidades administrativas municipales, responsables de la inspección y vigilancia del cumplimiento de los reglamentos, así como de la aplicación de sanciones cuando proceda;
+
+VII. Que la normatividad de la administración y de los servicios públicos municipales tengan como propósito primordial la eficiencia de los mismos y el mejoramiento general de la población del Municipio;
+
+VIII. Que esté prevista la más idónea difusión de sus principales ordenamientos; y
+
+IX. Que incluyan un Capítulo sobre Recurso de Inconformidad, que permita a los particulares fundamentar sus impugnaciones contra actos de la autoridad. Los particulares o las autoridades podrán, independientemente de los recursos administrativos o judiciales que procedan, acudir a denunciar la violación de las bases antes señaladas en la expedición de algún reglamento, al Congreso del Estado, quien podrá, en su caso, solicitar al Ayuntamiento la modificación o derogación de los ordenamientos correspondientes
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
@@ -2172,3 +2212,13 @@ P.O. 18 DE JULIO DE 2016.
 Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
 
 Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL CUAL "SE APRUEBA POR UNANIMIDAD LA REFORMA AL REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE GENERAL ESCOBEDO, NUEVO LEÓN".]
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Tercero.- Se atenderá lo establecido en el Decreto 250 publicado en el Periódico Oficial del Estado de Nuevo León para el cumplimiento de la presente Reforma.
