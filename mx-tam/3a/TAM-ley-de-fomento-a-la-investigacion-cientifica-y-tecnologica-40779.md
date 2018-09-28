@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-4077
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-19"
-last_updated: "2017-02-07"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de agosto de 2004.
 
@@ -171,9 +171,17 @@ VIII.- La vinculación de la investigación científica y tecnológica con la ed
 
 IX.- La creación, el financiamiento y la operación de los fondos a que se refiere la presente ley;
 
-X.- Los estímulos a la función de investigación y desarrollo tecnológico; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XI.- Los programas educativos, estímulos fiscales, financieros, facilidades en materia administrativa e industrial en los términos de las leyes aplicables.
+X.- Los estímulos a la función de investigación y desarrollo tecnológico;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XI.- Los programas educativos, estímulos fiscales, financieros, facilidades en materia administrativa e industrial en los términos de las leyes aplicables; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XII.- El fomento e implementación de una feria anual de innovación, ciencia y tecnología en el Estado, con la participación de las niñas, niños, adolescentes y jóvenes que hayan creado, mejorado o perfeccionado un invento que tenga por objeto un cambio positivo en el desarrollo humano y en la sociedad.
 
 #### SECCION I. INFORMACION
 
@@ -666,6 +674,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-113 MEDIANTE EL CUAL EL (SIC) SE ADICIONAN LOS INCISOS H), I), J) A LA FRACCIÓN II DEL ARTÍCULO 16 DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS.
 
 P.O. 7 DE FEBRERO DE 2017.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-467 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES X Y XI, Y SE ADICIONA LA FRACCIÓN XII, AL ARTÍCULO 6, DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
