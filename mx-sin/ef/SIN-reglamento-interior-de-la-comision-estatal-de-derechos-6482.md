@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-comision-estatal-de-derechos-6482"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-10-08"
-last_updated: "1996-05-01"
+last_updated: "2018-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1996.
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
+
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de octubre de 1993.
 
@@ -913,4 +915,16 @@ Las presentes reformas surtirán sus efectos, a partir del día siguiente de la 
 
 P.O. 1 DE MAYO DE 1996.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DE SINALOA.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS”.]
+
+Artículo Primero. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
+
+Artículo Segundo. El presente Reglamento abroga al Reglamento Interior de la Comisión Estatal de los Derechos Humanos del Estado de Sinaloa, publicado en el Periódico Oficial “El Estado de Sinaloa”, de fecha 8 de octubre de 1993.
+
+Artículo Tercero. Las quejas que a la fecha de entrada en vigor de este Reglamento se encuentren en trámite, se sustanciarán de conformidad con lo que establece el reglamento que se abroga y en lo que fuere procedente y resulte en beneficio de los interesados, serán aplicables las disposiciones del presente ordenamiento.
+
+Artículo Cuarto. Las Unidades Administrativas contempladas en este Reglamento y que no estén sustentadas actualmente en el presupuesto autorizado a la Comisión Estatal, en su oportunidad serán puestas en operación de acuerdo con la disponibilidad presupuestal correspondiente.
