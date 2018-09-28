@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2018-04-27"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -55,9 +55,7 @@ Por lo anteriormente expuesto y fundado y en nuestra calidad de integrantes de e
 
 R E S O L U T I V O
 
-UNICO.- Es de aprobarse y se aprueba la expedición del Reglamento Interior del
-
-Ayuntamiento de Mexicali para quedar como sigue:
+UNICO.- Es de aprobarse y se aprueba la expedición del Reglamento Interior del Ayuntamiento de Mexicali para quedar como sigue:
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI
 
@@ -217,9 +215,13 @@ IV. Suplir al Presidente Municipal en sus ausencias y licencias, y
 
 V. Citar a cualquier funcionario de la Administración Pública Municipal cuando se discuta algún asunto de las funciones ejecutivas que le competen; sus funciones ejecutivas sólo podrán ejercerse como cuerpo colegiado.
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Las demás relativas a su función, que el propio Ayuntamiento establezca en los acuerdos respectivos.
+VI. Atender la gestión comunitaria con el apoyo de las dependencias y entidades a las que corresponda la atención del asunto del que se trate, de acuerdo a lo previsto en el Reglamento de la Administración Pública Municipal y en cualquier otra normatividad aplicable.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Las demás relativas a su función, que el propio Ayuntamiento establezca en los acuerdos respectivos.
 
 ###### ARTICULO 10.
 
@@ -1291,7 +1293,7 @@ Los dictámenes de las comisiones se aprobarán por mayoría de votos de sus int
 
 Procedimiento después de la aprobación.- Cuando el dictamen de comisión sea relativo a bandos, reglamentos, presupuestos de egresos, iniciativas de leyes y decretos al Congreso, y disposiciones de observancia general, una vez aprobado por la comisión respectiva, ésta lo turnará junto con su expediente al Presidente Municipal por conducto de la Subdirección Jurídica de la Secretaría del Ayuntamiento, para efecto de que en un término de ocho días hábiles siguientes a la recepción del dictamen, ejerza su derecho de previa observación por única vez.
 
-Antes de que transcurra dicho plazo, si no ejercerá su derecho de previa observación, el Presidente Municipal podrá indicar al Secretario del Ayuntamiento que incluya la presentación, discusión y resolución del dictamen en la propuesta de orden del día de la siguiente sesión; o en su caso, comunicará a la comisión dictaminadora que no hará observaciones para que ésta pueda proceder a presentarlo directamente en sesión ordinaria de Cabildo conforme al último párrafo de este articulo.
+Antes de que transcurra dicho plazo, si no ejercerá su derecho de previa observación, el Presidente Municipal podrá indicar al Secretario del Ayuntamiento que incluya la presentación, discusión y resolución del dictamen en la propuesta de orden del día de la siguiente sesión; o en su caso, comunicará a la comisión dictaminadora que no hará observaciones para que ésta pueda proceder a presentarlo directamente en sesión ordinaria de Cabildo conforme al último párrafo de este artículo.
 
 Una vez transcurrido el plazo para hacer observaciones al dictamen sin que éstas se formulen, o antes en los términos del párrafo anterior, el Secretario del Ayuntamiento procederá a incluir en la propuesta de orden del día de la siguiente sesión ordinaria, la presentación, discusión y resolución del dictamen por el Cabildo.
 
@@ -1547,7 +1549,7 @@ P.O. 16 DE MARZO DE 2012.
 
 SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
-PRIMERO…
+PRIMERO...
 
 SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
@@ -1574,3 +1576,9 @@ P.O. 27 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 9 DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor un día después de su publicación en el Periódico Oficial del Estado.
