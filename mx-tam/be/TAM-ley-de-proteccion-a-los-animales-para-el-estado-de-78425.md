@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2017-12-15"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -133,7 +135,9 @@ XVII. Todos los animales domésticos que son utilizados para el aprovechamiento 
 
 Para los efectos de esta Ley, además de los conceptos definidos por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre; la Ley Federal de Sanidad Animal; las Normas Oficiales Mexicanas; el Código para el Desarrollo Sustentable para el Estado de Tamaulipas y las Normas Zoológicas del Estado, se entenderá por:
 
-I. Agencia Ambiental: La Agencia Ambiental para el Desarrollo Sustentable del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+I. Secretaría: Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 II. Animales domésticos: Las especies que se crían bajo el cuidado del ser humano, así como la fauna silvestre que se adapta a la vida del hombre sin constituir peligro;
 
@@ -187,7 +191,9 @@ XXIII. Vivisección: Abrir vivo a un animal.
 
 La aplicación de esta Ley corresponde:
 
-I. Al Ejecutivo del Estado a través de la Agencia Ambiental;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+I. Al Ejecutivo del Estado a través de la Secretaría;
 
 II. A La Comisión de Vida Silvestre, en el ámbito de su competencia;
 
@@ -195,15 +201,27 @@ III. A los Municipios a través de sus Ayuntamientos dentro del ámbito de sus r
 
 Las Dependencias y Entidades de la Administración Pública Estatal que ejerzan atribuciones que les confieren otros ordenamientos cuyas disposiciones se relacionen con las finalidades de la presente Ley, ajustarán su ejercicio a los criterios para preservar el equilibrio ecológico y la protección al ambiente, así como a las disposiciones de los reglamentos, normas oficiales mexicanas y demás disposiciones legales vigentes.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Corresponde a los Gobiernos Estatal y municipal cumplir con lo previsto en las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyen condiciones de captura, cautiverio, comercialización, cuarentena, entrenamiento, exhibición, explotación, manutención, transporte y sacrificio de los animales, así como vigilar su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Asimismo, en el ámbito de sus respectivas competencias, establecerán la prohibición de organizar, inducir o provocar peleas de perros, determinando las sanciones correspondientes.
+
 Los particulares y las Asociaciones Protectoras de Animales prestarán su cooperación para alcanzar los fines que persiguen esta Ley y su Reglamento, en la forma que en ellos se especifica.
 
 ###### ARTICULO 6.
 
 Para el cumplimiento de la presente Ley, corresponde al Ejecutivo del Estado:
 
-I. Por conducto de la Agencia Ambiental:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-a) Promover entre la población una cultura cívica de protección, responsabilidad, respeto y trato digno a los animales;
+I. Por conducto de la Secretaría:
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+a) Promover a través de foros, talleres, seminarios, conferencias y otras actividades entre la población una cultura cívica de protección, responsabilidad, respeto y trato digno a los animales;
 
 b) Desarrollar programas de educación y capacitación en materia de trato digno y respetuoso a los animales, en coordinación con las autoridades competentes relacionadas con las instituciones de educación básica, media y superior, así como con las organizaciones no gubernamentales legalmente constituidas y el desarrollo de programas de educación formal e informal con los sectores social, privado y académico;
 
@@ -213,7 +231,9 @@ d) Expedir las normas técnicas estatales en la materia que esta Ley establece;
 
 e) Expedir el Reglamento de la presente Ley;
 
-f) Celebrar convenios de coordinación con las autoridades federales y municipales para la vigilancia de las leyes y normas oficiales mexicanas relacionadas con la materia de esta Ley;
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+f) Celebrar convenios de coordinación con las autoridades federales y municipales para vigilar la observancia de las leyes y normas oficiales mexicanas relacionadas con la materia de esta Ley;
 
 g) Crear los instrumentos económicos adecuados para incentivar a las organizaciones ciudadanas legalmente constituidas y registradas dedicadas a la protección y bienestar de los animales, para el desarrollo de programas de educación y difusión en las materias de la presente Ley a través de las asociaciones, federaciones o colegios de médicos veterinarios zootecnistas del Estado o de la República Mexicana; y
 
@@ -229,9 +249,19 @@ c) Promover y participar en programas de capacitación y actualización sobre el
 
 d) Expedir certificados de venta de animales a los establecimientos comerciales, ferias, exposiciones y bazares que se dediquen a la venta de mascotas y llevar el Registro Estatal Animal;
 
-e) Proponer al Ejecutivo Estatal, por conducto de la Agencia Ambiental, las normas técnicas estatales relativas a la materia de este Ordenamiento; y
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-f) Las demás que esta Ley y otros ordenamientos jurídicos aplicables le confieran.
+e) Proponer al Ejecutivo Estatal, por conducto de la Secretaría, las normas técnicas estatales relativas a la materia de este ordenamiento;
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+f) Fomentar entre las autoridades de procuración de justicia, Jurisdiccionales y administrativas del orden estatal y municipal la cultura del trato digno a los animales;
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+g) Vincularse con autoridades educativas para impartir cursos y talleres a niñas, niños y adolescentes, la cultura por los animales y el respeto al medio ambiente; y
+
+h) Las demás que esta Ley y otros ordenamientos jurídicos aplicables le confieran.
 
 ###### ARTICULO 7.
 
@@ -269,9 +299,15 @@ I. Las herencias, legados y donaciones que reciba;
 
 II. Los recursos destinados para ese efecto por el Gobierno del Estado de Tamaulipas;
 
-III. Los productos de sus operaciones y de la inversión de fondos; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Los demás recursos que se generen por cualquier otro concepto.
+III. Los productos de sus operaciones y de la inversión de fondos;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+IV. El Gobierno del Estado destinará el cincuenta por ciento de los montos recaudados por concepto de multas derivadas de violaciones a esta Ley al Fondo Ambiental Público, para atender las acciones relacionadas con las atribuciones que esta Ley le confiere; y
+
+V. Los demás recursos que se generen por cualquier otro concepto.
 
 ###### ARTICULO 9.
 
@@ -299,19 +335,29 @@ La Comisión creará el Padrón de Asociaciones Protectoras de Animales y Organi
 
 Las autoridades sanitarias del Estado y municipales quedan obligadas a vigilar y exigir el cumplimiento de las disposiciones contenidas en esta Ley en el marco de sus respectivas competencias.
 
-Los Ayuntamientos y la Secretaría de Salud podrán celebrar convenios de concertación con las Asociaciones Protectoras de Animales legalmente constituidas y de particulares que soliciten intervenir para asesorar y apoyar en la captura de los animales abandonados en la vía pública y remitirlos a los Centros de Control Animal o, en su caso, a los refugios legalmente autorizados de las Asociaciones Protectoras de Animales; y en el sacrificio humanitario de animales, siempre y cuando cuenten con el personal capacitado debidamente comprobado y autorizado para dicho fin.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Los Ayuntamientos y la Secretaría de Salud podrán celebrar convenios de concertación con las Asociaciones Protectoras de Animales legalmente constituidas y de particulares que soliciten intervenir para difusión de campañas y cultura por el respeto a los animales, así como para asesorar y apoyar en la captura de los animales abandonados en la vía pública y remitirlos a los Centros de Control Animal o, en su caso, a los refugios legalmente autorizados de las Asociaciones Protectoras de Animales; y en el sacrificio humanitario de animales, siempre y cuando cuenten con el personal capacitado debidamente comprobado y autorizado para dicho fin.
 
 Las asociaciones protectoras de animales tendrán derecho a recoger y asilar a los animales que hayan sido víctimas de alguna de las infracciones previstas en la presente ley o su reglamento, así como a los animales perdidos o sin dueño. El asilo de animales tendrá como objetivo principal entregarlos en adopción y no el mantenerlos asilados permanentemente.
 
-Para la mejor realización de los objetivos de la presente ley, independientemente de los organismos a que se refieren los párrafos anteriores, las autoridades municipales podrán formar patronatos integrados por personas que por su tendencia en favor de la protección los animales su honorabilidad merezcan formar parte del mismo
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Podrán celebrar convenios con las universidades que en su oferta de carreras cuenten con la de Medicina Veterinaria y Zootecnia y otras que deseen colaborar, a fin de que estos puedan realizar servicio social o prácticas en las diversas campañas de salud animal, u otros temas afines que implementen los municipios.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Para la mejor realización de los objetivos de la presente Ley, independientemente de los organismos a que se refieren los párrafos anteriores, las autoridades municipales podrán formar patronatos integrados por personas que por su tendencia en favor de la protección a los animales y de su honorabilidad merezcan formar parte del mismo.
 
 Los patronatos podrán obtener los inmuebles que puedan ser utilizables en prestar atención a los animales.
 
 ### CAPITULO V. DE LAS NORMAS TECNICAS ESTATALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 12.
 
-La Agencia Ambiental en coordinación con la Secretaría de Salud emitirá en el ámbito de su competencia las normas técnicas estatales como criterios generales de carácter obligatorio, que tendrán por objeto establecer los requisitos, especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana para:
+La Secretaría en coordinación con la Secretaría de Salud emitirá en el ámbito de su competencia las normas técnicas estatales como criterios generales de carácter obligatorio, que tendrán por objeto establecer los requisitos, especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana para:
 
 I. El trato digno y respetuoso a los animales en los centros de control animal;
 
@@ -371,11 +417,27 @@ IX. Responsabilizarse de los daños, trastornos o perjuicios que el animal ocasi
 
 Los animales que asistan a personas con discapacidad, tienen libre acceso a todos los lugares y servicios públicos.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+ARTICULO 17 BIS.- La regulación sobre trato digno y respetuoso se formulará con base a los siguientes principios básicos:
+
+I. Suministrar a los animales agua y alimento suficientes, a efecto de mantenerlos sanos y con una nutrición adecuada;
+
+II. Proporcionar a los animales un ambiente adecuado para su descanso, movimiento y estancia, de acuerdo a cada tipo de especie;
+
+III. Suministrar a los animales atención médica preventiva y en caso de enfermedad brindar tratamiento médico expedito avalado por un médico veterinario;
+
+IV. Permitir a los animales la expresión de su comportamiento natural; y
+
+V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie.
+
 ### CAPITULO VIII. DEL TRATO DIGNO Y RESPETUOSO DE LOS ANIMALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 18.
 
-Toda persona física o jurídica tiene la obligación de brindar un trato digno a los animales, por lo que queda prohibido:
+Toda persona física o moral tiene la obligación de brindar un trato digno a los animales, por lo que queda prohibido:
 
 I. Maltratar a los animales o someterlos a cualquier otra práctica que les pueda producir sufrimiento o daños injustificados;
 
@@ -387,9 +449,9 @@ IV. Hacer donación de los mismos como premio, reclamo publicitario, recompensa 
 
 V. Venderlos a laboratorios, clínicas o para alimento;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Venderlos a menores de edad y a personas con discapacidad, sin la autorización por escrito de quienes tengan su patria potestad o custodia;
+VI. Venderlos a menores de edad, sin la autorización por escrito de quienes tengan su patria potestad o custodia;
 
 VII. Ejercer su venta ambulante sin autorización;
 
@@ -563,7 +625,9 @@ Quedan sujetos al control de las autoridades competentes, los animales catalogad
 
 Tendrán la consideración de perros manifiestamente peligrosos los siguientes:
 
-I. Aquellos que pertenezcan a una de las razas siguientes o a sus cruces: Pit Bull Terrier, Staffordshire Bull Terrier, American Staffodshire Terrier, Rottweiler, Dogo Argentino, Fila Brasileiro, Tosa Inu, Akita Inu, así como las razas que determine específicamente la Agencia Ambiental;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+I. Aquellos que pertenezcan a una de las razas siguientes o a sus cruces: Pit Bull Terrier, Staffordshire Bull Terrier, American Staffordshire Terrier, Rottweiler, Dogo Argentino, Fila Brasileiro, Tosa Inu, Akita Inu, así como las razas que determine específicamente la Secretaría;
 
 II. Aquellos cuyas características correspondan con todas o la mayoría de las siguientes:
 
@@ -641,7 +705,9 @@ La venta de animales será realizada en locales e instalaciones adecuadas para s
 
 Son establecimientos de venta o comercialización de animales aquellos que realicen como actividad primordial, la compraventa de animales domésticos y silvestres en cautiverio, pudiendo simultáneamente realizar la comercialización de complementos y productos para el acicalamiento y alimentación. Dichos establecimientos deberán colocar carteles con ilustraciones de las especies permitidas y las especies prohibidas.
 
-No podrán ser objeto de comercialización especies que puedan suponer un daño para los ecosistemas del Estado de Tamaulipas o a la salud o seguridad de sus habitantes. En todo caso, sólo se comercializarán especies incluidas en los listados presentados y aprobados para esa actividad por la Agencia Ambiental
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+No podrán ser objeto de comercialización especies que puedan suponer un daño para los ecosistemas del Estado de Tamaulipas o a la salud o seguridad de sus habitantes. En todo caso, sólo se comercializarán especies incluidas en los listados presentados y aprobados para esa actividad por la Secretaría.
 
 Las crías de los animales de circos y zoológicos públicos o privados no están sujetas al comercio abierto. Se debe de notificar a La Comisión de Vida Silvestre cuando sean enajenadas, intercambiadas, prestadas o donadas a terceras personas o trasladadas a otras instituciones.
 
@@ -731,6 +797,8 @@ Toda persona física o moral que se dedique a la cría, exhibición, venta, adie
 
 ### CAPITULO XVI. DE LOS CENTROS DE CONTROL ANIMAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 35.
 
 En el Estado de Tamaulipas para efectuarse prácticas de vivisección y experimentación se deberá demostrar que el acto por realizarse es en beneficio de la investigación científica y con fines docentes o didácticos y se autorizará solo en escuelas, institutos o centros escolares de educación superior o de investigación académica. En los niveles de enseñanza inferiores a los señalados, dichas prácticas serán sustituidas por esquemas, videos, materiales biológicos y otros métodos alternativos.
@@ -767,7 +835,7 @@ Las personas o instituciones que procedan a experimentar con animales deberán a
 
 ###### ARTICULO 38.
 
-La Agencia Ambiental, en coordinación con la Secretaría de Salud y los Ayuntamientos, implementarán cuando menos dos veces al año, campañas de vacunación antirrábica y de protección para perros y gatos, servicio que se ofrecerá de manera gratuita a los propietarios, poseedores o encargados de esos animales, preferentemente a quienes habiten en zonas marginadas de las ciudades y del campo.
+La Secretaría, en coordinación con la Secretaría de Salud y los Ayuntamientos, implementarán cuando menos dos veces al año, campañas de vacunación antirrábica y de protección para perros y gatos, servicio que se ofrecerá de manera gratuita a los propietarios, poseedores o encargados de esos animales, preferentemente a quienes habiten en zonas marginadas de las ciudades y del campo.
 
 Todos los perros serán vacunados obligatoriamente contra la rabia al cumplir los tres meses de edad. Las sucesivas revacunaciones se atendrán a las determinaciones establecidas por la Secretaría de Salud.
 
@@ -935,25 +1003,35 @@ IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de q
 
 La persona con quien se entienda la visita, podrá formular observaciones al final de la misma, las cuales deberán quedar asentadas en el acta; asimismo, podrá ofrecer pruebas en relación a los hechos contenidos en ella o bien ofrecerlas por escrito dentro del término de cinco días hábiles siguientes a la fecha en que se hubiere levantado.
 
-La Agencia Ambiental o los Ayuntamientos, en su caso, de conformidad con las disposiciones aplicables podrán verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o varias personas obstaculicen o se opongan a la practica de las misma, sin demérito a las sanciones que correspondan.
+La Secretaría o los Ayuntamientos, en su caso, de conformidad con las disposiciones aplicables podrán verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
+
+La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o varias personas obstaculicen o se opongan a la practica de las (sic) misma, sin demérito a las sanciones que correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 47.
 
-Recibida el acta de inspección por la autoridad ordenadora, se requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o urgentes necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento para que dentro del término de quince días hábiles exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes en relación con la actuación de la Agencia Ambiental o los Ayuntamientos, cuando les corresponda.
+Recibida el acta de inspección por la autoridad ordenadora, se requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o urgentes necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento para que dentro del término de quince días hábiles exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes en relación con la actuación de la Secretaría o los Ayuntamientos, cuando les corresponda.
 
-El tiempo para el desahogo de pruebas será de quince días. De ser el caso y cuando la naturaleza de las pruebas lo amerite, la Agencia Ambiental o los Ayuntamientos, según corresponda, podrán acordar la ampliación para el desahogo de las pruebas.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+El tiempo para el desahogo de pruebas será de quince días. De ser el caso y cuando la naturaleza de las pruebas lo amerite, la Secretaría o los Ayuntamientos, según corresponda, podrán acordar la ampliación para el desahogo de las pruebas.
 
 Admitidas y desahogadas las pruebas ofrecidas por el interesado o habiendo transcurrido el plazo a que se refiere el párrafo anterior sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones para que en un plazo (sic) tres días hábiles presente por escrito sus alegatos. Sin importar que el interesado haya hecho uso o no de su derecho de ofrecer pruebas, la autoridad deberá acordar lo conducente.
 
 Una vez oído el presunto infractor, recibidas y desahogadas las pruebas que ofreciere, en caso de que el interesado no haya hecho uso del derecho que le concede el párrafo anterior dentro del plazo mencionado, se procederá a dictar la resolución administrativa que corresponda, dentro de los treinta días hábiles siguientes, misma que se notificará al interesado personalmente o por correo certificado.
 
-Cuando así proceda, la Agencia Ambiental o los Ayuntamientos, en su caso, harán del conocimiento del Ministerio Público la realización de actos u omisiones constatadas en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando así proceda, la Secretaría o los Ayuntamientos, en su caso, harán del conocimiento del Ministerio Público la realización de actos u omisiones constatadas en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 48.
 
-Los Ayuntamientos o la Agencia Ambiental según sea el caso, en sus relaciones con los particulares, tendrán las siguientes obligaciones:
+Los Ayuntamientos o la Secretaría según sea el caso, en sus relaciones con los particulares, tendrán las siguientes obligaciones:
 
 I. Solicitar la comparecencia de éstos, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
 
@@ -973,7 +1051,9 @@ VIII. Facilitar el ejercicio de sus derechos y el cumplimiento de sus obligacion
 
 IX. Dictar resolución expresa sobre cuantas peticiones le formulen.
 
-Salvo que ya se encuentre previsto de manera expresa en la presente ley, no podrá exceder de tres meses el tiempo para que la Agencia Ambiental o los Ayuntamientos según sea el caso, resuelvan las peticiones que se les formulen.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Salvo que ya se encuentre previsto de manera expresa en la presente Ley, no podrá exceder de tres meses el tiempo para que la Secretaría o los Ayuntamientos según sea el caso, resuelvan las peticiones que se les formulen.
 
 Transcurrido el plazo referido o el aplicable, se entenderá que la falta de resolución entraña la negativa, salvo que en forma expresa se determine la afirmativa en ésta ley.
 
@@ -991,7 +1071,9 @@ El incumplimiento a lo dispuesto en el párrafo anterior, será causa de respons
 
 Se admitirán toda clase de pruebas, excepto la confesional de las autoridades y la testimonial. No se considerará comprendida en esta prohibición la petición de informes a las autoridades administrativas, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
-Los Ayuntamientos o la Agencia Ambiental según sea el caso, podrán allegarse los medios de prueba que consideren necesarios, sin más limitaciones que las establecidas en la ley.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Los Ayuntamientos o la Secretaría según sea el caso, podrán allegarse los medios de prueba que consideren necesarios, sin más limitaciones que las establecidas en la Ley.
 
 El desahogo de las pruebas ofrecidas y admitidas se realizará dentro de un plazo no menor a tres ni mayor a quince días contados a partir de su admisión.
 
@@ -1107,6 +1189,8 @@ Para efectos de la presente Ley, se reincide cuando habiendo quedado firme una r
 
 ### CAPITULO XXIII. DE LA COMISION ESTATAL DE PROTECCION A LOS ANIMALES
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTICULO 60.
 
 Contra las resoluciones emitidas por la autoridad competente, fundadas en esta ley, se podrá interponer el recurso de inconformidad dentro del término de cinco días hábiles siguientes a la fecha de su notificación.
@@ -1121,31 +1205,87 @@ La autoridad responsable dictará resolución en quince días hábiles, previo d
 
 ###### ARTICULO 61.
 
-Se crea la Comisión Estatal de Protección a los Animales, como el organismo auxiliar del Gobierno del Estado dedicado a la protección de los animales en todos sus órdenes.
+Se crea la Comisión Estatal de Protección a los Animales, como el órgano de coordinación institucional y participación y colaboración ciudadana, cuya integración se realizará a convocatoria de la Secretaría de Desarrollo Urbano y Medio Ambiente, misma que presidirá la Comisión y que tendrá como finalidad principal establecer acciones programáticas y fijar líneas de políticas zoológicas, ambientales y de sanidad, a efecto de garantizar la protección y el cuidado de los animales del Estado de Tamaulipas.
+
+Dicha Comisión además estará integrada por los titulares de las Secretarías de Salud, Educación y Desarrollo Rural, todos los cargos de los integrantes de la Comisión se entienden otorgados no a las personas sino al cargo de la dependencia que representen; consecuentemente por cada Titular se designará un suplente de la misma dependencia quien deberá sustituir al Titular en caso de ausencia, ejerciendo las mismas facultades de éstos, mismos que tendrán conocimientos en el tema de protección animal.
+
+Los cargos de los integrantes de la Comisión serán honoríficos.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 62.
 
-Son atribuciones de la Comisión Estatal de Protección a los Animales:
+La Comisión Estatal de Protección a los Animales, tendrá las siguientes facultades y obligaciones:
 
-I. La protección de todos los animales;
+I. Vigilar por que se cumpla el presente ordenamiento;
 
-II. Fomentar la creación de Asociaciones de Protección a los Animales;
+II. Proponer campañas y estrategias a favor del control y protección a los animales;
 
-III. Asesorar a instituciones públicas y privadas sobre métodos y procedimientos adecuados de atención a los animales; y
+III. Promover la cultura de la adopción de los animales;
 
-IV. Fomentar la cultura de respeto, consideración y cuidado a los animales.
+IV. Definir e instrumentar, en coordinación con los gobiernos municipales, las políticas públicas que habrán de regir en materia de protección animal;
+
+V. Proponer a los municipios o, en su caso, implementar las campañas de difusión que se realicen en materia de control y protección a los animales en coordinación con la Secretaría de Salud;
+
+VI. Fomentar la práctica de las actividades que propicien una cultura de respeto y protección animal;
+
+VII. Coadyuvar con la Secretaría de Salud, para la promoción de campañas de esterilización a animales domésticos;
+
+VIII. El desarrollo de las acciones establecidas en los convenios que la Secretaría establezca con los sectores sociales, privado, académico y de investigación en la materia de protección animal;
+
+IX. El fomento a la creación de manuales de cuidados realizados por los Ayuntamientos; y
+
+X. Las demás que se desprendan del presente ordenamiento.
+
+La Comisión sesionará por lo menos una vez cada tres meses y funcionará conforme a lo dispuesto por su propio reglamento y el plan de trabajo, que serán emitidos por dicho órgano.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 63.
 
-Los nombramientos de Presidente y Secretario de la Comisión serán expedidos por el C. Gobernador del Estado. La Comisión Estatal de Protección a los animales invitará a participar a los funcionarios federales, estatales y municipales que considere conveniente.
+Los nombramientos de Presidente y Secretario de la Comisión serán expedidos por el C. Gobernador del Estado, a través de la Secretaría de Desarrollo Urbano y Medio Ambiente. La Comisión Estatal de Protección a los animales invitará a participar a los funcionarios federales, estatales y municipales que considere conveniente.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 64.
 
-La Comisión será un órgano de consulta y asesoría del Ejecutivo del Estado. El Reglamento Interior que expida la Comisión especificará la organización y funcionamiento de ésta.
+La Comisión estará integrada de la siguiente manera:
+
+I. El titular de cada una de las secretarías de:
+
+a) Desarrollo Urbano y Medio Ambiente, quien presidirá la Comisión;
+
+b) Salud;
+
+c) Educación; y
+
+d) Desarrollo Rural;
+
+II. Siete representantes de las asociaciones protectoras de animales constituidas legalmente; y
+
+III. Un Secretario Técnico.
+
+Por lo que corresponde a los integrantes de las fracciones II y III, tendrán presencia permanente en las sesiones y contarán con voz en las sesiones de las mismas.
+
+La Secretaría Técnica del Consejo será elegida por la presidencia de la Comisión de entre los integrantes de las asociaciones que constituyan la misma, y su remuneración gravitará en el presupuesto de la Comisión.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 65.
 
-En el Estado de Tamaulipas se podrán crear Comités, Juntas, Asociaciones, Sociedades o cualquier otro instrumento análogo de carácter privado para proteger a los animales y recibirán de la Comisión el reconocimiento y el apoyo por la actividad que realizan.
+El procedimiento y requisitos para la determinación de los representantes de las asociaciones protectoras de animales que habrán de acudir a las sesiones del Consejo, se hará de la siguiente forma:
+
+I. Un total de cinco representantes de asociaciones de los municipios pertenecientes a la Zona Norte del Estado, Zona Centro, y Zona Sur; y
+
+II. Enviar carta de exposición de motivos, en la cual se expongan las razones por las que desea ser partícipe del Consejo.
+
+III. Propuesta de Trabajo que llevaría a cabo en caso de ser aprobada como parte integrante de la Comisión.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 66.
+
+La Comisión tendrá la facultad de convocar a gobiernos municipales, así como a ciudadanos expertos en la materia, con el fin de desarrollar de manera eficiente los temas propuestos y aportar sus conocimientos y experiencia, los cuales contarán con voz dentro de las sesiones correspondientes.
 
 T R A N S I T O R I O S
 
@@ -1214,6 +1354,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 15 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-366 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSOS ORDENAMIENTOS PARA FORTALECER LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-463 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS; Y SE ADICIONA LA FRACCIÓN XIII, RECORRIÉNDOSE LA ACTUAL PARA SER XIV DEL ARTÍCULO 64 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
