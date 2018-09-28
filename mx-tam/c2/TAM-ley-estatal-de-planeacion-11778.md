@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-planeacion-11778"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "2018-05-03"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 19 de septiembre de 1984.
 
@@ -59,9 +59,17 @@ III.- Las bases para que el Ejecutivo Estatal coordine sus actividades de planea
 
 IV.- Las bases para que el Ejecutivo Estatal coordine sus actividades de planeación con los Municipios, conforme a la Legislación aplicable;
 
-V.- Las bases para promover y garantizar la participación democrática de los diversos grupos sociales, a través de sus organizaciones representativas, en la elaboración de los Planes y Programas a que se refiere esta Ley; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-VI.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades de Planes y Programas.
+V.- Las bases para promover y garantizar la participación democrática de los diversos grupos sociales, a través de sus organizaciones representativas, en la elaboración de los Planes y Programas a que se refiere esta Ley;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+VI.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades de Planes y Programas; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+VII.- Las bases para promover y garantizar la igualdad entre mujeres y hombres y la incorporación de la perspectiva de género en el Plan Estatal de Desarrollo y en los programas a que se refiere esta ley.
 
 ###### ARTICULO 2.
 
@@ -71,7 +79,9 @@ I.- El fortalecimiento de la soberanía, la independencia y autodeterminación n
 
 II.- La preservación y el perfeccionamiento del Régimen Democrático, Republicano, Federal y Representativo que las Constituciones Políticas Federal y Estatal establecen; y la consolidación de la Democracia como sistema de vida, fundada en el constante mejoramiento económico, social y cultural del pueblo, impulsando su participación activa en la planeación y ejecución de las actividades del Gobierno;
 
-III.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría en todos los aspectos de la calidad de vida, para lograr una sociedad más igualitaria;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+III.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría en todos los aspectos de la calidad de vida, para lograr una sociedad más igualitaria, sin las limitaciones impuestas por los roles tradicionales en función del género, y en la que se tengan en cuenta, valoren y potencien por igual las distintas conductas, aspiraciones y necesidades de mujeres y hombres;
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2018)</small>
 
@@ -87,7 +97,9 @@ VI.- El equilibrio de los factores de la producción, que proteja y promueva el 
 
 Para los efectos de esta ley, se entiende por planeación estatal del desarrollo, la ordenación racional y sistemática de acciones que con base en el ejercicio de las atribuciones del Ejecutivo Estatal y de los Ayuntamientos, en materia de regulación y promoción de la actividad económica, social, política, cultural, de protección al medio ambiente y desarrollo sustentable, tiene como propósito el mejoramiento de la realidad del Estado, de acuerdo a las normas, principios y objetivos que la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado de Tamaulipas y las leyes de la materia establecen.
 
-Mediante la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones y se evaluarán los resultados.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Mediante la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución, y se coordinarán acciones y se evaluarán los resultados social, técnica y económicamente, así como con perspectiva de género.
 
 ###### ARTICULO 4.
 
@@ -169,7 +181,9 @@ Las disposiciones reglamentarias de esta Ley establecerán las normas de organiz
 
 La Coordinación General de Planeación para el Desarrollo del Estado de Tamaulipas, con el apoyo de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, tendrá las siguientes atribuciones:
 
-I.- Integrar y actualizar, en congruencia con el Plan Nacional de Desarrollo y con los Planes Municipales, el Plan Estatal de Desarrollo, tomando en cuenta las propuestas de las dependencias y entidades de la Administración Pública Estatal, de los Gobiernos Municipales y los planteamientos que se formulen por los grupos sociales interesados;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+I.- Integrar y actualizar, en congruencia con el Plan Nacional de Desarrollo y con los Planes Municipales, el Plan Estatal de Desarrollo, tomando en cuenta la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género, las propuestas de las dependencias y entidades de la administración pública estatal, de los gobiernos municipales y los planteamientos que se formulen por los grupos sociales interesados;
 
 II.- Coordinar la evaluación y seguimiento técnico del Plan Estatal de Desarrollo, verificando la congruencia entre sí de los programas y proyectos que formulen los Gobiernos Federal, Estatal y Municipales con el cumplimiento oportuno de los objetivos señalados en el Plan;
 
@@ -193,7 +207,9 @@ X.- Las demás que le otorguen otros ordenamientos jurídicos.
 
 A la Tesorería General del Estado le corresponde:
 
-I.- Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de las políticas financieras, fiscales y crediticias;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+I.- Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de las políticas financieras, fiscales y crediticias, en las que se deberá observar el principio de igualdad entre el hombre y la mujer mediante la incorporación de la perspectiva de género;
 
 II.- Proyectar y calcular los ingresos de las dependencias y entidades de la Administración Pública Estatal, así como las participaciones municipales considerando las necesidades de recursos y la utilización del Crédito Público, para la ejecución del Plan Estatal, y de los Programas que de ellos se deriven;
 
@@ -203,7 +219,7 @@ IV.- Verificar que las operaciones en que se haga uso del crédito público prev
 
 V.- Considerar los efectos de la política crediticia adoptada para el logro de los objetivos y prioridades del Plan Estatal y de los Programas; y
 
-VI -Adecuar y diseñar un sistema de contabilidad congruente con los objetivos y prioridades del Plan Estatal y de los Programas que de él se deriven, para sistematizar programáticamente la contabilidad Estatal.
+VI.- Adecuar y diseñar un sistema de contabilidad congruente con los objetivos y prioridades del Plan Estatal y de los Programas que de él se deriven, para sistematizar programáticamente la contabilidad Estatal.
 
 ###### ARTICULO 17.
 
@@ -213,11 +229,17 @@ I.- Intervenir respecto de las materias que les competen, en la elaboración del
 
 II.- Coordinar el desempeño de las actividades que en materia de planeación correspondan a las entidades de la Administración Pública Estatal que se agrupen en el sector que, conforme a la Ley Orgánica de la Administración Pública, determine el Gobernador del Estado;
 
-III.- Elaborar Programas Sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector y los Gobiernos de los Municipios, así como las opiniones de los grupos sociales interesados;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-IV.- Asegurar la congruencia de los Programas Sectoriales con el Plan Estatal, con los Planes Municipales y con los Programas que de ellos se deriven;
+III.- Elaborar Programas Sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector y los Gobiernos de los Municipios, así como las opiniones de los grupos sociales interesados, observando siempre la igualdad entre mujeres y hombres a través de la incorporación con perspectiva de género;
 
-V.- Elaborar los Programas Operativos Anuales para la ejecución de los Programas Sectoriales correspondientes;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- Asegurar la congruencia de los Programas Sectoriales con el Plan Estatal, con los Planes Municipales y con los Programas que de ellos se deriven, y con el principio de igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+V.- Elaborar los Programas Operativos Anuales para la ejecución de los Programas Sectoriales correspondientes, observando siempre la igualdad entre mujeres y hombres a través de la incorporación con perspectiva de género;
 
 VI.- Considerar el ámbito territorial de las acciones previstas en su programa, procurando su congruencia con los objetivos y prioridades de los planes y Programas que formule el Gobierno Federal y los Ayuntamientos;
 
@@ -240,6 +262,10 @@ IV.- Considerar el ámbito territorial de sus acciones, atendiendo los presupues
 V.- Asegurar la congruencia del Programa Institucional con el Programa Sectorial respectivo; y
 
 VI.- Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución con los objetivos y prioridades del Programa Institucional.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+En el cumplimiento de las obligaciones que le imponen las fracciones anteriores a las entidades de la administración pública estatal, éstas deberán vigilar el respeto al principio de igualdad entre el hombre y la mujer.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -295,7 +321,9 @@ El Plan Estatal de Desarrollo, sobre el diagnóstico que se elabore, precisará 
 
 Los planes municipales de desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, y establecerán los lineamientos de política de carácter municipal, sectorial y de servicios municipales.
 
-Sus previsiones se referirán al conjunto de la actividad económica y social, y regirán el contenido de los Programas Operativos Anuales, siempre en concordancia con el Plan Estatal y con el Plan Nacional de Desarrollo.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+Sus previsiones se referirán al conjunto de la actividad económica y social, y regirán el contenido de los Programas Operativos Anuales, siempre en concordancia con el Plan Estatal y con el Plan Nacional de Desarrollo, y con el principio de igualdad entre el hombre y la mujer.
 
 ###### ARTICULO 27.
 
@@ -624,6 +652,14 @@ Artículo Segundo. El Consejo Económico y Social se conformará e instalará de
 P.O. 3 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-398 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE IMPRENTA Y DE LA LEY ESTATAL DE PLANEACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-464 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PLANEACIÓN Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
