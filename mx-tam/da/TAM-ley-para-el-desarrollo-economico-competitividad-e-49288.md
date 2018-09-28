@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2018-06-12"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -309,11 +309,11 @@ XIII. Desarrollar estrategias para promover la instalación de empresas en regio
 
 XIV. Promover y gestionar ante el Ejecutivo Estatal la firma de convenios de colaboración con gobiernos de otras entidades federativas, a fin de impulsar la ejecución conjunta de programas de desarrollo regional;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XV. Alentar acciones para incorporar a las actividades productivas a las personas con discapacidad y a los adultos mayores;
+XV. Alentar acciones para incorporar a las actividades productivas a las personas con discapacidad y a los adultos mayores con criterios de igualdad de género y equilibrio entre los segmentos de edad de 18 a 35 años, de 36 a 59 años, y de 60 y más años.
 
-Así mismo, con el objeto de alentar la incorporación de los jóvenes al sector productivo se fomentará la realización de ferias de empleo dirigidas preponderante (sic) a personas menores de 30 años en coordinación con los tres niveles de gobierno;
+Así mismo, con el objeto de alentar la incorporación de los jóvenes al sector productivo se fomentará la realización de ferias de empleo dirigidas preponderantemente a personas menores de 30 años, incluyendo en este segmento a universitarios y profesionistas recién egresados, en coordinación con los tres niveles de gobierno;
 
 XVI. Promover los productos y servicios tamaulipecos hacia nuevos mercados, tanto nacionales como internacionales;
 
@@ -325,9 +325,9 @@ XVIII. Fomentar e implementar la creación y desarrollo de parques y corredores 
 
 XIX. Emitir opinión en el seno del Consejo sobre el destino y uso del suelo, así como de terrenos susceptibles para la ubicación de empresas que coadyuven al desarrollo económico sustentable de los municipios;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XX. Apoyar proyectos productivos y de innovación de los jóvenes para estimular su capacidad emprendedora;
+XX. Apoyar proyectos productivos y de innovación de los jóvenes, incluyendo en este segmento a universitarios y profesionistas recién egresados, para estimular su capacidad emprendedora;
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -383,9 +383,9 @@ III. Celebrar convenios con instituciones educativas, que permitan dar a conocer
 
 IV. Identificar y promover la creación de nuevas carreras profesionales y técnicas que demandan los sectores industrial, comercial y de servicios, para orientar a los estudiantes en áreas de mayor oportunidad laboral y desarrollo personal, así como mejor remuneradas;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-V. Apoyar la realización de foros, conferencias y reuniones que tengan como objetivo establecer un contacto directo de los jóvenes con el ambiente de negocios, innovación, nuevas tecnologías y formación empresariales así como conocer los apoyos que brindan los tres órdenes de gobierno para la creación de empresas; y
+V. Apoyar la realización de foros, conferencias y reuniones que tengan como objetivo establecer un contacto directo de los jóvenes, incluyendo en este segmento a universitarios y profesionistas recién egresados, con el ambiente de negocios, innovación, nuevas tecnologías y formación empresariales así como conocer los apoyos que brindan los tres órdenes de gobierno para la creación de empresas; y
 
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
@@ -443,9 +443,9 @@ XI. Informar al término de cada sesión, en forma oportuna y veraz, sobre las d
 
 XII. (DEROGADA, P.O. 12 DE JUNIO DE 2018)
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XIII. Proponer la entrega de reconocimientos a empresas tamaulipecas que contribuyan al desarrollo y la innovación científica y tecnológica; realicen acciones a favor del desarrollo sustentable y para mejorar el medio ambiente; desarrollen procedimientos para incrementar la competitividad y productividad del recurso humano; incorporen jóvenes, adultos mayores y personas con discapacidad a su planta laboral, y participen activamente en el comercio exterior;
+XIII. Proponer la entrega de reconocimientos a empresas tamaulipecas que contribuyan al desarrollo y la innovación científica y tecnológica; realicen acciones a favor del desarrollo sustentable y para mejorar el medio ambiente; desarrollen procedimientos para incrementar la competitividad y productividad del recurso humano; incorporen jóvenes, incluyendo en este segmento a universitarios y profesionistas recién egresados, adultos mayores y personas con discapacidad a su planta laboral, y participen activamente en el comercio exterior;
 
 > <small>(ADICIONADA, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -1334,3 +1334,11 @@ P.O. 12 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-466 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4° FRACCIONES XV Y XX; 5° FRACCIÓN V; Y 7°, FRACCIÓN XIII, DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
