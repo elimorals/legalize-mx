@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2016-12-21"
+last_updated: "2018-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -385,9 +385,17 @@ IV.- En el período de lactancia tendrán derecho a decidir entre contar con dos
 
 V.- Durante los períodos de descanso a que se refiere la fracción II, percibirán su salario íntegro. En los casos de prórroga mencionados en la fracción III, tendrán derecho al cincuenta por ciento de su salario por un período no mayor de sesenta días. Durante el trascurso del período de sesenta días antes citado, se realizarán las retenciones de las aportaciones de seguridad social en el sueldo de la trabajadora, sin contemplar el descuento que fue objeto el sueldo de la trabajadora;
 
-VI.- A regresar al puesto que desempeñaban, siempre que no haya transcurrido más de un año de la fecha del parto; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-VII.- A que se computen en su antigüedad los periodos pre y postnatales.
+VI.- A regresar al puesto que desempeñaban, siempre que no haya transcurrido más de un año de la fecha del parto;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+VII.-A que se computen en su antigüedad los períodos pre y postnatales; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+VIII.- Las mujeres trabajadoras gozarán de un permiso al año, con goce íntegro de su sueldo, para someterse a la realización de exámenes médicos de prevención del cáncer de mama y cervicouterino; para justificar este permiso, se deberá presentar el certificado médico correspondiente expedido por una institución pública o privada de salud.
 
 ## TITULO TERCERO. OBLIGACIONES DEL GOBIERNO DEL ESTADO Y SUS TRABAJADORES
 
@@ -435,13 +443,19 @@ XV.- Notificar al sindicato únicamente respecto al personal de base sindical pu
 
 XVI.- Conceder licencias y comisiones a los integrantes del comité directivo del sindicato y personal administrativo indispensable para su funcionamiento;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
-XVII.- Otorgar permiso de paternidad de cinco días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante; y
+XVII.- Otorgar permiso de paternidad de cinco días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII.- Otorgar a las y los trabajadores al servicio del Estado, un día laborable al año, con goce integro de su sueldo para someterse a la realización de exámenes médicos preventivos del cáncer de mama, cervicouterino y próstata según sea el caso, para lo cual deberán presentar la constancia o certificado médico, correspondiente a la realización de dichos exámenes, expedido por una institución pública o privada de salud.
+
+Los permisos señalados en esta fracción no podrán ser sujetos de compensación económica en caso de no ser ejercidos; y
 
 > <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XVIII.- Otorgar a los trabajadores al servicio del Gobierno del Estado, permisos económicos con goce de sueldo, los que se fijarán en los respectivos Reglamentos de las Condiciones Generales de Trabajo.
+XIX.- Otorgar a los trabajadores al servicio del Gobierno del Estado, permisos económicos con goce de sueldo, los que se fijarán en los respectivos Reglamentos de las Condiciones Generales de Trabajo.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1504,3 +1518,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-460 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 32 BIS, FRACCIONES VI Y VII; Y 33, FRACCIÓN XVII; Y SE ADICIONAN LA FRACCIÓN VIII AL ARTÍCULO 32 BIS; Y LA FRACCIÓN XVIII, RECORRIÉNDOSE A LA ACTUAL PARA SER XIX AL ARTÍCULO 33, DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS".]
+
+ARTÍCULO PRIMERO (SIC). El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
