@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2016-11-22"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -283,23 +283,29 @@ LXXXVI. Servicio de limpia: Los sistemas de recolección, transporte, transferen
 
 LXXXVII. Servicios ambientales: Los beneficios de interés social que se derivan de la vida silvestre y su hábitat, tales como la regulación climática, la conservación de los ciclos hidrológicos, la fijación de nitrógeno, la formación de suelo, la captura de carbono, el control de la erosión, la polinización de plantas, el control biológico de plagas o la degradación de residuos orgánicos;
 
-LXXXVIII. Tratamiento: Los procedimientos mecánicos, físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad, para su posterior aprovechamiento total o parcial;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+LXXXVIII. Servicios ambientales hidrológicos: son los beneficios directos e indirectos que recibe la población como resultado de la conservación, manejo y gestión responsable de ecosistemas naturales en áreas de importancia hídrica, tales como la provisión de agua, la restauración de sitios degradados en el área de captación hídrica, la recuperación de suelos y de ecosistemas forestales, la protección de la biodiversidad, el cuidado de la belleza natural para la recreación y el ecoturismo, así como la educación y la investigación;
 
-LXXXIX. Unidad de Medida y Actualización: La unidad de medida y actualización vigente en el Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
+LXXXIX. Tratamiento: Los procedimientos mecánicos, físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad, para su posterior aprovechamiento total o parcial;
 
-XC. Vocación natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que produzcan desequilibrios ecológicos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2012)</small>
+XC. Unidad de Medida y Actualización: La unidad de medida y actualización vigente en el Estado;
 
-XCI. Cédula de Operación Anual: Es un mecanismo de reporte anual mediante el cual los responsables de las fuentes fijas de competencia estatal dan a conocer a la autoridad ambiental las actualizaciones sobre su operación y deriva de las obligaciones fijadas en la licencia local de funcionamiento; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2012)</small>
+XCI. Vocación natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que produzcan desequilibrios ecológicos;
 
-XCII. Licencia Local de Funcionamiento: Es un trámite de regulación obligatoria, mediante el cual las fuentes fijas de competencia estatal que emiten o puedan emitir radiaciones electromagnéticas, olores, humos, ruido, vibraciones, gases o partículas sólidas o líquidas a la atmósfera dan cumplimiento a las obligaciones ambientales establecidas en la Ley.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XCII.- Cédula de Operación Anual: Es un mecanismo de reporte anual mediante el cual los responsables de las fuentes fijas de competencia estatal dan a conocer a la autoridad ambiental las actualizaciones sobre su operación y deriva de las obligaciones fijadas en la licencia local de funcionamiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XCIII.- Licencia Local de Funcionamiento: Es un trámite de regulación obligatoria, mediante el cual las fuentes fijas de competencia estatal que emiten o puedan emitir radiaciones electromagnéticas, olores, humos, ruido, vibraciones, gases o partículas sólidas o líquidas a la atmósfera dan cumplimiento a las obligaciones ambientales establecidas en la Ley.
 
 ###### ARTÍCULO 4º.
 
@@ -1213,9 +1219,85 @@ La Secretaría podrá invitar a las sesiones del fideicomiso al Delegado de la S
 
 El comité técnico se regirá por el reglamento interior que al efecto se expida y contará con un Secretario Técnico, que será designado por el titular de la Secretaría.
 
-### CAPÍTULO X. INCENTIVOS Y ESTÍMULOS FISCALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO XI. EDUCACIÓN E INVESTIGACIÓN AMBIENTALES
+### CAPÍTULO IX BIS. SOBRE LA COMPENSACIÓN POR SERVICIOS AMBIENTALES HIDROLÓGICOS
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 72 BIS.- Con base en lo dispuesto por la fracción VII del artículo 1o de esta Ley, las personas naturales o jurídicas, públicas o privadas, podrán solicitar la compensación por servicios ambientales hidrológicos a favor de comunidades y de propietarios o poseedores de terrenos localizados en zonas de protección hidrológica, con la finalidad de incentivar la conservación, recuperación y uso sustentable de esos ecosistemas naturales.
+
+Para efectos del párrafo anterior, se crearán Mecanismos Municipales e Intermunicipales de compensación por servicios ambientales hidrológicos, pudiendo constituirse solamente uno por cada Municipio o en las zonas donde exista convenio de los mismos para la prestación del servicio de agua potable, el cual asentará su domicilio en el Municipio donde se haya creado.
+
+Cada uno de estos mecanismos tendrá como objeto instituir un acuerdo vinculante de reciprocidad entre la población beneficiaria de los servicios ambientales hidrológicos y los prestadores de los mismos, por la conservación solidaria de las zonas de protección hidrológica, de manera que se garantice a largo plazo el mantenimiento de la cantidad y calidad de agua suficientes para aprovisionar a la población del Municipio o la zona de que se trate.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 72 TER.- Los Mecanismos Municipales e Intermunicipales de Compensación por Servicios Ambientales Hidrológicos contarán con los siguientes órganos:
+
+I. Junta Directiva, como máximo órgano de gobierno y de coordinación;
+
+II. Comité Técnico de Dictaminación, encargado de la convocatoria y manejo de los proyectos que se financiarán; y
+
+III. Comité de Monitoreo y Evaluación Social, cuya finalidad es transparentar y fiscalizar el uso de los recursos que se administren.
+
+La integración y las atribuciones de los Comités Técnico de Dictaminación, y de Monitoreo y Evaluación serán determinadas por la Junta Directiva en el reglamento interior del Mecanismo de Compensación.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 72 QUÁTER.- La Junta Directiva estará integrada por:
+
+I. Un representante de las comunidades y de los propietarios y poseedores de terrenos localizados en la zona de protección hidrológica, quien la presidirá;
+
+II. Un representante del organismo operador de agua, quien fungirá como Secretario Técnico;
+
+III. Un representante de cada uno de los Ayuntamientos del Municipio donde se crea el mecanismo;
+
+IV. Un representante especialista en medio ambiente, nombrado por una institución académica de educación superior del Municipio donde se crea el mecanismo;
+
+V. Un representante de la Secretarla de Infraestructura y Desarrollo Urbano del Poder Ejecutivo;
+
+VI. Un representante del Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima;
+
+VII. El Diputado Presidente de la Comisión de Protección y Mejoramiento Ambiental del H. Congreso del Estado;
+
+VIII. Un representante de la Comisión Nacional Forestal;
+
+IX. Un representante de la comisión Nacional de Áreas Naturales Protegidas; y
+
+X. Un representante de una organización no gubernamental constituida legalmente en el Estado de Colima que trabaje en la zona donde se crea el mecanismo de compensación, el cual será designado por el Presidente de la Junta Directiva.
+
+Todos los miembros de la Junta Directiva tendrán derecho a voz y voto, y su desempeño será honorario, por lo que no recibirán remuneración alguna. La Junta Directiva sesionará en la periodicidad que lo considere adecuado y tomará sus acuerdos por mayoría de votos, en caso de empate el presidente tendrá voto de calidad. Para su organización y funcionamiento, la Junta Directiva atenderá al Reglamento Interno del Mecanismo de Compensación, en el que se establecerán sus atribuciones y facultades, de acuerdo a las disposiciones establecidas en esta Ley y demás legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 72 QUINQUIES.- Los Mecanismos Municipales e Intermunicipales de compensación por servicios ambientales hidrológicos establecerán un fideicomiso privado, como herramienta financiera para obtener, aplicar, administrar e invertir los recursos propios y donativos que conformen su patrimonio. La Junta Directiva fungirá como fideicomitente; en caso de no ser posible, elegirá como tal a una organización no gubernamental con representación mayoritaria o total de los prestadores de servicios ambientales de la zona de protección hidrológica que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 72 SEXIES.- El Fideicomiso se destinará de manera exclusiva a estos propósitos:
+
+I. Conservar los ecosistemas forestales en zonas de protección hidrológica;
+
+II. Compensar a las comunidades y a los propietarios o poseedores de las zonas de protección hidrológica;
+
+III. Mejorar las condiciones de vida y las oportunidades de las comunidades y los propietarios o poseedores de las zonas de protección hidrológica; y
+
+IV. Mantener a largo plazo los beneficios que obtiene la población a través de los servicios ambientales hidrológicos.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 72 SEPTIES.- Los recursos del Fideicomiso de los Mecanismos Municipales e Intermunicipales de compensación por servicios ambientales hidrológicos se integrarán con:
+
+I. Los ingresos que aporten el fideicomitente y la población beneficiaria de los servicios ambientales hidrológicos;
+
+II. Las aportaciones gubernamentales de dependencias federares (sic), estatales y municipales;
+
+III. Los intereses y rendimientos que genere la inversión de las cantidades de dinero fideicomitidas; y
+
+Los demás recursos que se generen por cualquier otro concepto.
+
+### CAPÍTULO X. INCENTIVOS Y ESTÍMULOS FISCALES
 
 ###### ARTÍCULO 73.
 
@@ -1255,7 +1337,7 @@ ARTÍCULO 73 BIS 2.- Se consideran instrumentos económicos de carácter fiscal,
 
 ARTÍCULO 73 BIS 3.- Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación del equilibrio ecológico y protección al ambiente.
 
-### CAPÍTULO XII. PARTICIPACIÓN SOCIAL
+### CAPÍTULO XI. EDUCACIÓN E INVESTIGACIÓN AMBIENTALES
 
 ###### ARTÍCULO 74.
 
@@ -1283,7 +1365,7 @@ Para efectos de lo dispuesto por el artículo anterior, la Secretaría establece
 
 La Secretaría y los ayuntamientos en coordinación con las autoridades competentes, fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
-### CAPÍTULO XIII. INFORMACIÓN AMBIENTAL
+### CAPÍTULO XII. PARTICIPACIÓN SOCIAL
 
 ###### ARTÍCULO 77.
 
@@ -1323,7 +1405,7 @@ El Consejo Consultivo Ambiental Estatal tendrá funciones de asesoría, evaluaci
 
 Se instituye el Premio Ambiental Estatal en las áreas de desarrollo en investigación científica y tecnológica, protección del ambiente, cultura ambiental y proyectos especiales, el cual será otorgado cada año por el Gobernador a propuesta del Consejo Consultivo Ambiental Estatal.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO XIII. INFORMACIÓN AMBIENTAL
 
 ###### ARTÍCULO 81.
 
@@ -1387,7 +1469,7 @@ En caso de procedencia, la Secretaría, dentro de los 10 días hábiles siguient
 
 ## TÍTULO CUARTO. PRESERVACIÓN, PROTECCIÓN, RESTAURACIÓN Y APROVECHAMIENTO DE LA BIODIVERSIDAD Y LOS RECURSOS NATURALES
 
-### CAPÍTULO II. ÁREAS Y ESPACIOS VERDES MUNICIPALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 87.
 
@@ -1403,7 +1485,7 @@ III. La elaboración de los programas de manejo técnico de forestación, refore
 
 IV. La promoción del uso de controles biológicos de plagas y enfermedades conforme a las disposiciones jurídicas aplicables.
 
-### CAPÍTULO III. ÁREAS DE VALOR AMBIENTAL
+### CAPÍTULO II. ÁREAS Y ESPACIOS VERDES MUNICIPALES
 
 ###### ARTÍCULO 88.
 
@@ -1463,9 +1545,7 @@ Los ayuntamientos podrán celebrar convenios con los vecinos de los parques urba
 
 Las áreas y espacios verdes municipales bajo las categorías de parques urbanos, de barrio, jardines cívicos o áreas análogas establecidas en los programas municipales de desarrollo urbano, no podrán ser alteradas en su superficie o ser sujetas a cambio de uso de suelo, quedando prohibido la construcción de edificaciones con excepción de aquellas destinadas a su cuidado, fomento cultural o educación ambiental.
 
-### CAPÍTULO IV. ÁREAS NATURALES PROTEGIDAS DE JURISDICCIÓN DEL ESTADO
-
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
+### CAPÍTULO III. ÁREAS DE VALOR AMBIENTAL
 
 ###### ARTÍCULO 93.
 
@@ -1507,9 +1587,9 @@ Los programas de manejo de las áreas de valor ambiental que elabore la Secretar
 
 Las prohibiciones que establece la presente Ley en relación con las áreas naturales protegidas, deberán observarse para las áreas de valor ambiental, además de la prohibición para el aprovechamiento o extracción de recursos naturales, salvo en aquellos casos que se determinen en el reglamento respectivo, observando las disposiciones de la presente Ley.
 
-### CAPÍTULO V. FLORA Y FAUNA
+### CAPÍTULO IV. ÁREAS NATURALES PROTEGIDAS DE JURISDICCIÓN DEL ESTADO
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 99.
 
@@ -1729,7 +1809,9 @@ Todos los actos, convenios y contratos relativos a la propiedad, posesión o cua
 
 Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan, cuando se cumpla con lo dispuesto en el presente artículo.
 
-### CAPÍTULO VI. DISPOSICIONES GENERALES Y COMPLEMENTARIAS PARA EL APROVECHAMIENTO DE LOS RECURSOS NATURALES
+### CAPÍTULO V. FLORA Y FAUNA
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 118.
 
@@ -1791,7 +1873,7 @@ La autoridad ambiental competente expedirá los formatos y lineamientos a que de
 
 Toda persona que derribe un árbol en la vía pública o en bienes del dominio público o en propiedades de particulares, deberá restituirlo entregando a la autoridad ambiental competente los ejemplares que determine, sin perjuicio de la aplicación de la sanción a que se refiere la presente Ley en caso de derribo sin autorización previa. Se equipara al derribo de árboles cualquier acto que provoque su muerte.
 
-### CAPÍTULO VII. TURISMO ALTERNATIVO
+### CAPÍTULO VI. DISPOSICIONES GENERALES Y COMPLEMENTARIAS PARA EL APROVECHAMIENTO DE LOS RECURSOS NATURALES
 
 #### SECCIÓN I. AGUA Y ECOSISTEMAS ACUÁTICOS
 
@@ -1833,7 +1915,7 @@ V. La realización de las obras públicas o privadas que por sí mismas puedan p
 
 Quienes realicen actividades agrícolas y ganaderas deberán llevar a cabo las prácticas de preservación, aprovechamiento sustentable y restauración necesarias para evitar el deterioro de los suelos y del equilibrio ecológico, en los términos de lo dispuesto por ésta y demás leyes aplicables.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VII. TURISMO ALTERNATIVO
 
 ###### ARTÍCULO 126.
 
@@ -1897,7 +1979,7 @@ Para los efectos de este Capítulo, queda prohibido toda actividad cinegética, 
 
 ## TÍTULO QUINTO. NORMATIVIDAD DE LA PROTECCIÓN AMBIENTAL
 
-### CAPÍTULO II. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 132.
 
@@ -1905,7 +1987,7 @@ La Secretaría integrará un registro de fuentes, emisiones y transferencia de c
 
 Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro y se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
 
-### CAPÍTULO III. CONTROL DE EMISIONES PROVENIENTES DE FUENTES FIJAS
+### CAPÍTULO II. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
 ###### ARTÍCULO 133.
 
@@ -1985,7 +2067,7 @@ III. Determinar las medidas de tránsito y, en su caso, la suspensión de circul
 
 Las autoridades estatales y municipales, en su caso, promoverán en las zonas que se hubiesen determinado como aptas para uso industrial cercanas a las áreas habitacionales, la instalación de industrias que utilicen tecnologías y energéticos no contaminantes o de baja contaminación y que no genere radiaciones electromagnéticas, humos, vapores, olores, ruido y vibraciones por encima de los límites máximos permisibles establecidos en las normas aplicables.
 
-### CAPÍTULO IV. CONTROL DE EMISIONES PROVENIENTES DE FUENTES MÓVILES
+### CAPÍTULO III. CONTROL DE EMISIONES PROVENIENTES DE FUENTES FIJAS
 
 ###### ARTÍCULO 138.
 
@@ -2045,7 +2127,7 @@ La Cédula de Operación Anual deberá presentarse en el formato que determine l
 
 De no entregar en tiempo y forma la Cédula de Operación Anual, se cancelará la licencia aprobada que dio origen al reporte anual, teniendo que ingresar nuevamente la información referida en los artículos 139 y 140 de la presente Ley.
 
-### CAPÍTULO V. CONTAMINACIÓN VISUAL Y PROTECCIÓN DEL PAISAJE
+### CAPÍTULO IV. CONTROL DE EMISIONES PROVENIENTES DE FUENTES MÓVILES
 
 ###### ARTÍCULO 141.
 
@@ -2067,7 +2149,7 @@ La Secretaría podrá limitar la circulación de automotores terrestres o acuát
 
 El propietario o poseedor del automotor terrestre deberá realizar la verificación a que se refiere el párrafo anterior en el municipio donde resida, o cuando se trate de automotores acuáticos en el municipio donde desarrolle su actividad.
 
-### CAPÍTULO VI. CONTAMINACIÓN GENERADA POR RUIDO, VIBRACIONES, OLORES, RADIACIONES ELECTROMAGNÉTICAS Y ENERGÍA TÉRMICA Y LUMÍNICA
+### CAPÍTULO V. CONTAMINACIÓN VISUAL Y PROTECCIÓN DEL PAISAJE
 
 ###### ARTÍCULO 144.
 
@@ -2075,7 +2157,7 @@ Los ayuntamientos deberán incorporar en sus bandos y reglamentos, disposiciones
 
 La Secretaría determinará las zonas en el Estado que tengan valor histórico, cultural, escénico o de paisaje y autorizará los tipos de obras o actividades que se puedan realizar con el propósito de evitar deterioro, conforme a los programas que para el efecto lleve a cabo.
 
-### CAPÍTULO VII. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA Y DE LOS ECOSISTEMAS ACUÁTICOS
+### CAPÍTULO VI. CONTAMINACIÓN GENERADA POR RUIDO, VIBRACIONES, OLORES, RADIACIONES ELECTROMAGNÉTICAS Y ENERGÍA TÉRMICA Y LUMÍNICA
 
 ###### ARTÍCULO 145.
 
@@ -2089,7 +2171,7 @@ La autorización a que se refiere este artículo se expedirá tomando en cuenta 
 
 ARTÍCULO 145 BIS.- Las autoridades municipales no podrán conceder permisos para el funcionamiento de establecimientos destinados a la venta al público de fuegos artificiales; hasta en tanto no se emita el dictamen por parte de la Unidad Municipal de Protección Civil en el que se acredite que el establecimiento cumple con las condiciones de seguridad conforme a las disposiciones reglamentarias de la materia, sin perjuicio de las atribuciones que correspondan a la Secretaría de la Defensa Nacional.
 
-### CAPÍTULO VIII. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO Y MANEJO DE RESIDUOS SÓLIDOS
+### CAPÍTULO VII. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA Y DE LOS ECOSISTEMAS ACUÁTICOS
 
 ###### ARTÍCULO 146.
 
@@ -2197,7 +2279,7 @@ Las autoridades estatales y municipales, en los casos de aguas de su competencia
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)</small>
 
-### CAPÍTULO IX. DISPOSICIONES COMPLEMENTARIAS RELATIVAS A MATERIALES Y RESIDUOS PELIGROSOS
+### CAPÍTULO VIII. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO Y MANEJO DE RESIDUOS SÓLIDOS
 
 ###### ARTÍCULO 157.
 
@@ -2319,7 +2401,7 @@ Las autoridades estatales y municipales, en los casos de aguas de su competencia
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
-### CAPÍTULO X. ACTIVIDADES NO CONSIDERADAS ALTAMENTE RIESGOSAS
+### CAPÍTULO IX. DISPOSICIONES COMPLEMENTARIAS RELATIVAS A MATERIALES Y RESIDUOS PELIGROSOS
 
 ###### ARTÍCULO 187.
 
@@ -2339,7 +2421,7 @@ ARTÍCULO 189 BIS.- Sin perjuicio a lo dispuesto por el artículo anterior, las 
 
 Este tipo de contenedores deberá encontrarse instalado de forma permanente, y será de acceso seguro para toda la población. La Secretaría de Infraestructura y Desarrollo Urbano apoyará a los Ayuntamientos del Estado en la elaboración de planes de manejo que cumplan con los requisitos que dictan las Normas Oficiales Mexicanas y la legislación federal.
 
-### CAPÍTULO XI. EMERGENCIAS Y CONTINGENCIAS AMBIENTALES
+### CAPÍTULO X. ACTIVIDADES NO CONSIDERADAS ALTAMENTE RIESGOSAS
 
 ###### ARTÍCULO 190.
 
@@ -2445,7 +2527,7 @@ IV. Rechazar el estudio.
 
 En los programas de desarrollo urbano del Estado, se especificarán las zonas en que será permitido el establecimiento de industrias, comercios y servicios que realicen actividades no consideradas altamente riesgosas, pero en ningún caso dichos establecimientos se ubicarán dentro de áreas habitacionales, comerciales y otras que impliquen algún riesgo a la población, pudiendo establecer, cuando así se requiera, zonas intermedias de salvaguarda.
 
-### CAPÍTULO I. PRESTADORES DE SERVICIOS EN MATERIA DE IMPACTO, RIESGO Y AUDITORÍA AMBIENTAL
+### CAPÍTULO XI. EMERGENCIAS Y CONTINGENCIAS AMBIENTALES
 
 ###### ARTÍCULO 198.
 
@@ -2465,7 +2547,7 @@ Todas las personas físicas o morales, públicas o privadas, están obligadas a 
 
 ## TÍTULO SEXTO. PRESTADORES DE SERVICIOS Y LABORATORIOS AMBIENTALES
 
-### CAPÍTULO II. PERITOS Y LABORATORIOS AMBIENTALES
+### CAPÍTULO I. PRESTADORES DE SERVICIOS EN MATERIA DE IMPACTO, RIESGO Y AUDITORÍA AMBIENTAL
 
 ###### ARTÍCULO 201.
 
@@ -2483,7 +2565,7 @@ La Secretaría elaborará una lista de prestadores de servicios en la materia, p
 
 Los prestadores de servicios serán responsables solidarios de los impactos ambientales no previstos en los manifiestos e informes que elaboren o auditorías que realicen, así como por la información falsa o incorrecta u omitida, mala fe o dolo y deberán guardar reserva y secreto profesional de la información y documentación a la que tengan acceso por la prestación de sus servicios, salvo en caso de requerimiento judicial.
 
-### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO II. PERITOS Y LABORATORIOS AMBIENTALES
 
 ###### ARTÍCULO 205.
 
@@ -2507,7 +2589,7 @@ Los laboratorios acreditados ante la Secretaría, de conformidad con el Reglamen
 
 ## TÍTULO SÉPTIMO. MEDIDAS DE CONTROL, DE SEGURIDAD, SANCIONES, RECURSO DE REVISIÓN Y REPARACIÓN DEL DAÑO AMBIENTAL
 
-### CAPÍTULO II. MEDIDAS DE SEGURIDAD
+### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
 
 ###### ARTÍCULO 210.
 
@@ -2583,7 +2665,7 @@ Cuando se trate de segunda o posterior verificación para vigilar el cumplimient
 
 En los casos de flagrancia de hechos que contravengan las disposiciones establecidas en el presente ordenamiento, siempre y cuando medie una situación de emergencia o urgencia, debidamente fundada y motivada, el personal de inspección y vigilancia se identificará con documento oficial, procederá a dictar las medidas de seguridad necesarias y asentará dichas circunstancias en una acta específica.
 
-### CAPÍTULO III. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO II. MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 223.
 
@@ -2629,7 +2711,7 @@ Cuando la dependencia ambiental competente ordene alguna de las medidas de segur
 
 En el supuesto de la fracción II del artículo 223 de este ordenamiento, la autoridad ambiental competente, mediante orden expresa, designará al personal que tenga que desahogar la diligencia, la que deberá llevarse a cabo en un plazo no mayor a las 24 horas siguientes; una vez que tal designación sea de su conocimiento seguirá el procedimiento de inspección establecido en este ordenamiento.
 
-### CAPÍTULO IV. RECURSO DE REVISIÓN
+### CAPÍTULO III. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 228.
 
@@ -2717,7 +2799,7 @@ Las autoridades estatales o municipales, promoverán ante quien corresponda u or
 
 Las multas a las que se hagan acreedores los infractores de la presente Ley, por ningún motivo podrán ser condonadas o reducidas.
 
-### CAPÍTULO V. RESPONSABILIDAD POR EL DAÑO AMBIENTAL
+### CAPÍTULO IV. RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 236.
 
@@ -2879,6 +2961,8 @@ Cuando hayan de tenerse en cuenta nuevos hechos o documentos que no obren en el 
 
 No se tomarán en cuenta en la resolución del recurso, hechos, documentos o alegatos del recurrente cuando habiendo podido aportarlos durante el procedimiento administrativo, no lo haya hecho.
 
+### CAPÍTULO V. RESPONSABILIDAD POR EL DAÑO AMBIENTAL
+
 ###### ARTÍCULO 252.
 
 Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona que contamine o deteriore el ambiente o afecte a la función que alguno de sus elementos desempeña dentro de un ecosistema determinado de competencia local, será responsable y estará obligada a reparar los daños causados, de conformidad con lo que disponen el Código Civil y esta Ley.
@@ -3010,3 +3094,9 @@ P.O. 22 NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 534 POR EL QUE SE REFORMAN Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS PARA EL ESTADO DE COLIMA Y DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA, Y SE REFORMAN LOS ARTÍCULOS 40 Y 41 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
