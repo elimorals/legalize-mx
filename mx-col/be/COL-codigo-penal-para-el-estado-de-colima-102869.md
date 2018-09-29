@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2018-07-28"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1537,13 +1537,13 @@ CUMPLIMIENTO DEL CRITERIO DE OPORTUNIDAD, ACUERDO REPARATORIO EN JUSTICIA RESTAU
 
 La potestad para ejercer la acción penal, se extingue en los casos de cumplimiento de criterio de oportunidad, acuerdo reparatorio en justicia restaurativa, o de las condiciones decretadas en la suspensión condicional del proceso, y en las formas previstas en el Código Nacional de Procedimientos Penales.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 119.
 
 Delitos de querella necesaria.
 
-Se consideran delitos que como requisito de procedibilidad debe de constar querella del ofendido o de quien este facultado legalmente para interponerla, los siguientes; lesiones tipificado en las fracciones I, II y III del artículo 126, inducción o ayuda al suicidio tipificado en el artículo 143, estupro tipificado en el artículo 148, hostigamiento sexual y acoso laboral tipificados en los artículos 152 y 152 BIS, rapto tipificado en el artículo 162, robo tipificado en los artículos 183, 184, 185 apartado A) fracción III, 189, abigeato tipificado en el artículo192 (sic) en los supuestos del artículo 196, abuso de confianza tipificado en el artículo 197, 198 fracción I, fraude tipificado en el artículo 199, 200, 201 fracción II, 202, despojo tipificado en el artículo 205, daños tipificado en el artículo 207, peligro de contagio tipificado en el artículo 212, ataque peligroso tipificado en el artículo 214, amenazas y coacción tipificado en el artículo 218 y 219, allanamiento de morada tipificado en el artículo 220, revelación de secretos tipificado en el artículo 221, calumnia tipificado en el artículo 222, discriminación tipificado en el artículo 223, incumplimiento de obligaciones de asistencia familiar tipificado en los artículos 229, 230, 231, violación de correspondencia tipificado en el artículo 252, cobranza extrajudicial ilegal tipificado en el artículo 218 Bis y en los que así lo prevea este Código.
+Se consideran delitos que como requisito de procedibilidad debe de constar querella del ofendido o de quien este facultado legalmente para interponerla, los siguientes; lesiones tipificado en las fracciones I, II y III del artículo 126, inducción o ayuda al suicidio tipificado en el artículo 143, estupro tipificado en el artículo 148, hostigamiento sexual y acoso laboral tipificados en los artículos 152 y 152 BIS, rapto tipificado en el artículo 162, robo tipificado en los artículos 183, 184, 185 apartado A) fracción III, 189, abigeato tipificado en el artículo192 en los supuestos del artículo 196, abuso de confianza tipificado en el artículo 197, 198 fracción I, fraude tipificado en el artículo 199, 200, 201 fracción II, 202, despojo tipificado en el artículo 205, daños tipificado en el artículo 207, peligro de contagio tipificado en el artículo 212, ataque peligroso tipificado en el artículo 214, amenazas y coacción tipificado en el artículo 218 y 219, allanamiento de morada tipificado en el artículo 220, revelación de secretos tipificado en el artículo 221, discriminación tipificado en el artículo 223, incumplimiento de obligaciones de asistencia familiar tipificado en los artículos 229, 230, 231, violación de correspondencia tipificado en el artículo 252, cobranza extrajudicial ilegal tipificado en el artículo 218 Bis y en los que así lo prevea este Código.
 
 # LIBRO SEGUNDO. DE LOS DELITOS EN PARTICULAR
 
@@ -2951,8 +2951,6 @@ No se aplicará pena alguna a la madre que entregue a su hijo por extrema pobrez
 
 ### CAPÍTULO I. CALUMNIA
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
 ### CAPÍTULO II. DISCRIMINACIÓN
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
@@ -3061,7 +3059,7 @@ Cuando se configuren los supuestos previstos en los párrafos anteriores, si el 
 
 ###### ARTÍCULO 222.
 
-Al que impute falsamente a otro un hecho que la ley califique como delito, a sabiendas de que éste no existe o de que el imputado no es responsable del mismo, se le impondrá prisión de dos a cinco años y multa por un importe equivalente de cincuenta a cien unidades de medida y actualización.
+(DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO II. EJERCICIO INDEBIDO DE SERVICIO PÚBLICO
 
@@ -4332,3 +4330,9 @@ P.O. 28 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 516 POR EL QUE SE ADICIONA UN NUEVO TÍTULO DÉCIMO DENOMINADO "DELITOS CONTRA LA IDENTIDAD DE LAS PERSONAS", AL LIBRO SEGUNDO, SECCIÓN PRIMERA, CON LA ADICIÓN DE UN CAPÍTULO ÚNICO, DENOMINADO "USURPACIÓN DE IDENTIDAD", Y CON EL ARTÍCULO 224 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
 
 ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 536 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 119 Y DEROGAR EL ARTÍCULO 222 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
