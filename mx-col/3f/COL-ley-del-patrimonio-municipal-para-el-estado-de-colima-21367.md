@@ -4,7 +4,7 @@ identifier: "COL-ley-del-patrimonio-municipal-para-el-estado-de-colima-21367"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-12"
-last_updated: "2012-08-11"
+last_updated: "2018-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DEL PATRIMONIO MUNICIPAL PARA EL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL PATRIMONIO DEL ESTADO DE COLIMA Y DE SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 29 DE SEPTIMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL PATRIMONIO MUNICIPAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 12 de mayo de 2001.
 
@@ -490,3 +492,21 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. E
 P.O. 11 DE AGOSTO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 539 POR EL QUE SE APRUEBA EXPEDIR LA LEY DEL PATRIMONIO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abrogan la Ley del Patrimonio del Estado de Colima, y la Ley del Patrimonio Municipal para el Estado de Colima, publicadas en el Periódico Oficial "El Estado de Colima" el 24 de enero de 2009, y el 11 de mayo (sic) 2001 respectivamente; así mismo se derogan todas las disposiciones jurídicas y administrativas que se opongan a la presente Ley.
+
+TERCERO. El Gobernador, los Ayuntamientos, el Poder Legislativo y el Poder Judicial estarán facultados para emitir los reglamentos, acuerdos, decretos, protocolos y lineamientos necesarios para proveer en la esfera administrativa la exacta observancia de las disposiciones contenidas en la presente Ley.
+
+CUARTO. En tanto se expiden los reglamentos, acuerdos, decretos, protocolos y lineamientos a que hace referencia el artículo transitorio anterior, se continuarán aplicando las disposiciones reglamentarias y administrativas vigentes en lo que no se opongan a la presente Ley.
+
+QUINTO. Las concesiones, autorizaciones o permisos que se encuentren en trámite a la fecha de entrada en vigor de la presente Ley, serán resueltos conforme a lo dispuesto por la Ley del Patrimonio del Estado de Colima o la Ley del Patrimonio Municipal para el Estado de Colima vigentes con anterioridad a la entrada en vigor de la presente Ley, respectivamente.
+
+T R A N S I T O R I O
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
