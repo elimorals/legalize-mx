@@ -4,7 +4,7 @@ identifier: "COL-ley-del-instituto-colimense-de-las-mujeres-32148"
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-14"
-last_updated: "2003-06-14"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DEL INSTITUTO COLIMENSE DE LAS MUJERES
 
-LEY DEL INSTITUTO COLIMENSE DE LAS MUJERES
+LEY DEL INSTITUTO COLIMENSE DE LAS MUJERES DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 14 de junio de 2003.
 
@@ -241,9 +241,29 @@ XII.- Aprobar la aceptación de herencia, legados, donaciones y demás liberalid
 
 XIII.- Las demás que le confiera esta Ley y el Reglamento Interior.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 10 Bis.
+
+Para ocupar la Dirección General del Instituto se requiere:
+
+I. Contar con residencia mínima de cinco años en el Estado, en pleno goce y ejercicio de sus derechos cívicos y políticos;
+
+II. Poseer ciudadanía mexicana;
+
+III. No ostentar ministerio de culto o secta religiosa;
+
+IV. Haber destacado por su labor en favor de la igualdad y equidad de género o en actividades relacionadas con la promoción de las oportunidades, el trato, la toma de decisiones y los beneficios del desarrollo Para las mujeres;
+
+V. Que no ostente cargo de dirigencia en algún partido político al día de su designación; y
+
+VI. No haber sido condenada por delito doloso, ni contar con inhabilitación para algún cargo público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 11.
 
-La Dirección General estará a cargo de una titular que será designada por el Gobernador del Estado a partir de una terna propuesta por el Consejo Directivo, con una duración de tres años, no podrá ser reelecta y tendrá las siguientes atribuciones:
+La Dirección General estará a cargo de una titular que será designada por el Gobernador del Estado a partir de una terna propuesta por el Consejo Directivo, con una duración de tres años, pudiendo ser ratificada, directamente por el Gobernador del Estado, para un periodo subsecuente de tres años, y tendrá las siguientes atribuciones:
 
 I.- Ejecutar los acuerdos del Consejo Directivo y fungir como secretaria técnica de dicho órgano;
 
@@ -348,3 +368,11 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 12 días del mes de junio del año dos mil tres.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 540 POR EL QUE SE APRUEBA REFORMAR LA LEY DEL INSTITUTO COLIMENSE DE LAS MUJERES”.]
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
