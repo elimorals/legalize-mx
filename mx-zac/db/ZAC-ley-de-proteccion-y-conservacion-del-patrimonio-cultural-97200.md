@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-y-conservacion-del-patrimonio-cultural-97200"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-14"
-last_updated: "2018-09-15"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE PROTECCION Y CONSERVACION DEL PATRIMONIO CULTURAL DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 29 DE SEPTIEMBRE DE 2018, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2018.]</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 14 de diciembre de 2013.
 
@@ -945,7 +945,9 @@ P.O. 15 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 447.- SE REFORMA Y ADICIONA LA LEY DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE ZACATECAS”.]
 
-PRIMERO. El presente decreto deberá publicarse por una sola vez en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+> <small>(F. DE E., P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
 SEGUNDO. Dentro de los noventa días naturales contados a partir de la entrada en vigor de este Decreto, el Consejo Directivo iniciará el proceso de convocatoria a la sociedad para la designación y nombramiento de los integrantes del Consejo Consultivo Ciudadano de la Junta.
 
