@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2018-09-28"
+last_updated: "2018-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -251,13 +251,21 @@ XXVI. Realizar acciones educativas y preventivas a fin de evitar que se cometan 
 
 XXVII. Fomentar entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer uso apropiado de internet y de las redes sociales;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXVIII. Prevenir la comisión de delitos en materia de tecnologías y cibernética advirtiendo de los riesgos por el uso de internet y las redes sociales; y
+XXVIII. Prevenir la comisión de delitos en materia de tecnologías y cibernética advirtiendo de los riesgos por el uso de internet y las redes sociales;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXIX. Gestionar conforme a los lineamientos expedidos por la autoridad educativa federal, se imparta educación con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el sexto año de educación primaria hasta el último año de educación media superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de legalidad y de paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales.
+XXIX. Gestionar conforme a los lineamientos expedidos por la autoridad educativa federal, se imparta educación con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el sexto año de educación primaria hasta el último año de educación media superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de legalidad y de paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXX. Difundir y promover en los educandos el respeto y la inclusión de las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXXI. Fomentar e implementar programas y acciones que tengan por objeto promover la orientación vocacional, a fin de favorecer que los estudiantes creen su proyecto de vida.
 
 Los fines anteriores se realizarán gradual y coordinadamente, según la edad, el desarrollo mental de los educandos, tipo y grado de educación. En las escuelas normales, formadoras de docentes y en las de posgrados para docentes, se les dedicará una mayor atención, un estudio más profundo y un mayor número de prácticas operativas a dichos fines, a efecto de preparar mejor a quienes se dedicarán al ejercicio docente.
 
@@ -1075,31 +1083,37 @@ IV. Prestará servicios educativos para atender a quienes abandonaron el sistema
 
 V. Fortalecerá la educación especial y la educación inicial, incluyendo a las personas con discapacidad;
 
-VI. Otorgará apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos, de acuerdo al presupuesto de Egresos de la Federación;
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Establecerá y fortalecerá los sistemas de educación a distancia que determine la autoridad educativa federal;
+VI. Fomentará la lengua de señas mexicanas en la educación pública y privada.
 
-VIII. Realizará campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
+Entendiendo, a la lengua de Señas Mexicanas como la lengua reconocida oficialmente como lengua nacional, que consiste en una serie de signos gestuales articulados con las manos y movimiento corporal, dotados de función lingüística;
 
-IX. Desarrollará programas con perspectiva de género, para otorgar becas y demás apoyos económicos preferentemente a los estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación, en cumplimiento de los programas establecidos por la autoridad educativa federal;
+VII. Otorgará apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos, de acuerdo al presupuesto de Egresos de la Federación;
 
-X. Impulsará programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos y fortalezcan el valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros; para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
+VIII. Establecerá y fortalecerá los sistemas de educación a distancia que determine la autoridad educativa federal;
 
-XI. Promoverá mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
+IX. Realizará campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
 
-XII. Realizará actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior;
+X. Desarrollará programas con perspectiva de género, para otorgar becas y demás apoyos económicos preferentemente a los estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación, en cumplimiento de los programas establecidos por la autoridad educativa federal;
+
+XI. Impulsará programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos y fortalezcan el valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros; para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
+
+XII. Promoverá mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
+
+XIII. Realizará actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior;
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-XIII. Establecerá, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
+XIV. Establecerá, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-XIV. Impulsará esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria; y
+XV. Impulsará esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria; y
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-XV. Promoverá la enseñanza de una lengua extranjera en particular el idioma inglés, para aumentar las habilidades de los alumnos de educación básica, apoyándose con el material humano y didáctico necesarios para tal efecto.
+XVI. Promoverá la enseñanza de una lengua extranjera en particular el idioma inglés, para aumentar las habilidades de los alumnos de educación básica, apoyándose con el material humano y didáctico necesarios para tal efecto.
 
 Las autoridades educativas estatal y municipal llevarán a cabo medidas tendientes a propiciar condiciones sociales que incidan en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
@@ -2030,3 +2044,9 @@ II. El pago se hará desde el primer día de incapacidad y será cubierto por la
 DE LAS PENSIONES DE INVALIDEZ Y FALLECIMIENTO POR CAUSAS AJENAS AL TRABAJO PARA TRABAJADORES DE LA EDUCACIÓN
 
 Artículo Cuadragésimo Segundo. La declaración de invalidez para los trabajadores de (sic) educación será realizada directamente por el Instituto, siendo este mismo quien ordene los reconocimientos médicos, quién suspenda las pensiones o las revoque.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 554 POR EL QUE SE REFORMA EL ARTÍCULO 11 FRACCIONES XXVIII Y XXIX; Y SE ADICIONAN LAS FRACCIONES XXX Y XXXI AL ARTÍCULO 11; LA FRACCIÓN VI AL ARTÍCULO 89, HACIÉNDOSE EL CORRIMIENTO CORRESPONDIENTE, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA; SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 2°; EL PÁRRAFO SEGUNDO AL ARTÍCULO 6; 27; Y LA FRACCIÓN V DEL ARTÍCULO 44; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 2; ARTÍCULO 27 BIS; ARTÍCULO 27 TER; TODOS DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 23 BIS 6, DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
