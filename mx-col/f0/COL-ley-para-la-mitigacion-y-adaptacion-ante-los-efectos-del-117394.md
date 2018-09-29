@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-mitigacion-y-adaptacion-ante-los-efectos-del-117394
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-22"
-last_updated: "2016-11-22"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY PARA LA MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento No. 1 al Número 73 del Periódico Oficial del Estado de Colima.
 
@@ -541,9 +541,21 @@ XI. Controlar la contaminación del aire proveniente de fuentes de competencia m
 
 XII. Coadyuvar en el cumplimiento de los indicadores previstos en el Programa Estatal, así como participar en el registro estatal de emisiones y transferencia de contaminantes, de conformidad con lo previsto en el Programa Estatal;
 
-XIII. Propiciar la sustentabilidad y reducción de costos inherentes a su gestión; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XIV. Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
+XIII. Propiciar la sustentabilidad y reducción de costos inherentes a su gestión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Establecer mecanismos de investigación y seguimiento a las denuncias que se presenten con motivo de las modificaciones artificiales a los patrones hidrometeorológicos;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Vigilar y promover, en el ámbito de sus respectivas competencias, el cumplimiento de esta ley, así como sus disposiciones reglamentarias y demás disposiciones que de ella deriven; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 21.
 
@@ -858,3 +870,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 29 veintinueve de septiembre del año 2016 dos mil dieciséis.
 
 LIC. JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima.-Rúbrica.- C. ARNOLDO OCHOA GONZÁLEZ, Secretario General de Gobierno.-Rúbrica.- C.P. CARLOS ARTURO NORIEGA GARCÍA, Secretario de Planeación y Finanzas.-Rúbrica.- PROFR. OSCAR JAVIER HERNÁNDEZ ROSAS, Secretario de Educación.-Rúbrica.- ING. AGUSTÍN MORALES ANGUIANO, Secretario de Desarrollo Rural.-Rúbrica.- ARQ. GISELA IRENE MÉNDEZ, Secretaria de Movilidad.-Rúbrica.- LICDA. INDIRA VIZCAÍNO SILVA, Secretaria de Desarrollo Social.-Rúbrica.- ING. JOSÉ DE JESÚS SÁNCHEZ ROMO, Secretario de Infraestructura y Desarrollo Urbano.- Rúbrica.- LIC. KRISTIAN MEINERS TOVAR, Secretario de Administración y Gestión Pública.- ING. CARLOS DOMÍNGUEZ AHEDO, Secretario de Fomento Económico.-Rúbrica.- DR. CÉSAR CASTAÑEDA VÁZQUEZ DEL MERCADO, Secretario de Turismo.-Rúbrica.- DR. CARLOS SALAZAR SILVA, Secretario de Salud y Bienestar Social.-Rúbrica.- Contraalmirante, FRANCISCO JAVIER CATAÑO SUÁREZ, Secretario de Seguridad Pública.-Rúbrica.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 546 POR EL QUE SE APRUEBA REFORMAR LAS FRACCIONES XIII Y XIV DEL ARTICULO 20 Y ADICIONAR LAS FRACCIONES XV Y XVI AL ARTICULO 20 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
