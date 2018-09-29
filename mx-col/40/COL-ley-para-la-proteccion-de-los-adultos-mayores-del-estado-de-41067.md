@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2017-10-07"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -471,9 +471,11 @@ El Estado promoverá la publicación y difusión de esta Ley para que la socieda
 
 ### CAPÍTULO III. De los Deberes de la Sociedad
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 34.
 
-Ningún adulto en plenitud podrá ser objeto de discriminación en ningún espacio público o privado por razón de su edad, género, estado físico o mental, creencia religiosa o condición social.
+Ningún adulto en plenitud podrá ser socialmente marginado u objeto de discriminación en ningún espacio público o privado por razón de su origen étnico o nacional, edad, género, discapacidad física o mental, condición de salud, creencia religiosa, opiniones, preferencias sexuales, estado civil, condición social o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
 ###### Artículo 35.
 
@@ -487,9 +489,11 @@ De igual forma se sancionará a las instituciones públicas o privadas que comet
 
 ### CAPÍTULO IV. De los Deberes de la Familia
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 37.
 
-La familia del adulto en plenitud deberá cumplir su función social de manera constante y permanente, debiendo velar por ellos, responsabilizándose de proporcionarles lo necesario para su atención y desarrollo integral, protegiéndolos, apoyándolos, y evitando que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona y derechos, caso contrario, serán sancionados conforme la Ley.
+La familia del adulto en plenitud deberá cumplir su función social de manera constante y permanente, debiendo velar por ellos, responsabilizándose de proporcionarles lo necesario para su atención y desarrollo integral, protegiéndolos, apoyándolos, y evitando que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia, abandono y actos jurídicos que pongan en riesgo su persona y derechos, caso contrario, serán sancionados conforme la Ley.
 
 ###### Artículo 38.
 
@@ -701,7 +705,9 @@ Será obligación de las dependencias y entidades de la administración pública
 
 ###### Artículo 67 Bis 2.
 
-Cualquier estacionamiento, encierro o pensión, público y privado, deberá disponer de por lo menos el 10% de cajones para personas adultas en plenitud debidamente identificadas con calcomanía oficial. Este espacio para personas adultas en plenitud deberá compartirse para personas con discapacidad.
+Cualquier estacionamiento, encierro o pensión, público y privado, deberá disponer de por lo menos el 10% de cajones para personas adultas en plenitud debidamente identificadas con calcomanía oficial. Este espacio para personas adultas en plenitud deberá compartirse para personas con discapacidad. Pudiendo considerarse para los adultos en plenitud, una tarifa preferencial de cobro o la primera hora gratis.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
 
 El Instituto dispondrá los lineamientos y características de las calcomanías oficiales con logotipo para la identificación de las personas adultas en plenitud, así como el procedimiento para su expedición.
 
@@ -713,7 +719,7 @@ El Gobierno del Estado por conducto de las dependencias correspondientes fomenta
 
 Todas las instituciones de orden público y privado del Estado, garantizarán que en sus instalaciones existan las condiciones necesarias, para que se les dé a los adultos en plenitud un trato digno, especial y prioritario al momento de realizar un trámite personal, otorgándoles sillas de espera y una fila preferencial
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ## TÍTULO CUARTO. DE LA VALORACIÓN DE CAPACIDADES Y APTITUDES
 
@@ -940,3 +946,15 @@ P.O. 7 DE OCTUBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 544 POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA Y SE REFORMA LA FRACCIÓN III AL ARTÍCULO 2260 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 547 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 34 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 67 BIS 2 DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA; APRUEBA REFORMAR LA FRACCIÓN LX DEL ARTÍCULO 10 Y EL ARTÍCULO 68 DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIA (SIC) Y SE APRUEBA REFORMAR EL NUMERAL 2 DEL ARTÍCULO 109 DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
