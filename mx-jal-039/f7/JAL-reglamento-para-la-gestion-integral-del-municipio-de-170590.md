@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2018-06-07"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 29 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -168,6 +168,10 @@ XXXI. Infraestructura Básica: Redes generales que permiten suministrar en las d
 > <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
 XXXII. Instrumentos de Planeación Urbana: Los descritos en el artículo 78 del Código Urbano para el Estado de Jalisco, así como los que deriven del artículo 28 de la Ley de Coordinación Metropolitana del Estado de Jalisco, a fin de controlar o promover el desarrollo urbano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXXII Bis. Local Comercial: Se entenderá como la suma de la superficie edificada que esté destinada para la operación de un Giro, incluyéndose el área de venta, exhibición de productos, producción, almacenaje, oficinas de administración, salas de espera, circulaciones y cualquier otra relacionada con el Giro, ya sea de comercio o de servicios. Las áreas que no computan para dicha estimación son las áreas verdes o ajardinadas, cajones de estacionamiento ni baños. No se exentará del cómputo a cajones de estacionamiento o baños cuando estos constituyan el Giro.
 
 XXXIII. Ordenamiento Territorial de los Asentamientos Humanos: Es el proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio;
 
@@ -713,23 +717,23 @@ Cuando en los Planes Parciales se declaren polígonos de desarrollo controlado, 
 
 ### CAPÍTULO II. Del Control de Usos y Destinos para las Zonas
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 29.
 
-Los Impactos al Contexto causados por los distintos Usos y Destinos a las diferentes zonas, se clasifican con base al grado de afectación a estas, de la siguiente manera:
+El Uso Predominante asignado en la Zonificación Secundaria, determina el Impacto al Contexto que las zonas pueden soportar. Los Usos, Destinos y Giros que sean compatibles deben ajustarse a los lineamientos de control de impacto de la zona, según se establece a continuación:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-I. Impacto Mínimo: Los giros en zonas con esta denominación, y en zonas habitacionales donde sea compatible, observarán los siguientes lineamientos de control de impacto:
+I. Impacto Mínimo: En las zonas con esta denominación, y en zonas habitacionales, los giros compatibles observarán los siguientes lineamientos de control de impacto:
 
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-a) Serán permitidos tanto en edificios de vivienda, como en edificaciones comerciales, industriales o de equipamiento;
+a) Serán permitidos tanto en edificaciones habitacionales, como de comercio y servicios, industriales o de equipamiento;
 
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-b) El tamaño máximo del conjunto de locales comerciales, y sus circulaciones, será de 30 metros cuadrados. Estarán en planta baja y con acceso directo a la vía pública, cuando sean de atención al público, pudiendo desarrollarse en otros niveles, cuando se trate de giros sin atención al público. Los Giros de Equipamientos pueden ocupar la totalidad del Predio;
+b) El tamaño máximo del conjunto de locales comerciales, y sus circulaciones, será de 30 metros cuadrados. Estarán en planta baja y con acceso directo a la vía pública, cuando sean de atención al público, pudiendo desarrollarse en otros niveles, cuando se trate de giros sin atención al público. Tratándose de Giros de Equipamiento en Predios Públicos, pueden ocupar la totalidad del mismo, por tratarse de la prestación de un servicio público.
 
 c) (DEROGADO, G.M. 20 DE DICIEMBRE DE 2017)
 
@@ -739,17 +743,17 @@ e) Las descargas de agua residual que generan son solo el resultado de actividad
 
 f) Genera residuos sólidos considerados municipales de acuerdo a la NOM 161 SEMARNAT 2011.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 II. Impacto Bajo: Los giros con esta denominación observarán los siguientes lineamientos de control de impacto:
 
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-a) Serán permitidos tanto en edificios de vivienda, como en edificaciones comerciales, industriales o de equipamiento;
+a) Serán permitidos tanto en edificaciones habitacionales, como de comercio y servicios, industriales o de equipamiento;
 
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-b) El tamaño máximo del conjunto de locales comerciales, y sus circulaciones, será el equivalente a la superficie del lote, y deberá localizarse en planta baja o hasta el primer nivel, con acceso directo a la vía pública. Los Giros de Equipamientos pueden ocupar la totalidad del Predio;
+b) El tamaño máximo del conjunto de locales comerciales, y sus circulaciones, será el equivalente a la superficie del lote, y deberá localizarse preferentemente en planta baja o hasta el primer nivel, con acceso directo a la vía pública.
 
 > <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -765,9 +769,9 @@ f) Generan residuos sólidos, que incluyen, además del tipo municipal, desechos
 
 g) No realizan actividades que representen molestias, incomodidades o riesgos a la comunidad circundante.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-III. Impacto Medio: Los giros con esta denominación observarán los siguientes lineamientos de control de impacto:
+III. Impacto Medio: En las zonas con esta denominación, los giros compatibles observarán los siguientes lineamientos de control de impacto:
 
 > <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -783,9 +787,9 @@ d) Generan residuos sólidos, que incluyen, además del tipo municipal, desechos
 
 e) (DEROGADO, G.M. 20 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Impacto Alto: Los giros con esta denominación observarán los siguientes lineamientos de control de impacto:
+IV. Impacto Alto: En las zonas con esta denominación, los giros compatibles observarán los siguientes lineamientos de control de impacto:
 
 a) No son asimilables a la vivienda;
 
@@ -803,9 +807,9 @@ e) Generan residuos sólidos, que incluyen, además del tipo municipal, desechos
 
 f) (DEROGADO, G.M. 20 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-V. Impacto Máximo: Los giros con esta denominación observarán los siguientes lineamientos de control de impacto:
+V. Impacto Máximo: En las zonas con esta denominación, los giros compatibles observarán los siguientes lineamientos de control de impacto:
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -861,7 +865,7 @@ La Matriz de Compatibilidad, es el instrumento mediante el cual, se define la co
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017 PÁGINA 11; 20 DE DICIEMBRE DE 2017, PÁGINA 9 .]</small>
 
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 32.
 
@@ -870,6 +874,8 @@ Las acciones urbanísticas en todas las zonas secundarias, cuyo uso de suelo sol
 Los usos compatibles serán aplicables únicamente para el establecimiento de Giros y no para las Normas de Control de la Urbanización y Edificación ni para la superficie máxima de operación del Giro.
 
 En las zonas con uso predominante Habitacional, cualquiera que sea el tipo de los señalados en el artículo 21 fracciones I a la V, los giros, independientemente de su impacto y compatibilidad, no podrán exceder de 30.00 metros cuadrados de superficie de operación.
+
+En predios zonificados como Equipamiento, los giros compatibles podrán implementarse siempre y cuando sean complementarios, y se mantenga como uso principal el equipamiento.
 
 > <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1055,21 +1061,37 @@ En los predios clasificados como Habitacional Unifamiliar, solo se permitirá la
 
 La superficie construida bajo nivel de banqueta no cuantificará como CUS, siempre y cuando se destine a espacios no habitables, como estacionamientos, almacenes, bodegas y cuartos de máquinas. En caso de que existan espacios habitables debajo del nivel de banqueta, estos sí cuantificarán.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 50.
 
-El diseño y desarrollo de proyectos específicos, se sujetará a las siguientes determinaciones en materia de alturas de edificación y restricciones en la colindancia posterior del Predio:
+El diseño y desarrollo de proyectos específicos, se sujetará a las siguientes determinaciones en materia de alturas de edificación, coeficientes y restricciones a la edificación:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
 
 I. La altura máxima de las edificaciones será la señalada en las Normas de Control de la Urbanización y la Edificación de los Planes Parciales. Cuando la altura máxima sea señalada en metros lineales, esta se medirá a partir de la cota de origen. La cota de origen es un plano horizontal al nivel de la banqueta, en el punto medio del lindero frontal del lote. En caso de no existir banqueta, se usará el nivel de la rasante de la vialidad al punto medio del lindero del lote.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
+
 II. Para el caso de techos inclinados, la altura de estos forma parte de la altura total de la edificación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
 
 III. Si las condiciones del lote imposibilitan la edificación de sótanos de estacionamiento bajo rasante, se podrán edificar sobre la rasante de la banqueta sin que computen como CUS o ICUS, siempre que la altura de la losa de la primera planta del estacionamiento no sobresalga en más de 1.8 metros;
 
-IV. La altura máxima de entre niveles será de hasta 4.5 metros para viviendas. Para otros usos, la altura del entrepiso será la necesaria para albergar las instalaciones necesarias para el funcionamiento del Giro; y
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-V. Los mezanine, tapanco o similar, computarán como CUS, ICUS y nivel constructivo.
+IV. La altura máxima de entre niveles será de hasta 4.5 metros para viviendas.
+
+Para otros usos, la altura del entrepiso será la necesaria para albergar las instalaciones necesarias para el funcionamiento del Giro;
+
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+V. Los mezanine, tapanco o similar, computarán como CUS, ICUS y nivel constructivo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+VI. En el caso de lotes y predios con topografía irregular, para la cuantificación de coeficientes de ocupación y utilización del suelo y de las alturas y niveles máximos señalados en los planes parciales, se tomará la altura media del o los linderos con frente a vía pública, se sumarán y se obtendrá el promedio para determinar un único punto de origen, que será la base cota 0.00m de altura.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DE LAS REFORMAS PUBLICADAS EN LA G.M. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 12 A LA 13.]</small>
 
@@ -2497,6 +2519,46 @@ Los proyectos arquitectónicos y la ejecución de obras de edificación deberán
 
 Los proyectos ejecutivos y las construcciones, deberán cumplir las especificaciones necesarias para la estabilidad estructural y servicio o función de sus diversos elementos e instalaciones según las normas técnicas y previsiones de seguridad, salubridad, comodidad, acordes con su magnitud, uso, destino y ubicación así como, los requisitos mínimos de ventilación e iluminación y los espacios diseñados para proporcionar tal servicio. Dichos proyectos deberán ser signados por el autor del proyecto quien deberá fungir como director responsable en los términos de lo establecido por el Código.
 
+> <small>(ADICIONADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 159 Bis.
+
+Las disposiciones vertidas en este artículo se refieren a los patios o espacios abiertos para iluminación y ventilación natural, con base de forma cuadrada o rectangular, cualquier otra forma debe considerar un área equivalente; esos patios tendrán como mínimo las proporciones establecidas en la tabla siguiente:
+
+Tipo de espacio Altura de los Dimensión mínima del
+
+paramentos del patio de iluminación y
+
+patio ventilación
+
+Espacios habitables: Hasta 4 metros 2.5 metros X 2.5 metros
+
+Recamaras, sala o estancia, Hasta 12 metros 3.0 metros X 3.0 metros
+
+comedor Mayor a 12 metros 25% de la altura.
+
+Espacios no habitables:
+
+Baño, cocina, cuarto de lavado, Cualquier caso 20% de la altura
+
+despensas, clóset y similares,
+
+pasillos, estudios sin baño o clóset.
+
+a) Si la altura de los paramentos propios del patio fuera variable, se tomará el promedio de los dos más bajos;
+
+b) Los pretiles y volúmenes en la parte superior de los paramentos podrán remeterse un mínimo equivalente a su altura, con el propósito de no ser considerados para el dimensionamiento del patio;
+
+c) Se permite la reducción de hasta un treinta por ciento de la anchura de uno de los sentidos del patio, siempre que la dimensión del sentido contrario sea compensada garantizando la superficie requerida;
+
+d) En los patios completamente abiertos por uno o más de sus lados a vía pública o espacios abiertos, se permite la reducción hasta la mitad de la dimensión mínima en los lados perpendiculares a dicha vía pública. Para este caso no será aplicable la fracción anterior;
+
+e) Cuando los patios converjan con la fachada frontal o posterior de la edificación, las dimensiones en planta del patio guardarán una relación entre ellas no mayor al 4:1, y no estará en función de la altura de los paramentos;
+
+f) En caso de piezas no habitables, podrán omitirse los patios si se garantiza iluminación y ventilación asistida; y
+
+g) Los bienes inmuebles que estén contenidos en los inventarios de patrimonio cultural, podrán observar las dimensiones de los patios de iluminación y ventilación del proyecto original o construcción existente, siempre que cuenten con el permiso del Instituto Nacional de Antropología e Historia o la Secretaría de Cultura del Estado de Jalisco, según corresponda.
+
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 160.
@@ -2533,19 +2595,21 @@ I. Licencia Menor: Tratándose de edificaciones nuevas, ampliaciones, adaptacion
 
 II. Licencia Mayor: Tratándose de edificaciones nuevas, ampliaciones, adaptaciones o demoliciones mayores a 50 metros cuadrados; a las cuales se les dará respuesta en 10 días hábiles a partir de la entrega de los requisitos establecidos.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 161.
 
 En toda Acción Urbanística mayor, pública o privada realizadas y autorizadas por el Ayuntamiento, el propietario o promotor deberá colocar en la banqueta, como mínimo, un árbol a cada 6 metros lineales con relación del frente del Predio, cuyas dimensiones mínimas son las siguientes:
 
-I. Cada árbol deberá tener una altura de 2.5 metros de altura y un diámetro de tronco de 1.5 pulgadas medida a 15 centímetros del cuello de la raíz; y
+I. Cada árbol deberá tener una altura de 2.5 metros de altura y un diámetro de tronco de 2 pulgadas como mínimo, medida a 15 centímetros de la base; y
 
-II. Las especies deben ser de las variedades establecidas en el ordenamiento regulador en materia de parques, jardines y recursos forestales en el municipio.
+II. Las especies deben ser de las variedades establecidas en el Reglamento de Áreas Verdes y Recurso (sic) Forestales del Municipio de Guadalajara.
 
 Salvo imposibilidad manifiesta, se puede eximir la norma establecida en el párrafo anterior, previa autorización de la dependencia técnica que emita la licencia correspondiente, sin perjuicio del cumplimiento de la normativa en materia de banquetas de este Reglamento.
 
-En toda Acción Urbanística pública y privada autorizada, solo se permitirá el derribo o poda de árboles que se ubiquen dentro del predio, bajo los términos que establezca el dictamen que al efecto emita la Dirección de Parques y Jardines.
+En toda Acción Urbanística pública y privada autorizada, solo se permitirá el derribo o poda de árboles que se ubiquen dentro del predio, bajo los términos que establezca el dictamen que al efecto emita la Dirección de Medio Ambiente a través de la Unidad de Arbolado Urbano.
+
+De igual forma, en toda Acción Urbanística pública o privada, el propietario o promotor deberá donar sujetos forestales al Ayuntamiento con fines de reforestación, dependiendo del impacto de la obra, en la cantidad que determine la Dirección de Medio Ambiente en el dictamen que emita como requisito de la Licencia de Construcción respectiva.
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -2675,7 +2739,7 @@ IV. Emitir vistos buenos, aprobar equipamiento de infraestructura ciclista y pea
 
 V. Reducir cajones de estacionamiento a partir de los lineamientos que la dependencia emita.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 169.
 
@@ -2691,7 +2755,9 @@ IV. Conjuntos hospitalarios y centros médicos públicos y privados;
 
 V. Centro de exposiciones y ferias permanentes y eventuales;
 
-VI. Edificios de oficinas, apartamentos y usos mixtos;
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Edificios de comercios y servicios a partir de 500 metros cuadrados de construcción, y edificios habitacionales a partir de 23 unidades de vivienda, a partir del nivel de banqueta;
 
 VII. Conjuntos o unidades administrativas públicas o privadas;
 
@@ -2700,6 +2766,10 @@ VII. Conjuntos o unidades administrativas públicas o privadas;
 VIII. Conjuntos habitacionales de más de 500 viviendas.
 
 IX. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando ya existan estudios de impacto al tránsito en las áreas de influencia de otros estudios y tengan menos de un año de ser realizados, se presentará solo la actualización de la información de dicho estudio señalada en la fracción VII del artículo 179, ajustando la información al nuevo proyecto.
 
 > <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2769,55 +2839,59 @@ II. El técnico responsable del estudio o propuesta, deberá establecer contacto
 
 III. Presentar para validación y visto bueno la propuesta de alcances de estudio con base en la Guía de Apoyo y Contenidos Básicos publicados en la página Web del Municipio, la ficha descriptiva del proyecto, la definición del área de estudio, puntos y formatos de aforos (vehiculares, peatonales y ciclistas), elaboración del programa de trabajo con base en el cual se realizará las entregas parciales y revisión de los apartados del Estudio y apertura de bitácora.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 178.
 
-La solicitud de estudios de impacto al tránsito o de integración vial y propuesta de accesibilidad se presentará en la Dirección de Movilidad y Transporte, deberá contener el nombre del promovente y correo electrónico para recibir notificaciones, y deberá acompañarse en original para cotejo, y copia simple de lo siguiente:
+La solicitud de estudios de impacto al tránsito o de integración vial y propuesta de accesibilidad se presentará por escrito en la Dirección de Movilidad y Transporte, y deberá acompañarse en original para cotejo, y copia simple de lo siguiente:
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-I. Dictamen de Trazo, Usos y Destinos del Suelo favorable;
+I. Nombre o razón social del propietario y apoderado en su caso, domicilio y correo electrónico para recibir notificaciones, y número telefónico;
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-II. Alineamiento y número oficial;
+II. Nombre, en su caso, de los autorizados para recibir notificaciones;
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-III. Copia de escritura que ampare la propiedad del Predio;
+III. Identificación oficial del propietario y apoderado en su caso;
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Copia del Acta Constitutiva en caso de tratarse de persona jurídica;
+IV. Acta Constitutiva en caso de tratarse de persona jurídica y poder notarial de su representante legal o apoderado;
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-V. Oficio en el cual se especifique el nombre completo del propietario y promotor, del representante legal en su caso, datos de ubicación del Predio objeto del trámite, domicilio y colonia, así como del uso(s) proyectado;
+V. En caso de Licencia de Construcción, remodelación o ampliación, y de giro nuevas:
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Carta poder Certificada con membrete de la empresa, indicando el trámite a realizar con 2 testigos, expedida por el propietario o representante legal hacia el técnico responsable que realizará el estudio de impacto al tránsito o de integración vial;
+a) Dictamen de Trazo, Usos y Destinos vigente;
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Identificación oficial del propietario, del promotor y del técnico responsable;
+b) Certificado de alineamiento y número oficial vigente; y
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-VIII. Pago de derechos para revisión y emisión de dictamen;
+c) Escrituras o documentos que acrediten la propiedad del bien inmueble materia del trámite;
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+VI. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
 
-IX. Número de Registro asignado al Profesionista con Cédula Profesional (urbanista, arquitecto o ingeniero en transporte) que será el responsable técnico del estudio;
+VII. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Pago de derechos conforme a la Ley de Ingresos del Municipio vigente;
+
+IX. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 X. Planos impresos formato 60 x 90 y en digital del proyecto ejecutivo de la promoción urbana sujeta a dictaminación, firmada por el perito responsable del proyecto; y
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
-
-XI. Bitácora electrónica, (física en su caso), aperturada y aprobado su programa de trabajo por parte del Área de Gestión del Transporte y Tránsito.
+XI. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -4213,6 +4287,8 @@ V. Si el ancho de la calle no permite ninguna de las soluciones anteriores, se d
 
 ### CAPÍTULO VI. De los Estacionamientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 270.
 
 Se denomina estacionamiento, al espacio para la estancia de vehículos, siendo regulados en las siguientes modalidades:
@@ -4221,7 +4297,9 @@ I. Estacionamiento en vía pública: Espacio destinado a la permanencia temporal
 
 II. Estacionamiento en predios, siendo aquellos que se desarrollan en las siguientes modalidades:
 
-a) Estacionamiento de uso público: Aquellos predios y/o edificaciones al nivel o bajo nivel de banqueta, cuyo giro exclusivo es el servicio de estacionamientos y pensiones para vehículos automotores y bicicletas;
+> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+a) Estacionamiento de uso público: Aquellos predios y/o edificaciones, cuyo giro o actividad es el servicio de estacionamientos y pensiones para vehículos automotores y bicicletas, administrados tanto por el sector público como privado;
 
 b) Estacionamiento asociado al giro para vehículos automotores y bicicletas; y
 
@@ -4231,15 +4309,19 @@ c) Estacionamiento Masivo de Bicicletas: predios y/o edificaciones cuyo giro exc
 
 (DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 272.
 
-Los estacionamientos de uso público sólo podrán implantarse en los siguientes supuestos:
+Los estacionamientos de uso público solo podrán implantarse en los siguientes supuestos:
 
 I. Cuando estén previstos en los Planes Parciales de Desarrollo Urbano o PIUE;
 
 II. Cuando estén en las Zonas de Restricción por Infraestructura de Transporte;
 
-III. Cuando estén a menos de 250 metros de una estación del transporte público masivo; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+III. Cuando estén en zonas donde el uso Comercio y Servicios Impacto Medio CS3, o de mayor impacto, sea permitido; y
 
 IV. Cuando el Ayuntamiento emita un programa especial de gestión de estacionamientos.
 
@@ -4259,6 +4341,8 @@ IV. Para carga y descarga en vehículos de carga ligeros: 6 metros de longitud p
 
 V. Para carga y descarga en vehículos de carga pesados y autobuses: 20 metros de longitud por 3 metros de anchura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 274.
 
 Los cajones de estacionamiento en la vía pública, se regirán conforme a los siguientes lineamientos:
@@ -4275,7 +4359,9 @@ V. Deberán evitarse cajones para automóviles en Zonas de Impacto Alto;
 
 VI. En los cajones exclusivos de estacionamiento en vía pública, se podrán instalar ciclopuertos, los cuales deberán contemplar un proyecto de adecuación de la zona de instalación para generar condiciones de seguridad para los usuarios. La ubicación y proyecto de adecuación, necesitan el visto bueno de la Dirección de Movilidad y Transporte, los permisos de construcción serán conducente (sic) con la Dirección de Obras Públicas; y
 
-VII. En zonas de Comercio y de Servicios de Impacto Medio, Alto y Máximo, debe reservarse un cajón por cada 2,500 metros cuadrados de superficie de venta, para carga y descarga; salvo que la Dirección de Movilidad y Transporte demuestre la inviabilidad de la provisión por razones de movilidad, funcionalidad, estructura y calidad urbana.
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+VII. En vialidades donde se han consolidado actividades comerciales al por menor o al por mayor, y que presentan problemáticas por las actividades de carga y descarga de mercancía; el municipio podrá disponer de espacios en vialidades para establecer áreas de carga y descarga, a partir de un estudio realizado por la Dirección de Movilidad y Transporte.
 
 ###### Artículo 275.
 
@@ -4431,141 +4517,127 @@ h) Se admiten los giros de lavado y lubricado de automóviles y camiones; y serv
 
 La regulación de los estacionamientos para camiones y autobuses están sujetos a las normas técnicas que emita la Dirección de Movilidad y Transporte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 278.
 
-El estacionamiento asociado al uso será requisito para obtener la licencia de construcción o de uso, debiendo cumplir con los siguientes criterios de cajones para automóviles:
+Los cajones de estacionamiento asociado al giro, uso o zona según sea el caso, serán requisito para obtener la licencia de construcción o de funcionamiento de giro.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-I. Generales:
+Los cajones de estacionamiento se estiman a razón de la superficie de operación del giro expresada en metros cuadrados, a menos que se especifique una unidad de medida diferente. Cuando el cálculo de cajones de estacionamiento resulte en una fracción de 0.5 o mayor, se considerará como unidad completa al siguiente entero mayor.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-a) Para Giro Comercial y de Servicios Impacto Mínimo:
+Para los casos no cubiertos por el presente artículo, la Dirección de Movilidad y Transporte determinará la cantidad de cajones de estacionamiento, atendiendo las particularidades del giro o actividad y procurando sea acorde a la clasificación de impacto de la zona.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+I. Generales. La cantidad general de cajones de estacionamiento se establece en función del uso donde se clasifica el giro. Para proyectos habitacionales, será según la zona donde se localice:
+
+a) Para uso Comercial y de Servicios Impacto Mínimo:
 
 1. Cajones mínimos: 0; y
 
 2. Cajones máximos: 1.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-b) Para Giro Comercial y de Servicios Impacto Bajo:
+b) Para uso Comercial y de Servicios Impacto Bajo:
 
 1. Cajones mínimos: 0; y
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
 2. Cajones máximos: 1 por cada 80 metros cuadrados de operación del Giro.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
-c) Para giro Comercial y de Servicios Impacto Medio:
+c) Para uso Comercial y de Servicios Impacto Medio:
 
 1. Cajones mínimos: 1 por cada 80 metros cuadrados de operación del Giro; y
 
 2. Cajones máximos: 3 por cada 80 metros cuadrados de operación del Giro.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
-d) Para giro Comercial y de Servicios Impacto Alto:
+d) Para uso Comercial y de Servicios Impacto Alto:
 
 1. Cajones mínimos: 1 por cada 80 metros cuadrados de operación del Giro; y
 
 2. Cajones máximos: 6 por cada 80 metros cuadrados de operación del Giro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
-
-e) Para giro Comercial y de Servicios Impacto Máximo:
+e) Para uso Comercial y de Servicios Impacto Máximo:
 
 1. Cajones mínimos: 1 por cada 80 metros cuadrados de operación del Giro; y
 
 2. Cajones máximos: 9 por cada 80 metros cuadrados de operación del Giro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
-
-f) Para giro Industrial Impacto Mínimo:
+f) Para uso Industrial Impacto Mínimo:
 
 1. Cajones mínimos: 0; y
 
 2. Cajones máximos: 1 por cada 150 metros cuadrados de operación del Giro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
-
-g) Para giro Industrial Impacto Bajo:
+g) Para uso Industrial Impacto Bajo:
 
 1. Cajones mínimos: 0; y
 
 2. Cajones máximos: 1 por cada 150 metros cuadrados de operación del Giro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
-
-h) Para giro Industrial Impacto Medio:
+h) Para uso Industrial Impacto Medio:
 
 1. Cajones mínimos: 1 por cada 150 metros cuadrados de operación del Giro; y
 
 2. Cajones máximos: 3 por cada 150 metros cuadrados de operación del Giro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
-
-i) Para giro Industrial Impacto Alto:
+i) Para uso Industrial Impacto Alto:
 
 1. Cajones mínimos: 1 por cada 150 metros cuadrados de operación del Giro; y
 
 2. Cajones máximos: 6 por cada 150 metros cuadrados de operación del Giro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
-
-j) Para giro Industrial Impacto Máximo:
+j) Para uso Industrial Impacto Máximo:
 
 1. Cajones mínimos: 1 por cada 150 metros cuadrados de operación del Giro; y
 
-2. Cajones máximos: 1 por cada 150 metros cuadrados de operación del Giro.
+2. Cajones máximos: 6 por cada 150 metros cuadrados de operación del Giro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+k) Para zona Habitacional 1:
 
-k) Para uso Habitacional 1:
+1. Cajones mínimos por vivienda: 1; y
 
-1. Cajones mínimos por vivienda: 1.
+2. Cajones máximos por vivienda:
 
-2. Cajones máximos por vivienda: sin máximos.
+2.1. Sin máximos tratándose de vivienda unifamiliar; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+2.2. Cajones tratándose de vivienda vertical o plurifamiliar.
 
-l) Para uso Habitacional 2:
+l) Para zona Habitacional 2:
 
-1. Cajones mínimos por vivienda: 1.
+1. Cajones mínimos por vivienda: 1; y
 
 2. Cajones máximos por vivienda: 3.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+m) Para zona Habitacional 3:
 
-m) Para uso Habitacional 3:
-
-1. Cajones mínimos por vivienda: 1.
+1. Cajones mínimos por vivienda: 1; y
 
 2. Cajones máximos por vivienda: 2.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+n) Para zona Habitacional 4:
 
-n) Para uso Habitacional 4:
-
-1. Cajones mínimos por vivienda: 1.
+1. Cajones mínimos por vivienda: 1; y
 
 2. Cajones máximos por vivienda: 1.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+ñ) Para zona Habitacional 5:
 
-n (SIC)) Para uso Habitacional 5:
-
-1. Cajones mínimos por vivienda: 0.25.
+1. Cajones mínimos por vivienda: 0.25; y
 
 2. Cajones máximos por vivienda: 1.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+o) Para proyectos de vivienda de interés social y media, debidamente certificados conforme a la normativa:
 
-II. Particulares:
+1. Cajones mínimos: 1 cajón por cada 4 viviendas; y
+
+2. Cajones máximos: 1 cajón por vivienda.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+II. Particulares. Cuando se trate de giros cuya operación requiere condiciones particulares de estacionamientos, se aplicará según lo siguiente:
 
 a) En edificios para equipamientos de salud, independientemente de su impacto:
 
@@ -4595,9 +4667,9 @@ c) Para servicios de alojamiento temporal, independientemente de su impacto:
 
 d) (DEROGADO, G.M. 20 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-e) Para fincas incluidas en los catálogos e inventarios de competencia federal y estatal y municipal, se harán reducciones a los requerimientos de cajones de estacionamiento según los criterios que establezca el Plan Parcial de Desarrollo Urbano.
+e) Para fincas incluidas en los catálogos e inventarios en materia de protección al patrimonio cultural edificado, se harán reducciones a los requerimientos de cajones de estacionamiento según los criterios que establezca el Plan Parcial de Desarrollo Urbano.
 
 1. (DEROGADO, G.M. 20 DE DICIEMBRE DE 2017)
 
@@ -4611,27 +4683,43 @@ f) Para los diferentes tipos de equipamiento no enunciados:
 
 2. Cajones máximos: 1 por cada 80 metros cuadrados de operación del Giro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+III. Cuando el uso habitacional sea permitido en zonas de Comercio y de Servicios, seguirán los siguientes lineamientos:
+
+a) Cuando la vivienda o unidad privativa tenga una superficie mayor de 300 metros cuadrados de construcción, se considerará como Habitacional 1 (H1), sujetándose a los lineamientos del artículo 278 fracción I inciso k);
+
+b) Cuando la vivienda o unidad privativa tenga una superficie mayor de 120 metros cuadrados de construcción y hasta 300 metros cuadrados de construcción, se considerará como Habitacional 2 (H2), sujetándose a los lineamientos del artículo 278 fracción I inciso l);
+
+c) Cuando la vivienda o unidad privativa tenga una superficie mayor de 90 metros cuadrados de construcción y hasta 120 metros cuadrados de construcción, se considerará como Habitacional 3 (H3), sujetándose a los lineamientos del artículo 278 fracción I inciso m);
+
+d) Cuando la vivienda o unidad privativa tenga una superficie total de hasta 90 metros cuadrados de construcción, se considerará como Habitacional 4 (H4), sujetándose a los lineamientos del artículo 278 fracción I inciso n); y
+
+e) Para los casos apegados a la Norma Urbanística 8 “Vivienda” de los Planes Parciales de Desarrollo Urbano se considerará como Habitacional 5 (H5), sujetándose a los lineamientos del artículo 278 fracción I inciso ñ).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 279.
 
-Cuando se trate de estacionamiento asociado al uso, además de los lineamientos del artículo anterior, se deberá cumplir con lo siguiente:
+En caso de contar con cajones de estacionamiento con salida en reversa, solo se podrá autorizar en vialidades locales contando con la totalidad del cajón al interior del límite de propiedad, sin invadir la vía pública, y de acuerdo con las dimensiones reglamentadas.
 
-I. Toda maniobra para el estacionamiento de un automóvil debe llevarse a cabo en el interior del Predio, sin invadir la vía pública y en ningún caso deben salir vehículos en reversa a la calle;
+I. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
 
-> <small>(REFORMADA, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 II. El estacionamiento asociado al uso deberá estar en el mismo Predio, o en casos excepcionales en que ello no sea posible, en edificios o terrenos edificables situados a una distancia máxima al acceso de 300 metros lineales, con un mínimo de 20 metros cuadrados por cajón, incluidas rampas de acceso, áreas de maniobra, isletas y banquetas, y un máximo de 30 metros cuadrados;
 
-> <small>(REFORMADA, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-III. En estacionamientos de servicio particular se puede admitir que cuenten con un solo carril de entrada y salida siempre y cuando no se exceda la capacidad de 10 cajones de estacionamiento; y
+III. En estacionamientos de servicio particular se puede admitir que cuenten con un solo carril de entrada y salida siempre y cuando no se exceda la capacidad de 10 cajones de estacionamiento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
+IV. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
 
-IV. Cuando se trate de vialidades locales en predios con una superficie menor a 250 metros cuadrados, la salida en reversa de vehículos será autorizable solo para vivienda unifamiliar.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+IV (SIC). Cuando los establecimientos comerciales, tiendas de autoservicio, tiendas departamentales, centros comerciales, mercados y similares tengan una superficie de venta, exhibición o almacenamiento mayor a 1,500 metros cuadrados, deberán contar con un área de carga y descarga en el interior del lote, de tamaño suficiente para estacionar un camión, con unas bandas perimetrales libres de un metro y un área de almacenamiento de residuos sólidos, sin que los vehículos obstaculicen el libre tránsito peatonal ni vehicular, ni permanezcan en la vía pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 280.
 
@@ -4643,21 +4731,23 @@ II. Las que den frente a vialidad peatonal, o tengan una anchura entre alineacio
 
 III. Las que tengan su frente de fachada inferior a 6.50 metros;
 
-> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN V DE ESTE ARTÍCULO, G.M. 20 DE DICIEMBRE DE 2017]</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-IV. En los inmuebles del catálogo de fincas patrimoniales ubicados en los PIUE de protección patrimonial; y
+IV. En los bienes inmuebles del catálogo de fincas patrimoniales ubicados en los PIUE de protección patrimonial; y
 
-> <small>(REFORMADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN IV DE ESTE ARTÍCULO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+V. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
 
-V. En los bienes inmuebles del catálogo de fincas patrimoniales ubicados en los PIUE de protección patrimonial;
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
+VI. En la regularización de las viviendas unifamiliares;
 
-VI. En la regularización de las viviendas unifamiliares; y
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
+VII. Los comercios establecidos en mercados, o cualquier espacio de comercio al por menor de propiedad pública; y
 
-VII. Los comercios establecidos en mercados, o cualquier espacio de comercio al por menor de propiedad pública.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Los giros de estacionamiento público, pensiones de autos, y similares; solo requieren los cajones propios de su actividad económica.
 
 ###### Artículo 281.
 
@@ -4807,13 +4897,15 @@ En caso de haber apercibimientos que se deriven de las inspecciones, la direcci�
 
 ### CAPÍTULO II. De las Clausuras y Terminación de Obras
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 299.
 
 La Dirección de Inspección y Vigilancia debe ordenar la inmediata suspensión de actividades y en su caso, la clausura de la obra total o parcial por trabajos efectuados sin la licencia de construcción, licencia de urbanización, certificado de habitabilidad, dictamen de la autoridad federal, estatal o municipal competente en patrimonio cultural urbano según sea el caso, Dictamen de Uso de Suelo, cambios en las especificaciones estructurales y arquitectónicas autorizadas, ruptura de pavimento, invasión a la vía pública y restricciones, colocación de antenas para sistemas de telecomunicaciones, construcciones o proceso constructivo llevado a cabo en zona de protección o zonas de riesgo y demás que no se observen u omitan acatar las disposiciones legales y reglamentarias vigentes. En caso de existir director responsable de obra este deberá ser corresponsable solidario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+Los inspectores, previa identificación, y cumpliendo las disposiciones legales y reglamentarias aplicables, pueden entrar en edificios desocupados o en construcción para los fines de inspección y mediante orden escrita, fundada y motivada de la Dirección de Inspección y Vigilancia, pueden penetrar en edificios habitados exclusivamente para el cumplimiento de la orden mencionada, satisfaciendo, en su caso, los requisitos constitucionales necesarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 300.
 
@@ -4821,11 +4913,15 @@ Puede ordenarse la suspensión o clausura total o parcial de una obra por las si
 
 I. Por haberse incurrido en falsedad en los datos consignados en las solicitudes de licencia;
 
-II. Por omitirse en las solicitudes de licencia la declaración de que el bien inmueble está sujeto a disposiciones sobre protección al patrimonio cultural urbano;
+II. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
 
-III. Por carecer en la obra de bitácora oficial, a que se refiere este ordenamiento o porque en la misma aun habiéndola, carezca de los datos necesarios;
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-IV. Por estarse ejecutando sin licencia una obra, para la que sea necesaria aquella;
+III. Por carecer en la obra de bitácora oficial, a que se refiere este ordenamiento o porque en la misma aun habiéndola, no coincida con el proyecto y avance de la obra, así como firmarla en blanco o llenarla previamente sin que sea firmada esta;
+
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Por estarse ejecutando sin licencia una obra, de construcción, reconstrucción, remodelación, reposición, desmontaje, bardeo, demolición, ampliación, adaptación, instalación o canalización, para la que sea necesaria aquella;
 
 V. Por ejecutarse una obra modificando el proyecto, las especificaciones o los procedimientos aprobados;
 
@@ -4841,7 +4937,9 @@ VIII. Ejecutar una obra de urbanización sin licencia correspondiente o encontra
 
 IX. Impedir u obstaculizar al personal de la Dirección de Inspección y Vigilancia y demás personal autorizado del Municipio, el cumplimiento de sus funciones;
 
-X. Por usarse una construcción o parte de ella sin haberse terminado ni obtenido el certificado de habitabilidad o por usarse en un uso distinto del señalado en la Licencia de Construcción;
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+X. Por usarse una construcción o parte de ella sin haberse terminado ni obtenido el certificado de habitabilidad;
 
 XI. Por ejecutar obras o trabajos de construcción que causen daños o molestias a los vecinos;
 
@@ -4855,7 +4953,9 @@ XIII. Por estar ejecutando una obra sobre un bien inmueble sujeto a protección 
 
 XIV. Por no respetar las áreas de restricción;
 
-XV. Por invadir propiedad municipal;
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Por invadir, construir o delimitar sin autorización, propiedad municipal;
 
 XVI. Por construir o delimitar en zonas de riesgo;
 
@@ -4877,9 +4977,9 @@ XXI. Por violar o retirar sellos de clausura;
 
 XXII. Por estar ejecutando una obra fuera del horario de 7 a 22 horas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXIII. Por ocupar aceras y cocheras con vehículos o materiales;
+XXIII. Por ocupar o invadir con materiales, enseres, o de cualquier forma la vía pública;
 
 > <small>(REFORMADA, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -4897,13 +4997,13 @@ XXVI. No respetar lo establecido en el dictamen de impacto ambiental;
 
 XXVII. No presentar dictamen de impacto ambiental al momento de la inspección;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXVIII. No presentar la constancia de medidas de seguridad o visto bueno emitido por la Dirección de Protección Civil y Bomberos o tenerlo vencido;
+XXVIII. No presentar la constancia o tenerla vencida, de medidas de seguridad o visto bueno, emitido por la Dirección de Protección Civil y Bomberos o de la Dirección de Resiliencia, según sea el caso;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXIX. No cumplir por lo previsto en la constancia de medidas de seguridad o visto bueno emitido por la Dirección de Protección Civil y Bomberos;
+XXIX. No cumplir con lo previsto en la constancia de medidas de seguridad o visto bueno emitido por la Dirección de Protección Civil y Bomberos o de la Dirección de Resiliencia, según sea el caso;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -4913,13 +5013,11 @@ XXX. Realizar poda o derribo de sujeto forestal para la ejecución de una acció
 
 XXXI. No respetar la suspensión de la licencia de urbanización autorizada por la Dirección de Obras Públicas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXXII. No presentar en original o copia certificada al momento de la inspección: licencia, planos autorizados, dictámenes, certificados, estudios, pruebas de calidad, memoria descriptiva y demás documentos requeridos por la autoridad para la ejecución de su proyecto;
+XXXII. No presentar en original o copia certificada al momento de la inspección, o bien en el formato digital autorizado tratándose de licencias emitidas por medios electrónicos: licencia, planos autorizados, dictámenes, certificados, estudios, pruebas de calidad, memoria descriptiva, pancarta y demás documentos requeridos por la autoridad para la ejecución de su proyecto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
-
-XXXIII. Firmar la Bitácora en blanco, o llenarla previamente sin que sea firmada esta;
+XXXIII. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -4937,9 +5035,25 @@ XXXVI. Incumplir con lo autorizado en permuta de cajones de estacionamiento;
 
 XXXVII. Incumplir lo establecido en el visto bueno de los estudios de movilidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXXVIII. Modificar o dañar la infraestructura de movilidad, como machuelo; y banqueta, delimitadores, ingresos peatonales y vehiculares, y análogos.
+XXXVIII. Modificar o dañar la infraestructura de movilidad, como machuelo; y banqueta, delimitadores, ingresos peatonales y vehiculares, y análogos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIX. Por tener vencida la licencia de construcción, dictámenes, permisos o autorizaciones de las dependencias correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XL. Por suprimir cajones de estacionamiento mínimos autorizados, o bien incrementar el número de cajones de estacionamiento máximos autorizados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XLI. Por modificar el uso de suelo autorizado o vigente conforme a la normativa urbana municipal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XLII. Por eliminar o reducir patios o espacios de ventilación e iluminación que sean requeridos conforme a la normativa aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -5444,3 +5558,13 @@ Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalaj
 Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicado el presente reglamento, remítase mediante oficio un tanto de este al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA Y AL REGLAMENTO ORGÁNICO DEL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
