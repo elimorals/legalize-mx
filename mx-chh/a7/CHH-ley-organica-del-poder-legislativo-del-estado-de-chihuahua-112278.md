@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2018-09-26"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1193,9 +1193,11 @@ En lo no previsto, expresamente, para estos cuerpos colegiados, se estará a lo 
 
 Los Comités del Congreso, son órganos auxiliares integrados por diputadas y diputados, que realizan tareas diferentes a las de las Comisiones.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 118.
 
-Los Comités se integrarán con un máximo de cinco miembros y un mínimo de tres. En su integración, se reflejará la paridad de género, y tendrán las atribuciones que esta Ley, sus reglamentos y demás normatividad les señalen.
+El Comité de Biblioteca se conformará con un máximo de cinco miembros y un mínimo de tres, y el Comité de Administración se integrará hasta por tantos Partidos Políticos se encuentren representados en la Legislatura. En su integración, se reflejará la paridad de género, y tendrán las atribuciones que esta Ley, sus reglamentos y demás normatividad les señalen.
 
 ###### ARTÍCULO 119.
 
@@ -1323,25 +1325,27 @@ Para ser titular de los Órganos Técnicos a que se refiere el artículo 124 de 
 
 I.- Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos.
 
-II.- Contar con una edad mínima de treinta años el día de la designación.
+II.- (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
 III.- Tener grado de licenciatura, con las especificaciones siguientes:
 
-a) Tratándose de la o el Titular de las Secretarías de Asuntos Legislativos, de Asuntos Interinstitucionales, de la Unidad de Transparencia y del Instituto de Estudios e Investigación Legislativa, necesariamente tendrá que contar con Licenciatura en Derecho, con antigüedad mínima de cinco años.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+a) Tratándose de la o el Titular de las Secretarías de Asuntos Legislativos, de Asuntos Interinstitucionales, de la Unidad de Transparencia y del Instituto de Estudios e Investigación Legislativa, necesariamente tendrá que contar con Licenciatura en Derecho con antigüedad mínima de dos años.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
 b) Tratándose de la Secretaría de Administración, acreditar los conocimientos y la experiencia en las áreas relacionadas con las funciones propias del cargo.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-c) Tratándose de la o el Titular de la Dirección de Archivos, necesariamente tendrá que contar con Licenciatura en alguna de las Ciencias de la Información como son Archivonomía, Bibliotecología y/o Gestión Documental o similar, con antigüedad mínima de tres años.
+c) Tratándose de la o el Titular de la Dirección de Archivos, necesariamente tendrá que contar con Licenciatura en alguna de las Ciencias Humanas como son Derecho, Sociología, Psicología, Antropología, Historiografía, o Licenciatura en alguna de las Ciencias de la Información como son Archivonomía, Bibliotecología y/o Gestión Documental.
 
 IV.- No haber sido condenado (a) por delitos dolosos que ameriten pena privativa de la libertad.
 
-V.- No haber sido dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en los comicios, ya sea federal o estatal, inmediato anterior a la designación.
+V.- (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2018)
 
 VI.- No ser ministro de culto religioso.
 
@@ -1398,6 +1402,10 @@ XX.- Integrar los archivos para realizar, en su caso, la entrega-recepción de l
 XXI.- Atender lo que le encomiende el Pleno, la Junta de Coordinación Política o quien presida la Mesa Directiva, el Comité de Administración y las demás actividades que le señalen la presente Ley, sus reglamentos y otros ordenamientos legales aplicables, en los términos de los lineamientos que se establezcan para tal efecto.
 
 XXII.- Atender, de manera expedita, las recomendaciones que le formula la Contraloría Interna del Congreso.
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII.- A través de la Dirección de Planeación y Evaluación, para planear y evaluar, en coordinación con los Órganos Técnicos del H. Congreso del Estado, las actividades de estos, así como ejecutar el sistema de evaluación del desempeño de los Diputados.
 
 ### CAPÍTULO V. DE LA AUDITORÍA SUPERIOR
 
@@ -2680,3 +2688,15 @@ La Secretaría de Asuntos Legislativos, deberá realizar los lineamientos necesa
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Administración, deberá realizar las asignaciones presupuestarias a la entrada en vigor del presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0009/2018 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Estado.
