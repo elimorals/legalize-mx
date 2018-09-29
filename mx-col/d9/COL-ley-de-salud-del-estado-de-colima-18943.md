@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2018-06-02"
+last_updated: "2018-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE SALUD DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE SALUD DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -2173,7 +2175,7 @@ P.O. 7 DE FEBRERO DE 2015.
 
 P.O. 14 DE FEBRERO DE 2015.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial “El Estado de Colima”.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO. La Secretaría de Salud emitirá los lineamientos que señalen las características para la colocación, medida y forma del letrero a que alude el artículo 15 BIS 1 de la Ley de Salud del Estado de Colima, en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto.
 
@@ -2208,3 +2210,11 @@ P.O. 2 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 492 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 80 BIS 2 DE LA LEY DE SALUD DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 535 POR EL QUE SE APRUEBA EXPEDIR LA LEY DE SALUD DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley de Salud del Estado de Colima, publicada mediante decreto 46 en el Periódico Oficial "El Estado de Colima" con fecha 23 de diciembre del 2000.
