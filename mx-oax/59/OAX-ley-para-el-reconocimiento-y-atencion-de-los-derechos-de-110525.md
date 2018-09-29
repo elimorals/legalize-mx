@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-reconocimiento-y-atencion-de-los-derechos-de-110525
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-31"
-last_updated: "2015-10-31"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Onceava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2015.
 
@@ -669,9 +669,11 @@ IX. Las que le señalen las demás disposiciones normativas aplicables.
 
 ### CAPÍTULO ÚNICO. DEL PADRÓN ESTATAL DE MIGRANTES Y SUS FAMILIAS
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 48.
 
-El Instituto creará el Padrón Estatal de Migrantes y sus familias, que tendrá por objeto facilitar el otorgamiento de servicios, así como, para fines estadísticos y de planeación. El funcionamiento y operación del Padrón Estatal, se desarrollará conforme al Reglamento que para tal efecto emita el Instituto.
+El Instituto creará el Padrón Estatal de Migrantes y sus familias, que tendrá por objeto facilitar el otorgamiento de servicios, así como, para fines estadísticos y de planeación. El funcionamiento y operación del Padrón Estatal, se desarrollará conforme al Reglamento que para tal efecto emita el Instituto, el cual establecerá el tipo de documento que como requisito de identificación acrediten los migrantes extranjeros para su alta.
 
 ###### Artículo 49.
 
@@ -738,3 +740,13 @@ LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
 AL C…
 
 NOTA: Las presentes firmas corresponden al Decreto N° 1319.- por el que la Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, expide (sic) Ley para el Reconocimiento y Atención de los Derechos de los Migrantes y sus Familias para el Estado de Oaxaca.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1554.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE (SIC) DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
