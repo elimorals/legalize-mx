@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2018-06-20"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -479,6 +479,26 @@ XXIII. Proponer a la Secretaría de Educación Pública los contenidos regionale
 
 XXIV. Ajustar calendarios y horarios de clase de acuerdo a las necesidades regionales, dependiendo del tipo y grado de educación y circunstancias de las y los educandos, cumpliendo con el número de días y horas que establece el calendario oficial;
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Las autoridades escolares, previa autorización de la autoridad educativa local, y de conformidad con los lineamientos que expida la Secretaría, podrán ajustar el calendario escolar al que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Dichos ajustes deberán prever las medidas para cubrir los planes y programas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+La suspensión de clases, por días u horarios específicos no previstos en el calendario escolar autorizado al inicio del ciclo escolar correspondiente, sólo podrá ser autorizada por la autoridad que haya establecido o, en su caso, ajustado el correspondiente calendario escolar. Estas autorizaciones únicamente podrán concederse en casos extraordinarios o de fuerza mayor, y si no implican incumplimiento de los planes y programas.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+De presentarse interrupciones por caso extraordinario o de fuerza mayor, la autoridad educativa tomará las medidas para recuperar los días y horas perdidos, salvo que por cualquier circunstancia se ponga en riesgo la salud y la vida de los alumnos de los diversos niveles educativos.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de presentarse emergencias debidamente justificadas ante la autoridad federal de la materia, que ameriten ajustes emergentes del calendario escolar en días u horas determinados, la autoridad educativa local publicará en el órgano informativo oficial de la propia entidad, las autorizaciones de ajustes que, de acuerdo a las necesidades regionales, haga la Secretaría al calendario escolar.
+
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXV. Revalidar y otorgar equivalencias de estudios de la educación preescolar, primaria, secundaria, normal y demás para la formación de profesionales de la educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
@@ -616,6 +636,10 @@ LVI. Generar, sostener y evaluar políticas públicas tendientes a evitar el aco
 ###### ARTÍCULO 14.
 
 La Autoridad Educativa Estatal procurará, en forma permanente, ampliar, mejorar y modernizar los servicios educativos que, por disposición de la Ley, queden bajo su jurisdicción y competencia, según los objetivos establecidos en el Programa Estatal de Educación, así como los que se desprendan de las distintas evaluaciones que se realicen al Sistema Educativo Estatal.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Las escuelas de educación básica y media del Sistema Educativo Estatal, podrán contar con un área especializada en psicología clínica y educativa con el objetivo de tratar, cuidar, atender y orientar a los educandos a fin de permitirles el pleno desarrollo de su vida, habilidades intelectuales, emocionales y sociales. De igual manera el área especializada en psicología ofrecerá asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los alumnos, de la manera más integral posible, según su ámbito de competencia y posibilidad operativa.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4352,3 +4376,15 @@ P.O. 20 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0761/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN LIII DEL ARTÍCULO 13 DE LA LEY ESTATAL DE EDUCACIÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0860/2018 XVI P.E., POR MEDIO DEL CUAL SE ADICIONAN 5 PÁRRAFOS A LA FRACCIÓN XXIV DEL ARTÍCULO 13 DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0870/2018 XVII P.E., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 14 UN PÁRRAFO SEGUNDO, DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
