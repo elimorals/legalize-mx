@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "2016-11-22"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -513,13 +513,17 @@ XXVI.- Realizar todas las acciones que se requieran, directa o indirectamente, p
 
 XXVII. Publicitar en sus portales de internet toda la información relativa a sus operaciones administrativas y financieras, con la finalidad de cumplir con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXVIII.- Elaborar la programación y presupuestación anual de obras, debiendo someterla para acuerdo del Consejo de Administración y posteriormente remitirla a la Comisión Estatal en el mes de agosto anterior a su ejercicio, para efectos de que ésta contribuya en la gestión de los recursos correspondientes, y una vez definidos los techos financieros hacerlos del conocimiento de los organismos operadores para que se elaboren los expedientes técnicos respectivos; y
+XXVIII.- Elaborar la programación y presupuestación anual de obras, debiendo someterla para acuerdo del Consejo de Administración y posteriormente remitirla a la Comisión Estatal en el mes de agosto anterior a su ejercicio, para efectos de que ésta contribuya en la gestión de los recursos correspondientes, y una vez definidos los techos financieros hacerlos del conocimiento de los organismos operadores para que se elaboren los expedientes técnicos respectivos;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXIX.- Las demás que señale esta Ley y otras disposiciones legales.
+XXIX. Gestionar el cobro de aportaciones voluntarias que constituyan ingresos distintos a los calculados al aplicar las cuotas y tarifas de la prestación de sus servicios, así como transferirlas a terceros, de acuerdo a la legislación aplicable; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXX. Las demás que señale esta ley y otras disposiciones legales.
 
 ###### ARTICULO 21.
 
@@ -1766,3 +1770,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 534 POR EL QUE SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS PARA EL ESTADO DE COLIMA Y DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA Y SE REFORMAN LOS ARTÍCULOS 40 Y 41 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
