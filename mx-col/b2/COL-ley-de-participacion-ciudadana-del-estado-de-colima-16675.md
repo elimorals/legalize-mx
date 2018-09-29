@@ -4,7 +4,7 @@ identifier: "COL-ley-de-participacion-ciudadana-del-estado-de-colima-16675"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-22"
-last_updated: "2018-07-07"
+last_updated: "2018-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 29 DE SEPTIEMBRE DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS 180 DÍAS NATURALES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA".]</small>
+
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el suplemento No. 1 del Periódico Oficial "El Estado de Colima", el sábado 22 de enero de 2000.
 
@@ -854,3 +856,21 @@ P.O. 7 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 504 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 10, EL PÁRRAFO PRIMERO DEL ARTÍCULO 20 Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 34 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 531 POR EL QUE SE APRUEBA EXPEDIR LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los 180 días naturales de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley de Participación Ciudadana del Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima", mediante decreto 244, de fecha 22 de enero del año 2000.
+
+TERCERO.- Los Poderes del Estado así como los Ayuntamientos realizarán las adecuaciones necesarias en las leyes y reglamentos correspondientes, derivados del presente decreto, en un plazo no mayor a 180 días hábiles, contados a partir de su entrada en vigor.
+
+CUARTO.- El Congreso del Estado deberá expedir y realizar las adecuaciones a la legislación secundaria derivadas del presente decreto, en un plazo no mayor a 180 días hábiles, contados a partir de su entrada en vigor.
+
+QUINTO.- Los Ayuntamientos harán las modificaciones necesarias en su proyecto de egresos del año fiscal siguiente al que entre en vigor el presente Decreto, a fin de incluir las partidas necesarias para la aplicación y ejecución del presupuesto participativo que se destine en su municipio.
+
+SEXTO.- El Instituto Electoral del Estado hará las modificaciones conducentes en su proyecto de egresos del año fiscal siguiente al que entre en vigor el presente Decreto, para efecto de la aplicación y ejecución de la presente Ley.
+
+SÉPTIMO.- Se derogan todas las disposiciones estatales y municipales que contravengan lo contemplado en el presente decreto.
