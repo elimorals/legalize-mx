@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "2018-06-02"
+last_updated: "2018-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -613,6 +613,10 @@ Asimismo, se respetarán las áreas clasificadas para asegurar la conservación 
 
 ARTICULO 23 BIS 6.- Las instalaciones destinadas a la activación física, la cultura física, el deporte y en las que se celebren eventos o espectáculos deportivos deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, a fin de procurar la integridad y seguridad de los asistentes y participantes, privilegiando la sana y pacífica convivencia, de manera que impidan o limiten al máximo las posibles manifestaciones de violencia y discriminación y cualquier otra conducta antisocial, propiciando en todo tiempo la cultura de la paz con el fin de conseguir que el deporte sea un referente de integración y convivencia social.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Dichas instalaciones dedicadas a la cultura física y al deporte procurarán contar con al menos un botiquín de primeros auxilios al alcance de todas las personas.
+
 ### CAPITULO VI. DE LA PARTICIPACION DE LOS MUNICIPIOS EN EL SISTEMA ESTATAL DEL DEPORTE
 
 ###### ARTICULO 24.
@@ -1113,6 +1117,12 @@ P.O. 25 DE NOVIEMBRE DE 2017.
 
 P.O. 2 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 493 POR EL QUE SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 1, LA FRACCIÓN VII AL ARTÍCULO 2 BIS, EL ARTÍCULO 5, UN INCISO F) A LA FRACCIÓN VI DEL ARTÍCULO 14, LA FRACCIÓN VIII DEL ARTÍCULO 33, UN INCISO J) AL ARTÍCULO 38 Y UN INCISO G) AL ARTÍCULO 39; SE REFORMA EL ARTÍCULO 2 BIS, 2 BIS 1, 2 BIS 3 Y 2 BIS 5, 3, 5 BIS Y LA FRACCIÓN XI DEL ARTÍCULO 17 A LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 493 POR EL QUE SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 1, LA FRACCIÓN VII AL ARTÍCULO 2 BIS, EL ARTÍCULO 5, UN INCISO F) A LA FRACCIÓN VI DEL ARTÍCULO 14, LA FRACCIÓN VIII DEL ARTÍCULO 33, UN INCISO J) AL ARTÍCULO 38 Y UN INCISO G) AL ARTÍCULO 39; SE REFORMA EL ARTÍCULO 2 BIS, 2 BIS 1, 2 BIS 3 Y 2 BIS 5, 3, 5 BIS Y LA FRACCIÓN XI DEL ARTÍCULO 17 A LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 554 POR EL QUE SE REFORMA EL ARTÍCULO 11 FRACCIONES XXVIII Y XXIX; Y SE ADICIONAN LAS FRACCIONES XXX Y XXXI AL ARTÍCULO 11; LA FRACCIÓN IV AL ARTÍCULO 89, HACIÉNDOSE EL CORRIMIENTO CORRESPONDIENTE, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA; SE REFORMAN LA FRACCIÓN VI DEL ARTICULO 2º; EL PÁRRAFO SEGUNDO AL ARTÍCULO 6; 27; Y LA FRACCIÓN V DEL ARTÍCULO 44; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 2; ARTÍCULO 27 BIS; ARTÍCULO 27 TER; SE (SIC), TODOS DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 23 BIS 6, DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
