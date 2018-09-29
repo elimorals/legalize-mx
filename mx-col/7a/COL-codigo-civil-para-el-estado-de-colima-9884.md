@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2018-06-02"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -3001,6 +3001,10 @@ ART. 410 D.- El Juez podrá dispensar el consentimiento de las personas que debi
 
 ART. 410 E.- El consentimiento deberá referirse inequívocamente a la adopción plena, y deberá manifestarse ante el Juez competente, quien informará al declarante, de manera que no quede a éste dudas, sobre el contenido y alcance del acto. Se levantará acta, que será leída al o a los declarantes, quienes firmarán ante el Juez.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
+
+ART. 410 G.- El consentimiento que se diere ante un organismo público o privado de asistencia, podrá ser revocado mientras el sujeto de adopción no haya sido colocado bajo la guarda de un matrimonio, con vistas a su adopción.
+
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE JULIO DE 2009)</small>
 
 ART. 410 F.- El consentimiento podrá ser otorgado con independencia del procedimiento de adopción, si el sujeto de adopción hubiese sido confiado a un establecimiento de asistencia pública o particular reconocido por el Estado. En este caso, el consentimiento deberá ser extendido por escrito, firmado por los declarantes y por el representante legal del establecimiento. No será necesaria, en ese momento, la identificación del futuro matrimonio adoptante.
@@ -3008,10 +3012,6 @@ ART. 410 F.- El consentimiento podrá ser otorgado con independencia del procedi
 Podrá ser otorgado, también, por escrito extrajudicialmente, cuando el sujeto de adopción fuese colocado bajo la guarda y custodia de un matrimonio, con miras a su futura adopción plena. La presentación de ese escrito al juzgado competente, en ocasión del procedimiento de adopción, no excluirá la citación al juicio de quienes deban dar el consentimiento y sólo servirá como elemento probatorio de la voluntad de adopción otorgada.
 
 En el caso del párrafo que antecede, el Juez podrá dispensar la ratificación del consentimiento de las personas que debieran otorgarlo, si por alguna razón existiere grave dificultad para recabarlo y esto resulte en perjuicio del sujeto de adopción.
-
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 410 G.- El consentimiento que se diere ante un organismo público o privado de asistencia, podrá ser revocado mientras el sujeto de adopción no haya sido colocado bajo la guarda de un matrimonio, con vistas a su adopción.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -3039,15 +3039,15 @@ ART. 410 LL.- La adopción plena es irrevocable. No puede terminar por acuerdo e
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
-ART. 410 M.- Los casos en que procede la adopción plena deben ser constatados judicialmente y aún en los casos de abandono o exposición de infantes, tiene que seguirse previamente un juicio de pérdida de la patria potestad, antes de dar en adopción a cualquier persona.
-
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
-
 ART. 410 N.- Si alguno de los adoptantes fallece después de haber iniciado el procedimiento judicial de la adopción, podrá continuar el trámite el cónyuge supérstite, surtiendo efectos para ambos cónyuges, siempre que la voluntad del fallecido hubiere sido expresada y ratificada ante Juez competente o Notario Público en presencia de cuatro testigos o que el fallecido hubiese acogido regularmente al sujeto de la adopción con vistas a ésta.
 
 Cuando no se hubiese presentado la solicitud ante el Juez competente, podrán hacerlo en su nombre, el cónyuge supérstite o alguno de los herederos.
 
 Si existe oposición de los herederos, o no lo solicita el cónyuge a nombre del extinto y sólo lo hace al suyo, sólo tendrá efectos para él.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
+
+ART. 410 M.- Los casos en que procede la adopción plena deben ser constatados judicialmente y aún en los casos de abandono o exposición de infantes, tiene que seguirse previamente un juicio de pérdida de la patria potestad, antes de dar en adopción a cualquier persona.
 
 ART. 410 Ñ.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
@@ -7183,7 +7183,7 @@ I.- Haya aplicado en forma adecuada el procedimiento acordado previamente con el
 
 II.- El mensaje de datos que reciba el destinatario o la parte que confía, resulte de los actos de un Intermediario que le haya dado acceso a algún método utilizado por el emisor para identificar un mensaje de datos como propio.
 
-Lo dispuesto en el artículo no se aplicará:
+Lo dispuesto en el presente artículo no se aplicará:
 
 I.- A partir del momento en que el destinatario haya sido informado por el Emisor de que el mensaje de datos no provenía de éste, y haya dispuesto de un plazo razonable para actuar en consecuencia; y
 
@@ -8865,7 +8865,13 @@ ART. 2260.- La donación puede ser revocada por ingratitud:
 
 I.- Si el donatario comete algún delito contra la persona, la honra o los bienes del donante o de los ascendientes, descendientes o cónyuges de éste;
 
-II.- Si el donatario rehusa socorrer, según el valor de la donación, al donante que ha venido a pobreza.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+II.- Si el donatario rehúsa socorrer, según el valor de la donación, al donante que ha venido a pobreza; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+III.- Si el donatario incurre en abandono respecto del donante, en el caso previsto por el artículo 37 de la Ley para la Protección de los Adultos en Plenitud del Estado de Colima.
 
 ART. 2261.- Es aplicable a la revocación de las donaciones hechas por ingratitud lo dispuesto en los artículos 2,251 al 2,254.
 
@@ -11510,3 +11516,9 @@ P.O. 2 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 490 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 282 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 212 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 544 POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA Y SE REFORMA LA FRACCIÓN III AL ARTÍCULO 2260 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
