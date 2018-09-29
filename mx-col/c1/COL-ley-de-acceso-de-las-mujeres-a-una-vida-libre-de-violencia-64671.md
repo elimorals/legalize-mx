@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2018-09-01"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -1655,6 +1655,34 @@ III.- Intervención temprana y mediata a los determinados tipos y modalidades de
 
 IV.- Capacitación psicojurídica transversal de los servidores públicos del Estado y sus Municipios sobre esquemas de detección de factores de riesgo, por lo menos una vez al año.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 78 BIS.- Las acciones que lleven a cabo el Estado y los Municipios, estarán encaminadas a la prevención, atención, sanción y erradicación de la violencia contra las mujeres y tendrán como función:
+
+I. Informar y orientar a las víctimas sobre sus derechos y los recursos existentes para la defensa de los mismos;
+
+II. Proporcionar protección inmediata y efectiva por parte de las entidades públicas orientadas a ese fin;
+
+III. Brindar un trato digno, privacidad y respeto durante cualquier entrevista o actuación como víctima de violencia;
+
+IV. Otorgar asesoría jurídica gratuita en los asuntos relacionados con la violencia de la cual sea víctima, que favorezca su empoderamiento, cese o disminuya la conducta violenta raíz de la cual es víctima y reparen el daño causado por dicha violencia;
+
+V. Procurar asistencia médica y psicológica que favorezca su empoderamiento, cese o disminuya la conducta violencia raíz de la cual es víctima y reparen el daño causado por dicha violencia;
+
+VI. Efectuar acciones de asistencia social que contribuyan a su pleno desarrollo, en coordinación con las entidades correspondientes, según sea el caso;
+
+VII. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijos;
+
+VIII. Brindar asesoría y educación sobre la prevención y erradicación de la violencia contra las mujeres, dirigidos a las personas agresoras;
+
+IX. Evitar que la atención que reciba la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar;
+
+X. Favorecer la separación provisional de la persona agresora con respecto a la víctima, protegiendo primordialmente a las víctimas y sus hijos e hijas; y
+
+XI. Las demás que establezca esta Ley y demás disposiciones aplicables.
+
+Podrán beneficiarse de las medidas establecidas en la presente Ley, además de las víctimas, los niños, niñas y adolescentes que se encuentren bajo su patria potestad, guarda o tutela y, en su caso, cualquier otra persona en situación de dependencia de la mujer.
+
 ###### ARTÍCULO 79.
 
 Se integrará a los modelos de prevención, la identificación de riesgo y de factores protectores por cada uno de los tipos y Modalidades de Violencia a partir del impacto que genera en las mujeres. Sin perjuicio de las estrategias de difusión y visibilización de la violencia de género y sus consecuencias individuales y colectivas, así como la información de las instancias de atención en el Estado.
@@ -1706,6 +1734,44 @@ II.- Acción constante para la ejecución;
 III.- Consolidación de los objetivos alcanzados; y
 
 IV.- Conservación del estado obtenido.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+ARTÍCULO 87 BIS.- Las entidades públicas deberán sancionar la violencia contra la mujer y no invocar ninguna costumbre, tradición o consideración religiosa para eludir su obligación de procurar eliminarla. Del mismo modo aplicarán por todos los medios apropiados y sin demora las políticas públicas encaminadas a eliminar la violencia contra la mujer. Con este fin, deberán:
+
+I. Rehusar la práctica de todo tipo de violencia contra la mujer;
+
+II. Proceder con la debida diligencia a fin de prevenir, investigar y sancionar, conforme a la legislación estatal, todo acto de violencia contra la mujer, ya se trate de actos perpetrados por autoridades o por particulares;
+
+III. Denunciar conforme a la legislación civil, penal, laboral, administrativa y electoral a fin de que se sancionen y reparen los agravios ocasionados a las mujeres que sean objeto de violencia;
+
+IV. Garantizar a las mujeres el acceso a la justicia;
+
+V. Elaborar planes de acción estatal y municipal, para promover la protección de la mujer contra toda forma de violencia e incluir disposiciones con ese fin en los planes existentes, teniendo en cuenta, según proceda, la cooperación que puedan proporcionar las organizaciones no gubernamentales;
+
+VI. Elaborar, con carácter general, enfoques de tipo preventivo y todas las medidas de índole jurídica, política, administrativa y cultural que puedan fomentar la protección de la mujer contra toda forma de violencia, y evitar eficazmente la reincidencia en la victimización de la mujer como consecuencia de leyes, prácticas de aplicación de la Ley y otras intervenciones que no tengan en cuenta la discriminación contra la mujer;
+
+VII. Procurar dentro de un marco de cooperación interinstitucional, que las mujeres víctimas de violencia y sus hijos, dispongan de asistencia especializada, como servicios de rehabilitación, ayuda para el cuidado y manutención de sus hijos e hijas, tratamiento, asesoría, servicios, instalaciones y programas sociales y de salud, así como estructuras de apoyo;
+
+VIII. Consignar en los presupuestos del Estado y de los Municipios los recursos adecuados para las actividades relacionadas con la eliminación de la violencia contra la mujer;
+
+IX. Adoptar medidas para que las autoridades encargadas de hacer cumplir la Ley, y los funcionarios que han de aplicar las políticas de prevención, investigación y castigo de la violencia contra la mujer, reciban una formación que las sensibilice respecto de las necesidades de la mujer;
+
+X. Adoptar todas las medidas apropiadas, especialmente en el sector educativo en coordinación con la familia, para modificar las pautas sociales y culturales de comportamiento del hombre y de la mujer y eliminar los prejuicios y las prácticas consuetudinarias o de otra índole basadas en la idea de la inferioridad o la superioridad de uno de los sexos y en la atribución de papeles estereotipados al hombre y a la mujer;
+
+XI. Promover la investigación, recoger datos y compilar estadísticas, especialmente en lo concerniente a la violencia en el hogar, relacionadas con la frecuencia de las distintas formas de violencia contra la mujer, y fomentar las investigaciones sobre las causas, la naturaleza, la gravedad y las consecuencias de esta violencia, así como sobre la eficacia de las medidas aplicadas para impedirla y reparar sus efectos; se deberán publicar esas estadísticas, así como las conclusiones de las investigaciones;
+
+XII. Adoptar medidas orientadas a eliminar la violencia contra las mujeres en situación de vulnerabilidad;
+
+XIII. Proporcionar modelos de atención, prevención y sanción que establezcan el Estado y los Municipios, siendo estos el conjunto de medidas y acciones con perspectiva de género para proteger a las víctimas de violencia familiar, que garanticen a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales.
+
+XIV. Promover la elaboración de directrices adecuadas para ayudar a aplicar los principios enunciados en la presente Ley;
+
+XV. Reconocer el importante papel que desempeñan en todo el mundo. El movimiento en pro de la mujer y las organizaciones no gubernamentales en la tarea de despertar la conciencia acerca del problema de la violencia contra la mujer y aliviar dicha dificultad;
+
+XVI. Facilitar y promover la labor del movimiento en pro de la mujer y las organizaciones no gubernamentales, y cooperar con ellos en los planos local, regional y nacional; y
+
+XVII. Alentar a las organizaciones a las que pertenezcan a que incluyan en sus programas, según convenga, la eliminación de la violencia contra la mujer.
 
 ###### ARTÍCULO 88.
 
@@ -1781,7 +1847,7 @@ En el Presupuesto del Gobierno del Estado, se deberán considerar las asignacion
 
 ###### ARTÍCULO SEXTO.
 
-El Banco Estatal de Datos sobre Casos de Violencia contra las Mujeres a (sic) que refiere la presente Ley, deberá integrarse dentro de los 365 días siguientes a la conformación del Sistema Estatal.
+El Banco Estatal de Datos sobre Casos de Violencia contra las Mujeres a que refiere la presente Ley, deberá integrarse dentro de los 365 días siguientes a la conformación del Sistema Estatal.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -1883,12 +1949,18 @@ P.O. 12 DE MAYO DE 2018.
 
 P.O. 1 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 520 POR EL QUE SE ADICIONA UN CAPÍTULO IV DENOMINADO "PROTOCOLO ALBA" AL TÍTULO TERCERO DE LOS MECANISMOS GARANTES, Y LOS ARTÍCULOS 39 TER, 39 QUÁTER, 39 QUINQUIES Y 39 SEXIES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 520 POR EL QUE SE ADICIONA UN CAPÍTULO IV DENOMINADO “PROTOCOLO ALBA” AL TÍTULO TERCERO DE LOS MECANISMOS GARANTES, Y LOS ARTÍCULOS 39 TER, 39 QUÁTER, 39 QUINQUIES Y 39 SEXIES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
 
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- La Fiscalía General del Estado de Colima, tendrá 90 días naturales a partir de la entrada en vigor del presente Decreto, para emitir los lineamientos del Protocolo Alba, apegándose a lo establecido en los diversos instrumentos nacionales e internacionales.
 
 TERCERO.- La Fiscalía General del Estado de Colima, tendrá 120 días naturales a partir de la entrada en vigor del presente Decreto, como plazo máximo para instalar el Grupo Técnico de Colaboración del Protocolo Alba.
 
 CUARTO.- Hasta en tanto se constituya la Fiscalía General del Estado de Colima, las referencias que se hagan a ella en el presente Decreto se entenderán hechas a la Procuraduría General de Justicia del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 522 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 78 BIS Y 86 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
