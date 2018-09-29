@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-reconocimiento-y-atencion-de-los-derechos-de-110525
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-31"
-last_updated: "2015-10-31"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,389 +21,397 @@ state: "OAX"
 ---
 # LEY PARA EL RECONOCIMIENTO Y ATENCION DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
 
-LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
+REGLAMENTO DE TURISMO MUNICIPAL DE CUERNAVACA, MORELOS
 
 TEXTO ORIGINAL.
 
-Ley publicada en la Onceava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2015.
+Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 21 de agosto de 2002.
 
-LIC. GABINO CUE MONTEAGUDO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+Al margen izquierdo un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia Municipal, Cuernavaca, Mor.
 
-QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
+EL HONORABLE AYUNTAMIENTO CONSTITUCIONAL DE CUERNAVACA, MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 115 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, 113 SEGUNDO PÁRRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, 53 FRACCIÓN II, 155, 156, 157 FRACCIÓN IV, 159 Y 160 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS; Y
 
-DECRETO No. 1319
+C O N S I D E R A N D O.
 
-LA SEXAGÉSIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
+En tal virtud, este H. Ayuntamiento tiene a bien aprobar el siguiente:
 
-D E C R E T A :
-
-LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
+REGLAMENTO DE TURISMO MUNICIPAL
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. DE LAS GENERALIDADES Y OBJETO DE LA LEY
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-Las disposiciones de la presente Ley son de orden público, interés social y observancia general en el Estado y tienen por objeto reconocer, garantizar, promover y respetar los derechos de los migrantes y sus familias establecidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en la materia de los que México sea parte, la Legislación Federal y la Constitución Política del Estado Libre y Soberano de Oaxaca.
+El presente Reglamento es de interés público y observancia general en el Municipio de Cuernavaca, correspondiendo su aplicación e interpretación al Ayuntamiento a través de la Dirección de Turismo.
 
-El Estado brindará asistencia integral a los migrantes y sus familias fortaleciendo las diversas manifestaciones de la identidad cultural de la población indígena y afromexicana migrante en los lugares de destino, con acciones que fortalezcan la vinculación familiar y comunitaria de la población migrante para erradicar la discriminación motivada por condición migratoria.
+###### ARTÍCULO 2.
 
-###### Artículo 2.
+El presente Reglamento tiene por objeto establecer un marco regulatorio que permita:
 
-Son objetivos de la presente Ley, los siguientes:
+I.- Generar proyectos y programas para la conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos y atractivos turísticos del Municipio, preservando el equilibrio ecológico y social de los lugares de que se trate;
 
-I. El reconocimiento de los derechos humanos de los migrantes y sus familias, con independencia de su situación jurídica migratoria;
+II.- Fomentar de manera prioritaria las acciones de planeación, programación, capacitación, concertación, verificación y vigilancia del desarrollo turístico de Cuernavaca;
 
-II. La tutela de los derechos humanos de los migrantes y de sus familias y de los migrantes del resto de las entidades federativas.
+III.- Orientar con información actualizada a los turistas, cualquiera que sea su procedencia;
 
-III. Establecer y orientar criterios generales para la implementación de políticas públicas, bajo criterios que garanticen su desarrollo social y humano con dignidad.
+IV.- Apoyar al mejoramiento de la calidad de los servicios turísticos, con capacitación e información;
 
-IV. Promover la generación de programas y acciones que contrarresten las causas estructurales de la migración, así como, la promoción de una cultura de valores y respeto a la condición de migrante;
+V.- Fomentar la inversión de capitales nacionales y extranjeros, a través del manejo de una cartera de proyectos viables que contemplen el crecimiento de la oferta turística existente;
 
-V. Definir las atribuciones, funciones y obligaciones de los entes públicos del estado para el cumplimiento del objeto de la presente Ley, así como, la coordinación entre los mismos;
+VI.- Propiciar los mecanismos para la participación del sector privado y social en el cumplimiento de los objetivos de este Reglamento, a través de la creación del Consejo Consultivo de Turismo del Municipio de Cuernavaca para proponer al Ayuntamiento la celebración de convenios y dar continuidad de proyectos, acciones, programas y acuerdos de colaboración;
 
-VI. Promover los términos de coordinación de la Administración Pública Federal con la Estatal, las Entidades Federativas, los Ayuntamientos y los órganos del Estado en general, a efecto de cumplir con el objeto y objetivos de la presente Ley;
+VII.- Promover el turismo, coadyuvando a fortalecer el patrimonio histórico y cultural del Municipio, utilizando los medios de comunicación propuestos por el Consejo Consultivo de Turismo del Municipio de Cuernavaca;
 
-VII. Promover los términos de colaboración de la Administración Pública con los Ayuntamientos, las entidades sociales nacionales y extranjeras, así como, con los organismos multilaterales;
+VIII.- Ordenar la actividad turística, a través de la creación del registro de los prestadores de servicios turísticos, así como las declaratorias de Zonas de Desarrollo Turístico del Municipio;
 
-VIII. Promover la organización, la inversión, la profesionalización, la interacción cultural, el apoyo financiero en actividades productivas y otras formas de participación de los migrantes y sus familias, y
+IX.- Coadyuvar a fortalecer el desarrollo turístico del Municipio de Cuernavaca, con el propósito de elevar el nivel de vida económico, social y cultural de los habitantes del Municipio, y
 
-IX. Promover la participación de las organizaciones civiles, sociales y privadas interesadas, y de la ciudadanía en general, en la planeación, diseño, ejecución, evaluación y transformaciones necesarias de las políticas públicas en la materia.
+X.- Establecer la coordinación con las dependencias del Municipio para la aplicación y cumplimiento de los objetivos de este Reglamento, así como con autoridades estatales y federales y agentes económicos.
 
-###### Artículo 3.
+###### ARTÍCULO 3.
 
-No se permitirá ejercer ninguna forma de presión sobre los migrantes, y sus familias para la renuncia de sus derechos, tampoco les podrán ser restringidos o limitados de modo alguno.
+Para efectos de este Reglamento, se entenderá por:
 
-### CAPÍTULO II. DE LA APLICACIÓN DE LA LEY
+I.- Ayuntamiento: el Honorable Ayuntamiento Constitucional de Cuernavaca Morelos;
 
-###### Artículo 4.
+II.- Consejo Consultivo: el Consejo Consultivo de Turismo del Municipio de Cuernavaca;
 
-La aplicación de esta Ley corresponde al Ejecutivo del Estado y a los Ayuntamientos, conforme al ámbito de sus respectivas competencias.
+III.- Dirección: la Dirección de Turismo Municipal, dependiente de la Secretaría de Desarrollo Económico del Municipio de Cuernavaca;
 
-Para la aplicación de esta Ley, las autoridades promoverán la participación y colaboración de representantes sociales y civiles, nacionales e internacionales.
+IV.- Prestador de Servicios Turísticos: la persona física o moral que habitualmente proporcione, intermedie o contrate con el turista la prestación remunerada de los servicios a que se refiere este Reglamento;
 
-###### Artículo 5.
+V.- Turista: la persona que viaja desplazándose temporalmente fuera de su lugar de residencia habitual y que utilice alguno de los servicios turísticos a los que se refiere este Reglamento;
 
-La presente Ley será aplicable en el Estado de Oaxaca, en beneficio de todos los migrantes y sus familias, sin discriminación o distinción alguna por su condición migratoria, raza, origen étnico o social, nacionalidad, idioma, edad, sexo, preferencia y condición sexual, estado civil, cultura, religión o convicción, opinión política o de otra índole, patrimonio o situación económica o cualquier otra condición. Excepto cuando se trate de migrantes extranjeros en las siguientes condiciones:
+VI.- Turismo: Conjunto de acciones que realizan las personas durante sus viajes y estancias fuera de su lugar habitual de residencia;
 
-I. Sean enviadas o empleadas por organizaciones y organismos nacionales o internacionales; o enviadas o empleadas por un Estado en territorio oaxaqueño, para desempeñar funciones oficiales, cuya admisión y condición jurídica estén reguladas por el derecho internacional o por acuerdos o convenios internacionales concretos;
+VII.- Sector Turístico: Conjunto de organizaciones públicas, privadas y sociales, cuya actividad principal esté enfocada al turismo o al turista. Incluye la Dirección, las empresas u órganos de carácter intermedio de los prestadores de servicios turísticos, los prestadores de servicios turísticos y en general, cualquier institución organizada de la sociedad civil;
 
-II. Sean enviadas o empleadas por un Estado extranjero al Estado de Oaxaca, o por un empleador en su nombre, que participen en programas de desarrollo y en otros programas de cooperación, cuya admisión y condición jurídica estén reguladas por un acuerdo con el Estado mexicano;
+VIII.- Oferta Turística: Conjunto de atractivos culturales, naturales, históricos y monumentales; productos y servicios turísticos; zonas, destinos y sitios turísticos; así como los accesos al Municipio que se ponen a disposición del turista;
 
-III. Residan en el estado en calidad de inversionistas;
+IX.- Zona de Desarrollo Turístico: área, lugar o región del Municipio que se considera prioritaria para el desarrollo de servicios turísticos, delimitada en una zona geográfica, y
 
-IV. Que estudien o reciban capacitación en el estado y reciban apoyo de una entidad pública o privada que les garanticen los servicios básicos de atención.
+X.- Catálogo de la Oferta Turística Municipal:
 
-###### Artículo 6.
+documento que integra la información básica que identifica a los prestadores de servicios turísticos y la oferta turística existente en el Municipio.
 
-Para los efectos de la presente Ley, se entenderá por:
+### CAPÍTULO II. DE LA DIRECCIÓN
 
-I. Administración Pública: La Administración Pública Estatal;
+###### ARTÍCULO 4.
 
-II. Comisión: La Comisión Interinstitucional de Reconocimiento y Atención a los Derechos de los Migrantes y sus Familias;
+Se consideran servicios turísticos, los prestados a través de:
 
-III. Dependencias y entidades: Las dependencias y entidades de la Administración Pública Estatal y Paraestatal, señaladas en esta Ley;
+I.- Hoteles, moteles, casas de huéspedes, albergues, hostales, casas de renta temporales, tiempos compartidos, campamentos, paradores de casas rodantes y demás establecimientos de hospedaje que presten servicios a turistas. Se excluye de esta clasificación el alojamiento familiar para intercambio de estudiantes extranjeros;
 
-IV. Diagnóstico: El Diagnóstico y Evaluación Anual de la situación de los Migrantes y sus Familias para el Estado de Oaxaca;
+II.- Agencias, subagencias, operadoras de viajes y turismo;
 
-V. Familia: La institución social de carácter permanente, compuesta por un conjunto de personas unidas por el vínculo jurídico del matrimonio o por el estado jurídico del concubinato o, por el parentesco por consanguinidad, adopción o afinidad hasta el segundo grado en línea recta;
+III.- Guías de turistas, de acuerdo con la clasificación establecida en el capítulo IX de los guías de turistas, artículo 44 fracciones I, II y III del Reglamento de la Ley Federal de Turismo;
 
-VI. Enlace Municipal: instancia encargada en los Municipios de la Atención de los Migrantes y sus familias;
+IV.- Restaurantes, cafeterías, centros de recreación y esparcimiento, parques acuáticos y balnearios, discotecas con pistas de baile, bares, centros nocturnos y similares, y los que se encuentren ubicados en hoteles, moteles, albergues, hostales, campamentos, paraderos de casas rodantes, en terminales de autobuses, estaciones de ferrocarril, aeropuertos, museos, zonas arqueológicas y lugares históricos, que presten servicios a turistas;
 
-VIII (SIC). Centro: Centro de Atención al Migrante y sus familias;
+V.- Centros de enseñanza de idiomas y lenguas, cultura y ciencia y tecnología, cuyos servicios estén orientados a turistas;
 
-IX. Instituto: Al Instituto Oaxaqueño de Atención al Migrante;
+VI.- Negocios de turismo alternativo, de aventura y ecoturismo;
 
-X. Ley: Ley Para el Reconocimiento y Atención de los Derechos de los Migrantes y sus Familias para el Estado de Oaxaca;
+VII.- Organizadores de congresos, convenciones, ferias, exposiciones y reuniones de grupos de trabajo o capacitación, que generen flujos de turismo;
 
-XI. Migrante: Es toda persona de origen oaxaqueño que en la búsqueda de mejores oportunidades laborales, económicas o por circunstancias políticas o sociales ha tenido que emigrar; así como, cualquier persona que por las mismas causas transita o llega al territorio del Estado Libre y Soberano de Oaxaca;
+VIII.- Arrendadores de bicicletas, motocicletas, automóviles, autobuses y vehículos diversos destinados a la realización de actividades turísticas;
 
-XII. Programa: El Programa Estratégico de Reconocimiento y Atención de los derechos de los Migrantes y sus Familias para el Estado de Oaxaca;
+IX.- Operadores de centros de convenciones y exposiciones y de recintos feriales;
 
-XIII. Programas Municipales: Los Programas Municipales de Reconocimiento y Atención a los Derechos de los Migrantes y sus familias, y
+X.- Spas y otros tipos de establecimientos dedicados al turismo de salud;
 
-XIV. Reglamento: Al Reglamento de la Ley Para el Reconocimiento y Atención de los Derechos de los Migrantes y sus Familias para el Estado de Oaxaca;
+XI.- Grupos organizados dedicados a la elaboración de arte popular y artesanía;
+
+XII.- Empresas de transporte aéreo, terrestre y acuático que presten servicios a turistas;
+
+XIII.- Organizadores de eventos de carácter artístico, cultural, deportivo o social de cualquier tipo, que generen flujos de turismo, así como los espacios dedicados a estas manifestaciones, y
+
+XIV.- Todos los demás involucrados en los servicios turísticos.
+
+###### ARTÍCULO 5.
+
+Las dependencias del Ayuntamiento, en el ámbito de sus respectivas competencias, coadyuvarán con la Dirección en el ejercicio de sus atribuciones.
+
+###### ARTÍCULO 6.
+
+De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la prestación de los servicios turísticos no habrá discriminación de ningún tipo.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES
 
-### CAPÍTULO I. DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS
+### CAPÍTULO III. ZONAS DE DESARROLLO TURÍSTICO
 
-###### Artículo 7.
+###### ARTÍCULO 7.
 
-Todos los migrantes, gozarán de la tutela de sus derechos humanos con base en el reconocimiento de los mismos, contemplados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, las Leyes Federales y Estatales, así como en los Tratados Internacionales de los que el Estado Mexicano sea parte.
+La Dirección es una dependencia del Ayuntamiento que tiene por objeto, controlar y regular toda clase de actividades que tiendan a proteger, acrecentar, difundir y promover el turismo en el Municipio, conforme a las disposiciones del presente Reglamento, los acuerdos que el mismo Ayuntamiento tome y las demás disposiciones legales y administrativas que sean aplicables.
 
-###### Artículo 8.
+###### ARTÍCULO 8.
 
-Sin menoscabo de los derechos establecidos en otras disposiciones de carácter internacional, nacional, estatal y municipal esta Ley reconoce, los siguientes:
+Las obligaciones y facultades de la Dirección de Turismo son las siguientes:
 
-I. A la vida, a la libertad y a la seguridad jurídica;
+I.- Proveer lo necesario para que los días sábados, domingos y los festivos, se continúen cumpliendo las funciones de promoción, a través de los módulos de información turística con mapas, trípticos, base de datos y personal de servicio social y prácticas profesionales;
 
-II. A migrar, a circular libremente, a elegir su residencia y a tener una o varias nacionalidades, sin que tenga que acreditar su condición migratoria, salvo excepciones que la propia Ley establece.
+II.- Informar de sus actividades invariablemente cada tres meses a la Regiduría correspondiente, así también lo hará cuando el Ayuntamiento lo requiera, pudiendo hacer comentarios y sugerencias con el propósito de realizar los planes y programas correspondientes;
 
-III. A ser beneficiarios de las políticas, programas, proyectos y acciones gubernamentales a que se refiere esta Ley.
+III.- Buscar el apoyo y coordinación con dependencias Municipales, Estatales y Federales, así como con organismos del sector privado, a fin de promover la constitución y operación de empresas de servicios turísticos, a través de la suscripción de acuerdos de colaboración y convenios. Para tal efecto, la Dirección elaborará programas anuales con la finalidad de desarrollar, fortalecer y mantener los diversos tipos de turismo descritos en el capítulo IV;
 
-IV. Ningún migrante ni sus familias pueden ser molestados en su persona, familia, domicilio, patrimonio o correspondencia, ni sufrir ataques a su honra o reputación, sino mediante escrito u orden de autoridad competente que funde y motive la causa legal de su molestia;
+IV.- Encauzar, promover y propiciar toda clase de actividades relacionadas con los diversos tipos de turismo, haciendo en su caso las gestiones que se estimen pertinentes ante las autoridades Municipales, Estatales y Federales;
 
-V. A recibir protección contra todo tipo de delitos y violencia, ya sea física, psicológica, económica o patrimonial, y garantizar su derecho al debido proceso legal seguido en la jurisdicción del Estado.
+V.- Promover en coordinación con la Dirección de Recursos Humanos que los trabajadores del Ayuntamiento realicen visitas a sitios de interés turístico, negociando lo necesario para que lo hagan en condiciones preferentes;
 
-VI. A la libertad de pensamiento y de religión, así como, a la libertad de opinión y expresión de ideas, de reunión y de asociación pacífica, a excepción de que sólo los ciudadanos mexicanos podrán tomar parte en los asuntos políticos del país, conforme a las leyes aplicables a la materia;
+VI.- Diseñar estrategias para el desarrollo de una cultura de servicios turísticos de alta calidad, higiene y seguridad;
 
-VII. Derecho a la seguridad social y a obtener la satisfacción de sus derechos económicos, sociales y culturales;
+VII.- Someter a consideración del titular de la Secretaría de Desarrollo Económico, las actividades de la Dirección y recabar los acuerdos correspondientes;
 
-VIII. Al trabajo en condiciones equitativas y satisfactorias, salvaguardando en todo momento su (sic) derechos laborales;
+VIII.- Difundir en coordinación con la Secretaría del Ayuntamiento, este Reglamento, utilizando los medios más idóneos a su alcance, y a las personas que lo soliciten, entregar un ejemplar en las oficinas de la Dirección, mismo que tendrá un costo previamente establecido en la Ley de Ingresos del Municipio de Cuernavaca, para el ejercicio fiscal correspondiente;
 
-IX. A los servicios de salud acordes a su condición de edad, sexo y orientación sexual, así como cuidados y asistencia especiales durante la maternidad y la infancia;
+IX.- Promover la oferta de los servicios turísticos del Municipio y propiciar la formación, participación y desarrollo de los recursos humanos del sector;
 
-X. A la educación en sus diversas modalidades;
+X.- Coadyuvar con la Secretaría de Seguridad Pública y Tránsito Metropolitana para garantizar la seguridad y el bienestar de los turistas en su transito y estadía, así como orientarlo y auxiliarlo en el caso que suceda alguna contingencia;
 
-XI. A recibir asistencia de las autoridades del Estado en caso de repatriación voluntaria, forzosa y, fuera del territorio de esta entidad federativa, en los casos de desastres naturales, terrorismo u otros que afecten su salud, seguridad e integridad física, así como, cuando sea el caso, de traslado de migrantes fallecidos al Estado, en los términos que establece esta Ley.
+XI.- Apoyar la difusión de las normas oficiales a los prestadores de servicios en materia turística, proponer acciones de desregulación y simplificación para facilitar la operación y prestación de servicios turísticos en el Municipio;
 
-XII. A los servicios que presta la Administración Pública y los Municipios con trato digno, respetuoso, oportuno y con calidad humana;
+XII.- Propiciar el cumplimiento por los prestadores de servicios turísticos, de lo dispuesto por la Ley Federal de Turismo, la Ley de Desarrollo y Promoción al Turismo del Estado de Morelos y el presente Reglamento, mediante reuniones periódicas, con los diversos prestadores de servicios turísticos, para conocer sus problemas y atender en lo posible las sugerencias que hagan para el mejor desarrollo del sector;
 
-XIII. Los demás que le reconozcan y le confieran las normas aplicables.
+XIII.- Coordinar la integración del Catálogo de la Oferta Turística Municipal;
 
-### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS Y PARTICULARES
+XIV.- Evaluar la red municipal de oficinas y módulos de orientación e información;
 
-###### Artículo 9.
+XV.- Supervisar la distribución de materiales de orientación e información al turista y de promoción de atractivos y servicios turísticos;
 
-Los servidores públicos del Estado y Municipios, así como, los particulares, están obligados, de conformidad con las Leyes mexicanas y los Tratados Internacionales sobre derechos humanos, a respetar y salvaguardar los derechos de los migrantes y sus familias, reconocidos en esta Ley, por lo que su contravención, será sancionada conforme a la legislación aplicable.
+XVI.- Vigilar el desarrollo de programas especiales de atención y protección al turista;
 
-###### Artículo 10.
+XVII.- Coordinar cursos de capacitación, conferencias y congresos en materia turística;
 
-En la aplicación de las políticas, programas, proyectos y acciones, que prestan los servidores públicos de la Administración Pública así como los Ayuntamientos, a los migrantes y sus familias deberán observar las siguientes disposiciones:
+XVIII.- Establecer la coordinación necesaria con las entidades Federativas, Estatales y Municipales para la aplicación y cumplimiento de los objetivos del presente Reglamento;
 
-I. Tratar con dignidad, respeto, oportunidad y calidad humana;
+XIX.- Determinar los mecanismos necesarios para la creación, conservación, mejoramiento, protección y aprovechamiento de los recursos y atractivos turísticos Municipales, preservando el equilibrio ecológico y social de los lugares de que se trate;
 
-II. Proporcionar la información completa y oportuna respecto de las políticas, programas, proyectos y acciones gubernamentales de atención a los migrantes y sus familias, así como, de los requisitos necesarios para ser beneficiarios de los mismos;
+XX.- Establecer módulos de información en puntos estratégicos del Municipio;
 
-III. Orientar para que puedan presentar sus denuncias y quejas ante las instancias correspondientes por el incumplimiento de esta Ley y por cualquier condicionamiento de tipo político partidista en la ejecución de los programas, proyectos y acciones para la protección y apoyo a los migrantes y sus familias, y
+XXI.- Contribuir con el mejoramiento en la calidad de los servicios turísticos;
 
-IV. Las que señale esta Ley y demás disposiciones normativas aplicables.
+XXII.- Fomentar la inversión en materia turística;
 
-###### Artículo 11.
+XXIII.- Propiciar los mecanismos para la participación del sector privado y social en el cumplimiento del objeto de este Reglamento;
 
-Los migrantes y sus familias para ser beneficiarios de los programas de apoyo que emanen de las disposiciones contenidas en esta Ley, están obligados a proporcionar a la autoridad correspondiente la información y documentación idónea que les sea solicitada y en los términos que se establezcan, garantizándose en todo momento su protección en términos de la Ley de Protección de Datos Personales del Estado de Oaxaca.
+XXIV.- Promover el turismo, así como fortalecer el patrimonio histórico y cultural de cada región del Municipio;
 
-###### Artículo 12.
+XXV.- Informar por escrito a los prestadores de servicios turísticos sobre las quejas recibidas de los visitantes en lo referente a precios, trato y calidad de los diferentes servicios ofertados;
 
-De conformidad con el principio de transversalidad de los derechos humanos, los migrantes y sus familias están obligados a respetar los mismos derechos de terceros, ya sea que se trate de otros migrantes o de cualquier persona que habite, sea vecino o esté en tránsito en el estado o como visitante; asimismo, están obligados a respetar los usos y costumbres de las comunidades.
+XXVI.- Llevar a cabo intercambios de difusión turística y cultural con los tres niveles de Gobierno, así como a nivel internacional;
+
+XXVII.- Coadyuvar en la participación de todas las ferias y exposiciones del Municipio de Cuernavaca, y
+
+XXVIII.- Las demás que determinen las disposiciones legales aplicables.
+
+### CAPÍTULO IV. DIVERSOS TIPOS DE TURISMO
+
+###### ARTÍCULO 9.
+
+La Dirección elaborará y administrará, en coordinación con la Dirección de Licencias de Funcionamiento y Supervisión de Espectáculos, dependiente de la Secretaría de Desarrollo Económico del Ayuntamiento, un registro de los prestadores de servicios turísticos del Municipio, debidamente acreditados, conforme a las leyes y reglamentos aplicables en la materia, el cual contendrá lo siguiente:
+
+I.- Nombre y domicilio de la persona física o moral que presta el servicio;
+
+II.- Domicilio en que se presta el servicio;
+
+III.- La clase de los servicios que se presta y la categoría conforme a la norma mexicana o internacional aplicables, y
+
+IV.- La demás información que el prestador estime necesaria para fines de difusión.
+
+Este Registro Municipal podrá ser consultado por los ciudadanos, turistas, dependencias y entidades de la Administración Pública Federal, Estatal y Municipal.
+
+###### ARTÍCULO 10.
+
+Las propuestas de Zonas de Desarrollo Turístico serán promovidas conjuntamente por la Regiduría de Turismo y la Dirección, así como el sector privado y social, en coordinación con las dependencias Municipales, Estatales y Federales involucradas, las cuales serán presentadas y evaluadas en sesiones de trabajo celebradas en el seno del Consejo Consultivo, tomando el acuerdo correspondiente.
+
+###### ARTÍCULO 11.
+
+Las propuestas de Zona de Desarrollo Turístico deberán contener:
+
+I.- Los antecedentes y características naturales, arqueológicas, históricas, artísticas, culturales o sociales, que permitan definir la vocación turística de la zona;
+
+II.- La delimitación de la zona, a través de un croquis de localización;
+
+III.- Precisar y documentar los objetivos de la declaratoria, y
+
+IV.- Los lineamientos para la formulación de los programas de desarrollo turístico aplicables en la zona, como son:
+
+a) Manifiesto de Impacto Ambiental;
+
+b) Manifiesto cultural INAH;
+
+c) Estudio de factibilidad de infraestructura;
+
+d) Costos y beneficios;
+
+e) Plan de inversión y negocios, y
+
+f) Perspectivas y expectativas a corto, mediano y largo plazos, elaboradas por la Dirección.
+
+###### ARTÍCULO 12.
+
+Los mecanismos de coordinación con las dependencias Municipales, Estatales y Federales involucradas, para lograr los objetivos de la propuesta de la declaratoria, así como la concertación con los sectores social y privado para incorporar su participación en los programas de desarrollo turístico de la zona, se llevarán a cabo celebrando acuerdos y convenios de colaboración.
 
 ## TÍTULO TERCERO. DE LA ASISTENCIA A LOS MIGRANTES Y SUS FAMILIAS
 
-### CAPÍTULO I. DE LA REPATRIACIÓN Y DEPORTACIÓN
+### CAPÍTULO V. PROGRAMAS DE PUBLICIDAD Y PROMOCIÓN
 
-###### Artículo 13.
+###### ARTÍCULO 13.
 
-El Instituto colaborará con las autoridades federales competentes y con los municipios, para la repatriación de oaxaqueñas y oaxaqueños, para distribuir en los centros de población existentes y en los que se creen, a los contingentes de repatriados que en forma colectiva se internen al país, en los términos de los artículos 83 y 84 de la Ley General de Población, cuidando en todo momento que se garantice la prestación de los servicios públicos, el acceso a los servicios educativos básicos y de salud a la población residente, deportados y repatriados.
+El Ayuntamiento aprobará, en su caso, las declaratorias de Zonas de Desarrollo Turístico prioritario presentadas por el Consejo Consultivo, y se publicarán en el Periódico Oficial “Tierra y Libertad”, órgano informativo que edita el Gobierno del Estado Libre y Soberano de Morelos.
 
-Cuando una oaxaqueña u oaxaqueño sea deportado de un país extranjero, el Instituto contribuirá con el costo de traslado de la persona a la población de origen y los ayuntamientos con un porcentaje conforme a sus posibilidades y de acuerdo a sus lineamientos.
+###### ARTÍCULO 14.
 
-De manera excepcional, la autoridad correspondiente podrá brindar los beneficios señalados.
+Para la conservación, mantenimiento, fortalecimiento y crecimiento de las Zonas de Desarrollo Turístico, la Dirección apoyará con programas anuales las acciones de inversión. Para dar cumplimiento a los artículos 10 y 11 del presente Reglamento, el Consejo Consultivo solicitará la incorporación de las mismas en el Plan de Desarrollo Municipal, así como el apoyo respectivo en los programas y acciones de los gobiernos estatal y federal, según sea el caso.
 
-###### Artículo 14.
+### CAPÍTULO VI. CALIDAD Y COMPETITIVIDAD TURÍSTICA
 
-El Instituto podrá solicitar la intervención de la Comisión Nacional de los Derechos Humanos o de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, cuando un oaxaqueño u oaxaqueña haya cometido un delito en el extranjero o en el país y sea extraditado conforme a los tratados internacionales vigentes y la legislación penal aplicable, a fin de que en dicha entrega se salvaguarden sus derechos a un trato digno y humano, respetando en todo momento el debido proceso.
+###### ARTÍCULO 15.
 
-El Instituto pedirá la intervención oficial de la Secretaría de Relaciones Exteriores, a fin de que ésta solicite clemencia por un oaxaqueño u oaxaqueña que resida, se encuentre en el extranjero y sea sentenciado a una pena privativa de su vida, por la comisión de algún delito, en términos de la legislación aplicable.
+Con el objeto de fortalecer la Oferta Turística del Municipio de Cuernavaca y detectar oportunidades de crecimiento del sector turístico, esta actividad se clasifica como sigue:
 
-### CAPÍTULO II. DE LA ASISTENCIA SOCIAL Y REPATRIACIÓN DE CADÁVERES
+I.- El Turismo Social comprende todos aquellos instrumentos y medios, a través de los cuales se otorgan facilidades para que las personas de recursos limitados viajen con fines recreativos, en condiciones adecuadas de economía, seguridad y comodidad;
 
-###### Artículo 15.
+II.- El Ecoturismo, el Turismo de Aventura y el Turismo Alternativo comprenden todas aquellas actividades realizadas en espacios naturales;
 
-El Ejecutivo del Estado a través del Instituto, brindarán apoyo en la medida de las disposiciones presupuestales, a los oaxaqueños y oaxaqueñas localizados temporal o definitivamente en el extranjero que requieran apoyo para ser trasladados a su localidad de origen en el Estado, en caso de deportación, casos de enfermedades graves o catástrofes naturales.
+III.- El Turismo Cultural comprende las actividades turísticas de tipo histórico, religioso y educativo tales como paseos y recorridos por zonas arqueológicas, monumentos, participación en fiestas patronales, visitas a museos y exposiciones y asistencia a espectáculos de tipo artístico;
 
-###### Artículo 16.
+IV.- El Turismo Recreativo comprende las actividades de esparcimiento y diversión desarrolladas en lugares creados para ello tales como Discotecas, Bares, Teatros, Cines, Restaurantes, Cafeterías, Parques Acuáticos y Balnearios, Instalaciones Recreativas y demás;
 
-Cuando un oaxaqueño u oaxaqueña fallezca en el extranjero, el Ejecutivo a través del Instituto y los Ayuntamientos, en su caso, conforme al ámbito de su competencia, deberán brindar todas las facilidades para el trámite de la documentación oficial que les sea requerida.
+V.- El Turismo de Salud comprende las actividades realizadas en instalaciones específicas que cuenten con servicios para tratamientos corporales, temazcales, sauna, tratamientos por agua y demás elementos que integralmente proporcionen beneficios a la salud;
 
-En caso de enfermedades graves y los migrantes y sus familias carezcan de recursos económicos suficientes para su tratamiento en el lugar en que se encuentren, se promoverán las condiciones necesarias, para que una vez que se encuentren en el Estado sean canalizados a las instituciones de salud para su atención.
+VI.- El Turismo de la Tercera Edad comprende las facilidades apropiadas para que las personas mayores puedan disfrutar de actividades adecuadas de esparcimiento e integración;
 
-###### Artículo 17.
+VII.- El Turismo Educativo comprende las actividades desarrolladas por ciudadanos nacionales y extranjeros que visitan Cuernavaca con el exclusivo objeto de estudiar diversas disciplinas a diferentes niveles de profundidad y por un tiempo determinado;
 
-La familia del migrante que haya perdido la vida en el extranjero, podrán (sic) solicitar asesoría al Estado a través del Instituto para la realización de los trámites de internación al territorio nacional a fin de sepultarlo en su lugar de origen o ultima residencia.
+VIII.- El Turismo de Negocios considera las visitas al Municipio con fines de celebración de seminarios, cursos de capacitación, reuniones ejecutivas, celebración de convenios empresariales y comerciales, por parte de grupos pertenecientes a organismos privados o públicos que hacen uso de los diversos servicios turísticos con que cuenta el Municipio, y
 
-Si la inhumación se realizara en un panteón del territorio estatal, además, podrá brindarle las facilidades necesarias para que se realice el acto en un marco de dignidad y respeto.
+IX.- El Turismo de Eventos Sociales comprende todas las actividades que se llevan a cabo para celebrar bodas, bautizos, cumpleaños, aniversarios, y demás manifestaciones de esta naturaleza que utilizan de manera sistemática los diversos servicios turísticos del Municipio.
 
-Para la repatriación de cadáveres y restos áridos, se deberá cumplir con todos los requisitos establecidos en la normatividad aplicable, derivado de las circunstancias en que haya ocurrido la muerte.
+###### ARTÍCULO 16.
 
-###### Artículo 18.
+La Dirección promoverá la difusión de los sitios de interés y actividades turísticas del Municipio a través de los medios de comunicación masiva como son: radio, televisión, medios impresos y electrónicos nacionales y extranjeros, atendiendo a lo dispuesto por el artículo 2 fracción VII de este Reglamento.
 
-El Instituto brindará ayuda al migrante cuando este sea condenado a prisión para que la familia dependiente pueda retornar a su lugar de origen, si así es su deseo.
+Además, elaborará material promocional que permita determinar la ubicación y características de los lugares turísticos.
 
-###### Artículo 19.
+###### ARTÍCULO 17.
 
-El Instituto brindará asistencia cuando se trate de menores migrantes en condiciones de orfandad o indigencia.
+La Dirección promoverá la firma de convenios y acuerdos y buscará apoyos que tengan por objeto la instrumentación de programas conjuntos de publicidad con prestadores de servicios turísticos locales, nacionales y extranjeros, empresas o instituciones públicas, privadas y con los tres diferentes niveles de Gobierno.
+
+###### ARTÍCULO 18.
+
+La Dirección formulará los programas de apoyo para fomentar el turismo a través de excursiones y recorridos recreativos, culturales, científicos, de investigación y otros semejantes para el turismo en general. Estos programas se llevarán a cabo por medio de invitaciones enviadas al público en general.
+
+###### ARTÍCULO 19.
+
+La Dirección formulará el calendario de las fiestas, celebraciones y conmemoraciones municipales que atraigan el turismo al Municipio, para efecto de darlo a conocer por los medios informativos idóneos.
 
 ## TÍTULO CUARTO. DE LA (SIC) POLÍTICAS PÚBLICAS
 
-### CAPÍTULO ÚNICO. DE LAS POLÍTICAS PÚBLICAS PARA LA PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS
+### CAPÍTULO VII. PRESTADORES DE SERVICIOS TURÍSTICOS
 
-###### Artículo 20.
+###### ARTÍCULO 20.
 
-La generación de políticas públicas a cargo de la Administración Pública y de los Municipios, derivadas del Plan Estatal de Desarrollo y de los Planes Municipales de Desarrollo, y conforme a sus respectivos ámbitos de competencia y atribuciones que establece la presente Ley, se observará como criterio obligatorio el promover, proteger, garantizar, respetar y procurar los derechos establecidos en el Capítulo I del Título Segundo y el cumplimiento de los criterios establecidos en la Sección Primera del Capítulo Único del Título Cuarto de la presente Ley.
+La Dirección, en coordinación con el Sector Empresarial Turístico, apoyará a las escuelas, centros de educación y capacitación para la actualización de profesionales y técnicos en ramas de la actividad turística, por medio de la capacitación, vínculos escuela-empresa y espacios para la realización de prácticas profesionales y servicios de tipo social en el Municipio tendientes a mejorar los servicios turísticos.
 
 #### SECCIÓN PRIMERA. DE LAS POLÍTICAS PÚBLICAS PARA MIGRANTES OAXAQUEÑOS EN TERRITORIO NACIONAL Y EN EL EXTRANJERO
 
-###### Artículo 21.
+###### ARTÍCULO 21.
 
-Las políticas públicas que desarrollen las dependencias y entidades de la Administración Pública y los Ayuntamientos en materia de derechos, protección y apoyo a los migrantes oaxaqueños, deberán observar los siguientes criterios:
-
-I. Garantizar que la población atendida sea la conformada por los migrantes originarios del Estado de Oaxaca, que residan en otras entidades federativas o en el extranjero, se encuentren en condiciones de tránsito o de retorno, con absoluta independencia de su situación migratoria en el extranjero;
-
-II. Garantizar el respeto a los derechos establecidos en el Capítulo I del Título Segundo de esta Ley, dentro del territorio del estado;
-
-III. Establecer la coordinación institucional con los gobiernos de otras entidades federativas, para garantizar el respeto de los derechos de los migrantes y sus familias, y
-
-IV. Promover la asistencia a los migrantes en el extranjero para que ejerzan su desarrollo social y humano con dignidad;
-
-V. Contribuir a resolver las causas estructurales que originan la migración en el estado de Oaxaca, especialmente la que se realiza en condiciones de irregularidad;
-
-VI. Prevenir la comisión de delitos contra los migrantes, así como garantizar los derechos de los ofendidos y víctimas de delito.
-
-VII. Contribuir a garantizar el derecho al debido proceso y a la igualdad ante los tribunales y todos los demás órganos y autoridades encargados de la administración de justicia en el estado;
-
-VIII. Prevenir e impedir la explotación laboral y sexual de los migrantes, dentro y fuera del país, con enfoque especial hacia mujeres, niñas, niños y adolescentes, discapacitados, indígenas y afromexicanos;
-
-IX. Fortalecer los lazos culturales y familias, así como, fomentar los valores de la diversidad y la interacción multicultural entre los migrantes y sus comunidades de origen, sean las del estado, nacionales o extranjeros;
-
-X. Procurar por todos los medios el acceso a los servicios básicos de salud, educación, seguridad y demás que garanticen su vida, dignidad humana y desarrollo social;
-
-XI. Fomentar la participación ciudadana y de los sectores social y privado, en los ámbitos nacional e internacional, con el propósito de fortalecer y mejorar las políticas y el Programa en beneficio de los migrantes y sus familias.
-
-XII. Combatir todas las formas de discriminación de la población objetivo, especialmente el racismo y la xenofobia, y fomentar la denuncia por estos motivos;
-
-XIII. Impulsar la participación de los migrantes al desarrollo social y económico de sus familias y las comunidades de origen, mediante la implementación de acciones y programas sociales;
-
-XIV. Brindar asistencia en situaciones excepcionales y en los procesos de retorno o repatriación voluntaria o forzosa de personas, especialmente de menores en condiciones de orfandad o indigencia y, en general, de personas en estado de vulnerabilidad, así como, de migrantes fallecidos;
-
-XV. Favorecer condiciones sociales y económicas que induzcan al retorno voluntario de los migrantes del estado.
-
-XVI. Promocionar la inversión nacional y la contribución del sector privado para proveer de los productos y servicios, así como el apoyo para generar pequeñas y medianas empresas de migrantes y de sus familias, y
-
-XVII. Fomentar la inversión de los migrantes oaxaqueños y sus familias en proyectos y programas de generación de empleos, crecimiento económico y desarrollo social y de infraestructura en sus comunidades de origen del estado de Oaxaca.
+A los prestantes de prácticas y servicio social se les podrá asignar áreas en los módulos y en oficinas en donde podrán cumplir con su tiempo de liberación.
 
 #### SECCIÓN SEGUNDA
 
 DE LAS POLÍTICAS PÚBLICAS PARA MIGRANTES NACIONALES Y EXTRANJEROS Y SUS FAMILIAS.
 
-###### Artículo 22.
+###### ARTÍCULO 22.
 
-Las políticas públicas que desarrollen las dependencias y entidades de la Administración Pública y los Ayuntamientos en materia de derechos, protección y apoyo a los migrantes oaxaqueños fuera del Estado, en condiciones de tránsito o retorno, deberán observar los siguientes criterios:
+En coordinación con el Consejo Consultivo, la Dirección llevará a cabo cursos de capacitación utilizando la infraestructura, material y equipo del Ayuntamiento, mismos, que tendrán un costo de recuperación de acuerdo a la Ley de Ingresos para el ejercicio Fiscal correspondiente.
 
-I. Garantizar que la población atendida sea la conformada por los migrantes nacionales provenientes de otras entidades federativas y extranjeros que se encuentren en el estado, incluidos los desplazados, exiliados y refugiados, con independencia de su situación jurídica migratoria, ya sea en tránsito hacia otra entidad federativa o al extranjero, o residiendo en esta entidad, excepto la determinada por el artículo 5 de esta Ley para efectos de los programas de apoyo;
-
-II. Garantizar el respeto y procurar los derechos establecidos en esta Ley, en el territorio del estado;
-
-III. Proteger y garantizar su desarrollo social y humano con dignidad y respeto;
-
-IV. Garantizar la impartición de justicia por delitos cometidos en contra de migrantes nacionales y extranjeros y sus familias en el estado, especialmente el tráfico ilegal de personas y el secuestro;
-
-V. Prevenir y difundir entre la población objetivo los riesgos por fraude, extorsión, explotación laboral y sexual en el estado, con enfoque especial hacia mujeres, menores, personas con capacidades diferentes e indígenas;
-
-VI. Contribuir a garantizar el derecho al debido proceso y a la igualdad ante los tribunales y todos los demás órganos y autoridades encargados de la administración de justicia en el estado;
-
-VII. Promover entre los migrantes nacionales la valoración y el respeto a la diversidad y la interacción multicultural entre mexicanos de diversos orígenes étnicos, raciales, económicos, sociales y culturales como factores de desarrollo del estado;
-
-VIII. Garantizar el acceso a los servicios de salud pública y, en general, a los servicios que garanticen la vida, la dignidad humana, el desarrollo económico social;
-
-IX. Asistir a la población objetivo en situaciones excepcionales y en condiciones de emergencia o vulnerabilidad para garantizar la protección a sus derechos humanos;
-
-X. Contribuir a garantizar la atención especializada a los niños, niñas y adolescentes migrantes que han sido separados de sus familias o que estén en estado de orfandad o indigencia;
-
-XI. Coordinarse con dependencias y entidades de la Administración Pública Federal y de otros estados y sus municipios, para la atención de la población objetivo.
+Al final de los cursos de capacitación se proporcionará una constancia o distintivo de acuerdo al cumplimiento del mismo.
 
 ## TÍTULO QUINTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 ### CAPÍTULO I. DE LAS OBLIGACIONES DEL GOBERNADOR
 
-###### Artículo 23.
+###### ARTÍCULO 23.
 
-El Titular del Ejecutivo deberá:
+La Dirección podrá apoyarse en las escuelas y centros de educación y capacitación turística, así como en organismos de la administración pública de los tres niveles de Gobierno, con el fin de realizar cursos que se impartan a los prestadores de Servicios Turísticos.
 
-I. Establecer de manera concertada, en el marco del Plan Estatal de Desarrollo, los objetivos, estrategias y líneas de acción de las políticas públicas para la defensa y procuración de los derechos de los migrantes y sus familias, así como, para su protección y apoyo, de acuerdo con los preceptos establecidos en esta Ley y en otros ordenamientos aplicables;
-
-II. Presidir la Comisión;
-
-III. Aprobar el Programa Estratégico de Reconocimiento y Atención a los Migrantes y sus Familias para el Estado de Oaxaca, con base en los criterios establecidos en la presente Ley;
-
-IV. Promover, concertar y celebrar acuerdos, convenios y programas con las dependencias del Ejecutivo Federal y de los Poderes Legislativo y Judicial de la Federación, de los gobiernos de otras entidades federativas y municipios, con las autoridades locales de las ciudades de destino de los migrantes del estado en el extranjero y con organismos internacionales y del Sistema de Naciones Unidas, para la defensa y procuración de los derechos de los migrantes y sus familias, así como, para su protección y apoyo, siempre en el marco de los preceptos de la Constitución Política de los Estados Unidos Mexicanos, las leyes federales, la Constitución Política del Estado, de esta Ley y de los ordenamientos locales en la materia;
-
-V. Promover y concertar acuerdos o convenios para la realización de proyectos, programas y acciones entre los distintos sectores y actores sociales y civiles en torno a la defensa y procuración de los derechos de los migrantes y sus familias, así como, para apoyar la ejecución del Programa;
-
-VI. Emitir el Acuerdo constitutivo de la Comisión;
-
-VII. Expedir el Reglamento de la presente Ley; y
-
-VIII. Las demás que le señalen expresamente la normatividad aplicable.
+La Dirección, para satisfacer las diferentes necesidades de capacitación de los prestadores de servicios turísticos y prestantes de servicio social, podrá solicitar el apoyo de instructores a través de acuerdos y convenios con diferentes organismos e instituciones, en relación al presupuesto asignado a la Dirección para los proyectos, talleres e información, o a los apoyos específicos que se logren materializar con terceros.
 
 ### CAPÍTULO II. DEL INSTITUTO OAXAQUEÑO DE ATENCIÓN AL MIGRANTE
 
-###### Artículo 24.
+###### ARTÍCULO 24.
 
-El Instituto Oaxaqueño de Atención al Migrante, es un organismo descentralizado del Poder Ejecutivo, cuyo Director General será designado y removido libremente por el titular del Poder Ejecutivo del Estado, y deberá cumplir con los requisitos que exige el artículo 21 de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca.
+La Dirección promoverá, a través de visitas guiadas, pláticas, proyección de videos, talleres, concursos e información, los lugares y sitios turísticos de interés entre los niños de preescolar, primaria y secundaria y desarrollará estas acciones con el propósito de fomentar y afianzar la cultura y conciencia turística en la sociedad.
 
-Corresponde al Instituto:
+###### ARTÍCULO 25.
 
-I. Formular el Programa Estratégico de Protección y Apoyo a los Migrantes y sus familias para el Estado de Oaxaca, en coordinación con las dependencias de la Administración Pública relacionadas con la materia, con los Ayuntamientos y con la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, a partir de los objetivos, estrategias y líneas de acción para las políticas públicas en la materia establecidos en el Plan Estatal de Desarrollo.
-
-II. Elaborar los Criterios de Ejecución y Evaluación del Programa, con base en los preceptos de esta Ley y presupuestar en el Programa Operativo Anual lo correspondiente, en el ámbito de su competencia;
-
-III. Representar a la Secretaría Técnica de la Comisión;
-
-IV. Participar en la ejecución de las políticas públicas, programas y acciones que se deriven del Programa, correspondientes a su ámbito de competencia, y colaborar con el mismo fin con las demás dependencias de la Administración Pública, los Ayuntamientos, la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y con los sectores y actores sociales y civiles que participen en los mismos;
-
-V. Coordinar, sistematizar y actualizar el Diagnóstico y Evaluación Anual de la situación de los Migrantes y sus familias para el Estado de Oaxaca, con referencia a parámetros nacionales e internacionales por cuanto toca al estado que guarde la vigencia de sus derechos humanos y a los impactos de la política pública en el desarrollo social y humano de los mismos en el estado y fuera de su territorio tratándose de los migrantes originarios de esta entidad federativa o que hayan tenido en ella su punto de partida o retorno. Su contenido específico se conformará en los términos establecidos por esta Ley.
-
-El Diagnóstico contará con los datos que aporten las dependencias y entidades de la Administración Pública, relacionadas con la materia, los Municipios y la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, la Fiscalía General del Estado de Oaxaca y la Defensoría Pública, así como, con la eventual colaboración de organismos internacionales, centros de estudio e investigación y otros actores sociales y civiles;
-
-VI. Elaborar y publicitar la lista de los Municipios con perfil migratorio, coordinar y evaluar con los Ayuntamientos involucrados los criterios y resultados de los Programas Municipales y de los correspondientes programas y acciones en materia de defensa y procuración de derechos de los migrantes y sus familias, así como, de su protección y apoyo dentro y fuera de sus demarcaciones territoriales, en el marco del Programa y de acuerdo con los preceptos de esta Ley;
-
-VII. Celebrar acuerdos, convenios y programas con las dependencias del Ejecutivo Federal, de los gobiernos de otras entidades federativas y municipios; y con los sectores social y privado y con las organizaciones civiles, acordes con el Programa, en el marco de los preceptos de esta Ley y de los ordenamientos locales y federales en la materia; en todos los casos fungirá como órgano de consulta en la suscripción de los instrumentos jurídicos;
-
-VIII. Proponer al Ejecutivo la celebración de convenios o acuerdos con las autoridades locales de las ciudades de destino de los migrantes del estado en el extranjero, con organizaciones y organismos internacionales y del Sistema de Naciones Unidas, con el fin exclusivo de la defensa y procuración de los derechos de los migrantes y sus familias, así como, para su protección y apoyo en dichas ciudades.
-
-IX. Promover y fomentar la participación y organización de la sociedad, particularmente de los migrantes del estado y sus familias, en la elaboración, aplicación y evaluación de las políticas públicas y del Programa y acciones de defensa y procuración de los derechos, protección y apoyo a los mismos, en el marco del Programa y de acuerdo con los términos establecidos por la presente Ley;
-
-X. Establecer los criterios de las campañas permanentes y especiales de información a los habitantes del estado y a las comunidades de migrantes, sobre los problemas y las medidas tomadas en torno de los derechos de los migrantes y sus familias y de su desarrollo social y humano;
-
-XI. Realizar una Evaluación Anual de Impacto del Programa, sobre la base de objetivos y metas medibles y comparables con referencia a parámetros nacionales e internacionales y en los términos planteados por la Convención Internacional sobre la Protección de los Derechos de todos los Trabajadores Migratorios y de sus familias;
-
-XII. Establecer y dar a conocer públicamente indicadores y resultados sobre el progreso en el cumplimiento de los derechos de los migrantes y sus familias, tanto en el territorio del estado como fuera de él;
-
-XIII. Realizar estudios e investigaciones de campo, que sirvan como base para analizar la naturaleza, dimensiones, causas, consecuencias y soluciones de la migración de los habitantes del estado fuera del país, y de migrantes mexicanos y extranjeros hacia esta entidad federativa, y que contribuyan a una mejor definición de políticas y sus objetivos, estrategias y líneas de acción en el marco del Programa y del cumplimiento del objeto de esta Ley;
-
-XIV. Realizar propuestas a la Comisión para el mejor cumplimiento de las políticas y criterios obligatorios emanadas de la presente Ley y para la aplicación del Programa;
-
-XV. Promover la capacitación y asesoría de los servidores públicos de las dependencias y entidades de la Administración Pública, a los Municipios, y a la sociedad civil, relacionados con el tema migratorio en materia de protección, defensa y procuración de los derechos de los migrantes y sus familias;
-
-XVI. Instrumentar acciones de capacitación a favor de los migrantes y sus familias dentro y fuera del estado, así como, en el extranjero en que haya mayor concentración de migrantes oaxaqueños, para aumentar las capacidades en defensa de sus derechos y combatir los actos o circunstancias de vulnerabilidad;
-
-XVII. Crear, coordinar y evaluar periódicamente los Centros, de acuerdo a la disponibilidad presupuestal;
-
-XVIII. Participar e intervenir en foros y mecanismos de cooperación nacionales e internacionales relacionados con los temas que se derivan de la aplicación de esta Ley;
-
-XIX. Proponer al Gobernador del Estado los criterios que impulsen las reformas necesarias al marco jurídico local y federal para optimizar los mecanismos del cumplimiento del objeto de esta Ley;
-
-XX. Operar el Padrón Estatal de Migrantes y su familia Beneficiarios de los Programas en el Estado de Oaxaca;
-
-XXI. Participar en la definición de las reglas de operación de los programas específicos a que se hacen referencia en esta Ley, cuando las características de los mismos así lo requiera;
-
-XXII. Convocar las sesiones de la Comisión, y ponderar sus opiniones.
-
-XXIII. Las demás que le señalen las disposiciones normativas aplicables.
-
-###### Artículo 25.
-
-El Instituto realizará campañas permanentes para informar de los riesgos y peligros a que se pueden enfrentar, al emigrar sin cumplir todos los requisitos que exijan las leyes, para entrar al país donde se dirijan.
-
-El Instituto coadyuvará con la Secretaría del Trabajo, en el auxilio y representación a los migrantes y sus familias en la verificación de la autenticidad, capacidad económica y legalidad de las empresas o patrones que pretendan contratarlos, para realizar labores en el extranjero; así como acudir ante las autoridades laborales migratorias y otras competentes para obtener la información suficiente que garantice a los trabajadores las mejores condiciones de contratación. Si el contrato en cuestión se expidiera en una lengua diferente al español, el Instituto podrá traducirlo para proporcionarlo a cada uno de los trabajadores e informará a los mismos sobre los efectos legales correspondientes. El traslado en forma colectiva de trabajadoras oaxaqueñas y oaxaqueños, que sean contratados para laborar en un país extranjero, independientemente de las acciones que realice el Gobierno Federal, deberá ser vigilado por el Gobierno del Estado a través del Instituto, a efecto de garantizar en todo momento el trato respetuoso y digno.
+Las relaciones entre los prestadores de servicios turísticos y el turista se regirán por lo que las partes convengan, observándose las disposiciones de la Ley Federal de Turismo, su Reglamento y las Normas Oficiales Mexicanas, así como la Ley Federal de Protección al Consumidor, Ley de Desarrollo y Promoción al Turismo del Estado de Morelos y este Reglamento.
 
 ### CAPÍTULO III. DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA
 
-###### Artículo 26.
+###### ARTÍCULO 26.
 
-Las dependencias y entidades de la Administración Pública, integrantes de la Comisión y los ayuntamientos municipales con mayor índice migratorio, en el ámbito de sus respectivas competencias y en coordinación con el Instituto, deberán generar políticas públicas para los migrantes y sus familias, de acuerdo a lo que establece la presente ley y demás ordenamientos que no contravenga la competencia federal.
+Los prestadores de servicios turísticos registrados tendrán los siguientes derechos y obligaciones:
+
+I.- Recibir asesoramiento técnico, así como de las informaciones y auxilio de la Dirección, ante las diversas oficinas gubernamentales, cuando el interés turístico lo amerite;
+
+II.- Ser considerados en las estrategias de difusión y promoción turística de la Dirección;
+
+III.- Recibir apoyo ante las autoridades competentes para la obtención de licencias o permisos de establecimientos de servicios turísticos;
+
+IV.- Participar en los programas de capacitación turística que promueva o lleve a cabo la Dirección;
+
+V.- Proporcionar a la Dirección la información que se requiera para efectos de registro en el Catálogo Municipal de Turismo;
+
+VI.- Mostrar visiblemente y de manera permanente en los lugares de acceso al establecimiento, los principales precios y tarifas, y los servicios que estos incluyen;
+
+VII.- Cuando se trate de la prestación del servicio de guía de turistas, deberán portar su acreditación e identificación a la vista, así como informar su precio en el momento de la contratación con los usuarios;
+
+VIII.- Cumplir con los servicios, precios, tarifas y promociones, en los términos anunciados, ofrecidos o pactados;
+
+IX.- Contar con los formatos requeridos para el sistema de quejas de turistas en los términos de la norma oficial mexicana respectiva, y
+
+X.- Observar estrictamente las disposiciones de la Ley Federal de Turismo, la Ley de Desarrollo y Promoción al Turismo del Estado de Morelos y este Reglamento.
+
+T R A N S I T O R I O S
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Informativo que edita el Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Lo no previsto por el presente Reglamento será resuelto mediante acuerdo por el Cabildo.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+CUARTO.- En un plazo que no exceda los treinta días naturales siguientes a la entrada en vigor de este Reglamento, deberá crearse, mediante el Acuerdo respectivo, el Consejo Consultivo de Turismo del Municipio de Cuernavaca.
+
+QUINTO.- En un plazo que no exceda los treinta días naturales siguientes a la entrada en vigor del Acuerdo que lo crea, deberá instalarse el Consejo Consultivo de Turismo del Municipio de Cuernavaca.
+
+Dado en la Ciudad de Cuernavaca, Morelos, a los 30 días del mes de julio del dos mil dos, en el Salón de Cabildo PRESIDENTE "BENITO JUÁREZ GARCÍA", del Honorable Ayuntamiento de Cuernavaca, Morelos.
+
+ING. JOSÉ RAÚL HERNÁNDEZ ÁVILA
+
+Presidente Municipal
+
+SECRETARIO DEL AYUNTAMIENTO
+
+SÍNDICO MUNICIPAL
+
+CC. REGIDORES DEL HONORABLE AYUNTAMIENTO DE CUERNAVACA
+
+En consecuencia, remítase al Ciudadano Ing. José Raúl Hernández Ávila, Presidente Municipal de esta Ciudad, para que en uso de las facultades que le confiere la Ley Orgánica Municipal del Estado de Morelos, mande publicar en el Periódico Oficial "Tierra y Libertad", Órgano Informativo que edita el Gobierno del Estado de Morelos, se imprima y circule el Reglamento de Turismo Municipal de Cuernavaca, para su debido cumplimiento y observancia.
+
+ING. JOSÉ RAÚL HERNÁNDEZ ÁVILA
+
+Presidente Municipal Constitucional
+
+ING. REY DAVID OLGUÍN ROSAS
+
+Secretario del Ayuntamiento
+
+RÚBRICAS.
 
 ###### Artículo 27.
 
