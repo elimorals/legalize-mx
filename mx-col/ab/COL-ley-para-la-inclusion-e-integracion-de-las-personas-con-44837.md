@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2016-11-22"
+last_updated: "2018-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY PARA LA INCLUSION E INTEGRACION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA --
 
-LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
+LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -37,7 +37,9 @@ DECRETO No. 201
 
 Se aprueba la Ley para la Integración y Desarrollo Social de las Personas con Discapacidad del Estado de Colima, en los siguientes términos:
 
-LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA,
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
 ## TITULO PRIMERO. Prevenciones generales
 
@@ -47,25 +49,31 @@ LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DE
 
 La presente Ley es de orden público e interés social, sus disposiciones son de observancia obligatoria en el Estado y tiene como objeto establecer las acciones y medidas necesarias para proteger los derechos de las personas con discapacidad, promoviendo su atención e integración a la vida social y productiva de la entidad, así como fijar las bases para que la colectividad favorezca esta incorporación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 2°.
 
 Para los efectos de la presente Ley se entiende por:
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-I. Persona con Discapacidad: Todo ser humano que tenga temporal o permanentemente una alteración funcional física, mental o sensorial; o un trastorno de talla y peso congénito o adquirido, que le impida realizar una actividad propia de su edad y medio social, que implique desventajas para su integración familiar, social, educacional o laboral;
+I. Accesibilidad: A las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
 
-II. Ley: Al presente ordenamiento
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-III. INCODIS: Al Instituto Colimense para la Discapacidad creado mediante Decreto del Ejecutivo de fecha 23 de enero de 1999;
+II. Ajustes razonables: A las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-IV. DIF Estatal: Al Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-V. DIF Municipal: Al Sistema Municipal para el Desarrollo Integral de la Familia;
+III. Asistencia Social: Al Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
 
-VI. Lugares con acceso al público: los inmuebles del dominio público o propiedad particular que por razón de su naturaleza o las actividades que en ellos se realizan, permitan el libre tránsito de las personas o de vehículos; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Barreras arquitectónicas: Todos aquellos elementos de construcción del sector público, social o privado, que dificulten, entorpezcan o impidan a personas con discapacidad, el libre acceso y/o desplazamiento en espacios interiores y exteriores, como:
+IV. Ayudas técnicas: A los dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+V. Barreras arquitectónicas: Todos aquellos elementos de construcción del sector público, social o privado, que dificulten, entorpezcan o impidan a personas con discapacidad, el libre acceso y/o desplazamiento en espacios interiores y exteriores, como:
 
 a) Aceras, banquetas o escarpas;
 
@@ -95,23 +103,167 @@ m) Elevadores; y
 
 n) Cualquiera otra estructura que dificulte, entorpezca o impida el libre tránsito y uso de instalaciones a las personas con discapacidad.
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Comunicación: Al lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, sistema Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Comunidad de personas con deficiencia auditiva: A todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Convención: A la Convención sobre los Derechos de las Personas con Discapacidad;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+IX. DIF Estatal: Al Sistema Estatal para el Desarrollo Integral de la Familia;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+X. DIF Municipal: Al Sistema Municipal para el Desarrollo Integral de la Familia;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Diseño universal: Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Educación: A la formación destinada a desarrollar la capacidad intelectual, moral y afectiva de las personas de acuerdo con la cultura y las normas de convivencia de la sociedad a la que pertenecen;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Educación bilingüe: Se puede definir como una serie de fundamentos pedagógicos que se basan en la enseñanza y el aprendizaje en dos lenguas sintáctica y gramaticalmente diferentes una viso-gestual, la lengua de señas, y una auditivo-vocal, la lengua oral;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Educación inclusiva: A la educación que propicia la integración de personas con discapacidad a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XV. Estenografía proyectada: Al oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XVI. Estimulación temprana: A la atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Discriminación por situación de discapacidad: A cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Discapacidad Auditiva: Es la restricción en la función de la percepción de los sonidos externos, cuando la pérdida es de superficial a moderada, se necesita el uso de auxiliares auditivos pero puede adquirir la lengua oral a través de la retroalimentación de información que reciben por la vía auditiva;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Discapacidad Intelectual: Se caracteriza por limitaciones significativas tanto en funcionamiento intelectual (razonamiento, planificación, solución de problemas, pensamiento abstracto, comprensión de ideas complejas, aprender con rapidez y aprender de la experiencia) como en conducta adaptativa (conceptuales, sociales y prácticas), que se han aprendido y se practican por las personas en su vida cotidiana. Restringiendo la participación comunitaria y en estrecha relación con las condiciones de los diferentes contextos en que se desenvuelve la persona. Esta discapacidad aparece antes de los 18 años y su diagnóstico, pronóstico e intervención son diferentes a los que se realizan para la discapacidad mental y la discapacidad psicosocial.
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Discapacidad física o motora: A las dificultades o impedimentos de la actividad motora de las personas;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXI. Discapacidad Visual: Es la deficiencia del sistema de la visión, las estructuras y funciones asociadas con él. Es una alteración de la agudeza visual, campo visual, motilidad ocular, visión de los colores o profundidad, que determinan una deficiencia de la agudeza visual, y se clasifica de acuerdo a su grado;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXII. Hipoacusia: Disminución de la agudeza auditiva;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXIII. INCODIS: Al Instituto Colimense para la Discapacidad creado mediante Decreto del Ejecutivo de fecha 23 de enero de 1999;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV. Igualdad de oportunidades: Al proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en igualdad de oportunidades con el resto de la población;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXV. Lenguaje: Al lenguaje oral como la lengua de señas y otras formas de comunicación no verbal;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXVI. Lengua de señas mexicanas: A la lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXVII. Ley: Al presente ordenamiento;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXVIII. Ley General: Ley General para la Inclusión de las Personas con Discapacidad;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXIX. Persona con Discapacidad: Todo ser humano que tenga temporal o permanentemente una alteración funcional física, mental o sensorial; o un trastorno de talla y peso congénito o adquirido, que le impida realizar una actividad propia de su edad y medio social, que implique desventajas para su integración familiar, social, educacional o laboral;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXX. Perro Guía: A aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXXI. Política pública: A los planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXXII. Prevención: A la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIII. Rehabilitación: Al conjunto de técnicas y métodos que sirven para recuperar una función o actividad del cuerpo que ha disminuido o se ha perdido a causa de un accidente o de una enfermedad; Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXXIV. Sistema de Escritura Braille: Al sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXXV. Tiflotécnia: A la adaptación de los usos y avances técnicos a su utilización por personas con discapacidad visual;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVI. Trabajo protegido: Al trabajo que realizan las personas con discapacidad que tienen un grado tal de limitación en sus capacidades que les impiden cubrir los requerimientos mínimos de inserción laboral por lo que requiere la tutela de la familia, el sector público y privado para su desempeño en instalaciones apropiadas.
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVII. Transversalidad: Al proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XXXVIII. Video llamadas: Al nuevo servicio que ofrecen las terminales de la red móvil UMTS (3G). Este servicio no es de datos, simplemente optimiza el uso del canal asignado para la voz y es capaz de transmitir videos; Es la comunicación simultánea bidireccional de audio y vídeo, que permite mantener reuniones con grupos de personas situadas en lugares alejados entre sí. Adicionalmente, pueden ofrecerse facilidades telemáticas o de otro tipo como el intercambio de gráficos, imágenes fijas, transmisión de ficheros desde el ordenador.
+
 ###### Artículo 3°.
 
 Los tipos de discapacidad previstos en esta Ley son los siguientes:
 
 I. Neurológica;
 
-II. Motora;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+II. Física;
 
 III. Mental;
 
-IV. Sensorial; o
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-V. La combinación de cualquiera de los anteriores.
+IV. Sensorial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+V. Intelectual; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+VI. La combinación de cualquiera de los anteriores.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 4°.
 
-El titular del Poder Ejecutivo a través de las Secretarías: General de Gobierno, de Desarrollo Social, de Fomento Económico, de Finanzas, de Educación, de Salud y Bienestar Social y de Cultura en coordinación con el INCODIS, el DIF Estatal y los DIF Municipales, los Gobiernos Municipales y los órganos desconcentrados y paraestatales, en el ámbito de sus respectivas competencias, en la aplicación de las disposiciones contenidas en la presente Ley, expedirán las normas reglamentarias y tomarán las medidas administrativas necesarias.
+El titular del Poder Ejecutivo a través de las Secretarías: General de Gobierno, de Desarrollo Social, de Fomento Económico, de Planeación y Finanzas, de Educación, de Salud y Bienestar Social y de Cultura en coordinación con el INCODIS, el DIF Estatal y los DIF Municipales, los Gobiernos Municipales y los órganos desconcentrados y paraestatales, en el ámbito de sus respectivas competencias, en la aplicación de las disposiciones contenidas en la presente Ley, expedirán las normas reglamentarias y tomarán las medidas administrativas necesarias.
 
 ###### Artículo 5°.
 
@@ -125,17 +277,17 @@ II. Definir las estrategias y políticas necesarias para eliminar progresivament
 
 Será obligatorio para las instituciones pública, privadas y sociales, proporcionar de manera gratuita información, orientación, motivación y promoción de toda clase de programas que beneficien a personas con discapacidad.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-Así mismo, las dependencias y entidades de la administración pública estatal centralizada y paraestatal, los poderes Legislativo y Judicial, así como las dependencias y entidades de las administraciones públicas municipales centralizadas y paramunicipales, deberán contar con personal necesario capacitado en el uso de señas o lenguaje icónico utilizado por las personas sordomudas, principalmente en las áreas que tengan atención de manera directa con la población, con la finalidad de que puedan dar un trato y servicio adecuado, digno y eficaz a las personas con este tipo de discapacidad.
+Así mismo, las dependencias y entidades de la administración pública estatal centralizada y paraestatal, los poderes Legislativo y Judicial, así como las dependencias y entidades de las administraciones públicas municipales centralizadas y paramunicipales, deberán contar con personal necesario capacitado en el uso de señas o lenguaje icónico utilizado por las personas con Hipoacusia, principalmente en las áreas que tengan atención de manera directa con la población, con la finalidad de que puedan dar un trato y servicio adecuado, digno y eficaz a las personas con este tipo de discapacidad.
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
 
 Todas las dependencias estatales y municipales, y los poderes Legislativo y Judicial, deberán contar con políticas que garanticen la atención prioritaria a las personas con algún tipo de discapacidad, que requieran de acceso a sus servicios.
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-Para efectos del párrafo anterior, los entes públicos capacitarán a por lo menos dos integrantes de su personal de acuerdo con las normas técnicas que el INCODIS proponga en materia de organización y prestación de servicios. Del mismo modo, incorporarán en sus sitios de internet, información suficiente sobre sus servicios, con una presentación idónea para consulta de las personas que sufran alguna discapacidad.
+Para efectos del párrafo anterior, los entes públicos capacitarán a por lo menos dos integrantes de su personal de acuerdo con las normas técnicas que el INCODIS proponga en materia de organización y prestación de servicios. Del mismo modo, incorporarán en sus sitios de internet, información suficiente sobre sus servicios, con una presentación idónea con elementos tiflotécnicos para consulta de las personas que vivan con alguna discapacidad.
 
 ###### Artículo 7°.
 
@@ -144,6 +296,36 @@ Ningún ordenamiento legal en el Estado podrá incluir restricciones para la edu
 ###### Artículo 8°.
 
 Corresponderá al titular del Poder Ejecutivo a través del INCODIS y de la Secretaría de Educación, a los ayuntamientos, a los sistemas DIF, Estatal y Municipales, a las instituciones públicas y privadas en el ámbito de su competencia dar a conocer y difundir la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 8° Bis.
+
+Los principios que deberán observar las políticas públicas, son:
+
+I. La equidad;
+
+II. La justicia social;
+
+III. La igualdad de oportunidades;
+
+IV. El respeto a la evolución de las facultades de la niñez con discapacidad y de su derecho a preservar su identidad;
+
+V. El respeto de la dignidad inherente, la autonomía individual, incluida la libertad de tomar las propias decisiones y la independencia de las personas;
+
+VI. El reconocimiento de las diferencias;
+
+VII. La dignidad;
+
+VIII. La inclusión;
+
+IX. La accesibilidad universal;
+
+X. La igualdad entre mujeres y hombres con discapacidad;
+
+XI. La no discriminación; y
+
+XII. La transversalidad.
 
 ### Capítulo II. De los Derechos de las personas con Discapacidad
 
@@ -165,7 +347,9 @@ I. Asistencia médica y rehabilitatoria;
 
 II. Tener un nivel de vida con calidad y calidez;
 
-III. Recibir educación sin barreras didácticas, psicológicas, arquitectónicas, políticas, sociales o de comunicación;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+III. Recibir educación inclusiva, sin barreras didácticas, psicológicas, arquitectónicas, políticas, sociales o de comunicación, así como educación bilingüe para personas con discapacidad auditiva.
 
 IV. Protección a su integridad y dignidad;
 
@@ -177,7 +361,9 @@ VII. Igualdad de oportunidades laborales considerando su capacidad, perfil profe
 
 VIII. Desplazarse libremente y con seguridad en los espacios públicos abiertos o cerrados, así como tener facilidades necesarias de acceso y desplazamiento físico en el interior de espacios laborales, educativos, comerciales, deportivos, culturales y recreativos;
 
-IX. Igualdad en el uso de los servicios públicos, quedando para su uso exclusivo los espacios en transporte y en estacionamientos expresamente señalados para tal efecto;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Igualdad en el uso de los servicios públicos, quedando para su uso exclusivo los espacios en transporte y en estacionamientos expresamente señalados para tal efecto, asimismo los estacionamientos públicos y privados deberán disponer por lo menos el 10% de los cajones para las personas con discapacidad.
 
 X. Libertad de asociarse con la finalidad de contribuir a su óptima integración a la sociedad;
 
@@ -217,15 +403,17 @@ XIX La protección contra la explotación, violencia y abusos derivados de su di
 
 XX. Los demás que señalen las leyes.
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-Será obligación de las instituciones de procuración de justicia, seguridad pública, custodia y tratamiento, garantizar el trato humanitario y especializado, según las necesidades particulares de las personas con discapacidad que se encuentren en los supuestos de detención, arresto o prisión; así como facilitar a dichas personas los intérpretes o consultores que requieran, en su caso.
+Será obligación de las instituciones de procuración de justicia, seguridad pública, custodia y tratamiento, garantizar el trato humanitario y especializado, según las necesidades particulares de las personas con discapacidad que se encuentren en los supuestos de detención, arresto o prisión; así como facilitar a dichas personas los intérpretes o consultores que requieran, mediante la utilización de estenografía proyectada, video llamadas, medios alternativos, en su caso, que en todo momento sea de fácil comprensión.
 
 ### Capítulo III. Del Instituto Colimense para la Discapacidad
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 11.
 
-El INCODIS, será responsable de promover la integración social de las personas con discapacidad y su incorporación al desarrollo, con el propósito de garantizar el pleno respeto y ejercicio a sus derechos humanos, políticos y sociales, la igualdad de oportunidades y la equidad en el acceso a todo tipo de servicios.
+El INCODIS, será responsable de promover la integración social de las personas con discapacidad y su inclusión al desarrollo, con el propósito de garantizar el pleno respeto y ejercicio a sus derechos humanos, políticos y sociales, la igualdad de oportunidades y la equidad en el acceso a todo tipo de servicios.
 
 ###### Artículo 12.
 
@@ -233,9 +421,11 @@ Corresponde al titular del Ejecutivo Estatal a través del INCODIS, la aplicaci�
 
 El INCODIS procurará que las medidas que se adopten de acatamiento de las disposiciones contenidas en este ordenamiento sean uniformes en toda la entidad y armonicen con las disposiciones emanadas de ésta.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 13.
 
-La Secretaría de Planeación en coordinación con el INCODIS serán los responsables de proponer a las instituciones públicas, sociales y privadas de la entidad, acciones, política, planes y programas específicos de concertación, planeación y promoción, que garanticen las condiciones favorables para el desarrollo de las personas con discapacidad.
+La Secretaría de Planeación y Finanzas en coordinación con el INCODIS serán los responsables de proponer a las instituciones públicas, sociales y privadas de la Entidad, acciones, política, planes y programas específicos de concertación, planeación y promoción, que garanticen las condiciones favorables para el desarrollo de las personas con discapacidad.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2013)</small>
 
@@ -247,9 +437,11 @@ La Unidad Estatal de Protección Civil en coordinación con el INCODIS planeará
 
 El INCODIS y la Unidad Estatal de Protección Civil deberán elaborar y actualizar periódicamente, una guía para la atención y protección de las personas con discapacidad en casos de emergencia o siniestro. Dicha guía deberá ser adoptada en todos los inmuebles de las dependencias públicas estatales y municipales, así como estar disponible para consulta de la población en general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-Son atribuciones del INCODIS en materia de integración social de las personas con discapacidad las siguientes:
+Son atribuciones del INCODIS en materia de inclusión social de las personas con discapacidad las siguientes:
 
 I. Promover la difusión y defensa de los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan, a fin de garantizar su aplicación;
 
@@ -265,7 +457,9 @@ VI. Promover la participación del sector privado en la captación de recursos p
 
 VII. Estimular y apoyar las acciones que emprendan las instituciones, asociaciones y agrupaciones del sector social con el fin de promover el desarrollo y la integración social de las personas con discapacidad;
 
-VIII. Vigilar el buen uso de los recursos públicos que en su momento reciban las asociaciones civiles legalmente constituidas;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Coadyuvaren el buen uso de los recursos públicos que en su momento reciban las asociaciones civiles legalmente constituidas;
 
 IX. Firmar convenios de colaboración con instituciones nacionales e Internacionales, con el objeto de impulsar el desarrollo social de las personas con discapacidad;
 
@@ -279,15 +473,17 @@ XIII. Recibir, analizar y enviar a las instancias competentes las quejas y suger
 
 XIV. Promover campañas de sensibilización y motivación con la finalidad de crear una cultura de aceptación y respeto a las persona (sic) con discapacidad, manteniendo el interés de la familia y la sociedad en general, a efecto de que realicen su mayor esfuerzo para lograr su completa integración;
 
-XV. El INCODIS evaluará a las asociaciones de y para personas con discapacidad, con el fin de verificar y corroborar el trabajo que cada una de ellas realiza, así como la supervisión de sus planes y programas anuales para emitir recomendaciones sobre los subsidios y apoyos públicos que reciben;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
+XV. El INCODIS valorará a las asociaciones de y para personas con discapacidad, con el fin de verificar y corroborar el trabajo que cada una de ellas realiza, así como la supervisión de sus planes y programas anuales para emitir recomendaciones sobre los subsidios y apoyos públicos que reciben;
 
-XVI. Proponer la creación de las delegaciones municipales del INCODIS;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2013)</small>
+XVI. Proponer la creación de oficinas de atención a la discapacidad por parte de los ayuntamientos;
 
-XVII. Vigilar que en los informes de los titulares de los poderes del Estado y los presidentes municipales existan personas especializadas en el lenguaje de señas que pongan la información generada en tales eventos al alcance de quienes presentan alguna discapacidad auditiva;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XVII. Vigilar que en los informes y en eventos públicos de mayor relevancia de los titulares de los poderes del Estado y los presidentes municipales, así como en situaciones de emergencia de alto riesgo existan personas especializadas en el lenguaje de señas que pongan la información generada en tales eventos al alcance de quienes presentan alguna discapacidad auditiva;
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2013)</small>
 
@@ -297,13 +493,25 @@ XVIII. Promover la participación de las personas con discapacidad en condicione
 
 XIX. Las demás atribuciones contenidas en el Decreto que crea el INCODIS, su Reglamento Interior, así como las que sean necesarias para el cumplimiento de sus funciones en términos de esta ley.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis.
+
+EI INCODIS contará con un Consejo Consultivo que estará conformado por miembros de organizaciones de y para personas con discapacidad, especialistas, académicos, empresarios, personas de notable trayectoria en la defensa de los derechos de las personas con discapacidad y el Presidente de la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad del Congreso del Estado, quienes deberán integrarse por convocatoria pública abierta, excepto este último.
+
+El Consejo será un órgano de consulta y asesoría para diseñar políticas públicas y establecer acciones específicas que el Instituto pueda concertar con las autoridades competentes.
+
+Las normas relativas a la integración, organización y funcionamiento del Consejo Consultivo, estarán previstas en el Reglamento de la presente Ley.
+
 ## TITULO SEGUNDO. De los Servicios Institucionales
 
 ### Capítulo I. De los Programas de Atención
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 15.
 
-El Titular del Poder Ejecutivo a través de su (sic) dependencias y los Ayuntamientos, en el ámbito de sus respectivas competencias, elaborarán y ejecutarán, en coordinación con el INCODIS, el sector salud, las instituciones públicas y privadas de asistencia social y demás autoridades competentes, programas de atención, integración y desarrollo social de personas con discapacidad, siendo prioritarios los siguientes:
+El Titular del Poder Ejecutivo a través de sus dependencias, y los Ayuntamientos, en el ámbito de sus respectivas competencias, elaborarán y ejecutarán, en coordinación con el INCODIS, el sector salud, las instituciones públicas y privadas de asistencia social y demás autoridades competentes, un plan estatal para la inclusión de personas con discapacidad, siendo prioritarios los siguientes rubros:
 
 I. La valoración, el diagnóstico y la rehabilitación;
 
@@ -327,25 +535,33 @@ IX. Servicios de transporte público adaptado;
 
 X. Programas de vialidad;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XI. Programas de acceso a la información pública gubernamental; y
+XI. Programas de acceso a la información pública gubernamental;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XII. Todas aquellas acciones que en su momento se consideren necesarias para la equiparación de oportunidades y protección de los derechos de las personas con discapacidad.
+XII. Creación y seguimiento (sic) proyectos productivos y el autoempleo que generen ingresos para las personas con discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+XIII. Todas aquellas acciones que en su momento se consideren necesarias para la equiparación de oportunidades y protección de los derechos de las personas con discapacidad.
 
 ### Capítulo II. De los servicios de salud y rehabilitación
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 16.
 
-Corresponderá a la Secretaría de Salud a través de sus centros de atención otorgar la valoración y diagnóstico, misma que tendrá por objeto determinar las condiciones de salud físicas, psicológicas, familiares y sociales en que se encuentre la persona para proceder a la rehabilitación.
+Corresponderá a la Secretaría de Salud y Bienestar Social y al DIF Estatal a través de sus centros de atención otorgar la valoración y diagnóstico, misma que tendrá por objeto determinar las condiciones de salud físicas, psicológicas, familiares y sociales en que se encuentre la persona para proceder a la rehabilitación, también elaborará un registro estatal de personas con discapacidad, en base a la clasificación nacional de discapacidades, el cual remitirá trimestralmente al INCODIS quien otorgará un certificado de reconocimiento y clasificación de discapacidad. Asimismo, desde el momento que se detecte la discapacidad en una persona, deberá tener un historial clínico para otorgarle un seguimiento adecuado.
 
 ###### Artículo 17.
 
 La valoración deberá realizarse por especialistas acreditados o certificados debidamente, preferentemente en este orden:
 
-I. Médica, la cual se realizará para determinar profesionalmente el tipo y grado de discapacidad, el tratamiento y rehabilitación requeridos, y la necesidad en su caso, de prótesis, órtesis u otros elementos funcionales;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+I. Médica, la cual se realizará para determinar profesionalmente el tipo y grado de discapacidad, el tratamiento y rehabilitación requeridos, y la necesidad en su caso, de prótesis, órtesis u otros elementos funcionales, misma que deberá ser realizada por especialistas en medicina física y rehabilitación;
 
 II. Psicológica, incluyendo análisis de personalidad;
 
@@ -353,45 +569,55 @@ III. Valoración del ambiente familiar, social y laboral especificando en cada r
 
 IV. Socioeconómica, detallando el grado de apoyo que requiera para su rehabilitación parcial o total.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 18.
 
-A la Secretaría de Salud le corresponde brindar servicios especializados de rehabilitación, la cual debe ser intensiva y multifactorial con el propósito de favorecer la pronta recuperación de las funciones perdidas y la potencialización de las funciones residuales, favoreciendo el auto validismo del paciente.
+A la Secretaría de Salud y Bienestar Social y al DIF Estatal les corresponde brindar servicios especializados de rehabilitación, cada uno en el ámbito de sus competencias, la cual debe ser intensiva y multifactorial con el propósito de favorecer la pronta recuperación de las funciones perdidas y la potencialización de las funciones residuales, favoreciendo el auto validismo del paciente.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 19.
 
-Los servicios de rehabilitación que brinde la Secretaría de Salud deben orientarse en:
+Los servicios de rehabilitación que brinde la Secretaría de Salud y Bienestar Social deben orientarse en:
 
-a) Rehabilitación Física
+I. Rehabilitación Física;
 
-b) Rehabilitación sexual
+II. Rehabilitación Sexual;
 
-c) Rehabilitación Laboral
+III. Rehabilitación Laboral;
 
-d) Rehabilitación Psicológica
+IV. Rehabilitación Psicológica; y
 
-e) Rehabilitación Comunicacional
+V. Rehabilitación Comunicacional.
 
 ###### Artículo 20.
 
 Para facilitar los procesos de rehabilitación, la secretaría de salud establecerá un banco-taller de prótesis, órtesis y otras ayudas técnicas, facilitando su obtención de acuerdo a los estudios socioeconómicos del paciente, el cual determinará los porcentajes de apoyo.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 21.
 
-La Secretaría de Salud tiene obligación de crear Clínicas de Rehabilitación en los diez municipios del estado, así como un Centro estatal de rehabilitación, las cuales dispondrán de equipos médicos multidisciplinarios especializados.
+La Secretaría de Salud y Bienestar Social tiene obligación de crear Clínicas de Rehabilitación en los diez Municipios del Estado, así como un Centro Estatal de Rehabilitación, las cuales dispondrán de equipos médicos multidisciplinarios especializados.
 
 ###### Artículo 22.
 
 Los programas gubernamentales que incluyan atención psicológica deben contar con interpretes certificados para favorecer los procesos terapéuticos dirigidos a personas hipo acústicas.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 23.
 
-El Gobierno del Estado, a través de sus diferentes dependencias, favorecerá la instrumentación de programas de orientación, prevención de procesos discapacitantes, y detección temprana, con el propósito de disminuir los índices de discapacidad por accidente, congénitos, enfermedad o embarazo de alto riesgo.
+El Gobierno del Estado, a través de sus diferentes dependencias, favorecerá la instrumentación de programas de orientación, prevención de procesos discapacitantes, y detección temprana, con el propósito de disminuir los índices de discapacidad por accidente, congénitos, enfermedades crónicas degenerativas o embarazo de alto riesgo, así como la orientación y tratamiento psicológico a las personas con discapacidad y/o a sus familiares.
 
 ### Capítulo III. De la Educación Regular y Especial
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 24.
 
-Los establecimientos que impartan educación básica, normal, media superior y superior que formen parte del sistema educativo estatal, deberán integrar a sus aulas a personas con discapacidad sin discriminación alguna.
+La Secretaria de Educación garantizará que en los establecimientos que impartan educación básica, normal, media superior y superior que formen parte del sistema educativo estatal, deberán integrar e incluir a sus aulas a personas con discapacidad sin discriminación alguna, igualmente implementara programas educativos para las personas que por su tipo y grado de discapacidad no puedan integrarse a los sistemas educativos regulares.
 
 ###### Artículo 25.
 
@@ -401,13 +627,31 @@ Una vez determinado y valorado el grado de discapacidad por las instituciones p�
 
 En las instituciones públicas o privadas del sistema educativo estatal deberán establecerse y respetarse los espacios físicos para la atención especializada de las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 27.
 
-La Secretaría de Educación, proporcionará a las escuelas regulares, a través de Centro de Atención de Apoyo Pedagógico a la Educación y la Unidad de Servicios de Atención a Escuelas Regulares, los medios necesarios para que el personal, principalmente el académico, brinden apoyo a los alumnos con discapacidad en el manejo de silla de ruedas, orientación y movilidad, uso del ábaco, lector escritura en sistema Braille, lenguaje manual y, en general, todos los recursos que la tecnología moderna ofrece al proceso de integración educativa, de ser posible, desde preescolar.
+La Secretaría de Educación, proporcionará a las escuelas regulares, a través de (sic) Unidad de Servicios de Apoyo a la Educación Regular, los medios necesarios para que el personal, principalmente el académico, brinden apoyo a los alumnos con discapacidad en el manejo de silla de ruedas, orientación y movilidad, uso del ábaco, lector escritura en sistema Braille, lenguaje manual y, en general, todos los recursos que la tecnología moderna ofrece al proceso de integración educativa, de ser posible, desde preescolar.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 27 Bis.
+
+La Secretaría de Educación, a fin de crear las condiciones necesarias para una completa integración y desarrollo de las personas con discapacidad auditiva, promoverá la enseñanza de la Lengua de Señas Mexicanas en la educación pública y privada.
+
+Para los efectos del párrafo anterior, la Secretaría de Educación procurará paulatinamente emplear a maestros capacitados debidamente en el uso de Lengua de Señas Mexicanas, para lo cual la Secretaría de Educación Pública, deberá de manera gradual establecer programa de capacitación de Lengua de Señas Mexicanas para la planta docente existente en el Estado de Colima, priorizando a los que cuenten con alumnos sordos inscritos en el ciclo escolar correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 27 Ter.
+
+La Secretaría de Educación difundirá el reconocimiento de la Lengua de Señas Mexicanas como lengua oficial, mediante capacitación e investigación a fin de que sea empleada en el Sistema Educativo Estatal.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 28.
 
-Con base en lo dispuesto en la Ley de Educación del Estado y la presente Ley, la educación especial se impartirá a quien de acuerdo con su diagnóstico y valoración les resulte imposible la integración al sistema educativo regular.
+Con base en lo dispuesto en la Ley de Educación del Estado y la presente Ley, la educación especial se impartirá a quien de acuerdo con su diagnóstico y valoración le resulte imposible la inclusión al sistema educativo regular.
 
 ###### Artículo 29.
 
@@ -441,15 +685,23 @@ La Secretaría de Educación destinará recursos económicos y humanos con el pr
 
 Las escuelas de educación superior, formadoras de docentes, deben incluir en sus estructuras curriculares programas de estudio sobre necesidades educativas especiales en la escuela regular.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+La Secretaría de Educación deberá implementar la formación y capacitación permanente al personal docente y de apoyo en temas de discapacidad, así como el lenguaje de señas mexicanas, el sistema de escritura braille, entre otros.
+
 ### Capítulo IV. Capacitación y Promoción de Empleo
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 34.
 
-La finalidad primordial de implementar programas de capacitación, adiestramiento y promoción de empleo para personas con discapacidad, será la de su integración en el sistema ordinario de trabajo o, en su caso, su incorporación al sistema productivo estatal mediante una forma de trabajo adecuado y remunerado.
+La finalidad primordial de implementar programas de capacitación, adiestramiento y promoción de empleo para personas con discapacidad, será la de su inclusión en el sistema ordinario de trabajo o en su caso, su incorporación al sistema productivo estatal mediante una forma de trabajo adecuado y remunerado, y para tal efecto se formularan políticas públicas, mecanismos y programas para la incorporación de trabajo protegido para personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 35.
 
-El INCODIS en coordinación con las instituciones públicas y los centros de educación especial en la entidad, proporcionará a quien así lo solicite, una evaluación de aptitudes y actitudes en el trabajo, con el objeto de encontrar el campo de empleo más propicio para cada persona según sus capacidades.
+El INCODIS en coordinación con la Secretaría del Trabajo y el Centro de Rehabilitación, proporcionará a quien así lo solicite, una evaluación de aptitudes y actitudes en el trabajo, con el objeto de encontrar el campo de empleo más propicio para cada persona según sus capacidades.
 
 ###### Artículo 36.
 
@@ -471,9 +723,11 @@ La formación para el trabajo siempre deberá procurar la adquisición de conoci
 
 El Gobierno Estatal y los Ayuntamientos, en el ámbito de sus respectivas competencias, establecerán programas de promoción de empleo y autoempleo para personas con discapacidad, creando bolsas de trabajo en las que se concentre la información básica de los aspirantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 40.
 
-El Gobierno Estatal a través del INCODIS promoverá ante las instancias correspondientes la integración laboral de las personas con discapacidad en circunstancias de equidad, así mismo vigilará y recomendará que las condiciones en que se desempeñe el discapacitado no sean discriminatorias.
+El Gobierno Estatal a través del INCODIS promoverá ante las instancias correspondientes la inclusión laboral de las personas con discapacidad en circunstancias de equidad, así mismo vigilará y recomendará que las condiciones en que se desempeñe la persona con discapacidad no sean discriminatorias.
 
 Del mismo modo gestionará el apoyo de los sectores social, público, privado e industrial para colocar a las personas con discapacidad en puestos vacantes según sus aptitudes.
 
@@ -487,9 +741,11 @@ Se promoverá a través del INCODIS incentivos o estímulos fiscales para person
 
 Los programas de promoción deportiva, cultural y recreativa para las personas con discapacidad, tienen la finalidad de contribuir a mejorar el nivel de desarrollo personal, así como su integración a la sociedad en la que se desenvuelven y se basarán en la atención especializada y multidisciplinaria a través de la (sic) ciencias aplicadas para el deporte.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
-Todas las instalaciones públicas deportivas, centros, culturales y recreativos de la entidad deben estar libres de barreras arquitectónicas para garantizar el acceso fácil e independiente.
+Todas las instalaciones públicas deportivas, centros, culturales y recreativos de la entidad deben estar libres de barreras arquitectónicas, incorporación de condiciones satisfactorias de accesibilidad universal, señalética en sistema braille e imágenes ilustrativas de sencilla comprensión, para garantizar el acceso fácil e independiente.
 
 ###### Artículo 44.
 
@@ -503,13 +759,17 @@ III. Promuevan la construcción de instalaciones especiales para la práctica de
 
 IV. Propicien la adecuación de las instalaciones deportivas y recreativas de los hoteles, las playas, los estadios deportivos y los gimnasios, tanto públicos como privados, a fin de hacerlos accesibles al uso y disfrute de las personas con discapacidad;
 
-V. Fomenten la participación de personas con discapacidad en actividades deportivas y culturales a través de eventos, talleres y cursos artísticos, de capacitación teatral, uso del lenguaje braille, lenguaje manual y otros semejantes;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+V. Fomenten la participación de personas con discapacidad en actividades deportivas y culturales a través de eventos, talleres y cursos artísticos, de capacitación teatral, uso del lenguaje braille, Lengua de Señas Mexicanas y otros semejantes;
 
 VI. Promuevan la formación de equipos deportivos de personas con discapacidad, independientemente de que se encuentren integrados o no a los programas rehabilitatorios. Para tal efecto, se dotará a los mismos de entrenadores deportivos debidamente capacitados para el manejo de los diversos tipos de capacidades; así mismo gestionar becas, obtención de uniformes, equipo e instrumentos necesarios para la práctica de los deportes de que se trate;
 
 VII. De acuerdo con las actividades que las personas con discapacidad puedan desarrollar, promuevan la formación de grupos de lectura, teatro, apreciación musical, análisis cinematográfico, pintura y demás actividades culturales recreativas y artísticas;
 
-VIII. Otorguen becas económicas y/o alimentación;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Otorguen becas económicas y/o alimentación, así como becas escolares;
 
 IX. Dentro de los programas rehabilitatorios, es obligatorio incluir la práctica de actividades deportivas; y
 
@@ -523,13 +783,17 @@ El INCODIS en coordinación con el Instituto Colimense del Deporte, vigilarán e
 
 ### Capítulo I. De las condiciones urbanísticas
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 46.
 
-Las personas con discapacidad tienen el derecho de contar con preferencias que les permitan su transportación y libre desplazamiento. Para hacer efectivo este derecho el Gobierno Estatal y los Ayuntamientos, en el ámbito de sus respectivas competencias, incluirán en los programas de desarrollo urbano, las normas técnicas de diseño y construcción que se requieran de acuerdo a las necesidades de las personas con discapacidad, de conformidad con las disposiciones legales aplicables en la materia, debiéndose contemplar las directrices a que deban someterse los proyectos de construcción o modificaciones respectivas. Así mismo se promoverán campañas de difusión y medidas en materia de educación vial.
+Las personas con discapacidad tienen el derecho de contar con adaptaciones y espacios que les permitan su transportación y libre desplazamiento. Para hacer efectivo este derecho el Gobierno Estatal y los Ayuntamientos, en el ámbito de sus respectivas competencias, incluirán en los programas de desarrollo urbano, las normas técnicas de diseño y construcción que se requieran de acuerdo a las necesidades de las personas con discapacidad, de conformidad con las disposiciones legales aplicables en la materia, debiéndose contemplar las directrices a que deban someterse los proyectos de construcción o modificaciones respectivas. Así mismo se promoverán campañas de difusión y medidas en materia de educación vial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 47.
 
-Para dar cumplimiento al artículo que antecede, la Secretaría de Desarrollo Urbano del Gobierno Estatal y la Dirección de Obras Públicas de cada Ayuntamiento, dictará las normas básicas a que deban sujetarse los proyectos de construcción públicos y privados de:
+Para dar cumplimiento al artículo que antecede, la Secretaría de Infraestructura y Desarrollo Urbano del Gobierno Estatal y la Dirección de Obras Públicas de cada Ayuntamiento o su similar, dictará las normas básicas a que deban sujetarse los proyectos de construcción públicos y privados de:
 
 I. Urbanización, fraccionamiento y construcción;
 
@@ -543,29 +807,39 @@ Los proyectos de construcción de conjuntos habitacionales que constituyan un co
 
 ### Capítulo II. De las barreras arquitectónicas
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 48.
 
-Las barreras arquitectónicas que en la vía pública y en lugares con acceso al público deberán, en su caso, ser adecuadas con facilidades para personas con discapacidad que no impidan, dificulten o, entorpezcan el acceso de los servicios e instalaciones como:
+Las barreras arquitectónicas que en la vía pública y en lugares con acceso al público deberán, en su caso, ser adecuadas de acuerdo al diseño universal con facilidades para personas con discapacidad que no impidan, dificulten o, entorpezcan el acceso de los servicios e instalaciones como:
 
-I. Estacionamientos y aparcaderos.
+I. Estacionamientos y aparcaderos;
 
-II. Contenedores para depósitos de basura
+II. Contenedores para depósitos de basura;
 
-III. Auditorios, salas de cine, teatros y en general cualquier sala de espectáculos
+III. Auditorios, salas de cine, teatros y en general cualquier sala de espectáculos;
 
-IV. Bibliotecas
+IV. Bibliotecas;
 
-V. Escuelas
+V. Escuelas;
 
-VI. Sanitarios
+VI. Sanitarios;
 
-VII. Parques y jardines
+VII. Parques y jardines;
+
+VIII. Oficinas que ocupen las dependencias estatales y municipales, y los poderes Legislativo y Judicial;
+
+IX. Templos e inmuebles religiosos; y
+
+X. Cualquier inmueble de acceso público.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 49.
 
-La arquitectura en lugares con acceso público debe ser adecuada y contar con las facilidades para que las personas con discapacidad puedan desplazarse. Cuando éstas no presenten dichas condiciones, deberán ser reconstruidas con esa finalidad.
+La arquitectura en lugares con acceso público debe ser adecuada conforme a las especificaciones de accesibilidad de diseño universal y contar con las facilidades para que las personas con discapacidad puedan desplazarse. Cuando éstas no presenten dichas condiciones, deberán ser reconstruidas con esa finalidad.
 
-Asimismo la colocación de los señalamientos viales se efectuará de manera estratégica evitando el centro de pasillos, las orillas en caso de que las aceras sean angostas y camellones a efecto de que no se impida el desplazamiento de una silla de ruedas, de un aparato de apoyo o de un invidente o débil visual.
+Asimismo la colocación de los señalamientos viales se efectuará de manera estratégica evitando el centro de pasillos, las orillas en caso de que las aceras sean angostas y camellones altura de las señaléticas, toldos o estructuras que invadan espacio peatonal a efecto de que no se impida el desplazamiento de una silla de ruedas, de un aparato de apoyo o de persona con discapacidad visual o de baja visión.
 
 ###### Artículo 50.
 
@@ -585,9 +859,11 @@ En las zonas urbanas de nueva creación o desarrollo, deberá evitarse la coloca
 
 En las áreas ya urbanizadas, donde se ubican coladeras de cualquier índole, sobre las aceras, deberán fijarse señalamientos necesarios para que las personas que utilicen silla de ruedas, muletas, bastones, aparatos ortopédicos o sean débiles visuales, eviten tropiezo alguno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 54.
 
-Los tensores que en las vías públicas se instalan, como apoyo de los postes de los servicios públicos, deberán contar con un protector de plástico flexible con un diámetro mínimo de setenta y cinco milímetros, el cual se recubrirán con pintura de color vivo a fin de que los transeúntes, principalmente los débiles visuales, los identifiquen con facilidad para evitar tropezarse.
+Postes, señalamientos, semáforos, cabinas telefónicas o cualquier tipo de objeto que obstruya y dificulte el libre tránsito de las personas con discapacidad deberán instalarse a una distancia mínima de 90 cm a fin de garantizar el derecho de los ciudadanos con discapacidad para desplazarse. Los tensores que en las vías públicas se instalan, como apoyo de los postes de los servicios públicos, deberán contar con un protector de plástico flexible con un diámetro mínimo de setenta y cinco milímetros, el cual se recubrirán (sic) con pintura de color vivo a fin de que los transeúntes, principalmente las personas de baja visión, los identifiquen con facilidad para evitar tropezarse.
 
 Con la misma finalidad deberán pintarse de colores contrastantes los postes, semáforos, contenedores de basura de todo tipo y cualquier otro mueble urbano que se deposite sobre las aceras, cruceros o intersecciones de calles.
 
@@ -603,9 +879,11 @@ Así mismo, estará dotada, por ambos lados, de un bordo o guarnición longitudi
 
 Bajo ninguna circunstancia, la rampa de servicios de carga y descarga de un edificio podrá destinarse a la función precisada en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 57.
 
-Las escaleras exteriores de los edificios deberán contar con una pendiente suave, así como un acabado antiderrapante y estar dotadas de pasamanos dobles o barandales a efecto de facilitar el acceso a personas invidentes o débiles visuales, con prótesis o afectadas de cualquier estado de discapacidad.
+Las escaleras exteriores de los edificios deberán contar con una pendiente suave, así como un acabado antiderrapante y estar dotadas de pasamanos dobles o barandales a efecto de facilitar el acceso a personas con prótesis o que presenten cualquier tipo de discapacidad.
 
 ###### Artículo 58.
 
@@ -637,9 +915,11 @@ En caso de que no resulte posible dar cumplimiento a lo anterior, los edificios 
 
 ### Capítulo III. De las preferencias para el libre desplazamiento y uso de los servicios
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 64.
 
-La prestación de los servicios para las personas con discapacidad, tiene por objeto garantizar el uso y disfrute de todo tipo de servicios facilitando el desarrollo personal y su integración social.
+La prestación de los servicios para las personas con discapacidad, tiene por objeto garantizar el uso y disfrute de todo tipo de servicios facilitando el desarrollo personal y su inclusión social.
 
 ###### Artículo 65.
 
@@ -677,33 +957,61 @@ En los lugares que presten servicio al público, deberán destinarse, por lo men
 
 Dichos espacios estarán diseñados de acuerdo a los requerimientos específicos por la autoridad competente y encontrarse claramente señalados como reservados para uso exclusivo, ubicándose lo más cerca posible de las rampas de acceso a las aceras.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-Estos espacios podrán compartirse para el uso de personas adultas mayores que así lo requieran.
+Estos espacios no podrán ser utilizados para otro fin que no sea personas con discapacidad motriz, pudiendo existir otro tipo de cajones especiales, debidamente especificados.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 68.
 
-Las personas con discapacidad, dificultad o riesgo de desplazamiento, tendrán derecho exclusivo a ocupar los espacios de estacionamiento destinados para ellos, siempre que el vehículo se identifique de la siguiente forma:
+Las personas con discapacidad motriz, dificultad o riesgo de desplazamiento tendrán derecho exclusivo a ocupar los espacios de estacionamiento destinados para ellos, siempre que el vehículo se identifique de la siguiente forma:
 
-I.- Porte placas preferenciales de circulación del Estado que contenga el logotipo internacional reconocido;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-II.- Porte el tarjetón otorgado por el INCODIS con el logotipo internacional reconocido; o
+I. Porte placas preferenciales de circulación del Estado que contenga el logotipo internacional reconocido;
 
-III.- Para el caso de vehículos foráneos, porte el logotipo internacional reconocido.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-Para el otorgamiento de las placas preferenciales a que se refiere el párrafo anterior, las personas con discapacidad, dificultad o riesgo de desplazamiento o quien ejerza la representación legal de ellos, podrán realizar los trámites correspondientes por sí o por conducto del INCODIS, en los términos del reglamento respectivo.
+II. Porte el tarjetón otorgado por el INCODIS con el logotipo internacional reconocido;
 
-En cuanto al otorgamiento del tarjetón, las personas con discapacidad, dificultad o riesgo de desplazamiento o quien ejerza la representación legal de éste, podrán acudir directamente ante el INCODIS, exhibiendo, en original y copia, identificación oficial con fotografía; constancia de domicilio; factura del vehículo auto motor adaptado o sin adaptar, aunque no aparezca a su nombre; y una constancia médica que acredite la discapacidad, dificultad o riesgo de desplazamiento expedida por una Institución médica oficial como lo son el lMSS, ISSSTE o el CREE, dependiente del DIF Estatal o Municipal.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+III. Para el caso de vehículos que porten placas foráneas, porte el logotipo internacional reconocido.
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Porte el tarjetón otorgado por el INCODIS con el logotipo de mujer embarazado (sic) o de adulto en plenitud.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Para el otorgamiento de las placas preferenciales a que se refiere el párrafo anterior, las personas con discapacidad motriz, dificultad o riesgo de desplazamiento quien ejerza la representación legal de ellos, podrán realizar los trámites correspondientes por sí o por conducto del INCODIS, en los términos del reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+En cuanto al otorgamiento del tarjetón, las personas con discapacidad motriz, dificultad o riesgo de desplazamiento o quien ejerza la representación legal de éste, podrán acudir directamente ante el INCODIS, exhibiendo, en original y copia, identificación oficial con fotografía; constancia de domicilio; factura del vehículo auto motor adaptado o sin adaptar, aunque no aparezca a su nombre; y una constancia médica que acredite la discapacidad, dificultad o riesgo de desplazamiento expedida por una Institución médica oficial como lo son el Instituto Mexicano del Seguro Social (IMSS), Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) o el Centro de Rehabilitación y Educación Especial (CREE) dependiente del DIF Estatal o Municipal.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+En el caso de los adultos en plenitud, además de los requisitos señalados en el párrafo anterior, deberá tener credencial vigente del Instituto Nacional de las Personas Adultas Mayores (INAPAM) o del Instituto para la Atención de los Adultos en Plenitud del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+En el caso de mujeres embarazadas, deberán especificar un certificado médico que acredite la valoración del tiempo de gestación y la fecha probable de parto.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Para los derechos a portar tarjetón de estacionamiento exclusivo a mujeres embarazadas, éstas deberán acreditar una gestación a partir de los cinco meses o tener un embarazo de alto riesgo, asimismo dicho derecho se extenderá hasta el término de su licencia por maternidad o en su caso cuarenta días después del alumbramiento.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 El tarjetón tendrá una vigencia de un año, salvo discapacidad temporal, y será gratuito.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 69.
 
-Con la finalidad de hacer realidad los derechos que otorga la presente ley a las personas con discapacidad, dificultad o riesgo de desplazamiento que tengan necesidad de ascender o descender de los vehículos automotores en los cuales se transportan a sus actividades consuetudinarias, la Dirección General de Transporte del Gobierno del Estado de Colima en coordinación con las diversas Direcciones de Seguridad Pública, Vialidad y Transporte de los Ayuntamientos que conforman el Estado de Colima, promoverán, dispondrán y aplicarán todas las medidas necesarias para que a este grupo vulnerable se le respeten los derechos que esta u otras leyes les otorguen, realizando acciones para que las autoridades administrativas antes señaladas puedan aplicar sanciones en zonas restringidas como son los estacionamientos de tiendas departamentales o estacionamientos de dependencias oficiales, entre otros.
+Con la finalidad de hacer realidad los derechos que otorga la presente ley a las personas con discapacidad motriz, dificultad o riesgo de desplazamiento que tengan necesidad de ascender o descender de los vehículos automotores en los cuales se transportan a sus actividades consuetudinarias, la Secretaría de Movilidad del Gobierno del Estado en coordinación con las diversas Direcciones de Seguridad Pública, Vialidad y Transporte de los Ayuntamientosque (sic) conforman el Estado o sus similares, promoverán, dispondrán y aplicarán todas las medidas necesarias para que a este grupo vulnerable se le respeten los derechos que esta u otras leyes les otorguen, realizando acciones para que las autoridades administrativas antes señaladas puedan aplicar sanciones en zonas restringidas como son los estacionamientos de tiendas departamentales o estacionamientos de dependencias oficiales, entre otros.
 
 ###### Artículo 70.
 
@@ -729,7 +1037,9 @@ Las empresas telefónicas que ya tengan instalados teléfonos públicos, deben r
 
 Las bibliotecas de estantería abierta, deberán contar con una separación mínima de ciento veinte centímetros entre los anaqueles, a fin de facilitar su uso a personas con discapacidad, principalmente aquéllos que requieran movilizarse en silla de ruedas, muletas o cualquier otro aparato.
 
-También deberá contar con una área determinada específicamente para invidentes o débiles visuales, en donde se instalen casetas que permitan hacer uso de grabadoras o que otras personas les hagan lectura en voz alta sin causar perjuicio alguno a los demás usuarios y, en su caso, contar con libros impresos de mayor dimensión, escritura bajo el sistema Braille y audiolibros y con programas de lectura de pantalla que permitan el acceso a bibliografías virtuales.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+También deberá contar con una área determinada específicamente para invidentes o de baja visión, en donde se instalen casetas que permitan hacer uso de grabadoras o que otras personas les hagan lectura en voz alta sin causar perjuicio alguno a los demás usuarios y, en su caso, contar con libros impresos de mayor dimensión, escritura bajo el sistema Braille y audiolibros y con programas de lectura de pantalla que permitan el acceso a bibliografías virtuales.
 
 ###### Artículo 74.
 
@@ -749,11 +1059,13 @@ Los restaurantes, comedores de autoservicio, cafeterías y bibliotecas públicas
 
 ###### Artículo 77.
 
-Los hoteles y establecimientos que se dediquen al hospedaje, deberán contar con lugares de acceso común sin (sic) barreras arquitectónicas de fácil y cómodo acceso para personas con discapacidad, dificultad o riesgo de desplazamiento, áreas como son recepción, albercas, bares y todas las áreas de descanso y esparcimiento. Además en el caso de hoteles que excedan de 30 habitaciones deberán contar cuando menos con 3 habitaciones adaptadas para este grupo vulnerable, habitaciones que deberán tener el espacio necesario para la movilidad de estas personas en el interior de las mismas, siendo indispensable que las habitaciones de referencia cuenten con servicio de baños adaptados para este grupo de personas, que les permitan un descanso cómodo y agradable.
+Los hoteles y establecimientos que se dediquen al hospedaje, deberán contar con lugares de acceso común sin barreras arquitectónicas de fácil y cómodo acceso para personas con discapacidad, dificultad o riesgo de desplazamiento, áreas como son recepción, albercas, bares y todas las áreas de descanso y esparcimiento. Además en el caso de hoteles que excedan de 30 habitaciones deberán contar cuando menos con 3 habitaciones adaptadas para este grupo vulnerable, habitaciones que deberán tener el espacio necesario para la movilidad de estas personas en el interior de las mismas, siendo indispensable que las habitaciones de referencia cuenten con servicio de baños adaptados para este grupo de personas, que les permitan un descanso cómodo y agradable.
 
 En los restaurantes, bares y cualquier establecimiento existente en el Estado en que se expida comida y bebidas habrá por lo menos 2 cartas en braille, a efecto de que las personas con discapacidad visual tengan acceso al menú que ofrecen dichos comercios.
 
-Para el cumplimiento de estas disposiciones, se coordinarán las Secretarías de Desarrollo Urbano, Salud y de Turismo del Estado de Colima, así como los Ayuntamientos a través de las dependencias correspondientes, quienes harán visitas periódicas cuando menos tres veces por año para verificar el cumplimiento por parte de las personas morales que presten este tipo de servicios, y en caso de incumplimiento, las autoridades administrativas antes citadas notificarán del incumplimiento al representante legal de la respectiva persona moral y lo requerirá para que en un término de 90 días contadas (sic) a partir del día siguiente del apercibimiento, cumpla con lo ordenado por el presente artículo y en caso de no hacerlo, se le aplicará una sanción económica de hasta 130 unidades, y en caso de reincidencia esta se triplicara.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Para el cumplimiento de estas disposiciones, se coordinarán las Secretarías de Infraestructura y Desarrollo Urbano, Salud y Bienestar Social, y de Turismo del Estado, así como los Ayuntamientos a través de las dependencias correspondientes, quienes harán visitas periódicas cuando menos tres veces por año para verificar el cumplimiento por parte de las personas morales que presten este tipo de servicios, y en caso de incumplimiento, las autoridades administrativas antes citadas notificarán del incumplimiento al representante legal de la respectiva persona moral y lo requerirá para que en un término de 90 días contadas (sic) a partir del día siguiente del apercibimiento, cumpla con lo ordenado por el presente artículo y en caso de no hacerlo, se le aplicará una sanción económica de hasta 130 unidades de medida y actualización, y en caso de reincidencia esta se triplicara.
 
 ###### Artículo 78.
 
@@ -781,21 +1093,27 @@ II. En las terminales de autobuses o aeropuertos deberán existir las instalacio
 
 III. Las personas con discapacidad tienen derecho a hacer uso de los asientos y espacios preferentes que para tal efecto sean destinados en los autobuses, y diversos medios de transporte público. Estos asientos deberán estar situados en los espacios más cercanos a las puertas de ascenso de la unidad; y
 
-IV. Los invidentes que necesiten perros guías, podrán accesar a lugares públicos y todo tipo de transporte, debiendo tomar las debidas precauciones.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Los invidentes que necesiten perros guías, podrán acceder a lugares públicos y todo tipo de transporte.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 82.
 
-Los sistemas de transporte público urbano, suburbano y foráneo estatal, otorgarán un descuento del cincuenta por ciento en el pago del servicio de transporte a favor de las personas con discapacidad, previa identificación otorgada por la secretaría de salud.
+Los sistemas de transporte público urbano, suburbano y foráneo estatal, otorgarán un descuento del cincuenta por ciento en el pago del servicio de transporte a favor de las personas con discapacidad, previa identificación de la credencial nacional del DIF, otorgada por el Centro de Rehabilitación y Educación Especial.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 83.
 
-El servicio público de transporte urbano, suburbano y foráneo estatal, debe equipar el total de sus unidades con mecanismos y equipos especializados que faciliten el acceso a usuarios con discapacidad. La incorporación de unidades adaptadas será de por lo menos el diez por ciento anual, hasta alcanzar el total.
+El servicio público de transporte urbano, suburbano y foráneo estatal, debe equipar el total de sus unidades con mecanismos y equipos especializados que faciliten el acceso a usuarios con discapacidad. Cada vez que las unidades sean reemplazadas por diferentes causas, éstas deberán contar con las adaptaciones necesarias para atención de personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 84.
 
-Todas las unidades del servicio estatal de transporte deben reservar, por lo menos, la cantidad de asientos que establece el artículo 168 de la Ley de Transporte y de la Seguridad Vial del Estado de Colima, a efecto de ser utilizado por personas con discapacidad, debiendo estar situados cerca de la puerta de ascenso, ser de un color distinto a los demás y, tener un emblema o leyenda para su identificación.
+Todas las unidades del servicio estatal de transporte deben reservar, por lo menos, la cantidad de asientos que establece la fracción XXIV del artículo 86 de la Ley de Movilidad Sustentable para el Estado, a efecto de ser utilizado por personas con discapacidad, debiendo estar situados cerca de la puerta de ascenso, ser de un color distinto a los demás y, tener un emblema o leyenda para su identificación.
 
 ###### Artículo 85.
 
@@ -811,11 +1129,15 @@ Los paraderos de camiones del servicio público urbano deben construirse o adecu
 
 Los concesionarios del servicio de taxis que nieguen el servicio a una persona con discapacidad, o que lo brinden de tal forma que puedan causarles un daño, serán sancionados conforme a la legislación vigente, y la reincidencia será motivo de la cancelación del respectivo permiso o concesión.
 
-A los conductores de taxis, camiones urbanos o suburbanos que nieguen el servicio o lo presten de forma deficiente, se les cancelará el gafete que los autoriza a conducir vehículos de transporte público.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+A los conductores de taxis, camiones urbanos o suburbanos que nieguen el servicio, cobren una cantidad mayor a la tarifa oficial o lo presten de forma deficiente, se les cancelará el gafete que los autoriza a conducir vehículos de transporte público.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 88.
 
-La Dirección de Transporte del Gobierno del Estado, deberá establecer programas permanentes de orientación y capacitación a los transportistas y conductores de vehículos del servicio público de transporte, con el objeto de brindar una atención adecuada a las personas con discapacidad.
+La Secretaría de Movilidad, deberá establecer programas permanentes de orientación y capacitación a los transportistas y conductores de vehículos del servicio público de transporte, con el objeto de brindar una atención adecuada a las personas con discapacidad.
 
 ###### Artículo 89.
 
@@ -835,17 +1157,21 @@ I. El Gobierno del Estado, a través de:
 
 a. La Secretaría de Educación, en las materias de educación regular y especial, capacitación y adiestramiento;
 
-b. La Secretaría de Salud, en esa materia;
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-c. La Secretaría de Desarrollo Urbano, en el caso de barreras arquitectónicas y normas urbanísticas; y,
+b. La Secretaría de Salud y Bienestar Social, en esa materia;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-d. La Secretaría de Turismo, tratándose de las necesidades de descanso, esparcimiento y recreación de las personas con discapacidad, dificultad o riesgo de desplazamiento;
+c. La Secretaría de Infraestructura y Desarrollo Urbano, en el caso de barreras arquitectónicas y normas urbanísticas;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-e. La Dirección General de Transporte y las diversas Direcciones de Tránsito y Vialidad de los Ayuntamientos que conforman el Estado de Colima, cuando se trate del transporte y la seguridad en el traslado de las personas con discapacidad, dificultad o riesgo de desplazamiento.
+d. La Secretaría de Turismo, tratándose de las necesidades de descanso, esparcimiento y recreación de las personas con discapacidad, dificultad o riesgo de desplazamiento; y
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+e. La Secretaria de Movilidad y las diversas Direcciones de Tránsito y Vialidad de los Ayuntamientos que conforman el Estado o sus similares, cuando se trate del transporte y la seguridad en el traslado de las personas con discapacidad, dificultad o riesgo de desplazamiento.
 
 II. Los Ayuntamientos, a través de:
 
@@ -857,9 +1183,15 @@ b. La Dirección de Tránsito y Vialidad, en esa materia.
 
 La Dirección General de Transporte del Estado de Colima, en coordinación con las diversas Direcciones de Tránsito y Vialidad de los ayuntamientos que conforman el Estado de Colima, llevarán un padrón de todos y cada uno de los infractores de las leyes que en esta materia concedan derechos a las personas con discapacidad, dificultad o riesgo de desplazamiento. Dicho padrón será constantemente actualizado, por lo cual las Direcciones de Tránsito y Vialidad de los Ayuntamientos que conforman el Estado de Colima, deberán enviar mensualmente a la Dirección General del Transporte del Gobierno del Estado de Colima el informe de las infracciones aplicadas a los ciudadanos que no cumplieron con los ordenamientos legales en esta materia y que violaron los derechos de este grupo vulnerable, con la finalidad de que la Dirección de Transporte del Gobierno del Estado de Colima, aplique al infractor las sanciones que ordenan los artículos 92 y 93 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Las autoridades señaladas podrán conocer y resolver acerca de las infracciones a petición de parte o de oficio. Aquella persona que considere transgredidos los derechos que le otorga la presente Ley, podrá presentar denuncia por escrito ante las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 91.
 
-El INCODIS podrá recibir las denuncias presentadas por las personas con discapacidad que se vean afectadas en sus derechos, y remitirlas a la autoridad competente.
+El INCODIS y el DIF Estatal podrán recibir las denuncias presentadas por las personas con discapacidad que se vean afectadas en sus derechos, y remitirlas a la autoridad competente.
 
 ### Capítulo II. De las sanciones
 
@@ -1032,3 +1364,23 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 547 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 34 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 67 BIS 2 DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA; APRUEBA REFORMAR LA FRACCIÓN IX DEL ARTÍCULO 10 Y EL ARTÍCULO 68 DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIA (SIC) Y SE APRUEBA REFORMAR EL NUMERAL 2 DEL ARTÍCULO 109 DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El Presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial “EL ESTADO DE COLIMA”.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 554 POR EL QUE SE REFORMA EL ARTÍCULO 11 FRACCIONES XXVIII Y XXIX; Y SE ADICIONAN LAS FRACCIONES XXX Y XXXI AL ARTÍCULO 11; LA FRACCIÓN IV AL ARTÍCULO 89, HACIÉNDOSE EL CORRIMIENTO CORRESPONDIENTE, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA; SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 2°; EL PÁRRAFO SEGUNDO AL ARTÍCULO 6; 27; Y LA FRACCIÓN V DEL ARTÍCULO 44; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 2; ARTÍCULO 27 BIS; ARTÍCULO 27 TER; SE, (SIC) TODOS DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 23 BIS 6, DE LA LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 548 POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA "LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA", PARA INTITULARSE "LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA"; Y LOS ARTÍCULOS 2°; 3° FRACCIÓN V; 4°; 6° PÁRRAFOS SEGUNDO Y CUARTO; 10 FRACCIÓN III Y ÚLTIMO PÁRRAFO; 11; 13; 14 FRACCIONES VIII, XV, XVI, XVII DEL PÁRRAFO PRIMERO; 15 PÁRRAFO PRIMERO, Y FRACCIONES XI Y XII; 16; 17 FRACCIÓN I; 18; 19; 21; 23; 24; 27; 28; 34; 35; 40 PÁRRAFO PRIMERO; 43; 44 FRACCIÓN VIII; 46; 47; 48; 49; 54 PÁRRAFO PRIMERO; 57; 64; 67 PÁRRAFO TERCERO; 68 PÁRRAFO PRIMERO, SEGUNDO Y TERCERO, Y FRACCIÓN III, Y PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 69; 73 PÁRRAFO SEGUNDO; 77 PÁRRAFO TERCERO; 81 FRACCIÓN IV; 82; 83; 84; 87 PÁRRAFO SEGUNDO; 88; 90 FRACCIÓN I INCISOS B), C), D) Y E), Y PÁRRAFO SEGUNDO Y 91;ASÍ MISMO SE ADICIONAN LAS FRACCIONES DE LA VIII A LA XXXVIII AL ARTÍCULO 2°; LA FRACCIÓN VI AL ARTÍCULO 3°; EL ARTÍCULO 8 BIS; EL ARTÍCULO 14 BIS; LA FRACCIÓN XIII AL ARTÍCULO 15; UN SEGUNDO PÁRRAFO AL ARTÍCULO 33 Y EL PÁRRAFO TERCERO AL ARTÍCULO 90, TODOS DE LA CITADA LEY”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las disposiciones contenidas en los artículos 6° párrafo segundo, 10 párrafo segundo, 43, y 48 fracciones (sic) VIII del presente Decreto se implementarán de forma gradual, atendiendo a la capacidad presupuestaria de los entes públicos obligados.
