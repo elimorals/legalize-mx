@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-61073"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-12"
-last_updated: "2018-02-07"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE FEBRERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de abril de 2008.
 
@@ -111,11 +109,17 @@ VIII. Promover la inclusión de la perspectiva de género con una visión transv
 
 IX. Promover el desarrollo de la tecnología y la innovación, que asocien al mejoramiento de la calidad del sistema educativo y la expansión del conocimiento apoyándose en las nuevas tecnologías de la información y comunicación, en su caso, por medio del uso de plataformas de acceso abierto.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 4.
 
-La aplicación y vigilancia de esta Ley estará a cargo del Titular del Poder Ejecutivo del Estado, a través del Consejo Oaxaqueño de Ciencia, Tecnología e Innovación.
+La competencia para la aplicación de esta Ley estará a cargo de:
+
+I. El titular del Poder Ejecutivo del Estado.
+
+II. Los Municipios del Estado, y
+
+III. El Consejo Oaxaqueño de Ciencia, Tecnología e Innovación.
 
 ### CAPÍTULO SEGUNDO. DE LOS PRINCIPIOS RECTORES
 
@@ -741,9 +745,15 @@ Con el objeto de vincular la investigación con la educación, los CI y las IES,
 
 La incidencia de la ciencia y la tecnología en el desarrollo sociocultural y económico se desarrollará a través de cuatro mecanismos de inducción: programación, financiamiento, formación de recursos humanos y estímulos, bajo la coordinación del COCITel.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 47.
 
 El Gobierno del Estado promoverá el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia y la tecnología en todos los niveles de la educación, principalmente en la educación básica.
+
+Los municipios del Estado, en el ámbito de sus competencias, podrán establecer en sus Planes Municipales de Desarrollo, las políticas, estrategias y programas para el fomento, divulgación y difusión de la investigación científica la ciencia y el desarrollo tecnológico.
+
+Así también, de acuerdo a la suficiencia presupuestal correspondiente, fijarán los recursos necesarios para la realización de las actividades para el cumplimiento de esta Ley.
 
 ### CAPÍTULO SEGUNDO. DE LA VINCULACIÓN DE LA INVESTIGACIÓN CON EL SECTOR PRODUCTIVO
 
@@ -886,3 +896,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Dentro de los 120 días siguientes a la entrada en vigor del Presente Decreto, el Titular del Poder Ejecutivo del Estado deberá realizar las adecuaciones respectivas al Reglamento de la Ley de Ciencia, Tecnología e Innovación para el Estado de Oaxaca.
 
 TERCERO.- Se instruye a la Secretaría de Administración realizar los trámites administrativos necesarios para el cambio gradual de nombre en la papelería oficial del Consejo Oaxaqueño de Ciencia, Tecnología e Innovación.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1553.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
