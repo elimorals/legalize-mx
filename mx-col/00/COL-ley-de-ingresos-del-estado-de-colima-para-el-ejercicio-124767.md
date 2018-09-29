@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-de-colima-para-el-ejercicio-124767"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2017-12-02"
-last_updated: "2017-12-02"
+last_updated: "2018-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO DE COLIMA, PARA EL EJERCICIO FISCAL 2018
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Suplemento 2 al Número 76 del Periódico Oficial del Estado de Colima, el sábado 2 de diciembre de 2017.
 
@@ -167,7 +167,9 @@ b) Durante el ejercicio fiscal 2018, las personas físicas y morales, tenedoras 
 
 2. Que adquieran vehículos nuevos o importados durante el ejercicio fiscal 2018;
 
-3. Que la inscripción en el Registro Público Vehicular del Estado, de los vehículos señalados en los numerales anteriores de esta fracción, se realice dentro de los 30 días hábiles siguientes a la fecha de su adquisición; y
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+3. Que la inscripción en el Registro Público Vehicular del Estado, de los vehículos señalados en los numerales anteriores de esta fracción, se realice dentro de los 60 días hábiles siguientes a la fecha de su adquisición; y
 
 4. Que no tengan adeudos del ejercicio 2017 y anteriores, ni vencidos en 2018, por cualquiera de los conceptos siguientes:
 
@@ -179,7 +181,9 @@ b) Durante el ejercicio fiscal 2018, las personas físicas y morales, tenedoras 
 
 Para los efectos de la aplicación del subsidio a que se refiere la presente fracción, se considerará que el arrendatario es el tenedor o usuario del vehículo, cuando la posesión del mismo se le hubiera otorgado mediante arrendamiento puro o financiero.
 
-Se entenderá que los 30 días hábiles a que se refiere el numeral 3, del inciso b), de esta fracción, contarán a partir de la fecha en que se realice la entrega material de la unidad vehicular al adquirente, lo cual podrá acreditarse con la presentación de una constancia expedida por el distribuidor que realizó la venta, en la que se señale la fecha en que se efectuó la entrega material del vehículo al adquirente.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Se entenderá que los 60 días hábiles a que se refiere el numeral 3, del inciso b), de esta fracción, contarán a partir de la fecha en que se realice la entrega material de la unidad vehicular al adquirente, lo cual podrá acreditarse con la presentación de una constancia expedida por el distribuidor que realizó la venta, en la que se señale la fecha en que se efectuó la entrega material del vehículo al adquirente.
 
 Tendrán derecho al subsidio previsto en el inciso b) de la presente fracción, los vehículos de demostración facturados por el distribuidor al cliente final como vehículo seminuevo, siempre que con anterioridad no se hubieran inscrito en el Registro Público Vehicular del Estado y cumplan con los demás requisitos establecidos en los numerales 3 y 4 del mismo inciso.
 
@@ -222,3 +226,11 @@ A t e n t a m e n t e
 JOSÉ IGNACIO PERALTA SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA. Rúbrica.
 
 ARNOLDO OCHOA GONZÁLEZ, SECRETARIO GENERAL DE GOBIERNO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 532 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 41 Z BIS 12 DE LA LEY DE HACIENDA PARA EL ESTADO DE COLIMA, Y EL NÚMERO 3 DEL PRIMER PÁRRAFO DEL INCISIO (SIC) B) Y EL PÁRRAFO TERCERO DEL INCISO B), AMBOS DE LA FRACCIÓN II, DEL ARTÍCULO 11 DE LA LEY DE INGRESOS DEL ESTADO DE COLIMA, PARA EL EJERCICIO FISCAL 2018”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
