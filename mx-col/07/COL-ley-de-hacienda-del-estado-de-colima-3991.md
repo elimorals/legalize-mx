@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2018-07-28"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -83,13 +83,9 @@ LEY DE HACIENDA DEL ESTADO DE COLIMA
 
 (DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 8.
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 9.
 
@@ -121,21 +117,15 @@ Tratándose de los sujetos del impuesto a que se refiere el segundo párrafo del
 
 Son deducciones autorizadas las siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 I.- Sueldos, gratificaciones anuales y aportaciones de seguridad social por concepto de remuneraciones al trabajo personal subordinado a cargo del contribuyente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 II.- Las inversiones en adquisición de inmuebles, incluyendo las ampliaciones y mejoras destinadas exclusivamente al desarrollo de la actividad generadora de los ingresos gravados, hasta por un monto anual equivalente al 10% del importe de la inversión.
 
 III.- Los gastos de mantenimiento, ampliaciones y mejoras del inmueble donde se realicen las actividades a que se refiere este capítulo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -155,8 +145,6 @@ IX.- Los gastos de viaje del contribuyente con motivo justificado de su asistenc
 
 X.- Los pagos por concepto de servicio telefónico y energía eléctrica del local que se utilice para el desempeño de la actividad gravada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XI.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 14.
@@ -174,8 +162,6 @@ IV.- Que su importe en conjunto no exceda del monto de los ingresos obtenidos po
 V.- Que el costo de adquisición declarado por el contribuyente corresponda al de mercado.
 
 VI.- Que en el caso de compras de importación se compruebe que se cumplieron los requisitos legales para su importación. Como importe de dichas compras sólo se aceptará el que haya sido declarado con motivo de la importación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VII.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2013)
 
@@ -235,19 +221,13 @@ II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepci
 
 Para practicar las estimaciones a que se refiere este Artículo se tendrán en cuenta las actividades realizadas por el contribuyente, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 20.
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 21.
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 22.
 
@@ -298,8 +278,6 @@ Los vehículos objeto de la transmisión, garantizaran preferentemente el pago d
 ###### Artículo 30.
 
 Para la recaudación de este impuesto, se observaran las siguientes reglas:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -483,13 +461,9 @@ III.- Cuando se imposibilite por cualquier medio el conocimiento de las operacio
 
 Artículo 41 G BIS.- El 98% de ingresos que perciba el Estado proveniente del impuesto a que se refiere este capítulo y de sus correspondientes recargos, se destinará al fomento, promoción y difusión de las actividades turísticas del Estado, para lo cual el gobierno estatal constituirá con dichos recursos los fideicomisos que estime necesarios, los cuales se encargarán de administrarlos e invertirlos exclusivamente en las actividades tendientes a la consecución de dicho objetivo, por conducto de los comités que al efecto se constituyan, en los que participarán representantes del Gobierno del Estado y del sector hotelero de la entidad, el 2% restante, se destinará para sufragar los gastos de administración del tributo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos, Concursos y Juegos Permitidos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -500,8 +474,6 @@ I.- La obtención de premios por la participación en loterías, rifas, sorteos,
 II.- Los ingresos que se perciban por la celebración de loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos.
 
 El pago de este impuesto no libera de la obligación de obtener previamente los permisos o autorizaciones correspondientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -515,8 +487,6 @@ III.- Juegos con cruce de apuestas legalmente permitidas, todos los permitidos y
 
 No se considerará como premio el reintegro correspondiente al billete que permitió participar en loterías.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 41 H BIS 1.- Este impuesto se causará:
@@ -524,8 +494,6 @@ Artículo 41 H BIS 1.- Este impuesto se causará:
 I.- Para el caso de lo previsto en la fracción I del Artículo 41 H, en el momento en que se efectúe el pago o entrega del premio por parte de quien celebre el evento de que se trate; y
 
 II.- Para el caso de lo previsto en la fracción II del Artículo 41 H, en el momento en que se celebre el evento de lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -539,19 +507,13 @@ III.- Reciban premios derivados de su participación en juegos con apuesta legal
 
 IV.- Reciban premios derivados de su participación en loterías, rifas, sorteos y concursos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 41 I BIS.- Se exceptúan de lo señalado en las fracciones I y II del Artículo 41 I de esta Ley, en relación a lo dispuesto en el Artículo 41 H, fracción II, de este ordenamiento, los organismos descentralizados de la Administración Pública Federal, Estatal y Municipal, cuya finalidad sea la obtención de recursos para destinarlos a la asistencia pública, así como las instituciones de beneficencia pública y de asistencia privada, legalmente reconocidas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 41 I BIS 1.- En el caso de loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, cuyos premios sean entregados en efectivo, las personas físicas, las personas morales o las unidades económicas sin personalidad jurídica señaladas en las fracciones I y II del Artículo 41 I de esta Ley, están obligados a retener el impuesto que causen los sujetos mencionados en las fracciones III y IV de ese mismo artículo, al momento de la entrega del premio en efectivo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -559,13 +521,9 @@ Artículo 41 J.- La base de este impuesto será:
 
 I.- Para lo señalado en la fracción I del artículo 41 H de esta Ley, el valor del premio o premios obtenidos; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 II.- En el caso de la fracción II del artículo 41 H de esta Ley, el valor total de los boletos, billetes, contraseñas o de cualesquiera otros instrumentos que permitan la participación en loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, que hayan sido distribuidos o enajenados para el evento, disminuyendo las cantidades efectivamente devueltas a los clientes, así como los premios efectivamente pagados o entregados a los ganadores de los mismos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -574,8 +532,6 @@ Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el A
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 Artículo 41 L.- El impuesto causado y/o retenido conforme a lo dispuesto por los Artículos 41 H BIS 1 y 41 I BIS I, deberá ser pagado por las personas físicas, las personas morales y las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 I, fracciones I y II, mediante declaración definitiva que presentarán en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquel en que se causó y/o retuvo el impuesto, en los formatos aprobados para el efecto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -637,11 +593,7 @@ Artículo 41 R.- El impuesto se causará en el momento en que se realicen las er
 
 Los contribuyentes deberán presentar declaraciones aun cuando no exista impuesto a pagar, mientras no se presente el aviso de suspensión, disminución o cancelación en el Registro Estatal de Contribuyentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 Artículo 41 R BIS.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -827,19 +779,13 @@ XI.- Herramientas y uniformes para el trabajo y deportivos; y
 
 XII.- Becas para los trabajadores y sus familias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO VIII. Del Impuesto sobre Tenencia o Uso de Vehículos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION PRIMERA. Del objeto
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -873,13 +819,9 @@ VI.- Se realice la inspección de seguridad marítima por las autoridades federa
 
 VII.- Las personas físicas o las morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, los asignen a su propio servicio o al de sus funcionarios o empleados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION SEGUNDA. De los sujetos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -923,8 +865,6 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 X.- Son solidariamente responsables del pago del impuesto establecido en este capítulo:
@@ -936,8 +876,6 @@ II.- Quienes reciban en consignación o comisión para su enajenación vehículo
 III.- Las autoridades competentes, que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
 IV.- Las autoridades competentes que expidan los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, cuando al expedirlos el tenedor o usuario del vehículo no compruebe el pago del impuesto establecido en este capítulo, a excepción de los casos en que se encuentre liberado de ese pago.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1007,25 +945,17 @@ u).- Esquís acuáticos motorizados.
 
 VIII.- Comerciantes en el ramo de vehículos, a las personas físicas y las morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION TERCERA. De la base
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z.- Será base de este impuesto el valor total del vehículo consignado en la primera facturación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION CUARTA. De las Cuotas, Tasas y Tarifas
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1033,13 +963,9 @@ APARTADO 1
 
 Automóviles
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS.- Tratándose de automóviles el impuesto se calculará como a continuación se indica:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
@@ -1071,7 +997,7 @@ Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refi
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-II.- Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea mayor de 5 toneladas y menor de 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados “taxis”, el impuesto será la cantidad que resulte de aplicar el 0.245 % al valor total del automóvil. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+II.- Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea mayor de 5 toneladas y menor de 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245 % al valor total del automóvil. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
 
 Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
 
@@ -1081,33 +1007,23 @@ Para los efectos de esta fracción, se entiende por vehículos destinados al tra
 
 III.- Tratándose de automóviles de más de diez años modelo (sic) anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 APARTADO 2
 
 Otros Vehículos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS 1.- En este apartado se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, automóviles eléctricos y motocicletas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS 2.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00, para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00, para aeronaves de reacción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS 3.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1131,8 +1047,6 @@ del límite inferior
 
 369,693.58 En adelante 25,117.08 16.8
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS 5.- Tratándose de vehículos de más de diez años de fabricación anteriores al de aplicación de este capítulo, el impuesto se pagará conforme a la siguiente:
@@ -1155,8 +1069,6 @@ El monto de las cuotas establecidas en este artículo se actualizarán con el fa
 
 Tratándose de motocicletas de más de diez años modelo (sic) anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS 6.- Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
@@ -1164,8 +1076,6 @@ Artículo 41 Z BIS 6.- Tratándose de automóviles eléctricos nuevos, así como
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 Artículo 41 Z BIS 7.- Para los efectos de lo dispuesto en los artículos 41 Z BIS, 41 Z BIS 2, 41 Z BIS 4 y 41 Z BIS 5, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior a aquel para el cual se realizará la actualización entre el citado Índice correspondiente al mes de noviembre del año en que se realizó la última actualización. La Secretaría de Planeación y Finanzas publicará el factor de actualización en el Periódico Oficial "El Estado de Colima".
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1215,8 +1125,6 @@ Para los efectos de este artículo, los años de antigüedad se calcularán con 
 
 Artículo 41 Z BIS 9.- Tratándose de automóviles destinados al transporte de hasta quince pasajeros y de camiones con peso bruto vehicular hasta de 5 toneladas, nacionales o importados, de hasta nueve años modelo anteriores al de aplicación de este capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 a) El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
@@ -1252,8 +1160,6 @@ b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformi
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1307,8 +1213,6 @@ b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformi
 
 Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS 11.- Tratándose de motocicletas de fabricación nacional o importadas, de hasta nueve años modelo (sic) anteriores al de aplicación de este capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
@@ -1341,23 +1245,17 @@ b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformi
 
 Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION QUINTA. Del pago
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-Artículo 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 30 días siguientes a aquél en que se adquirió o importó el vehículo. Se considera que la adquisición se realiza en el momento en que se entregue el bien al adquiriente o se expida la factura correspondiente, lo que suceda primero. El pago se realizará en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTICULO 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 60 días siguientes a aquél en que se adquirió o importó el vehículo. Se considera que la adquisición se realiza en el momento en que se entregue el bien al adquiriente o se expida la factura correspondiente, lo que suceda primero. El pago se realizará en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION SEXTA. De las exenciones
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1384,8 +1282,6 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 Artículo 41 Z BIS 14.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Planeación y Finanzas que se encuentran comprendidos en dichos supuestos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1415,15 +1311,11 @@ El importe de las tasas o tarifas que para cada derecho señalan los siguientes 
 
 El importe de las tasas o tarifas previstas en el CAPITULO VIII de este título, relativo a los "SERVICIOS PRESTADOS EN EL PODER JUDICIAL" deberá ser cubierto previamente a la prestación del servicio en las Oficinas de Depósitos y Consignaciones de conformidad con lo que establezca la Ley Orgánica del Poder Judicial del Estado de Colima y sus reglamentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 44.
 
 El ente público o servidor público que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentarle el interesado el comprobante que acredite su pago.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -1432,6 +1324,10 @@ El ente público o servidor público que preste el servicio por el cual se pague
 Cuando el derecho por la prestación de un servicio deba pagarse por anualidad, el entero deberá efectuarse en el mes de enero del año al que corresponda el pago y presentar el comprobante a más tardar el 15 de febrero siguiente ante el ente público que presta el servicio.
 
 Si el servicio, cuyas cuotas se paguen por anualidades se solicita después de transcurrido el mes de enero, el entero deberá efectuarse dentro de los diez días siguientes a la autorización por parte del estado. Las subsecuentes anualidades se pagaran conforme al párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Queda exceptuado del plazo anterior el revalidado de las concesiones, permisos y autorizaciones otorgadas por el Ejecutivo del Estado que serán por año fiscal, con vencimiento al 31 de diciembre del año que corresponda y su pago de derechos deberá realizarse en los primeros 90 días del año fiscal.
 
 ###### Artículo 46.
 
@@ -1627,8 +1523,6 @@ cautelar 2.000
 
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 8 DE ENERO DE 2000) Cuando los servicios en materia de Registro Civil sean prestados en atención a las campañas de regularización del estado civil de las personas, realizadas por los Sistemas para el Desarrollo Integral de la Familia (DIF) del Estado y de los Municipios, en beneficio de las clases más necesitadas, no se causarán los derechos previstos en las fracciones correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 49.
 
 (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
@@ -1639,19 +1533,13 @@ cautelar 2.000
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 51.
 
 (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 52.
 
 (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 Artículo 52 BIS.- (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
@@ -1706,8 +1594,6 @@ b) Por la modificación del permiso 15.000
 c) Por el refrendo del permiso 122.000
 
 d) Por la reposición del permiso 8.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 54.
 
@@ -2715,8 +2601,6 @@ más, por cada unidad que integre el condominio 23.000
 
 más, por cada unidad que integre el condominio 25.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ARTÍCULO 55 A.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2018)</small>
@@ -2827,17 +2711,11 @@ Numero de días de salario mínimo
 
 I.- Expedición de títulos 9.900
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 II.- (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2008)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 III.- Expedición de certificados, originales y duplicados así como constancias o diplomas originales y/o certificaciones de capacitación para y en el trabajo, educación media y superior, incorporados a la educación oficial del Estado 1.620
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 IV.- (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2008)
 
@@ -2853,17 +2731,11 @@ c).- Primaria 35.990
 
 d).- Secundaria 44.990
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 e).- Capacitación para y en el trabajo 43.486
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 f).- (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2008)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 g).- (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2008)
 
@@ -2905,13 +2777,9 @@ g).- Técnico superior 0.960
 
 h).- Postgrado 0.960
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 i).- Capacitación para y en el trabajo 0.800
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -2969,13 +2837,9 @@ c).- Licenciatura 123.000
 
 d).- Posgrado 200.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 e).- Capacitación para y en el trabajo 707.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3003,8 +2867,6 @@ a).- Registro de Consejo Directivo 11.616
 
 b).- Registro por cada socio 0.464
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 VI.- Expedición de constancia de trámite
@@ -3021,19 +2883,13 @@ Numero de días de salario mínimo
 
 I.- Por el derecho a examen de admisión:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 a).- Bachillerato 3.700
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 b).- Licenciatura 4.500
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3041,19 +2897,13 @@ c).- Posgrado 8.000
 
 II.- Por inscripción:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 a).- Bachillerato 12.200
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 b).- Licenciatura 18.500
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3063,19 +2913,13 @@ III.- Por exámenes de regularización:
 
 a).- Bachillerato:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 1.- Primera oportunidad 3.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 2.- Segunda oportunidad 3.500
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3083,37 +2927,25 @@ a).- Bachillerato:
 
 b).- Licenciatura:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 1.- Primera oportunidad 3.500
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 2.- Segunda oportunidad 4.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 3.- Tercera oportunidad 4.500
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 c).- Posgrado, única oportunidad 6.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADA EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
 
 IV.- Por expedición de duplicados de certificados de estudios 3.250
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3122,8 +2954,6 @@ V.- Por expedición de constancias de estudio 2.000
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 VI.- Por trámites de baja 1.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3139,13 +2969,9 @@ VIII.- Por la inscripción semestral o ciclo equivalente a estudios de postgrado
 
 a).- Especialidad 160.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
 
 b).- Maestría 189.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
 
@@ -3309,8 +3135,6 @@ h).- Por uso del inmueble en cualquier evento que no sea deportivo, por hora, re
 
 Los ingresos que se obtengan de los diversos conceptos establecidos en el presente artículo, serán destinados íntegramente a la conservación y mejoramiento físico de las instalaciones de las Unidades Deportivas Morelos y Rey Colimán, así como del Estadio Colima y el Auditorio Manuel Bonilla Valle.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 59 Bis.
@@ -3341,8 +3165,6 @@ IV.- Revalidación de Estudios de Educación Básica de nivel
 
 Primaria y Secundaria 0.330
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 V.- Expedición de dictamen de rectificación
@@ -3352,8 +3174,6 @@ de nombre en certificados de estudio del
 Sistema Educativo Nacional, por cambio
 
 de situación jurídica de la persona 1.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -3949,8 +3769,6 @@ en el inciso anterior 83.000
 
 c. Por Kilometro o fracción excedente de los 50 kilómetros señalados en el inciso anterior 1.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 61.
@@ -3964,8 +3782,6 @@ UNIDADES DE
 MEDIDA Y
 
 ACTUALIZACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -3993,19 +3809,13 @@ f).- En materia de salud ambiental. 8.000
 
 g).- En materia de publicidad. 5.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 II.- Capacitación de manejo y dispensación de medicamentos a propietarios y/o empleados de farmacias, droguerías y boticas con venta de medicamentos en general, por persona 16.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 III.- Expedición de constancia por persona del curso de manejo y dispensación de medicamentos a propietarios y/o empleados de farmacias, droguerías y boticas con venta de medicamentos en general, impartida por instructor autorizado que cuente con clave alfanumérica 8.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -4018,8 +3828,6 @@ interesado por persona 30.000
 VI.- Constancia de destrucción de productos
 
 que puedan ser nocivos para la salud pública 10.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -4037,8 +3845,6 @@ IX.- Por autorización de libros de bancos de
 
 sangre y transfusión sanguínea 10.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 X.- Por autorización de libros de control de estupefacientes y
@@ -4047,13 +3853,9 @@ Psicotrópicos, por cada libro 6.000
 
 XI.- Por reposición de licencia sanitaria 6.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 XII.- Por autorización de cremación de cadáveres, de seres humanos, sus partes y restos áridos 4.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -4065,8 +3867,6 @@ b).- A otra entidad federativa 4.000
 
 c).- A otro país 10.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 XIV.- Autorización para exhumación de cadáveres y restos áridos para ser reinhumados:
@@ -4074,8 +3874,6 @@ XIV.- Autorización para exhumación de cadáveres y restos áridos para ser rei
 a).- En el mismo panteón 4.000
 
 b).- En otros municipios del estado 7.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -4105,37 +3903,25 @@ Será el Municipio, durante el trámite de la licencia de construcción, la inst
 
 La dependencia señalada en el párrafo anterior realizará, cuando lo estime conveniente, la visita para verificar que se cumpla con lo señalado en el segundo párrafo de esta fracción. De encontrar irregularidades o determinar que hubo engaño por parte de la persona moral con el propósito de evadir el pago del derecho, se notificará a la Secretaría de Finanzas y Administración para que se proceda de conformidad con lo dispuesto en las Leyes Fiscales del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 XVI.- Asesoría para la elaboración de la etiqueta de productos de uso y consumo humano 4.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 XVII.- Autorización de clave para la impartición del curso de manejo y dispensación de medicamentos por instructor autorizado 25.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 XVIII.- Solicitud para emisión de código de barras para prescribir estupefacientes 15.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 XIX.- Consulta en materia de sanidad internacional 4.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 XX.- Constancia de no inconveniente de aviso sanitario de importación 4.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -4147,8 +3933,6 @@ y operativa, de establecimientos de servicios de salud. 45.000
 
 (DEROGADO, P.O. 27 DE JULIO DE 1996)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPÍTULO VII TER
@@ -4158,8 +3942,6 @@ Servicios prestados por el Instituto para el Registro del Territorio del Estado 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO VII QUATER. SERVICIOS PRESTADOS POR El INSTITUTO PARA EL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -4175,8 +3957,6 @@ MEDIDA Y
 
 ACTUALIZACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADA EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
 
 I.- Recepción, evaluación y otorgamiento del resolutivo del informe de factibilidad ambiental en materia de impacto ambiental 35.000
@@ -4187,13 +3967,9 @@ Estarán exentos de pago de este derecho las personas físicas y morales cuyo ca
 
 II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación de impacto ambiental:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
 
 1.- En su modalidad MIA-1 75.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
 
@@ -4211,8 +3987,6 @@ III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo del 
 
 5.- En su modalidad de riesgo ambiental 20.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADA EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
 
 IV.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de riesgo ambiental 75.000
@@ -4224,8 +3998,6 @@ V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Serv
 2.- Por el refrendo 160.000
 
 VI.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de los laboratorios ambientales que realicen análisis de contaminantes, anualmente 300.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ACTUALIZADA EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
 
@@ -4267,19 +4039,13 @@ No se pagará el derecho a que se refiere esta fracción, cuando el Instituto di
 
 IX.- Por la recepción, evaluación y otorgamiento de la licencia ambiental única a las fuentes fijas de jurisdicción estatal:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
 
 1.- Por la recepción y evaluación 30.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
 
 2.- Por el otorgamiento de la licencia 15.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4288,8 +4054,6 @@ X.- Por la recepción, evaluación y otorgamiento de la resoluciónde (sic) la l
 1.- Por la recepción y evaluación 10.000
 
 2.- Por el otorgamiento de la licencia 5.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4350,8 +4114,6 @@ residuos especiales 15.000
 XVIII.- Por la revalidación de la resolución del plan de
 
 manejo de residuos especiales 5.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4983,8 +4745,6 @@ b).- Modificaciones a los datos del usuario
 
 del servicio 1.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 62 Bis 2.
@@ -5059,7 +4819,7 @@ del interesado:
 
 1.- Hasta un valor catastral equivalente a 3,814 unidades
 
-de medida y actualización………………………………………2.000
+de medida y actualización...............2.000
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -5089,19 +4849,19 @@ incluyendo clasificación de suelo; a solicitud del interesado:
 
 1.- Hasta un valor catastral equivalente a 3,814
 
-unidades de medida y actualización……………………………2.000
+unidades de medida y actualización...........2.000
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 2.- Cuando el valor catastral esté entre 3,815 y
 
-4,964 unidades de medida y actualización ……………………..2.500
+4,964 unidades de medida y actualización ..........2.500
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 3.- Cuando el valor catastral esté entre las
 
-4,965 y 6, 116 unidades de medida y actualización…………….3.500
+4,965 y 6, 116 unidades de medida y actualización......3.500
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -5123,8 +4883,6 @@ el siguiente derecho:
 
 2.- Más, por cada kilómetro recorrido 0.100
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 IV.- Informes catastrales relacionados con los predios registrados, a solicitud de los interesados:
@@ -5132,8 +4890,6 @@ IV.- Informes catastrales relacionados con los predios registrados, a solicitud 
 1.- Certificado 1.800
 
 2.- Sin certificar 1.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -5185,8 +4941,6 @@ hidrografía 5.000
 
 o propietario 1.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 VI.- Por cartografía a escala 1:1,000 en forma digital de las distintas manchas urbanas:
@@ -5196,8 +4950,6 @@ VI.- Por cartografía a escala 1:1,000 en forma digital de las distintas manchas
 nomenclaturas de calles) 75.000
 
 2.- Por cada capa adicional 20.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -5221,8 +4973,6 @@ c).- Por cada impresión simple de planos en tamaño carta u oficio que incluya:
 
 3.- Por cada nombre de colindante o propietario. 3.480
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 VIII.- Por cartografía a escala 1:1,000 en formato digital de los distintos polígonos ejidales parcelarios, solares o predios de la pequeña propiedad por municipio:
@@ -5231,8 +4981,6 @@ VIII.- Por cartografía a escala 1:1,000 en formato digital de los distintos pol
 
 2.- Por cada capa adicional. 20.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 IX.- Por cartografía en formato digital por cada polígono ejidal parcelario, solar o predios de la pequeña propiedad por municipio:
@@ -5240,8 +4988,6 @@ IX.- Por cartografía en formato digital por cada polígono ejidal parcelario, s
 1.- Archivos en formato "Shape" (predios). 100.000
 
 2.- Por cada capa adicional. 50.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -5269,8 +5015,6 @@ XI.- Por búsqueda en los archivos
 
 históricos catastrales. 0.500
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 XII.- Registro de peritos valuadores:
@@ -5280,8 +5024,6 @@ XII.- Registro de peritos valuadores:
 de credencial de perito Valuador. 30.000
 
 2.- Refrendo. 20.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -5591,8 +5333,6 @@ a).- Como mínimo desde una hectárea 13.000
 
 b).- Como máximo desde una hectárea 1300.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO VIII. Servicios Prestados en el Poder Judicial
@@ -5608,8 +5348,6 @@ Por los servicios prestados en el Poder Judicial se pagarán los derechos siguie
 número de días
 
 de salario Mínimo
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -5673,19 +5411,13 @@ Artículo 64 B.- Es base de este derecho el volumen en metros cúbicos de minera
 
 Artículo 64 C.- El derecho establecido en este capítulo se causará y pagará de conformidad con la siguiente tarifa, misma que se encuentra expresada en unidades de medida y actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 1.- Arena y grava, por cada cien metros cúbicos que se extraigan 3.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 2.- Arcillas y balastres, por cada cien metros cúbicos que se extraigan 5.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -5765,8 +5497,6 @@ II.- Servicios de vigilancia e inspección de Obra Pública:
 
 a) Los contratistas que celebren contratos de obra pública o de servicios relacionados con la misma con cualquier dependencia u organismo público del Gobierno del Estado, pagarán un derecho equivalente al 1.5 por ciento sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias u organismos públicos que efectúen los pagos a los contratistas, los cuales deberán enterar los importes retenidos a la Secretaría de Planeación y Finanzas, a través de las oficinas o instituciones autorizadas para recibir el pago de contribuciones, dentro de los primeros cinco días hábiles del mes siguiente a aquel en que se efectúe la retención.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 Los recursos que se recauden por la celebración de contratos de obra pública o de servicios relacionados con la misma, con organismos públicos descentralizados, serán destinados a los propios organismos para la operación, conservación, mantenimiento e inversión necesarios para la prestación de los servicios a que se refiere esta fracción.
@@ -5775,13 +5505,9 @@ Los recursos que se recauden por la celebración de contratos de obra pública o
 
 III.- Información diversa no certificada expedida en los Kioscos de servicios e información de gobierno, por cada hoja.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 IV.- Certificados digitales 25.450
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 V.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2012)
 
@@ -6710,3 +6436,15 @@ P.O. 28 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 519 POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN V DEL ARTÍCULO 53 Y SE ADICIONA EL ARTÍCULO 55 A BIS DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA".]
 
 ÚNICO. - El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 521 POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 45 DE LA LEY DE HACIENDA PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 532 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 41 Z BIS 12 DE LA LEY DE HACIENDA PARA EL ESTADO DE COLIMA, Y EL NÚMERO 3 DEL PRIMER PÁRRAFO DEL INCISIO B) Y EL PÁRRAFO TERCERO DEL INCISO B), AMBOS DE LA FRACCIÓN II, DEL ARTÍCULO 11 DE LA LEY DE INGRESOS DEL ESTADO DE COLIMA, PARA EL EJERCICIO FISCAL 2018”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
