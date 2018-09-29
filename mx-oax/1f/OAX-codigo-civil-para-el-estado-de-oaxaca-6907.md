@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2018-09-15"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1991,9 +1991,11 @@ Los que infrinjan el artículo anterior así como los que siendo mayores de edad
 
 El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El divorcio se clasifica en incausado, mutuo consentimiento y administrativo.
 
-El divorcio incausado, podrá solicitarse por cualquiera de los cónyuges ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita, siempre que haya transcurrido cuando menos un año desde la celebración del mismo.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-No es necesario el transcurso del plazo a que se refiere el párrafo anterior, siempre que se acredite la existencia de un riesgo para la vida, la integridad física o moral, la dignidad, la libertad o el libre desarrollo de la sexualidad de los cónyuges o de los hijos.
+El divorcio incausado, podrá solicitarse por cualquiera de los cónyuges ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita, y sin importar el tiempo que haya transcurrido desde su celebración.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -2161,9 +2163,11 @@ De igual manera el juzgador fijará las medidas de seguridad, seguimiento y las 
 
 En los casos en que cualquiera de los progenitores pierda la patria potestad queda sujetos (sic) a todas las obligaciones que tiene para con sus hijos.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
 ###### Artículo 288.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decreto. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año después de su reconciliación.
+El divorcio por mutuo consentimiento puede solicitarse en cualquier momento, posterior a la celebración del matrimonio.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -2451,6 +2455,14 @@ También comprenden las atenciones a las necesidades psíquicas, afectiva y de s
 
 Por lo que hace a las personas adultas mayores que carezcan de capacidad económica, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+En relación a las personas con algún tipo de discapacidad o aquellas declaradas en estado de interdicción lo necesario para lograr, en lo posible su habilitación o rehabilitación y su desarrollo.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Los descendientes que al adquirir la mayoría de edad estén estudiando una carrera tienen derecho a recibir alimentos hasta concluida la misma, siempre y cuando realicen sus estudios de manera ininterrumpida y estos sean acordes con su edad.
+
 ###### Artículo 321.
 
 El obligado a dar alimentos cumple la obligación, asignando una pensión competente al acreedor alimentario, o incorporándolo a su familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
@@ -2464,6 +2476,10 @@ El deudor alimentista no podrá pedir que se incorpore a su familia al que deba 
 ###### Artículo 323.
 
 Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a las necesidades del que deba recibirlos.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+Cuando las actividades económicas de quien debe dar alimentos no permitan saber con exactitud su capacidad económica y quien deba recibirlos sea menor de edad, éstos se darán atendiendo a la calidad de vida que haya tenido el menor en los últimos años.
 
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -2480,6 +2496,12 @@ II. La buena o mala fe del deudor alimentario durante la tramitación del proces
 III. La posibilidad económica actual del deudor alimenticio; y
 
 IV. Las obligaciones alimenticias presentes, derivadas de su situación personal actual.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 323 Bis.
+
+Las personas menores de edad, con discapacidad, sujetos a estado de interdicción, personas adultas mayores y el cónyuge que de (sic) dedique al hogar gozan de la presunción de necesitar alimentos.
 
 ###### Artículo 324.
 
@@ -2503,9 +2525,13 @@ II. El ascendiente que lo tenga bajo su patria potestad;
 
 III. El tutor;
 
-IV. Los hermanos;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-V. El Ministerio Público.
+IV. Los hermanos y demás parientes colaterales dentro del cuarto grado;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+V. El Ministerio Público o la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca a falta o por imposibilidad de las personas enunciadas en las tres fracciones que anteceden.
 
 ###### Artículo 328.
 
@@ -2555,11 +2581,11 @@ VII. Cuando el cónyuge o concubino que los recibe, realice un trabajo o activid
 
 El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 334.
 
-Cuando un cónyuge no estuviera presente o estándolo rehusare entregar al otro lo necesario para los alimentos y el sostenimiento de los hijos, será responsable de las deudas que se contraigan para cubrir esa exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto; al efecto, deberá tomarse en consideración las circunstancias particulares sociales del acreedor alimentario.
+Cuando el deudor alimentario no estuviera presente o estándolo rehusare entregar lo necesario para los alimentos y el sostenimiento de los miembros de su familia con derecho a recibirlos, será responsable de las deudas que se contraigan para cubrir esa exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto; al efecto, deberá tomarse en consideración las circunstancias particulares sociales del acreedor alimentario.
 
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -16500,5 +16526,19 @@ QUINTO.- En un plazo de seis meses contados a partir de la entrada en vigor del 
 P.O. 15 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1545.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1551.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1552.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
