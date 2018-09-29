@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transporte-del-estado-de-oaxaca-97666"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2018-05-11"
+last_updated: "2018-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPORTE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -395,9 +395,29 @@ El servicio de carga, se clasifica en:
 
 a) General.- El que se presta para el traslado de mercancías y muebles;
 
-b) Materiales.- El que se presta para el traslado de materiales de construcción a granel, y acarreo de agua para uso y consumo humano y
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-c) Especializada.- El que se presta para el traslado de mercancías que requieren de vehículos con especificaciones y aditamentos especiales para su protección, aislamiento y conservación. También se consideran de esta naturaleza los vehículos destinados al servicio de arrastre y salvamento, como grúas.
+b) Carga ligera.- Se presta para repartir mercancías u objetos de poco volumen y peso por las vías públicas estatales, que no excedan de 3500 kilos de carga.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+c) Carga Pesada.- Las que excedan del peso y volumen especificado en el inciso anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+d) Acarreo de Materiales.- El que se presta para el traslado de materiales de construcción.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+e) Acarreo de agua.- El que se presta para el traslado y acarreo de agua para uso y consumo humano.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+f) Especializada.- El que se presta para el traslado de mercancías que requieren de vehículos con especificaciones y aditamentos especiales para su protección, aislamiento y conservación. También se consideran de esta naturaleza los vehículos destinados al servicio de arrastre y salvamento, como grúas.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+g) Servicio turístico.- el que se presta dentro de las vías públicas estatales, para satisfacer una necesidad de una o más personas relacionadas con el turismo.
 
 ###### ARTÍCULO 24.
 
@@ -901,7 +921,9 @@ II. No se encuentren vigentes;
 
 III. Aun estando vigentes, no estén en operación;
 
-IV. No haya transcurrido un periodo de diez años a partir de su otorgamiento;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+IV.- No haya transcurrido un periodo de diez años a partir de su otorgamiento; a excepción de que fallezca el titular o por que se acredite su incapacidad física y/o mental, a través de un dictamen médico expedido por una Institución de Salud Pública o Autoridad Competente; siempre y cuando esté vigente su concesión.
 
 V. Cuando quien pretende ser el nuevo titular, ya sea concesionario por otorgamiento de título o por transferencia;
 
@@ -1101,7 +1123,9 @@ I. Prestar el servicio de transporte bajo el amparo de una concesión;
 
 II. Cobrar la tarifa establecida para la modalidad de servicio de que se trate;
 
-III. Solicitar la prórroga o renovación de la concesión;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+
+III. Solicitar la prórroga o renovación de la concesión dentro de los 60 días naturales improrrogables, posteriores a su vencimiento.
 
 IV. Proponer a la Secretaría la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio, y
 
@@ -1624,3 +1648,13 @@ P.O. 11 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1444.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1573.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se establece un plazo de sesenta días hábiles posteriores a la publicación del presente Decreto, para que se realicen las adecuaciones necesarias al Reglamento de la presente Ley.
+
+TERCERO.- Se establece un plazo de ciento ochenta días hábiles posteriores a la publicación del presente Decreto, para que la Secretaría implemente un programa de regularización de renovación de las concesiones vencidas.
