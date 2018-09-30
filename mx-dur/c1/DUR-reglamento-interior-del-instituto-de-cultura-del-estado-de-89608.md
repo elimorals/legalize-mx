@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-del-instituto-de-cultura-del-estado-de-8960
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-06"
-last_updated: "2012-09-06"
+last_updated: "2018-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CULTURA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL ACUERDO PUBLICADO EN EL P.O. 30 DE SEPTIEMBRE DE 2018, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE CULTURA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 6 de septiembre de 2012.
 
@@ -75,17 +77,21 @@ b. Dirección de Vinculación.
 
 c. Dirección de Educación Artística.
 
-d. Dirección de Planeación y Evaluación.
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
-e. Dirección de Finanzas y Administración.
+d. Dirección del Centro Estatal del Conocimiento y las Artes (CECOART)
 
-f. Coordinación de Culturas Populares.
+e. Dirección de Planeación y Evaluación.
 
-g. Coordinación de Bibliotecas Públicas.
+f. Dirección de Finanzas y Administración.
 
-h. Coordinación de Patrimonio Cultural.
+g. Coordinación de Culturas Populares.
 
-i. Coordinación de la Región Laguna.
+h. Coordinación de Bibliotecas Públicas.
+
+i. Coordinación de Patrimonio Cultural.
+
+j. Coordinación de la Región Laguna.
 
 Asimismo se auxiliará de unidades subalternas, jefaturas de departamento, y demás personal que determine el Director General, conforme al presupuesto autorizado.
 
@@ -103,9 +109,21 @@ IV. Otorgar reconocimientos, estímulos y becas que impulsen el desarrollo cultu
 
 V. Promover la difusión de tradiciones, usos, costumbres, sistemas de significados, formas de expresión simbólica, lenguas y valores estatales, regionales y nacionales que fortalezcan la identidad como duranguenses y como mexicanos;
 
-VI. Establecer relaciones con otros organismos e instancias de carácter cultural de los tres ámbitos de gobierno, además de los sectores educativo y científico, público y privado, que desarrollen programas culturales, sin menoscabo de la autoridad de éstos en el ámbito de su propia competencia, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Diseñar la normativa técnica en materia de educación cultural y artística en la entidad, en estrecha coordinación y vinculación con las autoridades federales y estatales correspondientes, con las instituciones de educación superior del Estado y del país y con todas las instancias nacionales e internacionales cuyos objetivos sean afines.
+VI. Establecer relaciones con otros organismos e instancias de carácter cultural de los tres ámbitos de gobierno, además de los sectores educativo y científico, público y privado, que desarrollen programas culturales, sin menoscabo de la autoridad de éstos en el ámbito de su propia competencia;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+VII. Diseñar la normativa técnica en materia de educación cultural y artística en la entidad, en estrecha coordinación y vinculación con las autoridades federales y estatales correspondientes, con las instituciones de educación superior del Estado y del país y con todas las instancias nacionales e internacionales cuyos objetivos sean afines;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Desarrollar y promover programas académicos destinados a la formación, experimentación, profesionalización y actualización de creadores y artistas en el Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Vincular el proceso de profesionalización con la creación y producción artística estatal, regional, nacional e internacional;
 
 ###### ARTÍCULO 6°.
 
@@ -189,29 +207,41 @@ XXXVIII. Aquellas otras acciones que deriven de su objeto y demás normatividad 
 
 ### CAPÍTULO II. DEL ÓRGANO DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 7º.
 
-El máximo órgano de Gobierno del Instituto de Cultura es su Junta Directiva.
+El máximo órgano de Gobierno del Instituto de Cultura es su H. Junta Directiva.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 8°.
 
-La Junta Directiva, como autoridad superior del Instituto, estará integrada conforme al artículo 105 de la Ley de Cultura para el Estado de Durango.
+La H. Junta Directiva, como autoridad superior del Instituto, estará integrada conforme al artículo 105 de la Ley de Cultura para el Estado de Durango.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 9°.
 
-El Director General del Instituto, en apego al artículo 20 de la Ley de Entidades paraestatales del Estado de Durango, fungirá en las reuniones de la Junta Directiva como Secretario Técnico, participando con voz, pero sin voto. Así mismo, en observancia al artículo 22 de la Ley antes referida, quien sea integrante del personal del Instituto de ninguna manera podrá formar parte de la Junta Directiva.
+El Director General del Instituto, en apego al artículo 20 de la Ley de Entidades paraestatales del Estado de Durango, fungirá en las reuniones de la H. Junta Directiva como Secretario Técnico, participando con voz, pero sin voto. Así mismo, en observancia al artículo 22 de la Ley antes referida, quien sea integrante del personal del Instituto de ninguna manera podrá formar parte de la H. Junta Directiva.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 10°.
 
-La Junta Directiva se reunirá cada tres meses y, en forma extraordinaria, en cualquier fecha, según lo requiera la importancia de los asuntos a desahogarse. Las reuniones serán convocadas por el Presidente o, en todo caso, a solicitud de dos o más de sus integrantes siempre y cuando sea dirigida al primero.
+La H. Junta Directiva se reunirá cada tres meses y, en forma extraordinaria, en cualquier fecha, según lo requiera la importancia de los asuntos a desahogarse. Las reuniones serán convocadas por el Presidente o, en todo caso, a solicitud de dos o más de sus integrantes siempre y cuando sea dirigida al primero.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 11º.
 
-En observancia al artículo 24 de la Ley de Entidades Paraestatales del Estado de Durango, La Junta Directiva sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus miembros, siempre que entre ellos se encuentre el Presidente o quien lo represente. Sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+En observancia al artículo 24 de la Ley de Entidades Paraestatales del Estado de Durango, La H. Junta Directiva sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus miembros, siempre que entre ellos se encuentre el Presidente o quien lo represente. Sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 12º.
 
-La Junta Directiva tendrá las siguientes atribuciones:
+La H. Junta Directiva tendrá las siguientes atribuciones:
 
 I. Aprobar, en congruencia con el Plan Estatal de Desarrollo, las bases para elaborar el Programa Sectorial de Cultura;
 
@@ -239,13 +269,11 @@ XII. Vigilar la debida congruencia entre los recursos financieros asignados y lo
 
 XIII. Aprobar el Reglamento Interior del Instituto, así como las modificaciones que deban realizarse al mismo;
 
-XIV. Aprobar anualmente, previo informe emitido por el Contralor Interno y la validación del Comisario Público, los estados financieros del Instituto;
+XIV. Aprobar previo informe la designación de funcionarios que le proponga la Dirección General, fijar sus sueldos y prestaciones con apego a la normatividad establecida;
 
-XV. Aprobar la designación de funcionarios que le proponga la Dirección General, fijar sus sueldos y prestaciones con apego a la normatividad establecida;
+XV. Autorizar las licencias al Director General, a los Directores y Coordinadores de Área, cuando éstas no sean mayores de 30 días, nombrando a los funcionarios que habrán de suplirlos y,
 
-XVI. Autorizar las licencias al Director General, a los Directores y Coordinadores de Área, cuando éstas no sean mayores de 30 días, nombrando a los funcionarios que habrán de suplirlos y,
-
-XVII. Las demás que señale el presente Reglamento y aquellas otras Leyes y disposiciones aplicables.
+XVI. Las demás que señale el presente Reglamento y aquellas otras Leyes y disposiciones aplicables.
 
 ### CAPÍTULO III. DE LA DIRECCIÓN GENERAL Y SUS UNIDADES ADMINISTRATIVAS
 
@@ -279,21 +307,33 @@ III. Presentar ante la Junta de Directiva las tarifas, rentas, cuotas de recuper
 
 IV. Establecer las políticas y lineamientos generales para el desarrollo de los planes, programas y proyectos del Instituto;
 
-V. Presentar ante la Junta de Directiva los planes y programas de estudio para la formación, actualización y capacitación en los diferentes campos de la cultura y las artes, y en distintos tipos y modalidades, que ofrezca el Instituto a través de sus diferentes instancias y dependencias;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+V. Presentar ante la H. Junta de Directiva los planes y programas de estudio para la formación, actualización y capacitación en los diferentes campos de la cultura y las artes, y en distintos tipos y modalidades, que ofrezca el Instituto a través de sus diferentes instancias y dependencias;
 
 VI. Organizar, operar y dirigir la política cultural en el Estado;
 
 VII. Dirigir y coordinar las funciones sustantivas y técnicas del Instituto, así como representarlo legalmente en trámites y cobranzas, pudiendo delegar esta facultad al Jefe del Departamento Jurídico;
 
-VIII. Formular el Reglamento Interior, los manuales de organización, de procedimientos y de servicios al público y someterlos a la aprobación de la Junta Directiva;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Elaborar el Programa Estatal de Cultura y presentarlo a la Junta Directiva para su confirmación, modificación o revocación;
+VIII. Formular el Reglamento Interior, los manuales de organización, de procedimientos y de servicios al público y someterlos a la aprobación de la H. Junta Directiva;
 
-X. Cumplir con los acuerdos y resoluciones de la Junta Directiva e informarle a dicho órgano los resultados obtenidos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
-XI. Presentar ante la Junta Directiva, para su aprobación los planes y programas de estudio que, para la formación, actualización y capacitación desarrolle el Instituto;
+IX. Elaborar el Programa Estatal de Cultura y presentarlo a la H. Junta Directiva para su confirmación, modificación o revocación;
 
-XII. Elaborar y proponer a la Junta Directiva, para su consentimiento, el Plan de Desarrollo Institucional y los programas de actividades y, una vez aprobados, ejecutarlos y ejercer el presupuesto conforme a la normatividad correspondiente;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+X. Cumplir con los acuerdos y resoluciones de la H. Junta Directiva e informarle a dicho órgano los resultados obtenidos;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Presentar ante la H. Junta Directiva, para su aprobación los planes y programas de estudio que, para la formación, actualización y capacitación desarrolle el Instituto;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+XII. Elaborar y proponer a la H. Junta Directiva, para su consentimiento, el Plan de Desarrollo Institucional y los programas de actividades y, una vez aprobados, ejecutarlos y ejercer el presupuesto conforme a la normatividad correspondiente;
 
 XIII. Coordinar el desarrollo articulado e integral de los planes, programas y actividades culturales y artísticas a cargo del Instituto;
 
@@ -301,15 +341,25 @@ XIV. Formular los planes y programas de organización, reorganización y moderni
 
 XV. Acreditar y certificar los estudios realizados en la Institución, expidiendo la documentación correspondiente de conformidad con la normatividad aplicable;
 
-XVI. Actuar en representación de la Junta Directiva con facultades generales para actos de administración, pleitos y cobranzas y aquellos que requieran cláusula especial conforme a las leyes en los términos que establece el artículo 28, fracciones I y II de la Ley de Entidades Paraestatales;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
-XVII. Presentar trimestralmente un Informe de Actividades del Instituto a la Junta Directiva;
+XVI. Actuar en representación de la H. Junta Directiva con facultades generales para actos de administración, pleitos y cobranzas y aquellos que requieran cláusula especial conforme a las leyes en los términos que establece el artículo 28, fracciones I y II de la Ley de Entidades Paraestatales;
 
-XVIII. Presentar los Estados Financieros del Instituto, así mismo proporcionar la información que le soliciten la Secretaría de Finanzas y de Administración, la Secretaría de Contraloría y Modernización Administrativa, el Órgano de Control Interno, así como el Congreso del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
-XIX. Firmar convenios y contratos en materia de cultura con otros estados de la federación, con entidades y organismos públicos, sociales o privados locales, nacionales o internacionales en los términos que acuerde la Junta Directiva;
+XVII. Presentar trimestralmente un Informe de Actividades del Instituto a la H. Junta Directiva;
 
-XX. Celebrar convenios, acuerdos y contratos en materia de cultura con los municipios del Estado en los términos que acuerde la Junta Directiva;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+XVIII. Presentar los Estados Financieros del Instituto, así mismo proporcionar la información que le soliciten la Secretaría de Finanzas y de Administración, la Secretaría de Contraloría del Estado de Durango, el Órgano Interno de Control, así como el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+XIX. Firmar convenios y contratos en materia de cultura con otros estados de la federación, con entidades y organismos públicos, sociales o privados locales, nacionales o internacionales en los términos que acuerde la H. Junta Directiva;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Celebrar convenios, acuerdos y contratos en materia de cultura con los municipios del Estado en los términos que acuerde la H. Junta Directiva;
 
 XXI. Dirigir, coordinar la operación y supervisar los programas, proyectos y actividades culturales que el ICED desarrolle, a partir de convenios y acuerdos establecidos entre la Federación y el Estado de Durango;
 
@@ -321,7 +371,9 @@ XXIV. Vigilar y supervisar el cumplimiento de las disposiciones y reglamentos qu
 
 XXV. Resguardar y conservar los bienes muebles e inmuebles pertenecientes al Instituto o que estén bajo su control;
 
-XXVI. Proponer, en coordinación con la Secretaría de Educación y la Junta Directiva el fortalecimiento de los programas de educación artística de los niveles de educación básica;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+XXVI. Proponer, en coordinación con la Secretaría de Educación y la H. Junta Directiva el fortalecimiento de los programas de educación artística de los niveles de educación básica;
 
 XXVII. Promover la vinculación con las instituciones educativas de los niveles distintos a los de educación básica, para desarrollar programas tendientes a fortalecer la cultura y las artes en los estudiantes;
 
@@ -329,7 +381,9 @@ XXVIII. Recibir de los Directores de área, asistencia técnica para suscribir c
 
 XXIX. Definir los requerimientos de personal para el desempeño y desarrollo de las funciones del Instituto, con la asistencia de la Dirección de Planeación y Evaluación;
 
-XXX. Informar a la Junta de Directiva los resultados alcanzados por los órganos auxiliares que se creen y de la extinción de cada uno de ellos cuando así ocurriera, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+XXX. Informar a la H. Junta de Directiva los resultados alcanzados por los órganos auxiliares que se creen y de la extinción de cada uno de ellos cuando así ocurriera, y
 
 XXXI. Las demás que señale el presente Reglamento y aquellas otras Leyes y disposiciones aplicables al Instituto.
 
@@ -347,7 +401,9 @@ IV. Establecer acciones de vinculación con los organismos descentralizados y de
 
 V. Atender los asuntos que el Director General le delegue;
 
-VI. Las demás que le confiera la Junta Directiva y la legislación en materia cultural del Estado de Durango.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+VI. Las demás que le confiera la H. Junta Directiva y la legislación en materia cultural del Estado de Durango.
 
 ###### ARTÍCULO 17º.
 
@@ -371,17 +427,19 @@ VIII. Compilar, sistematizar y mantener actualizadas las normas jurídicas relac
 
 IX. Gestionar todos aquellos trámites de carácter laboral relacionados con el personal del Instituto y los asuntos jurídicos relacionados con el desempeño de la Institución;
 
-X. Auxiliar al Director General en lo correspondiente a las sesiones de la Junta Directiva, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+X. Auxiliar al Director General en lo correspondiente a las sesiones de la H. Junta Directiva, y
 
 XI. Las demás que le encomiende el Director General del Instituto.
 
 ###### ARTÍCULO 18°.
 
-La Unidad Enlace tiene como finalidad transparentar el ejercicio de la función pública que realice El ICED.
+La Unidad (sic) Enlace tiene como finalidad transparentar el ejercicio de la función pública que realice El ICED.
 
 ###### ARTÍCULO 19º.
 
-El titular de la Unidad Enlace será designado por el titular de la Dirección General y deberá:
+El titular de la Unidad (sic) Enlace será designado por el titular de la Dirección General y deberá:
 
 I. Atender los requerimientos y peticiones de información pública que reciba la Unidad de Enlace, en el marco de la legislación aplicable;
 
@@ -407,21 +465,27 @@ X. Las demás que señale el Director General, el artículo 60 de la Ley de Tran
 
 El ICED contará para efectos de control y vigilancia, con las figuras de Comisario Público y Contralor Interno.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 21º.
 
-El Comisario Público y su suplente, serán nombrados por el Titular de la Secretaría de Contraloría y Modernización Administrativa, en los términos de las disposiciones contenidas de la Ley Orgánica de la Administración Pública del Estado y La Ley de Entidades Paraestatales del Estado de Durango, participando en las reuniones ordinarias y extraordinarias de la Junta Directiva con voz, pero sin voto.
+El Comisario Público y su suplente, serán nombrados por el Titular de la Secretaría de Contraloría del Estado de Durango, en los términos de las disposiciones contenidas de la Ley Orgánica de la Administración Pública del Estado y La Ley de Entidades Paraestatales del Estado de Durango, participando en las reuniones ordinarias y extraordinarias de la H. Junta Directiva con voz, pero sin voto.
 
 ###### ARTÍCULO 22º.
 
 El Comisario Público tendrá como facultades y obligaciones las contenidas en la Ley Orgánica de la Administración Pública del Estado, Ley de Entidades Paraestatales del Estado de Durango, Ley de Cultura para el Estado de Durango y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 23º.
 
-El Órgano de Control Interno depende jerárquica y funcionalmente de la Secretaría de Contraloría y Modernización Administrativa, El ICED, le suministrará los recursos humanos y materiales así como la infraestructura necesaria para su correcto desempeño.
+El Órgano Interno de Control depende jerárquica y funcionalmente de la Secretaría de Contraloría del Estado de Durango, El ICED, le suministrará los recursos humanos y materiales, así como la infraestructura necesaria para su correcto desempeño.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 24º.
 
-Al Órgano de Control Interno le corresponderán las facultades y obligaciones contenidas en la Ley Orgánica de la Administración Pública del Estado, Ley de Entidades Paraestatales del Estado de Durango, Ley de Cultura para el Estado de Durango y demás disposiciones legales aplicables.
+Al Órgano Interno de Control le corresponderán las facultades y obligaciones contenidas en la Ley Orgánica de la Administración Pública del Estado, Ley de Entidades Paraestatales del Estado de Durango, Ley de Cultura para el Estado de Durango y demás disposiciones legales aplicables.
 
 ### CAPÍTULO IV. DE LAS UNIDADES SUSTANTIVAS Y ADJETIVAS
 
@@ -481,7 +545,7 @@ I. Planear, organizar y evaluar las actividades del Área a su cargo;
 
 II. Promover, dentro del ámbito de su competencia, las actividades dirigidas al logro de la misión institucional;
 
-III. Establecer mecanismos de cooperación entre autoridades de los diferentes órdenes de gobierno, instituciones y organizaciones de la sociedad civil involucradas en las actividades sustantiva a su cargo;
+III. Establecer mecanismos de cooperación entre autoridades de los diferentes órdenes de gobierno, instituciones y organizaciones de la sociedad civil involucradas en las actividades sustantiva (sic) a su cargo;
 
 IV. Rendir un informe mensual de actividades al Director General;
 
@@ -493,7 +557,9 @@ VII. Coordinarse con otras áreas del ICED para el desarrollo de las actividades
 
 VIII. Proponer al Director General, cuando se le solicite, los términos para suscribir convenios de colaboración y acuerdos específicos que El Instituto celebre con los gobierno (sic) federal, de los estados y de los municipios, así como con organismos descentralizados y desconcentrados de la administración pública, organizaciones de la sociedad civil e instituciones del sector privado;
 
-IX. Elaborar los manuales de procedimientos y otros instrumentos administrativos, correspondientes al funcionamiento de las unidades integrantes de su coordinación, y turnarlos a la Dirección General para su aprobación ante la Junta Directiva del ICED;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Elaborar los manuales de procedimientos y otros instrumentos administrativos, correspondientes al funcionamiento de las unidades integrantes de su coordinación, y turnarlos a la Dirección General para su aprobación ante la H. Junta Directiva del ICED;
 
 X. Verificar, conforme a la normatividad correspondiente, la adecuada aplicación de los recursos humanos, financieros, materiales del área a su cargo y, en caso de ser necesario, aplicar medidas correctivas;
 
@@ -503,7 +569,9 @@ XII. Desarrollar los proyectos y actividades especiales que se le encomienden;
 
 XIII. Efectuar periódicamente reuniones de información, coordinación y evaluación, con las áreas y departamentos a su cargo;
 
-XIV. Proporcionar la información que le requiera el Órgano de Control Interno sobre el funcionamiento del área a su cargo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+XIV. Proporcionar la información que le requiera el Órgano Interno de Control sobre el funcionamiento del área a su cargo;
 
 XV. Desempeñar las funciones encomendadas por la Dirección General, y las demás que señale el presente Reglamento y aquellas otras normas y disposiciones del Instituto.
 
@@ -535,7 +603,7 @@ IX. Impulsar los estudios de consumo cultural y sobre públicos, los análisis d
 
 X. Diseñar y ejecutar proyectos dirigidos al aprovechamiento de los medios de comunicación y de las nuevas tecnologías para el desarrollo de las acciones de promoción y difusión del arte y la cultura;
 
-XI. Desempeñar las funciones encomendada por el Director General, y
+XI. Desempeñar las funciones encomendada (sic) por el Director General, y
 
 XII. Las demás que señale el presente Reglamento y aquellas otras normas y disposiciones del Instituto.
 
@@ -565,31 +633,67 @@ IX. Generar, en coordinación con la Dirección de Promoción y Difusión Cultur
 
 X. Desempeñar las funciones encomendadas por el Director General, y las demás que señale el presente Reglamento y aquellas otras normas y disposiciones del Instituto.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2018, PÁGINA 36.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 32°.
 
-La Dirección de Educación Artística, tiene como objeto la formación profesional, la actualización docente y la iniciación artística, así como encausar las vocaciones artísticas de niños y jóvenes para su adecuado desarrollo.
+La Dirección de Educación Artística, tiene como objeto la iniciación artística, así como encausar las vocaciones artísticas de niños y jóvenes para su adecuado desarrollo.
 
 Son funciones y atribuciones del Director de Educación Artística:
 
 I. La creación y fortalecimiento de espacios para la iniciación del desarrollo de las habilidades artísticas de los niños y jóvenes;
 
-II. Controlar y vigilar los centros de iniciación del desarrollo de .las habilidades artísticas;
+II. Controlar y vigilar los centros de iniciación del desarrollo de las habilidades artísticas;
 
-III. Instaurar programas de actualización para docentes encargados de la formación y enseñanza de las artes;
+III. Otorgar reconocimientos y estímulos que impulsen el desarrollo de las artes en niños y jóvenes;
 
-IV. Otorgar reconocimientos y estímulos que impulsen el desarrollo de las artes en niños y jóvenes;
+IV. Promover la difusión de las actividades artísticas para fortalecer el aprendizaje de éstas;
 
-V. Promover la difusión de las actividades artísticas para fortalecer el aprendizaje de éstas;
+V. Coordinar la aplicación de evaluaciones periódicas que muestren a detalle la factibilidad de los programas institucionales de desarrollo artístico;
 
-VI. Realizar proyectos y actividades que estimulen la coordinación de los aspectos artísticos en la enseñanza;
+VI. Entregar informes periódicos a la Dirección General de los mecanismos y programas implementados por esta dirección;
 
-VII. Coordinar la aplicación de evaluaciones periódicas que muestren a detalle la factibilidad de los programas institucionales de desarrollo artístico;
+VII. Desempeñar las funciones encomendadas por la Dirección General, y las demás que señale el presente Reglamento y aquellas otras normas y disposiciones del Instituto.
 
-VIII. Entregar informes periódicos a la Dirección General de los mecanismos y programas implementados por esta dirección;
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Desempeñar las funciones encomendadas por la Dirección General, y las demás que señale el presente Reglamento y aquellas otras normas y disposiciones del Instituto.
+###### ARTÍCULO 33°.
 
-###### ARTÍCULO 33º.
+La Dirección del Centro Estatal del Conocimiento y las Artes (CECOART) tiene por objeto la formación, profesionalización, actualización, producción e investigación relacionada con los procesos artísticos y la enseñanza de estos.
+
+Son funciones y atribuciones del Director del “CECOART”:
+
+I. Elaborar los planes de trabajo y estudio que se lleven a cabo en el “CECOART”;
+
+II. Instaurar programas de actualización para docentes encargados de la formación y enseñanza de las artes;
+
+III. Realizar proyectos y actividades que estimulen la coordinación de los aspectos artísticos en la enseñanza;
+
+IV. Promover las actividades propias del “CECOART”;
+
+V. Cumplir y hacer cumplir las políticas y reglamentos del “CECOART”;
+
+VI. Administrar y aplicar los recursos asignados y generados en la operación del “CECOART”, informando periódicamente al Instituto;
+
+VII. Fijar y ajustar los montos de las cuotas de recuperación de los servicios y eventos que preste el “CECOART”, la supervisión de su cobro y aplicación, en los términos de la legislación aplicable;
+
+VIII. Presentar ante el Instituto para su revisión y en su caso, aprobación, el manual de organización, el reglamento, los presupuestos de ingresos, egresos y estados financieros del “CECOART”; siguiendo los lineamientos establecidos por la normatividad aplicable;
+
+IX. Realizar acciones conducentes para que se proporcione la información que tenga a su cargo, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango;
+
+X. Gestionar la expedición de certificados o documentos a quienes terminen los programas de estudio, cursos, seminarios o actividades académicas en el “CECOART”;
+
+XI. Celebrar convenios con otras instituciones del sector público o privado relacionadas con sus funciones y objetivos, previa autorización del Instituto;
+
+XII. Vigilar y cumplir lo establecido en el Plan Estatal de Desarrollo en lo que respecta a la promoción, difusión y enseñanza artística y cultural;
+
+XIII. Desempeñar las funciones encomendada (sic) por el Director General; y
+
+XIV. Las demás que señale el presente Reglamento y aquellas otras normas y disposiciones del Instituto.
+
+###### ARTÍCULO 34º.
 
 Son funciones y atribuciones del Director de Planeación y Evaluación:
 
@@ -597,7 +701,9 @@ I. Coordinar, dirigir, sistematizar y supervisar las acciones de planeación, de
 
 II. Integrar el Programa Sectorial de Cultura, acorde al Plan Estatal de Desarrollo, para su presentación a la Junta Directiva por parte del Director General;
 
-III. Elaborar, en coordinación con las unidades orgánicas del Instituto, el Plan de Desarrollo Institucional y demás programas de actividades, para su entrega al Director General y posterior presentación a la Junta Directiva, para su confirmación, modificación o revocación;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+III. Elaborar, en coordinación con las unidades orgánicas del Instituto, el Plan de Desarrollo Institucional y demás programas de actividades, para su entrega al Director General y posterior presentación a la H. Junta Directiva, para su confirmación, modificación o revocación;
 
 IV. Integrar, con la participación de las direcciones y demás unidades orgánicas, el Programa Operativo Anual y el Presupuesto de Egresos correspondiente, conforme a la normatividad establecida, para su presentación al Director General;
 
@@ -629,7 +735,7 @@ XVII. Asistir al Director General en el estudio de viabilidad y requerimientos d
 
 XVIII. Desempeñar las funciones encomendadas por el Director General, y las demás que señale el presente Reglamento y aquellas otras normas y disposiciones del Instituto.
 
-###### ARTÍCULO 34º.
+###### ARTÍCULO 35º.
 
 El Director de Finanzas y Administración tiene por objeto la administración de los recursos humanos, financieros y materiales del Instituto, orientada por su misión y objetivos.
 
@@ -641,9 +747,13 @@ II. Coordinarse con el Director de Planeación y Evaluación en la elaboración,
 
 III. Elaborar el Programa Operativo Anual y el Presupuesto de Egresos de esta Dirección;
 
-IV. Consolidar los presupuestos de todas las áreas del ICED, para la elaboración del presupuesto general anual, con el propósito de presentarlo al Director General. Una vez aprobado por la Junta Directiva el presupuesto anual del ICED, proceder a elaborar la calendarización y asignación del mismo en las áreas, apegado a los acuerdos que para el caso tome la Junta Directiva;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
-V. Gestionar ante las instancias de gobierno correspondientes, los recursos humanos necesarios, de acuerdo a la estructura autorizada por la Junta Directiva;
+IV. Consolidar los presupuestos de todas las áreas del ICED, para la elaboración del presupuesto general anual, con el propósito de presentarlo al Director General. Una vez aprobado por la H. Junta Directiva el presupuesto anual del ICED, proceder a elaborar la calendarización y asignación del mismo en las áreas, apegado a los acuerdos que para el caso tome la Junta Directiva;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+V. Gestionar ante las instancias de gobierno correspondientes, los recursos humanos necesarios, de acuerdo a la estructura autorizada por la H. Junta Directiva;
 
 VI. Llevar a cabo la gestoría, resguardo y distribución de los recursos financieros y adjuntamente, el registro de información financiera que se genere en la operación del ICED;
 
@@ -661,7 +771,7 @@ XII. Coordinar el abastecimiento que en materia de Servicios Generales requieran
 
 XIII. Desempeñar las funciones encomendadas por el Director General, y las demás que señale el presente Reglamento y aquellas otras normas y disposiciones del Instituto.
 
-###### ARTÍCULO 35°.
+###### ARTÍCULO 36°.
 
 Son funciones y atribuciones del Coordinador de Culturas Populares:
 
@@ -687,11 +797,11 @@ X. Impulsar la difusión de las culturas de los pueblos indígenas para promover
 
 XI. Promover el desarrollo de las lenguas indígenas, y propiciar acciones de preservación de la escritura y lectura de todas las etnias del estado.
 
-###### ARTÍCULO 36°.
+###### ARTÍCULO 37°.
 
 Son facultades y atribuciones de la Coordinación de Bibliotecas Públicas, las conferidas en los artículos 25 y 26 de la Ley del Libro y Bibliotecas Públicas del Estado de Durango, a la Dirección de Bibliotecas Públicas.
 
-###### ARTÍCULO 37°.
+###### ARTÍCULO 38°.
 
 Las atribuciones conferidas al Instituto en el artículo 15, de la Ley del Patrimonio Cultural del estado de Durango, serán delegadas total o parcialmente por el Director General, al Coordinador de Patrimonio Cultural.
 
@@ -703,7 +813,9 @@ II. Promover la inversión de recursos financieros que permitan mantener en ópt
 
 III. Proponer líneas de acción concretas que permitan al Instituto avanzar en la consecución de los objetivos para la rehabilitación y conservación de la infraestructura cultural;
 
-IV. Elaborar proyectos ejecutivos para proponer al Consejo Nacional para la Cultura y las Artes (CONACULTA) esquemas de cofinanciamiento y corresponsabilidad para rehabilitar, remodelar y equipar la infraestructura cultural, en el marco del Programa de Apoyo a la Infraestructura Cultural de los Estados (PAICE);
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+IV. Elaborar proyectos ejecutivos para proponer a la Secretaría de Cultura esquemas de cofinanciamiento y corresponsabilidad para rehabilitar, remodelar y equipar la infraestructura cultural, en el marco del Programa de Apoyo a la Infraestructura Cultural de los Estados (PAICE);
 
 V. Promover con las administraciones municipales, sociedad civil organizada y la iniciativa privada, la inclusión en los esquemas de cofinanciamiento y corresponsabilidad para rehabilitar, remodelar y equipar la infraestructura cultural de su jurisdicción, en el marco del Programa de Apoyo a la Infraestructura Cultural de los Estados (PAICE);
 
@@ -713,7 +825,7 @@ VII. Promover y participar en la elaboración de los expedientes técnicos que c
 
 VIII. Proponer al Director General programas y proyectos para la construcción, ampliación, conservación, rehabilitación y mantenimiento de la infraestructura cultural del Instituto;
 
-IX. Coordinar, realizar y mantener actualizado el inventario del los bienes de la infraestructura cultural del Instituto;
+IX. Coordinar, realizar y mantener actualizado el inventario del (sic) los bienes de la infraestructura cultural del Instituto;
 
 X. Informar al Director General de la situación de seguridad, operatividad y estado de la infraestructura cultural que resguarda el patrimonio histórico, artístico y cultural a cargo del Instituto;
 
@@ -723,15 +835,15 @@ XII. Supervisar los proyectos presentados y dictaminados favorablemente por el C
 
 XIII. Atender y dar seguimiento a los proyectos de restauración, remodelación y construcción de la infraestructura cultural del Instituto;
 
-XIV. Desarrollar en general, actividades en materia de conservación de la infraestructura cultural necesarios para el cumplimiento de los objetivos y funciones del Instituto en la materia, y
+XIV. Desarrollar en general, actividades en materia de conservación de la infraestructura cultural necesarios para el cumplimiento de los objetivos y funciones del Instituto en la materia; y
 
 XV. Mantener informado al Director General sobre los avances físicos de la obra pública a cargo del Instituto.
 
-###### ARTÍCULO 38º.
+###### ARTÍCULO 39º.
 
 La Coordinación de la Región Laguna dependerá directamente de la Dirección General del Instituto, teniendo por objeto contribuir a potenciar el desarrollo cultural en esta región del estado.
 
-###### ARTÍCULO 39º.
+###### ARTÍCULO 40º.
 
 Son funciones y atribuciones del Coordinador Regional de la Laguna:
 
@@ -749,75 +861,37 @@ VI. Establecer acciones de vinculación con las unidades culturales de la regió
 
 VII. Las demás que le confiera el Director General del ICED.
 
-###### ARTÍCULO 40º.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
-El Consejo Consultivo será un órgano colegiado con funciones de asesoría, consulta, opinión, investigación y difusión de los asuntos que en razón de sus atribuciones y obligaciones le sean sometidos a su consideración por el Instituto de Cultura, y su integración se apegará a lo establecido en el Artículo 110 y 111 de la Ley de Cultura para el estado de Durango.
-
-### CAPÍTULO V. DE LAS ATRIBUCIONES Y OBLIGACIONES DEL CONSEJO CONSULTIVO
+### CAPÍTULO V. DE LAS AUSENCIAS DE LOS FUNCIONARIOS
 
 ###### ARTÍCULO 41º.
 
-El Consejo Consultivo tendrá las siguientes atribuciones:
-
-I. Participar con propuestas para la elaboración de los planes y programas en materia cultural;
-
-II. Proponer a la Junta Directiva por conducto del Director General la celebración de acuerdos o convenios en materia de arte y cultura;
-
-III. Ejercer las funciones de asesoría, consulta, opinión, investigación y difusión, que coadyuven al mejoramiento de los programas y proyectos emprendidos por la comunidad cultural tales como:
-
-1. Comisiones municipales;
-
-2. Asociaciones civiles;
-
-3. Comités ciudadanos.
-
-IV. Convocar a las organizaciones o grupos de la comunidad cultural y promotores culturales, para que participen en foros y eventos culturales;
-
-V. Estudiar, analizar y emitir opinión sobre los asuntos que le sean solicitados por la Junta Directiva y el Director General;
-
-VI. Recibir y remitir al Comité Editorial, las propuestas de las publicaciones que pretenda realizar la administración pública del estado;
-
-VII. Contar con los comités que estime necesarios, para lo cual podrá convocar a especialistas en la materia y su integración y atribuciones estará previsto en el reglamento interno;
-
-VIII. Elaborar el Reglamento Interno del Consejo y sus comisiones, y
-
-IX. Las que le señalen la Ley, la Junta Directiva del ICED y la demás normatividad aplicable a la materia.
+La ausencia temporal del Director General mayor a treinta días, o las definitivas, serán suplidas por el servidor público que designe la Junta Directiva, en tanto el Gobernador expida el nuevo nombramiento.
 
 ###### ARTÍCULO 42º.
 
-Son obligaciones del Consejo Consultivo, las siguientes:
+Las ausencias justificadas de los demás funcionarios serán suplidas por la persona que designe el Director General.
 
-I. Sesionar de manera ordinaria cuando menos una vez por año y las necesarias que su Presidente con la mayoría de los miembros del Consejo convoque de manera extraordinaria;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
-II. Aprobar el calendario de sesiones que deba celebrar el Consejo;
+### CAPÍTULO VI. DEL RÉGIMEN LABORAL DE LOS TRABAJADORES
 
-III. Asentar sus acuerdos en actas;
-
-IV. Informar a la Junta Directiva y al Director General, de los asuntos que se le encomiende, y
-
-V. Las que le señale la Ley, la Junta directiva del ICED y la demás normatividad aplicable en materia cultural.
-
-### CAPÍTULO VI. DE LAS AUSENCIAS DE LOS FUNCIONARIOS
+(REUBICADO [N. DE E. ANTES ARTÍCULO 45], P.O. 30 DE SEPTIEMBRE DE 2018)
 
 ###### ARTÍCULO 43º.
 
-La ausencia temporal del Director General mayor a treinta días, o las definitivas, serán suplidas por el servidor público que designe la Junta Directiva, en tanto el Gobernador expida el nuevo nombramiento.
+Los trabajadores adscritos a la Secretaría de Educación, así como los de aquellas dependencias del Gobierno del Estado que hayan estado destinados al fomento del arte y la cultura, y que pasaron a formar parte del Instituto de Cultura del Estado de Durango, les serán respetados sus derechos laborales, de acuerdo a su adscripción de origen.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 46], P.O. 30 DE SEPTIEMBRE DE 2018)
 
 ###### ARTÍCULO 44º.
 
-Las ausencias justificadas de los demás funcionarios serán suplidas por la persona que designe el Director General.
-
-### CAPÍTULO VII. DEL RÉGIMEN LABORAL DE LOS TRABAJADORES
-
-###### ARTÍCULO 45º.
-
-Los trabajadores adscritos a la Secretaría de Educación, así como los de aquellas dependencias del Gobierno del Estado que hayan estado destinados al fomento del arte y la cultura, y que pasaron a formar parte del Instituto de Cultura del Estado de Durango, les serán respetados sus derechos laborales, de acuerdo a su adscripción de origen.
-
-###### ARTÍCULO 46º.
-
 La administración de las plazas docentes y de apoyo y asistencia a la educación que sean adscritas temporalmente al Instituto de Cultura del Estado de Durango, continuará bajo la responsabilidad de la Secretaría de Educación, a través del área respectiva; pero operativamente se sujetarán a las obligaciones inherentes al nuevo centro de trabajo.
 
-###### ARTÍCULO 47º.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 47], P.O. 30 DE SEPTIEMBRE DE 2018)
+
+###### ARTÍCULO 45º.
 
 Las relaciones laborales entre el Instituto y el personal directivo, académico, técnico y administrativo a su servicio, se regularán de acuerdo a la normatividad que corresponda al origen de su base de adscripción. En todos estos casos, al personal adscrito al Instituto o contratado por él, que labora en los centros de trabajo mencionados, le serán respetados sus derechos adquiridos como trabajadores.
 
@@ -868,3 +942,17 @@ Lic. Claudia Orrante Reyes
 Suplente del
 
 LIC. JUAN ÁVALOS MÉNDEZ SECRETARIO DE TURISMO Y CINEMATOGRAFÍA DEL ESTADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR.- DEL INSTITUTO DE CULTURA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Reglamento Interior.
+
+TERCERO. Los recursos humanos, materiales y financieros de que se (sic) dispone el Centro Estatal del Conocimiento y las Artes pasan a formar parte de La Dirección del Centro Estatal del Conocimiento y las Artes.
+
+CUARTO. Los Programas y acciones que actualmente implementa y desarrolla el Centro Estatal del Conocimiento y las Artes pasan a formar parte de La Dirección del Centro Estatal del Conocimiento y las Artes.
