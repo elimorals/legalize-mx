@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-del-estado-12195
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-14"
-last_updated: "2018-09-12"
+last_updated: "2018-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2018.
 
 Código publicado en la Tercera Sección al Número 299 del Periódico Oficial del Estado de Chiapas, el miércoles 14 de junio de 2017.
 
@@ -7871,11 +7871,15 @@ La rotación de las presidencias de las Comisiones Permanentes a que se refiere 
 
 El Contralor General que se encuentre en funciones a partir de la vigencia del presente Decreto, continuará en el cargo por el periodo por el que fue designado.
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO DÉCIMO TERCERO.
 
-Por única ocasión el Instituto de Elecciones y de Participación Ciudadana, organizará y celebrará las elecciones para la renovación de los Miembros de Ayuntamiento en el Municipio de Oxchuc, Chiapas; correspondientes al Proceso Electoral Local Ordinario 2017-2018, hasta en tanto, se obtengan los resultados finales del dictamen antropológico y en su caso, los de la consulta que fueron mandatadas por el Tribunal Electoral del Estado de Chiapas, mediante sentencia dictada en el Juicio para la Protección de los Derechos Político Electorales del Ciudadano, con número de expediente TEECH/JDC/019/2017 y acumulados.
+Por única ocasión el Instituto de Elecciones y de Participación Ciudadana, organizará y celebrará las elecciones para la renovación de los miembros de Ayuntamiento en el Municipio de Oxchuc, Chiapas; correspondientes al Proceso Electoral Local Ordinario 2017-2018, hasta en tanto, se obtengan los resultados finales del dictamen antropológico y en su caso, los de la consulta que fueron mandatadas por el Tribunal Electoral del Estado de Chiapas, mediante sentencia dictada en el Juicio para la Protección de los Derechos Político Electorales del Ciudadano, con número de expediente TEECH/JDC/019/2017 y acumulados.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+El Concejo Municipal de Oxchuc, Chiapas, designado mediante Decreto número 157 de fecha 18 de febrero de 2018, continuará en el ejercicio de sus funciones hasta en tanto concluya el proceso señalado en el párrafo anterior.
 
 El Ejecutivo del Estado, dispondrá se publique, circule y se dé el debido cumplimiento al presente Decreto.
 
@@ -7920,3 +7924,11 @@ P.O. 12 DE SEPTIEMBRE DE 2018.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 308 DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS, APROBADO MEDIANTE DECRETO NÚMERO 181, DE FECHA 18 DE MAYO DE 2017”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
