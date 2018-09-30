@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-proteccion-civil-del-estado-de-chiapas-102618"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-18"
-last_updated: "2017-06-14"
+last_updated: "2018-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 18 de septiembre de 2014.
 
@@ -87,7 +87,9 @@ VIII. Brigada: Al grupo de personas que se organizan dentro de un inmueble, capa
 
 IX. Cambio Climático: Al cambio en el clima, atribuible directa o indirectamente a la actividad humana, que altera la composición de la atmósfera mundial y que se suma a la variabilidad climática natural observada durante períodos comparables.
 
-X. Centro Regional: Al Centro Regional de Protección Civil y Bomberos, infraestructura distribuida estratégicamente para responder regionalmente en menor tiempo y mayor calidad, a eventualidades que ponen en riesgo probable o peligro inminente a la población, sus bienes y su entorno.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+
+X. Centro Regional: Al Centro Regional de Protección Civil, infraestructura distribuida estratégicamente para responder regionalmente en menor tiempo y mayor calidad, a eventualidades que ponen en riesgo probable o peligro inminente a la población, sus bienes y su entorno.
 
 XI. Comité Científico Asesor: Al órgano de información y asesoramiento de carácter científico y técnico de la Secretaría de Protección Civil.
 
@@ -439,7 +441,7 @@ VI. Representantes de grupos voluntarios o personas que estén en condiciones de
 
 ###### Artículo 19.
 
-El Consejo Estatal, sesionará ordinariamente en pleno por lo menos cuatro veces al año y extraordinarias (sic), cuando el caso así lo requiera, a convocatoria de su presidente, en el cual participarán:
+El Consejo Estatal, sesionará ordinariamente en pleno por lo menos cuatro veces al año y extraordinarias, cuando el caso así lo requiera, a convocatoria de su presidente, en el cual participarán:
 
 I. Los Presidentes Municipales donde se presenten las condiciones de alto riesgo, emergencia o desastre.
 
@@ -1684,3 +1686,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan abrogadas todas aquellas disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 307 DECRETO POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los siguientes 60 días naturales a la entrada en vigor de este Decreto, la Secretaría de Protección Civil deberá realizar las reformas y adecuaciones necesarias a su Reglamento Interior para efectos de eliminar lo relativo a la función de Bomberos que se encuentra dispuesto al nuevo Instituto de Bomberos del Estado de Chiapas.
+
+###### ARTÍCULO TERCERO.
+
+Quedan abrogadas todas aquellas disposiciones legales que se opongan a lo dispuesto por el Presente Decreto.
