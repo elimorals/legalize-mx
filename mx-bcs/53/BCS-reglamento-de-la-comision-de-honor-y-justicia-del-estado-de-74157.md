@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-la-comision-de-honor-y-justicia-del-estado-de-741
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-05"
-last_updated: "2010-01-05"
+last_updated: "2018-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 30 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 5 de enero de 2010.
 
@@ -342,3 +344,37 @@ C. LIC. LENIN GIOVANI RODRÍGUEZ AGUILAR
 EL PROCURADOR GENERAL DE JUSTICIA
 
 C. LIC. FERNANDO GONZÁLEZ RUBIO CERECER
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Reglamento del Servicio Profesional de Carrera de la Policía Estatal Preventiva de Baja California sur, publicado el día 25 de noviembre del 2014, en el Boletín Oficial del Gobierno del Estado de Baja California Sur, No. 55, Tomo XLI.
+
+TERCERO.- Se derogan todos los acuerdos y demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+CUARTO.- Para efectos del personal en activo se dispondrá de un período de migración que no excederá de un año para que los elementos de la Institución Policial cubran los siguientes criterios:
+
+1. Que tengan vigentes las evaluaciones de control y confianza;
+
+2. Que tengan la equivalencia a la formación inicial y;
+
+3. Que cubran con el perfil del puesto con relación a la renivelación académica. Para tales efectos una vez cumplido el plazo, los elementos que no cubran con alguno de estos criterios quedarán fuera de la Institución Policial.
+
+QUINTO.- La Secretaría de Seguridad Pública deberá expedir sus manuales de organización, de procedimientos, de operación, de evaluación del desempeño, catálogos de puestos del Servicio Profesional de Cerrera (sic) Policial.
+
+SEXTO.- La Secretaria de Finanzas y Administración de Baja California Sur, deberá realizar los trámites financieros, presupuestales y administrativos necesarios para el cumplimiento del presente Reglamento.
+
+SEPTIMO.- La Comisión del Servicio Profesional de Carrera Policial, Honor y Justicia, deberá quedar instaurada en los treinta días naturales posteriores a la entrada en vigor de este reglamento.
+
+OCTAVO.- Con la publicación del presente Reglamento queda abrogado el Reglamento de la Comisión de Honor y Justicia del Estado de Baja California Sur, publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, No. 01-BIS, el martes 5 de enero de 2010. Los procedimientos iniciados bajo la normativa de la comisión vigente antes de la entrada en vigor del presente reglamento, se seguirá aplicando el reglamento que se abroga hasta la total conclusión de los mismo (sic).
+
+NOVENO.- Todo lo relacionado en otros lineamientos estatales referentes a la Comisión de Honor y Justicia, a partir de la entrada en vigor del presente reglamento serán competencia de la Comisión.
+
+DECIMO.- La tabla de niveles jerárquicos, citada en el artículo 177 de este Reglamento, será aplicable hasta que se haya implementado totalmente el Servicio Profesional de Carrera Policial en las Instituciones Policiales de la Secretaría de Seguridad Pública del Estado de Baja California Sur, como lo refiere el artículo cuarto del presente reglamento.
+
+DECIMO PRIMERO.- A partir de la entrada en vigor del presente reglamento, todo integrante de las instituciones policiales de la Secretaría de Seguridad Pública deberá cumplir de manera obligatoria los lineamientos que establece el Servicio Profesional de Carrera Policial.
