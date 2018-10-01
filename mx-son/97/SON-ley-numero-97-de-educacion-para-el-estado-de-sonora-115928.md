@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2018-06-25"
+last_updated: "2018-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -359,7 +359,9 @@ XVI.- Prestar servicios bibliotecarios, a través de bibliotecas escolares, a fi
 
 XVII.- Promover e impulsar la investigación y el desarrollo de la ciencia y la tecnología y fomentar su enseñanza y divulgación;
 
-XVIII.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica y tecnológica;
+> <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2018)</small>
+
+XVIII.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica y tecnológica, así como implementar un programa que incluya el acceso a internet en todos los planteles de educación básica y media superior;
 
 XIX.- Realizar las acciones, desde el nivel de educación básica hasta el nivel de educación media superior, para informar, orientar y asesorar a los estudiantes en el desarrollo de sus aptitudes, capacidades, destrezas, habilidades y valores que les permita identificar y fortalecer sus vocaciones, así como conocer ampliamente la oferta educativa técnica y profesional que exista en el estado, de forma que esta orientación les permita a los estudiantes estar en mejores condiciones para elegir a futuro una carrera profesional;
 
@@ -1262,3 +1264,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría y la Comisión del Deporte del Estado de Sonora, cuentan con 90 días a partir de la publicación del presente Decreto, para celebrar el convenio señalado en el párrafo tercero del artículo 78 de la Ley de Educación para el Estado de Sonora.
+
+B.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 221, QUE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 24 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
