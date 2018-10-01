@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-administrativa-para-el-estado-de-sinaloa-6624"
 country: "mx"
 rank: "ley"
 publication_date: "1993-03-26"
-last_updated: "2017-12-22"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 26 de marzo de 1993.
 
@@ -37,7 +37,7 @@ DECRETO NUMERO 44
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ## TITULO PRIMERO. ORGANIZACION Y COMPETENCIA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO
 
@@ -47,27 +47,13 @@ LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA.
 
 La presente Ley tiene por objeto regular la impartición de la justicia administrativa en el Estado de Sinaloa y sus disposiciones son de orden público e interés social.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
-
 ###### ARTICULO 2o.
 
-El Tribunal de Justicia Administrativa del Estado, instituido por el Artículo 109 Bis de la Constitución Política del Estado de Sinaloa, es un órgano constitucional autónomo encargado de dirimir las controversias que se susciten entre la administración pública estatal y municipal, y los particulares; imponer, en los términos que disponga la Ley respectiva, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos locales o municipales
-
-Formará parte del Sistema Estatal y Municipal Anticorrupción y estará sujeto a las bases establecidas en el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, 109 Bis de la Constitución Política del Estado, Ley General del Sistema Nacional Anticorrupción y Ley del Sistema Anticorrupción del Estado y en el presente ordenamiento.
-
-Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
-
-Para el ejercicio de sus atribuciones, ejercerá su presupuesto con total autonomía. Los Magistrados, tendrán una retribución atendiendo el mandato contenido en el artículo 127, de la Constitución Política de los Estados Unidos Mexicanos y su correspondiente de la Constitución Política del Estado de Sinaloa.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 3o.
 
-El Tribunal de Justicia Administrativa del Estado conocerá y resolverá las controversias que se susciten en relación con la legalidad, interpretación, cumplimiento y efectos de actos, procedimientos y resoluciones de naturaleza administrativa y fiscal, que emitan, ordenen, ejecuten o traten de ejecutar las autoridades del Estado, de los Municipios, sus organismos descentralizados o cualquier persona o institución que funja como autoridad y cuya actuación afecte la esfera jurídica de los particulares.
-
-El Tribunal de Justicia Administrativa del Estado conocerá de las Responsabilidades Administrativas de los Servidores Públicos y Particulares Vinculados con Faltas Graves promovidas por la Secretaría de Transparencia y Rendición de Cuentas y los Órganos Internos de control de los entes públicos, o por la Auditoría Superior del Estado, para la imposición de sanciones en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado. Así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al Patrimonio de los entes públicos.
-
-Bajo ninguna circunstancia se entenderá que la atribución del Tribunal para imponer sanciones a particulares por actos u omisiones vinculadas con faltas administrativas graves se contrapone o menoscaba la facultad que cualquier ente público posea para imponer sanciones a particulares en los términos de la legislación aplicable.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -105,857 +91,185 @@ XIV. Sistema de Justicia en Línea: Sistema informático establecido por el Trib
 
 XV. Tribunal: Tribunal de Justicia Administrativa del Estado.
 
-### CAPITULO II. DE LA INTEGRACION Y FUNCIONAMIENTO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+### CAPITULO II. DE LA INTEGRACION Y FUNCIONAMIENTO
 
 ###### ARTICULO 4o.
 
-El Tribunal estará integrado por lo menos por siete Magistrados Propietarios y ejercerá sus funciones con una Sala Superior y mínimamente con tres Salas Regionales Unitarias, y cuando menos una Sala Regional Unitaria Especializada en materia de responsabilidades administrativas.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 5o.
 
-Las personas titulares de las Magistraturas de la Sala Superior, de las Salas Regionales Unitarias y de la Sala o Salas Regionales Unitarias Especializadas en materia de responsabilidades administrativas del Tribunal serán electas de entre una terna propuesta por el Ejecutivo del Estado, con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-Para las elecciones a que se refiere el presente artículo, el titular del Ejecutivo del Estado acompañará una justificación de la idoneidad de las propuestas, para lo cual hará constar la trayectoria profesional y académica de la persona propuesta, a efecto de que sea valorada dentro del procedimiento de elección por parte del Congreso del Estado. Para ello, se desahogarán las comparecencias correspondientes, en las cuales se garantizará la publicidad y transparencia de su desarrollo.
-
-Su nombramiento será por siete años, prorrogables por otro periodo igual y durante su encargo, sólo podrán ser removidas por las causas graves siguientes:
-
-I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado y los tratados internacionales de los que el Estado Mexicano sea parte;
-
-II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
-
-III. Haber sido condenado por delito doloso;
-
-IV. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley;
-
-V. Abstenerse de resolver sin causa justificada y en forma reiterada, los asuntos de su competencia dentro los plazos previstos por la Ley;
-
-VI. Incurrir en infracciones graves a la Constitución o a las leyes causando perjuicios graves a las instituciones democráticas, a la sociedad, o motivar alguna deficiencia en el funcionamiento normal de las instituciones del Estado; y
-
-VII. Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-ARTICULO 5o BIS. La convocatoria deberá contener los siguientes requisitos:
-
-a). El plazo límite para la inscripción;
-
-b). Los requisitos que deberán cubrir los aspirantes;
-
-c). Las fases del procedimiento de designación de Magistrado del Tribunal;
-
-d). El lugar, día y hora para la entrega y recepción de las solicitudes de registro y documentación para participar en el procedimiento;
-
-e). La forma en que se calificarán los trabajos;
-
-f). Las causas de desechamiento de los trabajos;
-
-g). La forma de notificación, tanto a los aspirantes que acrediten las fases del procedimiento, como a los que no pasen las etapas;
-
-h). La forma en que se llevarán a cabo las comparecencias ante la Sala Superior del Tribunal, de los candidatos a ocupar el cargo de Magistrado;
-
-i). La manera en que el Órgano Supremo del Tribunal, analizará y calificará todos los elementos que integran los expedientes de los aspirantes que acrediten las fases del procedimiento; y,
-
-j). Las causas de descalificación de los aspirantes.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+ARTICULO 5o BIS. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 6o.
 
-Para ser titular de una Magistratura se requiere:
-
-I. Contar con la ciudadanía mexicana y encontrarse en pleno ejercicio de sus derechos;
-
-II. Poseer título profesional de Licenciatura en Derecho, con una experiencia mínima de cinco años, en materia administrativa o en impartición de justicia;
-
-III. Tener más de treinta años de edad y menos de sesenta y cinco el día de su nombramiento;
-
-IV. Ser de notoria buena conducta;
-
-V. Haber residido efectivamente en el Estado durante los últimos dos años; y
-
-VI. No haber sido condenado por la comisión de un delito intencional que hubiere merecido pena corporal.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 7o.
 
-Será causa de retiro forzoso de los Magistrados haber cumplido setenta años de edad o que sobrevenga incapacidad física o mental que impida el adecuado desempeño del cargo.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 8o.
 
-Las faltas temporales de los Magistrados, serán suplidas en el orden siguiente:
-
-a). Las del Presidente, por el Magistrado que designe (sic) Sala Superior; y,
-
-b). Las de los Magistrados, por el Secretario General de Acuerdos o el Primer Secretario, según corresponda.
-
-Las faltas definitivas, serán suplidas mediante el mecanismo de designación contemplado en el artículo 5o de esta Ley.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 9o.
 
-El Tribunal tendrá un Presidente que residirá en la Capital del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2017)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 10.
 
-Para el despacho de los asuntos de su competencia, el Tribunal estará integrado por:
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-I. Una Sala Superior que actuará en Pleno;
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
-
-II. Tres Salas Regionales Unitarias, y cuando menos una Sala Regional Unitaria Especializada en materia de responsabilidades administrativas;
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
-
-III. Un Secretario General de Acuerdos, que será también el Secretario de la Sala Superior;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Una Secretaría de Capacitación Jurídica, Normatividad y Estadística;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-V. Los Secretarios de Acuerdos de cada Sala;
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
-
-VI. Los Actuarios de Sala Superior y de Salas Regionales necesarios para el ejercicio de sus funciones;
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2017)</small>
-
-VII. El titular del Órgano Interno de Control;
-
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
-
-VIII. Un Jefe de la Unidad de apoyo Administrativo; y,
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IX. El personal jurídico y administrativo necesario para el desahogo de las funciones.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 11.
 
-Para ser Secretario, o Actuario del Tribunal, se requiere:
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-II. Poseer título profesional de Licenciado en Derecho expedido por institución legalmente facultada para ello;
-
-III. Gozar de buena reputación y no haber sido condenado por la comisión de un delito intencional que hubiere merecido pena corporal; y
-
-IV. Experiencia de un año mínimo en materia administrativa y fiscal para el caso del Secretario.
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-ARTICULO 11 BIS. El Jefe de la Unidad de Apoyo Administrativo, deberá cumplir los mismos requisitos de las fracciones I y III del artículo 11 de esta Ley, además deberá contar con título profesional en materia administrativa o contable y con experiencia mínima de dos años.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+ARTICULO 11 BIS. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 12.
 
-Los Magistrados, Secretarios y Actuarios del Tribunal estarán impedidos para desempeñar cualquier otro cargo o actividad profesional, salvo las de tipo académico y de beneficencia o cuando actúen en defensa legal de causa propia, entendiéndose por ésta, la del cónyuge y los parientes en línea recta sin limitación de grado, y en línea transversal hasta el segundo grado. El incumplimiento de este precepto se sancionará en los términos de la Ley de Responsabilidades Administrativas del Estado.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ### CAPITULO III. DE LA COMPETENCIA Y ATRIBUCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2017)</small>
-
 ###### ARTICULO 13.
 
-El Tribunal será competente para conocer y resolver de los juicios:
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-I. Que se ventilen por las controversias que se susciten en relación con la legalidad, interpretación, cumplimiento y efectos de actos, procedimientos y resoluciones de naturaleza administrativa y fiscal que emitan las autoridades señaladas por el artículo 3o de esta Ley, y cuya actuación afecte la esfera jurídica de los particulares;
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1994)</small>
-
-II. Que se presenten contra actos en materia administrativa o fiscal, que configuren negativa ficta de las autoridades del Estado, de los Municipios o de los organismos descentralizados Estatales o Municipales;
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-Se configura la resolución Negativa Ficta, cuando la autoridad no dé respuesta a la petición o instancia de un particular en el término que la Ley señale o a falta de éste en el de 100 días naturales, contados a partir del día siguiente a aquel en que se haya formulado la petición;
-
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
-
-III. De lesividad, que son aquellos promovidos por la autoridad, para que sean nulificadas las resoluciones administrativas o fiscales favorables a los particulares, que causen una lesión a la Administración Pública Estatal o Municipal o a sus organismos descentralizados por contravenir alguna disposición de los ordenamientos locales vigentes.
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IV. En los que se reclame responsabilidad patrimonial objetiva y directa al Estado, a los Municipios o a sus organismos descentralizados;
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
-
-V. De los juicios correspondientes, estatales y municipales, a que se refieren los artículos 113, último párrafo de la Constitución Política de los Estados Unidos Mexicanos y 109 Bis D de la Constitución Política del Estado, que comprende el Sistema Nacional, Estatal y Municipal Anticorrupción, para imponer las sanciones por las Responsabilidades Administrativas de los Servidores Públicos y Particulares Vinculados con Faltas Graves promovidas por las autoridades y los Órganos Internos de control competentes, o por la Auditoría Superior del Estado, para la imposición de sanciones en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado. Así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal, Municipal o al Patrimonio de los entes públicos.
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Que se refieran a controversias derivadas de contratos de naturaleza administrativa en que sean parte el Estado, los Municipios o sus organismos descentralizados;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Que se promuevan con el objeto de que se declare la configuración de la Positiva Ficta en que incurran las autoridades del Estado, del Municipio o de sus organismos descentralizados, cuando esta figura legal se prevea en las leyes aplicables.
-
-Se configura la resolución Positiva Ficta, cuando la autoridad omite dar respuesta a la petición o instancia de un particular en el término que la Ley señale o a falta de éste en el de 100 días naturales, contados a partir del día siguiente a aquel en que se haya formulado la petición, siempre y cuando la Ley que rige el acto sobre el que versa la petición o instancia, contemple esta figura jurídica;
-
-VIII. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2011)
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IX. En los que se demande la afectación que derive de reglamentos, circulares, oficios o cualesquier disposición de observancia general expedida por autoridades del Estado, de los Municipios o de sus organismos descentralizados;
-
-X. (DEROGADA POR ARTÍCULO TRANSITORIO SEXTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA, P.O. 4 DE MAYO DE 2016)
-
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-XI. En los que se impugnen las resoluciones de la Auditoría Superior del Estado; y,
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-XII. Las demás que le señalen otras leyes y reglamentos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ### CAPITULO IV. DE LA SALA SUPERIOR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2017)</small>
-
 ###### ARTICULO 14.
 
-La Sala Superior es el Órgano Supremo del Tribunal y se integrará con tres Magistrados, específicamente nombrados para ello de entre los cuales se elegirá al Presidente del Tribunal. Para sesionar válidamente será indispensable la presencia de todos sus integrantes.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-Contará con un Secretario General de Acuerdos, que será también el Secretario de la Sala Superior, Secretarios de Acuerdos, Actuarios y personal necesario para el ejercicio de sus funciones.
-
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
-
-La Sala Superior tendrá su residencia en la capital del Estado.
-
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 15.
 
-Las sesiones de la Sala Superior serán públicas, con excepción de los casos en que la moral, el interés público o la Ley exijan que sean reservadas. Se llevarán a cabo en forma ordinaria una vez a la semana y en forma extraordinaria cuando el Presidente lo considere necesario.
-
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 16.
 
-La Sala Superior resolverá los asuntos de su competencia por unanimidad o, en su caso, por mayoría de votos de los Magistrados que la integran, quienes no podrán abstenerse de votar a menos que tengan impedimento legal, en los términos del artículo 51 de la presente Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 17.
 
-A la Sala Superior le corresponde:
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+ARTICULO 17 BIS. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-I. Elegir, de entre los Magistrados de la Sala Superior, al Presidente del Tribunal, quien será también el Presidente de la Sala Superior, durará en funciones dos años y no podrá ser reelecto para el siguiente periodo;
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
-
-II. Fijar la adscripción de los Magistrados. Secretarios, Actuarios y Asesores Jurídicos de las Salas Regionales;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-III. Resolver los recursos de Revisión que se presenten en contra de las resoluciones que dicten las Salas Regionales, conforme lo dispone el Capítulo II del Título Cuarto de esta Ley;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Resolver las solicitudes de Destitución de Servidor Público, y las solicitudes de vista al Ministerio Público que se presenten;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-V. Conocer y resolver las excitativas de justicia que promuevan las partes;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Resolver los conflictos de competencia que se susciten entre las Salas;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Calificar las excusas, recusaciones e impedimentos de los Magistrados y, en su caso, designar a los Secretarios que deban sustituirlos;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Ejercer la facultad de atracción al cierre de la instrucción, en los casos que sea de excepcional interés y trascendencia la materia del juicio;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Ordenar aún de oficio, que se reabra la instrucción cuando amerite;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-X. Establecer, modificar y suspender la Jurisprudencia y Tesis del Tribunal y en el mismo acuerdo ordenar su publicación;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-XI. Expedir y modificar el Reglamento Interior del Tribunal;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-XII. Nombrar y remover al Secretario General de Acuerdos, al Secretario de Capacitación Jurídica, Normatividad y Estadística, al Jefe de la Unidad de Apoyo Administrativo, a los Secretarios de Acuerdos, a los Actuarios y demás personal técnico y administrativo, con la opinión del Magistrado de su Sala de adscripción;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-XIII. Discutir y aprobar anualmente el Proyecto de Presupuesto de Egresos del Tribunal y remitirlo a más tardar, el día 30 (sic) agosto de cada año, al Poder Ejecutivo del Estado, para su presentación al Poder Legislativo;
-
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-XIV. Conceder licencias a los Magistrados hasta por quince días con goce de sueldo, y hasta por dos meses, sin goce de sueldo;
-
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-XV. Dictar las medidas que exijan la disciplina y buen funcionamiento del Tribunal imponiendo, en su caso, las sanciones administrativas que procedan, a los Secretarios, Actuarios y demás personal del Tribunal en los términos del Reglamento Interior;
-
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-XVI. Dictar los acuerdos necesarios para el despacho pronto y expedito de los asuntos que sean competencia del Tribunal; y,
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-XVII. Las demás atribuciones que le confieren ésta y otras leyes y reglamentos.
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-ARTICULO 17 BIS. Además de las atribuciones mencionadas en el artículo anterior, la Sala Superior, en materia de Responsabilidades Administrativas, tendrá las siguientes facultades:
-
-I. Resolver el recurso de apelación que interpongan las partes en contra de las resoluciones dictadas por la o las Salas Regionales Unitarias Especializadas en Materia de Responsabilidades Administrativas del Tribunal;
-
-II. Ejercer su facultad de atracción para resolver los procedimientos administrativos sancionadores por faltas graves, cuya competencia primigenia corresponda a la o las Salas Regionales Unitarias Especializadas en Materia de Responsabilidades Administrativas del Tribunal, siempre que los mismos revistan los requisitos de importancia y trascendencia; entendiendo por lo primero, que el asunto pueda dar lugar a un pronunciamiento novedoso o relevante en materia de responsabilidades administrativas; y, por lo segundo, que sea necesario sentar un criterio que trascienda la resolución del caso, a fin de que sea orientador a nivel estatal.
-
-III. El ejercicio de la facultad de atracción podrá ser solicitada (sic) por cualquiera de los Magistrados de la Sala Superior o bien por los Magistrados de la o las Salas Regionales Unitarias Especializadas en Materia de Responsabilidades Administrativas;
-
-IV. Resolver el recurso de reclamación que proceda en los términos de la Ley de Responsabilidades Administrativas del Estado;
-
-V. Conocer de asuntos que le sean turnados para sancionar responsabilidades administrativas que la ley determine como graves en casos de servidores públicos y de los particulares que participen en dichos actos;
-
-VI. Conocer del recurso por medio del cual se califica como grave la falta administrativa que se investiga contra un servidor público;
-
-VII. Imponer las medidas precautorias y medidas cautelares que le soliciten en los términos de lo establecido en la Ley de Responsabilidades Administrativas del Estado, cuando sean procedentes, con una duración no mayor a noventa días hábiles;
-
-VIII. Fincar a los servidores públicos y particulares responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, o al patrimonio de los entes públicos estatales o municipales;
-
-IX. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves, inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas, así como posibles nombramientos para ejercer empleo, cargo o comisión públicos del orden estatal o municipal, según corresponda;
-
-X. Sancionar a las personas morales cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. En estos casos podrá procederse a la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública estatal o municipal, o al patrimonio de los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves. En estos supuestos la sanción se ejecutará hasta que sea definitiva;
-
-XI. Cada cinco años, presentar el diagnóstico cualitativo y cuantitativo sobre el trabajo del Tribunal en materia de responsabilidades administrativas, el cual deberá ser remitido al Comité Coordinador del Sistema Estatal y Municipal Anticorrupción, por conducto de su secretario ejecutivo, a efecto de que el citado Comité emita recomendaciones sobre la creación o supresión de Salas Regionales Unitarias Especializadas en la materia;
-
-XII. Realizar las gestiones necesarias para garantizar las condiciones que permitan a los Magistrados de la propia Sala o a los Magistrados de la o las Salas Regionales Unitarias Especializadas en Materia de Responsabilidades Administrativas, ejercer con normalidad y autonomía sus atribuciones; y,
-
-XIII. Las señaladas en las demás leyes como competencia exclusiva de la Sala Superior del Tribunal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ### CAPITULO V. DEL PRESIDENTE DEL TRIBUNAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2017)</small>
-
 ###### ARTICULO 18.
 
-La persona titular de la Magistratura que ostente la Presidencia del Tribunal tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
-
-I.- Presidir la Sala Superior y las sesiones de dicho Órgano Supremo;
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
-
-II.- Representar al Tribunal y a la Sala Superior;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-III.- Rendir al Pleno en el mes de mayo de cada año, informe de actividades, mismo que deberá remitirse al Congreso del Estado;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IV.- Comunicar al Congreso del Estado las faltas definitivas de los Magistrados para que emita el nombramiento correspondiente, en los términos del artículo 5 de la presente Ley. Aviso que deberá efectuar, dentro del término de cinco días hábiles, a partir del momento en que las mismas, se conviertan en definitivas.
-
-Adquieren el carácter de definitivas, las ausencias consecutivas de los Magistrados por más de cinco días hábiles, una vez concluidos los permisos o licencias concedidas conforme a la presente Ley, siempre que no exista causa justificada para ello.
-
-V.- Conceder licencias hasta por quince días a los servidores del Tribunal, con o sin goce de sueldo,
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
-
-VI.- Despachar la correspondencia del Tribunal y de la Sala Superior, así como autorizar conjuntamente con el Secretario General de Acuerdos las Actas y despachos del Tribunal;
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
-
-VII.- Realizar los actos y dictar los acuerdos para los que no se requiere la intervención de la Sala Superior;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VIII.- Nombrar y remover al Secretario de Presidencia, quien desarrollará las funciones que le encomiende la misma;
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
-
-IX.- Proponer al Pleno el proyecto de Presupuesto de Egresos del Tribunal, y ejercer el presupuesto aprobado, rindiéndole informe trimestral relativo a su ejercicio;
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2017)</small>
-
-X.- Formar parte del Comité Coordinador del Sistema Estatal y Municipal Anticorrupción en términos de lo dispuesto por la Ley del Sistema Anticorrupción del Estado;
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2017)</small>
-
-XI.- Rendir un informe anual al Congreso del Estado basado en indicadores en materia de responsabilidades administrativas, tomando en consideración las directrices y políticas que emita el Comité Coordinador del Sistema Estatal y Municipal Anticorrupción; y,
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
-
-XII.- Las demás que le señalen la Sala Superior, esta Ley y otros ordenamientos legales aplicables.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ### CAPITULO VI. DE LAS SALAS REGIONALES
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
 ###### ARTICULO 19.
 
-Las Salas Regionales serán unitarias y contarán con el siguiente personal: un Magistrado Instructor de Sala, un Primer Secretario de Acuerdos, los Secretarios de Acuerdos, Actuarios y personal jurídico y administrativo, que requieran para su funcionamiento.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 20.
 
-Cuando por las necesidades del servicio se requiera y exista suficiencia presupuestaria, la Sala Superior dispondrá la creación de nuevas Salas Regionales previa publicación en el Periódico Oficial "El Estado de Sinaloa", en la que deberá precisarse su competencia territorial.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 21.
 
-Las Salas Regionales para el desempeño de sus funciones, tendrán la residencia y jurisdicción que determine el Reglamento Interior del Tribunal.
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 22.
 
-Las Salas serán competentes para conocer y resolver los juicios que establece el artículo 13 de esta Ley y los previstos en otros ordenamientos legales aplicables.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-La competencia territorial de las Salas se determina en razón del domicilio del actor y si radica fuera del Estado podrá elegir la Sala Regional más cercana a su domicilio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 23.
 
-Son atribuciones de los Magistrados de Sala Regional:
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-I. Dictar las resoluciones de los asuntos de su competencia,
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
-
-II. Despachar la correspondencia de la Sala de su adscripción;
-
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
-
-III. Hacer uso de los medios de apremio y aplicar las medidas disciplinarias que se establecen en esta ley, para que se cumplan sus determinaciones y para mantener el buen orden en el desarrollo de las audiencias o diligencias, exigiendo el respeto y consideración debidos;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Rendir mensualmente un informe a la Sala Superior del Tribunal respecto de las labores de las Salas y de las principales resoluciones dictadas por ellas;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-V. Elegir, de entre los Secretarios de Acuerdos, al Secretario Primero de cada Sala Regional del Tribunal;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Imponer las correcciones disciplinarias al personal adscrito a la misma, en los términos del Reglamento Interior; y,
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Las demás que le señale la Sala Superior, esta Ley y otros ordenamientos legales aplicables.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ### CAPITULO VI BIS. DE LA O LAS SALAS REGIONALES UNITARIAS ESPECIALIZADAS EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+ARTICULO 23 BIS. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-ARTICULO 23 BIS. La o las Salas Regionales Unitarias Especializadas en Materia de Responsabilidades Administrativas, conocerán de:
+ARTICULO 23 BIS-A. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-A. Los procedimientos y resoluciones a que se refiere el artículo 13, fracción V de esta Ley, con las siguientes facultades:
+ARTICULO 23 BIS-B. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-I. Resolverá respecto de las faltas administrativas graves, investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control respectivos, según sea el caso, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes;
+ARTICULO 23 BIS-C. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-II. Impondrán sanciones que correspondan a los servidores públicos y particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades. Así como fincar a los responsables el pago de las cantidades por concepto de responsabilidades resarcitorias, las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o al patrimonio de los entes públicos locales o municipales; y
-
-III. Dictar las medidas preventivas y cautelares para evitar que el procedimiento sancionador quede sin materia, y el desvío de recursos obtenidos de manera ilegal.
-
-B. Los procedimientos, resoluciones definitivas o actos administrativos, siguientes:
-
-I. Las que se dicten en materia administrativa sobre interpretación y cumplimiento de contratos de obras públicas, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la Administración Pública Estatal y Municipal;
-
-II. Las que nieguen la indemnización o que por su monto, no satisfagan al reclamante y las que impongan la obligación de resarcir daños y perjuicios pagados con motivo de la reclamación, en los términos que la Ley contenga el régimen especial de responsabilidad patrimonial del Estado;
-
-III. De las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento; y
-
-IV. Las resoluciones definitivas por las que se impongan sanciones administrativas a los servidores públicos en términos de la legislación aplicable, así como contra las que decidan los recursos administrativos previstos en dichos ordenamientos.
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-ARTICULO 23 BIS-A. Además de las atribuciones señaladas en el artículo 23 para los Magistrados de (sic) Sala Regional Unitaria, los Magistrados de la Sala o Salas Regionales Unitarias Especializadas en Materia de responsabilidades administrativas, tendrán las siguientes:
-
-I. Admitir, prevenir, reconducir o mejor proveer, la acción de responsabilidades contenida en el informe de presunta responsabilidad administrativa;
-
-II. Admitir o tener por contestada la demanda, en sentido negativo;
-
-III. Admitir o rechazar la intervención del tercero;
-
-IV. Admitir, desechar o tener por no ofrecidas las pruebas;
-
-V. Admitir, desechar y tramitar los incidentes y recursos que le competan, y formular los proyectos de resolución y de aclaraciones de la resolución;
-
-VI. Dictar los acuerdos o providencias de trámite necesarios para instruir el procedimiento sancionatorio y acordar las promociones de las partes y los informes de las autoridades;
-
-VII. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado, así como dictar la resolución correspondiente a la medida cautelar definitiva que se estime procedente;
-
-VIII. Designar al perito tercero;
-
-IX. Solicitar la debida integración del expediente para un mejor conocimiento de los hechos en la búsqueda de la verdad material, asimismo los Magistrados podrán acordar la exhibición de cualquier documento que tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido ofrecida por las partes, en el procedimiento de investigación;
-
-X. Dirigir la audiencia de vista con el personal de apoyo administrativo y jurisdiccional que requiera; y,
-
-XI. Las demás que le señale la Sala Superior, esta Ley y demás ordenamientos legales aplicables.
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-ARTICULO 23 BIS-B. Además de las atribuciones mencionadas en el artículo 26, los Secretarios de Acuerdo del Tribunal que se encuentren adscritos a la Sala o Salas Regionales Unitarias Especializadas en Materia de responsabilidades administrativas, tendrán las siguientes:
-
-I. Elaborar el proyecto de acuerdo de radicación de las acciones de responsabilidad remitidas por las autoridades competentes en términos de la Ley de Responsabilidades Administrativas del Estado;
-
-II. Realizar el proyecto de devolución de las acciones de responsabilidad, cuando de su análisis determine que la conducta no está prevista como falta administrativa grave;
-
-III. Formular el proyecto de resolución correspondiente, que incluirá la imposición de las sanciones administrativas que correspondan al servidor público que haya cometido faltas administrativas graves y, en su caso, a los particulares que hayan incurrido en las mismas; y,
-
-IV. Las demás que le señale la Sala Superior, la Sala Regional Unitaria Especializada en materia de responsabilidades administrativas de su adscripción, esta Ley y demás ordenamientos legales aplicables.
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-ARTICULO 23 BIS-C. A la o las Salas Regionales Unitarias Especializadas en materia de responsabilidades administrativas le serán aplicables las reglas de integración, creación y residencia, previstas en los artículos 19, 20 y 21 de esta Ley.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ### CAPITULO VII. DE LOS SECRETARIOS, ACTUARIOS Y JEFE DE LA UNIDAD DE APOYO ADMINISTRATIVO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 1998)</small>
-
 ###### ARTICULO 24.
 
-Son atribuciones del Secretario General de Acuerdos:
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
-
-I. Fungir como Secretario de Acuerdos de la Sala Superior y dar fe pública en los asuntos de su competencia, firmando en unión del Presidente, las actas y despachos del Tribunal y de la Sala Superior;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-II. Suplir las faltas temporales de los Magistrados de Sala Superior, o en su caso las definitivas hasta en tanto el Congreso del Estado emita el nombramiento del Magistrado respectivo;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-III. Acordar con el Presidente lo relativo a las sesiones de la Sala Superior, dando cuenta con los asuntos a tratar en las mismas; tomar la votación de los Magistrados y formular el acta respectiva;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Levantar las actas correspondientes recabando las firmas de los participantes y autorizarlas con su rúbrica;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-V. Expedir las certificaciones de las constancias que obren en los expedientes del Tribunal;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Engrosar los fallos del Tribunal, autorizándolos con su firma, conjuntamente con el Presidente;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Llevar los libros de gobierno, de registro de documentos y de personas que puedan ser peritos ante el Tribunal;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Proyectar los autos y resoluciones que le indique el Presidente del Tribunal; y,
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Las demás que le encomiende la Sala Superior y el Presidente, las que le señale esta Ley y otros ordenamientos legales aplicables.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 25.
 
-Son atribuciones del Secretario de Capacitación Jurídica, Normatividad y Estadística las siguientes:
-
-I. Compilar la Jurisprudencia, las tesis que constituyan precedente, las Sentencias del Tribunal y de otros Tribunales relacionados con la materia administrativa y fiscal; así como, la de observancia obligatoria para el Tribunal;
-
-II. Diseñar los programas de capacitación para el personal del Tribunal, así como la elaboración de los manuales operativos y de funciones;
-
-III. Compilar y sistematizar las reglamentaciones estatales y municipales que corresponden a la competencia del Tribunal;
-
-IV. Organizar, coordinar y controlar la prestación de servicio social;
-
-V. Compilar la estadística mensual y anual de la Sala Superior y de las Salas Regionales;
-
-VI. Apoyar en la difusión de las actividades del Tribunal;
-
-VII. Las que encomiende la Sala Superior y el Presidente del Tribunal; y,
-
-VIII. Las demás que señale esta Ley, el Reglamento Interior del Tribunal y otros ordenamientos legales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 26.
 
-Son atribuciones de los Secretarios de Acuerdos del Tribunal:
-
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
-
-I. Dar fe pública en los asuntos de su competencia;
-
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
-
-II. Dar cuenta al Magistrado de la Sala de su adscripción con las promociones presentadas por las partes, dentro de las veinticuatro horas siguientes;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-III. Redactar y autorizar las actas y acuerdos que recaigan en relación a las promociones presentadas en los expedientes cuyo trámite se les encomiende;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Acordar con el Magistrado de la Sala de su adscripción, y desahogar lo relativo a las audiencias;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-V. Proyectar las resoluciones y engrosar los fallos de la Sala a la que estén adscritos, autorizándolos con su firma en unión del Magistrado;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Cuidar que los expedientes sean exactamente foliados al agregarse cada una de las hojas, rubricar todas éstas y poner el sello del Tribunal en el fondo del expediente, de manera que queden selladas las dos caras;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Expedir las certificaciones de las constancias que obren en los expedientes de la Sala a la que estén adscritos;
-
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Llevar los Libros de Gobierno, de registro de documentos y de las personas que puedan ser peritos ante la Sala;
-
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Efectuar las diligencias que les encomiende el Magistrado de la Sala, cuando éstas deban practicarse fuera del local del Tribunal;
-
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-X. Rendir informe mensual de labores al Magistrado de Sala de su adscripción; y,
-
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-XI. Las demás que le encomiende la Sala Superior, el Magistrado Presidente, el Magistrado de la Sala de su adscripción, las que señale esta Ley y otros ordenamientos legales aplicables.
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-El Secretario Primero de las Salas Regionales además de las anteriores atribuciones, tendrá la responsabilidad de suplir al Magistrado en sus faltas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 27.
 
-Son atribuciones de los Actuarios:
-
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
-
-I. Dar fe pública en los asuntos de su competencia;
-
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
-
-II. Notificar, en tiempo y forma prescritos por esta Ley, las resoluciones recaídas en los expedientes que les sean turnados para tal efecto, formulando los oficios de notificación de los acuerdos que se dicten enviándolos a su destino, asentando en el expediente la razón de haber hecho la notificación y de haber entregado los oficios respectivos;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-III. Practicar las diligencias que les encomiende el Magistrado;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Rendir un informe mensual de las actividades realizadas al Magistrado de la Sala a la que esté asignado; y,
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-V. Las demás que le señalen la Sala Superior, el Magistrado Presidente, el Magistrado de la Sala de su adscripción, los Secretarios de la misma, esta Ley y otros ordenamientos legales aplicables.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 28.
 
-Las faltas temporales del Secretario General de Acuerdos, y las de los Secretarios de Acuerdos de las Salas Regionales serán suplidas por el servidor público del Tribunal que designe la Sala Superior.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 29.
 
-Corresponde al jefe de la Unidad de Apoyo Administrativo:
-
-I. Formular el anteproyecto del presupuesto del Tribunal;
-
-II. Llevar un control sobre el ejercicio del presupuesto y ejecutar las órdenes relacionadas con dicho ejercicio;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-III. Supervisar el funcionamiento del archivo del Tribunal e integrar los expedientes del personal jurídico y administrativo del Tribunal;
-
-IV. Tramitar los movimientos de personal y vigilar el cumplimiento de las obligaciones laborales de los empleados administrativos;
-
-V. Controlar los bienes del Tribunal, mantener actualizado su inventario y vigilar su conservación;
-
-VI. Coordinar la prestación de los demás servicios administrativos necesarios para el buen funcionamiento del Tribunal; y,
-
-VII. Las demás que le señalen la Presidencia y el reglamento Interior del Tribunal.
-
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 30.
 
-El personal del Tribunal tendrá cada año dos periodos de vacaciones de diez días hábiles cada uno, en las fechas señaladas en el calendario que apruebe la Sala Superior, el cual podrá ser o no coincidente con el calendario oficial para el Poder Ejecutivo.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ### CAPITULO VIII. DE LOS ASESORES JURIDICOS
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
 ###### ARTICULO 31.
 
-El particular contará, para la defensa de sus derechos, con asesores jurídicos gratuitos que serán designados por la Sala Superior.
-
-Su funcionamiento será independiente de la función jurisdiccional del Tribunal y se regirán en los términos de este ordenamiento.
-
-Para ser asesor jurídico se requiere cumplir con los requisitos que establece el artículo 11 de la presente Ley.
-
-En el ámbito territorial de cada Sala Regional, habrá mínimamente un Asesor Jurídico gratuito adscrito a la misma.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 32.
 
-Corresponde a los Asesores Jurídicos en forma gratuita:
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-I. Auxiliar a los particulares en la formulación de la demanda y otras promociones que se presenten ante el Tribunal;
-
-II. Asesorar a los particulares, especialmente a las clases menos favorecidas económica y culturalmente, en la tramitación de los juicios y recursos ante el Tribunal;
-
-III. Resolver las consultas que formulen los particulares en materia administrativa o fiscal;
-
-IV. Proponer en cualquier tiempo, la conciliación de intereses ante las autoridades o funcionarios responsables, en los asuntos que presten asesoría; y,
-
-V. Las demás que les señalen las Leyes.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ### CAPITULO IX. DEL ORGANO INTERNO DE CONTROL
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+ARTICULO 32 BIS. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-ARTICULO 32 BIS. El Tribunal contará con un órgano interno de control, con autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Tribunal y de particulares vinculados con faltas graves; para sancionar aquéllas distintas a las que son competencia de la Sala Superior y de la o las Salas Regionales Unitarias especializadas en materia de responsabilidades administrativas; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+ARTICULO 32 BIS-A. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-El órgano interno de control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+ARTICULO 32 BIS-B. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-En el desempeño de su cargo, el titular del órgano interno de control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+ARTICULO 32 BIS-C. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+ARTICULO 32 BIS-D. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-ARTICULO 32 BIS-A. El titular del órgano interno de control deberá reunir los siguientes requisitos:
+ARTICULO 32 BIS-E. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
-I. Ser ciudadano mexicano, preferentemente sinaloense residente del Estado, en pleno goce de sus derechos civiles y políticos,
-
-II. Tener por lo menos treinta años cumplidos el día de la designación;
-
-III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena de prisión;
-
-IV. No haber sido Secretario o Subsecretario de Estado, Fiscal General, Gobernador, Diputado, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación;
-
-V. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos y responsabilidades administrativas;
-
-VI. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
-
-VII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios al Tribunal o haber fungido como consultor o auditor externo del Tribunal en lo individual durante ese periodo; y
-
-VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-ARTICULO 32 BIS-B. El titular del órgano interno de control será designado por el pleno del Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes. Durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley.
-
-Tendrá un nivel jerárquico igual al Jefe de la Unidad de Apoyo Administrativo o su equivalente en la estructura orgánica del Tribunal, y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
-
-El titular del órgano interno de control deberá rendir informe semestral y anual de actividades a la Sala Superior, del cual remitirá copia al Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-ARTICULO 32 BIS-C. El órgano interno de control tendrá las siguientes atribuciones:
-
-I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
-
-II. Verificar que el ejercicio de gasto del Tribunal se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
-
-III. Presentar a la Sala Superior los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Tribunal;
-
-IV. Revisar que las operaciones presupuestales que realice el Tribunal, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
-
-V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
-
-VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Tribunal;
-
-VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el mismo;
-
-VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Tribunal, empleando la metodología que determine;
-
-IX. Recibir quejas y denuncias conforme a las leyes aplicables;
-
-X. Solicitar la información y efectuar visitas a las áreas y órganos del Tribunal para el cumplimento de sus funciones;
-
-XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas;
-
-XII. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión de mandos medios y superiores, en los términos de la normativa aplicable;
-
-XIII. Participar, conforme a las disposiciones vigentes, en los comités de los que éste forme parte;
-
-XIV. Atender las solicitudes de los diferentes órganos del Tribunal en los asuntos de su competencia;
-
-XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal o recursos;
-
-XVI. Formular su anteproyecto de presupuesto;
-
-XVII. Presentar al Tribunal los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Magistrado Presidente;
-
-XVIII. Presentar al Tribunal los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas; y
-
-XIX. Las demás que le confieran otros ordenamientos.
-
-El titular del órgano interno de control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos y privados, con excepción de los cargos docentes.
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-ARTICULO 32 BIS-D. El titular del órgano interno de control será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
-
-Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Tribunal serán sancionados por su titular o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-ARTICULO 32 BIS-E. El órgano interno de control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de todos los servidores públicos del Tribunal, de conformidad con la Ley del Sistema Anticorrupción y la Ley de Responsabilidades Administrativas, ambas del Estado, y Ley General de Responsabilidades Administrativas.
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-ARTICULO 32 BIS-F. Los servidores públicos adscritos al órgano interno de control del Tribunal y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+ARTICULO 32 BIS-F. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 ## TITULO SEGUNDO. DEL PROCEDIMIENTO DE LO CONTENCIOSO ADMINISTRATIVO
 
@@ -1299,23 +613,41 @@ II. Se contarán por días hábiles, entendiéndose por éstos, aquéllos en que
 
 ### CAPITULO IV. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 51.
 
-Los Magistrados del Tribunal estarán impedidos para conocer en los siguientes casos:
+Los Magistrados que integran el Tribunal, estarán impedidos para conocer de los asuntos por las causas siguientes:
 
-I. Si tienen interés personal en el asunto;
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados, sus representantes, patronos o defensores;
 
-II. Si son parientes consanguíneos, afines o civiles de alguna de las partes o de sus representantes, en línea recta sin limitación de grado; dentro del cuarto grado en línea colateral por consanguinidad, o dentro del segundo por afinidad.
+II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere la fracción anterior;
 
-III. Si han sido abogados o apoderados de alguna de las partes, en el mismo asunto;
+III. Tener interés personal en el asunto, o tenerlo su cónyuge o concubino, o sus parientes, en los grados que expresa la fracción I de este articulo;
 
-IV. Si han actuado como asesores o intervenido con cualquier carácter en la emisión o ejecución del acto impugnado;
+IV. Haber presentado denuncia el servidor público, su cónyuge o sus parientes, en los grados que expresa la fracción I, en contra de alguno de los interesados;
 
-V. Si figuran como parte en juicio similar, pendiente de resolución por el Tribunal; y,
+V. Tener pendiente el servidor público, su cónyuge o sus parientes, en los grados de parentesco un juicio contra alguno de los interesados o no haber transcurrido más de un año desde la fecha de la terminación del que hayan seguido hasta la fecha en que tome conocimiento del asunto;
 
-VI. Si tuviesen amistad estrecha o enemistad manifiesta con alguna de las partes o sus representantes.
+VI. Haber sido procesado el servidor público, su cónyuge o parientes, en virtud de querella o denuncia presentada ante las autoridades, por alguno de los interesados, sus representantes, patronos o defensores;
+
+VII. Estar pendiente de resolución un asunto que hubiese promovido como particular, o tener interés personal en el asunto donde alguno de los interesados sea parte;
+
+VIII. Haber solicitado, aceptado o recibido, por sí o por interpósita persona, dinero, bienes, muebles o inmuebles, mediante enajenación en precio notoriamente inferior al que tenga en el mercado ordinario o cualquier tipo de dádivas, sobornos, presentes o servicios de alguno de los interesados;
+
+IX. Hacer promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes, patronos o defensores, o amenazar de cualquier modo a alguno de ellos;
+
+X. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal de alguno de los interesados;
+
+XI. Ser o haber sido tutor o curador de alguno de los interesados o administrador de sus bienes por cualquier título;
+
+XII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el servidor público ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido;
+
+XIII. Ser cónyuge, concubino o hijo del servidor público, acreedor, deudor o fiador de alguno de los interesados;
+
+XIV. Haber sido agente del Ministerio Público, jurado, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto en favor o en contra de alguno de los interesados; y
+
+XV. Haber sido Juez o Magistrado en el mismo asunto, en otra instancia.
 
 ###### ARTICULO 52.
 
@@ -1795,11 +1127,11 @@ Las partes podrán recusar a los Magistrados de las Salas Regionales cuando est�
 
 A falta del informe a que se refiere el último párrafo del artículo 76 de esta Ley, se presumirá cierto el impedimento. Si la Sala Superior declara fundada la recusación, en la resolución respectiva decidirá que Magistrado deba conocer del asunto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 80.
 
-Cuando ante una de las Salas Regionales se promueva juicio del que otra deba conocer por razón de territorio, se declarará incompetente de plano y comunicará su resolución a la que en su concepto corresponda ventilar el negocio, enviándole los autos. Recibido el expediente por la Sala requerida, decidirá de plano dentro de las cuarenta y ocho horas siguientes, si acepta o no el conocimiento del asunto. Si la Sala Regional requerida acepta, comunicará su resolución a la requirente, a las partes y a la Sala Superior; en caso contrario informará de la misma manera, a fin de que la Sala Superior proceda a la resolución del conflicto, en los términos de la fracción X del artículo 17 de esta Ley.
+Cuando ante una de las Salas Regionales se promueva juicio del que otra deba conocer por razón de territorio, se declarará incompetente de plano y comunicará su resolución a la que en su concepto corresponda ventilar el negocio, enviándole los autos. Recibido el expediente por la Sala requerida, decidirá de plano dentro de las cuarenta y ocho horas siguientes, si acepta o no el conocimiento del asunto. Si la Sala Regional requerida acepta, comunicará su resolución a la requirente, a las partes y al Pleno del Tribunal; en caso contrario, informará de la misma manera, a fin de que el Pleno proceda a la resolución del conflicto, en los términos de la fracción VI del artículo 11 de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Sinaloa.
 
 En caso de que la Sala no decline su competencia de plano, cualquiera de las partes podrá iniciar el incidente respectivo dentro de los cinco días siguientes a aquel en que conoció el hecho que lo motive. Deberá presentarse ante el Magistrado del conocimiento, quien procederá en los términos del último párrafo del artículo 76 de esta Ley.
 
@@ -2916,3 +2248,23 @@ El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaci
 ###### ARTÍCULO VIGÉSIMO.
 
 Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 831 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SINALOA Y, SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa.
+
+SEGUNDO. Los juicios y demás asuntos que se encuentren en trámite o pendientes de resolver a la entrada en vigor del presente Decreto, serán tramitados y resueltos hasta su conclusión de conformidad con las disposiciones aplicables vigentes a su inicio.
+
+TERCERO. La Sala Superior deberá realizar las modificaciones pertinentes al Reglamento Interior del Tribunal, derivadas del presente Decreto dentro de los 90 días posteriores al inicio de vigencia del mismo.
+
+El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor del presente Decreto, seguirá aplicándose en aquello que no se oponga a éste, hasta que la Sala Superior expida las modificaciones o el nuevo Reglamento Interior del Tribunal en su caso.
+
+La facultad establecida en el artículo 11, fracción XVII de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Sinaloa únicamente podrá ser ejercida por la Sala Superior y atendida por el Ejecutivo del Estado, respecto de Magistrados de dicho Tribunal nombrados con posterioridad al inicio de vigencia del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el día 27 de mayo de 2015, de conformidad con su artículo transitorio octavo, tercer párrafo.
+
+CUARTO. La Sala Superior deberá expedir el Estatuto del Servicio Profesional de Justicia Administrativa, dentro de los 90 días posteriores al inicio de vigencia del mismo.
+
+QUINTO. El Centro de Estudios Sobre Justicia Administrativa que se crea mediante el presente Decreto deberá iniciar sus operaciones dentro de los seis meses posteriores al inicio de vigencia del mismo, debiéndose realizar en dicho plazo las adecuaciones pertinentes al Reglamento Interior del Tribunal.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente ordenamiento.
