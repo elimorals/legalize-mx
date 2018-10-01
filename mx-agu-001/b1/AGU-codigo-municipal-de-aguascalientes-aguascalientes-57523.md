@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-09-17"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -9136,6 +9136,12 @@ VII. Calles, parques, jardines y su equipamiento;
 VIII. Seguridad Pública y Tránsito; y
 
 IX. Las demás necesarias para la organización y administración del Municipio.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 411 BIS.- El alumbrado público es el servicio, que el municipio de Aguascalientes suministra a la ciudadanía y que se instala en las vialidades, calzadas, plazas, parques y en todos los lugares públicos de uso común, mediante la instalación del sistema de alumbrado público, el cual consiste en una red eléctrica compuesta por dispositivos que proporcionan iluminación, bienestar, seguridad, confort visual para la población en general.
+
+El sistema de Alumbrado Público consiste en circuitos eléctricos cuyos componentes son: los ductos de canalización y registros, el ancla, arbotante compuesto por punta poste, poste, brazo, luminaria y cable, además del equipo de control, los cuales son parte del patrimonio y propiedad municipal.
 
 ###### ARTÍCULO 412.
 
@@ -25865,17 +25871,9 @@ En caso de que la prestación del servicio de limpia y recolección de residuos 
 
 Cuando el infractor sea persona moral, no estará exento de pago ni recibirá descuento alguno por las multas establecidas en este Código.
 
-V. (DEROGADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-a) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
-
-b) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
-
-c) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
-
-d) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
-
-e) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
+Cuando por la actividad irregular de un tercero se ocasione daños o perjuicios al Municipio, el responsable deberá cubrir su reparación total, la cual será determinada por la autoridad correspondiente, basándose en la cuantificación de la afectación, incluyendo aquellas erogaciones que el Municipio realice con motivo de sanciones impuestas por otras entidades gubernamentales.
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -27718,6 +27716,12 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 P.O. 17 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 31 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO: La presente reforma iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE "ADICIÓN DE UN ARTÍCULO 411 BIS Y DE UN PÁRRAFO QUINTO AL ARTÍCULO 1574 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
 ÚNICO: La presente reforma iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
