@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-y-municipios-de-san-luis-potosi-26
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-24"
-last_updated: "2016-05-07"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de noviembre de 2001.
 
@@ -41,11 +41,11 @@ LEY DE PLANEACION DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 1°.
 
-Las disposiciones de esta Ley son de orden público e interés social; tienen por objeto constituir el Sistema Estatal de Planeación Democrática y Deliberativa, así como determinar las bases y principios de la planeación en las administraciones públicas estatal y municipales; además, las normas de integración, coordinación y participación de autoridades, órganos y sectores sociales y privados que forman al sistema.
+Las disposiciones de esta Ley son de orden público e interés social; tienen por objeto constituir el Sistema Estatal de Planeación Democrática y Deliberativa; así como determinar las bases y principios de la planeación en las administraciones públicas estatal y municipales; además, las normas de integración, coordinación y participación de autoridades, órganos y sectores sociales y privados que forman al sistema; así como establecer las bases y mecanismos que promuevan la participación democrática e igualitaria de las mujeres y hombres del Estado, en la elaboración del Plan y los programas a que se refiere esta Ley.
 
 ###### ARTICULO 2º.
 
@@ -55,9 +55,13 @@ Para efectos de esta Ley se entenderá por:
 
 I. Sistema Estatal de Planeación Democrática y Deliberativa, al conjunto de actividades, procedimientos, instancias e instituciones en el que participan las dependencias y entidades de la administración pública federal, estatal, y municipal; los sistemas de información y consulta; los organismos de los sectores social y privado, y ciudadanos en general vinculados funcionalmente para llevar a cabo en forma coordinada y concertada el proceso de planeación del desarrollo en la Entidad; así como el Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí;
 
-II. Planeación Estatal del Desarrollo, la ordenación racional y sistemática de las acciones gubernamentales, cuyo propósito es la transformación de las condiciones económicas y sociales prevalecientes en la Entidad de conformidad con las normas y principios legales establecidos, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-III. Planeación Estratégica, al instrumento de la planeación estatal del desarrollo que ordenará las políticas públicas mediante estrategias, objetivos, metas, prioridades y acciones; al asignar recursos, responsabilidades y tiempos de ejecución; y así como al concertar la participación de los sectores social y privado.
+II. Planeación Estatal del Desarrollo, la ordenación racional y sistemática de las acciones gubernamentales, cuyo propósito es la transformación de las condiciones económicas y sociales prevalecientes en la Entidad, de conformidad con las normas y principios legales establecidos en las Constituciones, Federal, y Estatal, y
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+III. Planeación Estratégica, al instrumento de la planeación estatal del desarrollo que ordenará las políticas públicas mediante estrategias, objetivos, metas, prioridades y acciones; al asignar recursos, responsabilidades y tiempos de ejecución; así como al concertar la participación democrática y con perspectiva de derechos humanos y de género de los sectores social y privado.
 
 ###### ARTICULO 3º.
 
@@ -67,7 +71,9 @@ I. El fortalecimiento de la autonomía del Estado en lo político, lo económico
 
 II. La consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento económico, social y cultural de la sociedad, impulsando la participación activa de sus sectores y organizaciones en la planeación, ejecución y vigilancia de los programas de desarrollo;
 
-III. La igualdad de derechos, la atención de las necesidades básicas y el mejoramiento de la calidad de vida de la población, particularmente de los grupos sociales que no disponen de los satisfactores esenciales;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+III. La promoción de políticas, planes y programas con perspectiva de género, que consoliden la igualdad de derechos buscando evitar toda forma de discriminación, que fomenten y garanticen el respeto a los derechos humanos en la atención de las necesidades básicas y el mejoramiento de la calidad de vida de la población, particularmente de los grupos sociales que no disponen de los satisfactores esenciales;
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2016)</small>
 
@@ -77,65 +83,55 @@ IV. El impulso del desarrollo regional equilibrado y el fortalecimiento de la au
 
 V. El equilibrio de los factores productivos, que proteja y promueva el empleo y la inversión, en un marco de estabilidad económica y social, y
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-VI. De igualdad entre mujeres y hombres.
+VI. La igualdad entre mujeres y hombres, a través del acotamiento de las brechas de desigualdad entre hombres y mujeres, favoreciendo el acceso equitativo de éstas a los bienes, recursos y beneficios del desarrollo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 4°.
 
-El proceso de planeación normado por la presente Ley se sujetará a un instrumento rector denominado Plan Estatal de Desarrollo. Con base en él se elaborarán los demás instrumentos de la planeación del desarrollo estatal, tales como planes municipales, programas regionales, sectoriales, especiales e institucionales, incluyendo el Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí.
+El proceso de planeación normado por la presente Ley se sujetará a un instrumento rector denominado Plan Estatal de Desarrollo. Con base en él se elaborarán los demás instrumentos de la planeación del desarrollo estatal, tales como planes municipales, programas regionales, sectoriales, especiales e institucionales, Incluyendo el Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí, debiendo transversalizar el respeto a los derechos humanos y la perspectiva de género en todos aquellos en que por su naturaleza resulte procedente.
 
 Los objetivos y prioridades de la planeación estatal serán congruentes con los establecidos en la planeación nacional.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 5º.
 
-Los planes y programas derivados del proceso de planeación estratégica serán obligatorios para las dependencias y entidades de la Administración Pública Estatal y Municipal; asimismo, serán la base para la coordinación de acciones entre los tres ámbitos de gobierno y servirán para inducir la participación de los sectores social y privado. Estos planes y programas estarán sujetos a un procedimiento permanente de revisión y actualización que permita ajustarlos a la realidad cambiante del Estado y sus regiones.
+Los planes y programas derivados del proceso de planeación estratégica serán obligatorios para las dependencias y entidades de la Administración Pública Estatal y Municipal; asimismo, serán la base para la coordinación de acciones entre los tres ámbitos de gobierno y servirán para inducir la participación democrática e igualitaria de las mujeres y hombres en los sectores social y privado. Estos planes y programas estarán sujetos a un procedimiento permanente de revisión y actualización que permita ajustarlos a la realidad cambiante del Estado y sus regiones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ABRIL DE 2015)</small>
 
 ### CAPITULO II. DEL SISTEMA ESTATAL DE PLANEACION DEMOCRATICA Y DELIBERATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-###### ARTICULO 6°.
+###### ARTÍCULO 6º.
 
-El Sistema Estatal de Planeación Democrática y Deliberativa se soportará en los esfuerzos de las administraciones públicas federal, estatal y municipales, de los sectores sociales y privado, y de los ciudadanos interesados en el proceso de desarrollo, conforme a las siguientes etapas:
+El Sistema Estatal de Planeación Democrática y Deliberativa se soportará en los esfuerzos de las administraciones públicas federal, estatal y municipales, de los sectores sociales y privado, y de la ciudadanía interesada en el proceso de desarrollo, y tendrá entre sus ejes rectores la transversalización del respeto a los derechos humanos y la perspectiva de género, conforme a las siguientes etapas:
 
-I. En la etapa de formulación se elaborarán los planes estatal y municipales, y los programas regionales, sectoriales, especiales e institucionales con una visión de mediano y largo plazo. Comprende los criterios de coordinación y concertación con los organismos sociales, privados y con la ciudadanía en general; la preparación de diagnósticos económicos, sociales, regionales y sectoriales; y la definición de estrategias, objetivos, metas, prioridades, políticas y acciones;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-II. En la etapa de instrumentación se traducirán los lineamientos y estrategias de los planes estatal y municipales, y de los programas regionales, sectoriales, especiales e institucionales en programas operativos anuales, precisando metas, indicadores de evaluación, asignando recursos, determinando responsables y fijando tiempos de ejecución;
+I. En la etapa de formulación se elaborarán los planes estatal y municipales, y los programas regionales, sectoriales, especiales e institucionales con una visión de mediano y largo plazo y con perspectiva de género, a fin de garantizar que el desarrollo sea equitativo e integral. En la elaboración de los planes y programas se considerará la información que genere el Banco Estatal de Indicadores de Género; además, comprende los criterios de coordinación y concertación con los organismos sociales, privados y con la ciudadanía en general mediante esquemas de participación democrática; la preparación de diagnósticos económicos, sociales, regionales y sectoriales; y la definición de estrategias, objetivos, metas, prioridades, políticas y acciones;
 
-III. En la etapa de control se vigilará que las acciones realizadas cumplan con las normas administrativas, presupuestarias, contables y jurídicas, y que la ejecución de los programas logre los objetivos y prioridades de los planes;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-IV. En la etapa de información se reportarán los avances del Plan Estatal de Desarrollo y de los programas regionales, sectoriales, especiales e institucionales al Sistema Estatal de Información, a través de un sistema de indicadores concertados con las dependencias y entidades de la administración pública estatal.
+II. En la etapa de instrumentación se traducirán los lineamientos y estrategias de los planes estatal y municipales, y de los programas regionales, sectoriales, especiales e institucionales en programas operativos anuales, precisando metas e indicadores de evaluación que faciliten determinar el impacto de los planes y programas, identificando brechas de desigualdad y alternativas para mitigarlas, asignando recursos, determinando responsables y fijando tiempos de ejecución;
 
-Asimismo, se informará del avance del Plan Municipal y de los programas regionales, sectoriales, especiales e institucionales al cabildo del municipio respectivo, mediante un sistema de indicadores concertados con las dependencias y entidades de la administración pública municipal;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-V. En la etapa de evaluación se valorarán cualitativa y cuantitativamente los resultados de los planes Estatal y municipales de Desarrollo, y de los programas regionales, sectoriales, especiales e institucionales por la autoridad estatal o municipal, según corresponda, y
+III. En la etapa de control se vigilará que las acciones realizadas cumplan con las normas administrativas, presupuestarias, contables, y jurídicas, así como con la perspectiva de género, y que la ejecución de los programas logre los objetivos y prioridades de los planes;
 
-VI. En la etapa de actualización se adecuarán los planes Estatal y municipales de Desarrollo, y los programas regionales, sectoriales, especiales e institucionales a las transformaciones del entorno político, económico, social y cultural del Estado, municipios y sus regiones.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2015)</small>
-
-###### ARTICULO 6º.
-
-El Sistema Estatal de Planeación Democrática se soportará en los esfuerzos de las administraciones públicas federal, estatal y municipales, de los sectores social y privado, y de los ciudadanos interesados en el proceso de desarrollo, conforme a las siguientes etapas:
-
-I. En la etapa de formulación se elaborarán los planes estatal y municipales, y los programas regionales, sectoriales, especiales e institucionales con una visión de mediano y largo plazo. Comprende los criterios de coordinación y concertación con los organismos sociales, privados y con la ciudadanía en general; la preparación de diagnósticos económicos, sociales, regionales y sectoriales; y la definición de estrategias, objetivos, metas, prioridades, políticas y acciones;
-
-II. En la etapa de instrumentación se traducirán los lineamientos y estrategias de los planes estatal y municipales, y de los programas regionales, sectoriales, especiales e institucionales en programas operativos anuales, precisando metas, indicadores de evaluación, asignando recursos, determinando responsables y fijando tiempos de ejecución;
-
-III. En la etapa de control se vigilará que las acciones realizadas cumplan con las normas administrativas, presupuestarias, contables y jurídicas, y que la ejecución de los programas logre los objetivos y prioridades de los planes;
-
-IV. En la etapa de información se reportarán los avances del Plan Estatal de Desarrollo y de los programas regionales, sectoriales, especiales e institucionales al Sistema Estatal de Información, a través de un sistema de indicadores concertados con las dependencias y entidades de la administración pública estatal.
-
-Asimismo, se informará del avance del Plan Municipal y de los programas regionales, sectoriales, especiales e institucionales al cabildo del municipio respectivo, mediante un sistema de indicadores concertados con las dependencias y entidades de la administración pública municipal;
+IV. En la etapa de información se reportarán los avances del Plan Estatal de Desarrollo y de los programas regionales, sectoriales, especiales e institucionales al Sistema Estatal de Información, a través de un sistema de indicadores concertados con las dependencias y entidades de la administración pública estatal, precisando en los rubros aplicables el impacto específico y diferencial que dichos planes y programas generen en mujeres y hombres. Asimismo, se informará del avance del Plan Municipal y de los programas regionales, sectoriales, especiales e institucionales al cabildo del municipio respectivo, mediante un sistema de indicadores concertados con las dependencias y entidades de la administración pública municipal, precisando en los rubros aplicables el impacto específico y diferencial que generen en mujeres y hombres;
 
 V. En la etapa de evaluación se valorarán cualitativa y cuantitativamente los resultados de los planes Estatal y municipales de Desarrollo, y de los programas regionales, sectoriales, especiales e institucionales por la autoridad estatal o municipal, según corresponda, y
 
 VI. En la etapa de actualización se adecuarán los planes Estatal y municipales de Desarrollo, y los programas regionales, sectoriales, especiales e institucionales a las transformaciones del entorno político, económico, social y cultural del Estado, municipios y sus regiones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 7°.
 
@@ -175,7 +171,9 @@ II. Del Gobernador del Estado:
 
 a) Conducir el proceso de planeación estatal;
 
-b) Elaborar el Plan Estatal de Desarrollo y presentarlo al Congreso del Estado para su aprobación;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+b) Elaborar el Plan Estatal de Desarrollo con base en la consulta pública, la consulta a las comunidades indígenas, el respeto a los derechos humanos y la perspectiva de género; tomando en cuenta las propuestas de las dependencias y entidades de la administración pública estatal y de los ayuntamientos, y presentarlo al Congreso del Estado para su aprobación.
 
 c) Aprobar los programas regionales, sectoriales, especiales e institucionales derivados del Plan Estatal de Desarrollo;
 
@@ -183,7 +181,9 @@ d) Establecer los lineamientos y criterios para la programación y actividades d
 
 e) Aprobar los programas operativos anuales de la Administración Pública Estatal;
 
-f) Ordenar la asignación de recursos en el ámbito de su competencia;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+f) Ordenar la asignación de recursos en el ámbito de su competencia, considerando dentro de las prioridades aquellas que tiendan a reducir las brechas de género en la Entidad.
 
 g) Rendir un informe anual al Congreso del Estado, sobre la ejecución del Plan Estatal de Desarrollo y sobre el avance de los programas;
 
@@ -197,7 +197,9 @@ III. De los ayuntamientos:
 
 a) Conducir el proceso de planeación municipal;
 
-b) Formular y aprobar el Plan de Desarrollo Municipal, así como los programas que de él se deriven;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+b) Formular y aprobar el Plan de Desarrollo Municipal, así como los programas que de él se deriven tomando en cuenta las propuestas de las dependencias y entidades de la Administración Pública Municipal, los planteamientos que se formulen por los sectores social y privado, por los grupos sociales interesados, así como la perspectiva de género.
 
 c) Aprobar los programas operativos anuales de la Administración Pública Municipal;
 
@@ -207,7 +209,9 @@ e) Proponer a los gobiernos federal y estatal programas de inversión para el de
 
 f) Vigilar que las dependencias y entidades de la Administración Pública Municipal conduzcan sus actividades de acuerdo con los objetivos de los planes de desarrollo estatal y municipal;
 
-g) Vigilar que las dependencias y entidades municipales elaboren sus presupuestos de acuerdo con los programas emanados del Plan de Desarrollo Municipal;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+g) Vigilar que las dependencias y entidades municipales elaboren sus presupuestos de acuerdo con los programas emanados del Plan de Desarrollo Municipal, incorporando en ellos elementos multifactoriales que atiendan transversalmente las brechas de género.
 
 h) Concertar e inducir con los sectores social y privado, acciones encaminadas a la consecución de los objetivos del Plan de Desarrollo Municipal y con los programas que de él se deriven;
 
@@ -227,17 +231,27 @@ n) Evaluar el Plan Municipal de Desarrollo y los programas que de él se deriven
 
 IV. De las dependencias y entidades de la Administración Pública Estatal:
 
-a) Elaborar el programa regional, sectorial, institucional o especial, según corresponda, para su aprobación por el Titular del Ejecutivo;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-b) Conducir la instrumentación, control, evaluación y actualización de los programas estatales;
+a) Elaborar con perspectiva de género y con sujeción a los objetivos y prioridades de la planeación nacional y estatal del desarrollo, el programa regional, sectorial, institucional o especial, según corresponda, para su aprobación por el titular del Ejecutivo, considerando para ese efecto la información que genere el Banco Estatal de Indicadores de Género.
 
-c) Elaborar los programas operativos anuales de la Administración Pública Estatal;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+b) Conducir la instrumentación, control, evaluación y actualización de los programas estatales, incorporando elementos que atiendan la perspectiva de género, y de conformidad con los lineamientos del Sistema Estatal.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+c) Elaborar los programas operativos anuales de la Administración Pública Estatal, cuidando que en ellos se incorporen elementos que favorezcan la progresividad y transversalidad de la perspectiva de género.
 
 d) Establecer la coordinación con otros organismos públicos, sociales y privados para ejecutar las acciones del Plan y programas estatales;
 
-e) Rendir un informe anual al Ejecutivo del Estado, sobre la ejecución del Plan Estatal de Desarrollo en su ámbito de competencia, y sobre el programa regional, sectorial, institucional o especial que corresponda, y
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-f) Proporcionar al Sistema Estatal de Información el avance de la ejecución física y financiera, del Plan, programas y acciones, de conformidad con los requerimientos normativos del sistema;
+e) Rendir un informe anual al Ejecutivo del Estado, sobre la ejecución del Plan Estatal de Desarrollo en su ámbito de competencia, y sobre el programa regional, sectorial, institucional o especial que corresponda, en donde aplique el beneficio diferenciado de éste, en hombres y mujeres.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+f) Proporcionar al Sistema Estatal de Información, el avance de la ejecución física y financiera, del Plan, programas y acciones, con datos de conformidad con los requerimientos normativos del Sistema y reportar al Banco Estatal de Indicadores de Género la información que facilite determinar el impacto de los planes, programas y acciones, en hombres y mujeres. El Banco Estatal de Indicadores de Género se coordinará y auxiliará con el Sistema Estatal, para establecer la precisión de los beneficios de estos Programas;
 
 V. Del Comité de Planeación del Desarrollo Estatal (COPLADE):
 
@@ -245,13 +259,21 @@ a) Ser el foro en el que se compatibilicen, en el ámbito estatal, los esfuerzos
 
 b) Coordinar las actividades del proceso de planeación para el desarrollo de la Entidad, con la participación que corresponda a los gobiernos federal, estatal y municipal, y a los sectores social y privado;
 
-c) Participar en la elaboración del Plan Estatal de Desarrollo y de sus programas regionales, sectoriales, especiales e institucionales, integrando a los mismos los planes municipales, las propuestas de las dependencias y entidades de la administración pública estatal y federal, así como los planteamientos de los grupos sociales, privados y de la ciudadanía en general;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-d) Proponer a las administraciones públicas federal, estatal y municipal programas, proyectos y acciones considerando su viabilidad técnica y financiera, y su impacto en las condiciones económicas y sociales del Estado;
+c) Participar en la elaboración del Plan Estatal de Desarrollo y de sus programas regionales, sectoriales, especiales e institucionales, integrando a los mismos los planes municipales, las propuestas de las dependencias y entidades de la administración pública estatal y federal, la perspectiva de género, así como los planteamientos de los grupos sociales, privados y de la ciudadanía en general, promoviendo la incorporación de indicadores que contribuyan a medir el desempeño de los planes y programas en mujeres y hombres.
 
-e) Vigilar que los lineamientos para la programación-presupuestación anual, garanticen la congruencia entre los programas y proyectos autorizados a las dependencias y entidades con los objetivos y prioridades del Plan Estatal de Desarrollo;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-f) Realizar estudios de los efectos económicos y sociales de los programas y proyectos ejecutados en el marco del Plan y sus programas, y
+d) Proponer a las administraciones públicas federal, estatal y municipal programas, proyectos y acciones considerando su viabilidad técnica y financiera, y su impacto en las condiciones económicas y sociales del Estado, considerando la información que aporte el Banco Estatal de Indicadores de Género.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+e) Vigilar que los lineamientos para la programación-presupuestación anual, garanticen la congruencia entre los programas y proyectos autorizados a las dependencias y entidades con los objetivos y prioridades del Plan Estatal de Desarrollo, alienten el respeto a los derechos humanos y cumplan con la transversalidad de la perspectiva de género.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+f) Realizar estudios de los efectos económicos y sociales de los programas y proyectos ejecutados en el marco del Plan y sus programas, donde se establezca el beneficio diferenciado en mujeres y hombres.
 
 g) Proponer los mecanismos de información para la evaluación y actualización del Plan Estatal de Desarrollo y de sus programas regionales, sectoriales, especiales e institucionales, y
 
@@ -259,19 +281,31 @@ VI. De los Comités de Planeación del Desarrollo Municipal (COPLADEM):
 
 a) Ser la instancia en la cual se institucionaliza la consulta popular para la planeación democrática en el ámbito municipal;
 
-b) Coordinar con los organismos sociales y privados las actividades de la planeación en el ámbito municipal;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-c) Formular y proponer a los gobiernos estatal y federal programas de coinversión y financiamiento para el municipio, congruentes con sus respectivos presupuestos de ingresos y egresos;
+b) Coordinar con los organismos sociales y privados las actividades de la planeación en el ámbito municipal; que consideren la inclusión de la perspectiva de género, de conformidad con los lineamientos del Sistema Estatal.
 
-d) Recibir y analizar las propuestas de inversión que formulen los representantes de las localidades del municipio, dándoles curso a las que se consideren procedentes;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-e) Proponer al Comité de Planeación del Desarrollo del Estado, programas y acciones a ejecutar con recursos directos del Estado, así como la inversión federal directa que contribuyan a alcanzar los objetivos y metas del Plan de Desarrollo Municipal;
+c) Formular y proponer a los gobiernos estatal y federal programas de coinversión y financiamiento para el municipio, congruentes con sus respectivos presupuestos de ingresos y egresos, promoviendo la transversalidad de la perspectiva de género.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+d) Recibir y analizar las propuestas de inversión que formulen los representantes de las localidades del municipio, dándoles curso a las que se consideren procedentes, desagregando los bienes y servicios en función de los hombres y mujeres que resultarían beneficiados.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+e) En el marco de las reuniones del Comité de Planeación del Desarrollo del Estado, gestionar los programas y acciones a ejecutar con recursos directos del Estado, que incorporen elementos que fortalezcan equilibrios de género, así como la inversión federal directa, que contribuyan a alcanzar los objetivos y metas del Plan de Desarrollo Municipal.
 
 f) Promover acuerdos de coordinación entre los sectores público, social y privado, orientados al logro de los objetivos del Plan de Desarrollo Municipal;
 
-g) Llevar un registro sistemático de la obra pública municipal que permita su eficiente control y seguimiento, así como vigilar la ejecución de obras y acciones federales y estatales dentro del Municipio, e informar al Comité de Planeación del Desarrollo del Estado el avance de las mismas, y
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-h) Vigilar el cumplimiento de la normatividad que siguen las acciones del propio Comité, así como los objetivos y metas contenidos en los programas.
+g) Llevar un registro sistemático de la obra pública municipal que permita su eficiente control y seguimiento, así como vigilar la ejecución de obras y acciones federales y estatales dentro del Municipio, e informar al Comité de Planeación del Desarrollo del Estado el avance de las mismas, así como al Banco Estatal de Indicadores de Género en todos aquellos en los que sea medible el beneficio a hombres y mujeres.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+h) Vigilar el cumplimiento de la normatividad que siguen las acciones del propio Comité, los objetivos y metas contenidos en los programas, y la inclusión en éstos de la transversalización de la perspectiva de género.
 
 ###### ARTICULO 9º.
 
@@ -293,7 +327,7 @@ b) Planes municipales de Desarrollo, y
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
 
-c). Programas de mediano plazo y/o largo plazo:
+c) Programas de mediano plazo y/o largo plazo:
 
 1. Regionales;
 
@@ -331,7 +365,9 @@ IV. De evaluación:
 
 a) Informe anual del Titular del Ejecutivo del Estado;
 
-b) Informe anual de los presidentes municipales;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+b) Informe anual de las presidencias municipales.
 
 c) Informes al Congreso del Estado;
 
@@ -339,9 +375,17 @@ d) Informe anual del estado de la Cuenta Pública Estatal y municipales;
 
 e) Informes de los foros de consulta popular;
 
-f ) Informes sectoriales, regionales, institucionales y especiales, y
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-g) Sistema de indicadores de la gestión gubernamental.
+f) Informes sectoriales, regionales, institucionales y especiales;
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+g) Sistema de indicadores de la gestión gubernamental, e
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+h) Información del Banco Estatal de Indicadores de Género.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2015)</small>
 
@@ -349,13 +393,13 @@ g) Sistema de indicadores de la gestión gubernamental.
 
 El Plan Estatal de Desarrollo es el documento orientador del Sistema Estatal de Planeación Democrática y Deliberativa. Deberá elaborarse, aprobarse y publicarse en un plazo no mayor a seis meses a partir de la fecha de toma de posesión del Gobernador del Estado, y su vigencia no excederá del período constitucional que le corresponda.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 12.
 
-En la formulación del Plan Estatal de Desarrollo intervendrán las dependencias y entidades de las administraciones públicas federal, estatal y municipales, los sectores social y privado, y los ciudadanos interesados, a través de una consulta abierta, incluyente y participativa organizada por el Gobierno del Estado.
+En la formulación del Plan Estatal de Desarrollo intervendrán las dependencias y entidades de las administraciones públicas federal, estatal y municipales, los sectores social y privado, y la ciudadanía a través de una consulta abierta, incluyente y participativa organizada por el Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2016)</small>
-
-De la misma forma, las comunidades indígenas de acuerdo a la Ley de Consulta Indígena para el Estado y Municipios de San Luis Potosí, tienen la facultad de participar, pudiéndose apoyar el Ejecutivo del Estado con el Padrón de Comunidades Indígenas de la Entidad.
+De la misma forma, deberá consultarse a la población de las comunidades indígenas de acuerdo a la Ley de Consulta Indígena para el Estado y Municipios de San Luis Potosí, quienes tienen la facultad de participar de manera igualitaria, pudiéndose apoyar el Ejecutivo del Estado con el Padrón de Comunidades Indígenas de la Entidad.
 
 ###### ARTICULO 13.
 
@@ -373,17 +417,21 @@ En la formulación de estos programas se observará su congruencia con el Plan N
 
 Los ayuntamientos planearán sus actividades bajo un Plan Municipal de Desarrollo que deberá elaborarse, aprobarse y publicarse en un plazo no mayor a cuatro meses a partir de la toma de posesión del ayuntamiento; su vigencia no excederá del período constitucional que les corresponda y deberá ser congruente con el Plan Estatal de Desarrollo.
 
-Los ayuntamientos convocarán a foros de consulta popular y tomando en consideración sus resultados, propondrán a través del COPLADEM, los objetivos y prioridades municipales que deban incorporarse al Plan Municipal de Desarrollo.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+Los ayuntamientos convocarán a la ciudadanía, para que en igualdad de condiciones acudan a los foros de consulta popular, y tomando en consideración sus resultados propondrán a través del COPLADEM, los objetivos y prioridades municipales que deban incorporarse al Plan Municipal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 16.
 
-En la formulación del Plan Municipal de Desarrollo intervendrán las comisiones del cabildo, las dependencias y entidades de la Administración Pública Municipal, los grupos sociales y privados, y los ciudadanos del municipio respectivo, a través de una consulta abierta, incluyente y participativa, organizada por el ayuntamiento correspondiente, y contendrá las actividades y servicios públicos municipales.
+En la formulación del Plan Municipal de Desarrollo intervendrán las comisiones del Cabildo, las dependencias y entidades de la Administración Pública Municipal, los grupos sociales y privados, y la ciudadanía del municipio respectivo, a través de una consulta abierta, incluyente y participativa, organizada por el ayuntamiento correspondiente, y contendrá las actividades y servicios públicos municipales.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 17.
 
-Los programas municipales se referirán exclusivamente al ámbito territorial del municipio de que se trate, serán elaborados por las dependencias y entidades municipales a las que corresponda la ejecución de las acciones, y se sujetarán a las previsiones contenidas tanto en el Plan Estatal como en el Plan Municipal respectivo.
-
-Los programas municipales en cuyas acciones participen tanto la Administración Pública Estatal como Municipal, serán elaborados coordinadamente por las dependencias y entidades involucradas.
+Los programas municipales se referirán exclusivamente al ámbito territorial del municipio de que se trate, serán elaborados por las dependencias y entidades municipales a las que corresponda la ejecución de las acciones, y se sujetarán a las previsiones contenidas tanto en el Plan Estatal como en el Plan Municipal respectivo, considerando la inclusión de la perspectiva de género.
 
 ###### ARTICULO 18.
 
@@ -407,15 +455,19 @@ d) De inducción, referida al manejo de instrumentos de política económica y s
 
 En la formulación de las iniciativas de leyes de ingresos, Estatal y de los municipios, se procurará asegurar que los recursos financieros disponibles y las necesidades de financiamiento para los proyectos de inversión y gasto corriente, sean congruentes con los planes y programas de desarrollo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 21.
 
-En la formulación de los presupuestos de egresos del Estado y de los municipios, en los que se expresen financieramente los programas, metas y responsables de su ejecución, se tomarán en cuenta la descripción de los programas, la estimación propuesta de ingresos y de gastos del ejercicio, la situación de la deuda pública y de la Tesorería al fin del ejercicio, el análisis de las condiciones económicas y hacendarias actuales, y las prioridades presupuestales definidas por la ley en la materia.
+En la formulación de los presupuestos de egresos del Estado y de los municipios, en los que se expresen financieramente los programas, metas y responsables de su ejecución, se tomarán en cuenta la descripción de los programas, la estimación propuesta de ingresos y de gastos del ejercicio, la situación de la deuda pública y de la Tesorería al fin del ejercicio, el análisis de las condiciones económicas y hacendarias actuales; la información relativa a los beneficiarios en forma desagregada en función del sexo, y las prioridades presupuestales definidas por la ley en la materia.
 
 En los presupuestos de egresos se comprenderán las erogaciones sobre programas convenidos, coordinados o concertados con los gobiernos federal, estatal y municipal, con los sectores social y privado, respectivamente, para la ejecución de los planes y programas de desarrollo.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 22.
 
-Para la ejecución de los planes Estatal y municipal, así como los programas regionales, sectoriales, especiales e institucionales, las administraciones públicas Estatal y Municipal, elaborarán programas operativos anuales que incluirán los aspectos administrativos y de política económica y social correspondientes, además de indicadores estratégicos que permitan evaluar el ejercicio presupuestal. Estos programas deberán ser congruentes entre sí y servirán de base para la integración de los presupuestos anuales.
+Para la ejecución de los planes Estatal y municipal, así como los programas regionales, sectoriales, especiales e institucionales, las administraciones públicas Estatal y Municipal, elaborarán programas operativos anuales que incluirán los aspectos administrativos y de política económica y social correspondientes incorporando la perspectiva de género, además de indicadores estratégicos que permitan evaluar el ejercicio presupuestal. Estos programas deberán ser congruentes entre sí y servirán de base para la integración de los presupuestos anuales.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2015)</small>
 
@@ -459,15 +511,21 @@ En los convenios a que se refiere este Capítulo, el Ejecutivo del Estado determ
 
 El Ejecutivo Estatal ordenará la publicación en el Periódico Oficial del Estado, de los convenios que se suscriban con los gobiernos municipales.
 
-###### ARTICULO 29.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-La evaluación es el medio para cotejar las metas establecidas y los resultados alcanzados en el proceso de ejecución de los planes y programas estatales y municipales, a través de un Sistema de Indicadores que mide los logros de la gestión gubernamental en términos de cobertura, efectividad, impacto y calidad de las políticas públicas.
+###### ARTÍCULO 29.
+
+La evaluación es el medio para cotejar las metas establecidas y los resultados alcanzados en el proceso de ejecución de los planes y programas estatales y municipales, a través de un Sistema de Indicadores con perspectiva de género, que mide los logros de la gestión gubernamental en términos diferenciados para hombres y mujeres en la cobertura, efectividad, impacto y calidad de las políticas públicas.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2015)</small>
 
 El Sistema de Indicadores de la Gestión Pública Estatal, será definido por las dependencias y entidades de la Administración Pública Estatal, de acuerdo a los lineamientos emitidos por la Secretaría de Finanzas; tales indicadores serán proporcionados al Sistema Estatal de Información.
 
 El Sistema de Indicadores de la Gestión Pública Municipal, será definido por las dependencias y entidades de la Administración Pública Municipal, de acuerdo a los lineamientos emitidos por la Dirección de Planeación Municipal o su equivalente; tales indicadores serán proporcionados al Sistema Municipal de Información que lleve cada municipio.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+Adicionalmente, los planes y programas tanto estatales como municipales, deberán ser evaluados en cuanto a la inclusión de la perspectiva de género, de acuerdo con los criterios y lineamientos que emita el Instituto de las Mujeres del Estado de San Luis Potosí, con base en la información que genere el Banco Estatal de Indicadores de Género.
 
 ###### ARTICULO 30.
 
@@ -485,9 +543,13 @@ El Plan Estatal de Desarrollo, los planes municipales y los programas regionales
 
 Para los efectos de esta Ley, la microregión es la unidad territorial compuesta por dos o más municipios que comparten recursos naturales similares, formas productivas, esquemas de funcionamiento económico, necesidades y patrones culturales.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 33.
 
-La planeación regional es un instrumento para impulsar el desarrollo integral de las diferentes regiones y municipios; para combatir los rezagos sociales; reducir los contrastes; convocar a la acción pública hacia fines comunes y a la participación organizada de la sociedad en unidades territoriales menores.
+La planeación regional es un instrumento para impulsar el desarrollo integral de las diferentes regiones y municipios; para combatir los rezagos sociales; reducir los contrastes; promover la igualdad entre hombres y mujeres; convocar a la acción pública hacia fines comunes y a la participación organizada de la sociedad en unidades territoriales menores.
+
+A su vez, la planeación regional deberá constituirse en un instrumento básico para generar estadísticas e indicadores de rezago social desagregados en función del sexo de los pobladores de las regiones y de los municipios que las componen.
 
 ###### ARTICULO 34.
 
@@ -549,7 +611,13 @@ Coxcatlán, San Martín Chalchicuautla, Axtla de Terrazas, Xilitla, Tampacán, M
 
 En la elaboración de los Programas de Desarrollo Microregional, se coordinarán las dependencias y entidades de la administración pública Estatal y municipal y se convocará la participación de los sectores social y privado, teniendo como foro de análisis y consenso a los Consejos de Desarrollo Microregional, éstos últimos se integrarán de acuerdo al Reglamento de esta Ley.
 
-Los Consejos serán la instancia de participación social, de consenso y toma de decisiones, que busque las mejores opciones para impulsar el desarrollo regional, con el propósito de disminuir las desigualdades, aprovechar las ventajas competitivas de las microregiones y eficientar el ejercicio de recursos.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+Los Consejos serán la instancia de participación social, de consenso y toma de decisiones, que busque las mejores opciones para impulsar el desarrollo regional con perspectiva de género, con el propósito de disminuir las desigualdades sociales y las que existan entre mujeres y hombres, promoviendo su participación en los procesos de adopción de decisiones dentro de los planes y programas que inciden en su desarrollo, aprovechar las ventajas competitivas de las microrregiones y eficientar el ejercicio de recursos.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+En la integración de los Consejos las autoridades deberán cuidar que la participación de las mujeres sea paritaria respecto a la de los hombres.
 
 ###### ARTICULO 37.
 
@@ -559,19 +627,21 @@ Los proyectos derivados de los Programas de Desarrollo Microregional, serán aqu
 
 Los proyectos microregionales serán la base para la promoción, coordinación y concertación de acciones y concurrencia de recursos entre los municipios y los sectores público, privado y social.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 39.
 
-En el ámbito del Sistema Estatal de Planeación Democrática y Deliberativa, se dará la participación y consulta de los diversos grupos sociales y privados, con el objeto de que la población exprese sus opiniones para la formulación, instrumentación, evaluación y ejecución del Plan Estatal, los planes municipales y los programas regionales, sectoriales, especiales e institucionales a que se refiere esta Ley.
+En el ámbito del Sistema Estatal de Planeación Democrática y Deliberativa, se dará la participación y consulta de los diversos grupos sociales y privados, con el objeto de que la población, en igualdad de condiciones, exprese sus opiniones para la formulación, instrumentación, evaluación y ejecución del Plan Estatal, los planes municipales y los programas regionales, sectoriales, especiales e institucionales a que se refiere esta Ley.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 40.
 
-Las organizaciones representativas de obreros, campesinos, grupos populares, instituciones académicas, profesionales, de investigación, organismos empresariales y otras agrupaciones sociales y privadas, participarán como órganos de consulta permanente en el proceso de planeación democrática a través del COPLADE, los COPLADEM, los consejos de Desarrollo Social Municipal y los ayuntamientos.
+Las organizaciones representativas de obreros, campesinos, mujeres, jóvenes, grupos populares, instituciones académicas, profesionales, de investigación, organismos empresariales y otras agrupaciones sociales y privadas, participarán como órganos de consulta permanente en el proceso de planeación democrática, a través del COPLADE, los COPLADEM, los consejos de Desarrollo Social Municipal y los ayuntamientos.
 
-Además, dentro de la etapa de formulación del proceso de planeación se convocará a integrar los foros de consulta popular, con el fin de captar las propuestas y demandas de la población. Estos foros se realizarán durante los primeros dos meses del plazo requerido para elaborar el Plan Estatal y los planes municipales, dentro del programa de actividades del COPLADE y de los COPLADEM.
+Además, dentro de la etapa de formulación del proceso de planeación se convocará en igualdad de condiciones a la ciudadanía, a integrar los foros de consulta popular, con el fin de captar las propuestas y demandas de la población, las que deberán recopilar y clasificar desagregadas por sexo. Estos foros se realizarán durante los primeros dos meses del plazo requerido para elaborar el Plan Estatal y los planes municipales, dentro del programa de actividades del COPLADE y de los COPLADEM.
 
-Las disposiciones reglamentarias de estos comités dispondrán los plazos y formas de participación social dentro del proceso de planeación.
+Las disposiciones reglamentarias de estos comités dispondrán los plazos y formas de participación social dentro del proceso de planeación, considerando la inclusión de la perspectiva de género.
 
 ###### ARTICULO 41.
 
@@ -579,29 +649,39 @@ El Ejecutivo del Estado a través de sus dependencias y entidades, podrá concer
 
 Asimismo, los ayuntamientos podrán concertar con los organismos sociales y privados, y con los consejos de Desarrollo Social Municipal, la realización de las acciones previstas en sus planes y programas municipales.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+En ambos casos, las autoridades estarán obligadas a que las acciones concertadas incluyan la perspectiva de género, y prevean sus impactos en función del sexo de sus beneficiarios.
+
 ###### ARTICULO 42.
 
 La concertación a que se refiere el artículo anterior se realizará mediante contratos o convenios de cumplimiento obligatorio para las partes que lo celebren, en los cuales se establecerán las responsabilidades que se deriven de su incumplimiento, con el fin de asegurar el interés general y garantizar su ejecución en tiempo y forma.
 
 Los contratos y convenios que celebren conforme a este Capítulo se considerarán de derecho público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 43.
 
-Los programas y presupuestos de los consejos, empresas, juntas, comisiones, comités, fideicomisos y unidades económicas sujetas a control o subsidio del Estado, no integrado a los presupuestos de Egresos Estatal y municipales, así como las iniciativas de leyes de ingresos y los actos que las dependencias y entidades de la Administración Pública Estatal y Municipal realicen para inducir acciones de los sectores de la sociedad, deberán ser congruentes con los objetivos y prioridades del Plan Estatal, de los planes municipales y de los programas a que se refiere esta Ley.
+Los programas y presupuestos de los consejos, empresas, juntas, comisiones, comités, fideicomisos y unidades económicas sujetas a control o subsidio del Estado, no integrado a los presupuestos de Egresos Estatal y municipales, así como las iniciativas de leyes de ingresos y los actos que las dependencias y entidades de la Administración Pública Estatal y Municipal realicen para inducir acciones de los sectores de la sociedad, deberán considerar la inclusión de la perspectiva de género y ser congruentes con los objetivos y prioridades del Plan Estatal, de los planes municipales y de los programas a que se refiere esta Ley.
 
 El Plan Estatal indicará el uso selectivo de los instrumentos de política económica, para inducir las acciones de los particulares para el cumplimiento de sus objetivos, políticas y estrategias.
 
 ### CAPITULO V. RESPONSABILIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 44.
 
-A los servidores públicos que en el ejercicio de sus funciones contravengan las obligaciones de esta Ley o los objetivos y prioridades del Plan Estatal, los planes municipales o los programas respectivos, se les impondrán sanciones administrativas por sus actos u omisiones.
+A los servidores públicos que en el ejercicio de sus funciones contravengan las obligaciones de esta Ley o los objetivos y prioridades del Plan Estatal, los planes municipales o los programas respectivos, se les impondrán sanciones administrativas por sus actos u omisiones, de conformidad con la legislación de la materia.
 
 Las sanciones consistirán en amonestación, suspensión, destitución o inhabilitación, así como en sanciones económicas, de acuerdo con la legislación sobre la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 45.
 
-Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil o penal que se puedan derivar de los mismos actos u omisiones.
+Las responsabilidades administrativas a que se refiere la presente Ley son independientes de las de orden civil o penal que se puedan derivar de los mismos actos u omisiones. Las sanciones serán aplicadas en términos de la Ley de la materia.
 
 Las sanciones serán aplicadas por el Titular de cada uno de los Poderes, cuando el caso se refiera a servidores públicos de los mismos; y en los casos de los propios titulares y presidentes municipales, será el Congreso del Estado el que aplique la sanción.
 
@@ -680,3 +760,13 @@ P.O. 7 DE MAYO DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1192.- REFORMAS Y ADICIONES A LA LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Las dependencias y entidades de la administración pública estatal y municipal, organismos constitucionales autónomos y demás instituciones obligadas a reportar la información a que se refiere este Decreto al Banco Estatal de Indicadores de Género, comenzarán a dar cumplimiento a la misma, a partir del inicio de operaciones del referido Banco. La fecha de inicio de operaciones deberá ser notificada por escrito con cuando menos treinta días de anticipación a todas las dependencias, entidades, organismos constitucionales autónomos e instituciones obligadas de la administración pública estatal y a los municipios, por el Instituto de las Mujeres del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
