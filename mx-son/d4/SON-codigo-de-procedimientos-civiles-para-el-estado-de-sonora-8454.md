@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2018-04-26"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -3497,9 +3497,13 @@ El recurso de apelación tiene por objeto que el Supremo Tribunal confirme, revo
 
 La segunda instancia no puede abrirse sin que se interponga el recurso de apelación, exceptuándose aquellos casos en que, de acuerdo con la ley, proceda la revisión forzosa de una sentencia.
 
+> <small>(REFORMADO, B.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### Art. 373.
 
-La revisión de las sentencias recaídas en los juicios sobre rectificación de actas de Registro Civil y sobre nulidad de matrimonio, abre de oficio la segunda instancia con intervención del Ministerio Público. Aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando en suspenso sus efectos hasta que se dicte resolución. En igual forma se procederá cuando por disposición expresa de la ley tenga lugar la revisión de oficio.
+la revisión de las sentencias recaídas en los juicios sobre nulidad de matrimonio, abre de oficio la segunda instancia con intervención del Ministerio Público.
+
+Aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando en suspenso sus efectos hasta que se dicte resolución. En igual forma se procederá cuando por disposición expresa de la ley tenga lugar la revisión de oficio.
 
 ###### Art. 374.
 
@@ -5829,11 +5833,7 @@ Rectificación de actas del estado civil.
 
 ###### Art. 604.
 
-El juicio sobre rectificación se tramitará en la vía ordinaria con intervención del Ministerio Público, y aplicándose en lo conducente las reglas establecidas en los juicios sobre paternidad y filiación.
-
-La sentencia que recaiga será revisable de oficio, aunque no la recurran las partes.
-
-Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+(DEROGADO, B.O. 1 DE OCTUBRE DE 2018)
 
 Art. 604 BIS.- (DEROGADO, B.O. 24 DE DICIEMBRE DE 1998)
 
@@ -8870,3 +8870,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las demandas interpuestas antes de la fecha de entrada en vigor de estas reformas, se regirán por la normatividad vigente en el momento de su presentación.
+
+B.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 82, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE REGISTRO CIVIL PARA EL ESTADO DE SONORA Y EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
