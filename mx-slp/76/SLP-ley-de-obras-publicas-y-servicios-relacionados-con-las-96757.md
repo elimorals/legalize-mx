@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2017-10-10"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -92,6 +92,10 @@ V. Contraloría: la Contraloría General del Estado;
 VI. Contratista: la persona física o moral que de acuerdo a las normas mercantiles y fiscales, y requisitos exigidos en esta Ley, está en aptitud de proporcionar a las instituciones, capacidad instalada para la realización de obras públicas o para la prestación de servicios relacionados con las mismas que éstas requieran; así como aquélla que celebre contratos de obras públicas o de servicios relacionados con las mismas;
 
 VII. Dependencias y Entidades: las pertenecientes al Poder Ejecutivo del Estado y a los ayuntamientos, que de conformidad con las leyes orgánicas de la Administración Pública Estatal, y del Municipio Libre, se encuentren facultadas para realizar obras públicas y servicios relacionados con las mismas;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+VII Bis. Evidencias graficas: todo tipo de fotografías y videos que sirvan para comprobar efectivamente el estado que guardan y el avance que llevan las obras, de acuerdo con el programa y el contrato correspondiente;
 
 VIII. Instituciones: las señaladas en el artículo anterior, con excepción de la contemplada en la fracción II de este artículo;
 
@@ -184,6 +188,8 @@ Las obras públicas y los servicios relacionados con las mismas, que realicen la
 ###### ARTÍCULO 7°.
 
 Será responsabilidad de las instituciones mantener adecuada y satisfactoriamente aseguradas las obras públicas a partir del momento de su recepción.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 8°.
 
@@ -424,6 +430,10 @@ Los contratos de obras públicas y los servicios relacionados con las mismas se 
 ###### ARTÍCULO 38.
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, debiendo las dependencias y entidades proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+Dentro de los procedimientos señalados en el párrafo anterior, se debe integrar en los requisitos y condiciones, anexar las evidencias gráficas tanto del inicio, como los avances y la conclusión de los trabajos a cada factura que se presente para cobro por parte del contratista seleccionado. Esto con el fin de cumplir cabalmente con lo que mandata el artículo 35 de esta Ley.
 
 ###### ARTÍCULO 39.
 
@@ -1767,13 +1777,17 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 180.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por el órgano de control interno que corresponda, con multa de cincuenta hasta mil veces el salario mínimo general vigente en el Estado, elevado al mes en la fecha de la infracción.
+Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por el órgano de control interno que corresponda, con multa de cincuenta hasta mil Unidades de Medida de Actualización.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 181.
 
-El funcionario público que, en abuso de sus atribuciones y en contravención a lo establecido en este Ordenamiento, viole el sobre cerrado, o divulgue información que le haya sido proporcionada por medio del sistema CompraNet, en el cual se presenten las proposiciones a que se refiere el artículo 44 de esta Ley, con el fin de conocer en forma privilegiada la información respectiva, antes de los plazos y términos que la misma señala, será destituido de su cargo y se hará acreedor a una multa de un mil a dos mil veces el salario mínimo general vigente en la Entidad, sin perjuicio de las penas que le correspondan de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+El funcionario público que, en abuso de sus atribuciones y en contravención a lo establecido en este Ordenamiento, viole el sobre cerrado, o divulgue información que le haya sido proporcionada por medio del sistema CompraNet, en el cual se presenten las proposiciones a que se refiere el artículo 44 de esta Ley, con el fin de conocer en forma privilegiada la información respectiva, antes de los plazos y términos que la misma señala, será destituido de su cargo y se hará acreedor a una multa de un mil a dos mil Unidades de Medida de Actualización sin perjuicio de las penas que le correspondan de conformidad con la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 ###### ARTÍCULO 182.
 
@@ -2279,8 +2293,24 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 10 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0710.- SE REFORMA EL ARTÍCULO 166 DE LA LEY DE OBRAS".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0710.- SE REFORMA EL ARTÍCULO 166 DE LA LEY DE OBRAS”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1206.- SE REFORMA EL ARTÍCULO 8°; Y ADICIONA A LOS ARTÍCULOS 2° Y 38 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1199.- SE REFORMA EL ARTÍCULO 52, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 180 Y 181, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 164 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 137 DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ.”]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
