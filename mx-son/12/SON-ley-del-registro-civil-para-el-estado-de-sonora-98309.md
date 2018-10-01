@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2018-06-25"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1423 +21,793 @@ state: "SON"
 ---
 # LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
+LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2018.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
+Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
-Al margen izquierdo un Escudo del Estado de Morelos que dice: “Tierra y Libertad”.- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo.- LII Legislatura. 2012-2015.
+GUILLERMO PADRÉS ELÍAS, Gobernador del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
 
-GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+Que el Honorable Congreso del Estado, se ha servido dirigirme la siguiente
 
-Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+LEY:
 
-LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
+NÚMERO 95
 
-I.- DEL PROCESO LEGISLATIVO
+EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-[...]
+L E Y
 
-Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir la siguiente:
-
-LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS.
+DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
 ## TÍTULO PRIMERO. DEL REGISTRO CIVIL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
 ###### Artículo 1.
 
-Esta Ley es de orden público y de interés social, y tiene por objeto establecer, organizar y regular las atribuciones de la Fiscalía General y de la Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos, así como de las Unidades Administrativas que las integran, para el despacho de los asuntos que al Ministerio Público le confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y demás normas aplicables.
+La presente Ley tiene por objeto establecer las bases para regular la organización, estructuración y función del Registro Civil del Estado de Sonora.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2.
 
-Para los efectos de esta Ley, se entenderá por:
-
-I. Cadena de custodia, al sistema de control y registro que se aplica al indicio, evidencia, objeto, instrumento o producto del hecho delictivo, desde su localización, descubrimiento aportación, en el lugar de los hechos o del hallazgo, hasta que la autoridad competente ordene su conclusión;
-
-II. Consejo, al Consejo de Profesionalización;
-
-III. Consejo de Honor, al Consejo de Honor y Justicia;
-
-IV. Ficha Identificativa, al documento de identificación de los cadáveres o restos humanos que carecen de la misma, que tengan relación con una carpeta de investigación, que contenga el número y fecha de inicio de la misma; así como cualquier información que permita el pleno reconocimiento de los mismos, como son, antropología forense, criminalística de campo, video, fotografía forense, medicina forense, dactiloscopia, genética forense y odontología forense;
-
-V. Fiscalía General, a la Fiscalía General del Estado de Morelos;
-
-VI. Fiscal General, a la persona Titular de la Fiscalía General;
-
-VII. Fiscalía Anticorrupción, a la Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos;
-
-VIII. Fiscal Anticorrupción, a la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos;
-
-IX. Gobernador, al Titular del Poder Ejecutivo Estatal;
-
-X. Ley, a la Ley Orgánica de la Fiscalía General del Estado de Morelos;
-
-XI. Ley General, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
-
-XII. Ministerio Público, al profesionista que ejerce las funciones de agente del Ministerio Público;
-
-XIII. Oficial, al Oficial del Registro Civil del Municipio que corresponda;
-
-XIV. Placa Identificativa, a la placa de material anticorrosivo que contiene la mayor cantidad de datos posibles de la Ficha Identificativa;
-
-XV. Protocolo, al Protocolo para el Tratamiento e Identificación Forense, expedido por la Procuraduría General de la República;
-
-XVI. Policía de Investigación Criminal, al cuerpo de Policía que auxilia al Ministerio Público en las funciones de investigación y persecución de los delitos, en términos de la Constitución Federal;
-
-XVII. Registro, al Registro de Datos de los cadáveres no identificados relacionados con una carpeta de investigación;
-
-XVIII. Reglamento, al Reglamento de la Ley;
-
-XIX. Secretario Técnico, a la persona Titular de la Secretaría Técnica del Consejo;
-
-XX. Servicio de Carrera, al Servicio de Carrera de la Fiscalía General y de la Fiscalía Anticorrupción para los Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal que les estén adscritos, y
-
-XXI. Servicios Periciales, al cuerpo de personas con conocimientos y experiencia en las diferentes profesiones, ciencias, técnicas, artes u oficios, que mediante la emisión de opiniones y dictámenes auxilian al Ministerio Público en su función.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+El Registro Civil es una Institución de orden público y de interés social por medio de la cual el Estado hace constar auténticamente y da publicidad a todos los actos relacionados con el estado civil de las personas, incluyendo aquellos realizados por éstos en el extranjero; inscribe los nombres de las personas que mediante resoluciones dictadas por jueces o tribunales hayan sido declaradas morosas en el cumplimiento de sus obligaciones alimentarias por más de noventa días; inscribe las ejecutorias que declaran la ausencia, la presunción de muerte, la pérdida de la capacidad para administrar bienes y las que determinen o nieguen la modificación o rectificación del estado civil de las mismas.
 
 ###### Artículo 3.
 
-La Fiscalía General, es una Institución perteneciente al Poder Ejecutivo del Estado, dotada de autonomía de gestión, técnica, de ejercicio y de aplicación del gasto público que le asigne el Congreso del Estado.
-
-Por su parte, la Fiscalía Anticorrupción, integrante del Sistema Estatal Anticorrupción, cuenta con autonomía técnica, de gestión y operación, con competencia exclusiva para la prevención, persecución e investigación de los delitos que la ley señale como relacionados con hechos de corrupción.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+El funcionamiento del Registro Civil se sujetará a lo establecido en la presente Ley y su Reglamento, así como en las disposiciones de carácter administrativo que expida el Gobernador del Estado a través de la Secretaría de Gobierno y de manera supletoria el Código Civil del Estado de Sonora, el Código de Procedimientos Civiles y el Código de Familia.
 
 ###### Artículo 4.
 
-Por su autonomía de gestión, la Fiscalía General y la Fiscalía Anticorrupción gozan de la administración, dirección, organización, disposición, distribución y suministro de recursos humanos, materiales y financieros; así como de la capacidad de decidir responsablemente sobre la adquisición de productos y servicios, en los términos previstos por las disposiciones jurídicas aplicables, el ejercicio de sus recursos propios, su estructura administrativa, así como proponer los niveles remunerativos para el personal que la integra, de conformidad con el presupuesto autorizado para ello y en términos de lo dispuesto por la legislación Federal y Estatal que resulte aplicable.
-
-El Fiscal Anticorrupción elaborará su anteproyecto y lo entregará a la Secretaría de Hacienda, para que sea integrado al Proyecto de Presupuesto de Egresos del Gobierno del Estado, para su posterior aprobación por parte del Congreso Local.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+El Registro Civil es una Institución de carácter público, por ello toda persona puede solicitar y obtener copias o extractos certificados de los hechos y actos constitutivos, modificativos y extintivos del estado civil de las personas que obren en sus archivos previo pago de los derechos correspondientes.
 
 ###### Artículo 5.
 
-La autonomía técnica de la Fiscalía General, y de la Fiscalía Anticorrupción, debe ser entendida como la facultad que les ha sido otorgada para expedir sus propias disposiciones normativas, con excepción de las disposiciones legales que le competan al Gobernador, con el propósito de regular las acciones que desarrolla en el ámbito de su competencia, delimitar las atribuciones que ejerce y regir su actuación, bajo las políticas permanentes de especialización técnica, profesionalización y rendición de cuentas, debiendo respetar en todo momento, la Constitución Federal, la Convención de Naciones Unidas Contra la Corrupción, los Tratados Internacionales en materia de Derechos Humanos de los que el Estado Mexicano sea parte, los Códigos y Leyes Nacionales, Generales y Federales que rijan su actuar procesal, la Constitución Local, y en general toda disposición jurídica aplicable.
+La certificación es el medio de publicidad de los actos y documentos que obren en los archivos del Registro Civil. Ésta podrá autentificarse con firma autógrafa o electrónica.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+Por firma electrónica se entenderá la firma, clave, código o cualquier otra forma de autentificar por medios electrónicos la autorización del funcionario competente, según el sistema que implemente la Dirección General, el cual deberá utilizar mecanismos confiables para evitar la falsificación de documentos.
 
-### CAPÍTULO II. DE LAS FUNCIONES DEL MINISTERIO PÚBLICO
+Los procedimientos para la autentificación por medio de firma electrónica y sus mecanismos serán establecidos en las disposiciones reglamentarias que al efecto emita la Dirección General.
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
-
-#### SECCIÓN PRIMERA. DE LA FISCALÍA GENERAL
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 1364, PUBLICADO EN EL P.O. DEL 15 DE FEBRERO DE 2017, SE ADVIERTE QUE SE ADICIONAN LAS FRACCIONES XVIII Y XIX, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES. EL ARTÍCULO ANTES DE ESTE DECRETO, CONTABA CON XXVIII FRACCIONES; SIN EMBARGO, EN LA PÁGINA 67 DEL CITADO P.O. SE OMITIÓ EL TEXTO DE LAS ANTERIORES FRACCIONES XXVI Y XXVII Y NO REFIERE SU RESPECTIVA DEROGACIÓN; POR LO QUE SE SUGIERE CONSULTAR LA CRONOLOGÍA LEGISLATIVA DE ESTE ARTÍCULO.]</small>
+### CAPÍTULO II. DE LA ORGANIZACIÓN DEL REGISTRO CIVIL
 
 ###### Artículo 6.
 
-El Fiscal General y el Fiscal Anticorrupción, para el ejercicio de la autonomía técnica y de gestión a que se refieren los artículos 4 y 5 de esta Ley, contarán en el ámbito de sus respectivas competencias, con las siguientes atribuciones:
-
-I. Instrumentar y organizar políticas sobre la administración de los recursos humanos, la adquisición de bienes y servicios y el arrendamiento de inmuebles;
-
-II. Planear, coordinar, dirigir y controlar la administración de los recursos presupuestales;
-
-III. Aprobar la adquisición del equipo operativo, técnico, científico, móvil y demás que sea necesario para los fines y necesidades de su actividad;
-
-IV. Aprobar la contratación de prestadores de servicios profesionales para la capacitación y profesionalización de personal;
-
-V. Aprobar el arrendamiento de inmuebles para los fines de seguridad, protección de víctimas y testigos, de conformidad con las disposiciones legales aplicables;
-
-VI. Autorizar las propuestas de modificación de la estructura administrativa y la plantilla del personal adscrito a la Fiscalía General y a la Fiscalía Anticorrupción;
-
-VII. Coadyuvar en el diseño, construcción y remodelación de los bienes inmuebles, oficinas e instalaciones que ocupen la Fiscalía General y la Fiscalía Anticorrupción, conforme a las disposiciones jurídicas aplicables;
-
-VIII. Planear y promover la calidad en los servicios que presten la Fiscalía General y la Fiscalía Anticorrupción;
-
-IX. Fijar criterios y medidas administrativas para la simplificación de los trámites y procesos que se realicen ante la Fiscalía General y la Fiscalía Anticorrupción;
-
-X. Integrar el Comité de adquisiciones de la Fiscalía General y de la Fiscalía Anticorrupción;
-
-XI. Aprobar el Programa Anual de Adquisiciones de la Fiscalía General y de la Fiscalía Anticorrupción, y
-
-XII. Las demás disposiciones legales y reglamentarias aplicables a la Fiscalía General y a la Fiscalía Anticorrupción.
-
-Los Comités de Adquisiciones tanto de la Fiscalía General, como de la Fiscalía Anticorrupción, se integrarán y funcionarán de conformidad con lo que dispongan para tales efectos sus respectivos Reglamentos y la normativa aplicable.
+La organización de la institución del Registro Civil corresponde, en los términos de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, a la Secretaría de Gobierno.
 
 ###### Artículo 7.
 
-Entre la Fiscalía General y su personal podrá existir una relación administrativa o laboral, de conformidad con las disposiciones jurídicas aplicables a cada hipótesis y conforme a las actividades desempeñadas.
+El Registro Civil estará integrado por:
+
+I.- Una Dirección General;
+
+II.- Oficialías Incorporadas al presupuesto de egresos y que funcionarán como órganos desconcentrados de la Secretaría de Gobierno del Estado de Sonora;
+
+III.- Oficialías Desincorporadas al presupuesto de egresos, que funcionarán como órganos auxiliares de la Administración Pública Estatal; y
+
+IV.- Un Archivo Estatal.
+
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+Artículo 7 BIS.- Los hechos que se declaren, así como los actos y procedimientos que se lleven a cabo en las oficinas del Registro Civil, se efectuarán en días y horas hábiles.
+
+Son días hábiles todos los del año, excepto los sábados, domingos y días festivos, y los de descanso obligatorio que señale la ley, así como aquellos en que las oficinas del Registro Civil suspendan sus labores por vacaciones o causas de fuerza mayor. Son horas hábiles, las que medien desde las ocho treinta hasta las quince horas, con guardias desde las dieciséis horas hasta las diecinueve horas de lunes a viernes.
+
+Las guardias para defunciones en días inhábiles y días festivos, serán en un horario de las nueve horas a las catorce horas, en las oficinas destinadas para tal fin.
 
 ###### Artículo 8.
 
-La Fiscalía General, a través del Ministerio Público, tiene a su cargo la investigación de los delitos y el ejercicio de la acción penal ante los tribunales.
+El titular del Poder Ejecutivo Estatal, a propuesta del Director General del Registro Civil, determinará la cantidad de Oficialías del Registro Civil, así como la modalidad en la que habrán de funcionar, de conformidad con lo establecido en las fracciones II y III del artículo anterior.
 
-La Fiscalía General tiene a su cargo la representación y defensa de los intereses de la sociedad y le compete la intervención en los asuntos de orden civil, familiar y otros, en la forma que señale la normativa.
+El titular del Poder Ejecutivo Estatal procurará que, gradualmente y conforme a la disponibilidad de recursos económicos públicos, las Oficialías del Registro Civil que funcionen como órganos auxiliares de la administración pública estatal ejerzan sus funciones como órganos desconcentrados.
 
 ###### Artículo 9.
 
-Los servidores públicos que tengan bajo su mando a Agentes del Ministerio Público o de la Policía de Investigación Criminal o Peritos, no forman parte del Servicio de Carrera por ese hecho, y serán nombrados y removidos conforme a los ordenamientos legales aplicables; por lo que se considerarán personal de confianza, y los efectos de su nombramiento se podrán dar por terminados en cualquier momento conforme a las disposiciones jurídicas aplicables.
+Los recursos económicos que requieran las Oficialías Incorporadas para el desempeño de sus actividades, deberán preverse anualmente en el Presupuesto de Egresos del Gobierno del Estado para el ejercicio fiscal del año correspondiente y su ejercicio quedará sujeto a lo establecido en los ordenamientos jurídicos aplicables.
 
 ###### Artículo 10.
 
-El Ministerio Público es único, indivisible y jerárquico en su organización, sus funciones no podrán ser influidas ni restringidas sino en los casos que dispongan los ordenamientos legales.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-Su actuación se sujetará a los principios de legalidad, imparcialidad, objetividad, eficiencia, eficacia, profesionalismo, honradez, lealtad, probidad y respeto a los derechos humanos reconocidos en la Constitución y en los tratados internacionales.
+Los derechos que por la prestación de sus servicios reciban las Oficialías Incorporadas, estarán establecidos en las leyes correspondientes, deberán enterarse a la Secretaría de Hacienda, por conducto de las Agencias o Subagencias Fiscales que correspondan, según el caso.
 
 ###### Artículo 11.
 
-Son funciones del Ministerio Público:
+Las erogaciones necesarias para el funcionamiento de las Oficialías Desincorporadas provendrán de los ingresos que recaben por los servicios que presten y los mismos no ingresarán al erario del Gobierno del Estado, debiendo aplicar el arancel homologado y los derechos a los que están sujetos las Oficialías incorporadas señalados en la Ley de Hacienda del Estado.
 
-I. Vigilar la correcta aplicación de la Ley en todos los casos que conozca y preponderantemente en aquellos en que alguna de las partes sea miembro o parte de comunidades indígenas;
-
-II. Conducir las investigaciones de los hechos que pudieran constituir delitos de su competencia y, en los casos que proceda, promover el ejercicio de la acción penal;
-
-III. Solicitar la aplicación de medidas cautelares en coordinación con las áreas correspondientes;
-
-IV. Solicitar a la autoridad jurisdiccional la autorización de los actos de investigación que impliquen molestia y demás actuaciones que sean necesarias dentro de la misma;
-
-V. Vigilar y asegurar que durante la investigación y el proceso se respete el debido proceso, el principio de presunción de inocencia, así como los Derechos Humanos del imputado, de la víctima u ofendido del delito y de los testigos;
-
-VI. Requerir informes o documentación a otras autoridades, Secretarías, Dependencias y Entidades de la Administración Pública Estatal y a particulares, así como solicitar la práctica de peritajes y diligencias para la obtención de evidencias y medios de prueba;
-
-VII. Brindar atención integral a las víctimas del delito, de conformidad con la normatividad aplicable hasta la reparación del daño;
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
-
-VIII. Adoptar o, en su caso, ordenar las medidas necesarias para la protección, atención y auxilio de las víctimas, ofendidos y testigos, e implementarlas hacia sus propios funcionarios cuando se requiera, en coordinación con las autoridades competentes y conforme a la normativa aplicable;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-IX. Aplicar las medidas de protección conforme a las disposiciones del Código Nacional de Procedimientos Penales y la legislación aplicable;
-
-X. Promover la resolución de los conflictos surgidos como consecuencia de los delitos, a través de la mediación, conciliación, negociación y el proceso restaurativo entre la víctima u ofendido y el imputado ante la instancia competente, de conformidad con las leyes aplicables;
-
-XI. Promover la aplicación de formas anticipadas de terminación del proceso, mecanismos de aceleración o salidas alternas;
-
-XII. Determinar el no ejercicio de la acción penal, la abstención de investigación o el archivo temporal de la investigación;
-
-XIII. Ejercer las atribuciones en materia de justicia penal para adolescentes, de conformidad con las leyes aplicables;
-
-XIV. Coadyuvar con el Ministerio Público de la Federación y de las demás Entidades Federativas, en los términos de las Leyes y los Convenios de Colaboración respectivos;
-
-XV. Aplicar los criterios de oportunidad conforme los acuerdos generales emitidos por el Fiscal General y las demás leyes aplicables;
-
-XVI. Dirigir a la Policía de Investigación Criminal y demás Instituciones Policiales del Estado, cuando éstas actúen como auxiliares en la investigación y persecución de delitos, así como vigilar que los mismos realicen sus actuaciones con apego al debido proceso, con pleno respeto a los Derechos Humanos, conforme a los principios de legalidad y objetividad;
-
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
-
-XVII. Proveer lo necesario para que se desahoguen prioritariamente las intervenciones periciales en las investigaciones relacionadas con procedimientos de disposición de órganos o tejidos de cadáveres con fines de trasplantes y autorizar su disposición, de forma pronta y expedita, cuando se reúnan los requisitos establecidos en el Código Nacional de Procedimientos Penales y demás disposiciones jurídicas aplicables;
-
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
-
-XVIII. Ordenar la elaboración de la Ficha Identificativa;
-
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
-
-XIX. Una vez cumplido el Protocolo y registrados los datos del cadáver o restos humanos no identificado en el Registro, ordenar su inhumación acompañando la Placa Identificativa en cada caso, lo cual se llevará a cabo una vez que se tengan los informes periciales para identificación humana, dando cuenta al Oficial para la elaboración del acta de defunción;
-
-XX. Proporcionar la información que en materia de seguridad pública le sea requerida y mantenerla actualizada, en términos de la Ley del Sistema de Seguridad Pública del Estado de Morelos y de conformidad con las disposiciones jurídicas aplicables;
-
-XXI. Solicitar la reparación del daño a favor de la víctima u ofendido, en términos de las disposiciones jurídicas aplicables;
-
-XXII. Solicitar a la autoridad judicial, la imposición de las penas o medidas de seguridad que correspondan;
-
-XXIII. Intervenir en los procesos de ejecución de las sanciones penales y medidas de seguridad, de conformidad con las disposiciones jurídicas aplicables;
-
-XXIV. Interponer los recursos que fueren procedentes e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita;
-
-XXV. Preparar y ejercer la acción de extinción de dominio, así como las atribuciones que le correspondan en el procedimiento respectivo, de conformidad con la ley de la materia y demás disposiciones jurídicas aplicables;
-
-XXVI. Ordenar por escrito, la realización de operaciones encubiertas y entregas vigiladas, siempre y cuando haya sido autorizado en cada caso por el Fiscal General o por el servidor público que éste designe, de conformidad con el Reglamento correspondiente. La orden respectiva deberá contener los términos, limitaciones, modalidades y condiciones a los que deberán sujetarse los Policías de Investigación Criminal que ejecuten la operación encubierta o la entrega vigilada;
-
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
-
-XXVII. Activar y dar cumplimiento a los protocolos en materia de personas desaparecidas y demás instrumentos normativos aplicables para la investigación de los hechos delictivos, y
-
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XXVIII. Autorizar la dispensa de la necropsia, cuando de la investigación no resulten datos relacionados con la existencia de un delito; y
-
-> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
-
-XXIX. Son Funciones del Ministerio Público adscrito a la Fiscalía Especializada para la Investigación de Hechos de Corrupción, combatir, investigar y perseguir hechos de corrupción, conforme a las normativas aplicables, y
-
-XXX. Las demás que le otorguen otras disposiciones jurídicas aplicables.
-
-### CAPÍTULO III. DE LA ESTRUCTURA Y ORGANIZACIÓN DE LA FISCALÍA GENERAL Y DE LA FISCALÍA ANTICORRUPCIÓN
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPÍTULO III. DE LA DIRECCIÓN GENERAL
 
 ###### Artículo 12.
 
-Son funciones del Ministerio Público en materia de delitos contra la salud en su modalidad de narcomenudeo:
+Al frente de la Dirección General habrá un Director General, quien se auxiliará por las Direcciones y Áreas que se requieran para otorgar el servicio y éstas se precisarán en el Manual de Organización respectivo y figurarán en el presupuesto de Egresos.
 
-I. Perseguir y conocer de los delitos a que se refiere el Capítulo correspondiente a delitos contra la salud en su modalidad de narcomenudeo de la Ley General de Salud en los términos que ésta señale;
-
-II. Remitir al Ministerio Público de la Federación, cuando éste así lo solicite, conforme a lo dispuesto en la Ley General de Salud, la investigación correspondiente relativa a estos delitos;
-
-III. Informar oportunamente al Ministerio Público de la Federación, del inicio de investigaciones por los delitos a que se refiere el Capítulo correspondiente a delitos contra la salud en su modalidad de narcomenudeo, en términos de lo previsto en la Ley General de Salud;
-
-IV. Ordenar la práctica de los actos de investigación que correspondan y remitir el acta o actas levantadas, así como todo lo que con ellas se relacione, al Ministerio Público de la Federación dentro de los tres días siguientes a la fecha de su conclusión;
-
-V. Realizar el reporte de no ejercicio de la acción penal a la Secretaría de Salud del Poder Ejecutivo Estatal por el delito previsto en la Ley General de Salud, a favor de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla contenida en el artículo 479 de dicha Ley, siempre y cuando se realice fuera de centros educativos, asistenciales, policiales o de reclusión, o fuera del espacio comprendido en un radio que diste a menos de trescientos metros de los límites de la colindancia del mismo y se colmen los supuestos del artículo 474 del mismo ordenamiento;
-
-VI. Informar de inmediato y, en su caso, dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda, tan pronto identifique que una persona es farmacodependiente;
-
-VII. Remitir la investigación al Ministerio Público de la Federación en la etapa de investigación inicial o al Juez Federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, cuando de las constancias que obren en éste se advierta su incompetencia;
-
-VIII. Informar a la autoridad administrativa competente cuando tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de la naturaleza que sea, lo empleare para realizar cualquiera de las conductas previstas y sancionadas para los delitos contra la salud en su modalidad de narcomenudeo en términos de lo previsto en la Ley General de Salud;
-
-IX. Recibir del Ministerio Público de la Federación o de quien para tal efecto haya designado, el aviso mediante el cual se autorizó, para fines de investigación a los Agentes de la Policía bajo su conducción y mando, comprar, adquirir o recibir la transmisión material de algún narcótico en la entidad para lograr la detención y el aseguramiento correspondiente del imputado del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines, y
-
-X. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+La sede de la Dirección General será en la capital del Estado.
 
 ###### Artículo 13.
 
-Son funciones del Ministerio Público en materia del delito de secuestro:
-
-I. Perseguir y conocer del delito de secuestro en términos de la Ley General;
-
-II. Detallar la investigación correspondiente precisando las constancias o las actuaciones realizadas;
-
-III. Dar aviso al Ministerio Público competente, por razón de fuero o materia, cuando de las diligencias practicadas en la investigación de los delitos contemplados en la Ley General se desprende la comisión de alguno diferente;
-
-IV. Solicitar atención médica, psicológica y jurídica para las víctimas de las conductas previstas en la Ley General;
-
-V. Decretar las providencias precautorias para la protección de la vida o integridad de las víctimas o sus familiares;
-
-VI. Asesorar a los familiares en las acciones para lograr la libertad de las víctimas;
-
-VII. Recibir, por cualquier medio, las denuncias sobre los delitos e iniciar la investigación correspondiente;
-
-VIII. Utilizar las técnicas de investigación previstas en la Ley General y en los demás ordenamientos aplicables;
-
-IX. Vigilar, con absoluto respeto a los derechos constitucionales, a las personas respecto de las cuales se tengan indicios de que pudieran estar involucradas en el delito de secuestro;
-
-X. Sistematizar la información obtenida para lograr la liberación de las víctimas y la detención de los imputados;
-
-XI. Solicitar a personas físicas o morales la entrega inmediata de información que pueda ser relevante para la investigación del delito o la liberación de las víctimas;
-
-XII. Proponer Políticas y Programas para la prevención e investigación del delito de secuestro;
-
-XIII. Proponer al Fiscal General, la celebración de Convenios con las Empresas de telecomunicaciones para la obtención de datos adicionales contenidos en la base de datos prevista en la Ley Federal de Telecomunicaciones y sobre el uso de las mismas;
-
-XIV. Utilizar cualquier medio de investigación que les permita regresar con vida a la víctima, así como identificar y ubicar a los imputados y cumplir con los fines de la Ley General, siempre y cuando dichas técnicas de investigación sean legales y con pleno respeto a los derechos humanos, y
-
-XV. Las demás que le otorguen otras disposiciones jurídicas aplicables.
-
-Para los fines del presente artículo, se contará con la unidad especializada en combate al secuestro, que tendrá a su cargo Ministerios Públicos, Peritos y Policías de Investigación Criminal y técnicos especializados, de conformidad con las disposiciones jurídicas aplicables.
-
-El personal de la unidad especializada en combate al secuestro, deberá capacitarse en materia de planeación de investigación, manejo de crisis, negociación, táctica e inteligencia.
-
-Para ingresar al servicio de esta unidad especializada, los aspirantes deberán asumir el compromiso de sujetarse a vigilancia no intrusiva, por la autoridad competente, en cualquier tiempo de su servicio y dentro de los cinco años posteriores a la terminación del mismo, así como rendir y mantener actualizada la información en materia de secuestro y la realización de exámenes de control de confianza cuando sean requeridos, mismos que deberán acreditar para continuar en el servicio.
-
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
-
-#### SECCIÓN SEGUNDA. DE LA FISCALÍA ANTICORRUPCIÓN
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-Artículo 13 BIS. El Fiscal Anticorrupción, contará con las atribuciones siguientes:
-
-I. Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Anticorrupción, para perseguir e investigar los delitos relacionados con hechos de corrupción previstos en el capítulo correspondiente del Código Penal, que sean cometidos por servidores públicos o particulares;
-
-II. Ejercitar acción penal en contra de los imputados de los delitos a que se refiere la fracción anterior;
-
-III. Autorizar la consulta de reserva, incompetencia, acumulación y separación de las investigaciones, archivo temporal, criterio de oportunidad, acuerdo reparatorio, y procedimiento abreviado que propongan los agentes del Ministerio Público, de su adscripción;
-
-IV. Solicitar atención y reparación para las víctimas de las conductas previstas en la normativa aplicable en la materia;
-
-V. Recibir, por cualquier medio autorizado por la Ley, las denuncias sobre los delitos e iniciar la investigación correspondiente;
-
-VI. Dar aviso al Ministerio Público competente, por razón de fuero o materia, cuando de las diligencias practicadas en la investigación de los delitos de su competencia se desprenda la comisión de alguno diferente;
-
-VII. Utilizar las técnicas de investigación previstas en la normativa aplicable;
-
-VIII. Vigilar, con absoluto respeto a los derechos constitucionales, a las personas respecto de las cuales se tengan indicios de que pudieran estar involucradas en hechos de corrupción;
-
-IX. Sistematizar la información obtenida para la detención de los imputados;
-
-X. Requerir a las instancias de gobierno federales, de las entidades federativas y municipales, la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario, industrial, fiscal, bursátil, postal, o cualquier otro de similar naturaleza, en términos del artículo 109, antepenúltimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos;
-
-XI. Proponer, en coordinación con el Sistema Estatal Anticorrupción, políticas y programas para la prevención e investigación de hechos de corrupción;
-
-XII. Nombrar bajo su más estricta responsabilidad a los Titulares de las Unidades Administrativas, a que se refiere el artículo 21 BIS, y en general a todo el personal de la Fiscalía Anticorrupción a su cargo, con estricta observancia a la normativa aplicable, y en términos del artículo 22 de este instrumento;
-
-XIII. Instruir a la Policía de Investigación Criminal, y al resto de las corporaciones policiales del Estado cuando éstos actúen como auxiliares en la prevención, investigación y persecución de delitos relacionados con hechos de corrupción, realicen sus actuaciones con pleno respeto a los derechos fundamentales y conforme a los principios de legalidad y objetividad;
-
-XIV. Promover la participación de la ciudadanía en los programas de su competencia;
-
-XV. Participar como integrante del Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo a las bases establecidas en el artículo 113, fracción III, inciso a), de la Constitución Política de los Estados Unidos Mexicanos, y 134, en lo conducente, de la Constitución Política del Estado Libre y Soberano de Morelos;
-
-XVI. Diseñar, establecer e implementar mecanismos de cooperación y colaboración con autoridades federales, de la Ciudad de México, estatales y municipales, incluyendo autoridades que ejerzan facultades de fiscalización, bancarias y de similar naturaleza, en el ámbito de su competencia, atendiendo a las normas y políticas institucionales;
-
-XVII. Ordenar el aseguramiento, el embargo precautorio o ejercer la acción de extinción de dominio, cuando proceda, de bienes propiedad de los imputados sujetos a investigación, así como aquellos sobre los que se conduzca como dueños (sic) o dueño beneficiario o beneficiario controlador;
-
-XVIII. Emitir o solicitar las órdenes o medidas para la protección, atención y auxilio de las personas víctimas de delito o de los testigos, e implementar medidas de protección hacia sus propios servidores públicos cuando sea necesario;
-
-XIX. Autorizar en definitiva que los Agentes del Ministerio Público adscritos a la Fiscalía Anticorrupción, decreten el no ejercicio de la acción penal, de conformidad a la disposición procesal penal correspondiente, y cuando así se concluya del estudio pormenorizado de los datos de prueba correspondientes;
-
-XX. Autorizar la formulación de conclusiones no acusatorias en los procesos penales o en su caso, la solicitud del desistimiento de la acción penal ante el órgano jurisdiccional que establece el artículo 144 del Código Nacional de Procedimientos Penales;
-
-XXI. Designar en forma discrecional a los peritos en función de su especialidad, experticia, grado de confianza y prestigio, de entre los autorizados por el Tribunal Superior de Justicia del Estado, consultando al efecto la lista correspondiente;
-
-XXII. Ejercer en forma directa la facultad de excepción que establece el artículo 142, fracción II, de la Ley General de Instituciones de Crédito, en directa relación con el artículo 109, antepenúltimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos;
-
-XXIII. Emitir o suscribir los instrumentos jurídicos que faciliten el funcionamiento y operación de la Fiscalía Anticorrupción, el cual incluye los acuerdos, circulares, instructivos, bases, y demás normas administrativas necesarias que rijan la actuación de la Fiscalía, en el ámbito de su competencia;
-
-XXIV. Supervisar y ejercer las facultades que correspondan a las unidades administrativas que le estén adscritas, sin perjuicio de que sean desempeñadas por sus respectivos titulares;
-
-XXV. Supervisar y dirigir el Servicio Civil de Carrera de la Fiscalía Anticorrupción, conforme a las bases que al efecto se emitan, y
-
-XXVI. Las demás que le otorguen su Reglamento Interior, las que le sean conducentes consignadas en el artículo 31 de esta Ley, y otras disposiciones jurídicas aplicables.
-
-Para los fines del presente artículo y conforme a lo previsto por el artículo 79-B de la Constitución Política del Estado Libre y Soberano de Morelos, se establece la Fiscalía Anticorrupción, que goza de la misma autonomía que la Fiscalía General en términos de los artículos 4 y 5 de esta Ley, incluso respecto de ésa, a fin de salvaguardar toda imparcialidad en el desempeño de sus actividades, de conformidad con las disposiciones presupuestales asignadas para ello.
-
-El Fiscal Anticorrupción, además de cumplir con los requisitos establecidos en la Constitución Política del Estado Libre y Soberano de Morelos, gozará de nivel equivalente al del Fiscal General, y no le resultarán aplicables los requisitos a que se refiere el artículo 37 de esta Ley.
-
-La designación y permanencia en el cargo de dicho Fiscal Anticorrupción se regirán por lo previsto en la Constitución Política del Estado Libre y Soberano de Morelos, así como por la normativa aplicable.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-Artículo 13 TER. A la Fiscalía Anticorrupción y a todo su personal le son aplicables en lo conducente y siempre que no se opongan a la función especializada que tiene, las disposiciones previstas en los artículos 24 y 25 de esta Ley, considerando lo dispuesto por el artículo anterior y su previsión constitucional, como integrante del Sistema Estatal Anticorrupción, y sin perjuicio de otras disposiciones jurídicas de este y otros ordenamientos que deba observar.
-
-El personal de la Fiscalía Anticorrupción, en coordinación con el Sistema Estatal Anticorrupción, deberá capacitarse en la materia, así como desempeñar sus funciones, empleos, cargos y comisiones en el marco de los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia y secrecía.
-
-Para ingresar al servicio de esta unidad especializada, los aspirantes deberán asumir el compromiso de sujetarse a vigilancia no intrusiva, por la autoridad competente, en cualquier tiempo de su servicio y dentro de los cinco años posteriores a la terminación del mismo, así como rendir y mantener actualizada la información en materia de corrupción.
-
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
-
-#### SECCIÓN TERCERA. DE LOS AUXILIARES DEL MINISTERIO PÚBLICO
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+El Director General será nombrado y removido por el Gobernador del Estado. Sus atribuciones se especificarán en el Reglamento de esta Ley.
 
 ###### Artículo 14.
 
-En el ejercicio de sus funciones de investigación y persecución, son auxiliares del Ministerio Público todas las Instituciones Policiales, Estatales y Municipales, estando obligadas a cumplir con las órdenes que aquel les realice, a informarle de los asuntos en que intervengan con ese carácter, a proporcionarle la información que requiera y participar en el proceso penal con el carácter que corresponda.
+Para ser titular de la Dirección General se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Ser de reconocida honorabilidad personal y profesional;
+
+III.- No haber sido condenado por sentencia irrevocable como responsable de un delito doloso o culposo calificado como grave por la legislación correspondiente, así como no estar sujeto a proceso penal;
+
+IV.- Contar con título y cédula profesional, expedidos por autoridad competente; y
+
+V.- Tener una práctica profesional de tres años, cuando menos, hasta el día de su designación.
 
 ###### Artículo 15.
 
-Toda persona o autoridad está obligada a proporcionar gratuita, expedita y oportunamente la información que requiera el Ministerio Público, en el ejercicio de sus funciones de investigación de un hecho delictuoso concreto y no podrá excusarse de suministrarla. En caso de desacato, se estará a lo dispuesto por las medidas señaladas en la legislación aplicable.
+El Director General tendrá la facultad de proponer al Secretario de Gobierno, la remoción de los Oficiales del Registro Civil, cuando las personas designadas, incumplan reiteradamente sus obligaciones en el desempeño de su cargo, conforme a las disposiciones de esta Ley y las demás aplicables.
 
 ###### Artículo 16.
 
-El Ministerio Público podrá actuar en ejercicio de sus funciones, en cualquier lugar del Estado o en otra Entidad Federativa, conforme a los Convenios de Colaboración respectivos.
+La Dirección General capacitará a los Oficiales del Registro Civil, antes y durante el ejercicio de sus funciones, siendo esta capacitación obligatoria con la finalidad de lograr la optimización en el manejo de los recursos humanos y materiales con los que cuentan.
 
-### CAPÍTULO IV. DEL FISCAL GENERAL
+### CAPÍTULO IV. DE LAS OFICIALÍAS DEL REGISTRO CIVIL
 
 ###### Artículo 17.
 
-Son obligaciones de la Policía de Investigación Criminal, con independencia de las señaladas en otras disposiciones legales y reglamentarias aplicables, las siguientes:
+Los titulares de las Oficialías del Registro Civil se denominarán Oficiales del Registro Civil, quienes estarán facultados para dar fe pública de los hechos y actos jurídicos vinculados al estado civil de las personas, así como para ejercer, ordinariamente, las atribuciones u obligaciones inherentes a su cargo, conforme a esta Ley y su Reglamento, así como las demás disposiciones aplicables.
 
-I. Velar por la legalidad y respeto a los Derechos Humanos, en el ámbito de su competencia, promoviendo la pronta, expedita y debida procuración de justicia;
+Los Oficiales del Registro Civil se auxiliarán del personal técnico y administrativo que las necesidades del servicio requiera.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-II. Recibir las denuncias sobre los hechos que pudieran ser constitutivos de delitos, así como recibir denuncias anónimas e informar inmediatamente de ello al Ministerio Público, realizando las diligencias urgentes e indispensables dependiendo el caso y actuar bajo la conducción y mando de aquél;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-III. Realizar la detención en los casos que autoriza la Constitución, haciendo saber a la persona detenida los derechos que le otorga la Ley, así como informar por cualquier medio al Ministerio Publico sobre la detención, e inscribir inmediatamente las mismas en el registro que al efecto establezcan las disposiciones aplicables, así mismo preservar el lugar de los hechos o hallazgos, tomando las providencias necesarias para recolectar, resguardar, procesar y trasladar indicios respetando la cadena de custodia;
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
-
-IV. Prestar auxilio y protección a víctimas, ofendidos o testigos del delito, en coordinación con las autoridades competentes y conforme a la normativa aplicable;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-V. Emitir el informe policial correspondiente que derive de los hechos investigados y demás documentos, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales;
-
-VI. Manejar correctamente los indicios, huellas o vestigios del hecho delictivo, respetando la cadena de custodia correspondiente;
-
-VII. Cumplir con las órdenes legalmente fundadas del Ministerio Público, o autoridades administrativas de la Fiscalía General, así como auxiliar a las diferentes autoridades;
-
-VIII. Entregar, cuando así lo solicite el Ministerio Público, todos los objetos, materiales, evidencias e instrumentos del delito relacionados con las investigaciones encomendadas, así como aquellos de cualquier naturaleza que se encuentren abandonados;
-
-IX. Guardar la debida reserva en el cumplimiento de sus obligaciones, evitando toda comunicación innecesaria que entorpezca, perjudique o paralice el desempeño normal de los asuntos a su cargo;
-
-X. Excusarse de intervenir de cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
-
-XI. Participar en operativos de coordinación con otras autoridades o corporaciones policiales, así como brindar apoyo a otras autoridades;
-
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XII. Impedir que se consumen los delitos o que los hechos produzcan consecuencias ulteriores. Especialmente estará obligada a realizar todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos de los gobernados a quienes tiene la obligación de proteger;
-
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XIII. Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos;
-
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XIV. Practicar las inspecciones y otros actos de investigación, así como reportar los resultados al Ministerio Público. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público;
-
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XV. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación;
-
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XVI. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;
-
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XVII. Proporcionar atención a víctimas u ofendidos o testigos del delito. Para tal efecto, deberá:
-
-a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables;
-
-b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen;
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
-
-c) Procurar que reciban atención médica y psicológica cuando sea necesaria, en coordinación con las autoridades competentes y conforme a la normativa aplicable, y
-
-d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica;
-
-XVIII. Someterse a los procesos de control de confianza y evaluación de desempeño, de conformidad con las Leyes y Reglamentos aplicables;
-
-XIX. Participar y asistir a los programas y cursos de capacitación que, para efectos de profesionalización, disponga la Fiscalía General;
-
-XX. Desempeñar su función sin solicitar o aceptar compensaciones, pagos o gratificaciones, y
-
-XXI. Las demás que señalen otras disposiciones jurídicas aplicables.
-
-El incumplimiento de estas obligaciones dará lugar a la sanción correspondiente en los términos de esta Ley y el Reglamento.
+El nombramiento de los titulares de las Oficialías Desincorporadas al Presupuesto de Egresos, será de carácter honorífico.
 
 ###### Artículo 18.
 
-Los servicios periciales tienen la misión de auxiliar con oportunidad, calidad y objetividad técnico-científica al Ministerio Público y a otras autoridades en el esclarecimiento de un hecho probablemente delictivo, a efecto de lograr la identificación del autor o autores del mismo.
-
-Son obligaciones de los Peritos, con independencia de las señaladas en otras disposiciones legales y reglamentarias aplicables, las siguientes:
-
-I. Manejar correctamente los indicios, huellas o vestigios del hecho delictivo, respetando la cadena de custodia correspondiente;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-II. Emitir los dictámenes con las formalidades técnicas y científicas, y conservarlos bajo los principios de confidencialidad y reserva; sin eximirlo de acudir a declarar en la Audiencia de Juicio Oral;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-III. Cumplir con las órdenes legalmente fundadas por el Ministerio Público, la Policía con conocimiento de éste o autoridades administrativas de la Fiscalía General, así como auxiliar a las diferentes autoridades;
-
-IV. Entregar, cuando así lo solicite el Ministerio Público, todos los objetos, materiales, evidencias e instrumentos del delito relacionados con las investigaciones encomendadas, así como aquellos de cualquier naturaleza que se encuentren abandonados;
-
-V. Guardar la debida reserva en el cumplimiento de sus obligaciones, evitando toda comunicación innecesaria que entorpezca, perjudique o paralice el desempeño normal de los asuntos a su cargo;
-
-VI. Excusarse de intervenir de cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
-
-VII. Someterse a los procesos de control de confianza y evaluación de desempeño, de conformidad con las Leyes y Reglamentos aplicables;
-
-VIII. Participar y asistir a los programas y cursos de capacitación que, para efectos de profesionalización, disponga la Fiscalía General;
-
-IX. Desempeñar su función sin solicitar o aceptar compensaciones, pagos o gratificaciones, y
-
-X. Las demás que señalen otras disposiciones jurídicas aplicables.
-
-El incumplimiento de estas obligaciones dará lugar a la sanción correspondiente en los términos de esta Ley y el Reglamento.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
+La designación y nombramiento de los Oficiales del Registro Civil, será a cargo del Titular del Poder Ejecutivo Estatal de conformidad con lo dispuesto por la Constitución Política del Estado Libre y Soberano de Sonora.
 
 ###### Artículo 19.
 
-La Fiscalía General está a cargo de un Fiscal General, quien es el Titular de la Institución del Ministerio Público, y ejerce la autoridad jerárquica sobre todo el personal de la misma, con excepción del Fiscal Anticorrupción, conforme a lo dispuesto por el artículo 13 BIS de esta Ley.
+Con el objeto de asegurar el cumplimiento de las obligaciones registrales para el caso de nacimientos y defunciones, la Dirección General deberá establecer Módulos Auxiliares Registrales en hospitales, maternidades o instituciones similares. Dichos módulos dependerán de una Oficialía Incorporada al presupuesto de egresos y su encargado será designado por el Director General.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+Artículo 19 BIS.- Los Oficiales del Registro Civil deberán designar al personal que deberá cubrir las guardias los días inhábiles o festivos para inscribir las actas de defunción y atender asuntos de extrema urgencia
 
 ###### Artículo 20.
 
-El Fiscal General y el Fiscal Anticorrupción emitirán los acuerdos, circulares, instructivos, protocolos, Programas, Manuales Administrativos y demás disposiciones que rijan la actuación de las Unidades Administrativas a su cargo.
+Son requisitos para ser Oficial del Registro Civil:
+
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Ser de reconocida honorabilidad personal y profesional;
+
+III.- No haber sido condenado por delito intencional que merezca pena corporal;
+
+IV.- Tener título profesional, con una práctica no menor de tres años en el ejercicio de su profesión,
+
+V.- Someterse previamente a los cursos de capacitación que imparta la Dirección General, y
+
+VI.- En el caso de los Oficiales del Registro Civil que sean nombrados en localidades o municipios donde existan grupos étnicos, tendrán que dominar la lengua en la que estos grupos se expresen.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2016)</small>
+
+El Titular del Ejecutivo del Estado podrá dispensar en los casos que estime necesario, el título profesional a que se refiere la fracción IV de este artículo.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2016)</small>
+
+En caso de que se actualice el supuesto de dispensa señalado en el párrafo anterior, el Subsecretario competente en la Secretaría de Gobierno, será el responsable de supervisar y verificar los actos del Oficial del Registro Civil al que se le haya otorgado la dispensa, así como del desempeño del mismo.
 
 ###### Artículo 21.
 
-Para el despacho de los asuntos de su competencia, la Fiscalía General contará con las siguientes Unidades Administrativas:
+Se prohíbe a los Oficiales del Registro Civil:
 
-I. Fiscalías Regionales o Especializadas;
+I.- Ejercer sus funciones fuera del ámbito de su jurisdicción;
 
-II. Coordinación General de Órganos Auxiliares;
+II.- Delegar las funciones a él atribuidas, salvo en aquellos casos que determine el Reglamento de esta Ley;
 
-III. Coordinación General de la Policía de Investigación Criminal;
+III.- Negarse a extender copias o certificaciones a que está obligado;
 
-IV. Direcciones Generales;
+IV.- Efectuar cobros en el ejercicio de sus funciones que excedan o no regule el arancel vigente de la Ley de Hacienda para cada uno de los actos registrales;
 
-V. Unidad de Representación Social;
+V.- Hacer uso de abreviaturas, enmendados y alteraciones de cualquier naturaleza, y
 
-VI. Direcciones de Área;
+VI.- Permitir el acceso a los archivos de la Oficialía a su cargo, a personas no autorizadas.
 
-VII. Unidades de Investigación;
-
-VIII. Unidades Especializadas de Investigación;
-
-IX. Unidad de Solución de Controversias;
-
-X. Centro de Justicia para Mujeres;
-
-XI. Visitaduría General, y
-
-XII. Las demás que resulten necesarias para su funcionamiento y las que disponga la normativa aplicable y reglamentaria, de conformidad con el presupuesto autorizado para ello.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
-
-Artículo 21 BIS. Para el despacho de los asuntos de su competencia, la Fiscalía Anticorrupción contará con las siguientes Unidades Administrativas:
-
-I. Vice-Fiscalías;
-
-II. Coordinaciones Generales;
-
-III. Direcciones Generales, y
-
-IV. Las demás que resulten necesarias para su funcionamiento y las que disponga la normativa aplicable y reglamentaria, de conformidad con el presupuesto autorizado para ello.
-
-Con independencia de ello, la Fiscalía Anticorrupción contará con la estructura que al efecto se establezca en su Reglamento Interior, así como en los Manuales Administrativos conforme a lo previsto en la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley y demás normativa aplicable, atendiendo la partida presupuestal que se le asigne.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-### CAPÍTULO V. DE LOS NOMBRAMIENTOS, LAS AUSENCIAS Y LA SEPARACIÓN
+### CAPÍTULO V. DE LAS AUSENCIAS DE LOS OFICIALES DEL REGISTRO CIVIL
 
 ###### Artículo 22.
 
-El Reglamento establecerá la integración, funciones y atribuciones de cada una de las Unidades Administrativas, así como de los titulares que las integran. La Fiscalía Anticorrupción se regirá por su propio Reglamento Interior.
+Las ausencias de los Oficiales del Registro Civil se clasificarán en:
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+I.- Ausencias Temporales Previsibles: Quedan comprendidas en este apartado las vacaciones, incapacidades médicas, suspensiones judiciales o administrativas y permisos administrativos;
 
-Cada Unidad Administrativa, contará con los Directores, Coordinadores, Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, operadores de justicia alternativa y demás personal que sea necesario para el cumplimiento de sus funciones, conforme a la disponibilidad presupuestaria y lo previsto en el Reglamento.
+II.- Ausencias Temporales Imprevisibles: Quedan comprendidas en este apartado la enfermedad, inasistencias derivadas de caso fortuito o fuerza mayor, y
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+III.- Ausencias Definitivas: Quedan comprendidas en este apartado las renuncias, muerte, resolución administrativa o judicial que los destituya o inhabilite del cargo.
 
 ###### Artículo 23.
 
-El Fiscal General y el Fiscal Anticorrupción, de conformidad con las disposiciones presupuestales asignadas para ello, en el ámbito de sus respectivas competencias, podrán establecer las Unidades Administrativas u Operativas que se encuentren previstas en sus propios Reglamentos, podrán formar Unidades de Investigación para la persecución de delitos por géneros o específicos que por su trascendencia, interés y características así lo ameriten de acuerdo con las necesidades del servicio.
+En los casos de ausencias temporales, los asuntos que se encuentren en trámite en la Oficialía, serán atraídos para continuar con su atención por la Oficialía que determine la Dirección General.
 
-#### SECCIÓN PRIMERA. DE LAS FISCALÍAS
+En los casos de ausencia definitiva o temporales que perduren más de cuatro meses, se observará lo dispuesto por el artículo 18 de esta Ley.
 
 ###### Artículo 24.
 
-La Fiscalía General, para ejercer las atribuciones que en materia de investigación y persecución de los delitos le confiere la Constitución General y la Constitución Local, contará con las Fiscalías Especializadas y Fiscalías Regionales que resulten necesarias, en los términos que dispongan la normativa, tanto federal como local, las disposiciones reglamentarias y las que por acuerdo emita el Fiscal General.
+Tratándose de ausencias temporales previsibles, los Oficiales del Registro Civil deberán notificar, por escrito y con una anticipación no mayor a cinco días, al Director General, a efecto de que éste determine la Oficialía que atraerá los asuntos o las medidas que considere necesarias.
 
-Las Fiscalías Especializadas, para el cumplimiento de sus funciones, tendrán adscritas las unidades especializadas de investigación integradas por Agentes del Ministerio Público y de la Policía de Investigación Criminal y Peritos que resulten necesarias, así como las Unidades Administrativas y el personal que resulten necesarios.
-
-A los Titulares de las Fiscalías Especializadas y Regionales, les corresponden, entre otras, las siguientes atribuciones comunes:
-
-I. Atender el despacho de los asuntos de su competencia y de las Unidades Administrativas a su cargo;
-
-II. Desempeñar las funciones, comisiones o atribuciones delegables que el Fiscal General instruya;
-
-III. Someter a la aprobación del Fiscal General estudios, proyectos o programas en los que participe por su competencia y la de las unidades a su cargo, así como proponer aquellos lineamientos normativos de coordinación y de operación de las diversas unidades a su cargo;
-
-IV. Velar por el correcto funcionamiento y coordinación de las actividades de las unidades que le estén adscritas, así como su vigilancia y evaluación, de conformidad con los lineamientos correspondientes;
-
-V. Participar en la elaboración del anteproyecto de presupuesto de las unidades a su cargo;
-
-VI. Proponer al Fiscal General, la delegación de las atribuciones que estimen necesarias en el personal subalterno para el óptimo desarrollo de las mismas;
-
-VII. Propiciar la comunicación con los titulares de las Unidades Administrativas de su adscripción y resolver los asuntos que sean competencia de los mismos;
-
-VIII. Resolver, por delegación que realice el Fiscal General mediante acuerdo, sobre los casos en que se considere el no ejercicio de la acción penal, así como las consultas que los Agentes del Ministerio Público formulen o las prevenciones que la autoridad judicial acuerde, en los términos que la Ley establezca;
-
-IX. Rendir informes al Fiscal General del cumplimiento de sus funciones, así como de asuntos que correspondan a las unidades a su cargo;
-
-X. Aportar información para la generación de datos estadísticos y otros de naturaleza diversa que puedan propiciar políticas públicas, programas o acciones institucionales;
-
-XI. Atraer asuntos que conozca el personal a su cargo para su atención directa o a través de otras unidades de su adscripción;
-
-XII. Ejecutar, en el ámbito de sus atribuciones, las bases y convenios celebrados por la Fiscalía General en las materias que le corresponda;
-
-XIII. Solicitar al órgano competente que se otorguen los apoyos a la víctima u ofendido del delito para la restauración y protección especial;
-
-XIV. Verificar que los Agentes del Ministerio Público, ejerciten la acción de extinción de dominio cuando se reúnan los elementos y supuestos establecidos en la ley de la materia y demás disposiciones jurídicas aplicables;
-
-XV. Supervisar la substanciación de los procedimientos en que participe el Ministerio Público, y
-
-XVI. Las demás que por disposición normativa o delegación expresa resulten pertinentes
-
-### CAPÍTULO VI. DEL RÉGIMEN LABORAL O ADMINISTRATIVO DEL PERSONAL
+### CAPÍTULO VI. DEL ARCHIVO ESTATAL
 
 ###### Artículo 25.
 
-Las Fiscalías Especializadas tendrán, además de las atribuciones que por materia y concurrencia de competencia se señalan en las leyes Federales y Locales, las siguientes:
+La Dirección General contará con un Archivo Estatal donde se archivará, custodiará y preservará un ejemplar de cada acta emitida por las Oficialías del Registro Civil.
 
-I. Investigar y perseguir los delitos de secuestro, extorsión, privación ilegal de la libertad en su modalidad de secuestro, contra la salud en su modalidad de narcomenudeo, trata de personas, tortura y todos aquellos que determine el Fiscal General, que por su trascendencia, relevancia o impacto social resulte necesario, en términos de la normativa aplicable, y
+Asimismo, se mantendrán al día las inscripciones, con los cambios que se produzcan cuando se reciban las notificaciones de los Oficiales del Registro Civil.
 
-II. Someter a consideración del Fiscal General la ejecución de todas las acciones necesarias y tendientes al debido cumplimiento de la normativa, que permita la actuación del Ministerio Público en la investigación y persecución de los delitos.
+Con el objeto de salvaguardar la validez legal de los documentos en custodia, el Archivo Estatal podrá introducir tecnología para el almacenamiento y recuperación de las inscripciones. Las inscripciones almacenadas por estos medios tendrán el mismo valor legal, que aquellas que obren en registros originales.
 
 ###### Artículo 26.
 
-Las Fiscalías Regionales ejercerán las atribuciones respecto de la investigación y persecución de los delitos, en las circunscripciones territoriales que sean designadas por el Fiscal General.
-
-Las Fiscalías Regionales, en el ejercicio de sus funciones y actividades, organizarán y supervisarán las acciones tendientes a lograr la eficacia del Ministerio Público en las diferentes etapas procesales, así como aplicarán las técnicas de investigación a que se refiere la normativa aplicable.
-
-Las Fiscalías Regionales tendrán jurisdicción en la demarcación territorial del Estado que les sea asignada por Acuerdo del Fiscal General, el que será publicado en el Periódico Oficial "Tierra y Libertad".
-
-#### SECCIÓN SEGUNDA. DE LA UNIDAD DE REPRESENTACIÓN SOCIAL, DESARROLLO PROFESIONAL Y ADMINISTRACIÓN
+El Archivo Estatal estará a cargo de un Director de Archivo Estatal de reconocida experiencia, designado por el Titular del Poder Ejecutivo.
 
 ###### Artículo 27.
 
-Para la atención y despacho de aquellos asuntos relativos a la Representación Social y los demás, competencia de la Fiscalía General y diferentes a la investigación y persecución de los delitos, ésta contará con una Unidad de Representación Social.
+En el Archivo Estatal constarán las inscripciones de los hechos relativos al estado civil de mexicanos ocurridos en el extranjero, siempre y cuando se hayan inscrito en cualquiera de las Oficialías del Estado, cumpliendo los requisitos que esta Ley establezca. La remisión de las inscripciones practicadas en el extranjero o de los antecedentes para la práctica de las mismas se efectuará directamente por los particulares que según la presente Ley tengan la obligación de declarar los hechos inscribibles.
 
 ## TÍTULO SEGUNDO. DE LAS ACTAS
 
-### CAPÍTULO VII. DEL SERVICIO DE CARRERA
+### CAPÍTULO I. DE LOS PROCEDIMIENTOS DE LAS ACTAS
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
-###### Artículo 28.
+###### Articulo 28.
 
-A la Unidad de Representación Social compete conocer, dirigir, coordinar y evaluar la actividad del Ministerio Público en su función de Representación Social en asuntos de carácter civil, familiar o de extinción de dominio o en cualesquiera procesos jurídicos y jurisdiccionales, diferentes de la materia penal, en términos de la normativa aplicable.
+Los Oficiales del Registro Civil tendrán fe pública para inscribir y autorizar los hechos y actos del estado civil, expedir los certificados de deudores alimentarios morosos, extender las actas y expedir las copias certificadas relativas a las actas de:
 
-#### SECCIÓN TERCERA. DE LA COORDINACIÓN DE ÓRGANOS AUXILIARES
+I.- Nacimiento;
+
+II.- Reconocimiento de hijos;
+
+III.- Adopción;
+
+IV.- Matrimonio;
+
+V.- Divorcio;
+
+VI.- Defunción;
+
+VII.- Inscripción de ejecutorias que declaren la tutela, ausencia o presunción de muerte, las que declaren la incapacidad legal para administrar bienes y el levantamiento de esta restricción, en su caso; y
+
+VIII.- Acreditación de hechos.
+
+El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Estado de Sonora, en el que se inscribirán los nombres de las personas que mediante resoluciones dictadas por jueces o tribunales hayan sido declaradas morosas en el cumplimiento de sus obligaciones alimentarias por más de noventa días.
+
+El Registro Civil expedirá un Certificado en el que hará constar si una persona se encuentra inscrita en el Registro de Deudores Alimentarios Morosos.
+
+El Registro Civil, una vez hecha la inscripción a que se refiere el párrafo anterior, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote el Certificado respectivo en los folios reales de que sea propietario el Deudor Alimentario Moroso.
+
+El Registro Público de la Propiedad informará al Registro Civil si fue procedente la anotación.
 
 ###### Artículo 29.
 
-La atención, coordinación, dirección y supervisión de las actividades de las Unidades Administrativas creadas, legislativa o administrativamente, para auxilio de la Fiscalía General; quedará a cargo de una Coordinación General de Órganos Auxiliares, cuya persona Titular deberá cumplir con los requisitos a que se refiere el artículo 37 de esta Ley.
+El registro de cualquier acto del estado civil se regirá, en cuanto a sus cobros, conforme a la Ley de Hacienda del Estado de Sonora del ejercicio fiscal correspondiente.
+
+Las personas de escasos recursos económicos, cuya situación se compruebe ante la Dirección General del Registro Civil, a través de los medios y requisitos que ésta determine, estarán exentas del pago de los derechos por los servicios relativos. Asimismo, estarán exentas las personas cuyo estado civil se regularice mediante actos que se deriven de la ejecución de programas nacionales, estatales y municipales.
 
 ###### Artículo 30.
 
-Se asignan a la Coordinación General de Órganos Auxiliares, las siguientes Unidades Administrativas:
+Las actas del Registro Civil se asentarán en formas especiales y las inscripciones se harán por cuadruplicado.
 
-I. Unidad de Solución de Controversias;
+Un ejemplar de las actas será entregado al interesado, otro será resguardado en la Oficialía de origen y dos más serán remitidos a la Dirección General.
 
-II. El Centro de Justicia para Mujeres, y
+La vigencia de las actas y las copias certificadas de las mismas que expida el Registro Civil, no estará sujeta a plazo alguno y los datos asentados en ellas se presumirán actualizados, salvo prueba en contrario.
 
-III. La Unidad de Bienes Asegurados.
+La disposición contenida en el párrafo anterior deberá asentarse en el acta correspondiente.
 
 ###### Artículo 31.
 
-El Fiscal General tendrá las siguientes atribuciones:
+Si alguna de las formas se extravía o destruye, se procederá inmediatamente a fotocopiar alguno de los otros ejemplares, ya sea que el extravío ocurra en la Oficialía del Registro Civil o en el Archivo Estatal. En caso de que la Dirección General no cuente con alguno de los ejemplares, se procederá de conformidad con lo establecido en el Reglamento Interior de esta Ley.
 
-I. Dirigir, organizar, administrar, controlar y supervisar el funcionamiento de la Fiscalía General;
-
-II. Establecer las medidas necesarias para consolidar la autonomía técnica y de gestión de la Fiscalía General;
-
-III. Autorizar el anteproyecto de Presupuesto de Egresos de la Fiscalía General, a fin de someterlo a la Secretaría de Hacienda del Poder Ejecutivo Estatal;
-
-IV. Implementar Programas y Proyectos piloto encaminados al desarrollo y funcionamiento de la Fiscalía General;
-
-V. Coadyuvar en la implementación, seguimiento, ejecución y evaluación del Sistema de Justicia Penal Acusatorio;
-
-VI. Gestionar, ante las autoridades de la Federación y Organismos Internacionales, recursos financieros así como subsidios para la implementación de la reforma del Sistema de Justicia Penal Acusatorio y los fines de la Fiscalía General; debiendo informar de éstos en su Cuenta Pública trimestral al Congreso;
-
-VII. Instruir de manera general o particular al personal de la Fiscalía General sobre el ejercicio de sus funciones y la prestación del servicio público;
-
-VIII. Dirigir reuniones e integrar grupos de trabajo especiales, para el diseño y ejecución de Proyectos o Programas específicos de la Fiscalía General;
-
-IX. Fijar las condiciones generales para el personal que integra la Fiscalía General, en términos de la normativa que resulte aplicable;
-
-X. Determinar los cambios de adscripción del personal de la Fiscalía General, de acuerdo con las necesidades del servicio, conforme a la normativa aplicable lo permita;
-
-XI. Administrar, de manera racional, eficiente y eficaz, los recursos materiales financieros y humanos de la Fiscalía General destinados al cumplimiento de sus fines;
-
-XII. Denunciar ante la autoridad competente, los actos u omisiones que en ejercicio de sus funciones cometa algún servidor público adscrito a la Fiscalía General, que pueda constituir responsabilidad administrativa o de cualquier otra naturaleza, en los términos de esta Ley y otros ordenamientos aplicables;
-
-XIII. Proponer al Gobernador los Proyectos o modificaciones a las Leyes, Reglamentos y Decretos de los ordenamientos normativos, relacionados con los fines de la Fiscalía General;
-
-XIV. Rendir informes o comparecer ante el Pleno del Congreso del Estado, en términos de lo dispuesto en la Constitución Política del Estado Libre y Soberano de Morelos;
-
-XV. Proponer, en los términos de la normativa aplicable, la clasificación de información reservada competencia de la Fiscalía General y que genere riesgos en las investigaciones que realice;
-
-XVI. Celebrar Convenios y Acuerdos con la Federación, las Entidades Federativas, las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, los Ayuntamientos, así como con las entidades privadas, docentes, académicas y de investigación, para la consecución de los fines de la Fiscalía General;
-
-XVII. Coadyuvar en la definición y aplicación de la política de persecución de los delitos en el Estado, en los términos que establezcan las leyes aplicables;
-
-XVIII. Solicitar la extradición de imputados que se encuentren fuera de territorio Nacional, conforme a lo dispuesto por las normas procesales aplicables;
-
-XIX. Formar parte de la Conferencia Nacional de Procuración de Justicia, así como formar parte en Fideicomisos o Comités en representación de la Fiscalía General;
-
-XX. Representar legalmente a la Fiscalía General ante las Secretarías, Dependencias y Entidades de la Administración Pública Estatal y autoridades jurisdiccionales, Federales y Municipales;
-
-XXI. Certificar y expedir copias cotejadas de los documentos que obren en sus archivos y de aquellos que expidan, en el ejercicio de, sus funciones, por sí o a través del personal que le esté subordinado;
-
-XXII. Aprobar y supervisar los acuerdos de cooperación y coordinación conjunta en el ámbito nacional, regional o internacional;
-
-XXIII. Ser parte integrante el Consejo Estatal de Seguridad Pública;
-
-XXIV. Conocer y resolver las excusas y recusaciones que sean interpuestas por o en contra del personal que integra la Fiscalía General;
-
-XXV. Determinar la política institucional del Ministerio Público, los criterios y prioridades en la investigación de los delitos y sobre el ejercicio de la acción penal;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XXVI. Emitir las disposiciones generales sobre los criterios de oportunidad que deba aplicar el Ministerio Público y autorizar o delegar en el funcionario público la aplicación de los criterios de oportunidad;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XXVII. Solicitar a la autoridad jurisdiccional competente la intervención de comunicaciones privadas conforme al Código Nacional de Procedimientos Penales y a la normativa aplicable;
-
-XXVIII. Emitir los criterios generales para el ejercicio de las atribuciones de la Fiscalía General en materia de justicia penal para adolescentes, de conformidad con las leyes aplicables;
-
-XXIX. Formular acusación, solicitar el sobreseimiento o la suspensión del proceso, cuando el Ministerio Público de la causa no proceda a realizarlo;
-
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
-
-XXX. Formular las correcciones de los vicios formales en la acusación o demanda de reparación de daños, cuando el Ministerio Público de la causa no lo realice;
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-XXXI. Emitir lineamientos generales de actuación para atender de forma pronta y expedita las solicitudes de intervención para la disposición de órganos y tejidos de seres humanos con fines de trasplante, cuando con motivo de una investigación se encuentren a su disposición y se reúnan los requisitos establecidos en el Código Nacional de Procedimientos Penales y demás disposiciones jurídicas aplicables;
-
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-XXXII. Participar en su ámbito de competencia, en el desarrollo de acciones de prevención del delito, y
-
-XXXIII. Las demás que le otorguen y confieran otras disposiciones legales y reglamentarias, Federales y Locales, aplicables.
+El Procurador General de Justicia en el Estado cuidará de que se cumpla esta disposición, a ese efecto, el Oficial del Registro Civil o el encargado del archivo, le dará aviso de la pérdida.
 
 ###### Artículo 32.
 
-El Fiscal General podrá ser representado ante las autoridades judiciales, administrativas y del trabajo por el personal que para tal efecto designe.
+El estado civil de las personas sólo se comprueba con las constancias relativas del registro. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la Ley.
 
 ###### Artículo 33.
 
-El Fiscal General, para la mejor organización y funcionamiento de la Fiscalía General, podrá delegar el ejercicio de las atribuciones a que se refiere el artículo 24 de esta Ley, con excepción de las siguientes:
-
-I. Aquellas que le estén reservadas constitucionalmente, y
-
-II. Las señaladas en las fracciones III, IV, VII y VIII, del artículo 6 y los artículos 20 y 23 de esta Ley.
+No podrá asentarse en las actas ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso, a lo que ellas se refieren y lo que esté expresamente prevenido en la Ley.
 
 ###### Artículo 34.
 
-Para ocupar el cargo de Fiscal General se deben cumplir los requisitos exigidos por la Constitución Política del Estado Libre y Soberano de Morelos.
+Cuando los interesados no pueden concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público o Juez competente.
 
 ###### Artículo 35.
 
-El Fiscal General, será suplido en sus ausencias absolutas en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Morelos.
+En la formación de las actas del estado civil se observarán las siguientes reglas:
 
-En el Reglamento se normará la suplencia del Fiscal General en los casos de ausencia temporal, suplencia que no podrá durar más de noventa días naturales.
+I.- Los testigos que intervengan en las actas del Registro Civil deberán ser mayores de edad, se preferirán a los parientes y a los que designen los interesados, asentándose en el acta su nombre, edad, domicilio y nacionalidad;
 
-El servidor público que supla al Fiscal General ante su ausencia absoluta, ejercerá las atribuciones que le confieran la Constitución Política del Estado Libre y Soberano de Morelos, la presente Ley y las demás normas que resulten aplicables.
+II.- Inscrita la forma del acta, ésta será leída por el Oficial del Registro Civil, a los interesados y testigos, la firmarán todos y si alguno no puede hacerlo, se imprimirá su huella digital. También se expresará que el acta fue leída y quedaron conformes los interesados con su contenido;
+
+III.- Si un acto comenzado se entorpeciera porque las partes se nieguen a continuarlo por cualquier motivo, se inutilizará el folio contenido en el acta, marcando ésta con dos líneas transversales y expresándose el motivo por el cual se suspendió, razón que deberá firmar el Oficial del Registro Civil;
+
+IV.- Las actas se enumerarán e inscribirán una después de otra, sin dejar entre ellas ningún renglón entero en blanco;
+
+V.- Tanto las fechas de las actas como cualquier otro número serán inscritos en cifras aritméticas;
+
+VI.- En ninguna frase se emplearán abreviaturas;
+
+VII.- No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra se pasará sobre ella una línea de manera que quede legible, se advertirá al final del acta la razón del porque se ha testado y se firmará por el Oficial del Registro Civil, y
+
+VIII.- En los documentos que presenten los interesados se asentarán el número de acta, la fecha y el sello de registro. Éstos se depositarán en el archivo correspondiente, anexándose en cada remisión de formas de acta el índice respectivo.
 
 ###### Artículo 36.
 
-El Fiscal General deberá protestar guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y las leyes que de ellas emanen, desempeñando leal y patrióticamente el cargo que se le ha conferido.
-
-Los Titulares de las Unidades Administrativas a que se refiere el artículo 21 de esta Ley, antes de tomar posesión de sus cargos, rendirán protesta en los términos a que se refiere el párrafo anterior ante el Fiscal General o la persona que éste designe, en acto solemne que se celebre al efecto.
-
-El Titular de la Visitaduría General será nombrado y removido por el Fiscal General, en términos de la legislación aplicable.
+Los vicios o defectos que haya en las actas, cuando no sean substanciales, no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
 ###### Artículo 37.
 
-Para ser Fiscal Regional o Especializado se deberán cumplir con los siguientes requisitos:
-
-I. Ser ciudadano mexicano, preferentemente morelense en pleno ejercicio de sus derechos;
-
-II. Poseer título y cédula profesional de licenciatura licenciado en derecho, con antigüedad de cuando menos cinco años previos a la fecha de su designación, y contar por lo menos con treinta años de edad cumplidos al día de su designación;
-
-III. Tener por lo menos tres años de experiencia profesional en materia penal, a partir de la expedición de la cédula profesional correspondiente;
-
-IV. Ser de reconocida honorabilidad y honradez;
-
-V. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
-
-VI. No haber sido condenado por sentencia irrevocable como responsable de un delito doloso. Si se tratare de ilícitos que lesionen seriamente la buena fama de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo, cualquiera que haya sido la sanción impuesta, y
-
-VII. Aprobar examen de control de confianza en los términos que establezcan las disposiciones legales aplicables.
-
-El personal a que se refiere el presente artículo será nombrado y removido por el Fiscal General, conforme a la normativa aplicable.
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+Toda persona puede solicitar copia certificada de las actas del Registro Civil. Los Oficiales y el Director de Archivo Estatal están obligados a expedirlas, conforme a lo establecido en esta Ley.
 
 ###### Artículo 38.
 
-Los operadores de justicia alternativa deberán cumplir los requisitos que se señalan en el artículo anterior, con excepción de lo dispuesto en las fracciones II y VII, en virtud de no adquirir la calidad de agentes del Ministerio Público y demás supuestos que establece la normativa aplicable, quienes deberán de contar con título y cédula profesional de la especialidad de que se trate.
+Los hechos y actos del estado civil relativos al Oficial del Registro Civil, de su cónyuge, ascendientes o descendientes, hasta el cuarto grado de cualquiera de ellos, no podrán autorizarse por el propio Oficial pero se asentarán en las formas correspondientes, autorizándose por otro Oficial del Registro Civil.
 
 ###### Artículo 39.
 
-El resto de las personas titulares de las Unidades Administrativas que se señalan en el artículo 21 de esta Ley, deberán reunir los requisitos y el perfil exigidos en el Reglamento.
+Las actas del Registro Civil harán prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones, dé testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser objetada de falsa.
+
+Las declaraciones de los comparecientes hechas en cumplimiento de lo mandado por la Ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta, no tiene valor alguno.
 
 ###### Artículo 40.
 
-En el caso de los Agentes del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, en términos del artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, su ingreso y permanencia se regularán, de conformidad con las disposiciones legales y reglamentarias aplicables para tal efecto.
+Para establecer el estado civil adquirido por los mexicanos fuera del país, bastarán las actas que los interesados presenten de los actos relativos, debidamente apostilladas o legalizadas, según sea el caso, sin necesidad de juicio previo, siempre que se registren ante la Oficialía del Registro Civil correspondiente. Las actas que estuvieran redactadas en idioma extranjero deberán acompañarse de la traducción al idioma español, hecha por un perito autorizado por el Poder Judicial.
+
+En el caso de que cuenten con resolución judicial redactada en idioma extranjero, ésta deberá someterse a los tribunales del Estado competentes.
 
 ###### Artículo 41.
 
-El personal de la Fiscalía General que no realice funciones policiales, de pericia o de investigación y que no pertenezca al Servicio de carrera, mantendrá una relación de carácter laboral con la Fiscalía General, por lo que el ingreso y permanencia serán de conformidad con las disposiciones legales que para tal efecto se encuentren vigentes en la Entidad.
-
-El Reglamento determinará los requisitos que deberán satisfacer las personas titulares de las Unidades Administrativas que integran la Fiscalía General, que no se encuentren bajo el supuesto establecido en el párrafo anterior.
+El Ministerio Público cuidará de que las inscripciones del Registro Civil se lleven debidamente, pudiendo inspeccionarlas en cualquier época. Durante los seis primeros meses de cada año, el Ministerio Público revisará las inscripciones del año anterior enviadas al Archivo Estatal para el efecto de hacer la consignación correspondiente de los Oficiales del Registro Civil que hubieren cometido delito en el ejercicio de su encargo, o de dar aviso a las autoridades administrativas de las faltas que hubieren incurrido esos funcionarios; debiendo, en todo caso, rendir informe oportuno del resultado de su examen al Ejecutivo, del cual se dejará una copia en la Oficialía correspondiente y otra se enviará a la Dirección General. La infracción de este artículo produce responsabilidad para los Agentes del Ministerio Público.
 
 ###### Artículo 42.
 
-Para el ingreso y permanencia como Agentes del Ministerio Público, además de reunir los requisitos establecidos al efecto en la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema de Seguridad Pública del Estado de Morelos, se estará a lo siguiente:
-
-I. El ingreso se hará por Convocatoria Pública, resultando exigibles los requisitos que se señalan a continuación:
-
-a) Tener por lo menos veintiocho años de edad al momento de su nombramiento, y
-
-b) Tener experiencia profesional de por lo menos tres años en materia penal;
-
-II. Para su permanencia se requiere:
-
-a) No ausentarse del servicio sin causa justificada por un período mayor a tres días consecutivos o, en su caso, por cinco días dentro de un término de treinta días naturales, y
-
-b) Participar en los procesos de ascenso que se convoquen conforme a las disposiciones jurídicas aplicables.
+Solamente el personal del Registro Civil autorizado tendrá acceso a la consulta y examen directo de los documentos originales archivados y de los documentos registrales disponibles en las correspondientes Oficialías.
 
 ###### Artículo 43.
 
-Para el ingreso y permanencia como Perito del Servicio de Carrera, además de reunir los requisitos establecidos al efecto en la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema de Seguridad Pública del Estado de Morelos, se estará a lo siguiente:
-
-I. El ingreso se hará por Convocatoria Pública, y
-
-II. Para su permanencia, deberá satisfacer los requisitos a que se refiere la fracción II del artículo anterior.
+En el caso de que se deba hacer alguna anotación a un acta resguardada en el Archivo Estatal del Registro Civil, deberá realizarse al margen del acta que corresponda, si no fuese posible por razón de espacio se hará por el reverso de ésta. Cada anotación marginal deberá sellarse y firmarse por el Oficial o el Director de Archivo Estatal, en su caso.
 
 ###### Artículo 44.
 
-Para el ingreso y permanencia como Agente de la Policía de Investigación Criminal de Servicio de Carrera, se deberá de reunir los requisitos establecidos al efecto en la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema de Seguridad Pública del Estado de Morelos. Asimismo, tratándose de su permanencia, resultarán exigibles los requisitos que se señalan a continuación:
+La Dirección General, a solicitud de la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación, informará sobre las resoluciones que emitan las autoridades administrativas o judiciales, de las que resulten modificaciones de los datos de registro de la persona, en los siguientes casos:
 
-I. Cumplir las órdenes de comisión, rotación y cambios de adscripción de conformidad con las necesidades del servicio, y
+I.- Reconocimiento;
 
-II. No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio.
+II.- Adopción;
 
-### CAPÍTULO VIII. DE LA VISITADURÍA GENERAL
+III.- Nulidad, y
+
+IV.- Rectificación o aclaración.
+
+### CAPÍTULO II. DE LAS ACTAS DE NACIMIENTO
 
 ###### Artículo 45.
 
-Los aspirantes para ingresar como Agentes del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, deberán contar con la certificación y registro correspondientes, de conformidad con las disposiciones jurídicas aplicables.
+El registro de nacimiento es el acto jurídico mediante el cual, el Estado garantiza la identidad de las personas. Toda persona tiene derecho al nombre o nombres y apellidos que legalmente le pertenecen.
 
-No podrá autorizarse el ingreso o la permanencia en la Fiscalía General de persona alguna que no cuente con la certificación y registro vigentes.
+Los apellidos corresponderán, por su orden, el primero del padre y el primero de la madre. En el caso de hijos monoparentales se usará el primer apellido de la madre y en caso de solicitar el asentamiento del segundo apellido de la madre, será a petición de ésta.
+
+> <small>(REFORMADO, B.O. 26 DE JUNIO DE 2014)</small>
 
 ###### Artículo 46.
 
-La certificación tendrá por objeto, acreditar que el aspirante o servidor público es apto para ingresar o, en su caso, permanecer en la Fiscalía General, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+El oficial del registro civil orientará a quien comparezca a registrar a una persona, sobre la importancia en la selección del nombre propio, con el objeto de que el mismo, contribuya adecuadamente en el proceso del menor para forjarse una identidad.
+
+La Dirección General podrá realizar campañas de concientización entre la población, a efecto de reforzar lo dispuesto en el párrafo anterior.
 
 ###### Artículo 47.
 
-Previo al ingreso como Agentes del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, será obligatorio que la Fiscalía General consulte los antecedentes del aspirante en el Registro Nacional de Personal de Seguridad Pública y en el Sistema Estatal de Seguridad Pública, en los términos previstos en las disposiciones jurídicas aplicables, dejando constancia en el expediente laboral.
+Las declaraciones de nacimiento se harán presentando al menor ante el Oficial del Registro Civil en su oficina o donde aquél hubiere nacido.
 
 ###### Artículo 48.
 
-El personal de la Fiscalía General será suplido en sus ausencias en los términos que establezca el Reglamento.
+Tienen la obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos; en caso de que los padres no vivan o que por enfermedad que incapacite a éstos de acudir al Registro Civil, tendrán esta obligación los abuelos maternos del menor, dentro de los ciento ochenta días de ocurrido aquél.
+
+Los médicos cirujanos, matronas o parteras que asistan un parto tienen obligación de dar el aviso de nacimiento que expide la Secretaría de Salud al padre y la madre o cualquiera de ellos, dentro de los tres días después del nacimiento. En caso de que los padres comparezcan al Registro Civil individualmente, deberán acreditar con acta de matrimonio su filiación. Recibido el aviso de nacimiento, el Oficial del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento, conforme a las disposiciones relativas, cuidando de asentar los datos tal y como se establecen en el aviso de nacimiento.
 
 ###### Artículo 49.
 
-El Servicio de Carrera es un sistema de carácter obligatorio y permanente en el cual, se establecen los lineamientos de reclutamiento, selección, ingreso, certificación, formación y permanencia de los Agentes y Oficiales Auxiliares del Ministerio Público, los Peritos y los Agentes de la Policía de Investigación Criminal de la Fiscalía General y de la Fiscalía Anticorrupción.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+Cuando no exista aviso de nacimiento expedido por la Secretaría de Salud o por causa de fuerza mayor no se tuviere, el compareciente deberá presentar, ante el Oficial del Registro Civil, denuncia de hechos realizada ante el Ministerio Público del lugar donde se pretenda hacer la inscripción del registro de nacimiento, en la que se haga constar la razón de la falta de documentos y las circunstancias en que ocurrió el nacimiento. Dicha denuncia se anexará al expediente.
 
 ###### Artículo 50.
 
-El Servicio de Carrera de los Agentes y Oficiales Auxiliares del Ministerio Público, los Peritos y los Agentes de la Policía de Investigación Criminal de la Fiscalía General y de la Fiscalía Anticorrupción, comprenderá la selección, ingreso, permanencia, estímulos, promoción, reconocimiento y terminación del mismo, en las siguientes etapas:
-
-I. El ingreso, que comprende los requisitos y procedimientos de selección, formación y certificación inicial, así como registro;
-
-II. El desarrollo, que comprende los requisitos y procedimientos de formación continua y especializada, actualización, evaluación para la permanencia, evaluación del desempeño, desarrollo y ascenso, estímulos y reconocimientos, reingreso y certificación. De igual forma, comprenderá medidas disciplinarias y sanciones para el personal del Servicio de Carrera, y
-
-III. La terminación, que comprende las terminaciones ordinarias y extraordinarias del Servicio de carrera, así como los procedimientos establecidos por las disposiciones jurídicas aplicables para el efecto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+Las personas que estando obligadas a declarar el nacimiento lo hagan fuera del término fijado, adicionalmente a presentar el aviso de nacimiento, tendrán que exhibir los documentos que para este efecto se establezcan en el Reglamento de esta Ley.
 
 ###### Artículo 51.
 
-Los miembros del Servicio de Carrera de la Fiscalía General y de la Fiscalía Anticorrupción dejarán de formar parte del mismo por terminación ordinaria o extraordinaria, conforme a lo siguiente:
-
-I. De manera ordinaria, por:
-
-a) Renuncia;
-
-b) Incapacidad permanente para el desempeño de las funciones, y
-
-c) Jubilación;
-
-II. De manera extraordinaria, por:
-
-a) No acreditar los requisitos de ingreso y permanencia, o
-
-b) Incurrir en alguna de las causas de responsabilidad, establecidas en la Ley.
+En las poblaciones en que no haya Oficial del Registro Civil, el menor será presentado en la Oficialía más cercana al lugar donde ocurrió el nacimiento.
 
 ###### Artículo 52.
 
-En la Fiscalía General, existirá una Unidad Administrativa encargada de la investigación, vigilancia, supervisión y evaluación técnica-jurídica, denominada Visitaduría General, la cual, previa la investigación de los hechos denunciados, y en su caso, el desahogo del procedimiento administrativo correspondiente, someterá al Consejo de Honor que para tal efecto se constituya, la propuesta de sanción derivada del procedimiento previsto en la presente Ley, en concordancia con lo dispuesto en la Ley del Sistema de Seguridad Pública del Estado de Morelos.
+El acta de nacimiento contendrá, por lo menos, el año, mes, día, hora y lugar de nacimiento, el sexo, la impresión digital del presentado, el nombre y apellidos que le corresponden, mencionando expresamente si es presentado vivo o muerto; el nombre, edad, domicilio y nacionalidad de los padres; nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos.
+
+Si éste se presenta por el Ministerio Público o el Procurador de la Defensa del Menor y la Familia como hijo de padres desconocidos, el Oficial del Registro Civil hará constar esta circunstancia en el acta.
 
 ###### Artículo 53.
 
-La Visitaduría General, estará bajo el mando inmediato del Titular de la Institución. Será observador y conocerá de aquellas actuaciones que ameriten algún reconocimiento o sanción para el personal de la Fiscalía General, ya sea de oficio o a petición de algún mando.
+Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial, constituido en la forma establecida en el artículo 63; haciéndose constar en todo caso la petición.
+
+La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones relativas del Código Civil.
+
+Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio, declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
 
 ###### Artículo 54.
 
-La Visitaduría General, tendrá facultades para iniciar los procedimientos de sanción a que se refiere el artículo anterior, en los siguientes casos:
-
-I. De manera oficiosa, o a través de quejas o denuncias, que podrán ser recibidas por cualquier medio electrónico, impreso o verbal, y que sean interpuestas en contra del personal de la Institución;
-
-II. Cuando por su competencia o a petición del superior jerárquico inmediato se considere que el elemento infringió los principios de actuación, obligaciones o deberes establecidos en la presente Ley y otros ordenamientos legales, y
-
-III. Aquéllos que instruya el Titular de la Institución, en su caso, incluidos los que correspondan al cumplimiento de una recomendación emitida por las Comisiones Estatal o Nacional de Derechos Humanos, aceptada por el propio Titular.
-
-Los procedimientos se desahogarán sin perjuicio de aquéllos que se instauren en contra de los servidores públicos, ante la Secretaría de la Contraloría en el ámbito de las atribuciones establecidas por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+Si el padre o la madre no pudieren concurrir ni tuvieren apoderado pero solicitan ambos o alguno de ellos la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta, previo pago de los derechos correspondientes.
 
 ###### Artículo 55.
 
-El personal de la Institución, que sean sujetos a investigación o procedimiento administrativo interno, como medida preventiva, podrán ser asignados a las áreas donde no tengan acceso al uso de armas, ni vehículos, ni contacto con el público en general, estando a disposición de la Visitaduría General.
+Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso ni a petición de persona alguna, podrá el oficial del registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoriada que así lo declare.
 
 ###### Artículo 56.
 
-Los quejosos serán considerados parte en el procedimiento administrativo, para la imposición de correctivos disciplinarios o de sanciones internas, que inicie la Visitaduría General; en todos los casos se deberá preservar el principio de presunción de inocencia y respetar su derecho a audiencia y debido proceso.
+Se prohíbe al Oficial del Registro Civil y a los testigos que, conforme el artículo 52 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al menor, aunque parezcan sospechosas de falsedad, sin perjuicio de que ésta sea castigada conforme a las disposiciones del Código Penal.
 
 ###### Artículo 57.
 
-Para ser Titular de la Visitaduría General se requiere:
-
-I. Ser mexicano por nacimiento;
-
-II. Tener más de cinco años de residencia en el Estado, al día de la designación;
-
-III. Ser Licenciado en Derecho con título y cédula profesional debidamente registrados;
-
-IV. Tener experiencia en procesos jurídicos en materia disciplinaria de por lo menos tres años anteriores a la designación;
-
-V. Acreditar los requisitos de ingreso y permanencia a que se refiere esta Ley;
-
-VI. No haber sido Inhabilitado para el desempeño de cargo o comisión en la administración pública, y
-
-VII. No haber sido sentenciado por delito doloso.
+Si al dar aviso de su nacimiento se comunica también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción.
 
 ###### Artículo 58.
 
-La Visitaduría General, para el efecto de realizar las investigaciones suficientes y allegarse de todos los datos necesarios, para poder determinar de manera fundada y motivada sus actuaciones, así como los reconocimientos y sanciones preventivas o definitivas que proponga ante el Consejo de Honor, contarán con la estructura adecuada y el personal apropiado para el cumplimiento de sus funciones, en los términos señalados en la presente Ley y en su Reglamento.
+Cuando se trate de nacimiento múltiple se levantará un acta por cada uno de los nacimientos.
 
 ###### Artículo 59.
 
-Los elementos sujetos a procedimiento administrativo disciplinario o de sanción, tendrán derecho a defenderse por sí, por abogado o por persona de su confianza, respetando en todo momento su derecho de audiencia y debido proceso.
+Cuando la madre sea menor de edad y carezca del consentimiento de quien ejerza sobre ella la patria potestad o tutela, el Oficial del Registro Civil procederá a autorizar el registro, asentando el nombre del presentado con los apellidos que correspondan, atendiendo al derecho superior del niño a tener nombre, nacionalidad y en la medida de lo posible a conocer a sus padres.
 
-### CAPÍTULO IX. DEL CONSEJO DE HONOR Y JUSTICIA
+### CAPÍTULO III. DEL REGISTRO DE NACIMIENTO DE PERSONAS MAYORES Y GRUPOS ÉTNICOS
 
 ###### Artículo 60.
 
-En los asuntos que conozca la Visitaduría General, se abrirá un expediente con las constancias que existan sobre el particular, bajo el siguiente procedimiento:
+Para que proceda la autorización de registros de nacimiento de personas mayores de 60 años cuyos ascendientes estén fallecidos deberán presentarse los siguientes requisitos ante la Dirección General:
 
-I. Al momento de tener conocimiento de la queja o denuncia, en un término máximo de treinta días hábiles, deberá integrar la investigación correspondiente, allegándose de la información mínima que sea necesaria, así como de las pruebas que sean ofrecidas por el quejoso y las que de forma directa pueda recabar; en caso de contar con pruebas suficientes, determinará el inicio del procedimiento administrativo, cuando la conducta atribuida encuadre o se encuentre prevista en el artículo 85 de la presente Ley y 27, de la Ley Estatal de Responsabilidades de los Servidores Públicos para el Estado;
+I. Solicitud de registro que contenga los requisitos que establece el Reglamento de esta Ley;
 
-II. Concluido el término señalado en la fracción anterior, deberá citar al sujeto a procedimiento, para hacerle saber la naturaleza y causa del mismo, a fin de que conozca los hechos que se le imputan, entregándole copias certificadas del expediente formado para tal efecto, dejando constancia de ello;
+II. Comparecencia de la persona a registrar con identificación oficial o, en su caso, constancia domiciliaria o equivalente, conforme a lo establecido en el Reglamento de esta Ley;
 
-III. Practicada la notificación al sujeto a procedimiento, contará con quince días hábiles para que formule la contestación y ofrezca las pruebas que a su derecho convengan, relacionándolas con los hechos controvertidos; concluido el término para contestar y certificado el cómputo y la conclusión del mismo, las partes podrán ofrecer pruebas de carácter superviniente, que a su derecho correspondan; dentro de los tres días siguientes se dictará auto para que tenga verificativo la audiencia de pruebas y alegatos, debiendo contener lugar, día y hora para el desahogo de las mismas, con el apercibimiento de ambas partes, que en caso de no comparecer sin causa justificada, se llevará a cabo la audiencia, teniéndose por precluído su derecho para tal efecto. El plazo para el desahogo de esta audiencia no deberá exceder de quince días hábiles.
+III. Constancia de inexistencia de registro de nacimiento que comprenda un año anterior a la fecha de nacimiento, emitida por el Archivo Estatal del Registro Civil;
 
-IV. En la audiencia a que se refiere la fracción anterior, se desahogarán las pruebas ofrecidas y las partes deberán formular los alegatos que a su derecho convengan de manera verbal o por escrito, acto seguido, se cerrara la instrucción de este procedimiento y se procederá a dictar la propuesta de sanción, la que deberá dictarse debidamente fundada y motivada en un plazo que no deberá exceder el término de diez días hábiles siguientes;
+IV. En caso de no ser originario del Estado de Sonora, además, será necesaria la presentación de la constancia de inexistencia de nacimiento que comprenda, por lo menos, un año anterior a la fecha de nacimiento, emitida por la Oficialía del Registro Civil del lugar donde ocurrió el alumbramiento, y
 
-V. Emitiéndose la propuesta de sanción se pondrá de inmediato a la consideración del Consejo de Honor, para que dentro de los quince días hábiles siguientes, la califique y éste emita la resolución definitiva, en un plazo que no deberá exceder el término de diez días hábiles siguientes, pudiendo confirmar o modificar la sanción propuesta por la Visitaduría General, e incluso si se tratara de la primera sanción a imponer y si la infracción no es calificada como grave podrá determinar la no imposición de sanción alguna, y
+V. Identificaciones o documentos públicos, así como aquellos complementarios privados o de carácter religioso que acrediten el uso del nombre con el cual se pretenda registrar.
 
-VI. A falta de disposición expresa y en cuanto no se oponga a lo que prevé este ordenamiento, se estará a lo dispuesto supletoriamente por la Ley de Justicia Administrativa en el Estado para el Estado de Morelos, la Ley Estatal de Responsabilidades de los Servidores Públicos; y el Código de Procesal Civil para el Estado Libre y Soberano de Morelos.
+El acta de nacimiento en estos casos contendrá el nombre, apellidos y lugar de nacimiento, debido a que se consideran inscripciones especiales las cuales no causarán filiación alguna.
 
 ###### Artículo 61.
 
-Los procedimientos que deba conocer la Visitaduría General, deberán resolverse en un plazo no mayor de ciento ochenta días hábiles, contados a partir de la presentación de la queja. Al vencimiento de este término se deberá contar con la resolución del Consejo de Honor, debidamente fundada y motivada, debiendo devolverla en su caso para su ejecución a la Visitaduría General.
-
-De cada actuación se levantará constancia por escrito, que se integrará de forma secuencial y numerada al expediente del procedimiento respectivo.
+En caso de no poder acreditar algún requisito de los enunciados en el artículo anterior, la Dirección General aceptará denuncia de hechos rendida ante el Ministerio Público correspondiente para poder proceder a la autorización de registro de nacimiento de persona mayor de 60 años cuyos ascendientes estén fallecidos.
 
 ###### Artículo 62.
 
-La Visitaduría General, tendrá amplias facultades para examinar los expedientes u hojas de servicio del o los sujetos a procedimiento y podrá practicar tantas diligencias legales sean necesarias, dentro del plazo concedido para el cierre de la instrucción, a fin de allegarse los datos necesarios para emitir su propuesta de sanción al Consejo de Honor y Justicia; dentro de las constancias deberá obrar copia certificada del expediente personal del sujeto a procedimiento.
+Se deberán facilitar las inscripciones de nacimiento de quienes acrediten plenamente su formal integración a un grupo étnico legítimamente establecido en el Estado.
 
-La Visitaduría General, podrá requerir información a todas las áreas de la Institución, las que están obligadas y deberán ajustarse a los términos especificados por esta Ley. En caso de negativa, negligencia o retraso, serán sujetos al procedimiento correspondiente, de conformidad con la presente Ley.
+Las actas del estado civil de estos grupos podrán ser inscritas en la lengua en la que ellos se expresen y tendrán que ser traducidas al español.
 
-Así mismo, podrá solicitar información a otras instancias o autoridades para los efectos de la debida integración de la investigación.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
-
-Para el cumplimiento de estos fines, al momento de requerir la información a que se refiere el párrafo tercero de este artículo, podrá apercibir y, en su caso, multar a las autoridades que nieguen o retrasen la información que les sea solicitada, con una multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de cumplir con la obligación de informar.
-
-La multa a que se refiere el párrafo anterior, tendrá la naturaleza de crédito fiscal y una vez impuesta la remitirá para su ejecución a la Secretaría de Hacienda del Estado.
-
-### CAPÍTULO X. DE LOS PROCESOS DE FORMACIÓN Y EVALUACIÓN DEL PERSONAL
+### CAPÍTULO IV. RECONOCIMIENTO DE HIJOS NACIDOS FUERA DE MATRIMONIO
 
 ###### Artículo 63.
 
-En aquellos casos que con motivo de su actuación, la Visitaduría General, tenga conocimiento de la probable comisión de algún delito, lo harán del conocimiento del Agente del Ministerio Público que corresponda, para que este actúe conforme a derecho.
+La inscripción del reconocimiento de hijos nacidos fuera de matrimonio, podrá hacerse ante el Oficial del Registro Civil por alguna de las siguientes formas:
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+I. En la partida de nacimiento;
+
+II. Por acta especial ante el mismo oficial;
+
+III. Por escritura Pública;
+
+IV. Por testamento;
+
+V. Por confesión judicial directa y expresa;
+
+VI. En el acta de matrimonio de los padres, aunque el hijo haya fallecido sí dejó descendientes, y
+
+VII. Por reconocimiento realizado ante el Director del Centro de Justicia Alternativa del Poder Judicial.
 
 ###### Artículo 64.
 
-La Visitaduría General, será el órgano de la institución encargada de ejecutar las resoluciones que determine el Consejo de Honor; esta deberá ser notificada personalmente al interesado, para lo que estime pertinente conforme a derecho; una vez que haya quedado firme la resolución mediante la que se imponga una sanción, los integrantes del Consejo de Honor, vigilarán en coordinación con las áreas administrativas y operativas correspondientes, lo relativo a la suspensión o destitución, descuentos de adeudos, resguardos e inventario de equipo, así como su correspondiente inscripción en los Sistemas Nacional y Estatal de Seguridad Pública y otras medidas conducentes; el incumplimiento dará lugar a las sanciones previstas por la Ley General de Responsabilidades Administrativas y la legislación aplicable en la materia.
+El Oficial del Registro Civil inscribirá directa y gratuitamente, en el libro respectivo, el reconocimiento hecho en escritura pública, testamento, confesión judicial o convenio realizado ante el Centro de Justicia Alternativa del Poder Judicial, sin necesidad de resolución judicial.
 
 ###### Artículo 65.
 
-La Fiscalía General, en cumplimiento a lo establecido en el artículo 176, de la Ley del Sistema de Seguridad Pública del Estado de Morelos, integrará el Consejo de Honor, el que en coordinación con la Visitaduría General, serán las instancias encargadas, en el respectivo ámbito de su competencia y atribuciones, de conocer, resolver y ejecutar, los procedimientos administrativos del Régimen Disciplinario, en los términos establecidos en la presente Ley y su Reglamento.
+El padre o la madre pueden reconocer al hijo, conjunta o separadamente, en cualquiera de las formas previstas en esta Ley. El reconocimiento hecho por uno de los padres produce efectos respecto de él y no respecto del otro progenitor.
 
 ###### Artículo 66.
 
-Los integrantes del Consejo de Honor, velarán por la honorabilidad y reputación de la institución y combatirán con energía las conductas lesivas para la comunidad o la corporación; para tal efecto gozarán de amplias facultades para examinar los expedientes u hojas de servicio de los elementos para allegarse de la información necesaria para dictar su resolución.
+Si el reconocimiento del hijo habido fuera de matrimonio se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos establecidos en esta Ley, se observarán los siguientes en sus respectivos casos:
+
+I. Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido, y
+
+II. Si el hijo es menor de edad, se expresará el consentimiento de quien ejerza la patria potestad o la tutela.
+
+Una vez hecho el reconocimiento, en el caso de que se omita hacer la anotación ante el Oficial del Registro Civil, no exime de los derechos y responsabilidades que se adquieren por el mismo.
 
 ###### Artículo 67.
 
-El Consejo de Honor de la Fiscalía General, estará integrado por los Consejeros siguientes:
+El Oficial del Registro Civil deberá informar, mensualmente, al Procurador de la Defensa del Menor y la Familia o al Ministerio Público que corresponda, en su caso, las inscripciones de nacimiento de hijos monoparentales, señalando el nombre y domicilio del progenitor conocido, a fin de que uno de sus agentes le entreviste y se obtenga, por vía del convencimiento, la identidad y el domicilio del otro, a fin de promover el reconocimiento de la paternidad o la maternidad, a través de la mediación o conciliación institucional, así como el cumplimiento voluntario de las obligaciones derivadas del vínculo genético.
 
-I. El Titular de la Fiscalía o el representante que éste designe, quien fungirá como Presidente, contará con voz y voto de calidad en caso de empate;
+Para lograr este efecto se puede recurrir a las pruebas biológicas a cargo del Estado, cuando el presunto padre solicite la comprobación del vínculo como condición para el reconocimiento.
 
-II. Un representante del Secretariado Ejecutivo Estatal, que contará con voz y voto;
-
-III. Un representante de la Secretaría de Gobierno, que contará con voz y voto;
-
-IV. Un representante de la Secretaría de la Contraloría, que contará con voz y voto;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-V. Un representante del Consejo Ciudadano de Seguridad Morelos, que contará con voz y voto, y
-
-VI. El Titular de la Visitaduría General, quien fungirá como Secretario Técnico y sólo tendrá derecho a voz.
-
-El cargo de Consejero de Honor y Justicia será honorífico y deberá acreditar el perfil de licenciatura en derecho, con excepción del vocal señalado en la fracción V.
+Además, el Oficial del Registro Civil tiene la obligación de informar y orientar al progenitor que presente al menor para su registro, sobre el derecho a promover el reconocimiento de la paternidad o maternidad, en su caso, señalando las instituciones a las que pueda acudir para recibir la asistencia jurídica necesaria.
 
 ###### Artículo 68.
 
-Una vez agotado el procedimiento establecido y dentro de los plazos señalados en la presente Ley, el Consejo de Honor, resolverá en definitiva, por unanimidad de votos o por mayoría simple, conocerá y podrá confirmar, modificar o negar la propuesta de sanción que les sea turnada por la Visitaduría General.
+En el acta de reconocimiento se anotarán los datos que consten en el acta de nacimiento, haciendo en ésta la anotación correspondiente.
 
-### CAPÍTULO XI. DE LOS DERECHOS, RESPONSABILIDADES Y SANCIONES DEL PERSONAL DE LA FISCALÍA GENERAL Y DE LA FISCALÍA ANTICORRUPCIÓN
+Si el reconocimiento se hiciere en Oficialía distinta de aquélla en que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la Oficialía que haya registrado el nacimiento, así como al Archivo Estatal para que se hagan las anotaciones respectivas.
+
+### CAPÍTULO V. DE LAS ACTAS DE ADOPCIÓN
 
 ###### Artículo 69.
 
-El Consejo de Honor, por unanimidad de votos o por mayoría simple, del cincuenta más uno de sus miembros, conocerá y podrá confirmar, modificar o negar la propuesta de sanción, respecto de los medidas provisionales de suspensión temporal del presunto responsable y de los recursos de queja, revisión, rectificación.
+Dictada la resolución judicial definitiva que autorice la adopción simple o plena, según el caso, el adoptante o los adoptantes, dentro del término de quince días, presentarán al Oficial del Registro Civil de su domicilio, copia certificada de la misma, a efecto de que se asiente el acta respectiva gratuitamente.
+
+La falta de registro de la adopción no quita a ésta sus efectos legales.
 
 ###### Artículo 70.
 
-El Consejo de Honor, podrá proponer la condecoración de elementos que se hayan destacado por su actuación y desempeño en el servicio.
+El acta de adopción simple contendrá:
+
+I. Nombres, apellidos, edad, fecha, lugar de nacimiento y domicilio del adoptado;
+
+II. Nombres, apellidos, edad, estado civil, domicilio y nacionalidad del o de los adoptantes, y
+
+III. Los datos esenciales de la resolución judicial, así como la fecha en que causó ejecutoria y el tribunal que la dictó, consignando el nuevo nombre y apellidos del adoptado, en caso de que la resolución lo indique.
+
+Extendida el acta de adopción simple, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
 
 ###### Artículo 71.
 
-El Consejo de Honor, deberá sesionar ordinariamente una vez al mes y extraordinariamente las veces que sean necesarias, previa convocatoria que para tal efecto expida el Secretario Técnico a petición del Presidente del Consejo de Honor, la cual deberá emitirse con tres días o 24 horas de anticipación por lo menos, respectivamente.
+En los casos de adopción plena se levantará una nueva acta de nacimiento al menor o incapacitado, en la que aparezcan sus padres adoptivos como progenitores, sin ninguna mención del carácter adoptivo de la filiación, asignando al adoptado el nombre y apellidos indicados en la resolución judicial.
+
+En este caso, los antecedentes serán guardados en secreto y cancelada el acta de nacimiento original, sin que pueda expedirse constancia alguna sobre dichos antecedentes, a no ser por resolución judicial o solicitud del Ministerio Público, en el caso de la investigación de delitos vinculados con el parentesco consanguíneo.
 
 ###### Artículo 72.
 
-La (sic) resoluciones para la aplicación de sanción, deberán estar fundadas y motivadas, en las que se deberá tomar en consideración las circunstancias siguientes:
+El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días, copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
 
-I. La gravedad de la infracción;
-
-II. Las circunstancias económicas del sujeto a procedimiento;
-
-III. Los antecedentes, el nivel jerárquico y sus condiciones personales;
-
-IV. Las circunstancias exteriores y los medios de ejecución;
-
-V. La antigüedad en el servicio, y
-
-VI. La reincidencia que haya concluido con sanción.
-
-### CAPÍTULO XII. DE LAS EXCUSAS Y RECUSACIONES
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPÍTULO VI. DE LA TUTELA
 
 ###### Artículo 73.
 
-Las resoluciones que tome el Consejo de Honor, causarán ejecutoria una vez transcurrido el término para impugnar la misma, y su resolución se agregará a los expedientes personales u hojas de servicio de cada Servidor Público sancionado.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-Cuando se imponga suspensión temporal o destitución, se notificará a los Sistemas Nacional y Estatal de Seguridad Pública, para su control y trámites legales a que haya lugar, su incumplimiento dará lugar a las sanciones previstas por la Ley General de Responsabilidades Administrativas y la legislación aplicable en la materia.
+Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Oficial del Registro Civil, para que se levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
 
 ###### Artículo 74.
 
-Para los efectos de práctica de diligencias, audiencias y notificaciones, se consideran hábiles todos los días del año de las ocho a las diecinueve horas, excepto sábados y domingos; tratándose de investigaciones, serán hábiles todos los días del año y las 24 horas del día.
+La omisión del registro de tutela no impide al tutor entrar en ejercicio de su cargo ni puede alegarse, por ninguna persona, como causa para dejar de tratar con él.
 
 ###### Artículo 75.
 
-El Titular de la Visitaduría General, de forma razonada en los expedientes y por causas justificadas, podrá habilitar días y horas inhábiles, a los Servidores Públicos en funciones de notificadores, para la práctica del emplazamiento o primera notificación, las subsecuentes deberán practicarse dentro de los días y horas hábiles en los términos señalados en el artículo anterior.
+El acta de tutela contendrá:
+
+I. El nombre, apellido y edad del incapacitado;
+
+II. La clase de incapacidad por la que se haya deferido la tutela;
+
+III. El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
+
+IV. El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
+
+V. La garantía dada por el tutor expresando el nombre, apellido y demás generales del fiador si la garantía consiste en fianza, o la ubicación y demás señas de los bienes si la garantía consiste en hipoteca o prenda, y
+
+VI. El nombre del juez que pronunció el auto de discernimiento y la fecha de éste.
 
 ###### Artículo 76.
 
-El Reglamento del Servicio de Carrera que se expida por el Fiscal General, deberá garantizar la debida transparencia y objetividad en la evaluación de los méritos e idoneidad de aquellos que formen parte del mismo.
+Extendida el acta de tutela se anotará la de nacimiento del incapacitado.
+
+Dicha anotación tendrá que levantarse, en medida de lo posible, en la misma Oficialía en que se registró el acta originalmente.
 
 ###### Artículo 77.
 
-Las disposiciones del Reglamento de Servicio de Carrera se encaminarán a fortalecer el Sistema de Seguridad Social de los Agentes del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, y sus dependientes económicos, para lo cual se deberá instrumentar las medidas para dar cumplimiento a las disposiciones de la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales y de Procuración de Justicia del Sistema Estatal de Seguridad Pública.
+Cuando por cualquier causa se revoque la tutela, la autoridad judicial que haya conocido del asunto, dentro del término de tres días, dará aviso al Oficial del Registro Civil que haya formulado el acta relativa, para el efecto de que se haga la anotación marginal conducente. El Oficial deberá remitir copia del aviso citado al Archivo Estatal del Registro Civil.
 
-### CAPÍTULO XIII. DE LAS TÉCNICAS DE INVESTIGACIÓN Y LA CADENA DE CUSTODIA
-
-> <small>(DEROGADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-#### SECCIÓN PRIMERA
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO VII. DE LAS ACTAS DE EMANCIPACIÓN
 
 ###### Artículo 78.
 
-La reincorporación al Servicio de Carrera del personal que hayan sido suspendidos provisionalmente en términos de la fracción VI, del artículo 88, se autorizará por el Consejo de Honor, en los términos que señale el Reglamento correspondiente, siempre que la resolución que emita no determine su separación definitiva.
+En los casos de emancipación por efecto del matrimonio, no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas, que quedan éstos emancipados, en virtud de matrimonio y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
 
 ###### Artículo 79.
 
-Los Agentes del Ministerio Público y sus Oficiales Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, están obligados a asistir a cursos, seminarios y talleres en colaboración con Instituciones y Organismos Públicos y Privados, nacionales y extranjeros para su capacitación y especialización, con la finalidad de profesionalizar sus labores, para acrecentar su grado de eficacia, eficiencia y calidad.
+Las actas de emancipación por decreto judicial se formarán insertando a la letra la resolución del juez que autorizó la emancipación. Se anotará, además, el acta de nacimiento expresando al margen de ella, haber quedado emancipado el menor, señalando la fecha de la emancipación.
 
 ### CAPÍTULO VIII. DE LAS ACTAS DE MATRIMONIO
 
 ###### Artículo 80.
 
-Los Agentes del Ministerio Público y sus Oficiales Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, deberán someterse a la instrumentación de las evaluaciones del cumplimiento de sus obligaciones, así como su grado de eficacia, eficiencia y calidad, con base en los principios constitucionales de legalidad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia y eficacia, para identificar las áreas de oportunidad del elemento para su permanencia, promoción y en su caso sanción.
+Las personas que pretendan contraer matrimonio, presentarán una solicitud al Oficial del Registro Civil del domicilio de cualquiera de ellos, que exprese:
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+I. Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se requerirá presentar acta de divorcio o acta de matrimonio con la inscripción marginal de la disolución de éste;
+
+II. Que no tienen impedimento legal para casarse, y
+
+III. Que es su voluntad unirse en matrimonio.
+
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
+
+El Oficial del Registro Civil hará del conocimiento de los pretendientes inmediatamente después de la presentación de la solicitud, que es un requisito previo a la celebración del matrimonio, el tramitar y obtener un certificado expedido por el propio registro, para hacer constar si alguno de ellos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos, así como tomar el curso prenupcial impartido por el Gobierno del Estado a través de la Dirección General del Registro Civil.
 
 ###### Artículo 81.
 
-Para llevar a cabo el proceso de evaluación del desempeño, se estará a lo dispuesto en el Reglamento correspondiente.
+La solicitud a la que se refiere el artículo anterior se acompañará de:
+
+I. Copia certificada del acta de nacimiento e identificación oficial de cada uno de los pretendientes;
+
+II. Tratándose de menores de edad pero mayores de 16 años, constancia de que otorgan su consentimiento para que el matrimonio se celebre, las personas que ejerzan sobre los mismos la patria potestad o quien legalmente pueda otorgar este consentimiento. Para el caso de los menores de 16 años se seguirá lo establecido por el Código de Familia;
+
+III. La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse;
+
+IV. Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, síndrome de inmunodeficiencia adquirida ni enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria;
+
+> <small>(REFORMADA, B.O. 26 DE JUNIO DE 2017)</small>
+
+V. Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo;
+
+> <small>(REFORMADA, B.O. 26 DE JUNIO DE 2017)</small>
+
+VI. Copia de la dispensa de impedimentos, si los hubo; y
+
+> <small>(ADICIONADA, B.O. 26 DE JUNIO DE 2017)</small>
+
+VII. Escrito firmado, bajo protesta de decir verdad, que ha recibido y comprendido la información y capacitación sobre la prevención, atención, tratamiento y posibles repercusiones penales, civiles y familiares, sobre la violencia en la familia, así como las indicaciones a dónde acudir en caso de padecerla, y las organizaciones públicas y privadas especializadas en la atención de la misma.
 
 ###### Artículo 82.
 
-La vigencia de la evaluación del desempeño será de tres años, contados a partir de la fecha de aplicación.
+El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado, sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 81 serán ratificadas, bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Éste, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+
+> <small>(REFORMADO, B.O. 26 DE JUNIO DE 2017)</small>
 
 ###### Artículo 83.
 
-Los documentos e información electrónica, deberán tratarse conforme los ordenamientos aplicables en materia de transparencia y acceso a la información pública. Los expedientes del personal evaluado, deberán integrarse de forma homologada y se resguardarán preferentemente en el archivo confidencial.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
+En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevenida en el artículo 34 y dos testigos por cada uno de ellos, que acrediten su identidad. Acto continuo el Oficial del Registro Civil leerá, en voz alta, la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. Una vez leído íntegramente a los contrayentes el documento a que se refiere la fracción VII del artículo que inmediatamente antecede, se les preguntará expresamente a estos si el contenido del mismo ha sido de su total comprensión y, de ser así, procederán a su firma, de parte de cada uno de ellos y si alguno de ellos no pudiere o supiere hacerlo se imprimirá su huella digital. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y si están conformes, los declarará unidos en nombre de la Ley y de la sociedad.
 
 ###### Artículo 84.
 
-El personal que integra la Fiscalía General tendrá los derechos siguientes:
+Se levantará luego el acta de matrimonio en la cual se hará constar:
 
-I. Participar en los cursos de capacitación, actualización y especialización correspondientes, así como en aquellos que se acuerden con otras instituciones académicas, nacionales y del extranjero, que tengan relación con sus funciones, sin perjuicio en sus derechos y antigüedad, y sujeto a las disposiciones presupuestales y a las necesidades del servicio;
+I. Los nombres, apellidos, edad, domicilios, nacionalidad y lugar de nacimiento de los contrayentes;
 
-II. Sugerir al Consejo, las medidas que estimen pertinentes para el mejoramiento del Servicio de Carrera, por conducto de sus representantes;
+II. Si son mayores o menores de edad;
 
-III. Percibir prestaciones acordes con las características acordes a sus funciones, niveles de responsabilidad y riesgo en el desempeño de las mismas, de conformidad con el presupuesto de la Fiscalía General y las normas aplicables;
+III. Los nombres, apellidos, domicilio y nacionalidad de los padres;
 
-IV. Acceder a estímulos y reconocimientos, cuando su conducta y desempeño así lo ameriten y de acuerdo con las disposiciones jurídicas aplicables y la disponibilidad presupuestal;
+IV. El consentimiento de éstos, de los abuelos o tutores, o el de las autoridades que deban suplirlos;
 
-V. Participar en los concursos de ascenso a que se convoque;
+V. Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
-VI. Gozar de un trato digno y decoroso por parte de sus superiores jerárquicos;
+VI. La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos que hará el Oficial del Registro Civil, en nombre de la Ley y de la sociedad;
 
-VII. Contar con el equipo e instrumentos de trabajo necesarios para el desempeño de sus funciones;
+VII. La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
 
-VIII. Gozar de permisos y licencias sin goce de sueldo, en términos de las disposiciones jurídicas aplicables, y
+VIII. Los nombres, apellidos, edad, nacionalidad y domicilio de cuatro testigos, dos por cada uno de los contrayentes, su declaración sobre si son o no parientes de ellos, y
 
-IX. Las demás que le confieran otras disposiciones jurídicas aplicables.
+IX. Que se cumplieron las formalidades exigidas por el artículo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido si cumplieron y pudieran hacerlo.
+
+En el acta se imprimirán las huellas digitales de los contrayentes.
 
 ###### Artículo 85.
 
-Son causas de responsabilidad del personal de la Fiscalía General y de la Fiscalía Anticorrupción, además de las previstas en la Ley General de Responsabilidades Administrativas y la legislación aplicable en la materia, las siguientes:
-
-I. Realizar o encubrir conductas que atenten contra la autonomía del Ministerio Público, tales como aceptar o ejercer consignas, presiones, encargos, comisiones o cualquier otra acción que genere o implique subordinación indebida respecto de alguna persona o autoridad;
-
-II. Omitir la práctica de dictámenes periciales o actos de investigación correspondientes materia de su competencia, cuando estos sean solicitados por parte del Ministerio Público o la autoridad jurisdiccional competente;
-
-III. Incumplir el aseguramiento de bienes, objetos, instrumentos o productos de delito y, en su caso, no solicitar el decomiso cuando así proceda en los términos que establezcan las leyes penales aplicables;
-
-IV. Faltar sin causa justificada a sus labores en los términos que señala la presente Ley y demás disposiciones jurídicas aplicables;
-
-V. Extraviar documentos, objetos o valores relacionados con las investigaciones penales materia de su competencia;
-
-VI. Abstenerse de ejercer la acción de extinción de dominio en los casos y en los términos que establezca las disposiciones jurídicas aplicables en la materia;
-
-VII. Dar un uso distinto al arma de fuego a su cargo para las actividades inherentes al desempeño de sus funciones, y
-
-VIII. Incumplir cualquiera de las obligaciones previstas en el artículo siguiente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad y los médicos que se pronuncien falsamente al expedir el certificado a que se refiere la fracción IV del artículo 81, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
 ###### Artículo 86.
 
-Son obligaciones del personal de la Fiscalía General y de la Fiscalía Anticorrupción, las siguientes:
-
-I. Conducirse siempre con apego a los principios constitucionales, tratados internacionales y respeto a los Derechos Humanos;
-
-II. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por razón de raza, religión, sexo, condición económica o social, preferencia sexual, ideología política o por algún otro motivo;
-
-III. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanas o degradantes. El personal de la Fiscalía General que tenga conocimiento de ello, deberá denunciarlo inmediatamente ante la autoridad competente;
-
-IV. Abstenerse de ejercer empleo, cargo o comisión y demás actividades a que se refiere el artículo 87 de la presente Ley;
-
-V. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la ciudadanía;
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-VI. Desempeñar su función sin solicitar o aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente; en particular, se opondrán a cualquier acto de corrupción. La Fiscalía Anticorrupción conocerá de las conductas que configuren un hecho calificado como delito de corrupción por la ley y exista la posibilidad de que el servidor público lo cometió o participó en su comisión, por la infracción a la presente obligación;
-
-VII. Abstenerse de ordenar o ejecutar la detención o retención de persona alguna sin cumplir con los requisitos previstos en la Constitución Política de los Estados Unidos Mexicanos y en las disposiciones jurídicas aplicables;
-
-VIII. Auxiliar a las partes, mediante mecanismo (sic) alternativos de solución de controversias, en los casos que así proceda, y procurar la reparación del daño;
-
-IX. Comparecer en audiencias cuando se le requiera y solicitar al Ministerio Público que promueve acciones que ayuden a la investigación, cuidando la protección del debido proceso y los Derechos Humanos;
-
-X. Velar por la vida e integridad física y psicológica de las personas detenidas y puestas a su disposición;
-
-XI. Participar en mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles el apoyo, de conformidad con las disposiciones legales y reglamentarias aplicables;
-
-XII. Acatar las órdenes de sus superiores jerárquicos;
-
-XIII. Abstenerse, conforme a las disposiciones jurídicas aplicables, de dar a conocer, por cualquier medio, a quien no tenga derecho, documentos, registros, imágenes, constancias, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
-
-XIV. Abstenerse de realizar cualquier práctica discriminatoria o tolerancia de la violencia contra las mujeres, en el ejercicio de su empleo, cargo o comisión;
-
-XV. Abstenerse, en el desempeño de sus funciones, de auxiliarse por personas no autorizadas por la Ley;
-
-XVI. Conservar y usar el equipo asignado para el desempeño de sus funciones, con el debido cuidado y prudencia;
-
-XVII. Abstenerse de abandonar sin causa justificada las funciones, comisión o servicio que tenga encomendado;
-
-XVIII. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva, de conformidad con lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública;
-
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2017)</small>
-
-XIX. Desahogar prioritariamente las intervenciones periciales en las investigaciones relacionadas con procedimientos de disposición de órganos o tejidos de cadáveres con fines de trasplantes y autorizar su disposición, de forma pronta y expedita, cuando se reúnan los requisitos establecidos en el Código Nacional de Procedimientos Penales y demás disposiciones jurídicas aplicables;
-
-XX. No ingerir bebidas alcohólicas, sustancias psicotrópicas, estupefacientes, o ser adicto a cualquier droga, así como presentarse a laborar con aliento alcohólico o bajo el efecto del alcohol o drogas, y
-
-XXI. Las demás que le confieran la presente Ley, el Reglamento y otras disposiciones jurídicas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+Las denuncias de impedimento pueden hacerse por cualquier persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
 
 ###### Artículo 87.
 
-El personal de las Fiscalías General y Anticorrupción, respectivamente, deberá abstenerse de:
+El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará un acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento, misma que remitirá a la Dirección General.
 
-I. Desempeñar empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal, en los gobiernos del Distrito Federal o de los Estados integrantes de la Federación y Ayuntamientos, así como trabajos o servicios en instituciones privadas, salvo los de carácter docente y aquellos que autorice la Fiscalía General, siempre y cuando sean compatibles con sus funciones y horarios laborales en la misma;
-
-II. Ejercer o prestar servicios profesionales en forma particular, por sí o por interpósita persona, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos;
-
-III. Ejercer las funciones de tutor, curador o albacea judicial, salvo que tenga el carácter de heredero o legatario, o se trate de sus ascendientes, descendientes, hermanos, y
-
-IV. Ejercer o desempeñar las funciones de Depositario o Apoderado Judicial, Síndico, Administrador, Interventor en quiebra o concurso, Notario, Corredor, Comisionista o Árbitro.
+La Dirección General, cuando reciba dicha acta, procederá a notificar la misma a todas las Oficialías del Estado de Sonora, para dar conocimiento de los impedimentos que la generaron.
 
 ###### Artículo 88.
 
-Las sanciones por incurrir en las causas de responsabilidad a que se refiere esta Ley, serán, conforme a lo previsto por la Ley del Sistema de Seguridad Pública del Estado de Morelos y su Reglamento, las siguientes:
-
-I. Amonestación;
-
-II. Apercibimiento;
-
-III. Arresto hasta por veinticuatro horas;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
-
-IV. Multa por el equivalente de una o hasta quince veces el valor diario de la Unidad de Medida y Actualización;
-
-V. Cambio de adscripción;
-
-VI. Suspensión del cargo, sin goce de sueldo, hasta por treinta días;
-
-VII. Separación del cargo, o
-
-VIII. Inhabilitación del cargo.
-
-La sanción prevista en la fracción III del presente artículo, sólo será aplicable para Los agentes de la Policía de Investigación Criminal.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+El Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
 
 ###### Artículo 89.
 
-Procederá la separación del personal de la Fiscalía General y de la Fiscalía Anticorrupción, por el incumplimiento de alguna o algunas de las obligaciones previstas en las fracciones IV, V, VI, VII, VIII, XII, XIII y XIX, del artículo 86 de la presente Ley o, en su caso, por la reiteración de por lo menos tres ocasiones en el incumplimiento de alguna o algunas de las obligaciones restantes del artículo citado.
+Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
 
 ###### Artículo 90.
 
-La aplicación de las sanciones a que se refiere el presente Capítulo, de acuerdo a la valoración de la gravedad de las conductas, será conforme al procedimiento previsto en el Reglamento.
+El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal del Estado de Sonora.
 
 ###### Artículo 91.
 
-Cuando la autoridad jurisdiccional resolviere, que la separación del cargo, o remoción del personal que integra la Fiscalía fue de manera injustificada, se estará a lo dispuesto por el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos, carecen de aptitud legal para celebrar el matrimonio.
 
 ###### Artículo 92.
 
-Los servidores públicos de la Fiscalía General y de la Fiscalía Anticorrupción, podrán excusarse y ser recusados en los asuntos que intervengan, cuando ocurra una o más de las causas que motivan las excusas en los términos de la Normativa Procedimental Penal aplicable. La excusa y la recusación deberán ser calificadas en definitiva por el Fiscal General y el Fiscal Anticorrupción, y su trámite se definirá en el Reglamento respectivo.
+El Oficial del Registro Civil que reciba una solicitud de matrimonio está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime conveniente, a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
+
+También podrá exigir declaraciones bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes y a los médicos que suscriban el certificado exigido por esta Ley.
 
 ###### Artículo 93.
 
-En el desarrollo de la investigación de los delitos el Ministerio Público desarrollará las técnicas de investigación y la cadena de custodia de conformidad con la normativa aplicable.
+El matrimonio en que intervengan mexicanos válidamente celebrado en el extranjero y que deba ser objeto de inscripción en la Oficialía del Registro Civil competente, se acreditará mediante la presentación del acta de matrimonio debidamente apostillada o legalizada, según sea el caso. Tratándose de actas en idioma extranjero se deberán acompañar de la traducción al idioma español hecha por un perito autorizado por el Poder Judicial.
 
 ### CAPÍTULO IX. DE LAS ACTAS DE DIVORCIO
 
 ###### Artículo 94.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
+La sentencia ejecutoria que declare un divorcio se remitirá de oficio por parte del Tribunal Judicial, en copia certificada, a la Dirección General para que asiente anotación preventiva en el acta de matrimonio correspondiente. Dicha anotación sólo tendrá efectos de publicidad de la sentencia sin que exima a los interesados a hacer la anotación definitiva de dicho acto.
 
 ###### Artículo 95.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
+El acta de divorcio contendrá nombres, apellidos, edad, domicilio, ocupación y nacionalidad de los divorciados, los datos de registro de las actas de nacimiento y matrimonio de los mismos y la parte resolutiva de la sentencia judicial, fecha de la resolución, autoridad que la dictó y fecha en que causó ejecutoria.
 
 ###### Artículo 96.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
+Extendida el acta de divorcio se realizará la anotación definitiva a este hecho en el acta de matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta del divorcio. Para el caso de querer hacer la anotación de este hecho en el acta de nacimiento, se requerirá el consentimiento de la persona a quien pertenezca.
 
 ### CAPÍTULO X. DE LAS ACTAS DE DEFUNCIÓN
 
 ###### Artículo 97.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
+Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará del fallecimiento por certificado de defunción expedido por la Secretaría de Salud. Para autorizar la inhumación o cremación será necesaria autorización expedida por la autoridad sanitaria competente, de igual manera, cuando el cadáver requiera de traslado se necesitará de dicha autorización.
+
+No se procederá a la inhumación o cremación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto los casos en que se ordene otra cosa por la autoridad que corresponda.
 
 ###### Artículo 98.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
+Para inscribir un acta de defunción, se deberá presentar ante el Oficial del Registro Civil, la persona interesada, la cual será el declarante, además de dos testigos, quienes deberán exhibir el certificado de defunción expedido por la Secretaría de Salud, dentro de los cinco días siguientes de la fecha en que se expidió el mismo.
+
+En el acta de defunción se inscribirán los datos asentados en el certificado de defunción expedido por la Secretaría de Salud y, aunado a esto, el Oficial del Registro Civil podrá requerir información adicional al declarante o a los testigos.
+
+El declarante y los testigos deberán, preferentemente, ser familiares consanguíneos o afines al finado.
 
 ###### Artículo 99.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
+El acta de defunción contendrá:
+
+I. El nombre, apellidos, edad, ocupación, nacionalidad, sexo y domicilio que tuvo el difunto;
+
+II. El estado civil de éste, en caso de haber estado casado, el nombre, apellidos y nacionalidad de su cónyuge. En caso de concubinos, se podrá asentar este estado siempre y cuando se acredite mediante resolución judicial ejecutoriada;
+
+III. Los nombres de los padres del finado;
+
+IV. La causa que determinó la muerte, el destino del cadáver, nombre y ubicación del panteón o crematorio;
+
+V. La hora, día, mes, año, lugar de la muerte y todos los informes que se obtengan del fallecimiento;
+
+VI. Nombre, apellidos, número de cédula profesional y domicilio del médico que certifique la defunción;
+
+VII. Nombre, apellidos, edad, nacionalidad y domicilio del declarante así como su grado de parentesco en su caso con el finado, y
+
+VIII. Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, y si fueren parientes del finado el grado en que lo sean.
 
 ###### Artículo 100.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
+Si el fallecimiento ocurriera en un lugar o población en donde no haya oficina del Registro Civil, la autoridad municipal extenderá la constancia respectiva que deberá remitir al Oficial del Registro Civil que corresponda, para que asiente el acta.
 
 ###### Artículo 101.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
+En el caso de las actas de defunción donde se ignoran datos del finado, el Oficial del Registro Civil podrá recibir información adicional por parte de la Autoridad Judicial y aquél hará las anotaciones correspondientes en el acta.
 
 ###### Artículo 102.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
+En los casos de inundación, naufragio, incendio o cualquier otro siniestro en que no sea fácil reconocer el cadáver se formará el acta con los datos asentados en el certificado de defunción expedido por la Secretaría de Salud, el cual contendrá los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos y objetos que con él se hayan encontrado.
 
 ###### Artículo 103.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-#### SECCIÓN SEGUNDA
+Cuando un Oficial del Registro Civil en el Estado reciba la constancia sobre la defunción de alguna persona ocurrida en el mar, procederá a levantar el acta que corresponda, archivando el documento extendido por el capitán del navío, anotando con el número que corresponda el acta levantada.
 
 ###### Artículo 104.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
+Cuando alguna persona falleciera en lugar que no sea su domicilio, se remitirá al Oficial del Registro Civil de su domicilio copia certificada del acta de defunción para que se haga la anotación en el acta de nacimiento y en las demás que estén relacionadas con la misma.
 
 ###### Artículo 105.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
-
-DISPOSICIONES TRANSITORIAS
-
-PRIMERA. Remítase la presente Ley al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDA. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
-
-TERCERA. Los Reglamentos a que se refiere la presente Ley, deberán expedirse en un plazo no mayor a ciento veinte días hábiles, contados a partir de la entrada en vigor de la presente Ley; los cuales deberán prever una reestructura integral de la Institución de la Fiscalía General del Estado, que garantice una atención eficiente a la ciudadanía y para el cumplimiento de sus fines.
-
-CUARTA. El personal adscrito a la Procuraduría General de Justicia del Estado de Morelos, que pase a formar parte de la Fiscalía General del Estado de Morelos, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral.
-
-QUINTA. Cuando en esta Ley se dé una denominación nueva o distinta a alguna Unidad Administrativa cuyas funciones estén establecidas por otro ordenamiento jurídico, dichas atribuciones se entenderán conferidas a la Unidad Administrativa que determine la presente Ley y demás disposiciones relativas, hasta en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
-
-SEXTA. Las menciones que en otros ordenamientos se hagan de la Procuraduría General de Justicia del Estado de Morelos, del Procurador General de Justicia del Estado, del Ministerio Público y de la Policía Ministerial, se entenderán referidas a la Fiscalía General del Estado de Morelos, al Fiscal General, Ministerio Público, y a la Policía de Investigación Criminal, respectivamente.
-
-SÉPTIMA. Los procedimientos de responsabilidad administrativa y de separación del cargo iniciados con antelación a la entrada en vigor de la presente Ley, serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
-
-OCTAVA. Los Reglamentos y demás normatividad aplicable a la Procuraduría General de Justicia del Estado de Morelos, subsistirá, en lo que resulte aplicable a la Fiscalía General del Estado de Morelos, hasta en tanto no se expida la correspondiente.
-
-NOVENA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia del Estado de Morelos, de su Titular en cualquier ordenamiento legal, así como en Contratos, Convenios o Acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado de Morelos o el Fiscal General, de acuerdo con las atribuciones que mediante la presente Ley se les otorga.
-
-Recinto Legislativo a los doce días del mes de marzo de dos mil catorce.
-
-Atentamente. Los CC. Diputados Integrantes de la Mesa Directiva del Congreso del Estado. Dip. Juan Ángel Flores Bustamante. Presidente. Dip. Erika Hernández Gordillo. Secretaria. Dip. Antonio Rodríguez Rodríguez. Secretario. Rúbricas.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en la Residencia del Poder Ejecutivo, Casa Morelos, en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veinticinco días del mes de marzo de dos mil catorce.
-
-"SUFRAGIO EFECTIVO. NO REELECCIÓN"
-
-GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
-
-GRACO LUIS RAMÍREZ GARRIDO ABREU
-
-SECRETARIO DE GOBIERNO
-
-ING. JORGE VICENTE MESSEGUER GUILLÉN
-
-RÚBRICAS.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 10 DE DICIEMBRE DE 2014.
-
-PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos "Tierra y Libertad", número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
-
-TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
-
-P.O. 9 DE MARZO DE 2016.
+Si por haber ocurrido la muerte en despoblado, por ignorancia o por cualquier otro motivo no se hubiera levantado dentro de los cinco días de la fecha de expedición del certificado de defunción expedido por la Secretaría de Salud, el acta de defunción, los interesados o el Ministerio Público promoverán información testimonial, ante un Juez de Primera instancia y con esas diligencias, el Oficial del Registro Civil levantará el acta omitida.
 
 ###### Artículo 106.
 
@@ -1531,9 +901,17 @@ IX. La indicación equivocada de sexo, cuando no haya duda sobre la identidad de
 
 X. La aclaración en las actas de matrimonio y de defunción, cuando el solicitante haya rectificado o aclarado su acta de nacimiento, respecto de los datos rectificados;
 
-XI. Cuando se trate de meras discrepancias entre el acta resguardada en el Archivo Estatal del Registro Civil y la que se encuentre en la Oficialía que corresponda, siempre y cuando no se encuentren alteraciones en éstas, y
+> <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2018)</small>
 
-XII. El uso de abreviaturas o guarismos no permitidos, la difícil legibilidad de caracteres, cuando por el contexto de la inscripción o de otras inscripciones no haya duda de su contenido.
+XI. Cuando se trate de meras discrepancias entre el acta resguardada en el Archivo Estatal del Registro Civil y la que se encuentre en la Oficialía que corresponda, siempre y cuando no se encuentren alteraciones en éstas;
+
+> <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2018)</small>
+
+XII. El uso de abreviaturas o guarismos no permitidos, la difícil legibilidad de caracteres, cuando por el contexto de la inscripción o de otras inscripciones no haya duda de su contenido; y
+
+> <small>(ADICIONADA, B.O. 1 DE OCTUBRE DE 2018)</small>
+
+XIII. Cuando el nombre o apellido de una persona en su acta de nacimiento no coincida con los demás documentos oficiales con que se ostente el interesado; la Dirección General del Registro Civil estará facultada para allegarse de los elementos de convicción que estime pertinentes para determinar la procedencia de la adecuación a la realidad social que solicita el interesado de su acta de nacimiento; dicho trámite administrativo deberá ser avalado o firmado además del Director General del Registro Civil por el Director jurídico de dicha institución, siempre y cuando se corrobore fehacientemente su identidad con los siguientes datos: fecha de nacimiento, lugar de nacimiento y nombre de los padres, y que dichos datos sean cotejados contra documentos oficiales.
 
 ###### Artículo 116.
 
@@ -1747,15 +1125,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 14 DE MARZO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS VEINTICINCO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS PARA LA ARMONIZACIÓN, RESPECTO DE LA FISCALÍA ESPECIALIZADA PARA LA INVESTIGACIÓN DE HECHOS DE CORRUPCIÓN”.]
-
-PRIMERO.- Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
-
-TERCERO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico, que se opongan al presente Decreto.
-
-P.O. 15 DE FEBRERO DE 2017.
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 48 "QUE ADICIONA LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 20 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -1763,19 +1133,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 B.O. 26 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS SESENTA Y CUATRO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
-
-PRIMERA.- Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno de Morelos.
-
-TERCERA.- Dentro de los sesenta días hábiles posteriores a la entrada en vigor de la reforma materia del presente Decreto, el Fiscal General deberá realizar las modificaciones a su normativa interna para adecuarla al contenido de esta reforma.
-
-CUARTA.- El Titular del Poder Ejecutivo del Estado de Morelos, contará con un plazo de noventa días hábiles, contados a partir de la entrada en vigor de este Decreto, para hacer las modificaciones pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Morelos.
-
-QUINTA.- Se derogan las disposiciones de igual o menor grado que se contrapongan al presente Decreto.
-
-P.O. 1 DE MARZO DE 2017.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 149, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1791,17 +1149,7 @@ Dentro de los 30 días posteriores a la publicación en el Boletín Oficial del 
 
 B.O. 3 DE AGOSTO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS NOVENTA Y CUATRO POR EL QUE SE (SIC) EL PÁRRAFO CUARTO DEL ARTÍCULO 62 Y FRACCIÓN IV DEL ARTÍCULO 88 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
-
-Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
-
-Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
-
-Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
-
-P.O. 19 DE ABRIL DE 2017.
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -1809,137 +1157,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 9 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS TREINTA POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
-
-PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
-
-TERCERA. El Fiscal General del Estado de Morelos contará con un plazo de noventa días hábiles, contados a partir de la entrada en vigor de este decreto, para emitir los lineamientos a que se refiere la fracción XXXI que se adiciona al artículo 31 de la Ley Orgánica de la Fiscalía General del Estado de Morelos.
-
-CUARTA. El Titular del Poder Ejecutivo del Estado de Morelos, contará con un plazo de noventa días hábiles, contados a partir de la entrada en vigor de este Decreto, para hacer las modificaciones pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Morelos.
-
-QUINTA. Se derogan las disposiciones de igual o menor grado que se contrapongan al presente Decreto.
-
-P.O. 19 DE JULIO DE 2017.
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ADICIONAN LOS ARTÍCULOS 7 BIS Y 19 BIS A LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA".]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 01 de enero de 2019, previa su publicación el Boletín Oficial del Gobierno del Estado de Sonora.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO NOVENTA Y TRES POR EL QUE SE EXPIDEN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MORELOS; LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS; LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE MORELOS; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS."]
+B.O. 25 DE JUNIO DE 2018.
 
-PRIMERA. Una vez aprobadas las presentes leyes y reformas de Ley, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 231, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA Y DE LA LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA”.]
 
-SEGUNDA. El presente Decreto entrará en vigor a partir del día diecinueve de julio de dos mil diecisiete, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
+###### ARTÍCULO ÚNICO.
 
-TERCERA. Los procedimientos de responsabilidad administrativa, que hayan iniciado su trámite de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos continuarán su trámite hasta su total resolución conforme a dicha normatividad.
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-CUARTA. El Titular del Poder Ejecutivo, dentro de los noventa días hábiles siguientes a la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado de Morelos, deberá expedir el Reglamento respectivo; mientras tanto, continuará rigiendo el que se encuentra vigente en lo que no se oponga a lo previsto en este ordenamiento.
+B.O. 1 DE OCTUBRE DE 2018.
 
-QUINTA. En el caso de las Declaraciones Patrimoniales y de Intereses que tiene obligación de recibir la Entidad Superior de Auditoría y Fiscalización, podrá hacerlo de forma escrita hasta las que tengan que entregarse en el mes de mayo de dos mil dieciocho, las subsecuentes deberán ser entregadas de manera digital como menciona este ordenamiento.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 82, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA Y EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA”.]
 
-El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe las transferencias y adecuaciones presupuestales necesarias para el cumplimiento de la Ley de Responsabilidades Administrativas para el Estado de Morelos y que se considere una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el siguiente Ejercicio Fiscal.
+###### ARTÍCULO UNICO.
 
-SEXTA. Notifíquese a la Secretaría de la Contraloría del Poder Ejecutivo, a la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, al Consejo de la Judicatura Estatal, a los treinta y tres ayuntamientos en el Estado y sus respectivas Contralorías municipales, a los organismos a los que la Constitución local les otorga y reconoce autonomía y sus respectivos Órganos de control interno, para efecto de que tomen las medidas necesarias respecto del inicio de la vigencia de la Ley de Responsabilidades Administrativas para el Estado de Morelos, como son, de manera enunciativa mas no limitativa, la expedición del código de ética para sus funcionarios.
-
-SÉPTIMA. La Declaración de Modificación Patrimonial correspondiente al ejercicio 2016, presentada en enero del presente año, será válida por esta única ocasión en lo que respecta a dicha obligación, debiéndose presentar las que corresponden a los ejercicios subsecuentes en el mes de mayo de cada año.
-
-OCTAVA. A la entrada en vigor del presente Decreto, quedan Derogados los Títulos Cuarto y Quinto de la Ley Estatal de Responsabilidades de los Servidores Públicos, publicada en el Periódico Oficial "Tierra y Libertad", número 4562 de fecha veinticuatro de octubre de dos mil siete, con la salvedad de que los asuntos que conozca el Consejo de la Judicatura Estatal y su órgano de control interno, los cuales se continuarán rigiendo de forma supletoria con las disposiciones previstas en el citado Título Cuarto, hasta en tanto su reglamentación orgánica se adecue a las reformas en cuestión.
-
-NOVENA. El Tribunal de Justicia Administrativa dentro de los noventa días siguientes a la entrada en vigor de la Ley de Justicia Administrativa del Estado de Morelos, deberá expedir el reglamento interior, mientras tanto continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
-
-DÉCIMA. El Tribunal de Justicia Administrativa dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley, deberá expedir los Manuales de Organización y Procedimientos del Tribunal de Justicia Administrativa.
-
-DÉCIMA PRIMERA. El Poder Ejecutivo, el Tribunal de Justicia Administrativa, así como las Universidades Públicas en el Estado, en ejercicio del Servicio Social al que están obligadas, deberán realizar las acciones que correspondan, a efecto de que el Expediente Electrónico, inicie su operación a más tardar el treinta y uno de diciembre de dos mil veinte. El Pleno del Tribunal de Justicia Administrativa podrá emitir los acuerdos necesarios para la implementación progresiva del Expediente Electrónico.
-
-DÉCIMA SEGUNDA. El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe las transferencias y adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto por el que se expide la Ley de Justicia Administrativa del Estado de Morelos y que se considere una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el siguiente Ejercicio Fiscal.
-
-DÉCIMA TERCERA. Notifíquese al Poder Ejecutivo y al Tribunal de Justicia Administrativa las Universidades Públicas del Estado de Morelos para efecto de ejecutar y cumplir todos los actos jurídicos, administrativos y presupuestales que correspondan para el inicio en operación del Expediente Electrónico.
-
-> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
-
-DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
-
-DÉCIMA QUINTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de su competencia, efectuará la difusión de la implementación del Expediente Electrónico y los Formatos de demanda que faciliten en la vía electrónica a los gobernados el acceso a la Justicia administrativa, en especial, en aquellos asuntos de poca cuantía y de gran incidencia de las personas que se encuentren (sic) el Estado de Morelos.
-
-DÉCIMA SEXTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de sus respectivas competencias, efectuará las acciones necesarias y suscribirá los instrumentos jurídicos necesarios con el Tribunal Federal de Justicia Fiscal y Administrativa, el Consejo de la Judicatura Federal y o Tribunales similares de otras entidades federativas, para lograr la implementación del Expediente Electrónico.
-
-DÉCIMA SÉPTIMA. En congruencia con la Disposición Transitoria Octava del Decreto Mil Ochocientos Nueve publicado en el Periódico Oficial "Tierra y Libertad" número 5487 de fecha siete de abril del presente año, así como con este Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, se dispone que el Titular del Poder Ejecutivo realice las adecuaciones administrativas que resulten necesarias.
-
-DÉCIMA OCTAVA. Dentro del plazo de noventa días hábiles, contados a partir de que surta efectos el presente Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, realícense las modificaciones reglamentarias a que haya lugar. Las referencias hechas a las actuales Fiscalías específicas se entenderán hechas a las Vicefiscalías.
-
-DÉCIMA NOVENA. En términos del artículo 3, segundo párrafo, de la Ley Orgánica de la Fiscalía General del Estado de Morelos, son de la competencia exclusiva de la Fiscalía Anticorrupción los delitos contenidos en el Título Vigésimo del Código Penal para el Estado de Morelos y cualquiera otro en el que participen los servidores públicos en el ejercicio de sus funciones oficiales. Las carpetas de investigación relacionadas con delitos de corrupción, iniciadas con anterioridad ante la Fiscalía General, continuarán a su cargo hasta su conclusión.
-
-VIGÉSIMA. Las reformas contenidas en las fracciones I del artículo 24 y la fracción III del artículo 41 de la Ley Orgánica Municipal del Estado de Morelos, relativas a la ratificación del nombramiento del Contralor Municipal, serán aplicables cuando ocurra una nueva designación con posterioridad a la entrada en vigor de dicha reforma, en respeto irrestricto al principio constitucional de irretroactividad.
-
-VIGÉSIMA PRIMERA. El Congreso del Estado de Morelos en plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, deberá expedir la Ley en materia de Responsabilidad Política del estado de Morelos.
-
-VIGÉSIMA SEGUNDA. Se abroga la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, conforme a lo dispuesto en los transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos aprobada en el presente Decreto.
-
-VIGÉSIMA TERCERA. Los procedimientos administrativos iniciados de conformidad con la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, se resolverán hasta su conclusión definitiva en términos de dicha Ley.
-
-VIGÉSIMA CUARTA. La ESAF deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones debe expedir, en un plazo no mayor de ciento ochenta días hábiles contados a partir de que la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos cobre vigencia.
-
-VIGÉSIMA QUINTA. LA ESAF deberá decretar de oficio la transferencia documental al archivo histórico de los asuntos que se encuentran en el supuesto establecido en el artículo 69 de la Ley de Fiscalización Superior del Estado de Morelos y 95 de la Ley de Auditoría y Fiscalización del Estado de Morelos, de conformidad con lo dispuesto en el artículo 35 de la Ley Estatal de Documentación y Archivos de Morelos, debiendo informar respecto de dicho trámite al Congreso del Estado de Morelos.
-
-VIGÉSIMA SEXTA. El Auditor General, el titular del Consejo de Vigilancia, los Auditores Especiales y los Directores Generales de ESAF en funciones, permanecerán en su encargo hasta concluir el periodo por el que fueron designados, pudiendo participar como candidatos en la convocatoria para la designación de Auditor General previsto en la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, y los Auditores Especiales y Directores Generales podrán ser nombrados por un periodo más previa evaluación que haga el Órgano Político del Congreso del Estado.
-
-P.O. 31 DE OCTUBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS CINCO.- POR EL QUE SE REFORMA DE MANERA INTEGRAL LA LEY DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS, INCLUYENDO SU DENOMINACIÓN; Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS."]
-
-PRIMERA. Una vez aprobadas la reforma integral a la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos y reformas de Ley Orgánica de la Fiscalía General del Estado de Morelos, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
-
-TERCERA. Dentro de un plazo de 10 días hábiles, contados a partir del inicio de la vigencia de este Decreto, la persona titular de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, deberá solicitar en el Registro Público de Organismos Descentralizados del Estado de Morelos a cargo de la Secretaría de Hacienda, la inscripción del presente instrumento, de conformidad con lo dispuesto en el artículo 86 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
-
-CUARTA. Dada la nueva configuración de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos se abroga el "Decreto número mil seiscientos setenta y cuatro, por el que se designan a cinco Comisionados para Integrar el Consejo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos", publicado en el Periódico Oficial "Tierra y Libertad", número 5237, de 19 de noviembre de 2014, dejando sin efecto las designaciones realizadas por virtud de dicho Decreto.
-
-Al efecto se instruye a la Secretaría de Servicios Legislativos Parlamentarios y a la Dirección Jurídica, ambas del Congreso del Estado de Morelos, para que notifique el contenido de la presente Disposición Transitoria a los Ciudadanos cuya designación se deja insubsistente. Ello sin perjuicio de que el Decreto número mil seiscientos setenta y cuatro, así como las designaciones por virtud del cual se realizan, queden sin efectos desde el momento mismo en que el presente Decreto inicie su vigencia.
-
-QUINTA. Se abroga el "Acuerdo parlamentario por el que se designa a dos Diputados que integrarán el Consejo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, conforme a lo establecido en la fracción III, del artículo 102, de la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos", publicado en el Periódico Oficial "Tierra y Libertad", número 5439, de 12 de octubre de 2016.
-
-SEXTA. Por única ocasión, para la designación del Comisionado Ejecutivo, el Gobernador del Estado deberá proponer al Congreso del Estado, dentro de un plazo de 30 días hábiles, contados a partir del inicio de vigencia del presente Decreto, una persona respaldada por los colectivos de víctimas, expertos y organizaciones de la sociedad civil del estado de Morelos especializadas en la materia, sin que exista impedimento alguno para considerar para ello a la actual persona titular de la Coordinación Ejecutiva de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos.
-
-El Congreso del Estado, dentro de un plazo de treinta días hábiles, contados a partir de que reciba la propuesta respectiva, previa revisión de los requisitos previstos en el artículo 118 de la Ley de Víctimas del Estado de Morelos, deberá decidir sobre la designación del Comisionado Ejecutivo, quien por única ocasión durará en su cargo tres años.
-
-Concluido el plazo de duración en el cargo de la persona designada conforme al párrafo anterior como Comisionado Ejecutivo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos; deberá designarse un nuevo titular en los términos señalados en el artículo 118 de la citada Ley.
-
-La persona titular de la ahora Coordinación Ejecutiva estará a cargo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, en tanto no sea designado el Comisionado Ejecutivo.
-
-Asimismo, hasta en tanto no se nombre Comisionado Ejecutivo las autorizaciones para acceder a los recursos del Fondo, serán emitidas de manera conjunta entre la persona titular de la Coordinación Ejecutiva y el servidor público responsable del Fondo.
-
-SÉPTIMA. En todos los instrumentos legales, administrativos y jurídicos en donde se haga referencia a la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos se entenderá a la Ley de Víctimas del Estado de Morelos; así mismo, las facultades conferidas en otros ordenamientos a la persona titular de la Coordinación Ejecutiva de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, se entenderán conferidas al Comisionado Ejecutivo del citado Organismo, siempre que no contravengan lo dispuesto en el presente Decreto.
-
-OCTAVA. En un plazo no mayor de 30 días hábiles, contados a partir de la vigencia del presente Decreto, se deberá instalar la Junta de Gobierno de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos; sin que para tal efecto sea necesaria la presencia del representante de la Asamblea Consultiva, por esta única ocasión, en virtud de estar presente la mayoría de sus integrantes, así como su Presidente.
-
-NOVENA. En un plazo no mayor de 180 días hábiles, contados a partir de la instalación de la Junta de Gobierno de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, se deberán realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados a que refiere la Disposición Transitoria Tercera. Así mismo, en dicho plazo deberá de adecuarse el Reglamento de la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos en materia de Asesoría Jurídica, Registro y Reparación Económica.
-
-DÉCIMA. Se autoriza al Gobernador del Estado para que se constituya en garante avalista, deudor solidario, subsidiario o sustituto de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, para que en garantía del cumplimiento de todas y cada una de las obligaciones a su cargo, derivadas del pago por concepto de cuotas y aportaciones a favor del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, solicite a la Secretaría de Hacienda y Crédito Público, afecte a favor de dicho Organismo, las participaciones presentes y futuras que en ingresos federales le correspondan.
-
-En la firma del instrumento jurídico que formalice el acto materia de esta Disposición Transitoria, comparecerán en nombre y representación del Gobernador del Estado, las instituciones y los servidores públicos competentes, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos, y por la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, el Comisionado Ejecutivo.
-
-La garantía de cumplimiento a las obligaciones que se contraen con la incorporación de los trabajadores de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, se establecerá con los recursos que a favor de dicho organismo se señalen en el Presupuesto de Egresos del Gobierno del Estado.
-
-Se autoriza al Poder Ejecutivo del Estado de Morelos a pagar directamente las cuotas y aportaciones que se generen por la incorporación voluntaria de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, al régimen obligatorio del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, exclusivamente en el caso que la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos no cubra de manera oportuna las cuotas correspondientes.
-
-Se autoriza a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que los pagos que realice y que correspondan a la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, los pueda descontar de las cantidades próximas a ministrar en las transferencias presupuestales que correspondan al mencionado Organismo, lo que deberá formalizarse en el instrumento que se celebre entre el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos.
-
-UNDÉCIMA. La Fiscalía General del Estado de Morelos deberá realizar las adecuaciones reglamentarias; y administrativas necesarias que den cumplimiento a las modificaciones aprobadas en el presente Decreto.
-
-DUODÉCIMA. El Comisionado Ejecutivo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, deberá gestionar las adecuaciones necesarias a la estructura orgánica de dicha Comisión.
-
-DECIMOTERCERA. La Comisión Ejecutiva, en un plazo no mayor a treinta días naturales a partir de la entrada en vigor del presente Decreto, publicará la Convocatoria a que se refiere el artículo 123 de la Ley.
-
-Constituida la Asamblea Consultiva designará de entre sus integrantes al miembro que los ha de representar en la Junta de Gobierno.
-
-DECIMOCUARTA. La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos y la Secretaría de Hacienda del Poder Ejecutivo Estatal deberán hacer las previsiones presupuestales necesarias.
-
-DECIMOQUINTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
-
-P.O. 29 DE NOVIEMBRE DE 2017.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL DOSCIENTOS CUARENTA Y DOS POR EL QUE SE REFORMA LA FRACCIÓN XXXI Y SE ADICIONA UNA FRACCIÓN XXXII RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTICULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
 
