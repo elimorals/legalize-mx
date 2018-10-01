@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2018-06-08"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -33,7 +33,9 @@ DECRETO 855
 
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, DECRETA:
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 ÚNICO. Se EXPIDE la Ley de la Comisión Estatal de Derechos Humanos del Estado de San Luis Potosí, para quedar como sigue
 
@@ -371,7 +373,7 @@ XXIV. Otorgar por ciclo escolar a las instituciones de educación integrantes de
 
 XXV. Las demás que ésta u otras leyes o reglamentos le concedan.
 
-Las facultades de la Comisión deben interpretarse siempre de manera amplia, de modo que prevalezca el interés superior de la victima de la violación de Derechos Humanos.
+Las facultades de la Comisión deben interpretarse siempre de manera amplia, de modo que prevalezca el interés superior de la víctima de la violación de Derechos Humanos.
 
 ###### ARTICULO 27.
 
@@ -1047,33 +1049,45 @@ La Dirección de Administración, siguiendo los lineamientos de la Presidencia, 
 
 Esta Dirección tiene como objeto central facilitar las tareas sustantivas de la Comisión, por lo que aplicará de manera permanente los principios de legalidad, honradez, transparencia, lealtad, imparcialidad y eficiencia.
 
-### Capítulo X
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-De la Contraloría Interna.
+### Capítulo X. Del Órgano Interno de Control
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 78.
 
-La Contraloría Interna es el órgano de la Comisión que tiene encomendada la función de control y vigilancia de los servidores públicos de ésta, para lo cual contará con autonomía técnica y de gestión para decidir sobre su funcionamiento.
+El Órgano Interno de Control es la instancia de la Comisión dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; y contará con las atribuciones que le prescribe la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-En el ejercicio de sus atribuciones la persona titular de la Contraloría Interna, se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de defensa y promoción de los Derechos Humanos de los servidores de la Comisión.
+En el ejercicio de sus atribuciones la persona titular del Órgano Interno de Control, se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de defensa y promoción de los Derechos Humanos de los servidores de la Comisión.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE OCTUBRE DE 2018)</small>
 
-La Contraloría Interna contará con las siguientes atribuciones:
+El Órgano Interno de Control contará además con las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 I. Planear, programar, organizar y coordinar el sistema de control y evaluación;
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 II. Fiscalizar el ingreso y gasto público, así como su congruencia con el presupuesto de egresos;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 III. Establecer la calendarización y las bases generales reglamentarias para la realización de auditorías internas e inspecciones;
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 IV. Participar en la entrega recepción de las unidades administrativas;
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 V. Dictaminar los estados financieros de la Dirección de Administración, y verificar que los informes sean remitidos en tiempo a la Comisión;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 VI. Participar en la elaboración y actualización de los inventarios generales de bienes muebles e inmuebles de la Comisión;
 
@@ -1115,7 +1129,7 @@ La Contraloría Interna contará con los recursos necesarios para mantener un si
 
 ###### ARTICULO 81.
 
-La Contraloría Interna privilegiará siempre la evaluación operativa, buscando mejorar permanentemente los servicios de defensa y promoción de los Derechos Humanos. Para ello, utilizará los principios establecidos en el Capítulo Segundo del Titulo Primero de esta Ley.
+La Contraloría Interna privilegiará siempre la evaluación operativa, buscando mejorar permanentemente los servicios de defensa y promoción de los Derechos Humanos. Para ello, utilizará los principios establecidos en el Capítulo Segundo del Título Primero de esta Ley.
 
 En caso de duda, los criterios de eficacia operativa en las tareas sustantivas de la Comisión, tendrán prioridad sobre criterios meramente normativos o formales.
 
@@ -1753,8 +1767,16 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 P.O. 8 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 974.- SE DEROGA DEL ARTÍCULO 32 SU FRACCIÓN II, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 974.- SE DEROGA DEL ARTÍCULO 32 SU FRACCIÓN II, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1204.- SE REFORMA EN EL TÍTULO CUARTO LA DENOMINACIÓN DEL CAPÍTULO X, Y EL ARTÍCULO 78 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
