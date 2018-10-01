@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2016-10-29"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -89,37 +91,49 @@ LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
 ### CAPITULO I. Disposiciones Generales
 
-###### ARTICULO 1°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-La presente Ley es reglamentaria de los artículos 109, 110 y 114 fracción II, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí. Sus disposiciones son de orden público e interés social. Su aplicación corresponde al Ejecutivo y a los ayuntamientos del Estado.
+###### ARTICULO 1º.
+
+La presente Ley es reglamentaria de los artículos 109, 110 y 114 fracción II, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí. Sus disposiciones son de orden público e interés social. Su aplicación corresponde al Ejecutivo, a los ayuntamientos del Estado, y a los Organismos Constitucionales Autónomos.
 
 Tratándose de concesiones que corresponda otorgar al Estado, se aplicará en todos los casos en que las leyes de la materia no prevengan un procedimiento específico, y será de aplicación supletoria para los municipios del Estado, en todo lo no previsto al respecto en la Ley Orgánica del Municipio Libre.
 
-###### ARTICULO 2°.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-El Estado y los municipios tienen personalidad jurídica y, por tanto, y plena capacidad para adquirir y poseer bienes para la prestación de los servicios públicos y el cumplimiento de sus fines.
+###### ARTICULO 2º.
 
-###### ARTICULO 3°.
+El Estado, los municipios, y los Organismos Constitucionales Autónomos, tienen personalidad jurídica y, por tanto, plena capacidad para adquirir y poseer bienes para la prestación de los servicios públicos y el cumplimiento de sus fines.
 
-Los bienes del dominio público y privado del Estado y municipios, estarán sujetos a las disposiciones de esta Ley y sometido a sus respectivas jurisdicciones.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-###### ARTICULO 4°.
+###### ARTICULO 3º.
 
-Los tribunales judiciales y administrativos del Estado de San Luis Potosí, en el ámbito de su competencia, conocerán de los juicios administrativos, civiles o penales, así como de los procedimientos judiciales no contenciosos, que se relacionen con bienes del dominio público o privado del Estado y municipios.
+Los bienes del dominio público y privado del Estado, municipios, y los Organismos Constitucionales Autónomos, estarán sujetos a las disposiciones de esta Ley y sometidos a sus respectivas jurisdicciones.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 4º.
+
+Los tribunales judiciales y administrativos del Estado de San Luis Potosí, en el ámbito de su competencia, conocerán de los juicios administrativos, civiles o penales, así como de los procedimientos judiciales no contenciosos, que se relacionen con bienes del dominio público o privado del Estado, municipios, y los Organismos Constitucionales Autónomos.
 
 ### CAPITULO II. De los Bienes del Dominio Público y Privado del Estado y Municipios
 
-###### ARTICULO 5°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-Los bienes del Estado y municipios de San Luis Potosí son:
+###### ARTICULO 5º.
+
+Los bienes del Estado, Organismos Constitucionales Autónomos, y municipios de San Luis Potosí son:
 
 l. Bienes del dominio público; y
 
 II. Bienes del dominio privado.
 
-###### ARTICULO 6°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-Son bienes del dominio público del Estado y municipios, dentro de sus respectivas jurisdicciones:
+###### ARTICULO 6º.
+
+Son bienes del dominio público del Estado, municipios y Organismos Constitucionales Autónomos, dentro de sus respectivas jurisdicciones:
 
 l. Los de uso común;
 
@@ -143,9 +157,11 @@ X. Los muebles de su propiedad que no sean normalmente substituibles, como los d
 
 XI. Los demás que señalen las leyes respectivas.
 
-###### ARTICULO 7°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-Son bienes del dominio privado del Estado y municipios:
+###### ARTICULO 7º.
+
+Son bienes del dominio privado del Estado, municipios, y Organismos Constitucionales Autónomos:
 
 l. Los que ingresen a su patrimonio no comprendidos en el artículo anterior;
 
@@ -193,15 +209,11 @@ IV. Los demás a los que las leyes les asignen este carácter.
 
 ARTICULO 9° BIS. Los bienes muebles destinados al servicio público, que por sus características físicas o mecánicas, sean considerados inservibles o inadecuados para la prestación del servicio correspondiente, sólo podrán enajenarse con fines de reciclaje.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ARTICULO 9° TER. El Ejecutivo del Estado, y los municipios, por conducto de la dependencia que corresponda, deberán llevar un padrón y registro de la propiedad inmobiliaria, con la finalidad de tener un control interno de los bienes del dominio público o privado que se encuentren dentro de su patrimonio, los que deberán ser organizados, clasificados y registrados en el Registro Público de la Propiedad y el Catastro del Estado.
 
 La clasificación y registro de los bienes inmuebles del dominio público o privado se llevará de conformidad con lo que establece la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí, y las demás disposiciones administrativas y contables aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -225,7 +237,9 @@ VIII. Los contratos de arrendamiento de bienes inmuebles por más de seis años;
 
 IX. Los demás títulos que se equiparen a los anteriores.
 
-### CAPITULO IV. Régimen Jurídico de los Bienes de Dominio Público del Estado y Municipios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+### CAPITULO IV. Régimen Jurídico de los Bienes de Dominio Público del Estado, Municipios y Organismos Constitucionales Autónomos
 
 ###### ARTICULO 10.
 
@@ -363,9 +377,11 @@ El incumplimiento a lo dispuesto en el párrafo anterior, producirá la nulidad 
 
 También procede la recuperación en los términos de este artículo, cuando quien use o se aproveche de los bienes del dominio público, estatales o municipales, no cuente con la concesión respectiva, o ésta se haya extinguido por cancelación, anulación, revocación o caducidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 26.
 
-Los servidores públicos y los particulares se abstendrán de ocupar y habitar para beneficio propio, los inmuebles destinados a un servicio público, del Estado o del municipio. Esta disposición no regirá cuando se trate de personas que por razón de la función del inmueble, deban habitarlo u ocuparlo, o de servidores públicos que con motivo del desempeño de su cargo, sea necesario que habiten el Inmueble en cuestión.
+Los servidores públicos y los particulares se abstendrán de ocupar y habitar para beneficio propio, los inmuebles destinados a un servicio público, del Estado, del municipio o de los Organismos Constitucionales Autónomos. Esta disposición no regirá cuando se trate de personas que por razón de la función del inmueble, deban habitarlo u ocuparlo, o de servidores públicos que con motivo del desempeño de su cargo, sea necesario que habiten el inmueble en cuestión.
 
 Corresponde a las dependencias y entidades públicas que tengan destinados a su servicio los inmuebles, la observancia y aplicación de este precepto.
 
@@ -377,11 +393,15 @@ Pueden aprovecharse de los bienes de uso común todos los habitantes del Estado,
 
 Corresponde al Honorable Congreso del Estado, decretar la desafectación de bienes destinados al servicio público o al uso común, en los términos de la Constitución Política del Estado, la Ley Orgánica del Poder Legislativo, el Reglamento Interior del Congreso, y demás leyes aplicables.
 
-### CAPITULO V. Régimen Jurídico de los Bienes de Dominio Privado del Estado y Municipios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+### CAPITULO V. Régimen Jurídico de los Bienes de Dominio Privado del Estado, Municipios y Organismos Constitucionales Autónomos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 29.
 
-Los bienes del dominio privado estarán sujetos a las disposiciones de este Capítulo, y serán utilizados por los poderes del Estado y los municipios para el desarrollo de sus actividades, en tanto no se declaren bienes de uso común o se destinen a un servicio público.
+Los bienes del dominio privado estarán sujetos a las disposiciones de este Capítulo, y serán utilizados por los poderes del Estado, los municipios y los Organismos Constitucionales Autónomos para el desarrollo de sus actividades, en tanto no se declaren bienes de uso común o se destinen a un servicio público.
 
 Los bienes del dominio privado pasarán a formar parte del dominio público cuando sean destinados al uso común, a un servicio público o a alguna de las actividades que se equiparan a los servicios públicos, o de hecho se utilicen en esos fines.
 
@@ -399,7 +419,9 @@ Los bienes inmuebles del dominio privado podrán ser enajenados previa autorizac
 
 Los bienes muebles del domino privado que dejen de tener utilidad para la administración pública, o hayan sufrido menoscabo, o perdido las propiedades necesarias para prestar el servicio a que estén destinados, podrán ser enajenados por las autoridades que corresponda, mediante subasta pública. Para este caso, se deberá realizar un dictamen expedido por perito registrado, y fe notarial en la que se asiente el estado que guardan los bienes muebles objetos de la subasta, con las certificaciones de que los mismos carecen de valor artístico, y de que no forman parte del patrimonio histórico, conforme a la ley de la materia.
 
-En el caso de los municipios, para poder llevar a cabo la enajenación correspondiente, ésta deberá ser autorizada por cuando menos las dos terceras partes de los integrantes del Cabildo, y cuando se haya tomado el acuerdo correspondiente, por escrito deberá solicitar al Honorable Congreso del Estado, la autorización para la enajenación de los bienes muebles del dominio privado, debiendo la Legislatura expedir el decreto correspondiente, aprobando o negando la enajenación según se estime conveniente- además, deberán integrar al expediente que se constituya para tal efecto, lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE OCTUBRE DE 2018)</small>
+
+En el caso de los municipios, y los Organismos Constitucionales Autónomos, para poder llevar a cabo la enajenación correspondiente, ésta deberá ser autorizada por cuando menos las dos terceras partes de los integrantes del Cabildo en el caso de los municipios; y por cuando menos las dos terceras partes de los integrantes de los Consejos, y el Comité, de los Organismos Constitucionales Autónomos, y cuando se haya tomado el acuerdo correspondiente, por escrito deberá solicitar al Honorable Congreso del Estado, la autorización para la enajenación de los bienes muebles del dominio privado, debiendo la Legislatura expedir el decreto correspondiente, aprobando o negando la enajenación según se estime conveniente; además, deberán integrar al expediente que se constituya para tal efecto, lo siguiente:
 
 a) Factura o certificado de propiedad de cada uno de los bienes muebles del dominio privado que se pretendan enajenar. En caso de no contar con alguno de estos documentos, se podrá presentar una testimonial notariada de que los bienes muebles que se pretenden enajenar, son de propiedad municipal.
 
@@ -413,7 +435,9 @@ e) Certificación actual de que los bienes muebles del dominio privado que se pr
 
 f) Mínimo una fotografía reciente de cada uno de los bienes muebles del dominio privado que se pretenden enajenar.
 
-g) Copia certificada del acta de cabildo en donde se haya aprobado, por cuando menos las dos terceras partes de sus integrantes, la venta de los bienes muebles así como indicar el destino que se le dará a los recursos obtenidos por la venta de los mismos.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+g) Copia certificada del acta de Cabildo; o acta de la reunión del Consejo o Comité, según corresponda, en donde se haya aprobado, por cuando menos las dos terceras partes de sus integrantes, la venta de los bienes muebles; así como indicar el destino que se le dará a los recursos obtenidos por la venta de los mismos.
 
 h) Las demás que el Honorable Congreso del Estado solicite, para emitir el dictamen respectivo.
 
@@ -435,17 +459,21 @@ VII. Las demás que el Honorable Congreso del Estado solicite, para emitir el di
 
 Los procesos de subasta pública se llevarán a cabo con la participación y vigilancia de las contralorías internas de las autoridades respectivas; y se deberá informar a la ciudadanía cuando menos diez días hábiles anteriores a la celebración de las mismas, mediante dos publicaciones, en días consecutivos, en los dos diarios de mayor circulación en el Estado, indicando los bienes, el lugar, la fecha y hora de la subasta de los mismos.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 33.
 
-En ningún caso podrán realizarse operaciones con inmuebles del dominio privado del Estado y municipios, que impliquen la transmisión del dominio en favor de servidores públicos que hayan intervenido directamente en el procedimiento u operación respectiva, de sus cónyuges, parientes consanguíneos o por afinidad hasta el cuarto grado, o civiles, o de terceros con los que aquéllos tengan vínculos de negocios.
+En ningún caso podrán realizarse operaciones con inmuebles del dominio privado del Estado, municipios, y Organismos Constitucionales Autónomos, que impliquen la transmisión del dominio en favor de servidores públicos que hayan intervenido directamente en el procedimiento u operación respectiva, de sus cónyuges, parientes consanguíneos o por afinidad hasta el cuarto grado, o civiles, o de terceros con los que aquéllos tengan vínculos de negocios.
 
 ###### ARTICULO 34.
 
 En las operaciones traslativas de dominio, el valor de los inmuebles no podrá ser inferior al avalúo catastral que determine la autoridad competente en los términos de la ley de la materia.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 35.
 
-En los contratos de permuta celebrados .sobre inmuebles del dominio privado del Estado y municipios, deberá acreditarse fehacientemente la necesidad de la permuta y el beneficio social que ésta reporta.
+En los contratos de permuta celebrados sobre inmuebles del dominio privado del Estado, municipios, y Organismos Constitucionales Autónomos, deberá acreditarse fehacientemente la necesidad de la permuta y el beneficio social que ésta reporta.
 
 ###### ARTICULO 36.
 
@@ -477,13 +505,17 @@ La enajenación a título oneroso de bienes inmuebles del dominio privado en fav
 
 Los contratos que tengan como materia bienes del dominio privado del Estado y municipios, se regularán por lo dispuesto en esta Ley y, en lo conducente y aplicable, por la Ley de Adquisiciones del Estado y el Código Civil del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 41.
 
-Los actos jurídicos relacionados con inmuebles del dominio privado del Estado y municipios, que en términos de esta Ley requieran la intervención de notario, se celebrarán ante los notarios del Estado de San Luis Potosí.
+Los actos jurídicos relacionados con inmuebles del dominio privado del Estado, municipios, y Organismos Constitucionales Autónomos, que en términos de esta Ley requieran la intervención de fedatario, se celebrarán ante los notarios del Estado de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 42.
 
-Ningún notario del Estado podrá autorizar definitivamente una escritura de adquisición o enajenación de bienes inmuebles del dominio privado del Estado y municipios, sin la aprobación previa del Honorable Congreso del Estado.
+Ningún notario del Estado podráì (sic) autorizar definitivamente una escritura de adquisición o enajenación de bienes inmuebles del dominio privado del Estado, municipios, y Organismos Constitucionales Autónomos, sin la aprobación previa del Honorable Congreso del Estado.
 
 ###### ARTICULO 43.
 
@@ -557,11 +589,11 @@ Las instituciones privadas que por cualquier concepto utilicen, administren o te
 
 ### CAPITULO VII. Sanciones
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 52.
 
-Se sancionará con multa de cien a ochocientos días de salario mínimo vigente al momento de los hechos, a quien concluido el plazo por el que se otorgó la concesión, licencia, permiso o autorización para la explotación, uso o aprovechamiento de un bien del dominio público, no lo devuelva a la autoridad competente, en un plazo de treinta días, previo requerimiento que se le haga.
+Se sancionará con multa de cien a ochocientas Unidades de Medida y Actualización, a quien concluido el plazo por el que se otorgó la concesión, licencia, permiso o autorización para la explotación, uso o aprovechamiento de un bien del dominio público, no lo devuelva a la autoridad competente en un plazo de treinta días, previo requerimiento que se le haga.
 
 ###### ARTICULO 53.
 
@@ -672,3 +704,19 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Los títulos de concesión vigentes que hayan sido otorgados en términos de la Ley de Bienes del Estado y Municipios de San Luis Potosí, con anterioridad a la entrada en vigor de este Decreto, podrán prorrogarse en términos de lo dispuesto en el mismo.
 
 CUARTO. El Ejecutivo del Estado deberá armonizar los reglamentos correspondientes a la materia que se reforma y adiciona con el presente Decreto, dentro de los noventa días siguientes a la entrada en vigor del mismo.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1198.- SE REFORMAN LOS ARTÍCULOS 1°, 2°, 3°, 4°, 5°, 6°, 7°, 26, 29, 32, 33, 35, 41, Y 42, ASÍ COMO LA DENOMINACIÓN DE LOS CAPÍTULOS, IV, Y V, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETOS (SIC) 1199.- SE REFORMA EL ARTÍCULO 52, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 180 Y 181, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 164 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 137 DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
