@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2018-05-26"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -391,23 +391,27 @@ Corresponde a los representantes indígenas:
 
 I. Garantizar los derechos culturales de todos los habitantes de su comunidad o grupo étnico;
 
-II. Elaborar y ejecutar proyectos de desarrollo cultural en sus organizaciones, congruentes con los programas estatal, y municipal de desarrollo, tomando en cuenta las propuestas comunitarias;
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-III. Diagnosticar, investigar, promover y catalogar la diversidad cultural de su organización comunitaria;
+II. Promover acciones con el fin de generar espacios de diálogo entre las autoridades estatales y municipales, que permitan la traducción de los mensajes de difusión de la cultura conforme a su cosmovisión, idiomas, conocimientos y prácticas; así como la difusión de la cultura indígena en toda la Entidad, su comprensión y respeto por parte de la población mayoritaria;
 
-IV. Promover ante las autoridades encargadas de la aplicación de esta Ley, la realización de programas destinados al disfrute cultural da su organización comunitaria;
+III. Elaborar y ejecutar proyectos de desarrollo cultural en sus organizaciones, congruentes con los programas estatal, y municipal de desarrollo, tomando en cuenta las propuestas comunitarias;
 
-V. Gestionar apoyos económicos ante, las instancias gubernamentales y privadas correspondientes, para realizar programas culturales en sus comunidades;
+IV. Diagnosticar, investigar, promover y catalogar la diversidad cultural de su organización comunitaria;
 
-VI. Preservar, promover, desarrollar y difundir las manifestaciones culturales de la comunidad, tales como lengua, tradición oral, música, danza, medicina tradicional, artesanía, entre otras;
+V. Promover ante las autoridades encargadas de la aplicación de esta Ley, la realización de programas destinados al disfrute cultural da su organización comunitaria;
 
-VII. Promover el rescate, la preservación, la valoración y la difusión del patrimonio cultural de la comunidad, de acuerdo a la Ley de Protección al Patrimonio Cultural del Estado;
+VI. Gestionar apoyos económicos ante, las instancias gubernamentales y privadas correspondientes, para realizar programas culturales en sus comunidades;
 
-VIII. Procurar el desarrollo de capacidades artísticas de la población de su organización comunitaria;
+VII. Preservar, promover, desarrollar y difundir las manifestaciones culturales de la comunidad, tales como lengua, tradición oral, música, danza, medicina tradicional, artesanía, entre otras;
 
-IX. Convocar y presidir las asambleas comunitarias para una adecuada toma de decisiones, y validar las propuestas culturales dentro de la comunidad, en los términos establecidos en la ley de la materia, y
+VIII. Promover el rescate, la preservación, la valoración y la difusión del patrimonio cultural de la comunidad, de acuerdo a la Ley de Protección al Patrimonio Cultural del Estado;
 
-X. Las demás que le otorgue esta Ley, y otros ordenamientos jurídicos en materia de cultura.
+IX. Procurar el desarrollo de capacidades artísticas de la población de su organización comunitaria;
+
+X. Convocar y presidir las asambleas comunitarias para una adecuada toma de decisiones, y validar las propuestas culturales dentro de la comunidad, en los términos establecidos en la ley de la materia, y
+
+XI. Las demás que le otorgue esta Ley, y otros ordenamientos jurídicos en materia de cultura.
 
 ###### ARTICULO 15.
 
@@ -850,3 +854,11 @@ P.O. 26 DE MAYO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1193.- SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 14 DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
