@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2018-06-07"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1709,7 +1709,9 @@ a) La incineración de residuos sólidos urbanos por parte de particulares.
 
 b) El arrojo o depósito de residuos por parte de particulares en la vía pública, en terrenos baldíos, y en áreas verdes.
 
-c) La entrega gratuita por parte de establecimientos comerciales y mercantiles, de bolsas de plástico para el traslado de mercancías; procurando entregar bolsas reusables a sus clientes, que sean preferentemente reciclables.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+c) La prohibición a los establecimientos comerciales y mercantiles de proporcionar a sus clientes bolsas de plástico desechable para el traslado de mercancías, ya sea de manera gratuita o a la venta para ese propósito. Se incluyen las bolsas plásticas desechables para el acarreo de los productos comercializados, o artículos que hayan recibido un servicio suministrado dentro del establecimiento comercial y mercantil.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -1755,9 +1757,17 @@ VII. La circulación de vehículos en áreas urbanas o consideradas como tales, 
 
 VIII. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado, y el arrojo o depósito de residuos en la vía pública, en terrenos baldíos y áreas verdes o de equipamiento urbano, y
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-IX. La dádiva de bolsas de plástico o polietileno por parte de establecimientos mercantiles, utilizadas para la trasportación, contención y envase de los productos que comercialicen.
+IX. El uso de popotes plásticos para el consumo de bebidas en establecimientos comerciales y mercantiles.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+Las disposiciones establecidas en los artículos, 104 fracción V inciso c), y 107 fracción IX, de esta Ley, no son aplicables en el uso de bolsas de empaque o productos de origen, para conservación de alimentos, para uso médico, y cien por ciento biodegradables y compostables.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+No se sancionará a aquellos establecimientos comerciales y mercantiles que proporcionen para el acarreo de los productos, bolsas reutilizables o desechables cuando éstas sean cien por ciento compostables y biodegradables, en los términos de lo descrito en la fracción VI del artículo 47 de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -3293,8 +3303,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 7 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 969.- SE REFORMA EL ARTÍCULO 181 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 969.- SE REFORMA EL ARTÍCULO 181 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1203.- SE REFORMAN LOS ARTÍCULOS 104 Y 107; Y ADICIONA AL ARTÍCULO 107 DOS PÁRRAFOS, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis", con las excepciones a que aluden los transitorios, Tercero, y Cuarto del mismo.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Ecología y Gestión Ambiental dispondrá de un lapso de trescientos sesenta y cinco días posteriores a la vigencia de este Decreto, para promover mediante campañas de difusión, la no utilización de popotes de plástico, y bolsas plásticas desechables; así como impulsar el uso de reusables, biodegradables, y compostables.
+
+Transcurrido dicho término, los establecimientos comerciales y mercantiles que incurran en desacato, serán acreedores a lo establecido en el artículo 159 fracción I y 160 de la Ley Ambiental del Estado de San Luis Potosí.
+
+CUARTO. Los establecimientos comerciales y mercantiles dispondrán de un lapso de trescientos sesenta y cinco días posteriores a la vigencia del presente Decreto, para terminar su inventario de bolsas plásticas desechables y popotes de plástico; así como para elaborar el plan de sustitución de los mismos.
