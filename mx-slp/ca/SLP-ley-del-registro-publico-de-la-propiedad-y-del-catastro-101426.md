@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-y-del-catastro-101426"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-05"
-last_updated: "2015-10-08"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 05 de junio de 2014.
 
@@ -723,7 +723,9 @@ En materia de catastro corresponde a los ayuntamientos:
 
 I. Administrar el catastro de conformidad con lo establecido en esta Ley y los ordenamientos legales municipales;
 
-II. Validar y aprobar las normas técnicas y administrativas aplicables a la ejecución de los trabajos catastrales;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+II. Observar las normas técnicas y administrativas aplicables a la ejecución de los trabajos catastrales, expedidas en términos del artículo 141 fracción III inciso e) de este Ordenamiento;
 
 III. Proponer al Congreso del Estado a más tardar el quince de octubre de cada año, los proyectos de las tablas de valores unitarios de suelo y construcción.
 
@@ -1665,11 +1667,17 @@ V. Realizar cualquier acción o incurrir en omisión a los preceptos de esta Ley
 
 Las infracciones a la presente Ley serán sancionadas por las autoridades catastrales municipales, o en su caso, por el Instituto, con multa de:
 
-I. Uno a diez veces el salario mínimo diario vigente, a los sujetos cuya conducta corresponda a lo previsto por la fracción V del precepto anterior;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-II. Once a cien veces el salario mínimo vigente, a los sujetos cuya conducta corresponda a lo previsto por las fracciones I y III del artículo anterior;
+I. Una a diez Unidades de Medida de Actualización, a los sujetos cuya conducta corresponda a lo previsto por la fracción V del precepto anterior;
 
-III. Ciento uno a quinientas veces el salario mínimo diario vigente, a los sujetos cuya conducta corresponda a lo previsto por las fracciones II y IV del artículo que antecede.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+II. Once a cien Unidades de Medida de Actualización, a los sujetos cuya conducta corresponda a lo previsto por las fracciones I y III del artículo anterior;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+III. Ciento una a quinientas Unidades de Medida de Actualización, a los sujetos cuya conducta corresponda a lo previsto por las fracciones II y IV del artículo que antecede.
 
 Las sanciones señaladas en este artículo serán aplicadas por las autoridades catastrales municipales, facultada (sic) en la Ley Orgánica del Municipio Libre o, en su caso por el Instituto, tomando en consideración las circunstancias de la infracción cometida y la situación económica del infractor.
 
@@ -1758,5 +1766,21 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 8 DE OCTUBRE DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1197.- SE REFORMA EL ARTÍCULO 78 EN SU FRACCIÓN II, DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1199.- SE REFORMA EL ARTÍCULO 52, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 180 Y 181, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 164, DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 137 DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
