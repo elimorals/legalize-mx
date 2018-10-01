@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1166
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-17"
-last_updated: "2018-05-31"
+last_updated: "2018-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 17 de septiembre de 2016.
 
@@ -217,9 +217,11 @@ IV. Mediático o publicitario: toda publicación de mensajes e imágenes estereo
 
 V. Comunitario: los actos u omisiones, individuales o colectivos, que transgreden o limiten los derechos fundamentales de las mujeres, sobre todo aquellas en condición de vulnerabilidad, y que propician su denigración, discriminación, marginación o exclusión en lugares públicos o de acceso público.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 5°.
 
-La protección y asistencia a las mujeres víctimas o en situación de riesgo de violencia, tiene por objeto promover su desarrollo integral y su participación en todos los niveles de la vida privada, económica, política, laboral, profesional, académica, cultural y social.
+La protección y asistencia a las mujeres víctimas o en situación de riesgo de violencia, tiene por objeto promover su desarrollo integral, empoderamiento y participación en todos los niveles de la vida privada, económica, política, laboral, profesional, académica, cultural y social.
 
 ###### ARTÍCULO 6°.
 
@@ -1290,5 +1292,13 @@ P.O. 31 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 967.- SE REFORMAN LOS ARTÍCULOS 2°, 3°, 4°, 7°, 10, 14, 16, 18, 21, 22, 24, 25, 31, 32, 34, 35, 38 Y 39 Y ADICIONAN 29 BIS, 33 BIS, Y 53 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1207.- SE REFORMA EL ARTÍCULO 5° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
