@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-promover-la-donacion-altruista-de-alimentos-en-11508"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-04"
-last_updated: "1995-08-04"
+last_updated: "2018-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY PARA PROMOVER LA DONACION ALTRUISTA DE ALIMENTOS EN SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY PARA EL APROVECHAMIENTO INTEGRAL DE ALIMENTOS Y SU DONACIÓN ALTRUISTA DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 1 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA PROMOVER LA DONACIÓN ALTRUISTA DE ALIMENTOS EN SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 4 de agosto de 1995.
 
@@ -154,3 +156,15 @@ Renato Vega Alvarado
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Francisco C. Frías Castro
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 858 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE EXPIDE LA LEY PARA EL APROVECHAMIENTO INTEGRAL DE ALIMENTOS Y SU DONACIÓN ALTRUISTA DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley para Promover la Donación Altruista de Alimentos en Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" No. 93, Segunda Sección, de fecha 04 de agosto de 1995.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
