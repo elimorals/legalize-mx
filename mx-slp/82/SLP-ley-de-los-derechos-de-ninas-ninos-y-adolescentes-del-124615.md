@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2018-06-22"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -2281,9 +2281,11 @@ II. Tratándose de servidores públicos, así como empleados o trabajadores de e
 
 III. El Sistema Estatal DIF, en los casos de la fracción III del artículo 139 de esta Ley.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 141.
 
-A quienes incurran en las infracciones previstas en las fracciones I, II y III del artículo 139 de esta ley, se les impondrá multa de hasta mil quinientos días de unidades de medida y actualización vigente al momento de realizarse la conducta sancionada, sin perjuicio de las sanciones que procedan, en caso de que el infractor sea servidor público, se podrá denunciar ante el superior jerárquico, para que inicie el procedimiento en materia de responsabilidades de servidores públicos en los términos de la legislación aplicable.
+A quienes incurran en las infracciones previstas en las fracciones I, II y III del artículo 139 de esta Ley, se les impondrá multa de hasta mil quinientos días de la Unidad de Medida y Actualización vigente al momento de realizarse la conducta sancionada, sin perjuicio de otras sanciones que procedan; en caso de que el infractor sea servidor público, se podrá denunciar ante el superior jerárquico, para que inicie el procedimiento en materia de responsabilidades de servidores públicos en los términos de la legislación aplicable.
 
 ###### ARTÍCULO 142.
 
@@ -2356,3 +2358,11 @@ P.O. 22 DE JUNIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1202.- SE REFORMA EL ARTÍCULO 141, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
