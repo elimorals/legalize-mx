@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2018-07-21"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -50,9 +50,11 @@ LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN L
 
 Esta Ley es de orden público y tiene por objeto reglamentar los artículos, 53, 57 fracciones X y XI, 80 fracción VII, 92, 114, y 133, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, en materia de programación, presupuestación, aprobación, ejercicio, control, y evaluación de los ingresos y egresos públicos estatales y municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 2°.
 
-Los sujetos obligados a cumplir las disposiciones de este Ordenamiento deberán observar que la administración de los recursos públicos, se realice con base en criterios de, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, y rendición de cuentas.
+Los sujetos obligados a cumplir las disposiciones de este Ordenamiento deberán observar que la administración de los recursos públicos, se realice con base en criterios de, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y transversalidad de la perspectiva de género.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
 
@@ -146,6 +148,10 @@ XLI. Percepciones ordinarias: los pagos por sueldos y salarios, conforme a los t
 
 XLII. Periódico Oficial: Periódico Oficial del Gobierno del Estado, "Plan de San Luis";
 
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+XLII Bis. Perspectiva de género: la metodología cuyos mecanismos permiten identificar, cuestionar, valorar y analizar el origen y causas de la discriminación, la desigualdad y la exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como determinar las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género y la igualdad sustantiva;
+
 XLIII. Presupuesto de egresos: documento que establece la distribución del gasto público para un ejercicio fiscal, aprobado por el Congreso del Estado para el caso del gasto estatal, y por el cabildo en el caso del gasto municipal;
 
 XLIV. Ramo: la previsión de gasto con el mayor nivel de agregación en el Presupuesto de Egresos;
@@ -164,7 +170,13 @@ L. Subejercicio de gasto: las disponibilidades presupuestarias derivadas del inc
 
 LI. Subsidios: la asignación de recursos prevista en los presupuestos de egresos que otorgan los ejecutores del gasto a los diferentes sectores de la sociedad, para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general;
 
-LII. Transferencia presupuestaria: el movimiento que consiste en trasladar el importe parcial o total de la asignación de un capítulo a otro, sin modificar el importe total del presupuesto autorizado, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+LII. Transferencia presupuestaria: el movimiento que consiste en trasladar el importe parcial o total de la asignación de un capítulo a otro, sin modificar el importe total del presupuesto autorizado;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+LII Bis. Transversalidad: herramienta metodológica para garantizar la inclusión de la perspectiva de género como eje integrador, en la gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria, tendentes a la homogeneización de principios, conceptos y acciones a implementar, para garantizar la concreción del principio de igualdad, que se traduce en la manera integradora en que deben operarse los programas y acciones de las distintas dependencias y entidades de la administración pública, y
 
 LIII. Unidades de administración: los órganos establecidos para la administración de los recursos humanos, financieros y materiales en los términos de las leyes orgánicas, decretos de creación, o reglamentos de los ejecutores del gasto.
 
@@ -194,7 +206,9 @@ Los ejecutores del gasto contarán con unidades de administración, encargadas d
 
 La autonomía presupuestaria otorgada a los poderes, Legislativo; y Judicial, y a los entes autónomos reconocidos en la Constitución Política del Estado Libre y Soberano de San Luis Potosí, comprende las siguientes atribuciones:
 
-I. Aprobar sus proyectos de presupuesto con base en los criterios que al efecto emita la Secretaría, y enviarlos a ésta a más tardar el 15 de octubre anterior a su fecha de vigencia, para su integración al proyecto de Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+I. Aprobar sus proyectos de presupuesto con base en los criterios que al efecto emita la Secretaría, y enviarlos a ésta a más tardar el quince de octubre anterior a su fecha de vigencia, para su integración al proyecto de Presupuesto de Egresos. Estos presupuestos promoverán políticas, planes y programas que garanticen el respeto a los derechos humanos, y con perspectiva de género fomenten la igualdad de derechos y eviten toda forma de discriminación;
 
 II. Ejercer sus presupuestos observando lo dispuesto en esta Ley. Este ejercicio deberá realizarse con base en los principios de eficiencia, eficacia y transparencia, y estarán sujetos a la normatividad, la evaluación y el control de los órganos correspondientes;
 
@@ -212,11 +226,17 @@ VII. La Secretaría podrá formular los proyectos de presupuesto de los demás p
 
 Los municipios, sus organismos, así como los organismos intermunicipales conforme a las respectivas disposiciones constitucionales tendrán las siguientes atribuciones:
 
-I. Para la formulación del Presupuesto de Egresos, del municipio, la tesorería elaborará su proyecto con base en los objetivos, estrategias y prioridades que determinen el Plan Municipal de Desarrollo, así como los programas que de éste deriven, y lo remitirá al Presidente Municipal, para que el a su vez lo presente al cabildo a más tardar el 15 de diciembre del año anterior a su entrada en vigor. Previa solicitud del Presidente Municipal, el cabildo podrá ampliar el plazo de presentación hasta por siete días, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-En el caso de los organismos intermunicipales, el tesorero o, su equivalente, elaborará el proyecto y lo remitirá al director del organismo para que lo presente a su órgano de gobierno, a más tardar el quince de diciembre del año anterior a su vigencia, y
+I. Para la formulación del Presupuesto de Egresos del municipio, la tesorería elaborará su proyecto con base en los objetivos, estrategias y prioridades que determinen el Plan Municipal de Desarrollo, así como los programas que de éste deriven, y lo remitirá al Presidente Municipal, para que él a su vez lo presente al cabildo a más tardar el quince de diciembre del año anterior a su entrada en vigor. Previa solicitud del Presidente Municipal, el cabildo podrá ampliar el plazo de presentación hasta por siete días; y en el caso de los organismos intermunicipales, el tesorero o su equivalente, elaborará el proyecto y lo remitirá al director del organismo para que lo presente a su órgano de gobierno, a más tardar el quince de diciembre del año anterior a su vigencia;
 
-II.- En los municipios, sus organismos, así como los organismos intermunicipales, corresponde a la tesorería y al órgano de control interno, el control y la evaluación del gasto.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+II.- En los municipios, sus organismos, así como los organismos intermunicipales, corresponde a la tesorería y al órgano de control interno, el control y la evaluación del gasto, y
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+III. Para la elaboración del Presupuesto de Egresos, los municipios, sus organismos, así como los organismos intermunicipales, deberán considerar la información permitente que genere el Banco Estatal de Indicadores de Género a cargo del Instituto de las Mujeres del Estado, a fin de promover políticas, planes y programas con perspectiva de género, que garanticen el respeto a los derechos humanos, fomenten la igualdad de derechos, y eviten toda forma de discriminación.
 
 ###### ARTÍCULO 7°.
 
@@ -288,9 +308,11 @@ A petición del interesado, la Secretaría podrá expedir dentro de los quince d
 
 ### CAPÍTULO II. Del Equilibrio Presupuestario; y de los Principios de Responsabilidad Hacendaria
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 17.
 
-La Ley de Ingresos; y del Presupuesto de Egresos de los ejecutores del gasto, se elaborarán con base en objetivos y parámetros cuantificables, acompañados de sus correspondientes indicadores del desempeño, los cuales deberán incluir estrategias y metas anuales, congruentes con el Plan Estatal o los planes municipales de desarrollo y los programas que derivan de éstos.
+La Ley de Ingresos; y el Presupuesto de Egresos de los ejecutores del gasto, se elaborarán con base en objetivos y parámetros cuantificables, acompañados de sus correspondientes indicadores del desempeño, los cuales deberán incluir estrategias y metas anuales, congruentes con el Plan Estatal o los planes municipales de desarrollo, y los programas que derivan de éstos, así como indicadores desagregados por sexo, que valoren la transversalización del gasto con perspectiva de género.
 
 ###### ARTÍCULO 18.
 
@@ -406,9 +428,17 @@ Ejecutivo Estatal, a través de la Secretaría;
 
 IV. La evaluación de los avances logrados en el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo y los programas sectoriales con base en el Sistema de Evaluación del Desempeño, las metas y avances físicos y financieros del ejercicio fiscal anterior, y los pretendidos para el ejercicio siguiente;
 
-V. El programa financiero del sector público que elabore la Secretaría, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-VI. La interrelación que, en su caso, exista con los acuerdos de concertación con los sectores privado y social.
+V. El programa financiero del sector público que elabore la Secretaría;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+VI. La interrelación que, en su caso, exista con los acuerdos de concertación con los sectores privado y social, y
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+VII. La transversalización del gasto con perspectiva de género.
 
 El anteproyecto se elaborará por las unidades responsables de las dependencias y entidades tratándose del Poder Ejecutivo, y por las unidades de administración de los demás ejecutores del gasto, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores necesarios para medir su cumplimiento.
 
@@ -556,7 +586,9 @@ c) Un capítulo específico que incorpore las previsiones de gasto que correspon
 
 d) Un capítulo específico que incorpore las previsiones de gasto que correspondan a compromisos derivados de proyectos de infraestructura productiva de largo plazo.
 
-e) Las previsiones de gasto que correspondan a las erogaciones para la Igualdad entre mujeres y hombres.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+e) Las previsiones de gasto que correspondan a las erogaciones para la igualdad entre mujeres y hombres, y que señale los rubros específicos de gasto elaborados con perspectiva de género.
 
 f) Un capítulo específico que incluya las previsiones salariales y económicas a que se refiere el artículo 31, fracción II de esta Ley.
 
@@ -1237,3 +1269,13 @@ P.O. 21 DE JULIO DE 2018.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LOS “DECRETOS (SIC) 1194.- SE REFORMAN LOS ARTÍCULOS 2°, 5°, 6°, 17, 25 Y 37 Y SE ADICIONAN FRACCIONES A LOS ARTÍCULOS 3°, 6° Y 25 DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Las dependencias y entidades de la administración pública estatal y municipal, organismos constitucionales autónomos y demás instituciones obligadas a reportar la información a que se refiere este Decreto, al Banco Estatal de Indicadores de Género, comenzarán a dar cumplimiento a la misma a partir del inicio de operaciones del referido Banco. La fecha de inicio de operaciones deberá ser notificada por escrito con cuando menos treinta días de anticipación a todas las dependencias, entidades, organismos constitucionales autónomos e instituciones obligadas de la administración pública estatal, así como a los municipios, por el Instituto de las Mujeres del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
