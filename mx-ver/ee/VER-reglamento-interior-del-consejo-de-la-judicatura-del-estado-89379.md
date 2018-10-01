@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-consejo-de-la-judicatura-del-estado-893
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-30"
-last_updated: "2012-10-05"
+last_updated: "2018-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 1 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 30 de mayo de 2011.
 
@@ -45,7 +47,9 @@ Cuarto. A continuación, el magistrado presidente somete a aprobación el acta e
 
 Quinto. Acto seguido, con fundamento en los Artículos 62 de la Constitución Política del Estado, y 100 y 104, fracciones I y XIV, de la Ley Orgánica del Poder Judicial de la Entidad; los integrantes del Consejo de la Judicatura, aprueban y ponen en vigor el Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, abrogando el Reglamento anterior de fecha veinticinco de enero del año dos mil dos y publicado en la Gaceta Oficial del Estado número 24 de uno de febrero del citado año.
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anterior expuesto, con base en la facultad conferida en los preceptos constitucionales y legales señalados, el Consejo de la Judicatura del Poder Judicial del Estado, previo análisis y discusión, acuerda:
 
@@ -807,7 +811,7 @@ La Comisión de Licitación se integrará por lo menos con el Director General d
 
 ###### Artículo 56.
 
-La Comisión de Licitación será designada por la Dirección General de Administración para hacerse cargo del procedimiento de licitación; (sic)
+La Comisión de Licitación será designada por la Dirección General de Administración para hacerse cargo del procedimiento de licitación;
 
 ### CAPÍTULO XII. De las Adquisiciones, Arrendamientos, Servicios y Obra que Realice el Consejo dela (sic) Judicatura
 
@@ -1661,7 +1665,7 @@ Para efectos de lo dispuesto en el párrafo anterior, se consideran razones de i
 
 Los contratos podrán darse por terminados por mutuo consentimiento, cuando así convenga a los intereses de ambas partes. El motivo por el cual resulte conveniente dar por terminado el contrato deberá estar justificado en dictamen debidamente fundado y motivado.
 
-El convenio por el que se de (sic) por terminado el contrato correspondiente será suscrito por el Presidente del Consejo, previo acuerdo del Pleno.
+El convenio por el que se de por terminado el contrato correspondiente será suscrito por el Presidente del Consejo, previo acuerdo del Pleno.
 
 ###### Artículo 143.
 
@@ -1733,7 +1737,7 @@ El Consejo podrá requerir el otorgamiento de otra forma de garantía por un mon
 
 #### SECCIÓN DÉCIMA SÉPTIMA. De las Infracciones y Sanciones
 
-Artículo 152 (sic). Cuando el proveedor o contratista incumpla los plazos establecidos en el contrato por causas imputables a él, se aplicará una pena convencional por atraso en la entrega de los bienes, en la prestación de los servicios, o en la ejecución de la obra de que se trate, equivalente al monto que resulte de aplicar el cinco al millar diario a la cantidad que importen los bienes pendiente de entrega, los servicios no prestados o los trabajos de obra no ejecutados.
+Artículo 152 (SIC). Cuando el proveedor o contratista incumpla los plazos establecidos en el contrato por causas imputables a él, se aplicará una pena convencional por atraso en la entrega de los bienes, en la prestación de los servicios, o en la ejecución de la obra de que se trate, equivalente al monto que resulte de aplicar el cinco al millar diario a la cantidad que importen los bienes pendiente de entrega, los servicios no prestados o los trabajos de obra no ejecutados.
 
 El importe que resulte de la pena por atraso se descontará del pago que corresponda al proveedor o contratista.
 
@@ -1789,7 +1793,7 @@ II. Transcurrido el término a que se refiere la fracción anterior, se resolver
 
 III. La resolución será debidamente fundada y motivada, y se comunicará por escrito al afectado.
 
-Artículo 160 (sic). Las responsabilidades a que se refiere el presente ordenamiento son independientes de las de orden civil, penal o cualquier otra que resultare de las mismas conductas.
+Artículo 160 (SIC). Las responsabilidades a que se refiere el presente ordenamiento son independientes de las de orden civil, penal o cualquier otra que resultare de las mismas conductas.
 
 ###### Artículo 161.
 
@@ -3110,3 +3114,11 @@ G.O. 5 DE OCTUBRE DE 2012.
 Primero. La presente adición entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA”.]
+
+Primero. El presente reglamento iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga el Reglamento Interior del Consejo, publicado en la Gaceta Oficial del estado número extraordinario 163, de fecha 30 de mayo de 2011 y todas las demás disposiciones que se opongan al presente.
