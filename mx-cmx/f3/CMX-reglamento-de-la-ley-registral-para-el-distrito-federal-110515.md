@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-registral-para-el-distrito-federal-110515"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-11-18"
-last_updated: "2015-11-18"
+last_updated: "2018-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2015-08-28"
 ---
 # REGLAMENTO DE LA LEY REGISTRAL PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. EL 1 DE OCTUBRE DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL DÍA 5 DE DICIEMBRE DE 2018, SALVO LOS ARTÍCULOS 21, 30, 60, 160 Y 164, QUE ENTRARÁN EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN.]</small>
+
 REGLAMENTO DE LA LEY REGISTRAL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 18 de noviembre de 2015.
 
@@ -1507,3 +1509,19 @@ SÉPTIMO. La sustanciación de los recursos en trámite a la entrada en vigor de
 OCTAVO. La primera convocatoria para la reunión del Comité del Servicio Profesional de Carrera Registral la emitirá el Titular dentro de los treinta días hábiles siguientes a la publicación del presente Reglamento y tendrá como único objetivo establecer su forma de funcionamiento.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de agosto de dos mil quince.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ANGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 5 de diciembre de 2018, salvo los artículos 21, 30, 60, 160 y 164, que entrarán en vigor al día siguiente de su publicación, en homologación al diverso por el que se abroga la Ley Registral para el Distrito Federal y se expide la Ley Registral para la Ciudad de México, en su Transitorio Segundo.
+
+TERCERO.- Se abroga el Reglamento de la Ley Registral para el Distrito Federal publicado en la entonces Gaceta Oficial del Distrito Federal el día 18 de noviembre de 2015 y disposiciones que se le opongan.
+
+CUARTO.- De conformidad con el segundo párrafo del artículo 16 de la Ley Registral para la Ciudad de México, el órgano encargado del Servicio Profesional de Carrera Registral, será creado y entrará en funciones una vez que opere el servicio profesional de carrera en la Ciudad de México.
+
+QUINTO.- Hasta en tanto opere el Servicio Profesional de Carrera Registral, para el ingreso de registradores no será requisito el examen correspondiente, siempre y cuando se cumplan con los requisitos de Ley.
