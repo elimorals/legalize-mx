@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2018-07-31"
+last_updated: "2018-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -995,11 +995,11 @@ Son comisiones de investigación las que por disposición del Congreso se integr
 
 Las comisiones jurisdiccionales deben conocer específicamente de los hechos que motiven su integración, y funcionar conforme a los procedimientos que establece la ley.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 91.
 
-La Comisión de Vigilancia no podrá ser integrada por quien haya formado parte de cualquiera de los entes auditables, en el periodo inmediato anterior al de la revisión de la cuenta pública que corresponda a su ejercicio; deberá renovarse anualmente y funcionar conforme a lo establecido por la Ley de Auditoría Superior del Estado, las disposiciones reglamentarias aplicables y los acuerdos plenarios.
+La Comisión de Vigilancia no podrá ser integrada por quien haya formado parte de cualquiera de los entes auditables, en el periodo inmediato anterior al de la revisión de la cuenta pública que corresponda a su ejercicio; deberá renovarse anualmente y funcionar conforme a lo establecido por la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, las disposiciones reglamentarias aplicables, y los acuerdos plenarios.
 
 ###### ARTICULO 92.
 
@@ -1597,41 +1597,75 @@ VII. Los relativos al nombramiento y, destitución, en su caso, del Presidente y
 
 VIII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 118.
 
-Compete a la Comisión de Vigilancia, el ejercicio de las siguientes facultades:
+Corresponde a la Comisión de Vigilancia el ejercicio de las siguientes facultades:
 
-I. Recibir de la Directiva o de la Diputación Permanente, en su caso, las cuentas públicas y turnarlas a la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+I. Recibir del Congreso o, en su caso, de la Diputación Permanente, las cuentas públicas y los informes trimestrales, y turnarlas a la Auditoría Superior del Estado;
 
 II. Ser el conducto de comunicación entre el Congreso del Estado y la Auditoría Superior del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-III. Recibir los informes que le presente la Auditoría Superior del Estado, y remitirlos junto con sus respectivos dictámenes a la Directiva, exclusivamente para los efectos que previene el artículo 40 de la Ley de Fiscalización y Rendición de Cuentas, y demás disposiciones aplicables;
+III. Recibir los informes que le presente la Auditoría Superior del Estado, y remitirlos junto con sus respectivos dictámenes a la Directiva, exclusivamente para los efectos que previenen los artículos 43, 44 y 45 de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí;
 
 IV. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Auditoría Superior del Estado, así como auditar por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
 
-V. Vigilar que el funcionamiento de la Auditoría Superior del Estado y la conducta de sus servidores públicos, se apeguen a lo dispuesto por esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2018)</small>
 
-VI. Proponer el proyecto de presupuesto anual de la Auditoría Superior del Estado a la Junta, así como vigilar su correcto ejercicio;
+V. Citar al titular de la Auditoría Superior del Estado para conocer en lo específico de los informes presentados;
 
-VII. Recibir, dictaminar y someter a consideración del Pleno, los informes del ejercicio presupuestal y administrativo de la Auditoría Superior del Estado, para que sean aprobados en su caso;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-VIII. Vigilar el cumplimiento del programa anual de actividades que para el debido cumplimiento de sus funciones elabore la Auditoría Superior del Estado, así como sus modificaciones y evaluar su cumplimiento;
+VI. Vigilar que el funcionamiento de la Auditoría Superior del Estado y la conducta de sus servidores públicos, se apeguen a lo dispuesto por esta Ley y demás disposiciones aplicables;
 
-IX. Evaluar si la Auditoría Superior del Estado cumple con las funciones que conforme a la Constitución Política del Estado y esta Ley le corresponden, y proveer lo necesario para garantizar su autonomía administrativa, técnica y de gestión;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-X. Informar al Pleno en forma trimestral, y en sus recesos a la Diputación Permanente, sobre el avance de las actividades de vigilancia que le competen;
+VII. Conocer y opinar sobre el proyecto de presupuesto anual que presente el Auditor Superior del Estado, y remitirlo a la Directiva del Congreso del Estado para su inclusión en el Presupuesto de Egresos del Estado; así como vigilar su correcto ejercicio;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-XI. Contar con los servicios de apoyo técnico o asesoría que apruebe la Junta;
+VIII. Recibir, dictaminar y someter a consideración del Congreso, los informes del ejercicio presupuestal y administrativo de la Auditoría Superior del Estado, para que sean aprobados, en su caso;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-XII. Designar al titular, y a los servidores públicos de la Unidad de Evaluación y Control, con los requisitos, procedimientos y plazo que establece la Ley de Fiscalización y Redición (sic) de Cuentas del Estado; así como formular y proponer el reglamento respectivo, y
+IX. Vigilar el cumplimiento del programa anual de actividades que para el debido cumplimiento de sus funciones elabore la Auditoría Superior del Estado, así como sus modificaciones, y evaluar su cumplimiento;
 
-XIII. Las demás que establezca esta Ley y demás disposiciones legales aplicables, así como la normatividad interior del Congreso.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+X. Evaluar si la Auditoría Superior del Estado cumple con las funciones que conforme a la Constitución Política del Estado y esta Ley le corresponden; y proveer lo necesario para garantizar su autonomía administrativa, técnica y de gestión. La evaluación del desempeño tendrá por objeto conocer si la Auditoría Superior del Estado cumple con las atribuciones que conforme a la Constitución Política del Estado Libre y Soberano de San Luis Potosí y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los entes públicos, en los resultados de los programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos que ejerzan. De dicha evaluación podrá hacer recomendaciones para la modificación de los lineamientos a que se refiere el artículo 8º de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+XI. Informar al Congreso en forma trimestral, y en sus recesos a la Diputación Permanente, sobre el avance de las actividades de vigilancia que le competen;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+XII. Contar con los servicios de apoyo técnico o asesoría que apruebe la Junta de Coordinación Política;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+XIII. Presentar al Congreso del Estado la propuesta de los candidatos a ocupar el cargo de titular de la Auditoría Superior del Estado, así como la solicitud de su remoción, para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+XIV. Conocer y aplicar en lo conducente el Reglamento Interior de la Auditoría Superior del Estado;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+XV. Analizar la información, en materia de fiscalización superior del estado, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos de la Auditoría Superior del Estado vinculados con los resultados de la fiscalización;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+XVI. Invitar a la sociedad civil organizada a que participe como observadores o testigos sociales en las reuniones ordinarias de la Comisión; así como, en la realización de ejercicios de contraloría social en los que se articule a la población con las entidades fiscalizadas, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE OCTUBRE DE 2018)</small>
+
+XVII. Las demás que establezca esta Ley y otras disposiciones legales aplicables, así como la normatividad interior del Congreso.
 
 #### Sección Tercera. De los Comités
 
@@ -2526,6 +2560,14 @@ TERCERO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 31 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1041.- SE REFORMAN LOS ARTÍCULOS 82, 119, Y 121 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1205.- SE REFORMAN LOS ARTÍCULOS 91 Y 118; Y ADICIONA AL ARTÍCULO 118 LAS FRACCIONES XIV A XVII, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
