@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-archivos-del-estado-de-san-luis-potosi-89930"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2018-05-15"
+last_updated: "2018-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -45,9 +45,11 @@ LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 1º.
 
-La presente Ley es de orden público, interés general y observancia general en el Estado de San Lis (sic) Potosí, y tiene por objeto establecer los mecanismos de regulación, organización, difusión, y conservación de la documentación e información generada o bajo resguardo de los sujetos obligados, que contengan y constituyan la información pública y el Acervo Documental Histórico y Cultural del Estado; así como establecer el funcionamiento de las autoridades en materia de archivos en la entidad.
+La presente Ley es de orden público, interés general y observancia general en el Estado de San Luis Potosí, y tiene por objeto establecer los mecanismos de regulación, organización, difusión, y conservación de la documentación e información generada o bajo resguardo de los sujetos obligados, que contengan y constituyan la información pública y el Acervo Documental Histórico y Cultural del Estado; así como establecer el funcionamiento de las autoridades en materia de archivos en la Entidad.
 
 ###### ARTÍCULO 2º.
 
@@ -127,7 +129,9 @@ XII. CEGAIP: Comisión Estatal de Garantía de Acceso a la Información Pública
 
 XIII. Clasificación archivística: Proceso de identificación y organización de expedientes en categorías de acuerdo con esquemas previamente establecidos, métodos y reglas determinadas en un sistema de clasificación con base en la estructura orgánica y funcional de los sujetos obligados;
 
-XIV. Comité de información: Órgano colegiado integrado en las entidades públicas, para resolver la información que deberá
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+XIV. Comité de Transparencia: Instancia a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí;
 
 XV. Comité Técnico de Archivo: Órgano consultivo del SEDA;
 
@@ -854,3 +858,11 @@ P.O. 15 DE MAYO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1196.- SE REFORMAN LOS ARTÍCULOS, 1° Y 7° DE LA LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
