@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2018-09-11"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -509,13 +509,17 @@ XII. Celebrar con el acuerdo previo de las dos terceras partes de sus integrante
 
 XIII. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-XIV. Contar con atlas municipal de riesgos, y
+XIV. Contar con atlas municipal de riesgos;
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-XV. Asociarse en comisiones intermunicipales para enfrentar problemas comunes, para la ejecución y operación de obras, prestación de servicios públicos, concesiones de éstos, administración de ingresos y egresos, o la asunción de atribuciones, a través de la celebración de los convenios respectivos.
+XV. Asociarse en comisiones intermunicipales para enfrentar problemas comunes, para la ejecución y operación de obras, prestación de servicios públicos, concesiones de éstos, administración de ingresos y egresos, o la asunción de atribuciones, a través de la celebración de los convenios respectivos, y
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+XVI. Apoyar, en la medida de sus respectivas capacidades presupuestales, al Fondo Municipal para la Cultura y las Artes previsto en el artículo 12 fracción XX de la Ley de Cultura para el Estado y Municipio de San Luis Potosí, con el objeto de propiciar la creación, formación y desarrollo de los creadores y artistas de cada municipio.
 
 b) En materia Normativa:
 
@@ -3078,3 +3082,11 @@ P.O. 11 DE SEPTIEMBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1200.- SE REFORMA EL ARTÍCULO 31 DE (SIC) LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
