@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-fisica-y-deporte-del-estado-de-san-luis-124929"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-14"
-last_updated: "2018-05-03"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de diciembre de 2017.
 
@@ -49,9 +49,11 @@ LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ
 
 Esta Ley es de orden público e interés social; de observancia en todo el territorio del Estado; y corresponde su aplicación a las autoridades estatales y municipales, así como a los sectores social y privado, en los términos que prevé.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 2º.
 
-Este Ordenamiento tiene por objeto establecer las bases para la coordinación y colaboración entre las autoridades estatales y municipales, y de éstas con las federales, así como la participación de los sectores social y privado, en materia de cultura física y deporte, con las siguientes finalidades:
+Este Ordenamiento tiene por objeto establecer las bases para la coordinación y colaboración entre las autoridades estatales y municipales, y de éstas con las federales, así como la participación de los sectores social y privado, en materia de cultura física y deporte, en observancia al reconocimiento del derecho a la cultura física y el deporte como derecho fundamental reconocido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, con las siguientes finalidades:
 
 I. Fomentar su óptimo, equitativo y ordenado desarrollo en todas sus manifestaciones y expresiones;
 
@@ -187,9 +189,11 @@ Serán de aplicación supletoria a esta Ley, la Ley General de Cultura Física y
 
 Son sujetos de esta Ley los deportistas, educadores físicos, entrenadores deportivos, técnicos, los organismos deportivos de los sectores públicos, privado y social, equipos, clubes, asociaciones, ligas deportivas, jueces, árbitros y demás personas que por su naturaleza, condiciones o funciones sean susceptibles a los sistemas estatales o municipales de cultura física y deporte.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 8º.
 
-Las autoridades estatales y municipales promoverán y fomentarán la activación física, la cultura física y el deporte en el ámbito de su competencia, de conformidad con las bases de coordinación previstas por la Ley General, esta Ley y demás ordenamientos aplicables.
+Las autoridades estatales y municipales promoverán y fomentarán la activación física, la cultura física y el deporte en el ámbito de su competencia, de conformidad con las bases de coordinación previstas por la Ley General, esta Ley y demás ordenamientos aplicables, sentando las bases para el adecuado ejercicio del derecho de todos los habitantes del Estado, a la cultura física y a la práctica del deporte.
 
 ###### ARTÍCULO 9º.
 
@@ -711,7 +715,9 @@ X (SIC). Relación de torneos o juegos estatales o municipales respectivamente a
 
 La CEAAD es un órgano colegiado honorario, con plena Competencia para dictar sus acuerdos y laudos, cuyo objeto es mediar o fungir como árbitro en las controversias que pudieran suscitarse entre deportistas, entrenadores y directivos, en los términos establecidos en esta Ley.
 
-La CEAAD deberá ser integrada por un presidente, quien será Abogado o Licenciado en Derecho, y cuatro miembros titulares profesionistas con amplio conocimiento en el ámbito deportivo, reconocido prestigio y calidad moral. Los cinco integrantes serán nombrados por el Titular del Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+La CEAAD deberá ser integrada por un presidente y cuatro miembros titulares, abogados o licenciados en Derecho, con amplio conocimiento en el ámbito deportivo, reconocido prestigio, y calidad moral. Los cinco integrantes serán nombrados por el titular del Ejecutivo del Estado.
 
 Los acuerdos de la CEAAD, se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
 
@@ -1408,3 +1414,13 @@ P.O. 3 DE MAYO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1208.- SE REFORMAN LOS ARTÍCULOS 2°, 8°, Y 49 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los integrantes de la Comisión Estatal de Apelación y Arbitraje del Deporte que se encuentren en funciones al entrar en vigor este Decreto concluirán su encargo, o (sic) sin que por esta única ocasión puedan ser reelectos para un periodo más; por lo que los nuevos integrantes deberán cumplir con los requisitos que establece el párrafo segundo del artículo 49, de esta Ley.
