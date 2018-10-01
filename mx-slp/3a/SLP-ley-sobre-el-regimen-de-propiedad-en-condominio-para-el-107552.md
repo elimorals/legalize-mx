@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-el-regimen-de-propiedad-en-condominio-para-el-107552"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-09"
-last_updated: "2018-07-26"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 9 de abril de 2015.
 
@@ -987,17 +987,25 @@ XI. En lo no previsto en este capítulo, será aplicable supletoriamente, en lo 
 
 Las violaciones a lo establecido por la presente Ley y demás disposiciones que de ella emanen, serán sancionadas con multa por el área respectiva del municipio, en el ámbito de su competencia, con los siguientes criterios:
 
-I. Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, de cinco a treinta días de Salario Mínimo General vigente;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-II. Por faltas que afecten el estado físico del inmueble, sin que esto signifique poner en riesgo la seguridad de los demás condóminos; que impida u obstaculice el uso adecuado de las instalaciones y áreas comunes; o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de treinta y un a sesenta días de Salario Mínimo General Vigente;
+I. Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, de cinco a treinta Unidades de Medida de Actualización;
 
-III. Por aquellas faltas que provoquen un daño patrimonial o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el equivalente de sesenta y un a cien días de Salario Mínimo General Vigente, independientemente del deber de resarcir los daños que se hubieren ocasionado, o de responder por los delitos que se hubieren cometido en perjuicio de terceros, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+II. Por faltas que afecten el estado físico del inmueble, sin que esto signifique poner en riesgo la seguridad de los demás condóminos; que impida u obstaculice el uso adecuado de las instalaciones y áreas comunes; o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de treinta y una a sesenta Unidades de Medida de Actualización;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+III. Por aquellas faltas que provoquen un daño patrimonial o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el equivalente de sesenta y una a cien Unidades de Medida de Actualización, independientemente del deber de resarcir los daños que se hubieren ocasionado, o de responder por los delitos que se hubieren cometido en perjuicio de terceros, y
 
 IV. Por el retraso en el pago de cualquiera de las cuotas establecidas, de treinta a noventa días, se aplicará multa del cincuenta por ciento de las cuotas no pagadas, hasta su total liquidación. Por el retraso en el pago de cualquiera de las cuotas establecidas, de más de noventa días, se aplicará multa del cien por ciento de las cuotas no pagadas, hasta su total liquidación.
 
 En los casos de reincidencia se aplicará hasta el doble máximo de la sanción originalmente impuesta.
 
-Si el infractor fuese jornalero, obrero o trabajador no asalariado, la multa máxima será el equivalente a un día de su jornal, salario o ingreso diario; y tratándose de personas desempleadas o sin ingresos, la multa máxima será el equivalente a un día de Salario Mínimo General vigente.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+Si el infractor fuese jornalero, obrero o trabajador no asalariado, la multa máxima será el equivalente a una Unidad de Medida de Actualización; y tratándose de personas desempleadas o sin ingresos, la multa máxima será el equivalente a una Unidad de Medida de Actualización.
 
 ###### ARTÍCULO 138.
 
@@ -1062,5 +1070,13 @@ P.O. 26 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1029.- SE REFORMA EL ARTÍCULO 139 DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1199.- SE REFORMA EL ARTÍCULO 52, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 180 Y 181, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 164 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 137 DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
