@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-tepezala-aguascalientes-74085"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-03-22"
-last_updated: "2018-03-05"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE TEPEZALÁ, DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de marzo de 2010.
 
@@ -2709,7 +2709,9 @@ X.- Velar porque en los planes parciales de urbanización y en las acciones urba
 
 XI.- Instalar los señalamientos viales y el equipamiento urbano que se considere necesario para garantizar un adecuado, ágil y seguro, flujo vial;
 
-XII.- Aplicar la Ley de Vialidad y sus disposiciones reglamentarias en el ámbito de competencia municipal;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+XII.- Aplicar la Ley de Movilidad y sus disposiciones reglamentarias en el ámbito de competencia municipal;
 
 XIII.- Cuidar que las vialidades permitan el tránsito fluido y seguro de los vehículos automotores y de las personas;
 
@@ -7319,7 +7321,9 @@ III.- Prevenir la comisión de delitos e infracciones a las leyes y reglamentos 
 
 IV.- Colaborar en la investigación y persecución de los delitos, siendo auxiliar del Ministerio Público, del Poder Ejecutivo y del Poder Judicial, tanto federales como del Estado, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables;
 
-V.- Vigilar, aplicar y hacer cumplir, en el ámbito de su competencia, las disposiciones contenidas en la Ley de Vialidad del Estado de Aguascalientes y en el Reglamento de Tránsito del Municipio de Tepezalá, Aguascalientes y;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+V.- Vigilar, aplicar y hacer cumplir, en el ámbito de su competencia, las disposiciones contenidas en la Ley de Movilidad del Estado de Aguascalientes y en el Reglamento de Tránsito del Municipio de Tepezalá, Aguascalientes y;
 
 VI.- Practicar detenciones de personas y el aseguramiento de bienes en los casos previstos en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, así como los responsables por la presunta comisión de faltas administrativas o hechos delictivos en los términos de ley;
 
@@ -7817,7 +7821,9 @@ VII.- Planear la operación y regulación de los servicios de los elementos a su
 
 VIII. Tomar conocimiento de los hechos de tránsito y rendir el dictamen técnico correspondiente;
 
-IX.- Llevar la estadística y registro de la incidencia de infracciones a la Ley de Vialidad del Estado y a este Código, así como de los accidentes suscitados dentro del Municipio de Tepezalá, suministrando a la Dirección toda la información que corresponda;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+IX.- Llevar la estadística y registro de la incidencia de infracciones a la Ley de Movilidad del Estado y a este Código, así como de los accidentes suscitados dentro del Municipio de Tepezalá, suministrando a la Dirección toda la información que corresponda;
 
 X. Dar parte a la instancia correspondiente de las violaciones cometidas por los elementos bajo su mando, a los principios de actuación y normas disciplinarias que los rigen; y
 
@@ -8885,15 +8891,19 @@ IV. El Código de Procedimientos Civiles del Estado de Aguascalientes, para efec
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 938.
 
-En el Municipio, el tránsito y uso de la vía pública se sujetarán a las normas que establecen la Constitución Política de los Estados Unidos Mexicanos, la de Aguascalientes, la Ley Orgánica de la Administración Pública de la Entidad, la Ley Municipal para el Estado de Aguascalientes, la Ley de Vialidad del Estado, el presente Libro y demás ordenamientos aplicables.
+En el Municipio, el tránsito y uso de la vía pública se sujetarán a las normas que establecen la Constitución Política de los Estados Unidos Mexicanos, la de Aguascalientes, la Ley Orgánica de la Administración Pública de la Entidad, la Ley Municipal para el Estado de Aguascalientes, la Ley de Movilidad del Estado, el presente Libro y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 939.
 
 El H. Ayuntamiento a través del Presidente y/o la Dirección, podrá establecer normas en el municipio en las materias siguientes:
 
-I. El ordenamiento de las actividades relativas al tránsito de peatones, semovientes y vehículos de conformidad con la Ley de Vialidad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+I. El ordenamiento de las actividades relativas al tránsito de peatones, semovientes y vehículos de conformidad con la Ley de Movilidad;
 
 II. Los acuerdos de coordinación con las Autoridades Federales, y del Estado de Aguascalientes, así como con los Municipios colindantes en materia de tránsito, transporte y contaminación ambiental provocada por vehículos automotores;
 
@@ -8957,9 +8967,11 @@ Para el tránsito en las vías públicas del Municipio, se requiere la inscripci
 
 La Dirección General del Estado podrá expedir permisos provisionales para circular sin placas, de remolque o de carga, siempre y cuando lo consideren justificado, sin que éstos rebasen el día último del mes en que se solicitan.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 945.
 
-Las licencias para conducir vehículos de motor estatales serán expedidas por la Dirección General. En caso de que el Ayuntamiento decida celebrar convenios de colaboración para expedir estas licencias en el Municipio, se sujetará al trámite señalado para el efecto en la Ley de Vialidad del Estado.
+Las licencias para conducir vehículos de motor estatales serán expedidas por la Dirección General. En caso de que el Ayuntamiento decida celebrar convenios de colaboración para expedir estas licencias en el Municipio, se sujetará al trámite señalado para el efecto en la Ley de Movilidad del Estado.
 
 ### CAPÍTULO III. De la Circulación en las Vías Públicas
 
@@ -9139,15 +9151,19 @@ Los elementos operativos, al terminar su turno, entregarán a sus superiores rep
 
 ### CAPÍTULO VI. De la Detención de los Vehículos
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 965.
 
-Para efectos de llevar a cabo la detención de un vehículo se seguirán los lineamientos señalados en el presente Código y en la Ley de Vialidad del Estado de Aguascalientes.
+Para efectos de llevar a cabo la detención de un vehículo se seguirán los lineamientos señalados en el presente Código y en la Ley de Movilidad del Estado de Aguascalientes.
 
 ###### ARTÍCULO 966.
 
 Los elementos operativos deberán impedir la circulación de un vehículo y remitirlo al depósito en los siguientes casos:
 
-I. Cuando el conductor estando estacionado o al circular, sea sorprendido consumiendo bebidas alcohólicas; o bien, cometa alguna infracción a la Ley de Vialidad o el presente Código, mostrando síntomas daros y ostensibles de encontrarse con aliento alcohólico o bajo el influjo de estupefacientes, psicotrópicos u otras drogas;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+I. Cuando el conductor estando estacionado o al circular, sea sorprendido consumiendo bebidas alcohólicas; o bien, cometa alguna infracción a la Ley de Movilidad o el presente Código, mostrando síntomas daros (sic) y ostensibles de encontrarse con aliento alcohólico o bajo el influjo de estupefacientes, psicotrópicos u otras drogas;
 
 II. Cuando el conductor manifieste impericia o imprudencia a través de una conducción errática y peligrosa y no exhiba la licencia o permiso de conducir;
 
@@ -9199,13 +9215,17 @@ Una vez remitido el vehículo al depósito, los elementos policiales supervisar�
 
 Liquidadas las multas por el infractor y cubiertos los derechos de traslado, si los hubiera, la Dirección procederá a ordenar la entrega inmediata del vehículo a su legítimo propietario, debiendo de presentar para tal efecto el documento idóneo para acreditar su propiedad.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 971.
 
-A los peatones se les sancionará con amonestación verbal por desacato a las disposiciones de la Ley de Vialidad y el presente Código en materia de tránsito, procurando el elemento operativo que la lleve a efecto hacerlo en privado con el infractor, en forma cortés y con afán educativo.
+A los peatones se les sancionará con amonestación verbal por desacato a las disposiciones de la Ley de Movilidad y el presente Código en materia de tránsito, procurando el elemento operativo que la lleve a efecto hacerlo en privado con el infractor, en forma cortés y con afán educativo.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 972.
 
-Las infracciones a la Ley de Vialidad y el presente Titulo se harán constar en actas o boletas numeradas sobre formas impresas en el número de tantos que determine la Dirección.
+Las infracciones a la Ley de Movilidad y el presente Titulo se harán constar en actas o boletas numeradas sobre formas impresas en el número de tantos que determine la Dirección.
 
 ###### ARTÍCULO 973.
 
@@ -12755,7 +12775,9 @@ IV. Autorizar con su firma las actuaciones en que intervengan en ejercicio de su
 
 V. Expedir boletas de egreso, cuando el infractor haya cubierto el monto de su infracción, haya cumplido su arresto, o cuando sea remitido a otra autoridad competente;
 
-VI. Calificar las infracciones a la Ley de Vialidad del Estado y el presente Código y establecer la sanción correspondiente;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+
+VI. Calificar las infracciones a la Ley de Movilidad del Estado y el presente Código y establecer la sanción correspondiente;
 
 VII. Llevar el control de la correspondencia y registro de todos los oficios en que intervenga con motivo del ejercicio de sus funciones;
 
@@ -13950,3 +13972,7 @@ QUINTO.- Los reglamentos municipales expedidos con anterioridad continuarán vig
 P.O. 5 DE MARZO DE 2018.
 
 > <small>[N. DE E. LAS "MODIFICACIONES Y ADICIONES AL CÓDIGO MUNICIPAL DE TEPEZALÁ, AGS.”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 1 DE OCTUBRE DE 2018.
+
+> <small>[N. DE E. LA “REFORMA AL CÓDIGO MUNICIPAL ACTUALIZAN ARTÍCULOS DE LA LEY DE VIALIDAD DEL MUNICIPIO DE TEPEZALÁ”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES.]</small>
