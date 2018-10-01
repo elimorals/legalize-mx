@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ingresos-del-municipio-de-san-luis-potosi-san-luis-12534
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2017-12-30"
-last_updated: "2017-12-30"
+last_updated: "2018-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE INGRESOS DEL MUNICIPIO DE SAN LUIS POTOSÍ, SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL DEL AÑO 2018
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de diciembre de 2017.
 
