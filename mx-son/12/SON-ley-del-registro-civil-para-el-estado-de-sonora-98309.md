@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2018-06-25"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
@@ -901,9 +901,17 @@ IX. La indicación equivocada de sexo, cuando no haya duda sobre la identidad de
 
 X. La aclaración en las actas de matrimonio y de defunción, cuando el solicitante haya rectificado o aclarado su acta de nacimiento, respecto de los datos rectificados;
 
-XI. Cuando se trate de meras discrepancias entre el acta resguardada en el Archivo Estatal del Registro Civil y la que se encuentre en la Oficialía que corresponda, siempre y cuando no se encuentren alteraciones en éstas, y
+> <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2018)</small>
 
-XII. El uso de abreviaturas o guarismos no permitidos, la difícil legibilidad de caracteres, cuando por el contexto de la inscripción o de otras inscripciones no haya duda de su contenido.
+XI. Cuando se trate de meras discrepancias entre el acta resguardada en el Archivo Estatal del Registro Civil y la que se encuentre en la Oficialía que corresponda, siempre y cuando no se encuentren alteraciones en éstas;
+
+> <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2018)</small>
+
+XII. El uso de abreviaturas o guarismos no permitidos, la difícil legibilidad de caracteres, cuando por el contexto de la inscripción o de otras inscripciones no haya duda de su contenido; y
+
+> <small>(ADICIONADA, B.O. 1 DE OCTUBRE DE 2018)</small>
+
+XIII. Cuando el nombre o apellido de una persona en su acta de nacimiento no coincida con los demás documentos oficiales con que se ostente el interesado; la Dirección General del Registro Civil estará facultada para allegarse de los elementos de convicción que estime pertinentes para determinar la procedencia de la adecuación a la realidad social que solicita el interesado de su acta de nacimiento; dicho trámite administrativo deberá ser avalado o firmado además del Director General del Registro Civil por el Director jurídico de dicha institución, siempre y cuando se corrobore fehacientemente su identidad con los siguientes datos: fecha de nacimiento, lugar de nacimiento y nombre de los padres, y que dichos datos sean cotejados contra documentos oficiales.
 
 ###### Artículo 116.
 
@@ -1162,3 +1170,11 @@ B.O. 25 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 1 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 82, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA Y EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
