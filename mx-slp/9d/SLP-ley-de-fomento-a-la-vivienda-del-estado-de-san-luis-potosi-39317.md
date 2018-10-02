@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-a-la-vivienda-del-estado-de-san-luis-potosi-3931
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-13"
-last_updated: "2014-04-22"
+last_updated: "2018-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de mayo de 2004.
 
@@ -79,9 +79,13 @@ Para los efectos de esta Ley se entiende por:
 
 I. Vivienda: área construida que cuenta con el conjunto de satisfactores y servicios propios de la habitación;
 
-II. Vivienda de interés social: aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-III. Vivienda popular: aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por doce el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año;
+II. Vivienda de interés social: aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el valor anual de la unidad de medida y actualización vigente;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
+
+III. Vivienda popular: aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por doce el valor anual de la unidad de medida y actualización vigente;
 
 IV. Vivienda progresiva: aquella que por las condiciones especiales de la zona en que se ubica, por la limitada capacidad económica de quienes vayan a habitarla, y por la urgencia inmediata de resolver problemas de vivienda, podrá ser autorizada por el ayuntamiento correspondiente, con los requisitos mínimos de urbanización, ajustándose a los lineamientos marcados en los planes de desarrollo urbano aplicables, y previo estudio socioeconómico del caso;
 
@@ -542,3 +546,11 @@ P.O. 22 DE ABRIL DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
