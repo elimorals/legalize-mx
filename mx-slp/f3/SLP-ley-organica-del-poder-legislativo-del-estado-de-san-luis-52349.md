@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2018-10-01"
+last_updated: "2018-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1131,13 +1131,13 @@ IV. El enlace con la Comisión Estatal del Agua, los organismos municipales o pa
 
 V. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio aclaración de los asuntos que le competen;
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-VI. Recibir de la Directiva, las propuestas de cuotas y tarifas de agua potable, drenaje, alcantarillado y saneamiento, presentadas por los organismos operadores y prestadores de servicios, y turnarlas inmediatamente, por conducto de la presidencia de la Comisión, a la Auditoría Superior del Estado;
+VI. Recibir de la Directiva las propuestas de cuotas y tarifas de agua potable, drenaje, alcantarillado y saneamiento, presentadas por los organismos operadores y prestadores de servicios, para su valoración;
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-VII. Recibir los informes que presente la Auditoría Superior del Estado, respecto a la viabilidad o no, del incremento o actualización de las cuotas y tarifas del agua potable, drenaje, alcantarillado y saneamiento, que presenten los organismos operadores y prestadores de servicios, con la finalidad de dictaminarlas y someterlas a la consideración del Pleno, y
+VII. Generar los informes respecto a la viabilidad o no, del incremento o actualización de las cuotas y tarifas de agua potable, drenaje, alcantarillado y saneamiento, que presenten los organismos operadores y prestadores de servicios, con la finalidad de dictaminarlas y someterlas a la consideración del Pleno, y
 
 VIII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
@@ -2570,5 +2570,13 @@ P.O. 1 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1205.- SE REFORMAN LOS ARTÍCULOS 91 Y 118; Y ADICIONA AL ARTÍCULO 118 LAS FRACCIONES XIV A XVII, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1210.- SE REFORMA EL ARTÍCULO 99 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
