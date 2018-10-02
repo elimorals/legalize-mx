@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-servicios-de-seguridad-privada-para-el-estado-de-san-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-03"
-last_updated: "2018-02-10"
+last_updated: "2018-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 3 de abril de 2012.
 
@@ -33,7 +33,9 @@ DECRETO 954
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Asimismo, se establece la obligación de que el Ejecutivo del Estado expida su Reglamento, en donde regulará de manera individualizada y particular las diversas obligaciones que esta Ley impone a los particulares; el cual deberá ponderar las diversas modalidades en que los particulares participen en esta actividad que oferten en la Entidad; situación que incluye a las personas físicas, o morales sin importar su denominación o razón social, toda vez que lo que se busca es que cualquier actividad económica de particulares, que tenga injerencia directa sobre la seguridad, se encuentre registrada y regulada, al garantizar el servicio y sus posibles daños de acuerdo a cada actividad, por éstos deberán cumplir los requisitos precisados en su artículo 30.
 
@@ -379,7 +381,9 @@ XI. Llevar registro de los clientes, y prestar eficientemente; con lealtad y hon
 
 XII. Cubrir las nóminas de sus integrantes y otorgar seguro de vida al personal operativo de las modalidades señaladas en las fracciones I, II y III del artículo 9º de este ordenamiento, así como amparar las demás prestaciones que marque la ley aplicable, a partir de la contratación y por todo el tiempo que duren en su cargo o comisión;
 
-XIII. Asegurar los vehículos que utilice el prestador de servicios de seguridad privada, cuando menos contra daños a terceros, por una cantidad equivalente a diez mil salarios mínimos de la zona económica del Estado, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
+
+XIII. Asegurar los vehículos que utilice el prestador de servicios de seguridad privada, cuando menos contra daños a terceros, por una cantidad equivalente a diez mil veces el valor diario de la unidad de medida y actualización vigente, y
 
 XIV. Las demás que se estipulen en sus propios reglamentos aprobados por la Secretaría.
 
@@ -521,11 +525,11 @@ Cuando el prestador de servicios de seguridad privada incurra en alguna de las i
 
 Se considera reincidencia a la comisión de dos o más infracciones en un periodo no mayor a seis meses
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 44.
 
-En los términos de esta Ley se sancionará a los prestadores de servicios de seguridad privada, con multa de cien hasta mil unidades de medida de actualización, cuando:
+En los términos de esta Ley se sancionará a los prestadores de servicios de seguridad privada, con multa de cien hasta mil veces el valor diario de la unidad de medida y actualización vigente, cuando:
 
 I. Se presten los servicios de seguridad privada con personal sin uniforme, ni identificación personal visible;
 
@@ -539,11 +543,11 @@ V. Realicen persecuciones que causen alteraciones al orden público.
 
 En caso de reincidencia se duplicará la multa que corresponda.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 45.
 
-Se sancionará a los prestadores de servicios de seguridad privada con multa de doscientos hasta dos mil unidades de medida de actualización, cuando:
+Se sancionará a los prestadores de servicios de seguridad privada, con multa de doscientos hasta dos mil veces el valor diario de la unidad de medida y actualización vigente, cuando:
 
 I. No informen a la Secretaría dentro de los sesenta días en que ocurran, el cambio de accionistas, las variaciones a su capital social, suscripción de acciones, modificaciones, transformaciones, fusiones, disoluciones y liquidación de la persona moral autorizada;
 
@@ -559,11 +563,11 @@ VI. No entreguen el informe a que se refiere la fracción IX del artículo 30 de
 
 En caso de reincidencia se duplicará la multa que corresponda.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 46.
 
-Se sancionará a los prestadores de seguridad privada, con multa de mil hasta cinco mil unidades de medida de actualización, cuando:
+Se sancionará a los prestadores de servicios de seguridad privada, con multa de mil hasta cinco mil veces el valor diario de la unidad de medida y actualización vigente, cuando:
 
 I. Divulguen la información que obtengan con motivo de la prestación de servicios de seguridad privada;
 
@@ -583,9 +587,11 @@ VIII. No auxilien a las instituciones de seguridad pública cuando sea requerido
 
 En caso de reincidencia se duplicará la multa, y se le suspenderá la autorización hasta por seis meses.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 47.
 
-A quienes ofrezcan al público o presten servicios de los regulados por esta Ley, sin contar con la autorización correspondiente, se les impondrá multa de cinco mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica del Estado.
+A quienes ofrezcan al público o presten servicios de los regulados por esta Ley, sin contar con la autorización correspondiente, se les impondrá multa de cinco mil hasta diez mil veces el valor diario de la unidad de medida y actualización vigente.
 
 En caso de reincidencia se duplicará la multa, y quedará impedido para prestar los servicios a que se refiere la presente Ley.
 
@@ -658,3 +664,11 @@ P.O. 10 DE FEBRERO DE 2018.
 PRIMERO: Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO: Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
