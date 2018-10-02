@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-y-del-catastro-101426"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-05"
-last_updated: "2018-10-01"
+last_updated: "2018-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 05 de junio de 2014.
 
@@ -33,7 +33,9 @@ DECRETO 588
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1667,17 +1669,17 @@ V. Realizar cualquier acción o incurrir en omisión a los preceptos de esta Ley
 
 Las infracciones a la presente Ley serán sancionadas por las autoridades catastrales municipales, o en su caso, por el Instituto, con multa de:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-I. Una a diez Unidades de Medida de Actualización, a los sujetos cuya conducta corresponda a lo previsto por la fracción V del precepto anterior;
+I. Uno a diez veces el valor diario de la unidad de medida y actualización vigente, a los sujetos cuya conducta corresponda a lo previsto por la fracción V del precepto anterior;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-II. Once a cien Unidades de Medida de Actualización, a los sujetos cuya conducta corresponda a lo previsto por las fracciones I y III del artículo anterior;
+II. Once a cien veces el valor diario de la unidad de medida y actualización vigente, a los sujetos cuya conducta corresponda a lo previsto por las fracciones I y III del artículo anterior;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-III. Ciento una a quinientas Unidades de Medida de Actualización, a los sujetos cuya conducta corresponda a lo previsto por las fracciones II y IV del artículo que antecede.
+III. Ciento uno a quinientas veces el valor diario de la unidad de medida y actualización vigente, a los sujetos cuya conducta corresponda a lo previsto por las fracciones II y IV del artículo que antecede.
 
 Las sanciones señaladas en este artículo serán aplicadas por las autoridades catastrales municipales, facultada (sic) en la Ley Orgánica del Municipio Libre o, en su caso por el Instituto, tomando en consideración las circunstancias de la infracción cometida y la situación económica del infractor.
 
@@ -1784,3 +1786,11 @@ P.O. 1 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
