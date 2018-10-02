@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-defensoria-publica-del-estado-de-san-luis-potosi-1025
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-17"
-last_updated: "2018-04-26"
+last_updated: "2018-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 17 de septiembre de 2014.
 
@@ -879,7 +879,7 @@ V. Gozar de buena reputación y no haber sido condenada o condenado, ejecutoriam
 
 VI. Estar inscrita o inscrito en el Registro Estatal de Facilitadores, Centros Públicos y Privados.
 
-### Capitulo XIII. Trabajo Social
+### Capítulo XIII. Trabajo Social
 
 ###### Artículo 60.
 
@@ -941,15 +941,21 @@ Impedimentos
 
 A toda persona que solicite la asesoría o representación de la Defensoría, le será proporcionado el servicio gratuito, a excepción de los siguientes supuestos:
 
-I. A quienes perciban más de doscientos salarios mínimos al mes;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
+
+I. A quienes perciban más de doscientas veces el valor diario de la unidad de medida y actualización vigente, al mes;
 
 II. Quienes tengan autorizado un abogado particular;
 
-III. Cuando el asunto se trate de bienes inmuebles que tengan valor comercial superior a siete mil salarios;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
+
+III. Cuando el asunto se trate de bienes inmuebles que tengan valor comercial superior a siete mil veces el valor diario de la unidad de medida y actualización vigente;
 
 IV. Que el bien inmueble materia del juicio no sea la casa donde se habite;
 
-V. En caso de arrendamiento, cuando la renta mensual exceda de cincuenta salarios mínimos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
+
+V. En caso de arrendamiento, cuando la renta mensual exceda de cincuenta veces el valor diario de la unidad de medida y actualización vigente;
 
 VI. Cuando el término para elaborar o contestar una demanda, sea menor a dos días hábiles siguientes a la fecha en que se solicita la representación;
 
@@ -959,9 +965,13 @@ VIII. En juicios de divorcio o de nulidad de matrimonio cuando no se garantice l
 
 IX. En juicios de desocupación, cuando se trate del actor; o siendo el demandado, el inmueble no sea la casa donde se habita;
 
-X. En las sucesiones, cuando se trate de bienes, fianzas, pensiones, cuentas bancarias, seguros de vida y AFORES, cuyos montos rebasen la cantidad de mil salarios mínimos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-XI. En juicios ejecutivos mercantiles, cuando se trate del actor; o cuando siendo el demandado, la suerte principal que se reclama exceda de mil salarios mínimos, y
+X. En las sucesiones, cuando se trate de bienes, fianzas, pensiones, cuentas bancarias, seguros de vida y AFORES, cuyos montos rebasen la cantidad de mil veces el valor diario de la unidad de medida y actualización vigente;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
+
+XI. En juicios ejecutivos mercantiles, cuando se trate del actor; o cuando siendo el demandado, la suerte principal que se reclama exceda de mil veces el valor diario de la unidad de medida y actualización vigente, y
 
 XII. En juicios hipotecarios, cuando se trate del actor.
 
@@ -1070,3 +1080,11 @@ P.O. 26 DE ABRIL DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
