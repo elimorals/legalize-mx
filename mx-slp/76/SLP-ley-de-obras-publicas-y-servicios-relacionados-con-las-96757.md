@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2018-10-01"
+last_updated: "2018-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -191,9 +191,7 @@ Será responsabilidad de las instituciones mantener adecuada y satisfactoriament
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
-###### ARTÍCULO 8°.
-
-El gasto de la obra pública y los servicios relacionados con las mismas se sujetarán, en su caso, a las disposiciones de, la Ley del Presupuesto de Egresos del Estado; la Ley de Presupuesto, Contabilidad y Gasto Público del Estado, y su Reglamento; así como a los presupuestos de egresos de los municipios y organismos autónomos; y demás disposiciones legales aplicables.
+ARTÍCULOS 8°. El gasto de la obra pública y los servicios relacionados con las mismas se sujetarán, en su caso, a las disposiciones de, la Ley del Presupuesto de Egresos del Estado; la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, y su Reglamento; así como a los presupuestos de egresos de los municipios y organismos autónomos; y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 9°.
 
@@ -625,9 +623,11 @@ El desarrollo, en particular, de cada una de las etapas de las convocatorias a q
 
 El Reglamento de esta Ley establecerá, en su caso, los demás aspectos necesarios respecto de las convocatorias a que se refiere este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 50.
 
-Previo a la publicación de la convocatoria a la licitación pública, cuyo presupuesto estimado de contratación sea superior a diez mil veces el salario mínimo general vigente en el Distrito Federal elevado al mes, el proyecto de convocatoria deberá ser difundido a través de CompraNet, al menos durante diez días hábiles; lapso durante el cual se recibirán los comentarios pertinentes en la dirección electrónica que para tal fin se señale.
+Previo a la publicación de la convocatoria a la licitación pública, cuyo presupuesto estimado de contratación sea superior a diez mil veces el valor mensual de la unidad de medida y actualización vigente, el proyecto de convocatoria deberá ser difundido a través de CompraNet, al menos durante diez días hábiles; lapso durante el cual se recibirán los comentarios pertinentes en la dirección electrónica que para tal fin se señale.
 
 En los casos de licitaciones cuyo monto sea inferior al señalado en el párrafo anterior, la publicación previa de las convocatorias será opcional para las instituciones.
 
@@ -1115,7 +1115,9 @@ Las instituciones preferentemente invitarán a cuando menos a tres contratistas,
 
 En cualquier supuesto se convocará a quienes cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros, cuenten con el Registro Único de Contratistas, y demás que sean necesarios.
 
-Cuando el costo de las obras no rebasen el monto equivalente a quinientos salarios mínimos que corresponda a la zona del Estado, podrán asignarse los trabajos respectivos, mediante orden de trabajo, siempre que se cumpla con lo estipulado en los artículos 95 y 96 de esta Ley.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
+
+Cuando el costo de las obras no rebase el monto equivalente a quinientas veces el valor diario de la unidad de medida y actualización vigente, podrán asignarse los trabajos respectivos mediante orden de trabajo, siempre que se cumpla con lo estipulado en los artículos 95 y 96 de esta Ley.
 
 ###### ARTÍCULO 94.
 
@@ -1777,17 +1779,17 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 180.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por el órgano de control interno que corresponda, con multa de cincuenta hasta mil Unidades de Medida de Actualización.
+Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por el órgano de control interno que corresponda, con multa de cincuenta hasta mil veces el valor mensual de la unidad de medida y actualización vigente.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 181.
 
-El funcionario público que, en abuso de sus atribuciones y en contravención a lo establecido en este Ordenamiento, viole el sobre cerrado, o divulgue información que le haya sido proporcionada por medio del sistema CompraNet, en el cual se presenten las proposiciones a que se refiere el artículo 44 de esta Ley, con el fin de conocer en forma privilegiada la información respectiva, antes de los plazos y términos que la misma señala, será destituido de su cargo y se hará acreedor a una multa de un mil a dos mil Unidades de Medida de Actualización sin perjuicio de las penas que le correspondan de conformidad con la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
+El funcionario público que, en abuso de sus atribuciones y en contravención a lo establecido en este Ordenamiento, viole el sobre cerrado, o divulgue información que le haya sido proporcionada por medio del sistema CompraNet, en el cual se presenten las proposiciones a que se refiere el artículo 44 de esta Ley, con el fin de conocer en forma privilegiada la información respectiva, antes de los plazos y términos que la misma señala, será destituido de su cargo y se hará acreedor a una multa de un mil a dos mil veces el valor diario de la unidad de medida y actualización vigente, sin perjuicio de las penas que le correspondan de conformidad con la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 ###### ARTÍCULO 182.
 
@@ -2314,3 +2316,11 @@ P.O. 1 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO- PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
