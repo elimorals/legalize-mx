@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2018-03-15"
+last_updated: "2018-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -33,7 +33,9 @@ DECRETO 964
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 ÚNICO. Se EXPIDE la Ley de Bebidas Alcohólicas del Estado de San Luís Potosí, para quedar como sigue
 
@@ -681,27 +683,37 @@ X. Comercializar bebidas alcohólicas que contengan una proporción mayor al 55%
 
 Las infracciones a la presente Ley serán sancionadas por la autoridad estatal o municipal que hubiese conocido de ellas, con independencia de las que correspondan al orden penal.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 51.
 
-Toda persona que consuma bebidas alcohólicas en la vía pública, dentro de vehículos automotores, o en establecimientos en los cuales la ley prohíbe su consumo, será sancionada con multa de veinte a doscientos salarios mínimos vigentes en la fecha en que hubiese cometido la infracción. Tratándose de jornaleros o personas que perciban el salario mínimo como única fuente de ingresos, se estará a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos
+Toda persona que consuma bebidas alcohólicas en la vía pública, dentro de vehículos automotores, o en establecimientos en los cuales la ley prohíbe su consumo, será sancionada con multa de veinte a doscientas veces el valor diario de la unidad de medida y actualización vigente en la fecha en que hubiese cometido la infracción. Tratándose de jornaleros o personas que perciban el salario mínimo como única fuente de ingresos, se estará a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 52.
 
-Cuando el titular de la licencia o encargado del establecimiento, impida o dificulte la entrada de las autoridades encargadas de la aplicación de esta Ley, al interior de los establecimientos a que hace referencia el artículo 10 de este Ordenamiento, se aplicará multa de cien a cuatrocientos salarios mínimos; y será puesto a disposición del Ministerio Público, solicitando desde luego su intervención, y sin perjuicio de las sanciones administrativas que le correspondan de acuerdo a lo establecido en esta Ley.
+Cuando el titular de la licencia o encargado del establecimiento, impida o dificulte la entrada de las autoridades encargadas de la aplicación de esta Ley, al interior de los establecimientos a que hace referencia el artículo 10 de este Ordenamiento, se aplicará multa de cien a cuatrocientas veces el valor diario de la unidad de medida y actualización vigente; y será puesto a disposición del Ministerio Público, solicitando desde luego su intervención, y sin perjuicio de las sanciones administrativas que le correspondan de acuerdo a lo establecido en esta Ley.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 53.
 
-Cuando se compruebe que los titulares de las licencias o sus encargados, permiten el ejercicio de la prostitución en el establecimiento, además de la cancelación de la licencia, se les impondrá una multa de cien a cuatrocientos salarios mínimos, independientemente de las penas que les imponga la autoridad judicial.
+Cuando se compruebe que los titulares de las licencias o sus encargados, permiten el ejercicio de la prostitución en el establecimiento, además de la cancelación de la licencia, se les impondrá una multa de cien a cuatrocientas veces el valor diario de la unidad de medida y actualización vigente, independientemente de las penas que les imponga la autoridad judicial.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 54.
 
-En caso de que la autoridad encuentre a menores de edad dentro de los establecimientos en los que se les prohíba la entrada, a los titulares de la licencia se les impondrá una multa de cuatrocientos a ochocientos días de salario mínimo, independientemente de las penas que les imponga la autoridad judicial.
+En caso de que la autoridad encuentre a menores de edad dentro de los establecimientos en los que se les prohíba la entrada, a los titulares de la licencia se les impondrá una multa de cuatrocientas a ochocientas veces el valor diario de la unidad de medida y actualización vigente, independientemente de las penas que les imponga la autoridad judicial.
 
-Cuando se compruebe que los titulares de las licencias, o sus empleados o encargados venden, suministran o permiten el consumo bebidas alcohólicas a menores de edad, además de la cancelación de la licencia, se les impondrá una multa de quinientos a mil días de salario mínimo, y se dará aviso a la autoridad investigadora, a efecto de denunciar los delitos que resulten.
+Cuando se compruebe que los titulares de las licencias, o sus empleados o encargados venden, suministran o permiten el consumo (sic) bebidas alcohólicas a menores de edad, además de la cancelación de la licencia, se les impondrá una multa de quinientas a mil veces el valor diario de la unidad de medida y actualización vigente, y se dará aviso a la autoridad investigadora, a efecto de denunciar los delitos que resulten.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 55.
 
-Toda persona que venda, distribuya o suministre bebidas alcohólicas sin licencia; o bebidas alcohólicas adulteradas, alteradas, contaminadas, o falsificadas, se le impondrá una multa de seiscientos a mil doscientos días de salario mínimo, sin perjuicio de las sanciones penales que correspondan.
+Toda persona que venda, distribuya o suministre bebidas alcohólicas sin licencia; o bebidas alcohólicas adulteradas, alteradas, contaminadas, o falsificadas, se le impondrá una multa de seiscientas a mil doscientas veces el valor diario de la unidad de medida y actualización vigente, sin perjuicio de las sanciones penales que correspondan.
 
 ###### ARTÍCULO 56.
 
@@ -713,9 +725,13 @@ Las demás infracciones a esta Ley cometidas por los titulares de las licencias,
 
 I. Apercibimiento por escrito para que se subsane o corrija la falta, dentro del plazo que fije la autoridad, a partir de la fecha en que sea recibida la notificación;
 
-II. Multa de veinte a doscientos días de salario mínimo vigente a la fecha en que se cometa la infracción;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-III. Multa de doscientos a mil doscientos salarios mínimos;
+II. Multa de veinte a doscientas veces el valor diario de la unidad de medida y actualización vigente a la fecha en que se cometa la infracción;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
+
+III. Multa de doscientas a mil doscientas veces el valor diario de la unidad de medida y actualización vigente a la fecha en que se cometa la infracción;
 
 IV. Arresto hasta por treinta y seis horas;
 
@@ -812,3 +828,11 @@ P.O. 15 DE MARZO DE 2018.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
