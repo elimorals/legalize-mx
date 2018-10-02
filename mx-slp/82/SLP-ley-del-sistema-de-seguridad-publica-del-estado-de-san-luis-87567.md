@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2018-08-20"
+last_updated: "2018-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -87,7 +87,7 @@ La función de seguridad pública se realizará en los diversos ámbitos de comp
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
 
-ARTICULO 3 BIS. Cuando no exista disposición expresa en la materia en esta Ley, se aplicará supletoriamente, la Ley General; y los lineamientos generales y específicos que dicten los consejos Nacional y Estatal de Seguridad Pública. Sólo cuando no se encuentre regulada la materia o la acción en la ley o en los lineamientos generales, las resoluciones o los acuerdos de que se trate se ejecutarán mediante convenios generales y específicos entre las partes integrantes del Sistema Estatal, siempre que no se opongan a los fines de esta Ley.
+ARTICULO 3 BIS. Cuando no exista disposición expresa en la materia en esta Ley, se aplicará supletoriamente, la Ley General; y los lineamientos generales y específicos que dicten los consejos Nacional y Estatal de Seguridad Pública. Sólo cuando no se encuentre regulada la materia o la acción en la Ley o en los lineamientos generales, las resoluciones o los acuerdos de que se trate se ejecutarán mediante convenios generales y específicos entre las partes integrantes del Sistema Estatal, siempre que no se opongan a los fines de esta Ley.
 
 Los convenios generales y específicos a que refiere el párrafo anterior, establecerán esquemas que garanticen su debido cumplimiento y las sanciones a las que, de conformidad con la normatividad correspondiente, se harán acreedores los servidores públicos en caso de incumplimiento.
 
@@ -785,7 +785,7 @@ XII. El presidente municipal podrá invitar al titular de la XII Zona Militar, o
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XIII. En el caso de los municipios cabecera de Distrito Judicial, se invitará al alcalde del centro de reclusión distrital.
+XIII. En el caso de los municipios cabecera de Distrito Judicial, se invitará al alcaide del centro de reclusión distrital.
 
 ###### ARTICULO 48.
 
@@ -1977,7 +1977,9 @@ Las resoluciones por las que se impongan sanciones disciplinarias no admiten rec
 
 Para el cumplimiento de las atribuciones que les confiere esta Ley, la Comisión de Honor y Justicia podrá emplear los siguientes medios de apremio:
 
-I. Sanción económica de hasta veinte veces el salario mínimo diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
+
+I. Sanción económica de hasta veinte veces el valor diario de la unidad de medida y actualización vigente;
 
 II. Auxilio de la fuerza pública, y
 
@@ -2057,7 +2059,7 @@ Como organismos auxiliares de seguridad pública con participación ciudadana, s
 
 Para mejorar el servicio de seguridad pública, el Centro Estatal y las instancias de coordinación que prevé esta Ley, promoverán la participación de la comunidad, y tendrán como objetivo actuar sobre las causas que originan la violencia y la delincuencia, a través de las siguientes acciones que se señalan de modo enunciativo y no limitativo:
 
-I. Planear, programar, implementar y evaluar políticas públicas, programas y acciones en prevención social de la violencia y la delincuencia, con participación Ciudadana;
+I. Planear, programar, implementar y evaluar políticas públicas, programas y acciones en prevención social de la violencia y la delincuencia, con participación ciudadana;
 
 II. Proponer al Consejo Estatal lineamientos de prevención social;
 
@@ -2321,7 +2323,7 @@ I. La cobertura óptima de las zonas urbanas, rurales o de tránsito carretero, 
 
 > <small>(ADICIONADA, P.O. 23 DE MAYO DE 2015)</small>
 
-II. La vigilancia preferente de espacios de concentración masiva, o de aquéllos que representen mayores condiciones de vulnerabilidad por su propia naturaleza, como áreas externas a colegios y guarderías, hospitales; instalaciones financieras, centros comerciales, estadios, terminales de transporte u otras similares;
+II. La vigilancia preferente de espacios de concentración masiva, o de aquéllos que representen mayores condiciones de vulnerabilidad por su propia naturaleza, como áreas externas a colegios y guarderías, hospitales, instalaciones financieras, centros comerciales, estadios, terminales de transporte u otras similares;
 
 > <small>(ADICIONADA, P.O. 23 DE MAYO DE 2015)</small>
 
@@ -2583,7 +2585,7 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 11 DE JUNIO DE 2013.
 
-PRIMERO. Ese Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO. Ese (sic) Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -2704,3 +2706,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado deberá armonizar los reglamentos correspondientes dentro de los 180 días siguientes a la entrada en vigor de este Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
