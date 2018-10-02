@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-88737
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-12"
-last_updated: "2017-04-27"
+last_updated: "2018-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 12 de junio de 2012.
 
@@ -1191,9 +1191,11 @@ Las dependencias o entidades darán cumplimiento a la Ley de Transparencia y Acc
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 79.
 
-Los licitantes o los inversionistas-proveedores que infrinjan cualquier disposición de esta ley serán sancionados por la Contraloría General del Estado o la Contraloría Municipal, según corresponda, con multa equivalente a una cantidad entre mil y cinco mil veces el salario mínimo general vigente en la zona respectiva, elevada al mes, en la fecha de la infracción.
+Los licitantes o los inversionistas-proveedores que infrinjan cualquier disposición de esta Ley serán sancionados por la Contraloría General del Estado o la Contraloría Municipal, según corresponda, con multa equivalente a una cantidad entre mil y cinco mil veces el valor de la Unidad de Medida y Actualización, elevada al mes, en la fecha de la infracción.
 
 Dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a esta ley, la dependencia o entidad remitirá a la Contraloría que haya impuesto la sanción, la documentación comprobatoria de los hechos presuntamente constitutivos de la violación en que se hubiere incurrido.
 
@@ -1368,3 +1370,11 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 TERCERO. La inscripción en el Registro Público Único a que se refiere el artículo 73 de la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí, será obligatoria una vez que dicho Registro entre en operación, en términos del artículo Décimo Octavo Transitorio del decreto que expide la Ley de Disciplina Financiera de las Entidades Federativos (sic) y los Municipios, publicado en el Diario Oficial de la Federación el 27 de abril de 2016.
 
 CUARTO. Las autorizaciones para desarrollar un Proyecto que se hayan obtenido con anterioridad a la entrada en vigor de este Decreto, se considerarán válidas y suficientes siempre que: (i) cumplan con los requisitos de validez establecidos en la ley que estaba vigente cuando se obtuvieron; y (ii) en términos de dicha ley, se consideren suficientes para los efectos que se hubieren obtenido. Lo anterior en el entendido que, para cualquier autorización pendiente de obtenerse, así como para el procedimiento de adjudicación y formalización del Contrato y demás disposiciones aplicables, regirá la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí que se modifica en términos del presente Decreto. Los procedimientos de adjudicación que hubieren iniciado con anterioridad a la entrada en vigor de este Decreto, continuarán rigiéndose por las disposiciones de la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí vigentes antes de esta adecuación, hasta su fallo y adjudicación, en el entendido que para la formalización del contrato y demás disposiciones aplicables, regirá la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí modificada en términos del presente Decreto. Los contratos que se hubieren formalizado con anterioridad a la entrada en vigor de este Decreto, se considerarán válidos siempre que cumplan con los requisitos de validez establecidos en la ley que estaba vigente cuando se formalizaron, en el entendido que para las demás disposiciones aplicables, regirá la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí modificada en términos del presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
