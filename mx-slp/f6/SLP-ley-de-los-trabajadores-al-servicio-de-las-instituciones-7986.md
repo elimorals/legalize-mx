@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2018-07-26"
+last_updated: "2018-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -1255,11 +1255,11 @@ Al ejecutarse el laudo, el Presidente del tribunal despachará auto con efectos 
 
 Salvo en los casos que señala el artículo 60 de esta ley, las instituciones públicas no podrán negarse a reinstalar al trabajador, si han sido condenadas a hacerlo mediante laudo ejecutorio.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-###### ARTÍCULO 140.
+###### ARTICULO 140.
 
-En caso de incumplimiento a resoluciones del Tribunal Estatal de Conciliación y Arbitraje, el Presidente del mismo impondrá la sanción siguiente: multa de hasta sesenta veces el salario mínimo vigente en el área económica donde resida la autoridad o persona rebelde. Impuesta la sanción anterior, si se continúa en la negativa para cumplirla, se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+En caso de incumplimiento a resoluciones del Tribunal Estatal de Conciliación y Arbitraje, el Presidente del mismo impondrá la sanción siguiente: multa de hasta sesenta veces el valor diario de la unidad de medida y actualización vigente. Impuesta la sanción anterior, si se continúa en la negativa para cumplirla, se procederá en los términos de la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 ### CAPITULO III.
 
@@ -1479,7 +1479,9 @@ Se pueden imponer indistintamente, las siguientes correcciones disciplinarias:
 
 I.- Amonestación;
 
-II.- Multa que no exceda del equivalente a siete veces el salario mínimo diario general vigente en el área geográfica; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
+
+II.- Multa que no exceda del equivalente a siete veces el valor diario de la unidad de medida y actualización vigente, y
 
 III.- Expulsión del recinto del tribunal, mediante el auxilio de la fuerza publica en caso necesario.
 
@@ -1495,17 +1497,19 @@ El Presidente y el Secretario de Acuerdos del tribunal, podrán imponer conjunta
 
 Son medios de apremio:
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-I.- La multa hasta cincuenta veces el equivalente del salario mínimo diario general vigente en el área geográfica;
+I.- La multa hasta cincuenta veces el valor diario de la unidad de medida y actualización vigente;
 
 II.- La comparecencia física de las personas por medio de la fuerza pública; y
 
 III.- El arresto hasta por treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 177.
 
-El Presidente del tribunal podrá castigar las infracciones a esta ley, que no tengan señalada otra sanción, con multa de hasta quince veces el salario mínimo diario general vigente en la Entidad, pero si se trata del trabajador, se estará a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+El Presidente del tribunal podrá castigar las infracciones a esta ley, que no tengan señalada otra sanción, con multa de hasta quince veces el valor diario de la unidad de medida y actualización vigente, pero si se trata del trabajador, se estará a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
 
@@ -1862,3 +1866,11 @@ P.O. 26 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
