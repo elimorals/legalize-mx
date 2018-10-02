@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2018-07-26"
+last_updated: "2018-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -301,7 +301,7 @@ Para aquellos proveedores cuyo domicilio social y fiscal se encuentre dentro del
 
 ###### ARTICULO 18.
 
-En las adquisiciones, arrendamientos y servicios que se contraten, las instituciones públicas, garantizando siempre las mejores condiciones técnicas y económicas, quedan obligadas a preferir en igualdad de circunstancias, a los proveedores locales, con el propósito de alentar, proteger y fortalecer la Industria, el comercio y, por ende, el desarrollo del Estado.
+En las adquisiciones, arrendamientos y servicios que se contraten, las instituciones públicas, garantizando siempre las mejores condiciones técnicas y económicas, quedan obligadas a preferir en igualdad de circunstancias, a los proveedores locales, con el propósito de alentar, proteger y fortalecer la industria, el comercio y, por ende, el desarrollo del Estado.
 
 ###### ARTICULO 19.
 
@@ -683,7 +683,9 @@ VIII.- Las demás que en términos de ley deban entenderse como tales.
 
 Las infracciones enumeradas en el artículo anterior, se sancionarán con:
 
-I.- Multa por el equivalente de cien a un mil veces el salario mínimo general diario vigente en el Estado, en la fecha en que se cometa la infracción;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
+
+I.- Multa por el equivalente de cien a un mil veces la unidad de medida y actualización diaria vigente, en la fecha en que se cometa la infracción;
 
 II.- Suspensión temporal como proveedor; y
 
@@ -881,8 +883,16 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 26 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 1023.- SE ADICIONA EL ARTÍCULO 26 BIS, A LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1023.- SE ADICIONA EL ARTÍCULO 26 BIS, A LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
