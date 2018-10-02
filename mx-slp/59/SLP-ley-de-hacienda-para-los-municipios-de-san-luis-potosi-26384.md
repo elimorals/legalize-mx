@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2018-04-17"
+last_updated: "2018-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -35,7 +35,7 @@ DECRETO 190
 
 LA QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSI
 
@@ -193,9 +193,11 @@ c). Urbanos o suburbanos destinados a uso industrial, y
 
 d). Rústicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 20.
 
-El impuesto predial será anual y su pago deberá hacerse por bimestres adelantados, dentro de los primeros quince días de cada bimestre, en el lugar que al efecto señalen las autoridades fiscales. El impuesto anual nunca será inferior al equivalente a cuatro salarios mínimos diarios de la zona económica en que se ubiquen los municipios; el pago deberá hacerse en una sola exhibición dentro de los tres primeros meses del año.
+El impuesto predial será anual y su pago deberá hacerse por bimestres adelantados, dentro de los primeros quince días de cada bimestre, en el lugar que al efecto señalen las autoridades fiscales. El impuesto anual nunca será inferior al equivalente a cuatro unidades de medida y actualización; el pago deberá hacerse en una sola exhibición dentro de los tres primeros meses del año.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
 
@@ -321,17 +323,17 @@ Los servidores públicos designados por los H. Ayuntamientos que adopten este si
 
 La tasa del impuesto será la que se determine en la respectiva Ley de Ingresos de cada municipio.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-Para efectos de vivienda de interés social y vivienda popular se deducirá de la base gravable el importe de 10 salarios mínimos generales de la zona económica en que se ubique el municipio respectivo, elevados al año, y del impuesto a pagar resultante se reducirá el 50%.
+Para efectos de vivienda de interés social y vivienda popular se deducirá de la base gravable el importe de diez unidades de medida y actualización vigente, elevados al año, y del impuesto a pagar resultante se deducirá el cincuenta por ciento.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2002)</small>
 
 Se entiende por vivienda de interés social y popular, las que establece el artículo 60 de la Ley de Hacienda para el Estado de San Luis Potosí.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-Se considera vivienda popular con urbanización progresiva la que señalan los artículos 159 y 160 de la Ley de Desarrollo Urbano del Estado de San Luis Potosí; estableciéndose para las mismas una cuota mínima que se indicará en la ley de ingresos del municipio respectivo. En ningún caso el impuesto a pagar podrá ser inferior al importe de cuatro salarios mínimos diarios.
+Se considera vivienda popular con urbanización progresiva la que señalan los artículos 159 y 160 de la Ley de Desarrollo Urbano del Estado de San Luis Potosí; estableciéndose para las mismas una cuota mínima que se indicará en la ley de ingresos del municipio respectivo. En ningún caso el impuesto a pagar podrá ser inferior al importe de cuatro unidades de medida y actualización.
 
 ###### ARTICULO 32.
 
@@ -979,9 +981,11 @@ Para este efecto, previamente al retiro del pavimento ya existente, deberá medi
 
 Cuando se hagan instalaciones de alumbrado público, si las lámparas se instalan en el centro del arroyo o en ambas aceras, las cuotas unitarias se pagarán por mitades por los propietarios de los inmuebles con frente a las mismas. Si la instalación se hace en una acera, la contribución será a cargo de los propietarios de los inmuebles con frente a la acera beneficiada.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 94.
 
-Cuando por error en las medidas de los frentes de los inmuebles la determinación del monto de las cuotas correspondientes a los propietarios de cada inmueble sea inexacta, pero la diferencia a favor o en contra no exceda 0.42 salarios mínimos generales de la zona, se tendrá como correcta la cuota fijada.
+Cuando por error en las medidas de los frentes de los inmuebles la determinación del monto de las cuotas correspondientes a los propietarios de cada inmueble sea inexacta, pero la diferencia a favor o en contra no exceda 0.42 de la unidad de medida y actualización, se tendrá como correcta la cuota fijada.
 
 ###### ARTICULO 95.
 
@@ -1002,3 +1006,11 @@ La cuota a cargo de los propietarios o poseedores de los predios no cultivados s
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
