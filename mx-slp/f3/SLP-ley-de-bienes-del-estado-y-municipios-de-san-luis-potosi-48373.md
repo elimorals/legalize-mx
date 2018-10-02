@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2018-10-01"
+last_updated: "2018-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -589,11 +589,11 @@ Las instituciones privadas que por cualquier concepto utilicen, administren o te
 
 ### CAPITULO VII. Sanciones
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 52.
 
-Se sancionará con multa de cien a ochocientas Unidades de Medida y Actualización, a quien concluido el plazo por el que se otorgó la concesión, licencia, permiso o autorización para la explotación, uso o aprovechamiento de un bien del dominio público, no lo devuelva a la autoridad competente en un plazo de treinta días, previo requerimiento que se le haga.
+Se sancionará con multa de cien a ochocientas veces el valor diario de la unidad de medida y actualización vigente al momento de los hechos, a quien concluido el plazo por el que se otorgó la concesión, licencia, permiso o autorización para la explotación, uso o aprovechamiento de un bien del dominio público, no lo devuelva a la autoridad competente, en un plazo de treinta días, previo requerimiento que se le haga.
 
 ###### ARTICULO 53.
 
@@ -720,3 +720,11 @@ P.O. 1 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
