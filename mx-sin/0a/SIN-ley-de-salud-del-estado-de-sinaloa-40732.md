@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2018-09-17"
+last_updated: "2018-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -355,13 +355,17 @@ VII. Coadyuvar a la modificación de los patrones culturales que determinen háb
 
 VIII. Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud;
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
 
-IX. Proporcionar orientación a la población respecto de la importancia de la alimentación correcta y su relación con los beneficios a la salud; y
+IX. Proporcionar orientación a la población respecto de la importancia de la alimentación correcta y su relación con los beneficios a la salud;
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
 
-X. Diseñar y ejecutar políticas públicas que propicien la alimentación correcta, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad, y otros trastornos de la conducta alimentaria.
+X. Diseñar y ejecutar políticas públicas que propicien la alimentación correcta, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad, y otros trastornos de la conducta alimentaria; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+
+XI. Acorde a las demás disposiciones legales aplicables, promover la creación de programas para la atención integral de las víctimas y victimarios de acoso y violencia escolar, en coordinación con las autoridades educativas.
 
 ###### Artículo 18.
 
@@ -3294,3 +3298,11 @@ P.O. 17 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 829 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE ADICIONA AL TÍTULO CUARTO, EL CAPÍTULO I BIS Y EL ARTÍCULO 67 BIS, DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 828 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA UNA FRACCIÓN AL ARTÍCULO 17 DE LA LEY DE SALUD DEL ESTADO DE SINALOA, EN MATERIA DE ACOSO ESCOLAR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
