@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-mejora-regulatoria-del-estado-de-queretaro-100133"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-02"
-last_updated: "2017-09-01"
+last_updated: "2018-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 3 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 2 de abril de 2014.
 
@@ -1240,3 +1242,33 @@ La presente Ley entrará en vigor el día de su publicación en el Periódico Of
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA" LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO".]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Segundo. Se abroga la Ley de Mejora Regulatoria del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", de fecha 2 de abril de 2014.
+
+Tercero. El Consejo Local de Mejora Regulatoria deberá estar instalado dentro un plazo de noventa días naturales siguientes a la entrada en vigor de la presente Ley.
+
+La representación de los dos presidentes municipales en el Consejo Local a que se refiere la fracción VI y último párrafo del artículo 10 de esta Ley, recaerá por única ocasión en los Presidentes de los Municipios de Querétaro y Corregidora, por un periodo que concluirá el treinta de septiembre del año dos mil veintiuno.
+
+Cuarto. Los Sujetos Obligados tendrán los siguientes plazos para el cumplimiento a lo dispuesto por la Ley General, respecto de la herramienta tecnológica del Catálogo:
+
+I. Dentro de un año siguiente al inicio del funcionamiento de dicha herramienta, para los Sujetos Obligados de las dependencias del Poder Ejecutivo, sus órganos y entidades, los Poderes Legislativo y Judicial, así como los organismos con autonomía constitucional y los organismos con jurisdicción contenciosa, que no formen parte del Poder Judicial; y
+
+II. Dentro de dos años siguientes al inicio del funcionamiento de la citada herramienta, para los Sujetos Obligados del orden municipal.
+
+Quinto. El Gobernador del Estado nombrará al titular de la Comisión Estatal, dentro de los 30 treinta días naturales siguientes al de la entrada en vigor del presente ordenamiento.
+
+Sexto. Las disposiciones normativas vigentes en el Estado de Querétaro, que no se contrapongan a lo dispuesto por la Ley General de Mejora Regulatoria, continuarán surtiendo sus efectos.
+
+Séptimo. Las manifestaciones de impacto regulatorio presentadas por las autoridades con anterioridad a la entrada en vigor de la presente Ley, serán concluidas conforme a las disposiciones aplicables vigentes a la fecha de su presentación.
+
+Octavo. La Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, deberá realizar las adecuaciones presupuestales necesarias a efecto de que se provea de los elementos necesarios para el cumplimiento de la presente ley.
+
+Noveno. Las obligaciones previstas en la presente Ley, cuyo cumplimiento se encuentre sujeto a la entrada en vigor de los lineamientos y demás normas administrativas generales que ordena expedir la Ley General de Mejora Regulatoria, serán exigibles cuando así lo establezcan dichas disposiciones.
+
+Décimo. Los Ayuntamientos, en el ámbito de su competencia, deberán expedir las disposiciones jurídicas y realizar las adecuaciones normativas correspondientes en esta materia, dentro del año siguiente a la entrada en vigor de la presente ley.
