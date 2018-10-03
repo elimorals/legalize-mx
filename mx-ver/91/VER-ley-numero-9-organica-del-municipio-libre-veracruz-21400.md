@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2018-09-11"
+last_updated: "2018-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -403,7 +403,9 @@ II. Recaudar y administrar en forma directa y libre los recursos que integren la
 
 III. Recibir las participaciones federales, que serán cubiertas a los municipios con arreglo a las bases, montos y plazos que anualmente determine el Congreso del Estado;
 
-IV. Elaborar, aprobar, ejecutar y publicar el Plan Municipal de Desarrollo, de conformidad con la ley de la materia y en los términos que la misma establezca;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. Elaborar, aprobar, ejecutar, evaluar, actualizar y publicar el Plan Municipal de Desarrollo, de conformidad con la ley de la materia en los términos que la misma establezca e incorporando en el documento los principios de igualdad y no discriminación establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Veracruz de Ignacio de la Llave, así como lo previsto en los tratados internacionales en materia de derechos humanos.
 
 > <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -425,9 +427,9 @@ X. Distribuir los recursos que le asigne el Congreso del Estado considerando de 
 
 XI. Crear los órganos centralizados y desconcentrados que requiera la administración pública municipal para la mejor prestación de los servicios de su competencia, de conformidad con las disposiciones presupuestales y reglamentarias municipales aplicables;
 
-> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XII. Resolver sobre el nombramiento y, en su caso, remoción o licencia del Tesorero, del Secretario del Ayuntamiento, del titular del órgano de control interno y del Jefe o Comandante de la Policía Municipal;
+XII. Resolver sobre el nombramiento a propuesta del presidente municipal, y, en su caso, remoción o licencia del tesorero, del secretario del Ayuntamiento, del titular del Órgano de Control Interno y del jefe o comandante de la Policía Municipal; de no resolver sobre el nombramiento de los servidores públicos mencionados, el presidente municipal procederá conforme lo establece la fracción XIV del artículo 36 de esta Ley;
 
 XIII. (DEROGADA, G.O. 15 DE FEBRERO DE 2010)
 
@@ -439,9 +441,13 @@ XVI. Acordar el régimen de seguridad social de los servidores públicos municip
 
 XVII. Promover el desarrollo del personal estableciendo los términos y condiciones para crear el servicio civil de carrera;
 
-XVIII. Capacitar a los servidores públicos de los diversos niveles y áreas de la administración pública municipal, a los Agentes y Subagentes Municipales, así como a los Jefes de Manzana, mediante cursos, seminarios y demás actividades tendientes a eficientar el mejor cumplimiento de sus responsabilidades;
+> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
-XIX. Realizar estudios, programas de investigación, capacitación y orientación en materia de desarrollo municipal, comunitario y de participación social;
+XVIII. Capacitar a los servidores públicos de los diversos niveles y áreas de la administración pública municipal, a los Agentes y Subagentes Municipales, y Comisario Municipal, así como a los Jefes de Manzana.
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2016)</small>
+
+XIX. Realizar estudios, programas de investigación, capacitación y orientación en materia de desarrollo municipal, comunitario, de participación social y perspectiva de género.
 
 XX. Sujetarse, en las relaciones con sus trabajadores, a las leyes que en esta materia expida el Congreso del Estado y a los convenios que se celebren con base en dichas leyes, de conformidad con los presupuestos de egresos que apruebe el Ayuntamiento;
 
@@ -453,11 +459,9 @@ El nombramiento de los trabajadores de confianza únicamente surtirá efectos le
 
 Cada Ayuntamiento clasificará los puestos de confianza conforme a sus propios catálogos generales de puestos que establezcan dentro de su régimen interno, así como, al momento de iniciar cada administración o contratar al trabajador de confianza, deberá expedir a éste un nombramiento en el que se especifique el cargo que deberá desempeñar de acuerdo con la clasificación que indique el catálogo de puestos correspondiente, señalando claramente las causales del término del nombramiento, tal como lo menciona el párrafo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
-
-XXI. Establecer sus propios órganos de control interno autónomos, los cuales desarrollarán funciones de control y evaluación, de conformidad a las disposiciones legales aplicables, cuyo titular deberá ser profesionista en derecho o en las áreas económicas o contable administrativas.
+XXI. Establecer sus propios órganos de control interno autónomos, de conformidad con lo establecido en esta Ley y las demás disposiciones legales aplicables;
 
 XXII. Celebrar, previo acuerdo de sus respectivos Cabildos, convenios de coordinación y asociación con otros municipios para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado con municipios de otras entidades federativas, deberán contar con la aprobación del Congreso. Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos servicios públicos o funciones, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio;
 
@@ -529,7 +533,9 @@ XXXVII. Contratar empréstitos, previa autorización del Congreso del Estado o d
 
 XXXVIII. Participar en la elección de Agentes y Subagentes Municipales, de conformidad con lo dispuesto por esta ley;
 
-XXXIX. Fraccionar las localidades de su territorio urbano en manzanas y designar a los jefes de las mismas, de conformidad con las reglas que expida el Ayuntamiento;
+> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+XXXIX. Fraccionar las localidades de su territorio urbano en manzanas y designar a los jefes de las mismas, de conformidad con las reglas que expida el Ayuntamiento, así como determinar los caseríos que contarán con Comisario Municipal y designarlos.
 
 XL. Convocar, en los términos que establezcan la Constitución del Estado y la ley de la materia, a referendo o plebiscito;
 
@@ -543,21 +549,23 @@ XLII. Procurar, promover y vigilar el cuidado de los bienes y otorgamiento de lo
 
 XLIII. Fomentar la educación y la creación de bibliotecas públicas, así como desarrollar programas de alfabetización y promoción de la lectura, para el progreso social;
 
-XLIV. Integrar, de conformidad con lo dispuesto por esta ley y demás disposiciones legales aplicables, la Unidad Municipal de Protección Civil;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+XLIV. Integrar, de conformidad con lo dispuesto por esta Ley y demás disposiciones legales aplicables, la Unidad Municipal de Protección Civil; y en el caso de aquellos municipios que no cuenten con Cuerpos de Bomberos podrán integrarlos para su respectiva operatividad;
 
 XLV. Aprobar el funcionamiento interno de la Unidad Municipal de Protección Civil, con base en la propuesta que ésta le presente;
 
-> <small>(REFORMADA, G.O. 3 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2017)</small>
 
-XLVI. Aprobar el Programa Municipal de Protección Civil, con base en los lineamientos que establezca el Sistema Estatal de Protección Civil;
+XLVI. Aprobar los programas municipales de protección civil y seguridad pública, con base en los lineamientos que establezcan los Sistemas Estatales respectivos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE ENERO DE 2007)</small>
 
 XLVII. Nombrar al Cronista Municipal quien deberá llevar el registro escrito del acontecer histórico local, que preserve y fomente la identidad de los pobladores con su Municipio y con el Estado; y
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2016)</small>
 
-XLVIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; y
+XLVIII. Promover entre los habitantes del Municipio el conocimiento, respeto y defensa de los derechos humanos y la igualdad de oportunidades.
 
 > <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2015)</small>
 
@@ -1693,11 +1701,11 @@ Las dependencias, entidades, órganos y servidores públicos de los Ayuntamiento
 
 Estarán exceptuados de lo dispuesto por el párrafo anterior, los actos y procedimientos administrativos en materia laboral, electoral, de procuración de justicia y los de nombramiento y remoción de los servidores públicos municipales, los que se regirán por las leyes especiales y reglamentos municipales que regulen dichas materias.
 
-> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 68.
 
-Con base en lo dispuesto en esta Ley, el Ayuntamiento podrá aprobar disposiciones reglamentarias para el nombramiento de servidores públicos titulares de las dependencias centralizadas o de órganos desconcentrados, así como de aquellos que desempeñen un empleo, cargo o comisión de confianza de naturaleza directiva en el Ayuntamiento, que realicen funciones relativas a los servicios públicos municipales. Al efecto, dichos servidores públicos deberán contar con título profesional o carta de pasante expedidos por institución legalmente facultada para ello o, en su defecto, con experiencia acreditada en el ramo, a juicio de quien se encuentre facultado legalmente para nombrarlo.
+Con base en lo dispuesto en esta Ley, el Ayuntamiento podrá aprobar disposiciones reglamentarias para el nombramiento de servidores públicos titulares de las dependencias centralizadas o de órganos desconcentrados, así como de aquellos que desempeñen un empleo, cargo o comisión de confianza de naturaleza directiva en el Ayuntamiento, que realicen funciones relativas a los servicios públicos municipales. Al efecto, dichos servidores públicos deberán contar con título profesional o carta de pasante, expedidos por institución legalmente facultada para ello o, en su defecto, con experiencia acreditada en el ramo, a juicio de quien se encuentre facultado para nombrarlo, y preferentemente, deberán ser originarios del municipio respectivo.
 
 ### CAPITULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
@@ -4181,8 +4189,16 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 11 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 725 QUE REFORMA EL ARTÍCULO 66-B, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 725 QUE REFORMA EL ARTÍCULO 66-B, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 712 QUE REFORMA EL ARTÍCULO 68 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
