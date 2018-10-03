@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-talleres-graficos-de-chiapas-96026"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-21"
-last_updated: "2013-08-21"
+last_updated: "2018-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE TALLERES GRÁFICOS DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de agosto de 2013.
 
@@ -49,9 +49,11 @@ Las disposiciones del presente Reglamento Interior, son de orden público e inte
 
 Talleres Gráficos de Chiapas, es un Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, autonomía operativa y de gestión; mismo que le corresponde el despacho de los asuntos que le confiere la Ley de Entidades Paraestatales, su Decreto de Creación, el presente Reglamento Interior y demás disposiciones legales aplicables, dentro del ámbito de su competencia.
 
-###### Artículo 3°.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
-Talleres Gráficos de Chiapas tiene como objeto principal, la prestación de servicios de impresión, edición y realización de toda clase de trabajos relacionados con la publicación y las artes gráficas, por contratación directa con los Organismos Públicos Federales, Estatales o Municipales.
+###### Artículo 3º.
+
+Talleres Gráficos de Chiapas tiene como objeto principal, la prestación y comercialización de servicios de impresión, edición, y realización de toda clase de trabajos relacionados con la publicación y las artes gráficas, por contratación directa con los Organismos Públicos Federales, Estatales o Municipales.
 
 ###### Artículo 4°.
 
@@ -71,7 +73,9 @@ IV.- Dirección General: A la Dirección General de Talleres Gráficos de Chiapa
 
 V.- Director General: Al Director General de Talleres Gráficos de Chiapas.
 
-VI.- Órganos Administrativos: A la Dirección General, Direcciones y demás Órganos Administrativos que forman parte de la estructura orgánica de Talleres Gráficos de Chiapas.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+
+VI.- Órganos Administrativos: A la Dirección General, Unidad de Transparencia, Direcciones y demás Órganos Administrativos que forman parte de la estructura orgánica de Talleres Gráficos de Chiapas.
 
 VII.- Decreto de Creación: Al Decreto por el que se crea Talleres Gráficos de Chiapas, mediante Periódico Oficial número 005, Tomo XCIII, de fecha 04 de febrero de 1981 y demás reformas al Decreto de Creación.
 
@@ -79,9 +83,11 @@ VIII.- Reglamento Interior: Al Reglamento Interior de Talleres Gráficos de Chia
 
 IX.- Publicaciones: A la prestación de los servicios de impresión, edición y ejecución de toda clase de trabajos solicitados por los Organismos Públicos, Federal, Estatal o Municipal.
 
-###### Artículo 6°.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
-Los Titulares de los Órganos Administrativos que integran Talleres Gráficos, implementarán acciones para la protección, custodia, resguardo y conservación de los archivos a su cargo, en los términos de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
+###### Artículo 6º.
+
+Los titulares de los órganos Administrativos que integran Talleres Gráficos, implementarán acciones para la protección, custodia, resguardo y conservación de los archivos a su cargo, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas.
 
 ## Título Segundo. De la Organización de Talleres Gráficos y Atribuciones del Director General
 
@@ -93,11 +99,17 @@ Para la realización de los estudios, conducción, planeación, ejecución y des
 
 I.- Dirección General.
 
-II.- Comisaría.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2018)</small>
+
+II.- Unidad de Transparencia.
 
 III.- Dirección de Administración y Servicios.
 
 IV.- Dirección de Proceso y Producción.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2018)</small>
+
+V. Comisaría.
 
 ###### Artículo 8°.
 
@@ -107,9 +119,11 @@ El Director General, para el cumplimiento de sus atribuciones, contará con la e
 
 Para el despacho de los asuntos competencia de Talleres Gráficos, los Titulares de los Órganos Administrativos desempeñarán las atribuciones conferidas en el presente Reglamento Interior.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 10.
 
-El desempeño de los servidores públicos de Talleres Gráficos, se regirá por los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas y demás disposiciones legales aplicables.
+El desempeño de los servidores públicos de Talleres Gráficos, se regirá por los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas y demás disposiciones legales aplicables.
 
 ###### Artículo 11.
 
@@ -203,7 +217,9 @@ XX.- Las demás atribuciones que en el ámbito de su competencia, le sean encome
 
 ## Título Tercero. De los Órganos Administrativos de Talleres Gráficos y de las Atribuciones de sus Titulares
 
-### Capítulo I. De las Atribuciones Generales de los Titulares de los Órganos Administrativos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2018)</small>
+
+### Capítulo I. De las Atribuciones Generales de los Órganos Administrativos y de la Unidad de Transparencia
 
 ###### Artículo 15.
 
@@ -246,6 +262,10 @@ XVII.- Participar en las comisiones, congresos, consejos, instituciones, reunion
 XVIII.- Convocar a reuniones de trabajo, al personal adscrito a los diferentes Órganos Administrativos a su cargo.
 
 XIX.- Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General, así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+
+Artículo 15 BIS.- El Titular de la Unidad de Transparencia, tendrá las atribuciones previstas en el artículo 59 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas y demás disposiciones legales aplicables.
 
 ### Capítulo II. De la Integración de las Direcciones y de las Atribuciones de sus Titulares
 
@@ -331,9 +351,11 @@ V.- Las demás atribuciones que en el ámbito de su competencia, le sean encomen
 
 ### Capítulo III. De las Atribuciones del Titular de la Comisaría
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 20.
 
-El Titular de la Comisaría tendrá las atribuciones conferidas en la Ley de Entidades Paraestatales del Estado de Chiapas, en el Decreto por el que se crea Talleres Gráficos de Chiapas, en el Decreto para el Fortalecimiento de la Función de Comisarios Públicos en las Entidades de la Administración Pública Estatal y demás disposiciones legales aplicables.
+El titular de la Comisaría tendrá las atribuciones conferidas en la Ley de Entidades Paraestatales del Estado de Chiapas, el Decreto de Creación de Talleres Gráficos de Chiapas, el Decreto que Regula la Función de los Comisarios Públicos en las Entidades Paraestatales de Administración Pública del Estado de Chiapas y demás disposiciones legales aplicables.
 
 ## Título Cuarto. De las Suplencias de los Servidores Públicos
 
@@ -343,9 +365,9 @@ El Titular de la Comisaría tendrá las atribuciones conferidas en la Ley de Ent
 
 El Director General será suplido en sus ausencias temporales, por el funcionario público que éste designe.
 
-###### Artículo 22.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
-Los Directores serán suplidos en sus ausencias, por el servidor público que designe el Director General.
+Artículo 21 (sic).- Los Directores y el titular de la Unidad de Transparencia, serán suplidos en sus ausencias, por el servidor público que designe el Director General.
 
 ###### Artículo 23.
 
@@ -368,3 +390,21 @@ Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley 
 Dado en la Sala de Juntas de "Talleres Gráficos de Chiapas", en la ciudad de Tuxtla Gutiérrez, Chiapas; a los cuatro días del mes de julio del año dos mil trece.
 
 Integrantes de la Junta de Gobierno: Presidente Suplente: Mtro. Pacífico Hugo Orantes Montes, Dirección de Organismos y Empresas Públicas y Representante de la C. Secretaría de Hacienda.- Secretario Técnico: Ing. Boanerges L. Aguilar Orantes, Director de Administración y Servicios de Talleres Gráficos de Chiapas.- Vocales: Lic. Juan Antonio Castro Gasca, Asesor y Representante del Secretario General de Gobierno.- Lic. Víctor Hugo Alegría Cordero, Jefe del Área Jurídica y Representante del Director General del Instituto de Comunicación Social del Estado de Chiapas.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "PUB. NO. 2969-A-2018 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE TALLERES GRÁFICOS DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía que este Decreto y se opongan al mismo.
+
+Artículo Tercero.- Para las cuestiones no previstas en este Decreto y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Director General resolverá lo conducente.
+
+Artículo Cuarto. El Manual de Organización de Talleres Gráficos, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Decreto.
+
+Artículo Quinto. En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto. Publíquese el presente Reglamento Interior en el Periódico Oficial, en cumplimiento a lo dispuesto por los artículos 1, 2 y 13 fracción V de la Ley Estatal del Periódico Oficial.
