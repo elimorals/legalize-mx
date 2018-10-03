@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-96299
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-17"
-last_updated: "2017-09-05"
+last_updated: "2018-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 17 de octubre de 2013.
 
@@ -205,7 +205,9 @@ a) Manifestar por escrito y bajo protesta de decir verdad, que no reciben otro i
 
 b) Manifestar por escrito y bajo protesta de decir verdad, que el inmueble objeto del Impuesto es su única propiedad en el Estado o que lo tiene en usufructo y que no posee otras propiedades en el resto de la República Mexicana.
 
-Tratándose de la primera vez, quien pretenda obtener el beneficio de pagar un día de Salario Mínimo por concepto de Impuesto Predial, solicitará ante la autoridad municipal correspondiente, la tramitación de la constancia que acredite lo anterior, en el Registro Público de la Propiedad y del Comercio, quien la expedirá sin costo alguno.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+
+Tratándose de la primera vez, quien pretenda obtener el beneficio de pagar un día de Salario Mínimo por concepto de Impuesto Predial, solicitará ante la autoridad municipal correspondiente, la tramitación de la constancia que acredite lo anterior, en el Instituto de la Función Registral del Estado de Querétaro, quien la expedirá sin costo alguno.
 
 c) Habitar dicho inmueble y, por lo tanto, no destinarlo al arrendamiento.
 
@@ -773,7 +775,9 @@ IV. La naturaleza o concepto del acto jurídico que se trate;
 
 V. Identificación del inmueble, señalando su ubicación, nomenclatura si la tiene, superficie, linderos y nombre de los colindantes;
 
-VI. Antecedentes de propiedad o de posesión del inmueble en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+
+VI. Antecedentes de propiedad o de posesión del inmueble en el Instituto de la Función Registral del Estado de Querétaro;
 
 VII. Valor gravable conforme a las disposiciones contenidas en este Capítulo;
 
@@ -817,9 +821,11 @@ La omisión a lo dispuesto en este artículo constituye una infracción y será 
 
 La consulta escrita en relación a la base gravable del Impuesto que se formule a la dependencia encargada de las finanzas públicas por quien acredite el interés jurídico, cuando se trate de contratos privados, deberá resolverse dentro de los diez días hábiles siguientes a la fecha de su presentación, sin que con esto interrumpa el plazo para su pago.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 79.
 
-Los encargados del Registro Público de la Propiedad y del Comercio no inscribirán los actos jurídicos a que se refieren los artículos anteriores, sin que se les compruebe haber realizado el pago del Impuesto sobre Traslado de Dominio.
+Los encargados del Instituto de la Función Registral del Estado de Querétaro no inscribirán los actos jurídicos a que se refieren los artículos anteriores, sin que se les compruebe haber realizado el pago del Impuesto sobre Traslado de Dominio.
 
 Con la finalidad de comprobar dicho pago, podrá presentarse constancia de no adeudo del Impuesto sobre Traslado de Dominio o el recibo de pago del mismo Impuesto, emitidos por la dependencia encargada de las finanzas públicas municipales.
 
@@ -1782,3 +1788,13 @@ P.O. 5 DE SEPTIEMBRE DE 2017.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones legales vigentes de igual o menor jerarquía en la materia, que resulten contrarias a la presente Ley.
+
+P.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUÉRETARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUÉRETARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUÉRETARO, DEL (SIC) LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUÉRETARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUÉRETARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUÉRETARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUÉRETARO, DEL CÓDIGO URBANO DEL ESTADO DE QUÉRETARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUÉRETARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUÉRETARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUÉRETARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUÉRETARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUÉRETARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUÉRETARO, DE LA LEY DE ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUÉRETARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUÉRETARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Articulo Segundo. Los artículos de instrucción Segundo al Décimo de la presente Ley, entrarán en vigor a partir del uno de enero de dos mil diecinueve.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
