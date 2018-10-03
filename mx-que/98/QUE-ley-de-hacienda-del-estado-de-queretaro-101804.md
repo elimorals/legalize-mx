@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2017-12-19"
+last_updated: "2018-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -33,7 +33,9 @@ LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Que
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Séptima Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -1485,13 +1487,9 @@ d) Pagar el impuesto determinado a su cargo, mediante declaración que será pre
 
 ### Capítulo Segundo. Por los servicios prestados por el Registro Público de la Propiedad y del Comercio
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
-
 ## Título Cuarto. De los Derechos
 
 ### Capítulo Tercero. Por los servicios prestados por el Archivo General de Notarías
-
-Objeto
 
 ###### Artículo 84.
 
@@ -1615,343 +1613,113 @@ III. De la autorización o giro, la cantidad que resulte mayor entre el equivale
 
 Del cambio de otros datos informativos sobre el establecimiento o del titular de la licencia, sin costo alguno.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2018)</small>
+
 ### Capítulo Cuarto. De los servicios prestados por Autoridades Catastrales
 
 ###### Artículo 90.
 
-Por la inscripción de compraventa de inmuebles; compraventa de bienes inmuebles con reserva de dominio; permuta de bienes inmuebles; adjudicaciones judiciales; dación en pago de inmuebles; escrituración en rebeldía; adjudicaciones por herencia; limitaciones de dominio; uso; consolidación de propiedad; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios, se causará el derecho a razón del 7.5 al millar sobre el valor del inmueble, de acuerdo a lo establecido en el artículo 97 de esta Ley.
-
-Por la inscripción del acto mediante el cual se adquiera el usufructo o la nuda propiedad, se causarán y pagarán derechos a razón del 3.75 al millar.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 91.
 
-Para los efectos correspondientes, se considera vivienda:
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-a) De interés social, aquella cuyo valor, al término de su edificación, no exceda del equivalente a 20 UMA elevado al año.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-b) Popular, aquella cuyo valor, al término de su edificación, no exceda del equivalente a 30 UMA elevado al año.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 92.
 
-Por la constitución de régimen de propiedad en condominio o unidad condominal, se causará el derecho a razón del 3.75 al millar sobre el valor del avalúo y por modificación se causará a razón de 37.5 UMA.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 93.
 
-Se pagará por concepto de derechos el equivalente a 7.5 UMA por la inscripción de testamento público abierto, cerrado u ológrafo; reconocimiento de herederos, nombramiento o discernimiento y aceptación del cargo de albacea.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 94.
 
-Se causará el derecho a razón de 15 UMA por la inscripción de:
-
-I. Anotación o inscripción ordenada por autoridad judicial o administrativa, resolución judicial, convenio judicial, autorización para venta de bienes, diligencia de apeo y deslinde;
-
-II. Adquisición o transmisión de derechos posesorios;
-
-III. Acta de asamblea de condóminos;
-
-IV. Contrato de arrendamiento de bienes;
-
-V. Servidumbres;
-
-VI. Constitución de garantías reales sobre muebles;
-
-VII. Constitución, disolución o liquidación de sociedades, cooperativas y asociaciones;
-
-VIII. Capitulaciones matrimoniales y su modificación, constitución o disolución de sociedad conyugal, comunidad de bienes y de patrimonio familiar;
-
-IX. Convenio modificatorio que no implique novación de contrato;
-
-X. Cumplimiento de condición;
-
-XI. Ratificación de gestión de negocios;
-
-XII. Rectificación de documento;
-
-XIII. Sustitución de deudor o acreedor;
-
-XIV. Prórroga de gravamen;
-
-XV. Protocolización de acuerdos;
-
-XVI. Constitución de habitación; y
-
-XVII. Protocolización de plano y deslinde catastral de predios con superficie no mayor a 5,000 metros cuadrados. Tratándose de predios con una superficie mayor, se estará a lo dispuesto en el artículo 105, fracción III, de la presente Ley.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 95.
 
-Por avisos preventivos se pagarán 3.75 UMA y por avisos definitivos se pagará 1.25 UMA.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 96.
 
-Por la inscripción de actas de asambleas o administrativas que no impliquen aumento de capital, modificación de sociedades o asociaciones sin aumento de capital, otorgamiento, sustitución, suspensión o revocación de poderes generales o especiales, quiebras, concurso, suspensión de pagos, protocolización de estatutos, resolución administrativa, liquidación de sociedad mercantil, se pagará la cantidad de 15 UMA.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 97.
 
-Por la inscripción de cualquiera de los actos o contratos precisados en los artículos que anteceden, se pagará el derecho conforme al valor mayor que resulte entre el de la operación consignada o el avalúo comercial que se practique; si no se hubiere practicado el avalúo en razón a la naturaleza del acto, servirá de base para el pago el valor catastral, tratándose de inmuebles.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 98.
 
-Se pagará por concepto de derechos el equivalente a 3.75 UMA, por la inscripción de:
-
-I. Cancelación de:
-
-a) Aviso definitivo o preventivo.
-
-b) Embargo.
-
-c) Fideicomiso, fideicomiso de garantía o traslativo de dominio o de administración.
-
-d) Suspensión de pagos.
-
-e) Contrato de Hipoteca.
-
-f) Arrendamiento financiero.
-
-g) Constitución de crédito agrícola.
-
-h) De inscripción de convenio modificatorio que implique la ampliación de garantía o novación.
-
-i) De reserva de dominio de bienes inmuebles;
-
-II. Contratos de comodato y otros de naturaleza mercantil no especificados en otras disposiciones de la presente ley;
-
-III. Radicación de juicio sucesorio ante notario, informe de testamento, ratificación de firmas, registro de firma y sello de corredor público, registro de título de corredor público, emisión de certificados digitales;
-
-IV. Modificación de fideicomiso con garantía;
-
-V. Anotación marginal que no modifique el derecho;
-
-VI. Cualquier acto, contrato o documento cuyo valor no pueda ser determinado;
-
-VII. Adjudicación que se realice a favor de los beneficiarios, respecto de bienes inmuebles considerados para efectos de esta Ley como vivienda de interés social, cuya transmisión haya sido dispuesta mediante testamento, en términos del artículo 1477 del Código Civil del Estado de Querétaro; y
-
-VIII. Cancelación de convenio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 99.
 
-Por la inscripción de fianzas, obligaciones solidarias, compraventa con reserva de dominio de bienes muebles, constitución de garantías reales sobre inmuebles, compraventa de bienes muebles, convenios que impliquen ampliación del crédito, ampliación de garantía, disolución de copropiedad o actos o contratos relativos a la disolución de la subdivisión del régimen de copropiedad, se cobrará por concepto de derechos el 3.125 al millar sobre el importe de operación.
-
-En el caso de ampliación de garantía, los derechos se calcularán sobre el valor que se le asigne a los bienes que servirán de garantía y, en caso de que no se establezca, sobre el total de la cantidad que se está garantizando.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-En la inscripción de actos o contratos relativos a la subdivisión o disolución de copropiedad, los derechos señalados en el párrafo primero, se causarán únicamente en aquellos casos en los que exista transmisión de derechos de propiedad. De no existir dicha transmisión o demasía, se cobrará por concepto de derechos 15 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 100.
 
-Se pagará por concepto de derechos el 3.125 al millar sobre el importe de la operación o valor, por la inscripción o cancelación de:
-
-I. Arrendamiento financiero;
-
-II. Constitución de créditos agrícolas; y
-
-III. Exclusivamente para la inscripción los fideicomisos de garantía.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 101.
 
-Por derechos relativos a donaciones se cubrirá el 10 al millar sobre su importe.
-
-Para el cálculo de los derechos a que se refiere este artículo, se considerará que el usufructo y la nuda propiedad, tienen cada uno de ellos, el 50% del valor del bien.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 102.
 
-Por inscripción de resoluciones judiciales relativas a informaciones ad perpetuam o prescripciones adquisitivas, se cobrará el 12.5 al millar sobre el valor del bien.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 103.
 
-Por toda clase de actos, contratos o convenios mediante los cuales se subdividan o se fusionen predios, se cobrarán 10 UMA.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 104.
 
-Por todos los actos, contratos o convenios semejantes a los enunciados en el artículo anterior, relativos a predios de tipo popular urbano, se cobrará por concepto de derechos en el registro 6.25 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 105.
 
-Se causarán y pagarán 50 UMA por la inscripción de:
-
-I. Aumento de capital de sociedades mercantiles;
-
-II. Autorización de fraccionamiento, nomenclatura de calles, protocolización de planos, protocolización de licencia de ejecución de obras, lotificación, relotificación, protocolización de autorización para venta de lotes y acta de entrega-recepción; y
-
-III. Protocolización de deslinde catastral de predio con superficie mayor a 5,000 metros cuadrados.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 106.
 
-Las inscripciones, anotaciones, cancelaciones, expediciones de certificados o certificaciones y demás servicios que preste el Registro Público de la Propiedad y del Comercio, en materia de crédito agrícola y ejidal, causarán y pagarán los derechos de conformidad con las leyes respectivas y en los casos no previstos se aplicarán las cuotas señaladas en este Capítulo.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 107.
 
-Por la expedición de certificados, copias certificadas y búsqueda de antecedentes, se causarán y pagarán los siguientes derechos:
-
-CONCEPTO UMA
-
-Expedición de certificados de gravamen y
-
-de libertad de gravamen por 20 años. 8.75
-
-Expedición de certificados de gravamen y
-
-de libertad de gravamen de más de 20 años. 12.5
-
-Expedición de certificados de inscripción y
-
-de no inscripción. 8.75
-
-Certificado de propiedad, de no propiedad y
-
-de única propiedad. 5
-
-Certificado de historial registral de hasta 10 años. 15
-
-Certificado de historial registral de más de 10 y
-
-hasta 20 años. 20
-
-Certificado de historial registral de más de
-
-20 años. 25
-
-Expedición de copias certificadas, por cada
-
-5 hojas. 2.5
-
-Trascripción de documento por cada 15 hojas o
-
-fracción de tal número. 7.5
-
-Búsqueda de antecedentes sin expedición
-
-de certificados por inmueble, hasta por diez años.
-
-Cuando la búsqueda exceda del plazo a que 2.5
-
-se refiere el párrafo anterior, se cobrará 1
-
-UMA, por cada periodo de diez años de
-
-búsqueda adicional o fracción.
-
-Las solicitudes emitidas por autoridades judiciales no causarán derechos, siempre y cuando su atención no implique la expedición de certificados, copias certificadas o la realización de algún acto de inscripción.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 108.
 
-Por el servicio de consulta remota al sistema de información del Registro Público de la Propiedad y del Comercio, entendiéndose por tal servicio, el que se presta a los usuarios mediante el acceso para consulta de una base de datos a través de un enlace de comunicaciones entre equipos de cómputo, se causarán 37.5 UMA por un año de servicio, cuando dicha cuota se entere en su totalidad durante el primer mes del ejercicio de que se trate, en caso contrario se causarán y pagarán 3.75 UMA por cada mes de servicio.
-
-Los usuarios que utilicen el equipo de cómputo que ponga a disposición del público en general el Registro Público de la Propiedad y el Comercio, para consultar los antecedentes registrales que obran en dicho Registro, no estarán obligados al pago de los derechos a que se refiere este artículo.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 109.
 
-Cuando un mismo título o documento origine dos o más inscripciones, los derechos se causarán por cada una de ellas, calculándose separadamente.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
-
-Tratándose de instituciones de crédito, de auxiliares de crédito, sociedades financieras de objeto limitado, de seguros, de fianzas y del Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT) e Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) cuando actúen como instituciones de crédito; las inscripciones que deban hacerse causarán los mismos derechos; pero su conjunto no podrá exceder del 3.125 al millar sobre el importe de la operación.
-
-Lo dispuesto en el primer párrafo de este artículo no será aplicable tratándose de la inscripción de convenios modificatorios de contratos de crédito con garantía hipotecaria otorgados en favor de los desarrolladores inmobiliarios para la construcción de fraccionamientos o condominios, cuando éstos no impliquen la novación del contrato, ni la constitución de nuevas garantías o ampliación de las otorgadas en el contrato de crédito originario, así como en la cancelación de los citados contratos, que deban registrarse en más de un folio, siempre que el contrato del cual deriven se haya registrado originalmente en un solo folio, caso en el cual se cobrará lo correspondiente a una sola inscripción.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 110.
 
-Cuando los derechos indicados en este Capítulo se establezcan al millar y la cantidad que resulte a pagar sea inferior a 3.75 UMA, se cobrará esta última cantidad.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2018)</small>
 
 ### Capítulo Quinto. Por los servicios prestados por Autoridades del Trabajo y Previsión Social
 
 ###### Artículo 111.
 
-Son objeto de este derecho los servicios prestados por el Archivo General de Notarías.
-
-Sujeto
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 112.
 
-Son sujetos los contribuyentes solicitantes de los servicios prestados por el Archivo General de Notarías.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-Tasa
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 113.
 
-Por los servicios prestados por el Archivo General de Notarías, se causarán y pagarán derechos, de conformidad con las siguientes cuotas:
-
-CONCEPTO NÚMERO DE HOJAS UMA
-
-Expedición De 3 a 5 hojas 10
-
-de testimonio
-
-Expedición De 6 a 9 hojas 15
-
-de testimonio
-
-Expedición De 10 a 15 hojas 20
-
-de testimonio
-
-Expedición De 16 hojas en adelante 22.5
-
-de testimonio
-
-Avisos e informes de testamento, búsqueda de
-
-documentos, copias certificadas, por cada diez hojas. 3.75
-
-Certificación de escrituras y/o de constancias de apéndice. 3.75
-
-Autorización de cada folio. 0.0625
-
-Revisión de exactitud de la razón de cierre de tomo,
-
-por cada ocasión y tomo. 3.75
-
-Inscripción en el libro de Registro de Notarías. 10
-
-Expedición de copias simples, por cada diez hojas. 1.25
-
-Aviso de testamento sobre la vivienda de interés
-
-social o popular 0
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 114.
 
-Por el servicio de guarda y custodia de testamento público cerrado, se causará y pagará una cuota única de 10 UMA.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ### Capítulo Sexto. Por los servicios prestados por las Autoridades de Educación
 
@@ -3995,7 +3763,9 @@ Tratándose de solicitudes que requieran la expedición de copias certificadas, 
 
 Por los servicios de suscripción al Padrón de Proveedores de la Administración Pública Estatal, prestados por la Oficialía Mayor, se causarán y pagarán 5 UMA, tratándose de personas físicas y 12.5 UMA, en el caso de personas morales.
 
-### Capítulo Único
+### Capítulo Décimo Octavo. Por la Prestación de Servicios Públicos Exclusivos del Estado
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 168.
 
@@ -4589,17 +4359,23 @@ Cuando la información objeto de la petición se encuentre en sistemas informát
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
-### Capítulo Primero. De los Aprovechamientos
+### Capítulo Único
 
 ###### Artículo 172 Ter.
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
-### Capítulo Segundo. De las Contribuciones Especiales
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE OCTUBRE DE 2018)</small>
+
+### Capítulo Primero. De los Aprovechamientos
+
+###### Artículo 172 Quáter.
+
+Los organismos públicos descentralizados que, en cumplimiento al objeto para el que fueron creados, presten servicios públicos exclusivos del Estado, estarán obligados a pagar una contribución al Estado, la cual se determinará de conformidad con las bases que al efecto establezca, para cada caso, la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado.
 
 ## Título Quinto. De los Productos
 
-### Capítulo Único
+### Capítulo Segundo. De las Contribuciones Especiales
 
 ###### Artículo 173.
 
@@ -4682,6 +4458,8 @@ Son contribuciones especiales, las aportaciones de mejoras constituidas por los 
 Las aportaciones de mejoras deberán determinarse de la misma forma en que se calcula el impuesto por obras de utilidad pública urbana previsto en el Código Urbano para el Estado de Querétaro.
 
 ## Título Séptimo. De las Participaciones Federales
+
+### Capítulo Único
 
 ###### Artículo 181.
 
@@ -5299,41 +5077,13 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 Artículo Tercero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2018, serán las siguientes:
 
-l. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+l. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 
-a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+II. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 
-b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+III. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 
-c) La expedición de certificados de no propiedad;
-
-II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
-
-a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
-
-b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
-
-c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
-
-Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
-
-III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
-
-a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
-
-b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
-
-c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
-
-IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
-
-a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
-
-b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
-
-c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
-
-d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+IV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 
 V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
 
@@ -5355,7 +5105,7 @@ Para efectos de esta fracción, se consideran créditos de cobro incosteable, aq
 
 Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular, previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2013 y anteriores;
 
-IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial;
+IX. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 
 X. De los recursos que se obtengan por los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.50 UMA, por cada pago que se realice por dicho concepto, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
 
@@ -5392,3 +5142,13 @@ XVII. Las obligaciones formales y sustantivas de los contribuyentes del Impuesto
 XVIII. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
 
 Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DEL (SIC) LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Los artículos de instrucción Segundo al Décimo de la presente Ley, entrarán en vigor a partir del uno de enero de dos mil diecinueve.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
