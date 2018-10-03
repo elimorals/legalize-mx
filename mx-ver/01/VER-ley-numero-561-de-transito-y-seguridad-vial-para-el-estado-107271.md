@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-561-de-transito-y-seguridad-vial-para-el-estado-1072
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-13"
-last_updated: "2018-09-28"
+last_updated: "2018-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "VER"
 
 LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 28 DE SEPTIEMBRE DE 2018 NO APLICA A LAS REFORMAS DEL DECRETO NÚMERO 701 PUBLICADO EN LA G.O. DE 11 DE SEPTIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
@@ -1751,17 +1749,17 @@ Las autoridades municipales que presten el servicio público de tránsito y segu
 
 Cuando se cometa una infracción y la Dirección conozca del hecho en flagrancia, los elementos de la policía vial podrán recoger la licencia o permiso para conducir, la tarjeta de circulación del vehículo, o en su caso la autoridad de seguridad vial determinará el retiro del vehículo de la vía pública, en términos de lo dispuesto por esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 159.
 
-Cuando un vehículo sea retirado de la vía pública, el conductor o propietario estará obligado a cubrir el costo de la maniobra y arrastre realizado por la grúa oficial, autorizada, permisionada o concesionada, así como el monto de la pensión que se genere en el depósito vehicular por el resguardo del vehículo, de conformidad con las tarifas autorizadas por la Secretaría.
+Cuando un vehículo sea retirado de la vía pública, el conductor o propietario estará obligado a cubrir el costo de la maniobra y arrastre realizado por la grúa oficial, autorizada, permisionada o concesionada, así como el monto de la pensión que se genere en el depósito vehicular por el resguardo del vehículo, de conformidad con las tarifas autorizadas por la Secretaría, que no deben exceder de las establecidas por el Código de Derechos vigente en el Estado por la prestación oficial de estos servicios.
 
 > <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 Se exceptúan de lo anterior, aquellos conductores que no resulten responsables por la comisión de alguna infracción a esta Ley o su Reglamento, y no realicen una acción u omisión que dé o pueda dar lugar a la tipificación de un delito.
 
-> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
-
-El costo de la maniobra y del arrastre del vehículo que sea retirado de la vía pública nunca será mayor al costo de la multa impuesta.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 3 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 160.
 
@@ -1920,5 +1918,15 @@ G.O. 11 DE SEPTIEMBRE DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. El reglamento de esta Ley deberá ser adecuado en el término de noventa días naturales a partir de la vigencia del presente Decreto.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 709 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y DEROGA EL TERCERO DEL ARTÍCULO 159 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
+
+Segundo. El Ejecutivo publicará en la Gaceta Oficial, órgano del Gobierno del Estado, en un plazo no mayor a 60 días hábiles las tarifas autorizadas y desagregadas por la prestación de cada uno de los servicios auxiliares de seguridad vial que se cobrarán en forma oficial, por el permisionario o concesionario con el fin de transparentar esta actividad en beneficio de los usuarios.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
