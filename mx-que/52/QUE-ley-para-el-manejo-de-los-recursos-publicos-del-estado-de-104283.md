@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2018-07-07"
+last_updated: "2018-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -875,17 +875,11 @@ Cuando los Sujetos de la presente Ley no proporcionen la información a la que s
 
 ###### Artículo 66.
 
-La propaganda, bajo cualquier modalidad de comunicación social que difundan los sujetos de la Ley, se sujetará a lo siguiente:
-
-I. Deberá tener carácter institucional y fines informativos, educativos o de orientación social;
-
-II. En ningún caso incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público; y
-
-III. Deberá contener un anuncio, en lugar visible y ocupando al menos una quinta parte en proporción al área o espacio en el que se anuncie la leyenda: “Esta (obra, programa o acción) es de carácter público; no es patrocinado ni promovido por partido político alguno y sus recursos provienen de los ingresos que aportan todos los contribuyentes. Está prohibido el uso de esta (obra, programa o acción) con fines políticos, electorales, de lucro y otros distintos a los establecidos. Quien haga uso indebido de los recursos de esta (obra, programa o acción), deberá ser denunciado y sancionado de acuerdo con la ley aplicable y ante la autoridad competente”.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 67.
 
-Para efectos de lo que dispone el artículo anterior, el informe anual de labores o gestión de los sujetos de la Ley, así como la publicidad que para darlos a conocer se difundan, no serán considerados como propaganda, siempre que la misma se limite una vez al año en la entidad y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de éstos podrá tener fines electorales ni realizarse desde el inicio de las campañas electorales y hasta la conclusión del día en que se celebren las elecciones.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 68.
 
@@ -1005,11 +999,25 @@ Los sujetos de la Ley, publicarán trimestralmente en sus respectivas páginas d
 
 La publicación se realizará dentro de los 30 días naturales siguientes al cierre del periodo, de conformidad con las disposiciones generales que al efecto se establezcan.
 
-### Capítulo Único
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2018)</small>
+
+### Capítulo Cuarto. Del Gasto en Comunicación Social
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 81 Bis.
+
+Para el ejercicio del gasto en comunicación social, se estará a lo dispuesto en la presente Ley, la Ley General de Comunicación Social, los respectivos presupuestos de egresos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 81 Ter.
+
+La propaganda, bajo cualquier modalidad de comunicación social que difundan los sujetos de la Ley, así como los informes anuales de labores o de gestión que dichos sujetos realicen, estarán a lo previsto en las disposiciones constitucionales y legales que en la materia resulten aplicables.
 
 ## Título Sexto. De los recursos para la transición
 
-### Capítulo Primero. De la contabilidad gubernamental
+### Capítulo Único
 
 ###### Artículo 82.
 
@@ -1077,9 +1085,7 @@ El ejercicio de los recursos de la partida de gastos de transición se sujetará
 
 ## Título Séptimo. De la contabilidad gubernamental y la cuenta pública
 
-### Capítulo Segundo. De la cuenta pública
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+### Capítulo Primero. De la contabilidad gubernamental
 
 ###### Artículo 88.
 
@@ -1109,9 +1115,9 @@ Asimismo, la Secretaría podrá establecer los mecanismos de coordinación con l
 
 Las dependencias y entidades del Poder Ejecutivo del Estado, suministrarán a la Secretaría la información presupuestal, contable y financiera, con la periodicidad que ésta determine.
 
-### Capítulo Único. Disposiciones generales
+### Capítulo Segundo. De la cuenta pública
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 94.
 
@@ -1121,7 +1127,9 @@ Para la fiscalización se estará a lo dispuesto en la Ley de Fiscalización Sup
 
 ## Título Octavo. De la evaluación
 
-### Capítulo Único
+### Capítulo Único. Disposiciones generales
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 95.
 
@@ -1157,9 +1165,7 @@ La difusión de los resultados de las evaluaciones, se ajustará a lo dispuesto 
 
 ## Título Noveno. De las responsabilidades
 
-### Capítulo Primero. De la Disciplina Financiera
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+### Capítulo Único
 
 ###### Artículo 100.
 
@@ -1187,9 +1193,9 @@ Las responsabilidades a que se refiere esta Ley, se exigirán con independencia 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-### Capítulo Segundo. Del Sistema de Alertas
+### Capítulo Primero. De la Disciplina Financiera
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 104.
 
@@ -1222,6 +1228,10 @@ II. Las acciones necesarias que se llevarán a cabo para revertir el balance pre
 En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en las Leyes de Ingresos del Estado y/o de los municipios, se estará a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo Segundo. Del Sistema de Alertas
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 108.
 
@@ -1830,3 +1840,11 @@ Artículo Primero. La presente Ley entrará en vigor el día de su publicación 
 Artículo Segundo. Lo previsto en el párrafo tercero, del artículo 75, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, vigente a partir del 10 de mayo de 2018, no será aplicable respecto de las autorizaciones de ayudas sociales emitidas durante el periodo comprendido entre la fecha antes mencionada y aquella en que se publique la presente Ley. El trámite de autorización y otorgamiento de las ayudas sociales a que se refiere el presente artículo, estarán a lo dispuesto por el artículo 55 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en la presente Ley.
+
+P.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, EN MATERIA DE COMUNICACIÓN SOCIAL".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", con excepción de sus disposiciones en materia de comunicación social, cuyo inicio de vigencia se sujetará a lo dispuesto en los Artículos Transitorios del Decreto por el que se expide la Ley General de Comunicación Social.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en la presente Ley.
