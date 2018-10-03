@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2018-08-24"
+last_updated: "2018-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -3661,7 +3661,7 @@ Al que a sabiendas adquiera indebidamente o haga figurar como suyos, bienes que 
 
 ### CAPITULO V. EVASION DE PRESOS
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 314.
 
@@ -3911,15 +3911,17 @@ Son aplicables para este delito, en lo conducente, los artículos 197, 198, 199 
 
 ###### ARTICULO 336.
 
-Al que indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquella, se le impondrá prisión de dos a ocho años. Si los evadidos fueren dos o más, se duplicará la sanción.
+Al que indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquélla, se le impondrá prisión de cinco a doce años. Si los evadidos fueren dos o más, se duplicará la sanción.
 
 ###### ARTICULO 337.
 
 A los ascendientes, descendientes, adoptante, adoptado, cónyuge, concubina, concubinario, hermanos o parientes por afinidad hasta el segundo grado, del evadido cuya fuga propicien, se les aplicará hasta la mitad de la pena prevista en el artículo anterior, si no hiciere uso de violencia. En caso contrario, se les impondrá íntegra dicha sanción.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 338.
 
-Si la reaprehensión del evadido se lograre por gestiones del responsable de la evasión, la pena será de tres meses a un año de prisión o de diez a noventa días multa.
+Si la reaprehensión del evadido se lograre por gestiones del responsable de la evasión, la pena será de uno a tres años de prisión o de diez a noventa días multa.
 
 ###### ARTICULO 339.
 
@@ -4678,3 +4680,9 @@ P.O. 24 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 822 DEL H. CONGRESO DEL ESTADO.- SE ADICIONAN LOS ARTÍCULOS 300 BIS, Y UN CAPÍTULO X DENOMINADO «OCUPACIÓN IRREGULAR DE ÁREAS Y PREDIOS» DENTRO DEL TÍTULO TERCERO DE LA SECCIÓN CUARTA DEL LIBRO SEGUNDO, CON EL ARTÍCULO 325 BIS AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 843 QUE REFORMA LOS ARTÍCULOS 336 Y 338 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
