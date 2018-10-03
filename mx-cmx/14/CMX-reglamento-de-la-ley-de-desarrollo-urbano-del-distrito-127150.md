@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-127150"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-03-15"
-last_updated: "2018-03-15"
+last_updated: "2018-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127150&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-03-05"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 15 de marzo de 2018.
 
@@ -354,19 +354,21 @@ La formulación y aprobación de las Áreas de Gestión Estratégica se sujetar�
 
 Los interesados podrán solicitar a la Secretaría reformas a los Programas para cambiar el uso del suelo urbano en predios particulares, para destinarlos al comercio, servicios de bajo impacto urbano o a la micro o pequeña industria, a que se refiere el artículo 42 Quinquies de la Ley, cumpliendo con los requisitos establecidos en la normatividad aplicable.
 
-Para ello, deberán presentar ante la Secretaría un estudio técnico urbano debidamente suscrito y avalado por un Perito en Desarrollo Urbano, el cual deberá contener:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 3 DE OCTUBRE DE 2018)</small>
 
-a) Análisis de la normatividad vigente aplicable en el predio o predios involucrados, incluyendo la justificación del anteproyecto en el entorno urbano, con la propuesta de aplicación del Sistema;
+Para ello, los interesados deberán presentar ante la Secretaría una justificación del uso de suelo solicitado y de ser el caso, opinión técnica de Patrimonio Cultural Urbano en inmuebles afectos al Patrimonio, de conformidad con lo previsto en los Programas de Desarrollo Urbano, para los inmuebles catalogados como tal.
 
-b) Memoria descriptiva del anteproyecto que contemple el cuadro de áreas por nivel, señalando los usos de suelo y su conformación, con la propuesta de cambio de uso del suelo; en caso de incluir en el anteproyecto construcciones existentes, estas se deberán especificar claramente en la memoria técnica y en los planos, y restar de la intensidad máxima permitida por la zonificación actual;
+a) (DEROGADO, G.O. 3 DE OCTUBRE DE 2018)
 
-c) Anteproyecto a nivel esquemático, plantas y cortes, a escala 1:50, 1:75, 1:100 o 1:200, utilizando la que más se ajuste a las dimensiones del proyecto, incluyendo el cuadro de áreas, señalando la escala, escala gráfica, cotas y niveles;
+b) (DEROGADO, G.O. 3 DE OCTUBRE DE 2018)
 
-d) Reporte fotográfico, que incluya mínimo diez fotografías a color referenciadas del predio en un plano de ubicación, larguillo fotográfico a color de esquina a esquina de la acera donde se ubique el predio y la acera de enfrente, así como de las manzanas colindantes a escala legible, el cual deberá contener análisis de alturas de la zona con respecto al proyecto pretendido;
+c) (DEROGADO, G.O. 3 DE OCTUBRE DE 2018)
 
-e) Cinco imágenes del modelo tridimensional del anteproyecto a nivel volumétrico que incluya vistas de las colindancias donde se aprecien las alturas de los edificios existentes; y
+d) (DEROGADO, G.O. 3 DE OCTUBRE DE 2018)
 
-f) Copia del Carnet del Perito en Desarrollo Urbano, con la responsiva expresa con firma autógrafa que se refiera al trámite motivo de la solicitud.
+e) (DEROGADO, G.O. 3 DE OCTUBRE DE 2018)
+
+f) (DEROGADO, G.O. 3 DE OCTUBRE DE 2018)
 
 ###### Artículo 15.
 
@@ -384,7 +386,9 @@ V. En caso de ser positivo, la Dirección General de Desarrollo Urbano le notifi
 
 VI. La Secretaría con base en el avalúo mencionado, formulará y entregará al interesado el formato de pago de derechos por concepto de inscripción en el Registro de los Planes y Programas, conforme al Código Fiscal de la Ciudad de México, para que el interesado efectúe el pago ante la Tesorería de la Ciudad de México; efectuado el pago el interesado presentará el comprobante correspondiente a la Secretaría para continuar con el procedimiento. En caso de que el cambio de uso de suelo sea parcial, la Secretaría determinará el pago aplicable conforme a la proporción que corresponda;
 
-VII. La Dirección General de Desarrollo Urbano le notificará al interesado la Resolución Definitiva, quien tramitará, a su costa, su publicación por una sola vez en la Gaceta Oficial de la Ciudad de México;
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2018)</small>
+
+VII. La Secretaría solicitará la publicación de la Resolución definitiva por una sola vez en la Gaceta Oficial de la Ciudad de México.
 
 VIII. Publicada en la Gaceta Oficial de la Ciudad de México la Resolución Definitiva para el Cambio de Uso del Suelo, la Secretaría la inscribirá en el Registro de los Planes y Programas;
 
@@ -392,7 +396,9 @@ IX. Una vez inscrita la Resolución Definitiva para el Cambio de Uso del Suelo e
 
 X. Concluido el trámite la Secretaría lo notificará al Órgano Político Administrativo correspondiente, al interesado y al Registro Público de la Propiedad para que éste lleve a cabo la inscripción, previo pago de derechos correspondientes a cargo del interesado.
 
-El procedimiento al que se refiere este artículo no podrá aplicarse en ningún caso en predios que se ubiquen dentro de los polígonos de Programas Parciales de Desarrollo Urbano.
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+
+En los Programas Parciales de Desarrollo Urbano se establecerán los casos en que no podrá aplicarse el procedimiento a que se refiere este artículo.
 
 ### CAPÍTULO II. DEL REGISTRO DE LOS PLANES Y PROGRAMAS
 
@@ -414,7 +420,9 @@ III. Establecer los mecanismos y procesos necesarios que garanticen el resguardo
 
 IV. Recibir, clasificar, sistematizar y autorizar la información en materia registral;
 
-V. Expedir los Certificados de Zonificación Digital y los Certificados por Derechos Adquiridos, que resulten procedentes, de conformidad con la Ley y el presente Reglamento; en caso contrario emitirá la improcedencia de los mismos;
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2018)</small>
+
+V. Expedir los Certificados de Zonificación, los Certificados de Zonificación Digital y los Certificados por Derechos Adquiridos, que resulten procedentes, de conformidad con la Ley y el presente Reglamento; en caso contrario emitirá la improcedencia de los mismos;
 
 VI. Inscribir en libros:
 
@@ -2411,3 +2419,13 @@ SEXTO.- Hasta en tanto se instale el Consejo Consultivo a que se refiere el art�
 SÉPTIMO.- Las Comisiones de Regulación Especial que a solicitud de su presidente, no hayan remitido a la Comisión de Evaluación de Asentamientos Humanos Irregulares, la totalidad de los expedientes que hayan sido de su conocimiento, tanto los concluidos como los que sigan abiertos a la fecha de la solicitud, contarán con un término de 30 días naturales computable a partir de la entrada en vigor del presente Decreto, para hacerlo. La omisión de atender la solicitud señalada, será causa de responsabilidad administrativa. Las Comisiones de Evaluación de Asentamientos Irregulares competentes por territorio instaladas antes de la publicación del presente Decreto deberán sujetarse a lo establecido en este ordenamiento.
 
 Dado en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los cinco días del mes de marzo del año dos mil dieciocho.- EL JEFE DEL GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- EL SECRETARIO DE MOVILIDAD, CARLOS AUGUSTO MENESES FLORES.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜI RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
