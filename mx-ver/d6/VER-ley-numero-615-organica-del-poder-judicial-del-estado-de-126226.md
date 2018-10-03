@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-615-organica-del-poder-judicial-del-estado-de-126226
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-08"
-last_updated: "2018-02-08"
+last_updated: "2018-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 615 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 8 de febrero de 2018.
 
@@ -325,7 +325,9 @@ XXI. Nombrar, mediante votación secreta, a dos magistrados para que formen part
 
 XXII. Asignar el haber de retiro de los magistrados del Poder Judicial que así lo soliciten, el que surtirá sus efectos a partir del día siguiente a su cese de funciones.
 
-El haber de retiro será de hasta treinta por ciento de las percepciones que reciba un magistrado en activo sin incluir bonos, vales especiales o servicios personales, de acuerdo al dictamen de la comisión instructora;
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+
+El haber de retiro será de hasta treinta por ciento de las percepciones que reciba un magistrado en activo sin incluir bonos, vales especiales o servicios personales, de acuerdo al dictamen de la comisión instructora será otorgado únicamente durante un periodo idéntico al que fungió como Magistrado;
 
 XXIII. En materia de asuntos indígenas, resolver conforme a los principios de reserva de jurisdicción indígena, relaciones de coordinación, igualdad, no discriminación y suplencia de la deficiencia de la queja, de los casos que le sean sometidos, en términos de la ley respectiva; y
 
@@ -915,7 +917,9 @@ Los jueces municipales actuarán con un secretario y, en su caso, podrán habili
 
 Para ser juez municipal se requiere:
 
-I. Poseer, al día del nombramiento, título de licenciado en Derecho expedido por autoridad o institución legalmente facultada para ello. El Consejo de la Judicatura podrá dispensar este requisito siempre y cuando exista causa justificada; y
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2018)</small>
+
+I. Poseer, al día del nombramiento, título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada para ello; y
 
 II. No haber sido condenado por delito doloso que amerite pena de más de un año de prisión.
 
@@ -1476,6 +1480,10 @@ XXXVIII. Acordar el haber de retiro que a petición de parte soliciten los juece
 El haber de retiro para jueces será por el monto que comprenda el 25% de las percepciones de un juez titular en activo sin comprender las prestaciones asignadas para el ejercicio de su función.
 
 Podrá suspenderse en caso de que el servidor judicial realice labores remuneradas distintas a la docencia.
+
+> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+
+Será otorgado únicamente durante un periodo idéntico al que fungió como Juez.
 
 XXXIX. Determinar en los casos que sea necesario, la micro regionalización de competencias para los Juzgados de Primera Instancia.
 
@@ -2666,3 +2674,13 @@ Miguel Ángel Yunes Linares
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 714 QUE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 17 Y LA FRACCIÓN I DEL ARTÍCULO 59; Y LA FRACCIÓN XXXVIII DEL ARTÍCULO 103 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
