@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-deuda-publica-del-estado-de-queretaro-67960"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2018-07-07"
+last_updated: "2018-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -37,7 +37,7 @@ LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE L
 
 CONSIDERANDO
 
-.
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -419,7 +419,7 @@ P.O. 1 DE FEBRERO DE 2013.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
-Artículo Segundo. Se derogan todas las disposiciones legales igual (sic) o menor jerarquía que se opongan a la presente Ley.
+Artículo Segundo. Se derogan todas las disposiciones legales (sic) igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Dentro de los 30 días naturales siguientes al inicio de vigencia de la presente Ley, el Poder Ejecutivo del Estado, en coordinación con los Municipios respectivos, realizarán los actos conducentes a efecto de actualizar los datos del Registro previsto en la Ley de Deuda Pública del Estado de Querétaro. La información que contendrá el mencionado registro público deberá incluir todas las operaciones vigentes que conforme al concepto reformado de deuda pública sean considerados como tales independientemente de si en su origen se les dio tal carácter o no. Asimismo, la información deberá contener todas las enajenaciones, gravámenes y afectaciones vigentes de ingresos o derechos que hayan otorgado el Estado y los municipios en cualesquier operación financiera o de deuda pública.
 
@@ -457,41 +457,13 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 Artículo Tercero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2018, serán las siguientes:
 
-I. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+l. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 
-a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+II. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 
-b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+III. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 
-c) La expedición de certificados de no propiedad;
-
-II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
-
-a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
-
-b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
-
-c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
-
-Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
-
-III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
-
-a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
-
-b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
-
-c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
-
-IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
-
-a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
-
-b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
-
-c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
-
-d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+IV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 
 V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
 
@@ -513,7 +485,7 @@ Para efectos de esta fracción, se consideran créditos de cobro incosteable, aq
 
 Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular, previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2013 y anteriores;
 
-IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial;
+IX. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 
 X. De los recursos que se obtengan por los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.50 UMA, por cada pago que se realice por dicho concepto, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
 
@@ -560,6 +532,16 @@ Artículo Primero. La presente Ley entrará en vigor el día de su publicación 
 Artículo Segundo. Lo previsto en el párrafo tercero, del artículo 75, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, vigente a partir del 10 de mayo de 2018, no será aplicable respecto de las autorizaciones de ayudas sociales emitidas durante el periodo comprendido entre la fecha antes mencionada y aquella en que se publique la presente Ley. El trámite de autorización y otorgamiento de las ayudas sociales a que se refiere el presente artículo, estarán a lo dispuesto por el artículo 55 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en la presente Ley.
+
+P.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DEL (SIC) LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Los artículos de instrucción Segundo al Décimo de la presente Ley, entrarán en vigor a partir del uno de enero de dos mil diecinueve.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
 
 ### Capítulo Sexto. De la Transparencia
 
