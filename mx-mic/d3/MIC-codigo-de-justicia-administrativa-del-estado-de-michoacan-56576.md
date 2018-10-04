@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2018-08-14"
+last_updated: "2018-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -188,6 +188,10 @@ XXX. Informe de Presunta Responsabilidad Administrativa: El instrumento en el qu
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
 XXXI. Interlocutoria: La resolución que se dicta dentro del procedimiento o proceso administrativo para resolver algún incidente;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+XXXI Bis. Jueces Administrativos: Los titulares de los juzgados establecidos en regiones dentro del Estado de Michoacán;
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -1309,13 +1313,11 @@ En contra de la resolución que resuelva el recurso de revisión interpuesto, pr
 
 El Tribunal es un órgano autónomo de control de legalidad, dotado de plena jurisdicción e imperio para hacer cumplir sus resoluciones en el territorio del Estado. Tiene a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades administrativas y fiscales y los particulares. Tendrá su residencia en la capital del Estado, y por acuerdo del Pleno, podrá celebrar sesiones fuera de su residencia.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 144.
 
-El Tribunal estará integrado por cinco magistrados los cuales se numerarán y funcionarán unitariamente.
-
-Tres lo serán de la materia administrativa ordinaria; y, dos especializados en la materia de anticorrupción y responsabilidades administrativas. Para los recursos que la ley prevea se constituirán en Pleno.
+El Tribunal estará integrado por cinco magistrados los cuales se numerarán y funcionarán unitariamente. Tres lo serán de la materia administrativa ordinaria; y, dos especializados en la materia de anticorrupción y responsabilidades administrativas; así como por jueces administrativos que designe el Pleno.
 
 ###### Artículo 145.
 
@@ -1347,15 +1349,17 @@ Para el nombramiento de los magistrados, el Congreso expedirá convocatoria púb
 
 El Magistrado durará en su encargo cinco años y podrá ser reelecto hasta en dos ocasiones. Al término de su periodo cesará en sus funciones y quedará separado de su encargo. El Congreso, dentro de los noventa días naturales anteriores a la fecha en que concluya el primero y en su caso, el segundo de los periodos del Magistrado, determinará si debe o no ser reelecto mediante el voto de las dos terceras partes de los diputados presentes. De determinarse la no reelección se iniciará el procedimiento para el nombramiento del Magistrado que ha de ocupar el periodo. De no hacerse en tiempo y forma el nombramiento, se procederá a cubrir la falta de Magistrado en los términos de este Código.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 148.
 
-El Pleno del Tribunal podrá conceder licencias con goce de sueldo a los magistrados, cuando no excedan de un mes en un año y las que excedan de ese tiempo, solamente podrán concederse sin goce de sueldo hasta por seis meses improrrogables.
+El Pleno del Tribunal podrá conceder licencias con goce de sueldo a los magistrados o jueces administrativos, cuando no excedan de un mes en un año y las que excedan de ese tiempo, solamente podrán concederse sin goce de sueldo hasta por seis meses improrrogables.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 149.
 
-Las faltas temporales de los magistrados que no excedan de un mes, serán cubiertas por el Secretario General de Acuerdos.
+Las faltas temporales de los magistrados que no excedan de un mes, serán cubiertas por el Secretario General de Acuerdos; y las de los jueces administrativos, por un Secretario de Juzgado.
 
 ###### Artículo 150.
 
@@ -1375,11 +1379,11 @@ El Magistrado cuyo retiro forzoso haya sido acordado por el Congreso, tendrá de
 
 Cuando las faltas de los magistrados excedan del plazo señalado en este Código, se comunicarán de inmediato al Congreso, para que proceda a la designación del Magistrado que concluya el periodo.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 153.
 
-Los magistrados, el Secretario General de Acuerdos, los Secretarios de Estudio y Cuenta, el Secretario Administrativo, el titular de Contraloría, los actuarios y los defensores jurídicos, no podrán desempeñar cualquier otro empleo, cargo o comisión de la Federación, del Estado o municipio, salvo los cargos no remunerados de instrucción y beneficencia fuera de las horas de labores. También estarán impedidos para litigar, salvo en causa propia.
+Los magistrados, jueces administrativos, el Secretario General de Acuerdos, Primer Secretario, los Secretarios de Estudio y Cuenta, el Secretario Administrativo, el Contralor Interno, los actuarios y los defensores jurídicos, no podrán desempeñar cualquier otro empleo, cargo o comisión de la Federación, del Estado o municipio, salvo los cargos no remunerados de instrucción y beneficencia fuera de las horas de labores. También estarán impedidos para litigar, salvo en causa propia.
 
 ### Capítulo Segundo. Competencia
 
@@ -1461,7 +1465,7 @@ El Pleno se integrará por cinco magistrados los cuales no podrán abstenerse de
 
 Las sesiones de la Sala se celebrarán a convocatoria de su Presidente, debiendo efectuarse no menos de dos al mes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 159.
 
@@ -1471,9 +1475,9 @@ Son atribuciones del Pleno:
 
 I. Elegir a su Presidente, que será a su vez del Tribunal;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-II. Resolver el recurso de apelación que interpongan las partes en contra de las resoluciones dictadas por los magistrados especializados en materia de anticorrupción y responsabilidades administrativas;
+II. Resolver el recurso de apelación;
 
 III. Calificar las recusaciones y excusas por impedimento de los magistrados y, en su caso, integrar a ella, al Secretario General de Acuerdos;
 
@@ -1483,13 +1487,13 @@ V. Expedir el Reglamento Interior;
 
 VI. Aprobar el proyecto de presupuesto de egresos del Tribunal;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-VII. Designar al Secretario General de Acuerdos y los secretarios de acuerdos, a los Secretarios de Estudio y Cuenta, actuarios, al Secretario Administrativo y defensores jurídicos;
+VII. Designar al Secretario General de Acuerdos, a los jueces administrativos, secretarios de acuerdos, secretarios de Estudio y Cuenta, actuarios, al Secretario Administrativo y defensores jurídicos;
 
 VIII. Nombrar y remover al personal del Tribunal;
 
-IX. Conocer del recurso de aclaración interpuesto por el personal del Tribunal;
+IX. (DEROGADA, P.O. 4 DE OCTUBRE DE 2018)
 
 X. Resolver las excitativas de justicia que promuevan las partes;
 
@@ -1507,11 +1511,11 @@ XVI. Las demás que señalen las leyes.
 
 ### Capítulo Cuarto. Presidente
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 160.
 
-El Presidente será electo por el Pleno en la segunda semana de diciembre del año en que concluya el periodo del Presidente en funciones. Durará en su cargo un año y no podrá ser reelecto para el periodo inmediato.
+El Presidente será electo por el Pleno en la segunda semana de diciembre del año en que concluya el periodo del Presidente en funciones. Durará en su cargo dos años y no podrá ser reelecto para el periodo inmediato.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -1555,7 +1559,9 @@ IX. Rendir al Congreso informe anual de los ingresos propios del Tribunal;
 
 X. Expedir y revocar los nombramientos del personal del Tribunal, concederles licencias temporales y designar quien deba suplirlos, en los términos del reglamento interior;
 
-XI. (DEROGADA, P.O. 18 DE JULIO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE OCTUBRE DE 2018)</small>
+
+XI. Designar al Primer Secretario, que le auxilie en sus funciones;
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -1601,11 +1607,89 @@ VII. Proponer al pleno el nombramiento del personal a su cargo de entre los que 
 
 VIII. Las demás que señalen las leyes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+### Capítulo Quinto Bis. Jueces Administrativos
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Artículo 163 A. Los jueces administrativos son competentes para conocer y resolver los juicios de nulidad, lesividad, y trámite sobre notificación administrativa, que no sean de la competencia de los magistrados especializados, conforme a la competencia del Tribunal prevista por este Código.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Artículo 163 B. El Pleno establecerá el número de juzgados administrativos y sus circunscripciones, conforme a las necesidades, cargas de trabajo y disponibilidad presupuestaria.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Artículo 163 C. Son atribuciones de los jueces administrativos:
+
+I. Admitir, desechar o tener por no presentada la demanda, su ampliación, la contestación de demanda y su ampliación;
+
+II. Declararse incompetentes para conocer de los asuntos que sean ajenos de su competencia;
+
+III. Conceder o negar la suspensión del acto reclamado;
+
+IV. Admitir o rechazar la intervención de tercero;
+
+V. Cuando proceda, sobreseer los juicios antes de que se cierre la instrucción;
+
+VI. Admitir, desechar o tener por no ofrecidas las pruebas ofrecidas por las partes, e intervenir en su desahogo;
+
+VII. Dictar los proyectos de resolución que les competen;
+
+VIII. Dictar los acuerdos o providencias de trámite necesarios;
+
+IX. Allegarse de los elementos de prueba necesarios para mejor proveer;
+
+X. Imponer las medidas de apremio legales;
+
+XI. Solicitar el auxilio de cualquier autoridad administrativa o jurisdiccional para la práctica de diligencias fuera de la región del juzgado;
+
+XII. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delito;
+
+XIII. Rendir los informes justificados respecto de amparos interpuestos; y,
+
+XIV. Las demás que señale el Código, la Ley de Responsabilidades, los acuerdos de Pleno y demás disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Artículo 163 D. Para ser Juez Administrativo se requiere:
+
+I. Ser ciudadano mexicano en el ejercicio de sus derechos;
+
+II. Tener treinta años cumplidos al día de la designación;
+
+III. Tener el día de la designación, título profesional de licenciado en derecho expedido por la autoridad o institución legalmente facultada para ello, con antigüedad mínima de cinco años;
+
+IV. Haber sido Secretario General de Acuerdos, o Secretario de Estudio y Cuenta, o Secretario de Acuerdos, o Coordinador de Áreas, o Defensor del Tribunal de Justicia Administrativa del Estado, con antigüedad mínima de cinco años, en cualquiera de dichos cargos;
+
+V. Contar con experiencia en materia administrativa de al menos cinco años; y,
+
+VI. No haber sido sentenciado por delito doloso.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Artículo 163 E. Los Jueces Administrativos deberán someterse para su designación a concurso de oposición de conformidad con lo establecido en este Código y acuerdos específicos; durarán en su encargo cinco años, quienes podrán ser ratificados, previo dictamen de evaluación de su desempeño ético y profesional.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Artículo 163 F. Para la ratificación de jueces administrativos, se tomará en consideración lo siguiente:
+
+I. Los resultados de las visitas de supervisión;
+
+II. Los cursos de actualización y especialización acreditados de manera fehaciente, durante los últimos tres años;
+
+III. Las sanciones que en su caso se le hubieren impuesto: y,
+
+IV. Los demás que el Pleno estime pertinentes.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Artículo 163 G. El Primer Secretario asistirá al Magistrado Presidente durante su encargo, ejerciendo en su ausencia, las facultades jurisdiccionales previstas en este Código.
+
 ### Capítulo Sexto. Servidores Públicos del Tribunal
 
 > <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
-
-### Capítulo Séptimo. Defensores Jurídicos
 
 ###### Artículo 164.
 
@@ -1761,7 +1845,7 @@ VIII. Proveer lo conducente para el cumplimiento de las obligaciones del Tribuna
 
 IX. Las demás que señalen las leyes.
 
-### Capítulo Octavo. Servicio Civil de Carrera del Personal
+### Capítulo Séptimo. Defensores Jurídicos
 
 ###### Artículo 170.
 
@@ -1785,7 +1869,7 @@ V. Las demás que señalen las leyes.
 
 El servicio de defensoría jurídica será prestado gratuitamente a los particulares que carezcan de abogado particular y demuestren no estar en condiciones de retribuir sus servicios.
 
-### Capítulo Noveno. Relaciones Laborales
+### Capítulo Octavo. Servicio Civil de Carrera del Personal
 
 ###### Artículo 173.
 
@@ -1803,15 +1887,13 @@ En los concursos de oposición, el Presidente emitirá una convocatoria, que deb
 
 Para la organización, práctica y calificación de los exámenes de oposición, el Presidente nombrará a un jurado que se integrará por un Magistrado y hasta tres profesores de facultades o escuelas de la licenciatura en derecho que sean convocados para tal efecto por acuerdo del Pleno.
 
-### Capítulo Décimo. Ingresos del Tribunal
+### Capítulo Noveno. Relaciones Laborales
 
 ###### Artículo 176.
 
 Todo el personal que labore en el Tribunal, será considerado de confianza y se sujetará a lo dispuesto por la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y de sus Municipios.
 
-### Capítulo Décimo Primero. Responsabilidades
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+### Capítulo Décimo. Ingresos del Tribunal
 
 ###### Artículo 177.
 
@@ -1849,7 +1931,9 @@ Son ingresos en administración, los bienes que por cualquier causa están afect
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
 
-### Capítulo Décimo Segundo. Recurso de Aclaración
+### Capítulo Décimo Primero. Responsabilidades
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 181.
 
@@ -1885,7 +1969,7 @@ Las responsabilidades de los servidores públicos, estarán atentas a lo dispues
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2017)</small>
 
-### Capítulo Primero. Partes
+### Capítulo Décimo Segundo. Recurso de Aclaración
 
 ###### Artículo 189.
 
@@ -1895,7 +1979,7 @@ Las responsabilidades de los servidores públicos, estarán atentas a lo dispues
 
 # Libro Quinto. Juicio Administrativo y Procedimiento de Responsabilidad Administrativa
 
-### Capítulo Segundo. Disposiciones Generales
+### Capítulo Primero. Partes
 
 ###### Artículo 190.
 
@@ -1927,7 +2011,7 @@ La autoridad emisora de resoluciones administrativas favorables a particulares, 
 
 La representación de las autoridades podrá hacerse por medio de las unidades administrativas encargadas de su defensa jurídica, según lo dispongan las leyes orgánicas, el Reglamento o decreto respectivo.
 
-### Capítulo Tercero. Improcedencia y Sobreseimiento
+### Capítulo Segundo. Disposiciones Generales
 
 ###### Artículo 192.
 
@@ -1963,9 +2047,11 @@ Cuando tenga acreditada su personalidad ante la autoridad demandada, ésta le se
 
 La representación de las personas jurídicas se otorgará en instrumento público, y la de personas físicas podrá también ser otorgada por medio de carta poder firmada y ratificada la firma por el otorgante ante notario público o ante los secretarios de estudio y cuenta del Tribunal.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 197.
 
-En los casos que sean dos o más personas las que promuevan el juicio, en el escrito de demanda deberán designar un representante común que elegirán de entre ellos mismos, y si no lo hicieren, el Magistrado designará con tal carácter, al primero de los nombrados al admitir la demanda.
+En los casos que sean dos o más personas las que promuevan el juicio, en el escrito de demanda deberán designar un representante común que elegirán de entre ellos mismos, y si no lo hicieren, el Magistrado o Juez Administrativo designará con tal carácter, al primero de los nombrados al admitir la demanda.
 
 ###### Artículo 198.
 
@@ -1973,15 +2059,17 @@ Los particulares, las autoridades o los representantes de ambos, podrán autoriz
 
 Asimismo, las partes podrán designar autorizados para imponerse de los autos a cualquier persona con capacidad legal, quien no gozará de las facultades a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 199.
 
-Las diligencias que deban practicarse en el lugar de residencia del Tribunal, se encomendarán al Secretario General de Acuerdos, al Secretario de Estudio y Cuenta o Actuario y para aquéllas que deban practicarse fuera, se encomendará a dichos funcionarios, o bien, mediante exhorto al Juez del lugar donde deban practicarse, a juicio del Magistrado que esté conociendo del asunto.
+Las diligencias que deban practicarse en el lugar de residencia del Tribunal, se encomendarán al Secretario General de Acuerdos, al Secretario de Estudio y Cuenta o Actuario y para aquéllas que deban practicarse fuera, se encomendará a dichos funcionarios, o bien, mediante exhorto al Juez del lugar donde deban practicarse, a juicio del Magistrado o juez administrativo que esté conociendo del asunto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 200.
 
-Los magistrados y el Pleno del Tribunal, tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, podrán imponer, de acuerdo a la gravedad de la falta, las siguientes correcciones disciplinarias:
+Los magistrados, jueces administrativos y el Pleno del Tribunal, tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, podrán imponer, de acuerdo a la gravedad de la falta, las siguientes correcciones disciplinarias:
 
 I. Amonestación;
 
@@ -1999,9 +2087,11 @@ V. Suspensión hasta por quince días en los casos de autoridades; o,
 
 VI. Arresto hasta por treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 201.
 
-Si la falta constituyere un delito, el Magistrado o el Presidente, ordenará que se levante acta circunstanciada y se dé vista al Ministerio Público.
+Si la falta constituyere un delito, el Magistrado, los jueces administrativos o el Presidente, ordenará que se levante acta circunstanciada y se dé vista al Ministerio Público.
 
 ###### Artículo 202.
 
@@ -2025,7 +2115,7 @@ En caso de que persista el incumplimiento que dio origen al medio de apremio, el
 
 Las multas se harán efectivas por la Tesorería General, para lo cual el Presidente girará el oficio correspondiente. La Tesorería General informará al Tribunal cuando haya hecho efectiva la multa, señalando los datos que acrediten su cobro.
 
-### Capítulo Cuarto. Impedimentos, Excusas y Recusaciones
+### Capítulo Tercero. Improcedencia y Sobreseimiento
 
 ###### Artículo 205.
 
@@ -2071,11 +2161,13 @@ VI. La autoridad demandada haya satisfecho la pretensión del actor.
 
 Para dictar resolución en los casos de sobreseimiento, no será necesario que se hubiere celebrado audiencia.
 
-### Capítulo Quinto. Notificaciones y Términos
+### Capítulo Cuarto. Impedimentos, Excusas y Recusaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 208.
 
-Los magistrados del Tribunal estarán impedidos para conocer del juicio cuando:
+Los magistrados y jueces administrativos del Tribunal estarán impedidos para conocer del juicio cuando:
 
 I. Tengan interés personal en el negocio;
 
@@ -2095,29 +2187,31 @@ VI. Figuren como parte en juicio similar, ante el propio Tribunal; o,
 
 VII. Que estén en una situación análoga o más grave que las anteriores.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 209.
 
-Los magistrados, tienen el deber de excusarse del conocimiento de los negocios en que exista alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento. Manifestada por un Magistrado la causa de impedimento, el Pleno calificará la excusa y cuando proceda, designará quién deba sustituir al Magistrado impedido.
+Los magistrados y jueces administrativos, tienen el deber de excusarse del conocimiento de los negocios en que exista alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento. Manifestada la causa de impedimento, el Pleno calificará la excusa y cuando proceda, designará quién deba sustituir al Magistrado o Juez Administrativo impedido.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 210.
 
-Tratándose de excusas de peritos designados por las partes y manifestada la causa de impedimento por el perito, el Magistrado calificará la excusa y cuando proceda, autorizará su sustitución.
+Tratándose de excusas de peritos designados por las partes y manifestada la causa de impedimento por el perito, el Magistrado o Juez Administrativo calificará la excusa y cuando proceda, autorizará su sustitución.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 211.
 
-Las partes podrán recusar a los magistrados o a los peritos designados por éstos, cuando estando en alguno de los casos de impedimento a que se refiere este Código, no se hubieren excusado.
+Las partes podrán recusar a los magistrados, jueces administrativos o a los peritos designados por éstos, cuando estando en alguno de los casos de impedimento a que se refiere este Código, no se hubieren excusado.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 212.
 
-La recusación de magistrados se hará valer en cualquier tiempo, mediante escrito dirigido al Presidente y acompañando las pruebas que se ofrezcan. El Presidente, dentro de los tres días hábiles siguientes a la fecha en que se presentó la promoción, pedirá un informe al Magistrado recusado, quien deberá rendirlo en igual plazo; la falta de dicho informe establece la presunción de ser cierta la causa de recusación. La recusación será resuelta por el Pleno dentro del término de cinco días hábiles. Si se declara fundada la recusación, el Magistrado será sustituido en los términos de este Código. La recusación a perito se tramitará y resolverá por el Magistrado que lo designó, en los términos de este artículo.
+La recusación de magistrados y jueces administrativos se hará valer en cualquier tiempo, mediante escrito dirigido al Presidente y acompañando las pruebas que se ofrezcan. El Presidente, dentro de los tres días hábiles siguientes a la fecha en que se presentó la promoción, pedirá un informe al Magistrado o juez administrativo recusado, quien deberá rendirlo en igual plazo; la falta de dicho informe establece la presunción de ser cierta la causa de recusación. La recusación será resuelta por el Pleno dentro del término de cinco días hábiles. Si se declara fundada la recusación, el Magistrado o juez administrativo será sustituido en los términos que determine el Pleno. La recusación a perito se tramitará y resolverá por el Magistrado o juez administrativo que lo designó, en los términos de este artículo.
 
-### Capítulo Sexto. Demanda
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+### Capítulo Quinto. Notificaciones y Términos
 
 ###### Artículo 213.
 
@@ -2179,7 +2273,9 @@ V. Cuando los términos se fijen por mes o por año, se entenderá, en el primer
 
 En los casos en que no se especifiquen términos para actuaciones del Tribunal, éstos se entenderán de tres días hábiles.
 
-### Capítulo Séptimo. Suspensión
+### Capítulo Sexto. Demanda
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 223.
 
@@ -2209,9 +2305,11 @@ Si el interesado reside en el extranjero y no tiene representante, ni domicilio 
 
 La autoridad emisora del acto administrativo, dispondrá de un plazo de cinco años siguientes a la fecha en que sea emitida la resolución, para presentar la demanda de lesividad.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 229.
 
-Cuando se impugnen actos privativos de libertad decretados por autoridad administrativa la demanda podrá presentarse por cualquier persona, a nombre del actor, en forma oral o escrita, el Magistrado dictará las medidas necesarias para que, en su caso, el personal documente la demanda oral y que el actor la ratifique con posterioridad a su admisión.
+Cuando se impugnen actos privativos de libertad decretados por autoridad administrativa la demanda podrá presentarse por cualquier persona, a nombre del actor, en forma oral o escrita, el Juez Administrativo dictará las medidas necesarias para que, en su caso, el personal documente la demanda oral y que el actor la ratifique con posterioridad a su admisión.
 
 ###### Artículo 230.
 
@@ -2237,9 +2335,11 @@ IX. Las pruebas que ofrezca. Tratándose de prueba pericial o testimonial, se pr
 
 En el supuesto de que no se señale domicilio del demandante para recibir notificaciones, las mismas correrán por lista, que se fijará en sitio visible de la propia Sala.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 231.
 
-Cuando la demanda sea oscura, irregular o incompleta o se omitan los datos previstos en el artículo anterior, el Magistrado requerirá al actor para que en el término de tres días hábiles, la aclare, corrija o complemente, con el apercibimiento de que, de no hacerlo, se tendrá por no presentada o por no ofrecidas las pruebas, según corresponda.
+Cuando la demanda sea oscura, irregular o incompleta o se omitan los datos previstos en el artículo anterior, el Juez Administrativo requerirá al actor para que en el término de tres días hábiles, la aclare, corrija o complemente, con el apercibimiento de que, de no hacerlo, se tendrá por no presentada o por no ofrecidas las pruebas, según corresponda.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2011)</small>
 
@@ -2305,7 +2405,9 @@ El tercero interesado, dentro de los quince días hábiles siguientes a aquél e
 
 Deberá adjuntar a su escrito, el documento en que se acredite su personalidad cuando no gestione en nombre propio, las pruebas documentales que ofrezca y el pliego para peritos o testigos.
 
-### Capítulo Octavo. Contestación
+### Capítulo Séptimo. Suspensión
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 240.
 
@@ -2313,43 +2415,51 @@ La suspensión del acto impugnado podrá concederse de oficio, en el mismo auto 
 
 La suspensión tendrá por efecto mantener las cosas en el estado en que se encuentren, en tanto se pronuncia sentencia.
 
-Cuando la suspensión se pida en la demanda, si procede, deberá concederse por el Magistrado Instructor en la resolución que la admita, haciéndolo saber inmediatamente a la autoridad demandada para su cumplimiento sin demora. No se otorgará la suspensión si se causa perjuicio evidente al interés social, orden público, o a terceros, si se contravienen normas o se deja sin materia el juicio.
+Cuando la suspensión se pida en la demanda, si procede, deberá concederse por el Magistrado o Juez Administrativo, Instructor en la resolución que la admita, haciéndolo saber inmediatamente a la autoridad demandada para su cumplimiento sin demora. No se otorgará la suspensión si se causa perjuicio evidente al interés social, orden público, o a terceros, si se contravienen normas o se deja sin materia el juicio.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 241.
 
-Cuando se presuma la probable afectación al interés social, de terceros u orden público previo al otorgamiento o no de la suspensión, excepcionalmente el Magistrado Instructor podrá solicitar a la autoridad emisora del acto impugnado un informe y en tal caso, podrá conceder la suspensión provisional.
+Cuando se presuma la probable afectación al interés social, de terceros u orden público previo al otorgamiento o no de la suspensión, excepcionalmente el Magistrado o Juez Administrativo podrá solicitar a la autoridad emisora del acto impugnado un informe y en tal caso, podrá conceder la suspensión provisional.
 
-El Magistrado Instructor que haya concedido la suspensión, podrá dejarla sin efecto, cuando habiéndose concedido provisionalmente, se compruebe que con la misma se cause perjuicio al interés social o al orden público. Así como en los casos de contra garantía otorgada por el tercero que tenga un derecho incompatible con la pretensión del actor.
+El Magistrado o Juez Administrativo que haya concedido la suspensión, podrá dejarla sin efecto, cuando habiéndose concedido provisionalmente, se compruebe que con la misma se cause perjuicio al interés social o al orden público. Así como en los casos de contra garantía otorgada por el tercero que tenga un derecho incompatible con la pretensión del actor.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 242.
 
-La suspensión podrá concederse con efectos restitutorios únicamente cuando se trate de actos privativos de libertad decretados al particular por la autoridad, o bien cuando a juicio del Magistrado Instructor sea necesario otorgarle estos efectos, con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al propio particular. La suspensión a que se refiere este artículo procede de oficio.
+La suspensión podrá concederse con efectos restitutorios únicamente cuando se trate de actos privativos de libertad decretados al particular por la autoridad, o bien cuando a juicio del Magistrado o Juez Administrativo sea necesario otorgarle estos efectos, con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al propio particular. La suspensión a que se refiere este artículo procede de oficio.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 243.
 
-Cuando los actos materia de impugnación hubieren sido ejecutados a particulares y se afecte el ejercicio de su única actividad personal de subsistencia y entre tanto se pronuncia la resolución que corresponda, el Magistrado Instructor podrá dictar discrecionalmente las medidas que estime pertinentes para preservar el medio de subsistencia del actor.
+Cuando los actos materia de impugnación hubieren sido ejecutados a particulares y se afecte el ejercicio de su única actividad personal de subsistencia y entre tanto se pronuncia la resolución que corresponda, el Magistrado o Juez Administrativo podrá dictar discrecionalmente las medidas que estime pertinentes para preservar el medio de subsistencia del actor.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 244.
 
-La suspensión podrá ser revocada de oficio o a petición de parte por el Magistrado en cualquier momento del juicio, si existe un cambio de la situación jurídica bajo la cual se otorgó, oyéndose previamente a los interesados.
+La suspensión podrá ser revocada de oficio o a petición de parte por el Magistrado o Juez Administrativo en cualquier momento del juicio, si existe un cambio de la situación jurídica bajo la cual se otorgó, oyéndose previamente a los interesados.
 
 ###### Artículo 245.
 
 Tratándose de créditos fiscales, se concederá la suspensión si quien la solicita garantiza el interés fiscal ante la oficina correspondiente, en cualquiera de las formas previstas por el Código Fiscal del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 657, PUBLICADO EN EL P.O. DE 4 DE OCTUBRE DE 2018, SE ADVIERTE QUE EL ANTERIOR PÁRRAFO TERCERO AHORA ESTÁ DENTRO DEL ACTUAL SEGUNDO PÁRRAFO.]</small>
 
-El Magistrado podrá conceder discrecionalmente la suspensión, sin necesidad de que se garantice el importe del crédito, cuando el asunto planteado no rebase quinientas veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-El auto que dispense el otorgamiento de la garantía no será recurrible.
+El Magistrado o Juez Administrativo podrá conceder discrecionalmente la suspensión, sin necesidad de que se garantice el importe del crédito, cuando el asunto planteado no rebase quinientas veces el valor diario de la Unidad de Medida y Actualización. El auto que dispense el otorgamiento de la garantía no será recurrible.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 246.
 
 En los casos en que proceda la suspensión, pero pueda ocasionar daños y perjuicios a terceros, se concederá si el actor otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con aquella se causaren, si no obtiene sentencia favorable en el juicio.
 
-Para que surta efectos la suspensión, el actor deberá otorgar la garantía ante el Magistrado Instructor, en cualquiera de las formas previstas por la ley.
-
-Cuando con la suspensión puedan afectarse derechos no estimables en dinero, el Magistrado que conozca del asunto fijará discrecionalmente el importe de la garantía, atendiendo a las condiciones personales del particular.
+Para que surta efectos la suspensión, el actor deberá otorgar la garantía ante el Magistrado o Juez Administrativo, en cualquiera de las formas previstas por la ley. Cuando con la suspensión puedan afectarse derechos no estimables en dinero, el Magistrado o Juez Administrativo que conozca del asunto fijará discrecionalmente el importe de la garantía, atendiendo a las condiciones personales del particular.
 
 ###### Artículo 247.
 
@@ -2357,15 +2467,17 @@ La suspensión otorgada conforme al artículo anterior, quedará sin efecto si e
 
 Para que surta efecto la caución que ofrezca el tercero, conforme al párrafo anterior deberá cubrir previamente el costo de la que hubiese otorgado el actor.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 248.
 
-En asuntos de carácter fiscal, los particulares podrán promover en cualquier tiempo el incidente de suspensión de la ejecución ante el Magistrado Instructor, cuando la autoridad ejecutora niegue la suspensión, rechace indebidamente la garantía ofrecida o reinicie la ejecución. El actor acompañará copias de los documentos necesarios para resolver el incidente.
+En asuntos de carácter fiscal, los particulares podrán promover en cualquier tiempo el incidente de suspensión de la ejecución ante el Magistrado o Juez Administrativo, cuando la autoridad ejecutora niegue la suspensión, rechace indebidamente la garantía ofrecida o reinicie la ejecución. El actor acompañará copias de los documentos necesarios para resolver el incidente.
 
-Promovido el incidente, se ordenará a la autoridad ejecutora que suspenda ésta y rinda ante el Magistrado Instructor un informe en un plazo de tres días hábiles, y se apercibirá de que si no la suspende, no rinde el informe o no se refiere específicamente a los hechos, se tendrán éstos por ciertos y se declarará fundado el incidente respectivo.
+Promovido el incidente, se ordenará a la autoridad ejecutora que suspenda ésta y rinda ante el Magistrado o Juez Administrativo un informe en un plazo de tres días hábiles, y se apercibirá de que si no la suspende, no rinde el informe o no se refiere específicamente a los hechos, se tendrán éstos por ciertos y se declarará fundado el incidente respectivo.
 
-En un plazo de cinco días hábiles, el Magistrado Instructor dictará la resolución que corresponda. Si la autoridad no da cumplimiento a lo ordenado, todo lo actuado posteriormente por la misma será nulo y el Magistrado Instructor aplicará, a su juicio, cualquiera de los medios de apremio a que se refiere este Código.
+En un plazo de cinco días hábiles, el Magistrado o Juez Administrativo dictará la resolución que corresponda. Si la autoridad no da cumplimiento a lo ordenado, todo lo actuado posteriormente por la misma será nulo y el Magistrado o Juez Administrativo aplicará, a su juicio, cualquiera de los medios de apremio a que se refiere este Código.
 
-### Capítulo Noveno. Pruebas
+### Capítulo Octavo. Contestación
 
 ###### Artículo 249.
 
@@ -2421,39 +2533,47 @@ En la contestación de la demanda no podrán cambiarse los motivos ni los fundam
 
 En la contestación de la demanda o antes de que se dicte sentencia, la autoridad demandada podrá allanarse a las pretensiones del actor.
 
-### Capítulo Décimo. Incidentes
+### Capítulo Noveno. Pruebas
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 256.
 
-El Magistrado Instructor señalará a más tardar en los tres días hábiles siguientes a que se tenga por contestada la demanda, su ampliación, en su caso, o transcurrido el plazo para contestarla, día y hora para la celebración de una audiencia dentro de los quince días hábiles siguientes, en la que se desahogarán las pruebas ofrecidas y en su caso aportadas al momento de presentar la demanda, o de la contestación o de la ampliación de las mismas.
+El Juez Administrativo señalará a más tardar en los tres días hábiles siguientes a que se tenga por contestada la demanda, su ampliación, en su caso, o transcurrido el plazo para contestarla, día y hora para la celebración de una audiencia dentro de los quince días hábiles siguientes, en la que se desahogarán las pruebas ofrecidas y en su caso aportadas al momento de presentar la demanda, o de la contestación o de la ampliación de las mismas.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 257.
 
-En los juicios que se tramiten ante el Tribunal, se admitirán toda clase de pruebas, excepto la confesional a cargo de la autoridad.
+En los procesos que se tramiten ante el Tribunal, se admitirán toda clase de pruebas, excepto la confesional a cargo de la autoridad. Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia. En este caso, el Magistrado o Juez Administrativo Instructor dará vista a la contraparte para que en el plazo de cinco días hábiles exprese lo que a su derecho convenga.
 
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia. En este caso, el Magistrado Instructor dará vista a la contraparte para que en el plazo de cinco días hábiles exprese lo que a su derecho convenga.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 258.
 
-Las pruebas ofrecidas oportunamente, que no se hayan desahogado por causa justificada, se recibirán en el término que prudentemente fije el Magistrado Instructor.
+Las pruebas ofrecidas oportunamente, que no se hayan desahogado por causa justificada, se recibirán en el término que prudentemente fije el Magistrado o Juez Administrativo.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 259.
 
-El Magistrado Instructor podrá ordenar la práctica de cualquier diligencia que tenga relación con los hechos controvertidos o acordar la exhibición de cualquier documento.
+El Magistrado o Juez Administrativo podrá ordenar la práctica de cualquier diligencia que tenga relación con los hechos controvertidos o acordar la exhibición de cualquier documento.
 
 ###### Artículo 260.
 
 Cuando los objetos o documentos sobre los cuales debe versar la prueba pericial, estén en poder del demandado o de cualquier otra persona, se les requerirá para que los pongan a la vista del perito de las partes, a fin de que puedan rendir su dictamen.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 261.
 
-El Magistrado Instructor o las partes podrán formular a los testigos, las preguntas y repreguntas que estimen convenientes, previa calificación de legalidad.
+El Juez Administrativo o las partes podrán formular a los testigos, las preguntas y repreguntas que estimen convenientes, previa calificación de legalidad. Cuando el testigo tenga el carácter de autoridad, el desahogo de esta prueba se hará por escrito.
 
-Cuando el testigo tenga el carácter de autoridad, el desahogo de esta prueba se hará por escrito.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 262.
 
-A fin de que las partes puedan rendir sus pruebas, las autoridades tienen la obligación de expedir con toda oportunidad, las copias de los documentos que les soliciten; si no se cumpliera con esa obligación, la parte interesada solicitará al Magistrado que requiera a los omisos. Cuando sin causa justificada, la autoridad demandada no expida las copias de los documentos ofrecidos, por el actor o por el tercero que tenga un derecho incompatible para probar los hechos imputados a aquélla, y siempre que los documentos solicitados hubieren sido identificados con toda precisión, tanto en sus características como en su contenido, se presumirán ciertos los hechos que pretenda probar con esos documentos. En los casos en que la autoridad a quien se formule la solicitud no sea parte, el Magistrado Instructor podrá hacer valer los medios de apremio que establece este Código.
+A fin de que las partes puedan rendir sus pruebas, las autoridades tienen la obligación de expedir con toda oportunidad, las copias de los documentos que les soliciten; si no se cumpliera con esa obligación, la parte interesada solicitará al Magistrado o Juez Administrativo que requiera a los omisos. Cuando sin causa justificada, la autoridad demandada no expida las copias de los documentos ofrecidos, por el actor o por el tercero que tenga un derecho incompatible para probar los hechos imputados a aquella, y siempre que los documentos solicitados hubieren sido identificados con toda precisión, tanto en sus características como en su contenido, se presumirán ciertos los hechos que pretendan probar con esos documentos. En los casos en que la autoridad a quien se formule la solicitud no sea parte, el Magistrado o Juez Administrativo podrá hacer valer los medios de apremio que establece este Código.
 
 ###### Artículo 263.
 
@@ -2463,15 +2583,15 @@ La valoración de las pruebas se hará de acuerdo con las reglas previstas en el
 
 Abierta la audiencia, asistiendo o no las partes, se procederá a recibir por su orden, las pruebas y los alegatos por escrito, debiéndose dictar la sentencia que corresponda en la misma audiencia o dentro del plazo de diez días hábiles.
 
-### Capítulo Décimo Primero. Sentencia
+### Capítulo Décimo. Incidentes
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 265.
 
-El incidente se promoverá ante el Magistrado Instructor, quien ordenará correr traslado a las partes para que expresen lo que a su interés convenga, por el término de tres días hábiles; agotado éste, si las partes ofrecieron pruebas o el Magistrado Instructor las considera necesarias se citará a una audiencia de desahogo de pruebas y alegatos misma que se celebrará dentro de los cinco a (sic) días hábiles siguientes, la que se verificará concurran o no las partes. El Magistrado Instructor dentro de los tres días siguientes a la audiencia dictará resolución.
+El incidente se promoverá ante el Magistrado o Juez Administrativo, quien ordenara correr traslado a las partes para que expresen lo que a su interés convenga, por el término de tres días hábiles; agotado éste si las partes ofrecieron pruebas o el Magistrado o Juez Administrativo las considera necesarias se citará a una audiencia de desahogo de pruebas y alegatos misma que se celebrará dentro de los cinco días hábiles siguientes, la que se verificará concurran o no las partes. El Magistrado o Juez Administrativo dentro de los tres días siguientes a la audiencia dictará resolución.
 
-En caso de que no se hayan ofrecido pruebas, ni el Magistrado las estimare necesarias, se citará, desde luego, a la audiencia de alegatos.
+En caso de que no se hayan ofrecido pruebas, ni el Magistrado o Juez Administrativo las estimare necesarias, se citará, desde luego, a la audiencia de alegatos.
 
 Las pruebas deberán ofrecerse en el mismo escrito en el que se interponga o conteste el incidente.
 
@@ -2511,29 +2631,35 @@ II. Siendo diferentes las partes e invocándose distintos conceptos de violació
 
 III. Siendo las partes y los conceptos de violación diversos o no, se impugnen actos que sean unos antecedentes o consecuencia de los otros.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 269.
 
-El incidente a que se refiere el artículo anterior, se hará valer hasta antes de la celebración de la audiencia final y se tramitará ante el Magistrado Instructor que conozca del proceso más antiguo. La acumulación podrá tramitarse de oficio.
+El incidente a que se refiere el artículo anterior, se hará valer hasta antes de la celebración de la audiencia final y se tramitará ante el Magistrado o Juez Administrativo que conozca del proceso más antiguo. La acumulación podrá tramitarse de oficio.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 270.
 
-Decretada la acumulación, el Magistrado Instructor que conozca de la demanda más reciente enviará los autos al Magistrado que conozca del proceso más antiguo, en un plazo que no excederá de tres días hábiles.
+Decretada la acumulación, el Magistrado o Juez Administrativo que conozca de la demanda más reciente enviará los autos al Magistrado o Juez Administrativo que conozca del proceso más antiguo, en un plazo que no excederá de tres días hábiles.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 271.
 
-El incidente de nulidad de notificaciones se interpondrá ante el Magistrado Instructor, dentro de los cinco días hábiles siguientes a aquél en que tuvo conocimiento del hecho de la notificación.
-
-Si se declara la nulidad, el Magistrado ordenará reponer el procedimiento desde la fecha de la notificación anulada.
+El incidente de nulidad de notificaciones se interpondrá ante el Magistrado o Juez Administrativo dentro de los cinco días hábiles siguientes a aquél en que tuvo conocimiento del hecho de la notificación. Si se declara la nulidad, el Magistrado o Juez Administrativo ordenará reponer el procedimiento desde la fecha de la notificación anulada.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
 Artículo 271 A. En el incidente de tachas, las partes pueden tachar a los testigos por causas que éstos no hubieren expresado en sus declaraciones, dentro de los tres días siguientes al desahogo de la prueba. En caso de que la testimonial hubiese sido rendida con anterioridad al término probatorio, deberá proponerse la tacha dentro de los cinco días siguientes de que se haya abierto éste.
 
-### Capítulo Décimo Segundo. Ejecución de la Sentencia
+### Capítulo Décimo Primero. Sentencia
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 272.
 
-La sentencia será emitida por el magistrado al cual se le haya turnado el asunto.
+La sentencia será emitida por el Magistrado o Juez Administrativo al cual se le haya turnado el asunto.
 
 ###### Artículo 273.
 
@@ -2605,15 +2731,15 @@ III. Modificar el acto o resolución impugnada; o,
 
 IV. En su caso, imponer la condena que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 279.
 
-Procede la aclaración de sentencia de oficio o a petición de parte, la que se promoverá ante el Magistrado Instructor o el Pleno, según sea el caso, dentro de los tres días hábiles siguientes de notificada, señalando con toda precisión la contradicción, ambigüedad u oscuridad, de cuya aclaración se solicite.
+Procede la aclaración de sentencia de oficio o a petición de parte, la que se promoverá ante el Juez Administrativo, Magistrado o el Pleno, según sea el caso, dentro de los tres días hábiles siguientes de notificada, señalando con toda precisión la contradicción, ambigüedad u oscuridad, de cuya aclaración se solicite.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-El Magistrado Instructor o el Pleno, según sea el caso, resolverán dentro de los tres días hábiles siguientes, sin que pueda variar la sustancia de la resolución.
+El Juez Administrativo, el Magistrado o el Pleno, según sea el caso, resolverán dentro de los tres días hábiles siguientes, sin que pueda variar la sustancia de la resolución.
 
 La resolución sobre la aclaración de una sentencia, se considerará parte integrante de ésta, no admitirá ningún recurso, e interrumpirá el término para impugnar la resolución.
 
@@ -2623,9 +2749,7 @@ Las sentencias que declaren fundada la pretensión del actor, dejarán sin efect
 
 Cuando además de la pretensión de nulidad, se ejerza la de condena por daños y perjuicios, determinada su procedencia por sentencia ejecutoriada, el pago deberá efectuarse a más tardar dentro de los tres primeros meses del siguiente ejercicio presupuestal, con la actualización y los recargos establecidos por la legislación fiscal del Estado, desde la emisión de la sentencia.
 
-### Capítulo Décimo Tercero. Queja
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+### Capítulo Décimo Segundo. Ejecución de la Sentencia
 
 ###### Artículo 281.
 
@@ -2697,9 +2821,9 @@ Lo dispuesto en el artículo anterior también será aplicable cuando no se cump
 
 Transcurridos los plazos señalados en las fracciones anteriores, el Tribunal pondrá en conocimiento del Órgano Interno correspondiente los hechos, a fin de que éste determine la responsabilidad del funcionario responsable del incumplimiento.
 
-### Capítulo Décimo Cuarto. Procedimiento Sumario
+### Capítulo Décimo Tercero. Queja
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 287.
 
@@ -2767,9 +2891,51 @@ VIII. En caso de que la autoridad persista en no dar cumplimiento a la sentencia
 
 A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución administrativa definitiva, se le impondrá una multa en monto equivalente a entre cien y doscientas veces el valor diario de la Unidad de Medida y Actualización, y, en caso de haberse suspendido la ejecución, se considerará este hecho como agravante para graduar la sanción que en definitiva se imponga.
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-Existiendo resolución administrativa definitiva, si el Pleno considera que la queja es improcedente, prevendrán al actor para que dentro de los treinta días hábiles siguientes a aquél en que surta efectos la notificación del auto respectivo, la presente como demanda, cumpliendo los mismos requisitos previstos en este Código, ante el mismo Magistrado Instructor que conoció del primer juicio, la que será turnada al mismo Magistrado Instructor de la queja.
+Existiendo resolución administrativa definitiva, si el Pleno considera que la queja es improcedente, prevendrán al actor para que dentro de los cuarenta y cinco días hábiles siguientes a aquél en que surta efectos la notificación del auto respectivo, la presente como demanda, cumpliendo los mismos requisitos previstos en este Código, ante el mismo Magistrado o Juez Administrativo que conoció del primer juicio, la que será turnada al mismo Magistrado o Juez Administrativo de la queja.
+
+### Capítulo Décimo Cuarto. Procedimiento Sumario
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 292.
+
+El procedimiento sumario será alternativo al ordinario a solicitud del actor en asuntos que afecten la libertad personal o cuya cuantía no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, o en el trámite de la negativa ficta.
+
+Un mismo asunto no podrá iniciarse en ambas vías. No procederá el procedimiento sumario cuando exista tercero perjudicado.
+
+###### Artículo 293.
+
+El procedimiento iniciará con demanda que se presentará por escrito con los mismos requisitos que exige este Código y se hará acompañar con las pruebas correspondientes.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 294.
+
+Recibida la demanda será turnada al Juez Administrativo para su admisión o desechamiento, que será resuelto dentro de los tres días hábiles siguientes y notificados en el mismo plazo.
+
+###### Artículo 295.
+
+En caso de admisión de la demanda, se correrá traslado de la misma a la autoridad responsable, la que deberá rendir informe dentro de los cinco días hábiles siguientes.
+
+Si no se recibe el informe por parte de la autoridad se tendrán por ciertos los hechos imputados.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 296.
+
+Se citará para audiencia de desahogo de pruebas y alegatos en el término de cinco días hábiles siguientes. Si la parte actora no comparece se dará por desistida la pretensión; si la parte demandada no comparece se condenará a la autoridad a someterse a la pretensión del actor, en los términos de la ley. Lo anterior, salvo que por caso fortuito, fuerza mayor, por acto de autoridad o por alguna otra causa no atribuible a la voluntad de la parte que ha de comparecer, fuere imposible su presencia, siempre que lo pruebe, dentro de un plazo de tres días hábiles siguientes a la fecha en que se citó a audiencia, ante el Juez Administrativo, quien valorará; de ser probado, se ordenará reponer la audiencia en fecha y hora diversa, una vez que haya cesado lo que motivó.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 297.
+
+La audiencia se desahogará en presencia del Juez Administrativo, comenzará con la exposición por parte del actor o su representante de la pretensión y sus fundamentos; acto seguido se concederá la palabra a la autoridad o su representante para los efectos de la justificación de la defensa.
+
+El Juez Administrativo dictará resolución del asunto en el plazo de treinta días hábiles.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2017)</small>
 
 ### Capítulo Décimo Cuarto Bis. Juicio en Línea
 
@@ -2821,9 +2987,9 @@ Artículo 297 H. Los titulares de una Firma Electrónica Avanzada, Clave de Acce
 
 Artículo 297 I. Una vez recibida por vía electrónica cualquier promoción de las partes, el SIT emitirá el Acuse de Recibo Electrónico correspondiente, señalando la fecha y la hora de recibido.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-Artículo 297 J. Cualquier actuación en el Juicio en Línea se efectuará a través del SIT en términos del presente capítulo. Dichas actuaciones serán validadas con las firmas electrónicas avanzadas de los Magistrados y Secretarios de Acuerdos que den fe según corresponda.
+Artículo 297 J. Cualquier actuación en el Juicio en Línea se efectuará a través del SIT en términos del presente capítulo. Dichas actuaciones serán validadas con las firmas electrónicas avanzadas de los magistrados, jueces administrativos y secretarios de acuerdos que den fe según corresponda.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -2833,11 +2999,9 @@ Tratándose de documentos digitales, se deberá manifestar la naturaleza de los 
 
 Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones del presente código y de los acuerdos normativos que emita el Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-Artículo 297 L. Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El Secretario de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieren sido objeto de prueba.
-
-Para el caso de pruebas diversas a las documentales, éstas deberán ofrecerse en la demanda y ser presentadas al Magistrado que esté conociendo del asunto, en la misma fecha en la que se registre en el SIT la promoción correspondiente a su ofrecimiento, haciendo constar su recepción por vía electrónica.
+Artículo 297 L. Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El Secretario de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieren sido objeto de prueba. Para el caso de pruebas diversas a las documentales, éstas deberán ofrecerse en la demanda y ser presentadas al Juez Administrativo que esté conociendo del asunto, en la misma fecha en la que se registre en el SIT la promoción correspondiente a su ofrecimiento, haciendo constar su recepción por vía electrónica.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -2873,11 +3037,11 @@ Artículo 297 O. Las autoridades cuyos actos sean susceptibles de impugnarse ant
 
 En el caso de que las autoridades demandadas no cumplan con esta obligación, todas las notificaciones que deben hacerse, incluyendo el emplazamiento, se harán por lista, hasta que se cumpla con dicha formalidad.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-Artículo 297 P. Para la presentación y trámite de los recursos de revisión y juicios de amparo que se promuevan contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
+Artículo 297 P. Para la presentación y trámite de los recursos de apelación y juicios de amparo que se promuevan contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
 
-El Secretario General de Acuerdos del Tribunal, Secretarios de Estudio y Cuenta y Secretarios de Acuerdos según corresponda, deberán imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos a los Juzgados de Distrito y Tribunales Colegiados de Circuito, cuando se impugnen resoluciones de los juicios correspondientes a su mesa.
+El Secretario General de Acuerdos del Tribunal, Secretarios de Estudio y Cuenta, Secretarios de Acuerdos según corresponda, deberán imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos al Magistrado, los Juzgados de Distrito y Tribunales Colegiados de Circuito, cuando se impugnen resoluciones de los juicios correspondientes a su mesa.
 
 Sin perjuicio de lo anterior, en aquellos casos en que así lo solicite el Juzgado de Distrito o el Tribunal Colegiado, se podrá remitir la información a través de medios electrónicos.
 
@@ -2889,49 +3053,15 @@ Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica Av
 
 Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el valor diario de la unidad de medida y actualización al momento de cometer la infracción.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-Artículo 297 R. Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del SIT, haciendo imposible el cumplimiento de los plazos establecidos en el Código, las partes deberán dar aviso al Magistrado correspondiente en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa del Tribunal responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
+Artículo 297 R. Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del SIT, haciendo imposible el cumplimiento de los plazos establecidos en el Código, las partes deberán dar aviso al Juez Administrativo correspondiente en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa del tribunal responsable de la administración del sistema sobre la existencia de la interrupción del servicio.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
 El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, el tiempo que dure la interrupción del Sistema. Para tal efecto, el Pleno hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizara el computo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
 
-###### Artículo 292.
-
-El procedimiento sumario será alternativo al ordinario a solicitud del actor en asuntos que afecten la libertad personal o cuya cuantía no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, o en el trámite de la negativa ficta.
-
-Un mismo asunto no podrá iniciarse en ambas vías. No procederá el procedimiento sumario cuando exista tercero perjudicado.
-
-###### Artículo 293.
-
-El procedimiento iniciará con demanda que se presentará por escrito con los mismos requisitos que exige este Código y se hará acompañar con las pruebas correspondientes.
-
-###### Artículo 294.
-
-Recibida la demanda será turnada al Magistrado Instructor para su admisión o desechamiento, que será resuelto dentro de los tres días hábiles siguientes y notificados en el mismo plazo.
-
-###### Artículo 295.
-
-En caso de admisión de la demanda, se correrá traslado de la misma a la autoridad responsable, la que deberá rendir informe dentro de los cinco días hábiles siguientes.
-
-Si no se recibe el informe por parte de la autoridad se tendrán por ciertos los hechos imputados.
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
-
-###### Artículo 296.
-
-Se citará para audiencia de desahogo de pruebas y alegatos en el término de cinco días hábiles siguientes. Si la parte actora no comparece se dará por desistida la pretensión; si la parte demandada no comparece se condenará a la autoridad a someterse a la pretensión del actor, en los términos de la ley. Lo anterior, salvo que por caso fortuito, fuerza mayor, por acto de autoridad o por alguna otra causa no atribuible a la voluntad de la parte que ha de comparecer, fuere imposible su presencia, siempre que lo pruebe, dentro de un plazo de tres días hábiles siguientes a la fecha en que se citó a audiencia, ante el magistrado, quien valorará; de ser probado, se ordenará reponer la audiencia en fecha y hora diversa, una vez que haya cesado lo que motivó.
-
-###### Artículo 297.
-
-La audiencia se desahogará en presencia del Magistrado Instructor, comenzará con la exposición por parte del actor o su representante de la pretensión y sus fundamentos; acto seguido se concederá la palabra a la autoridad o su representante para los efectos de la justificación de la defensa.
-
-El Magistrado propondrá a la Sala el proyecto de sentencia del asunto, mismo que será resuelto en el plazo de cinco días hábiles.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2017)</small>
-
 ### Capítulo Décimo Quinto. Recurso de Reconsideración
-
-### Capítulo Décimo Sexto. Criterios Jurisprudenciales
 
 ###### Artículo 298.
 
@@ -2947,23 +3077,23 @@ IV. Las resoluciones que pongan fin al procedimiento de ejecución de sentencia;
 
 V. Las determinaciones que impongan los medios de apremio y medidas disciplinarias previstas en este Código.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 299.
 
-El recurso de reconsideración podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de los tres días hábiles siguientes al que surta efectos la notificación de la resolución o sentencia que se impugne. El recurso se presentará ante el Pleno y se turnará para su trámite a un Magistrado distinto del instructor.
+El recurso de reconsideración podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de los tres días hábiles siguientes al que surta efectos la notificación de la resolución o sentencia que se impugne. El recurso se presentará ante el Tribunal y se turnará para su trámite al Magistrado Especializado distinto del instructor y tratándose de resoluciones emitidas por los jueces administrativos, se turnará para su trámite y resolución a un Magistrado de Sala Administrativa Ordinaria.
 
 ###### Artículo 300.
 
 Para su presentación, admisión y desechamiento se aplicarán en lo conducente, los requisitos establecidos para la interposición del juicio, salvo el requerimiento de aclaración o complemento.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 301.
 
-El Magistrado Instructor a quien se le turne el recurso, al admitirlo, mandará correr traslado del mismo a las demás partes por el término de tres días hábiles posteriores a aquél en que surta efectos la notificación, para que expongan lo que a sus derechos convenga. Vencido este término, presentará al pleno de la Sala en un plazo de tres días hábiles el proyecto de resolución, la cual deberá resolver en un plazo de tres días hábiles.
+El Magistrado a quien se le turne el recurso, al admitirlo, mandará correr traslado del mismo a las demás partes por el término de tres días hábiles posteriores a aquél en que surta efectos la notificación, para que expongan lo que a sus derechos convenga. Vencido este término, se resolverá en un plazo de cinco días hábiles, de forma unitaria las que deriven de juicios administrativos y por el Pleno las que deriven de la materia anticorrupción y responsabilidades administrativas.
 
-### Capítulo Décimo Séptimo. Disposiciones Comunes
-
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+### Capítulo Décimo Sexto. Criterios Jurisprudenciales
 
 ###### Artículo 302.
 
@@ -2987,7 +3117,7 @@ El criterio jurisprudencial será sometido y definido por la Sala y compilado y 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2017)</small>
 
-### Capítulo Décimo Octavo. Inconformidad
+### Capítulo Décimo Séptimo. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -3015,7 +3145,7 @@ IX. La resolución, deberá notificarse personalmente al presunto responsable. E
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2017)</small>
 
-### Capítulo Décimo Noveno. Apelación
+### Capítulo Décimo Octavo. Inconformidad
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -3093,43 +3223,59 @@ II. Dejar sin efectos la calificación o abstención, para lo cual el Tribunal e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2017)</small>
 
-### Capítulo Vigésimo. Cumplimiento y Ejecución de Sanciones por Faltas Administrativas Graves y Faltas de Particulares
+### Capítulo Décimo Noveno. Apelación
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 315.
 
-Solo procederá el recurso de apelación contra resoluciones de los magistrados especializados en materia de anticorrupción y responsabilidades administrativas.
-
-Procederá el recurso de apelación contra las resoluciones siguientes:
+Procederá el recurso de apelación contra las resoluciones de los magistrados especializados en materia de anticorrupción y responsabilidades administrativas, siguientes:
 
 I. La que determine imponer sanciones por la comisión de faltas administrativas graves o faltas de particulares; y,
 
 II. La que determine que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean servidores públicos o particulares.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+Contra las sentencias definitivas dictadas por los jueces administrativos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 316.
 
-El recurso de apelación se promoverá mediante escrito ante el magistrado que haya emitido sentencia, que turnará el asunto al Magistrado Especializado ponente del turno siguiente quien formulará proyecto de resolución en su momento; dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se recurre.
+El recurso de apelación se promoverá mediante escrito ante el Juez Administrativo o Magistrado que haya emitido sentencia, dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se impugna.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
 En el escrito deberán formularse los agravios que consideren las partes se les hayan causado, exhibiéndose una copia del mismo para el expediente y una para cada una de las partes.
 
-El escrito que contenga el recurso de apelación deberá ser remitido junto con el expediente al Magistrado Especializado Ponente, que no podrá ser el que haya dictado la resolución recurrida en un plazo de cinco días hábiles.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+El escrito que contenga el recurso de apelación deberá ser remitido junto con el expediente al Magistrado en un plazo de cinco días hábiles.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Tratándose de apelación contra sentencias definitivas de los jueces administrativos, se turnará para su trámite al Magistrado de Sala Administrativa Ordinaria que por turno corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 2018)</small>
+
+La apelación contra sentencias de Magistrado Especializado se turnará al Magistrado de la materia, distinto del instructor, para su trámite y será resuelta por el Pleno.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 317.
 
-Una vez recibido el expediente de apelación por el Magistrado Especializado ponente, éste deberá resolver en el plazo de tres días hábiles si admite el recurso, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia. Si hubiera irregularidades en el escrito del recurso por no haber satisfecho los requisitos de procedencia, se apercibirá al promovente en un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
+Una vez recibido el expediente de apelación por el Magistrado, éste deberá resolver en el plazo de tres días hábiles si admite el recurso, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia. Si hubiera irregularidades en el escrito del recurso por no haber satisfecho los requisitos de procedencia, se apercibirá al promovente en un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
 
-Admitido que fuere el recurso, el Magistrado Especializado dará vista a las partes para que en el término de tres días hábiles, manifiesten lo que a su derecho convenga; vencido dicho término, el Magistrado Ponente formulará el proyecto y dará cuenta del mismo al Pleno en un plazo no mayor a sesenta días hábiles.
+Admitido que fuere el recurso, el Magistrado dará vista a las partes para que en el término de tres días hábiles, manifiesten lo que a su derecho convenga; vencido dicho término, el Magistrado Especializado formulará el proyecto y dará cuenta del mismo al Pleno en un plazo no mayor a sesenta días hábiles; y tratándose de apelación contra sentencias dictadas por jueces administrativos, el Magistrado de Sala Administrativa Ordinaria, en un plazo no mayor a treinta días hábiles dictará la resolución correspondiente de forma unitaria.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+La resolución que se emita podrá confirmar, modificar o revocar la sentencia recurrida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 318.
 
-El Pleno procederá al estudio de los conceptos de apelación, atendiendo a su prelación lógica. En todos los casos, se privilegiará el estudio de los conceptos de apelación de fondo por encima de los de procedimiento y forma, a menos que invertir el orden dé la certeza de la no responsabilidad del servidor público o del particular, o de ambos; o que en el caso de que el recurrente sea la Autoridad Investigadora, las violaciones de forma hayan impedido conocer con certeza la responsabilidad de los involucrados.
+El Pleno o el Magistrado de Sala Administrativa Ordinaria, según corresponda, procederá al estudio de los conceptos de apelación, atendiendo a su prelación lógica. En todos los casos, se privilegiará el estudio de los conceptos de apelación de fondo por encima de los de procedimiento y forma, a menos que invertir el orden dé la certeza de la no responsabilidad del servidor público o del particular, o de ambos; o que en el caso de que el recurrente sea la Autoridad Investigadora, las violaciones de forma hayan impedido conocer con certeza la responsabilidad de los involucrados.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
 En los asuntos en los que se desprendan violaciones de fondo de las cuales pudiera derivarse el sobreseimiento del procedimiento de responsabilidad administrativa, la no responsabilidad del recurrente, o la determinación de culpabilidad respecto de alguna conducta, se le dará preferencia al estudio de aquéllas aún de oficio.
 
@@ -3142,6 +3288,10 @@ En el caso de ser revocada la sentencia o de que su modificación así lo dispon
 Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, peritos oficiales y miembros de las instituciones policiales en cuyos casos sólo estarán obligadas a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio, en los términos previstos en el apartado B, fracción XIII, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2017)</small>
+
+### Capítulo Vigésimo. Cumplimiento y Ejecución de Sanciones por Faltas Administrativas Graves y Faltas de Particulares
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 320.
 
@@ -3320,3 +3470,19 @@ P.O. 14 DE AGOSTO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+P.O. 4 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 657 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 144, 148, 149, 153, LAS FRACCIONES II Y VII DEL ARTÍCULO 159, 160, 162, 197, 199, 200, 201, 208, 209, 210, 211, 212, 229, 231, 240, 241, 242, 243, 244, 245, 246, 248, 256, 257, 258, 259, 261, 262, 265, 269, 270, 271, 272, 279, 291, 294, 296, 297, 297 J, 297 L, 297 P, 297 R, 299, 301, 315, 316, 317 Y 318; SE DEROGA LA FRACCIÓN IX DEL ARTÍCULO 159; Y, SE ADICIONAN LA FRACCIÓN XXXI BIS AL ARTÍCULO 3; EL CAPÍTULO QUINTO BIS, LOS ARTÍCULOS 163 A, 163 B, 163 C, 163 D, 163 E, 163 F, 163 G; TODOS DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Pleno del Tribunal acordará lo relativo a la transferencia de los recursos humanos, materiales y financieros actualmente destinados a las Salas para que sean transferidos a los juzgados administrativos para su debido funcionamiento.
+
+TERCERO. Los asuntos que se encuentren resueltos o en ejecución, a la entrada en vigor del presente Decreto, seguirán sustanciándose conforme a la legislación con la que se iniciaron.
+
+CUARTO. Los asuntos pendientes de resolverse a la entrada en vigor del presente Decreto, continuarán su tramitación de conformidad con las disposiciones legales vigentes.
+
+QUINTO. El Tribunal deberá nombrar Jueces Administrativos dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO. Se derogan las disposiciones legales y administrativas en lo que se opongan al presente Decreto.
