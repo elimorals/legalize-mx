@@ -4,7 +4,7 @@ identifier: "CMX-presupuesto-de-egresos-de-la-ciudad-de-mexico-para-el-124886"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2017-12-31"
-last_updated: "2018-02-23"
+last_updated: "2018-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124886&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-29"
 
 PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2018.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE OCTUBRE DE 2018.
 
 Presupuesto publicado en el Número 230 de la Gaceta Oficial de la Ciudad de México, el domingo 31 de Diciembre de 2017.
 
@@ -272,9 +272,11 @@ SUMA DEPENDENCIAS Y 88,587,256,471.50
 
 ÓRGANOS DESCONCENTRADOS:
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 6.
 
-Las erogaciones para las Policías Auxiliar y Bancaria e Industrial, así como para las Autoridades del Centro Histórico, del Espacio Público y de la Zona Patrimonio Mundial, Natural y Cultural de la Humanidad en Xochimilco, Tláhuac y Milpa Alta, importan la cantidad de 11,428,403,204 pesos, que se distribuye como sigue:
+Las erogaciones para las Policías Auxiliar y Bancaria e Industrial, así como para las Autoridades del Centro Histórico, del Espacio Público y de la Zona Patrimonio Mundial, Natural y Cultural de la Humanidad en Xochimilco, Tláhuac y Milpa Alta, importan la cantidad de 11,258,403,204.00 pesos, que se distribuye como sigue:
 
 POLICIAS Y AUTORIDADES MONTO
 
@@ -290,11 +292,15 @@ Humanidad en Xochimilco,
 
 Tláhuac y Milpa Alta
 
-Autoridad del Espacio Público 261,840,755.00
+> <small>(REFORMADO EN SU MONTO, G.O. 4 DE OCTUBRE DE 2018)</small>
+
+Autoridad del Espacio Público 91,840,755.00
 
 Autoridad del Centro Histórico 49,634,940.00
 
-SUMA: 11,428,403,204.00
+> <small>(REFORMADO EN SU MONTO, G.O. 4 DE OCTUBRE DE 2018)</small>
+
+SUMA: 11,258,403,204.00
 
 ###### Artículo 7.
 
@@ -582,7 +588,7 @@ I. Las erogaciones previstas para el pago de emisiones de certificados bursátil
 
 II. Las erogaciones previstas para el pago de subsidios por concepto de estímulos fiscales importan la cantidad de 3,992,000,000 pesos.
 
-III. Las erogaciones para financiar el cambio de administración derivado del proceso electoral 2018, ascienden a un monto de 30,000,000 pesos.
+III. (DEROGADA, G.O. 4 DE OCTUBRE DE 2018)
 
 IV. Las erogaciones para el pago por devoluciones de ingresos importan la cantidad de 120,000,000 pesos.
 
@@ -618,17 +624,23 @@ Previo al establecimiento de los compromisos para llevar a cabo las acciones con
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 23 DE FEBRERO DE 2018)</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-Adicionalmente a las erogaciones establecidas en los artículos 5, 6, 7, 8, 10 y 11 del Decreto, se consideran 8,772,000,000 pesos para acciones de reconstrucción, recuperación y transformación de la Ciudad de México:
+Adicionalmente a las erogaciones establecidas en los artículos 5, 6, 7, 8, 10 y 11 del Decreto, se consideran 8,972,000,000 pesos para acciones de reconstrucción, recuperación y transformación de la Ciudad de México:
 
-I. Derivado del sismo del 19 de septiembre de 2017, dentro de las erogaciones de este decreto se destinan 5,000,000,000 pesos para el Fondo para la Reconstrucción, Recuperación y Transformación de la Ciudad de México, como se mandata en la Ley para la Reconstrucción, Recuperación y Transformación de la Ciudad de México, en una cada vez más Resiliente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE OCTUBRE DE 2018)</small>
+
+I. Derivado del sismo del 19 de septiembre de 2017, dentro de las erogaciones de este decreto se destinan 6,318,000,000 pesos para el Fondo para la Reconstrucción, Recuperación y Transformación de la Ciudad de México, como se mandata en la Ley para la Reconstrucción, Recuperación y Transformación de la Ciudad de México, en una cada vez más Resiliente; de los cuales 718,000,000 pesos deberán ser asignados directamente al Fideicomiso público para reconstrucción y rehabilitación de viviendas de uso habitacional.
 
 Dicho monto incluye 1,500,000,000 pesos derivados del Fondo de Reconstrucción para Entidades Federativas previsto en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2018, mismos que forman parte del endeudamiento aprobado a la Ciudad de México para dicho ejercicio, el cual estará sujeto a las Disposiciones Federales correspondientes así como a las que, en el ámbito de su competencia emita la Secretaría. Asimismo se prevé una asignación de 100,000,000 para el Fondo de Atención a los Desastres Naturales de la Ciudad de México.
 
 II. Así mismo, para fortalecer las acciones que el Gobierno de la Ciudad realiza en materia de reconstrucción, se destinan los recursos siguientes:
 
-En materia de desarrollo social se asignan un monto de 940,000,000 pesos, a la Secretaría de Desarrollo Social; para la rehabilitación de vialidades, mejoramiento de la infraestructura y del espacio público se asignan 1,387,000,000 pesos a la Agencia de Gestión Urbana; para el mantenimiento y rehabilitación de centros educativos, así como para el fortalecimiento de las acciones educativas se asignan 277,000,000 pesos a la Secretaría de Educación; para reforzar las acciones de vivienda se consideran 150,000,000 pesos para el Instituto de Vivienda.
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2018)</small>
+
+Para la rehabilitación de vialidades, mejoramiento de la infraestructura y del espacio público se asignan 1,209’000,000 de pesos a la Agencia de Gestión Urbana; para el mantenimiento y rehabilitación de centros educativos, así como para el fortalecimiento de las acciones educativas se asignan 277,000,000 de pesos a la Secretaría de Educación; para reforzar las acciones de vivienda se consideran 150,000,000 de pesos para el Instituto de Vivienda.
 
 III. Se prevé una asignación de 1,018,000,000 pesos del Fondo de Aportaciones para la Infraestructura Social (FAIS), dentro de los cuales se incluye el Fondo para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal enunciado en la Fracción I del Artículo 8 del presente Decreto. Dicho Fondo deberá aplicarse de forma preferente para las acciones de reconstrucción por los efectos causados por el sismo del 19 de septiembre de 2017; de conformidad con la normatividad aplicable.
 
@@ -1144,7 +1156,9 @@ Para efectos del párrafo anterior, las Delegaciones deberán tomar las medidas 
 
 Artículo Noveno. De los recursos generados de los remanentes contenidos en la cuenta patrimonial del Fideicomiso de Educación Garantizada, serán destinados para becas a estudiantes de nivel secundaria y distribuidos de manera proporcional a la población de una de las demarcaciones territoriales por la Coordinación Ejecutiva del Programa de Estímulos para el Bachillerato Universal, mismo que deberá ser ejercido en su totalidad durante el primer semestre del ejercicio fiscal del año 2018.
 
-Artículo Décimo. De las erogaciones previstas en el artículo 6 para la Autoridad del Espacio Público se destinarán 180,000,000 pesos para la rehabilitación del Parque Japón.
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2018)</small>
+
+Artículo Décimo. De las erogaciones previstas en el artículo 6 para la Autoridad del Espacio Público se destinarán 10,000,000 pesos para la rehabilitación del Parque Japón.
 
 Artículo Décimo Primero. De las erogaciones previstas en el artículo 5 para la Secretaría de Seguridad Pública, se destinarán $100,000,000.00 pesos para acciones en materia de prevención del delito.
 
@@ -1224,7 +1238,7 @@ Artículo Vigésimo Primero. Se consideran asignaciones federales por 6,286,000,
 
 Artículo Vigésimo Segundo. La Secretaría de Finanzas deberá suministrar en el primer trimestre del año 2018, el 35% del total de los recursos fiscales correspondientes a las demarcaciones territoriales y para el segundo trimestre el 25% de estos recurso, estableciendo dichas ministraciones de conformidad con el Artículo 21 de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
 
-Artículo Vigésimo Tercero. Los ingresos provenientes de infracciones con Dispositivos Electrónicos denominados “FOTOMULTAS”, por violaciones a las disposiciones del Reglamento de Tránsito del Distrito Federal, forman parte de las erogaciones previstas para la Secretaría de Seguridad Pública contenidas en el artículo 5 del Decreto, destinadas a acciones de control y supervisión del tránsito de vehículos y personas en la vía pública, de seguridad vial y peatonal, entre otras.
+Artículo Vigésimo Tercero. Los ingresos provenientes de infracciones con Dispositivos Electrónicos denominados "FOTOMULTAS", por violaciones a las disposiciones del Reglamento de Tránsito del Distrito Federal, forman parte de las erogaciones previstas para la Secretaría de Seguridad Pública contenidas en el artículo 5 del Decreto, destinadas a acciones de control y supervisión del tránsito de vehículos y personas en la vía pública, de seguridad vial y peatonal, entre otras.
 
 > <small>[N. DE E. VÉASE ANEXO I EN LA G.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 30.]</small>
 
@@ -1253,3 +1267,23 @@ G.O. 23 DE FEBRERO DE 2018.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 4 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DEL DECRETO DE PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO, PARA EL EJERCICIO FISCAL 2018”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+En el Proyecto de Presupuesto de Egresos del ejercicio fiscal de 2019 que presente la Titular de la Jefatura de Gobierno, se deberá incluir un apartado específico para los recursos asignados al Fondo para la Reconstrucción, Recuperación y Transformación de la Ciudad de México que incluyan íntegramente los recursos remanentes que se hayan registrado, en el citado Fondo en 2018.
+
+###### ARTÍCULO CUARTO.
+
+La o el titular de la Jefatura de Gobierno de la Ciudad de México, incluirá en los informes de Ley un apartado especial sobre la evolución de gasto del Fidecomiso Público para la reconstrucción al cierre del ejercicio 2018.
