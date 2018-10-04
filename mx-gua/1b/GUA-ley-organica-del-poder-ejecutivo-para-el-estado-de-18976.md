@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2018-09-21"
+last_updated: "2018-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "GUA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 4 DE OCTUBRE DE 2018.]</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -2207,13 +2207,15 @@ Artículo Único. El presente Decreto entrará en vigencia al siguiente día de 
 
 P.O. 21 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 332, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 13, FRACCIONES VIII Y XII; 22, FRACCIÓN II; 23, FRACCIÓN II, INCISO H) Y FRACCIÓN IV, INCISOS J), K) Y N); 24, FRACCIÓN VIII, INCISOS C), F) Y G); 28, FRACCIÓN I INCISO Q); 29 PÁRRAFO PRIMERO, Y FRACCIONES VI Y XVI; 30; SE ADICIONAN LOS ARTÍCULOS 13, CON LAS FRACCIONES XIII Y XIV, UBICANDO EL CONTENIDO DE LA ACTUAL FRACCIÓN XIII, COMO FRACCIÓN XV; 22, CON LAS FRACCIONES IV Y V; 28, FRACCIÓN I, CON UN INCISO V); 32 QUÁTER; Y 32 QUINQUIES; Y SE DEROGAN DEL ARTÍCULO 26, LA FRACCIÓN II Y DE LA FRACCIÓN V, LOS INCISOS D), E) Y F); 28, FRACCIÓN II; Y 29, FRACCIÓN IV, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 332, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 13, FRACCIONES VIII Y XII; 22, FRACCIÓN II; 23, FRACCIÓN II, INCISO H) Y FRACCIÓN IV, INCISOS J), K) Y N); 24, FRACCIÓN VIII, INCISOS C), F) Y G); 28, FRACCIÓN I INCISO Q); 29 PÁRRAFO PRIMERO, Y FRACCIONES VI Y XVI; 30; SE ADICIONAN LOS ARTÍCULOS 13, CON LAS FRACCIONES XIII Y XIV, UBICANDO EL CONTENIDO DE LA ACTUAL FRACCIÓN XIII, COMO FRACCIÓN XV; 22, CON LAS FRACCIONES IV Y V; 28, FRACCIÓN I, CON UN INCISO V); 32 QUÁTER; Y 32 QUINQUIES; Y SE DEROGAN DEL ARTÍCULO 26, LA FRACCIÓN II Y DE LA FRACCIÓN V, LOS INCISOS D), E) Y F); 28, FRACCIÓN II; Y 29, FRACCIÓN IV, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Primero. El presente Decreto entrará en vigencia el 26 de septiembre de 2018, previa publicación en el Periódico Oficial de Gobierno del Estado.
 
 Artículo Segundo. A partir de la entrada en vigencia del presente decreto y para dar cumplimiento a la creación de las secretarías de Medio Ambiente y Ordenamiento Territorial; del Migrante y Enlace Internacional; y de Infraestructura, Conectividad y Movilidad, el Gobernador del Estado expedirá y adecuará los reglamentos y demás disposiciones necesarios para el cumplimiento del presente decreto, en un término que no exceda de ciento ochenta días. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente decreto, acorde a lo establecido en el artículo transitorio siguiente.
 
-Artículo Tercero. El Instituto Estatal de Ecología, Comisión de Vivienda del Estado de Guanajuato, e Instituto Estatal de Atención al Migrante Guanajuatense y sus Familias, transferirán a las secretarías de Medio Ambiente y Ordenamiento Territorial, y del Migrante y Enlace Internacional, según corresponda, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Artículo Tercero. El Instituto de Ecología del Estado, Comisión de Vivienda del Estado de Guanajuato, e Instituto Estatal de Atención al Migrante Guanajuatense y sus Familias, transferirán a las secretarías de Medio Ambiente y Ordenamiento Territorial, y del Migrante y Enlace Internacional, según corresponda, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
 
 El personal de las entidades paraestatales referidas en el párrafo que antecede, conforme a su situación laboral pasarán a integrar las nuevas secretarías de Medio Ambiente y Ordenamiento Territorial, y del Migrante y Enlace Internacional, sin menoscabo de los derechos adquiridos de los trabajadores.
 
@@ -2223,7 +2225,9 @@ La Secretaría de Obra Pública se transformará en Secretaría de Infraestructu
 
 Artículo Cuarto. Las secretarías de Medio Ambiente y Ordenamiento Territorial; del Migrante y Enlace Internacional; y de Infraestructura, Conectividad y Movilidad, sustituyen en su ámbito de competencia en todas sus obligaciones y asumen los compromisos adquiridos por las entidades paraestatales que les transfieran los asuntos en términos del artículo tercero transitorio del presente Decreto.
 
-Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Ecología y Comisión de Vivienda del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas de los demás ordenamientos.
+> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Para todos los efectos legales correspondientes, las referencias al Instituto de Ecología del Estado y Comisión de Vivienda del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas de los demás ordenamientos.
 
 Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Atención al Migrante Guanajuatense y sus Familias, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría del Migrante y Enlace Internacional a que alude el presente Decreto.
 
@@ -2235,6 +2239,8 @@ En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y A
 
 Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega- Recepción (sic) para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
 
-Artículo Séptimo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto Estatal de Ecología, del Instituto de Movilidad del Estado de G uanajuatode (sic) la Comisión de Vivienda del Estado de G uanajuatoy (sic) del Instituto Estatal de Atención al Migrante G uanajuatenseDicho (sic) dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
+> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Artículo Séptimo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto de Ecología del Estado, del Instituto de Movilidad del Estado de Guanajuato, de la Comisión de Vivienda del Estado de Guanajuato y del Instituto Estatal de Atención Al Migrante Guanajuatense. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
 
 Los asuntos que se encuentren en trámite al momento de la extinción de las entidades referidas en este artículo, serán resueltos por las secretarías correspondientes.
