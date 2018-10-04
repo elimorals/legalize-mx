@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-etica-y-reglas-de-integridad-para-los-servidores-1301
 country: "mx"
 rank: "codigo"
 publication_date: "2018-08-21"
-last_updated: "2018-08-21"
+last_updated: "2018-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD PARA LOS SERVIDORES PÚBLICOS DEL TRIBUNAL SUPERIOR DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2018.
 
 Código publicado en la Sección III al Número 29 del Periódico Oficial del Estado de Jalisco, el martes 21 de agosto de 2018.
 
@@ -292,7 +292,9 @@ III. Actúan de manera transparente, íntegra y recta en el desempeño de su emp
 
 IV. Se conducen de buena fe en el llenado de los formatos de declaraciones de situación patrimonial y las de posibles conflictos de interés;
 
-V. Se abstienen de recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo para atender, tramitar o resolver las contrataciones públicas, concesiones, licencias, permisos o autorizaciones y sus prórrogas, baja de bienes y aquéllos relacionados con la materia de peritos, así como los procedimientos previstos en el artículo 1, punto 1, de la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+V. Se abstienen de recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo para atender, tramitar o resolver las contrataciones públicas, concesiones, licencias, permisos o autorizaciones y sus prórrogas, baja de bienes y aquellos relacionados con la materia de peritos, así como los procedimientos previstos en el artículo 1, punto 1, de la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios; y cualquier trámite o procedimiento de carácter administrativo o jurisdiccional instaurado ante el Tribunal;
 
 VI. Se conducen con probidad y respeto en el manejo de la información que proporcionan los particulares en los procedimientos referidos en la fracción anterior;
 
@@ -304,7 +306,9 @@ VIII. Las demás que se determinen en cualquier otra disposición legal o admini
 
 Los servidores públicos del Tribunal tutelan el principio de imparcialidad, cuando salvaguardan las siguientes reglas:
 
-I. Se abstienen de participar en la tramitación, atención y resolución de los procedimientos de contrataciones públicas, autorizaciones, concesiones, permisos y licencias y sus prórrogas, baja de bienes, aquéllos relacionados con la materia de peritos, así como los previstos en el artículo 1, punto 1, de la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios, de manera directa o por medio de familiares hasta el cuarto grado, con la finalidad de obtener algún beneficio en los procedimientos que intervengan en la tramitación, atención o resolución de los procedimientos de contrataciones públicas, otorgamiento de concesiones, licencias, permisos o autorizaciones y sus prórrogas;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+I. Se abstienen de participar en la tramitación, atención y resolución de los procedimientos de carácter jurisdiccional o administrativo, de contrataciones públicas, autorizaciones, concesiones, permisos y licencias y sus prórrogas, baja de bienes, aquéllos relacionados con la materia de peritos, así como los previstos en el artículo 1, punto 1 de la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios, de manera directa o por medio de parientes consanguíneos o por afinidad hasta el cuarto grado o de terceros, con la finalidad de obtener algún beneficio, concesión, prestación, dádiva, obsequio, regalo o lucro indebido;
 
 II. Evitan conceder a las personas físicas o jurídicas que participan en los procedimientos señalados en la fracción anterior que se encuentren en el ámbito de su competencia, preferencias o privilegios de cualquier tipo en razón de intereses personales, familiares o de negocios, de ser el caso;
 
@@ -356,9 +360,13 @@ VI. Las demás que se determinen en cualquier otra disposición legal o administ
 
 Los servidores públicos del Tribunal tutelan el principio de legalidad, cuando respetan las siguientes reglas:
 
-I. Actúan de conformidad con las atribuciones que las normas les confieren, consientes que el respeto irrestricto a las mismas es una característica inherente al servicio público;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-II. Preservan la credibilidad y la confianza de la ciudadanía al garantizar que el ejercicio de sus funciones se sujeta a los ordenamientos legales y administrativos;
+I. Actúan de conformidad con las atribuciones que las normas les confieren, conscientes que el respeto irrestricto a las mismas es una característica inherente al servicio público;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+II. Generan la credibilidad y la confianza de la ciudadanía al garantizar que el ejercicio de sus funciones se sujeta a los ordenamientos legales y administrativos aplicables;
 
 III. Conocen, respetan y cumplen el marco normativo relativo a su empleo, cargo o comisión;
 
@@ -402,7 +410,9 @@ V. Las demás que se determinen en cualquier otra disposición, legal o administ
 
 Los servidores públicos del Tribunal tutelan el principio de transparencia, cuando respetan las siguientes reglas:
 
-I. Brindan y facilitan información fidedigna, completa y oportuna a los solicitantes;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+I. Brindan y facilitan información fidedigna, completa y oportuna a los solicitantes de acuerdo con la normatividad aplicable en materia de transparencia;
 
 II. Desarrollan e implementan mecanismos que permitan a la ciudadanía conocer el desarrollo de la actividad gubernamental;
 
@@ -424,7 +434,9 @@ Los servidores públicos del Tribunal tutelan los principios de rendición de cu
 
 I. Contribuyen con la institución para que se instrumenten los mecanismos de rendición de cuentas;
 
-II. Mantienen en orden y apegadas a la normatividad las actividades y recursos que me han sido asignados para el cumplimiento de su empleo, cargo o comisión;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+II. Mantienen en orden y apegadas a la normatividad las actividades y recursos que les han sido asignados para el cumplimiento de su empleo, cargo o comisión;
 
 III. Contribuyen con los órganos fiscalizadores para atender las observaciones y recomendaciones emitidas por incumplimiento en el desempeño y el manejo de recursos;
 
@@ -436,7 +448,9 @@ V. Evitan falsear, ocultar o alterar la información que se presenta ante las in
 
 Los servidores públicos del Tribunal tutelan los principios de austeridad, cuando respetan las siguientes reglas:
 
-I. Usan y asignan de forma transparente, equitativa e imparcial y bajo los criterios de racionalidad, austeridad y ahorro, los recursos humanos, materiales y financieros, para que el trabajo, tareas e instrucciones que me sean encomendadas se realicen de manera eficiente, utilizándolos con responsabilidad;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+I. Usan y asignan de forma responsable, transparente, equitativa e imparcial y bajo los criterios de racionalidad y ahorro, los recursos humanos, materiales y financieros, para que el trabajo, tareas e instrucciones que le sean encomendadas se realicen de manera eficiente;
 
 II. Utilizan las instalaciones o áreas comunes para cuestiones estrictamente laborales en los tiempos y horarios asignados;
 
@@ -714,9 +728,13 @@ XI. Eludir establecer estándares o protocolos de actuación en aquellos trámit
 
 DE LOS PROCEDIMIENTOS ANTE EL TRIBUNAL.
 
-El servidor público del Tribunal que en el ejercicio de su empleo, cargo comisión o función, participa en procedimientos administrativos o jurisdiccionales, respeta las formalidades esenciales del procedimiento y la garantía de audiencia, observando en todo momento los principios de imparcialidad, objetividad y discreción en los asuntos de los que tengan conocimiento, que impliquen contravención a la normatividad, así como al Código de Ética y demás disposiciones en materia de responsabilidades de los servidores públicos.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+El servidor público del Tribunal que en el ejercicio de su empleo, cargo, comisión o función, participa en procedimientos administrativos o jurisdiccionales, respeta las formalidades esenciales del procedimiento y la garantía de audiencia, observando en todo momento los principios de imparcialidad, objetividad y discreción de asuntos de los que tenga conocimiento, evitando actuar en contravención a la normatividad aplicable en el ejercicio de sus funciones, demás disposiciones en materia de responsabilidades de los servidores públicos y el presente Código de Ética.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Cumplen esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
 I. Orientar permanentemente su actuación con apego a la ley;
 
@@ -849,3 +867,17 @@ CUARTO.- Con fundamento en lo dispuesto por el artículo 16 segundo párrafo de 
 L C. P. JESÚS JIMÉNEZ CAZARES
 
 TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO OIC/AG/03/2018 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE ÉTICA Y LAS REGLAS DE INTEGRIDAD PARA LOS SERVIDORES PÚBLICOS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO”.]
+
+PRIMERO.- La presente reforma al Código de Ética y las Reglas de Integridad para los Servidores Públicos del Tribunal de Justicia Administrativa, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Con fundamento en lo dispuesto por el artículo 16, segundo párrafo de la Ley General de Responsabilidades Administrativas y 86, fracción XX del Reglamento Interno del Tribunal de Justicia Administrativa del Estado de Jalisco, se ordena la publicación de la presente reforma al Código de Ética y las Reglas de Integridad para los Servidores Públicos del Tribunal de Justicia Administrativa, en el Periódico Oficial "El Estado de Jalisco", así como en el portal web del Tribunal de Justicia Administrativa del Estado de Jalisco.
+
+TERCERO.- Dese vista al Secretario General de Acuerdos del Tribunal de Justicia Administrativa del Estado de Jalisco, a efectos de que realice las gestiones necesarias para la publicación en los estrados del Tribunal de Justicia Administrativa de la presente reforma al Código de Ética y las Reglas de Integridad para los Servidores Públicos del Tribunal de Justicia Administrativa del Estado de Jalisco.
+
+CUARTO.- Con fundamento en lo dispuesto por el artículo 16, segundo párrafo de la Ley General de Responsabilidades Administrativas, gírense oficios a la Sala Superior, Junta de Administración, Dirección General Administrativa, Dirección de Visitaduría y Estadística, Secretaría General de Acuerdos, Unidad de Transparencia y a las diversas Salas Unitarias, a fin de que hagan del conocimiento al personal a su cargo.
