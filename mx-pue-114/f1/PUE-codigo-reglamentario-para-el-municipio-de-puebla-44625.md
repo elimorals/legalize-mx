@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2018-09-07"
+last_updated: "2018-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -26545,9 +26545,13 @@ b) El H. Ayuntamiento creará un fondo ambiental, mediante el cual con las aport
 
 c) El H. Ayuntamiento de Puebla podrá crear los fideicomisos que considere pertinentes para lograr la consecución de los programas que establezca el Plan de Gestión Ambiental.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 1735.
 
-El H. Ayuntamiento, con el fin de reducir la existencia de actividades que perjudiquen o alteren el medio ambiente o el equilibrio ecológico, considerarán en las propuestas al Proyecto de Ley de Ingresos para el ejercicio fiscal correspondiente, disposiciones relativas al establecimiento de tasas especiales y demás que se estimen conducentes para las personas físicas o morales cuyo aprovechamiento del suelo, giro o actividad realizada tenga por objeto la producción de bienes que puedan generar un desequilibrio, contaminación o contingencia ambiental.
+Con el objetivo de reducir la generación de residuos sólidos se prohíbe la adquisición de utensilios desechables como platos, vasos, cubiertos y cualquier otro similar fabricados en unicel, poliestireno o plástico no reutilizable; así como de agua embotellada en envases no retornables; en las compras que se realicen para las actividades de las Dependencias y Entidades de la administración pública municipal. Asimismo para coadyuvar a reducir la contaminación de los ríos se prohíbe la adquisición de limpiadores y detergentes que contengan fosfato y que no sean rápidamente biodegradables.
+
+Se exceptúan de lo mencionado en el párrafo anterior la atención a emergencias, contingencias, las actividades y operativos que por su naturaleza lo requieran.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -29299,7 +29303,7 @@ La persona con que se entienda la inspección estará obligada a permitir el lib
 
 ###### Artículo 1912.
 
-Admitidas y desahogadas las pruebas ofrecidas por el o los interesados, o habiendo transcurrido el plazo a que se refiere la fracción VIII o (sic) XI del artículo 1910, sin que hayan hecho uso de ese derecho, la autoridad ordenadora y una vez cumplido el término, lo turnará al Juez Calificador para que dentro de los diez días hábiles siguientes valore los elementos aportados y dicte la resolución definitiva que corresponda, misma que mandará notificar al interesado, personalmente o por correo certificado con acuse de recibo.
+Admitidas y desahogadas las pruebas ofrecidas por el o los interesados, o habiendo transcurrido el plazo a que se refiere la fracción VIII o XI del artículo 1910, sin que hayan hecho uso de ese derecho, la autoridad ordenadora y una vez cumplido el término, lo turnará al Juez Calificador para que dentro de los diez días hábiles siguientes valore los elementos aportados y dicte la resolución definitiva que corresponda, misma que mandará notificar al interesado, personalmente o por correo certificado con acuse de recibo.
 
 Durante el procedimiento y antes de que se dicte resolución definitiva, el o los interesados y la Secretaría, a petición de aquéllos, podrán convenir la realización de las acciones de mitigación y compensación de daños necesarias para corregir las presuntas irregularidades observadas o salvaguardar la vida y el bienestar del animal o los animales motivo de la visita de inspección, incluso con la intervención o apoyo de alguna asociación protectora de animales interesada. La instrumentación y verificación del cumplimiento de dicho convenio, se realizará en los términos del artículo 1913 de este Código.
 
@@ -33209,7 +33213,7 @@ II. Los que celebre un representante o promotor con una empresa, respecto a una 
 
 III. Los de exclusividad, celebrados por un promotor o representante con una empresa para el efecto de que el boxeador actúe bajo su promoción por un tiempo determinado, de acuerdo con las cláusulas en el contrato respectivo, o entre éstos y el boxeador directamente en condiciones especiales.
 
-Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
+Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en que se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
 
 Una vez registrado y autorizado el contrato, se entregará un tanto al representante, otro al boxeador y el restante quedará depositado en el archivo de la Comisión.
 
@@ -33515,7 +33519,7 @@ Como un estímulo para los luchadores, se constituye en el Municipio, el título
 
 ###### Artículo 2236.
 
-Para poder ostentar cualquier título, será necesario contar con licencia legalmente expedida por la Comisión, o bien por alguna otra Comisión o Consejo de Lucha Libre Municipal, en los términos establecidos por el presente Capitulo.
+Para poder ostentar cualquier título, será necesario contar con licencia legalmente expedida por la Comisión, o bien por alguna otra Comisión o Consejo de Lucha Libre Municipal, en los términos establecidos por el presente Capítulo.
 
 El Título de Campeón Estatal de Lucha Libre, se otorgará al que resulte vencedor de quien actualmente y de manera legal ostente un Campeonato, reconocido por las Comisiones o Consejos de Box y Lucha del Estado.
 
@@ -37564,3 +37568,13 @@ PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicac
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
 
 TERCERO. Se concede un plazo de treinta días a partir de la entrada en vigor del presente Dictamen para hacer exigibles los requisitos establecidos en los artículos 629 Bis y 629 Ter, a efecto de que los particulares puedan cumplir con los mismos.
+
+P.O. 4 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 14 DE SEPTIEMBRE DE 2018, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE DESARROLLO URBANO Y MEDIO AMBIENTE, POR EL QUE REFORMA EL ARTÍCULO 1735 DEL LIBRO QUINTO “ECOLOGÍA”, CAPÍTULO 26 “DE DESARROLLO URBANO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA”, DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. La presente la (sic) reforma del artículo 1735 del Libro Quinto “ECOLOGÍA”, Capítulo 26 “De Desarrollo Urbano Sustentable En Materia Ecológica Y Protección Al Ambiente Natural Del Municipio De Puebla” del Código Reglamentario para el Municipio de Puebla son de orden general y entrarán en vigor un día después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para lograr los efectos de la presente reforma, desde la entrada en vigor del presente Dictamen, las Dependencias y Entidades de la administración pública municipal deberán promover entre su personal el uso de utensilios reutilizables; de la misma forma, se deberán acondicionar gradualmente los espacios para la adecuada limpieza de los mismos y se deberá considerar entre las actividades del área de servicios generales para tal fin.
+
+TERCERO. Se dejan a salvo los derechos de los proveedores que tengan contratos celebrados con el H. Ayuntamiento por todo el tiempo de la vigencia estipulada en cada instrumento.
