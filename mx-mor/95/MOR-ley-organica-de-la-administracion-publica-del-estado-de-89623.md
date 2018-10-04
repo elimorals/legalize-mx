@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2018-07-11"
+last_updated: "2018-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MOR"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PUBLICADA EN EL P.O. DE 4 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -2276,3 +2278,33 @@ VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la Administración Púb
 VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Centro de Evaluación y Control de Confianza del Estado de Morelos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrito a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto; en especial los derechos de la acreditación otorgada por el Centro Nacional de Certificación y Acreditación.
 
 VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conducentes ante el Centro Nacional de Certificación y Acreditación, con relación a las adecuaciones realizadas por virtud de este Decreto, respecto del Centro de Evaluación y Control de Confianza del Estado de Morelos.
+
+P.O. 4 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CINCO.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase la presente Ley al Gobernador del Estado para los efectos de lo dispuesto por los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto será publicado en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, y entrará en vigor al día siguiente de su publicación.
+
+TERCERA. Se abroga la Ley Orgánica de la Administración Pública del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad” número 5030, el día 28 de septiembre de 2012 y se derogan las demás disposiciones legales de igual o menor rango jerárquico que se opongan a lo establecido en la presente Ley.
+
+CUARTA. Para el cumplimiento de la presente Ley, el Gobernador del Estado a través de las instancias competentes, podrá reorganizar la estructura orgánica de la Secretaría o Dependencia respectiva, así como crear, fusionar o disolver las áreas o unidades administrativas necesarias, realizando las adecuaciones presupuestales de conformidad con lo previsto en el presupuesto de egresos del Estado de Morelos para el ejercicio fiscal correspondiente; por cuanto a los recursos humanos adscritos a las Unidades Administrativas que desaparecen por virtud del presente Decreto, se estará a lo previsto en la Ley del Servicio Civil del Estado de Morelos.
+
+QUINTA. El personal de las Secretarías, Dependencias o Entidades que, con la aplicación de este Decreto se adscriba a otras, en ninguna forma será afectado en los derechos que haya adquirido por su relación laboral con la Administración Pública del Estado.
+
+SEXTA. Cuando alguna atribución de las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado de Morelos que se abroga, pase a otra dependencia, el traspaso se hará incluyendo el personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la Secretaría o Dependencia haya utilizado para la atención de los asuntos a su cargo. Además de éstos, se traspasarán también los recursos financieros y presupuestales autorizados en el Presupuesto Anual de Egresos del Estado. Los traspasos anteriores serán coordinados y supervisados por la Secretaría de Hacienda y la Secretaría de Administración.
+
+SÉPTIMA. Cuando en alguna otra disposición normativa se haga referencia a las Secretarías de Economía, del Trabajo, de Turismo, de Cultura, de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán referidas a las Secretarías de Desarrollo Económico y del Trabajo, de Turismo y Cultura y la Comisión Estatal de Seguridad Pública, respectivamente.
+
+OCTAVA. Los asuntos competencia de la Coordinación Estatal de Reinserción Social, que se estén tramitando actualmente y aquellos que se presenten hasta antes de la expedición del ordenamiento reglamentario de la Comisión Estatal de Seguridad Pública, serán atendidos por ésta, de conformidad con la legislación y reglamentación aplicables, adoptando la Comisión Estatal de Seguridad Pública todas las facultades, atribuciones, funciones y obligaciones que en la diversa legislación inherente a la materia, le hayan sido conferidas a la Coordinación citada.
+
+NOVENA. Se adscribe a la Comisión Estatal de Seguridad Pública, el órgano desconcentrado denominado Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y el Centro Estatal de Prevención Social de la Violencia y Delincuencia con Participación Ciudadana.
+
+DÉCIMA. Se abroga el Decreto por el que se crea la Coordinación Estatal de Reinserción Social como órgano desconcentrado de la Secretaría de Gobierno del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad” número 5087 de fecha 03 de mayo de 2013.
+
+DÉCIMA PRIMERA. Las atribuciones conferidas en otros ordenamientos jurídicos o instrumentos en que se refieran a las Secretarías de Economía, del Trabajo, de Turismo y de Cultura, se entenderán asignadas y referidas a la Secretaría de Desarrollo Económico y del Trabajo y a la Secretaría de Turismo y Cultura, respectivamente.
+
+DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días naturales, contados a partir de la entrada en vigor de la presente Ley, para realizar la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios de la misma.
+
+DÉCIMA TERCERA. Dentro de un plazo de 30 días hábiles, contados a partir de la entrada en vigor de la presente Ley, se deberán realizar las adecuaciones a las leyes, reglamentos y demás disposiciones que resulten aplicables de conformidad a la presente Ley; hasta en tanto, seguirán vigentes los actuales en lo que no se contrapongan a lo dispuesto por la misma.
