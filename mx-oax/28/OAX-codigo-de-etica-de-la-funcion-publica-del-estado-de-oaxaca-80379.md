@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-etica-de-la-funcion-publica-del-estado-de-oaxaca-8037
 country: "mx"
 rank: "codigo"
 publication_date: "2011-03-16"
-last_updated: "2011-03-16"
+last_updated: "2018-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO DE ETICA DE LA FUNCION PUBLICA DEL ESTADO DE OAXACA
 
-CODIGO DE ETICA DE LA FUNCION PUBLICA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 4 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE ÉTICA DE LA FUNCIÓN PÚBLICA DEL ESTADO DE OAXACA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2018 (ABROGADA).
 
 Código publicado en el Número Extra al Periódico Oficial del Estado de Oaxaca, el miércoles 16 de marzo de 2011.
 
@@ -208,3 +210,23 @@ Secretaria de la Contraloría y Transparencia Gubernamental
 Andrés Webster Henestrosa
 
 Secretario de las Cultura y Artes de Oaxaca
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO.- QUE TIENE POR OBJETO EXPEDIR EL CÓDIGO DE ÉTICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, LAS REGLAS DE INTEGRIDAD DE LA ADMINISTRACIÓN PÚBLICA DE OAXACA Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD Y EL COMPORTAMIENTO ÉTICO DE SERVIDORAS Y SERVIDORES PÚBLICOS DEL ESTADO EN EL DESEMPEÑO DE SUS EMPLEOS; CARGOS O COMISIONES, A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTO DE INTERÉS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Código de Ética de la Función Pública publicado en el Periódico Oficial del Gobierno del Estado el 16 de marzo de 2011.
+
+TERCERO. Los Comités de Ética y de Prevención de Conflictos de Intereses deberán estar constituidos en los términos de los Lineamientos Generales para propiciar la integridad y el Comportamiento Ético de Servidoras y Servidores Públicos del Estado en el desempeño de sus empleos, cargos o comisiones, en un plazo de 60 días, contados a partir de la entrada en vigor del presente acuerdo.
+
+CUARTO. La Secretaría de la Contraloría y Transparencia Gubernamental publicará en su página de internet, dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Acuerdo, la relación de las Dependencias, Entidades y Órganos Auxiliares que cuentan con Comité de Ética y de Prevención de Conflictos de Interés.
+
+QUINTO. En tanto se lleva a cabo la creación de la Dirección de Ética, Integridad, Conflicto de Interés y Normatividad, las disposiciones jurídicas por las que se confiera atribuciones a estas, se entenderán referidas a la Secretaría de Responsabilidades Administrativas y Anticorrupción.
+
+SEXTO. La Secretaría de la Contraloría y la Subsecretaría de Responsabilidades Administrativas y Anticorrupción, vigilarán la observancia del presente acuerdo, y resolverá los casos no previstos en el mismo.
+
+SÉPTIMO. La Secretaría de la Contraloría, el ámbito de sus atribuciones, será la dependencia encargada de difundir y promover el cumplimento el Código de Ética.
