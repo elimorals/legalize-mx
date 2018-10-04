@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-125
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2017-12-28"
-last_updated: "2018-03-02"
+last_updated: "2018-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL DE 2018
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Primera al No. 128 del Periódico Oficial del Estado de Nayarit, el jueves 28 de diciembre de 2017.
 
@@ -310,6 +310,10 @@ SUMA DE OTROS INGRESOS FEDERALES 2´487,237,456.00
 TOTAL DE INGRESOS FEDERALES 19´717,774,115.00
 
 G R A N T O T A L 21´035,949,278.00
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
+Los ingresos que la Hacienda Pública del Estado percibirá durante el ejercicio fiscal del 2018 antes listados podrán incrementarse con motivo de la celebración de empréstitos hasta por la cantidad de $5, 607, 583, 753. 69 (Cinco Mil Seiscientos Siete Millones Quinientos Ochenta y Tres Mil Setecientos Cincuenta y Tres Pesos 69/100 M.N), conforme a lo dispuesto por el artículo 65 de la presente Ley.
 
 ## TÍTULO SEGUNDO. IMPUESTOS
 
@@ -4389,9 +4393,23 @@ Lo que con carácter extraordinario obtenga el Estado por este concepto.
 
 ## TÍTULO NOVENO. DE LOS EMPRÉSTITOS
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 65.
 
-Son los préstamos obtenidos por el Estado en la persecución de sus fines sociales.
+Son las operaciones constitutivas de un pasivo, directo o contingente a cargo del Estado, a que se refiere la Ley de Deuda Pública del Estado de Nayarit.
+
+Durante el presente ejercicio fiscal para el año 2018, los importes que resulten de la celebración de dichas operaciones podrán ascender a un monto máximo de $5, 607, 583, 753. 69 (Cinco Mil Seiscientos Siete Millones Quinientos Ochenta y Tres Mil Setecientos Cincuenta y Tres Pesos 69/100 M.N), más, en su caso, los gastos y costos asociados a la celebración de dichas operaciones conforme al decreto que autorice su contratación. Dichos recursos:
+
+I.- Se considerarán para todos los efectos legales como ingresos adicionales a los previstos en el artículo 1 de la presente Ley, y
+
+II.- Deberán ser destinados a inversión pública productiva, y/o al refinanciamiento y/o reestructuración de deuda pública, así como a los gastos y costos asociados a su celebración, incluyendo las reservas que, en su caso, deban constituirse en relación a los mismos; y deberán contratarse de conformidad con la Ley de Deuda Pública del Estado de Nayarit; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y la demás legislación que resulte aplicable; y, en todo caso, sujetándose a lo dispuesto por el artículo 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos.
+
+Adicionalmente, en términos de lo establecido en el artículo 27 del Reglamento del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios:
+
+a) Hasta el 2.5% (dos punto cinco por ciento) del monto de los financiamientos que se contraten en términos del Decreto de autorización respectivo, podrá destinarse al pago de primas, comisiones y costos asociados a la contratación y/o refinanciamiento y/o reestructuración de los financiamientos, tales como: costos relacionados a contrataciones y/o modificaciones de instrumentos derivados y/o garantías de pago oportuno, honorarios y gastos de calificadoras, asesores financieros y/o legales, honorarios fiduciarios, de fedatarios públicos y, en general, a cualquier erogación relacionada con el diseño, estructuración y/o contratación de las operaciones previstas en el Decreto de autorización respectivo; o
+
+b) En caso de no contratarse instrumentos derivados, ni garantías de pago, hasta el 1.5% (uno punto cinco por ciento) del monto de los financiamientos que se contraten en términos del Decreto de autorización respectivo, podrá destinarse al pago de primas, comisiones y costos asociados a la contratación de los financiamientos, tales como: honorarios y gastos de calificadoras, asesores financieros y/o legales, honorarios fiduciarios, de fedatarios públicos y, en general, a cualquier erogación relacionada con el diseño, estructuración y/o contratación de las operaciones previstas en el Decreto de autorización respectivo.
 
 ## TRANSITORIOS
 
@@ -4426,3 +4444,11 @@ P.O. 2 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 38 FRACCIÓN IV INCISO A) DE LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, PARA EL EJERCICIO FISCAL 2018”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT; PARA EL EJERCICIO FISCAL 2018”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas del marco jurídico estatal de igual o menor jerarquía en lo que se opongan al contenido de este Decreto.
