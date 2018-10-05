@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-relativo-a-la-regulacion-del-regimen-laboral-de-7066
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-04"
-last_updated: "2012-06-25"
+last_updated: "2018-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO RELATIVO A LA REGULACION DEL REGIMEN LABORAL DE LOS INTEGRANTES DE LA INSTITUCION POLICIAL MUNICIPAL Y DE LA PRESTACION DE SEGURIDAD SOCIAL DEL MUNICIPIO DE APODACA, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL MUNICIPIO DE APODACA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO RELATIVO A LA REGULACIÓN DEL RÉGIMEN LABORAL DE LOS INTEGRANTES DE LA INSTITUCIÓN POLICIAL MUNICIPAL Y DE LA PRESTACIÓN DE SEGURIDAD SOCIAL DEL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 4 de septiembre de 2009.
 
@@ -762,3 +764,55 @@ P.O. 25 DE JULIO DE 2012.
 PRIMERO.- El presente reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo león.
 
 SEGUNDO.- Se manda que se impriman, publiquen, circulen y se le dé el debido cumplimiento a las disposiciones de este reglamento, dadas en el Recinto Oficial de este Republicano Ayuntamiento ubicado en la Presidencia Municipal de Apodaca Nuevo León, a los 29 días del mes de Noviembre de 2011.
+
+P.O. 5 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 01 DE OCTUBRE DE 2018, SE APRUEBA (SIC) REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL MUNICIPIO DE APODACA, NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento del Servicio Profesional de Carrera Policial del Municipio de Apodaca, Nuevo León, publicado en el Periódico Oficial del Estado en fecha 31-treinta y uno de Marzo de 2014-dos mil catorce.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Relativo a la Regulación del Régimen Laboral de los Integrantes de la Institución Municipal y de la Prestación de Seguridad Social del Municipio de Apodaca, Nuevo León, publicado en el Periódico Oficial del Estado en fecha 04-cuatro de Septiembre de 2009-dos mil nueve.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Reglamento de la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública, Policía y Transito del Municipio de Apodaca, Nuevo León, publicado en el Periódico Oficial del Estado en fecha 28-veintiocho de Junio del 2013-dos mil trece. Y los procedimientos que se encuentren activos o pendientes por resolver se sustanciaran conforme a lo dispuesto a la normatividad aplicable con la cual se dieron inicio.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones jurídicas que contravengan lo dispuesto en el presente Reglamento
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Seguridad Pública y Vialidad del Municipio de Apodaca, Nuevo León deberá realizar todas las acciones necesarias tendientes a cumplir el contenido del presente Reglamento.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Municipio celebrará Convenios de Coordinación con el Estado, con objeto de ir implementando gradualmente el Servicio Profesional de Carrera Policial, en los términos de su legislación interna y el presente Reglamento.
+
+###### ARTÍCULO OCTAVO.
+
+El Municipio realizará todas las acciones de coordinación necesarias, a fin de proceder, desde luego, a elaborar el perfil de puestos por competencia del Servicio Profesional de Carrera Policial.
+
+###### ARTÍCULO NOVENO.
+
+Los órganos a que se refiere el presente Reglamento, se integrarán en un término no mayor de 60-sesenta días a la publicación del mismo.
+
+ARTÍCULO DÉCIMO PRIMERO (SIC).- Cuando las funciones o atribuciones de alguna unidad administrativa municipal, establecida con anterioridad a la vigencia de este reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece, o cuando se cambie de adscripción, del personal, mobiliario, archivo y en general el equipo que aquella hubiera utilizado, pasarán a la unidad que previamente se determine.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Para los efectos del personal en activo se dispondrá de un período de migración que no excederá de un año para que los elementos de la Institución cubran con los siguientes criterios:
+
+a. Que tengan aprobadas las evaluaciones de control de confianza;
+
+b. Que tengan la equivalencia a la formación inicial y;
+
+c. Que cubran con el perfil de puesto con relación a la nivelación académica.
