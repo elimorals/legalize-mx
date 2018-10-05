@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-99966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2018-08-15"
+last_updated: "2018-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 26 de marzo de 2014.
 
@@ -61,6 +61,10 @@ II. Autoridad Educativa Federal: La Secretaría de Educación Pública del Gobie
 
 III. Autoridad Educativa Estatal: El Gobierno del Estado, a través de la Secretaría de Educación Pública y Cultura (SEPyC);
 
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+III Bis. Autoridades Escolares: Personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares;
+
 IV. Ley General: La Ley General de Educación;
 
 V. Ley: La Ley de Educación para el Estado de Sinaloa;
@@ -83,9 +87,11 @@ La interpretación, aplicación y vigilancia del cumplimiento de esta Ley corres
 
 La función social educativa de las universidades y demás instituciones de educación superior, a que se refiere la fracción VII, del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las leyes que rigen a dichas instituciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 5°.
 
-Los habitantes del Estado tienen derecho a recibir educación de calidad y, para ello, tendrán las mismas oportunidades de acceso, permanencia y promoción en el Sistema Educativo Estatal, cumpliendo los requisitos que establezcan las disposiciones aplicables. Las instituciones oficiales que forman parte del Sistema Educativo Estatal no podrán negarse a admitir a alumnos por motivos políticos, sociales, económicos, raciales, ideológicos, religiosos o por causas imputables a sus progenitores o a quienes tuvieren su guarda, tutela o patria potestad.
+Los habitantes del Estado tienen derecho a recibir educación de calidad en condiciones de equidad y, para ello, tendrán las mismas oportunidades de acceso, permanencia y promoción en el Sistema Educativo Estatal, cumpliendo los requisitos que establezcan las disposiciones aplicables. Las instituciones oficiales que forman parte del Sistema Educativo Estatal no podrán negarse a admitir a alumnos por motivos políticos, sociales, económicos, raciales, ideológicos, religiosos o por causas imputables a sus progenitores o a quienes tuvieren su guarda, tutela o patria potestad.
 
 La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura; es un proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad.
 
@@ -107,9 +113,11 @@ Es obligación de los sinaloenses hacer que sus hijos o pupilos, cursen la educa
 
 De conformidad con el artículo 24 de la Constitución Política de los Estados Unidos Mexicanos, la libertad de creencias, la educación que impartan los gobiernos estatal y municipales, directamente o a través de sus organismos desconcentrados y descentralizados será laica, y se mantendrá ajena a cualquier doctrina religiosa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 9°.
 
-La educación que imparta el Estado será gratuita y de calidad. Las donaciones o cuotas voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestación del servicio educativo. Las autoridades educativas, en el ámbito de su competencia, establecerán los mecanismos para la reglamentación, aplicación, transparencia de su destino y vigilancia de las donaciones o cuotas voluntarias.
+La educación que imparta el Estado será gratuita y de calidad. Las donaciones o cuotas voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestación del servicio educativo. La autoridad educativa estatal, establecerá los mecanismos para la reglamentación, aplicación, transparencia de su destino y vigilancia de las donaciones o cuotas voluntarias.
 
 Se prohíbe el pago de cualquier contraprestación que condicione o impida la prestación del servicio educativo a los educandos.
 
@@ -131,7 +139,9 @@ Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria
 
 V. Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permita participar en la toma de decisiones al mejoramiento de la sociedad;
 
-VI. Promover la observancia de las virtudes y valores éticos universales como el de la justicia, prudencia, fortaleza, templanza, de la observancia de la Ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como la promoción de la cultura del respeto a los Derechos Humanos;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+VI. Promover la observancia de las virtudes y valores éticos universales como el de la justicia, prudencia, fortaleza, templanza, de la observancia de la Ley y del reconocimiento de la igualdad de los individuos ante ésta, de la no discriminación, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, fomentar la valoración de la diversidad, y la cultura de inclusión como condiciones para el enriquecimiento social y cultural, así como la promoción de la cultura del respeto a los Derechos Humanos;
 
 VII. Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas;
 
@@ -495,7 +505,9 @@ Para alcanzar la equidad en la educación, las autoridades educativas estatal y 
 
 I. Prestar servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo, para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia y egreso, por igual a varones y a mujeres;
 
-II. Fortalecer la educación especial e inicial, incluyendo a las personas con discapacidad;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+II. Fortalecer la educación especial e inicial, incluyendo a las personas con discapacidad, mediante el desarrollo de programas de capacitación, asesoría y apoyo a los maestros y demás personal de los centros escolares que atiendan alumnos con discapacidad y con aptitudes sobresalientes, bajo el principio de inclusión;
 
 III. Establecer y fortalecer los sistemas de educación a distancia que determine la Autoridad Educativa Federal y los que apruebe la Autoridad Educativa Estatal, conforme a los lineamientos y normas aplicables;
 
@@ -509,19 +521,43 @@ VII. Impulsar esquemas eficientes para el suministro de alimentos nutritivos par
 
 VIII. Todas aquellas que sean necesarias para alcanzar la equidad, reducir y superar el rezago educativo, ampliar la cobertura de los servicios educativos y alcanzar los propósitos mencionados en la presente Ley.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+En la impartición de educación para menores de edad, se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social, sobre la base del respeto a su dignidad; y que la aplicación de la disciplina escolar, sea compatible con su edad.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+Se brindarán cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+En caso de que las y los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de las y los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
+
 ###### Artículo 28.
 
 La Autoridad Educativa Estatal aplicará los programas compensatorios implementados por la Autoridad Educativa Federal, a través de los recursos específicos que para tal efecto designe esta última, considerando preferentemente las regiones con mayores rezagos educativos, previa celebración de convenios en los que se establezcan las proporciones de financiamiento y las acciones específicas que las autoridades educativas locales deban realizar para reducir y superar dichos rezagos.
 
 El Instituto Nacional para la Evaluación de la Educación y la Autoridad educativa Estatal de conformidad a los lineamientos que para tal efecto expida el Instituto, evaluarán, en los ámbitos de sus competencias, los resultados de calidad educativa de los programas compensatorios antes mencionados.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 29.
 
-La educación especial está destinada a personas con discapacidad, transitoria o permanente, así como a aquéllas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente.
+La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, así como de aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
+
+Tratándose de personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial, atendiendo a sus necesidades. Se realizarán ajustes razonables y se aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias, para garantizar la satisfacción de las necesidades básicas de aprendizaje de los alumnos y el máximo desarrollo de su potencial, para la autónoma integración a la vida social y productiva. Las instituciones educativas promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
+
+La formación y capacitación de maestros y demás personal de los centros escolares, promoverá la educación inclusiva y desarrollará las competencias necesarias para su adecuada atención.
+
+La educación especial deberá incorporar los enfoques de inclusión e igualdad sustantiva. Esta educación abarcará la capacitación y orientación a los padres o tutores; así como también a los maestros y personal de escuelas de educación básica y media superior que atiendan a alumnos con discapacidad, con dificultades severas de aprendizaje, de comportamiento o de comunicación, o bien con aptitudes sobresalientes.
+
+Quienes presten servicios educativos en el marco del Sistema Educativo Estatal atenderán las disposiciones en materia de infraestructura y accesibilidad a personas con discapacidad, señaladas en la legislación correspondiente.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 30.
 
-Tratándose de menores de edad con discapacidad, la educación especial propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
+Tratándose de menores de edad con discapacidad, la educación especial propiciará su integración a los planteles en todas las vertientes educativas, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
 
 ###### Artículo 31.
 
@@ -646,6 +682,10 @@ XII. Las demás que se creen para lograr el mejoramiento permanente de la educac
 XIII. El Consejo de Autoridades Educativas del Estado de Sinaloa; como órgano de asesoría y consulta, auxiliar de la Autoridad Educativa Estatal en materia de programas, normatividad y planeación educativa; y
 
 XIV. Reglamentos, normas, lineamientos que se expidan por las autoridades educativas federal y estatal, para armonizar el servicio educativo en la tendencia hacia la mejora permanente de la calidad educativa.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+Las instituciones del Sistema Educativo Estatal impartirán educación de manera que permita al educando su plena inclusión y participación en la sociedad y, en su oportunidad, el desarrollo de una actividad productiva y que permita, asimismo, al trabajador estudiar.
 
 ### CAPÍTULO II. DE LOS CONSEJOS TÉCNICOS ESCOLARES
 
@@ -911,6 +951,10 @@ La educación media-superior, a que se refiere el artículo 56, de esta Ley; es 
 
 La educación media-superior tiene la finalidad de proporcionar a los alumnos una formación cultural integral, una preparación adecuada para desempeñar un oficio o trabajo específico y un desarrollo completo de su personalidad. Estos estudios constituyen requisito indispensable para ingresar a la educación de tipo superior.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+La educación media-superior será incluyente y garantizará que las personas con discapacidad cuenten con la base de la igualdad de oportunidades para continuar estudiando a través de políticas de accesibilidad, ajustes razonables, así como programas de formación y capacitación.
+
 ###### Artículo 81.
 
 Las áreas, asignaturas y actividades que deba cursar o realizar el educando en este nivel se distribuirán e impartirán, como mínimo, durante tres ciclos lectivos anuales enlazados en forma progresiva, salvo los servicios de educación preparatoria abierta que presta el Estado o la opción educativa, virtual o en línea, que utilice plataformas de internet o software debidamente autorizados por la SEPyC, así como aquellos que hayan sido debidamente autorizados por la autoridad educativa correspondiente.
@@ -1015,6 +1059,10 @@ La educación superior comprende los estudios técnicos previos a la licenciatur
 
 Las instituciones de educación superior deberán pugnar por formar los profesionales, técnicos superiores, maestros, doctores e investigadores que requiera el desarrollo del Estado, provistos de conocimientos, satisfactoria capacidad técnica y sólida formación ética y social.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+La educación superior será incluyente y garantizará que las personas con discapacidad cuenten con la base de la igualdad de oportunidades para continuar estudiando a través de políticas de accesibilidad, ajustes razonables, así como programas de formación y capacitación.
+
 ###### Artículo 94.
 
 Las instituciones de educación superior, incluidas las de normal en todos sus niveles y especialidades, que pretendan establecerse o ampliarse en el Estado, deberán obtener previamente la opinión de procedencia emitida expresamente por la COEPES, con base en estudios técnicos de factibilidad y viabilidad.
@@ -1047,9 +1095,11 @@ La educación inicial, tendrá por objetivo ayudar a los niños en sus primeros 
 
 La educación especial, en concordancia con lo dispuesto en los artículos 29 a 32, está destinada a personas con discapacidad, transitoria o permanente, así como a aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 101.
 
-Tratándose de menores de edad con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
+Tratándose de menores de edad con discapacidad, esta educación propiciará su integración a los planteles en todas las vertientes educativas, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
 
 ###### Artículo 102.
 
@@ -1059,9 +1109,11 @@ Para la identificación y atención educativa de los alumnos con capacidades y a
 
 Las instituciones de educación superior autónomas por Ley, podrán establecer convenios con la autoridad educativa estatal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a alumnos con capacidades y aptitudes sobresalientes.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 104.
 
-La educación especial incluirá orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica regular que incorporen a alumnos con necesidades especiales de atención.
+La educación especial incluirá orientación a los padres o tutores, así como también a los maestros y personal de escuelas en todas las vertientes educativas que incorporen a alumnos con necesidades especiales de atención
 
 ### CAPÍTULO XIII. DE LA EDUCACIÓN PARA ADULTOS
 
@@ -1087,9 +1139,11 @@ A los estudiantes que participen voluntariamente brindando asesoría en esta edu
 
 ### CAPÍTULO XIV. DE LA FORMACIÓN PARA EL TRABAJO
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 110.
 
-La formación para el trabajo procurará la adquisición de conocimientos, habilidades y destrezas que permitan, desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación u oficio calificado.
+La formación para el trabajo procurará la adquisición de conocimientos, habilidades y destrezas que permitan, desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación u oficio calificado. Esta educación incluirá un capítulo especial dirigido a personas con discapacidad.
 
 ###### Artículo 111.
 
@@ -1335,7 +1389,9 @@ Para obtener un acuerdo de autorización o de reconocimiento de validez oficial 
 
 I. Contar con personal que acredite la preparación profesional requerida por esta Ley y sus disposiciones reglamentarias, para impartir educación en los tipos, niveles y modalidades que lo soliciten;
 
-II. Tener instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad otorgante determine;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+II. Tener instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad otorgante determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento;
 
 III. Aplicar los planes y programas de estudio sancionados por la Autoridad Educativa Federal, cuando se trate de solicitud de autorización para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica; y, para educación media superior, adherirse al Sistema Nacional de Educación Media Superior; y
 
@@ -1387,7 +1443,9 @@ La SEPyC emitirá la normativa correspondiente para realizar las tareas de inspe
 
 Los particulares que presten servicios por los que impartan estudios sin autorización o reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
-En el caso de educación inicial deberán tener personal que acredite la preparación adecuada para impartir la educación, contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la Autoridad Educativa Estatal determine.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+En el caso de educación inicial deberán, además, contar con el personal que acredite la preparación adecuada para impartir la educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad, que la autoridad educativa determine, conforme a los términos que señalen las disposiciones aplicables; cumplir con los requisitos a que alude el artículo 49 de esta Ley; presentar las evaluaciones que correspondan, de conformidad con lo señalado en las disposiciones legales correspondientes, así como facilitar la inspección y vigilancia de las autoridades competentes.
 
 ### CAPÍTULO IV. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACIÓN DE LOS CONOCIMIENTOS
 
@@ -1615,7 +1673,9 @@ VI. Representantes de organizaciones de la sociedad civil cuyo objeto sea la edu
 
 Los Consejos Municipales de Participación Social en la Educación, tendrán las atribuciones siguientes:
 
-I. Gestionar ante el ayuntamiento y ante la autoridad educativa estatal el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+I. Gestionar ante el ayuntamiento y ante la autoridad educativa estatal el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas, tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad, y demás proyectos de desarrollo educativo en el municipio;
 
 II. Conocer los resultados, mecanismos y criterios de las evaluaciones que realicen las autoridades educativas;
 
@@ -1723,7 +1783,9 @@ XXI. Administrar a los educandos, sin previa prescripción médica y consentimie
 
 XXII. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-XXIII. Expulsar o negarse a prestar el servicio educativo a niños, adolescentes y demás personas que presenten problemas de aprendizaje, condicionar su aceptación o permanencia en el plantel, a someterse a tratamientos específicos; así como presionar de cualquier manera a padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+XXIII. Expulsar, segregar o negarse a prestar el servicio educativo a niños, adolescentes, personas con discapacidad o que presenten problemas de aprendizaje; condicionar su aceptación o permanencia en el plantel, a someterse a tratamientos específicos; así como presionar de cualquier manera a padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos;
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -1996,3 +2058,13 @@ P.O. 15 DE AGOSTO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 819 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN Y DE LA LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD, AMBAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. En los niveles de educación básica, normal, media superior y superior, las autoridades educativas, en el ámbito de su competencia, establecerán en un plazo no mayor a 180 días, criterios generales para realizar los ajustes razonables que garanticen la educación inclusiva, con atención al principio de progresividad.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
