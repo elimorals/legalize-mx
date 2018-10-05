@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-regulacion-de-la-venta-y-consumo-de-alcohol-en-8948
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-18"
-last_updated: "2017-11-21"
+last_updated: "2018-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
@@ -55,11 +55,11 @@ III. Promover campañas de difusión encaminadas a prevenir y combatir el abuso 
 
 Ámbito de aplicación
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 2.
 
-Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de las secretarias de Finanzas y de Gobierno, así como a los municipios en su esfera competencial. También coadyuvarán en ello, la Procuraduría General de Justicia del Estado, las secretarías de Gobierno, de Educación y de Salud, y las áreas encargadas de seguridad pública y tránsito en los municipios del estado.
+Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de las secretarias de Finanzas y de Gobierno, así como a los municipios en su esfera competencial. También coadyuvarán en ello, la Fiscalía General del Estado, las secretarías de Gobierno, de Educación y de Salud, y las áreas encargadas de seguridad pública y tránsito en los municipios del estado.
 
 Supletoriedad
 
@@ -119,7 +119,9 @@ XXI. Miscelánea y tienda de abarrotes: Establecimiento donde se venden producto
 
 XXII. Permiso especial: Documento expedido por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza, con carácter provisional, hasta por treinta días naturales improrrogables, a personas físicas o morales, para llevar a cabo la venta al menudeo de bebidas alcohólicas en envase abierto y al copeo, en lugar determinado, el cual puede ser revocado por violaciones a esta ley o a otros ordenamientos aplicables o porque así lo requiera el interés público;
 
-XXIII. Procuraduría: La Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+XXIII. Fiscalía General: La Fiscalía General del Estado de Coahuila de Zaragoza;
 
 XXIV. Refrendo: Acto administrativo emitido por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza, mediante el cual se prorroga la vigencia de las licencias expedidas, por el término de un año;
 
@@ -177,7 +179,9 @@ III. La Secretaría de Gobierno;
 
 IV. (DEROGADA, P.O. 9 DE AGOSTO DE 2016)
 
-V. La Procuraduría General de Justicia, y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+V. La Fiscalía General del Estado; y
 
 VI. Los municipios del estado.
 
@@ -259,13 +263,15 @@ II. Dar a conocer a los municipios y de las dependencias competentes, todas las 
 
 III. Restringir en fechas o períodos específicos el horario de funcionamiento de los establecimientos a que se refiere la presente ley, por causas de interés público, así como cuando lo determine la Ley Federal del Trabajo, el Código Federal de Instituciones y Procedimientos Electorales o el Código Electoral para el Estado de Coahuila Zaragoza.
 
-Atribuciones de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 5 DE OCTUBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+Atribuciones de la Secretaría de Gobierno y de la Fiscalía General del Estado
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 12.
 
-Corresponde a la Secretaría de Gobierno y a la Procuraduría General de Justicia coadyuvar con las autoridades estatales y municipales en la vigilancia del cumplimiento de esta ley.
+Corresponde a la Secretaría de Gobierno y a la Fiscalía General coadyuvar con las autoridades estatales y municipales en la vigilancia del cumplimiento de esta ley.
 
 Atribuciones de los municipios
 
@@ -853,7 +859,7 @@ III. Señalar la autoridad que lo emite;
 
 IV. Señalar lugar y fecha de emisión;
 
-V. Estar fundado, motivado (sic) y señalar el objeto que persiga;
+V. Estar fundado, motivado y señalar el objeto que persiga;
 
 VI. El lugar o lugares donde debe efectuarse la inspección;
 
@@ -1406,6 +1412,14 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 5 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 62.- SE REFORMAN LOS ARTÍCULOS 2, 4, FRACCIÓN XXIII, 7, FRACCIÓN V Y 12 Y SU RESPECTIVO EPÍGRAFE TODOS ELLOS DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
 ###### ARTICULO PRIMERO.
 
