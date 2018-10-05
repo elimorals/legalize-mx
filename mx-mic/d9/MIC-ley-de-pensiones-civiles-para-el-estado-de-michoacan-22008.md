@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-pensiones-civiles-para-el-estado-de-michoacan-22008"
 country: "mx"
 rank: "ley"
 publication_date: "1980-05-08"
-last_updated: "2016-12-29"
+last_updated: "2018-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 8 de mayo de 1980.
 
@@ -561,15 +561,17 @@ Esta franquicia quedará insubsistente si los inmuebles fueren enajenados por lo
 
 El derecho a jubilación se adquiere cuando el servidor público se encuentra dentro de los supuestos consignados en esta Ley y satisfaga los requisitos que la misma establece.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 54.
 
-Tienen derecho a la jubilación los servidores públicos que tengan treinta años o más de servicio e igual tiempo de contribuir al fondo en los términos de esta ley, cualquiera que sea su edad y dejen de laborar.
+Tienen derecho a la jubilación los servidores públicos que tengan treinta años o más de servicio e igual tiempo de contribuir al fondo en los términos de la presente Ley, contando con 60 años de edad o más y dejen de trabajar.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 La jubilación dará derecho al pago de una cantidad equivalente al salario regulador del servidor público por promedio del salario base de cotización de los últimos tres años, con un máximo de hasta veinte veces el valor diario de la Unidad de Medida y Actualización y su percepción comenzará a partir del día siguiente a aquél en que el servidor público hubiese disfrutado del mismo, por haber causado baja.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 En el otorgamiento de jubilaciones y pensiones, se atenderá lo dispuesto en el reglamento que para tal efecto expida la Junta Directiva de la Dirección de Pensiones, para calcular el monto de las jubilaciones y pensiones se considerará el salario con el cual se cotiza a la Dirección de Pensiones.
 
@@ -891,13 +893,13 @@ Durante el año 2021
 
 el descuento será de: 11.00% 13.00% 24.00%
 
-CUARTO. Los servidores públicos que desde antes de la entrada en vigor del presente decreto hubieran cumplido en términos de ley los supuestos para el disfrute de cualquiera de las pensiones bajo el amparo de las anteriores condiciones, es decir que tienen derechos adquiridos, recibirán la jubilación o pensión correspondiente bajo tales condiciones.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
 
-Para los nuevos trabajadores que se incorporen al régimen de pensiones, el requisito para jubilarse, será de treinta años de servicio y sesenta años de edad.
+CUARTO. Tiene (sic) derecho a la jubilación los servidores públicos que desde la entrada en vigor del presente Decreto hubieran cumplido en términos de la Ley los supuestos para el disfrute de cualquiera de las pensiones bajo el amparo de las anteriores condiciones, es decir, que tienen derechos adquiridos, recibirán la jubilación o pensión correspondiente bajo tales condiciones.
 
-QUINTO. Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente decreto cotizan a la Dirección de Pensiones Civiles del Estado, el derecho a la jubilación se dará bajo el amparo de las anteriores condiciones, entendiéndose que tienen un derecho adquirido, salvo lo dispuesto en el segundo párrafo del artículo 54 de la presente Ley, y el Reglamento Interior de la Dirección de Pensiones Civiles del Estado.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
 
-Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente decreto cotizan a la Dirección de Pensiones Civiles del Estado pero les faltan algunos años de servicio para alcanzar la jubilación, el pago de la misma se dará bajo el amparo de las anteriores condiciones, entendiéndose que tienen un derecho adquirido, salvo lo dispuesto en el segundo párrafo del artículo 54 de la presente Ley, y el Reglamento Interior de la Dirección de Pensiones Civiles del Estado.
+QUINTO. Para el caso de servidores públicos que desde antes de la entrada en vigor del presente Decreto cotizan a la Dirección de Pensiones Civiles del Estado, tendrán derecho a la jubilación cuando tengan treinta años o más de servicio e igual tiempo de contribuir al fondo, cualquiera que sea su edad y dejen de laborar, el pago de la misma se dará conforme en lo establecido en el segundo párrafo del artículo 54 de la presente Ley, y el Reglamento para el Otorgamiento de Prestaciones de la Dirección de Pensiones Civiles del Estado, expedido por la H. Junta Directiva de Pensiones.
 
 SEXTO. Para el caso de los servidores públicos que actualmente cotizan a la Dirección de Pensiones Civiles del Estado antes de la entrada en vigor de las presentes modificaciones de Ley, el derecho a la pensión por vejez será acorde a lo establecido y al amparo de las anteriores condiciones, es decir contar con un mínimo de sesenta años de edad, en términos del artículo 57 de esta ley.
 
@@ -930,3 +932,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 5 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 638 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 54 DE LA LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACÁN; Y SE REFORMAN LOS ARTÍCULOS CUARTO Y QUINTO TRANSITORIOS, DEL DECRETO LEGISLATIVO 542, APROBADO POR LA LXXII LEGISLATURA, POR EL QUE SE REFORMÓ LA LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
