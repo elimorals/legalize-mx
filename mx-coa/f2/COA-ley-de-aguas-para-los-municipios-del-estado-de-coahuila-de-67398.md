@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aguas-para-los-municipios-del-estado-de-coahuila-de-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-24"
-last_updated: "2016-12-16"
+last_updated: "2018-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de febrero de 2009.
 
@@ -89,7 +89,7 @@ XVIII. La Comisión: la Comisión Estatal de Aguas y Saneamiento de Coahuila.
 
 XIX. Obras hidráulicas: el conjunto de obras y mecanismos construidos para el aprovechamiento, control o regulación del agua, así como para la prestación de los servicios a que se refiere la presente ley.
 
-XX. Organismo operador: la dependencia o entidad paramunicipal, pública o privada municipal o intermunicipal, descentralizada o desconcentrada, bajo la denominación de sistema municipal o el que se le asigne, que en los términos de la presente ley tiene la responsabilidad de organizar y tomar a su cargo, la administración, operación, conservación, mantenimiento, rehabilitación y ampliación de los servicios de suministro de agua potable, drenaje y tratamiento de aguas residuales, dentro de los limites de las poblaciones de su circunscripción territorial.
+XX. Organismo operador: la dependencia o entidad paramunicipal, pública o privada municipal o intermunicipal, descentralizada o desconcentrada, bajo la denominación de sistema municipal o el que se le asigne, que en los términos de la presente ley tiene la responsabilidad de organizar y tomar a su cargo, la administración, operación, conservación, mantenimiento, rehabilitación y ampliación de los servicios de suministro de agua potable, drenaje y tratamiento de aguas residuales, dentro de los límites de las poblaciones de su circunscripción territorial.
 
 XXI. Red primaria: el conjunto de obras desde el punto de captación de las aguas hasta los tanques de regulación del servicio. A falta de éstos, se considerarán las obras primarias hasta la línea general de distribución del servicio.
 
@@ -421,9 +421,9 @@ X.- En general, realizar todos aquellos actos y operaciones autorizados por esta
 
 El Presidente del Consejo, tendrá las atribuciones siguientes:
 
-I.-Convocar a los miembros del Consejo, al Gerente y al Comisario a las sesiones ordinarias y extraordinarias que se celebren;
+I.- Convocar a los miembros del Consejo, al Gerente y al Comisario a las sesiones ordinarias y extraordinarias que se celebren;
 
-II.-Dirigir las sesiones y declarar resueltos los asuntos que en ellas se traten;
+II.- Dirigir las sesiones y declarar resueltos los asuntos que en ellas se traten;
 
 III.- Proponer al Consejo Directivo una terna de candidatos para la designación del Gerente del Sistema;
 
@@ -839,9 +839,9 @@ Mientras no se instalen los medidores a que se refiere este Artículo las cantid
 
 En caso de mora por parte de los usuarios en el pago de dos meses de cuota o tarifa establecida para los servicios de agua potable, podrá limitárseles el suministro a la cantidad de agua equivalente a la cuota mínima establecida en la tarifa respectiva; si la mora en el pago es de tres meses, se suspenderá totalmente el suministro de agua, sin perjuicio de que el organismo operador efectúe el cobro de los adeudos, a través del procedimiento administrativo de ejecución.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
 
-No obstante lo previsto en el párrafo primero del presente artículo, no podrá suspenderse el suministro de agua en los casos que se trate de edificios destinados a la prestación de servicios asistenciales, o en los que por razones de salud pública o seguridad no sea conveniente proceder a la suspensión, sin que lo anterior signifique que la obligación de realizar el pago del servicio de agua no sea exigible.
+No obstante lo previsto en el párrafo primer (sic) del presente artículo, no podrá suspenderse el suministro de agua en los casos que se trate de edificios destinados a la prestación de servicios asistenciales en los términos de la legislación aplicable o médicos, ni en las escuelas públicas de nivel básico; así como en los inmuebles donde, por razones de salud pública o por tratarse de centros de reinserción social o para detención preventiva, no sea conveniente proceder a la suspensión, sin que lo anterior signifique que la obligación de realizar el pago del servicio de agua no sea exigible.
 
 El cargo por reconexión, tratándose de servicio doméstico, no podrá exceder de cinco veces el salario mínimo diario vigente en el Estado y sólo podrá aplicarse si en el domicilio se ha cortado físicamente el servicio. Lo recaudado por estos cargos se aplicará en el área administrativa de cultura del agua del organismo operador.
 
@@ -1146,3 +1146,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 64.- SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 86 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
